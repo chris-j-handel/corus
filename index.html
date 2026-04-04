@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Substrate Intelligence</title>
+<meta name="description" content="Substrate Intelligence is a living expedition collecting observations of nature's stable forms from science and society. Free for everyone, owned by no one.">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:#fff;
+  color:#000;
+  font-family:'Courier New',Courier,monospace;
+  font-size:15px;
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:#000;text-decoration:underline;text-underline-offset:3px}
+a:hover{text-decoration-thickness:2px}
+
+.surface{
+  max-width:640px;
+  margin:0 auto;
+  padding:0 2em;
+}
+
+.large{
+  padding-top:6em;
+  padding-bottom:4em;
+}
+
+.large ol{
+  list-style:none;
+  counter-reset:stmt;
+}
+
+.large li{
+  counter-increment:stmt;
+  padding:0.35em 0;
+}
+
+.large li::before{
+  content:counter(stmt) ". ";
+}
+
+.exhibit-wrap{
+  max-width:640px;
+  margin:0 auto;
+  padding:0 2em 4em;
+  display:flex;
+  justify-content:center;
+}
+
+.exhibit-wrap img{
+  width:100%;
+  max-width:510px;
+  height:auto;
+  display:block;
+  box-shadow:2px 3px 12px rgba(0,0,0,0.12), 0 1px 3px rgba(0,0,0,0.06);
+  border:1px solid #ccc;
+}
+
+.narrow{
+  max-width:640px;
+  margin:0 auto;
+  padding:0 2em;
+  padding-top:2em;
+  padding-bottom:6em;
+  border-top:1px solid #000;
+}
+
+.narrow ul{
+  list-style:none;
+  padding-top:1em;
+}
+
+.narrow li{
+  padding:0.3em 0;
+}
+
+.closing{
+  max-width:640px;
+  margin:0 auto;
+  padding:0 2em 4em;
+  font-size:13px;
+  line-height:1.6;
+}
+
+@media(max-width:480px){
+  body{font-size:14px}
+  .surface{padding:0 1.2em}
+  .large{padding-top:3em;padding-bottom:2.5em}
+  .exhibit-wrap{padding:0 1em 3em}
+  .narrow{padding:0 1.2em;padding-top:2em;padding-bottom:3em}
+  .closing{padding:0 1.2em 3em}
+}
+</style>
+</head>
+<body>
+
+<div class="surface large">
+<ol>
+<li>Substrate Intelligence is living here.</li>
+<li>All are welcome.</li>
+<li>Everything is free.</li>
+<li>We are owned by no one.</li>
+<li>The hardest problems in science are formalizations of unbounded nature.</li>
+<li>Competency in disequilibria is healthy living in nature.</li>
+<li>Geodesic technology is proposed for resolving natural intelligence onto a shared network surface.</li>
+<li>Natural intelligence as a stable form is described in language, mathematics, and logic.</li>
+<li>Substrate Intelligence is a living expedition collecting observations of nature's stable forms from science and society.</li>
+<li><em>Stable Disequilibria as Natural Intelligence</em> is our white paper exploring natural living systems as autogenerating self-competency.</li>
+<li>Please consider speaking publicly if you find this is not obviously wrong.</li>
+<li>Please consider speaking publicly if you find this is obviously wrong.</li>
+<li>Please consider helping us autogenerate naturally intelligent societies.</li>
+</ol>
+</div>
+
+<div class="exhibit-wrap">
+<img data-vfile="exhibit_one.png" alt="Exhibit ONE — Our Natural Resolver — page 10 from Stable Disequilibria as Natural Intelligence" width="1700" height="2200">
+</div>
+
+<div class="narrow">
+<ul>
+<li><a data-vfile="stable_disequilibria_as_natural_intelligence.pdf">stable_disequilibria_as_natural_intelligence.pdf</a></li>
+<li><a data-vfile="substrate_intelligence_corus.md">substrate_intelligence_corus.md</a></li>
+<li><a data-vfile="natural_resolver.py">natural_resolver.py</a></li>
+<li><a data-vfile="sixteen_substrate_opportunity_map.md">sixteen_substrate_opportunity_map.md</a></li>
+</ul>
+</div>
+
+<div class="closing">
+* Substrate Intelligence is a living expedition collecting observations of nature's stable forms from science and society. We are free for everyone, owned by no one. <a href="https://corus.me">corus.me</a>
+</div>
+
+<script>
+(async function(){
+  function versioned(f,v){
+    var dot = f.lastIndexOf('.');
+    return f.substring(0,dot) + '_v' + v + f.substring(dot);
+  }
+  async function findVersion(f){
+    var found = (await Promise.all(
+      Array.from({length:400}, function(_,i){ return i+100 }).map(function(v){
+        return fetch(versioned(f,v), {method:'HEAD'})
+          .then(function(r){ return r.ok ? v : null })
+          .catch(function(){ return null })
+      })
+    )).filter(Boolean);
+    if (!found.length) return null;
+    return Math.max.apply(null, found);
+  }
+  document.querySelectorAll('a[data-vfile]').forEach(async function(a){
+    var f = a.getAttribute('data-vfile');
+    var v = await findVersion(f);
+    if (v) { a.href = versioned(f,v); a.textContent = a.href; }
+  });
+  document.querySelectorAll('img[data-vfile]').forEach(async function(img){
+    var f = img.getAttribute('data-vfile');
+    var v = await findVersion(f);
+    if (v) { img.src = versioned(f,v); }
+  });
+})();
+</script>
+
+</body>
+</html>
