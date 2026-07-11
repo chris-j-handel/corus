@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reading — Natural Intelligence</title>
+<style>
+  :root{--paper:#F7F6F1;--ink:#22241F;--muted:#6E7167;--rule:#E2E0D6;--accent:#3A6B5E;--panel:#FCFBF8;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,serif;font-size:18px;line-height:1.7}
+  .wrap{max-width:720px;margin:0 auto;padding:36px 24px 100px}
+  a{color:var(--accent)}
+  .top{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;
+       padding-bottom:16px;border-bottom:1px solid var(--rule)}
+  .crumb{font-family:system-ui,sans-serif;font-size:13px;color:var(--muted);text-decoration:none}
+  .crumb:hover{color:var(--accent)}
+  .btns{display:flex;gap:8px;flex-wrap:wrap}
+  .btn{font-family:system-ui,sans-serif;font-size:13.5px;font-weight:600;cursor:pointer;
+       border:1px solid var(--rule);background:#fff;color:var(--ink);border-radius:6px;
+       padding:8px 14px;display:inline-flex;align-items:center;gap:6px;text-decoration:none}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
+  .btn.current{background:var(--accent);color:#fff;border-color:var(--accent);cursor:default}
+  .btn.copied{background:#2f6f4f;color:#fff;border-color:#2f6f4f}
+  .hint{font-family:system-ui,sans-serif;font-size:12.5px;color:var(--muted);margin:12px 0 26px}
+  .status{color:var(--muted);font-style:italic;padding:40px 0}
+  .doc h1{font-size:34px;line-height:1.1;margin:.3em 0 .5em;font-weight:600}
+  .doc h2{font-size:25px;margin:1.7em 0 .4em;font-weight:600}
+  .doc h3{font-size:20px;margin:1.4em 0 .3em;font-weight:600}
+  .doc hr{border:none;border-top:1px solid var(--rule);margin:2em 0}
+  .doc em{font-style:italic}.doc strong{font-weight:600}
+  .doc table{border-collapse:collapse;width:100%;margin:1.4em 0;font-family:system-ui,sans-serif;font-size:15px}
+  .doc th,.doc td{border-bottom:1px solid var(--rule);padding:8px 10px;text-align:left;vertical-align:top}
+  .doc th{border-bottom:1.5px solid var(--ink);font-weight:600}
+  .doc code{font-family:ui-monospace,monospace;background:#EFEEE7;padding:.1em .35em;border-radius:3px;font-size:.85em}
+  .doc blockquote{border-left:2px solid var(--accent);margin:1.4em 0;padding-left:18px;color:var(--muted);font-style:italic}
+  .doc pre{background:#20231F;color:#E7E7DF;padding:20px 22px;border-radius:5px;overflow-x:auto;font-size:14px;line-height:1.55}
+  .doc pre code{background:none;padding:0;color:inherit}
+  @media(max-width:560px){.wrap{padding:26px 18px 80px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <a class="crumb" href="index.html">&larr; All writings</a>
+    <div class="btns">
+      <span class="btn current">Read</span>
+      <button class="btn" id="copyBtn" onclick="copyText()">Copy text</button>
+      <a class="btn" id="dlBtn" download>Download</a>
+    </div>
+  </div>
+  <p class="hint" id="hint">Copy text places the full text on your clipboard — ready to paste into an AI chat.</p>
+  <div id="status" class="status">Loading…</div>
+  <article class="doc" id="doc"></article>
+</div>
+
+<script src="marked.min.js"></script>
+<script>
+  var TEXT = "";                         // holds the raw file text for copying
+  var m = location.search.match(/[?&]file=([^&]+)/);
+  var enc = m ? m[1] : "";               // already-encoded filename from the link
+  var name = enc ? decodeURIComponent(enc) : "";
+  var isCode = /\.py$/i.test(name);
+
+  var dl = document.getElementById('dlBtn');
+  dl.href = enc; dl.setAttribute('download', name);
+
+  function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+  function show(){
+    if(!enc){ fail("No file was specified."); return; }
+    fetch(enc).then(function(r){
+      if(!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function(t){
+      TEXT = t;
+      document.getElementById('status').style.display = 'none';
+      var doc = document.getElementById('doc');
+      if(isCode){
+        doc.innerHTML = '<pre><code>' + esc(t) + '</code></pre>';
+        document.getElementById('hint').textContent =
+          'Copy text places the full code on your clipboard — ready to paste into an AI chat.';
+      } else {
+        doc.innerHTML = marked.parse(t);
+      }
+      var h1 = doc.querySelector('h1');
+      document.title = (h1 ? h1.textContent : name) + ' — Natural Intelligence';
+    }).catch(function(){
+      fail("Couldn't load this file. If you opened this page on its own, open it from corus.me instead.");
+    });
+  }
+  function fail(msg){
+    var s = document.getElementById('status');
+    s.style.display = 'block'; s.textContent = msg;
+  }
+  function copyText(){
+    if(!TEXT) return;
+    navigator.clipboard.writeText(TEXT).then(function(){
+      var b = document.getElementById('copyBtn');
+      b.textContent = 'Copied ✓'; b.classList.add('copied');
+      setTimeout(function(){ b.textContent = 'Copy text'; b.classList.remove('copied'); }, 1600);
+    });
+  }
+  show();
+</script>
+</body>
+</html>
