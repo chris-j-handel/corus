@@ -55,52 +55,81 @@
 
 <script src="marked.min.js"></script>
 <script>
-  var TEXT = "";                         // holds the raw file text for copying
+  var API = "https://api.github.com/repos/chris-j-handel/corus/contents";
+  var TEXT = "";
   var m = location.search.match(/[?&]file=([^&]+)/);
-  var enc = m ? m[1] : "";               // already-encoded filename from the link
-  var name = enc ? decodeURIComponent(enc) : "";
-  var isCode = /\.py$/i.test(name);
-
-  var dl = document.getElementById('dlBtn');
-  dl.href = enc; dl.setAttribute('download', name);
+  var raw = m ? decodeURIComponent(m[1]) : "";
 
   function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function fail(msg){ var s=document.getElementById('status'); s.style.display='block'; s.textContent=msg; }
 
-  function show(){
-    if(!enc){ fail("No file was specified."); return; }
-    fetch(enc).then(function(r){
-      if(!r.ok) throw new Error(r.status);
-      return r.text();
+  function paint(t, name){
+    TEXT = t;
+    document.getElementById('status').style.display = 'none';
+    var doc = document.getElementById('doc');
+    if(/\.py$/i.test(name)){
+      doc.innerHTML = '<pre><code>' + esc(t) + '</code></pre>';
+      document.getElementById('hint').textContent =
+        'Copy text places the full code on your clipboard — ready to paste into an AI chat.';
+    } else {
+      doc.innerHTML = marked.parse(t);
+    }
+    var h1 = doc.querySelector('h1');
+    document.title = (h1 ? h1.textContent : name) + ' — Natural Intelligence';
+  }
+
+  function setDownload(name){
+    var dl = document.getElementById('dlBtn');
+    dl.href = encodeURIComponent(name); dl.setAttribute('download', name);
+  }
+
+  // resolve a prefix (name up to _v...) to the newest matching file in the repo
+  function resolvePrefix(prefix){
+    return fetch(API, {headers:{'Accept':'application/vnd.github+json'}})
+      .then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(list){
+        var names = list.map(function(f){ return f.name; });
+        var pre = prefix + "_v";
+        var c = names.filter(function(n){ return n.indexOf(pre) === 0; });
+        if(!c.length) return null;
+        c.sort(function(a,b){
+          var va = parseInt(a.slice(pre.length),10)||0, vb = parseInt(b.slice(pre.length),10)||0;
+          if(va !== vb) return vb - va;
+          return a < b ? 1 : (a > b ? -1 : 0);
+        });
+        return c[0];
+      });
+  }
+
+  function tryRender(name){
+    setDownload(name);
+    fetch(encodeURIComponent(name)).then(function(r){
+      if(!r.ok) throw 0; return r.text();
     }).then(function(t){
-      TEXT = t;
-      document.getElementById('status').style.display = 'none';
-      var doc = document.getElementById('doc');
-      if(isCode){
-        doc.innerHTML = '<pre><code>' + esc(t) + '</code></pre>';
-        document.getElementById('hint').textContent =
-          'Copy text places the full code on your clipboard — ready to paste into an AI chat.';
-      } else {
-        doc.innerHTML = marked.parse(t);
-      }
-      var h1 = doc.querySelector('h1');
-      document.title = (h1 ? h1.textContent : name) + ' — Natural Intelligence';
+      paint(t, name);
     }).catch(function(){
-      fail("Couldn't load this file. If you opened this page on its own, open it from corus.me instead.");
+      // self-heal: derive the prefix and follow it to the current version
+      var prefix = name.replace(/_v\d.*$/,'').replace(/\.(md|py)$/i,'');
+      resolvePrefix(prefix).then(function(found){
+        if(found && found !== name){ tryRender(found); }
+        else fail("Couldn't load this file. If you opened this page on its own, open it from corus.me instead.");
+      }).catch(function(){
+        fail("Couldn't load this file. If you opened this page on its own, open it from corus.me instead.");
+      });
     });
   }
-  function fail(msg){
-    var s = document.getElementById('status');
-    s.style.display = 'block'; s.textContent = msg;
-  }
+
   function copyText(){
     if(!TEXT) return;
     navigator.clipboard.writeText(TEXT).then(function(){
       var b = document.getElementById('copyBtn');
-      b.textContent = 'Copied ✓'; b.classList.add('copied');
+      b.textContent = 'Copied \u2713'; b.classList.add('copied');
       setTimeout(function(){ b.textContent = 'Copy text'; b.classList.remove('copied'); }, 1600);
     });
   }
-  show();
+
+  if(!raw){ fail("No file was specified."); }
+  else { tryRender(raw); }   // works for a full filename OR a bare prefix
 </script>
 </body>
 </html>
