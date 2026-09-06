@@ -1,4 +1,4 @@
-/* corus.me · v345a */
+/* corus.me · v347 */
 (function (root) {
   'use strict';
   const small = 'ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN ELEVEN TWELVE THIRTEEN FOURTEEN FIFTEEN SIXTEEN SEVENTEEN EIGHTEEN NINETEEN'.split(' ');
@@ -20,7 +20,7 @@
     return Number.isSafeInteger(n) && n > 0 ? n : null;
   }
   function safeFilename(name) {
-    return typeof name === 'string' && /^[A-Za-z0-9][A-Za-z0-9_(). -]*\.(md|py|zip)$/i.test(name) && !name.includes('..');
+    return typeof name === 'string' && /^[A-Za-z0-9][A-Za-z0-9_()',. -]*\.(md|py|zip)$/i.test(name) && !name.includes('..');
   }
   function identify(filename) {
     if (!safeFilename(filename)) throw new Error('Invalid filename');
@@ -39,18 +39,36 @@
       id = 'corus'; title = 'Natural Intelligence Corus';
     } else if (/^Natural_Networking_Test_Kit_v/i.test(filename) && format === 'zip') {
       id = 'networking-kit'; title = 'Natural Networking Test Kit';
-    } else throw new Error('Unlisted file type');
+    } else {
+      // Any other versioned file is listed too, after the Corus, under its own name.
+      const stem = filename.replace(/_v\d+[a-z]*(?:\(\d+\))?\.(md|py|zip)$/i, '');
+      id = stem.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+      if (!id) throw new Error('Unlisted file type');
+      title = stem.replaceAll('_', ' ');
+    }
     return { id, filename, number, word, title, subtitle: null, version: 'v' + version[1], format };
+  }
+  // v346c > v346 > v343: the number first, then any letter suffix.
+  function compareVersions(a, b) {
+    const parse = v => { const m = /^v?(\d+)([a-z]*)$/i.exec(String(v)) || []; return [Number(m[1]) || 0, (m[2] || '').toLowerCase()]; };
+    const [na, sa] = parse(a), [nb, sb] = parse(b);
+    return na - nb || (sa < sb ? -1 : sa > sb ? 1 : 0);
   }
   function compareFiles(a, b) {
     const rank = f => f.id === 'natural-intelligence' ? 0 : f.number !== null ? 1 : f.id === 'corus' ? 2 : 3;
     return rank(a) - rank(b) || (a.number || 0) - (b.number || 0);
   }
+  // Files without a _v version suffix, or with names the site cannot use, are left out.
+  // When two versions of the same document are present, the newest is listed.
   function selection(names) {
     if (!Array.isArray(names)) throw new Error('Invalid file list');
-    const records = names.map(identify), ids = new Set(records.map(f => f.id));
-    if (ids.size !== records.length || !ids.has('natural-intelligence')) throw new Error('Duplicate or missing file');
-    return records.sort(compareFiles);
+    const latest = new Map();
+    for (const name of names) {
+      let f; try { f = identify(name); } catch { continue; }
+      const current = latest.get(f.id), newer = compareVersions(f.version, current ? current.version : '');
+      if (!current || newer > 0 || (newer === 0 && f.filename.length < current.filename.length)) latest.set(f.id, f);
+    }
+    return Array.from(latest.values()).sort(compareFiles);
   }
   function metadata(text, record, strict = true) {
     const heading = /^# (.+)$/m.exec(text), subtitle = heading && /^\*\*(.+)\*\*\r?$/m.exec(text.slice(heading.index + heading[0].length));
@@ -77,7 +95,7 @@
     if (p !== offset + size) throw new Error('Unavailable');
     return names;
   }
-  const api = { exhibitNumber, safeFilename, identify, compareFiles, selection, metadata, zipContents };
+  const api = { exhibitNumber, safeFilename, identify, compareVersions, compareFiles, selection, metadata, zipContents };
   if (typeof module === 'object' && module.exports) module.exports = api;
   root.Corus = api;
   if (typeof document === 'undefined') return;

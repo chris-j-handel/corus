@@ -1,0 +1,50 @@
+# Keeps files.json, index.html and read.html in step with the files in the repo.
+# Runs build.js after every push to main and commits the result if anything changed.
+# GitHub Pages then redeploys the site as usual, a minute or two later.
+name: Update file list
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# If several files are pushed in quick succession, only the latest run needs to finish.
+concurrency:
+  group: update-file-list
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Rebuild the file list and commit it
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node build.js
+            git add files.json index.html read.html
+            if git diff --cached --quiet; then
+              echo "File list already up to date."
+              exit 0
+            fi
+            git commit -m "Update file list"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "main moved while building; rebuilding from the new tip (attempt $attempt)."
+          done
+          exit 1
