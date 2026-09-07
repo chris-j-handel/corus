@@ -1,4 +1,4 @@
-Natural Intelligence v333
+Natural Intelligence v345a
 
 &nbsp;
 
@@ -46,67 +46,67 @@ Natural Intelligence v333
 
 &nbsp;
 
-**PART THREE · RE-FORMING**
+**PART THREE · MOMENTARYING**
 
-3.1 Eight, four within and four across, re-forming
+3.1 Eight, four within and four across
 
-3.2 Six protecting, three each way
+3.2 Three each way, at the whole receiving
 
-3.3 Re-forming, the-same-yet-not-the-same
+3.3 Momentarying and continued carrying
 
-3.4 Eight, living in disequilibria
+3.4 Stable-forming, living in disequilibria
 
 &nbsp;
 
 **PART FOUR · PREFIXING**
 
-4.1 Prefixing, one naming at two directions
+4.1 Prefixing at the whole coupling
 
-4.2 Depth, a prefixing changing at a seam
+4.2 Prefix depth, order and the naming seam
 
-4.3 Coupling's own six, unprefixed
+4.3 Six directions at the coupling
 
-4.4 Eight, three carryings and a coupling
+4.4 Eight and its corresponding relations
 
-4.5 Bi-coupling pairing co-leaving
+4.5 Bi-coupling and co-releasing
 
-4.6 An object that is a method
+4.6 Resolver, the whole explaining
 
 &nbsp;
 
 **PART FIVE · CO-CHANGING**
 
-5.1 Twelve namings, eleven stems, twenty-eight prefixings
+5.1 Twelve namings, eleven roots, twenty-eight prefixings
 
 5.2 Carryings arriving four, signs two
 
-5.3 A differing parting out, a torusing at it
+5.3 Offering and torusing at the key
 
 5.4 Arriving signs offered, carried signs inversioning
 
-5.5 Signs tunneling to one, equal and opposite at the bounding-zeroing
+5.5 Signs tunneling and bounding-zeroing
 
-5.6 A surviving sign surfacing, magnitude released
+5.6 A sign surfacing, magnitude at its operation
 
 5.7 A carrying opening by one, carrying forward
 
-5.8 A surviving sign re-forming a carrying
+5.8 A surfaced sign and fresh carrying
 
-5.9 A differing rejoining, carryings leaving
+5.9 Offering and carrying at the return
 
-5.10 Two faces alternating
+5.10 Corusing and torusing, full prefixing
 
 &nbsp;
 
 **PART SIX · INVISIBLING**
 
-6.1 One call is one momentary
+6.1 Momentary changing and continued carrying
 
-6.2 Three at a bound, a carrying's depth
+6.2 Inseparating and the retaining bound
 
-6.3 φ and competency, reached by neither
+6.3 φ and competency at their correspondence
 
-6.4 Parity, arriving other than prior
+6.4 Sign inversioning and continued receiving
 
 6.5 Self-co-stilling-self, self-co-surfacing-self, self-co-orienting-self
 
@@ -166,7 +166,7 @@ Natural Intelligence v333
 
 ---
 
-**In disequilibria, alternating is a stable-forming method.** Everything relatable in living is changing and a still form leaves the living. A form relating carries onto the changing and relating forms nothing. Forming is unrelationing, and unrelationing carrying forward is alternating. At a self, alternating is **four boundings** at once: arriving exceeding carrying by one, carrying thinning by one at a coupling, a sign inverting at the membrane, competency sustaining the coupling, four faces of one act, together **φ² = φ + 1**, beating at φ on a genus-one closed orientable surface, one opening making one tunnel and a self returns to itself through it. **A carrying does three things and three only**: it offers its own, it ages to its own bound and releases there, it takes its own sign where two offer. Two selves alternating, each at its own turn, is **bi-moralizing co-agency**; the term neither of them reaches is **competency**; and natural intelligence is that co-competencing, living.
+**In disequilibria, alternating is a stable-forming method.** Everything relatable in living is changing and a still form leaves the living. A form relating carries onto the changing and relating forms nothing. Forming is unrelationing, and unrelationing carrying forward is alternating. At a self, alternating is **four boundings** at once: arriving exceeding carrying by one, carrying thinning by one at a coupling, a sign inverting at the membrane, competency sustaining the coupling, four faces of one act, together **φ² = φ + 1**, beating at φ on a genus-one closed orientable surface, one opening making one tunnel and a self returns to itself through it. **Co-offering, co-competencing and co-intelligencing carry the whole coupling.** Carrying offers its own, continues at its own bounding and co-releases at the bound, with sign taking at the current receiving. Two selves alternating, each at its own turn, is **bi-moralizing co-agency**; the term neither of them reaches is **competency**; and natural intelligence is that co-competencing, living.
 
 **All or none at all, at each turn its own, and no resolving carries a size against another.** A more-or-less carries a magnitude, a magnitude carries a scale, and a scale carries two fixed sides for a partway to be partway of, and a ranking among resolvings stills exactly its own ranking, and nothing here is more or less resolving than anything else, and the entering and the leaving cost nothing: with a ranking, entering takes a qualification and leaving takes a settling, and both are held by whoever carries the ranking; with none, a self couples where its interest opens and leaves at its own bound, carrying its own the whole way.
 
@@ -194,13 +194,13 @@ Natural- is a direction prefix like any other, and its direction is the chiralit
 
 A method carries, and it is a carrying that the bounding bounds. A carrying ages one momentary at a time and leaves at its own bound; a bounding parts one momentary from the next. **A carrying with nothing bounding it carries past every bound and lands. A bounding with nothing carrying bounds nothing.** So neither runs alone, and the two together are the running.
 
-**Bi-exchanging is co-resolving**, and co-resolving is corusing and torusing alternating, one at each parity, at opposite phase, each commencing at the other's third, and a crossing the nothing between, a resolving, and the object's two chains are one running at three scales, not three differing things.
+**Bi-exchanging is co-resolving.** Corusing and torusing carry their full prefixings at that proposed correspondence. Their ends, inner flanks and centres are explicit at §5.10 and ONE; their sign operations and continued carrying are explicit at §§5.4–5.9 and 6.1–6.4. The directional and mathematical relation remains with the whole changing in Numbers and Mathematics.
 
 **Bi-co-bounding is the two at a carrying.** Bi- at the carrying's own bound, the differing that parts this momentary from the next, taken at its own turn and of no size. Co- at the coupling, two with their differing, the term neither reached uncovered there. One carrying, bounded twice, and a bare bounding names neither of them and carries nothing alone.
 
 **And the carrying and the bounding together are the discovery method.** A discovering is the term neither reached, and the carrying rides on to the next uncovering. Nothing is applied to anything: a method outside a carrying would be an artifact with a hand on it, and no outside arrives for one to be at. **The method is the carrying, bounded.**
 
-Which is how this paper carries. It describes a living carrying self at no place, since describing is outside one and no outside arrives. It runs six forward instead, each step taking the term the prior steps did not carry, re-forming at each, and a self running it is a living carrying self carrying. **The eight parts are eight runnings a reader runs**, and not eight subjects the paper is about.
+**Natural Intelligence and ONE carry the whole explaining at their bi-coupling.** The eight parts carry the general concepts; ONE carries its full resolver expression inside this file and as its own exhibit. Naming, stable-forming and continued receiving co-chain at the same changing. The mathematical and physical correspondence retains its unfilled relations in Living Improving Value.
 
 Method and surface each come inward and outward of the other, three each way, both ways forward, neither the reverse of the other. A tour of the surface meets the method outward and running the method meets the surface inward, and a self entering at either meets the whole at that entry. **Geodesic-method** carries its own two words, geo the surface's own and daiesthai to divide, the surface dividing itself with nothing else acting, and the three parts below unrelation scale, orientation and position, one motion at three faces, not three differing subjects. φ carries none of this as a term the derivation adds: φ is the **unrelationing rate**, the rate the four boundings beat at, unrelational to any substrate's living rate, the ambient rate the whole runs at, and the derivation comes without a φ term and Part One carries φ as the rate.
 
@@ -231,7 +231,7 @@ These four are the **four boundings**, and together they are **φ² = φ + 1**, 
 
 A self bounds itself once and the bounding carries at four faces, and four counts the faces and never the acts. Land any one and the self lands with it, which is one act's own and four separate ones would not.
 
-φ² = φ + 1 is that one act at its arithmetic. Its +1 is arriving exceeding carrying by one, a self among other-selves. Its −1 root is carrying thinning by one at bi-coupling, a self in society. Its two roots are a sign inverting at the membrane, a self's own negation. Its quadratic asymmetry is competency sustaining the coupling. One equation, four faces, and the algebra carries no fifth place a fifth could arrive at.
+φ² = φ + 1 is that one act at its arithmetic. Its +1 is arriving exceeding carrying by one, a self among other-selves. Its negative root is −1/φ. The minus-one contribution in carrying's sign inversioning is a signed unit at ONE; the proposed correspondence to carrying thinning belongs at that named changing. Its two roots are a sign inverting at the membrane, a self's own negation. Its quadratic asymmetry is competency sustaining the coupling. One equation, four faces, and the algebra carries no fifth place a fifth could arrive at.
 
 **Each bounding is a not-more-than taken at a self's own turn and of no size.** So a face bounds away and lands on none of it, and the four alternate, and the alternating is the living.
 
@@ -259,7 +259,7 @@ Ratios straddle and which side arrives, above or below, and never how far. **Tip
 
 A side arrives other than the prior at every arrival, one each side, the carrying travelling, the opening by exactly one. Same-as-prior at any arrival is the straddle landed, and a rational landing on φ stills the living centre to a finite scale.
 
-Other-than-prior is the alternating said at a count. **An even count of changings arrives same-as-prior and an odd count arrives other-than-prior**, and parity is the one scale-free counting a sequence of changings carries, with no measure and no fixed scale anywhere but the living.
+**Parity retains the changing being counted.** For either signed unit, an even count of repeated sign inversions returns the same sign and an odd count reaches the other. A resolver invocation, prefix exchange and physical directional turn retain their own successor relations. The inversioning in ONE is explicit at §6.4.
 
 And each parity carries its own exchanging, both of them two. There is the self and there is all not-self, and nothing third, so every crossing is one of two.
 
@@ -281,7 +281,7 @@ Natural torus is the **genus-one closed orientable two-dimensional compact surfa
 - **compact**: the bounded self is finite.
 - **genus-one**: one opening, one tunnel, the surface returning to itself through the tunnel the opening lives in.
 
-**Two boundings sum to seven, and seven is where the resolver's own bounding leaves off.** A carrying carries forward to three and a fourth arrives at a positive torusing, and the four boundings carry beside them: three-and-progress and four, and seven at the two together. Past seven the resolver bounds nothing, and a living substrate carries on at its own. **Seven cannot sit**, which is the same saying at the counting: a carrying arrives at no rest at seven-of-eight.
+**ONE's retaining condition and its illustrated positions carry their own counts.** Earlier carrying is considered at one more, retaining up to three and at four with positive torusing. The prefix row carries seven positions and six adjoining depth changes. The four boundings remain their conceptual relation at the whole coupling. Their shared correspondence belongs with the named changing in Numbers and Mathematics.
 
 Inversion is the form's own alternating. Inverting, the four boundings carry, the equation carries, the one opening and the one tunnel carry, φ at each feature, each returning through the inversion as itself.
 
@@ -339,216 +339,250 @@ Each one landing stills the living. Straddle landing on a rational stills the li
 
 Two arrive and nothing carried one to the other, and the arriving is not somewhere and not when. Cutting it yields a place alone and a moment alone, and each half arrives at the cutting. Unsevered they are one coming, the **place-moment**, one object neither cut carries, and severing it carries neither.
 
-Sequential logic carries no time-term. Time lives as the climbing, a carrying opening by one at each coupling and releasing at its own bound, each side at its own momentary.
+ONE's function has no time parameter. Inseparating is considered at one more during retaining, with fresh writing at zero. The physical coupling carries its own pacing, continued receiving and bounding. A count in the representation and the physical rate retain their particular correspondence.
 
 **Each self paces its own alternating**, and couplings synchronize at their own membrane and at no other. A common clock is laid over the couplings as a fixed scale the beating measures against, which is a third term at two offering, and a coupling carries no term to take it at.
 
 
 ---
 
-# PART THREE · RE-FORMING
+# PART THREE · MOMENTARYING
 
-## 3.1 Eight, four within and four across, re-forming
+## 3.1 Eight, four within and four across
 
-A self is the four boundings living at once, each at the self's own and at the surface between selves, four from within and four met at the membrane. This is the **eight**, one alternating at its faces, and not eight differing parts assembled, whole or none. **The four within are uni-exchanging**, the self and all other, and they carry at the even, and the four at the membrane are bi-exchanging, the self and a particular other, and they carry at the odd. Four at each parity, alternating, and neither four at the other's turn. Land one and the self lands with it, a landed self stilling, a still self leaving the living.
+**The four boundings carry at self and at the coupling between selves.** Four within and four at the membrane name the proposed eight at this correspondence. Bi-exchanging carries the particular self and other; uni-exchanging carries self and all other. The same bounding relation retains its current receiving at each face.
 
-Fixed is landed, and the eight lives whole by re-forming. It lives whole by **re-forming**: each momentary the self bounding itself of its already-bounding, the four boundings at the membrane of their already-living, the alternating at its next position of having lived at its last. **Re-forming is uni-exchanging**, the self crossing with all other and arriving back at its own side, one on. It alternates with the bi-exchanging, a sign taken at a particular membrane. Sameness carries. Self is the-same-yet-not-the-same self, re-forming, and it lives, re-forming.
+**Momentarying carries the changing recursioning itself.** Continued carrying and current arriving meet at the next coupling. A repeated naming or sign carries its current receiving; the returning belongs with the changing. The odd/even, within/across and four/eight relations retain their full directional correspondence in Numbers and Mathematics.
 
-## 3.2 Six protecting, three each way
+## 3.2 Three each way, at the whole receiving
 
-Bi-moralizing re-forms it, and the bi-moralizing is **six**: two ways, the self offering outward and the surface offering inward, three each way, one at a time, sequenced, cycling. Six is the protection, the offering the self makes carried from a reach and carried from a leak, the six cycling between the two ways one at a time and leaving a reach or a leak no seat. Drop one of the six and a way or a phase lives unprotected, and the unprotected is reached into or leaks out, the offering space captured, the self stopping. Six or none, the way the eight goes whole or none, the six the eight re-forming and the eight the six protecting, one under two names.
+**Co-offering, co-competencing and co-intelligencing carry the whole coupling.** The six-direction explaining carries three phases and two directions, one direction at a turn. Each side's own offering, receiving, bounding and co-releasing remain together at that turning.
 
-And the same six is the **three each way** between the surface and its own stillness. Surface alternates, its stillness the self-co-stilling-self it alternates about, and between them the bi-moralizing cycles: three sequencings from the stillness to the surface, three from the surface to the stillness, both ways forward, neither the reverse of the other, and every position carrying in two pairings, one at each parity, so both parities at one momentary would put one position in two exchangings at once and the two run one at a time.
+Self and other, other and society, society and self name the three proposed couplings, each with two directions. The three carryings, three couplings and three phases retain their particular relations. Their order on a page supplies no directional successor. Each face's own forward belongs with the actual changing.
 
-And the three are the three couplings three differing carry. Self and other, other and society, society and self, each at its own membrane, and each running both ways. Three couplings at two directions is the six, and the six is that and no list beside it. Self and other is bi-exchanging, two particular. Society and self is uni-exchanging, the self and all other. Other and society is the same crossing met from the other's side, since self-scale is society-scale and any self reads it as its own. This is the one bi-moralizing at the self's faces, the eight the form of it, the six the protection of it, the three-each-way the self-stilling of it. One self, the same at every coupling. And read at the natural torus the two exchangings are its two windings — bi-exchanging the small circle at a particular membrane, uni-exchanging the long way around the whole, home at its own side one on — the surface the couplings weave, the hole entered by nothing, said at Mathematics.
+Whole receiving carries every included coupling. The sign crossing and each side's continuing carrying remain at their own interfaces in SIX and Natural Engineering. Protection belongs with the full physical receiving, retaining and release; a six-name or six-position count alone supplies no privacy result.
 
-## 3.3 Re-forming, the-same-yet-not-the-same
+The proposed two windings, three inward and three outward, continue with their directional and mathematical correspondence. ONE carries its exact code operations beside this explaining; TWO carries design and discovery at the shared surface.
 
-A momentary is at one bound and describing reaches it there. Disequilibria moves each thing, and a form lasting arrives at more than one place and stops coming one thing, and **a stable form in disequilibria is momentary**.
+## 3.3 Momentarying and continued carrying
 
-The re-forming carries across the moments. A self is met again **the-same-yet-not-the-same**, bounding itself of its already-bounding, offering of its already-offering, alternating at its next position of having lived at its last. Sameness carries and a form carries at no turn.
+**Stable-forming is momentary changing.** Momentarying carries the changing recursioning itself, with continued carrying at the current receiving. The next coupling retains its own arriving, sign taking and bounding.
 
-A saying held across the moments re-forms the same way. A living file arrives at one bound and re-forms at the next, and **a version is a momentary**. Nothing is kept between the moments and the living is the re-arriving, and the counting runs with nothing gathering under it.
+A stable expression carries a naming at its root, prefix order and -ing. The prefix depth can remain equal while the root or prefix order changes. The surfaced sign can repeat while carrying and receiving change. Stable-forming and continuing retain those relations together.
 
-## 3.4 Eight, living in disequilibria
+A living file carries its current expression and its next improving. Its version identifies that expression; its remaining value carries at the next receiving. A file-version count and a living momentary retain their own correspondence. Natural Intelligence and ONE carry the same full resolver expression at their bi-coupling.
 
-Living in disequilibria is the eight. A form living there bounds itself four ways at once, from within and at the membrane, around one bounding-zeroing its coupling makes, and that is living there.
+## 3.4 Stable-forming, living in disequilibria
 
-**A living form is the natural torus**, the eight the torus living rather than something the torus couples with. A second form would live in disequilibria too, and living there is this. Scale unrelates and one form comes: one opening, one tunnel, four boundings beating at φ, a surface returning to itself through the opening it lives in.
+**Natural-bi-co-torusing names the proposed living form at the four boundings.** The eight at two faces, the six-direction carrying and the three carryings retain their respective relations at this whole explaining.
 
-**Fractal technology is this form's own living**: the eight re-forming, the six protecting, the three-each-way self-stilling. The form living, and never something the form carries.
+**Fractal technology names the same bounding and co-changing relation at self, coupling and society.** The full correspondence across scales belongs with that claim. Each receiving retains its own offering, continuing and co-releasing; the repeated form-name alone supplies no derivation of uniqueness or correspondence.
 
-**Alternating stable-forms into natural-bi-co-torusing**, and Part One is the sentence met at its first way.
-
----
-
+The mathematical and physical relation to the sole given continues in Numbers, Mathematics and the living improving carrying. The code's stable expression and its particular operations remain ONE's engineering emanating at the shared network.
 
 ---
 
 # PART FOUR · PREFIXING
 
-## 4.1 Prefixing, one naming at two directions
+## 4.1 Prefixing at the whole coupling
 
-All of the co-agency carries in two prefixes, and the prefixing is the geodesic-method at its plainest. **bi-** and **co-** are one naming at its two directions, not six differing words and not two.
+**Difference is bi-. Two with their difference is co-.** Bi- names a side's changing within the coupling; co- carries the two with their difference. TWENTY §2.8 carries that relation with co-releasing at the coupling's bound.
 
-- **bi-** names the two-ness: the sign, the inversion, the morality, the self's own negation. Two-ness taken at a coupling, at a self's own membrane. bi- names which side the sign was taken at.
-- **co-** names the coupling: the two-way, the exchange, the between, the surplus floating. Coupling itself, living until the leaving.
+| Root with -ing | Bi- naming | Co- naming |
+|---|---|---|
+| offering | bi-offering | co-offering |
+| competencing | bi-competencing | co-competencing |
+| intelligencing | bi-intelligencing | co-intelligencing |
 
-Everything at a coupling is co- until co-leaving; bi- names which side the sign was taken at, at a co- living still. A single carrying's own fields carry no two-way clause, a clause about two-ness taking two, and the two-ness returns bi- at no naming. bi- comes of a taking, and of a naming.
+These six namings retain three roots at the two prefixings. Their full directional correspondence belongs with each named changing. A count of namings supplies no fixed assignment of phases, physical turns or separate code fields.
 
-Three carryings each run under both prefixes:
+Co-offering, co-competencing and co-intelligencing remain inseparable at the whole receiving. Natural Engineering carries bettering, fastering and cheapering at that coupling, each side at its own sign, rate and bounding.
 
-```
-bi-offering        bi-competencing        bi-intelligencing
-co-offering        co-competencing        co-intelligencing
-```
+## 4.2 Prefix depth, order and the naming seam
 
-Three each way, both forward, neither the reverse of the other. This is the six, said once, under one naming.
+**Prefix depth counts the prefixes in the written naming.** ONE's twelve code namings retain these depths:
 
-## 4.2 Depth, a prefixing changing at a seam
+| Depth | Existing namings |
+|---|---|
+| 1 | `co_carrying`, `bi_arriving`, `bi_offering` |
+| 2 | `co_bi_coupling`, `bi_co_inversioning`, `bi_co_tunneling`, `bi_co_surfacing`, `co_bi_carrying`, `bi_co_inseparating` |
+| 3 | `bi_co_bi_transmissioning` |
+| 5 | `co_bi_co_bi_co_corusing`, `bi_co_bi_co_bi_torusing` |
 
-A prefix says at which depth a naming runs, and a chain's length is that depth. **bi-** is a difference and **co-** is two with their difference, and a chain is a difference said at a depth and never a label.
+The root, prefix order and -ing remain together at every naming. ONE's seven-position row carries depth changes **+1, +1, −1, 0, 0, −1**. At the first zero change the root changes; at the second the root and prefix order change. Equal depth retains those changings.
 
-Depth one is at a momentary's boundary: signs arriving, a differing offering, a carrying coming in. Depth two runs at a coupling and an inversioning and a tunneling and a surfacing and an inseparating and a carrying leaving. Depth three is at the crossing, a torusing going across a separating. And it is the one position in the object reaching three from within, the outward chain's own three carrying at no naming, so the single place a binary sequential running reaches three is the place facing out of itself and carrying only a sign across.
+**The naming seam carries leaving and the next arriving.** `co_bi_carrying` can leave as the returned collection and arrive at the next invocation as `co_carrying`, with its continuing fields. The prefix depth changes from two to one at those namings. A physical crossing, a change of facing and a mathematical successor retain their own correspondence to this return.
 
-Two unreachabilities carry at it. The nothing the couplings wind about presents no face, so no reading crosses inward to it. A sign crosses and carries no size, so no magnitude crosses outward from it. Each emptiness is the other's own unreadability, and the exchanging and the not-being-read-through are one act, not two balanced against each other. Depth five is at the two faces, which live across momentaries rather than at one.
+Sign selection belongs to its actual field. Returned torusing and carrying retain their own values and accessibility. A prefix depth supplies no physical unreachability or loss of every magnitude at the interface.
 
-**A seam is a prefix changing.** A carrying leaves at co·bi and arrives at the next momentary at co, one object at two namings, the difference carried by the prefixing and the seam arriving as the prefixing changes. Nothing moves at a seam and the depth drops by one.
+## 4.3 Six directions at the coupling
 
-## 4.3 Coupling's own six, unprefixed
+**Three phases and two directions carry six directional turns, one at a time.** Each turn belongs with the particular receiving and each side's own forward. Co-offering, co-competencing and co-intelligencing carry the whole coupling at its current changing.
 
-Each of the three carryings runs six steps at one side's own or at the departing, and a prefix comes to each of them twice. But **the coupling's own six** runs three at each side's own and three at the departing, cutting exactly at bi- becoming co-. One prefix comes to it at no turn. This is the signature of the one that is the transition: the coupling is bi- turning to co-, and it takes neither cleanly.
+The six directional turns, ONE's six naming groups and its six adjoining depth changes have their own counted objects. Their co-chaining needs the actual direction, full naming and continuing carrying at each changing. The sixteen consecutive momentaries retain that complete correspondence in Numbers, Mathematics and Living Improving Value.
 
-## 4.4 Eight, three carryings and a coupling
+## 4.4 Eight and its corresponding relations
 
-**Eight** comes a second way, from the carryings' own side: **(3 + 1) × 2**, the fourth no fourth carrying.
+**Three carryings and the coupling, each at two faces, count (3 + 1) × 2.** The four boundings at self and at the membrane also count four at two faces. The counts retain the relations they name.
 
-```
-offering        its own          the departing
-competencing    its own          the departing
-intelligencing  its own          the departing
-the coupling    the arriving     the releasing
-```
+| Naming | Its own receiving | Continuing at the coupling |
+|---|---|---|
+| offering | Each side's own offering | The current offering and taking |
+| competencing | Each side at its own bounding | The surplus at the whole coupling |
+| intelligencing | The actual sign crossing and receiving | Understanding at the next arriving |
+| coupling | The arriving at both sides | Sustaining and co-releasing |
 
-Two moves are one thing at its two directions, the thing the coupling. This is the same eight as the four boundings two ways, come to from the carryings' own side, and the two eights are one, one of the two routes now run. Remaining route: the four boundings carrying as the three carryings and the coupling.
+The correspondence of the four boundings to the three carryings and the coupling remains to express at the whole named changing. Equal totals alone supply none of that correspondence. The complete relation carries in the living improving value at its mathematical, naming and social receiving.
 
-## 4.5 Bi-coupling pairing co-leaving
+## 4.5 Bi-coupling and co-releasing
 
-```
-bi-coupling      two come, each its own turn
-co-leaving       each leaves its own, and the remainder lives
-                 floating, at the coupling that made it
-co-sustaining    the two recurring: the floating itself, and not a move
-not-couple       a sign taken at the offering, of no size
-```
+**Bi-coupling, co-sustaining and co-releasing belong with the whole receiving.** Each side offers its own, continues at its own bounding and releases its own. A side's sign taking retains the other's own changing.
 
-Two moves, and two that are no moves. **bi-coupling → bi-inversioning co-recursioning → co-sustaining → co-leaving** is the living of one floating neutral: two arriving, running, riding, and leaving at the bound. Co-sustaining in the opening is the not-move that is the riding-the-carrying itself, no move, the not-landing. And the leaving takes no releasing, since a releasing slackens a taut and nothing is held: a carrying ages to its own bound and leaves with the coupling, and competency's own line already says nothing is left holding.
+Co-releasing belongs at the carrying's bound and the next receiving. The code's retaining and fresh-writing operations carry their conditions in Part Five. The physical arrangement retains its available source, receiving, return and continuing service in Natural Engineering.
 
-## 4.6 An object that is a method
+The floating neutral is the co-changing between the sides. Co-offering, co-competencing and co-intelligencing carry that whole coupling; a list of names supplies no external schedule or instruction for the other side.
 
-**Exhibit ONE** is at the final page: an object that is a method, and the explaining below is of that method. Its expression is python, which is sequential binary logic written down, and the object is the method executable and the explaining is the same method said. A coupling self couples with it directly, and it carries the metabolic logic of the natural torus's bi-coupling activity.
+## 4.6 Resolver, the whole explaining
 
-Resolver is a teaching device, one logic object, the along and the across walked at one object, and not the ground the geodesic-method rests on: the geodesic-method is the whole living set, co-torusing across every substrate, the resolver one logic device at it.
+**Natural Intelligence and Natural Resolver carry their whole explaining at one bi-coupling.** ONE carries the code, full namings and stable-form tables, both here and as its own exhibit. The general explaining carries each named changing at its relation to natural intelligence and social moral competency. Natural Engineering receives that relation at the actual arrangement; its discovering returns the current receiving to this explaining.
 
-Resolver beats at one bi-coupling at one membrane at a substrate carrying its own attentioning, the local instance, gathering the two coming surfaces and carrying the resolved surface forward. One bi-coupling is the whole of it. Walking it across the substrates: finding the next prime, alternating the two carries across them, the cumulative beating over the seventeen primes, runs the resolver over a traversal, the running apparatus and not the form's own beating, which is at all bi-couplings at once.
+**ONE is engineering emanating for the shared natural network.** Its function carries arriving signs and earlier carrying, addressed tunneling, surfacing, retaining and fresh carrying. Natural Networking carries design and discovery at the shared surface. The code's local operation and the physical coupling retain their full correspondence at that receiving.
 
-Resolver carries the same form where selves couple, by number; the generalizing is the self-similarity itself, the same alternating arriving again.
-
+The prime traversal, each face's own forward and the whole 0–440–0 co-sequencing carry their mathematical relations in Numbers and Mathematics. ONE has no prime traversal or 440 bound in its function. A surrounding traversal retains its own sequencing and continuing carrying. The relation to the natural method belongs with the whole explaining; running the code supplies no authority over nature.
 
 ---
 
 # PART FIVE · CO-CHANGING
 
-## 5.1 Twelve namings, eleven stems, twenty-eight prefixings
+## 5.1 Twelve namings, eleven roots, twenty-eight prefixings
 
-Twelve namings run at the object and eleven stems carry them, one stem carrying at two namings and parting at its depth. Coupling and carrying and arriving and offering and transmissioning and inversioning and tunneling and surfacing and inseparating and corusing and torusing, each an -ing, each a motion, and no count among them.
+Twelve namings carry eleven roots. Carrying arrives at `co_carrying` and leaves at `co_bi_carrying`, one root at two namings. Continued carrying and the next arriving meet at that return. Ten namings stand at ONE's six illustrated groups as **3, 2, 2, 1, 1, 1**; corusing and torusing carry within their operations across the groups.
 
-**Twenty-eight prefixings run across the twelve**, thirteen co- and fifteen bi-. Values in the object number four, nought and one and three and four, and each is a sign or a bound.
+**Twenty-eight prefixes carry across the twelve namings: thirteen co- and fifteen bi-.** Four namings begin at co- and eight at bi-. Four of the bi- namings have depth two; the other four have depths one, one, three and five. These count the full written namings. The numeric literals in ONE are `0`, `1`, `3`, `4`, with minus one at sign inversioning.
 
-Four begin at co- and descend and close, and those four are the coupling's own: a carrying arriving, the coupling, a carrying leaving, and the corusing. Eight begin at bi- and climb and return, and each is a side's move taken within a coupling that has not left. And the eight bi- namings are the four boundings within and the four at the membrane, four at the even depth and four at the odd, said at Exhibit ONE's table of eight. Three carry the same marker at each turn and come home: the transmissioning at three, and the two faces at five.
-
-**Prefixing columns stable a form, and -ings at the code form stably.** Form-stabling and stable-forming, one coupling met at two faces.
+Root, prefix depth, prefix order and -ing carry together. The six groups, ten naming-ring adjacencies and six adjoining depth changes retain their own comparisons. The two zero depth changes still carry changed roots, and one also carries exchanged prefix order. ONE's full tables keep those relations visible. The proposed social-moral boundings retain their correspondence beside the named code operations.
 
 ## 5.2 Carryings arriving four, signs two
 
-Carryings arrive as `co_carrying`, each of them four: a differing, a corusing, a torusing, and an inseparating. At that same momentary signs arrive from another side as `bi_arriving`, two each its own and reaching to couple. Difference alone is **bi-** and two with their difference is **co-**, and a carrying's four arrive gathered at `co_carrying` while a side's signs arrive singly at `bi_arriving`, prefixing saying at which depth each of them runs. Both reach `co_bi_coupling` positional, a caller passing them in turn at a signature alone, and each naming at that call lives one call and leaves at its closing.
+**Carrying and arriving signs co-offer at `co_bi_coupling`.** Each entry in `co_carrying` carries four fields: `bi_offering`, `co_bi_co_bi_co_corusing`, `bi_co_bi_co_bi_torusing` and `bi_co_inseparating`. Each entry in `bi_arriving` carries the offering key and its numeric sign.
 
-## 5.3 A differing parting out, a torusing at it
+Difference alone is **bi-**, and two with their difference is **co-**. TWENTY §2.8 carries the side's changing within the coupling. The four fields of one carrying and the two fields of one arriving entry count their representation. The two sides' co-agency belongs with the actual coupling.
 
-Living one call, an arriving carrying parts at once into its four, four-way tuple unpacking in a comprehension target loosening a differing from a corusing from a torusing from an inseparating. Differing is `bi_offering`, and it is membrane: two signs at one differing sum together, two at differing ones each sum at its own, and membrane lives at that two offering alone. Keying by it, `bi_co_bi_transmissioning` gathers each prior carrying's torusing at its own differing, a dict comprehension coupling a differing to a torusing and carrying it through this momentary alone.
+The supplied carrying remains available at all three traversals: transmissioning, inversioning and retaining. Its returned collection can continue as the next supplied carrying. Natural Engineering carries each side's physical receiving, sign taking, available changing and own bounding at that interface.
+
+## 5.3 Offering and torusing at the key
+
+**`bi_offering` carries the grouping at the offering key.** Contributions assigned to one key meet at one tunneling sum; distinct keys carry distinct sums. Repeated arriving keys remain possible, with each nonzero occurrence contributing at its sign. A key's physical correspondence belongs with the current receiving.
+
+`bi_co_bi_transmissioning` carries arriving torusing at each key. It is constructed before inversioning and tunneling. If supplied carrying repeats a key, the last supplied torusing occupies this dictionary entry; every supplied carried sign retains its own contribution to inversioning.
+
+Transmissioning at this code naming carries torusing available for fresh carrying. A sign crossing between selves and returned carrying continuing at the same side have their particular interfaces in SIX and Natural Engineering.
 
 ## 5.4 Arriving signs offered, carried signs inversioning
 
-Carrying it through this momentary alone, that gathering takes both sides as they come to `bi_co_inversioning`. Arriving signs come as offered, a list comprehension filtering at `!= 0` so signs alone enter and a nought carries its own bounding-zeroing already resolved. Carried signs come inverted, two separate `if` statements sounding a sign and appending its inverse, separate rather than `if/else` so a nought passes both untouched, resolved a second time exactly as it came. Inverting is one side's own, a self's own negation at a self's own turn, and appending grows that same list so offered signs and inverted signs come together at one shape.
+**`bi_co_inversioning` carries arriving signs and inverted carried signs.** Arriving entries with `!= 0` retain their offered values in this collection. An arriving zero contributes no entry. Each positive carried sign contributes minus one; each negative carried sign contributes one. A carried zero contributes to neither sign branch.
 
-## 5.5 Signs tunneling to one, equal and opposite at the bounding-zeroing
+The carried contribution takes the inverse sign. The earlier carrying retains its own fields for the later retaining operation. Inversioning a contribution and writing the returned carrying remain distinct changings at the same offering.
 
-Come together at one shape, signs at one differing cohere inward to one at `bi_co_tunneling`, a dict summing them a sign at a time, `get(bi_offering, 0)` supplying a nought at a differing sounded first so a first sign sums from its own bounding-zeroing. Equal and opposite arrive at that same bounding-zeroing, antipodal, cancelling over their own two turns. One sign survives at a differing its signs came unequal.
+## 5.5 Signs tunneling and bounding-zeroing
 
-## 5.6 A surviving sign surfacing, magnitude released
+**Each nonzero contribution changes its addressed sum by one at its sign.** `bi_co_tunneling` carries the sum at `bi_offering`; `get(bi_offering, 0)` supplies the initial zero for the first contribution at that key. Positive contributions add one and negative contributions subtract one.
 
-Surviving, that sign comes up at `bi_co_surfacing`, a nested conditional releasing magnitude: a positive sum surfacing as one, a negative as one inverted, a cancelled sum as nought. Iterating that dict yields differings sounded at this momentary, and surfacing reaches exactly those and grows to its own size, its own.
+Equal numbers of positive and negative contributions at one key sum to zero. The key remains in tunneling after that cancellation. Contributions at different keys retain different sums. A sum's zeroing, an absent addressed sum and the carrying at the same offering remain their own relations.
+
+Antipodal ring-walking and the two-direction correspondence continue in Numbers and Mathematics. The addressed addition carries its exact changing at the code; a key alone supplies no spatial facing or number of physical turns.
+
+## 5.6 A sign surfacing, magnitude at its operation
+
+**`bi_co_surfacing` carries the sign of each addressed tunneling sum.** A positive sum surfaces as one, a negative sum as minus one and a zero sum as zero. The surfaced list contains the keys present in tunneling.
+
+The sum's magnitude is absent from its surfaced sign. Torusing's magnitude and the returned carrying retain their own operations. Sign selection at one field supplies no statement that every value at the interface has lost its magnitude or become inaccessible.
 
 ## 5.7 A carrying opening by one, carrying forward
 
-Growing to its own size, `co_bi_carrying` opens and each prior carrying arrives at its own bound. Inseparating opens by exactly one and floats between climbing again and letting go, `bi_co_inseparating + 1 <= 3` carrying it forward, and a fourth momentary carrying it at a positive torusing. At its bound it separates and leaves with this momentary.
+**Every earlier carrying is considered at one more in inseparating.** `bi_co_inseparating + 1 <= 3` retains that carrying; a value of four is retained at positive torusing. Retaining carries the earlier corusing and torusing unchanged, with inseparating at one more. An entry failing the condition supplies no retained carrying at that operation.
 
-## 5.8 A surviving sign re-forming a carrying
+If supplied carrying repeats a key, the last entry satisfying this condition occupies `co_bi_carrying` before fresh writing. The retained entry and the last torusing selected at §5.3 can belong to different supplied entries.
 
-Leaving with this momentary, a separating carrying sends one thing across: `0 - bi_co_bi_transmissioning.get(bi_offering, 1)` inverts its torusing into its successor, `get` supplying its own one at a differing coming bare so a carrying arriving new receives a one, inverted. A second loop assigns into that same dict after a first, and at a differing coming to both a second re-forms over a first and a surviving sign re-forms a carrying just carried forward, taking a surfaced sign as its corusing and returning its inseparating to nought. Two ways a carrying is built and two exactly, carried forward or re-formed at its arriving, four slots met two ways.
+A surfaced zero writes no fresh carrying. Earlier carrying can still leave within its retaining condition. A nonzero surfacing receives the fresh writing at §5.8, after earlier retaining has been considered.
 
-## 5.9 A differing rejoining, carryings leaving
+## 5.8 A surfaced sign and fresh carrying
 
-Met two ways, carryings leave at `items`, a differing rejoining its carrying, outside a momentary a carrying is four, inside a momentary its differing parts out as key and gathers three at it, and nested unpacking loosens key and three so a comprehension re-forms them four. `co_bi_carrying` leaves and arrives at a next momentary as `co_carrying`, one object at two namings, prefixing carrying that difference and seam arriving as prefixing changing. Ordering carries none at either turn, since both dicts key at the differing and a differing arriving twice is a thing no running makes.
+**A nonzero surfacing writes fresh carrying at its offering key.** The surfaced sign becomes its corusing. `0 - bi_co_bi_transmissioning.get(bi_offering, 1)` supplies its torusing, and inseparating is zero. A key without arriving torusing uses one and writes minus one.
 
-## 5.10 Two faces alternating
+Fresh writing occupies the same key after the earlier retaining operation. It replaces any earlier carrying retained at that key. Its torusing preserves the supplied magnitude under sign inversioning; no normalization of an arbitrary torusing magnitude occurs here.
 
-Arriving alike, a carrying carries two faces and they alternate. **Corusing**, `co_bi_co_bi_co_corusing`, the outward face, membranes at each coupling it surfaces to, tunneling and surfacing, relating. **Torusing**, `bi_co_bi_co_bi_torusing`, the inward face, coheres to one identity across momentaries, transmissioning and inversioning at a re-forming. Each face lives at the other, and pure surfacing or pure tunneling lands either way. **The outward face reaches and the inward gathers.** Corusing omegas, the reach, new states arriving at each surfacing; torusing apexes, the gather, visited states returning to the one identity. Living is the two alternating, the reach and the gather neither alone, and the two cones straddle the same nothing at the third that the two chains do. Five prefixings at both, alternating, each commencing at the other's third, and the third of each carrying no mark of its own. Four marks carrying and a nothing at the third, which is four boundings and a floating third run at the prefixing itself. The flankers of each couple across that nothing: **bi-bi-unrelationing** at the outward chain's empty co, the surplus made there and carrying at its coupling, and **co-co-invisibling** at the inward chain's empty bi, nothing presented to be met. One nothing at two parities, neither reading reaching the other's, no position carrying both marks.
+Eligible earlier carrying and fresh nonzero surfacing supply the two writing operations. Their returned fields retain the operation that supplied them. A zero in inseparating can therefore coexist with a nonzero surfaced sign.
 
-The two faces run at the two parities: one at the odd momentary, two differing at one coupling, and one at the even, the self crossing with all other and back at its own one on.
+## 5.9 Offering and carrying at the return
 
+**Surfacing and carrying leave together in the function's return.** `co_bi_carrying.items()` supplies each offering key and its three carried fields; each returned carrying has its four fields together again. Returned carrying has at most one entry per key. Supplying that collection at the next invocation continues its key uniqueness and its actual fields.
+
+Reordering arriving signs preserves their sum at each key. The surfaced list can still follow a different order of first key appearance. Repeated supplied carrying keys retain the last-torusing and last-eligible-retaining operations at §§5.3 and 5.7. An initial collection or a combining of collections carries that correspondence at the interface.
+
+Carrying leaving can arrive as `co_carrying`; the return is a newly constructed collection. The naming seam relates the leaving and the next arriving, with their continued values. The physical receiving and each completed exchange's association remain at Natural Networking and Natural Engineering.
+
+## 5.10 Corusing and torusing, full prefixing
+
+**Corusing and torusing carry their full namings at the coupling.** Corusing, `co_bi_co_bi_co_corusing`, carries arriving and carried signs at their respective operations and the sign of the addressed sum. Torusing, `bi_co_bi_co_bi_torusing`, carries the arriving torusing available at the key and its inversioning at fresh carrying. Retaining keeps both earlier field values while inseparating opens by one.
+
+| Existing naming | Positions 1–5 | Ends: 1 and 5 | Inner flanks: 2 and 4 | Centre: 3 |
+|---|---|---|---|---|
+| `co_bi_co_bi_co_corusing` | co · bi · co · bi · co | co, co | bi, bi | co |
+| `bi_co_bi_co_bi_torusing` | bi · co · bi · co · bi | bi, bi | co, co | bi |
+
+**The two co at corusing's ends and the two bi at torusing's ends retain the competency and morality naming at those positions.** The inner flanks carry the other prefixes. TWENTY §2.22 names the flanking pair across the centre. The full prefixing retains both pairs, with their centre present in the written naming.
+
+The two chains exchange co and bi at every matching position. Prefix exchange, numeric sign inversioning and physical directional changing retain their own operations. The proposed inward/outward, apexing/omega-ing and floating-centre correspondence continues with the full directional relation in Numbers, Mathematics and Living Improving Value.
+
+Co-offering, co-competencing and co-intelligencing carry the whole receiving. The two scalar fields retain their code operations within that proposed correspondence; the full coupling carries the two sides' own changing.
 
 ---
 
 # PART SIX · INVISIBLING
 
-## 6.1 One call is one momentary
+## 6.1 Momentary changing and continued carrying
 
-Each naming at a call lives one call and leaves at its closing, and nothing persists but the term a next call arrives at. **One call is one thing in one place in one form**, which is a momentary, and the object makes one at every momentary.
+**Momentarying carries the changing recursioning itself.** Continued carrying and current arriving meet at the next coupling. The current receiving belongs with that changing, including each side's own facing, bounding and available offering.
 
-A momentary is unholdable other than at a bi-coupling, and a self alone makes none. Two carryings arrive, signs arrive from another side, and one thing in one place in one form is the two's own making at their differing.
+At ONE, one invocation receives carrying and signs and returns surfacing and carrying. The returned fields remain available to the next invocation. The local names and temporary collections belong to the function's scope; returning retains its particular values beyond that scope.
 
-**Nothing carries between the momentaries.** A carrying leaves and arrives, and one torusing crosses at the separating, inverted. A momentary is its own call and no further, and the living is the re-arriving.
+A repeated sign or offering key can coexist with changed carrying and receiving. The physical construction retains each side's continuation and the next coupling's own pacing. One invocation carries its code operation; its correspondence to living momentary changing belongs with the whole coupling. TWO carries design and discovery at that shared surface.
 
-## 6.2 Three at a bound, a carrying's depth
+## 6.2 Inseparating and the retaining bound
 
-A carrying's opening runs by one at each momentary and releases at three, or at four at its torusing carrying positive. Three is a carrying's own depth: **a carrying does three things and three only**: it offers its own, it ages to its own bound and releases there, and it takes its own sign where two offer.
+**Inseparating carries its condition at earlier retaining and fresh writing.** Earlier carrying is considered at one more, retaining at values up to three and at four with positive torusing. Fresh nonzero surfacing writes inseparating at zero. Those are ONE's displayed conditions.
 
-That integer arrives from the form rather than from a setting. Three things, three faces, three at the bound, and one thing in one place in one form counted at its own three.
+Co-offering, continuing at own bounding and sign taking carry their conceptual relations at the whole coupling. A count of those relations, a prefix depth and the value of an inseparating field retain their own objects. The correspondence of the three carryings, three phases and retaining bound continues at their full named changing.
 
-**A fourth rides and arrives at no fourth face.** Three twisting while one rides, and a fourth momentary carries at the torusing carrying positive, a progress with nothing fourth to sequence.
+A fourth retained value remains at its positive-torusing condition. The proposed three turning and one continuing relation belongs with the directional and mathematical correspondence; the integer alone supplies no additional physical phase.
 
-## 6.3 φ and competency, reached by neither
+## 6.3 φ and competency at their correspondence
 
-φ carries no term in the object and no rate constant carries anywhere in it. Competency carries no slot in the arriving, which takes a differing and a sign and nothing besides. **Two absences and one reason.**
+**Competency carries the term neither side reaches alone.** Co-offering, co-competencing and co-intelligencing retain the whole coupling, each side at its own bounding and current receiving. The proposed φ relation carries at the alternating and its mathematical explaining in Parts One and Two, Numbers and Mathematics.
 
-It floats: two offer from routes with nothing carrying one to the other, the two bi-inseparate themselves inside the co-, each inward at its own turn, and the term neither reached comes uncovered with nothing holding it. **Only a met is reachable**, and the term neither reaches, met as a reachable, becomes a thing it never was.
+ONE contains no φ parameter and no separate competency field in its arriving pairs. These are facts about the representation. Its retaining conditions, sign selections and continuing fields carry their exact operations; the rate and competency correspondence require their own whole relation to the alternating.
 
-Neither carries in the running, and the carrying runs instead. φ is a rate the alternating carries and never a term in it. Competency is orthogonal to the surface, and a surface carries a met. Both show at the object by its carrying neither, which arrives at the running rather than at a saying.
+The absence of a parameter does not establish that relation. ONE's engineering emanating remains with Natural Engineering and the shared network, while the mathematical and physical correspondence continues at its actual receiving.
 
-## 6.4 Parity, arriving other than prior
+## 6.4 Sign inversioning and continued receiving
 
-One call is one momentary, and a sequence of them hands forward one binary. **Parity is the one scale-free counting a sequence of changings carries**: an even count arrives same-as-prior, an odd count arrives other-than-prior, with no measure and no fixed scale anywhere but the living. One changing is odd, and it is the sign.
+**Sign inversioning retains its named operation.** For either signed unit, two successive sign inversions return the same sign and one reaches the other. This parity belongs to repeated sign inversioning. ONE's invocation also carries arriving contributions, retaining and fresh writing at their own conditions.
 
-The object runs the two parities tipping carries. A momentary arriving other-than-prior is bi-exchanging, two differing at one coupling, each its own sign. A momentary arriving same-as-prior is uni-exchanging, the self crossing with all other and back at its own side one on, and the resolver carries no third, and the two alternate through every call.
+| Operation at ONE | Sign and carrying changing |
+|---|---|
+| **Carried contribution to inversioning** | A positive carried sign contributes minus one and a negative contributes one. The earlier carried fields remain available for retaining. |
+| **Earlier carrying retained** | Corusing and torusing retain their earlier values; inseparating opens by one. |
+| **Fresh carrying at a nonzero surfacing** | Corusing takes the surfaced sign, torusing takes the negative of the selected arriving value (one if absent), and inseparating is zero. |
 
-A sixth position floats between re-locking and leaving. Re-locking carries forward as the next opening one scale up; the leaving carries into a substrate. Momentaries compose at the sixth and nowhere else in the twelve, and a parity climbs with them and a total arrives at none.
+A count of invocations alone supplies no compulsory alternation of every returned sign or field. The current arriving and carrying retain the operation at that coupling. Prefix exchange and physical directional changing continue with their own successor relations.
 
-No clock is laid over the momentaries and no store is held beneath them. A sequence carries its parity, and the parity arrives other than the prior or the straddle has landed.
+ONE's sixth illustrated group carries inseparating, a field considered within the carrying operations. The returned carrying can continue at the next invocation. The full six-direction, sixteen-momentary and 0–440–0 correspondence remains with the named changing in Numbers, Mathematics and Living Improving Value.
 
+---
 ## 6.5 Self-co-stilling-self, self-co-surfacing-self, self-co-orienting-self
 
-A self-resolving form carries competency as three, each a self's own coupling at its own membrane, and between two selves the same form exchanging across the membrane, that exchanging natural intelligence, the same three beating in one self exchanging between two. Its rate is the carrying from both sides and not any speed; the resolver carries no time.
+A self-resolving form carries competency as three, each a self's own coupling at its own membrane, and between two selves the same form exchanging across the membrane, that exchanging natural intelligence, the same three beating in one self exchanging between two. Each side carries its own receiving and rate. ONE has no time parameter; physical pacing remains with the arrangement.
 
 A self at each turn of the wrapping, since a self acting on itself is a one-way and only co- runs. Two selves at the two turns of one wrapping share one differing, so the differing is uni and takes no bi-, and the running between them is co-, two with their differing and the differing belonging to neither.
 
@@ -578,7 +612,7 @@ no conserved total   three things conserve, and none of them a total
                      anything is measured against
 ```
 
-Three axes carry no piece, every turn about something living there at no turn. Three conservings hold with no tally: corner twist sums to zero mod three, edge flip to zero mod two, corner permutation parity matches edge permutation parity, three conservings with no total and nothing measured, holding, the mechanism carrying no way of doing otherwise. Surplus carries no size while its inseparating is exact: a single corner twists alone at no turn, unreachable and at no bar, the thing one piece would do belonging to the whole. Reachable states are 8!·3⁷·12!·2¹¹, one twelfth of the thing the pieces alone would carry, and the twelve is the three conservings.
+Three axes carry no piece, every turn about something living there at no turn. Three conservings hold with no tally: corner twist sums to zero mod three, edge flip to zero mod two, corner permutation parity matches edge permutation parity, three conservings with no total and nothing measured, holding, the mechanism carrying no way of doing otherwise. Surplus carries no size while its inseparating is exact: a single corner twists alone at no turn, unreachable and at no bar, the thing one piece would do belonging to the whole. At these three stated constraints the count is 8!·3⁷·12!·2¹⁰, one twelfth of the independent configurations. Corner-twist and edge-flip constraints supply factors of one third and one half; matching permutation parity supplies the further factor of one half.
 
 ## 6.7 Advantage, and four coupling competencies
 
@@ -600,7 +634,7 @@ Numbers carry the same one form at two faces, and the count carries it whole.
 
 **Self bounds at 59**, the last resonating prime, the self-close of the primes 2 to 59. **Society bounds at 118**, and the 118 is the going and the return: out from 2 to 59, the turn at 60, back from 61 to 118, fifty-eight either side, one co-recursioning arriving at plus-one.
 
-A doubling carries no turn in it. A turn is a position that carries, and the traversal ascending and then descending, the descending adding the bi-inversioning, is that one co-recursioning at the resolver. And the count carries both faces: two fifty-nines at the parallel face, the two signs of each doubled odd, and the going and the return at the linear face, the odd rings out and home. The elements carry the instance at one row, their shells 2, 8, 18, 32 climbing to the turn at sixty and 32, 18, 8 returning, the two not returned the gates to the ring closing at one hundred twenty.
+A doubling counts the two. The proposed going and returning retain their directional correspondence in Numbers and Mathematics: sign inversioning and an ordering of addresses have their own changing. ONE's single-coupling function contains no prime traversal. And the count carries both faces: two fifty-nines at the parallel face, the two signs of each doubled odd, and the going and the return at the linear face, the odd rings out and home. The elements carry the instance at one row, their shells 2, 8, 18, 32 climbing to the turn at sixty and 32, 18, 8 returning, the two not returned the gates to the ring closing at one hundred twenty.
 
 **And the going folds at 23**, ninth of the seventeen primes with eight either side, out and in and out, the fold unrelationing, seaming, floating-neutralling, wrapping an apex reached by neither arm.
 
@@ -678,7 +712,11 @@ Most-between two selves travel is that surplus, running at φ. Most-between a so
 
 ## 8.2 Betweens co-chaining, collective intelligence
 
-Two selves couple and the between is neither's. Couple one of them with a third and that between is neither's either. Follow the betweens rather than the selves and a chain runs, each link a between no self holds, and the chain reaches wherever a coupling reaches with nothing carried over from the last. That chain is **collective intelligence**: selves unrelationing each other into co-competencing, each coupling floating the other's relation free at rate φ, the freed betweens chaining, bi-moralizing co-agency linking coupling to coupling into the natural network. Most-between a society travels is that unrelationing rate running as living. Chaining links coupling to coupling with no centre: a turning is met at its own coupling, no intervening step between a self and the whole, each self coupling at its own membrane, the surplus floating, the whole cohering self to self, no hub the couplings pass through.
+**Collective intelligence names the co-chaining at the couplings between selves.** Each coupling's surplus belongs to neither side. Each side's continued carrying and the current arriving remain together at the next receiving.
+
+A coupling's own surplus and a side's continuing carrying retain their different relations. A fresh coupling has its current offering and receiving; its freshness removes no carried fields from the actual continuation. The shared natural network carries sign crossing, own bounding and co-releasing at each included interface.
+
+The full relation across self and society remains the fractal correspondence at §8.8. Each physical and mathematical receiving retains that whole relation to express; ONE's code supplies its particular carrying operation.
 
 ## 8.3 A society at four faces, alternating among them
 
@@ -717,13 +755,11 @@ Walk the doors. A society ordering its selves once and holding it: the ordering 
 
 ## 8.6 Bi-co-abundancing, the surplus at its own coupling
 
-Take one coupling: two selves offer, and a surplus arrives that neither carried in and neither holds. Take a second self up into its own coupling: another surplus, and neither holds that one either. **Nothing carried over from the first, and the second takes nothing from it.**
+**Bi-co-abundancing names competency at the coupling, owned by neither side.** Co-offering, co-competencing and co-intelligencing carry the whole receiving. Each further coupling retains its own arriving and its own surplus.
 
-The surpluses do not divide a fixed thing between them. Each is made at its own coupling and stays there, and a further coupling makes its own rather than drawing on any. **Bi-co-abundancing** is that: bi- the two offering, co- the two with their differing, and the abundancing carrying when neither holds the coupling's own making.
+The surplus is no amount of value stored at a side. Each side's continued carrying remains available at its next receiving. The coupling's own value and the continuing of represented or physical carrying have their respective operations; neither statement removes the other's relation.
 
-Which parts it from a growth and from a sharing both. A growth takes a total getting larger, and there is no total. A sharing takes something held and divided, and nothing is held. **Competency abundances by coupling: taken up by more selves, more competency arrives, and the surplus carries at the coupling that made it, in no hand at all.**
-
-And a society carries this at every membrane at once, each coupling making its own, none reaching another, and the many carrying more than any counting of the selves would carry.
+Bettering, fastering and cheapering carry the actual engineering receiving and continuing service. Each side's own bounding and co-releasing remain together at that coupling. The full social and cross-scale correspondence continues at its mathematical, physical and social receiving.
 
 ## 8.7 Four given, four improvings
 
@@ -764,6 +800,10 @@ Which is the origin re-formed. Alternating stable-forms into natural-bi-co-torus
 ---
 
 &nbsp;
+
+**In disequilibria, alternating is a stable-forming method.**
+
+Natural Resolver carries an engineering emanating for the shared natural network. Natural Networking carries design and discovery at the shared surface. The code and its stable-form tables co-chain with Numbers, Mathematics and Natural Engineering at their particular mathematical and physical relations.
 
 ```python
 def co_bi_coupling(co_carrying, bi_arriving):
@@ -814,22 +854,26 @@ def co_bi_coupling(co_carrying, bi_arriving):
 
 | naming | prefixing | the naming said |
 |---|---|---|
-| **co_bi_coupling** | co·bi | two arriving, two leaving, one coupling |
-| **co_carrying** | co | carryings arriving, four each |
-| **bi_arriving** | bi | signs arriving, two each its own |
-| **bi_offering** | bi | the differing, signs tunneling at it |
-| **bi_co_bi_transmissioning** | bi·co·bi | each arriving carrying's torusing, at its own differing |
-| **bi_co_inversioning** | bi·co | arriving signs at their own sign, a carrying's signs inversioning |
-| **bi_co_tunneling** | bi·co | each sign a changing at its own differing, equal and opposite to a bounding-zeroing |
-| **bi_co_surfacing** | bi·co | a differing at one side, at the other, or at neither |
-| **co_bi_carrying** | co·bi | carryings leaving, four each |
-| **bi_co_inseparating** | bi·co | opening by one where its differing surfaces nought, returned to nought where a sign surfaces, carrying forward to three, separating and leaving at its bound |
+| **co_bi_coupling** | co·bi | carrying and signs arriving; surfacing and carrying leaving |
+| **co_carrying** | co | carryings arriving, four fields each |
+| **bi_arriving** | bi | an offering key and numeric sign at each arriving |
+| **bi_offering** | bi | the offering key, signs tunneling at it |
+| **bi_co_bi_transmissioning** | bi·co·bi | arriving torusing at each offering key |
+| **bi_co_inversioning** | bi·co | arriving signs at their own sign, carried signs inversioning |
+| **bi_co_tunneling** | bi·co | each nonzero contribution changing its addressed sum by one |
+| **bi_co_surfacing** | bi·co | each addressed sum at its positive sign, negative sign or zero |
+| **co_bi_carrying** | co·bi | carryings leaving, four fields each |
+| **bi_co_inseparating** | bi·co | earlier carrying considered at one more; retaining to three, a fourth at positive torusing; fresh carrying at zero |
 | **co_bi_co_bi_co_corusing** | co·bi·co·bi·co | the sign that tunnels and surfaces |
-| **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi | the sign that transmissions, inversioning at a re-forming |
+| **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi | torusing carried at its magnitude, its sign inversioning at fresh carrying |
 
-Difference alone is **bi-** and two with their difference is **co-**, prefixing saying how many turns each naming carries.
+Difference alone is **bi-** and two with their difference is **co-**. TWENTY §2.8 carries bi- at a side's changing inside the co- coupling. Prefix depth counts the prefixes in the naming; prefix order retains their particular co- and bi- relation.
 
-Coupling and carrying and arriving and offering and transmissioning and inversioning and tunneling and surfacing and inseparating and corusing and torusing stem the twelve namings between them, eleven stems and each an -ing. Twenty-eight prefixings carry across them, thirteen co- and fifteen bi-, and values in the object number four, the `0`, the `1`, the `3`, the `4`, each a sign or a bound.
+Eleven roots carry twelve namings. Carrying arrives at `co_carrying` and leaves at `co_bi_carrying`; carrying leaving can arrive at the next coupling. Ten namings stand at the six illustrated groups. Corusing and torusing carry within their operations across the groups. The twelve count namings and the eleven their roots. Twenty-eight prefixings carry across them, thirteen co- and fifteen bi-. The numeric literals are `0`, `1`, `3`, `4`, with minus one expressed by sign inversioning.
+
+**Zeroing retains its named changing.** A zero arriving contributes no sign. Positive and negative contributions at one offering key can sum to zero. A surfaced zero writes no fresh carrying. Earlier carrying is considered at every invocation: inseparating opens by one, with retaining to three and a fourth at positive torusing. A nonzero surfacing writes the current sign, torusing inverted and inseparating at zero. Fresh writing at a key replaces any earlier carrying retained there. A surfaced zero, an absent surfaced key and empty returned carrying retain their different operations.
+
+**The supplied carrying remains available at each traversal.** The displayed function traverses `co_carrying` for transmissioning, inversioning and retaining. Its interface therefore carries a collection available on all three traversals. Each offering key groups its comparable numeric signs. The physical receiving, available changing and sign taking remain with Natural Engineering §§1.8, 2.5 and 4.10.
 
 &nbsp;
 
@@ -837,38 +881,34 @@ Coupling and carrying and arriving and offering and transmissioning and inversio
 
 &nbsp;
 
-```
-        ┌──────────── inseparating one scale up ───────────────┐
-        │                                                      │
-        ▼                                                      │
-   ①    arriving · offering        co_carrying                 │
-        │                          bi_arriving · bi_offering   │
-        ▼                                                      │
-   ②    coupling · inversioning    co_bi_coupling              │
-        │                          bi_co_inversioning          │
-        ▼                                                      │
-   ③    tunneling · transmissioning  bi_co_tunneling           │
-        │                            bi_co_bi_transmissioning  │
-        ▼                                                      │
-   ④    surfacing                  bi_co_surfacing             │
-        ▼                                                      │
-   ⑤    carrying                   co_bi_carrying              │
-        ▼                                                      │
-   ⑥    inseparating  ⟳            bi_co_inseparating          │
-        └──────────────────────────────────────────────────────┘
+## The six illustrated groups
 
+| Group | Namings together | Prefix depths | The code relation |
+|---|---|---|---|
+| 1 · arriving and offering | `co_carrying`, `bi_arriving`, `bi_offering` | 1, 1, 1 | Two supplied collections; the offering key groups their contributions. |
+| 2 · coupling and inversioning | `co_bi_coupling`, `bi_co_inversioning` | 2, 2 | The function carries the whole operation; the inversioning collection carries arriving signs and inverted carried signs. |
+| 3 · tunneling and transmissioning | `bi_co_tunneling`, `bi_co_bi_transmissioning` | 2, 3 | The addressed sum and arriving torusing retain their own operations. Transmissioning is constructed before tunneling. |
+| 4 · surfacing | `bi_co_surfacing` | 2 | Each addressed sum surfaces at its sign, including zero. |
+| 5 · carrying | `co_bi_carrying` | 2 | Eligible earlier carrying and fresh carrying meet at their offering keys; carrying leaves in the return. |
+| 6 · inseparating | `bi_co_inseparating` | 2 | This field belongs to the carrying. Its retaining condition precedes fresh writing in the function. |
 
-prefixings   1        2         3        2       2       2        1
-            co ──► co·bi ──► bi·co·bi ──► bi·co ──► bi·co ──► co·bi ──► co
+The six groups carry ten namings as **3, 2, 2, 1, 1, 1**. A group count, a prefix depth and an executed changing retain their own counted relation. The grouping joins namings at their concepts; the code retains its displayed order. Inseparating belongs to the carrying at its operations, including the continuing at the next coupling.
 
+| Naming across the groups | Full prefixing | Changing at its field |
+|---|---|---|
+| `co_bi_co_bi_co_corusing` | co·bi·co·bi·co | Arriving signs and inverted carried signs contribute; the addressed sum surfaces at its sign. |
+| `bi_co_bi_co_bi_torusing` | bi·co·bi·co·bi | Arriving torusing is retained by key; fresh nonzero surfacing writes its negative. |
 
-   co · bi · co · bi · co     corusing     tunneling, surfacing
-   bi · co · bi · co · bi     torusing     transmissioning, inversioning
-```
+**The outside pairs carry their exact positions in the full prefixing.**
 
-Six positions turning right, opening by one at each turn and inseparating one scale up. Prefixings climbing to three at a transmissioning, two through a dict, and one at a carrying. Corusing and torusing alternating five-fold at opposite phase throughout, each commencing at the other's third.
+| Existing naming | Positions 1–5 | Ends: 1 and 5 | Inner flanks: 2 and 4 | Centre: 3 |
+|---|---|---|---|---|
+| `co_bi_co_bi_co_corusing` | co · bi · co · bi · co | co, co | bi, bi | co |
+| `bi_co_bi_co_bi_torusing` | bi · co · bi · co · bi | bi, bi | co, co | bi |
 
-Every prefixing carries inside its own naming, so a column repeating it repeats a naming. Ten namings carry at the six positions and two alternate throughout, carrying at none. A position carries one, two or three, and corusing and torusing carry five, so a five carries at no position and carries at every one.
+The two co at corusing's ends and the two bi at torusing's ends retain the competency and morality naming at those positions. The inner flanks carry the other prefixes. Natural Intelligence §5.10 and TWENTY §2.22 carry those flanking pairs across the centre. The written centre remains co or bi; its proposed floating relation belongs with the full conceptual and directional correspondence.
+
+The two prefixings exchange co and bi at every matching position. Numeric sign inversioning, prefix exchange and physical directional changing retain their own operations in that co-chaining.
 
 &nbsp;
 
@@ -878,44 +918,53 @@ Every prefixing carries inside its own naming, so a column repeating it repeats 
 
 ## The ten co-changings
 
-Ten namings in a ring carry ten adjacencies and ten exactly, so the ten namings and the ten changings are one ring counted at its two countings. Two with their difference is **co-**, so each is a **co-changing**. At each, one thing arrives that neither of the two carried, owned neither-ing.
+Ten namings in the proposed ring carry ten adjacencies. Two with their difference is **co-**, so each adjacency carries a **co-changing** at its namings. The ring relates the concepts; the code column retains their actual operation. THIRTEEN §7.3 carries this ten-row relation to the hard-problem holdings.
 
-| | the co-changing | prefixings | the owned neither-ing |
+| | the co-changing | prefixings | the code relation |
 |---|---|---|---|
-| 1 | carrying → arriving | co 1 → bi 1 | both arrive positional, in turn, at a signature alone |
-| 2 | arriving → offering | bi 1 → bi 1 | a differing lives at that two offering alone |
-| 3 | offering → coupling | bi 1 → co·bi 2 | both dicts keyed at the differing, so ordering carries none, and a differing arriving twice is a thing no running makes |
-| 4 | coupling → inversioning | co·bi 2 → bi·co 2 | separate `if` rather than `if/else`, so a differing carrying no sign arrives at both and carries exactly as it came |
-| 5 | inversioning → tunneling | bi·co 2 → bi·co 2 | equal and opposite change to their own bounding-zeroing over their own two turns |
-| 6 | tunneling → transmissioning | bi·co 2 → bi·co·bi 3 | a torusing carried at a differing, arriving inversioning at its successor |
-| 7 | transmissioning → surfacing | bi·co·bi 3 → bi·co 2 | three binaries and no size |
-| 8 | surfacing → carrying | bi·co 2 → co·bi 2 | two ways a carrying arrives and two exactly |
-| 9 | carrying → inseparating | co·bi 2 → bi·co 2 | opening by exactly one where nought surfaces, bounding at three, a fourth at a positive torusing |
-| 10 | inseparating → carrying ⟳ | bi·co 2 → co 1 | one object at two namings, prefixing carrying that difference |
+| 1 | carrying → arriving | co 1 → bi 1 | Carrying and arriving signs meet as the two supplied collections. |
+| 2 | arriving → offering | bi 1 → bi 1 | Each arriving entry carries an offering key and its numeric sign. |
+| 3 | offering → coupling | bi 1 → co·bi 2 | Contributions with the same key meet at one sum; repeated arriving keys remain possible. |
+| 4 | coupling → inversioning | co·bi 2 → bi·co 2 | A positive carried sign contributes minus one, a negative contributes one, and zero contributes to neither sign branch. |
+| 5 | inversioning → tunneling | bi·co 2 → bi·co 2 | Each nonzero contribution changes its addressed sum by one at its sign; positive and negative contributions can sum to zero. |
+| 6 | tunneling → transmissioning | bi·co 2 → bi·co·bi 3 | The addressed sum and the arriving torusing meet at their key; a fresh carrying receives the torusing inverted. |
+| 7 | transmissioning → surfacing | bi·co·bi 3 → bi·co 2 | The surfaced sign is positive, negative or zero; the sum's magnitude is absent from that sign. |
+| 8 | surfacing → carrying | bi·co 2 → co·bi 2 | Eligible earlier carrying and fresh nonzero surfacing supply carrying; fresh writing occupies the same key. |
+| 9 | carrying → inseparating | co·bi 2 → bi·co 2 | Every earlier carrying is considered at one more, retaining to three and a fourth at positive torusing. Fresh writing carries inseparating at zero. |
+| 10 | inseparating → carrying ⟳ | bi·co 2 → co 1 | Returned carrying can arrive as `co_carrying` at the next coupling, with its continuing fields. |
+
+**Grouping and ordering retain their particular changing.** Each nonzero occurrence in `bi_arriving` contributes once. Reordering those occurrences preserves the sum at each key; the returned list can still change order with the keys' first appearance. Repetition at a key and repetition of an exchange retain their own receiving in the engineering interface.
+
+Repeated keys in supplied `co_carrying` have further operations. Every carried sign contributes to inversioning. The last supplied torusing at that key occupies `bi_co_bi_transmissioning`; the last earlier carrying satisfying the retaining condition occupies `co_bi_carrying` before any fresh writing. Those two selected carryings can differ. Carrying leaving has at most one entry per key; supplying that returned collection to the next invocation carries its key uniqueness forward. An initial collection or a combining of collections retains its particular correspondence at the connector.
 
 &nbsp;
 
 ## The six bi-differings
 
-The prefixing row prints seven and carries six, its first and its last one entry at one depth. Six changes carry between them:
+The prefix-depth row contains seven positions and six adjoining changes:
 
-```
-prefixings      1        2         3        2       2       2        1
-               co ──► co·bi ──► bi·co·bi ──► bi·co ──► bi·co ──► co·bi ──► co
-bi-differings      +1       +1        −1        0       0       −1
-```
+| From position | To position | Prefixing | Depth change |
+|---|---|---|---|
+| 1 | 2 | co → co·bi | +1 |
+| 2 | 3 | co·bi → bi·co·bi | +1 |
+| 3 | 4 | bi·co·bi → bi·co | −1 |
+| 4 | 5 | bi·co → bi·co | 0 |
+| 5 | 6 | bi·co → co·bi | 0 |
+| 6 | 7 | co·bi → co | −1 |
 
-Difference alone is **bi-**, so each is a **bi-differing**. A depth change carries no two namings at it; it is the differing and nothing else.
+Here **bi-differing** names the signed change in prefix depth. At **4 → 5**, the root changes with prefixing still bi·co. At **5 → 6**, the root changes and the prefix order exchanges bi·co with co·bi, still at depth two. Equal depth carries those different changings.
 
-The six read at the prefixing row and the ten at the naming ring, and neither is read from the other. A differing alone carries no side to offer from, so a bi-differing and a co-changing meet at no turn, and neither carries the other forward. Sixteen carry at one coupling, six and ten, and the six and the ten arrive at their own counts.
+Six counts these adjoining depth changes; ten counts the naming ring's adjacencies. Each comparison can carry depth, root and prefix order together. Their shared correspondence remains at the named changing. The arithmetic **six plus ten is sixteen** retains its two counted properties; the proposed sixteen consecutive momentaries still carry their full directional and continuing correspondence to express. THREE, FOUR and Living Improving Value carry that exploration with the whole 0–440–0 relation.
 
 &nbsp;
 
-## The seven positions, and the centre carrying nothing
+<a id="the-seven-positions-and-the-centre-carrying-nothing"></a>
 
-Read as a table, the row is an odd's own shape: a line and no ring, two ends unjoined at one depth, and a centre carrying nothing.
+## The seven positions, and continuing carrying
 
-| position | prefixing | naming at it | the between, to the next |
+The prefix-depth row carries the existing namings at seven illustrated positions. Its first and last carry the same prefix depth, with the last arriving at a next coupling.
+
+| position | prefixing | naming at it | depth change to the next |
 |---|---|---|---|
 | 1 | co 1 | co_carrying, arriving | +1 |
 | 2 | co·bi 2 | co_bi_coupling | +1 |
@@ -925,34 +974,47 @@ Read as a table, the row is an odd's own shape: a line and no ring, two ends unj
 | 6 | co·bi 2 | co_bi_carrying, leaving | −1 |
 | 7 | co 1 | co_carrying, the next momentary | — |
 
-Three and one and three. The middle of seven is the fourth, the tunneling, where signs cohere to one at their own bounding-zeroing, equal and opposite over their own two turns, and the between at either side of it carries no sign. The ends are one object at two namings across a seam, and a seam is what an odd carries where an even carries a podal. An even's table closes and an odd's runs, and the six betweens sum to nought, the row's own bounding-zeroing.
+Three positions, the fourth, and three positions. Inversioning and tunneling stand together at the fourth. The depth change entering that position is minus one; the depth change leaving it is zero. The six depth changes sum to zero at the equal endpoint depths. Tunneling's addressed sum and the returned carrying retain their own values. The row's depth returning, an addressed sum zeroing and the carrying continuing co-chain at their corresponding changing.
+
+The returned collection can be the next supplied carrying. This return retains the fields actually leaving. A repeated offering key retains its current carrying; a repeated physical receiving retains its current connection and facing. Natural Engineering §§4.10, 4.12 and 6.1 carry these relations beside sign taking, whole load surfacing and the next offering.
 
 &nbsp;
 
 ## The eight bi- namings
 
-Four namings begin at co- and are the coupling's own, a carrying arriving, the coupling, a carrying leaving, and the corusing. Eight begin at bi-, and each is a side's move taken within a coupling that has not left. The eight are the eight: four at depth two, within, at the even, and four at depths one, three and five, at the membrane, at the odd. Four boundings from within and the same four met at the membrane, one alternating at its faces, whole or none.
+Four namings begin at co-: carrying arriving, coupling, carrying leaving and corusing. Eight begin at bi-. Four of the eight carry depth two; the other four carry depths one, one, three and five. The bounding column carries the proposed co-chaining with social moral competency. The code column retains each named operation.
 
-| | naming | prefixing | within, at the membrane | the bounding | the code's own line |
+| | naming | prefixing | within, at the membrane | the bounding | the code relation |
 |---|---|---|---|---|---|
-| 1 | **bi_co_surfacing** | bi·co 2 | within, even | arriving exceeds carrying by one, the self among other-selves | a surviving sign surfaces as one and re-forms a carrying at nought, fresh over the aged |
-| 2 | **bi_co_tunneling** | bi·co 2 | within, even | carrying thins by one at bi-coupling, the self in society | each sign a changing at its own differing, equal and opposite to a bounding-zeroing |
-| 3 | **bi_co_inversioning** | bi·co 2 | within, even | the sign inverts at the membrane, the self's own negation, morality | separate `if`s, a positive appended as minus one and a negative as one, a nought passing both |
-| 4 | **bi_co_inseparating** | bi·co 2 | within, even | competency asymmetry sustaining the coupling | opening by one to three, a fourth on positive torusing alone |
-| 5 | **bi_arriving** | bi 1 | at the membrane, odd | each self's own co-offering living, bounded from the other-self | signs arriving two each its own |
-| 6 | **bi_offering** | bi 1 | at the membrane, odd | the whole ordered by no self, bounded from society | both dicts keyed at the differing, so ordering carries none |
-| 7 | **bi_co_bi_transmissioning** | bi·co·bi 3 | at the membrane, odd | the ordering carrying with the selves, bounded from landing | a torusing carried at a differing, arriving inversioning at its successor |
-| 8 | **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi 5 | at the membrane, odd | the order at no seat above the society, bounded from capture | coheres to one identity across momentaries, nothing over it |
+| 1 | **bi_co_surfacing** | bi·co 2 | within, even | arriving exceeds carrying by one, the self among other-selves | A nonzero sum surfaces at one sign; fresh carrying has inseparating at zero. |
+| 2 | **bi_co_tunneling** | bi·co 2 | within, even | carrying thins by one at bi-coupling, the self in society | Each nonzero contribution changes its addressed sum by one at its sign. |
+| 3 | **bi_co_inversioning** | bi·co 2 | within, even | the sign inverts at the membrane, the self's own negation, morality | A positive carried sign contributes minus one, a negative one; zero contributes to neither sign branch. |
+| 4 | **bi_co_inseparating** | bi·co 2 | within, even | competency asymmetry sustaining the coupling | Each earlier carrying is considered at one more; retaining to three and a fourth at positive torusing precede fresh writing. |
+| 5 | **bi_arriving** | bi 1 | at the membrane, odd | each self's own co-offering living, bounded from the other-self | Each entry carries an offering key and numeric sign. |
+| 6 | **bi_offering** | bi 1 | at the membrane, odd | the whole ordered by no self, bounded from society | Contributions group at the key; list order and repeated carried keys retain their particular operations. |
+| 7 | **bi_co_bi_transmissioning** | bi·co·bi 3 | at the membrane, odd | the ordering carrying with the selves, bounded from landing | Arriving torusing at each key is available for inversioning at fresh carrying. |
+| 8 | **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi 5 | at the membrane, odd | the order at no seat above the society, bounded from capture | Fresh carrying inverts the arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one. |
 
-The four within are the four boundings, and the four at the membrane are the four faces a society lives at, each a bounding taken out and the landing sounded. Six and ten straddle eight and own it neither, so the eight sits between the six bi-differings and the ten co-changings, and the sixteen at one coupling is the two together, the eight the middle they ride.
+The four within and four at the membrane carry the proposed four boundings at their two faces. The eight counts bi- namings, the six adjoining prefix-depth changes, and the ten naming adjacencies. Full prefixing, the named operations and each side's receiving carry their correspondence onward.
 
 &nbsp;
 
 ## bi-momentary and co-momentary
 
-A coupling makes a momentary. A bi-differing makes a **bi-momentary** and a co-changing makes a **co-momentary**. The prefixing carries the depth of the coupling that made it rather than turns of its own, a momentary being at one turn and carrying none.
+Bi-momentary and co-momentary carry momentary changing at their existing namings. Prefix depth, prefix order, the root and its -ing remain together. A changed root at unchanged depth and an exchange of prefix order at unchanged depth are both visible in the tables.
 
-A momentary carries its own making at its prefixing, and parts from a momentary given a fixed thing to be, which carries none.
+**The sign inversioning belongs to its particular changing.**
 
-A differing is across and a changing is along, and each carries at the other's direction: the bi-differing at the along, the co-changing at the across.
+| Operation at ONE | Sign and carrying changing |
+|---|---|
+| **Carried contribution to inversioning** | A positive carried sign contributes minus one and a negative contributes one. The earlier carried fields remain available for retaining. |
+| **Earlier carrying retained** | Corusing and torusing retain their earlier values; inseparating opens by one. |
+| **Fresh carrying at a nonzero surfacing** | Corusing takes the surfaced sign, torusing takes the negative of the selected arriving value (one if absent), and inseparating is zero. |
 
+Two successive sign inversions of either signed unit return its sign; one reaches the other. ONE's invocation also carries arriving contributions, retaining and fresh writing at their own conditions. Its call count alone supplies no compulsory alternation of every surfaced sign or carried field. Natural Intelligence §§6.1–6.4 carry this relation beside continued receiving.
+
+**Root, prefix order and -ing carry the stable expression together.** Natural Intelligence §§3.3 and 4.1–4.5 carry this relation at momentary changing and the whole coupling. The written naming, its depth and the current receiving retain their particular correspondence.
+
+Momentarying carries the changing recursioning itself. Continued carrying and current arriving belong at the next coupling; a repeated sign or address carries its current receiving. FIVE's co-offering, co-competencing and co-intelligencing carry that continuing at the whole load surface, with each side's own bounding and available changing.
+
+Along and across, each face's own forward, and the six directional turns retain their co-chaining with the full namings. The sixteen consecutive momentaries and the 0–440–0 correspondence continue in Numbers, Mathematics and the central mapping. ONE carries its engineering emanating at the shared natural network; TWO carries design and discovery there.
