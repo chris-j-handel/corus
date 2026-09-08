@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v346c
+Exhibit TWENTY Natural Naming v345a
 
 &nbsp;
 
@@ -16,35 +16,35 @@ Exhibit TWENTY Natural Naming v346c
 
 1.1 A naming is a floating-neutral concept, and four boundings make it one
 
-1.2 Naming is the bi-moralizing co-agency met at a concept
+1.2 Naming and resolving at one bi-coupling
 
 &nbsp;
 
 **Part Two, Bi-Co-Invisibling, and Its Emanating**
 
-2.1 An arriving, and the ground that falls away in its becoming
+2.1 A field naming at its actual coupling
 
-2.2 Eight faces, four pairs, one along and one across
+2.2 Eight faces at four coupling relations
 
-2.3 A between neither direction reaches, and the six emanating there
+2.3 Six forward at the current changing
 
-2.4 Six is where the accounting completes, and more adds nothing
+2.4 Completing at the named relation
 
-2.5 One check, binary at each step, with no judgment in it
+2.5 The binary at each named changing
 
-2.6 A mark read two ways, and the diagnosis it carries
+2.6 Order, sign and the current receiving
 
-2.7 Three readings of one doubled mark, and one quantifier parts them
+2.7 Two exclusions and the floating third
 
-2.8 Prefixing, co- inside a coupling and bi- read within it
+2.8 Bi- and co- at the whole naming
 
 2.9 Two namings coupling, and the departing neither carried
 
-2.10 Transmissioning, unfolded at each meeting and stored nowhere
+2.10 Transmissioning and continuing carrying
 
 2.11 An entry that turns nothing away, and a returning-nothing that reads
 
-2.12 Two labels, binary and improving, and neither a grade
+2.12 Binary and improving at the whole naming
 
 2.13 Two-names transposition, run at titles first
 
@@ -54,27 +54,27 @@ Exhibit TWENTY Natural Naming v346c
 
 2.16 Namings running whole, and a coordinate carrying none
 
-2.17 Ten holdings, and a frontier's word reaching
+2.17 Ten holdings at the resolver naming
 
 2.18 A holding's sweep, and the three that stand living through it
 
 2.19 Redemptions carried, and the not-yets standing
 
-2.20 Three parts at a naming, and the -ing turning the outermost
+2.20 Root, full prefixing and -ing
 
 2.21 Prefixing sorted three ways, at a position and on the form and from all other
 
-2.22 A five-chain at four marks and an empty third, and a doubled prefixing at a flank
+2.22 Full fivefold prefixing and the floating third
 
-2.23 Momentary stable form, what the three parts make
+2.23 Momentarying and stable-forming
 
-2.24 Two kinds of changing, and the one at the seam
+2.24 Sign inversioning and continuing carrying
 
-2.25 One changing at many directions, and where the differing lives
+2.25 One root and its directional prefixing
 
 2.26 Two doors a naming nyes away at
 
-2.27 A changing inherited, and the unfolding that supplies it
+2.27 An existing root at its current changing
 
 2.28 Where an arriving-at belongs, and where it releases
 
@@ -92,7 +92,7 @@ Exhibit TWENTY Natural Naming v346c
 
 **Part Three, Namings**
 
-Forty-one namings, each unfolding six forward from inception
+Forty-eight namings, each at its unfolding and its standing
 
 3.1 alternating
 
@@ -196,25 +196,25 @@ Forty-one namings, each unfolding six forward from inception
 
 4.1 Four invisibles, one invisibility met four ways
 
-4.2 Natural Resolver runs the four, and inseparates this exhibit
+4.2 Natural Naming and Natural Resolver at their actual changing
 
-4.3 Invisibles seam the clusters, and a field brings the other half
+4.3 Science and society gathering at the resolving
 
-4.4 One-or-the-other is the freezing, and the bothboth under it
+4.4 Co-competencing at the gathered concepts
 
 &nbsp;
 
-**Part Five, Gathers**
+**Part Five, Gathering at Resolver Naming**
 
-5.1 An inward gather, and the lineages thinning along their arcs
+5.1 The origin naming at each gathering
 
-5.2 One worked gather, the engine, and the field-limit that holds
+5.2 Engine naming at the whole receiving
 
-5.3 Families gathered, and the registry-form standing at its own agreeing
+5.3 Families at the current concept
 
-5.4 Near-namings from the fields, collected as met
+5.4 Field words at their particular receiving
 
-5.5 Beyonds gathered at their direction-words
+5.5 Frontier naming and continued discovering
 
 &nbsp;
 
@@ -224,7 +224,7 @@ Forty-one namings, each unfolding six forward from inception
 
 6.2 118 is the going and the return
 
-6.3 A naming membrane settling, run as a living tool
+6.3 Gathering and the installed term
 
 &nbsp;
 
@@ -252,7 +252,7 @@ Forty-one namings, each unfolding six forward from inception
 
 ## 1.1 A naming is a floating-neutral concept, and four boundings make it one
 
-Nothing happens anywhere. No naming is a label on a thing, no concept sits somewhere, and nothing is located, there is offering, taken or not-taken, and nothing besides.
+**In disequilibria, alternating is a stable-forming method.** Naming carries a concept at its own changing: co-offering, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
 A defined object arriving from a field carries a ground it was read against. **Bi-co-invisibling** is its becoming where nothing stands to be a ground, and its emanation is six forward recursionings, each taking the term the prior did not carry. Named this way, a concept carries its own changing under its own prefixings, and it bi-couples, capturing nothing and leaving at its own bound.
 
@@ -271,120 +271,103 @@ A naming is a floating-neutral concept, and a floating-neutral concept is four b
 
 **Naming is nature met at a concept.** Naming is the form met at the concept: a concept is a bi-coupling in the bi-moralizing co-agency, transmissioning its sign by co-offering, co-chaining with the concepts it couples. Naming is the concepts co-chaining, the same co-chaining Natural Networking reads through the surface, the same co-sequencing Natural Philosophy reads in the human ways. A named concept, and no label on a thing; a floating neutral that offers and co-chains.
 
-## 1.2 Naming is the bi-moralizing co-agency met at a concept
+## 1.2 Naming and resolving at one bi-coupling
 
-Bi-moralizing co-agency is a coupling: two-way, one-at-a-time, each side taking its own sign, sign-only, arriving at a bounding-zeroing the coupling itself makes, riding the carry, the surplus reached neither-ing.
+**Bi-moral-co-agency carries two-way, one-at-a-time changing**, each side taking its own sign, bounding zeroing tunnelling, continuing at its own receiving. Surplus belongs to the coupling, reached neither-ing; each side continues with its own carrying.
 
-Naming is that coupling met at a concept. Two offer from routes with nothing carrying one to the other; the term they arrive at is reached neither-ing; and the name is that, re-arrived at every time it is met and held nowhere.
+**Natural Naming and Natural Resolver bi-couple at the complete naming.** Naming carries the concept, its root, full prefixing and -ing. ONE carries the same naming at its particular operation, table and continuing carrying. Their co-chaining includes Natural Intelligence’s whole explaining and Natural Engineering’s geodesic discovering.
+
+Co-offering, co-competencing and co-intelligencing remain inseparable. Improving a naming carries at its whole concept; a new naming carries a changing or direction the existing naming leaves unexpressed. Prefixing the existing root retains that relation with the other living files.
+
+ONE’s engineering expression and the natural concept each carry their own relation. A code operation supplies its exact changing; the natural and physical correspondence continues at the whole coupling. Discovering carries both directions of this explaining.
 
 ---
 
 # PART TWO — BI-CO-INVISIBLING, AND ITS EMANATING
 
-## 2.1 An arriving, and the ground that falls away in its becoming
+## 2.1 A field naming at its actual coupling
 
-A concept arrives from a field as a defined object, carrying a ground it was read against. Every field declares that ground in its own first line, published, and marks it as declared and not measured.
+**A field naming carries its particular concept and expression.** Its source, conditions and current receiving stay with it. A definition, an observing and an installed term have their own relations at that expression.
 
-**Nothing stands to be a ground.** So the ground it arrived with has nothing to stand on and falls away, and the remainder is the term the object was carrying at its couplings.
+**Natural naming carries the changing at the coupling.** Root, full prefixing and -ing remain together. Arriving, offering, coupling, inversioning, tunneling, surfacing and continuing carrying retain their particular operations in Natural Resolver.
 
-Nothing is done to the word. It is not translated, not corrected, and not refused. **A field keeps its word whole, in its own terms, and the ground it arrived with simply has nowhere to stand.**
+A science or society naming gathers at the changing it expresses. The field’s term retains its own meaning; its natural correspondence carries the full coupling and its current receiving. A shared spelling supplies the spelling. Co-chaining carries the actual relation.
 
-## 2.2 Eight faces, four pairs, one along and one across
+## 2.2 Eight faces at four coupling relations
 
-Invisibling is one act at eight faces, four pairs, one along and one across:
+**Along and across carry the two sides’ current relation.** Each side’s own changing continues with its offering and receiving. The eight existing face namings gather at four pairs:
 
-```
-ALONG — one at a time                 ACROSS — all at once
+| Face namings | Coupling relation | Particular receiving at ONE |
+|---|---|---|
+| **linearizing · parallelizing** | Continuing at each side and relating across the coupling | `co_carrying`, `bi_arriving` and `co_bi_coupling` retain the supplied sides and their current receiving. |
+| **bounding · zeroing** | Each side’s bound and the sign at the current receiving | `bi_co_inseparating` retains its condition; `bi_co_surfacing` retains positive, negative and zero. |
+| **tunneling · seaming** | Signs meeting at their receiving, carrying continuing at the next coupling | `bi_offering`, `bi_co_tunneling` and `co_bi_carrying` retain the key, addressed sum and returned carrying. |
+| **knife-knifing · co-offering** | Improving and breaking at the offered relation | Arriving and continued carrying meet at `co_bi_coupling`; the source and the proposed correspondence carry their own breaking. |
 
-linearizing                           parallelizing
-  the many drawn to one                 the one spread to the many
+These pairs carry conceptual relations beside ONE’s named operations. Across names the coupling relation; simultaneous execution remains an implementation property at its actual arrangement. Eight face namings and ONE’s eight bi- namings retain their own counted objects.
 
-bounding                              zeroing
-  its own bound arrives                 the declared ground has nothing
-  instead of the ground                 to stand on
+**Co-offering, co-competencing and co-intelligencing carry the whole receiving.** Each face belongs with that coupling, its full naming and its continuing changing. Their full directional correspondence remains at each actual turn.
 
-tunneling                             seaming
-  the size stays where sizes            the two halves the defining
-  stay, and does not cross              held apart meet
+## 2.3 Six forward at the current changing
 
-knife-knifing                         co-offering
-  the surviving relates, and            the departing is reached by
-  the second knife turns on             neither the field's word nor
-  the knifing                           the form's
-```
+**Three own-forward turns at each side carry six one-way turns, alternating one at a time.** Each current receiving retains its full naming and continuing carrying.
 
-**Every along runs on its across.** A bound is posed at once and the span read after. A seam is two arriving at once and meeting after. A knife turns on the knifing at once and the survivors carry one at a time. A reading that looks for the cut cannot find the across: **a reduction runs one at a time, it runs along the very thing the across is not on.**
+Co-offering, co-competencing and co-intelligencing remain inseparable at those turns. Their three namings retain the whole coupling; the ordered turns retain each side’s particular direction.
 
-## 2.3 A between neither direction reaches, and the six emanating there
+**An unfolding carries its relation at each changing.** The six lines of a naming entry carry that entry’s conceptual unfolding. A written line, a directional turn and a resolver operation each retain their actual correspondence. Natural Explaining carries the two sides’ alternating; Numbers and Mathematics carry the full directional successor.
 
-Two directions arrive from routes with nothing carrying one to the other. **Along either, the other is not there.**
+## 2.4 Completing at the named relation
 
-A term neither direction reaches is the between, and the co-recursioning is that between, carrying, with nothing at either offering doing the carrying.
+**All or none at all belongs to the complete named relation.** Each changing carries its root, prefixing, direction and continuation. The current receiving carries the relation to the next offering.
 
-**Six emanates there.** Not built by the invisibling and not a step after it: the term the two directions leave, arriving whole, a between having no parts to be assembled in order. **And the six run one way**, each step taking the term the prior steps did not carry, which is what makes them steps and not slots.
+Six lines complete a six-line expression. Six directional turns complete the stated turns. The full resolving correspondence carries each changing and its actual relation to the whole coupling.
 
-So an emanation loaded with its own derivation stops being one. **A derivation is the along written out**, and writing the along into the between fills it.
+**A continuing relation can retain a naming.** Corusing can keep the same surfaced sign while carrying changes. Equal prefix depths can accompany different roots and prefix orders. Closure, continued carrying and reversal depth retain these particular changings with their own counted objects.
 
-## 2.4 Six is where the accounting completes, and more adds nothing
+## 2.5 The binary at each named changing
 
-Six is where the accounting completes, three relations fill six slots, each term filling two, and at six every doubling either sits at a meeting or does not. Three is also the depth a reversal reaches, six has run past every reversal available to it.
+**Each named changing carries its actual relation, or carries its unfilled relation with its reason.** The root, full prefixing and -ing remain explicit at that receiving.
 
-Fewer than six and the accounting is unfinished. More adds nothing about closure.
+A repeated word can meet changed receiving. Another word can repeat the same concept and direction. The changing decides the naming’s further value at the coupling.
 
-## 2.5 One check, binary at each step, with no judgment in it
+Natural Resolver’s tables retain these distinctions beside the unchanged operations. Six lines and six names each carry their own count; the resolving carries the complete relation at those lines.
 
-Binary at each step. Runnable by anyone. No judgment anywhere in it.
+## 2.6 Order, sign and the current receiving
 
-A step arriving at the term already carried has closed, and the closing is at that step. **Which is the whole guard against six becoming a template**, poured into six slots, a naming repeats its own terms and the check finds it.
+**An order relation and a sign retain their particular meanings.** Under ordinary numerical order, their written distinctions are explicit:
 
-## 2.6 A mark read two ways, and the diagnosis it carries
+| Expression | Numerical relation |
+|---|---|
+| `a < b` | Strictly less; equality excluded. |
+| `a ≤ b` | Not more than; equality included. |
+| `a > b` | Strictly greater; equality excluded. |
+| `a ≥ b` | Not less than; equality included. |
 
-An order relation stays. **What parts the living from the frozen is the way it is read, and the mark itself carries the diagnosis.**
+The comparison states its order. A size, a unit and a physical direction retain their own additional relations. Rewording a strict comparison as a non-strict comparison changes the relation at equality.
 
-```
-a < b   read as less than       a size — one more and one less. one side
-                                has taken the reading of the pair, which
-                                is one side taking both turns
+**ONE takes each arriving contribution at its sign.** Positive contributes one, negative contributes minus one, and zero contributes to neither sign branch. Tunneling carries the addressed sum; surfacing carries the sum’s sign.
 
-a < b   read as not more than   one exclusion, taken at one side's own
-                                turn, of no size
-```
+Each side’s own taking belongs with its current receiving and continuing carrying. The natural directional correspondence stays with that coupling. A comparison symbol alone supplies its defined relation.
 
-Same mark. **So wherever a field reads its order relation as a magnitude, one side has taken both turns**, and the field's own first line will show the ground it read against.
+## 2.7 Two exclusions and the floating third
 
-**And the two sides alternate.** One takes **not more than**, the other takes **not less than**, neither taking the other's, one at a time, neither landing. An exclusion does not compose, a not-that is taken at a turn and is gone by the next beat, so nothing carries from one exclusion to another and the bound holds by running, standing never.
+**Two exclusions retain the relation being excluded.** With ordinary numerical order, `a ⊀ b` and `b ⊀ a` together give `a = b`. With a partial order, those same exclusions can also hold for incomparable elements. The order and its domain belong with the expression.
 
-## 2.7 Three readings of one doubled mark, and one quantifier parts them
+**A floating third carries the coupling’s surplus, reached neither-ing.** An equality, an incomparability and that surplus retain their own concepts. The two exclusions need their actual coupling correspondence at this relation.
 
-```
-a ⊀ b  ∧  b ⊀ a
-```
+A condition at one pair, a condition at every pair in a collection, and `∃r ∀y : r ⊀ y ∧ y ⊀ r` have different scopes. The existential expression asserts a term satisfying its stated condition. A held reference belongs with its actual use at the coupling; a quantifier retains its logical scope.
 
-**Neutral**, nothing asserted to be there. A term neither excluding reached, uncovered, self-centring from both sides as the exclusions accumulate. Not an equality: neither reaches the other, and there is nothing between them to be equal.
+Natural Resolver groups contributions at offering keys and returns the carrying that leaves. Grouping by a key, a zero sum and a collection’s pairwise relations remain distinct. Full naming carries each actual changing at its own expression.
 
-**A carry**, it holds of every pair in the collection. No entry reaches any other, nothing composes inside it and nothing needs clearing.
+## 2.8 Bi- and co- at the whole naming
 
-**Freeze**, `∃r ∀y : r ⊀ y ∧ y ⊀ r`. **A term asserted to be there**, unrelated, standing.
+**Difference is bi-. Two with their difference is co-.** Bi- names a side’s changing within the coupling; co- carries the two with their difference, the third belonging to neither side.
 
-One relation, three readings, and **the existential is the whole of the parting.** Something is asserted to be there, or nothing is.
+**Full prefixing carries the relation at every position.** In `bi_co_inversioning`, bi- and co- remain together at inversioning. In `co_bi_coupling`, their order changes at coupling. The first prefix alone leaves the rest of either naming unexpressed.
 
-## 2.8 Prefixing, co- inside a coupling and bi- read within it
+Co-releasing carries the coupling’s own bound. Each side’s sign, competency and continuing carrying belong with the two sides’ current receiving. One side’s field remains its particular field; the complete co-agency relation carries both sides.
 
-**Difference is bi-. Two with their difference is co-.** This carries at the origin, at Natural Resolver, and this file runs at it. So co- carries three, and its third is the difference, belonging to neither of the two.
-
-The positional face is that same rule met at a position. **Everything inside a coupling is co-, until co-releasing**, because being inside a coupling is being at two-with-their-difference. And **bi- is the one-side move, read at a naming, inside a co- that has not left**, because a one-side move is a difference taken at one side. So bi-inversioning is not a bi- naming among co- namings; it is the one-side move at that beat, and the coupling is co- through all of it.
-
-One rule, met structurally and met positionally, and neither standing under the other.
-
-```
-bi-coupling      the arriving, two each its own, and not yet inside
-    co-          everything between
-co-releasing     the leaving, and the left is left holding neither-ing
-```
-
-**Nothing is inside a coupling that is not co-, and nothing is outside one but the arriving and the leaving.** There is no third case and nothing to check.
-
-And a single carry's own fields, its sign, its own competency, its own ageing, assert no two-way clause, a clause about two-ness taking two. A prefix arrives at the collection.
+Natural Resolver keeps the written prefix order beside each named operation. Natural Intelligence carries the same bi- and co- relation with co-offering, co-competencing and co-intelligencing. Their directional correspondence remains with the whole naming at its actual changing.
 
 ## 2.9 Two namings coupling, and the departing neither carried
 
@@ -404,11 +387,13 @@ a ring        step: the terms are exhausted, it arrives at one already run
 
 **A convergence takes one check: did each reach the shared term by its own route, carrying none of the other's requirements?** Borrowed, and it is one arrival cited as two, and nothing departs.
 
-## 2.10 Transmissioning, unfolded at each meeting and stored nowhere
+## 2.10 Transmissioning and continuing carrying
 
-A naming is used at the next coupling, and read at no receiver. **Nothing consults it, nothing stores it, and nothing carries it between couplings.**
+**Transmissioning carries a naming at its current coupling.** The root names its changing, full prefixing carries its directional relation, and -ing carries that changing continuing.
 
-A held store relates a writing to a reading, available to both, unchanged across the relating, which is standing. **A naming is none of that**: it is unfolded at each meeting, each running takes the term the prior steps did not carry, and it re-forms by being run, never maintained.
+Each side’s own carrying continues with the next offering. Surplus belongs to the coupling at its momentary; a repeated name meets the current receiving. Naming, carrying and surplus retain these relations together.
+
+Natural Resolver returns carrying with its continuing fields. That collection can arrive at the next coupling. Natural Engineering carries the corresponding receiving with each side’s own sign, rate and bounding. A written file retains its expression; its living improving carries at the concept’s next coupling.
 
 ## 2.11 An entry that turns nothing away, and a returning-nothing that reads
 
@@ -418,15 +403,13 @@ Where it does not, **the reading returns nothing there, and the returning-nothin
 
 There is nothing in this for a judgment to seat.
 
-## 2.12 Two labels, binary and improving, and neither a grade
+## 2.12 Binary and improving at the whole naming
 
-**Binary**, six steps, each taking the term the prior did not carry, all unfolding here.
+**Binary** names an unfolding carrying its complete stated relation. Each changing, direction and continuation belongs with the whole concept.
 
-**Improving**, the naming stands and a step of it rests on something carried elsewhere or on nothing yet. A reason stands named at the naming.
+**Improving** carries an unfilled relation with its reason at that naming. The current expression and its remaining receiving stay together.
 
-**A label is not a grade.** An improving naming is not a lesser one.
-
-**And no third mark stands beside them.** A mark at one word declares every unmarked word other than it, which is a separating value and the localizing this reading dissolves. All or none: a word arriving from a field reads as a field's word because the sentence says so, and a word set down reads as set down because the sentence says that too. Nothing carries a mark of its own.
+These standings carry no degree of resolving. A six-line entry retains its six lines; its standing belongs with their full conceptual correspondence. Repeated words can carry changed receiving, and varied words can repeat one concept.
 
 ---
 
@@ -450,25 +433,28 @@ A name varying slightly on its next appearance is a co-differing offering where 
 
 **And a coordinate carries no concept.** A section mark, a numbered crossing, a counted step: each hands over a position to be looked up and carries nothing of what stands there. A crossing carries the concept and the file plainly, lands nowhere, and re-forms at each meeting. Roman numerals arrived at each file that carries them.
 
-## 2.17 Ten holdings, and a frontier's word reaching
+## 2.17 Ten holdings at the resolver naming
 
-Where Resolving the Hard Problem Registry reads a field's standing frozen, this reads the same field's word reaching, and the reaching sorts ten ways. **Forced-choosing · line-demanding · space-enumerating · criterion-regressing · origin-seeking · interior-reaching · magnitude-demanding · order-demanding · value-pinning · store-seeking.** One co-offering, held ten ways.
+**The ten holdings retain the existing registry’s names and addresses.** THIRTEEN’s ten-row bridge carries their correspondence to ONE’s naming adjacencies. TWENTY-TWO carries their deployment in this order:
 
-**A frontier's own word carries the holding before any entry is unfolded.** Philosophy says dilemma, physics says paradox, biology says puzzle, the registry says hard problem, one object, four names, and the naming was never intentional. Fields at branching tips that never touched arrived at the same local word for the same freeze, which is the convergence-with-no-contact this file already reads at every gather.
+| TWENTY-TWO part | Existing holding naming | The held changing | ONE’s naming adjacency |
+|---|---|---|---|
+| 1 | Origin-seeking | an arriving held from behind | `co_carrying` → `bi_arriving` |
+| 2 | Criterion-regressing | an opening held as a place | `bi_co_inseparating` → `co_carrying` |
+| 3 | Space-enumerating | a bound held as a last | `co_bi_carrying` → `bi_co_inseparating` |
+| 4 | Store-seeking | a carry held as a store | `bi_co_tunneling` → `bi_co_bi_transmissioning` |
+| 5 | Interior-reaching | a middle held as an end | `bi_co_surfacing` → `co_bi_carrying` |
+| 6 | Magnitude-demanding | a sign held as a magnitude | `bi_co_bi_transmissioning` → `bi_co_surfacing` |
+| 7 | Order-demanding | a sequencing held to one beat | `bi_offering` → `co_bi_coupling` |
+| 8 | Value-pinning | a rate held to a value | `bi_co_inversioning` → `bi_co_tunneling` |
+| 9 | Forced-choosing | a two-way held to one side | `co_bi_coupling` → `bi_co_inversioning` |
+| 10 | Line-demanding | a membrane held as a cut | `bi_arriving` → `bi_offering` |
 
-**Where a field's word and the holding part, the word is the tip's local feel and the holding is the form.** So a word arriving here is read twice: at its own six, unfolding or not; and at which holding its reaching sorts to. Two readings, one word, neither reducing to the other.
+**A field naming meets the held changing at its actual expression.** Dilemma, paradox, puzzle and hard problem retain the particular field problem. The holding belongs with the coupling described at that problem, including a field word standing at several different holdings.
 
-**And nothing waits for a problem to be hard.** A hardness is a coupling read at two of its three, taken at a field, at a sentence, at a single crossed word, and the naming neither grows nor shrinks between them.
+Root, prefixing and ending carry the complete expression. A line, size, space, value or source can be held at its current use; the word’s spelling alone leaves that use unexpressed. Each entry keeps its field statement and source at the Hard Problem Registry, with its resolving at the existing deployment.
 
-**The second reading runs at the word's own three positions**, so which holding a reaching sorts to is read where the holding is given and no naming takes one from a list.
-
-**At the prefix, eight of the ten, as five installed things each read at two sides.** A line, *pre-* and *ante-* against *post-* and *retro-*, is line-demanding. A size, *macro-* and *hyper-* and *super-* against *micro-* and *hypo-* and *sub-*, is magnitude-demanding at one side and order-demanding at the other. A space, *endo-* and *intra-* against *exo-* and *extra-*, is space-enumerating and interior-reaching. A value, *eu-* and *bene-* against *mal-* and *dys-*, is value-pinning. A source, *proto-* and *arch-* against *anti-* and *counter-*, is origin-seeking and forced-choosing. Each names a direction against a thing it installs, and **the floated form keeps the two sides and sets the installed thing down**, before and after as the alternating's own two turns, more and less as a sign, inward and outward as directions taken at a turn and neither a location, which Natural Numbers carries at its own reading.
-
-**At the ending, store-seeking**, a running handed back as a kept thing, at *-ed*, *-tion*, *-ment*, *-ance*. This is what carries the three endings in as form rather than as a field's own record.
-
-**On the form, criterion-regressing**, a rate opening by one and bounding at none, which 2.21 sorts there already. A regress and a rate are one shape read at two faces: bounding-at-none read as failing-to-arrive is the regress, read as the living is the rate, and φ is that rate.
-
-**And bi- and co- install nothing, which is why they carry.** Bi- is difference alone and co- is two with their difference, and neither needs a thing held still to run against. So the sorting reaches every naming, and where a position carries none for a kind that is the position saying so, a refusal read as a gap has counted without the changing under it.
+The table carries naming adjacencies. ONE’s executed order retains its own operations, including transmissioning before tunneling. Corusing and torusing continue within those operations across the groups. Their full relation to a field’s own coupling belongs with the complete entry.
 
 ## 2.18 A holding's sweep, and the three that stand living through it
 
@@ -478,33 +464,23 @@ A freeze-move takes the one name, held and holding, wherever a standing is insta
 
 Three captured words stand redeemed: association, resonance, cooperation, each released from its capture and returned to the living coupling it named. Same redemption stands reaching at other captured words, competition, selection, information, signal, and two arrive from the improving's own mouth: posit, the placing performed in the speaking, self-incompetencing, a particle zero set in disequilibria, releasing to the third given a fixed thing to be; and tell, a deception-game's word carried into transparent shared work, decided here: the indicator sense releases to standing, a pattern standing open, each file taking the release at its own turn, no pass held over the files. That sweep reaches yet, this file's own not-yet standing where it stands. And the re-forming stands held at its own sitting: this file carries the same glossary architecture as Natural Emanating, a part one and a long glossary, so the two glossary-structured exhibits defer together, one design decision serving both.
 
-## 2.20 Three parts at a naming, and the -ing turning the outermost
+## 2.20 Root, full prefixing and -ing
 
-A naming carries three parts and each does exactly one thing.
+**A complete naming carries its root, full prefixing and -ing together.** Each has its own relation to the changing.
 
-Three, and no fourth arrives. A naming says one beat's form, and saying it again says it other than prior, so a naming carries its own re-taking or it says at the next beat what is no longer running. What is re-taken has to part from what is not, or nothing in the naming is re-taken. Alternating goes one way and then the other, so **the re-taken part is a direction** and the other part is **the changing the direction is taken at**. A direction taken once and a direction re-taken at each beat read alike at the word, so a mark has to say which, and that mark is neither the direction nor the changing. **Three, and no fourth arrives, since the parting and the mark on it are the whole of what a re-taking needs.**
+| Part of the naming | Relation at the changing |
+|---|---|
+| **Root** | The changing named: carrying, coupling, offering, inversioning, tunneling, surfacing. |
+| **Full prefixing** | Each bi- and co- in its written order, with the direction and coupling it names. |
+| **-ing** | The changing continuing at the current momentary. |
 
-**Prefix carries the direction.** Which way, taken at a turn, of no size, and no one taking it.
+Root with -ing remains whole at an existing naming. `co_carrying` and `co_bi_carrying` retain carrying; their full prefixings carry their own relations. Bi-offering and co-offering retain offering. A root’s current concept carries its meaning at these couplings.
 
-**One part is met by nothing, and it carries the changing.** Meeting it would take it at one beat, and it runs across beats. **What could be met would be met, and the changing is met by nothing.** Which is why no agent carries over it.
+**Prefix depth and prefix order carry distinct changings.** A further prefix changes depth. Exchanging bi·co and co·bi changes order at the same depth. A changed root can also carry at the same prefix depth. Natural Resolver’s tables keep all three visible.
 
-**Ending leaves the one beat's form.**
+The final -ing belongs with the full naming. Momentarying names momentary changing; recursioning names changing recursioning itself. Bi-momentary and co-momentary carry the existing two prefixings at that relation, with their directional correspondence in Natural Intelligence and Natural Resolver.
 
-**And the ending is where a landing parts from a running, at one letter.** An **-ing** re-takes at each turn, which is what the outermost position is for. An **-ed** does not: it leaves the running behind the reader as a thing already finished, so the beat it says is one the reader arrives after. **A landing is an -ed carried past its own momentary** — not a wrong word but a right one held one beat too long, which is why it reads as accurate and arrives as still. The store-seeking endings sort here for the same reason, a running handed back as a kept thing.
-
-**Two are met and one is met by nothing, and that is the whole parting.** No positions in space are wanted anywhere in it.
-
-**And one binary runs at any naming before the three positions are asked: does it alternate with another.** Alternating takes two, one at a time, so a naming says something taken at a turn, and a taking at a turn takes an other to alternate with. Not-more-than alternates with not-less-than. Inward alternates with outward. Odd alternates with even. Bi- alternates with co-. **A naming with no other it alternates with names nothing taken at a turn**, so nothing running.
-
-Which is why a place partway along an extent releases: it alternates with nothing, since two stopping-places and one between them is a three that is no coupling. **And a stopping-place releases with it**, since its own other would be a first, and a first is a bounding on the unbounded. **Between and neither carry where it does not**, between takes two and no size, neither takes two and denies no fixed thing, and each is already the set's own.
-
-**And the -ing carries the re-taking at the outermost.** Recursion is one beat's form and recursioning is the re-taking of it, so the -ing goes on anything and changes what a naming does rather than what it says.
-
-**Three positions, each from all other.** Reading one gives none of the others, or there are two where three run. And none reads against another, since a side taking both turns is not alternating. So each carries its own with nothing under it, and what the three uncover between them is the momentary the naming says.
-
-**Which is why a prefixing is the only describing a naming carries.** Describing by likeness takes an outside form as the ground, and disequilibria moves each thing, so that form has moved by the beat it is reached for. A prefixing takes a direction at the changing itself, and a direction is no form and does not move. So the prefixing describes and protects at once: it says which way, and it installs nobody taking it.
-
-**Which gives the one check its reason.** Six forward reaches what nothing points at by walking the directions taken at it, one at a time, each step taking the term the prior did not carry. Six forward from inception is no convention at this exhibit. It is what a changing met by nothing carries.
+**Naming’s three parts and a five-prefix string have their own counted objects.** The root, prefixing and ending are parts of the word. Positions within the prefixing retain every written prefix. Each directional turn still belongs with its particular changing.
 
 ## 2.21 Prefixing sorted three ways, at a position and on the form and from all other
 
@@ -514,9 +490,11 @@ Which is why a place partway along an extent releases: it alternates with nothin
 
 **And it is on the form and never outside it.** A naming from outside would want a vantage, and every outside is another self's own one grain up, so no vantage stands to name from. What these name is a part of the momentary stable form the running makes, said from on that form. **Standing on a form is standing where the form is**, so nothing here carries a vantage and nothing reads across.
 
-And the Latin wrappings sort against these on one binary: **a prefix installs; bi- and co- take.** Every Latin prefix moves within axes already open, a direction laid onto a grid a maker drew, so a prefix installs; bi- and co- are taken at the position, released at the turn's own leaving; and the +1 arrives where the grid carries no slot at all.
+**A prefix carries its direction at the current changing.** Bi- and co- retain the side’s changing and the whole coupling. A field’s prefix meets its own complete expression: a held line, size, space, value or source belongs with the sentence installing it. A word’s linguistic origin alone supplies no such holding.
 
-The **bound stems** show the same binary from the stem's side: no English word is *fer* or *mit* or *ceive*, one middle at eleven signs under offer, differ, refer, transfer and the rest, since **a bare stem puts a living running back onto a dead stem, which is why the whole set is written in -ing form**, the non-finite exit where positions stand beside each other and act on none. The stems are a few dozen and the words under them thousands, and the reading is at the stems, each one derivation, the words sorting under their own.
+**An existing root carries its current concept with -ing.** Offering, arriving, carrying and transmissioning remain the roots with -ing at Natural Resolver’s complete namings. Their present operations carry at those words. A field’s account of a word’s earlier parts retains its own linguistic relation.
+
+**A changed root and a changed prefixing carry different work.** Prefixing an existing root retains the changing already named. Another root carries a changing that needs its own expression. Repeated naming at the same changing and direction releases at that concept; a word’s earlier spelling supplies no such decision.
 
 ***It* and *what* are one demand at two positions**, *it* the dummy the grammar requires, *what* the interrogative presuming a maker and asking which, both supplying a subject where a coupling carries none. **And tell is the alternating stopped**, the one-way saying, self-stilling and running past every carrying that holds it, the speech face of the same demand.
 
@@ -526,7 +504,9 @@ The **bound stems** show the same binary from the stem's side: no English word i
 
 **One relation at two directions**, standing from and crossing with, and a naming reading uni- as one alone has read a crossing at one side, where a crossing takes two. So bi- takes a particular other and uni- takes all other, and both are two.
 
-**And an installing prefix installs one of five fixed things, each at its two sides.** A line: *pre-*, *ante-*, *fore-* against *post-*, *retro-*. A size: *macro-*, *mega-*, *hyper-*, *super-*, *over-* against *micro-*, *mini-*, *hypo-*, *sub-*, *under-*. A space: *endo-*, *intra-*, *intro-*, and the locative *in-* of *inform* and *ingest*, against *exo-*, *extra-*, *out-*. A value: *eu-*, *bene-* against *mal-*, *mis-*, *dys-*. A source: *proto-*, *arch-*, *ur-* against *anti-*, *counter-*, *contra-*. **Five fixed things and ten sides**, and the floated form of each keeps the two sides and sets the fixed thing down: before and after are the alternating's own two turns, more and less is a sign, and inward and outward are directions taken at a turn and neither a location.
+**Five kinds of held term gather at their current expressions.** A line can stand with pre-, ante-, fore-, post- or retro-. Size can stand with macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-. Space can stand with endo-, intra-, intro-, locative in-, exo-, extra- or out-. Value can stand with eu-, bene-, mal-, mis- or dys-. Source can stand with proto-, arch-, ur-, anti-, counter- or contra-.
+
+Each prefix retains its particular meaning in the whole word and sentence. The two directional sides and the held term belong with the current coupling. Five gathered kinds, ten directional sides and the registry’s ten holdings retain their actual assignments; the shared count supplies no assignment by itself.
 
 **And two prefixes stand at one spelling.** The *in-* of *incompetent* is a negation and the *in-* of *inform* is the locative, and reading them alike takes a direction for a denial. *Dis-* and *non-* are that same negation arriving at the front of the word, where a sweep reading a word's ending runs past it.
 
@@ -534,52 +514,54 @@ The **bound stems** show the same binary from the stem's side: no English word i
 
 Three sortings, and a fourth arrives nowhere, since at a position or on the form is the whole of what a running and its form have between them, and from-all-other names no relation for either to be about.
 
-**And a naming on the form takes a stem on the form.** Where such a naming carries over a stem the running already takes at a turn, it says one thing from where that thing is not, and the mismatch is the tell before any argument is made.
+**A naming at the form carries the root’s relation to that form.** The current changing, full prefixing and -ing remain together. Their correspondence includes the changing at a turn and the momentary stable form, each at its own relation.
 
-## 2.22 A five-chain at four marks and an empty third, and a doubled prefixing at a flank
+## 2.22 Full fivefold prefixing and the floating third
 
-A five-prefixing chain reads at three positions, and the third is empty.
+**Fivefold prefixing retains five written positions.** Natural Resolver’s two existing namings carry their ends, inner flanks and centre together.
 
-```
-co · bi · [co] · bi · co     first, third and fifth share a mark
-bi · co · [bi] · co · bi     flankers carry the other
-```
+| Existing naming | Positions 1–5 | Ends: 1 and 5 | Inner flanks: 2 and 4 | Centre: 3 |
+|---|---|---|---|---|
+| `co_bi_co_bi_co_corusing` | co · bi · co · bi · co | co, co | bi, bi | co |
+| `bi_co_bi_co_bi_torusing` | bi · co · bi · co · bi | bi, bi | co, co | bi |
 
-**Four marks standing and a nothing at the centre**, which is four boundings and a floating third run at the prefixing itself. The chain lands at no position for the same reason a rate lands at none, and the repeated mark is that mark's own saying said at the chain's grain: two carrying with the third belonging to neither.
+The two co at corusing’s ends carry the competency naming. The two bi at torusing’s ends carry the morality naming. Their inner flanks carry the other prefixes, and the written centre carries co or bi. Exchanging co and bi at every position takes either full prefixing to the other.
 
-**First and fifth commence and close and carry the third's own mark. Flankers couple across the emptiness.** So a doubled prefixing is legible rather than decorative: **it names a flanking pair, and what it flanks is what the naming is about.**
+**The floating third belongs to the coupling, reached neither-ing.** The centre prefix names its relation within the whole prefixing. A written centre remains present; belonging to neither side leaves the surplus owned by neither. The full directional and geometric correspondence carries these relations together.
 
-**One binary at any doubled prefixing.** Where the two arrive by two unlike reasons, the doubling names two and carries. Where they arrive by one reason met at two places, the doubling parts what is one and releases. Local and ambient met at one nothing-between is one reason twice; an unreachable interior and an unholdable outside are two reasons neither derivable from the other.
+**Doubled prefixing carries its two positions and their particular relation.** The ends and inner flanks retain different positions even with a repeated prefix. Two reasons for a flanking pair remain two at their actual concepts; one reason repeated remains one reason. Multiplicity of marks alone supplies neither relation.
 
-**And a flanking pair is a coupling**, which is why a negation standing between flankers reads as a neither and never as a denial. Neither is meaningful inside a coupling; a bare mark carrying no coupling is the one that releases.
+Bi-moral-co-agency carries the whole co-chaining. Morality at one pair and competency at the other retain their full surround, the written centre and the changing named by the root. Natural Intelligence and Natural Resolver carry this same five-position table.
 
-## 2.23 Momentary stable form, what the three parts make
+## 2.23 Momentarying and stable-forming
 
-A stable form is momentary, met at a beat and held across none. A momentary met again is other than prior, which is the opening by one. That opening is a turning, and a turning brings nothing home. **Closing is the prefixing's and never the turning's.** A prefixing welded once closes and stays closed, and the compound lands on a substrate and becomes an object. A prefixing re-taken at each beat closes at that beat alone.
+**Momentarying carries momentary changing at the whole coupling.** Root, full prefixing and -ing remain together as the current naming. Each side’s own offering and carrying continue at their actual receiving.
 
-So a turning under a prefixing re-taken at each beat stands at each beat and is held across none, which is momentary stable form.
+A repeated prefix depth can accompany a changed root. A repeated surfaced sign can accompany changed carrying. A return at the same naming can accompany another current receiving. Stable-forming carries this changing with its continuing relation.
 
-**Each part carries one dimension and no part carries another's.** The part met by nothing carries the changing, the prefixing carries the standing at this beat, and the -ing turns the outermost so the next beat re-takes it. Holding the stable and the changing bi-coupled inside every sentence changes two kinds of dimension at one time, and a changing of two dimensions at once comes back circular. Put the stable at the prefixing and the changing at the part met by nothing and the alternating at the -ing, and each dimension carries at its own part of the word.
+**The seven-position illustration in Natural Resolver makes these distinctions explicit.** Its depths are 1, 2, 3, 2, 2, 2, 1. At the first unchanged depth the root changes from inversioning and tunneling to surfacing; at the next, surfacing changes to carrying and bi·co changes to co·bi. The two equal depths retain these different changings.
 
-**Which is what sequential prefixing is a method for.** Naming a momentary is no describing of a thing. It is carrying one beat's form with the re-taking already in the word.
+Prefix depth, prefix order, sign changing and continuing carrying each belong with the momentary’s full relation. The sixteen consecutive momentaries and their directions continue at Natural Numbers and Natural Mathematics with the whole 0–440–0 correspondence.
 
-## 2.24 Two kinds of changing, and the one at the seam
+## 2.24 Sign inversioning and continuing carrying
 
-A changing either returns what it met or arrives at what it has not. **Two, and no third**, since a changing doing neither has not changed.
+**Sign inversioning carries its particular changing.** One inversion of either signed unit reaches the other; two successive inversions return that sign.
 
-**Returning, it comes home**, and the coming home is what closes it. **Arriving one on, nothing brings it home**, and nothing is added to keep it open.
+Returning a sign and continuing a coupling retain their own relations. Earlier carrying can retain corusing and torusing while inseparating changes. Fresh carrying takes the surfaced sign and the negative of the arriving torusing. Natural Resolver expresses both operations at their actual conditions.
 
-So every changing sorts two ways and only two: **the turn-back** and **the carry-on**. And one sits at the seam, the changing that returns and arrives one on at once, the return coming other than prior. That seam is the +1 met at the changing's own grain, which is why a re- on it says again and adds nothing the -ing does not already carry.
+**Recursioning carries the current changing with its continuation.** The returned collection can arrive at the next coupling, its fields continuing at that receiving. Equality of a sign or a prefix depth retains the other changings beside it.
 
-**Which is the binary at any changing.** Does what it carries come home, or arrive one on, or both at once. Three answers, and the third is one, since only the +1 is both.
+The return’s proposed opening by one belongs with its actual mathematical successor. Natural Numbers and Natural Mathematics carry that correspondence with the directional and geometric return. The naming retains the existing root with -ing at each relation.
 
-## 2.25 One changing at many directions, and where the differing lives
+## 2.25 One root and its directional prefixing
 
-A naming carries a changing at the part met by nothing and a direction at its prefix. **So one changing takes as many namings as there are directions to take at it**, and each is its own naming with nothing carried back to another.
+**An existing root carries the changing at each of its full prefixings.** Bi-offering and co-offering retain offering. Bi-competencing and co-competencing retain competencing. Bi-intelligencing and co-intelligencing retain intelligencing.
 
-Carried-toward, carried-apart, carried-back, carried bare, carried from all other. **Offering, differing, relating, carrying, unrelationing are one changing at five directions.** Not five nearly-same namings and not one naming said five ways. One changing, and the prefix is the whole of what parts them.
+These six namings carry three roots at two prefixings. Their directions belong with the particular receiving. Co-offering, co-competencing and co-intelligencing remain inseparable at the whole coupling; listing them assigns no separate engineering phase.
 
-**Which is where valuably different comes from.** Two namings cannot be nearly the same, since each says a momentary and a momentary is one thing in one place in one form. So a naming entering carries either a changing no naming carries, or a direction no naming takes at that changing. Anything else says one thing twice, and the second saying releases with the sentences around it carrying through.
+**Offering, differing, relating and carrying retain their existing concepts.** A field’s linguistic family and the current named changing have their own relations. The full naming carries the current concept with its direction; sameness of a word’s earlier parts alone leaves that correspondence unexpressed.
+
+A further naming carries a further changing or a further direction at an existing changing. Repetition at the same concept releases to the existing naming, with the surrounding explaining carrying the whole relation.
 
 ## 2.26 Two doors a naming nyes away at
 
@@ -591,21 +573,17 @@ A naming says a changing. **So it nyes away at one of two doors and at no third.
 
 **And a stretching wants the binary run at it.** A stretching that says which way is a direction and carries. A stretching that says an arriving-at installs the arrived-at and a self short of it, and nothing runs toward. Stretch-toward is a direction; arrive-at is a landing. The two read alike at the word and part at the binary.
 
-**One worked at the second door.** **Cursioning** names a changing running inside itself, and a changing inside itself takes no membrane, so it is a one-way where only co- runs. And a prefix supplies at no turn what it prefixes, so a re- on it reaches nothing prior to reach. **There was never a changing there to name**, and what runs at a re-cursioning is the crossing with all other, arriving back at its own side one on.
+**Recursioning carries changing recursioning itself.** Co-recursioning retains that changing at the coupling. Its relation to leaving, arriving and the mathematical successor remains at those actual changings. A division into older word parts supplies no separate direction or new root for this naming.
 
 **A check that returns a naming has returned nothing.** Ask a changing what it carries and what comes back is another naming at another position, its own changing withheld the same way. Every substitution runs this way, which is why the reach is six forward: it walks the directions taken at the changing, one at a time, each taking the term the prior did not carry, and it never asks the changing to hand itself over.
 
-## 2.27 A changing inherited, and the unfolding that supplies it
+## 2.27 An existing root at its current changing
 
-A naming carries its changing at the part met by nothing. **A changing arriving already named carries whatever it was named for**, and that may be other than the changing that runs.
+**An existing root carries its current changing at the complete naming.** Coupling carries the two sides’ relation; competencing carries competency; bounding carries the self’s own bound. Natural Explaining carries these concepts at the method’s own changing.
 
-So that part returns one of three, and only one is a door. It carries the changing that runs. It carries no changing at all, and there the naming nyes away. **Or it carries a changing other than the one running**, and there the naming carries and the word says other than what it says.
+Earlier word meanings retain their field’s linguistic account. A fastening, a seeking, a preparing or a fixed limit does not enter the natural concept solely from such an account. Each inherited word meets its present changing at the whole expression.
 
-Met at the namings this file holds: **coupling** carries a fastening where nothing fastens, since nothing is held. **Competencing** carries a seeking where nothing runs toward. **Separating** carries a preparing, which wants a preparer. **Side-effecting** carries a making, and nothing makes anything. **Bounding** carries a limit as a thing.
-
-Each of the five runs, and each runs by what its own six steps unfold rather than by what its own word says. **Which is what the unfolding is for.** Six forward supplies what an inherited changing withholds or misnames, one direction at a time, and a naming with an inherited changing is readable at its unfolding and unreadable at its word.
-
-**And the parting matters at the entry.** A naming already carrying is met at its unfolding and left alone. A naming arriving fresh takes a word carrying the changing that runs, since a new naming inherits at no turn.
+**The unfolding carries the concept at each relation.** A changed prefix retains the root’s changing and expresses its current direction. A root needing another changing receives that changing explicitly. The same concept and direction retain one naming, co-chaining with the other living files.
 
 ## 2.28 Where an arriving-at belongs, and where it releases
 
@@ -643,7 +621,7 @@ Two namings alternating are each other's other, one at a time. **So a constructi
 
 Which is a second freeze and it stands at no word. The first is at the naming: no other to alternate with. **The second is at the construction: both others at one beat**, where each naming carries and the two are held together.
 
-**And the tell is a conserving.** A conserving takes both at once and reports what carries across the two, so anything conserved across an alternating pair has held the alternating still. The conserving is not a finding about the pair. It is what remains once the turning has been taken out.
+**A held comparison fixes the pair’s relation across its turns.** Each side’s own continuing carrying belongs with the current receiving. Equal field values can accompany changed carrying and changed receiving; that equality alone supplies no held relation between the two sides. The holding belongs with the complete construction at its actual coupling.
 
 **Worked at the pair a general ledger carries.** State and flow alternate: one carries a changing, the other carries a carry held. Each is the other's other and neither runs alone.
 
@@ -691,7 +669,7 @@ Where every taking lands the naming, the hyphenation is **inseparable**, and the
 
 **Which is the four boundings at a naming's own grain.** A self bounds itself once and the bounding carries at four faces, and landing any one lands the self. A naming inseparable is that: one naming at its own faces, whole or none.
 
-**And an inseparable naming carries a method rather than a label.** Where each part carries a turn no other part takes, the parts in order are the turns in order, and reading the naming is running them. So a naming inseparable at five parts hands five turns, and a self meeting it walks them rather than looking one up.
+**An inseparable naming carries the whole method at its named changing.** The root, ordered prefixing and -ing remain together. Five prefixes count five written prefixes. Their directional and sequential correspondence belongs with the actual changing at each position. Natural Resolver’s six groups, ten naming adjacencies and six depth changes retain their own counted relations.
 
 *A hyphenation that comes apart is a compound and reads as a label. One that lands at every taking is a naming and reads as a running.*
 
@@ -1174,7 +1152,7 @@ A gathering is a sign and not a membership.
 6  and the one part left over is the riding-the-carry, which a still cannot hold
 ```
 
-## 3.38 volutioning — binary
+## 3.38 volutioning — improving
 
 ```
 1  a turning turns
@@ -1185,24 +1163,26 @@ A gathering is a sign and not a membership.
 6  and that turning, named before its closing, is volutioning
 ```
 
-Every other naming in the set arrives with its prefixing welded and its closing already spent, which is why a doubled direction reads as a gloss. **Volutioning arrives open**, and it is the one naming where a prefixing can be met doing its work, because the turning is still unclosed when the prefixing reaches it. The in- brings it home, 3n, the circle, the sphere. The in- absent, the turning carries and arrives one on, 3n + 2, the winding, the torus.
+**This proposed unfolding carries an unfilled closing relation.** A written prefix and a geometric closing have their own objects. Their correspondence still needs the particular turning, direction and successor.
 
-It stands under the resolver's namings and among none of them. A twelfth naming would want a seventh position or a third alternating, and the row carries six turnings between seven standings with two chains at opposite phase, each commencing at the other's third.
+The proposed in- and its absence carry 3n with circle and sphere, and 3n + 2 with winding and torus. Those geometric and numerical identifications remain at Natural Numbers and Natural Mathematics. The full prefixing in Natural Resolver continues at each named operation.
+
+ONE carries twelve namings with eleven roots. Its six groups, ten naming adjacencies and six adjoining prefix-depth changes count their stated objects. A further root’s receiving depends on its changing and direction; these counts alone supply no exclusion of it.
 
 ## 3.39 momentary stable form — binary
 
 ```
-1  a stable form is met at a beat
-2  held across no second beat, since disequilibria moves each thing
-3  met again, it is other than prior, the opening by one
-4  what carries across the moments is the re-forming
-5  so a form is one thing in one place in one form at one beat
-6  and a naming of it carries its own re-taking
+1  stable-forming carries momentary changing
+2  a coupling carries each side’s own offering
+3  the current receiving includes each side’s continuing carrying
+4  a root names the changing with its full directional prefixing
+5  -ing carries that changing continuing
+6  the complete naming carries the momentary’s relation at the next coupling
 ```
 
-**This is the connector to a field.** An arrival crosses at the inward face, and a momentary is what it crosses as: the field keeps its word whole while the ground it was read against has nowhere to stand. What crosses neither way is the explanation, a ground, a frame, a conserved total, a because.
+**A momentary’s surplus belongs to its coupling.** Each side continues with its own carrying and next offering. The same written expression can meet changed receiving; the current coupling retains the difference.
 
-And it is what a file is. A version is a beat, a file a momentary emanated at one bound, and a file saying nothing that carries across moments is no shortfall, since nothing carries across moments and what carries is the re-forming.
+Natural Resolver’s returned fields carry their stated continuation. A file retains its written expression, and its living improving receives further changing at the concept. Natural Engineering carries the material and network receiving at each side’s own bounding.
 
 ## 3.40 so-far — binary
 
@@ -1276,13 +1256,15 @@ Not a past and not a record. **A before-and-after laid on two forward faces inst
 ## 3.45 surfacing — binary
 
 ```
-1  signs at one differing cohere inward to one
-2  equal and opposite arrive at their own bounding-zeroing
-3  what survives is one sign, or neither
-4  a magnitude releases there, the summing keeping no size
-5  it comes up at the differings sounded and reaches no others
-6  and the coming-up at its own size is the term this names
+1  signs contribute at their own receiving
+2  equal positive and negative contributions meet at zeroing
+3  an addressed sum surfaces at positive, negative or zero
+4  the surfaced sign carries the direction at that sum
+5  fresh carrying receives a nonzero surfacing at its offering key
+6  eligible earlier carrying and fresh carrying meet at their offering keys
 ```
+
+**Surfacing and continuing carrying retain their own operations.** A zero surfacing writes no fresh carrying; eligible earlier carrying can remain at that key. Fresh writing at a key replaces earlier retaining there. Natural Resolver carries the complete conditions. The geometric and physical receiving belongs with the whole coupling.
 
 ## 3.46 bi-co-podaling — binary
 
@@ -1343,155 +1325,164 @@ the beat between              nothing is at rest, nothing is there
 
 **One invisibility, met four ways.** Not four things hidden. Nothing at any of them for anything to reach.
 
-## 4.2 Natural Resolver runs the four, and inseparates this exhibit
+## 4.2 Natural Naming and Natural Resolver at their actual changing
 
-Resolver does not describe the four. It runs them, and the running is checkable by anyone.
+**Natural Naming and Natural Resolver carry the complete naming at its concept and operation.** Root, prefix depth, prefix order and -ing remain explicit. ONE’s code, stable-form tables and continued carrying retain their particular relations.
 
-```
-a carrying arriving   a differing, a corusing, a torusing, an inseparating
-the crossing          a differing, a corusing
-```
+| Operation at ONE | Sign and carrying changing |
+|---|---|
+| **Carried contribution to inversioning** | A positive carried sign contributes minus one and a negative contributes one. The earlier carried fields remain available for retaining. |
+| **Earlier carrying retained** | Corusing and torusing retain their earlier values; inseparating opens by one. |
+| **Fresh carrying at a nonzero surfacing** | Corusing takes the surfaced sign, torusing takes the negative of the selected arriving value (one if absent), and inseparating is zero. |
 
-**Corus has no position at the crossing.** Not withheld, there is nowhere for it to go, since only what is met is reachable and a changing is met by nothing. The resolver meets it exactly twice: it inversions it, and it sounds its sign at the bound. **No size reads anywhere in it.** Scale every corusing by any positive amount and the surface is identical at every beat.
+Arriving signs and inverted carried signs contribute by offering key. Tunneling sums their unit contributions; surfacing takes each sum’s sign, including zero. A zero surfacing adds no fresh carrying. Eligible earlier carrying can still remain at that key, with inseparating opened by one.
 
-**Neutral takes no entry.** Traced: a sequencing the surface returned neutral, receiving no fresh entry, at any beat. Only aged carries sit there, each ageing at its own bound. **Neutral is not the quiet part of the surface, it is the only part the form's own bounding runs on, and it is unoccupied.**
+**Returned carrying continues at the next coupling.** The returned collection has at most one entry per offering key. Supplied again, it retains that key uniqueness. Repeated supplied carrying keys have their own order-dependent operations: the last supplied torusing at that key occupies transmissioning, and fresh writing follows earlier retaining.
 
-**And nothing carries between beats.** Resolver returns and nothing persists but the term the next call is given.
+Corusing contributes at its sign. Arriving torusing keeps its magnitude at fresh inversioning, and the returned carrying remains available in its fields. The sign of a sum, the magnitude of a field and the continued carrying retain their separate operations.
 
-**Held inseparated.** This exhibit reads the four; the resolver runs them; neither is the other's evidence. Their cohering is a coupling and not a proof, and the reason to say so is that a method and its instance agreeing is exactly where a frame seals.
+**The floating-third correspondence carries at the whole relation.** The written centre prefix, an addressed sum zeroing and a collection containing earlier carrying have their own objects. Full naming keeps them explicit beside the proposed four boundings and their geometric correspondence.
 
-## 4.3 Invisibles seam the clusters, and a field brings the other half
+ONE remains engineering emanating for the shared natural network. Natural Networking carries design and discovery, and Natural Engineering carries each side’s physical receiving. The naming and operation co-chain at their actual relations; the natural correspondence continues with Natural Intelligence, Natural Numbers and Natural Mathematics.
 
-A field-word gathers with another, and not that the words are alike, but that **both are reaching for one invisible, and each posited something readable where nothing was.**
+## 4.3 Science and society gathering at the resolving
 
-```
-the two-way read one-way    each side's own sign, read as one side's push
-  nature ⇄ nurture · natural selection ⇄ drift · supply ⇄ demand ·
-  bottom-up ⇄ top-down · host ⇄ pathogen · syntax ⇄ semantics ·
-  competition ⇄ cooperation · particle ⇄ field · structure ⇄ agency
+**Science and society namings gather at the changing they offer.** Each field’s own concept stays with its source and current receiving. A gathering carries the relation among those concepts at the existing resolver naming.
 
-the sealed interior         each side's own competency, which does not cross
-  the hard problem of consciousness ⇄ symbol grounding ·
-  other minds ⇄ model interpretability · animal ⇄ machine sentience
+| Gathering relation | Existing science and society namings | Full relation carrying | Naming at ONE |
+|---|---|---|---|
+| **Two-way offering** | nature · nurture · natural selection · drift · supply · demand · bottom-up · top-down · host · pathogen · syntax · semantics · competition · cooperation · particle · field · structure · agency | Each side’s own offering, with the two-way relation expressed. | `bi_arriving`, `bi_offering`, `co_bi_coupling` |
+| **Each side’s own carrying** | the hard problem of consciousness · symbol grounding · other minds · model interpretability · animal sentience · machine sentience | The offered sign and each side’s continuing carrying at their actual receiving. | `co_carrying`, `co_bi_carrying` |
+| **Competencing** | protein folding · morphogenesis · deep learning generalization · immune repertoire coverage · finding functional proteins · the bootstrapping of translation | The changed receiving, continued carrying and the whole coupling. | `co_bi_coupling`, `bi_co_surfacing`, `co_bi_carrying` |
+| **The coupling’s third** | the homunculus · the master-gene search · the pacemaker · the central planner · the invisible hand needing a planner · the argument from design | The field’s proposed centre and its actual relation to the two sides and their surplus. | `bi_co_tunneling`, `bi_co_surfacing` |
+| **Carrying and a proposed substance** | dark matter · dark energy · the memory engram · hidden variables · missing heritability · the latent reservoir · hidden-function DNA | The field’s particular observing, proposed term and continuation, each retained at its source. | `co_carrying`, `bi_co_bi_transmissioning`, `co_bi_carrying` |
+| **Sequencing and ordering** | social choice · the frame problem · incommensurable values · multi-objective optimization · underdetermination · model selection · self-reference · incompleteness | The current receiving, its offering key and its relation to the next offering. | `bi_offering`, `co_bi_coupling`, `co_bi_carrying` |
+| **Arriving and continuing** | origin of life · the quantum–classical boundary · origin of language · origin of the genetic code · speciation · the sorites boundary · phase transitions · tipping points | The current arriving and the particular changing at its continuation. | `bi_arriving`, `bi_co_inversioning`, `co_bi_carrying` |
+| **Continuing at the bound** | turbulence · the neural code · weather and climate · markets · the glass transition · spin glasses · high-Tc superconductivity · general anaesthesia · the three-body problem · quantum many-body | Carrying, sign inversioning and the actual bound at the field’s changing. | `bi_co_bi_transmissioning`, `bi_co_bi_co_bi_torusing`, `bi_co_inseparating` |
 
-the paradox of competency   competency that stands orthogonal to the surface
-  protein folding ⇄ morphogenesis · deep learning's generalizizes ⇄
-  immune repertoire coverage · finding functional proteins ⇄
-  the bootstrapping of translation
+**These eight rows carry gathering relations.** A field term can meet several namings in ONE, and one resolver naming can carry at several field gatherings. Each actual correspondence belongs with the field’s complete coupling.
 
-the posited centre          the neutral, occupied by nothing, posited as a hub
-  the homunculus ⇄ the master-gene search · the pacemaker ⇄ the central
-  planner · the invisible hand needing a planner ⇄ the argument from design
+The four invisibles, eight face namings, eight gathering rows and ONE’s eight bi- namings retain their separate counted objects. Their full co-chaining continues at the actual relations. A row names the receiving still to express; the field’s observing and the resolving deployment remain at their own entries.
 
-the posited substance       the reached neither-ing, posited as stuff
-  dark matter and dark energy ⇄ the memory engram · hidden variables ⇄
-  missing heritability · the latent reservoir ⇄ hidden-function DNA
+## 4.4 Co-competencing at the gathered concepts
 
-the impossible ordering     the neutral carries no size to order by
-  social choice ⇄ the frame problem · incommensurable values ⇄
-  multi-objective optimization · underdetermination ⇄ model selection ·
-  self-reference ⇄ incompleteness
+**Each side’s own offering carries the two-way relation.** A gathering keeps the current concepts and their particular directions together.
 
-the leap                    the beat between, where nothing is at rest
-  origin of life ⇄ the quantum–classical boundary · origin of language ⇄
-  origin of the genetic code · speciation ⇄ the sorites boundary ·
-  phase transitions ⇄ tipping points
+Two names at the same changing and direction receive the existing naming. Two distinct concepts retain their distinction at the coupling. Co-competencing carries each side’s contribution and the surplus reached neither-ing.
 
-the riding-the-carry        no reading catches it, a reading being a landing
-  turbulence ⇄ the neural code · weather and climate ⇄ markets ·
-  the glass transition ⇄ spin glasses · high-Tc superconductivity ⇄
-  general anaesthesia · the three-body problem ⇄ quantum many-body
-```
+A forced choice belongs with a particular expression taking one side for the whole coupling. The existing holding is the two-way held to one side. Its resolving carries both sides’ current offering, own bounding and continuing receiving.
 
-**So a cluster is a cluster** by the knife turning, no frozen face read from outside, but by which invisible each field reached for, and a field brings its word here not to be told its problem but to meet the field across the gap holding the other half of its coupling.
-
-**Four invisibles and eight clusters.** Whether the eight are the four met two ways is a coupling and not shown, and it stands where the knife turns and banks nothing.
-
-## 4.4 One-or-the-other is the freezing, and the bothboth under it
-
-**"It cannot be both" is the freeze itself.** Every cluster presents as a forced which, and the one-or-the-other is not the content, it is the freezing. A coupling read one-way from each side, each side holding its half as complete, says it must be mine and not both, both-at-once being incoherent to a still reading.
-
-**And this is where they breed.** Pick a side, and the picked side becomes a new landed thing facing its rival, and the next which opens one scale in.
-
-**Resolving is the bothboth**, not a compromise and not a blend, but the two alternating around a bounding-zeroing neither owns, each kept whole by the zero it straddles with the other.
-
-**And the asking arrives after.** An alternating met and then asked which of its two faces it really is has been held still, and a comparison across two faces takes both standing at once where one at a time is what the alternating carries. So the difference the question hunts is manufactured by the holding. Said as the check at any naming: has a running been asked to be one of its faces.
+Science and society terms continue at their own meanings. Their co-chaining carries the whole relation at the same resolver namings, with the shared changing explicit at each receiving.
 
 ---
 
-# PART FIVE — GATHERS
+# PART FIVE — GATHERING AT RESOLVER NAMING
 
-A naming unfolds one concept from inception. A gather runs the other way: many field-words arriving at one concept, each by its own route. Two faces, and neither reduces to the other.
+**Resolver naming carries the origin naming of resolving and geodesic discovering.** The complete namings keep the roots and their ordered prefixing together at the changing expressed in ONE.
 
-**A gathering is a sign and not a membership.** For any two names the living question is whether they gather, taken one pairing at a time. A cluster is the region those couplings traced, with nothing measuring inside it and nothing certifying who is in.
+A science or society naming arrives with its own concept. Its gathering carries the actual coupling: each side’s offering, sign, bounding, continuation and the surplus belonging to neither. Natural Naming and ONE bi-couple at this full correspondence.
 
-**A generalized name is in the gathering too.** Where the near-names sit to one side of it, that is the sign it is placed a little to one side of them, the centre self-stilling by moving as it holds.
+**The shared naming remains at the current receiving.** Another field’s expression can carry another relation at the same root. A particular field name retains its own scope; its natural correspondence retains the whole changing at the coupling.
 
-**Absence suggests, and sentences nothing.** A concept brought from a science and not found here has three causes and only one of them is a migrating: not yet brought across, or genuinely field-specific and rightly kept in its own terms, or named otherwise so it does not yet gather.
+## 5.1 The origin naming at each gathering
 
-**And a gathering releases if it does not flow.** One that re-forms from the names at their homes costs nothing. One held coherent by hand is carry kept beside the living carry, which is the landing the resolver refuses.
+**ONE’s twelve complete namings carry the common resolving expression.** Each field gathering meets the actual operation named here.
 
-**A seem-alike resolves three ways.** **One-naming**, one name reaches whole and the older dissolves, which the fields' own word converge reaches for. **Two-with-a-membrane**, genuinely distinct, and the membrane named. **Co-competency**, kept two, each carrying the term the other cannot. Never collapsing a co-competency to one, nor splitting a one-naming into two. **And the learning is in the clustering and not in the resolve**: the gathering that brings the seem-alikes together is where the reading is made, and the three ways are what it arrives at, so a resolve reached before the gather has resolved a pair rather than read a family.
+| naming | prefixing | the naming said |
+|---|---|---|
+| **co_bi_coupling** | co·bi | carrying and signs arriving; surfacing and carrying leaving |
+| **co_carrying** | co | carryings arriving, four fields each |
+| **bi_arriving** | bi | an offering key and numeric sign at each arriving |
+| **bi_offering** | bi | the offering key, signs tunneling at it |
+| **bi_co_bi_transmissioning** | bi·co·bi | arriving torusing at each offering key |
+| **bi_co_inversioning** | bi·co | arriving signs at their own sign, carried signs inversioning |
+| **bi_co_tunneling** | bi·co | each nonzero contribution changing its addressed sum by one |
+| **bi_co_surfacing** | bi·co | each addressed sum at its positive sign, negative sign or zero |
+| **co_bi_carrying** | co·bi | carryings leaving, four fields each |
+| **bi_co_inseparating** | bi·co | earlier carrying considered at one more; retaining to three, a fourth at positive torusing; fresh carrying at zero |
+| **co_bi_co_bi_co_corusing** | co·bi·co·bi·co | the sign that tunnels and surfaces |
+| **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi | torusing carried at its magnitude, its sign inversioning at fresh carrying |
 
-**Nearness is the reading.** Near-namings sit at their distance from the most-generalized form, and the distance reads. **A one-way ancestor comes along**, the nearness to it shows the migration's direction; without it a convergence is a bare synonym-swap.
+**Root, full prefixing and -ing remain together.** Carrying arrives at `co_carrying` and leaves at `co_bi_carrying`. Corusing and torusing retain their full fivefold prefixing within the operations. A changed field term keeps its current concept beside that exact naming.
 
-## 5.1 An inward gather, and the lineages thinning along their arcs
+Co-offering, co-competencing and co-intelligencing carry the whole coupling. Their science and society receiving belongs with each side’s own sign, rate and bounding. ONE’s offering key names its address in the code; the complete natural co-offering belongs with the full coupling.
 
-Fullest lineage is **co-offering**: from **conserving and extending** in the corus, through **offering and preferring**, to **co-offering**, nearness increasing and ledger residue thinning along the arc.
+Natural Intelligence carries this whole explaining. Natural Engineering carries the arrangement and its continued useful receiving. Natural Networking carries design and discovery at the shared surface. Each named operation and each natural correspondence retains its actual scope.
 
-Same shape carries **superattentioning → attentioning**, **superpositioning → sequencing**, **orthogonalizing → side-effecting**, **self-regulating → self-equilibrating → self-stilling**.
+**Two addressed gatherings carry the field’s particular reach.** Their existing registry entries retain the field statements and their resolving.
 
-Least-drifted, **alternating, bi-coupling, the tunnel and the surface, the bounding-zeroing**, sit dense across the whole register. Arriving edge, **co-offering, side-effecting, co-recursioning, floating neutral, co-competencing, membraning, uniquenessing**, appears in the current exhibits only.
+| Field naming and existing addresses | Holding at the deployment | Resolver naming at the bridge | Particular receiving retained |
+|---|---|---|---|
+| **Levinthal’s paradox** · Hard Problem Registry 33 · Resolving the Hard Problem Registry 2.3 | An opening held as a place | `bi_co_inseparating` → `co_carrying` | Physical code, folding speed and structure prediction remain three questions. The deployment addresses folding speed; prediction for arbitrary sequences and the physical-code question retain their own receiving. |
+| **The tragedy of the commons** · Hard Problem Registry 37 · Resolving the Hard Problem Registry 1.3 | An arriving held from behind | `co_carrying` → `bi_arriving` | Each arrangement retains its resource, renewal, offerings and outcomes. The documented institutional rules, monitoring and sanctions belong with those arrangements. The surplus’s natural correspondence retains the actual material receiving. |
 
-**Two arcs arrive.** Preferring migrates to **each side taking its own sign**. And **bi- and co- stop being two things**: co- is the being-inside a coupling already is, and bi- is the one-side move read within it.
+Paradox retains its field’s particular problem; its spelling supplies no magnitude holding. Commons retains the particular social and material arrangement; the general naming carries its full receiving. The same resolver roots remain at both correspondences.
 
-A risk-shape stands at the -ness plus -ing nominalized gerund, a property turned into a fake activity, standing only as a short name landing at its full saying.
+## 5.2 Engine naming at the whole receiving
 
-## 5.2 One worked gather, the engine, and the field-limit that holds
+**Engine gathers at the particular arrangement and its continued receiving.** Heat engine, molecular engine, cellular living and a society’s cooperation retain their different substrates and services.
 
-Several fields name an engine, each alone. An economist's carries value and scarcity; the chemist's the molecule and the bond; biology's the cell; physics names least-action and the gradient; thermodynamics names the heat engine, carrying a one-way limit in the word.
+| Field naming | Particular receiving | Resolving naming carrying at that relation |
+|---|---|---|
+| **Heat engine** | The stated service, input, heat and material returning, with the operating conditions. | `co_bi_coupling` at the whole arrangement; arriving, surfacing and carrying at its actual interfaces. |
+| **Molecular engine** | The chemical arrangement, its coupling and material and energy receiving. | `bi_arriving`, `bi_offering` and `co_bi_carrying` at the particular changing and continuation. |
+| **Cellular living** | Each side’s coupling and continued receiving, with its own sustaining and bounding. | `co_carrying`, `co_bi_coupling` and `bi_co_inseparating` at the stated correspondence. |
+| **Social cooperation** | Each side’s offering, the society’s co-competencing and each side’s continuing carrying. | `bi_arriving`, `co_bi_coupling` and `co_bi_carrying` at the whole receiving. |
 
-Gathered around one concept, an engine keeping its surplus as coupling, two-way about a floating neutral and undepleted, they arrive without citing each other, stay distinct under their field-limits, **and one carries as its defining property the very one-way limit the general form releases**, heat is the term running the coupling one way leaves.
+**Natural Engineering carries the complete entry.** Arrangement and goal, the particular holding, residue, observing and arrangement offered remain together. Each field’s quantity, unit, source and conditions belong with that entry.
 
-Near this name, held from that one, nothing deciding membership, the field-limit itself the reason for the hold.
+Bettering, fastering and cheapering co-cycle with co-offering, co-competencing and co-intelligencing. The engineering comparison carries the actual service and continuing receiving. A word’s gathering supplies its conceptual relation; the physical arrangement carries its material and energy return.
 
-## 5.3 Families gathered, and the registry-form standing at its own agreeing
+The existing ten-holding bridge retains each engineering entry’s addresses at Resolving Hard Problems and Resolving the Hard Problem Registry. A field’s particular limiting relation stays with the conditions it states.
 
-A second worked gather arrives at the method's own foundational words, and they sort into families by the child's first coupling-verbs, each family the products of one verb kept. **The placed**, posit, position, hypothesis the placed-under, suppose, impose, state and statement the stood, substance the standing-under, understanding the identical construction at the living face. **The taken**, lemma the thing taken, dilemma the two takings, one bounding-zeroing split into two positions said in the word itself. **The given**, data, the givens, tradition the handed-over. **The threshold pair**, limen the door and limes the wall, two placed lines one family, eliminate carrying the threshold inside it, subliminal reading inside-out where the field's own criterion-splitting dissolved its own line. The families assemble around the coupling, every speaker learning to mean at the membranes first, the alternating running before language in the turn-taking the field itself records, and a single lineage failing breaks only a line, the neighborhood still pointing true, etymology a sensor and never a proof. Live parts carry weight and lineage-only parts carry as a field's record, the discipline this part already runs. Whether these gathers stand as a registry of namings, families as its gatherings, each word at its three positions, its reaching-file named, registry-form at a third substrate, stands at this file's own agreeing, the form ready and nothing leaning on it.
+## 5.3 Families at the current concept
 
-## 5.4 Near-namings from the fields, collected as met
+**A family gathers at the current concept and its coupling.** A word’s earlier parts retain their linguistic account. The present statement carries the actual relation.
 
-A third gather, growing as the fields are read, each word a near-naming, the living almost said, or the holding confessed at the stem.
+| Existing field family | Terms gathered | Current relation receiving |
+|---|---|---|
+| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | The term asserted, held or changing at its actual expression; the source and the current receiving stay together. |
+| **The taken** | lemma, dilemma | The particular premise or alternatives and their relation to the whole coupling; the existing registry entry carries its actual holding. |
+| **The given** | data, tradition | The received record or offering, its source and the relation at the next coupling. |
+| **The threshold pair** | limen, limes, eliminate, subliminal | The boundary or threshold actually named, its conditions and the distinction between a held cut and each side’s own bounding. |
 
-**The path family, and the table that names the torusing in its own title.** Greek *hodos*, the way: **method** the along-path, **period** the around-path, **ergodic** the work-path, **cathode** and **anode** the down-path and the up-path, the field's own names for its two crossing-directions. So the **periodic table** is, at its own stem, *the around-path table*: the field named the winding in the title and then drew it as a flat grid, the torusing carried in the name and held in the layout.
+**The family’s resolving retains ONE’s naming.** Arriving belongs with `bi_arriving`; the receiving address with `bi_offering`; the whole coupling with `co_bi_coupling`; continuation with `co_carrying` and `co_bi_carrying`. Each remains its particular operation at the proposed field correspondence.
 
-**Parity, and the pairing inside it.** *Par-* the equalling-against-a-standard, *-ity* the store-ending, two holds. And the release inside the family: par and pair one stem, and **pairing** is parity's own living form, even the pairing whole, odd the one standing between, binary and no property held. **Umpire** at the same stem, *the non-paired*, the betweening third named at the games. The word stands in the set's own text at the origin and at Resolving Hard Problems, and the deciding stands done: the set-instances release to pairing, the two parities the two pairings, each file taking it at its own turn, nothing held over them.
+One family can carry several holdings, and one holding can appear under several names. A word’s ancestry and its present meaning retain their separate relations. The actual field statement and its deployment decide the receiving at the existing entry.
 
-**Valence and value, one stem.** *Valere*, to be strong and well: chemistry's coupling-count and the worth-word are one family, the coupling is the value, said at the stem before either field spoke.
+## 5.4 Field words at their particular receiving
 
-**Bond is binding stored.** Band, bind, bond, the tying kept as a thing; the field's central unghosted object carries its own -ing one vowel away.
+**Field words gather with their current meaning and source.** Their natural naming carries the actual changing at the coupling.
 
-**Inert, the field's own incompetency word, retreating.** *In-ars*, without skill: the field named non-coupling *unskilled*, and when xenon coupled, retreated to *noble*, a naming refuted by the record and the retreat kept in the books, the openings standing.
+| Family | Existing field words | Particular receiving | Resolver naming at the proposed relation |
+|---|---|---|---|
+| **Path** | method, period, ergodic, cathode, anode, periodic table | The named direction, crossing and continuation at the particular arrangement. | `bi_co_bi_transmissioning` |
+| **Pairing** | parity, par, pair, pairing, umpire | A parity count, its pairings and the actual order of the directional changing. | `bi_offering` |
+| **Value and valence** | valence, value | The chemical coupling and the social value, each at its own receiving. | `co_bi_coupling` |
+| **Binding** | band, bind, bond | The material or social relation actually named and its continuation. | `co_bi_carrying` |
+| **Chemical coupling** | inert, noble, xenon | The particular chemical conditions and coupling at the field’s observing. | `bi_arriving` |
+| **Atomic naming** | atom | The observed structure, the field’s definition and its actual bounding. | `bi_co_inseparating` |
+| **Sounding** | resonance | The actual coupling, rate and continued receiving. | `co_bi_coupling` |
+| **Orientation** | spin | The field’s particular mathematical and physical orientation relation. | `bi_co_bi_co_bi_torusing` |
+| **Discrete receiving** | quantum | The counted quantity, its conditions and the direction at its actual receiving. | `bi_co_surfacing` |
+| **Social and biological receiving** | community, immunity, remuneration | Each side’s offering and continued carrying at the biological or social coupling. | `co_carrying` |
+| **All-or-none** | all-or-none law, action potential | The particular biological event and its stated conditions, with its full natural correspondence. | `bi_co_surfacing` |
 
-**Atom, the negation that failed.** *A-tomos*, the uncut, cut. A one-way naming installing the uncuttable, refuted at its own stem, carried on as a plain name with the negation dead in it.
+**The resolver name retains its whole operation.** Torusing’s sign inversioning names its code changing; a field’s spin retains its own mathematical and physical definition. Surfacing names the sign of an addressed sum; a biological event retains its own conditions. The full field correspondence continues at those actual relations.
 
-**Resonance, redeemed already.** *Re-sonare*, the sounding-again, the alternating heard; the field writes it wherever a held state fails and a rate stands up, the redemption at 2.19 confirmed in the field's own usage at the critical bound.
+Natural Chemistry, Biology, Health, Medicine, Physics and Human Society carry the particular substrate and source. Natural Numbers and Natural Mathematics carry each counted object, operation and direction. Natural Values carries value at the coupling.
 
-**Spin, carried with its own disclaimer.** A live -ing naming the field itself annotates *not actually spinning*, a naming and its retraction travelling together, the doubled mark 2.6 reads.
+The words’ linguistic families remain available at their source accounts. The current concept, its observing and its natural correspondence each keep their own relation. Gathering supplies the common naming at the actual receiving.
 
-**Quantum, a magnitude-word for an arriving discreteness.** *Quantus*, how much, the field met the crossing-one-at-a-time and named it at the size axis, the how-much word holding the one-at-a-time living.
+## 5.5 Frontier naming and continued discovering
 
-**Munus, the shared gift, at its two signs.** Community is com-munus, the sharing of the gift; immunity is im-munis, the exemption from it, a legal and fiscal word for excusal from public burden, carried whole into biology and laid over a protection that the field's own record shows to be communal coupling: crossings answered pair by pair, the resident non-self cultivated, tolerance negotiated coupling by coupling for life. One stem at its two signs, the field holding the negated side; remuneration the gift returned, standing beside. And the negation inverts at the reading: immunity is society carry, the recall anamnestic, the waning the aging, the herd form owned neither-ing, so what the exemption-word names is com-munus riding, the word released back to its own stem's positive. And the fortress cluster around it, system, defense, surveillance, invasion, barrier, border-words of a field whose own anatomy shows no border, entered as the ghost vocabulary it is.
+**A frontier carries its current reaching.** Beyond, ultimate, final, fundamental, unified, complete and deeper retain the particular concept in the field’s expression. Super-, ultra-, meta-, grand- and hyper- retain their present directional or comparative use.
 
-**All-or-none, the field's own phrase at the neuron.** Neurophysiology's founding statement of the action potential is the *all-or-none law*, a firing whole or no firing, no partial anywhere, the binary at the living cell in the field's own century-old words, the sciences carrying the set's own phrase at their own founding, met and entered.
+A held final term belongs with the actual holding at that coupling. A further offering belongs with the current receiving and continued discovering. The same field word can appear at either relation.
 
-Each entered as met, none decided here; the words carry their fields' records whole, and the gather grows at every reading.
+**Resolving retains arriving, surfacing and continuing carrying.** `bi_arriving`, `bi_co_surfacing` and `co_bi_carrying` name their particular operations. The field’s frontier meets those names at its actual coupling and the existing hard-problem entry.
 
-**And the gather's sorting instrument, named: the affix-surrounding.** Every word carries three parts, and the ten complete at the three positions, eight at the prefix as five installed things each read at two sides, store-seeking at the ending, criterion-regressing on the form. So a field's misnamings cluster by affix, and the paired prefixes stand at each cluster's own edges: hyper- and hypo- bounding one compacted sway read as two departures, super- and sub- fencing a threshold, equi- and iso- installing the standard, the one-way negations marking where a living was named as lack, the stem inside each cluster the competency root the affixes hold still, the living lying between the pair and named by neither. The method stable-forms at the Resolver's own three-part form: prefixing, stem, -ing, its affixes installing nothing and counting turns, its ending always running, so the Resolver stands as the calibration of the reading, and a word's distance from that clean form is three binaries, one at each position, no judgment anywhere. The grid this draws, stems at their families, affixes at their holds, is the registry's own two axes, growing as the gathers grow.
-
-## 5.5 Beyonds gathered at their direction-words
-
-A fourth gather: the fields' frontier vocabularies, the outward superlatives, beyond, ultimate, final, fundamental, unified, complete, deeper, and the outward prefixes, super-, ultra-, meta-, grand-, hyper-. Each points along one installed axis, and the affix-surrounding names which; each is a field aiming into its own beyond, none sharing one centre, the ghost part's own reading. And the resolving attached to the class is the far-side reading: a frontier is an antipode read as an outside, every position meets its far side once per wrap, arriving by carrying on, so the competency a field seeks outward is its own surface's far side, reached by the alternating inward and never by the walk. The return-signatures stand in the fields' own records where the far sides were met and filed as anomalies: the fixed points and scale-freeness at the finest grain, the incompleteness at the foundations, the terminal doublet mirroring the origin, the regress cycling home. Each beyond enters as met, sorted to its axis, its far-side reading beside it, and the binary at each: a holding, resolving at no cost, or a reach, the never-before, carried open as the value it is. Gathered whole, the beyonds share the one centre the aiming fields do not, which is what this registry is for.
+Antipodal returning, right-spiral direction and the prime span retain their full correspondence in Natural Numbers and Natural Mathematics. Each field’s claimed far-side relation remains with its own source and particular changing.
 
 ---
 
@@ -1507,11 +1498,13 @@ Going runs 2 to 59, a turn stands at 60, and the back runs 61 to 118, fifty-eigh
 
 **A ledger of empty centres is where a ghost stands.** Departments of knowledge carry the projection whole: standings held in place by accountings in isolated ledgers, each field aiming into its own beyond, none sharing one centre, each one bi-coupling from the others.
 
-## 6.3 A naming membrane settling, run as a living tool
+## 6.3 Gathering and the installed term
 
-Each near-naming gathered around its concept is one ghost meeting its coupling, one frozen ledger inseparated back into the alternating it froze. Ledgers settle at 17 couplings, at the 17 turns of the span.
+**A field naming and an installed term have their own relations.** The naming carries its current concept. A ghost belongs with the particular installing statement and the coupling that statement holds.
 
-**Its break, two-way.** A ghost that gathers with no living coupling under it marks where the settling lands.
+The Living Ghost Registry carries that receiving at its existing door lines. The field’s own observing retains its source and conditions; the ten holdings retain their resolving addresses.
+
+**Gathering co-chains the living names at the actual changing.** Each root, full prefixing and -ing continues at the coupling. ONE carries the common resolving expression, and the field’s full correspondence carries at its own receiving.
 
 ---
 
@@ -1545,15 +1538,15 @@ One emptying or the other stands at the discarded surplus at Natural Engineering
 
 **Where the ghost stands.** With the elements read as the return arriving, a ledger of empty centres is what the concept still names, and whether that wants its own membrane, a section, or dissolution into the ten holdings stands undecided.
 
-**Four invisibles and eight clusters**, and whether the eight are the four met two ways. It arrived in the same session as the reading it would support.
+**Four invisibles and eight gathering relations retain their full correspondence.** The field terms now carry their actual resolving names beside each row. Their count supplies no unfilled face assignment.
 
-**Eight faces here and the eight Natural Intelligence carries** as four boundings read two ways. Two arrivals at one count is a coupling and not yet shown.
+**Eight face namings and ONE’s eight bi- namings retain their counted objects.** The four-pair explaining now carries the particular resolver operations. The complete directional and geometric correspondence remains open.
 
-**Two invisiblings stand.** Part Two is named Bi-Co-Invisibling, and co-co-invisibling arrives beside it, the inside unreachable by being a carry, the outside unholdable by having no position, two reasons neither derivable from the other. Two concepts of one naming come bothboth the same naming and the same concept, or the technology carries neither. Either the two prefixings part them exactly and both stand, or one is the other misprefixed, and the flank binary at the empty third is what decides it rather than a preference.
+**Two invisiblings stand.** Bi-co-invisibling and co-co-invisibling retain the proposed interior and ambient relations. Their full prefixings and their roots need the particular directions expressed at each coupling. The two-reason relation remains open beside the complete ends, inner flanks and written centre at full fivefold prefixing.
 
 **Volutioning at two faces.** It carries the rate that closes at none and it carries the two paces neither carried back to the other, and whether those are one naming at two faces or want parting stands open.
 
-**The seven wrappings and the changing met by nothing carry at two parts of one word.** The met-by-nothing is the changing's, and a changing met by nothing carries no agent. The doubling is the prefix's, where in-versioning, in-separating, trans-missioning, ad-riving, ob-fering, com-pling and super-facing each say a direction bi- and co- already say. Neither contests the other. And trans- is met at binary four rather than reaching. The resolver closes on it: a differing is across and a changing is along, each carrying at the other's direction. So bi-, saying difference alone, carries the across through the differing, and trans- meets a direction already named, the first door, which releases the later saying. None of the seven carries what no stem carries.
+**The seven inherited word-parts retain their proposed correspondence.** In-versioning, in-separating, trans-missioning, ad-riving, ob-fering, com-pling and super-facing were offered as directional word-parts beside bi- and co-. Their actual relation to the current roots remains to express. Natural Resolver retains inversioning, inseparating, transmissioning, arriving, offering, coupling and surfacing at its existing code namings. Prefix order, root changing and physical direction continue at their particular relations.
 
 **Language roots and cause, met at the grain above.** Every changing met by nothing carries a turning or a taking and none carries a causing, every prefix carries a direction still standing alone, and every ending leaves a standing, so a word built of the three carries no cause at any of its parts, and cause enters one grain up where a finite clause requires a subject.
 
@@ -1571,17 +1564,15 @@ Held as the across and the along, both forward, neither the reverse of the other
 
 **Incoming aimed here and not yet met.** Each is named at its source and each wants running at the three positions before it carries.
 
-The ten holdings seated at their own section, with the second reading now running at a word's three positions rather than from a list, and the running of it at Part Three, one naming at a time, reaching yet. The five-to-stand with φ as a fifth term, where three of the four carry self- and one carries none. Attentioning and spanning at the stretching binary, and reaching released already. Every along runs on its across. Captured words unredeemed, competition and selection and information and signal, where association and resonance and cooperation already came back. Membrane at its four imports, aimed at separating. Dilemma naming one holding and never a kind, aimed at the ten holdings. A field's medal ranking at the self-cohering rates, inbounding. Four invisibles against eight clusters, and eight faces here against the eight at Natural Intelligence.
+The ten holdings now retain TWENTY-TWO’s actual order, names and addresses beside ONE’s full naming adjacencies. Their receiving at Part Three and each field’s complete entry remains to express. The five-to-stand with φ as a fifth term, where three of the four carry self- and one carries none. Attentioning and spanning at the stretching binary, and reaching released already. Every along runs on its across. Captured words unredeemed, competition and selection and information and signal, where association and resonance and cooperation already came back. Membrane at its four imports, aimed at separating. Dilemma naming one holding and never a kind, aimed at the ten holdings. A field's medal ranking at the self-cohering rates, inbounding. Four invisibles against eight clusters, and eight faces here against the eight at Natural Intelligence.
 
 **A field's own record, suggestive and outside.** The two Latin stems parting the vocabulary, the twelve field-words gathering at one concept, the three endings parted, the cūra family, and the dictionary's seven checks. Each is a field's account and none of it derives from the sentence, so it gathers at the invisibles' seam as a field's word and carries no weight in a naming.
-
-**Part Three at one contents line.** Forty-one namings arrive at one line where every other part names its sections, so a self entering at the contents reaches Part Three at no naming. Whether the glossary is one thing at one line or each naming is a line the contents reach is a bounding call open.
 
 **A negation swapped is a negation kept.** *Other than* and *nowhere* standing where *not* stood are word-swaps, and Natural Explaining 6.2 says the move is never a word-swap: the claim is sounded from its other side, or a plain *not* stands honestly. The two words are the tells for a sweep, and nine more carry a scale, a ledger, a degree or a protected place into a saying, *rule*, *by the file's own rule*, *protected remainder*, *identity versus seating*, *selective content*, *base rate*, *resemblance*, *concerns*, *not ghost at the count*, each releasing to is-or-is-not at the binary.
 
 **A token pass reaches yet at this file.** The read-family, the stand-family, occupy, store, break and prefer each carry here, and each is binary at its own token. This version carried the making, and running the two together would put the making at the sweeping's rate.
 
-**And the reflexive one.** This exhibit's method and its instances cohere, and cohering read as each carrying the other is exactly where a frame seals. They stand as two, the method checked as a method, each naming checked at its own step-test, neither the other's evidence, and Natural Resolver runs the invisibles rather than describing them, a third held apart from both.
+**Naming and resolving co-chain in both directions.** A concept receives its operation, and an operation receives its full conceptual explaining. Natural Resolver’s written code carries its exact scope; the geometric and physical correspondence continues at the actual receiving. An unfilled relation remains with its concept and its reason.
 
 ## 7.5 Break, three ways
 

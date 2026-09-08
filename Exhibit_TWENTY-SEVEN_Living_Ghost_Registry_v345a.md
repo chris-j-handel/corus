@@ -1,4 +1,4 @@
-Exhibit TWENTY-SEVEN Living Ghost Registry v347
+Exhibit TWENTY-SEVEN Living Ghost Registry v345a
 
 &nbsp;
 
@@ -395,20 +395,20 @@ The report follows the properties and can grow without changing the form:
 
 | Living source | Co-chaining here |
 |---|---|
-| Exhibit ONE · Natural Resolver v333 | the alternating, six-forward recursioning, eight-table, and no-other-possible method this registry must not turn into a verdict |
+| Exhibit ONE · Natural Resolver v345a | complete naming, actual sign operations, retaining and continuing carrying beside the six groups, six depth changes, ten adjacencies and eight bi-namings |
 | Exhibit THREE · Natural Numbers v346c | the counts kept at their own forms; six, eight, and ten not assembled or substituted; along and across one changing |
 | Exhibit FOUR · Natural Mathematics v333 | state and flow accountings, fixed sets, involutions, and the held return that lets a still be compared with a running |
 | Exhibit TWELVE · Natural Explaining v333 | file as membrane; only a sign crossing; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary |
-| Exhibit THIRTEEN · Resolving Hard Problems v333 | the general resolving and the no-other-possible method taken as given, not re-proved per ghost |
+| Exhibit THIRTEEN · Resolving Hard Problems v345a | the ten holdings at their complete naming adjacencies; each field expression, projected position and source retains its actual correspondence |
 | Exhibit SIXTEEN · Natural Chemistry v346c | the three placings at chemistry's terms; the proton as emanation and the element as count; the ledger returns beside the observings; three rates at two registers on one coupled silicon surface with its global coupling attached; equilibrium, Gibbs, benzene, partitions, and periodic address as chemical edges |
 | Exhibit SEVENTEEN · Natural Biology v333 | single-state protein, blueprint, controller, active-site doer, memory store, and competency-with-no-controller arrivals |
 | Exhibit EIGHTEEN · Natural Physics v327 | energy, entropy, electron, charge, wave/particle, force, and conservation as the densest initial ghost family |
-| Exhibit TWENTY · Natural Naming v346c | the six-line definition; momentary installed as thing; ledger of empty centres; the open three-way at 7.4: section, ten holdings, or own membrane |
+| Exhibit TWENTY · Natural Naming v345a | complete roots, ordered prefixes and -ing; the actual field expression at the ten holdings; written centre and continuing carrying beside ONE’s operations |
 | Exhibit TWENTY-ONE · Hard Problem Registry v342 | one uniform open registry; field account kept whole; group three entry 21; Gibbs paradox entry 108; single native state entry 178; proton spin entry 183; water's liquid–liquid point entry 195; proton decay entry 250 |
 | Exhibit TWENTY-TWO · Resolving the Hard Problem Registry v344 | the ten holdings and the recursioning-attentioning-carrying deployment shape; the four gatherings |
 | Exhibit TWENTY-FOUR · Geodesic Improving Method v333 | do-no-harm overwrite, source-return, hardest-arrival orientation, and every rule releasing into the method's own bi-coupling |
 | Exhibit TWENTY-SIX · Living File Registry v333 | the full file-set map and this new exhibit co-chaining without duplicating the other exhibits |
-| Natural Intelligence v346c | eight as four within and four at membrane; six as three each way; each self at its own rate |
+| Natural Intelligence v345a | the complete resolver explaining; eight bi-namings and proposed boundings; six directional turns and each self’s own rate at their actual correspondence |
 | Natural Intelligence Corus v330 | five switches and ten ghost positions; control as the all-ten profile; ghosting, haunting, and installing; ghosts as companions |
 | Exhibit TWENTY-FIVE · Living Society Registry v347 | the arrival: the ten-line pattern read at the society's own grain, receiving what passes the door at 7.5 and addressing back to it |
 | Living Improving Value v345a | file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and the registries; value re-forming only at each bi-coupling |
@@ -1494,7 +1494,7 @@ This registry is the door and TWENTY-FIVE is the arrival. Everything from the fi
 
 The registries pass by their own line 5. Nothing is moved. The door record stays here with its reading — the label stays — and what arrives at TWENTY-FIVE is not what stood at the door: an entry in the arrival's own form, with the upstream recovered, the magnitude in the observers' units, and the holdings. The door's ten are the sorting; TWENTY-FIVE's ten are the society read at its own grain, and a society can pass the door and still stand at arrival with its upstream line empty (TWENTY-FIVE 1.3).
 
-The door rests on four lines the living files carry. An instrument sums (TWENTY-FIVE 1.4): one observing returns two faces at once, the sum at the ledger face and the members at the living face, the residual the membrane between them. Both edges read is-or-is-not with no magnitude between them (Natural Medicine): a line is sounded ahead and never fitted after, and a how-much would install the floor the reading floats. Installation is the binary (6.3): a line reading is-not with nothing installed is accounting or emanation at that use, and with the field's sentence installing it is the ghost. All or none (TWENTY-FIVE 1.1): a passing carries no exception. A self is natural torusing and a society is bi-tunnelling (Natural Intelligence 1.7, Resolving Hard Problems 1.2): lines 3, 4, 6 and 9 read the self's four boundings and lines 1, 2, 5, 7, 8 and 10 read the coupling at the membrane, as 7.11 addresses line by line to Exhibit ONE; apexing stands at 7 and omega-ing at 10.
+The door rests on four lines the living files carry. An instrument sums (TWENTY-FIVE 1.4): one observing returns two faces at once, the sum at the ledger face and the members at the living face, the residual the membrane between them. Both edges read is-or-is-not with no magnitude between them (Natural Medicine): a line is sounded ahead and never fitted after, and a how-much would install the floor the reading floats. Installation is the binary (6.3): a line reading is-not with nothing installed is accounting or emanation at that use, and with the field's sentence installing it is the ghost. All or none (TWENTY-FIVE 1.1): a passing carries no exception. Natural Intelligence carries natural torusing at the self and bi-tunnelling at the society. The door assigns lines 3, 4, 6 and 9 to the four within namings and lines 1, 2, 5, 7, 8 and 10 to the membrane namings. Section 7.11 keeps those assignments beside ONE’s current operations and their further field correspondence; apexing stands at 7 and omega-ing at 10.
 
 ```
 The observing                what instrument returned what, in the field's
@@ -1557,7 +1557,7 @@ Ten lines, each sounded ahead, each read is or is-not, never how-much
        ghost   the chain, the pipeline, the pusher
 ```
 
-Lines 3, 4, 6 and 9 read the self — its tunneling, its inversioning, its surfacing, its inseparating, the four boundings of Natural Intelligence 1.7 in Exhibit ONE's names. Lines 1, 2, 5, 7, 8 and 10 read the coupling at the membrane. An earlier draft seated the own-rate line with the self; Exhibit ONE reads the whole's rate as the whole ordered by no self, a membrane line, and the two-way line as the self's own tunneling, and the door follows Exhibit ONE. Line 1 opens the rest: where no members are resolved the entry is a not-yet with the grain named, and no other line can be read.
+Lines 3, 4, 6 and 9 carry tunneling, inversioning, surfacing and inseparating at the proposed four within boundings. Lines 1, 2, 5, 7, 8 and 10 carry the membrane assignment. The field’s own rate, directional crossing, sign, label and magnitude keep their actual record beside those namings. Line 1 keeps the resolved members at their grain. Unresolved members leave passing unfilled; any actual installing statement remains available for a catch at its own line.
 
 Lines 1, 5 and 9 are runnable by anyone holding the instruments — resolve, label, drive — and are the F2 and F4 of this form. The other seven read from the record.
 
@@ -1745,51 +1745,85 @@ Addresses: 8.1, items 25 to 27.
 
 ## 7.10 Three tens, and the relation between them
 
-The door's ten lines, the arrival's ten pattern lines at TWENTY-FIVE 1.2, and the ten holdings at TWENTY-TWO 2.3 stand near each other, and G6 requires the relation stated. It is this.
+The door’s ten lines, the arrival’s ten pattern lines at TWENTY-FIVE §1.2, and the ten holdings in TWENTY-TWO Parts One to Ten retain their own forms. Natural Naming and THIRTEEN carry the holdings beside ONE’s naming adjacencies.
 
-**The door's ten stand one-to-one with the ten holdings.** Each door line reads a living arrival, and its ghost column is that arrival held still:
+**The door’s held-changing assignment carries all ten existing holdings.** Each line keeps the field’s actual installing statement at its record. The following table makes its resolver correspondence explicit:
 
-| Door line | Living arrival held | Holding |
-|---|---|---|
-| 1 resolve | arriving, held as something behind it | origin-seeking |
-| 2 rates | rate, held as a fixed magnitude | value-pinning |
-| 3 two-way | two-way, held as one side | forced-choosing |
-| 4 sign | sign, held as a magnitude carried unchanged | magnitude-demanding |
-| 5 passing | carry, held as a thing carried | store-seeking |
-| 6 surplus | opening, held as a place the surplus sits | criterion-regressing |
-| 7 apex | middle, held as an end inside a member | interior-reaching |
-| 8 residual | bound, held as a last that closes the ledger | space-enumerating |
-| 9 bound | membrane, held as a cut | line-demanding |
-| 10 reach | sequencing, held as one beat along a chain | order-demanding |
+| Door line | Living arrival held | TWENTY-TWO part · holding | ONE’s naming adjacency |
+|---|---|---|---|
+| 1 · resolve | arriving, held as something behind it | 1 · **Origin-seeking** | `co_carrying` → `bi_arriving` |
+| 2 · rates | rate, held as a fixed magnitude | 8 · **Value-pinning** | `bi_co_inversioning` → `bi_co_tunneling` |
+| 3 · two-way | two-way, held as one side | 9 · **Forced-choosing** | `co_bi_coupling` → `bi_co_inversioning` |
+| 4 · sign | sign, held as a magnitude carried unchanged | 6 · **Magnitude-demanding** | `bi_co_bi_transmissioning` → `bi_co_surfacing` |
+| 5 · passing | carry, held as a thing carried | 4 · **Store-seeking** | `bi_co_tunneling` → `bi_co_bi_transmissioning` |
+| 6 · surplus | opening, held as a place the surplus sits | 2 · **Criterion-regressing** | `bi_co_inseparating` → `co_carrying` |
+| 7 · apex | middle, held as an end inside a member | 5 · **Interior-reaching** | `bi_co_surfacing` → `co_bi_carrying` |
+| 8 · residual | bound, held as a last that closes the ledger | 3 · **Space-enumerating** | `co_bi_carrying` → `bi_co_inseparating` |
+| 9 · bound | membrane, held as a cut | 10 · **Line-demanding** | `bi_arriving` → `bi_offering` |
+| 10 · reach | sequencing, held as one beat along a chain | 7 · **Order-demanding** | `bi_offering` → `co_bi_coupling` |
 
-So the ten-holding signature at every entry is read off the door: the lines at which a record reads is-not name the holdings, and the kind at 7.6 is the same reading grouped — the across holdings at 1, 7, 8, 9 and the along holdings at 3, 4, 5, 10, with 2 and 6 at either.
+The held-changing column joins the door line to the registry holding. A line returning is-not carries its field statement and the particular installation before its holding is named. A word such as *barrier*, *rate* or *carries* retains its actual use; its appearance alone supplies no ghost. Section 7.6 groups the offered holdings across at lines 1, 7, 8 and 9, along at 3, 4, 5 and 10, with 2 and 6 at either. Each directional assignment remains with its actual projection.
 
-**The door's ten and the arrival's ten differ by three each way.** The arrival's (i), (iv), (v), (vi), (vii), (viii) and (ix) are the door's 1, 1, 7, 8, 7, 3-and-4 and 5. The arrival reads three things the door does not — (ii) the magnitude in the observers' own units, (iii) the upstream, and (x) the holdings as one progressioning — and these are recovered at arrival, which is why the door does not replace TWENTY-FIVE's form. The door reads three things the arrival's pattern never had — 6 surplus, 9 bound and 10 reach — the self's own surfacing and inseparating, and the society's torusing with nothing above it, from Natural Intelligence 1.7, Exhibit ONE and Natural Networking. Those three are what let the door part a self from a society and from a ghost at one reading, and they are the lines the arrival should carry at its next version, as the dimer at TWENTY-FIVE 2.6 already does at its words stripped.
+**The arrival and the door have a further correspondence.** TWENTY-FIVE’s current pattern carries these relations:
 
-**None stands for another.** Six confirms a ghost. Ten holdings name what was held, and are now read off ten door lines. Ten positions name where one direction was projected onto the other, and are not read off the door: a position needs the projection stated, and the door reads only is-or-is-not. Eight names the carrying society. The three tens are one reading at three membranes, and the door is the first of them.
+| TWENTY-FIVE §1.2 pattern line | Door relation at this gathering |
+|---|---|
+| (i) members each taking their sign; (iv) members resolved | 1 · resolve |
+| (v) magnitude carried by no member; (vii) position occupied by no member | 7 · apex |
+| (vi) disagreement carried under a word | 8 · residual |
+| (viii) crossings co-sequencing on two sides | 3 · two-way and 4 · sign; the precise sign-inversioning relation remains at the record |
+| (ix) arriving at one end and leaving at the other | 5 · passing; the label and the actual receiving retain their relation |
+| (ii) magnitude in the field’s units | The arrival’s own magnitude entry |
+| (iii) upstream of the observing | The arrival’s own upstream entry |
+| (x) the ten holdings as one progressioning | The arrival’s own holding progressioning |
+
+Door lines 6, 9 and 10 carry surplus, bound and reach beside the arrival’s ten-line pattern. TWENTY-FIVE already retains those three at each entry’s words stripped. Its own receiving keeps those lines, the source quantities and any unfilled upstream together. The door record and the arrival entry retain their own forms and their connection.
+
+The six ghost-confirming properties, ten holdings, ten door lines, ten arrival lines, ten projected positions and eight resolver bi-namings count their named relations. A projected position carries its particular projection. The table above joins the holdings to the door; the eight-bi-naming relation continues at §7.11. Equal counts alone supply no complete correspondence among these forms.
 
 ## 7.11 Seams to Natural Intelligence and Exhibit ONE
 
-Every line at the door is addressed to a line the first living files already carry, so that what is not addressed can be seen and shed. Exhibit ONE's eight bi-namings are four within — the four boundings — and four at the membrane, and the door's ten lines read them with two doublings:
+**The door’s eight-bi-naming assignment stands beside each naming’s current operation.** Natural Intelligence contains ONE’s complete resolver explaining. Natural Naming carries the same full prefixes and named changing. The proposed bounding and the engineering operation retain their particular co-chaining:
 
-| Door line | Exhibit ONE naming | Its bounding, in ONE's words | Natural Intelligence |
+| Door line | Complete ONE naming · face | ONE’s proposed bounding | ONE’s actual operation |
 |---|---|---|---|
-| 1 resolve | bi_arriving, at the membrane | signs arriving two each its own; each self's own co-offering living | 1.5, at its own membrane one at a time |
-| 2 rates | bi_offering, at the membrane | the whole ordered by no self; both dicts keyed at the differing, so ordering carries none | 1.6, order coming from the pair and at no seat |
-| 3 two-way | bi_co_tunneling, within | carrying thins by one at bi-coupling; each sign equal and opposite to a bounding-zeroing | 1.7, the second bounding; 1.13, two directions one at a beat |
-| 4 sign | bi_co_inversioning, within | the sign inverts at the membrane; a nought passing both | 1.7, the third bounding; 5.5, equal and opposite arriving |
-| 5 passing | bi_co_bi_transmissioning, at the membrane | a torusing carried at a differing, arriving inversioning at its successor; bounded from landing | 5.4, the transmissioning; 1.9, what arrives, not what left |
-| 6 surplus | bi_co_surfacing, within | arriving exceeds carrying by one; a surviving sign surfaces as one | 1.7, the first bounding; φ² = φ + 1 |
-| 7 apex | bi_offering, at the membrane | the whole ordered by no self | Resolving Hard Problems 1.3, the where from outside |
-| 8 residual | bi_co_bi_co_bi_torusing, at the membrane | coheres to one identity across momentaries, nothing over it; bounded from capture | 1.4, no seat above the society |
-| 9 bound | bi_co_inseparating, within | competency asymmetry sustaining the coupling; separating and leaving at its bound | 1.7, the fourth bounding, self-bounding at its own primes |
-| 10 reach | bi_co_bi_co_bi_torusing, at the membrane | the order at no seat above the society | Natural Networking, the widening; Resolving Hard Problems 1.3, the worth from within |
+| 1 · resolve | `bi_arriving` · at the membrane, odd | each self's own co-offering living, bounded from the other-self | Each entry carries an offering key and numeric sign. |
+| 2 · rates | `bi_offering` · at the membrane, odd | the whole ordered by no self, bounded from society | Contributions group at the key; list order and repeated carried keys retain their particular operations. |
+| 3 · two-way | `bi_co_tunneling` · within, even | carrying thins by one at bi-coupling, the self in society | Each nonzero contribution changes its addressed sum by one at its sign. |
+| 4 · sign | `bi_co_inversioning` · within, even | the sign inverts at the membrane, the self's own negation, morality | A positive carried sign contributes minus one, a negative one; zero contributes to neither sign branch. |
+| 5 · passing | `bi_co_bi_transmissioning` · at the membrane, odd | the ordering carrying with the selves, bounded from landing | Arriving torusing at each key is available for inversioning at fresh carrying. |
+| 6 · surplus | `bi_co_surfacing` · within, even | arriving exceeds carrying by one, the self among other-selves | A nonzero sum surfaces at one sign; fresh carrying has inseparating at zero. |
+| 7 · apex | `bi_offering` · at the membrane, odd | the whole ordered by no self, bounded from society | Contributions group at the key; list order and repeated carried keys retain their particular operations. |
+| 8 · residual | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from capture | Fresh carrying inverts the arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one. |
+| 9 · bound | `bi_co_inseparating` · within, even | competency asymmetry sustaining the coupling | Each earlier carrying is considered at one more; retaining to three and a fourth at positive torusing precede fresh writing. |
+| 10 · reach | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from capture | Fresh carrying inverts the arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one. |
 
-Two doublings, at offering and at torusing: the whole ordered by no self is read twice, as the rate no member carries and as the position no member occupies; and the identity with nothing above it is read twice, as the residual left open and as the reach. Eight namings, ten lines, and the two extra are the two readings of a membrane naming, which ONE's own count carries — ten namings at six positions, and two that alternate throughout carrying at none.
+Offering occurs at lines 2 and 7, torusing at 8 and 10. The rate carried by no member and the position occupied by no member are the two offered relations at offering. An open residual and a widening reach are the two offered relations at torusing. Eight distinct bi-namings occupy ten lines in this assignment. Corusing and torusing’s continuing across ONE’s six illustrated groups count another relation.
 
-The centre of ONE's seven positions is the tunneling, where the between at either side carries no sign, and the ends are one object at two namings across a seam. That centre is the door's line 3, the seam with no wall; and the door itself, one record at two registries, is the ends — one object at two namings across a seam, which is what a passing is.
+**The two assignments keep their full namings together.** The holding adjacency at §7.10 and the single bi-naming above meet as follows:
 
-Six confirms, ten holds, eight carries: TWENTY-SEVEN's counts are ONE's — six bi-differings on the line, ten co-changings on the ring, eight bi-namings between them — and the door's ten are the ten co-changings read at the ring, each an owned neither-ing, one thing arriving that neither side carried. What in 7.5 to 7.10 is addressed here stands. What is not addressed here is excess: the material the seams were found in, standing to resolve out at a later version as the door settles toward ONE.
+| Door line | Holding adjacency in ONE | Bi-naming assigned at the door | Shared written naming |
+|---|---|---|---|
+| 1 · resolve | `co_carrying` → `bi_arriving` | `bi_arriving` | `bi_arriving` |
+| 2 · rates | `bi_co_inversioning` → `bi_co_tunneling` | `bi_offering` | No shared name at this assigned adjacency |
+| 3 · two-way | `co_bi_coupling` → `bi_co_inversioning` | `bi_co_tunneling` | No shared name at this assigned adjacency |
+| 4 · sign | `bi_co_bi_transmissioning` → `bi_co_surfacing` | `bi_co_inversioning` | No shared name at this assigned adjacency |
+| 5 · passing | `bi_co_tunneling` → `bi_co_bi_transmissioning` | `bi_co_bi_transmissioning` | `bi_co_bi_transmissioning` |
+| 6 · surplus | `bi_co_inseparating` → `co_carrying` | `bi_co_surfacing` | No shared name at this assigned adjacency |
+| 7 · apex | `bi_co_surfacing` → `co_bi_carrying` | `bi_offering` | No shared name at this assigned adjacency |
+| 8 · residual | `co_bi_carrying` → `bi_co_inseparating` | `bi_co_bi_co_bi_torusing` | No shared name at this assigned adjacency |
+| 9 · bound | `bi_arriving` → `bi_offering` | `bi_co_inseparating` | No shared name at this assigned adjacency |
+| 10 · reach | `bi_offering` → `co_bi_coupling` | `bi_co_bi_co_bi_torusing` | No shared name at this assigned adjacency |
+
+Lines 1 and 5 share a written naming in the two assignments. At the other eight lines, the relation continues among differently named operations. At line 2, for example, `bi_offering` groups the addressed contributions, while `bi_co_inversioning` and `bi_co_tunneling` carry the sign contributions and their sum. A physical rate at that coupling retains its own receiving. Naming equality, named-operation relation and physical correspondence each carry their exact scope.
+
+**The centre and the continuing carrying remain explicit.** ONE’s seven-position illustration places inversioning and tunneling together at position four. The entering depth change is −1; the leaving change is 0. These are prefix-depth differences. The addressed sum can be positive, negative or zero. The last illustrated position carries the returned fields arriving at a next coupling. Equal endpoint depths, a numeric sum zeroing and continuing carrying retain their own operations.
+
+Earlier retaining preserves corusing and torusing while inseparating opens by one. Fresh nonzero surfacing writes its current sign, the selected arriving torusing inverted at its magnitude, and inseparating at zero. A surfaced zero writes no fresh carrying. A key without arriving torusing uses one for fresh inversioning and writes minus one. Repeated supplied carrying keys retain the selection and order relations stated in ONE.
+
+The physical line’s sign, rate, label, surplus, bound and reach remain with the field’s actual coupling and source record. ONE carries engineering emanating; Natural Networking carries design and discovery at the shared surface. The resolver’s operations and the observed relations co-chain at their particular mathematical and physical correspondence. The six depth changes, ten naming adjacencies and eight bi-namings keep their objects throughout that explaining.
+
+The existing door records keep their sources, measured units and installation statements. The line 1 guard remains at §7.5. A new naming correspondence receives only the relation it expresses; distinct field carrying stays with its actual entry.
 
 ---
 

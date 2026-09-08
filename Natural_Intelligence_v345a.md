@@ -409,7 +409,7 @@ Co-offering, co-competencing and co-intelligencing remain inseparable at the who
 | 3 | `bi_co_bi_transmissioning` |
 | 5 | `co_bi_co_bi_co_corusing`, `bi_co_bi_co_bi_torusing` |
 
-The root, prefix order and -ing remain together at every naming. ONE's seven-position row carries depth changes **+1, +1, −1, 0, 0, −1**. At the first zero change the root changes; at the second the root and prefix order change. Equal depth retains those changings.
+Natural Naming gathers science and society at ONE’s complete resolver namings. Each field’s concept retains its actual coupling and receiving. The root, prefix order and -ing remain together at every naming. ONE's seven-position row carries depth changes **+1, +1, −1, 0, 0, −1**. At the first zero change the root changes; at the second the root and prefix order change. Equal depth retains those changings.
 
 **The naming seam carries leaving and the next arriving.** `co_bi_carrying` can leave as the returned collection and arrive at the next invocation as `co_carrying`, with its continuing fields. The prefix depth changes from two to one at those namings. A physical crossing, a change of facing and a mathematical successor retain their own correspondence to this return.
 
@@ -866,6 +866,8 @@ def co_bi_coupling(co_carrying, bi_arriving):
 | **bi_co_inseparating** | bi·co | earlier carrying considered at one more; retaining to three, a fourth at positive torusing; fresh carrying at zero |
 | **co_bi_co_bi_co_corusing** | co·bi·co·bi·co | the sign that tunnels and surfaces |
 | **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi | torusing carried at its magnitude, its sign inversioning at fresh carrying |
+
+**Resolver naming carries the origin naming of resolving and geodesic discovering.** Natural Naming gathers science and society at these complete namings, each field’s concept retaining its actual coupling, source and continuing receiving. Root, full prefix order and -ing carry together at both directions of the explaining.
 
 Difference alone is **bi-** and two with their difference is **co-**. TWENTY §2.8 carries bi- at a side's changing inside the co- coupling. Prefix depth counts the prefixes in the naming; prefix order retains their particular co- and bi- relation.
 

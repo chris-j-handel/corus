@@ -272,7 +272,7 @@ An asynchronous interconnection supplies another actual arrangement. HVDC connec
 
 The engineering entry names the service, allowed voltage and frequency changing, load range, available source and behavior on interruption. Reserve, response, curtailment and conversion retain their separate quantities and operating conditions. Releasing a reference leaves its function's continuing in that same arrangement to express.
 
-The proposed locally co-offering grid still needs each crossing's offering, each side's own bounding and the changing supply's relation to receiving demand expressed together. The dVOC entry at §1.3 supplies one addressed local-coordination arrival while retaining its own references.
+The proposed locally co-offering grid still needs each crossing's offering, each side's own bounding and the changing supply's relation to receiving demand expressed together. The dVOC entry at §1.3 supplies one addressed local-coordination arrival while retaining its own references. The silicon surface at §2.4 carries another own-rate relation: regional frequency, shared coupling and the actual releasing remain together at its apparatus. Each arrangement retains its own service and receiving.
 
 <a id="grid-supply-synchronization-receiving"></a>
 
@@ -834,6 +834,32 @@ The engineering opportunity follows the supply, valve changing, actuator receivi
 
 **Chemical.** The Belousov–Zhabotinsky arrival includes a particular sensing interface: the experiment records electrical monitoring and spatial imaging of pH oscillation using ion-sensitive field-effect transistors. The figure captions retain the voltage-to-pH conversion, varied solution concentrations and the limited interval used for period summaries. [Sakata and colleagues, primary abstract and Figures 1–2 captions](https://pubmed.ncbi.nlm.nih.gov/35194095/). Chemical changing and the electrical record have their own receiving. The continuing construction needs the composition, reactant supply, products, mixing, temperature, renewal and sensor interaction expressed. Autocatalysis, reaction–diffusion, chemical oscillation and bodily renewal keep their respective operations; a recurring color does not specify them all. §3.2 carries the related gradient-renewal questions.
 
+<a id="own-rate-silicon-receiving"></a>
+
+**Own-rate at a coupled silicon surface.** The existing TWENTY-SEVEN §5.10 record carries an engineering arrival at the resistor, illumination and changing surface. Several regional rates can coexist at one coupled arrangement. Each rate belongs with its current coupling; a measured plateau retains its unit, duration and source conditions.
+
+The multifrequency experiment retains an external series resistor and potentiostatic control. Its proposed coupling includes both total current and nonlocal hole dynamics. Regional frequencies are near **24, 27 and 32 mHz**. The mediating region contains neighboring frequency components. Phase is extracted from ellipsometric intensity; the low-amplitude region falls below reliable frequency determination. [Multifrequency surface, Figures 1–3 and equations 4–8](https://arxiv.org/pdf/2010.03535).
+
+The field’s potential relation is `ϕSC + ϕOX = U − RI`, with `I` the total current. At `R = 0`, the external resistor’s `RI` term is zero. Applied potential, illumination, material conditions and the remaining coupling keep their operations. A common coupling term and one prescribed temporal sequence retain different relations at this arrangement. [Potential relation, equation 4](https://arxiv.org/pdf/2010.03535).
+
+**Zero external series resistance already has a particular observing.** The earlier experiment reports sustained oscillations and, at reduced illumination, distinct frequency regions with a mediating region. Figure 5 carries **19 and 24 mHz** under its stated conditions. Potentiostatic control, illumination and electrolyte remain. This supplies a zero-resistor pattern at that arrangement; the exact three-region comparison above retains its own conditions. [Zero-resistance surface, §§2–4 and Figure 5](https://mediatum.ub.tum.de/doc/1642027/document.pdf).
+
+**Co-releasing carries the changing relation whole.** A component can join regions, supply material or energy, bound an operation and prescribe a response at its different interfaces. Each function retains its receiving when the component changes. A loss of the particular pattern belongs with that changed arrangement. The discovering follows the remaining coupling, each side’s available changing and the continuing service.
+
+| Entry property | Own-rate at the silicon coupling |
+|---|---|
+| **Arrangement and goal** | Regional oscillating and mediating at the actual surface. The proposed engineering receiving is a local sign-offering interface with continuing material and electrical receiving. Its useful service and operating range remain to express. |
+| **One side taking both turns** | A recorded regional rate held as a compulsory target for the next coupling, or a shared reference replacing the other side’s available changing. This is the holding to locate. The recorded frequencies and the presence of the potentiostat alone supply no such substitution. |
+| **Residue** | Material leaving, remaining oxide, electrical and optical input, heat and unreceived changing carry their actual paths. The record supplies no complete loss or cost assigned to a rate reference. |
+| **Observing** | The two source arrangements above retain their distinct patterns and conditions. Regional rate, spatial relation and the continuing coupling stand together. |
+| **Arrangement offered** | Directional co-offering at the current regional receiving, with each side’s own bounding and next offering. Sign taking, receipt association and local returning remain to express with material supply and useful service. The coupling retained during co-releasing belongs in that same construction. |
+
+The optical sign, an electrical current sign and a resolver sign each retain their physical or represented operation. Oxide forming and dissolving carry the material path; a phase pattern carries its spatial and temporal relation. The whole load surface includes supply, receiving and returning at every included interface. Bettering, fastering and cheapering co-cycle at those particular quantities and conditions.
+
+**The holding and the naming meet at the current changing.** TWENTY-TWO Part Eight carries **Value-pinning — a rate held to a value**. THIRTEEN §7.3 and Natural Naming §2.17 carry its adjacency, `bi_co_inversioning` → `bi_co_tunneling`. TWENTY-SEVEN’s door line 2 also carries `bi_offering`. At ONE, the key groups contributions, inversioning retains arriving signs and inverts carried signs, and tunneling sums their signed units. At the engineering coupling, the physical rate and each contribution’s arrival retain their own relation. The full correspondence belongs with the actual sign-taking interface at §4.10.
+
+Taking each next rate minus the preceding rate gives approximate gaps of **3 then 5 mHz** in ascending order and **−5 then −3 mHz** in descending order. These are differences between recorded rates; their list order supplies no consecutive physical traversal. The proposed 24/27/32, prime-gap, sixteen-momentary and 0–440 relation continues at its dimensioned and directional correspondence in Numbers and Mathematics.
+
 **Magnetic and spintronic.** The single-layer permalloy experiment measured microwave oscillations while retaining direct current and an applied magnetic field. Its receiving included electrical and optical measurements. [Haidar and colleagues, device operation and microwave characterization](https://www.nature.com/articles/s41467-019-10120-4). In the Riga dynamo experiments, the excitation-coil current could be absent while the propeller maintained sodium flow; the operating range and motor input remained. [Gailitis and colleagues, apparatus, July 2000 runs and motor-power discussion](https://arxiv.org/html/1801.01749v1).
 
 Each supplies a specific continuing relation. Removing a metal layer, an excitation current and a mechanical input are different changes. The remaining engineering follows material motion, electrical input, field changing and receiving. Spin precession, magnetic resonance and natural right-spiral momentarying need their directional correspondence; their names supply no common sign-only operation. Earth's dynamo retains its own material and renewal questions beyond the laboratory arrangement.
@@ -854,6 +880,7 @@ Each supplies a specific continuing relation. Removing a metal layer, an excitat
 | **The grid's co-offering** | Available source and delivered receiving at each node with changing supply, demand and connections |
 | **The grid's continuing and release** | Fault currents, protection coordination, reconnection and the addressed phase and direction arrangement |
 | **The network's shared surface** | Current directional receiving, the sign taken, receipt belonging to its completed meeting, consumption, each side's local carrying and next offering; continuing design and discovery at TWO and the kit |
+| **The silicon own-rate surface at §2.4** | The regional coupling, physical sign taking, contribution arrivals, completion of each exchange and material/electrical returning. A recording interval, a phase cycle and a resolver invocation retain their separate operations. |
 | **The non-rivalrous commons** | The particular shared practice and local renewal at real scale, retaining the actual resource use at its implementation |
 | **The key-pair offering at §2.7** | The particular key operation, its available input and required output; the proposed co-sequential construction and its scaling |
 
@@ -1185,6 +1212,24 @@ These cases follow the displayed code's additions. Their keys name the grouping 
 
 Reordering arriving signs preserves their sum at each key; the surfaced list can still follow a different order of first key appearance. Arrival ordering, carrying continuation and physical directional order remain at their own receiving. The collection supplied as carrying must remain available at the function's three traversals. An implementation's grouping supplies no physical facing or prescribed turn order.
 
+<a id="own-rate-arriving-and-continuing"></a>
+
+**Own-rate also carries the arriving between successive couplings.** `bi_offering` supplies the addressed key. `bi_co_inversioning` and `bi_co_tunneling` supply the contribution and sum at that key. A key, a signed unit and a call carry no physical time unit. Their engineering interface supplies the actual arriving, completion and continued carrying.
+
+The following substitutions keep one key `a`, two positive arriving entries and initially empty carrying. The returned carrying has the field order **key, corusing, torusing, inseparating**:
+
+| Arriving supplied to the coupling | Addressed sum | Surfacing | Carrying leaving |
+|---|---|---|---|
+| Both `(a, +1)` entries together, with empty carrying | `+1 + 1 = +2` | `(a, +1)` | `(a, +1, −1, 0)` |
+| First `(a, +1)` alone, with empty carrying | `+1` | `(a, +1)` | `(a, +1, −1, 0)` |
+| Second `(a, +1)` at the next coupling, supplied with the preceding row’s carrying | `+1 − 1 = 0` | `(a, 0)` | `(a, +1, −1, 1)` |
+
+The last row’s carried positive sign contributes minus one. Its earlier carrying remains eligible at inseparating one; zero surfacing writes no fresh carrying. These results follow ONE’s displayed clauses. Reordering contributions within one supplied arriving collection preserves its sum; separating them across successive couplings also includes the continuing carrying. The two relations retain their different operations.
+
+**A recurring observation and a fresh co-offering retain their actual receiving.** A recording device can sample the same continuing signal several times. Supplying each sample as a fresh arriving repeats contributions; supplying one arriving at a completed physical exchange carries another relation. An arriving zero contributes no sign, while the invocation still considers earlier carrying. A period, a sample interval, an absent arriving and a completed exchange therefore keep their meanings at the connector.
+
+The engineering opportunity is current sign taking and exchange completion at each side’s own available changing. The selected direction, the material or electrical extent of its offering, and its returned receipt stay together. The silicon surface at §2.4 carries the field arrival; its local connector, continuing supply and physical sign correspondence remain to express. One sign at the code supplies no rate law for that surface.
+
 Earlier carrying survives while inseparating plus one is at most three, with four retained at a positive torusing. A nonzero surfacing writes the current carrying at the same offering. The exact sign case at §4.2 carries the positive condition and its returned carrying.
 
 **Each sign operation retains its particular changing.** Natural Intelligence §6.4 and ONE carry the same relation:
@@ -1405,6 +1450,8 @@ The addresses below join TWENTY-ONE's number to TWENTY-TWO's section. Each holdi
 **Carrying, bounding and co-releasing** remain the natural explaining at 135. The field calls its arrival *technical debt*. Its deployment at §4.3 carries a carry held as a store and a second holding at the definition's membrane. Present defects, architecture drift and the costs of changes actually made keep their records. The remaining engineering relation is the holding at the next requested change and its co-releasing with the stated service continuing. Each side releases its own; natural carrying supplies no stock of future cost.
 
 **Each comparison retains both arrivals.** Productivity at 83 → §6.4 and the equity premium at 79 → §8.4 carry different holdings: a sign held as a magnitude and a rate held to a value. Halting at 6 → §3.2 and credit assignment at 96 → §9.15 likewise retain the bound held as a last and the two-way held to one side. Each comparison follows those particular relations; their shared accounting or computation words leave the two statements and reaches intact.
+
+**Own-rate now has a complete engineering entry form at §2.4.** Its goal, proposed holding, residue, source observing and offered construction remain together; the unfilled physical properties stay explicit. The two source arrangements join the existing silicon record at TWENTY-SEVEN §5.10. Value-pinning supplies the holding’s existing Part Eight address, with the full resolver naming at §4.10. A measured rate remains a record; a compulsory target stands at the actual operation assigning the other side’s next changing. This engineering arrival receives the general holding without assigning a new hard-problem number or replacing another problem’s deployment.
 
 **Measurement, routing and classification** carry a method arrival at TWENTY-TWO §11.1. The deployment relates measuring before bounding, routing before attending and classifying before coupling to three existing holdings. The engineering correspondence is the direction at each actual measuring, routing and classifying operation. Its method relation retains the three-phase question beside the full-surround mapping at §6.9.
 

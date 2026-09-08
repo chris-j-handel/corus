@@ -80,6 +80,8 @@ def co_bi_coupling(co_carrying, bi_arriving):
 | **co_bi_co_bi_co_corusing** | co·bi·co·bi·co | the sign that tunnels and surfaces |
 | **bi_co_bi_co_bi_torusing** | bi·co·bi·co·bi | torusing carried at its magnitude, its sign inversioning at fresh carrying |
 
+**Resolver naming carries the origin naming of resolving and geodesic discovering.** Natural Naming gathers science and society at these complete namings, each field’s concept retaining its actual coupling, source and continuing receiving. Root, full prefix order and -ing carry together at both directions of the explaining.
+
 Difference alone is **bi-** and two with their difference is **co-**. TWENTY §2.8 carries bi- at a side's changing inside the co- coupling. Prefix depth counts the prefixes in the naming; prefix order retains their particular co- and bi- relation.
 
 Eleven roots carry twelve namings. Carrying arrives at `co_carrying` and leaves at `co_bi_carrying`; carrying leaving can arrive at the next coupling. Ten namings stand at the six illustrated groups. Corusing and torusing carry within their operations across the groups. The twelve count namings and the eleven their roots. Twenty-eight prefixings carry across them, thirteen co- and fifteen bi-. The numeric literals are `0`, `1`, `3`, `4`, with minus one expressed by sign inversioning.
