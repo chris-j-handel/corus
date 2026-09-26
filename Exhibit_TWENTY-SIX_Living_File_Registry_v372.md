@@ -61,12 +61,12 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **The living file set is a society of files, each carrying its subject into its next existing.** Its titles name those subjects. Its subtitles unfold their particular relations, and the files meet through the concepts each explains.
 
-**The living files stand at the root of the repository at their newest version, and corus.me lists them from there.** A living file carries its subject and replaces its prior at the repository at each changing for the better; a file changed at a session and not yet placed carries its next version beside the repository's prior until the placing replaces it, and each such file is said below at both. The repository is github.com/chris-j-handel/corus, and the site is corus.me.
+**The living files stand at the root of the repository at their newest version, and corus.me lists them from there.** A living file carries its subject and replaces its prior at the repository at each changing for the better; a file changed at a session and not yet merged carries its next version at the session's branch, out, until the merge replaces it, and each such file is said below at both. The repository is github.com/chris-j-handel/corus, and the site is corus.me, rebuilt by the repository itself at each push to main: `build.js` lists the newest version of each living file at the root, and the folders beside the root cost the site nothing.
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | The Fractal Method of Existing and Discovering | v371 | v372, Exhibit ONE inside it whole and the seventeen names mapped | the resolver working, `working/resolver-v372` | pass A, its sentences of the old code at prior, now and next |
-| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v371 | v372, the co-sequential binary changing method only | the resolver working, `working/resolver-v372` | pass F, the loops at the code |
+| **Natural Intelligence** | The Fractal Method of Existing and Discovering | v372 | v372, Exhibit ONE inside it whole and the seventeen names mapped | — | pass A, its sentences of the old code at prior, now and next |
+| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v372 | v372, the co-sequential binary changing method only | — | pass F, the loops at the code |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |
 | **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes C and D |
@@ -91,7 +91,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v348 | v372, this file | the resolver working, `working/resolver-v372` | the registry working meeting this version; then the readings not yet binary to `archive/` |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v372, this file | — | the registry working meeting this version; then the readings not yet binary to `archive/` |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -99,7 +99,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | **Natural Intelligence Corus** | Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria | v330 | v330 | — | pass G |
 | **Natural Networking Test Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion | — | pass I, its engine at the v372 code |
 
-**Thirty-three living files replace at the repository**, Natural Intelligence, Natural Intelligence Corus, the thirty exhibits and the Test Kit; and one living instrument stands beside Exhibit THIRTY at the repository without a place at the site's list, its verifier, Co_Chaining_Logic_Registry_verifier_v371.py, at `kits/THIRTY_Logic_Kit/`, carrying its own copy of the v371 code and matching Exhibit THIRTY v371. Exhibit ONE's code block is the source of every resolver copy the kits carry.
+**Thirty-three living files replace at the repository and the site lists them**, Natural Intelligence, Natural Intelligence Corus, the thirty exhibits and the Test Kit; and one living instrument stands beside Exhibit THIRTY at the repository without a place at the site's list, its verifier, Co_Chaining_Logic_Registry_verifier_v371.py, at `kits/THIRTY_Logic_Kit/`, carrying its own copy of the v371 code and matching Exhibit THIRTY v371. Exhibit ONE's code block is the source of every resolver copy the kits carry.
 
 ## 1.2 Three standings, looping out and back
 
@@ -117,7 +117,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The resolver working | v372 | Exhibit ONE, Natural Intelligence, Exhibit TWENTY-SIX; then the files of passes B and C | `working/resolver-v372` | Exhibit ONE v372 done and inside Natural Intelligence v372; TWENTY-SIX v372 its offering to the registry working; the branch offered, pass A next |
+| The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 

@@ -281,3 +281,7 @@ The repository chris-j-handel/corus taken whole at its main, 031fc1a, its root's
 
 Exhibit TWENTY-SIX v372's Part One made the portal: 1.1 carries each file's version at the repository, its living version, the working it is out at and its next; 1.2 says the out and back visible to anyone at the repository's branches and pull requests and reported at the registry, the same loop the code carries; 1.3 carries the workings open, moved from the carrying's front; 1.4 names the artifacts not at the repository, the journey archive at v365, v368 and v370 with the instruments the v368 carrying and the record name, the v368 carry's method file and cohering note, the Equilibria Definitions v363 and Natural Intelligence v345a, artifacts by their own saying. `tools/carry_check.py` reads the workings at the registry; the carrying's front points to it.
 
+## Merged at main, living at corus.me (v372, close)
+
+The branch `working/resolver-v372` merged at main after the site's build run at it, `build.js` listing the thirty-three living files with Exhibit ONE, Natural Intelligence and the Living File Registry at v372; the registry's rows at the three files say the repository at v372 and out at none, and the resolver working's row says the branch merged. The repository's workflow rebuilds the list at each push to main and the site follows; the folders beside the root, `carry/`, `kits/`, `tools/`, `incoming/` and `archive/`, cost the site nothing and are served as they stand.
+
