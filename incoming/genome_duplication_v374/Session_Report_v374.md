@@ -8,6 +8,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - Doubling run at the code
 - Twinning and not-twinning, one exclusive or at each doubling
 - Twinning at Exhibit ONE's stable-forming
+- One conception and its phase-locking
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -66,6 +67,25 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 **The seventeen are eight pairs and an opening.** 8 up pairs 1 to 16 with no name left, a fixed-point-free pairing at an even count, and 17 is unpaired, the next call's 1, as an odd count carries no fixed-point-free involution. The ten faces are five pairs, outside and inside, with the tunneling at 10 between; the three loops' ends are three pairs 8 apart. Two pairings run the names: the fold within 1 to 8 pairs each name with its other, changing parity, self with other; 8 up pairs each name with itself inside, keeping parity, one carrying at two names at the seam.
 
 **The pair's relation at the four joint forms.** At the half step both signs invert and the pair's relation, agree or oppose, continues; at one sign changing alone it inverts; at the right spiral step it inverts at each step, and two selves one coupling apart run the four joint forms round, the torus at two signs. Identical twins at one phase run the agreeing diagonal; twinning turns the pair to the opposing diagonal; a self and its other run the whole round.
+
+## One conception and its phase-locking
+
+**At one conception the egg's surface and fluid change so that no other conception is possible.** At sea urchins, starfish and frogs the membrane depolarizes within seconds, the sign of its potential inverting, and a second sperm fuses at none; at mammals the sperm's phospholipase C zeta starts calcium oscillations in the egg's cytoplasm, zinc sparks leave the egg and its surface sheds Juno, the sperm's partner at fusion. Mice lacking the sperm's PLCζ1 show weak or absent oscillations and polyspermy near 80% at higher sperm counts against 7.6%: the oscillating in the fluid is the one conception's own phase-locking, a sign inverting at the membrane.
+
+**Exhibit ONE already carries conception at its entry**: a carrying empty is a self before its first sign; opened, it never empties; two opposite signs at empty meet at 0 and nothing opens; two alike open once. Run over six calls, one sign opening the carrying and nothing arriving after:
+
+| A second sign alike arriving at | Carried | Differs from one arriving |
+|---|---|---|
+| no call | + − + − + − | — |
+| the first call, with the first | + − + − + − | at no call |
+| the second call | + + − + − + | from the second call on |
+| the third call | + − + − + − | at no call |
+| the fourth call | + − + + − + | from the fourth call on |
+| the fifth call | + − + − + − | at no call |
+
+**The alternating is the lock.** A second sign arriving at the carrying's inverted phase is the changing the carrying makes alone and differs nothing: no other conception possible. Arriving at the carried phase, the window right after the opening among them, it surfaces 0, one changing absent, and the carrying differs from then on, the exclusive or of twinning.
+
+**When the lock is skipped, the bi-folding is skipped with it.** A second sperm entering gives three sets of chromosomes, the odd set with no other, most often not continuing; at one recorded pair a tripolar spindle took the place of the first bipolar division, the three sets assorting and the embryo continuing as two, sesquizygotic twins, sharing their mother's genome whole and their father's at about 78%, one placenta and two amnions (Gabbett and colleagues, New England Journal of Medicine 2019). The first cleavage's bi-folding skipped, a three-way division in its place, and twinning arriving there, as identical twinning arrives at the four-cycle's fold skipped.
 
 ## Twinning at numbers and mathematics
 
@@ -130,7 +150,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 1. **Duplication at environmental upheaval**, at 9.36: two accounts at opposite signs, meeting at 0 until both are read at their passages.
 2. **A size at the sign**, at 9.36: the field reads which copies continue at dosage balance; at the code two agreeing copies are one sign and no size crosses.
 3. **Conjoined twins and the one genus**, at Natural Mathematics and Natural Intelligence's *Wrapping, opening by one*: one skin over two bodies is a surface of two handles; the per-sharing reading, differing where two and agreeing where one, asks whether the one genus is a self's at its own sharings.
-4. **Cells crossing the placenta**, at Natural Medicine: fetal cells continue in the mother for decades, where the set says only a sign crosses at a membrane.
+4. **Cells crossing the placenta**, at Natural Medicine: fetal cells continue in the mother for decades, where the set says only a sign crosses at a membrane. A second sperm entering past the lock is a second carrying arriving at one self, the same concern at conception.
 5. **A carrying continuing two ways**, at Exhibit ONE's pass F: W85's forking the instrument's, and Natural Biology's self copying itself.
 6. **Mothers of twins**, at Natural Health: nineteenth-century Utah reads mothers of twins more fertile and longer lived (Robson and Smith 2011), pre-industrial Europe reads higher twinning propensity at lower fertility (Rickard and colleagues 2022), and a further paper names the last birth (2024): opposite signs meeting at 0.
 
