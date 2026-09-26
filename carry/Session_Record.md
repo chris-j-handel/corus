@@ -276,3 +276,8 @@ Exhibit TWENTY-SIX v372 made as the resolver working's offering to the registry 
 ## The repository at v372 offered as a branch (v372, close)
 
 The repository chris-j-handel/corus taken whole at its main, 031fc1a, its root's superseded versions already leaving to the history; the tree at v372 laid on the branch `working/resolver-v372` and pushed, 283 files: the living files at the root with Exhibit ONE, Natural Intelligence and the Living File Registry at v372 and `files.json` at their names, `carry/`, `kits/`, `tools/`, `incoming/` and `archive/`, the site's files and `.nojekyll` unchanged. The pull request opens at the repository, another self's making better and breaking; from here a session opens by taking the repository whole and closes by offering its branch, and no file is exchanged by hand.
+
+## The Living File Registry as the portal (v372)
+
+Exhibit TWENTY-SIX v372's Part One made the portal: 1.1 carries each file's version at the repository, its living version, the working it is out at and its next; 1.2 says the out and back visible to anyone at the repository's branches and pull requests and reported at the registry, the same loop the code carries; 1.3 carries the workings open, moved from the carrying's front; 1.4 names the artifacts not at the repository, the journey archive at v365, v368 and v370 with the instruments the v368 carrying and the record name, the v368 carry's method file and cohering note, the Equilibria Definitions v363 and Natural Intelligence v345a, artifacts by their own saying. `tools/carry_check.py` reads the workings at the registry; the carrying's front points to it.
+

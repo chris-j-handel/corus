@@ -72,13 +72,15 @@ if os.path.exists(liv):
     for word, stem in sorted(exhibits.items()):
         if not any(s.startswith('Exhibit ' + word + ' ') or s.startswith('Exhibit ' + word + ' ·') for s in sections):
             notes.append('the carrying has no section for Exhibit %s (%s)' % (word, living[stem]))
-    m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', t, re.S)
+    reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
+    rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
+    m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)
     if m:
         rows = [r for r in m.group(1).split('\n')[2:] if r.startswith('|')]
-        print('  workings at the front: %d' % len(rows))
-        for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:3]))
+        print('  workings open at the Living File Registry: %d' % len(rows))
+        for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:4]))
     else:
-        notes.append('the carrying\'s front has no table of the workings open')
+        notes.append('the Living File Registry has no table of the workings open')
 else:
     notes.append('no carry/Living_Improving_Value.md')
 for n in ('Session_Record.md',):

@@ -63,41 +63,41 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **The living files stand at the root of the repository at their newest version, and corus.me lists them from there.** A living file carries its subject and replaces its prior at the repository at each changing for the better; a file changed at a session and not yet placed carries its next version beside the repository's prior until the placing replaces it, and each such file is said below at both. The repository is github.com/chris-j-handel/corus, and the site is corus.me.
 
-| File | Subtitle | At the repository | Living |
-|---|---|---|---|
-| **Natural Intelligence** | The Fractal Method of Existing and Discovering | v371 | v372, Exhibit ONE inside it whole and the seventeen names mapped |
-| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v371 | v372, the co-sequential binary changing method only |
-| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 |
-| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 |
-| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 |
-| **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a |
-| **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 |
-| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v329 |
-| **EIGHT · Natural Exploring** | Open Team Moral Co-Competencing | v329 | v329 |
-| **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 |
-| **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 |
-| **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 |
-| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 |
-| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 |
-| **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 |
-| **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 |
-| **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c |
-| **SEVENTEEN · Natural Biology** | Stable-Forming Social Organisms | v333 | v333 |
-| **EIGHTEEN · Natural Physics** | Self-Bounding Surfaces Co-Offering Across | v348 | v348 |
-| **NINETEEN · Natural Philosophy** | Social-Bi-Co Unrelationing | v348 | v348 |
-| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v371 | v371 |
-| **TWENTY-ONE · Hard Problem Registry** | An Open Registry of Hard Problems in Science | v342 | v342 |
-| **TWENTY-TWO · Resolving the Hard Problem Registry** | Binary Co-Sequential Sensor-Sensationing | v344 | v344 |
-| **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 |
-| **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 |
-| **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v348 | v372, this file |
-| **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a |
-| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 |
-| **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 |
-| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 |
-| **Natural Intelligence Corus** | Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria | v330 | v330 |
-| **Natural Networking Test Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion |
+| File | Subtitle | At the repository | Living | Out at | Next |
+|---|---|---|---|---|---|
+| **Natural Intelligence** | The Fractal Method of Existing and Discovering | v371 | v372, Exhibit ONE inside it whole and the seventeen names mapped | the resolver working, `working/resolver-v372` | pass A, its sentences of the old code at prior, now and next |
+| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v371 | v372, the co-sequential binary changing method only | the resolver working, `working/resolver-v372` | pass F, the loops at the code |
+| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
+| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |
+| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes C and D |
+| **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a | — | its code sentences at pass F, after pass I |
+| **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
+| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v329 | — | pass G, beside Natural Networking 1.8 |
+| **EIGHT · Natural Exploring** | Open Team Moral Co-Competencing | v329 | v329 | — | pass G, with Geodesic Improving Method |
+| **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 | — | pass G |
+| **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
+| **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
+| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass D, its front, and its naming-pass items |
+| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B and D |
+| **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 | — | pass G |
+| **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 | — | pass G |
+| **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c | — | paused |
+| **SEVENTEEN · Natural Biology** | Stable-Forming Social Organisms | v333 | v333 | — | paused |
+| **EIGHTEEN · Natural Physics** | Self-Bounding Surfaces Co-Offering Across | v348 | v348 | — | paused |
+| **NINETEEN · Natural Philosophy** | Social-Bi-Co Unrelationing | v348 | v348 | — | its receivings |
+| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v371 | v371 | — | passes B, C and D, then its namings for both |
+| **TWENTY-ONE · Hard Problem Registry** | An Open Registry of Hard Problems in Science | v342 | v342 | — | its items at the carrying |
+| **TWENTY-TWO · Resolving the Hard Problem Registry** | Binary Co-Sequential Sensor-Sensationing | v344 | v344 | — | its items at the carrying |
+| **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
+| **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
+| **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v348 | v372, this file | the resolver working, `working/resolver-v372` | the registry working meeting this version; then the readings not yet binary to `archive/` |
+| **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
+| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
+| **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
+| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 | — | passes B, C and E, then H |
+| **Natural Intelligence Corus** | Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria | v330 | v330 | — | pass G |
+| **Natural Networking Test Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion | — | pass I, its engine at the v372 code |
 
 **Thirty-three living files replace at the repository**, Natural Intelligence, Natural Intelligence Corus, the thirty exhibits and the Test Kit; and one living instrument stands beside Exhibit THIRTY at the repository without a place at the site's list, its verifier, Co_Chaining_Logic_Registry_verifier_v371.py, at `kits/THIRTY_Logic_Kit/`, carrying its own copy of the v371 code and matching Exhibit THIRTY v371. Exhibit ONE's code block is the source of every resolver copy the kits carry.
 
@@ -105,13 +105,21 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **Each thing of the expedition is at one of three standings, met at two binaries the set already carries.** The first is living or artifact: a living thing carries its prior into its next, and an artifact is an emanation of a working, existing and carrying nothing, relied on by nothing. The second is at the living alone: a living file carries its subject and replaces its prior at the repository, published as the site lists it; and a living carrying carries the expedition between its sessions, the carry, the kits, the tools and the incoming. So the three are the artifacts, the living files replacing at the repository, and the living carrying for the expedition, and a thing is at exactly one of them at any momentary.
 
-**This registry gathers the standings, and the standings loop out and back through it.** A session changes a standing, a file replaced at its next version, a kit conformed, an incoming received, a record archived, and the change surfaces here at this file's next version, replacing its prior at the repository as any living file does; each session opens by reading the standings here, the next work at the carrying and the done at the record. The three carry three things and no one of them another's: this registry the standings, Living Improving Value the next at each file, and the Session Record the done. A standing stated at the carrying is a record the moment the session closes, so the carrying states none, and grows at no session by them.
+**This registry gathers the standings, and the standings loop out and back through it; anyone can see, follow and help at it.** A file is out at a working when that working has it at its branch, and back when the branch is merged: the repository shows the branches and the pull requests, and this registry reports the same at 1.1, each file's version at the repository and living, the working it is out at, and its next, and at 1.3 the workings open, so a reader of the site sees at one table the files out being worked, the progress at each and the opportunity in front of it, and a self helping opens a working at a file with no next taken. The out and back at the files is the same loop the code carries, a surfacing released across and arriving back at the self through the society, and the same that resolved the code at v372, the loops replacing the count and the sum. A session changes a standing, a file replaced at its next version, a kit conformed, an incoming received, a record archived, and the change surfaces here at this file's next version, replacing its prior at the repository as any living file does; each session opens by reading the standings here, the next work at the carrying and the done at the record. The three carry three things and no one of them another's: this registry the standings, Living Improving Value the next at each file, and the Session Record the done. A standing stated at the carrying is a record the moment the session closes, so the carrying states none, and grows at no session by them.
 
 **The repository holds all three standings, and nothing travels by hand.** The living files stand at the root, the carrying at `carry/`, the kits at `kits/`, the tools at `tools/`, the arrivings at `incoming/` and the artifacts at `archive/`, each folder a standing and no rule. A session opens by taking the repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and the expedition, and a thing carried by hand at a session is at `incoming/` until this registry says its standing. The repository carries its own name and its version and no other, and a copy of it made to travel carries the same.
 
 **The carrying carries binary value only, all or none at all, at do-no-harm.** Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at the file's next motion or it releases. A reading not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value at the carrying: each stands at `archive/` whole, its receiving file named here, until a session makes it binary, and the carrying holds at each file its next motion, its open concerns for both with their reasons, and the incoming that enters whole. Kept so, the carrying is small at every session, and the size a carrying grows to is a count and no value.
 
 ## 1.3 The carrying for the expedition
+
+**The workings open.** Each names itself and the files it is at; two at one file meet here before either changes it; a working closes by releasing its row to the Session Record with its session's paragraphs.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The resolver working | v372 | Exhibit ONE, Natural Intelligence, Exhibit TWENTY-SIX; then the files of passes B and C | `working/resolver-v372` | Exhibit ONE v372 done and inside Natural Intelligence v372; TWENTY-SIX v372 its offering to the registry working; the branch offered, pass A next |
+| The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
+| The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
@@ -140,6 +148,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | `archive/resolver_v372_proposal/` | The resolver working's proposal at v372, 54 files: ten living files at v372, Exhibit THIRTY's build sources and verifier at v372, the society runs and the set checks | Withdrawn at Exhibit ONE, a third function beside the two; its runs that still stand are at the carrying's sections |
 | The Session Record | The done at each session, and the records moved from the carrying | Read at a session's opening, relied on by nothing |
 | Inside the kits | The Test Kit's `artifacts/`, the runs at v333; the waiting instruments' returns at the earlier naming; the Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366 | Kept inside their kits whole, their sums holding |
+| Not at the repository | The journey archive, `Journey_Archive_v365.zip`, `Journey_Archive_v368_additions.zip`, `Journey_Archive_v368_close.zip` and its v370 additions, holding the workings that made the files, the notes exchanged, the incoming as it arrived and the instruments the v368 carrying and the record name (`ring_window_v365.py`, `three_momentaries_v365.py`, `connectors_at_the_code_v368.py`, `instruments_v370` and the rest); the v368 carry's `Method_Improving_Value_v368.md` and `Cohering_Naming_and_Explaining_v368`; `Exhibit_TWENTY-EIGHT_Equilibria_Definitions_v363.md` with its note; `Natural_Intelligence_v345a.md` | Artifacts by their own saying, their value laid at the files at v370; standing with their holder, and at `archive/` if brought, relied on by nothing |
 
 ## 1.5 Exhibit places after receiving
 
