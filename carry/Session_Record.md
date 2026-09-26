@@ -285,3 +285,7 @@ Exhibit TWENTY-SIX v372's Part One made the portal: 1.1 carries each file's vers
 
 The branch `working/resolver-v372` merged at main after the site's build run at it, `build.js` listing the thirty-three living files with Exhibit ONE, Natural Intelligence and the Living File Registry at v372; the registry's rows at the three files say the repository at v372 and out at none, and the resolver working's row says the branch merged. The repository's workflow rebuilds the list at each push to main and the site follows; the folders beside the root, `carry/`, `kits/`, `tools/`, `incoming/` and `archive/`, cost the site nothing and are served as they stand.
 
+## The session-opening prompt at the README (v372, close)
+
+The prompt that readies a session to the method, the naming, the explaining and the binary all-or-none understanding placed at the repository's README under *Opening a session*, pasted whole at a session's opening with its number one on from this record's last; it takes the repository whole with push access, reads the registry, the carrying and the record in order and the five files before any change, runs the checks, states the method and the naming, and closes at a branch merged to main. The next session is v373, and the motion in front of it is pass A.
+
