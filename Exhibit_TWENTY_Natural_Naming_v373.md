@@ -100,7 +100,7 @@ Exhibit TWENTY Natural Naming v373
 - 5.45 bi-co-podaling
 - 5.46 emanation
 - 5.47 an accounting
-- 5.48 volutioning
+- 5.48 bi-tri-volutioning
 - 5.49 co-momentarying
 
 **SIX · GATHERINGS AT THE RESOLVER'S NAMES**
@@ -1263,18 +1263,18 @@ Existing, emanation and accounting are the three placings a term is at, and no f
 
 A term is existing, emanation or accounting at its use, and ghost only at its installing. **An instrument keeps a place-moment with one half cut off**, as a photograph does: a bounding passes through the stopping, and an adjacency, and a parity changing does not, so an absence at that face is an absence in the record, and the form carries none.
 
-## 5.48 volutioning — binary
+## 5.48 bi-tri-volutioning — binary
 
 ```
 1  a spiraling adds a next at each step
-2  a step returning its own term after two is an involution, closing
-3  a spiraling reaches no prior momentary, closing at none
-4  in- carries inward, the closing on its own term
-5  without in-, the spiraling carries on adding nexts
-6  and the spiraling closing at none is volutioning
+2  it runs at three faces, position, scale and orientation
+3  each face spirals at its own differing, from all other
+4  a step returning its own term after two is an involution, closing, and in- carries it
+5  without in-, each face reaches itself again at no momentary, adding nexts
+6  and the three spiraling, each at its own differing and closing at none, is bi-tri-volutioning
 ```
 
-**Volutioning is at three faces and two ways.** Position, scale and orientation each spiraling at its own differing is bi-tri-volutioning, the shaping of the stable-form emanations from living to non-living; the same three each inverted at once is tri-involutioning, the emanating, the hand taken to the opposite form. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
+**Tri- carries the three faces, bi- each face at its own differing, and the absent in- the closing at none**: take any one out and the naming stops. *Volutioning* alone carries no prefix, no direction and no two, and it names a changing already named, spiraling, so it nyes away, 4.12, and gathers here with *tri-volutioning*. Bi-tri-volutioning is the shaping of the stable-form emanations from living to non-living, and the geodesic-method's three faces, scale the form, orientation the running and position the resolving. The same three each inverted at once is tri-involutioning, the emanating, the hand taken to the opposite form. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
 
 ## 5.49 co-momentarying — binary
 
@@ -1347,7 +1347,7 @@ the between of momentaries    nothing is at rest, nothing is there
 | **tunneling** | tunnelling |
 | **floating neutralling**, the running | floating neutral, its picture at one momentary |
 | **unrelationing**, at the rate and at each arriving | irrationalizing |
-| **bi-tri-volutioning**, the three spiraling | tri-volutioning |
+| **bi-tri-volutioning**, the three spiraling, 5.48 | tri-volutioning; volutioning, a bare naming |
 | **advancing** | the advance |
 | **invisibling** | invisible, its picture |
 | **nearing** | near; near, and other-than-same |
