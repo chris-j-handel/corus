@@ -10,6 +10,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - Twinning at Exhibit ONE's stable-forming
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
+- Twinning societies across fields
 - Places in the set
 - Concerns for both
 - Runs at the code
@@ -81,6 +82,30 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - **The twin as instrument.** The field's twin designs at heritability assume equal environments: at the code, the assumption that the pair's arrivings agree.
 - **A clonal society.** The wasp *Copidosoma floridanum*'s brood from one egg, soldiers and reproducers, a candidate entry at the Living Society Registry.
 
+## Twinning societies across fields
+
+**Not-twinning arrives two ways, each an even count of changings, same-as-prior**: the pair agreeing at the doubling, or the pair differing and one of it nyeing. Natural Societies' *Healthy living is the relation between birthing and nyeing* meets species carrying the second route as their own relation:
+
+| Society | Twinning | Nyeing at the pair | Arriving |
+|---|---|---|---|
+| Human twin pregnancy | two continuing | the vanishing twin, about a fifth to nearly a third of multiple pregnancies | one, or two |
+| Pine seed | one zygote cleaving to several embryos | programmed cell death | one |
+| Sand tiger shark | many embryos, several fathers | the largest in each uterus eating its siblings | two, one at each side |
+| *Copidosoma* brood | up to about three thousand clones from one egg | sterile soldiers defending their siblings | the reproducers |
+| Marmosets and tamarins | fraternal twins as the ordinary | none at the pair; fathers and older siblings carrying the infants | two, chimeric |
+| Aphids and water fleas | clonal generations while conditions open | sexual generations at crowding and seasonal changing | by turns |
+
+**Human twinning is a society's own relation.** The world's rate rose from 9.1 to 12.0 per thousand deliveries between 1980–1985 and 2010–2015, about 1.6 million pairs a year, carried by medically assisted reproduction about three times more than by later childbearing, while identical twinning is near four per thousand everywhere (Monden, Pison and Smits, Human Reproduction 2021): the rise is fraternal, at the mother's cycle and her society's couplings. In sub-Saharan Africa twins' first-month mortality is nearly five times singletons', converging by five years and gone after six (Monden and Smits, Lancet Global Health 2017): the twins' differing meets the society's couplings from the first month, and where care couples the two continue. Among the Yoruba, among the world's most twin-dense, a twin continuing no further is met by a carved figure, *ere ibeji*, cared for beside the living twin, the pair continuing at the society's grain.
+
+**Chemistry carries the pair at one sharing.** Natural Chemistry's *the doubling, two signs of each odd*: each subshell an odd count of orbitals, each orbital two electrons of opposite spin, pairing at zero net spin, and electrons of one spin at separate orbitals, the capacity and the 0 of Exhibit ONE's sharing met at an orbital, a reading. A radical's odd electron carries its spin unmet, and radicals pair, nitrogen dioxide to dinitrogen tetroxide. Crystal twinning is the field's own word: two crystals intergrown at a twin law, a reflection reversing the hand or a rotation keeping it, and Pasteur's hand-sorted tartrate mirror crystals opening molecular handedness.
+
+**Plants, fish and the octopus.**
+- **Phyllotaxis**: one leaf at each node, the spiral near the golden angle, ratios straddling φ; two leaves at each node, opposite and decussate, each pair a quarter turn from the last, the right spiral step's quarter.
+- **Citrus**: several embryos in one seed, one conceived and the others clonal twins of the mother.
+- **Amazon molly**: all female, a related male's sperm starting development and its genome continuing in none of the offspring, a crossing carrying its sign and nothing of its sender, as Exhibit ONE says of each crossing.
+- **Mangrove rivulus**: fertilizing itself, near-clonal lines, conceiving at its limit where two become one self.
+- **Octopus**: no twinning recorded here; the mother broods and nyes as her brood hatches, generations meeting at one momentary with no overlap, a momentary completing at the next opening; its two branchial hearts beside one systemic heart, the pair and the one.
+
 ## Places in the set
 
 | File | Place |
@@ -92,8 +117,12 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 | FOUR · Natural Mathematics | the pair of changings; pairing and hand; the conjoined concern |
 | TEN · Natural Health | lived twinning |
 | ELEVEN · Natural Medicine | twin pregnancy and the shared membrane; identical and fraternal at two couplings |
-| SEVENTEEN · Natural Biology | twinning at conceiving; the five grains; genome duplication at the self and its lineage |
+| SEVENTEEN · Natural Biology | twinning at conceiving; the five grains; genome duplication at the self and its lineage; plants, fish and the octopus |
 | TWENTY-ONE and TWENTY-TWO | 212 and 9.36 at the observings; 176 and 3.14 at the parity wall; 27 and 44 at the twin designs |
+| SEVEN · Natural Societies | twinning societies at birthing and nyeing, the two routes to one |
+| NINE · Natural Human Society | the world's twinning at the mother's society; *ere ibeji* |
+| TEN · Natural Health | twin survival at social health; the mothers-of-twins concern |
+| SIXTEEN · Natural Chemistry | the pair at one sharing; radicals; crystal twinning |
 | TWENTY-FIVE · Living Society Registry | the clonal brood |
 
 ## Concerns for both
@@ -103,6 +132,9 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 3. **Conjoined twins and the one genus**, at Natural Mathematics and Natural Intelligence's *Wrapping, opening by one*: one skin over two bodies is a surface of two handles; the per-sharing reading, differing where two and agreeing where one, asks whether the one genus is a self's at its own sharings.
 4. **Cells crossing the placenta**, at Natural Medicine: fetal cells continue in the mother for decades, where the set says only a sign crosses at a membrane.
 5. **A carrying continuing two ways**, at Exhibit ONE's pass F: W85's forking the instrument's, and Natural Biology's self copying itself.
+6. **Mothers of twins**, at Natural Health: nineteenth-century Utah reads mothers of twins more fertile and longer lived (Robson and Smith 2011), pre-industrial Europe reads higher twinning propensity at lower fertility (Rickard and colleagues 2022), and a further paper names the last birth (2024): opposite signs meeting at 0.
+
+The placenta concern strengthens: marmoset twins continue chimeric through shared placental blood, germlines included, and a heifer beside a bull twin is most often a sterile freemartin.
 
 ## Runs at the code
 
@@ -113,4 +145,5 @@ Each run is at Exhibit ONE v372's code block, at the orders the Session Record s
 - **At Exhibit ONE, pass F**: a carrying continuing two ways at the calls outside the call, the twinning's own face at the code; the higher forms 18 to 31 met at n + 16.
 - **At the two-resolver ring**: the ring of three, one pair and a third, and the odd ring's one meeting at triplets.
 - **At the parity wall**: the pair of changings met at the sieve's parity at its passages.
+- **At twinning societies**: the Living Society Registry's schema met at the marmoset group, the aphid clone and the shark's two uteri; the ring of three at Exhibit ONE beside triplets.
 - **At the concerns**: each met at its observing before any sentence of the set is written.
