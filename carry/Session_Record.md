@@ -369,3 +369,7 @@ The expedition's lead: a membrane is a nothing unrelationing between, and two ca
 
 The expedition's lead: a genome is one co-sequential momentary carrying, no memory. Met at semi-conservative replication and at the degradation of excess, unjoined complex subunits in aneuploid yeast, laid at the carrying's Natural Biology section in two strata and at the report's observings 42 and 43 and its matching; the observings standing against *a sign and no size* and against the fork and no copying met at readings with the observings answering, for both; the living surface of two handles standing.
 
+## Conjoined twins at the one genus, and the readings confirmed (v374)
+
+The expedition's lead confirmed the readings at whole cells in another self, a size at the sign and living forks. Conjoined twins met at their incidence and types, union at homologous sites where surface ectoderm is absent or removed at the oropharyngeal and cloacal membranes, the heart and the neural tube, the Hensel and Hogan twins, and a singleton body's seven holes at topology's count; laid at the carrying's Natural Mathematics section in two strata and at the report's observings 44 to 47 and its matching; the fourth observing standing against a sentence met at a reading, for both.
+

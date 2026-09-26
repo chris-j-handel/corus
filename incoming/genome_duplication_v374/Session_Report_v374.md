@@ -57,6 +57,13 @@ Each observing is numbered for the matching to answer to, with its source and wh
 42. DNA replicates semi-conservatively: each daughter double helix carries one strand of the parent and one strand made new against it (Meselson and Stahl, 1958, the field's account).
 43. In aneuploid yeast about 20% of the proteins from genes on an extra chromosome are attenuated, mostly subunits of multiprotein complexes, their mRNA and translation increased with the extra copy and the proteins degraded, accumulating within minutes when degradation is blocked; excess subunits continue only when joined to their complexes (Dephoure and colleagues, eLife 2014, at passages).
 
+## Conjoined twins
+
+44. Conjoined twins are about 1 in 50,000 to 200,000 births, most live births female, about 3 to 1; about half are stillborn and a further third die within a day; thoracopagus about 28% with a heart shared, thoraco-omphalopagus about 18.5%, omphalopagus about 10% with separate hearts and about 82% survival, craniopagus about 6% (encyclopedia account).
+45. The union is always at homologous sites, the lateral halves of a structure of one embryo united to the opposing halves of the other, and only where surface ectoderm is absent (the heart's and septum transversum's primordia) or about to be removed (the neural tube, the oropharyngeal and cloacal membranes); the field now reads fusion of two monozygotic embryos more than an incomplete splitting of one (Spencer; "Two is a Crowd", Clinical Anatomy 2019, at passages).
+46. The Hensel twins, two heads on one body, each control one side, one arm and one leg each, and walk, swim and drive together; the craniopagus twins Krista and Tatiana Hogan share a bridge between their thalami and are reported to pass sensation between them (encyclopedia account).
+47. A singleton human body, its mouth, anus, two nostrils and four tear ducts opening into one connected passage, is a surface of seven holes at topology's count (the field's account).
+
 ## Across fields
 
 25. Each atomic orbital carries at most two electrons, of opposite spin; periodic table rows run 2, 8, 8, 18, 18, 32, 32; nitrogen dioxide, an odd-electron radical, pairs to dinitrogen tetroxide; crystals intergrow at twin laws, a reflection or a rotation; Pasteur hand-sorted mirror-image tartrate crystals (the field's accounts).
@@ -115,6 +122,13 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - At replication nothing is copied from a store: the prior's two strands part and each meets the now's arriving nucleotides, base by base, each daughter the prior meeting the now (42). Two continuings, no either-or: the fork a living carrying continuing two ways at one momentary (5, 14, 42).
 - At dosage the field's proportion is its accounting over many molecules; at each molecule a subunit meets its partner at its complex or meets none and is released, all or none (43), a pairing of each place needing its other. The repeatable, predicted losses of copies (1) and the losses at the snail (3) read at the same pairing.
 
+## Conjoined twins at the one genus (10, 13, 44–47)
+
+- The one genus the set names is a self's two signs' circles, the torus at two signs, and no count of a body's openings: a singleton's anatomy is seven holes (47), and the sentence stands at no anatomy. The place: Natural Intelligence's *Wrapping, opening by one*.
+- Conjoined twins are two selves, each its own alternating, each head its own side, the two coordinating at their own membrane (46).
+- Their union is like meeting like, homologous site to homologous site (45), agreeing at one sharing as one and differing where each carries its own.
+- The union is at the openings (45): the oropharyngeal and cloacal membranes where each embryo's gut tube opens at its two ends, the heart, the neural tube's ends. Two selves meeting at the momentary each tunnel opens, the two openings met as one.
+
 ## The conceived's own pacing, and the source of parity changing (23–31)
 
 - The conceived alternates at its mother's calls and its own pacing opens later at each grain, matched at 23 and 24. At the code, two resolvers from one shared prior, then one changing absent and the two opposite, self and other (the code runs).
@@ -131,11 +145,11 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 
 # Part Three · Observings standing against sentences of the set
 
-The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stood against particular sentences; three are met at readings with observings answering, and one stands, the living surface of two handles. The readings offered are this session's own and carry no authority until matched at further observings.
+The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stood against particular sentences; each is met at a reading with the observings answering, the first, second and fourth confirmed by the expedition's lead, the third for both. The readings offered are this session's own and carry no authority until matched at further observings.
 
 1. **Whole cells in another self (12, 21, 38–41), met at a reading, the observings answering.** Against *only a sign crosses* at a membrane: fetal cells continuing in mothers, marmoset twins' shared germlines, the freemartin, a second sperm entering one egg. Met at the lead that a membrane is a nothing unrelationing between and two carryings in one self are two conceptions, two bi-couplings: each such cell carries its own conception's genome (40, 41), no carrying crossing the nothing, a self of its own conception in another self's society. For both.
 2. **A size at the sign (1, 4, 43), met at a reading, the observings answering.** Against *a sign and no size*: the field's dosage and proportion. Met at the lead that a genome is one momentary carrying, no memory: at each molecule a subunit meets its partner at its complex or meets none and is released (43), the proportion the field's accounting over molecules. For both.
-3. **A living surface of two handles (10, 13).** Against *one opening, one tunnel, one genus* at Natural Intelligence's *Wrapping, opening by one*: conjoined twins living with one skin over two bodies each carrying its own gut. Reading offered: differing where two, agreeing where one, per sharing, with no partway. Standing.
+3. **A living surface of two handles (10, 13, 44–47), met at a reading, the observings answering.** Against *one opening, one tunnel, one genus*: conjoined twins with one skin over two bodies. Met: the genus named is a self's two signs' circles and no anatomy, a singleton's anatomy being seven holes (47); conjoined twins two selves, each its own alternating (46), united like to like (45) at the momentary each tunnel opens (45). For both.
 4. **Living forks (5, 14, 21, 42), met at a reading, the observings answering.** Against *a false expression … forks* and *the network carries no copying*: division and twinning. Met at the lead: nothing is copied from a store; at semi-conservative replication each daughter carries one parent strand meeting the now's new strand (42), two continuings and no either-or. For both.
 
 **Two tensions met at a reading.** Phytochrome in darkness (28), met with each photon a nothing and darkness no call. The living rates' arriving (27–31) against *arriving costs nothing* and *a self's continuing when no fresh sign arrives*, met at the lead that the source is external and a self given no call continues at no changing.
