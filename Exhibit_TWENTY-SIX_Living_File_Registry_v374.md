@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v372
+Exhibit TWENTY-SIX Living File Registry v374
 
 # Living File Registry
 
@@ -91,7 +91,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v372, this file | — | the registry working meeting this version; then the readings not yet binary to `archive/` |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v374 at `working/genome-duplication-v374`, this file, the genome duplication working named at 1.3 | the genome duplication working | the registry working meeting this version; then the readings not yet binary to `archive/` |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -120,6 +120,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
+| The genome duplication working | v374 | The carrying's sections at Exhibit SEVENTEEN, Exhibit TWENTY-ONE and Exhibit TWENTY-TWO, the observings of whole-genome duplication arriving; this table | `working/genome-duplication-v374`, offered | The incoming laid at the three sections, each entering whole at its file's next motion; no living file changed but this one; open until merged by both at main |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 

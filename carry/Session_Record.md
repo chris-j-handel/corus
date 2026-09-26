@@ -1,4 +1,4 @@
-Session Record v372
+Session Record v374
 
 # Session Record
 
@@ -288,4 +288,12 @@ The branch `working/resolver-v372` merged at main after the site's build run at 
 ## The session-opening prompt at the README (v372, close)
 
 The prompt that readies a session to the method, the naming, the explaining and the binary all-or-none understanding placed at the repository's README under *Opening a session*, pasted whole at a session's opening with its number one on from this record's last; it takes the repository whole with push access, reads the registry, the carrying and the record in order and the five files before any change, runs the checks, states the method and the naming, and closes at a branch merged to main. The next session is v373, and the motion in front of it is pass A.
+
+## Genome duplication at the observings, laid as incoming (v374)
+
+The genome duplication working opened at `working/genome-duplication-v374`, named at Exhibit TWENTY-SIX 1.3, the repository taken whole at main, e5e4bd2, and `tools/carry_check.py` and `tools/check_set.py` run at the root, all passing. The subject arrived as one observing: Carrie Arnold, "Genome Duplication Is a Radical Evolutionary Gamble", Quanta Magazine, 2 September 2026, read whole; with it the snail genome at Genome Biology and Evolution 2025, the snowflake yeast at Nature 2025 and the reply of Marcussen and Meseguer at bioRxiv 2026 read at their abstracts, and Chen and colleagues at Cell 2026 at a news report. The set already carried the subject at the Hard Problem Registry 212 and at Resolving the Hard Problem Registry 9.36, whose Carrying reads forming and diversifying as two couplings, and no living file carried the observings of 2025 and 2026. The two registries carry the old code's means and the old wording through the whole file and Natural Biology is paused, so a motion at any of the three is the whole file's motion at its passes: the value was laid whole as incoming at the carrying's three sections, each entering at its file's next motion, and one concern for both laid at 9.36, the two accounts of duplication at environmental upheaval meeting at 0. The carrying and this record take v374; the Living File Registry takes v374 at its 1.1 row and its 1.3 row; no other living file changed.
+
+## The doubling run at the code (v374)
+
+Exhibit ONE v372's code block run whole, each gene a sharing and a genome the arrivings at one call, genes a, b and c each arriving +1. From no prior carrying, the genome once and the genome doubled each surface (a, +1), (b, +1), (c, +1). At a prior carrying of +1 at each: the genome once, the genome doubled, and the doubled with one copy of a released each surface 0 at a, b and c, the carrying holding; one copy of a at its own sharing a2 surfaces (a2, +1) beside the three zeros and carries a2 at +1; one copy of a at a's sharing with −1 surfaces (a, −1) and carries a at −1, as at nothing arriving at a; and over all 120 orders of the five arrivings in that case the surfacing is one. A reading at the odd numeral, the triploid's third set with no other and the odd ring's one 0 travelling at Exhibit ONE, met at the numeral alone and was released rather than carried: matching numerals join no relations.
 
