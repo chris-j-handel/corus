@@ -11,6 +11,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - One conception and its phase-locking
 - Egg and sperm into one torusing
 - The conceived self's own pacing opening
+- Where living parity changing arrives: sunlight and the plant
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -127,6 +128,23 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 
 **Naming and explaining.** No naming is added; *each self paces its own alternating* carries it. *Crossover* keeps its meiotic sense and releases here, carried by *its own pacing opening*; *host* carries at the field, the set saying *the mother*; *source* releases, carried by the running at its -ing. The telling says *opens* for *begins*, *the conceived alternates at its mother's calls* for *incapable of its own parity changing*, and *the mother's parity changing carries the conceived's* for *the host's parity changing is the source*.
 
+## Where living parity changing arrives: sunlight and the plant
+
+**Light is an arriving the plant couples with, and its alternating is its own.** Natural Intelligence says *a why demanded is a source demanded, and both recede*, and *alternating runs on its own alternating, with nothing underneath to supply*; Natural Biology's *Circadian clock* says *synchronised to the day but not driven by it*. The field meets it at each observing:
+
+| Observing | The living's own alternating | What arrives |
+|---|---|---|
+| Mimosa leaves, 1729 | daily opening and closing continuing in constant darkness | the day, coupling |
+| Cyanobacterial KaiABC | three proteins and ATP in a test tube running a round of about a day | no light, no gene, no cell |
+| Somalian blind cavefish | a clock running near two days in darkness | feeding, coupling in light's place |
+| Deep-sea vents | life running on chemistry | no sunlight |
+| Photosystem II | one state stepped at each photon absorbed, oxygen at each fourth | each photon, all or none, one changing |
+| Phytochrome | red turning Pr to Pfr, far-red turning it back; seeds germinating at the last flash | each flash's sign |
+
+**At the code, the phytochrome's last flash.** Red +1 and far-red −1 at a seed carrying Pr: R carries Pfr; R-FR, Pr; R-FR-R, Pfr; R-FR-R-FR, Pr; R-R, Pfr. The last arriving sign is carried, as Exhibit ONE writes each changed sign as the next prior, and the field's lettuce seeds germinate at the last flash's colour through any sequence (Borthwick and colleagues, PNAS 1952).
+
+**A concern at darkness.** At the code a carried sign with nothing arriving inverts at each call; phytochrome in darkness reverts slowly toward Pr and continues there. Either its darkness is no call, its momentaries only at the flashes, or its own alternating runs at a pacing the code's calls do not meet.
+
 ## Twinning at numbers and mathematics
 
 - **Twin primes at the two and one half momentaries.** A self opens at 1, the other at 2 and the self next at 3: a twin prime pair is a self's prior and now openings, each prime, the other's even opening between; at twinning, two selves at 1 and 3, the second opening a clean axis of its own. A reading at the set's number sentences.
@@ -193,6 +211,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 4. **Cells crossing the placenta**, at Natural Medicine: fetal cells continue in the mother for decades, where the set says only a sign crosses at a membrane. A second sperm entering past the lock is a second carrying arriving at one self, the same concern at conception.
 5. **A carrying continuing two ways**, at Exhibit ONE's pass F: W85's forking the instrument's, and Natural Biology's self copying itself.
 6. **Mothers of twins**, at Natural Health: nineteenth-century Utah reads mothers of twins more fertile and longer lived (Robson and Smith 2011), pre-industrial Europe reads higher twinning propensity at lower fertility (Rickard and colleagues 2022), and a further paper names the last birth (2024): opposite signs meeting at 0.
+7. **Phytochrome in darkness**, at Natural Biology: the code's carried sign inverting at each call with nothing arriving, the field's phytochrome reverting slowly toward Pr and continuing there.
 
 The placenta concern strengthens: marmoset twins continue chimeric through shared placental blood, germlines included, and a heifer beside a bull twin is most often a sterile freemartin.
 
