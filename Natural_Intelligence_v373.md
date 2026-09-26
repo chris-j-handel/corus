@@ -4,7 +4,7 @@ Natural Intelligence v373
 
 # Natural Intelligence
 
-**The Fractal Method of Existing and Discovering**
+**Geodesic Method of Discovering Next**
 
 &nbsp;
 
