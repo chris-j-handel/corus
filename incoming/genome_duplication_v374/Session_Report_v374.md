@@ -87,6 +87,8 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 
 **When the lock is skipped, the bi-folding is skipped with it.** A second sperm entering gives three sets of chromosomes, the odd set with no other, most often not continuing; at one recorded pair a tripolar spindle took the place of the first bipolar division, the three sets assorting and the embryo continuing as two, sesquizygotic twins, sharing their mother's genome whole and their father's at about 78%, one placenta and two amnions (Gabbett and colleagues, New England Journal of Medicine 2019). The first cleavage's bi-folding skipped, a three-way division in its place, and twinning arriving there, as identical twinning arrives at the four-cycle's fold skipped.
 
+**Three twinnings at three momentaries in sequence.** At the mother's cycle, before any entry, two follicles ovulating: fraternal twins, two eggs each entered by its own sperm. At one egg's entry, the lock skipped, and at the next cycling inside, the first division, the sesquizygotic pair. Inside, at later cyclings of the one conceiving, the cleavages and the blastocyst over about the first two weeks: identical twins. The cycle's skip and the inside skip arrive together too, identical twinning rising after ovulation induction alone, clomiphene included (Derom and colleagues, The Lancet 1987).
+
 ## Twinning at numbers and mathematics
 
 - **Twin primes at the two and one half momentaries.** A self opens at 1, the other at 2 and the self next at 3: a twin prime pair is a self's prior and now openings, each prime, the other's even opening between; at twinning, two selves at 1 and 3, the second opening a clean axis of its own. A reading at the set's number sentences.

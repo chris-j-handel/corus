@@ -321,3 +321,7 @@ Twinning met at societies, human society, social health, chemistry, plants, fish
 
 The one-conception phase-locking met at the field's blocks to polyspermy, the fast block's membrane sign inverting, the calcium oscillations and PLCζ1, zinc sparks and Juno shed, and at the sesquizygotic twins of a dispermic conception and a tripolar first division, laid at the carrying's sections for Exhibit ONE and Natural Biology, and at the report's section *One conception and its phase-locking*. The runs at Exhibit ONE v372's code over six calls at sharing e: (e, +1) at the first call and nothing after carries + − + − + −; (e, +1) twice at the first call carries the same; (e, +1) and (e, −1) at the first call surface 0 and open nothing; (e, +1) at the first call and a second (e, +1) at the second call carries + + − + − +, differing from the second call on; at the third, + − + − + −, differing at none; at the fourth, + − + + − +, differing from the fourth on; at the fifth, differing at none.
 
+## Three twinnings at three momentaries (v374)
+
+The three kinds of twinning laid in sequence along one conceiving at the carrying's Natural Biology section and at the report: fraternal at the mother's cycle before any entry, sesquizygotic at one egg's entry and its next cycling inside, identical at later cyclings inside; with identical twinning rising after ovulation induction alone.
+
