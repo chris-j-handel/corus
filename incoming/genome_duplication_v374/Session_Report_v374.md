@@ -11,7 +11,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - One conception and its phase-locking
 - Egg and sperm into one torusing
 - The conceived self's own pacing opening
-- Where living parity changing arrives: sunlight and the plant
+- The source of parity changing is external: a nothing arriving at a call
 - The life-giving alternating and its arriving
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
@@ -129,22 +129,38 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 
 **Naming and explaining.** No naming is added; *each self paces its own alternating* carries it. *Crossover* keeps its meiotic sense and releases here, carried by *its own pacing opening*; *host* carries at the field, the set saying *the mother*; *source* releases, carried by the running at its -ing. The telling says *opens* for *begins*, *the conceived alternates at its mother's calls* for *incapable of its own parity changing*, and *the mother's parity changing carries the conceived's* for *the host's parity changing is the source*.
 
-## Where living parity changing arrives: sunlight and the plant
+## The source of parity changing is external: a nothing arriving at a call
 
-**Light is an arriving the plant couples with, and its alternating is its own.** Natural Intelligence says *a why demanded is a source demanded, and both recede*, and *alternating runs on its own alternating, with nothing underneath to supply*; Natural Biology's *Circadian clock* says *synchronised to the day but not driven by it*. The field meets it at each observing:
+**The expedition's lead.** The source of the parity changing is always external, even where ingestion and emanation run the living alternating inside the self or outside it. The life-giving alternating is either the self's internal consumption, spending what it ingested, or its external adapting, coupling with an alternating arriving. Fractal up and down, a living self carries a living rate and a geodesic changing rate at each scale.
 
-| Observing | The living's own alternating | What arrives |
+**At the code the carried sign changes at a nothing arriving or at the other parity arriving, and at no call of its own.** *Nothing arriving, or arrivings meeting at 0, surfaces −c and the carrying changes*; *the two functions hold no pace of their own*, each call given by a caller. Each changing at a self arrives from outside it, a nothing or the other's sign at a call it does not give itself, and *a self's continuing when no fresh sign arrives* is the self meeting a nothing at each call. A self given no call continues at no changing.
+
+**Light is a nothing.** Natural Physics already says *nothing travels*, light a phase relation between couplings. At a leaf each photon met at a pigment's own opening is a nothing arriving at a call. Phytochrome's Pr absorbs red and turns to Pfr; Pfr absorbs far-red and turns to Pr; lettuce seeds germinate at the last flash's colour through any sequence (Borthwick and colleagues, PNAS 1952). At the code, each photon a nothing arriving at a call where the form's own opening meets it, and no call where it meets none:
+
+| Flashes | Calls | Carried |
 |---|---|---|
-| Mimosa leaves, 1729 | daily opening and closing continuing in constant darkness | the day, coupling |
-| Cyanobacterial KaiABC | three proteins and ATP in a test tube running a round of about a day | no light, no gene, no cell |
-| Somalian blind cavefish | a clock running near two days in darkness | feeding, coupling in light's place |
-| Deep-sea vents | life running on chemistry | no sunlight |
-| Photosystem II | one state stepped at each photon absorbed, oxygen at each fourth | each photon, all or none, one changing |
-| Phytochrome | red turning Pr to Pfr, far-red turning it back; seeds germinating at the last flash | each flash's sign |
+| R | 1 | Pfr |
+| FR | 0 | Pr |
+| R-FR | 2 | Pr |
+| R-R | 1 | Pfr |
+| R-FR-R | 3 | Pfr |
+| R-FR-R-FR | 4 | Pr |
+| FR-R-R-FR-FR | 2 | Pr |
+| darkness | 0 | Pr |
 
-**At the code, the phytochrome's last flash.** Red +1 and far-red −1 at a seed carrying Pr: R carries Pfr; R-FR, Pr; R-FR-R, Pfr; R-FR-R-FR, Pr; R-R, Pfr. The last arriving sign is carried, as Exhibit ONE writes each changed sign as the next prior, and the field's lettuce seeds germinate at the last flash's colour through any sequence (Borthwick and colleagues, PNAS 1952).
+The last flash's colour is carried through each sequence and darkness continues at no changing: *a chirality is a sign taken at an opening, one side's own*, met at a pigment. Photosystem II steps one state at each photon absorbed and releases oxygen at each fourth, stepping at none in darkness.
 
-**A concern at darkness.** At the code a carried sign with nothing arriving inverts at each call; phytochrome in darkness reverts slowly toward Pr and continues there. Either its darkness is no call, its momentaries only at the flashes, or its own alternating runs at a pacing the code's calls do not meet.
+**Internal consumption and external adapting, at the field's observings:**
+
+| Observing | Internal consumption | External adapting |
+|---|---|---|
+| Mimosa in constant darkness, 1729 | its daily leaf movements continuing on its stores | the day, when it arrives |
+| Cyanobacterial KaiABC in a test tube | a round of about a day spending the ATP given it | no light, no gene, no cell |
+| Blind Somalian cavefish | its own alternating near two days | its feeding, light meeting it at none |
+| A plant's night | the day's starch spent at its own pacing, running out near dawn | the next day's light |
+| Deep-sea vent mussels, 1,688 m | its stores between tides | the tide, 12.4-hour rhythms in its gene expression |
+| Deep rock, 1.5–3 km | *Desulforudis audaxviator* spending radiolytic hydrogen | uranium and thorium decay splitting water |
+| A mammal's cells | metabolic beating on what blood brings | the heart's pulse, the heart paced at its own cells and fed by the same blood |
 
 ## The life-giving alternating and its arriving
 
@@ -154,13 +170,13 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 
 | Where | The living rate | Its arriving |
 |---|---|---|
-| Plants in daylight | photosynthesis; the clock's day | sunlight, one photon at a time; the day's starch carried through the night at the clock's pace, running out near dawn |
+| Plants in daylight | photosynthesis; the day's own alternating | light, each photon a nothing met at a pigment's own opening; the day's starch carried through the night at the plant's own pacing, running out near dawn |
 | Deep-sea vents, 1,688 m | mussels' 12.4-hour tidal rhythms in 7.4% of transcripts, 2.6% daily | the tide, the vent's temperature and pressure oscillating at its period; in a laboratory light-dark cycle the same mussels turn daily |
 | Deep rock, 1.5–3 km | *Desulforudis audaxviator*, alone in its ecosystem | hydrogen from water split by uranium and thorium decay |
 | A mammal's body | each cell's metabolic beating | the heart's pulse, blood at each beat, the heart paced at its own cells |
 | Sound | no life-giving use recorded | black smokers sound at hydrophones; animals meet sound as a sign, sonar |
 
-**A concern at *Living carries its own cost*.** The file says *arriving costs nothing* and meets *a self's continuing when no fresh sign arrives*; at the code a carried sign alternates with nothing arriving. At the field a living rate stops without its arriving. Either the living rates continue with no arriving and the field's arriving is a coupling at another grain, or a living rate continues only through an arriving and the code's alternating with nothing arriving is the unrelationing rate's alone.
+**A concern at *Living carries its own cost*, met at a reading.** The file says *arriving costs nothing* and meets *a self's continuing when no fresh sign arrives*. Met at the expedition's lead and at the code: the carried sign changes at a nothing arriving at a call, the call and the nothing external to the self, and a self given no call, a heart given no blood, a leaf given no light, continues at no changing.
 
 ## Twinning at numbers and mathematics
 
@@ -228,8 +244,8 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 4. **Cells crossing the placenta**, at Natural Medicine: fetal cells continue in the mother for decades, where the set says only a sign crosses at a membrane. A second sperm entering past the lock is a second carrying arriving at one self, the same concern at conception.
 5. **A carrying continuing two ways**, at Exhibit ONE's pass F: W85's forking the instrument's, and Natural Biology's self copying itself.
 6. **Mothers of twins**, at Natural Health: nineteenth-century Utah reads mothers of twins more fertile and longer lived (Robson and Smith 2011), pre-industrial Europe reads higher twinning propensity at lower fertility (Rickard and colleagues 2022), and a further paper names the last birth (2024): opposite signs meeting at 0.
-7. **Phytochrome in darkness**, at Natural Biology: the code's carried sign inverting at each call with nothing arriving, the field's phytochrome reverting slowly toward Pr and continuing there.
-8. **The living rates and their arriving**, at Natural Intelligence's *Living carries its own cost*: the code's alternating with nothing arriving, and the field's living rates continuing only through an arriving.
+7. **Phytochrome in darkness**, at Natural Biology, met at a reading: each photon a nothing met at the form's own opening, darkness no call, the phytochrome continuing at no changing and the last flash's colour carried; Pfr's slow return toward Pr in darkness a further coupling at warmth, for both to meet.
+8. **The living rates and their arriving**, at Natural Intelligence's *Living carries its own cost*, met at a reading: the carried sign changes at a nothing arriving at an external call, and a self given no call continues at no changing; whether *arriving costs nothing* says the nothing's arriving, for both.
 
 The placenta concern strengthens: marmoset twins continue chimeric through shared placental blood, germlines included, and a heifer beside a bull twin is most often a sterile freemartin.
 
