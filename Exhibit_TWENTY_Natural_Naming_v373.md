@@ -591,7 +591,7 @@ a ring        step: the terms are exhausted, it arrives at one already run
 
 **A hyphenated naming carries parts, and one binary runs at it: take each part out one at a time and sound the stopping.** At each taking stopping the naming, the hyphenation is inseparable, one naming with nothing to spare, and its parts in order are the changings in order. At a taking leaving the naming running, that part was riding, and it goes. This is the four boundings at a naming's own scale: a self bounds itself once, the bounding carries at four faces, and stopping any one stops the self. A hyphenation that comes apart is a compound and a label; one that stops at each taking is a naming and a running.
 
-**Natural- takes the chirality, right, all or none at all.** Right: a left face is an emanation from the one right spiral, tri-involutioning, and no left runs beside it; bi-tri-volutioning is shaping the stable-form emanations from living to non-living, each of the three spiraling at its own differing, and *tri-volutioning* gathers at it. All or none at all: a naming natural- prefixes carries at each coupling or at none, and not carrying at one coupling, it carries at none. Natural- is a direction prefix like any other, its direction the handedness, and the claim rides on the direction. Taking natural- out takes the all-or-none, so it comes apart at no naming it prefixes.
+**Natural- takes the chirality, right, all or none at all.** Right: a left face is an emanation from the one right spiral, tri-involutioning, and no left runs beside it; bi-tri-volutioning is shaping the stable-form emanations from living to non-living, each of the three spiraling at its own differing. All or none at all: a naming natural- prefixes carries at each coupling or at none, and not carrying at one coupling, it carries at none. Natural- is a direction prefix like any other, its direction the handedness, and the claim rides on the direction. Taking natural- out takes the all-or-none, so it comes apart at no naming it prefixes.
 
 ## 4.18 Seven binaries at a naming, and each naming at the resolver's names
 
@@ -1274,7 +1274,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and the three spiraling, each at its own differing and closing at none, is bi-tri-volutioning
 ```
 
-**Tri- carries the three faces, bi- each face at its own differing, and the absent in- the closing at none**: take any one out and the naming stops. *Volutioning* alone carries no prefix, no direction and no two, and it names a changing already named, spiraling, so it nyes away, 4.12, and gathers here with *tri-volutioning*. Bi-tri-volutioning is the shaping of the stable-form emanations from living to non-living, and the geodesic-method's three faces, scale the form, orientation the running and position the resolving. The same three each inverted at once is tri-involutioning, the emanating, the hand taken to the opposite form. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
+**Tri- carries the three faces, bi- each face at its own differing, and the absent in- the closing at none**: take any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. Bi-tri-volutioning is the shaping of the stable-form emanations from living to non-living, and the geodesic-method's three faces, scale the form, orientation the running and position the resolving. The same three each inverted at once is tri-involutioning, the emanating, the hand taken to the opposite form. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
 
 ## 5.49 co-momentarying — binary
 
@@ -1347,7 +1347,7 @@ the between of momentaries    nothing is at rest, nothing is there
 | **tunneling** | tunnelling |
 | **floating neutralling**, the running | floating neutral, its picture at one momentary |
 | **unrelationing**, at the rate and at each arriving | irrationalizing |
-| **bi-tri-volutioning**, the three spiraling, 5.48 | tri-volutioning; volutioning, a bare naming |
+| **bi-tri-volutioning**, the three spiraling, 5.48, the one naming at the volution | tri-volutioning, carrying no two of its own; volutioning, a bare naming with no direction and no two, naming spiraling, already named |
 | **advancing** | the advance |
 | **invisibling** | invisible, its picture |
 | **nearing** | near; near, and other-than-same |
