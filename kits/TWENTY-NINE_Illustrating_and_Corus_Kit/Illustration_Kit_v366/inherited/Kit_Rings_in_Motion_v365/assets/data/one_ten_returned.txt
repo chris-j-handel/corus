@@ -1,0 +1,21 @@
+1. THE COUPLINGS AMONG FIVE ARE FIVE AT TWO SIDES
+   holds · C(n, 2) = 2n at n = 5 and at no other n from 1 to 100,000
+2. THE ONE RING WHOSE COMPLEMENT IS A RING
+   holds · the complement of the n-ring is a ring at n = 5 and at no other n from 3 to 40
+3. THE ONE SOCIETY OF FIVE WITH NO FIXED THREE
+   holds · every one of the 32,768 two-colourings of the couplings among six holds a one-colour three
+   holds · among five, 12 colourings hold no one-colour three, and in each both colours are pentagons
+4. THE FIVE STITCHES
+   holds · each side is parallel to exactly one diagonal, the one sharing no corner with it
+   holds · each diagonal is phi times its side
+   holds · each stitch leaves one corner out, each corner once: [0, 1, 2, 3, 4]
+   holds · the ten couplings are the ten transpositions of five, each an involution holding three in place
+   holds · a stitch's two transpositions commute, and together are the mirror through the corner left out
+5. THE PENTAGON'S TEN SYMMETRIES
+   holds · the five stitch mirrors generate 10 symmetries: 5 turns and 5 mirrors
+   holds · the mirrors through corners d1 and d2 make the turn by 2(d1 - d2) steps of 72 degrees, twice the angle between them
+6. EVERY TEN IS FIVE OPPOSITE-PARITY PAIRS ABOUT THE BETWEEN
+   holds · at every start from -1,000 to 1,000, the pairs (a + j, a + 9 - j) are opposite parity, five of them
+   holds · stepping the start by one exchanges which member of every pair is odd, and by two returns it
+
+13 of 13 lines hold

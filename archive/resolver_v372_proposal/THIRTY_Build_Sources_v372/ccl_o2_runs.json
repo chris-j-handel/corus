@@ -1,0 +1,122 @@
+[
+ {
+  "link": "Q12",
+  "check": "x -> x xor 1 runs 0,1,0,1,0,1; next = prior xor now from (0,1), (1,0), (1,1) returns to its start pair after exactly three steps with first three values 011, 101 or 110, and (0,0) stays 0."
+ },
+ {
+  "link": "Q13",
+  "check": "Of the 512 assignments of bits to a 3x3 square, none has each row at parity 0 with column parities (1,1,1), and none with column parities (0,0,1)."
+ },
+ {
+  "link": "Q15",
+  "check": "n + 8 keeps parity and 17 − n changes it for n in 1..16; 9 − n changes it for n in 1..8; in each of the twelve forms of ONE's tables within 1..16 exactly two steps change parity and each such step is a pair summing to 17."
+ },
+ {
+  "link": "Q22",
+  "check": "The primes to 59 are seventeen, sum to 440 and open sixteen gaps; 2 × 59 = 118; 60 lies midway between 59 and 61."
+ },
+ {
+  "link": "Q25",
+  "check": "At each of the nineteen reachable carryings, _1_self_coupling with an offering (k, ±m), m in {2, 5, 17}, returns the same as with (k, ±1)."
+ },
+ {
+  "link": "Q26",
+  "check": "At each of the nineteen carryings under each offering of 0 to 4 signs from {−1, 0, +1} (121 offerings), each surfaced value lies in {−1, 0, +1}, and each of the three occurs."
+ },
+ {
+  "link": "Q27",
+  "check": "At each of the nineteen carryings, _1_self_coupling with offering [(k, 0)] returns the same as with the empty offering."
+ },
+ {
+  "link": "Q28",
+  "check": "The numeric constants in the bodies of _1_self_coupling and _9_other_releasing are exactly {0, 1, 3, 4}."
+ },
+ {
+  "link": "Q32",
+  "check": "F(n+1)/F(n) for n = 1..38 alternates above and below φ; the continued fraction of F(40)/F(39) begins with thirty partial quotients 1."
+ },
+ {
+  "link": "J7",
+  "check": "k·300·ln 2 with k = 1.380649e-23 J/K is 2.871e-21 J, rounding to 2.9e-21 J."
+ },
+ {
+  "link": "J9",
+  "check": "Of the 65,536 relations on four elements, 3,994 are transitive, and in each, a R m, b R m and m R s give a R s and b R s."
+ },
+ {
+  "link": "J10",
+  "check": "Each of the 50,978 serial relations on 1 to 4 elements, and each of the 3,413 functions on 1 to 5 elements, contains a directed cycle."
+ },
+ {
+  "link": "J12",
+  "check": "cos and sin at 0°, 60°, 90° are (1.000, 0.000), (0.500, 0.866), (0.000, 1.000) to three places."
+ },
+ {
+  "link": "J14",
+  "check": "sin t + sin(t + 2π/3) + sin(t + 4π/3) = 0 at 360 equally spaced t."
+ },
+ {
+  "link": "J26",
+  "check": "n² − (n − 1)(n + 1) = 1 for n = 1..10,000; n² − (n − k)(n + k) = k² for n = 1..199, k = 0..49; (a + b) even iff a and b share parity, a, b = 0..199."
+ },
+ {
+  "link": "J28",
+  "check": "The k-faces of the n-cube, C(n,k)·2^(n−k), give (8, 24, 32, 16) at n = 4 for k = 3..0, and f(n+1, k) = 2 f(n, k) + f(n, k−1) for n = 1..8."
+ },
+ {
+  "link": "C10",
+  "check": "2n² for n = 1..4 is 2, 8, 18, 32 with climbs 6, 10, 14; 14 − 6 = 8, centre 10; 1 + 3 + … + (2n − 1) = n²; doubled odds 2, 6, 10, 14."
+ },
+ {
+  "link": "C11",
+  "check": "24² − 23·25 = 1, 28² − 24·32 = 16, 28² − 27·29 = 1, and n² − (n − k)(n + k) = k² for n < 200, k < 50."
+ },
+ {
+  "link": "C12",
+  "check": "|S4| = 24, |A4| = 12, 7² − 1 = 48, |A5| = 60, |S5| = 120; the centre of S5 is trivial and the centre of A5 is trivial, so A5 × C2 has a centre of order 2 and is not S5."
+ },
+ {
+  "link": "C17",
+  "check": "4n + 2 = 2(2n + 1) for n < 100, giving 2, 6, 10, 14 at n = 0..3."
+ },
+ {
+  "link": "C20",
+  "check": "Running sums of 2, 8, 8, 18, 18, 32, 32 are 2, 10, 18, 36, 54, 86, 118; 2 + 8 + 18 + 32 = 60; 27 + 32 = 59; 24 + 96 = 27 + 93 = 32 + 88 = 120, together 360; gaps 3, 5 and 5, 3."
+ },
+ {
+  "link": "C22",
+  "check": "For each hexagon count h = 0..199 a closed trivalent cage of pentagons and hexagons satisfies Euler's relation only at 12 pentagons; C60: 32 faces, 90 edges, 60 vertices; 12 − 30 + 20 = 2 both ways; cuboctahedron 12 − 24 + 14 = 2 with 24 edges."
+ },
+ {
+  "link": "B15",
+  "check": "2^6 = 4^3 = 64, C(6,3) = 20, 4! = 24, 5! = 120, 4! − 1 = 23, 5! − 1 = 119."
+ },
+ {
+  "link": "B19",
+  "check": "(1 ± √5)/2 solve x² = x + 1, the positive root ≈ 1.618; x² = x has integer roots 0 and 1 only; 1/φ² ≈ 0.382."
+ },
+ {
+  "link": "P5",
+  "check": "At the four joint forms of two signs, (x, y) → (y, −x) and (x, y) → (−y, x) move each form."
+ },
+ {
+  "link": "P11",
+  "check": "55 − 23 = 32 = 2·16; (23 + 55)/2 = 39 and 39² − 23·55 = 16²; 24² − 23·25 = 1; C(11,2) = 55."
+ },
+ {
+  "link": "P22",
+  "check": "2..59 and 61..118 each hold 58 numbers; 60 is midway between 59 and 61; 2 + 118 = 120."
+ },
+ {
+  "link": "P26",
+  "check": "59 = 1 + 2(4 + 9 + 16); φ³ − φ⁻³ = 4 exactly in Q(√5); 60 = 5·12; 59/2 = 29.5; i⁴ = 1."
+ },
+ {
+  "link": "P28",
+  "check": "EIGHTEEN 5.13's table has 50 rows: 2 at the file's own, 48 at the ten namings with counts (10, 0, 5, 2, 6, 3, 7, 6, 3, 6); groups 21, 13, 8, 6; odd namings 31, even 17; pairs (10,0), (5,2), (6,3), (7,6), (3,6)."
+ },
+ {
+  "link": "L28",
+  "check": "NINETEEN 5.2 to 5.8 hold 66 rows, 50 met and 16 reaching; 41 carry one of the ten namings; the rows cite seams 3.1 to 3.37; at the five naming pairs the odd carries more at four and less at one."
+ }
+]

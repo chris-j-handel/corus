@@ -1,0 +1,210 @@
+{
+  "session_version": "v366",
+  "repository": "https://github.com/chris-j-handel/corus",
+  "commit": "cfa0a7a490a398dbccf7044095af83e05df92762",
+  "date": "2026-09-21",
+  "published_files": [
+    {
+      "path": "Natural_Intelligence_v345a.md",
+      "sha256": "79d3bef4f09727b8f211e03d9016c3fc8321ad1834de3ef129b6dbe7f2040967"
+    },
+    {
+      "path": "Exhibit_ONE_Natural_Resolver_v345a.md",
+      "sha256": "69755ef0aa01c21564f80f609711992259cce9b354ef09e047311cab2907a102"
+    },
+    {
+      "path": "Exhibit_TWO_Natural_Networking_v333.md",
+      "sha256": "0d4d7c433b6ff9b8ee73f3762d60d57da34c16d0850e59c819880a62c877cfb0"
+    },
+    {
+      "path": "Exhibit_THREE_Natural_Numbers_v346c.md",
+      "sha256": "fddf585fb82e48868e1eed6ae05b7e2f355b19e7ea03b824b2d72eb96379d8ac"
+    },
+    {
+      "path": "Exhibit_FOUR_Natural_Mathematics_v333.md",
+      "sha256": "8aec716e92b04947bafa75fd0bf3a62e8b4ed9eb4e1369ee406b026803dfc75f"
+    },
+    {
+      "path": "Exhibit_FIVE_Natural_Engineering_v345a.md",
+      "sha256": "4a13b4325642d1fa073841e908b7364861062ac53c7bdf54f7b364ced013dfa8"
+    },
+    {
+      "path": "Exhibit_SIX_Natural_Transmissioning_v330.md",
+      "sha256": "052ab35a206a09c47514942cc8bf6ea6053ed534083ff04e208df4f4a66bfdc4"
+    },
+    {
+      "path": "Exhibit_SEVEN_Natural_Societies_v329.md",
+      "sha256": "e40702e74884ec0b66e0d2bec47a453e56ab6b66810035c58b620f23ed2024fa"
+    },
+    {
+      "path": "Exhibit_EIGHT_Natural_Exploring_v329.md",
+      "sha256": "b7f270607058d8a5112e0b16effaef73707d92d26922dd00f346781f3a64dbb9"
+    },
+    {
+      "path": "Exhibit_NINE_Natural_Human_Society_v329.md",
+      "sha256": "ddfe17ad5071bf596cf0ea2bc5b4d8b4daea90dfa141742fb89fe9ab6ef0322e"
+    },
+    {
+      "path": "Exhibit_TEN_Natural_Health_v329.md",
+      "sha256": "d1464deed1cc45eee0c69607b86cb27f7498d8420b24bfa09afcf745945c63aa"
+    },
+    {
+      "path": "Exhibit_ELEVEN_Natural_Medicine_v331.md",
+      "sha256": "6907b3deafb586905665368a8c1d41418d4ec06dc9f3943b1354e0aed149531d"
+    },
+    {
+      "path": "Exhibit_TWELVE_Natural_Explaining_v333.md",
+      "sha256": "2122e3012257de3df69502e3e5aaf07a037773a4132891e5252bb6b24bfcffc6"
+    },
+    {
+      "path": "Exhibit_THIRTEEN_Resolving_Hard_Problems_v345a.md",
+      "sha256": "86ce30cba3783d2d6950a396cbf34eee9c9a66000edb140dd9afa11baa16e766"
+    },
+    {
+      "path": "Exhibit_FOURTEEN_Natural_Destinies_v333.md",
+      "sha256": "2757e90c191587d2944f454f3ed3dd19e5bd16fe211e9c931c3eb53bf9a33f15"
+    },
+    {
+      "path": "Exhibit_FIFTEEN_Natural_Emanating_v329.md",
+      "sha256": "f5e28a6764891aceb3f66edfe8be78b9d9a8dc60bfbef0f20f32b6a428fa25e1"
+    },
+    {
+      "path": "Exhibit_SIXTEEN_Natural_Chemistry_v346c.md",
+      "sha256": "08c61d72d4734aa7613ee617bdcbecb41ff66b4a0968405ece662e1c45c08307"
+    },
+    {
+      "path": "Exhibit_SEVENTEEN_Natural_Biology_v333.md",
+      "sha256": "26d7a2dc3ef9791a7cbf152f5cdda11f19edba876da5e9fdbd2de7d10bc6cbe4"
+    },
+    {
+      "path": "Exhibit_EIGHTEEN_Natural_Physics_v348.md",
+      "sha256": "b06cdac46200a1d880c0c328989be500ebc0b4bcf5d1f1be9a06d17d8a03c5f8"
+    },
+    {
+      "path": "Exhibit_NINETEEN_Natural_Philosophy_v348.md",
+      "sha256": "b8882f5b1356422885b5814a9ac617f3aa98f75a8898d78e9f913c4aca481dba"
+    },
+    {
+      "path": "Exhibit_TWENTY_Natural_Naming_v345a.md",
+      "sha256": "6a71089d26e46f7d0e052425cdc6c3580a75cb27896b02ceb230740adfef2ca3"
+    },
+    {
+      "path": "Exhibit_TWENTY-ONE_Hard_Problem_Registry_v342.md",
+      "sha256": "0056a5e1ea6e10863419e24e8bd1663491c6ea8ba96080d46da3a08d7a6c7c92"
+    },
+    {
+      "path": "Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v344.md",
+      "sha256": "b5711277660684f786b36baed4b3b9ee03446597ab6b6d438cba707a04810a7e"
+    },
+    {
+      "path": "Exhibit_TWENTY-THREE_Natural_Values_v333.md",
+      "sha256": "ecabec768c3af480d2d7600ca980225a94bcaab73caa6851328b64789a648564"
+    },
+    {
+      "path": "Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v348.md",
+      "sha256": "d37342e81c39ba1719c89de7bedcbbc43c7576c1c32bdc332da345ecc73544ce"
+    },
+    {
+      "path": "Exhibit_TWENTY-FIVE_Living_Society_Registry_v347.md",
+      "sha256": "36aac194173eb0a456e035d73ea9c9419193dfef7ac095674452a4965279ea83"
+    },
+    {
+      "path": "Exhibit_TWENTY-SIX_Living_File_Registry_v348.md",
+      "sha256": "0da05d4d224276e404bdafe04458ec46d1548c7b6f02028ebff7a934e3cdcf44"
+    },
+    {
+      "path": "Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v345a.md",
+      "sha256": "0729868e0e28b5c4baf51247a3b8741bc87a05d03394429d175a1f7832f4e75d"
+    },
+    {
+      "path": "Exhibit_TWENTY-EIGHT_Equilibria_Definitions_v363.md",
+      "sha256": "54ed3eb1cd72bcbe8414376f773d48239f07cb0f7dad99e8f23b10f8bd6a46c0"
+    },
+    {
+      "path": "Natural_Intelligence_Corus_v330.md",
+      "sha256": "02b6679df944d3ea7d80b8a7ab70b7271817280fe6054ae31d713a2b59d9c3fe"
+    },
+    {
+      "path": "Natural_Networking_Test_Kit_v333.zip",
+      "sha256": "09c170344bca2dfa52b6cfebdce9de225a2d3ef50744a2a445760430280b9978"
+    }
+  ],
+  "incoming": [
+    {
+      "path": "sources/Carry_Set_v364.zip",
+      "sha256": "92b04188290d3c39e4c542b6c0a542181dd777b2db08668dbd4e9f73328f39d8"
+    },
+    {
+      "path": "sources/Carry_Set_v365.zip",
+      "sha256": "9341a28180614275b007bbcba458d86f4f42a9935b0eaa4c911aa3b26653ec71"
+    },
+    {
+      "path": "sources/Carry_Set_v365_README.md",
+      "sha256": "27de6fb0164da687ae95f1cb4df4c1bb966c91eb8132c9fb92bfd3fce054e73c"
+    }
+  ],
+  "carry_path_mapping": {
+    "Carry_Set_v365_README.md": "sources/Carry_Set_v365_README.md",
+    "Living_Improving_Value_v365.md": "Living_Improving_Value_v366.md",
+    "Method_Improving_Value_v365.md": "Method_Improving_Value_v366.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/Natural_Resolver_v345a_kernel.py": "Kit_Exhibits_ONE_and_TWO_v366/python/Natural_Resolver_v345a_kernel.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/origin_scan_v365.py": "Kit_Exhibits_ONE_and_TWO_v366/python/origin_scan_v366.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/ring_turns_returned.txt": "Kit_Exhibits_ONE_and_TWO_v366/python/ring_turns_returned.txt",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/test_six_connector_signs.py": "Kit_Exhibits_ONE_and_TWO_v366/python/test_six_connector_signs.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/ring_turns_v365.py": "Kit_Exhibits_ONE_and_TWO_v366/python/ring_turns_v366.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/ring_window_v365.py": "Kit_Exhibits_ONE_and_TWO_v366/python/ring_window_v366.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/Natural_Resolver_Six_Connector_Working.py": "Kit_Exhibits_ONE_and_TWO_v366/python/Natural_Resolver_Six_Connector_Working.py",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/SHA256SUMS": "Kit_Exhibits_ONE_and_TWO_v366/python/SHA256SUMS",
+    "Kit_Exhibits_ONE_and_TWO_v365/python/ring_window_returned.txt": "Kit_Exhibits_ONE_and_TWO_v366/python/ring_window_returned.txt",
+    "Kit_Exhibits_ONE_and_TWO_v365/Kit_Exhibits_ONE_and_TWO_v365.md": "Kit_Exhibits_ONE_and_TWO_v366/Kit_Exhibits_ONE_and_TWO_v366.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/NI/Natural_Intelligence_v345a.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/NI/Natural_Intelligence_v345a.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/ONE/Exhibit_ONE_Natural_Resolver_v3621.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/ONE/Exhibit_ONE_Natural_Resolver_v3621.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/ONE/Exhibit_ONE_Natural_Resolver_v361.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/ONE/Exhibit_ONE_Natural_Resolver_v361.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/ONE/Exhibit_ONE_Natural_Resolver_v345a.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/ONE/Exhibit_ONE_Natural_Resolver_v345a.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/TWO/Exhibit_TWO_Natural_Networking_v333.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/TWO/Exhibit_TWO_Natural_Networking_v333.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/TWO/Natural_Networking_Test_Kit_v333.zip": "Kit_Exhibits_ONE_and_TWO_v366/sources/TWO/Natural_Networking_Test_Kit_v333.zip",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/TWO/Exhibit_TWO_Natural_Networking_v359.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/TWO/Exhibit_TWO_Natural_Networking_v359.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/SIV/Session_Improving_Value_v359.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/SIV/Session_Improving_Value_v359.md",
+    "Kit_Exhibits_ONE_and_TWO_v365/sources/Naming/Exhibit_TWENTY_Natural_Naming_v345a.md": "Kit_Exhibits_ONE_and_TWO_v366/sources/Naming/Exhibit_TWENTY_Natural_Naming_v345a.md",
+    "Kit_Rings_in_Motion_v365/Kit_Rings_in_Motion_v365.md": "Kit_Rings_in_Motion_v366/Kit_Rings_in_Motion_v366.md",
+    "Kit_Rings_in_Motion_v365/assets/images/podaling_journey_still.png": "Kit_Rings_in_Motion_v366/assets/images/podaling_journey_still.png",
+    "Kit_Rings_in_Motion_v365/assets/images/group_theory_post_screenshot.png": "Kit_Rings_in_Motion_v366/assets/images/group_theory_post_screenshot.png",
+    "Kit_Rings_in_Motion_v365/assets/images/rings_and_cube_image_B.png": "Kit_Rings_in_Motion_v366/assets/images/rings_and_cube_image_B.png",
+    "Kit_Rings_in_Motion_v365/assets/images/rings_opposite_faces.png": "Kit_Rings_in_Motion_v366/assets/images/rings_opposite_faces.png",
+    "Kit_Rings_in_Motion_v365/assets/images/unsolvable_cube_screenshot.png": "Kit_Rings_in_Motion_v366/assets/images/unsolvable_cube_screenshot.png",
+    "Kit_Rings_in_Motion_v365/assets/images/rings_returned_first_frame.png": "Kit_Rings_in_Motion_v366/assets/images/rings_returned_first_frame.png",
+    "Kit_Rings_in_Motion_v365/assets/images/rings_and_cube_image_A.png": "Kit_Rings_in_Motion_v366/assets/images/rings_and_cube_image_A.png",
+    "Kit_Rings_in_Motion_v365/assets/podaling_journey.html": "Kit_Rings_in_Motion_v366/assets/podaling_journey.html",
+    "Kit_Rings_in_Motion_v365/assets/scripts/one_ten_v365.py": "Kit_Rings_in_Motion_v366/assets/scripts/one_ten_v366.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/compact_form_v365.py": "Kit_Rings_in_Motion_v366/assets/scripts/compact_form_v366.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/journey.py": "Kit_Rings_in_Motion_v366/assets/scripts/journey.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/tangent_double_angle_v365.py": "Kit_Rings_in_Motion_v366/assets/scripts/tangent_double_angle_v366.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/frame.py": "Kit_Rings_in_Motion_v366/assets/scripts/frame.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/tangency.py": "Kit_Rings_in_Motion_v366/assets/scripts/tangency.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/rings.py": "Kit_Rings_in_Motion_v366/assets/scripts/rings.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/cube.py": "Kit_Rings_in_Motion_v366/assets/scripts/cube.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/dots.py": "Kit_Rings_in_Motion_v366/assets/scripts/dots.py",
+    "Kit_Rings_in_Motion_v365/assets/scripts/journey_template.html": "Kit_Rings_in_Motion_v366/assets/scripts/journey_template.html",
+    "Kit_Rings_in_Motion_v365/assets/scripts/steps_and_scales_v365.py": "Kit_Rings_in_Motion_v366/assets/scripts/steps_and_scales_v366.py",
+    "Kit_Rings_in_Motion_v365/assets/data/compact_form_returned.txt": "Kit_Rings_in_Motion_v366/assets/data/compact_form_returned.txt",
+    "Kit_Rings_in_Motion_v365/assets/data/journey.json": "Kit_Rings_in_Motion_v366/assets/data/journey.json",
+    "Kit_Rings_in_Motion_v365/assets/data/one_ten_returned.txt": "Kit_Rings_in_Motion_v366/assets/data/one_ten_returned.txt",
+    "Kit_Rings_in_Motion_v365/assets/data/tangency.md": "Kit_Rings_in_Motion_v366/assets/data/tangency.md",
+    "Kit_Rings_in_Motion_v365/assets/data/rings_returned.npz": "Kit_Rings_in_Motion_v366/assets/data/rings_returned.npz",
+    "Kit_Rings_in_Motion_v365/assets/data/diamond_centres.npy": "Kit_Rings_in_Motion_v366/assets/data/diamond_centres.npy",
+    "Kit_Rings_in_Motion_v365/assets/data/journey_blockage.md": "Kit_Rings_in_Motion_v366/assets/data/journey_blockage.md",
+    "Kit_Rings_in_Motion_v365/assets/data/tangent_double_angle_returned.txt": "Kit_Rings_in_Motion_v366/assets/data/tangent_double_angle_returned.txt",
+    "Kit_Rings_in_Motion_v365/assets/data/dots.npy": "Kit_Rings_in_Motion_v366/assets/data/dots.npy",
+    "Kit_Rings_in_Motion_v365/assets/data/steps_and_scales_returned.txt": "Kit_Rings_in_Motion_v366/assets/data/steps_and_scales_returned.txt",
+    "Kit_Rings_in_Motion_v365/assets/data/dots_colours.txt": "Kit_Rings_in_Motion_v366/assets/data/dots_colours.txt",
+    "Kit_Rings_in_Motion_v365/assets/data/circles.npy": "Kit_Rings_in_Motion_v366/assets/data/circles.npy",
+    "Kit_Rings_in_Motion_v365/assets/data/cents.npy": "Kit_Rings_in_Motion_v366/assets/data/cents.npy",
+    "Kit_Ramsey_Societies_v365/ramsey_societies_v365.py": "Kit_Ramsey_Societies_v366/ramsey_societies_v366.py",
+    "Kit_Ramsey_Societies_v365/data/ramsey_societies_returned.txt": "Kit_Ramsey_Societies_v366/data/ramsey_societies_returned.txt",
+    "Kit_Ramsey_Societies_v365/Kit_Ramsey_Societies_v365.md": "Kit_Ramsey_Societies_v366/Kit_Ramsey_Societies_v366.md"
+  },
+  "review_scope": "Repository inventory and origin scan across all 30 Markdown files; selected entry-three passages, engineering 1.13\u20131.14, societies 1\u20132 and carry notes. Not a full semantic audit of every exhibit or every retained transcript.",
+  "current_learning_location": "Living_Improving_Value_v366.md",
+  "former_narrative_paths": "Retained as pointers; complete incoming narratives are inside Living Improving Value.",
+  "opening_v366_reading": "sources/Opening_Reading_v366.md"
+}

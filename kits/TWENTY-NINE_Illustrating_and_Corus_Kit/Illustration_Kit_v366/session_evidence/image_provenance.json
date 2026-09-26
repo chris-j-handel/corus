@@ -1,0 +1,32 @@
+[
+  {
+    "path": "images/00_Rubiks_Cube_and_Open_Rings_Origin.png",
+    "original_session_path": "upload/01-Screenshot-2026-09-20-191049.png",
+    "sha256": "37bf4949e8191435af3427ec63094df9886ed3568040187e29701b7656bb7d3a"
+  },
+  {
+    "path": "images/01_Opposite_Parity_Storyboard_Draft.png",
+    "original_session_path": "generated_images/exec-5c441296-3a8b-4411-bdfa-76b745dd3e80.png",
+    "sha256": "3b4c2307fa1778e2fe1196e6d1b3bdb765d1d02824978f8c230e2cfba2ff8e8a"
+  },
+  {
+    "path": "images/02_Opening_Study_Superseded_Parity_Labels.png",
+    "original_session_path": "generated_images/exec-a2c6b26e-2252-4d10-8c51-b0b2fe80e28a.png",
+    "sha256": "2ef9230bc85b7d59aeba06507a056cc7b242e2a45447940141be0dd2b4a007c4"
+  },
+  {
+    "path": "images/03_Opening_Study_Corrected_Parity_Labels.png",
+    "original_session_path": "generated_images/exec-8ef4c086-bc95-454e-aea7-b3c37532195d.png",
+    "sha256": "81d18901f48364d7aee36d9b0b85b54cb23486df521c1d110cd7c11b6b81fafb"
+  },
+  {
+    "path": "images/04_Expanded_Resolver_Cycles_Study.png",
+    "original_session_path": "generated_images/exec-eff64448-8676-494e-85ba-0ac67f973cc1.png",
+    "sha256": "7bedd1b95bf1875025f45046f9f8e7a612978171e4cebc69d014656b49ce77a5"
+  },
+  {
+    "path": "images/05_Tunneling_Corus_Bifolding_Depth_Study.png",
+    "original_session_path": "generated_images/exec-c987d503-e803-4d4c-ad5d-0080bc01961f.png",
+    "sha256": "3673277390a5df8546b3034863ea13f999b4960068c3db3f48f78ef0265906cd"
+  }
+]

@@ -1,0 +1,33 @@
+1-self-coupling          _1_self_coupling         self/other    co  co-bi-co-bi-co  entry
+2-self-offering          _2_self_offering         self/other    bi  bi-co-bi-co-bi  across, arriving
+3-self-carrying          _3_self_carrying         self/other    co  co-bi-co-bi-co  internal
+4-self-sharing           _4_self_sharing          self/other    bi  bi-co-bi-co-bi  internal
+5-other-neutralling      _5_other_neutralling     other/self    co  co-bi-co-bi-co  internal
+6-other-crossing         _6_other_crossing        other/self    bi  bi-co-bi-co-bi  across, releasing
+7-other-corusing         _7_other_corusing        other/self    co  co-bi-co-bi-co  internal
+8-other-torusing         _8_other_torusing        other/self    bi  bi-co-bi-co-bi  internal
+9-other-releasing        _9_other_releasing       other/social  co  co-bi-co-bi-co  along
+10-other-surfacing       _10_other_surfacing      other/social  bi  bi-co-bi-co-bi  across, releasing
+11-other-chaining        _11_other_chaining       other/social  co  co-bi-co-bi-co  internal
+12-other-surplusing      _12_other_surplusing     other/social  bi  bi-co-bi-co-bi  internal
+13-social-neutralling    _13_social_neutralling   social/other  co  co-bi-co-bi-co  internal
+14-social-crossing       _14_social_crossing      social/other  bi  bi-co-bi-co-bi  across, arriving
+15-social-corusing       _15_social_corusing      social/other  co  co-bi-co-bi-co  internal
+16-social-torusing       _16_social_torusing      social/self   bi  bi-co-bi-co-bi  internal
+17-social-abundancing    _17_social_abundancing   social        co  co-bi-co-bi-co  along, external
+1-9-8-16 co co bi bi partner 2-15-7-10 other way
+2-15-7-10 bi co co bi partner 1-9-8-16 other way
+3-11-6-14 co co bi bi partner 4-13-5-12 other way
+4-13-5-12 bi co co bi partner 3-11-6-14 other way
+9-5-12-8 co co bi bi partner 7-11-6-10 other way
+7-11-6-10 co co bi bi partner 9-5-12-8 other way
+1-9-5-12-8-16 co co co bi bi bi partner 2-15-7-11-6-10 other way
+2-15-7-11-6-10 bi co co co bi bi partner 1-9-5-12-8-16 other way
+3-11-7-10-6-14 co co co bi bi bi partner 4-13-5-9-8-12 other way
+4-13-5-9-8-12 bi co co co bi bi partner 3-11-7-10-6-14 other way
+1-9-5-13-4-12-8-16 co co co co bi bi bi bi partner 2-15-7-11-3-14-6-10 other way
+2-15-7-11-3-14-6-10 bi co co co co bi bi bi partner 1-9-5-13-4-12-8-16 other way
+18-31-23-26 bi co co bi partner 19-27-22-30 other way
+19-27-22-30 co co bi bi partner 18-31-23-26 other way
+18-31-23-27-22-26 bi co co co bi bi partner 19-27-23-26-22-30 other way
+19-27-23-26-22-30 co co co bi bi bi partner 18-31-23-27-22-26 other way

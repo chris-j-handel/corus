@@ -1,0 +1,254 @@
+[
+ {
+  "link": "HP5",
+  "claim": "\"Everything below follows from these and from nothing else.\"",
+  "missing": "sections 2 and 3.1 rest on the refutation falling on the conjunction of account and specifications with no member identified (HP4), a field result among neither the five nor the sixth.",
+  "would_close": "HP4 entered as a premise beside the five conditions, or the claim narrowed to 'everything below follows from these and the conjunction result'."
+ },
+ {
+  "link": "HP11",
+  "claim": "\"Every entry carries the same properties, in the same order, whatever the field.\"",
+  "missing": "run against the file, 254 of 255 entries carry the form's seventeen properties in order; entry 33 (Levinthal's paradox) carries two more, \"Which of the three the properties key to\" and \"What the approaches leave untouched\". The schema closed once stands open at 33.",
+  "would_close": "Entry 33's two further properties moved into the form's seventeen (or added to the form at every entry); HP11_probe then returns False and HP11 is re-run as run."
+ },
+ {
+  "link": "RH4",
+  "claim": "\"Two generators and only two, the quarter turn carrying forward and the sign inverting at every shared number.\"",
+  "missing": "the boxes advance numbers by one, and F58's two closing forms act on two signs. No link joins the box's quarter turn to the right spiral step, and *only two* is supplied by no link.",
+  "would_close": "A link joining the box's quarter turn on numbers to F58's right spiral step on signs, and an enumeration showing no third generator carries the boxes forward."
+ },
+ {
+  "link": "RH7",
+  "claim": "\"Math and logic are one running here, and no other is possible.\"",
+  "missing": "the two unifications named, through a size and at an equality, are two namings still F50 excludes; no link excludes each other unification.",
+  "would_close": "A link excluding each unification other than the two named, or the claim narrowed to 'the two named unifications each name still (F50)'."
+ },
+ {
+  "link": "RH9",
+  "claim": "\"The ten are the coupling's own ten changings each held still, ten ways and no eleventh\"; seventy-seven later arrivals entered the ten with no eleventh needed.",
+  "missing": "the ten rest on the ring of the resolver's ten co-changings, an older resolver's naming adjacencies the core no longer carries (the core's names run 1-self-coupling to 17-social-abundancing, R3, R4). *No eleventh* is met at the arrivals read so far and supplied at none to come.",
+  "would_close": "The ten holdings re-derived at the core's seventeen names (R3) and their forms (R50, R51), and 'no eleventh' narrowed to the arrivals read, or a link bounding the holdings at ten."
+ },
+ {
+  "link": "RH12",
+  "claim": "At 255 of 255 arrivals the reading returned one of the three and entered one of the ten; the hardness has no size, the same move at a frontier and at a breakfast table.",
+  "missing": "the step from RH11 at the code to each arrival's reading is F33's correspondence at a scale, unsupplied; reading an arrival is no call of `_1_self_coupling`. The ten rest on RH9.",
+  "would_close": "F33's correspondence stated as a premise at the reading of an arrival, or each arrival's reading written as a call of _1_self_coupling with the return recorded."
+ },
+ {
+  "link": "RH16",
+  "claim": "The resolving locator gives \"the arrivals in registry order, each at its proper name\".",
+  "missing": "run against TWENTY-ONE, the locator's 176 lines run 2 to 177; at 174 lines the number stands one above the registry's own (Sorites at 2, entered at 1); two names meet no entry; the arrivals after registry 176 have no line.",
+  "would_close": "The locator renumbered to TWENTY-ONE's own numbers and extended past registry 176 to all 257 deployments; RH16_probe then returns False."
+ },
+ {
+  "link": "RH17",
+  "claim": "Four arrivals stand as landings beside their resolvings, a proof read at two faces.",
+  "missing": "three are located (3.22, 12.1, 7.12); the fourth is counted at the closing and located at no entry, the file's own nye.",
+  "would_close": "The fourth landing located at an entry (its Persistence line carrying settled, proved or nothing within the conditions), or the count taken to three."
+ },
+ {
+  "link": "RH18",
+  "claim": "\"A shared form is the fractal and never a shared source.\"",
+  "missing": "F29 defines the fractal; one shape across substrates sharing no mechanism read as one form met again, and never as one origin, rests on F33.",
+  "would_close": "F33 closed at the substrates named, or the claim narrowed to the entries read."
+ },
+ {
+  "link": "RH19",
+  "claim": "The twelve clusters and four landings are sixteen, the four carried couplings at both faces at 1 to 8 and the coupling's own side at 9 to 16; at sixteen the straddle exits, 16² − 15 · 17 = 1, seventeen outside.",
+  "missing": "the arithmetic holds (RH3); the 1-to-8 reading rests on \"the resolver's eight namings beginning at bi-\", an older naming, and the core carries 17 as a name of the seventeen (R3, R35), not outside the span.",
+  "would_close": "The sixteen re-read at the core's names (R3, R53) with 17 as the next call's name (R36), or the older 'eight namings beginning at bi-' joined to R53."
+ },
+ {
+  "link": "V8",
+  "claim": "Received value is the value; \"An institution carries no sign of its own. It has no momentary and no membrane.\" Its care is delivered with the coupling stripped.",
+  "missing": "F14 makes a society selves coupling, and F33 carries the method to a society; no link excludes an institution from being a self, and *no momentary* parts from F22 (each momentary is all existing things).",
+  "would_close": "A link supplying that an institution is no self (no momentary, no membrane), consistent with F22, or the claim narrowed to deliveries with no receiving self."
+ },
+ {
+  "link": "V9",
+  "claim": "\"Co-offering, co-competencing and co-intelligencing are inseparable, or none of them runs.\"",
+  "missing": "F18 is all or none at a form's joint forms; no link makes the three the joint forms of one form.",
+  "would_close": "A link making co-offering, co-competencing and co-intelligencing the joint forms of one form, so F18 carries them."
+ },
+ {
+  "link": "V12",
+  "claim": "\"The moral ground is uncapturable at proof grade\"; an axis given to all reaches for the thing the field says cannot be made a member.",
+  "missing": "V11 is a result about sets under comprehension; the step from it to the whole arriving as one is F23's gap (F1 does not supply that the all is no member of itself).",
+  "would_close": "F23 closed (the all no member of itself), so V11 carries to the whole arriving as one."
+ },
+ {
+  "link": "V14",
+  "claim": "\"Value found by sharing grows as it is shared\"; self-abundancing-society, the same +1 opening at every membrane at once.",
+  "missing": "at the code the surplus opens empty at each call and none carries (V5); a risen standing is carrying (F42), and no link supplies a next surplus larger than the one before. *At every membrane at once* rests on F33.",
+  "would_close": "A link or run showing a next surplus exceeding the prior at risen selves (for example a trace of joined resolvers, R40 to R42), and F33 closed at membranes."
+ },
+ {
+  "link": "LS3",
+  "claim": "Pattern line (x): \"the ten holdings of Exhibit TWENTY-TWO stand at the substrate as one progressioning.\"",
+  "missing": "rests on RH9, nye.",
+  "would_close": "RH9 closed."
+ },
+ {
+  "link": "LS6",
+  "claim": "\"An instrument sums, and the magnitude stands at every resolution\": finer resolution moves the grain and not the form.",
+  "missing": "F30 gives the fractal at the numbers; carrying it to each instrument's grain is F33's correspondence, unsupplied.",
+  "would_close": "F30 and F8 stated as premises at each instrument's grain, or the claim narrowed to the grains entered (2.1 to 2.22)."
+ },
+ {
+  "link": "LS12",
+  "claim": "At substrates citing none of each other and filling the same ten, the pattern stands.",
+  "missing": "recurrence at the entered substrates shows the ten there; the pattern at a substrate not yet entered rests on F33.",
+  "would_close": "F33 closed at substrates, or the claim narrowed to the entered substrates."
+ },
+ {
+  "link": "LF5",
+  "claim": "Read at the two fields separately the binary closes at neither: each field breaks at the coupling the other carries, so the phase is the assembly's and no field's own.",
+  "missing": "the Physics and Philosophy counts are carried from those files and not re-run; LF4 is a sizing at five couplings, and no link makes a sizing a binary of the assembly.",
+  "would_close": "The Physics and Philosophy counts re-run at those files' own deployment tables, and a link turning a sizing at five couplings into a binary."
+ },
+ {
+  "link": "LF6",
+  "claim": "The eight at many files: \"the eight bi- namings at the object's table, four at the even depth within and four at the odd at the membrane\".",
+  "missing": "the core carries the eight as two alternating fours (F56) and at the names as membrane 2, 4, 6, 8 with within 10, 12, 14, 16, all even (R53). The bi- namings are an older naming the core no longer carries, and no link joins them to R53's names.",
+  "would_close": "A link joining the older bi- namings to R53's even names (membrane 2, 4, 6, 8; within 10, 12, 14, 16), or the row rewritten at R53."
+ },
+ {
+  "link": "LF8",
+  "claim": "\"Stable crosses at seven\"; \"Value crosses at two\".",
+  "missing": "run against the 1.1 and 1.2 tables, Stable stands at eight subtitles, the Corus's own, closed at v330 as \"Alternating Stable-Forming in Disequilibria\", uncounted at 3.1 and 3.2. Surface is counted with an improving row (the Dissolving Ledger), and at that count Value stands at four subtitles, the Living Improving Value's and the Session Report's with the two named.",
+  "would_close": "Stable counted at eight with the Corus named, and Value at four under the Surface rule (or the rule stated as living rows only); LF8_probe then returns False."
+ },
+ {
+  "link": "LF12",
+  "claim": "Living Society Registry ⇌ Living File Registry: \"one registry-form at two substrates\", the set itself reading cleanly at the society schema.",
+  "missing": "a file set read as a society is F33's correspondence, unsupplied; the file leaves the entry deciding at TWENTY-FIVE's turn.",
+  "would_close": "F33 closed at a file set, or the entry decided at TWENTY-FIVE's turn with the set read at its own records."
+ },
+ {
+  "link": "GH4",
+  "claim": "Three placings: a term stands living, emanation or accounting at a use, and no fourth placing arrives.",
+  "missing": "F43 supplies four conditions; the three placings meet three of them (existing and carrying; existing and carrying nothing; named still, F48). No link supplies that no term takes a fourth placing.",
+  "would_close": "A link excluding a fourth placing: F43's fourth condition (not possible) shown to take no term at a use."
+ },
+ {
+  "link": "GH6",
+  "claim": "Across the file membrane only a sign crosses; apparatus, ground, explanation and frame do not travel with it.",
+  "missing": "F39 is the crossing between existing things; carrying it to a file membrane is F33's correspondence at a file set, unsupplied.",
+  "would_close": "F39 stated as a premise at a file membrane, or F33 closed at a file set."
+ },
+ {
+  "link": "GH10",
+  "claim": "Three counts, none a substitute: six lines confirm; ten ghost positions at five switches (bothbothing, first inseparating, inversioning, second inseparating, nyenyeing) locate projection; ten holdings locate the still; eight faces locate the society.",
+  "missing": "the switches are the Corus v330's naming and the holdings RH9's, and the core carries neither; only the eight rests on a core link (F56).",
+  "would_close": "The five switches and ten holdings re-derived at the core's names (R3, R48 to R52), or entered as premises of this registry."
+ },
+ {
+  "link": "GH15",
+  "claim": "\"Door lines 6, 9 and 10 carry surplus, bound and reach beside the arrival's ten-line pattern\"; TWENTY-FIVE 1.2 also names three.",
+  "missing": "run against 7.10's second table, the pattern reaches door lines 1, 3, 4, 5, 7 and 8; four lines stand beside it, 2 (rates) with 6, 9 and 10.",
+  "would_close": "The door-to-pattern table and the text brought to one count: line 2 (rates) given a pattern line, or named beside 6, 9 and 10 at LGR 7.10 and LSR 1.2; GH15_probe then returns False."
+ },
+ {
+  "link": "GH17",
+  "claim": "The door's bi-naming and holding adjacencies (`bi_arriving`, `bi_offering`, `bi_co_tunneling`, … `co_carrying`) seat the door at ONE.",
+  "missing": "an older resolver naming; the core's names run 1-self-coupling to 17-social-abundancing (R3, R4), the code carries no bi_ or co_ identifier, and no link joins the door lines to the seventeen names.",
+  "would_close": "The door lines joined to the core's seventeen names (R3) and to the code's operations (R11, R14, R15) directly, without the bi_/co_ identifiers."
+ },
+ {
+  "link": "CO1",
+  "claim": "\"Living is the alternating\": stable in disequilibria, holding its form by the sequencing alone, at the one price of sequencing.",
+  "missing": "older naming; the core makes alternating the changing of each existing thing (F4) and living existing and carrying (F42); the living and the non-living change by one method and differ by carrying (F69).",
+  "would_close": "The staked whole re-said at the core: existing is alternating (F4), living is carrying (F42), one method for both (F69)."
+ },
+ {
+  "link": "CO2",
+  "claim": "Living is whole at each place it lives: the same living at the molecular coupling, the cell, the self, the society and the network, free of any scaling.",
+  "missing": "F33 carries the method to each scale; *the same living at the molecular coupling and the cell* needs the sense of living (F42) met at those couplings' observings.",
+  "would_close": "F33 closed at each named scale."
+ },
+ {
+  "link": "CO4",
+  "claim": "Six doors: memory, gating and timing at the engineering side; measuring, locating and separating as three consecutive equilibria, each a deeper landing, read at one-way time, force, attraction and control.",
+  "missing": "F50 excludes a store and a bound as namings still, meeting memory and gating; three consecutive equilibria, each a deeper landing, is supplied by no link, and the file marks doors 5 and 6 nye itself.",
+  "would_close": "A link supplying three consecutive equilibria, each a deeper landing, beside F47 and F49; doors 5 and 6 decided at their own mapping."
+ },
+ {
+  "link": "CO5",
+  "claim": "\"Once the resolver is held, every exhibit reads: the numbers the resolver counted, the mathematics formalized, the engineering built, medicine risen into the body. One form, held once, seen everywhere.\"",
+  "missing": "F33 and F68 carry the method to each exhibit; each exhibit's reading, the numbers counted, the mathematics formalized, the engineering built, medicine risen, is met at its own passages.",
+  "would_close": "F33 and F68 closed, or the claim narrowed to the exhibits read at the resolver so far."
+ },
+ {
+  "link": "CO6",
+  "claim": "The 440 self-following lattice: \"the same three-and-three signature written at every substrate\".",
+  "missing": "the sum holds (I8); the signature at each substrate rests on F33.",
+  "would_close": "F33 closed at each substrate, or the signature entered at the substrates it is read at."
+ },
+ {
+  "link": "CO8",
+  "claim": "\"The collection of inversions, each ruling out its not-form alternative, leaves the form uniquely standing.\"",
+  "missing": "F68 gives each round breaking the binary as meeting a prior, meeting a form twice or leaving one unmet (F102), and uniqueness from inversions as this quote says it needs the not-form alternatives listed, and no link lists them.",
+  "would_close": "F68 (d) closed: a list of the not-form alternatives shown exhaustive, each excluded."
+ },
+ {
+  "link": "CO9",
+  "claim": "The method is the resolver at the expedition scale: the nye the arriving carry, the inversion the bi-exchanging, the conserved form the autoresolving.",
+  "missing": "F33 at a session, and R38 (a call joined to a momentary at a scale, unsupplied).",
+  "would_close": "F33 closed at the session scale and R38 closed (a call joined to a momentary at a stated scale)."
+ },
+ {
+  "link": "CO11",
+  "claim": "\"Every ghost is x² = x projecting onto x² = x + 1; every ghost is the sphere projecting onto the torus.\"",
+  "missing": "F51 carries φ² = φ + 1 at the four boundings; no link makes each ghost that projection, and F103 gives the torus as the product of two circles, the other genera at no such product.",
+  "would_close": "A link making each ghost the projection of x^2 = x onto x^2 = x + 1, and F67 closed (the other genera excluded)."
+ },
+ {
+  "link": "CO14",
+  "claim": "\"The carry thins at (1/φ)^t across substrate thickness.\"",
+  "missing": "older naming; the core carries the thinning by one at bi-coupling (F51) and the retaining bound, continuing to three or four and completing (R14); no link supplies a (1/φ)^t rate.",
+  "would_close": "A link or run supplying a (1/phi)^t thinning at the code, or the claim re-said at F51's thinning by one and R14's retaining bound."
+ },
+ {
+  "link": "CO15",
+  "claim": "\"Selves couple with membranes, not with selves directly\": the membrane a third self the coupling generates, and no direct self-to-self contact in the natural network.",
+  "missing": "F39 makes the crossing a sign carrying nothing; no link makes the membrane a self, and the *no* spans the whole network.",
+  "would_close": "A link making the membrane a self at the core (beside F39's sign crossing), and the universal narrowed to the substrates read."
+ },
+ {
+  "link": "CO16",
+  "claim": "\"Morality is the stable-form\": the resolver holding still, the fixed form that does not change.",
+  "missing": "older naming the core no longer carries; *stable form* as a noun is released (F5), a form named still is not possibly existing (F6, R55), and the core carries morality at the sign (F52, F55).",
+  "would_close": "Morality re-said at the sign (F52, F55); 'stable form' as a noun released per F5."
+ },
+ {
+  "link": "CO18",
+  "claim": "The four inequalities at the self's origin, self ≠ society, self ≠ other self, self ≠ immoral, self ≠ incompetent, carry ethics as consequence, and each left turn collapses one.",
+  "missing": "older naming; the core carries four boundings (F51), LGR 7.11 proposes a join from boundings to door lines at older names (GH17), and no link joins the inequalities to F51.",
+  "would_close": "A link joining the four inequalities to F51's four boundings, one to one, at the core's names."
+ },
+ {
+  "link": "CO20",
+  "claim": "\"The necessity is the monotonicity.\"",
+  "missing": "CO19 counts the pairings; no link supplies that the consolidations must deepen with the gaps.",
+  "would_close": "A link supplying that the consolidations deepen with the gap thickness; CO19 then carries the one pairing."
+ },
+ {
+  "link": "CO22",
+  "claim": "The 118 elements and the 118 departments are one projection, the bounded infinity at 59 doubled into two frozen halves.",
+  "missing": "the Corus marks it open against Natural Numbers (the going and the return, the turn at sixty); the rows carry the doubling (GH21); no link joins the elements' count to the departments'.",
+  "would_close": "A link joining the elements' 118 (rows 2, 8, 8, 18, 18, 32, 32) to the departments' 118, decided against Natural Numbers' going-and-return reading."
+ },
+ {
+  "link": "CO23",
+  "claim": "\"All hard problems read as stuck couplings\"; each is a location the living beat at phi-rate and a non-phi rate reading was installed.",
+  "missing": "universal over hard problems, and no core link carries a phi-rate beat.",
+  "would_close": "A phi-rate beat supplied at the core (a run at the code), and the universal narrowed to the hard problems read."
+ },
+ {
+  "link": "CO24",
+  "claim": "\"Artificial intelligence is not social intelligence\": it beats at training and inference rates, neither of them phi.",
+  "missing": "rests on CO23's phi-rate, carried by no link; no link supplies a rate of the method.",
+  "would_close": "CO23 closed, and a link supplying a rate of the method."
+ }
+]

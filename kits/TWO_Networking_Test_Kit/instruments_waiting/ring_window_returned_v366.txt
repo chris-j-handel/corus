@@ -1,0 +1,20 @@
+1. THE STEP
+   the surfacing at the sign of the arriving less the carrying gives the resolver's surfacings at every seed of rings 2 to 12: True; longest rest 1 beat
+
+2. THE TEN PAIRS
+   pairs met: 10 of 16: -- -0+ -+ 0-- 0-0- 0+0+ 0++ +- +0- ++
+   standings three long the ten allow: 26; every first beat within the ten: True; the step keeps the ten: True
+   a node at rest never rests the next beat, so the carried sign is always kept: True
+   every sign inverted, the ten pair into 5 mirror pairs, none its own mirror: True; -- ++ · -0+ +0- · -+ +- · 0-- 0++ · 0-0- 0+0+
+   never met: 6, -0- 0-0+ 0-+ 0+- 0+0- +0+: sixteen pairs, ten met and six never met
+
+3. THE STANDING THREE LONG
+   at all 26, the changing of defects = the joint arriving from the left - the joint leaving to the right: True
+   without the ten pairs, rings of one to three standings that change their count: 36, e.g. + 0-
+   so the count of defects is kept at every ring of every size, from a standing three nodes long
+
+4. THE SEVENTEEN PRIME RINGS
+   the primes 2 to 59: 17; 59 is the 17th
+   the ring of two runs +- -+ +- -+ +- -+ +- -+: no defect True, meeting at nought True
+   the register with the ring of two counts 3,845,520,700,308,425,278,140, without it 3,845,520,700,308,425,278,140: the same True
+   sixteen odd rings, one joint each: 16 joints travelling; the ring of two, none

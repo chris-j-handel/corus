@@ -1,0 +1,35 @@
+1 · the double-angle formula at the six nine-spot diamonds
+   left-right side 0: psi  59.0°, t 0.572, tan psi 1.667, 2t/(1-t²) 1.703, the angle t gives  59.6°
+   left-right side 1: psi  59.0°, t 0.572, tan psi 1.667, 2t/(1-t²) 1.703, the angle t gives  59.6°
+   top-left side 0: psi  58.5°, t 0.566, tan psi 1.635, 2t/(1-t²) 1.664, the angle t gives  59.0°
+   top-left side 1: psi  58.5°, t 0.566, tan psi 1.635, 2t/(1-t²) 1.664, the angle t gives  59.0°
+   top-right side 0: psi  58.6°, t 0.568, tan psi 1.641, 2t/(1-t²) 1.680, the angle t gives  59.2°
+   top-right side 1: psi  58.6°, t 0.568, tan psi 1.641, 2t/(1-t²) 1.680, the angle t gives  59.2°
+
+2 · where a diamond's parity changes along each ring (psi = 90°, t = 1)
+   ring  78.9 (centre spacing 98.2): changes at ±36.6° from each other centre, so at [-36.6, 23.4, 36.6, 96.6]° from one of them, both others counted
+   ring 100.0 (centre spacing 98.2): no change on this ring; at r = d it touches at the other centre
+   ring 121.6 (centre spacing 98.2): no change on this ring; at r = d it touches at the other centre
+
+3 · the map t -> 2t/(1 - t²)
+   from sqrt(3): [1.732051, -1.732051, 1.732051, -1.732051, 1.732051, -1.732051]
+   fixed points: t(1 - t²) = 2t gives t = 0 only; swapped pair: 2t/(1 - t²) = -t gives t² = 3
+
+4 · doubling reads the binary digits of x/pi
+   x/pi = 0.3000: signs +-++--++--++  binary digits 010011001100
+   x/pi = 0.3333: signs +-+-+-+-+-+-  binary digits 010101010101
+   x/pi = 0.0000: signs 000000000000  binary digits 000000000000
+
+5 · tan(2 theta) at the journey's eight spots, in arrival order 1 to 8
+    0, pole, 0, pole, 0, pole, 0, pole · 0 and 9 at the centre, where no direction is
+
+6 · the identity's residence, checked
+   F(P, Q) = (-Q, P) is the quarter turn of the signs of (cos, sin): True
+   agree/oppose is the sign of tan, tipping at every quarter turn: True
+   the sine of the doubled angle carries that sign: True
+   which of cos and sin passes through zero, once round from just past 0°: cos, sin, cos, sin
+   pair a=5.0, c=1.0, coupling b=2.0: turn 22.5° with tan 2θ = 2b/(a − c); coupling left -2.2e-16
+   pair a=3.0, c=3.0, coupling b=1.5: turn 45.0° with tan 2θ = 2b/(a − c); coupling left 3.3e-16
+   t = 1/2: 2t/(1 − t²) = 1.3333 = 4/3, triple (3, 4, 5)
+   t = 1/3: 2t/(1 − t²) = 0.7500 = 6/8, triple (8, 6, 10)
+   t = 2/3: 2t/(1 − t²) = 2.4000 = 12/5, triple (5, 12, 13)

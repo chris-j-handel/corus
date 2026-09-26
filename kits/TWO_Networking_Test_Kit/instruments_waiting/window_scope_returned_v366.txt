@@ -1,0 +1,4 @@
+26 standings three long: first beat within the ten, the step keeping the ten, and the local keeping, all hold.
+One node alone taking its turn: ['+', '+', '+'] -> ['0+', '+', '+'] count: 3 -> 2
+Every node at one beat: ['0+', '0+', '0+'] count: 3
+The count is kept at the one beat; one node alone taking its turn does not carry it unchanged.

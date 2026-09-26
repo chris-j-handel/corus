@@ -1,0 +1,54 @@
+MET   of the sixteen ways two signs can be answered, exactly two change at each single change: exclusive or and its complement
+MET   taken as the step, the exclusive or runs 0101 and returns what it met at each second step
+MET   taken of the prior and the now, it runs 011, 101 or 110 from each start but nothing, returning after three
+MET   six exclusive-or constraints on nine signs, rows 0 and columns 0, 0, 1: none of the 512 meets them all
+MET   alternating 8 up with 17 less runs 1-9-8-16, 2-10-7-15, 3-11-6-14 and 4-12-5-13
+MET   round each four-cycle the parity is kept at 8 up and changes at 17 less, exactly twice
+MET   9 less within 1 to 8 pairs 1 with 8, 2 with 7, 3 with 6, 4 with 5, the two faces at once
+MET   the code continues each carrying to 3, and to 4 at positive 8-other-torusing
+MET   a nonzero surface at each carrying under empty receiving: the return is +1, −1 or 0 and never a fourth
+MET   12-other-surplusing takes +1 at each positive sign and −1 at each negative, of any magnitude
+MET   the self 1–5 and the other 2–6 span 1 to 6, three momentaries 1–2, 3–4, 5–6
+MET   five places at 2 to 6, where at each number one side completes and the other opens
+MET   the openings 1+3+5 = 9 = 3² and the completings 2+4+6 = 12 = 3·4, and 3² − 2·4 = 1
+MET   the ratios of neighbouring terms alternate above and below φ, side changing at each next
+MET   the primes 2 to 59 are 17, with 16 openings between them, and 118 is 2 selves of 59
+MET   the four row cycles pair as overlapping momentaries: odd 1–2 and 3–4, even 2–3 and 4 with itself, each round the other way
+MET   the crossings 6 and 14 share row 3 with carrying and chaining, and the forms through them partner themselves at the even momentary
+MET   one +1 offered once at one self: the ring of 1 runs +, 0, −, 0 and round
+MET   even rings return at 2 couplings, each self changing at each coupling; odd rings at 4 × n
+MET   in a ring of five the meeting travels one self each two couplings, one momentary
+MET   part 1: no released word
+MET   part 1: names no other file, as published
+MET   part 1: the ten by the names they carry at TWENTY-EIGHT
+MET   part 1: each numbered way carries its own number
+MET   part 2: no released word
+MET   part 2: names no other file, as published
+MET   part 2: the ten by the names they carry at TWENTY-EIGHT
+MET   part 2: the ten are listed in TWENTY-EIGHT's order, 1 to 10
+MET   part 2: each numbered way carries its own number
+MET   part 3: no released word
+MET   part 3: names no other file, as published
+MET   part 3: the ten by the names they carry at TWENTY-EIGHT
+MET   part 3: each numbered way carries its own number
+MET   part 4: no released word
+MET   part 4: names no other file, as published
+MET   part 4: the ten by the names they carry at TWENTY-EIGHT
+MET   part 4: each numbered way carries its own number
+MET   part 5: no released word
+MET   part 5: names no other file, as published
+MET   part 5: the ten by the names they carry at TWENTY-EIGHT
+MET   part 5: each of the ten is met at its pair, once as a lead
+MET   part 5: each numbered way carries its own number
+MET   part 6: no released word
+MET   part 6: names no other file, as published
+MET   part 6: the ten by the names they carry at TWENTY-EIGHT
+MET   part 6: each numbered way carries its own number
+MET   part 7: no released word
+MET   part 7: names no other file, as published
+MET   part 7: the ten by the names they carry at TWENTY-EIGHT
+MET   part 7: the ten are listed in TWENTY-EIGHT's order, 1 to 10
+MET   part 7: each numbered way carries its own number
+MET   the exhibit opens with its title and subtitle and a floating contents of its bold concepts
+MET   the exhibit opens from inside its title and subtitle
+53 of 53 met

@@ -1,0 +1,42 @@
+HOLDS F(c,t)=(−t,c) and G(c,t)=(t,−c) each squared is J(c,t)=(−c,−t)
+HOLDS F and G are the only two maps on the four pairs whose square is J
+HOLDS from ++, F runs ++, −+, −−, +− and back to ++
+HOLDS {++, −+, −−} from ++ stays two advances and leaves at the third, at +−
+HOLDS each nonempty proper subset is left within at most three advances, from each of its members
+HOLDS the subsets F preserves are exactly the empty set and all four, the unions of its one cycle
+HOLDS advancing the overlapping triple changes 010 to 101 and 101 to 010
+HOLDS at each existing entry with a nonzero surface, 6/10 = (t, s) and the fresh 7/8 = G(t, s) = (s, −t), opening 0 (112 cases)
+HOLDS equality at 6/10 gives opposition in the fresh 7/8, and opposition gives equality
+HOLDS under empty receiving the surface is s = −c, so the complete return is J
+HOLDS the surface is s = sign(r − c): the arriving signs meet the carrying sign inverting
+HOLDS (+,−) with one matching positive arrival surfaces 0; from opening 0 it continues at 1, from opening 3 it leaves
+HOLDS the same opposed relation and two positive arrivals give agreement from (+,−) and opposition from (−,+)
+HOLDS from (c, t) with no arriving the release pair is 6 = t and 10 = −c, and the same 10 accompanies either 6
+HOLDS n² − (n−1)(n+1) = 1 for n from 2 to 99
+HOLDS 17 − (9 − n) = n + 8 for n from 1 to 8
+HOLDS the ten internal names and the six connectors are disjoint and exhaust 2 to 17; with entry 1, all seventeen
+HOLDS the internal pairs 3/11, 4/12, 5/13, 7/15 and 8/16 are each 8 apart
+HOLDS U = x⁴/4 − x³/3 − x² has its turning values at −1, 0 and 2; −1 a local minimum and 2 the lowest
+HOLDS the two-molecule law (u, v, w) goes to (v/2, u+w, v/2), and (1/4, 1/2, 1/4) continues at each conversion
+HOLDS each law (u, 1/2, 1/2 − u) reaches (1/4, 1/2, 1/4) in one conversion
+HOLDS forward and reverse propensities of the two-molecule account are equal only at B-count 1, and 1 goes to 0 or 2
+HOLDS the ten, self 1–5 and other 2–6, spans 1–6, the self's three momentaries, co bi co bi co bi
+HOLDS at each of the places 2 to 6 one side completes and the other opens: five places from two faces, ten
+HOLDS the openings of n momentaries sum to n², the completings to n(n+1); at three, 9 and 12, and 3² − 2·4 = 1
+HOLDS six consecutive changings from 3 complete at 8, and 9 opens, odd: co-releasing
+HOLDS a retained carrying continues through its openings 1, 2 and 3, and to a fourth at a positive second sign
+HOLDS the four row cycles pair as overlapping momentaries: odd 1–2 and 3–4, even 2–3 and 4 with itself, each round the other way
+HOLDS the crossings 6 and 14 share row 3 with carrying and chaining, and the forms through them partner themselves at the even momentary
+HOLDS one +1 offered once at one self: the ring of 1 runs +, 0, −, 0 and round
+HOLDS even rings return every 2 couplings, each self changing at each coupling; odd rings every 4 × n
+HOLDS in a ring of five the meeting travels one self each two couplings, one momentary
+HOLDS the contents open the exhibit, each section in order with its bold concepts beneath it
+HOLDS the exhibit opens inside its title and subtitle: no origin sentence retaught
+HOLDS each of the 42 proposed conceptions is placed once at the ten
+HOLDS all ten ways carry conceptions
+HOLDS no quoting, no illustrating, no speaker, no pointing to a file, no old working carried
+HOLDS no holding, standing, landing or every in the exhibit's own sentences, and living only at non-living scale and the living intelligence
+HOLDS the Registry names no other exhibit: the resolver, its code and the sixth condition said in their own words
+HOLDS the Equilibria Registry, Impossible Stable Forms of Existing: each conception carried whole with its field, the changing it names and its place at the ten
+HOLDS the code is Exhibit ONE Natural Resolver's as published
+41 of 41 hold

@@ -1,0 +1,56 @@
+[
+ {
+  "link": "F23",
+  "claim": "Neither the momentary nor the universe is possibly an existing thing separately.",
+  "missing": "F1 names the universe as all existing things and does not supply that the all is no member of itself. The step from the universe named as one existing thing to one side's momentaries alone (F21) is said, not supplied.",
+  "would_close": "A link joining 'the universe named as one existing thing' to one side's momentaries alone, so F21 carries it; or the premise stated plainly: the all taken as a whole is a container added to the all."
+ },
+ {
+  "link": "F41",
+  "claim": "No total is conserved across the surface.",
+  "missing": "a sign crossing with no size shows no magnitude crosses; it does not show that no quantity of the whole stays unchanged. The ring (R45) shows one sum not conserved; NI 5.6 names three conservings at a closed group.",
+  "would_close": "'Total' defined as a magnitude summed across couplings, so F39 makes the link exact; or a check over the joined resolvers' state that no sum over selves is invariant."
+ },
+ {
+  "link": "F67",
+  "claim": "The round at two signs is torusing: the opening by one at each momentary is one tunnel, one genus, and no other closed surface is living.",
+  "missing": "the torusing is supplied: each sign's alternating is a circle and two signs' circles are the torus, one genus, the product of two circles and no other surface (F103). The opening by one at each momentary as the one tunnel joins F51's +1 to the genus's one at the numeral, not supplied.",
+  "would_close": "A definition joining the two-sign round to the torus's two windings (NI 3.2: bi-exchanging the small circle, uni-exchanging the long way), and a link excluding genus zero and genus two or more."
+ },
+ {
+  "link": "F70",
+  "claim": "Existing is five-dimensional and two-directional, each dimension alternating binary parity changing, no other possible.",
+  "missing": "the count five and its *no other possible* are not supplied, and NI 1.1 names another fourth, surface coherence (LIV open).",
+  "would_close": "One fourth named across NI 1.1 and 8.3, and the five matched from F66 (three of the surface), orienting and F53, with the exclusion of a sixth supplied."
+ },
+ {
+  "link": "R36",
+  "claim": "17-social-abundancing is the next momentary's 1-self-coupling, the next call, 11-other-chaining arriving as 3-self-carrying.",
+  "missing": "the code gives 17 no expression; the next call and its giving of the returned 11 as the next 3 are a caller's. R7 shows only that 11 has the shape of 3.",
+  "would_close": "A caller written at the code, naming 17 as the call that gives the returned 11-other-chaining as the next 3-self-carrying, and run."
+ },
+ {
+  "link": "R37",
+  "claim": "9's released sign arrives next downstream as the downstream resolver's 2-self-offering and gathers at its 14-social-crossing.",
+  "missing": "9 returns a list, no expression gives it to another resolver, and JOINS names 9 with 17, not 9 → 2. The arriving at the downstream 2 is a caller's composition.",
+  "would_close": "The caller of R36 written and run, delivering 9's return as the downstream 2-self-offering through 17 -> 9."
+ },
+ {
+  "link": "R38",
+  "claim": "One call is one momentary at the code's scale, one through seventeen; one through nine completes at 9-other-releasing.",
+  "missing": "a call reads each name once and returns. The code carries no numbered span and no opening and completing at odd and even. The joining of a call to a momentary is a naming at a scale (NI 5.1), supplied neither by the code nor by F30.",
+  "would_close": "A premise of scale stated, joining one call to one momentary of exchanging, or a trace showing a call's opening and completing parities."
+ },
+ {
+  "link": "R39",
+  "claim": "The six joinings run together, the order of the two across meetings given by the continuing itself.",
+  "missing": "ONE says the running together stands to be written at the code, and LIV names the corner case open (an along arriving at 17 continuing into a release at 10). *Given by the continuing itself* is not supplied. F93 names the running together bi-moral-co-agency, self/other in three phase, two way, one way at a time with other/self, and the caller running it at the code is not yet written.",
+  "would_close": "The six joinings written as a caller at the code, the corner correspondence of 9 and 17 run, and the order of the across meetings derived from the carryings rather than stated."
+ },
+ {
+  "link": "R55",
+  "claim": "A form named still is not possibly existing, and the resolver names none still: each name is an -ing, re-taking at each call.",
+  "missing": "at empty carrying and empty offering, 1-self-coupling returns no surfacing and empty carrying, the same joint state at each call (run: `_1_self_coupling([], [])` returns `([], [])`). The claim rests on the naming and on R46 (after one sign the rest returns at no coupling), not on the code having no still state.",
+  "would_close": "The empty self with nothing arriving named at its standing (ONE: a self between carryings; NI 8.1: momentarying continues while a sign changes or does not), tied to F71's rest lasting one, with a check that the rest arises only before a first arriving."
+ }
+]

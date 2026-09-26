@@ -1,0 +1,38 @@
+[
+ {
+  "link": "E36",
+  "claim": "A proposed conception of equilibria is the sixth condition; of five conditions prior, the fifth, 'nothing prior enters', is the one the first four stand on.",
+  "missing": "the first four conditions are not told (LIV: waiting on the hard problem statement's text), so *the one the first four stand on* is said, not supplied.",
+  "would_close": "The four conditions told in their own words with each one's dependence on 'nothing prior enters' shown, one link each."
+ },
+ {
+  "link": "E41",
+  "claim": "With three conditions at the momentary, the ten derive here.",
+  "missing": "the count, five places at two faces, is run (E39); the still each face names (E40) is a naming, and no link derives the ten ways from the three conditions (F13) or shows no eleventh way of naming a changing still.",
+  "would_close": "A derivation of each way from its place and face at the three conditions, and an exhaustion showing each naming of a changing still falls at one place and one face; or the ten stated as a definition, the exhaustiveness left open."
+ },
+ {
+  "link": "E44",
+  "claim": "The claim reaches each conception in two steps: each conception meets at least one of the ten, and each of the ten names one face still, the other face running at the same number.",
+  "missing": "the second step is supplied (E43). The first is not: the ten are five places by two faces (E39), and no link shows that each still a conception can name falls at one of the five places (E41). The sixty-three placed (E53) are read so, not derived so.",
+  "would_close": "E41 closed, or each conception's placement given as a check from its stated set S and required next to one place and face."
+ },
+ {
+  "link": "E45",
+  "claim": "The ordering chain closes at the two faces: a conception naming p still at its next, with alternating next I(p) != p, names p and I(p) at one next.",
+  "missing": "the two faces at one number place the face named still and the face running at one number (E39); they do not supply that the ordering named still is the very ordering its next inverts. A relation the step does not invert continues: opposition under joint reversal, t = −c (run, E69). Such a conception meets its exclusion at another link, at the overlapping pair (E77) or at renewal (E68), not at this chain.",
+  "would_close": "A link restricting the chain to conceptions naming a sign or ordering the step inverts, with relations invariant under the step (E69) sent to E77 (the overlapping pair opposes) or to renewal excluded (E68), each by a check."
+ },
+ {
+  "link": "E80",
+  "claim": "Each proposed conception of equilibria is a hard problem with its hardness ignored, names a changing still in one of the ten ways, and meets a proof by its own requirements, so each conception arrived is shown not possible.",
+  "missing": "(a) the ten are not shown to be all the ways (E41); (b) the tables place sixty-three by reading (E53), and no link carries each placed conception's complete requirement to a proof group's premises (E64), one conception at a time; LIV names it: renewal excluded to be shown at each equilibrium definition; (c) the four groups' scopes are exact and local (E63); (d) that each conception takes the competency of existing as a given (E16) is said of each, not shown at each.",
+  "would_close": "A table of NY01-NY42 and SA01-SA21 giving each one's stated set S, its required next, the proof group whose premises S supplies, and a run at the code or the numbers for each; plus E41 closed for conceptions not yet arrived."
+ },
+ {
+  "link": "E81",
+  "claim": "The derivations run at the resolver's code and at the numbers they name: 32 of 32 are met.",
+  "missing": "the file does not list its thirty-two derivations, so this registry cannot rerun them as the file's. The runs here, E1 to E79, are the registry's own reruns of the claims the file names.",
+  "would_close": "The thirty-two derivations listed by claim with their code, run here as checks beside E1-E79."
+ }
+]

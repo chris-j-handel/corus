@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Podaling Journey</title>
+<style>
+:root{--bg:#fbfaf7;--ink:#1d2327;--soft:#6b7278;--line:#d9d6cf;--card:#ffffff;--along:#1f6f8b;--across:#c8553d;--live:#2e8b57;--stop:#9a2b2b;--fade:#c9c6bf}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15181b;--ink:#e8e6e1;--soft:#9aa1a7;--line:#33383d;--card:#1c2024;--along:#5fb3d1;--across:#e7826c;--live:#5cc48a;--stop:#e06a6a;--fade:#454b51}}
+:root[data-theme="dark"]{--bg:#15181b;--ink:#e8e6e1;--soft:#9aa1a7;--line:#33383d;--card:#1c2024;--along:#5fb3d1;--across:#e7826c;--live:#5cc48a;--stop:#e06a6a;--fade:#454b51}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:980px;margin:0 auto;padding:18px 16px 28px}
+h1{font-size:18px;font-weight:600;margin:0 0 2px}
+.sub{color:var(--soft);font-size:13px;margin:0 0 14px}
+.head{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;min-height:78px}
+.head .k{color:var(--soft);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
+.head .n{font-size:17px;font-weight:600;margin:2px 0}
+.head .f{color:var(--soft);font-size:14px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
+@media (max-width:680px){.pair{grid-template-columns:1fr}}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 10px 12px}
+.panel h2{font-size:14px;font-weight:600;margin:0 0 4px;text-align:center}
+.panel svg{width:100%;height:auto;display:block}
+.strip{display:grid;grid-template-columns:repeat(10,1fr);gap:3px;margin-top:6px}
+.cell{border:1px solid var(--line);border-radius:5px;text-align:center;padding:3px 0;font-size:11px;line-height:1.25;transition:opacity .3s}
+.cell b{display:block;font-size:13px}
+.cell.co{border-color:var(--along)} .cell.bi{border-color:var(--across)}
+.cell.co i{color:var(--along);font-style:normal} .cell.bi i{color:var(--across);font-style:normal}
+.cell.off{opacity:.25} .cell.stop{background:var(--stop);color:#fff;border-color:var(--stop)} .cell.stop i{color:#fff}
+.bands{display:grid;grid-template-columns:4fr 4fr 2fr;gap:3px;margin-top:3px;font-size:11px;color:var(--soft);text-align:center}
+.bands span{border-top:2px solid var(--line);padding-top:2px}
+.verdict{text-align:center;font-size:13px;font-weight:600;margin-top:8px;min-height:19px}
+.verdict.live{color:var(--live)} .verdict.stop{color:var(--stop)}
+.grid{display:none;margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px}
+.grid .g{display:grid;grid-template-columns:repeat(16,1fr);gap:3px;max-width:520px;margin:0 auto}
+.grid .g div{aspect-ratio:1;border-radius:3px;background:var(--fade);opacity:0;transform:scale(.6);transition:opacity .25s,transform .25s}
+.grid .g div.on{opacity:1;transform:none}
+.grid .g div.o{background:var(--along)} .grid .g div.e{background:var(--across)} .grid .g div.b{background:var(--live);outline:2px solid var(--ink)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:12px;font-size:13px}
+.legend span::before{content:"";display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:6px;vertical-align:-1px;background:var(--c)}
+.ctl{display:flex;gap:8px;justify-content:center;margin-top:14px}
+button{font:inherit;font-size:13px;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:6px 12px;cursor:pointer}
+.dots{display:flex;gap:5px;justify-content:center;margin-top:10px}
+.dots i{width:8px;height:8px;border-radius:50%;background:var(--line);cursor:pointer}
+.dots i.at{background:var(--ink)}
+.key{display:flex;flex-wrap:wrap;gap:6px 16px;justify-content:center;font-size:12px;color:var(--soft);margin-top:10px}
+.key b{font-weight:600}
+</style>
+</head>
+<body>
+<main>
+<h1>The podaling journey through the nine-spot diamond</h1>
+<p class="sub">From the existing prior, living through, to the still possible: two and one half momentaries, 0 to 9. The centre is one station at its two turns, 0 and 9.</p>
+<div class="head"><div class="k" id="hk"></div><div class="n" id="hn"></div><div class="f" id="hf"></div></div>
+<div class="pair" id="pair">
+  <div class="panel"><h2>odd origin · co–bi–co–bi</h2><svg id="s-odd" viewBox="0 0 300 300"></svg><div class="strip" id="t-odd"></div><div class="bands"><span>prior · existing</span><span>now · living</span><span>next · possible</span></div><div class="verdict" id="v-odd"></div></div>
+  <div class="panel"><h2>even origin · bi–co–bi–co</h2><svg id="s-even" viewBox="0 0 300 300"></svg><div class="strip" id="t-even"></div><div class="bands"><span>prior · existing</span><span>now · living</span><span>next · possible</span></div><div class="verdict" id="v-even"></div></div>
+</div>
+<div class="grid" id="grid"><div class="g" id="g"></div>
+  <div class="legend" id="leg"></div></div>
+<div class="key"><span style="color:var(--along)"><b>co</b> along</span><span style="color:var(--across)"><b>bi</b> across</span><span>sign pair P Q, each step F(P, Q) = (−Q, P)</span></div>
+<div class="ctl"><button id="bp">◀</button><button id="bt">pause</button><button id="bn">▶</button></div>
+<div class="dots" id="dots"></div>
+</main>
+<script>
+const D=/*DATA*/null;
+const NS='http://www.w3.org/2000/svg';
+const P=n=>{const s=D.spots[n];return [150+s[0]*112,150-s[1]*112]};
+const scenes=[{k:'no rule added',n:'Resolving alone',f:'The number order 0 to 9, each arrival along or across by its origin, each sign pair from the one before.',odd:null,even:null}]
+ .concat(D.clusters.map(c=>({k:'Exhibit TWENTY-EIGHT · cluster '+c.k,n:c.name,f:'Added as a fixed rule: '+c.form+'.',odd:c.odd,even:c.even})))
+ .concat([{grid:true,k:'every fixed condition',n:'256 conditions at what an arrival carries',f:'Along or across, and four sign pairs: eight carryings. Each condition admits some of them. A condition over a run of up to seven arrivals is one of these, since each carrying fixes the next.'}]);
+let si=0,t=0,timer=null,playing=true;
+function el(tag,a,p){const e=document.createElementNS(NS,tag);for(const k in a){const v=a[k];if(typeof v==='string'&&v.startsWith('var('))e.style.setProperty(k,v);else e.setAttribute(k,v)}p&&p.appendChild(e);return e}
+function drawPanel(o,upto,stop){
+  const svg=document.getElementById('s-'+o);svg.innerHTML='';
+  const defs=el('defs',{},svg);
+  for(const [id,c] of [['a','var(--along)'],['b','var(--across)'],['f','var(--fade)']]){const m=el('marker',{id:o+id,viewBox:'0 0 10 10',refX:9,refY:5,markerWidth:7,markerHeight:7,orient:'auto-start-reverse'},defs);el('path',{d:'M0,0 L10,5 L0,10 z',fill:c},m)}
+  const J=D.journeys[o];
+  const last=Math.min(upto,stop||9);const ended=stop&&upto>=stop;
+  for(let n=1;n<=last;n++){
+    const [x1,y1]=P(n-1),[x2,y2]=P(n);const dx=x2-x1,dy=y2-y1,L=Math.hypot(dx,dy),ux=dx/L,uy=dy/L;
+    const r=21,sx=x1+ux*r,sy=y1+uy*r,ex=x2-ux*r,ey=y2-uy*r;const cx=(sx+ex)/2-uy*L*.1,cy=(sy+ey)/2+ux*L*.1;
+    const blocked=stop&&n===stop;const d=J[n][0];
+    const col=blocked?'var(--stop)':(d==='co'?'var(--along)':'var(--across)');
+    const path=el('path',{d:`M${sx},${sy} Q${cx},${cy} ${ex},${ey}`,fill:'none',stroke:col,'stroke-width':2.4,'stroke-dasharray':blocked?'5 4':'none','marker-end':blocked?'':`url(#${o}${d==='co'?'a':'b'})`,opacity:1},svg);
+    if(blocked){const bx=ex,by=ey;el('line',{x1:bx-uy*11,y1:by+ux*11,x2:bx+uy*11,y2:by-ux*11,stroke:'var(--stop)','stroke-width':4,'stroke-linecap':'round'},svg)}
+  }
+  for(let n=1;n<=8;n++){
+    const [x,y]=P(n);const reached=n<=last&&!(ended&&n>=stop);const dead=ended&&n>=stop;
+    el('circle',{cx:x,cy:y,r:17,fill:'var(--card)',stroke:dead?'var(--fade)':(reached?'var(--ink)':'var(--line)'),'stroke-width':reached?2:1.2},svg);
+    const tx=el('text',{x,y:y+5,'text-anchor':'middle','font-size':15,fill:dead?'var(--fade)':'var(--ink)','font-weight':reached?600:400},svg);tx.textContent=n;
+  }
+  const [cx,cy]=P(0);const at9=last>=9&&!ended;const dead9=ended&&stop===9;
+  el('circle',{cx,cy,r:19,fill:at9?'var(--live)':'var(--card)',stroke:dead9?'var(--stop)':'var(--ink)','stroke-width':2,'fill-opacity':at9?.25:1},svg);
+  const c0=el('text',{x:cx,y:cy+5,'text-anchor':'middle','font-size':14,'font-weight':600,fill:'var(--ink)'},svg);c0.textContent=last>=9?'0·9':'0';if(ended&&stop<9){svg.style.opacity=.9}
+  // strip
+  const T=document.getElementById('t-'+o);T.innerHTML='';
+  for(let n=0;n<10;n++){const c=document.createElement('div');const [d,s]=J[n];c.className='cell '+d+(n>last?' off':'')+(ended&&n===stop?' stop':'');c.innerHTML=`<b>${n}</b><i>${d}</i><br>${s.replace(/-/g,'−')}`;T.appendChild(c)}
+  const V=document.getElementById('v-'+o);
+  if(ended){V.className='verdict stop';V.textContent='blocked at '+stop+' · not living'}
+  else if(upto>=9){V.className='verdict live';V.textContent='living through 9 · still possible'}
+  else{V.className='verdict';V.textContent=''}
+}
+function head(s){document.getElementById('hk').textContent=s.k;document.getElementById('hn').textContent=s.n;document.getElementById('hf').textContent=s.f}
+function drawGrid(k){
+  const g=document.getElementById('g');
+  if(!g.children.length){D.all.forEach(([m,a,b])=>{const d=document.createElement('div');d.className=(a===null&&b===null)?'b':(a===null?'o':(b===null?'e':''));d.title=(a===null&&b===null)?'admits all eight: adds nothing':(a===null?'lives through the odd journey only':(b===null?'lives through the even journey only':'blocks both'));g.appendChild(d)})}
+  [...g.children].forEach((d,i)=>d.classList.toggle('on',i<k));
+  const c=D.counts;document.getElementById('leg').innerHTML=
+   `<span style="--c:var(--live)">lives through both: ${c.both}, the condition admitting all eight, which adds nothing</span><span style="--c:var(--along)">odd only: ${c.odd_only}</span><span style="--c:var(--across)">even only: ${c.even_only}</span><span style="--c:var(--fade)">neither: ${c.neither}</span>`;
+}
+function render(){
+  const s=scenes[si];head(s);
+  document.getElementById('pair').style.display=s.grid?'none':'';
+  document.getElementById('grid').style.display=s.grid?'block':'none';
+  if(s.grid)drawGrid(t);else{drawPanel('odd',t,s.odd);drawPanel('even',t,s.even)}
+  [...document.getElementById('dots').children].forEach((d,i)=>d.classList.toggle('at',i===si));
+}
+function limit(s){if(s.grid)return 256;const a=s.odd||9,b=s.even||9;return Math.max(a,b)}
+function tick(){
+  const s=scenes[si];const L=limit(s);
+  if(t<L){t+=s.grid?8:1;if(t>L)t=L;render();timer=setTimeout(tick,s.grid?60:750)}
+  else{timer=setTimeout(()=>{si=(si+1)%scenes.length;t=0;render();timer=setTimeout(tick,650)},s.grid?5200:2600)}
+}
+function go(i){clearTimeout(timer);si=(i+scenes.length)%scenes.length;t=playing?0:limit(scenes[si]);render();if(playing)timer=setTimeout(tick,500)}
+const dots=document.getElementById('dots');scenes.forEach((_,i)=>{const d=document.createElement('i');d.onclick=()=>go(i);dots.appendChild(d)});
+document.getElementById('bp').onclick=()=>go(si-1);document.getElementById('bn').onclick=()=>go(si+1);
+document.getElementById('bt').onclick=e=>{playing=!playing;e.target.textContent=playing?'pause':'play';clearTimeout(timer);if(playing)timer=setTimeout(tick,300);else{t=limit(scenes[si]);render()}};
+render();timer=setTimeout(tick,700);
+</script>
+</body>
+</html>

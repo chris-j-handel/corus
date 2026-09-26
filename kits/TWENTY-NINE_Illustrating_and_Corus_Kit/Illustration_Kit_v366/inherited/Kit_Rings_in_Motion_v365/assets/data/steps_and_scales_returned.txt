@@ -1,0 +1,31 @@
+Part 1 · every step rule on the four sign pairs, run as the journey
+   conditions living through both origins, over all 256 rules: {1: 6, 4: 42, 16: 96, 64: 112}
+   rules under which only the condition adding nothing lives: 6
+      +- -> -+ -> -- -> ++ -> +- · two signs at some step 
+      +- -> -- -> -+ -> ++ -> +- · one sign per step (Q, -P)
+      +- -> ++ -> -+ -> -- -> +- · one sign per step (-Q, P)
+      +- -> -- -> ++ -> -+ -> +- · two signs at some step 
+      +- -> ++ -> -- -> -+ -> +- · two signs at some step 
+      +- -> -+ -> ++ -> -- -> +- · two signs at some step 
+   unchanged          states met 2 of 8 · conditions living 64
+   both negated       states met 4 of 8 · conditions living 16
+   swapped            states met 4 of 8 · conditions living 16
+   P negated          states met 4 of 8 · conditions living 16
+   rotation (-Q, P)   states met 8 of 8 · conditions living 1
+   rotation (Q, -P)   states met 8 of 8 · conditions living 1
+
+Part 2 · one sign changing per step, every sign state met, back to the start
+   1 sign(s), 2 states: cycles 1; one member at every other step 1; so at every scale 1; per order of members [1]; reflected Gray code among them: True
+   2 sign(s), 4 states: cycles 2; one member at every other step 2; so at every scale 2; per order of members [1]; reflected Gray code among them: True
+   3 sign(s), 8 states: cycles 12; one member at every other step 12; so at every scale 12; per order of members [2]; reflected Gray code among them: True
+   4 sign(s), 16 states: cycles 2688; one member at every other step 96; so at every scale 96; per order of members [4]; reflected Gray code among them: True
+   2 signs, the rule stated (each scale the prior scale followed by its mirror): 2 cycles, 1 per naming
+   3 signs, the rule stated (each scale the prior scale followed by its mirror): 12 cycles, 2 per naming
+   4 signs, the rule stated (each scale the prior scale followed by its mirror): 48 cycles, 2 per naming
+   the reflected Gray code at 3 signs is the 2-sign code followed by its mirror: True
+   its changing member at 4 signs, step by step: [0, 1, 0, 2, 0, 1, 0, 3, 0, 1, 0, 2, 0, 1, 0, 3]
+
+Part 3 · do-no-harm improving, decided at each step, over all 256 rules
+    {'loses no prior': 24, 'changes one sign': 16, 'both': 4} · all three: 2
+      +- -> -- -> -+ -> ++ -> +- · every sign pair met: True
+      +- -> ++ -> -+ -> -- -> +- · every sign pair met: True

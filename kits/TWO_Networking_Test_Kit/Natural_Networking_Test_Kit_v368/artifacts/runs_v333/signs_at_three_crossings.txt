@@ -1,0 +1,42 @@
+== crossing: address
+  pair 7,9     n= 7: over yes  part yes  middle yes  surplus no  reaches no
+  pair 7,9     n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  pair 6,10    n= 6: over no  part no  middle no  surplus no  reaches no
+  pair 6,10    n=10: over no  part no  middle no  surplus no  reaches no
+  trio 7,9,11  n= 7: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,11  n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,11  n=11: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,6   n= 7: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,6   n= 9: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,6   n= 6: over no  part yes  middle yes  surplus yes  reaches yes
+  trio 6,10,14 n= 6: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=10: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=14: over no  part no  middle no  surplus no  reaches no
+== crossing: sequencing
+  pair 7,9     n= 7: over yes  part yes  middle yes  surplus yes  reaches yes
+  pair 7,9     n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  pair 6,10    n= 6: over no  part no  middle no  surplus no  reaches no
+  pair 6,10    n=10: over no  part no  middle no  surplus no  reaches no
+  trio 7,9,11  n= 7: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,11  n= 9: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,11  n=11: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,6   n= 7: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,6   n= 9: over yes  part yes  middle yes  surplus yes  reaches yes
+  trio 7,9,6   n= 6: over no  part yes  middle yes  surplus yes  reaches yes
+  trio 6,10,14 n= 6: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=10: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=14: over no  part no  middle no  surplus no  reaches no
+== crossing: sign
+  pair 7,9     n= 7: over yes  part yes  middle yes  surplus no  reaches no
+  pair 7,9     n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  pair 6,10    n= 6: over no  part no  middle no  surplus no  reaches no
+  pair 6,10    n=10: over no  part no  middle no  surplus no  reaches no
+  trio 7,9,11  n= 7: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,11  n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,11  n=11: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,6   n= 7: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,6   n= 9: over yes  part yes  middle yes  surplus no  reaches no
+  trio 7,9,6   n= 6: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n= 6: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=10: over no  part no  middle no  surplus no  reaches no
+  trio 6,10,14 n=14: over no  part no  middle no  surplus no  reaches no

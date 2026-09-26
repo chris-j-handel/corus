@@ -1,0 +1,36 @@
+{
+  "version": "v366",
+  "five_narratives_received_intact": [
+    {
+      "source": "Living_Improving_Value_v366.md",
+      "sha256_received_text": "1aebe6e51846ecfb67ce0bb3c253a19857f63b3122a18ea16f0e51054d4a1786",
+      "anchor": "subject-learning",
+      "exact_text_present": true
+    },
+    {
+      "source": "Method_Improving_Value_v366.md",
+      "sha256_received_text": "22a3ac0d71931c6c14a7f067cd6a890d9f5398cb2010aa088605d7299b0b87d3",
+      "anchor": "method-learning",
+      "exact_text_present": true
+    },
+    {
+      "source": "Kit_Exhibits_ONE_and_TWO_v366/Kit_Exhibits_ONE_and_TWO_v366.md",
+      "sha256_received_text": "bcb62b1b5f6187ec849eb7bd87f2fa423fc64f4c68ad8bbb24274c4c5da5f47a",
+      "anchor": "one-two-learning",
+      "exact_text_present": true
+    },
+    {
+      "source": "Kit_Rings_in_Motion_v366/Kit_Rings_in_Motion_v366.md",
+      "sha256_received_text": "6242f377a3a247ef1db296b62f4a8008e7258150b894aa6177b22f2fdd098199",
+      "anchor": "rings-learning",
+      "exact_text_present": true
+    },
+    {
+      "source": "Kit_Ramsey_Societies_v366/Kit_Ramsey_Societies_v366.md",
+      "sha256_received_text": "7c1c61186682d4d2b6647e018d1754549ffbe791196983d738d6b197c066015a",
+      "anchor": "ramsey-learning",
+      "exact_text_present": true
+    }
+  ],
+  "scope": "Exact narrative preservation, support retention and current routing verified. No full historical semantic reconciliation or external merge claimed."
+}

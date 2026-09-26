@@ -1,0 +1,26 @@
+STATE
+   holds · each sign pair is the signs of (cos t, sin t) at its angle
+STILL
+   holds · cos² + sin² = 1 admits all eight states
+   holds · of the 256 fixed conditions, only the one admitting all eight lives through both origins
+CHANGE
+   holds · no prior taken, one sign changed, never undone: 2 steps of 256, ['(-Q, P)', '(Q, -P)']
+   holds · F is the quarter turn of the angle
+RELATION
+   holds · agree is the sign of tan being +
+   holds · the relation tips at every step
+HALF AND WHOLE
+   holds · tan 2t = 2 tan t / (1 − tan² t) away from its poles
+   holds · sin 2t carries the relation as its own sign
+STITCHES
+   holds · pair (0, 9): bi with co, oppose with agree, cosine kept and sine turned
+   holds · pair (1, 8): co with bi, agree with oppose, cosine kept and sine turned
+   holds · pair (2, 7): bi with co, oppose with agree, cosine kept and sine turned
+   holds · pair (3, 6): co with bi, agree with oppose, cosine kept and sine turned
+   holds · pair (4, 5): bi with co, oppose with agree, cosine kept and sine turned
+   holds · one side held alone, relation held at agree: blocked at arrivals [2, 2] (odd, even)
+   holds · one side held alone, relation held at oppose: blocked at arrivals [1, 1] (odd, even)
+   holds · one side held alone, direction held along: blocked at arrivals [2, 1] (odd, even)
+   holds · one side held alone, direction held across: blocked at arrivals [1, 2] (odd, even)
+
+18 of 18 lines hold
