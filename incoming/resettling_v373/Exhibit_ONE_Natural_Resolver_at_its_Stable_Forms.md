@@ -141,6 +141,37 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | the society's | 10 to 14 | 16 | across, right |
 | the self's | 9 to 17 | 17 | along |
 
+| n | Name | At this 1–17 | At the 1–17s inward, n at 8n − 7 | At the 1–17 outward, 8m − 7 at m |
+|---|---|---|---|---|
+| 1 | 1-self-other-offering | entry, odd, co | 1 of the 1st: entry, odd, co | 1: entry, odd, co |
+| 2 | 2-other-self-offering | across, even, bi | 9 of the 1st: along, odd, co | within 1 to 2 |
+| 3 | 3-self-other-sharing | face outward, odd, co | 17 of the 1st, 1 of the 2nd: along, odd, co | within 1 to 2 |
+| 4 | 4-other-self-sharing | face outward, even, bi | 9 of the 2nd: along, odd, co | within 1 to 2 |
+| 5 | 5-self-other-neutralling | face outward, odd, co | 17 of the 2nd, 1 of the 3rd: along, odd, co | within 1 to 2 |
+| 6 | 6-other-self-surfacing | across, even, bi | 9 of the 3rd: along, odd, co | within 1 to 2 |
+| 7 | 7-self-other-corusing | face outward, odd, co | 17 of the 3rd, 1 of the 4th: along, odd, co | within 1 to 2 |
+| 8 | 8-other-self-torusing | face outward, even, bi | 9 of the 4th: along, odd, co | within 1 to 2 |
+| 9 | 9-social-other-self-releasing | along, odd, co | 17 of the 4th, 1 of the 5th: along, odd, co | 2: across, even, bi |
+| 10 | 10-other-social-self-tunneling | across, even, bi | 9 of the 5th: along, odd, co | within 2 to 3 |
+| 11 | 11-social-other-self-chaining | face inward, odd, co | 17 of the 5th, 1 of the 6th: along, odd, co | within 2 to 3 |
+| 12 | 12-other-social-self-abundancing | face inward, even, bi | 9 of the 6th: along, odd, co | within 2 to 3 |
+| 13 | 13-social-other-neutralling | face inward, odd, co | 17 of the 6th, 1 of the 7th: along, odd, co | within 2 to 3 |
+| 14 | 14-other-social-surfacing | across, even, bi | 9 of the 7th: along, odd, co | within 2 to 3 |
+| 15 | 15-social-other-corusing | face inward, odd, co | 17 of the 7th, 1 of the 8th: along, odd, co | within 2 to 3 |
+| 16 | 16-other-social-torusing | face inward, even, bi | 9 of the 8th: along, odd, co | within 2 to 3 |
+| 17 | 17-social-self-offering | along, odd, co | 17 of the 8th, 1 of the 9th: along, odd, co | 3: face outward, odd, co |
+
+| 1–17 inward | At this 1–17 | Its 9 at | Its 17 at | Momentary of exchanging |
+|---|---|---|---|---|
+| 1st | 1 to 3 | 2 | 3 | the self, 1st of four |
+| 2nd | 3 to 5 | 4 | 5 | the self, 2nd of four |
+| 3rd | 5 to 7 | 6 | 7 | the self, 3rd of four |
+| 4th | 7 to 9 | 8 | 9 | the self, 4th of four |
+| 5th | 9 to 11 | 10 | 11 | the society, 1st of four |
+| 6th | 11 to 13 | 12 | 13 | the society, 2nd of four |
+| 7th | 13 to 15 | 14 | 15 | the society, 3rd of four |
+| 8th | 15 to 17 | 16 | 17 | the society, 4th of four |
+
 | Side | Prior opening | Prior completing | Now opening | Now completing | Next opening | Its five |
 |---|---|---|---|---|---|---|
 | self, at 1 | 1 | 2 | 3 | 4 | 5 | co bi co bi co |

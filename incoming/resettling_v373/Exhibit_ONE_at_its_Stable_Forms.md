@@ -72,7 +72,7 @@ Exhibit ONE at its Stable Forms · session v373
 
 ## 4 The forms
 
-**After the code, fifteen forms, each at its own header row, in the order the code runs them.**
+**After the code, seventeen forms, each at its own header row, in the order the code runs them.**
 
 | Form | Binary it carries | Natural Intelligence explaining through it |
 |---|---|---|
@@ -80,6 +80,8 @@ Exhibit ONE at its Stable Forms · session v373
 | Seventeen names | Parity and opening; from, to; entry, connector or face; across or along; outward or inward; facing and joining; at the code, at the self and at the society | Part 5; Part 6, 1 to 17; Part 7 |
 | Ten roots | Each root at its names | Part 5; Natural Naming |
 | Three loops | Releasing and closing, across or along | Part 6, the fractal inward and outward |
+| The seventeen at the 1–17s inward and outward | Each name here, inward at 8n − 7 and outward at 8m − 7: across or along, odd or even, co or bi | Part 6, the fractal at each scale; Part 7, bi-tunneling and co-chaining one relation |
+| The eight 1–17s inward | Each 1–17 inward at this 1–17, its 9 and its 17, the self's four and the society's four | Part 6, 8.8's four momentaries of exchanging; Part 1, the eight bi-couplings |
 | Two and one half momentaries at each side | Prior opening to next opening, self at odd and other at even | Parts 1 and 3 |
 | One through nine, four momentaries of exchanging | Self and other at each of the four, from Natural Intelligence 8.8 | Part 6 |
 | Offerings surfacing at a sharing, at 14 | Agreeing one parity, disagreeing 0, a 0 offered none | Part 2 |
@@ -91,6 +93,13 @@ Exhibit ONE at its Stable Forms · session v373
 | Rings, at 17 | Round from momentary n: 2 at even rings, 4n at odd; none chained again is not | Parts 6 and 7 |
 | Two selves from one shared prior, at 17 | Four joinings at priors alike and opposite | Part 7; 8.1, 8.5 and 8.8 |
 | Three selves one way, at 17 | A's parity at B, and C's changing through B's own chaining | Part 7 |
+
+**Two forms reveal the fractal at the connectors, inward and outward, standing after the three loops.** Taken at Natural Intelligence 8.8's own scaling, *1, 2 and 3 at one scale are 1, 9 and 17 at the next*, a name n at this 1–17 is 8n − 7 at the 1–17s inward, and m at the 1–17 outward is 8m − 7 here:
+
+- **Inward, every name of this 1–17 is an along connector of a 1–17 inward**: each even name the 9 of one, each odd name the 17 of one and the 1 of the next. The across connectors 2, 6, 10 and 14, even and bi, are the along 9s of the 1st, 3rd, 5th and 7th 1–17 inward, odd and co: bi-tunneling here is co-chaining inward, the parity changing and nothing else.
+- **Outward, this 1–17 is 1 to 3 of the 1–17 outward**: its 9, along, odd and co, is the outward 2, across, even and bi; its 17 is the outward 3. Co-chaining here is bi-tunneling outward, the parity changing and nothing else.
+- **Four 1–17s run inward of the self's 1 to 9 and four of the society's 9 to 17**: each is one momentary of exchanging, 1–2 with 2–3 the first, and their 9s are 2, 4, 6 and 8, the four outward bi-couplings, and 10, 12, 14 and 16, the four inward. The between and the eight bi-couplings are the middles of the eight 1–17s inward.
+- **The code carries the same exchange at `_17`**: each self's 6 and 10, released across at the self, are released by the one `_9` along at the society. Across at a self is along at the society, at the lines.
 
 ---
 
@@ -145,6 +154,9 @@ Exhibit ONE at its Stable Forms · session v373
 ## 7 Concerns for both
 
 **Each stands with its reason; none is resolved here.**
+
+- **Four 1–17s inward, at which scaling.** At 8n − 7, the scaling the forms carry, the self's 1 to 9 carries four 1–17s inward and the whole 1–17 eight. At 4n − 3, the pairs' scaling Natural Intelligence 8.8 also carries (2, 5, 17, 65, 257), the whole 1–17 carries four, 1 to 5, 5 to 9, 9 to 13 and 13 to 17, and there the across connectors 2, 6, 10 and 14 are the 5s inward, 5-self-other-neutralling, the joining, and 5, 9, 13 and 17 the 17s; the outward 2 is this 5. Natural Intelligence 8.8 carries both and takes no scaling over another; the forms carry the one at which every connector is a connector at both scales.
+- **Exhibit TWO's demonstration.** The resolver's connectors running the fractal of co-chaining and bi-tunneling, a society at `_17` whose selves are 1–17s inward and which is itself a self outward, the same connectors at both with the parity changing, is Exhibit TWO's to run and show; the carrying's Natural Networking section receives it with pass F.
 
 - **The society at 17 and the one code inward.** `_17_social_self_offering` runs the society outward of the self, each self once, with the same `_9` releasing at the society's joins: 9, 4, 5, 13 and 15 at the society are the same names at the next scale. The record's direction carries a second face too, the same resolving inward, a sharing at one scale a self at the scale inward, its first concern *whether 4-other-self-sharing names a self whose own 1–17 runs inward, so that a carrying entry is itself a carrying*. The completed code carries the outward face; the inward face is that concern, met next.
 - **A third function.** The v372 record withdrew *a function beside the two*, the proposal's `_17_social_abundancing`, which carried 6's old second signs and a surface of facings. `_17_social_self_offering` carries no carrying of its own, releases nothing of its own and runs only `_1` and `_9`: the one resolver's next momentary at 17. Whether that is beside the two or the 17 of the one resolver meets here.
