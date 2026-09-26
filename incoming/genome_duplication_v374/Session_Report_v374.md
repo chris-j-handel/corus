@@ -13,6 +13,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - The conceived self's own pacing opening
 - The source of parity changing is external: a nothing arriving at a call
 - The life-giving alternating and its arriving
+- The colours of light self-bounding at c
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -177,6 +178,21 @@ The last flash's colour is carried through each sequence and darkness continues 
 | Sound | no life-giving use recorded | black smokers sound at hydrophones; animals meet sound as a sign, sonar |
 
 **A concern at *Living carries its own cost*, met at a reading.** The file says *arriving costs nothing* and meets *a self's continuing when no fresh sign arrives*. Met at the expedition's lead and at the code: the carried sign changes at a nothing arriving at a call, the call and the nothing external to the self, and a self given no call, a heart given no blood, a leaf given no light, continues at no changing.
+
+## The colours of light self-bounding at c
+
+**Natural Physics already carries it**: *nothing travels; c is the ledger's space-to-time conversion, not a rate crossing a gap; emission here and absorption there are two couplings phase-relating*, light *self-bounding*. The field's observings:
+
+| Observing | On the form |
+|---|---|
+| In vacuum each colour meets c alike | no colour parts from another away from a coupling |
+| Each colour is its field's sign inverting at its own frequency, twice each cycle; visible light about 400 to 790 terahertz | each colour a parity changing at its own rate |
+| Frequency times wavelength is c at each colour, the two reciprocal | a count and a span neither reaching c alone, as *φ the rate, a count and a motion neither reaching* |
+| A prism meets each colour at its own index, the spectrum opening; the rainbow at water | the colours part at a coupling |
+| An atom emits and absorbs at the same lines; the Sun's dark lines where cooler gas absorbs what hot gas of the element emits | each colour met at the emitting and absorbing selves' own openings |
+| Hydrogen's 21-centimetre line, 1420 megahertz, the electron's spin turning from parallel to opposite the proton's | light at one sign inverting |
+
+**Each colour self-bounds at its own frequency and span, and c is the one relation every colour's pair meets**; light carries nothing, a nothing phase-relating an emitting opening and an absorbing opening, and the spectrum is unrelationing, continuous, no colour locked to another. Hydrogen's visible lines each end at the second level, and *at 2 is parity changing* meets them at the numeral alone, released.
 
 ## Twinning at numbers and mathematics
 
