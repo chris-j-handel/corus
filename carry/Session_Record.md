@@ -325,3 +325,7 @@ The one-conception phase-locking met at the field's blocks to polyspermy, the fa
 
 The three kinds of twinning laid in sequence along one conceiving at the carrying's Natural Biology section and at the report: fraternal at the mother's cycle before any entry, sesquizygotic at one egg's entry and its next cycling inside, identical at later cyclings inside; with identical twinning rising after ovulation induction alone.
 
+## Egg and sperm into one torusing (v374)
+
+The egg and the sperm as self and other at Exhibit ONE v372's code and at the momentaries, laid at the carrying's sections for Exhibit ONE and Natural Biology and at the report's section *Egg and sperm into one torusing*. The runs: (g, +1) carried with nothing arriving over four calls carries − + − +; the egg opened by (g, +1) at the first call and the sperm by (g, +1) at the second, each alternating, read forward along the overlap from the second call over eight calls, carry − + + − − + + − − + + − − + + −, the joint forms (−, +), (+, +), (+, −), (−, −) round, each step the right spiral step and each of the four met, and read from the sperm first the same round, the hand the forward reading; the egg carrying (g1, +1), (g2, +1), (g3, −1), (g4, −1) meeting the sperm's (g1, +1), (g2, −1), (g3, +1), (g4, −1) at one call surfaces 0, −1, +1, 0 and carries +1, −1, +1, −1.
+

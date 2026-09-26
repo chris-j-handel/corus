@@ -9,6 +9,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - Twinning and not-twinning, one exclusive or at each doubling
 - Twinning at Exhibit ONE's stable-forming
 - One conception and its phase-locking
+- Egg and sperm into one torusing
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -88,6 +89,24 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 **When the lock is skipped, the bi-folding is skipped with it.** A second sperm entering gives three sets of chromosomes, the odd set with no other, most often not continuing; at one recorded pair a tripolar spindle took the place of the first bipolar division, the three sets assorting and the embryo continuing as two, sesquizygotic twins, sharing their mother's genome whole and their father's at about 78%, one placenta and two amnions (Gabbett and colleagues, New England Journal of Medicine 2019). The first cleavage's bi-folding skipped, a three-way division in its place, and twinning arriving there, as identical twinning arrives at the four-cycle's fold skipped.
 
 **Three twinnings at three momentaries in sequence.** At the mother's cycle, before any entry, two follicles ovulating: fraternal twins, two eggs each entered by its own sperm. At one egg's entry, the lock skipped, and at the next cycling inside, the first division, the sesquizygotic pair. Inside, at later cyclings of the one conceiving, the cleavages and the blastocyst over about the first two weeks: identical twins. The cycle's skip and the inside skip arrive together too, identical twinning rising after ovulation induction alone, clomiphene included (Derom and colleagues, The Lancet 1987).
+
+## Egg and sperm into one torusing
+
+**One gamete alone is one circle; egg and sperm together are the torus.** At Exhibit ONE's code one sign carried with nothing arriving runs − + − +, a circle of two changings. The egg, self, opening at the first call, and the sperm, other, opening one coupling behind, each alternating, read forward along the overlap, self then other, run − + + − − + + −: the four joint forms round, (−, +), (+, +), (+, −), (−, −), each step (x, y) to (y, −x), the right spiral step. That is Natural Intelligence's *two signs' circles are the torus*, genus one: the one new torusing neither circle is alone, its hand the forward reading along the overlap, which one alternating carries at none.
+
+**At one call, the prior releasing where the two differ.** The egg's carried signs + + − − meeting the sperm's arriving + − + − surface 0, −, +, 0 across and carry + − + − next: where the two agree the prior continues at no changing; where they differ the prior releases and the changed sign is the next prior; the surfacing across is the exclusive or of the two, the between owned by neither.
+
+**Through momentarying**, at Exhibit ONE's table, the egg the self at 1, the sperm the other at 2, the new self the self next at 3:
+
+| Momentary | At the code's table | At conception |
+|---|---|---|
+| 1, the self opening | self at 1 | the egg, ovulated and arrested at its second meiotic division, its first inversion made |
+| 2, parity changing | other at 2 | the sperm arriving; calcium oscillations; the egg's second inversion completing, its second polar body released: its bi-inversioning completing at the other's coupling |
+| 3, co-recursioning, each side both forward | self next at 3 | two pronuclei, each its own; the sperm's genome exchanged to histones and demethylated, thinned toward sign |
+| 4, the self's now completing | the ten running whole | the first division: at mouse zygotes two spindles bringing the two sets to one metaphase, the first bi-folding their first meeting (Reichmann and colleagues, Science 2018) |
+| 5, the next opening | the five complete | the maternal transcripts cleared and the new self's own genome opening, the maternal-to-zygotic transition |
+
+**The diploid is two circles coupled.** The homologous chromosomes continue two, side by side, at each cell after: the torus of two signs, nothing stored at either. A reading to meet at the halving and at the Quanta article's polyploidy: a haploid gamete one circle; a diploid two circles, one torus; an allotetraploid two pairs, two tori coupled; a triploid three sets pairing at none whole.
 
 ## Twinning at numbers and mathematics
 
