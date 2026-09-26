@@ -17,9 +17,9 @@ Living Improving Value v373
 | Pass | The work, all of one kind | Files, easiest first | Waits on |
 |---|---|---|---|
 | A | Natural Intelligence at prior, now and next: its sentences of the old code's means re-said, section by section as listed below, and its front at the steady form | Natural Intelligence | Nothing; first, since every other file's sentences of the code follow its |
-| B | The seventeen names by the map at the files carrying the old names | Natural Illustrating (6 places), Geodesic Improving Method (8), Equilibria Registry (9), Natural Numbers (14), Exhibit THIRTEEN (156), Exhibit TWO (173), Exhibit THIRTY (190), Natural Naming (198); the Natural Networking TWO Improving Kit's resolver and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier at pass I | Nothing; each with its pass C at the same motion |
-| C | The sentences of the old code's means at each file: the second sign, the count, the sum, the store, *key* | Natural Mathematics 2.5 and its readings; Natural Numbers 5.2 and 7.2; Geodesic Improving Method 4.4; the Equilibria Registry's ten, its openings 1, 2, 3 and a fourth, and its claims on the sum; Exhibit TWO 1.2 and Part Six; Natural Naming's roots row, 3.3 and its 33 *key*; Exhibit THIRTY's nine claims on the sum, its fourteen instruments of the old text and its 84 *key* | A |
-| D | The fronts at the steady form | Natural Explaining, Geodesic Improving Method, Natural Numbers, Natural Mathematics, Natural Naming, Exhibit THIRTEEN, Exhibit TWO, Natural Intelligence, Exhibit THIRTY; Exhibit ONE and the Equilibria Registry are at it | Nothing; at each file's motion |
+| B | The seventeen names by the map at the files carrying the old names | Natural Illustrating (6 places), Geodesic Improving Method (8), Equilibria Registry (9), Natural Numbers (14), Exhibit THIRTEEN (156), Exhibit TWO (173), Exhibit THIRTY (190); the Natural Networking TWO Improving Kit's resolver and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier at pass I | Nothing; each with its pass C at the same motion |
+| C | The sentences of the old code's means at each file: the second sign, the count, the sum, the store, *key* | Natural Mathematics 2.5 and its readings; Natural Numbers 5.2 and 7.2; Geodesic Improving Method 4.4; the Equilibria Registry's ten, its openings 1, 2, 3 and a fourth, and its claims on the sum; Exhibit TWO 1.2 and Part Six; Exhibit THIRTY's nine claims on the sum, its fourteen instruments of the old text and its 84 *key* | A |
+| D | The fronts at the steady form | Natural Explaining, Geodesic Improving Method, Natural Numbers, Natural Mathematics, Exhibit THIRTEEN, Exhibit TWO, Natural Intelligence, Exhibit THIRTY; Exhibit ONE and the Equilibria Registry are at it | Nothing; at each file's motion |
 | E | Wordings across the set: whole names and no short forms, no question worded as one self's, *rule*, the family words | This file and the Session Record first; Exhibit THIRTY's *Carried at* sentence; Exhibit TWO's three-columns sentence; Geodesic Improving Method 1.6 | Nothing |
 | F | The loops at the code, the fractal outside: 6 to 2, 10 to 14 and 9 to 17 run by selves together, and the along join's arrangement at a surface around a hole | Exhibit ONE, then Exhibit TWO's hole study and the Natural Networking TWO Improving Kit | A; B and C at Exhibit TWO |
 | G | The receivings agreed | The lockstitch sentence at Natural Illustrating 5.4; Exhibit SIX's membrane; Exhibit EIGHT with Geodesic Improving Method; Exhibit FOURTEEN; Exhibit FIFTEEN; Corus; the illustrating report's three open items | Nothing; D at each file touched |
@@ -67,6 +67,8 @@ Living Improving Value v373
 ## Natural Intelligence
 
 **Next at this file: pass A.** Its sentences of the old code's means re-said at prior, now and next, section by section as the front lists them: the opening's *a carrying does three things*, the four boundings' *+1* and *−1* for both to meet, 1.6's seven, Part Two's attentioning at a bound, 4.4, 5.1, 5.2, 5.4, 5.5, 5.7, the sum at 5.9 and 5.10, *key* at 5.1 and 7.4, and 8.1, 8.5 and 8.8 at the two-self run; its front at the steady form; then Exhibit ONE cohered inside again and the checks run. First among the passes.
+
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, the eight faces and two invisiblings.** The eight face namings' full directional and geometric correspondence, beside Natural Naming 3.6's four pairs at the current names and the eight bi-couplings at the even names; bi-co-invisibling and co-co-invisibling at their interior and ambient relations.
 
 *Carried from Exhibit ONE's section at v373, whole, Exhibit ONE being complete.* **Incoming, co-momentarying at the stable form.** Meet the four overlapping momentaries of exchanging, the shared prior-now-next and the self/other/social naming together with Natural Intelligence and Natural Naming. Membrane is the nothing of two offering, each side's own carrying its own. Explain that relation with unrelationing at the resolving operations. Natural Illustrating receives the same numbered changing; distinguish its chosen sequence of visible faces from the full cycle.
 
@@ -375,6 +377,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: its receiving, pass G.** No sentence of the code.
 
+**Incoming, at v373, two names at two things.** Natural Naming 4.6 keeps *transmissioning* at this file's title, the crossing between selves at the surface, and *bi-co-podaling* at two carries each at its own opening along a ring, each at its own name; the code name `bi_co_bi_transmissioning` is gathered at 6-other-self-surfacing.
+
 *Carried from Exhibit ONE's section at v373, whole, Exhibit ONE being complete.* **Opportunity, the common crossing.** Compare Transmissioning's universal coupling passages with the current local resolving here and the network continuing at Networking. Receive any unique explanation at its actual operation before the duplicated passage releases.
 
 **Agreed receiving, SIX into the other living files.** Receive the common crossing through Natural Intelligence and Networking and its particular physical and engineered workings through Engineering and the sciences. Preserve the complete cross-substrate comparison together in Networking, with its detailed subject receivings connected. SIX releases as a separate exhibit after its full value arrives. The remaining passage-level comparisons below are unfinished receiving, not a reopening of that agreed direction.
@@ -467,6 +471,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: pass D, its front at its own steady form, with the naming-pass items below at the same motion.** Its version stays at v371 until a change for the better.
 
+**Incoming, at v373, co-sequencing at one sense.** Natural Naming 2.5 carries *co-sequencing* at one sense, 2.1's, parity changing one momentary after another, which co-bi-sequencing names at its prefixing, and *binary co-sequential* whole at a title. This file's 3.4 and 3.5 take it at its motion.
+
 **Incoming, at v372, one steady form for the front and the contents, at 1.1.** Four forms stand at nine files' fronts, and each entry standing as its own paragraph with `&nbsp;` paragraphs between is the airiness at the site. One form for every file, ordinary size and font, bold at the part titles and not bold at the entries, the entries at the body's own line spacing: line 1 the version line; the title and the subtitle each on its own line with one blank line between and no `&nbsp;` at the front; each part title bold on its own line, its words exactly the body's part heading; the entries as a list, one per line with no blank line between, each the body's section heading exactly; one blank line before the next part title; `---` after the contents; the subsections listed the same way or not listed, one way for all files. Two small choices inside it: the part titles in capitals as the body headings stand, or ordinary case at both; and `PART ONE` or `ONE` for all. A sample, the first part of this file's front in the form:
 
 ```
@@ -525,6 +531,10 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 
 **Next at this file: pass B with pass D at one motion.** Its 156 places at the old names by the map, the walk at its 154 names at v368, *key* at five places said as sharing, and the front at the steady form.
 
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Concern, a naming for both.** *The ten things named still* for the ten holdings, the set's released *held* carried by *named*; Resolving Hard Problems and the registries carry *holding* at the same ten until each meets it.
+
+**Incoming, at v373, the ten and the fives at Natural Naming.** Natural Naming 4.9 says the five's *ageing* as *carrying*, *ageing* released with the old code, and its one name *a bound named as a last* as *a completing named as a last*, the ten at the current names 8 apart; and 4.6 parts two fives, a side's five at its prior opening to its next opening, and the five named at their own faces, here at 2.5, each at its own name. This file's ten, five places from two faces at 2.5, takes both at its motion.
+
 **Opportunity, the common method at particular problems.** Meet repeated generic method chapters in Physics, Biology, Philosophy and the resolving registry with the current explaining here. Preserve every substrate-specific discovery and qualification while gathering duplicate general passages.
 
 **Incoming, current observing relation.** Geodesic Improving Method 5.3 distinguishes the source's changing, the evidence arriving from its prior and the fixings named unchanged between them. Bring that precise relation to older blanket descriptions of scientific stilling. Keep an observing, its accounting and the particular installation distinguishable beside Equilibria and Ghost registries.
@@ -548,6 +558,12 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 ## Exhibit FIFTEEN · Natural Emanating
 
 **Next at this file: pass G.**
+
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Priority opportunity, one natural concept and a writing form.** Meet Emanating’s natural emanation, short whole telling and glossary as three contributions. Keep the natural meaning of emanation apparent beside the particular form of expressing an explanation. Cohering names discovering next existing here; consistency among existing sentences can accompany an improving, while the concept carries the discovering of next existing. Meet the expedition’s discovering, society, morality and abundancing at their simultaneous whole relation rather than names for successive stages.
+
+**Incoming, at v373, the short definings received at Natural Naming.** Natural Naming v373 carries the short definings' unique explaining at the current words: A self at 5.3, Place-moment at 5.18, The advance at 5.21, A ring at 5.24, Equilibria at 5.25, A hard problem at 5.26, The three incompetencings at 5.27, Social moral competency at 5.31, Natural intelligence at 5.32, An instrument keeps at 5.47, The uniqueness at 5.1 and The break at 8.6. Each duplicate here releases at this file's motion.
+
+**Concern, the one stopping, with its reason.** Natural Naming 5.30 carries the four at once, none making the next, which is why nothing downstream repairs them; this file's *The one stopping* says them as a chain, a holder needing a boundary, a boundary an enforcement and an enforcement a seat, with the same unrepairing. The two give the unrepairing two reasons, and one of them carries at this file's motion.
 
 **Opportunity, glossary combining.** Compare every short defining with Natural Naming. Receive its unique conceptual explaining there before releasing its duplicate here. Retain the whole emanations: a whole form expressed at one bound differs from one concept unfolded from inception.
 
@@ -637,75 +653,9 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY · Natural Naming
 
-**Next at this file: passes B, C and D at one motion.** The 198 places at the old names by the map; the roots row at the ten roots; 3.3's row at 17 as the next call and 3.4's co-bi-sequencing; *key* at 33 places said as sharing; the second sign at three places re-said; the front at the steady form. Then the namings for both below at a naming pass.
-
-**Incoming, at v373, from Exhibit ONE v372.** At `incoming/resettling_v373/Exhibit_ONE_v372_Released.md`: *A name at its number*, reading a name and the ten roots, at 3.1; *Five, and a seam at 8 up* and *Seventeen names, eighty-five prefixings* at 3.2; *Two faces alternating* at 3.6; *Torusing, one opening* at 5.22.
-
-**Incoming, at v373, Natural Naming at Exhibit ONE.** At `incoming/resettling_v373/Natural_Naming_at_Exhibit_ONE.md`: the names map one to one, 735 places across the set; 2.4's rows for the words Exhibit ONE's forms release, *surplus*, *met*, *call*, *membrane*, *a sign arriving*, *key*, the old code's *second sign* and *ages*, *neighbour*, and *right*, *left*, *forward* and *backward* at the facings as bi-moral, not-bi-moral, co-competent and not-co-competent; *sign* dissolved to parity changing, 5.4 re-said; Part Three re-made at Exhibit ONE's forms, receiving its naming sentences; 5.5 re-said as the between, 5.7 and 5.44 run against the parity tables.
-
-**Concern, a naming for both.** *Co-bi-exchanging* beside *bi-co-exchanging*: Natural Intelligence closes at the four momentaries of co-bi-exchanging, and this file carries bothbothing as bi-co-exchanging, each prefix order naming its opening, co at the odd and bi at the even.
-
-**Concern, from the sentence pass.** *Other-than-same* at 5.35 beside 8.5; 8.3's six dependencies uncounted; *from outside* kept at 5.2, 5.3, 5.6, 5.31 and 8.1. Side-affecting now carries at 5.33, *effect* installing a maker; *beat* carries a momentary at each place it named one, and carries whole at a common beat named still.
-
-**Concern, namings for both to meet.**
-
-- *The ten things named still* for the ten holdings, the set's released *held* carried by *named*; Resolving Hard Problems and the registries carry *holding* at the same ten until each meets it.
-- Held from v368 with their reasons: bi-co-podaling or transmissioning, which also names a file's title; the eight boundings, one at each even name, or the four boundings of a naming, the five-to-stand of four boundings and φ among them; the two fives, the five named at their own faces or the five taken at two sides; floating neutralling, the running, or floating neutral, the term uncovered, one thing or two.
-- Five namings at the five dimensions under the rule that the crossing between selves opens bi and the carrying co: co-bi-sequencing at 1-9-8-16, bi-co-podaling at 2-10-7-15, co-bi-chaining at 3-11-6-14, bi-co-linearizing at 4-12-5-13, and co-bi at 17, each at its cycle's opening; the five openings co-bi-co-bi-co.
-- A naming arriving provisional from another expedition: *bi-co-tangential identifier changing* at the co-sequential nine, a similar naming of co-bi-sequencing if it names the nine's method, and a name of its own if it names the tangent direction at a diamond's opening; nothing in resolving identifies.
-- *And* and *or* at the joining and the distinguishing, for the clusters; and three neighbouring node standings and three momentaries at one self, two namings wanting one name each.
-- The origin carried at *is* at each place, *inside* kept for participating and not for the universe.
-
-**Incoming, released from v370, not yet met.**
-
-- Volutioning, met with a prior concept arriving at the coupling: tri-volutioning in resolving, and the tri-involutioning form as the stable form of emanation from right spiral stable-forming. At the files' own words the two are one three at its two faces: the three faces the geodesic method runs at, position, scale and orientation, each spiraling at its own differing, which Geodesic Improving Method names bi-tri-volutioning; and the same three each inverted at once, three inversions reversing the hand, the emanation looking the opposite form. Two consecutive inversions on different axes is the resolving step, and three at once is the emanating. Candidate unfolding, for both to meet: 1 a spiraling adds a next at each step / 2 a step returning the term it met after two is an involution, closing / 3 a spiraling meets no prior momentary, closing at none / 4 in- names the closing, the return brought home / 5 without in-, the spiraling carries on adding nexts / 6 and the spiraling closing at none is volutioning. Tri-volutioning is said at v370 as shaping the stable-form emanations from living to non-living. Concern, a precision to keep apparent: *two consecutive inversions on different axes are the resolving step* reads as the round's sign inversions, one sign at each step, alternating; read as reflections, two make the step when their axes stand half a right angle apart and the half step at a right angle (Exhibit THIRTY F97). Open: one name at the three, tri-volutioning or bi-tri-volutioning; and the closing at 3n and the winding at 3n + 2 as in- and its absence.
-- *Posit* and *tell* at their releases.
-- Four invisibles under eight clusters, which invisible under which cluster; the eight face namings' full directional and geometric correspondence; bi-co-invisibling and co-co-invisibling at their interior and ambient relations.
-- The ghost seated: a ledger of empty centres, as its own membrane, a section, or dissolved into the ten things named still.
-- Carried in for a later pass: *invisible* as invisibling; *advance* at two directions and no changing; *geodesic disequilibrating* built on a released word; *near-and-other-than-same* with no changing at its head; so-far, not-yet and not-more-than as exclusions taken at one side, a face with no place in the three positions.
-- Each along running on its across; a membrane at its four imports; dilemma naming one of the ten and never a kind; a field's medal ranking at the self-cohering rates.
-- A field's own record: the two Latin stems parting the vocabulary, twelve field-words gathering at one concept, three endings parted, the cūra family and the dictionary's seven checks, a field's account carrying no weight in a naming.
-- The ten as the ten things named still or as the ten one-way readings, one gathering at one naming.
-- *Reading* as the hard probleming, reading the unread side as the resolving and reading the third back in, now at the reading face of the family of words.
-- A carry as an apexing of Natural Intelligence's emanations and the next working its omegaing.
-
-- Volutioning, met with a prior concept arriving at the coupling: tri-volutioning in resolving, and the tri-involutioning form as the stable form of emanation from right spiral stable-forming. At the files' own words the two are one three at its two faces: the three faces the geodesic method runs at, position, scale and orientation, each spiraling at its own differing, which Geodesic Improving Method names bi-tri-volutioning; and the same three each inverted at once, three inversions reversing the hand, the emanation looking the opposite form. Two consecutive inversions on different axes is the resolving step, and three at once is the emanating. Candidate unfolding, for both to meet: 1 a spiraling adds a next at each step / 2 a step returning the term it met after two is an involution, closing / 3 a spiraling meets no prior momentary, closing at none / 4 in- names the closing, the return brought home / 5 without in-, the spiraling carries on adding nexts / 6 and the spiraling closing at none is volutioning. Open: one name at the three, tri-volutioning or bi-tri-volutioning; and the closing at 3n and the winding at 3n + 2 as in- and its absence.
-- *Posit* and *tell* at their releases.
-- Four invisibles under eight clusters, which invisible under which cluster; the eight face namings' full directional and geometric correspondence; bi-co-invisibling and co-co-invisibling at their interior and ambient relations.
-- The ghost seated: a ledger of empty centres, as its own membrane, a section, or dissolved into the ten things named still.
-- Carried in for a later pass: *invisible* as invisibling; *advance* at two directions and no changing; *geodesic disequilibrating* built on a released word; *near-and-other-than-same* with no changing at its head; so-far, not-yet and not-more-than as exclusions taken at one side, a face with no place in the three positions.
-- Each along running on its across; a membrane at its four imports; dilemma naming one of the ten and never a kind; a field's medal ranking at the self-cohering rates.
-- A field's own record: the two Latin stems parting the vocabulary, twelve field-words gathering at one concept, three endings parted, the cūra family and the dictionary's seven checks, a field's account carrying no weight in a naming.
-- The ten as the ten things named still or as the ten one-way readings, one gathering at one naming.
-- *Reading* as the hard probleming, reading the unread side as the resolving and reading the third back in, now at the reading face of the family of words.
-- A carry as an apexing of Natural Intelligence's emanations and the next working its omegaing.
-
-**Opportunity.** Each file releasing its similar namings and its released words at its own improving, and the ten things named still met at Resolving Hard Problems and the registries.
+**Complete at v373: no next motion at this file.** Natural Naming v373 carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
-
-**Concern, for later passes.** Some carryings stay awkward and ride for passes to resolve: *the stopping coupling*, *the possible existing*, *at prose's bound*, *each catching the other's uncaught*. This file's own entries are carried the same way, 105 carryings; kept are the old wordings quoted as they stood and the principle's own statements.
-
-**For both: 2.4's tunneling sentence.** The fragment *Tunneling is at one l.*, after the podaling sentence, is read as the spelling note it carries: beside 6.3's gathering of *tunnelling* at *tunneling*, one *l*, 5.45's two *tunnelling* taking it. The sentence is carried by the set's nearest wording after the same bold: bi-tunneling society's surface opened between selves, even and across, and co-chaining the co-sequencing selves continuing, odd and along; the wording confirmed at both, or its fuller wording given.
-
-**Opportunity, at v370.**
-
-- *Earlier name* at 3.2, 3.3 and 6.3 carries a history; *gathered name*, the code's name gathered at its number, carries it, laid at the contents line, the 3.3 heading, 3.2's paragraph, the 3.3 column and the 6.3 row together at one pass.
-- The step from a non-living thing taken into the living's resolving to a new living self, derived; 5.40 carries the arriving and the arising parted.
-- *Irrationalizing*, whether it names a relation unrelationing does not already carry, and 5.2's *φ, the unrelationing rate* as its naming, at its naming pass.
-- *Co-sequencing* at Natural Explaining 3.4 and 3.5 in 2.1's sense, beside the set-namings table gathering it under co-bi-sequencing: one sense or two, settled here.
-
-**Incoming, co-momentarying and the membrane.** Unfold co-momentarying beside the current momentary, prior-now-next, co-bi-sequencing and co-bi-exchanging: four overlapping momentaries of exchanging for self and other, with further others through their actual couplings. Membrane is the nothing of two offering and meets geodesic unrelationing at that first relation.
-
-**Opportunity, glossary and set naming.** Compare Emanating's short definings and Corus's remaining language material concept by concept; receive unique explaining before any duplicate releases. The eight science-and-society gathering relations now receive at the File Registry alongside its subject clusters. Keep those two gatherings distinguishable. Meet titles and subtitles at their particular subjects rather than giving every file the same method phrase. The prior proposed Chemistry molecular/Biology living distinction releases.
-
-**Opportunity, current addresses.** Ghost Registry refers to Naming 3.37 and 6.1–6.3 for material now organized elsewhere. Match the actual ghost and installation passages before updating the references; the present contents place ghost at 5.37 and the installation explaining in Part Seven.
-
-**Incoming, the whole fractal inward and outward.** One through seventeen is the fractal, with one-through-seventeen fractals inward and outward, living geodesically socially morally abundancing now and discovering next existing society. Cohering is discovering next existing; the common statement carried through the set is geodesic natural torusing, no other possible method. One through nine and nine through seventeen are overlapping expressions within the whole; their numbered extents do not supply a first or final social scale. The registry now carries this correction. Each other file receives it at its own explaining.
-
-**Priority opportunity, one natural concept and a writing form.** Meet Emanating’s natural emanation, short whole telling and glossary as three contributions. Keep the natural meaning of emanation apparent beside the particular form of expressing an explanation. Cohering names discovering next existing here; consistency among existing sentences can accompany an improving, while the concept carries the discovering of next existing. Meet the expedition’s discovering, society, morality and abundancing at their simultaneous whole relation rather than names for successive stages.
-
-**Incoming, same number and same relation.** THIRTY X42, X47, X74–X76, X93–X96 and X108 meet shared counts, meanings, independent arrivals, membrane and the eight gathering relations. Keep a count's object, its direction and its changing apparent at any correspondence. Meet THIRTY F87–F94's releasing and bi-morality namings with the current momentarying before carrying their arithmetic meanings to the resolver. F88's 3, 6 and 9 are counts; the six connectors retain their existing names.
 
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
@@ -864,6 +814,10 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: for both workings, TWENTY-SIX v372 at the root.** Its Part One re-said at the three standings, the artifacts, the living files replacing at the repository and the living carrying for the expedition, with the standings looping out and back through it; its front at the steady form; Parts Two to Five as at v371. The registry working meets it at the table of workings; then its entries at the new names at its next improving, and the readings not yet binary moved from this file to `archive/` with their receiving files named at 1.4.
 
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Opportunity, glossary and set naming.** Compare Emanating's short definings and Corus's remaining language material concept by concept; receive unique explaining before any duplicate releases. The eight science-and-society gathering relations now receive at the File Registry alongside its subject clusters. Keep those two gatherings distinguishable. Meet titles and subtitles at their particular subjects rather than giving every file the same method phrase. The prior proposed Chemistry molecular/Biology living distinction releases.
+
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, the carrying at its two faces.** A carry as an apexing of Natural Intelligence's emanations and the next working its omegaing.
+
 **Incoming, exhibit places and the active file gathering.** The agreed receivings would release SIX, FOURTEEN and TWENTY-FOUR; FIFTEEN is a possible further release whose complete receiving is not decided. EIGHT keeps its number and receives the combined method title. Preserve current identifiers through the work; a numerical gap supplies no need for a new subject. Register the actual receiving before a source releases.
 
 **Incoming, kits and one current carrying.** The kits are each exhibit's improving kit, at session v373 four: the Natural Networking TWO Improving Kit, the Co-Chaining Logic Registry THIRTY Improving Kit, the Natural Illustrating TWENTY-NINE Improving Kit and the Living File Registry TWENTY-SIX Improving Kit. ONE–TWO project instruments receive in the networking or logic kit according to what they actually do; Rings in Motion visual assets receive with Illustrating, and Ramsey scripts can remain a named mathematical study in the Co-Chaining Logic Registry THIRTY Improving Kit. Reusable file-improving checks receive at the Living File Registry TWENTY-SIX Improving Kit with their scope stated. No kit copies this file's unfinished-work list. Root and kit READMEs name purpose, companion exhibits, exact matched editions, what to open or run, each file's contribution, the actual result and the location of remaining improving.
@@ -906,6 +860,10 @@ These priorities name the present improving opportunity, not a sequence through 
 ## Exhibit TWENTY-SEVEN · Living Ghost Registry
 
 **Next at this file: at its motion, its ten door lines met at the ten faces**, five outside and five inside of the tunneling co-sequencing, and its old resolver names by the map.
+
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Opportunity, current addresses.** Ghost Registry refers to Naming 3.37 and 6.1–6.3 for material now organized elsewhere. Match the actual ghost and installation passages before updating the references; the present contents place ghost at 5.37 and the installation explaining in Part Seven.
+
+**Incoming, at v373, ghost seated at Natural Naming.** Natural Naming 7.1 carries ghost at its unfolding, 5.37, and at its Part Seven, beside ghost-form at this file and the ten things named still at Natural Naming 4.9: three relations, none containing the others, as this file's 4.1 says. This file's *Natural Naming 7.4* three possibilities take it at its motion, and its addresses read 5.37 for 3.37 and 7.1 and 7.2 for 6.1 to 6.3.
 
 **Opportunity.** Its *the ten must not be merged* with its ten ghost positions carried beside the set's *every ten is that ten*: it keeps apart two instruments, each doing its own work at an entry, and the ten itself is one.
 
@@ -968,6 +926,15 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit THIRTY · Co-Chaining Logic Registry
 
 **Next at this file: passes B, C and E at one motion, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67.
+
+*Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, same number and same relation.** THIRTY X42, X47, X74–X76, X93–X96 and X108 meet shared counts, meanings, independent arrivals, membrane and the eight gathering relations. Keep a count's object, its direction and its changing apparent at any correspondence. Meet THIRTY F87–F94's releasing and bi-morality namings with the current momentarying before carrying their arithmetic meanings to the resolver. F88's 3, 6 and 9 are counts; the six connectors retain their existing names.
+
+
+**Incoming, at v373, Natural Naming's sections.** Natural Naming v373 titles 5.4 *parity changing*, 5.5 *the between*, 5.6 *invisibling*, 5.12 *floating neutralling*, 5.21 *advancing* and 5.35 *nearing*, adds 5.48 *volutioning* and 5.49 *co-momentarying*, and keeps each number. This file's NAM links take the current words at passes B and C: X94 at the between, X96 at floating neutralling, X47 at Natural Naming 4.6's two fours, and X108 at 6.2's invisibles, each under two clusters. Natural Naming 4.4 now carries a count's object, its direction and its changing kept apparent at a correspondence.
+
+**Concern, the scaling and the rhythm, with its reason.** Natural Naming 2.2 carries Exhibit ONE's scaling, n at 8n − 7, the outward stepping at each 9 of the inward, 17, 129 and 1,025; F82 and F86 carry the outside stepping at each 17 of the inside, 1–17 inward and outward at 17, 257 and 4,097, as Natural Intelligence 8.8 and Natural Numbers still say; and the account at `incoming/resettling_v373/Exhibit_ONE_at_its_Stable_Forms.md` carries the pairs' scaling, 4n − 3, beside. The three scalings stand at this file's arithmetic, run at the code, and Natural Naming 2.2 keeps 1–17 one of the 2,048 rhythms at eight parities until that arithmetic says which.
+
+**Incoming, at v373, volutioning's arithmetic.** Natural Naming 5.48 carries volutioning, the closing and its absence at the naming. The closing at 3n and the winding at 3n + 2, and F97's two inversions read as two reflections beside the set's one parity inverting at each step, stand here at their arithmetic.
 
 *Carried from Exhibit ONE's section at v373, whole, Exhibit ONE being complete.* **Incoming, counts and connectors at THIRTY.** F88's 3, 6 and 9 count inside steps before specified arrivals. Their correspondence with the releasing named at F87 meets the actual operations; a count of three supplies no connector at 3-self-other-sharing. Preserve the six connectors 2, 6, 9, 10, 14 and 17. The nineteen carryings were the old code's, a sharing being at one of three at v372; two signs arriving together at one sharing meet as one, agreeing one sign and disagreeing 0; and no private carrying is constructed, inspected or reset in a natural-network exploration.
 
