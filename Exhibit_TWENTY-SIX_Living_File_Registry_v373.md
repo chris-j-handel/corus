@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v372
+Exhibit TWENTY-SIX Living File Registry v373
 
 # Living File Registry
 
@@ -91,7 +91,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v372, this file | — | the registry working meeting this version; then the readings not yet binary to `archive/` |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v373, this file, at the re-settling working's branch | The re-settling working | the registry working meeting this version; then the readings not yet binary to `archive/` |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -117,13 +117,14 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
+| The re-settling working | v373 | The whole set, at a plan only; this file at 1.1 and 1.3 | `working/resettling-v373` | Its first draft, *Re-Settling the Living Files*, at `incoming/resettling_v373/`, incoming for both to meet; no other living file changed |
 | The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
-| Place | Holds | Standing at v372 |
+| Place | Holds | Standing at v373 |
 |---|---|---|
 | `carry/Living_Improving_Value.md` | The one carrying: at each living file its next motion, its open concerns and the incoming entering whole; at its front the set now, the method at every file, the plan's passes and the workings open | Living carrying; its version the session's number at each changing |
 | `carry/Session_Record.md` | The done: each session's closing paragraphs, the workings closed, the records moved from the carrying | The carrying's record, appended at each session and relied on by nothing |
@@ -134,6 +135,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | `incoming/v368_sources/` | The v368 carrying, carry map, wrap and findings by file, 8 files | Incoming, still being laid |
 | `incoming/registry_v371/` | Exhibit TWENTY-SIX v371 and the registry working's carrying as it arrived | Incoming; the carrying merged, an artifact; TWENTY-SIX v371 superseded by this file |
 | `incoming/illustrating_v366/` | The illustrating session's report | Incoming; three receivings open |
+| `incoming/resettling_v373/` | The re-settling working's first draft: Natural Intelligence as the white paper, Exhibit ONE at its origin, each contribution at its own subject, one home for each repeated passage, and the order of the motions | Incoming, for both to meet; what survives enters the carrying's plan and this registry's Part Five at their own motions |
 
 **Each kit's README gives the same small set of useful answers**: the living exhibits it accompanies, the file or version to open or run first, each included file's contribution, the matching source editions, the meaning of a recorded result and the thing it leaves unresolved, and the place the remaining improving is carried, which is the carrying and never a second list at the kit. A kit is a coupling partner and no measuring instrument: it says a finding at its instrument and no authority over the living files. A matching exhibit-and-kit pair is identified by its actual source editions, not by a version number alone: Exhibit THIRTY v371 with its verifier v371 is one pair, and the Test Kit v368 with Exhibit ONE v368's code was one, parted at v372 until the kit's next motion.
 
