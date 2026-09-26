@@ -10,6 +10,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - Twinning at Exhibit ONE's stable-forming
 - One conception and its phase-locking
 - Egg and sperm into one torusing
+- The conceived self's own pacing opening
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -107,6 +108,24 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 | 5, the next opening | the five complete | the maternal transcripts cleared and the new self's own genome opening, the maternal-to-zygotic transition |
 
 **The diploid is two circles coupled.** The homologous chromosomes continue two, side by side, at each cell after: the torus of two signs, nothing stored at either. A reading to meet at the halving and at the Quanta article's polyploidy: a haploid gamete one circle; a diploid two circles, one torus; an allotetraploid two pairs, two tori coupled; a triploid three sets pairing at none whole.
+
+## The conceived self's own pacing opening
+
+**The conceived alternates first at its mother's calls, and its own pacing opens later, at each grain.** Natural Intelligence already says it at one sentence: *each self paces its own alternating, and couplings synchronize at their own membrane and at no other*. The field's observings, grain by grain:
+
+| Grain | At the mother's alternating | The conceived's own pacing opening |
+|---|---|---|
+| Cell | the egg's cytoplasmic alternating, continuing with the cleavages' period even with no nucleus; twelve fast cleavages together at *Xenopus* | the midblastula transition: cycles lengthening and parting from one another, the embryo's own transcription opening, at a ratio of nuclear material to cytoplasm; at mice at two cells, at humans at four to eight |
+| Heart | circulation by the mother's side | the heart's own beat, at about the third week |
+| Breath | exchange across the placenta | the first breath, the placenta's exchange releasing |
+| Day | the mother's melatonin crossing the placenta, the fetus secreting none; after, melatonin in her night milk | the infant's own day rhythms over weeks to months |
+| Two selves | — | mother and infant coordinating heart rhythms at face-to-face synchrony, each heart its own |
+
+**At the code, three momentaries.** First, the conceived at a sharing of the mother's carrying alternates only at her calls. Then its own calls open, the mother's returned carrying at that sharing given to a further resolver, and the two continue from one shared prior: apart, alike; joined both ways, each − 0 + 0 − 0, Exhibit ONE's own shared-prior trace. Then, the mother offering to the child one way, the child surfaces one 0, one changing absent, and alternates opposite to her from then on: *the self's momentaries at c and the other's at −c*, self and other, each arriving the changing each makes alone, a leg unjoined and joined again changing nothing, bi-moral co-agency. The mother's carrying still carries the sharing after, *opened, it never empties*, a reading beside the fetal cells continuing in mothers for decades.
+
+**The code as it runs now is the conceived before its own pacing**: it resolves at a caller's calls in a stated order, and *the crossings' own invoking of further resolving, with no schedule over them, stands to be written*. The conceived's own pacing opening is pass F's own invoking.
+
+**Naming and explaining.** No naming is added; *each self paces its own alternating* carries it. *Crossover* keeps its meiotic sense and releases here, carried by *its own pacing opening*; *host* carries at the field, the set saying *the mother*; *source* releases, carried by the running at its -ing. The telling says *opens* for *begins*, *the conceived alternates at its mother's calls* for *incapable of its own parity changing*, and *the mother's parity changing carries the conceived's* for *the host's parity changing is the source*.
 
 ## Twinning at numbers and mathematics
 
