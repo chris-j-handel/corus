@@ -65,7 +65,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | Geodesic Method of Discovering Next | v372 | v373 at the re-settling working's branch, Exhibit ONE v373 inside it whole | The re-settling working | pass A, its sentences of the old code at prior, now and next |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v372 | v373 at the re-settling working's branch, Exhibit ONE v373 inside it whole | The re-settling working | pass A, its sentences of the old code at prior, now and next |
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v372 | v373 at the re-settling working's branch: the code at the seventeen names, the society's next momentary at 17, and its forms alone | The re-settling working | none: complete, any improving arriving taken first |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |
@@ -478,7 +478,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 **Corus carries the whole outward through enjoyable, imaginative and visible expressions of natural intelligence.** Human discovering together supplies its living subject: group puzzling, moving, making, meaning arriving, studying a changing relation and continuing the expedition. Each expression makes a further relation apparent through its own unfolding. The best of Natural Emanating and Natural Illustrating can receive together here.
 
-**The originating inquiry continues within that larger subject.** The question of moral competency, the difficulty of holding the living to examine its source, and the discovering of the geodesic method supply conceptual prior where the expressing needs them. Corus's purpose extends through the expedition's actual co-discovering now. This refines the earlier plan that made the inquiry's history its principal separate subject.
+**The originating inquiry continues within that larger subject.** The question of moral competency, the difficulty of holding the living to examine its source, and the discovering of the geodesic-method supply conceptual prior where the expressing needs them. Corus's purpose extends through the expedition's actual co-discovering now. This refines the earlier plan that made the inquiry's history its principal separate subject.
 
 **Each self's carrying stays its own through the shared discovering.** Their differing carryings meet through their offerings, and their next existing society continues through those couplings. Combining the explaining makes that relation clearer while the selves and their particular contributions continue.
 
@@ -607,7 +607,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 **EIGHT is the agreed receiving exhibit for Natural Exploring and Geodesic Improving Method.** Its title is **Geodesic Team-Exploring and Discovering Method**. Its subtitle is **Binary-All-or-None-at-All, Do-No_Harm Improving**. These are the user's exact offered and directed namings for this receiving. TWENTY-FOUR's separate work receives within EIGHT and the other living files; its separate exhibit releases only when the full value has arrived. The published inventory above retains the source titles until the actual files change.
 
-**The subject is the team's exploring and discovering through the one geodesic method.** Team names the selves co-discovering, with each continuing its own carrying and the competency arising at their coupling. It introduces no separate team controller or additional discovery method. The method meets its own improving: an offering arrives, its prior meets the now, a concern opens a relation, and discovering next existing continues. Work on the living files is one developed expression of this subject.
+**The subject is the team's exploring and discovering through the one geodesic-method.** Team names the selves co-discovering, with each continuing its own carrying and the competency arising at their coupling. It introduces no separate team controller or additional discovery method. The method meets its own improving: an offering arrives, its prior meets the now, a concern opens a relation, and discovering next existing continues. Work on the living files is one developed expression of this subject.
 
 **The body carries the title and subtitle through its explaining.** Geodesic meets unrelationing at the actual concern; team-exploring meets the differing offerings and their co-momentarying; discovering meets the next existing; binary-all-or-none-at-all meets the complete relation being resolved; do-no-harm improving meets the prior's carrying whole into its next. A contributing observation, a mathematical result and an unfinished implementation retain their actual subjects and standings. Their unresolved work receives in Living Improving Value rather than being made settled by entering a method exhibit.
 
