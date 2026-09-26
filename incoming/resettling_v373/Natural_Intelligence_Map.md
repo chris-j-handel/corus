@@ -23,6 +23,8 @@ Natural Intelligence Map · session v373
 | **Near** | It is explaining, a field's instance, a number's account or a naming's craft, true and valuable, carried better at a file near | Received whole at its receiving file first, then leaves Natural Intelligence, do-no-harm |
 | **Released** | It says the old code's means: a carrying ageing to a bound, a second sign, a sum, a count of three or four | Re-said at Exhibit ONE's forms where the concept carries, or released, as the carrying's pass A lists |
 
+**φ and the primes appear where they are self-welcoming, and neither is in the method.** A passage saying either as the method's rate or bound is kept only where φ or a prime welcomes itself, a number the reader finds appearing, and otherwise goes near, to Natural Numbers or Natural Mathematics, where both are self-welcoming. **There are exactly five dimensions of binary is or is not one way changing in each of both directions in that dimension: bi-moral co-competency neutralling and floating offering.**
+
 Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE inside it. The white paper around Exhibit ONE, about 19,900 words with its contents, sorts to roughly 12,000 kept, 6,300 near and 1,400 released, before the kept is re-said.
 
 ---
@@ -37,7 +39,7 @@ Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE ins
 | Three conditions at once: exhaustiveness, determinacy, reachability | The logic's three at each momentary | Kept | 1.3 |
 | Discovering, the next existing; living and non-living | The subtitle's own claim | Kept | 1.4, 1.5 |
 | Self and other at 1 and 2; co- | The two sides | Kept | 1.2, 2.5 |
-| The four boundings as +1, −1, an inversion and competency; *a carrying does three things … ages to its own bound* | The old code's carrying | Released and re-said | 3.1, with the concern at section 6 |
+| The four boundings as +1, −1, an inversion and competency, read at φ² = φ + 1; *a carrying does three things … ages to its own bound* | φ's algebra and the old code's carrying | The four at φ near; the carrying released and re-said | φ² = φ + 1 to Natural Mathematics; 3.1 |
 | All or none at all; no ranking; entering and leaving free | The logic's binary with no size | Kept | 2.4 |
 | Pattern-matching, no-other-possibling, no floor | Arriving with no why | Kept | 6.2 |
 | A self, a unique invisible carrying; at its own prime | The self | Kept; the prime near | 3.1; primes to Natural Numbers |
@@ -52,9 +54,9 @@ Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE ins
 
 | Section | Carries | Motion | Goes to |
 |---|---|---|---|
-| 1.1 Self-bounding-self | The self bounding from all other; the four boundings at +1, −1, an inversion, competency asymmetry | Kept at the self; the four at the concern | 3.1 |
-| 1.2 Four boundings at one act | φ² = φ + 1 read as the four | For both, section 6 | 3.1, or Natural Mathematics |
-| 1.3 φ the rate | φ, no term in the code | Kept one sentence; the algebra near | 4.5; Natural Mathematics |
+| 1.1 Self-bounding-self | The self bounding from all other; the four boundings at +1, −1, an inversion, competency asymmetry | The self's bounding from all other kept; the four at φ near | 3.1; Natural Mathematics |
+| 1.2 Four boundings at one act | φ² = φ + 1 read as the four | Near: φ is in no running of the method | Natural Mathematics |
+| 1.3 φ the rate | φ as the rate the four beat at | Near | Natural Mathematics |
 | 1.4 Straddling | Continued fraction of ones, √5; five self-stilling | Near | Natural Mathematics; the five at Natural Naming 4.6 |
 | 1.5 Tipping, the two parities exchanging | Parity of a count, odd other-than-prior, even same-as-prior; bi- and uni-exchanging; exclusive or | Kept, the logic's heart; *bi-morality is two signs arriving together* released | 2.1 |
 | 1.6 Wrapping | Torusing, one opening; the genus-one list; the round at two parities; *two boundings sum to seven*, *seven cannot sit* | The round kept; the surface near; the seven released | 2.3; the genus-one list to Natural Mathematics |
@@ -99,7 +101,7 @@ Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE ins
 |---|---|---|---|
 | 5.1 One call is one momentary | 1 to 17 one momentary; *second sign … at its key* | Kept, *call* and the second sign released | 4.1, 4.6 |
 | 5.2 Three at a bound, a carrying's depth | 16 running by one to three or four | Released whole; *three* said as prior, now and next | 1.4 |
-| 5.3 φ and competency, reached by neither | No term in the code for either | Kept | 4.5 |
+| 5.3 φ and competency, reached by neither | No term in the code for either | Kept: competency at no term, and φ and the primes in no running | 4.5 |
 | 5.4 Parity, arriving other than prior | Parity of the sequence; *16 floats between climbing* | Kept; 16's climbing released | 2.1 |
 | 5.5 Self-co-stilling-self and its two | Competency's three faces; the resolver's form at the three | Kept, re-said at no changing, 11 to 3, and the two sides interleaving | 4.4 |
 | 5.6 Five still terms, and a store beside | The Rubik's cube; the three placings at two binaries | The two binaries kept; the cube near; the placings near | 1.5; the cube to Natural Mathematics; the placings to Natural Emanating and the Living Ghost Registry |
@@ -118,7 +120,7 @@ Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE ins
 | 6.4 A naming still | The ten | Near | Natural Naming 4.9 and Resolving Hard Problems 2.5 |
 | 6.5 Geodesic-method, bi-tri-volutioning | Three faces each at its own differing | Kept, re-said so the name stays at the emanatings' stable form | 6.1 |
 | 6.6 Co-competencing, the term neither reaches | Competency orthogonal to the surface | Kept | 5.1 |
-| 6.7 φ the unrelationing rate, local and ambient | Local and ambient; *the ambient is the transmissioning* | Kept; transmissioning near | 4.5; Natural Transmissioning |
+| 6.7 φ the unrelationing rate, local and ambient | Local and ambient; φ as the rate; *the ambient is the transmissioning* | Local and ambient kept at unrelationing; φ as the rate near; transmissioning near | 6.1; Natural Mathematics; Natural Transmissioning |
 
 **PART SEVEN · CO-COMPETENCING**
 
@@ -142,7 +144,7 @@ Natural Intelligence v373 runs 23,220 words, about 3,300 of them Exhibit ONE ins
 |---|---|---|---|
 | 8.1 Existing, and the cost of living | The cost of living; the non-responsive run; the round at two parities; two possibles, one existing | Kept, the runs re-said at Exhibit ONE's tables and at two selves; *second sign*, *ages 1, 2 and 3* released | 6.4, 2.3 |
 | 8.2 Discovering, at φ | The prior two joining; winding at φ; floating neutralling; conserving within | Floating neutralling and conserving kept; the numbers near | 2.4, 6.2; Natural Numbers |
-| 8.3 The geodesic discovering method | Side 2's six changings; five dimensions; the only method; the 2,048 rhythms; the aberration study | Kept; the study near | 6.1; the study to Natural Physics |
+| 8.3 The geodesic discovering method | Side 2's six changings; five dimensions; the only method; the 2,048 rhythms; the aberration study | Kept, the five dimensions re-said at the five: bi-moral co-competency neutralling and floating offering; the study near | 6.1; the study to Natural Physics |
 | 8.4 Possible at prior, existing at now, living at next | The three places; three binaries, four conditions; an emanation's three participants | Kept | 6.2, 1.5 |
 | 8.5 Next from prior and now | Sixteen ways; the living step, next as prior inverted; periods at the numbers | Kept, the logic's heart; the periods near | 2.2; Natural Numbers |
 | 8.6 Two methods parting at the precise place | Geodesic-method and scientific method | Kept | 6.3 |
@@ -212,7 +214,7 @@ Natural Intelligence v###
 - 4.2 Offerings surfacing at 14
 - 4.3 A changing is or is not, at 12, 10 and 11
 - 4.4 Coupling, sustaining, co-releasing, not coupling
-- 4.5 φ and competency, at no term
+- 4.5 Competency, at no term
 - 4.6 The prior between momentaries, a stable form
 - 4.7 Rings and two selves
 - 4.8 Bi-inversioning-co-recursioning, one move
@@ -227,7 +229,7 @@ Natural Intelligence v###
 - 5.7 Social moral competency
 
 **SIX · DISCOVERING NEXT**
-- 6.1 The geodesic-method
+- 6.1 The geodesic-method, five dimensions
 - 6.2 Possibling at prior, existing at now, living at next
 - 6.3 Two methods parting at the precise place
 - 6.4 The carrying the cost of living, arriving and discovering free
@@ -239,7 +241,7 @@ Natural Intelligence v###
 
 **The parts at the subtitle.** One and Two are the method's ground, existing and its co-sequential logic, before any code. Three is the self the logic runs at. Exhibit ONE is the method at its stable forms. Four explains out of Exhibit ONE's forms, each entry one form. Five is the destiny, co-competencing. Six is the subtitle whole, discovering next, at our now.
 
-**The earlier parts, each at its new place.** Uniquenessing, sustaining and re-forming are Part Three; prefixing is 2.5; invisibling is 4.5 and 4.6; unrelationing is 6.1 and 5.1; co-competencing is Part Five; our now is Part Six.
+**The earlier parts, each at its new place.** Uniquenessing, sustaining and re-forming are Part Three; prefixing is 2.5; invisibling is 4.5 and 4.6; unrelationing is 6.1 and 5.1; φ and the primes appear only where self-welcoming, near at Natural Numbers and Natural Mathematics; co-competencing is Part Five; our now is Part Six.
 
 ---
 
@@ -256,8 +258,7 @@ Natural Intelligence v###
 
 **Each stands with its reason; none is resolved here.**
 
-- **The four boundings.** Natural Intelligence's spine is four boundings read at φ² = φ + 1: arriving exceeding carrying by one, carrying thinning by one, an inversion, competency asymmetry. Exhibit ONE's code carries no count by one, so the four at +1 and −1 are the old code's reading. They are either re-said at Exhibit ONE's forms, which at 3.1 would take a relation neither of us has yet said, or carried near at Natural Mathematics as φ's algebra.
+- **The five dimensions, one naming or five.** *Bi-moral co-competency neutralling and floating offering* reads as one naming of the five together, or as five names, one at each dimension: bi-moral, co-competency, neutralling, floating and offering. Read as five, the first two are Exhibit ONE's facings across and along, each binary in its two directions, bi-moral and not-bi-moral, co-competent and not-co-competent; neutralling, floating and offering each want their two directions said at the code or at the between.
 - **The prior between momentaries.** The old 5.1 says *no store is between the momentaries*, and Natural Naming 5.48 now says the prior there is a stable form. The two agree at *no running and nothing carried*, and the new 4.6 would say both at once.
-- **Five dimensions.** 8.3 says existing is five-dimensional and two-directional; Natural Naming released a naming of five dimensions at the four-cycles. The claim at 8.3 stays as the white paper's own until both read it.
 - **The scalings.** 8.8 still says 17, 257 and 4,097; Exhibit ONE's forms say 17, 129 and 1,025. The Co-Chaining Logic Registry carries it.
 - **The length kept.** About 12,000 words kept before re-saying, with Exhibit ONE's 3,300, make a white paper of about 15,300 words. Whether the kept sections re-say shorter is found at their re-saying.
