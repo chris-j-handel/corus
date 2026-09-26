@@ -14,6 +14,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - The source of parity changing is external: a nothing arriving at a call
 - The life-giving alternating and its arriving
 - The colours of light self-bounding at c
+- Light emanating and resolving into stable form at plants
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -193,6 +194,20 @@ The last flash's colour is carried through each sequence and darkness continues 
 | Hydrogen's 21-centimetre line, 1420 megahertz, the electron's spin turning from parallel to opposite the proton's | light at one sign inverting |
 
 **Each colour self-bounds at its own frequency and span, and c is the one relation every colour's pair meets**; light carries nothing, a nothing phase-relating an emitting opening and an absorbing opening, and the spectrum is unrelationing, continuous, no colour locked to another. Hydrogen's visible lines each end at the second level, and *at 2 is parity changing* meets them at the numeral alone, released.
+
+## Light emanating and resolving into stable form at plants
+
+**Exhibit ONE's two faces**: *corusing omegas, the reach … torusing apexes, the gather*, *living the two alternating, neither alone*; Natural Physics: *a plant stationary holding it into stable form*. Pattern-matched at the field's observings only:
+
+| Face | At the plant |
+|---|---|
+| Omegaing, the reach | pigments reaching across the spectrum, some two to three hundred chlorophylls at each reaction centre; a stem reaching up and out in far-red-rich light under neighbours, shade avoidance; new leaves arriving at the shoot apex near the golden angle, 137.5 degrees, a winding at φ closing at none |
+| Apexing, the gather | excitations passed toward the reaction centre, an energy funnel; at its special pair of chlorophylls the charge parting, + and − across the thylakoid membrane; the shoot apex gathering the next leaf at each node |
+| Co-competencing | two photosystems in series: light beyond about 680 nm alone, or shorter red alone, giving less, and the two together more than the two apart, Emerson's enhancement, 1957, the surplus owned by neither |
+| The spectrum at the leaf | chlorophyll taking the blue and the red, the two ends, and emanating the middle, green; a little red re-emitted, fluorescence near 685 and 740 nm |
+| Resolving into stable form | a tree's year as two bands, earlywood and latewood, a ring at each year; starch granules in rings, at potato tubers continuing in constant conditions (internal consumption resolving), at cereal endosperm following day and night (external adapting resolving) |
+
+Phyllotactic spirals run either hand in near equal numbers across a species, the body's hand an emanation face.
 
 ## Twinning at numbers and mathematics
 

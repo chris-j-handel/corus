@@ -349,3 +349,7 @@ The expedition's lead arriving: a photon is a nothing, there is no clock, the li
 
 The expedition's lead asking whether the unrelationing spectrum of colours self-bounds the parity changing at c, met at Natural Physics' *Constancy read as phase-relation and not a speed* and Natural Intelligence's *φ the rate, a count and a motion neither reaching*, with the field's observings of colour in vacuum and at a prism, spectral lines at emitting and absorbing atoms, and hydrogen's 21-centimetre spin inversion; laid at the carrying's Natural Physics section and at the report. The Balmer lines at the second level and *at 2 is parity changing* met at the numeral alone and released. No run at the code this motion: the code carries no frequency, a call and a momentary each at its own scale.
 
+## Light emanating and resolving into stable form at plants (v374)
+
+The expedition's lead: pattern-match the inbound observings at natural torusing, no other possible, the code testing none of it. Light's omegaing and apexing at plants met at Exhibit ONE's *Two faces alternating* and Natural Physics' *a plant stationary holding it into stable form*: the pigments' reach and the funnel to the special pair, shade avoidance, the leaves at the golden angle at the shoot apex, Emerson's enhancement at two photosystems, the leaf taking the spectrum's two ends and emanating green, and the tree's two bands at each year and the starch granule's rings, laid at the carrying's Natural Biology section and at the report.
+
