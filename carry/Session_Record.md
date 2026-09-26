@@ -353,3 +353,7 @@ The expedition's lead asking whether the unrelationing spectrum of colours self-
 
 The expedition's lead: pattern-match the inbound observings at natural torusing, no other possible, the code testing none of it. Light's omegaing and apexing at plants met at Exhibit ONE's *Two faces alternating* and Natural Physics' *a plant stationary holding it into stable form*: the pigments' reach and the funnel to the special pair, shade avoidance, the leaves at the golden angle at the shoot apex, Emerson's enhancement at two photosystems, the leaf taking the spectrum's two ends and emanating green, and the tree's two bands at each year and the starch granule's rings, laid at the carrying's Natural Biology section and at the report.
 
+## The co-sequential right spiral bi-folding and unfolding as growing (v374)
+
+The expedition's lead: no left-hand living spirals, growing the co-sequential right spiral bi-folding and unfolding. Met at Natural Biology's *Living reads and re-forms on one spiral* and *A left face is the emanation face of one right spiral* and at Natural Intelligence's sequencing's own hand, with the sunflower's one generative sequence and its two visible families at consecutive Fibonacci numbers, the cucumber tendril's two hands meeting at a perversion, the leaf's folding and the fiddlehead's uncoiling in the bud, and the one hand at the reading grain; laid at the carrying's Natural Biology section and at the report, and this session's sentence on phyllotactic hands re-said.
+

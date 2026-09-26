@@ -15,6 +15,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - The life-giving alternating and its arriving
 - The colours of light self-bounding at c
 - Light emanating and resolving into stable form at plants
+- The co-sequential right spiral bi-folding and unfolding as growing
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -207,7 +208,19 @@ The last flash's colour is carried through each sequence and darkness continues 
 | The spectrum at the leaf | chlorophyll taking the blue and the red, the two ends, and emanating the middle, green; a little red re-emitted, fluorescence near 685 and 740 nm |
 | Resolving into stable form | a tree's year as two bands, earlywood and latewood, a ring at each year; starch granules in rings, at potato tubers continuing in constant conditions (internal consumption resolving), at cereal endosperm following day and night (external adapting resolving) |
 
-Phyllotactic spirals run either hand in near equal numbers across a species, the body's hand an emanation face.
+The spiral's turn around the stem, clockwise at some plants and counterclockwise at others, is the body's face; the living spiral is the co-sequencing forward, each leaf at the prior's next, at each plant alike.
+
+## The co-sequential right spiral bi-folding and unfolding as growing
+
+**The expedition's lead: there are no left-hand living spirals; growing is the co-sequential right spiral bi-folding and unfolding.** The set carries it: *living reads and re-forms on one spiral — right — and everywhere the opposite hand appears in living, it is that right-spiral self sounding a left-chirality face at a membrane*; *a left face is the emanation face of one right spiral*; *the momentaries' own sequencing runs the right spiral step, next as prior inverted … and the hand is the sequencing's own*. Each observing of an opposite hand at a growing plant meets it as a face:
+
+| Observing | On the form |
+|---|---|
+| A sunflower's seeds arrive one after another, each about 137.5° from the prior, and two families of visible spirals open, winding opposite ways, at consecutive Fibonacci numbers, 21 and 34, 34 and 55, 55 and 89 | two visible faces of one forward sequence, their counts straddling φ, one each side |
+| A cucumber tendril, its tip gripping, coils into two helices of opposite hand joined at a perversion, net twist zero (Darwin 1865; Gerbode and colleagues, Science 2012) | equal and opposite faces meeting at the empty centre |
+| A leaf folded in the bud along its midrib unfolds as it grows; a fern's fiddlehead uncoils as it grows | the bi-fold unfolding forward, a fold where two coupled things run at unlike rates |
+| The spiral's turn around the stem clockwise at some plants and counterclockwise at others | the body's face; the co-sequencing forward at each plant alike |
+| Proteins of L-amino acids, nucleic acids of D-sugars, the double helix right-handed at its common form | one hand at the reading grain; no living self observed reading the opposite |
 
 ## Twinning at numbers and mathematics
 
