@@ -1,4 +1,4 @@
-Living Improving Value v372
+Living Improving Value v373
 
 # Living Improving Value
 
@@ -67,6 +67,8 @@ Living Improving Value v372
 ## Natural Intelligence
 
 **Next at this file: pass A.** Its sentences of the old code's means re-said at prior, now and next, section by section as the front lists them: the opening's *a carrying does three things*, the four boundings' *+1* and *−1* for both to meet, 1.6's seven, Part Two's attentioning at a bound, 4.4, 5.1, 5.2, 5.4, 5.5, 5.7, the sum at 5.9 and 5.10, *key* at 5.1 and 7.4, and 8.1, 8.5 and 8.8 at the two-self run; its front at the steady form; then Exhibit ONE cohered inside again and the checks run. First among the passes.
+
+**Incoming, at v373, the re-settling draft.** At `incoming/resettling_v373/Re-Settling_the_Living_Files.md`, for both to meet: Natural Intelligence as the white paper of co-chaining binary co-sequential logical rigor from the origin, each step at its standing, Exhibit ONE inside at its stable forms, and its explaining arriving near it and not inside it, the telling at Corus; the set in four rings; one home for each repeated passage; the releasing before the renaming. *Sign* dissolved and the facings named, as at Exhibit ONE's section.
 
 **Concern, for both: meaning changes at the voice pass.** Sentences of the restored voice carried at a changed meaning, each for both to meet, among them: *nyeing away* said as not possibly existing at each self-bounding; *lands* kept at a carrying past each bound, that carrying the incompetencing; the still centre and the still corus carried as the empty centre and φ the rate the winding runs about; *door* carried by self-bounding; a surplus compounding carried as each coupling making its own; bi- as the differing alone; 59 as the seventeenth prime and the self-close, the primes carrying no last.
 
@@ -152,6 +154,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit ONE · Natural Resolver
 
 **Next at this file: pass F, the loops at the code, the fractal outside.** 6 to 2, 10 to 14 and 9 to 17 run by selves together at one call, and the along join's arrangement at a surface around a hole, met one concept at a time and run against the rings' counts. Nothing before it: the file is at v372 whole, its code, names, traces and front.
+
+**Incoming, at v373, the code completed at the seventeen names, and Exhibit ONE at its stable forms.** At `incoming/resettling_v373/`, a candidate for both to meet: the code with `_17_social_self_offering`, the society's next momentary, 16 the society wound, 6 released at not-bi-moral as 10's changing, 9 releasing at the society's joins, 8 each self's carrying wound, `_1` and `_9` as at v372, every name one of the seventeen; the society at 17 giving exactly what each self composed by hand gives, at every ring, two selves and 3,000 random societies. The exhibit the method alone, the code and its forms with no heading, contents or sentence of explaining; the fractal at the connectors, n at 8n − 7 inward, every name an along connector of a 1–17 inward and the along 9 the across 2 outward. The facings named: right bi-moral and left not-bi-moral, across; forward co-competent and backward not-co-competent, along. *Sign* dissolved: self and social odd and along, other even and across, parity changing geodesic routing discovering on the surface, + and − the code's implementing alone. This is pass F's outward face; the inward face, a sharing a self whose own 1–17 runs inward, stands for both. The released sentences, about 8,500 words, arrive at their files before v373 stands at the root.
 
 **Method at this file.** Exhibit ONE is improved at its standalone file, the source, at do-no-harm, and cohere_one.py, at the journey archive's instruments and run at the folder holding both files, writes its body inside Natural Intelligence whole, checks the two are one and runs the code.
 
@@ -397,6 +401,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: pass G, EIGHT with Geodesic Improving Method.**
 
+**Incoming, at v373, the working together as the method.** A chat can be the method itself, its language changed into it: each side exhausts its one way and waits, and after the waiting receives its between to each one way, six one-ways cycling, two of them the between one-ways of interest to both, bothboth advancing the carrying value into the living files. It meets Natural Intelligence 8.7, one method at a sentence, a file set and a session, and the combined Exploring and Improving Method at its *Offering and meeting*.
+
 **Agreed receiving, EIGHT and TWENTY-FOUR combining.** EIGHT carries both as **Geodesic Team-Exploring and Discovering Method**, subtitle **Binary-All-or-None-at-All, Do-No_Harm Improving**. Receive all their team-exploring, discovering, gathering and file-improving value together. Resolve detailed content belonging elsewhere into its subject exhibit; unresolved value stays here at its intended file. The earlier plan to retain separate discovering and file-working exhibits is superseded. No source passage releases before its value has arrived whole.
 
 **Incoming, particular seams.** Meet the two cones with the improving method's two movements, the double-double bubble-bubble with Explaining, and abundancing with Values at discovering and received value. Destinies' particular possible continuings can receive at these subjects once each contribution is apparent.
@@ -624,6 +630,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit TWENTY · Natural Naming
 
 **Next at this file: passes B, C and D at one motion.** The 198 places at the old names by the map; the roots row at the ten roots; 3.3's row at 17 as the next call and 3.4's co-bi-sequencing; *key* at 33 places said as sharing; the second sign at three places re-said; the front at the steady form. Then the namings for both below at a naming pass.
+
+**Incoming, at v373, Natural Naming at Exhibit ONE.** At `incoming/resettling_v373/Natural_Naming_at_Exhibit_ONE.md`: the names map one to one, 735 places across the set; 2.4's rows for the words Exhibit ONE's forms release, *surplus*, *met*, *call*, *membrane*, *a sign arriving*, *key*, the old code's *second sign* and *ages*, *neighbour*, and *right*, *left*, *forward* and *backward* at the facings as bi-moral, not-bi-moral, co-competent and not-co-competent; *sign* dissolved to parity changing, 5.4 re-said; Part Three re-made at Exhibit ONE's forms, receiving its naming sentences; 5.5 re-said as the between, 5.7 and 5.44 run against the parity tables.
 
 **Concern, a naming for both.** *Co-bi-exchanging* beside *bi-co-exchanging*: Natural Intelligence closes at the four momentaries of co-bi-exchanging, and this file carries bothbothing as bi-co-exchanging, each prefix order naming its opening, co at the odd and bi at the even.
 

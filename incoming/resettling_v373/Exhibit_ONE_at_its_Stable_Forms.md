@@ -114,7 +114,9 @@ Exhibit ONE at its Stable Forms · session v373
 | *membrane* | the between, a nothing, not a location or a thing; outward and inward faces |
 | *arriving*, *arrivings* | offerings |
 | *outside*, *inside* | outward, inward |
-| *neighbour* | the left, right, forward and backward self |
+| *neighbour* | the self at bi-moral, not-bi-moral, co-competent or not-co-competent |
+| *right*, *left*, *forward*, *backward* at the facings | *bi-moral*, *not-bi-moral*, *co-competent*, *not-co-competent*, at CONNECTORS and the forms |
+| *sign* | parity: self and social odd and along, other even and across; + and − only the code's implementing |
 | headings over the forms, *the code*, *the assembly* | none: each form stands at its own header row |
 
 ---

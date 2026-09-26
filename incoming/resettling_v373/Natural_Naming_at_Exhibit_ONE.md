@@ -71,7 +71,10 @@ Natural Naming at Exhibit ONE · session v373
 | *a sign arriving*, *arriving sign*, *arrivings* at a sharing | *an offering*, a sharing with its parity at 2-other-self-offering | 9 |
 | *key* | *sharing* | 33 |
 | *second sign*, *ages*, *its own bound* and *a bound of three or four* at a carrying | released with the old code: a sharing chained at one parity, changing is or is not | about 40, each at its sentence |
-| *neighbour* | *the left, right, forward or backward self* | 4 |
+| *neighbour* | *the self at bi-moral, not-bi-moral, co-competent or not-co-competent* | 4 |
+| *right*, *left* at a facing | *bi-moral*, *not-bi-moral*: across, the other's, even | at the facings |
+| *forward*, *backward* at a facing | *co-competent*, *not-co-competent*: along, the self's and the society's, odd | at the facings |
+| *sign* | parity: self and social odd and along, other even and across; parity changing, is or is not, is geodesic routing discovering on the surface; + and − only the code's implementing of it | 5.4 whole, and at many sentences |
 | *inside*, *outside* | *inward*, *outward* (2.4 already carries it) | 31 |
 
 ***Arriving* keeps one sense.** Natural Naming 4.6 already parts *arriving* at two relations: each existing thing arriving into its next existing, which carries whole, and a sign arriving at 2, which is released here and carried by *an offering*.
@@ -138,6 +141,19 @@ The between is no place two selves are at. It is the two offering.
 6  and once chained it is never none again, which is the form running
 ```
 
+**5.4 a sign, dissolved and re-said as parity changing**
+
+```
+1  self and social open odd, along, and other opens even, across
+2  each momentary opens at one parity and completes at the other
+3  a changing is or is not, and no size is there to be taken
+4  so nothing crosses but the parity changing
+5  and it runs one way at a time across the surface, bi-moral across and co-competent along
+6  which is geodesic routing, discovering on the surface
+```
+
+At the code, + and − are the implementing of the parity at a sharing, and 0 the changing that is not; no sign is named.
+
 **5.44 surfacing**
 
 ```
@@ -170,7 +186,7 @@ Each line is Exhibit ONE's table at 14 and its table at 12, 10 and 11, cell by c
 
 **Each stands with its reason; none is resolved here.**
 
-- ***Sign* at Natural Naming.** Exhibit ONE's forms say parity, + or −, and changing is or is not. Natural Naming carries *a sign* as a whole unfolding, 5.4, and *sign* at many sentences; whether *sign* releases to *parity* throughout, or keeps the one sense of a parity crossing, is one concept for both.
+- ***Sign* dissolves throughout.** Natural Naming carries *sign* at 5.4 and at many sentences, and Natural Intelligence and the other files at many more; each re-says at parity changing at its own motion, + and − kept only at the code. The unfoldings re-said above still say *+ or −* at their code lines, as the code's values.
 - ***Met* at 87 places.** Each is re-said at its own sentence; no one word carries each place, and the component's own name carries most.
 - ***The between* and *membrane* at other files.** Natural Intelligence, Exhibit TWO and most files carry *membrane*; each releases at its own motion by Natural Naming's row.
 - **4.9 and the ten.** The ten things named still carry two address schemes, Natural Naming's and the Equilibria Registry's, both at the earlier names; the ten's one home carries one scheme at the v372 faces.

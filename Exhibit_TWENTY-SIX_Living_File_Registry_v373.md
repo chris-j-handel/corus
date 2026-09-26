@@ -117,7 +117,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The re-settling working | v373 | The whole set, at a plan only; this file at 1.1 and 1.3 | `working/resettling-v373` | Its first draft, *Re-Settling the Living Files*, and *Exhibit ONE at its Stable Forms* with its candidate, at `incoming/resettling_v373/`, incoming for both to meet; no other living file changed |
+| The re-settling working | v373 | The whole set, at a plan only; this file at 1.1 and 1.3 | `working/resettling-v373` | Its first draft, *Re-Settling the Living Files*, and *Exhibit ONE at its Stable Forms* with its candidate, at `incoming/resettling_v373/`, incoming for both to meet, with the code completed at the seventeen names, and *Natural Naming at Exhibit ONE*; the carrying at v373 carrying their incoming at Natural Intelligence, Exhibit ONE, Exhibit EIGHT and Natural Naming; no living file changed but this row |
 | The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
