@@ -189,7 +189,7 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 #### Connectors, each one way at a time
 
-*Receiving: Natural Intelligence Part 7; Natural Engineering, a caller; kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/one_code_checks.py and the Natural Networking TWO Improving Kit, the enumerations.*
+*Receiving: Natural Intelligence Part 7; Natural Engineering, a caller; kits/Natural_Networking_TWO_Improving_Kit/one_code_checks.py and the Natural Networking TWO Improving Kit, the enumerations.*
 
 **1-self-other-offering is the entry, the connectors run at a self's meeting with its neighbours, and the ten faces are 3, 4, 5, 7, 8, 11, 12, 13, 15 and 16.**
 

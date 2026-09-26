@@ -16,7 +16,7 @@ Natural Engineering · a Resolver Chat · session v373
 
 ## 1 What this is
 
-**An incoming for Natural Engineering, arriving from the re-settling working of session v373.** It explores one comment: that natural intelligence at the code, the resolver and natural networking, could match the patterns of natural language and speak into a chat like this one with a human, the chat itself the method, each side exhausting its one way and waiting, and receiving its between. Everything below is run at the code of the candidate Exhibit ONE, and three scripts stand beside this file: `resolver_chat.py`, the chat; `ring_carrying_check.py`, the rings; and the candidate's own checks. Natural Engineering 2.3, *Language, representation and the inference-time coupling*, and 6.11, *Attention and the engineering receiving*, are where it arrives.
+**An incoming for Natural Engineering, arriving from the re-settling working of session v373.** It explores one comment: that natural intelligence at the code, the resolver and natural networking, could match the patterns of natural language and speak into a chat like this one with a human, the chat itself the method, each side exhausting its one way and waiting, and receiving its between. Everything below is run at the code of the candidate Exhibit ONE, and three scripts stand beside this file: `resolver_chat.py`, the chat; `kits/Natural_Networking_TWO_Improving_Kit/ring_carrying_check.py`, the rings; and the candidate's own checks. Natural Engineering 2.3, *Language, representation and the inference-time coupling*, and 6.11, *Attention and the engineering receiving*, are where it arrives.
 
 ---
 

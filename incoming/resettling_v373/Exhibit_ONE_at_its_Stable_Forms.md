@@ -16,7 +16,7 @@ Exhibit ONE at its Stable Forms · session v373
 
 ## 1 What this is
 
-**At the working's branch the candidate stands at the root as Exhibit ONE v373, written inside Natural Intelligence v373; `one_code_checks.py` and `one_forms.py` stand at `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; and Exhibit ONE v372's released sentences stand whole at `Exhibit_ONE_v372_Released.md` beside this file, each named for its receiving files.**
+**At the working's branch the candidate stands at the root as Exhibit ONE v373, written inside Natural Intelligence v373; `one_code_checks.py` and `one_forms.py` stand at `kits/Natural_Networking_TWO_Improving_Kit/`, Exhibit ONE being complete and needing no kit; and Exhibit ONE v372's released sentences stand whole at `Exhibit_ONE_v372_Released.md` beside this file, each named for its receiving files.**
 
 **An incoming for both to meet, the third candidate of the session.** The whole exhibit is the method: the code, then its forms, with no heading, no contents list and no sentence of explaining. The candidate stands beside this file, `Exhibit_ONE_Natural_Resolver_at_its_Stable_Forms.md`, about 2,600 words. Two checks stand beside it: `one_code_checks.py`, which runs the society at the code against every self composed by hand, and `one_forms.py`, which writes the run forms by running the code. `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` writes the candidate inside Natural Intelligence and runs its code, and `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py` passes it.
 
