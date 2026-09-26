@@ -1,4 +1,4 @@
-# TWO · Networking Test Kit
+# Natural Networking TWO Improving Kit
 
 **Runnable networking work beside Exhibit TWO and Exhibit ONE: the engine, its instruments and the instruments waiting for it**
 
@@ -11,4 +11,4 @@ The kit is a coupling partner and never a measuring instrument: it runs the reso
 
 `SHA256SUMS` at this folder covers every file under it; the published kit's own `SHA256SUMS` stands inside it unchanged.
 
-**Receives next.** Pass I: the engine at the v372 code and the instruments at the sharing and one sign; then pass F, the loops run by selves together, at Exhibit ONE. The Exhibits ONE and TWO project assets named at `incoming/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md` once located; the Ramsey study, labelled as a mathematical study, to the Logic Kit.
+**Receives next.** Pass I: the engine at the v372 code and the instruments at the sharing and one sign; then pass F, the loops run by selves together, at Exhibit ONE. The Exhibits ONE and TWO project assets named at `incoming/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md` once located; the Ramsey study, labelled as a mathematical study, to the Co-Chaining Logic Registry THIRTY Improving Kit.

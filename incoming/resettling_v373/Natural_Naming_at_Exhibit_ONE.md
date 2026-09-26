@@ -26,7 +26,7 @@ Natural Naming at Exhibit ONE · session v373
 | Each sentence the candidate releases received at its file | About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share below; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. |
 | Natural Intelligence cohered | `cohere_one.py` writes the candidate inside Natural Intelligence, which then carries about 23,100 words from 31,500: the white paper's own re-settling, pass A, meets Exhibit ONE there. |
 | The names across the set | Natural Intelligence and the other files carry Exhibit ONE v372's words that the forms release: *surplus*, *met*, *call*, *membrane*, *signs arriving*. |
-| The kits | The Test Kit's engine and the Logic Kit's verifier carry the old code, at pass I. |
+| The kits | The Natural Networking TWO Improving Kit's engine and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier carry the old code, at pass I. |
 
 **So Natural Naming is the next receiving, and conforming it is part of completing Exhibit ONE.**
 

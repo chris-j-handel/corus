@@ -2,7 +2,7 @@
 versions still at the root, each kit's README and its sums, the carrying's sections against the living files, the
 workings open at the carrying's front, and the incoming not yet received. A coupling partner, no authority: each line
 says a standing and decides nothing.
-Usage: python3 tools/carry_check.py [repository root]      (run at a session's opening and at its close)"""
+Usage: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py [repository root]      (run at a session's opening and at its close)"""
 import os, re, sys, hashlib, glob
 
 ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), '..'))

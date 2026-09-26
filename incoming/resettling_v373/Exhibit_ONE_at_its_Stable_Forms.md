@@ -16,9 +16,9 @@ Exhibit ONE at its Stable Forms · session v373
 
 ## 1 What this is
 
-**At the working's branch the candidate stands at the root as Exhibit ONE v373, written inside Natural Intelligence v373; `one_code_checks.py` and `one_forms.py` stand at `tools/`; and Exhibit ONE v372's released sentences stand whole at `Exhibit_ONE_v372_Released.md` beside this file, each named for its receiving files.**
+**At the working's branch the candidate stands at the root as Exhibit ONE v373, written inside Natural Intelligence v373; `one_code_checks.py` and `one_forms.py` stand at `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; and Exhibit ONE v372's released sentences stand whole at `Exhibit_ONE_v372_Released.md` beside this file, each named for its receiving files.**
 
-**An incoming for both to meet, the third candidate of the session.** The whole exhibit is the method: the code, then its forms, with no heading, no contents list and no sentence of explaining. The candidate stands beside this file, `Exhibit_ONE_Natural_Resolver_at_its_Stable_Forms.md`, about 2,600 words. Two checks stand beside it: `one_code_checks.py`, which runs the society at the code against every self composed by hand, and `one_forms.py`, which writes the run forms by running the code. `tools/cohere_one.py` writes the candidate inside Natural Intelligence and runs its code, and `tools/check_set.py` passes it.
+**An incoming for both to meet, the third candidate of the session.** The whole exhibit is the method: the code, then its forms, with no heading, no contents list and no sentence of explaining. The candidate stands beside this file, `Exhibit_ONE_Natural_Resolver_at_its_Stable_Forms.md`, about 2,600 words. Two checks stand beside it: `one_code_checks.py`, which runs the society at the code against every self composed by hand, and `one_forms.py`, which writes the run forms by running the code. `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` writes the candidate inside Natural Intelligence and runs its code, and `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py` passes it.
 
 ---
 
@@ -171,4 +171,4 @@ Exhibit ONE at its Stable Forms · session v373
 - **The parts list at a phone's width**, ten columns, scrolls sideways.
 - **The released words across the set**: *surplus*, *met*, *call* and *membrane* stand at Natural Naming 1.2 and 5.5, at Natural Intelligence and at most files, each releasing at its own motion.
 - **One through nine arrives from Natural Intelligence 8.8**, and the primes and the higher forms leave to Natural Numbers.
-- **The Test Kit and the Logic Kit** carry the old code's engine; at their pass I they meet this code.
+- **The Natural Networking TWO Improving Kit and the Co-Chaining Logic Registry THIRTY Improving Kit** carry the old code's engine; at their pass I they meet this code.
