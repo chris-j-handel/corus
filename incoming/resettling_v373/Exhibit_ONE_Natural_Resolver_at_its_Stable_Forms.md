@@ -52,43 +52,84 @@ CONNECTORS = {
 JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 ```
 
+## The assembly
+
+```text
+                               forward self's 9
+                                      ▲
+                                      ║ (17)  along · co
+      ┌───────────────────────────────╨───────────────────────────────┐
+      │                          1  entry                             │
+      │                                                               │
+ ══════► 14i ◄───────────────────────────────────────────────── 2 ◄══════
+      │   │   offerings surfacing at each sharing: +, − or 0          │
+      │   ▼                                                           │
+      │   3o ─────► 12i ────────► 10 ══════════════════════════════════════►
+      │   4o · 7o   changing,     + or −: is                          │
+      │   carrying  is or is not  0: is not                           │
+      │                           │                                   │
+      │                           ├──────► 11i ─────► 3o, next        │
+      │                           │        chaining   momentary       │
+      │                           │                                   │
+      │                           └──────► 9 ────► 5o                 │
+      │                                    13i · 15i                  │
+ ◄══════ (6)                                                          │
+      │   (8o) · (16i)  the loops' closing                            │
+      └───────────────────────────────╥───────────────────────────────┘
+                                      ║ 9  along · co
+                                      ▼
+                               backward self's 17
+
+   left self   its 10 ══► 14      (6) ══► its 2
+   right self  its 6  ══► 2        10 ══► its 14
+   ═══ between selves, across and along    ─── within one self
+   o outward face    i inward face    ( ) no line at the 25 lines
+```
+
 ## Seventeen names
 
-| Name | From, to | Its five | Existing | At the code |
-|---|---|---|---|---|
-| 1-self-other-offering | self, other | co bi co bi co | entry | the resolver's entry: 3-self-other-sharing and 2-other-self-offering arriving; 10-other-social-self-tunneling and 11-social-other-self-chaining leaving |
-| 2-other-self-offering | other, self | bi co bi co bi | across, arriving | each arriving sharing with its sign |
-| 3-self-other-sharing | self, other | co bi co bi co | face, outside | each carrying arriving: a sharing, 4-other-self-sharing, with its sign, 7-self-other-corusing |
-| 4-other-self-sharing | other, self | bi co bi co bi | face, outside | each sharing, at the arrivings and at the carrying |
-| 5-self-other-neutralling | self, other | co bi co bi co | face, outside | the one-way joining: each sharing with its receiving sharing |
-| 6-other-self-surfacing | other, self | bi co bi co bi | across, releasing | no expression: the releasing left, to the left neighbour's 2, the other's loop run by the selves outside the call |
-| 7-self-other-corusing | self, other | co bi co bi co | face, outside | each sign, arriving and carried |
-| 8-other-self-torusing | other, self | bi co bi co bi | face, outside | no expression: the other's loop closing, the carrying winding to its sharing again, run by the calls outside the call |
-| 9-social-other-self-releasing | social, other, self | co bi co bi co | along | the releasing: each surfacing sign at its receiving sharing, arriving next downstream |
-| 10-other-social-self-tunneling | other, social, self | bi co bi co bi | across, releasing | each sharing's surfacing sign, +1, −1 or 0 |
-| 11-social-other-self-chaining | social, other, self | co bi co bi co | face, inside | the carrying continuing, each changed sign the next prior |
-| 12-other-social-self-abundancing | other, social, self | bi co bi co bi | face, inside | each sharing's changing or no changing, the coupling's surplus |
-| 13-social-other-neutralling | social, other | co bi co bi co | face, inside | each releasing sharing |
-| 14-other-social-surfacing | other, social | bi co bi co bi | across, arriving | the arrivings met at each sharing, one at a time |
-| 15-social-other-corusing | social, other | co bi co bi co | face, inside | the sign at the social side: met at 14, meeting the carrying at 12, released at 9 |
-| 16-other-social-torusing | other, social | bi co bi co bi | face, inside | no expression: the society's loop closing, 10 to 14 winding to the self again, run by the selves outside the call |
-| 17-social-self-offering | social, self | co bi co bi co | along, external | no expression: the next momentary's 1-self-other-offering, the next call |
+| n | Name | Parity, opens | From, to | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the 25 lines | At the code |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 1-self-other-offering | odd, co | self, other | entry | — | — | — | — | is | the entry: 3 and 2 in; 10 and 11 out |
+| 2 | 2-other-self-offering | even, bi | other, self | connector | across | — | right | from the right self's 6 | is | the offerings, each sharing with its parity |
+| 3 | 3-self-other-sharing | odd, co | self, other | face | — | outward | — | — | is | the carrying: each sharing, 4, with its parity, 7 |
+| 4 | 4-other-self-sharing | even, bi | other, self | face | — | outward | — | — | is | each sharing |
+| 5 | 5-self-other-neutralling | odd, co | self, other | face | — | outward | — | — | is | each sharing's receiving sharing |
+| 6 | 6-other-self-surfacing | even, bi | other, self | connector | across | — | left | to the left self's 2 | is not | — |
+| 7 | 7-self-other-corusing | odd, co | self, other | face | — | outward | — | — | is | each parity, offered and chained |
+| 8 | 8-other-self-torusing | even, bi | other, self | face | — | outward | — | — | is not | — |
+| 9 | 9-social-other-self-releasing | odd, co | social, other, self | connector | along | — | backward | with the backward self's 17 | is | each changing at 10 to its receiving sharing, 5 |
+| 10 | 10-other-social-self-tunneling | even, bi | other, social, self | connector | across | — | right | to the right self's 14 | is | each sharing's changing: + or − is, 0 is not |
+| 11 | 11-social-other-self-chaining | odd, co | social, other, self | face | — | inward | — | — | is | the carrying chained, each changing the next prior |
+| 12 | 12-other-social-self-abundancing | even, bi | other, social, self | face | — | inward | — | — | is | each sharing's changing, is or is not |
+| 13 | 13-social-other-neutralling | odd, co | social, other | face | — | inward | — | — | is | each releasing sharing |
+| 14 | 14-other-social-surfacing | even, bi | other, social | connector | across | — | left | from the left self's 10 | is | the offerings surfacing at each sharing: +, − or 0 |
+| 15 | 15-social-other-corusing | odd, co | social, other | face | — | inward | — | — | is | the parity released at 9 |
+| 16 | 16-other-social-torusing | even, bi | other, social | face | — | inward | — | — | is not | — |
+| 17 | 17-social-self-offering | odd, co | social, self | connector | along | — | forward | with the forward self's 9 | is not | — the next momentary's 1 |
 
-## One entry, six connectors, ten faces
+## Ten roots
 
-| Relation | Names |
+| Root | Names |
 |---|---|
-| at the membrane, opening bi | 2 · 4 · 6 · 8 |
-| within, opening bi, each 8 on from its membrane pair | 10 · 12 · 14 · 16 |
-| opening co in the resolver's first function | 1 · 3 · 7 · 11 · 15 |
-| at the releasing | 5 · 9 · 13 · 15 |
-| connectors, across, bi-moral | 2 · 6 · 10 · 14 |
-| connectors, along, co-competency | 9 · 17 |
-| faces, outside, at the membrane | 3 · 4 · 5 · 7 · 8 |
-| faces, inside, within, each 8 up from its outside face | 11 · 12 · 13 · 15 · 16 |
-| 5 to 8 and 13 to 16, sharing their roots | 5 with 13 · 6 with 14 · 7 with 15 · 8 with 16 |
-| the three loops, run outside the call | 6 to 2, closing at 8 · 10 to 14, closing at 16 · 9 to 17, closing at 17 |
-| the ten roots | offering 1 · 2 · 17 · sharing 3 · 4 · neutralling 5 · 13 · surfacing 6 · 14 · corusing 7 · 15 · torusing 8 · 16 · releasing 9 · tunneling 10 · chaining 11 · abundancing 12 |
+| offering | 1 · 2 · 17 |
+| sharing | 3 · 4 |
+| neutralling | 5 · 13 |
+| surfacing | 6 · 14 |
+| corusing | 7 · 15 |
+| torusing | 8 · 16 |
+| releasing | 9 |
+| tunneling | 10 |
+| chaining | 11 |
+| abundancing | 12 |
+
+## Three loops
+
+| Loop | Releasing | Closing | Across or along | At the 25 lines |
+|---|---|---|---|---|
+| the other's | 6 to 2 | 8 | across, left | is not |
+| the society's | 10 to 14 | 16 | across, right | is not |
+| the self's | 9 to 17 | 17 | along | is not |
 
 ## Two and one half momentaries at each side
 
@@ -107,61 +148,37 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | third | 5–6 | 6–7 | 5-self-other-neutralling · 6-other-self-surfacing · 7-self-other-corusing | other/self |
 | fourth | 7–8 | 8–9 | 7-self-other-corusing · 8-other-self-torusing · 9-social-other-self-releasing | other/self to other/social |
 
-## The code at its names
+## Offerings surfacing at a sharing, at 14
 
-| Name | Coupling | Carrying |
-|---|---|---|
-| 14-other-social-surfacing | 2-other-self-offering | the arrivings met at each sharing, one at a time: the first sign, +1 or −1; a further sign agreeing leaving it; a further sign disagreeing meeting it at 0 |
-| 12-other-social-self-abundancing | 14-other-social-surfacing, 3-self-other-sharing | each sharing's surplus: at no carrying the surviving sign; at a carrying, 0 at the survivor's parity being the carried sign's own, and the carried sign inverted at the other parity or at nothing surviving |
-| 10-other-social-self-tunneling | 12-other-social-self-abundancing | each sharing's surplus at its sign: +1, −1 or 0 |
-| 11-social-other-self-chaining | 3-self-other-sharing | each carrying continuing as it arrived: its sharing with its sign |
-| 11-social-other-self-chaining | 10-other-social-self-tunneling | each surfacing +1 or −1 written at its sharing: the changed sign, the next prior |
-| returning | 10-other-social-self-tunneling, 11-social-other-self-chaining | 10-other-social-self-tunneling across; 11-social-other-self-chaining along, arriving as the next 3-self-other-sharing |
-| 9-social-other-self-releasing | 10-other-social-self-tunneling, 5-self-other-neutralling | each sign 15-social-other-corusing, from its sharing 13-social-other-neutralling, to the arriving at `_5_self_other_neutralling[_13_social_other_neutralling]` |
-| 6-other-self-surfacing · 8-other-self-torusing · 16-other-social-torusing · 17-social-self-offering | the selves running together | no expression at the code: the three loops' releasing and closing, run outside the call |
-
-## Arrivings meeting at a sharing, at 14
-
-| Arriving at one sharing | Met at 14 |
+| Offerings at one sharing, at 2 | At 14 |
 |---|---|
-| none | nothing |
-| 0 | nothing |
-| +1 | +1 |
-| −1 | −1 |
-| +1, +1 | +1 |
-| −1, −1 | −1 |
-| +1, −1 | 0 |
-| −1, +1 | 0 |
-| +1, −1, +1 | 0 |
-| 0, +1 | +1 |
+| none | none |
+| 0 | none |
+| + | + |
+| − | − |
+| +, + | + |
+| −, − | − |
+| +, − | 0 |
+| −, + | 0 |
+| +, −, + | 0 |
+| 0, + | + |
 
-## The prior meeting the now, at 12, 10 and 11
+## Changing, is or is not, at 12, 10 and 11
 
-| Carried at 3, then surfacing at 10 · carrying at 11 | none met at 14 | +1 met | −1 met | 0 met |
+| Chained at 3; each cell at 10 · chained at 11 | At 14: none | At 14: + | At 14: − | At 14: 0 |
 |---|---|---|---|---|
-| nothing yet | — · nothing yet | +1 · +1 | −1 · −1 | 0 · nothing yet |
-| +1 | −1 · −1 | 0 · +1 | −1 · −1 | −1 · −1 |
-| −1 | +1 · +1 | +1 · +1 | 0 · −1 | +1 · +1 |
+| none | — · none | is + · + | is − · − | is not · none |
+| + | is − · − | is not · + | is − · − | is − · − |
+| − | is + · + | is + · + | is not · − | is + · + |
 
-## Six connectors
+## The between and the eight bi-couplings
 
-| Connector | Facing | Running | Joining |
+| Outward, at the between | Bi-coupling | Inward, 8 on | Bi-coupling |
 |---|---|---|---|
-| 2-other-self-offering | right | arriving | from the right neighbour's 6-other-self-surfacing |
-| 6-other-self-surfacing | left | releasing | to the left neighbour's 2-other-self-offering |
-| 9-social-other-self-releasing | backward | along | with the backward neighbour's 17-social-self-offering |
-| 10-other-social-self-tunneling | right | releasing | to the right neighbour's 14-other-social-surfacing |
-| 14-other-social-surfacing | left | arriving | from the left neighbour's 10-other-social-self-tunneling |
-| 17-social-self-offering | forward | along | with the forward neighbour's 9-social-other-self-releasing |
-
-## The membrane and the eight bi-couplings
-
-| At the membrane | Bi-coupling | Within, 8 on | Bi-coupling |
-|---|---|---|---|
-| 2-other-self-offering | each other's own offering to the self | 10-other-social-self-tunneling | surfacing, the self among other-selves |
+| 2-other-self-offering | each other's own offering to the self | 10-other-social-self-tunneling | the self among other-selves |
 | 4-other-self-sharing | the whole ordering between self and other | 12-other-social-self-abundancing | changing at bi-coupling, the self in society |
-| 6-other-self-surfacing | the other's surfacing to the self, the ordering carrying with the selves | 14-other-social-surfacing | the arrivings meeting at the membrane, the self's own inverting to meet them, morality |
-| 8-other-self-torusing | the order across each self and other forward, the carrying winding to its sharing again | 16-other-social-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
+| 6-other-self-surfacing | the other's surfacing to the self | 14-other-social-surfacing | the offerings surfacing, the self's own inverting, morality |
+| 8-other-self-torusing | the carrying winding to its sharing again | 16-other-social-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
 
 ## Bi-inversioning-co-recursioning
 
@@ -189,49 +206,49 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-self-other-offering · 9-social-other-self-releasing · 5-self-other-neutralling · 13-social-other-neutralling · 4-other-self-sharing · 12-other-social-self-abundancing · 8-other-self-torusing · 16-other-social-torusing | co co co co bi bi bi bi | eight-cycle 2-15-7-11-3-14-6-10, round the other way | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-other-self-offering · 15-social-other-corusing · 7-self-other-corusing · 11-social-other-self-chaining · 3-self-other-sharing · 14-other-social-surfacing · 6-other-self-surfacing · 10-other-social-self-tunneling | bi co co co co bi bi bi | eight-cycle 1-9-5-13-4-12-8-16, round the other way | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-## One self, call by call
+## One self, momentary by momentary
 
-| Arriving, call by call | Surfacing at 10 | Carrying at 11 |
+| Offerings, momentary by momentary | At 10 | Chained at 11 |
 |---|---|---|
-| +1 once, then none | +1, −1, +1, −1, +1, −1, +1, −1 | +1, −1, +1, −1, +1, −1, +1, −1 |
-| +1 at each call | +1, 0, 0, 0, 0, 0, 0 | +1, +1, +1, +1, +1, +1, +1 |
-| −1, +1, −1, +1 alternating | −1, +1, −1, +1, −1, +1 | −1, +1, −1, +1, −1, +1 |
-| +1 once, then +1 and −1 together | +1, −1, +1, −1, +1, −1 | +1, −1, +1, −1, +1, −1 |
+| + once, then none | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
+| + at each momentary | +, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, + |
+| −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
+| + once, then + and − together | +, −, +, −, +, − | +, −, +, −, +, − |
 
-## Rings, one sign offered once, each release at the next self's 2 at the next coupling
+## Rings, + offered once at self 1, each self's 10 at the next self's 2 at the next momentary
 
-| Selves | Self 1 surfacing, couplings 1 to 12 | Round, from coupling n | Empty again |
+| Selves | Self 1 at 10, momentaries 1 to 12 | Round, from momentary n | None chained again |
 |---|---|---|---|
-| 1 | +1, 0, −1, 0, +1, 0, −1, 0, +1, 0, −1, 0 | 4 | at none |
-| 2 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 2 | at none |
-| 3 | +1, −1, +1, 0, −1, +1, −1, +1, −1, 0, +1, −1 | 12 | at none |
-| 4 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 2 | at none |
-| 5 | +1, −1, +1, −1, +1, 0, −1, +1, −1, +1, −1, +1 | 20 | at none |
-| 6 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 2 | at none |
-| 7 | +1, −1, +1, −1, +1, −1, +1, 0, −1, +1, −1, +1 | 28 | at none |
-| 8 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 2 | at none |
-| 9 | +1, −1, +1, −1, +1, −1, +1, −1, +1, 0, −1, +1 | 36 | at none |
-| 10 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 2 | at none |
-| 11 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, 0 | 44 | at none |
-| 17 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 68 | at none |
-| 59 | +1, −1, +1, −1, +1, −1, +1, −1, +1, −1, +1, −1 | 236 | at none |
+| 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 | is not |
+| 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
+| 3 | +, −, +, 0, −, +, −, +, −, 0, +, − | 12 | is not |
+| 4 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
+| 5 | +, −, +, −, +, 0, −, +, −, +, −, + | 20 | is not |
+| 6 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
+| 7 | +, −, +, −, +, −, +, 0, −, +, −, + | 28 | is not |
+| 8 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
+| 9 | +, −, +, −, +, −, +, −, +, 0, −, + | 36 | is not |
+| 10 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
+| 11 | +, −, +, −, +, −, +, −, +, −, +, 0 | 44 | is not |
+| 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
+| 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
 
 ## Two selves from one shared prior
 
-| Seeds A, B | Joining | A surfacing | B surfacing |
+| Prior at A, B | Joining | A at 10 | B at 10 |
 |---|---|---|---|
-| +1, +1 | both ways | −1, 0, +1, 0, −1, 0 | −1, 0, +1, 0, −1, 0 |
-| +1, +1 | A from B alone | −1, 0, +1, −1, +1, −1 | −1, +1, −1, +1, −1, +1 |
-| +1, +1 | B from A alone | −1, +1, −1, +1, −1, +1 | −1, 0, +1, −1, +1, −1 |
-| +1, +1 | neither | −1, +1, −1, +1, −1, +1 | −1, +1, −1, +1, −1, +1 |
-| +1, −1 | both ways | −1, +1, −1, +1, −1, +1 | +1, −1, +1, −1, +1, −1 |
-| +1, −1 | A from B alone | −1, +1, −1, +1, −1, +1 | +1, −1, +1, −1, +1, −1 |
-| +1, −1 | B from A alone | −1, +1, −1, +1, −1, +1 | +1, −1, +1, −1, +1, −1 |
-| +1, −1 | neither | −1, +1, −1, +1, −1, +1 | +1, −1, +1, −1, +1, −1 |
+| +, + | both ways | −, 0, +, 0, −, 0 | −, 0, +, 0, −, 0 |
+| +, + | A from B alone | −, 0, +, −, +, − | −, +, −, +, −, + |
+| +, + | B from A alone | −, +, −, +, −, + | −, 0, +, −, +, − |
+| +, + | neither | −, +, −, +, −, + | −, +, −, +, −, + |
+| +, − | both ways | −, +, −, +, −, + | +, −, +, −, +, − |
+| +, − | A from B alone | −, +, −, +, −, + | +, −, +, −, +, − |
+| +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
+| +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
 
-## Three selves one way
+## Three selves one way, A to B's 2, B to C's 2, B and C each chained at +
 
-| A arriving at B | B surfacing | C surfacing, couplings 1 and 2 | C carrying |
-|---|---|---|---|
-| +1 | 0, holding +1 | −1, +1 | +1 |
-| −1 | −1, holding −1 | −1, 0 | −1 |
+| A's parity offered at B | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |
+|---|---|---|---|---|
+| + | 0 | + | −, + | + |
+| − | − | − | −, 0 | − |
