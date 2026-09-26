@@ -361,3 +361,7 @@ The expedition's lead: no left-hand living spirals, growing the co-sequential ri
 
 The expedition's lead: the observings carry all the authority and the living files none, the files' explaining kept apart from the pattern matching. The session report re-written whole in two strata, Part One the observings numbered at their sources and at what was read, Part Two the pattern matching answering to them by number, a file's sentence named only as the place a match would enter, Part Three the observings standing against sentences of the set, four standing, whole cells crossing a membrane, a size at the sign, a living surface of two handles and living forks, two tensions met at a reading, two field exchanges at 0, and the numerals released; no observing met stood against the fractal method's whole.
 
+## Two conceptions, two bi-couplings (v374)
+
+The expedition's lead: a membrane is a nothing unrelationing between, and two carryings in one self are two conceptions, two separated bi-couplings, at an identical parity momentary or a later same-parity momentary. Met at the brown hare's superconception, superfecundation, the tetragametic chimera and the fetal cells found in mothers by their own Y chromosome, laid at the carrying's Natural Medicine section in two strata, and at the report's observings 38 to 41 and its matching; the first observing standing against a sentence, whole cells in another self, met at a reading with the observings answering, for both.
+

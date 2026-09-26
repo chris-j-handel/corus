@@ -45,6 +45,13 @@ Each observing is numbered for the matching to answer to, with its source and wh
 23. A cytoplasmic oscillation continues in *Xenopus* eggs with the period of the division cycle even with no nucleus (Hara, Tydeman and Kirschner, PNAS 1980, at its title); the first twelve cleavages run fast and together until the midblastula transition, where cycles lengthen and part and the embryo's own transcription opens, at a ratio of nuclear material to cytoplasm (Newport and Kirschner, Cell 1982, at its title).
 24. The heart's own beat opens at about the third week after conception; the fetus secretes no melatonin, the mother's crossing the placenta; the infant's own day rhythms open over weeks to months, and the mother's milk carries melatonin at night (Journal of Physiological Anthropology 2022, at passages); mothers and three-month-old infants coordinate heart rhythms during face-to-face synchrony (Feldman and colleagues, 2011, at its title).
 
+## Two conceptions
+
+38. European brown hares conceive again at days 36 to 41 of a pregnancy, just before birth, at 54.4% of the pregnancies where it was possible in captivity and about 43% in the wild, early embryos in the oviduct beside fully grown fetuses, the second set implanting after the first litter is born, up to 35.4% more offspring a season (Roellig and colleagues, Nature Communications 2010, at passages).
+39. Two or more eggs of one cycle can be fertilized by sperm of one or different males, the egg viable 12 to 48 hours and sperm up to five days; heteropaternal at 2.4% of fraternal twins in paternity disputes; common in cats and dogs (encyclopedia account).
+40. Two zygotes can fuse early into one person, each cell line keeping its own zygote's genome, the tetragametic chimera (encyclopedia account; the Keegan and Fairchild cases); a woman with two blood types carried her twin brother's cells (1953, the same account).
+41. The fetal cells found in mothers of sons are found by the fetus's own Y chromosome, their own conception's genome (Bianchi and colleagues, 1996, at its title and method).
+
 ## Across fields
 
 25. Each atomic orbital carries at most two electrons, of opposite spin; periodic table rows run 2, 8, 8, 18, 18, 32, 32; nitrogen dioxide, an odd-electron radical, pairs to dinitrogen tetroxide; crystals intergrow at twin laws, a reflection or a rotation; Pasteur hand-sorted mirror-image tartrate crystals (the field's accounts).
@@ -90,6 +97,13 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - The egg's alternating after one conception is the lock: a second sign at the inverted phase changes nothing, at the carried phase it makes one changing absent (the code runs). Matched at 19 and 20, the membrane's sign inverting and the oscillation, and at 21, the lock skipped and the first bi-folding skipped with it, twinning arriving.
 - Egg and sperm each one circle of two changings, the two read forward along their overlap running the four joint forms round, the torus at two signs (the code runs), matched at 22: the parental sets continuing two, side by side, at each cell after.
 
+## Two conceptions, two bi-couplings (12, 21, 38–41)
+
+- The expedition's lead: a membrane is a nothing unrelationing between, and where two carryings are observed in one self there were two conceptions, two separated bi-couplings, at an identical parity momentary or at a later momentary of the same parity.
+- At an identical momentary: two eggs of one cycle entered by two fathers' sperm, two bi-couplings, the fraternal pair (39); one egg entered twice, two bi-couplings at one egg, the sesquizygotic pair (21); two zygotes continuing as one person, two bi-couplings and one self, twinning's inverse, each cell line differing at its own sharings (40).
+- At a later same-parity momentary, two on along the mother's side: the hare's second conception at the next ovulation, two conceptions' embryos at two stages in one mother (38); each child's cells continuing in the mother across her pregnancies (12, 41).
+- Each such cell carries its own conception's genome (40, 41): no carrying crosses the nothing between, and the cell is a self of its own conception continuing in another self's society. The place: Natural Biology's *Every self is a society of selves*.
+
 ## The conceived's own pacing, and the source of parity changing (23–31)
 
 - The conceived alternates at its mother's calls and its own pacing opens later at each grain, matched at 23 and 24. At the code, two resolvers from one shared prior, then one changing absent and the two opposite, self and other (the code runs).
@@ -106,9 +120,9 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 
 # Part Three · Observings standing against sentences of the set
 
-The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stand against particular sentences, and the readings offered for them are this session's own and carry no authority until matched at further observings.
+The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stood against particular sentences; the first is met at a reading with observings answering, and three stand. The readings offered are this session's own and carry no authority until matched at further observings.
 
-1. **Whole cells crossing a membrane and continuing (12, 21).** Against *only a sign crosses* at a membrane, at Exhibit ONE and at Natural Biology's *No self touches another directly*: fetal cells continuing in mothers for decades, marmoset twins' shared germlines, the freemartin, a second sperm entering one egg. Reading offered: the crossing cell a self arriving at a coupling of its own; and the mother's carrying continuing the conceived's sharing, *opened, it never empties*. Standing.
+1. **Whole cells in another self (12, 21, 38–41), met at a reading, the observings answering.** Against *only a sign crosses* at a membrane: fetal cells continuing in mothers, marmoset twins' shared germlines, the freemartin, a second sperm entering one egg. Met at the lead that a membrane is a nothing unrelationing between and two carryings in one self are two conceptions, two bi-couplings: each such cell carries its own conception's genome (40, 41), no carrying crossing the nothing, a self of its own conception in another self's society. For both.
 2. **A size at the sign (1, 4).** Against *a sign and no size*: the repeatable, predicted losses of copies, and copy number slowing adaptation, which the field reads at dosage and proportion. No reading offered carries a proportion at a sharing. Standing.
 3. **A living surface of two handles (10, 13).** Against *one opening, one tunnel, one genus* at Natural Intelligence's *Wrapping, opening by one*: conjoined twins living with one skin over two bodies each carrying its own gut. Reading offered: differing where two, agreeing where one, per sharing, with no partway. Standing.
 4. **Living forks (5, 14, 21).** Against Natural Mathematics' *a false expression … forks* and Exhibit THIRTY's *the network carries no copying*: each cell division continues one carrying as two, and twinning is a fork. Reading offered: the fork at the calls outside the call, pass F. Standing.
