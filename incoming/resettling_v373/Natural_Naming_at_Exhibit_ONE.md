@@ -17,6 +17,8 @@ Natural Naming at Exhibit ONE · session v373
 
 ## 1 Where Exhibit ONE stands
 
+**At the working's branch, three of the four standings below are met: Exhibit ONE v373 at the root, Natural Intelligence v373 cohered, and the released sentences whole at `Exhibit_ONE_v372_Released.md`, each named for its receiving files at the carrying; the words across the set re-say at each file's own motion.**
+
 **Exhibit ONE's improving is complete at its candidate and not yet complete at the set.** The candidate carries the code at the seventeen names and its forms, each run form written by running the code, and every check passes. Four things stand before it is Exhibit ONE v373 at the root, do-no-harm, no prior taken away:
 
 | Standing before v373 | Why it stands |
