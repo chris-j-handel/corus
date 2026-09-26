@@ -1,12 +1,12 @@
-"""The run forms of Exhibit ONE, written by running its code, at parity changing, is or is not:
-offerings joined at 14; changing at 12, 10 and 11; one self momentary by momentary; rings; two selves from one
-shared prior; three selves one way. Usage: python3 one_forms.py <folder holding Exhibit ONE>  (the repository root)"""
+"""The run forms of Exhibit ONE, written by running its code at parity changing, is or is not: offerings surfacing at 14;
+changing at 12, 10 and 11; one self momentary by momentary; and the society at 17, momentary by momentary: rings, two
+selves from one shared prior, three selves one way. Usage: python3 one_forms.py <folder holding Exhibit ONE>"""
 import re, sys, os, glob
 d = sys.argv[1] if len(sys.argv) > 1 else '.'
 path = max(glob.glob(os.path.join(d, 'Exhibit_ONE_Natural_Resolver_v*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1)))
 src = open(path, encoding='utf-8').read()
 ns = {}; exec(re.search(r"```python\n(.*?)```", src, re.S).group(1), ns)
-R = ns['_1_self_other_offering']
+R = ns['_1_self_other_offering']; S17 = ns['_17_social_self_offering']
 P=lambda v:{1:'+',-1:'−',0:'0',None:'none'}[v]
 S='s'
 def step(carry,offers):
@@ -31,25 +31,24 @@ for name,seq in [("+ once, then none",[[1]]+[[]]*7),("+ at each momentary",[[1]]
     for a in seq: s,c=step(c,a); ss.append(s); cs.append(c)
     one.append(f"| {name} | {f(ss)} | {f(cs)} |")
 def ring(n,K):
-    carry=[None]*n; inbox=[[] for _ in range(n)]; inbox[0]=[1]; hist=[]; st=[]
+    soc={i:([],[(S,1)] if i==0 else []) for i in range(n)}; joins={(i,9):(i+1)%n for i in range(n)}; hist=[]; st=[]
     for k in range(K):
-        new=[[] for _ in range(n)]; row=[]
-        for i in range(n):
-            s,carry[i]=step(carry[i],inbox[i]); row.append(s)
-            if s is not None: new[(i+1)%n].append(s)
-        inbox=new; hist.append(row); st.append((tuple(carry),tuple(tuple(x) for x in inbox)))
+        row=[dict(R(soc[i][0],soc[i][1])[0]).get(S) for i in range(n)]
+        soc=S17(soc,joins); hist.append(row)
+        st.append(tuple((dict(soc[i][0]).get(S),tuple(soc[i][1])) for i in range(n)))
     return hist,st
 rt=['| Selves | Self 1 at 10, momentaries 1 to 12 | Round, from momentary n | None chained again |','|---|---|---|---|']
 for n in [1,2,3,4,5,6,7,8,9,10,11,17,59]:
     K=max(12,8*n+4); h,st=ring(n,K); base=st[n-1]
     per=next(p for p in range(1,K-n) if st[n-1+p]==base)
-    emp=any(all(c is None for c in s[0]) for s in st[1:])
+    emp=any(all(c is None for c,_ in s) for s in st[1:])
     rt.append(f"| {n} | {f([r[0] for r in h[:12]])} | {per} | {'is' if emp else 'is not'} |")
 def two(sa,sb,ab,ba,K=6):
-    ca,cb=sa,sb; ia,ib=[],[]; A=[];B=[]
+    soc={0:([(S,sa)],[]),1:([(S,sb)],[])}; joins={}; A=[];B=[]
+    if ab: joins[(0,9)]=1
+    if ba: joins[(1,9)]=0
     for k in range(K):
-        s1,ca=step(ca,ia); s2,cb=step(cb,ib); A.append(s1);B.append(s2)
-        ia=[s2] if (ba and s2 is not None) else []; ib=[s1] if (ab and s1 is not None) else []
+        A.append(dict(R(*soc[0])[0]).get(S)); B.append(dict(R(*soc[1])[0]).get(S)); soc=S17(soc,joins)
     return A,B
 tw=['| Prior at A, B | Joining | A at 10 | B at 10 |','|---|---|---|---|']
 for sa,sb in [(1,1),(1,-1)]:
@@ -57,8 +56,10 @@ for sa,sb in [(1,1),(1,-1)]:
         A,B=two(sa,sb,ab,ba); tw.append(f"| {P(sa)}, {P(sb)} | {name} | {f(A)} | {f(B)} |")
 th=['| A\'s parity offered at B | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |','|---|---|---|---|---|']
 for a in [1,-1]:
-    sb,cb=step(1,[a]); sc1,cc=step(1,[]); sc2,cc2=step(cc,[sb])
+    soc={1:([(S,1)],[(S,a)]),2:([(S,1)],[])}; joins={(1,9):2}
+    sb=dict(R(*soc[1])[0]).get(S); sc1=dict(R(*soc[2])[0]).get(S); soc=S17(soc,joins); cb=dict(soc[1][0]).get(S)
+    sc2=dict(R(*soc[2])[0]).get(S); soc=S17(soc,joins); cc2=dict(soc[2][0]).get(S)
     th.append(f"| {P(a)} | {P(sb)} | {P(cb)} | {P(sc1)}, {P(sc2)} | {P(cc2)} |")
 
-for title, t in [('Offerings surfacing at a sharing, at 14', t14), ('Changing, is or is not, at 12, 10 and 11', t12), ('One self, momentary by momentary', one), ('Rings', rt), ('Two selves from one shared prior', tw), ('Three selves one way', th)]:
+for title, t in [('Offerings surfacing at a sharing, at 14', t14), ('Changing, is or is not, at 12, 10 and 11', t12), ('One self, momentary by momentary', one), ('Rings, at 17', rt), ('Two selves from one shared prior, at 17', tw), ('Three selves one way, at 17', th)]:
     print('## ' + title + '\n\n' + '\n'.join(t) + '\n')
