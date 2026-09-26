@@ -110,6 +110,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Opportunity, the whole fractal and its arithmetic expressions.** Meet THIRTY F83–F88 with the actual co-momentarying at 8.8. The whole 1–17 inward and outward remains the common subject. The base-sixteen walk, the nested pairs and the eightfold momentary scaling each state their own operation. Their equal endpoint counts at 65 and 4,097 supply a cardinality relation; the correspondence of prior, now, next and each side's continuing needs its actual explaining. The rendering's schedule supplies no clock or rule to natural resolving.
 
+**Incoming, twinning at *Tipping, and the two parities exchanging*, one sentence and no new naming (v374).** Twinning carries no changing the file does not already name: a doubling is one changing, and at the next momentary each continuation changes or does not; agreeing, the count even, uni-exchanging, the self re-forming one on, not-twinning; differing, the exclusive or, the count odd at the pair, bi-exchanging, two particular selves, twinning. At Natural Naming's *a naming at a changing already named releases to the one name*, it enters as one sentence at this section beside the exclusive or, the field's *twinning* carrying whole at the field's results, and no section or naming added. *Tipping, and the two parities exchanging* stands outside pass A's list, so it enters at a motion of its own.
+
 ## Natural Intelligence Corus
 
 **Next at this file: none before its receivings, pass G.** It carries no sentence of the code; the opportunities below stand.
@@ -172,6 +174,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 **Opportunity, the expressions inside the whole.** Meet the numbered 1–9, 9–17 and 1–17 expressions with their inward and outward fractals. Their correspondence must keep the whole social moral relation apparent at the code, names, tables and illustrations. No new connector or internal operation is implied by this clarifying.
 
 **Incoming, counts and connectors at THIRTY.** F88's 3, 6 and 9 count inside steps before specified arrivals. Their correspondence with the releasing named at F87 meets the actual operations; a count of three supplies no connector at 3-self-other-sharing. Preserve the six connectors 2, 6, 9, 10, 14 and 17. The nineteen carryings were the old code's, a sharing being at one of three at v372; two signs arriving together at one sharing meet as one, agreeing one sign and disagreeing 0; and no private carrying is constructed, inspected or reset in a natural-network exploration.
+
+**For both, at pass F: a carrying continuing two ways.** The code runs one self's one call, and *a new living self is a further self with its own continuing coupling*, the code writing signs and making no resolver. Twinning, and each cell division, is one returned 11-social-other-self-chaining given as the 3-self-other-sharing of two next calls, a caller's composition at the fractal outside the call. Exhibit THIRTY's W85 says the forking belongs to the instrument and the network carries no copying, and Natural Biology's *DNA replication and repair* says the self copies itself: at pass F the two meet, whether a carrying continuing two ways is the living's own at the calls outside the call or the instrument's alone. Its reason: each division of a living cell continues one prior as two, and the set says it at two files with opposite signs.
 
 ## Exhibit TWO · Natural Networking
 
@@ -751,6 +755,10 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Concern, for both, at 9.36.** Chen and colleagues and Marcussen and Meseguer arrive at one sharing, duplication clustering at environmental upheaval, with opposite signs: they meet at 0, and nothing of either enters the resolving until both are met at their passages, the reply's five issues read. Its reason: the one side and the other side are both the field's, and neither is read whole here.
 
+**Incoming, twinning at the parity wall, 176 and 3.14 (v374).** The set's twin primes entry carries *the same parity wall*: in the field's words sieve methods cannot distinguish integers with an even count of prime factors from those with an odd count, Selberg's parity problem, and the nearest the sieve reaches is Chen's theorem, infinitely many primes p with p + 2 a prime or a product of two primes. At the pair of changings the wall is twinning's own parity: p + 2 with one prime factor, a self no smaller selves join into, or with two, two selves joined, one factor against two, odd against even, and the sieve's instrument, summing where the counting takes its sign, meets no sign there. A reading at the resolving entry, the field's theorems carried whole; 3.14's *the arriving pairs are the coupling running regardless* continues.
+
+**Incoming, the twin as instrument at 27 Heritability and 44 Missing heritability (v374).** The field's twin designs compare identical and fraternal pairs, and the entry names their assumption: equal environments and no gene-environment interaction, the estimate inflated where these fail. At the code two continuations of one carrying surface alike at the same arrivings and differ at the exclusive or of their changings, one changing and the other not at an arriving of its own parity: the equal-environments assumption is the assumption that the pair's arrivings agree, and the differing at the pair is the arrivings', no share of a variance. Natural Networking's twin, an observing at no position, meets the field's twin design here, the observing the same and the accounting laid over it the field's.
+
 ## Exhibit TWENTY-THREE · Natural Values
 
 **Next at this file: pass G.**
@@ -871,6 +879,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 The registered relation is carried at TWENTY-SIX. This detailed correspondence remains at its receiving until the current names, counted subjects and actual passages have met; its earlier section coordinates name the passage to find, not a completed updating.
 
 **Opportunity, observed membership and further correspondence.** THIRTY LS7 and LS11 locate the particular filled and unfilled entry lines; LS6 and LS12 keep the observing's grain and its further substrate correspondence apparent. Pair source addresses with the Ghost registry and the logical links with THIRTY while retaining this registry's particular society, members, observing and upstream conditions. The file set as a society receives its own entry only at its actual relations.
+
+**Incoming, a clonal brood as a society (v374).** The wasp *Copidosoma floridanum* develops from one egg as a brood of up to about three thousand clonal embryos within its host, soldiers and reproducers among them, the soldiers defending their clonal siblings and reproducing at none: a society whose members are one conceiving continuing many ways, at the twinning at each doubling, its castes at the host's own moulting at the field's account. A candidate entry at the society schema, members, fixed, agreement and observing met at the entry's actual lines.
 
 ## Exhibit TWENTY-SIX · Living File Registry
 
