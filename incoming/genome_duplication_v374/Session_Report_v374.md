@@ -12,6 +12,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 - Egg and sperm into one torusing
 - The conceived self's own pacing opening
 - Where living parity changing arrives: sunlight and the plant
+- The life-giving alternating and its arriving
 - Twinning at numbers and mathematics
 - Twinning at biology, medicine and health
 - Twinning societies across fields
@@ -145,6 +146,22 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 
 **A concern at darkness.** At the code a carried sign with nothing arriving inverts at each call; phytochrome in darkness reverts slowly toward Pr and continues there. Either its darkness is no call, its momentaries only at the flashes, or its own alternating runs at a pacing the code's calls do not meet.
 
+## The life-giving alternating and its arriving
+
+**Two alternatings, both named already.** Natural Intelligence: *geodesic discovering changes at its own unrelationing parity-changing rate, unrelated to the living rates of the things it meets*. The unrelationing rate is φ's; the life-giving alternating is at the living rates, the heart, metabolic beating, the day and the tide. The expedition's lead, arriving at this session: the life-giving alternating is a continuation of momentaries and meets an arriving at each.
+
+**At the field, each living rate continues through an arriving:**
+
+| Where | The living rate | Its arriving |
+|---|---|---|
+| Plants in daylight | photosynthesis; the clock's day | sunlight, one photon at a time; the day's starch carried through the night at the clock's pace, running out near dawn |
+| Deep-sea vents, 1,688 m | mussels' 12.4-hour tidal rhythms in 7.4% of transcripts, 2.6% daily | the tide, the vent's temperature and pressure oscillating at its period; in a laboratory light-dark cycle the same mussels turn daily |
+| Deep rock, 1.5–3 km | *Desulforudis audaxviator*, alone in its ecosystem | hydrogen from water split by uranium and thorium decay |
+| A mammal's body | each cell's metabolic beating | the heart's pulse, blood at each beat, the heart paced at its own cells |
+| Sound | no life-giving use recorded | black smokers sound at hydrophones; animals meet sound as a sign, sonar |
+
+**A concern at *Living carries its own cost*.** The file says *arriving costs nothing* and meets *a self's continuing when no fresh sign arrives*; at the code a carried sign alternates with nothing arriving. At the field a living rate stops without its arriving. Either the living rates continue with no arriving and the field's arriving is a coupling at another grain, or a living rate continues only through an arriving and the code's alternating with nothing arriving is the unrelationing rate's alone.
+
 ## Twinning at numbers and mathematics
 
 - **Twin primes at the two and one half momentaries.** A self opens at 1, the other at 2 and the self next at 3: a twin prime pair is a self's prior and now openings, each prime, the other's even opening between; at twinning, two selves at 1 and 3, the second opening a clean axis of its own. A reading at the set's number sentences.
@@ -212,6 +229,7 @@ This report carries what session v374 met, ran and laid, for the expedition's ne
 5. **A carrying continuing two ways**, at Exhibit ONE's pass F: W85's forking the instrument's, and Natural Biology's self copying itself.
 6. **Mothers of twins**, at Natural Health: nineteenth-century Utah reads mothers of twins more fertile and longer lived (Robson and Smith 2011), pre-industrial Europe reads higher twinning propensity at lower fertility (Rickard and colleagues 2022), and a further paper names the last birth (2024): opposite signs meeting at 0.
 7. **Phytochrome in darkness**, at Natural Biology: the code's carried sign inverting at each call with nothing arriving, the field's phytochrome reverting slowly toward Pr and continuing there.
+8. **The living rates and their arriving**, at Natural Intelligence's *Living carries its own cost*: the code's alternating with nothing arriving, and the field's living rates continuing only through an arriving.
 
 The placenta concern strengthens: marmoset twins continue chimeric through shared placental blood, germlines included, and a heifer beside a bull twin is most often a sterile freemartin.
 

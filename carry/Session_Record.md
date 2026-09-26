@@ -337,3 +337,7 @@ The conceived alternating at its mother's calls and its own pacing opening at ea
 
 The living's own alternating met at the mimosa in darkness, the cyanobacterial KaiABC in a test tube, the blind cavefish and life at deep-sea vents, and light's arriving at photosystem II and phytochrome, laid at the carrying's sections for Natural Intelligence and Natural Biology and at the report's section on sunlight and the plant, with a seventh concern for both, phytochrome in darkness. The runs at Exhibit ONE v372's code, sharing phy carrying −1, Pr, red +1 and far-red −1: R carries +1; R-FR, −1; R-FR-R, +1; R-FR-R-FR, −1; R-R, +1; +1 with nothing arriving over four calls carries −1, +1, −1, +1.
 
+## The life-giving alternating and its arriving (v374)
+
+The expedition's lead arriving: the life-giving alternating, at the living rates, is a continuation of momentaries and meets an arriving at each. Met at Natural Intelligence's unrelationing rate and living rates and at Natural Biology's sun-to-leaf-to-cell chain, with the plant's starch through the night, the deep-sea mussels' tidal rhythms, the deep-rock bacterium on radiolysis, the vents' sound and the heart's pulse, laid at the carrying's sections for Natural Intelligence and Natural Biology and at the report, with an eighth concern for both at *Living carries its own cost*.
+
