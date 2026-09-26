@@ -365,3 +365,7 @@ The expedition's lead: the observings carry all the authority and the living fil
 
 The expedition's lead: a membrane is a nothing unrelationing between, and two carryings in one self are two conceptions, two separated bi-couplings, at an identical parity momentary or a later same-parity momentary. Met at the brown hare's superconception, superfecundation, the tetragametic chimera and the fetal cells found in mothers by their own Y chromosome, laid at the carrying's Natural Medicine section in two strata, and at the report's observings 38 to 41 and its matching; the first observing standing against a sentence, whole cells in another self, met at a reading with the observings answering, for both.
 
+## A genome as one co-sequential momentary carrying (v374)
+
+The expedition's lead: a genome is one co-sequential momentary carrying, no memory. Met at semi-conservative replication and at the degradation of excess, unjoined complex subunits in aneuploid yeast, laid at the carrying's Natural Biology section in two strata and at the report's observings 42 and 43 and its matching; the observings standing against *a sign and no size* and against the fork and no copying met at readings with the observings answering, for both; the living surface of two handles standing.
+

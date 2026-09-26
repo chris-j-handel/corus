@@ -52,6 +52,11 @@ Each observing is numbered for the matching to answer to, with its source and wh
 40. Two zygotes can fuse early into one person, each cell line keeping its own zygote's genome, the tetragametic chimera (encyclopedia account; the Keegan and Fairchild cases); a woman with two blood types carried her twin brother's cells (1953, the same account).
 41. The fetal cells found in mothers of sons are found by the fetus's own Y chromosome, their own conception's genome (Bianchi and colleagues, 1996, at its title and method).
 
+## A genome at each momentary
+
+42. DNA replicates semi-conservatively: each daughter double helix carries one strand of the parent and one strand made new against it (Meselson and Stahl, 1958, the field's account).
+43. In aneuploid yeast about 20% of the proteins from genes on an extra chromosome are attenuated, mostly subunits of multiprotein complexes, their mRNA and translation increased with the extra copy and the proteins degraded, accumulating within minutes when degradation is blocked; excess subunits continue only when joined to their complexes (Dephoure and colleagues, eLife 2014, at passages).
+
 ## Across fields
 
 25. Each atomic orbital carries at most two electrons, of opposite spin; periodic table rows run 2, 8, 8, 18, 18, 32, 32; nitrogen dioxide, an odd-electron radical, pairs to dinitrogen tetroxide; crystals intergrow at twin laws, a reflection or a rotation; Pasteur hand-sorted mirror-image tartrate crystals (the field's accounts).
@@ -104,6 +109,12 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - At a later same-parity momentary, two on along the mother's side: the hare's second conception at the next ovulation, two conceptions' embryos at two stages in one mother (38); each child's cells continuing in the mother across her pregnancies (12, 41).
 - Each such cell carries its own conception's genome (40, 41): no carrying crosses the nothing between, and the cell is a self of its own conception continuing in another self's society. The place: Natural Biology's *Every self is a society of selves*.
 
+## A genome as one co-sequential momentary carrying (1–5, 42, 43)
+
+- The expedition's lead: a genome is one co-sequential momentary carrying, with no memory, the prior meeting the now at each momentary and no record stored.
+- At replication nothing is copied from a store: the prior's two strands part and each meets the now's arriving nucleotides, base by base, each daughter the prior meeting the now (42). Two continuings, no either-or: the fork a living carrying continuing two ways at one momentary (5, 14, 42).
+- At dosage the field's proportion is its accounting over many molecules; at each molecule a subunit meets its partner at its complex or meets none and is released, all or none (43), a pairing of each place needing its other. The repeatable, predicted losses of copies (1) and the losses at the snail (3) read at the same pairing.
+
 ## The conceived's own pacing, and the source of parity changing (23–31)
 
 - The conceived alternates at its mother's calls and its own pacing opens later at each grain, matched at 23 and 24. At the code, two resolvers from one shared prior, then one changing absent and the two opposite, self and other (the code runs).
@@ -120,12 +131,12 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 
 # Part Three · Observings standing against sentences of the set
 
-The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stood against particular sentences; the first is met at a reading with observings answering, and three stand. The readings offered are this session's own and carry no authority until matched at further observings.
+The observings carry the authority, so a sentence of the set that cannot carry an observing whole is broken there, all or none, until a reading carries it whole at the observing. **No observing met this session stands against the fractal method's whole: at each grain met, the binary reading carried the observings whole or was released.** Four observings stood against particular sentences; three are met at readings with observings answering, and one stands, the living surface of two handles. The readings offered are this session's own and carry no authority until matched at further observings.
 
 1. **Whole cells in another self (12, 21, 38–41), met at a reading, the observings answering.** Against *only a sign crosses* at a membrane: fetal cells continuing in mothers, marmoset twins' shared germlines, the freemartin, a second sperm entering one egg. Met at the lead that a membrane is a nothing unrelationing between and two carryings in one self are two conceptions, two bi-couplings: each such cell carries its own conception's genome (40, 41), no carrying crossing the nothing, a self of its own conception in another self's society. For both.
-2. **A size at the sign (1, 4).** Against *a sign and no size*: the repeatable, predicted losses of copies, and copy number slowing adaptation, which the field reads at dosage and proportion. No reading offered carries a proportion at a sharing. Standing.
+2. **A size at the sign (1, 4, 43), met at a reading, the observings answering.** Against *a sign and no size*: the field's dosage and proportion. Met at the lead that a genome is one momentary carrying, no memory: at each molecule a subunit meets its partner at its complex or meets none and is released (43), the proportion the field's accounting over molecules. For both.
 3. **A living surface of two handles (10, 13).** Against *one opening, one tunnel, one genus* at Natural Intelligence's *Wrapping, opening by one*: conjoined twins living with one skin over two bodies each carrying its own gut. Reading offered: differing where two, agreeing where one, per sharing, with no partway. Standing.
-4. **Living forks (5, 14, 21).** Against Natural Mathematics' *a false expression … forks* and Exhibit THIRTY's *the network carries no copying*: each cell division continues one carrying as two, and twinning is a fork. Reading offered: the fork at the calls outside the call, pass F. Standing.
+4. **Living forks (5, 14, 21, 42), met at a reading, the observings answering.** Against *a false expression … forks* and *the network carries no copying*: division and twinning. Met at the lead: nothing is copied from a store; at semi-conservative replication each daughter carries one parent strand meeting the now's new strand (42), two continuings and no either-or. For both.
 
 **Two tensions met at a reading.** Phytochrome in darkness (28), met with each photon a nothing and darkness no call. The living rates' arriving (27–31) against *arriving costs nothing* and *a self's continuing when no fresh sign arrives*, met at the lead that the source is external and a self given no call continues at no changing.
 
