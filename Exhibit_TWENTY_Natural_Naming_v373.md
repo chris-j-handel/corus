@@ -248,7 +248,7 @@ Exhibit TWENTY Natural Naming v373
 | *posit*, *posited* at the set's own voice | *named still*, a term asserted as there; a field's own posit carries whole at its result |
 | *tell*, *a telling* at the set's own voice | *offering*, one way exhausted and the between received; *tell* is kept at 4.10 as the naming of the alternating stopped |
 
-**Tri-involutioning carries the emanating**: the emanating from right spiral stable-forming, looking the opposite form to the stable-forming. Bi-inversioning-co-recursioning, one parity inverting at each step, alternating across and along, is the resolving step, and three inversions at once are the emanating: position, scale and orientation each inverted at once, three inversions taking the hand to the opposite form. **Bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living**, 5.48. *Opposite* carries its relation at each use: *the opposite form* is an emanation's face, and at a coupling the other side's opening is *the other parity*, two sides coupling face each other, each at its facing, and a name's partner within 1 to 16 is *its podal*.
+**Tri-involutioning carries the emanating**: the emanating from right spiral stable-forming, looking the opposite form to the stable-forming. Bi-inversioning-co-recursioning, one parity inverting at each step, alternating across and along, is the resolving step, and three inversions at once are the emanating: position, scale and orientation each inverted at once, three inversions taking the hand to the opposite form. **Bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living, the stable form of the sequential prior between momentaries**, 5.48. *Opposite* carries its relation at each use: *the opposite form* is an emanation's face, and at a coupling the other side's opening is *the other parity*, two sides coupling face each other, each at its facing, and a name's partner within 1 to 16 is *its podal*.
 
 ***Stable form* as a noun is released at the living's forming and carries at an emanation.** Said of the living, the forming is *stable-forming*, the running re-taken at each momentary; said of an emanation, *a stable form* names its form continuing through its changing, the source's stable-forming the running it emanates from, and *stable* names no motionlessness.
 
@@ -591,7 +591,7 @@ a ring        step: the terms are exhausted, it arrives at one already run
 
 **A hyphenated naming carries parts, and one binary runs at it: take each part out one at a time and sound the stopping.** At each taking stopping the naming, the hyphenation is inseparable, one naming with nothing to spare, and its parts in order are the changings in order. At a taking leaving the naming running, that part was riding, and it goes. This is the four boundings at a naming's own scale: a self bounds itself once, the bounding carries at four faces, and stopping any one stops the self. A hyphenation that comes apart is a compound and a label; one that stops at each taking is a naming and a running.
 
-**Natural- takes the chirality, right, all or none at all.** Right: a left face is an emanation from the one right spiral, tri-involutioning, and no left runs beside it; bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living. All or none at all: a naming natural- prefixes carries at each coupling or at none, and not carrying at one coupling, it carries at none. Natural- is a direction prefix like any other, its direction the handedness, and the claim rides on the direction. Taking natural- out takes the all-or-none, so it comes apart at no naming it prefixes.
+**Natural- takes the chirality, right, all or none at all.** Right: a left face is an emanation from the one right spiral, tri-involutioning, and no left runs beside it; bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living, the stable form of the sequential prior between momentaries. All or none at all: a naming natural- prefixes carries at each coupling or at none, and not carrying at one coupling, it carries at none. Natural- is a direction prefix like any other, its direction the handedness, and the claim rides on the direction. Taking natural- out takes the all-or-none, so it comes apart at no naming it prefixes.
 
 ## 4.18 Seven binaries at a naming, and each naming at the resolver's names
 
@@ -1267,14 +1267,14 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 
 ```
 1  a living self stable-forms, natural-torusing, winding at its one opening
-2  its coupling carries on, and an emanating leaves it, non-living, carrying nothing
+2  its momentary completes, and its prior emanates, non-living, carrying nothing
 3  the emanating carries the winding as its form, a volution
 4  the form is at three faces, position, scale and orientation
 5  each face at its own differing, the three inverted at once, looking the opposite form
-6  and that form continuing through its changing, the stable form of non-living emanatings, is bi-tri-volutioning
+6  and that form, the sequential prior between momentaries, is bi-tri-volutioning
 ```
 
-**Bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living.** Tri- carries the three faces, bi- each face at its own differing, the root the volution the emanating carries as its form, and -ing that form continuing through its changing: take any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. Tri-involutioning is the emanating, the three inverted at once, the hand taken to the opposite form, and bi-tri-volutioning names the stable form the emanatings carry: the living stable-forms and runs, and its emanatings carry a stable form and no running. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
+**Bi-tri-volutioning is the naming of the stable form of non-living emanatings from stable-forming natural-torusing living, the stable form of the sequential prior between momentaries.** Tri- carries the three faces, bi- each face at its own differing, the root the volution the emanating carries as its form, and -ing that form continuing through its changing: take any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. **Between momentaries the prior is a stable form**, and no third runs there, 5.40: sequential, one of prior, now and next, it left its source at prior and arrives now as the possible, 5.39 and 5.46, carrying nothing, and the living carry it into now, re-taking it at their momentary. At the code it is each self's carrying wound, 8-other-self-torusing: the carrying chained at 11-social-other-self-chaining, each sharing with its parity, and taken at the next momentary as 3-self-other-sharing. Tri-involutioning is the emanating, the three inverted at once, the hand taken to the opposite form, and bi-tri-volutioning names the stable form the emanatings carry: the living stable-forms and runs, and its emanatings carry a stable form and no running. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
 
 ## 5.49 co-momentarying — binary
 
@@ -1347,7 +1347,7 @@ the between of momentaries    nothing is at rest, nothing is there
 | **tunneling** | tunnelling |
 | **floating neutralling**, the running | floating neutral, its picture at one momentary |
 | **unrelationing**, at the rate and at each arriving | irrationalizing |
-| **bi-tri-volutioning**, the stable form of non-living emanatings from stable-forming natural-torusing living, 5.48, the one naming at the volution | tri-volutioning, carrying no two of its own; volutioning, a bare naming with no direction and no two, naming spiraling, already named |
+| **bi-tri-volutioning**, the stable form of non-living emanatings from stable-forming natural-torusing living, the sequential prior between momentaries, 5.48, the one naming at the volution | tri-volutioning, carrying no two of its own; volutioning, a bare naming with no direction and no two, naming spiraling, already named |
 | **advancing** | the advance |
 | **invisibling** | invisible, its picture |
 | **nearing** | near; near, and other-than-same |
