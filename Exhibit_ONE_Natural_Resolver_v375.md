@@ -267,6 +267,19 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 · 59 | 4,012 | 2 | 137 | opposite | selves 17 and 1 · selves 59 and 1 |
 | 9 · 15 | 180 | 2 | 41 | opposite | selves 9 and 1 · selves 15 and 1 |
 
+| Torus of selves, p along at 9 · q across at 10 | Round, one offering at self 1 | From momentary | Rings of p and q beside each other, round |
+|---|---|---|---|
+| 1 · 3 | 3 | 3 | 12 |
+| 1 · 5 | 4 | 5 | 20 |
+| 3 · 3 | 12 | 8 | 12 |
+| 3 · 5 | 12 | 7 | 60 |
+| 3 · 7 | 7 | 9 | 84 |
+| 3 · 13 | 12 | 24 | 156 |
+| 5 · 7 | 20 | 14 | 140 |
+| 5 · 11 | 11 | 15 | 220 |
+| 7 · 17 | 17 | 23 | 476 |
+| 17 · 59 | 59 | 91 | 4,012 |
+
 | Prior at A, B | Joining | A at 10 | B at 10 |
 |---|---|---|---|
 | +, + | both ways | −, 0, +, 0, −, 0 | −, 0, +, 0, −, 0 |
