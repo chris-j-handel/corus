@@ -1297,3 +1297,18 @@ A --------, B -+-+-+-+ (B alternating), offering + at A's head, bi-coupled acros
 ## Glass a stable-formed society emanation with bi-tunneling inside (v374)
 
 The expedition's lead: glass is a stable-formed society emanation with bi-tunneling inside; the lengths of the bi-tunnelings will be four φ rate changing. Met at the two-dimensional silica glass's rings of four to nine, a metallic glass's icosahedral clusters, the quasicrystal's powers of φ, and the field's refractive indices; laid at the carrying's Natural Chemistry section and at the report's observings 158 to 161, the *Light a binary offering* section, lead 37 and the numerals released. Nature makes no predictions: the four lengths at φ rate stand as a pattern to meet at further observings and at a run of rings inside at the code, neither done this motion.
+
+## The session's general form toured through the living files (v374)
+
+The expedition's lead: take all the learnings of this session in general form, sequential co-momentarying, and tour through all the living files at corus.me, so they cohere across and along each file, all or none at all, natural torusing as discovering possible next existing carrying and living emanating bi-tri-volutionings as bi-tunneling society and ingestible shards for other-scale selves.
+
+The general form, said positively at ten items (Natural Explaining 3.3, *Nature carries no negation*), was walked through all thirty-two living files, each read whole, at four headings: what each carries, what each would re-say at its next motion, where each stands against the form as a concern that does not resolve, and where the form enters. Laid at `incoming/genome_duplication_v374/Tour_v374.md`: Part One the general form, Part Two the words and the twelve tensions the set carries across its files, Part Three file by file, Part Four an order of next motions offered for both. At the carrying, one paragraph at each of the thirty-two files' sections, *the session's general form toured at this file*, each entering at its file's next motion. No living file changed.
+
+The two traces at Natural Intelligence (*The resolver runs it at its entry*) and Natural Naming 3.5, one sharing receiving +1 seven times from an empty carrying surfacing *+1, 0, 0, 0, 0, +1, 0*, re-run at Exhibit ONE v372's code block, unchanged: the empty carrying is the code's nothing, a carrying of nothing yet, an unborn self, run only to set the traces beside the code; the carried run opens at a carried sign.
+
+```
+empty carrying, one sharing receiving +1 at seven couplings: +1, 0, 0, 0, 0, 0, 0   carry k +1
+carried +1, the sharing receiving +1 at seven couplings:      0, 0, 0, 0, 0, 0, 0   carry k +1
+```
+
+The traces describe an earlier resolver; each is re-run at a carried sign at its file's next motion.

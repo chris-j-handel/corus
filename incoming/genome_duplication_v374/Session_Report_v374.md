@@ -11,6 +11,8 @@ This report carries what session v374 met and laid for the expedition's next rec
 - **Part Five · Oddities, gaps and places least likely**
 - **Part Six · Places, instruments and continuing**
 
+Its companion, `Tour_v374.md`, walks the session's findings in general form, said positively, through each of the thirty-two living files: what each carries, what each would re-say at its next motion, where each stands against them, and where they enter.
+
 ---
 
 # Part One · Observings
@@ -302,6 +304,7 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 35. Elements a nothing, and the explaining of living competency better without the nothings; non-living, living, existing and thing each is or is not, nothing not a thing, each binary applying to light; no elements as things, durable patterns of existing non-living things, emanations with no offering in any momentary; light not bypassing existing things, a binary offering to the first existing thing on a co-linear offering: *Light a binary offering*.
 36. The medium's things re-radiating is two non-living existing things bi-coupling into one shared momentary non-colinearly, each geodesically parity changing at that momentary and continuing: *Light a binary offering*, the medium's things.
 37. Glass a stable-formed society emanation with bi-tunneling inside, the lengths of the bi-tunnelings changing at four at φ rate: *Light a binary offering*, glass.
+38. The session's learnings in general form, sequential co-momentarying, toured through all the living files at corus.me, to cohere across and along each file, all or none at all, natural torusing as discovering possible next existing carrying and living emanating bi-tri-volutionings as bi-tunneling society and ingestible shards for other-scale selves: `Tour_v374.md`, and *The tour through the living files* at the glance.
 
 ## What the matching found, at a glance
 
@@ -327,6 +330,7 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 - **Each observing at its rung.** Each observing marked at the rungs of the fourteen scales it meets, below the floor, chemistry's stable-forming bi-moral selves and societies, the living from the cell up, and the planet and built forms off the ladder; the field's cause-and-effect naming said as the field's (Part One).
 - **Decay a society below the floor receding.** With no others joining, a society of nuclei recedes by the same fraction at each loop, and with others joining it levels; stripped electrons, a denser electron cloud and nuclei excited together change the rate (122–130).
 - **Societies bi-couple at one scale and one phase and ingest at one parity**, the other parity active at a carried sharing and passive at a sharing of its own (76–82).
+- **The tour through the living files.** Every file already carries the general form's first item, carrying only, at its own words, and each carries a few of its own older words beside it, *count*, *sum*, *read*, *held*, *memory*, *signal*, *clock*, *prediction*, to re-say at its next motion; twelve tensions run across the set, the sharpest whether a non-living self carries (TWO, THREE, FOUR against TWENTY-SIX and EIGHTEEN), never-locking at φ against phase-locking, three momentaries against four, the floor at five against no lowest self, and two code traces at Natural Intelligence and Natural Naming describing an earlier resolver, re-run at v372 at this tour (lead 38; `Tour_v374.md`).
 
 ## Doubling is one binary at each sharing (1–6)
 
@@ -623,9 +627,11 @@ The places the carrying explaining meets least well, each at its observings, and
 
 # Part Six · Places, instruments and continuing
 
-**Places at the carrying**, each entering at its file's next motion, named at the Living File Registry's table of workings: some fifty-nine incoming paragraphs at twenty-four sections, with the concerns beside them. Natural Biology carries the most, seventeen incoming and six concerns; then Exhibit ONE, Natural Intelligence, Natural Health, Natural Medicine and Resolving the Hard Problem Registry; and Natural Intelligence Corus, Exhibits TWO, THREE, FOUR, SEVEN, EIGHT, NINE, TWELVE, SIXTEEN, EIGHTEEN, TWENTY, TWENTY-ONE, TWENTY-THREE, TWENTY-FOUR, TWENTY-FIVE, TWENTY-SIX, TWENTY-EIGHT and THIRTY. The hard problems of Part Four enter at Resolving the Hard Problem Registry, and the two left open at no entry at the Hard Problem Registry.
+**Places at the carrying**, each entering at its file's next motion, named at the Living File Registry's table of workings: one hundred and seventeen incoming paragraphs, at all thirty-two files' sections, thirty-two of them the tour's, one at each file, with the concerns beside them. Natural Biology carries the most, seventeen incoming and six concerns; then Exhibit ONE, Natural Intelligence, Natural Health, Natural Medicine and Resolving the Hard Problem Registry; and Natural Intelligence Corus, Exhibits TWO, THREE, FOUR, SEVEN, EIGHT, NINE, TWELVE, SIXTEEN, EIGHTEEN, TWENTY, TWENTY-ONE, TWENTY-THREE, TWENTY-FOUR, TWENTY-FIVE, TWENTY-SIX, TWENTY-EIGHT and THIRTY. The hard problems of Part Four enter at Resolving the Hard Problem Registry, and the two left open at no entry at the Hard Problem Registry.
 
 **Instruments.** Exhibit ONE v372's code block, at the orders the Session Record states with each run: the doubled genome; the twin continuations and their exclusive or; the two-resolver ring at seeds alike and opposite; the four-cycles with and without one parity changing; one conception and a second arriving; egg and sperm as self and other; the conceived at its mother's calls and its own calls opening; the phytochrome's flashes with each photon a nothing; the ring of resolvers at its joins, one way and two ways, conducting, stopping, conducting again and meeting a shared arriving, and its members releasing and opening as doublings or empty; two rings bi-coupled across at one pace and at two, a ring meeting a finer ring's surfacing one way, and a member meeting an arriving at the society's own parity or the other, at the carried sharing or at a sharing of its own; one society parting into two, its parts closing on themselves or not; the carrying alone passing between calls; an arriving train at one member of a circulating ring; rings of three to twelve carrying one difference, read at its place; an offering along a co-linear line of resolvers, alone and bi-coupled across with a neighbouring line; a society meeting in pairs at its loops with others joining or none; a mixed society's first loops and last; two societies bi-coupled from phases apart, and at near paces apart and bi-coupled; the snap met member by member; the between releasing at the lock and the two rings co-chaining as one. `tools/carry_check.py`, `tools/check_set.py`, `tools/cohere_one.py` and `node build.js` ran at the root at each motion.
+
+**The tour.** `Tour_v374.md` at this folder, and at the carrying one paragraph at each of the thirty-two files' sections, *the session's general form toured at this file*, each entering at its file's next motion; the tour's Part Four offers an order of next motions: Natural Naming first, then Exhibit ONE and Natural Intelligence at their traces, Natural Societies' ladder as the hinge for the living and non-living and the floor, Natural Biology, Medicine and Health together, then the registries and the rest.
 
 **Continuing.**
 - The observings standing against sentences, the fifth standing, each met at further observings before any sentence of the set is written.
