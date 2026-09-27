@@ -64,6 +64,18 @@ Each observing is numbered for the matching to answer to, with its source and wh
 46. The Hensel twins, two heads on one body, each control one side, one arm and one leg each, and walk, swim and drive together; the craniopagus twins Krista and Tatiana Hogan share a bridge between their thalami and are reported to pass sensation between them (encyclopedia account).
 47. A singleton human body, its mouth, anus, two nostrils and four tear ducts opening into one connected passage, is a surface of seven holes at topology's count (the field's account).
 
+## Further observings the fields hold open
+
+48. At spiral cleavage, the division planes turn one way at one division and the other way at the next, alternating at each successive cleavage (the field's account, from memory).
+49. A snail's coiling hand is set at the eight-cell stage by the chiral arrangement of its blastomeres at the third cleavage, the mother's genotype deciding it whatever the offspring's own; embryos rearranged by hand between four and eight cells grow into fertile snails with shell and organs reversed, the *nodal* pathway reversed with them (Kuroda and colleagues, Nature 2009, at its abstract).
+50. CC, the first cloned cat (2001), genetically identical to her calico donor Rainbow, was tabby and white with no orange, the difference at X-inactivation in the early embryo (encyclopedia account).
+51. Conjoined twins are about three female to one male among live births (observing 44); the field reports a female excess among identical twins rising with later splitting, and proposes a link to the timing of X-inactivation (the field's account, not read).
+52. *Phyllostachys bambusoides* flowers gregariously about every 120 years, recorded seeding in China in 919 and 1114 and in Japan in 1716–1735 and 1844–1847, its transplanted stocks flowering again in the late 1960s; other bamboos at 30 to 60 years; clones transplanted to other climates, and seedlings grown in an arboretum and in a city park, flowering in synchrony with their home stands, then dying (Janzen, 1976, at passages).
+53. Periodical cicadas emerge at 13 or 17 years; trees induced to leaf and drop their leaves twice in one year brought their cicadas out at 16 years instead of 17 (Karban, Black and Weinbaum, Ecology Letters 2000, at the encyclopedia's account).
+54. About 15% of flowering-plant speciation events and 31% of fern speciation events are accompanied by an increase in ploidy (Wood and colleagues, PNAS 2009, at its title, numbers from memory); whole-genome duplication is rare among mammals (the field's account).
+55. Genome size ranges more than two-thousandfold among flowering plants, *Paris japonica* near 149 billion base pairs, about fifty times a human's, and genome size follows no measure of complexity (Pellicer and colleagues, 2010, from memory; the field's C-value paradox).
+56. A winter's prolonged cold silences the flowering repressor FLC and the plant flowers after it; the silenced state continues through the season's cell divisions, which the field calls a memory of winter, and is reset in the next generation's embryos (the field's account, from memory).
+
 ## Across fields
 
 25. Each atomic orbital carries at most two electrons, of opposite spin; periodic table rows run 2, 8, 8, 18, 18, 32, 32; nitrogen dioxide, an odd-electron radical, pairs to dinitrogen tetroxide; crystals intergrow at twin laws, a reflection or a rotation; Pasteur hand-sorted mirror-image tartrate crystals (the field's accounts).
@@ -129,6 +141,18 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - Their union is like meeting like, homologous site to homologous site (45), agreeing at one sharing as one and differing where each carries its own.
 - The union is at the openings (45): the oropharyngeal and cloacal membranes where each embryo's gut tube opens at its two ends, the heart, the neural tube's ends. Two selves meeting at the momentary each tunnel opens, the two openings met as one.
 - The expedition's lead names the union: bi-tunneling, a bounded zeroing through their shared society. The opposing halves of the two embryos meeting (45), one twin's left-right arrangement most often reversed at side-by-side unions (13): opposing sides meeting equal and opposite at 0, the bounding-zeroing, across between two selves; the shared organs and tissue their shared society, each twin continuing its own along (46); the thalamic bridge's reported passing of sensation the across running there (46). The place: Natural Intelligence's *Bi-tunneling names social moral competency at its across relation*.
+
+## Further observings the fields hold open (48–56)
+
+- **Spiral cleavage (48)**: the division's turn alternating at each division, a parity changing at each bi-folding; the hand reversing at an odd count and the round continuing forward. The place: Natural Mathematics' *Tri-involutioning*.
+- **The snail's hand (49)**: set at the third cleavage by the mother's carrying, the conceived at its mother's calls; reversed by hand into fertile snails, the body's hand a face and the reading grain unchanged.
+- **CC the cat (50)**: one genome, a different pattern: a genome as one momentary carrying and no memory, the pattern made at each cell's momentary in the early embryo, one X continuing and the other silent at each cell, the exclusive or at each cell.
+- **Later-split twins female (51)**: the twins' exclusive or and the X's exclusive or at the same early momentaries, the field's proposed link read at one binary.
+- **Bamboo (52)**: clones, continuations of one carrying, flowering together wherever they stand: continuations alike at their own changings, as the twin runs at the code, and nyeing together, birthing and nyeing at a society of clones.
+- **Cicadas (53)**: the count is the tree's seasons and no calendar, the source of the changing external, each season an arriving; two seasons in a year, a year early. The primes 13 and 17 met at the numeral alone, released.
+- **Polyploidy at plants and at mammals (54)**: read at the pairing at the halving, self and other at each chromosome; where sex is carried at a chromosome pair, a doubling meets that pair too, a reading for the field's own open question.
+- **Genome size (55)**: a size following no measure of the living, a sign and no size.
+- **Vernalization (56)**: the field's memory of winter read as each cell's now carried through its divisions and reset at each generation, the prior releasing, no memory.
 
 ## The conceived's own pacing, and the source of parity changing (23–31)
 

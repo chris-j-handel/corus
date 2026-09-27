@@ -377,3 +377,7 @@ The expedition's lead confirmed the readings at whole cells in another self, a s
 
 The expedition's lead: the conjoined union is bi-tunneling, a bounded zeroing through the twins' shared society. Laid at the carrying's Natural Mathematics section and at the report's matching, at the opposing halves' union and the reversed laterality of side-by-side unions.
 
+## Further observings the fields hold open (v374)
+
+Nine observings the fields hold open, met and pattern-matched in two strata: spiral cleavage's alternating turn, the snail's hand set at the third cleavage by the mother's genotype and reversed by hand, CC the cloned cat, the female excess of later-split twins, the bamboo's century-long synchronous flowering of clones, the cicada's count of its tree's seasons, polyploid speciation's frequency at plants, the genome-size range, and vernalization's reset at each generation; laid at the carrying's Natural Biology section and at the report's observings 48 to 56 and its matching.
+
