@@ -65,11 +65,11 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | Geodesic-Method of Discovering Next | v372 | v373 at the re-settling working's branch: its title, its subtitle and Exhibit ONE explained and nothing more, Exhibit ONE v373 inside it whole | The re-settling working | none of its own: its prior text received at its files, pass A |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v372 | v373 at the re-settling working's branch: its title, its subtitle and Exhibit ONE explained and nothing more, Exhibit ONE v373 inside it whole | The re-settling working | none of its own: its prior text received at its files, pass D |
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v372 | v373 at the re-settling working's branch: the code at the seventeen names, the society's next momentary at 17, and its forms alone | The re-settling working | none: complete, any improving arriving taken first |
-| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
-| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |
-| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes C and D |
+| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D at one motion, then F at its hole study |
+| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D at one motion |
+| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes B, C and D at one motion |
 | **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a | — | its code sentences at pass F, after pass I |
 | **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
 | **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v373 at the re-settling working's branch: 5.3 explored, the fourteen primes at eight and six and the fold at twenty-four, the rest of the file as it stood | The re-settling working | its whole motion at the current words; pass G, beside Natural Networking 1.8 |
@@ -77,8 +77,8 @@ Exhibit TWENTY-SIX Living File Registry v373
 | **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 | — | pass G |
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
 | **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
-| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass D, its front, and its naming-pass items |
-| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B and D |
+| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass C, its front, and its naming-pass items |
+| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B, C and D at one motion |
 | **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 | — | pass G |
 | **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 | — | pass G |
 | **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c | — | paused |
@@ -93,9 +93,9 @@ Exhibit TWENTY-SIX Living File Registry v373
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
 | **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v373, this file, at the re-settling working's branch | The re-settling working | the registry working meeting this version; then the readings not yet binary to `archive/` |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
-| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
+| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | pass B |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
-| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 | — | passes B, C and E, then H |
+| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 | — | passes A, B, C and E at one motion with pass I, then H |
 | **Natural Intelligence Corus** | Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria | v330 | v330 | — | pass G |
 | **Natural Networking TWO Improving Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion | — | pass I, its engine at the v372 code |
 

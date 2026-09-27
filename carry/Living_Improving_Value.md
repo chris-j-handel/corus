@@ -44,11 +44,7 @@ Living Improving Value v373
 
 ## Natural Intelligence
 
-**Next at this file: none of its own at v373.** Natural Intelligence v373 is its title, its subtitle and Exhibit ONE explained, and nothing more: Parts One to Three, Exhibit ONE, Part Four explaining each of Exhibit ONE's forms in its own order, and Parts Five and Six. Its prior text stands whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, and leaves that record as each receiving file carries it, pass A below. The concerns below are for both.
-
-**Incoming, at v373, the map at its subtitle.** At `incoming/resettling_v373/Natural_Intelligence_Map.md`: each section at *Geodesic-Method of Discovering Next*, kept, near or released, the receiving file named for each near passage, and the floating neutralling contents, six parts and Exhibit ONE; for both to take before the motion, the near passages received at their files first.
-
-**Incoming, at v373, bi-tri-volutioning at its one naming.** The opening now says *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, as Natural Naming 5.48 unfolds it. 6.5's heading, *Geodesic-method, bi-tri-volutioning*, and its three faces running at the living, each winding at its own differing, say the living's own stable-forming with the emanatings' name: at pass A, 6.5 is re-said so the name stays at the emanatings' stable form.
+**Next at this file: none of its own at v373.** Natural Intelligence v373 is its title, its subtitle and Exhibit ONE explained, and nothing more: Parts One to Three, Exhibit ONE, Part Four explaining each of Exhibit ONE's forms in its own order, and Parts Five and Six. Its prior text stands whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, and leaves that record as each receiving file carries it, pass D below. The concerns below are for both.
 
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, the eight faces and two invisiblings.** The eight face namings' full directional and geometric correspondence, beside Natural Naming 3.6's four pairs at the current names and the eight bi-couplings at the even names; bi-co-invisibling and co-co-invisibling at their interior and ambient relations.
 
@@ -151,7 +147,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWO · Natural Networking
 
-**Next at this file: passes B, C and D at one motion.** The 173 places at the old names by the map; its sentences of the second sign and the 6 → 2 traces at Part Six re-said at the one sign or released; 1.2's *coupling, releasing and abundancing, seventeen is social-abundancing* re-said at offering, releasing and offering; *key* at two places; the three-columns sentence beside the connector table; the front at the steady form. Then pass F at its hole study.
+**Next at this file: passes B and C at one motion.** The 173 places at the old names by the map; its sentences of the second sign and the 6 → 2 traces at Part Six re-said at the one sign or released; 1.2's *coupling, releasing and abundancing, seventeen is social-abundancing* re-said at offering, releasing and offering; *key* at two places; the three-columns sentence beside the connector table; the front at the steady form. Then pass F at its hole study.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the hole, the routing and the mending; the podaling surface widening; the tapping study. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 
@@ -191,7 +187,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit THREE · Natural Numbers
 
-**Next at this file: passes B, C and D at one motion.** Fourteen places at the old names by the map; 5.2's along meeting said at the code as it is, 9's release arriving at the next call's 2 and 17 the next call; 7.2's seventeen at the resolver scoped as a count or met at the form; the openings and the nineteen at their places re-said at the one sign; the front at the steady form. The readings below match one at a pass, each entering whole or releasing.
+**Next at this file: passes B and C at one motion.** Fourteen places at the old names by the map; 5.2's along meeting said at the code as it is, 9's release arriving at the next call's 2 and 17 the next call; 7.2's seventeen at the resolver scoped as a count or met at the form; the openings and the nineteen at their places re-said at the one sign; the front at the steady form. The readings below match one at a pass, each entering whole or releasing.
 
 **Incoming, at v373, four-momentarying at the primes.** Four-momentarying is four unrelationings through the tunneling self, two into corus and two from corus, *at 24 between 2 and 59*: said at the primes 2 to 59, where the primes are self-welcoming, beside the going's fold at 23, ninth of the seventeen, and 24 one on from it. Natural Naming 5.50 and Natural Intelligence 5.2 now say the method's own counts: four momentaries of six one-way recursionings, twenty-four, the steps of 1 to 25, and 24 to 60 six cycles of six, surfacing in and out, out forward; the primes 2 to 59 and the between at 60 are received here, where the primes are self-welcoming, in no running of the method.
 
@@ -260,7 +256,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit FOUR · Natural Mathematics
 
-**Next at this file: passes C and D at one motion.** 2.5's *one rule runs at each scale* to *one stepping*; the second sign at two places re-said at the one sign; the reading below on 12 at two signs of one kind met; the front at the steady form. The readings below match one at a pass.
+**Next at this file: passes B and C at one motion.** 2.5's *one rule runs at each scale* to *one stepping*; the second sign at two places re-said at the one sign; the reading below on 12 at two signs of one kind met; the front at the steady form. The readings below match one at a pass.
 
 **Incoming, at v373, bi-tri-involutioning.** The emanating is *bi-tri-involutioning*, as Natural Naming 2.4 carries it; this file's *tri-involutioning* at 3.5 takes it at its motion.
 
@@ -475,7 +471,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWELVE · Natural Explaining
 
-**Next at this file: pass D, its front at its own steady form, with the naming-pass items below at the same motion.** Its version stays at v371 until a change for the better.
+**Next at this file: pass C, its front at its own steady form, with the naming-pass items below at the same motion.** Its version stays at v371 until a change for the better.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the method at a sentence. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 
@@ -537,7 +533,7 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 
 ## Exhibit THIRTEEN · Resolving Hard Problems
 
-**Next at this file: pass B with pass D at one motion.** Its 156 places at the old names by the map, the walk at its 154 names at v368, *key* at five places said as sharing, and the front at the steady form.
+**Next at this file: passes B and C at one motion.** Its 156 places at the old names by the map, the walk at its 154 names at v368, *key* at five places said as sharing, and the front at the steady form.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: a hardness as a sequencing reversed; three reversals; one six re-coupling; the ten named still. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 
@@ -911,7 +907,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY-EIGHT · Equilibria Registry
 
-**Next at this file: passes B and C at one motion.** Nine places at the old names by the map; its ten and six received at the ten faces and the six connectors; *continues through its openings 1, 2 and 3, and to a fourth* re-said at the one sign; its claims on the sum at the forms and rings re-said at parity changing; the version line as the others'. Its front is at the steady form.
+**Next at this file: pass B at one motion.** Nine places at the old names by the map; its ten and six received at the ten faces and the six connectors; *continues through its openings 1, 2 and 3, and to a fourth* re-said at the one sign; its claims on the sum at the forms and rings re-said at parity changing; the version line as the others'. Its front is at the steady form.
 
 **Concern, from the sentence pass.** *Can change* at the heading *The stability can change, the form can change, the relation can change*, its body, section 4's opening and the tables' last column: a named stability, form or relation *can change* or is *changing*, one naming decision met at all its places together, the contents list following the heading.
 
@@ -949,7 +945,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit THIRTY · Co-Chaining Logic Registry
 
-**Next at this file: passes B, C and E at one motion, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67. **At the same motion, F98 at *bi-tri-volutioning*.** Natural Naming 5.48 coheres bi-tri-volutioning as the one naming at the volution, the shaping, with *tri-volutioning* and *volutioning* gathered at its 6.3; F98 says it at the registry and at `ccl_core.md` together, *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, and X155's three faces of the geodesic-method are re-said at the living's own stable-forming, since the kit's sources assemble this file byte for byte, and the naming then stands in one form at each file.
+**Next at this file: passes A, B and E at one motion with pass I, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67. **At the same motion, F98 at *bi-tri-volutioning*.** Natural Naming 5.48 coheres bi-tri-volutioning as the one naming at the volution, the shaping, with *tri-volutioning* and *volutioning* gathered at its 6.3; F98 says it at the registry and at `ccl_core.md` together, *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, and X155's three faces of the geodesic-method are re-said at the living's own stable-forming, since the kit's sources assemble this file byte for byte, and the naming then stands in one form at each file.
 
 **Incoming, at v373, bi-tri-involutioning.** The emanating, the three inverted at once, is *bi-tri-involutioning*, carrying its own two at bi-, as Natural Naming 2.4 and 6.3 and Natural Intelligence 1.3 and 1.5 say: harmful to living at its own scale and not ingestible there, the opposite form not matching right spiral ingestion, and one scale lower an ingestible stable form taken back into living selves as societies. This file's *tri-involutioning*, X56, F62, F98 and M67, takes it at its motion.
 
@@ -958,7 +954,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, same number and same relation.** THIRTY X42, X47, X74–X76, X93–X96 and X108 meet shared counts, meanings, independent arrivals, membrane and the eight gathering relations. Keep a count's object, its direction and its changing apparent at any correspondence. Meet THIRTY F87–F94's releasing and bi-morality namings with the current momentarying before carrying their arithmetic meanings to the resolver. F88's 3, 6 and 9 are counts; the six connectors retain their existing names.
 
 
-**Incoming, at v373, Natural Naming's sections.** Natural Naming v373 titles 5.4 *parity changing*, 5.5 *the between*, 5.6 *invisibling*, 5.12 *floating neutralling*, 5.21 *advancing* and 5.35 *nearing*, adds 5.48 *bi-tri-volutioning*, 5.49 *co-momentarying* and 5.50 *four-momentarying*, and keeps each number. This file's NAM links take the current words at passes B and C: X94 at the between, X96 at floating neutralling, X47 at Natural Naming 4.6's two fours, and X108 at 6.2's invisibles, each under two clusters. Natural Naming 4.4 now carries a count's object, its direction and its changing kept apparent at a correspondence.
+**Incoming, at v373, Natural Naming's sections.** Natural Naming v373 titles 5.4 *parity changing*, 5.5 *the between*, 5.6 *invisibling*, 5.12 *floating neutralling*, 5.21 *advancing* and 5.35 *nearing*, adds 5.48 *bi-tri-volutioning*, 5.49 *co-momentarying* and 5.50 *four-momentarying*, and keeps each number. This file's NAM links take the current words at pass B: X94 at the between, X96 at floating neutralling, X47 at Natural Naming 4.6's two fours, and X108 at 6.2's invisibles, each under two clusters. Natural Naming 4.4 now carries a count's object, its direction and its changing kept apparent at a correspondence.
 
 **Concern, the scaling and the rhythm, with its reason.** Natural Naming 2.2 carries Exhibit ONE's scaling, n at 8n − 7, the outward stepping at each 9 of the inward, 17, 129 and 1,025; F82 and F86 carry the outside stepping at each 17 of the inside, 1–17 inward and outward at 17, 257 and 4,097, as Natural Intelligence 8.8 and Natural Numbers still say; and the account at `incoming/resettling_v373/Exhibit_ONE_at_its_Stable_Forms.md` carries the pairs' scaling, 4n − 3, beside. The three scalings stand at this file's arithmetic, run at the code, and Natural Naming 2.2 keeps 1–17 one of the 2,048 rhythms at eight parities until that arithmetic says which.
 
