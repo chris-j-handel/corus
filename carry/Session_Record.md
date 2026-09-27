@@ -1072,3 +1072,21 @@ every third member other, no joining: [1024, 170, 85, 43, 22, 11, 6, 3, 2, 1, 1,
 alternating signs, no joining:        [1024, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 the fraction continuing at each loop, alike, no joining: ['512/1024', '256/512', '128/256', '64/128', '32/64', '16/32', '8/16', '4/8', '2/4', '1/2', '1/1', '1/1']
 ```
+
+
+## The fuzzy front and the sharp last loop (v374)
+
+The expedition's lead: the first loop is fuzzy, the binary less sharp and indistinct at the front, the dissipation after the crossing in emanating bi-tri-involutionings; the last loop is the sharp, rigorous binary; aimed at the wobbliness, flickering and slowing before geodesic parity changing, the fuzzying of future momentary sequencing arriving, and the snap improving the surface. Met at single-ion quantum jumps against a sample's smooth fall, a quantum jump's advance warning and mid-flight reversal, a lake's and yeast populations' slowing before their transitions, and the field's flickering; laid at the carrying's Exhibit ONE and Natural Medicine sections, and at the report's observings 131 to 134, a Part Two section, lead 28, the glance, the tracker, and a concern at decay's far end.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+laid evenly, minority 0.500: members:differing pairs/pairs at each loop ->  1024:512/512  0 [.]
+laid evenly, minority 0.375: members:differing pairs/pairs at each loop ->  1024:384/512  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid evenly, minority 0.250: members:differing pairs/pairs at each loop ->  1024:256/512  256:0/128  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid evenly, minority 0.125: members:differing pairs/pairs at each loop ->  1024:128/512  384:0/192  192:0/96  96:0/48  48:0/24  24:0/12  12:0/6  6:0/3  3:0/1  2:0/1  1 [+]
+laid at a stride of 37, minority 0.500: members:differing pairs/pairs at each loop ->  1024:512/512  0 [.]
+laid at a stride of 37, minority 0.375: members:differing pairs/pairs at each loop ->  1024:128/512  384:128/192  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid at a stride of 37, minority 0.250: members:differing pairs/pairs at each loop ->  1024:256/512  256:0/128  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid at a stride of 37, minority 0.125: members:differing pairs/pairs at each loop ->  1024:128/512  384:0/192  192:0/96  96:0/48  48:0/24  24:0/12  12:0/6  6:0/3  3:0/1  2:0/1  1 [+]
+```
