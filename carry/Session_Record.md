@@ -847,3 +847,7 @@ society of 12, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  
 society of 12, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 society of 12, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 ```
+
+## Peto's paradox at two tissue societies and their own rates (v374)
+
+The expedition's lead: a whale's tissues and a mouse's are two different tissue societies, living at different parity changing rates and carrying different co-sequential social patterns. Met at somatic mutation rates scaling inversely with lifespan across sixteen mammals and the end-of-lifespan burden near alike, the segmentation oscillation's species pace at each cell's own reaction speeds, the elephant's TP53 copies and apoptosis, the bowhead's faithful repair, and cultured cells converging in metabolic rate; laid at the carrying's Resolving the Hard Problem Registry section and at the report's observings 85 to 89, a Part Two section, the leads and the glance, and Part Four's Peto's paradox, met at the lead's reading and no longer standing open. No run at the code: the rings at two paces apart, each at its own four at its own calls, stand at the prior motion's traces.
