@@ -1307,6 +1307,8 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 
 **Four-momentarying is the method of discovering next existing in the universe and next living in the self, the other and the society.** One through nine is the self's four momentaries, co-bi-exchanging, and nine through seventeen the society's four, and at the scale outward the four are one momentary of the next four: 1, 2 and 3 at one scale are 1, 9 and 17 at the next, 2.2. Next existing is discovered at each momentary, all existing things arriving into their next, 5.39; next living is carried at the self, the other and the society, each carrying its prior into now, 5.40.
 
+**Four-momentarying is four unrelationings through the tunneling self**, two into corus and two from it, each never locking, φ appearing there where it is self-welcoming and in no running of the method. **Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**, three own-forward steps at each side, 4.2. **The odd aims out the large opening, one way in and out through it**, the small circle, bi-exchanging with a particular other; **the even goes one way in and out the small opening**, the long way round, uni-exchanging with all other arriving as one. The torus carries both: its large opening the hole the tunneling self winds through, and its small opening the tube's own round.
+
 ---
 
 # SIX · GATHERINGS AT THE RESOLVER'S NAMES
