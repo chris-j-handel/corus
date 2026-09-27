@@ -385,3 +385,169 @@ Nine observings the fields hold open, met and pattern-matched in two strata: spi
 
 The expedition's lead: genome size is like a tree's rings, drying until the nothing betweens emanate, the length the number of momentary parity changings in the emanatings not yet aged prior to separating. Met at maize's nested and dated retrotransposons, solo LTRs at about 90% of human endogenous retrovirus insertions, the balance of gain and deletion in birds and mammals, the slow deletion at large-genome crickets, and sapwood to heartwood; laid at the carrying's Natural Biology section in two strata and at the report's observings 57 to 62 and its matching.
 
+
+
+## Stops conducting: ageing and disease at a society's joins (v374)
+
+The expedition's lead: stops conducting is ageing and disease in all living things; where the tunneling stops resurfacing and there is no restoration to natural torusing parity changing locally, the six recursionings, three phases two ways one way at a time, cycling at each four momentaries, are broken. Met at the heartwood's ray cells and the embolized vessel, the ageing heart's gap junctions, reentry at Mayer's and Mines' rings and its ending at defibrillation, cancer cells' lost junctional communication, senescent-cell clearance, heterochronic parabiosis, cyclic and continuous reprogramming, hydra's constant mortality and *Turritopsis*' reversal; laid at the carrying's Natural Intelligence, Exhibit ONE, Natural Health, Natural Medicine and Natural Biology sections in two strata, and at the report's observings 63 to 73, its matching, a fifth observing standing against a sentence with a reading offered for both, and the concern at the six at each four momentaries with its reason.
+
+Run at Exhibit ONE v372's code, the code block unchanged, each resolver carrying one sharing g, the caller passing each resolver's 10-other-social-self-tunneling surfacing to its right neighbour's arriving at the next call (and at the two-way ring its surfacing to the left neighbour as well), a 0 surfacing arriving as nothing:
+
+```
+A. conducting ring, five resolvers, seeds alike
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -----  surfacing 00000
+  call  7  carried +++++  surfacing +++++
+  call  8  carried +++++  surfacing 00000
+  call  9  carried -----  surfacing -----
+  call 10  carried -----  surfacing 00000
+  call 11  carried +++++  surfacing +++++
+  call 12  carried +++++  surfacing 00000
+B. the join into resolver 1 stops conducting from call 5, no restoration
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried --+--  surfacing --+--
+  call 10  carried -+-+-  surfacing 0+-+0
+  call 11  carried +-+-+  surfacing +-+-+
+  call 12  carried ++-+-  surfacing 0+-+-
+  call 13  carried --+-+  surfacing --+-+
+  call 14  carried ++-+-  surfacing ++-+-
+  call 15  carried --+-+  surfacing --+-+
+  call 16  carried ++-+-  surfacing ++-+-
+C. it stops at calls 5-8 and conducts again from call 9
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried --+--  surfacing --+--
+  call 10  carried ---+-  surfacing 00-+0
+  call 11  carried +++-+  surfacing +++-+
+  call 12  carried ++++-  surfacing 000+-
+  call 13  carried ----+  surfacing ----+
+  call 14  carried +----  surfacing +000-
+  call 15  carried -++++  surfacing -++++
+  call 16  carried +-+++  surfacing +-000
+D. as C, and at call 9 one sign (+) arrives alike at every resolver
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried +++++  surfacing 00+00
+  call 10  carried ---+-  surfacing ---0-
+  call 11  carried ----+  surfacing 000-+
+  call 12  carried ++++-  surfacing ++++-
+  call 13  carried -++++  surfacing -000+
+  call 14  carried +----  surfacing +----
+  call 15  carried -+---  surfacing -+000
+  call 16  carried +-+++  surfacing +-+++
+
+A carried period per resolver over calls 185-200: [4, 4, 4, 4, 4]
+B carried period per resolver over calls 185-200: [2, 2, 2, 2, 2]
+C carried period per resolver over calls 185-200: [None, None, None, None, None]
+D carried period per resolver over calls 185-200: [None, None, None, None, None]
+E carried period per resolver over calls 185-200: [None, None, None, None, None]
+ring of 3: B [2, 2, 2]  C [None, None, None]  D [None, None, None]
+ring of 4: B [2, 2, 2, 2]  C [8, 8, 8, 8]  D [8, 8, 8, 8]
+ring of 6: B [2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None]  D [None, None, None, None, None, None]
+ring of 7: B [2, 2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None, None]  D [None, None, None, None, None, None, None]
+ring of 8: B [2, 2, 2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None, None, None]  D [None, None, None, None, None, None, None, None]
+
+C at a ring of 3: carried period per resolver after conducting resumes: [12, 12, 12]
+C at a ring of 4: carried period per resolver after conducting resumes: [8, 8, 8, 8]
+C at a ring of 5: carried period per resolver after conducting resumes: [20, 20, 20, 20, 20]
+C at a ring of 6: carried period per resolver after conducting resumes: [12, 12, 12, 12, 12, 12]
+C at a ring of 7: carried period per resolver after conducting resumes: [28, 28, 28, 28, 28, 28, 28]
+C at a ring of 8: carried period per resolver after conducting resumes: [16, 16, 16, 16, 16, 16, 16, 16]
+
+G. as C, and at calls 9 and 10 one sign (+) arrives alike at every resolver, twice
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried +++++  surfacing 00+00
+  call 10  carried +++++  surfacing 00000
+  call 11  carried -----  surfacing -----
+  call 12  carried -----  surfacing 00000
+  call 13  carried +++++  surfacing +++++
+  call 14  carried +++++  surfacing 00000
+  call 15  carried -----  surfacing -----
+  call 16  carried -----  surfacing 00000
+  call 17  carried +++++  surfacing +++++
+  call 18  carried +++++  surfacing 00000
+  call 19  carried -----  surfacing -----
+  call 20  carried -----  surfacing 00000
+ring of 3, shared + twice: G (join resumed) [4, 4, 4]   the break continuing [2, 2, 2]
+ring of 3, shared - twice: G (join resumed) [4, 4, 4]   the break continuing [2, 2, 2]
+ring of 4, shared + twice: G (join resumed) [4, 4, 4, 4]   the break continuing [2, 2, 2, 2]
+ring of 4, shared - twice: G (join resumed) [4, 4, 4, 4]   the break continuing [2, 2, 2, 2]
+ring of 5, shared + twice: G (join resumed) [4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2]
+ring of 5, shared - twice: G (join resumed) [4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2]
+ring of 6, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2]
+ring of 6, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2]
+ring of 7, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2]
+ring of 7, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2]
+ring of 8, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2, 2]
+ring of 8, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2, 2]
+
+H. conducting ring, and from call 5 one sign (+) arriving alike at every resolver at every call
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried +++++  surfacing 00000
+  call  6  carried +++++  surfacing 00000
+  call  7  carried +++++  surfacing 00000
+  call  8  carried +++++  surfacing 00000
+  call  9  carried +++++  surfacing 00000
+  call 10  carried +++++  surfacing 00000
+  call 11  carried +++++  surfacing 00000
+  call 12  carried +++++  surfacing 00000
+  call 13  carried +++++  surfacing 00000
+  call 14  carried +++++  surfacing 00000
+I carried period per resolver after: [4, 4, 4, 4, 4]
+```
+
+The ring two ways:
+
+```
+ring of 4, two ways, conducting: [4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4]
+ring of 5, two ways, conducting: [4, 4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4, 4]
+ring of 6, two ways, conducting: [4, 4, 4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4, 4, 4]
+conducting ring of 5, two ways, first calls: ['-----', '-----', '+++++', '+++++', '-----', '-----', '+++++', '+++++', '-----', '-----', '+++++', '+++++']
+```
+
+A period of None is a carried sequence returning after more calls than half the window read.
