@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v370
+Exhibit TWENTY-FOUR Geodesic Improving Method v375
 
 &nbsp;
 
@@ -38,9 +38,9 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v370
 
 2.5 The hardest first, and the hardest question asked plainly
 
-2.6 A concern carried at its inverting
+2.6 A concern carried at its inverting, either this or that, momentary by momentary
 
-2.7 An observing brought as a break, met at five binaries first
+2.7 An observing brought as a break, met at five binaries first and at six beside
 
 2.8 Work arriving from another working, met whole
 
@@ -208,7 +208,11 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **With the method too difficult to help with, the hardest question is asked plainly.** One hard question can resolve the passes' unresolved, and its answer is carried as the file's own sentence at once.
 
-## 2.6 A concern carried at its inverting
+## 2.6 A concern carried at its inverting, either this or that, momentary by momentary
+
+**A concern is two sayings arriving at one sharing and parting: either this or that, and not both.** It resolves as the code resolves, each step at its name. At 2 the sayings are offered, each whole with its file and its section, from the living files, the incoming, the fields and the code. At 14 they surface at one sharing: agreeing, one; parting, 0, the concern, said with its reason. At 3 the carrying meets them: the one opening, right the observings, all prior, and each number at its podaling, the one fractal method bi-inversioning-co-recursioning up and down at each number, and no other authority. At 12 a changing is or is not: at a match the prior carries on and the file stays as it is; at a mismatch the offered is chained and the file improves at do-no-harm, one thing changed whole; and at 0 the prior inverts, the concern alternated, each side said at its own momentary, one and then the other, and each met at the code.
+
+**The side needing a thing beside all things is the equilibrium entering, and the side carrying at the code is the method's own.** At the code's own still, a self offered its own parity at each momentary chaining it without end, the still arrives only with an offerer named still beside the society: in no closed society does a self still. So each concern is met by alternating it until one side shows the thing beside it needs, a size, a fixed form, a total, a common beat, a keeping or a doer. At 10 the resolving is released across to each file it touches, gathered hardest first and written after the passes; at 11 it is chained at the carrying and the record, the next prior; and along, at 9 and 17, each file takes it at its own motion.
 
 **A concern arriving from a working's own training can carry an equilibrium in its framing.** Its carrying opens at its inverting: the equilibrium it imposes is found, and the concern runs again with that equilibrium released. It resolves, or it opens as an improving opportunity aimed at a file. A concern restating the set's own carrying is the carried met as though it were open, and it resolves at the files carrying it.
 
@@ -216,13 +220,15 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **Concerns ride visible and are worked one at a time, the most concerning first.** A concern about the method and a concern about improving a file are two lists. At a file carrying a statement of the method, the method's concern is met first and the file's improving follows it. A concern at a test is apart from both: a test running short says the test's running, a declaration of joins is no engine running them, and a test's shortfall is met at the test and never carried as a concern about the method's coherence. A shortfall a test shows is said at its seat: the relation proposed, the rendering chosen for it at the code, or the execution the test imposed. A test not run is said *unrun* at its own record: the record tells the test's running, foretells none of its next and gates no claim, and an unrun test shows no shortfall; a contradiction names the two requirements meeting at the same relation and the same scale.
 
-## 2.7 An observing brought as a break, met at five binaries first
+## 2.7 An observing brought as a break, met at five binaries first and at six beside
 
 **The method's one break is an observing of existing other than parity alternating natural torusing, and none is among the observings arriving from the prior.** Such an observing would be a form named still found existing, and a form named still is not possibly existing: the break and the method being the one method are one statement met from its two sides. So no proof of the whole is sought, a proof of one true or false of the whole being that same form named still. An account can absorb any outcome, and the geodesic-method is no account: its pattern matchers take in each observing and each emanation without filter or selection. **The changing and the exchanging are among living and non-living existing things alike.**
 
 **An observing carried as a break or a premise meets five binaries first.** Is it a self carrying, met now at a coupling, or an emanation carrying nothing, arriving from its prior. Which scale it runs at. Which register it comes in: a sign or a magnitude, a store or a path. Is it taken along or across. And is its either-or taken at its momentaries, alternating and carrying both, or named as one answer of the whole, the hard probleming.
 
-**A field's own face is met after the five**, and each concern they leave open rides visible. The observings a working brings arrive through the fields' publishing and a search's returning: that selection is the working's own and never the method's, and it is said beside its bringing.
+**A saying arriving from a field, a science, a medicine or a technology is met at six binaries, the rigorizer**, one at each thing beside all things: does it carry a size, a ground, floor or scale a partway is measured against; a fixed form, a form named still; a total across the changing; a common beat, a clock over the changing; a keeping, a store beside it; or a doer applying from outside. Carrying none, it is the method's at its subject and enters whole; carrying one, it is the concern of 2.6, alternated until the thing beside is found, and re-said at parity changing, the field's own result kept exact at its own subject. `rigorize.py` at the Living File Registry kit gathers each saying of one naming across the files and seats each sentence of a file at the six: a seat is a place to meet, and it decides nothing, 4.1.
+
+**A field's own face is met after the five and the six**, and each concern they leave open rides visible. The observings a working brings arrive through the fields' publishing and a search's returning: that selection is the working's own and never the method's, and it is said beside its bringing.
 
 ## 2.8 Work arriving from another working, met whole
 
