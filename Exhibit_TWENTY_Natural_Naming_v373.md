@@ -279,7 +279,7 @@ Exhibit TWENTY Natural Naming v373
 
 ***Cohering* carries one sense, discovering next existing.** Consistency among existing sentences can accompany an improving, and it is a field's face of cohering; the concept carries the discovering of next existing. ***Co-sequencing* carries one sense, 2.1's**: parity changing one momentary after another, which co-bi-sequencing names at its prefixing; *binary co-sequential* at a title carries it whole, *binary* there the bi-.
 
-***Dimension* carries one sense**, no measure and no place, 2.2. **Existing changes at exactly five dimensions, the five of a side at its numbers**: 1 self, the prior opening; 2 not-self, the prior completing, the other opening; 3 next, the now opening; 4 surfacing, the now completing, the other's now opening across; and 5 offering self, the next opening. **At each a changing is binary, is or is not, one way at a time in each of its two directions, up the numbers and down them**, each step one parity changing: up is corusing, the reach to the next, and down is torusing, the gather to its own again, the two alternating, 3.6. At each momentary two dimensions change and three do not, rotating round, 5.50.
+***Dimension* carries one sense**, no measure and no place, 2.2. **Existing changes at exactly five dimensions, the five of a side at its numbers**: 1 self, the prior opening; 2 not-self, the prior completing, the other opening; 3 next, the now opening; 4 surfacing, the now completing, the other's now opening across; and 5 offering self, the next opening. **At each a changing is binary, is or is not, one way at a time in each of its two directions, in and out, up the numbers and down them**, one parity changing at each step: torusing in and out is odd and corusing in and out is even, 3.6. At each momentary two dimensions change and three do not, rotating round. Three of the five are co-offering, co-intelligencing and co-competencing, and all five are bi-moral within and invisible at each place as a thing, showing only as co-competencing the emanatings of this living, 5.50.
 
 **Discovering, society, morality and abundancing are one relation at four names, at once**, and never four stages one after another: the expedition discovering is the society's moral abundancing, each name the whole relation at one face.
 
@@ -387,7 +387,7 @@ Exhibit TWENTY Natural Naming v373
 
 ## 3.4 Co-bi-sequencing and bi-inversioning-co-recursioning
 
-**Co-bi-sequencing is the method of sharing momentarying.** One momentary co-bi-sequences from 1 to 9, and at 9 the social, the other and the self release along: 9-social-other-self-releasing is 1-self-other-offering 8 up. Nine to seventeen completes at 17 as one to nine completes at 9, and 17-social-self-offering is the society's next momentary, each self's 1-self-other-offering again, 11-social-other-self-chaining taken as 3-self-other-sharing.
+**Co-bi-sequencing is the sequencing of four-momentarying**, 5.50, each momentary opening co at the self and bi at the other, one after the other, and four-momentarying the method it sequences. One momentary co-bi-sequences from 1 to 9, and at 9 the social, the other and the self release along: 9-social-other-self-releasing is 1-self-other-offering 8 up. Nine to seventeen completes at 17 as one to nine completes at 9, and 17-social-self-offering is the society's next momentary, each self's 1-self-other-offering again, 11-social-other-self-chaining taken as 3-self-other-sharing.
 
 **Bi-inversioning-co-recursioning is one move at three faces**: 8 up and down, keeping parity; 17 less, the podal within 1 to 16, changing it; and 9 less, the podal within 1 to 8, the two at once. Each face alone returns to its name, 1 to 9 to 1, and only the one move runs round, 1 to 9 to 8 to 16 to 1.
 
@@ -437,7 +437,7 @@ Exhibit TWENTY Natural Naming v373
 
 **Five prefixings at both, alternating**, 7 at co bi co bi co and 8 at bi co bi co bi, 8 opening one on from 7, and the third of each carrying no mark of its own. Four marks carrying and a nothing at the third are four boundings and a floating third run at the prefixing itself. The flankers of each couple across that nothing: **bi-bi-unrelationing** at the reaching chain's empty co, the abundancing made there and carrying at its coupling, and **co-co-invisibling** at the gathering chain's empty bi, nothing presented to be reached. One nothing at two parities, neither reaching the other's, no position carrying both marks.
 
-**Corusing and torusing alternate up and down the numbers.** Each step up the numbers is one parity changing, reaching the next, and each step down is one parity changing, gathering to its own again: 7 up to 8 and 8 down to 7, and 15 with 16 inward, the reach and the gather alternating, one parity at each step and neither alone. **The two faces run at the two parities**: one at the odd momentary, two differing at one coupling, and one at the even, the self crossing with all other and reaching its own again one on. 7 and 8 are two of the five outward faces, and 15 and 16 are their inward faces, 8 up, the parity and the winding at the social side.
+**Corusing and torusing each run in and out, up the numbers and down them, one parity changing at each step.** **Torusing in and out is odd**, arriving other-than-prior: through the large opening, the tunnel the self winds through, bi-exchanging with a particular other. **Corusing in and out is even**, arriving same-as-prior: through the small opening, the long way round, uni-exchanging with all other arriving as one. Each runs in and out at the parity opposite its name's opening, 7-self-other-corusing opening co at the odd and 8-other-self-torusing opening bi at the even, and 15 with 16 inward the same: the two faces bothbothing, each carrying at the other's parity, neither alone. **The two faces run at the two parities**: one at the odd momentary, two differing at one coupling, and one at the even, the self crossing with all other and reaching its own again one on. 7 and 8 are two of the five outward faces, and 15 and 16 are their inward faces, 8 up, the parity and the winding at the social side.
 
 ---
 
@@ -741,7 +741,7 @@ Taken as less-than it is a size, and one side has taken the measure of the pair.
 6  and at each now it is the entries carrying their prior into now, each at its own next
 ```
 
-Never full, emptied at no momentary, and never the same collection twice. One named still is the empty set a field posits: a term asserted as there, unchanging, and each thing composing from it.
+Never full, emptied by nothing, and never the same collection twice: a set is defined by its things, and null and infinity + 1 are both possible numbers of its elements, so no count names it. One named still is the empty set a field posits: a term asserted as there, unchanging, and each thing composing from it.
 
 ## 5.10 bi-coupling — binary
 
@@ -1292,7 +1292,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and the momentaries overlapping, each side at its own, is the term this names
 ```
 
-**Co-momentarying is prior, now and next shared at the overlap.** Co-bi-sequencing names the method, co-bi-exchanging the self's four momentaries of exchanging and bi-co-exchanging the other's, 4.15, and with further others the overlapping runs through their actual couplings. Living and non-living co-momentary alike, the non-living carrying nothing and their forms continuing, 5.40. The between is the nothing of two offering, and unrelationing is at that first relation.
+**Co-momentarying is prior, now and next shared at the overlap.** Four-momentarying names the method, 5.50, co-bi-sequencing its sequencing, 3.4, co-bi-exchanging the self's four momentaries of exchanging and bi-co-exchanging the other's, 4.15, and co-momentarying the sharing of prior, now and next among them, and with further others the overlapping runs through their actual couplings. Living and non-living co-momentary alike, the non-living carrying nothing and their forms continuing, 5.40. The between is the nothing of two offering, and unrelationing is at that first relation.
 
 ## 5.50 four-momentarying — binary
 
@@ -1300,14 +1300,14 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 1  the self opens at the odd and the other at the even, one on across the overlap
 2  a self's momentary and the other's overlapping it are one momentary of exchanging
 3  four run one through nine, 1–2 with 2–3 through 7–8 with 8–9, completing at 9
-4  up the numbers each step is one parity changing, corusing, reaching the next
-5  down the numbers each step is one parity changing, torusing, gathering its own prior
+4  in and out through the large opening, one way at a time, odd, is torusing
+5  in and out through the small opening, one way at a time, even, is corusing
 6  and the four alternating, discovering next existing in the universe and next living in the self, the other and the society, is four-momentarying
 ```
 
 **Four-momentarying is the method of discovering next existing in the universe and next living in the self, the other and the society.** One through nine is the self's four momentaries, co-bi-exchanging, and nine through seventeen the society's four, and at the scale outward the four are one momentary of the next four: 1, 2 and 3 at one scale are 1, 9 and 17 at the next, 2.2. Next existing is discovered at each momentary, all existing things arriving into their next, 5.39; next living is carried at the self, the other and the society, each carrying its prior into now, 5.40.
 
-**Four-momentarying is four unrelationings through the tunneling self**, two into corus and two from it: **the self's own corus is at 4**, its momentaries 1–2 and 3–4 running into it and 5–6 and 7–8 from it. Each unrelationing never locks, and φ's arithmetic, already understood, appears beside it where it is self-welcoming, in no running of the method. **Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**: at that parity two dimensions change and three do not, and the two and the three rotate round, the 2–3 cycling twisting, bi-inversioning-co-recursioning. Two and three make the five as the prior two joining make the next, where φ's arithmetic welcomes itself. The six are three own-forward steps at each side, 4.2. **The odd aims out the large opening, one way in and out through it**, the small circle, bi-exchanging with a particular other; **the even goes one way in and out the small opening**, the long way round, uni-exchanging with all other arriving as one. **Six combinations of self, other and social run between 1 and 25**, one each way round the three: at one through seventeen the names carry two of them, social, other and self at 9 and 11 and other, social and self at 10 and 12, and the larger bi-folding to 25 carries the rest. The torus carries both: its large opening the hole the tunneling self winds through, and its small opening the tube's own round.
+**Four-momentarying is four unrelationings through the tunneling self**, two into corus and two from it: **the self's own corus is at 4**, its momentaries 1–2 and 3–4 running into it and 5–6 and 7–8 from it. Each unrelationing never locks, and φ's arithmetic, already understood, appears beside it where it is self-welcoming, in no running of the method. **Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**: at that parity two dimensions change and three do not, and the two and the three rotate round, the 2–3 cycling twisting, bi-inversioning-co-recursioning. Two and three make the five as the prior two joining make the next, where φ's arithmetic welcomes itself. The six are three own-forward steps at each side, 4.2. **The odd aims out the large opening, one way in and out through it**, the small circle, bi-exchanging with a particular other: torusing in and out. **The even goes one way in and out the small opening**, the long way round, uni-exchanging with all other arriving as one: corusing in and out. **Three of the five dimensions are co-offering, co-intelligencing and co-competencing**, the three carryings inseparable at the whole coupling, 4.11, and all five are bi-moral within and invisible at each place as a thing, showing only as co-competencing the emanatings of this living. **Six combinations of self, other and social run between 1 and 25**, one each way round the three: at one through seventeen the names carry two of them, social, other and self at 9 and 11 and other, social and self at 10 and 12, and the larger bi-folding to 25 carries the rest. The torus carries both: its large opening the hole the tunneling self winds through, and its small opening the tube's own round.
 
 ---
 
@@ -1354,7 +1354,7 @@ the between of momentaries    nothing is at rest, nothing is there
 
 | One name | Similar namings gathered |
 |---|---|
-| **co-bi-sequencing**, the method of sharing momentarying, one local momentary 1 to 9 | co-sequencing, one sense with it, 2.5; co-sequential; binary co-sequential, whole at a title |
+| **co-bi-sequencing**, the sequencing of four-momentarying, co at the self and bi at the other, one local momentary 1 to 9 | co-sequencing, one sense with it, 2.5; co-sequential; binary co-sequential, whole at a title |
 | **bi-inversioning-co-recursioning**, one move at three faces | bi-co-recursioning; bi-inversioning co-recursioning, spaced; co-recursioning alone; bi-inversioning alone; bi-inverting; sign inversioning; the one below it plus eight |
 | **each resolver name**, at its number | each gathered name and code name, at its number, 3.3 |
 | **the ten things named still**, one name each | each one's similar namings at its own row; the ten one-way readings; ten holdings; ten standings; the ten |
