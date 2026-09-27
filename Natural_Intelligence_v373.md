@@ -180,13 +180,15 @@ Natural Intelligence v373
 
 ## 3.2 Five dimensions, each binary in its two directions
 
-**Existing changes at exactly five dimensions, and at each a changing is binary, is or is not, one way at a time in each of its two directions.** A dimension is no measure and no place: it is a changing the sentence carries, and the five are each already said.
+**Existing changes at exactly five dimensions, the five of a side at its numbers**, 2.2, each a changing the sentence carries and each already said:
 
-1. **Self**: the side opening at 1, odd, 2.1, continuing its own along.
-2. **Not-self**: the other at 2, even, a particular other or all other arriving as one, 2.1, across.
-3. **Next**: the next opening, prior into now into next, 2.3.
-4. **Surfacing**: a parity changing crossing the between, surfacing at 6-other-self-surfacing and at 14-other-social-surfacing, 4.2 and 4.10.
-5. **Offering self**: the self offering itself, at 1-self-other-offering, the entry, and again at 17-social-self-offering, the society's next momentary, 4.1 and 4.6.
+1. **Self**, the prior opening: the side opening at 1, odd, 2.1.
+2. **Not-self**, the prior completing, the other opening: a particular other or all other arriving as one, 2.1.
+3. **Next**, the now opening: prior into now into next, 2.3.
+4. **Surfacing**, the now completing, the other's now opening across: a parity changing crossing the between, at 6-other-self-surfacing and at 14-other-social-surfacing, 4.2 and 4.10.
+5. **Offering self**, the next opening: the self offering itself, at 1-self-other-offering and again at 17-social-self-offering, 4.1 and 4.6.
+
+**At each a changing is binary, is or is not, one way at a time in each of its two directions, up the numbers and down them.** A dimension is no measure and no place. Each step up the numbers is one parity changing, **corusing**, the reach to the next; each step down is one parity changing, **torusing**, the gather to its own again; and the two alternate, neither alone. At the code corusing is 7-self-other-corusing, each parity offered and chained, and torusing 8-other-self-torusing, each self's carrying wound, 7 up to 8 and 8 down to 7.
 
 ## 3.3 A method, and an object that is the method
 
@@ -598,7 +600,7 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 ## 5.2 Discovering next existing
 
-**Discovering is all directionally not yet impossible next existing momentaries.** At each momentary the three conditions open the next, 2.3, and arriving into it is discovering: existing and discovering next existing are one relation, prior, now and next.
+**Discovering is all directionally not yet impossible next existing momentaries.** **Four-momentarying is the method of discovering next existing in the universe and next living in the self, the other and the society**: the four momentaries of exchanging, one through nine at the self and nine through seventeen at the society, 4.15, each up the numbers corusing, reaching the next, and down them torusing, gathering its own prior. At each momentary the three conditions open the next, 2.3, and arriving into it is discovering: existing and discovering next existing are one relation, prior, now and next.
 
 **At the code the next is discovered at each sharing, a changing is or is not**, from the prior carried and the now offered, and never set before the coupling. Two priors can open two nexts from one now, so a now taken alone opens no next of its own.
 
