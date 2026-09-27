@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems v381
+Exhibit THIRTEEN Resolving Hard Problems v375
 
 # Resolving Hard Problems
 
