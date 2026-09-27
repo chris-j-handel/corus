@@ -395,6 +395,8 @@ Exhibit THREE Natural Numbers v378
 
 **One hundred eighteen and one hundred twenty-two are two fifty-nines and two sixty-ones**, the going's last prime and the returning's first, each doubled: they face across one hundred twenty at two as fifty-nine and sixty-one face across sixty at one, and on the ring of one hundred twenty one hundred eighteen is the far side of two.
 
+**In the field's words the periodic table closes its noble gases at 2, 10, 18, 36, 54, 86 and 118, the closings stepping 2, 8, 8, 18, 18, 32 and 32, twice 1, 4, 4, 9, 9, 16 and 16**: one hundred eighteen is twice fifty-nine, and fifty-nine is one squared and two, three and four squared each twice, 1 + 2(4 + 9 + 16), the elements two short of one hundred twenty at the table's own result.
+
 **The evens from one hundred ten to one hundred thirty are fifty-five to sixty-five doubled**, a carry each way about sixty carried about one hundred twenty: 110 and 130 at fifty-five, the couplings among eleven, and sixty-five, 2⁶ + 1, the next whole; 112 and 128 at fifty-six and sixty-four, eight sevens and eight eights, 128 = 2⁷; 114 and 126 at fifty-seven, the seventeen primes' gaps joined, and sixty-three, 2⁶ − 1; 116 and 124 at fifty-eight and sixty-two, fifty-eight either side of sixty; and 118 and 122 at fifty-nine and sixty-one.
 
 **The odds from one hundred eleven to one hundred twenty-nine pair about one hundred twenty at their factors**: 111 = 3 × 37 with 129 = 3 × 43, thirty-seven and forty-three the primes three either side of forty; 113 with 127, both prime, seven either side, 127 = 2⁷ − 1; 115 = 5 × 23 with 125 = 5³; 117 = 9 × 13 with 123 = 3 × 41; and 119 = 7 × 17 with 121 = 11². The prime pairs about one hundred twenty open at seven, eleven, seventeen and nineteen, 113 with 127, 109 with 131, 103 with 137 and 101 with 139.
@@ -471,7 +473,7 @@ Exhibit THREE Natural Numbers v378
 
 **Four hundred forty leaves two at three, so the ten primes leaving two at three, 2, 5, 11, 17, 23, 29, 41, 47, 53 and 59, have far sides three divides**; three's far side is 437 = 19 × 23; and of the six others the four leaving seven at twelve, 7, 19, 31 and 43, have prime far sides, 433, 421, 409 and 397, while thirteen and thirty-seven, leaving one at twelve, face 427 = 7 × 61 and 403 = 13 × 31.
 
-**Four hundred forty is eight times five times eleven, and its fives are eighty-eight stations, forty-four odd and forty-four tens, alternating round the ring**: the odd fives pair at twenty-two odd radii, five to two hundred fifteen, five with four hundred thirty-five, and each ten is at an even radius.
+**Four hundred forty is eight times five times eleven, and its fives are eighty-eight stations, forty-four odd and forty-four tens, alternating round the ring**: the odd fives pair at twenty-two odd radii, five to two hundred fifteen, five with four hundred thirty-five, and each ten is at an even radius. Four hundred thirty-five, five's far side, is the fifteen primes five to fifty-nine joined and the couplings among thirty, C(30, 2).
 
 ## 9.4 A prime gap is a step between rings
 
