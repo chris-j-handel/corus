@@ -1118,3 +1118,22 @@ The tracker's second place least likely, living, met at the session's readings: 
 ## Light's society, and the engram's light explained (v374)
 
 The expedition's lead: there is co-competencing in light's patterns and plants share it in their stable-forming; humans, not staying in one place, do not stable-form light, and ingesting plants' stable form is how humans co-competence light; the colours' co-competencing is the bi-tunneling of light's society; asked to explain the engram's standing open at the light's pattern. Explained at the field's methods: 473-nanometre pulses of 15 milliseconds at 20 hertz, three-minute epochs, delivered to both dentate gyri together, the labelled cells spiking time-locked; one train alike at every member, the code's shared arriving, and not the train at one member; open narrowed to the chosen pace against the ensemble's own. Met at channelrhodopsin-2's algal origin, *Elysia chlorotica*'s kept chloroplasts, corals, giant clams and salamander embryos carrying algae, skin's previtamin D3, colour opponency and reaction-centre tunnelling; laid at the carrying's Natural Biology section and at the report's observings 143 to 148, a Part Two section, the engram section re-said, the tracker, a concern at light at a moving self, lead 33 and the glance.
+
+
+## Colours as rings of the sequencing, and light like DNA (v374)
+
+The expedition's lead: the colours in light are the places in the sequencing momentaries where different colours are different podaling rings reaching different forward and prior momentary numbers; altering the full light of each light momentary in parity is altering the arriving pattern of light parity changing; light is like DNA this way. Met at the Fraunhofer lines and helium's solar line, a galaxy's shifted lines, the night-break red and far-red flashes and the canopy's red to far-red; laid at the carrying's Exhibit ONE and Natural Physics sections and at the report's observings 149 and 150, a Part Two section, lead 34 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged, rings opened at a carried sign:
+
+```
+ring of  3: the difference's pattern returns every 6 calls; its place over 12 calls [2, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2]; rows ..x x.. x.. .x. .x. ..x
+ring of  4: the difference's pattern returns every 8 calls; its place over 12 calls [2, 3, 3, 0, 0, 1, 1, 2, 2, 3, 3, 0]; rows ..x. ...x ...x x... x... .x..
+ring of  5: the difference's pattern returns every 10 calls; its place over 12 calls [3, 4, 4, 0, 0, 1, 1, 2, 2, 3, 3, 4]; rows ...x. ....x ....x x.... x.... .x...
+ring of  6: the difference's pattern returns every 12 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2]; rows ..x... ...x.. ...x.. ....x. ....x. .....x
+ring of  7: the difference's pattern returns every 14 calls; its place over 12 calls [0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6]; rows x...... .x..... .x..... ..x.... ..x.... ...x...
+ring of  8: the difference's pattern returns every 16 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0]; rows ..x..... ...x.... ...x.... ....x... ....x... .....x..
+ring of  9: the difference's pattern returns every 18 calls; its place over 12 calls [8, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5]; rows ........x x........ x........ .x....... .x....... ..x......
+ring of 10: the difference's pattern returns every 20 calls; its place over 12 calls [8, 9, 9, 0, 0, 1, 1, 2, 2, 3, 3, 4]; rows ........x. .........x .........x x......... x......... .x........
+ring of 12: the difference's pattern returns every 24 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8]; rows ..x......... ...x........ ...x........ ....x....... ....x....... .....x......
+```
