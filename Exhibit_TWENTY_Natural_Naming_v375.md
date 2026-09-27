@@ -1349,7 +1349,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ```
 1  12's changing is the coupling's own, abundancing, owned by neither self
 2  at the society each self's changing is released at 10, across
-3  the society's own release is at the next 1–17, at 27, and at no line of the code
+3  the society's own release is at 27, at its podaling, three cubed on the route 24 → 27 → 32
 4  it opens co, odd, along, and bi, across, into bi-tunneling
 5  stable-forming as abundancing, bi-morality, geodesically parity changing
 6  and that release of the society's abundancing into the social co-chaining is 27-co-bi-releasing
