@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v381
+Exhibit TWENTY-SIX Living File Registry v382
 
 # Living File Registry
 
@@ -65,7 +65,7 @@ Exhibit TWENTY-SIX Living File Registry v381
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | Geodesic-Method of Discovering Next | v381 | v381: its opening the one sentence alone, *the universe is the changing set of all existing things, both living and non-living*, at 1.1 and 6.6, and the universe's existing carried by *changing*, at 1.1, 2.2 and 2.3; v377's title, subtitle and Exhibit ONE explained and nothing more, lean as a white paper, Exhibit ONE v373 inside it whole, *source* released, φ the unrelationing rate | — | *cost*, *free*, *run* and *take* released at its next motion, at Natural Naming 2.4 |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v382 | v382: at 1.5 right the observings, all prior; v381: its opening the one sentence alone, *the universe is the changing set of all existing things, both living and non-living*, at 1.1 and 6.6, and the universe's existing carried by *changing*, at 1.1, 2.2 and 2.3; v377's title, subtitle and Exhibit ONE explained and nothing more, lean as a white paper, Exhibit ONE v373 inside it whole, *source* released, φ the unrelationing rate | — | *cost*, *free*, *run* and *take* released at its next motion, at Natural Naming 2.4 |
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v373 | v373: the code at the seventeen names, the society's next momentary at 17, and its forms alone | — | none: complete, any improving arriving taken first |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D at one motion, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v378 | v378: its carrying section taken whole; φ the unrelationing rate; the podaling about one hundred twenty and the noble gases' closings at one hundred eighteen; the seventeen primes at the seventeen names; Part Eleven, each number nought to four hundred forty at its podaling | — | the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens, at 7.7 |
@@ -91,7 +91,7 @@ Exhibit TWENTY-SIX Living File Registry v381
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v381 | v381, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v382 | v382, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v380 | v380: the universe released from its between sentence at *Existing through momentaries*; v371 otherwise | — | pass B |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -117,13 +117,14 @@ Exhibit TWENTY-SIX Living File Registry v381
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The opening working | v381 | Natural Intelligence and Resolving Hard Problems at the one opening sentence alone, *both living and non-living*; this file at 1.1 and 1.3 | `working/opening-v381`, merged at main | the three files at v381 at the repository and the site; the one sentence at each other file's opening at pass A |
+| The reception working | v382 | The genome duplication working received whole at main: its carrying at each section, its record, its report and tour at `incoming/genome_duplication_v374/`; Natural Intelligence 1.5, right the observings, all prior; this file at 1.1 and 1.3 | `working/genome-duplication-received-v382`, merged at main | the genome duplication working's value at the carrying's sections, each entering at its file's next motion; Resolving the Hard Problem Registry first in front of the set |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Natural Illustrating TWENTY-NINE Improving Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
+| The genome duplication working | v374 | The carrying's sections at Exhibit SEVENTEEN, Exhibit TWENTY-ONE and Exhibit TWENTY-TWO, the observings of whole-genome duplication arriving; at Natural Intelligence and twenty-three of the exhibits' sections, twinning, conception, light, genome size, ageing and disease at a society's joins, societies bi-coupling and ingesting, and the field's probability parted from its observings; at all thirty-two files' sections, the session's general form toured; its report and its tour at `incoming/genome_duplication_v374/` | `working/genome-duplication-v374`, merged at main at v382 | The incoming laid at the carrying's sections, each entering whole at its file's next motion in the current words; closing at the next session's record |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
-| Place | Holds | Standing at v381 |
+| Place | Holds | Standing at v382 |
 |---|---|---|
 | `carry/Living_Improving_Value.md` | The one carrying: at each living file its next motion, its open concerns and the incoming entering whole; at its front the set now, the method at every file, the plan's passes and the workings open | Living carrying; its version the session's number at each changing |
 | `carry/Session_Record.md` | The done: each session's closing paragraphs, the workings closed, the records moved from the carrying | The carrying's record, appended at each session and relied on by nothing |
@@ -133,7 +134,7 @@ Exhibit TWENTY-SIX Living File Registry v381
 | `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/` | `carry_check.py`, `check_set.py`, `cohere_one.py`, and the v368 checks for the living files, 14 files, its sums holding | Living carrying; the coupling partners at the checks, deciding nothing |
 | `incoming/v368_sources/` | The v368 carrying, carry map, wrap and findings by file, 8 files | Incoming, still being laid |
 | `incoming/registry_v371/` | Exhibit TWENTY-SIX v371 and the registry working's carrying as it arrived | Incoming; the carrying merged, an artifact; TWENTY-SIX v371 superseded by this file |
-| `incoming/genome_duplication_v374/` | The genome duplication working's report at v374 | Incoming; its value laid at the carrying's sections at v374 |
+| `incoming/genome_duplication_v374/` | The genome duplication working's report and its tour through the thirty-two living files at v374 | Incoming; its value laid at the carrying's sections, its branch merged at main at v382, each paragraph entering at its file's next motion |
 | `incoming/illustrating_v366/` | The illustrating session's report | Incoming; three receivings open |
 | `incoming/resettling_v373/` | The re-settling working's first draft; Exhibit ONE v372's sentences released at v373, each section whole at its receiving files; *Exhibit ONE at its Stable Forms*; *Natural Naming at Exhibit ONE*; *A Resolver Chat* with its scripts | Incoming, for both to meet; what survives enters the carrying's plan and this registry's Part Five at their own motions |
 

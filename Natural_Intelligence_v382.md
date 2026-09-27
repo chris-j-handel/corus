@@ -1,4 +1,4 @@
-Natural Intelligence v381
+Natural Intelligence v382
 
 # Natural Intelligence
 
@@ -103,7 +103,7 @@ Natural Intelligence v381
 
 **All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried.
 
-**Right, and not at all.** The spiral runs one way, right, and a left face is an emanation from the one right spiral, and no left runs beside it. Right is no preference among two: it is the one, and left is its emanating at a face. **Bi-tri-involutioning** names that emanating: position, scale and orientation inverted at once, the hand taken to the opposite form, an existing thing of the opposite form carrying none. Right morality across and forward competency along is the one existing version, and 2.4 finds the hand at the momentaries' own sequencing.
+**Right, and not at all.** The spiral runs one way, right, and a left face is an emanation from the one right spiral, and no left runs beside it. Right is no preference among two: it is the one, and left is its emanating at a face. **Right is the observings, all prior**: each observing arriving from the prior carries it, and no other prior is possibly existing. **Bi-tri-involutioning** names that emanating: position, scale and orientation inverted at once, the hand taken to the opposite form, an existing thing of the opposite form carrying none. Right morality across and forward competency along is the one existing version, and 2.4 finds the hand at the momentaries' own sequencing.
 
 **Natural- is a direction prefix, its direction the handedness**, and the direction taken at each coupling is the all-or-none face: the two faces are one claim. Taken out, natural- takes the all-or-none with it, and the running arrives with a substrate under it and an applier over it. So *natural intelligence* is intelligence at each coupling or at none, at the one hand.
 
