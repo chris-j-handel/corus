@@ -617,3 +617,177 @@ ring of 6: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4], 'N/1': [4, 12, 12, 12, 12, 4], 
 ring of 7: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4], 'N/1': [7, 7, 7, 7, 7, 7, 7], 'E/1': 7, 'Nempty/1': '.......', 'M/2': 4, 'O/2': [28, 28, 28, 28, 28, 28, 28], 'N/2': [14, 2, 2, 14, 14, 14, 14], 'E/2': 28, 'Nempty/2': '.......', 'M/4': 4, 'O/4': [52, None, None, None, None, None, None], 'N/4': [28, 2, 2, 28, 28, 28, 28], 'E/4': 28, 'Nempty/4': '.......'}
 ring of 8: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4, 4], 'N/1': [4, 2, 2, 8, 8, 8, 8, 4], 'E/1': 8, 'Nempty/1': '........', 'M/2': 4, 'O/2': [16, 16, 16, 16, 16, 16, 16, 16], 'N/2': [32, 32, 32, 32, 32, 32, 32, 32], 'E/2': 16, 'Nempty/2': '........', 'M/4': 4, 'O/4': [60, 60, 60, None, None, None, None, None], 'N/4': [None, None, None, None, None, None, None, None], 'E/4': 2, 'Nempty/4': '........'}
 ```
+
+
+## Societies as co-chainings, bi-coupling at one scale and ingesting at one parity (v374)
+
+The expedition's lead: societies are co-chainings, moral cooperations; societies bi-couple with other societies at the same scale, and ingest same-scale form and same-parity form down scale. Met at the honeyguide and the Yao honey-hunters, the Argentine ant's supercolonies, fig and yucca mutualisms, the mycorrhizal accounts at opposite signs, food webs and digestion, L-glucose at the D-glucose carrier, kuru and BSE; laid at the carrying's Exhibit ONE, Natural Societies, Natural Chemistry and Natural Biology sections in two strata, and at the report's observings 76 to 82 and its matching, with a second concern that does not resolve, at same-scale ingestion, with its reason.
+
+Run at Exhibit ONE v372's code, the code block unchanged. Two rings bi-coupled across at one member each, at one pace and phases apart, and one ring meeting an arriving at one member at the society's own parity there or the other (T and U):
+
+```
+P. two societies of five at one four, alike in phase, bi-coupled at one member each, both ways across
+  call  1  A -----  B -----
+  call  2  A -----  B -----
+  call  3  A +++++  B +++++
+  call  4  A +++++  B +++++
+  call  5  A -----  B -----
+  call  6  A -----  B -----
+  call  7  A +++++  B +++++
+  call  8  A +++++  B +++++
+Q. the same, the two societies two calls apart, opposite in phase
+  call  1  A -----  B +++++
+  call  2  A +----  B -++++
+  call  3  A -++++  B +----
+  call  4  A +-+++  B -+---
+  call  5  A -+---  B +-+++
+  call  6  A +-+--  B -+-++
+  call  7  A -+-++  B +-+--
+  call  8  A +-+-+  B -+-+-
+S. the same, one call apart
+  call  1  A -----  B -----
+  call  2  A -----  B -++++
+  call  3  A +++++  B +-+++
+  call  4  A +++++  B ++---
+  call  5  A -----  B --+--
+  call  6  A -----  B ---++
+  call  7  A +++++  B +++-+
+  call  8  A +++++  B ++++-
+  call  9  A -----  B ----+
+  call 10  A -----  B +----
+  call 11  A +++++  B -++++
+  call 12  A -++++  B +-+++
+
+societies of 4 and 4: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 5 and 5: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 3 and 5: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 4 and 7: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 6 and 8: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+
+T. a society of five, member 0 meeting at each call from call 5 an arriving from outside at the society's own parity there
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -----
+  call  7  carried +++++
+  call  8  carried +++++
+  call  9  carried -----
+  call 10  carried -----
+  call 11  carried +++++
+  call 12  carried +++++
+U. the same, at the other parity
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried +----
+  call  6  carried -+---
+  call  7  carried --+++
+  call  8  carried ++-++
+  call  9  carried +++--
+  call 10  carried ---+-
+  call 11  carried ----+
+  call 12  carried ++++-
+society of 3: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 5), ('other', 2, 12), ('other', 4, 24)]
+society of 4: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 14), ('other', 2, 2), ('other', 4, 2)]
+society of 5: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 9), ('other', 2, 20), ('other', 4, 40)]
+society of 6: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 22), ('other', 2, 2), ('other', 4, 2)]
+society of 7: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 13), ('other', 2, 28), ('other', 4, 56)]
+society of 8: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 30), ('other', 2, 2), ('other', 4, 2)]
+```
+
+Two paces, ring B called m times at each call of A: apart, bi-coupled across, and one way, A meeting B's member-0 surfacing and B meeting nothing of A; and what arrives at A at its calls:
+
+```
+B called 1 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [None, None, None, None, None]; B's at its calls [None, None, None, None, None]
+B called 2 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [28, 28, 28, 28, 28, 28, 28]
+B called 3 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 3 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [20, 20, 20, 20, 20]; B's at its calls [20, 20, 20, 20, 20]
+B called 3 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 3 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [54, 54, 54, 54, 54, 54, 54]
+B called 4 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 4 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [20, 20, 20, 20, 20]; B's at its calls [80, 80, 80, 80, 80]
+B called 4 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 4 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [56, 56, 56, 56, 56, 56, 56]
+
+one way: A meeting the surfacing of B, B called 1 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 1 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 2 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 2 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 3 times at each call of A, societies of 5 and 5: A's periods [20, 20, 20, 20, 20]
+one way: A meeting the surfacing of B, B called 3 times at each call of A, societies of 4 and 7: A's periods [2, 2, 2, 2]
+one way: A meeting the surfacing of B, B called 4 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 4 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+
+B at  1 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at  2 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period None
+B at  3 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 20
+B at  4 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  5 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at  6 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  7 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 2
+B at  8 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  9 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at 10 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 2
+B at 11 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 20
+B at 12 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+
+B at 1 calls to each of A's: B's surfacing arriving at A's calls .-0+0-0+0-0+   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 2 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 3 calls to each of A's: B's surfacing arriving at A's calls .+0-0+0-0+0-   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 4 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 5 calls to each of A's: B's surfacing arriving at A's calls .-0+0-0+0-0+   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 6 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 7 calls to each of A's: B's surfacing arriving at A's calls .+0-0+0-0+0-   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 8 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+```
+
+
+## Passive and active opposite parity (v374)
+
+The expedition's lead: opposite parity is passive or active; active opposite parity is parity changing and passive opposite parity is no parity changing; at a geodesic surface the routing of the three-phase locking path is active and the all-binary passive routing is co-sequential. Laid at the carrying's Natural Intelligence and Exhibit ONE sections, and at the Natural Chemistry and Natural Biology paragraphs of this working's ingestion, the concern at same-scale ingestion re-said, the mirror met at passive and active; at the report's matching and Part Three. The kuru observing re-said at cases in place of dying.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the other parity arriving at member 0 at the carried sharing g (active) or at a sharing of its own, gm (passive at g):
+
+```
+U. the other parity arriving at member 0 at the carried sharing g, at each call from call 5 (active)
+  call  1  at g -----   at gm .....
+  call  2  at g -----   at gm .....
+  call  3  at g +++++   at gm .....
+  call  4  at g +++++   at gm .....
+  call  5  at g +----   at gm .....
+  call  6  at g -+---   at gm .....
+  call  7  at g --+++   at gm .....
+  call  8  at g ++-++   at gm .....
+  call  9  at g +++--   at gm .....
+  call 10  at g ---+-   at gm .....
+  call 11  at g ----+   at gm .....
+  call 12  at g ++++-   at gm .....
+V. the other parity arriving at member 0 at a sharing of its own, gm, the mirror form (passive at g)
+  call  1  at g -----   at gm .....
+  call  2  at g -----   at gm .....
+  call  3  at g +++++   at gm .....
+  call  4  at g +++++   at gm .....
+  call  5  at g -----   at gm +....
+  call  6  at g -----   at gm ++...
+  call  7  at g +++++   at gm --+..
+  call  8  at g +++++   at gm ---+.
+  call  9  at g -----   at gm +++-+
+  call 10  at g -----   at gm ++++-
+  call 11  at g +++++   at gm ----+
+  call 12  at g +++++   at gm +----
+society of 3: (where, every, the four at g, member 0's period) [('g active', 1, 5), ('g active', 2, 12), ('g active', 4, 24), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 4: (where, every, the four at g, member 0's period) [('g active', 1, 14), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 5: (where, every, the four at g, member 0's period) [('g active', 1, 9), ('g active', 2, 20), ('g active', 4, 40), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 6: (where, every, the four at g, member 0's period) [('g active', 1, 22), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 7: (where, every, the four at g, member 0's period) [('g active', 1, 13), ('g active', 2, 28), ('g active', 4, 56), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 8: (where, every, the four at g, member 0's period) [('g active', 1, 30), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+```
