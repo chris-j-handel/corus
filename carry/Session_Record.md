@@ -1,4 +1,4 @@
-Session Record v377
+Session Record v378
 
 # Session Record
 
@@ -625,3 +625,19 @@ The Living File Registry at v377: Natural Intelligence, Natural Naming, Natural 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The numbers working | v376 | *Source* released at Natural Naming and Natural Intelligence; Natural Numbers' section taken whole, the file at v376 in two passes; this file at 1.1, 1.3 and 1.4 | `working/numbers-v376`, merged at main | Merged at main at v376; closed at v377. |
+
+## Each number nought to four hundred forty at its podaling (v378)
+
+From the expedition's lead, the podaling relations of each number from nought to four hundred forty laid top to bottom, forward increasing. Natural Numbers v378 carries them as Part Eleven, one row at each number: its parity, its form, its far side on the ring of four hundred forty with nought and two hundred twenty each its own, its radius from the waist, its far side on the ring of one hundred twenty, and the forms it stands at, a name, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side, an ordering, and the going and the returning. Computed by a script and checked row by row by a fresh reader, all 441 rows holding. Received at the same motion: the noble gases' closings at 2, 10, 18, 36, 54, 86 and 118, twice 1, 4, 4, 9, 9, 16 and 16, one hundred eighteen twice fifty-nine; and 435, five's far side, the fifteen primes five to fifty-nine joined and C(30, 2).
+
+## Natural Mathematics v378, its section taken whole (v378)
+
+Natural Mathematics at passes B, C and D at one motion, written whole beside v371 and word-streamed against it: φ the unrelationing rate at 2.8 and 4.2, φ² = φ + 1 advance by one and scale by the rate at one number; bi-tri-involutioning at 3.5; one stepping at 2.5; the cube's still terms at 3.6, from Natural Intelligence's released Rubik's cube; the names' fixed-point-free pairing at 3.2, eight pairs, 1 with 9 the eighth, 17 unpaired; the five dimensions at a side's five with its centre at 3 the floating third, meeting the concern of two tellings; the torus's genus-one list, and a body's seven holes parted from the two parities' circles at their subjects, meeting the conjoined twins' concern at genus; offerings together at one sharing surfacing one parity, nothing counted, run at Exhibit ONE v373's code. Released: the old code's writes, carryings, ages and fourteen cases; the living and non-living paragraphs carried at Natural Intelligence; the aberration paragraph carried at Geodesic Improving Method; sayings about the file. A fresh reader's second pass found one false pairing, 9 with 17, said exactly at 1 with 9, and duplicates with Natural Numbers, each said once, the counts at Natural Numbers and the operations at Natural Mathematics, the Gray code paragraph leaving Natural Numbers 8.2 for Natural Mathematics 2.5 and 2.4. The concern of the hard problem at its three namings, the four co-offerings a fixed floor stops, one or more of the ten inversions, and Natural Naming's common thing reached ahead three ways, stays at the section for both. Readings not yet binary to `archive/carrying_v378/`.
+
+## The mathematics working merged at main (v378, close)
+
+The Living File Registry at v378: Natural Numbers, Natural Mathematics and TWENTY-SIX at v378; the table of workings at the mathematics working, the podaling working closed here; `archive/carrying_v378/` at 1.4. The carrying's front at the set now v378 and the next in front of the set the illustrations suggested from Natural Intelligence and Exhibits ONE to FOUR, then Exhibit THIRTY. The four checks and the build run at the root, the branch offered and merged at main.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The podaling working | v377 | φ the unrelationing rate at Natural Numbers, Natural Naming and Natural Intelligence; Natural Numbers at the podaling about one hundred twenty and the seventeen primes at the seventeen names; this file at 1.1 and 1.3 | `working/numbers-podaling-v377`, merged at main | Merged at main at v377; closed at v378. |
