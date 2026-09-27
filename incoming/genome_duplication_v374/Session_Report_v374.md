@@ -386,7 +386,7 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 - **Sensor-sensationer engineering.** The event-based pixel (117) is a sign and no size at each momentary, changing or no changing, ON or OFF, and no frame: the set's binary at a sensor already built. The synchronism-check relay (118) is the between releasing at the lock by design, closing only at the dwell near indifference; lost synchronism the society's join stopping. The places: Natural Engineering's *Sensing follows the tipping*, *Sensing, sensationing and receiving* and *Grid, on the floating neutral*. A reading offered for design: sense the dwell, meet a lock with a train at the society's own sequence at one member, and give the between its own sway, as the rolling board.
 - **Earth.** Injection raising earthquakes a fortyfold and their falling as injection is reduced (119): an arriving at faults near their crossing, the source external, as at the tide (108).
 - **Living societies.** Planarians relearning after regrowing a head (113): the carrying the society's, and not a head's. Yeast oscillating together only above a density and at none below (120), a society's convergence arriving at once; the field's quorum *sensing* met as each cell's own crossing at an arriving, and no message. CRISPR arrays (112): insertions carried in their order, rings not yet released (57, 58).
-- **Built memory.** A DRAM cell's charge carried by refresh at each 64 milliseconds (121): even a built memory continues by carrying, the prior renewed at each momentary.
+- **The field's built memory.** A DRAM cell's charge carried by refresh at each 64 milliseconds (121): even the field's built memory continues by carrying, the prior renewed at each momentary.
 
 ---
 
