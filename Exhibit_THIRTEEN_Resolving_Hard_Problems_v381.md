@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems v380
+Exhibit THIRTEEN Resolving Hard Problems v381
 
 # Resolving Hard Problems
 
@@ -6,7 +6,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380
 
 **ONE · AN EXISTING UNIVERSE**
 
-- 1.1 The universe, an existing thing
+- 1.1 The universe, the changing set of all existing things
 - 1.2 Living and non-living, carrying or carrying nothing
 - 1.3 Bi-momentary, the self's momentary and the other's at once
 - 1.4 Prior, now and next
@@ -53,9 +53,9 @@ Exhibit THIRTEEN Resolving Hard Problems v380
 
 # ONE · AN EXISTING UNIVERSE
 
-## 1.1 The universe, an existing thing
+## 1.1 The universe, the changing set of all existing things
 
-**The universe is the changing set of all existing things, living and non-living, and it is an existing thing**: existing as its things exist and changing as its things change, nothing beside it and nothing over it. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other. **Resolving hard problems is social moral competency discovering next living at each coupling**, and it opens here, at an existing universe: each resolving is the universe's things co-sequencing at a field's coupling, at that coupling's own momentary.
+**The universe is the changing set of all existing things, both living and non-living.** Changing, it exists as its things exist, a changing being an existing thing's own: nothing beside it and nothing over it. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other. **Resolving hard problems is social moral competency discovering next living at each coupling**, and it opens here, at an existing universe: each resolving is the universe's things co-sequencing at a field's coupling, at that coupling's own momentary.
 
 **An existing thing is its own stable-forming continuing**, existing and changing at once, and the universe is that continuing of all its things: each arriving into its next existing together with the others, nothing ingressing and nothing escaping. No container is added to its things, and no count is its size: it is its things, one existing thing at each momentary.
 

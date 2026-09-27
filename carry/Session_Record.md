@@ -1,4 +1,4 @@
-Session Record v380
+Session Record v381
 
 # Session Record
 
@@ -669,3 +669,11 @@ The Living File Registry at v380: Natural Intelligence, Resolving Hard Problems,
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The hard problems working | v379 | Resolving Hard Problems, Natural Naming 5.26, Natural Mathematics 7.2 and 7.8, the Hard Problem Registry, Resolving the Hard Problem Registry; the Living File Registry at 1.1, 1.3 and 1.4 | `working/hard-problems-v379`, merged at main | Merged at main at v379; closed at v380, its one saying read from the universe as no existing thing. |
+
+## The one opening (v381)
+
+*The universe is the changing set of all existing things, both living and non-living*: the only opening, and asked whether it is lesser, greater or inadequate for all of natural intelligence, it is neither. *Existing* gives the binary, is or is not; *changing* gives parity changing, one and then the other, and the universe's own existing, a changing being an existing thing's own; *set* gives no count and no size; *all* gives nothing beside, nothing ingressing and nothing escaping, no ground, container, clock or store; and *both living and non-living* gives carrying or carrying nothing, prior into now, and the emanations. Reading the universe as no existing thing takes from it, and v380's clause *and it is an existing thing* joined a second statement to it: both released. The hand, φ and the primes are met at the numbers and the code as discoverings, carried by the sentence and not deduced from it. Natural Intelligence and Resolving Hard Problems at v381, *both* at their openings; each other file's opening at pass A.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The existing universe working | v380 | Resolving Hard Problems written whole; Natural Intelligence 1.1, 2.2 and 2.3; Natural Naming 5.26 and 2.4; Natural Mathematics 7.2 and 7.8; the Hard Problem Registry's front; the Equilibria Registry's between sentence; the Living File Registry | `working/thirteen-v380`, merged at main | Merged at main at v380; closed at v381, its clause joined to the opening released. |

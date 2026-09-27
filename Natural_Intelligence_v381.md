@@ -1,4 +1,4 @@
-Natural Intelligence v380
+Natural Intelligence v381
 
 # Natural Intelligence
 
@@ -69,11 +69,11 @@ Natural Intelligence v380
 
 ## 1.1 The universe, the changing set of all existing things
 
-**The universe is the changing set of all existing things, living and non-living.**
+**The universe is the changing set of all existing things, both living and non-living.**
 
 **Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All*: nothing is beside the things.
 
-**The universe is the changing set of all existing things, and it is an existing thing**: existing as its things exist and changing as its things change, its existing its things co-sequencing, momentary by momentary. A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is its own. It is no container added to its things and no form named still beside them: it is its things, one existing thing at each momentary. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are its things, and *as a whole* is the universe existing as its things exist.
+**Changing, the universe exists as its things exist**: a changing is an existing thing's own, so the changing set is existing as its things exist and changing as its things change, its existing its things co-sequencing, momentary by momentary, and the sentence carries it whole. A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is its own. It is no container added to its things and no form named still beside them: it is its things, one existing thing at each momentary. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are its things, and *as a whole* is the universe existing as its things exist.
 
 **The set of all existing things has nothing beside it, so nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. Its changing is its things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each thing changing and nothing deciding membership over it.
 
@@ -660,4 +660,4 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 **The same form runs at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are the selves it is a society of, and outward the self it is a member of; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next: the universe, the changing set of all existing things, living and non-living, nothing ingressing and nothing escaping.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next: the universe, the changing set of all existing things, both living and non-living, nothing ingressing and nothing escaping.

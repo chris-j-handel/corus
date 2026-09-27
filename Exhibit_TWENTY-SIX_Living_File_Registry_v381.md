@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v380
+Exhibit TWENTY-SIX Living File Registry v381
 
 # Living File Registry
 
@@ -65,7 +65,7 @@ Exhibit TWENTY-SIX Living File Registry v380
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | Geodesic-Method of Discovering Next | v380 | v380: at 1.1 the universe the changing set of all existing things and an existing thing, at 2.2 and 2.3 the same; v377's title, subtitle and Exhibit ONE explained and nothing more, lean as a white paper, Exhibit ONE v373 inside it whole, *source* released, φ the unrelationing rate | — | *cost*, *free*, *run* and *take* released at its next motion, at Natural Naming 2.4 |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v381 | v381: its opening the one sentence alone, *the universe is the changing set of all existing things, both living and non-living*, at 1.1 and 6.6, and the universe's existing carried by *changing*, at 1.1, 2.2 and 2.3; v377's title, subtitle and Exhibit ONE explained and nothing more, lean as a white paper, Exhibit ONE v373 inside it whole, *source* released, φ the unrelationing rate | — | *cost*, *free*, *run* and *take* released at its next motion, at Natural Naming 2.4 |
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v373 | v373: the code at the seventeen names, the society's next momentary at 17, and its forms alone | — | none: complete, any improving arriving taken first |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D at one motion, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v378 | v378: its carrying section taken whole; φ the unrelationing rate; the podaling about one hundred twenty and the noble gases' closings at one hundred eighteen; the seventeen primes at the seventeen names; Part Eleven, each number nought to four hundred forty at its podaling | — | the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens, at 7.7 |
@@ -78,7 +78,7 @@ Exhibit TWENTY-SIX Living File Registry v380
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
 | **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
 | **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass C, its front, and its naming-pass items |
-| **THIRTEEN · Resolving Hard Problems** | Bi-Momentary Co-Sequencing of Living and Non-Living Existing Things | v380 | v380: written whole from the code, the naming and the explaining, the universe an existing thing, living and non-living existing things co-sequencing bi-momentary, prior, now and next; a hard problem arriving where a field reads its observings with the universe as no existing thing, and its resolving the next living discovered at the coupling | — | its items at the carrying |
+| **THIRTEEN · Resolving Hard Problems** | Bi-Momentary Co-Sequencing of Living and Non-Living Existing Things | v381 | v381: its opening the one sentence alone; v380 written whole from the code, the naming and the explaining, the universe an existing thing, living and non-living existing things co-sequencing bi-momentary, prior, now and next; a hard problem arriving where a field reads its observings with the universe as no existing thing, and its resolving the next living discovered at the coupling | — | its items at the carrying |
 | **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 | — | pass G |
 | **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 | — | pass G |
 | **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c | — | paused |
@@ -91,7 +91,7 @@ Exhibit TWENTY-SIX Living File Registry v380
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v380 | v380, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v381 | v381, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v380 | v380: the universe released from its between sentence at *Existing through momentaries*; v371 otherwise | — | pass B |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -117,13 +117,13 @@ Exhibit TWENTY-SIX Living File Registry v380
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The existing universe working | v380 | Resolving Hard Problems written whole from the code, the naming and the explaining; Natural Intelligence 1.1, 2.2 and 2.3, the universe an existing thing; Natural Naming 5.26 and 2.4; Natural Mathematics 7.2 and 7.8; the Hard Problem Registry's front; the Equilibria Registry's between sentence; this file at 1.1 and 1.3 | `working/thirteen-v380`, merged at main | the seven files at v380 at the repository and the site; the next at the carrying's front, Resolving the Hard Problem Registry at the co-sequencing |
+| The opening working | v381 | Natural Intelligence and Resolving Hard Problems at the one opening sentence alone, *both living and non-living*; this file at 1.1 and 1.3 | `working/opening-v381`, merged at main | the three files at v381 at the repository and the site; the one sentence at each other file's opening at pass A |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Natural Illustrating TWENTY-NINE Improving Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
-| Place | Holds | Standing at v380 |
+| Place | Holds | Standing at v381 |
 |---|---|---|
 | `carry/Living_Improving_Value.md` | The one carrying: at each living file its next motion, its open concerns and the incoming entering whole; at its front the set now, the method at every file, the plan's passes and the workings open | Living carrying; its version the session's number at each changing |
 | `carry/Session_Record.md` | The done: each session's closing paragraphs, the workings closed, the records moved from the carrying | The carrying's record, appended at each session and relied on by nothing |
