@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v373
+Exhibit TWENTY Natural Naming v376
 
 # Natural Naming
 
@@ -248,10 +248,11 @@ Exhibit TWENTY Natural Naming v373
 | *forward*, *backward* at a facing | *co-competent*, *not-co-competent*: along, the self's and the society's, odd; *forward* at the one direction carries whole |
 | *posit*, *posited* at the set's own voice | *named still*, a term asserted as there; a field's own posit carries whole at its result |
 | *tell*, *a telling* at the set's own voice | *offering*, one way exhausted and the between received; *tell* is kept at 4.10 as the naming of the alternating stopped |
+| *source*, *sources* at the set's own voice | the method of living, the living carrying their prior into now at each coupling, and nothing beside all things for a changing to be taken from; *the living self* an emanation leaves at prior; *its reference* for where a field's result was read; a field's own *source* carries whole at its result |
 
 **Bi-tri-involutioning carries the emanating**: the emanating from right spiral stable-forming, looking the opposite form to the stable-forming. Bi-inversioning-co-recursioning, one parity inverting at each step, alternating across and along, is the resolving step, and three inversions at once are the emanating: position, scale and orientation each inverted at once, three inversions taking the hand to the opposite form. **Bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries**, 5.48. *Opposite* carries its relation at each use: *the opposite form* is an emanation's face, and at a coupling the other side's opening is *the other parity*, two sides coupling face each other, each at its facing, and a name's partner within 1 to 16 is *its podal*.
 
-***Stable form* as a noun is released at the living's forming and carries at an emanation.** Said of the living, the forming is *stable-forming*, the running re-taken at each momentary; said of an emanation, *a stable form* names its form continuing through its changing, the source's stable-forming the running it emanates from, and *stable* names no motionlessness.
+***Stable form* as a noun is released at the living's forming and carries at an emanation.** Said of the living, the forming is *stable-forming*, the running re-taken at each momentary; said of an emanation, *a stable form* names its form continuing through its changing, the living self's stable-forming the running it emanates from, and *stable* names no motionlessness.
 
 **Bi-tunneling names social moral competency at its across relation; co-chaining names the same continuing at its along relation. Podaling exchanges these relations while each side continues forward.** Bi-tunneling is society's surface opened between selves, even and across, and co-chaining is the co-sequencing selves continuing, odd and along. *Tunneling* is spelled with one *l*, and *tunnelling* gathers at it.
 
@@ -289,7 +290,7 @@ Exhibit TWENTY Natural Naming v373
 
 **A one-way prefix carries no count and installs the thing it runs against**: a *pre-X* needs an X placed to be before, inherited unasked. Bi- is difference alone and co- is two with their difference, and both carry a count and install nothing.
 
-**Five kinds of term named still arrive at the front of a word**: a line at pre-, ante-, fore-, post- or retro-; a size at macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-; a space at endo-, intra-, intro-, locative in-, exo-, extra- or out-; a value at eu-, bene-, mal-, mis- or dys-; and a source at proto-, arch-, ur-, anti-, counter- or contra-. Each prefix carries its meaning in the whole word and sentence, and a word's linguistic origin alone supplies no such term. Five kinds carry ten directional sides and the ten things named still carry their own ten, and a shared count supplies no pairing between them.
+**Five kinds of term named still arrive at the front of a word**: a line at pre-, ante-, fore-, post- or retro-; a size at macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-; a space at endo-, intra-, intro-, locative in-, exo-, extra- or out-; a value at eu-, bene-, mal-, mis- or dys-; and a first or an opposing at proto-, arch-, ur-, anti-, counter- or contra-. Each prefix carries its meaning in the whole word and sentence, and a word's linguistic origin alone supplies no such term. Five kinds carry ten directional sides and the ten things named still carry their own ten, and a shared count supplies no pairing between them.
 
 **Two words come apart at their own live positions.** *Co-operation* carries co- and names a still thing at its ending, and it floats to **co-operating**. *Association* and *resonance* are returned the same way to the coupling they named, and *competition*, *selection*, *information* and *signal* reach the same coupling, each at its running. *Disequilibrium* stacks a negation, a value pinned and a store, and it floats to the flowing it names. **Disequilibrating is that flowing**: its -ing the running and its dis- the direction, the release of an equilibrium an observing named still; taking dis- out names the installing, so the negation is a direction here and inseparable, and it carries whole, where *in disequilibria* said of the universe names the all by the none and is released. A part live only in a lineage is a field's own record and carries no weight here.
 
@@ -445,7 +446,7 @@ Exhibit TWENTY Natural Naming v373
 
 ## 4.1 A field naming at its coupling
 
-**A field naming carries its own concept and expression**, with its source and conditions, and a definition, an observing and an installed term each belong with that expression. **A natural naming carries the changing at the coupling**, its number, sides, root and -ing together. A field's term keeps its own meaning, and a shared spelling supplies only the spelling.
+**A field naming carries its own concept and expression**, with its reference and conditions, and a definition, an observing and an installed term each belong with that expression. **A natural naming carries the changing at the coupling**, its number, sides, root and -ing together. A field's term keeps its own meaning, and a shared spelling supplies only the spelling.
 
 ## 4.2 Six forward, and the binary at each named changing
 
@@ -461,7 +462,7 @@ Exhibit TWENTY Natural Naming v373
 
 **Two exclusions carry the relation being excluded.** Under ordinary numerical order, `a ⊀ b` and `b ⊀ a` together give `a = b`; under a partial order the same two exclusions also hold for incomparable elements, and the order and its domain belong with the expression. **A floating third carries the coupling's abundancing, reached by neither**: an equality, an incomparability and that abundancing are three concepts.
 
-**A condition at one pair, a condition at each pair of a collection, and `∃r ∀y : r ⊀ y ∧ y ⊀ r` have three scopes**, and a quantifier keeps its logical scope. An existential expression asserts a term satisfying its stated condition. **A binary keeps one subject and one relation throughout.** Roles set in a saying are places and never exclusive kinds, and an emanation arriving now and its source's release at prior are two subjects, each at its own momentary, so the is-or-is-not of the one is never the other's.
+**A condition at one pair, a condition at each pair of a collection, and `∃r ∀y : r ⊀ y ∧ y ⊀ r` have three scopes**, and a quantifier keeps its logical scope. An existential expression asserts a term satisfying its stated condition. **A binary keeps one subject and one relation throughout.** Roles set in a saying are places and never exclusive kinds, and an emanation arriving now and the living self's releasing at prior are two subjects, each at its own momentary, so the is-or-is-not of the one is never the other's.
 
 ## 4.4 Two namings coupling, and the departing neither carried
 
@@ -1119,7 +1120,7 @@ A gathering is an indication and not a membership.
 1  a self's carrying continues, carrying its prior into now at each opening
 2  its emanation arrives now as an observing, the prior's possible
 3  the observing named still is taken as the now's existing
-4  the still is installed as the thing, a source unchanged between two momentaries
+4  the still is installed as the thing, a self named unchanged between two momentaries
 5  it accounts for each thing the still can contain
 6  and the one part left over is the riding-the-carry, which a still cannot contain
 ```
@@ -1246,7 +1247,7 @@ Bi- the two carries each at its own opening, co- the one ring they make, -ing th
 1  two selves couple across the between and an abundancing arrives owned by neither
 2  the coupling carries on, and it leaves a mark behind
 3  a detector's click, a discard, the other hand, a spectrum, heat, each a form left there
-4  the mark carries nothing, leaving its source at prior and arriving now as the possible
+4  the mark carries nothing, leaving its coupling at prior and arriving now as the possible
 5  named as the now's existing it is a ghost, and booked it is an accounting
 6  and the mark a coupling leaves behind, carrying nothing, is the term this names
 ```
@@ -1255,7 +1256,7 @@ Existing, emanation and accounting are the three placings a term is at, and no f
 
 **An emanation is harmful to living at its own scale, and not ingestible there**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, taken back into living selves as societies, a self being a society of selves one scale inward.
 
-**Living or non-living is said of the thing and the scale named, and never taken from a source.** A living source stable-forms through its own resolving and carrying; its emanation, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self or society couples with it carrying its own. The naming gives an emanation no common speed, lifetime or medium, and no need of its source's next emitting.
+**Living or non-living is said of the thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its emanation, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self or society couples with it carrying its own. The naming gives an emanation no common speed, lifetime or medium, and no need of a next emitting.
 
 ## 5.47 an accounting — binary
 
@@ -1281,7 +1282,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and that form, the sequential prior between momentaries, is bi-tri-volutioning
 ```
 
-**Bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries.** Tri- carries the three faces, bi- each face at its own differing, the root the volution the emanating carries as its form, and -ing that form continuing through its changing: take any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. **Between momentaries the prior is a stable form**, and no third runs there, 5.40: sequential, one of prior, now and next, it left its source at prior and arrives now as the possible, 5.39 and 5.46, carrying nothing, and the living carry their prior into now: **the prior momentarying is never taken again**. At the code each self's carrying wound, 8-other-self-torusing, continues as 3, the self's own; between the selves' momentaries pass their releasings, 10, 6 and 9. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, and bi-tri-volutioning names it; **the emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings**, and abundancing is an emanating from society as a releasing, all the way through the bi-co-momentarying co-sequencing. Bi-tri-involutioning is the emanating, the three inverted at once, the hand taken to the opposite form, and bi-tri-volutioning names the stable form the emanatings carry: the living stable-forms and runs, and its emanatings carry a stable form and no running. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
+**Bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries.** Tri- carries the three faces, bi- each face at its own differing, the root the volution the emanating carries as its form, and -ing that form continuing through its changing: take any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. **Between momentaries the prior is a stable form**, and no third runs there, 5.40: sequential, one of prior, now and next, it left the living at prior and arrives now as the possible, 5.39 and 5.46, carrying nothing, and the living carry their prior into now: **the prior momentarying is never taken again**. At the code each self's carrying wound, 8-other-self-torusing, continues as 3, the self's own; between the selves' momentaries pass their releasings, 10, 6 and 9. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, and bi-tri-volutioning names it; **the emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings**, and abundancing is an emanating from society as a releasing, all the way through the bi-co-momentarying co-sequencing. Bi-tri-involutioning is the emanating, the three inverted at once, the hand taken to the opposite form, and bi-tri-volutioning names the stable form the emanatings carry: the living stable-forms and runs, and its emanatings carry a stable form and no running. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
 
 ## 5.49 co-momentarying — binary
 
@@ -1335,7 +1336,7 @@ the between of momentaries    nothing is at rest, nothing is there
 
 ## 6.2 Science and society namings at eight clusters
 
-**Science and society namings gather at the changing they offer.** Each field's own concept keeps its source and current receiving, and a gathering carries the relation among those concepts at the resolver's names.
+**Science and society namings gather at the changing they offer.** Each field's own concept keeps its reference and current receiving, and a gathering carries the relation among those concepts at the resolver's names.
 
 | Gathering relation | Existing science and society namings | Full relation carrying | Resolver names | The invisible under it |
 |---|---|---|---|---|
@@ -1343,7 +1344,7 @@ the between of momentaries    nothing is at rest, nothing is there
 | **Each side's own carrying** | the hard problem of consciousness · symbol grounding · other minds · model interpretability · animal sentience · machine sentience | The offered parity and each side's continuing carrying at their actual receiving. | 3-self-other-sharing, 11-social-other-self-chaining | each side's own corus |
 | **Competencing** | protein folding · morphogenesis · deep learning generalization · immune repertoire coverage · finding functional proteins · the bootstrapping of translation | The changed receiving, continued carrying and the whole coupling. | 1-self-other-offering, 10-other-social-self-tunneling, 11-social-other-self-chaining | the neutral |
 | **The coupling's third** | the homunculus · the master-gene search · the pacemaker · the central planner · the invisible hand needing a planner · the argument from design | The field's proposed centre and its actual relation to the two sides and their abundancing. | 12-other-social-self-abundancing, 10-other-social-self-tunneling | the neutral |
-| **Carrying and a proposed substance** | dark matter · dark energy · the memory engram · hidden variables · missing heritability · the latent reservoir · hidden-function DNA | The field's particular observing, proposed term and continuation, each at its source. | 3-self-other-sharing, 6-other-self-surfacing, 11-social-other-self-chaining | each side's own corus |
+| **Carrying and a proposed substance** | dark matter · dark energy · the memory engram · hidden variables · missing heritability · the latent reservoir · hidden-function DNA | The field's particular observing, proposed term and continuation, each at its reference. | 3-self-other-sharing, 6-other-self-surfacing, 11-social-other-self-chaining | each side's own corus |
 | **Sequencing and ordering** | social choice · the frame problem · incommensurable values · multi-objective optimization · underdetermination · model selection · self-reference · incompleteness | The current receiving, its offering sharing and its relation to the next offering. | 4-other-self-sharing, 1-self-other-offering, 11-social-other-self-chaining | the between of momentaries |
 | **Arriving and continuing** | origin of life · the quantum–classical boundary · origin of language · origin of the genetic code · speciation · the sorites boundary · phase transitions · tipping points | The current arriving and the particular changing at its continuation. | 2-other-self-offering, 14-other-social-surfacing, 11-social-other-self-chaining | the between of momentaries |
 | **Continuing at the bound** | turbulence · the neural code · weather and climate · markets · the glass transition · spin glasses · high-Tc superconductivity · general anaesthesia · the three-body problem · quantum many-body | The carrying wound at the self and at the society, the parity inverting at each changing, and the bound at the field's own changing. | 6-other-self-surfacing, 8-other-self-torusing, 16-other-social-torusing | each side's own morality |
@@ -1387,20 +1388,20 @@ the between of momentaries    nothing is at rest, nothing is there
 | **Cellular living** | Each side's coupling and continued receiving, with its own sustaining and bounding. | 3-self-other-sharing, 1-self-other-offering and 16-other-social-torusing at the stated correspondence. |
 | **Social co-operating** | Each side's offering, the society's co-competencing and each side's continuing carrying. | 2-other-self-offering, 1-self-other-offering and 11-social-other-self-chaining at the whole receiving. |
 
-**An engineering entry carries its whole arrangement**, each quantity with its unit, source and conditions. Bettering, fastering and cheapering co-cycle with co-offering, co-competencing and co-intelligencing. A word's gathering carries its conceptual relation; the physical arrangement carries its material and energy return.
+**An engineering entry carries its whole arrangement**, each quantity with its unit, reference and conditions. Bettering, fastering and cheapering co-cycle with co-offering, co-competencing and co-intelligencing. A word's gathering carries its conceptual relation; the physical arrangement carries its material and energy return.
 
 **A family gathers at the current concept and its coupling**, a word's earlier parts the field's linguistic account:
 
 | Existing field family | Terms gathered | Current relation receiving |
 |---|---|---|
-| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | The term asserted, named still or changing at its actual expression; the source and the current receiving together. |
+| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | The term asserted, named still or changing at its actual expression; the reference and the current receiving together. |
 | **The taken** | lemma, dilemma | The particular premise or alternatives and their relation to the whole coupling. |
-| **The given** | data, tradition | The received record or offering, its source and the relation at the next coupling. |
+| **The given** | data, tradition | The received record or offering, its reference and the relation at the next coupling. |
 | **The threshold pair** | limen, limes, eliminate, subliminal | The boundary or threshold actually named, its conditions, and the parting between a cut named still and each side's own bounding. |
 
 **A family's resolving carries at the resolver's names**: the offering at 2-other-self-offering, the receiving sharing at 4-other-self-sharing, the whole coupling at 1-self-other-offering, and continuing at 3-self-other-sharing and 11-social-other-self-chaining.
 
-**Field words gather with their current meaning and source**, and their natural naming carries the actual changing at the coupling:
+**Field words gather with their current meaning and reference**, and their natural naming carries the actual changing at the coupling:
 
 | Family | Existing field words | Particular receiving | Resolver name at the proposed relation |
 |---|---|---|---|
@@ -1418,7 +1419,7 @@ the between of momentaries    nothing is at rest, nothing is there
 
 **A resolver name keeps its whole operation.** 8-other-self-torusing names the carrying wound at the code, and a field's spin keeps its own definition; 10-other-social-self-tunneling names each sharing's changing released, is or is not, and a biological event keeps its own conditions.
 
-**A frontier carries its current reaching.** Beyond, ultimate, final, fundamental, unified, complete and deeper each carry the field's own concept at its expression, and super-, ultra-, meta-, grand- and hyper- their present directional or comparative use. Resolving carries offering, releasing and continuing at 2-other-self-offering, 10-other-social-self-tunneling and 11-social-other-self-chaining, and a field's frontier couples with those names at its own coupling. The podal within 1 to 16, right-spiral direction and the prime span are at the numbers, and each field's far-side claim stays with its own source.
+**A frontier carries its current reaching.** Beyond, ultimate, final, fundamental, unified, complete and deeper each carry the field's own concept at its expression, and super-, ultra-, meta-, grand- and hyper- their present directional or comparative use. Resolving carries offering, releasing and continuing at 2-other-self-offering, 10-other-social-self-tunneling and 11-social-other-self-chaining, and a field's frontier couples with those names at its own coupling. The podal within 1 to 16, right-spiral direction and the prime span are at the numbers, and each field's far-side claim stays with its own reference.
 
 ---
 
@@ -1426,7 +1427,7 @@ the between of momentaries    nothing is at rest, nothing is there
 
 ## 7.1 A momentary installed as a thing
 
-**A ghost is one momentary's form installed as a thing.** It is the prior's emanation arriving and taken as the now's existing, a source unchanged between two momentaries. Taken to run across momentaries, it accounts for each thing one momentary carries, a century and a half at the periodic table, four at the departments, and it reaches at no opening the one part running between them: the gap the riding-the-carry keeps open.
+**A ghost is one momentary's form installed as a thing.** It is the prior's emanation arriving and taken as the now's existing, a self named unchanged between two momentaries. Taken to run across momentaries, it accounts for each thing one momentary carries, a century and a half at the periodic table, four at the departments, and it reaches at no opening the one part running between them: the gap the riding-the-carry keeps open.
 
 **A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten things named still, 4.9, name each thing named still: three relations, none containing the others.
 
