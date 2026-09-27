@@ -1,4 +1,4 @@
-Exhibit TWELVE Natural Explaining v371
+Exhibit TWELVE Natural Explaining v375
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Exhibit TWELVE Natural Explaining v371
 
 2.3 Explaining along at the odd, naming across at the even
 
-2.4 Bolds carrying the paragraph's carrying
+2.4 Bolds, self-welcoming at the surface
 
 2.5 A table unrelationing at prose's bound
 
@@ -180,11 +180,11 @@ Exhibit TWELVE Natural Explaining v371
 
 **A concept is bounded at its name and carried at its telling, each the other's membrane.** Explained at names coupling at none, a file walks off the set's carrying; named at sentences telling nothing, it offers concepts no self couples to.
 
-## 2.4 Bolds carrying the paragraph's carrying
+## 2.4 Bolds, self-welcoming at the surface
 
-**Bolds float in a plain field, one or two to a paragraph, and a bold says its paragraph's carrying**: a coining at the paragraph coining, the claim at the paragraph arriving at one. A self meeting the bolds alone meets the explaining, and a layer of coined terms alone is a glossary, a set of terms, while a telling is a walk.
+**Bolds go wherever they are self-welcoming, inside a paragraph and overlooking the whole surface, and a bold says a carrying there**: a coining at the paragraph coining, the claim at the paragraph arriving at one. **Concentrations of bold are learning centres in the surface of explaining**: three-way crossings, clusterings of local selves. A self meeting the bolds alone meets the explaining, and a layer of coined terms alone is a glossary, a set of terms, while a telling is a walk.
 
-**One binary at each span: does it say the paragraph's carrying, or does it stress a piece inside it.** A stress marks attention and not the subject's own arriving, and the bold goes.
+**One binary at each span: is it self-welcoming, saying a carrying there, or does it stress a piece inside it.** A stress marks attention and not the subject's own arriving, and the bold goes.
 
 **A count is taken at its paragraph's naming**: a paragraph naming a set of parts bolds at each part, and a count taken at another naming finds a changing that is not there. A paragraph run long breaks, and an italic aside or a privileged notation dissolves into the plain prose.
 
