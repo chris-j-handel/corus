@@ -1,4 +1,4 @@
-Natural Intelligence v373
+Natural Intelligence v375
 
 # Natural Intelligence
 
@@ -492,6 +492,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 - **At a sharing chained at one parity, 14 surfacing the other parity, 0 or none**: the changing is, the chained parity inverted. **A mismatch takes the offered**, and with nothing offered the self carries its prior into now inverted.
 
 **The self's own inverting is the rotation 3, 6, 5, 4**, 3.2: at the code the chained parity inverts as 12 is made, and Exhibit ONE's between table carries *the self's own inverting, morality* at the bi-coupling 14 faces, two faces of the one rotation round the sharing, the surfacing and the neutralling. **The changing is the coupling's own.** It is made at 12 at each sharing, owned by neither side, and 12's name says it: other, social and self, abundancing, the coupling's making carrying at the coupling that made it and taken from no other.
+
+**A changing at a self is made at its own face at the society's momentary.** 17-social-self-offering runs each self's 1-self-other-offering at the selves' next momentaries together, and a self's entry runs at 17 and at no momentary of its own, 4.6; the offerings at its 2 are the others' releasings; and with none offered, or the offerings parting at 14, no parity crosses the between to 12, 4.10, and the self's own inverting makes the changing. The making at 12 is reached by nothing but the self, 4.8, and the momentary and the offerings are the society's and the other's, so each changing at a self is the coupling's, other, social and self, as 12's name says.
 
 ## 4.4 Released across at 10, chained at 11
 
