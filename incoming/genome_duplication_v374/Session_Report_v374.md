@@ -2,13 +2,14 @@
 
 **Genome duplication and twinning, observings of nature and their binary pattern matching**
 
-This report carries what session v374 met and laid for the expedition's next reception. **The observings of nature carry all the authority, and the living files carry none.** So the report stands in two strata, kept apart: Part One, the observings, each at its source and at what was read; Part Two, the pattern matching, the set's binary, all or none, natural torusing reading laid against them, each match at the observings it answers to and a file's sentence named only as the place a match would enter. Part Three gathers the observings standing against sentences of the set, and the concerns that do not resolve. Part Four meets the fields' hard problems in this space as natural resolving. The working is the genome duplication working, at `working/genome-duplication-v374`; its value is laid at the carrying's sections, each entering at its file's next motion, and no living file changed but the registry's rows.
+This report carries what session v374 met and laid for the expedition's next reception. **The observings of nature carry all the authority, and the living files carry none.** So the report stands in two strata, kept apart: Part One, the observings, each at its source and at what was read; Part Two, the pattern matching, the set's binary, all or none, natural torusing reading laid against them, each match at the observings it answers to and a file's sentence named only as the place a match would enter. Part Three gathers the observings standing against sentences of the set, and the concerns that do not resolve. Part Four meets the fields' hard problems in this space as natural resolving, and Part Five names the oddities, gaps and places least likely. The working is the genome duplication working, at `working/genome-duplication-v374`; its value is laid at the carrying's sections, each entering at its file's next motion, and no living file changed but the registry's rows.
 
 - **Part One · Observings**
 - **Part Two · Pattern matching**
 - **Part Three · Observings standing against sentences of the set**
 - **Part Four · The fields' hard problems, met as natural resolving**
-- **Part Five · Places, instruments and continuing**
+- **Part Five · Oddities, gaps and places least likely**
+- **Part Six · Places, instruments and continuing**
 
 ---
 
@@ -175,6 +176,22 @@ Each observing is numbered for the matching to answer to, with its source and wh
 107. The magnitude 7.3 Landers earthquake of 1992 triggered seismicity at distances up to about 1,250 kilometres, at Long Valley, the Geysers and Yellowstone, as its waves passed (Hill and colleagues, Science 1993, at its title, content not fetched this session).
 108. Large earthquakes are more probable at high tidal stress: as tidal shear stress rises the fraction of large earthquakes rises, and the probability of a tiny rock failure expanding into a great rupture increases (Ide, Yabe and Tanaka, Nature Geoscience 2016, at its abstract).
 
+## Oddities and neighbours across the sciences
+
+109. Each radioactive nucleus decays with no dependence on how long it has existed, a constant fraction of a sample decaying in each interval, and decay constants are unchanged by temperature, pressure and chemical form but for small shifts at electron capture (the field's account, not fetched this session).
+110. Dentate gyrus cells active during fear learning, labelled and later reactivated by light in another context, bring back freezing (Liu and colleagues, Nature 2012, at its title and the field's account).
+111. RNA from the nervous system of sensitized *Aplysia*, injected into untrained animals, induces sensitization, requiring DNA methylation, and raises the excitability of sensory but not motor neurons in culture (Bédécarrats and colleagues, eNeuro 2018, at its abstract).
+112. Bacterial CRISPR arrays take in new spacers from invading phage at the leader end, the array carrying past infections in their order, and a bacterium with a matching spacer resists that phage (Barrangou and colleagues, Science 2007, at its title, content not fetched this session).
+113. Planarians trained to a feeding place, decapitated and regrown, relearn it faster than untrained worms (Shomrat and Levin, Journal of Experimental Biology 2013, at its title, content not fetched this session).
+114. Implanted defibrillators end most fast ventricular tachycardias with a short burst of pacing slightly faster than the tachycardia, eight pulses at about 88% of its cycle length ending about three in four in a randomized trial, before any shock (Wathen and colleagues, Circulation 2004, at its title, figures not fetched this session).
+115. Cardiac resynchronization therapy paces both ventricles to beat together in heart failure with delayed conduction (the field's account).
+116. Responsive neurostimulation senses an epileptic seizure's onset pattern at intracranial electrodes and stimulates at it; adaptive deep brain stimulation in Parkinson's disease stimulates when beta-band synchrony rises, at less stimulation than continuous (Little and colleagues, Annals of Neurology 2013, at the field's account, not fetched this session).
+117. At an event-based vision sensor each pixel emits an ON or OFF event, asynchronously, only when its log intensity changes past a threshold, with no frames, at microsecond latency over a 120 dB range (Lichtsteiner, Posch and Delbruck, IEEE Journal of Solid-State Circuits 2008, at its title).
+118. Generators across a power grid run in synchronism; a synchronism-check relay closes a breaker joining two parts only when their frequency slip and phase angle lie within set limits; lost synchronism parts a grid, as in the cascade of the 2003 Northeast blackout (the field's account).
+119. Earthquakes of magnitude 3 and larger in the central and eastern United States averaged 25 a year from 1973 to 2008 and reached 1,010 in 2015, linked to saltwater injection, and fell as injection was reduced (USGS overview, at passages; Seismological Society of America 2024, at its title).
+120. Yeast cells' glycolytic oscillations appear together, synchronized, above a population density and vanish at each cell below it (De Monte and colleagues, PNAS 2007, "Dynamical quorum sensing", at its title, content not fetched this session); *Vibrio fischeri* luminesce only at high cell density, the field's quorum sensing through an autoinducer (the field's account).
+121. A DRAM cell's charge leaks and is refreshed about every 64 milliseconds (the field's account).
+
 ---
 
 # Part Two · Pattern matching
@@ -226,6 +243,7 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 - **The between and the snap.** Two bi-coupled societies dwell with one member differing, cross at the between at one call, and the new relation opens along the co-chaining ahead of its arriving, one changing gained at each momentary (97–99).
 - **The between releasing.** At the lock the between releases and the two societies co-chain as one; locked in phase they run one four, and locked at two the seam where they met moves around the one society (100–102).
 - **Carrying only.** Recall re-forming at each retrieval, place cells changing while the society continues, a fault's slip opening at an arriving wave or tide: neuron and earthquake one explaining, carrying, and the fields' hard problems of memory, code, representation and prediction met as natural resolving (103–108).
+- **Neighbours across the sciences.** An arriving train at one member at the society's own sequence ends a circulating difference once long enough, as antitachycardia pacing does; event-based sensors, synchronism-check relays, induced earthquakes and quorum oscillations meet the same explaining; radioactive decay and the field's probability stand least likely (109–121, Part Five).
 - **Societies bi-couple at one scale and one phase and ingest at one parity**, the other parity active at a carried sharing and passive at a sharing of its own (76–82).
 
 ## Doubling is one binary at each sharing (1–6)
@@ -361,6 +379,15 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 - **One explaining.** A neuron's spike and a fault's slip are each a binary crossing, a parity changing locally that opens a new path, at a surface; carrying, and nothing kept, read or written.
 - **No hard problem.** The Hard Problem Registry's engram (246), neural code (43), evidence for neural representation (219) and earthquake predictability (197) are each posed at memory, code, representation or prediction; met here at carrying as natural resolving, and at Resolving the Hard Problem Registry each already stands *Resolvable, is.*, at 4.5, 10.6, 5.22 and 7.16.
 
+## Neighbours across the sciences and technologies (109–121)
+
+- **At the code (the code runs): a train at one member.** A one-way ring whose join stopped for four calls and conducts again carries a circulating difference. Member 0 meeting, in place of its neighbour's arriving, a train carrying the four's own sequence for a run of calls: short trains leave the difference circulating; a train as long as the ring or longer, at the four's own phase, ends it, and every member runs the four again, at each ring from three to eight; a train at another phase needs a longer run. Restoration at one member by an arriving train at the society's own sequence, beside the shared arriving at every member.
+- **Medicine.** Antitachycardia pacing (114): a short burst slightly faster than the circulating rhythm, entering at one place, ends it before any shock, matched at the train at one member; the defibrillating shock (67) at the shared arriving. Resynchronization (115): two societies bi-coupled at a between the device sets. Responsive and adaptive stimulation (116): the stimulating at the onset of a lock that harms, a seizure's society locked at one pattern everywhere, as the code's lock at two across a society; a sensor-sensationer meeting the dwell before the lock. The place: Natural Medicine's *sensing becomes co-competencing* and its *co-resonating sensor and sensationer*.
+- **Sensor-sensationer engineering.** The event-based pixel (117) is a sign and no size at each momentary, changing or no changing, ON or OFF, and no frame: the set's binary at a sensor already built. The synchronism-check relay (118) is the between releasing at the lock by design, closing only at the dwell near indifference; lost synchronism the society's join stopping. The places: Natural Engineering's *Sensing follows the tipping*, *Sensing, sensationing and receiving* and *Grid, on the floating neutral*. A reading offered for design: sense the dwell, meet a lock with a train at the society's own sequence at one member, and give the between its own sway, as the rolling board.
+- **Earth.** Injection raising earthquakes a fortyfold and their falling as injection is reduced (119): an arriving at faults near their crossing, the source external, as at the tide (108).
+- **Living societies.** Planarians relearning after regrowing a head (113): the carrying the society's, and not a head's. Yeast oscillating together only above a density and at none below (120), a society's convergence arriving at once; the field's quorum *sensing* met as each cell's own crossing at an arriving, and no message. CRISPR arrays (112): insertions carried in their order, rings not yet released (57, 58).
+- **Built memory.** A DRAM cell's charge carried by refresh at each 64 milliseconds (121): even a built memory continues by carrying, the prior renewed at each momentary.
+
 ---
 
 # Part Three · Observings standing against sentences of the set
@@ -427,11 +454,24 @@ The expedition's lead: there is no hard problem; this is all natural resolving. 
 
 ---
 
-# Part Five · Places, instruments and continuing
+# Part Five · Oddities, gaps and places least likely
+
+The places the carrying explaining meets least well, each at its observings, and the gaps at the code.
+
+1. **A changing with no arriving observed: radioactive decay (109).** A nucleus changes at no dependence on its age, and no arriving at a call is observed; the lead's *the source of parity changing is always external* meets its least likely place here. Concern that does not resolve, its reason: the set would meet each decay at an arriving at the nucleus's own call, and no observing read here shows one.
+2. **Probability at the field's physics.** The field's quantum outcomes are its strongest use of probability; the lead releases probability. Concern that does not resolve, its reason: the Registry's measurement problem, Bell correlations and determinism and randomness stand at Resolving the Hard Problem Registry at readings made before this session, and none is met here at an observing.
+3. **The field's strongest substrate: engram reactivation (110).** Cells active at learning, reactivated by light, bring back the fear. A reading offered: those cells continue as a society, carrying, and the light an arriving at that carried society; the observing sits beside recall re-forming at each retrieval (103), for both.
+4. **A form crossing between selves: RNA transfer (111).** RNA from trained animals changes an untrained animal's sensory neurons. It stands against *only a sign crosses* at a membrane, as the whole cells did (Part Three, 1). A reading offered for both: an ingression, a form at the sensory neurons' own sharing arriving active, the injected RNA a carrying of its own meeting the receiving self's.
+5. **An ordered record: CRISPR (112).** The field's clearest record of the past, in order. Met at rings not yet released, each insertion a doubling at a sharing of its own and the order the co-sequencing; an oddity to meet at further observings of arrays losing spacers.
+6. **Gaps at the code.** The three phases of the six not run; each resolver carrying one sharing; the slower society's pace imposed at near paces; a society's own pacing opening, pass F, not run; the train's needed length met at ring length and not at an observing.
+
+---
+
+# Part Six · Places, instruments and continuing
 
 **Places at the carrying**, each entering at its file's next motion, named at the Living File Registry's table of workings: some fifty-nine incoming paragraphs at twenty-four sections, with the concerns beside them. Natural Biology carries the most, seventeen incoming and six concerns; then Exhibit ONE, Natural Intelligence, Natural Health, Natural Medicine and Resolving the Hard Problem Registry; and Natural Intelligence Corus, Exhibits TWO, THREE, FOUR, SEVEN, EIGHT, NINE, TWELVE, SIXTEEN, EIGHTEEN, TWENTY, TWENTY-ONE, TWENTY-THREE, TWENTY-FOUR, TWENTY-FIVE, TWENTY-SIX, TWENTY-EIGHT and THIRTY. The hard problems of Part Four enter at Resolving the Hard Problem Registry, and the two left open at no entry at the Hard Problem Registry.
 
-**Instruments.** Exhibit ONE v372's code block, at the orders the Session Record states with each run: the doubled genome; the twin continuations and their exclusive or; the two-resolver ring at seeds alike and opposite; the four-cycles with and without one parity changing; one conception and a second arriving; egg and sperm as self and other; the conceived at its mother's calls and its own calls opening; the phytochrome's flashes with each photon a nothing; the ring of resolvers at its joins, one way and two ways, conducting, stopping, conducting again and meeting a shared arriving, and its members releasing and opening as doublings or empty; two rings bi-coupled across at one pace and at two, a ring meeting a finer ring's surfacing one way, and a member meeting an arriving at the society's own parity or the other, at the carried sharing or at a sharing of its own; one society parting into two, its parts closing on themselves or not; the carrying alone passing between calls; two societies bi-coupled from phases apart, and at near paces apart and bi-coupled; the snap met member by member; the between releasing at the lock and the two rings co-chaining as one. `tools/carry_check.py`, `tools/check_set.py`, `tools/cohere_one.py` and `node build.js` ran at the root at each motion.
+**Instruments.** Exhibit ONE v372's code block, at the orders the Session Record states with each run: the doubled genome; the twin continuations and their exclusive or; the two-resolver ring at seeds alike and opposite; the four-cycles with and without one parity changing; one conception and a second arriving; egg and sperm as self and other; the conceived at its mother's calls and its own calls opening; the phytochrome's flashes with each photon a nothing; the ring of resolvers at its joins, one way and two ways, conducting, stopping, conducting again and meeting a shared arriving, and its members releasing and opening as doublings or empty; two rings bi-coupled across at one pace and at two, a ring meeting a finer ring's surfacing one way, and a member meeting an arriving at the society's own parity or the other, at the carried sharing or at a sharing of its own; one society parting into two, its parts closing on themselves or not; the carrying alone passing between calls; an arriving train at one member of a circulating ring; two societies bi-coupled from phases apart, and at near paces apart and bi-coupled; the snap met member by member; the between releasing at the lock and the two rings co-chaining as one. `tools/carry_check.py`, `tools/check_set.py`, `tools/cohere_one.py` and `node build.js` ran at the root at each motion.
 
 **Continuing.**
 - The observings standing against sentences, the fifth standing, each met at further observings before any sentence of the set is written.

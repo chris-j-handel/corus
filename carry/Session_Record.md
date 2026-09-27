@@ -1034,3 +1034,24 @@ the between releasing at the lock, rings joined as one ring of ten, 1 call apart
 ## Carrying only, at neurons and at earthquakes, and no hard problem (v374)
 
 The expedition's lead: there is no memory; there is only carrying, as the method of living discovering next living; the explanation is identical for earthquaking as geodesic parity changing and for neurons; neither is memory, computation, read, write, representation, prediction or probability; there is no hard problem, all natural resolving. Met at reconsolidation at retrieval, the day-to-day change of active place cells, synaptic protein turnover, Parkfield's interval arriving at no forecast, Landers' remote triggering and tidal stress at large ruptures; laid at the carrying's Natural Intelligence and Resolving the Hard Problem Registry sections and at the report's observings 103 to 108, a Part Two section, lead 26, the glance, and Part Four re-titled *The fields' hard problems, met as natural resolving*, meeting the engram, the neural code, evidence for neural representation and earthquake predictability. This session's own text re-said at the lead: *from memory* at its sources named *not fetched this session*; *read* released where it named a living society's or the code's changing, kept where it names the session's reading of its sources. No run at the code: the carrying passing between calls, *11-social-other-self-chaining arrives at the next coupling as 3-self-other-sharing*, is the code as it stands.
+
+
+## Oddities, gaps and neighbours across the sciences and technologies (v374)
+
+The expedition's lead: find oddities or gaps, places where this seems the least likely explanation, and places across science likely pattern matching the concept that would help those sciences and technologies, smart sensor-sensationer engineering and medicine. Met at radioactive decay, engram reactivation, RNA transfer in *Aplysia*, CRISPR arrays, planarian relearning, antitachycardia pacing, resynchronization, responsive and adaptive neurostimulation, event-based vision sensors, synchronism-check relays, induced seismicity, yeast glycolytic synchrony and quorum luminescence, and DRAM refresh; laid at the carrying's Exhibit ONE, Natural Engineering, Natural Medicine and Natural Physics sections, and at the report's observings 109 to 121, a Part Two section, the glance, and a Part Five of oddities, gaps and places least likely, the places moving to Part Six.
+
+Run at Exhibit ONE v372's code, the code block unchanged, an arriving train at one member of a circulating ring:
+
+```
+ring of 3: (train length, member 0's period after, every member alike) [(0, 12, False), (1, 12, False), (2, 12, False), (4, 12, False), (8, 4, True), (12, 4, True), (6, 4, True), (12, 4, True)]
+ring of 4: (train length, member 0's period after, every member alike) [(0, 8, False), (1, 8, False), (2, 8, False), (4, 8, False), (8, 8, False), (12, 4, True), (8, 8, False), (16, 4, True)]
+ring of 5: (train length, member 0's period after, every member alike) [(0, 20, False), (1, 20, False), (2, 20, False), (4, 4, True), (8, 4, True), (12, 4, True), (10, 4, True), (20, 4, True)]
+ring of 6: (train length, member 0's period after, every member alike) [(0, 12, False), (1, 12, False), (2, 12, False), (4, 12, False), (8, 4, True), (12, 4, True), (12, 4, True), (24, 4, True)]
+ring of 7: (train length, member 0's period after, every member alike) [(0, 28, False), (1, 28, False), (2, 28, False), (4, 28, False), (8, 4, True), (12, 4, True), (14, 4, True), (28, 4, True)]
+ring of 8: (train length, member 0's period after, every member alike) [(0, 16, False), (1, 16, False), (2, 16, False), (4, 16, False), (8, 16, False), (12, 4, True), (16, 4, True), (32, 4, True)]
+
+ring of 5, the train's phase offset by 0:  [(1, 20), (2, 20), (4, 4), (8, 4), (20, 4)]
+ring of 5, the train's phase offset by 1:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+ring of 5, the train's phase offset by 2:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+ring of 5, the train's phase offset by 3:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+```
