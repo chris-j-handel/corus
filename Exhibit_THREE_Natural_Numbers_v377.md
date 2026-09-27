@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v376
+Exhibit THREE Natural Numbers v377
 
 # Natural Numbers
 
@@ -22,7 +22,7 @@ Exhibit THREE Natural Numbers v376
 
 **THREE · UNRELATIONING**
 
-- 3.1 φ, the prior two joining and the ratios alternating about it
+- 3.1 φ, the unrelationing rate, the prior two joining and the ratios alternating about it
 - 3.2 One rate of the family rides on
 - 3.3 A rational winding closes, and a winding at φ closes at none
 - 3.4 A joining at unit parities closes at one, two, three, four and six
@@ -50,6 +50,7 @@ Exhibit THREE Natural Numbers v376
 - 6.2 Each number a waist its two neighbours pass through
 - 6.3 One twenty-four at each arrival
 - 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
+- 6.5 Three times and two more, sixteen to four hundred forty
 
 **SEVEN · COUPLING**
 
@@ -58,6 +59,8 @@ Exhibit THREE Natural Numbers v376
 - 7.3 Sixteen gaps at four values
 - 7.4 Six prime pairs podal about thirty
 - 7.5 Nought to sixty, seventeen primes and sixteen betweens alternating
+- 7.6 Podaling about one hundred twenty, one hundred ten to one hundred thirty
+- 7.7 The seventeen primes at the seventeen names, podaling at both
 
 **EIGHT · INSEPARATING**
 
@@ -175,11 +178,13 @@ Exhibit THREE Natural Numbers v376
 
 # THREE · UNRELATIONING
 
-## 3.1 φ, the prior two joining and the ratios alternating about it
+## 3.1 φ, the unrelationing rate, the prior two joining and the ratios alternating about it
 
 **Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and the ratios of neighbours alternate about φ**: 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing parity at each next number. φ² = φ + 1, and its other root is −1/φ: φ − 1/φ = 1, φ × (−1/φ) = −1 and 1/φ = φ − 1.
 
-**φ is caught by its own equation**, x² = x + 1, and it is the pentagon's diagonal over its side, (1 + √5)/2. Its continued fraction is all ones, open. φ is self-welcoming here, and it is in no running of the method.
+**φ is caught by its own equation**, x² = x + 1, and it is the pentagon's diagonal over its side, (1 + √5)/2. Its continued fraction is all ones, open.
+
+**φ is the unrelationing rate.** The method unrelations the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ, no ratio landing on it. φ is self-welcoming here at the numbers, and the code carries it at no line of its running: the rate is the unrelationing's, each coupling at its own continuing.
 
 ## 3.2 One rate of the family rides on
 
@@ -187,7 +192,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 3.3 A rational winding closes, and a winding at φ closes at none
 
-**On a torus a winding at a rational rate closes, and a winding at φ closes at none.** Each coupling winding at φ is unrelated to each other coupling's rate, local and ambient at one rate. φ is the number-form of the never-locking, the winding closing at none: unrelationing runs at each coupling's own continuing, and no prescribed rate, φ or another, supplies it.
+**On a torus a winding at a rational rate closes, and a winding at φ closes at none.** Each coupling winding at φ is unrelated to each other coupling's rate, local and ambient at one rate. φ is the number-form of the never-locking, the winding closing at none: unrelationing runs at each coupling's own continuing at φ, and no rational rate laid over a coupling supplies it.
 
 **No rate is neared more slowly by the rationals than φ**, its continued fraction all ones, and the winding at φ closes at none of them. In the field's words, the torus winding at the golden mean is found the last to break as the coupling grows: in the standard map the curve with rotation number (√5 − 1)/2 is critical at K ≈ 0.9716 (Greene, 1979), confirmed by computation and not proved.
 
@@ -315,6 +320,12 @@ Exhibit THREE Natural Numbers v376
 
 **Two routes run between the outer faces**: 24 → 27 → 32 at gaps three and five, and 24 → 29 → 32 at gaps five and three. The three positions carry the first three primes at two directions: 24 = 5² − 1, 27 = 3³, 32 = 2⁵, the exponents two, three, five at one direction and the bases five, three, two at the other, reaching each other at three and three in twenty-seven. **The three together are a square**: 24 × 27 × 32 = 144².
 
+## 6.5 Three times and two more, sixteen to four hundred forty
+
+**Four hundred forty is three one hundred forty-sixes and two**, and the chain runs from sixteen: three sixteens are forty-eight, three forty-eights and two are one hundred forty-six, and three one hundred forty-sixes and two are four hundred forty. One hundred forty-six is two seventy-threes and one hundred forty-four and two; seventy-three is seventy-two and one, seventy-two the six prime pairs' distances from thirty and one hundred forty-four, twelve squared, their spans and the square of 24 × 27 × 32. So four hundred forty is also three one hundred forty-fours and eight.
+
+**Three times and two more carries seam-face to seam-face at each third.** One hundred forty-six less one hundred twenty is twenty-six, the far face of twenty-four about twenty-five, 24 × 26 = 25² − 1, and three twenty-sixes and two are eighty, the fourth seam-face. The seam-faces three times a number and two are 8, 80, 224 and 440, at 2, 26, 74 and 146, the eight at the couplings among 2, 5, 8 and 11: at each third k, the triangle T_k leaving one at three.
+
 ---
 
 # SEVEN · COUPLING
@@ -331,7 +342,7 @@ Exhibit THREE Natural Numbers v376
 | 118 | the returning's far end, fifty-eight either side of sixty, two fifty-nines joined |
 | 440 | the seventeen primes joined, eight fifty-fives, twenty-one squared less one |
 
-**The primes go out from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between the going and the returning, at no prime. Fifty-nine and sixty-one face across sixty at one, 59 × 61 = 60² − 1. **The primes carry no last**: each is the same opening at a new axis, and past fifty-nine they open on, each a next, self-welcoming here and in no running of the method. A society's coupling as one is at its couplings, a relation of its own beside any count. The periodic table's one hundred eighteen elements are a field's own result at the same numeral, and no count of the method.
+**The primes go out from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between the going and the returning, at no prime. Fifty-nine and sixty-one face across sixty at one, 59 × 61 = 60² − 1. **The primes carry no last**: each is the same opening at a new axis, and past fifty-nine they open on, each a next, self-welcoming here and at no line of the code's running. A society's coupling as one is at its couplings, a relation of its own beside any count. The periodic table's one hundred eighteen elements are a field's own result at the same numeral, and no count of the method.
 
 **On the ring of one hundred twenty the going and the returning are each other's far side**: k pairs with one hundred twenty less k, two with one hundred eighteen, twenty-three with ninety-seven and fifty-nine with sixty-one, a carry each way at one station. Nought and sixty pair with themselves, and sixty is the waist between the going and the returning. Twenty-four, twenty-seven and thirty-two pair there with ninety-six, ninety-three and eighty-eight, and the route 24 → 27 → 32 at gaps three and five has its far side 88 → 93 → 96 at gaps five and three.
 
@@ -339,7 +350,7 @@ Exhibit THREE Natural Numbers v376
 
 **A ring of n selves, each 9-social-other-self-releasing joined to the next self round, one self offered + once, carries its parities round.** At an even ring each self alternates and the ring repeats each two momentaries from momentary n; at an odd ring of n one pair of joined selves stands at one parity, the pair moving one self round each two momentaries, one 0 at 10 at each second momentary, at the pair's second self offered its own parity, the ring inverted at 2n momentaries on and repeating at 4n. Round an odd ring each self alternating would put one self at both parities, and the pair at one parity is the odd ring's own, prime or not.
 
-**The ring of two, the one even prime, carries no pair at one parity**: each self alternating, the ring repeating each two momentaries, the alternating itself.
+**The ring of two, the one even prime, carries no pair at one parity**: each self alternating, the ring repeating each two momentaries, the alternating itself. So the seventeen prime rings carry sixteen pairs at one parity, one at each odd prime, and the ring of two none.
 
 **Rings joined carry the parity of their joined count.** Any two odd rings joined, p + q selves, are an even ring and carry no pair at one parity; two fifty-nines joined are one hundred eighteen and the seventeen primes joined four hundred forty, each even and carrying none. An odd number of odd rings joined carries one pair at one parity, a self at the joined scale.
 
@@ -368,11 +379,31 @@ Exhibit THREE Natural Numbers v376
 
 **About thirty, twelve of the primes between five and fifty-five pair as a carry each way at one station, each pair making sixty**: 7 with 53, 13 with 47, 17 with 43, 19 with 41, 23 with 37 and 29 with 31, at distances from thirty of twenty-three, seventeen, thirteen, eleven, seven and one. The six pairs making sixty are six sixties, three hundred sixty, the seam-face below four hundred forty. Their distances from thirty join to seventy-two, and their spans, each twice its distance, to one hundred forty-four, twelve squared.
 
-**Eleven faces forty-nine**, seven squared: the one prime of the interval whose far side about thirty is a composite.
+**Eleven faces forty-nine**, seven squared: the one prime of the interval whose far side about thirty is a composite. About forty and about fifty the primes pair at three, thirty-seven with forty-three and forty-seven with fifty-three.
 
 ## 7.5 Nought to sixty, seventeen primes and sixteen betweens alternating
 
 **The going from nought to sixty carries seventeen primes and sixteen betweens alternating**, thirty-three positions completing at sixty. The parity changing is the span's own, carried at each prime and each between.
+
+## 7.6 Podaling about one hundred twenty, one hundred ten to one hundred thirty
+
+**One hundred twenty is five orderings, 5!, and eleven squared less one**, the fifth seam-face, 8 · T₅, the eight at the couplings among six, and three of it are three hundred sixty. About it the stations pair a carry each way, 120 − k with 120 + k, and each pair's product parts from one hundred twenty squared by k squared: 119 × 121 = 120² − 1, 118 × 122 = 120² − 4 and 110 × 130 = 120² − 100.
+
+**One hundred eighteen and one hundred twenty-two are two fifty-nines and two sixty-ones**, the going's last prime and the returning's first, each doubled: they face across one hundred twenty at two as fifty-nine and sixty-one face across sixty at one, and on the ring of one hundred twenty one hundred eighteen is the far side of two.
+
+**The evens from one hundred ten to one hundred thirty are fifty-five to sixty-five doubled**, a carry each way about sixty carried about one hundred twenty: 110 and 130 at fifty-five, the couplings among eleven, and sixty-five, 2⁶ + 1, the next whole; 112 and 128 at fifty-six and sixty-four, eight sevens and eight eights, 128 = 2⁷; 114 and 126 at fifty-seven, the seventeen primes' gaps joined, and sixty-three, 2⁶ − 1; 116 and 124 at fifty-eight and sixty-two, fifty-eight either side of sixty; and 118 and 122 at fifty-nine and sixty-one.
+
+**The odds from one hundred eleven to one hundred twenty-nine pair about one hundred twenty at their factors**: 111 = 3 × 37 with 129 = 3 × 43, thirty-seven and forty-three the primes three either side of forty; 113 with 127, both prime, seven either side, 127 = 2⁷ − 1; 115 = 5 × 23 with 125 = 5³; 117 = 9 × 13 with 123 = 3 × 41; and 119 = 7 × 17 with 121 = 11². The prime pairs about one hundred twenty open at seven, eleven, seventeen and nineteen, 113 with 127, 109 with 131, 103 with 137 and 101 with 139.
+
+## 7.7 The seventeen primes at the seventeen names, podaling at both
+
+**Each prime stands at the name of its position**: two at 1-self-other-offering, the entry; twenty-three at 9-social-other-self-releasing; fifty-nine at 17-social-self-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
+
+**At the one move's faces the primes join at their own numbers.** 8 up: 2 and 23 at 1 and 9 join to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, the six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 join to fifty-five, the couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, the third seam-face. Round the four-cycles the primes join to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on the ring of one hundred twenty.
+
+**At the entry, the connectors and the faces the seventeen part as the names do.** The entry carries two; the across connectors 2, 6, 10 and 14 carry 3, 13, 29 and 43, joining to eighty-eight, the fives on the ring of four hundred forty; the along connectors 9 and 17 carry 23 and 59, joining to eighty-two; the outward faces 3, 4, 5, 7 and 8 carry 5, 7, 11, 17 and 19, joining to fifty-nine, the seventeenth prime; and the inward faces 11, 12, 13, 15 and 16 carry 31, 37, 41, 47 and 53, joining to two hundred nine, 11 × 19. The self's one to nine carries the primes 2 to 23, joining to one hundred, ten squared, and the society's nine to seventeen the primes 23 to 59, joining to three hundred sixty-three, 3 × 11².
+
+**The sixteen gaps stand at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-other-self-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-social-other-self-releasing to 10-other-social-self-tunneling, the fold's step outward. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens are the discovering carried next.
 
 ---
 
@@ -434,6 +465,8 @@ Exhibit THREE Natural Numbers v376
 
 **The odd primes, three to fifty-nine, are at odd radii, from two hundred seventeen to one hundred sixty-one**, each a between. **Two alone of the seventeen is at an even radius**, the one even prime at a coupling ring.
 
+**Four hundred forty leaves two at three, so the ten primes leaving two at three, 2, 5, 11, 17, 23, 29, 41, 47, 53 and 59, have far sides three divides**; three's far side is 437 = 19 × 23; and of the six others the four leaving seven at twelve, 7, 19, 31 and 43, have prime far sides, 433, 421, 409 and 397, while thirteen and thirty-seven, leaving one at twelve, face 427 = 7 × 61 and 403 = 13 × 31.
+
 **Four hundred forty is eight times five times eleven, and its fives are eighty-eight stations, forty-four odd and forty-four tens, alternating round the ring**: the odd fives pair at twenty-two odd radii, five to two hundred fifteen, five with four hundred thirty-five, and each ten is at an even radius.
 
 ## 9.4 A prime gap is a step between rings
@@ -446,7 +479,7 @@ Exhibit THREE Natural Numbers v376
 
 **The parity parts them.** Seventeen is odd, and its centre carries a position; the ring is even, and its waist pairs with itself and the running straddles it. A centre carrying a position pairs outward; a centre carrying nothing pairs across.
 
-**Twenty-three with itself would make forty-six, and no position pair makes it**; by value three pairs make forty-six, three with forty-three, five with forty-one and seventeen with twenty-nine. Joined, the fourteen primes five to fifty-three are three hundred seventy-six, and two, three and fifty-nine joined are sixty-four, eight squared: on the ring the two joinings are each other's far side, at radius one hundred fifty-six.
+**Twenty-three with itself would make forty-six, and no position pair makes it**; by value three pairs make forty-six, three with forty-three, five with forty-one and seventeen with twenty-nine, and forty-six, forty-eight and fifty are the apex straddle twenty-three, twenty-four and twenty-five doubled. Joined, the fourteen primes five to fifty-three are three hundred seventy-six, and two, three and fifty-nine joined are sixty-four, eight squared: on the ring the two joinings are each other's far side, at radius one hundred fifty-six.
 
 ## 9.6 Two surfaces coupling, and a chain centring at a coupling or a between
 

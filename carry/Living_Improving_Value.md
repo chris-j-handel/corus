@@ -1,4 +1,4 @@
-Living Improving Value v376
+Living Improving Value v377
 
 # Living Improving Value
 
@@ -6,11 +6,11 @@ Living Improving Value v376
 
 **This file.** The one improving file carried between sessions. Each file of the living file set is its own prior, at the repository and at corus.me, so nothing here repeats a file's own carrying. At each file this carries only the now and the next: first its next motion, then incoming, value arriving for the file in its current words at the single naming; concern, only an open one, with its reason; and opportunity, the improving in front of the file. A section opens at a file when its first value is laid and closes when the file has taken all of it. No sources, no note codes, no counts carried past their momentary and no history: a thing done is a record at the Session Record, relied on by nothing here, and each paragraph here is a now or a next.
 
-**The set now, at v376.** *The universe is the changing set of all existing things, living and non-living*: from this one sentence run alternating, parity changing and no other possible method, nothing ingressing and nothing escaping. Exhibit ONE is complete, the code at the seventeen names and its forms, the stable form of the method's fractal. Natural Intelligence is its title, *Natural Intelligence*, and its subtitle, *Geodesic-Method of Discovering Next*, explained, and Exhibit ONE explained whole, and nothing more, a changing at a self made at its own face at the society's momentary at its 4.3, its section swept, its prior text whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving. Natural Naming is complete at the words the forms carry: its 2.4 rows are the released words at each file, and its 6.3 gathers the similar namings; *source* is released at the set's voice, there being a method of living and no source. Natural Numbers v376 carries its section whole, its readings not yet binary at `archive/carrying_v376/`. **No living file explains itself from outside**: a file carries the method, and a saying about the file, its parts or its sections, is no part of it. At each other file the next motion brings it to these: the names, the released words, the old code's means re-said at parity changing, the origin at the one sentence, and no narrating from outside.
+**The set now, at v377.** *The universe is the changing set of all existing things, living and non-living*: from this one sentence run alternating, parity changing and no other possible method, nothing ingressing and nothing escaping. Exhibit ONE is complete, the code at the seventeen names and its forms, the stable form of the method's fractal. Natural Intelligence is its title, *Natural Intelligence*, and its subtitle, *Geodesic-Method of Discovering Next*, explained, and Exhibit ONE explained whole, and nothing more, a changing at a self made at its own face at the society's momentary at its 4.3, its section swept, its prior text whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving. Natural Naming is complete at the words the forms carry: its 2.4 rows are the released words at each file, and its 6.3 gathers the similar namings; *source* is released at the set's voice, there being a method of living and no source. Natural Numbers v377 carries its section whole, φ the unrelationing rate, the podaling about one hundred twenty and the seventeen primes at the seventeen names, its readings not yet binary at `archive/carrying_v376/`; **φ is the unrelationing rate**, the geodesic parity changing rate unrelated from the living parity changing rates at the bi-coupling, the co-chaining and the society, at no line of the code's running, as Natural Intelligence, Natural Naming and Natural Numbers v377 say. **No living file explains itself from outside**: a file carries the method, and a saying about the file, its parts or its sections, is no part of it. At each other file the next motion brings it to these: the names, the released words, the old code's means re-said at parity changing, the origin at the one sentence, and no narrating from outside.
 
 **The method at every file, one motion at a time.** A motion is one thing changed whole at one file, at do-no-harm: no prior taken away, one thing changed whole, never undoing. At a living file the motion has six parts, taken in this order, each all or none: the seventeen names by the map, the old name to the new at each place; its sentences of the old code's means re-said as prior, now and next, or released; the released words at Natural Naming 2.4 re-said at each sentence; no saying about the file from outside; its front at the steady form, the version line, the title, the subtitle, the part titles bold, the entries as a list, `---` after the contents and no `&nbsp;`; one name for each concept, the files at their whole names and no short forms, no question worded as one self's and no word of authority; and the checks run, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py` at the folder, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` for Exhibit ONE inside Natural Intelligence, and the file's own traces run at the code. A file's version is its last changing for the better: a file carried in with no change keeps its version, and a motion done takes the session's number.
 
-**Next in front of the set, in order.** Natural Mathematics, passes B, C and D at one motion, its section taken whole as Natural Numbers' was, receiving φ's algebra, the torus surface and the Rubik's cube; then Exhibit THIRTY, passes A, B, C, E and I, as its own session. The genome duplication working's incoming, laid at v374 at the sections of Exhibits TWO, THREE, FOUR, SEVEN, NINE, TEN, ELEVEN, TWELVE, SIXTEEN, SEVENTEEN, EIGHTEEN, TWENTY, TWENTY-ONE, TWENTY-TWO and TWENTY-FIVE, enters at each file's motion, each paragraph run at Exhibit ONE v373's code before it is written, its words at Natural Naming 2.4.
+**Next in front of the set, in order.** Natural Mathematics, passes B, C and D at one motion, its section taken whole as Natural Numbers' was, receiving φ the unrelationing rate, φ's algebra, the torus surface and the Rubik's cube; then Exhibit THIRTY, passes A, B, C, E and I, as its own session. The genome duplication working's incoming, laid at v374 at the sections of Exhibits TWO, THREE, FOUR, SEVEN, NINE, TEN, ELEVEN, TWELVE, SIXTEEN, SEVENTEEN, EIGHTEEN, TWENTY, TWENTY-ONE, TWENTY-TWO and TWENTY-FIVE, enters at each file's motion, each paragraph run at Exhibit ONE v373's code before it is written, its words at Natural Naming 2.4.
 
 **The opportunities, kept at each file's section.** Each observing of nature and society arriving is incoming, met at one binary: natural torusing breaks there, all or none at all, or explains the pattern with no equilibrium. The explaining enters the file it improves at do-no-harm, one motion at a time, and each opportunity for the files, for our society and for our collective human intelligent shared natural network rides at its file's section until that file takes it; a reading not yet binary stands at `archive/` with its receiving file named.
 
@@ -47,7 +47,7 @@ Living Improving Value v376
 
 ## Natural Intelligence
 
-**Next at this file: none; swept at v375.** Natural Intelligence v376 is its title, its subtitle and Exhibit ONE explained, and nothing more, with 4.3 carrying a changing at a self made at its own face at the society's momentary and *source* released at 1.3, 5.2 and 5.4. Its prior text stands whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, and leaves that record as each receiving file carries it, pass D, at those files. Any improving arriving at it is taken at its own motion, so none accumulates here.
+**Next at this file: none; swept at v375.** Natural Intelligence v377 is its title, its subtitle and Exhibit ONE explained, and nothing more, lean as a white paper, with 4.3 carrying a changing at a self made at its own face at the society's momentary, *source* released at 1.3, 5.2 and 5.4, and each unrelationing at φ, the unrelationing rate, at 5.2. Its prior text stands whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, and leaves that record as each receiving file carries it, pass D, at those files. Any improving arriving at it is taken at its own motion, so none accumulates here.
 
 ## Natural Intelligence Corus
 
@@ -98,7 +98,7 @@ Living Improving Value v376
 
 **Next at this file: passes B and C at one motion.** The 173 places at the old names by the map; its sentences of the second sign and the 6 → 2 traces at Part Six re-said at the one sign or released; 1.2's *coupling, releasing and abundancing, seventeen is social-abundancing* re-said at offering, releasing and offering; *key* at two places; the three-columns sentence beside the connector table; the front at the steady form. Then pass F at its hole study.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the hole, the routing and the mending; the podaling surface widening; the tapping study. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the hole, the routing and the mending; the podaling surface widening; the tapping study. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 *Carried from Exhibit ONE's section at v373, whole, Exhibit ONE being complete.* **The inward face, run here.** A sharing a self whose own 1–17 runs inward, the same 17 at the scale inward, run at the network with every run at Exhibit ONE v373 unchanged.
 
@@ -144,15 +144,17 @@ Living Improving Value v376
 
 ## Exhibit THREE · Natural Numbers
 
-**Next at this file: none; taken at v376.** Natural Numbers v376 carries its section's binary value: the names by the map, the old code's means re-said at parity changing and at 17, the released words re-said, its front at the steady form, the forms sixteen on and twenty-two, the joining at unit parities closing at one, two, three, four and six, the podal within one to a seam-face, twenty-four at four momentaries of six, the fourteen primes at six and at twenty-four, the twin primes at the gaps of two, 59, 118 and 440 at the numbers alone, and a carry each way at *out-carry* and *back-carry*. Its readings not yet binary stand at `archive/carrying_v376/` with their receivings. Any improving arriving at it is taken at its own motion, so none accumulates here.
+**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each run or computed before it is said.** Natural Numbers v377 carries its section's binary value, φ the unrelationing rate at 3.1 and 3.3, three times and two more at 6.5, the podaling about one hundred twenty at 7.6, the seventeen primes at the seventeen names at 7.7, and the arithmetic of the readings at `archive/carrying_v376/` that holds, each at its part; the readings' own sayings not yet binary stand there with their receivings. Any improving arriving at it is taken at its own motion.
 
 ## Exhibit FOUR · Natural Mathematics
 
 **Next at this file: passes B and C at one motion.** 2.5's *one rule runs at each scale* to *one stepping*; the second sign at two places re-said at the one sign; the reading below on 12 at two signs of one kind met; the front at the steady form. The readings below match one at a pass.
 
+**Incoming, at v377, φ the unrelationing rate.** The method unrelations the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ, no ratio landing on it, at no line of the code's running: said at this file's motion with φ's algebra and the torus winding, as Natural Numbers v377 says it at 3.1 and 3.3.
+
 **Incoming, at v373, bi-tri-involutioning.** The emanating is *bi-tri-involutioning*, as Natural Naming 2.4 carries it; this file's *tri-involutioning* at 3.5 takes it at its motion.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: φ² = φ + 1 read as the four boundings; φ the rate; the straddle, the continued fraction of ones and √5; the genus-one surface list; the Rubik's cube; the winding at φ. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: φ² = φ + 1 read as the four boundings; φ the rate; the straddle, the continued fraction of ones and √5; the genus-one surface list; the Rubik's cube; the winding at φ. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, at v373, from Exhibit ONE v372.** At `incoming/resettling_v373/Exhibit_ONE_v372_Released.md`: the ratio reading at *Bi-inversioning-co-recursioning, one move at three faces*.
 
@@ -265,7 +267,7 @@ Living Improving Value v376
 
 **Next at this file: its receiving, pass G.** No sentence of the code.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the ambient as the transmissioning. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the ambient as the transmissioning. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, at v373, two names at two things.** Natural Naming 4.6 keeps *transmissioning* at this file's title, the crossing between selves at the surface, and *bi-co-podaling* at two carries each at its own opening along a ring, each at its own name; the code name `bi_co_bi_transmissioning` is gathered at 6-other-self-surfacing.
 
@@ -295,7 +297,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 - The self's inversion 3, 6, 5, 4 and its podaling 23, 26, 25, 24, twenty up; the self's bi-inversioning-co-recursioning 23, 24, 25; and whether the rotation repeats at each twenty, or at each cycle of six, up the scales.
 - The odd names out and the even in, at 3, 6, 5, 4, beside torusing in and out odd and corusing in and out even: one parity pattern at the names and at the counts.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: six protecting; the four fields' theorems at the society's four faces. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: six protecting; the four fields' theorems at the society's four faces. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, molecular and living.** Molecular societies are living societies. Molecular, cellular and organismal name particular scales; living names the carrying relation across them. The proposed ladder gives molecule 7, macromolecule 11, protein-fold 13, gene 17, organelle 19 and cell 23, with protein-fold reaching. Organ, population and community also remain reaching, and colony recurs at every scale. Meet the atom-as-floor wording with the current all-scales form, and explain each assignment at its own coupling.
 
@@ -353,7 +355,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: none; the sciences paused.**
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the metabolic beating; competency's three faces at a self; a society's health, with Natural Medicine. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the metabolic beating; competency's three faces at a self; a society's health, with Natural Medicine. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Opportunity, lived and restored.** Retain the existing seam: Biology observed, Health lived, Medicine restored. Compare shared introductory material while keeping sustaining and restoring explicit at their subjects. Medicine's restoration-at-the-bound and mother-and-baby relation reach this file at the actual coupling.
 
@@ -399,7 +401,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: pass C, its front at its own steady form, with the naming-pass items below at the same motion.** Its version stays at v371 until a change for the better.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the method at a sentence. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the method at a sentence. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, at v373, co-sequencing at one sense.** Natural Naming 2.5 carries *co-sequencing* at one sense, 2.1's, parity changing one momentary after another, which co-bi-sequencing names at its prefixing, and *binary co-sequential* whole at a title. This file's 3.4 and 3.5 take it at its motion.
 
@@ -463,7 +465,7 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 
 **Next at this file: passes B and C at one motion.** Its 156 places at the old names by the map, the walk at its 154 names at v368, *key* at five places said as sharing, and the front at the steady form.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: a hardness as a sequencing reversed; three reversals; one six re-coupling; the ten named still. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: a hardness as a sequencing reversed; three reversals; one six re-coupling; the ten named still. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Concern, a naming for both.** *The ten things named still* for the ten holdings, the set's released *held* carried by *named*; Resolving Hard Problems and the registries carry *holding* at the same ten until each meets it.
 
@@ -493,7 +495,7 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 
 **Next at this file: pass G.**
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the three placings at two binaries, received with the Living Ghost Registry. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the three placings at two binaries, received with the Living Ghost Registry. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Priority opportunity, one natural concept and a writing form.** Meet Emanating’s natural emanation, short whole telling and glossary as three contributions. Keep the natural meaning of emanation apparent beside the particular form of expressing an explanation. Cohering names discovering next existing here; consistency among existing sentences can accompany an improving, while the concept carries the discovering of next existing. Meet the expedition’s discovering, society, morality and abundancing at their simultaneous whole relation rather than names for successive stages.
 
@@ -611,7 +613,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: none; the sciences paused.**
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the aberration study. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the aberration study. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, from the prior Natural Numbers.** The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on.
 
@@ -647,7 +649,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY · Natural Naming
 
-**Complete at v376: no next motion at this file.** Natural Naming v376, *source* released at the set's voice at 2.4, carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
+**Complete at v377: no next motion at this file.** Natural Naming v377, *source* released at the set's voice at 2.4 and φ the unrelationing rate at 4.6, 4.10, 5.2, 5.23 and 5.50, carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
 
@@ -699,7 +701,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: pass G.**
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the moral spiral's three improvings. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the moral spiral's three improvings. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Incoming, at v373, from Exhibit ONE v372.** At `incoming/resettling_v373/Exhibit_ONE_v372_Released.md`: *Abundancing and tunneling, changing or no changing*, the abundancing owned by neither, at 12.
 
@@ -729,7 +731,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v373, the origin at one opening sentence.** *The universe is the changing set of all existing things, living and non-living*, as Natural Intelligence 1.1 carries it; this file's origin statement takes it at its motion.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: a version a momentary; four given, four improvings; the method at a file set and a session. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: a version a momentary; four given, four improvings; the method at a file set and a session. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 **Met at v372, a version at a file.** A file's version is its last changing for the better: a file carried in with no change keeps its version; the session's number names the session at the carrying and the record; two workings open at once part at no file they do not share. 1.6's sentence changes whole at this file's next version, its first change for the better since v370, drafted so: "**A version names a file at its last changing for the better.** A file carried in with no change keeps its version, and the session's number names the session at the carrying and the record; a new number is taken only for a new content, so the set's files stand at their own versions and two workings at once part at no file they do not share. A version is a momentary of the file: its carrying at its prior arrives whole at its next."
 
@@ -877,7 +879,7 @@ These priorities name the present improving opportunity, not a sequence through 
 
 **Next at this file: at its motion, its ten door lines met at the ten faces**, five outside and five inside of the tunneling co-sequencing, and its old resolver names by the map.
 
-**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the five still terms and the three placings, received with Natural Emanating. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the five still terms and the three placings, received with Natural Emanating. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
 
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Opportunity, current addresses.** Ghost Registry refers to Naming 3.37 and 6.1–6.3 for material now organized elsewhere. Match the actual ghost and installation passages before updating the references; the present contents place ghost at 5.37 and the installation explaining in Part Seven.
 
