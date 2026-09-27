@@ -1292,3 +1292,8 @@ A --------, B -+-+-+-+ (B alternating), offering + at A's head, bi-coupled acros
    call 13: A ++++++++ surf ........ | B ++++++++ surf ........
    call 14: A ++++++++ surf ........ | B ++++++++ surf ........
 ```
+
+
+## Glass a stable-formed society emanation with bi-tunneling inside (v374)
+
+The expedition's lead: glass is a stable-formed society emanation with bi-tunneling inside; the lengths of the bi-tunnelings will be four φ rate changing. Met at the two-dimensional silica glass's rings of four to nine, a metallic glass's icosahedral clusters, the quasicrystal's powers of φ, and the field's refractive indices; laid at the carrying's Natural Chemistry section and at the report's observings 158 to 161, the *Light a binary offering* section, lead 37 and the numerals released. Nature makes no predictions: the four lengths at φ rate stand as a pattern to meet at further observings and at a run of rings inside at the code, neither done this motion.
