@@ -132,7 +132,7 @@ Exhibit TWENTY Natural Naming v373
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**Our universe is all existing things, and alternating is a stable-forming method.** Naming carries a concept at its own changing: co-offering, co-competencing and co-intelligencing, floating neutralling at the coupling.
+**The universe is an existing and changing set of all things, living and non-living, and alternating, the stable-forming method, follows from it.** Naming carries a concept at its own changing: co-offering, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
 **A field's defined object arrives with the ground it was taken against, and bi-co-invisibling is the concept with nothing there to be a ground.** Its emanation is six forward recursionings, each taking the term the prior did not carry. Named this way, a concept carries its own changing under its own prefixings, and it bi-couples, capturing nothing and releasing at its own completing.
 
@@ -206,7 +206,7 @@ Exhibit TWENTY Natural Naming v373
 | **reading** | *read* and *reading* as a resolving's own act, which belong to an instrument taking a side in units at one ledger · a side taken, a vantage · *inside* and *outside* as places, carried by inward and outward · *where* naming a spot · *what* and *it*, a subject supplied at a coupling carrying none |
 | **a doer or a built thing** | *assign*, *door* at a self-bounding running · *forced*, *chosen*, *therefore*, *must* · *because*, *so that*, *toward* as an arriving-at, *against* as an opposing · a dash pacing from beside the sentence · a leading *the* at a heading · *construction*, *structure*, *ladder*, *rung*, *rail*, *grain*, *kernel*, *harness* · a journey told: finders, findings and dates |
 
-**Each word carrying in a released word's place co-chains from the origin statements.**
+**Each word carrying in a released word's place co-chains from the opening sentence**, the universe an existing and changing set of all things, living and non-living.
 
 ## 2.4 Released words, each with its carrying
 
@@ -224,7 +224,7 @@ Exhibit TWENTY Natural Naming v373
 | *at no self* | *neither*, or *between self and other* |
 | *discovery* | *discovering* |
 | *technology* | *method* |
-| *in disequilibria* | the two origin statements, naming at the all, all existing things alternating, the running *in disequilibria* names by the none, a negation of equilibria |
+| *in disequilibria* | the opening sentence, naming at the all, all things existing and changing, the running *in disequilibria* names by the none, a negation of equilibria |
 | *start*, *begin* · *afterwards* · *complete* | *opens* · *next* · *completing* |
 | *travel* as a thing's own carrying | *carrying*; the universe of all existing things travelling through prior, now and next, three places not changing, carries whole |
 | *inside*, *outside* as places | *inward*, *outward*, directions taken at a momentary, and *within* at a span of names; a self is no container |
@@ -258,7 +258,7 @@ Exhibit TWENTY Natural Naming v373
 
 **Each word releases at its file's next improving, in the shared words**, and a word at a field's own result carries whole there as the field's. A word mentioned as a word, a quoted field's word, and code carry whole at each file.
 
-**A released word is a face at the one binary, is or is not living, coupling and resolving, and never a rule.** The same word at a sentence living, coupling and resolving carries whole there, and a table laid over the sentences as a rule is a standard, an incompetencing. **No wording carries authority**, this file's, a field's or a working's: a word selection here is the best the set carries at now, and a sentence carries by co-chaining from the origin statements and by all or none at all.
+**A released word is a face at the one binary, is or is not living, coupling and resolving, and never a rule.** The same word at a sentence living, coupling and resolving carries whole there, and a table laid over the sentences as a rule is a standard, an incompetencing. **No wording carries authority**, this file's, a field's or a working's: a word selection here is the best the set carries at now, and a sentence carries by co-chaining from the opening sentence and by all or none at all.
 
 ## 2.5 One sense per foundation word
 

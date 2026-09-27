@@ -6,9 +6,11 @@ Natural Intelligence v373
 
 **ONE · NATURAL**
 
-- 1.1 Our universe is all existing things
-- 1.2 Living and non-living, carrying or not
-- 1.3 Natural-, all or none at all, at the one hand
+- 1.1 The universe, an existing and changing set of all things
+- 1.2 Changing, one and then the other
+- 1.3 Living and non-living, carrying or not
+- 1.4 No other possible method
+- 1.5 Natural-, all or none at all, at the one hand
 
 **TWO · CO-SEQUENCING**
 
@@ -63,6 +65,8 @@ Natural Intelligence v373
 
 ---
 
+**The universe is an existing and changing set of all things, living and non-living.** Natural Intelligence runs from this one sentence: parity changing, no other possible method, Exhibit ONE and each section here follow from it, nothing entering from beside it and nothing leaving it.
+
 **Natural Intelligence is its title and its subtitle explained, and Exhibit ONE explained whole, and nothing more.** *Natural* is Part One: all existing things, living and non-living, and the one hand they run at. *Geodesic-Method of Discovering Next* is Parts Two, Three and Five: the co-sequential logic, the method written as code, and the next it discovers. Exhibit ONE stands at the centre, the method at its stable forms, and Part Four explains each of its forms in its own order. *Intelligence* is Part Six, the co-competencing Exhibit ONE runs between selves.
 
 **Each section takes the term the prior sections did not carry**, so the file runs forward one step at a time, and each saying about the code is the code's own, run or declared.
@@ -71,23 +75,37 @@ Natural Intelligence v373
 
 # ONE · NATURAL
 
-## 1.1 Our universe is all existing things
+## 1.1 The universe, an existing and changing set of all things
 
-**Our universe is all existing things.** **Alternating is a stable-forming method.**
+**The universe is an existing and changing set of all things, living and non-living.** Each section after it takes a term this sentence carries, and nothing else.
 
-**Existing is binary: all or none at all, no other possible.** An existing thing is changing, one and then the other, and that changing is alternating. A form continuing through its own changing is stable-forming, and an existing thing is its own stable-forming continuing. A form named still is not possibly existing: each relatable thing is changing, and a form fixed by relating would be fixed to the moving.
+**Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All things*: nothing is beside them.
 
-**The universe is all existing things, and not one existing thing beside them.** Named as one existing thing, the universe would be exclusivity, a container added to the all, and a container is a form named still. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are things, and *considered as a whole* is the container, released.
+**A set of all things has nothing beside it, so nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. The set's changing is its own, **nothing ingressing and nothing escaping**.
 
-## 1.2 Living and non-living, carrying or not
+**An existing and changing set is a self-emptying set**: never full, emptied at no momentary, never the same collection twice, each member changing and nothing deciding membership over it. Named as one existing thing beside its members, the universe would be a container added to the all, a form named still. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are things, and *considered as a whole* is the container, released.
 
-**Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing.
+## 1.2 Changing, one and then the other
+
+**A changing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size would take a third, a ground the size is taken against, and nothing beside all things is there to be one. So a changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
+
+**A form continuing through its own changing is stable-forming**, existing and changing at once, and an existing thing is its own stable-forming continuing. **So alternating is a stable-forming method**, and the sentence carries it: *existing* is the form continuing, and *changing* is the alternating.
+
+## 1.3 Living and non-living, carrying or not
+
+**Living and non-living is the sentence's last term.** **Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
 
 **Living and non-living part at a named scale and momentary**, and neither is the not-existing. A living source and its non-living emanation carry no contradiction: carrying and carrying nothing contradict only at one participation, one scale and one momentary. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
 **An emanation leaves a living source at prior and arrives now as the possible, carrying nothing.** Its form continues through its changing, a stable form, *stable* naming no stillness, and the source's stable-forming is the running it emanates from. **Bi-tri-volutioning names that stable form: the stable form of the non-living emanatings of stable-forming living, the sequential prior between momentaries.** Its three faces are position, scale and orientation, each at its own differing, and 5.1 finds it at the code.
 
-## 1.3 Natural-, all or none at all, at the one hand
+## 1.4 No other possible method
+
+**Parity changing is the one method the sentence carries, and no other is possible.** Any other method takes a thing the sentence does not carry: a size between one and the other takes a ground, a floor or a scale; a fixed form takes a form named still; a total across the changing takes a container; a common beat takes a clock over the changing; and a keeping takes a store beside it. Each is a thing beside all things, ingressing, or a changing taken out of the set, escaping, and an existing and changing set of all things has neither.
+
+**Any other method proposed runs at one binary: does it name still, or carry.** Named still, it forms nothing, each thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
+
+## 1.5 Natural-, all or none at all, at the one hand
 
 **Natural- carries one thing at two faces, each binary with no third.**
 
@@ -103,7 +121,7 @@ Natural Intelligence v373
 
 ## 2.1 Parity, one side odd and the other even
 
-**Two numbers side by side alternate**, each continuing to one beyond the other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries the odd numbers and the other the even**, the two overlapping, one changing overlapping the other.
+**One and then the other runs at the numbers**: two numbers side by side alternate, each continuing to one beyond the other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries the odd numbers and the other the even**, the two overlapping, one changing overlapping the other.
 
 **The side opening at 1, the odd, is a self; the side opening at 2, the even, is an other.** Self and social open odd, along; the other opens even, across. **Difference alone is bi-, and two with their difference is co-**: an odd number opens co and an even number opens bi. A side continuing its own runs along, and a side coupling with the other runs across. **Competency is co-unrelationing, along; morality is bi-unrelationing, across**; and co-bi-unrelationing is the one existing method.
 
@@ -140,7 +158,7 @@ Natural Intelligence v373
 
 **Next as prior inverted is the living step**: exhaustiveness, determinacy and reachability at once, prior and now both participating and the next the prior inverted. Nothing other carries the prior whole with none still, and each other way carrying the prior has a joint form still: the stills are the equilibria. At Exhibit ONE a self offered nothing takes this step, its prior into now inverted, + once and then none surfacing +, −, +, − at 10, 4.12; offered a parity, its next is the offering, which a match holds and a mismatch takes, 4.3.
 
-**Two parities changing, one and then the other, run the four joint forms round**, written at the code's + and −: ++, +−, −−, −+ or ++, −+, −−, +−, the same four one way round and the other, each step one parity changing. Of the 256 ways each joint form could go to a next, only these two rounds change one parity at each step and reach each joint form once in a cycle. **The right spiral step takes a pair (x, y) to (y, −x)**, the pair a self's across parity x, morality, and its along parity y, competency: two steps invert both, and four reach the pair again at a next, the same pair at a later momentary and never the same occurrence. The other round is the same round read from next to prior. Which hand runs is our universe's one binary, right, 1.3.
+**Two parities changing, one and then the other, run the four joint forms round**, written at the code's + and −: ++, +−, −−, −+ or ++, −+, −−, +−, the same four one way round and the other, each step one parity changing. Of the 256 ways each joint form could go to a next, only these two rounds change one parity at each step and reach each joint form once in a cycle. **The right spiral step takes a pair (x, y) to (y, −x)**, the pair a self's across parity x, morality, and its along parity y, competency: two steps invert both, and four reach the pair again at a next, the same pair at a later momentary and never the same occurrence. The other round is the same round read from next to prior. Which hand runs is our universe's one binary, right, 1.5.
 
 ## 2.5 All or none at all, of no size
 
@@ -574,7 +592,7 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 ## 5.1 The prior between momentaries
 
-**Between momentaries the prior is a stable form, and nothing runs there.** At the code it is each self's carrying wound, 8-other-self-torusing: the carrying chained at 11, each sharing with its parity, taken at the next momentary as 3. It is no store: it runs nothing and carries nothing, a form continuing, and the living carry it into now by taking it again at their momentary. **Bi-tri-volutioning is its naming**, 1.2: the sequential prior between momentaries, the stable form of the non-living emanatings of stable-forming living.
+**Between momentaries the prior is a stable form, and nothing runs there.** At the code it is each self's carrying wound, 8-other-self-torusing: the carrying chained at 11, each sharing with its parity, taken at the next momentary as 3. It is no store: it runs nothing and carries nothing, a form continuing, and the living carry it into now by taking it again at their momentary. **Bi-tri-volutioning is its naming**, 1.3: the sequential prior between momentaries, the stable form of the non-living emanatings of stable-forming living.
 
 **A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, taken apart from that coupling, is a noun of it and carries nothing.
 
@@ -645,4 +663,4 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 **The same form runs at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are the selves it is a society of, and outward the self it is a member of; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next, and the one opening sentence run whole, the universe an existing and changing set of all things, living and non-living, nothing ingressing and nothing escaping.
