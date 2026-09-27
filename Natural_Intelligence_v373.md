@@ -500,7 +500,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 - **At a sharing chained at one parity, 14 surfacing that same parity**: the changing is not, 0. **A match holds.**
 - **At a sharing chained at one parity, 14 surfacing the other parity, 0 or none**: the changing is, the chained parity inverted. **A mismatch takes the offered**, and with nothing offered the self carries its prior into now inverted.
 
-**The changing is the coupling's own.** It is made at 12 at each sharing, owned by neither side, and 12's name says it: other, social and self, abundancing, the coupling's making carrying at the coupling that made it and taken from no other.
+**The self's own inverting is the rotation 3, 6, 5, 4**, 3.2: at the code the chained parity inverts as 12 is made, and Exhibit ONE's between table carries *the self's own inverting, morality* at the bi-coupling 14 faces, two faces of the one rotation round the sharing, the surfacing and the neutralling. **The changing is the coupling's own.** It is made at 12 at each sharing, owned by neither side, and 12's name says it: other, social and self, abundancing, the coupling's making carrying at the coupling that made it and taken from no other.
 
 ## 4.4 Released across at 10, chained at 11
 

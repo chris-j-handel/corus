@@ -49,8 +49,6 @@ Living Improving Value v373
 
 **Incoming, at v373, the map at its subtitle.** At `incoming/resettling_v373/Natural_Intelligence_Map.md`: each section at *Geodesic-Method of Discovering Next*, kept, near or released, the receiving file named for each near passage, and the floating neutralling contents, six parts and Exhibit ONE; for both to take before the motion, the near passages received at their files first.
 
-**Concern, where the self's own inverting is, with its reason.** At the code the chained parity inverts at 12, the carrying's own; Exhibit ONE's bi-coupling table says *the self's own inverting, morality* at 14, the bi-coupling 14 faces. Natural Naming 3.4 says both at once; Parts One and Five here, saying morality as the self's own inverting, say it the same way at pass A.
-
 **Incoming, at v373, bi-tri-volutioning at its one naming.** The opening now says *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, as Natural Naming 5.48 unfolds it. 6.5's heading, *Geodesic-method, bi-tri-volutioning*, and its three faces running at the living, each winding at its own differing, say the living's own stable-forming with the emanatings' name: at pass A, 6.5 is re-said so the name stays at the emanatings' stable form.
 
 *Carried from Natural Naming's section at v373, whole, Natural Naming being complete.* **Incoming, the eight faces and two invisiblings.** The eight face namings' full directional and geometric correspondence, beside Natural Naming 3.6's four pairs at the current names and the eight bi-couplings at the even names; bi-co-invisibling and co-co-invisibling at their interior and ambient relations.
@@ -393,6 +391,14 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit SEVEN · Natural Societies
 
 **Next at this file: its whole motion at the current words, then pass G, the comparison with Natural Networking 1.8.** 5.3 is explored at v373: a society all existing bi-coupling same-prime-scale selves; the fourteen primes five to fifty-three parting eight one before a six and six one after, seven and seven across the fold at twenty-four; four cycles of six before it and six cycles of six to sixty; sixty to sixty-eight the nothing between self and universe; the self's bi-inversioning-co-recursioning at twenty-three, twenty-four and twenty-five; the betweenings the stable form; emanations releasings; abundancing an emanating from society. The rest of the file stands at its prior wording until that motion.
+
+**Opportunity, the pattern matching discoveries at the prime society scales, for later exploring.** Each is likely natural torusing, and each is explored at the code and the numbers before it is said as a relation:
+
+- The fourteen primes five to fifty-three part eight one before a six and six one after, the one parting that gives eight and six, and seven and seven across the fold at twenty-four, four and three at each side: the two forward recursionings into the larger and the smaller societies, odd up and odd down parity scale changing.
+- Of the four scales reading *reaching* at 5.3, three are one after a six, the protein-fold at 13, the organ at 31 and the population at 43, and one before, the community at 47: whether reaching gathers at one of the two recursionings.
+- Four cycles of six before twenty-four and six cycles of six from twenty-four to sixty, each cycle carrying at least one scale; fifty-nine one before sixty; sixty to sixty-eight the nothing between self and universe; sixty-four bi-folding to two hundred fifty-six.
+- The self's inversion 3, 6, 5, 4 and its podaling 23, 26, 25, 24, twenty up; the self's bi-inversioning-co-recursioning 23, 24, 25; and whether the rotation repeats at each twenty, or at each cycle of six, up the scales.
+- The odd names out and the even in, at 3, 6, 5, 4, beside torusing in and out odd and corusing in and out even: one parity pattern at the names and at the counts.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: six protecting; the four fields' theorems at the society's four faces. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 
