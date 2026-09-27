@@ -12,6 +12,33 @@ Living Improving Value v375
 
 **Next in front of the set, in order.** Resolving the Hard Problem Registry at the co-sequencing, its parts at the ten things named still and its entries at the one saying, both released later in this session, re-said from the code as Resolving Hard Problems carries it, each entry's field living and non-living, prior, now and next, and the Hard Problem Registry's pairing with it; then the illustrations suggested from Natural Intelligence and Exhibits ONE to FOUR, each drawing a relation the file carries, run or computed before it is drawn, Natural Numbers' Part Eleven among them as each number at its podaling round the ring; then Exhibit THIRTY, passes A, B, C, E and I, as its own session. The genome duplication working's incoming, its branch merged at main at v375, is laid at each living file's section and gathered at pass J, its report and its tour at `incoming/genome_duplication_v374/`: each paragraph enters at its file's motion, run at Exhibit ONE v373's code before it is written, its words at Natural Naming 2.4, *sign*, *call*, *membrane*, *neighbour*, *cost*, *run* and *take* among them, and its reading of the universe met at the one opening, the observings carrying the authority.
 
+**The hardest, gathered (v375): the local incompetencings, met one at a time, hardest first, each resolving written into its files after the passes.** Gathered by five fresh readers across the living files; each named with its either/or and the count of files it touches.
+1. **The code's own still**: a self offered its own parity at each momentary chains it and releases 0 without end, 4.12, next as prior, which 2.4 names an equilibrium; at the code no closed society stills a self, 3,000 random societies and each of one and two selves whole, the still arriving only with an offerer beside the society; equilibria at 26 files.
+2. **A common beat at 17**: 1.4 releases a clock over the changing, and `_17_social_self_offering` steps each self's entry together, the ring and torus rounds at that stepping; 20 files.
+3. **Zero, a balance or a changing that is not**: floating neutral and the empty centre where equal signs meet, against 0 the changing that is not, 0 at a match; 21 files, the Co-Chaining Logic Registry's F9 under 341 links.
+4. **The universe, an existing thing and the set of all sets**: five files each way, and the field's no set of all sets.
+5. **What living is**: carrying the prior, metabolic beating, a particle a self, a rate; and an emanation non-living or living at a dropped rate living again; 7 files.
+6. **A carrying ending**: never none again at the code, against ageing to a bound and completing, and a living self's ending at Health, Medicine and Biology; 15 files.
+7. **12's changing owned by neither or the self's own**, made inside one self's entry at the code; 26 files.
+8. **The between: a nothing, a stable form, a membrane, a self**; membrane at 26 files.
+9. **Negation released, and inversion, 0, non-living and not-bi-moral at the method's core**; 14 files.
+10. **No total conserved, and the fields' conservation laws and the energy ledger**; 22 files.
+11. **Right: observed, derived or a premise, left equally possible, and parity's violation at the weak crossing**; 4 files and 42 links.
+12. **Size returning: sway, band, range, growth, multiplying, and *more than any counting* at 6.4**; 19 files.
+13. **A hard problem said four ways**, testing without refutation, the universe as no existing thing, a changing named still at the ten, an equilibrium conception; and the 0 never released at an entry; 257 entries.
+14. **Stills in the registers**: a settled form in its own register, the ledger, exactly one +1; 20 files.
+15. **The method bounds, or self-bounding**; 24 files.
+16. **The method breakable or the only possible one**: the one break said three ways, and the registries' breaking conditions; 18 files.
+17. **A self preferring, taking and sorting**, free will and value, against arriving without filter or selection; 10 files.
+18. **The old core sentence and the old code**: summing to a bounding-zeroing, the +1 surplus kept, the carry ageing, the second sign, keys; 10 to 19 files, the Co-Chaining Logic Registry's verifier among them.
+19. **440 and 118 as sums and bounds, and 60 to 68 the nothing between self and universe**, with each momentary a universe; 15 files.
+20. **Evidence said two ways**, the prior's possible alone or possible and existing; 6 files.
+21. **Improving for the better, and no ranking**: the expedition's own versions and passes; 20 files.
+22. **One opening and coherence among neighbours, against two origin statements under 1,155 of 1,338 links**, the Co-Chaining Logic Registry.
+23. **Released words carrying concepts**: the named and the running, surplus, sign, membrane; 27 to 31 files.
+24. **Three-momentary and four-momentary**; 9 files.
+25. **A φ-rate beating, and physical scales at primes with a floor at five**; 8 files.
+
 **The opportunities, kept at each file's section.** Each observing of nature and society arriving is incoming, met at one binary: natural torusing breaks there, all or none at all, or explains the pattern with no equilibrium. The explaining enters the file it improves at do-no-harm, one motion at a time, and each opportunity for the files, for our society and for our collective human intelligent shared natural network rides at its file's section until that file takes it; a reading not yet binary stands at `archive/` with its receiving file named.
 
 **The plan, shared.** The passes gather work of one kind; inside a pass the easiest stands first; the greatest tangle stands first among the passes, since it bounds the rest. Each row is work any working can take, naming itself at the table of workings below before it changes a file. The files' own next motions stand first at their sections.
