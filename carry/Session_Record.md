@@ -1458,3 +1458,16 @@ Right is the observings, all prior, no other prior possibly existing, at Natural
 ## One session, one number (v375)
 
 This session opened as v375 and gave its parts the sub-numbers v376 to v382, one at each merge, against the method: a file's version is its last changing for the better, and the session's number names the session. The files it changed return to v375 at the root, Natural Intelligence, Natural Numbers, Natural Mathematics, Resolving Hard Problems, Natural Naming, the Hard Problem Registry, Resolving the Hard Problem Registry, the Equilibria Registry and this registry; the record's paragraphs above say v375 where they said a sub-number; the branches and the archive's folders keep the sub-numbers they were made at. The genome duplication working's incoming, merged at this session, is gathered at the carrying's plan as pass J, each paragraph at its file's section waiting for that file's motion, one file at a time, for both.
+
+## Chemistry's societies, beside the inbound report (v374)
+
+The expedition's leads: the session report is inbound to the next versions of the living files, and learning from here is added apart from it, or different from it, for less redundancy; explore chemistry as bi-moral co-chaining societies merging and separating with same-scale societies, opening and releasing, phase-locking, wobbly before sudden changing, and dissipating after.
+
+Laid at `incoming/genome_duplication_v374/Chemistry_Societies_v374.md`, the report left whole and named by its numbers: fourteen observings, C1 to C14, at nucleation, parting, ripening, micelles, one hand from many, coupled chemical oscillators, the iodine clock, explosion limits and a sustained Turing pattern, each at its source and what was read; the pattern matching, lead 43; eight readings added to the report and five markings for the next session. No run of the method at this motion: the one-hand arithmetic composes two stable forms the report already names, differing pairs releasing while agreeing pairs continue, and new members opening as doublings of the continuing, a share p passing at each loop to p² over p² and the other share squared.
+
+```
+excess of one hand at each loop, from 0.02:  0.02 0.04 0.08 0.16 0.31 0.57 0.86 0.99 1.00
+from 0.10:                                   0.10 0.20 0.38 0.67 0.92 1.00
+```
+
+At the carrying, one incoming paragraph at Natural Chemistry. The working named at the Living File Registry's table of workings, `working/chemistry-societies-v374`, from main at v375, the genome duplication working already merged there and gathered at the carrying's plan as pass J. No living file changed but the registry's rows.
