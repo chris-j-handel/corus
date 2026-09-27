@@ -65,7 +65,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | Geodesic-Method of Discovering Next | v372 | v373 at the re-settling working's branch, Exhibit ONE v373 inside it whole | The re-settling working | pass A, its sentences of the old code at prior, now and next |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v372 | v373 at the re-settling working's branch: its title, its subtitle and Exhibit ONE explained and nothing more, Exhibit ONE v373 inside it whole | The re-settling working | none of its own: its prior text received at its files, pass A |
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v372 | v373 at the re-settling working's branch: the code at the seventeen names, the society's next momentary at 17, and its forms alone | The re-settling working | none: complete, any improving arriving taken first |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |

@@ -16,13 +16,15 @@ one = open(resolver_path, encoding='utf-8').read()
 body = one.split('\n---\n', 1)[1].strip()
 ni = open(intelligence_path, encoding='utf-8').read()
 pre, rest = ni.split(HEAD, 1)
-old_body, post = rest.split('\n# PART FIVE', 1)
+nxt = re.search(r'\n# ', rest)             # the part after Exhibit ONE, at its own heading
+old_body, post = rest[:nxt.start()], rest[nxt.start() + 1:]
 m = re.search(r'(\s*(---|&nbsp;)\s*)+$', old_body)
 sep = old_body[m.start():] if m else '\n\n'
-new = pre + HEAD + body + sep + '\n# PART FIVE' + post
+new = pre + HEAD + body + sep + '\n' + post
 if new != ni:
     open(intelligence_path, 'w', encoding='utf-8').write(new); print('written inside', os.path.basename(intelligence_path))
-check = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', new.split(HEAD, 1)[1].split('\n# PART FIVE')[0].strip())
+after = new.split(HEAD, 1)[1]
+check = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', after[:re.search(r'\n# ', after).start()].strip())
 assert check == body, 'Exhibit ONE inside Natural Intelligence differs from the standalone'
 code = body.split('```python', 1)[1].split('```', 1)[0]
 ns = {}
