@@ -966,3 +966,67 @@ beam seeded -, rings 2 apart: relation first 16 calls xxxxx =xxxx =xxxx ==xxx ==
 beam seeded -, rings 3 apart: relation first 16 calls xxxxx ===== ==xxx ===== ===xx ===== ====x ===== ===== ===== ===== ===== ===== ===== ===== =====
      last calls relation {'====='}; A0 period 2, B0 2, beam 2
 ```
+
+
+## The between releasing at the lock, and one society (v374)
+
+The expedition's lead: at the lock a between existed prior to the two societies becoming one; this momentary the between, the bounded 0 inside the carrying, releases, and the two societies begin bi-coupling selves and co-chaining with each other, the social parity changing no other possible; the crossing nearing moves elsewhere, and bi-tunneling and co-chaining in floating neutralling locally on torusing surfacing again. Met at paired embryonic heart-cell aggregates' three phases of entrainment, single heart cells beating together on contact, and the sinoatrial node's pacemaker shift; laid at the carrying's Exhibit ONE section and at the report's observings 100 to 102, a Part Two section, lead 25 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+the between releasing at the lock, rings joined as one ring of ten, 1 call apart:
+  mode release, 1 apart: locked and joined at call 28
+    call   1  -----|-----
+    call   2  -----|-++++
+    call   3  +++++|+-+++
+    call   4  +++++|++---
+    call   5  -----|--+--
+    call   6  -----|---++
+    call   7  +++++|+++-+
+    call   8  +++++|++++-
+    call   9  -----|----+
+    call  10  -----|+----
+    call  11  +++++|-++++
+    call  12  +++++|+-+++
+    call  13  -----|-+---
+    call  14  +----|+-+--
+    call  15  -++++|-+-++
+    call  16  +-+++|+-+-+
+    call  17  -+---|-+-+-
+    call  18  +-+--|+-+-+
+    call  19  -+-++|-+-+-
+    call  20  +-+-+|+-+-+
+    call  21  -+-+-|-+-+-
+    call  22  +-+-+|+-+-+
+    call  23  -+-+-|-+-+-
+    call  24  +-+-+|+-+-+
+    call  25  -+-+-|-+-+-
+    call  26  +-+-+|+-+-+
+    call  27  -+-+-|-+-+-
+    call  28  +-+-+|+-+-+
+    call  29  ++-+-++-+-
+    call  30  --+-+--+-+
+    call  31  +--+-+--+-
+    call  32  -++-+-++-+
+    call  33  +-++-+-++-
+    call  34  -+--+-+--+
+    call  35  +-+--+-+--
+    call  36  -+-++-+-++
+    call  37  +-+-++-+-+
+    call  38  -+-+--+-+-
+    call  39  --+-+--+-+
+    call  40  ++-+-++-+-
+0 apart, beam    : joined at None; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row +++++|+++++
+0 apart, release : joined at 9; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row ++++++++++
+0 apart, direct  : joined at None; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row +++++|+++++
+1 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+|+-+-+
+1 apart, release : joined at 28; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row ++-+-++-+-
+1 apart, direct  : joined at 25; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-+-+-+
+2 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-|-+-+-
+2 apart, release : joined at 18; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row ++-+-++-+-
+2 apart, direct  : joined at 8; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+-+-+-
+3 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-|-+-+-
+3 apart, release : joined at 29; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row --+-+--+-+
+3 apart, direct  : joined at 24; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+-+-+-
+```
