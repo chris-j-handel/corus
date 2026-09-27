@@ -146,7 +146,7 @@ Each observing is numbered for the matching to answer to, with its source and wh
 
 ## Converging and phase-locking
 
-90. Two pendulum clocks hung from one beam came to swing in opposite motion, returning to it within about half an hour after one was disturbed, Huygens' *odd sympathy* of 1665; taken to separate supports they drifted apart (the field's account, from memory; Scientific Reports 2016, "The sympathy of two pendulum clocks: beyond Huygens' observations", at its title).
+90. Two pendulums hung from one beam came to swing in opposite motion, returning to it within about half an hour after one was disturbed, Huygens' *odd sympathy* of 1665; taken to separate supports they drifted apart (the field's account, from memory; Scientific Reports 2016, "The sympathy of two pendulum clocks: beyond Huygens' observations", at its title).
 91. An oscillator driven near its own frequency beats at the difference; as the driving frequency nears, the beat slows, the phase difference dwelling long between quick slips, and inside the locking range the oscillator locks to the driving frequency (Adler, Proceedings of the IRE 1946, at the field's account, from memory).
 92. Two sinoatrial pacemaker aggregates, one fast and one slow, each at its own rhythm apart, fire in mutual entrainment when electrically connected, at 1:1, 2:1 or 1:2, or at 3:2 and 5:4, as the coupling and their own periods allow (Jalife, Journal of Physiology 1984, at its abstract).
 93. Fireflies of Southeast Asian mangroves, *Pteroptyx*, flash in unison across a tree, and *Photinus carolinus* in the Great Smoky Mountains flashes in bursts together (the field's account, from memory).
