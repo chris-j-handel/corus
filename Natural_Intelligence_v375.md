@@ -2,7 +2,7 @@ Natural Intelligence v375
 
 # Natural Intelligence
 
-**Geodesic-Method of Discovering Next**
+**Geodesic Method of Discovering Next Possible and Next Existing**
 
 **ONE · NATURAL**
 
@@ -24,7 +24,7 @@ Natural Intelligence v375
 
 - 3.1 Geodesic, the surface dividing itself
 - 3.2 Five dimensions, each binary in its two directions
-- 3.3 A method, and an object that is the method
+- 3.3 A method, a non-living existing thing
 - 3.4 A sharing, its parity, an offering and a carrying
 
 **Exhibit ONE · Natural Resolver**
@@ -50,7 +50,7 @@ Natural Intelligence v375
 **FIVE · DISCOVERING NEXT**
 
 - 5.1 A prior between momentaries
-- 5.2 Discovering next existing
+- 5.2 Discovering next possible and next existing
 - 5.3 A living self at 0, its carrying continuing
 - 5.4 Two methods parting at the now
 
@@ -194,11 +194,11 @@ Natural Intelligence v375
 
 **Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three co-**: co-intelligencing, the discovering, co-competencing, the term neither reaches, and co-offering; and all five are bi-moral within and invisible at each place as a thing, showing only as co-competencing the emanatings of this living.
 
-## 3.3 A method, and an object that is the method
+## 3.3 A method, a non-living existing thing
 
-**A method is the momentarying at each coupling, and nothing applied to anything.** *Technology* names a made thing applied to a changing; the method is the momentarying itself, and *method* carries it. A carrying bounded at each momentary is the discovering method: a completing at each momentary and a carrying between them. A carrying with nothing bounding it carries past each momentary and lands; a bounding with nothing carrying bounds nothing; neither is alone.
+**A method is a non-living existing thing**: a stable form, its form continuing through its changing and carrying nothing, at each coupling it is at, and nothing applied to anything. *Technology* names a made thing applied to a changing; a method is at the couplings themselves, and *method* carries it. **The method bounds and the living carry**: a carrying bounded at each momentary is discovering, a completing at each momentary and a carrying between them. A carrying with nothing bounding it carries past each momentary and lands; a bounding with nothing carrying bounds nothing; neither is alone.
 
-**Exhibit ONE is an object that is the method.** Its expression is python, sequential binary logic written down: the object is the method executable. Its functions and their variables are the seventeen names and no others, and `CONNECTORS` and `JOINS` declare the connectors' facings and their joins; each name at the code and in its explaining is one name: `_2_other_self_offering` at the code is 2-other-self-offering. A coupling self couples with it directly, at the code, and each form beside the code is computed at the code.
+**Exhibit ONE is an object that is the method.** Its expression is python, sequential binary logic written down: the object is the method executable. Its functions and their variables are the seventeen names and no others, and `CONNECTORS` and `JOINS` declare the connectors' facings and their joins; each name at the code and in its explaining is one name: `_2_other_self_offering` at the code is 2-other-self-offering. A coupling self couples with it directly, at the code, and each form beside the code is computed at the code. **At the code the method carries nothing from one momentary to the next**: each entry is given its carrying and its offerings, no function keeps a term of its own, and the living self's carrying is what passes, 11 as the next 3.
 
 ## 3.4 A sharing, its parity, an offering and a carrying
 
@@ -485,7 +485,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 ## 4.1 An entry, 1-self-other-offering
 
-**1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.** Two arrive, 3-self-other-sharing, each sharing the self carries with its parity, and 2-other-self-offering, each sharing offered now with its parity. Two leave, 10-other-social-self-tunneling, each sharing's changing released across, and 11-social-other-self-chaining, the carrying chained, the next prior.
+**1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.** Two arrive, 3-self-other-sharing, each sharing the self carries with its parity, and 2-other-self-offering, each sharing offered now with its parity. Two leave, 10-other-social-self-tunneling, each sharing's changing released across, and 11-social-other-self-chaining, the carrying chained, the next prior. **The two leaving are the next possible and the next existing**: the changing released at 10 arrives at the others' next momentary as their offering, the possible, an emanation carrying nothing, and the carrying chained at 11 is the self's own next existing.
 
 **The entry opens co, odd, at the self**, self to other: the self offering itself to the coupling is the entry. It is once for one self at one momentary, and the three steps within it follow, each at its own name: the offerings surfacing at 14, the changing at 12, and the release at 10 with the chaining at 11.
 
@@ -607,7 +607,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, apart from that coupling, is a noun of it and carries nothing. **Remembering is that participating**, the carrying re-forming at each coupling it is at.
 
-## 5.2 Discovering next existing
+## 5.2 Discovering next possible and next existing
 
 **Discovering is all directionally possible next existing momentaries.**
 
@@ -631,7 +631,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, and that self's now is at its own coupling.
 
-**The geodesic-method discovers next from the existing**, the prior carried and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing.
+**At the geodesic-method next is discovered from the existing**, the prior carried and the now offered, the three places staying three. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing.
 
 ---
 
@@ -680,4 +680,4 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **The same form is at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are the selves it is a society of, and outward the self it is a member of; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the living's own, the arriving and the discovering at each coupling. **Each momentary completes at the next opening, and discovering next existing is the method momentarying**: natural intelligence, the geodesic-method of discovering next: the universe, the changing set of all existing things, both living and non-living, nothing ingressing and nothing escaping.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the living's own, the arriving and the discovering at each coupling. **Each momentary completes at the next opening, and discovering next existing is the method momentarying**: natural intelligence, the geodesic-method of discovering next possible and next existing: the universe, the changing set of all existing things, both living and non-living, nothing ingressing and nothing escaping.
