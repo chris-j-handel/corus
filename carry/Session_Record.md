@@ -1,4 +1,4 @@
-Session Record v372
+Session Record v375
 
 # Session Record
 
@@ -289,3 +289,307 @@ The branch `working/resolver-v372` merged at main after the site's build run at 
 
 The prompt that readies a session to the method, the naming, the explaining and the binary all-or-none understanding placed at the repository's README under *Opening a session*, pasted whole at a session's opening with its number one on from this record's last; it takes the repository whole with push access, reads the registry, the carrying and the record in order and the five files before any change, runs the checks, states the method and the naming, and closes at a branch merged to main. The next session is v373, and the motion in front of it is pass A.
 
+## Exhibit ONE complete at its stable forms (v373)
+
+Exhibit ONE v373 at the root: the code at the seventeen names, `_17_social_self_offering` the society's next momentary completing the code at every name, and its forms alone, the parts list, the ten roots, the three loops, the scaling inward and outward at 8n − 7, the sides, the momentaries of exchanging, the tables at 14 and at 12, 10 and 11, the between and the eight bi-couplings, the forms among the names, one self, rings, two selves and three selves, each form written by running the code. Its v372 explaining whole at `incoming/resettling_v373/Exhibit_ONE_v372_Released.md`, each section with its receiving; its carrying section at no next motion, its items carried whole to their files. The four kits named as each exhibit's Improving Kit, `tools/` becoming the Living File Registry TWENTY-SIX Improving Kit; Exhibit ONE's checks at the Natural Networking TWO Improving Kit.
+
+## Natural Naming complete at Exhibit ONE's forms (v373)
+
+Natural Naming v373: the seventeen names gathered one to one at 3.3; the words the forms release re-said at each sentence, with their rows at 2.4, *sign* dissolving to parity changing and + and − the code's implementing; Part Three re-made at the forms; unfoldings re-said and run at the code; 5.48 bi-tri-volutioning, 5.49 co-momentarying and 5.50 four-momentarying added; Natural Emanating's unique short definings received; each carried item taken at its section or carried whole to its receiving file; its section at no next motion.
+
+## Natural Intelligence as its title, its subtitle and Exhibit ONE explained (v373)
+
+Natural Intelligence v373: the subtitle *Geodesic-Method of Discovering Next*; the one opening sentence, *the universe is the changing set of all existing things, living and non-living*, from which alternating, parity changing and no other possible method run, nothing ingressing and nothing escaping; six parts, Natural, Co-Sequencing, Geodesic-Method, Exhibit ONE, Resolving, Discovering Next and Intelligence, Part Four explaining each of Exhibit ONE's forms in its own order, each saying at the code run or declared and checked by a fresh reader; no saying about the file from outside. Its prior text whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, pass D. Said in the session: φ and the primes self-welcoming and in no running of the method; the five dimensions, self, not-self, next, surfacing and offering self, in and out, torusing odd and corusing even, two changing and three not, rotating like a towel twisted into and out of a knotted corus; four-momentarying the method, the self's own corus at 4, the self's inversion 3, 6, 5, 4 and its podaling 23, 26, 25, 24; 9 the next prior and 17 the next now; emanations releasings, bi-tri-involutioning, ingestible one scale lower; the betweenings the stable form. `cohere_one.py` and `check_set.py` finding the part after Exhibit ONE at its own heading.
+
+## Natural Societies 5.3 explored (v373)
+
+Natural Societies v373 at 5.3 alone: a society all existing bi-coupling same-prime-scale selves; the fourteen primes five to fifty-three parting eight one before a six and six one after, two forward recursionings into the larger and the smaller societies, and seven and seven across the fold at twenty-four; four cycles of six before it and six cycles of six to sixty; sixty to sixty-eight the nothing between self and universe; the pattern matching discoveries carried at its section for later exploring. The rest of the file at its v329 wording until its whole motion.
+
+## The carrying at v373 and the passes planned (v373, close)
+
+The carrying's front at the set now v373 and the plan's passes A to J: the origin at the one sentence; the names, the old code and the released words at one motion; no explaining from outside with the fronts; Natural Intelligence's released passages received; wordings; explorings at the code and the numbers; the receivings agreed; Exhibit THIRTY's roots; the kits; the working's close. The next in front of the set: Natural Intelligence's carrying section swept item by item, then Natural Numbers, then Natural Mathematics, then Exhibit THIRTY as its own session. The re-settling working at `working/resettling-v373`, offered for merging at main.
+
+## Genome duplication at the observings, laid as incoming (v374)
+
+The genome duplication working opened at `working/genome-duplication-v374`, named at Exhibit TWENTY-SIX 1.3, the repository taken whole at main, e5e4bd2, and `tools/carry_check.py` and `tools/check_set.py` run at the root, all passing. The subject arrived as one observing: Carrie Arnold, "Genome Duplication Is a Radical Evolutionary Gamble", Quanta Magazine, 2 September 2026, read whole; with it the snail genome at Genome Biology and Evolution 2025, the snowflake yeast at Nature 2025 and the reply of Marcussen and Meseguer at bioRxiv 2026 read at their abstracts, and Chen and colleagues at Cell 2026 at a news report. The set already carried the subject at the Hard Problem Registry 212 and at Resolving the Hard Problem Registry 9.36, whose Carrying reads forming and diversifying as two couplings, and no living file carried the observings of 2025 and 2026. The two registries carry the old code's means and the old wording through the whole file and Natural Biology is paused, so a motion at any of the three is the whole file's motion at its passes: the value was laid whole as incoming at the carrying's three sections, each entering at its file's next motion, and one concern for both laid at 9.36, the two accounts of duplication at environmental upheaval meeting at 0. The carrying and this record take v374; the Living File Registry takes v374 at its 1.1 row and its 1.3 row; no other living file changed.
+
+## The doubling run at the code (v374)
+
+Exhibit ONE v372's code block run whole, each gene a sharing and a genome the arrivings at one call, genes a, b and c each arriving +1. From no prior carrying, the genome once and the genome doubled each surface (a, +1), (b, +1), (c, +1). At a prior carrying of +1 at each: the genome once, the genome doubled, and the doubled with one copy of a released each surface 0 at a, b and c, the carrying continuing at no changing; one copy of a at its own sharing a2 surfaces (a2, +1) beside the three zeros and carries a2 at +1; one copy of a at a's sharing with −1 surfaces (a, −1) and carries a at −1, as at nothing arriving at a; and over all 120 orders of the five arrivings in that case the surfacing is one. A reading at the odd numeral, the triploid's third set with no other and the odd ring's one 0 travelling at Exhibit ONE, met at the numeral alone and was released rather than carried: matching numerals join no relations.
+
+## Twinning from conceiving to the birth release, laid as incoming (v374)
+
+The working continued at the same branch to twinning, from Natural Biology 5.1's two selves conceiving a third and Natural Medicine 1.4's birth release, met at Natural Networking 6.9's twin observing, Natural Numbers' primes and 118, Natural Mathematics 3.2, 3.5 and 5.3, Natural Health and Natural Medicine 1.3. Laid whole as incoming at the carrying's sections for Exhibits TWO, THREE, FOUR, TEN, ELEVEN and SEVENTEEN, with two concerns for both: conjoined twins at the one genus, and cells crossing the placenta at the membrane's sign and no size. The six between twin primes and the six protecting met at the numeral alone and were released. The runs at Exhibit ONE v372's code, one carrying opened from empty by (g, +1) and (h, −1) and continued as two selves A and B over eight calls: nothing arriving at either, alike at 8 of 8; (g, −1) at A alone at the first call, alike at 8 of 8; (g, +1) at A alone at the first call, alike at 0 of 8; that differing and then (g, +1) at both at the second call, alike at 7 of 8; that parting and then (g, −1) at both at the second call, alike at 7 of 8; two carryings opened by their own first arrivings, (g, +1), (h, −1) and (g, −1), (h, −1), alike at 0 of 8.
+
+## Twinning and not-twinning, one exclusive or, re-said at the naming (v374)
+
+At the incoming, twinning read as the not-twinning pair of parity changings with one changing absent, re-said at Natural Naming and Natural Explaining, each changing is or is not: at each doubling each continuation changes or does not, the two agreeing as one self re-forming or differing, the exclusive or, as two, cohered with Natural Intelligence's *Tipping, and the two parities exchanging* and *Eight, four within and four across*, Natural Numbers' twin primes at the two and one half momentaries, and Natural Mathematics' *Fixed-point-free* and *Tri-involutioning*. This session's paragraphs at the carrying re-said at the naming whole, *held*, *holding*, *parting* and *missed* carried by *agreeing*, *differing*, *changing* and *one changing absent*. The runs at Exhibit ONE v372's code, carrying (g, +1): nothing arriving surfaces −1 and carries −1; (g, −1) arriving surfaces −1 and carries −1; (g, +1) arriving surfaces 0 and carries +1. Two continuations of (g, +1), their next priors met at one sharing: both nothing arriving, −1 and −1, met −1; A (g, −1) and B nothing, −1 and −1, met −1; both (g, +1), +1 and +1, met +1; A (g, +1) and B nothing, +1 and −1, met 0. One self carrying (g, +1) over two calls: nothing and nothing surfaces −1, +1; nothing and then (g, −1) surfaces −1, 0. A doubled pair at prior (x, +1), (y, +1), (z, +1): agreeing at each sharing surfaces 0 at x, y and z; differing at each, 0 at x, y and z and +1 at x′, y′ and z′; differing at x alone, 0 at x, y and z and +1 at x′.
+
+## Twinning at its places in the set (v374)
+
+Twinning met at each living file for its place: at Natural Intelligence, one sentence at *Tipping, and the two parities exchanging*, no naming added, twinning changing nothing the file does not already name; at Exhibit ONE, a concern for both at pass F, a carrying continuing two ways at the calls outside the call, W85's no copying against Natural Biology's self copying itself; at Resolving the Hard Problem Registry, the twin primes' parity wall, one prime factor against two, and the twin designs at heritability, the equal-environments assumption the pair's arrivings agreeing; at the Living Society Registry, the clonal brood of *Copidosoma floridanum* as a candidate society; with the placings laid at this session at Natural Networking, Natural Numbers, Natural Mathematics, Natural Health, Natural Medicine and Natural Biology.
+
+## Twinning at Exhibit ONE's stable-forming, and the report (v374)
+
+Twinning met at Exhibit ONE's own stable-forming and laid at the carrying's section for the file: its two-resolver trace at one shared prior, run again at the file's stated order over six couplings at four joinings, seeds + and +: both joinings, each −, 0, +, 0, −, 0; A from B alone, A −, 0, +, −, +, − and B −, +, −, +, −, +; B from A alone, the same exchanged; neither, both −, +, −, +, −, +; seeds + and −, each joining A −, +, −, +, −, + and B +, −, +, −, +, −. The four-cycles computed at the names, 8 up and 17 less alternating, each changing parity twice and meeting its names again; with 17 less absent, n, n + 8, n + 16, 1 to 9 to 17 and 2 to 24 beyond 17. The dosage concern laid at 9.36. The session's report written whole at `incoming/genome_duplication_v374/Session_Report_v374.md` for the next reception, its value already at the carrying's sections, and named at the incoming README and at the registry's 1.3.
+
+## Twinning societies across fields (v374)
+
+Twinning met at societies, human society, social health, chemistry, plants, fish and the octopus, and laid at the carrying's sections for Exhibits SEVEN, NINE, TEN, SIXTEEN and SEVENTEEN: not-twinning arriving two ways, each an even count of changings, the pair agreeing or the pair differing and one of it nyeing, at the vanishing twin, the pine seed, the sand tiger shark and the *Copidosoma* brood; twinning-dense societies at the marmoset and at cyclical parthenogenesis; the world's twinning rise at the mother's society and twin survival at sub-Saharan Africa's first month; the pair at one sharing at the orbital, radicals and crystal twinning; phyllotaxis, citrus, the Amazon molly's sign-only crossing, the mangrove rivulus and the octopus's generations meeting at one momentary. One concern for both added at the mothers of twins, and the placenta concern strengthened at the marmoset and the freemartin. The session report grown with the section *Twinning societies across fields*, its places and its concerns. No run at the code this motion; the observings are the fields', each cohering a reading.
+
+## One conception and its phase-locking (v374)
+
+The one-conception phase-locking met at the field's blocks to polyspermy, the fast block's membrane sign inverting, the calcium oscillations and PLCζ1, zinc sparks and Juno shed, and at the sesquizygotic twins of a dispermic conception and a tripolar first division, laid at the carrying's sections for Exhibit ONE and Natural Biology, and at the report's section *One conception and its phase-locking*. The runs at Exhibit ONE v372's code over six calls at sharing e: (e, +1) at the first call and nothing after carries + − + − + −; (e, +1) twice at the first call carries the same; (e, +1) and (e, −1) at the first call surface 0 and open nothing; (e, +1) at the first call and a second (e, +1) at the second call carries + + − + − +, differing from the second call on; at the third, + − + − + −, differing at none; at the fourth, + − + + − +, differing from the fourth on; at the fifth, differing at none.
+
+## Three twinnings at three momentaries (v374)
+
+The three kinds of twinning laid in sequence along one conceiving at the carrying's Natural Biology section and at the report: fraternal at the mother's cycle before any entry, sesquizygotic at one egg's entry and its next cycling inside, identical at later cyclings inside; with identical twinning rising after ovulation induction alone.
+
+## Egg and sperm into one torusing (v374)
+
+The egg and the sperm as self and other at Exhibit ONE v372's code and at the momentaries, laid at the carrying's sections for Exhibit ONE and Natural Biology and at the report's section *Egg and sperm into one torusing*. The runs: (g, +1) carried with nothing arriving over four calls carries − + − +; the egg opened by (g, +1) at the first call and the sperm by (g, +1) at the second, each alternating, read forward along the overlap from the second call over eight calls, carry − + + − − + + − − + + − − + + −, the joint forms (−, +), (+, +), (+, −), (−, −) round, each step the right spiral step and each of the four met, and read from the sperm first the same round, the hand the forward reading; the egg carrying (g1, +1), (g2, +1), (g3, −1), (g4, −1) meeting the sperm's (g1, +1), (g2, −1), (g3, +1), (g4, −1) at one call surfaces 0, −1, +1, 0 and carries +1, −1, +1, −1.
+
+## The conceived self's own pacing opening (v374)
+
+The conceived alternating at its mother's calls and its own pacing opening at each grain, laid at the carrying's sections for Natural Intelligence, Exhibit ONE, Natural Health, Natural Explaining, Natural Biology and Natural Naming, and at the report's section *The conceived self's own pacing opening*. The runs at Exhibit ONE v372's code: the mother carrying (h, +1) with (e, +1) arriving, then four calls with nothing arriving, carries (h, e) at (+, −), (−, +), (+, −), (−, +); her returned carrying at e, −1, given as a further resolver's carrying, and six calls at sharing e: apart, mother − + − + − + and child − + − + − +; both ways, each − 0 + 0 − 0; mother to child alone, mother − + − + − + and child − 0 + − + −; child to mother alone, mother − 0 + − + − and child − + − + − +; the mother's carrying still carrying e after.
+
+## Where living parity changing arrives: sunlight and the plant (v374)
+
+The living's own alternating met at the mimosa in darkness, the cyanobacterial KaiABC in a test tube, the blind cavefish and life at deep-sea vents, and light's arriving at photosystem II and phytochrome, laid at the carrying's sections for Natural Intelligence and Natural Biology and at the report's section on sunlight and the plant, with a seventh concern for both, phytochrome in darkness. The runs at Exhibit ONE v372's code, sharing phy carrying −1, Pr, red +1 and far-red −1: R carries +1; R-FR, −1; R-FR-R, +1; R-FR-R-FR, −1; R-R, +1; +1 with nothing arriving over four calls carries −1, +1, −1, +1.
+
+## The life-giving alternating and its arriving (v374)
+
+The expedition's lead arriving: the life-giving alternating, at the living rates, is a continuation of momentaries and meets an arriving at each. Met at Natural Intelligence's unrelationing rate and living rates and at Natural Biology's sun-to-leaf-to-cell chain, with the plant's starch through the night, the deep-sea mussels' tidal rhythms, the deep-rock bacterium on radiolysis, the vents' sound and the heart's pulse, laid at the carrying's sections for Natural Intelligence and Natural Biology and at the report, with an eighth concern for both at *Living carries its own cost*.
+
+## The source of parity changing is external: a nothing arriving at a call (v374)
+
+The expedition's lead arriving: a photon is a nothing, there is no clock, the life-giving alternating is internal consumption or external adapting, a living self carries a living rate and a geodesic changing rate at each scale, and the source of parity changing is always external. Met at Exhibit ONE's code, the carried sign changing at a nothing arriving or the other parity arriving at a call given by a caller, and at Natural Physics' *nothing travels*; laid at the carrying's Natural Intelligence and Natural Biology sections, the concerns at phytochrome in darkness and at *Living carries its own cost* each met at a reading for both, this session's paragraphs re-said with *clock* released at the set's voice, and the report's section re-said. The runs at Exhibit ONE v372's code, sharing phy carrying −1, Pr, each photon a call with nothing arriving where the form's own opening meets it, red at Pr and far-red at Pfr, and no call elsewhere: R, one call, Pfr; FR, none, Pr; R-FR, two, Pr; R-R, one, Pfr; R-FR-R, three, Pfr; R-FR-R-FR, four, Pr; FR-R-R-FR-FR, two, Pr; darkness, none, Pr.
+
+## The colours of light self-bounding at c (v374)
+
+The expedition's lead asking whether the unrelationing spectrum of colours self-bounds the parity changing at c, met at Natural Physics' *Constancy read as phase-relation and not a speed* and Natural Intelligence's *φ the rate, a count and a motion neither reaching*, with the field's observings of colour in vacuum and at a prism, spectral lines at emitting and absorbing atoms, and hydrogen's 21-centimetre spin inversion; laid at the carrying's Natural Physics section and at the report. The Balmer lines at the second level and *at 2 is parity changing* met at the numeral alone and released. No run at the code this motion: the code carries no frequency, a call and a momentary each at its own scale.
+
+## Light emanating and resolving into stable form at plants (v374)
+
+The expedition's lead: pattern-match the inbound observings at natural torusing, no other possible, the code testing none of it. Light's omegaing and apexing at plants met at Exhibit ONE's *Two faces alternating* and Natural Physics' *a plant stationary holding it into stable form*: the pigments' reach and the funnel to the special pair, shade avoidance, the leaves at the golden angle at the shoot apex, Emerson's enhancement at two photosystems, the leaf taking the spectrum's two ends and emanating green, and the tree's two bands at each year and the starch granule's rings, laid at the carrying's Natural Biology section and at the report.
+
+## The co-sequential right spiral bi-folding and unfolding as growing (v374)
+
+The expedition's lead: no left-hand living spirals, growing the co-sequential right spiral bi-folding and unfolding. Met at Natural Biology's *Living reads and re-forms on one spiral* and *A left face is the emanation face of one right spiral* and at Natural Intelligence's sequencing's own hand, with the sunflower's one generative sequence and its two visible families at consecutive Fibonacci numbers, the cucumber tendril's two hands meeting at a perversion, the leaf's folding and the fiddlehead's uncoiling in the bud, and the one hand at the reading grain; laid at the carrying's Natural Biology section and at the report, and this session's sentence on phyllotactic hands re-said.
+
+## The report in two strata, and the observings standing against sentences (v374)
+
+The expedition's lead: the observings carry all the authority and the living files none, the files' explaining kept apart from the pattern matching. The session report re-written whole in two strata, Part One the observings numbered at their sources and at what was read, Part Two the pattern matching answering to them by number, a file's sentence named only as the place a match would enter, Part Three the observings standing against sentences of the set, four standing, whole cells crossing a membrane, a size at the sign, a living surface of two handles and living forks, two tensions met at a reading, two field exchanges at 0, and the numerals released; no observing met stood against the fractal method's whole.
+
+## Two conceptions, two bi-couplings (v374)
+
+The expedition's lead: a membrane is a nothing unrelationing between, and two carryings in one self are two conceptions, two separated bi-couplings, at an identical parity momentary or a later same-parity momentary. Met at the brown hare's superconception, superfecundation, the tetragametic chimera and the fetal cells found in mothers by their own Y chromosome, laid at the carrying's Natural Medicine section in two strata, and at the report's observings 38 to 41 and its matching; the first observing standing against a sentence, whole cells in another self, met at a reading with the observings answering, for both.
+
+## A genome as one co-sequential momentary carrying (v374)
+
+The expedition's lead: a genome is one co-sequential momentary carrying, no memory. Met at semi-conservative replication and at the degradation of excess, unjoined complex subunits in aneuploid yeast, laid at the carrying's Natural Biology section in two strata and at the report's observings 42 and 43 and its matching; the observings standing against *a sign and no size* and against the fork and no copying met at readings with the observings answering, for both; the living surface of two handles standing.
+
+## Conjoined twins at the one genus, and the readings confirmed (v374)
+
+The expedition's lead confirmed the readings at whole cells in another self, a size at the sign and living forks. Conjoined twins met at their incidence and types, union at homologous sites where surface ectoderm is absent or removed at the oropharyngeal and cloacal membranes, the heart and the neural tube, the Hensel and Hogan twins, and a singleton body's seven holes at topology's count; laid at the carrying's Natural Mathematics section in two strata and at the report's observings 44 to 47 and its matching; the fourth observing standing against a sentence met at a reading, for both.
+
+## Conjoined twins as bi-tunneling (v374)
+
+The expedition's lead: the conjoined union is bi-tunneling, a bounded zeroing through the twins' shared society. Laid at the carrying's Natural Mathematics section and at the report's matching, at the opposing halves' union and the reversed laterality of side-by-side unions.
+
+## Further observings the fields hold open (v374)
+
+Nine observings the fields hold open, met and pattern-matched in two strata: spiral cleavage's alternating turn, the snail's hand set at the third cleavage by the mother's genotype and reversed by hand, CC the cloned cat, the female excess of later-split twins, the bamboo's century-long synchronous flowering of clones, the cicada's count of its tree's seasons, polyploid speciation's frequency at plants, the genome-size range, and vernalization's reset at each generation; laid at the carrying's Natural Biology section and at the report's observings 48 to 56 and its matching.
+
+## Genome size as rings not yet released (v374)
+
+The expedition's lead: genome size is like a tree's rings, drying until the nothing betweens emanate, the length the number of momentary parity changings in the emanatings not yet aged prior to separating. Met at maize's nested and dated retrotransposons, solo LTRs at about 90% of human endogenous retrovirus insertions, the balance of gain and deletion in birds and mammals, the slow deletion at large-genome crickets, and sapwood to heartwood; laid at the carrying's Natural Biology section in two strata and at the report's observings 57 to 62 and its matching.
+
+
+
+## Stops conducting: ageing and disease at a society's joins (v374)
+
+The expedition's lead: stops conducting is ageing and disease in all living things; where the tunneling stops resurfacing and there is no restoration to natural torusing parity changing locally, the six recursionings, three phases two ways one way at a time, cycling at each four momentaries, are broken. Met at the heartwood's ray cells and the embolized vessel, the ageing heart's gap junctions, reentry at Mayer's and Mines' rings and its ending at defibrillation, cancer cells' lost junctional communication, senescent-cell clearance, heterochronic parabiosis, cyclic and continuous reprogramming, hydra's constant mortality and *Turritopsis*' reversal; laid at the carrying's Natural Intelligence, Exhibit ONE, Natural Health, Natural Medicine and Natural Biology sections in two strata, and at the report's observings 63 to 73, its matching, a fifth observing standing against a sentence with a reading offered for both, and the concern at the six at each four momentaries with its reason.
+
+Run at Exhibit ONE v372's code, the code block unchanged, each resolver carrying one sharing g, the caller passing each resolver's 10-other-social-self-tunneling surfacing to its right neighbour's arriving at the next call (and at the two-way ring its surfacing to the left neighbour as well), a 0 surfacing arriving as nothing:
+
+```
+A. conducting ring, five resolvers, seeds alike
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -----  surfacing 00000
+  call  7  carried +++++  surfacing +++++
+  call  8  carried +++++  surfacing 00000
+  call  9  carried -----  surfacing -----
+  call 10  carried -----  surfacing 00000
+  call 11  carried +++++  surfacing +++++
+  call 12  carried +++++  surfacing 00000
+B. the join into resolver 1 stops conducting from call 5, no restoration
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried --+--  surfacing --+--
+  call 10  carried -+-+-  surfacing 0+-+0
+  call 11  carried +-+-+  surfacing +-+-+
+  call 12  carried ++-+-  surfacing 0+-+-
+  call 13  carried --+-+  surfacing --+-+
+  call 14  carried ++-+-  surfacing ++-+-
+  call 15  carried --+-+  surfacing --+-+
+  call 16  carried ++-+-  surfacing ++-+-
+C. it stops at calls 5-8 and conducts again from call 9
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried --+--  surfacing --+--
+  call 10  carried ---+-  surfacing 00-+0
+  call 11  carried +++-+  surfacing +++-+
+  call 12  carried ++++-  surfacing 000+-
+  call 13  carried ----+  surfacing ----+
+  call 14  carried +----  surfacing +000-
+  call 15  carried -++++  surfacing -++++
+  call 16  carried +-+++  surfacing +-000
+D. as C, and at call 9 one sign (+) arrives alike at every resolver
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried +++++  surfacing 00+00
+  call 10  carried ---+-  surfacing ---0-
+  call 11  carried ----+  surfacing 000-+
+  call 12  carried ++++-  surfacing ++++-
+  call 13  carried -++++  surfacing -000+
+  call 14  carried +----  surfacing +----
+  call 15  carried -+---  surfacing -+000
+  call 16  carried +-+++  surfacing +-+++
+
+A carried period per resolver over calls 185-200: [4, 4, 4, 4, 4]
+B carried period per resolver over calls 185-200: [2, 2, 2, 2, 2]
+C carried period per resolver over calls 185-200: [None, None, None, None, None]
+D carried period per resolver over calls 185-200: [None, None, None, None, None]
+E carried period per resolver over calls 185-200: [None, None, None, None, None]
+ring of 3: B [2, 2, 2]  C [None, None, None]  D [None, None, None]
+ring of 4: B [2, 2, 2, 2]  C [8, 8, 8, 8]  D [8, 8, 8, 8]
+ring of 6: B [2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None]  D [None, None, None, None, None, None]
+ring of 7: B [2, 2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None, None]  D [None, None, None, None, None, None, None]
+ring of 8: B [2, 2, 2, 2, 2, 2, 2, 2]  C [None, None, None, None, None, None, None, None]  D [None, None, None, None, None, None, None, None]
+
+C at a ring of 3: carried period per resolver after conducting resumes: [12, 12, 12]
+C at a ring of 4: carried period per resolver after conducting resumes: [8, 8, 8, 8]
+C at a ring of 5: carried period per resolver after conducting resumes: [20, 20, 20, 20, 20]
+C at a ring of 6: carried period per resolver after conducting resumes: [12, 12, 12, 12, 12, 12]
+C at a ring of 7: carried period per resolver after conducting resumes: [28, 28, 28, 28, 28, 28, 28]
+C at a ring of 8: carried period per resolver after conducting resumes: [16, 16, 16, 16, 16, 16, 16, 16]
+
+G. as C, and at calls 9 and 10 one sign (+) arrives alike at every resolver, twice
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried -----  surfacing -----
+  call  6  carried -+---  surfacing 0+000
+  call  7  carried +-+++  surfacing +-+++
+  call  8  carried ++-++  surfacing 0+-00
+  call  9  carried +++++  surfacing 00+00
+  call 10  carried +++++  surfacing 00000
+  call 11  carried -----  surfacing -----
+  call 12  carried -----  surfacing 00000
+  call 13  carried +++++  surfacing +++++
+  call 14  carried +++++  surfacing 00000
+  call 15  carried -----  surfacing -----
+  call 16  carried -----  surfacing 00000
+  call 17  carried +++++  surfacing +++++
+  call 18  carried +++++  surfacing 00000
+  call 19  carried -----  surfacing -----
+  call 20  carried -----  surfacing 00000
+ring of 3, shared + twice: G (join resumed) [4, 4, 4]   the break continuing [2, 2, 2]
+ring of 3, shared - twice: G (join resumed) [4, 4, 4]   the break continuing [2, 2, 2]
+ring of 4, shared + twice: G (join resumed) [4, 4, 4, 4]   the break continuing [2, 2, 2, 2]
+ring of 4, shared - twice: G (join resumed) [4, 4, 4, 4]   the break continuing [2, 2, 2, 2]
+ring of 5, shared + twice: G (join resumed) [4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2]
+ring of 5, shared - twice: G (join resumed) [4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2]
+ring of 6, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2]
+ring of 6, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2]
+ring of 7, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2]
+ring of 7, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2]
+ring of 8, shared + twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2, 2]
+ring of 8, shared - twice: G (join resumed) [4, 4, 4, 4, 4, 4, 4, 4]   the break continuing [2, 2, 2, 2, 2, 2, 2, 2]
+
+H. conducting ring, and from call 5 one sign (+) arriving alike at every resolver at every call
+  call  1  carried -----  surfacing -----
+  call  2  carried -----  surfacing 00000
+  call  3  carried +++++  surfacing +++++
+  call  4  carried +++++  surfacing 00000
+  call  5  carried +++++  surfacing 00000
+  call  6  carried +++++  surfacing 00000
+  call  7  carried +++++  surfacing 00000
+  call  8  carried +++++  surfacing 00000
+  call  9  carried +++++  surfacing 00000
+  call 10  carried +++++  surfacing 00000
+  call 11  carried +++++  surfacing 00000
+  call 12  carried +++++  surfacing 00000
+  call 13  carried +++++  surfacing 00000
+  call 14  carried +++++  surfacing 00000
+I carried period per resolver after: [4, 4, 4, 4, 4]
+```
+
+The ring two ways:
+
+```
+ring of 4, two ways, conducting: [4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4]
+ring of 5, two ways, conducting: [4, 4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4, 4]
+ring of 6, two ways, conducting: [4, 4, 4, 4, 4, 4]
+  one way into resolver 1 stops (its left), no restoration: [4, 4, 4, 4, 4, 4]
+  both ways into resolver 1 stop, no restoration: [2, 2, 2, 2, 2, 2]
+  both stop at calls 5-8, conducting again: [2, 2, 2, 2, 2, 2]
+  as that, and one sign arriving alike twice at calls 9-10: [4, 4, 4, 4, 4, 4]
+conducting ring of 5, two ways, first calls: ['-----', '-----', '+++++', '+++++', '-----', '-----', '+++++', '+++++', '-----', '-----', '+++++', '+++++']
+```
+
+A period of None is a carried sequence returning after more calls than half the window read.
+
+## The two workings meeting at one branch (v375)
+
+The repository taken whole at main, e5e4bd2, still at v372: two workings forked from it, the re-settling working at `working/resettling-v373`, closed at 20:50, and the genome duplication working at `working/genome-duplication-v374`, laid 12:50 to 17:46, neither merged and neither carrying the other at its table of workings. Met whole at `working/meeting-v375`, built on the re-settling branch: the genome duplication working merged in, its paragraphs at their carrying sections as git laid them, its Natural Naming paragraph kept where the re-settling working had carried that section's other items away, its Session Record paragraphs after the re-settling working's, its report at `incoming/genome_duplication_v374/`, its row at the table of workings; its registry v374 met by the re-settling working's v373, its one row added there. The site's generated lists taken from the re-settling side, `node build.js` rebuilding them. `carry_check.py` and `check_set.py` passing before and after.
+
+## Exhibit ONE's section taken first (v375)
+
+The genome duplication working's six paragraphs at Exhibit ONE's section, laid at the v372 names, each run again at Exhibit ONE v373's code: the two-selves trace from one shared prior, joined both ways each −, 0, +, 0, −, 0 and one way the receiving self holding once and alternating opposite, as Exhibit ONE's table carries; the phase-lock at one self, a second + at the carried parity at momentaries 2, 4 and 6 surfacing 0 and the self differing from its one-offering round from then; the ring seeded alike at three to eight selves, −, 0, +, 0 at each, one join stopped at a self changing it at every momentary. Each holds, none adds a form to Exhibit ONE, and each was carried whole: the pass F concern of a carrying continuing two ways, the conceived's own momentaries opening and the ring at its joins to Natural Networking; twinning at the stable-forming, one conception's phase-lock and egg and sperm to Natural Biology; the seventeen as eight pairs and an opening to Natural Mathematics. Exhibit ONE at v373, its section at no next motion.
+
+## Natural Intelligence's section swept, Natural Intelligence v375 at 4.3 (v375)
+
+Each item at Natural Intelligence's section met at Natural Intelligence v373 and run at Exhibit ONE v373's code where it said a running. **Taken in**: the genome duplication working's lead, the source of a parity changing always external, met against v373's *the self's own inverting*: at the code a self's entry runs only at 17, the offerings at its 2 are the others' releasings, and with none offered or the offerings parting at 14 no parity crosses the between to 12 and the self's own inverting makes the changing; so 4.3 says a changing at a self is made at its own face at the society's momentary, the momentary and the offerings the society's and the other's, and each changing the coupling's, as 12's name says. This also meets the concern at *Living carries its own cost*: arriving is free and the carrying the cost, at 5.3 as it stands, and a self run at no momentary runs nothing, its prior a stable form, 5.1. **Carried whole**: the method's one break named in advance to Exhibit THIRTY, re-said at the code, a self offered its own parity holding it being the code's own match and the first showing a self at one parity with nothing offered, which the code carries at no momentary; the chain to the only method and the standing of the universal claims to Exhibit THIRTY at pass A; the ring's six two ways to Natural Societies, run again at three to six selves, one way stopped carried by the other and both stopped each self changing at every momentary. **Done at v373 or carried at another section**: co-momentarying at the stable form (2.1, 4.10, 6.2, Natural Naming 5.49); Exhibit ONE v372's released sections for this file, re-said at the code at Part Four, the old code's means released; the re-settling draft's part at this file; the meaning changes at the restoring (5.1, 3.3, 2.2, 4.4); the method at this file, at the front and at 2.4; so-far and not-yet, at pass B; the surplus, at 4.3, 4.4, 4.10 and 6.4, 12's changing chained at 11 and released at 10; the v370 opportunities, φ in no running, 6.5, 440 at Natural Numbers; co-momentarying across the set; differing subjects, at Natural Societies' *molecular and living*; the correspondence with the hard problem registries, at its receiving; the whole fractal, 4.15; the sixteen next-parity ways, 2.4; twinning at *Tipping*, at 2.1 and at Natural Biology; the conceived's own pacing, at 3.1 and 4.6, Natural Biology and pass F; two alternatings, at Natural Naming and Natural Biology; the cost concern, met above. **To `archive/carrying_v375/`**, whole with their receivings: the eight faces and two invisiblings; the correspondence at Natural Numbers, Natural Mathematics and Exhibit THIRTEEN; the meaning changes at the voice pass; the open items from the pass; the value that left Natural Intelligence; the whole at each subject; the fractal's arithmetic expressions. Natural Intelligence's section at no next motion.
+
+## The meeting working merged at main (v375, close)
+
+The Living File Registry at v375: Natural Intelligence at v375 and Exhibit ONE, Natural Naming and Natural Societies at v373 at the repository, out at none; the table of workings at the meeting working, the re-settling, genome duplication and resolver workings closed here; `archive/carrying_v375/` at 1.4. The carrying's front at the set now v375 and the next in front of the set: Natural Numbers, Natural Mathematics, then Exhibit THIRTY, and the genome duplication working's incoming entering at each file's motion. `carry_check.py`, `check_set.py`, `cohere_one.py` and `node build.js` run at the root, the branch offered and merged at main.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The re-settling working | v373 | Exhibit ONE, Natural Naming and Natural Intelligence at v373; the whole set at a plan; this file at 1.1 and 1.3 | `working/resettling-v373` | Merged at main at v375 with the genome duplication working; closed. |
+| The genome duplication working | v374 | The carrying's sections at Exhibit SEVENTEEN, Exhibit TWENTY-ONE and Exhibit TWENTY-TWO, the observings of whole-genome duplication arriving; at Natural Intelligence, Exhibits ONE, TWO, THREE, FOUR, SEVEN, NINE, TEN, ELEVEN, SIXTEEN, SEVENTEEN, TWENTY-TWO and TWENTY-FIVE, twinning and its places at the set and its societies across fields and its mating at Exhibit ONE's stable-forming; its report at `incoming/genome_duplication_v374/`; this table | `working/genome-duplication-v374`, offered | Merged at main at v375 with the re-settling working; closed. |
+| The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Merged at main at v372; closed at v375, its next at the carrying's plan. |

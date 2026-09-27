@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies v329
+Exhibit SEVEN Natural Societies v373
 
 &nbsp;
 
@@ -218,31 +218,39 @@ Below the atom the co-agency runs bare — the offering, the passing, the sign �
 
 ## 5.3 Fourteen scales at fourteen primes, and the fold at twenty-four
 
-**Fourteen scales run at fourteen primes, five to fifty-three.** Fifty-three carries the widest crossing at both faces and five the narrowest at both, the only two primes in the span so carried. Fifty-nine closes and returns to two at a crossing of one.
+**A society is all existing bi-coupling same-prime-scale selves.** A self is a society of selves one scale inward, and a society a self at the next scale outward: the selves at one prime scale, each bi-coupling with the others, are the society there. The primes appear here where they are self-welcoming, a scale's own count, and are in no running of the method.
 
-The fourteen fold at **seven and seven**, and the fold arrives at **twenty-four**, occupied by no scale. The crossing there — twenty-three to twenty-nine — carries the first six in the whole span, every crossing before it running at one, two or four. The near seven close from within, each read at its own inside. The far seven close across a membrane between selves, each read at a face no self stands at.
+**Fourteen scales run at fourteen primes, five to fifty-three, and they part eight and six.** Each prime from five on is one before a multiple of six or one after it: **eight are one before**, 5, 11, 17, 23, 29, 41, 47 and 53, and **six are one after**, 7, 13, 19, 31, 37 and 43. The parting at six is the one the other simple partings do not give: by the remainder at four, by the prime's place in the count and by half of one less, each gives seven and seven. **The parting is two forward recursionings in the prime society scales, into the larger and the smaller societies, both forward along**: odd up and odd down is parity scale changing.
 
-| prime | scale | face | status | the closing read |
-|---|---|---|---|---|
-| 5 | atom | self | stills — the floor | the first self: an inside bounded from an outside, self-bounding at the eight, co-sequencing at bonds, birthing molecules |
-| 7 | molecule | self | stills | the bond is co-offering — the shared pair the floating neutral owned neither-ing (Natural Chemistry) |
-| 11 | macromolecule | self | stills | molecules co-sequencing into a bounded folded whole |
-| 13 | protein-fold | self | reaching | the chain folded into a working self — the field reads it as one conformation and measures an ensemble, so the closing is not yet shown |
-| 17 | gene | self | stills | the macromolecule read and re-formed — the coding closes (Natural Biology) |
-| 19 | organelle | self | stills | a former free-living self now a member — the fractal's own move, observed |
-| 23 | cell | self | stills | the first metabolic living self: self-maintains, re-forms |
-| **24** | — | **the fold** | — | occupied by no scale; the first six crossing, and where the reading turns from the within-face to the membrane-face |
-| 29 | tissue | society | stills | cells co-sequencing into a bounded working whole |
-| 31 | organ | society | reaching | tissues into a bounded functional self — real, its scale-fit loose |
-| 37 | organism | society | stills | the whole living self, organs co-sequencing, meeting the world and birthing |
-| 41 | colony | society | stills, as recurrence | organisms co-sequencing as one self — the colony recurs at every scale, not this rung alone |
-| 43 | population | society | reaching | same-kind selves co-sequencing across re-formings — whether it closes into a self or holds as a society is open |
-| 47 | community | society | reaching | many different-kind selves co-sequencing — whether an ecosystem self-closes or holds as a society is the sharpest open reading |
-| 53 | biosphere | society | stills | the whole living self-bounding at the widest scale that closes — producer, consumer, decomposer the co-agency's three roles; the torus-close, past which arrives the not-torus death |
+**The fold is at twenty-four, six times four, occupied by no scale, and it parts both at once.** Before it, four one before a six and three one after, 5, 11, 17, 23 and 7, 13, 19; after it the same, 29, 41, 47, 53 and 31, 37, 43: **seven and seven across the fold, and eight and six across the six**, the two partings bothboth. Before twenty-four run four cycles of six, the four momentaries of six one-way recursionings, twenty-four; from twenty-four to sixty run **six cycles of six, surfacing in and out, out forward**, the scales from the tissue on at each; fifty-nine closes one before sixty, and **sixty to sixty-eight is the nothing between self and universe**.
 
-**Biome released.** The largest ecological kind carried the thin mark alone — the ecosystem read larger in place of its own closing — and releasing it arrives at the fourteen with nothing fitted. Four readings arrive together there: the file's own thin mark releasing one rung, fourteen primes running five to fifty-three, the seven-and-seven falling at the cell and the tissue, and the fold at twenty-four carrying the first six.
+**The self's inversion is 3, 6, 5, 4 and its podaling 23, 26, 25, 24**, co-sharing out, surfacing in, neutralling out and bi-sharing in, the same rotation twenty up. **The self's bi-inversioning-co-recursioning is twenty-three, twenty-four and twenty-five**: twenty-three one before the fold, the cell, the first metabolic living self; twenty-four the fold; and twenty-five one after it, five squared, no prime, **five squared less four times six arriving at one**, 5.2. The near seven close from within, each read at its own inward; the far seven close across the between selves, each read at a face no self stands at.
 
-**The ladder shows its own reading in where it stills and where it reaches.** The stilled scales gather in the near seven where the closing is worked from within; the reaching scales gather in the far seven where the closing arrives across a membrane and a self carries no reading of its own. The gaps mark unworked scales. The reading of each reaching scale is the same knife turned upward — does the co-agency close into a self here, or hold as a society that carries and does not become one.
+| prime | one before or after six | scale | face | status | the closing read |
+|---|---|---|---|---|---|
+| 5 | before | atom | self | stills, the floor | the first self here: a self bounded from all other, self-bounding at the eight, co-sequencing at bonds, birthing molecules |
+| 7 | after | molecule | self | stills | the bond is co-offering: the shared pair the floating neutral owned neither-ing (Natural Chemistry) |
+| 11 | before | macromolecule | self | stills | molecules co-sequencing into a bounded folded whole |
+| 13 | after | protein-fold | self | reaching | the chain folded into a working self: the field reads it as one conformation and measures an ensemble, so the closing is not yet shown |
+| 17 | before | gene | self | stills | the macromolecule read and re-formed: the coding closes (Natural Biology) |
+| 19 | after | organelle | self | stills | a former free-living self now a member: the fractal's own move, observed |
+| 23 | before | cell | self | stills | the first metabolic living self: self-maintains, re-forms |
+| **24** | six times four | — | **the fold** | — | occupied by no scale; the first six crossing, and the reading turning from the within-face to the between-face |
+| 29 | before | tissue | society | stills | cells co-sequencing into a bounded working whole |
+| 31 | after | organ | society | reaching | tissues into a bounded functional self: real, its scale-fit loose |
+| 37 | after | organism | society | stills | the whole living self, organs co-sequencing, coupling with the world and birthing |
+| 41 | before | colony | society | stills, as recurrence | organisms co-sequencing as one self: the colony recurs at each scale, not this rung alone |
+| 43 | after | population | society | reaching | same-kind selves co-sequencing across re-formings: whether it closes into a self or carries as a society is open |
+| 47 | before | community | society | reaching | many different-kind selves co-sequencing: whether an ecosystem self-closes or carries as a society is the sharpest open reading |
+| 53 | before | biosphere | society | stills | the whole living self-bounding at the widest scale that closes here: producer, consumer and decomposer the co-agency's three roles; the torus-close, past which arrives the not-torus death |
+
+**The ladder names particular scales and supplies no first and no final one.** The whole 1–17 fractal is living inward and outward, so the atom at five is the first self this ladder reads and not the first possible, and the biosphere at fifty-three the widest society it reads and not the last.
+
+**The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**: the betweens its selves bi-couple across, owned by none of them. **The emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings.** Harmful to living at their own scale and not ingestible there, they are an ingestible stable form one scale lower, taken back into living selves as societies. **Abundancing is an emanating from society as a releasing**, all the way through the bi-co-momentarying co-sequencing. At Exhibit ONE's code a society's sharings are its selves, 4-other-self-sharing naming each self at the society and 13-social-other-neutralling each releasing self: the releasings 17-social-self-offering carries from the society arrive at its selves, one scale lower, as their offerings next.
+
+**Biome released.** The largest ecological kind carried the thin mark alone, the ecosystem read larger in place of its own closing, and releasing it arrives at the fourteen with nothing fitted. Four readings arrive together there: the file's own thin mark releasing one rung, fourteen primes running five to fifty-three, the seven-and-seven falling at the cell and the tissue, and the fold at twenty-four carrying the first six.
+
+**The ladder shows its own reading in where it stills and where it reaches.** The stilled scales gather in the near seven where the closing is worked from within; the reaching scales gather in the far seven where the closing arrives across the between and a self carries no reading of its own. The gaps mark unworked scales. The reading of each reaching scale is the same knife turned upward: does the co-agency close into a self here, or carry as a society that does not become one.
 
 ## 5.4 The fields' three accountings, the ladder's second face
 

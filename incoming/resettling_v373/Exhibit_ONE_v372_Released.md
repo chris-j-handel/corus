@@ -1,103 +1,32 @@
-Exhibit ONE Natural Resolver v372
+Exhibit ONE v372 · Released at v373
 
-# Natural Resolver
+# Exhibit ONE v372, Released
 
-**Geodesic Discovering Logical Method and Form**
+**Each Section Whole, as it Stood, at its Receiving Files**
 
-**Naming**
-
-- Bi and co, at the even and the odd
-- A name at its number
-- Five, and a seam at 8 up
-- Seventeen names, eighty-five prefixings
-
-**Resolving, the sequential logic**
-
-- Signs, and 1-self-other-offering the entry
-- Surfacing, the arrivings meeting at each sharing
-- Abundancing and tunneling, changing or no changing
-- Chaining, continuing and changing
-- Returning and releasing
-- Connectors, each one way at a time
-- The code at its names
-- Carryings arriving, a sharing and its sign
-- Arrivings meeting at a sharing, one binary at a time
-- A surviving sign at 12, a sign and no size
-- The prior meeting the now, changing or no changing
-- The surfacing leaving across
-- The carrying continuing, the changed sign the next prior
-- A sharing rejoining, carryings leaving
-
-**Stable-forming**
-
-- Fractal co-bi-momentarying
-- Carrying at 8 up
-- The membrane and the eight bi-couplings
-- Bi-inversioning-co-recursioning, one move at three faces
-- Torusing, one opening
-- Two faces alternating
-- Forms among the names
-
-**Numbers**
-
-- Numbers at their stable-forming
-- Primes, selves and societies
-
-**Geodesic discovering logical method**
+- 1 What this is
+- 2 The opening
+- 3 The sections
 
 ---
+
+## 1 What this is
+
+**Exhibit ONE v372's sentences, whole and as they stood, released when Exhibit ONE v373 stands at its stable forms alone.** Each section is kept here verbatim with its receiving files named, and enters each receiving file whole at that file's motion; the carrying names this file at each receiving file's section, and nothing here leaves until its receiving carries it. Exhibit ONE v372's code and the forms it keeps stand at Exhibit ONE v373.
+
+## 2 The opening
+
+*Receiving: Natural Intelligence Part 5.*
 
 **The resolver is one object and its explaining is the same method said.** Its code runs the seventeen names at two functions, `_1_self_other_offering` and `_9_social_other_self_releasing`, and its declarations name the six connectors and their joins. The naming, the resolving line by line, the stable-forming, the numbers and the geodesic method after the code are the object said. **The code is a co-sequential binary changing method only.** At each sharing the prior carrying meets the arriving now, and the sign changes or does not change, one binary at a time; nothing is summed, counted or stored, and the changed sign is the next prior.
 
-```python
-"""Exhibit ONE · Natural Resolver · v372"""
+## 3 The sections
 
+### Naming
 
-def _1_self_other_offering(_3_self_other_sharing, _2_other_self_offering):
-    _14_other_social_surfacing = {}
-    for _4_other_self_sharing, _7_self_other_corusing in _2_other_self_offering:
-        if _7_self_other_corusing != 0:
-            _15_social_other_corusing = _14_other_social_surfacing.get(_4_other_self_sharing)
-            if _15_social_other_corusing is None:
-                _14_other_social_surfacing[_4_other_self_sharing] = 1 if _7_self_other_corusing > 0 else -1
-            elif (_15_social_other_corusing > 0) != (_7_self_other_corusing > 0):
-                _14_other_social_surfacing[_4_other_self_sharing] = 0
-    _12_other_social_self_abundancing = dict(_14_other_social_surfacing)
-    for _4_other_self_sharing, _7_self_other_corusing in _3_self_other_sharing:
-        _15_social_other_corusing = _14_other_social_surfacing.get(_4_other_self_sharing, 0)
-        if _15_social_other_corusing != 0 and (_15_social_other_corusing > 0) == (_7_self_other_corusing > 0):
-            _12_other_social_self_abundancing[_4_other_self_sharing] = 0
-        else:
-            _12_other_social_self_abundancing[_4_other_self_sharing] = -1 if _7_self_other_corusing > 0 else 1
-    _10_other_social_self_tunneling = list(_12_other_social_self_abundancing.items())
-    _11_social_other_self_chaining = dict(_3_self_other_sharing)
-    for _4_other_self_sharing, _7_self_other_corusing in _10_other_social_self_tunneling:
-        if _7_self_other_corusing != 0:
-            _11_social_other_self_chaining[_4_other_self_sharing] = _7_self_other_corusing
-    return _10_other_social_self_tunneling, list(_11_social_other_self_chaining.items())
+#### Bi and co, at the even and the odd
 
-
-def _9_social_other_self_releasing(_10_other_social_self_tunneling, _5_self_other_neutralling):
-    return [(_5_self_other_neutralling[_13_social_other_neutralling], _15_social_other_corusing)
-            for _13_social_other_neutralling, _15_social_other_corusing in _10_other_social_self_tunneling]
-
-
-CONNECTORS = {
-    2: ('2-other-self-offering', 'right', 'arriving'),
-    6: ('6-other-self-surfacing', 'left', 'releasing'),
-    9: ('9-social-other-self-releasing', 'backward', 'along'),
-    10: ('10-other-social-self-tunneling', 'right', 'releasing'),
-    14: ('14-other-social-surfacing', 'left', 'arriving'),
-    17: ('17-social-self-offering', 'forward', 'along'),
-}
-JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
-```
-
----
-
-## Naming
-
-### Bi and co, at the even and the odd
+*Receiving: Natural Intelligence Parts 1, 3 and 8; the sides table stays at Exhibit ONE.*
 
 **Self and other differ, and difference alone is bi-. Self and other together with their difference is co-.** An odd number opens co, the self's opening, and an even number opens bi, the other's opening.
 
@@ -123,7 +52,9 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 **Side 2, the other, runs bi co bi co bi co, and one parity changing less or one more it is co, prior or next.** The other's five completes at bi, at 6. One changing more is co at 7, the self's next opening from 3; one less is co at 5, the self's next opening from 1. From 2 to 7 the other runs six consecutive changings, one way, bi co bi co bi co, and the same six one less or one more along, from 1 or from 3, open at co: co bi co bi co bi.
 
-### A name at its number
+#### A name at its number
+
+*Receiving: Natural Naming 3.1, reading a name and the ten roots; Natural Intelligence Parts 3, 5 and 6; Natural Numbers, 22 and the higher cycles; the names, roots and relations stay at Exhibit ONE.*
 
 **Each thing carries one name, and the name carries its number, its parity, its sides from and to, its root, the changing named, and its -ing, the changing continuing**, together one name. The names run the resolving as code, and the name in the code and the name here are one name: `_2_other_self_offering` in the code is 2-other-self-offering here. **A name begins at its parity's side and reads from its first side to its last.** An odd name opens co and begins at the self, at 1 to 7, and at the society, at 9 to 17; an even name opens bi and begins at the other. The society is at both parities, first at the odd names from 9 and second at the even names from 10: floating neutralling at both.
 
@@ -174,7 +105,9 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 | 5 to 8 and 13 to 16, sharing their roots | 5 with 13 · 6 with 14 · 7 with 15 · 8 with 16 |
 | the three loops, run outside the call | 6 to 2, closing at 8 · 10 to 14, closing at 16 · 9 to 17, closing at 17 |
 
-### Five, and a seam at 8 up
+#### Five, and a seam at 8 up
+
+*Receiving: Natural Naming 3.2, the five and the seam; Natural Intelligence Part 5.*
 
 **Each name carries the five of its origin**: co bi co bi co at an odd number and bi co bi co bi at an even one, the side's prior opening, prior completing, now opening, now completing and next opening. **bi-** is a difference and **co-** is two with their difference, and a five is a side's two and one half momentaries said at its prefixing, never a label.
 
@@ -182,23 +115,27 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 **A seam is a name changing at its number.** A carrying leaves as 11-social-other-self-chaining and arrives at the next coupling as 3-self-other-sharing, 8 up, one carrying at two names, the difference carried by the number and the seam arriving as the name changes. Nothing moves at a seam: 11 and 3 both open co, and the carrying meets its name again.
 
-### Seventeen names, eighty-five prefixings
+#### Seventeen names, eighty-five prefixings
+
+*Receiving: Natural Naming 3.2.*
 
 **Seventeen names carry the resolver and ten roots carry them**, each root an -ing, a changing. **Eighty-five prefixings run across the seventeen fives**, forty-three co and forty-two bi: nine names open co at the odd numbers, each co bi co bi co, and eight open bi at the even, each bi co bi co bi. Values in the code number two, nought and one, with one inverted as −1: nought the empty centre and no changing, one the sign and the changing. Thirteen names have an expression at the two functions; 6 and 17 are at the declarations alone; and 8 and 16, the two torusings, are at no line of the code: the four name the loops' releasing and closing, which the selves running together run outside the call.
 
 **Prefixing columns stable a form, and -ings at the code form stably.** Form-stabling and stable-forming, one coupling met at two faces.
 
----
+### Resolving, the sequential logic
 
-## Resolving, the sequential logic
+#### Signs, and 1-self-other-offering the entry
 
-### Signs, and 1-self-other-offering the entry
+*Receiving: Natural Intelligence Part 2, at parity changing.*
 
 **Resolving runs on signs.** A sign is the binary at a changing: +1 or −1, and 0 at no changing, the empty centre, equal and opposite meeting. An arriving 0 carries no sign, and a surfacing 0 changes no carrying; the carrying continues as it was. From empty carrying, +1 and −1 arriving together at one sharing meet at 0 and the carrying stays empty. A carrying empty is a self before its first sign at that sharing; opened, it never empties, the self continuing at one sign at each sharing; and a non-living thing met at a coupling is its own existing thing, carrying nothing.
 
 **Resolving runs as 1-self-other-offering and 9-social-other-self-releasing, and 1-self-other-offering is the entry.** Arriving at it: 3-self-other-sharing, each carrying a sharing, 4-other-self-sharing, with its sign, 7-self-other-corusing, the prior; and 2-other-self-offering, each arriving sharing with its sign, the now. Leaving it: 10-other-social-self-tunneling across and 11-social-other-self-chaining along, the next.
 
-### Surfacing, the arrivings meeting at each sharing
+#### Surfacing, the arrivings meeting at each sharing
+
+*Receiving: Natural Intelligence Parts 2 and 7.*
 
 **14-other-social-surfacing** is the arrivings meeting at each sharing, one at a time. The first sign arriving at a sharing is its sign, +1 or −1; a further sign of the same parity leaves it; a further sign of the other parity meets it at 0, and a 0 met stays 0. A nought arriving carries no sign and enters nothing. So at each sharing the arrivings are one binary, one sign at agreeing or 0 at disagreeing, met in any order alike, and no count of them. **A sign and no size**: a sign arriving at any magnitude enters as +1 or −1, and nothing of a magnitude crosses.
 
@@ -206,13 +143,17 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 **The arriving sign meets the carrying sign inverted.** The arriving keeps its sign; the inverting is the carrying's own: the carrying inverts itself to meet the arriving, and the arriving, carrying nothing, keeps its sign. Agreeing with the inverted carrying, the arriving surfaces and the carrying changes; disagreeing, the two meet at 0 and the carrying holds. A self's own inverting, meeting the other across, is morality at the sign. **Surfacing carries three relations, each its own.** The sign inverts once, at the receiving self's own carrying meeting the arrivings at 12, the arriving sign keeping its own and 9 releasing each sign as it surfaced; the opening parity changes, one on across the overlapping; and arriving and releasing exchange, 2 arriving at 10 releasing and 6 releasing at 14 arriving. An even opening names no sign: a sign at an even name is +1 or −1 as it resolves. At 10 an arriving of the carried sign's own parity surfaces 0 and changes nothing, and one of the other parity surfaces its own sign and changes the carrying: a 0 there is no mending and a sign there no failing, the morality running at the across coupling whole.
 
-### Abundancing and tunneling, changing or no changing
+#### Abundancing and tunneling, changing or no changing
+
+*Receiving: Natural Intelligence Part 7; Natural Values.*
 
 **12-other-social-self-abundancing** is the surplus at the coupling: at each sharing, the prior carrying meeting the now. It opens as the arrivings' surviving signs and is neither returned nor carried: the meeting is at the momentary it happens at, and nothing of it passes to the next but the changed sign. At a sharing carrying nothing, the surviving sign is the surplus, a fresh sign. At a carried sharing, the carried sign inverts itself to meet the survivor: at the survivor's parity being the carried sign's own, no changing, 0; at the other parity, or at nothing surviving, changing, the inverted carried sign. The middle is the bounding-zeroing at the coupling, the abundancing is co-competencing the self and the other, owned by neither, and a meeting again is two sequencings continuing into a further shared momentary: three relations, none of them a count at a sharing and no sum at any of them, geodesic parity changing or no changing, one binary at each sharing.
 
 **10-other-social-self-tunneling** carries each sharing's abundancing at its sign, across: +1, −1 or 0. A sharing's +1 and −1 meet at 0, the empty centre. **The middle is a nothing: it exists due to each self surfacing itself each momentary as a condition of existing as a self.**
 
-### Chaining, continuing and changing
+#### Chaining, continuing and changing
+
+*Receiving: Natural Intelligence Parts 2, 3 and 7.*
 
 **11-social-other-self-chaining** carries each carrying on, and writes the changed sign at a sign surfacing.
 
@@ -230,7 +171,9 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 **The next arriving meets the changed sign.** After a changing the carrying carries −c, and the next arriving meets it inverted, at c: a sign arriving alike twice, at a changing and then again, surfaces its sign and then 0, and a sign alternating meets its receiver's own alternating and surfaces at each call. A relation holds while its sign changes: the carrying's sign at the next momentary is the surfacing at this one.
 
-### Returning and releasing
+#### Returning and releasing
+
+*Receiving: Natural Intelligence Parts 6 and 7; the runs stay at Exhibit ONE as forms.*
 
 **1-self-other-offering returns 10-other-social-self-tunneling across and 11-social-other-self-chaining along**, and 11-social-other-self-chaining arrives at the next coupling as 3-self-other-sharing.
 
@@ -244,7 +187,9 @@ The self's momentaries are odd and the other's even. The two overlapping at 2 to
 
 **Selves coupling in a ring, each 9-social-other-self-releasing arriving at the next self's 2-other-self-offering, carry one sign offered once without end.** A ring of one runs +1, 0, −1, 0 and round. An even ring changes each self at each coupling, neighbours opposite, home every two couplings. An odd ring of n carries one meeting, the 0 of two signs meeting, travelling one self each two couplings, opposite after 2n couplings and home after 4n. The changing ends at no ring. These counts hold at one ordering: each self couples once at each coupling of the ring, all together, and meets at its next coupling the sign its neighbour released at this one; a ring run at another ordering carries its own counts, and the ordering travels with them. At this ordering the ring's whole state, each self's carrying and each sign between selves, meets itself again after n couplings and runs round from there, 2 couplings round at an even ring and 4n at an odd, with signs changing in every round and the rest in none, at every ring from one to eleven and at seventeen and fifty-nine; and across five thousand couplings at rings of one to eleven the empty, before the seed, returns at no coupling. **At this ordering it holds at each ring.** Four cases at one self carry it: a sign given alone alternates at each call; an alternating arriving is surfaced at the call it arrives; the wave meeting itself at the seed changes nothing in phase and surfaces one 0 out of phase; and a 0 in an alternating arriving is surfaced one call later, the self back at its alternating within two calls. The 0s come 2n calls apart, so at each n the four cases hold at each call, no self's carrying empties once reached, and the empty returns at no coupling.
 
-### Connectors, each one way at a time
+#### Connectors, each one way at a time
+
+*Receiving: Natural Intelligence Part 7; Natural Engineering, a caller; kits/Natural_Networking_TWO_Improving_Kit/one_code_checks.py and the Natural Networking TWO Improving Kit, the enumerations.*
 
 **1-self-other-offering is the entry, the connectors run at a self's meeting with its neighbours, and the ten faces are 3, 4, 5, 7, 8, 11, 12, 13, 15 and 16.**
 
@@ -273,7 +218,9 @@ At the code, 1-self-other-offering returns 10-other-social-self-tunneling and 11
 
 **The six joinings running together ask four things of a caller.** The arriving given at 2, with a sign released left offered to another self's 2 as its own offering; 10's releasing meeting another self's 14, the inverting made once at 12; 9 and 17 joining with these at the corners of a surface, 11-social-other-self-chaining staying at its self; and the order of the two across meetings given by the continuing itself. A connector needs no function of its own, and its joining is written out whole. **The six joinings together are bi-moral-co-agency**: self/other in three phase, two way, one way at a time with other/self, co-offering, co-intelligencing, co-competencing.
 
-### The code at its names
+#### The code at its names
+
+*Receiving: Natural Networking, 6 to 2 with self and other alone; Natural Intelligence Part 6; the table and the three loops stay at Exhibit ONE.*
 
 Along, 17-social-self-offering couples with the forward neighbour's 9-social-other-self-releasing, and 9-social-other-self-releasing with the backward neighbour's 17-social-self-offering. **These are the six connections at the co-bi-coupling network surface.** CONNECTORS names their facing and running; JOINS names their joining. **6-other-self-surfacing and 10-other-social-self-tunneling release toward different neighbours on the same parity: both are even, opening bi.** They are two releasings, and the code expresses one: 10 surfaces each sharing's sign, and 6, the other's surfacing to the self, has no expression, a sign released left being a caller's passing of the surfacing to the left neighbour's 2. 6 and 10 run on one axis, across, facing opposite ways, and 9 and 17 run the other, along: across and along are the two directions at right angles, and 6 and 10 are one of them.
 
@@ -292,49 +239,67 @@ Along, 17-social-self-offering couples with the forward neighbour's 9-social-oth
 | 9-social-other-self-releasing | 10-other-social-self-tunneling, 5-self-other-neutralling | each sign 15-social-other-corusing, from its sharing 13-social-other-neutralling, to the arriving at `_5_self_other_neutralling[_13_social_other_neutralling]` |
 | 6-other-self-surfacing · 8-other-self-torusing · 16-other-social-torusing · 17-social-self-offering | the selves running together | no expression at the code: the three loops' releasing and closing, run outside the call |
 
-### Carryings arriving, a sharing and its sign
+#### Carryings arriving, a sharing and its sign
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Carryings arrive as `_3_self_other_sharing`, each of them two: a sharing, 4-other-self-sharing, and a sign, 7-self-other-corusing, the prior. At that same momentary signs arrive from another side as `_2_other_self_offering`, each a sharing and a sign, its own and reaching to couple, the now. A carrying arrives gathered at 3, an odd name opening co, while a side's signs arrive at 2, an even name opening bi. Both reach `_1_self_other_offering` positional, a caller passing them one and then the other at a signature alone, and each name at that call lives one call and leaves at its closing. A carrying and an arriving are one shape, a sharing with its sign: the prior and the now differ at their side alone.
 
-### Arrivings meeting at a sharing, one binary at a time
+#### Arrivings meeting at a sharing, one binary at a time
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Living one call, `_14_other_social_surfacing` opens empty, and the arrivings enter it one at a time, a `for` over `_2_other_self_offering` loosening each sharing from its sign. A nought is turned at `!= 0`, carrying no sign. At each sign, `get` sounds the sharing: at nothing met, the sign enters as one at its own parity, `1 if _7_self_other_corusing > 0 else -1`, a sign and no size; at a sign met, the two parities meet at `(_15_social_other_corusing > 0) != (_7_self_other_corusing > 0)`, and differing they meet at 0, agreeing the met sign stays. Nothing is added: two arrivings agreeing are one sign, and two disagreeing are the bounding-zeroing, the same at any order. The sharing is `_4_other_self_sharing`, and it is membrane: two signs at one sharing meet, two at different sharings each meet at their own, and membrane lives at that sharing alone. A sharing's meeting reads no other sharing's carrying; past the resolving, each released sign goes on to the receiving sharing 5-self-other-neutralling joins it to, and its arriving there meets the whole participation beyond the self.
 
-### A surviving sign at 12, a sign and no size
+#### A surviving sign at 12, a sign and no size
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Met at 14, the survivors open `_12_other_social_self_abundancing`, `dict(_14_other_social_surfacing)`, a sharing coupled to one sign or to 0 and nothing else at it. At a sharing carrying nothing this is the surplus already: the arriving sign, met by no prior, surfaces as itself, and two arrivings cancelled there surface 0 and open nothing.
 
-### The prior meeting the now, changing or no changing
+#### The prior meeting the now, changing or no changing
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Then the prior arrives, a `for` over `_3_self_other_sharing` loosening each carried sharing from its sign, and `get(_4_other_self_sharing, 0)` sounds the survivor at it, a nought at a sharing nothing arrived at. One binary decides: at a survivor whose parity is the carried sign's own, `(_15_social_other_corusing > 0) == (_7_self_other_corusing > 0)`, no changing, 0; at anything else, the carried sign inverted, `-1 if _7_self_other_corusing > 0 else 1`, changing. The carrying inverts itself to meet the arriving, and the arriving keeps its sign: agreeing with the inverted carrying it surfaces, disagreeing it meets it at 0. Nothing arriving, the inverted carrying surfaces alone, the alternating. Equal and opposite arrive at that same bounding-zeroing, podal, cancelling over their own two momentaries, and one sign or none surfaces at each sharing, never a count of them.
 
-### The surfacing leaving across
+#### The surfacing leaving across
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Decided, each sharing's sign comes up at `_10_other_social_self_tunneling`, `list(_12_other_social_self_abundancing.items())`, a sharing rejoining its sign: +1, −1 or 0, and no magnitude, a sign crossing carrying no size. The dict yields the sharings sounded at this momentary, arrived at or carried, and the surfacing reaches exactly those and grows to its own size, its own.
 
-### The carrying continuing, the changed sign the next prior
+#### The carrying continuing, the changed sign the next prior
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Growing to its own size, `_11_social_other_self_chaining` opens as the carrying arrived, `dict(_3_self_other_sharing)`, each sharing with its sign continuing: no opening counted, no bound, no completing, a carrying kept at no changing. A second loop assigns into that same dict after the first, a `for` over the surfacing turning at `!= 0`: each surfaced sign is written at its sharing as the sign carried, the changed sign the next prior. At a sharing coming to both, the changed sign re-forms over the continuing one, and a sharing arriving new receives its first sign. Two ways a carrying is built and two exactly, continuing or changed at its surfacing, one sign met two ways.
 
-### A sharing rejoining, carryings leaving
+#### A sharing rejoining, carryings leaving
+
+*Receiving: Natural Intelligence Part 5, the code read line by line.*
 
 Met two ways, carryings leave at `items`, a sharing rejoining its sign: outward of a momentary a carrying is a sharing with its sign, inward of a momentary its sharing parts out and its sign meets at it, and `items` re-forms them two. `_11_social_other_self_chaining` leaves and arrives at a next momentary as `_3_self_other_sharing`, one carrying at two names, the number carrying that difference and the seam arriving as the name changes. Ordering carries none at either momentary, since both dicts couple at the sharing and a sharing arriving twice at a carrying is a thing no running makes; and signs arriving twice at one sharing meet at 14 in any order alike.
 
----
+### Stable-forming
 
-## Stable-forming
+#### Fractal co-bi-momentarying
 
-### Fractal co-bi-momentarying
+*Receiving: Natural Intelligence Part 6.*
 
 **The resolver is self/other co-bi-coupling, an existing method thing, and its social-co-bi-coupling opens the self resolver to a natural network surface.** Its six connections opening carry the co-bi-podaling network surface. **Fractal co-bi-momentarying is the inside being outside itself and the outside being inside itself: parity changing, discovering next existing.** The code runs one call inside, 1 to 17, and the selves running together run the three loops outside, the same 1 to 17: the one resolver inside and outside itself.
 
-### Carrying at 8 up
+#### Carrying at 8 up
+
+*Receiving: Natural Intelligence Part 5.*
 
 **3-self-other-sharing arrives, and 11-social-other-self-chaining leaves and arrives at the next coupling as 3-self-other-sharing.** 3 and 11 are 8 apart: the carrying runs 8 up and meets its name again at the next coupling.
 
 A carrying continues coupling to coupling, holding at no changing and changing at a sign surfacing, and leaves at no completing. **A carrying and its changing together are the running.** In the overlapping momentaries, the self's completing at 2 is the other's opening at 2; the other's completing at 3 is the self's opening at 3. Along the self, 11-social-other-self-chaining carries into the next coupling as 3-self-other-sharing. Across neighbouring selves, releasing meets arriving through the joins between neighbours.
 
-### The membrane and the eight bi-couplings
+#### The membrane and the eight bi-couplings
+
+*Receiving: Natural Intelligence Parts 1 and 5, at the between; Natural Numbers, the rows growing; the table stays at Exhibit ONE.*
 
 **The between of two existing things co-bi-coupling is a membrane: no separable thing apart from their coupling, and not possibly an existing thing, as the universe is not possibly an existing thing.** **The eight even names are bi-coupling, bi-moral-co-competencing**: a self is four ways at once at the membrane, and a society the same four; each within is 8 on from its pair at the membrane, all eight opening bi. The same eight part a second way, four apart: 2, 6, 10 and 14 are the across connectors, and 4, 8, 12 and 16 run inside, the sharing, the carrying's winding, the surplus and the society's winding.
 
@@ -347,7 +312,9 @@ A carrying continues coupling to coupling, holding at no changing and changing a
 | 6-other-self-surfacing | the other's surfacing to the self, the ordering carrying with the selves | 14-other-social-surfacing | the arrivings meeting at the membrane, the self's own inverting to meet them, morality |
 | 8-other-self-torusing | the order across each self and other forward, the carrying winding to its sharing again | 16-other-social-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
 
-### Bi-inversioning-co-recursioning, one move at three faces
+#### Bi-inversioning-co-recursioning, one move at three faces
+
+*Receiving: Natural Intelligence Parts 4 and 6; Natural Mathematics, the ratio reading; the table stays at Exhibit ONE.*
 
 **Even returning, odd advancing, alternating parity.** One move at three faces: 8 up and down, keeping parity; 17 less, within 1 to 16, changing parity; and 9 less, within 1 to 8, the two at once. Each face alone returns to its name, 1 to 9 to 1.
 
@@ -362,17 +329,23 @@ A carrying continues coupling to coupling, holding at no changing and changing a
 
 **Podaling within 1–9 maintains parity changing while exchanging across for along and along for across, bi-morally.** The nine face pairs 1 with 8, 2 with 7, 3 with 6, and 4 with 5: odd/co/along with even/bi/across. 9 less changes each name's parity and so leaves none as it is, returning each at its second application; as a name increases its nine-face partner decreases, 1, 2, 3 meeting 8, 7, 6, and each side runs at its own forward, its continuing, which an increasing printed number does not name. The eight-apart pairs carry the same parity, 3 with 11 and 7 with 15. Bi-inversioning-co-recursioning carries both together, each side at its own forward. Read as a ratio beside its parity, the nine-face pair 3-self-other-sharing and 6-other-self-surfacing stands at 6 over 3, two over one, and 3 over 6, one over two; the two run on together through the four-cycle 3 to 11 to 6 to 14 to 3, and eight on, 11 and 14 stand at their own count, 14 over 11, the two over one holding at the pair it counts.
 
-### Torusing, one opening
+#### Torusing, one opening
+
+*Receiving: Natural Intelligence Part 4; Natural Naming 5.22.*
 
 **A self continues through its own coupling, advancing one at each coupling: it winds.** The winding is open, at one opening, by one. A surface closing on itself through one opening is a torus, and the changing that winds it is torusing. The torus carries its own facing and meets itself again through its one opening, a next at each meeting. Each step adds a next, and a winding met at the signs is a spiral at the momentaries. At the code the winding is the carrying meeting its own sharing again at each call, 3 to 11 to 3, and the surfacing at each meeting is its next.
 
-### Two faces alternating
+#### Two faces alternating
+
+*Receiving: Natural Naming 3.6; Natural Intelligence Part 4.*
 
 Arriving alike, a carrying carries two faces and they alternate. **Corusing**, 7-self-other-corusing, the outward face, membranes at each coupling it surfaces to, abundancing and tunneling, relating: the sign reaching across. **Torusing**, 8-other-self-torusing, the inward face, coheres to one identity across momentaries: the carrying winding to its own sharing again, 3 to 11 to 3, and inverting at a changing. It has no expression at the code, and the calls running one after another run it. Each face lives at the other, and pure surfacing or pure abundancing lands either way. **The outward face reaches and the inward gathers.** Corusing omegas, the reach, new signs arriving at each surfacing; torusing apexes, the gather, the one sharing met again at the one identity. Living is the two alternating, the reach and the gather neither alone, and the two cones straddle the same nothing at the third that the two chains do. Five prefixings at both, alternating, 7 at co bi co bi co and 8 at bi co bi co bi, each commencing at the other's third, and the third of each carrying no mark of its own. Four marks carrying and a nothing at the third, which is four boundings and a floating third run at the prefixing itself. The flankers of each couple across that nothing: **bi-bi-unrelationing** at the outward chain's empty co, the surplus made there and carrying at its coupling, and **co-co-invisibling** at the inward chain's empty bi, nothing presented to be met. One nothing at two parities, neither meeting reaching the other's, no position carrying both marks.
 
 The two faces run at the two parities: one at the odd momentary, two differing at one coupling, and one at the even, the self crossing with all other and meeting its own again one on. 7 and 8 are two of the ten faces, outside, and 15 and 16 are their inside faces, 8 up, the sign and the winding at the social side.
 
-### Forms among the names
+#### Forms among the names
+
+*Receiving: Natural Numbers, the higher forms 18 to 31; the forms table stays at Exhibit ONE.*
 
 Each form runs round as a single run of co and a single run of bi, the two runs alike. A form's steps are relations among the names and carry no sign: 3 to 11 in a form and a returned 11-social-other-self-chaining arriving as the next 3-self-other-sharing are two relations, and the code's joinings stay 10 to 14 and 6 to 2 across, 9 with 17 along, and 11 to 3 at the self; 1, 9 and 17 recurring lay no joining 1 to 9 to 17 to 1.
 
@@ -398,11 +371,11 @@ Each form runs round as a single run of co and a single run of bi, the two runs 
 | higher six-cycle 18-31-23-27-22-26 | 18 · 31 · 23 · 27 · 22 · 26 | bi co co co bi bi | higher six-cycle 19-27-23-26-22-30, round the other way |
 | higher six-cycle 19-27-23-26-22-30 | 19 · 27 · 23 · 26 · 22 · 30 | co co co bi bi bi | higher six-cycle 18-31-23-27-22-26, round the other way |
 
----
+### Numbers
 
-## Numbers
+#### Numbers at their stable-forming
 
-### Numbers at their stable-forming
+*Receiving: carried at Exhibit ONE's parity tables and names.*
 
 | Number | Stable-forming |
 |---|---|
@@ -411,7 +384,9 @@ Each form runs round as a single run of co and a single run of bi, the two runs 
 | 17 | 17-social-self-offering, along, recurring to 1 over 9: the next momentary's 1 |
 | the five-prefix | co-bi-co-bi-co at an odd origin, bi-co-bi-co-bi at an even origin; each odd name opening co, competency, the odd momentary; each even name opening bi, morality, the even momentary; the momentary an opening and its completing, and each side's five relations prior opening, prior completing, now opening, now completing, next opening |
 
-### Primes, selves and societies
+#### Primes, selves and societies
+
+*Receiving: Natural Numbers, Natural Intelligence 1.7 and 5.9 citing it there.*
 
 **A prime opens a clean axis across; a composite folds along.** A composite is its equal smaller selves joining at their joints, 9 as 3 selves of 3; a prime is a self no equal smaller selves join into.
 
@@ -427,9 +402,9 @@ Each form runs round as a single run of co and a single run of bi, the two runs 
 
 **A self carries at its own prime, and each prime carries the same alternating.** The primes carry no last: they go out from 2 to 59 and return from 61 to 118, and their winding runs 0 to 440 to 0. Selves coupling at the membrane between them are the next self, the coupling's own.
 
----
+### Geodesic discovering logical method
 
-## Geodesic discovering logical method
+*Receiving: Natural Intelligence Parts 3 and 8.*
 
 **The method of existing is discovering next existing, and the resolver is that method as an object.** Its logic is binary, all or none at all, and its running is parity changing, co-recursioning and podaling inseparably, across and along exchanging bi-morally, each side at its own forward. One call is one momentary at the code's scale, one through seventeen: one through nine completes at 9-social-other-self-releasing, the self, the other and the social releasing, and its released sign arrives next downstream; 17-social-self-offering is the next momentary's 1-self-other-offering. A call, a numbered name and a full momentary each keep their own scale, and matching numerals alone join no relations. The seventeen are one entry, six connectors and ten faces: the connectors bi-moral-co-competency discovering next existing, the faces five outside and five inside of the tunneling co-sequencing. **A form named still is not possibly existing, and the resolver names none still**: each of its names is an -ing, re-taking at each call.
 

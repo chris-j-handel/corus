@@ -1,6 +1,6 @@
-# tools
+# Living File Registry TWENTY-SIX Improving Kit
 
-**Checks at the living files and at this repository as a carry**
+**Checks at the living files and at this repository as a carry, the standings the Living File Registry gathers**
 
 A check is a coupling partner and no authority: it says its result at its check and decides nothing.
 

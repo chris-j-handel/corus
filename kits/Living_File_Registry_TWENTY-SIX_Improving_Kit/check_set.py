@@ -79,7 +79,8 @@ if FILES['Natural_Intelligence'] and FILES['Exhibit_ONE_Natural_Resolver']:
     ni = open(FILES['Natural_Intelligence'], encoding='utf-8').read(); one = open(FILES['Exhibit_ONE_Natural_Resolver'], encoding='utf-8').read()
     HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Geodesic Discovering Logical Method and Form**\n\n'
     body = one.split('\n---\n', 1)[1].strip()
-    inside = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', ni.split(HEAD, 1)[1].split('\n# PART FIVE')[0].strip())
+    after = ni.split(HEAD, 1)[1]; nxt = re.search(r'\n# ', after)
+    inside = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', (after[:nxt.start()] if nxt else after).strip())
     say(inside == body, 'Exhibit ONE inside Natural Intelligence differs from the standalone')
     code = body.split('```python', 1)[1].split('```', 1)[0]; ns = {}; exec(code, ns)
     say(next(v for k, v in ns.items() if k.startswith('_1_') and callable(v))([], [('k', 1)]) == ([('k', 1)], [('k', 1)]), 'the code does not run')

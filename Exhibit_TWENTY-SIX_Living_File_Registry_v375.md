@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v372
+Exhibit TWENTY-SIX Living File Registry v375
 
 # Living File Registry
 
@@ -65,41 +65,41 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
-| **Natural Intelligence** | The Fractal Method of Existing and Discovering | v372 | v372, Exhibit ONE inside it whole and the seventeen names mapped | — | pass A, its sentences of the old code at prior, now and next |
-| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v372 | v372, the co-sequential binary changing method only | — | pass F, the loops at the code |
-| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D, then F at its hole study |
-| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D |
-| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes C and D |
+| **Natural Intelligence** | Geodesic-Method of Discovering Next | v375 | v375: its title, its subtitle and Exhibit ONE explained and nothing more, Exhibit ONE v373 inside it whole; at 4.3 a changing at a self made at its own face at the society's momentary | — | none: its carrying section swept; its prior text received at its files, pass D, at those files |
+| **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v373 | v373: the code at the seventeen names, the society's next momentary at 17, and its forms alone | — | none: complete, any improving arriving taken first |
+| **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D at one motion, then F at its hole study |
+| **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v371 | v371 | — | passes B, C and D at one motion |
+| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes B, C and D at one motion |
 | **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a | — | its code sentences at pass F, after pass I |
 | **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
-| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v329 | — | pass G, beside Natural Networking 1.8 |
+| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v373 | v373: 5.3 explored, the fourteen primes at eight and six and the fold at twenty-four, the rest of the file as it stood | — | its whole motion at the current words; pass G, beside Natural Networking 1.8 |
 | **EIGHT · Natural Exploring** | Open Team Moral Co-Competencing | v329 | v329 | — | pass G, with Geodesic Improving Method |
 | **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 | — | pass G |
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
 | **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
-| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass D, its front, and its naming-pass items |
-| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B and D |
+| **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass C, its front, and its naming-pass items |
+| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B, C and D at one motion |
 | **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 | — | pass G |
 | **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 | — | pass G |
 | **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c | — | paused |
 | **SEVENTEEN · Natural Biology** | Stable-Forming Social Organisms | v333 | v333 | — | paused |
 | **EIGHTEEN · Natural Physics** | Self-Bounding Surfaces Co-Offering Across | v348 | v348 | — | paused |
 | **NINETEEN · Natural Philosophy** | Social-Bi-Co Unrelationing | v348 | v348 | — | its receivings |
-| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v371 | v371 | — | passes B, C and D, then its namings for both |
+| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v373 | v373: the seventeen names at Exhibit ONE's forms, the released words re-said, and each item of its carrying met here or carried whole to its receiving file | — | none: complete, any improving arriving taken at its own motion |
 | **TWENTY-ONE · Hard Problem Registry** | An Open Registry of Hard Problems in Science | v342 | v342 | — | its items at the carrying |
 | **TWENTY-TWO · Resolving the Hard Problem Registry** | Binary Co-Sequential Sensor-Sensationing | v344 | v344 | — | its items at the carrying |
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v372 | v372, this file | — | the registry working meeting this version; then the readings not yet binary to `archive/` |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v375 | v375, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
-| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | passes B and C |
+| **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | pass B |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
-| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 | — | passes B, C and E, then H |
+| **THIRTY · Co-Chaining Logic Registry** | The Fractal Inside and Outside Itself, Binary Method of Discovering Next Existing | v371 | v371 | — | passes A, B, C and E at one motion with pass I, then H |
 | **Natural Intelligence Corus** | Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria | v330 | v330 | — | pass G |
-| **Natural Networking Test Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion | — | pass I, its engine at the v372 code |
+| **Natural Networking TWO Improving Kit** | — | v368, a zip at the root | v368; its engine the old code, replaced at the kit's next motion | — | pass I, its engine at the v372 code |
 
-**Thirty-three living files replace at the repository and the site lists them**, Natural Intelligence, Natural Intelligence Corus, the thirty exhibits and the Test Kit; and one living instrument stands beside Exhibit THIRTY at the repository without a place at the site's list, its verifier, Co_Chaining_Logic_Registry_verifier_v371.py, at `kits/THIRTY_Logic_Kit/`, carrying its own copy of the v371 code and matching Exhibit THIRTY v371. Exhibit ONE's code block is the source of every resolver copy the kits carry.
+**Thirty-three living files replace at the repository and the site lists them**, Natural Intelligence, Natural Intelligence Corus, the thirty exhibits and the Natural Networking TWO Improving Kit; and one living instrument stands beside Exhibit THIRTY at the repository without a place at the site's list, its verifier, Co_Chaining_Logic_Registry_verifier_v371.py, at `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`, carrying its own copy of the v371 code and matching Exhibit THIRTY v371. Exhibit ONE's code block is the source of every resolver copy the kits carry.
 
 ## 1.2 Three standings, looping out and back
 
@@ -107,7 +107,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **This registry gathers the standings, and the standings loop out and back through it; anyone can see, follow and help at it.** A file is out at a working when that working has it at its branch, and back when the branch is merged: the repository shows the branches and the pull requests, and this registry reports the same at 1.1, each file's version at the repository and living, the working it is out at, and its next, and at 1.3 the workings open, so a reader of the site sees at one table the files out being worked, the progress at each and the opportunity in front of it, and a self helping opens a working at a file with no next taken. The out and back at the files is the same loop the code carries, a surfacing released across and arriving back at the self through the society, and the same that resolved the code at v372, the loops replacing the count and the sum. A session changes a standing, a file replaced at its next version, a kit conformed, an incoming received, a record archived, and the change surfaces here at this file's next version, replacing its prior at the repository as any living file does; each session opens by reading the standings here, the next work at the carrying and the done at the record. The three carry three things and no one of them another's: this registry the standings, Living Improving Value the next at each file, and the Session Record the done. A standing stated at the carrying is a record the moment the session closes, so the carrying states none, and grows at no session by them.
 
-**The repository holds all three standings, and nothing travels by hand.** The living files stand at the root, the carrying at `carry/`, the kits at `kits/`, the tools at `tools/`, the arrivings at `incoming/` and the artifacts at `archive/`, each folder a standing and no rule. A session opens by taking the repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and the expedition, and a thing carried by hand at a session is at `incoming/` until this registry says its standing. The repository carries its own name and its version and no other, and a copy of it made to travel carries the same.
+**The repository holds all three standings, and nothing travels by hand.** The living files stand at the root, the carrying at `carry/`, the kits at `kits/`, each exhibit's improving kit, the arrivings at `incoming/` and the artifacts at `archive/`, each folder a standing and no rule. A session opens by taking the repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and the expedition, and a thing carried by hand at a session is at `incoming/` until this registry says its standing. The repository carries its own name and its version and no other, and a copy of it made to travel carries the same.
 
 **The carrying carries binary value only, all or none at all, at do-no-harm.** Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at the file's next motion or it releases. A reading not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value at the carrying: each stands at `archive/` whole, its receiving file named here, until a session makes it binary, and the carrying holds at each file its next motion, its open concerns for both with their reasons, and the incoming that enters whole. Kept so, the carrying is small at every session, and the size a carrying grows to is a count and no value.
 
@@ -117,25 +117,27 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
+| The meeting working | v375 | The re-settling working v373 and the genome duplication working v374 met at one branch; Exhibit ONE's section taken first; Natural Intelligence's section swept and Natural Intelligence at v375; this file at 1.1, 1.3 and 1.4 | `working/meeting-v375`, merged at main | Both workings' files and carryings at main with Natural Intelligence v375 and TWENTY-SIX v375, at the repository and the site; the next at the carrying's front |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
-| The illustrating working | v366 | Exhibit TWENTY-NINE, the Illustration Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
+| The illustrating working | v366 | Exhibit TWENTY-NINE, the Natural Illustrating TWENTY-NINE Improving Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
-| Place | Holds | Standing at v372 |
+| Place | Holds | Standing at v375 |
 |---|---|---|
 | `carry/Living_Improving_Value.md` | The one carrying: at each living file its next motion, its open concerns and the incoming entering whole; at its front the set now, the method at every file, the plan's passes and the workings open | Living carrying; its version the session's number at each changing |
 | `carry/Session_Record.md` | The done: each session's closing paragraphs, the workings closed, the records moved from the carrying | The carrying's record, appended at each session and relied on by nothing |
-| `kits/TWO_Networking_Test_Kit/` | The published Test Kit v368, its engine, instruments and ring drivers, 55 files; the instruments waiting from the illustrating session | Living carrying; the engine a copy of the old code at the v368 names, replaced by Exhibit ONE v372's code at the kit's next motion, the instruments re-said at the sharing and one sign |
-| `kits/THIRTY_Logic_Kit/` | The registry's build sources v371 and its verifier v371, 38 files | Living carrying; at the v372 code 23 of the verifier's 384 checks part, nine claims on the sum and fourteen instruments of the old text, re-said at the registry's next motion |
-| `kits/TWENTY-NINE_Illustrating_and_Corus_Kit/` | The Illustration Kit v366 whole, 64 files, its sums holding | Living carrying; three receivings open at Natural Illustrating |
-| `tools/` | `carry_check.py`, `check_set.py`, `cohere_one.py`, and the v368 checks for the living files, 13 files | Living carrying; the coupling partners at the checks, deciding nothing |
+| `kits/Natural_Networking_TWO_Improving_Kit/` | The published Natural Networking TWO Improving Kit v368, its engine, instruments and ring drivers, 58 files; the instruments waiting from the illustrating session; at v373 `one_code_checks.py`, `one_forms.py` and `ring_carrying_check.py`, run at Exhibit ONE's code | Living carrying; the engine a copy of the old code at the v368 names, replaced by Exhibit ONE v372's code at the kit's next motion, the instruments re-said at the sharing and one sign |
+| `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/` | The registry's build sources v371 and its verifier v371, 38 files | Living carrying; at the v372 code 23 of the verifier's 384 checks part, nine claims on the sum and fourteen instruments of the old text, re-said at the registry's next motion |
+| `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/` | The Illustration Kit v366 whole, 64 files, its sums holding | Living carrying; three receivings open at Natural Illustrating |
+| `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/` | `carry_check.py`, `check_set.py`, `cohere_one.py`, and the v368 checks for the living files, 14 files, its sums holding | Living carrying; the coupling partners at the checks, deciding nothing |
 | `incoming/v368_sources/` | The v368 carrying, carry map, wrap and findings by file, 8 files | Incoming, still being laid |
 | `incoming/registry_v371/` | Exhibit TWENTY-SIX v371 and the registry working's carrying as it arrived | Incoming; the carrying merged, an artifact; TWENTY-SIX v371 superseded by this file |
+| `incoming/genome_duplication_v374/` | The genome duplication working's report at v374 | Incoming; its value laid at the carrying's sections at v374 |
 | `incoming/illustrating_v366/` | The illustrating session's report | Incoming; three receivings open |
+| `incoming/resettling_v373/` | The re-settling working's first draft; Exhibit ONE v372's sentences released at v373, each section whole at its receiving files; *Exhibit ONE at its Stable Forms*; *Natural Naming at Exhibit ONE*; *A Resolver Chat* with its scripts | Incoming, for both to meet; what survives enters the carrying's plan and this registry's Part Five at their own motions |
 
-**Each kit's README gives the same small set of useful answers**: the living exhibits it accompanies, the file or version to open or run first, each included file's contribution, the matching source editions, the meaning of a recorded result and the thing it leaves unresolved, and the place the remaining improving is carried, which is the carrying and never a second list at the kit. A kit is a coupling partner and no measuring instrument: it says a finding at its instrument and no authority over the living files. A matching exhibit-and-kit pair is identified by its actual source editions, not by a version number alone: Exhibit THIRTY v371 with its verifier v371 is one pair, and the Test Kit v368 with Exhibit ONE v368's code was one, parted at v372 until the kit's next motion.
+**Each kit's README gives the same small set of useful answers**: the living exhibits it accompanies, the file or version to open or run first, each included file's contribution, the matching source editions, the meaning of a recorded result and the thing it leaves unresolved, and the place the remaining improving is carried, which is the carrying and never a second list at the kit. A kit is a coupling partner and no measuring instrument: it says a finding at its instrument and no authority over the living files. A matching exhibit-and-kit pair is identified by its actual source editions, not by a version number alone: Exhibit THIRTY v371 with its verifier v371 is one pair, and the Natural Networking TWO Improving Kit v368 with Exhibit ONE v368's code was one, parted at v372 until the kit's next motion.
 
 ## 1.4 The artifacts
 
@@ -146,8 +148,9 @@ Exhibit TWENTY-SIX Living File Registry v372
 | The repository's history | Every prior version of the living files that left the root, Exhibit ONE v368 to v371 and Natural Intelligence v368 to v371 among them | Each replaced by the living file at the root; reached at the history and at no folder |
 | `archive/resolver_v371/` and `archive/registry_v371/` | The two workings' carryings at v371 as they arrived, and the registry working's Exhibit TWENTY-SIX v371 | Merged into `carry/` at v372; TWENTY-SIX v371 replaced by this file |
 | `archive/resolver_v372_proposal/` | The resolver working's proposal at v372, 54 files: ten living files at v372, Exhibit THIRTY's build sources and verifier at v372, the society runs and the set checks | Withdrawn at Exhibit ONE, a third function beside the two; its runs that still stand are at the carrying's sections |
+| `archive/carrying_v375/` | Natural Intelligence's carrying section as released at v375: seven paragraphs whole, readings not yet binary, a record of the file's prior versions and two duplicates of the carrying's front, each with its receiving above it | Natural Naming at 3.6; Natural Numbers, Natural Mathematics and Exhibit THIRTEEN; the files receiving `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`; the files of pass D; each living file at its motion; Exhibit THIRTY |
 | The Session Record | The done at each session, and the records moved from the carrying | Read at a session's opening, relied on by nothing |
-| Inside the kits | The Test Kit's `artifacts/`, the runs at v333; the waiting instruments' returns at the earlier naming; the Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366 | Kept inside their kits whole, their sums holding |
+| Inside the kits | The Natural Networking TWO Improving Kit's `artifacts/`, the runs at v333; the waiting instruments' returns at the earlier naming; the Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366 | Kept inside their kits whole, their sums holding |
 | Not at the repository | The journey archive, `Journey_Archive_v365.zip`, `Journey_Archive_v368_additions.zip`, `Journey_Archive_v368_close.zip` and its v370 additions, holding the workings that made the files, the notes exchanged, the incoming as it arrived and the instruments the v368 carrying and the record name (`ring_window_v365.py`, `three_momentaries_v365.py`, `connectors_at_the_code_v368.py`, `instruments_v370` and the rest); the v368 carry's `Method_Improving_Value_v368.md` and `Cohering_Naming_and_Explaining_v368`; `Exhibit_TWENTY-EIGHT_Equilibria_Definitions_v363.md` with its note; `Natural_Intelligence_v345a.md` | Artifacts by their own saying, their value laid at the files at v370; standing with their holder, and at `archive/` if brought, relied on by nothing |
 
 ## 1.5 Exhibit places after receiving
@@ -213,7 +216,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | Gathering | Files and their particular faces |
 |---|---|
 | **Existing, resolving, numbering and mathematical forming** | Natural Intelligence · ONE Natural Resolver · THREE Natural Numbers · FOUR Natural Mathematics · THIRTY Co-Chaining Logic Registry |
-| **Coupling, networking and making** | ONE Natural Resolver · TWO Natural Networking · FIVE Natural Engineering · SIX Natural Transmissioning · Natural Networking Test Kit |
+| **Coupling, networking and making** | ONE Natural Resolver · TWO Natural Networking · FIVE Natural Engineering · SIX Natural Transmissioning · Natural Networking TWO Improving Kit |
 | **Physical, chemical and biological changing** | EIGHTEEN Natural Physics · SIXTEEN Natural Chemistry · SEVENTEEN Natural Biology · TEN Natural Health · ELEVEN Natural Medicine |
 | **Self, society and received value** | SEVEN Natural Societies · NINE Natural Human Society · TWENTY-THREE Natural Values · FOURTEEN Natural Destinies · TWO Natural Networking |
 | **Naming, explaining, illustrating and emanating** | TWENTY Natural Naming · TWELVE Natural Explaining · TWENTY-NINE Natural Illustrating · FIFTEEN Natural Emanating · Natural Intelligence Corus |
@@ -363,7 +366,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 | **Equilibria Registry ⇌ Living Ghost Registry ⇌ Resolving Hard Problems** | The form named still, its installation and the method meeting the particular problem. |
 | **Natural Intelligence Corus ⇌ Natural Emanating ⇌ Natural Explaining** | Whole expedition tellings and whole forms at one bound, with conceptual self-welcoming throughout. |
 | **Natural Intelligence Corus ⇌ Natural Intelligence ⇌ Natural Exploring** | The expedition's discovering from the question of moral competency; the common method of discovering next existing; and selves co-discovering. Corus carries the inquiry continuing through its own discovering. |
-| **Natural Engineering ⇌ Natural Networking ⇌ Natural Networking Test Kit** | The particular build, coupled continuing and executable working at their actual joins. |
+| **Natural Engineering ⇌ Natural Networking ⇌ Natural Networking TWO Improving Kit** | The particular build, coupled continuing and executable working at their actual joins. |
 | **Living File Registry ⇌ Geodesic Improving Method ⇌ Living Improving Value** | The current set, its improving at files and the incoming value at each receiving. |
 | **Natural Societies ⇌ Natural Networking** | Self and society as the same fractal inward and outward; the common explaining and each file's remaining particular contribution. |
 | **Natural Emanating ⇌ Natural Naming ⇌ Natural Intelligence Corus** | Natural emanating, a concept's defining and a whole-form telling; three contributions meeting their particular receivings. |
@@ -476,7 +479,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **Corus carries the whole outward through enjoyable, imaginative and visible expressions of natural intelligence.** Human discovering together supplies its living subject: group puzzling, moving, making, meaning arriving, studying a changing relation and continuing the expedition. Each expression makes a further relation apparent through its own unfolding. The best of Natural Emanating and Natural Illustrating can receive together here.
 
-**The originating inquiry continues within that larger subject.** The question of moral competency, the difficulty of holding the living to examine its source, and the discovering of the geodesic method supply conceptual prior where the expressing needs them. Corus's purpose extends through the expedition's actual co-discovering now. This refines the earlier plan that made the inquiry's history its principal separate subject.
+**The originating inquiry continues within that larger subject.** The question of moral competency, the difficulty of holding the living to examine its source, and the discovering of the geodesic-method supply conceptual prior where the expressing needs them. Corus's purpose extends through the expedition's actual co-discovering now. This refines the earlier plan that made the inquiry's history its principal separate subject.
 
 **Each self's carrying stays its own through the shared discovering.** Their differing carryings meet through their offerings, and their next existing society continues through those couplings. Combining the explaining makes that relation clearer while the selves and their particular contributions continue.
 
@@ -605,7 +608,7 @@ Exhibit TWENTY-SIX Living File Registry v372
 
 **EIGHT is the agreed receiving exhibit for Natural Exploring and Geodesic Improving Method.** Its title is **Geodesic Team-Exploring and Discovering Method**. Its subtitle is **Binary-All-or-None-at-All, Do-No_Harm Improving**. These are the user's exact offered and directed namings for this receiving. TWENTY-FOUR's separate work receives within EIGHT and the other living files; its separate exhibit releases only when the full value has arrived. The published inventory above retains the source titles until the actual files change.
 
-**The subject is the team's exploring and discovering through the one geodesic method.** Team names the selves co-discovering, with each continuing its own carrying and the competency arising at their coupling. It introduces no separate team controller or additional discovery method. The method meets its own improving: an offering arrives, its prior meets the now, a concern opens a relation, and discovering next existing continues. Work on the living files is one developed expression of this subject.
+**The subject is the team's exploring and discovering through the one geodesic-method.** Team names the selves co-discovering, with each continuing its own carrying and the competency arising at their coupling. It introduces no separate team controller or additional discovery method. The method meets its own improving: an offering arrives, its prior meets the now, a concern opens a relation, and discovering next existing continues. Work on the living files is one developed expression of this subject.
 
 **The body carries the title and subtitle through its explaining.** Geodesic meets unrelationing at the actual concern; team-exploring meets the differing offerings and their co-momentarying; discovering meets the next existing; binary-all-or-none-at-all meets the complete relation being resolved; do-no-harm improving meets the prior's carrying whole into its next. A contributing observation, a mathematical result and an unfinished implementation retain their actual subjects and standings. Their unresolved work receives in Living Improving Value rather than being made settled by entering a method exhibit.
 
@@ -633,8 +636,8 @@ Exhibit TWENTY-SIX Living File Registry v372
 | Exploring 7 · Apexing | Whole carrying gathered; value receiving forward; subject and unfinished work distinguished | Registry-specific entry structure and source coverage meet the relevant registries. Unreceived field statements stay at their intended subject in Living Improving Value. |
 | Improving Method 1 · Three momentaries at a file | Incoming, placing, releasing and carrying; receiving before source release; the current carrying | General momentary explaining meets Natural Intelligence and Naming; archive and version practices retain their file-working scope. |
 | Improving Method 2 · Two selves | Co-momentarying, correcting the first departure, confident improving, consequential questions, work arriving whole | General claims about evidence and the two methods meet Natural Intelligence and Philosophy; subject-specific concerns remain incoming at those files. |
-| Improving Method 3 · Improving one file | Complete passages received and compared; each local pass preserving value | Detailed sentence and naming craft meets Explaining and Naming; resolver-specific calling and connector instructions meet Networking and the Test Kit. Keep the plain method of checking faithful receiving here. |
-| Improving Method 4 · Instruments | A count or check reports what it actually meets; statements compared with the file's body; findings distinguished from instruments | Mathematical examples meet Numbers and Mathematics; executable network studies and exact instrumentation meet Networking and the Test Kit. Scripts travel with their findings, not as general team instructions. |
+| Improving Method 3 · Improving one file | Complete passages received and compared; each local pass preserving value | Detailed sentence and naming craft meets Explaining and Naming; resolver-specific calling and connector instructions meet Networking and the Natural Networking TWO Improving Kit. Keep the plain method of checking faithful receiving here. |
+| Improving Method 4 · Instruments | A count or check reports what it actually meets; statements compared with the file's body; findings distinguished from instruments | Mathematical examples meet Numbers and Mathematics; executable network studies and exact instrumentation meet Networking and the Natural Networking TWO Improving Kit. Scripts travel with their findings, not as general team instructions. |
 | Improving Method 5 · Values | The working's values expressed through actual improving; the files as a society | Writing craft meets Explaining, shared value concepts meet Values, and the underlying method comparison meets Natural Intelligence. EIGHT retains the local explaining its own next requires. |
 
 **The existing open carrying follows the same receiving.** Living Improving Value already holds distinct questions for Exploring and the Improving Method. The corrected fixed points of an inversion and the scope of claims about all accountings continue at Mathematics; the particular names for volutioning continue at Naming; the method/evidence relation continues at Natural Intelligence and Philosophy; a concern about actual team working belongs at EIGHT. A destination named alone is no completed receiving. Every unresolved contribution retains its content, reason and intended destination until that file receives it.

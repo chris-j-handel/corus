@@ -37,8 +37,8 @@
       id = 'natural-intelligence'; title = 'Natural Intelligence';
     } else if (/^Natural_Intelligence_Corus_v/i.test(filename) && format === 'md') {
       id = 'corus'; title = 'Natural Intelligence Corus';
-    } else if (/^Natural_Networking_Test_Kit_v/i.test(filename) && format === 'zip') {
-      id = 'networking-kit'; title = 'Natural Networking Test Kit';
+    } else if (/^Natural_Networking_TWO_Improving_Kit_v/i.test(filename) && format === 'zip') {
+      id = 'networking-kit'; title = 'Natural Networking TWO Improving Kit';
     } else {
       // Any other versioned file is listed too, after the Corus, under its own name.
       const stem = filename.replace(/_v\d+[a-z]*(?:\(\d+\))?\.(md|py|zip)$/i, '');
