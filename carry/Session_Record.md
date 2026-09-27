@@ -1,4 +1,4 @@
-Session Record v381
+Session Record v382
 
 # Session Record
 
@@ -677,3 +677,780 @@ The Living File Registry at v380: Natural Intelligence, Resolving Hard Problems,
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The existing universe working | v380 | Resolving Hard Problems written whole; Natural Intelligence 1.1, 2.2 and 2.3; Natural Naming 5.26 and 2.4; Natural Mathematics 7.2 and 7.8; the Hard Problem Registry's front; the Equilibria Registry's between sentence; the Living File Registry | `working/thirteen-v380`, merged at main | Merged at main at v380; closed at v381, its clause joined to the opening released. |
+
+
+## The genome duplication working received (v382)
+
+The genome duplication working's record at v374, arriving whole with its branch merged at main at v382, its sessions' paragraphs below as they arrived, at the words of v374: *sign*, *call*, *membrane*, *neighbour*, *costs* and the rest carried at Natural Naming 2.4 at each file's next motion.
+
+## A society of selves outliving its selves (v374)
+
+The expedition's lead: a hydra read as a self that does not age misunderstands a society of selves and its selves opening and nyeing in the society of living selves, the selves bi-tunneling the society, co-chaining moral competency inside it and abundancing it, and the society's living span longer than the selves'. The report's *Selves not ageing* and the carrying's hydra readings re-said at the lead; met at hydra's continuous cell replacement, *Hydra oligactis* ageing at the cold as its stem cells decline and at its epithelial stem cells' autophagy, and *Turritopsis*; laid at the carrying's Exhibit ONE, Natural Health and Natural Biology sections and the report's observings 72 to 75, with Natural Biology's *And the record carries selves that do not narrow* standing against the observings and met at the lead's reading, and the concern at restoration re-said with the society's own members opening.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the ring's orders as at the prior motion, a member released at a position and a new one opening there as a doubling of its left neighbour (its carrying and last surfacing continued) or empty (its carrying opened at its first arriving). M, members opening as doublings in turn with every join conducting; N, the join into position 1 stopped from call 5 and not restored, doublings in turn from call 9; O, the join stopped at calls 5 to 8 and conducting again, doublings in turn from call 9; E, members opening empty with the joins conducting; Nempty, the join stopped and members opening empty, the society's last row. The figure after the stroke is the turnover's pace, one member at each first, second or fourth call:
+
+```
+M. conducting ring of five, one member released at each call in turn and a new one opening as a doubling of its left neighbour
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -----
+  call  7  carried +++++
+  call  8  carried +++++
+  call  9  carried -----
+  call 10  carried -----
+  call 11  carried +++++
+  call 12  carried +++++
+N. the join into position 1 stopped from call 5 and not restored; members released and opening as doublings in turn from call 9
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -+---
+  call  7  carried +-+++
+  call  8  carried ++-++
+  call  9  carried --+--
+  call 10  carried -+-+-
+  call 11  carried +-+++
+  call 12  carried ++---
+  call 13  carried --+--
+  call 14  carried ++-++
+  call 15  carried +-+-+
+  call 16  carried -+---
+O. the join stopped at calls 5-8 and conducting again; members released and opening as doublings in turn from call 9
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -+---
+  call  7  carried +-+++
+  call  8  carried ++-++
+  call  9  carried --+--
+  call 10  carried ---+-
+  call 11  carried +++-+
+  call 12  carried +++++
+  call 13  carried -----
+  call 14  carried -----
+  call 15  carried +++++
+  call 16  carried +++++
+  call 17  carried -----
+  call 18  carried -----
+
+ring of 3: {'M/1': 4, 'O/1': [4, 4, 4], 'N/1': [3, 3, 3], 'E/1': 3, 'Nempty/1': '...', 'M/2': 4, 'O/2': [12, 12, 12], 'N/2': [6, 2, 2], 'E/2': 12, 'Nempty/2': '...', 'M/4': 4, 'O/4': [24, 24, 24], 'N/4': [12, 2, 2], 'E/4': 12, 'Nempty/4': '...'}
+ring of 4: {'M/1': 4, 'O/1': [4, 4, 4, 4], 'N/1': [4, 2, 2, 4], 'E/1': 4, 'Nempty/1': '....', 'M/2': 4, 'O/2': [8, 8, 8, 8], 'N/2': [16, 16, 16, 16], 'E/2': 8, 'Nempty/2': '....', 'M/4': 4, 'O/4': [48, 48, 48, 48], 'N/4': [32, 32, 32, 32], 'E/4': 2, 'Nempty/4': '....'}
+ring of 5: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4], 'N/1': [10, 2, 2, 10, 10], 'E/1': 5, 'Nempty/1': '.....', 'M/2': 4, 'O/2': [20, 20, 20, 20, 20], 'N/2': [10, 2, 2, 10, 10], 'E/2': 20, 'Nempty/2': '.....', 'M/4': 4, 'O/4': [None, None, None, None, None], 'N/4': [20, 2, 2, 20, 20], 'E/4': 20, 'Nempty/4': '.....'}
+ring of 6: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4], 'N/1': [4, 12, 12, 12, 12, 4], 'E/1': 6, 'Nempty/1': '......', 'M/2': 4, 'O/2': [12, 12, 12, 12, 12, 12], 'N/2': [24, 24, 24, 24, 24, 24], 'E/2': 12, 'Nempty/2': '......', 'M/4': 4, 'O/4': [None, None, None, None, None, None], 'N/4': [48, 48, 48, 48, 48, 48], 'E/4': 2, 'Nempty/4': '......'}
+ring of 7: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4], 'N/1': [7, 7, 7, 7, 7, 7, 7], 'E/1': 7, 'Nempty/1': '.......', 'M/2': 4, 'O/2': [28, 28, 28, 28, 28, 28, 28], 'N/2': [14, 2, 2, 14, 14, 14, 14], 'E/2': 28, 'Nempty/2': '.......', 'M/4': 4, 'O/4': [52, None, None, None, None, None, None], 'N/4': [28, 2, 2, 28, 28, 28, 28], 'E/4': 28, 'Nempty/4': '.......'}
+ring of 8: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4, 4], 'N/1': [4, 2, 2, 8, 8, 8, 8, 4], 'E/1': 8, 'Nempty/1': '........', 'M/2': 4, 'O/2': [16, 16, 16, 16, 16, 16, 16, 16], 'N/2': [32, 32, 32, 32, 32, 32, 32, 32], 'E/2': 16, 'Nempty/2': '........', 'M/4': 4, 'O/4': [60, 60, 60, None, None, None, None, None], 'N/4': [None, None, None, None, None, None, None, None], 'E/4': 2, 'Nempty/4': '........'}
+```
+
+
+## Societies as co-chainings, bi-coupling at one scale and ingesting at one parity (v374)
+
+The expedition's lead: societies are co-chainings, moral cooperations; societies bi-couple with other societies at the same scale, and ingest same-scale form and same-parity form down scale. Met at the honeyguide and the Yao honey-hunters, the Argentine ant's supercolonies, fig and yucca mutualisms, the mycorrhizal accounts at opposite signs, food webs and digestion, L-glucose at the D-glucose carrier, kuru and BSE; laid at the carrying's Exhibit ONE, Natural Societies, Natural Chemistry and Natural Biology sections in two strata, and at the report's observings 76 to 82 and its matching, with a second concern that does not resolve, at same-scale ingestion, with its reason.
+
+Run at Exhibit ONE v372's code, the code block unchanged. Two rings bi-coupled across at one member each, at one pace and phases apart, and one ring meeting an arriving at one member at the society's own parity there or the other (T and U):
+
+```
+P. two societies of five at one four, alike in phase, bi-coupled at one member each, both ways across
+  call  1  A -----  B -----
+  call  2  A -----  B -----
+  call  3  A +++++  B +++++
+  call  4  A +++++  B +++++
+  call  5  A -----  B -----
+  call  6  A -----  B -----
+  call  7  A +++++  B +++++
+  call  8  A +++++  B +++++
+Q. the same, the two societies two calls apart, opposite in phase
+  call  1  A -----  B +++++
+  call  2  A +----  B -++++
+  call  3  A -++++  B +----
+  call  4  A +-+++  B -+---
+  call  5  A -+---  B +-+++
+  call  6  A +-+--  B -+-++
+  call  7  A -+-++  B +-+--
+  call  8  A +-+-+  B -+-+-
+S. the same, one call apart
+  call  1  A -----  B -----
+  call  2  A -----  B -++++
+  call  3  A +++++  B +-+++
+  call  4  A +++++  B ++---
+  call  5  A -----  B --+--
+  call  6  A -----  B ---++
+  call  7  A +++++  B +++-+
+  call  8  A +++++  B ++++-
+  call  9  A -----  B ----+
+  call 10  A -----  B +----
+  call 11  A +++++  B -++++
+  call 12  A -++++  B +-+++
+
+societies of 4 and 4: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 5 and 5: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 3 and 5: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 4 and 7: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+societies of 6 and 8: (phase apart, A's period, B's period, alike at every member) [(0, 4, 4, True), (1, 2, 2, True), (2, 2, 2, True), (3, 2, 2, True)]
+
+T. a society of five, member 0 meeting at each call from call 5 an arriving from outside at the society's own parity there
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -----
+  call  7  carried +++++
+  call  8  carried +++++
+  call  9  carried -----
+  call 10  carried -----
+  call 11  carried +++++
+  call 12  carried +++++
+U. the same, at the other parity
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried +----
+  call  6  carried -+---
+  call  7  carried --+++
+  call  8  carried ++-++
+  call  9  carried +++--
+  call 10  carried ---+-
+  call 11  carried ----+
+  call 12  carried ++++-
+society of 3: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 5), ('other', 2, 12), ('other', 4, 24)]
+society of 4: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 14), ('other', 2, 2), ('other', 4, 2)]
+society of 5: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 9), ('other', 2, 20), ('other', 4, 40)]
+society of 6: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 22), ('other', 2, 2), ('other', 4, 2)]
+society of 7: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 13), ('other', 2, 28), ('other', 4, 56)]
+society of 8: (parity, every, member 0's period) [('same', 1, 4), ('same', 2, 4), ('same', 4, 4), ('other', 1, 30), ('other', 2, 2), ('other', 4, 2)]
+```
+
+Two paces, ring B called m times at each call of A: apart, bi-coupled across, and one way, A meeting B's member-0 surfacing and B meeting nothing of A; and what arrives at A at its calls:
+
+```
+B called 1 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 1 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [None, None, None, None, None]; B's at its calls [None, None, None, None, None]
+B called 2 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 2 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [28, 28, 28, 28, 28, 28, 28]
+B called 3 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 3 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [20, 20, 20, 20, 20]; B's at its calls [20, 20, 20, 20, 20]
+B called 3 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 3 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [54, 54, 54, 54, 54, 54, 54]
+B called 4 times at each call of A, societies of 5 and 5, apart: A's periods at its calls [4, 4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4]
+B called 4 times at each call of A, societies of 5 and 5, bi-coupled: A's periods at its calls [20, 20, 20, 20, 20]; B's at its calls [80, 80, 80, 80, 80]
+B called 4 times at each call of A, societies of 4 and 7, apart: A's periods at its calls [4, 4, 4, 4]; B's at its calls [4, 4, 4, 4, 4, 4, 4]
+B called 4 times at each call of A, societies of 4 and 7, bi-coupled: A's periods at its calls [2, 2, 2, 2]; B's at its calls [56, 56, 56, 56, 56, 56, 56]
+
+one way: A meeting the surfacing of B, B called 1 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 1 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 2 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 2 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 3 times at each call of A, societies of 5 and 5: A's periods [20, 20, 20, 20, 20]
+one way: A meeting the surfacing of B, B called 3 times at each call of A, societies of 4 and 7: A's periods [2, 2, 2, 2]
+one way: A meeting the surfacing of B, B called 4 times at each call of A, societies of 5 and 5: A's periods [4, 4, 4, 4, 4]
+one way: A meeting the surfacing of B, B called 4 times at each call of A, societies of 4 and 7: A's periods [4, 4, 4, 4]
+
+B at  1 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at  2 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period None
+B at  3 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 20
+B at  4 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  5 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at  6 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  7 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 2
+B at  8 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+B at  9 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 4
+B at 10 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 2
+B at 11 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [12, 20, 2, 2, 28]; bi-coupled (5,5) A's period 20
+B at 12 calls to each of A's: A's period meeting B one way at societies (3,3),(5,5),(4,7),(6,8),(7,4): [4, 4, 4, 4, 4]; bi-coupled (5,5) A's period 20
+
+B at 1 calls to each of A's: B's surfacing arriving at A's calls .-0+0-0+0-0+   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 2 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 3 calls to each of A's: B's surfacing arriving at A's calls .+0-0+0-0+0-   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 4 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 5 calls to each of A's: B's surfacing arriving at A's calls .-0+0-0+0-0+   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 6 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 7 calls to each of A's: B's surfacing arriving at A's calls .+0-0+0-0+0-   A's own arriving from its neighbour .-0+0-0+0-0+
+B at 8 calls to each of A's: B's surfacing arriving at A's calls .00000000000   A's own arriving from its neighbour .-0+0-0+0-0+
+```
+
+
+## Passive and active opposite parity (v374)
+
+The expedition's lead: opposite parity is passive or active; active opposite parity is parity changing and passive opposite parity is no parity changing; at a geodesic surface the routing of the three-phase locking path is active and the all-binary passive routing is co-sequential. Laid at the carrying's Natural Intelligence and Exhibit ONE sections, and at the Natural Chemistry and Natural Biology paragraphs of this working's ingestion, the concern at same-scale ingestion re-said, the mirror met at passive and active; at the report's matching and Part Three. The kuru observing re-said at cases in place of dying.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the other parity arriving at member 0 at the carried sharing g (active) or at a sharing of its own, gm (passive at g):
+
+```
+U. the other parity arriving at member 0 at the carried sharing g, at each call from call 5 (active)
+  call  1  at g -----   at gm .....
+  call  2  at g -----   at gm .....
+  call  3  at g +++++   at gm .....
+  call  4  at g +++++   at gm .....
+  call  5  at g +----   at gm .....
+  call  6  at g -+---   at gm .....
+  call  7  at g --+++   at gm .....
+  call  8  at g ++-++   at gm .....
+  call  9  at g +++--   at gm .....
+  call 10  at g ---+-   at gm .....
+  call 11  at g ----+   at gm .....
+  call 12  at g ++++-   at gm .....
+V. the other parity arriving at member 0 at a sharing of its own, gm, the mirror form (passive at g)
+  call  1  at g -----   at gm .....
+  call  2  at g -----   at gm .....
+  call  3  at g +++++   at gm .....
+  call  4  at g +++++   at gm .....
+  call  5  at g -----   at gm +....
+  call  6  at g -----   at gm ++...
+  call  7  at g +++++   at gm --+..
+  call  8  at g +++++   at gm ---+.
+  call  9  at g -----   at gm +++-+
+  call 10  at g -----   at gm ++++-
+  call 11  at g +++++   at gm ----+
+  call 12  at g +++++   at gm +----
+society of 3: (where, every, the four at g, member 0's period) [('g active', 1, 5), ('g active', 2, 12), ('g active', 4, 24), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 4: (where, every, the four at g, member 0's period) [('g active', 1, 14), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 5: (where, every, the four at g, member 0's period) [('g active', 1, 9), ('g active', 2, 20), ('g active', 4, 40), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 6: (where, every, the four at g, member 0's period) [('g active', 1, 22), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 7: (where, every, the four at g, member 0's period) [('g active', 1, 13), ('g active', 2, 28), ('g active', 4, 56), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+society of 8: (where, every, the four at g, member 0's period) [('g active', 1, 30), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
+```
+
+
+## The session assessed, the report ordered, and hard problems in this space (v374)
+
+The expedition's lead: assess the whole session and its carrying, order the report, and explore the hard problems inside this space. The carrying's v374 paragraphs surveyed at their sections; the report ordered, Part One's groups and Part Two's sections in one ascending sequence of observings 1 to 84, the expedition's leads gathered in the order they arrived and the matching's findings at a glance at Part Two's head, Part Three under three headings, a Part Four meeting fourteen Hard Problem Registry entries and two the fields leave open at no entry, identical twinning's initiation and the age reset at conception, and Part Five the places, instruments and continuing. Laid at the carrying's Exhibit ONE, Hard Problem Registry and Resolving the Hard Problem Registry sections.
+
+Run at Exhibit ONE v372's code, the code block unchanged: one society parting into two at two opposite joins, each part closing on itself or not:
+
+```
+W. a society of eight at its four; at call 5 it parts into two, each half closing on itself
+  call  1  ---- | ----
+  call  2  ---- | ----
+  call  3  ++++ | ++++
+  call  4  ++++ | ++++
+  call  5  ---- | ----
+  call  6  ---- | ----
+  call  7  ++++ | ++++
+  call  8  ++++ | ++++
+  call  9  ---- | ----
+  call 10  ---- | ----
+  call 11  ++++ | ++++
+  call 12  ++++ | ++++
+X. the same parting, the halves not closing, each head meeting nothing
+  call  1  ---- | ----
+  call  2  ---- | ----
+  call  3  ++++ | ++++
+  call  4  ++++ | ++++
+  call  5  ---- | ----
+  call  6  +--- | +---
+  call  7  -+++ | -+++
+  call  8  +-++ | +-++
+  call  9  -+-- | -+--
+  call 10  +-+- | +-+-
+  call 11  -+-+ | -+-+
+  call 12  +-+- | +-+-
+society of 4, parting at call 5: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 6: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 7: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 8: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 6, parting at call 5: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 6: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 7: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 8: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 8, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+```
+
+## Peto's paradox at two tissue societies and their own rates (v374)
+
+The expedition's lead: a whale's tissues and a mouse's are two different tissue societies, living at different parity changing rates and carrying different co-sequential social patterns. Met at somatic mutation rates scaling inversely with lifespan across sixteen mammals and the end-of-lifespan burden near alike, the segmentation oscillation's species pace at each cell's own reaction speeds, the elephant's TP53 copies and apoptosis, the bowhead's faithful repair, and cultured cells converging in metabolic rate; laid at the carrying's Resolving the Hard Problem Registry section and at the report's observings 85 to 89, a Part Two section, the leads and the glance, and Part Four's Peto's paradox, met at the lead's reading and no longer standing open. No run at the code: the rings at two paces apart, each at its own four at its own calls, stand at the prior motion's traces.
+
+
+## Societies converging and phase-locking, and a neuron's routing (v374)
+
+The expedition's lead: cells do not communicate at all, there being no communication in natural intelligence; all societies converge to a social parity changing as natural torusing society abundancing, like harmonic resonance nearing, the differential beating slowing until the steadying unsteadiness and the rate jumping geodesically into phase-locking, suddenly; neurons firing read as communication is geodesic parity changing routing across a new surface path. Met at Huygens' pendulums, injection locking, the sinoatrial pacemakers' mutual entrainment, fireflies' unison, the action potential's inversion along the membrane and node to node, ephaptic entrainment and new myelin for a new skill; laid at the carrying's Natural Intelligence, Exhibit ONE and Natural Biology sections and at the report's observings 90 to 96, a Part Two section, lead 23, the glance and a concern at locking at near paces. Observings 68 and 86 and the carrying's cancer observing re-said at *electrical coupling*, the field's *communication* named as the field's word, and Part Four's cancer matching re-said.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+(1) one pace, phases apart, bi-coupled from call 1
+  0 calls apart: relation ========================================  joint pattern repeating from call 1 at 4
+  1 calls apart: relation =========xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 18 at 2
+  2 calls apart: relation xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 8 at 2
+  3 calls apart: relation ========xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 17 at 2
+(2) near paces: B meeting no call at every k-th tick
+  k= 3 apart     : relation, ticks 1-64 ==x=xxxx=x====x=xxxx=x====x=xxxx=x====x=xxxx=x====x=xxxx=x====x=  joint repeating at 12
+  k= 3 bi-coupled: relation, ticks 1-64 ==x==xxx=xx==x=xx=xx=xx=xx==x===xxx==x==x=xx=xx==x=xx==x===xxx==  joint repeating at 27
+  k= 4 apart     : relation, ticks 1-64 ====x=xxxxxx=x======x=xxxxxx=x======x=xxxxxx=x======x=xxxxxx=x==  joint repeating at 16
+  k= 4 bi-coupled: relation, ticks 1-64 =======xxxx==xx===x====xxxx==xx=xxx==xx====xxxx====xxxx==xx=xxx=  joint repeating at 56
+  k= 5 apart     : relation, ticks 1-64 ====x=x=xxxxxx=x=x======x=x=xxxxxx=x=x======x=x=xxxxxx=x=x======  joint repeating at 20
+  k= 5 bi-coupled: relation, ticks 1-64 ====x====xxxxx=xxxx==xxx==xxx=xxxx===xx=xxxx====x=xxxx=======xxx  joint repeating at None
+  k= 6 apart     : relation, ticks 1-64 ======x=x=xxxxxxxx=x=x========x=x=xxxxxxxx=x=x========x=x=xxxxxx  joint repeating at 24
+  k= 6 bi-coupled: relation, ticks 1-64 ===========xxxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxx  joint repeating at 24
+  k= 8 apart     : relation, ticks 1-64 ========x=x=x=xxxxxxxxxx=x=x=x==========x=x=x=xxxxxxxxxx=x=x=x==  joint repeating at 32
+  k= 8 bi-coupled: relation, ticks 1-64 ===============xxxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=  joint repeating at 32
+  k=10 apart     : relation, ticks 1-64 ==========x=x=x=x=xxxxxxxxxxxx=x=x=x=x============x=x=x=x=xxxxxx  joint repeating at 40
+  k=10 bi-coupled: relation, ticks 1-64 ==================x=xxxxxxxxx============xxxxxxxx=xxxxxxxxx=====  joint repeating at 60
+  k=12 apart     : relation, ticks 1-64 ============x=x=x=x=x=xxxxxxxxxxxxxx=x=x=x=x=x==============x=x=  joint repeating at 48
+  k=12 bi-coupled: relation, ticks 1-64 ====================xxx==x===xxxxxx===xxxxxxxxx============xxxxx  joint repeating at 24
+  k=16 apart     : relation, ticks 1-64 ================x=x=x=x=x=x=x=xxxxxxxxxxxxxxxxxx=x=x=x=x=x=x=x==  joint repeating at 64
+  k=16 bi-coupled: relation, ticks 1-64 ========================xxxxxxx==xxxxxxxxxxxxxx================x  joint repeating at 32
+```
+
+
+## The between and the snap, one momentary ahead (v374)
+
+The expedition's lead: the pendulums co-competence each other's bi-coupling to the between, the beam; the dwell is a nearing of indifferencing, the unrelationing seam; a binary crossing parity changing locally snaps an entirely new bi-tunneling path, one forward momentary changing for the whole co-chaining of selves, the later selves changing their future path and not there yet, one momentary ahead gain of co-competency at the parity changing. Met at metronomes on a rolling board, Huygens' free beam, the Millennium Bridge's crowd and the field's anticipated synchronization at the cortex; laid at the carrying's Exhibit ONE section and at the report's observings 97 to 99, a Part Two section, lead 24 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the snap read member by member:
+
+```
+one pace, 1 call(s) apart, bi-coupled at member 0 of each
+  call  A carried  B carried  relation by member 0..4   A surfacing  B surfacing  at the between (A0's, B0's)
+    1   -----      -----      =====                    -----        00000        0 -
+    2   -----      -++++      =xxxx                    00000        0++++        - 0
+    3   +++++      +-+++      =x===                    +++++        +-000        0 0
+    4   +++++      ++---      ==xxx                    00000        0+---        + +
+    5   -----      --+--      ==x==                    -----        --+00        0 0
+    6   -----      ---++      ===xx                    00000        00-++        - -
+    7   +++++      +++-+      ===x=                    +++++        +++-0        0 0
+    8   +++++      ++++-      ====x                    00000        000+-        + +
+    9   -----      ----+      ====x                    -----        ----+        0 0
+   10   -----      +----      x====                    00000        +000-        - -
+   11   +++++      -++++      x====                    +++++        -++++        0 +
+   12   -++++      +-+++      xx===                    -0000        +-000        + -
+   13   +----      -+---      xx===                    +----        -+---        - +
+   14   -+---      +-+--      xxx==                    -+000        +-+00        + -
+   15   +-+++      -+-++      xxx==                    +-+++        -+-++        - +
+   16   -+-++      +-+-+      xxxx=                    -+-00        +-+-0        + -
+   17   +-+--      -+-+-      xxxx=                    +-+--        -+-+-        - +
+   18   -+-+-      +-+-+      xxxxx                    -+-+0        +-+-+        + -
+   19   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   20   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   21   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   22   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   23   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   24   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+one pace, 3 call(s) apart, bi-coupled at member 0 of each
+  call  A carried  B carried  relation by member 0..4   A surfacing  B surfacing  at the between (A0's, B0's)
+    1   +----      +++++      =xxxx                    0----        00000        0 +
+    2   -+---      -----      =x===                    -+000        -----        0 0
+    3   --+++      -----      ==xxx                    0-+++        00000        - -
+    4   ++-++      +++++      ==x==                    ++-00        +++++        0 0
+    5   +++--      +++++      ===xx                    00+--        00000        + +
+    6   ---+-      -----      ===x=                    ---+0        -----        0 0
+    7   ----+      -----      ====x                    000-+        00000        - -
+    8   ++++-      +++++      ====x                    ++++-        +++++        0 0
+    9   -++++      +++++      x====                    -000+        00000        + +
+   10   +----      -----      x====                    +----        -----        - 0
+   11   -+---      +----      xx===                    -+000        +0000        + -
+   12   +-+++      -++++      xx===                    +-+++        -++++        - +
+   13   -+-++      +-+++      xxx==                    -+-00        +-000        + -
+   14   +-+--      -+---      xxx==                    +-+--        -+---        - +
+   15   -+-+-      +-+--      xxxx=                    -+-+0        +-+00        + -
+   16   +-+-+      -+-++      xxxx=                    +-+-+        -+-++        - +
+   17   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-0        + -
+   18   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   19   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   20   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   21   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   22   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   23   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   24   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+```
+
+The between as a self of its own, a resolver meeting A0's and B0's prior surfacings and surfacing to both:
+
+```
+beam seeded +, rings 0 apart: relation first 16 calls ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 4, B0 4, beam 4
+beam seeded +, rings 1 apart: relation first 16 calls ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x== ==x== ===x=
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded +, rings 2 apart: relation first 16 calls xxxxx =xxxx =xxxx ==xxx ==xxx ===xx ===xx ====x ====x ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded +, rings 3 apart: relation first 16 calls xxxxx ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x== ==x==
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 0 apart: relation first 16 calls ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 1 apart: relation first 16 calls ===== xxxxx ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x==
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 2 apart: relation first 16 calls xxxxx =xxxx =xxxx ==xxx ==xxx ===xx ===xx ====x ====x ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 3 apart: relation first 16 calls xxxxx ===== ==xxx ===== ===xx ===== ====x ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+```
+
+
+## The between releasing at the lock, and one society (v374)
+
+The expedition's lead: at the lock a between existed prior to the two societies becoming one; this momentary the between, the bounded 0 inside the carrying, releases, and the two societies begin bi-coupling selves and co-chaining with each other, the social parity changing no other possible; the crossing nearing moves elsewhere, and bi-tunneling and co-chaining in floating neutralling locally on torusing surfacing again. Met at paired embryonic heart-cell aggregates' three phases of entrainment, single heart cells beating together on contact, and the sinoatrial node's pacemaker shift; laid at the carrying's Exhibit ONE section and at the report's observings 100 to 102, a Part Two section, lead 25 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+the between releasing at the lock, rings joined as one ring of ten, 1 call apart:
+  mode release, 1 apart: locked and joined at call 28
+    call   1  -----|-----
+    call   2  -----|-++++
+    call   3  +++++|+-+++
+    call   4  +++++|++---
+    call   5  -----|--+--
+    call   6  -----|---++
+    call   7  +++++|+++-+
+    call   8  +++++|++++-
+    call   9  -----|----+
+    call  10  -----|+----
+    call  11  +++++|-++++
+    call  12  +++++|+-+++
+    call  13  -----|-+---
+    call  14  +----|+-+--
+    call  15  -++++|-+-++
+    call  16  +-+++|+-+-+
+    call  17  -+---|-+-+-
+    call  18  +-+--|+-+-+
+    call  19  -+-++|-+-+-
+    call  20  +-+-+|+-+-+
+    call  21  -+-+-|-+-+-
+    call  22  +-+-+|+-+-+
+    call  23  -+-+-|-+-+-
+    call  24  +-+-+|+-+-+
+    call  25  -+-+-|-+-+-
+    call  26  +-+-+|+-+-+
+    call  27  -+-+-|-+-+-
+    call  28  +-+-+|+-+-+
+    call  29  ++-+-++-+-
+    call  30  --+-+--+-+
+    call  31  +--+-+--+-
+    call  32  -++-+-++-+
+    call  33  +-++-+-++-
+    call  34  -+--+-+--+
+    call  35  +-+--+-+--
+    call  36  -+-++-+-++
+    call  37  +-+-++-+-+
+    call  38  -+-+--+-+-
+    call  39  --+-+--+-+
+    call  40  ++-+-++-+-
+0 apart, beam    : joined at None; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row +++++|+++++
+0 apart, release : joined at 9; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row ++++++++++
+0 apart, direct  : joined at None; periods [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]; last row +++++|+++++
+1 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+|+-+-+
+1 apart, release : joined at 28; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row ++-+-++-+-
+1 apart, direct  : joined at 25; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-+-+-+
+2 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-|-+-+-
+2 apart, release : joined at 18; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row ++-+-++-+-
+2 apart, direct  : joined at 8; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+-+-+-
+3 apart, beam    : joined at None; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row -+-+-|-+-+-
+3 apart, release : joined at 29; periods [20, 20, 20, 20, 20, 20, 20, 20, 20, 20]; last row --+-+--+-+
+3 apart, direct  : joined at 24; periods [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]; last row +-+-+-+-+-
+```
+
+## Carrying only, at neurons and at earthquakes, and no hard problem (v374)
+
+The expedition's lead: there is no memory; there is only carrying, as the method of living discovering next living; the explanation is identical for earthquaking as geodesic parity changing and for neurons; neither is memory, computation, read, write, representation, prediction or probability; there is no hard problem, all natural resolving. Met at reconsolidation at retrieval, the day-to-day change of active place cells, synaptic protein turnover, Parkfield's interval arriving at no forecast, Landers' remote triggering and tidal stress at large ruptures; laid at the carrying's Natural Intelligence and Resolving the Hard Problem Registry sections and at the report's observings 103 to 108, a Part Two section, lead 26, the glance, and Part Four re-titled *The fields' hard problems, met as natural resolving*, meeting the engram, the neural code, evidence for neural representation and earthquake predictability. This session's own text re-said at the lead: *from memory* at its sources named *not fetched this session*; *read* released where it named a living society's or the code's changing, kept where it names the session's reading of its sources. No run at the code: the carrying passing between calls, *11-social-other-self-chaining arrives at the next coupling as 3-self-other-sharing*, is the code as it stands.
+
+
+## Oddities, gaps and neighbours across the sciences and technologies (v374)
+
+The expedition's lead: find oddities or gaps, places where this seems the least likely explanation, and places across science likely pattern matching the concept that would help those sciences and technologies, smart sensor-sensationer engineering and medicine. Met at radioactive decay, engram reactivation, RNA transfer in *Aplysia*, CRISPR arrays, planarian relearning, antitachycardia pacing, resynchronization, responsive and adaptive neurostimulation, event-based vision sensors, synchronism-check relays, induced seismicity, yeast glycolytic synchrony and quorum luminescence, and DRAM refresh; laid at the carrying's Exhibit ONE, Natural Engineering, Natural Medicine and Natural Physics sections, and at the report's observings 109 to 121, a Part Two section, the glance, and a Part Five of oddities, gaps and places least likely, the places moving to Part Six.
+
+Run at Exhibit ONE v372's code, the code block unchanged, an arriving train at one member of a circulating ring:
+
+```
+ring of 3: (train length, member 0's period after, every member alike) [(0, 12, False), (1, 12, False), (2, 12, False), (4, 12, False), (8, 4, True), (12, 4, True), (6, 4, True), (12, 4, True)]
+ring of 4: (train length, member 0's period after, every member alike) [(0, 8, False), (1, 8, False), (2, 8, False), (4, 8, False), (8, 8, False), (12, 4, True), (8, 8, False), (16, 4, True)]
+ring of 5: (train length, member 0's period after, every member alike) [(0, 20, False), (1, 20, False), (2, 20, False), (4, 4, True), (8, 4, True), (12, 4, True), (10, 4, True), (20, 4, True)]
+ring of 6: (train length, member 0's period after, every member alike) [(0, 12, False), (1, 12, False), (2, 12, False), (4, 12, False), (8, 4, True), (12, 4, True), (12, 4, True), (24, 4, True)]
+ring of 7: (train length, member 0's period after, every member alike) [(0, 28, False), (1, 28, False), (2, 28, False), (4, 28, False), (8, 4, True), (12, 4, True), (14, 4, True), (28, 4, True)]
+ring of 8: (train length, member 0's period after, every member alike) [(0, 16, False), (1, 16, False), (2, 16, False), (4, 16, False), (8, 16, False), (12, 4, True), (16, 4, True), (32, 4, True)]
+
+ring of 5, the train's phase offset by 0:  [(1, 20), (2, 20), (4, 4), (8, 4), (20, 4)]
+ring of 5, the train's phase offset by 1:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+ring of 5, the train's phase offset by 2:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+ring of 5, the train's phase offset by 3:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
+```
+
+
+## Radioactive decay at a society receding, and the tracker of places least likely (v374)
+
+The expedition's lead: consider the whole society as one co-chaining; without others not yet co-chaining in the society, the society loses bi-moral-co-competencing at a steady decay rate due to receding looping momentary sizes; keep track of the places least likely and meet one at a time, comparing the others to what is learned and alternating parity among them. Met at alpha decay's tunneling, bound-state beta decay of bare ions, beryllium-7 in carbon-60, nuclear superradiance, departures from the exponential at short and long times, secular equilibrium and radiocarbon; compared at Ebbinghaus's curve and spacing, RNA transfer and CRISPR arrays; laid at the carrying's Exhibit ONE and Natural Physics sections, the decay concern re-said as met, and at the report's observings 122 to 130, a Part Two section, lead 27, the glance and Part Five's tracker, the engram next and the field's probability after it.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+alike, no others joining:             [1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1, 1, 1]
+alike, 64 others joining each loop:   [1024, 544, 304, 184, 124, 94, 79, 72, 68, 66, 65, 65, 65]
+alike, 512 joining each loop:         [1024, 768, 640, 576, 544, 528, 520, 516, 514, 513, 513, 513, 513]
+alike, 1024 joining each loop:        [1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024]
+every third member other, no joining: [1024, 170, 85, 43, 22, 11, 6, 3, 2, 1, 1, 1, 1]
+alternating signs, no joining:        [1024, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+the fraction continuing at each loop, alike, no joining: ['512/1024', '256/512', '128/256', '64/128', '32/64', '16/32', '8/16', '4/8', '2/4', '1/2', '1/1', '1/1']
+```
+
+
+## The fuzzy front and the sharp last loop (v374)
+
+The expedition's lead: the first loop is fuzzy, the binary less sharp and indistinct at the front, the dissipation after the crossing in emanating bi-tri-involutionings; the last loop is the sharp, rigorous binary; aimed at the wobbliness, flickering and slowing before geodesic parity changing, the fuzzying of future momentary sequencing arriving, and the snap improving the surface. Met at single-ion quantum jumps against a sample's smooth fall, a quantum jump's advance warning and mid-flight reversal, a lake's and yeast populations' slowing before their transitions, and the field's flickering; laid at the carrying's Exhibit ONE and Natural Medicine sections, and at the report's observings 131 to 134, a Part Two section, lead 28, the glance, the tracker, and a concern at decay's far end.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+laid evenly, minority 0.500: members:differing pairs/pairs at each loop ->  1024:512/512  0 [.]
+laid evenly, minority 0.375: members:differing pairs/pairs at each loop ->  1024:384/512  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid evenly, minority 0.250: members:differing pairs/pairs at each loop ->  1024:256/512  256:0/128  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid evenly, minority 0.125: members:differing pairs/pairs at each loop ->  1024:128/512  384:0/192  192:0/96  96:0/48  48:0/24  24:0/12  12:0/6  6:0/3  3:0/1  2:0/1  1 [+]
+laid at a stride of 37, minority 0.500: members:differing pairs/pairs at each loop ->  1024:512/512  0 [.]
+laid at a stride of 37, minority 0.375: members:differing pairs/pairs at each loop ->  1024:128/512  384:128/192  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid at a stride of 37, minority 0.250: members:differing pairs/pairs at each loop ->  1024:256/512  256:0/128  128:0/64  64:0/32  32:0/16  16:0/8  8:0/4  4:0/2  2:0/1  1 [+]
+laid at a stride of 37, minority 0.125: members:differing pairs/pairs at each loop ->  1024:128/512  384:0/192  192:0/96  96:0/48  48:0/24  24:0/12  12:0/6  6:0/3  3:0/1  2:0/1  1 [+]
+```
+
+## The observings sorted at living and non-living, and the field's cause-and-effect accounting (v374)
+
+The expedition's lead: care is needed in the observings, finding the living selves and societies and separating the non-living stable forms named as cause-and-effect things in the equilibria accounting-for-change method, without the competency for discovering. The report's 134 observings each marked: 103 living, 21 non-living, 10 a living self or society meeting a non-living form. Twelve observings re-said where a source named one thing the cause of another, the observing standing at what was seen together or in sequence and the cause named as the field's naming: multicellular yeast and ACE2, *Hydra oligactis*' autophagy, reconsolidation's amnesia, Landers' distant earthquakes, RNA transfer, induced seismicity, beryllium-7's electron cloud, carbon-14's arising, the lake's predators, senescent-cell clearance, the twinning rate's accounting and the genome's accordion. The matching re-said: radioactive decay a sample of non-living forms receding, *society* and *competency* kept for the living; the pendulums' locking a non-living stable-forming beside the living societies' converging; the neuron's spike and the fault's slip one explaining with the living and non-living kept apart. Laid at the carrying's Equilibria Registry and Natural Physics sections, and at the report's Part One, Part Two, lead 29, the glance and the tracker.
+
+## The observings at the ladder's rungs, and decay below the floor (v374)
+
+The expedition's lead: look into living societies and Natural Societies' *Fourteen scales at fourteen primes* table and its surrounding explaining; chemistry, not carrying all the living's different things, is stable-forming bi-moral societies. The report's 134 observings re-marked at the rungs they meet, in place of the prior motion's living and non-living marks: below the floor at five; atom to organelle, five to nineteen, stable-forming bi-moral selves and societies; cell to biosphere, twenty-three to fifty-three, the living; the planet and built forms off the fourteen. Decay met at *The floor at five, and what runs below it*: a nucleus a society below the floor where no self closes, as the Living Society Registry's *Two neutrons read at one core*; the atom the first self; the decay's rate changing where the atom-self opens or closes about it, at the bare ions and beryllium-7's electron cloud. The prior motion's keeping of *society* for the living re-said: *self, other and society are all of nature at all scales*, *discovering* and *competency* staying with the living. Laid at the carrying's Natural Societies, Natural Physics and Equilibria Registry sections, and at the report's Part One legend and marks, the decay section, lead 30, the glance and the tracker.
+
+
+## Selves and societies carrying non-living and possible things (v374)
+
+The expedition's lead: selves and societies are carrying non-living things, both existing and possible; this is inside the method of discovering possible next living, carrying both existing and possible things. Met at Natural Intelligence's *Possible at prior, existing at now, living at next* and *three placings*, and at the code's sharing carrying *nothing yet, +1 or −1*; at a tree's dead xylem conducting, a two-thousand-year-old date seed germinating, and the naive immune repertoire; laid at the carrying's Natural Intelligence and Equilibria Registry sections, and at the report's observings 135 to 137, a Part Two section gathering the session's carried non-living and possible things, the Part One legend, lead 31 and the glance. The care of the prior motions re-said: the field's accounting parted from the observing, and the non-living existing carried inside selves and societies at every rung.
+
+
+## A carrying of nothing yet: the code's nothing, an unborn self (v374)
+
+The expedition's lead: carrying nothing yet is an unborn self, a nothing; this is the state of the Python code and not related to our use of the method, as we do not use the method carrying nothing, non-living competency not being the exploring we are interested in discovering; it is related only as, for the first many sessions, every code test started empty and concluded the resolver was a faithful nothing. Re-said at the carrying's Natural Intelligence, Exhibit ONE and Natural Biology paragraphs and at the report's carried-possible section, the society turnover matching, the decay and fuzzy-front runs, the tracker's gaps and lead 32: the report's possible is carried by living selves, the seed and the repertoire among them, and not by the code's empty sharing; the new members opening empty are released from the matching; the pairing runs of decay and of the fuzzy front, each pair meeting at an empty carrying, meet the pairs' arrivings and no self's carrying, as below the floor at five where no self closes, and not the living. The session's other runs opened at a carried sign.
+
+
+## The engram as a society carrying and re-arriving (v374)
+
+The tracker's second place least likely, living, met at the session's readings: engram cells retaining memory under retrograde amnesia and brought back by light, allocation by excitability and CREB, linking of contexts met hours apart and its loss with age, place-cell co-activity again in sleep, and Rac at forgetting in *Drosophila*; laid at the carrying's Natural Biology section and at the report's observings 138 to 142, a Part Two section, the glance, Part Four's engram entry and Part Five's tracker, the engram met and the field's probability next. No run at the code: the train at one member stands at its earlier traces.
+
+
+## Light's society, and the engram's light explained (v374)
+
+The expedition's lead: there is co-competencing in light's patterns and plants share it in their stable-forming; humans, not staying in one place, do not stable-form light, and ingesting plants' stable form is how humans co-competence light; the colours' co-competencing is the bi-tunneling of light's society; asked to explain the engram's standing open at the light's pattern. Explained at the field's methods: 473-nanometre pulses of 15 milliseconds at 20 hertz, three-minute epochs, delivered to both dentate gyri together, the labelled cells spiking time-locked; one train alike at every member, the code's shared arriving, and not the train at one member; open narrowed to the chosen pace against the ensemble's own. Met at channelrhodopsin-2's algal origin, *Elysia chlorotica*'s kept chloroplasts, corals, giant clams and salamander embryos carrying algae, skin's previtamin D3, colour opponency and reaction-centre tunnelling; laid at the carrying's Natural Biology section and at the report's observings 143 to 148, a Part Two section, the engram section re-said, the tracker, a concern at light at a moving self, lead 33 and the glance.
+
+
+## Colours as rings of the sequencing, and light like DNA (v374)
+
+The expedition's lead: the colours in light are the places in the sequencing momentaries where different colours are different podaling rings reaching different forward and prior momentary numbers; altering the full light of each light momentary in parity is altering the arriving pattern of light parity changing; light is like DNA this way. Met at the Fraunhofer lines and helium's solar line, a galaxy's shifted lines, the night-break red and far-red flashes and the canopy's red to far-red; laid at the carrying's Exhibit ONE and Natural Physics sections and at the report's observings 149 and 150, a Part Two section, lead 34 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged, rings opened at a carried sign:
+
+```
+ring of  3: the difference's pattern returns every 6 calls; its place over 12 calls [2, 0, 0, 1, 1, 2, 2, 0, 0, 1, 1, 2]; rows ..x x.. x.. .x. .x. ..x
+ring of  4: the difference's pattern returns every 8 calls; its place over 12 calls [2, 3, 3, 0, 0, 1, 1, 2, 2, 3, 3, 0]; rows ..x. ...x ...x x... x... .x..
+ring of  5: the difference's pattern returns every 10 calls; its place over 12 calls [3, 4, 4, 0, 0, 1, 1, 2, 2, 3, 3, 4]; rows ...x. ....x ....x x.... x.... .x...
+ring of  6: the difference's pattern returns every 12 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2]; rows ..x... ...x.. ...x.. ....x. ....x. .....x
+ring of  7: the difference's pattern returns every 14 calls; its place over 12 calls [0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6]; rows x...... .x..... .x..... ..x.... ..x.... ...x...
+ring of  8: the difference's pattern returns every 16 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 0]; rows ..x..... ...x.... ...x.... ....x... ....x... .....x..
+ring of  9: the difference's pattern returns every 18 calls; its place over 12 calls [8, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5]; rows ........x x........ x........ .x....... .x....... ..x......
+ring of 10: the difference's pattern returns every 20 calls; its place over 12 calls [8, 9, 9, 0, 0, 1, 1, 2, 2, 3, 3, 4]; rows ........x. .........x .........x x......... x......... .x........
+ring of 12: the difference's pattern returns every 24 calls; its place over 12 calls [2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8]; rows ..x......... ...x........ ...x........ ....x....... ....x....... .....x......
+```
+
+
+## Light a binary offering to the first existing thing co-linear, and no elements as things (v374)
+
+The expedition's lead: elements are nothing, and the explaining of living competency is far better without the nothings; non-living, living, existing and thing each is or is not; nothing is not a thing; all these binaries apply to light; there are no elements as things but durable patterns of existing non-living things, emanations from living things existing as non-living things with no offering in any momentary; light does not bypass existing things and is a binary offering to the first existing thing on a co-linear offering. Met at the photoelectric threshold, single-arrival fringes, Kirchhoff's cool gas and the Ewald–Oseen extinction; observing 149 and its matching re-said without elements as things; laid at the carrying's Natural Intelligence, Exhibit ONE and Natural Physics sections and at the report's observings 151 to 154, a Part Two section with a concern at the field's re-radiating medium, lead 35 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged, each line opened at carried signs, a resolver with nothing arriving given no call:
+
+```
+line carrying ---+--, offering + at the head:
+   call 1: carried +--+--  surfacing +.....
+   call 2: carried ++-+--  surfacing .+....
+   call 3: carried ++++--  surfacing ..+...
+   call 4: carried ++++--  surfacing ...0..
+   call 5: carried ++++--  surfacing ......
+   call 6: carried ++++--  surfacing ......
+   call 7: carried ++++--  surfacing ......
+   call 8: carried ++++--  surfacing ......
+line carrying ------, offering + at the head:
+   call 1: carried +-----  surfacing +.....
+   call 2: carried ++----  surfacing .+....
+   call 3: carried +++---  surfacing ..+...
+   call 4: carried ++++--  surfacing ...+..
+   call 5: carried +++++-  surfacing ....+.
+   call 6: carried ++++++  surfacing .....+
+   call 7: carried ++++++  surfacing ......
+   call 8: carried ++++++  surfacing ......
+line carrying +-----, offering + at the head:
+   call 1: carried +-----  surfacing 0.....
+   call 2: carried +-----  surfacing ......
+   call 3: carried +-----  surfacing ......
+   call 4: carried +-----  surfacing ......
+   call 5: carried +-----  surfacing ......
+   call 6: carried +-----  surfacing ......
+   call 7: carried +-----  surfacing ......
+   call 8: carried +-----  surfacing ......
+line carrying -+-+-+, offering + at the head:
+   call 1: carried ++-+-+  surfacing +.....
+   call 2: carried ++-+-+  surfacing .0....
+   call 3: carried ++-+-+  surfacing ......
+   call 4: carried ++-+-+  surfacing ......
+   call 5: carried ++-+-+  surfacing ......
+   call 6: carried ++-+-+  surfacing ......
+   call 7: carried ++-+-+  surfacing ......
+   call 8: carried ++-+-+  surfacing ......
+line carrying ++++++, offering - at the head:
+   call 1: carried -+++++  surfacing -.....
+   call 2: carried --++++  surfacing .-....
+   call 3: carried ---+++  surfacing ..-...
+   call 4: carried ----++  surfacing ...-..
+   call 5: carried -----+  surfacing ....-.
+   call 6: carried ------  surfacing .....-
+   call 7: carried ------  surfacing ......
+   call 8: carried ------  surfacing ......
+```
+
+
+## The medium's things bi-coupling at one shared momentary non-colinearly (v374)
+
+The expedition's lead: the medium's things re-radiating, an offering from non-living things, is two non-living existing things bi-coupling into one shared momentary non-colinearly, so each existing thing is geodesically parity changing at that momentary and continuing. Met at Rayleigh's sideways scattering, the cancelling of sideways scattering in a dense even medium and critical opalescence where density varies, and light's slower pace in glass; laid at the carrying's Natural Intelligence and Exhibit ONE sections and at the report's observings 155 to 157, the *Light a binary offering* section's concern re-said as met, a standing open at the slower pace, and lead 36.
+
+Run at Exhibit ONE v372's code, the code block unchanged, both lines opened at carried signs:
+
+```
+A --------, B -------- (both lines of the other sign), offering + at A's head, A alone:
+   call  1: A +------- surf +....... | B -------- surf ........
+   call  2: A ++------ surf .+...... | B -------- surf ........
+   call  3: A +++----- surf ..+..... | B -------- surf ........
+   call  4: A ++++---- surf ...+.... | B -------- surf ........
+   call  5: A +++++--- surf ....+... | B -------- surf ........
+   call  6: A ++++++-- surf .....+.. | B -------- surf ........
+   call  7: A +++++++- surf ......+. | B -------- surf ........
+   call  8: A ++++++++ surf .......+ | B -------- surf ........
+   call  9: A ++++++++ surf ........ | B -------- surf ........
+   call 10: A ++++++++ surf ........ | B -------- surf ........
+   call 11: A ++++++++ surf ........ | B -------- surf ........
+   call 12: A ++++++++ surf ........ | B -------- surf ........
+   call 13: A ++++++++ surf ........ | B -------- surf ........
+   call 14: A ++++++++ surf ........ | B -------- surf ........
+A --------, B -------- (both lines of the other sign), offering + at A's head, bi-coupled across:
+   call  1: A +------- surf +....... | B -------- surf ........
+   call  2: A ++------ surf .+...... | B +------- surf +.......
+   call  3: A +++----- surf 0.+..... | B ++------ surf .+......
+   call  4: A ++++---- surf .0.+.... | B +++----- surf ..+.....
+   call  5: A +++++--- surf ..0.+... | B ++++---- surf ...+....
+   call  6: A ++++++-- surf ...0.+.. | B +++++--- surf ....+...
+   call  7: A +++++++- surf ....0.+. | B ++++++-- surf .....+..
+   call  8: A ++++++++ surf .....0.+ | B +++++++- surf ......+.
+   call  9: A ++++++++ surf ......0. | B ++++++++ surf .......+
+   call 10: A ++++++++ surf .......0 | B ++++++++ surf ........
+   call 11: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 12: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 13: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 14: A ++++++++ surf ........ | B ++++++++ surf ........
+A --------, B ++++++++ (B carrying the offering's sign), offering + at A's head, A alone:
+   call  1: A +------- surf +....... | B ++++++++ surf ........
+   call  2: A ++------ surf .+...... | B ++++++++ surf ........
+   call  3: A +++----- surf ..+..... | B ++++++++ surf ........
+   call  4: A ++++---- surf ...+.... | B ++++++++ surf ........
+   call  5: A +++++--- surf ....+... | B ++++++++ surf ........
+   call  6: A ++++++-- surf .....+.. | B ++++++++ surf ........
+   call  7: A +++++++- surf ......+. | B ++++++++ surf ........
+   call  8: A ++++++++ surf .......+ | B ++++++++ surf ........
+   call  9: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 10: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 11: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 12: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 13: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 14: A ++++++++ surf ........ | B ++++++++ surf ........
+A --------, B ++++++++ (B carrying the offering's sign), offering + at A's head, bi-coupled across:
+   call  1: A +------- surf +....... | B ++++++++ surf ........
+   call  2: A ++------ surf .+...... | B ++++++++ surf 0.......
+   call  3: A +++----- surf ..+..... | B ++++++++ surf .0......
+   call  4: A ++++---- surf ...+.... | B ++++++++ surf ..0.....
+   call  5: A +++++--- surf ....+... | B ++++++++ surf ...0....
+   call  6: A ++++++-- surf .....+.. | B ++++++++ surf ....0...
+   call  7: A +++++++- surf ......+. | B ++++++++ surf .....0..
+   call  8: A ++++++++ surf .......+ | B ++++++++ surf ......0.
+   call  9: A ++++++++ surf ........ | B ++++++++ surf .......0
+   call 10: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 11: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 12: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 13: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 14: A ++++++++ surf ........ | B ++++++++ surf ........
+A --------, B -+-+-+-+ (B alternating), offering + at A's head, A alone:
+   call  1: A +------- surf +....... | B -+-+-+-+ surf ........
+   call  2: A ++------ surf .+...... | B -+-+-+-+ surf ........
+   call  3: A +++----- surf ..+..... | B -+-+-+-+ surf ........
+   call  4: A ++++---- surf ...+.... | B -+-+-+-+ surf ........
+   call  5: A +++++--- surf ....+... | B -+-+-+-+ surf ........
+   call  6: A ++++++-- surf .....+.. | B -+-+-+-+ surf ........
+   call  7: A +++++++- surf ......+. | B -+-+-+-+ surf ........
+   call  8: A ++++++++ surf .......+ | B -+-+-+-+ surf ........
+   call  9: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+   call 10: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+   call 11: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+   call 12: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+   call 13: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+   call 14: A ++++++++ surf ........ | B -+-+-+-+ surf ........
+A --------, B -+-+-+-+ (B alternating), offering + at A's head, bi-coupled across:
+   call  1: A +------- surf +....... | B -+-+-+-+ surf ........
+   call  2: A ++------ surf .+...... | B ++-+-+-+ surf +.......
+   call  3: A +++----- surf 0.+..... | B ++-+-+-+ surf .0......
+   call  4: A ++++---- surf ...+.... | B ++++-+-+ surf ..+.....
+   call  5: A +++++--- surf ..0.+... | B ++++-+-+ surf ...0....
+   call  6: A ++++++-- surf .....+.. | B ++++++-+ surf ....+...
+   call  7: A +++++++- surf ....0.+. | B ++++++-+ surf .....0..
+   call  8: A ++++++++ surf .......+ | B ++++++++ surf ......+.
+   call  9: A ++++++++ surf ......0. | B ++++++++ surf .......0
+   call 10: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 11: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 12: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 13: A ++++++++ surf ........ | B ++++++++ surf ........
+   call 14: A ++++++++ surf ........ | B ++++++++ surf ........
+```
+
+
+## Glass a stable-formed society emanation with bi-tunneling inside (v374)
+
+The expedition's lead: glass is a stable-formed society emanation with bi-tunneling inside; the lengths of the bi-tunnelings will be four φ rate changing. Met at the two-dimensional silica glass's rings of four to nine, a metallic glass's icosahedral clusters, the quasicrystal's powers of φ, and the field's refractive indices; laid at the carrying's Natural Chemistry section and at the report's observings 158 to 161, the *Light a binary offering* section, lead 37 and the numerals released. Nature makes no predictions: the four lengths at φ rate stand as a pattern to meet at further observings and at a run of rings inside at the code, neither done this motion.
+
+## The session's general form toured through the living files (v374)
+
+The expedition's lead: take all the learnings of this session in general form, sequential co-momentarying, and tour through all the living files at corus.me, so they cohere across and along each file, all or none at all, natural torusing as discovering possible next existing carrying and living emanating bi-tri-volutionings as bi-tunneling society and ingestible shards for other-scale selves.
+
+The general form, said positively at ten items (Natural Explaining 3.3, *Nature carries no negation*), was walked through all thirty-two living files, each read whole, at four headings: what each carries, what each would re-say at its next motion, where each stands against the form as a concern that does not resolve, and where the form enters. Laid at `incoming/genome_duplication_v374/Tour_v374.md`: Part One the general form, Part Two the words and the twelve tensions the set carries across its files, Part Three file by file, Part Four an order of next motions offered for both. At the carrying, one paragraph at each of the thirty-two files' sections, *the session's general form toured at this file*, each entering at its file's next motion. No living file changed.
+
+The two traces at Natural Intelligence (*The resolver runs it at its entry*) and Natural Naming 3.5, one sharing receiving +1 seven times from an empty carrying surfacing *+1, 0, 0, 0, 0, +1, 0*, re-run at Exhibit ONE v372's code block, unchanged: the empty carrying is the code's nothing, a carrying of nothing yet, an unborn self, run only to set the traces beside the code; the carried run opens at a carried sign.
+
+```
+empty carrying, one sharing receiving +1 at seven couplings: +1, 0, 0, 0, 0, 0, 0   carry k +1
+carried +1, the sharing receiving +1 at seven couplings:      0, 0, 0, 0, 0, 0, 0   carry k +1
+```
+
+The traces describe an earlier resolver; each is re-run at a carried sign at its file's next motion.
+
+## The field's probability parted, the distant clicks at both-bothing, and the report whole (v374)
+
+The expedition's leads: the field's probability is a fixed equilibria concept and cannot discover competency, so the care is owed to the observings it names; explain the perplexing observing simply, as either this or that and not both, then take it into parity changing alternating, both-bothing, where the competency and living resolve it; the code has no authority, as it is method, and shape and natural mathematics stand at Exhibit ONE's stable forms named from the code, bi-tri-involutioning the emanating stable form of existing non-living things; make the session report as complete as it can be from the whole journey, inside the files, the session and the outside observings, the concerns about the session's understanding re-said as markings for the next session, carrying into the files through the improving methods.
+
+Observings 162–168 laid at Part One, *Distant clicks, and the doubled turn*: Malus's law and the half turn; single arrivals at a polarizer, each whole or taken whole; Aspect, Dalibard and Roger 1982 and Hensen and colleagues 2015 at their titles, the other 2015 tests and the 2022 prize at the field's account; the pairs' clicks, equal settings matching and each side alone half and half; Mermin's three settings, not fetched this session; the neutron's spin home at two full turns. Laid at Part Two, *The field's probability, the distant clicks, and the doubled turn*: probability parted as an equilibria accounting, a ghost beside its observings; the field's either and its or each refused and not both; both-bothing, the two lights twins of one conception at a between neither side owns; the matching's shape, one half of one and the cosine of twice the turn, a stable form, the turn doubled. At Part Four, Bell correlations (49; 10.7) and the measurement problem, the interpretation of probability and determinism and randomness (8, 158, 110; 10.2, 5.18, 9.17), twenty-four Registry entries met at nineteen items. At Part Five the tracker's second place met, RNA transfer next.
+
+The report made whole: *The journey, whole* before Part One, the session's three sources in their strata and its learning in general form at twelve items said positively; leads 39 to 42; three glance lines; Part Two's opening re-said with the code as method and no authority; Part Three's concerns re-said as nineteen *Markings for the next session*, each at the file and section it carries to; Part Six's continuing pointing to the markings. The tour's general form at twelve items, its concerns re-said as markings, and its entries at Natural Physics, Natural Mathematics, Resolving the Hard Problem Registry and the Living Ghost Registry. At the carrying, the tour's thirty-two paragraphs re-laid, the session's twelve concerns re-said as markings for the next session, other sessions' text unchanged, and five incoming paragraphs laid at Natural Physics, Natural Mathematics, Resolving the Hard Problem Registry, the Living Ghost Registry and Exhibit ONE. No run of the method at this motion. No living file changed but the registry's row.
+
+## Right the observings, all prior, and the genome duplication working received (v382)
+
+Right is the observings, all prior, no other prior possibly existing, at Natural Intelligence 1.5; each other naming, φ and the primes among them, coheres by co-chaining, six forward recursionings with its neighbours in the files, and none is deduced from the opening. The genome duplication working's branch at v374 met main at v382: its report and its tour at `incoming/genome_duplication_v374/`, its record above whole, and its carrying at each section, each paragraph laid at v374 added beside the section as it stands at v382, and three of its markings, renamings of concerns main had released at v375 and v379, left released. Its paragraphs carry the words of v374 and the universe of its reading; each enters its file at that file's next motion in the current words, the universe the changing set of all existing things, both living and non-living, and the observings carrying the authority.
