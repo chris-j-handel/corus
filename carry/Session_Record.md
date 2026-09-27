@@ -945,3 +945,24 @@ one pace, 3 call(s) apart, bi-coupled at member 0 of each
    23   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
    24   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
 ```
+
+The between as a self of its own, a resolver meeting A0's and B0's prior surfacings and surfacing to both:
+
+```
+beam seeded +, rings 0 apart: relation first 16 calls ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 4, B0 4, beam 4
+beam seeded +, rings 1 apart: relation first 16 calls ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x== ==x== ===x=
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded +, rings 2 apart: relation first 16 calls xxxxx =xxxx =xxxx ==xxx ==xxx ===xx ===xx ====x ====x ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded +, rings 3 apart: relation first 16 calls xxxxx ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x== ==x==
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 0 apart: relation first 16 calls ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 1 apart: relation first 16 calls ===== xxxxx ===== =xxxx =x=== ==xxx ==x== ===xx ===x= ====x ====x x==== x==== =x=== =x=== ==x==
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 2 apart: relation first 16 calls xxxxx =xxxx =xxxx ==xxx ==xxx ===xx ===xx ====x ====x ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+beam seeded -, rings 3 apart: relation first 16 calls xxxxx ===== ==xxx ===== ===xx ===== ====x ===== ===== ===== ===== ===== ===== ===== ===== =====
+     last calls relation {'====='}; A0 period 2, B0 2, beam 2
+```
