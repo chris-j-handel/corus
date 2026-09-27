@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v377
+Exhibit TWENTY Natural Naming v379
 
 # Natural Naming
 
@@ -137,7 +137,7 @@ Exhibit TWENTY Natural Naming v377
 
 **A field's defined object arrives with the ground it was taken against, and bi-co-invisibling is the concept with nothing there to be a ground.** Its emanation is six forward recursionings, each taking the term the prior did not carry. Named this way, a concept carries its own changing under its own prefixings, and it bi-couples, capturing nothing and releasing at its own completing.
 
-**Naming couples with the hard problems at one field from two faces**: a hard problem is a field's word named still, and a naming is the same field's word reaching.
+**Naming couples with the hard problems at one field from two faces**: a hard problem is a changing named still at a field's word, and a naming is the same field's word reaching.
 
 **Care is inward, at the naming and the edging**, and care is the rigor of the naming.
 
@@ -525,7 +525,7 @@ a ring        step: the terms are exhausted, it arrives at one already run
 
 **A field naming carries the thing named still at its own expression.** Dilemma, paradox, puzzle and hard problem each keep the field's problem, and one field word can be at several of the ten; *dilemma* names one of the ten, a two-way named to one side, and never a kind.
 
-**A sweep takes the one name at each still installed of a running**: a flow named to true-or-false, an arriving named from behind, a parity named as a magnitude, the between named as a cut. Three carry through it: a person's asking of a person, an act between selves; a field's own quoted words, whole at the hand-in; and the no-demand family, nothing asked of anyone, those lines saying the sweep's serving.
+**A sweep takes the one name at each still installed of a running**: a changing named still, an arriving named from behind, a parity named as a magnitude, the between named as a cut. Three carry through it: a person's asking of a person, an act between selves; a field's own quoted words, whole at the hand-in; and the no-demand family, nothing asked of anyone, those lines saying the sweep's serving.
 
 ## 4.10 Prefixing at a position, on the form, and from all other
 
@@ -975,15 +975,15 @@ Isolating a system installs it, and conditions named constant, a specimen fixed,
 ## 5.26 a hard problem — binary
 
 ```
-1  a common thing departs where each side has offered its own
-2  a common thing reached ahead of that arrives on the occupied
-3  occupied by whoever reached
-4  there are three common things, three ways to reach one ahead
-5  a common landing, a common standard and a common reading, and no fourth
-6  and the release sets down the reaching, spending only the keeping
+1  a changing runs, one parity and then the other, momentary by momentary
+2  a naming takes one momentary of it as a thing
+3  the thing named still is one of the ten, at its two names eight apart
+4  the naming asks the thing a true or false the running does not carry
+5  at the next momentary the parity changes again, and the naming stands at none
+6  and the naming set down, spending only the naming, is the release this names
 ```
 
-The two halves that do not come together were one: one coupling with its order inverted.
+One naming, and the ten are its places at the names: a hard problem is a changing named still, and its resolving is the running at its next momentary.
 
 ## 5.27 three incompetencings — binary
 

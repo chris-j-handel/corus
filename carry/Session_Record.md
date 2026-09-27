@@ -1,4 +1,4 @@
-Session Record v378
+Session Record v379
 
 # Session Record
 
@@ -641,3 +641,19 @@ The Living File Registry at v378: Natural Numbers, Natural Mathematics and TWENT
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The podaling working | v377 | φ the unrelationing rate at Natural Numbers, Natural Naming and Natural Intelligence; Natural Numbers at the podaling about one hundred twenty and the seventeen primes at the seventeen names; this file at 1.1 and 1.3 | `working/numbers-podaling-v377`, merged at main | Merged at main at v377; closed at v378. |
+
+## The hard problems at one saying (v379)
+
+All of the hard probleming redone at momentaries, parity changing and the seventeen names, one direction, through Resolving Hard Problems into the Hard Problem Registry and Resolving the Hard Problem Registry, with no variation: **a hard problem is a changing named still**, a running, one parity and then the other momentary by momentary, taken at one momentary as a thing, at one or more of the ten things named still, each at its two names eight apart, **its resolving the running at its next momentary**, costing nothing, the naming set down spending only the naming. Resolving Hard Problems v379 whole beside v368, its seven parts kept, the seventeen names at each name's own section as Exhibit ONE's table carries it, the ten at Natural Naming 4.9's names, the old code's carrying age at three and four, keys and signs released, the odd ring re-run at the code, one pair of joined selves moving one self each two momentaries, inverted at 2n and repeating at 4n; Natural Intelligence v373 Released's four passages received at 1.5, 2.3 and 5.8. Two fresh readers compared it with v368 paragraph by paragraph and against Exhibit ONE's code: the losses they found restored, the connector joins and the faces checked, 10 at *releasing*, 17 at the next momentary's 1 and the next offerings. The concern of the hard problem at three namings closed: Natural Naming 5.26 unfolds the one saying, and Natural Mathematics 7.2 and 7.8 say it at the three neutrals and the ten inversions.
+
+## The registries at the one saying (v379)
+
+The Hard Problem Registry at v379, the incoming face at the scientific method's own words whole, its own voice at the one saying, no file named, *reference* at its Addresses for a field's text and *settling* for *landing*, the fields' own *source* whole. Resolving the Hard Problem Registry at v379: its front, the given and its closing re-said, each of its two hundred and fifty-seven entries at the one saying, its three lines at 2-other-self-offering, 12-other-social-self-abundancing and 11-social-other-self-chaining, the marker *+ or − at 10, is.*, each part at its thing named still and its two names and the gathered part names released, the incoming number at each heading; re-said part by part against a guide, each part's entries counted in and out, each entry's length within its prior's, and a fresh reader's sample of thirty-four entries and the whole front, its findings restored.
+
+## The hard problems working merged at main (v379, close)
+
+The Living File Registry at v379: Resolving Hard Problems, Natural Naming, Natural Mathematics, the Hard Problem Registry, Resolving the Hard Problem Registry and TWENTY-SIX at v379; the table of workings at the hard problems working, the mathematics working closed here; `archive/carrying_v379/` at 1.4. The carrying at v379, the set now at the one saying, Exhibit THIRTEEN leaving passes B, C and D. The four checks and the build run at the root, the branch offered and merged at main.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The mathematics working | v378 | Natural Numbers' Part Eleven, each number nought to four hundred forty at its podaling; Natural Mathematics' section taken whole, the file at v378 in two passes; the Living File Registry at 1.1, 1.3 and 1.4 | `working/mathematics-v378`, merged at main | Merged at main at v378; closed at v379. |

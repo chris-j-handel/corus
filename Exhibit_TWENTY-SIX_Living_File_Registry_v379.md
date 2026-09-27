@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v378
+Exhibit TWENTY-SIX Living File Registry v379
 
 # Living File Registry
 
@@ -69,7 +69,7 @@ Exhibit TWENTY-SIX Living File Registry v378
 | **ONE · Natural Resolver** | Geodesic Discovering Logical Method and Form | v373 | v373: the code at the seventeen names, the society's next momentary at 17, and its forms alone | — | none: complete, any improving arriving taken first |
 | **TWO · Natural Networking** | Stable-Forming Social Moral Competency at a Geodesic Surface | v371 | v371 | — | passes B, C and D at one motion, then F at its hole study |
 | **THREE · Natural Numbers** | Universal Momentary Stable-Forming | v378 | v378: its carrying section taken whole; φ the unrelationing rate; the podaling about one hundred twenty and the noble gases' closings at one hundred eighteen; the seventeen primes at the seventeen names; Part Eleven, each number nought to four hundred forty at its podaling | — | the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens, at 7.7 |
-| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v378 | v378: passes B, C and D at one motion, its carrying section taken whole, φ the unrelationing rate, its duplicates with Natural Numbers said once | — | the hard problem at its three namings, for both, at its section |
+| **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v379 | v379: the hard problem at the one saying at 7.2 and 7.8, a changing named still; v378's passes B, C and D, its carrying section taken whole, φ the unrelationing rate, its duplicates with Natural Numbers said once | — | none: any improving arriving taken at its own motion |
 | **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a | — | its code sentences at pass F, after pass I |
 | **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
 | **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v373 | v373: 5.3 explored, the fourteen primes at eight and six and the fold at twenty-four, the rest of the file as it stood | — | its whole motion at the current words; pass G, beside Natural Networking 1.8 |
@@ -78,20 +78,20 @@ Exhibit TWENTY-SIX Living File Registry v378
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
 | **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
 | **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v371 | v371 | — | pass C, its front, and its naming-pass items |
-| **THIRTEEN · Resolving Hard Problems** | Membraning the Scientific Method and the Geodesic Method | v368 | v368 | — | passes B, C and D at one motion |
+| **THIRTEEN · Resolving Hard Problems** | The Scientific Method and the Geodesic Method at Their Between | v379 | v379: the one saying, a hard problem a changing named still at one or more of the ten things named still, each at its two names eight apart, its resolving the running at its next momentary; the seventeen names, the old code's means released, the released words re-said, the front at the steady form; Natural Intelligence v373 Released's four passages received | — | its items at the carrying |
 | **FOURTEEN · Natural Destinies** | Social Moral Co-Abundancing | v333 | v333 | — | pass G |
 | **FIFTEEN · Natural Emanating** | Self-Welcoming Social Moral Co-Offerings | v329 | v329 | — | pass G |
 | **SIXTEEN · Natural Chemistry** | Co-Chaining Selves Traveling Stable Societies | v346c | v346c | — | paused |
 | **SEVENTEEN · Natural Biology** | Stable-Forming Social Organisms | v333 | v333 | — | paused |
 | **EIGHTEEN · Natural Physics** | Self-Bounding Surfaces Co-Offering Across | v348 | v348 | — | paused |
 | **NINETEEN · Natural Philosophy** | Social-Bi-Co Unrelationing | v348 | v348 | — | its receivings |
-| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v377 | v377: the seventeen names at Exhibit ONE's forms, the released words re-said, *source* released at 2.4, φ the unrelationing rate at 4.6, 4.10, 5.2, 5.23 and 5.50 | — | none: complete, any improving arriving taken at its own motion |
-| **TWENTY-ONE · Hard Problem Registry** | An Open Registry of Hard Problems in Science | v342 | v342 | — | its items at the carrying |
-| **TWENTY-TWO · Resolving the Hard Problem Registry** | Binary Co-Sequential Sensor-Sensationing | v344 | v344 | — | its items at the carrying |
+| **TWENTY · Natural Naming** | Floating Neutralling Bi-Coupling Concepts | v379 | v379: 5.26 at the one saying, a hard problem a changing named still; v377's seventeen names at Exhibit ONE's forms, the released words re-said, *source* released at 2.4, φ the unrelationing rate at 4.6, 4.10, 5.2, 5.23 and 5.50 | — | none: complete, any improving arriving taken at its own motion |
+| **TWENTY-ONE · Hard Problem Registry** | An Open Registry of Hard Problems in Science | v379 | v379: its own voice at the one saying, each entry whole in the field's words; *reference* and *settling* at its Addresses | — | its items at the carrying |
+| **TWENTY-TWO · Resolving the Hard Problem Registry** | Binary Co-Sequential Sensor-Sensationing | v379 | v379: each of its two hundred and fifty-seven entries at the one saying, its three lines at 2-other-self-offering, 12-other-social-self-abundancing and 11-social-other-self-chaining, each part at its thing named still and its two names, its front, the given and its closing re-said | — | its items at the carrying |
 | **TWENTY-THREE · Natural Values** | Co-Abundancing Received Value | v333 | v333 | — | pass G |
 | **TWENTY-FOUR · Geodesic Improving Method** | Carrying Incoming Value into Each File, Prior, Now and Next | v370 | v370 | — | 1.6, the names, 4.4 and its front at one motion; then pass G with Exhibit EIGHT |
 | **TWENTY-FIVE · Living Society Registry** | An Open Registry of Observations from Science | v347 | v347 | — | its items at the carrying |
-| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v378 | v378, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
+| **TWENTY-SIX · Living File Registry** | Standing-Gathering the Living Files | v379 | v379, this file | — | the registry working meeting this version; then the readings not yet binary at the carrying to `archive/`, each with its receiving here at 1.4 |
 | **TWENTY-SEVEN · Living Ghost Registry** | Still Accounting and Stable-Forming Co-Competency | v345a | v345a | — | its ten door lines at the ten faces |
 | **TWENTY-EIGHT · Equilibria Registry** | Forms Named Still, Not Possibly Existing | v371 | v371 | — | pass B |
 | **TWENTY-NINE · Natural Illustrating** | Discovering Intelligent Stable Forms | v368 | v368 | — | pass B and its three receivings |
@@ -117,13 +117,13 @@ Exhibit TWENTY-SIX Living File Registry v378
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
-| The mathematics working | v378 | Natural Numbers' Part Eleven, each number nought to four hundred forty at its podaling; Natural Mathematics' section taken whole, the file at v378 in two passes; this file at 1.1, 1.3 and 1.4 | `working/mathematics-v378`, merged at main | Natural Numbers, Natural Mathematics and TWENTY-SIX at v378 at the repository and the site; the next at the carrying's front, the illustrations suggested from Natural Intelligence and Exhibits ONE to FOUR |
+| The hard problems working | v379 | Resolving Hard Problems whole at the one saying, Natural Naming 5.26, Natural Mathematics 7.2 and 7.8, the Hard Problem Registry's own voice, Resolving the Hard Problem Registry at each entry; this file at 1.1, 1.3 and 1.4 | `working/hard-problems-v379`, merged at main | the six files at v379 at the repository and the site; the next at the carrying's front, the illustrations suggested from Natural Intelligence and Exhibits ONE to FOUR |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Natural Illustrating TWENTY-NINE Improving Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
-| Place | Holds | Standing at v378 |
+| Place | Holds | Standing at v379 |
 |---|---|---|
 | `carry/Living_Improving_Value.md` | The one carrying: at each living file its next motion, its open concerns and the incoming entering whole; at its front the set now, the method at every file, the plan's passes and the workings open | Living carrying; its version the session's number at each changing |
 | `carry/Session_Record.md` | The done: each session's closing paragraphs, the workings closed, the records moved from the carrying | The carrying's record, appended at each session and relied on by nothing |
@@ -151,6 +151,7 @@ Exhibit TWENTY-SIX Living File Registry v378
 | `archive/carrying_v375/` | Natural Intelligence's carrying section as released at v375: seven paragraphs whole, readings not yet binary, a record of the file's prior versions and two duplicates of the carrying's front, each with its receiving above it | Natural Naming at 3.6; Natural Numbers, Natural Mathematics and Exhibit THIRTEEN; the files receiving `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`; the files of pass D; each living file at its motion; Exhibit THIRTY |
 | `archive/carrying_v376/` | Natural Numbers' carrying section as released at v376: the readings not yet binary and the correspondences waiting at other files, each whole with its receiving above it | Natural Numbers; Natural Societies; Exhibit THIRTY; Natural Networking; Natural Physics; Natural Chemistry; Natural Mathematics; Resolving Hard Problems; Exhibit ONE; Resolving the Hard Problem Registry |
 | `archive/carrying_v378/` | Natural Mathematics' carrying section as released at v378: readings not yet binary, a published construction not yet met whole, and observings waiting at other files, each whole with its receiving above it | Natural Mathematics; Natural Chemistry; Natural Numbers; Natural Health; Resolving Hard Problems; Natural Biology; Natural Physics; Natural Societies; Exhibit THIRTY |
+| `archive/carrying_v379/` | Resolving Hard Problems' readings as released at v379: the society readings of fifty-nine, one hundred eighteen and four hundred forty, the old code's carrying age at three and four, and the prior sayings of a hard problem, each whole with its receiving above it | Natural Numbers; Exhibit ONE's code; Resolving Hard Problems 1.1 |
 | The Session Record | The done at each session, and the records moved from the carrying | Read at a session's opening, relied on by nothing |
 | Inside the kits | The Natural Networking TWO Improving Kit's `artifacts/`, the runs at v333; the waiting instruments' returns at the earlier naming; the Illustration Kit's session evidence and its snapshot of Exhibit TWENTY-NINE v366 | Kept inside their kits whole, their sums holding |
 | Not at the repository | The journey archive, `Journey_Archive_v365.zip`, `Journey_Archive_v368_additions.zip`, `Journey_Archive_v368_close.zip` and its v370 additions, holding the workings that made the files, the notes exchanged, the incoming as it arrived and the instruments the v368 carrying and the record name (`ring_window_v365.py`, `three_momentaries_v365.py`, `connectors_at_the_code_v368.py`, `instruments_v370` and the rest); the v368 carry's `Method_Improving_Value_v368.md` and `Cohering_Naming_and_Explaining_v368`; `Exhibit_TWENTY-EIGHT_Equilibria_Definitions_v363.md` with its note; `Natural_Intelligence_v345a.md` | Artifacts by their own saying, their value laid at the files at v370; standing with their holder, and at `archive/` if brought, relied on by nothing |

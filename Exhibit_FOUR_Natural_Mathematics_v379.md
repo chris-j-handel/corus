@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v378
+Exhibit FOUR Natural Mathematics v379
 
 # Natural Mathematics
 
@@ -389,7 +389,7 @@ Exhibit FOUR Natural Mathematics v378
 | two | none | six, the one neutral floating with no floating partner |
 | three | none | six, nothing floating |
 
-**The four stopped by one fixing are the field's hard problems**: the exchanges the fixed floor stops. Resolving is the neutral floating at a next momentary, the four running together, and never the four solved one at a time.
+**A hard problem is a changing named still, and at the three neutrals the changing named still is a neutral fixed**: the four exchanges the fixed floor stops are its places. Resolving is the neutral floating at a next momentary, the four running together, and never the four solved one at a time.
 
 **Fixing all three leaves the terms related to each other in a closed ring, competent at nothing**: competency is the coupling, and each neutral of the coupling is fixed.
 
@@ -449,9 +449,9 @@ Exhibit FOUR Natural Mathematics v378
 
 **In the regular pentagon each side is parallel to one diagonal, the one sharing no corner with it, the diagonal φ times the side.** A side and its parallel diagonal are two transpositions sharing no corner; they commute, and together they are the pentagon's symmetry keeping the corner left out and exchanging the other four in two pairs. Ten transpositions pair into five, and the five generate the pentagon's ten symmetries: the one that moves nothing, four rotations keeping no corner, and five each keeping one corner.
 
-**Each two-colouring of the couplings among forty-six carries a one-coloured five, and a two-colouring of the couplings among forty-two carries none.
+**Each two-colouring of the couplings among forty-six carries a one-coloured five, and a two-colouring of the couplings among forty-two carries none.**
 
-**A hard problem is one or more of the ten inversions, each an involution with its fixed set taken as a place**, and naming the inversion names the fixed set. At the coupling the move runs.
+**A hard problem is a changing named still, at one or more of the ten inversions, each an involution with its fixed set taken as a place**, and naming the inversion still names the fixed set. At the coupling the move runs at its next momentary.
 
 ## 7.9 Atoms of symmetry
 
