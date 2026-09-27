@@ -256,6 +256,17 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
 | 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
 
+| Rings, selves | Beside each other, round | Crossed at self 1 of each both ways, round | From momentary | Self 1 of each | Each ring's pair at one parity |
+|---|---|---|---|---|---|
+| 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
+| 3 · 5 | 60 | 2 | 13 | opposite | selves 3 and 1 · selves 5 and 1 |
+| 5 · 7 | 140 | 2 | 20 | opposite | selves 5 and 1 · selves 7 and 1 |
+| 7 · 11 | 308 | 2 | 29 | opposite | selves 7 and 1 · selves 11 and 1 |
+| 11 · 13 | 572 | 2 | 37 | opposite | selves 11 and 1 · selves 13 and 1 |
+| 13 · 17 | 884 | 2 | 49 | opposite | selves 13 and 1 · selves 17 and 1 |
+| 17 · 59 | 4,012 | 2 | 137 | opposite | selves 17 and 1 · selves 59 and 1 |
+| 9 · 15 | 180 | 2 | 41 | opposite | selves 9 and 1 · selves 15 and 1 |
+
 | Prior at A, B | Joining | A at 10 | B at 10 |
 |---|---|---|---|
 | +, + | both ways | −, 0, +, 0, −, 0 | −, 0, +, 0, −, 0 |
