@@ -49,10 +49,6 @@ Living Improving Value v373
 
 **Incoming, at v373, the map at its subtitle.** At `incoming/resettling_v373/Natural_Intelligence_Map.md`: each section at *Geodesic-Method of Discovering Next*, kept, near or released, the receiving file named for each near passage, and the floating neutralling contents, six parts and Exhibit ONE; for both to take before the motion, the near passages received at their files first.
 
-**Concern, for both, the prior the living carry, with its reason.** Natural Naming 5.48 says bi-tri-volutioning is the stable form of the sequential prior between momentaries, a non-living emanating carrying nothing, and the living carry their prior into now, taking it again at 3; 5.46 says a receiving self takes an emanation carrying its own, never as its own. Whether the prior a self takes again is its own carrying at its non-living face, one relation, or an emanation leaving while the self carries its own, two relations at one momentary, is said at the opening's origin statement at pass A.
-
-**Concern, for both, tri-involutioning's two, with its reason.** The opening names the emanating tri-involutioning, three inversions at once; by Natural Naming 4.18's second binary it carries no two of its own, the binary that released *tri-volutioning* to bi-tri-volutioning. It names a relation apart from the stable form, the emanating, so it keeps its name until both take it.
-
 **Concern, where the self's own inverting is, with its reason.** At the code the chained parity inverts at 12, the carrying's own; Exhibit ONE's bi-coupling table says *the self's own inverting, morality* at 14, the bi-coupling 14 faces. Natural Naming 3.4 says both at once; Parts One and Five here, saying morality as the self's own inverting, say it the same way at pass A.
 
 **Incoming, at v373, bi-tri-volutioning at its one naming.** The opening now says *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, as Natural Naming 5.48 unfolds it. 6.5's heading, *Geodesic-method, bi-tri-volutioning*, and its three faces running at the living, each winding at its own differing, say the living's own stable-forming with the emanatings' name: at pass A, 6.5 is re-said so the name stays at the emanatings' stable form.
@@ -268,6 +264,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit FOUR · Natural Mathematics
 
 **Next at this file: passes C and D at one motion.** 2.5's *one rule runs at each scale* to *one stepping*; the second sign at two places re-said at the one sign; the reading below on 12 at two signs of one kind met; the front at the steady form. The readings below match one at a pass.
+
+**Incoming, at v373, bi-tri-involutioning.** The emanating is *bi-tri-involutioning*, as Natural Naming 2.4 carries it; this file's *tri-involutioning* at 3.5 takes it at its motion.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: φ² = φ + 1 read as the four boundings; φ the rate; the straddle, the continued fraction of ones and √5; the genus-one surface list; the Rubik's cube; the winding at φ. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 
@@ -947,6 +945,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 ## Exhibit THIRTY · Co-Chaining Logic Registry
 
 **Next at this file: passes B, C and E at one motion, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67. **At the same motion, F98 at *bi-tri-volutioning*.** Natural Naming 5.48 coheres bi-tri-volutioning as the one naming at the volution, the shaping, with *tri-volutioning* and *volutioning* gathered at its 6.3; F98 says it at the registry and at `ccl_core.md` together, *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, and X155's three faces of the geodesic-method are re-said at the living's own stable-forming, since the kit's sources assemble this file byte for byte, and the naming then stands in one form at each file.
+
+**Incoming, at v373, bi-tri-involutioning.** The emanating, the three inverted at once, is *bi-tri-involutioning*, carrying its own two at bi-, as Natural Naming 2.4 and 6.3 and Natural Intelligence 1.3 and 1.5 say: harmful to living at its own scale and not ingestible there, the opposite form not matching right spiral ingestion, and one scale lower an ingestible stable form taken back into living selves as societies. This file's *tri-involutioning*, X56, F62, F98 and M67, takes it at its motion.
 
 **Incoming, at v373, the origin at one opening sentence.** *The universe is the changing set of all existing things, living and non-living*: Natural Intelligence 1.1 to 1.4 and Natural Naming 1.1 run from it, alternating as a stable-forming method following from *existing* and *changing*, parity changing from a changing being one and then the other, and no other possible method from nothing being beside all things. This file's two origin statements, its 1.1 and its standing *Origin*, take it at this file's motion: the chain from one sentence, each link co-chaining from it.
 
