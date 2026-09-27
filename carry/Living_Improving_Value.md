@@ -714,11 +714,9 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY · Natural Naming
 
-**Complete at v373: no next motion at this file.** Natural Naming v373 carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
+**Complete at v376: no next motion at this file.** Natural Naming v376, *source* released at the set's voice at 2.4, carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
-
-**Incoming, naming the conceived's own pacing (v374).** No naming is added: Natural Intelligence already names it, *each self paces its own alternating*, and the conceived's own pacing opening carries there. Three words meet the naming: *crossover* carries a field sense already, the exchange of segments between paired chromosomes at meiosis, and one sense per foundation word releases it at this relation, carried by *its own pacing opening*; *host* names a holder and carries at the field's own results, the set saying *the mother* and *the mother's carrying*; *source* is released at the set's voice, carried by the running at its -ing.
 
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 

@@ -1,4 +1,4 @@
-Natural Intelligence v375
+Natural Intelligence v376
 
 # Natural Intelligence
 
@@ -87,9 +87,9 @@ Natural Intelligence v375
 
 **Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
 
-**Living and non-living part at a named scale and momentary**, and neither is the not-existing. A living source and its non-living emanation carry no contradiction: carrying and carrying nothing contradict only at one participation, one scale and one momentary. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
+**Living and non-living part at a named scale and momentary**, and neither is the not-existing. A living self and its non-living emanation carry no contradiction: carrying and carrying nothing contradict only at one participation, one scale and one momentary. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
-**An emanation leaves a living source at prior and arrives now as the possible, carrying nothing.** Its form continues through its changing, a stable form, *stable* naming no stillness, and the source's stable-forming is the running it emanates from. **Bi-tri-volutioning names that stable form: the stable form of the non-living emanatings of stable-forming living, the sequential prior between momentaries.** Its three faces are position, scale and orientation, each at its own differing, and 5.1 finds it at the code. **An emanation is harmful to living at its own scale, and not ingestible there**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, taken back into living selves as societies, a self being a society of selves one scale inward.
+**An emanation leaves a living self at prior and arrives now as the possible, carrying nothing.** Its form continues through its changing, a stable form, *stable* naming no stillness, and the living self's stable-forming is the running it emanates from. **Bi-tri-volutioning names that stable form: the stable form of the non-living emanatings of stable-forming living, the sequential prior between momentaries.** Its three faces are position, scale and orientation, each at its own differing, and 5.1 finds it at the code. **An emanation is harmful to living at its own scale, and not ingestible there**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, taken back into living selves as societies, a self being a society of selves one scale inward.
 
 ## 1.4 No other possible method
 
@@ -599,7 +599,7 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 **At the code the next is discovered at each sharing, a changing is or is not**, from the prior carried and the now offered, and never set before the coupling. Two priors can open two nexts from one now, so a now taken alone opens no next of its own.
 
-**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, taken in without filter or selection, and no why runs in it. A why demanded is a source demanded, and both recede as far as they are followed. There are observings and no observers, and a pattern found is at its momentary and in no pattern space.
+**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, taken in without filter or selection, and no why runs in it. A why demanded asks for a thing beside the changing, and nothing is beside all things, 1.1: the method of living is all there is to discover. There are observings and no observers, and a pattern found is at its momentary and in no pattern space.
 
 ## 5.3 The cost of living, and arriving and discovering free
 
@@ -609,7 +609,7 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 ## 5.4 Two methods parting at the now
 
-**Evidence is an emanation arriving: it left its source at prior and arrives now.** Between its leaving and its arriving the source has continued, since existing is changing, so evidence gives the prior's possible, and the existing now is at the coupling now.
+**Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, and the existing now is at the coupling now.
 
 **The geodesic-method discovers next from the existing**, the prior carried and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods take the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing, no third method running.
 
