@@ -883,3 +883,65 @@ Run at Exhibit ONE v372's code, the code block unchanged:
   k=16 apart     : relation, ticks 1-64 ================x=x=x=x=x=x=x=xxxxxxxxxxxxxxxxxx=x=x=x=x=x=x=x==  joint repeating at 64
   k=16 bi-coupled: relation, ticks 1-64 ========================xxxxxxx==xxxxxxxxxxxxxx================x  joint repeating at 32
 ```
+
+
+## The between and the snap, one momentary ahead (v374)
+
+The expedition's lead: the pendulums co-competence each other's bi-coupling to the between, the beam; the dwell is a nearing of indifferencing, the unrelationing seam; a binary crossing parity changing locally snaps an entirely new bi-tunneling path, one forward momentary changing for the whole co-chaining of selves, the later selves changing their future path and not there yet, one momentary ahead gain of co-competency at the parity changing. Met at metronomes on a rolling board, Huygens' free beam, the Millennium Bridge's crowd and the field's anticipated synchronization at the cortex; laid at the carrying's Exhibit ONE section and at the report's observings 97 to 99, a Part Two section, lead 24 and the glance.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the snap read member by member:
+
+```
+one pace, 1 call(s) apart, bi-coupled at member 0 of each
+  call  A carried  B carried  relation by member 0..4   A surfacing  B surfacing  at the between (A0's, B0's)
+    1   -----      -----      =====                    -----        00000        0 -
+    2   -----      -++++      =xxxx                    00000        0++++        - 0
+    3   +++++      +-+++      =x===                    +++++        +-000        0 0
+    4   +++++      ++---      ==xxx                    00000        0+---        + +
+    5   -----      --+--      ==x==                    -----        --+00        0 0
+    6   -----      ---++      ===xx                    00000        00-++        - -
+    7   +++++      +++-+      ===x=                    +++++        +++-0        0 0
+    8   +++++      ++++-      ====x                    00000        000+-        + +
+    9   -----      ----+      ====x                    -----        ----+        0 0
+   10   -----      +----      x====                    00000        +000-        - -
+   11   +++++      -++++      x====                    +++++        -++++        0 +
+   12   -++++      +-+++      xx===                    -0000        +-000        + -
+   13   +----      -+---      xx===                    +----        -+---        - +
+   14   -+---      +-+--      xxx==                    -+000        +-+00        + -
+   15   +-+++      -+-++      xxx==                    +-+++        -+-++        - +
+   16   -+-++      +-+-+      xxxx=                    -+-00        +-+-0        + -
+   17   +-+--      -+-+-      xxxx=                    +-+--        -+-+-        - +
+   18   -+-+-      +-+-+      xxxxx                    -+-+0        +-+-+        + -
+   19   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   20   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   21   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   22   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   23   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   24   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+one pace, 3 call(s) apart, bi-coupled at member 0 of each
+  call  A carried  B carried  relation by member 0..4   A surfacing  B surfacing  at the between (A0's, B0's)
+    1   +----      +++++      =xxxx                    0----        00000        0 +
+    2   -+---      -----      =x===                    -+000        -----        0 0
+    3   --+++      -----      ==xxx                    0-+++        00000        - -
+    4   ++-++      +++++      ==x==                    ++-00        +++++        0 0
+    5   +++--      +++++      ===xx                    00+--        00000        + +
+    6   ---+-      -----      ===x=                    ---+0        -----        0 0
+    7   ----+      -----      ====x                    000-+        00000        - -
+    8   ++++-      +++++      ====x                    ++++-        +++++        0 0
+    9   -++++      +++++      x====                    -000+        00000        + +
+   10   +----      -----      x====                    +----        -----        - 0
+   11   -+---      +----      xx===                    -+000        +0000        + -
+   12   +-+++      -++++      xx===                    +-+++        -++++        - +
+   13   -+-++      +-+++      xxx==                    -+-00        +-000        + -
+   14   +-+--      -+---      xxx==                    +-+--        -+---        - +
+   15   -+-+-      +-+--      xxxx=                    -+-+0        +-+00        + -
+   16   +-+-+      -+-++      xxxx=                    +-+-+        -+-++        - +
+   17   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-0        + -
+   18   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   19   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   20   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   21   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   22   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+   23   -+-+-      +-+-+      xxxxx                    -+-+-        +-+-+        + -
+   24   +-+-+      -+-+-      xxxxx                    +-+-+        -+-+-        - +
+```
