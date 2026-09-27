@@ -551,3 +551,69 @@ conducting ring of 5, two ways, first calls: ['-----', '-----', '+++++', '+++++'
 ```
 
 A period of None is a carried sequence returning after more calls than half the window read.
+
+
+## A society of selves outliving its selves (v374)
+
+The expedition's lead: a hydra read as a self that does not age misunderstands a society of selves and its selves opening and nyeing in the society of living selves, the selves bi-tunneling the society, co-chaining moral competency inside it and abundancing it, and the society's living span longer than the selves'. The report's *Selves not ageing* and the carrying's hydra readings re-said at the lead; met at hydra's continuous cell replacement, *Hydra oligactis* ageing at the cold as its stem cells decline and at its epithelial stem cells' autophagy, and *Turritopsis*; laid at the carrying's Exhibit ONE, Natural Health and Natural Biology sections and the report's observings 72 to 75, with Natural Biology's *And the record carries selves that do not narrow* standing against the observings and met at the lead's reading, and the concern at restoration re-said with the society's own members opening.
+
+Run at Exhibit ONE v372's code, the code block unchanged, the ring's orders as at the prior motion, a member released at a position and a new one opening there as a doubling of its left neighbour (its carrying and last surfacing continued) or empty (its carrying opened at its first arriving). M, members opening as doublings in turn with every join conducting; N, the join into position 1 stopped from call 5 and not restored, doublings in turn from call 9; O, the join stopped at calls 5 to 8 and conducting again, doublings in turn from call 9; E, members opening empty with the joins conducting; Nempty, the join stopped and members opening empty, the society's last row. The figure after the stroke is the turnover's pace, one member at each first, second or fourth call:
+
+```
+M. conducting ring of five, one member released at each call in turn and a new one opening as a doubling of its left neighbour
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -----
+  call  7  carried +++++
+  call  8  carried +++++
+  call  9  carried -----
+  call 10  carried -----
+  call 11  carried +++++
+  call 12  carried +++++
+N. the join into position 1 stopped from call 5 and not restored; members released and opening as doublings in turn from call 9
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -+---
+  call  7  carried +-+++
+  call  8  carried ++-++
+  call  9  carried --+--
+  call 10  carried -+-+-
+  call 11  carried +-+++
+  call 12  carried ++---
+  call 13  carried --+--
+  call 14  carried ++-++
+  call 15  carried +-+-+
+  call 16  carried -+---
+O. the join stopped at calls 5-8 and conducting again; members released and opening as doublings in turn from call 9
+  call  1  carried -----
+  call  2  carried -----
+  call  3  carried +++++
+  call  4  carried +++++
+  call  5  carried -----
+  call  6  carried -+---
+  call  7  carried +-+++
+  call  8  carried ++-++
+  call  9  carried --+--
+  call 10  carried ---+-
+  call 11  carried +++-+
+  call 12  carried +++++
+  call 13  carried -----
+  call 14  carried -----
+  call 15  carried +++++
+  call 16  carried +++++
+  call 17  carried -----
+  call 18  carried -----
+
+ring of 3: {'M/1': 4, 'O/1': [4, 4, 4], 'N/1': [3, 3, 3], 'E/1': 3, 'Nempty/1': '...', 'M/2': 4, 'O/2': [12, 12, 12], 'N/2': [6, 2, 2], 'E/2': 12, 'Nempty/2': '...', 'M/4': 4, 'O/4': [24, 24, 24], 'N/4': [12, 2, 2], 'E/4': 12, 'Nempty/4': '...'}
+ring of 4: {'M/1': 4, 'O/1': [4, 4, 4, 4], 'N/1': [4, 2, 2, 4], 'E/1': 4, 'Nempty/1': '....', 'M/2': 4, 'O/2': [8, 8, 8, 8], 'N/2': [16, 16, 16, 16], 'E/2': 8, 'Nempty/2': '....', 'M/4': 4, 'O/4': [48, 48, 48, 48], 'N/4': [32, 32, 32, 32], 'E/4': 2, 'Nempty/4': '....'}
+ring of 5: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4], 'N/1': [10, 2, 2, 10, 10], 'E/1': 5, 'Nempty/1': '.....', 'M/2': 4, 'O/2': [20, 20, 20, 20, 20], 'N/2': [10, 2, 2, 10, 10], 'E/2': 20, 'Nempty/2': '.....', 'M/4': 4, 'O/4': [None, None, None, None, None], 'N/4': [20, 2, 2, 20, 20], 'E/4': 20, 'Nempty/4': '.....'}
+ring of 6: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4], 'N/1': [4, 12, 12, 12, 12, 4], 'E/1': 6, 'Nempty/1': '......', 'M/2': 4, 'O/2': [12, 12, 12, 12, 12, 12], 'N/2': [24, 24, 24, 24, 24, 24], 'E/2': 12, 'Nempty/2': '......', 'M/4': 4, 'O/4': [None, None, None, None, None, None], 'N/4': [48, 48, 48, 48, 48, 48], 'E/4': 2, 'Nempty/4': '......'}
+ring of 7: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4], 'N/1': [7, 7, 7, 7, 7, 7, 7], 'E/1': 7, 'Nempty/1': '.......', 'M/2': 4, 'O/2': [28, 28, 28, 28, 28, 28, 28], 'N/2': [14, 2, 2, 14, 14, 14, 14], 'E/2': 28, 'Nempty/2': '.......', 'M/4': 4, 'O/4': [52, None, None, None, None, None, None], 'N/4': [28, 2, 2, 28, 28, 28, 28], 'E/4': 28, 'Nempty/4': '.......'}
+ring of 8: {'M/1': 4, 'O/1': [4, 4, 4, 4, 4, 4, 4, 4], 'N/1': [4, 2, 2, 8, 8, 8, 8, 4], 'E/1': 8, 'Nempty/1': '........', 'M/2': 4, 'O/2': [16, 16, 16, 16, 16, 16, 16, 16], 'N/2': [32, 32, 32, 32, 32, 32, 32, 32], 'E/2': 16, 'Nempty/2': '........', 'M/4': 4, 'O/4': [60, 60, 60, None, None, None, None, None], 'N/4': [None, None, None, None, None, None, None, None], 'E/4': 2, 'Nempty/4': '........'}
+```
