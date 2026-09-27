@@ -851,3 +851,35 @@ society of 12, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  
 ## Peto's paradox at two tissue societies and their own rates (v374)
 
 The expedition's lead: a whale's tissues and a mouse's are two different tissue societies, living at different parity changing rates and carrying different co-sequential social patterns. Met at somatic mutation rates scaling inversely with lifespan across sixteen mammals and the end-of-lifespan burden near alike, the segmentation oscillation's species pace at each cell's own reaction speeds, the elephant's TP53 copies and apoptosis, the bowhead's faithful repair, and cultured cells converging in metabolic rate; laid at the carrying's Resolving the Hard Problem Registry section and at the report's observings 85 to 89, a Part Two section, the leads and the glance, and Part Four's Peto's paradox, met at the lead's reading and no longer standing open. No run at the code: the rings at two paces apart, each at its own four at its own calls, stand at the prior motion's traces.
+
+
+## Societies converging and phase-locking, and a neuron's routing (v374)
+
+The expedition's lead: cells do not communicate at all, there being no communication in natural intelligence; all societies converge to a social parity changing as natural torusing society abundancing, like harmonic resonance nearing, the differential beating slowing until the steadying unsteadiness and the rate jumping geodesically into phase-locking, suddenly; neurons firing read as communication is geodesic parity changing routing across a new surface path. Met at Huygens' pendulums, injection locking, the sinoatrial pacemakers' mutual entrainment, fireflies' unison, the action potential's inversion along the membrane and node to node, ephaptic entrainment and new myelin for a new skill; laid at the carrying's Natural Intelligence, Exhibit ONE and Natural Biology sections and at the report's observings 90 to 96, a Part Two section, lead 23, the glance and a concern at locking at near paces. Observings 68 and 86 and the carrying's cancer observing re-said at *electrical coupling*, the field's *communication* named as the field's word, and Part Four's cancer matching re-said.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+(1) one pace, phases apart, bi-coupled from call 1
+  0 calls apart: relation ========================================  joint pattern repeating from call 1 at 4
+  1 calls apart: relation =========xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 18 at 2
+  2 calls apart: relation xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 8 at 2
+  3 calls apart: relation ========xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  joint pattern repeating from call 17 at 2
+(2) near paces: B meeting no call at every k-th tick
+  k= 3 apart     : relation, ticks 1-64 ==x=xxxx=x====x=xxxx=x====x=xxxx=x====x=xxxx=x====x=xxxx=x====x=  joint repeating at 12
+  k= 3 bi-coupled: relation, ticks 1-64 ==x==xxx=xx==x=xx=xx=xx=xx==x===xxx==x==x=xx=xx==x=xx==x===xxx==  joint repeating at 27
+  k= 4 apart     : relation, ticks 1-64 ====x=xxxxxx=x======x=xxxxxx=x======x=xxxxxx=x======x=xxxxxx=x==  joint repeating at 16
+  k= 4 bi-coupled: relation, ticks 1-64 =======xxxx==xx===x====xxxx==xx=xxx==xx====xxxx====xxxx==xx=xxx=  joint repeating at 56
+  k= 5 apart     : relation, ticks 1-64 ====x=x=xxxxxx=x=x======x=x=xxxxxx=x=x======x=x=xxxxxx=x=x======  joint repeating at 20
+  k= 5 bi-coupled: relation, ticks 1-64 ====x====xxxxx=xxxx==xxx==xxx=xxxx===xx=xxxx====x=xxxx=======xxx  joint repeating at None
+  k= 6 apart     : relation, ticks 1-64 ======x=x=xxxxxxxx=x=x========x=x=xxxxxxxx=x=x========x=x=xxxxxx  joint repeating at 24
+  k= 6 bi-coupled: relation, ticks 1-64 ===========xxxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxxx=xxxx  joint repeating at 24
+  k= 8 apart     : relation, ticks 1-64 ========x=x=x=xxxxxxxxxx=x=x=x==========x=x=x=xxxxxxxxxx=x=x=x==  joint repeating at 32
+  k= 8 bi-coupled: relation, ticks 1-64 ===============xxxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=xxxxxxx=  joint repeating at 32
+  k=10 apart     : relation, ticks 1-64 ==========x=x=x=x=xxxxxxxxxxxx=x=x=x=x============x=x=x=x=xxxxxx  joint repeating at 40
+  k=10 bi-coupled: relation, ticks 1-64 ==================x=xxxxxxxxx============xxxxxxxx=xxxxxxxxx=====  joint repeating at 60
+  k=12 apart     : relation, ticks 1-64 ============x=x=x=x=x=xxxxxxxxxxxxxx=x=x=x=x=x==============x=x=  joint repeating at 48
+  k=12 bi-coupled: relation, ticks 1-64 ====================xxx==x===xxxxxx===xxxxxxxxx============xxxxx  joint repeating at 24
+  k=16 apart     : relation, ticks 1-64 ================x=x=x=x=x=x=x=xxxxxxxxxxxxxxxxxx=x=x=x=x=x=x=x==  joint repeating at 64
+  k=16 bi-coupled: relation, ticks 1-64 ========================xxxxxxx==xxxxxxxxxxxxxx================x  joint repeating at 32
+```
