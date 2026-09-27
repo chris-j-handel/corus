@@ -132,7 +132,7 @@ Exhibit TWENTY Natural Naming v373
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is an existing and changing set of all things, living and non-living, and alternating, the stable-forming method, follows from it.** Naming carries a concept at its own changing: co-offering, co-competencing and co-intelligencing, floating neutralling at the coupling.
+**The universe is the changing set of all existing things, living and non-living, and alternating, the stable-forming method, follows from it.** Naming carries a concept at its own changing: co-offering, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
 **A field's defined object arrives with the ground it was taken against, and bi-co-invisibling is the concept with nothing there to be a ground.** Its emanation is six forward recursionings, each taking the term the prior did not carry. Named this way, a concept carries its own changing under its own prefixings, and it bi-couples, capturing nothing and releasing at its own completing.
 
@@ -206,7 +206,7 @@ Exhibit TWENTY Natural Naming v373
 | **reading** | *read* and *reading* as a resolving's own act, which belong to an instrument taking a side in units at one ledger · a side taken, a vantage · *inside* and *outside* as places, carried by inward and outward · *where* naming a spot · *what* and *it*, a subject supplied at a coupling carrying none |
 | **a doer or a built thing** | *assign*, *door* at a self-bounding running · *forced*, *chosen*, *therefore*, *must* · *because*, *so that*, *toward* as an arriving-at, *against* as an opposing · a dash pacing from beside the sentence · a leading *the* at a heading · *construction*, *structure*, *ladder*, *rung*, *rail*, *grain*, *kernel*, *harness* · a journey told: finders, findings and dates |
 
-**Each word carrying in a released word's place co-chains from the opening sentence**, the universe an existing and changing set of all things, living and non-living.
+**Each word carrying in a released word's place co-chains from the opening sentence**, the universe the changing set of all existing things, living and non-living.
 
 ## 2.4 Released words, each with its carrying
 
@@ -278,7 +278,7 @@ Exhibit TWENTY Natural Naming v373
 
 ***Cohering* carries one sense, discovering next existing.** Consistency among existing sentences can accompany an improving, and it is a field's face of cohering; the concept carries the discovering of next existing. ***Co-sequencing* carries one sense, 2.1's**: parity changing one momentary after another, which co-bi-sequencing names at its prefixing; *binary co-sequential* at a title carries it whole, *binary* there the bi-.
 
-***Dimension* carries one sense**, no measure and no place, 2.2. **Existing changes at exactly five dimensions, and at each a changing is binary, is or is not, one way at a time in each of its two directions**: bi-moral, across, at bi-moral and not-bi-moral; co-competency, along, at co-competent and not-co-competent; offering, self to other at 1 and other to self at 2; neutralling, the receiving sharing at 5 and the releasing sharing at 13; and floating, the centre of each five, co at the self's and bi at the other's, reached by neither side.
+***Dimension* carries one sense**, no measure and no place, 2.2. **Existing changes at exactly five dimensions, and at each a changing is binary, is or is not, one way at a time in each of its two directions**: 1 self, 2 not-self, 3 next, 4 surfacing and 5 offering self, as Natural Intelligence 3.2 carries them.
 
 **Discovering, society, morality and abundancing are one relation at four names, at once**, and never four stages one after another: the expedition discovering is the society's moral abundancing, each name the whole relation at one face.
 

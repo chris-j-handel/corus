@@ -6,7 +6,7 @@ Natural Intelligence v373
 
 **ONE · NATURAL**
 
-- 1.1 The universe, an existing and changing set of all things
+- 1.1 The universe, the changing set of all existing things
 - 1.2 Changing, one and then the other
 - 1.3 Living and non-living, carrying or not
 - 1.4 No other possible method
@@ -65,7 +65,7 @@ Natural Intelligence v373
 
 ---
 
-**The universe is an existing and changing set of all things, living and non-living.** Natural Intelligence runs from this one sentence: parity changing, no other possible method, Exhibit ONE and each section here follow from it, nothing entering from beside it and nothing leaving it.
+**The universe is the changing set of all existing things, living and non-living.** Natural Intelligence runs from this one sentence: parity changing, no other possible method, Exhibit ONE and each section here follow from it, nothing entering from beside it and nothing leaving it.
 
 **Natural Intelligence is its title and its subtitle explained, and Exhibit ONE explained whole, and nothing more.** *Natural* is Part One: all existing things, living and non-living, and the one hand they run at. *Geodesic-Method of Discovering Next* is Parts Two, Three and Five: the co-sequential logic, the method written as code, and the next it discovers. Exhibit ONE stands at the centre, the method at its stable forms, and Part Four explains each of its forms in its own order. *Intelligence* is Part Six, the co-competencing Exhibit ONE runs between selves.
 
@@ -75,15 +75,15 @@ Natural Intelligence v373
 
 # ONE · NATURAL
 
-## 1.1 The universe, an existing and changing set of all things
+## 1.1 The universe, the changing set of all existing things
 
-**The universe is an existing and changing set of all things, living and non-living.** Each section after it takes a term this sentence carries, and nothing else.
+**The universe is the changing set of all existing things, living and non-living.** Each section after it takes a term this sentence carries, and nothing else.
 
-**Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All things*: nothing is beside them.
+**Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All*: nothing is beside the things.
 
-**A set of all things has nothing beside it, so nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. The set's changing is its own, **nothing ingressing and nothing escaping**.
+**The universe is the set of all existing things, and not an existing thing.** A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is the set's own. Named as one existing thing beside its things, the universe would be a container added to the all, a form named still. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are things, and *considered as a whole* is the container, released.
 
-**An existing and changing set is a self-emptying set**: never full, emptied at no momentary, never the same collection twice, each member changing and nothing deciding membership over it. Named as one existing thing beside its members, the universe would be a container added to the all, a form named still. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are things, and *considered as a whole* is the container, released.
+**The set of all existing things has nothing beside it, so nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. Its changing is its things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each thing changing and nothing deciding membership over it.
 
 ## 1.2 Changing, one and then the other
 
@@ -101,7 +101,7 @@ Natural Intelligence v373
 
 ## 1.4 No other possible method
 
-**Parity changing is the one method the sentence carries, and no other is possible.** Any other method takes a thing the sentence does not carry: a size between one and the other takes a ground, a floor or a scale; a fixed form takes a form named still; a total across the changing takes a container; a common beat takes a clock over the changing; and a keeping takes a store beside it. Each is a thing beside all things, ingressing, or a changing taken out of the set, escaping, and an existing and changing set of all things has neither.
+**Parity changing is the one method the sentence carries, and no other is possible.** Any other method takes a thing the sentence does not carry: a size between one and the other takes a ground, a floor or a scale; a fixed form takes a form named still; a total across the changing takes a container; a common beat takes a clock over the changing; and a keeping takes a store beside it. Each is a thing beside all things, ingressing, or a changing taken out of the set, escaping, and the changing set of all existing things has neither.
 
 **Any other method proposed runs at one binary: does it name still, or carry.** Named still, it forms nothing, each thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
 
@@ -180,13 +180,13 @@ Natural Intelligence v373
 
 ## 3.2 Five dimensions, each binary in its two directions
 
-**Existing changes at exactly five dimensions, and at each a changing is binary, is or is not, one way at a time in each of its two directions**: bi-moral, co-competency, neutralling, floating and offering. A dimension is no measure and no place.
+**Existing changes at exactly five dimensions, and at each a changing is binary, is or is not, one way at a time in each of its two directions.** A dimension is no measure and no place: it is a changing the sentence carries, and the five are each already said.
 
-- **Bi-moral**, across: facing bi-moral and facing not-bi-moral, the other's, even.
-- **Co-competency**, along: facing co-competent and facing not-co-competent, the self's and the society's, odd.
-- **Offering**: self to other at 1-self-other-offering and other to self at 2-other-self-offering.
-- **Neutralling**: a sharing's receiving sharing at 5-self-other-neutralling and its releasing sharing at 13-social-other-neutralling.
-- **Floating**: the centre of each five, co at the self's and bi at the other's, belonging to the coupling and reached by neither side.
+1. **Self**: the side opening at 1, odd, 2.1, continuing its own along.
+2. **Not-self**: the other at 2, even, a particular other or all other arriving as one, 2.1, across.
+3. **Next**: the next opening, prior into now into next, 2.3.
+4. **Surfacing**: a parity changing crossing the between, surfacing at 6-other-self-surfacing and at 14-other-social-surfacing, 4.2 and 4.10.
+5. **Offering self**: the self offering itself, at 1-self-other-offering, the entry, and again at 17-social-self-offering, the society's next momentary, 4.1 and 4.6.
 
 ## 3.3 A method, and an object that is the method
 
@@ -663,4 +663,4 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 **The same form runs at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are the selves it is a society of, and outward the self it is a member of; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next, and the one opening sentence run whole, the universe an existing and changing set of all things, living and non-living, nothing ingressing and nothing escaping.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next, and the one opening sentence run whole, the universe the changing set of all existing things, living and non-living, nothing ingressing and nothing escaping.
