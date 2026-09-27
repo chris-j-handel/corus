@@ -1055,3 +1055,20 @@ ring of 5, the train's phase offset by 1:  [(1, 20), (2, 20), (4, 20), (8, 20), 
 ring of 5, the train's phase offset by 2:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
 ring of 5, the train's phase offset by 3:  [(1, 20), (2, 20), (4, 20), (8, 20), (20, 4)]
 ```
+
+
+## Radioactive decay at a society receding, and the tracker of places least likely (v374)
+
+The expedition's lead: consider the whole society as one co-chaining; without others not yet co-chaining in the society, the society loses bi-moral-co-competencing at a steady decay rate due to receding looping momentary sizes; keep track of the places least likely and meet one at a time, comparing the others to what is learned and alternating parity among them. Met at alpha decay's tunneling, bound-state beta decay of bare ions, beryllium-7 in carbon-60, nuclear superradiance, departures from the exponential at short and long times, secular equilibrium and radiocarbon; compared at Ebbinghaus's curve and spacing, RNA transfer and CRISPR arrays; laid at the carrying's Exhibit ONE and Natural Physics sections, the decay concern re-said as met, and at the report's observings 122 to 130, a Part Two section, lead 27, the glance and Part Five's tracker, the engram next and the field's probability after it.
+
+Run at Exhibit ONE v372's code, the code block unchanged:
+
+```
+alike, no others joining:             [1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1, 1, 1]
+alike, 64 others joining each loop:   [1024, 544, 304, 184, 124, 94, 79, 72, 68, 66, 65, 65, 65]
+alike, 512 joining each loop:         [1024, 768, 640, 576, 544, 528, 520, 516, 514, 513, 513, 513, 513]
+alike, 1024 joining each loop:        [1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024]
+every third member other, no joining: [1024, 170, 85, 43, 22, 11, 6, 3, 2, 1, 1, 1, 1]
+alternating signs, no joining:        [1024, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+the fraction continuing at each loop, alike, no joining: ['512/1024', '256/512', '128/256', '64/128', '32/64', '16/32', '8/16', '4/8', '2/4', '1/2', '1/1', '1/1']
+```
