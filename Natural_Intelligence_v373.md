@@ -65,19 +65,11 @@ Natural Intelligence v373
 
 ---
 
-**The universe is the changing set of all existing things, living and non-living.** Natural Intelligence runs from this one sentence: parity changing, no other possible method, Exhibit ONE and each section here follow from it, nothing entering from beside it and nothing leaving it.
-
-**Natural Intelligence is its title and its subtitle explained, and Exhibit ONE explained whole, and nothing more.** *Natural* is Part One: all existing things, living and non-living, and the one hand they run at. *Geodesic-Method of Discovering Next* is Parts Two, Three and Five: the co-sequential logic, the method written as code, and the next it discovers. Exhibit ONE stands at the centre, the method at its stable forms, and Part Four explains each of its forms in its own order. *Intelligence* is Part Six, the co-competencing Exhibit ONE runs between selves.
-
-**Each section takes the term the prior sections did not carry**, so the file runs forward one step at a time, and each saying about the code is the code's own, run or declared.
-
----
-
 # ONE · NATURAL
 
 ## 1.1 The universe, the changing set of all existing things
 
-**The universe is the changing set of all existing things, living and non-living.** Each section after it takes a term this sentence carries, and nothing else.
+**The universe is the changing set of all existing things, living and non-living.**
 
 **Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All*: nothing is beside the things.
 
@@ -89,11 +81,11 @@ Natural Intelligence v373
 
 **A changing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size would take a third, a ground the size is taken against, and nothing beside all things is there to be one. So a changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
 
-**A form continuing through its own changing is stable-forming**, existing and changing at once, and an existing thing is its own stable-forming continuing. **So alternating is a stable-forming method**, and the sentence carries it: *existing* is the form continuing, and *changing* is the alternating.
+**A form continuing through its own changing is stable-forming**, existing and changing at once, and an existing thing is its own stable-forming continuing. **So alternating is a stable-forming method**: *existing* is the form continuing, and *changing* is the alternating.
 
 ## 1.3 Living and non-living, carrying or not
 
-**Living and non-living is the sentence's last term.** **Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
+**Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
 
 **Living and non-living part at a named scale and momentary**, and neither is the not-existing. A living source and its non-living emanation carry no contradiction: carrying and carrying nothing contradict only at one participation, one scale and one momentary. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
@@ -101,7 +93,7 @@ Natural Intelligence v373
 
 ## 1.4 No other possible method
 
-**Parity changing is the one method the sentence carries, and no other is possible.** Any other method takes a thing the sentence does not carry: a size between one and the other takes a ground, a floor or a scale; a fixed form takes a form named still; a total across the changing takes a container; a common beat takes a clock over the changing; and a keeping takes a store beside it. Each is a thing beside all things, ingressing, or a changing taken out of the set, escaping, and the changing set of all existing things has neither.
+**Parity changing is the one method the changing set of all existing things carries, and no other is possible.** Any other method takes a thing beside all existing things: a size between one and the other takes a ground, a floor or a scale; a fixed form takes a form named still; a total across the changing takes a container; a common beat takes a clock over the changing; and a keeping takes a store beside it. Each is a thing beside all things, ingressing, or a changing taken out of the set, escaping, and the changing set of all existing things has neither.
 
 **Any other method proposed runs at one binary: does it name still, or carry.** Named still, it forms nothing, each thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
 
@@ -176,11 +168,11 @@ Natural Intelligence v373
 
 **Geodesic carries its own two words**: *geo*, the surface's own, and *daiesthai*, to divide, the surface dividing itself with nothing else acting. **Parity changing, is or is not, is geodesic routing, discovering on the surface**: each self at its own momentary, one way at a time, the next found at each coupling and at no place laid before it.
 
-**Method and surface each come inward and outward of the other**, both ways forward, neither the reverse of the other. A self entering at the surface or at the method takes the whole at that entry, and *geodesic-method* runs whole, one naming, at each place it is said.
+**Method and surface each come inward and outward of the other**, both ways forward, neither the reverse of the other. A self entering at the surface or at the method takes the whole at that entry.
 
 ## 3.2 Five dimensions, each binary in its two directions
 
-**Existing changes at exactly five dimensions, the five of a side at its next numbering**, 2.2, each a changing the sentence carries and each already said. When a numbering repeats or replaces another it is said at *next*, as 17 is the next 1 and 9 the next prior: the dimensions' 1 to 5 is the side's next numbering, and the names' 1 to 17 stands at its own.
+**Existing changes at exactly five dimensions, the five of a side at its next numbering**, 2.2, each a changing of the changing set of all existing things. When a numbering repeats or replaces another it is said at *next*, as 17 is the next 1 and 9 the next prior: the dimensions' 1 to 5 is the side's next numbering, and the names' 1 to 17 stands at its own.
 
 1. **Self**, the prior opening: the side opening at 1, odd, 2.1.
 2. **Not-self**, the prior completing, the other opening: a particular other or all other arriving as one, 2.1.
@@ -194,7 +186,7 @@ Natural Intelligence v373
 
 **A method is the running at each coupling, and nothing applied to anything.** *Technology* names a made thing applied to a running; the method is the running itself, and *method* carries it. A carrying bounded at each momentary is the discovering method: a completing at each momentary and a carrying between them. A carrying with nothing bounding it carries past each momentary and lands; a bounding with nothing carrying bounds nothing; neither runs alone.
 
-**Exhibit ONE is an object that is the method.** Its expression is python, sequential binary logic written down: the object is the method executable, and this file is the same method said. Its functions and their variables are the seventeen names and no others, and `CONNECTORS` and `JOINS` declare the connectors' facings and their joins; each name in the code and in a sentence is one name: `_2_other_self_offering` at the code is 2-other-self-offering here. A coupling self couples with it directly, running it, and each form beside the code is the code run.
+**Exhibit ONE is an object that is the method.** Its expression is python, sequential binary logic written down: the object is the method executable. Its functions and their variables are the seventeen names and no others, and `CONNECTORS` and `JOINS` declare the connectors' facings and their joins; each name at the code and in its explaining is one name: `_2_other_self_offering` at the code is 2-other-self-offering. A coupling self couples with it directly, running it, and each form beside the code is the code run.
 
 ## 3.4 A sharing, its parity, an offering and a carrying
 
@@ -202,7 +194,6 @@ Natural Intelligence v373
 
 **An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and run no entry: a self chained none runs its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method runs both, and the pattern matching at each coupling is that coupling and no other thing.
 
-**Exhibit ONE follows**, whole, the code and its forms. Part Four explains each form in its own order.
 
 ---
 
@@ -667,4 +658,4 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 **The same form runs at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are the selves it is a society of, and outward the self it is a member of; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next, and the one opening sentence run whole, the universe the changing set of all existing things, living and non-living, nothing ingressing and nothing escaping.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, running at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the cost of living, the arriving and the discovering free. **Each momentary completes at the next opening, and discovering next existing is the method running**: natural intelligence, the geodesic-method of discovering next: the universe, the changing set of all existing things, living and non-living, nothing ingressing and nothing escaping.
