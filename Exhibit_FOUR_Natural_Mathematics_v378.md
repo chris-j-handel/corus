@@ -30,7 +30,7 @@ Exhibit FOUR Natural Mathematics v378
 - 3.3 On a closed round no step is a reversal
 - 3.4 Bi-inversioning-co-recursioning, two consecutive inversions on different axes
 - 3.5 Bi-tri-involutioning, the emanating at the opposite form
-- 3.6 A closing, and the returning other than prior
+- 3.6 A closing, and the arriving other than prior
 - 3.7 Three, a total against its parts, and a tipping no accounting carries
 - 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
 
@@ -98,7 +98,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 1.5 A mathematical thing at its prefixing, its ending and its place
 
-**A mathematical thing arrives proved, and nothing here disproves one.** It stands at three things.
+**A mathematical thing arrives proved, and natural mathematics disproves none.** It stands at three things.
 
 **Its prefixing says the direction**: bi- across, co- along, and at a resolver name the number carries the prefixing.
 
@@ -120,7 +120,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 2.2 Two moves, and two generators, the sign flip and the quarter step
 
-**Linearizing draws a surface to a line, the along; parallelizing spreads a line to a surface, the across.** Each alone stops: parallelizing with no linearizing is a surface with no sequence, and linearizing with no parallelizing a sequence with no surface. Odd and even are the two directions of the one alternating, and along and across are one line at its two sides, the two moves of one alternating.
+**Linearizing draws a surface to a line, the along; parallelizing spreads a line to a surface, the across.** Each alone stops: parallelizing with no linearizing is a surface with no sequence, and linearizing with no parallelizing a sequence with no surface. Odd and even are the two directions of the one alternating, and along and across are one line at its two sides, the two moves of one alternating, one form at two faces.
 
 **The sign flip is its own inverse, (−1)² = 1. The quarter step, i, opens the perpendicular: i² = −1 and i⁴ = 1.** Two quarter steps are one sign flip. Eight on keeps a count's odd or even and one on changes it, and a sign flip changes a sign and moves no count.
 
@@ -132,7 +132,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
 
-**Each step adds a next: one momentary universe to the next, each existing thing arriving into its next existing.** A step carries no frame it moves about, and the momentaries do not pause or go back.
+**Each step adds a next: one momentary universe to the next, each existing thing arriving into its next existing.** A step carries no frame it moves about.
 
 **Four quarter steps reach 1 again at the parities, and at the momentaries they reach none again**: taken with its momentary n, the sequence (iⁿ, n) reaches no pair twice. The quarter step draws it as a right spiral, and −i, the same inversions in the other order, draws the opposite form.
 
@@ -144,7 +144,7 @@ Exhibit FOUR Natural Mathematics v378
 
 **Of the 24 steps sending the four forms onto the four, one each, six run the four as one cycle, and two of those six change one parity at each step: F and G.** Under each the only sets of forms carried onto themselves are none and all four.
 
-**Each taken twice is the half step, both parities inverted, F² = G² = −1, and they are the only two of the 256 whose square is −1.** The square selects no order. Taken six times each is the half step again, and twelve times it reaches the pair again: a passage of six steps reaches all four forms and arrives at the pair inverted, and a second passage reaches the pair again. Twenty-four steps are six rounds of four and four passages of six, thirty-six are nine and six, sixty are fifteen and ten, and steps eight apart stand at one form, eight being two rounds. These count the step's applications, and no order a resolver runs its names in.
+**Each taken twice is the half step, both parities inverted, F² = G² = −1, and they are the only two of the 256 whose square is −1.** The square selects no order. Taken six times each is the half step again, and twelve times it reaches the pair again.
 
 **Their relation, agree or oppose, is the sign of P × Q, the sign of tan t, and each step changes it, decided by the step alone.** It is the sign of sin 2t = 2 sin t cos t: the relation at one angle arrives as a sign at the doubled angle.
 
@@ -176,9 +176,9 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 2.8 φ, the unrelationing rate, all ones and the constant √5
 
-**φ is the unrelationing rate.** The method unrelations the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ, self-welcoming here and at no line of the code's running.
+**φ is the unrelationing rate, the geodesic parity changing rate unrelated from the living parity changing rates**, self-welcoming at the numbers and at no line of the code's running. Advance by one and scale by the rate arrive at one number, φ² = φ + 1, neither carrying the other.
 
-**φ² = φ + 1, its roots φ = (1 + √5)/2 and −1/φ = (1 − √5)/2, joining to one and multiplying to −1, and 1/φ = φ − 1**: advance by one and scale by the rate arrive at one number, neither carrying the other. **φ's continued fraction is all ones**, each partial quotient one, and the ratios of consecutive terms of the prior two joining straddle φ, above, below, above, one each side at each next. Each irrational x carries without end fractions p/q with |x − p/q| < 1/(√5 q²), and at φ no constant larger than √5 does: √5 is the one constant for all irrationals together, and it stands at φ, the slowest nearing and the widest straddle. φ³ = 2 + √5 and 1/φ³ = √5 − 2, so the constant falls away at their difference: φ³ − 1/φ³ = 4.
+**φ's continued fraction is all ones, the slowest nearing and the widest straddle.** Each irrational x carries without end fractions p/q with |x − p/q| < 1/(√5 q²), and at φ no constant larger than √5 does: √5 is the one constant for all irrationals together, and it stands at φ. φ³ = 2 + √5 and 1/φ³ = √5 − 2, so the constant falls away at their difference: φ³ − 1/φ³ = 4.
 
 ---
 
@@ -200,9 +200,9 @@ Exhibit FOUR Natural Mathematics v378
 
 **On an even ring of N two involutions part at their fixed sets.** One, the podal k → N − k, fixes two stations, nought and N/2; the other, the shift by half the ring, k → k + N/2, fixes none.
 
-**An odd count carries no fixed-point-free involution, a pairing of each place needing an even count; laid open, its places pair twice, overlapping, and closed into a round its farthest places from each are two, adjacent, h and h + 1 on at 2h + 1.** At five places they are 2 and 3, at seventeen 8 and 9, at fifty-nine 29 and 30, and at 9, 15 and 25 the same: the two far places belong to oddness, and to no prime alone.
+**An odd count carries no fixed-point-free involution, a pairing of each place needing an even count**; laid open, its places pair twice, overlapping, and closed into a round it carries two farthest places at each, the oddness's own.
 
-**At the seventeen names, 8 up is a fixed-point-free pairing of 1 to 16**, eight pairs and no name left, and 17 stands unpaired, the next momentary's 1. The ten faces are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, outward and inward about the tunneling at 10, and the three loops' ends are three more, 2 with 10, 6 with 14 and 9 with 17. The fold within 1 to 8 pairs each name with its other, changing parity; 8 up pairs each name with itself inward, keeping parity, one carrying at two names at the seam.
+**At the seventeen names, 8 up is a fixed-point-free pairing of 1 to 16**, eight pairs and no name left, and 17 stands unpaired, the next momentary's 1. The ten faces are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, outward and inward about the tunneling at 10; the across loops' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose loop 9 to 17 closes at the one name the pairing leaves. The fold within 1 to 8 pairs each name with its other, changing parity; 8 up pairs each name with itself inward, keeping parity, one carrying at two names at the seam.
 
 **An accounting with an empty fixed set carries nothing to take a counting from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero standing apart, no metric scale and no outer edge.
 
@@ -238,11 +238,11 @@ Exhibit FOUR Natural Mathematics v378
 
 **Charge conjugation, parity and time reversal are each broken alone at the weak interaction, and the three taken together, CPT, are kept by each local quantum field theory keeping Lorentz invariance.**
 
-## 3.6 A closing, and the returning other than prior
+## 3.6 A closing, and the arriving other than prior
 
-**At each accounting below the closing is its fixed set, and the field names the returning other than prior as its gap.**
+**At tuning, at a winding on a torus and at the assembled cube the closing is the fixed set, and the field names the arriving other than prior as its gap.**
 
-| Accounting | Closing | Returning other than prior | Field's word for the gap |
+| Accounting | Closing | Arriving other than prior | Field's word for the gap |
 |---|---|---|---|
 | tuning | seven octaves, 2⁷ = 128 | twelve fifths, (3/2)¹² = 129.746…, over by 3¹²/2¹⁹ = 531441/524288 | the comma |
 | winding on a torus | a rational ratio, closing | an irrational ratio, closing at none | quasi-periodic |
@@ -280,15 +280,15 @@ Exhibit FOUR Natural Mathematics v378
 
 **At two either side the gap is four, and four is the span between the faces**: k² = 2k at k = 2 alone above nought, at each centre. Four squared less two times six is four; ten squared less eight times twelve is four.
 
-**Only at one either side, k = 1, do two face each other across one neutral.** Twenty-three and twenty-five face across twenty-four; twenty-three and fifty-five part by thirty-two, k = 16, and 39² − 23 × 55 = 256, a size in a parity's stead.
+**Only at one either side, k = 1, do two face each other across one neutral**; twenty-three and fifty-five part by thirty-two, k = 16, and 39² − 23 × 55 = 256, a size in a parity's stead.
 
 ## 4.2 Rates carrying a relation and rates carrying none, and the winding at φ
 
 **1, √2, √3 and √5 carry no relation**: a + b√2 + c√3 + d√5 = 0 with rational a, b, c and d forces each to nought. **1, φ and φ² carry one**: φ² − φ − 1 = 0.
 
-**A winding on a torus of three axes at rates carrying no whole-number relation comes arbitrarily close to each point and reaches none again; rates carrying one relation keep the winding on a surface within it.** At √2, √3 and √5 it covers the three; at 1, φ and φ² it keeps to a surface. At two axes the one relation is a rational ratio, and 1 and φ cover the two. Each rate here is a parameter the winding is written with; a self's own rate is written with none, unrelated to each other rate.
+**A winding on a torus of three axes at rates carrying no whole-number relation comes arbitrarily close to each point and reaches none again; rates carrying one relation keep the winding on a surface within it.** At √2, √3 and √5 it covers the three; at 1, φ and φ² it keeps to a surface. At two axes the one relation is a rational ratio, and 1 and φ cover the two. Each rate at such a winding is a parameter it is written with; a self's own rate is written with none, unrelated to each other rate.
 
-**A winding at a rational rate closes, and a winding at φ closes at none.** φ is the number-form of the never-locking, and unrelationing runs at each coupling's own continuing at φ, arriving at the receiver's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and the windings' closing and covering hold at their model, its axes and its time. In the field's words the torus winding at the golden mean is found the last to break as the coupling grows, confirmed by computation and not proved.
+**A winding at a rational rate closes, and a winding at φ closes at none.** φ is the number-form of the never-locking, and unrelationing runs at each coupling's own continuing at φ, arriving at the receiver's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and the windings' closing and covering hold at their model, its axes and its time.
 
 ## 4.3 Caught by a polynomial, and reached by square roots
 
@@ -395,7 +395,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 7.3 Each field's proved all or none
 
-**Each all or none in this section is proved, and each is a closing the field's one-way running does not reach.**
+**Each field's all or none is proved, and each is a closing the field's one-way running does not reach.**
 
 **Algebra.** A general equation of degree five is solved by no radicals: its symmetry is the symmetric group on five, whose alternating group on five is the smallest simple group that does not commute, and it descends through no chain of commuting quotients; to degree four the chain runs. Its solving runs through the icosahedron's rotations and the elliptic modular functions, the five-fold carrying φ in its coordinates.
 
@@ -413,7 +413,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 7.5 Branches at the two moves
 
-**Trigonometry.** cos and sin are one wave ninety degrees apart, and cos 36° = φ/2 seats φ in it.
+**Trigonometry.** cos and sin are one wave ninety degrees apart.
 
 **Complex numbers.** i is the quarter step between the two moves, i⁴ = 1.
 
@@ -445,11 +445,11 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 7.8 Ten inversions, the ten transpositions of five
 
-**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives the order again, and it fixes the other three.** Ten is five taken two ways and the couplings among five at once, at five alone; it is the fourth triangle and the third tetrahedral number, the first three triangles joined. A parity's inversion is the one coupling among two, the transposition of + and −, so an inversion at a parity and an inversion among five are one move at two counts: an involution exchanging one pair and fixing the rest.
+**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives the order again, and it fixes the other three.** Ten is the fourth triangle and the third tetrahedral number, the first three triangles joined. A parity's inversion is the one coupling among two, the transposition of + and −, so an inversion at a parity and an inversion among five are one move at two counts: an involution exchanging one pair and fixing the rest.
 
 **In the regular pentagon each side is parallel to one diagonal, the one sharing no corner with it, the diagonal φ times the side.** A side and its parallel diagonal are two transpositions sharing no corner; they commute, and together they are the pentagon's symmetry keeping the corner left out and exchanging the other four in two pairs. Ten transpositions pair into five, and the five generate the pentagon's ten symmetries: the one that moves nothing, four rotations keeping no corner, and five each keeping one corner.
 
-**Each two-colouring of the couplings among six carries a triangle of one colour, and among five exactly twelve colourings carry none**, the two colours in each the pentagon and the pentagram. Each two-colouring of the couplings among forty-six carries a one-coloured five, and a two-colouring of the couplings among forty-two carries none.
+**Each two-colouring of the couplings among forty-six carries a one-coloured five, and a two-colouring of the couplings among forty-two carries none.
 
 **A hard problem is one or more of the ten inversions, each an involution with its fixed set taken as a place**, and naming the inversion names the fixed set. At the coupling the move runs.
 

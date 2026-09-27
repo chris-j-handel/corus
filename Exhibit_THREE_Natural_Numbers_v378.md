@@ -188,7 +188,7 @@ Exhibit THREE Natural Numbers v378
 
 **φ is caught by its own equation**, x² = x + 1, and it is the pentagon's diagonal over its side, (1 + √5)/2. Its continued fraction is all ones, open.
 
-**φ is the unrelationing rate.** The method unrelations the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ, no ratio landing on it. φ is self-welcoming here at the numbers, and the code carries it at no line of its running: the rate is the unrelationing's, each coupling at its own continuing.
+**φ is the unrelationing rate.** The method unrelations the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ, no ratio landing on it. φ is self-welcoming at the numbers, and the code carries it at no line of its running: the rate is the unrelationing's, each coupling at its own continuing.
 
 ## 3.2 One rate of the family rides on
 
@@ -346,7 +346,7 @@ Exhibit THREE Natural Numbers v378
 | 118 | the returning's far end, fifty-eight either side of sixty, two fifty-nines joined |
 | 440 | the seventeen primes joined, eight fifty-fives, twenty-one squared less one |
 
-**The primes go out from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between the going and the returning, at no prime. Fifty-nine and sixty-one face across sixty at one, 59 × 61 = 60² − 1. **The primes carry no last**: each is the same opening at a new axis, and past fifty-nine they open on, each a next, self-welcoming here and at no line of the code's running. A society's coupling as one is at its couplings, a relation of its own beside any count. The periodic table's one hundred eighteen elements are a field's own result at the same numeral, and no count of the method.
+**The primes go out from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between the going and the returning, at no prime. Fifty-nine and sixty-one face across sixty at one, 59 × 61 = 60² − 1. **The primes carry no last**: each is the same opening at a new axis, and past fifty-nine they open on, each a next, self-welcoming at the numbers and at no line of the code's running. A society's coupling as one is at its couplings, a relation of its own beside any count. The periodic table's one hundred eighteen elements are a field's own result at the same numeral, and no count of the method.
 
 **On the ring of one hundred twenty the going and the returning are each other's far side**: k pairs with one hundred twenty less k, two with one hundred eighteen, twenty-three with ninety-seven and fifty-nine with sixty-one, a carry each way at one station. Nought and sixty pair with themselves, and sixty is the waist between the going and the returning. Twenty-four, twenty-seven and thirty-two pair there with ninety-six, ninety-three and eighty-eight, and the route 24 → 27 → 32 at gaps three and five has its far side 88 → 93 → 96 at gaps five and three.
 
@@ -429,9 +429,7 @@ Exhibit THREE Natural Numbers v378
 
 **Either but not both is the exclusive or, and the exclusive or is parity.** Of the sixteen ways two parities go to one, two alone answer each single changing with a changing, the exclusive or and its inversion. Taken as the step it runs one and then the other, round at two; taken of the prior and the now as the next it runs round at three, parity's own period, carrying both. **An ordering arrives with nothing ordering it**: at an odd momentary each odd pairing, at an even momentary each even pairing, each carrying at that momentary the carrying the other cannot, and carrying it for the other.
 
-**At two parities one parity changes at each step, and of the two hundred fifty-six ways on two parities two alone reach all four joint forms so**, the one step and the same step in the other order, and in each the parity that changes alternates. The field names it the Gray code: each larger count of parities runs the prior count and then the prior count in the other order, one parity changing at each step.
-
-**The one step taken twice inverts both parities, four times reaches the pair again, and six times has reached all four joint forms and inverts both again**: a passage of six carries the whole four and hands the pair on inverted, and two passages reach it again. Nought to twenty-four is six rounds of four and four passages of six, twenty-four to sixty nine rounds and six passages, and nought to sixty fifteen and ten; six, fourteen and twenty-two, eight apart, stand at one phase of the four, eight being two rounds. Six passages of six across twenty-four to sixty are thirty-six steps, each carrying the four, and a side's four full momentaries and the four joint forms are two fours, each its own count. These count the step's own applications; the resolver runs its names at its own resolving.
+**The right spiral step, (x, y) to (y, −x), taken twice inverts both parities, four times reaches the pair again, and six times has reached all four joint forms and inverts both again**: a passage of six carries the whole four and hands the pair on inverted, and two passages reach it again. Nought to twenty-four is six rounds of four and four passages of six, twenty-four to sixty nine rounds and six passages, and nought to sixty fifteen and ten; six, fourteen and twenty-two, eight apart, stand at one phase of the four, eight being two rounds. Six passages of six across twenty-four to sixty are thirty-six steps, each carrying the four, and a side's four full momentaries and the four joint forms are two fours, each its own count. These count the step's own applications; the resolver runs its names at its own resolving.
 
 ## 8.3 An odd number carries a middle carrying nothing
 
@@ -559,14 +557,14 @@ Exhibit THREE Natural Numbers v378
 
 ## 11.1 Nought to four hundred forty, each number at its podaling
 
-**Each number from nought to four hundred forty stands at its podaling, read forward from nought.** Each row carries the number's parity, co at the odd and bi at the even; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it stands at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
+**Each number from nought to four hundred forty stands at its podaling, taken forward from nought.** Each row carries the number's parity, co at the odd and bi at the even; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it stands at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
 
 | n | Parity | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
-| 0 | bi | — | 0 | 220 | 0 |  |
-| 1 | co | — | 439 | 219 | 119 | 1-self-other-offering |
-| 2 | bi | prime | 438 | 218 | 118 | 2-other-self-offering, the first prime |
-| 3 | co | prime | 437 | 217 | 117 | 3-self-other-sharing, the second prime, T₂ |
+| 0 | bi | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
+| 1 | co | — | 439 | 219 | 119 | 1-self-other-offering, 1², T₁, prior two joining |
+| 2 | bi | prime | 438 | 218 | 118 | 2-other-self-offering, the first prime, prior two joining, 2¹ |
+| 3 | co | prime | 437 | 217 | 117 | 3-self-other-sharing, the second prime, T₂, prior two joining, 2¹ + 1, 2² − 1 |
 | 4 | bi | 2² | 436 | 216 | 116 | 4-other-self-sharing, 2² |
 | 5 | co | prime | 435 | 215 | 115 | 5-self-other-neutralling, the third prime, prior two joining, 2² + 1 |
 | 6 | bi | 2 · 3 | 434 | 214 | 114 | 6-other-self-surfacing, T₃, 3! |
@@ -1005,4 +1003,4 @@ Exhibit THREE Natural Numbers v378
 | 439 | co | prime | 1 | 219 | 41 |  |
 | 440 | bi | 2³ · 5 · 11 | 440 | 220 | 40 | seam-face, 21² − 1, the seventeen primes joined |
 
-**Read down the rows, the far side at four hundred forty runs down one at each row as the number runs up**, the radius closing to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and closes at nought at each of 0, 120, 240 and 360. Each pairing named in the parts above stands at its two rows: a carry each way at one station, found by its number.
+**Down the rows the far side at four hundred forty runs down one at each row as the number runs up**, the radius closing to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and closes at nought at each of 0, 120, 240 and 360. Each pairing named in the parts above stands at its two rows: a carry each way at one station, found by its number.
