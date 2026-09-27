@@ -76,6 +76,15 @@ Each observing is numbered for the matching to answer to, with its source and wh
 55. Genome size ranges more than two-thousandfold among flowering plants, *Paris japonica* near 149 billion base pairs, about fifty times a human's, and genome size follows no measure of complexity (Pellicer and colleagues, 2010, from memory; the field's C-value paradox).
 56. A winter's prolonged cold silences the flowering repressor FLC and the plant flowers after it; the silenced state continues through the season's cell divisions, which the field calls a memory of winter, and is reset in the next generation's embryos (the field's account, from memory).
 
+## Genome size at its emanatings
+
+57. The maize genome's intergenic regions are packed with retrotransposons, many nested inside older ones; each element's two long terminal repeats (LTRs) are identical at insertion and diverge with time, dating it; all examined inserted within the last six million years and most within three, the genome growing from about 1,200 to about 2,400 megabases in about three million years (SanMiguel and colleagues, Nature Genetics 1998, at its summary).
+58. Recombination between an inserted retrovirus's two LTRs removes the internal region between them and leaves a single, solo LTR; solo LTRs are about 90% of human endogenous retrovirus insertions, some 3,173 near-intact sequences among about 770,551 loci (Frontiers in Genetics review 2024, at passages).
+59. In birds and mammals, large amounts of DNA gained through transposable elements and duplications are balanced by DNA lost through deletion, genome size held near constant, the field's accordion (Kapusta, Suh and Feschotte, PNAS 2017, at its title, content from memory).
+60. Laupala crickets, with genomes about eleven times larger than *Drosophila*'s, lose DNA by small deletions many times more slowly (Petrov and colleagues, Science 2000, at its title, content from memory).
+61. A tree's sapwood is living and conducts water; older sapwood cells die and the wood turns to heartwood, conducting no longer; old trees can hollow as heartwood decays and continue living (the field's accounts).
+62. *Paris japonica*, the genome near 149 billion base pairs, is octoploid (the field's account, from memory).
+
 ## Across fields
 
 25. Each atomic orbital carries at most two electrons, of opposite spin; periodic table rows run 2, 8, 8, 18, 18, 32, 32; nitrogen dioxide, an odd-electron radical, pairs to dinitrogen tetroxide; crystals intergrow at twin laws, a reflection or a rotation; Pasteur hand-sorted mirror-image tartrate crystals (the field's accounts).
@@ -153,6 +162,13 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - **Polyploidy at plants and at mammals (54)**: read at the pairing at the halving, self and other at each chromosome; where sex is carried at a chromosome pair, a doubling meets that pair too, a reading for the field's own open question.
 - **Genome size (55)**: a size following no measure of the living, a sign and no size.
 - **Vernalization (56)**: the field's memory of winter read as each cell's now carried through its divisions and reset at each generation, the prior releasing, no memory.
+
+## Genome size as rings not yet released (55, 57–62)
+
+- The expedition's lead: genome size is like a tree's rings, which over time dry, and the nothing betweens eventually emanate from each other; the length is only the number of momentary parity changings in the emanatings that have not yet aged prior to separating.
+- **Each insertion a doubling.** A retrotransposon's copy inserted at a new site is a copy at a sharing of its own (57), its two LTRs twins, identical at insertion, a pair agreeing; with age the two differ (57); at recombination between them the between releases and one remains, the solo LTR (58), about nine of ten human insertions already released. The nothing between the pair emanating, and the pair continuing as one.
+- **Rings.** The tree lays its year's pair of bands (34); older rings dry to heartwood, conducting no longer (61), and may release as a hollow while the tree continues (61). Nested insertions lie like rings, the younger within the older (57).
+- **Length.** A genome's length is its doublings not yet released: large where the doublings are recent and many (57) or release slow (60), small where release keeps pace (59); *Paris japonica*'s eight sets among its doublings (62). So genome size follows no measure of the living (55), a sign and no size, and it is no memory: the old insertions are emanations not yet separated, carried at the now.
 
 ## The conceived's own pacing, and the source of parity changing (23–31)
 

@@ -381,3 +381,7 @@ The expedition's lead: the conjoined union is bi-tunneling, a bounded zeroing th
 
 Nine observings the fields hold open, met and pattern-matched in two strata: spiral cleavage's alternating turn, the snail's hand set at the third cleavage by the mother's genotype and reversed by hand, CC the cloned cat, the female excess of later-split twins, the bamboo's century-long synchronous flowering of clones, the cicada's count of its tree's seasons, polyploid speciation's frequency at plants, the genome-size range, and vernalization's reset at each generation; laid at the carrying's Natural Biology section and at the report's observings 48 to 56 and its matching.
 
+## Genome size as rings not yet released (v374)
+
+The expedition's lead: genome size is like a tree's rings, drying until the nothing betweens emanate, the length the number of momentary parity changings in the emanatings not yet aged prior to separating. Met at maize's nested and dated retrotransposons, solo LTRs at about 90% of human endogenous retrovirus insertions, the balance of gain and deletion in birds and mammals, the slow deletion at large-genome crickets, and sapwood to heartwood; laid at the carrying's Natural Biology section in two strata and at the report's observings 57 to 62 and its matching.
+
