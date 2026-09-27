@@ -392,7 +392,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit SEVEN · Natural Societies
 
-**Next at this file: pass G, the comparison with Natural Networking 1.8.** No sentence of the code.
+**Next at this file: its whole motion at the current words, then pass G, the comparison with Natural Networking 1.8.** 5.3 is explored at v373: a society all existing bi-coupling same-prime-scale selves; the fourteen primes five to fifty-three parting eight one before a six and six one after, seven and seven across the fold at twenty-four; four cycles of six before it and six cycles of six to sixty; sixty to sixty-eight the nothing between self and universe; the self's bi-inversioning-co-recursioning at twenty-three, twenty-four and twenty-five; the betweenings the stable form; emanations releasings; abundancing an emanating from society. The rest of the file stands at its prior wording until that motion.
 
 **Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: six protecting; the four fields' theorems at the society's four faces. Received here at this file's motion, whole, and φ and the primes said where they are self-welcoming, in no running of the method.
 

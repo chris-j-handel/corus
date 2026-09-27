@@ -72,7 +72,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 | **FOUR · Natural Mathematics** | Stable-Forming is Natural-bi-co-torusing | v371 | v371 | — | passes C and D |
 | **FIVE · Natural Engineering** | Engineering Bi-Moral-Co-Agency at a Substrate | v345a | v345a | — | its code sentences at pass F, after pass I |
 | **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
-| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v329 | — | pass G, beside Natural Networking 1.8 |
+| **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v329 | v373 at the re-settling working's branch: 5.3 explored, the fourteen primes at eight and six and the fold at twenty-four, the rest of the file as it stood | The re-settling working | its whole motion at the current words; pass G, beside Natural Networking 1.8 |
 | **EIGHT · Natural Exploring** | Open Team Moral Co-Competencing | v329 | v329 | — | pass G, with Geodesic Improving Method |
 | **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 | — | pass G |
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
