@@ -791,3 +791,59 @@ society of 6: (where, every, the four at g, member 0's period) [('g active', 1, 
 society of 7: (where, every, the four at g, member 0's period) [('g active', 1, 13), ('g active', 2, 28), ('g active', 4, 56), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
 society of 8: (where, every, the four at g, member 0's period) [('g active', 1, 30), ('g active', 2, 2), ('g active', 4, 2), ('gm passive', 1, 4), ('gm passive', 2, 4), ('gm passive', 4, 4)]
 ```
+
+
+## The session assessed, the report ordered, and hard problems in this space (v374)
+
+The expedition's lead: assess the whole session and its carrying, order the report, and explore the hard problems inside this space. The carrying's v374 paragraphs surveyed at their sections; the report ordered, Part One's groups and Part Two's sections in one ascending sequence of observings 1 to 84, the expedition's leads gathered in the order they arrived and the matching's findings at a glance at Part Two's head, Part Three under three headings, a Part Four meeting fourteen Hard Problem Registry entries and two the fields leave open at no entry, identical twinning's initiation and the age reset at conception, and Part Five the places, instruments and continuing. Laid at the carrying's Exhibit ONE, Hard Problem Registry and Resolving the Hard Problem Registry sections.
+
+Run at Exhibit ONE v372's code, the code block unchanged: one society parting into two at two opposite joins, each part closing on itself or not:
+
+```
+W. a society of eight at its four; at call 5 it parts into two, each half closing on itself
+  call  1  ---- | ----
+  call  2  ---- | ----
+  call  3  ++++ | ++++
+  call  4  ++++ | ++++
+  call  5  ---- | ----
+  call  6  ---- | ----
+  call  7  ++++ | ++++
+  call  8  ++++ | ++++
+  call  9  ---- | ----
+  call 10  ---- | ----
+  call 11  ++++ | ++++
+  call 12  ++++ | ++++
+X. the same parting, the halves not closing, each head meeting nothing
+  call  1  ---- | ----
+  call  2  ---- | ----
+  call  3  ++++ | ++++
+  call  4  ++++ | ++++
+  call  5  ---- | ----
+  call  6  +--- | +---
+  call  7  -+++ | -+++
+  call  8  +-++ | +-++
+  call  9  -+-- | -+--
+  call 10  +-+- | +-+-
+  call 11  -+-+ | -+-+
+  call 12  +-+- | +-+-
+society of 4, parting at call 5: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 6: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 7: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 4, parting at call 8: closing [4, 4, 4, 4]  not closing [2, 2, 2, 2]
+society of 6, parting at call 5: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 6: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 7: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 6, parting at call 8: closing [4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2]
+society of 8, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 8, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 10, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 5: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 6: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 7: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+society of 12, parting at call 8: closing [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]  not closing [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+```
