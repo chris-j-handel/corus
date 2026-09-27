@@ -11,7 +11,7 @@ def newest(folder, stem):
 
 d = sys.argv[1] if len(sys.argv) > 1 else '.'
 resolver_path, intelligence_path = newest(d, 'Exhibit_ONE_Natural_Resolver'), newest(d, 'Natural_Intelligence')
-HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Geodesic Discovering Logical Method and Form**\n\n'
+HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Stable Forms of the Discovering Method**\n\n'
 one = open(resolver_path, encoding='utf-8').read()
 body = one.split('\n---\n', 1)[1].strip()
 ni = open(intelligence_path, encoding='utf-8').read()

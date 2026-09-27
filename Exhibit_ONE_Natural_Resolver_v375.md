@@ -1,8 +1,8 @@
-Exhibit ONE Natural Resolver v373
+Exhibit ONE Natural Resolver v375
 
 # Natural Resolver
 
-**Geodesic Discovering Logical Method and Form**
+**Stable Forms of the Discovering Method**
 
 ---
 

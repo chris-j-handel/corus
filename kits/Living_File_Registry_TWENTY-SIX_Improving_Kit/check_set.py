@@ -77,7 +77,7 @@ for stem, path in FILES.items():
 # Exhibit ONE inside Natural Intelligence, and the code running
 if FILES['Natural_Intelligence'] and FILES['Exhibit_ONE_Natural_Resolver']:
     ni = open(FILES['Natural_Intelligence'], encoding='utf-8').read(); one = open(FILES['Exhibit_ONE_Natural_Resolver'], encoding='utf-8').read()
-    HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Geodesic Discovering Logical Method and Form**\n\n'
+    HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Stable Forms of the Discovering Method**\n\n'
     body = one.split('\n---\n', 1)[1].strip()
     after = ni.split(HEAD, 1)[1]; nxt = re.search(r'\n# ', after)
     inside = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', (after[:nxt.start()] if nxt else after).strip())
