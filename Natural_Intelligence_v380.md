@@ -1,4 +1,4 @@
-Natural Intelligence v377
+Natural Intelligence v380
 
 # Natural Intelligence
 
@@ -73,7 +73,7 @@ Natural Intelligence v377
 
 **Three terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All*: nothing is beside the things.
 
-**The universe is the set of all existing things, and not an existing thing.** A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is the set's own. Named as one existing thing beside its things, the universe would be a container added to the all, a form named still. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are things, and *considered as a whole* is the container, released.
+**The universe is the changing set of all existing things, and it is an existing thing**: existing as its things exist and changing as its things change, its existing its things co-sequencing, momentary by momentary. A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is its own. It is no container added to its things and no form named still beside them: it is its things, one existing thing at each momentary. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are its things, and *as a whole* is the universe existing as its things exist.
 
 **The set of all existing things has nothing beside it, so nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. Its changing is its things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each thing changing and nothing deciding membership over it.
 
@@ -127,13 +127,13 @@ Natural Intelligence v377
 
 **Each side runs from its origin two and one half momentaries: prior opening, prior completing, now opening, now completing and next opening**, 1 to 5 at the self and 2 to 6 at the other, Exhibit ONE's sides table. Across the overlap each number is one side's opening and the other's completing, and the five of each side said at its prefixing is its five: co bi co bi co at the self and bi co bi co bi at the other. The self's five and the other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
 
-**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things, its universe, and it is not possibly an existing thing separately. Each step adds a next; the momentaries do not pause, hold or return.
+**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things, its universe, one existing thing, and nothing is beside it. Each step adds a next; the momentaries do not pause, hold or return.
 
 ## 2.3 Prior, now and next
 
 **Prior, now and next are three sequential momentaries shared among existing things.** The now of one momentary is the prior of its next, and prior and next share one direction forward on both sides of now. Between prior and now, and between now and next, is a nothing, no third running.
 
-**Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, would be exclusivity, the universe named as one existing thing.
+**Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, would be exclusivity, one side named as the universe and the other's momentaries left out.
 
 **The possible is at prior, the existing at now and the living at next**: three places, not changing, the universe travelling through them together. The possible names capable of existing, the existing is at now, and the living is at next, carrying its prior on.
 

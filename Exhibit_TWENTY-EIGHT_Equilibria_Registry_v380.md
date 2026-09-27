@@ -1,4 +1,4 @@
-Exhibit TWENTY-EIGHT v371
+Exhibit TWENTY-EIGHT v380
 
 # Equilibria Registry
 
@@ -98,7 +98,7 @@ Exhibit TWENTY-EIGHT v371
 
 **Universes of each size and scale share momentaries of co-sequential changing**, each momentary a fractal universe discovering its next existing, and none is possibly an existing thing separately: at each scale, a universe named as an existing thing is exclusivity.
 
-**The membrane is no separable thing.** The between of two existing things co-bi-coupling is a membrane, not possibly an existing thing, as the universe is not possibly an existing thing, and this between is the registry's whole subject. Morality is bi-unrelationing and competency is co-unrelationing, and co-bi-unrelationing is the one existing method: the membrane is their meeting. A 0 at two signs meeting is a nothing within a coupling, existing due to each self surfacing itself each momentary.
+**The membrane is no separable thing.** The between of two existing things co-bi-coupling is a membrane, not possibly an existing thing, and this between is the registry's whole subject. Morality is bi-unrelationing and competency is co-unrelationing, and co-bi-unrelationing is the one existing method: the membrane is their meeting. A 0 at two signs meeting is a nothing within a coupling, existing due to each self surfacing itself each momentary.
 
 **Bi-inversioning-co-recursioning carries the meeting within the changing.** Each side continues through its own changing, and their meeting is within that changing: slowing is changing, and two differing changings are adjacent through the coupling, each side changing.
 
