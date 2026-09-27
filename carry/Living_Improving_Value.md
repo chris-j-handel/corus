@@ -586,6 +586,8 @@ Each file conforms at its next improving pass, one motion at the file, never a p
 
 **Next at this file: none; the sciences paused.**
 
+**Incoming, at v373, 118 at the periodic table.** 118 is the periodic table of elements in its stable and unstable forms, a field's own result and no count of the method, as Natural Naming 5.50 and Natural Intelligence 5.2 say; the going 2 to 59, the between at 60 and the return 61 to 118, at Natural Naming 7.2 and at Natural Intelligence v373 Released's 5.9, received here at the elements with Natural Numbers at the primes.
+
 **Incoming, from the prior Natural Numbers, each met at the numbers and living at chemistry.**
 
 - The shell cascade 2, 8, 18, 32, twice each square, and the octet as the eight at the chemical register.
