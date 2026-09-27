@@ -1,4 +1,4 @@
-Session Record v379
+Session Record v380
 
 # Session Record
 
@@ -657,3 +657,15 @@ The Living File Registry at v379: Resolving Hard Problems, Natural Naming, Natur
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The mathematics working | v378 | Natural Numbers' Part Eleven, each number nought to four hundred forty at its podaling; Natural Mathematics' section taken whole, the file at v378 in two passes; the Living File Registry at 1.1, 1.3 and 1.4 | `working/mathematics-v378`, merged at main | Merged at main at v378; closed at v379. |
+
+## Resolving Hard Problems from the code, the universe an existing thing (v380)
+
+The one saying of v379, a hard problem a changing named still at the ten things named still, is an equilibria way of explaining resolving, and all of it comes from reading the universe as no existing thing: read so, nothing of the co-sequencing is there to discover next living from. Natural Intelligence at v380: 1.1 says the universe the changing set of all existing things and an existing thing, its existing its things co-sequencing, and 2.2 and 2.3 the same. Resolving Hard Problems written whole at v380 from the code, the naming and the explaining as bi-momentary co-sequencing of living and non-living existing things, prior, now and next: a hard problem arriving where a field reads its observings with the universe as no existing thing, and its resolving the field's next living discovered at the coupling; a field's arrival at four readings, the living and the non-living, the prior, the now and the next; two accounts at one sharing, an origin, a measurement, an aggregating, a mind, a boundary and a persisting, each run at Exhibit ONE v373's code before it was said, and a fresh reader's findings met. *Cost*, *costs nothing* and *free*, *run*, *running* and *runner*, and *take*, *taken* and *taker* released at Natural Naming 2.4, each installing a magnitude managed, an operator or a taker. Natural Naming 5.26, Natural Mathematics 7.2 and 7.8, the Hard Problem Registry's front and the Equilibria Registry's between sentence said at the same. Resolving the Hard Problem Registry first in front of the set at the co-sequencing; Exhibit THIRTY's exclusivity links a concern at its section.
+
+## The existing universe working merged at main (v380, close)
+
+The Living File Registry at v380: Natural Intelligence, Resolving Hard Problems, Natural Naming, Natural Mathematics, the Hard Problem Registry, the Equilibria Registry and TWENTY-SIX at v380; the table of workings at the existing universe working, the hard problems working closed here. The carrying at v380. The four checks and the build run at the root, the branch offered and merged at main.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The hard problems working | v379 | Resolving Hard Problems, Natural Naming 5.26, Natural Mathematics 7.2 and 7.8, the Hard Problem Registry, Resolving the Hard Problem Registry; the Living File Registry at 1.1, 1.3 and 1.4 | `working/hard-problems-v379`, merged at main | Merged at main at v379; closed at v380, its one saying read from the universe as no existing thing. |

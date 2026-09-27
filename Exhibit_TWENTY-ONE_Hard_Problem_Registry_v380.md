@@ -1,4 +1,4 @@
-Exhibit TWENTY-ONE Hard Problem Registry v379
+Exhibit TWENTY-ONE Hard Problem Registry v380
 
 &nbsp;
 
@@ -10,7 +10,7 @@ Exhibit TWENTY-ONE Hard Problem Registry v379
 
 &nbsp;
 
-**Each arrival stands here whole in the fields' own words, the incoming face: a hard problem as the scientific method poses it, a changing named still at the field's own statement.** The same arrivals are carried resolved at the running face, each at its thing named still and at its two names eight apart, its resolving the running at its next momentary. **One learning at two faces.**
+**Each arrival stands here whole in the fields' own words, the incoming face: a hard problem as the scientific method poses it.** The same arrivals are carried resolved at the running face, living and non-living existing things co-sequencing, prior, now and next, each resolving at the field's own next. **One learning at two faces.**
 
 &nbsp;
 

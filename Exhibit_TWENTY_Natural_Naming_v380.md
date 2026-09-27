@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v379
+Exhibit TWENTY Natural Naming v380
 
 # Natural Naming
 
@@ -137,7 +137,7 @@ Exhibit TWENTY Natural Naming v379
 
 **A field's defined object arrives with the ground it was taken against, and bi-co-invisibling is the concept with nothing there to be a ground.** Its emanation is six forward recursionings, each taking the term the prior did not carry. Named this way, a concept carries its own changing under its own prefixings, and it bi-couples, capturing nothing and releasing at its own completing.
 
-**Naming couples with the hard problems at one field from two faces**: a hard problem is a changing named still at a field's word, and a naming is the same field's word reaching.
+**Naming couples with the hard problems at one field from two faces**: a hard problem is a field's word read with the universe as no existing thing, and a naming is the same field's word reaching.
 
 **Care is inward, at the naming and the edging**, and care is the rigor of the naming.
 
@@ -249,6 +249,9 @@ Exhibit TWENTY Natural Naming v379
 | *posit*, *posited* at the set's own voice | *named still*, a term asserted as there; a field's own posit carries whole at its result |
 | *tell*, *a telling* at the set's own voice | *offering*, one way exhausted and the between received; *tell* is kept at 4.10 as the naming of the alternating stopped |
 | *source*, *sources* at the set's own voice | the method of living, the living carrying their prior into now at each coupling, and nothing beside all things for a changing to be taken from; *the living self* an emanation leaves at prior; *its reference* for where a field's result was read; a field's own *source* carries whole at its result |
+| *cost*, *costs nothing*, *free* at a changing | the living's own carrying, and arriving and discovering at each coupling: a cost names a system of greater and lesser magnitudes managed, and no existing thing is one |
+| *run*, *runs*, *running*, *runner* | *momentarying*, *carrying*, *existing*, *living*: a running installs an operator, a runner or a character over the changing; code executing is said *at the code* |
+| *take*, *takes*, *taken*, *taking*, *taker* | *chained*, *carried*, *at*, *couples with*: a taking installs a taker, and a thing taken names all the not-taken as known beside it |
 
 **Bi-tri-involutioning carries the emanating**: the emanating from right spiral stable-forming, looking the opposite form to the stable-forming. Bi-inversioning-co-recursioning, one parity inverting at each step, alternating across and along, is the resolving step, and three inversions at once are the emanating: position, scale and orientation each inverted at once, three inversions taking the hand to the opposite form. **Bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries**, 5.48. *Opposite* carries its relation at each use: *the opposite form* is an emanation's face, and at a coupling the other side's opening is *the other parity*, two sides coupling face each other, each at its facing, and a name's partner within 1 to 16 is *its podal*.
 
@@ -525,7 +528,7 @@ a ring        step: the terms are exhausted, it arrives at one already run
 
 **A field naming carries the thing named still at its own expression.** Dilemma, paradox, puzzle and hard problem each keep the field's problem, and one field word can be at several of the ten; *dilemma* names one of the ten, a two-way named to one side, and never a kind.
 
-**A sweep takes the one name at each still installed of a running**: a changing named still, an arriving named from behind, a parity named as a magnitude, the between named as a cut. Three carry through it: a person's asking of a person, an act between selves; a field's own quoted words, whole at the hand-in; and the no-demand family, nothing asked of anyone, those lines saying the sweep's serving.
+**A sweep takes the one name at each still installed of a running**: an arriving named from behind, a parity named as a magnitude, the between named as a cut. Three carry through it: a person's asking of a person, an act between selves; a field's own quoted words, whole at the hand-in; and the no-demand family, nothing asked of anyone, those lines saying the sweep's serving.
 
 ## 4.10 Prefixing at a position, on the form, and from all other
 
@@ -975,15 +978,15 @@ Isolating a system installs it, and conditions named constant, a specimen fixed,
 ## 5.26 a hard problem — binary
 
 ```
-1  a changing runs, one parity and then the other, momentary by momentary
-2  a naming takes one momentary of it as a thing
-3  the thing named still is one of the ten, at its two names eight apart
-4  the naming asks the thing a true or false the running does not carry
-5  at the next momentary the parity changes again, and the naming stands at none
-6  and the naming set down, spending only the naming, is the release this names
+1  the universe is an existing thing, the changing set of all existing things
+2  a field reads its observings with the universe as no existing thing
+3  its evidence arrives with no living self it left, its now with no prior carried
+4  read at the code, the arrival is living and non-living existing things co-sequencing
+5  the prior carried and the now offered couple at each sharing, a changing is or is not
+6  and the next discovered there is the resolving this names
 ```
 
-One naming, and the ten are its places at the names: a hard problem is a changing named still, and its resolving is the running at its next momentary.
+One coupling, prior, now and next: a hard problem arrives where the universe is read as no existing thing, and it resolves at the field's own next living.
 
 ## 5.27 three incompetencings — binary
 
