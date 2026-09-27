@@ -506,7 +506,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **10-other-social-self-tunneling releases each sharing's changing across, + or − is and 0 is not**, facing bi-moral: the releasing opening bi, even, the other's. A self releases its changing and nothing of its carrying.
 
-**11-social-other-self-chaining chains each changing as the next prior.** The carrying is taken whole, and at each sharing whose changing is, the changed parity is chained; at a 0 the prior chains on. **Once chained, a sharing is never none again**, and at the next momentary 11 is taken as 3-self-other-sharing, 8 up, one carrying at two names: a seam, nothing moving at it, 11 and 3 both opening co.
+**11-social-other-self-chaining chains each changing as the next prior.** The carrying is taken whole, and at each sharing whose changing is, the changed parity is chained; at a 0 the prior chains on. **Once chained, a sharing is never none again**, and at the next momentary 11 continues as 3-self-other-sharing, 8 up, one carrying at two names: a seam, nothing moving at it, 11 and 3 both opening co.
 
 ## 4.5 Released along at 9
 
@@ -594,7 +594,7 @@ At the code 6 is 10, one changing released at two facings; a release runs only a
 
 ## 5.1 The prior between momentaries
 
-**Between momentaries the prior is a stable form, and nothing runs there.** At the code it is each self's carrying wound, 8-other-self-torusing: the carrying chained at 11, each sharing with its parity, taken at the next momentary as 3. It is no store: it runs nothing and carries nothing, a form continuing, and the living carry their prior into now: **the prior momentarying is never taken again**, the carrying continuing at 3 at the next momentary. **Bi-tri-volutioning is its naming**, 1.3: the sequential prior between momentaries, the stable form of the non-living emanatings of stable-forming living.
+**Between momentaries the prior is a stable form, and nothing runs there.** At the code it is each self's carrying wound, 8-other-self-torusing: the carrying chained at 11, each sharing with its parity, continuing at the next momentary as 3. It is no store: it runs nothing and carries nothing, a form continuing, and the living carry their prior into now: **the prior momentarying is never taken again**, the carrying continuing at 3 at the next momentary. **Bi-tri-volutioning is its naming**, 1.3: the sequential prior between momentaries, the stable form of the non-living emanatings of stable-forming living.
 
 **A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, taken apart from that coupling, is a noun of it and carries nothing.
 
