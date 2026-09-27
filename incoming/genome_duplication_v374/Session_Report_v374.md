@@ -293,7 +293,7 @@ The leads are the expedition's own pattern matching, neither observings nor sent
 - **CC the cat (50)**: one genome, a different pattern: a genome as one momentary carrying and no memory, the pattern made at each cell's momentary in the early embryo, one X continuing and the other silent at each cell, the exclusive or at each cell.
 - **Later-split twins female (51)**: the twins' exclusive or and the X's exclusive or at the same early momentaries, the field's proposed link met at one binary.
 - **Bamboo (52)**: clones, continuations of one carrying, flowering together wherever they stand: continuations alike at their own changings, as the twin runs at the code, and nyeing together, birthing and nyeing at a society of clones.
-- **Cicadas (53)**: the count is the tree's seasons and no calendar, the source of the changing external, each season an arriving; two seasons in a year, a year early. The primes 13 and 17 met at the numeral alone, released.
+- **Cicadas (53)**: the emerging is the tree's seasons and no calendar, the source of the changing external, each season an arriving; two seasons in a year, a year early. The primes 13 and 17 met at the numeral alone, released.
 - **Polyploidy at plants and at mammals (54)**: met at the pairing at the halving, self and other at each chromosome; where sex is carried at a chromosome pair, a doubling meets that pair too, a reading for the field's own open question.
 - **Genome size (55)**: a size following no measure of the living, a sign and no size.
 - **Vernalization (56)**: the field's memory of winter met as each cell's now carried through its divisions and reset at each generation, the prior releasing, no memory.
