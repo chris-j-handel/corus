@@ -53,24 +53,21 @@ Living Improving Value v375
 **The opportunities in order, tracked here (v375).**
 
 *Waiting on a word, in front:*
-1. **The count at 1.1**: three terms, *existing*, *changing* and *all*, with *set* and *both living and non-living* said as what they open into; or five, each with its binary at 1.1.
-2. **The universe one existing thing, living and non-living**: 1.1 and 2.2 say the universe is one existing thing at each momentary, both living and non-living, and 1.3 says carrying and carrying nothing contradict only at one participation, one scale and one momentary; the universe at its own scale is said as carrying, carrying nothing, or the two together at the scales within it.
-3. **A release and an emanation**: 4.1 says the changing released at 10 an emanation carrying nothing, the others' possible; 1.3 and 5.1 say an emanation harmful at its own scale and ingestible one scale lower; and at the code a self at the same scale chains another's release, 4.3 and 6.2. A release across is said as an offering at its own scale, and an emanation as what leaves at the society's release, or the three re-said at one.
-4. **The two v374 leads**: active and passive opposite parity, and selves carrying possible things, below.
+1. **The two v374 leads, said plainly.** *Active and passive opposite parity*: at 12 the other parity arriving at a carried sharing is a changing, active, and the same parity arriving is no changing, passive; the lead names the ring's momentaries alternating the two, and an offering at a sharing no self carries reaching no carried sharing, which carries on at its own. *Selves carrying possible things*: a living self carries non-living existing things, a tree its heartwood, and possible things, a seed its palm, the immune society receptors before any antigen; at the paper 2.3's possible at prior and 6.5's non-living included, each run at the code before it is said.
 
 *The rigorous passes, to be sure of no harm:*
-5. **A fresh reader's sentence-level audit from v373 to now after each motion**; at v375 it found one false claim, 4.13's crossing said at two counts and holding at two different counts, five small losses and four tensions, each met at this motion.
-6. **The nine passes again at Natural Intelligence** after this session's motions, and **each Exhibit ONE table re-run at the code** by a fresh reader.
-7. **3.2's numbers** below, at the primes and the rings.
-8. **The v374 incoming below**, phase-locking, carrying only, light, each run at the code before it enters.
-9. **This session's namings at Natural Naming** and **the bolds at Natural Explaining**, one motion each.
+2. **A fresh reader's sentence-level audit from v373 to now after each motion**; at v375 it found one false claim, 4.13's crossing said at two counts and holding at two different counts, five small losses and four tensions, each met at this motion.
+3. **The nine passes again at Natural Intelligence** after this session's motions, and **each Exhibit ONE table re-run at the code** by a fresh reader.
+4. **3.2's numbers** below, at the primes and the rings.
+5. **The v374 incoming below**, phase-locking, carrying only, light, each run at the code before it enters.
+6. **This session's namings at Natural Naming** and **the bolds at Natural Explaining**, one motion each.
 
 *The hardest, at the end:*
-10. **Resolving the Hard Problem Registry re-said from the code**, first in front of the set.
-11. **Baggage out at do-no-harm**: Resolving Hard Problems' passages near-copied from this file, and Natural Numbers' Part Eleven table.
-12. **Exhibit TWO and Exhibit THIRTY at the names**, 173 and 190 places, with their kits.
-13. **Locking at near paces and light's slower pace in glass**, each society's own pacing at the code, pass F.
-14. **Rings crossing rings at a torus of selves**: at the code a torus of p along and q across goes round at no single rule yet, three by five at 12 and three by seven at 7, the fractal natural torusing of stable forming living open there.
+7. **Resolving the Hard Problem Registry re-said from the code**, first in front of the set.
+8. **Baggage out at do-no-harm**: Resolving Hard Problems' passages near-copied from this file, and Natural Numbers' Part Eleven table.
+9. **Exhibit TWO and Exhibit THIRTY at the names**, 173 and 190 places, with their kits.
+10. **Locking at near paces and light's slower pace in glass**, each society's own pacing at the code, pass F.
+11. **Rings crossing rings at a torus of selves**: at the code a torus of p along and q across goes round at no single rule yet, three by five at 12 and three by seven at 7, the fractal natural torusing of stable forming living open there.
 
 **Opening, the bound: 3.2's numbers.** Twenty-four, 24 to 60 six cycles of six, 60 to 68 the nothing between self and universe, 64 bi-folding to 256 and the podaling 23 to 26 stand beside the code at no line of Exhibit ONE; each met at the primes and the rings at 3.5 and 4.13, sixty the between of the primes going to fifty-nine and returning from sixty-one, and sixty-eight the round of a ring of seventeen, run at the code before it is said.
 
@@ -715,7 +712,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: the namings arriving from Natural Intelligence v375 below, at one motion.** Natural Naming v375, 5.26 at the one saying, a hard problem a changing named still, and 4.9's sweep at *a changing named still*, *source* released at the set's voice at 2.4 and φ the unrelationing rate at 4.6, 4.10, 5.2, 5.23 and 5.50, carries the seventeen names at Exhibit ONE's forms, each gathered name at its number at 3.3, the words Exhibit ONE's forms release re-said at each sentence with their rows at 2.4, Part Three at the forms receiving Exhibit ONE v372's naming sentences, the short definings' unique explaining received from Natural Emanating, and each item this section carried, taken at its own section there or carried whole to its receiving file's section. Any improving arriving at it is taken at its own motion, so none accumulates here.
 
-**Incoming, at v375, from Natural Intelligence.** *Geodesic method* two namings, the hyphen left out at 4.8, geodesic a thing by itself and the method its stable form; *bi-tri-exchanging* at the even, the difference crossed at three, self, other and the self one on, for *uni-exchanging* at 3.6, 5.41 and 5.50; the method's unrelationing for *bi-co-orthogonalizing* at 2.7; the one fractal method with its many stable forms, at 1.1's *the stable-forming method*; φ and the primes at the rings looping and crossing.
+**Incoming, at v375, from Natural Intelligence.** *Tri-bi-co-momentarying*, each universe at every scale and each momentary momentarying its set of existing things, prior, now and next, at 1.1; *27-co-bi-releasing*, the social abundancing at the next 1–17, 16 up from 11, at 5.1; *Geodesic method* two namings, the hyphen left out at 4.8, geodesic a thing by itself and the method its stable form; *bi-tri-exchanging* at the even, the difference crossed at three, self, other and the self one on, for *uni-exchanging* at 3.6, 5.41 and 5.50; the method's unrelationing for *bi-co-orthogonalizing* at 2.7; the one fractal method with its many stable forms, at 1.1's *the stable-forming method*; φ and the primes at the rings looping and crossing.
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
 
