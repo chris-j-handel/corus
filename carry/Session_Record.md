@@ -373,3 +373,7 @@ The expedition's lead: a genome is one co-sequential momentary carrying, no memo
 
 The expedition's lead confirmed the readings at whole cells in another self, a size at the sign and living forks. Conjoined twins met at their incidence and types, union at homologous sites where surface ectoderm is absent or removed at the oropharyngeal and cloacal membranes, the heart and the neural tube, the Hensel and Hogan twins, and a singleton body's seven holes at topology's count; laid at the carrying's Natural Mathematics section in two strata and at the report's observings 44 to 47 and its matching; the fourth observing standing against a sentence met at a reading, for both.
 
+## Conjoined twins as bi-tunneling (v374)
+
+The expedition's lead: the conjoined union is bi-tunneling, a bounded zeroing through the twins' shared society. Laid at the carrying's Natural Mathematics section and at the report's matching, at the opposing halves' union and the reversed laterality of side-by-side unions.
+

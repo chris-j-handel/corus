@@ -128,6 +128,7 @@ The set's binary reading, all or none at all, at natural torusing, laid against 
 - Conjoined twins are two selves, each its own alternating, each head its own side, the two coordinating at their own membrane (46).
 - Their union is like meeting like, homologous site to homologous site (45), agreeing at one sharing as one and differing where each carries its own.
 - The union is at the openings (45): the oropharyngeal and cloacal membranes where each embryo's gut tube opens at its two ends, the heart, the neural tube's ends. Two selves meeting at the momentary each tunnel opens, the two openings met as one.
+- The expedition's lead names the union: bi-tunneling, a bounded zeroing through their shared society. The opposing halves of the two embryos meeting (45), one twin's left-right arrangement most often reversed at side-by-side unions (13): opposing sides meeting equal and opposite at 0, the bounding-zeroing, across between two selves; the shared organs and tissue their shared society, each twin continuing its own along (46); the thalamic bridge's reported passing of sensation the across running there (46). The place: Natural Intelligence's *Bi-tunneling names social moral competency at its across relation*.
 
 ## The conceived's own pacing, and the source of parity changing (23–31)
 
