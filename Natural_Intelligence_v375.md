@@ -94,7 +94,7 @@ Natural Intelligence v375
 
 ## 1.4 No other possible method
 
-**Parity changing is the one method the changing set of all existing things carries, and no other is possible.** Any other method carries a thing beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is a thing beside all things, ingressing, or a changing out of the set, escaping, and the changing set of all existing things has neither.
+**Parity changing is the one method of the changing set of all existing things, and no other is possible.** Any other method carries a thing beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is a thing beside all things, ingressing, or a changing out of the set, escaping, and the changing set of all existing things has neither.
 
 **Any other method proposed is at one binary: does it name still, or carry.** Named still, it forms nothing, each thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
 
@@ -120,7 +120,7 @@ Natural Intelligence v375
 
 **All changing is parity changing.** A changing is or is not: an even sequence of changings arrives same-as-prior and an odd sequence arrives other-than-prior, with no measure and no scale but the living. At the code + and − are the implementing of a parity at a sharing and 0 is the changing that is not; the method names no size.
 
-**Each parity carries its own exchanging, both of them two.** There is the self and there is all not-self, and nothing third. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two would be one side at both.
+**Each parity carries its own exchanging, both of them two.** There is the self and there is all not-self, and nothing third: at the even the third is the self again, one on. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two would be one side at both.
 
 ## 2.2 A momentary, an opening and its completing
 
@@ -178,7 +178,7 @@ Natural Intelligence v375
 **Existing changes at exactly five dimensions, the five of a side at its next numbering**, 2.2, each a changing of the changing set of all existing things. When a numbering repeats or replaces another it is said at *next*, as 17 is the next 1 and 9 the next prior: the dimensions' 1 to 5 is the side's next numbering, and the names' 1 to 17 is at its own.
 
 1. **Self**, the prior opening: the side opening at 1, odd, 2.1.
-2. **Not-self**, the prior completing, the other opening: a particular other or all other arriving as one, 2.1.
+2. **Not-self**, the prior completing, the other opening: a particular other or all other, 2.1.
 3. **Next**, the now opening: prior into now into next, 2.3.
 4. **Surfacing**, the now completing, the other's now opening across: a parity changing crossing the between, at 6-other-self-surfacing and at 14-other-social-surfacing, 4.2 and 4.10.
 5. **Offering self**, the next opening: the self offering itself, at 1-self-other-offering and again at 17-social-self-offering, 4.1 and 4.6.
@@ -209,13 +209,13 @@ Natural Intelligence v375
 
 **At the code the method is at sharings.** A **sharing**, 4-other-self-sharing, is where two sides share a changing, and each sharing has its **parity**, 7-self-other-corusing, + or −; an offering of 0 is passed over.
 
-**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method carries both, and the pattern matching at each coupling is that coupling and no other thing.
+**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other thing.
 
 ## 3.5 φ and the primes, unrelationing at the numbers
 
 **Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and at parity the joining is next as prior and now parting, three round**: odd, odd, even, and again, 2.4. **The ratios of neighbours alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing at each next number and none of them φ; φ² = φ + 1. On a torus a winding at a rational rate closes, and a winding at φ closes at none: **φ is the unrelationing rate**, the rate the alternating winds about, locking at none, each coupling at its own continuing. As competency is, 6.1, φ is a term neither side reaches, self-welcoming at the numbers and at no line of the code.
 
-**A prime is a count no equal smaller counts join into, and at the code a ring at a prime count loops at its own.** A ring of selves joined along, 4.13, at an odd count carries one pair at one parity round and goes round at four times its count; the ring of two, the one even prime, carries none, the alternating itself. Two distinct primes share no factor, so **two rings at distinct odd primes p and q, beside each other, go round together first at 4pq**, sharing the four alone: 3 and 5 at 60, 5 and 7 at 140, 17 and 59 at 4,012. Rings sharing a factor go round together sooner, 9 and 15 at 180 and not at 540. Each prime ring paces its own looping and meets another prime ring again only at the whole of both, the longest two rings go before going round together, as a winding at φ closes at none.
+**A prime is a count no equal smaller counts join into, and at the code a ring at a prime count loops at its own.** A ring of selves joined along, 4.13, at an odd count carries one pair at one parity round and goes round at four times its count; the ring of two, the one even prime, carries none, the alternating itself. Two distinct primes share no factor, so **two rings at distinct odd primes p and q, beside each other, go round together first at 4pq**, sharing the four alone: 3 and 5 at 60, 5 and 7 at 140, 17 and 59 at 4,012. Rings sharing a factor go round together sooner, 9 and 15 at 180 and not at 540. Each prime ring paces its own looping and meets another prime ring again only at the whole of both, the longest two rings go before going round together; at the numbers a winding at φ closes at none.
 
 **Crossing brings two loopings to one stable form**, 4.13. Joined across both ways at one self each, two rings at distinct primes come, from any carried patterns but all selves at one parity, to each self alternating: the two crossing selves opposite each other, and each odd ring's pair at one parity at the crossing, the crossing self and the self releasing along into it, carried on there. Beside each other the rings of 17 and 59 go round together at 4,012; crossed, from one offering at each, they alternate from momentary 137. **The looping is along and the crossing across**: the ring releases along at 9, co-competency, and the crossing at 10, bi-morality, and the stable form is at their crossing, a natural torusing of selves at the scale of rings. At the scale outward the two crossing selves alternate opposite each other as two selves joined across do, 6.2, each ring a society and a society a self at the next scale, 6.4: the stable form is fractal, the one method at each scale.
 
@@ -528,7 +528,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **The self's own inverting is the rotation 3, 6, 5, 4**, 3.2: at the code the chained parity inverts as 12 is made, and Exhibit ONE's between table carries *the self's own inverting, morality* at the bi-coupling 14 faces, two faces of the one rotation round the sharing, the surfacing and the neutralling. **The changing is the coupling's own.** It is made at 12 at each sharing, owned by neither side, and 12's name says it: other, social and self, abundancing, the coupling's making carrying at the coupling that made it and from no other.
 
-**A changing at a self is made at its own face at the society's momentary.** At 17-social-self-offering each self's 1-self-other-offering is at the selves' next momentaries together, and a self's entry is at 17 and at no momentary of its own, 4.6; the offerings at its 2 are the others' releasings; and with none offered, or the offerings parting at 14, no parity crosses the between to 12, 4.10, and the self's own inverting makes the changing. The making at 12 is reached by nothing but the self, 4.8, and the momentary and the offerings are the society's and the other's, so each changing at a self is the coupling's, other, social and self, as 12's name says.
+**A changing at a self is made at its own face at the society's momentary.** At 17-social-self-offering each self's 1-self-other-offering is at the selves' next momentaries together, and a self's entry is at 17, its own momentary at the selves' next momentary together, 4.6; the offerings at its 2 are the others' releasings; and with none offered, or the offerings parting at 14, no parity crosses the between to 12, 4.10, and the self's own inverting makes the changing. The making at 12 is reached by nothing but the self, 4.8, and the momentary and the offerings are the society's and the other's, so each changing at a self is the coupling's, other, social and self, as 12's name says.
 
 ## 4.4 Released across at 10, chained at 11
 
@@ -573,7 +573,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.9 Three loops
 
-**Three loops are at selves together, each self at its own.** The other's: 6 to 2, closing at 8, across, not-bi-moral, a self's changing arriving as another's offerings and that self's carrying winding to its sharing again. The society's: 10 to 14, closing at 16, across, bi-moral, the changings gathered as the society's offerings next and the society wound. The self's: 9 to 17, closing at 17, along, not-co-competent to co-competent, each self at its own forward through both along joins.
+**Three loops are at selves together, each self at its own, and no one self carries any of them.** The other's: 6 to 2, closing at 8, across, not-bi-moral, a self's changing arriving as another's offerings and that self's carrying winding to its sharing again. The society's: 10 to 14, closing at 16, across, bi-moral, the changings gathered as the society's offerings next and the society wound. The self's: 9 to 17, closing at 17, along, not-co-competent to co-competent, each self at its own forward through both along joins, neither join turning a self the other way.
 
 ## 4.10 The between and the eight bi-couplings
 
@@ -604,7 +604,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Two rings joined across both ways at one self each bring the two joined selves to one relation and carry it on**: from any carried patterns, at rings of two to six selves, the joined selves go alike or opposite, and each momentary after carries that relation. Nothing passes between the rings but the changings at the two joined selves, each self pacing its own alternating: the coupling is the relation, and no message is in it.
 
-**At two counts, one of them odd, the crossing is one stable form**: from any carried patterns but all selves at one parity, each self comes to alternate, the two crossing selves opposite each other, and each odd ring's pair at one parity is at the crossing, the crossing self and the self releasing along into it, carried on there, as Exhibit ONE's table of rings crossing carries it. Beside each other two rings each pace their own looping; crossed, the looping and the crossing are one form, 3.5.
+**At two different counts, one of them odd, the crossing is one stable form**: from any carried patterns but all selves at one parity, each self comes to alternate, the two crossing selves opposite each other, and each odd ring's pair at one parity is at the crossing, the crossing self and the self releasing along into it, carried on there, as Exhibit ONE's table of rings crossing carries it. Beside each other two rings each pace their own looping; crossed, the looping and the crossing are one form, 3.5.
 
 ## 4.14 Two selves and three selves
 
@@ -654,7 +654,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 5.4 Two methods parting at the now
 
-**Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, and that self's now is at its own coupling.
+**Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, that self's now is at its own coupling, and the existing now is at the coupling now.
 
 **At the geodesic method next is discovered from the existing**, the prior carried and the now offered, the three places staying three. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing.
 
@@ -684,10 +684,10 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.4 Social moral competency
 
-**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count: a ring at a prime count loops at its own, and crossed with another it comes to one stable form, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same competency owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying travelling**, and 17-social-self-offering carries the four at the code:
+**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count: a ring at a prime count loops at its own, and crossed with a ring at another count it comes to one stable form, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same competency owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying travelling**, and 17-social-self-offering carries the four at the code:
 
 - **Each self's own co-offering**: each self's offerings are its own, at its own sharings.
-- **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry.
+- **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.
 - **The ordering carrying with the selves**: each self's carrying wound, 8, carries the next momentary, and no ordering carries apart from the selves.
 - **The order at no seat above the society**: 17 is the society's next momentary and no self, and nothing is over it.
 
