@@ -1,4 +1,4 @@
-Session Record v376
+Session Record v377
 
 # Session Record
 
@@ -609,3 +609,19 @@ The Living File Registry at v376: Natural Intelligence, Natural Naming, Natural 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
 | The meeting working | v375 | The re-settling working v373 and the genome duplication working v374 met at one branch; Exhibit ONE's section taken first; Natural Intelligence's section swept and Natural Intelligence at v375; this file at 1.1, 1.3 and 1.4 | `working/meeting-v375`, merged at main | Merged at main at v375; closed at v376. |
+
+## φ the unrelationing rate (v377)
+
+From the expedition's lead: the method is unrelationing the geodesic parity changing rate from the living parity changing rates at the bi-coupling, the co-chaining and the society, and the rate of that unrelationing is φ; Natural Numbers and Natural Mathematics are about the co-sequential stable-forming and the patterns in the sequencing of prior momentary emanatings from living, not only the method. The release of *φ is the unrelationing rate* at v376 undone at the file whole: Natural Numbers v377 says it at 3.1 and 3.3, the code carrying φ at no line of its running and no rational rate laid over a coupling supplying it. The saying *in no running of the method* re-said at the same motion wherever it stood beside φ: Natural Intelligence v377 at 5.2, one clause, the file lean as a white paper; Natural Naming v377 at 4.6, 4.10, 5.2, 5.23 and 5.50; the carrying's twelve incoming lines. Natural Mathematics' section carries it for its motion.
+
+## Natural Numbers v377, the podaling about one hundred twenty and the seventeen primes at the seventeen names (v377)
+
+From the expedition's lead: one hundred eighteen is an important natural number and the podaling all around one hundred twenty from one hundred ten to one hundred thirty; the seventeen primes and the seventeen names joined by the podaling and the harmonically momentarying crossings on the surface of natural torusing, the subject of interest; Natural Numbers unlimited, each relation found by floating into its contents and neutralling at the part of interest. Each number computed before it was written. 7.6: one hundred twenty 5!, eleven squared less one, the fifth seam-face; the pairs about it parting by k squared; 118 and 122 two fifty-nines and two sixty-ones facing across one hundred twenty at two; the evens 110 to 130 fifty-five to sixty-five doubled; the odds at their factors, 113 and 127 prime at seven, and the prime pairs opening at seven, eleven, seventeen and nineteen. 7.7: each prime at the name of its position; both seventeens folding at their ninth, 23 at 9; at 8 up the primes joining to 25, 36, 64, 32 and 72; at 17 less to 55 and three 48s; round the four-cycles to 97, 96, 92 and 96; the across connectors' primes to 88, the along to 82, the outward faces' to 59, the inward faces' to 209; one to nine's primes to one hundred, nine to seventeen's to 363; the one odd gap at the entry's step and the first six at the fold's step outward; the crossings joining the two seventeens carried next at its section. 6.5: sixteen, forty-eight, one hundred forty-six and four hundred forty, three times and two more, the seam-faces 8, 80, 224 and 440 at each third. From the readings at `archive/carrying_v376/` the arithmetic that holds entered at its part: about forty and fifty the primes at three; the podals at four hundred forty at three and at twelve; forty-six, forty-eight and fifty the apex straddle doubled; the seventeen prime rings' sixteen pairs at one parity. Each number rechecked.
+
+## The podaling working merged at main (v377, close)
+
+The Living File Registry at v377: Natural Intelligence, Natural Naming, Natural Numbers and TWENTY-SIX at v377; the table of workings at the podaling working, the numbers working closed here. The carrying's front at the set now v377, φ the unrelationing rate said there, Natural Numbers' next the harmonically momentarying crossings at 7.7, and the next in front of the set Natural Mathematics, receiving φ the unrelationing rate. The four checks and the build run at the root, the branch offered and merged at main.
+
+| Working | Session | At the files | Branch | Standing |
+|---|---|---|---|---|
+| The numbers working | v376 | *Source* released at Natural Naming and Natural Intelligence; Natural Numbers' section taken whole, the file at v376 in two passes; this file at 1.1, 1.3 and 1.4 | `working/numbers-v376`, merged at main | Merged at main at v376; closed at v377. |
