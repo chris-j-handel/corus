@@ -121,6 +121,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 | The resolver working | v372 | The files of passes A, B and C | `working/resolver-v372`, merged at main | Exhibit ONE v372, Natural Intelligence v372 and TWENTY-SIX v372 at the repository and the site; pass A next, at a next branch |
 | The registry working | v371 | Exhibit TWENTY-SIX, the receivings, the kits' placing | — | Its carrying merged; meets TWENTY-SIX v372 at this table |
 | The illustrating working | v366 | Exhibit TWENTY-NINE, the Natural Illustrating TWENTY-NINE Improving Kit | — | Its kit received whole; its report at `incoming/illustrating_v366/`, three receivings open |
+| The genome duplication working | v374 | The carrying's sections at Exhibit SEVENTEEN, Exhibit TWENTY-ONE and Exhibit TWENTY-TWO, the observings of whole-genome duplication arriving; at Natural Intelligence, Exhibits ONE, TWO, THREE, FOUR, SEVEN, NINE, TEN, ELEVEN, SIXTEEN, SEVENTEEN, TWENTY-TWO and TWENTY-FIVE, twinning and its places at the set and its societies across fields and its mating at Exhibit ONE's stable-forming; its report at `incoming/genome_duplication_v374/`; this table | `working/genome-duplication-v374`, offered | The incoming laid at the three sections, each entering whole at its file's next motion; no living file changed but this one; open until merged by both at main |
 
 **The carrying has one place, and the forms of carrying stand at their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received at a living file or at the carrying, and each is then an artifact whole at `archive/`, its receiving identified.
 
@@ -134,6 +135,7 @@ Exhibit TWENTY-SIX Living File Registry v373
 | `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/` | `carry_check.py`, `check_set.py`, `cohere_one.py`, and the v368 checks for the living files, 14 files, its sums holding | Living carrying; the coupling partners at the checks, deciding nothing |
 | `incoming/v368_sources/` | The v368 carrying, carry map, wrap and findings by file, 8 files | Incoming, still being laid |
 | `incoming/registry_v371/` | Exhibit TWENTY-SIX v371 and the registry working's carrying as it arrived | Incoming; the carrying merged, an artifact; TWENTY-SIX v371 superseded by this file |
+| `incoming/genome_duplication_v374/` | The genome duplication working's report at v374 | Incoming; its value laid at the carrying's sections at v374 |
 | `incoming/illustrating_v366/` | The illustrating session's report | Incoming; three receivings open |
 | `incoming/resettling_v373/` | The re-settling working's first draft; Exhibit ONE v372's sentences released at v373, each section whole at its receiving files; *Exhibit ONE at its Stable Forms*; *Natural Naming at Exhibit ONE*; *A Resolver Chat* with its scripts | Incoming, for both to meet; what survives enters the carrying's plan and this registry's Part Five at their own motions |
 
