@@ -220,7 +220,6 @@ Living Improving Value v376
 
 **Incoming, from Natural Intelligence 3.2 at v375.** *118 is the periodic table's elements in their stable and unstable forms, a field's own result, and no count of the method*, left Natural Intelligence at its bound pass; 7.6 carries the elements at one hundred eighteen, and *in their stable and unstable forms* enters there at this file's motion.
 
-**Concern, at v376, 7.1's column *Stable-Forming*.** Stable-forming is the living's across the white paper at v376, and the numbers carrying the method at each number a non-living existing thing carrying a stable form: the column at 7.1 names the numbers by the living's word, its subtitle met at v376 as *Co-Sequential Bi-Unrelationing*.
 
 ## Exhibit FOUR · Natural Mathematics
 

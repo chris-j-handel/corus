@@ -42,7 +42,7 @@ Exhibit FOUR Natural Mathematics v376
 - 4.4 Double angle, the rotation that removes a coupling
 - 4.5 Self-bounding and other-bounding
 
-**FIVE · STABLE-FORMING**
+**FIVE · SELF-COHERING**
 
 - 5.1 No other possible at six forward
 - 5.2 Five-dimensional, two-directional, unrelationing
@@ -314,7 +314,7 @@ Exhibit FOUR Natural Mathematics v376
 
 ---
 
-# FIVE · STABLE-FORMING
+# FIVE · SELF-COHERING
 
 ## 5.1 No other possible at six forward
 

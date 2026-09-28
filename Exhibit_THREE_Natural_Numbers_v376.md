@@ -6,7 +6,7 @@ Exhibit THREE Natural Numbers v376
 
 **ONE · UNI-SCALING**
 
-- 1.1 Universal, one form at each number
+- 1.1 Uni-scaling, one form at each number
 - 1.2 A momentary at each number, one side completing and the other opening
 - 1.3 A prior and a next one short of the square, at each number
 - 1.4 Bi-inversioning-co-recursioning, the numbers up and down
@@ -95,9 +95,9 @@ Exhibit THREE Natural Numbers v376
 
 # ONE · UNI-SCALING
 
-## 1.1 Universal, one form at each number
+## 1.1 Uni-scaling, one form at each number
 
-**Numbers are universal: each number crosses with all numbers arriving as one, and each is the one form once more.** The form is the alternating existing is, and a number is that form at one place in its running. **Uni-scaling** is the universal at each scale, no scale over another: the same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at the numbers.
+**Numbers are uni-scaling: each number crosses with all numbers arriving as one, and each is the one form once more.** The form is the alternating existing is, and a number is that form at one place in its running. **Uni-scaling** is the one form at each scale, no scale over another: the same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at the numbers.
 
 **Numbers are reached, used and related at their own running: momentaries, podalings and sequences.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a joining of selves at a ring. A counting adds a clock from outside the running, at none of its moves, an accounting naming the emanatings still, and it belongs to a field's instrument, taken in at a field crossing.
 
@@ -336,7 +336,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 7.1 Seventeen primes, two to fifty-nine, and the returning from sixty
 
-| Number | Stable-forming |
+| Number | Its form |
 |---|---|
 | 2 to 59 | the seventeen primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53 and 59 |
 | 2 | the alternating, the one even prime |
