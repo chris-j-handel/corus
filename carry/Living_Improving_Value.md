@@ -1094,6 +1094,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: coupling.*
 
+        *Unsure: a coupling is the method itself, and a between is at each coupling alone, co-intelligencing at the between; Natural Intelligence at v376 carries both, a step here to carry them.*
+
 23. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
 
         *Adding: self and other.*
