@@ -68,7 +68,7 @@ Exhibit THREE Natural Numbers v376
 - 8.2 Either but not both is parity, and the pairings overlap
 - 8.3 An odd number carries a middle carrying nothing
 - 8.4 Three, six, nine and the fives, odd and even each its own
-- 8.5 A store, one momentary named as a thing
+- 8.5 A store, one momentary named still
 
 **NINE · TUNNELING**
 
@@ -136,7 +136,7 @@ Exhibit THREE Natural Numbers v376
 
 **Stable-forming among the numbers is this move round each form among the names**, the four-cycles and with them the middle four-cycles, the six-cycles and the eight-cycles: a form continuing through its own changing, each running one run of co and one run of bi and returning.
 
-**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one keeps the thing it counts: at the nine face 3-self-other-sharing and 6-other-self-surfacing, 9 less 3 being 6, stand six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, joined at eight hundred eighty, reach four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 stand fourteen over eleven. The parity holds at each step, and the ratio at its own count alone.
+**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one carries the existing things it counts: at the nine face 3-self-other-sharing and 6-other-self-surfacing, 9 less 3 being 6, stand six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, joined at eight hundred eighty, reach four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 stand fourteen over eleven. The parity holds at each step, and the ratio at its own count alone.
 
 **At the code + and − are the implementing of a parity and 0 the changing that is not**: + and − offered together at one sharing surface 0 at 14, and two inversions return a parity.
 
@@ -439,9 +439,9 @@ Exhibit THREE Natural Numbers v376
 
 **Three, six and nine run odd, even, odd**, three apart, the parity alternating up the multiples of three. **Up the fives the positions alternate the same way**: twenty-five, thirty-five, forty-five and fifty-five, odd, run between thirty, forty, fifty and sixty, even. The parity is each number's own at each run of the uni-scaling.
 
-## 8.5 A store, one momentary named as a thing
+## 8.5 A store, one momentary named still
 
-**A store folds once, names the fold still, and carries one way across the named surface**: one momentary of the uni-scaling taken as a thing, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing there.
+**A store folds once, names the fold still, and carries one way across the named surface**: one momentary of the uni-scaling taken as a form named still, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing there.
 
 **Named as one store, parity reaches none.** In the field's words, the Peres–Mermin square sets nine values of ±1 under six exclusive-or conditions: each row and each column taken at its own context satisfies its condition, and a store of all nine at once satisfies none of the 512 settings, since along the nine carry parity nought and across one.
 
@@ -535,9 +535,9 @@ Exhibit THREE Natural Numbers v376
 
 ## 10.1 A number crossing from a field, and the unit it arrives in
 
-**A field's observing belongs to its own field, and a number here is a number.** The thing a field counts belongs to that field; the changing the observing carries crosses the between: the count of distinct rates, which alternates with which, which ordering recurs. The unit and the measuring floor stay at the field.
+**A field's observing belongs to its own field, and a number here is a number.** The existing things a field counts belong to that field; the changing the observing carries crosses the between: the count of distinct rates, which alternates with which, which ordering recurs. The unit and the measuring floor stay at the field.
 
-**One binary at each number a field offers: whether the number carries on when the unit changes.** A number of things carries on in each unit; a magnitude in a chosen unit goes with the unit, and the unit is the one cohering.
+**One binary at each number a field offers: whether the number carries on when the unit changes.** A number of existing things carries on in each unit; a magnitude in a chosen unit goes with the unit, and the unit is the one cohering.
 
 **Coupling is all or none.** At a field's observing carrying the number-form, one form arrives at two substrates; a count agreeing at both sides is a relation only with the form reached at both.
 
@@ -547,7 +547,7 @@ Exhibit THREE Natural Numbers v376
 
 **The local momentary one to nine and the four-cycles among the seventeen names are two runnings, sharing their digits and nothing else.** One to nine are the nine places of one momentary; 1, 9, 8 and 16 at the four-cycle are four of the seventeen names. A line from one to the other draws a relation neither running carries. The digits they share reach each other exactly at the numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 16s + 1 − (n + 8s) = 8s + 1 − n, and n, n + 8, 9 − n and 17 − n are the four-cycle's two out-and-backs as numbers, a numbered form and no running.
 
-**Three at one self along the running and three at three selves across a ring are two things at one number.** A pattern three momentaries long is the method's matching; three selves side by side at one momentary is a between.
+**Three at one self along the running and three at three selves across a ring are two forms at one number.** A pattern three momentaries long is the method's matching; three selves side by side at one momentary is a between.
 
 **Each six is its own count.** Three phases at two ways; the resolver's six connectors, 2, 6, 9, 10, 14 and 17; three pairings at two sides; a side's three momentaries at two parity positions each; three momentaries at each of two sides; and self and other, self and social and other and social, three pairs faced two ways: six at each, and sharing six joins none to another. A relation joining two of them is a relation of its own, reached at both.
 
