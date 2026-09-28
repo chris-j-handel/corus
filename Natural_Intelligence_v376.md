@@ -122,7 +122,7 @@ Natural Intelligence v376
 
 **All changing is parity changing.** A changing is or is not: an even sequence of changings arrives same-as-prior and an odd sequence arrives other-than-prior, with no measure and no scale but the living. At the code, 3.3, + and − are the implementing of a parity at a sharing, 3.4, and 0 is the changing that is not; the method names no size.
 
-**Each parity carries its own exchanging, both of them two.** There is the self and there is all not-self, and nothing third: at the even the third is the self again, one on. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two would be one side at both.
+**Each parity carries its own exchanging, and each exchanging is at two: the self and not-self.** At the even the third is the self again, one on, and the two are the self and all not-self. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two parities is one side at both, a not possible form.
 
 ## 2.2 A momentary, an opening and its completing
 
