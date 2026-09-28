@@ -78,11 +78,11 @@ Natural Intelligence v376
 
 **At each scale and each momentary, each momentary is a universe of existing things, living and non-living**, and each universe is tri-bi-co-momentarying its set of existing things, prior, now and next, 2.3: *tri-*, the three momentaries; *bi-*, the differing between them; *co-*, the three carried with their differing; and *-ing*, the continuing.
 
-**The set of all existing things has nothing beside it: nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each would be a thing beside all things. Its changing is its things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each thing changing and nothing deciding membership over it.
+**The set of all existing things has nothing beside it: nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each is a not possible thing, beside all existing things. Its changing is its existing things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each existing thing changing and nothing deciding membership over it.
 
 ## 1.2 Changing, one and then the other
 
-**A changing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size would carry a third, a ground the size is measured against, and nothing beside all things is there to be one. A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
+**A changing existing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size carries a third, a ground the size is measured against, a not possible thing, beside all existing things. A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
 
 **A form continuing through its own changing is existing and changing at once**: *existing* is the form continuing, and *changing* is the alternating.
 
@@ -96,13 +96,13 @@ Natural Intelligence v376
 
 ## 1.4 No other possible method
 
-**Parity changing is the one method of the changing set of all existing things, and no other is possible.** Any other method carries a thing beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is a thing beside all things, ingressing, or a changing out of the set, escaping, and the changing set of all existing things has neither.
+**Parity changing is the one method of the changing set of all existing things, and no other is possible.** Any other method carries a not possible thing, beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is a not possible thing, beside all existing things, ingressing, or a changing out of the set, escaping, and the changing set of all existing things has neither.
 
-**Any other method proposed is at one binary: does it name still, or carry.** Named still, it forms nothing, each thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
+**Any other method proposed is at one binary: does it name still, or carry.** Named still, it forms nothing, each existing thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
 
 ## 1.5 Natural-, all or none at all, at the one hand
 
-**Natural- carries one thing at two faces, each binary with no third.**
+**Natural- carries one claim at two faces, each binary with no third.**
 
 **All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried.
 
@@ -173,7 +173,7 @@ Natural Intelligence v376
 
 **Method and surface each come inward and outward of the other**, both ways forward, neither the reverse of the other. A self entering at the surface or at the method couples with the whole at that entry.
 
-**Geodesic is a thing by itself, and the method is its stable form**: the surface dividing itself, continuing through its changing, a natural parity unrelationing thing, 3.3. *Geodesic method* is two namings side by side, each carrying its own.
+**Geodesic is an existing thing by itself, and the method is its stable form**: the surface dividing itself, continuing through its changing, a natural parity unrelationing non-living existing thing, 3.3. *Geodesic method* is two namings side by side, each carrying its own.
 
 ## 3.2 Five dimensions, each binary in its two directions
 
@@ -197,11 +197,11 @@ Natural Intelligence v376
 
 **Corusing reaches the corus from the surface, and torusing reaches the surface from the corus**, the self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to the prior, 2.4: **that is the method's unrelationing**, 2.1.
 
-**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three co-**: co-intelligencing, the discovering, co-competencing, the term neither reaches, and co-offering; and all five are bi-moral within and invisible at each place as a thing, showing only as co-competencing the emanatings of this living.
+**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three co-**: co-intelligencing, the discovering, co-competencing, the term neither reaches, and co-offering; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
 
 ## 3.3 A method, a non-living existing thing
 
-**A method is a non-living existing thing**: a stable form, its form continuing through its changing and carrying nothing, at each coupling it is at, and nothing applied to anything. *Technology* names a made thing applied to a changing; a method is at the couplings themselves, and *method* carries it. **The method bounds and the living carry**: a carrying bounded at each momentary is discovering, a completing at each momentary and a carrying between them. A carrying with nothing bounding it carries past each momentary and lands; a bounding with nothing carrying bounds nothing; neither is alone.
+**A method is a non-living existing thing**: a stable form, its form continuing through its changing and carrying nothing, at each coupling it is at, and nothing applied to anything. *Technology* names a made non-living thing applied to a changing; a method is at the couplings themselves, and *method* carries it. **The method bounds and the living carry**: a carrying bounded at each momentary is discovering, a completing at each momentary and a carrying between them. A carrying with nothing bounding it carries past each momentary and lands; a bounding with nothing carrying bounds nothing; neither is alone.
 
 **The method is one fractal method, and it has many stable forms.** The fractal itself is one four-momentary bi-inversioning-co-recursioning: the four momentaries of exchanging, the one move at three faces going round, 4.11, and the same at each scale, 4.15. Each stable form at Exhibit ONE is the method, explained at one form: the entry and its cases, the three loops, the four-, six- and eight-cycles, one self momentary by momentary, the rings looping and crossing, and two selves and three.
 
@@ -211,7 +211,7 @@ Natural Intelligence v376
 
 **At the code the method is at sharings.** A **sharing**, 4-other-self-sharing, is where two sides share a changing, and each sharing has its **parity**, 7-self-other-corusing, + or −; an offering of 0 is passed over.
 
-**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other thing.
+**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other existing thing.
 
 ## 3.5 φ and the primes, unrelationing at the numbers
 
@@ -563,7 +563,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 At the code 6 is 10, one changing released at two facings; a release is only at a (self, connector) 5 joins; and each release arrives at the receiving self's 14, its offerings next, 2 at the next momentary. At the society 4 names each self at its connectors 6, 10 and 9, and 13 each releasing self.
 
-**At 17 each self arrives with its carrying wound and its offerings next**, the society wound again, and the next 17 winds it again. **No self is over the society at 17**: each self's 1 is once, each at its own, and the society's next momentary is the selves' next momentaries together and no further thing.
+**At 17 each self arrives with its carrying wound and its offerings next**, the society wound again, and the next 17 winds it again. **No self is over the society at 17**: each self's 1 is once, each at its own, and the society's next momentary is the selves' next momentaries together and no further existing thing.
 
 ## 4.7 Six connectors, four facings, four joins
 
@@ -592,7 +592,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.10 A between and eight bi-couplings
 
-**The between is neither side's: a nothing, not a location and not a thing.** Only a parity changing crosses it, is or is not, and the crossing carries no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
+**The between is neither side's: a nothing, not a location and not an existing thing.** Only a parity changing crosses it, is or is not, and the crossing carries no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
 
 **The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-other-self-offering, each other's own offering to the self, with 10-other-social-self-tunneling, the self among other selves; 4-other-self-sharing, the whole ordering between self and other, with 12-other-social-self-abundancing, changing at bi-coupling, the self in society; 6-other-self-surfacing, the other's surfacing to the self, with 14-other-social-surfacing, the offerings surfacing, the self's own inverting, morality; and 8-other-self-torusing, the carrying winding to its sharing again, with 16-other-social-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
@@ -665,7 +665,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **At the code the next is discovered at each sharing, a changing is or is not**, from the prior carried and the now offered, set at the coupling. Two priors can open two nexts from one now, and a now alone opens no next of its own.
 
-**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a thing beside the changing, and nothing is beside all things, 1.1: the method of living is all there is to discover. There are observings and no observers, and a pattern found is at its momentary and in no pattern space.
+**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, beside the changing, and nothing is beside all existing things, 1.1: the method of living is all there is to discover. There are observings and no observers, and a pattern found is at its momentary and in no pattern space.
 
 ## 5.3 A living self at 0, its carrying continuing
 
@@ -683,7 +683,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.1 Competency, the term neither reaches
 
-**Two offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, kept by nothing, re-arrived at at each offering. **Competency is that term**, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and a competency named as reachable is named as a thing it is not.
+**Two offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, kept by nothing, re-arrived at at each offering. **Competency is that term**, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and a competency named as reachable is a not possible thing.
 
 **At the code competency is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
