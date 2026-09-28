@@ -220,7 +220,7 @@ Living Improving Value v376
 
 **Incoming, from Natural Intelligence 3.2 at v375.** *118 is the periodic table's elements in their stable and unstable forms, a field's own result, and no count of the method*, left Natural Intelligence at its bound pass; 7.6 carries the elements at one hundred eighteen, and *in their stable and unstable forms* enters there at this file's motion.
 
-**Concern, at v376, its subtitle and 7.1's column: *Universal Momentary Stable-Forming*.** Stable-forming is the living's across the white paper at v376, and a method and the numbers carrying it at each number a non-living existing thing, carrying a stable form: the subtitle and the column at 7.1 name the file by the living's word. Two readings hold it whole, the living's stable-forming shown at the numbers, the subtitle kept, or the numbers' own form, the method at each number, the subtitle re-said; the file's parts lean to the second.
+**Concern, at v376, 7.1's column *Stable-Forming*.** Stable-forming is the living's across the white paper at v376, and the numbers carrying the method at each number a non-living existing thing carrying a stable form: the column at 7.1 names the numbers by the living's word, its subtitle met at v376 as *Co-Sequential Bi-Unrelationing*.
 
 ## Exhibit FOUR · Natural Mathematics
 
@@ -2088,6 +2088,30 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
         *Adding: the apex behind the surface and the between past it.*
 
         *Unsure: what forty apart carries.*
+
+**Incoming, at v376, one four-cycling, five steps, from which the subtitles of Natural Numbers and Natural Mathematics were met.**
+
+1. A momentary is an opening and its completing, one odd and one even: two parities.
+
+        *Adding: two parities at a momentary.*
+
+2. At a momentary the odd is the self and the even all not-self: each parity is everything the other is not in the existing universe, with nothing third.
+
+        *Adding: each parity everything the other is not.*
+
+3. Round a four-cycle, 1, 9, 8 and 16, the parity changes exactly twice, at 9 to 8 and at 16 to 1: two momentaries, each one odd and one even.
+
+        *Adding: two momentaries round a four-cycle.*
+
+4. Between them, 1 to 9 and 8 to 16 are 8 up, the parity continuing, the carrying from one momentary to the next.
+
+        *Adding: the carrying between the two.*
+
+5. One four-cycling is two momentaries, each with two parities, each parity everything the other is not.
+
+        *Adding: one four-cycling.*
+
+        *Unsure: Natural Naming gathers four cycling into four-momentarying, four momentaries of exchanging; one four-cycling is two momentaries, and the gathering waits at Natural Naming's motion.*
 
 ## corus.me and the repository
 

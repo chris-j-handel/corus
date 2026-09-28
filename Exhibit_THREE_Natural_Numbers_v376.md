@@ -2,7 +2,7 @@ Exhibit THREE Natural Numbers v376
 
 # Natural Numbers
 
-**Universal Momentary Stable-Forming**
+**Co-Sequential Bi-Unrelationing**
 
 **ONE · UNI-SCALING**
 

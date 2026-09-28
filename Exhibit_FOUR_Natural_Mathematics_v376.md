@@ -2,7 +2,7 @@ Exhibit FOUR Natural Mathematics v376
 
 # Natural Mathematics
 
-**Stable-Forming is Natural-bi-co-torusing**
+**Each Parity Changing Everything the Other Is Not**
 
 **ONE · FLOATING NEUTRALLING**
 
