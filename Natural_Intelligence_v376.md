@@ -82,11 +82,11 @@ Natural Intelligence v376
 
 **A changing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size would carry a third, a ground the size is measured against, and nothing beside all things is there to be one. So a changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
 
-**A form continuing through its own changing is stable-forming**, existing and changing at once, and an existing thing is its own stable-forming continuing. **So alternating is the method's stable-forming**: *existing* is the form continuing, and *changing* is the alternating.
+**A form continuing through its own changing is existing and changing at once**: *existing* is the form continuing, and *changing* is the alternating.
 
 ## 1.3 Living and non-living, carrying or not
 
-**Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
+**Each existing thing arrives into its next existing: the living carrying their prior into now, stable-forming, and the non-living carrying none of their prior, their forms continuing through their changing.** Two binaries part them, existing or not and carrying or not: existing and carrying is living; existing and carrying nothing is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
 
 **Living and non-living part at a named scale and momentary**, and neither is the not-existing. A living self and its non-living emanation carry no contradiction: carrying and carrying nothing contradict only at one participation, one scale and one momentary. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
