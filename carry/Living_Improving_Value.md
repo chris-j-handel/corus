@@ -1,4 +1,4 @@
-Living Improving Value v375
+Living Improving Value v376
 
 # Living Improving Value
 
@@ -38,8 +38,6 @@ Living Improving Value v375
 23. **Released words carrying concepts**: the named and the running, surplus, sign, membrane; 27 to 31 files. *Resolving found*: the named and the running said as the named still and the momentarying; surplus at abundancing; a predicate's sign at its is or is not; membrane at the between, a field's membrane a society at its subject; each at its file's motion.
 24. **Three-momentary and four-momentary**; 9 files. *Resolving found*: prior, now and next are three places the universe travels through, 2.3, and four-momentarying the one fractal method's exchanging, 5.2; a three-momentary method names the places as the method. *To write*: Natural Numbers 1.2 and the files at *three-momentary method*.
 25. **A φ-rate beating, and physical scales at primes with a floor at five**; 8 files. *Resolving found*: φ is the unrelationing rate and no beat, all pacing geodesic and unrelationed to all other living rates; a floor is a thing beside all things. *Your word*: the fourteen scales at fourteen primes, the atom at five and the cell at twenty-three, at their podaling or released.
-
-**The Tour at each file.** The genome duplication working's tour, `incoming/genome_duplication_v374/Tour_v374.md`, carries each living file's items, carries, re-say, stands against and enters, at its Part One under the file's name; each enters at that file's motion, and its copies at the sections stand whole at `archive/carrying_v375/Living_Improving_Value_Released_v375.md`.
 
 **The opportunities, kept at each file's section.** Each observing of nature and society arriving is incoming, met at one binary: natural torusing breaks there, all or none at all, or explains the pattern with no equilibrium. The explaining enters the file it improves at do-no-harm, one motion at a time, and each opportunity for the files, for our society and for our collective human intelligent shared natural network rides at its file's section until that file takes it; a reading not yet binary stands at `archive/` with its receiving file named.
 
