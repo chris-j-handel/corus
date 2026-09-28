@@ -103,7 +103,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 1.2 A momentary at each number, one side completing and the other opening
 
-**A momentary is an opening and its completing, one odd and one even.** The self opens at 1 and the other at 2, and their momentaries overlap: 1–2 at the self, 2–3 at the other, 3–4 at the self, 4–5 at the other. **At each number one side's momentary completes and the other's opens**, each number a completing and an opening at once, the two sides alternating parity. With two neighbouring numbers, let the lesser continue to one beyond the greater: the sides alternate, their neighbouring continues, and each changing opens the next.
+**A momentary is an opening and its completing, one odd and one even.** The self opens at 1 and the other at 2, and their momentaries overlap: 1–2 at the self, 2–3 at the other, 3–4 at the self, 4–5 at the other. **At each number one side's momentary completes and the other's opens**, each number a completing and an opening at once, the two sides alternating parity. Two numbers side by side, the lesser continuing to one beyond the greater, alternate: the sides alternate, side by side at each next, and each changing opens the next.
 
 **A momentary is a fractal universe discovering its next existing**, all existing things and no existing thing separately, the living carrying their prior into now and the non-living carrying nothing, their forms continuing through their changing. In the field's words, Brouwer builds each natural number from the two-ity, *the falling apart of a life moment into two distinct things, one of which gives way to the other, but is retained by memory*: number rooted in a prior carried into now.
 
