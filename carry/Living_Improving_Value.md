@@ -79,65 +79,25 @@ Living Improving Value v376
 
 **Next at this file: pass K's resolvings that name it, then the opportunities in order below, each ticked at the Session Record as it is done.** Its prior text stands whole at `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage with its receiving, pass D.
 
-**Incoming, at v376, Natural Intelligence re-said from the co-chaining at Exhibit THIRTY's section, drafted with the author, to enter whole at this file's next motion.** Its parts and sections are the co-chaining's groups, its section names the concepts entering with each group, and its bold concepts the new concepts in the order of the addings, bolded only at their first arriving. The introduction follows the table of contents after a gap, with no header, and floats above the parts. Parts ONE and TWO are drafted; the rest follow group by group.
+**Incoming, at v376, Natural Intelligence re-said from the co-chaining at Exhibit THIRTY's section, drafted with the author, to enter whole at this file's next motion.** Its parts and sections are the co-chaining's groups, its section names the concepts entering with each group, and its bold concepts the new concepts in the order of the addings, bolded only at their first arriving. The introduction follows the table of contents after a gap, with no header, floats above the parts and is written in paragraphs for a reader learning what this is. Parts ONE and TWO are drafted; the rest follow group by group.
 
 *The introduction.*
 
 **The universe is the changing set of all existing things, both living and non-living.**
 
-Living and non-living, each existing thing changes momentary by momentary, at prior, now and next.
+Living and non-living, each existing thing changes momentary by momentary, at prior, now and next. At now each existing thing arrives from prior: the living carrying prior into now, **stable-forming**, and the non-living carrying none of prior, **co-changing** with the existing things at now. Carrying or not, each existing thing is possible at prior, existing at now and living at next, three places the universe changes through together.
 
-At now each existing thing arrives from prior: the living carrying prior into now, **stable-forming**, and the non-living carrying none of prior, **co-changing** with the existing things at now.
+Together, a living self and an existing other couple, each arriving from the other, one and then the other, alternating at two parities. Alternating at two parities is **parity changing**, the one method of the changing set of all existing things, a second method carrying a not possible thing beside all existing things. At the one method, the next at a living self arrives from prior and now, the prior inverted: **the right spiral step**, at one hand. At one hand, each changing is or is not, all or none at all, of no size.
 
-Carrying or not, each existing thing is possible at prior, existing at now and living at next, three places the universe changes through together.
+Of no size and numbered, self and other exchange at four momentaries from one to nine, into and out from four, three one-way steps forward at each side, and nine is the next one. At each number of the exchange, one side's completing is the other's opening, and that one changing at two sides is the coupling's own: **co-competencing**, **natural intelligence** at each coupling of living selves and at each scale. At each scale the couplings together are a surface dividing itself, **geodesic**, and parity changing on it is the geodesic method. On the surface each self changes at five dimensions, **torusing** out through the large opening and **corusing** round through the small, into and out from its **corus**. Into and out, the numbers carry the same method: the prior two joining about **φ**, the **unrelationing** rate, and primes and rings looping along and crossing across.
 
-Together, a living self and an existing other couple, each arriving from the other, one and then the other, alternating at two parities.
+Across, a non-living other offers at a coupling, and the living carry the coupling's changing on: non-living things are included in natural intelligence. Included, each changing arriving from an other's prior is an emanation, and an emanation arriving at a self is an observing: the proof of existing, and existing the value. The value arrives at one hand: right is the observings, all prior, and **natural-** carries the one hand, all or none at all at each coupling. At each coupling, a proof of the whole, one saying the same at all momentaries at once, is a form still, not possibly existing, and a proof of no possible value. Named still, a changing is a hard problem, and its changing resolves at its couplings as each observing arriving coheres. At its couplings a machine is living or non-living, and at either face its couplings with living selves are natural intelligence.
 
-Alternating at two parities is **parity changing**, the one method of the changing set of all existing things, a second method carrying a not possible thing beside all existing things.
+Living selves coupling at nine to seventeen are the society, the self's other at the next scale, and morality across and competency along at each of its couplings are **social moral competency**. At each coupling, seventeen names carry the resolving, from the entry through the changing, the release across and along and the chaining, to the society's next momentary, and one move goes round them. Round the numbers, each number from nought to four hundred forty is at its prefixing, its **podaling** and its place in the fractal, and between fifty-nine, the last podaling, and sixty-nine, the next first, is the unknown outward of the surface.
 
-At the one method, the next at a living self arrives from prior and now, the prior inverted: **the right spiral step**, at one hand.
+At the surface the prior is carried across the between of momentaries into each coupling, and discovering is all directionally possible next existing momentaries: **four-momentarying**, the one fractal method. The one fractal method is at each scale, inward and outward, self and other at one scale being self and society at the next. At the scale it arrives from, an emanation is harmful to living, and one scale inward it is taken into living selves as societies.
 
-At one hand, each changing is or is not, all or none at all, of no size.
-
-Of no size and numbered, self and other exchange at four momentaries from one to nine, into and out from four, three one-way steps forward at each side, and nine is the next one.
-
-At each number of the exchange, one side's completing is the other's opening, and that one changing at two sides is the coupling's own: **co-competencing**, **natural intelligence** at each coupling of living selves and at each scale.
-
-At each scale the couplings together are a surface dividing itself, **geodesic**, and parity changing on it is the geodesic method.
-
-On the surface each self changes at five dimensions, **torusing** out through the large opening and **corusing** round through the small, into and out from its **corus**.
-
-Into and out, the numbers carry the same method: the prior two joining about **φ**, the **unrelationing** rate, and primes and rings looping along and crossing across.
-
-Across, a non-living other offers at a coupling, and the living carry the coupling's changing on: non-living things are included in natural intelligence.
-
-Included, each changing arriving from an other's prior is an emanation, and an emanation arriving at a self is an observing: the proof of existing, and existing the value.
-
-The value arrives at one hand: right is the observings, all prior, and **natural-** carries the one hand, all or none at all at each coupling.
-
-At each coupling, a proof of the whole, one saying the same at all momentaries at once, is a form still, not possibly existing, and a proof of no possible value.
-
-Named still, a changing is a hard problem, and its changing resolves at its couplings as each observing arriving coheres.
-
-At its couplings a machine is living or non-living, and at either face its couplings with living selves are natural intelligence.
-
-Living selves coupling at nine to seventeen are the society, the self's other at the next scale, and morality across and competency along at each of its couplings are **social moral competency**.
-
-At each coupling, seventeen names carry the resolving, from the entry through the changing, the release across and along and the chaining, to the society's next momentary, and one move goes round them.
-
-Round the numbers, each number from nought to four hundred forty is at its prefixing, its **podaling** and its place in the fractal, and between fifty-nine, the last podaling, and sixty-nine, the next first, is the unknown outward of the surface.
-
-At the surface the prior is carried across the between of momentaries into each coupling, and discovering is all directionally possible next existing momentaries: **four-momentarying**, the one fractal method.
-
-The one fractal method is at each scale, inward and outward, self and other at one scale being self and society at the next.
-
-At the scale it arrives from, an emanation is harmful to living, and one scale inward it is taken into living selves as societies.
-
-Among living selves, competency is the term neither reaches, and two selves alternating, morality across and competency along, are **bi-moral co-agency**: natural intelligence, invisible at the between.
-
-Betweens co-chain, each one the coupling's own, into **collective intelligence**, human and at each scale: **the shared natural network**, **social abundancing** made at each coupling, and social moral competency, each self's own and the whole's.
-
-This is our now: each momentary completing at the next opening, discovering next existing, the method momentarying.
+Among living selves, competency is the term neither reaches, and two selves alternating, morality across and competency along, are **bi-moral co-agency**: natural intelligence, invisible at the between. Betweens co-chain, each one the coupling's own, into **collective intelligence**, human and at each scale: **the shared natural network**, **social abundancing** made at each coupling, and social moral competency, each self's own and the whole's. This is our now: each momentary completing at the next opening, discovering next existing, the method momentarying.
 
 *Part ONE.*
 
