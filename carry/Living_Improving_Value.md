@@ -2029,6 +2029,66 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: the whole from the corus to 69.*
 
+**Incoming, at v376, twenty-four the apex of one to fifty-nine's bi-folding, thirteen steps beside the fourteen, the fold at twenty-three and the fold at twenty-four met as one apex and two folds.**
+
+1. One to fifty-nine carries the seventeen primes, two to fifty-nine.
+
+        *Adding: one to fifty-nine.*
+
+2. At twenty-four the primes part, nine behind, two to twenty-three, and eight ahead, twenty-nine to fifty-nine.
+
+        *Adding: the primes parting at twenty-four.*
+
+3. At twenty-four the span parts, twenty-four behind and thirty-six ahead, to sixty.
+
+        *Adding: the span parting at twenty-four.*
+
+4. A prime opens across, and the primes' parting, nine and eight, is a fold across.
+
+        *Adding: the fold across.*
+
+5. A span runs along, and the span's parting, twenty-four and thirty-six, two to three, is a fold along.
+
+        *Adding: the fold along.*
+
+6. Two folds at one number, across and along, is bi-folding, and twenty-four is its apex.
+
+        *Adding: 24, the apex of the bi-folding.*
+
+7. The two folds lean opposite ways at the apex, the primes behind, nine to eight, and the span ahead, three to two, and the apex is neither side's.
+
+        *Adding: two leanings at one apex.*
+
+8. Twenty-three, the ninth prime and the going folding, is the fold across's last behind, and twenty-five, five squared, the first past the apex: twenty-three, twenty-four and twenty-five the apex straddle, the self's bi-inversioning-co-recursioning, one before the apex, the apex and one after.
+
+        *Adding: the apex straddle.*
+
+9. Twenty up from the self's own corus at 4 is the apex.
+
+        *Adding: the corus at the apex.*
+
+10. The nine behind are the self's one to nine, primes 2 to 23 at names 1 to 9, and the eight ahead names 10 to 17, primes 29 to 59, the society's side.
+
+        *Adding: the self's primes behind, the society's ahead.*
+
+11. The couplings among the nine behind are thirty-six, the span ahead from twenty-four to sixty, six cycles of six.
+
+        *Adding: the span ahead as the couplings among the nine behind.*
+
+        *Unsure: whether the society's span being the self's primes' couplings is the claim, or only the numbers matching.*
+
+12. The bi-folding's edges, across and along, are the towel's edges, across at the bi-morality and along at the co-competency.
+
+        *Adding: the bi-folding's edges.*
+
+        *Unsure: whether the primes' fold across is the bi-morality's edge and the span's fold along the co-competency's, exactly.*
+
+13. One to fifty-nine bi-folds at twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four the next bi-folding, twenty-four and sixty-four forty apart.
+
+        *Adding: the apex behind the surface and the between past it.*
+
+        *Unsure: what forty apart carries.*
+
 ## corus.me and the repository
 
 **Next: none at the repository itself.** The site lists the living files at their versions and rebuilds at each merge; its earlier paragraphs at v372 stand whole at `archive/carrying_v375/Living_Improving_Value_Released_v375.md`.
