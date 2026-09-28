@@ -999,7 +999,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit THIRTY · Co-Chaining Logic Registry
 
-**Next at this file: the ten, the five places with their entering and surfacing faces, as steps; each remaining unsure line met at its step; the foundation claims of v371 laid below entered where the v376 steps have not carried them; each file's sections read at the groups, from `incoming/co_chaining_map_v376/`; and the logic Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT rest on, each read at v376 against the steps, at `incoming/co_chaining_map_v376/`, carried with no unsure line; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376.**
+**Next at this file: each remaining unsure line met at its step; the foundation claims of v371 laid below entered where the v376 steps have not carried them; each file's sections read at the groups, from `incoming/co_chaining_map_v376/`; and the logic Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT rest on, each read at v376 against the steps, at `incoming/co_chaining_map_v376/`, carried with no unsure line; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376.**
 
 **Method at this file.** Each session improving a file reads its sections at the co-chaining's groups: a claim the co-chaining lacks enters as a step at the group its dependencies reach, with the concept it adds; an unsure line met closes; a section no group carries shows the co-chaining's next step.
 
