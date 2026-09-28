@@ -617,7 +617,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.13 Rings, looping and crossing
 
-**Selves joined along round a loop, each 9 releasing to the next self, carry one offering round.** One self offered + once, each self's carrying at none: at an even ring each self alternates, +, −, +, −, the ring repeating at each second momentary from momentary n, its number of selves; at an odd ring of n, a 0 travels round, one self at a time surfacing 0 at an offering matching its carrying, and the ring repeats at each 4n-th momentary from momentary n. Once offered, each self stays chained, and the ring carries on.
+**Selves joined along round a loop, each 9 releasing to the next self, carry one offering round.** One self offered + once, each self's carrying at none: at an even ring each self alternates, +, −, +, −, the ring repeating at each second momentary from momentary n, its number of selves; at an odd ring of n, a 0 goes round, one self at a time surfacing 0 at an offering matching its carrying, and the ring repeats at each 4n-th momentary from momentary n. Offered, each self is chained at each momentary on, and the ring carries on.
 
 **A ring offered nothing from beyond it carries any pattern of parities round whole**, each self at its own parity, the pattern at each momentary inverted or carried one self along: the selves carry it between them, momentary by momentary. A ring of selves is a joining at the code, each momentary a next, and no closed domain.
 
