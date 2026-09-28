@@ -234,7 +234,7 @@ Exhibit THREE Natural Numbers v376
 
 **Each number is its own, self-bounding, and each arrival of a number is that one number.** All the twos are the one two and all the eights the one eight; the ten of five taken two directions and the ten of the couplings among five are one ten.
 
-**No other possible is the alternating completing six forward without a still, a looping or a forking**, each step taking the term the prior did not carry, and no number is named with a competitor.
+**No other possible is the alternating completing six forward without a form named still, a looping or a forking**, each step taking the term the prior did not carry, and no number is named with a competitor.
 
 ## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
 

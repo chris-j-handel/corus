@@ -126,7 +126,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **All changing is parity changing, and each parity is named at its own face**: a sign's inversion, a number's odd and even, a phase's opposition, a winding's hand, a field's reflection at its own result, a connector's opening parity and a pair's agree or oppose. A parity carried from one scale to the next is named at both faces, the one it leaves and the one it arrives at, and an equal number joins no two selves: the coupling joins them.
 
-**An idealized mode inverted at each period T, q(t + T) = −q(t), is again at two, q(t + 2T) = q(t)**: the sign flip at a wave. Two oscillations can hold a phase difference of nought or π, and phase runs through a continuum between them: a phase is inward of the surface, measured, and a trace of phases is no trace of parities.
+**An idealized mode inverted at each period T, q(t + T) = −q(t), is again at two, q(t + 2T) = q(t)**: the sign flip at a wave. Two oscillations can carry a phase difference of nought or π, and phase runs through a continuum between them: a phase is inward of the surface, measured, and a trace of phases is no trace of parities.
 
 **Addition crosses and multiplication folds**: the two moves at a number, adding taken across and multiplying folded along. At two overlapping momentaries, the self's places 1 to 4 and the other's 2 to 5, three places are shared and two are outer: added across they are five places, and the shared three folded at the two sides are six, and the eight occurrences are 4 + 4 = 2 × 3 + 2, each side's four places four occurrences of the two parities. Two and two make four at both moves, two and three make five or six, three and three six or nine, and the overlap carries no nine: an equal result supplies no coupling.
 
@@ -204,7 +204,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **At the seventeen names, 8 up is a fixed-point-free pairing of 1 to 16**, eight pairs and no name left, and 17 is unpaired, the next momentary's 1. The ten faces are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, outward and inward about the tunneling at 10; the across loops' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose loop 9 to 17 closes at the one name the pairing leaves. The fold within 1 to 8 pairs each name with its other, changing parity; 8 up pairs each name with itself inward, continuing parity, one carrying at two names at the seam.
 
-**An accounting with an empty fixed set carries nothing to take a counting from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero apart, no metric scale and no outer edge.
+**An accounting with an empty fixed set carries nothing to take a counting from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
 
 ## 3.3 On a closed round no step is a reversal
 
@@ -214,7 +214,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **A step of k round a closed round of N reaches N/gcd(N, k) stations before it reaches its first again.** At a prime N each step short of the whole round reaches all N. At a composite N a step sharing no factor with N reaches all N too, three round eight reaching eight, and a step sharing one reaches a part, three round nine reaching three. Prime and coprime are two, each its own: four and nine share no factor above one, and neither is prime.
 
-**Two rounds of m and n stations stepped together, one station each, reach mn/gcd(m, n) of their mn pairs, on one of gcd(m, n) parallel windings of the torus the two rounds make.** At coprime m and n the one winding reaches each pair, and the two rounds are one round of mn. The mn is the pairs reached and is the same at each order of joining the rounds; competency is at the coupling, owned by neither, and no product, value or security is it.
+**Two rounds of m and n stations stepped together, one station each, reach mn/gcd(m, n) of their mn pairs, on one of gcd(m, n) parallel windings of the torus the two rounds make.** At coprime m and n the one winding reaches each pair, and the two rounds are one round of mn. The mn is the number of pairs reached and is the same at each order of joining the rounds; competency is at the coupling, owned by neither, and no product, value or security measures it.
 
 **At a fluid surface forced at two frequencies, Silber and Skeldon find the forcing integers, coprime and of opposite parity, deciding the harmonic and subharmonic response and the resonant interactions the normal form symmetries permit, and Arbell and Fineberg find two-frequency forcing selecting superlattice patterns through three- and four-wave interactions.** The vibration is driven by a forcing beyond the fluid, and its condition is parity and coprimality, not primality.
 
@@ -268,7 +268,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **On the names 1 to 8s two involutions fix nothing: the halfway pairing, 4s on in the first half and 4s back in the second, continuing each name's parity, and the fold n → 8s + 1 − n, changing it.** Taken alternately they reach four distinct names and the first again at the fourth, at each s: the fold after the pairing is n → 4s + 1 − n in the first half and n → 12s + 1 − n in the second, and with 4s + 1, 8s + 1 and 12s + 1 odd, none of the three folds fixes a name. At the scale 2s the fold after the pairing in the first half, 16s + 1 − (n + 8s) = 8s + 1 − n, is the fold at s, and at each scale t above s the fold at t after 8(t − s) up is the fold at s: the step up is eight at adjacent scales and the halfway pairing only at t = 2s.
 
-**The odd partners carry no fixed offset while the even rows stretch.** Each wider even complementing to the odd just before its companion in the other order carries at s = 1 and at s = 2 carries none: in 1 to 32 the complement of 2 is 31, one after the companion 30. With the wider row (2, 2 + 4s, 2 + 8s, 2 + 12s) and its companion 2s on, (2 + 2s, 2 + 6s, 2 + 10s, 2 + 14s), the fold at 2s sends the wider row's opening j to the companion's opening 3 − j, plus 2s − 3: −1, +1 and +3 at s = 1, 2 and 3.
+**The odd partners carry no fixed offset while the even rows stretch.** Each wider even complements to the odd just before its companion in the other order at s = 1, and at s = 2 to the odd one after it: in 1 to 32 the complement of 2 is 31, one after the companion 30. With the wider row (2, 2 + 4s, 2 + 8s, 2 + 12s) and its companion 2s on, (2 + 2s, 2 + 6s, 2 + 10s, 2 + 14s), the fold at 2s sends the wider row's opening j to the companion's opening 3 − j, plus 2s − 3: −1, +1 and +3 at s = 1, 2 and 3.
 
 ---
 
@@ -288,7 +288,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **A winding on a torus of three axes at rates carrying no whole-number relation comes arbitrarily close to each point and reaches none again; rates carrying one relation carry the winding on a surface within it.** At √2, √3 and √5 it covers the three; at 1, φ and φ² it is on a surface. At two axes the one relation is a rational ratio, and 1 and φ cover the two. Each rate at such a winding is a parameter it is written with; a self's own rate is written with none, unrelated to each other rate.
 
-**A winding at a rational rate closes, and a winding at φ closes at none.** φ is the number-form of the never-locking, and unrelationing runs at each coupling's own continuing at φ, arriving at the receiver's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and the windings' closing and covering are at their model, its axes and its time.
+**A winding at a rational rate closes, and a winding at φ closes at none.** φ is the number-form of the never-locking, and unrelationing runs at each coupling's own continuing at φ, arriving at the receiver's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and the windings' closing and covering are true at their model, its axes and its time.
 
 ## 4.3 Caught by a polynomial, and reached by square roots
 
@@ -318,7 +318,7 @@ Exhibit FOUR Natural Mathematics v376
 
 ## 5.1 No other possible at six forward
 
-**Anything expressible at the six forward recursionings of fractal bi-coupling is only-one-possible.** Expressing it is inverting it six ways forward, and completing the six without a still, a looping or a forking is no other possible: the expressing is the showing, step by step.
+**Anything expressible at the six forward recursionings of fractal bi-coupling is only-one-possible.** Expressing it is inverting it six ways forward, and completing the six without a form named still, a looping or a forking is no other possible: the expressing is the showing, step by step.
 
 **A false expression cannot complete the six**: it fixes, stopping; it loops, giving its own state again; or it forks, an either-or arriving.
 
@@ -366,7 +366,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from the two-ity, the field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on the three values nought, a and one in order, the negation of a is nought and the negation of nought is one: a negated twice arrives at one.
 
-**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things is its existing things, existing as they exist: the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
+**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms nothing beside its existing things, existing as they exist: the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
 
 ---
 
@@ -376,7 +376,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **Three neutrals float about the corus**: nought, the near nothing, position fixed at it; scale, the between, a unit fixed at it; and the bounded infinity, the far nothing, a frame fixed at it. The corus is the self's own inverting, + to −, and neither is its place.
 
-**One three is at two ways.** At its pairings, each two ways, it is six co-offerings: nought with scale, scale with the bounded infinity, nought with the bounded infinity, each offered both directions. At its forms, each neutral fixed or floating, it is two cubed, eight, the cube's eight corners. **Six co-offerings running about the three floating neutrals are natural mathematics**, no field and no hard problem.
+**One three pairs two ways.** At its pairings, each two ways, it is six co-offerings: nought with scale, scale with the bounded infinity, nought with the bounded infinity, each offered both directions. At its forms, each neutral fixed or floating, it is two cubed, eight, the cube's eight corners. **Six co-offerings running about the three floating neutrals are natural mathematics**, no field and no hard problem.
 
 ## 7.2 Each neutral fixed stops the co-offerings it partners
 
