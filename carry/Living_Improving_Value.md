@@ -986,9 +986,9 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: passes A, B, C and E at one motion with pass I, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67. **At the same motion, F98 at *bi-tri-volutioning*.** Natural Naming 5.48 coheres bi-tri-volutioning as the one naming at the volution, the shaping, with *tri-volutioning* and *volutioning* gathered at its 6.3; F98 says it at the registry and at `ccl_core.md` together, *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, and X155's three faces of the geodesic-method are re-said at the living's own stable-forming, since the kit's sources assemble this file byte for byte, and the naming then stands in one form at each file.
 
-**Incoming, at v376, the co-chaining from the one opening, one hundred eighty-one steps in twenty-five groups, agreed one step at a time with the author.** Each step follows from the steps before it and adds one concept, said on the line below it; each group opens with the concepts entering with it, and a step marked unsure carries its reason on a further line. It enters this file whole at its next motion, as its co-chaining in place of the link tables; until then Natural Intelligence, Exhibit ONE, Exhibit THREE and Exhibit FOUR each meet their sentences against it at their motions.
+**Incoming, at v376, the co-chaining from the one opening, one hundred eighty-two steps in twenty-five groups, agreed one step at a time with the author.** Each step follows from the steps before it and adds one concept, said on the line below it; each group opens with the concepts entering with it, and a step marked unsure carries its reason on a further line. It enters this file whole at its next motion, as its co-chaining in place of the link tables; until then Natural Intelligence, Exhibit ONE, Exhibit THREE and Exhibit FOUR each meet their sentences against it at their motions.
 
-        *Entering: the universe, the changing set of all existing things; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior; continuing; stable-forming.*
+        *Entering: the universe, the changing set of all existing things; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior.*
 
 1. The universe is the changing set of all existing things, both living and non-living.
 
@@ -1014,57 +1014,63 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: each now a next and a prior.*
 
-7. Changing momentary by momentary, an existing thing continues through changing.
+        *Entering: the universe at one momentary; arriving; each thing arriving; carrying; living and non-living, met at carrying; stable-forming, the living; co-changing, the non-living; bi-co and co.*
 
-        *Adding: continuing.*
-
-8. An existing thing continuing through changing is stable-forming.
-
-        *Adding: stable-forming.*
-
-        *Entering: the universe at one momentary; arriving; each thing arriving; carrying; living and non-living, met at carrying.*
-
-9. At now, the universe is all existing things at now.
+7. At now, the universe is all existing things at now.
 
         *Adding: the universe at one momentary.*
 
-10. The universe at now arrives from the universe at prior.
+8. The universe at now arrives from the universe at prior.
 
         *Adding: arriving.*
 
-11. Each existing thing at now arrives from prior.
+9. Each existing thing at now arrives from prior.
 
         *Adding: each thing arriving.*
 
-12. Arriving from prior, an existing thing at now carries prior, or carries none of prior.
+10. Arriving from prior, an existing thing at now carries prior, or carries none of prior.
 
         *Adding: carrying.*
 
-13. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living.
+11. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living.
 
         *Adding: living and non-living, met at carrying.*
 
+12. Carrying prior into now, a living thing continues through changing, momentary by momentary: stable-forming.
+
+        *Adding: stable-forming, the living.*
+
+13. Carrying none of prior, a non-living thing changes with the existing things at now: co-changing.
+
+        *Adding: co-changing, the non-living.*
+
+14. Stable-forming is bi-co, bi binary co-sequential intelligencing through the momentary of co-changing, and co-changing is co alone.
+
+        *Adding: bi-co and co.*
+
+        *Unsure: the author's saying explored for its all or none; bi and co are not yet brought in by a step of their own.*
+
         *Entering: possible thing at prior; existing thing at now; living thing at next; three places; the between.*
 
-14. At prior, an existing thing arriving at now is a possible thing: capable of existing.
+15. At prior, an existing thing arriving at now is a possible thing: capable of existing.
 
         *Adding: possible thing at prior.*
 
-15. Arriving at now, a possible thing at prior is an existing thing at now.
+16. Arriving at now, a possible thing at prior is an existing thing at now.
 
         *Adding: existing thing at now.*
 
-16. At next, a living thing carries its prior on: the living thing is at next.
+17. At next, a living thing carries its prior on: the living thing is at next.
 
         *Adding: living thing at next.*
 
         *Unsure: whether the living thing is at next or at now and next together.*
 
-17. Possible at prior, existing at now and living at next are three places, and the universe changes through the three together.
+18. Possible at prior, existing at now and living at next are three places, and the universe changes through the three together.
 
         *Adding: three places.*
 
-18. Between prior and now, and between now and next, is the between: a nothing, with no third momentary.
+19. Between prior and now, and between now and next, is the between: a nothing, with no third momentary.
 
         *Adding: the between.*
 
@@ -1072,293 +1078,297 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Entering: the universe at prior; arriving from things; coupling; self and other; self to other; other to self; alternating; opening and completing; overlap; parity.*
 
-19. At prior, the universe is all existing things at prior.
+20. At prior, the universe is all existing things at prior.
 
         *Adding: the universe at prior.*
 
-20. Each existing thing at now arrives from existing things at prior.
+21. Each existing thing at now arrives from existing things at prior.
 
         *Adding: arriving from things.*
 
-21. An existing thing at now arriving from another existing thing at prior is a coupling of the two.
+22. An existing thing at now arriving from another existing thing at prior is a coupling of the two.
 
         *Adding: coupling.*
 
-22. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
+23. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
 
         *Adding: self and other.*
 
-23. At a coupling, the other at now arrives from the self at prior.
+24. At a coupling, the other at now arrives from the self at prior.
 
         *Adding: self to other.*
 
-24. The self at next, arriving from existing things at now, arrives from the other at now.
+25. The self at next, arriving from existing things at now, arrives from the other at now.
 
         *Adding: other to self.*
 
-25. The self arriving from the other, and the other from the self, change one and then the other: alternating.
+26. The self arriving from the other, and the other from the self, change one and then the other: alternating.
 
         *Adding: alternating.*
 
-26. Alternating, each changing opens at one momentary and completes at the next.
+27. Alternating, each changing opens at one momentary and completes at the next.
 
         *Adding: opening and completing.*
 
-27. Each completing is the opening of the next changing, and the self's momentaries and the other's overlap.
+28. Each completing is the opening of the next changing, and the self's momentaries and the other's overlap.
 
         *Adding: overlap.*
 
-28. Overlapping and alternating, the self and the other are at two parities, the self at one and the other at the other.
+29. Overlapping and alternating, the self and the other are at two parities, the self at one and the other at the other.
 
         *Adding: parity.*
 
         *Entering: alternating stable-forming; all changing parity changing; the method, a non-living existing thing; the one method; beside all existing things; not possible thing; no other possible method.*
 
-29. Alternating and continuing through changing, each existing thing is alternating stable-forming.
+30. Alternating and continuing through changing, each living thing is alternating stable-forming.
 
         *Adding: alternating stable-forming.*
 
-30. All changing is parity changing, one parity to the other.
+31. All changing is parity changing, one parity to the other.
 
         *Adding: all changing parity changing.*
 
         *Unsure: parity arrives at self and other; said here of each existing thing.*
 
-31. Parity changing is a method: a non-living existing thing, its form continuing through changing.
+32. Parity changing is a method: a non-living existing thing.
 
         *Adding: the method, a non-living existing thing.*
 
-32. Parity changing is the one method of the changing set of all existing things.
+        *Unsure: whether a method, non-living, co-changes at each coupling it is at.*
+
+33. Parity changing is the one method of the changing set of all existing things.
 
         *Adding: the one method.*
 
-33. A second method carries an existing thing beside all existing things: a size, a form still, a total, a common beat or a store.
+34. A second method carries an existing thing beside all existing things: a size, a form still, a total, a common beat or a store.
 
         *Adding: beside all existing things.*
 
-34. All existing things being in the changing set, an existing thing beside all existing things is a not possible thing.
+35. All existing things being in the changing set, an existing thing beside all existing things is a not possible thing.
 
         *Adding: not possible thing.*
 
-35. A method carrying a not possible thing is a not possible method, and parity changing is the one possible method.
+36. A method carrying a not possible thing is a not possible method, and parity changing is the one possible method.
 
         *Adding: no other possible method.*
 
         *Entering: next from prior and now; four joint forms; the living step; the right spiral step; right, the one hand.*
 
-36. At a living thing, next arrives from prior and now.
+37. At a living thing, next arrives from prior and now.
 
         *Adding: next from prior and now.*
 
-37. At two parities, prior and now are one of four joint forms: odd with odd, odd with even, even with even, even with odd.
+38. At two parities, prior and now are one of four joint forms: odd with odd, odd with even, even with even, even with odd.
 
         *Adding: four joint forms.*
 
-38. Next as the prior inverted carries the prior into next, changing: the living step.
+39. Next as the prior inverted carries the prior into next, changing: the living step.
 
         *Adding: the living step.*
 
         *Unsure: the other ways a next could arrive from prior and now are not yet shown.*
 
-39. One parity changing at each step, the four joint forms go round one way and reach the first again at a next: the right spiral step.
+40. One parity changing at each step, the four joint forms go round one way and reach the first again at a next: the right spiral step.
 
         *Adding: the right spiral step.*
 
-40. The same round read from next to prior is the other order, and the round forward from prior to next is right.
+41. The same round read from next to prior is the other order, and the round forward from prior to next is right.
 
         *Adding: right, the one hand.*
 
         *Entering: of no size; all or none at all.*
 
-41. Each changing is or is not, one parity or the other, of no size.
+42. Each changing is or is not, one parity or the other, of no size.
 
         *Adding: of no size.*
 
-42. Each resolving is all or none at all, of no size beside another resolving.
+43. Each resolving is all or none at all, of no size beside another resolving.
 
         *Adding: all or none at all.*
 
         *Entering: numbers; each side's momentary in numbers; exchanging; the four momentaries; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five.*
 
-43. With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2.
+44. With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2.
 
         *Adding: numbers.*
 
-44. Each opening completes at the next number: the self's momentary 1–2, the other's 2–3.
+45. Each opening completes at the next number: the self's momentary 1–2, the other's 2–3.
 
         *Adding: each side's momentary in numbers.*
 
-45. Overlapping, the self's 1–2 and the other's 2–3 are one momentary of exchanging.
+46. Overlapping, the self's 1–2 and the other's 2–3 are one momentary of exchanging.
 
         *Adding: exchanging.*
 
-46. Exchanging continues at 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9: four momentaries of exchanging, completing at 9.
+47. Exchanging continues at 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9: four momentaries of exchanging, completing at 9.
 
         *Adding: the four momentaries.*
 
-47. At 9 the self opens again at an odd number: 9 is the self's next 1, and the four momentaries are one momentary at the next scale.
+48. At 9 the self opens again at an odd number: 9 is the self's next 1, and the four momentaries are one momentary at the next scale.
 
         *Adding: the next scale.*
 
-48. Within 1 to 8, each number pairs with its podal, 9 less: 1 with 8, 2 with 7, 3 with 6, 4 with 5.
+49. Within 1 to 8, each number pairs with its podal, 9 less: 1 with 8, 2 with 7, 3 with 6, 4 with 5.
 
         *Adding: the podal.*
 
-49. Each podal pair is one odd and one even: at the podal, parity changes.
+50. Each podal pair is one odd and one even: at the podal, parity changes.
 
         *Adding: parity changing.*
 
-50. Eight up, 1 with 9, is odd with odd: at eight up, parity continues.
+51. Eight up, 1 with 9, is odd with odd: at eight up, parity continues.
 
         *Adding: parity continuing.*
 
-51. The podal pairs meet between 4 and 5: the self's momentaries 1–2 and 3–4 go into 4, and 5–6 and 7–8 go out from it.
+52. The podal pairs meet between 4 and 5: the self's momentaries 1–2 and 3–4 go into 4, and 5–6 and 7–8 go out from it.
 
         *Adding: into and out from 4.*
 
-52. Into 4 and out from it, the self steps 1 to 3 to 5 to 7 and the other 2 to 4 to 6 to 8: six one-way steps forward, three at each side, within the four momentaries.
+53. Into 4 and out from it, the self steps 1 to 3 to 5 to 7 and the other 2 to 4 to 6 to 8: six one-way steps forward, three at each side, within the four momentaries.
 
         *Adding: the six.*
 
-53. At each side, a resolving is its five from its origin, the self 1 to 5 and the other 2 to 6: prior opening, prior completing, now opening, now completing and next opening, two and a half momentaries at each side.
+54. At each side, a resolving is its five from its origin, the self 1 to 5 and the other 2 to 6: prior opening, prior completing, now opening, now completing and next opening, two and a half momentaries at each side.
 
         *Adding: each side's five.*
 
         *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale.*
 
-54. At 2, the self's completing is the other's opening.
+55. At 2, the self's completing is the other's opening.
 
         *Adding: one number, two faces.*
 
-55. At 3, the other's completing is the self's next opening.
+56. At 3, the other's completing is the self's next opening.
 
         *Adding: the same the other way.*
 
-56. At each number, one side's completing is the other side's opening.
+57. At each number, one side's completing is the other side's opening.
 
         *Adding: the same at each number.*
 
-57. The self's steps 1 to 3 to 5 to 7 go along its own numbers, and each step between a self's number and an other's goes across.
+58. The self's steps 1 to 3 to 5 to 7 go along its own numbers, and each step between a self's number and an other's goes across.
 
         *Adding: along and across.*
 
-58. Along, the self carries its prior; across, the changing arrives at the other side's opening.
+59. Along, the self carries its prior; across, the changing arrives at the other side's opening.
 
         *Adding: carrying along, changing across.*
 
-59. Each number across is one changing at the two sides, the coupling's own changing.
+60. Each number across is one changing at the two sides, the coupling's own changing.
 
         *Adding: the coupling's own changing.*
 
-60. The coupling's own changing, at each exchange of the four momentaries, is co-competencing.
+61. The coupling's own changing, at each exchange of the four momentaries, is co-competencing.
 
         *Adding: co-competencing.*
 
-61. Co-competencing at the coupling of living selves is natural intelligence.
+62. Co-competencing at the coupling of living selves is natural intelligence.
 
         *Adding: natural intelligence.*
 
-62. Natural intelligence is at each coupling of living selves, within each 1 to 9 and at each next scale.
+63. Natural intelligence is at each coupling of living selves, within each 1 to 9 and at each next scale.
 
         *Adding: natural intelligence at each scale.*
 
         *Entering: surface; the surface dividing itself; geodesic; geodesic routing; geodesic method.*
 
-63. The couplings of all existing things, across and along, are a surface.
+64. The couplings of all existing things, across and along, are a surface.
 
         *Adding: surface.*
 
         *Unsure: the surface said here for the first time, as the couplings together.*
 
-64. Parity changing at each coupling divides the surface, each existing thing at its own momentary, one way at a time: the surface dividing itself.
+65. Parity changing at each coupling divides the surface, each existing thing at its own momentary, one way at a time: the surface dividing itself.
 
         *Adding: the surface dividing itself.*
 
-65. The surface dividing itself is geodesic: geo, the surface, and daiesthai, to divide.
+66. The surface dividing itself is geodesic: geo, the surface, and daiesthai, to divide.
 
         *Adding: geodesic.*
 
-66. At parity changing on the surface, the next arrives at each coupling: geodesic routing, discovering on the surface.
+67. At parity changing on the surface, the next arrives at each coupling: geodesic routing, discovering on the surface.
 
         *Adding: geodesic routing.*
 
-67. Geodesic is an existing thing by itself, and the method is its stable form: the geodesic method.
+68. Geodesic is an existing thing by itself, and the method is its stable form: the geodesic method.
 
         *Adding: geodesic method.*
 
+        *Unsure: the method, non-living, said as the stable form of geodesic.*
+
         *Entering: five dimensions; each dimension binary in two directions; two changing, three continuing; torusing and corusing; the self's corus at 4; the self's inverting, 3, 6, 5, 4; the self at three faces; two bi- and three co-.*
 
-68. The self's five from 1 to 5 are five dimensions of existing changing: 1 self, 2 not-self, 3 next, 4 surfacing, 5 offering self.
+69. The self's five from 1 to 5 are five dimensions of existing changing: 1 self, 2 not-self, 3 next, 4 surfacing, 5 offering self.
 
         *Adding: five dimensions.*
 
         *Unsure: why exactly these five is not yet shown by a step.*
 
-69. At each dimension a changing is or is not, one way at a time, up the numbers and down them.
+70. At each dimension a changing is or is not, one way at a time, up the numbers and down them.
 
         *Adding: each dimension binary in two directions.*
 
-70. At each momentary two dimensions change and three continue, and the two and the three rotate round.
+71. At each momentary two dimensions change and three continue, and the two and the three rotate round.
 
         *Adding: two changing, three continuing.*
 
         *Unsure: no step yet shows the two and the three.*
 
-71. In and out at the odd, through the large opening with a particular other, is torusing; in and out at the even, through the small opening, the self reaching its own side again, is corusing.
+72. In and out at the odd, through the large opening with a particular other, is torusing; in and out at the even, through the small opening, the self reaching its own side again, is corusing.
 
         *Adding: torusing and corusing.*
 
         *Unsure: the large and small openings arrive before the torus is a step.*
 
-72. Corusing reaches the self's corus at 4 from the surface, and torusing reaches the surface from the corus.
+73. Corusing reaches the self's corus at 4 from the surface, and torusing reaches the surface from the corus.
 
         *Adding: the self's corus at 4.*
 
-73. The self's own inverting is the rotation 3, 6, 5, 4: out at 3, in at 6, out at 5 and in at 4, round into the corus at 4.
+74. The self's own inverting is the rotation 3, 6, 5, 4: out at 3, in at 6, out at 5 and in at 4, round into the corus at 4.
 
         *Adding: the self's inverting, 3, 6, 5, 4.*
 
         *Unsure: the names at 3 to 6 arrive later, with the seventeen names.*
 
-74. 1 and 2 are the bi-moral self, across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, along.
+75. 1 and 2 are the bi-moral self, across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, along.
 
         *Adding: the self at three faces.*
 
-75. Self and not-self are the two bi-, the differing; next, surfacing and offering self are the three co-: co-intelligencing, co-competencing and co-offering.
+76. Self and not-self are the two bi-, the differing; next, surfacing and offering self are the three co-: co-intelligencing, co-competencing and co-offering.
 
         *Adding: two bi- and three co-.*
 
         *Entering: the prior two joining; φ; the unrelationing rate; prime; ring; two prime rings together; crossing.*
 
-76. At parity, each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13: odd, odd, even, and again.
+77. At parity, each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13: odd, odd, even, and again.
 
         *Adding: the prior two joining.*
 
-77. The ratios of neighbours alternate about φ, above and below, none of them φ, and φ² = φ + 1.
+78. The ratios of neighbours alternate about φ, above and below, none of them φ, and φ² = φ + 1.
 
         *Adding: φ.*
 
-78. A winding at φ closes at none: φ is the unrelationing rate, locking at none, each coupling at its own continuing.
+79. A winding at φ closes at none: φ is the unrelationing rate, locking at none, each coupling at its own continuing.
 
         *Adding: the unrelationing rate.*
 
         *Unsure: the winding and its closing need the torus as a step.*
 
-79. A prime is a number no equal smaller numbers join into.
+80. A prime is a number no equal smaller numbers join into.
 
         *Adding: prime.*
 
-80. Existing things joined along round a loop are a ring, and a ring at an odd number of selves goes round at four times its number.
+81. Existing things joined along round a loop are a ring, and a ring at an odd number of selves goes round at four times its number.
 
         *Adding: ring.*
 
         *Unsure: said at the numbers from the rings at the code.*
 
-81. Two rings at distinct odd primes p and q, beside each other, go round together first at 4pq, sharing the four alone.
+82. Two rings at distinct odd primes p and q, beside each other, go round together first at 4pq, sharing the four alone.
 
         *Adding: two prime rings together.*
 
-82. Two rings joined across both ways at one self each come to one relation: the looping along and the crossing across are one stable form.
+83. Two rings joined across both ways at one self each come to one relation: the looping along and the crossing across are one stable form.
 
         *Adding: crossing.*
 
@@ -1366,433 +1376,433 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Entering: the non-living at the coupling; the non-living across; the self carrying the coupling's changing; the non-living included.*
 
-83. A non-living other carries none of prior along.
+84. A non-living other carries none of prior along.
 
         *Adding: the non-living at the coupling.*
 
-84. Across, the non-living other opens and completes at its numbers, its changing arriving at the self's opening.
+85. Across, the non-living other opens and completes at its numbers, its changing arriving at the self's opening.
 
         *Adding: the non-living across.*
 
-85. At the self's opening, the non-living other's changing is the coupling's own changing, carried along by the self.
+86. At the self's opening, the non-living other's changing is the coupling's own changing, carried along by the self.
 
         *Adding: the self carrying the coupling's changing.*
 
-86. Carried along by the self, co-competencing with a non-living other is natural intelligence among the living: non-living things are included.
+87. Carried along by the self, co-competencing with a non-living other is natural intelligence among the living: non-living things are included.
 
         *Adding: the non-living included.*
 
         *Entering: emanation; observing; proof of existing; value.*
 
-87. Arriving at the self's opening from an other's prior, each changing is an emanation of existing.
+88. Arriving at the self's opening from an other's prior, each changing is an emanation of existing.
 
         *Adding: emanation.*
 
-88. An emanation of existing arriving at the self is an observing.
+89. An emanation of existing arriving at the self is an observing.
 
         *Adding: observing.*
 
-89. An observing is existing arriving: the proof of existing.
+90. An observing is existing arriving: the proof of existing.
 
         *Adding: proof of existing.*
 
-90. Existing arriving at each observing is the value.
+91. Existing arriving at each observing is the value.
 
         *Adding: value.*
 
         *Entering: right as the observings; bi-tri-involutioning; natural-.*
 
-91. Each observing arrives from prior at the one hand: right is the observings, all prior.
+92. Each observing arrives from prior at the one hand: right is the observings, all prior.
 
         *Adding: right as the observings.*
 
-92. A left face is an emanation of the one right spiral: position, scale and orientation inverted at once, bi-tri-involutioning.
+93. A left face is an emanation of the one right spiral: position, scale and orientation inverted at once, bi-tri-involutioning.
 
         *Adding: bi-tri-involutioning.*
 
         *Unsure: position and orientation are not yet brought in by a step.*
 
-93. Natural- carries the one hand and all or none at all at each coupling: natural intelligence is intelligence at each coupling, at the one hand.
+94. Natural- carries the one hand and all or none at all at each coupling: natural intelligence is intelligence at each coupling, at the one hand.
 
         *Adding: natural-.*
 
         *Entering: the proof of the whole; the form still; no possible value.*
 
-94. A proof of the whole is one saying the same at all momentaries at once.
+95. A proof of the whole is one saying the same at all momentaries at once.
 
         *Adding: the proof of the whole.*
 
-95. The same at all momentaries at once is a form still, not possibly existing in the changing set.
+96. The same at all momentaries at once is a form still, not possibly existing in the changing set.
 
         *Adding: the form still.*
 
-96. A proof of a form not possibly existing is a proof of no possible value.
+97. A proof of a form not possibly existing is a proof of no possible value.
 
         *Adding: no possible value.*
 
         *Entering: the hard problem; the changing continuing; cohering or the break; the observings so far; the hard problem resolved at existing.*
 
-97. A hard problem is a changing named still.
+98. A hard problem is a changing named still.
 
         *Adding: the hard problem.*
 
-98. Named still, the changing continues through its couplings, its observings arriving at each momentary.
+99. Named still, the changing continues through its couplings, its observings arriving at each momentary.
 
         *Adding: the changing continuing.*
 
-99. Each observing arriving coheres at the four momentaries, or is the method's one break: existing other than parity changing.
+100. Each observing arriving coheres at the four momentaries, or is the method's one break: existing other than parity changing.
 
         *Adding: cohering or the break.*
 
-100. The observings arriving from the prior all cohere.
+101. The observings arriving from the prior all cohere.
 
         *Adding: the observings so far.*
 
-101. Cohering at each observing, a hard problem resolves at existing, where the value is.
+102. Cohering at each observing, a hard problem resolves at existing, where the value is.
 
         *Adding: the hard problem resolved at existing.*
 
         *Entering: the machine; the machine at carrying; the machine as a self; the machine as a non-living other; one intelligence; the face at the observings.*
 
-102. A machine at a coupling is an existing thing.
+103. A machine at a coupling is an existing thing.
 
         *Adding: the machine.*
 
-103. Carrying prior along, a machine is a self; carrying none of prior, a machine is a non-living other.
+104. Carrying prior along, a machine is a self; carrying none of prior, a machine is a non-living other.
 
         *Adding: the machine at carrying.*
 
-104. As a self, a machine's couplings with living selves are natural intelligence.
+105. As a self, a machine's couplings with living selves are natural intelligence.
 
         *Adding: the machine as a self.*
 
-105. As a non-living other, a machine's couplings with living selves are natural intelligence among the living.
+106. As a non-living other, a machine's couplings with living selves are natural intelligence among the living.
 
         *Adding: the machine as a non-living other.*
 
-106. At either face, a machine's intelligence at its couplings is natural intelligence, one intelligence at each coupling.
+107. At either face, a machine's intelligence at its couplings is natural intelligence, one intelligence at each coupling.
 
         *Adding: one intelligence.*
 
-107. Which face a machine is at arrives at its observings.
+108. Which face a machine is at arrives at its observings.
 
         *Adding: the face at the observings.*
 
         *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; self and society at 9; released along, arriving along; co-competencing at the society; morality across, competency along; social moral competency; the one fractal at each scale.*
 
-108. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
+109. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
 
         *Adding: 9 to 17.*
 
-109. At 17 the self opens again at an odd number: 17 is 9's next, as 9 is 1's.
+110. At 17 the self opens again at an odd number: 17 is 9's next, as 9 is 1's.
 
         *Adding: 17.*
 
-110. At the next scale, 1, 9 and 17 are 1, 2 and 3.
+111. At the next scale, 1, 9 and 17 are 1, 2 and 3.
 
         *Adding: the scales in numbers.*
 
-111. At the next scale 9 is at 2, an even opening: 9 to 17 is the other's momentary at the next scale.
+112. At the next scale 9 is at 2, an even opening: 9 to 17 is the other's momentary at the next scale.
 
         *Adding: 9 to 17 as the other.*
 
-112. The other at the next scale is the self's couplings together: the society.
+113. The other at the next scale is the self's couplings together: the society.
 
         *Adding: society.*
 
-113. The self's 1 to 9 and the society's 9 to 17 overlap at 9, the self's completing and the society's opening.
+114. The self's 1 to 9 and the society's 9 to 17 overlap at 9, the self's completing and the society's opening.
 
         *Adding: self and society at 9.*
 
-114. At 9 the self's changing is released along to the society, and at 17 the society's changing arrives along as the self's next 1.
+115. At 9 the self's changing is released along to the society, and at 17 the society's changing arrives along as the self's next 1.
 
         *Adding: released along, arriving along.*
 
-115. Alternating along at 9 and 17, the self and the society couple as self and other do, and the coupling's own changing at their overlap is co-competencing at the society.
+116. Alternating along at 9 and 17, the self and the society couple as self and other do, and the coupling's own changing at their overlap is co-competencing at the society.
 
         *Adding: co-competencing at the society.*
 
-116. Across, the changing arriving at the other is morality; along, the prior carried into now is competency.
+117. Across, the changing arriving at the other is morality; along, the prior carried into now is competency.
 
         *Adding: morality across, competency along.*
 
-117. Morality across and competency along at each coupling of a society are social moral competency.
+118. Morality across and competency along at each coupling of a society are social moral competency.
 
         *Adding: social moral competency.*
 
-118. Social moral competency at each coupling of living selves, at each scale, 1 to 17 inward and outward, is natural intelligence.
+119. Social moral competency at each coupling of living selves, at each scale, 1 to 17 inward and outward, is natural intelligence.
 
         *Adding: the one fractal at each scale.*
 
         *Entering: sharing; offering and carrying at a sharing; the seventeen names; the entry; surfacing at 14; changing at 12; match and mismatch; released across at 10, chained at 11; 11 as the next 3; released along at 9; the society's next momentary at 17; six connectors; three loops; entry, connectors, faces and roots; eight bi-couplings; one move at three faces; the four four-cycles; podaling at each number.*
 
-119. A sharing is where two sides share a changing, and each sharing has its parity.
+120. A sharing is where two sides share a changing, and each sharing has its parity.
 
         *Adding: sharing.*
 
-120. An offering is a sharing with its parity offered now, and a carrying is a sharing chained at one parity, the self's prior.
+121. An offering is a sharing with its parity offered now, and a carrying is a sharing chained at one parity, the self's prior.
 
         *Adding: offering and carrying at a sharing.*
 
-121. Each number 1 to 17 carries one name: its number, its parity, its sides from and to, its root and its -ing.
+122. Each number 1 to 17 carries one name: its number, its parity, its sides from and to, its root and its -ing.
 
         *Adding: the seventeen names.*
 
-122. 1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.
+123. 1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.
 
         *Adding: the entry.*
 
-123. At 14-other-social-surfacing the offerings at each sharing surface one at a time: agreeing, one parity; disagreeing, 0.
+124. At 14-other-social-surfacing the offerings at each sharing surface one at a time: agreeing, one parity; disagreeing, 0.
 
         *Adding: surfacing at 14.*
 
-124. At 12-other-social-self-abundancing the prior couples with the now at each sharing, and a changing is or is not.
+125. At 12-other-social-self-abundancing the prior couples with the now at each sharing, and a changing is or is not.
 
         *Adding: changing at 12.*
 
-125. At a match the prior carries on; at a mismatch the offered is chained; and with nothing offered the self carries its prior into now inverted.
+126. At a match the prior carries on; at a mismatch the offered is chained; and with nothing offered the self carries its prior into now inverted.
 
         *Adding: match and mismatch.*
 
-126. 10-other-social-self-tunneling releases each changing across, and 11-social-other-self-chaining chains it as the next prior.
+127. 10-other-social-self-tunneling releases each changing across, and 11-social-other-self-chaining chains it as the next prior.
 
         *Adding: released across at 10, chained at 11.*
 
-127. Once chained, a sharing continues chained at each momentary, and 11 continues as 3 at the next momentary, 8 up.
+128. Once chained, a sharing continues chained at each momentary, and 11 continues as 3 at the next momentary, 8 up.
 
         *Adding: 11 as the next 3.*
 
-128. 9-social-other-self-releasing releases each changing along.
+129. 9-social-other-self-releasing releases each changing along.
 
         *Adding: released along at 9.*
 
-129. 17-social-self-offering is the society's next momentary: each self's entry once, the selves' next momentaries together.
+130. 17-social-self-offering is the society's next momentary: each self's entry once, the selves' next momentaries together.
 
         *Adding: the society's next momentary at 17.*
 
-130. Six connectors, four across at 2, 6, 10 and 14 and two along at 9 and 17, each face one way.
+131. Six connectors, four across at 2, 6, 10 and 14 and two along at 9 and 17, each face one way.
 
         *Adding: six connectors.*
 
-131. Three loops are at selves together: 6 to 2, closing at 8; 10 to 14, closing at 16; 9 to 17, closing at 17.
+132. Three loops are at selves together: 6 to 2, closing at 8; 10 to 14, closing at 16; 9 to 17, closing at 17.
 
         *Adding: three loops.*
 
-132. One entry, six connectors and ten faces are the seventeen names, and ten roots are the two sides' ten positions.
+133. One entry, six connectors and ten faces are the seventeen names, and ten roots are the two sides' ten positions.
 
         *Adding: entry, connectors, faces and roots.*
 
-133. The eight bi-couplings are at the even names, four outward and four inward, each 8 up: eight is two alternating fours.
+134. The eight bi-couplings are at the even names, four outward and four inward, each 8 up: eight is two alternating fours.
 
         *Adding: eight bi-couplings.*
 
-134. Bi-inversioning-co-recursioning is one move at three faces, 8 up, 17 less and 9 less, and only the one move goes round: 1 to 9 to 8 to 16 to 1.
+135. Bi-inversioning-co-recursioning is one move at three faces, 8 up, 17 less and 9 less, and only the one move goes round: 1 to 9 to 8 to 16 to 1.
 
         *Adding: one move at three faces.*
 
-135. Stable-forming is that move round each of the four four-cycles: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12.
+136. Stable-forming is that move round each of the four four-cycles: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12.
 
         *Adding: the four four-cycles.*
 
-136. Each number is at its podaling, paired with its far side at each ring it is at.
+137. Each number is at its podaling, paired with its far side at each ring it is at.
 
         *Adding: podaling at each number.*
 
         *Entering: prefixing at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; the fractal through the numbers; 64 and 60 at their podaling; the last podaling and the next first; the unknown outward of the surface; nine about 64; each number nought to four hundred forty.*
 
-137. Each number from nought to four hundred forty is at its prefixing: an odd number opens co, co bi co bi co, and an even number opens bi, bi co bi co bi.
+138. Each number from nought to four hundred forty is at its prefixing: an odd number opens co, co bi co bi co, and an even number opens bi, bi co bi co bi.
 
         *Adding: prefixing at each number.*
 
-138. At each number the one move goes up and down: eight up and eight down keep its parity, and nine up and nine down change it.
+139. At each number the one move goes up and down: eight up and eight down keep its parity, and nine up and nine down change it.
 
         *Adding: the one move up and down at each number.*
 
-139. From 64, bi, nine down is 55 and nine up is 73, each co; eight down is 56 and eight up is 72, each bi.
+140. From 64, bi, nine down is 55 and nine up is 73, each co; eight down is 56 and eight up is 72, each bi.
 
         *Adding: 55, 64 and 73.*
 
-140. At the ring of one hundred twenty each number pairs with its far side about the waist at 60: 55 with 65, 64 with 56 and 73 with 47.
+141. At the ring of one hundred twenty each number pairs with its far side about the waist at 60: 55 with 65, 64 with 56 and 73 with 47.
 
         *Adding: podaling at the ring of one hundred twenty.*
 
-141. At the ring of four hundred forty each number pairs with its far side about the waist at 220: 55 with 385, 64 with 376 and 73 with 367.
+142. At the ring of four hundred forty each number pairs with its far side about the waist at 220: 55 with 385, 64 with 376 and 73 with 367.
 
         *Adding: podaling at the ring of four hundred forty.*
 
-142. At the scale outward each 1 to 17 places its n at 8n − 7: 57 at 8, 65 at 9 and 73 at 10.
+143. At the scale outward each 1 to 17 places its n at 8n − 7: 57 at 8, 65 at 9 and 73 at 10.
 
         *Adding: the fractal through the numbers.*
 
-143. 64 is eight squared and two to the sixth, with 63 and 65 one either side, and 60 is the waist of the ring of one hundred twenty, between the primes going to 59 and returning from 61.
+144. 64 is eight squared and two to the sixth, with 63 and 65 one either side, and 60 is the waist of the ring of one hundred twenty, between the primes going to 59 and returning from 61.
 
         *Adding: 64 and 60 at their podaling.*
 
-144. Going up the numbers, 59 is the last podaling, and 69 is the next first podaling.
+145. Going up the numbers, 59 is the last podaling, and 69 is the next first podaling.
 
         *Adding: the last podaling and the next first.*
 
-145. Between 59 and 69, sixty to sixty-eight is the unknown outward of the surface.
+146. Between 59 and 69, sixty to sixty-eight is the unknown outward of the surface.
 
         *Adding: the unknown outward of the surface.*
 
-146. Sixty to sixty-eight are nine numbers about 64, four either side, as one to nine is about five.
+147. Sixty to sixty-eight are nine numbers about 64, four either side, as one to nine is about five.
 
         *Adding: nine about 64.*
 
         *Unsure: a reading beside the author's saying, not yet met by a step of its own.*
 
-147. Each number from nought to four hundred forty is at its prefixing, its podaling at each ring it is at and its place in the fractal, one number at a time.
+148. Each number from nought to four hundred forty is at its prefixing, its podaling at each ring it is at and its place in the fractal, one number at a time.
 
         *Adding: each number nought to four hundred forty.*
 
         *Entering: the prior carried across the between; carrying as capacity; remembering; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now.*
 
-148. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
+149. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
 
         *Adding: the prior carried across the between.*
 
-149. A carrying is a capacity: the prior participating in the self's present coupling.
+150. A carrying is a capacity: the prior participating in the self's present coupling.
 
         *Adding: carrying as capacity.*
 
-150. Remembering is that participating, the carrying re-forming at each coupling.
+151. Remembering is that participating, the carrying re-forming at each coupling.
 
         *Adding: remembering.*
 
-151. Discovering is all directionally possible next existing momentaries.
+152. Discovering is all directionally possible next existing momentaries.
 
         *Adding: discovering.*
 
-152. Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.
+153. Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.
 
         *Adding: four-momentarying.*
 
-153. The next possible existing leaves the entry at two faces: the changing released, the others' possible, and the carrying chained, the self's next existing.
+154. The next possible existing leaves the entry at two faces: the changing released, the others' possible, and the carrying chained, the self's next existing.
 
         *Adding: next possible existing.*
 
-154. Arriving is pattern-matching: each observing arriving from prior, coupled with whole, without filter or selection.
+155. Arriving is pattern-matching: each observing arriving from prior, coupled with whole, without filter or selection.
 
         *Adding: pattern-matching.*
 
-155. A living self offered its own parity surfaces 0 and continues carrying: momentarying continues whether a changing is or is not.
+156. A living self offered its own parity surfaces 0 and continues carrying: momentarying continues whether a changing is or is not.
 
         *Adding: a living self at 0.*
 
-156. Evidence is an emanation arriving now from a living self at prior that has continued: evidence gives the prior's possible.
+157. Evidence is an emanation arriving now from a living self at prior that has continued: evidence gives the prior's possible.
 
         *Adding: evidence.*
 
-157. The geodesic method discovers next from the existing; the scientific method accounts true or false against fixings named unchanged, exact at its own ledger.
+158. The geodesic method discovers next from the existing; the scientific method accounts true or false against fixings named unchanged, exact at its own ledger.
 
         *Adding: two methods.*
 
-158. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
+159. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
 
         *Adding: the two methods parting at the now.*
 
         *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; continuing inward and outward.*
 
-159. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
+160. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
 
         *Adding: the scale inward.*
 
-160. At the scale inward, 1 to 3 here is 1 to 17.
+161. At the scale inward, 1 to 3 here is 1 to 17.
 
         *Adding: 1 to 3 as 1 to 17 inward.*
 
-161. The self's momentary 1–2 here is 1 to 9 inward, a self's four momentaries, and the other's momentary 2–3 here is 9 to 17 inward, a society's four.
+162. The self's momentary 1–2 here is 1 to 9 inward, a self's four momentaries, and the other's momentary 2–3 here is 9 to 17 inward, a society's four.
 
         *Adding: self and society inward.*
 
-162. Self and other at one scale are self and society at the scale inward, as self and society at one scale are self and other at the scale outward.
+163. Self and other at one scale are self and society at the scale inward, as self and society at one scale are self and other at the scale outward.
 
         *Adding: the same at each scale.*
 
-163. The self's 1 to 9 here is four 1 to 17s inward, at 1 to 3, 3 to 5, 5 to 7 and 7 to 9.
+164. The self's 1 to 9 here is four 1 to 17s inward, at 1 to 3, 3 to 5, 5 to 7 and 7 to 9.
 
         *Adding: four inward within 1 to 9.*
 
-164. The society's 9 to 17 here is four more, at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward within 1 to 17.
+165. The society's 9 to 17 here is four more, at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward within 1 to 17.
 
         *Adding: eight inward within 1 to 17.*
 
-165. Each 1 to 17 is two numbers of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
+166. Each 1 to 17 is two numbers of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
 
         *Adding: the fractal inward and outward.*
 
-166. Inward and outward, each scale opens a next scale, and the fractal continues at each.
+167. Inward and outward, each scale opens a next scale, and the fractal continues at each.
 
         *Adding: continuing inward and outward.*
 
         *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning.*
 
-167. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
+168. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
         *Adding: living and non-living at a scale.*
 
         *Unsure: the saying may need its own steps once scale is fuller.*
 
-168. At the scale of the living self it arrives from, an emanation is harmful to living: its form is bi-tri-involutioning, the opposite form.
+169. At the scale of the living self it arrives from, an emanation is harmful to living: its form is bi-tri-involutioning, the opposite form.
 
         *Adding: harmful at its own scale.*
 
-169. One scale inward, an emanation is an ingestible stable form, taken into living selves as societies.
+170. One scale inward, an emanation is an ingestible stable form, taken into living selves as societies.
 
         *Adding: ingestible one scale inward.*
 
-170. The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning.
+171. The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning.
 
         *Adding: bi-tri-volutioning.*
 
-        *Unsure: long; the prior between momentaries is not yet its own step.*
+        *Unsure: long; the prior between momentaries is not yet its own step; the non-living are co-changing and not stable-forming, and this step names a stable form of non-living emanatings.*
 
         *Entering: competency, the term neither reaches; bi-moral co-agency; intelligence by existing; natural-bi-co-torusing; the four of social moral competency; abundancing; collective intelligence; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
-171. Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
+172. Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
 
         *Adding: competency, the term neither reaches.*
 
-172. Two selves alternating, morality across and competency along, is bi-moral co-agency.
+173. Two selves alternating, morality across and competency along, is bi-moral co-agency.
 
         *Adding: bi-moral co-agency.*
 
-173. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
+174. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
 
         *Adding: intelligence by existing.*
 
-174. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
+175. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
 
         *Adding: natural-bi-co-torusing.*
 
         *Unsure: torusing through its one opening is not yet a step of its own.*
 
-175. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
+176. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
 
         *Adding: the four of social moral competency.*
 
-176. Abundancing is made at each coupling and carries there, drawing on no other coupling.
+177. Abundancing is made at each coupling and carries there, drawing on no other coupling.
 
         *Adding: abundancing.*
 
-177. Betweens co-chain, each link a between owned by no self: collective intelligence, the shared natural network.
+178. Betweens co-chain, each link a between owned by no self: collective intelligence, the shared natural network.
 
         *Adding: collective intelligence.*
 
-178. Each self arriving at its own and offering across, each whole, is co-independencing.
+179. Each self arriving at its own and offering across, each whole, is co-independencing.
 
         *Adding: co-independencing.*
 
-179. A living self carries non-living existing things and possible things within its carrying.
+180. A living self carries non-living existing things and possible things within its carrying.
 
         *Adding: living carrying non-living and possible.*
 
-180. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
+181. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
 
         *Adding: one form at each scale.*
 
-181. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
+182. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
 
         *Adding: our now.*
 
