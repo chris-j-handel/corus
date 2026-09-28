@@ -118,7 +118,7 @@ Natural Intelligence v376
 
 **One and then the other is at the numbers**: two numbers side by side alternate, each continuing to one beyond the other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries the odd numbers and the other the even**, the two overlapping, one changing overlapping the other.
 
-**The side opening at 1, the odd, is a self; the side opening at 2, the even, is an other.** Self and social open odd, along; the other opens even, across. **Difference alone is bi-, and two with their difference is co-**: an odd number opens co and an even number opens bi. A side continuing its own is along, and a side coupling with the other is across. **Competency is co-unrelationing, along; morality is bi-unrelationing, across**; and co-bi-unrelationing is the one existing method.
+**The side opening at 1, the odd, is a self; the side opening at 2, the even, is an other.** A side continuing its own is along, and a side coupling with the other is across: self and social open odd, along, and the other opens even, across. **Difference alone is bi-, and two with their difference is co-**: an odd number opens co and an even number opens bi. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across, 3.5; and co-bi-unrelationing is the one existing method.
 
 **All changing is parity changing.** A changing is or is not: an even sequence of changings arrives same-as-prior and an odd sequence arrives other-than-prior, with no measure and no scale but the living. At the code + and − are the implementing of a parity at a sharing and 0 is the changing that is not; the method names no size.
 
