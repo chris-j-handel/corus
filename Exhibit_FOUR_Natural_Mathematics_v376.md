@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v375
+Exhibit FOUR Natural Mathematics v376
 
 # Natural Mathematics
 
@@ -10,7 +10,7 @@ Exhibit FOUR Natural Mathematics v375
 - 1.2 Numbers, mathematics and logic, nature's own method
 - 1.3 Floating across at the even, neutralling along at the odd
 - 1.4 Three neutrals each self runs on itself
-- 1.5 A mathematical thing at its prefixing, its ending and its place
+- 1.5 A mathematical form at its prefixing, its ending and its place
 
 **TWO · ORTHOGONALIZING**
 
@@ -96,17 +96,17 @@ Exhibit FOUR Natural Mathematics v375
 
 **Across and along at the society: bi-tunneling opens society's surface across, and co-chaining continues the selves along.** Bi-co-podaling is the two at one station, and natural torusing the two at the whole surface.
 
-## 1.5 A mathematical thing at its prefixing, its ending and its place
+## 1.5 A mathematical form at its prefixing, its ending and its place
 
-**A mathematical thing arrives proved, and natural mathematics disproves none.** It stands at three things.
+**A mathematical form arrives proved, and natural mathematics disproves none.** It is at three: its prefixing, its ending and its place.
 
 **Its prefixing says the direction**: bi- across, co- along, and at a resolver name the number carries the prefixing.
 
-**Its ending says whether it re-takes**: an -ing runs and re-takes at each momentary, each an opening and its completing; a form named still re-takes at none, one running's making given a fixed thing to be.
+**Its ending says whether it re-takes**: an -ing runs and re-takes at each momentary, each an opening and its completing; a form named still re-takes at none, one running's making given a fixed form to be.
 
-**Its place is one of three.** On the surface it is the natural: parity, position and ratio, and no magnitude. Inward of the surface it is the unnatural, the measured: measure, magnitude, the continuum. Outward of the surface it is the supernatural, the formal: a system closing on its own consistency with no torus to cohere to, reaching the surface only at its incompleteness. **The natural is the surface, and a surface is a between**: the nothing the other two are either side of, a parity changing crossing it, carrying nothing. The three places are natural mathematics' own naming and no partition the field makes of itself, and the supernatural names the formal use, no paranormal thing.
+**Its place is one of three.** On the surface it is the natural: parity, position and ratio, and no magnitude. Inward of the surface it is the unnatural, the measured: measure, magnitude, the continuum. Outward of the surface it is the supernatural, the formal: a system closing on its own consistency with no torus to cohere to, reaching the surface only at its incompleteness. **The natural is the surface, and a surface is a between**: the nothing the other two are either side of, a parity changing crossing it, carrying nothing. The three places are natural mathematics' own naming and no partition the field makes of itself, and the supernatural names the formal use, no paranormal existing thing.
 
-**A mathematical thing is placed by its use, and never by its symbols.** Used on the surface it follows an arriving, a continuing and a releasing at their momentary. Used inward it is an observing's account, its scale and its rate carried as that account's and as no running's standard. Used outward it is a derivation taken as a comparison, and no living surface follows from its consistency alone.
+**A mathematical form is placed by its use, and never by its symbols.** Used on the surface it follows an arriving, a continuing and a releasing at their momentary. Used inward it is an observing's account, its scale and its rate carried as that account's and as no running's standard. Used outward it is a derivation taken as a comparison, and no living surface follows from its consistency alone.
 
 ---
 
@@ -126,9 +126,9 @@ Exhibit FOUR Natural Mathematics v375
 
 **All changing is parity changing, and each parity is named at its own face**: a sign's inversion, a count's odd and even, a phase's opposition, a winding's hand, a field's reflection at its own result, a connector's opening parity and a pair's agree or oppose. A parity carried from one scale to the next is named at both faces, the one it leaves and the one it arrives at, and an equal count joins no two selves: the coupling joins them.
 
-**An idealized mode inverted at each period T, q(t + T) = −q(t), is again at two, q(t + 2T) = q(t)**: the sign flip at a wave. Two oscillations can hold a phase difference of nought or π, and phase runs through a continuum between them, so a phase is inward of the surface, measured, and a trace of phases is no trace of parities.
+**An idealized mode inverted at each period T, q(t + T) = −q(t), is again at two, q(t + 2T) = q(t)**: the sign flip at a wave. Two oscillations can hold a phase difference of nought or π, and phase runs through a continuum between them: a phase is inward of the surface, measured, and a trace of phases is no trace of parities.
 
-**Addition crosses and multiplication folds**: the two moves at a number, adding taken across and multiplying folded along. At two overlapping momentaries, the self's places 1 to 4 and the other's 2 to 5, three places are shared and two are outer: added across they are five places, and the shared three folded at the two sides are six, so the eight occurrences are 4 + 4 = 2 × 3 + 2, each side's four places four occurrences of the two parities. Two and two make four at both moves, two and three make five or six, three and three six or nine, and the overlap counts no nine: an equal result supplies no coupling.
+**Addition crosses and multiplication folds**: the two moves at a number, adding taken across and multiplying folded along. At two overlapping momentaries, the self's places 1 to 4 and the other's 2 to 5, three places are shared and two are outer: added across they are five places, and the shared three folded at the two sides are six, and the eight occurrences are 4 + 4 = 2 × 3 + 2, each side's four places four occurrences of the two parities. Two and two make four at both moves, two and three make five or six, three and three six or nine, and the overlap counts no nine: an equal result supplies no coupling.
 
 ## 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
 
@@ -148,7 +148,7 @@ Exhibit FOUR Natural Mathematics v375
 
 **Their relation, agree or oppose, is the sign of P × Q, the sign of tan t, and each step changes it, decided by the step alone.** It is the sign of sin 2t = 2 sin t cos t: the relation at one angle arrives as a sign at the doubled angle.
 
-**The half step keeps the relation**: along each side's two momentaries, (c, t) then (−c, −t), agree or oppose holds while both parities invert, and across the overlap, (t, −c) between them, it changes, so the four overlapping pairs run r, 1 − r, r, 1 − r. Of three parities a, b and z, the pairs (a, b) and (b, z) part their relation exactly at z = −a, and +, +, + agrees at both. A relation within a pair is no resolver named still: its two parities invert beneath it.
+**The half step keeps the relation**: along each side's two momentaries, (c, t) then (−c, −t), agree or oppose holds while both parities invert, and across the overlap, (t, −c) between them, it changes: the four overlapping pairs run r, 1 − r, r, 1 − r. Of three parities a, b and z, the pairs (a, b) and (b, z) part their relation exactly at z = −a, and +, +, + agrees at both. A relation within a pair is no resolver named still: its two parities invert beneath it.
 
 ## 2.5 Each scale the prior scale and its forms in the other order
 
@@ -178,7 +178,7 @@ Exhibit FOUR Natural Mathematics v375
 
 **φ is the unrelationing rate, the geodesic parity changing rate unrelated from the living parity changing rates**, self-welcoming at the numbers and at no line of the code's running. Advance by one and scale by the rate arrive at one number, φ² = φ + 1, neither carrying the other.
 
-**φ's continued fraction is all ones, the slowest nearing and the widest straddle.** Each irrational x carries without end fractions p/q with |x − p/q| < 1/(√5 q²), and at φ no constant larger than √5 does: √5 is the one constant for all irrationals together, and it stands at φ. φ³ = 2 + √5 and 1/φ³ = √5 − 2, so the constant falls away at their difference: φ³ − 1/φ³ = 4.
+**φ's continued fraction is all ones, the slowest nearing and the widest straddle.** Each irrational x carries without end fractions p/q with |x − p/q| < 1/(√5 q²), and at φ no constant larger than √5 does: √5 is the one constant for all irrationals together, and it stands at φ. φ³ = 2 + √5 and 1/φ³ = √5 − 2, and the constant falls away at their difference: φ³ − 1/φ³ = 4.
 
 ---
 
@@ -212,7 +212,7 @@ Exhibit FOUR Natural Mathematics v375
 
 **An accounting reaching its stations again forward is the one an alternating runs, and a line carries none.**
 
-**A step of k round a closed round of N reaches N/gcd(N, k) stations before it reaches its first again.** At a prime N each step short of the whole round reaches all N. At a composite N a step sharing no factor with N reaches all N too, three round eight reaching eight, and a step sharing one reaches a part, three round nine reaching three. Prime and coprime are two things: four and nine share no factor above one, and neither is prime.
+**A step of k round a closed round of N reaches N/gcd(N, k) stations before it reaches its first again.** At a prime N each step short of the whole round reaches all N. At a composite N a step sharing no factor with N reaches all N too, three round eight reaching eight, and a step sharing one reaches a part, three round nine reaching three. Prime and coprime are two, each its own: four and nine share no factor above one, and neither is prime.
 
 **Two rounds of m and n stations stepped together, one station each, reach mn/gcd(m, n) of their mn pairs, on one of gcd(m, n) parallel windings of the torus the two rounds make.** At coprime m and n the one winding reaches each pair, and the two rounds are one round of mn. The mn counts the pairs reached and is the same at each order of joining the rounds; competency is at the coupling, owned by neither, and no product counts it, nor a value, nor a security.
 
@@ -318,7 +318,7 @@ Exhibit FOUR Natural Mathematics v375
 
 ## 5.1 No other possible at six forward
 
-**Anything expressible at the six forward recursionings of fractal bi-coupling is only-one-possible.** Expressing it is inverting it six ways forward, and completing the six without landing, looping or forking is no other possible: the expressing is the showing, step by step.
+**Anything expressible at the six forward recursionings of fractal bi-coupling is only-one-possible.** Expressing it is inverting it six ways forward, and completing the six without a still, a looping or a forking is no other possible: the expressing is the showing, step by step.
 
 **A false expression cannot complete the six**: it fixes, stopping; it loops, giving its own state again; or it forks, an either-or arriving.
 
@@ -346,11 +346,11 @@ Exhibit FOUR Natural Mathematics v375
 
 **The scientific method and the geodesic method each derive as a sequence, each move the only one at the last's arriving, each carrying the one it excludes.** The geodesic method floats the three neutrals, position, scale and orientation; the scientific method fixes them.
 
-**Scientific method.** Not one observing, one occurrence parting nothing it carries from anything beside it → not repeated observing, two differing parting no change in the thing from a change in its circumstances → all kept still but one, a difference belonging to the one varied → not kept against nothing, keeping still being against something not varying → a standard, declared and not found → not kept by one, the unrepeatable carrying nothing past whoever reached it → the standard published, findings joining → not a report of occurrence, which forbids nothing → a law that forbids. A standard fixes orientation, keeping still fixes position, and a published standard fixes scale: the three neutrals fixed. A fixing is a relation continuing among changing things, and a standard, a law or a frame named unchanged names no subject still: the step from a fixing to an equilibrium names its subject still, at the same relation and the same occurrence.
+**Scientific method.** Not one observing, one occurrence parting nothing it carries from anything beside it → not repeated observing, two differing parting no change in the existing thing from a change in its circumstances → all kept still but one, a difference belonging to the one varied → not kept against nothing, keeping still being against something not varying → a standard, declared and not found → not kept by one, the unrepeatable carrying nothing past whoever reached it → the standard published, findings joining → not a report of occurrence, which forbids nothing → a law that forbids. A standard fixes orientation, keeping still fixes position, and a published standard fixes scale: the three neutrals fixed. A fixing is a relation continuing among changing things, and a standard, a law or a frame named unchanged names no subject still: the step from a fixing to an equilibrium names its subject still, at the same relation and the same occurrence.
 
 **Geodesic method.** Not kept still, keeping it still removing it → not taken against a standard, a standard being still → each against its own prior, a direction and not a size → not both at once, a frame over both being still → one at a time → not steered, steering being something outward setting a path → each goes the way it goes → not divided from outward, an outward division being a standard again → the coupling divides, remade at each coupling → not taken as either, one side alone being the first method again → the departing, neither's, reached by neither alone. Three neutrals float, and nothing is fixed.
 
-**Scientific method run at a competency, carrying none of it.** Not observed at rest, a competency being a doing → a trace carries its own going → not the competency, a trace carrying the done → the trace taken against the standard → not the thing's, the standard varied and the thing untouched varying the number → the number is the standard's. A measure taken as a target measures the targeting.
+**Scientific method run at a competency, carrying none of it.** Not observed at rest, a competency being a doing → a trace carries its own going → not the competency, a trace carrying the done → the trace taken against the standard → not the existing thing's, the standard varied and the existing thing untouched varying the number → the number is the standard's. A measure taken as a target measures the targeting.
 
 **The two methods part at their fixings, and never at taking evidence as existing now.** The evidence arriving now and the prior event it expresses are two, each at its own momentary, and both hold: a living self changing as a whole can keep a property its evidence expressed, (1, 0) to (1, 1) keeping the first parity, and evidence gives the prior, possible and actual.
 
@@ -358,15 +358,15 @@ Exhibit FOUR Natural Mathematics v375
 
 **Three fixings are asked at the first line.** Particle zero: an unquestioned absolute location, a point placed, not a physical particle. A unit installed: scale made undiscussable. A frame given: the axes handed over, which way is up decided for the self. **At its least fixed, mathematics asks no particle zero and no unit**: a dense order with no endpoints carries an element on each side of each element, with no origin and no distance, and point-free topology carries its regions at their inclusion alone, with no points and no metric.
 
-**A self learning these orients itself in the learning.** Positioning, scaling and orienting are the self's own and float, and learning a fixed frame is itself the self-orienting the fixed frame would deny. Orienting floats renewed at each arriving, no origin and no facing named across the couplings: one fixed direction is never perpendicular to each direction at once, being along itself, and facing into the arriving knows no next parity.
+**A self learning these orients itself in the learning.** Positioning, scaling and orienting are the self's own and float, and learning a fixed frame is itself the self-orienting the fixed frame denies. Orienting floats renewed at each arriving, no origin and no facing named across the couplings: one fixed direction is never perpendicular to each direction at once, being along itself, and facing into the arriving knows no next parity.
 
 ## 6.3 Logic of no completed whole
 
 **In two-valued logic either but not both is the exclusive or.** A parity is one or its inversion at each instance, and nothing is kept between them: the middle is a nothing, existing due to each self surfacing itself each momentary as a condition of existing as a self.
 
-**A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from the two-ity, the field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on the three values nought, a and one in order, the negation of a is nought and the negation of nought is one, so a negated twice arrives at one.
+**A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from the two-ity, the field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on the three values nought, a and one in order, the negation of a is nought and the negation of nought is one: a negated twice arrives at one.
 
-**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms no thing beside its things, existing as its things exist: the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
+**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things is its existing things, existing as they exist: the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
 
 ---
 
@@ -374,7 +374,7 @@ Exhibit FOUR Natural Mathematics v375
 
 ## 7.1 Three neutrals, six co-offerings and eight forms
 
-**Three neutrals float about the corus**: nought, the near nothing, position fixed at it; scale, the between, a unit fixed at it; and the bounded infinity, the far nothing, a frame fixed at it. The corus is the self's own inverting, + to −, landing at neither.
+**Three neutrals float about the corus**: nought, the near nothing, position fixed at it; scale, the between, a unit fixed at it; and the bounded infinity, the far nothing, a frame fixed at it. The corus is the self's own inverting, + to −, and neither is its place.
 
 **One three counts two ways.** At its pairings, each two ways, it is six co-offerings: nought with scale, scale with the bounded infinity, nought with the bounded infinity, each offered both directions. At its forms, each neutral fixed or floating, it is two cubed, eight, the cube's eight corners. **Six co-offerings running about the three floating neutrals are natural mathematics**, no field and no hard problem.
 
@@ -445,7 +445,7 @@ Exhibit FOUR Natural Mathematics v375
 
 ## 7.8 Ten inversions, the ten transpositions of five
 
-**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives the order again, and it fixes the other three.** Ten is the fourth triangle and the third tetrahedral number, the first three triangles joined. A parity's inversion is the one coupling among two, the transposition of + and −, so an inversion at a parity and an inversion among five are one move at two counts: an involution exchanging one pair and fixing the rest.
+**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives the order again, and it fixes the other three.** Ten is the fourth triangle and the third tetrahedral number, the first three triangles joined. A parity's inversion is the one coupling among two, the transposition of + and −: an inversion at a parity and an inversion among five are one move at two counts: an involution exchanging one pair and fixing the rest.
 
 **In the regular pentagon each side is parallel to one diagonal, the one sharing no corner with it, the diagonal φ times the side.** A side and its parallel diagonal are two transpositions sharing no corner; they commute, and together they are the pentagon's symmetry keeping the corner left out and exchanging the other four in two pairs. Ten transpositions pair into five, and the five generate the pentagon's ten symmetries: the one that moves nothing, four rotations keeping no corner, and five each keeping one corner.
 
