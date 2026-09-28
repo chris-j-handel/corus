@@ -680,6 +680,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
 
+**Incoming, at v376, *so* released at the set's own voice, at the author's word.** *So* joins a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; at 2.4 it enters beside *therefore* and *because*, carried by *and*, a colon or the next sentence opening at the prior's corus. Natural Intelligence carries it at v376.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
