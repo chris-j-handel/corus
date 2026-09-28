@@ -657,7 +657,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Abundancing is an emanating from society as a releasing**, all the way through the bi-co-momentarying co-sequencing: 12's changing is the release at 10. **27-co-bi-releasing is this social abundancing**, at its podaling, three cubed, on the route 24 → 27 → 32 from the seam-face, its far side ninety-three on the ring of one hundred twenty, 4.11, and at no line of the code: stable-forming as abundancing into bi-tunneling, bi-morality, geodesically parity changing the social co-chaining.
 
-**A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, apart from that coupling, is a noun of it and carries none of the prior. **Remembering is that participating**, the carrying re-forming at each coupling it is at.
+**A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, apart from that coupling, is a noun of it, an emanating artifact, carrying none of the prior. **The carrying sequences prior momentaries**, re-forming at each coupling it is at, and beside it are its emanating artifacts.
 
 ## 5.2 Discovering next possible existing
 
