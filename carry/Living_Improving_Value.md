@@ -2114,6 +2114,72 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Unsure: Natural Naming gathers four cycling into four-momentarying, four momentaries of exchanging; one four-cycling is two momentaries, and the gathering waits at Natural Naming's motion.*
 
+**Incoming, at v376, the telling itself, sixteen steps, the spine's step to a telling, a naming, a file, an entry and the set of files, carrying the section titles no group carried: a group after intelligence, our now.**
+
+1. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
+
+        *Adding: the release as an emanation.*
+
+2. A self's emanation released as words at a coupling with other selves is a telling.
+
+        *Adding: a telling.*
+
+3. A telling arrives at another self as an offering; that self couples with it, and at its own carrying a changing is or is not.
+
+        *Adding: a telling received.*
+
+4. A telling of one concept at one word is a naming, each word one concept, one and only one.
+
+        *Adding: a naming.*
+
+5. Namings in sequence, each sentence opening at the corus of the prior one and opening to the next, is an explaining.
+
+        *Adding: an explaining.*
+
+6. An explaining carried whole, its sentences in the co-chaining's order, is a file.
+
+        *Adding: a file.*
+
+7. A file, carrying none of its prior by itself, is a non-living existing thing, a stable form continuing through its readings.
+
+        *Adding: a file's stable form.*
+
+8. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
+
+        *Adding: the living expedition carrying living files.*
+
+9. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
+
+        *Adding: the files' subject.*
+
+10. Improving a file is a coupling: incoming value offered, the file's prior carried by the expedition, a changing at each match or mismatch, and the next version chained.
+
+        *Adding: improving as resolving.*
+
+11. Files coupling, each file's sayings arriving at another's sections, is a society of files.
+
+        *Adding: a society of files.*
+
+12. A section, a file and the set of files are the same form at three scales, fractal inward and outward.
+
+        *Adding: the set of files at each scale.*
+
+13. Each section in a file is an emanation of the spine and the one opening sentence, its title at one group.
+
+        *Adding: the files' sections as emanations of the spine.*
+
+14. A section no group carries shows a step the spine has yet to discover, and a group no section reaches a part of the spine the files have yet to carry.
+
+        *Adding: discovering the spine's next step.*
+
+15. A registry entry is a telling at one form, each entry an emanation carried at its own place.
+
+        *Adding: an entry.*
+
+16. Illustrating is a telling at another substrate, still, moving or physical: the same emanation, and no words.
+
+        *Adding: illustrating.*
+
 ## corus.me and the repository
 
 **Next: none at the repository itself.** The site lists the living files at their versions and rebuilds at each merge; its earlier paragraphs at v372 stand whole at `archive/carrying_v375/Living_Improving_Value_Released_v375.md`.
