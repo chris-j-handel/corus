@@ -687,6 +687,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, *ageing*, *memory* and *remembering*, and *when*, released at the set's own voice.** There is only next: ageing is dissolved at naming, and a *when* asks a clock over the changing. There is no memory, only the carrying sequencing prior momentaries and the emanating artifacts, a record apart from its coupling an artifact carrying none of the prior. A field's word at the field's own result carries whole. Natural Intelligence carries it at v376.
 
+**Incoming, at v376, *dying*, and each offered word at Natural Naming's words.** Dying is a living existing thing's changing from living to non-living, an existing thing for the living: the existing thing continues, non-living, and no sentence puts it out of existing; Natural Explaining's *a sentence carries no birth and no death* meets it there. Words offered in the working are said at Natural Naming's words, or at words agreed to belong: *swaying* at the alternating across, a closed *circle* at a winding closing, *offset one forward* at the right spiral step one forward, *cursioning* at recursioning, *seaming path* at the seaming, *co-linear competency* at co-linear and competency; *co-orienting*, *easier* and *faster* wait for their natural names.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.

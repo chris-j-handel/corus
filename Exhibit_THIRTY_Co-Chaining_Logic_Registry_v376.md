@@ -31,7 +31,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 - 25 The fractal method enabling itself
 - 26 Fractal inward and outward
 - 27 Living and non-living at a scale
-- 28 A living self arriving as non-living
+- 28 Dying, a living self arriving as non-living
 - 29 The emanation's stable form at the numbers
 - 30 Intelligence, our now
 - 31 An offering at words, a naming, a file and the living expedition
@@ -1081,7 +1081,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: long; the prior between momentaries is not yet its own step; the carrying between momentaries, the living's, is here the non-living emanatings' stable form.*
 
-## 28 A living self arriving as non-living
+## 28 Dying, a living self arriving as non-living
 
         *Entering: the living self as a society inward; the carrying at the selves inward; a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter.*
 
@@ -1093,9 +1093,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the carrying at the selves inward.*
 
-218. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, its existing things co-changing, carrying none of its prior.
+218. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, dying, its existing things co-changing, carrying none of its prior.
 
-        *Adding: a living self arriving as non-living.*
+        *Adding: dying, a living self arriving as non-living.*
 
 219. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
 
