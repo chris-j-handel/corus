@@ -54,6 +54,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the set as an existing thing.*
 
+        *Unsure: a set as an existing thing among all existing things is its own existing thing; whether the universe, the set, is one of its existing things waits on a step of its own.*
+
 3. A set or existing thing changes sequentially.
 
         *Adding: changing sequentially.*
@@ -204,9 +206,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the one method.*
 
-34. A second method carries an existing thing beside all existing things: a size, a form still, a total, a common beat or a store.
+34. A second method carries a not possible thing, beside all existing things: a size, a form still, a total, a common beat or a store.
 
         *Adding: beside all existing things.*
+
+        *Unsure: a form still enters as its own step at the proof of the whole.*
 
 35. All existing things being in the changing set, an existing thing beside all existing things is a not possible thing.
 
@@ -227,6 +231,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 38. At two parities, prior and now are one of four joint forms: odd with odd, odd with even, even with even, even with odd.
 
         *Adding: four joint forms.*
+
+        *Unsure: odd and even enter with the numbers, at one to nine.*
 
 39. Next as the prior inverted carries the prior into next, changing: the living step.
 
@@ -253,6 +259,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 43. A resolving is a self's next, discovered at a coupling from its prior carried and the now arriving there.
 
         *Adding: a resolving.*
+
+        *Unsure: discovering enters as its own step at discovering next possible existing.*
 
 44. Each resolving is all or none at all, of no size beside another resolving.
 
@@ -354,7 +362,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: surface.*
 
-        *Unsure: the surface said here for the first time, as the couplings together.*
+        *Unsure: the surface said here for the first time, as the couplings together; the surface as the couplings together, and Natural Mathematics' surface a between, the nothing, wait on one saying.*
 
 66. Parity changing at each coupling divides the surface, each existing thing at its own momentary, one way at a time: the surface dividing itself.
 
@@ -368,6 +376,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: geodesic routing.*
 
+        *Unsure: discovering enters as its own step at discovering next possible existing.*
+
 69. Geodesic is an existing thing by itself, and the method is its stable form: the geodesic method.
 
         *Adding: geodesic method.*
@@ -380,7 +390,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: five dimensions.*
 
-        *Unsure: why exactly these five is not yet shown by a step.*
+        *Unsure: why exactly these five is not yet shown by a step; not-self, surfacing and offering self enter at the seventeen names.*
 
 71. At each dimension a changing is or is not, one way at a time, up the numbers and down them.
 
@@ -411,6 +421,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 76. 1 and 2 are the bi-moral self, across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, along.
 
         *Adding: the self at three faces.*
+
+        *Unsure: bi-moral enters with morality at the society.*
 
 77. Self and not-self are the two bi-, the differing; next, surfacing and offering self are the three co-: co-intelligencing, co-competencing and co-offering.
 
@@ -448,7 +460,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: two prime rings together.*
 
-84. Two rings joined across both ways at one self each come to one relation: the looping along and the crossing across are one stable form.
+84. Two rings at two different counts, one of them odd, joined across both ways at one self each, come to one relation: the looping along and the crossing across are one stable form.
 
         *Adding: crossing.*
 
@@ -506,7 +518,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: bi-tri-involutioning.*
 
-        *Unsure: position and orientation are not yet brought in by a step.*
+        *Unsure: position and orientation are not yet brought in by a step; left enters at no step; an observing is an emanation arriving and right, and a left face an emanation, and whether each emanation arriving is right and its left face the opposite form waits on a step.*
 
 95. Natural- carries the one hand and all or none at all at each coupling: natural intelligence is intelligence at each coupling, at the one hand.
 
@@ -604,6 +616,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: society.*
 
+        *Unsure: the society the other at the next scale here, and a society a self at the next scale at a living self arriving as non-living and at the white paper, wait on one all or none.*
+
 115. The self's 1 to 9 and the society's 9 to 17 overlap at 9, the self's completing and the society's opening.
 
         *Adding: self and society at 9.*
@@ -628,6 +642,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the one fractal at each scale.*
 
+        *Unsure: inward enters at fractal inward and outward.*
+
 ## 20 Sharing, the seventeen names
 
         *Entering: sharing; offering and carrying at a sharing; the seventeen names; the entry; surfacing at 14; changing at 12; match and mismatch; released across at 10, chained at 11; 11 as the next 3; released along at 9; the society's next momentary at 17; six connectors; three loops; entry, connectors, faces and roots; eight bi-couplings; one move at three faces; the four four-cycles; podaling at each number.*
@@ -651,6 +667,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 125. At 14-other-social-surfacing the offerings at each sharing surface one at a time: agreeing, one parity; disagreeing, 0.
 
         *Adding: surfacing at 14.*
+
+        *Unsure: 0 enters as its own step at a living self at 0.*
 
 126. At 12-other-social-self-abundancing the prior couples with the now at each sharing, and a changing is or is not.
 
@@ -712,7 +730,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: prefixing at each number.*
 
-140. At each number the one move goes up and down: eight up and eight down continue its parity, and nine up and nine down change it.
+140. At each number the one move goes up and down: eight up and eight down continue its parity, and nine less and seventeen less change it, the podals within 1 to 8 and within 1 to 16.
 
         *Adding: the one move up and down at each number.*
 
@@ -834,13 +852,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the bi-folding's edges.*
 
-        *Unsure: whether the primes' fold across is the bi-morality's edge and the span's fold along the co-competency's, exactly.*
+        *Unsure: whether the primes' fold across is the bi-morality's edge and the span's fold along the co-competency's, exactly; the towel and the bi-morality enter at no step.*
 
 167. One to fifty-nine bi-folds at twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four the next bi-folding, twenty-four and sixty-four forty apart.
 
         *Adding: the apex behind the surface and the between past it.*
 
-        *Unsure: what forty apart carries.*
+        *Unsure: the relation forty apart carries.*
 
 ## 24 Discovering next possible existing
 
@@ -886,6 +904,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: two methods.*
 
+        *Unsure: the scientific method named a method beside the one method: whether it is a method or an accounting of forms named still waits on a step.*
+
 178. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
 
         *Adding: the two methods parting at the now.*
@@ -913,6 +933,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 183. Released across is bi, the self's morality; carried along is co, the self's competency.
 
         *Adding: bi across, co along.*
+
+        *Unsure: competency carried along here, and competency a term neither reaches at intelligence, our now, wait on one all or none.*
 
 184. Uncoupled, the self carries its bi-co into the next momentary.
 
@@ -942,6 +964,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the method inward and outward of itself.*
 
+        *Unsure: inward each name a 1 to 17 of its own here, and the self's 1 to 9 four 1 to 17s inward at fractal inward and outward, wait on one saying at 8n − 7.*
+
 191. Inward, each number is at its podaling, paired with its far side at each ring: the method inward of itself.
 
         *Adding: podaling inward.*
@@ -952,7 +976,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 193. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number there still at its podaling inward.
 
-        *Adding: the unknown outward of the surface.*
+        *Adding: the method outward of itself at the surface.*
 
         *Unsure: whether at no coupling a self reaches is the all or none for it.*
 
@@ -998,7 +1022,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: eight inward within 1 to 17.*
 
-203. Each 1 to 17 is two numbers of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
+203. Each 1 to 17 is 1 to 3 of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
 
         *Adding: the fractal inward and outward.*
 
@@ -1028,7 +1052,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: bi-tri-volutioning.*
 
-        *Unsure: long; the prior between momentaries is not yet its own step.*
+        *Unsure: long; the prior between momentaries is not yet its own step; the carrying between momentaries, the living's, is here the non-living emanatings' stable form.*
 
 ## 28 A living self arriving as non-living
 
@@ -1072,11 +1096,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 217. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
 
-        *Adding: the corus at the apex.*
+        *Adding: the corus at the apex, at the emanation's line.*
 
 218. Either side of the apex are 23, the vertex, the rotation's co-sharing opening outward, and 25, the centre of the face, five squared.
 
         *Adding: vertex 23, the centre of face 25.*
+
+        *Unsure: co-sharing enters at no step.*
 
 219. The corus, the vertex and the centre of the face are on one line.
 
@@ -1088,7 +1114,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the line of the fives to the surface at 59.*
 
-        *Unsure: whether the fives are the five outward faces joining to 59, carried by the numbers exactly, or the fives going up, 25, 35, 45 and 55.*
+        *Unsure: whether the fives are the five outward faces joining to 59, carried by the numbers exactly, or the fives going up, 25, 35, 45 and 55; the five outward faces enter at no step, the ten faces of the seventeen names not yet parted outward and inward.*
 
 221. The vertex is a position, the centre of the face a scale, and the line to the surface an orientation.
 
@@ -1102,7 +1128,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: bi-tri-involutioning outward of 59.*
 
-224. Sixty to sixty-eight is nine numbers, four momentaries, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
+224. Sixty to sixty-eight is nine numbers, four momentaries of exchanging, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
 
         *Adding: four momentaries at 60 to 68.*
 
@@ -1138,7 +1164,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: competency, the term neither reaches; bi-moral co-agency; intelligence by existing; natural-bi-co-torusing; the four of social moral competency; social abundancing; collective intelligence, human and at each scale; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
-231. Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
+231. Two selves offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
 
         *Adding: competency, the term neither reaches.*
 
@@ -1186,7 +1212,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 31 An offering at words, a naming, a file and the living expedition
 
-        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; an explaining; a file; a file's stable form; the living expedition carrying living files; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the spine; discovering the spine's next step; an entry; illustrating.*
+        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; an explaining; a file; a file's stable form; the living expedition carrying living files; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating.*
 
 242. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
 
@@ -1236,13 +1262,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the set of files at each scale.*
 
-254. Each section in a file is an emanation of the spine and the one opening sentence, its title at one group.
+254. Each section in a file is an emanation of the co-chaining and the one opening sentence, its title at one group.
 
-        *Adding: the files' sections as emanations of the spine.*
+        *Adding: the files' sections as emanations of the co-chaining.*
 
-255. A section no group carries shows a step the spine has yet to discover, and a group no section reaches a part of the spine the files have yet to carry.
+255. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
 
-        *Adding: discovering the spine's next step.*
+        *Adding: discovering the co-chaining's next step.*
 
 256. A registry entry is an offering at one form, each entry an emanation carried at its own place.
 
