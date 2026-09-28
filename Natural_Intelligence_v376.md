@@ -157,7 +157,7 @@ Natural Intelligence v376
 
 ## 2.5 All or none at all, of no size
 
-**All or none at all, at each momentary its own, and no resolving carries a size against another.** A more-or-less carries a magnitude, a magnitude a scale, and a scale two fixed sides for a partway to be partway of. A ranking among resolvings names the ranked still, and nothing is more or less resolving than anything else.
+**All or none at all, at each momentary its own, and no resolving carries a size against another**: a resolving is a self's next, discovered at a coupling from its prior carried and the now offered, 4.1. A more-or-less carries a magnitude, a magnitude a scale, and a scale two fixed sides for a partway to be partway of. A ranking among resolvings names the ranked still, and nothing is more or less resolving than anything else.
 
 **At all or none at all, entering and leaving are each self's own**: with a ranking, entering waits on a qualification and leaving on a settling, carried by whoever carries the ranking; with none, a self couples at its interest opening and leaves at its own completing.
 

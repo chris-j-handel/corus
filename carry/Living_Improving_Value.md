@@ -1190,6 +1190,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: all or none at all.*
 
+        *Unsure: resolving enters here with no step bringing it in; Natural Intelligence at v376 meets it at its first use as a self's next, discovered at a coupling from its prior carried and the now offered, a step before this one to carry it.*
+
         *Entering: numbers; each side's momentary in numbers; exchanging; the four momentaries; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five.*
 
 44. With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2.
