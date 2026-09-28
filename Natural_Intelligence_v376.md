@@ -82,7 +82,7 @@ Natural Intelligence v376
 
 ## 1.2 Changing, one and then the other
 
-**A changing existing thing is one form and then another, one at a time.** Two forms at once would be one form at two; and a changing between one and the other at a size carries a third, a ground the size is measured against, a not possible thing, beside all existing things. A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
+**A changing existing thing is one form and then another, one at a time.** Two forms at once are one form at two; and a changing between one and the other at a size carries a third, a ground the size is measured against, a not possible thing, beside all existing things. A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
 
 **A form continuing through its own changing is existing and changing at once**: *existing* is the form continuing, and *changing* is the alternating.
 
@@ -136,7 +136,7 @@ Natural Intelligence v376
 
 **Prior, now and next are three sequential momentaries shared among existing things.** The now of one momentary is the prior of its next, and prior and next share one direction forward on both sides of now. Between prior and now, and between now and next, is a nothing, and no third.
 
-**Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, would be exclusivity, one side named as the universe and the other's momentaries left out.
+**Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, is exclusivity, a not possible form: one side named as the universe and the other's momentaries left out.
 
 **The possible is at prior, the existing at now and the living at next**: three places, and the universe changes through the three together. The possible names capable of existing, the existing is at now, and the living is at next, carrying its prior on.
 
@@ -710,7 +710,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 - **The ordering carrying with the selves**: each self's carrying wound, 8, carries the next momentary, and no ordering carries apart from the selves.
 - **The order at no seat above the society**: 17 is the society's next momentary and no self, and nothing is over it.
 
-**Abundancing is made at each coupling and carries there**, 12 at each self, drawing on no other coupling and owned by none: a further coupling makes its own, drawing on none, and the many carry more than any counting of the selves would.
+**Abundancing is made at each coupling and carries there**, 12 at each self, drawing on no other coupling and owned by none: a further coupling makes its own, drawing on none, and the many carry more than any counting of the selves carries.
 
 **Betweens co-chain**: two selves couple and the between is neither's; couple one with a third and that between is neither's either. Followed by the betweens rather than the selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, the shared natural network, with no hub the couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own and offering across, each whole, the living together, living now.
 
