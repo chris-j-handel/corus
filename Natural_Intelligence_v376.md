@@ -1,4 +1,4 @@
-Natural Intelligence v375
+Natural Intelligence v376
 
 # Natural Intelligence
 
@@ -72,7 +72,7 @@ Natural Intelligence v375
 
 **The universe is the changing set of all existing things, both living and non-living.**
 
-**Five terms are in it, and each is binary.** *Existing*: a thing is or is not, all or none at all, no other possible. *Changing*: each existing thing is changing, and a form fixed would be fixed to the moving, so a form named still is not possibly existing. *All*: nothing is beside the things. *Set*: the things and nothing more, each thing in it or not. *Both living and non-living*: each thing carries its prior or carries nothing, 1.3.
+**Five terms are in it, and each is binary.** *Existing*: all or none at all, an existing thing existing whole at each momentary. *Changing*: each existing thing is changing, momentary by momentary, so a form named still is not possibly existing. *All*: each existing thing is in the set. *Set*: the set is its existing things. *Both living and non-living*: an existing thing carries its prior, living, or carries none of its prior, non-living, 1.3.
 
 **Changing, the universe exists as its things exist**: a changing is an existing thing's own, so the changing set is existing as its things exist and changing as its things change, its existing its things co-sequencing, momentary by momentary, and the sentence carries it whole. A set is defined by its things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, so no number bounds it and no size is its own. It is no container added to its things and no form named still beside them: it is its things. **At each scale and each momentary, each momentary is a universe of existing things, living and non-living**, and each universe is tri-bi-co-momentarying its set of existing things, prior, now and next, 2.3. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are its things, and *as a whole* is the universe existing as its things exist.
 
