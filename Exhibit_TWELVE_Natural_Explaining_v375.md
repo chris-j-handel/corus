@@ -182,7 +182,7 @@ Exhibit TWELVE Natural Explaining v375
 
 ## 2.4 Bolds, self-welcoming at the surface
 
-**Bolds go wherever they are self-welcoming, inside a paragraph and overlooking the whole surface, and a bold says a carrying there**: a coining at the paragraph coining, the claim at the paragraph arriving at one. **Concentrations of bold are learning centres in the surface of explaining**: three-way crossings, clusterings of local selves. A self meeting the bolds alone meets the explaining, and a layer of coined terms alone is a glossary, a set of terms, while a telling is a walk.
+**Bolds go wherever they are self-welcoming, inside a paragraph and overlooking the whole surface, and a bold says a carrying there**: a coining at the paragraph coining, the claim at the paragraph arriving at one. **Concentrations of bold are learning centres in the surface of explaining**: three-way crossings, clusterings of local selves, each its own and none dispatching. A self meeting the bolds alone meets the explaining, and a layer of coined terms alone is a glossary, a set of terms, while a telling is a walk.
 
 **One binary at each span: is it self-welcoming, saying a carrying there, or does it stress a piece inside it.** A stress marks attention and not the subject's own arriving, and the bold goes.
 
