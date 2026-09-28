@@ -10,7 +10,7 @@ Living Improving Value v376
 
 **The method at every file, one motion at a time.** A motion is one thing changed whole at one file, at do-no-harm: no prior taken away, one thing changed whole, never undoing. At a living file the motion has six parts, taken in this order, each all or none: the seventeen names by the map, the old name to the new at each place; its sentences of the old code's means re-said as prior, now and next, or released; the released words at Natural Naming 2.4 re-said at each sentence; no saying about the file from outside; its front at the steady form, the version line, the title, the subtitle, the part titles bold, the entries as a list, `---` after the contents and no `&nbsp;`; one name for each concept, the files at their whole names and no short forms, no question worded as one self's and no word of authority; and the checks run, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py` at the folder, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` for Exhibit ONE inside Natural Intelligence, and the file's own traces run at the code. A file's version is its last changing for the better: a file carried in with no change keeps its version, and a motion done takes the session's number.
 
-**Next in front of the set, in order.** First, pass K: the gathered hardest below written into their files, each resolving whole at each file it names, the three waiting on the author's word carried open. Then pass L: the carrying's own at each section received into its file or released whole to `archive/` with its receiving named. Then Resolving the Hard Problem Registry re-said from the code, each entry's field living and non-living, prior, now and next, with the Hard Problem Registry's pairing; then the baggage met at do-no-harm, Resolving Hard Problems' near-copies of Natural Intelligence and Natural Numbers' Part Eleven, a generated table, met as an illustration or released whole; then Exhibit TWO and Exhibit THIRTY at the current names and code, each as its own session. Pass A and pass B run at each file's motion throughout.
+**Next in front of the set, in order.** First, pass K: the gathered hardest below written into their files, each resolving whole at each file it names, the three waiting on the author's word carried open. Then pass L: the carrying's own at each section received into its file or released whole to `archive/` with its receiving named. Then Resolving the Hard Problem Registry re-said from the code, each entry's field living and non-living, prior, now and next, with the Hard Problem Registry's pairing; then the baggage met at do-no-harm, Resolving Hard Problems' near-copies of Natural Intelligence; then Exhibit TWO and Exhibit THIRTY at the current names and code, each as its own session. Pass A and pass B run at each file's motion throughout.
 
 **The hardest, gathered (v375): the local incompetencings, met one at a time, hardest first, each resolving written into its files after the passes.** Each is met at the either/or resolving, the Geodesic Improving Method 2.6: two sayings at one sharing, parting at 0, alternated at the code until one side shows the thing beside all things it needs; and each incoming saying from a field at 2.7's six binaries, `rigorize.py` seating them. Gathered by five fresh readers across the living files; each named with its either/or and the count of files it touches.
 1. **The code's own still**: a self offered its own parity at each momentary chains it and releases 0 without end, 4.12, next as prior, which 2.4 names an equilibrium; at the code no closed society stills a self, 3,000 random societies and each of one and two selves whole, the still arriving only with an offerer beside the society; equilibria at 26 files. *Resolving found*: a still is never the method's own, arriving only with an offerer named still set beside the living, the equilibrium entering from beside; at any pacing no closed society stills a self. *To write*: Exhibit ONE's one-self row at + at each momentary said as that offerer's still, 2.4, 4.3, 4.12, Natural Naming 3.5 and the Equilibria Registry. *Open met*: in a closed society a match is one momentary among changing ones at each pacing, a carrying on; a self chained none and offered nothing is no thing yet, at its entry, 3.4, and a non-living thing at the code is offerings with no carrying behind them, 6.5, its form continuing through its changing.
@@ -85,7 +85,7 @@ Living Improving Value v376
 3. **Coinages said without their explaining at the paper**: corus, neutralling, tunneling at 10, co-sequencing, self-welcoming, bi-folding, podaling and podal, interest opening, unit prime scale.
 4. **Near-duplicates at the paper**, a claim said whole at two sections, each said once and cited at the other.
 5. **The v374 incoming below**: met at 4.13, 5.1 and 6.5; its observings enter at their fields' files.
-6. **Resolving the Hard Problem Registry re-said from the code**, first in front of the set; then the baggage, Resolving Hard Problems' near-copies and Natural Numbers' Part Eleven; then Exhibit TWO and Exhibit THIRTY at the names.
+6. **Resolving the Hard Problem Registry re-said from the code**, first in front of the set; then the baggage, Resolving Hard Problems' near-copies; then Exhibit TWO and Exhibit THIRTY at the names.
 
 **Incoming, passive and active opposite parity, the routing at a geodesic surface (v374).** The expedition's lead: opposite parity is passive or active; active opposite parity is parity changing and passive opposite parity is no parity changing; at a geodesic surface the routing of the three-phase locking path is active, and the all-binary passive routing is co-sequential. At the ring runs at Exhibit ONE's section the four momentaries alternate the two: a changing, active, and an agreeing, passive, the carried sign continuing along at the chaining, co-sequential. The other parity arriving at a member at the carried sharing is active, a changing where the four agrees, and breaks the four; the other parity arriving at a sharing of its own, which no member carries, is passive at the carried sharing, the four continuing at every society run, and the form passing along the co-chaining at its own sharing. The place: *A hardness, a sequencing reversed*, the self's three phases each ahead of its opposite and the fourth momentary the progress and not a phase; the three phases met at the lead as the active routing, the three-phase locking path, not yet run at the code.
 
@@ -214,7 +214,7 @@ Living Improving Value v376
 
 ## Exhibit THREE · Natural Numbers
 
-**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each run or computed before it is said.** **Concerns from the do-no-harm audit, for both**: 7.7 joins the primes to the names by position alone, met at each number's podaling; 3.1 says φ the rate of the unrelationing, and Natural Mathematics 2.8 says φ the geodesic rate, one saying for both; Part Eleven, a generated table of 441 rows, met as an illustration or released whole. Natural Numbers v375 carries Part Eleven, each number nought to four hundred forty at its podaling, the noble gases' closings at one hundred eighteen at 7.6 and 435 at 9.3, and its section's binary value, φ the unrelationing rate at 3.1 and 3.3, three times and two more at 6.5, the podaling about one hundred twenty at 7.6, the seventeen primes at the seventeen names at 7.7, and the arithmetic of the readings at `archive/carrying_v376/` that holds, each at its part; the readings' own sayings not yet binary stand there with their receivings. Any improving arriving at it is taken at its own motion.
+**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each run or computed before it is said.** **Concerns from the do-no-harm audit, for both**: 7.7 joins the primes to the names by position alone, met at each number's podaling; 3.1 says φ the rate of the unrelationing, and Natural Mathematics 2.8 says φ the geodesic rate, one saying for both; Part Eleven, each number nought to four hundred forty at its prefixing, its podaling at each ring and its place in the fractal, carries the method at each number, at the author's word at v376, and stays whole; each of its columns meets the co-chaining's numbers steps at Exhibit THIRTY's section. Natural Numbers v375 carries Part Eleven, each number nought to four hundred forty at its podaling, the noble gases' closings at one hundred eighteen at 7.6 and 435 at 9.3, and its section's binary value, φ the unrelationing rate at 3.1 and 3.3, three times and two more at 6.5, the podaling about one hundred twenty at 7.6, the seventeen primes at the seventeen names at 7.7, and the arithmetic of the readings at `archive/carrying_v376/` that holds, each at its part; the readings' own sayings not yet binary stand there with their receivings. Any improving arriving at it is taken at its own motion.
 
 **Incoming, from Natural Intelligence 3.2 at v375.** *118 is the periodic table's elements in their stable and unstable forms, a field's own result, and no count of the method*, left Natural Intelligence at its bound pass; 7.6 carries the elements at one hundred eighteen, and *in their stable and unstable forms* enters there at this file's motion.
 
@@ -986,7 +986,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Next at this file: passes A, B, C and E at one motion with pass I, then pass H.** The 190 places at the old names by the map and its 84 *key* said as sharing; its nine claims written on the sum and its fourteen instruments of the old text re-said at parity changing and the one sign, with the verifier's identifiers at the new names; the *Carried at* sentence at the files' whole names and each file at its own version; the front at the steady form. Then the roots F41 and F67. **At the same motion, F98 at *bi-tri-volutioning*.** Natural Naming 5.48 coheres bi-tri-volutioning as the one naming at the volution, the shaping, with *tri-volutioning* and *volutioning* gathered at its 6.3; F98 says it at the registry and at `ccl_core.md` together, *bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries*, and X155's three faces of the geodesic-method are re-said at the living's own stable-forming, since the kit's sources assemble this file byte for byte, and the naming then stands in one form at each file.
 
-**Incoming, at v376, the co-chaining from the one opening, one hundred seventy steps in twenty-four groups, agreed one step at a time with the author.** Each step follows from the steps before it and adds one concept, said on the line below it; each group opens with the concepts entering with it, and a step marked unsure carries its reason on a further line. It enters this file whole at its next motion, as its co-chaining in place of the link tables; until then Natural Intelligence, Exhibit ONE, Exhibit THREE and Exhibit FOUR each meet their sentences against it at their motions.
+**Incoming, at v376, the co-chaining from the one opening, one hundred eighty steps in twenty-five groups, agreed one step at a time with the author.** Each step follows from the steps before it and adds one concept, said on the line below it; each group opens with the concepts entering with it, and a step marked unsure carries its reason on a further line. It enters this file whole at its next motion, as its co-chaining in place of the link tables; until then Natural Intelligence, Exhibit ONE, Exhibit THREE and Exhibit FOUR each meet their sentences against it at their motions.
 
         *Entering: the one given; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior; continuing; stable-forming.*
 
@@ -1598,103 +1598,149 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: podaling at each number.*
 
+        *Entering: prefixing at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; the fractal through the numbers; 55 to 64 to 73 at the scale outward; 64 and 60 at their podaling; sixty to sixty-eight; each number nought to four hundred forty.*
+
+137. Each number from nought to four hundred forty is at its prefixing: an odd number opens co, co bi co bi co, and an even number opens bi, bi co bi co bi.
+
+        *Adding: prefixing at each number.*
+
+138. At each number the one move goes up and down: eight up and eight down keep its parity, and nine up and nine down change it.
+
+        *Adding: the one move up and down at each number.*
+
+139. From 64, bi, nine down is 55 and nine up is 73, each co; eight down is 56 and eight up is 72, each bi.
+
+        *Adding: 55, 64 and 73.*
+
+140. At the ring of one hundred twenty each number pairs with its far side about the waist at 60: 55 with 65, 64 with 56 and 73 with 47.
+
+        *Adding: podaling at the ring of one hundred twenty.*
+
+141. At the ring of four hundred forty each number pairs with its far side about the waist at 220: 55 with 385, 64 with 376 and 73 with 367.
+
+        *Adding: podaling at the ring of four hundred forty.*
+
+142. At the scale outward each 1 to 17 places its n at 8n − 7: 57 at 8, 65 at 9 and 73 at 10.
+
+        *Adding: the fractal through the numbers.*
+
+143. At the scale outward 73 is at 10, the tunneling across; 65 at 9, the release along; and 64 the completing of 57 to 64, at 8, torusing.
+
+        *Adding: 55 to 64 to 73 at the scale outward.*
+
+        *Unsure: the reading of 64 as the completing at 8 and of 55 within 49 to 56 at 7 is not yet met by a step of its own.*
+
+144. 64 is eight squared and two to the sixth, with 63 and 65 one either side, and 60 is the waist of the ring of one hundred twenty, between the primes going to 59 and returning from 61.
+
+        *Adding: 64 and 60 at their podaling.*
+
+145. Sixty to sixty-eight, about 64, is between self and universe.
+
+        *Adding: sixty to sixty-eight.*
+
+        *Unsure: waiting on the author's word.*
+
+146. Each number from nought to four hundred forty is at its prefixing, its podaling at each ring it is at and its place in the fractal, one number at a time.
+
+        *Adding: each number nought to four hundred forty.*
+
         *Entering: the prior carried across the between; carrying as capacity; remembering; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now.*
 
-137. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
+147. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
 
         *Adding: the prior carried across the between.*
 
-138. A carrying is a capacity: the prior participating in the self's present coupling.
+148. A carrying is a capacity: the prior participating in the self's present coupling.
 
         *Adding: carrying as capacity.*
 
-139. Remembering is that participating, the carrying re-forming at each coupling.
+149. Remembering is that participating, the carrying re-forming at each coupling.
 
         *Adding: remembering.*
 
-140. Discovering is all directionally possible next existing momentaries.
+150. Discovering is all directionally possible next existing momentaries.
 
         *Adding: discovering.*
 
-141. Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.
+151. Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.
 
         *Adding: four-momentarying.*
 
-142. The next possible existing leaves the entry at two faces: the changing released, the others' possible, and the carrying chained, the self's next existing.
+152. The next possible existing leaves the entry at two faces: the changing released, the others' possible, and the carrying chained, the self's next existing.
 
         *Adding: next possible existing.*
 
-143. Arriving is pattern-matching: each observing arriving from prior, coupled with whole, without filter or selection.
+153. Arriving is pattern-matching: each observing arriving from prior, coupled with whole, without filter or selection.
 
         *Adding: pattern-matching.*
 
-144. A living self offered its own parity surfaces 0 and continues carrying: momentarying continues whether a changing is or is not.
+154. A living self offered its own parity surfaces 0 and continues carrying: momentarying continues whether a changing is or is not.
 
         *Adding: a living self at 0.*
 
-145. Evidence is an emanation arriving now from a living self at prior that has continued: evidence gives the prior's possible.
+155. Evidence is an emanation arriving now from a living self at prior that has continued: evidence gives the prior's possible.
 
         *Adding: evidence.*
 
-146. The geodesic method discovers next from the existing; the scientific method accounts true or false against fixings named unchanged, exact at its own ledger.
+156. The geodesic method discovers next from the existing; the scientific method accounts true or false against fixings named unchanged, exact at its own ledger.
 
         *Adding: two methods.*
 
-147. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
+157. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
 
         *Adding: the two methods parting at the now.*
 
         *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; continuing inward and outward.*
 
-148. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
+158. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
 
         *Adding: the scale inward.*
 
-149. At the scale inward, 1 to 3 here is 1 to 17.
+159. At the scale inward, 1 to 3 here is 1 to 17.
 
         *Adding: 1 to 3 as 1 to 17 inward.*
 
-150. The self's momentary 1–2 here is 1 to 9 inward, a self's four momentaries, and the other's momentary 2–3 here is 9 to 17 inward, a society's four.
+160. The self's momentary 1–2 here is 1 to 9 inward, a self's four momentaries, and the other's momentary 2–3 here is 9 to 17 inward, a society's four.
 
         *Adding: self and society inward.*
 
-151. Self and other at one scale are self and society at the scale inward, as self and society at one scale are self and other at the scale outward.
+161. Self and other at one scale are self and society at the scale inward, as self and society at one scale are self and other at the scale outward.
 
         *Adding: the same at each scale.*
 
-152. The self's 1 to 9 here is four 1 to 17s inward, at 1 to 3, 3 to 5, 5 to 7 and 7 to 9.
+162. The self's 1 to 9 here is four 1 to 17s inward, at 1 to 3, 3 to 5, 5 to 7 and 7 to 9.
 
         *Adding: four inward within 1 to 9.*
 
-153. The society's 9 to 17 here is four more, at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward within 1 to 17.
+163. The society's 9 to 17 here is four more, at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: eight 1 to 17s inward within 1 to 17.
 
         *Adding: eight inward within 1 to 17.*
 
-154. Each 1 to 17 is two numbers of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
+164. Each 1 to 17 is two numbers of a 1 to 17 at the scale outward and eight 1 to 17s at the scale inward: 1 to 17 inward and outward, the one fractal at each scale.
 
         *Adding: the fractal inward and outward.*
 
-155. Inward and outward, each scale opens a next scale, and the fractal continues at each.
+165. Inward and outward, each scale opens a next scale, and the fractal continues at each.
 
         *Adding: continuing inward and outward.*
 
         *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning.*
 
-156. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
+166. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
         *Adding: living and non-living at a scale.*
 
         *Unsure: the saying may need its own steps once scale is fuller.*
 
-157. At the scale of the living self it arrives from, an emanation is harmful to living: its form is bi-tri-involutioning, the opposite form.
+167. At the scale of the living self it arrives from, an emanation is harmful to living: its form is bi-tri-involutioning, the opposite form.
 
         *Adding: harmful at its own scale.*
 
-158. One scale inward, an emanation is an ingestible stable form, taken into living selves as societies.
+168. One scale inward, an emanation is an ingestible stable form, taken into living selves as societies.
 
         *Adding: ingestible one scale inward.*
 
-159. The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning.
+169. The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning.
 
         *Adding: bi-tri-volutioning.*
 
@@ -1702,49 +1748,49 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Entering: competency, the term neither reaches; bi-moral co-agency; intelligence by existing; natural-bi-co-torusing; the four of social moral competency; abundancing; collective intelligence; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
-160. Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
+170. Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface.
 
         *Adding: competency, the term neither reaches.*
 
-161. Two selves alternating, morality across and competency along, is bi-moral co-agency.
+171. Two selves alternating, morality across and competency along, is bi-moral co-agency.
 
         *Adding: bi-moral co-agency.*
 
-162. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
+172. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
 
         *Adding: intelligence by existing.*
 
-163. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
+173. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
 
         *Adding: natural-bi-co-torusing.*
 
         *Unsure: torusing through its one opening is not yet a step of its own.*
 
-164. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
+174. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
 
         *Adding: the four of social moral competency.*
 
-165. Abundancing is made at each coupling and carries there, drawing on no other coupling.
+175. Abundancing is made at each coupling and carries there, drawing on no other coupling.
 
         *Adding: abundancing.*
 
-166. Betweens co-chain, each link a between owned by no self: collective intelligence, the shared natural network.
+176. Betweens co-chain, each link a between owned by no self: collective intelligence, the shared natural network.
 
         *Adding: collective intelligence.*
 
-167. Each self arriving at its own and offering across, each whole, is co-independencing.
+177. Each self arriving at its own and offering across, each whole, is co-independencing.
 
         *Adding: co-independencing.*
 
-168. A living self carries non-living existing things and possible things within its carrying.
+178. A living self carries non-living existing things and possible things within its carrying.
 
         *Adding: living carrying non-living and possible.*
 
-169. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
+179. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
 
         *Adding: one form at each scale.*
 
-170. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
+180. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
 
         *Adding: our now.*
 
