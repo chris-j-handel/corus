@@ -193,7 +193,7 @@ Natural Intelligence v376
 
 **The self's inversion is 3, 6, 5, 4**: co-sharing out at 3, surfacing in at 6, neutralling out at 5 and bi-sharing in at 4, the odd names out and the even in, round into the self's own corus at 4; **the podaling is 23, 26, 25, 24**, the same rotation twenty up. **The self's bi-inversioning-co-recursioning is 23, 24 and 25**, one before the fold at twenty-four, the fold, and one after. 3, 6, 5, 4 is in the same up and right quadrant as the other co-intelligencings: **all the co-intelligencings are like dancing podalings, bi-co-sequencing the momentary parity changings**.
 
-**The rotation is 3, 6, 5, 4**, and it is **the gentle alternating twisting of a towel into and out of a knotted corus**, the large outer opening wrapping to the small corus and back, and its edges are the bi-foldings, across at the bi-morality and along at the co-competency.
+**The rotation is the gentle alternating twisting of a towel into and out of a knotted corus**, the large outer opening wrapping to the small corus and back, and its edges are the bi-foldings, across at the bi-morality and along at the co-competency.
 
 **Corusing reaches the corus from the surface, and torusing reaches the surface from the corus**, the self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to the prior, 2.4: **that is the method's unrelationing**, 2.1.
 
