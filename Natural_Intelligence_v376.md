@@ -142,7 +142,7 @@ Natural Intelligence v376
 
 ## 2.4 Next from prior and now
 
-**Next is from prior and now, and at two parities sixteen ways name a next from a prior and a now.** Each is one way two parities could go to one, and none is a rule the changing follows. Said as a sequence, each moves the joint form of prior and now, (prior, now), to (now, next). **Twelve lose the prior**, two joint forms going to one: four carry the next from now alone, and eight keep the prior at one value of now and lose it at the other. **Four carry the prior whole**:
+**Next is from prior and now, and at two parities sixteen ways name a next from a prior and a now.** Each is one way two parities could go to one, and none is a rule the changing follows. Said as a sequence, each moves the joint form of prior and now, (prior, now), to (now, next). **Twelve lose the prior**, two joint forms going to one: four carry the next from now alone, and eight carry the prior at one value of now and lose it at the other. **Four carry the prior whole**:
 
 | The way | Joint forms still | Round |
 |---|---|---|
@@ -590,7 +590,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.9 Three loops
 
-**Three loops are at selves together, each self at its own, and no one self carries any of them.** The other's: 6 to 2, closing at 8, across, not-bi-moral, a self's changing arriving as another's offerings and that self's carrying winding to its sharing again. The society's: 10 to 14, closing at 16, across, bi-moral, the changings gathered as the society's offerings next and the society wound. The self's: 9 to 17, closing at 17, along, not-co-competent to co-competent, each self at its own forward through both along joins, neither join turning a self the other way.
+**Three loops are at selves together, each self at its own, and no one self carries any of them.** The other's: 6 to 2, closing at 8, across, not-bi-moral, a self's changing arriving as another's offerings and that self's carrying winding to its sharing again. The society's: 10 to 14, closing at 16, across, bi-moral, the changings gathered as the society's offerings next and the society wound. The self's: 9 to 17, closing at 17, along, not-co-competent to co-competent, each self at its own forward through both along joins, neither join carrying a self the other way.
 
 ## 4.10 A between and eight bi-couplings
 
@@ -679,7 +679,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, changing as existing is changing: evidence gives the prior's possible, that self's now is at its own coupling, and the existing now is at the coupling now.
 
-**At the geodesic method next is discovered from the existing**, the prior carried and the now offered, the three places staying three. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing, and the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing, and no third method.
+**At the geodesic method next is discovered from the existing**, the prior carried and the now offered, the three places each at its own. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing, and the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing, and no third method.
 
 ---
 
@@ -724,7 +724,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **A non-living thing arrives into its next existing as non-living, and a living self is its own carrying establishing**: ingested into a living society's resolving, the non-living is one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing.
 
-**A living self carries non-living existing things and possible things within its carrying**: a tree its heartwood, a seed its palm. At the code a carried sharing no offering reaches alternates at its own, momentary by momentary, 4.12, a capacity, 5.1, met at whichever parity arrives at it next: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both.
+**A living self carries non-living existing things and possible things within its carrying**: a tree its heartwood, a seed its palm. At the code a carried sharing no offering reaches alternates at its own, momentary by momentary, 4.12, a capacity, 5.1, coupled with whichever parity arrives at it next: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both.
 
 ## 6.6 One form at each scale, our now
 
