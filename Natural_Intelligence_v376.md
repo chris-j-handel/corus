@@ -138,7 +138,7 @@ Natural Intelligence v376
 
 **Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, would be exclusivity, one side named as the universe and the other's momentaries left out.
 
-**The possible is at prior, the existing at now and the living at next**: three places, not changing, the universe travelling through them together. The possible names capable of existing, the existing is at now, and the living is at next, carrying its prior on.
+**The possible is at prior, the existing at now and the living at next**: three places, and the universe changes through the three together. The possible names capable of existing, the existing is at now, and the living is at next, carrying its prior on.
 
 ## 2.4 Next from prior and now
 
