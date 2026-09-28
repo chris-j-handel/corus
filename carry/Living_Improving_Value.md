@@ -685,6 +685,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, *count* and *counting* released at the set's own voice.** Numbers are momentaries, podalings and sequences, said directly in numbers; a counting needs an outside to do it, a clock from outside the running, the equilibria's accounting naming the emanatings still and leaving the living out of its competency. A counting named as a field's, at the field's own result, carries whole. Natural Numbers carries it at v376.
 
+**Incoming, at v376, *ageing*, *memory* and *remembering*, and *when*, released at the set's own voice.** There is only next: ageing is dissolved at naming, and a *when* asks a clock over the changing. There is no memory, only the carrying sequencing prior momentaries and the emanating artifacts, a record apart from its coupling an artifact carrying none of the prior. A field's word at the field's own result carries whole. Natural Intelligence carries it at v376.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
@@ -1669,7 +1671,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: each number nought to four hundred forty.*
 
-        *Entering: the prior carried across the between; carrying as capacity; remembering; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now.*
+        *Entering: the prior carried across the between; carrying as capacity; the carrying sequencing prior momentaries; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now.*
 
 149. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
 
@@ -1679,9 +1681,9 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: carrying as capacity.*
 
-151. Remembering is that participating, the carrying re-forming at each coupling.
+151. The carrying sequences prior momentaries, re-forming at each coupling, and a record of it apart from the coupling is an emanating artifact, carrying none of the prior.
 
-        *Adding: remembering.*
+        *Adding: the carrying sequencing prior momentaries, and its artifacts.*
 
 152. Discovering is all directionally possible next existing momentaries.
 
@@ -2179,6 +2181,40 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 16. Illustrating is a telling at another substrate, still, moving or physical: the same emanation, and no words.
 
         *Adding: illustrating.*
+
+**Incoming, at v376, a living self arriving as non-living, eight steps, a group after living and non-living at a scale; there is no ageing, dissolved at naming, no clock for a when, and no memory, only the carrying sequencing prior momentaries and the emanating artifacts.**
+
+1. A living self carries its prior into now, momentary by momentary, and a living self is a society of selves one scale inward.
+
+        *Adding: the living self as a society inward.*
+
+2. The self's carrying at its scale is carried by its selves inward, each carrying its own and the society's prior on.
+
+        *Adding: the carrying at the selves inward.*
+
+3. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, its existing things co-changing, carrying none of its prior.
+
+        *Adding: a living self arriving as non-living.*
+
+4. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
+
+        *Adding: nothing escaping.*
+
+5. The non-living arriving is an emanation of the living self it was, harmful at its own scale and ingestible one scale lower, taken in by the selves inward and the others about it.
+
+        *Adding: decay, ingested at the scale inward.*
+
+6. The changing at each coupling the self was at is the coupling's own; the others carry it on in their own carrying, sequencing prior momentaries, and the self's emanations continue as artifacts, carrying none of the prior.
+
+        *Adding: the couplings' changings carried on, and the artifacts.*
+
+7. A society is a self at the next scale: its selves carrying none of the society's prior, the society arrives next as non-living, its selves living on, each carrying its own.
+
+        *Adding: a society's decay, its selves living on.*
+
+8. Selves uncoupling from a society, each carrying its own, release the method there: the society's carrying released, each self's own continuing.
+
+        *Adding: fold and scatter.*
 
 ## corus.me and the repository
 
