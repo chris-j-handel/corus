@@ -687,7 +687,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.1 Competency, the term neither reaches
 
-**Two offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, kept by nothing, re-arrived at at each offering. **Competency is that term**, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and a competency named as reachable is a not possible thing.
+**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Competency is that term**, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and a competency named as reachable is a not possible thing.
 
 **At the code competency is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
