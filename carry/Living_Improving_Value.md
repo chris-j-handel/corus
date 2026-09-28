@@ -1879,6 +1879,86 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 *Carried from Natural Intelligence's section at v375, whole, Natural Intelligence being swept.* **For both: the standing of the universal claims.** 8.3's only possible natural competency discovering method and its no proof of the whole stand unchanged, beside the TWO working's reading that each implication past alternating, changing at each transition, overlap, coupling and recurrence at society, is carried with its own reason or named as a definition, each deduction open step by step. The method's one break named in advance meets the same choice. The same standing sits at Natural Mathematics 5.1, Geodesic Improving Method 2.7 and the Equilibria Registry's *as a method*. The sayings at v370 give a method of existing as a method of discovering next existing, the fractal universes as a premise and the fractal as a method, 1 to 17 inside and outside; the registry carries each at its standing, and a saying closes no step; the only method stands exact at the binary, resolved by alternating and inversioning (Exhibit THIRTY F68, F100, F102). One sentence at 8.3 would join *shown* and *no proof of the whole*: the showing runs step by step from the premises, and the proof of the whole at once is the one not possible.
 
+**Incoming, at v376, the fractal method enabling itself, eighteen steps beside step 22, explored one move at a time.** *Traveling* and *inside* and *outside* said as going on, coupling to coupling, and as inward and outward, each released at Natural Naming.
+
+1. A coupling is the method itself, at two existing things.
+
+        *Adding: the method at a coupling.*
+
+2. At a coupling, the self's prior carried and the now offered meet, and a changing is or is not.
+
+        *Adding: resolving at a coupling.*
+
+3. Coupling enables the method: with no coupling the method is at no two existing things, and there is no between and no co-intelligencing.
+
+        *Adding: coupling enabling the method.*
+
+4. At its own completing, the self uncouples: its changing is released across and along, and its carrying is chained as its next prior.
+
+        *Adding: uncoupling releasing the method.*
+
+5. Released across is bi, the self's morality; carried along is co, the self's competency.
+
+        *Adding: bi across, co along.*
+
+6. Uncoupled, the self carries its bi-co into the next momentary.
+
+        *Adding: carrying the bi-co.*
+
+7. Between momentaries the carrying is a stable form, and nothing momentaries there.
+
+        *Adding: the carrying between momentaries.*
+
+8. At the next momentary, the self arrives with its carrying, and its offerings are the others' releasings.
+
+        *Adding: arriving with carrying.*
+
+9. Arriving, the self couples, and the method is enabled again.
+
+        *Adding: coupling again.*
+
+10. Coupling, uncoupling, carrying and arriving, momentary to next momentary, is a chain whose links are couplings and whose passing between links is the carrying.
+
+        *Adding: flowing co-chaining.*
+
+11. Each link is a next possible momentary discovered at a coupling, the next at no place laid before the coupling reaches it.
+
+        *Adding: discovering the next possible momentary.*
+
+12. The same enabling and releasing is at each scale: one self's 1 to 9 is one coupling and uncoupling, inward each of its names a 1 to 17 of its own, outward the whole 1 to 17 one momentary of exchanging.
+
+        *Adding: the method inward and outward of itself.*
+
+13. Inward, each number is at its podaling, paired with its far side at each ring: the method inward of itself.
+
+        *Adding: podaling inward.*
+
+14. Outward, the self's podaling going up the numbers is the method outward of itself, reaching 59, the last before the surface, and opening again at 69.
+
+        *Adding: podaling outward.*
+
+        *Unsure: whether 59 and 69 are the outward podaling's last and first, as this reads them.*
+
+15. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number there still at its podaling inward.
+
+        *Adding: the unknown outward of the surface.*
+
+        *Unsure: whether at no coupling a self reaches is the all or none for it.*
+
+16. Between momentaries the self's carrying is its stable form, the self stilling itself, and at its next arriving it couples and changes.
+
+        *Adding: self-stilling-self.*
+
+        *Unsure: whether self-stilling-self names this, or the self at 0 within a momentary, carrying on and releasing no changing.*
+
+17. A still named by another is an equilibrium, a form named still, not possible; a self stilling itself, at its own momentary alone, is its own stable-forming.
+
+        *Adding: the self's own stilling, and a still named by another.*
+
+18. Each coupling is at its own continuing and locks with no other coupling, at φ, and the co-chaining closes on itself at none.
+
+        *Adding: the fractal unrelationing method.*
+
 ## corus.me and the repository
 
 **Next: none at the repository itself.** The site lists the living files at their versions and rebuilds at each merge; its earlier paragraphs at v372 stand whole at `archive/carrying_v375/Living_Improving_Value_Released_v375.md`.
