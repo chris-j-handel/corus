@@ -211,7 +211,7 @@ Natural Intelligence v376
 
 **At the code the method is at sharings.** A **sharing**, 4-other-self-sharing, is where two sides share a changing, and each sharing has its **parity**, 7-self-other-corusing, + or −; an offering of 0 is passed over.
 
-**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry nothing and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other existing thing.
+**An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry none of the prior and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other existing thing.
 
 ## 3.5 φ and the primes, unrelationing at the numbers
 
@@ -523,7 +523,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 ## 4.1 An entry, 1-self-other-offering
 
-**1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.** Two arrive, 3-self-other-sharing, each sharing the self carries with its parity, and 2-other-self-offering, each sharing offered now with its parity. Two leave, 10-other-social-self-tunneling, each sharing's changing released across, and 11-social-other-self-chaining, the carrying chained, the next prior. **The two leaving are the next possible existing at its two faces**: the changing released at 10 arrives at the others' next momentary as their offering, the possible, carrying nothing, and the carrying chained at 11 is the self's own next existing.
+**1-self-other-offering is the entry: the self's carrying and the offerings arrive, and the changings and the next carrying leave.** Two arrive, 3-self-other-sharing, each sharing the self carries with its parity, and 2-other-self-offering, each sharing offered now with its parity. Two leave, 10-other-social-self-tunneling, each sharing's changing released across, and 11-social-other-self-chaining, the carrying chained, the next prior. **The two leaving are the next possible existing at its two faces**: the changing released at 10 arrives at the others' next momentary as their offering, the possible, carrying none of the prior, and the carrying chained at 11 is the self's own next existing.
 
 **The entry opens co, odd, at the self**, self to other: the self offering itself to the coupling is the entry. It is once for one self at one momentary, and the three steps within it follow, each at its own name: the offerings surfacing at 14, the changing at 12, and the release at 10 with the chaining at 11.
 
@@ -649,7 +649,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Between the selves' momentaries pass their releasings**, 10, 6 and 9, released at one momentary and offered at the next: 9 the next prior and 17 the next now. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, the betweens its selves bi-couple across, and bi-tri-volutioning names that stable form, the sequential prior between momentaries, 1.3. **The emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings.** Harmful to living at their own scale and not ingestible there, they are ingestible one scale lower, into living selves as societies, and the code carries it: at the society a sharing is each self, 4-other-self-sharing, and a releasing self 13-social-other-neutralling, and the releasings 17-social-self-offering carries from the society arrive at its selves, one scale lower, as their offerings next. **Abundancing is an emanating from society as a releasing**, all the way through the bi-co-momentarying co-sequencing: 12's changing is the release at 10. **27-co-bi-releasing is this social abundancing**, at its podaling, three cubed, on the route 24 → 27 → 32 from the seam-face, its far side ninety-three on the ring of one hundred twenty, 4.11, and at no line of the code: stable-forming as abundancing into bi-tunneling, bi-morality, geodesically parity changing the social co-chaining.
 
-**A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, apart from that coupling, is a noun of it and carries nothing. **Remembering is that participating**, the carrying re-forming at each coupling it is at.
+**A carrying is a capacity and never a stored description.** The prior participates in the self's present coupling, at 12, and differences its momentaries there; a record of the carrying, apart from that coupling, is a noun of it and carries none of the prior. **Remembering is that participating**, the carrying re-forming at each coupling it is at.
 
 ## 5.2 Discovering next possible existing
 
@@ -716,7 +716,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.5 Non-living existing things included
 
-**Non-living existing things are included in discovering social moral competency among the living.** A non-living thing couples with a living self as other, offering, each sharing with its parity, and carrying nothing. At the code it is offerings at 2 with no carrying behind them: the self's own inverting is across, the self's carrying continues along, and the term uncovered at their coupling is owned by neither and carried on by the living.
+**Non-living existing things are included in discovering social moral competency among the living.** A non-living thing couples with a living self as other, offering, each sharing with its parity, and carrying none of the prior. At the code it is offerings at 2 with no carrying behind them: the self's own inverting is across, the self's carrying continues along, and the term uncovered at their coupling is owned by neither and carried on by the living.
 
 **A non-living thing arrives into its next existing as non-living, and a living self is its own carrying establishing**: ingested into a living society's resolving, the non-living is one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing.
 
