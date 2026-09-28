@@ -988,11 +988,11 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, the co-chaining from the one opening, one hundred eighty-one steps in twenty-five groups, agreed one step at a time with the author.** Each step follows from the steps before it and adds one concept, said on the line below it; each group opens with the concepts entering with it, and a step marked unsure carries its reason on a further line. It enters this file whole at its next motion, as its co-chaining in place of the link tables; until then Natural Intelligence, Exhibit ONE, Exhibit THREE and Exhibit FOUR each meet their sentences against it at their motions.
 
-        *Entering: the one given; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior; continuing; stable-forming.*
+        *Entering: the universe, the changing set of all existing things; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior; continuing; stable-forming.*
 
 1. The universe is the changing set of all existing things, both living and non-living.
 
-        *Adding: the one given.*
+        *Adding: the universe, the changing set of all existing things.*
 
 2. A set is an existing thing.
 
