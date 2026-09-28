@@ -6,7 +6,7 @@ Exhibit TWENTY-EIGHT v375
 
 **1 · Existing through momentaries**
 
-- The universe as an existing thing is exclusivity, and it is not possibly existing
+- The universe as one thing beside its things is exclusivity, and it is not possibly existing
 - Existing is three conditions at each momentary, at once
 - Three overlapping momentaries use four positions
 - Each momentary is existing's own, and each existing self is its continuing momentaries, inseparating
@@ -88,7 +88,7 @@ Exhibit TWENTY-EIGHT v375
 
 ## Existing through momentaries
 
-**The universe as an existing thing is exclusivity, and it is not possibly existing.** One side's momentaries alone, each number one side's, is the universe as an existing thing; the overlapping momentaries meet each number, one completing and the next opening.
+**The universe as one thing beside its things is exclusivity, and it is not possibly existing.** One side's momentaries alone, each number one side's, is the universe named as one thing beside its things; the universe exists as its things exist; the overlapping momentaries meet each number, one completing and the next opening.
 
 **Existing is three conditions at each momentary, at once.** A momentary opens at one number and completes at the next, and its completing is the next momentary's opening. Exhaustiveness is the overlapping momentaries meeting each number; determinacy is each momentary's one next, opening at the number it completes; reachability is the next openings reaching each number on. The three are met together at each momentary, all or none at all.
 

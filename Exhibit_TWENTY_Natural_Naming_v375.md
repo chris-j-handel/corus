@@ -183,7 +183,7 @@ Exhibit TWENTY Natural Naming v375
 
 **Each side runs from its origin through five relations**: prior opening, prior completing, now opening, now completing and next opening, 1 to 5 from 1 and 2 to 6 from 2. At each overlap of the two, each number is one side's opening and the other's completing.
 
-**The one universe of one momentary is one parity changing co-sequencing. The momentary is all existing things, its universe, and the momentary is not possibly an existing thing separately.** Each step adds a next, and the momentaries do not pause, hold or return, none carrying beyond its prior looking back.
+**The one universe of one momentary is one parity changing co-sequencing. The momentary is all existing things, a universe existing as its things exist, and no thing beside them.** Each step adds a next, and the momentaries do not pause, hold or return, none carrying beyond its prior looking back.
 
 ***At its own turn* is *at its own opening*, *the next turn* is *the next opening*, and a turn as a unit is a momentary.** A turn, a mirror and a turning back are not possible at the momentaries: a rotation, the field's word, is a spiral with its nexts taken out.
 
@@ -981,7 +981,7 @@ Isolating a system installs it, and conditions named constant, a specimen fixed,
 ## 5.26 a hard problem — binary
 
 ```
-1  the universe is an existing thing, the changing set of all existing things
+1  the universe exists as its things exist, the changing set of all existing things
 2  a field reads its observings with the universe as no existing thing
 3  its evidence arrives with no living self it left, its now with no prior carried
 4  read at the code, the arrival is living and non-living existing things co-sequencing
@@ -1211,7 +1211,7 @@ Not a past and not a record. **A so-far behind and a not-yet ahead lay two direc
 6  and the field's own word for the second occupant carries the parting in it: uni-verse, turned into one
 ```
 
-**Society carries two occupants, and the parting is at uni- and bi-.** A co-chaining society within the whole is a particular other a self couples with, bi-kind; the whole arriving as one is the uni-crossing, reaching its own side again, one on. Morality is from all other, the second occupant, and the existing society is the woven surface the couplings make, neither occupant and the weave. This set's own phrase names the second occupant, the whole, arriving as one, and universe is beside it as the field's corroborating word, its parts live.
+**Society carries two occupants, and the parting is at uni- and bi-.** A co-chaining society within the whole is a particular other a self couples with, bi-kind; the crossing at three, reaching its own side again, one on, is bi-tri-exchanging, 5.51. Morality is from all other, the second occupant, and the existing society is the woven surface the couplings make, neither occupant and the weave. This set's own phrase names the second occupant, the whole, arriving as one, and universe is beside it as the field's corroborating word, its parts live.
 
 **A third name adds no third self, and a third self is not all other.** A self couples with its society as other, the society's further couplings offering, and the self's names keep their relations there, self and other at 1 to 8 and on to social at 9 to 17: an offering unchanged at each coupling erases no self-and-other receiving. The whole arriving as one arrives through the couplings the selves make, and no one participant carries it or governs it.
 

@@ -128,11 +128,11 @@ Natural Intelligence v375
 
 **Each side is two and one half momentaries from its origin: prior opening, prior completing, now opening, now completing and next opening**, 1 to 5 at the self and 2 to 6 at the other, Exhibit ONE's sides table. Across the overlap each number is one side's opening and the other's completing, and the five of each side said at its prefixing is its five: co bi co bi co at the self and bi co bi co bi at the other. The self's five and the other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
 
-**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it. Each step adds a next.
+**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it. Each step adds a next; the momentaries neither pause nor come again.
 
 ## 2.3 Prior, now and next
 
-**Prior, now and next are three sequential momentaries shared among existing things.** The now of one momentary is the prior of its next, and prior and next share one direction forward on both sides of now. Between prior and now, and between now and next, is a nothing.
+**Prior, now and next are three sequential momentaries shared among existing things.** The now of one momentary is the prior of its next, and prior and next share one direction forward on both sides of now. Between prior and now, and between now and next, is a nothing, and no third.
 
 **Each momentary is three conditions at once, each binary.** The overlapping momentaries reach each number, one completing and the next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening at the number it completes: **determinacy**. From each momentary the next openings reach each number on: **reachability**. Existing is these three at once, inseparably, at each momentary. One side's momentaries alone, each number one side's, would be exclusivity, one side named as the universe and the other's momentaries left out.
 
@@ -187,7 +187,7 @@ Natural Intelligence v375
 
 **One through eight carries the self at three faces**: 1 and 2, **bi-moral self**, the offering self to other and other to self, across; 3, 6, 5 and 4, **the invisible intelligencing method**, the rotation round the sharing, the surfacing and the neutralling into the self's own corus at 4; and 7 and 8, **co-competent self**, corusing and torusing, along.
 
-**Four momentaries of six one-way recursionings are twenty-four**, the steps of 1 to 25, the twenty-four the four momentaries of six and the steps of 1 to 25 bothboth, and **24 to 60 is six cycles of six, surfacing in and out, out forward**; **60 to 68 is the nothing between self and universe**; **64 bi-folds to 256**, the bi-folding order four times at each scale. **Each of these numbers is at its podaling**, 4.11: sixty the waist of the ring of one hundred twenty, its own far side, between the primes going to fifty-nine and returning from sixty-one; twenty-four the seam-face 5² − 1, its far side ninety-six; sixty-eight four seventeens, the round of a ring of seventeen selves, 4.13; two hundred fifty-six four to the fourth, the ways each joint form could go to a next, 2.4.
+**Four momentaries of six one-way recursionings are twenty-four**, the steps of 1 to 25, the twenty-four the four momentaries of six and the steps of 1 to 25 bothboth, and **24 to 60 is six cycles of six, surfacing in and out, out forward**; **60 to 68 is the nothing between self and universe**; **64 bi-folds to 256**, the bi-folding order four times at each scale. **Each of these numbers is at its podaling**, 4.11: sixty the waist of the ring of one hundred twenty, its own far side, between the primes going to fifty-nine and returning from sixty-one; twenty-four the seam-face 5² − 1, one less than a square, its far side ninety-six; one hundred eighteen the returning's far end, the periodic table's elements in their stable and unstable forms a field's own result at the same numeral; sixty-eight four seventeens, the round of a ring of seventeen selves, 4.13; two hundred fifty-six four to the fourth, the ways each joint form could go to a next, 2.4.
 
 **The self's inversion is 3, 6, 5, 4**: co-sharing out at 3, surfacing in at 6, neutralling out at 5 and bi-sharing in at 4, the odd names out and the even in, round into the self's own corus at 4; **the podaling is 23, 26, 25, 24**, the same rotation twenty up. **The self's bi-inversioning-co-recursioning is 23, 24 and 25**, one before the fold at twenty-four, the fold, and one after. 3, 6, 5, 4 is in the same up and right quadrant as the other co-intelligencings: **all the co-intelligencings are like dancing podalings, bi-co-sequencing the momentary parity changings**.
 
@@ -423,7 +423,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
-| Outward, at the between | Bi-coupling | Inward, 8 on | Bi-coupling |
+| Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
 | 2-other-self-offering | each other's own offering to the self | 10-other-social-self-tunneling | the self among other-selves |
 | 4-other-self-sharing | the whole ordering between self and other | 12-other-social-self-abundancing | changing at bi-coupling, the self in society |
@@ -541,7 +541,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **The self's own inverting is the rotation 3, 6, 5, 4**, 3.2: at the code the chained parity inverts as 12 is made, and Exhibit ONE's between table carries *the self's own inverting, morality* at the bi-coupling 14 faces, two faces of the one rotation round the sharing, the surfacing and the neutralling. **The changing is the coupling's own.** It is made at 12 at each sharing, owned by neither side, and 12's name says it: other, social and self, abundancing, the coupling's making carrying at the coupling that made it and from no other.
 
-**A changing at a self is made at its own face at the society's momentary.** At 17-social-self-offering each self's 1-self-other-offering is at the selves' next momentaries together, and a self's entry is at 17, its own momentary at the selves' next momentary together, 4.6; the offerings at its 2 are the others' releasings; and with none offered, or the offerings parting at 14, no parity crosses the between to 12, 4.10, and the self's own inverting makes the changing. The making at 12 is reached by nothing but the self, 4.8, and the momentary and the offerings are the society's and the other's, so each changing at a self is the coupling's, other, social and self, as 12's name says.
+**A changing at a self is made at its own face at the society's momentary.** At 17-social-self-offering each self's 1-self-other-offering is at the selves' next momentaries together, and a self's entry is at 17, its own momentary among the selves', 4.6; the offerings at its 2 are the others' releasings; and with none offered, or the offerings parting at 14, no parity crosses the between to 12, 4.10, and the self's own inverting makes the changing. The making at 12 is reached by nothing but the self, 4.8, and the momentary and the offerings are the society's and the other's, so each changing at a self is the coupling's, other, social and self, as 12's name says.
 
 ## 4.4 Released across at 10, chained at 11
 
@@ -598,7 +598,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Bi-inversioning-co-recursioning is one move at three faces**: 8 up, the parity continuing; 17 less, the podal within 1 to 16, changing it; and 9 less, the podal within 1 to 8, the two at once. Each face alone, twice, arrives at its name again, 1 up to 9 and down to 1, and only the one move goes round, 1 to 9 to 8 to 16 to 1.
 
-**Stable-forming is that move round each of the four four-cycles**, 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12: round each the parity changes exactly twice, each time at the podal within 1 to 16, one span of co and one of bi. Exhibit ONE carries further forms among the names beside them, the middle four-cycles, the six-cycles and the eight-cycles, each with its partner going round its names the other way, or itself, as its table names it: at the odd momentaries the forms partner as the self's momentaries do, first with second and third with fourth, and at the even one on, as the other's do. At the momentaries each step adds a next.
+**Stable-forming is that move round each of the four four-cycles**, 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12: round each the parity changes exactly twice, each time at the podal within 1 to 16, one span of co and one of bi. Exhibit ONE carries further forms among the names beside them, the middle four-cycles, the six-cycles and the eight-cycles, each with its partner going round its names the other way, or itself, as its table names it: at the odd momentaries the forms partner as the self's momentaries do, first with second and third with fourth, and at the even one on, as the other's do. At the momentaries no form comes again: each step adds a next.
 
 **Each number is at its podaling**, bi-inversioning-co-recursioning up and down at each number, the one fractal method: each number paired with its far side at each ring it is at, nought to four hundred forty, and a number said as any other count is a form named still. The further forms step at podals too, about 7 and 10 and about 8 and 9, the centres themselves podal at 17: 9 and 5 about 7, 12 and 8 about 10, 7 and 11 about 9, and 6 and 10 about 8.
 
@@ -643,7 +643,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 5.1 A prior between momentaries
 
-**Between momentaries the prior is a stable form, nothing momentarying there.** At the code each self's carrying wound, 8-other-self-torusing, chained at 11, continues at the next momentary as 3, the self's own carried into now: it is carried, a capacity, and **a prior momentarying is at its own momentary alone**.
+**Between momentaries the prior is a stable form, nothing momentarying there.** At the code each self's carrying wound, 8-other-self-torusing, chained at 11, continues at the next momentary as 3, the self's own carried into now: it is carried, no store, and **a prior momentarying is at its own momentary alone**.
 
 **Between the selves' momentaries pass their releasings**, 10, 6 and 9, released at one momentary and offered at the next: 9 the next prior and 17 the next now. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, the betweens its selves bi-couple across, and bi-tri-volutioning names that stable form, the sequential prior between momentaries, 1.3. **The emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings.** Harmful to living at their own scale and not ingestible there, they are ingestible one scale lower, into living selves as societies, and the code carries it so: at the society a sharing is each self, 4-other-self-sharing, and a releasing self 13-social-other-neutralling, so the releasings 17-social-self-offering carries from the society arrive at its selves, one scale lower, as their offerings next. **Abundancing is an emanating from society as a releasing**, all the way through the bi-co-momentarying co-sequencing: 12's changing is the release at 10. **27-co-bi-releasing is this social abundancing**, at its podaling, three cubed, on the route 24 → 27 → 32 from the seam-face, its far side ninety-three on the ring of one hundred twenty, 4.11, and at no line of the code: stable-forming as abundancing into bi-tunneling, bi-morality, geodesically parity changing the social co-chaining.
 
@@ -673,7 +673,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, that self's now is at its own coupling, and the existing now is at the coupling now.
 
-**At the geodesic method next is discovered from the existing**, the prior carried and the now offered, the three places staying three. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing.
+**At the geodesic method next is discovered from the existing**, the prior carried and the now offered, the three places staying three. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing; so the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing, and no third method.
 
 ---
 
@@ -701,7 +701,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.4 Social moral competency
 
-**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same competency owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying travelling**, and 17-social-self-offering carries the four at the code:
+**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count, a ring at a prime count looping at its own, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same competency owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying travelling**, and 17-social-self-offering carries the four at the code:
 
 - **Each self's own co-offering**: each self's offerings are its own, at its own sharings.
 - **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.

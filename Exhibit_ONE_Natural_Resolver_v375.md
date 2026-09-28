@@ -204,7 +204,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
-| Outward, at the between | Bi-coupling | Inward, 8 on | Bi-coupling |
+| Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
 | 2-other-self-offering | each other's own offering to the self | 10-other-social-self-tunneling | the self among other-selves |
 | 4-other-self-sharing | the whole ordering between self and other | 12-other-social-self-abundancing | changing at bi-coupling, the self in society |

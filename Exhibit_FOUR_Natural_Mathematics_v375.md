@@ -366,7 +366,7 @@ Exhibit FOUR Natural Mathematics v375
 
 **A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from the two-ity, the field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on the three values nought, a and one in order, the negation of a is nought and the negation of nought is one, so a negated twice arrives at one.
 
-**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms no existing thing.
+**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms no thing beside its things, existing as its things exist: the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
 
 ---
 

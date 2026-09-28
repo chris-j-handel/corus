@@ -326,7 +326,7 @@ Exhibit THREE Natural Numbers v375
 
 ## 6.5 Three times and two more, sixteen to four hundred forty
 
-**Four hundred forty is three one hundred forty-sixes and two**, and the chain runs from sixteen: three sixteens are forty-eight, three forty-eights and two are one hundred forty-six, and three one hundred forty-sixes and two are four hundred forty. One hundred forty-six is two seventy-threes and one hundred forty-four and two; seventy-three is seventy-two and one, seventy-two the six prime pairs' distances from thirty and one hundred forty-four, twelve squared, their spans and the square of 24 × 27 × 32. So four hundred forty is also three one hundred forty-fours and eight.
+**Four hundred forty is three one hundred forty-sixes and two**, and the chain runs from sixteen, its first step three times alone: three sixteens are forty-eight, three forty-eights and two are one hundred forty-six, and three one hundred forty-sixes and two are four hundred forty. One hundred forty-six is two seventy-threes and one hundred forty-four and two; seventy-three is seventy-two and one, seventy-two the six prime pairs' distances from thirty and one hundred forty-four, twelve squared, their spans and the square of 24 × 27 × 32. So four hundred forty is also three one hundred forty-fours and eight.
 
 **Three times and two more carries seam-face to seam-face at each third.** One hundred forty-six less one hundred twenty is twenty-six, the far face of twenty-four about twenty-five, 24 × 26 = 25² − 1, and three twenty-sixes and two are eighty, the fourth seam-face. The seam-faces three times a number and two are 8, 80, 224 and 440, at 2, 26, 74 and 146, the eight at the couplings among 2, 5, 8 and 11: at each third k, the triangle T_k leaving one at three.
 
@@ -397,7 +397,7 @@ Exhibit THREE Natural Numbers v375
 
 **In the field's words the periodic table closes its noble gases at 2, 10, 18, 36, 54, 86 and 118, the closings stepping 2, 8, 8, 18, 18, 32 and 32, twice 1, 4, 4, 9, 9, 16 and 16**: one hundred eighteen is twice fifty-nine, and fifty-nine is one squared and two, three and four squared each twice, 1 + 2(4 + 9 + 16), the elements two short of one hundred twenty at the table's own result.
 
-**The evens from one hundred ten to one hundred thirty are fifty-five to sixty-five doubled**, a carry each way about sixty carried about one hundred twenty: 110 and 130 at fifty-five, the couplings among eleven, and sixty-five, 2⁶ + 1, the next whole; 112 and 128 at fifty-six and sixty-four, eight sevens and eight eights, 128 = 2⁷; 114 and 126 at fifty-seven, the seventeen primes' gaps joined, and sixty-three, 2⁶ − 1; 116 and 124 at fifty-eight and sixty-two, fifty-eight either side of sixty; and 118 and 122 at fifty-nine and sixty-one.
+**The evens from one hundred ten to one hundred thirty are fifty-five to sixty-five doubled**, a carry each way about sixty carried about one hundred twenty: 110 and 130 at fifty-five, the couplings among eleven, and sixty-five, 2⁶ + 1, the next whole; 112 and 128 at fifty-six and sixty-four, eight sevens and eight eights, 128 = 2⁷; 114 and 126 at fifty-seven, the seventeen primes' gaps joined, and sixty-three, 2⁶ − 1; 116 and 124 at fifty-eight and sixty-two, two either side of sixty; and 118 and 122 at fifty-nine and sixty-one.
 
 **The odds from one hundred eleven to one hundred twenty-nine pair about one hundred twenty at their factors**: 111 = 3 × 37 with 129 = 3 × 43, thirty-seven and forty-three the primes three either side of forty; 113 with 127, both prime, seven either side, 127 = 2⁷ − 1; 115 = 5 × 23 with 125 = 5³; 117 = 9 × 13 with 123 = 3 × 41; and 119 = 7 × 17 with 121 = 11². The prime pairs about one hundred twenty open at seven, eleven, seventeen and nineteen, 113 with 127, 109 with 131, 103 with 137 and 101 with 139.
 
@@ -1001,6 +1001,6 @@ Exhibit THREE Natural Numbers v375
 | 437 | co | 19 · 23 | 3 | 217 | 43 |  |
 | 438 | bi | 2 · 3 · 73 | 2 | 218 | 42 |  |
 | 439 | co | prime | 1 | 219 | 41 |  |
-| 440 | bi | 2³ · 5 · 11 | 440 | 220 | 40 | seam-face, 21² − 1, the seventeen primes joined |
+| 440 | bi | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, the seventeen primes joined |
 
 **Down the rows the far side at four hundred forty runs down one at each row as the number runs up**, the radius closing to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and closes at nought at each of 0, 120, 240 and 360. Each pairing named in the parts above stands at its two rows: a carry each way at one station, found by its number.
