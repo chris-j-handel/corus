@@ -854,6 +854,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Confirmed at v372.** The paired Ramsey numbers at 4.2, 2, 6, 18 and then at most 46: R(5, 5) ≤ 46 is Angeltveit and McKay's result, published in the Journal of Graph Theory (2026), doi 10.1002/jgt.70029, arXiv 2409.15709.
 
+**Incoming, at v376, the co-chaining as the pattern-matching resource for all cohering.** Each part and section title across the living files is read against the co-chaining's groups at Exhibit THIRTY's section and placed at the one group its logic emanates from, a second only when it truly spans two: every section an emanation of the spine and the one opening sentence. A title no group carries shows a step the spine has yet to discover; a group few titles reach shows a part of the spine the files have yet to carry; and the groups' titles are the clustering titles the files' parts and sections float and neutral at. At v376 the 1,657 titles of the living files were read so, three readers each at a share, and all but 59 placed: those 59 show two steps the spine lacks, the telling itself, a file, a naming, an entry and the set of files at a coupling, and a living self ceasing to carry. The maps stand at `incoming/co_chaining_map_v376/`.
+
 ## Exhibit TWENTY-FIVE · Living Society Registry
 
 **Next at this file: none from the code.**
