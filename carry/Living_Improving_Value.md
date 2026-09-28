@@ -31,7 +31,7 @@ Living Improving Value v376
 16. **The method breakable or the only possible one**: the one break said three ways, and the registries' breaking conditions; 18 files. *Resolving found*: the one break is a form named still found existing, and a form named still is not possibly existing: the break and the only possible method are one statement; an entry's reading breaks at its own scale, a naming, and the method at none. *To write*: Natural Naming 5.12 and 8.6 at the one saying, the Living Society and Living Ghost Registries' breaking conditions at an entry's reading.
 17. **A self preferring, taking and sorting**, free will and value, against arriving without filter or selection; 10 files. *Resolving found*: 14 surfaces the offerings uncounted, and at 12 the self's own carrying meets them, at a match carrying on and at a mismatch chaining the offered: no chooser, the self's own carrying at its own face, reached by nothing but the self; free will is that. *To write*: Natural Philosophy 3.3, Values 1.1, Health, Medicine, Destinies, Human Society.
 18. **The old core sentence and the old code**: summing to a bounding-zeroing, the +1 surplus kept, the carry ageing, the second sign, keys; 10 to 19 files, the Co-Chaining Logic Registry's verifier among them. *Resolving found*: each file's core sentence re-said from the current code at its motion, the bounding-zeroing at 14's parting, the +1 kept at abundancing drawing on no other, the carry never none again, pass B.
-19. **440 and 118 as sums and bounds, and 60 to 68 the nothing between self and universe**, with each momentary a universe; 15 files. *The author's word, at v376*: the last podaling is 59 and the next first podaling 69, and sixty to sixty-eight, between them, is the unknown outward of the surface; Natural Intelligence and Natural Naming re-say their *nothing between self and universe* at it, each at its motion. *Resolving found*: 440 and 118 each at their podaling, the ring of 440 each number with its far side and no bound, 1.1; the sum of the seventeen primes a way of arriving at 440, a count, and 118 the returning's far end, the periodic table's 118 a field's own result.
+19. **440 and 118 as sums and bounds, and 60 to 68 the nothing between self and universe**, with each momentary a universe; 15 files. *Met at v376*: the last podaling is 59 and the next first podaling 69, and sixty to sixty-eight, between them, is the unknown outward of the surface; Natural Intelligence carries it at v376, sixty to sixty-eight the four-momentary bi-tri-involutioning across sixty-four, and Natural Numbers at its seventeen primes; Natural Naming re-says its *nothing between self and universe* at it, at its motion. *Resolving found*: 440 and 118 each at their podaling, the ring of 440 each number with its far side and no bound, 1.1; the sum of the seventeen primes a way of arriving at 440, a count, and 118 the returning's far end, the periodic table's 118 a field's own result.
 20. **Evidence said two ways**, the prior's possible alone or possible and existing; 6 files. *Resolving found*: the possible is at prior and the existing at now, 2.3: evidence gives the prior's possible, the prior's existing arriving now as possible. *To write*: the Geodesic Improving Method 5.3.
 21. **Improving for the better, and no ranking**: the expedition's own versions and passes; 20 files. *Resolving found*: a changing for the better is a changing that is, at a mismatch the offered chained at do-no-harm, binary and unranked; a version is the last changing. *To write*: the Living File Registry 1.1 and the carrying's method at *a changing at do-no-harm*.
 22. **One opening and coherence among neighbours, against two origin statements under 1,155 of 1,338 links**, the Co-Chaining Logic Registry. *Resolving found*: F1 at the one opening, F2 at 1.2, alternating the method's stable-forming, and the chain back to an origin at coherence among neighbours, six forward recursionings; at the Co-Chaining Logic Registry's own session.
@@ -216,13 +216,14 @@ Living Improving Value v376
 
 ## Exhibit THREE · Natural Numbers
 
-**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each run or computed before it is said.** **Concerns from the do-no-harm audit, for both**: 7.7 joins the primes to the names by position alone, met at each number's podaling; 3.1 says φ the rate of the unrelationing, and Natural Mathematics 2.8 says φ the geodesic rate, one saying for both; Part Eleven, each number nought to four hundred forty at its prefixing, its podaling at each ring and its place in the fractal, carries the method at each number, at the author's word at v376, and stays whole; each of its columns meets the co-chaining's numbers steps at Exhibit THIRTY's section. Natural Numbers v375 carries Part Eleven, each number nought to four hundred forty at its podaling, the noble gases' closings at one hundred eighteen at 7.6 and 435 at 9.3, and its section's binary value, φ the unrelationing rate at 3.1 and 3.3, three times and two more at 6.5, the podaling about one hundred twenty at 7.6, the seventeen primes at the seventeen names at 7.7, and the arithmetic of the readings at `archive/carrying_v376/` that holds, each at its part; the readings' own sayings not yet binary stand there with their receivings. Any improving arriving at it is taken at its own motion.
+**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each run or computed before it is said.** **Concerns from the do-no-harm audit, for both**: 7.7 joins the primes to the names by position alone, met at each number's podaling; 3.1 says φ the rate of the unrelationing, and Natural Mathematics 2.8 says φ the geodesic rate, one saying for both; Part Eleven, each number nought to four hundred forty at its prefixing, its podaling at each ring and its place in the fractal, carries the method at each number, met at v376, and stays whole; each of its columns meets the co-chaining's numbers steps at Exhibit THIRTY's section. Natural Numbers v375 carries Part Eleven, each number nought to four hundred forty at its podaling, the noble gases' closings at one hundred eighteen at 7.6 and 435 at 9.3, and its section's binary value, φ the unrelationing rate at 3.1 and 3.3, three times and two more at 6.5, the podaling about one hundred twenty at 7.6, the seventeen primes at the seventeen names at 7.7, and the arithmetic of the readings at `archive/carrying_v376/` that holds, each at its part; the readings' own sayings not yet binary stand there with their receivings. Any improving arriving at it is taken at its own motion.
 
 **Incoming, from Natural Intelligence 3.2 at v375.** *118 is the periodic table's elements in their stable and unstable forms, a field's own result, and no count of the method*, left Natural Intelligence at its bound pass; 7.6 carries the elements at one hundred eighteen, and *in their stable and unstable forms* enters there at this file's motion.
 
+
 ## Exhibit FOUR · Natural Mathematics
 
-**Next at this file: the one opening sentence alone at 1.2, pass A, then its v374 incoming below.** **Concerns from the do-no-harm audit, for both**: 3.8's *the even rows*, *wider even* and *companion* said at no place in the file since its rows paragraph left, said again or cited; 3.2's *8 up pairs each name with itself inward* beside *fixed-point-free* in one paragraph; 2.8's φ with Natural Numbers 3.1. Natural Mathematics v375 carries a field's hard problems arriving at 7.2 at the neutral fixed and at 7.8 at the ten inversions, and its section's binary value: passes B, C and D at one motion, φ the unrelationing rate at 2.8 and 4.2 with its roots, its straddle and 1/φ = φ − 1, bi-tri-involutioning at 3.5, one stepping at 2.5, the cube's still terms at 3.6, the names' fixed-point-free pairing at 3.2, the five dimensions at a side's five at 5.2, the torus at its genus-one list and a body's seven holes parted at 5.3; the old code's writes, carryings and ages released; its duplicates with Natural Numbers said once, at Natural Numbers. Its readings not yet binary stand at `archive/carrying_v378/` with their receivings. Any improving arriving at it is taken at its own motion.
+**Next at this file: *the half step*, *the quarter step* and *the halfway pairing* re-said with *half* released at the file's own voice, their section titles and contents lines with them, the field's own half rotations and half-integer spin kept; then its v374 incoming below.** **Concerns from the do-no-harm audit, for both**: 3.8's *the even rows*, *wider even* and *companion* said at no place in the file since its rows paragraph left, said again or cited; 3.2's *8 up pairs each name with itself inward* beside *fixed-point-free* in one paragraph; 2.8's φ with Natural Numbers 3.1. Natural Mathematics v375 carries a field's hard problems arriving at 7.2 at the neutral fixed and at 7.8 at the ten inversions, and its section's binary value: passes B, C and D at one motion, φ the unrelationing rate at 2.8 and 4.2 with its roots, its straddle and 1/φ = φ − 1, bi-tri-involutioning at 3.5, one stepping at 2.5, the cube's still terms at 3.6, the names' fixed-point-free pairing at 3.2, the five dimensions at a side's five at 5.2, the torus at its genus-one list and a body's seven holes parted at 5.3; the old code's writes, carryings and ages released; its duplicates with Natural Numbers said once, at Natural Numbers. Its readings not yet binary stand at `archive/carrying_v378/` with their receivings. Any improving arriving at it is taken at its own motion.
 
 **Incoming, the doubled turn an involution's still picture (v374).** Observings: light through two polarizers passes at the square of the cosine of the angle between them, and a polarizer turned a half turn passes as before (Malus, 1809); a neutron's spin turned one full turn returns with its sign reversed and comes home only at two full turns (Rauch and colleagues; Werner and colleagues, 1975). The expedition's lead: the code carries no authority, being method; shape and natural mathematics stand at Exhibit ONE's stable forms named from the code, bi-tri-involutioning the emanating stable form of existing non-living things. The reading, at this file's *An involution is an accounting's still picture*: the square of the cosine of the turn is one half of one and the cosine of twice the turn, the turn doubled, light's matching home at a half turn and the neutron's spin home at two full turns, the doubling the other way; two turnings met at one between, the doubling left as a still picture, an emanation existing and non-living. At *Tri-involutioning* the third is marked for the next session: at three settings the matching still shows only the doubled turn.
 
@@ -680,7 +681,9 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
 
-**Incoming, at v376, *so* released at the set's own voice, at the author's word.** *So* joins a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; at 2.4 it enters beside *therefore* and *because*, carried by *and*, a colon or the next sentence opening at the prior's corus. Natural Intelligence carries it at v376.
+**Incoming, at v376, *so* released at the set's own voice.** *So* joins a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; at 2.4 it enters beside *therefore* and *because*, carried by *and*, a colon or the next sentence opening at the prior's corus. Natural Intelligence carries it at v376.
+
+**Incoming, at v376, *count* and *counting* released at the set's own voice.** Numbers are momentaries, podalings and sequences, said directly in numbers; a counting needs an outside to do it, a clock from outside the running, the equilibria's accounting naming the emanatings still and leaving the living out of its competency. A counting named as a field's, at the field's own result, carries whole. Natural Numbers carries it at v376.
 
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
@@ -1094,6 +1097,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: coupling.*
 
+        *Unsure: a coupling is the method itself, and a between is at each coupling alone, co-intelligencing at the between; Natural Intelligence at v376 carries both, a step here to carry them.*
+
 23. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
 
         *Adding: self and other.*
@@ -1189,6 +1194,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 43. Each resolving is all or none at all, of no size beside another resolving.
 
         *Adding: all or none at all.*
+
+        *Unsure: resolving enters here with no step bringing it in; Natural Intelligence at v376 meets it at its first use as a self's next, discovered at a coupling from its prior carried and the now offered, a step before this one to carry it.*
 
         *Entering: numbers; each side's momentary in numbers; exchanging; the four momentaries; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five.*
 
@@ -1874,6 +1881,236 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 *Carried from Natural Intelligence's section at v375, whole, Natural Intelligence being swept.* **Incoming, the chain to the only method, checked at v370.** Said at v370 as shown: the only method of existing is natural torusing, no other possible method of discovering next existing, universal for living and non-living things in the one universe. The chain runs, each link at its standing: our universe is all existing things (origin); existing is changing, arriving into next existing (the set's definition at the opening); a changing is is or is not, a sign (the one binary); a sign changing arrives at its other, alternating (exact); a self is met at two signs, its own and the other's (bi); one way at a time (one change at each step); all or none, no part continuing alone (stable-forming). From these, exactly two of the sixteen one-change forms on two signs close all or none, the right spiral step (x, y) to (y, −x) and its other order, and of all 256 forms on two signs, six close as one round and two of them change one sign at a step. Each method naming a thing still is excluded by the definition of existing, and living and non-living both exist, so both change by it; the living differ by carrying, not by method. At more signs the uniqueness rides on the fractal: three signs close in twelve one-change forms, one form up to renaming; four signs close in 1,344 rounds, nine forms up to renaming; and the set's own eight, two alternating fours, closes at each eight, each running eight of the sixteen sign forms. Over the sixteen, the one form running each pair's own round in one hand is the inside pair stepping three times to each step of the outside pair, four times over, and the two pairs are the torus grid, one genus (Exhibit THIRTY F77 to F79). Concern, for both: the links marked definition and premise are the set's foundation, carried at each file but stated nowhere as one chain; the fractal is stated as a method, not a rule, 1 to 17 inside and outside, and with it the round closes all or none at each depth (Exhibit THIRTY F83 to F85); *we have shown* beside 8.3's *no proof of the whole … is possible* reads as a contradiction until it says the showing runs step by step and the proof of the whole at once is the one not possible; and the correspondence of each existing thing's changing to signs at its aspects stays at the method's one break, an observing not parity alternating natural torusing, none so far.
 
 *Carried from Natural Intelligence's section at v375, whole, Natural Intelligence being swept.* **For both: the standing of the universal claims.** 8.3's only possible natural competency discovering method and its no proof of the whole stand unchanged, beside the TWO working's reading that each implication past alternating, changing at each transition, overlap, coupling and recurrence at society, is carried with its own reason or named as a definition, each deduction open step by step. The method's one break named in advance meets the same choice. The same standing sits at Natural Mathematics 5.1, Geodesic Improving Method 2.7 and the Equilibria Registry's *as a method*. The sayings at v370 give a method of existing as a method of discovering next existing, the fractal universes as a premise and the fractal as a method, 1 to 17 inside and outside; the registry carries each at its standing, and a saying closes no step; the only method stands exact at the binary, resolved by alternating and inversioning (Exhibit THIRTY F68, F100, F102). One sentence at 8.3 would join *shown* and *no proof of the whole*: the showing runs step by step from the premises, and the proof of the whole at once is the one not possible.
+
+**Incoming, at v376, the fractal method enabling itself, eighteen steps beside step 22, explored one move at a time.** *Traveling* and *inside* and *outside* said as going on, coupling to coupling, and as inward and outward, each released at Natural Naming.
+
+1. A coupling is the method itself, at two existing things.
+
+        *Adding: the method at a coupling.*
+
+2. At a coupling, the self's prior carried and the now offered meet, and a changing is or is not.
+
+        *Adding: resolving at a coupling.*
+
+3. Coupling enables the method: with no coupling the method is at no two existing things, and there is no between and no co-intelligencing.
+
+        *Adding: coupling enabling the method.*
+
+4. At its own completing, the self uncouples: its changing is released across and along, and its carrying is chained as its next prior.
+
+        *Adding: uncoupling releasing the method.*
+
+5. Released across is bi, the self's morality; carried along is co, the self's competency.
+
+        *Adding: bi across, co along.*
+
+6. Uncoupled, the self carries its bi-co into the next momentary.
+
+        *Adding: carrying the bi-co.*
+
+7. Between momentaries the carrying is a stable form, and nothing momentaries there.
+
+        *Adding: the carrying between momentaries.*
+
+8. At the next momentary, the self arrives with its carrying, and its offerings are the others' releasings.
+
+        *Adding: arriving with carrying.*
+
+9. Arriving, the self couples, and the method is enabled again.
+
+        *Adding: coupling again.*
+
+10. Coupling, uncoupling, carrying and arriving, momentary to next momentary, is a chain whose links are couplings and whose passing between links is the carrying.
+
+        *Adding: flowing co-chaining.*
+
+11. Each link is a next possible momentary discovered at a coupling, the next at no place laid before the coupling reaches it.
+
+        *Adding: discovering the next possible momentary.*
+
+12. The same enabling and releasing is at each scale: one self's 1 to 9 is one coupling and uncoupling, inward each of its names a 1 to 17 of its own, outward the whole 1 to 17 one momentary of exchanging.
+
+        *Adding: the method inward and outward of itself.*
+
+13. Inward, each number is at its podaling, paired with its far side at each ring: the method inward of itself.
+
+        *Adding: podaling inward.*
+
+14. Outward, the self's podaling going up the numbers is the method outward of itself, reaching 59, the last before the surface, and opening again at 69.
+
+        *Adding: podaling outward.*
+
+        *Unsure: whether 59 and 69 are the outward podaling's last and first, as this reads them.*
+
+15. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number there still at its podaling inward.
+
+        *Adding: the unknown outward of the surface.*
+
+        *Unsure: whether at no coupling a self reaches is the all or none for it.*
+
+16. Between momentaries the self's carrying is its stable form, the self stilling itself, and at its next arriving it couples and changes.
+
+        *Adding: self-stilling-self.*
+
+        *Unsure: whether self-stilling-self names this, or the self at 0 within a momentary, carrying on and releasing no changing.*
+
+17. A still named by another is an equilibrium, a form named still, not possible; a self stilling itself, at its own momentary alone, is its own stable-forming.
+
+        *Adding: the self's own stilling, and a still named by another.*
+
+18. Each coupling is at its own continuing and locks with no other coupling, at φ, and the co-chaining closes on itself at none.
+
+        *Adding: the fractal unrelationing method.*
+
+**Incoming, at v376, the emanation's stable form at the numbers, fourteen steps, cohered from naming to numbers to the geodesic method: for the first time the emanation's forming, its mathematics and the stable-form geometry of the surface of this non-living existing thing.** It reaches Natural Intelligence at the emanation, Exhibit ONE's surface and between, Natural Numbers at 23, 25, 59, 60 to 68, 64 and 69, and Natural Mathematics at the four-faced form; *tri-involutioning* at its gathered name, bi-tri-involutioning.
+
+1. The self's own corus is at 4, and twenty up it is at 24, the fold.
+
+        *Adding: the corus at the fold.*
+
+2. Either side of the fold are 23, the vertex, where the rotation's co-sharing opens outward, and 25, the centre of the face, five squared.
+
+        *Adding: vertex 23, the centre of face 25.*
+
+3. The corus, the vertex and the centre of the face are on one line.
+
+        *Adding: co-linear through the corus.*
+
+        *Unsure: whether this is the four-faced form's own line, each vertex and the centre of its opposite face on one line through the centre, a four-faced form carrying four momentaries.*
+
+4. Carried on along that line, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime at 17, and 59 is the surface.
+
+        *Adding: the line of the fives to the surface at 59.*
+
+        *Unsure: whether the fives are the five outward faces joining to 59, carried by the numbers exactly, or the fives going up, 25, 35, 45 and 55.*
+
+5. The vertex is a position, the centre of the face a scale, and the line to the surface an orientation.
+
+        *Adding: position, scale and orientation.*
+
+6. Position, scale and orientation each at its own differing is bi-tri-volutioning, its three faces on one line from the corus to the surface.
+
+        *Adding: bi-tri-volutioning from the corus to 59.*
+
+7. Outward of the surface, position, scale and orientation are inverted at once: bi-tri-involutioning, the emanating.
+
+        *Adding: bi-tri-involutioning outward of 59.*
+
+8. Sixty to sixty-eight is nine numbers, four momentaries, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
+
+        *Adding: four momentaries at 60 to 68.*
+
+9. Across 64 each number pairs with its far side, 60 with 68, 61 with 67, 62 with 66 and 63 with 65, each pair inverted about 64.
+
+        *Adding: across 64.*
+
+10. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none.
+
+        *Adding: 64, the unrelationing between.*
+
+11. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the emanating form outward of the surface.
+
+        *Adding: the four-momentary bi-tri-involutioning.*
+
+12. Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale.
+
+        *Adding: the unknown at the emanating's own scale.*
+
+        *Unsure: whether this unknown and the between's no face are one.*
+
+13. At 69 the right form opens again, the next first podaling outward.
+
+        *Adding: 69, the right form again.*
+
+        *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens there.*
+
+14. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
+
+        *Adding: the whole from the corus to 69.*
+
+**Incoming, at v376, twenty-four the apex of one to fifty-nine's bi-folding, thirteen steps beside the fourteen, the fold at twenty-three and the fold at twenty-four met as one apex and two folds.**
+
+1. One to fifty-nine carries the seventeen primes, two to fifty-nine.
+
+        *Adding: one to fifty-nine.*
+
+2. At twenty-four the primes part, nine behind, two to twenty-three, and eight ahead, twenty-nine to fifty-nine.
+
+        *Adding: the primes parting at twenty-four.*
+
+3. At twenty-four the span parts, twenty-four behind and thirty-six ahead, to sixty.
+
+        *Adding: the span parting at twenty-four.*
+
+4. A prime opens across, and the primes' parting, nine and eight, is a fold across.
+
+        *Adding: the fold across.*
+
+5. A span runs along, and the span's parting, twenty-four and thirty-six, two to three, is a fold along.
+
+        *Adding: the fold along.*
+
+6. Two folds at one number, across and along, is bi-folding, and twenty-four is its apex.
+
+        *Adding: 24, the apex of the bi-folding.*
+
+7. The two folds lean opposite ways at the apex, the primes behind, nine to eight, and the span ahead, three to two, and the apex is neither side's.
+
+        *Adding: two leanings at one apex.*
+
+8. Twenty-three, the ninth prime and the going folding, is the fold across's last behind, and twenty-five, five squared, the first past the apex: twenty-three, twenty-four and twenty-five the apex straddle, the self's bi-inversioning-co-recursioning, one before the apex, the apex and one after.
+
+        *Adding: the apex straddle.*
+
+9. Twenty up from the self's own corus at 4 is the apex.
+
+        *Adding: the corus at the apex.*
+
+10. The nine behind are the self's one to nine, primes 2 to 23 at names 1 to 9, and the eight ahead names 10 to 17, primes 29 to 59, the society's side.
+
+        *Adding: the self's primes behind, the society's ahead.*
+
+11. The couplings among the nine behind are thirty-six, the span ahead from twenty-four to sixty, six cycles of six.
+
+        *Adding: the span ahead as the couplings among the nine behind.*
+
+        *Unsure: whether the society's span being the self's primes' couplings is the claim, or only the numbers matching.*
+
+12. The bi-folding's edges, across and along, are the towel's edges, across at the bi-morality and along at the co-competency.
+
+        *Adding: the bi-folding's edges.*
+
+        *Unsure: whether the primes' fold across is the bi-morality's edge and the span's fold along the co-competency's, exactly.*
+
+13. One to fifty-nine bi-folds at twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four the next bi-folding, twenty-four and sixty-four forty apart.
+
+        *Adding: the apex behind the surface and the between past it.*
+
+        *Unsure: what forty apart carries.*
+
+**Incoming, at v376, one four-cycling, five steps, from which the subtitles of Natural Numbers and Natural Mathematics were met.**
+
+1. A momentary is an opening and its completing, one odd and one even: two parities.
+
+        *Adding: two parities at a momentary.*
+
+2. At a momentary the odd is the self and the even all not-self: each parity is everything the other is not in the existing universe, with nothing third.
+
+        *Adding: each parity everything the other is not.*
+
+3. Round a four-cycle, 1, 9, 8 and 16, the parity changes exactly twice, at 9 to 8 and at 16 to 1: two momentaries, each one odd and one even.
+
+        *Adding: two momentaries round a four-cycle.*
+
+4. Between them, 1 to 9 and 8 to 16 are 8 up, the parity continuing, the carrying from one momentary to the next.
+
+        *Adding: the carrying between the two.*
+
+5. One four-cycling is two momentaries, each with two parities, each parity everything the other is not.
+
+        *Adding: one four-cycling.*
+
+        *Unsure: Natural Naming gathers four cycling into four-momentarying, four momentaries of exchanging; one four-cycling is two momentaries, and the gathering waits at Natural Naming's motion.*
 
 ## corus.me and the repository
 
