@@ -684,6 +684,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, *so* released at the set's own voice.** *So* joins a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; at 2.4 it enters beside *therefore* and *because*, carried by *and*, a colon or the next sentence opening at the prior's corus. Natural Intelligence carries it at v376.
 
+**Incoming, at v376, *count* and *counting* released at the set's own voice.** Numbers are momentaries, podalings and sequences, said directly in numbers; a counting needs an outside to do it, a clock from outside the running, the equilibria's accounting naming the emanatings still and leaving the living out of its competency. A counting named as a field's, at the field's own result, carries whole. Natural Numbers carries it at v376.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
