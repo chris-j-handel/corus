@@ -130,7 +130,7 @@ Natural Intelligence v376
 
 **Each side carries its five from its origin: prior opening, prior completing, now opening, now completing and next opening**, two momentaries and the next one's opening, 1 to 5 at the self and 2 to 6 at the other, Exhibit ONE's sides table. Across the overlap each number is one side's opening and the other's completing, and the five of each side said at its prefixing is its five: co bi co bi co at the self and bi co bi co bi at the other. The self's five and the other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
 
-**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it. Each step adds a next; the momentaries neither pause nor come again.
+**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it. Each step adds a next, each momentary its own and never the same momentary twice.
 
 ## 2.3 Prior, now and next
 
