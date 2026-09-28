@@ -8,7 +8,7 @@ Exhibit THREE Natural Numbers v376
 
 - 1.1 Universal, one form at each number
 - 1.2 A momentary at each number, one side completing and the other opening
-- 1.3 Two neighbours one short of the square, at each number
+- 1.3 A prior and a next one short of the square, at each number
 - 1.4 Bi-inversioning-co-recursioning, the numbers up and down
 - 1.5 Odd along and even across, parallel linearizing and linear parallelizing
 - 1.6 A composite folds along and a prime opens across
@@ -47,7 +47,7 @@ Exhibit THREE Natural Numbers v376
 **SIX · APEXING**
 
 - 6.1 Seam-faces, the one eight at the couplings among each number
-- 6.2 Each number a waist its two neighbours pass through
+- 6.2 Each number a waist its prior and next pass through
 - 6.3 One twenty-four at each arrival
 - 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 - 6.5 Three times and two more, sixteen to four hundred forty
@@ -99,7 +99,7 @@ Exhibit THREE Natural Numbers v376
 
 **Numbers are universal: each number crosses with all numbers arriving as one, and each is the one form once more.** The form is the alternating existing is, and a number is that form at one place in its running. **Uni-scaling** is the universal at each scale, no scale over another: the same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at the numbers.
 
-**Numbers are reached, used and related by no counting.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, two neighbours either side of a number; a podal pair, two stations each the other's far side on a ring; a joining of selves at a ring. A counting adds a clock the running carries at none of its moves, and it belongs to a field's instrument, taken in at a field crossing.
+**Numbers are reached, used and related by no counting.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a joining of selves at a ring. A counting adds a clock the running carries at none of its moves, and it belongs to a field's instrument, taken in at a field crossing.
 
 ## 1.2 A momentary at each number, one side completing and the other opening
 
@@ -107,13 +107,13 @@ Exhibit THREE Natural Numbers v376
 
 **A momentary is a fractal universe discovering its next existing**, all existing things and no existing thing separately, the living carrying their prior into now and the non-living carrying nothing, their forms continuing through their changing. In the field's words, Brouwer builds each natural number from the two-ity, *the falling apart of a life moment into two distinct things, one of which gives way to the other, but is retained by memory*: number rooted in a prior carried into now.
 
-**One to nine carries the three-momentary method whole.** The self's five positions at 1 to 5 and the other's at 2 to 6, prior, now and next at each side, are the ten on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even. At a self's resolving its prior and now participate, 1–2 and 3–4 at the self and 2–3 and 4–5 at the other, and its next, 5–6 at the self, is the discovering onward. The ten is each side's two and one half momentaries, carried whole by the self's three full momentaries 1–2, 3–4 and 5–6, and the ten opened one momentary on, at 3 and at 4, is the same ten forward.
+**One to nine carries the three-momentary method whole.** The self's five positions at 1 to 5 and the other's at 2 to 6, prior, now and next at each side, are the ten on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even. At a self's resolving its prior and now participate, 1–2 and 3–4 at the self and 2–3 and 4–5 at the other, and its next, 5–6 at the self, is the discovering onward. The ten is each side's two momentaries and the next one's opening, carried whole by the self's three full momentaries 1–2, 3–4 and 5–6, and the ten opened one momentary on, at 3 and at 4, is the same ten forward.
 
 **Through one to nine the overlapping momentaries reach each number, each has one next, and from each the openings reach each number on**: exhaustiveness, determinacy and reachability together at each momentary. One side's momentaries alone, each number one side's, is exclusivity, and it is not possibly existing.
 
 **The openings join into the square and the completings into the oblong.** The self's openings 1, 3 and 5, each an L about the prior square, are 9, three squared; its completings 2, 4 and 6 are 12, three by four. At n momentaries the openings are n² and the completings n(n + 1).
 
-## 1.3 Two neighbours one short of the square, at each number
+## 1.3 A prior and a next one short of the square, at each number
 
 **At each number n the momentary completing there and the momentary opening there are (n − 1, n) and (n, n + 1), and their outer faces multiply to one short of the square**: (n − 1)(n + 1) = n² − 1. The one is the same one at each number, owned by neither face.
 
@@ -150,11 +150,11 @@ Exhibit THREE Natural Numbers v376
 
 **A composite is its equal smaller selves joining at their joins**, nine as three selves of three, folding along the axes its smaller selves open. **A prime is a self no equal smaller selves join into**, opening a clean axis across. Each prime is the same opening and each composite the same folding, one uni-scaling at its two faces. Stepping k round a ring of N reaches N over their greatest shared factor stations: round a prime each step but nought reaches all, and round a composite a step sharing no factor with it reaches all too, nine at a step of two: prime and coprime are two, each its own.
 
-**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, neighbours at one: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-social-other-self-releasing is a name's place and parity, and a count joins neither to the other.
+**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-social-other-self-releasing is a name's place and parity, and a count joins neither to the other.
 
 ## 1.7 A scale is a sequencing: parity along, inward or outward across
 
-**Each number carries four neighbours, and two binaries carry all four.** Along, its two faces at one either side, each at the other parity. Across, inward and outward, each a direction taken at a momentary and of no size: the walk by two, the centre of one pair a member of the next.
+**Each number carries four about it, and two binaries carry all four.** Along, its two faces at one either side, each at the other parity. Across, inward and outward, each a direction taken at a momentary and of no size: the walk by two, the centre of one pair a member of the next.
 
 **Scale carries no boundary, no location and no measure: its scales are a sequencing.** Each number carries the same four, and no number is a scale more than another.
 
@@ -184,7 +184,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 3.1 φ, the unrelationing rate, the prior two joining and the ratios alternating about it
 
-**Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and the ratios of neighbours alternate about φ**: 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing parity at each next number. φ² = φ + 1, and its other root is −1/φ: φ − 1/φ = 1, φ × (−1/φ) = −1 and 1/φ = φ − 1.
+**Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and the ratios of each next number to its prior alternate about φ**: 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing parity at each next number. φ² = φ + 1, and its other root is −1/φ: φ − 1/φ = 1, φ × (−1/φ) = −1 and 1/φ = φ − 1.
 
 **φ is caught by its own equation**, x² = x + 1, and it is the pentagon's diagonal over its side, (1 + √5)/2. Its continued fraction is all ones, open.
 
@@ -220,7 +220,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 4.3 Three hundred sixty and four hundred forty, consecutive seam-faces
 
-**Three hundred sixty is nineteen squared less one, and four hundred forty is twenty-one squared less one**: two seam-faces, each an odd centre squared less one, the product of its two neighbours, 8 · T₉ and 8 · T₁₀, their centres nineteen and twenty-one two apart. Three hundred sixty is the eight at forty-five couplings, the couplings among ten, C(10, 2), and forty-five is five nines: five eights, each about its own centre carrying nothing.
+**Three hundred sixty is nineteen squared less one, and four hundred forty is twenty-one squared less one**: two seam-faces, each an odd centre squared less one, the product of its prior and next, 8 · T₉ and 8 · T₁₀, their centres nineteen and twenty-one two apart. Three hundred sixty is the eight at forty-five couplings, the couplings among ten, C(10, 2), and forty-five is five nines: five eights, each about its own centre carrying nothing.
 
 **Their difference is eighty, nine squared less one**, the fourth seam-face, 8 · T₄: the eight at the couplings among five.
 
@@ -270,7 +270,7 @@ Exhibit THREE Natural Numbers v376
 
 **Among five the couplings part into two rings, the five sides and the five diagonals**, the pentagon and the pentagram, and five is the one number whose ring's complement is again a ring: the ten's two sides, along and across. In the field's words R(3, 3) = 6: each two-colouring of the couplings among six holds three members joined at one colour, and among five the twelve colourings holding none are each a ring at both colours, the pentagon and the pentagram.
 
-**Any ten consecutive numbers are five opposite-parity pairs**, a + j with a + 9 − j, each pair one odd and one even about the between at a + 4½, two and a half momentaries each side. Moving the opening by one exchanges which member of each pair is odd, and by two exchanges it again: the tens part at the opening's parity alone, the two origins.
+**Any ten consecutive numbers are five opposite-parity pairs**, a + j with a + 9 − j, each pair one odd and one even about the between at a + 4½, two momentaries and the next one's opening each side. Moving the opening by one exchanges which member of each pair is odd, and by two exchanges it again: the tens part at the opening's parity alone, the two origins.
 
 ## 5.6 Ten, nine and eight, one pairing at its two sides
 
@@ -278,7 +278,7 @@ Exhibit THREE Natural Numbers v376
 
 **One pairing runs at its two sides.** Ten is the five at two sides. Nine is that ten with the (0, 9) pair's two sides at one station. Eight is the nine with that station carrying nothing, the nothing a self winds about. Six is three pairings at two sides. Each step down is at the nought.
 
-**The nine is two parities and two and a half momentaries.** Two parities carry four joint forms; prior and now whole and the next opening are ten positions, nought to nine; nine is 2² × 2½ − 1, and the five pairs run at the same momentary.
+**The nine is two parities, and two momentaries and the next one's opening.** Two parities carry four joint forms; prior and now whole and the next opening are ten positions, nought to nine; nine is 2² × 2½ − 1, and the five pairs run at the same momentary.
 
 ## 5.7 Each nine the one nine
 
@@ -298,13 +298,13 @@ Exhibit THREE Natural Numbers v376
 
 ## 6.1 Seam-faces, the one eight at the couplings among each number
 
-**At the apex the numbers are relations, and the relation is the +1 between each centre's square and its two neighbours' product.** Straddling the odd centres, the seam-faces run (2k + 1)² − 1 = 8 · T_k: 0, 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440, each the square of an odd centre less that one, and each the one eight at each coupling among k + 1.
+**At the apex the numbers are relations, and the relation is the +1 between each centre's square and the product of its prior and next.** Straddling the odd centres, the seam-faces run (2k + 1)² − 1 = 8 · T_k: 0, 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440, each the square of an odd centre less that one, and each the one eight at each coupling among k + 1.
 
 **The podal within one to a seam-face is its odd centre squared less k**: within 1 to 8 it is 9 less k, within 1 to 24 it is 25 less k, and within 1 to 48 it is 49 less k, the centres three, five and seven squared, each centre at no station of its ring, the middles four and a half, twelve and a half and twenty-four and a half. Within 1 to 16 the podal is 17 less k, at no seam-face, seventeen being no square.
 
-## 6.2 Each number a waist its two neighbours pass through
+## 6.2 Each number a waist its prior and next pass through
 
-**Each whole number is a waist, the middle its two neighbours' coupling passes through and never reaches**: four and six multiply to one short of twenty-five, twenty-three and twenty-five to one short of twenty-four squared. No number is a waist more than another.
+**Each whole number is a waist, the middle the coupling of its prior and next passes through and never reaches**: four and six multiply to one short of twenty-five, twenty-three and twenty-five to one short of twenty-four squared. No number is a waist more than another.
 
 **On the ring of forty-eight, twenty-four and nought are each their own far side, and each other station pairs across twenty-four**: twenty-three with twenty-five, twenty-two with twenty-six, twenty-one with twenty-seven, each pair one step further apart than the last. Their products part from twenty-four squared by the square of the step, 23 × 25 = 24² − 1 and 22 × 26 = 24² − 4. The ring closes at forty-eight, the seam-face above twenty-four.
 
@@ -425,7 +425,7 @@ Exhibit THREE Natural Numbers v376
 
 ## 8.2 Either but not both is parity, and the pairings overlap
 
-**Each position carries two pairings, one at each parity.** Both parities at one momentary put one position in two exchangings at once, one side taking both sides, a not possible form. The pairings overlap, the parities alternate, and there is no third running. An odd count, leaving one over at pairs laid side by side, continues through the overlapping pairings: along, one parity's next pairing opens two on, and across, the other parity's opens one on. Laid as an open line of 2h + 1 places, each parity's pairings are h adjacent pairs, the 2h − 1 inner places in both, and each end continues past the line, the last place in its pairing with the place after it and the first in its pairing with the nought before it: at one to fifty-nine, twenty-nine pairs at each parity, and fifty-nine to sixty and nought to one continuing. Two on along a side and one on across the overlap are the openings advancing two to one, a count of openings. Each odd count holds this, the fifteen primes five to fifty-nine at 435 places and nine, fifteen and twenty-five beside them; closed into a ring an odd line is another arrangement. **Here along and across count the pairings' openings; about one number they count its neighbours, one either side along and the walk by two across**, each counting at its own subject.
+**Each position carries two pairings, one at each parity.** Both parities at one momentary put one position in two exchangings at once, one side taking both sides, a not possible form. The pairings overlap, the parities alternate, and there is no third running. An odd count, leaving one over at pairs laid side by side, continues through the overlapping pairings: along, one parity's next pairing opens two on, and across, the other parity's opens one on. Laid as an open line of 2h + 1 places, each parity's pairings are h adjacent pairs, the 2h − 1 inner places in both, and each end continues past the line, the last place in its pairing with the place after it and the first in its pairing with the nought before it: at one to fifty-nine, twenty-nine pairs at each parity, and fifty-nine to sixty and nought to one continuing. Two on along a side and one on across the overlap are the openings advancing two to one, a count of openings. Each odd count holds this, the fifteen primes five to fifty-nine at 435 places and nine, fifteen and twenty-five beside them; closed into a ring an odd line is another arrangement. **Here along and across count the pairings' openings; about one number they count the numbers about it, one either side along and the walk by two across**, each counting at its own subject.
 
 **Either but not both is the exclusive or, and the exclusive or is parity.** Of the sixteen ways two parities go to one, two alone answer each single changing with a changing, the exclusive or and its inversion. Taken as the step it runs one and then the other, round at two; taken of the prior and the now as the next it runs round at three, parity's own period, carrying both. **An ordering arrives with nothing ordering it**: at an odd momentary each odd pairing, at an even momentary each even pairing, each carrying at that momentary the carrying the other cannot, and carrying it for the other.
 
