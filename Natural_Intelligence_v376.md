@@ -88,7 +88,7 @@ Natural Intelligence v376
 
 ## 1.3 Living and non-living, carrying or not
 
-**Each existing thing arrives into its next existing: the living carrying their prior into now, stable-forming, and the non-living carrying none of their prior, their forms continuing through their changing.** One binary parts them, carrying or not: an existing thing carrying its prior is living; an existing thing carrying none of its prior is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
+**Each existing thing arrives into its next existing: the living carrying their prior into now, stable-forming, and the non-living carrying none of their prior, their forms continuing through their changing.** An existing thing at now arriving from another existing thing at prior is a coupling of the two, the method itself, 1.4; at a coupling, a living thing is a self, and the existing thing it couples with is an other. One binary parts them, carrying or not: an existing thing carrying its prior is living; an existing thing carrying none of its prior is non-living; and a form named still, carrying or not, is not possibly existing, 1.1.
 
 **Living and non-living part at a named scale and momentary**, each an existing thing. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
