@@ -92,7 +92,7 @@ Natural Intelligence v376
 
 **Living and non-living part at a named scale and momentary**, each an existing thing. The non-living change through co-momentarying with living and non-living existing things, and the universe of all existing things is the living and the non-living together.
 
-**An emanation leaves a living self at prior and arrives now as the possible, carrying none of the prior.** Its form continues through its changing, a stable form, *stable* naming no stillness, and the living self's stable-forming is the carrying it emanates from, its form at the numbers at 5.1. A living self and its non-living emanation carry no contradiction: carrying and carrying none of the prior contradict only at one participation, one scale and one momentary.
+**An emanation leaves a living self at prior and arrives now as the possible, carrying none of the prior.** Its form continues through its changing, a stable form, *stable* naming no stillness, and the living self's stable-forming is the carrying it emanates from; the emanation's form at the numbers is at 5.1. A living self and its non-living emanation carry no contradiction: carrying and carrying none of the prior contradict only at one participation, one scale and one momentary.
 
 ## 1.4 No other possible method
 
