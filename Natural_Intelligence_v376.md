@@ -98,7 +98,7 @@ Natural Intelligence v376
 
 **Parity changing is the one method of the changing set of all existing things, and no other is possible.** Any other method carries a not possible thing, beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is ingressing, beside all existing things, or escaping, a changing out of the set, and the changing set of all existing things has neither.
 
-**Any other method proposed is at one binary: does it name still, or carry.** Named still, it forms nothing, each existing thing changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating. Nothing is there for a second method to be.
+**Any other method proposed is at one binary: naming still, or carrying.** Naming still, it forms nothing, each existing thing changing. Carrying, it carries its own opening, 2.2, or another's: its own, and it is alternating, the one method; another's, and it is no alternating, a not possible changing, 1.2. A second method is a not possible method.
 
 ## 1.5 Natural-, all or none at all, at the one hand
 
