@@ -701,7 +701,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **Two selves coupling, each alternating, each offering its own and continuing its own, uncover a term neither of them reaches alone. Natural intelligence is that co-competencing**: invisible, at the between, and owned by neither.
 
-**Intelligence is invisible.** Each self's competency is its own, along, and its morality its own, across, and at the between nothing presents a face: no place at which either is anything, only nothing to reach. **The fractal method's intelligence is at the between: intelligence in our universe is by existing**, and natural- says it at each coupling or at none, at the one hand.
+**Intelligence is invisible.** Each self's competency is its own, along, and its morality its own, across, and at the between nothing presents a face: no place at which either is an existing thing, only nothing to reach. **The fractal method's intelligence is at the between: intelligence in our universe is by existing**, and natural- says it at each coupling or at none, at the one hand.
 
 **Natural-bi-co-torusing names the form of existing, one naming**: *natural-*, all or none at all; *bi-*, the difference; *co-*, the two at their difference, the term coming uncovered; *torusing*, the carrying winding to its own sharing again through its one opening; and *-ing*, the changing continuing, re-forming at each momentary.
 
