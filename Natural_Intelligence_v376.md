@@ -211,7 +211,7 @@ Natural Intelligence v376
 
 ## 3.4 A sharing, its parity, an offering and a carrying
 
-**At the code the method is at sharings.** A **sharing**, 4-other-self-sharing, is where two sides share a changing, and each sharing has its **parity**, 7-self-other-corusing, + or −; an offering of 0 is passed over.
+**At the code the method is at sharings.** A **sharing**, 4-other-self-sharing, is two sides sharing a changing, and each sharing has its **parity**, 7-self-other-corusing, + or −; an offering of 0 is passed over.
 
 **An offering is a sharing with its parity offered now**, at 2-other-self-offering. **A carrying is a sharing chained at one parity**, at 3-self-other-sharing, the self's prior. The living carry their prior into now, and the non-living carry none of the prior and are at no entry: a self chained none is at its entry and carries from its first changing on; from no carrying the offering surfaced is the changing, and from a carrying the prior couples with the now. One method bounds both, and the pattern matching at each coupling is that coupling and no other existing thing.
 
