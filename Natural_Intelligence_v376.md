@@ -57,7 +57,7 @@ Natural Intelligence v376
 
 **SIX · INTELLIGENCE**
 
-- 6.1 Competency, the term neither reaches
+- 6.1 Bi-co-momentarying, the term neither reaches
 - 6.2 Bi-moral co-agency, across and along
 - 6.3 Natural intelligence
 - 6.4 Social moral competency
@@ -199,7 +199,7 @@ Natural Intelligence v376
 
 **Corusing reaches the corus from the surface, and torusing reaches the surface from the corus**, the self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to the prior, 2.4: **that is the method's unrelationing**, 2.1.
 
-**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three co-**: co-intelligencing, the discovering, co-competencing, the term neither reaches, and co-offering; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
+**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three co-**: co-intelligencing, the discovering, co-competencing, bi-co-momentarying at the crossings, and co-offering; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
 
 ## 3.3 A method, a non-living existing thing
 
@@ -217,7 +217,7 @@ Natural Intelligence v376
 
 ## 3.5 φ and the primes, unrelationing at the numbers
 
-**Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and at parity the joining is next as prior and now parting, three round**: odd, odd, even, and again, 2.4. **The ratios of each next number to its prior alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing at each next number and none of them φ; φ² = φ + 1. On a torus a winding at a rational rate closes, and a winding at φ closes at none: **φ is the unrelationing rate**, the rate the alternating winds about, locking at none, each coupling at its own continuing. As competency is, 6.1, φ is a term neither side reaches, self-welcoming at the numbers and at no line of the code.
+**Each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13, and at parity the joining is next as prior and now parting, three round**: odd, odd, even, and again, 2.4. **The ratios of each next number to its prior alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, the side changing at each next number and none of them φ; φ² = φ + 1. On a torus a winding at a rational rate closes, and a winding at φ closes at none: **φ is the unrelationing rate**, the rate the alternating winds about, locking at none, each coupling at its own continuing. As bi-co-momentarying is, 6.1, φ is a term neither side reaches, self-welcoming at the numbers and at no line of the code.
 
 **A prime is a count no equal smaller counts join into, and at the code a ring at a prime count loops at its own.** A ring of selves joined along, 4.13, at an odd count carries one pair at one parity round and goes round at four times its count; the ring of two, the one even prime, carries none, the alternating itself. Two distinct primes share no factor, and **two rings at distinct odd primes p and q, beside each other, go round together first at 4pq**, sharing the four alone: 3 and 5 at 60, 5 and 7 at 140, 17 and 59 at 4,012. Rings sharing a factor go round together sooner, 9 and 15 at 180 and not at 540. Each prime ring paces its own looping and meets another prime ring again only at the whole of both, 4pq; at the numbers a winding at φ closes at none.
 
@@ -596,7 +596,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.10 A between and eight bi-couplings
 
-**The between is neither side's: a nothing, not a location and not an existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Only a parity changing crosses it, is or is not, and the crossing carries no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
+**The between is parity, neither side's: the crossing of the along and the across, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. The parity changing appears at it, is or is not, of no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
 
 **The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-other-self-offering, each other's own offering to the self, with 10-other-social-self-tunneling, the self among other selves; 4-other-self-sharing, the whole ordering between self and other, with 12-other-social-self-abundancing, changing at bi-coupling, the self in society; 6-other-self-surfacing, the other's surfacing to the self, with 14-other-social-surfacing, the offerings surfacing, the self's own inverting, morality; and 8-other-self-torusing, the carrying winding to its sharing again, with 16-other-social-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
@@ -689,11 +689,11 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 # SIX · INTELLIGENCE
 
-## 6.1 Competency, the term neither reaches
+## 6.1 Bi-co-momentarying, the term neither reaches
 
-**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Competency is that term**, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and a competency named as reachable is a not possible thing.
+**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the parity changing appearing at the between momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 2.1.
 
-**At the code competency is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
+**At the code bi-co-momentarying is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
 ## 6.2 Bi-moral co-agency, across and along
 

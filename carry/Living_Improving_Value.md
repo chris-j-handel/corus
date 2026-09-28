@@ -689,6 +689,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, *dying*, and each offered word at Natural Naming's words.** Dying is a living existing thing's changing from living to non-living, an existing thing for the living: the existing thing continues, non-living, and no sentence puts it out of existing; Natural Explaining's *a sentence carries no birth and no death* meets it there. Words offered in the working are said at Natural Naming's words, or at words agreed to belong: *swaying* at the alternating across, a closed *circle* at a winding closing, *offset one forward* at the right spiral step one forward, *cursioning* at recursioning, *seaming path* at the seaming, *co-linear competency* at co-linear and competency; *co-orienting*, *easier* and *faster* wait for their natural names.
 
+**Incoming, at v376, the between, parity and bi-co-momentarying.** The between is the crossing, the along and the across crossing owned by neither, and the between is parity; the parity changing appears at the between, and its appearing momentary by momentary is bi-co-momentarying, the term neither reaches; competency is each self's own, the co-linear recursioning forward along. *Membrane* at the set's own voice is said at the between; the white paper and Exhibit THIRTY carry it at v376.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
@@ -997,7 +999,7 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit THIRTY · Co-Chaining Logic Registry
 
-**Next at this file: each unsure line met at its step, the steps the files' sections show missing written as steps, and each file's sections read at the groups, from `incoming/co_chaining_map_v376/`; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376.**
+**Next at this file: the ten, the five places with their entering and surfacing faces, as steps; each remaining unsure line met at its step; the foundation claims of v371 laid below entered where the v376 steps have not carried them; each file's sections read at the groups, from `incoming/co_chaining_map_v376/`; and the logic Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT rest on, each read at v376 against the steps, at `incoming/co_chaining_map_v376/`, carried with no unsure line; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376.**
 
 **Method at this file.** Each session improving a file reads its sections at the co-chaining's groups: a claim the co-chaining lacks enters as a step at the group its dependencies reach, with the concept it adds; an unsure line met closes; a section no group carries shows the co-chaining's next step.
 
