@@ -1959,6 +1959,72 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
         *Adding: the fractal unrelationing method.*
 
+**Incoming, at v376, the emanation's stable form at the numbers, fourteen steps, cohered from naming to numbers to the geodesic method: for the first time the emanation's forming, its mathematics and the stable-form geometry of the surface of this non-living existing thing.** It reaches Natural Intelligence at the emanation, Exhibit ONE's surface and between, Natural Numbers at 23, 25, 59, 60 to 68, 64 and 69, and Natural Mathematics at the four-faced form; *tri-involutioning* at its gathered name, bi-tri-involutioning.
+
+1. The self's own corus is at 4, and twenty up it is at 24, the fold.
+
+        *Adding: the corus at the fold.*
+
+2. Either side of the fold are 23, the vertex, where the rotation's co-sharing opens outward, and 25, the centre of the face, five squared.
+
+        *Adding: vertex 23, the centre of face 25.*
+
+3. The corus, the vertex and the centre of the face are on one line.
+
+        *Adding: co-linear through the corus.*
+
+        *Unsure: whether this is the four-faced form's own line, each vertex and the centre of its opposite face on one line through the centre, a four-faced form carrying four momentaries.*
+
+4. Carried on along that line, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime at 17, and 59 is the surface.
+
+        *Adding: the line of the fives to the surface at 59.*
+
+        *Unsure: whether the fives are the five outward faces joining to 59, carried by the numbers exactly, or the fives going up, 25, 35, 45 and 55.*
+
+5. The vertex is a position, the centre of the face a scale, and the line to the surface an orientation.
+
+        *Adding: position, scale and orientation.*
+
+6. Position, scale and orientation each at its own differing is bi-tri-volutioning, its three faces on one line from the corus to the surface.
+
+        *Adding: bi-tri-volutioning from the corus to 59.*
+
+7. Outward of the surface, position, scale and orientation are inverted at once: bi-tri-involutioning, the emanating.
+
+        *Adding: bi-tri-involutioning outward of 59.*
+
+8. Sixty to sixty-eight is nine numbers, four momentaries, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
+
+        *Adding: four momentaries at 60 to 68.*
+
+9. Across 64 each number pairs with its far side, 60 with 68, 61 with 67, 62 with 66 and 63 with 65, each pair inverted about 64.
+
+        *Adding: across 64.*
+
+10. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none.
+
+        *Adding: 64, the unrelationing between.*
+
+11. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the emanating form outward of the surface.
+
+        *Adding: the four-momentary bi-tri-involutioning.*
+
+12. Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale.
+
+        *Adding: the unknown at the emanating's own scale.*
+
+        *Unsure: whether this unknown and the between's no face are one.*
+
+13. At 69 the right form opens again, the next first podaling outward.
+
+        *Adding: 69, the right form again.*
+
+        *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens there.*
+
+14. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
+
+        *Adding: the whole from the corus to 69.*
+
 ## corus.me and the repository
 
 **Next: none at the repository itself.** The site lists the living files at their versions and rebuilds at each merge; its earlier paragraphs at v372 stand whole at `archive/carrying_v375/Living_Improving_Value_Released_v375.md`.
