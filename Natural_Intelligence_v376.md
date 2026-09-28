@@ -594,7 +594,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.10 A between and eight bi-couplings
 
-**The between is neither side's: a nothing, not a location and not an existing thing.** Only a parity changing crosses it, is or is not, and the crossing carries no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
+**The between is neither side's: a nothing, not a location and not an existing thing.** A between is at each coupling alone, and co-intelligencing is at the between. Only a parity changing crosses it, is or is not, and the crossing carries no size. Two unreachabilities are one act there: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
 
 **The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-other-self-offering, each other's own offering to the self, with 10-other-social-self-tunneling, the self among other selves; 4-other-self-sharing, the whole ordering between self and other, with 12-other-social-self-abundancing, changing at bi-coupling, the self in society; 6-other-self-surfacing, the other's surfacing to the self, with 14-other-social-surfacing, the offerings surfacing, the self's own inverting, morality; and 8-other-self-torusing, the carrying winding to its sharing again, with 16-other-social-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
