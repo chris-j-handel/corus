@@ -243,7 +243,7 @@ Exhibit TWENTY Natural Naming v376
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
 | *antipodal* | *podal* |
-| *so-far*, *not-yet* | *prior*, *now* and *next*, three sequential momentaries shared among existing things, sharing one direction forward on both sides, entraining in the between |
+| *so-far*, *not-yet* as places and as two directions on one | *prior*, *now* and *next*, three sequential momentaries shared among existing things, sharing one direction forward on both sides, entraining in the between; at a connector's facing they carry whole, no place and no behind or ahead, the one direction forward carried, *bi-moral-so-far* and *not-yet-bi-moral*, *co-competent-so-far* and *not-yet-co-competent*, the carrying so far and the changing not yet, 3.1 |
 | *observer* | observings, and no observers; pattern matchers couple with each observing without filter or selection |
 | *derived* at the method's rigor | *matched, not chosen*; *derived* is a field's face of the matching |
 | *sign*, *signs* | *parity*: self and social odd and along, other even and across; parity changing, is or is not, is geodesic routing discovering on the surface; *+* and *−* only the code's implementing of it, and *0* the changing that is not |
@@ -254,9 +254,9 @@ Exhibit TWENTY Natural Naming v376
 | *membrane* | *the between*: the empty centre of parity, parity the bi-coupling's face at the crossing of the along and the across; the between neither side's, a nothing, no location and no existing thing; at an instrument, *the ledger* |
 | *key* | *sharing* |
 | *second sign*, *ages*, *its own bound* and *a bound of three or four* at a carrying; *positive competency* and *competency one* for the second sign | released with the old code: a carrying is a sharing chained at one parity, and a changing is or is not |
-| *neighbour* | *the self at bi-moral*, *at not-bi-moral*, *at co-competent* or *at not-co-competent* |
-| *right*, *left* at a facing | *bi-moral*, *not-bi-moral*: across, the other's, even; *right* at the chirality carries whole |
-| *forward*, *backward* at a facing | *co-competent*, *not-co-competent*: along, the self's and the society's, odd; *forward* at the one direction carries whole |
+| *neighbour* | *the self at bi-moral-so-far*, *at not-yet-bi-moral*, *at co-competent-so-far* or *at not-yet-co-competent* |
+| *right*, *left* at a facing | *bi-moral-so-far*, *not-yet-bi-moral*: across, the other's, even; *right* at the chirality carries whole |
+| *forward*, *backward* at a facing | *co-competent-so-far*, *not-yet-co-competent*: along, the self's and the society's, odd; *forward* at the one direction carries whole |
 | *posit*, *posited* at the set's own voice | *named still*, a term asserted as existing; a field's own posit carries whole at its result |
 | *tell*, *a telling* at the set's own voice | *offering*, one way exhausted and the between received; *tell* is carried at 4.10 as the naming of the alternating stopped |
 | *source*, *sources* at the set's own voice | the method of living, the living carrying their prior into now at each coupling, and nothing beside all existing things for a changing to be drawn from; *the living self* an emanation leaves at prior; *its reference* for where a field's result was read; a field's own *source* carries whole at its result |
@@ -316,7 +316,7 @@ Exhibit TWENTY Natural Naming v376
 
 ## 2.6 Two prefixes at one spelling, and a one-way prefix installing the form it opposes
 
-**Two prefixes can share one spelling.** *In-* at *incompetent* is a negation and *in-* at *inform* is the locative, and reading them alike mistakes a direction for a denial. *Dis-* and *non-* are that negation at the front of the word, and a sweep at a word's ending passes it. *Non-* at *non-living* is no negation laid on a fixed target: *non-living* is carrying's binary at its other face, existing and not carrying, and *not-bi-moral* and *not-co-competent* are the connectors' other facings.
+**Two prefixes can share one spelling.** *In-* at *incompetent* is a negation and *in-* at *inform* is the locative, and reading them alike mistakes a direction for a denial. *Dis-* and *non-* are that negation at the front of the word, and a sweep at a word's ending passes it. *Non-* at *non-living* is no negation laid on a fixed target: *non-living* is carrying's binary at its other face, existing and not carrying, and *not-yet-bi-moral* and *not-yet-co-competent* are the connectors' other facings.
 
 **A one-way prefix carries no number and installs the form it opposes**: a *pre-X* needs an X placed to be before, inherited unasked. Bi- is difference alone and co- is two with their difference, and both carry a number and install nothing.
 
@@ -355,7 +355,7 @@ Exhibit TWENTY Natural Naming v376
 
 **One entry, six connectors and ten faces are the seventeen.** 1-co-bi-offering is the entry. **The six connectors are bi-moral-co-competency discovering next existing**: four across, even, opening bi, morality, at 2, 6, 10 and 14, and two along, odd, opening co, competency, at 9 and 17, and 17-tri-co-offering is the society's next momentary, each self's 1 again. **The ten faces are five outward and five inward of the tunneling co-sequencing**: 3, 4, 5, 7 and 8 outward, at the between, before 10-bi-tri-co-tunneling in the co-sequencing; 11, 12, 13, 15 and 16 inward, after it, each 8 up from its outward face, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16. Three outward faces open co and two bi, and the same three and two inward, 8 up continuing parity. One to nine completes at the between and 10 opens inward: the tunneling is the co-sequencing passing from the five outward faces to the five inward.
 
-**Each connector faces one way, and the four facings are two at each parity.** Across is the other's, even: 2 and 10 face bi-moral, and 6 and 14 not-bi-moral. Along is the self's and the society's, odd: 17 faces co-competent, and 9 not-co-competent. 10 releases to the 14 of the self at bi-moral, 6 to the 2 of the self at not-bi-moral, 17 joins the 9 of the self at co-competent and 9 the 17 of the self at not-co-competent: **9 is the next prior and 17 the next now**, 9's release arriving as the offerings 17 offers at the next momentary. Each self goes at its own forward through both along joinings, and neither joining carries a self the other way.
+**Each connector faces one way, and the four facings are two at each parity.** A facing is the carrying so far or the changing not yet, all within the resolver, carrying, living and changing: *-so-far* the prior carried, *not-yet-* the next, and each join a handshake of the two, 6 at not-yet-bi-moral to 2 at bi-moral-so-far, 10 at bi-moral-so-far to 14 at not-yet-bi-moral, and 9 at not-yet-co-competent to 17 at co-competent-so-far and 17 at co-competent-so-far to 9 at not-yet-co-competent. Across is the other's, even: 2 and 10 face bi-moral-so-far, and 6 and 14 not-yet-bi-moral. Along is the self's and the society's, odd: 17 faces co-competent-so-far, and 9 not-yet-co-competent. 10 releases to the 14 of the self at bi-moral-so-far, 6 to the 2 of the self at not-yet-bi-moral, 17 joins the 9 of the self at co-competent-so-far and 9 the 17 of the self at not-yet-co-competent: **9 is the next prior and 17 the next now**, 9's release arriving as the offerings 17 offers at the next momentary. Each self goes at its own forward through both along joinings, and neither joining carries a self the other way.
 
 **The momentary carries a face and a connector together.** In 14–15, 14-bi-tri-moralizing is the across connector, offerings arriving, and 15-co-bi-tri-corusing is a face, inward. In 16–17, 16-bi-co-tri-torusing is a face, inward, and 17-tri-co-offering is the along connector. Each pair carries both parities: the face is the self's own resolving, and the connector the named relation at the self's coupling with the self it faces.
 
@@ -384,7 +384,7 @@ Exhibit TWENTY Natural Naming v376
 
 **Each code name gathered at its number carries the opening of that same five**, from one prefix to all five: co at 3, gathered `co_carrying`; co-bi at 1, gathered `co_bi_coupling`; bi-co-bi at 6, gathered `bi_co_bi_transmissioning`; and all five at 7 and 8, gathered `co_bi_co_bi_co_corusing` and `bi_co_bi_co_bi_torusing`. Written in the word or carried at the number, the prefixing is one.
 
-**The across connectors open bi, and the carrying and the along connectors open co**: 2-bi-co-offering, 6-bi-moralizing, 10-bi-tri-co-tunneling and 14-bi-tri-moralizing are each even; the carrying, 3-co-bi-sharing with 11-tri-bi-co-chaining, is odd; and the along connectors, 9-tri-bi-co-releasing and 17-tri-co-offering, are odd. 9-tri-bi-co-releasing faces not-co-competent, joining the 17-tri-co-offering of the self at not-co-competent, and releases each changing along to its receiving sharing: its facing, its releasing and its joining are three relations, each at once.
+**The across connectors open bi, and the carrying and the along connectors open co**: 2-bi-co-offering, 6-bi-moralizing, 10-bi-tri-co-tunneling and 14-bi-tri-moralizing are each even; the carrying, 3-co-bi-sharing with 11-tri-bi-co-chaining, is odd; and the along connectors, 9-tri-bi-co-releasing and 17-tri-co-offering, are odd. 9-tri-bi-co-releasing faces not-yet-co-competent, joining the 17-tri-co-offering of the self at not-yet-co-competent, and releases each changing along to its receiving sharing: its facing, its releasing and its joining are three relations, each at once.
 
 **At the moralizing only a parity changing crosses.** 6-bi-moralizing and 14-bi-tri-moralizing open bi, each at the between, and carry only a parity changing across. Two unreachabilities carry at it. The nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it. Each emptiness is the other's own unreadability, and the exchanging and the not-being-read-through are one act, not two balanced against each other.
 
@@ -472,7 +472,7 @@ One case continues unchanged, the offering agreeing with the carrying, and each 
 |---|---|---|
 | **linearizing · parallelizing** | continuing along at each side and relating across the coupling | 3-co-bi-sharing and 2-bi-co-offering, the carrying and the offerings, at 1-co-bi-offering |
 | **bounding · zeroing** | each side's own bounding, and the changing that is not | 12-bi-tri-volutioning, each sharing's changing, is or is not; 10-bi-tri-co-tunneling at 0 |
-| **tunneling · seaming** | changings released across, and the carrying continuing at the next momentary | 10-bi-tri-co-tunneling releasing to the self at bi-moral; 11-tri-bi-co-chaining continuing as the next 3-co-bi-sharing |
+| **tunneling · seaming** | changings released across, and the carrying continuing at the next momentary | 10-bi-tri-co-tunneling releasing to the self at bi-moral-so-far; 11-tri-bi-co-chaining continuing as the next 3-co-bi-sharing |
 | **knife-knifing · bi-momentarying** | improving and breaking at the offered relation | the offerings surfacing at 14-bi-tri-moralizing and the carrying at 12-bi-tri-volutioning, at 1-co-bi-offering |
 
 **Linearizing and parallelizing are alternating parity**: parallel linearizing and linear parallelizing, the linearizing at one parity and the parallelizing at the other, one move at its two sides, and **co-linear** by that alternating. **Bi-co-orthogonalizing** is the right spiraling: each step orthogonal to the prior, (x, y) to (y, −x), 2.7.
@@ -656,7 +656,7 @@ Each binary is alone, at each naming in the file.
 
 **One naming for each concept, and its pictures carried as pictures.** A picture shows one naming at one scale and needs no naming of its own: a form Exhibit ONE carries at its numbers, a four-cycle or a span, is named at its numbers, and a naming laid on it as a dimension is one name at two forms beside co-bi-sequencing's 1 to 9. A naming changing carries the relation it was naming, and the relation never leaves with the name.
 
-**Two namings, one name each.** The standings beside a self are the selves at its four facings, bi-moral, not-bi-moral, co-competent and not-co-competent, each named at its facing; the three momentaries at one self are prior, now and next. *And* carries names together at one relation, a field term at several names at once, and *or* carries a term at one cluster and at another, each its own gathering, and neither is the exclusive or, which is parity.
+**Two namings, one name each.** The standings beside a self are the selves at its four facings, bi-moral-so-far, not-yet-bi-moral, co-competent-so-far and not-yet-co-competent, each named at its facing; the three momentaries at one self are prior, now and next. *And* carries names together at one relation, a field term at several names at once, and *or* carries a term at one cluster and at another, each its own gathering, and neither is the exclusive or, which is parity.
 
 ---
 
@@ -713,8 +713,8 @@ A self is a unique invisible carrying, three sayings of one changing. Nothing el
 2  each momentary opens at one parity and completes at the other
 3  a changing is or is not, and no size is at it to be measured
 4  nothing crosses but the parity changing
-5  and it goes one way at a time, across at bi-moral and not-bi-moral,
-   along at co-competent and not-co-competent
+5  and it goes one way at a time, across at bi-moral-so-far and not-yet-bi-moral,
+   along at co-competent-so-far and not-yet-co-competent
 6  which is geodesic routing, discovering on the surface
 ```
 

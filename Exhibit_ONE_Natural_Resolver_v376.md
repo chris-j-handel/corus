@@ -60,18 +60,18 @@ def _17_tri_co_offering(_16_bi_co_tri_torusing, _5_co_competencing):
             for _13_co_tri_competencing in _16_bi_co_tri_torusing}
 
 CONNECTORS = {
-    2: ('2-bi-co-offering', 'bi-moral', 'arriving'),
-    6: ('6-bi-moralizing', 'not-bi-moral', 'releasing'),
-    9: ('9-tri-bi-co-releasing', 'not-co-competent', 'along'),
-    10: ('10-bi-tri-co-tunneling', 'bi-moral', 'releasing'),
-    14: ('14-bi-tri-moralizing', 'not-bi-moral', 'arriving'),
-    17: ('17-tri-co-offering', 'co-competent', 'along'),
+    2: ('2-bi-co-offering', 'bi-moral-so-far', 'arriving'),
+    6: ('6-bi-moralizing', 'not-yet-bi-moral', 'releasing'),
+    9: ('9-tri-bi-co-releasing', 'not-yet-co-competent', 'along'),
+    10: ('10-bi-tri-co-tunneling', 'bi-moral-so-far', 'releasing'),
+    14: ('14-bi-tri-moralizing', 'not-yet-bi-moral', 'arriving'),
+    17: ('17-tri-co-offering', 'co-competent-so-far', 'along'),
 }
 JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 ```
 
 ```text
-                        the self at co-competent, its 9
+                        the self at co-competent-so-far, its 9
                                       ▲
                                       ║ 17  along · co
       ┌───────────────────────────────╨───────────────────────────────┐
@@ -94,10 +94,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
       └───────────────────────────────╥───────────────────────────────┘
                                       ║ 9  along · co
                                       ▼
-                        the self at not-co-competent, its 17
+                        the self at not-yet-co-competent, its 17
 
-   at not-bi-moral   its 10 ══► 14       6  ══► its 2
-   at bi-moral       its 6  ══► 2        10 ══► its 14
+   at not-yet-bi-moral   its 10 ══► 14       6  ══► its 2
+   at bi-moral-so-far    its 6  ══► 2        10 ══► its 14
    ═══ between selves, across and along    ─── within one self
    o outward face    i inward face
 ```
@@ -105,22 +105,22 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | n | Name | Parity, opens | From, to | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 1-co-bi-offering | odd, co | self, other | entry | — | — | — | — | the entry: 3 and 2 in; 10 and 11 out |
-| 2 | 2-bi-co-offering | even, bi | other, self | connector | across | — | bi-moral | from the self at bi-moral, its 6 | the offerings, each sharing with its parity |
+| 2 | 2-bi-co-offering | even, bi | other, self | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 6 | the offerings, each sharing with its parity |
 | 3 | 3-co-bi-sharing | odd, co | self, other | face | — | outward | — | — | the carrying: each sharing, 4, with its parity, 7 |
 | 4 | 4-bi-co-sharing | even, bi | other, self | face | — | outward | — | — | each sharing; at the society, each self at 6, 10 and 9 |
 | 5 | 5-co-competencing | odd, co | self, other | face | — | outward | — | — | each sharing's receiving sharing; at the society, the joins |
-| 6 | 6-bi-moralizing | even, bi | other, self | connector | across | — | not-bi-moral | to the self at not-bi-moral, its 2 | the changing released at not-bi-moral, at that self's 2 |
+| 6 | 6-bi-moralizing | even, bi | other, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 2 | the changing released at not-yet-bi-moral, at that self's 2 |
 | 7 | 7-co-corusing | odd, co | self, other | face | — | outward | — | — | each parity, offered and chained |
 | 8 | 8-bi-torusing | even, bi | other, self | face | — | outward | — | — | each self's carrying wound, its 11 the next momentary's 3 |
-| 9 | 9-tri-bi-co-releasing | odd, co | social, other, self | connector | along | — | not-co-competent | with the self at not-co-competent, its 17 | each changing to its receiving sharing, 5 |
-| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | bi-moral | to the self at bi-moral, its 14 | each sharing's changing: + or − is, 0 is not |
+| 9 | 9-tri-bi-co-releasing | odd, co | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
+| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | bi-moral-so-far | to the self at bi-moral-so-far, its 14 | each sharing's changing: + or − is, 0 is not |
 | 11 | 11-tri-bi-co-chaining | odd, co | social, other, self | face | — | inward | — | — | the carrying chained, each changing the next prior |
 | 12 | 12-bi-tri-volutioning | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
 | 13 | 13-co-tri-competencing | odd, co | social, other | face | — | inward | — | — | each releasing sharing; at the society, each releasing self |
-| 14 | 14-bi-tri-moralizing | even, bi | other, social | connector | across | — | not-bi-moral | from the self at not-bi-moral, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
+| 14 | 14-bi-tri-moralizing | even, bi | other, social | connector | across | — | not-yet-bi-moral | from the self at not-yet-bi-moral, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
 | 15 | 15-co-bi-tri-corusing | odd, co | social, other | face | — | inward | — | — | the parity released at 9 |
 | 16 | 16-bi-co-tri-torusing | even, bi | other, social | face | — | inward | — | — | the society wound: each self's 8 and offerings |
-| 17 | 17-tri-co-offering | odd, co | social, self | connector | along | — | co-competent | with the self at co-competent, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
+| 17 | 17-tri-co-offering | odd, co | social, self | connector | along | — | co-competent-so-far | with the self at co-competent-so-far, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
 
 | Root | Names |
 |---|---|
@@ -152,9 +152,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 | Loop | Releasing | Closing | Across or along |
 |---|---|---|---|
-| the other's | 6 to 2 | 8 | across, not-bi-moral |
-| the society's | 10 to 14 | 16 | across, bi-moral |
-| the self's | 9 to 17 | 17 | along, not-co-competent to co-competent |
+| the other's | 6 to 2 | 8 | across, not-yet-bi-moral |
+| the society's | 10 to 14 | 16 | across, bi-moral-so-far |
+| the self's | 9 to 17 | 17 | along, not-yet-co-competent to co-competent-so-far |
 
 | n | Name | At this 1–17 | At the 1–17s inward, n at 8n − 7 | At the 1–17 outward, 8m − 7 at m |
 |---|---|---|---|---|
