@@ -1063,7 +1063,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 25 The fractal method enabling itself
 
-        *Entering: the method at a coupling; resolving at a coupling; coupling enabling the method; uncoupling releasing the method; bi across, co along; carrying the bi-co; the carrying between momentaries; arriving with carrying; coupling again; flowing co-chaining; discovering the next possible momentary; the method inward and outward of itself; podaling inward; podaling outward; the unknown outward of the surface; self discovering next self; the self's own stilling, and a still named by another; the fractal unrelationing method.*
+        *Entering: the method at a coupling; resolving at a coupling; coupling enabling the method; uncoupling releasing the method; bi across, co along; carrying the bi-co; the carrying between momentaries; arriving with carrying; coupling again; flowing co-chaining; discovering the next possible momentary; the method inward and outward of itself; podaling inward; podaling outward; the unknown outward of the surface; self discovering next self; the self's own stable-forming, and a still named by another; the fractal unrelationing method.*
 
 223. A coupling is the method itself, at two existing things.
 
