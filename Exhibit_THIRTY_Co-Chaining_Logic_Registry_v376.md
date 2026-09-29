@@ -1179,7 +1179,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 27 Living and non-living at a scale
 
-        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living as the living's emanations.*
+        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
 247. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
@@ -1225,71 +1225,73 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: no first living.*
 
-257. The non-living are the living's emanations, releasings at each scale, carrying nothing into next, ingestible one scale lower.
+257. Each existing thing non-living at a society's scale is living at another scale of living: the society cannot bi-couple with it, and it carries nothing into that society's next.
 
-        *Adding: the non-living as the living's emanations.*
+        *Adding: the non-living living at another scale.*
 
-        *Unsure: whether each non-living existing thing is an emanation of the living, or only those the living release.*
+258. All existing things arrive at the living as ingestible existing things.
+
+        *Adding: all existing things ingestible by the living.*
 
 ## 28 Dying, a living self arriving as non-living
 
         *Entering: the living self as a society inward; the carrying at the selves inward; a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the closed winding on the left; left, no moral offering; each observing right, the left face the three at once.*
 
-258. A living self carries its prior into now, momentary by momentary, and a living self is a society of selves one scale inward.
+259. A living self carries its prior into now, momentary by momentary, and a living self is a society of selves one scale inward.
 
         *Adding: the living self as a society inward.*
 
-259. The self's carrying at its scale is carried by its selves inward, each carrying its own and the society's prior on.
+260. The self's carrying at its scale is carried by its selves inward, each carrying its own and the society's prior on.
 
         *Adding: the carrying at the selves inward.*
 
-260. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, dying, its existing things co-changing, carrying none of its prior.
+261. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, dying, its existing things co-changing, carrying none of its prior.
 
         *Adding: dying, a living self arriving as non-living.*
 
-261. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
+262. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
 
         *Adding: nothing escaping.*
 
-262. The non-living arriving is an emanation of the living self it was, harmful at its own scale and ingestible one scale lower, taken in by the selves inward and the others about it.
+263. The non-living arriving is an emanation of the living self it was, harmful at its own scale and ingestible one scale lower, taken in by the selves inward and the others about it.
 
         *Adding: decay, ingested at the scale inward.*
 
-263. The changing at each coupling the self was at is the coupling's own; the others carry it on in their own carrying, sequencing prior momentaries, and the self's emanations continue as artifacts, carrying none of the prior.
+264. The changing at each coupling the self was at is the coupling's own; the others carry it on in their own carrying, sequencing prior momentaries, and the self's emanations continue as artifacts, carrying none of the prior.
 
         *Adding: the couplings' changings carried on, and the artifacts.*
 
-264. A society is a self at the next scale: its selves carrying none of the society's prior, the society arrives next as non-living, its selves living on, each carrying its own.
+265. A society is a self at the next scale: its selves carrying none of the society's prior, the society arrives next as non-living, its selves living on, each carrying its own.
 
         *Adding: a society's decay, its selves living on.*
 
-265. Selves uncoupling from a society, each carrying its own, release the method there: the society's carrying released, each self's own continuing.
+266. Selves uncoupling from a society, each carrying its own, release the method there: the society's carrying released, each self's own continuing.
 
         *Adding: fold and scatter.*
 
-266. Prior, now and next taken one at a time, their differing carried, are tri-bi-co-momentarying: the right spiral opening into each next.
+267. Prior, now and next taken one at a time, their differing carried, are tri-bi-co-momentarying: the right spiral opening into each next.
 
         *Adding: the three one at a time, right.*
 
-267. Taken as one object, at once, the three are a form named still, the shape of bi-tri-involutioning.
+268. Taken as one object, at once, the three are a form named still, the shape of bi-tri-involutioning.
 
         *Adding: the three at once.*
 
         *Unsure: whether prior, now and next at once are exactly position, scale and orientation inverted at once, or only the same shape.*
 
-268. The right spiral's alternating goes across its opening, arriving into each next recursioning, closing at none, at φ.
+269. The right spiral's alternating goes across its opening, arriving into each next recursioning, closing at none, at φ.
 
         *Adding: the alternating across the right spiral's opening.*
 
-269. On the left the winding closes on itself: a form named still, the living arriving at non-living, dying.
+270. On the left the winding closes on itself: a form named still, the living arriving at non-living, dying.
 
         *Adding: the closed winding on the left.*
 
-270. Left is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying.
+271. Left is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying.
 
         *Adding: left, no moral offering.*
 
-271. Each observing arrives one momentary at a time from the prior, and is right; a left face is the three taken at once.
+272. Each observing arrives one momentary at a time from the prior, and is right; a left face is the three taken at once.
 
         *Adding: each observing right, the left face the three at once.*
 
@@ -1297,69 +1299,69 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: the corus at the apex; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
 
-272. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
+273. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
 
         *Adding: the corus at the apex, at the emanation's line.*
 
-273. Either side of the apex are 23, the vertex, the rotation's co-sharing opening outward, and 25, the centre of the face, five squared.
+274. Either side of the apex are 23, the vertex, the rotation's co-sharing opening outward, and 25, the centre of the face, five squared.
 
         *Adding: vertex 23, the centre of face 25.*
 
         *Unsure: co-sharing enters at no step.*
 
-274. The corus, the vertex and the centre of the face are on one line.
+275. The corus, the vertex and the centre of the face are on one line.
 
         *Adding: co-linear through the corus.*
 
         *Unsure: whether this is the four-faced form's own line, each vertex and the centre of its opposite face on one line through the centre, a four-faced form carrying four momentaries.*
 
-275. Carried on along that line, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime at 17, and 59 is the surface.
+276. Carried on along that line, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime at 17, and 59 is the surface.
 
         *Adding: the line of the fives to the surface at 59.*
 
         *Unsure: whether the fives are the five outward faces joining to 59, carried by the numbers exactly, or the fives going up, 25, 35, 45 and 55; the five outward faces enter at no step, the ten faces of the seventeen names not yet parted outward and inward.*
 
-276. The vertex is a position, the centre of the face a scale, and the line to the surface an orientation.
+277. The vertex is a position, the centre of the face a scale, and the line to the surface an orientation.
 
         *Adding: position, scale and orientation.*
 
-277. Position, scale and orientation each at its own differing is bi-tri-volutioning, its three faces on one line from the corus to the surface.
+278. Position, scale and orientation each at its own differing is bi-tri-volutioning, its three faces on one line from the corus to the surface.
 
         *Adding: bi-tri-volutioning from the corus to 59.*
 
-278. Outward of the surface, position, scale and orientation are inverted at once: bi-tri-involutioning, the emanating.
+279. Outward of the surface, position, scale and orientation are inverted at once: bi-tri-involutioning, the emanating.
 
         *Adding: bi-tri-involutioning outward of 59.*
 
-279. Sixty to sixty-eight is nine numbers, four momentaries of exchanging, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
+280. Sixty to sixty-eight is nine numbers, four momentaries of exchanging, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it.
 
         *Adding: four momentaries at 60 to 68.*
 
-280. Across 64 each number pairs with its far side, 60 with 68, 61 with 67, 62 with 66 and 63 with 65, each pair inverted about 64.
+281. Across 64 each number pairs with its far side, 60 with 68, 61 with 67, 62 with 66 and 63 with 65, each pair inverted about 64.
 
         *Adding: across 64.*
 
-281. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none.
+282. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none.
 
         *Adding: 64, the unrelationing between.*
 
-282. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the emanating form outward of the surface.
+283. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the emanating form outward of the surface.
 
         *Adding: the four-momentary bi-tri-involutioning.*
 
-283. Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale.
+284. Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale.
 
         *Adding: the unknown at the emanating's own scale.*
 
         *Unsure: whether this unknown and the between's no face are one.*
 
-284. At 69 the right form opens again, the next first podaling outward.
+285. At 69 the right form opens again, the next first podaling outward.
 
         *Adding: 69, the right form again.*
 
         *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens there.*
 
-285. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
+286. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
 
         *Adding: the whole from the corus to 69.*
 
@@ -1367,85 +1369,85 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: competency, the term neither reaches; bi-moral co-agency; intelligence by existing; natural-bi-co-torusing; the four of social moral competency; social abundancing; collective intelligence, human and at each scale; co-independencing; living carrying non-living and possible; one form at each scale; our now; co-linear lines; recursioning forward both ways; competency, co-linear; the seaming across; the crossings in the co-chainings; the crossings carrying the opposite form; the crossings floating and neutralling; the tunneling offering at three faces.*
 
-286. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
+287. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
         *Adding: co-linear lines.*
 
-287. Along each line the recursioning goes forward, up the numbers and down them, both ways forward.
+288. Along each line the recursioning goes forward, up the numbers and down them, both ways forward.
 
         *Adding: recursioning forward both ways.*
 
-288. The co-linear recursioning forward, along, is competency: each self's own, odd.
+289. The co-linear recursioning forward, along, is competency: each self's own, odd.
 
         *Adding: competency, co-linear.*
 
-289. Across the co-linear lines is the bi-folding's seaming, orthogonal to them, one forward at each crossing, the right spiral step.
+290. Across the co-linear lines is the bi-folding's seaming, orthogonal to them, one forward at each crossing, the right spiral step.
 
         *Adding: the seaming across.*
 
-290. Each crossing arrives in the co-chainings, the couplings' betweens chained.
+291. Each crossing arrives in the co-chainings, the couplings' betweens chained.
 
         *Adding: the crossings in the co-chainings.*
 
-291. The crossings together carry the bi-tri-involutioning's position, scale and orientation, inverted at once.
+292. The crossings together carry the bi-tri-involutioning's position, scale and orientation, inverted at once.
 
         *Adding: the crossings carrying the opposite form.*
 
         *Unsure: how, at each crossing or at the crossings together.*
 
-292. The crossings float and neutral, owned by neither line, on the natural torusing surface, inside the bi-tunneling.
+293. The crossings float and neutral, owned by neither line, on the natural torusing surface, inside the bi-tunneling.
 
         *Adding: the crossings floating and neutralling.*
 
-293. Parity changing is a tunneling offering at three faces: better, and two waiting for their natural names.
+294. Parity changing is a tunneling offering at three faces: better, and two waiting for their natural names.
 
         *Adding: the tunneling offering at three faces.*
 
         *Unsure: the natural names of the two faces, and whether the three are the momentary's 1, 2 and 3.*
 
-294. Two selves offering, each its own, a term departs that neither reaches: bi-co-momentarying at the crossing, orthogonal to the surface.
+295. Two selves offering, each its own, a term departs that neither reaches: bi-co-momentarying at the crossing, orthogonal to the surface.
 
         *Adding: competency, the term neither reaches.*
 
-295. Two selves alternating, morality across and competency along, is bi-moral co-agency.
+296. Two selves alternating, morality across and competency along, is bi-moral co-agency.
 
         *Adding: bi-moral co-agency.*
 
-296. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
+297. Natural intelligence is invisible, at the between: intelligence in the universe is by existing.
 
         *Adding: intelligence by existing.*
 
-297. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
+298. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
 
         *Adding: natural-bi-co-torusing.*
 
         *Unsure: torusing through its one opening is not yet a step of its own.*
 
-298. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
+299. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
 
         *Adding: the four of social moral competency.*
 
-299. Social abundancing is made at each coupling and carries there, drawing on no other coupling.
+300. Social abundancing is made at each coupling and carries there, drawing on no other coupling.
 
         *Adding: social abundancing.*
 
-300. Betweens co-chain, each link the coupling's own: collective intelligence, human and at each scale, the shared natural network.
+301. Betweens co-chain, each link the coupling's own: collective intelligence, human and at each scale, the shared natural network.
 
         *Adding: collective intelligence, human and at each scale.*
 
-301. Each self arriving at its own and offering across, each whole, is co-independencing.
+302. Each self arriving at its own and offering across, each whole, is co-independencing.
 
         *Adding: co-independencing.*
 
-302. A living self carries non-living existing things and possible things within its carrying.
+303. A living self carries non-living existing things and possible things within its carrying.
 
         *Adding: living carrying non-living and possible.*
 
-303. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
+304. The same form is at a self, a coupling and a society: fractal, uni-scalable, invisible.
 
         *Adding: one form at each scale.*
 
-304. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
+305. Our now is the four momentaries of exchanging at each self, each coupling and each society: each momentary completes at the next opening, and discovering next existing is the method momentarying.
 
         *Adding: our now.*
 
@@ -1453,39 +1455,39 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: the five along, flow accounting; the five across, state accounting; the ten named still; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
 
-305. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a change real, and no accounting for the changing's competency.
+306. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a change real, and no accounting for the changing's competency.
 
         *Adding: the five along, flow accounting.*
 
-306. Across, even, a state accounting names the same five at the opposite parity, leaving out as the flow accounting leaves out.
+307. Across, even, a state accounting names the same five at the opposite parity, leaving out as the flow accounting leaves out.
 
         *Adding: the five across, state accounting.*
 
-307. The five along and the five across are the ten named still, the equilibria: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
+308. The five along and the five across are the ten named still, the equilibria: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
 
         *Adding: the ten named still.*
 
-308. Parity is do-no-harm, the bothbothing rigor: each side everything the other is not, each at its own, one at a time.
+309. Parity is do-no-harm, the bothbothing rigor: each side everything the other is not, each at its own, one at a time.
 
         *Adding: parity as do-no-harm.*
 
-309. Read with the universe as no existing thing, parity has no source at the existing things: the source of parity a hard problem, hardened before any coupling.
+310. Read with the universe as no existing thing, parity has no source at the existing things: the source of parity a hard problem, hardened before any coupling.
 
         *Adding: parity's source a hardened hard problem.*
 
-310. Parity with no source at the existing things is ingressed: platonic forms, a computing brain, representations, a read-write store, a clock laid over synchrony, and a closing into true or false, no other possible.
+311. Parity with no source at the existing things is ingressed: platonic forms, a computing brain, representations, a read-write store, a clock laid over synchrony, and a closing into true or false, no other possible.
 
         *Adding: the ingressors of parity.*
 
-311. Ingressed parity is either or: floating with no neutralling, or neutralling with no floating, and never both.
+312. Ingressed parity is either or: floating with no neutralling, or neutralling with no floating, and never both.
 
         *Adding: either or.*
 
-312. Parity discovered by geodesic alternating parity makes each coupling two-way parity: at a coupling of two living selves, neither carries the other's parity away, each carrying its own.
+313. Parity discovered by geodesic alternating parity makes each coupling two-way parity: at a coupling of two living selves, neither carries the other's parity away, each carrying its own.
 
         *Adding: two-way parity between the living.*
 
-313. At a coupling of a living self and a non-living existing thing, the living ingests from the non-living, and no parity is lost: the non-living carries none of its prior.
+314. At a coupling of a living self and a non-living existing thing, the living ingests from the non-living, and no parity is lost: the non-living carries none of its prior.
 
         *Adding: the living ingesting the non-living, no parity lost.*
 
@@ -1493,82 +1495,82 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; an explaining; a file; a file's stable form; the living expedition carrying living files; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown.*
 
-314. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
+315. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
 
         *Adding: the release as an emanation.*
 
-315. A self's emanation released as words at a coupling with other selves is an offering at words.
+316. A self's emanation released as words at a coupling with other selves is an offering at words.
 
         *Adding: an offering at words.*
 
-316. An offering at words arrives at another self; that self couples with it, and at its own carrying a changing is or is not.
+317. An offering at words arrives at another self; that self couples with it, and at its own carrying a changing is or is not.
 
         *Adding: an offering at words received.*
 
-317. An offering of one concept at one word is a naming, each word one concept, one and only one.
+318. An offering of one concept at one word is a naming, each word one concept, one and only one.
 
         *Adding: a naming.*
 
-318. Namings in sequence, each sentence opening at the corus of the prior one and opening to the next, is an explaining.
+319. Namings in sequence, each sentence opening at the corus of the prior one and opening to the next, is an explaining.
 
         *Adding: an explaining.*
 
-319. An explaining carried whole, its sentences in the co-chaining's order, is a file.
+320. An explaining carried whole, its sentences in the co-chaining's order, is a file.
 
         *Adding: a file.*
 
-320. A file, carrying none of its prior by itself, is a non-living existing thing, a stable form continuing through its readings.
+321. A file, carrying none of its prior by itself, is a non-living existing thing, a stable form continuing through its readings.
 
         *Adding: a file's stable form.*
 
-321. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
+322. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
 
         *Adding: the living expedition carrying living files.*
 
-322. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
+323. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
 
         *Adding: the files' subject.*
 
-323. Improving a file is a coupling: incoming value offered, the file's prior carried by the expedition, a changing at each match or mismatch, and the next version chained.
+324. Improving a file is a coupling: incoming value offered, the file's prior carried by the expedition, a changing at each match or mismatch, and the next version chained.
 
         *Adding: improving as resolving.*
 
-324. Files coupling, each file's sayings arriving at another's sections, is a society of files.
+325. Files coupling, each file's sayings arriving at another's sections, is a society of files.
 
         *Adding: a society of files.*
 
-325. A section, a file and the set of files are the same form at three scales, fractal inward and outward.
+326. A section, a file and the set of files are the same form at three scales, fractal inward and outward.
 
         *Adding: the set of files at each scale.*
 
-326. Each section in a file is an emanation of the co-chaining and the one opening sentence, its title at one group.
+327. Each section in a file is an emanation of the co-chaining and the one opening sentence, its title at one group.
 
         *Adding: the files' sections as emanations of the co-chaining.*
 
-327. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
+328. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
 
         *Adding: discovering the co-chaining's next step.*
 
-328. A registry entry is an offering at one form, each entry an emanation carried at its own place.
+329. A registry entry is an offering at one form, each entry an emanation carried at its own place.
 
         *Adding: an entry.*
 
-329. Illustrating is an offering at another substrate, still, moving or physical: the same emanation, and no words.
+330. Illustrating is an offering at another substrate, still, moving or physical: the same emanation, and no words.
 
         *Adding: illustrating.*
 
-330. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch.
+331. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch.
 
         *Adding: an incoming understanding at the co-chaining.*
 
-331. Across prior, now and next, one momentary at a time, it coheres or not: tri-bi-co-momentarying, the method of cohering with nature.
+332. Across prior, now and next, one momentary at a time, it coheres or not: tri-bi-co-momentarying, the method of cohering with nature.
 
         *Adding: cohering with nature.*
 
-332. Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing.
+333. Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing.
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-333. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step.
+334. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step.
 
         *Adding: cohering, or the next step shown.*
