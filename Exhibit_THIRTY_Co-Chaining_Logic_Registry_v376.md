@@ -815,7 +815,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: sharing.*
 
-167. An offering is a sharing with its parity offered now, and a carrying is a sharing chained at one parity, the self's prior.
+167. An offering is a sharing with its parity offered now, and a carrying is sharings, each chained at one parity, the self's prior.
 
         *Adding: offering and carrying at a sharing.*
 
@@ -1297,7 +1297,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: society, momentary and universe, each a living set and the living method.*
 
-276. A self is a living set with a society, a momentary and the universe, living, and a living set is a carrying; the method of discovering next living sets is momentarying and carrying.
+276. A self, living, is a living set beside a society, a momentary and the universe, and a living set is a carrying; the method of discovering next living sets is momentarying and carrying, the carrying its living selves'.
 
         *Adding: a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets.*
 
