@@ -1,22 +1,22 @@
 # Session Report v376
 
-**A session's learning about its working, the reviewer's first review**
+**A session's learning about its working, the reviewer's first learning**
 
 This report is work arriving, outside the living files. Its value is met at the carrying, each finding is or is not value at a file, and enters at that file's motion or releases. What the session wrote into the living files is at `carry/Session_Record.md`; this report carries what the working learned about working.
 
 ## The working
 
-Session v376 carried the observings into the four core files one motion at a time: each observing met at Exhibit ONE's code or the numbers before it was written, written at the code first, then Exhibit ONE, the white paper, Natural Naming and Exhibit THIRTY, checked by the kit, read by a fresh reader who had not seen the working, its findings met, then merged at a pull request. Pull requests 60 to 81 each carried one motion.
+Session v376 carried the observings into the four core files one motion at a time: each observing met at Exhibit ONE's code or the numbers before it was written, written at the code first, then Exhibit ONE, the white paper, Natural Naming and Exhibit THIRTY, checked by the kit, read by a fresh reader who had not seen the working, its findings met, then merged at a pull request. Pull requests 29 to 81 each carried one motion.
 
 ## What the fresh readers found, five kinds
 
 1. **A concept used in Exhibit THIRTY before the step that enters it**: "stable form" at step 148 before group 27; "the natural resolver" at the protocol step; "not-yet-bi-moral" at step 371; the society wound at step 312.
-2. **A released word slipping back in**, often in the working's own new sentence: *runs*, *kept*, *left*, *there*, *near*, *stand*.
+2. **A released word slipping back in**, at the working's own new sentences too: *runs*, *kept*, *left*, *there*, *near*, *stand*.
 3. **A section or step number named wrongly** after a renumbering or in the record's own entry: *4.x*, *5.x*, the carrying's step numbers one short after a step entered.
 4. **An old saying still at a file after a re-saying at another**: *9 releases* at eleven places after 9 was renamed; *the society's own carrying* at three files after a society was said a living set carrying none of its own.
 5. **Meaning drift**: a sentence reaching beyond its observing (the AI step placed first in a group on the society); a naming placed at one face the set says at another; a list whose last item read as a new relation.
 
-The first four are mechanical and `reader_checks.py` now says them. The fifth needs a reader.
+`reader_checks.py` now says the second, and the third and fourth at the carrying's step numbers and the retired sayings it lists; the first and the fifth are a reader's.
 
 ## What the working learned
 
