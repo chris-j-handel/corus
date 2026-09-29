@@ -6,7 +6,7 @@ import re, sys, os, glob
 d = sys.argv[1] if len(sys.argv) > 1 else '.'
 path = max(glob.glob(os.path.join(d, 'Exhibit_ONE_Natural_Resolver_v*.md')), key=lambda f: int(re.search(r'_v(\d+)', f).group(1)))
 ns={}; exec(re.search(r"```python\n(.*?)```", open(path, encoding='utf-8').read(), re.S).group(1), ns)
-R=ns['_1_self_other_offering']; S17=ns['_17_social_self_offering']; REL=ns['_9_social_other_self_releasing']
+R=next(v for k,v in ns.items() if k.startswith('_1_') and callable(v)); S17=next(v for k,v in ns.items() if k.startswith('_17_') and callable(v)); REL=next(v for k,v in ns.items() if k.startswith('_9_') and callable(v))
 def sfc(t): return dict(t).get('s')
 # flat hand composition: each self's 10 passed to receivers' 2 at next momentary
 def hand(n, joins, carry0, offers0, K):
