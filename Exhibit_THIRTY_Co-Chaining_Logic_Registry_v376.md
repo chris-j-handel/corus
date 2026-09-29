@@ -725,7 +725,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 19 Nine to seventeen, society
 
-        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, right and not right, competency along; social moral competency; the one fractal at each scale.*
+        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, right and not right, competency along; odd and even at the between; social moral competency; the one fractal at each scale.*
 
 148. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
 
@@ -787,9 +787,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: co-competencing at the society.*
 
-163. Across, the changing arriving at the other is morality, right and not right; along, the prior carried into now is competency.
+163. Across, the changing arriving at the other is morality, right and not right; along, the prior carried into now is competency: morality the changing parity between, odd at the between, and competency the unchanging, even at the between, the numbers' own odd and even as they are.
 
-        *Adding: morality across, right and not right, competency along.*
+        *Adding: morality across, right and not right, competency along; odd and even at the between.*
 
 164. Morality across and competency along at each coupling of a society are social moral competency.
 
