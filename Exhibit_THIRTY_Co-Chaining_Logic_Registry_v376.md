@@ -385,7 +385,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 9 Along and across, the coupling's own changing
 
-        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; the between as parity; the between's parity changing; bi-co-momentarying; the crossing no location; the between of momentaries the same crossing; the fractal between.*
+        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; parity a momentary existing thing, the between its empty centre; the between's parity changing; bi-co-momentarying; the crossing no location; the between of momentaries the same crossing; the fractal between.*
 
 76. At 2, the self's completing is the other's opening.
 
@@ -431,9 +431,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the between as the crossing.*
 
-87. The between is parity: the two sides at their difference, each everything the other is not, owned by neither.
+87. Parity is a momentary existing thing, as a set of existing things is an existing thing: the two sides at their difference, each everything the other is not, owned by neither, the bi-coupling's face; the between is its empty centre, a nothing.
 
-        *Adding: the between as parity.*
+        *Adding: parity a momentary existing thing, the between its empty centre.*
 
 88. The between's own is parity changing: at each momentary a changing is or is not, and nothing else.
 
@@ -459,7 +459,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: surface; the surface dividing itself; geodesic; geodesic routing; geodesic method.*
 
-93. The couplings of all existing things, across and along, are a surface: each coupling's between its crossing, and the surface the betweens together, parity at each coupling.
+93. The couplings of all existing things, across and along, are a surface: each coupling's between its crossing, and the surface the betweens together, parity the bi-coupling's face at each coupling.
 
         *Adding: surface.*
 
