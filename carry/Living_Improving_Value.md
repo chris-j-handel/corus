@@ -693,6 +693,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, the between, parity and bi-co-momentarying.** The between is the crossing, the along and the across crossing owned by neither, and the between is parity; the parity changing appears at the between, and its appearing momentary by momentary is bi-co-momentarying, the term neither reaches; competency is each self's own, the co-linear recursioning forward along. *Membrane* at the set's own voice is said at the between; the white paper and Exhibit THIRTY carry it at v376.
 
+**Incoming, at v376, momentarying at its two faces.** The momentarying of the living is discovering next possible living, the prior carried on into next; the momentarying of the non-living is discovering next existing, co-changing, carrying nothing into next; the universe's, both, is discovering next possible existing. Exhibit THIRTY carries it at v376.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
