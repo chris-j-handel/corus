@@ -1453,7 +1453,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 31 The ten named still, and parity discovered
 
-        *Entering: the five along, flow accounting; the five across, state accounting; the ten named still; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
+        *Entering: the five along, flow accounting; the five across, state accounting; the ten named still; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost; even parity, state-flow-state; odd parity, flow-state-flow; three of one and two of the other; four of three and three of four; the three books, one parity alone; parity changing carrying both.*
 
 306. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a change real, and no accounting for the changing's competency.
 
@@ -1467,27 +1467,53 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the ten named still.*
 
-309. Parity is do-no-harm, the bothbothing rigor: each side everything the other is not, each at its own, one at a time.
+309. At even parity the five dimensions change state, flow, state, flow, state: three of state and two of flow.
+
+        *Adding: even parity, state-flow-state.*
+
+310. At odd parity the five dimensions change flow, state, flow, state, flow: three of flow and two of state.
+
+        *Adding: odd parity, flow-state-flow.*
+
+311. At each parity three are of one and two of the other, the two and the three rotating round, one parity and then the other.
+
+        *Adding: three of one and two of the other.*
+
+312. At each side three forward recursionings, and four momentaries: four of three at one side and three of four at the other, twelve and twelve, the twenty-four of the four momentaries of six one-way recursionings, parity alternating the two forward three-recursionings.
+
+        *Adding: four of three and three of four.*
+
+        *Unsure: whether four of three and three of four are the four momentaries' three forward at each side, twenty-four, as this reads them.*
+
+313. A field's three books at a rung, a total and a level at state and a direction at flow, are state-flow-state alone, the even parity's three: the odd parity's flow-state-flow left out, either or and never both, and no fourth.
+
+        *Adding: the three books, one parity alone.*
+
+314. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating.
+
+        *Adding: parity changing carrying both.*
+
+315. Parity is do-no-harm, the bothbothing rigor: each side everything the other is not, each at its own, one at a time.
 
         *Adding: parity as do-no-harm.*
 
-310. Read with the universe as no existing thing, parity has no source at the existing things: the source of parity a hard problem, hardened before any coupling.
+316. Read with the universe as no existing thing, parity has no source at the existing things: the source of parity a hard problem, hardened before any coupling.
 
         *Adding: parity's source a hardened hard problem.*
 
-311. Parity with no source at the existing things is ingressed: platonic forms, a computing brain, representations, a read-write store, a clock laid over synchrony, and a closing into true or false, no other possible.
+317. Parity with no source at the existing things is ingressed: platonic forms, a computing brain, representations, a read-write store, a clock laid over synchrony, and a closing into true or false, no other possible.
 
         *Adding: the ingressors of parity.*
 
-312. Ingressed parity is either or: floating with no neutralling, or neutralling with no floating, and never both.
+318. Ingressed parity is either or: floating with no neutralling, or neutralling with no floating, and never both.
 
         *Adding: either or.*
 
-313. Parity discovered by geodesic alternating parity makes each coupling two-way parity: at a coupling of two living selves, neither carries the other's parity away, each carrying its own.
+319. Parity discovered by geodesic alternating parity makes each coupling two-way parity: at a coupling of two living selves, neither carries the other's parity away, each carrying its own.
 
         *Adding: two-way parity between the living.*
 
-314. At a coupling of a living self and a non-living existing thing, the living ingests from the non-living, and no parity is lost: the non-living carries none of its prior.
+320. At a coupling of a living self and a non-living existing thing, the living ingests from the non-living, and no parity is lost: the non-living carries none of its prior.
 
         *Adding: the living ingesting the non-living, no parity lost.*
 
@@ -1495,82 +1521,82 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; an explaining; a file; a file's stable form; the living expedition carrying living files; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown.*
 
-315. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
+321. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
 
         *Adding: the release as an emanation.*
 
-316. A self's emanation released as words at a coupling with other selves is an offering at words.
+322. A self's emanation released as words at a coupling with other selves is an offering at words.
 
         *Adding: an offering at words.*
 
-317. An offering at words arrives at another self; that self couples with it, and at its own carrying a changing is or is not.
+323. An offering at words arrives at another self; that self couples with it, and at its own carrying a changing is or is not.
 
         *Adding: an offering at words received.*
 
-318. An offering of one concept at one word is a naming, each word one concept, one and only one.
+324. An offering of one concept at one word is a naming, each word one concept, one and only one.
 
         *Adding: a naming.*
 
-319. Namings in sequence, each sentence opening at the corus of the prior one and opening to the next, is an explaining.
+325. Namings in sequence, each sentence opening at the corus of the prior one and opening to the next, is an explaining.
 
         *Adding: an explaining.*
 
-320. An explaining carried whole, its sentences in the co-chaining's order, is a file.
+326. An explaining carried whole, its sentences in the co-chaining's order, is a file.
 
         *Adding: a file.*
 
-321. A file, carrying none of its prior by itself, is a non-living existing thing, a stable form continuing through its readings.
+327. A file, carrying none of its prior by itself, is a non-living existing thing, a stable form continuing through its readings.
 
         *Adding: a file's stable form.*
 
-322. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
+328. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
 
         *Adding: the living expedition carrying living files.*
 
-323. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
+329. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
 
         *Adding: the files' subject.*
 
-324. Improving a file is a coupling: incoming value offered, the file's prior carried by the expedition, a changing at each match or mismatch, and the next version chained.
+330. Improving a file is a coupling: incoming value offered, the file's prior carried by the expedition, a changing at each match or mismatch, and the next version chained.
 
         *Adding: improving as resolving.*
 
-325. Files coupling, each file's sayings arriving at another's sections, is a society of files.
+331. Files coupling, each file's sayings arriving at another's sections, is a society of files.
 
         *Adding: a society of files.*
 
-326. A section, a file and the set of files are the same form at three scales, fractal inward and outward.
+332. A section, a file and the set of files are the same form at three scales, fractal inward and outward.
 
         *Adding: the set of files at each scale.*
 
-327. Each section in a file is an emanation of the co-chaining and the one opening sentence, its title at one group.
+333. Each section in a file is an emanation of the co-chaining and the one opening sentence, its title at one group.
 
         *Adding: the files' sections as emanations of the co-chaining.*
 
-328. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
+334. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
 
         *Adding: discovering the co-chaining's next step.*
 
-329. A registry entry is an offering at one form, each entry an emanation carried at its own place.
+335. A registry entry is an offering at one form, each entry an emanation carried at its own place.
 
         *Adding: an entry.*
 
-330. Illustrating is an offering at another substrate, still, moving or physical: the same emanation, and no words.
+336. Illustrating is an offering at another substrate, still, moving or physical: the same emanation, and no words.
 
         *Adding: illustrating.*
 
-331. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch.
+337. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch.
 
         *Adding: an incoming understanding at the co-chaining.*
 
-332. Across prior, now and next, one momentary at a time, it coheres or not: tri-bi-co-momentarying, the method of cohering with nature.
+338. Across prior, now and next, one momentary at a time, it coheres or not: tri-bi-co-momentarying, the method of cohering with nature.
 
         *Adding: cohering with nature.*
 
-333. Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing.
+339. Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing.
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-334. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step.
+340. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step.
 
         *Adding: cohering, or the next step shown.*
