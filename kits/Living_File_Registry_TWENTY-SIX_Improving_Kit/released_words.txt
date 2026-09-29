@@ -47,3 +47,11 @@ middling
 rating
 left
 near
+land
+lands
+landing
+travelling
+remembering
+held
+halves
+whenever

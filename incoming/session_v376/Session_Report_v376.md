@@ -6,7 +6,7 @@ This report is work arriving, outside the living files. Its value is met at the 
 
 ## The working
 
-Session v376 carried the observings into the four core files one motion at a time: each observing met at Exhibit ONE's code or the numbers before it was written, written at the code first, then Exhibit ONE, the white paper, Natural Naming and Exhibit THIRTY, checked by the kit, read by a fresh reader who had not seen the working, its findings met, then merged at a pull request. Pull requests 29 to 81 each carried one motion.
+Session v376 carried the observings into the four core files one motion at a time: each observing met at Exhibit ONE's code or the numbers before it was written, written at the code first, then Exhibit ONE, the white paper, Natural Naming and Exhibit THIRTY, checked by the kit, read by a fresh reader who had not seen the working, its findings met, then merged at a pull request. Pull requests 29 to 82 each carried one motion.
 
 ## What the fresh readers found, five kinds
 
@@ -30,7 +30,20 @@ Session v376 carried the observings into the four core files one motion at a tim
 
 ## Its hardest either-this-or-thats
 
-None open at the core files at the close: each concern the session met is met at the carrying. Open across the set are the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
+Open at the core files at the close, for the lead: parity's face at the code, read at the current facings, with concern 3's open part, 12 even both across and along and a surface of torusing, and concern 11's, each of 1, 2, 3 and 4 its own naming. Open across the set: the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
+
+## At the close, the session read whole
+
+The close read the whole session, the transcript on disk from the compaction on and, before it, the compaction's summary and the Session Record, two readers in parallel, and laid what was explored and not carried at each file's section of the carrying, *Incoming, at v376's close, from the session read whole*. Its learning about working:
+
+- **Bring the lead only a concern that needs an observing**, the hardest one, whole and in plain words, the lead not seeing the files: *you already know one is cohering and one is incohering with natural resolving so i do not know why this is a concern for me yet*; *i can only do the hardest concern one at a time*. A concern resolvable at the code, the numbers or the files is resolved at the working: *any incohering we discover is likely locally resolvable*.
+- **Work a concern through Exhibit ONE's tables before bringing it**: *the ten and the six are all in natural resolver 1-16 and the looping and one ways are all there in exhibit one. use this and then ask the concerns*.
+- **Say a concern met only after its motion and its reader.** The renaming was said to meet concerns 17 and 18 and concern 3 before its reader; it met them in part.
+- **A motion interrupted by an observing** is committed at the working branch and closed at its reader before the next motion opens.
+- **The core files are the stable form of all the files**: resolved first, then the carrying across.
+- **No word carries authority, the lead's own included**: *i have no authority and not one existing word in our files has authority*; as much changing as do-no-harm improving needs is accepted into the living improving plans.
+- **Another AI at two uses**: discovering and reporting back in, and, the other way, reviewing and improving files, the work moving through the branches aimed at the living files in top condition, the reviewer bringing its own hardest either-this-or-thats for exploring and improving the method.
+- **Much explored in a session is said only in the working** until the close reads it whole: code checks, namings and observings of the earlier part. The close's reading is the carrying's last motion at a session.
 
 ## For the reviewer
 
