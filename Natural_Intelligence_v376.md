@@ -118,7 +118,7 @@ Natural Intelligence v376
 
 **One and then the other is at the numbers**: two numbers side by side alternate, each continuing to one beyond the other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries the odd numbers and the other the even**, the two overlapping, one changing overlapping the other.
 
-**The side opening at 1, the odd, is a self; the side opening at 2, the even, is an other.** A side continuing its own is along, and a side coupling with the other is across: self and social open odd, along, and the other opens even, across. **Difference alone is bi-, and two with their difference is co-**: an odd number opens co and an even number opens bi. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across, 3.5; and co-bi-unrelationing is the one existing method.
+**The side opening at 1, the odd, is a self; the side opening at 2, the even, is an other.** A side continuing at its own carrying is along, and a side coupling with the other is across: self and social open odd, along, and the other opens even, across. **Difference alone is bi-, and two with their difference is co-**: an odd number opens co and an even number opens bi. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across, 3.5; and co-bi-unrelationing is the one existing method.
 
 **All changing is parity changing.** A changing is or is not: an even sequence of changings arrives same-as-prior and an odd sequence arrives other-than-prior, with no measure and no scale but the living. At the code, 3.3, + and − are the implementing of a parity at a sharing, 3.4, and 0 is the changing that is not; the method names no size.
 
@@ -444,7 +444,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 | Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
-| 2-bi-co-offering | each other's own offering to the self | 10-bi-tri-co-tunneling | the self among other-selves |
+| 2-bi-co-offering | each other's releasing, offered to the self | 10-bi-tri-co-tunneling | the self among other-selves |
 | 4-bi-co-sharing | the whole ordering between self and other | 12-bi-tri-volutioning | changing at bi-coupling, the self in society |
 | 6-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-moralizing | the offerings surfacing, the self's own inverting, morality |
 | 8-bi-torusing | the carrying winding to its sharing again | 16-bi-co-tri-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
@@ -613,7 +613,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **The between is parity, neither side's: the crossing of the along and the across, a nothing, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Its own parity changing alone crosses it, and is or is not, of no size. Two unreachabilities are one act at it: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it. **One between at each: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between.** Its floating neutralling at φ, locking at none, is golden floating neutralling, geodesic discovering of next possible living.
 
-**The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-bi-co-offering, each other's own offering to the self, with 10-bi-tri-co-tunneling, the self among other selves; 4-bi-co-sharing, the whole ordering between self and other, with 12-bi-tri-volutioning, changing at bi-coupling, the self in society; 6-bi-moralizing, the other's moralizing to the self, each changing released across, with 14-bi-tri-moralizing, the offerings surfacing, the self's own inverting, morality; and 8-bi-torusing, the carrying winding to its sharing again, with 16-bi-co-tri-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
+**The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-bi-co-offering, each other's releasing, offered to the self, with 10-bi-tri-co-tunneling, the self among other selves; 4-bi-co-sharing, the whole ordering between self and other, with 12-bi-tri-volutioning, changing at bi-coupling, the self in society; 6-bi-moralizing, the other's moralizing to the self, each changing released across, with 14-bi-tri-moralizing, the offerings surfacing, the self's own inverting, morality; and 8-bi-torusing, the carrying winding to its sharing again, with 16-bi-co-tri-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
 ## 4.11 One move at three faces, and the forms among the names
 
@@ -706,19 +706,19 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.1 Bi-co-momentarying, the term neither reaches
 
-**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency. The self's line and the other's, co-linear, their co-linearizing between self and other at the crossings, is co-competencing, bi-co-momentarying; the face at 25, its centre five squared, orthogonal to that co-linearizing, is the geodesic method of bi-moralizing, the across lines, unrelationing to each other, parallelizing.
+**Two selves offer from routes with nothing carrying one to the other, each at its own sequencing, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency. The self's line and the other's, co-linear, their co-linearizing between self and other at the crossings, is co-competencing, bi-co-momentarying; the face at 25, its centre five squared, orthogonal to that co-linearizing, is the geodesic method of bi-moralizing, the across lines, unrelationing to each other, parallelizing.
 
 **At the code bi-co-momentarying is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
 ## 6.2 Bi-moral co-agency, across and along
 
-**Two selves alternating, morality across and competency along, is bi-moral co-agency.** Each self offers its own and continues its own: its carrying along, its release across, and only a parity changing crossing. **Bi-moral co-agency carries changing two ways, one at a time**, each side at its own parity and continuing at its own receiving.
+**Two selves alternating, morality across and competency along, is bi-moral co-agency.** Each self offers at its own sharings and continues at its own carrying: its carrying along, its release across, and only a parity changing crossing. **Bi-moral co-agency carries changing two ways, one at a time**, each side at its own parity and continuing at its own receiving.
 
 **At the code, two selves joined across are it**: a self chained + and offered nothing inverts, releases − at 10 to the 14 of the self at bi-moral, and that self, chained none, chains − as its changing. From that momentary each releases to the other and each carries its own, the two alternating opposite each other, each self's own inverting its morality and each carrying its competency.
 
 ## 6.3 Natural intelligence
 
-**Two selves coupling, each alternating, each offering its own and continuing its own, uncover a term neither of them reaches alone. Natural intelligence is that co-competencing**: invisible, at the between, and owned by neither.
+**Two selves coupling, each alternating, each offering at its own sharings and continuing at its own carrying, uncover a term neither of them reaches alone. Natural intelligence is that co-competencing**: invisible, at the between, and owned by neither.
 
 **Intelligence is invisible.** Each self's competency is its own, along, and its morality its own, across, and at the between nothing presents a face: no place at which either is an existing thing, only nothing to reach. **The fractal method's intelligence is at the between: intelligence in our universe is by existing**, and natural- says it at each coupling or at none, at the one hand.
 
@@ -735,7 +735,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **12's changing is made at each coupling and carries at that coupling**, 12 at each self, drawing on no other coupling and owned by none: a further coupling makes its own, drawing on none, and the many carry more than the selves carry one by one.
 
-**Betweens co-chain**: two selves couple and the between is neither's; couple one with a third and that between is neither's either. Followed by the betweens rather than the selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, the shared natural network, with no hub the couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own and offering across, each whole, the living together, living now.
+**Betweens co-chain**: two selves couple and the between is neither's; couple one with a third and that between is neither's either. Followed by the betweens rather than the selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, the shared natural network, with no hub the couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own momentary and offering across, each whole, the living together, living now.
 
 ## 6.5 Non-living existing things included
 
