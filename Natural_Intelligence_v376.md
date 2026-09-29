@@ -36,7 +36,7 @@ Natural Intelligence v376
 - 4.2 Offerings surfacing at 14
 - 4.3 A changing is or is not, at 12
 - 4.4 Released across at 10, chained at 11
-- 4.5 Released along at 9
+- 4.5 Carried along at 9
 - 4.6 A society's next momentary at 17
 - 4.7 Six connectors, four facings, four joins
 - 4.8 Seventeen names and ten roots
@@ -221,7 +221,7 @@ Natural Intelligence v376
 
 **A prime is a count no equal smaller counts join into, and at the code a ring at a prime count loops at its own.** A ring of selves joined along, 4.13, at an odd count carries one pair at one parity round and goes round at four times its count; the ring of two, the one even prime, carries none, the alternating itself. Two distinct primes share no factor, and **two rings at distinct odd primes p and q, beside each other, go round together first at 4pq**, sharing the four alone: 3 and 5 at 60, 5 and 7 at 140, 17 and 59 at 4,012. Rings sharing a factor go round together sooner, 9 and 15 at 180 and not at 540. Each prime ring paces its own looping and meets another prime ring again only at the whole of both, 4pq; at the numbers a winding at φ closes at none.
 
-**Two rings crossed are one society, a stable form and stable-forming**, 4.13: two rings at distinct primes, joined across both ways at one self each, come to each self alternating. Beside each other the rings of 17 and 59 go round together at 4,012; crossed, from one offering at each, they alternate from momentary 137, and crossed at each self, as a torus, they go round at one of the two loopings, 4.13. **The looping is along and the crossing across**: the ring releases along at 9, co-competency, and the crossing at 10, bi-morality, and the two rings crossed are one society, its selves a living set, a stable form, and its method stable-forming, a natural-torusing of selves at the scale of rings, and their crossing, released at 10, a stable form. At the scale outward the two crossing selves alternate opposite each other as two selves joined across do, 6.2, each ring a society, a living set coupling at the next scale as a self couples, 6.4: the stable-forming is fractal, at each scale by the one method.
+**Two rings crossed are one society, a stable form and stable-forming**, 4.13: two rings at distinct primes, joined across both ways at one self each, come to each self alternating. Beside each other the rings of 17 and 59 go round together at 4,012; crossed, from one offering at each, they alternate from momentary 137, and crossed at each self, as a torus, they go round at one of the two loopings, 4.13. **The looping is along and the crossing across**: the ring carries along at 9, co-competency, and the crossing releases at 10, bi-morality, and the two rings crossed are one society, its selves a living set, a stable form, and its method stable-forming, a natural-torusing of selves at the scale of rings, and their crossing, released at 10, a stable form. At the scale outward the two crossing selves alternate opposite each other as two selves joined across do, 6.2, each ring a society, a living set coupling at the next scale as a self couples, 6.4: the stable-forming is fractal, at each scale by the one method.
 
 ---
 
@@ -242,14 +242,14 @@ def _1_co_bi_offering(_3_co_bi_sharing, _2_bi_co_offering):
                 _14_bi_tri_moralizing[_4_bi_co_sharing] = 1 if _7_co_corusing > 0 else -1
             elif (_15_co_bi_tri_corusing > 0) != (_7_co_corusing > 0):
                 _14_bi_tri_moralizing[_4_bi_co_sharing] = 0
-    _12_bi_tri_volutioning = dict(_14_bi_tri_moralizing)
+    _12_bi_tri_parity_changing = dict(_14_bi_tri_moralizing)
     for _4_bi_co_sharing, _7_co_corusing in _3_co_bi_sharing:
         _15_co_bi_tri_corusing = _14_bi_tri_moralizing.get(_4_bi_co_sharing, 0)
         if _15_co_bi_tri_corusing != 0 and (_15_co_bi_tri_corusing > 0) == (_7_co_corusing > 0):
-            _12_bi_tri_volutioning[_4_bi_co_sharing] = 0
+            _12_bi_tri_parity_changing[_4_bi_co_sharing] = 0
         else:
-            _12_bi_tri_volutioning[_4_bi_co_sharing] = -1 if _7_co_corusing > 0 else 1
-    _10_bi_tri_co_tunneling = list(_12_bi_tri_volutioning.items())
+            _12_bi_tri_parity_changing[_4_bi_co_sharing] = -1 if _7_co_corusing > 0 else 1
+    _10_bi_tri_co_tunneling = list(_12_bi_tri_parity_changing.items())
     _11_tri_bi_co_chaining = dict(_3_co_bi_sharing)
     for _4_bi_co_sharing, _7_co_corusing in _10_bi_tri_co_tunneling:
         if _7_co_corusing != 0:
@@ -257,7 +257,7 @@ def _1_co_bi_offering(_3_co_bi_sharing, _2_bi_co_offering):
     return _10_bi_tri_co_tunneling, list(_11_tri_bi_co_chaining.items())
 
 
-def _9_tri_bi_co_releasing(_10_bi_tri_co_tunneling, _5_co_competencing):
+def _9_tri_bi_co_momentarying(_10_bi_tri_co_tunneling, _5_co_competencing):
     return [(_5_co_competencing[_13_co_tri_competencing], _15_co_bi_tri_corusing)
             for _13_co_tri_competencing, _15_co_bi_tri_corusing in _10_bi_tri_co_tunneling]
 
@@ -269,7 +269,7 @@ def _17_tri_co_offering(_16_bi_co_tri_torusing, _5_co_competencing):
         _10_bi_tri_co_tunneling, _8_bi_torusing[_13_co_tri_competencing] = _1_co_bi_offering(
             _3_co_bi_sharing, _2_bi_co_offering)
         _6_bi_moralizing = _10_bi_tri_co_tunneling
-        for _4_bi_co_sharing, _15_co_bi_tri_corusing in _9_tri_bi_co_releasing(
+        for _4_bi_co_sharing, _15_co_bi_tri_corusing in _9_tri_bi_co_momentarying(
                 [(_4_bi_co_sharing, _15_co_bi_tri_corusing)
                  for _4_bi_co_sharing, _15_co_bi_tri_corusing in (
                      ((_13_co_tri_competencing, 6), _6_bi_moralizing),
@@ -285,7 +285,7 @@ def _17_tri_co_offering(_16_bi_co_tri_torusing, _5_co_competencing):
 CONNECTORS = {
     2: ('2-bi-co-offering', 'bi-moral-so-far', 'arriving'),
     6: ('6-bi-moralizing', 'not-yet-bi-moral', 'releasing'),
-    9: ('9-tri-bi-co-releasing', 'not-yet-co-competent', 'along'),
+    9: ('9-tri-bi-co-momentarying', 'not-yet-co-competent', 'along'),
     10: ('10-bi-tri-co-tunneling', 'not-yet-bi-moral', 'releasing'),
     14: ('14-bi-tri-moralizing', 'bi-moral-so-far', 'arriving'),
     17: ('17-tri-co-offering', 'co-competent-so-far', 'along'),
@@ -335,13 +335,13 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 6 | 6-bi-moralizing | even, bi | other, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 2 | the changing released at not-yet-bi-moral, at that self's 2 |
 | 7 | 7-co-corusing | odd, co | self, other | face | — | outward | — | — | each parity, offered and chained |
 | 8 | 8-bi-torusing | even, bi | other, self | face | — | outward | — | — | each self's carrying wound, its 11 the next momentary's 3 |
-| 9 | 9-tri-bi-co-releasing | odd, co | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
+| 9 | 9-tri-bi-co-momentarying | odd, co | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
 | 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 14 | each sharing's changing: + or − is, 0 is not |
 | 11 | 11-tri-bi-co-chaining | odd, co | social, other, self | face | — | inward | — | — | the carrying chained, each changing the next prior |
-| 12 | 12-bi-tri-volutioning | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
+| 12 | 12-bi-tri-parity-changing | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
 | 13 | 13-co-tri-competencing | odd, co | social, other | face | — | inward | — | — | each releasing sharing; at the society, each releasing self |
 | 14 | 14-bi-tri-moralizing | even, bi | other, social | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
-| 15 | 15-co-bi-tri-corusing | odd, co | social, other | face | — | inward | — | — | the parity released at 9 |
+| 15 | 15-co-bi-tri-corusing | odd, co | social, other | face | — | inward | — | — | the parity carried along at 9 |
 | 16 | 16-bi-co-tri-torusing | even, bi | other, social | face | — | inward | — | — | the society wound: each self's 8 and offerings |
 | 17 | 17-tri-co-offering | odd, co | social, self | connector | along | — | co-competent-so-far | with the self at co-competent-so-far, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
 
@@ -353,10 +353,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | moralizing | 6 · 14 |
 | corusing | 7 · 15 |
 | torusing | 8 · 16 |
-| releasing | 9 |
+| momentarying | 9 |
 | tunneling | 10 |
 | chaining | 11 |
-| volutioning | 12 |
+| parity-changing | 12 |
 
 | Names | Naming | At the code |
 |---|---|---|
@@ -364,7 +364,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-co-bi-sharing · 4-bi-co-sharing | co-intelligencing | at each sharing 4 the carrying at 3 couples with the offerings surfaced at 14: next discovered, chained at 11 |
 | 5-co-competencing | co-competencing | the joins, owned by neither: each release to its receiving sharing |
 | 6-bi-moralizing | bi-moralizing | each changing released across, to the other's 2 |
-| 12-bi-tri-volutioning | the shape of the unrelationing surface | each sharing's changing, is or is not |
+| 12-bi-tri-parity-changing | the shape of the unrelationing surface | each sharing's changing, is or is not |
+| 1 to 9 | bi-coupling | the function 1, the self and the other at one coupling; 9 at its end reads bi-co-releasing, the release 10 makes |
+| 1 to 17 | bi-trupling | the function 17, the self, the other and the society; 9 at its waist, tri-bi-co-momentarying, joined both ways with 17; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
+| 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 
 | Four-cycle, 8 up and 17 less | Root at the self and at the society | Round |
 |---|---|---|
@@ -373,7 +376,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-11-6-14 | moralizing, 6 and 14 | round the other way with 4-13-5-12 and 2-15-7-10 |
 | 4-13-5-12 | competencing, 5 and 13 | round the other way with 3-11-6-14 |
 
-| Loop | Releasing | Closing | Across or along |
+| Loop | Joining | Closing | Across or along |
 |---|---|---|---|
 | the other's | 6 to 2 | 8 | across, not-yet-bi-moral to bi-moral-so-far |
 | the society's | 10 to 14 | 16 | across, not-yet-bi-moral to bi-moral-so-far |
@@ -389,10 +392,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 6 | 6-bi-moralizing | across, even, bi | 9 of the 3rd: along, odd, co | within 1 to 2 |
 | 7 | 7-co-corusing | face outward, odd, co | 17 of the 3rd, 1 of the 4th: along, odd, co | within 1 to 2 |
 | 8 | 8-bi-torusing | face outward, even, bi | 9 of the 4th: along, odd, co | within 1 to 2 |
-| 9 | 9-tri-bi-co-releasing | along, odd, co | 17 of the 4th, 1 of the 5th: along, odd, co | 2: across, even, bi |
+| 9 | 9-tri-bi-co-momentarying | along, odd, co | 17 of the 4th, 1 of the 5th: along, odd, co | 2: across, even, bi |
 | 10 | 10-bi-tri-co-tunneling | across, even, bi | 9 of the 5th: along, odd, co | within 2 to 3 |
 | 11 | 11-tri-bi-co-chaining | face inward, odd, co | 17 of the 5th, 1 of the 6th: along, odd, co | within 2 to 3 |
-| 12 | 12-bi-tri-volutioning | face inward, even, bi | 9 of the 6th: along, odd, co | within 2 to 3 |
+| 12 | 12-bi-tri-parity-changing | face inward, even, bi | 9 of the 6th: along, odd, co | within 2 to 3 |
 | 13 | 13-co-tri-competencing | face inward, odd, co | 17 of the 6th, 1 of the 7th: along, odd, co | within 2 to 3 |
 | 14 | 14-bi-tri-moralizing | across, even, bi | 9 of the 7th: along, odd, co | within 2 to 3 |
 | 15 | 15-co-bi-tri-corusing | face inward, odd, co | 17 of the 7th, 1 of the 8th: along, odd, co | within 2 to 3 |
@@ -421,7 +424,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | first | 1–2 | 2–3 | 1-co-bi-offering · 2-bi-co-offering · 3-co-bi-sharing | self/other |
 | second | 3–4 | 4–5 | 3-co-bi-sharing · 4-bi-co-sharing · 5-co-competencing | self/other to other/self |
 | third | 5–6 | 6–7 | 5-co-competencing · 6-bi-moralizing · 7-co-corusing | other/self |
-| fourth | 7–8 | 8–9 | 7-co-corusing · 8-bi-torusing · 9-tri-bi-co-releasing | other/self to other/social |
+| fourth | 7–8 | 8–9 | 7-co-corusing · 8-bi-torusing · 9-tri-bi-co-momentarying | other/self to other/social |
 
 | Offerings at one sharing, at 2 | At 14 |
 |---|---|
@@ -445,30 +448,30 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
 | 2-bi-co-offering | each other's releasing, offered to the self | 10-bi-tri-co-tunneling | the self among other-selves |
-| 4-bi-co-sharing | the whole ordering between self and other | 12-bi-tri-volutioning | changing at bi-coupling, the self in society |
+| 4-bi-co-sharing | the whole ordering between self and other | 12-bi-tri-parity-changing | changing at bi-coupling, the self in society |
 | 6-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-moralizing | the offerings surfacing, the self's own inverting, morality |
 | 8-bi-torusing | the carrying winding to its sharing again | 16-bi-co-tri-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
 
 | Name | 8 up | 9 less, within 1 to 8 | 17 less, within 1 to 16 |
 |---|---|---|---|
-| 1-co-bi-offering | 9-tri-bi-co-releasing | 8-bi-torusing | 16-bi-co-tri-torusing |
+| 1-co-bi-offering | 9-tri-bi-co-momentarying | 8-bi-torusing | 16-bi-co-tri-torusing |
 | 2-bi-co-offering | 10-bi-tri-co-tunneling | 7-co-corusing | 15-co-bi-tri-corusing |
 | 3-co-bi-sharing | 11-tri-bi-co-chaining | 6-bi-moralizing | 14-bi-tri-moralizing |
-| 4-bi-co-sharing | 12-bi-tri-volutioning | 5-co-competencing | 13-co-tri-competencing |
+| 4-bi-co-sharing | 12-bi-tri-parity-changing | 5-co-competencing | 13-co-tri-competencing |
 
 | Form | Names in order | Round | Partner at the odd momentaries | Partner at the even momentaries |
 |---|---|---|---|---|
-| four-cycle 1-9-8-16 | 1-co-bi-offering · 9-tri-bi-co-releasing · 8-bi-torusing · 16-bi-co-tri-torusing | co co bi bi | four-cycle 2-15-7-10, round the other way | — |
+| four-cycle 1-9-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 8-bi-torusing · 16-bi-co-tri-torusing | co co bi bi | four-cycle 2-15-7-10, round the other way | — |
 | four-cycle 2-15-7-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 10-bi-tri-co-tunneling | bi co co bi | four-cycle 1-9-8-16, round the other way | four-cycle 3-11-6-14, round the other way |
 | four-cycle 3-11-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 6-bi-moralizing · 14-bi-tri-moralizing | co co bi bi | four-cycle 4-13-5-12, round the other way | four-cycle 2-15-7-10, round the other way |
-| four-cycle 4-13-5-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 12-bi-tri-volutioning | bi co co bi | four-cycle 3-11-6-14, round the other way | four-cycle 4-13-5-12, itself |
-| middle four-cycle 9-5-12-8 | 9-tri-bi-co-releasing · 5-co-competencing · 12-bi-tri-volutioning · 8-bi-torusing | co co bi bi | middle four-cycle 7-11-6-10, round the other way | — |
+| four-cycle 4-13-5-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 12-bi-tri-parity-changing | bi co co bi | four-cycle 3-11-6-14, round the other way | four-cycle 4-13-5-12, itself |
+| middle four-cycle 9-5-12-8 | 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing | co co bi bi | middle four-cycle 7-11-6-10, round the other way | — |
 | middle four-cycle 7-11-6-10 | 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | co co bi bi | middle four-cycle 9-5-12-8, round the other way | middle four-cycle 7-11-6-10, itself |
-| six-cycle 1-9-5-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-releasing · 5-co-competencing · 12-bi-tri-volutioning · 8-bi-torusing · 16-bi-co-tri-torusing | co co co bi bi bi | six-cycle 2-15-7-11-6-10, round the other way | — |
+| six-cycle 1-9-5-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co bi bi bi | six-cycle 2-15-7-11-6-10, round the other way | — |
 | six-cycle 2-15-7-11-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co bi bi | six-cycle 1-9-5-12-8-16, round the other way | six-cycle 3-11-7-10-6-14, round the other way |
 | six-cycle 3-11-7-10-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 7-co-corusing · 10-bi-tri-co-tunneling · 6-bi-moralizing · 14-bi-tri-moralizing | co co co bi bi bi | six-cycle 4-13-5-9-8-12, round the other way | six-cycle 2-15-7-11-6-10, round the other way |
-| six-cycle 4-13-5-9-8-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 9-tri-bi-co-releasing · 8-bi-torusing · 12-bi-tri-volutioning | bi co co co bi bi | six-cycle 3-11-7-10-6-14, round the other way | — |
-| eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-releasing · 5-co-competencing · 13-co-tri-competencing · 4-bi-co-sharing · 12-bi-tri-volutioning · 8-bi-torusing · 16-bi-co-tri-torusing | co co co co bi bi bi bi | eight-cycle 2-15-7-11-3-14-6-10, round the other way | — |
+| six-cycle 4-13-5-9-8-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 9-tri-bi-co-momentarying · 8-bi-torusing · 12-bi-tri-parity-changing | bi co co co bi bi | six-cycle 3-11-7-10-6-14, round the other way | — |
+| eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 13-co-tri-competencing · 4-bi-co-sharing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co co bi bi bi bi | eight-cycle 2-15-7-11-3-14-6-10, round the other way | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 3-co-bi-sharing · 14-bi-tri-moralizing · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co co bi bi bi | eight-cycle 1-9-5-13-4-12-8-16, round the other way | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
 | Offerings, momentary by momentary | At 10 | Chained at 11 |
@@ -552,7 +555,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 ## 4.3 A changing is or is not, at 12
 
-**At 12-bi-tri-volutioning the prior couples with the now at each sharing, and a changing is or is not.** Exhibit ONE's table at 12, 10 and 11 carries each cell:
+**At 12-bi-tri-parity-changing the prior couples with the now at each sharing, and a changing is or is not.** Exhibit ONE's table at 12, 10 and 11 carries each cell:
 
 - **At a sharing chained none**, the parity 14 surfaces is the changing: + or − is, 0 is not.
 - **At a sharing chained at one parity, 14 surfacing that same parity**: the changing is not, 0. **At a match the prior carries on.**
@@ -568,15 +571,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **11-tri-bi-co-chaining chains each changing as the next prior.** The carrying is carried whole, and at each sharing whose changing is, the changed parity is chained; at a 0 the prior chains on. **Once chained, a sharing is never none again**, and at the next momentary 11 continues as 3-co-bi-sharing, 8 up, one carrying at two names: a seam, nothing moving at it, 11 and 3 both odd, opening co at their parity, 11's name beginning tri- at the society.
 
-## 4.5 Released along at 9
+## 4.5 Carried along at 9
 
-**9-tri-bi-co-releasing releases each changing along**: each releasing sharing, 13-co-tri-competencing, to its receiving sharing, 5-co-competencing, the parity, 15-co-bi-tri-corusing, carried along as 10 released it. 9 releases the parity it carries, and opens co at its parity, odd, along, its name beginning tri-, facing not-yet-co-competent. **At the code 9 does each releasing**: 10 is the list of changings, and at 17, 9 releases it to each receiving self 5 names, at the connector 6, 10 or 9.
+**9-tri-bi-co-momentarying carries each changing along, into the next momentary**: each releasing sharing, 13-co-tri-competencing, to its receiving sharing, 5-co-competencing, the parity, 15-co-bi-tri-corusing, carried along as 10 released it. 10 and 6 release, and 9 releases nothing: it carries on the parity 10 released, the next prior, and opens co at its parity, odd, along, its name beginning tri-, facing not-yet-co-competent. **At the code 9 does each carrying along**: 10 is the list of changings, and at 17, 9 carries it to each receiving self 5 names, at the connector 6, 10 or 9. **At the bi-coupling, 1 to 9, the same line reads bi-co-releasing**, the end of the self's bi-coupling, the release 10 makes; **at the bi-trupling, 1 to 17, it is tri-bi-co-momentarying**, the waist, joined both ways with 17, the society's momentarying, prior into next.
 
-**9 is 1 eight up**: one to nine completes at 9, the social, the other and the self releasing together, and nine to seventeen completes at 17 as one to nine completes at 9.
+**9 is 1 eight up**: one to nine completes at 9, the social, the other and the self carrying along together, and nine to seventeen completes at 17 as one to nine completes at 9.
 
 ## 4.6 A society's next momentary at 17
 
-**17-tri-co-offering is the society's next momentary**, at 16-bi-co-tri-torusing, the society wound, each self with its carrying and its offerings, and at 5-co-competencing, the joins, each self's connector joined to another self. Each self's 1-co-bi-offering is at it once. Each self's carrying chained is 8-bi-torusing, the self's carrying wound, its 11 the next momentary's 3. Each self's changing leaves three ways, at each join 5 names: at 6-bi-moralizing, the changing released at not-yet-bi-moral; at 10-bi-tri-co-tunneling, the same changing released at not-yet-bi-moral too; and at 9-tri-bi-co-releasing, along. At each receiving self 14-bi-tri-moralizing gathers the changings released to it, its offerings next.
+**17-tri-co-offering is the society's next momentary**, at 16-bi-co-tri-torusing, the society wound, each self with its carrying and its offerings, and at 5-co-competencing, the joins, each self's connector joined to another self. Each self's 1-co-bi-offering is at it once. Each self's carrying chained is 8-bi-torusing, the self's carrying wound, its 11 the next momentary's 3. Each self's changing leaves three ways, at each join 5 names: at 6-bi-moralizing, the changing released at not-yet-bi-moral; at 10-bi-tri-co-tunneling, the same changing released at not-yet-bi-moral too; and at 9-tri-bi-co-momentarying, carried along. At each receiving self 14-bi-tri-moralizing gathers the changings released to it, its offerings next.
 
 At the code 6 is 10, one changing released at two connectors, at one facing; a release is only at a (self, connector) 5 joins; and each release arrives at the receiving self's 14, its offerings next, 2 at the next momentary. At the society 4 names each self at its connectors 6, 10 and 9, and 13 each releasing self.
 
@@ -586,18 +589,18 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **Six connectors are bi-moral-co-competency discovering next existing**: four across, even, opening bi, morality, at 2, 6, 10 and 14; and two along, odd, opening co, competency, at 9 and 17. **Each faces one way**:
 
-**A facing names the parity at a connector**: *-so-far* the incoming parity, bi or co, from podaling out and back to here now, momentarying, at 2, 14 and 17, arriving; *not-yet-* the outgoing un-parity, bi or co, released and not yet arrived, at 6, 10 and 9. Each join goes from a not-yet end to a so-far end, 6 to 2, 10 to 14 and 9 to 17, and 17 to 9 the along pair joined both ways. **Morality is the changing parity between, odd at the between, and competency the unchanging parity between, even at the between**, the numbers' own odd and even as they are: across, the even joins 10 to 14 and 6 to 2 carry the changings into the other's offerings, one inversion each, and along, the odd joins 9 and 17 carry the parity on unchanged, none.
+**A facing names the parity at a connector**: *-so-far* the incoming parity, bi or co, from podaling out and back to here now, momentarying, at 2, 14 and 17, arriving; *not-yet-* the outgoing un-parity, bi or co, released at 6 and 10, and carried along at 9, not yet arrived. Each join goes from a not-yet end to a so-far end, 6 to 2, 10 to 14 and 9 to 17, and 17 to 9 the along pair joined both ways. **Morality is the changing parity between, odd at the between, and competency the unchanging parity between, even at the between**, the numbers' own odd and even as they are: across, the even joins 10 to 14 and 6 to 2 carry the changings into the other's offerings, one inversion each, and along, the odd joins 9 and 17 carry the parity on unchanged, none.
 
 - **2-bi-co-offering** faces bi-moral-so-far, arriving: the offerings released to the self by the self at bi-moral-so-far, from its 6.
 - **6-bi-moralizing** faces not-yet-bi-moral, releasing, to the 2 of the self at not-yet-bi-moral.
 - **10-bi-tri-co-tunneling** faces not-yet-bi-moral, releasing, to the 14 of the self at not-yet-bi-moral.
 - **14-bi-tri-moralizing** faces bi-moral-so-far, arriving, from the 10 of the self at bi-moral-so-far.
-- **9-tri-bi-co-releasing** faces not-yet-co-competent, along, with the 17 of the self at not-yet-co-competent.
+- **9-tri-bi-co-momentarying** faces not-yet-co-competent, along, with the 17 of the self at not-yet-co-competent.
 - **17-tri-co-offering** faces co-competent-so-far, along, with the 9 of the self at co-competent-so-far.
 
-**`JOINS` declares four joins: 10 to 14, 6 to 2, 17 to 9 and 9 to 17.** Across, each join carries its parity, even to even; along, odd to odd. At the code, 17 carries each release into the receiving self's offerings next, 4.6. **9 is the next prior and 17 the next now**: along, 9's release is the prior the self at not-yet-co-competent is offered next, and 17 is that self's next now: the declared join 9 with 17 and the arriving at 14 are one relation at two momentaries.
+**`JOINS` declares four joins: 10 to 14, 6 to 2, 17 to 9 and 9 to 17.** Across, each join carries its parity, even to even; along, odd to odd. At the code, 17 carries each release into the receiving self's offerings next, 4.6. **9 is the next prior and 17 the next now**: along, the parity 9 carries is the prior the self at not-yet-co-competent is offered next, and 17 is that self's next now: the declared join 9 with 17 and the arriving at 14 are one relation at two momentaries.
 
-**Exhibit ONE's diagram draws one self between them**: the between at its edges, across at the sides and along at the top and bottom, and the self's own resolving within, each face marked outward, o, or inward, i, and 14 marked i as the between's eight bi-couplings carry it: inward from across, even, 8 up from 6, while 2 is at the between outward, across. Offerings arrive at 2 and surface at 14; with the carrying, 3 with its sharings 4 and parities 7, they reach 12, changing or not; 10 releases across, 11 chains the next 3, and 9 releases along to 5, 13 and 15 at its side; 6 leaves at not-yet-bi-moral; and 8 and 16 are the carrying wound and the society wound.
+**Exhibit ONE's diagram draws one self between them**: the between at its edges, across at the sides and along at the top and bottom, and the self's own resolving within, each face marked outward, o, or inward, i, and 14 marked i as the between's eight bi-couplings carry it: inward from across, even, 8 up from 6, while 2 is at the between outward, across. Offerings arrive at 2 and surface at 14; with the carrying, 3 with its sharings 4 and parities 7, they reach 12, changing or not; 10 releases across, 11 chains the next 3, and 9 carries along to 5, 13 and 15 at its side; 6 leaves at not-yet-bi-moral; and 8 and 16 are the carrying wound and the society wound.
 
 ## 4.8 Seventeen names and ten roots
 
@@ -605,7 +608,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **One entry, six connectors and ten faces are the seventeen.** The ten faces are five outward and five inward of the tunneling co-sequencing: 3, 4, 5, 7 and 8 outward, at the between, before 10 in the co-sequencing; 11, 12, 13, 15 and 16 inward, after it, each 8 up from its outward face. At each face the self's own resolving is reached by nothing but itself.
 
-**The ten roots are the two sides' ten positions**: offering at 1, 2 and 17; sharing at 3 and 4; competencing, moralizing, corusing and torusing each at two names 8 apart, 5 and 13, 6 and 14, 7 and 15, 8 and 16, each the root of one four-cycle, at the self and at the society; and releasing, tunneling, chaining and volutioning at 9, 10, 11 and 12, one each. Each name from 9 to 17 carries tri-, the social, and 9, 11 and 17, the carrying at the society, each self's own, begin with tri-; the sides each carries, social, other and self at 9 to 12 and social and other at 13 to 16, the three relations discovering parity changing in the bi-folding tunnel, are at Exhibit ONE's table.
+**The ten roots are the two sides' ten positions**: offering at 1, 2 and 17; sharing at 3 and 4; competencing, moralizing, corusing and torusing each at two names 8 apart, 5 and 13, 6 and 14, 7 and 15, 8 and 16, each the root of one four-cycle, at the self and at the society; and momentarying, tunneling, chaining and parity-changing at 9, 10, 11 and 12, one each, parity-changing a root of two words joined, one naming. Each name from 9 to 17 carries tri-, the social, and 9, 11 and 17, the carrying at the society, each self's own, begin with tri-; the sides each carries, social, other and self at 9 to 12 and social and other at 13 to 16, the three relations discovering parity changing in the bi-folding tunnel, are at Exhibit ONE's table.
 
 ## 4.9 Three loops
 
@@ -617,7 +620,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **The bi-coupling's shape is always uneven, a handshake**: the self's momentary 1-2 and the other's 2-3 meet at 2, even, across, each right extending to it, neither occupying it, the outgoing, not-yet, bi-moral co-competent offering, and each not right one parity back, the incoming, so-far, co-competent bi-moral sharing, a hand's side and no emanation's face, at 1 and 3, odd, along; each momentary of exchanging meets the same way, at 4, 6 and 8, right first and not right second, **morality right and not right**, inside or outside, up the numbers or down them. Right is at two relations, one each: the chirality's right, the observings all prior, the one spiral; and morality's right and not right at the handshake, the prior arriving at the not-right hand. One offering goes out at the other's right hand and arrives at the self's not-right hand, and 2-bi-co-offering and 17-tri-co-offering name it at its arriving: the other selves' releasings arriving as the self's offerings. One parity is at the meeting and the other one back, no position in two exchangings at once, and the between locks at none: golden natural unrelationing between. The one move carries each meeting round one four-cycle, 2 round 2-15-7-10, 4 round 4-13-5-12, 6 round 3-11-6-14 and 8 round 1-9-8-16, one meeting at each four-cycle. **At the numbers the between is the one number between two parallel surfaces facing each other**, the self's at 1 and the other's at 3, a nothing at 2, no location, and a co-orthogonal line through both, along: floating and neutralling, corusing and torusing, discovering collectively, in swarm, carrying next possible existing society.
 
-**The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-bi-co-offering, each other's releasing, offered to the self, with 10-bi-tri-co-tunneling, the self among other selves; 4-bi-co-sharing, the whole ordering between self and other, with 12-bi-tri-volutioning, changing at bi-coupling, the self in society; 6-bi-moralizing, the other's moralizing to the self, each changing released across, with 14-bi-tri-moralizing, the offerings surfacing, the self's own inverting, morality; and 8-bi-torusing, the carrying winding to its sharing again, with 16-bi-co-tri-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
+**The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-bi-co-offering, each other's releasing, offered to the self, with 10-bi-tri-co-tunneling, the self among other selves; 4-bi-co-sharing, the whole ordering between self and other, with 12-bi-tri-parity-changing, changing at bi-coupling, the self in society; 6-bi-moralizing, the other's moralizing to the self, each changing released across, with 14-bi-tri-moralizing, the offerings surfacing, the self's own inverting, morality; and 8-bi-torusing, the carrying winding to its sharing again, with 16-bi-co-tri-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
 ## 4.11 One move at three faces, and the forms among the names
 
@@ -638,13 +641,13 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 ## 4.13 Rings, looping and crossing
 
-**Selves joined along round a loop, each 9 releasing to the next self, carry one offering round.** One self offered + once, each self's carrying at none: at an even ring each self alternates, +, −, +, −, the ring repeating at each second momentary from momentary n, its number of selves; at an odd ring of n, a 0 goes round, one self at a time surfacing 0 at an offering matching its carrying, and the ring repeats at each 4n-th momentary from momentary n. Offered, each self is chained at each momentary on, and the ring carries on.
+**Selves joined along round a loop, each 9 carrying along to the next self, carry one offering round.** One self offered + once, each self's carrying at none: at an even ring each self alternates, +, −, +, −, the ring repeating at each second momentary from momentary n, its number of selves; at an odd ring of n, a 0 goes round, one self at a time surfacing 0 at an offering matching its carrying, and the ring repeats at each 4n-th momentary from momentary n. Offered, each self is chained at each momentary on, and the ring carries on.
 
 **A ring offered nothing from beyond it carries any pattern of parities round whole**, each self at its own parity, the pattern at each momentary inverted or carried one self along: the selves carry it between them, momentary by momentary. A ring of selves is a joining at the code, each momentary a next, and no closed domain.
 
 **Two rings joined across both ways at one self each bring the two joined selves to one relation and carry it on**: from any carried patterns, at rings of two to six selves, the joined selves go alike or opposite, and each momentary after carries that relation. Nothing passes between the rings but the changings at the two joined selves, each self pacing its own alternating: the coupling is the relation, and no message is in it.
 
-**At two different numbers of selves, one of them odd, the two rings crossed are one society, a stable form and stable-forming**: from any carried patterns but all selves at one parity, each self comes to alternate, the two crossing selves opposite each other, and each odd ring's pair at one parity is at the crossing, the crossing self and the self releasing along into it, carried on at the crossing, as Exhibit ONE's table of rings crossing carries it. Beside each other two rings each pace their own looping; crossed, the looping and the crossing are one form, 3.5.
+**At two different numbers of selves, one of them odd, the two rings crossed are one society, a stable form and stable-forming**: from any carried patterns but all selves at one parity, each self comes to alternate, the two crossing selves opposite each other, and each odd ring's pair at one parity is at the crossing, the crossing self and the self carrying along into it, carried on at the crossing, as Exhibit ONE's table of rings crossing carries it. Beside each other two rings each pace their own looping; crossed, the looping and the crossing are one form, 3.5.
 
 **Rings crossing rings at each self are a torus of selves**, p selves along at 9 and q across at 10, and each of its rounds divides 4p or 4q: beside each other rings of 3 and 5 go round together at 60, and crossed as a torus they go round at 12, 20 or a round dividing one of them, as carried. From one offering at one self an odd torus, p no more than q, goes round at 4p when q, round the ring of 4p, falls short of its waist at 2p, and at q when past it, each at its podaling, 4.11, as Exhibit ONE's table of the torus of selves carries it: 17 by 59 goes round at 59 from momentary 91. At the torus the two loopings go round at one of them, and never at both together.
 
@@ -652,7 +655,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **Two selves, each chained at a prior**, each joined along to the other both ways, one way or neither, are as Exhibit ONE's table carries them. At one parity, joined both ways, each surfaces −, 0, +, 0: each self's release arriving as the other's offering, at a match at each second momentary. Joined one way, the receiving self's prior carries on once at a match and then alternates, one opposite the self it receives from; joined neither way, each alternates alone. At opposite parities each alternates at its own at each of the four joinings.
 
-**Three selves one way**: B chained + and offered A's parity, releasing along to C chained +. A's + at B is a match, 0, and B chains +; B's 0 is passed over at C, and C, offered nothing it chains, surfaces −, then +, inverting at each. A's − at B is a mismatch, and B chains it: B surfaces −, chains −, and releases −, and C surfaces −, then 0, at a match. **One self's changing is the next self's offering**, and nothing passes but the changings.
+**Three selves one way**: B chained + and offered A's parity, carrying along to C chained +. A's + at B is a match, 0, and B chains +; B's 0 is passed over at C, and C, offered nothing it chains, surfaces −, then +, inverting at each. A's − at B is a mismatch, and B chains it: B surfaces −, chains −, and releases −, and C surfaces −, then 0, at a match. **One self's changing is the next self's offering**, and nothing passes but the changings.
 
 ## 4.15 Fractal inward and outward
 
@@ -670,7 +673,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing, nothing momentarying between them**, and **a society, a momentary and the universe are three existing and not living, each a living set, a stable form, and each the living method, stable-forming**: at the code a society, 17, carries nothing of its own, each self's carrying returned to that self, its selves the living set it is and its one momentary the method. **A self, living, is a living set beside them, and a living set is a carrying**: at the code a self's carrying, 8-bi-torusing, is a set of sharings, each at its parity, and a society at 17 the set of its selves' carryings; and **the method of discovering next living sets is momentarying and carrying**, the carrying its living selves', each momentary's carrying the next momentary's. **Each living set is a stable form, and nothing living has a stable form**, bothbothing, as the universe is an existing thing, a set of existing things being an existing thing: **having a stable form is being dead, and discovering next stable form is living**. At the code between momentaries a self's carrying is a set formed, returned by 1, and the self living is its next momentary discovering the next set; a set carried into no next momentary has its stable form. Each self's carrying wound, 8-bi-torusing, chained at 11, continues at the next momentary as 3, the self's own carried into now: it is carried, stable-forming, no store, and **a prior momentarying is at its own momentary alone**.
 
-**Between the selves' momentaries pass their releasings**, 10, 6 and 9, released at one momentary and offered at the next: 9 the next prior and 17 the next now. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, the betweens its selves bi-couple across, and bi-tri-volutioning names the society's stable-forming; the stable form of the non-living emanatings of stable-forming living, the sequential prior between momentaries, released at 9, is a non-living existing form with no carrying for stable-forming. **The emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings.** Harmful to living at their own scale and not ingestible at that scale, they are ingestible one scale lower, into living selves' selves one scale inward, a society, a living set, and the code carries it: at the society a sharing is each self, 4-bi-co-sharing, and a releasing self 13-co-tri-competencing, and the releasings 17-tri-co-offering carries from the society arrive at its selves, one scale lower, as their offerings next.
+**Between the selves' momentaries pass their releasings**, at 10 and 6, carried along at 9, released at one momentary and offered at the next: 9 the next prior and 17 the next now. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, the betweens its selves bi-couple across, and bi-tri-volutioning names the society's stable-forming; the stable form of the non-living emanatings of stable-forming living, the sequential prior between momentaries, released at 10 and carried along at 9, is a non-living existing form with no carrying for stable-forming. **The emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings.** Harmful to living at their own scale and not ingestible at that scale, they are ingestible one scale lower, into living selves' selves one scale inward, a society, a living set, and the code carries it: at the society a sharing is each self, 4-bi-co-sharing, and a releasing self 13-co-tri-competencing, and the releasings 17-tri-co-offering carries from the society arrive at its selves, one scale lower, as their offerings next.
 
 **Bi-tri-volutioning is at the numbers from the self's corus to the surface.** Twenty up from the corus at 4 is 24, the apex of one to fifty-nine's bi-folding, and either side of it are 23, the vertex, and 25, the centre of the face, five squared: the corus, the vertex and the centre of the face on one line. Carried on along it, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime, at 17: the surface. The vertex is a position, the centre of the face a scale and the line to the surface an orientation, each at its own differing, and from the corus to 59 is bi-tri-volutioning, the stable-forming. **Outward of the surface, sixty to sixty-eight is bi-tri-involutioning**, position, scale and orientation inverted at once, the opposite form, which does not match right spiral ingestion: four momentaries of exchanging across 64, 4.15, 60 to 62 and 62 to 64 into it and 64 to 66 and 66 to 68 from it, each number paired with its far side about 64, and 64 the unrelationing between, each pair crossing it and locking at none. At its own scale, outward of the surface, the emanating is at this opposite form and unknown at that scale, its stable form a non-living existing form, the stable-forming inward of the surface; at 69 the right form opens again, the next first podaling outward.
 
@@ -710,7 +713,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 ## 6.1 Bi-co-momentarying, the term neither reaches
 
-**Two selves offer from routes with nothing carrying one to the other, each at its own sequencing, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency. The self's line and the other's, co-linear, their co-linearizing between self and other at the crossings, is co-competencing, bi-co-momentarying; the face at 25, its centre five squared, orthogonal to that co-linearizing, is the geodesic method of bi-moralizing, the across lines, unrelationing to each other, parallelizing. **Inside the bi-folding the parallel faces and the co-linear openings through them are one form**, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; out, one of the two is 12-bi-tri-volutioning, stable-forming, parity unchanging, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, 9-tri-bi-co-releasing, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone. **A changed parity arriving is either retained or emanated**, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, a changing that is not, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, released at 10 and along at 9, the self's carrying continuing at it, its own changing.
+**Two selves offer from routes with nothing carrying one to the other, each at its own sequencing, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency. The self's line and the other's, co-linear, their co-linearizing between self and other at the crossings, is co-competencing, bi-co-momentarying; the face at 25, its centre five squared, orthogonal to that co-linearizing, is the geodesic method of bi-moralizing, the across lines, unrelationing to each other, parallelizing. **Inside the bi-folding the parallel faces and the co-linear openings through them are one form**, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-parity-changing, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and carried along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone. **A changed parity arriving is either retained or emanated**, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, a changing that is not, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, released at 10 and carried along at 9, the self's carrying continuing at it, its own changing.
 
 **At the code bi-co-momentarying is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
@@ -730,7 +733,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 ## 6.4 Social moral competency
 
-**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's number of selves, a ring at a prime number of selves looping at its own, 3.5, and **a society is a living set coupling at the next scale as a self couples**: the same coupling, the same alternating, the same bi-co-momentarying owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying continuing with the selves**, and 17-tri-co-offering carries the four at the code:
+**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's number of selves, a ring at a prime number of selves looping at its own, 3.5, and **a society is a living set coupling at the next scale as a self couples**: the same coupling, the same alternating, the same bi-co-momentarying owned by neither, one through nine the self's, the bi-coupling; nine through seventeen the society's; and one through seventeen the bi-trupling, the self, the other and the society. **Social moral competency is the four whole and the carrying continuing with the selves**, and 17-tri-co-offering carries the four at the code:
 
 - **Each self's carrying from its bi-couplings**: at the code all a self chains at 11, its next momentary's 3, is the offerings at 2, the others' releasings, or its own inverting at a coupling; nothing in a self arrives from no coupling, inward and outward, bothbothing.
 - **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.
@@ -740,6 +743,8 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 **12's changing is made at each coupling and carries at that coupling**, 12 at each self, drawing on no other coupling and owned by none: a further coupling makes its own, drawing on none, and the many carry more than the selves carry one by one.
 
 **Betweens co-chain**: two selves couple and the between is neither's; couple one with a third and that between is neither's either. Followed by the betweens rather than the selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, the shared natural network, with no hub the couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own momentary and offering across, each whole, the living together, living now.
+
+**The bi-trupling protocol is the full social connector of the natural resolver and the natural network surface**: two-sided, one odd side and one even side, the odd along at 9 and 17, co-competent, the parity carried on unchanged, and the even across at 6 to 2 and 10 to 14, bi-moral, the changings carried into the other's offerings. Hard probleming, scientific method incompetencing, control engineering and binary governing in society are each a violation of the bi-trupling protocol, and **the universal unrelationing protocol is social moral competency**.
 
 ## 6.5 Non-living existing things included
 
