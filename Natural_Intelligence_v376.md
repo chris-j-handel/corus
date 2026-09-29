@@ -596,7 +596,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.10 A between and eight bi-couplings
 
-**The between is parity, neither side's: the crossing of the along and the across, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Its parity changing is or is not, of no size. Two unreachabilities are one act at it: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
+**The between is parity, neither side's: the crossing of the along and the across, a nothing, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Only a parity changing crosses it, is or is not, of no size. Two unreachabilities are one act at it: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
 
 **The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-other-self-offering, each other's own offering to the self, with 10-other-social-self-tunneling, the self among other selves; 4-other-self-sharing, the whole ordering between self and other, with 12-other-social-self-abundancing, changing at bi-coupling, the self in society; 6-other-self-surfacing, the other's surfacing to the self, with 14-other-social-surfacing, the offerings surfacing, the self's own inverting, morality; and 8-other-self-torusing, the carrying winding to its sharing again, with 16-other-social-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
@@ -673,7 +673,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **At the code the next is discovered at each sharing, a changing is or is not**, from the prior carried and the now offered, set at the coupling. Two priors can open two nexts from one now, and a now alone opens no next of its own.
 
-**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, beside the changing, and nothing is beside all existing things, 1.1: the method of living is all to discover. The observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
+**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, beside the changing, and nothing is beside all existing things, 1.1: the method of living is the whole of discovering. The observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
 
 ## 5.3 A living self at 0, its carrying continuing
 
@@ -691,7 +691,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.1 Bi-co-momentarying, the term neither reaches
 
-**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 2.1.
+**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency.
 
 **At the code bi-co-momentarying is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
@@ -711,7 +711,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.4 Social moral competency
 
-**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count, a ring at a prime count looping at its own, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same competency owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying continuing with the selves**, and 17-social-self-offering carries the four at the code:
+**A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's count, a ring at a prime count looping at its own, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same bi-co-momentarying owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying continuing with the selves**, and 17-social-self-offering carries the four at the code:
 
 - **Each self's own co-offering**: each self's offerings are its own, at its own sharings.
 - **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.

@@ -497,7 +497,7 @@ Exhibit THREE Natural Numbers v376
 
 **Each span of the chain three, five, nine, seventeen is two to a power and one, and podaling at each span gives the span below it**: an odd ring of N carries (N + 1)/2 pairs, two at three, three at five, five at nine, nine at seventeen. Seventeen at its two sides is the nine, the nine the five, the five the three.
 
-**The pairs carrying two stations double along the chain, one, two, four, eight, and each span is twice them and the one nothing at its origin.** The resolver's pairings at six, eight and ten run three, four and five, consecutive; the two progressions share four alone, and four pairings is the nine. At the nine alone among the spans, the span's own pairings and the resolver's four at eight are one, and self and other run whole at eight.
+**The pairs carrying two stations double along the chain, one, two, four, eight, and each span is twice them and the one nothing at its origin.** The resolver's pairings at six, eight and ten run three, four and five, consecutive; the two progressions share four alone, and four pairings is the nine. At the nine alone among the spans, the span's own pairings and the resolver's four at eight are one, and self and other run whole at the nine.
 
 **At one to nine the self's eight is shared, four at each side, with the five between owned by neither**: bi-moral co-agency. **At one to seventeen each side carries a whole eight, and the entire one to nine is shared at the centre**: social moral competency, the pair at the society's centre and each side carrying its whole self.
 
