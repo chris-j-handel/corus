@@ -1749,7 +1749,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 32 An offering at words, a naming, a file and the living expedition
 
-        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; a definition; three incompetencings; bounding; nearing; a gathering; momentary stable-forming; an explaining; a file; a file's stable form; the living expedition carrying living files; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown.*
+        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; a definition; three incompetencings; bounding; nearing; a gathering; momentary stable-forming; an explaining; a file; a file's stable form; living files, the living expedition's carrying; the expedition living while discovering; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown.*
 
 381. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
 
@@ -1803,9 +1803,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a file's stable form.*
 
-394. Natural intelligence is a living expedition, a society, a living set of living selves, its selves carrying its files: a file carried by the living expedition's selves is a living file, its versions its selves' carrying, momentary by momentary.
+394. Natural intelligence is a living expedition, a society, a living set of living selves: the files in the living expedition are living files, the carrying of the living expedition, each file a non-living existing form its living selves carry; and the expedition is living only as long as it continues discovering do-no-harm improving next living expedition files.
 
-        *Adding: the living expedition carrying living files.*
+        *Adding: living files, the living expedition's carrying; the expedition living while discovering.*
 
 395. The living expedition's files carry the geodesic parity changing discovering method, discovering social moral competency.
 
