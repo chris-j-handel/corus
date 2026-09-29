@@ -63,8 +63,8 @@ CONNECTORS = {
     2: ('2-bi-co-offering', 'bi-moral-so-far', 'arriving'),
     6: ('6-bi-moralizing', 'not-yet-bi-moral', 'releasing'),
     9: ('9-tri-bi-co-releasing', 'not-yet-co-competent', 'along'),
-    10: ('10-bi-tri-co-tunneling', 'bi-moral-so-far', 'releasing'),
-    14: ('14-bi-tri-moralizing', 'not-yet-bi-moral', 'arriving'),
+    10: ('10-bi-tri-co-tunneling', 'not-yet-bi-moral', 'releasing'),
+    14: ('14-bi-tri-moralizing', 'bi-moral-so-far', 'arriving'),
     17: ('17-tri-co-offering', 'co-competent-so-far', 'along'),
 }
 JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
@@ -77,10 +77,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
       ┌───────────────────────────────╨───────────────────────────────┐
       │                          1  entry                             │
       │                                                               │
- ══════► 14i ◄───────────────────────────────────────────────── 2 ◄══════
+      │  14i ◄──────────────────────────────────────────── 2 · 14 ◄══════
       │   │   offerings surfacing at each sharing: +, − or 0          │
       │   ▼                                                           │
-      │   3o ─────► 12i ────────► 10 ══════════════════════════════════════►
+      │   3o ─────► 12i ────────► 10 ──► released, with 6             │
       │   4o · 7o   changing,     + or −: is                          │
       │   carrying  is or is not  0: is not                           │
       │                           │                                   │
@@ -89,15 +89,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
       │                           │                                   │
       │                           └──────► 9 ────► 5o                 │
       │                                    13i · 15i                  │
- ◄══════ 6                                                            │
+ ◄══════ 6 · 10                                                       │
       │   8o carrying wound · 16i society wound                       │
       └───────────────────────────────╥───────────────────────────────┘
                                       ║ 9  along · co
                                       ▼
                         the self at not-yet-co-competent, its 17
 
-   at not-yet-bi-moral   its 10 ══► 14       6  ══► its 2
-   at bi-moral-so-far    its 6  ══► 2        10 ══► its 14
+   at not-yet-bi-moral   6  ══► its 2        10 ══► its 14      outgoing
+   at bi-moral-so-far    its 6  ══► 2        its 10 ══► 14      incoming
    ═══ between selves, across and along    ─── within one self
    o outward face    i inward face
 ```
@@ -113,11 +113,11 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 | 7-co-corusing | odd, co | self, other | face | — | outward | — | — | each parity, offered and chained |
 | 8 | 8-bi-torusing | even, bi | other, self | face | — | outward | — | — | each self's carrying wound, its 11 the next momentary's 3 |
 | 9 | 9-tri-bi-co-releasing | odd, co | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
-| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | bi-moral-so-far | to the self at bi-moral-so-far, its 14 | each sharing's changing: + or − is, 0 is not |
+| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 14 | each sharing's changing: + or − is, 0 is not |
 | 11 | 11-tri-bi-co-chaining | odd, co | social, other, self | face | — | inward | — | — | the carrying chained, each changing the next prior |
 | 12 | 12-bi-tri-volutioning | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
 | 13 | 13-co-tri-competencing | odd, co | social, other | face | — | inward | — | — | each releasing sharing; at the society, each releasing self |
-| 14 | 14-bi-tri-moralizing | even, bi | other, social | connector | across | — | not-yet-bi-moral | from the self at not-yet-bi-moral, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
+| 14 | 14-bi-tri-moralizing | even, bi | other, social | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
 | 15 | 15-co-bi-tri-corusing | odd, co | social, other | face | — | inward | — | — | the parity released at 9 |
 | 16 | 16-bi-co-tri-torusing | even, bi | other, social | face | — | inward | — | — | the society wound: each self's 8 and offerings |
 | 17 | 17-tri-co-offering | odd, co | social, self | connector | along | — | co-competent-so-far | with the self at co-competent-so-far, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
@@ -152,8 +152,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 | Loop | Releasing | Closing | Across or along |
 |---|---|---|---|
-| the other's | 6 to 2 | 8 | across, not-yet-bi-moral |
-| the society's | 10 to 14 | 16 | across, bi-moral-so-far |
+| the other's | 6 to 2 | 8 | across, not-yet-bi-moral to bi-moral-so-far |
+| the society's | 10 to 14 | 16 | across, not-yet-bi-moral to bi-moral-so-far |
 | the self's | 9 to 17 | 17 | along, not-yet-co-competent to co-competent-so-far |
 
 | n | Name | At this 1–17 | At the 1–17s inward, n at 8n − 7 | At the 1–17 outward, 8m − 7 at m |
