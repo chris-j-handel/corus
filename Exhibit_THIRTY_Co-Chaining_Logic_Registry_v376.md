@@ -581,7 +581,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: two prime rings together.*
 
-118. Two rings at two different numbers of selves, one of them odd, joined across both ways at one self each, come to one relation: the looping along and the crossing across are one stable form.
+118. Two rings at two different numbers of selves, one of them odd, joined across both ways at one self each, come to one relation: the two rings looping along are one stable-forming, crossed across at the joined selves.
 
         *Adding: crossing.*
 
@@ -1057,7 +1057,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: the prior carried across the between; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now; an accounting, and no second method; the field's name carried whole; the field's observings cohering; a field; a hard problem arriving; many accounts at one sharing; the observings co-sequencing; a field's arrival at the code; a hard problem resolving; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the coupling at its three.*
 
-221. The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing.
+221. The self's own prior is carried across the between of momentaries, stable-forming: the carried, and the between a nothing.
 
         *Adding: the prior carried across the between.*
 
@@ -1181,7 +1181,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: carrying the bi-co.*
 
-251. Between momentaries the carrying is a stable form, nothing momentarying between them.
+251. Between momentaries the carrying is stable-forming, no stable form, nothing momentarying between them.
 
         *Adding: the carrying between momentaries.*
 
@@ -1221,7 +1221,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: whether at no coupling a self reaches is the all or none for it.*
 
-260. Between momentaries the self's carrying is its stable form, and at its next arriving it couples and changes: the self discovering next self.
+260. Between momentaries the self's carrying is its stable-forming, and at its next arriving it couples and changes: the self discovering next self.
 
         *Adding: self discovering next self.*
 
@@ -1271,7 +1271,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 27 Living and non-living at a scale
 
-        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
+        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
 271. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
@@ -1287,11 +1287,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: ingestible one scale inward.*
 
-274. Stable-forming is bi-tri-volutioning, and the stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is a non-living existing form with no carrying for stable-forming.
+274. Stable-forming is bi-tri-volutioning, and the stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is a non-living existing form with no carrying for stable-forming: nothing living has a stable form, at a momentary or between momentaries, and all existing and not living is at a stable form of existing between momentaries.
 
-        *Adding: bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form.*
+        *Adding: bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing.*
 
-        *Unsure: the prior between momentaries is not yet its own step; steps 221, 251 and 260 say the living's carrying between momentaries a stable form.*
+        *Unsure: the prior between momentaries is not yet its own step.*
 
 275. A non-living existing thing carries nothing into next.
 
