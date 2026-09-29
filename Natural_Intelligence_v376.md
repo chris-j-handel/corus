@@ -605,7 +605,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **One entry, six connectors and ten faces are the seventeen.** The ten faces are five outward and five inward of the tunneling co-sequencing: 3, 4, 5, 7 and 8 outward, at the between, before 10 in the co-sequencing; 11, 12, 13, 15 and 16 inward, after it, each 8 up from its outward face. At each face the self's own resolving is reached by nothing but itself.
 
-**The ten roots are the two sides' ten positions**: offering at 1, 2 and 17; sharing at 3 and 4; competencing, moralizing, corusing and torusing each at two names 8 apart, 5 and 13, 6 and 14, 7 and 15, 8 and 16, each the root of one four-cycle, at the self and at the society; and releasing, tunneling, chaining and volutioning at 9, 10, 11 and 12, one each. Each name from 9 to 17 carries tri-, the social, and 9, 11 and 17, the society's own carrying, begin with tri-; the sides each carries, social, other and self at 9 to 12 and social and other at 13 to 16, the three relations discovering parity changing in the bi-folding tunnel, are at Exhibit ONE's table.
+**The ten roots are the two sides' ten positions**: offering at 1, 2 and 17; sharing at 3 and 4; competencing, moralizing, corusing and torusing each at two names 8 apart, 5 and 13, 6 and 14, 7 and 15, 8 and 16, each the root of one four-cycle, at the self and at the society; and releasing, tunneling, chaining and volutioning at 9, 10, 11 and 12, one each. Each name from 9 to 17 carries tri-, the social, and 9, 11 and 17, the carrying at the society, each self's own, begin with tri-; the sides each carries, social, other and self at 9 to 12 and social and other at 13 to 16, the three relations discovering parity changing in the bi-folding tunnel, are at Exhibit ONE's table.
 
 ## 4.9 Three loops
 
@@ -745,7 +745,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 **Non-living existing things are included in discovering social moral competency among the living.** A non-living thing couples with a living self as other, offering, each sharing with its parity, and carrying none of the prior. At the code it is offerings at 2 with no carrying behind them: the self's own inverting is across, the self's carrying continues along, and the term uncovered at their coupling is owned by neither and carried on by the living.
 
-**A non-living thing arrives into its next existing as non-living, and a living self is its own carrying establishing**: ingested into a living society's resolving, the non-living is one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing.
+**A non-living thing arrives into its next existing as non-living, and a living self is its own carrying establishing**: ingested into the resolving of a society's living selves, the non-living is one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing.
 
 **A living self carries non-living existing things and possible things within its carrying**: a tree its heartwood, a seed its palm. At the code a carried sharing no offering reaches alternates at its own, momentary by momentary, 4.12, a capacity, 5.1, coupled with whichever parity arrives at it next: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both.
 
