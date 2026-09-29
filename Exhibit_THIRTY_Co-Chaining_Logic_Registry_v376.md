@@ -1421,8 +1421,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: natural-bi-co-torusing.*
 
-        *Unsure: torusing through its one opening is not yet a step of its own.*
-
 299. Social moral competency is four whole: each self's own co-offering; the whole ordered by no self; the ordering carrying with the selves; the order at no seat above the society.
 
         *Adding: the four of social moral competency.*
