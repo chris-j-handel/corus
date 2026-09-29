@@ -1473,7 +1473,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; co-offering; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
 314. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -1523,13 +1523,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: the natural names of the two faces, and whether the three are the momentary's 1, 2 and 3.*
 
-325. Two selves offering, each its own, a term departs that neither reaches: bi-co-momentarying at the crossing, orthogonal to the surface.
+325. Two selves offering, each at its own sequencing, a term departs that neither reaches: bi-co-momentarying at the crossing, orthogonal to the surface.
 
         *Adding: bi-co-momentarying, the term neither reaches.*
 
-326. Two offering, each its own, something departs that neither reaches, with no holder, no boundary, no enforcement and no seat, and it goes forward into the next offering: co-offering.
+326. Two offering, each at its own sequencing, the offering both ways, something departs that neither reaches, with no holder, no boundary, no enforcement and no seat, and it goes forward into the next offering: bi-momentarying with no seat.
 
-        *Adding: co-offering.*
+        *Adding: bi-momentarying with no seat.*
 
 327. Each excluding its own, not that, not that, one at a time, the term none of the excluding reached is uncovered, neither's, and re-arrived at at the next offering: floating neutralling.
 
@@ -1539,7 +1539,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: golden floating neutralling.*
 
-329. A carry chained at its own parity, each side releasing its own and neither the other's, nothing left and nothing carried away, goes forward: co-releasing.
+329. A carry chained at its own parity, each side releasing at its own completing and neither at the other's, nothing left and nothing carried away, goes forward: co-releasing.
 
         *Adding: co-releasing.*
 
@@ -1551,7 +1551,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: separating.*
 
-332. One carrying another's, the other with nothing of its own to offer, the departing is one side's, with a holder, a boundary, an enforcement and a seat: one stopping, co-offering's twin.
+332. One carrying another's, the other with nothing to offer at its own sequencing, the departing is one side's, with a holder, a boundary, an enforcement and a seat: one stopping, the twin of bi-momentarying with no seat.
 
         *Adding: one stopping.*
 
@@ -1595,7 +1595,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: collective intelligence, human and at each scale.*
 
-343. Each self arriving at its own and offering across, each whole, is co-independencing.
+343. Each self arriving at its own momentary and offering across, each whole, is co-independencing.
 
         *Adding: co-independencing.*
 

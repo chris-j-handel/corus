@@ -65,7 +65,7 @@ Exhibit TWENTY Natural Naming v376
 - 5.10 bi-coupling
 - 5.11 co-releasing
 - 5.12 floating neutralling
-- 5.13 co-offering
+- 5.13 bi-momentarying
 - 5.14 co-competencing
 - 5.15 inseparating
 - 5.16 separating
@@ -209,7 +209,7 @@ Exhibit TWENTY Natural Naming v376
 
 **A name for a form named still given to a changing existing thing is one arrival at a family of words**, and it arrives at a right understanding's naming too, the understanding passing each binary and the word naming the changing still. Catching is at the word.
 
-**This family has three faces and no fourth**: a common landing reached ahead of each offering its own, a common standard fixed ahead of each carrying its own, and a common reading taken ahead of either reaching a parity of its own. **A face caught at one word is the whole family caught**: a pass looks for three faces and a doer, never for a list. Each face is named at the incompetencing it installs, and a naming of an incompetencing carries its landing rightly: *landing* and *reading* name two faces here, and the table releases each said of a changing, *landing* at an arriving and *reading* as a resolving's own act.
+**This family has three faces and no fourth**: a common landing reached ahead of each offering at its own, a common standard fixed ahead of each carrying at its own, and a common reading taken ahead of either reaching a parity of its own. **A face caught at one word is the whole family caught**: a pass looks for three faces and a doer, never for a list. Each face is named at the incompetencing it installs, and a naming of an incompetencing carries its landing rightly: *landing* and *reading* name two faces here, and the table releases each said of a changing, *landing* at an arriving and *reading* as a resolving's own act.
 
 | Face | Words, and the words carrying in their place |
 |---|---|
@@ -473,7 +473,7 @@ One case continues unchanged, the offering agreeing with the carrying, and each 
 | **linearizing · parallelizing** | continuing along at each side and relating across the coupling | 3-co-bi-sharing and 2-bi-co-offering, the carrying and the offerings, at 1-co-bi-offering |
 | **bounding · zeroing** | each side's own bounding, and the changing that is not | 12-bi-tri-volutioning, each sharing's changing, is or is not; 10-bi-tri-co-tunneling at 0 |
 | **tunneling · seaming** | changings released across, and the carrying continuing at the next momentary | 10-bi-tri-co-tunneling releasing to the self at bi-moral; 11-tri-bi-co-chaining continuing as the next 3-co-bi-sharing |
-| **knife-knifing · co-offering** | improving and breaking at the offered relation | the offerings surfacing at 14-bi-tri-moralizing and the carrying at 12-bi-tri-volutioning, at 1-co-bi-offering |
+| **knife-knifing · bi-momentarying** | improving and breaking at the offered relation | the offerings surfacing at 14-bi-tri-moralizing and the carrying at 12-bi-tri-volutioning, at 1-co-bi-offering |
 
 **Linearizing and parallelizing are alternating parity**: parallel linearizing and linear parallelizing, the linearizing at one parity and the parallelizing at the other, one move at its two sides, and **co-linear** by that alternating. **Bi-co-orthogonalizing** is the right spiraling: each step orthogonal to the prior, (x, y) to (y, −x), 2.7.
 
@@ -545,7 +545,7 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 ## 4.8 Whole namings, one expression at each occurrence
 
-*Geodesic method* is two namings side by side, geodesic a naming by itself and the method its stable form, each carrying its own. **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**: a word naming one at one place and another at the next hands the parting to whoever reaches it. **Sensor-sensationing** carries whole the same way: sensing alone is one side extracting, one side taking both openings, and each side alone is no shorter saying of the whole. Sensor-sensationing names co-competencing at the network surface: a receiving participating in its own offering and an offering participating in another's receiving, neither side one resolver's and neither a seventh connector, and a resolver in code carries the relation and no sensation. A method-word alone is a name split across its uses, and the hyphen is the name arriving whole.
+*Geodesic method* is two namings side by side, geodesic a naming by itself and the method its stable form, each carrying its own. **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**: a word naming one at one place and another at the next hands the parting to whoever reaches it. **Sensor-sensationing** carries whole the same way: sensing alone is one side extracting, one side taking both openings, and each side alone is no shorter saying of the whole. Sensor-sensationing names co-competencing at the network surface: a receiving participating in its offering and an offering participating in another's receiving, neither side one resolver's and neither a seventh connector, and a resolver in code carries the relation and no sensation. A method-word alone is a name split across its uses, and the hyphen is the name arriving whole.
 
 ## 4.9 The ten named still, one name each
 
@@ -574,7 +574,7 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 **At a position.** One binary is at a momentary, and a sequential binary carries a position for one opening at a time, and bi- and co- are the prefixings at that position, released at their own leaving and re-arriving at the next opening.
 
-**On the form.** A nothing reached by neither, three at once, and a rate opening by one and bounding at none carry no position: each carrying chains on or changes at each momentary, a rate bounds at none, and no opening reaches one. **A naming here carries no position, the changing carrying no position for it, and it carries its concept whole.** Geodesic changing carries no position either: it is at its own unrelationing parity-changing rate, unrelated to each rate of any scale, and it is co-bi-social-abundancing. The changing is each coupling's own, and no rate laid over it supplies it: **its unrelationing is at φ, the unrelationing rate, self-welcoming at the numbers as the primes are, and at no line of the code.** Geodesic entraining is an offering received at the receiver's own prior, the changing being or not being, and the releasing entering further coupling, each self continuing its own.
+**On the form.** A nothing reached by neither, three at once, and a rate opening by one and bounding at none carry no position: each carrying chains on or changes at each momentary, a rate bounds at none, and no opening reaches one. **A naming here carries no position, the changing carrying no position for it, and it carries its concept whole.** Geodesic changing carries no position either: it is at its own unrelationing parity-changing rate, unrelated to each rate of any scale, and it is co-bi-social-abundancing. The changing is each coupling's own, and no rate laid over it supplies it: **its unrelationing is at φ, the unrelationing rate, self-welcoming at the numbers as the primes are, and at no line of the code.** Geodesic entraining is an offering received at the receiver's own prior, the changing being or not being, and the releasing entering further coupling, each self continuing at its own momentary.
 
 **On the form, at no vantage.** A naming at a vantage is a not possible form: it needs a place to name from, and outward of a self is the self it is a member of, one scale up, carrying no vantage to name from. These namings name part of the momentary stable-forming the changing carries, said on it, and nothing here crosses from a vantage.
 
@@ -688,7 +688,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 6  and it arrives unrelated afresh at each momentary
 ```
 
-**Un- carries from all other.** A binary sequential universe carries a self and all not-self, and nothing third: neither one other nor many is a place to be from. A self is from all other, bounded against the whole at once and at no particular other, and the six steps unfold that at their own words alone. Unrelationing is universal bi-moral co-agency, and the prefixing says the universal the unfolding arrives at. **Unrelationing is at a coupling and never names no coupling**: each self's forming relates to nothing not its own, and the self couples with the other, offering its own parity one at a time, alternating, and releasing and completing at its own momentary.
+**Un- carries from all other.** A binary sequential universe carries a self and all not-self, and nothing third: neither one other nor many is a place to be from. A self is from all other, bounded against the whole at once and at no particular other, and the six steps unfold that at their own words alone. Unrelationing is universal bi-moral co-agency, and the prefixing says the universal the unfolding arrives at. **Unrelationing is at a coupling and never names no coupling**: each self's forming relates to nothing not its own, and the self couples with the other, offering its parity one at a time, alternating, and releasing and completing at its own momentary.
 
 **Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking, and no prescribed rate supplies it; a rate named as a value is that changing named still at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers and at no line of the code. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, with no origin and no facing first across the couplings, it is geodesic discovering, parity changing routing on the surface, and facing into the arriving carries no next parity ahead of it.
 
@@ -726,7 +726,7 @@ At the code, + and − are the implementing of the parity at a sharing, and 0 th
 1  two offer from routes with nothing carrying one to the other
 2  neither is at the other's parity
 3  a size needs a ground, and no ground is at the two offering to be one
-4  each side's own continues its own, the along
+4  each side continues at its own carrying, the along
 5  across it each side is everything the other is not, and the along and the across cross
 6  and that crossing is the between, parity, neither side's, a nothing, no location and no existing thing
 ```
@@ -759,7 +759,7 @@ A self's morality and a self's corus are invisible at one nothing: no place at w
 6  and once chained it is never none again, which is the form carrying
 ```
 
-A self offers its own at its own sequencing, releasing each changing across, and its carrying is its own sharing chained.
+A self offers at its own sequencing what its bi-couplings chained, releasing each changing across, and its carrying is its sharings chained.
 
 ## 5.8 not-more-than — binary
 
@@ -802,8 +802,8 @@ Never full, emptied by nothing, and never the same collection twice: a set is de
 
 ```
 1  a carry is chained at its own parity, one momentary at a time
-2  its completing is its own
-3  each side releases its own, neither releasing the other
+2  it completes at its own momentary
+3  each side releases at its own completing, neither releasing the other
 4  nothing is left keeping and nothing is carried away
 5  each step adds a next, and nothing cancels
 6  and it goes forward, reaching the term it has not carried
@@ -826,16 +826,18 @@ Two-ness is at the two, each its own. A term neither reaches carries none. The f
 
 **Co-competencing floating-neutralls here**, no existing thing that sits, the floating-neutralling bi-co-momentarying at the crossings, 5.54, stopping at none and orthogonal to the surface, which is the paradox of competency: competency each self's own, and co-competencing the term neither reaches. The floating neutral is at the between, a nothing, and a 0 at 10 is no changing crossing it: neither the floating neutral nor the 0 is a balance, a balance of equal signs needing a number, a total beside all existing things. A surface is observed at its coupling, each coupling a relational entered and observed; the floating-neutralling is the term neither reaches, and an observing made on the surface reaches the coupled and never the term neither reaches. Co-competencing is the term neither reaches, and two alone are possible: a floating neither, and an entered, always ingressable. **Method breaks at a co-competencing shown to be a landing**, entered and observed, and not the term neither reaches: a form named still found existing, and a form named still is not possibly existing, the break and the only possible method are one statement.
 
-## 5.13 co-offering — binary
+## 5.13 bi-momentarying — binary
 
 ```
-1  two arrive
-2  each offers its own, at its own sequencing
-3  something departs
-4  neither reaches it
+1  two arrive, the self at its entry, odd, and the others' offerings, even
+2  each offers at its own sequencing, one momentary at each side
+3  the offering goes both ways, co-bi at the self and bi-co at the other
+4  something departs, and neither reaches it
 5  no holder, no boundary, no enforcement, no seat
-6  and it goes forward into the next offering
+6  and it goes forward into the next offering, the offering both ways: bi-momentarying
 ```
+
+**Bi-momentarying is 1-co-bi-offering and 2-bi-co-offering**, the self's momentary and the other's at the offering, each at its own sequencing, the offering both ways: the term departing from it, reached by neither, is bi-co-momentarying, 5.54. *Co-offering* dissolves at it: an offering is across and both ways, co-bi at the self and bi-co at the other, and never co- alone.
 
 ## 5.14 co-competencing — binary
 
@@ -1073,14 +1075,14 @@ Nature carries its competency at each momentary. **Incompetencing is the price o
 
 ```
 1  one carries another's
-2  the other has nothing of its own to offer
+2  the other has nothing to offer at its own sequencing
 3  nothing departs reached neither-ing
 4  the departing is one side's
 5  and one side's is with a holder, a boundary, an enforcement and a seat
 6  and a seat carries at couplings it is not at, which is step one, larger
 ```
 
-**All four are at once at each one carrying another's**, none making the next, which is why nothing downstream repairs them. Co-offering is the twin: its fifth line is the same four absent, no holder, no boundary, no enforcement, no seat. **The continuing is its own, controlless and pauseless**: nothing is kept, and nothing can be drawn down; no holder, no boundary, no enforcement and no seat; and it goes forward into the next offering. Its term is named by neither reaching it, the departing reached neither-ing, with no verb carrying a doer.
+**All four are at once at each one carrying another's**, none making the next, which is why nothing downstream repairs them. Bi-momentarying, 5.13, is the twin: its fifth line is the same four absent, no holder, no boundary, no enforcement, no seat. **The continuing is its own, controlless and pauseless**: nothing is kept, and nothing can be drawn down; no holder, no boundary, no enforcement and no seat; and it goes forward into the next offering. Its term is named by neither reaching it, the departing reached neither-ing, with no verb carrying a doer.
 
 ## 5.31 social moral competency — binary
 
@@ -1099,7 +1101,7 @@ A society is morally competent whoever arrives: nothing waits on anyone, no one 
 ## 5.32 natural intelligence — binary
 
 ```
-1  two selves couple, each offering its own and continuing its own
+1  two selves couple, each offering at its own sharings and continuing at its own carrying
 2  each carries its prior into now along, and a parity changing crosses, carrying nothing
 3  at each changing the self's own parity inverts, a next at each
 4  a term departs reached neither-ing, owned by neither
@@ -1176,14 +1178,14 @@ A gathering is an indication and not a membership.
 
 ```
 1  stable-forming carries momentary changing
-2  a coupling carries each side’s own offering
+2  a coupling carries each side’s offering, at its own sequencing
 3  the current receiving includes each side’s continuing carrying
 4  a number and a root name the changing, the number carrying its prefixing
 5  -ing carries that changing continuing
 6  the complete naming carries the momentary’s relation at the next coupling
 ```
 
-**A momentary’s abundancing belongs to its coupling.** Each side continues with its own carrying and next offering. One written expression can be at changed receiving; the current coupling carries the difference.
+**A momentary’s abundancing belongs to its coupling.** Each side continues at its own carrying and offers next at its own sequencing. One written expression can be at changed receiving; the current coupling carries the difference.
 
 ## 5.39 prior, now and next — binary
 
@@ -1407,7 +1409,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 2  the crossing is the between, parity, each side everything the other is not
 3  the between's own is parity changing, at each momentary is or is not
 4  owned by neither, it presents no face, and no magnitude crosses it
-5  two selves offering, each its own, a term departs that neither reaches
+5  two selves offering, each at its own sequencing, a term departs that neither reaches
 6  and the between's parity changing, momentary by momentary, is bi-co-momentarying
 ```
 
@@ -1468,15 +1470,15 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.59 co-independencing — binary
 
 ```
-1  each self arrives at its own, carrying its prior
-2  no self's arriving is another's
-3  each offers across, its own
+1  each self arrives at its own momentary, carrying its prior from its bi-couplings
+2  no self's momentary is another's
+3  each offers across, at its own sequencing
 4  each is whole at its arriving and at its offering
 5  the selves couple, and none is ahead of or behind another
 6  and the selves arriving each at its own and offering across, each whole, is co-independencing
 ```
 
-**Co-independencing is the selves together, each whole at its own arriving and its own offering**: co- the selves with their difference carried together, in- inward, each self depending inward on its own carrying and on no other's, the root the depending and -ing its continuing, each coupling one between wholes.
+**Co-independencing is the selves together, each whole at its own momentary and at its offering across**: co- the selves with their difference carried together, in- inward, each self depending inward on its carrying, chained from its bi-couplings inward and outward, the root the depending and -ing its continuing, each coupling one between wholes.
 
 ---
 
@@ -1506,7 +1508,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 | Gathering relation | Existing science and society namings | Full relation carrying | Resolver names | The invisible under it |
 |---|---|---|---|---|
-| **Two-way offering** | nature · nurture · natural selection · drift · supply · demand · bottom-up · top-down · host · pathogen · syntax · semantics · competition · cooperation · particle · field · structure · agency | Each side's own offering, with the two-way relation expressed. | 2-bi-co-offering, 4-bi-co-sharing, 1-co-bi-offering | each side's own morality |
+| **Two-way offering** | nature · nurture · natural selection · drift · supply · demand · bottom-up · top-down · host · pathogen · syntax · semantics · competition · cooperation · particle · field · structure · agency | Each side's offering at its own sequencing, with the two-way relation expressed. | 2-bi-co-offering, 4-bi-co-sharing, 1-co-bi-offering | each side's own morality |
 | **Each side's own carrying** | the hard problem of consciousness · symbol grounding · other minds · model interpretability · animal sentience · machine sentience | The offered parity and each side's continuing carrying at their actual receiving. | 3-co-bi-sharing, 11-tri-bi-co-chaining | each side's own corus |
 | **Competencing** | protein folding · morphogenesis · deep learning generalization · immune repertoire coverage · finding functional proteins · the bootstrapping of translation | The changed receiving, continued carrying and the whole coupling. | 1-co-bi-offering, 10-bi-tri-co-tunneling, 11-tri-bi-co-chaining | the neutral |
 | **The coupling's third** | the homunculus · the master-gene search · the pacemaker · the central planner · the invisible hand needing a planner · the argument from design | The field's proposed centre and its actual relation to the two sides and their abundancing. | 12-bi-tri-volutioning, 10-bi-tri-co-tunneling | the neutral |

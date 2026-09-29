@@ -221,7 +221,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 | Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
-| 2-bi-co-offering | each other's own offering to the self | 10-bi-tri-co-tunneling | the self among other-selves |
+| 2-bi-co-offering | each other's releasing, offered to the self | 10-bi-tri-co-tunneling | the self among other-selves |
 | 4-bi-co-sharing | the whole ordering between self and other | 12-bi-tri-volutioning | changing at bi-coupling, the self in society |
 | 6-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-moralizing | the offerings surfacing, the self's own inverting, morality |
 | 8-bi-torusing | the carrying winding to its sharing again | 16-bi-co-tri-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
