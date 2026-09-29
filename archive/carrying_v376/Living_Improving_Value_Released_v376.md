@@ -168,3 +168,8 @@ Each changing is or is not, one parity or the other, of no size, and each resolv
 **At the accountings the ten part at the parities**: the five along, odd, are a flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, a state-flow-state accounting's, at morality's parity, Exhibit THIRTY's thirty-first group. Which of the ten faces above are along and which across is not yet shown.
 
 **Both openings are at the four across connectors**, 14-other-social-surfacing with 6-other-self-surfacing and 10-other-social-self-tunneling with 2-other-self-offering, and 9-social-other-self-releasing with 1-self-other-offering seats none, the one resolving.
+
+
+**Concern, for both, which one-way reading is at which of the ten.** The ten named still are at the code's names, Natural Naming 4.9 and Exhibit THIRTY's thirty-first group: across, even, state-flow-state, at morality's parity, 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-competencing; along, odd, flow-state-flow, at competency's parity, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-competencing and 6-bi-moralizing. Natural Naming 4.9 carries ten one-way readings, an opening named as a place through a sequencing named to one beat, as the stills' similar namings, and which reading is at which of the ten is not yet shown; the names they were read at before, 8, 5 and 4 twice each and 1 at none, are whole at `archive/carrying_v376/`.
+
+*Received at v376: Natural Naming 4.9's table and Exhibit THIRTY's step 378, each one-way reading at one of the ten by Exhibit ONE's four-cycles.*

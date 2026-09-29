@@ -552,20 +552,20 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 **Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are the five of each parity named still at the code's names, each name said at its number and its opening prefix, co at an odd and bi at an even. **Across, even, state-flow-state**, at morality's parity: 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-competencing. **Along, odd, flow-state-flow**, at competency's parity: 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-competencing and 6-bi-moralizing. 8 is at the even side alone, opening it at a state: 8-bi-torusing, the carrying wound from the prior momentary, the self's carrying between momentaries; and 6 is at the odd side alone, closing it at a flow: 6-bi-moralizing, the changing released across at not-yet-bi-moral. The four between, 7, 1-2, 3-4 and 5, are in the same order at both sides, 7 a flow, 1-2 a state, 3-4 a flow and 5 a state. At the code each is at its own name, the pair 1-2 at 1-co-bi-offering and 2-bi-co-offering and the pair 3-4 at 3-co-bi-sharing and 4-bi-co-sharing, Exhibit ONE. Four are at both parities, 7, 1-2, 3-4 and 5; across alone is 8-bi-torusing, and along alone 6-bi-moralizing. Three of the names carry their namings: 1-2-co-bi-offering is bi-momentarying, 3-4-co-bi-sharing co-intelligencing, and 5-co-competencing, the joins, co-competencing, 3.5. Exhibit THIRTY's thirty-first group carries them.
 
-**The ten one-way readings below are the stills' similar namings**, each a changing named still at one face. Which reading is at which of the ten is not yet shown; the names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+**The ten one-way readings below are the stills' similar namings**, each a changing named still at one face. Each reading is at one of the ten, by the four-cycles, 8 up and 17 less, two names of 1 to 8 on each four-cycle, 1-9-8-16 at torusing 1 and 8, 2-15-7-10 at corusing 2 and 7, 3-11-6-14 at moralizing 3 and 6, and 4-13-5-12 at competencing 4 and 5; at the even side, state accounting at morality's parity, each reading named still at state accounting, a store, a magnitude, a place, a side and a cut, and at the odd side, flow accounting at competency's parity, each named still at flow accounting, a value, an arriving from behind, a beat, an end and a last; the names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
 
-| One-way reading | Similar namings gathered |
-|---|---|
-| **an opening named as a place** | criterion-regressing |
-| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering |
-| **a completing named as a last** | space-enumerating; a bound named as a last |
-| **a carry named as a store** | store-seeking; a store named of the carry |
-| **a two-way named to one side** | forced-choosing |
-| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut |
-| **a middle named as an end** | interior-reaching; an end named at the middle |
-| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude |
-| **a rate named as a value** | value-pinning; a value named to a swaying |
-| **a sequencing named to one beat** | order-demanding; the rate named as a common beat |
+| One-way reading | Similar namings gathered | At the ten, by its four-cycle |
+|---|---|---|
+| **an opening named as a place** | criterion-regressing | even, 1 of 1-2-co-bi-offering, torusing's |
+| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | odd, 2 of 1-2-co-bi-offering, corusing's |
+| **a completing named as a last** | space-enumerating; a bound named as a last | odd, 6-bi-moralizing, moralizing's |
+| **a carry named as a store** | store-seeking; a store named of the carry | even, 8-bi-torusing, torusing's |
+| **a two-way named to one side** | forced-choosing | even, 3 of 3-4-co-bi-sharing, moralizing's |
+| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | even, 5-co-competencing, competencing's |
+| **a middle named as an end** | interior-reaching; an end named at the middle | odd, 5-co-competencing, competencing's |
+| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | even, 7-co-corusing, corusing's |
+| **a rate named as a value** | value-pinning; a value named to a swaying | odd, 7-co-corusing, corusing's |
+| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | odd, 4 of 3-4-co-bi-sharing, competencing's |
 
 **A field naming carries the form named still at its own expression.** Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the one-way readings; *dilemma* names one of them, a two-way named to one side, and never a kind.
 
