@@ -695,6 +695,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 **Incoming, at v376, momentarying at its two faces.** The momentarying of the living is discovering next possible living, the prior carried on into next; the momentarying of the non-living is discovering next existing, co-changing, carrying nothing into next; the universe's, both, is discovering next possible existing. Exhibit THIRTY carries it at v376.
 
+**Incoming, at v376, *stilling* released, and *self discovering next self*.** The self between its momentaries, its carrying a stable form and at its next arriving coupling and changing, is the self discovering next self; *stilling* and *self-stilling-self* are no naming of the set's, a still named by another an equilibrium.
+
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
 **Next at this file: none from the code; its items below.** At v375 its own voice says the one saying, each arrival a changing named still at the field's own statement, the running face carrying it resolved; its Addresses read *reference* for a field's text and *settling* for *landing*, the fields' own words whole.
