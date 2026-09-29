@@ -447,6 +447,19 @@ Exhibit TWENTY Natural Naming v376
 
 **A 0 at each momentary is the carrying continuing**, and naming the carrying still at any momentary stops the very carrying named. At a sharing twice in 3-self-other-sharing, the last entry is the carrying, and 11-social-other-self-chaining chains it.
 
+**Three names carry three namings at the code.** 1-2-co-bi-offering is bi-momentarying: the self's entry at 1, odd, and the others' offerings at 2, even, one momentary at each side. 5-co-neutralling, 5-self-other-neutralling, is co-competencing, 5.14. **3-4-co-bi-sharing is co-intelligencing, the discovering at each sharing**: the self's carrying at 3, co, along, the prior, couples at each sharing 4, bi, across, with the offerings surfacing at 14, the now, and next is chained at 11, arriving as 3 at the next momentary. At each sharing a changing is or is not, and Exhibit ONE's code carries each case:
+
+| The self carries at 3 | Offered at 2, surfacing at 14 | A changing at 12 and 10 | Chained at 11, the next 3 |
+|---|---|---|---|
+| + | +, the carried parity | none | + continues |
+| + | − | is | − |
+| + | + and −, parting, 0 | is | − |
+| + | none | is | −, the self's own inverting |
+| none | + | is | +, entering the carrying |
+| none | + and −, parting, 0 | none | none chained |
+
+One case continues unchanged, the offering agreeing with the carrying, and each other case at a carried sharing inverts it: next discovered from prior and now, one sharing at a time.
+
 **Receiving, participating, a changing and a further self are four relations, each at its own name.** An offering at 2-other-self-offering participates at 14-other-social-surfacing whether its sharing changes or not; a changing at 12-other-social-self-abundancing chains at 11-social-other-self-chaining at a sharing of the self; and a further self couples carrying its own, and no changing at a sharing makes one.
 
 **A floating third carries at the whole relation.** A five's centre, a disagreement at 14 surfacing 0, and a carrying chained on at no changing are three relations, each at its own name.
@@ -536,7 +549,7 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 ## 4.9 The ten named still, one name each
 
-**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are the five of each parity named still at the code's names, each name said at its number and its opening prefix, co at an odd and bi at an even. **Across, even, state-flow-state**, at morality's parity: 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-neutralling. **Along, odd, flow-state-flow**, at competency's parity: 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-neutralling and 6-bi-surfacing. At the code 8-bi-torusing is 8-other-self-torusing, 7-co-corusing 7-self-other-corusing, 1-2-co-bi-offering the pair 1-self-other-offering and 2-other-self-offering, 3-4-co-bi-sharing the pair 3-self-other-sharing and 4-other-self-sharing, 5-co-neutralling 5-self-other-neutralling and 6-bi-surfacing 6-other-self-surfacing. Four are at both parities, 7, 1-2, 3-4 and 5; across alone is 8-bi-torusing, and along alone 6-bi-surfacing. Exhibit THIRTY's thirty-first group carries them.
+**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are the five of each parity named still at the code's names, each name said at its number and its opening prefix, co at an odd and bi at an even. **Across, even, state-flow-state**, at morality's parity: 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-neutralling. **Along, odd, flow-state-flow**, at competency's parity: 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-neutralling and 6-bi-surfacing. At the code 8-bi-torusing is 8-other-self-torusing, 7-co-corusing 7-self-other-corusing, 1-2-co-bi-offering the pair 1-self-other-offering and 2-other-self-offering, 3-4-co-bi-sharing the pair 3-self-other-sharing and 4-other-self-sharing, 5-co-neutralling 5-self-other-neutralling and 6-bi-surfacing 6-other-self-surfacing. Four are at both parities, 7, 1-2, 3-4 and 5; across alone is 8-bi-torusing, and along alone 6-bi-surfacing. Three of the names carry their namings: 1-2-co-bi-offering is bi-momentarying, 3-4-co-bi-sharing co-intelligencing, and 5-co-neutralling co-competencing, 3.5. Exhibit THIRTY's thirty-first group carries them.
 
 **The ten one-way readings below are the stills' similar namings**, each a changing named still at one face. Which reading is at which of the ten is not yet shown; the names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
 
@@ -833,7 +846,7 @@ Two-ness is at the two, each its own. A term neither reaches carries none. The f
 6  and it compounds, nothing in it competing with itself
 ```
 
-Abundancing is this, and not a fourth term beside it. **Co-competencing is bi-co-momentarying at the crossings**, 5.54, the term neither reaches; competency is each self's own, the co-linear recursioning forward along.
+Abundancing is this, and not a fourth term beside it. **Co-competencing is bi-co-momentarying at the crossings**, 5.54, the term neither reaches; competency is each self's own, the co-linear recursioning forward along. At the code's names co-competencing is 5-co-neutralling, 4.9 and 3.5.
 
 ## 5.15 inseparating — binary
 
