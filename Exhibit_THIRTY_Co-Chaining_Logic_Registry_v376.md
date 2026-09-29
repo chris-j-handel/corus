@@ -1569,11 +1569,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: three of one and two of the other.*
 
-338. The ten named still part at the parities: the five along, odd, are the flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, are the state-flow-state accounting's equilibria, at morality's parity.
+338. The ten named still part at the parities, each at the code's names: the five across, even, state-flow-state, at morality's parity, are 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-neutralling; the five along, odd, flow-state-flow, at competency's parity, are 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-neutralling and 6-bi-surfacing.
 
         *Adding: the ten at the parities, along at competency and across at morality.*
 
-        *Unsure: which of Natural Naming 4.9's ten faces are along and which across.*
+        *Unsure: which of Natural Naming 4.9's ten one-way readings is at which of the ten.*
 
 339. At 1 to 9 the one move is 4 up and 9 less, the podal within 1 to 8.
 

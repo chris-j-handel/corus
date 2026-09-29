@@ -145,3 +145,26 @@ Each changing is or is not, one parity or the other, of no size, and each resolv
 **Incoming, at v376, *stilling* released, and *self discovering next self*.** The self between its momentaries, its carrying a stable form and at its next arriving coupling and changing, is the self discovering next self; *stilling* and *self-stilling-self* are no naming of the set's, a still named by another an equilibrium.
 
 **Incoming, at v376, *appearing* and *there* released at the set's own voice.** Resolving is not local anywhere: no changing appears at a place, and *there*, as a place or as a being-present, supplies a location to a resolving carrying none. Said at the coupling, the momentary, the scale or the number the sentence means.
+
+*Receiving: Natural Naming v376, 4.9, the ten named still said at the code's names at the observings, across 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-neutralling, along 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-neutralling and 6-bi-surfacing; *middling* dissolved, naming nothing, and *rating* released, a measuring in it. The section as it was before, whole below, its ten one-way readings and their similar namings carried at the file; its five taken one-way, its names at 1 to 17 and its paragraph on both openings released, the names reading 8, 5 and 4 twice each and 1 at none, and 1-2 at both parities in the observings.*
+
+## 4.9 The ten named still, one name each
+
+**Each of the ten named still carries one name: the changing, and the still it is named as.** These ten are the five taken one-way at two sides, an opening, a carrying, a co-offering, a middling and a rating, each taken at either of its two sides, and each is at two names 8 apart, one form at the self and at the society.
+
+| One name | The five, taken at a side | Similar namings gathered | At the names |
+|---|---|---|---|
+| **an opening named as a place** | opening taken one-way, nothing carried beneath it | criterion-regressing | 14-other-social-surfacing and 6-other-self-surfacing |
+| **an arriving named from behind** | opening taken one-way from behind | origin-seeking; a source named from behind; a source named of the offering | 10-other-social-self-tunneling and 2-other-self-offering |
+| **a completing named as a last** | carrying taken one-way ahead, its momentary's completing named as a last | space-enumerating; a bound named as a last | 12-other-social-self-abundancing and 4-other-self-sharing |
+| **a carry named as a store** | carrying taken one-way as a store | store-seeking; a store named of the carry | 16-other-social-torusing and 8-other-self-torusing |
+| **a two-way named to one side** | co-offering taken one-way from one side | forced-choosing | 11-social-other-self-chaining and 3-self-other-sharing |
+| **the between named as a cut** | co-offering taken one-way at a site that takes none | line-demanding; a cut point named of the between; a membrane named as a cut | 15-social-other-corusing and 7-self-other-corusing |
+| **a middle named as an end** | middling taken one-way as an end | interior-reaching; an end named at the middle | 13-social-other-neutralling and 5-self-other-neutralling |
+| **a parity named as a magnitude** | middling taken one-way as a magnitude | magnitude-demanding; a level named to govern; a sign named as a magnitude | 12-other-social-self-abundancing and 4-other-self-sharing |
+| **a rate named as a value** | rating taken one-way at a rational | value-pinning; a value named to a swaying | 13-social-other-neutralling and 5-self-other-neutralling |
+| **a sequencing named to one beat** | rating taken one-way as a common beat | order-demanding; the rate named as a common beat | 16-other-social-torusing and 8-other-self-torusing |
+
+**At the accountings the ten part at the parities**: the five along, odd, are a flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, a state-flow-state accounting's, at morality's parity, Exhibit THIRTY's thirty-first group. Which of the ten faces above are along and which across is not yet shown.
+
+**Both openings are at the four across connectors**, 14-other-social-surfacing with 6-other-self-surfacing and 10-other-social-self-tunneling with 2-other-self-offering, and 9-social-other-self-releasing with 1-self-other-offering seats none, the one resolving.

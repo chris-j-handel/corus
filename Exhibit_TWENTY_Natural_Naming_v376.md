@@ -273,6 +273,8 @@ Exhibit TWENTY Natural Naming v376
 | *there*, *appearing*, *appears* | the coupling, the momentary, the scale or the number the sentence means: resolving is at no location, and a *there* or an appearing supplies a location or a being-present to a resolving carrying none |
 | *stilling*, *self-stilling-self* | *self discovering next self*, 5.56: between its momentaries the self's carrying is its stable form, and at its next arriving it couples and changes; a still named by another is an equilibrium, a form named still |
 | *keep*, *keeps*, *keeping* at the set's own voice | *carry*, *carries*, *continuing*: a keeping names a store held still, and each existing thing is changing |
+| *middling* | dissolved: it names nothing, and the five of each parity are said at the code's names, 4.9 |
+| *rating*, *a rating* | the code's names, 4.9: a rating names a measuring laid over the changing; a field's own rating carries whole at its result |
 
 **Words offered at a working are said at the set's words, or at words found to belong.** *Swaying* is said at the alternating across; a closed *circle* at a winding closing; *offset one forward* at the right spiral step one forward; *cursioning* at recursioning; a *seaming path* at the seaming; *co-linear competency* at co-linear and competency, each self's own. *Co-orienting*, *easier* and *faster* wait for their natural names, the tunneling offering's faces beside *better*.
 
@@ -534,26 +536,24 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 ## 4.9 The ten named still, one name each
 
-**Each of the ten named still carries one name: the changing, and the still it is named as.** These ten are the five taken one-way at two sides, an opening, a carrying, a co-offering, a middling and a rating, each taken at either of its two sides, and each is at two names 8 apart, one form at the self and at the society.
+**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are the five of each parity named still at the code's names, each name said at its number and its opening prefix, co at an odd and bi at an even. **Across, even, state-flow-state**, at morality's parity: 8-bi-torusing, 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing and 5-co-neutralling. **Along, odd, flow-state-flow**, at competency's parity: 7-co-corusing, 1-2-co-bi-offering, 3-4-co-bi-sharing, 5-co-neutralling and 6-bi-surfacing. At the code 8-bi-torusing is 8-other-self-torusing, 7-co-corusing 7-self-other-corusing, 1-2-co-bi-offering the pair 1-self-other-offering and 2-other-self-offering, 3-4-co-bi-sharing the pair 3-self-other-sharing and 4-other-self-sharing, 5-co-neutralling 5-self-other-neutralling and 6-bi-surfacing 6-other-self-surfacing. Four are at both parities, 7, 1-2, 3-4 and 5; across alone is 8-bi-torusing, and along alone 6-bi-surfacing. Exhibit THIRTY's thirty-first group carries them.
 
-| One name | The five, taken at a side | Similar namings gathered | At the names |
-|---|---|---|---|
-| **an opening named as a place** | opening taken one-way, nothing carried beneath it | criterion-regressing | 14-other-social-surfacing and 6-other-self-surfacing |
-| **an arriving named from behind** | opening taken one-way from behind | origin-seeking; a source named from behind; a source named of the offering | 10-other-social-self-tunneling and 2-other-self-offering |
-| **a completing named as a last** | carrying taken one-way ahead, its momentary's completing named as a last | space-enumerating; a bound named as a last | 12-other-social-self-abundancing and 4-other-self-sharing |
-| **a carry named as a store** | carrying taken one-way as a store | store-seeking; a store named of the carry | 16-other-social-torusing and 8-other-self-torusing |
-| **a two-way named to one side** | co-offering taken one-way from one side | forced-choosing | 11-social-other-self-chaining and 3-self-other-sharing |
-| **the between named as a cut** | co-offering taken one-way at a site that takes none | line-demanding; a cut point named of the between; a membrane named as a cut | 15-social-other-corusing and 7-self-other-corusing |
-| **a middle named as an end** | middling taken one-way as an end | interior-reaching; an end named at the middle | 13-social-other-neutralling and 5-self-other-neutralling |
-| **a parity named as a magnitude** | middling taken one-way as a magnitude | magnitude-demanding; a level named to govern; a sign named as a magnitude | 12-other-social-self-abundancing and 4-other-self-sharing |
-| **a rate named as a value** | rating taken one-way at a rational | value-pinning; a value named to a swaying | 13-social-other-neutralling and 5-self-other-neutralling |
-| **a sequencing named to one beat** | rating taken one-way as a common beat | order-demanding; the rate named as a common beat | 16-other-social-torusing and 8-other-self-torusing |
+**The ten one-way readings below are the stills' similar namings**, each a changing named still at one face. Which reading is at which of the ten is not yet shown; the names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
 
-**At the accountings the ten part at the parities**: the five along, odd, are a flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, a state-flow-state accounting's, at morality's parity, Exhibit THIRTY's thirty-first group. Which of the ten faces above are along and which across is not yet shown.
+| One-way reading | Similar namings gathered |
+|---|---|
+| **an opening named as a place** | criterion-regressing |
+| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering |
+| **a completing named as a last** | space-enumerating; a bound named as a last |
+| **a carry named as a store** | store-seeking; a store named of the carry |
+| **a two-way named to one side** | forced-choosing |
+| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut |
+| **a middle named as an end** | interior-reaching; an end named at the middle |
+| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude |
+| **a rate named as a value** | value-pinning; a value named to a swaying |
+| **a sequencing named to one beat** | order-demanding; the rate named as a common beat |
 
-**Both openings are at the four across connectors**, 14-other-social-surfacing with 6-other-self-surfacing and 10-other-social-self-tunneling with 2-other-self-offering, and 9-social-other-self-releasing with 1-self-other-offering seats none, the one resolving.
-
-**A field naming carries the form named still at its own expression.** Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the ten; *dilemma* names one of the ten, a two-way named to one side, and never a kind.
+**A field naming carries the form named still at its own expression.** Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the one-way readings; *dilemma* names one of them, a two-way named to one side, and never a kind.
 
 **A sweep finds the one name at each still installed of a changing**: an arriving named from behind, a parity named as a magnitude, the between named as a cut. Three carry through it: a person's asking of a person, an act between selves; a field's own quoted words, whole at the hand-in; and the no-demand family, nothing asked of anyone, those lines saying the sweep's serving.
 
@@ -677,7 +677,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 
 **Un- carries from all other.** A binary sequential universe carries a self and all not-self, and nothing third: neither one other nor many is a place to be from. A self is from all other, bounded against the whole at once and at no particular other, and the six steps unfold that at their own words alone. Unrelationing is universal bi-moral co-agency, and the prefixing says the universal the unfolding arrives at. **Unrelationing is at a coupling and never names no coupling**: each self's forming relates to nothing not its own, and the self couples with the other, offering its own parity one at a time, alternating, and releasing and completing at its own momentary.
 
-**Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking, and no prescribed rate supplies it; a rate named as a value is that changing taken one-way at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers and at no line of the code. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, with no origin and no facing first across the couplings, it is geodesic discovering, parity changing routing on the surface, and facing into the arriving carries no next parity ahead of it.
+**Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking, and no prescribed rate supplies it; a rate named as a value is that changing named still at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers and at no line of the code. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, with no origin and no facing first across the couplings, it is geodesic discovering, parity changing routing on the surface, and facing into the arriving carries no next parity ahead of it.
 
 ## 5.3 a self — binary
 
@@ -1509,7 +1509,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 | **co-bi-sequencing**, the sequencing of four-momentarying, co at the self and bi at the other, one local momentary 1 to 9 | co-sequencing, one sense with it, 2.5; co-sequential; binary co-sequential, whole at a title |
 | **bi-inversioning-co-recursioning**, one move at three faces | bi-co-recursioning; bi-inversioning co-recursioning, spaced; co-recursioning alone; bi-inversioning alone; bi-inverting; sign inversioning; the one below it plus eight |
 | **each resolver name**, at its number | each gathered name and code name, at its number, 3.3 |
-| **the ten named still**, one name each | each one's similar namings at its own row; the ten one-way readings; *ten holdings*; *ten standings*; the ten |
+| **the ten named still**, one name each | each one-way reading's similar namings at its own row, 4.9; the ten one-way readings; *ten holdings*; *ten standings*; the ten |
 | **16-other-social-torusing**, the society wound | the social-self-torusing |
 | **attentioning**, the carrying at the now at each momentary, at Natural Intelligence | the carrying's opening by one, gathered at 16 to v371 and released with the old code |
 | **the between**, two offering, a nothing at each of its scales | a membrane; at the membrane, the boundings at 2, 4, 6 and 8, now the bi-couplings outward; the membranes between selves; sixteen membranes between the 17 primes; a file is a membrane |
