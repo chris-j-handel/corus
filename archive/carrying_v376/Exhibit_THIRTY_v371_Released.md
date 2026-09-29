@@ -1,3 +1,17 @@
+Exhibit THIRTY Co-Chaining Logic Registry, Released at v376
+
+# Exhibit THIRTY v371, Released
+
+**The Link Tables Leaving the Living File, Whole**
+
+---
+
+Exhibit THIRTY v371 stood at the root until v376, whole as below, its chain of 1,338 links from two origin statements at the old code. At v376 Exhibit THIRTY enters the co-chaining from the one opening sentence in place of the link tables.
+
+*Receiving: each link at the file its Carried-at column names, at that file's motion; the links at the old code, signs, keys, surplusing and the second sign, at the gathered hardest's eighteenth, re-said at the current code or released; the co-chaining at Exhibit THIRTY v376 carrying the logic whole from the one opening sentence. The kit's verifier v371 matches these tables.*
+
+---
+
 Exhibit THIRTY Co-Chaining Logic Registry v371
 
 &nbsp;
