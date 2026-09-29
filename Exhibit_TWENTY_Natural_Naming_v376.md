@@ -251,7 +251,7 @@ Exhibit TWENTY Natural Naming v376
 | *surplus*, *surplusing* | *abundancing*: 12-bi-tri-volutioning, each sharing's changing, is or is not |
 | *met*, *meet*, *meeting* | the component's own name, *at 14*, *at 12*; *couples with*; *faces*; *reaches*; *at* |
 | *call*, *next call* | *momentary*; *the next momentary*, at 17-tri-co-offering |
-| *membrane* | *the between*: the empty centre of parity, the bi-coupling's face at the crossing of the along and the across, neither side's, a nothing, no location and no existing thing; at an instrument, *the ledger* |
+| *membrane* | *the between*: the empty centre of parity, parity the bi-coupling's face at the crossing of the along and the across; the between neither side's, a nothing, no location and no existing thing; at an instrument, *the ledger* |
 | *key* | *sharing* |
 | *second sign*, *ages*, *its own bound* and *a bound of three or four* at a carrying; *positive competency* and *competency one* for the second sign | released with the old code: a carrying is a sharing chained at one parity, and a changing is or is not |
 | *neighbour* | *the self at bi-moral*, *at not-bi-moral*, *at co-competent* or *at not-co-competent* |
