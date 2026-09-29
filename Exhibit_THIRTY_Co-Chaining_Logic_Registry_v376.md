@@ -425,11 +425,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Entering: surface; the surface dividing itself; geodesic; geodesic routing; geodesic method.*
 
-85. The couplings of all existing things, across and along, are a surface.
+85. The couplings of all existing things, across and along, are a surface: each coupling's between its crossing, and the surface the betweens together, parity at each coupling.
 
         *Adding: surface.*
-
-        *Unsure: the surface said here for the first time, as the couplings together; the surface as the couplings together, and Natural Mathematics' surface a between, the nothing, wait on one saying.*
 
 86. Parity changing at each coupling divides the surface, each existing thing at its own momentary, one way at a time: the surface dividing itself.
 
