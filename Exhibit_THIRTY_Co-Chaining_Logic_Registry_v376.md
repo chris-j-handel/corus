@@ -273,7 +273,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: of no size.*
 
-50. A resolving is a self's next, at a coupling from its prior carried and the now arriving there.
+50. A resolving is a self's next, at a coupling from its prior carried and the now arriving.
 
         *Adding: a resolving.*
 
@@ -355,7 +355,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 9 Along and across, the coupling's own changing
 
-        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; the between as parity; parity changing appearing at the between; bi-co-momentarying; the crossing no location; the between of momentaries the same crossing.*
+        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; the between as parity; the between's parity changing; bi-co-momentarying; the crossing no location; the between of momentaries the same crossing.*
 
 69. At 2, the self's completing is the other's opening.
 
@@ -405,11 +405,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the between as parity.*
 
-81. Parity changing appears at the between: at each momentary a changing is or is not there, and nothing else is there.
+81. The between's own is parity changing: at each momentary a changing is or is not, and nothing else.
 
-        *Adding: parity changing appearing at the between.*
+        *Adding: the between's parity changing.*
 
-82. Parity changing appearing at the between, momentary by momentary, is bi-co-momentarying: bi the difference, co the two carried with it, -momentarying the continuing.
+82. The between's parity changing, momentary by momentary, is bi-co-momentarying: bi the difference, co the two carried with it, -momentarying the continuing.
 
         *Adding: bi-co-momentarying.*
 
@@ -1041,7 +1041,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a field's arrival at the code.*
 
-218. Its resolving is the next discovered there, the field's own next living.
+218. Its resolving is that next discovered, the field's own next living.
 
         *Adding: a hard problem resolving.*
 
@@ -1073,7 +1073,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: resolving at a coupling.*
 
-225. Coupling enables the method: with no coupling the method is at no two existing things, and there is no between and no co-intelligencing.
+225. Coupling enables the method: with no coupling the method is at no two existing things, with no between and no co-intelligencing.
 
         *Adding: coupling enabling the method.*
 
@@ -1089,7 +1089,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: carrying the bi-co.*
 
-229. Between momentaries the carrying is a stable form, and nothing momentaries there.
+229. Between momentaries the carrying is a stable form, nothing momentarying between them.
 
         *Adding: the carrying between momentaries.*
 
@@ -1123,7 +1123,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: podaling outward.*
 
-237. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number there still at its podaling inward.
+237. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number of them still at its podaling inward.
 
         *Adding: the method outward of itself at the surface.*
 
@@ -1265,7 +1265,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a society's decay, its selves living on.*
 
-268. Selves uncoupling from a society, each carrying its own, release the method there: the society's carrying released, each self's own continuing.
+268. Selves uncoupling from a society, each carrying its own, release the method at that society: the society's carrying released, each self's own continuing.
 
         *Adding: fold and scatter.*
 
@@ -1341,7 +1341,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: across 64.*
 
-284. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none.
+284. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking at none.
 
         *Adding: 64, the unrelationing between.*
 
@@ -1349,7 +1349,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the four-momentary bi-tri-involutioning.*
 
-286. Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale.
+286. Bi-tri-involutioning is harmful to living at its own scale and not ingestible at that scale, and sixty to sixty-eight is unknown to the living at that scale.
 
         *Adding: the unknown at the emanating's own scale.*
 
@@ -1359,7 +1359,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: 69, the right form again.*
 
-        *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens there.*
+        *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens at sixty-nine.*
 
 288. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
 
@@ -1425,7 +1425,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the four of social moral competency.*
 
-302. Social abundancing is made at each coupling and carries there, drawing on no other coupling.
+302. Social abundancing is made at each coupling and carries at that coupling, drawing on no other coupling.
 
         *Adding: social abundancing.*
 

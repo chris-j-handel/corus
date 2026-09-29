@@ -76,7 +76,7 @@ Exhibit FOUR Natural Mathematics v376
 
 ## 1.2 Numbers, mathematics and logic, nature's own method
 
-**Numbers, mathematics and logic are nature's own unrelationing binary method.** Each integer is the one form once more, and a number cohering with a form is no abstract number reaching nature across a gap: there are no two sides. A number, a ratio or a straddle continuing the form carries as nature's own method at the numbers.
+**Numbers, mathematics and logic are nature's own unrelationing binary method.** Each integer is the one form once more, and a number cohering with a form is no abstract number reaching nature across a gap, with no two sides. A number, a ratio or a straddle continuing the form carries as nature's own method at the numbers.
 
 **The universe is the changing set of all existing things, both living and non-living.** Alternating is its one method, and numbers, mathematics and logic are that alternating at its numbers and at its sequencing: the co-sequential stable-forming of the living and the patterns in the sequencing of the prior momentary emanatings from living.
 
@@ -140,7 +140,7 @@ Exhibit FOUR Natural Mathematics v376
 
 ## 2.4 Two parities at the right spiral step, the step that takes nothing away
 
-**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and there are 256 steps from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), the quarter step i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
+**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 steps go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), the quarter step i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
 
 **Of the 24 steps sending the four forms onto the four, one each, six run the four as one cycle, and two of those six change one parity at each step: F and G.** Under each the only sets of forms carried onto themselves are none and all four.
 
