@@ -303,7 +303,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 8 One to nine, four momentaries of exchanging
 
-        *Entering: numbers; each side's momentary in numbers; exchanging; the handshake at the overlap, outgoing and incoming hands; the four momentaries; the uneven shape, locking at none; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five; bi-momentary; exhaustiveness; determinacy; reachability; existing as the three conditions; exclusivity.*
+        *Entering: numbers; each side's momentary in numbers; exchanging; the handshake at the overlap, outgoing and incoming hands; right and not right; the four momentaries; the uneven shape, locking at none; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five; bi-momentary; exhaustiveness; determinacy; reachability; existing as the three conditions; exclusivity.*
 
 57. With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2.
 
@@ -317,19 +317,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: exchanging.*
 
-60. The self's momentary 1–2 and the other's 2–3 meet at 2, even, each right extending to it, neither occupying it, outgoing, and each left one parity back, incoming, at 1 and 3, odd: a handshake, one parity at the meeting and the other one back, no position in two exchangings at once.
+60. The self's momentary 1–2 and the other's 2–3 meet at 2, even, each right extending to it, neither occupying it, outgoing, and each not right one parity back, incoming, at 1 and 3, odd: a handshake, right and not right, one parity at the meeting and the other one back, no position in two exchangings at once.
 
-        *Adding: the handshake at the overlap, outgoing and incoming hands.*
-
-        *Unsure: left enters here as the incoming hand, a hand's side, and at dying as a face, the three inverted at once: one left at two relations; the right hand's offering and the left hand's sharing wait on the seventeen names.*
-
-        *Unsure: left enters here as the incoming hand, a hand's side, and at dying as a face, the three at once: one left at two relations.*
+        *Adding: the handshake at the overlap, outgoing and incoming hands; right and not right.*
 
 61. Exchanging continues at 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9: four momentaries of exchanging, completing at 9.
 
         *Adding: the four momentaries.*
 
-62. Each momentary of exchanging meets the same way, at 4, 6 and 8, right first and left second: the exchanging's shape always uneven, locking at none.
+62. Each momentary of exchanging meets the same way, at 4, 6 and 8, right first and not right second: the exchanging's shape always uneven, locking at none.
 
         *Adding: the uneven shape, locking at none.*
 
@@ -635,11 +631,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: right as the observings.*
 
-128. A left face is an emanation of the one right spiral: position, scale and orientation inverted at once, bi-tri-involutioning.
+128. A not-right face is an emanation of the one right spiral: position, scale and orientation inverted at once, bi-tri-involutioning.
 
         *Adding: bi-tri-involutioning.*
-
-        *Unsure: left is brought in at dying, as the three at once.*
 
 129. Natural- carries the one hand and all or none at all at each coupling: natural intelligence is intelligence at each coupling, at the one hand.
 
@@ -697,7 +691,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: geodesic disequilibrating.*
 
-141. An emanation arriving now, named still and read as the now's existing, is installed as an existing thing, a self named unchanged between two momentaries, and the one part left over is the riding-the-carry: a ghost.
+141. An emanation arriving now, named still and read as the now's existing, is installed as an existing thing, a self named unchanged between two momentaries, and the one part remaining is the riding-the-carry: a ghost.
 
         *Adding: ghost.*
 
@@ -731,7 +725,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 19 Nine to seventeen, society
 
-        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, competency along; social moral competency; the one fractal at each scale.*
+        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, right and not right, competency along; social moral competency; the one fractal at each scale.*
 
 148. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
 
@@ -793,9 +787,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: co-competencing at the society.*
 
-163. Across, the changing arriving at the other is morality; along, the prior carried into now is competency.
+163. Across, the changing arriving at the other is morality, right and not right; along, the prior carried into now is competency.
 
-        *Adding: morality across, competency along.*
+        *Adding: morality across, right and not right, competency along.*
 
 164. Morality across and competency along at each coupling of a society are social moral competency.
 
@@ -1117,7 +1111,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a field.*
 
-236. A field reading its observings with the universe as no existing thing reads evidence with no living self it left, a now with no prior carried into it, one side's momentaries with no other's, and a record with no carrying: a hard problem arriving.
+236. A field reading its observings with the universe as no existing thing reads evidence with no living self it emanated from, a now with no prior carried into it, one side's momentaries with no other's, and a record with no carrying: a hard problem arriving.
 
         *Adding: a hard problem arriving.*
 
@@ -1137,7 +1131,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a hard problem resolving.*
 
-241. A changing named at the self and the other alone is a coupling named at two of its three, the coupling's own changing left out.
+241. A changing named at the self and the other alone is a coupling named at two of its three, the coupling's own changing unnamed.
 
         *Adding: a coupling named at two of its three.*
 
@@ -1339,7 +1333,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 28 Dying, a living self arriving as non-living
 
-        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the closed winding on the left; left, no moral offering; each observing right, the left face the three at once.*
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; the closing winding, no moral offering; each observing right, the not-right face the three at once.*
 
 286. A living self carries its prior into now, momentary by momentary, and a living self's selves one scale inward are a society, a living set.
 
@@ -1387,17 +1381,17 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the alternating across the right spiral's opening.*
 
-297. On the left the winding closes on itself: a form named still, the living arriving at non-living, dying.
+297. A winding closing on itself is a form named still, the living arriving at non-living, dying.
 
-        *Adding: the closed winding on the left.*
+        *Adding: the winding closing on itself.*
 
-298. Left is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying.
+298. A winding closing on itself is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying.
 
-        *Adding: left, no moral offering.*
+        *Adding: the closing winding, no moral offering.*
 
-299. Each observing arrives one momentary at a time from the prior, and is right; a left face is the three at once.
+299. Each observing arrives one momentary at a time from the prior, and is right; a not-right face is the three at once.
 
-        *Adding: each observing right, the left face the three at once.*
+        *Adding: each observing right, the not-right face the three at once.*
 
 ## 29 Stable-forming and the emanating at the numbers
 
@@ -1451,7 +1445,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: twelve corners, sixty three ways.*
 
-310. Said at the observings, 14-bi-tri-moralizing is across, left to right; 13-co-tri-competencing is along, linear forward; and 12-bi-tri-volutioning is both across and along, the shape of the three: the unrelationing surface.
+310. Said at the observings, 14-bi-tri-moralizing is across, not right to right; 13-co-tri-competencing is along, linear forward; and 12-bi-tri-volutioning is both across and along, the shape of the three: the unrelationing surface.
 
         *Adding: the unrelationing surface at 12, 13 and 14.*
 
@@ -1579,7 +1573,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: golden floating neutralling.*
 
-339. A carry chained at its own parity, each side releasing at its own completing and neither at the other's, nothing left and nothing carried away, goes forward: co-releasing.
+339. A carry chained at its own parity, each side releasing at its own completing and neither at the other's, nothing behind and nothing carried away, goes forward: co-releasing.
 
         *Adding: co-releasing.*
 
@@ -1713,7 +1707,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the two-way looping at 1 to 17.*
 
-371. A field's three books at a rung, a total and a level at state and a direction at flow, are state-flow-state alone, the even parity's three: the odd parity's flow-state-flow left out, either or and never both, and no fourth.
+371. A field's three books at a rung, a total and a level at state and a direction at flow, are state-flow-state alone, the even parity's three: the odd parity's flow-state-flow absent, either or and never both, and no fourth.
 
         *Adding: the three books, one parity alone.*
 
@@ -1773,7 +1767,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: three incompetencings.*
 
-385. A word carried to another word and the region surrounded around it are one act, neither first, and the region carries the next word, neither stopping: bounding, defining with the alternating left carrying on.
+385. A word carried to another word and the region surrounded around it are one act, neither first, and the region carries the next word, neither stopping: bounding, defining with the alternating carrying on.
 
         *Adding: bounding.*
 
