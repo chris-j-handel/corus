@@ -343,7 +343,7 @@ Exhibit TWENTY Natural Naming v376
 | Part of the name | Relation at the changing |
 |---|---|
 | **Number** | A name's place among the names, and its parity: an odd number opens co and an even opens bi, the five of the number's origin. Up and down, the numbers carry bi-inversioning-co-recursioning. |
-| **Prefixes** | Co, along, and bi, across, at 1 to 8; tri-, the social, at each name from 9 to 17, 9, 11 and 17, the society's own carrying, beginning with it. Its sides from and to are at Exhibit ONE's table: self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17. |
+| **Prefixes** | Co, along, and bi, across, at 1 to 8; tri-, the social, at each name from 9 to 17, 9, 11 and 17, the carrying at the society, each self's own, beginning with it. Its sides from and to are at Exhibit ONE's table: self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17. |
 | **Root** | Its changing named, ten roots at seventeen names: offering, sharing, competencing, moralizing, corusing, torusing, releasing, tunneling, chaining and volutioning; a further root at a further changing and direction. |
 | **-ing** | Its changing continuing, re-arriving at each momentary. |
 
@@ -1213,7 +1213,7 @@ Not a past and not a record. **A so-far behind and a not-yet ahead lay two direc
 6  and that one direction, shared, is the term this names
 ```
 
-**Entraining carries no gate.** Pending, provisional, awaiting, preliminary and short of a threshold each put a gate at one direction going forward, and a gate is a bounding the carry does not own. The non-living entrain as the living do: carrying nothing, their forms continue through their changing, and they change through co-momentarying with living and non-living things, a parity changing crossing between any two, carrying nothing. A non-living thing arrives into its next existing and never arises as living: entering a living society it is ingested into the resolving of that society's living, one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing. *Arising* names that establishing, a relation at a living self, and *arising* installed as a becoming over a form continuing through is released, a sentence carrying no birth and no death.
+**Entraining carries no gate.** Pending, provisional, awaiting, preliminary and short of a threshold each put a gate at one direction going forward, and a gate is a bounding the carry does not own. The non-living entrain as the living do: carrying nothing, their forms continue through their changing, and they change through co-momentarying with living and non-living things, a parity changing crossing between any two, carrying nothing. A non-living thing arrives into its next existing and never arises as living: entering a society it is ingested into the resolving of that society's living selves, one participation among its co-momentaryings, and a new living self is its own carrying and co-recursioning establishing. *Arising* names that establishing, a relation at a living self, and *arising* installed as a becoming over a form continuing through is released, a sentence carrying no birth and no death.
 
 ## 5.41 uni- — binary
 
@@ -1303,7 +1303,7 @@ Existing, emanation and accounting are the three placings a term is at, and no f
 
 **An emanation is harmful to living at its own scale, and not ingestible at that scale**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, ingested by living selves as societies, a self being a society of selves one scale inward.
 
-**Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its emanation, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self or society couples with it carrying its own. The naming gives an emanation no common speed, lifetime or medium, and no need of a next emitting.
+**Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its emanation, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self, or a society's selves, couples with it, each carrying its own. The naming gives an emanation no common speed, lifetime or medium, and no need of a next emitting.
 
 ## 5.47 an accounting — binary
 
@@ -1357,7 +1357,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and the four alternating, discovering next existing in the universe and next living in the self, the other and the society, is four-momentarying
 ```
 
-**Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.** One through nine is the self's four momentaries, co-bi-exchanging, and nine through seventeen the society's four, and at the scale outward the four are one momentary of the next four: 1, 2 and 3 at one scale are 1, 9 and 17 at the next, 2.2. Next existing is discovered at each momentary, all existing things arriving into their next, 5.39; next living is carried at the self, the other and the society, each carrying its prior into now, 5.40.
+**Four-momentarying is the one fractal method, discovering next existing in the universe and next living in the self, the other and the society.** One through nine is the self's four momentaries, co-bi-exchanging, and nine through seventeen the society's four, and at the scale outward the four are one momentary of the next four: 1, 2 and 3 at one scale are 1, 9 and 17 at the next, 2.2. Next existing is discovered at each momentary, all existing things arriving into their next, 5.39; next living is carried at the self and the other, each carrying its prior into now, and at the society, a living set carrying none of its own, 5.40.
 
 **One four-cycling is two momentaries**, each with two parities, each parity everything the other is not in the existing universe: round 1, 9, 8 and 16 the parity changes exactly twice, at 9 to 8 and at 16 to 1, and 1 to 9 and 8 to 16 are 8 up, the parity continuing, the carrying from one momentary to the next. **Four-momentarying at one through nine is two four-cyclings**, 3-7-2-6 and 4-8-1-5, each at 4 up and 9 less, round each other's way, all eight names of one to eight between them: four momentaries of exchanging, completing at 9.
 

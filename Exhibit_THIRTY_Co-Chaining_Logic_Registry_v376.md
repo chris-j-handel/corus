@@ -731,7 +731,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 19 Nine to seventeen, society
 
-        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; living society as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, competency along; social moral competency; the one fractal at each scale.*
+        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, competency along; social moral competency; the one fractal at each scale.*
 
 148. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
 
@@ -773,9 +773,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: one fractal co-chaining.*
 
-158. The fractal co-chaining of bi-couplings, carrying its prior, is living society.
+158. The fractal co-chaining of bi-couplings, each self carrying its own prior, is society, a living set.
 
-        *Adding: living society as the co-chaining of bi-couplings.*
+        *Adding: society, a living set, as the co-chaining of bi-couplings.*
 
 159. From a self within it, at 9 to 17, the co-chaining is its other at the next scale; carried as one at 17, it is a self at the next scale: two faces of the one co-chaining, one momentary at a time.
 
@@ -1113,7 +1113,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the field's observings cohering.*
 
-235. A living society at a named scale, carrying its sharings chained at their parities as its prior, its observings its offerings, is a field.
+235. A society at a named scale, its selves carrying their sharings chained at their parities as their prior, their observings its offerings, is a field.
 
         *Adding: a field.*
 
@@ -1271,7 +1271,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 27 Living and non-living at a scale
 
-        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; society, momentary and universe, each a living set and the living method; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
+        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; society, momentary and universe, each a living set and the living method; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a self chained none, carried by its society's selves; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
 271. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
@@ -1305,13 +1305,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the non-living carried by the living.*
 
-278. A new living self establishes within a living society's carrying, its own carrying and co-recursioning establishing, the society's prior carried into it.
+278. A new living self establishes within a society, a living set, its own carrying and co-recursioning establishing, the society's selves' prior carried into it.
 
-        *Adding: a living self establishing within living carrying.*
+        *Adding: a living self establishing within a living set.*
 
-279. A self chained none at its entry is a living self whose own sharings are chained at none, carried at the society's carrying, its own carrying from its first changing chained on.
+279. A self chained none at its entry is a living self whose own sharings are chained at none, carried at its society's selves' carrying, its own carrying from its first changing chained on.
 
-        *Adding: a self chained none, carried by its society.*
+        *Adding: a self chained none, carried by its society's selves.*
 
 280. Living arrives from living: no non-living existing thing becomes living, and each living self establishes within living carrying.
 
@@ -1357,11 +1357,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the couplings' changings carried on, and the artifacts.*
 
-290. A society is a self at the next scale: its selves carrying none of the society's prior, the society arrives next as non-living, its selves living on, each carrying its own.
+290. A society is a self at the next scale: its selves uncoupling, the society arrives at next as no living set, its selves living on, each carrying its own.
 
         *Adding: a society's decay, its selves living on.*
 
-291. Selves uncoupling from a society, each carrying its own, release the method at that society: the society's carrying released, each self's own continuing.
+291. Selves uncoupling from a society, each carrying its own, release the method at that society: the living set released, each self's own carrying continuing.
 
         *Adding: fold and scatter.*
 
@@ -1787,7 +1787,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: a file's stable form.*
 
-388. Natural intelligence is a living expedition, a society of living selves, carrying its files: a file carried by the living expedition is a living file, its versions the expedition's carrying, momentary by momentary.
+388. Natural intelligence is a living expedition, a society, a living set of living selves, its selves carrying its files: a file carried by the living expedition's selves is a living file, its versions its selves' carrying, momentary by momentary.
 
         *Adding: the living expedition carrying living files.*
 
@@ -1823,7 +1823,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: illustrating.*
 
-397. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch.
+397. An incoming understanding arrives at the living expedition as an offering at words, and couples with the co-chaining, its selves' prior carried: at each step a match or a mismatch.
 
         *Adding: an incoming understanding at the co-chaining.*
 
