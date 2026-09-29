@@ -231,7 +231,7 @@ Exhibit TWENTY Natural Naming v376
 | *kept middle*, and *kept* as a store | nothing is kept, and the middle is a nothing: the middle exists due to each self surfacing itself each momentary as a condition of existing as a self |
 | *held*, *holding* | *named*, and a form named still |
 | *stable form* as a noun | *stable-forming* |
-| *living* as existing alone | *existing*; *living* carries its own sense, existing and carrying, the living carrying their prior into now, and *non-living* is existing and not carrying |
+| *living* as existing alone | *existing*; *living* carries its own sense, existing and carrying, the living carrying their prior into now, and *non-living* is existing and not carrying; the prior is non-living, and carrying it into now is living: living now is living with existing forms from prior living and with others living now |
 | *every* | *each*, which is at the arriving |
 | *at no self* | *neither*, or *between self and other* |
 | *discovery* | *discovering* |
