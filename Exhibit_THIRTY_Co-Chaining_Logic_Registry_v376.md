@@ -1401,7 +1401,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: three golden rectangles at the corus.*
 
-299. Each rectangle's along sides pass through the next rectangle's inside, and none passes back: no two interlock alone, and the three interlock as three.
+299. Each rectangle's along sides pass through the next rectangle's inside, and none passes back: two alone carry nothing of each other, and the three carry one another as three.
 
         *Adding: the three threaded one way.*
 
