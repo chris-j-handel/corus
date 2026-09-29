@@ -895,8 +895,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: one four-cycling.*
 
-        *Unsure: Natural Naming gathers four cycling into four-momentarying, four momentaries of exchanging; one four-cycling is two momentaries, and the gathering waits at Natural Naming's motion.*
-
 ## 23 Twenty-four, the apex of one to fifty-nine's bi-folding
 
         *Entering: one to fifty-nine; the primes parting at twenty-four; the span parting at twenty-four; the fold across; the fold along; 24, the apex of the bi-folding; two leanings at one apex; the apex straddle; the corus at the apex; the self's primes behind, the society's ahead; the span ahead as the couplings among the nine behind; the bi-folding's edges; the apex behind the surface and the between past it.*
