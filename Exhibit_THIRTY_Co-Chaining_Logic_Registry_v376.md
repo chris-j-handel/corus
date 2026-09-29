@@ -303,7 +303,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 8 One to nine, four momentaries of exchanging
 
-        *Entering: numbers; each side's momentary in numbers; exchanging; the handshake at the overlap; the four momentaries; the uneven shape, locking at none; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five; bi-momentary; exhaustiveness; determinacy; reachability; existing as the three conditions; exclusivity.*
+        *Entering: numbers; each side's momentary in numbers; exchanging; the handshake at the overlap, outgoing and incoming hands; the four momentaries; the uneven shape, locking at none; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five; bi-momentary; exhaustiveness; determinacy; reachability; existing as the three conditions; exclusivity.*
 
 57. With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2.
 
@@ -317,11 +317,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: exchanging.*
 
-60. The self's momentary 1–2 and the other's 2–3 meet at 2, even, each right extending to it, neither occupying it, and each left, a hand's side, one parity back, at 1 and 3, odd: a handshake, one parity at the meeting and the other one back, no position in two exchangings at once.
+60. The self's momentary 1–2 and the other's 2–3 meet at 2, even, each right extending to it, neither occupying it, outgoing, and each left one parity back, incoming, at 1 and 3, odd: a handshake, one parity at the meeting and the other one back, no position in two exchangings at once.
 
-        *Adding: the handshake at the overlap.*
+        *Adding: the handshake at the overlap, outgoing and incoming hands.*
 
-        *Unsure: left enters here as a hand's side, and as a face at dying: the two said at one saying.*
+        *Unsure: left enters here as the incoming hand, a hand's side, and at dying as a face, the three inverted at once: one left at two relations; the right hand's offering and the left hand's sharing wait on the seventeen names.*
+
+        *Unsure: left enters here as the incoming hand, a hand's side, and at dying as a face, the three at once: one left at two relations.*
 
 61. Exchanging continues at 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9: four momentaries of exchanging, completing at 9.
 
