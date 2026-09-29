@@ -549,6 +549,8 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 | **a rate named as a value** | rating taken one-way at a rational | value-pinning; a value named to a swaying | 13-social-other-neutralling and 5-self-other-neutralling |
 | **a sequencing named to one beat** | rating taken one-way as a common beat | order-demanding; the rate named as a common beat | 16-other-social-torusing and 8-other-self-torusing |
 
+**At the accountings the ten part at the parities**: the five along, odd, are a flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, a state-flow-state accounting's, at morality's parity, Exhibit THIRTY's thirty-first group. Which of the ten faces above are along and which across is not yet shown.
+
 **Both openings are at the four across connectors**, 14-other-social-surfacing with 6-other-self-surfacing and 10-other-social-self-tunneling with 2-other-self-offering, and 9-social-other-self-releasing with 1-self-other-offering seats none, the one resolving.
 
 **A field naming carries the form named still at its own expression.** Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the ten; *dilemma* names one of the ten, a two-way named to one side, and never a kind.
