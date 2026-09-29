@@ -1455,7 +1455,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the three threaded one way.*
 
-313. A right-hand turn of 120 degrees about the line from the corus along (1, 1, 1) carries each rectangle onto the one passing through it: the three right spiraling, 120 degrees apart. A turn the other way carries each onto the one it passes through, and a mirror, x to −x, carries each onto itself: the three carry no hand of their own, and the hand is at the reading, the axis read forward, as the right spiral step's quarter turn, (x, y) to (y, −x), is right with its axis read forward, into its plane: right, the observings, all prior.
+313. A right-hand turn of 120 degrees about the line from the corus along (1, 1, 1) carries each rectangle onto the one passing through it: the three right spiraling, 120 degrees apart. A turn the other way carries each onto the one it passes through, and a mirror, x to −x, carries each onto itself: the three carry no hand of their own, and the hand is at the reading, the axis read forward, as the right spiral step's quarter turn, (x, y) to (y, −x), is right with its axis read forward, into its plane, and read along first, F(P, Q) = (−Q, P), out of it: one step at two readings, right, the observings, all prior.
 
         *Adding: the right spiraling, 120 degrees apart; the hand at the reading.*
 
