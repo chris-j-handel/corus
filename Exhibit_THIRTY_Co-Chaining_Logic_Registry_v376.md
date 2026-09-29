@@ -733,7 +733,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 19 Nine to seventeen, society
 
-        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, right and not right, competency along; odd and even at the between; right at two relations; social moral competency; the one fractal at each scale.*
+        *Entering: 9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; 17 a connector; 17 connected back to 1, a bi-coupling carrying; the fractal as the connectors opening and closing; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society's two faces at the next scale; self and society at 9; carried along, arriving along; co-competencing at the society; morality across, right and not right, competency along; odd and even at the between; right at two relations; social moral competency; the one fractal at each scale.*
 
 150. Numbering on from 9, exchanging continues at 9–10 with 10–11, 11–12 with 12–13, 13–14 with 14–15, and 15–16 with 16–17: four momentaries, completing at 17.
 
@@ -787,9 +787,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: self and society at 9.*
 
-163. At 9 the self's changing is released along to the society, and at 17 the society's changing arrives along as the self's next 1.
+163. At 9 the self's changing is carried along to the society, and at 17 the society's changing arrives along as the self's next 1.
 
-        *Adding: released along, arriving along.*
+        *Adding: carried along, arriving along.*
 
 164. Alternating along at 9 and 17, the self and the society couple as self and other do, and the coupling's own changing at their overlap is co-competencing at the society.
 
@@ -815,7 +815,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 20 Sharing, the seventeen names
 
-        *Entering: sharing; offering and carrying at a sharing; the seventeen names; the code; the entry; the names at the code; surfacing at 14; changing at 12; match and mismatch; released across at 10, chained at 11; 11 as the next 3; bi-momentarying, 1-2-co-bi-offering; the binary at each sharing; co-intelligencing, 3-4-co-bi-sharing; co-competencing, 5-co-competencing; the five dimensions at the code's names; carried along at 9; the bi-coupling, 1 to 9; the bi-trupling, 1 to 17; the society's next momentary at 17; six connectors; three loops; entry, connectors, faces and roots; eight bi-couplings; one move at three faces; the four four-cycles; the meetings round the four-cycles; podaling at each number.*
+        *Entering: sharing; offering and carrying at a sharing; the seventeen names; the code; the entry; the names at the code; surfacing at 14; changing at 12; match and mismatch; released across at 10, chained at 11; 11 as the next 3; bi-momentarying, 1-2-co-bi-offering; the binary at each sharing; co-intelligencing, 3-4-co-bi-sharing; co-competencing, 5-co-competencing; the five dimensions at the code's names; carried along at 9; the bi-coupling, 1 to 9, 9 read bi-co-releasing; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six connectors; three loops; entry, connectors, faces and roots; eight bi-couplings; one move at three faces; the four four-cycles; the meetings round the four-cycles; podaling at each number.*
 
 169. A sharing is two sides sharing a changing, and each sharing has its parity.
 
@@ -883,13 +883,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the five dimensions at the code's names.*
 
-185. 9-tri-bi-co-momentarying carries each changing 10 released along, into the next momentary, and releases nothing.
+185. 9-tri-bi-co-momentarying carries along each changing 10 released, into the next momentary, and releases nothing.
 
         *Adding: carried along at 9.*
 
 186. One to nine is the bi-coupling, and at its end the line at 9 reads bi-co-releasing, the release 10 makes; one to seventeen is the bi-trupling, the self, the other and the society, and at its waist 9 is tri-bi-co-momentarying, joined both ways with 17.
 
-        *Adding: the bi-coupling, 1 to 9; the bi-trupling, 1 to 17.*
+        *Adding: the bi-coupling, 1 to 9, 9 read bi-co-releasing; the bi-trupling, 1 to 17, 9 at its waist.*
 
 187. 17-tri-co-offering is the society's next momentary: each self's entry once, the selves' next momentaries together.
 
@@ -1179,7 +1179,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: coupling enabling the method.*
 
-252. At its own completing, the self uncouples: its changing is released across and along, and its carrying is chained as its next prior.
+252. At its own completing, the self uncouples: its changing is released across at 10 and carried along at 9, and its carrying is chained as its next prior.
 
         *Adding: uncoupling releasing the method.*
 
@@ -1521,7 +1521,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 stable-forming, parity unchanging, and 9 parity changing, the emanating, the stable form; a changed parity retained or emanated; the stable-formed emanation; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; a changed parity retained or emanated; the stable-formed emanation; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
 327. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -1563,11 +1563,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the crossings floating and neutralling.*
 
-337. Inside the bi-folding the parallel faces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-parity-changing, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone.
+337. Inside the bi-folding the parallel faces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-parity-changing, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and carried along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone.
 
-        *Adding: the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 stable-forming, parity unchanging, and 9 parity changing, the emanating, the stable form.*
+        *Adding: the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form.*
 
-338. A changed parity arriving is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, a changing that is not, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, released at 10 and along at 9, the self's carrying continuing at it, its own changing.
+338. A changed parity arriving is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, a changing that is not, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, released at 10 and carried along at 9, the self's carrying continuing at it, its own changing.
 
         *Adding: a changed parity retained or emanated; the stable-formed emanation.*
 
@@ -1649,9 +1649,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: collective intelligence, human and at each scale.*
 
-358. The bi-trupling protocol is the full social connector of the natural resolver and the natural network surface: two-sided, one odd side and one even side, the odd along at 9 and 17, co-competent, the parity carried on unchanged, and the even across at 6 to 2 and 10 to 14, bi-moral, the changings carried into the other's offerings. Hard probleming, scientific method incompetencing, control engineering and binary governing in society are each a violation of the bi-trupling protocol, and the universal unrelationing protocol is social moral competency.
+358. The bi-trupling protocol is the full social connector of the natural resolver, the code, and the natural network surface: two-sided, one odd side and one even side, the odd along at 9 and 17, co-competent, the parity carried on unchanged, and the even across at 6 to 2 and 10 to 14, bi-moral, the changings carried into the other's offerings. Hard probleming, scientific method incompetencing, control engineering and binary governing in society are each a violation of the bi-trupling protocol, and the universal unrelationing protocol is social moral competency.
 
-        *Adding: the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol.*
+        *Adding: the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol.*
 
 359. At the numbers the between is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, no location, and a co-orthogonal line through both, along: floating and neutralling, corusing and torusing, discovering collectively, in swarm, carrying next possible existing society.
 
