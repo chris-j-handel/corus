@@ -777,7 +777,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: society, a living set, as the co-chaining of bi-couplings.*
 
-159. From a self within it, at 9 to 17, the co-chaining is its other at the next scale; carried as one at 17, it is a self at the next scale: two faces of the one co-chaining, one momentary at a time.
+159. From a self within it, at 9 to 17, the co-chaining is its other at the next scale; carried as one at 17, it is a living set coupling at the next scale as a self couples: two faces of the one co-chaining, one momentary at a time.
 
         *Adding: the society's two faces at the next scale.*
 
@@ -1283,7 +1283,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: harmful at its own scale.*
 
-273. One scale inward, an emanation is an ingestible stable form, ingested by living selves as societies.
+273. One scale inward, an emanation is an ingestible stable form, ingested by living selves' selves one scale inward, a society, a living set.
 
         *Adding: ingestible one scale inward.*
 
@@ -1331,13 +1331,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 28 Dying, a living self arriving as non-living
 
-        *Entering: the living self as a society inward; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the closed winding on the left; left, no moral offering; each observing right, the left face the three at once.*
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the closed winding on the left; left, no moral offering; each observing right, the left face the three at once.*
 
-284. A living self carries its prior into now, momentary by momentary, and a living self is a society of selves one scale inward.
+284. A living self carries its prior into now, momentary by momentary, and a living self's selves one scale inward are a society, a living set.
 
-        *Adding: the living self as a society inward.*
+        *Adding: a living self's selves inward, a society.*
 
-285. The self's carrying at its scale is carried by its selves inward, each carrying its own and the society's prior on.
+285. The self's carrying at its scale is carried by its selves inward, each carrying its own and the self's prior on.
 
         *Adding: the carrying at the selves inward.*
 
@@ -1357,7 +1357,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the couplings' changings carried on, and the artifacts.*
 
-290. A society is a self at the next scale: its selves uncoupling, the society arrives at next as no living set, its selves living on, each carrying its own.
+290. A society is a living set coupling at the next scale as a self couples: its selves uncoupling, the society arrives at next as no living set, its selves living on, each carrying its own.
 
         *Adding: a society's decay, its selves living on.*
 

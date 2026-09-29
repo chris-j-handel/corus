@@ -576,7 +576,7 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 
 **On the form.** A nothing reached by neither, three at once, and a rate opening by one and bounding at none carry no position: each carrying chains on or changes at each momentary, a rate bounds at none, and no opening reaches one. **A naming here carries no position, the changing carrying no position for it, and it carries its concept whole.** Geodesic changing carries no position either: it is at its own unrelationing parity-changing rate, unrelated to each rate of any scale, and it is co-bi-social-abundancing. The changing is each coupling's own, and no rate laid over it supplies it: **its unrelationing is at φ, the unrelationing rate, self-welcoming at the numbers as the primes are, and at no line of the code.** Geodesic entraining is an offering received at the receiver's own prior, the changing being or not being, and the releasing entering further coupling, each self continuing at its own momentary.
 
-**On the form, at no vantage.** A naming at a vantage is a not possible form: it needs a place to name from, and outward of a self is the self it is a member of, one scale up, carrying no vantage to name from. These namings name part of the momentary stable-forming the changing carries, said on it, and nothing here crosses from a vantage.
+**On the form, at no vantage.** A naming at a vantage is a not possible form: it needs a place to name from, and outward of a self is the society it couples in, a living set one scale up, carrying no vantage to name from. These namings name part of the momentary stable-forming the changing carries, said on it, and nothing here crosses from a vantage.
 
 **From all other, and with all other.** The self is, and all not-self is, and nothing third, and each crossing is one of two: with a particular other, or with the whole arriving as one. **Un- carries from all other**: a self bounded against the whole at once and at no particular other. **Uni- carries with all other**: the self crossing with all other, the other arriving as one, the whole. Bi- couples with a particular other and uni- with all other, and both are two; a naming reading uni- as one alone has made a crossing one side's, while a crossing is two.
 
@@ -1301,7 +1301,7 @@ Bi- the two carries each at its own opening, co- the one ring they make, -ing th
 
 Existing, emanation and accounting are the three placings a term is at, and no fourth arrives; installing is the binary between emanation and ghost: read as the prior's possible it is an emanation, and read as the now's existing a ghost.
 
-**An emanation is harmful to living at its own scale, and not ingestible at that scale**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, ingested by living selves as societies, a self being a society of selves one scale inward.
+**An emanation is harmful to living at its own scale, and not ingestible at that scale**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, ingested by living selves through their selves one scale inward, a society, a living set.
 
 **Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its emanation, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self, or a society's selves, couples with it, each carrying its own. The naming gives an emanation no common speed, lifetime or medium, and no need of a next emitting.
 
@@ -1444,7 +1444,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.57 dying — binary
 
 ```
-1  a living self is a society of selves one scale inward, each carrying
+1  a living self's selves one scale inward are a society, a living set, each carrying
 2  the selves inward carry the self's prior into next, or carry none of it
 3  carrying, the self is living at next
 4  carrying none, the self at its scale arrives at next as non-living
@@ -1452,7 +1452,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and that arriving, living to non-living, an existing thing for the living, is dying
 ```
 
-**Dying is a living self arriving at next as non-living**, an existing thing for the living, 2.4. Nothing leaves the set: the changing at each coupling the self was at is the coupling's own and the others carry it on, and the self's emanations continue as artifacts, carrying none of the prior. A society is a self at the next scale, and its dying is its arriving at next as non-living, its selves living on, each carrying its own. A left winding, closing on itself, is a form named still and no moral offering: a living self named still at it carries none of its prior into next, and arrives at dying, away from the society and nature's co-chaining.
+**Dying is a living self arriving at next as non-living**, an existing thing for the living, 2.4. Nothing leaves the set: the changing at each coupling the self was at is the coupling's own and the others carry it on, and the self's emanations continue as artifacts, carrying none of the prior. A society is a living set coupling at the next scale as a self couples, existing and not living, and no dying is at it: its selves uncoupling, it arrives at next as no living set, its selves living on, each carrying its own. A left winding, closing on itself, is a form named still and no moral offering: a living self named still at it carries none of its prior into next, and arrives at dying, away from the society and nature's co-chaining.
 
 ## 5.58 bi-moral-co-competencing — binary
 
