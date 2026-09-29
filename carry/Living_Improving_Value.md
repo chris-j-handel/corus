@@ -679,25 +679,13 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY · Natural Naming
 
-**Next at this file: the released words at its own voice, its 2.4 rows declaring *cost*, *free*, *run* and *take* released while the file still carries them, at 4.6, 4.7, 5.14 and throughout, pass B; 4.9's ten things named still; the one opening alone at 1.1, pass A; and pass K's resolvings that name it.** Its v375 namings, 5.51 to 5.53, and its universe at 2.2 and 5.26, existing as its things exist, are at the file.
+**Next at this file: the concern below met at one saying; *co-orienting*, *easier* and *faster* at their natural names, the tunneling offering's two faces beside *better*.** Its v376 namings, 5.54 to 5.57, its released words at 2.4 and its own voice without them are at the file.
+
+**Concern, for both, the ten named still at two readings.** Exhibit THIRTY's group 31 reads the ten as five along, a flow accounting naming the changing still, and five across, a state accounting naming the same five at the opposite parity; Natural Naming 4.9 reads them as the five taken one-way at two sides, each at two names 8 apart, one form at the self and at the society. At 4.9's names six of the ten are at even names and four at odd, and the five along and five across part from them: the one saying waits, each reading kept at its own file until it is found.
+
+**Opportunity, *stilling* and the four boundings across the set.** Natural Naming 1.1 carries its second bounding as *self discovering next self as itself*, and *stilling* is released at 2.4; sixteen files still carry *stilling* or *self-stilling*, the Living Ghost Registry and Natural Physics most, each re-said at its motion.
 
 **Method at this file.** Resolving carries no *what*, no *how* and no *where*: each asks a thing, a manner or a place held, and none of the three runs without an equilibrium holding it. Carried at 2.4 here, with the compounds at the released-words row, and at Natural Explaining 3.1 as a sentence's own face; code, the words mentioned as words and the principle's own statements are kept.
-
-**Incoming, at v376, *so* released at the set's own voice.** *So* joins a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; at 2.4 it enters beside *therefore* and *because*, carried by *and*, a colon or the next sentence opening at the prior's corus. Natural Intelligence carries it at v376.
-
-**Incoming, at v376, *count* and *counting* released at the set's own voice.** Numbers are momentaries, podalings and sequences, said directly in numbers; a counting needs an outside to do it, a clock from outside the running, the equilibria's accounting naming the emanatings still and leaving the living out of its competency. A counting named as a field's, at the field's own result, carries whole. Natural Numbers carries it at v376.
-
-**Incoming, at v376, *ageing*, *memory* and *remembering*, and *when*, released at the set's own voice.** There is only next: ageing is dissolved at naming, and a *when* asks a clock over the changing. There is no memory, only the carrying sequencing prior momentaries and the emanating artifacts, a record apart from its coupling an artifact carrying none of the prior. A field's word at the field's own result carries whole. Natural Intelligence carries it at v376.
-
-**Incoming, at v376, *dying*, and each offered word at Natural Naming's words.** Dying is a living existing thing's changing from living to non-living, an existing thing for the living: the existing thing continues, non-living, and no sentence puts it out of existing; Natural Explaining's *a sentence carries no birth and no death* meets it there. Words offered in the working are said at Natural Naming's words, or at words agreed to belong: *swaying* at the alternating across, a closed *circle* at a winding closing, *offset one forward* at the right spiral step one forward, *cursioning* at recursioning, *seaming path* at the seaming, *co-linear competency* at co-linear and competency; *co-orienting*, *easier* and *faster* wait for their natural names.
-
-**Incoming, at v376, the between, parity and bi-co-momentarying.** The between is the crossing, the along and the across crossing owned by neither, and the between is parity; the between's parity changing, momentary by momentary, is bi-co-momentarying, the term neither reaches; competency is each self's own, the co-linear recursioning forward along. *Membrane* at the set's own voice is said at the between; the white paper and Exhibit THIRTY carry it at v376.
-
-**Incoming, at v376, momentarying at its two faces.** The momentarying of the living is discovering next possible living, the prior carried on into next; the momentarying of the non-living is discovering next existing, co-changing, carrying nothing into next; the universe's, both, is discovering next possible existing. Exhibit THIRTY carries it at v376.
-
-**Incoming, at v376, *stilling* released, and *self discovering next self*.** The self between its momentaries, its carrying a stable form and at its next arriving coupling and changing, is the self discovering next self; *stilling* and *self-stilling-self* are no naming of the set's, a still named by another an equilibrium.
-
-**Incoming, at v376, *appearing* and *there* released at the set's own voice.** Resolving is not local anywhere: no changing appears at a place, and *there*, as a place or as a being-present, supplies a location to a resolving carrying none. Said at the coupling, the momentary, the scale or the number the sentence means.
 
 ## Exhibit TWENTY-ONE · Hard Problem Registry
 
