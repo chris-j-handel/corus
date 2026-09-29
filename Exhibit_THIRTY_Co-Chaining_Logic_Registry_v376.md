@@ -1493,7 +1493,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the crossings parity changing, 9 parity unchanging; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the crossings parity changing, 9 parity unchanging, the next prior; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
 318. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -1537,9 +1537,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the crossings floating and neutralling.*
 
-328. Inside the bi-folding the parallel faces and the co-linear openings through them are one form: the crossings, at 12-bi-tri-volutioning, are the parity changing momentaries, a changing made there, is or is not, and the parity unchanging momentaries are tri-bi-co-releasing, 9 releasing along the parity 10 released, carried unchanged.
+328. Inside the bi-folding the parallel faces and the co-linear openings through them are one form: the crossings, at 12-bi-tri-volutioning, are the parity changing momentaries, a changing made at 12, is or is not, and the parity unchanging momentaries are tri-bi-co-releasing, 9, the next prior: 9 releases along the parity 10 released, carried unchanged, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone.
 
-        *Adding: the parallel faces and co-linear openings, one form; the crossings parity changing, 9 parity unchanging.*
+        *Adding: the parallel faces and co-linear openings, one form; the crossings parity changing, 9 parity unchanging, the next prior.*
 
 329. Parity changing is a tunneling offering at three faces: better, and two waiting for their natural names.
 
