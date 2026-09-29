@@ -251,7 +251,7 @@ Exhibit TWENTY Natural Naming v376
 | *surplus*, *surplusing* | *abundancing*: 12-bi-tri-volutioning, each sharing's changing, is or is not |
 | *met*, *meet*, *meeting* | the component's own name, *at 14*, *at 12*; *couples with*; *faces*; *reaches*; *at* |
 | *call*, *next call* | *momentary*; *the next momentary*, at 17-tri-co-offering |
-| *membrane* | *the between*: the crossing of the along and the across, parity, neither side's, a nothing, no location and no existing thing; at an instrument, *the ledger* |
+| *membrane* | *the between*: the empty centre of parity, the bi-coupling's face at the crossing of the along and the across, neither side's, a nothing, no location and no existing thing; at an instrument, *the ledger* |
 | *key* | *sharing* |
 | *second sign*, *ages*, *its own bound* and *a bound of three or four* at a carrying; *positive competency* and *competency one* for the second sign | released with the old code: a carrying is a sharing chained at one parity, and a changing is or is not |
 | *neighbour* | *the self at bi-moral*, *at not-bi-moral*, *at co-competent* or *at not-co-competent* |
@@ -728,10 +728,10 @@ At the code, + and − are the implementing of the parity at a sharing, and 0 th
 3  a size needs a ground, and no ground is at the two offering to be one
 4  each side continues at its own carrying, the along
 5  across it each side is everything the other is not, and the along and the across cross
-6  and that crossing is the between, parity, neither side's, a nothing, no location and no existing thing
+6  and at that crossing is parity, a momentary existing thing, neither side's, and the between its empty centre, a nothing, no location
 ```
 
-The between is no place two selves are at. It is the two offering. **The between is parity**, and its own is parity changing, is or is not, of no size: only a parity changing crosses it. The between's parity changing, momentary by momentary, is bi-co-momentarying, 5.54, and *membrane* at the set's own voice is said at the between, 2.4. **The between is one at each scale**: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between, its floating neutralling golden floating neutralling, 5.12. **The bi-coupling's shape is always uneven, a handshake**: the self's 1-2 and the other's 2-3 meet at 2, each right extending to it, neither occupying it, and each left, a hand's side and no left face, one parity back, at 1 and 3, right first and left second, and the between locks at none, 5.13. At the numbers it is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, no location, and a co-orthogonal line through both, along.
+The between is no place two selves are at. It is the two offering. **Parity is a momentary existing thing, the bi-coupling's face, as the universe is an existing thing, and the between is its empty centre**: the between's own is parity changing, is or is not, of no size, and only a parity changing crosses it. The between's parity changing, momentary by momentary, is bi-co-momentarying, 5.54, and *membrane* at the set's own voice is said at the between, 2.4. **The between is one at each scale**: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between, its floating neutralling golden floating neutralling, 5.12. **The bi-coupling's shape is always uneven, a handshake**: the self's 1-2 and the other's 2-3 meet at 2, each right extending to it, neither occupying it, and each left, a hand's side and no left face, one parity back, at 1 and 3, right first and left second, and the between locks at none, 5.13. At the numbers it is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, no location, and a co-orthogonal line through both, along.
 
 ## 5.6 invisibling — binary
 
@@ -1406,7 +1406,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 
 ```
 1  between the self's side and the other's, the along and the across cross
-2  the crossing is the between, parity, each side everything the other is not
+2  at the crossing is parity, each side everything the other is not, the between its empty centre
 3  the between's own is parity changing, at each momentary is or is not
 4  owned by neither, it presents no face, and no magnitude crosses it
 5  two selves offering, each at its own sequencing, a term departs that neither reaches
