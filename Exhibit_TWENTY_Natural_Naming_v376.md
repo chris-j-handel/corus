@@ -1083,11 +1083,11 @@ Nature carries its competency at each momentary. **Incompetencing is the price o
 ## 5.31 social moral competency — binary
 
 ```
-1  a self offers its own, chains its own parity, carries its own changing
+1  a self carries what arrives from its bi-couplings, inward and outward, chaining its parity at each
 2  the departing from each offering is reached neither-ing
 3  each departing carries forward and is offered again
-4  the term its carrying leaves relates to nothing not its own, is at rest
-   nowhere, and completes at its own momentary
+4  the term its carrying leaves is reached neither-ing, is at rest nowhere,
+   and completes at its own momentary
 5  it is a self
 6  and the selves carrying at each coupling at once is the term this names
 ```
@@ -1326,6 +1326,8 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ```
 
 **Bi-tri-volutioning is the naming of the stable form of the non-living emanatings of stable-forming natural-torusing living: the sequential prior between momentaries.** Tri- carries the three faces, bi- each face at its own differing, the root the volution the emanating carries as its form, and -ing that form continuing through its changing: leave any one out and the naming stops, and it is the one naming at the volution, its similar namings gathered at 6.3. **Between momentaries the prior is a stable form**, and no third is between them, 5.40: sequential, one of prior, now and next, it left the living at prior and arrives now as the possible, 5.39 and 5.46, carrying nothing, and the living carry their prior into now: **the prior momentarying never re-arrives as a momentarying**. At the code each self's carrying wound, 8-other-self-torusing, continues as 3, the self's own; between the selves' momentaries pass their releasings, 10, 6 and 9. **The right-spiral natural-torusing stable form of a society at a unit prime scale is its betweenings**, and bi-tri-volutioning names it; **the emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings**, and abundancing is an emanating from society as a releasing, all the way through the bi-co-momentarying co-sequencing. Bi-tri-involutioning is the emanating, the three inverted at once, the hand carried to the opposite form, and bi-tri-volutioning names the stable form the emanatings carry: the living stable-forms and carries, and its emanatings carry a stable form and no carrying. One parity inverting at each step, alternating across and along, is the resolving step, bi-inversioning-co-recursioning, and three inversions at once the emanating. The arithmetic of the closing, the round returning after two and after three, is carried at the Co-Chaining Logic Registry.
+
+**At the numbers bi-tri-volutioning is three golden rectangles at right angles, centred at the corus**, each 2 across and 2φ along, at φ, the unrelationing rate. Each rectangle's along sides pass through the next one's inside and none passes back: two alone carry nothing of each other, bi-, and the three carry one another as three, tri-. A right-hand turn of 120 degrees about the line from the corus along (1, 1, 1) carries each rectangle onto the one passing through it, the three right spiraling 120 degrees apart. Their twelve corners are the icosahedron's, 30 edges and 20 faces, five faces at each corner, and 12 × 5, 20 × 3 and 30 × 2 are each sixty. **Said at the observings, 14-bi-tri-moralizing is across, left to right; 13-co-tri-competencing along, linear forward; and 12-bi-tri-volutioning both across and along, the shape of the three: the unrelationing surface**, at the code 14-other-social-surfacing, 13-social-other-neutralling and 12-other-social-self-abundancing. The twelve corners closing as a sphere and the winding through one opening as a torus are no either or, and neither are the unrelationing surface at 12 and the stable form of the non-living emanatings: parity changing alternates them, bothbothing, one at a time, the natural torusing surface, no other possible. A flow on a sphere has a rest point and on the torus none, and the alternating is said against that at the carrying.
 
 ## 5.49 co-momentarying — binary
 

@@ -3,7 +3,7 @@ chained parities are the pattern shifted, or shifted and inverted, for every pat
 Usage: python3 ring_carrying_check.py <Exhibit ONE, or its candidate>"""
 import re, sys, itertools
 src = open(sys.argv[1], encoding='utf-8').read()
-ns = {}; exec(re.search(r"```python\n(.*?)```", src, re.S).group(1), ns); S17 = ns['_17_social_self_offering']
+ns = {}; exec(re.search(r"```python\n(.*?)```", src, re.S).group(1), ns); S17 = next(v for k,v in ns.items() if k.startswith('_17_') and callable(v))
 def rot(p, s): return tuple(p[-s % len(p):] + p[:-s % len(p)])
 for n in range(3, 9):
     whole = 0
