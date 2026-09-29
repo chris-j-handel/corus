@@ -32,7 +32,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 - 26 Fractal inward and outward
 - 27 Living and non-living at a scale
 - 28 Dying, a living self arriving as non-living
-- 29 The emanation's stable form at the numbers
+- 29 Stable-forming and the emanating at the numbers
 - 30 Intelligence, our now
 - 31 The ten named still, and parity discovered
 - 32 An offering at words, a naming, a file and the living expedition
@@ -1271,7 +1271,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 27 Living and non-living at a scale
 
-        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
+        *Entering: living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within living carrying; a self chained none, carried by its society; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
 271. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
@@ -1287,11 +1287,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: ingestible one scale inward.*
 
-274. The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning.
+274. Stable-forming is bi-tri-volutioning, and the stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is a non-living existing form with no carrying for stable-forming.
 
-        *Adding: bi-tri-volutioning.*
+        *Adding: bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form.*
 
-        *Unsure: long; the prior between momentaries is not yet its own step; the carrying between momentaries, the living's, is here the non-living emanatings' stable form.*
+        *Unsure: the prior between momentaries is not yet its own step; steps 221, 251 and 260 say the living's carrying between momentaries a stable form.*
 
 275. A non-living existing thing carries nothing into next.
 
@@ -1387,7 +1387,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: each observing right, the left face the three at once.*
 
-## 29 The emanation's stable form at the numbers
+## 29 Stable-forming and the emanating at the numbers
 
         *Entering: the corus at the apex, at the emanation's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; twelve corners, sixty three ways; the unrelationing surface at 12, 13 and 14; sphere and torus alternated; the unrelationing surface and the emanations' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
 
@@ -1487,13 +1487,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens at sixty-nine.*
 
-317. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
+317. From the corus to 59 is bi-tri-volutioning, the stable-forming; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it.
 
         *Adding: the whole from the corus to 69.*
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 parity unchanging and 9 parity changing, the emanating; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 stable-forming, parity unchanging, and 9 parity changing, the emanating, the stable form; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; bi-momentarying with no seat; floating neutralling; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; side-affecting; bi-moral co-agency; intelligence by existing; invisibling; natural-bi-co-torusing; the four of social moral competency; 12's changing at the society; 27-co-bi-releasing; collective intelligence, human and at each scale; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; our now.*
 
 318. Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -1535,9 +1535,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the crossings floating and neutralling.*
 
-328. Inside the bi-folding the parallel faces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; out, one of the two is 12-bi-tri-volutioning, parity unchanging, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, 9-tri-bi-co-releasing, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 taking the offering, a changing that is, released at 10 and along at 9, the emanating, emanations releasings, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone.
+328. Inside the bi-folding the parallel faces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; out, one of the two is 12-bi-tri-volutioning, stable-forming, parity unchanging, at each sharing the prior and the offering agreeing, 12 at 0, a changing that is not, the prior continuing; and the other of the two is parity changing, 9-tri-bi-co-releasing, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 2, bi-moral-so-far, a prior offered, each prior momentarying at its own momentary alone.
 
-        *Adding: the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 parity unchanging and 9 parity changing, the emanating.*
+        *Adding: the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, 12 stable-forming, parity unchanging, and 9 parity changing, the emanating, the stable form.*
 
 329. Parity changing is a tunneling offering at three faces: better, and two waiting for their natural names.
 
