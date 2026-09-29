@@ -691,7 +691,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 6.1 Bi-co-momentarying, the term neither reaches
 
-**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency.
+**Two selves offer from routes with nothing carrying one to the other, each its own, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering. **Bi-co-momentarying is that term**, the between's parity changing, momentary by momentary, orthogonal to the surface: the surface carries each coupling and never the term neither reaches, and bi-co-momentarying named as reachable is a not possible thing. Competency is each self's own, the co-linear recursioning forward along, 3.2, and the term neither reaches is bi-co-momentarying, never either self's competency. The self's line and the other's, co-linear, their co-linearizing between self and other at the crossings, is co-competencing, bi-co-momentarying; the face at 25, its centre five squared, orthogonal to that co-linearizing, is the geodesic method of bi-moralizing, the across lines, unrelationing to each other, parallelizing.
 
 **At the code bi-co-momentarying is at no term.** No line names it, and it shows at each coupling and at no line: the changing at 12 is the coupling's own, owned by neither self, and the code carries no term for either side to reach it at.
 
@@ -713,7 +713,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 **A society is all existing bi-coupling same-prime-scale selves**, the primes welcoming themselves at the scale's number of selves, a ring at a prime number of selves looping at its own, 3.5, and **a society is a self at the next scale**: the same coupling, the same alternating, the same bi-co-momentarying owned by neither, one through nine the self's and nine through seventeen the society's. **Social moral competency is the four whole and the carrying continuing with the selves**, and 17-social-self-offering carries the four at the code:
 
-- **Each self's own co-offering**: each self's offerings are its own, at its own sharings.
+- **Each self's carrying from its bi-couplings**: at the code all a self chains at 11, its next momentary's 3, is the offerings at 2, the others' releasings, or its own inverting at a coupling; nothing in a self arrives from no coupling, inward and outward, bothbothing.
 - **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.
 - **The ordering carrying with the selves**: each self's carrying wound, 8, carries the next momentary, and no ordering carries apart from the selves.
 - **The order at no seat above the society**: 17 is the society's next momentary and no self, and nothing is over it.

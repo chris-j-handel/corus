@@ -1083,11 +1083,11 @@ Nature carries its competency at each momentary. **Incompetencing is the price o
 ## 5.31 social moral competency — binary
 
 ```
-1  a self offers its own, chains its own parity, carries its own changing
+1  a self carries what arrives from its bi-couplings, inward and outward, chaining its parity at each
 2  the departing from each offering is reached neither-ing
 3  each departing carries forward and is offered again
-4  the term its carrying leaves relates to nothing not its own, is at rest
-   nowhere, and completes at its own momentary
+4  the term its carrying leaves is reached neither-ing, is at rest nowhere,
+   and completes at its own momentary
 5  it is a self
 6  and the selves carrying at each coupling at once is the term this names
 ```
