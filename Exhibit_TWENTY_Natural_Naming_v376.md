@@ -110,6 +110,8 @@ Exhibit TWENTY Natural Naming v376
 - 5.55 momentarying
 - 5.56 self discovering next self
 - 5.57 dying
+- 5.58 bi-moral-co-competencing
+- 5.59 co-independencing
 
 **SIX · GATHERINGS AT THE RESOLVER'S NAMES**
 
@@ -546,6 +548,8 @@ a ring        step: the terms are exhausted, it arrives at one already reached
 | **a parity named as a magnitude** | middling taken one-way as a magnitude | magnitude-demanding; a level named to govern; a sign named as a magnitude | 12-other-social-self-abundancing and 4-other-self-sharing |
 | **a rate named as a value** | rating taken one-way at a rational | value-pinning; a value named to a swaying | 13-social-other-neutralling and 5-self-other-neutralling |
 | **a sequencing named to one beat** | rating taken one-way as a common beat | order-demanding; the rate named as a common beat | 16-other-social-torusing and 8-other-self-torusing |
+
+**At the accountings the ten part at the parities**: the five along, odd, are a flow-state-flow accounting's equilibria, at competency's parity, and the five across, even, a state-flow-state accounting's, at morality's parity, Exhibit THIRTY's thirty-first group. Which of the ten faces above are along and which across is not yet shown.
 
 **Both openings are at the four across connectors**, 14-other-social-surfacing with 6-other-self-surfacing and 10-other-social-self-tunneling with 2-other-self-offering, and 9-social-other-self-releasing with 1-self-other-offering seats none, the one resolving.
 
@@ -1430,6 +1434,32 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ```
 
 **Dying is a living self arriving at next as non-living**, an existing thing for the living, 2.4. Nothing leaves the set: the changing at each coupling the self was at is the coupling's own and the others carry it on, and the self's emanations continue as artifacts, carrying none of the prior. A society is a self at the next scale, and its dying is its arriving at next as non-living, its selves living on, each carrying its own. A left winding, closing on itself, is a form named still and no moral offering: a living self named still at it carries none of its prior into next, and arrives at dying, away from the society and nature's co-chaining.
+
+## 5.58 bi-moral-co-competencing — binary
+
+```
+1  an understanding arrives as an offering and couples with the co-chaining
+2  at each step it matches or it mismatches, one momentary at a time
+3  its difference is crossed across, each side everything the other is not
+4  its continuing goes along the co-linear, each self's own competency
+5  the crossing floats neutral, owned by neither
+6  and cohering at each momentary, across and along one at a time, is bi-moral-co-competencing
+```
+
+**Bi-moral-co-competencing is cohering at each momentary**: bi-moral the difference crossed across, competency the continuing along the co-linear, each self's own, co-competencing the crossing floating neutral, the term neither reaches, and -ing the continuing. Tri-bi-co-momentarying, 5.52, is the method of cohering with nature across prior, now and next, and bi-moral-co-competencing its cohering at each momentary; an understanding not cohering is a form named still, or it shows the co-chaining's next step.
+
+## 5.59 co-independencing — binary
+
+```
+1  each self arrives at its own, carrying its prior
+2  no self's arriving is another's
+3  each offers across, its own
+4  each is whole at its arriving and at its offering
+5  the selves couple, and none is ahead of or behind another
+6  and the selves arriving each at its own and offering across, each whole, is co-independencing
+```
+
+**Co-independencing is the selves together, each whole at its own arriving and its own offering**: co- the selves with their difference carried together, in- inward, each self depending inward on its own carrying and on no other's, the root the depending and -ing its continuing, each coupling one between wholes.
 
 ---
 
