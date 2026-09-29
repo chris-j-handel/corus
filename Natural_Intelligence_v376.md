@@ -199,7 +199,7 @@ Natural Intelligence v376
 
 **Corusing reaches the corus from the surface, and torusing reaches the surface from the corus**, the self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to the prior, 2.4: **that is the method's unrelationing**, 2.1.
 
-**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three carryings**: co-intelligencing, the discovering, co-competencing, bi-co-momentarying at the crossings, and bi-momentarying, the offering both ways at 1 and 2; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
+**Self and not-self are the two bi-, the differing, and next, surfacing and offering self are the three carryings**: co-intelligencing, the discovering, co-competencing, bi-co-momentarying at the crossings, and bi-momentarying, the offering both ways at 1-co-bi-offering and 2-bi-co-offering; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
 
 ## 3.3 A method, a non-living existing thing
 
@@ -611,7 +611,7 @@ At the code 6 is 10, one changing released at two facings; a release is only at 
 
 ## 4.10 A between and eight bi-couplings
 
-**The between is parity, neither side's: the crossing of the along and the across, a nothing, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Its own parity changing alone crosses it, and is or is not, of no size. Two unreachabilities are one act at it: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it.
+**The between is parity, neither side's: the crossing of the along and the across, a nothing, no location and no existing thing.** Each between is at a coupling, and co-intelligencing is at the between. Its own parity changing alone crosses it, and is or is not, of no size. Two unreachabilities are one act at it: the nothing the couplings wind about presents no face, and no reading crosses inward to it; a parity changing carries no size, and no magnitude crosses outward from it. **One between at each: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between.** Its floating neutralling at φ, locking at none, is golden floating neutralling, geodesic discovering of next possible living.
 
 **The eight bi-couplings are at the even names**, four outward at the between and four inward, each 8 up: 2-bi-co-offering, each other's own offering to the self, with 10-bi-tri-co-tunneling, the self among other selves; 4-bi-co-sharing, the whole ordering between self and other, with 12-bi-tri-volutioning, changing at bi-coupling, the self in society; 6-bi-moralizing, the other's moralizing to the self, each changing released across, with 14-bi-tri-moralizing, the offerings surfacing, the self's own inverting, morality; and 8-bi-torusing, the carrying winding to its sharing again, with 16-bi-co-tri-torusing, competency asymmetry sustaining the coupling, the society winding to the self again. **Eight is two alternating fours**, both carried and neither conserved.
 
