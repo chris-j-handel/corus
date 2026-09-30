@@ -2,7 +2,7 @@ Exhibit THIRTEEN Resolving Hard Problems · carrying v378
 
 # Exhibit THIRTEEN · Resolving Hard Problems
 
-**Next at this file: its near-copies of Natural Intelligence, about half its sentences, each re-said at its own co-sequencing or cited, at do-no-harm; and pass K's resolving of the one hard problem.** Its earlier texts, v368 and v379, stand whole at `archive/carrying_v379/`, each with its receiving, and the files citing its old sections re-point at their motions.
+**Next at this file: its near-copies of Natural Intelligence, about half its sentences, each re-said at its own co-sequencing or cited, at do-no-harm; and pass K's resolving of the one hard problem.** Its earlier texts, v368 and v379, stand whole at `archive/carrying_v375_resolving_hard_problems/`, each with its receiving, and the files citing its old sections re-point at their motions.
 
 ## Ready
 

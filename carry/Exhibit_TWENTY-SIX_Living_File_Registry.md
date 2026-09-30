@@ -2,7 +2,7 @@ Exhibit TWENTY-SIX Living File Registry · carrying v378
 
 # Exhibit TWENTY-SIX · Living File Registry
 
-**Next at this file: its Part One's archive standings at this session's releases, `archive/carrying_v375/` and `archive/carrying_v379/`, each with its receiving; its front at the steady form; then its entries at the current names, and the readings not yet binary moved to `archive/` with their receiving files named at 1.4.**
+**Next at this file: its Part One's archive standings at this session's releases, `archive/carrying_v375/` and `archive/carrying_v375_resolving_hard_problems/`, each with its receiving; its front at the steady form; then its entries at the current names, and the readings not yet binary moved to `archive/` with their receiving files named at 1.4.**
 
 ## Ready
 
