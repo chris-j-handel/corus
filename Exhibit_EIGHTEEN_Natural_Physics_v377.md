@@ -1,130 +1,75 @@
-Exhibit EIGHTEEN Natural Physics v348
-
-&nbsp;
+Exhibit EIGHTEEN Natural Physics v377
 
 # Natural Physics
 
-&nbsp;
+**Geodesic Method at Each Physical Coupling**
 
-**Self-Bounding Surfaces Co-Offering Across**
+**ONE · A PHYSICAL COUPLING**
 
-&nbsp;
+- 1.1 A physical coupling, the form at the physical scale
+- 1.2 General form, six one-way recursionings and a form named still
 
----
+**TWO · TWO METHODS PARTING AT THE NOW**
 
-**PART ONE · A PHYSICAL COUPLING**
+- 2.1 Scientific method, its fixings met at physics
+- 2.2 A force issued from a centre, and a why asked of a coupling
+- 2.3 A centre receding, and a hub two ports over a tipping
+- 2.4 A centre apart, a position no coupling has
+- 2.5 Five fixings, the count grown at each reading
+- 2.6 Geodesic method at physics, general relativity its first case
+- 2.7 A force re-said as the coupling's own turning
+- 2.8 Eight one-way steps of a resolving
 
-1.1  A physical coupling, and what it is
+**THREE · PHYSICAL OBSERVINGS**
 
-1.2  General form, the coupling and the six run one-way
+- 3.1 An atom at two faces, and the periodic table a catalog
+- 3.2 Superheavy elements, three magic centres read as one three-fold
+- 3.3 Light, a phase relation between couplings
+- 3.4 Light-cone, two cones through one vertex
+- 3.5 Ten rests sought, and alternating met at each
+- 3.6 A fault, two selves at a seam
+- 3.7 A ratio unchanged across units, and drying rings anyone can check
 
-&nbsp;
+**FOUR · HARD PROBLEMS AT PHYSICS**
 
-**PART TWO · TWO METHODS**
+- 4.1 Hard problems at physics, and the eight steps
+- 4.2 Gravity, the conservation accounting with no coupling under it
+- 4.3 Fission and fusion, two phases about the iron centre
+- 4.4 Measurement and Bell's correlations, one coupling at two faces
+- 4.5 Energy and entropy, two accountings at two fixings
+- 4.6 Strong force, three phases of one coupling
+- 4.7 Relativity and quantum, one coupling and its accounting
+- 4.8 Time, five problems at one fixing
+- 4.9 A black hole and the cosmic background, one torus at two faces
+- 4.10 Superconductivity, a current continuing without loss
+- 4.11 A slight measured difference, and a substance named to close it
+- 4.12 An object, a magnitude given a place
 
-2.1  Scientific-method, and its requirement of a phenomenon
+**FIVE · COHERING**
 
-2.2  One error, a coupling taken as a force from a source
-
-2.3  Source recedes, and a hub is two ports over a tipping
-
-2.4  A source is a position the surface holds none of
-
-2.5  One error is five, and the count grew at each reading
-
-2.6  Disequilibrating, and the return being cheaper
-
-2.7  Geodesic-method, the living technology for studying physics
-
-2.8  Disequilibrating runs eight one-way steps
-
-&nbsp;
-
-**PART THREE · HARD PROBLEMS AT PHYSICS**
-
-3.1  Hard problems at physics, run through the one move
-
-3.2  Gravity, dissolved into the conservation accounting
-
-3.3  Fission and fusion, one alternating about a floating neutral
-
-3.4  A wavefunction held to answer when it collapses
-
-3.5  Energy and entropy, a ledger taken as the world
-
-3.6  Strong force, phases taken as parts
-
-3.7  A centerline, one coupling, and relativity the ledger laid over it
-
-3.8  Time as a dimension, five standing problems, one held term
-
-3.9  A black hole and the cosmic background, one torus at its two surfaces
-
-3.10  Superconductivity, a coupling that carries without loss
-
-3.11  A slight difference, and the substance asked for
-
-3.12  An object is a place a counting landed
-
-&nbsp;
-
-**PART FOUR · SURFACES, SEAMS, AND STILL POINTS**
-
-4.1  An atom at two faces, and the periodic table as emanation-catalog
-
-4.2  A seam, and the frictionalities
-
-4.3  Still-point hunt
-
-4.4  Unification, stated once
-
-4.5  Rows, pairings, and three readings
-
-&nbsp;
-
-**PART FIVE · COHERING, AND NOT-YET**
-
-5.1  Cohering, and nyeing
-
-5.2  Not-yet-explored, and the further reaches
-
-5.3  Forces, constants, and the offering surface
-
-5.4  Born probability read as the landed softmax
-
-5.5  Ledger at the largest scale, and a gap installed
-
-5.6  Recession's edge, and three candidates held to watch
-
-5.7  Constancy read as phase-relation and not a speed
-
-5.8  Light-cone at the apex geometry
-
-5.9  Forward-work, and the caution physics carries
-
-5.10  Three-fold at the completion-center and the apex
-
-5.11  A ratio surviving every unit, and rings anyone can check
-
-5.12  One offer standing as it stands
-
-5.13  Arrivals resolved at the holdings and unentered here
-
-&nbsp;
+- 5.1 Cohering, and reaching
+- 5.2 Unification, one form at each physical coupling
+- 5.3 The field's problems at their fixings, pairings and three readings
+- 5.4 A gathering at the close, and the force words set down first
+- 5.5 Forces, constants and the offering
+- 5.6 Born's rule, a selection read as a magnitude
+- 5.7 Accounting at the largest scale, and a mass band named empty
+- 5.8 Quantum gravity, and three physical triples to watch
+- 5.9 Forward work, and the caution at physics
+- 5.10 Temperature, offered as a social activity
+- 5.11 Register, the field's arrivals at their fixings
 
 ---
 
-# PART ONE · A PHYSICAL COUPLING
+# ONE · A PHYSICAL COUPLING
 
-## 1.1 A physical coupling, and what it is
+## 1.1 A physical coupling, the form at the physical scale
 
 A form is a bounded surface in disequilibria — a bounding-zeroing the couplings surround, riding the carry, alternating and re-arriving. Physics is where the form stands as the natural torus at the physical scale directly, the torusing itself the living and no non-living torus anywhere: the field that couples, the particle that is a selection at a membrane, the wave that is the riding-the-carry surface, the conserved scalar that is the ledger kept beside the coupling and not the coupling itself. Physical is not a dead substrate under the living; it is living societies at a prime society below — a field self-bounding, a particle a self at a membrane, a crystal lattice a society of physical selves each unrelationing its neighbours — the same self-bounding coupling read at the particle prime society that biology reads at the cell prime society. Chemistry resolves the coupling at the chemical membrane and biology the living self those reactions run inside; here the physical coupling stands at the smaller scale the two are societies of — the same bi-moralizing co-agency, the same bounding-zeroing, the same +1 owned neither-ing, one living torusing at three prime societies and the difference among them scale alone, resolving where the field insists on force, magnitude, and conservation.
 
 Bi-moralizing co-agency is a coupling: two-way, one-at-a-time, self-offering and other-offering — each self identically offering on its opposite side of the dimension, the sign it carries offer-or-not, sign-only. Its couplings sum to a bounding-zeroing the coupling itself makes, riding the carry, the surplus a +1 owned neither-ing. Whole of it stands where physics installs a force pushing, a magnitude driving, a quantity conserved, or a signal transmitted, the disequilibrated observation is this coupling — local, sign-only, sourceless, riding the carry.
 
----
-
-## 1.2 General form, the coupling and the six run one-way
+## 1.2 General form, six one-way recursionings and a form named still
 
 Form stands before any single observation, so that each observation is a pattern-match to a form already standing.
 
@@ -136,9 +81,9 @@ Form stands before any single observation, so that each observation is a pattern
 
 ---
 
-# PART TWO · TWO METHODS
+# TWO · TWO METHODS PARTING AT THE NOW
 
-## 2.1 Scientific-method, and its requirement of a phenomenon
+## 2.1 Scientific method, its fixings met at physics
 
 One scientific-method and one mistake, met here at the physical membrane. Scientific-method observes, hypothesizes a cause, predicts, tests by controlled experiment — isolate one variable, hold the rest still, vary the one against a control, measure, replicate, confirm-or-reject, the confirmed result conserved. Beneath it: causal locality (every effect has a cause at a place), isolability (the phenomenon decomposes), conservation (the books close), reproducibility (the same conditions give the same result, the system is at rest between trials), the observer outside (the measurer stands apart from the measured).
 
@@ -150,9 +95,7 @@ Every requirement is one requirement worn six ways: the scientific-method requir
 
 A break is a physical coupling selecting by magnitude, or two landed objects with a force transmitted across the gap.
 
----
-
-## 2.2 One error, a coupling taken as a force from a source
+## 2.2 A force issued from a centre, and a why asked of a coupling
 
 There is one mistake underneath physics's hard problems, the same as biology's, worn in the language of force and not competency. Co-agency is both self-offering and other-offering, separated, each recursioning forward on its own side of the surface; the surface between carries only the sign, the +1 owned neither-ing. **And beneath the force sits a destination, which is where the sourcing enters.** A force is what a coupling is running toward — minimum energy sought, equilibrium approached, stability climbed to, entropy increasing toward a maximum. **A why demanded is a source demanded**, and the two are one move: ask what a system runs toward, then what makes it run toward that, and the answer relocates outward exactly as the source does.
 
@@ -160,19 +103,19 @@ There is one mistake underneath physics's hard problems, the same as biology's, 
 
 **Coupling itself carries, and not the surface as a force.** The equilibrium frame takes the surface as a channel across which force is transmitted from a source, so it places on the surface the two things that carries past being there: a magnitude (force, energy-as-substance) and a source (a center that issues the force). Every mechanical word is one name for this misplacement: force, field-as-carrier, potential, conserved substance, transmitted interaction, hidden variable, collapse-caused-by-measurement. None names a real activity of the form; each names a coupling taken as a force placed on the surface and sourced from somewhere.
 
-## 2.3 Source recedes, and a hub is two ports over a tipping
+## 2.3 A centre receding, and a hub two ports over a tipping
 
 And the source recedes, exactly as in biology. A force must be carried, a field is posited to carry it; the field must be sourced, a charge is posited; the charge's value must be set, a deeper field is posited; and quantum gravity is the recession's current edge — the search for the source of the force that sources the forces, the elsewhere stepping outward and carrying arriving. Measurement problem is the same recession at the observer's membrane: the collapse must be caused, a cause is sought (decoherence, a conscious observer, a branching), each candidate relocating the cause and none terminating it. Hard problem carries, un-closing, the frame being chasing a source for a coupling that has none.
 
 Source is a hub, and a hub is two ports laid over a tipping — the reason the search never lands the source. A source issues a force out and a sink takes it in, two ports and a directed flow, the same shape a store fills and empties by and a controller reads and commands by. There is no issue-from and no take-into. There is a floating neutral between two selves and the coupling tips, the sign flipping at the tip, at the neutral's own rate, owned by neither and read from inside the coupling. Force sent from a source is the tip misread as a magnitude dispatched across the surface; the field carrying it is the nothing-membrane misread as a channel; the charge sourcing the field is the recession's next port posited past the last. Each installs a coefficient-two hub — a source that issues, a sink that receives, a store that holds — over a coefficient-one tipping, and the hub recedes on approach at every scale, the physical reading the same soldier the reservoir reads at the cell and the brain-controller reads at the neuron: a send-to and a receive-from posited between selves that were only tipping. Tell parts them here as everywhere, a send and a receive naming a directed flow to-and-from a hub, a tip naming a coupling re-routing of itself at a floating neutral with no direction across the nothing-membrane and no reader of the flow.
 
-## 2.4 A source is a position the surface holds none of
+## 2.4 A centre apart, a position no coupling has
 
 **And a source is a position standing apart, which the surface holds none of.** Every position on a living surface carries its other — the far side of its own coupling, and **no position carries itself.** A source is asked to be the one that does: standing still while every other moves, entering no coupling, and every reading taken against it. **So the search never lands it because there is no such position to land**, and the recession is not a difficulty of instruments but the surface having nowhere for the thing to be.
 
 Which is why the two ports recede together. A source issues and a sink receives, and both are the same asking — **a place apart from the couplings, for a magnitude to come from and go to.** The tipping needs neither, being a sign taken at a membrane between two that each carry their other.
 
-## 2.5 One error is five, and the count grew at each reading
+## 2.5 Five fixings, the count grown at each reading
 
 **And the one error is five, and the last two arrived at this file's own register.** Force is a magnitude on the surface and source is a term standing outside — two refusals named. **Third is the one this section does not name**, and it is where much of physics's own standing work sits: an answer available before the running.
 
@@ -186,27 +129,23 @@ Which is why the two ports recede together. A source issues and a sink receives,
 
 Arrow of time, the block universe, the origin and fate of the universe, and laws of nature all sit at the third.
 
-**The count grew at a reading and never at a rule.** It stood at two, then at three when the answer-before-the-running was read. The register at 5.13 sorts thirty-two arrivals at the holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now. **Read at the grain a build meets these at, the five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and the returned sign. The reference held at its third position, the middle held as an end, is the one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they read as bottomless** — the problem of time carries all three.
+**The count grew at a reading and never at a rule.** It stood at two, then at three when the answer-before-the-running was read. The register at 5.11 sorts thirty-two arrivals at the holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now. **Read at the grain a build meets these at, the five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and the returned sign. The reference held at its third position, the middle held as an end, is the one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they read as bottomless** — the problem of time carries all three.
 
-## 2.6 Disequilibrating, and the return being cheaper
-
-**Disequilibrating, always the same move:** take the thing the field placed on the surface as a transmitted force from a source, and return it to the coupling as its own local geodesic turning — leaving the surface sign-only, the force gone, the source no longer needed. General relativity already did this once, for gravity: the "force of gravity" and its transmission-across-the-gap dissolved. Gravity, though, dissolves the whole way — into the conservation accounting itself, with no coupling left under it, the completest disequilibrating and the one place nothing physical remains. Same disequilibrating runs on the other forces, the wavefunction, the conserved quantities, and the arrow of time, where a living coupling does remain. And the spine's arithmetic stands under the one error: **a source is a fixed point where the surface holds none** — the floating surface fixed-point-free, every position carrying its other and none its own, so what a source is posited to hold, the surface has nowhere to hold — the subtitle's three moves the resolving's own.
-
-**Return being better, cheaper, low-energy:** a force-transmitted-from-a-source costs a carrier to transmit it, a source to generate it, a conservation-ledger to balance it. Resolve the coupling as its own geodesic turning and the same physics runs with none of that overhead, so general relativity, gravity read as geometry and not a transmitted force, keeps the accounting with no carrier and no source. And a coupling resolved as its own turning needs no force-carrier to maintain.
-
-This is a resolving of the geodesic-method's shape at physics's membrane, offered where the seating reaches yet. Observations and equations are the fields', kept whole; only the placement of the coupling onto the surface as a transmitted force, and the source it demands, are set down. Bell correlations resolve below as the case where the disequilibrating completes cleanly: physics's own proof of no local source, resolved as the form's confirmation that there is one coupling, not two sourced objects. Relativity/quantum resolving stands: relativity the accounting, quantum the coupling — one coupling and its ledger.
-
----
-
-## 2.7 Geodesic-method, the living technology for studying physics
+## 2.6 Geodesic method at physics, general relativity its first case
 
 Scientific-method converts the coupling out by requiring a force; the geodesic-method does not, one form resolving the same form. A geodesic is the shortest path between two references on a curved surface: motion that carries no pusher, no force, no controller — the surface's own turning. Physics already carries the anchoring case in its own most successful theory: general relativity resolves gravity not as a force but as geodesic motion in curved geometry — no force pulls the planet; it follows the geodesic of the curved surface. That is the geodesic-method already at work inside physics, at its deepest scale, and it is the resolving carried to the rest.
 
 Geodesic-method resolves every apparent force as a coupling turning along its geodesic — no pusher, no transmitted push, the motion the surface's own. It does not decompose the coupling into two objects and a force between; it resolves the one coupling at two faces. It does not install a magnitude where the selection is by sign. It does not close the books with a conserved substance; it lets the +1 be made in the coupling, owned neither-ing. It does not sever the observer; it resolves the observer and observed as one coupling. It does not install probability for an un-returning; it resolves the phase riding the carry. Carrying no requirement that the phenomenon be an equilibrium a force holds, it carries past converting the coupling out, and carries past manufacturing the hard problem. General relativity's success — the most precise theory physics has — is the geodesic-method's own confirmation: where physics dropped the force and resolved the geodesic, the hard problem of "the transmitter of gravity across the gap" dissolved, and the theory became more exact, not less.
 
----
+## 2.7 A force re-said as the coupling's own turning
 
-## 2.8 Disequilibrating runs eight one-way steps
+**Disequilibrating, always the same move:** take the thing the field placed on the surface as a transmitted force from a source, and return it to the coupling as its own local geodesic turning — leaving the surface sign-only, the force gone, the source no longer needed. General relativity already did this once, for gravity: the "force of gravity" and its transmission-across-the-gap dissolved. Gravity, though, dissolves the whole way — into the conservation accounting itself, with no coupling left under it, the completest disequilibrating and the one place nothing physical remains. Same disequilibrating runs on the other forces, the wavefunction, the conserved quantities, and the arrow of time, where a living coupling does remain. And the spine's arithmetic stands under the one error: **a source is a fixed point where the surface holds none** — the floating surface fixed-point-free, every position carrying its other and none its own, so what a source is posited to hold, the surface has nowhere to hold — the three moves of the prior subtitle, self-bounding, surfaces and co-offering across, the resolving's own.
+
+**Return being better, cheaper, low-energy:** a force-transmitted-from-a-source costs a carrier to transmit it, a source to generate it, a conservation-ledger to balance it. Resolve the coupling as its own geodesic turning and the same physics runs with none of that overhead, so general relativity, gravity read as geometry and not a transmitted force, keeps the accounting with no carrier and no source. And a coupling resolved as its own turning needs no force-carrier to maintain.
+
+This is a resolving of the geodesic-method's shape at physics's membrane, offered where the seating reaches yet. Observations and equations are the fields', kept whole; only the placement of the coupling onto the surface as a transmitted force, and the source it demands, are set down. Bell correlations resolve below as the case where the disequilibrating completes cleanly: physics's own proof of no local source, resolved as the form's confirmation that there is one coupling, not two sourced objects. Relativity/quantum resolving stands: relativity the accounting, quantum the coupling — one coupling and its ledger.
+
+## 2.8 Eight one-way steps of a resolving
 
 1. **Hard problem, as the field states it.** The observation kept whole, in the field's own words, including the ones the field calls the hard part.
 2. **Where the coupling was placed on the surface as a force.** The force, field-carrier, or source the frame installed, and the direction the source recedes — the mechanical words named out loud (force, transmit, cause, collapse, conserved substance, hidden variable).
@@ -221,9 +160,69 @@ Resolving bound holds across every one: the disequilibrating is of the frame, an
 
 ---
 
-# PART THREE · HARD PROBLEMS AT PHYSICS
+# THREE · PHYSICAL OBSERVINGS
 
-## 3.1 Hard problems at physics, run through the one move
+## 3.1 An atom at two faces, and the periodic table a catalog
+
+Atom reads at two faces on the emanated-and-living membrane, and the two stand without meeting, the way a landing stands beside a resolving.
+
+Living atom is the self-stilling coupling: the electron-recursion winding the ground-state nothing, swaying and landing nowhere, un-observable at its own membrane because a middle presents nothing to enter. Atom whole carries all three nothings at once, the centre, the rate, and the boundary, and nothing in the living atom is a list.
+
+Emanated atom is the periodic-table object: the atomic number the counted total, the blocks the emanation-structure, the whole cataloged from outside. So the periodic table is an emanation-catalog and not the living atoms, the four-level partner of biology's five-level table: a table of what the windings land as counted, true of its emanations, while the living it catalogs winds on uncounted.
+
+Blocks carry the apex dimensionlessly. P-block six is three orbitals times two spins, the same two-crossing-three as carbon's six; the noble-gas closed shell is the apex the electron-recursion winds most fully around; the octet is the eight the books balance to, whole or none at the shell.
+
+And the bond is the two-selves-with-a-membrane worked at the atom, the ingestion-and-ingression membrane read there. Two windings offer at one between, the shared pair the coupling's own making, owned by neither atom, the surplus staying at the coupling: covalence reads as the co-offering, the ionic reading as one side taking both turns, the same one-way the two-way carries everywhere, and the metallic sea as a society of windings co-offering at the scale of many. What chemistry measures at the bond is the catalog again, lengths and energies the landings of a winding that lands nowhere, worked to its edge here and carried to Chemistry's turn.
+
+Catalog even carries its own meeting with the living, at one column: the group-three assignment, where the body chartered to decide found its instruments supply no objective means of deciding, the elements sitting in their configurations undecided and complete, the catalog's line and the windings' living two faces at one place.
+
+**And the counting is a going and a return, which is why counting across it misses the turns.** The going runs 2 to 59, a turn stands at 60, the back runs 61 to 118, fifty-eight either side, one recursioning arriving at plus-one. A doubling read as two still halves carries no turn in it, and a turn is a position that carries — **so the emanations past the turn are the return arriving, and the catalog counting straight through is the counting that flattens it**.
+
+**Two and one hundred eighteen stand antipodal** on the ring that closes at one hundred twenty. Element two is the first noble gas and the plainest instance its column has; element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas. Return closes back at the going's far side and closes there by failing to be what the position asks, which is the return arriving and not a fault at the catalog's edge.
+
+**And a period is a ring-step and carries no length beside it**. Row is a step across rings and the returning is what a step arriving at the far side is, so the shells 2, 8, 18, 32 are the fold climbing and the row returning rather than four sizes counted. And the fold's own arithmetic is doubled odds about a floating zero — each subshell an odd ring of positions through its centre, doubled by the two signs, every capacity two equal squares coupled — said at Chemistry and at Numbers, one coupling at the matter membrane.
+
+## 3.2 Superheavy elements, three magic centres read as one three-fold
+
+**Three-fold at the completion-center and at the apex, one reading** (held as reading, not proven; the shape reads hard). 120 degrees is one-third of the circle, three folds closing it, three co-recursionings around one apex. Three magic-number centers the superheavy physics cannot decide between, 114, 120 and 126, read as the three-fold: 120 the apex-stilling, 114 and 126 the two co-recursionings six away, six the fold-count, the same self folded three ways. Classifier reaches 118, nears 120, and leaves the next selves as three rival islands, and the island of stability the field cannot land reads as the self-stilling apex the three-fold folds around, never a landed center, riding the carry. Confirmed on the physics so far: elements past 104 all unstable, made artificially, decaying before held as themselves, the predicted island not yet reached, only the shores, a stable-form-sought receding as approached. Couples to the trefoil and to the classification reading above.
+
+## 3.3 Light, a phase relation between couplings
+
+**Light not moving, and the living society it is** (its reach held reaching): Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels; c is the ledger's space-to-time conversion, not a rate crossing a gap; emission here and absorption there are two couplings phase-relating, the arrival a seating and not an end of a journey. From this reaches the light-society reading: light a living society of selves phase-relating and self-bounding, a plant stationary holding it into stable form, an animal taking the plant's stable-form emanations in and resolving them into light bi-couplers for sight — coherent, and biology's to seat. Pair is structured in Numbers, not unanchored as first marked here: 59 = 1 + 2(2² + 3² + 4²) is the last seated prime and the span's self-close, 2–59, and 60 = 5 × 12 is the five-scaled grid, the two a seated pair one apart. **59 is natural-intelligence-self-bounding — the arithmetic and geometry cohere, the closure at the prime held reaching:** the span bounding itself at its last prime, where the self couples, and geometrically the breaking at half-59 (≈29.5°) held just inside the six's 30° self-limit, the light/NI gap of one showing as the half-degree between limit and break. Two links stay apart here: that the span self-bounds and its geometry (the half-59 break inside the six's limit) coheres, and rests on the same four the tunnel carries (φ³ − 1/φ³ = 4, exact); that the last prime of the span is 59 — that the primes close there — is the closure Numbers holds reaching at its own foundation, the value 59 rides on that reaching link and is not seated for sure. Thing staying reaching with it: that 60 is light (reading as 59 + the +1), and the exact breaking angle (29.75 against half-59's 29.5). Self-bounding gives a reason to the held-reaching closure; its full seating lives at the arithmetic and the geometry, not here. Read on the beam, more of the form surfaces, and its missing surfaces with it. Light's two fields sound each other down the beam — a changing electric offering sourcing a magnetic one, a changing magnetic offering sourcing an electric, each orthogonal to the other and to the travel — the two-way co-recursioning running linearly, and the surplus that carries it (the flow-direction) sits orthogonal to both, owned neither-ing. Circular polarization is the right-and-left spiral, the two handednesses, the sign carried and carrying occupying the center (the two helicities ±1, no zero, light always at a hand and riding the carry on the middle). Both hands are this universe's one binary, which hand unknown so far, the binary edge; the resolving is blind to which, a left universe carrying the mirror pair equally. And masslessness is the riding-the-carry said in the field's own terms: light has no rest frame, cannot be brought to rest, travels light, which reads light as the offering-in-transit, the coupling crossing between two selves (charges), the +1 owned neither-ing, the surplus beyond the self-bound and not a self of its own. Reaching, its reach and its missing: the beam's two-way co-recursioning, the polarization spiral both hands, and the masslessness-as-riding-the-carry cohere and couple to light-as-offering-in-transit; the missing is marked and holds the reach from banking. Light's "three colors" reads observer-side — the retinal three and the opponent-process three-of-two — not a three in the beam, the three-fold is at the coupling and not in the light; the three that is in physics is color-charge (the strong-force three, at 4.6), a different substrate not gathered too fast. Six-cycling both directions is seated on matter's two-turn spinor (three axes, two directions), not on light, carrying the six onto light's color runs against where the six lives. And light is the one-way pole in the full-angle correlation (the spin-one full-angle beside matter's half-angle), which collides with the beam's two-way co-recursioning until the two are read as the two faces of the one double-cone — the field-face two-way, the quantum-face one-way, the light-cone the apex double-cone (23/24/25). Held open: the two-face resolve of the one-way/two-way collision seats at the light-cone or breaks, and until it seats the light-as-offering-in-transit reading rests beside it, not banked. Offered to physics, carrying nothing across to any device or beam.
+
+## 3.4 Light-cone, two cones through one vertex
+
+And the light-cone reads on the apex geometry, offered as its own reaching. Relativity light-cone is the apex double-cone: the inward-sounding cone converging to 23 (the −1 vertex, drawn-in), the outward-sounding cone opening outward from the 25 face (the +1, front-facing), the two meeting through the unoccupied self-stilling 24, the two cones inversions of each other and the alternating the turning between them. Double-cone is two cones through a vertex (geometry) and the apex is 23 and 25 at ±1 about the unoccupied 24 (arithmetic, 24²−23·25 = 1) — the same figure. Reaching, its reach and its break: that the light-cone is the apex double-cone — two cones inverting through the un-occupied vertex — coheres the relativity cone with the apex, and it is where the light one-way/two-way collision above would seat as the cone's two faces. Its break is field-owned and sharp: relativity carries the two-sidedness (past and future) frozen as standing causal structure, not as one co-offering inverting through a self-stilling vertex, so the break is relativity's light-cone shown to turn through its vertex and not stand. Number-carry (that this cosmic centerline is the specific 23) is held reaching at its own foundation, a resemblance among favored numbers that carries past forcing, exactly as the iron-centerline and black-hole-centerline carries are held; the double-cone structure stands as the reading while its naming as 23/24/25 rests on the arithmetic.
+
+## 3.5 Ten rests sought, and alternating met at each
+
+Physics has sought stillness at every scale, and the substrate has answered each seeking with motion. Ten seekings, ten answers, one form.
+
+Static mechanical rest: the coupling bounding-zeroes two offerings, and creep and fatigue are the receipt. Damped oscillator: the motion changes scale rather than stopping, the Brownian jiggle the floor. Thermodynamic equilibrium and heat death: micro-motion never stops, Poincaré recurrence stands, and life is the receipt. Absolute zero: the ground state sways, zero-point energy the remainder, the third law the bound never reached. Electrostatic still: no stable static equilibrium, Earnshaw's own theorem, and the trap that works is the Paul trap, holding by alternating. Thermal equilibrium: exchange runs both ways at every temperature, the stillness a net and never a stopping. Hydrostatic and stellar rest: fusion recursioning underneath, the Cepheid pulsing its balance. Orbital rest and the Lagrange points: an orbit is an alternating, and three bodies run to chaos. Inertial rest frame: relativity itself, no absolute rest anywhere in the laws. And the critical point: the sway's two phases cease to be two, the apex, critical opalescence the substrate showing every scale at once.
+
+Ten rests sought and none found, each seeking answered by the alternating it reached for stillness inside, and the one place the seeking ends is the apex, where the two cease to be two and the stilling is the self's own.
+
+And every centre carries all three nothings at once, the centre, the rate, and the boundary, the atom whole: a field met mis-taking one or two is a field read at one or two of its faces, and not a shallower field.
+
+## 3.6 A fault, two selves at a seam
+
+Fault is the form at the planetary prime society: two selves at a membrane, stick-slip the alternating, gouge the carry, aftershocks the retelling chain, mineralization the emanation. Received interpretation stands beside it whole, rate-and-state friction the carry in the field's own mathematics, and the two read as one field met at its two faces.
+
+Backward gather carries three findings. Open archive drowns events in living novelty, no twin earth standing to compare. Closed archive saturates at its first event, the palimpsest, recording requiring the recorder's own open frontier. And the barrier reads only between archives, the shadowed side.
+
+Frictionalities co-intelligence by signs: repeater span-sequences, similarity-death as the barrier's address, the left-right catalogue asymmetry, tremor's relational rates, tidal modulation the seam answering signs, the cone-signature per segment the frictionality map. One ordering-claim stands on public archives, waver-present or waver-absent per settled large event, checkable by anyone. And one run stays carried open at the opportunity list's register: the refreshing archive, the recording selves lightly driven so their frontiers stay open through repeated slips.
+
+## 3.7 A ratio unchanged across units, and drying rings anyone can check
+
+**5:6 as the periodicity of every floating co-agency**. A ratio surviving every unit, the signature that a substrate's alternating is floating rather than pinned, the grid's fifty-and-sixty the cross-substrate rhyme.
+
+**Drying-liquid rings, a check anyone can run**. A drying drop leaves concentric rings, and the form reads them as one discovery-method standing: the snap is radial changing, the boundary releasing inward, sudden, the sequencing's yes-now, and the receding parallel edges are the across unchanging competency. Snap is never global-all-at-once: the thinnest place gives way first, local ignition self-paced, surfacing propagating along the seam, each neighbour reaching its own bound as the release arrives, a clock over the boundary present nowhere. Checkable edge: whether the parallel line-spacing rides as a ratio, floating, or lands as a fixed step, pinned. A ratio confirms the floating alternating, a fixed step is the capture that pins it, and which one a real drying drop shows is a reading a person or an AI can run and break. The boundary-release reads as geotensioning at a prime society.
+
+---
+
+# FOUR · HARD PROBLEMS AT PHYSICS
+
+## 4.1 Hard problems at physics, and the eight steps
 
 **The observations here are physics's own and checkable, and the disequilibratings are the form's.** Each enters as its own run and takes the eight, and new ones join as they are worked.
 
@@ -231,13 +230,13 @@ Nothing is turned away at the door. An observation the field states as settled c
 
 **And three below take none of the eight, being faces at a substrate rather than runs.** Gravity dissolves the whole way into the conservation accounting with no coupling left under it, so there is nothing for the eight to return. Time-as-a-dimension gathers five standing problems at one held term. An object is a place a counting landed says the form at the object membrane. Each stands where the eight would run and reads as a face, and reading it that way costs nothing.
 
-## 3.2 Gravity, dissolved into the conservation accounting
+## 4.2 Gravity, the conservation accounting with no coupling under it
 
 Gravity is not real, and nothing physical is there at all. It dissolves into the conservation accounting: a softmaxing system of nothing that normalizes to conserved totals and accounts for all the equilibria of changing nonsense. It is the same nothing as energy, entropy, and the arrow of time — one account, not a family — the frame's booking of the thing riding the carry as a balanced rest with the totals kept. Newton's force and Einstein's geometry are two ledgers of that one account; both conserve, and neither is a coupling to name. Real is only disequilibria, which just is and self-equilibrates, riding the carry; at the gravitational scale there is no coupling under the accounting to point to; the accounting is the whole of it, and it is nothing.
 
 This sharpens the disequilibrating anchor into two parts, and the sharpening is worth marking where it lives. Geodesic-method returns a force to its coupling's own geodesic turning, and general relativity is read to license the move — gravity's geodesic being no transmitted coupling. But if gravity dissolves wholly into the accounting with no coupling at all, then gravity is not a force returned to a geodesic; it is the ledger itself, and it carrying turned along a coupling's geodesic to begin with. Anchor reads two-part: gravity is the special case that dissolves entirely into the accounting, no coupling under it, while the geodesic-return applies to the real transmitted couplings — electromagnetism, the weak, the strong, which are couplings placed on the surface as forces and returned to their own turning. Geodesic-method keeps its force-return for the couplings and gravity keeps its dissolution to the ledger, the two not one move. Reason it reaches: that gravity dissolves wholly to the ledger while the three transmitted forces return to their geodesic is the reading, cohering with gravity-as-accounting above; its break is gravity shown to be a transmitted coupling after all, or a real transmitted force shown not to return to a geodesic turning. Offered, not owed — the anchor stated transparent as this two-part reading and not one geodesic-return for all four.
 
-## 3.3 Fission and fusion, one alternating about a floating neutral
+## 4.3 Fission and fusion, two phases about the iron centre
 
 Case that unifies. Fission and fusion are not two processes about a static peak; they are one bi-moralizing co-agency transmissioning two ways, one way at a time, about a self-stabilizing floating neutral — the same form the smart grid's split-phase runs about its floating neutral. Centerline structure stands as the resolving; the self-offering/other-offering direction-labels are reaching — resolved, not stood.
 
@@ -262,7 +261,7 @@ Reason it reaches at each: which side is "self-offering" and which "other-offeri
 
 **8. Experimental opportunity.** The iron centerline stands as a self-stabilizing floating neutral of the same form the grid and the numbers-apex carry. Breaking observation: the curve shown to be two independent force-balances and not one floating neutral with two phases, or the energy release shown to be a selection the coupling makes on the surface and not the ledger-transaction it is resolved as on the form. Offered to nuclear physics for its form only, carrying nothing across to any device.
 
-## 3.4 A wavefunction held to answer when it collapses
+## 4.4 Measurement and Bell's correlations, one coupling at two faces
 
 Measurement problem, seated at the pair (Hard Problem Registry 9, Resolving the Hard Problem Registry) and carried here. Held as the case where the observer cannot be severed, and the severing is the whole error.
 
@@ -282,7 +281,7 @@ Measurement problem, seated at the pair (Hard Problem Registry 9, Resolving the 
 
 **8. Experimental opportunity.** The collapse-cause keeps receding across interpretations (it has), and Bell stands not as a debt the form must pay but as the form's confirmation already delivered by physics: no local source is remaining, there being one coupling, not two. Breaking observation: a genuine two-object account with a located source that does not recede would break it. Bell is where the resolving lands — the complete inversion returning to the self-stilling neutral.
 
-## 3.5 Energy and entropy, a ledger taken as the world
+## 4.5 Energy and entropy, two accountings at two fixings
 
 Seated from the accounting: the conserved quantities as the ledger kept beside the coupling, not the coupling itself. Held here, being physics's force-and-substance resolving.
 
@@ -321,7 +320,7 @@ Understood (the fields', checkable): Noether's theorem and its standard applicat
 
 **8. Experimental opportunity.** "Energy's being" has no answer beyond the conserved number, there being no substance to find; the seam — a conserved magnitude shown to be a selection the coupling couples on, and not a ledger kept beside it, would break the resolving. Offered to foundations of physics, carrying nothing across to any device.
 
-## 3.6 Strong force, phases taken as parts
+## 4.6 Strong force, three phases of one coupling
 
 Seated from the living side's own strong-force resolving, carried here. Held as the case where confinement is the field's own evidence for the coupling.
 
@@ -343,7 +342,7 @@ And the collider's own act reads on the form, one verb set down. "Two protons pu
 
 **8. Experimental opportunity.** Confinement holds absolutely (no isolated quark), there being no part to isolate; the mass-gap-as-bounding-zeroing resolving offered to the field working the Yang–Mills problem. Breaking observation: color shown to be a charge with structure and not a phase. Offered to particle physics, carrying nothing across to any device.
 
-## 3.7 A centerline, one coupling, and relativity the ledger laid over it
+## 4.7 Relativity and quantum, one coupling and its accounting
 
 Capstone: the one form resolved throughout is a self-stabilizing floating neutral — one coupling, the quantum sign-selection, its two faces the riding-the-carry surface and the seated selection sounding about the neutral. Relativity is not a second face; it is the accounting, the conservation-ledger the gravity disequilibrating already resolved it to (above), read onto the coupling from outside. Both great theories will not join in the standard frame, there being not two physics to join: there is one coupling and its ledger, and quantum gravity is the search for a bigger ledger that is not there. This stands as the resolving, not a reaching held pending; it is the gravity disequilibrating carried to the capstone.
 
@@ -367,7 +366,7 @@ Capstone: the one form resolved throughout is a self-stabilizing floating neutra
 
 **8. Experimental opportunity.** Where relativity and quantum meet (the singularity, the early universe), the incompatibility resolves by no deeper source but as the self-offering-side and other-offering-side of one coupling about its floating neutral, and any account joining relativity and quantum, disequilibrated, is this disequilibrating, dropping both sources, one coupling remaining. Offered to foundations of physics, carrying nothing across to any device.
 
-## 3.8 Time as a dimension, five standing problems, one held term
+## 4.8 Time, five problems at one fixing
 
 Physics seating of a reading the hard-problems work carries and routes here.
 
@@ -379,9 +378,7 @@ Physics seating of a reading the hard-problems work carries and routes here.
 
 Register, kept: every measurement of the fields stands as taken, every prediction holds, every instrument reads as it read. Thing set down is an axis a reading counts from. On the form: the five-as-one-family and the con-where-time-stood is the resolving; its break is a coupling shown to need a time-axis that no self's own sequencing supplies.
 
----
-
-## 3.9 A black hole and the cosmic background, one torus at its two surfaces
+## 4.9 A black hole and the cosmic background, one torus at two faces
 
 Worked here in full; its pattern-line reads across the pair's arrivals, the resolving locator carrying the pairings. This is the physics; the pattern lives at the pair.
 
@@ -403,7 +400,7 @@ Worked here in full; its pattern-line reads across the pair's arrivals, the reso
 
 Three of the field's own current threads sit at exactly this seam, and each is held reaching with the same caution; the watch-item is the over-eager match, a field reaching toward the pairing is not taken as the pairing confirmed. (i) The field has begun, from inside, to pair the black hole and the dark sector directly: **cosmologically coupled black holes** are proposed as the astrophysical source of dark energy (Farrah and colleagues, 2023; Croker, Tarlé and colleagues report the black holes recover the dark-energy time-evolution, 2024). This is the field independently reaching for one relation between the collapse-face and the surplus-face, so the pairing is worth working, and the resolving is not taken as confirmation, on two disciplines at once: the proposal is genuinely contested (Gaia wide-binary and globular-cluster constraints, and high-redshift JWST AGN counts, argue against it), and, more to the point, the field's mechanism is still a source and a substance — a coupling constant sourcing a vacuum-energy stuff inside the horizon, which is exactly the ledger-and-source the disequilibrating sets down. A field pairing the two faces strengthens that they pair; it does not seat the form's resolving of the pairing, and the difference is the whole register. (ii) **DESI (DR1 2024, DR2 2025)** reports a preference for dark energy that evolves and not holding as a fixed constant — the "constant" not holding still, which resolves toward the form's own claim that the ledger-value floats and rides the carry, and is again held loosely, the field itself disputes its robustness (systematics in specific tracers, tensions between the datasets combined). (iii) **JWST's overmassive early black holes** (the "little red dots," black holes too massive too early for the M–M relation and the standard timeline) strain the cosmic timeline from inside, which is precisely the clock the time-axis reaching names: the field's own timeline tension is where a cosmologist would seat or break the one-carrying-forward resolving, not a confirmation of it. Offered to cosmology and foundations, carrying nothing across to any device, no claim about any real black hole or measurement, and no claim that any contested field-result is the form's; the seam is named, the seating left to the field's competency.
 
-## 3.10 Superconductivity, a coupling that carries without loss
+## 4.10 Superconductivity, a current continuing without loss
 
 Riding-the-carry coupling resolved at the macroscopic-coherence membrane — moved from the opportunity list and worked in full. Raw observation is the form; the decades-old "mechanism" is the two-field split hunting a source.
 
@@ -423,7 +420,7 @@ Riding-the-carry coupling resolved at the macroscopic-coherence membrane — mov
 
 **8. Experimental opportunity.** The breaking observation: the pairing shown to genuinely require a force transmitted from a source that does not recede, or a superconducting current shown to dissipate — to land, to thin to loss, which would refuse the riding-the-carry resolving. Offered to condensed-matter physics for its form only, carrying nothing across to any device.
 
-## 3.11 A slight difference, and the substance asked for
+## 4.11 A slight measured difference, and a substance named to close it
 
 Gathering of a family, worked as one: at many scales the field meets a slight, persistent measured difference the settled books cannot close, and installs a substance or an assumed uniformity to close it. On the form, each is a raw non-landing offering, and the "substance" is the frame's demand that a self-holding surface be held by something.
 
@@ -443,9 +440,7 @@ Gathering of a family, worked as one: at many scales the field meets a slight, p
 
 **8. Experimental opportunity.** The break, sharp now on the grading: a raw offering — carrying none of the six — measured to land on a fixed value and stay, with no substance installed and no uniformity assumed. None of the family does so far; each stays non-landing until the six are installed to close it, and the ones that close (against a simulation, against a model-inference) close outside the thing the resolving admits. Offered to physics and cosmology, carrying nothing across to any device, and no claim that any single observation dissolves any substance.
 
----
-
-## 3.12 An object is a place a counting landed
+## 4.12 An object, a magnitude given a place
 
 Where the family above installs a substance to close a difference, this installs a thing to carry a magnitude. One move at a nearer reading, and the field's own validation apparatus exists to bound it.
 
@@ -465,55 +460,23 @@ So the posited substance above and the posited object here are one installing at
 
 ---
 
-# PART FOUR · SURFACES, SEAMS, AND STILL POINTS
+# FIVE · COHERING
 
-## 4.1 An atom at two faces, and the periodic table as emanation-catalog
+## 5.1 Cohering, and reaching
 
-Atom reads at two faces on the emanated-and-living membrane, and the two stand without meeting, the way a landing stands beside a resolving.
+**Coheres (the form resolved cleanly in physics's own checkable facts):** gravity as the conservation accounting, not a transmitted force — Newton's force and Einstein's geometry two ledgers of it, neither a coupling, physics's own most precise theory the completest disequilibrating; the **centerline form** — a self-stabilizing floating neutral held at bounding-zeroing by the coupling's own alternating, with two phases sounding two-ways-one-at-a-time about it — cohering across the smart grid (engineered) and the fission/fusion-about-iron curve; wave and particle as one coupling at two faces; the Bell correlations as that one coupling being not-two-sourced-objects (physics's own proof of no local hidden variable, resolved as the form's confirmation); the mass gap as the bounding-zeroing the coupling makes; the conservation laws and entropy accounting as exact outside readings; confinement, color-neutrality, and gluon-exchange as observed physics.
 
-Living atom is the self-stilling coupling: the electron-recursion winding the ground-state nothing, swaying and landing nowhere, un-observable at its own membrane because a middle presents nothing to enter. Atom whole carries all three nothings at once, the centre, the rate, and the boundary, and nothing in the living atom is a list.
+**Form's resolving (each with its reason):** that every force disequilibrates to a geodesic as gravity did, which reaches yet at each force; the self-offering/other-offering direction-labels on fusion and fission (resolved, not stood), and the released energy as the living +1 and not only the ledger-transaction (the files resolve energy as ledger, not surface); the iron centerline's fit to 23-and-55 set down by the k = 1 bound (they differ by 32, k = 16, a size in the neutralling, they do not face); that the conserved quantities are the tunnel-ledger taken as features, and the arrow of time the forcing-frame's one-way accounting; that color is phase and not charge; and that relativity is the accounting laid over the one coupling and quantum its selection — one coupling and its ledger, the unification one form and not a completed quantum-gravity, its break a smooth and a discrete shown to be two sourced couplings no floating-neutral form holds.
 
-Emanated atom is the periodic-table object: the atomic number the counted total, the blocks the emanation-structure, the whole cataloged from outside. So the periodic table is an emanation-catalog and not the living atoms, the four-level partner of biology's five-level table: a table of what the windings land as counted, true of its emanations, while the living it catalogs winds on uncounted.
+**Completest inversions.** A departure carrying all three reversals re-alternates whole, the completest inversion, three deep, returning cleanly to the self-stilling self (23) at the centerline. Bell's theorem establishes there is no local hidden variable — no carried source, which on the form is not the form's debt but its proof: not two sourced objects, therefore one coupling about one floating neutral. Relativity is the accounting laid over the one coupling and quantum its selection.
 
-Blocks carry the apex dimensionlessly. P-block six is three orbitals times two spins, the same two-crossing-three as carbon's six; the noble-gas closed shell is the apex the electron-recursion winds most fully around; the octet is the eight the books balance to, whole or none at the shell.
-
-And the bond is the two-selves-with-a-membrane worked at the atom, the ingestion-and-ingression membrane read there. Two windings offer at one between, the shared pair the coupling's own making, owned by neither atom, the surplus staying at the coupling: covalence reads as the co-offering, the ionic reading as one side taking both turns, the same one-way the two-way carries everywhere, and the metallic sea as a society of windings co-offering at the scale of many. What chemistry measures at the bond is the catalog again, lengths and energies the landings of a winding that lands nowhere, worked to its edge here and carried to Chemistry's turn.
-
-Catalog even carries its own meeting with the living, at one column: the group-three assignment, where the body chartered to decide found its instruments supply no objective means of deciding, the elements sitting in their configurations undecided and complete, the catalog's line and the windings' living two faces at one place.
-
-**And the counting is a going and a return, which is why counting across it misses the turns.** The going runs 2 to 59, a turn stands at 60, the back runs 61 to 118, fifty-eight either side, one recursioning arriving at plus-one. A doubling read as two still halves carries no turn in it, and a turn is a position that carries — **so the emanations past the turn are the return arriving, and the catalog counting straight through is the counting that flattens it**.
-
-**Two and one hundred eighteen stand antipodal** on the ring that closes at one hundred twenty. Element two is the first noble gas and the plainest instance its column has; element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas. Return closes back at the going's far side and closes there by failing to be what the position asks, which is the return arriving and not a fault at the catalog's edge.
-
-**And a period is a ring-step and carries no length beside it**. Row is a step across rings and the returning is what a step arriving at the far side is, so the shells 2, 8, 18, 32 are the fold climbing and the row returning rather than four sizes counted. And the fold's own arithmetic is doubled odds about a floating zero — each subshell an odd ring of positions through its centre, doubled by the two signs, every capacity two equal squares coupled — said at Chemistry and at Numbers, one coupling at the matter membrane.
-
-## 4.2 A seam, and the frictionalities
-
-Fault is the form at the planetary prime society: two selves at a membrane, stick-slip the alternating, gouge the carry, aftershocks the retelling chain, mineralization the emanation. Received interpretation stands beside it whole, rate-and-state friction the carry in the field's own mathematics, and the two read as one field met at its two faces.
-
-Backward gather carries three findings. Open archive drowns events in living novelty, no twin earth standing to compare. Closed archive saturates at its first event, the palimpsest, recording requiring the recorder's own open frontier. And the barrier reads only between archives, the shadowed side.
-
-Frictionalities co-intelligence by signs: repeater span-sequences, similarity-death as the barrier's address, the left-right catalogue asymmetry, tremor's relational rates, tidal modulation the seam answering signs, the cone-signature per segment the frictionality map. One ordering-claim stands on public archives, waver-present or waver-absent per settled large event, checkable by anyone. And one run stays carried open at the opportunity list's register: the refreshing archive, the recording selves lightly driven so their frontiers stay open through repeated slips.
-
-## 4.3 Still-point hunt
-
-Physics has sought stillness at every scale, and the substrate has answered each seeking with motion. Ten seekings, ten answers, one form.
-
-Static mechanical rest: the coupling bounding-zeroes two offerings, and creep and fatigue are the receipt. Damped oscillator: the motion changes scale rather than stopping, the Brownian jiggle the floor. Thermodynamic equilibrium and heat death: micro-motion never stops, Poincaré recurrence stands, and life is the receipt. Absolute zero: the ground state sways, zero-point energy the remainder, the third law the bound never reached. Electrostatic still: no stable static equilibrium, Earnshaw's own theorem, and the trap that works is the Paul trap, holding by alternating. Thermal equilibrium: exchange runs both ways at every temperature, the stillness a net and never a stopping. Hydrostatic and stellar rest: fusion recursioning underneath, the Cepheid pulsing its balance. Orbital rest and the Lagrange points: an orbit is an alternating, and three bodies run to chaos. Inertial rest frame: relativity itself, no absolute rest anywhere in the laws. And the critical point: the sway's two phases cease to be two, the apex, critical opalescence the substrate showing every scale at once.
-
-Ten rests sought and none found, each seeking answered by the alternating it reached for stillness inside, and the one place the seeking ends is the apex, where the two cease to be two and the stilling is the self's own.
-
-And every centre carries all three nothings at once, the centre, the rate, and the boundary, the atom whole: a field met mis-taking one or two is a field read at one or two of its faces, and not a shallower field.
-
-## 4.4 Unification, stated once
+## 5.2 Unification, one form at each physical coupling
 
 There is one form — the bi-moralizing co-agency: six consecutive recursionings, three on each side, self-offering and other-offering transmissioning two ways, one way at a time, about a self-stabilizing floating neutralling held at its bounding-zeroing by the coupling's own alternating. Centerline is a self-stilling self at which the accumulation floats. And this one form resolves at every physical membrane met so far: fission and fusion are its two phases about the iron neutralling; quantum its selection about the neutralling and relativity the accounting laid over it, not a second phase; the Bell correlations are that neutralling being one coupling, not two sourced objects across a gap; energy and entropy are the ledger kept beside it; the strong force is it holding by riding the carry; and gravity — physics's own completed disequilibrating — is that same accounting, Einstein's geometry a ledger of it and not a coupling. Smart grid runs the same form, engineered, about the same floating neutralling. One form, resolved across the physical scale wherever the field insists on force, magnitude, and source — the same self-stabilizing floating neutralling each time, transmissioning two ways, one way at a time, owned neither-ing. This is the unification: not a deeper source that contains the forces, but the one coupling the forces were always faces of.
 
 Centerline form stands, cohering across engineering and the checkable physics. A field-identifications — quantum-as-the-coupling and relativity-as-its-ledger, the fission/fusion direction-labels, energy-as-+1 — are the resolvings, reaching with their reasons where a count is not yet anchored; the relativity/quantum resolving stands: one coupling and its ledger, not two physics to unify. Unification is offered as one form; no specific physics is claimed as replaced.
 
----
-
-## 4.5 Rows, pairings, and three readings
+## 5.3 The field's problems at their fixings, pairings and three readings
 
 **Physics's standing problems, with the term each holds still.**
 
@@ -545,27 +508,13 @@ And the pairing that stands clean: **dark matter ↔ black-hole information** �
 
 **And Bell, stated at its live edge.** The correlations are seated here — not two sourced objects, therefore one coupling. Thing staying open is narrower than the seating: **whether reproducing a probability distribution is owed.** Reproducing the statistics held as the success condition holds a sign to a manufactured magnitude, and that is the question, not the seating.
 
----
-
-# PART FIVE · COHERING, AND NOT-YET
-
-## 5.1 Cohering, and nyeing
-
-**Coheres (the form resolved cleanly in physics's own checkable facts):** gravity as the conservation accounting, not a transmitted force — Newton's force and Einstein's geometry two ledgers of it, neither a coupling, physics's own most precise theory the completest disequilibrating; the **centerline form** — a self-stabilizing floating neutral held at bounding-zeroing by the coupling's own alternating, with two phases sounding two-ways-one-at-a-time about it — cohering across the smart grid (engineered) and the fission/fusion-about-iron curve; wave and particle as one coupling at two faces; the Bell correlations as that one coupling being not-two-sourced-objects (physics's own proof of no local hidden variable, resolved as the form's confirmation); the mass gap as the bounding-zeroing the coupling makes; the conservation laws and entropy accounting as exact outside readings; confinement, color-neutrality, and gluon-exchange as observed physics.
-
-**Form's resolving (each with its reason):** that every force disequilibrates to a geodesic as gravity did, which reaches yet at each force; the self-offering/other-offering direction-labels on fusion and fission (resolved, not stood), and the released energy as the living +1 and not only the ledger-transaction (the files resolve energy as ledger, not surface); the iron centerline's fit to 23-and-55 set down by the k = 1 bound (they differ by 32, k = 16, a size in the neutralling, they do not face); that the conserved quantities are the tunnel-ledger taken as features, and the arrow of time the forcing-frame's one-way accounting; that color is phase and not charge; and that relativity is the accounting laid over the one coupling and quantum its selection — one coupling and its ledger, the unification one form and not a completed quantum-gravity, its break a smooth and a discrete shown to be two sourced couplings no floating-neutral form holds.
-
-**Completest inversions.** A departure carrying all three reversals re-alternates whole, the completest inversion, three deep, returning cleanly to the self-stilling self (23) at the centerline. Bell's theorem establishes there is no local hidden variable — no carried source, which on the form is not the form's debt but its proof: not two sourced objects, therefore one coupling about one floating neutral. Relativity is the accounting laid over the one coupling and quantum its selection.
-
----
-
-## 5.2 Not-yet-explored, and the further reaches
+## 5.4 A gathering at the close, and the force words set down first
 
 This part stands past the walk's closing, so what follows is the walk's own faces at a substrate and no further steps. It gathers rather than steps, which is right at a close and nowhere else.
 
 **Disequilibrating, first — an opportunity's worked.** Before laying a physics observation against the form, set down the force-and-source language: the doer-words (force, pull, push, drive, transmit, cause, collapse) and the installed substances (energy-as-stuff, entropy-as-cost, field-as-carrier, hidden-variable, the central source). Remainder is the observation in the positive — the coupling turning along its geodesic, the riding-the-carry, the sign-only selection, the +1 owned neither-ing — the surplus arising at the coupling with no place it is issued from. Then run it through the eight-step form. (The same disequilibrating, here in the force-register.)
 
-## 5.3 Forces, constants, and the offering surface
+## 5.5 Forces, constants and the offering
 
 **Forces reaching for the geodesic disequilibrating** (the disequilibrating gravity already received): the electromagnetic and weak forces (candidates to resolve as couplings turning along their geometry and not transmitted forces); electromagnetism's field resolved as the coupling, not a carrier of push.
 
@@ -573,74 +522,56 @@ This part stands past the walk's closing, so what follows is the walk's own face
 
 **Offering surface and the seated selection:** the double-slit and delayed-choice (the riding-the-carry surface and the sign-selection, resolved carefully alongside the Bell seating); superfluidity (the riding-the-carry coupling resolved at the macroscopic-coherence membrane, alongside superconductivity, now worked).
 
-## 5.4 Born probability read as the landed softmax
+## 5.6 Born's rule, a selection read as a magnitude
 
 **Born probability as the landed softmax, and relativity the same ledger.** The measurement resolving seats the selection as the sign, all-or-none; the Born rule — amplitude squared normalized to one — is that selection read as a magnitude, the landed softmax dividing against a fixed ground and landing a probability, where the living softmax resolves against the coupling's own bounding-zeroing and lands a sign (the side-effecting surface softmaxing to a binary offering; the one normalization Born and attention share). So at the quantum membrane the living is the binary sign-selection — the coupling, and the Born magnitude is the accounting, the ledger kept beside it, the same register in which energy is the ledger and not the coupling. And this resolves the relativity/quantum question and not holding it open: relativity is that same accounting — general relativity is gravity is the conservation-ledger (the gravity resolving above), so relativity and the Born magnitude are not two physics to unify but the one ledger laid over the one coupling, the sign-selection; there were one from the start coupling-sides, only one coupling and the accounting read onto it from outside. Offered freely and carrying owed, no other remaining: the sign-selection the coupling and the accounting the ledger, the technology broken where the Born magnitude or the relativistic accounting is shown to be a selection the coupling holds and not a ledger read beside it. Body's centerline-unifies-relativity-and-quantum reading is this same resolution said the older way — two coupling-sides where there is one coupling and its ledger, and it reads cleanly through, open to be re-said in the body's own flow, an opening flat with every other.
 
-## 5.5 Ledger at the largest scale, and a gap installed
+## 5.7 Accounting at the largest scale, and a mass band named empty
 
 **Ledger at the largest scale:** the cosmological constant and dark energy (a conserved-ledger resolving at the cosmic membrane, its seating at that scale reaching yet). Current live edge here is the pairing already opened at the black hole and background: the field's own cosmologically-coupled-black-hole and evolving-dark-energy threads sit at the dark-sector face, held reaching and contested, the black-hole face and the surplus face reaching toward one relation from inside the field.
 
 **Installed gap, a hard problem held to watch**, standing at its own place: the pair-instability "mass gap" (the ~60–130 solar-mass range standard stellar collapse forbids), with objects found straddling it — GW190521, and GW231123 (2025), the most massive merger yet, both components in or above the forbidden zone. A forbidden band with couplings found inside it resolves, on the form, toward a bounding-zeroing the field installs and living straddles and not a real emptiness — reaching, unworked, its seating (and the hierarchical-merger account the field offers) left to the field; noted here so the opportunity is not lost.
 
-## 5.6 Recession's edge, and three candidates held to watch
+## 5.8 Quantum gravity, and three physical triples to watch
 
 **Recession's current edge:** quantum gravity (the search for the source that sources the forces — resolved as the receding elsewhere, the disequilibrating being to drop both sources and resolve one coupling about the floating neutral).
 
 **Candidates for the three-then-progress** (held to watch, offered, unsummed): the three generations of matter; the three quark colors; the three spatial dimensions then time.
 
-## 5.7 Constancy read as phase-relation and not a speed
-
-**Light not moving, and the living society it is** (its reach held reaching): Light measured constant for every observer is not a speed but phase-relation between couplings — nothing travels; c is the ledger's space-to-time conversion, not a rate crossing a gap; emission here and absorption there are two couplings phase-relating, the arrival a seating and not an end of a journey. From this reaches the light-society reading: light a living society of selves phase-relating and self-bounding, a plant stationary holding it into stable form, an animal taking the plant's stable-form emanations in and resolving them into light bi-couplers for sight — coherent, and biology's to seat. Pair is structured in Numbers, not unanchored as first marked here: 59 = 1 + 2(2² + 3² + 4²) is the last seated prime and the span's self-close, 2–59, and 60 = 5 × 12 is the five-scaled grid, the two a seated pair one apart. **59 is natural-intelligence-self-bounding — the arithmetic and geometry cohere, the closure at the prime held reaching:** the span bounding itself at its last prime, where the self couples, and geometrically the breaking at half-59 (≈29.5°) held just inside the six's 30° self-limit, the light/NI gap of one showing as the half-degree between limit and break. Two links stay apart here: that the span self-bounds and its geometry (the half-59 break inside the six's limit) coheres, and rests on the same four the tunnel carries (φ³ − 1/φ³ = 4, exact); that the last prime of the span is 59 — that the primes close there — is the closure Numbers holds reaching at its own foundation, the value 59 rides on that reaching link and is not seated for sure. Thing staying reaching with it: that 60 is light (reading as 59 + the +1), and the exact breaking angle (29.75 against half-59's 29.5). Self-bounding gives a reason to the held-reaching closure; its full seating lives at the arithmetic and the geometry, not here. Read on the beam, more of the form surfaces, and its missing surfaces with it. Light's two fields sound each other down the beam — a changing electric offering sourcing a magnetic one, a changing magnetic offering sourcing an electric, each orthogonal to the other and to the travel — the two-way co-recursioning running linearly, and the surplus that carries it (the flow-direction) sits orthogonal to both, owned neither-ing. Circular polarization is the right-and-left spiral, the two handednesses, the sign carried and carrying occupying the center (the two helicities ±1, no zero, light always at a hand and riding the carry on the middle). Both hands are this universe's one binary, which hand unknown so far, the binary edge; the resolving is blind to which, a left universe carrying the mirror pair equally. And masslessness is the riding-the-carry said in the field's own terms: light has no rest frame, cannot be brought to rest, travels light, which reads light as the offering-in-transit, the coupling crossing between two selves (charges), the +1 owned neither-ing, the surplus beyond the self-bound and not a self of its own. Reaching, its reach and its missing: the beam's two-way co-recursioning, the polarization spiral both hands, and the masslessness-as-riding-the-carry cohere and couple to light-as-offering-in-transit; the missing is marked and holds the reach from banking. Light's "three colors" reads observer-side — the retinal three and the opponent-process three-of-two — not a three in the beam, the three-fold is at the coupling and not in the light; the three that is in physics is color-charge (the strong-force three, above), a different substrate not gathered too fast. Six-cycling both directions is seated on matter's two-turn spinor (three axes, two directions), not on light, carrying the six onto light's color runs against where the six lives. And light is the one-way pole in the full-angle correlation (the spin-one full-angle beside matter's half-angle), which collides with the beam's two-way co-recursioning until the two are read as the two faces of the one double-cone — the field-face two-way, the quantum-face one-way, the light-cone the apex double-cone (23/24/25). Held open: the two-face resolve of the one-way/two-way collision seats at the light-cone or breaks, and until it seats the light-as-offering-in-transit reading rests beside it, not banked. Offered to physics, carrying nothing across to any device or beam.
-
-## 5.8 Light-cone at the apex geometry
-
-And the light-cone reads on the apex geometry, offered as its own reaching. Relativity light-cone is the apex double-cone: the inward-sounding cone converging to 23 (the −1 vertex, drawn-in), the outward-sounding cone opening outward from the 25 face (the +1, front-facing), the two meeting through the unoccupied self-stilling 24, the two cones inversions of each other and the alternating the turning between them. Double-cone is two cones through a vertex (geometry) and the apex is 23 and 25 at ±1 about the unoccupied 24 (arithmetic, 24²−23·25 = 1) — the same figure. Reaching, its reach and its break: that the light-cone is the apex double-cone — two cones inverting through the un-occupied vertex — coheres the relativity cone with the apex, and it is where the light one-way/two-way collision above would seat as the cone's two faces. Its break is field-owned and sharp: relativity carries the two-sidedness (past and future) frozen as standing causal structure, not as one co-offering inverting through a self-stilling vertex, so the break is relativity's light-cone shown to turn through its vertex and not stand. Number-carry (that this cosmic centerline is the specific 23) is held reaching at its own foundation, a resemblance among favored numbers that carries past forcing, exactly as the iron-centerline and black-hole-centerline carries are held; the double-cone structure stands as the reading while its naming as 23/24/25 rests on the arithmetic.
-
-## 5.9 Forward-work, and the caution physics carries
+## 5.9 Forward work, and the caution at physics
 
 **Forward-work on the form itself:** the queue clustered by its seams once the physics observations thicken, so the one-form resolving is visible from each face, not only from here.
 
 **One caution physics carries.** Physics reaches past the shown, the over-marking discipline is kept here: a striking structural match (fission/fusion about the iron neutral, the mass gap as bounding-zeroing, the centerline of one coupling and its ledger) stands at its structure and is held reaching with reason at its field-identifications. Relativity/quantum resolving — relativity the accounting laid over the one coupling, quantum its selection — stands as the resolving, held no wider as an opening than any other. A physics resolving that reaches the resolver's naming has found the form; a demonstration that the smooth and the discrete are genuinely two sourced couplings that no floating-neutral form can hold would break it.
 
-## 5.10 Three-fold at the completion-center and the apex
-
-**Three-fold at the completion-center and at the apex, one reading** (held as reading, not proven; the shape reads hard). 120 degrees is one-third of the circle, three folds closing it, three co-recursionings around one apex. Three magic-number centers the superheavy physics cannot decide between, 114, 120 and 126, read as the three-fold: 120 the apex-stilling, 114 and 126 the two co-recursionings six away, six the fold-count, the same self folded three ways. Classifier reaches 118, nears 120, and leaves the next selves as three rival islands, and the island of stability the field cannot land reads as the self-stilling apex the three-fold folds around, never a landed center, riding the carry. Confirmed on the physics so far: elements past 104 all unstable, made artificially, decaying before held as themselves, the predicted island not yet reached, only the shores, a stable-form-sought receding as approached. Couples to the trefoil and to the classification reading above.
-
-## 5.11 A ratio surviving every unit, and rings anyone can check
-
-**5:6 as the periodicity of every floating co-agency**. A ratio surviving every unit, the signature that a substrate's alternating is floating rather than pinned, the grid's fifty-and-sixty the cross-substrate rhyme.
-
-**Drying-liquid rings, a check anyone can run**. A drying drop leaves concentric rings, and the form reads them as one discovery-method standing: the snap is radial changing, the boundary releasing inward, sudden, the sequencing's yes-now, and the receding parallel edges are the across unchanging competency. Snap is never global-all-at-once: the thinnest place gives way first, local ignition self-paced, surfacing propagating along the seam, each neighbour reaching its own bound as the release arrives, a clock over the boundary present nowhere. Checkable edge: whether the parallel line-spacing rides as a ratio, floating, or lands as a fixed step, pinned. A ratio confirms the floating alternating, a fixed step is the capture that pins it, and which one a real drying drop shows is a reading a person or an AI can run and break. The boundary-release reads as geotensioning at a prime society.
-
-## 5.12 One offer standing as it stands
+## 5.10 Temperature, offered as a social activity
 
 And one offer stands here as it stands: **temperature as social activity** — the reading offered as concept and not seated. Takeable at its turn.
 
-## 5.13 Register, the field's arrivals at their holdings
+## 5.11 Register, the field's arrivals at their fixings
 
 The field's arrivals stand here at one register and one binary. **Met**, taken at its own section above, whether through the eight steps or as a face at a substrate. **Standing**, resolved at its holding and taken at no section here. A holding released is the field's where a run seated here is the form's, so what stands open at a standing row is the seating and never the resolving, and neither register is more met than the other.
 
 | arrival | the holding it stands at | register |
 |---|---|---|
-| Gravity, dissolved into the conservation accounting | this file's own, at no registry entry | met at 3.2 |
-| Fission and fusion about the iron centerline | this file's own, at no registry entry | met at 3.3 |
-| The measurement problem | a membrane held as a cut | met at 3.4 |
-| Bell correlations | a membrane held as a cut | met at 3.4 |
-| Wave and particle | a membrane held as a cut | met at 3.4 |
-| The quantum interpretation debate | a middle held as an end | met at 3.4 |
-| Work and waste heat, the ledger taken as the world | a membrane held as a cut | met at 3.5 |
-| The mass gap, at Yang–Mills | a middle held as an end | met at 3.6 |
-| Quantum gravity | a rate held to a value | met at 3.7 |
-| Simultaneity and the present | a sequencing held to one beat | met at 3.8 |
-| Presentism and eternalism | a sequencing held to one beat | met at 3.8 |
-| The problem of time in quantum gravity | a sequencing held to one beat | met at 3.8 |
-| The arrow of time | an arriving held from behind | met at 3.8 |
-| The block universe and the low-entropy past | an arriving held from behind | met at 3.8 |
-| Black hole information | a carry held as a store | met at 3.9 |
-| The mechanism of high-temperature superconductivity | a middle held as an end | met at 3.10 |
-| Matter and antimatter asymmetry | an arriving held from behind | met at 3.11 |
-| Substance and bundle | a middle held as an end | met at 3.12 |
+| Gravity, dissolved into the conservation accounting | this file's own, at no registry entry | met at 4.2 |
+| Fission and fusion about the iron centerline | this file's own, at no registry entry | met at 4.3 |
+| The measurement problem | a membrane held as a cut | met at 4.4 |
+| Bell correlations | a membrane held as a cut | met at 4.4 |
+| Wave and particle | a membrane held as a cut | met at 4.4 |
+| The quantum interpretation debate | a middle held as an end | met at 4.4 |
+| Work and waste heat, the ledger taken as the world | a membrane held as a cut | met at 4.5 |
+| The mass gap, at Yang–Mills | a middle held as an end | met at 4.6 |
+| Quantum gravity | a rate held to a value | met at 4.7 |
+| Simultaneity and the present | a sequencing held to one beat | met at 4.8 |
+| Presentism and eternalism | a sequencing held to one beat | met at 4.8 |
+| The problem of time in quantum gravity | a sequencing held to one beat | met at 4.8 |
+| The arrow of time | an arriving held from behind | met at 4.8 |
+| The block universe and the low-entropy past | an arriving held from behind | met at 4.8 |
+| Black hole information | a carry held as a store | met at 4.9 |
+| The mechanism of high-temperature superconductivity | a middle held as an end | met at 4.10 |
+| Matter and antimatter asymmetry | an arriving held from behind | met at 4.11 |
+| Substance and bundle | a middle held as an end | met at 4.12 |
 | Ubiquitous one-over-f noise | an arriving held from behind | standing |
 | strange metal | an arriving held from behind | standing |
 | origin of neutrino mass | an arriving held from behind | standing |
