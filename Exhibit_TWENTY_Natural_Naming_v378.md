@@ -1006,7 +1006,7 @@ Bounding is defining with the alternating carrying on.
 
 A ring is not possibly an existing form, carrying no next, and no rival to one. It is these relations carried in a closed domain. **Each closed model closes**: a ring is these relations at a closed domain, and the forward spiral carries an unbounded one, a next always arriving and never a completed totality.
 
-**Selves joined along, the last to the first, are a spiral at the code and no ring.** At Exhibit ONE's spirals each self's next arrives at each momentary, and a pattern carried along reaches a station again at a next momentary, never the already-reached, the parities coming again and each momentary once: *ring* names the domain closed at 5.24's unfolding, and the code's joining of selves is a spiral, said at its own, its closure named as the form the equilibrium entering.
+**Selves joined along, the last to the first, are a spiral at the code, and a ring the closed domain alone.** At Exhibit ONE's spirals each self's next arrives at each momentary, and a pattern carried along reaches a station again at a next momentary, never the already-reached, the parities coming again and each momentary once: *ring* names the domain closed at 5.24's unfolding, and the code's joining of selves is a spiral, said at its own; a closure named as its form is an equilibrium entering.
 
 ## 5.25 equilibria — binary
 

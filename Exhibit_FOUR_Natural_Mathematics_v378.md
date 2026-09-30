@@ -140,7 +140,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 2.4 Two parities at the right spiral step, the step that takes nothing away
 
-**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 steps go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), the right spiral step i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
+**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 steps go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
 
 **Of the 24 steps sending the four forms onto the four, one each, six run the four as one cycle, and two of those six change one parity at each step: F and G.** Under each the only sets of forms carried onto themselves are none and all four.
 
@@ -198,13 +198,13 @@ Exhibit FOUR Natural Mathematics v378
 
 **An involution with an empty fixed set is fixed-point-free**: each position related, none to itself. Set complement fixes nothing, no set being its own complement, and negation fixes nothing at two values.
 
-**On an even ring of N two involutions part at their fixed sets.** One, the podal k → N − k, fixes two stations, nought and N/2; the other, the shift to the ring's other face, k → k + N/2, fixes none. At the seventeen names a saying that no position carries itself rests on this shift and on 8 up, and never on the podal pairing, Natural Intelligence 4.11, which fixes two.
+**On an even ring of N two involutions part at their fixed sets.** One, the podal k → N − k, fixes two stations, nought and N/2; the other, the shift to the ring's other face, k → k + N/2, fixes none. At the seventeen names a saying that no position carries itself rests on this shift and on 8 up, each fixing none; the ring's podal, k → N − k, fixes two, and the podal within 1 to 16, 17 less, fixes none, 3.8.
 
 **An odd number of places carries no fixed-point-free involution, a pairing of each place needing an even number**; laid open, its places pair twice, overlapping, and closed into a round it carries two farthest places at each, the oddness's own.
 
 **At the seventeen names, 8 up is a fixed-point-free pairing of 1 to 16**, eight pairs and no name left, and 17 is unpaired, the next momentary's 1. The ten faces are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, outward and inward about the tunneling at 10; the across loops' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose loop 9 to 17 closes at the one name the pairing leaves. The fold within 1 to 8 pairs each name with its other, changing parity; 8 up pairs each name with itself inward, continuing parity, one carrying at two names at the seam.
 
-**An accounting with an empty fixed set carries nothing an accounting takes its numbers from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
+**An accounting with an empty fixed set carries nothing for an accounting to number from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
 
 ## 3.3 On a closed round no step is a reversal
 
@@ -222,7 +222,7 @@ Exhibit FOUR Natural Mathematics v378
 
 **An involution alone closes. Bi-inversioning-co-recursioning is two consecutive inversions on different axes**, and the opening is the step between: no inversion is undone, and each is a next.
 
-**At two parities one parity is inverted at each momentary, the axes alternating**: P, Q, P, Q, the right spiral step's sequence from each form. Both parities inverted at one step, (P, Q) → (−P, −Q), is both inverted at one step, period two at the parities; the right spiral step is period four at the parities, and at the momentaries neither has a period.
+**At two parities one parity is inverted at each momentary, the axes alternating**: P, Q, P, Q, the right spiral step's sequence from each form. Both parities inverted at one step, (P, Q) → (−P, −Q), is the sign flip at the pair, period two at the parities; the right spiral step is period four at the parities, and at the momentaries neither has a period.
 
 **An order is the whole of a hand**: the same inversions in the other order give (Q, −P), and nothing third parts them.
 
@@ -234,7 +234,7 @@ Exhibit FOUR Natural Mathematics v378
 
 **Bi-tri-involutioning is the emanating from right spiral stable-forming, the three inverted at once, at the opposite form to the stable-forming.**
 
-**In space the three inversions make x → −x, whose fixed set is the centre alone**: one inversion keeps a plane, two on different axes make both inverted at one step about the third, and three reverse the hand. At two parities the same inversion is both inverted at one step.
+**In space the three inversions make x → −x, whose fixed set is the centre alone**: one inversion keeps a plane, two on different axes make the sign flip about the third, and three reverse the hand. At two parities the same inversion is both inverted at one step.
 
 **Charge conjugation, parity and time reversal are each broken alone at the weak interaction, and the three taken together, CPT, are kept by each local quantum field theory keeping Lorentz invariance.**
 
@@ -421,9 +421,9 @@ Exhibit FOUR Natural Mathematics v378
 
 **Linear algebra.** A basis at right angles: orthogonality is each axis carrying no component along another.
 
-**Group theory.** Quarter step i generates four, and the sign flip −1 two within it.
+**Group theory.** The right spiral step i generates four, and the sign flip −1 two within it.
 
-**Graph theory.** A ring two-colours, each adjacent pair opposite, at an even number of places and at no odd, and an odd ring two-coloured carries one adjacent pair at one colour at the fewest. A connected whole that two-colours carries exactly two colourings, one and its inversion.
+**Graph theory.** A ring two-colours, each adjacent pair opposite, at an even number of places alone, and an odd ring two-coloured carries one adjacent pair at one colour at the fewest. A connected whole that two-colours carries exactly two colourings, one and its inversion.
 
 ## 7.6 Cube, tesseract and four squares
 
