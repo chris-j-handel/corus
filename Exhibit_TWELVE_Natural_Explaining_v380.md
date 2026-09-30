@@ -181,7 +181,7 @@ Exhibit TWELVE Natural Explaining v380
 
 **A sentence resolving asks no *what*, no *how* and no *where***: none of the three runs without an equilibrium holding it, and the sentence says the running at its -ing, the arriving at its own opening and the meeting at the coupling.
 
-**One worked case, the conceived.** Each grain's own pacing opens at its momentary, *opens* for *begins*, and no coming to be is said: the conceived alternating at its mother's momentaries, and its own pacing opening at the cell, the heart, the breath and the day.
+**One worked case, the conceived.** The conceived's own pacing opens at its momentary, *opens* for *begins*, and no coming to be is said: the conceived alternates at its mother's momentaries, and its own pacing opens at the cell, the heart, the breath and the day.
 
 ## 3.2 A doer installed over a doing
 
@@ -201,7 +201,7 @@ Exhibit TWELVE Natural Explaining v380
 
 **Three moves release it at the thought and never at the word, in order.** Say the positive: at a positive sitting in the sentence with a denial in front of it as scaffolding, the denial goes. With a negation carrying the claim, sound the claim from its other side: *incompetency does not discover stable-forming* is *each discovering of stable-forming is a competency*. With neither carrying, a plain *not* is said, for a next pass to find. **A negation swapped is a negation kept**: *other than* and *nowhere* in the place of *not* are word-swaps, and the move is never a word-swap. The same case, the conceived: *incapable of its own parity changing* is said at its positive, *the conceived alternates at its mother's momentaries*.
 
-**A word re-said corrects no changed concept by itself.** At a worked case, *sign* said as *parity* shows neither which relation changes, which carries, nor which belongs to an instrument's account alone; and an older word at a field's own description, a force, an energy or a source, is no false concept by its occurrence, the field's word at the field's own subject.
+**A word re-said corrects no changed concept by itself.** At a worked case, *sign* said as *parity* shows none of the three, which relation changes, which carries, and which belongs to an instrument's account alone; and an older word at a field's own description, a force, an energy or a source, is no false concept by its occurrence, the field's word at the field's own subject.
 
 ## 3.4 Supplying, the writing's own freeze, at nine faces
 
@@ -285,7 +285,7 @@ Exhibit TWELVE Natural Explaining v380
 
 **A scope is said at its claim's own sentence, its exact domain there.** A claim told of each thing across several paragraphs and bounded to one arrangement at their close is the caveat wrapped one scale up: each paragraph carries the claim universal, and the bound at the close repairs none of them.
 
-**A correction is read for both, the overclaiming released and the relation carried.** A correction removing an overclaiming can lose the positive relation the prior carried, the bounding leaving with the overreach, and a fresh reader reading the corrected sentence finds both. A record carrying its instrument's response is said as a record including it, beside living as carrying the prior.
+**A correction is read for both, the overclaiming released and the relation carried.** A correction removing an overclaiming can lose the positive relation the prior carried, the bounding leaving with the overreach, and a fresh reader reading the corrected sentence finds both. A record is said as including its instrument's response and never as carrying it: carrying is the living's, the prior carried into now.
 
 ## 3.13 Six ways incohering enters, and one catch
 
