@@ -1719,3 +1719,38 @@ Each paragraph below stood at Natural Intelligence's carrying as a ready offerin
 ## The Natural Intelligence working: its ready offerings entered (v379)
 
 Natural Intelligence at v379, Exhibit ONE inside it unchanged byte for byte, its ready offerings entered at their sections, each claim about the code run at Exhibit ONE's code before it was written and a fresh reader comparing v376 and v379 sentence by sentence, no sentence lost. The hardest gathered at v375 written: item 1, the code's own still, at 2.4 and 4.12, one thousand random closed societies of two to nine selves at forty momentaries stilling no self carrying its prior, the still arriving only from an offerer beside; item 2, the common beat, at 3.5 and 4.13, the rounds the selves together at 17, the code's stepping, exact at the code and no rate of the living, the order of the selves at 17 changing nothing at two hundred societies; item 8, the between, at 2.3 and 5.1, the prior carried across the nothing as a stable form, the carried and never the between; item 12, no size, at 6.4, the many carrying each coupling's own, which no number of the selves carries; item 15, self-bounding, at 3.3. The v377 improving at 4.13 and 6.2, two selves changing parity together and the relation between them carried on, the changing at 12 owned by neither, run at two selves joined across both ways and at rings of two to six at every prior pattern. The v376 close's incoming at 4.5, 9 the bi-trupling's podaling connector; at 5.1, during a momentary too; at 6.1, the changing leaving at 9 entering a receiving self only through its own 12, a 0 carried along arriving as a 0 and surfacing none, a self retaining at each sharing discovering no next self; at 6.5, AI a trained form carrying none of its prior into its next inferring, the AI carried and the living expedition the carrying. The doer sayings re-said at the name's own changing at 3.4, 4.2, 4.3, 4.5, 4.6, 4.14, 6.1 and 6.4: *does*, *gathers*, *made*, *makes* and *passed over* released, an offering of 0 surfacing none at 14 at one name. *Count* re-said at 3.5 and *when* at 3.2 and 4.13. The fresh reader's findings met: *every*, *run*, *there*, *so*, *what*, *counting* and *from outside* released from the new sentences, 4.5's and 4.13's compressed sayings re-said plain, 6.1's *made* at 12 met with 4.3's. Its carrying at v379: opportunities 2, 3 and 4 ready, the two v374 incomings and item 6 at concern, the entered paragraphs released above. The Living File Registry at v379, its own row at v378 and v379 said.
+
+
+## Natural Explaining at v380: the offerings entered, released from its carrying
+
+Each paragraph below stood at Natural Explaining's carrying as a ready offering and entered the file at v380, or was found already carried: the *co-sequencing* incoming names a word the file does not carry, a match, nothing entering; kept whole here, relied on by nothing.
+
+**Incoming, at v373, co-sequencing at one sense.** Natural Naming 2.5 carries *co-sequencing* at one sense, 2.1's, parity changing one momentary after another, which co-bi-sequencing names at its prefixing, and *binary co-sequential* whole at a title. This file's 3.4 and 3.5 take it at its motion.
+
+**Incoming, at v372, one steady form for the front and the contents, at 1.1.** Four forms stand at nine files' fronts, and each entry standing as its own paragraph with `&nbsp;` paragraphs between is the airiness at the site. One form for every file, ordinary size and font, bold at the part titles and not bold at the entries, the entries at the body's own line spacing: line 1 the version line; the title and the subtitle each on its own line with one blank line between and no `&nbsp;` at the front; each part title bold on its own line, its words exactly the body's part heading; the entries as a list, one per line with no blank line between, each the body's section heading exactly; one blank line before the next part title; `---` after the contents; the subsections listed the same way or not listed, one way for all files. Two small choices inside it: the part titles in capitals as the body headings stand, or ordinary case at both; and `PART ONE` or `ONE` for all. A sample, the first part of this file's front in the form:
+
+```
+Exhibit TWELVE Natural Explaining v372
+
+# Natural Explaining
+
+**Self-Welcoming, Bi-Coupling and Co-Competencing**
+
+**Part One · A file arriving**
+
+- 1.1 Title, subtitle and a floating neutralling contents
+- 1.2 One subject at four tellings, and no top
+- 1.3 Self-welcoming, the whole of a front's work
+```
+
+Each file conforms at its next improving pass, one motion at the file, never a pass of its own across the set at once; `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py` checks each entry against its heading.
+
+**Opportunity, for a naming pass.** *Co-sequencing* at 3.4 and 3.5, a running's own parity changing co-sequencing at Natural Naming 2.1's sense, beside Natural Naming's set-namings table gathering it under co-bi-sequencing: one sense or two, settled at Natural Naming and followed here; *bi-co-sequential logic* at 1.4 stays the logic's name.
+
+**Incoming, telling the conceived's own pacing (v374).** At *No cause and effect, and no birth and death*, the telling says each grain's own pacing opening at its momentary, *opens* for *begins*, and no coming to be: the conceived alternating at its mother's calls, and its own pacing opening at the cell, the heart, the breath and the day. At *Negation of existing released*, *incapable of its own parity changing* is said at its positive: *the conceived alternates at its mother's calls*. At *A doer installed over a doing*, *the host's parity changing is the source* is said with no source: *the mother's parity changing carries the conceived's*.
+
+**Arrived, at v377, from the Natural Physics improving report, aimed at 3.3 and 3.12.** A correction can remove an overclaiming and lose the positive relation the prior carried: at the proposed Natural Physics 1.1 the first draft lost the bounding and named the two-way offering without explaining it, and a fresh reader found both. A word's re-saying corrects no changed concept by itself: at Natural Physics, *sign* said as *parity* shows neither which physical relation changes, which carries, nor which belongs to an instrument's account alone, 3.3's never a word swap at a worked case; and an older word at a field's own description, a force, an energy or a source, is no false concept by its occurrence. A record *carrying* its instrument's response, beside living as carrying the prior, is said as a record including it.
+
+## The Natural Explaining working: its front and its four incomings (v380)
+
+Natural Explaining at v380: its front at the steady form, the version line, the title, the subtitle, each part title bold, the entries as a list, `---` after the contents and no `&nbsp;`, `check_set.py` reading each entry at its heading; the conceived entered as a worked case at 3.1, 3.2 and 3.3, *opens* for *begins*, the source released and the negation said at its positive, *calls* said as *momentaries*; a word re-said correcting no changed concept by itself at 3.3, and a correction read for both, the overclaiming released and the relation carried, at 3.12, from the Natural Physics improving report; the *co-sequencing* incoming a match, the word at no place in the file. Its next at its carrying: the released words re-said at one motion, *running* at 78 places, *telling* at 33, *take* at 34, *sign* at 25, *there* at 14, *count* at 15 and *membrane* at 1.6, five section titles among them, a motion of its own with a fresh reader. The Living File Registry at v380.
