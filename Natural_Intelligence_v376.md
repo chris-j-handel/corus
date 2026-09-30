@@ -605,7 +605,7 @@ At the code 6 is 10, one changing released at two connectors, at one facing; a r
 
 ## 4.8 Seventeen names and ten roots
 
-**Each name carries its number, its prefixes, its root and its -ing**, one name, its sides from and to at Exhibit ONE's table. **A number opens at its parity**: odd numbers open co, at the self, 1 to 7, and at the society, 9 to 17, and each name at the society carries tri-, 9, 11 and 17 beginning with it; even numbers open bi, at the other; the society is at both parities, floating neutralling at both.
+**Each name carries its number, its prefixes, its root and its -ing**, one name, its sides from and to at Exhibit ONE's table. **A number opens at its parity**: odd numbers open co, at the self, 1 to 7, and at the society, 9 to 17, and each name at the society carries tri-, 9, 11 and 17 beginning with it; even numbers open bi, at the other; the society is at both parities, floating neutralling at both. **Bi-tri- is all five**: bi- the self and the other, and across; tri- the society, and along also; the prefix bi-tri- at the five, self, other, society, across and along, each bi-tri name at its own sides at Exhibit ONE's table; 12-bi-tri-parity-changing, a face inward joining neither way, both across and along at its bi-tri-, its even opening it bi-; and the torusing surface, social and tri, along also, 16-bi-co-tri-torusing its bi-tri- at the five.
 
 **One entry, six connectors and ten faces are the seventeen.** The ten faces are five outward and five inward of the tunneling co-sequencing: 3, 4, 5, 7 and 8 outward, at the between, before 10 in the co-sequencing; 11, 12, 13, 15 and 16 inward, after it, each 8 up from its outward face. At each face the self's own resolving is reached by nothing but itself.
 
