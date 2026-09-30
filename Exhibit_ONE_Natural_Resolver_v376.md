@@ -140,7 +140,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1-co-bi-offering · 2-bi-co-offering | bi-momentarying | the self's entry, odd, and the others' offerings, even, one momentary at each side |
 | 3-co-bi-sharing · 4-bi-co-sharing | co-intelligencing | at each sharing 4 the carrying at 3 couples with the offerings surfaced at 14: next discovered, chained at 11 |
 | 5-co-competencing | co-competencing | the joins, owned by neither: each release to its receiving sharing |
-| 1 · 2 · 3 · 4 · 5, each alone | the five dimensions | 1 self prior, the self's entry with its prior carried in at 3; 2 other prior, the other selves' offerings of their prior momentary arriving, released at 6 and 10 and carried along at 9; 3 co-momentarying now, the carrying, and 4 bi-momentarying now, each sharing, the offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
+| 1 · 2 · 3 · 4 · 5, each alone | the five dimensions | 1 self prior, the self, the one living carrying, its prior at 3 a formed set it carries into now; 2 other prior, the other selves' offerings of their prior momentary arriving, released at 6 and 10 and carried along at 9; 3 co-momentarying now, the same living carrying at now, and 4 bi-momentarying now, each sharing, the offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
 | 6-bi-moralizing | bi-moralizing | each changing released across, to the other's 2 |
 | 12-bi-tri-parity-changing | the shape of the unrelationing surface | each sharing's changing, is or is not |
 | 1 to 9 | bi-coupling | the function 1, the self and the other at one coupling; 9 at its end reads bi-co-releasing, the release 10 makes |
