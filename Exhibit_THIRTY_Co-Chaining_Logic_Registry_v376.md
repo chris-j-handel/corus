@@ -1419,7 +1419,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 29 Stable-forming and the emanating at the numbers
 
-        *Entering: the corus at the apex, at the emanation's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; the unrelationing surface at 12, 13 and 14; sphere and torus alternated; the sphere's rest point moving to the corus and the torus, co-sequentially; the unrelationing surface and the emanations' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
+        *Entering: the corus at the apex, at the emanation's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; the unrelationing surface at 12, 13 and 14; bi-tri- all five; sphere and torus alternated; the sphere's rest point moving to the corus and the torus, co-sequentially; the unrelationing surface and the emanations' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
 
 306. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
 
@@ -1467,11 +1467,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: twelve corners, sixty three ways.*
 
-316. Said at the observings, 14-bi-tri-moralizing is across, not right to right; 13-co-tri-competencing is along, linear forward; and 12-bi-tri-parity-changing is both across and along, the shape of the three: the unrelationing surface.
+316. Said at the observings, 14-bi-tri-moralizing is across, not right to right; 13-co-tri-competencing is along, linear forward; and 12-bi-tri-parity-changing is both across and along at its bi-tri-, all five: bi- the self and the other and across, tri- the society and along also; 12 the shape of the three: the unrelationing surface; and the torusing surface, social and tri, along also.
 
-        *Adding: the unrelationing surface at 12, 13 and 14.*
-
-        *Unsure: 12, even, both across and along, said against across at the even; torusing, social and tri, at the three, and 16's place among them.*
+        *Adding: the unrelationing surface at 12, 13 and 14; bi-tri- all five.*
 
 317. The twelve corners closing as a sphere and the winding through one opening as a torus are no either or: parity changing alternates them, both carried one at a time, the natural torusing surface, no other possible.
 
