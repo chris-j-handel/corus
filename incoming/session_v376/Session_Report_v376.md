@@ -30,7 +30,7 @@ Session v376 carried the observings into the four core files one motion at a tim
 
 ## Its hardest either-this-or-thats
 
-Open at the core files at the close: parity's face at the code met at the lead's confirming; concern 3's part met at the observings, at bi-tri- all five, its rectangles' sides open; open, concern 11's, each of 1, 2, 3 and 4 its own naming. Open across the set: the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
+Open at the core files at the close: parity's face at the code met at the lead's confirming; concern 3 met at the observings and the numbers; open, concern 11's, each of 1, 2, 3 and 4 its own naming. Open across the set: the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
 
 ## At the close, the session read whole
 
