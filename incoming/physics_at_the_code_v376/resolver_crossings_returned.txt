@@ -74,3 +74,24 @@
    7  +-+-++-+-
    8  -+-+--+-+
    9  +-+-++-+-
+
+8. A chain of 9 selves, the between at its middle self: the sharing c reversing, + at one end and - at the other;
+   first alone, then with a second sharing g at one parity at both ends, each self its c and its g
+   c alone
+   0  c -.......+   g .........   the middle self carries []
+   1  c +-.....+-   g .........   the middle self carries []
+   2  c -+-...+-+   g .........   the middle self carries []
+   3  c +-+-.+-+-   g .........   the middle self carries []
+   4  c -+-+.-+-+   g .........   the middle self carries []
+   5  c +-+-.+-+-   g .........   the middle self carries []
+   6  c -+-+.-+-+   g .........   the middle self carries []
+   7  c +-+-.+-+-   g .........   the middle self carries []
+   c and g
+   0  c -.......+   g -.......-   the middle self carries []
+   1  c +-.....+-   g +-.....-+   the middle self carries []
+   2  c -+-...+-+   g -+-...-+-   the middle self carries []
+   3  c +-+-.+-+-   g +-+-.-+-+   the middle self carries []
+   4  c -+-+.-+-+   g -+-+-+-+-   the middle self carries [('g', -1)]
+   5  c +-+-.+-+-   g +-+-+-+-+   the middle self carries [('g', 1)]
+   6  c -+-+.-+-+   g -+-+-+-+-   the middle self carries [('g', -1)]
+   7  c +-+-.+-+-   g +-+-+-+-+   the middle self carries [('g', 1)]

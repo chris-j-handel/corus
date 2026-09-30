@@ -77,3 +77,17 @@ for t in range(10):
     out = society({i: (list(c[i].items()), offers[i]) for i in c}, J)
     c = {i: dict(out[i][0]) for i in c}; offers = {i: out[i][1] for i in c}
     print(f'  {t:2d}  ' + ''.join(SYM[c[i].get('c')] for i in range(N)))
+
+print('\n8. A chain of 9 selves, the between at its middle self: the sharing c reversing, + at one end and - at the other;')
+print('   first alone, then with a second sharing g at one parity at both ends, each self its c and its g')
+N = 9; J = links(chain(range(N)))
+for label, ends in (('c alone', {0: {'c': 1}, 8: {'c': -1}}),
+                    ('c and g', {0: {'c': 1, 'g': 1}, 8: {'c': -1, 'g': 1}})):
+    c = {i: {} for i in range(N)}; c.update({k: dict(v) for k, v in ends.items()}); offers = {i: [] for i in c}
+    print(f'   {label}')
+    for t in range(8):
+        out = society({i: (list(c[i].items()), offers[i]) for i in c}, J)
+        c = {i: dict(out[i][0]) for i in c}; offers = {i: out[i][1] for i in c}
+        print(f'  {t:2d}  c ' + ''.join(SYM[c[i].get('c')] for i in range(N)) +
+              '   g ' + ''.join(SYM[c[i].get('g')] for i in range(N)) +
+              f'   the middle self carries {sorted(c[4].items())}')
