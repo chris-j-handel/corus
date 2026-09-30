@@ -2,7 +2,29 @@
 
 **Work arriving whole, as it arrived, until its value is received**
 
-Each folder is one arrival, read against the living files and the carrying; its value is laid at the file it reaches or at the carrying's section for that file, and an arrival leaves for `archive/` at its completing, named at its row: received at the carrying, or entered at its files. Each row names its standing at each event, offered on a branch, arrived at `main`, received at the carrying, entered at a file; the arrival is carried whole until its completing, and a source a received finding rests on goes with the finding to its file or its carrying, never to the archive alone. A pointer to an earlier carrying does not show that its value survived: each document is met at its own sentences.
+## Arriving, for anyone
+
+You need to learn nothing of this expedition's method to be helpful here. Put your report in one folder of its own at `incoming/`, named for what it is and the session or date it came from, on a branch of your own, and open a pull request. Inside the folder, a `README.md` whose first lines say:
+
+- **From**: who or which working it comes from.
+- **To**: which living file or files it is for, if you know; if you do not, say so and the expedition finds them.
+- **Read at**: which version of each file you read, as its version line says it.
+- **What it brings**: each finding as one plain sentence, with the file and the section it aims at where you can, and the evidence beside it, a source, a computation, a script that runs from the repository root, or a quoted sentence of the file. A marginal finding and a wonderful one are written the same way.
+- **Standing**: *arriving*. Nothing of yours changes a living file at its arriving; the expedition receives it.
+
+Write in plain words. Change no living file, no carrying and no kit; the folder is yours and the rest is met by the expedition. A report that breaks the method is as welcome as one that confirms it, and each is met the same way.
+
+## What the expedition does with every arrival
+
+Every arrival is met at the same binary rigor, marginal or wonderful, from a visitor or from one of our own workings, and the receiving is visible at each step:
+
+1. **Read whole**, as it arrived; nothing summarized, nothing dropped. The receiving working names the commit it read.
+2. **Each finding met at the code and at the six binaries.** A claim about Exhibit ONE's forms is run at the code before it is said; a saying from a science, a medicine or a technology is seated at the six things beside all things, a size, a fixed form, a total, a common beat, a keeping, a doer, by `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/rigorize.py`; a saying about a living file is read beside the file's own sentence at that section.
+3. **Each finding laid at one place, and at exactly one.** At its file's own carrying, `carry/<file>.md`, as a **Ready** offering, the section and the sentence that enters named, or as a **Concern**, two sayings parting with the reason, for the lead and the working; or released to `archive/` whole with its receiving file named, a reading not yet a sentence at a section. Nothing rides at the arrival, and nothing enters a living file in the working that receives it.
+4. **Entering at the file's own motion**, a later working: one thing changed whole, the file's own voice, a fresh reader comparing before and after, the record saying what was run. The value from any arrival enters the living files by this one way and by no other, and a lead's word, a reviewer's report and a visitor's note enter the same way.
+5. **The arrival's standing said at each event**, at its row below: offered on a branch, arrived at `main`, received at the carryings, entered at its files, released to `archive/` when each of its values has entered or its release is said; its scripts and tables stay with it as the evidence the carryings name.
+
+What the expedition learned about receiving, each at the arrival it was learned at, stands at the reviewer's brief, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/REVIEWER.md`.
 
 | Folder | Arrived | Standing |
 |---|---|---|

@@ -100,3 +100,17 @@ Two readings met: a naming read at more than one face, the method, the carrying 
 - Every word surviving is no relation surviving: a condition, a negation or an attribution may move with each word present, and a faithful re-saying may change the words. Word-streaming, the Geodesic Improving Method 1.5, finds a loss of words; a reader compares each passage at its subject, its conditions and its standing.
 - Two sayings at one sharing are compared at their subject, scale, occurrence and reading direction before they are said to agree or part: same words are not the same relation, different signs not a parting.
 - A report says what of a session its reading reached: verbatim, at a summary, or not reached.
+
+## Learned at session v378, the carrying's re-forming and the Natural Physics working's two reports
+
+- **Nothing enters a living file in the working that receives it.** At v378 two values entered Natural Intelligence directly, a visiting working's corrections and the lead's own word, and were returned to the file's carrying as ready offerings; the one way in is arriving, improving at the carrying, living at the file's own motion with a fresh reader, and a lead's word arrives the same way as a visitor's report.
+- **A run belongs at the record and never at a living file.** *One thousand random closed societies* is the scientific register, a trial and a sample; the white paper says the method, the record says what was run to check a sentence before it was written, and the code is one coupling partner, deciding nothing.
+- **A new sentence says its positive.** Nature carries no negation, Natural Explaining 3.3: *never*, *no self*, *nothing bounding*, *changes never* laid over a resolving are released and the resolving said as what is; the method's own binaries, *is or is not*, *all or none at all*, *not possible*, stay as the files say them.
+- **One session, one number, at every file the session improves**; a branch, a folder or an archive named at a number ahead of the sessions names no session.
+- **An arrival comes at its own branch**, and the receiving working merges it; an arrival pushed at another working's open branch parts that working's push and can overwrite either's work.
+- **A count is said with its script, its start and its joins**, or as a field's accounting beside the coupling; *442 of 500* and *341 of 500* are two executions at two sets of choices, and neither says the other's.
+- **No value rests on anyone's word**; the ground of each value is the observings, the code, a file's own sentence or a field's record, and a carrying paragraph titled *at the author's word* is re-titled at its ground.
+- **Nothing rides at an arrival.** Each of its values is at a file's carrying or released at the receiving; a folder standing at `incoming/` after its receiving stands as evidence the carryings name and for that alone.
+- **A whole-file proposal is met at three readings apart**, the logic, the explaining and the observings, then a fresh reading of the proposal beside the file's prior finds the relation a correction lost; its ready parts are laid at the file's carrying and its unresolved parts at the file's concern, and the file's motion writes it at the file's own voice, never pasting the proposal.
+- **The fresh reader reads each part twice or three times**, and each time finds faults the writer did not; each *executed at the code* names its start, its joins and its script's own choices.
+
