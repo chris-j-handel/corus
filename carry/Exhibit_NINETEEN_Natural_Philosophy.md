@@ -4,14 +4,11 @@ Exhibit NINETEEN Natural Philosophy · carrying v378
 
 **Next at this file: none before its receivings.**
 
-**Opportunity, keeping the subject apparent.** Philosophical divisions and their proposed re-couplings retain their particular subject beside Naming's craft and Physics' observings. Meet repeated general-method explaining with Resolving Hard Problems while preserving the particular dilemmas.
+## Ready
 
-**Incoming, further seams.** Flowing now/block, substance/bundle and subject/object meet Physics' time, object and measurement passages. A bounding-zeroing divided into two positions meets the ninth thing named still, Naming's forcing at a pair and Values' governing. The uncrossable membrane and common clock meet Ghost Registry. Keep the six-step seam form and the physical method's count at their own operations; common counts establish no correspondence alone.
+**The hardest, gathered at v375, item 17, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
+17. **A self preferring, taking and sorting**, free will and value, against arriving without filter or selection; 10 files. *Resolving found*: 14 surfaces the offerings uncounted, and at 12 the self's own carrying meets them, at a match carrying on and at a mismatch chaining the offered: no chooser, the self's own carrying at its own face, reached by nothing but the self; free will is that. *To write*: Natural Philosophy 3.3, Values 1.1, Health, Medicine, Destinies, Human Society.
 
-**Incoming, the particular correspondence to meet at current files (Philosophy ⇌ Physics).** one dividing met at two substrates — four requirements at the one and six at the other, each file saying every requirement is one requirement worn that many ways; and one seam form at six steps and at eight, the disequilibrating parted from the re-alternation where the other holds one re-coupling, and an experimental-opportunity face the other's substrate carries none of; neither count reading from the other, so the six is the origin's own met at two substrates and no parting, both turns taken
+## Concern
 
-The registered relation is carried at TWENTY-SIX. This detailed correspondence remains at its receiving until the current names, counted subjects and actual passages have met; its earlier section coordinates name the passage to find, not a completed updating.
-
-**Opportunity, common method and particular dilemmas.** Preserve the philosophical divisions, their stated traditions and their proposed re-couplings. Gather repeated universal method derivations with their current explaining in the foundational and resolving files, while keeping enough local conceptual co-chaining for each dilemma to be intelligible. Shared 1–17 form does not make a philosophical tradition and a physical observing interchangeable.
-
-**Opportunity, a relation retained across its accounts.** THIRTY L2–L5 and L9–L30 locate mind/body, human meaning, institution, source, scale and accounting comparisons beside their actual logical priors. L29's counts meet the file's current tables; L27's human ways retain their particular lived relations before any consolidation. The common method gives their seam while the contribution made by each explaining determines its receiving.
+None.
