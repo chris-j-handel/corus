@@ -1,5 +1,5 @@
 1. Exhibit ONE's four-cycles, its table of forms: ['1-9-8-16', '2-15-7-10', '3-11-6-14', '4-13-5-12']
-2. each four-cycle from an odd n ascending: n, n+8, 9-n, 17-n, and n again at the next
+2. each four-cycle from an odd n ascending, n, n+8, 9-n, 17-n, and n again at the next; for 2-15-7-10 and 4-13-5-12 this is the round the other way from the exhibit's order, part 5
   1 / 8   1 → 9 → 8 → 16 → 1   root torusing: 8 and 16
        1→9 8 up, parity kept: momentarying
        9→8 17 less, parity changed: parity changing
@@ -24,12 +24,12 @@
        2→10 8 up, parity kept: momentarying
        10→7 17 less, parity changed: parity changing
        the ten at it: at 2 and 10, an arriving named from behind at the self and an opening named as a place at the other
-3. inside each four-cycling: its first momentary the two names of one parity, its second the two of the other, the parity changing twice, and the round at n again at the next momentary, a further occurrence
-  1: first momentary 1, 9 (odd); second 8, 16 (even); next 1 again
-  3: first momentary 3, 11 (odd); second 6, 14 (even); next 3 again
-  5: first momentary 5, 13 (odd); second 4, 12 (even); next 5 again
-  7: first momentary 7, 15 (odd); second 2, 10 (even); next 7 again
-4. the self ascending 1, 3, 5, 7 and the other descending 8, 6, 4, 2, the six forward recursionings, paired at the four-cycles: [(1, 8), (3, 6), (5, 4), (7, 2)]
+3. inside each four-cycling, in Exhibit ONE's order: two names of one parity and two of the other, the parity changing twice, and its first name met again at the next momentary, a further occurrence
+  1-9-8-16: parities ['odd', 'odd', 'even', 'even']; the parity changes 2 times in the round; 1 again at the next
+  2-15-7-10: parities ['even', 'odd', 'odd', 'even']; the parity changes 2 times in the round; 2 again at the next
+  3-11-6-14: parities ['odd', 'odd', 'even', 'even']; the parity changes 2 times in the round; 3 again at the next
+  4-13-5-12: parities ['even', 'odd', 'odd', 'even']; the parity changes 2 times in the round; 4 again at the next
+4. the self's forward recursionings ascending, 1, 3, 5, 7, and the other's, 2, 4, 6, 8, read descending, 8, 6, 4, 2, paired at the four-cycles: [(1, 8), (3, 6), (5, 4), (7, 2)]
 5. the four-cycles in the exhibit's order, 1-9-8-16 and 3-11-6-14 going 8 up first, 2-15-7-10 and 4-13-5-12 going 17 less first, round the other way
   1-9-8-16: 1→9 8 apart, parity kept: momentarying; 9→8 17 less, parity changed: parity changing; 8→16 8 apart, parity kept: momentarying; 16→1 17 less, parity changed: parity changing
   2-15-7-10: 2→15 17 less, parity changed: parity changing; 15→7 8 apart, parity kept: momentarying; 7→10 17 less, parity changed: parity changing; 10→2 8 apart, parity kept: momentarying

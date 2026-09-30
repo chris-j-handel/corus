@@ -27,6 +27,6 @@
   5: the registry says "self opening, other completing"; the code's parity gives self opening, other completing
   6: the registry says "self completing, other opening next"; the code's parity gives self completing, other opening
 5. the three seatings the files give, against the code's
-  Resolving the Hard Problem Registry, line 740: the same names as the code at 3 of 10: ['an arriving named from behind', 'a parity named as a magnitude', 'a rate named as a value']
-  Natural Naming 4.9: the same names as the code at 0 of 10: []
-  Equilibria Registry, line 176: the same names as the code at 0 of 10: []
+  Resolving the Hard Problem Registry, line 740, two names each: the same two names as the code at 3; a name shared with the code's two at 3 ['an arriving named from behind', 'a parity named as a magnitude', 'a rate named as a value']; on the code's four-cycling at 5 ['an arriving named from behind', 'a middle named as an end', 'a parity named as a magnitude', 'a rate named as a value', 'a two-way named to one side']
+  Natural Naming 4.9 and the Co-Chaining Logic Registry step 380, one name each: the same two names as the code at 0; a name shared with the code's two at 1 ['an arriving named from behind']; on the code's four-cycling at 5 ['an arriving named from behind', 'a completing named as a last', 'a middle named as an end', 'a sequencing named to one beat', 'a two-way named to one side']
+  this file's naming ring before, at the archive, an edge of two names each: the same two names as the code at 0; a name shared with the code's two at 3 ['an arriving named from behind', 'a completing named as a last', 'a two-way named to one side']; on the code's four-cycling at 6 ['an arriving named from behind', 'a completing named as a last', 'a carry named as a store', 'a sequencing named to one beat', 'a rate named as a value', 'a two-way named to one side']

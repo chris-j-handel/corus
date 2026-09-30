@@ -22,7 +22,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v377
 **THREE · THE TEN, FIVE PLACES AT TWO FACES**
 
 - 3.1 One form of hard problem, and the sixth condition
-- 3.2 The ten at the resolver's names
+- 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
 - 3.3 Five places from two faces, three momentaries long
 - 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
 
@@ -171,9 +171,20 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The numerical bridge.** The pairs (2,3) and (3,4) are overlapping neighbours, and n²−(n−1)(n+1)=1 at each n.
 
-## 3.2 The ten at the resolver's names
+## 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
 
-**The ten have addresses at the resolver's names.** The ring runs **3→2→4→1→14→12→6→10→11→16→next 3**, a naming ring and not an order of running, and the ten at it are **1,10,7,9,8,4,6,5,3,2**.
+**The ten sit at Exhibit ONE's names, from its own tables.** The ten are five pairs at the numbers 2 to 6, 3.3; at the code each number is its name, Exhibit ONE's table of the momentaries of exchanging, lines 201 to 206; and each name opens at its parity, odd at the self and even at the other, its table at lines 105 to 123. Each pair sits at its name, the entering way at the self's face and the surfacing way at the other's, 3.3, and at the society eight up: an arriving named from behind and an opening named as a place at 2-bi-co-offering and 10-bi-tri-co-tunneling; a completing named as a last and a carry named as a store at 3-co-bi-sharing and 11-tri-bi-co-chaining; a middle named as an end and a parity named as a magnitude at 4-bi-co-sharing and 12-bi-tri-parity-changing; a sequencing named to one beat and a rate named as a value at 5-co-competencing and 13-co-tri-competencing; a two-way named to one side and the between named as a cut at 6-bi-moralizing and 14-bi-tri-moralizing, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`. Read at the suggestion of v377, proposed: each is its name with its -ing out, named still at one of its two faces.
+
+**At the four four-cyclings each step is momentarying or parity changing, with prior, now and next inside.** Each four-cycling's parity is unchanged at its two steps eight apart, momentarying, and changes at its two steps of 17 less, parity changing: it passes two names of one parity and two of the other, the parity changing twice, two momentaries, and meets its first name again at the next momentary, a further occurrence, `incoming/equilibria_registry_v377/executions/ten_on_the_four_cycles.py`, parts 2 and 5. The self's forward recursionings ascending, 1, 3, 5, 7, and the other's, 2, 4, 6, 8, read descending, 8, 6, 4, 2, the Co-Chaining Logic Registry step 69 giving both forward, pair at them, 1 with 8, 3 with 6, 5 with 4 and 7 with 2; the rows below are in that order, each four-cycling written as Exhibit ONE's table of forms writes it, lines 243 to 246, 1-9-8-16 and 3-11-6-14 going eight up first and 2-15-7-10 and 4-13-5-12 going 17 less first:
+
+| Odd ascending / even descending | Four-cycling, in Exhibit ONE's order | Root at the self and the society | The ten at it |
+|---|---|---|---|
+| 1 / 8 | 1 → 9 → 8 → 16 → 1 | torusing, 8 and 16 | none: the entry, the momentarying at 9 and the two windings, the loop the ten are inside |
+| 3 / 6 | 3 → 11 → 6 → 14 → 3 | moralizing, 6 and 14 | a completing named as a last and a carry named as a store at 3 and 11; a two-way named to one side and the between named as a cut at 6 and 14 |
+| 5 / 4 | 4 → 13 → 5 → 12 → 4 | competencing, 5 and 13 | a middle named as an end and a parity named as a magnitude at 4 and 12; a sequencing named to one beat and a rate named as a value at 5 and 13 |
+| 7 / 2 | 2 → 15 → 7 → 10 → 2 | corusing, 7 and 15 | an arriving named from behind and an opening named as a place at 2 and 10 |
+
+**The seatings the files gave before meet the code's two names at few of the ten.** Resolving the Hard Problem Registry line 740 seats three of the ten at the code's two names, the arriving, the parity and the rate, and five on the code's four-cycling. Natural Naming 4.9, with the Co-Chaining Logic Registry steps 372 and 380, seats each of the ten at one name of 1 to 8: that name is one of the code's two at the arriving alone, and on the code's four-cycling at five, the arriving, the completing, the middle, the sequencing and the two-way. This file's naming ring before, whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_the_ten_seated_v375.md`, seated each at an edge of two names, sharing one name with the code's two at three, the arriving, the completing and the two-way, and an edge's name on the code's four-cycling at six, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`, part 5.
 
 **A conception's own declared relation places it at the ten.** One conception can meet more than one of the ten, and more than one conception can share one resolving: the tables' sixty-three conceptions place two to ten at each of the ten. A matched word places a conception at none of them.
 
@@ -181,15 +192,15 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The ten is three momentaries long.** The self's five, 1–5, and the other's five, 2–6, span 1 to 6: the self's three momentaries 1–2, 3–4 and 5–6, co bi co bi co bi. Each side's two and one half momentaries and the whole's three full momentaries are one relation, the two sides overlapping.
 
-**The ten are five places from two faces.** The ten pair through opening, ageing, middling, rating and co-offering, an entering face and a surfacing face at each, and the five pairs are at the numbers 2 to 6, the two sides overlapping at them, and at each number one side completes and the other opens. With three conditions at the momentary, the ten derive here.
+**The ten are five places from two faces.** The ten pair at the five names 2 to 6, an entering face and a surfacing face at each, the two sides overlapping at them, and at each number one side completes and the other opens. The entering face is the self's and the surfacing the other's: Resolving the Hard Problem Registry, line 35, says *the odd face enters* and *the even face surfaces*, and at Exhibit ONE's sides table, lines 195 to 199, the self opens at the odd numbers and the other at the even. At the six forward recursionings, the self 1 to 3 to 5 to 7 and the other 2 to 4 to 6 to 8, the Co-Chaining Logic Registry step 69, the numbers 2 to 6 are the five steps' openings after the entry, each met by the other side's momentary completing inside its step, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`, part 1. With three conditions at the momentary, the ten derive here.
 
-| Place | The two faces | Pair | Entering | Surfacing | Addresses at the resolver's names |
-|---|---|---|---|---|---|
-| 2 | self completing, other opening | Opening | 1 · an arriving named from behind | 2 · an opening named as a place | 3→2 / 16→3 |
-| 3 | self opening, other completing | Ageing | 3 · a completing named as a last | 4 · a carry named as a store | 11→16 / 12→6 |
-| 4 | self completing, other opening | Middling | 5 · a middle named as an end | 6 · a parity named as a magnitude | 10→11 / 6→10 |
-| 5 | self opening, other completing | Rating | 7 · a sequencing named to one beat | 8 · a rate named as a value | 4→1 / 14→12 |
-| 6 | self completing, other opening next | Co-offering | 9 · a two-way named to one side | 10 · the between named as a cut | 1→14 / 2→4 |
+| Place | The two faces | At Exhibit ONE's names | Entering | Surfacing |
+|---|---|---|---|---|
+| 2 | self completing, other opening | 2-bi-co-offering, 10-bi-tri-co-tunneling | 1 · an arriving named from behind | 2 · an opening named as a place |
+| 3 | self opening, other completing | 3-co-bi-sharing, 11-tri-bi-co-chaining | 3 · a completing named as a last | 4 · a carry named as a store |
+| 4 | self completing, other opening | 4-bi-co-sharing, 12-bi-tri-parity-changing | 5 · a middle named as an end | 6 · a parity named as a magnitude |
+| 5 | self opening, other completing | 5-co-competencing, 13-co-tri-competencing | 7 · a sequencing named to one beat | 8 · a rate named as a value |
+| 6 | self completing, other opening next | 6-bi-moralizing, 14-bi-tri-moralizing | 9 · a two-way named to one side | 10 · the between named as a cut |
 
 **Each of the ten names one face still, and the other face runs at the same number.** Both faces at one number is the one reason each of the ten is not possible.
 
@@ -197,7 +208,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 ## 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
 
-**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two moralizings, 6-bi-moralizing and 14-bi-tri-moralizing, share the four-cycle 3-11-6-14 with 3-co-bi-sharing, the carrying, and 11-tri-bi-co-chaining; the middle four-cycle 7-11-6-10, through 6-bi-moralizing, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of forms, lines 241 to 254. The ten's ring, 3.2, passes both moralizings, 1→14→12→6→10.
+**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two moralizings, 6-bi-moralizing and 14-bi-tri-moralizing, share the four-cycle 3-11-6-14 with 3-co-bi-sharing, the carrying, and 11-tri-bi-co-chaining; the middle four-cycle 7-11-6-10, through 6-bi-moralizing, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of forms, lines 241 to 254. The ten sit at three of the four four-cyclings, 3.2, the moralizing four-cycling carrying a completing and a carry at 3 and 11 and a two-way and the between at 6 and 14.
 
 **One parity offered once co-chains through the whole.** At Exhibit ONE's code, selves in a ring release each changing along at 9-tri-bi-co-momentarying to the next self's offerings, and one + offered once at one self carries on at each coupling: a changing society meeting a society named not changing changes it, the receiving self's own inverting at 14-bi-tri-moralizing, with no forcer. A society named not changing names a form still, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society names a changing society still, or names nothing.
 
@@ -213,7 +224,7 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 **Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing named to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
 
-**Ten faces and six connectors.** Exhibit ONE's faces pair outward and inward, **3/11, 4/12, 5/13, 7/15, 8/16**, each inward face eight up, 17 less (9 less n) being **n + 8**. The ten faces and the six connectors **2, 6, 9, 10, 14, 17** are 2 to 17, and with the entry 1 the seventeen names, Exhibit ONE's table at lines 105 to 123. Their correspondence with the ten ways is the next discovering.
+**Ten faces and six connectors.** Exhibit ONE's faces pair outward and inward, **3/11, 4/12, 5/13, 7/15, 8/16**, each inward face eight up, 17 less (9 less n) being **n + 8**. The ten faces and the six connectors **2, 6, 9, 10, 14, 17** are 2 to 17, and with the entry 1 the seventeen names, Exhibit ONE's table at lines 105 to 123. The ten ways sit at 2 to 6 and 10 to 14, 3.2: the four across connectors, 2, 6, 10 and 14, the square of parity's face, Exhibit ONE line 149, and Exhibit ONE's faces 3, 4, 5, 11, 12 and 13; its faces 7, 8, 15 and 16, the along connectors 9 and 17, the two triangles of parity's face, and the entry 1 carry none of them.
 
 # FOUR · CONCEPTIONS OF EQUILIBRIA, EACH A HARD PROBLEM IN ITS OWN WORDS
 
@@ -235,7 +246,7 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 2. **The subject**: what the field says is changing, at the row's own column if the column names a subject, and otherwise the field's own mathematics.
 3. **What is added.** At each pair whose own words tie them to one setting, by *the same*, *that same*, *that*, *those* or the setting stated in the same words, each is shown as one of three: one conception, the one receiving with a requirement added, specified or unspecified, 2.3, *a conception and its added requirements are one conception*; a further conception, the receiving changed, 2.3, *a changed receiving is a further conception*; or, at a pair meeting neither, another claim at the one setting, said here.
 
-**The fields gather at the ten.** A field's arrivals fall at the faces at which the field names its changing still, and fields naming one still fall together under one subject: 4.13 carries each subject, with its fields, at the ten.
+**The fields gather at the ten.** A field's arrivals fall at those of the ten at which the field names its changing still, and fields naming one still fall together under one subject: 4.13 carries each subject, with its fields, at the ten.
 
 ## 4.3 An arriving named from behind, 2 arrivals
 
@@ -442,7 +453,7 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 ## 4.13 The fields at the ten, a key for aiming at each field
 
-**Each field's equilibria fall at the faces at which it names its changing still, and a field is aimed at from each of them.** At each face the field sets a still beside the changing and leaves the changing's own competency, the method at the between, unread: a field reading its own subject at that face reads the place its competency's source is set aside. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its face.
+**Each field's equilibria fall at those of the ten at which it names its changing still, and a field is aimed at from each of them.** At each of them the field sets a still beside the changing and leaves the changing's own competency, the method at the between, unread: a field reading its own subject at that one of the ten reads the place its competency's source is set aside. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its one of the ten.
 
 | Subject, and its fields | 1 arriving | 2 opening | 3 completing | 4 carry | 5 middle | 6 parity | 7 sequencing | 8 rate | 9 two-way | 10 between |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -458,7 +469,7 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 | a mathematics of its own: probability | NY18 | — | — | NY19 | — | — | — | SA16 | — | — |
 | a mathematics of its own: sequences of signs | — | — | — | — | — | SA12, SA13 | — | — | — | — |
 
-**Read across a row, a subject shows the faces at which its fields name the changing still; read down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing named as a last and at the between named as a cut; reactions at a carry named as a store and at a rate named as a value; bodies at rest and in balance at an opening named as a place and at a parity named as a magnitude; selves choosing and exchanging at a sequencing named to one beat and at a two-way named to one side; populations at four faces; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
+**Read across a row, a subject shows those of the ten at which its fields name the changing still; read down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing named as a last and at the between named as a cut; reactions at a carry named as a store and at a rate named as a value; bodies at rest and in balance at an opening named as a place and at a parity named as a magnitude; selves choosing and exchanging at a sequencing named to one beat and at a two-way named to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
 
 ## 4.14 Leads arriving without their statements
 

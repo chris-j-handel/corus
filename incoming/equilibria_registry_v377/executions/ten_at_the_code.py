@@ -30,6 +30,11 @@ print('5. the three seatings the files give, against the code\'s')
 T22={'an arriving named from behind':{10,2},'an opening named as a place':{14,6},'a completing named as a last':{12,4},'a carry named as a store':{16,8},'a middle named as an end':{13,5},'a parity named as a magnitude':{12,4},'a sequencing named to one beat':{16,8},'a rate named as a value':{13,5},'a two-way named to one side':{11,3},'the between named as a cut':{15,7}}
 NN={'an opening named as a place':{1},'an arriving named from behind':{2},'a completing named as a last':{6},'a carry named as a store':{8},'a two-way named to one side':{3},'the between named as a cut':{5},'a middle named as an end':{5},'a parity named as a magnitude':{7},'a rate named as a value':{7},'a sequencing named to one beat':{4}}
 T28={'an arriving named from behind':{3,2},'an opening named as a place':{16,3},'a completing named as a last':{11,16},'a carry named as a store':{12,6},'a middle named as an end':{10,11},'a parity named as a magnitude':{6,10},'a sequencing named to one beat':{4,1},'a rate named as a value':{14,12},'a two-way named to one side':{1,14},'the between named as a cut':{2,4}}
-for label,T in (('Resolving the Hard Problem Registry, line 740',T22),('Natural Naming 4.9',NN),('Equilibria Registry, line 176',T28)):
+cyc_of={}
+for c in ([1,9,8,16],[2,15,7,10],[3,11,6,14],[4,13,5,12]):
+    for x in c: cyc_of[x]=tuple(c)
+for label,T in (('Resolving the Hard Problem Registry, line 740, two names each',T22),('Natural Naming 4.9 and the Co-Chaining Logic Registry step 380, one name each',NN),("this file's naming ring before, at the archive, an edge of two names each",T28)):
     same=[k for k in code if T[k]==code[k]]
-    print(f'  {label}: the same names as the code at {len(same)} of 10: {same}')
+    share=[k for k in code if T[k]&code[k]]
+    oncyc=[k for k in code if any(cyc_of[x]==cyc_of[min(code[k])] for x in T[k])]
+    print(f'  {label}: the same two names as the code at {len(same)}; a name shared with the code\'s two at {len(share)} {share}; on the code\'s four-cycling at {len(oncyc)} {oncyc}')
