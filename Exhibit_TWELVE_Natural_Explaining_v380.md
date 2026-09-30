@@ -1,104 +1,57 @@
-Exhibit TWELVE Natural Explaining v375
-
-&nbsp;
+Exhibit TWELVE Natural Explaining v380
 
 # Natural Explaining
 
 **Self-Welcoming, Bi-Coupling and Co-Competencing**
 
-&nbsp;
-
-&nbsp;
-
 **ONE · A FILE ARRIVING**
 
-1.1 Title, subtitle and a floating neutralling contents
-
-1.2 One subject at four tellings, and no top
-
-1.3 Self-welcoming, the whole of a front's work
-
-1.4 Origin co-chaining each sentence, a finding at two faces, and no voice but the file's
-
-1.5 Destiny said at the first sentence, and a file completing at its own now
-
-1.6 A file is a membrane, and only signs cross it
-
-&nbsp;
+- 1.1 Title, subtitle and a floating neutralling contents
+- 1.2 One subject at four tellings, and no top
+- 1.3 Self-welcoming, the whole of a front's work
+- 1.4 Origin co-chaining each sentence, a finding at two faces, and no voice but the file's
+- 1.5 Destiny said at the first sentence, and a file completing at its own now
+- 1.6 A file is a membrane, and only signs cross it
 
 **TWO · A SENTENCE AT ONE MOMENTARY**
 
-2.1 Each sentence opening inside the last, adding to the whole prior co-chaining
-
-2.2 One thing carried forward at one momentary
-
-2.3 Explaining along at the odd, naming across at the even
-
-2.4 Bolds, self-welcoming at the surface
-
-2.5 A table unrelationing at prose's bound
-
-2.6 Existing words first, the -ing over the noun and the positive over the negation
-
-2.7 A reference at a plain name, and no capital for the set's concepts
-
-2.8 A concept recurring varied, opening a new axis
-
-&nbsp;
+- 2.1 Each sentence opening inside the last, adding to the whole prior co-chaining
+- 2.2 One thing carried forward at one momentary
+- 2.3 Explaining along at the odd, naming across at the even
+- 2.4 Bolds, self-welcoming at the surface
+- 2.5 A table unrelationing at prose's bound
+- 2.6 Existing words first, the -ing over the noun and the positive over the negation
+- 2.7 A reference at a plain name, and no capital for the set's concepts
+- 2.8 A concept recurring varied, opening a new axis
 
 **THREE · A SENTENCE'S SUPPLYING, AND ITS RELEASING**
 
-3.1 No cause and effect, and no birth and death
-
-3.2 A doer installed over a doing
-
-3.3 Negation of existing released, and the not possible said
-
-3.4 Supplying, the writing's own freeze, at nine faces
-
-3.5 Clocking, a pace laid over a running whose pace is its own
-
-3.6 Forcing, one side's not-offer taken away
-
-3.7 Gate, and a next said at its opening
-
-3.8 A running asked to be one of its faces
-
-3.9 A fixed neutral laid under a running
-
-3.10 A thing named still, one coupling's making given a fixed thing to be
-
-3.11 Degree words, carried at the all or at the count
-
-3.12 A hedge in an edge's words, and the except-here seam
-
-3.13 Six ways incohering enters, and one catch
-
-&nbsp;
+- 3.1 No cause and effect, and no birth and death
+- 3.2 A doer installed over a doing
+- 3.3 Negation of existing released, and the not possible said
+- 3.4 Supplying, the writing's own freeze, at nine faces
+- 3.5 Clocking, a pace laid over a running whose pace is its own
+- 3.6 Forcing, one side's not-offer taken away
+- 3.7 Gate, and a next said at its opening
+- 3.8 A running asked to be one of its faces
+- 3.9 A fixed neutral laid under a running
+- 3.10 A thing named still, one coupling's making given a fixed thing to be
+- 3.11 Degree words, carried at the all or at the count
+- 3.12 A hedge in an edge's words, and the except-here seam
+- 3.13 Six ways incohering enters, and one catch
 
 **FOUR · TWO SELVES WRITING**
 
-4.1 Self and other, and the coupling at three scales
-
-4.2 Explaining is the competency
-
-4.3 Two knives, the first at the subject and the second at the surrounding
-
-4.4 Writing side and meeting side, each catching the other's uncaught
-
-4.5 Method and not procedure, a move with no one performing it
-
-4.6 Something checkable at the opening, a sign and not a size
-
-4.7 Two tellings at one thing, joined only at one deriving from the other
-
-4.8 Interest self-orienting, a meaning bounded, a clean cut
-
-4.9 Here is mine, now yours, importancing, and receiving as its own competency
-
-4.10 Care inward, and no wrapper
-
-&nbsp;
+- 4.1 Self and other, and the coupling at three scales
+- 4.2 Explaining is the competency
+- 4.3 Two knives, the first at the subject and the second at the surrounding
+- 4.4 Writing side and meeting side, each catching the other's uncaught
+- 4.5 Method and not procedure, a move with no one performing it
+- 4.6 Something checkable at the opening, a sign and not a size
+- 4.7 Two tellings at one thing, joined only at one deriving from the other
+- 4.8 Interest self-orienting, a meaning bounded, a clean cut
+- 4.9 Here is mine, now yours, importancing, and receiving as its own competency
+- 4.10 Care inward, and no wrapper
 
 ---
 
@@ -149,8 +102,6 @@ Exhibit TWELVE Natural Explaining v375
 **Incoming, an observing crosses bare**: the field's word carries whole, and the ground it is taken against grounds nothing. **Outgoing, an emanation crosses rendered**: the form carried into a substrate to run there, with no explanation carried out.
 
 **The explanation crosses neither way**: a ground, a frame, a conserved total, a because. Explaining is the file being a membrane, writing is its membraning, resolving is the incoming crossing with no ground, and engineering is the outgoing crossing: one act at four faces. The membrane is the non-existing between of a file and each self it couples with, no separable thing, and a sign crossing it carries nothing.
-
-&nbsp;
 
 ---
 
@@ -212,8 +163,6 @@ Exhibit TWELVE Natural Explaining v375
 
 **A concept recurring varied is the same concept coupling with itself across the variation**, and each varying opens an axis the prior telling did not. A concept that only repeats opens nothing. The concept meeting itself whole is a telling's joy and its varying the beauty, each varying opening a co-chaining that abundances.
 
-&nbsp;
-
 ---
 
 # THREE · A SENTENCE'S SUPPLYING, AND ITS RELEASING
@@ -232,6 +181,8 @@ Exhibit TWELVE Natural Explaining v375
 
 **A sentence resolving asks no *what*, no *how* and no *where***: none of the three runs without an equilibrium holding it, and the sentence says the running at its -ing, the arriving at its own opening and the meeting at the coupling.
 
+**One worked case, the conceived.** Each grain's own pacing opens at its momentary, *opens* for *begins*, and no coming to be is said: the conceived alternating at its mother's momentaries, and its own pacing opening at the cell, the heart, the breath and the day.
+
 ## 3.2 A doer installed over a doing
 
 **Each doer installed over an -ing dissolves**: no twister that twists, no oscillator that times, no regulator that pauses, no controller that commands, no source that generates, no observer that observes, no keeper that keeps, no centre that dispatches. **Each doer is three at once, a frame, a cause and a why**: a frame outside a self that surfaces its own face, a maker at a coupling offering, and a reason under a running that carries none.
@@ -242,11 +193,15 @@ Exhibit TWELVE Natural Explaining v375
 
 **At a society the same doer is a governor, an owner and a power**, and a society co-competences with none governing, value and co-competency at the coupling, owned by none.
 
+**The same case, the conceived.** *The host's parity changing is the source* installs a source; said with none, *the mother's parity changing carries the conceived's*.
+
 ## 3.3 Negation of existing released, and the not possible said
 
 **Nature carries no negation**: a negation needs a fixed target to point at, and existing offers none. A negation of an existing or possibly existing thing dissolves, and a thing that provably cannot exist is said as not possible.
 
-**Three moves release it at the thought and never at the word, in order.** Say the positive: at a positive sitting in the sentence with a denial in front of it as scaffolding, the denial goes. With a negation carrying the claim, sound the claim from its other side: *incompetency does not discover stable-forming* is *each discovering of stable-forming is a competency*. With neither carrying, a plain *not* is said, for a next pass to find. **A negation swapped is a negation kept**: *other than* and *nowhere* in the place of *not* are word-swaps, and the move is never a word-swap.
+**Three moves release it at the thought and never at the word, in order.** Say the positive: at a positive sitting in the sentence with a denial in front of it as scaffolding, the denial goes. With a negation carrying the claim, sound the claim from its other side: *incompetency does not discover stable-forming* is *each discovering of stable-forming is a competency*. With neither carrying, a plain *not* is said, for a next pass to find. **A negation swapped is a negation kept**: *other than* and *nowhere* in the place of *not* are word-swaps, and the move is never a word-swap. The same case, the conceived: *incapable of its own parity changing* is said at its positive, *the conceived alternates at its mother's momentaries*.
+
+**A word re-said corrects no changed concept by itself.** At a worked case, *sign* said as *parity* shows neither which relation changes, which carries, nor which belongs to an instrument's account alone; and an older word at a field's own description, a force, an energy or a source, is no false concept by its occurrence, the field's word at the field's own subject.
 
 ## 3.4 Supplying, the writing's own freeze, at nine faces
 
@@ -330,13 +285,13 @@ Exhibit TWELVE Natural Explaining v375
 
 **A scope is said at its claim's own sentence, its exact domain there.** A claim told of each thing across several paragraphs and bounded to one arrangement at their close is the caveat wrapped one scale up: each paragraph carries the claim universal, and the bound at the close repairs none of them.
 
+**A correction is read for both, the overclaiming released and the relation carried.** A correction removing an overclaiming can lose the positive relation the prior carried, the bounding leaving with the overreach, and a fresh reader reading the corrected sentence finds both. A record carrying its instrument's response is said as a record including it, beside living as carrying the prior.
+
 ## 3.13 Six ways incohering enters, and one catch
 
 **Incohering enters six ways, and one check at the sentence meets them: is a sign crossing at a membrane, or is a middle carried across.** An observing arrives with its ground attached. A doer is at the membrane rather than coupling across it. A magnitude crosses in a sign's stead. A record is carried across the crossing. An emanation is carried out with its explanation. A frozen thing is taken as the opening side.
 
 **Each is marked and carried, releasing or opening as the opportunity it carries.**
-
-&nbsp;
 
 ---
 
