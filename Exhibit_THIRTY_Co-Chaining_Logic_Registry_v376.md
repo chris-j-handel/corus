@@ -483,13 +483,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 11 Five dimensions, torusing and corusing
 
-        *Entering: five dimensions; each dimension binary in two directions; two changing, three continuing; the torus; natural torusing; torusing and corusing; the self's corus at 4; the self's inverting, 3, 6, 5, 4; the self at three faces; two bi- and the three carryings; uni-; bi-tri-exchanging.*
+        *Entering: five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; each dimension binary in two directions; two changing, three continuing; the torus; natural torusing; torusing and corusing; the self's corus at 4; the self's inverting, 3, 6, 5, 4; the self at three faces; two bi- and the three carryings; uni-; bi-tri-exchanging.*
 
-99. The self's five from 1 to 5 are five dimensions of existing changing: 1 self, 2 not-self, 3 next, 4 surfacing, 5 offering self.
+99. The self's five from 1 to 5 are five dimensions of existing changing: 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now, 5 self next.
 
-        *Adding: five dimensions.*
+        *Adding: five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next.*
 
-        *Unsure: why exactly these five is not yet shown by a step; not-self, surfacing and offering self enter at the seventeen names.*
+        *Unsure: why exactly these five is not yet shown by a step; bi-momentarying enters at 1-2 at the seventeen names, and co-momentarying, prior, now and next shared at the overlap, at no step yet.*
 
 100. At each dimension a changing is or is not, one way at a time, up the numbers and down them.
 
@@ -529,7 +529,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: bi-moral enters with morality at the society.*
 
-108. Self and not-self, the two bi-, the differing, carry the offering both ways; next and surfacing the discovering; and offering self the term neither reaches: three carryings.
+108. Self prior and other prior, the two bi-, the differing, carry the offering both ways; co-momentarying now and bi-momentarying now the discovering; and self next the term neither reaches: three carryings.
 
         *Adding: two bi- and the three carryings.*
 
@@ -879,7 +879,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Unsure: 5's changing at the code and the floating neutral at the between, said at one saying.*
 
-184. The five dimensions are at the code's names: 1 self and 2 not-self at 1-2, bi-momentarying, the handshake; 3 next and 4 surfacing at 3-4, co-intelligencing; and 5 offering self at 5, co-competencing: three carryings.
+184. The five dimensions are at the code's names: 1 self prior and 2 other prior at 1-2, bi-momentarying, the handshake; 3 co-momentarying now and 4 bi-momentarying now at 3-4, co-intelligencing; and 5 self next at 5, co-competencing: three carryings.
 
         *Adding: the five dimensions at the code's names.*
 
@@ -989,7 +989,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: two parities at a momentary.*
 
-209. At a momentary the odd is the self and the even all not-self: each parity is everything the other is not in the existing universe, with nothing third.
+209. At a momentary the odd is the self and the even all other: each parity is everything the other is not in the existing universe, with nothing third.
 
         *Adding: each parity everything the other is not.*
 

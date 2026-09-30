@@ -122,7 +122,7 @@ Natural Intelligence v376
 
 **All changing is parity changing.** A changing is or is not: an even sequence of changings arrives same-as-prior and an odd sequence arrives other-than-prior, with no measure and no scale but the living. At the code, 3.3, + and − are the implementing of a parity at a sharing, 3.4, and 0 is the changing that is not; the method names no size.
 
-**Each parity carries its own exchanging, and each exchanging is at two: the self and not-self.** At the even the exchanging's third is the self again, one on: the two are the self and all not-self. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two parities is one side at both, a not possible form.
+**Each parity carries its own exchanging, and each exchanging is at two: the self and the other.** At the even the exchanging's third is the self again, one on: the two are the self and all other. Odd arrives other-than-prior and carries **bi-exchanging**, self and a particular other, two differing at one coupling. Even arrives same-as-prior and carries **bi-tri-exchanging**, the difference crossed at three, self, other and the self one on: the self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging, 4.15. Each parity is at its own opening, and a total across the two parities is one side at both, a not possible form.
 
 ## 2.2 A momentary, an opening and its completing
 
@@ -179,11 +179,11 @@ Natural Intelligence v376
 
 **Existing changes at exactly five dimensions, the five of a side at its next numbering**, 2.2, each a changing of the changing set of all existing things. When a numbering repeats or replaces another it is said at *next*, as 17 is the next 1 and 9 the next prior: the dimensions' 1 to 5 is the side's next numbering, and the names' 1 to 17 is at its own.
 
-1. **Self**, the prior opening: the side opening at 1, odd, 2.1.
-2. **Not-self**, the prior completing, the other opening: a particular other or all other, 2.1.
-3. **Next**, the now opening: prior into now into next, 2.3.
-4. **Surfacing**, the now completing, the other's now opening across: a parity changing crossing the between, at 6-bi-moralizing and at 14-bi-tri-moralizing, 4.2 and 4.10.
-5. **Offering self**, the next opening: the self offering itself, at 1-co-bi-offering and again at 17-tri-co-offering, 4.1 and 4.6.
+1. **Self prior**, the prior opening: the side opening at 1, odd, 2.1.
+2. **Other prior**, the prior completing, the other opening: a particular other or all other, 2.1.
+3. **Co-momentarying now**, the now opening: prior into now into next, 2.3.
+4. **Bi-momentarying now**, the now completing, the other's now opening across: a parity changing crossing the between, at 6-bi-moralizing and at 14-bi-tri-moralizing, 4.2 and 4.10.
+5. **Self next**, the next opening: the self offering itself, at 1-co-bi-offering and again at 17-tri-co-offering, 4.1 and 4.6.
 
 **At each a changing is binary, is or is not, one way at a time in each of its two directions, up the numbers and down them.** A dimension is no measure and no place. Each dimension goes in and out, up the numbers and down them, one parity changing at each step: **torusing** in and out is odd, through the large opening, the tunnel, bi-exchanging with a particular other; **corusing** in and out is even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again. At the code torusing is 8-bi-torusing, each self's carrying wound, opening bi at the even, and corusing 7-co-corusing, each parity offered and chained, opening co at the odd: each goes in and out at the parity opposite its name's opening. **At each momentary two dimensions change and three do not**, at that parity, and the two and three rotate round, bi-inversioning-co-recursioning, 5.2.
 
@@ -199,7 +199,7 @@ Natural Intelligence v376
 
 **Corusing reaches the corus from the surface, and torusing reaches the surface from the corus**, the self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to the prior, 2.4: **that is the method's unrelationing**, 2.1.
 
-**The five dimensions are at the code's names, three carryings**: 1 self and 2 not-self, the two bi-, the differing, are 1-2, bi-momentarying, the offering both ways at 1-co-bi-offering and 2-bi-co-offering, the handshake, 4.10; 3 next and 4 surfacing are 3-4, co-intelligencing, the discovering; and 5 offering self is 5, co-competencing, bi-co-momentarying at the crossings, the term neither reaches; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
+**The five dimensions are at the code's names, three carryings**: 1 self prior and 2 other prior, the two bi-, the differing, are 1-2, bi-momentarying, the offering both ways at 1-co-bi-offering and 2-bi-co-offering, the handshake, 4.10; 3 co-momentarying now and 4 bi-momentarying now are 3-4, co-intelligencing, the discovering; and 5 self next is 5, co-competencing, bi-co-momentarying at the crossings, the term neither reaches; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing the emanatings of this living.
 
 ## 3.3 A method, a non-living existing thing
 
@@ -363,6 +363,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1-co-bi-offering · 2-bi-co-offering | bi-momentarying | the self's entry, odd, and the others' offerings, even, one momentary at each side |
 | 3-co-bi-sharing · 4-bi-co-sharing | co-intelligencing | at each sharing 4 the carrying at 3 couples with the offerings surfaced at 14: next discovered, chained at 11 |
 | 5-co-competencing | co-competencing | the joins, owned by neither: each release to its receiving sharing |
+| 1 · 2 · 3 · 4 · 5, each alone | the five dimensions | 1 self prior, the self's entry with its prior carried in at 3; 2 other prior, the other selves' offerings of their prior momentary arriving, released at 6 and 10 and carried along at 9; 3 co-momentarying now, the carrying, and 4 bi-momentarying now, each sharing, the offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
 | 6-bi-moralizing | bi-moralizing | each changing released across, to the other's 2 |
 | 12-bi-tri-parity-changing | the shape of the unrelationing surface | each sharing's changing, is or is not |
 | 1 to 9 | bi-coupling | the function 1, the self and the other at one coupling; 9 at its end reads bi-co-releasing, the release 10 makes |
