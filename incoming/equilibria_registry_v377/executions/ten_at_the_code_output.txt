@@ -1,0 +1,32 @@
+1. the six forward recursionings, Co-Chaining Logic Registry step 69: the self 1 to 3 to 5 to 7, the other 2 to 4 to 6 to 8, each step two momentaries of its side
+  1: at a step joint: self 1→3 opens
+  2: at a step joint: other 2→4 opens | inside a step: self 1→3, its first momentary 1–2 completing
+  3: at a step joint: self 1→3 completes; self 3→5 opens | inside a step: other 2→4, its first momentary 2–3 completing
+  4: at a step joint: other 2→4 completes; other 4→6 opens | inside a step: self 3→5, its first momentary 3–4 completing
+  5: at a step joint: self 3→5 completes; self 5→7 opens | inside a step: other 4→6, its first momentary 4–5 completing
+  6: at a step joint: other 4→6 completes; other 6→8 opens | inside a step: self 5→7, its first momentary 5–6 completing
+  7: at a step joint: self 5→7 completes | inside a step: other 6→8, its first momentary 6–7 completing
+  8: at a step joint: other 6→8 completes
+   the numbers at which one side is at a step joint and the other inside its step: [2, 3, 4, 5, 6, 7]
+2. at the code each number is its name, Exhibit ONE's table of the momentaries of exchanging; the name opens at its parity, odd at the self and even at the other
+  2 2-bi-co-offering: opens at the other, completes at the self; its 8 up 10 10-bi-tri-co-tunneling
+  3 3-co-bi-sharing: opens at the self, completes at the other; its 8 up 11 11-tri-bi-co-chaining
+  4 4-bi-co-sharing: opens at the other, completes at the self; its 8 up 12 12-bi-tri-parity-changing
+  5 5-co-competencing: opens at the self, completes at the other; its 8 up 13 13-co-tri-competencing
+  6 6-bi-moralizing: opens at the other, completes at the self; its 8 up 14 14-bi-tri-moralizing
+3. the five pairs of the ten at the numbers 2 to 6, Resolving the Hard Problem Registry line 35 and the Equilibria Registry 3.3, the entering face the self's, along, the surfacing the other's, across
+  2: an arriving named from behind, at the self's completing of 2-bi-co-offering; an opening named as a place, at the other's opening
+  3: a completing named as a last, at the self's opening of 3-co-bi-sharing; a carry named as a store, at the other's completing
+  4: a middle named as an end, at the self's completing of 4-bi-co-sharing; a parity named as a magnitude, at the other's opening
+  5: a sequencing named to one beat, at the self's opening of 5-co-competencing; a rate named as a value, at the other's completing
+  6: a two-way named to one side, at the self's completing of 6-bi-moralizing; the between named as a cut, at the other's opening
+4. against the Equilibria Registry's own table of the two faces, lines 195 to 201
+  2: the registry says "self completing, other opening"; the code's parity gives self completing, other opening
+  3: the registry says "self opening, other completing"; the code's parity gives self opening, other completing
+  4: the registry says "self completing, other opening"; the code's parity gives self completing, other opening
+  5: the registry says "self opening, other completing"; the code's parity gives self opening, other completing
+  6: the registry says "self completing, other opening next"; the code's parity gives self completing, other opening
+5. the three seatings the files give, against the code's
+  Resolving the Hard Problem Registry, line 740: the same names as the code at 3 of 10: ['an arriving named from behind', 'a parity named as a magnitude', 'a rate named as a value']
+  Natural Naming 4.9: the same names as the code at 0 of 10: []
+  Equilibria Registry, line 176: the same names as the code at 0 of 10: []
