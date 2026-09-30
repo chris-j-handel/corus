@@ -1,94 +1,55 @@
-Exhibit TWENTY-EIGHT v375
+Exhibit TWENTY-EIGHT Equilibria Registry v377
 
 # Equilibria Registry
 
-**Forms Named Still, Not Possibly Existing**
+**Not Possibly Existing, Living or Non-Living**
 
-**1 · Existing through momentaries**
+**ONE · EXISTING THROUGH MOMENTARIES**
 
-- The universe as one thing beside its things is exclusivity, and it is not possibly existing
-- Existing is three conditions at each momentary, at once
-- Three overlapping momentaries use four positions
-- Each momentary is existing's own, and each existing self is its continuing momentaries, inseparating
-- The membrane is no separable thing
-- Bi-inversioning-co-recursioning carries the meeting within the changing
-- Naming a relation gives it no separate existing
-- The eight even names are bi-coupling at the membrane
-- Existing and discovering are one relation
-- The same relation runs at each scale
-- Natural torusing is the one surface
-- Parity alternates along and across through three momentaries
-- Existing continues: a matching description at next is a further occurrence
-- Two binary relations change one at a time, alternating which
-- Coverage carries alternation
-- The five-view carries its next opening within continuing
-- Around a closed route parity alternates at an even route
+- 1.1 The universe, its things, and exclusivity
+- 1.2 Three conditions at each momentary, and momentaries overlapping
+- 1.3 The between of two existing things coupling
+- 1.4 One relation, existing and discovering, at each scale
+- 1.5 Parity alternating through three momentaries
 
-**2 · The binary claim**
+**TWO · EQUILIBRIA, HARD PROBLEMING**
 
-- Equilibria are not possibly existing as a method, all or none at all
-- Each proposed conception of equilibria is a hard problem with its hardness ignored
-- An equilibrium is a form named still, not possibly existing; stable-forming, and unstable deforming at non-living scale, are observably existing
-- The stability can change, the form can change, the relation can change
-- Not possible, and shown not possible at prior, differ
-- Surviving is binary
-- A conception of equilibria shows its own surviving
-- One general description receives each conception: a stated relation continuing through the comparisons its claim names
-- A conception and its added requirements are one conception
-- The claim has one shape
-- The claim reaches each conception in two steps
-- The ordering chain closes at the two faces
-- A still named as the complete continuing is changing
-- A conception naming a continuing and leaving out the participation that continuing carries is not possible
-- A state accounting and a flow accounting each leave one side out
-- Each conception of equilibria names unchanging or names changing, exactly one of the two
-- Each momentary completes in co-releasing
+- 2.1 Equilibria, not possibly existing as a method
+- 2.2 A stability, a form or a relation, and surviving
+- 2.3 One description and one claim at each conception
+- 2.4 One side left out, unchanging or changing named
 
-**3 · Five pairs, the ten**
+**THREE · THE TEN, FIVE PLACES AT TWO FACES**
 
-- The ten are one form of hard problem
-- A proposed conception of equilibria is the sixth condition
-- The numerical bridge
-- The ten have addresses at the resolver's names
-- A conception's own declared relation places it at the ten
-- The ten is three momentaries long
-- The ten are five places from two faces
-- Each of the ten names one face still, and the other face runs at the same number
-- In numbers
-- The resolver's pairs are the momentaries, each round the other way
-- One sign offered once co-chains through the whole
-- An odd ring closes no parity, and a meeting runs round it: the non-existing between, moving through the shared surface one momentary at a time
-- Prior and next are the edges at now
-- Ten internal names and six connectors
+- 3.1 One form of hard problem, and the sixth condition
+- 3.2 The ten at the resolver's names
+- 3.3 Five places from two faces, three momentaries long
+- 3.4 The resolver's pairs, one parity offered once, and the six connectors
 
-**4 · Proposed conceptions of equilibria**
+**FOUR · CONCEPTIONS OF EQUILIBRIA, EACH A HARD PROBLEM IN ITS OWN WORDS**
 
-- Each conception arrives whole, in its own words, with its conserving relation and its reach
-- A definition's expression continuing unchanged is an existing statement, and the subject it names continues through its own changing
-- Each proposed conception names a changing still, in one of the ten ways
-- The specified accounts and the prior worked definitions, SA01 to SA21, are placed the same way
-- Leads arrive without their statements
+- 4.1 Each conception whole, at its declared subject
+- 4.2 The proposed conceptions at the ten
+- 4.3 The specified accounts and prior definitions at the ten
+- 4.4 Leads arriving without their statements
 
-**5 · Shared exclusions, run at the code**
+**FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE CODE**
 
-- Four proof groups carry the exact local exclusions
-- A proof carries to a conception whose complete requirement supplies its premises
-- One binary retaining and inverting its value at one required next is not possible
-- The two phases share one exclusion
-- Immediate-next is its own relation
-- The four-state orbit leaves each proper subset
-- Renewal and reaching carry their complete requirements
-- At the resolver's code the joint forms run one way
-- The release pair and the fresh carrying are complementary
-- 6 and 10 release at one parity
-- The full carrying determines the next
-- Each conception meets a proof by its own requirements
+- 5.1 Four proof groups
+- 5.2 One exclusion at each of the ten
+- 5.3 Renewal and reaching at their complete requirements
+- 5.4 The release pair and the fresh carrying at the code
+- 5.5 Each conception at a proof of its own requirements
 
 ---
 
-## Existing through momentaries
+# ONE · EXISTING THROUGH MOMENTARIES
+
+## 1.1 The universe, its things, and exclusivity
 
 **The universe as one thing beside its things is exclusivity, and it is not possibly existing.** One side's momentaries alone, each number one side's, is the universe named as one thing beside its things; the universe exists as its things exist; the overlapping momentaries meet each number, one completing and the next opening.
+
+## 1.2 Three conditions at each momentary, and momentaries overlapping
 
 **Existing is three conditions at each momentary, at once.** A momentary opens at one number and completes at the next, and its completing is the next momentary's opening. Exhaustiveness is the overlapping momentaries meeting each number; determinacy is each momentary's one next, opening at the number it completes; reachability is the next openings reaching each number on. The three are met together at each momentary, all or none at all.
 
@@ -98,6 +59,8 @@ Exhibit TWENTY-EIGHT v375
 
 **Universes of each size and scale share momentaries of co-sequential changing**, each momentary a fractal universe discovering its next existing, and none is possibly an existing thing separately: at each scale, a universe named as an existing thing is exclusivity.
 
+## 1.3 The between of two existing things coupling
+
 **The membrane is no separable thing.** The between of two existing things co-bi-coupling is a membrane, not possibly an existing thing, and this between is the registry's whole subject. Morality is bi-unrelationing and competency is co-unrelationing, and co-bi-unrelationing is the one existing method: the membrane is their meeting. A 0 at two signs meeting is a nothing within a coupling, existing due to each self surfacing itself each momentary.
 
 **Bi-inversioning-co-recursioning carries the meeting within the changing.** Each side continues through its own changing, and their meeting is within that changing: slowing is changing, and two differing changings are adjacent through the coupling, each side changing.
@@ -106,11 +69,15 @@ Exhibit TWENTY-EIGHT v375
 
 **The eight even names are bi-coupling at the membrane.** Four at the membrane, 2, 4, 6 and 8, and four within, 10, 12, 14 and 16, each 8 on, are relations at two faces. The three conditions are the momentary's, the eight are bi-coupling, and the four joint forms are the changing of two signs.
 
+## 1.4 One relation, existing and discovering, at each scale
+
 **Existing and discovering are one relation.** The next the three conditions open is the next existing, and arriving into it through the coupling is discovering: prior, now and next, one relation. An explanation of existing is an existing thing among all existing things, and existing is the coupling's own resolving.
 
 **The same relation runs at each scale.** A self, another self and a society at the next scale each carry their own other, carrying and continuing, and the next scale's next is the same relation's next: describing and continuing agree in either order.
 
 **Natural torusing is the one surface.** A connected, compact, closed, orientable surface whose faces are each four-sided, with four edges meeting at each point, has V − E + F = 0, one opening: it is a torus. The sphere, the surfaces of two or more openings, the Klein bottle and the infinite cylinder each fail one of those conditions.
+
+## 1.5 Parity alternating through three momentaries
 
 **Parity alternates along and across through three momentaries.** Each momentary carries both directions, one way at a time: one co-sequential method, the two sides' ten positions three momentaries long.
 
@@ -134,7 +101,9 @@ Adjacent views share four positions: at each number one side opens and the other
 
 **Around a closed route parity alternates at an even route.** Opposite parities along each joined comparison are met together exactly when each closed route is even, with two complementary assignments at each connected whole. An odd closed route closes no parity, and a meeting runs round it. Local alternating along two paths to one meeting supplies no single alternating sequence through both.
 
-## The binary claim
+# TWO · EQUILIBRIA, HARD PROBLEMING
+
+## 2.1 Equilibria, not possibly existing as a method
 
 **Equilibria are not possibly existing as a method, all or none at all.**
 
@@ -148,6 +117,8 @@ Adjacent views share four positions: at each number one side opens and the other
 
 The equilibrium holding ends, and the living and non-living things it names keep changing: an equilibrium ending is no existing thing ending, and a thing not living is an existing thing. The sequence keeps one subject: a participation changes; the holding requires that same participation unchanged; its required continuing brings the changing, and the holding ends there, the same subject, the same relation and the same occurrence at both sides. The ending is at the occurrence that fails: a claim of holding through each required occurrence ends at the one failing, and the occurrences before it are met as they were met. A whole participant changes while a relation within it can continue, so a holding meets its ending at the relation its own requirement names.
 
+## 2.2 A stability, a form or a relation, and surviving
+
 **The stability can change, the form can change, the relation can change.** A mathematical conception of equilibria names a stability, a form or a relation still, and each can change. In dynamical mathematics a stability is a pattern's response to a disturbance, its departures staying small or shrinking, and not its constituents stopping: an oscillation can be stable as an oscillation, and an instability, its departures growing, can lead to another organized form. An equilibrium of relative phase and an equilibrium of the whole evolving system are two assertions. The distinction is a naming one: it places the still a conception names at the stability, the form or the relation, one conception at a time.
 
 **Not possible, and shown not possible at prior, differ.** Each proposed conception of equilibria arriving from the prior is shown not possible now, and each arriving next is met at its next. **Each conception arrived is shown not possible.**
@@ -155,6 +126,8 @@ The equilibrium holding ends, and the living and non-living things it names keep
 **Surviving is binary.** All sequencing into now together continues into next, all or none at all, between prior and next.
 
 **A conception of equilibria shows its own surviving.** It exists at prior, now and next, or it is not possible at the momentarying.
+
+## 2.3 One description and one claim at each conception
 
 **One general description receives each conception: a stated relation continuing through the comparisons its claim names.** A fixed value is membership in a collection of one, a range is membership in a larger collection, and opposition is membership among opposite pairs.
 
@@ -166,6 +139,8 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The ordering chain closes at the two faces.** A conception naming an ordering p still at its next, the alternating next being I(p) and I(p) ≠ p, names p and I(p) at one next. The step the chain left open, that the ordering named still is the very ordering its next inverts, is the two faces at one number. Two inversions meet p again at a next momentary, a further occurrence, with the changing between.
 
+## 2.4 One side left out, unchanging or changing named
+
 **A still named as the complete continuing is changing.** Its continuing is renewing, inward of the claimed whole, which is changing, or outward of it, a further participant.
 
 **A conception naming a continuing and leaving out the participation that continuing carries is not possible.**
@@ -176,7 +151,9 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **Each momentary completes in co-releasing.** Each conception of equilibria names a form still at the running of geodesic co-releasing, and continuing runs as geodesic co-releasing. Each momentary releases into the next whether a sign changed, stayed, crossed or nothing crossed, and a particular carrying's completing is its own.
 
-## Five pairs, the ten
+# THREE · THE TEN, FIVE PLACES AT TWO FACES
+
+## 3.1 One form of hard problem, and the sixth condition
 
 **The ten are one form of hard problem.** Each proposed conception of equilibria names a changing still in one of the ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at the other, natural intelligence at the membrane between them, and the registry's tables carry both faces.
 
@@ -184,9 +161,13 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The numerical bridge.** The pairs (2,3) and (3,4) are overlapping neighbours, and n²−(n−1)(n+1)=1 at each n.
 
+## 3.2 The ten at the resolver's names
+
 **The ten have addresses at the resolver's names.** The ring runs **3→2→4→1→14→12→6→10→11→16→next 3**, a naming ring and not an order of running, and the ten at it are **1,10,7,9,8,4,6,5,3,2**.
 
 **A conception's own declared relation places it at the ten.** One conception can meet more than one of the ten, and more than one conception can share one resolving: the tables' sixty-three conceptions place two to ten at each of the ten. A matched word places a conception at none of them.
+
+## 3.3 Five places from two faces, three momentaries long
 
 **The ten is three momentaries long.** The self's five, 1–5, and the other's five, 2–6, span 1 to 6: the self's three momentaries 1–2, 3–4 and 5–6, co bi co bi co bi. Each side's two and one half momentaries and the whole's three full momentaries are one relation, the two sides overlapping.
 
@@ -203,6 +184,8 @@ The equilibrium holding ends, and the living and non-living things it names keep
 **Each of the ten names one face still, and the other face runs at the same number.** Both faces at one number is the one reason each of the ten is not possible.
 
 **In numbers.** The three openings 1+3+5 sum to 9 = 3², and the three completings 2+4+6 to 12 = 3·4: n momentaries open to n² and complete to n(n+1), and 3² − 2·4 = 1 is the bridge at three. Prior, now and next are three sequential momentaries, and three at three is nine. Six consecutive changings from 3 complete at 8, and 9 opens: 9-other-releasing, co-releasing, the self, the other and the social releasing, and its released sign arriving next downstream. At the resolver's code a retained carrying continues through its openings 1, 2 and 3, and to a fourth at a positive second sign: three momentaries, and a fourth at positive competency.
+
+## 3.4 The resolver's pairs, one parity offered once, and the six connectors
 
 **The resolver's pairs are the momentaries, each round the other way.** Its four row cycles pair at the odd momentaries 1 with 2 and 3 with 4, and at the even momentaries 2 with 3 and 4 with itself, each partner running round the other way: the two directions of one bi-folding. The two crossings, 6-other-crossing and 14-social-crossing, share row 3 with carrying and chaining, and the forms through both crossings, 7-11-6-10 and 2-15-7-11-3-14-6-10, partner themselves at the even momentary: at the crossing the fold meets itself. The ten's ring passes both crossings, 1→14→12→6→10.
 
@@ -222,11 +205,15 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 **Ten internal names and six connectors.** The resolver's internal pairs are **3/11, 4/12, 5/13, 7/15, 8/16**, and **17−(9−n)=n+8** joins its two inversion faces to the advance by eight. The ten internal names and the six connectors **2,6,9,10,14,17** exhaust positions 2–17, and with the entry 1, all seventeen named positions. Their correspondence with the ten ways is the next discovering.
 
-## Proposed conceptions of equilibria
+# FOUR · CONCEPTIONS OF EQUILIBRIA, EACH A HARD PROBLEM IN ITS OWN WORDS
+
+## 4.1 Each conception whole, at its declared subject
 
 **Each conception arrives whole, in its own words, with its conserving relation and its reach.** A fixed value, a retained relation, a distribution and a symmetry family are different subjects even when each is called equilibrium, and one conception can meet more than one of the ten.
 
 **A definition's expression continuing unchanged is an existing statement, and the subject it names continues through its own changing.** Conditioning, replacement and maintained supplying belong to several conceptions: a law, an occupant, an original participant and a composition are different declared subjects. A law, a frame or a scale named unchanged is such an expression, and it names its subject still through one further step, the step from a fixing to an equilibrium: the same subject, at the same relation and the same occurrence, required unchanged at the occurrence its own continuing changes it.
+
+## 4.2 The proposed conceptions at the ten
 
 **Each proposed conception names a changing still, in one of the ten ways.** The changing is stable-forming, unstable deforming at non-living scale, or a stability, a form or a relation that can change.
 
@@ -275,6 +262,8 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 | 10 · a membrane named as a cut | **NY32** · Pairwise equal-temperature/no-net-heat-transfer equilibrium under the specified heat-permitting contact, without material exchange, mechanical work or other driving. | thermodynamics | heat |
 | 10 · a membrane named as a cut | **NY41** · Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0. | thermodynamics | heat |
 
+## 4.3 The specified accounts and prior definitions at the ten
+
 **The specified accounts and the prior worked definitions, SA01 to SA21, are placed the same way.**
 
 | The ten | Proposed conception, in its own words | Field | The changing it names |
@@ -301,9 +290,13 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 | 10 · a membrane named as a cut | **SA20** · Equal temperature at an additive contact with negative heat capacity at one side, D = 1/CA + 1/CB, entropy curvature −D/T² at the equal-temperature occurrence. | thermodynamics | heat |
 | 10 · a membrane named as a cut | **SA21** · Equal temperature compared through partner-dependent contacts, linked equalities giving the factor rHB rAH and the direct comparison rAB. | thermodynamics | heat |
 
+## 4.4 Leads arriving without their statements
+
 **Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions, a conservation lead and its transformation arriving next, dictionary and etymological leads, a collection of all sets, and philosophical accounts. Each is placed at the ten at its statement's arriving. The scientific method is placed at its fixings: a law, a frame or a scale named unchanged between a signal's leaving and its arriving, each placed at the ten through its own stated requirement. The field's own methods part the two momentaries: NASA/JPL's aberration correction separates the epoch a signal leaves its source from the epoch it is received, and accounts for the source's motion between the two. Evidence arriving now and the prior event it expresses are two, each at its own momentary, and both hold: a property can hold now while its source changes as a whole, and evidence gives the prior as possible and as actual.
 
-## Shared exclusions, run at the code
+# FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE CODE
+
+## 5.1 Four proof groups
 
 **Four proof groups carry the exact local exclusions.** Each is a way of failing, run at the resolver's code or at the numbers it names.
 
@@ -318,6 +311,8 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 Renewal excluded, group C, runs at one subject throughout, the same carrying named from its presence to its bound. Presence beyond its retaining bound requires renewal, and the requirement naming the carrying still excludes each renewal: renewing fails the requirement, and no renewing fails the presence at the bound. The two cases are the whole, so still and present do not both continue across the bound. The still description ends, and the participant continues changing. Two bounds differ: a complete nonempty carrying is not the same at its following return, while fixed torusing alone continues through three retaining returns, and a fourth at a positive second sign. At a particular completing, such as one to nine, the sequence carries when its two steps are met at that completing: the continuing requires the renewal there, and the requirement excludes that renewal. The code's retaining bound counts couplings, and one to nine counts four momentaries of co-bi-exchanging. A relation named still can permit the changing a sign named still excludes: opposition under joint reversal, t = −c, continues while both signs invert. The renewal exclusion reaches a conception through a renewal its own claimed continuing requires and its own requirement excludes.
 
+## 5.2 One exclusion at each of the ten
+
 **One binary retaining and inverting its value at one required next is not possible.** A conception naming p(next)=p(now) with its continuing carrying p(next)=−p(now), with p either +1 or −1, names both at once. This is the one exclusion each of the ten meets at its own place: the face named still and the face running are one number.
 
 **The two phases share one exclusion.** Advancing the overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at the next advance, and either ordering met again at a next momentary is a further occurrence. Included membership required both unchanged and inverted meets the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.
@@ -325,6 +320,8 @@ Renewal excluded, group C, runs at one subject throughout, the same carrying nam
 **Immediate-next is its own relation.** It joins 0 to 1 and 1 to 2 without joining 0 to 2, and a requirement including an unchanged boundary comparison fails at its continuation changing exactly one end.
 
 **The four-state orbit leaves each proper subset.** F(P,Q)=(−Q,P) visits all four pairs from each pair it opens at. Each nonempty proper subset is left within at most three advances, {++,−+,−−} from ++ at the third, and the subsets F carries into themselves are exactly the unions of the one cycle: none or all four.
+
+## 5.3 Renewal and reaching at their complete requirements
 
 **Renewal and reaching carry their complete requirements.**
 
@@ -337,6 +334,8 @@ Renewal excluded, group C, runs at one subject throughout, the same carrying nam
 | Full positive balance in the unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is at `f=w` alone. |
 | Exact finite attaining of zero from nonzero departure under a nonzero multiplier | Each finite departure is nonzero; an already supplied zero is a different condition. |
 
+## 5.4 The release pair and the fresh carrying at the code
+
 **At the resolver's code the joint forms run one way.** F(c,t)=(−t,c) and G(c,t)=(t,−c) are the only two maps on the four pairs whose square is J(c,t)=(−c,−t), the complete return under empty receiving. At an existing entry with a nonzero surface s, the release pair 6-other-crossing and 10-other-surfacing is (t, s), and the fresh 7/8 pair is G(t, s) = (s, −t). Under empty receiving s = −c, and the joint forms run by G.
 
 **The release pair and the fresh carrying are complementary.** Equality at 6/10 gives opposition in the fresh 7/8, and opposition gives equality: a conception requiring the same agreement or opposition at both is not possible.
@@ -348,6 +347,8 @@ At the release, fresh s = −c keeps the pair's relation while the following 6-o
 **6 and 10 release at one parity**, both even and opening bi, in the form 7→11→6→10, facing different neighbours, 2 and 14. Connector parity, sign polarity and agreement between signs are three comparisons.
 
 **The full carrying determines the next.** The surface is s = sign(r − c), the arriving signs meeting the carrying sign inverting. One opposed relation with two positive arrivals gives agreement from (+,−) and opposition from (−,+), and one matching arrival at (+,−) continues from opening 0 and leaves from opening 3. Opposition and its receiving alone name part of the carrying as the whole.
+
+## 5.5 Each conception at a proof of its own requirements
 
 **Each conception meets a proof by its own requirements.** Opposition under one side's reversal alone fails, while opposition under joint reversal continues; each surface zero meets the renewal exclusion, and zero aggregate from nonzero surfaces is a different relation.
 

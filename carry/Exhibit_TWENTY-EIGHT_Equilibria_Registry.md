@@ -2,7 +2,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v378
 
 # Exhibit TWENTY-EIGHT · Equilibria Registry
 
-**Next at this file: pass B at one motion.** Nine places at the old names by the map; its ten and six received at the ten faces and the six connectors; *continues through its openings 1, 2 and 3, and to a fourth* re-said at the one sign; its claims on the sum at the forms and rings re-said at parity changing; the version line as the others'. Its front is at the steady form.
+**Next at this file: its motion at v377, in passes on one branch, `working/equilibria-registry-v377`, at Exhibit ONE's forms, equilibria hard probleming and resolving following** (`incoming/cohering_ten_and_six_v377/README.md`, sections 5 and 6). Pass 1 done: the front at the steady form, the agreed shared subtitle, five parts and twenty-two sections, each body whole and in order. Next, pass by pass: the names at the current code; the between as the method, a non-living existing thing; the ten at the five betweens at 2 to 6; the rings as spirals; the released words at their one names; each claim executed at the code; with the Ready and Concern below met at their places.
 
 ## Ready
 
