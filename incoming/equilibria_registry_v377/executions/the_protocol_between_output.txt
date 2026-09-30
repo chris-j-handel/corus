@@ -1,0 +1,18 @@
+1. the protocol at the code, CONNECTORS and JOINS:
+   2: 2-bi-co-offering, bi-moral-so-far, arriving · across, a corner dot
+   6: 6-bi-moralizing, not-yet-bi-moral, releasing · across, a corner dot
+   9: 9-tri-bi-co-momentarying, not-yet-co-competent, along · along, through the empty centre
+   10: 10-bi-tri-co-tunneling, not-yet-bi-moral, releasing · across, a corner dot
+   14: 14-bi-tri-moralizing, bi-moral-so-far, arriving · across, a corner dot
+   17: 17-tri-co-offering, co-competent-so-far, along · along, through the empty centre
+   JOINS: {10: 14, 6: 2, 17: 9, 9: 17}
+2. across 100 momentaries the protocol is unchanged, CONNECTORS, JOINS and the society's joins: True ; the carryings changed at 99 of 99 momentaries
+3. inside one momentary each self makes its own changing at its own 12, and a changing reaches another self only through a join at 6, 10 or 9:
+   each self's offerings at the next momentary are exactly the changings arriving through its joins: True
+   self 0 offered [1, -1, 1] from [(2, 10), (3, 6), (4, 9)]
+   self 1 offered [1, -1, 1] from [(0, 9), (3, 10), (4, 6)]
+   self 2 offered [1, -1, 1] from [(0, 6), (1, 9), (4, 10)]
+   self 3 offered [1, -1, 1] from [(0, 10), (1, 6), (2, 9)]
+   self 4 offered [-1, 1, -1] from [(1, 10), (2, 6), (3, 9)]
+4. the protocol taken away, no joins: each self carries its prior inverted alone, and no self's changing reaches another
+   [(1, 0, 0, 0, 0), (-1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (-1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (-1, 0, 0, 0, 0), (1, 0, 0, 0, 0), (-1, 0, 0, 0, 0)]
