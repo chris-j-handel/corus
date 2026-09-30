@@ -11,3 +11,17 @@ Chained locally at v377, at three momentaries and the ten one-way is-or-is-nots,
 The Co-Chaining Logic Registry's concern:
 
 **Concern, at v377, step 380's two sides against the ten's two faces, from the Equilibria Registry's motion.** Step 380 seats the ten one to one at a name and a side, the even side at state accounting and the odd at flow, steps 366 to 368, the even at bi co bi co bi and the odd at co bi co bi co, steps 369 and 370. The ten are five pairs at 2 to 6, an entering face, the self's, odd-commencing, and a surfacing face, the other's, even-commencing, Resolving the Hard Problem Registry line 35 and the Equilibria Registry 3.3. At pairs 2, 3 and 4 step 380's sides meet the faces: the arriving, the completing and the middle at odd, the opening, the carry and the parity at even. At pair 5 the sequencing and the rate are both at odd, and at pair 6 the two-way and the between both at even, the number's own co and bi. What parts, at all or none: the face at three pairs and the number at two. What settles it: one rule at all ten chained locally at three momentaries and the ten one-way is-or-is-nots, the rate at even and the two-way at odd with their names, or a step saying why 5 and 6 part; the Equilibria Registry's carrying, concern 5.
+
+Re-said next at v377, when the four four-cyclings showed each pair's names at their number's co or bi, so that *its number's bi or co* said of the members' side is said as step 380's side:
+
+From Resolving the Hard Problem Registry's concern at line 35:
+
+What the local chain does not show: that coming down to 4 each pair is at one side whole, its number's bi or co;
+
+From Resolving the Hard Problem Registry's concern at line 35:
+
+such as a step carrying that coming down to 4 each pair is at its number's bi or co whole,
+
+From the Equilibria Registry's concern 5:
+
+such as a step carrying that coming down to 4 each pair is at its number's bi or co whole, chained locally at each file's motion;
