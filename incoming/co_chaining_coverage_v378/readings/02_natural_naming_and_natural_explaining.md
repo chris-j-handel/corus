@@ -1,4 +1,4 @@
-# Reading 2: Natural Naming and Natural Explaining against the registry at 431 steps
+# Reading 2: Natural Naming and Natural Explaining against the Co-Chaining Logic Registry at 431 steps
 
 A fresh reader, read-only. NN is Natural Naming v378, NE is Natural Explaining v378. Drafts avoid the released words listed; each uses only concepts entered at or before the step it follows.
 

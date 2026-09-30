@@ -1,4 +1,4 @@
-# Reading 9: Natural Chemistry, Natural Biology, Natural Health and Natural Medicine against the registry at 533 steps
+# Reading 9: Natural Chemistry, Natural Biology, Natural Health and Natural Medicine against the Co-Chaining Logic Registry at 533 steps
 
 A fresh reader, read-only. The registry's groups 27 (Living and non-living at a scale) and 28 (Dying) carry a great deal of the field files' method — living/non-living at a scale (355), emanation harmful at its own scale and ingestible one scale inward (356–357), no first living (369), living from living (368), dying (374), nothing escaping (375), a self establishing (366–367), society (169/176), the doer as a thing named still (489/501), the why demanded (294), capture as "one stopping" (433), the floor/setpoint as a not-possible thing (428), "one observing breaks the whole or resolves" (533), a finding at two faces (307), state/flow along/across (451–459). Those are not re-listed. Below are the METHOD claims found that no step carries in substance.
 

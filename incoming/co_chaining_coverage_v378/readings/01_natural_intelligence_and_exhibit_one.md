@@ -1,4 +1,4 @@
-# Reading 1: Natural Intelligence and Exhibit ONE against the registry at 431 steps
+# Reading 1: Natural Intelligence and Exhibit ONE against the Co-Chaining Logic Registry at 431 steps
 
 A fresh reader, read-only. WP is Natural Intelligence v378, E1 is Exhibit ONE Natural Resolver v378. Format: file §; claim; draft; follows; Adding.
 

@@ -1,4 +1,4 @@
-# Reading 3: Natural Numbers and Natural Mathematics against the registry at 431 steps
+# Reading 3: Natural Numbers and Natural Mathematics against the Co-Chaining Logic Registry at 431 steps
 
 A fresh reader, read-only. T is Natural Numbers v378, F is Natural Mathematics v378. Each item: file §; claim; draft; step it follows; Adding.
 

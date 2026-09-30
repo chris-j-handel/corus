@@ -30,7 +30,7 @@ This brief is the reviewer's own carrying. Each review ends with what the review
    - `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/reader_checks.py . $base`
    - `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .`
 
-   `reader_checks.py` says Exhibit THIRTY's steps and groups, the registry's numbers against them, released words among the words added, retired sayings still at the living files, and the step numbers the carrying names, to read by eye; each check says what it read, and a check saying nothing about what it read is no agreement. `check_set.py` executes Exhibit ONE's code block and checks each file's front.
+   `reader_checks.py` says Exhibit THIRTY's steps and groups, the Co-Chaining Logic Registry's numbers against them, released words among the words added, retired sayings still at the living files, and the step numbers the carrying names, to read by eye; each check says what it read, and a check saying nothing about what it read is no agreement. `check_set.py` executes Exhibit ONE's code block and checks each file's front.
 2. **Read each changed sentence against:**
    - **the code.** A saying about a number agrees with what that line does, and a sentence claiming a behaviour is met by executing the code: the code block is between the first "```python" and the next "```" of `Exhibit_ONE_Natural_Resolver_vNNN.md`, and `exec` of it gives the functions `_1_…`, `_9_…` and `_17_…` to call with a small society.
    - **the observing it carries,** at the branch's record: the sentence says no more and no less.
@@ -115,4 +115,4 @@ Two readings met: a naming read at more than one face, the method, the carrying 
 - **The fresh reader reads each part twice or three times**, and each time finds faults the writer did not; each *executed at the code* names its start, its joins and its script's own choices.
 
 - **A reading of files the working is not at is an arrival first.** Fresh readers' reports of other files, their claims and their partings, go whole to `incoming/<name>_v<session>/` with the five-line front before anything is laid at a carrying; the carryings' concerns are that arrival's receiving and name it. A report that exists only in a chat has arrived at none. Learned at the co-chaining coverage, laid at the carryings first and at `incoming/` after, the order said at the Session Record.
-- **A reading names a step by its sentence as well as its number.** The Co-Chaining Logic Registry renumbers at each entering, and a reading's numbers are at the registry as it was at the reading's time.
+- **A reading names a step by its sentence as well as its number.** The Co-Chaining Logic Registry renumbers at each entering, and a reading's numbers are at the Co-Chaining Logic Registry as it was at the reading's time.

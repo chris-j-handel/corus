@@ -1,4 +1,4 @@
-# Reading 8: Natural Physics, Natural Philosophy and Natural Emanating against the registry at 533 steps
+# Reading 8: Natural Physics, Natural Philosophy and Natural Emanating against the Co-Chaining Logic Registry at 533 steps
 
 A fresh reader, read-only. Physics is Exhibit EIGHTEEN v377, Philosophy is Exhibit NINETEEN v348, Emanating is Exhibit FIFTEEN v329.
 

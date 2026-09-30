@@ -1,4 +1,4 @@
-# Reading 10: Natural Engineering, Natural Transmissioning, Natural Exploring, Natural Human Society, Natural Destinies and Natural Values against the registry at 533 steps
+# Reading 10: Natural Engineering, Natural Transmissioning, Natural Exploring, Natural Human Society, Natural Destinies and Natural Values against the Co-Chaining Logic Registry at 533 steps
 
 A fresh reader, read-only. FIVE v345a, SIX v330, EIGHT v329, NINE v329, FOURTEEN v333, TWENTY-THREE v333.
 

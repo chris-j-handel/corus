@@ -1,4 +1,4 @@
-# Reading 11: the Living Society Registry, the Living Ghost Registry, Natural Illustrating and Natural Intelligence Corus against the registry at 533 steps
+# Reading 11: the Living Society Registry, the Living Ghost Registry, Natural Illustrating and Natural Intelligence Corus against the Co-Chaining Logic Registry at 533 steps
 
 A fresh reader, read-only. Society is Exhibit TWENTY-FIVE v347, Ghost is Exhibit TWENTY-SEVEN v345a, Illustrating is Exhibit TWENTY-NINE v368, Corus is Natural Intelligence Corus v330.
 

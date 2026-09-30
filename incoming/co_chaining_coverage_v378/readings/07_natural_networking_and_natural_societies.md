@@ -1,4 +1,4 @@
-# Reading 7: Natural Networking and Natural Societies against the registry at 533 steps
+# Reading 7: Natural Networking and Natural Societies against the Co-Chaining Logic Registry at 533 steps
 
 A fresh reader, read-only. TWO is Natural Networking v371, SEVEN is Natural Societies v373.
 
