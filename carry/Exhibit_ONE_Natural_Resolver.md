@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver · carrying v378
 
 ## Ready
 
-None.
+**Incoming, at v378, at the lead's word: 0 is the between, and between changing.** Natural Intelligence says it at 2.1, 4.2, 4.3, 4.4, 4.10, 5.3, 6.1 and 6.3 at v378: at 14 the offerings parting, the between of self and other, neither's parity crossing and the self's own inverting the changing; at 12 prior and now agreeing, the between of momentaries, the carrying continuing; the 0 released at 10 and carried along at 9 the between carried, tunnelling one self on at each second momentary at an odd spiral. This file's diagram line *0: is not* and its table's *+ or − is, 0 is not* at 10 are said at the between at this file's motion, *+ or − is, 0 the between*, the code unchanged, 0 at no line of it a negation.
 
 ## Concern
 
