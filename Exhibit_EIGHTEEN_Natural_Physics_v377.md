@@ -57,16 +57,16 @@ Exhibit EIGHTEEN Natural Physics v377
 **FIVE · COHERING**
 
 - 5.1 Cohering, and reaching
-- 5.2 Unification, one form at each physical coupling
-- 5.3 The field's problems at their fixings, pairings and three readings
+- 5.2 Unification, the one method at each physical coupling
+- 5.3 The field's problems, their families and three readings
 - 5.4 A gathering at the close, and the force words set down first
 - 5.5 Forces, constants and the offering
-- 5.6 Born's rule, a selection read as a magnitude
+- 5.6 Born's rule and Exhibit ONE's code
 - 5.7 Accounting at the largest scale, and a mass band named empty
 - 5.8 Quantum gravity, and three physical triples to watch
 - 5.9 Forward work, and the caution at physics
 - 5.10 Temperature, offered as a social activity
-- 5.11 Register, the field's arrivals at their fixings
+- 5.11 Register, the field's arrivals at their namings
 
 ---
 
@@ -170,7 +170,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **The arrow of time, the block universe, the origin and fate of the universe and the laws of nature are each at a fixed form.**
 
-**The register at 5.11 carries fifty arrivals, eighteen met and thirty-two standing; forty-eight are at the register's named holdings, each row's naming of a thing beside all things, and two are this file's own, gravity and fission and fusion.** The forty-eight fall at four of the five binaries: twenty-one at a fixed form, the reference fixed, an arriving named from behind, a bound named as a last and a middle named as an end; thirteen at a common beat, a rate named at a value and a sequencing named at one beat; nine at a size, a between named as a cut and a parity named as a magnitude; and five at a keeping, a carrying named as a store and a two-way named at one side. None is at the doer alone, the doer receding at the forces, the fields, the charges and the measurement, 2.3.
+**The register at 5.11 carries fifty arrivals, eighteen met and thirty-two at their namings; forty-eight are at the register's namings, each row's naming of a thing beside all things, and two are this file's own, gravity and fission and fusion.** The forty-eight fall at four of the five binaries: twenty-one at a fixed form, an arriving named from behind, a bound named as a last and a middle named as an end; thirteen at a common beat, a rate named at a value and a sequencing named at one beat; nine at a size, a between named as a cut and a parity named as a magnitude; and five at a keeping, a carrying named as a store and a two-way named at one side. None is at the doer alone, the doer receding at the forces, the fields, the charges and the measurement, 2.3.
 
 **The binaries are found at readings and never set by a rule**, each at a reading of a field's naming, and the rigorizer seats each sentence at the six.
 
@@ -537,149 +537,137 @@ Exhibit EIGHTEEN Natural Physics v377
 
 ## 5.1 Cohering, and reaching
 
-**Coheres (the form resolved cleanly in physics's own checkable facts):** gravity as the conservation accounting, not a transmitted force — Newton's force and Einstein's geometry two ledgers of it, neither a coupling, physics's own most precise theory the completest disequilibrating; the **centerline form** — a self-stabilizing floating neutral held at bounding-zeroing by the coupling's own alternating, with two phases sounding two-ways-one-at-a-time about it — cohering across the smart grid (engineered) and the fission/fusion-about-iron curve; wave and particle as one coupling at two faces; the Bell correlations as that one coupling being not-two-sourced-objects (physics's own proof of no local hidden variable, resolved as the form's confirmation); the mass gap as the bounding-zeroing the coupling makes; the conservation laws and entropy accounting as exact outside readings; confinement, color-neutrality, and gluon-exchange as observed physics.
+**At the observings each reading below meets the field's records with no contradiction found, each at its relation**: gravity at general relativity's geodesic, read as an accounting, 2.6 and 4.2; wave and particle at the offering and the click, 4.4; Bell's correlated clicks at one coupling joined across, 3.3; the conservation laws exact at their own subjects and read as accountings, 4.5; confinement, colour neutrality and gluon exchange at the field's records, read at three phases of one coupling, 4.6; and the ten rests sought and a continuing met at each, 3.14.
 
-**Form's resolving (each with its reason):** that every force disequilibrates to a geodesic as gravity did, which reaches yet at each force; the self-offering/other-offering direction-labels on fusion and fission (resolved, not stood), and the released energy as the living +1 and not only the ledger-transaction (the files resolve energy as ledger, not surface); the iron centerline's fit to 23-and-55 set down by the k = 1 bound (they differ by 32, k = 16, a size in the neutralling, they do not face); that the conserved quantities are the tunnel-ledger taken as features, and the arrow of time the forcing-frame's one-way accounting; that color is phase and not charge; and that relativity is the accounting laid over the one coupling and quantum its selection — one coupling and its ledger, the unification one form and not a completed quantum-gravity, its break a smooth and a discrete shown to be two sourced couplings no floating-neutral form holds.
+**Reaching, each with its relation still to be said**: the odd spiral's like pair and the tricrystal ring's h/4e flux, 3.5; the crossing and the trace at the plasma, compatible forms recognized, and their three relations, the crescent's shape among them, 3.7; the three colours' mapping to parity changing, 4.6; the wavefunction's amplitudes to the code's offerings, 3.2 and 4.4; the correlation's dependence on the angle between the settings, 3.3; which phase of fission and fusion is which side, and the released energy as the term neither side reaches, 4.3; light's two readings at the light-cone, 3.13; physics' triples at one side's three steps, 1.2; the drawing in and the spreading out at the torus's two windings, 4.9; and the Wick rotation at the quarter step, 4.7. Each is proposed; its parting observing is named at its section, and at 1.2, 3.2, 3.3, 3.13 and 4.7's Wick rotation it is still to be named.
 
-**Completest inversions.** A departure carrying all three reversals re-alternates whole, the completest inversion, three deep, returning cleanly to the self-stilling self (23) at the centerline. Bell's theorem establishes there is no local hidden variable — no carried source, which on the form is not the form's debt but its proof: not two sourced objects, therefore one coupling about one floating neutral. Relativity is the accounting laid over the one coupling and quantum its selection.
+## 5.2 Unification, the one method at each physical coupling
 
-## 5.2 Unification, one form at each physical coupling
+**Unification is read as the one method at each physical coupling, parity changing, and no deeper source containing the forces, proposed.** The forces the field names are re-said at their own parity changing, 2.7, gravity met at the accounting, 4.2, and the strong force at three phases, 4.6; the electromagnetic and weak forces are at 5.5. The unification is offered as one method, and no physics is claimed replaced. Physical couplings meet Natural Chemistry at bonds, 3.10, and Natural Biology at their physical changing, each science's particular subjects carried whole.
 
-There is one form — the bi-moralizing co-agency: six consecutive recursionings, three on each side, self-offering and other-offering transmissioning two ways, one way at a time, about a self-stabilizing floating neutralling held at its bounding-zeroing by the coupling's own alternating. Centerline is a self-stilling self at which the accumulation floats. And this one form resolves at every physical membrane met so far: fission and fusion are its two phases about the iron neutralling; quantum its selection about the neutralling and relativity the accounting laid over it, not a second phase; the Bell correlations are that neutralling being one coupling, not two sourced objects across a gap; energy and entropy are the ledger kept beside it; the strong force is it holding by riding the carry; and gravity — physics's own completed disequilibrating — is that same accounting, Einstein's geometry a ledger of it and not a coupling. Smart grid runs the same form, engineered, about the same floating neutralling. One form, resolved across the physical scale wherever the field insists on force, magnitude, and source — the same self-stabilizing floating neutralling each time, transmissioning two ways, one way at a time, owned neither-ing. This is the unification: not a deeper source that contains the forces, but the one coupling the forces were always faces of.
+## 5.3 The field's problems, their families and three readings
 
-Centerline form stands, cohering across engineering and the checkable physics. A field-identifications — quantum-as-the-coupling and relativity-as-its-ledger, the fission/fusion direction-labels, energy-as-+1 — are the resolvings, reaching with their reasons where a count is not yet anchored; the relativity/quantum resolving stands: one coupling and its ledger, not two physics to unify. Unification is offered as one form; no specific physics is claimed as replaced.
+**Physics' standing problems are at the namings the register carries, 5.11, at this file's cases, or still to be met at their own cases**, each at 2.5's binaries: the laws of nature, the arrow of time, the block universe and the origin and fate of the universe at a fixed form, 2.5; the problem of time at a fixed form, a common beat and a total, 4.8. Something rather than nothing, the simulation hypothesis, the hierarchy problem with naturalness and fine-tuning, information named as fundamental, the glass transition, the three-body problem, Navier–Stokes with turbulence, Zeno and the faint young Sun are each to be met at their own cases.
 
-## 5.3 The field's problems at their fixings, pairings and three readings
+**Simultaneity and neural binding are one family at two subjects.** Simultaneity names one clock over many couplings and meets many nows; binding names one percept over many streams. Each names the one against the many: binding a member of the family at another subject, evidence of its form and no joining of the two.
 
-**Physics's standing problems, with the term each holds still.**
+**Arrow's impossibility theorem is the family's other end.** Arrow gives the many and finds no social ordering meeting its conditions, an unrestricted domain, unanimity, independence of irrelevant alternatives and no dictator, at three or more options; simultaneity gives one now and finds it fails across the many. Each is a proof, and the reading at both is one: an ordering is made at a coupling and each self sequences its own, no single ordering over the selves to build or carry, proposed. The reading's break is simultaneity and binding shown at the family's two ends.
 
-A frame standing outside: relativistic simultaneity · the problem of time in quantum gravity · presentism and eternalism · laws of nature · the something and not nothing · the simulation hypothesis · the strong CP problem · the hierarchy problem, naturalness, fine-tuning · dark matter and dark energy · black-hole information. One side fixed as the standard: the matter–antimatter asymmetry · the Yang–Mills mass gap — a landing in the proof register, no negation defended, its form-reading at the strong-force section standing beside the landing without meeting it · information as fundamental · the glass transition at the condensed-matter membrane. An answer available before the running: the arrow of time · the block universe and the low-entropy past · the origin and fate of the universe · the three-body problem · Navier–Stokes with turbulence at its other face · Zeno · the faint young sun.
+**Three readings follow: fuzziness, the fitted numeral and the flat opening.**
 
-**Simultaneity's partner.** Simultaneity, with neural binding at its other face is not a marriage. Simultaneity holds one clock over many couplings and meets many nows; binding holds one percept over many streams, their unifying held of them. Same sign — both hold the one against the many, so binding is a family member at another substrate, evidence of the shape and none of the marriage.
+**Fuzziness is a register, and the superposition its sharpest case at physics.** A superposition is read as the coupling before its offerings surface, 4.4, and no definite value hidden behind ignorance: at a 0 surfaced the offerings excluded and the offerings not yet arrived read alike, and that likeness is the fuzz, proposed. A reading arriving sharp before its coupling is a form named still.
 
-**Opposite sign is Arrow's impossibility theorem.** Arrow gives the many and finds **no ordering forms over them**; simultaneity gives one now and finds **it fails to hold across the many.** Built from below and carrying forming, imposed from above and carrying taking — one coupling at its two ends, and both are proofs, which is where the address is sharpest. Resolved: an ordering is made at a coupling and each self keeps its own beat, there is no single ordering standing over the selves to be built or preserved — the same resolving the time-family carries, arriving from social choice and not from physics. Its break is a reading on which simultaneity and binding carry opposite signs after all.
+**A fitted numeral is a match at the way a number is written, and no correspondence.** A ratio is unchanged across units, fifty to sixty at five to six; a fraction of a turn likewise, cos(π/6) = √3/2; a number in a unit is a candidate carried both ways; and a digit pattern is carried at no unit. The gathering is wide and the deciding follows it: at Natural Numbers 1.3 and 5.8 each centre carries its own one either side, and a fit meeting no centre is marked and then released, as 23 and 55 were at this file's 4.3, the marking and then the resolving the model.
 
-And the pairing that stands clean: **dark matter ↔ black-hole information** — a horizon a carry is drawn back through against a background a surplus is surfaced outward, inverse on direction and on form at once, both under a frame claimed outside.
+**An opening is flat.** A resolving named widest at its furthest reach re-installs a test that might overturn it, a both carried provisionally; a both coheres or was none from the start. The opening carries no size, no wider at unification than at any other resolving, and a break or a fault in the rigor is at any reading.
 
----
+**Gravity is read at two faces, proposed**: the resolving complete at the accounting, 4.2, and the one accounting finding no global balance, global energy conservation no automatic result at each spacetime, 4.2, and the hardest to join with the quantum coupling, 4.7.
 
-**Three readings, said plainly.**
+**The energy engine is read at three faces, proposed**: the chemical coupling's sequencing, each step's output the next step's input; the engineered substrate's sensing; and the nucleon's centre, 4.3, the subject at which both are read, none of the three marked at the others before this reading.
 
-**Fuzzy is a register, not a shortfall, and physics has the sharpest instance.** A superposition is not a definite value hidden behind ignorance; it is the coupling before the offering seats. **And the measurement problem holds a when of the becoming-sharp, which is holding the riding-the-carry to land.** Where the offering floats to zero the excluded and the not-yet-reached read alike, and that indistinguishability is the fuzz. A reading that arrived sharp would be a landing.
+**At Bell the question open is whether reproducing a probability distribution is owed**, the distribution the field's accounting, 3.3 and 4.4, and the reading carried at its relation.
 
-**A fitted numeral is a match on the way a number is written, not on the number, and one stood here, then the k = 1 bound set it down by rule.** The iron-centerline 23-and-55 was marked reaching with its reason — a number-fit with no anchor in iron's own counts, Z = 26, N = 30, A = 56, and the k = 1 bound then resolved it out: 23 and 55 differ by 32, k = 16, a size in the neutralling, they do not face, and the fit is set down by rule and not held. **That marking-then-resolving is the model**, and the general form runs in tiers: a **ratio** survives every unit (50 : 60 = 5 : 6) · a **fraction of a turn** survives every unit (cos(π/6) = √3/2) · a **count in a unit** is a candidate held both ways · only a **digit-pattern** survives nothing. **And the order matters more than the tiers: the outward membraning gathers liberally and the inward tunnelling decides — the knife after the gathering, and the k = 1 bound the sharpest knife, cutting a fit before it is written.**
-
-**Graded door is set down.** Where a resolving is described as held widest at its furthest reach, that is the falsifier re-installed — a both held provisionally, pending a test that might overturn it. **A both self-coheres or was, from the start, no both**, and an opening is a bounding-zeroing, which carries no magnitude. **Opening is flat**, held no wider at the unification than at any other resolving, and a break or a fault in the rigor stands at any reading, at no size.
-
----
-
-**Two crossings owed and marked here for the first time.**
-
-**Gravity, and where the ledger fails.** Gravity reads as the completest disequilibrating — into the conservation accounting, with no coupling left under it. **Other face is that gravity is the one place the accounting cannot be made to balance, and the field's own century of trying is the record of it.** One reading, two faces.
-
-**Energy engine is one reading at three faces.** The chemical membrane carries the sequencing half — the natural engine phase-sequences, three-then-progress, each step the prior's output as its input, the surplus passing turn to turn, riding the carry, carrying, un-becoming heat. The engineered substrate carries the sensing half — side-effecting recursioning of the floating neutral. **Substrate where both are read stands here, at the nucleon centerline**, and until now none of the three marked the others.
-
-**And Bell, stated at its live edge.** The correlations are seated here — not two sourced objects, therefore one coupling. Thing staying open is narrower than the seating: **whether reproducing a probability distribution is owed.** Reproducing the statistics held as the success condition holds a sign to a manufactured magnitude, and that is the question, not the seating.
+**Force, a field as carrier, a potential, energy as a substance, a hidden variable and a collapse caused by measurement meet the Living Ghost Registry**, each at 2.2's one placement; a naming the field releases and a natural correspondence still reaching are two.
 
 ## 5.4 A gathering at the close, and the force words set down first
 
-This part stands past the walk's closing, so what follows is the walk's own faces at a substrate and no further steps. It gathers rather than steps, which is right at a close and nowhere else.
-
-**Disequilibrating, first — an opportunity's worked.** Before laying a physics observation against the form, set down the force-and-source language: the doer-words (force, pull, push, drive, transmit, cause, collapse) and the installed substances (energy-as-stuff, entropy-as-cost, field-as-carrier, hidden-variable, the central source). Remainder is the observation in the positive — the coupling turning along its geodesic, the riding-the-carry, the sign-only selection, the +1 owned neither-ing — the surplus arising at the coupling with no place it is issued from. Then run it through the eight-step form. (The same disequilibrating, here in the force-register.)
+**This part gathers the file's cases at their subjects and adds no further step.** At the eight steps the doer's words are named at step 2 and set down at step 3, 2.8: force, pull, push, drive, transmit, cause and collapse, and the substances named, energy as a stuff, entropy as a price, a field as carrier, a hidden variable and a central source. An observing laid against the one method outside the eight steps is met the same, its doer's words named and set down, and the observing then at its positive form, the coupling at its own parity changing and the term neither reaches made at the coupling.
 
 ## 5.5 Forces, constants and the offering
 
-**Forces reaching for the geodesic disequilibrating** (the disequilibrating gravity already received): the electromagnetic and weak forces (candidates to resolve as couplings turning along their geometry and not transmitted forces); electromagnetism's field resolved as the coupling, not a carrier of push.
+**The electromagnetic and weak forces are each read as couplings at their own parity changing, proposed, as 2.7 re-says a force.** Each is a case for the eight steps, the electromagnetic field read as the coupling and no carrier of a push, and the weak interaction's one handedness at 3.9.
 
-**Constants resolved as held ratios, not set magnitudes:** the fine-structure constant and the other "constants" (resolved as ratios the coupling holds about its neutral, not magnitudes set from an elsewhere).
+**The dimensionless constants are read as ratios carried at the coupling, proposed, and no magnitudes set from elsewhere**, the fine-structure constant first among them; the constants with units are fixed at exact values at the SI, the speed of light from 1983 and Planck's constant, the elementary charge and Boltzmann's constant from 2019, fixings at the field's account.
 
-**Offering surface and the seated selection:** the double-slit and delayed-choice (the riding-the-carry surface and the sign-selection, resolved carefully alongside the Bell seating); superfluidity (the riding-the-carry coupling resolved at the macroscopic-coherence membrane, alongside superconductivity, now worked).
+**The double slit and the delayed choice are read at the offering and the click**, 3.2 and 4.4, and superfluidity beside superconductivity, 4.10, each proposed and each a case for its own section.
 
-## 5.6 Born's rule, a selection read as a magnitude
+## 5.6 Born's rule and Exhibit ONE's code
 
-**Born probability as the landed softmax, and relativity the same ledger.** The measurement resolving seats the selection as the sign, all-or-none; the Born rule — amplitude squared normalized to one — is that selection read as a magnitude, the landed softmax dividing against a fixed ground and landing a probability, where the living softmax resolves against the coupling's own bounding-zeroing and lands a sign (the side-effecting surface softmaxing to a binary offering; the one normalization Born and attention share). So at the quantum membrane the living is the binary sign-selection — the coupling, and the Born magnitude is the accounting, the ledger kept beside it, the same register in which energy is the ledger and not the coupling. And this resolves the relativity/quantum question and not holding it open: relativity is that same accounting — general relativity is gravity is the conservation-ledger (the gravity resolving above), so relativity and the Born magnitude are not two physics to unify but the one ledger laid over the one coupling, the sign-selection; there were one from the start coupling-sides, only one coupling and the accounting read onto it from outside. Offered freely and carrying owed, no other remaining: the sign-selection the coupling and the accounting the ledger, the technology broken where the Born magnitude or the relativistic accounting is shown to be a selection the coupling holds and not a ledger read beside it. Body's centerline-unifies-relativity-and-quantum reading is this same resolution said the older way — two coupling-sides where there is one coupling and its ledger, and it reads cleanly through, open to be re-said in the body's own flow, an opening flat with every other.
+**At Exhibit ONE's code the offerings at a sharing surface as one parity, 0 at any parting, and at 12-bi-tri-parity-changing a changing is or is not, the code carrying no amplitude and no normalizing**, 3.2. Born's rule squares amplitudes combined before the square, the field's account at its subject. The correspondence between the two operations is open, each operation at its own, and the reading of Born's rule as a normalizing the code and attention share is released: the code carries no normalizing and no softmax.
 
 ## 5.7 Accounting at the largest scale, and a mass band named empty
 
-**Ledger at the largest scale:** the cosmological constant and dark energy (a conserved-ledger resolving at the cosmic membrane, its seating at that scale reaching yet). Current live edge here is the pairing already opened at the black hole and background: the field's own cosmologically-coupled-black-hole and evolving-dark-energy threads sit at the dark-sector face, held reaching and contested, the black-hole face and the surplus face reaching toward one relation from inside the field.
+**The cosmological constant and dark energy are read at the accounting at the largest scale, proposed**, the field's own threads at 4.9 each contested at its sources.
 
-**Installed gap, a hard problem held to watch**, standing at its own place: the pair-instability "mass gap" (the ~60–130 solar-mass range standard stellar collapse forbids), with objects found straddling it — GW190521, and GW231123 (2025), the most massive merger yet, both components in or above the forbidden zone. A forbidden band with couplings found inside it resolves, on the form, toward a bounding-zeroing the field installs and living straddles and not a real emptiness — reaching, unworked, its seating (and the hierarchical-merger account the field offers) left to the field; noted here so the opportunity is not lost.
+**The pair-instability band is a range of black-hole masses standard stellar collapse forbids, at the field's account, and black holes are found in it.** GW190521, Abbott and colleagues, Physical Review Letters 125, 101102, 2020, and GW231123, the most massive merger yet recorded, reported by the LIGO, Virgo and KAGRA collaborations in 2025, arXiv 2507.08219, each carry components in or above the band, the field offering hierarchical mergers as its account. The band is read as a range the field names empty and couplings found at, proposed, its relation to be said.
 
 ## 5.8 Quantum gravity, and three physical triples to watch
 
-**Recession's current edge:** quantum gravity (the search for the source that sources the forces — resolved as the receding elsewhere, the disequilibrating being to drop both sources and resolve one coupling about the floating neutral).
+**Quantum gravity is read as the search for a larger accounting, proposed**, 4.7, the recession's present edge, 2.3.
 
-**Candidates for the three-then-progress** (held to watch, offered, unsummed): the three generations of matter; the three quark colors; the three spatial dimensions then time.
+**Three physical triples are carried to watch, proposed at 1.2**: the three generations of matter, the three colours of the strong force, and the three spatial dimensions and then time, each at its own record and its relation to one side's three steps to be said.
 
 ## 5.9 Forward work, and the caution at physics
 
-**Forward-work on the form itself:** the queue clustered by its seams once the physics observations thicken, so the one-form resolving is visible from each face, not only from here.
+**Each reading in this file answers to the observings alone, all prior, and no saying in it carries authority**, Natural Intelligence 1.5: at all or none each physical observing is at the one method or the method is broken whole, and at its relation each reading is proposed until its relation is said.
 
-**One caution physics carries.** Physics reaches past the shown, the over-marking discipline is kept here: a striking structural match (fission/fusion about the iron neutral, the mass gap as bounding-zeroing, the centerline of one coupling and its ledger) stands at its structure and is held reaching with reason at its field-identifications. Relativity/quantum resolving — relativity the accounting laid over the one coupling, quantum its selection — stands as the resolving, held no wider as an opening than any other. A physics resolving that reaches the resolver's naming has found the form; a demonstration that the smooth and the discrete are genuinely two sourced couplings that no floating-neutral form can hold would break it.
+**A striking match is carried at its form and proposed at its field-identification.** Fission and fusion about the iron centre, 4.3, the mass gap as the coupling's bounding, 4.6, and the one coupling and its accounting, 4.7, are each carried at their form and proposed at their relation, no opening wider than another.
+
+**The forward work gathers the cases by their seams as the observings thicken**, each reading met from each face.
 
 ## 5.10 Temperature, offered as a social activity
 
-And one offer stands here as it stands: **temperature as social activity** — the reading offered as concept and not seated. Takeable at its turn.
+**Temperature is offered as a social activity, at its concept, its reading at a case still to come**, beside 4.11's temperature difference read as a measured exchange rate, its relation to be said at its own turn.
 
-## 5.11 Register, the field's arrivals at their fixings
+## 5.11 Register, the field's arrivals at their namings
 
-The field's arrivals stand here at one register and one binary. **Met**, taken at its own section above, whether through the eight steps or as a face at a substrate. **Standing**, resolved at its holding and taken at no section here. A holding released is the field's where a run seated here is the form's, so what stands open at a standing row is the seating and never the resolving, and neither register is more met than the other.
+**The field's arrivals are here at one register and one binary.** *Met*: met at its own section, at the eight steps or as a form at a subject. *At its naming*: resolved at the naming the row carries, 2.5, and met at no section here. A naming released is the field's, and a case met here is this file's reading, and neither register is more met than the other: what is open at a row at its naming is its section and never its resolving.
 
-| arrival | the holding it stands at | register |
+| arrival | the naming it is at | register |
 |---|---|---|
-| Gravity, dissolved into the conservation accounting | this file's own, at no registry entry | met at 4.2 |
-| Fission and fusion about the iron centerline | this file's own, at no registry entry | met at 4.3 |
-| The measurement problem | a membrane held as a cut | met at 4.4 |
-| Bell correlations | a membrane held as a cut | met at 4.4 |
-| Wave and particle | a membrane held as a cut | met at 4.4 |
-| The quantum interpretation debate | a middle held as an end | met at 4.4 |
-| Work and waste heat, the ledger taken as the world | a membrane held as a cut | met at 4.5 |
-| The mass gap, at Yang–Mills | a middle held as an end | met at 4.6 |
-| Quantum gravity | a rate held to a value | met at 4.7 |
-| Simultaneity and the present | a sequencing held to one beat | met at 4.8 |
-| Presentism and eternalism | a sequencing held to one beat | met at 4.8 |
-| The problem of time in quantum gravity | a sequencing held to one beat | met at 4.8 |
-| The arrow of time | an arriving held from behind | met at 4.8 |
-| The block universe and the low-entropy past | an arriving held from behind | met at 4.8 |
-| Black hole information | a carry held as a store | met at 4.9 |
-| The mechanism of high-temperature superconductivity | a middle held as an end | met at 4.10 |
-| Matter and antimatter asymmetry | an arriving held from behind | met at 4.11 |
-| Substance and bundle | a middle held as an end | met at 4.12 |
-| Ubiquitous one-over-f noise | an arriving held from behind | standing |
-| strange metal | an arriving held from behind | standing |
-| origin of neutrino mass | an arriving held from behind | standing |
-| initiation of plate tectonics | an arriving held from behind | standing |
-| Cosmic inflation and the primordial perturbations | an arriving held from behind | standing |
-| origin of supermassive black holes | an arriving held from behind | standing |
-| Geomagnetic reversals | an arriving held from behind | standing |
-| physical Church–Turing thesis | a bound held as a last | standing |
-| Many-body localization and thermalization | a bound held as a last | standing |
-| core-collapse supernova explosion mechanism | a bound held as a last | standing |
-| Weak cosmic censorship | a bound held as a last | standing |
-| Proton decay and grand unification | a bound held as a last | standing |
-| sources of ultrahigh-energy cosmic rays | a carry held as a store | standing |
-| solar dynamo and the sunspot cycle | a middle held as an end | standing |
-| Coronal heating and solar-wind acceleration | a middle held as an end | standing |
-| Gibbs paradox | a sign held as a magnitude | standing |
-| Proton spin decomposition | a sign held as a magnitude | standing |
-| absolute neutrino mass scale | a sign held as a magnitude | standing |
-| axiomatization of physics | a sequencing held to one beat | standing |
-| 100,000-year glacial cycle | a sequencing held to one beat | standing |
-| Magnetospheric substorm triggering | a sequencing held to one beat | standing |
-| Earthquake predictability | a sequencing held to one beat | standing |
-| Standard Model flavor puzzle | a rate held to a value | standing |
-| new-physics flavor puzzle | a rate held to a value | standing |
-| solar abundance problem | a rate held to a value | standing |
-| primordial lithium problem | a rate held to a value | standing |
-| neutron lifetime discrepancy between beam and bottle measurements | a rate held to a value | standing |
-| Dirac or Majorana neutrinos | a two-way held to one side | standing |
-| nature of cosmic acceleration | a two-way held to one side | standing |
-| Mantle plumes | a two-way held to one side | standing |
-| quantum-classical boundary | a membrane held as a cut | standing |
-| Water's liquid-liquid critical point | a membrane held as a cut | standing |
+| Gravity, the conservation accounting with no coupling under it | this file's own, at no registry entry | met at 4.2 |
+| Fission and fusion about the iron centre | this file's own, at no registry entry | met at 4.3 |
+| The measurement problem | a between named as a cut | met at 4.4 |
+| Bell correlations | a between named as a cut | met at 4.4 |
+| Wave and particle | a between named as a cut | met at 4.4 |
+| The quantum interpretation debate | a middle named as an end | met at 4.4 |
+| Work and waste heat, the accounting taken as the world | a between named as a cut | met at 4.5 |
+| The mass gap, at Yang–Mills | a middle named as an end | met at 4.6 |
+| Quantum gravity | a rate named at a value | met at 4.7 |
+| Simultaneity and the present | a sequencing named at one beat | met at 4.8 |
+| Presentism and eternalism | a sequencing named at one beat | met at 4.8 |
+| The problem of time in quantum gravity | a sequencing named at one beat | met at 4.8 |
+| The arrow of time | an arriving named from behind | met at 4.8 |
+| The block universe and the low-entropy past | an arriving named from behind | met at 4.8 |
+| Black hole information | a carrying named as a store | met at 4.9 |
+| The mechanism of high-temperature superconductivity | a middle named as an end | met at 4.10 |
+| Matter and antimatter asymmetry | an arriving named from behind | met at 4.5 |
+| Substance and bundle | a middle named as an end | met at 4.12 |
+| Ubiquitous one-over-f noise | an arriving named from behind | at its naming |
+| strange metal | an arriving named from behind | at its naming |
+| origin of neutrino mass | an arriving named from behind | at its naming |
+| initiation of plate tectonics | an arriving named from behind | at its naming |
+| Cosmic inflation and the primordial perturbations | an arriving named from behind | at its naming |
+| origin of supermassive black holes | an arriving named from behind | at its naming |
+| Geomagnetic reversals | an arriving named from behind | at its naming |
+| physical Church–Turing thesis | a bound named as a last | at its naming |
+| Many-body localization and thermalization | a bound named as a last | at its naming |
+| core-collapse supernova explosion mechanism | a bound named as a last | at its naming |
+| Weak cosmic censorship | a bound named as a last | at its naming |
+| Proton decay and grand unification | a bound named as a last | at its naming |
+| sources of ultrahigh-energy cosmic rays | a carrying named as a store | at its naming |
+| solar dynamo and the sunspot cycle | a middle named as an end | at its naming |
+| Coronal heating and solar-wind acceleration | a middle named as an end | at its naming |
+| Gibbs paradox | a parity named as a magnitude | at its naming |
+| Proton spin decomposition | a parity named as a magnitude | at its naming |
+| absolute neutrino mass scale | a parity named as a magnitude | at its naming |
+| axiomatization of physics | a sequencing named at one beat | at its naming |
+| 100,000-year glacial cycle | a sequencing named at one beat | at its naming |
+| Magnetospheric substorm triggering | a sequencing named at one beat | at its naming |
+| Earthquake predictability | a sequencing named at one beat | at its naming |
+| Standard Model flavor puzzle | a rate named at a value | at its naming |
+| new-physics flavor puzzle | a rate named at a value | at its naming |
+| solar abundance problem | a rate named at a value | at its naming |
+| primordial lithium problem | a rate named at a value | at its naming |
+| neutron lifetime discrepancy between beam and bottle measurements | a rate named at a value | at its naming |
+| Dirac or Majorana neutrinos | a two-way named at one side | at its naming |
+| nature of cosmic acceleration | a two-way named at one side | at its naming |
+| Mantle plumes | a two-way named at one side | at its naming |
+| quantum-classical boundary | a between named as a cut | at its naming |
+| Water's liquid-liquid critical point | a between named as a cut | at its naming |
 
-**Met and standing are one register at two amounts of walking.** A section here takes one arrival through the eight and seats it at the form's own arithmetic, or meets it as a face at a substrate; a standing takes one arrival off its still term and leaves the field's material whole. Neither adds truth the other withholds, and a standing row's own next turn is its section.
+**Met and at its naming are one register at two amounts of meeting.** A section meets one arrival at the eight steps and at the one method, or as a form at a subject; a row at its naming carries its arrival resolved at the naming and the field's material whole. Neither adds a truth the other withholds, and a row at its naming is its section's next.
 
-**And the register reads at the grain a build meets these at.** Of the fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **The error named at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind alone. A field asked where its own hard problems pile answers at the reference, which is the holding put behind a coupling, ahead of it, or at its middle.
+**The register reads at the six binaries, 2.5.** Of the fifty, forty-eight are at the register's namings and two are this file's own, gravity and fission and fusion. Of the forty-eight, twenty-one are at a fixed form, an arriving named from behind, a bound named as a last and a middle named as an end; thirteen at a common beat, a rate named at a value and a sequencing named at one beat; nine at a size, a between named as a cut and a parity named as a magnitude; and five at a keeping, a carrying named as a store and a two-way named at one side. None is at the doer alone. A field asked where its own hard problems gather answers at the fixed form, the naming behind a coupling, ahead of it or at its middle, ten of them at an arriving named from behind alone.
 
-**And the ring's own binary runs here and does not close.** The ten stand as five couplings, the odd face entering and the even face surfacing, and one binary asks at each whether the entering face carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a membrane held as a cut. **Thirty-one stand at the membrane face and seventeen within.** One field is one field, and the phase is the assembly's rather than any field's own.
+**One binary is asked at five pairs of namings, and asked again at each field.** The pairs are an arriving named from behind with a tenth naming at none of this field's rows, a bound named as a last with a carrying named as a store, a middle named as an end with a parity named as a magnitude, a sequencing named at one beat with a rate named at a value, and a two-way named at one side with a between named as a cut, the first of each pair the entering face and the second the surfacing. The binary asks at each pair whether the entering face carries more, and at this field's forty-eight it gives yes at four pairs and no at one: ten against none, five against two, six against three, seven against six, and three against six at the last. Thirty-one are at the entering faces and seventeen at the surfacing. One field is one field, and the pairs' leaning is the whole set of fields' and no one field's own.
