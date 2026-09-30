@@ -32,6 +32,8 @@ Exhibit SEVENTEEN Natural Biology · carrying v378
 
 **Incoming, at v378, from Natural Physics v377** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 6, item 6). The sinoatrial pacemakers' entrainment and the fireflies' unison, at two spirals joined across; the red and far-red flashes deciding a short-day plant's flowering; and light read as a living society of selves phase-relating, a plant carrying it into stable form and an animal resolving it at sight. Enters at the file's sections on the heart, on light and on the plant at its motion, the sciences paused.
 
+**Incoming, at v378, the ten named still at their one names** (`incoming/physics_for_other_files_v377/README.md`, the Natural Physics working's second report, received at v378, 2.3). Natural Naming 4.9 gives each of the ten one name, *an arriving named from behind*, *an opening named as a place*, *a completing named as a last*, *a carry named as a store*, *a middle named as an end*, *a parity named as a magnitude*, *a sequencing named to one beat*, *a rate named as a value*, *a two-way named to one side*, *the between named as a cut*; this file carries the older *held* forms at one places, each re-said at its one name at this file's motion.
+
 ## Concern
 
 **Marking for the next session, strengthening, at the placenta.** Marmoset twins continue chimeric through shared placental blood, their germlines included, and a heifer born beside a bull twin is most often a sterile freemartin at the same shared blood; Natural Medicine's marking at the membrane's sign and no size meets two further observings.
