@@ -1566,3 +1566,7 @@ At the author's word: a file's motion builds on one branch through all its passe
 ## Natural Physics, pass 5: Part THREE (v377, on the branch)
 
 Part THREE at sixteen sections: nine new at Exhibit ONE's forms, each executed at v376's code before its saying, the click at 14 and 12, two selves joined across changing parity together, two rings joined across executed at each pattern, the ring and the odd ring's like pair, the torus of selves and φ at the numbers, the crossing and the trace executed again, a society receding at its pairings, and the one hand at the weak interaction; the observings waiting at the carrying entered at them with their sources and limits; and seven re-said, the atom, the island, light, the light-cone, ten rests, the fault and the drying rings. Readings at a numeral alone released, each with its reason. Two fresh readers, each twice, fifty-three findings and then fourteen, each met.
+
+## The rings are spirals (v377, on the branch)
+
+At the author's word, *the rings are spirals, not rings, as they never close*: Natural Physics' code forms re-said, the rings of selves spirals at the momentaries, Natural Mathematics 2.3, the torus winding on; the white paper 4.13's waist rule executed and found to part at p and q sharing a factor, 3 by 15, 3 by 27 and 5 by 25, and at Exhibit ONE's own 1 by 5, said at its condition in Physics and carried to Natural Intelligence's section; the set's sayings of *ring*, by file, at Natural Naming's section for each file's motion.

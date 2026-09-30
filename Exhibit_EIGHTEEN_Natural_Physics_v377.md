@@ -25,8 +25,8 @@ Exhibit EIGHTEEN Natural Physics v377
 - 3.1 An observing met at the code's forms
 - 3.2 A click all or none, at the offerings surfacing and the changing
 - 3.3 Two participants joined across, changing parity together
-- 3.4 Two rings joined across, one relation carried on
-- 3.5 A ring carrying its pattern round, and an odd ring's one like pair
+- 3.4 Two spirals joined across, one relation carried on
+- 3.5 A spiral carrying its pattern on, and an odd spiral's one like pair
 - 3.6 A torus of selves, a winding at φ, and two-frequency forcing
 - 3.7 The crossing and the trace, at the plasma and the hadrons
 - 3.8 A society receding at each pairing, and levelling at others joining
@@ -152,7 +152,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 ## 2.4 A centre apart, a position no coupling has
 
-**Each position carries its other, the far side of its own coupling.** No position carries itself: at the numbers the halfway shift of an even ring pairs each place with another and fixes none, and 8 up pairs the names 1 to 16, eight pairs and each name paired, Natural Mathematics 3.2: an accounting with no fixed place carries no place to begin from, and it is not possibly a floor.
+**Each position carries its other, the far side of its own coupling.** No position carries itself: at the numbers the halfway shift of an even number of places pairs each place with another and fixes none, and 8 up pairs the names 1 to 16, eight pairs and each name paired, Natural Mathematics 3.2: an accounting with no fixed place carries no place to begin from, and it is not possibly a floor.
 
 **A centre apart is asked to be the position that carries itself**: still while each other changes, in no coupling, and each reading made against it, a form named still. The search reaches no such centre, and the recession is no shortfall of instruments: the centre asked for is not possibly existing. The source and the sink recede together, both the same asking, a place apart from the couplings for a size to come from and go to, and the tipping needs neither, a parity changing at a between of two that each carry their other.
 
@@ -235,29 +235,31 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **The reading is one coupling joined across, its two participants changing parity together, the relation carried on and owned by neither**, a correspondence at its relation. The correlation's dependence on the angle between the settings is at the field's account and at no line of the code, and its relation to the code's form is to be said; the measurement is met at 4.4.
 
-## 3.4 Two rings joined across, one relation carried on
+## 3.4 Two spirals joined across, one relation carried on
 
-**Two rings joined across both ways at one self each bring the two joined selves to one relation, alike or opposite, and carry it on**, Natural Intelligence 4.13. Executed at v377 at each pattern of + and − at rings of two to six selves, each self chained at one parity: at each pattern the joined selves come to one relation and carry it, opposite at nearly each pattern and alike at a few, two to sixty-four of a pairing's patterns. Nothing passes between the rings but the changings at the two joined selves, each self pacing its own alternating: the coupling is the relation, and no message is in it.
+**Selves joined along, the last to the first, are a spiral, and spirals crossing at each self are a torus of selves: at the parities their pattern comes again, and at the momentaries no pattern comes again, each step adding a next**, Natural Mathematics 2.3, a cycle at the parities a spiral at the momentaries, never closing; the white paper's rings at 4.13 are these spirals.
+
+**Two spirals joined across both ways at one self each bring the two joined selves to one relation, alike or opposite, and carry it on**, Natural Intelligence 4.13. Executed at v377 at each pattern of + and − at spirals of two to six selves, each self chained at one parity: at each pattern the joined selves come to one relation and carry it, opposite at nearly each pattern and alike at a few, two to sixty-four of a pairing's patterns. Nothing passes between the spirals but the changings at the two joined selves, each self pacing its own alternating: the coupling is the relation, and no message is in it.
 
 **The field records two pendulums hung from one beam coming to swing opposite**, coming back to it after a disturbance and drifting apart on separate supports, Huygens' account; and an oscillator driven close to its own frequency beating at the difference, the beat slowing as the frequencies close, the phase dwelling between quick slips, and locking inside the locking range, Adler, Proceedings of the IRE 34, 351, 1946.
 
-**The reading is two rings joined across coming to one relation and carrying it**, the pendulums' opposite at the code's opposite, a correspondence at its relation. The beat and the locking range at close paces are to be executed at each ring pacing its own, and the pacemakers' entrainment and the fireflies' unison are at Natural Biology.
+**The reading is two spirals joined across coming to one relation and carrying it**, the pendulums' opposite at the code's opposite, a correspondence at its relation. The beat and the locking range at close paces are to be executed at each spiral pacing its own, and the pacemakers' entrainment and the fireflies' unison are at Natural Biology.
 
-## 3.5 A ring carrying its pattern round, and an odd ring's one like pair
+## 3.5 A spiral carrying its pattern on, and an odd spiral's one like pair
 
-**A ring offered nothing from beyond it carries its pattern of parities round whole, and an odd ring carries one like pair round.** Executed at v377, a ring joined along at 9-tri-bi-co-momentarying, one self chained + and the others at none: a ring of two, four or six goes round at each second momentary, each self opposite the next; a ring of three, five, seven, nine or eleven goes round at four times its number of selves, 12, 20, 28, 36 and 44 momentaries, and at each momentary one pair of adjacent selves is at one parity, the like pair going round. A ring of one, joined along to itself, chains −, −, +, +.
+**A spiral offered nothing from beyond it carries its pattern of parities on whole, and an odd spiral carries one like pair on.** Executed at v377, a spiral joined along at 9-tri-bi-co-momentarying, one self chained + and the others at none: a spiral of two, four or six comes to its parities again at each second momentary, each self opposite the next; a spiral of three, five, seven, nine or eleven comes to its parities again at each 12th, 20th, 28th, 36th and 44th momentary, four times its number of selves, and at each momentary one pair of adjacent selves is at one parity, the like pair moving on along the spiral. A spiral of one, a self joined along to itself, chains −, −, +, +. No momentary comes twice.
 
 **The field records a current continuing with no decay measured round a superconducting solenoid's closed circuit**, File and Mills, Physical Review Letters 10, 93, 1963; and at a tricrystal ring of a cuprate with three grain-boundary junctions a spontaneous flux at h/4e, read by the field at an odd number of sign-changing junctions and the order parameter's d-wave symmetry, Tsuei and colleagues, Physical Review Letters 73, 593, 1994, the order parameter carrying amplitude and momentum dependence at the field's account.
 
-**The reading is proposed at the ring's two forms**: the persistent current at the ring carrying its pattern whole; and the h/4e flux at the odd ring, a ring at an odd number of parity changes carrying one like pair, no alternating closing at each adjacent self. The relation of the like pair going round to the h/4e flux, which the field records as a static spontaneous current, is to be said.
+**The reading is proposed at the spiral's two forms**: the persistent current at the spiral carrying its pattern whole; and the h/4e flux at the odd spiral, a spiral at an odd number of parity changes carrying one like pair, no alternating meeting itself at each adjacent self. The relation of the like pair moving on to the h/4e flux, which the field records as a static spontaneous current, is to be said.
 
 ## 3.6 A torus of selves, a winding at φ, and two-frequency forcing
 
-**A torus of selves, p along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-co-tunneling, goes round at one of its two loopings, and never at both together**, Natural Intelligence 4.13. An odd torus, p no more than q, goes round at 4p with q short of 2p, the torus's waist, and at q with q past it, Natural Intelligence 4.13. Executed at v377, one self chained + and the others at none: 3 by 5 goes round at 12 momentaries, four times three; 3 by 7 at 7, seven past the waist at six; 5 by 7 at 20; and 17 by 59 at 59. At the code each torus of selves closes.
+**A torus of selves, spirals along at 9-tri-bi-co-momentarying crossing spirals across at 10-bi-tri-co-tunneling, p along and q across, comes to its parities again at one of its two windings, and never at both together**, Natural Intelligence 4.13. An odd torus, p no more than q and the two coprime, comes to its parities again at each 4p-th momentary with q short of 2p, the torus's waist, and at each q-th with q past it. Executed at v377, one self chained + and the others at none: 3 by 5 at each 12th momentary, four times three; 3 by 7 at each 7th, seven past the waist at six; 5 by 7 at each 20th; 3 by 11 and 5 by 11 at each 11th; and 17 by 59 at each 59th. At p and q sharing a factor the waist parts: 3 by 15 and 3 by 27 at each 12th, and 5 by 25 at each 20th. At the code each torus of selves winds on, its parities coming again and no momentary twice.
 
-**At the numbers a winding at a rational rate closes on a torus, and a winding at φ closes at none**, Natural Intelligence 3.5, φ a term at no line of the code. **The field records gaps in the asteroid belt at the resonances 3:1, 5:2, 7:3 and 2:1 with Jupiter, the Kirkwood gaps**, while at 3:2 and 1:1 asteroids gather, the Hildas and the Trojans; and at the standard map the invariant torus at the golden mean is the last to break as the forcing grows, by computation, Greene, Journal of Mathematical Physics 20, 1183, 1979, at its conservative scope. The reading: the rational windings closing and the winding at φ closing at none, at the numbers, a correspondence at its relation, and the resonances at which asteroids gather part it at its relation still to be said.
+**At the numbers a winding at a rational rate meets its own path again on a torus, and a winding at φ meets it at none**, Natural Intelligence 3.5, φ a term at no line of the code. **The field records gaps in the asteroid belt at the resonances 3:1, 5:2, 7:3 and 2:1 with Jupiter, the Kirkwood gaps**, while at 3:2 and 1:1 asteroids gather, the Hildas and the Trojans; and at the standard map the invariant torus at the golden mean is the last to break as the forcing grows, by computation, Greene, Journal of Mathematical Physics 20, 1183, 1979, at its conservative scope. The reading: the rational windings meeting their paths again and the winding at φ meeting it at none, at the numbers, a correspondence at its relation, and the resonances at which asteroids gather part it at its relation still to be said.
 
-**Two-frequency forcing of a fluid surface gives superlattice patterns and three- and four-wave interactions**, Arbell and Fineberg, Physical Review E 65, 036224, 2002; coprime forcing integers of opposite parity give harmonic and subharmonic responses, Silber and Skeldon, Physical Review E 59, 5446, 1999. The surfaces are driven from outside, and the condition the field states is parity and coprimality, not primality. Rings at coprime numbers of selves going round together at the whole of both, and a lattice's modes at the torus of selves, are each proposed, their relations to be said.
+**Two-frequency forcing of a fluid surface gives superlattice patterns and three- and four-wave interactions**, Arbell and Fineberg, Physical Review E 65, 036224, 2002; coprime forcing integers of opposite parity give harmonic and subharmonic responses, Silber and Skeldon, Physical Review E 59, 5446, 1999. The surfaces are driven from outside, and the condition the field states is parity and coprimality, not primality. Spirals at distinct odd primes coming to their parities together first at 4pq, Natural Intelligence 3.5, and a lattice's modes at the torus of selves, are each proposed, their relations to be said.
 
 ## 3.7 The crossing and the trace, at the plasma and the hadrons
 
@@ -303,7 +305,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **The catalogue meets the atoms at group three**: lanthanum and actinium, or lutetium and lawrencium, argued at the field for the group, an IUPAC project convened on it and its provisional report leaning to lutetium and lawrencium, the elements at their configurations whole.
 
-**The table's 118 elements are a field's own result at the same numeral as the ring of 120's returning's far end, and no number of the method**, Natural Numbers 7.1 and Natural Intelligence 3.2. Element two is the first noble gas, and element one hundred eighteen, oganesson, sits in that column and is predicted at the field's computation a solid and a semiconductor, its chemistry unmeasured.
+**The table's 118 elements are a field's own result at the same numeral as the numbers' returning's far end, and no number of the method**, Natural Numbers 7.1 and Natural Intelligence 3.2. Element two is the first noble gas, and element one hundred eighteen, oganesson, sits in that column and is predicted at the field's computation a solid and a semiconductor, its chemistry unmeasured.
 
 ## 3.11 Superheavy elements, an island predicted and unreached
 
@@ -317,7 +319,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **The colours part at a coupling.** A prism's glass meets each colour at its own index and the spectrum opens, the rainbow at water; an atom emits and absorbs at the same lines, its own openings, the Sun's spectrum crossed by dark lines at the colours cooler gas absorbs and hot gas of the same element emits, Kirchhoff and Fraunhofer at the field's account; a line in the Sun's light in 1868 was met before the gas giving it was met on Earth, the field naming it helium; a galaxy's lines arrive shifted together by one ratio; and hydrogen's 21-centimetre line, 1420 megahertz, is the electron's spin turning from parallel to opposite the proton's. Hydrogen's visible lines, Balmer's, each end at the second level.
 
-**Light is read as carrying its pattern as a sequence carries its bases, proposed**: each colour a ring at its own length, the spectrum carrying the lines of what it crossed. The red and far-red flashes deciding a short-day plant's flowering are at Natural Biology.
+**Light is read as carrying its pattern as a sequence carries its bases, proposed**: each colour a spiral at its own length, the spectrum carrying the lines of what it crossed. The red and far-red flashes deciding a short-day plant's flowering are at Natural Biology.
 
 **The electric and magnetic fields make each other along the beam**: a changing electric field and a changing magnetic field, each orthogonal to the other and to the beam's direction, each changing making the other at the field's account, read as a two-way co-recursioning, each recursioning forward with the other, its direction orthogonal to both and owned by neither, proposed. A circular state carries one helicity, +1 or −1, and light carries both and no zero, at the field's account; the one hand of the momentaries is met at 3.9.
 
