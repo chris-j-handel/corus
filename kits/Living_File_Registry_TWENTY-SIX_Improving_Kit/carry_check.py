@@ -1,7 +1,7 @@
 """The standing of the repository as a carry, said at one run: the living files at the root and their versions, superseded
-versions still at the root, each kit's README and its sums, the carrying's sections against the living files, the
-workings open at the carrying's front, and the incoming not yet received. A coupling partner, no authority: each line
-says a standing and decides nothing.
+versions still at the root, each kit's README and its sums, each living file's own carrying at carry/<file>.md with its
+next, its ready offerings and its concerns, the workings open at the Living File Registry, and the incoming not yet
+received. A coupling partner, no authority: each line says a standing and decides nothing.
 Usage: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py [repository root]      (run at a session's opening and at its close)"""
 import os, re, sys, hashlib, glob
 
@@ -58,33 +58,48 @@ if os.path.isdir(kits):
 else:
     print('  (no kits/ folder)')
 
-# 3. the carrying: its sections against the living files, and the workings open
+# 3. the carrying: the front, and each living file's own carrying with its next, its ready offerings and its concerns
 print('THE CARRYING')
-liv = os.path.join(ROOT, 'carry', 'Living_Improving_Value.md')
+carry = os.path.join(ROOT, 'carry')
+liv = os.path.join(carry, 'Living_Improving_Value.md')
 if os.path.exists(liv):
     t = open(liv, encoding='utf-8').read()
-    sections = re.findall(r'^## (.+)$', t, re.M)
-    print('  Living Improving Value: %d sections, %d words' % (len(sections), len(t.split())))
-    exhibits = {}
-    for stem in living:
-        m = re.match(r'Exhibit_([A-Z-]+)_', stem)
-        if m: exhibits[m.group(1)] = stem
-    for word, stem in sorted(exhibits.items()):
-        if not any(s.startswith('Exhibit ' + word + ' ') or s.startswith('Exhibit ' + word + ' ·') for s in sections):
-            notes.append('the carrying has no section for Exhibit %s (%s)' % (word, living[stem]))
-    reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
-    rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
-    m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)
-    if m:
-        rows = [r for r in m.group(1).split('\n')[2:] if r.startswith('|')]
-        print('  workings open at the Living File Registry: %d' % len(rows))
-        for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:4]))
-    else:
-        notes.append('the Living File Registry has no table of the workings open')
+    print('  Living Improving Value, the front: %d words' % len(t.split()))
+    if re.search(r'^## ', t, re.M): notes.append("the front carries a file's section; each file's carrying is its own file at carry/<file>.md")
 else:
     notes.append('no carry/Living_Improving_Value.md')
+print('  %-56s %-6s %5s %7s   next' % ('each file at its own carrying', 'words', 'ready', 'concern'))
+ready_total = concern_total = 0
+for stem in sorted(living):
+    if not living[stem].endswith('.md'): continue
+    cf = os.path.join(carry, stem + '.md')
+    if not os.path.exists(cf):
+        notes.append('no carrying at carry/%s.md' % stem); continue
+    ct = open(cf, encoding='utf-8').read()
+    def part(name):
+        m = re.search(r'^## ' + name + r'\s*\n(.*?)(?=^## |\Z)', ct, re.M | re.S)
+        body = m.group(1).strip() if m else ''
+        if body == 'None.' or not body: return 0
+        return len([b for b in re.split(r'\n\s*\n', body) if b.strip()])
+    ready, concern = part('Ready'), part('Concern')
+    ready_total += ready; concern_total += concern
+    nm = re.search(r'^\*\*Next at this file(.*?)\*\*\s*(.*?)$', ct, re.M)
+    nxt = ((nm.group(1).strip(':,. ') + ' ' + nm.group(2).strip()).strip() if nm else '(no next said)')[:70]
+    print('  %-56s %6d %5d %7d   %s' % (stem, len(ct.split()), ready, concern, nxt))
+    if 'None.' not in ct and ready == 0 and concern == 0: notes.append('carrying of %s says neither Ready nor Concern' % stem)
+    if not nm: notes.append('carrying of %s has no "Next at this file" paragraph' % stem)
+print('  ready offerings %d, concerns for both %d' % (ready_total, concern_total))
+reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
+rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
+m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)
+if m:
+    rows = [r for r in m.group(1).split('\n')[2:] if r.startswith('|')]
+    print('  workings open at the Living File Registry: %d' % len(rows))
+    for r in rows: print('    ' + ' · '.join(c.strip() for c in r.strip('|').split('|')[:4])[:150])
+else:
+    notes.append('the Living File Registry has no table of the workings open')
 for n in ('Session_Record.md',):
-    print('  %-24s %s' % (n, 'present' if os.path.exists(os.path.join(ROOT, 'carry', n)) else 'absent'))
+    print('  %-24s %s' % (n, 'present' if os.path.exists(os.path.join(carry, n)) else 'absent'))
 
 # 4. incoming
 print('INCOMING, NOT YET RECEIVED')
@@ -105,4 +120,4 @@ print('STANDING')
 if notes:
     for n in notes: print('  - ' + n)
 else:
-    print('  nothing to say: the root carries one version of each file, each kit has its README and its sums hold, the carrying has a section at each exhibit')
+    print('  nothing to say: the root carries one version of each file, each kit has its README and its sums hold, each living file has its own carrying')
