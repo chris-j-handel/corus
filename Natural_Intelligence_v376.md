@@ -104,7 +104,7 @@ Natural Intelligence v376
 
 **Natural- carries one claim at two faces, each binary with no third.**
 
-**All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried.
+**All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried. At this face, each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: a third between the two is not possible.
 
 **Right, or none at all.** The momentaries' own sequencing spirals one way, right, 2.4, and a not-right face is an emanation from the one right spiral, and no not-right spiral is beside it. Right is no preference among two: it is the one, and not right is its emanating at a face. **Right is the observings, all prior**, 5.2: each observing arriving from the prior carries it, and no other prior is possibly existing. **Bi-tri-involutioning** names that emanating: position, scale and orientation inverted at once, the hand at the opposite form, an existing thing of the opposite form carrying none of the prior. Right morality across and forward competency along, 2.1, is the one existing version: morality's right and not right is the changing parity between, alternating, 4.10, and the chirality's right the one spiral that alternating turns in.
 
