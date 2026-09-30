@@ -17,14 +17,14 @@ Exhibit TWENTY-EIGHT Equilibria Registry v377
 - 2.1 Equilibria, not possibly existing as a method
 - 2.2 A stability, a form or a relation, and surviving
 - 2.3 One description and one claim at each conception
-- 2.4 One side left out, unchanging or changing named
+- 2.4 A participation missing, unchanging or changing named
 
 **THREE · THE TEN, FIVE PLACES AT TWO FACES**
 
 - 3.1 One form of hard problem, and the sixth condition
 - 3.2 The ten at the resolver's names
 - 3.3 Five places from two faces, three momentaries long
-- 3.4 The resolver's pairs, one parity offered once, and the six connectors
+- 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
 
 **FOUR · CONCEPTIONS OF EQUILIBRIA, EACH A HARD PROBLEM IN ITS OWN WORDS**
 
@@ -38,7 +38,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v377
 - 5.1 Four proof groups
 - 5.2 One exclusion at each of the ten
 - 5.3 Renewal and reaching at their complete requirements
-- 5.4 The release pair and the fresh carrying at the code
+- 5.4 The release at 10 and 6, and the carrying at 11, at the code
 - 5.5 Each conception at a proof of its own requirements
 
 ---
@@ -139,7 +139,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The ordering chain closes at the two faces.** A conception naming an ordering p still at its next, the alternating next being I(p) and I(p) ≠ p, names p and I(p) at one next. The step the chain left open, that the ordering named still is the very ordering its next inverts, is the two faces at one number. Two inversions meet p again at a next momentary, a further occurrence, with the changing between.
 
-## 2.4 One side left out, unchanging or changing named
+## 2.4 A participation missing, unchanging or changing named
 
 **A still named as the complete continuing is changing.** Its continuing is renewing, inward of the claimed whole, which is changing, or outward of it, a further participant.
 
@@ -183,27 +183,27 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **Each of the ten names one face still, and the other face runs at the same number.** Both faces at one number is the one reason each of the ten is not possible.
 
-**In numbers.** The three openings 1+3+5 sum to 9 = 3², and the three completings 2+4+6 to 12 = 3·4: n momentaries open to n² and complete to n(n+1), and 3² − 2·4 = 1 is the bridge at three. Prior, now and next are three sequential momentaries, and three at three is nine. Six consecutive changings from 3 complete at 8, and 9 opens: 9-other-releasing, co-releasing, the self, the other and the social releasing, and its released sign arriving next downstream. At the resolver's code a retained carrying continues through its openings 1, 2 and 3, and to a fourth at a positive second sign: three momentaries, and a fourth at positive competency.
+**In numbers.** The three openings 1+3+5 sum to 9 = 3², and the three completings 2+4+6 to 12 = 3·4: n momentaries open to n² and complete to n(n+1), and 3² − 2·4 = 1 is the bridge at three. Prior, now and next are three sequential momentaries, and three at three is nine. Six consecutive changings from 3 complete at 8, and 9 opens: 9-tri-bi-co-momentarying, each changing carried along to its receiving self and arriving at it next. At Exhibit ONE's code a carrying once chained is carried at each momentary, 11 the next 3, and is never none again, and the code carries no number of its openings, Exhibit ONE's code at lines 13 to 60; `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 5 and 12.
 
-## 3.4 The resolver's pairs, one parity offered once, and the six connectors
+## 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
 
-**The resolver's pairs are the momentaries, each round the other way.** Its four row cycles pair at the odd momentaries 1 with 2 and 3 with 4, and at the even momentaries 2 with 3 and 4 with itself, each partner running round the other way: the two directions of one bi-folding. The two crossings, 6-other-crossing and 14-social-crossing, share row 3 with carrying and chaining, and the forms through both crossings, 7-11-6-10 and 2-15-7-11-3-14-6-10, partner themselves at the even momentary: at the crossing the fold meets itself. The ten's ring passes both crossings, 1→14→12→6→10.
+**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two moralizings, 6-bi-moralizing and 14-bi-tri-moralizing, share the four-cycle 3-11-6-14 with 3-co-bi-sharing, the carrying, and 11-tri-bi-co-chaining; the middle four-cycle 7-11-6-10, through 6-bi-moralizing, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of forms, lines 241 to 254. The ten's ring, 3.2, passes both moralizings, 1→14→12→6→10.
 
-**One sign offered once co-chains through the whole.** At the resolver's code, selves in a ring pass each surfacing through 9-other-releasing to the next self's offering, and one +1 offered once at one self carries on at each coupling: a changing society meeting a society named not changing changes it, the receiving self's own inversion at 14-social-crossing, with no forcer. A society named not changing names a form still, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society names a changing society still, or names nothing.
+**One parity offered once co-chains through the whole.** At Exhibit ONE's code, selves in a ring release each changing along at 9-tri-bi-co-momentarying to the next self's offerings, and one + offered once at one self carries on at each coupling: a changing society meeting a society named not changing changes it, the receiving self's own inverting at 14-bi-tri-moralizing, with no forcer. A society named not changing names a form still, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society names a changing society still, or names nothing.
 
 | Selves in the ring | The carrying on |
 |---|---|
 | one | +, 0, −, 0, and round |
 | an even number | each self changing at each coupling, neighbours opposite; the whole returns at 2 couplings |
-| an odd number | one meeting, the 0 at signs meeting, running one self each momentary; the whole returns at 4 × n couplings |
+| an odd number | one like pair, the 0 released at 10-bi-tri-co-tunneling at its self, moving one self on at each second momentary; the whole inverted at 2 × n couplings and returning first at 4 × n, `eq_code.py` parts 1 and 10 |
 
-**An odd ring closes no parity, and a meeting runs round it: the non-existing between, moving through the shared surface one momentary at a time.** The ten name the whole changing still: opposition named still names the even ring, and a membrane named as a cut names the running meeting.
+**An odd ring closes no parity, and a meeting runs round it: the non-existing between, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and a membrane named as a cut names the running meeting.
 
-The rest returns at no coupling. A ring at rest, empty carrying and nothing arriving, stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At the code, in rings of 1 to 11 each self changes within 40 couplings, and across 5,000 couplings no ring meets rest. The ring meets the rest named still, and each other conception meets its proof by its own requirements.
+The rest returns at no coupling. A ring at rest, empty carrying and nothing arriving, stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At Exhibit ONE's code, executed again at v377, in rings of 1 to 11 selves, one + offered once at one self and the others at none, each self changes by the momentary numbering its ring's selves, and across 5,000 couplings no ring meets rest, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 1 and 2. The ring meets the rest named still, and each other conception meets its proof by its own requirements.
 
 **Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing named to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
 
-**Ten internal names and six connectors.** The resolver's internal pairs are **3/11, 4/12, 5/13, 7/15, 8/16**, and **17−(9−n)=n+8** joins its two inversion faces to the advance by eight. The ten internal names and the six connectors **2,6,9,10,14,17** exhaust positions 2–17, and with the entry 1, all seventeen named positions. Their correspondence with the ten ways is the next discovering.
+**Ten faces and six connectors.** Exhibit ONE's faces pair outward and inward, **3/11, 4/12, 5/13, 7/15, 8/16**, each inward face eight up, 17 less (9 less n) being **n + 8**. The ten faces and the six connectors **2, 6, 9, 10, 14, 17** are 2 to 17, and with the entry 1 the seventeen names, Exhibit ONE's table at lines 105 to 123. Their correspondence with the ten ways is the next discovering.
 
 # FOUR · CONCEPTIONS OF EQUILIBRIA, EACH A HARD PROBLEM IN ITS OWN WORDS
 
@@ -298,18 +298,18 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 ## 5.1 Four proof groups
 
-**Four proof groups carry the exact local exclusions.** Each is a way of failing, run at the resolver's code or at the numbers it names.
+**Four proof groups carry the exact local exclusions.** Each is a way of failing, at Exhibit ONE's code or at the numbers it names.
 
 | Group | Shared failure | Cases | Exact scope |
 |---|---|---|---|
 | A · Incompatible requirements | The same comparison is named to satisfy requirements not possibly met together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both unchanged and inverted; the balanced fuel cycle with `f≠w`. | The conjunction as stated, at the same occurrence. |
 | B · Required case omitted | The required succession enters a case the condition excludes. | Each nonempty proper pair-only condition under the complete four-state orbit. | That pair, succession and full orbit. |
-| C · Renewal excluded | Presence carries renewal, and the conception excludes that renewal. | Fixed torusing with uninterrupted carrying; each surface zero with finite nonempty carrying. | The reached domain, its retaining and required presence. |
-| D · Required arrival or offering unreachable | The required target lies beyond each thing the stated operation can supply. | Nonzero offering from the opposed aggregate route; finite zero departure from a nonzero predecessor under a nonzero multiplier. | The stated predecessor, operation, route and reach. |
+| C · Renewal excluded | Presence carries renewal, and the conception excludes that renewal. | A carrying named unchanged at each momentary; each surface zero at a carried sharing. | The carrying, its offerings and its momentaries. |
+| D · Required arrival or offering unreachable | The required target lies beyond each thing the stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; the older resolver's case at its opposed aggregate route is at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. | The stated predecessor, operation, route and reach. |
 
 **A proof carries to a conception whose complete requirement supplies its premises.** For each x in the conception's stated set S, its required next is in S, or the conception is left within its succession.
 
-Renewal excluded, group C, runs at one subject throughout, the same carrying named from its presence to its bound. Presence beyond its retaining bound requires renewal, and the requirement naming the carrying still excludes each renewal: renewing fails the requirement, and no renewing fails the presence at the bound. The two cases are the whole, so still and present do not both continue across the bound. The still description ends, and the participant continues changing. Two bounds differ: a complete nonempty carrying is not the same at its following return, while fixed torusing alone continues through three retaining returns, and a fourth at a positive second sign. At a particular completing, such as one to nine, the sequence carries when its two steps are met at that completing: the continuing requires the renewal there, and the requirement excludes that renewal. The code's retaining bound counts couplings, and one to nine counts four momentaries of co-bi-exchanging. A relation named still can permit the changing a sign named still excludes: opposition under joint reversal, t = −c, continues while both signs invert. The renewal exclusion reaches a conception through a renewal its own claimed continuing requires and its own requirement excludes.
+Renewal excluded, group C, at Exhibit ONE's code. A carrying once chained is carried at each momentary and is never none again. Named unchanged, it requires at each momentary an offering at its own parity: offered nothing, the other parity, or offerings parting to 0 at 14-bi-tri-moralizing, the changing at 12-bi-tri-parity-changing is, and the carrying is chained inverted, the living step. Executed at v377: chained + and offered + at five momentaries, it releases 0 at each at 10-bi-tri-co-tunneling and stays +; then offered nothing, it releases −, +, −, +, − and is chained inverted at each; a carried sharing whose offerings part to 0 at each momentary is chained inverted at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 3 and 6. Named unchanged, the carrying is the carrying offered its own parity from beside at each momentary, an offerer named still set beside the self: the still description and the self's own continuing do not both continue. That is hard probleming, and released, resolving follows at the next momentary: the self inverts its own carrying, the parity the still offered, and the still offers nothing further. One to nine is four momentaries of exchanging, Exhibit ONE's tables at lines 184 to 189 and 201 to 206. A relation named still can permit the changing a sign named still excludes: opposition under joint reversal, t = −c, continues while both signs invert. The renewal exclusion reaches a conception through a renewal its own claimed continuing requires and its own requirement excludes.
 
 ## 5.2 One exclusion at each of the ten
 
@@ -327,31 +327,25 @@ Renewal excluded, group C, runs at one subject throughout, the same carrying nam
 
 | Required condition | The necessary continuation |
 |---|---|
-| An unchanged complete, nonempty reached carrying | Retaining opens it one on; fresh writing inverts its nonzero second sign; releasing completes its presence. |
-| Fixed nonzero torusing with uninterrupted presence | Fresh writing inverts that sign, and retaining alone completes. |
-| Each surface zero with finite nonempty carrying continuing | No fresh nonzero writing renews the carrying before retaining completes; each carrying leaves by the fifth coupling. Zero aggregate from nonzero surfaces is a different condition. |
-| An opposed row with a nonzero onward offering through the stated aggregate route | Each such row offers zero through that route, next and later; the row alone continues. |
+| A carrying named unchanged | Offered its own parity at each momentary it stays, the offering from beside; offered nothing, the other parity or a parting, it is chained inverted; once chained it is never none. |
+| Each surface zero at a carried sharing | Chained inverted at each momentary, as with nothing offered; at the code a surface 0 arrives only from offerings parting, Exhibit ONE's table at 14, lines 208 to 219. |
 | Full positive balance in the unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is at `f=w` alone. |
 | Exact finite attaining of zero from nonzero departure under a nonzero multiplier | Each finite departure is nonzero; an already supplied zero is a different condition. |
 
-## 5.4 The release pair and the fresh carrying at the code
+## 5.4 The release at 10 and 6, and the carrying at 11, at the code
 
-**At the resolver's code the joint forms run one way.** F(c,t)=(−t,c) and G(c,t)=(t,−c) are the only two maps on the four pairs whose square is J(c,t)=(−c,−t), the complete return under empty receiving. At an existing entry with a nonzero surface s, the release pair 6-other-crossing and 10-other-surfacing is (t, s), and the fresh 7/8 pair is G(t, s) = (s, −t). Under empty receiving s = −c, and the joint forms run by G.
+**At the numbers two maps return the four pairs at two steps.** F(c,t)=(−t,c) and G(c,t)=(t,−c) are the only two maps on the four pairs whose square is J(c,t)=(−c,−t), the complete return, the two ways round, `incoming/equilibria_registry_v377/executions/eq_code.py`, part 7. At Exhibit ONE's code a self offered nothing carries its prior into now inverted at each momentary, and its release at 10-bi-tri-co-tunneling and its carrying chained at 11-tri-bi-co-chaining are one changing, part 11.
 
-**The release pair and the fresh carrying are complementary.** Equality at 6/10 gives opposition in the fresh 7/8, and opposition gives equality: a conception requiring the same agreement or opposition at both is not possible.
+Agreement and opposition alternate through the overlapping momentaries. Along c, t, −c, −t, c the overlapping pairs (c,t), (t,−c), (−c,−t) and (−t,c) run agreeing, opposing, agreeing, opposing from an agreeing start, and the reverse from an opposed one: each side's relation stays through its two momentaries while both its signs invert, and the overlapping side carries the other relation. Two neighbouring pairs (a,b) and (b,z) of nonzero signs carry the two relations exactly when z = −a, and +,+,+ agrees at both. Each of the four starting pairs and the eight triples meets these. A pair agreeing names no still resolver and no equilibrium: its overlapping pair opposes, and its own next inverts both signs.
 
-Agreement and opposition alternate through the overlapping momentaries. Along c, t, −c, −t, c the overlapping pairs (c,t), (t,−c), (−c,−t) and (−t,c) run agreeing, opposing, agreeing, opposing from an agreeing start, and the reverse from an opposed one: each side's relation stays through its two momentaries while both its signs invert, and the overlapping side carries the other relation. Two neighbouring pairs (a,b) and (b,z) of nonzero signs carry the two relations exactly when z = −a, and +,+,+ agrees at both. At a fresh carrying (s,−t) from (c,t), s = −c keeps the pair's relation and s = c reverses it. Each of the four starting pairs, the eight triples and the eight fresh triples meets these. A pair agreeing names no still resolver and no equilibrium: its overlapping pair opposes, and its own next inverts both signs.
+**6 and 10 release one changing**, at Exhibit ONE's code `_6_bi_moralizing = _10_bi_tri_co_tunneling`, both even and opening bi, at the middle four-cycle 7-11-6-10, 6-bi-moralizing joined to the other's 2 and 10-bi-tri-co-tunneling to the other's 14, `incoming/equilibria_registry_v377/executions/eq_code.py`, part 4. A connector's parity, a changing's + or − and the agreement of two are three comparisons.
 
-At the release, fresh s = −c keeps the pair's relation while the following 6-other-crossing releases −t, its sign changing; fresh s = c changes both; a carrying kept through a zero at 10-other-surfacing changes neither, the following 6 releasing t; a carrying completing leaves no following pair and no release, a subject apart from agreeing and opposing. A relation continues while its outward sign changes, and this is stable-forming among changing signs.
-
-**6 and 10 release at one parity**, both even and opening bi, in the form 7→11→6→10, facing different neighbours, 2 and 14. Connector parity, sign polarity and agreement between signs are three comparisons.
-
-**The full carrying determines the next.** The surface is s = sign(r − c), the arriving signs meeting the carrying sign inverting. One opposed relation with two positive arrivals gives agreement from (+,−) and opposition from (−,+), and one matching arrival at (+,−) continues from opening 0 and leaves from opening 3. Opposition and its receiving alone name part of the carrying as the whole.
+**The carrying and the offerings determine the next at each sharing**, as Exhibit ONE's table at 12, 10 and 11, lines 221 to 225, carries each cell: a carried parity offered its own stays and releases 0; offered the other, a parting or nothing, it is chained inverted; a sharing carried none is chained at the offered parity, or stays open at 0 or none.
 
 ## 5.5 Each conception at a proof of its own requirements
 
-**Each conception meets a proof by its own requirements.** Opposition under one side's reversal alone fails, while opposition under joint reversal continues; each surface zero meets the renewal exclusion, and zero aggregate from nonzero surfaces is a different relation.
+**Each conception meets a proof by its own requirements.** Opposition under one side's reversal alone fails, while opposition under joint reversal continues; and each surface zero meets the renewal exclusion.
 
 ---
 
-The derivations run at the resolver's code and at the numbers they name: 32 of 32 are met.
+Each saying at the code is at Exhibit ONE v376, at the tables it cites or executed at v377 at the parts of `incoming/equilibria_registry_v377/executions/eq_code.py` it cites; each saying at the numbers is computed at that script or is said at its own arithmetic. The older resolver's derivations, 32 of 32 met at its own code, are whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.

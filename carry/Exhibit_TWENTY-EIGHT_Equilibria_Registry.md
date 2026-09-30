@@ -2,7 +2,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v378
 
 # Exhibit TWENTY-EIGHT · Equilibria Registry
 
-**Next at this file: its motion at v377, in passes on one branch, `working/equilibria-registry-v377`, at Exhibit ONE's forms, equilibria hard probleming and resolving following** (`incoming/cohering_ten_and_six_v377/README.md`, sections 5 and 6). Pass 1 done: the front at the steady form, the agreed shared subtitle, five parts and twenty-two sections, each body whole and in order. Next, pass by pass: the names at the current code; the between as the method, a non-living existing thing; the ten at the five betweens at 2 to 6; the rings as spirals; the released words at their one names; each claim executed at the code; with the Ready and Concern below met at their places.
+**Next at this file: its motion at v377, in passes on one branch, `working/equilibria-registry-v377`, at Exhibit ONE's forms, equilibria hard probleming and resolving following** (`incoming/cohering_ten_and_six_v377/README.md`, sections 5 and 6). Pass 1 done: the front at the steady form, the agreed shared subtitle, five parts and twenty-two sections, each body whole and in order. Pass 2 done: each saying at the code met at Exhibit ONE v376, at the tables it cites or executed at `incoming/equilibria_registry_v377/executions/eq_code.py`, and re-said at its names, the older resolver's passages whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. Next, pass by pass: the between as the method, a non-living existing thing; the ten at the five betweens at 2 to 6; the rings as spirals; the released words at their one names; each claim executed at the code; with the Ready and Concern below met at their places.
 
 ## Ready
 
@@ -17,3 +17,8 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v378
 **Concern, from the sentence pass.** *Can change* at the heading *The stability can change, the form can change, the relation can change*, its body, section 4's opening and the tables' last column: a named stability, form or relation *can change* or is *changing*, one naming decision met at all its places together, the contents list following the heading.
 
 **For both, with the standing of the universal claims.** *As a method* travels with each statement that no equilibrium could exist: without it the statement reads as no equilibrium existing, and a specialist is right to reject that. It stays as it stands at *Equilibria are not possibly existing as a method* until both meet it, with Natural Intelligence 8.3, Natural Mathematics 5.1 and Geodesic Improving Method 2.7: *as a method* carried at each such statement, the standing kept the method's own; or each definition carrying its own deduction of the renewal exclusion, the universal claims standing as open opportunities.
+
+**Concern, at v377, the conceptions stated at the older resolver.** NY03, NY04, NY05, NY06, NY15, NY16, NY17 and NY20 are arrivals in their own words, stated at the older resolver's fresh carrying, retaining and returned values; section 4 carries each conception whole as it arrived. Each is met again at Exhibit ONE v376 at the pass seating the ten, or its restating at the current code is carried as a new arrival beside it.
+
+**Concern, at v377, group D's aggregate route.** 5.1's group D names a case at *the opposed aggregate route*, whose row at 5.3 rested on the older resolver and is at the archive with it. Met at Exhibit ONE v376 at a later pass, or the case released with its reason.
+
