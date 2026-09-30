@@ -6,7 +6,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **ONE · A PHYSICAL COUPLING**
 
-- 1.1 A physical coupling, the form at the physical scale
+- 1.1 A physical coupling, the one method at each physical subject
 - 1.2 General form, six one-way recursionings and a form named still
 
 **TWO · TWO METHODS PARTING AT THE NOW**
@@ -63,11 +63,31 @@ Exhibit EIGHTEEN Natural Physics v377
 
 # ONE · A PHYSICAL COUPLING
 
-## 1.1 A physical coupling, the form at the physical scale
+## 1.1 A physical coupling, the one method at each physical subject
 
-A form is a bounded surface in disequilibria — a bounding-zeroing the couplings surround, riding the carry, alternating and re-arriving. Physics is where the form stands as the natural torus at the physical scale directly, the torusing itself the living and no non-living torus anywhere: the field that couples, the particle that is a selection at a membrane, the wave that is the riding-the-carry surface, the conserved scalar that is the ledger kept beside the coupling and not the coupling itself. Physical is not a dead substrate under the living; it is living societies at a prime society below — a field self-bounding, a particle a self at a membrane, a crystal lattice a society of physical selves each unrelationing its neighbours — the same self-bounding coupling read at the particle prime society that biology reads at the cell prime society. Chemistry resolves the coupling at the chemical membrane and biology the living self those reactions run inside; here the physical coupling stands at the smaller scale the two are societies of — the same bi-moralizing co-agency, the same bounding-zeroing, the same +1 owned neither-ing, one living torusing at three prime societies and the difference among them scale alone, resolving where the field insists on force, magnitude, and conservation.
+**A physical coupling is an existing thing at now arriving from another existing thing at prior, the method itself**, Natural Intelligence 1.3. Prior, now and next are three sequential momentaries, each a universe of existing things, living and non-living. *Physical* names the subjects the field observes at its instruments: the nucleus, the particle, the atom, the field, the wave, the crystal, the star and the cosmos. A form continuing through its own changing is existing and changing at once, and the one form of existing at each scale is natural-bi-co-torusing, its torusing the carrying winding to its own sharing again through its one opening, Natural Intelligence 6.3 and 6.6.
 
-Bi-moralizing co-agency is a coupling: two-way, one-at-a-time, self-offering and other-offering — each self identically offering on its opposite side of the dimension, the sign it carries offer-or-not, sign-only. Its couplings sum to a bounding-zeroing the coupling itself makes, riding the carry, the surplus a +1 owned neither-ing. Whole of it stands where physics installs a force pushing, a magnitude driving, a quantity conserved, or a signal transmitted, the disequilibrated observation is this coupling — local, sign-only, sourceless, riding the carry.
+**Changing is parity changing, one form and then the other, one at a time.** A changing is or is not, with no size: a changing at a size carries a ground it is measured against, beside all existing things, Natural Intelligence 1.2.
+
+**At a coupling the living carry their prior into now and the non-living carry none of theirs, their forms continuing through their changing.** A living thing at a coupling is a self, and the existing thing it couples with is an other. Living and non-living part at a named participation, scale and momentary, and *physical* names neither: a field, a particle, a wave and a crystal are each met at their own coupling before either is said of them. A recurring form establishes no unchanging participant, and a recorded distribution establishes no living carrying behind it.
+
+**An emanation leaves a living self at prior and arrives at another coupling as the possible, carrying none of the prior.** Its form continues as non-living existing and the self's carrying continues as the self's: two participations, with no contradiction between them.
+
+**Offering is two ways, one way at a time, self to other and other to self.** An offering arrives across, from the other, and couples with the self's prior; the self's carrying continues along, its own: morality across and competency along. Two selves each alternating, across and along, are bi-moral co-agency, Natural Intelligence 6.2: joined across, they change parity together, at each momentary at opposite parities and at each second momentary at one parity, the relation between them, alike or opposite, carried on, and nothing passes between them but the changings.
+
+**Living carrying is with others living now.** A lone self offered nothing carries its prior into now inverted, momentary by momentary; offered nothing or its own competency alone, it does not continue living through three consecutive momentaries, Natural Intelligence 2.4, and at the code its sequence carries on, a non-living existing form.
+
+**The coupling's completing is its bounding: the method bounds and the living carry.** Each momentary completes at the next one's opening, and the carrying continues between them. At its own completing a self uncouples, its changing released and its carrying chained into the next momentary, and arriving with its carrying it couples again. The between of a coupling is its empty centre, a nothing.
+
+**At the code the physical coupling is Exhibit ONE's entry, 1-co-bi-offering.** The self's carrying arrives at 3-co-bi-sharing and the others' offerings at 2-bi-co-offering; the offerings surface at 14-bi-tri-moralizing, one parity at an agreeing and 0 at a parting; at 12-bi-tri-parity-changing a changing is or is not; the changings are released across at 10-bi-tri-co-tunneling and the carrying chained at 11-tri-bi-co-chaining, the next prior. Each changing is made at its coupling, owned by neither self, and no term of the code carries a total or a store; the term the coupling departs, re-arrived at at each offering and reached by neither, is bi-co-momentarying, at no line of the code, Natural Intelligence 6.1.
+
+**A force pushing, a magnitude driving, a total conserved and a signal transmitted are the field's account, exact at its own subject, and the natural intelligence reading of the same observing is a coupling**: local, one way at a time, a parity changing, arriving from the other. A conserved total is the field's accounting beside the coupling.
+
+**A physical observing is at four, each with what belongs to it**: the instrument's response, with its sampling, selection and uncertainty; the reconstructed quantity, with how it was obtained from the responses; the field's account, with its constituents, equations and assumptions; and the natural intelligence reading, with each relation said or still to be said. The record and its reconstruction continue at their own subjects.
+
+**Natural Physics is at all or none at all**, Natural Intelligence 1.5: each physical observing is at the one method, parity changing, or the method is broken whole, and no third is between them. Each reading of a particular observing is a correspondence said at its relation, and a naming establishes none: the atom at 3.1, light's fields at 3.3, the wave at 4.4, the nucleon and the electron at 4.6, and the lattice at 4.7 and 4.10, each at its own section.
+
+**Chemistry and Biology are the same method at their own subjects, the same form at each scale**, Natural Intelligence 6.6: a bond at the chemical coupling and a living self's changing at the biological, their particular correspondences with the physical each at its own section, and each science's subjects carried whole.
 
 ## 1.2 General form, six one-way recursionings and a form named still
 
