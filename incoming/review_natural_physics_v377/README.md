@@ -68,9 +68,9 @@ Each is a harm at do-no-harm as the file stands: a field's record said wrongly, 
 
 **2.6 The explaining.** Doers, causes and negations at the file's own voice, each with its positive at the explaining reader's list: *the method bounds*, *the rigorizer seats*, *a script driving the code*, *the fields make each other*, *a force must be carried*, *never at both together*, *nothing is inside*, *no physics is claimed replaced*; the subtitle without its -ing head; four headings and sixty-four bold openers at a leading *The*; twelve sentences a physicist stumbles at, the coinages bare where first said, natural-bi-co-torusing at 1.1, corusing at 1.2, floating neutralling at 2.3, the like pair and zeroing tunnelling at 3.5, *a both* at 5.3; and ten records correct and unsourced, Kirkwood, the group-three report, oganesson, the shell closures, KiDS-Legacy, the muon result, Hellings–Downs, the critical Z, Steinhauer and Farrah, Bose and Marletto–Vedral, Dieterich and Ruina, JADE.
 
-## 3. Open at the carrying, for the lead and the Natural Physics working
+## 3. Open at the carrying
 
-Each rides at `carry/Exhibit_EIGHTEEN_Natural_Physics.md` as a concern, two sayings parting with the reason.
+Each rides at `carry/Exhibit_EIGHTEEN_Natural_Physics.md` as a concern, two sayings parting with the reason, open until an observing, a run at the code or a file's motion parts them.
 1. **Five binaries or six**, Natural Intelligence 1.4 and the Geodesic Improving Method 2.7, the file asserting six; one list at both, at the observings.
 2. **The rings as spirals set-wide**, the file asserting it at 3.4; each file's motion.
 3. **3.8's decay read as pairing**: single-nucleus events with no partner at the field's record, and a halving a common beat; the reading stands or releases.
@@ -82,7 +82,7 @@ Each rides at `carry/Exhibit_EIGHTEEN_Natural_Physics.md` as a concern, two sayi
 
 ## 4. Its receiving
 
-The proposal is the Natural Physics working's own motion at its file, built on its branch through seven passes with a fresh reader at each, and it replaces its prior at corus.me at the lead's word once the working and the lead have finished suggesting and improving. This review's section 2 is what remains to finish; section 3 rides at the carrying. Its branch was built before the carrying's re-forming at v378; at its merge its carrying paragraphs go to `carry/Exhibit_EIGHTEEN_Natural_Physics.md` and its record paragraphs to the Session Record, and the file's 3.1 and 4.5 name no incoming folder.
+The proposal is the Natural Physics working's own motion at its file, built on its branch through seven passes with a fresh reader at each, and it replaces its prior at corus.me when its improving is finished, section 2 met, its checks and its fresh reader met. This review's section 2 is what remains to finish; section 3 rides at the carrying. Its branch was built before the carrying's re-forming at v378; at its merge its carrying paragraphs go to `carry/Exhibit_EIGHTEEN_Natural_Physics.md` and its record paragraphs to the Session Record, and the file's 3.1 and 4.5 name no incoming folder.
 
 ## 5. Learned about receiving, at this review
 

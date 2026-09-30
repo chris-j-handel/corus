@@ -107,13 +107,13 @@ Exhibit EIGHTEEN Natural Physics · carrying v378
 
 ## Received at v378: the proposed Natural Physics v377, read at four readings apart
 
-**Next at this file, at v378's receiving: the proposal at `incoming/natural_physics_v377/` is this file's own motion at the Natural Physics working, and it replaces this file at corus.me at the lead's word once section 2 of the review, `incoming/review_natural_physics_v377/README.md`, is met at the proposal: twenty-two records of the field said wrongly, ten prior relations lost in correction with no reason named, the readings asserted where the file says them open, the file speaking of itself at its branch and its folders, the names parting from Natural Intelligence, and the explaining's doers and negations.**
+**Next at this file, at v378's receiving: the proposal at `incoming/natural_physics_v377/` is this file's own motion at the Natural Physics working, and it replaces this file at corus.me when its improving is finished, section 2 of the review, `incoming/review_natural_physics_v377/README.md`, is met at the proposal: twenty-two records of the field said wrongly, ten prior relations lost in correction with no reason named, the readings asserted where the file says them open, the file speaking of itself at its branch and its folders, the names parting from Natural Intelligence, and the explaining's doers and negations.**
 
 ## Ready, at v378's receiving
 
 **The proposal, whole, at the Natural Physics working's branch**: five parts and forty-nine sections, every execution running again at Exhibit ONE's code and every output matching, fifteen of sixteen claims at the code holding, the released words fallen to none at nearly every word, fifty-one records of the field correct at their numbers and sources, thirty of the prior's forty sections whole, and each correction of the prior's overclaimings rightly made. Enters as this file's next version at its working's motion, section 2 of the review met first.
 
-## Concern, at v378's receiving, for the lead and the Natural Physics working
+## Concern, at v378's receiving
 
 **Five binaries or six** at Natural Intelligence 1.4 and the Geodesic Improving Method 2.7, the proposal asserting six at 2.1; one list at both files, at the observings.
 
