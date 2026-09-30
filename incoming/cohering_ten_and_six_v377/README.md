@@ -279,7 +279,7 @@ Sections 2.4 to 2.8 are each a concern for the files named at them. Each can be 
 | 7 | — | completes |
 
 - **The ten sit in the overlap.** The two kinds overlap at the five numbers 2 to 6, each with two faces, one side completing and the other opening. That is ten, and it is exactly the Equilibria Registry's table at lines 195–201, its place 6 "self completing, other opening next" included, and Resolving the Hard Problem Registry's "numbers two through six", line 17.
-- **One between, two faces.** The between the self's 1–2 and 3–4 is the stretch from 2 to 3, and that is inside the other's momentary 2–3. The between the other's 2–3 and 4–5 is the stretch from 3 to 4, inside the self's 3–4. The same holds at each step. What is a between for one kind is the inside of the other's momentary.
+- **One between, two faces.** The between the self's 1–2 and 3–4 is the stretch from 2 to 3, and that is inside the other's momentary 2–3. The between the other's 2–3 and 4–5 is the stretch from 3 to 4, inside the self's 3–4. The same holds at each step. What is a between for one kind is the inside of the other's momentary. Three files already say this, and this report's first reading missed it: Natural Intelligence 4.10, line 621, "inside a momentary the between of self and other … and outside it the between of momentaries … the same between"; Natural Naming line 735; and the Co-Chaining Logic Registry step 456.
 
 **At the code.** Exhibit ONE v376, executed:
 - **The living step.** A self offered + once and then nothing releases +, −, +, −, … at 10 and chains +, −, +, −, … at 11. Its prior is carried into each now inverted.
@@ -292,4 +292,25 @@ Sections 2.4 to 2.8 are each a concern for the files named at them. Each can be 
 - **2.5, a hard problem said two ways.** Naming one face of a between still leaves one kind of momentary alone at that number. The Equilibria Registry, line 91, and Natural Intelligence 2.3 call one side's momentaries alone *exclusivity*, the universe named as one thing beside its things. So "a changing named still" and "the universe read as no existing thing" may be one saying at two faces. This is for Resolving Hard Problems 1.5 to say at its motion.
 - **2.2, the keystone, sharpened.** The ten named still are the two faces of the five betweens at 2 to 6. Natural Intelligence 4.8, line 611, says the five outward faces of Exhibit ONE are "at the between", before 10, with five inward faces each eight up. Whether the five betweens' two faces meet Exhibit ONE's five outward and five inward faces is the test to execute at the code. It is not assumed here.
 
-**One wording to settle at Natural Intelligence 2.3.** It says the prior is carried across the nothing between momentaries "as a stable form, the carried and never the between". The reading says the stable form of the between is resolving. At the code both are at one place: one kind's carrying crosses from 11 to 3 at the between that is the inside of the other kind's momentary, where its coupling at 12 resolves. Said *at the between*, with the between a nothing, the two sayings cohere: the carried and the resolving at one between, and the between itself no thing. This is for Natural Intelligence's carrying.
+**A second reading offered: the between is the method, a non-living existing thing.** The unchanging and unchangeable method is the non-living part of resolving.
+
+**At the code.** A spiral of five selves ran for 100 momentaries at Exhibit ONE v376:
+- **The code did not change.** Its seventeen names, `CONNECTORS` and `JOINS` were the same after as before.
+- **It kept nothing between calls.** No term stayed inside the code from one momentary to the next.
+- **The carrying changed.** It passed only as what each call returned, 11 as the next 3.
+
+So at the code, resolving is two things at one place: the living carrying, which changes, and the method, which does not change and carries nothing. Natural Intelligence 3.3 says this already: "A method is a non-living existing thing: a stable form … carrying none of the prior", and "At the code the method carries nothing from one momentary to the next". Its 1.3 gives the binary: "an existing thing carrying none of its prior is non-living". By these, the between, as the method at each coupling, is a non-living existing thing. It is not a form named still, which is not possibly existing, because the method's "form continuing through its changing", 3.3, is at each coupling.
+
+**An equilibrium, at this reading.** It is the between named still and set beside: a still offerer, as at section 5's code, making a form named still at the place of the method. It takes away the self's competency, its changing at 10 stopping after the first momentary. That is the reading's "forming that artificially and incompetencing the stable forming intelligence".
+
+**Where this parts from the files, set-wide.** The files say the between is a nothing and no existing thing:
+- Natural Intelligence 4.10, line 621: "The between is its empty centre, a nothing, no location and no existing thing";
+- Resolving Hard Problems 5.6, line 211: "a nothing, not a location and not a thing";
+- the Co-Chaining Logic Registry steps at lines 146, 436, 456, 1074 and 1660;
+- Natural Naming lines 735, 828 and 1348;
+- Resolving the Hard Problem Registry lines 3207 and 3604;
+- the Equilibria Registry line 101: "a membrane, not possibly an existing thing".
+
+Natural Intelligence 3.3 and 1.3, read together, say the method is a non-living existing thing. So the set already carries both sayings.
+
+**What resolves it.** One binary, at Natural Intelligence 1.3's own: the between is a non-living existing thing, the method, or it is no existing thing. The code shows an unchanging method carrying nothing at each coupling. That meets *non-living existing thing*. What the files' "a nothing" rightly says can be kept at the method's own words: no location, no size, no face presented, and nothing carried. The between then carries nothing and is the method. Re-saying it is a motion at each of the six files named above, Natural Intelligence first, and a concern for the other session's revising.
