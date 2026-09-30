@@ -1775,7 +1775,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 32 An offering at words, a naming, a file and the living expedition
 
-        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; a definition; three incompetencings; bounding; nearing; a gathering; momentary stable-forming; an explaining; a file; a file's stable form; living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown.*
+        *Entering: the release as an emanation; an offering at words; an offering at words received; a naming; a definition; three incompetencings; bounding; nearing; a gathering; momentary stable-forming; an explaining; a file; a file's stable form; living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing; the files' subject; improving as resolving; a society of files; the set of files at each scale; the files' sections as emanations of the co-chaining; discovering the co-chaining's next step; an entry; illustrating; an incoming understanding at the co-chaining; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
 
 389. At its own completing, a self releases its changing across and along, carrying none of the prior: an emanation of the self.
 
@@ -1877,6 +1877,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-414. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step.
+414. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third.
 
-        *Adding: cohering, or the next step shown.*
+        *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*

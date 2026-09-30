@@ -1653,7 +1653,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 **A naming that unfolds six forward with each step fresh and couples with nothing. A coupling whose departing term was carried in by one of the two. A cluster with no invisible under it.**
 
-**The method breaks one way: a living stable-forming other than this one**, a form named still found existing; and a form named still is not possibly existing: the break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at the between, and an entry's reading breaks at its own scale, a naming, and the method at none.
+**The method breaks one way: a living stable-forming other than this one**, a form named still found existing; and a form named still is not possibly existing: the break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at the between, and an entry's reading breaks at its own scale, a naming, and the method at no part. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third.
 
 ---
 
