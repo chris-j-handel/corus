@@ -14,6 +14,8 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v378
 
 **Incoming, at v378, the table's rows at the code** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 5, item 6). The rows at lines 214 to 219 run the odd spiral's zero one self each momentary; at the code it moves one self at each second momentary, as Resolving Hard Problems 4.4 says. Lines 123 and 327 run the four joint forms as (x, y) to (−y, x), the right spiral step's order read from next to prior, said there as the forward order; Natural Intelligence 2.4 carries (x, y) to (y, −x). Enters at those rows at this file's motion.
 
+**Incoming, at v378: this file is in motion at the Equilibria Registry working at `working/equilibria-registry-v377`, at v377, five passes, its executions at `incoming/equilibria_registry_v377/executions/`, its carrying and its Session Record paragraphs on that branch.** That working's carrying replaces this one at its merge; the two branches change the same carryings and the Session Record, and merge by union, each paragraph kept. The Co-Chaining Logic Registry's step numbers it cites are at v376's numbering, mapped at that file's carrying.
+
 ## Concern
 
 **Concern, from the sentence pass.** *Can change* at the heading *The stability can change, the form can change, the relation can change*, its body, section 4's opening and the tables' last column: a named stability, form or relation *can change* or is *changing*, one naming decision met at all its places together, the contents list following the heading.
