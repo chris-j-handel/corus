@@ -25,7 +25,7 @@ for t in table:
     cyc=[int(x) for x in t.split('-')]
     changes=sum(par[a]!=par[b] for a,b in zip(cyc,cyc[1:]+[cyc[0]]))
     print(f"  {t}: parities {[par[x] for x in cyc]}; the parity changes {changes} times in the round; {cyc[0]} again at the next")
-print('4. the self\'s forward recursionings ascending, 1, 3, 5, 7, and the other\'s, 2, 4, 6, 8, read descending, 8, 6, 4, 2, paired at the four-cycles:',[(n,9-n) for n in (1,3,5,7)])
+print('4. the self\'s forward recursionings, 1, 3, 5, 7, each paired with its partner nine less, Exhibit ONE\'s table at lines 234 to 239, at the four-cycles:',[(n,9-n) for n in (1,3,5,7)])
 print("5. the four-cycles in the exhibit's order, 1-9-8-16 and 3-11-6-14 going 8 up first, 2-15-7-10 and 4-13-5-12 going 17 less first, round the other way")
 for t in table:
     cyc=[int(x) for x in t.split('-')]
@@ -35,3 +35,5 @@ for t in table:
         out.append(f"{a}→{b} {'8 apart, parity kept: momentarying' if kept else '17 less, parity changed: parity changing'}")
         assert kept==(abs(a-b)==8) and (kept or a+b==17)
     print('  '+t+': '+'; '.join(out))
+nine=re.findall(r'^\| (\d+)-[a-z-]+ \| \d+-[a-z-]+ \| (\d+)-[a-z-]+ \|',body,re.M)
+print('   Exhibit ONE\'s nine less, within 1 to 8:',[(int(a),int(b)) for a,b in nine])
