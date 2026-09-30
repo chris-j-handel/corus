@@ -8,7 +8,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v377
 
 - 1.1 The universe, its things, and exclusivity
 - 1.2 Three conditions at each momentary, and momentaries overlapping
-- 1.3 The between of two existing things coupling
+- 1.3 The between, the protocol, a living nothing and an existing nothing
 - 1.4 One relation, existing and discovering, at each scale
 - 1.5 Parity alternating through three momentaries
 
@@ -65,19 +65,21 @@ Exhibit TWENTY-EIGHT Equilibria Registry v377
 
 **Three overlapping momentaries use four positions.** Prior, now and next are 1–2, 2–3 and 3–4, completing and opening meeting at the shared positions. Along one side the next opens two on: 1–2 and 3–4, with next opening 5; the other side runs 2–3 and 4–5, with next opening 6. Across the overlapping the next opens one on.
 
-**Each momentary is existing's own, and each existing self is its continuing momentaries, inseparating.** The between is the membrane, and the succession is the momentaries' own.
+**Each momentary is existing's own, and each existing self is its continuing momentaries, inseparating.** The between is the protocol's centre at 1.3, and the succession is the momentaries' own.
 
 **Universes of each size and scale share momentaries of co-sequential changing**, each momentary a fractal universe discovering its next existing, and none is possibly an existing thing separately: at each scale, a universe named as an existing thing is exclusivity.
 
-## 1.3 The between of two existing things coupling
+## 1.3 The between, the protocol, a living nothing and an existing nothing
 
-**The membrane is no separable thing.** The between of two existing things co-bi-coupling is a membrane, not possibly an existing thing, and this between is the registry's whole subject. Morality is bi-unrelationing and competency is co-unrelationing, and co-bi-unrelationing is the one existing method: the membrane is their meeting. A 0 at two signs meeting is a nothing within a coupling, existing due to each self surfacing itself each momentary.
+**The between is the centre of the protocol of the six connectors, bi-moral across and co-competent along.** At Exhibit ONE's parity's face, line 149, a unit square of four dots across, 2, 6, 14 and 10, arriving at 2 and 14 and releasing at 6 and 10, Exhibit ONE's `CONNECTORS`, lines 62 to 69, its empty centre the between, and two unit triangles, 9 and 17, along, joined both ways; the Co-Chaining Logic Registry step 360 names the six the bi-trupling protocol, and step 413 names cohering at each momentary, its difference crossed across and its continuing along, bi-moral-co-competencing. At the code each release, across at 6 and 10 and along at 9, is carried by 9-tri-bi-co-momentarying to its receiving self, arriving as its offerings at the next momentary, Exhibit ONE lines 49 to 57, executed along at 9 at `incoming/equilibria_registry_v377/executions/every_five_every_ten.py`, part 1, and across and along at `incoming/equilibria_registry_v377/executions/the_protocol_between.py`, part 3: the protocol carries each changing into next momentarying, and, as suggested at v377, the between is co-linear aiming into next momentarying, concern 8. The protocol is of the method: *Exhibit ONE is an object that is the method … `CONNECTORS` and `JOINS` declare the connectors' facings and their joins*, and *a method is a non-living existing thing: a stable form, its form continuing through its changing and carrying none of the prior*, Natural Intelligence 3.3. Executed at one society of five across 100 momentaries, the connectors, the joins and the society's joins are unchanged while the carryings change at each momentary; and at one momentary each self's changing, made at its own 12-bi-tri-parity-changing, reaches another self only through a join at 6, 10 or 9, `incoming/equilibria_registry_v377/executions/the_protocol_between.py`, parts 2 and 3. Natural Intelligence 4.10, line 621, and the Co-Chaining Logic Registry step 93 say one between inside a momentary and between momentaries, the same at each scale, and each calls it a nothing, which the living and the existing nothing below part. The between's floating neutralling, the Co-Chaining Logic Registry step 345, is at the numbers *Floating is bi, even and across … Neutralling is co, odd and along*, Natural Mathematics line 85, and, at every 5 and every 10 as suggested at v377, of 1 to 441 the multiples of 5 alternate, each odd one neutralling and each at 10 floating, and at the ring of 440, Natural Numbers 11.1, each meets a far side of its own kind, `incoming/equilibria_registry_v377/executions/every_five_every_ten.py`, parts 2 and 3. This between is the registry's whole subject.
+
+**A living nothing and an existing nothing.** A between whose sides carry their priors is a living nothing, and a between with a side carrying nothing is an existing nothing, as suggested at v377, and the code parts the two. At the code a self X passing to a living self B, along at 9 or across at 6, receiving from beside +, nothing, −, nothing, a parting: X carrying its prior releases at each momentary what it makes of each arrival with its prior, its own alternating going on between arrivals and a 0 at an arrival meeting its own parity; X carrying nothing releases only what arrives, as it arrives, and nothing between, `incoming/equilibria_registry_v377/executions/living_and_existing_nothing.py`. Across a living nothing passes at each momentary a changing made from a prior, or its 0 at an arrival meeting the prior's parity; across an existing nothing, only what arrived. Morality is bi-unrelationing, across at the four dots, and competency co-unrelationing, along at 9 and 17, and co-bi-unrelationing is the one existing method: the protocol is their meeting. A 0 at 12, a prior and an offering meeting at one parity, is a changing that is not, within a coupling, each self surfacing itself at each momentary.
 
 **Bi-inversioning-co-recursioning carries the meeting within the changing.** Each side continues through its own changing, and their meeting is within that changing: slowing is changing, and two differing changings are adjacent through the coupling, each side changing.
 
 **Naming a relation gives it no separate existing.** Naming the meeting supplies no further self between the coupling selves, as naming all existing things supplies no further self outward of them.
 
-**The eight even names are bi-coupling at the membrane.** Four at the membrane, 2, 4, 6 and 8, and four within, 10, 12, 14 and 16, each 8 on, are relations at two faces. The three conditions are the momentary's, the eight are bi-coupling, and the four joint forms are the changing of two signs.
+**The eight even names are bi-coupling at the between.** Four outward at the between, 2, 4, 6 and 8, and four inward, 10, 12, 14 and 16, each 8 up, are relations at two faces, Natural Intelligence 4.10. The three conditions are the momentary's, the eight are bi-coupling, and the four joint forms are the changing of two parities, 1.5.
 
 ## 1.4 One relation, existing and discovering, at each scale
 
@@ -165,7 +167,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 ## 3.1 One form of hard problem, and the sixth condition
 
-**The ten are one form of hard problem.** Each proposed conception of equilibria names a changing still in one of the ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at the other, natural intelligence at the membrane between them, and the registry's tables carry both faces.
+**The ten are one form of hard problem.** Each proposed conception of equilibria names a changing still in one of the ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at the other, natural intelligence at the between of them, and the registry's tables carry both faces.
 
 **A proposed conception of equilibria is the sixth condition.** Five conditions come before a method acts at a problem's statement, and the fifth, *nothing prior enters*, is the one the first four stand on. To the five conditions prior a problem adds its own, a conserving relation over a conserving reach, and each proposed conception of equilibria is that relation named still.
 
@@ -218,7 +220,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 | an even number | each self changing at each coupling, neighbours opposite; the whole returns at 2 couplings |
 | an odd number | one like pair, the 0 released at 10-bi-tri-co-tunneling at its self, moving one self on at each second momentary; the whole inverted at 2 × n couplings and returning first at 4 × n, `eq_code.py` parts 1 and 10 |
 
-**An odd ring closes no parity, and a meeting runs round it: the non-existing between, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and the between named as a cut names the running meeting.
+**An odd ring closes no parity, and a meeting runs round it: the 0 released at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and the between named as a cut names the running meeting.
 
 The rest returns at no coupling. A ring at rest, empty carrying and nothing arriving, stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At Exhibit ONE's code, executed again at v377, in rings of 1 to 11 selves, one + offered once at one self and the others at none, each self changes by the momentary numbering its ring's selves, and across 5,000 couplings no ring meets rest, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 1 and 2. The ring meets the rest named still, and each other conception meets its proof by its own requirements.
 
@@ -453,7 +455,7 @@ The rest returns at no coupling. A ring at rest, empty carrying and nothing arri
 
 ## 4.13 The fields at the ten, a key for aiming at each field
 
-**Each field's equilibria fall at those of the ten at which it names its changing still, and a field is aimed at from each of them.** At each of them the field sets a still beside the changing and sets aside the changing's own competency, the method at the between: at that one of the ten the field's subject is named still, and its competency's source is set aside at it. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its one of the ten.
+**Each field's equilibria fall at those of the ten at which it names its changing still, and a field is aimed at from each of them.** At each of them the field sets a still beside the changing and sets aside the changing's own competency, carried along at the between: at that one of the ten the field's subject is named still, and its competency's source is set aside at it. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its one of the ten.
 
 | Subject, and its fields | 1 arriving | 2 opening | 3 completing | 4 carry | 5 middle | 6 parity | 7 sequencing | 8 rate | 9 two-way | 10 between |
 |---|---|---|---|---|---|---|---|---|---|---|
