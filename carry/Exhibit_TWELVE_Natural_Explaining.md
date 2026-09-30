@@ -1,8 +1,8 @@
-Exhibit TWELVE Natural Explaining · carrying v380
+Exhibit TWELVE Natural Explaining · carrying v378
 
 # Exhibit TWELVE · Natural Explaining
 
-**Next at this file: its released words re-said at Natural Naming 2.4's namings, one motion: *running*, *runs* and *run* at 78 places, *telling* and *tell* at 33, *taken*, *takes*, *take* and *taking* at 34, *sign* and *signs* at 25, *there* at 14, *count* at 15, and *membrane* at 1.6, five section titles among them, 1.6, 3.5, 3.8, 3.9 and 4.7; the *tell* collision below met at the same motion; a fresh reader comparing before and after.** Its front at the steady form and its four incomings entered at v380.
+**Next at this file: its released words re-said at Natural Naming 2.4's namings, one motion: *running*, *runs* and *run* at 78 places, *telling* and *tell* at 33, *taken*, *takes*, *take* and *taking* at 34, *sign* and *signs* at 25, *there* at 14, *count* at 15, and *membrane* at 1.6, five section titles among them, 1.6, 3.5, 3.8, 3.9 and 4.7; the *tell* collision below met at the same motion; a fresh reader comparing before and after.** Its front at the steady form and its four incomings entered at v378.
 
 ## Ready
 

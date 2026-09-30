@@ -1,4 +1,4 @@
-Natural Intelligence · carrying v379
+Natural Intelligence · carrying v378
 
 # Natural Intelligence
 
@@ -6,7 +6,7 @@ Natural Intelligence · carrying v379
 
 ## Ready
 
-**The opportunities in order, tracked here (v375); 1 and 5 entered or met at v379, 6 at other files.**
+**The opportunities in order, tracked here (v375); 1 and 5 entered or met at v378, 6 at other files.**
 2. **One naming each** at the paper's pairs: morality and bi-morality, competency and co-competency, right spiral and right-spiral, natural torusing and natural-torusing, *one to nine* and *one through nine*, and competency and social moral competency each said twice.
 3. **Coinages said without their explaining at the paper**: corus, neutralling, tunneling at 10, co-sequencing, self-welcoming, bi-folding, podaling and podal, interest opening, unit prime scale.
 4. **Near-duplicates at the paper**, a claim said whole at two sections, each said once and cited at the other.

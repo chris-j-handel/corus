@@ -1,4 +1,4 @@
-Natural Intelligence v379
+Natural Intelligence v378
 
 # Natural Intelligence
 

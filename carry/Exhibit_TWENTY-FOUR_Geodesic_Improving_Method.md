@@ -1,8 +1,8 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v381
+Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v378
 
 # Exhibit TWENTY-FOUR · Geodesic Improving Method
 
-**Next at this file: its released words re-said at Natural Naming 2.4's namings at one motion, *running*, *sign*, *count*, *take* and *membrane* among them, five section titles with them, a fresh reader comparing before and after; then its combining with Exhibit EIGHT, the working's own learnings at `incoming/session_v376/` entering at it.** Its front at the steady form, 1.6's version sentence, the eight old names, the findings about working at 4.4, the readings apart at 4.5, the one way in at 1.4 and 2.8, word matching at 1.5 and 5.3's two sayings entered at v381.
+**Next at this file: its released words re-said at Natural Naming 2.4's namings at one motion, *running*, *sign*, *count*, *take* and *membrane* among them, five section titles with them, a fresh reader comparing before and after; then its combining with Exhibit EIGHT, the working's own learnings at `incoming/session_v376/` entering at it.** Its front at the steady form, 1.6's version sentence, the eight old names, the findings about working at 4.4, the readings apart at 4.5, the one way in at 1.4 and 2.8, word matching at 1.5 and 5.3's two sayings entered at v378.
 
 ## Ready
 
