@@ -6,6 +6,14 @@
 
 The user asked this working to gather the entire session's carrying value, then place it where a visiting contributor's work belongs so the expedition can find it and improve its receiving method. The report carries the physics inquiry, observations, corrections, mathematical findings, unresolved relations, proposed receivings and suggestions for the incoming method. It is preserved byte for byte as offered, including its statements about the repository at the time it was prepared. This receiving note records its later placement.
 
+
+## Both contributions from this working
+
+- [Physics observings and natural torusing — the full session report](Session_Report_Physics_Observings_and_Natural_Torusing_2026-09-30.md), arrived through [pull request 90](https://github.com/chris-j-handel/corus/pull/90) and subsequently received at the expedition's carrying, as the incoming index records.
+- [Natural Physics — separated readings and reviewed improving](../review_natural_physics_improving_v376/README.md), the continuation offered through [pull request 95](https://github.com/chris-j-handel/corus/pull/95). Open its [improving report](../review_natural_physics_improving_v376/Improving_Report.md) together with its independent readings, opening proposal and fresh review.
+
+These are consecutive contributions with different receiving standings. The first report remains whole at its original path; the second remains whole beside it in incoming. The placement notes below record the first report's original offering. Current standing is recorded at the incoming index. Read each against the latest living files and carrying: the newer report fixes its own reading snapshot and does not claim review of later foundation changes.
+
 ## Arrival and receiving
 
 - **Place:** `incoming/review_physics_observings_v376/`, listed at `incoming/README.md`.

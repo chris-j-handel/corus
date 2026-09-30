@@ -4,6 +4,10 @@
 
 Open [Improving Report](Improving_Report.md) for the findings, the proposed order of motions and the present concerns. The earlier physics-observings report is already received by the expedition; this arrival examines Natural Physics itself.
 
+## With the prior report
+
+[Open both contributions at the prior report's receiving note](../review_physics_observings_v376/README.md#both-contributions-from-this-working). The [full prior session report](../review_physics_observings_v376/Session_Report_Physics_Observings_and_Natural_Torusing_2026-09-30.md) and this report remain whole at their own paths. The first is already received at carrying; this continuation is offered through [pull request 95](https://github.com/chris-j-handel/corus/pull/95). Later foundation changes are to be met at receiving; this package retains its fixed reading snapshot.
+
 ## The working and its standing
 
 The reading snapshot is `03cd08405558694ea3139aa17002456280eb84de` in `chris-j-handel/corus`, then shared by `main` and `working/foundation-v376`. The source exhibit is `Exhibit_EIGHTEEN_Natural_Physics_v348.md`. Natural Intelligence and Exhibits ONE, THREE and FOUR are v376; TWO is v371; Natural Explaining is v375; Natural Naming and Geodesic Improving Method are v376. These versions do not imply identical completion of their own re-sayings.
