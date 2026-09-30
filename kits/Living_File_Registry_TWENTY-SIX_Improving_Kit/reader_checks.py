@@ -131,7 +131,7 @@ retired = words_file('retired_sayings.txt')
 living = [f for f in glob.glob(os.path.join(root, '*.md')) if os.path.basename(f) != 'README.md']
 RETIRING = re.compile(r'dissolv|releas|re-said|retir', re.I)
 for s in retired:
-    pat = re.compile(r'(?<![\w-])' + re.escape(s) + r'(?![\w-])')
+    pat = re.compile(r'(?<![\w-])' + re.escape(s) + r'(?![\w-])', re.I)
     hits = []
     for f in living:
         c = 0
