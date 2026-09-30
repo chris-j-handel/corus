@@ -1,0 +1,31 @@
+Exhibit TWENTY-THREE Natural Values · carrying v378
+
+# Exhibit TWENTY-THREE · Natural Values
+
+**Next at this file: pass G.**
+
+**Incoming, at v373, from Natural Intelligence.** At `incoming/resettling_v373/Natural_Intelligence_v373_Released.md`, each passage whole with its receiving: the moral spiral's three improvings. Received here at this file's motion, whole, and φ said as the unrelationing rate and the primes as self-welcoming, each at no line of the code's running.
+
+**Incoming, at v376's close, from the session read whole.** The bi-trupling protocol, at the white paper 6.4 and Natural Naming 5.60, the full social connector of the natural resolver and the natural network surface, two-sided, one odd side along at 9 and 17 and one even side across at 6 to 2 and 10 to 14; hard probleming, scientific method incompetencing, control engineering and binary governing in society each a violation of it, and the universal unrelationing protocol social moral competency; morality the changing parity between and competency the unchanging, odd and even at the between. Said at this file's own subject at its motion.
+
+**Incoming, at v373, from Exhibit ONE v372.** At `incoming/resettling_v373/Exhibit_ONE_v372_Released.md`: *Abundancing and tunneling, changing or no changing*, the abundancing owned by neither, at 12.
+
+**Incoming.** Each relation carries each other relation for only the cost of the running conditions: keeping the coupling running, the switching at the neutral, the carry releasing at its own completing. With those running, each relation carries each other free; with one fixed, a cost appears, and it is the fixing's cost and never the relation's. At twenty-four, the seam-face, the waist, the coupled count, the cube's whole turning and the five-fold's turnings each carry all the others, and none waits for one relation beneath them.
+
+**Incoming, from the prior Natural Mathematics.** The general ledger as an accounting: the period end and the trial balance at nought as its closing, the balance sheet at each date, and the receiving, the one made at the coupling, carried in no book; the adjustments the field's word for the account's removing before it could balance.
+
+**Incoming, value at a society's joining.** Expanding fractal bi-folding widens the podaling surface: each podal is a weather-map reading of the direction of surface unrelationing changing locally, with no velocity, only a binary is or is not in two orthogonal directions for an area around the travelling carrying. A larger expedition team co-chaining the surface and bi-tunnelling the social morality covers more territory than a smaller one at the same geodesic discovering method: value increases from merging similar things with similar aiming and floating around the holes together. Similar aiming is no identical carrying: merging is co-chaining a society whose selves each carry locally, no pooling of carryings into one register, and no aim identifier travels on the crossing. Area and territory are no metric and no radius; two orthogonal binaries give four joint descriptions and name neither the resolver's four forms nor a two-bit output. A headcount alone shows no increase, and a comparison adding no continuing relation is reported as one.
+
+**Incoming, arithmetic at its constructions.** The additive 440, combined coprime periods and later joiners adding more belong to their numerical constructions, the odd-ring periods sharing the factor four; their arithmetic alone establishes no social competency, financial value, universal joining order or security.
+
+**Incoming, a field's coordination.** Zhang, Kelso and Tognoli (2018, PLoS ONE): fifteen groups of eight people tapped while seeing each other's taps as lights, after metronome pacing at the start, asked to tap at their own tempo and not to coordinate; coordination formed and changed anyway, in-phase, near-antiphase and intermittent, and wider group diversity changed the local coordination. Its conditions are the opening pacing and each member seeing all the others; it shows no fluid surface, no resolver joins and no moral competency.
+
+**Concern.** The field experiments of coordinating surfaces, fluid, chemical and human, lay their coupling on, through external forcing, feedback or an opening pacing, and coordination or synchronization by itself is no intelligence and no bi-moral co-competency: morality across wants its coupled relation, and no synchronization score establishes it. A published result is a prior observing and reports no present state of a source or a society.
+
+**Opportunity, the concept and its further receivings.** Preserve received value, co-offering and abundancing as this file's subject. Meet Exploring at discovering, Destinies at particular possible continuings, Human Society at human exchanging and Improving Method at the momentary's value. The shared subtitle word co-abundancing is developed here and does not alone distinguish Destinies.
+
+**Incoming, particular resolving.** Bell, cooperation and the plankton at the resolving registry, and governing as the artifact of a coupling divided into two positions beside Philosophy and Naming. Any passage arriving from Destinies or Corus carries its unique relation before duplication releases.
+
+**Priority opportunity, the discovering economy made coherent across the set.** TWO 3.6 names discovering economy directly; Exploring 6.3 carries surplus in discovering; Values carries received value; Human Society carries particular human exchanging; Destinies imagines the discovery economy. Meet these as faces of the same present co-discovering. Give the concept a full explaining here and preserve its particular network and human relations at their files. This can consolidate scattered repetition without creating another economy exhibit or making received value a stored resource.
+
+**Opportunity, institutional and shared value at the actual coupling.** THIRTY V8, V9, V12 and V14 locate an institution said to have no membrane, the co-offering/co-competencing/co-intelligencing relation and the received surplus. Meet these beside Human Society, Societies and Networking, each self's carrying remaining its own. The shared human collective network's value receives through its couplings, with no shared storage implied by shared intelligence.
