@@ -13,6 +13,7 @@ Exhibit TWENTY-SIX Living File Registry · carrying v378
 **The hardest, gathered at v375, item 21, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
 21. **Improving for the better, and no ranking**: the expedition's own versions and passes; 20 files. *Resolving found*: a changing for the better is a changing that is, at a mismatch the offered chained at do-no-harm, binary and unranked; a version is the last changing. *To write*: the Living File Registry 1.1 and the carrying's method at *a changing at do-no-harm*.
 
+
 ## Concern
 
-**Concern, prior kit-learning pointers.** The later ONE–TWO, Ramsey and Rings Markdown notes declare that their written learning moved to an earlier Living Improving Value and preserve prior paths only. The older detailed narratives still arrive in the Carry package. Confirm their unique value in the current receiving files or this carrying before releasing the old sources. Prior transfer assertions do not resolve the already-recorded concern about value lost between carrying editions. Keep reusable assets distinct from those narrative transfers.
+None.
