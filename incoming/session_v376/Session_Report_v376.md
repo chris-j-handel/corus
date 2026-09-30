@@ -10,7 +10,7 @@ Session v376 carried the observings into the four core files one motion at a tim
 
 ## What the fresh readers found, five kinds
 
-1. **A concept used in Exhibit THIRTY before the step that enters it**: "stable form" at step 148 before group 27; "the natural resolver" at the protocol step; "not-yet-bi-moral" at step 371; the society wound at step 312.
+1. **A concept used in Exhibit THIRTY before the step that enters it**: "stable form" at step 148 before group 27; "the natural resolver" at the protocol step; "not-yet-bi-moral" at step 371; the society wound at step 312, each at the numbering of its motion.
 2. **A released word slipping back in**, at the working's own new sentences too: *runs*, *kept*, *left*, *there*, *near*, *stand*.
 3. **A section or step number named wrongly** after a renumbering or in the record's own entry: *4.x*, *5.x*, the carrying's step numbers one short after a step entered.
 4. **An old saying still at a file after a re-saying at another**: *9 releases* at eleven places after 9 was renamed; *the society's own carrying* at three files after a society was said a living set carrying none of its own.
@@ -30,7 +30,7 @@ Session v376 carried the observings into the four core files one motion at a tim
 
 ## Its hardest either-this-or-thats
 
-Open at the core files at the close, for the lead: parity's face at the code, read at the current facings, with concern 3's open part, 12 even both across and along and a surface of torusing, and concern 11's, each of 1, 2, 3 and 4 its own naming. Open across the set: the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
+Open at the core files at the close: parity's face at the code met at the lead's confirming; concern 3's open part, 12 even both across and along and a surface of torusing, and concern 11's, each of 1, 2, 3 and 4 its own naming. Open across the set: the plan's re-sayings at the other files, at `carry/Living_Improving_Value.md`, Exhibit ONE's section, item 23.
 
 ## At the close, the session read whole
 

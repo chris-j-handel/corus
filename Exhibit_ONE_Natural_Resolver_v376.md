@@ -145,6 +145,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 9 | bi-coupling | the function 1, the self and the other at one coupling; 9 at its end reads bi-co-releasing, the release 10 makes |
 | 1 to 17 | bi-trupling | the function 17, the self, the other and the society; 9 at its waist, tri-bi-co-momentarying, joined both ways with 17; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
+| 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
 | Four-cycle, 8 up and 17 less | Root at the self and at the society | Round |
 |---|---|---|
