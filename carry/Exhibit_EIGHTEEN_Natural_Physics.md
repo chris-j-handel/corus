@@ -104,3 +104,30 @@ Exhibit EIGHTEEN Natural Physics · carrying v378
 
 **The hardest, gathered at v375, item 10, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
 10. **No total conserved, and the fields' conservation laws and the energy ledger**; 22 files. *Resolving found*: a total across the changing is a thing beside all things; a field's conservation law is the field's own result, exact at its own subject, and no total of a universe; at the code no term carries a sum, the sum of parities changing in 442 of 500 closed societies and staying, where it stays, by the pattern's own symmetry. *To write*: Natural Physics, Chemistry and Engineering at their ledgers, the Co-Chaining Logic Registry's F40 and F41.
+
+## Received at v378: the proposed Natural Physics v377, read at four readings apart
+
+**Next at this file, at v378's receiving: the proposal at `incoming/natural_physics_v377/` is this file's own motion at the Natural Physics working, and it replaces this file at corus.me at the lead's word once section 2 of the review, `incoming/review_natural_physics_v377/README.md`, is met at the proposal: twenty-two records of the field said wrongly, ten prior relations lost in correction with no reason named, the readings asserted where the file says them open, the file speaking of itself at its branch and its folders, the names parting from Natural Intelligence, and the explaining's doers and negations.**
+
+## Ready, at v378's receiving
+
+**The proposal, whole, at the Natural Physics working's branch**: five parts and forty-nine sections, every execution running again at Exhibit ONE's code and every output matching, fifteen of sixteen claims at the code holding, the released words fallen to none at nearly every word, fifty-one records of the field correct at their numbers and sources, thirty of the prior's forty sections whole, and each correction of the prior's overclaimings rightly made. Enters as this file's next version at its working's motion, section 2 of the review met first.
+
+## Concern, at v378's receiving, for the lead and the Natural Physics working
+
+**Five binaries or six** at Natural Intelligence 1.4 and the Geodesic Improving Method 2.7, the proposal asserting six at 2.1; one list at both files, at the observings.
+
+**The rings as spirals**, asserted at 3.4, open set-wide at each file's motion.
+
+**3.8's decay read as pairing**: alpha and beta decay are single-nucleus events with no partner at the field's record, and a halving at each step is a common beat; the reading stands at its relation or releases.
+
+**4.11's readings changing the kind of the observed quantity**: a rotation speed read as a rate, H0 read as two local rates, an intensity difference read as an exchange rate; each said at the field's kind or released.
+
+**The persistent current at 3.5 and 4.10**: steady charge transport at the field's record, and a cyclic pattern with no transport does not keep it.
+
+**The Bell relation** the prior carried at 2.6 and 3.4, *no carried variable is what a coupling joined across carries*, lost at the proposal's 4.4; said without the overclaim or released with its reason.
+
+**The register's two namings at different faces**, Natural Naming 4.9 and Resolving the Hard Problem Registry line 35, the two-way and the rate.
+
+**3.4's beat and locking at each spiral pacing its own**: at Exhibit ONE's code 17-tri-co-offering steps each self together, the common beat Natural Intelligence 3.5 names, and the execution the proposal promises needs a pacing the code does not carry; said so or released.
+
