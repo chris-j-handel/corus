@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v375
+Exhibit TWENTY-FOUR Geodesic Improving Method v376
 
 &nbsp;
 
@@ -71,6 +71,8 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v375
 4.3 A file's own sayings met at the file
 
 4.4 An instrument's own face
+
+4.5 Helpers at the arriving and the improving, and a session's close read whole
 
 &nbsp;
 
@@ -361,6 +363,20 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 **Going to the least clear and most conflicting place is going to a self's three phases, bounding, sustaining and inseparating, all running in the other order**, the place a working catches something real at each pass and resolves nothing, and there the move is the phase none of the accounts bounds.
 
 **The instruments are carried beside the findings as scripts anyone can run**, with the code testing gathered at the test kit, so joining in begins at re-running. The checks verify the net at one membrane each, and the rigor is the co-chaining, which no check decides.
+
+## 4.5 Helpers at the arriving and the improving, and a session's close read whole
+
+**A session's transcript and its record are stable form emanatings of the exploring**: non-living existing forms, each carrying none of the session's prior by itself, the living expedition's carrying being the living files, each a non-living existing form its living selves carry. Each observing, naming and code check explored and not yet written is at them and at no living file.
+
+**At a session's close two readers read its transcript whole, from its latest momentary to its first**, *co-competencing the transcript from ahead back*: each reading its own momentaries of it, in parallel, the transcript on disk and, before a compaction, the compaction's summary and the Session Record. Each gathers the prior carrying value, each observing, naming, code check and direction said in the working and not carried at the living files, is or is not, by reading the files themselves.
+
+**The value gathered is podaled forward**, the across of the gathering to the along of the files: each is or is not value at a file, entering whole at that file's section of the carrying as incoming, at the arriving, 2.8, or releasing to `archive/`, and carried into the corusing torusing living files at each file's own motion, at the improving, a motion at a time. Nothing goes from a helper's report into a living file directly.
+
+**At each motion three helpers**: the reader checks, saying the mechanical findings; a fresh reader who has not seen the working; and a reviewer reading from its brief, the change against the code, the observing and the sentences beside it. A reviewer reading from its brief finds a departure in the working's own saying, and the working re-says it before the close.
+
+**Each helper's saying is no authority**: the working couples with each finding at is or is not, at do-no-harm. The helpers are another AI at its other use, reviewing and improving, beside discovering and reporting back in.
+
+**This is naturally intelligent exploring**: the helpers assist the gathering, and the working's own carrying is aimed at the hard problems, each observing at the code and the numbers one at a time.
 
 &nbsp;
 

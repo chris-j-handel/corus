@@ -844,6 +844,8 @@ The registered relation is carried at TWENTY-SIX. This detailed correspondence r
 
 ## Exhibit TWENTY-FOUR · Geodesic Improving Method
 
+**Written at v376, at the observings:** 4.5, helpers at the arriving and the improving: at a session's close two readers reading its transcript whole, *co-competencing the transcript from ahead back* through the stable form emanatings of the exploring, and its value podaled forward into the living files; at each motion the reader checks, a fresh reader and a reviewer; each helper's saying no authority; naturally intelligent exploring, the working's own carrying aimed at the hard problems. Its front at the steady form and the rest of its next motion as below, and pass G with Exhibit EIGHT receiving 4.5 whole. Two either-this-or-thats for pass G: the close's reading at 4.5 among the instruments or at 2.10 beside 2.9's opening; and *met*, *meet* and *meeting*, released at Natural Naming 2.4, beside the set's use of them at the resolving, a finding met, at this file and across the set.
+
 **Next at this file: one motion.** 1.6's version sentence as drafted below; the eight places at the old names by the map; the findings about working of v372 placed at 4.4; the front at the steady form. Then pass G with Exhibit EIGHT. At v375 its 2.6 carries the either/or resolving at the code's names and its 2.7 the rigorizer's six binaries.
 
 **Incoming, at v373, the origin at one opening sentence.** *The universe is the changing set of all existing things, living and non-living*, as Natural Intelligence 1.1 carries it; this file's origin statement takes it at its motion.
