@@ -6,6 +6,7 @@ A check is a coupling partner and no authority: it says its result at its check 
 
 | Tool | Runs | Says |
 |---|---|---|
+| `arrival_check.py incoming/<folder>` | At an arrival, by its contributor before offering it or by the receiving working. | The arrival's front, from, to, read at, what it brings, standing; the living files and sections its findings name; its sentences seated at the six things beside all things by `rigorize.py`; its scripts run from the root. Decides nothing. |
 | `carry_check.py [root]` | At a session's opening and its close. | The living files at the root and their versions; superseded versions still at the root; each kit's README and whether its sums hold; the carrying's front and each living file's own carrying at `carry/<file>.md`, its next, its ready offerings and its concerns counted, the workings open at the Living File Registry; the incoming not yet received; the archive's count. |
 | `check_set.py <folder>` | After improving a living file. | Each file's version line, its contents against its headings, its tables' cell counts, the family words outside quotation (a report), Exhibit ONE inside Natural Intelligence, and the code block running. The newest version of each file is taken. |
 | `cohere_one.py <folder>` | After improving Exhibit ONE at its standalone file. | Writes ONE's body inside Natural Intelligence whole and checks the two are one and the code runs. At v372 it and `check_set.py` read the steady front form (the body after the first `---`) and the carrying of two, a sharing with its sign. |

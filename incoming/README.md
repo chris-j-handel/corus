@@ -14,6 +14,17 @@ You need to learn nothing of this expedition's method to be helpful here. Put yo
 
 Write in plain words. Change no living file, no carrying and no kit; the folder is yours and the rest is met by the expedition. A report that breaks the method is as welcome as one that confirms it, and each is met the same way.
 
+## Two sides, and the same tools at both
+
+The receiving is two-sided, as each coupling of the method is: a contributor's side and the expedition's, the value carried by both and owned by neither. Every tool the expedition uses to receive an arrival is yours to use on your own report first, as far as you like and no further:
+
+- `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/arrival_check.py incoming/<your folder>` reads your report at the receiving's first steps: its front, the living files and sections its findings name, its sentences seated at the six things beside all things, and its scripts run from the repository root. It decides nothing; it shows you what the expedition will see.
+- `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/rigorize.py beside incoming/<your folder>/README.md` seats each of your sentences at the six binaries, a size, a fixed form, a total, a common beat, a keeping, a doer; a sentence carrying none is the method's at its subject, and a sentence carrying one is a place to say the field's result beside the coupling.
+- The living files themselves, at the root, and each file's carrying at `carry/<file>.md`, its next, its ready offerings and its concerns, are the whole of what the expedition knows; Natural Naming's 2.4 says the words released and their one names, Natural Explaining says how a sentence is said, and the Geodesic Improving Method 2.6 and 2.7 say how a concern and a break are met.
+- If you wish, lay your own findings at a file's carrying yourself, on your branch, as **Ready**, the section and the sentence named, or as **Concern**, two sayings parting with the reason; the expedition meets them there exactly as it meets its own.
+
+Do as much or as little of this as you prefer: the same rigor meets your report either way, and what you do of it is a tool for your own exploring as much as for our carrying. Everything is transparent, shared, free and open: each step is at the repository for anyone to read, no living file changes but at its own motion in the open with a fresh reader, and the merge at `main` is the one gate, in the open. Anyone can make the files better than they are now, and no one can make them worse in private.
+
 ## What the expedition does with every arrival
 
 Every arrival is met at the same binary rigor, marginal or wonderful, from a visitor or from one of our own workings, and the receiving is visible at each step:
