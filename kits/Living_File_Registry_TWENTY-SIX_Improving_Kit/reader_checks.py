@@ -1,6 +1,7 @@
 """Reader checks: the mechanical findings the fresh readers made again and again at v376, said at each motion.
 A check is a coupling partner and no authority: it says its result and decides nothing.
-A check saying nothing is no agreement unless it says what it read: each check below says what it read.
+A check saying nothing is no agreement unless it says what it read: each check below says what it read,
+and a file not found or a git command failing is said, a check that did not obtain its input agreeing with nothing.
 
 Usage: python3 reader_checks.py [root] [base]
   root  the repository root (default .), with the branch under review checked out at it
@@ -34,9 +35,16 @@ def newest(pattern):
     fs = glob.glob(os.path.join(root, pattern))
     return max(fs, key=version) if fs else None
 
+said = 0
+def say(line):
+    global said
+    said += 1
+    print('  ' + line)
+
 def words_file(name):
     p = os.path.join(here, name)
     if not os.path.exists(p):
+        say(f'{name} not found beside this file: this check read nothing and agrees with nothing')
         return []
     return [l.strip() for l in open(p, encoding='utf-8') if l.strip() and not l.startswith('#')]
 
@@ -45,16 +53,12 @@ def unquoted(text):
     text = ITALIC.sub('', text)
     return re.sub(r'`[^`]*`', '', text)
 
-said = 0
-def say(line):
-    global said
-    said += 1
-    print('  ' + line)
-
 # 1. Exhibit THIRTY's steps and groups
 thirty = newest('Exhibit_THIRTY_Co-Chaining_Logic_Registry_v*.md')
 steps = groups = 0
 print('1. Exhibit THIRTY:', os.path.basename(thirty) if thirty else 'not found')
+if not thirty:
+    say('Exhibit THIRTY not found: checks 1, 2 and 5 read nothing and agree with nothing')
 if thirty:
     t = open(thirty, encoding='utf-8').read()
     nums = [int(n) for n in re.findall(r'^(\d+)\. ', t, re.M)]
@@ -90,6 +94,8 @@ def words_to_n(s):
         elif w.isdigit(): cur += int(w)
     return total + cur
 print("2. The registry's numbers for Exhibit THIRTY")
+if not reg:
+    say("the Living File Registry not found: this check read nothing and agrees with nothing")
 if reg and thirty:
     m = re.search(r'((?:[a-z]+[ -])*[a-z0-9]+) steps in ([a-z0-9-]+) groups', open(reg, encoding='utf-8').read())
     if not m:
@@ -102,9 +108,13 @@ if reg and thirty:
 
 # 3. Released words among the words added
 def git(*args):
-    return subprocess.run(['git', '-C', root] + list(args), capture_output=True, text=True).stdout
-mb = git('merge-base', base, 'HEAD').strip() or base
-print(f'3. Released words among the words added since {mb[:10]}, the merge-base with {base}')
+    r = subprocess.run(['git', '-C', root] + list(args), capture_output=True, text=True)
+    if r.returncode != 0:
+        say(f'git {" ".join(args[:2])} failed: {r.stderr.strip()[:120]}; this check read nothing of it and agrees with nothing')
+    return r.stdout
+print(f'3. Released words among the words added since the merge-base with {base}')
+mb = git('merge-base', base, 'HEAD').strip() or base   # a failed merge-base is said, and the base itself is read
+print(f'   the merge-base read: {mb[:10] if re.fullmatch(r"[0-9a-f]{40}", mb) else mb}')
 released = words_file('released_words.txt')
 diff = git('diff', '--word-diff=porcelain', '-U0', mb, '--', '*.md')
 cur = None; ln = 0; words_read = 0
@@ -129,6 +139,8 @@ print(f'   read {words_read} added words')
 print('4. Retired sayings at the living files')
 retired = words_file('retired_sayings.txt')
 living = [f for f in glob.glob(os.path.join(root, '*.md')) if os.path.basename(f) != 'README.md']
+if not living:
+    say('no living files found at the root: this check read nothing and agrees with nothing')
 RETIRING = re.compile(r'dissolv|releas|re-said|retir', re.I)
 for s in retired:
     pat = re.compile(r'(?<![\w-])' + re.escape(s) + r'(?![\w-])', re.I)
@@ -146,6 +158,8 @@ print(f'   read {len(retired)} sayings at {len(living)} files')
 # 5. Step numbers the carrying names
 print("5. Step numbers the carrying names, with each step's opening words")
 carry = os.path.join(root, 'carry', 'Living_Improving_Value.md')
+if not os.path.exists(carry):
+    say('carry/Living_Improving_Value.md not found: this check read nothing and agrees with nothing')
 if thirty and os.path.exists(carry):
     t = open(thirty, encoding='utf-8').read()
     first = {int(n): s[:60] for n, s in re.findall(r'^(\d+)\. (.*)$', t, re.M)}

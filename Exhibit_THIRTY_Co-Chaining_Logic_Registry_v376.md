@@ -1423,7 +1423,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
 ## 29 Stable-forming and the emanating at the numbers
 
-        *Entering: the corus at the apex, at the emanation's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; the unrelationing surface at 12, 13 and 14; bi-tri- all five; sphere and torus alternated; the sphere's rest point moving to the corus and the torus, co-sequentially; the unrelationing surface and the emanations' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
+        *Entering: the corus at the apex, at the emanation's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; φ the equal-edge condition; four triangles of three; the unrelationing surface at 12, 13 and 14; bi-tri- all five; sphere and torus alternated; a flow's rest points at the theorem's conditions; the sphere's rest point moving to the corus and the torus, co-sequentially; the unrelationing surface and the emanations' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69.*
 
 307. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
 
@@ -1467,9 +1467,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: the right spiraling, 120 degrees apart; the hand at the reading.*
 
-316. The twelve corners of the three are the icosahedron's, 30 edges and 20 faces, five faces at each corner: 12 × 5, 20 × 3 and 30 × 2, each sixty.
+316. The twelve corners of the three are the icosahedron's, 30 edges and 20 faces, five faces at each corner: 12 × 5, 20 × 3 and 30 × 2, each sixty. At a ratio r above 1 in place of φ the right-hand turn about (1, 1, 1) still carries each rectangle onto the one passing through it, and the nearest corners of one rectangle and the next are √(2(1 + r² − r)) apart, equal to the rectangles' own 2 at r² = r + 1, at φ alone: φ is the three's equal-edge condition, and the turn alone does not make it. About the line along (1, 1, 1) the twelve corners are four triangles of three at four heights, the outer two of side 2 and the inner two of side 2φ: two triangles are two of the four, said with their choosing.
 
-        *Adding: twelve corners, sixty three ways.*
+        *Adding: twelve corners, sixty three ways; φ the equal-edge condition; four triangles of three.*
 
 317. Said at the observings, 14-bi-tri-moralizing is across, not right to right; 13-co-tri-competencing is along, linear forward; and 12-bi-tri-parity-changing is both across and along at its bi-tri-, all five: bi- the self and the other and across, tri- the society and along also; 12 the shape of the three: the unrelationing surface; and the torusing surface, social and tri, along also.
 
@@ -1479,9 +1479,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: sphere and torus alternated.*
 
-319. A flow on a sphere has a rest point and on the torus none, and the sphere's rest point moves to the corus and the torus, co-sequentially: at 15-co-bi-tri-corusing, the parity 10 released, carried along at 9 unchanged, and at 16-bi-co-tri-torusing, each self's 8 and its offerings, the society's next momentary at 17, the living set formed between momentaries, one at a time, prior, now and next, and the rest point still at neither the corus nor the torus.
+319. At the numbers, every continuous flow on a sphere carries at least one rest point, and the torus carries a flow with none, not every flow on it none, step 102; at the observings, the sphere's rest point moves to the corus and the torus, co-sequentially: at 15-co-bi-tri-corusing, the parity 10 released, carried along at 9 unchanged, and at 16-bi-co-tri-torusing, each self's 8 and its offerings, the society's next momentary at 17, the living set formed between momentaries, one at a time, prior, now and next, and the rest point still at neither the corus nor the torus.
 
-        *Adding: the sphere's rest point moving to the corus and the torus, co-sequentially.*
+        *Adding: a flow's rest points at the theorem's conditions; the sphere's rest point moving to the corus and the torus, co-sequentially.*
 
 320. The unrelationing surface at 12 and the stable form of the non-living emanatings are no either or: parity changing alternates them, both carried one at a time, at the natural torusing surface.
 

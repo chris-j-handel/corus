@@ -14,6 +14,8 @@ This brief is the reviewer's own carrying. Each review ends with what the review
 2. **The branch under review, checked out at its own folder.** `git worktree add ../review-<branch> origin/<branch>`, then work inside that folder: the kit's checks read the files checked out at it.
 3. **The base.** `base=$(git merge-base origin/main HEAD)`: the words compared are those the branch added after its parting from `main`, and `main`'s own newer motions are no part of the branch.
 4. **The review's number.** `<session>` is the reviewing session's own number or the branch's, `v377` for a review of `working/foundation-v377`, and the review branch starts from `origin/main`: `git switch -c review/<session> origin/main`.
+5. **The commit read.** The report names the commit its review opened at and, at a longer review, each later commit it reached: other workings move the branch, and a finding is met at the files' newer motions, a finding already met at them being no second arrival.
+6. **A visiting contribution.** A report from another working, discovering and reviewing at once, arrives the same way, at `incoming/review_<subject>_<session>/` on a branch `review/<subject>-<session>`, whole, its standing named at each event: offered on a branch, arrived at `main`, received at the carrying, entered at a file.
 
 ## What it reads
 
@@ -34,14 +36,14 @@ This brief is the reviewer's own carrying. Each review ends with what the review
    - **the observing it carries,** at the branch's record: the sentence says no more and no less.
    - **the sentences beside it,** before and after, and every other saying of the same naming across the core files: a re-saying leaves no old saying at another place.
    - **Exhibit THIRTY's order.** Each concept a step uses is entered at that step or before it; the kit does not check this.
-   - **the numbers.** A claim at the numbers, a turn, a number of steps, a prime or a golden ratio, is computed, and each number a report gives is computed again.
+   - **the numbers.** A claim at the numbers, a turn, a number of steps, a prime or a golden ratio, is computed, and each number a report gives is computed again. A claim at a theorem is read at its conditions: every or some, carries or forces.
    - **the kit's own claims,** tested against its code: the brief and the kit are read by the same rules.
 3. **The method's rules, each all or none:**
    - binary rigor, is or is not; no size, no ranking, no total beside all existing things;
    - do-no-harm: no prior lost, one relation changed whole, never undoing;
    - no released word; no bare *thing*; full names; *so* only in *so-far*;
    - no word, including an observer's or the lead's, carried as authority: the only authority is observings; the lead's words said at Natural Naming's words;
-   - Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT carry no concerns about the rigor: a finding at them is a re-saying at the rigor, never a concern about it;
+   - Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT carry no concerns about the rigor: a finding at them is a re-saying at the rigor, never a concern about it; a sentence at them saying a mathematical implication its premises do not carry is a finding at the numbers, brought whole and re-said, the naming of the rigor, a theorem and a physical correspondence each at its own standing; a proposed correspondence not meeting an observed relation, failing at it or missing a necessity step, is an open correspondence at its file's section, its next named, a concern at that correspondence and no concern about the rigor;
    - a concern resolvable at the code, the numbers or the files is resolved and brought as a finding; only a concern needing an observing is brought as an either-this-or-that.
 
 ## What it brings back
@@ -90,3 +92,11 @@ Two readings met: a naming read at more than one face, the method, the carrying 
 - Execute the kit's checks against the kit and the brief themselves.
 - Test a claim about what the kit covers against its code, and compute again each number a report gives.
 - Anchor a finding at a phrase quoted, not only a line number.
+
+## Learned at the physics observings report's arrival, v376
+
+- A check that did not obtain its input agrees with nothing: `reader_checks.py` says a file not found and a git command failing.
+- A theorem is read at its conditions: every continuous flow on a sphere carries at least one rest point, and the torus carries a flow with none, not every flow on it none.
+- Every word surviving is no relation surviving: a condition, a negation or an attribution may move with each word present, and a faithful re-saying may change the words. Word-streaming, the Geodesic Improving Method 1.5, finds a loss of words; a reader compares each passage at its subject, its conditions and its standing.
+- Two sayings at one sharing are compared at their subject, scale, occurrence and reading direction before they are said to agree or part: same words are not the same relation, different signs not a parting.
+- A report says what of a session its reading reached: verbatim, at a summary, or not reached.
