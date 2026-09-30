@@ -1554,3 +1554,7 @@ At the author's word: the plan's pattern at two selves re-said, *alternating opp
 ## Natural Physics, pass 2: 1.1 (v377)
 
 At the author's word, continuing: Natural Physics 1.1, *A physical coupling, the one method at each physical subject*, written whole at the white paper's form from the reviewed proposal, its proposed sentence at Natural Intelligence 2.4 read fresh and entered, each concept at Natural Intelligence v376 and the coupling at Exhibit ONE v376's names; the old 1.1's contributions each carried, corrected or released at the code, their places at Natural Physics' section of the carrying. A fresh reader read it twice and ran the code, twelve findings met. The reader found 1.2's *each coupling sums to a bounding-zeroing* now against 1.1, for pass 3. `working/physics-pass2-v377`.
+
+## Natural Physics, pass 3: 1.2 (v377)
+
+Natural Physics 1.2, *Six one-way recursionings, their relations, and a form named still*, written whole: the six recursionings at Natural Intelligence 3.2 and 5.2, the six connectors and ten faces at their Exhibit ONE v376 names, three relations and no common numeral joining them, physics' triples proposed, the equilibrium at the step from a fixing, Natural Mathematics 6.1; the old *sum to a bounding-zeroing* released at 1.1's code. A fresh reader read it twice, thirteen findings met; 4.4's and 4.6's asserted correspondences found for their passes. `working/physics-pass3-v377`.
