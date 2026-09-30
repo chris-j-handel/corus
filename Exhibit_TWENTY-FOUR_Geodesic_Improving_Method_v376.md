@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v377
+Exhibit TWENTY-FOUR Geodesic Improving Method v376
 
 &nbsp;
 
@@ -377,8 +377,6 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 **Each reader says what of the session its reading reached**: verbatim at the transcript, at a summary, or not reached; a session read whole is its whole available record, and two readers of one summary reach nothing more than it carries. The reading from ahead back gathers, and a reading forward again meets each gathered saying at the question it answered: a saying corrected later in the session arrives as corrected, with its correcting. The readers are compared at each saying they found, its receiving, and whether it is new, already carried, corrected or open, and not only at their conclusions; readers agreeing establishes no physical or mathematical claim. At word-streaming, 1.5, every word surviving is no relation surviving: a condition, a negation or an attribution may move with each word present, and the reader compares each passage at its subject, its conditions and its standing.
 
 **A visiting report arrives at the same helpers**: a working outside the session, discovering and reviewing at once, arrives whole at `incoming/` on its own branch, naming the commits it read, its standing named at each event, offered on a branch, arrived at `main`, received at the carrying, entered at a file. Each finding is met at the files' newer motions, a finding already carried being no second arrival, and a finding at the numbers is computed again before it is received.
-
-**Readings apart, then a fresh reading of the proposal**: a visiting working reading one file at three readings apart, the logic, the explaining and the observings, finds differing kinds, and a fresh reader reading its proposed re-saying beside its prior finds the positive relation the correction lost, the proposal changing at each finding with its change said. The readings are compared at each finding's proposition and not only at their conclusions, and readers differing at an order are carried at their reasons, the working's order its own. A receiving plan naming destinations is no completed receiving: each contribution arrives at its sentence at its file or at its carrying, its source beside it, before its arrival is released.
 
 **Each helper's saying is no authority**: the working couples with each finding at is or is not, at do-no-harm. The helpers are another AI at its other use, reviewing and improving, beside discovering and reporting back in.
 

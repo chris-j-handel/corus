@@ -86,13 +86,4 @@ if FILES['Natural_Intelligence'] and FILES['Exhibit_ONE_Natural_Resolver']:
     say(next(v for k, v in ns.items() if k.startswith('_1_') and callable(v))([], [('k', 1)]) == ([('k', 1)], [('k', 1)]), 'the code does not run')
     fns = [n for n, v in ns.items() if callable(v) and not n.startswith('__')]
     print('  functions at the code:', fns)
-# the subjects read, said beside the result: a pass is at the files it read and at no other
-living = {}
-for f in glob.glob(os.path.join(D, '*_v*.md')):
-    m = re.match(r'(.+)_v(\d+)[a-z]*\.md$', os.path.basename(f))
-    if m: living.setdefault(m.group(1), f)
-unread = sorted(k for k in living if k not in STEMS)
-read = [s for s in STEMS if FILES.get(s)]
-print('read: %d living files of %d at the root; not read, and neither passing nor failing here: %s' % (
-    len(read), len(living), ', '.join(unread) if unread else 'none'))
-print(('ALL PASS' if ok else 'SOME FAIL') + ' at the %d files read' % len(read))
+print('ALL PASS' if ok else 'SOME FAIL')
