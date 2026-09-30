@@ -1459,7 +1459,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: three golden rectangles at the corus.*
 
-314. Each rectangle's along sides pass through the next rectangle's inside, and none passes back: two alone carry nothing of each other, and the three carry one another as three.
+314. Each rectangle's along sides pass through the next one's inside, and none passes back: two alone carry nothing of each other, and the three carry one another as three; each rectangle's across lies along the next one's along, and its along sides pierce the next one's inside at its across width: R1, (0, ±1, ±φ), across on y and along on z; R2, (±1, ±φ, 0), across on x and along on y; R3, (±φ, 0, ±1), across on z and along on x; each of the three directions is across at one rectangle and along at the next.
 
         *Adding: the three threaded one way.*
 
