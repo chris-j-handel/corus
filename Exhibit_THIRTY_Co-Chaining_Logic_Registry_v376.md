@@ -1877,6 +1877,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v376
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-414. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third.
+414. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third, the next step shown being at the method, discovering next possible existing.
 
         *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
