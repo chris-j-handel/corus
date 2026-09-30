@@ -18,4 +18,4 @@ Exhibit TWENTY-ONE Hard Problem Registry · carrying v378
 
 None.
 
-**Concern, at v378, from the Co-Chaining Logic Registry's coverage reading, for both.** The seventeen names stand at the old code at this file, pass B at its motion. Entered at the registry from this file at v378: the conditions prior and the problem's own sixth, the refutation as one, the named face and the resolving face.
+**Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** The seventeen names stand at the old code at this file, pass B at its motion. Entered at the registry from this file at v378: the conditions prior and the problem's own sixth, the refutation as one, the named face and the resolving face.
