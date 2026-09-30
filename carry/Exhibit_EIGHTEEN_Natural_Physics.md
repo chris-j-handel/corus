@@ -2,7 +2,7 @@ Exhibit EIGHTEEN Natural Physics · carrying v377
 
 # Exhibit EIGHTEEN · Natural Physics
 
-**Next at this file: its motion at v377, in passes on one branch, `working/physics-motion-v377`, replacing its prior at corus.me only at its offering surviving both, the working's own suggesting and improving and another self's; passes 1 to 3 at `main`, passes 4 to 7 and the spirals on the branch; the close done, one fresh reader of the whole file twice, v348 against v377, each finding met; next, the offering, the branch at pull request 106, merged at its offering surviving both.** The prior carrying of this file, the plan, the value map, the sections' places from v348 to v377 and each arrival as it stood, is whole at `archive/carrying_v377/Exhibit_EIGHTEEN_Natural_Physics.md`.
+**Next at this file: its motion at v377, in passes on one branch, `working/physics-motion-v377`, replacing its prior at corus.me only at its offering surviving both, the working's own suggesting and improving and another self's; passes 1 to 3 at `main`, passes 4 to 7 and the spirals on the branch; the close done, one fresh reader of the whole file twice, v348 against v377, each finding met; next, the offering, the branch at pull request 106, merged at its offering surviving both, its report at `incoming/natural_physics_v377/README.md` naming each item still open at its section for the readers who carry it on.** The prior carrying of this file, the plan, the value map, the sections' places from v348 to v377 and each arrival as it stood, is whole at `archive/carrying_v377/Exhibit_EIGHTEEN_Natural_Physics.md`.
 
 ## Ready
 

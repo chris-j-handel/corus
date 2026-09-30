@@ -1,0 +1,130 @@
+===== python3 incoming/natural_physics_v377/executions/forms.py
+1. at 14 and 12, empty carrying:
+  offered [1] -> ([('s', 1)], [('s', 1)])
+  offered [1, 1] -> ([('s', 1)], [('s', 1)])
+  offered [1, -1] -> ([('s', 0)], [])
+  offered [1, 1, -1] -> ([('s', 0)], [])
+  offered [] -> ([], [])
+   carrying +, offered +: ([('s', 0)], [('s', 1)]) ; offered -: ([('s', -1)], [('s', -1)]) ; none: ([('s', -1)], [('s', -1)])
+2. spirals of n, + once at self 0, others none; parities again every:
+  n=2 every 2 zeros-at-end 0
+  n=3 every 12 zeros-at-end 0
+  n=4 every 2 zeros-at-end 0
+  n=5 every 20 zeros-at-end 0
+  n=6 every 2 zeros-at-end 0
+  n=7 every 28 zeros-at-end 0
+  n=9 every 36 zeros-at-end 0
+  n=11 every 44 zeros-at-end 0
+3. spiral of 1 joined to itself: [(-1,), (-1,), (1,), (1,), (-1,), (-1,), (1,), (1,)]
+4. pairs at an empty carrying, alike, no others joining: [1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1]
+   alternating members after one pairing: 0
+5. odd spiral: adjacent like pairs in the carrying at each momentary (after settling):
+  n 3 [1, 1, 1, 1, 1, 1, 1, 1] (1, -1, 1)
+  n 5 [1, 1, 1, 1, 1, 1, 1, 1] (-1, 1, -1, -1, 1)
+  n 7 [1, 1, 1, 1, 1, 1, 1, 1] (1, -1, 1, -1, 1, -1, 1)
+  n 4 [0, 0, 0, 0, 0, 0, 0, 0] (-1, 1, -1, 1)
+  n 6 [0, 0, 0, 0, 0, 0, 0, 0] (-1, 1, -1, 1, -1, 1)
+6. two spirals joined across at one self each; the joined selves' relation after settling:
+  (2, 2) {('alike',), ('opposite',)}
+  (2, 3) {('alike',), ('opposite',)}
+  (2, 4) {('opposite',)}
+  (2, 5) {('opposite',)}
+  (2, 6) {('alike',), ('opposite',)}
+  (3, 2) {('alike',), ('opposite',)}
+  (3, 3) {('alike',), ('opposite',)}
+  (3, 4) {('opposite',)}
+  (3, 5) {('opposite',)}
+  (3, 6) {('opposite',)}
+  (4, 2) {('alike',), ('opposite',)}
+  (4, 3) {('opposite',)}
+  (4, 4) {('alike',), ('opposite',)}
+  (4, 5) {('opposite',)}
+  (4, 6) {('alike',), ('opposite',)}
+  (5, 2) {('opposite',)}
+  (5, 3) {('opposite',)}
+  (5, 4) {('opposite',)}
+  (5, 5) {('opposite',)}
+  (5, 6) {('opposite',)}
+  (6, 2) {('opposite',)}
+  (6, 3) {('opposite',)}
+  (6, 4) {('opposite',)}
+  (6, 5) {('opposite',)}
+  (6, 6) {('alike',), ('opposite',)}
+7. pairs at an empty carrying with k joining alike after each pairing, an unpaired member continuing:
+  k 64 after each pairing [512, 288, 176, 120, 92, 78, 71, 68, 66, 65, 65, 65, 65, 65]
+  k 512 after each pairing [512, 512, 512, 512, 512, 512, 512, 512, 512, 512, 512, 512, 512, 512]
+===== python3 incoming/natural_physics_v377/executions/two.py
+[(-1, 0), (1, -1), (-1, 1), (1, -1), (-1, 1), (1, -1), (-1, 1), (1, -1)]
+[(-1, -1), (-1, -1), (1, 1), (1, 1), (-1, -1), (-1, -1), (1, 1), (1, 1)]
+[(-1, 1), (1, -1), (-1, 1), (1, -1), (-1, 1), (1, -1), (-1, 1), (1, -1)]
+===== python3 incoming/natural_physics_v377/executions/spirals_joined.py
+(2, 2) {'alike': 4, 'opposite': 12, 'mixed': 0}
+(2, 3) {'alike': 2, 'opposite': 30, 'mixed': 0}
+(2, 4) {'alike': 4, 'opposite': 60, 'mixed': 0}
+(2, 5) {'alike': 2, 'opposite': 126, 'mixed': 0}
+(2, 6) {'alike': 4, 'opposite': 252, 'mixed': 0}
+(3, 3) {'alike': 8, 'opposite': 56, 'mixed': 0}
+(3, 4) {'alike': 2, 'opposite': 126, 'mixed': 0}
+(3, 5) {'alike': 2, 'opposite': 254, 'mixed': 0}
+(3, 6) {'alike': 2, 'opposite': 510, 'mixed': 0}
+(4, 4) {'alike': 16, 'opposite': 240, 'mixed': 0}
+(4, 5) {'alike': 2, 'opposite': 510, 'mixed': 0}
+(4, 6) {'alike': 4, 'opposite': 1020, 'mixed': 0}
+(5, 5) {'alike': 32, 'opposite': 992, 'mixed': 0}
+(5, 6) {'alike': 2, 'opposite': 2046, 'mixed': 0}
+(6, 6) {'alike': 64, 'opposite': 4032, 'mixed': 0}
+===== python3 incoming/natural_physics_v377/executions/joined_alike.py
+alike: 68 patterns, changing together True, at each momentary False
+alike: 6 patterns, changing together True, at each momentary True
+opposite: 2406 patterns, changing together True, at each momentary True
+===== python3 incoming/natural_physics_v377/executions/zero_tunnelling.py
+6 --+-+ 0 released at [0] like pair at [0]
+7 ++-+- 0 released at [] like pair at [0]
+8 -++-+ 0 released at [1] like pair at [1]
+9 +--+- 0 released at [] like pair at [1]
+10 -+--+ 0 released at [2] like pair at [2]
+11 +-++- 0 released at [] like pair at [2]
+12 -+-++ 0 released at [3] like pair at [3]
+13 +-+-- 0 released at [] like pair at [3]
+14 -+-+- 0 released at [4] like pair at [4]
+15 +-+-+ 0 released at [] like pair at [4]
+16 ++-+- 0 released at [0] like pair at [0]
+17 --+-+ 0 released at [] like pair at [0]
+18 +--+- 0 released at [1] like pair at [1]
+19 -++-+ 0 released at [] like pair at [1]
+20 +-++- 0 released at [2] like pair at [2]
+21 -+--+ 0 released at [] like pair at [2]
+22 +-+-- 0 released at [3] like pair at [3]
+23 -+-++ 0 released at [] like pair at [3]
+24 +-+-+ 0 released at [4] like pair at [4]
+25 -+-+- 0 released at [] like pair at [4]
+26 --+-+ 0 released at [0] like pair at [0]
+===== python3 incoming/natural_physics_v377/executions/torus.py
+3 5 (12, 6)
+5 3 (12, 6)
+3 7 (7, 8)
+5 7 (20, 12)
+17 59 (59, 89)
+===== python3 incoming/natural_physics_v377/executions/torus_waist.py
+1 by 3: gcd 1, parities again every 3 momentaries; the waist rule says 3; meets
+1 by 5: gcd 1, parities again every 4 momentaries; the waist rule says 5; parts
+1 by 9: gcd 1, parities again every 4 momentaries; the waist rule says 9; parts
+3 by 5: gcd 1, parities again every 12 momentaries; the waist rule says 12; meets
+3 by 7: gcd 1, parities again every 7 momentaries; the waist rule says 7; meets
+3 by 9: gcd 3, parities again every 9 momentaries; the waist rule says 9; meets
+3 by 11: gcd 1, parities again every 11 momentaries; the waist rule says 11; meets
+3 by 13: gcd 1, parities again every 12 momentaries; the waist rule says 13; parts
+3 by 15: gcd 3, parities again every 12 momentaries; the waist rule says 15; parts
+3 by 27: gcd 3, parities again every 12 momentaries; the waist rule says 27; parts
+5 by 7: gcd 1, parities again every 20 momentaries; the waist rule says 20; meets
+5 by 11: gcd 1, parities again every 11 momentaries; the waist rule says 11; meets
+5 by 15: gcd 5, parities again every 15 momentaries; the waist rule says 15; meets
+5 by 21: gcd 1, parities again every 20 momentaries; the waist rule says 21; parts
+5 by 25: gcd 5, parities again every 20 momentaries; the waist rule says 25; parts
+9 by 15: gcd 3, parities again every 36 momentaries; the waist rule says 36; meets
+===== python3 incoming/natural_physics_v377/executions/sums.py
+500 societies: the sum changes at 341, stays at 159
+spiral of 4: sums [0, 0, 0, 0, 0, 0, 0, 0]
+spiral of 5: sums [-1, 1, 1, -1, -1, 1, 1, -1]
+spiral of 6: sums [0, 0, 0, 0, 0, 0, 0, 0]
+spiral of 7: sums [-1, 1, 1, -1, -1, 1, 1, -1]
