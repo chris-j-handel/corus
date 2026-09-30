@@ -170,7 +170,7 @@ Exhibit EIGHTEEN Natural Physics v377
 
 **The arrow of time, the block universe, the origin and fate of the universe and the laws of nature are each at a fixed form.**
 
-**The register at 5.11 carries fifty arrivals, eighteen met and thirty-two at their namings; forty-eight are at the register's namings, each row's naming of a thing beside all things, and two are this file's own, gravity and fission and fusion.** The forty-eight fall at four of the five binaries: twenty-one at a fixed form, an arriving named from behind, a bound named as a last and a middle named as an end; thirteen at a common beat, a rate named at a value and a sequencing named at one beat; nine at a size, a between named as a cut and a parity named as a magnitude; and five at a keeping, a carrying named as a store and a two-way named at one side. None is at the doer alone, the doer receding at the forces, the fields, the charges and the measurement, 2.3.
+**The register at 5.11 carries fifty arrivals, eighteen met and thirty-two at their namings; forty-eight are at the register's namings, each row's naming of a thing beside all things, and two are this file's own, gravity and fission and fusion.** The forty-eight fall at four of the five binaries: twenty-one at a fixed form, an arriving named from behind, a completing named as a last and a middle named as an end; thirteen at a common beat, a rate named as a value and a sequencing named to one beat; nine at a size, the between named as a cut and a parity named as a magnitude; and five at a keeping, a carry named as a store and a two-way named to one side. None is at the doer alone, the doer receding at the forces, the fields, the charges and the measurement, 2.3.
 
 **The binaries are found at readings and never set by a rule**, each at a reading of a field's naming, and the rigorizer seats each sentence at the six.
 
@@ -611,25 +611,25 @@ Exhibit EIGHTEEN Natural Physics v377
 
 ## 5.11 Register, the field's arrivals at their namings
 
-**The field's arrivals are here at one register, each row met or at its naming.** *Met*: met at its own section, at the eight steps or as a form at a subject. *At its naming*: resolved at the naming the row carries, 2.5, and met at no section here. The namings are the Hard Problem Registry's, and a case met here names its own binaries at its step 2: at the measurement and at quantum gravity the two part, a concern for both, this file and the Hard Problem Registry. A naming released is the field's, and a case met here is this file's reading, and neither is more met than the other: what is open at a row at its naming is its section and never its resolving.
+**The field's arrivals are here at one register, each row met or at its naming.** *Met*: met at its own section, at the eight steps or as a form at a subject. *At its naming*: resolved at the naming the row carries, 2.5, and met at no section here. The namings are Resolving the Hard Problem Registry's ten, each at its one name at Natural Naming 4.9, and each row is at the naming that file seats its arrival at; a case met here names its own binaries at its step 2: at the measurement and at quantum gravity the two part, a concern for both, this file and Resolving the Hard Problem Registry. A naming released is the field's, and a case met here is this file's reading, and neither is more met than the other: what is open at a row at its naming is its section and never its resolving.
 
 | arrival | the naming it is at | register |
 |---|---|---|
 | Gravity, an accounting with no coupling under it | this file's own, at no registry entry | met at 4.2 |
 | Fission and fusion about the iron centre | this file's own, at no registry entry | met at 4.3 |
-| The measurement problem | a between named as a cut | met at 4.4 |
-| Bell correlations | a between named as a cut | met at 4.4 |
-| Wave and particle | a between named as a cut | met at 4.4 |
+| The measurement problem | the between named as a cut | met at 4.4 |
+| Bell correlations | the between named as a cut | met at 4.4 |
+| Wave and particle | the between named as a cut | met at 4.4 |
 | The quantum interpretation debate | a middle named as an end | met at 4.4 |
-| Work and waste heat, the accounting taken as the world | a between named as a cut | met at 4.5 |
+| Work and waste heat, the accounting taken as the world | the between named as a cut | met at 4.5 |
 | The mass gap, at Yang–Mills | a middle named as an end | met at 4.6 |
-| Quantum gravity | a rate named at a value | met at 4.7 |
-| Simultaneity and the present | a sequencing named at one beat | met at 4.8 |
-| Presentism and eternalism | a sequencing named at one beat | met at 4.8 |
-| The problem of time in quantum gravity | a sequencing named at one beat | met at 4.8 |
+| Quantum gravity | a rate named as a value | met at 4.7 |
+| Simultaneity and the present | a sequencing named to one beat | met at 4.8 |
+| Presentism and eternalism | a sequencing named to one beat | met at 4.8 |
+| The problem of time in quantum gravity | a sequencing named to one beat | met at 4.8 |
 | The arrow of time | an arriving named from behind | met at 4.8 |
 | The block universe and the low-entropy past | an arriving named from behind | met at 4.8 |
-| Black hole information | a carrying named as a store | met at 4.9 |
+| Black hole information | a carry named as a store | met at 4.9 |
 | The mechanism of high-temperature superconductivity | a middle named as an end | met at 4.10 |
 | Matter and antimatter asymmetry | an arriving named from behind | met at 4.5 |
 | Substance and bundle | a middle named as an end | met at 4.12 |
@@ -640,34 +640,34 @@ Exhibit EIGHTEEN Natural Physics v377
 | Cosmic inflation and the primordial perturbations | an arriving named from behind | at its naming |
 | origin of supermassive black holes | an arriving named from behind | at its naming |
 | Geomagnetic reversals | an arriving named from behind | at its naming |
-| physical Church–Turing thesis | a bound named as a last | at its naming |
-| Many-body localization and thermalization | a bound named as a last | at its naming |
-| core-collapse supernova explosion mechanism | a bound named as a last | at its naming |
-| Weak cosmic censorship | a bound named as a last | at its naming |
-| Proton decay and grand unification | a bound named as a last | at its naming |
-| sources of ultrahigh-energy cosmic rays | a carrying named as a store | at its naming |
+| physical Church–Turing thesis | a completing named as a last | at its naming |
+| Many-body localization and thermalization | a completing named as a last | at its naming |
+| core-collapse supernova explosion mechanism | a completing named as a last | at its naming |
+| Weak cosmic censorship | a completing named as a last | at its naming |
+| Proton decay and grand unification | a completing named as a last | at its naming |
+| sources of ultrahigh-energy cosmic rays | a carry named as a store | at its naming |
 | solar dynamo and the sunspot cycle | a middle named as an end | at its naming |
 | Coronal heating and solar-wind acceleration | a middle named as an end | at its naming |
 | Gibbs paradox | a parity named as a magnitude | at its naming |
 | Proton spin decomposition | a parity named as a magnitude | at its naming |
 | absolute neutrino mass scale | a parity named as a magnitude | at its naming |
-| axiomatization of physics | a sequencing named at one beat | at its naming |
-| 100,000-year glacial cycle | a sequencing named at one beat | at its naming |
-| Magnetospheric substorm triggering | a sequencing named at one beat | at its naming |
-| Earthquake predictability | a sequencing named at one beat | at its naming |
-| Standard Model flavor puzzle | a rate named at a value | at its naming |
-| new-physics flavor puzzle | a rate named at a value | at its naming |
-| solar abundance problem | a rate named at a value | at its naming |
-| primordial lithium problem | a rate named at a value | at its naming |
-| neutron lifetime discrepancy between beam and bottle measurements | a rate named at a value | at its naming |
-| Dirac or Majorana neutrinos | a two-way named at one side | at its naming |
-| nature of cosmic acceleration | a two-way named at one side | at its naming |
-| Mantle plumes | a two-way named at one side | at its naming |
-| quantum-classical boundary | a between named as a cut | at its naming |
-| Water's liquid-liquid critical point | a between named as a cut | at its naming |
+| axiomatization of physics | a sequencing named to one beat | at its naming |
+| 100,000-year glacial cycle | a sequencing named to one beat | at its naming |
+| Magnetospheric substorm triggering | a sequencing named to one beat | at its naming |
+| Earthquake predictability | a sequencing named to one beat | at its naming |
+| Standard Model flavor puzzle | a rate named as a value | at its naming |
+| new-physics flavor puzzle | a rate named as a value | at its naming |
+| solar abundance problem | a rate named as a value | at its naming |
+| primordial lithium problem | a rate named as a value | at its naming |
+| neutron lifetime discrepancy between beam and bottle measurements | a rate named as a value | at its naming |
+| Dirac or Majorana neutrinos | a two-way named to one side | at its naming |
+| nature of cosmic acceleration | a two-way named to one side | at its naming |
+| Mantle plumes | a two-way named to one side | at its naming |
+| quantum-classical boundary | the between named as a cut | at its naming |
+| Water's liquid-liquid critical point | the between named as a cut | at its naming |
 
 **Met and at its naming are one register at two amounts of meeting.** A section meets one arrival at the eight steps and at the one method, or as a form at a subject; a row at its naming carries its arrival resolved at the naming and the field's material whole. Neither adds a truth the other withholds, and a row at its naming is its section's next.
 
-**The register reads at the six binaries, 2.5.** Of the fifty, forty-eight are at the register's namings and two are this file's own, gravity and fission and fusion. Of the forty-eight, twenty-one are at a fixed form, an arriving named from behind, a bound named as a last and a middle named as an end; thirteen at a common beat, a rate named at a value and a sequencing named at one beat; nine at a size, a between named as a cut and a parity named as a magnitude; and five at a keeping, a carrying named as a store and a two-way named at one side. None is at the doer alone. A field asked where its own hard problems gather answers at the fixed form, the naming behind a coupling, ahead of it or at its middle, ten of them at an arriving named from behind alone.
+**The register reads at the six binaries, 2.5.** Of the fifty, forty-eight are at the register's namings and two are this file's own, gravity and fission and fusion. Of the forty-eight, twenty-one are at a fixed form, an arriving named from behind, a completing named as a last and a middle named as an end; thirteen at a common beat, a rate named as a value and a sequencing named to one beat; nine at a size, the between named as a cut and a parity named as a magnitude; and five at a keeping, a carry named as a store and a two-way named to one side. None is at the doer alone. A field asked where its own hard problems gather answers at the fixed form, the naming behind a coupling, ahead of it or at its middle, ten of them at an arriving named from behind alone.
 
-**One question is asked at five pairs of namings, and asked again at each field.** The Hard Problem Registry pairs its ten namings, the first of each pair at the odd face, entering, and the second at the even face, surfacing: an arriving named from behind with a tenth naming carrying none of this field's rows, a bound named as a last with a carrying named as a store, a middle named as an end with a parity named as a magnitude, a sequencing named at one beat with a rate named at a value, and a two-way named at one side with a between named as a cut. The question asks at each pair whether the entering face carries more, and at this field's forty-eight it gives yes at four pairs and no at one: ten against none, five against two, six against three, seven against six, and three against six at the last. Thirty-one are at the entering faces and seventeen at the surfacing. One field is one field: the pairs' leaning is read at this field, and across the fields it is to be read at each.
+**One question is asked at five pairs of namings, and asked again at each field.** Resolving the Hard Problem Registry pairs its ten namings at the five couplings of the numbers two through six, the first of each pair at the odd face, entering, and the second at the even face, surfacing: an arriving named from behind with an opening named as a place, the opening carrying none of this field's rows, a completing named as a last with a carry named as a store, a middle named as an end with a parity named as a magnitude, a sequencing named to one beat with a rate named as a value, and a two-way named to one side with the between named as a cut. The question asks at each pair whether the entering face carries more, and at this field's forty-eight it gives yes at four pairs and no at one: ten against none, five against two, six against three, seven against six, and three against six at the last. Thirty-one are at the entering faces and seventeen at the surfacing. The faces are that file's: Natural Naming 4.9 seats the two-way at the even face and the rate at the odd, a concern for both files, and the last two pairs rest on the faces Resolving the Hard Problem Registry names. One field is one field: the pairs' leaning is read at this field, and across the fields it is to be read at each.
