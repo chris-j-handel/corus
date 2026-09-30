@@ -1,0 +1,20 @@
+Exhibit THIRTEEN Resolving Hard Problems · carrying v378
+
+# Exhibit THIRTEEN · Resolving Hard Problems
+
+**Next at this file: its near-copies of Natural Intelligence, about half its sentences, each re-said at its own co-sequencing or cited, at do-no-harm; and pass K's resolving of the one hard problem.** Its earlier texts, v368 and v379, stand whole at `archive/carrying_v375_resolving_hard_problems/`, each with its receiving, and the files citing its old sections re-point at their motions.
+
+## Ready
+
+**The hardest, gathered at v375, item 4, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
+4. **The universe, an existing thing and the set of all sets**: five files each way, and the field's no set of all sets. *Resolving found*: the universe exists as its things exist, at each scale and each momentary a universe of existing things, and is no thing beside them; *an existing thing* and *no existing thing separately* are one saying, the universe existing as its things exist; the field's no set of all sets is exact at its own subject, sets of sets, and the universe is a set of existing things. *To write*: Resolving Hard Problems 1.1, 1.4, 1.5, Natural Naming 2.2 and 5.26, Natural Mathematics, the Equilibria Registry's exclusivity, the Co-Chaining Logic Registry's F23, Q38 and M123, Natural Values 4.1.
+
+**The hardest, gathered at v375, item 7, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
+7. **12's changing owned by neither or the self's own**, made inside one self's entry at the code; 26 files. *Resolving found*: 12's changing is made at the self's own face, reached by nothing but the self, from the offerings the others released and at the society's momentary: owned by neither, 4.3; each self's carrying is its own along, and competency the term neither reaches. *Met at v376*: the term neither reaches is bi-co-momentarying, and competency is each self's own, the co-linear recursioning forward along, Natural Intelligence 6.1 and Exhibit THIRTY's thirtieth group. *To write*: Resolving Hard Problems 3.3 and 5.6 at *bi-co-momentarying*.
+
+**The hardest, gathered at v375, item 13, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
+13. **A hard problem said four ways**, testing without refutation, the universe as no existing thing, a changing named still at the ten, an equilibrium conception; and the 0 never released at an entry; 257 entries. *Resolving found*: one hard problem, a changing named still; a field's own statement of it, testing without refutation, is the field's register, kept whole; the universe read as no existing thing is its things read without their co-sequencing; an equilibrium conception is a changing named still; and an entry settled at its field is a match, 0 at 10, the prior carrying on. *To write*: the three hard problem files' fronts at the one saying, and each settled entry's marker at 0, 3.22 and 12.1 among them.
+
+## Concern
+
+**Concern, for both, at the items below.** The items below were laid at the ten things named still and the older resolving; each enters at this file only where it is living and non-living existing things co-sequencing at the code, and otherwise stays at its own file.

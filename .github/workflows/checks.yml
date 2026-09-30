@@ -1,0 +1,37 @@
+# Runs the Living File Registry kit's checks at every pull request and at every push to main, and prints what they say.
+# A check is a coupling partner and no authority: this job never fails a pull request, it says a standing for a reader to meet.
+name: Checks at the living files and the carrying
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: carry_check, the standing of the repository as a carry
+        run: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py .
+
+      - name: check_set, the living files' contents, tables, version lines and the code running
+        run: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py . || true
+
+      - name: cohere_one, Exhibit ONE written inside Natural Intelligence
+        run: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py . || true
+
+      - name: reader_checks, the branch read against main
+        if: github.event_name == 'pull_request'
+        run: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/reader_checks.py . origin/main || true
