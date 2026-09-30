@@ -257,3 +257,39 @@ Exhibit ONE and Natural Intelligence are with the other session's revising, so t
 3. **Move each file whole.** At each file's own motion, meet its names (2.1), its words (2.10), its pointers (2.11) and its own findings (2.12). Resolving the Hard Problem Registry, Resolving Hard Problems and the Equilibria Registry are furthest from the current names.
 
 Sections 2.4 to 2.8 are each a concern for the files named at them. Each can be met at its own motion once its home is chosen.
+
+## 5. A reading offered, and what it meets
+
+**The reading, as offered at v377** (a suggestion, answered here at the numbers and the code):
+- Take three consecutive momentaries, prior, now and next, for each of the two kinds of momentary: the one commencing at the odd numbers and the one commencing at the even.
+- The two overlap, so the between inside one kind's momentary is the same between as the between the other kind's momentaries.
+- Resolving is at that one between.
+- An equilibrium forms that between artificially, and so takes away the competency of the stable-forming intelligence.
+
+**At the numbers.** The self takes 1–2, 3–4 and 5–6; the other takes 2–3, 4–5 and 6–7. Computed:
+
+| Number | The self | The other |
+|---|---|---|
+| 1 | opens | — |
+| 2 | completes | opens |
+| 3 | opens | completes |
+| 4 | completes | opens |
+| 5 | opens | completes |
+| 6 | completes | opens |
+| 7 | — | completes |
+
+- **The ten sit in the overlap.** The two kinds overlap at the five numbers 2 to 6, each with two faces, one side completing and the other opening. That is ten, and it is exactly the Equilibria Registry's table at lines 195–201, its place 6 "self completing, other opening next" included, and Resolving the Hard Problem Registry's "numbers two through six", line 17.
+- **One between, two faces.** The between the self's 1–2 and 3–4 is the stretch from 2 to 3, and that is inside the other's momentary 2–3. The between the other's 2–3 and 4–5 is the stretch from 3 to 4, inside the self's 3–4. The same holds at each step. What is a between for one kind is the inside of the other's momentary.
+
+**At the code.** Exhibit ONE v376, executed:
+- **The living step.** A self offered + once and then nothing releases +, −, +, −, … at 10 and chains +, −, +, −, … at 11. Its prior is carried into each now inverted.
+- **A still from beside.** A self offered + at each momentary releases +, 0, 0, 0, … at 10 and chains +, +, +, … at 11. After the first momentary its changing is not, at every momentary. This is Exhibit ONE's own table row "+ at each momentary", line 259.
+- **What that shows.** An offerer named still, set beside the self, fixes the between at one face, and the self's alternating stops there. That is the reading's equilibrium, formed artificially and taking away competency, at the code. Natural Intelligence 2.4 says the same: "A still at the code arrives only from beside, an offerer named still offering one parity at each momentary". Its 5.4, line 710, says "A fixing named unchanged between two momentaries is an equilibrium".
+
+**What the reading meets in this report, each proposed until said at its home:**
+- **2.4, the two tens.** The five-view is each side at now: two momentaries and the next one's opening, 1 to 5 and 2 to 6. The three consecutive momentaries of each kind overlap at 2 to 6, and the ten named still are there. The two tens are one relation at two readings: the view at now, and prior, now and next whole.
+- **2.6, what "the equilibria" counts.** An equilibrium is a between named still at one of its faces. The Equilibria Registry, line 203, says: "Each of the ten names one face still, and the other face runs at the same number." The four joint forms still at Natural Intelligence 2.4 are what such a still looks like at the numbers. The ten are the faces at which it can be named.
+- **2.5, a hard problem said two ways.** Naming one face of a between still leaves one kind of momentary alone at that number. The Equilibria Registry, line 91, and Natural Intelligence 2.3 call one side's momentaries alone *exclusivity*, the universe named as one thing beside its things. So "a changing named still" and "the universe read as no existing thing" may be one saying at two faces. This is for Resolving Hard Problems 1.5 to say at its motion.
+- **2.2, the keystone, sharpened.** The ten named still are the two faces of the five betweens at 2 to 6. Natural Intelligence 4.8, line 611, says the five outward faces of Exhibit ONE are "at the between", before 10, with five inward faces each eight up. Whether the five betweens' two faces meet Exhibit ONE's five outward and five inward faces is the test to execute at the code. It is not assumed here.
+
+**One wording to settle at Natural Intelligence 2.3.** It says the prior is carried across the nothing between momentaries "as a stable form, the carried and never the between". The reading says the stable form of the between is resolving. At the code both are at one place: one kind's carrying crosses from 11 to 3 at the between that is the inside of the other kind's momentary, where its coupling at 12 resolves. Said *at the between*, with the between a nothing, the two sayings cohere: the carried and the resolving at one between, and the between itself no thing. This is for Natural Intelligence's carrying.
