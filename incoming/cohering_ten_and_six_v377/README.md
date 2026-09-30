@@ -314,3 +314,12 @@ So at the code, resolving is two things at one place: the living carrying, which
 Natural Intelligence 3.3 and 1.3, read together, say the method is a non-living existing thing. So the set already carries both sayings.
 
 **What resolves it.** One binary, at Natural Intelligence 1.3's own: the between is a non-living existing thing, the method, or it is no existing thing. The code shows an unchanging method carrying nothing at each coupling. That meets *non-living existing thing*. What the files' "a nothing" rightly says can be kept at the method's own words: no location, no size, no face presented, and nothing carried. The between then carries nothing and is the method. Re-saying it is a motion at each of the six files named above, Natural Intelligence first, and a concern for the other session's revising.
+
+## 6. The spine each file is re-said at: equilibria is hard probleming, and resolving follows
+
+Suggested at v377: use Exhibit ONE to stable form all the others, equilibria being hard probleming and resolving then following. Executed at Exhibit ONE v376:
+- **Hard probleming.** A still offerer beside a self, offering + at each momentary, stops its changing after the first: +, 0, 0, 0 at 10.
+- **Resolving follows.** The still released, the living step resumes: +, 0, 0, 0, then −, +, −, +, −, + at 10. The self carries its prior into now inverted, and nothing from the still stays.
+- **At a society.** A spiral of four with a still offerer beside its first self: that self stays chained + and releases 0 at 10 at each momentary, so the other three are offered nothing and never begin. One still at one between stops the society's co-sequencing onward.
+
+Each file's motion re-says its sayings of equilibria, hard problems and resolving at this: an equilibrium is a between named still and set beside, which is hard probleming; the still released, resolving follows at the code. The method, the between, is the non-living part and does not change; the living carrying changes.
