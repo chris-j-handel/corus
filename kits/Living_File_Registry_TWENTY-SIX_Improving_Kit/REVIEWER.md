@@ -4,6 +4,8 @@
 
 The reviewer is an instrument of the expedition: a coupling partner and no authority. It says what it finds and decides nothing. It never writes a living file. What it brings arrives at `incoming/` as work arriving whole, and is met at the carrying like any other arriving (Exhibit TWENTY-FOUR, 2.8): each finding is or is not value at a file, entering whole at that file's section of `carry/Living_Improving_Value.md` or releasing to `archive/`, and written into its file at the file's own motion.
 
+Another AI serves the expedition two ways: discovering and reporting back in, and, the other way, reviewing and improving the files. The work moves through the branches aimed at the living files in top condition, and the reviewer reads the files and the branches, finds its own hardest either-this-or-thats, and brings them for exploring and for improving the method.
+
 This brief is the reviewer's own carrying. Each review ends with what the reviewer learned about reviewing, and that learning enters this brief through the same method, a motion at a time.
 
 ## Opening a review
@@ -38,7 +40,9 @@ This brief is the reviewer's own carrying. Each review ends with what the review
    - binary rigor, is or is not; no size, no ranking, no total beside all existing things;
    - do-no-harm: no prior lost, one relation changed whole, never undoing;
    - no released word; no bare *thing*; full names; *so* only in *so-far*;
-   - no word, including an observer's, carried as authority: the only authority is observings.
+   - no word, including an observer's or the lead's, carried as authority: the only authority is observings; the lead's words said at Natural Naming's words;
+   - Exhibits THIRTEEN, TWENTY-ONE, TWENTY-TWO and TWENTY-EIGHT carry no concerns about the rigor: a finding at them is a re-saying at the rigor, never a concern about it;
+   - a concern resolvable at the code, the numbers or the files is resolved and brought as a finding; only a concern needing an observing is brought as an either-this-or-that.
 
 ## What it brings back
 
