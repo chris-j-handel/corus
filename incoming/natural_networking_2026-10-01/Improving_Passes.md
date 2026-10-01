@@ -46,6 +46,8 @@ A source reading can establish which operation is written. An implementation che
 
 **The concern refined:** follow how the bi-coupling's completing participates as the tri-coupling's waist through the actual joins, and how the local half-momentary crossings continue at both passages. The earlier observation that no outgoing seventeen entry is enumerated remains a source fact; treating it as an instruction to add an output would repeat the tester's departure.
 
+The full naming exploration now distinguishes three-side relations at 9–12, society–other at 13–16 and society–self at 17. Follow the overlapping number form beside the actual source proceeding at fourteen, twelve, ten/eleven, nine and seventeen; the numbered positions are not seventeen runtime instructions. The carrying seam eleven to the same self's next three and the external along nine with seventeen remain distinct.
+
 Begin at the existing relation, keeping the co opening's parity while the tri participation opens. Source naming, inner/outer scaling and executable continuation must meet at the same relation; none alone is a completed new network construction.
 
 ## Continuing the session report

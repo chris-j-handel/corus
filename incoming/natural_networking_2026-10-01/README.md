@@ -27,3 +27,5 @@
 **The way back.** This folder makes the requested duplicate available without replacing a living file or the published kit. The date names this working, not a newly assigned expedition version. Its findings can be received at the files' own carryings; final expedition versioning, the Living File Registry's working row and a whole-file review accompany that later receiving. The incoming index locates this branch's working now.
 
 **Current exploring:** [binary squaring at 1–17](Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.
+
+**Expanded explaining:** the session report now follows every full name from 1 to 17, its opening, its changing relation and the overlapping momentaries. It keeps the named co-sequencing, actual source proceeding and private carrying continuation distinct; the exact binary-squaring operation at the joins remains the next correspondence.

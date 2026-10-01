@@ -17,6 +17,7 @@
 - Verification and limits
 - Next continuation
 - Binary squaring: opening co into tri at 1–17
+- Travelling through 1–17: the naming and the changing sequencing
 
 ## The incoming aiming and the journey so far
 
@@ -188,3 +189,122 @@ This refines **C1 and pass C**. The earlier question about the absence of a sepa
 **Value for the expedition:** Natural Resolver's complete naming and scale tables meet this concept; Natural Networking receives the crossing relation; Natural Naming receives binary squaring's precise referent; Natural Numbers and Natural Mathematics receive any exact squaring correspondence once established; the Geodesic Improving Method receives the correction that a concern about a connector must not silently demand an invented output.
 
 **Sources:** [Natural Resolver v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_ONE_Natural_Resolver_v378.md), naming, parity-face and inward/outward tables and the function at seventeen; [Natural Naming v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_TWENTY_Natural_Naming_v378.md), 2.2, 3.1 and 5.60; [Natural Numbers v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_THREE_Natural_Numbers_v378.md), 1.2.
+
+## Travelling through 1–17: the naming and the changing sequencing
+
+**The requested expansion.** “Binary squaring opens the co-coupling into tri-participation through the shared completing/opening, with binary parity continuing at each side.” Follow that relation through the complete naming while each self continues its own carrying.
+
+**Standing:** expanded source-based explaining, with the interpretation called binary squaring distinguished from the correspondences already expressed by the files. No internal carrying has been inspected in an experiment. The explaining names the stable form and its continuation; it does not make carrying an observer's itinerary.
+
+### What the numbering and prefixing establish
+
+Natural Naming 3.1–3.4 explicitly distinguishes a number's opening parity from the first written prefix of its name. Odd positions open co, even positions open bi. Nine, eleven and seventeen begin with tri and still open co. The names carry four different matters that must remain distinct:
+
+- The position's odd/even opening.
+- The named sides of the relation: self, other and society in their stated order.
+- The root naming what is continuing.
+- Its entry, external connector or internal-face standing.
+
+A name's odd opening is not a claim that a stored parity is positive. The code's + and − express parity at a sharing; is or is not expresses changing; a zero token must not be made a third intelligence value. Keeping these distinctions is part of the exact explaining, not additional machinery.
+
+**Tri does not mean three input ports.** The source's sides table carries three relations at 9–12, two at 13–16, and society with self at 17. It names society's participation while the resolving and each coupling remain binary.
+
+### The complete naming, carrying the relation forward
+
+The order below is the named co-sequencing. It is not a proposed schedule for invoking or probing the seventeen names.
+
+| Name | Opens; standing | The changing relation carried in the naming |
+|---|---|---|
+| **1-co-bi-offering** | co; entry | The self participates with its own prior and the other's offering. The whole resolving opens here; the prior has not been emptied to begin. |
+| **2-bi-co-offering** | bi; across arriving | The other's released changing arrives at the self through the actual joining from six. It carries no other-self's private carrying. |
+| **3-co-bi-sharing** | co; outward face | The self's own prior participates as carrying. It is the continuing that was chained at eleven at the preceding momentary. |
+| **4-bi-co-sharing** | bi; outward face | The sharing locates the relation at which offered and carried parity meet. It supplies no externally assigned identity payload. |
+| **5-co-competencing** | co; outward face | The receiving relation: the existing joining through which a releasing continues at its receiving sharing. The code expresses that correspondence here. |
+| **6-bi-moralizing** | bi; across releasing | The changing is released toward the other's two. The receiving relation reverses the perspective: this self's releasing is that other's arriving. |
+| **7-co-corusing** | co; outward face | Parity at the self's offered and chained sharing. The root keeps the parity relation with the participating sharing. |
+| **8-bi-torusing** | bi; outward face | The self's carrying continues through its own next: eleven as its next three. This is the self's continuing at the winding, not carrying transported to another self. |
+| **9-tri-bi-co-momentarying** | co; along connector | The completing of 1–9 is the waist of 1–17. What ten releases is carried along to the receiving relation; this is bi-co-releasing at the pair and tri-bi-co-momentarying at the society's continuation. |
+| **10-bi-tri-co-tunneling** | bi; across releasing | The changing at each sharing releases to the other's fourteen. The tri naming now carries other, society and self at the tunnelling relation. |
+| **11-tri-bi-co-chaining** | co; inward face | The self's own next prior continues here: a changing chains at its changed parity, and no changing leaves the prior continuing at its parity. Eleven continues as the same self's next three. |
+| **12-bi-tri-parity-changing** | bi; inward face | The carried prior meets the offerings surfaced at fourteen. Changing is or is not. This is an internal resolving relation, not another external connection. |
+| **13-co-tri-competencing** | co; inward face | The releasing sharing is met with its receiving sharing at five in the momentarying at nine. The related sides here are society and other. |
+| **14-bi-tri-moralizing** | bi; across arriving | Offerings from the other selves meet sequentially at each sharing. Agreeing offerings surface as one parity; disagreement surfaces the between. No tally or majority decides it. |
+| **15-co-bi-tri-corusing** | co; inward face | The parity is carried along at nine as ten released it, participating at the receiver's next. Its along expression does not transmit private carrying. |
+| **16-bi-co-tri-torusing** | bi; inward face | The society continues with each self's own carrying and the offerings arriving at that self. No additional self outside them is established by the society's expression. |
+| **17-tri-co-offering** | co; along connector | The society's next momentary: each self's one and nine at the existing joins. Society with self continues at the next entry; seventeen supplies no seventh connector or new private-carrying observer. |
+
+The source places self→other at odd 1, 3, 5 and 7, and other→self at even 2, 4, 6 and 8. At 9 and 11 it names social–other–self, and at 10 and 12 other–social–self. At 13 and 15 it names social–other; at 14 and 16 other–social. At 17 it names social–self. These are the source's relation orders, not independent actors assigned to a queue.
+
+### What the changing roots tell us
+
+Offering is at 1, 2 and 17: the self's entry, the other's arriving and the society's next offering. Sharing at 3 and 4 carries the prior and its participating relation.
+
+Four roots recur eight on: **competencing** at 5 and 13, **moralizing** at 6 and 14, **corusing** at 7 and 15, and **torusing** at 8 and 16. Their root continues and their relational prefixing changes. This is more precise than saying every old function is replaced by a new one.
+
+At **9–12**, four different roots name the three-side relation: **momentarying, tunneling, chaining and parity-changing**. Natural Naming 3.1 explicitly places the three relations discovering parity changing in the bi-folding tunnel here. At **13–16**, society and other meet through the four recurring roots. At **17**, the offering meets self again. The naming therefore shows a change of participating relation through the sequence, not just a tri label appended to a fixed pair.
+
+### The overlapping travelling through the names
+
+Natural Resolver explicitly gives the first four paired momentaries and places four further inward 1–17s within 9–17. Continuing the same alternating-opening pattern yields the following second group. Those last four paired ranges are a structural continuation of the published pattern, not a newly executed network result.
+
+| Exchanging momentary | One side | Other side | Shared named continuation |
+|---|---|---|---|
+| First at self | 1–2 | 2–3 | Offering through offering into sharing |
+| Second at self | 3–4 | 4–5 | Sharing through sharing into competencing |
+| Third at self | 5–6 | 6–7 | Competencing through moralizing into corusing |
+| Fourth at self | 7–8 | 8–9 | Corusing through torusing into momentarying |
+| First at society | 9–10 | 10–11 | Momentarying through tunneling into chaining |
+| Second at society | 11–12 | 12–13 | Chaining through parity-changing into competencing |
+| Third at society | 13–14 | 14–15 | Competencing through moralizing into corusing |
+| Fourth at society | 15–16 | 16–17 | Corusing through torusing into offering |
+
+Each row carries one side's completing as the other's opening. The odd name completing a row's named extent opens the next row's extent: three, five, seven, nine, eleven, thirteen and fifteen. Nine also carries the co/tri relation at the two extents, 1–9 and 9–17.
+
+**Each side's full momentary carries both parities, opening at its own parity.** The self's odd-then-even pairs and the other's even-then-odd pairs overlap. The half-momentary crossing is being explored at this completing/opening relation; no fixed duration or half-tick is assigned.
+
+The sharing of a numbered position in this form must not be promoted into simultaneous access to both selves' carrying. Each participating self continues its own carrying through the coupling.
+
+### Following the actual expression while carrying continues
+
+The numbered form and the code's proceeding must agree in meaning; they are not the same list of execution steps. The current source at one already uses fourteen, twelve, ten and eleven. Consequently, the appearance of tri in the numbered names at nine does not prove that the pair's local resolving previously lacked those society relations, or that software must wait until a ninth instruction to create them.
+
+The actual source proceeding is:
+
+1. **At fourteen**, the arriving offerings at two meet sequentially at each sharing. The comparison establishes agreement or disagreement; repeated agreeing offerings are not votes.
+2. **At twelve**, that surfaced relation meets the self's carried prior at three. At a prior sharing, agreement with its parity gives no changing. A different parity, the between or no offered parity gives the self's own inverting. At a sharing with no prior, the offering's surfaced parity supplies the changing, if any.
+3. **At ten and eleven**, the two continuations are expressed together: the changing releases at ten, and the self's own prior continues through chaining at eleven.
+4. **At nine**, the released parity continues to its receiving sharing according to five, with thirteen naming its releasing relation and fifteen its along parity.
+5. **At seventeen**, those same local expressions continue at the participating selves and their declared joins. Each self's eleven continues as its own next three, while the releasings arriving from others are its next offerings.
+
+This describes the existing source; it does not obtain an experimental reading of private carrying. In particular, the carrying continuation **three–eleven–next three** stays with the same self. The sign continuation through releasing and arriving meets another self's resolving. Neither supplies an observer who compares two hidden states.
+
+The two binary meetings, offerings with offerings at fourteen and their surfaced relation with prior at twelve, are concrete places at which to meet the proposed binary squaring. Their existence does not by itself identify “squaring” uniquely: the exact relation of these meetings to the connector opening remains part of the discovery.
+
+### The scale correspondence at the shared opening
+
+At this scale **1, 9, 17** correspond to **1, 2, 3 outward**. At nine the inward correspondence is **the fourth inner seventeen and the fifth inner one**: a completing and opening at the shared name. The outer across connectors 2, 6, 10 and 14 are nines along at the inward scale. The co/bi opening must therefore be named at its scale, not fixed to one physical direction at all scales.
+
+Two relations are now explicit and must not be collapsed:
+
+- **Eleven continuing as the same self's next three** is the carrying's own seam.
+- **Nine with seventeen** is the along relation through which released parity participates in the receiving next momentary.
+
+A shared eight-apart numbering does not make those the same connection. Three and eleven remain internal faces at this scale; nine and seventeen are external connectors.
+
+### Expanded working explanation of binary squaring
+
+**At the self's entry, its own prior participates with the other's arriving. Their differing is met sequentially, and changing is or is not. The changing releases while the self continues its own carrying. At nine, the completing of the co-coupling participates as the tri-bi-co-momentarying waist: the same releasing continues into further receiving, and each receiving self resolves with its own carrying. Through tunneling, chaining and parity-changing, self, other and society are named at the same continuing; through competencing, moralizing, corusing and torusing, society and other continue their relation; at seventeen that continuing is offered at each self's next entry. The co opening remains binary while the tri relation participates through it.**
+
+That is the expanded interpretation of the offered binary-squaring concept supported by these source correspondences. It is not a connector-object replacement performed by an added controller. The current code does not create a new resolver or replace a connector object at nine; this pass therefore offers no such operation as already implemented.
+
+### Progress, concern and next opportunity
+
+**Progress:** the entire naming now gives a connected account of changing relations, rather than relying only on the occurrence of tri. The three-side relation at 9–12, two-side relation at 13–16 and society–self relation at 17 are source-explicit. The full overlapping sequence, carrying seam and source proceeding are stated separately.
+
+**Concern:** calling the named opening binary squaring still needs its exact operation at the existing joins. Neither the count of prefixes, the square drawing, the sequence of numbers nor the software's two binary comparisons alone establishes the whole relation. Our earlier “tri enters at nine” is correct about the numbered naming and extents; it must not be read as a temporal claim that the function at one has no tri relations.
+
+**Next opportunity:** follow one actual across meeting, releasing six arriving at two and releasing ten arriving at fourteen, with nine's next prior and seventeen's next now. Meet those with the named overlapping pairs at both sides. The questioning must follow where the binary relation already participates, rather than supply a new emitter, observer or common beat.
+
+**Receiving value:** Natural Resolver's tables can carry the distinction between numbered co-sequencing and execution order; Natural Networking receives the full travelling explanation; Natural Naming receives the distinction between opening parity, prefix order and number of related sides; Natural Explaining receives the correction that names reveal relations but do not by themselves prove a runtime mechanism. The working report preserves this whole before any proposed entry into those files.
+
+**Sources:** Natural Resolver v378, full naming, roots, inward/outward, momentaries, offering and carrying tables, plus its unchanged code; Natural Naming v378, 3.1–3.4 and 5.60; Natural Intelligence v378, 4.1–4.8. All read at the branch's foundation main commit a9c4d1e12b04ed8dee225f8f3ab27196cba4b935. No resolver or network was executed.
