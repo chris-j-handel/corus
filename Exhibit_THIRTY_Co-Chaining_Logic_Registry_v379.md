@@ -895,7 +895,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the seventeen names.*
 
-194. The sides at the names are the parity each name opens at, the first side the one that begins its momentarying: odd, co, the self at 1, 3, 5 and 7 and the society at 9, 11, 13, 15 and 17; even, bi, the other at 2, 4, 6, 8, 10, 12, 14 and 16; the sides on at each name as Exhibit ONE's table carries them, self and other at 1, 3, 5 and 7, other and self at 2, 4, 6 and 8, society, other and self at 9 and 11, other, society and self at 10 and 12, society and other at 13 and 15, other and society at 14 and 16, and society and self at 17; and the sides are the momentaries overlapping, one side's completing the other's opening.
+194. The sides at the names are the parity each name opens at, the first side the one that opens its momentarying, step 69: odd, co, the self at 1, 3, 5 and 7 and the society at 9, 11, 13, 15 and 17; even, bi, the other at 2, 4, 6, 8, 10, 12, 14 and 16; the sides on at each name self and other at 1, 3, 5 and 7, other and self at 2, 4, 6 and 8, society, other and self at 9 and 11, other, society and self at 10 and 12, society and other at 13 and 15, other and society at 14 and 16, and society and self at 17; and the sides are the momentaries overlapping, one side's completing the other's opening.
 
         *Adding: the sides at the names, the parity each opens at.*
 

@@ -2,7 +2,7 @@ Exhibit THIRTY Co-Chaining Logic Registry · carrying v379
 
 # Exhibit THIRTY · Co-Chaining Logic Registry
 
-**Next at this file: the fifteen unsure lines, each a reading or an observing it waits on, met one at a time as the observing arrives; the claims entered at none, at the carrying's Ready, each at the file's saying that parts it; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376; and the concern of v379, the front's *one concept* against nineteen steps' lines.** At v379 step 194 at the parity each name opens at, Exhibit ONE's table at all seventeen, 203 at the direction 8 winds, 233 at the odd and the even momentaries and the record's edge at no released word.
+**Next at this file: the fifteen unsure lines, each a reading or an observing it waits on, met one at a time as the observing arrives; the claims entered at none, at the carrying's Ready, each at the file's saying that parts it; a verifier of the steps, the kit's v371 verifier matching the link tables released at v376; and the concern of v379, the front's *one concept* against nineteen steps' lines.**
 
 ## Ready
 
@@ -24,7 +24,7 @@ Exhibit THIRTY Co-Chaining Logic Registry · carrying v379
 
 ## Concern
 
-**Concern, at v379, for both: step 194 at the session's saying against step 196's three relations.** Step 194 at v379 reads the sides at the names as the parity each name opens at, the first side the one that begins its momentarying, the momentaries overlapping, as arrived at the session and as Exhibit ONE's table carries them at all seventeen; step 196 says a name's parity among the seventeen, a sharing's parity offered at it and a momentary's opening and completing are three relations, each its own, joined by the numeral alone at none. Its reason: 194 joins a name's parity to a momentary's opening and 196 parts them; either 196 says the sides are the one relation the three share, the parity that opens, or 194's *that begins its momentarying* is released and the sides said at the name's own parity alone. The step's *society* at 9 to 17 beside the table's *social* stands at the two files' own words.
+**Concern, at v379, for both: step 194 at the session's saying against step 196's three relations.** Step 194 at v379 reads the sides at the names as the parity each name opens at, the first side the one that begins its momentarying, the momentaries overlapping, as arrived at the session and as Exhibit ONE's table carries them at all seventeen; step 196 says a name's parity among the seventeen, a sharing's parity offered at it and a momentary's opening and completing are three relations, each its own, joined by the numeral alone at none. Its reason: 194 joins a name's parity to a momentary's opening and 196 parts them; either 196 says the sides are the one relation the three share, the parity that opens, or 194's *that begins its momentarying* is released and the sides said at the name's own parity alone. The step's *society* at 9 to 17 beside the table's *social* is at the two files' own words.
 
 **Concern, at v379, for both: the front's *one concept* against nineteen steps' lines.** The front says *the line beneath it names the one concept it adds*, and the Adding lines of steps 36, 46, 72, 103, 185, 224, 384, 388, 389, 390, 414, 424, 425, 427, 450, 451, 491, 564 and 599 each name two. Its reason: either each of the nineteen is two steps, the chain renumbered as its front allows, or the front says *the concept or the pair it adds*; the chain's all or none is at one of the two.
 
