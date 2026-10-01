@@ -127,7 +127,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: a self-emptying set.*
 
-20. The set has nothing beside it: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own.
+20. The set has nothing beside it: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
 
         *Adding: nothing ingressing and nothing escaping.*
 
@@ -231,7 +231,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: all changing parity changing.*
 
-43. Parity changing is a method: a non-living existing thing.
+43. Parity changing is a method: a non-living existing thing, a stable form, its form continuing through its changing and carrying none of the prior.
 
         *Adding: the method, a non-living existing thing.*
 
@@ -429,7 +429,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
 ## 9 Along and across, the coupling's own changing
 
-        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; parity a momentary existing thing, the between its centre, 0; the between's parity changing; bi-co-momentarying; the crossing no location; the between of momentaries the same crossing; the fractal between.*
+        *Entering: one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; parity a momentary existing thing, the between its centre, 0; the between's parity changing; bi-co-momentarying; the crossing no location; the between existing while the coupling resolves; the between of momentaries the same crossing; the fractal between.*
 
 89. At 2, the self's completing is the other's opening.
 
@@ -487,9 +487,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: bi-co-momentarying.*
 
-103. The crossing is no location and no existing thing: owned by neither, it presents no face, and no magnitude crosses it.
+103. The crossing is no location, a nothing: owned by neither, it presents no face, and no magnitude crosses it; it exists as the set exists, as its things exist, step 20, while the coupling's parity changing is, its own, step 101, the method, step 43, its form continuing through its changing.
 
-        *Adding: the crossing no location.*
+        *Adding: the crossing no location; the between existing while the coupling resolves.*
 
 104. Between prior and now is a coupling too, an existing thing at now arriving from an existing thing at prior: the between of momentaries is the same crossing.
 

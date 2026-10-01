@@ -192,7 +192,7 @@ Exhibit FOUR Natural Mathematics v378
 
 **A declared zero is a fixed set taken as a place**: x = −x at nought alone. An involution is a floor with its move stated, and a floor is an involution with its move dropped. A nought at a difference is no floor: 1, 3, 5 changes by two at each step, its change of change nought, and runs on.
 
-**A running never involutes**: it re-forms at the next coupling other than prior, and the right spiral step taken twice is both inverted at one step, two momentaries on, never back. An involution is an accounting's still picture, its nexts taken out.
+**A running never involutes**: it re-forms at the next coupling other than prior, and the right spiral step taken twice is both inverted at one step, two momentaries on, never back. An involution is an accounting's still picture, its nexts taken out. **The doubled angle is such a still picture at the observings**: light through two polarizers passes at the square of the cosine of the angle between them, which is one in two of one and the cosine of the angle doubled, and passes as before at a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home at seven hundred twenty alone; light's home at one hundred eighty, the angle doubled, and the spin's at seven hundred twenty, the period doubled, two rotatings met at one between, each a doubling the other way, the doubling an emanation, existing and non-living (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
 
 ## 3.2 Fixed-point-free, and the two involutions of an even ring
 
@@ -324,7 +324,7 @@ Exhibit FOUR Natural Mathematics v378
 
 ## 5.2 Five-dimensional, two-directional, unrelationing
 
-**Self-cohering is five-dimensional at a side's five, 1 to 5**: self, not-self, next, surfacing and offering self, its centre at 3 the floating third owned by neither, each dimension binary in its two directions and two changing and three not at each momentary. **Two-directional** at the odd and the even, the two directions of one alternating. **Unrelationing** at the right angle, each projecting into the other as nought, at φ, the unrelationing rate. Five to cohere and six to run: three sayings of one form, and no other possible.
+**Self-cohering is five-dimensional at a side's five, 1 to 5**: 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now and 5 self next, its centre at 3 the floating third owned by neither, each dimension binary in its two directions and two changing and three continuing at each momentary. **Two-directional** at the odd and the even, the two directions of one alternating. **Unrelationing** at the right angle, each projecting into the other as nought, at φ, the unrelationing rate. Five to cohere and six to run: three sayings of one form, and no other possible.
 
 ## 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
