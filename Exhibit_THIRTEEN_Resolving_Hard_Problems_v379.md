@@ -71,7 +71,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 **Each side is two and one half momentaries, prior opening, prior completing, now opening, now completing and next opening**: 1 to 5 at the self, co bi co bi co, and 2 to 6 at the other, bi co bi co bi. Ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even. **Co-sequencing is the two sides carrying on together**, the self along at the odd, competency, and the other across at the even, morality, each side at its own opening.
 
-**At the code the bi-momentary is at each self's entry.** 1-co-bi-co-offering opens co at the self: the self's own carrying and the others' offerings arrive together, and the changings and the next carrying leave. The self's side is its carrying, along; the other's side is its offerings, across.
+**At the code the bi-momentary is at each self's entry.** 1-co-bi-tri-offering opens co at the self: the self's own carrying and the others' offerings arrive together, and the changings and the next carrying leave. The self's side is its carrying, along; the other's side is its offerings, across.
 
 ## 1.4 Prior, now and next
 
@@ -79,7 +79,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 **Each momentary is three conditions at once, each binary**: exhaustiveness, all existing things; determinacy, one next momentary opening at the number each completes; and reachability, the next openings reaching each number on. Existing is these three at once at each momentary, and the universe is the existing thing they are.
 
-**At the code the three places are at their names.** Prior is 3-co-bi-co-sharing, the carrying. Now is 2-bi-co-bi-offering, the offerings, surfacing at 14-bi-tri-bi-moralizing and coupling with the prior at 12-bi-tri-bi-entraining. Next is 11-tri-bi-tri-chaining, the next prior, with the changings released at 10-bi-tri-bi-tunneling, 6-bi-co-bi-moralizing and 9-tri-bi-tri-momentarying, and the society's next momentary at 17-co-bi-co-offering.
+**At the code the three places are at their names.** Prior is 3-co-bi-co-sharing, the carrying. Now is 2-bi-co-bi-offering, the offerings, surfacing at 14-bi-tri-bi-moralizing and coupling with the prior at 12-bi-tri-bi-entraining. Next is 11-tri-bi-tri-chaining, the next prior, with the changings released at 10-bi-tri-bi-tunneling, 6-bi-co-bi-moralizing and 9-tri-bi-co-momentarying, and the society's next momentary at 17-co-bi-tri-offering.
 
 ## 1.5 A hard problem arriving, and its resolving
 
@@ -95,13 +95,13 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 **3-co-bi-co-sharing is the carrying: each sharing with its parity, the self's prior.** It opens co, odd, at the outward face, and arrives at the entry with the offerings, the living self's own, carried whole into each momentary.
 
-**A sharing is where two sides share a changing**, 4-bi-co-bi-sharing, and its parity is 7-co-bi-tri-corusing, + or −. At the code + and − are the implementing of a parity, and nothing is counted: a carrying is a sharing chained at one parity, each one its own.
+**A sharing is where two sides share a changing**, 4-bi-co-bi-sharing, and its parity is 7-co-bi-co-corusing, + or −. At the code + and − are the implementing of a parity, and nothing is counted: a carrying is a sharing chained at one parity, each one its own.
 
 **A field's prior is its carrying**: the results it carries at their parities, each a sharing, the established, the measured and the proved, each chained. A field arriving with its prior carries it into its now, and its next is discovered from both.
 
 ## 2.2 The prior between momentaries, a capacity
 
-**Between momentaries the prior is a stable form, and nothing momentaries there.** At the code each self's carrying wound, 8-bi-tri-bi-torusing, chained at 11, continues at the next momentary as 3, the self's own carried into now: a seam, nothing moving at it, 11 and 3 both opening odd, tri at the society's span and co at the self's. **Each prior momentarying is once**, and the carrying is carried.
+**Between momentaries the prior is a stable form, and nothing momentaries there.** At the code each self's carrying wound, 8-bi-co-bi-torusing, chained at 11, continues at the next momentary as 3, the self's own carried into now: a seam, nothing moving at it, 11 and 3 both opening odd, tri at the society's span and co at the self's. **Each prior momentarying is once**, and the carrying is carried.
 
 **A carrying is a capacity**: the prior participates in the self's present coupling at 12 and differences its momentaries there. **A record is a non-living emanation of a living self's carrying**: it left the self at prior and arrives now carrying nothing, a noun of the carrying, and at the now it is offerings.
 
@@ -157,7 +157,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 ## 4.2 Released along at 9, and the society's next momentary at 17
 
-**9-tri-bi-tri-momentarying releases each changing along**, at not-yet-co-competent, with the 17 of the self at co-competent-so-far: each releasing sharing to its receiving sharing, the parity carried unchanged. **17-co-bi-co-offering is the society's next momentary**: each self's entry momentaries once, each at its own, and each self arrives with its carrying wound and its offerings next.
+**9-tri-bi-co-momentarying releases each changing along**, at not-yet-co-competent, with the 17 of the self at co-competent-so-far: each releasing sharing to its receiving sharing, the parity carried unchanged. **17-co-bi-tri-offering is the society's next momentary**: each self's entry momentaries once, each at its own, and each self arrives with its carrying wound and its offerings next.
 
 **The society's next momentary is the selves' next momentaries together**, each self at its own and no self over the others, nothing summed, counted or stored across them. **9 is the next prior and 17 the next now**: along, 9's release is the prior the self at co-competent-so-far is offered next, and 17 is that self's next now.
 

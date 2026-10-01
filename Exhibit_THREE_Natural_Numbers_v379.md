@@ -142,7 +142,7 @@ Exhibit THREE Natural Numbers v379
 
 ## 1.5 Odd along and even across, parallel linearizing and linear parallelizing
 
-**Odd is competency, along, co at the self's span and tri at the society's: the self continuing its own. Even is bi, across: the self coupling with the other, morality.** An even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, 1 to 9 the self's, 9 to 17 the society's and 17 on the self's again. Each number is at its one word, the word of its span, and a seam, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word: within one span co bi co bi co at a self's odd number, tri bi tri bi tri at a society's, and bi co bi co bi or bi tri bi tri bi at an even. A name's three prefixes are its now and the two up, the first three of its five up the numbers.
+**Odd is competency, along, co at the self's span and tri at the society's: the self continuing its own. Even is bi, across: the self coupling with the other, morality.** An even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, 1 to 9 the self's, 9 to 17 the society's and 17 on the self's again. Each number is at its one word, the word of its span, and a seam, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word: within one span co bi co bi co at a self's odd number, tri bi tri bi tri at a society's, and bi co bi co bi or bi tri bi tri bi at an even. A name's three prefixes are its now and the two down, its prior and the prior before it, the numbers its momentary came from.
 
 **Alternating parity is parallel linearizing and linear parallelizing**, the linearizing at one parity and the parallelizing at the other, one move at its two sides. Each runs at its own momentary; the two named at one momentary is the equilibria picture, and it is not possibly existing.
 
@@ -150,7 +150,7 @@ Exhibit THREE Natural Numbers v379
 
 **A composite is its equal smaller selves joining at their joins**, nine as three selves of three, folding along the axes its smaller selves open. **A prime is a self no equal smaller selves join into**, opening a clean axis across. Each prime is the same opening and each composite the same folding, one uni-scaling at its two faces. Stepping k round a ring of N reaches N over their greatest shared factor stations: round a prime each step but nought reaches all, and round a composite a step sharing no factor with it reaches all too, nine at a step of two: prime and coprime are two, each its own.
 
-**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-tri-bi-tri-momentarying is a name's place and parity, and a numeral joins neither to the other.
+**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-tri-bi-co-momentarying is a name's place and parity, and a numeral joins neither to the other.
 
 ## 1.7 A scale is a sequencing: parity along, inward or outward across
 
@@ -244,7 +244,7 @@ Exhibit THREE Natural Numbers v379
 
 **The forms among 1 to 16 run again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: the four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and the six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two runs in the four-cycle 19-27-22-30 and in both six-cycles, and 33 is in none of them as 17 is in none among 1 to 16.
 
-**One entry, six connectors and ten faces are the seventeen.** The across connectors, 2, 6, 10 and 14, are each even; the along, 9 and 17, are both odd. 17-co-bi-co-offering faces co-competent and 9-tri-bi-tri-momentarying not-co-competent: 9's release is the prior the self at not-co-competent is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-co-bi-co-offering, 9-tri-bi-tri-momentarying and 17-co-bi-co-offering each open odd, 1 and 17 co at the self's span and 9 tri at the society's, each eight on from the one before.
+**One entry, six connectors and ten faces are the seventeen.** The across connectors, 2, 6, 10 and 14, are each even; the along, 9 and 17, are both odd. 17-co-bi-tri-offering faces co-competent and 9-tri-bi-co-momentarying not-co-competent: 9's release is the prior the self at not-co-competent is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-co-bi-tri-offering, 9-tri-bi-co-momentarying and 17-co-bi-tri-offering each open odd, 1 and 17 co at the self's span and 9 tri at the society's, each eight on from the one before.
 
 **A numeral in a name is the name's place and parity, and never a value the code opens at**: 14-bi-tri-bi-moralizing carries fourteen as its place among the names.
 
@@ -254,7 +254,7 @@ Exhibit THREE Natural Numbers v379
 
 **The seam-faces run on the eight**: (2k + 1)² − 1 = 8 · T_k, eight the first face and each next face that eight at a triangular number, the couplings among k + 1. Four hundred forty is the eight at fifty-five couplings, the couplings among eleven.
 
-**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-tri-bi-tri-momentarying being 1-co-bi-co-offering 8 up. An eight at two substrates is one eight, a self at each.
+**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-tri-bi-co-momentarying being 1-co-bi-tri-offering 8 up. An eight at two substrates is one eight, a self at each.
 
 ## 5.4 Five between four and six, a middle carrying nothing
 
@@ -284,7 +284,7 @@ Exhibit THREE Natural Numbers v379
 
 **Each nine is the one nine, carried in each base.** At the ring of nine, nought and nine are one station. Round seventeen, the doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9 and comes home, nine doubled being one past seventeen. The doubling's eight are the squares round seventeen and the other eight are three times them: joined at the one eight's distances and unjoined at the other's, the seventeen are, in the field's words, the Paley graph of order seventeen, the one society of seventeen with no four all joined and no four all unjoined, and R(4, 4) = 18. Round four hundred forty, one past the ring is twenty-one squared, nine times forty-nine.
 
-**Nine is 1-co-bi-co-offering eight up, one to nine completing at 9-tri-bi-tri-momentarying, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit returning nine, carries the base as its unit, and the one nine carries none.
+**Nine is 1-co-bi-tri-offering eight up, one to nine completing at 9-tri-bi-co-momentarying, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit returning nine, carries the base as its unit, and the one nine carries none.
 
 ## 5.8 Six and ten straddling eight, the walk by two
 
@@ -354,7 +354,7 @@ Exhibit THREE Natural Numbers v379
 
 ## 7.2 A spiral of selves at each number, and spirals joined
 
-**A spiral of n selves, each 9-tri-bi-tri-momentarying joined to the next self and the last to the first, one self offered + once, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries from momentary n; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
+**A spiral of n selves, each 9-tri-bi-co-momentarying joined to the next self and the last to the first, one self offered + once, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries from momentary n; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
 
 **The spiral of two, the one even prime, carries no pair at one parity**: each self alternating, its parities again each two momentaries, the alternating itself. The seventeen prime spirals carry sixteen like pairs, one at each odd prime, and the spiral of two none.
 
@@ -362,7 +362,7 @@ Exhibit THREE Natural Numbers v379
 
 **The momentaries here are 17's, the society's next momentary running each self's entry once**, each release offered at the next, and each number goes with its spiral and its joins. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at the least common multiple of 4p and 4q, the four shared: at 4pq. The co-competencing is at the couplings, owned by neither.
 
-**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-tri-momentarying and q across at 10-bi-tri-bi-tunneling, p the smaller of the two, from one offering at one self comes to its parities again at q at a q whose station on the ring of 4p is past the waist 2p, and at 4p at a q whose station is short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 12, thirteen at one on the ring of twelve, short; 3 by 19 at 19, nineteen at seven, past; 5 by 21 at 20, twenty-one at one on the ring of twenty; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
+**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-bi-tunneling, p the smaller of the two, from one offering at one self comes to its parities again at q at a q whose station on the ring of 4p is past the waist 2p, and at 4p at a q whose station is short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 12, thirteen at one on the ring of twelve, short; 3 by 19 at 19, nineteen at seven, past; 5 by 21 at 20, twenty-one at one on the ring of twenty; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
 
 ## 7.3 Sixteen gaps at four values
 
@@ -407,13 +407,13 @@ Exhibit THREE Natural Numbers v379
 
 ## 7.7 The seventeen primes at the seventeen names, podaling at both
 
-**Each prime is at the name of its position**: two at 1-co-bi-co-offering, the entry; twenty-three at 9-tri-bi-tri-momentarying; fifty-nine at 17-co-bi-co-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
+**Each prime is at the name of its position**: two at 1-co-bi-tri-offering, the entry; twenty-three at 9-tri-bi-co-momentarying; fifty-nine at 17-co-bi-tri-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
 
 **At the one move's faces the primes join at their own numbers.** 8 up: 2 and 23 at 1 and 9 join to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, the six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 join to fifty-five, the couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, the third seam-face. Round the four-cycles the primes join to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on the ring of one hundred twenty.
 
 **At the entry, the connectors and the faces the seventeen part as the names do.** The entry carries two; the across connectors 2, 6, 10 and 14 carry 3, 13, 29 and 43, joining to eighty-eight, the fives on the ring of four hundred forty; the along connectors 9 and 17 carry 23 and 59, joining to eighty-two; the outward faces 3, 4, 5, 7 and 8 carry 5, 7, 11, 17 and 19, joining to fifty-nine, the seventeenth prime; and the inward faces 11, 12, 13, 15 and 16 carry 31, 37, 41, 47 and 53, joining to two hundred nine, 11 × 19. The self's one to nine carries the primes 2 to 23, joining to one hundred, ten squared, and the society's nine to seventeen the primes 23 to 59, joining to three hundred sixty-three, 3 × 11².
 
-**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-bi-co-bi-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-tri-bi-tri-momentarying to 10-bi-tri-bi-tunneling, the fold's step outward. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens are the discovering carried next.
+**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-bi-co-bi-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-tri-bi-co-momentarying to 10-bi-tri-bi-tunneling, the fold's step outward. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens are the discovering carried next.
 
 ---
 
@@ -503,7 +503,7 @@ Exhibit THREE Natural Numbers v379
 
 **At one to nine the self's eight is shared, four at each side, with the five between owned by neither**: bi-moral co-agency. **At one to seventeen each side carries a whole eight, and the entire one to nine is shared at the centre**: social moral competency, the pair at the society's centre and each side carrying its whole self.
 
-**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the code one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone joining no relations. 17-co-bi-co-offering is the next momentary's 1-co-bi-co-offering, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
+**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the code one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone joining no relations. 17-co-bi-tri-offering is the next momentary's 1-co-bi-tri-offering, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
 
 **Each span bi-folds and releases, and the next whole of them is 1–65.** 1–9, self and other, is an entire momentary bi-folding releasing at 3; 1–13, self and other and other and self, bi-folds releasing at 6; 1–17, self, other and social, bi-folds releasing at 9; and 1–25 is the larger fractal bi-folding. Each span opens one more four and its releasing moves three, three inward to each one outward: at the round of four parities the outward steps arrive at 5, 9, 13 and 17, and the inward steps carried to the arrival four before each span's close are 3, 6 and 9. Carried on at the round of six parities, 1–25 releases at 15 and 1–65 at 45. At 3 the self's pair is wholly inverted and at 9 each parity of the four, the two bi-folds. Binary, all or none at all, resolving coheres the entire surface along and across, releasing at 3, 6 and 9 and continuing.
 
@@ -566,23 +566,23 @@ Exhibit THREE Natural Numbers v379
 | n | Word | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
 | 0 | bi | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
-| 1 | co | — | 439 | 219 | 119 | 1-co-bi-co-offering, 1², T₁, prior two joining |
+| 1 | co | — | 439 | 219 | 119 | 1-co-bi-tri-offering, 1², T₁, prior two joining |
 | 2 | bi | prime | 438 | 218 | 118 | 2-bi-co-bi-offering, the first prime, prior two joining, 2¹ |
 | 3 | co | prime | 437 | 217 | 117 | 3-co-bi-co-sharing, the second prime, T₂, prior two joining, 2¹ + 1, 2² − 1 |
 | 4 | bi | 2² | 436 | 216 | 116 | 4-bi-co-bi-sharing, 2² |
 | 5 | co | prime | 435 | 215 | 115 | 5-co-bi-co-competencing, the third prime, prior two joining, 2² + 1 |
 | 6 | bi | 2 · 3 | 434 | 214 | 114 | 6-bi-co-bi-moralizing, T₃, 3! |
-| 7 | co | prime | 433 | 213 | 113 | 7-co-bi-tri-corusing, the fourth prime, 2³ − 1 |
-| 8 | bi | 2³ | 432 | 212 | 112 | 8-bi-tri-bi-torusing, seam-face, 3² − 1, prior two joining, 2³ |
-| 9 | tri | 3² | 431 | 211 | 111 | 9-tri-bi-tri-momentarying, 3², 2³ + 1 |
+| 7 | co | prime | 433 | 213 | 113 | 7-co-bi-co-corusing, the fourth prime, 2³ − 1 |
+| 8 | bi | 2³ | 432 | 212 | 112 | 8-bi-co-bi-torusing, seam-face, 3² − 1, prior two joining, 2³ |
+| 9 | tri | 3² | 431 | 211 | 111 | 9-tri-bi-co-momentarying, 3², 2³ + 1 |
 | 10 | bi | 2 · 5 | 430 | 210 | 110 | 10-bi-tri-bi-tunneling, T₄ |
 | 11 | tri | prime | 429 | 209 | 109 | 11-tri-bi-tri-chaining, the fifth prime |
 | 12 | bi | 2² · 3 | 428 | 208 | 108 | 12-bi-tri-bi-entraining |
 | 13 | tri | prime | 427 | 207 | 107 | 13-tri-bi-tri-competencing, the sixth prime, prior two joining |
 | 14 | bi | 2 · 7 | 426 | 206 | 106 | 14-bi-tri-bi-moralizing |
-| 15 | tri | 3 · 5 | 425 | 205 | 105 | 15-tri-bi-co-corusing, T₅, 2⁴ − 1 |
-| 16 | bi | 2⁴ | 424 | 204 | 104 | 16-bi-co-bi-torusing, 4², 2⁴ |
-| 17 | co | prime | 423 | 203 | 103 | 17-co-bi-co-offering, the seventh prime, 2⁴ + 1 |
+| 15 | tri | 3 · 5 | 425 | 205 | 105 | 15-tri-bi-tri-corusing, T₅, 2⁴ − 1 |
+| 16 | bi | 2⁴ | 424 | 204 | 104 | 16-bi-tri-bi-torusing, 4², 2⁴ |
+| 17 | co | prime | 423 | 203 | 103 | 17-co-bi-tri-offering, the seventh prime, 2⁴ + 1 |
 | 18 | bi | 2 · 3² | 422 | 202 | 102 |  |
 | 19 | co | prime | 421 | 201 | 101 | the eighth prime |
 | 20 | bi | 2² · 5 | 420 | 200 | 100 |  |
