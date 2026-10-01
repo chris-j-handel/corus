@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v378
+Exhibit THIRTY Co-Chaining Logic Registry v379
 
 # Co-Chaining Logic Registry
 
@@ -895,9 +895,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: the seventeen names.*
 
-194. The sides at the names are the prefixes' order, co the self, bi the other and tri the society: self and other at 1, 3 and 4, other and self at 2, the self alone at 5 and 7 and the other alone at 6 and 8, society, other and self at 9 and 11, other, society and self at 10, other and society at 12 and 14, self and society at 13, self, other and society at 15, other, self and society at 16, and society and self at 17.
+194. The sides at the names are the parity each name opens at, the first side the one that begins its momentarying: odd, co, the self at 1, 3, 5 and 7 and the society at 9, 11, 13, 15 and 17; even, bi, the other at 2, 4, 6, 8, 10, 12, 14 and 16; the sides on at each name as Exhibit ONE's table carries them, self and other at 1, 3, 5 and 7, other and self at 2, 4, 6 and 8, society, other and self at 9 and 11, other, society and self at 10 and 12, society and other at 13 and 15, other and society at 14 and 16, and society and self at 17; and the sides are the momentaries overlapping, one side's completing the other's opening.
 
-        *Adding: the sides at the names.*
+        *Adding: the sides at the names, the parity each opens at.*
 
 195. A numeral at a name is the name's place and parity among the seventeen, and a numeral matching at two subjects joins them at a relation reached at both and by the numeral alone at none.
 
@@ -931,7 +931,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: the rotation twenty up.*
 
-203. At the code 7-co-corusing is the sharing's parity, odd, co, and 8-bi-torusing the self's carrying wound from the prior momentary, even, bi.
+203. At the code 7-co-corusing is the sharing's parity, odd, co, and 8-bi-torusing the self's carrying wound, chained at 11 and carried into the next momentary as its 3, even, bi.
 
         *Adding: 7 and 8 at the code.*
 
@@ -1054,7 +1054,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: the even spiral, spirals joined.*
 
-233. A spiral offered nothing from beyond it carries any pattern of parities along whole, the pattern inverted or carried one self on at each momentary, the selves carrying it between them.
+233. A spiral offered nothing from beyond it carries any pattern of parities along whole, the pattern inverted at each odd momentary and carried one self on at each even, the selves carrying it between them.
 
         *Adding: a spiral carrying a pattern whole.*
 
@@ -2555,7 +2555,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v378
 
         *Adding: an entry.*
 
-589. An artifact, a record apart from the coupling, reaches to the last coupling its carrying reached and ends there: the record's edge.
+589. An artifact, a record apart from the coupling, reaches to the last coupling its carrying reached and ends at it: the record's edge.
 
         *Adding: the record's edge.*
 
