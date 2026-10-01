@@ -6,7 +6,7 @@ Part 1. A spiral of five, each self's 9 to the next self, the last to the first;
   self 5: ....+-+-+-+-+0-+-+-+-+-0
   the 0 at 10, the between, at one self at each second momentary, moving one self on: the tunneling
 
-Part 2. A torus, p = 3 along at 9 and q = 5 across at 10: selves (i, j), 9 to (i+1, j), 10 to (i, j+1); + once at (1, 1); momentaries 1 to 24
+Part 2. A torus, p = 3 along at 9 and q = 5 across at 10: selves (i, j), 9 to (i+1, j), 10 to (i, j+1); + once at (0, 0); momentaries 1 to 24
   self (0, 0): +-+0-+-+-0+-+-+0-+-+-0+-
   self (0, 1): .+-+0-+-+-0+-+-+0-+-+-0+
   self (0, 2): ..+-+0-+-+-0+-+-+0-+-+-0

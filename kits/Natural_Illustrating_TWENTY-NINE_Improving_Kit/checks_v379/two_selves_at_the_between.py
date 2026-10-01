@@ -1,6 +1,6 @@
 """Exhibit ONE's code run at two selves joined across both ways, A's 10 to B's 14 and B's 10 to A's 14.
 Run from the repository root:
-    python3 incoming/illustrating_three_momentaries_v379/executions/two_selves_at_the_between.py
+    python3 kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/checks_v379/two_selves_at_the_between.py
 """
 import re, glob
 src = open(sorted(glob.glob('Exhibit_ONE_Natural_Resolver_v*.md'))[-1]).read()

@@ -1,7 +1,7 @@
 """Exhibit ONE's code run at a society: an odd spiral of five selves joined along at 9, the last to the first,
 one + offered once at self 1; and a torus of selves, p = 3 along at 9 and q = 5 across at 10.
 Run from the repository root:
-    python3 incoming/illustrating_three_momentaries_v379/executions/society_spiral_and_torus.py
+    python3 kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/checks_v379/society_spiral_and_torus.py
 """
 import re, glob
 src = open(sorted(glob.glob('Exhibit_ONE_Natural_Resolver_v*.md'))[-1]).read()
@@ -27,7 +27,7 @@ rows = run(selves, joins, {1}, 24)
 for s in selves: print(f"  self {s}: {''.join(rows[s])}")
 print("  the 0 at 10, the between, at one self at each second momentary, moving one self on: the tunneling")
 
-print("\nPart 2. A torus, p = 3 along at 9 and q = 5 across at 10: selves (i, j), 9 to (i+1, j), 10 to (i, j+1); + once at (1, 1); momentaries 1 to 24")
+print("\nPart 2. A torus, p = 3 along at 9 and q = 5 across at 10: selves (i, j), 9 to (i+1, j), 10 to (i, j+1); + once at (0, 0); momentaries 1 to 24")
 p, q = 3, 5
 selves = [(i, j) for i in range(p) for j in range(q)]
 joins = {}

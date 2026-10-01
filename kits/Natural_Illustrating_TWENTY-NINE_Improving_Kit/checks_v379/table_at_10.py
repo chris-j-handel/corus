@@ -1,6 +1,6 @@
 """Exhibit ONE's code run at the table 'Chained at 3; each cell at 10 · chained at 11',
 and one self momentary by momentary. Run from the repository root:
-    python3 incoming/illustrating_three_momentaries_v379/executions/table_at_10.py
+    python3 kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/checks_v379/table_at_10.py
 """
 import re, glob
 src = open(sorted(glob.glob('Exhibit_ONE_Natural_Resolver_v*.md'))[-1]).read()

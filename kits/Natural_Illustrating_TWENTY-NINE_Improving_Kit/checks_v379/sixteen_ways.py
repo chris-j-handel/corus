@@ -1,8 +1,9 @@
-"""The sixteen ways a next could follow from a prior and a now, Natural Intelligence 2.4, each run
-through the momentaries from each of the four joint forms (prior, now) -> (now, next).
+"""The sixteen ways a next could follow from a prior and a now, Natural Intelligence 2.4, enumerated here
+and followed through the momentaries from each of the four joint forms (prior, now) -> (now, next); this script
+does not execute Exhibit ONE's code, the living step alone is at the code (table_at_10.py, Part 3).
 A way carries a joint form still where prior = now = next, a form named still; a way loses the prior
 where the next is the same at both values of the prior. Run from the repository root:
-    python3 incoming/illustrating_three_momentaries_v379/executions/sixteen_ways.py
+    python3 kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/checks_v379/sixteen_ways.py
 """
 from itertools import product
 P = (1, -1)
