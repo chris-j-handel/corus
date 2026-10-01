@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry v378
+Exhibit TWENTY-SIX Living File Registry v379
 
 # Living File Registry
 
@@ -119,6 +119,7 @@ Exhibit TWENTY-SIX Living File Registry v378
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
+| The Exhibit ONE first working, the session v379 | v379 | Exhibit ONE, Natural Intelligence and the Co-Chaining Logic Registry read whole and each claim run at the code, the findings laid at their carryings as ready offerings and concerns; then Exhibit ONE at its motion, Natural Intelligence at its motion through Exhibit ONE and back, the Co-Chaining Logic Registry at its motion; the Living File Registry at its rows | `working/exhibit-one-first-v379` | Open; the carryings laid, no living file moved until each motion |
 | The Natural Intelligence motion working, the session v378 | v378 | Natural Intelligence and Exhibit ONE at their motion, then Natural Naming, Natural Numbers and Natural Mathematics, then the Co-Chaining Logic Registry, the ready offerings received at the carrying working entered, a fresh reader's findings met at each; *returning* at the momentaries said as *parities again* at Natural Intelligence and Natural Numbers at the reader's finding | `working/natural-intelligence-motion-v378` | Merged at `main` at pull request 112, the waiting at corus.me ended at the session's close, the living files launching there; its session report at `incoming/session_v378/`, the standing of every living file and the opportunities in order |
 | The Geodesic Improving Method working, the session v378 | v378 | The Geodesic Improving Method: its ready offerings entered, its front and its old names; the Living File Registry at its rows | `working/geodesic-improving-method-v381` | Offered; merges when its improving at the branch is finished, its checks and its fresh reader met |
 | The Natural Explaining working, the session v378 | v378 | Natural Explaining: its front at the steady form and its four incomings entered; the Living File Registry at its rows | `working/natural-explaining-v380` | Offered; merges when its improving at the branch is finished, its checks and its fresh reader met |
