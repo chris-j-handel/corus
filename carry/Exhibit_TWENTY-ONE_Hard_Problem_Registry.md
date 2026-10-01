@@ -1,4 +1,4 @@
-Exhibit TWENTY-ONE Hard Problem Registry · carrying v378
+Exhibit TWENTY-ONE Hard Problem Registry · carrying v379
 
 # Exhibit TWENTY-ONE · Hard Problem Registry
 
@@ -23,3 +23,5 @@ Exhibit TWENTY-ONE Hard Problem Registry · carrying v378
 None.
 
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** The seventeen names stand at the old code at this file, pass B at its motion. Entered at the Co-Chaining Logic Registry from this file at v378: the conditions prior and the problem's own sixth, the refutation as one, the named face and the resolving face.
+
+**Concern, at v379, from `incoming/session_v379/Session_Report_v379.md`, finding 4, for this file: it carries no ten.** None of the ten namings, no *between*, no odd or even face is at it; its line 13 alone says *prior, now and next*. It is the incoming face, each hard problem in the field's words, and the ten are at Resolving the Hard Problem Registry; a saying elsewhere that the ten are at six files numbers it among them, and they are at five and its resolving face. Either a ten enters here at this file's own motion or the saying at the other files is re-said at five.

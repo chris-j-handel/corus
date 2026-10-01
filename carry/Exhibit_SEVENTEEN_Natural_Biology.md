@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology · carrying v378
+Exhibit SEVENTEEN Natural Biology · carrying v379
 
 # Exhibit SEVENTEEN · Natural Biology
 
@@ -33,6 +33,8 @@ Exhibit SEVENTEEN Natural Biology · carrying v378
 **Incoming, at v378, from Natural Physics v377** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 6, item 6). The sinoatrial pacemakers' entrainment and the fireflies' unison, at two spirals joined across; the red and far-red flashes deciding a short-day plant's flowering; and light read as a living society of selves phase-relating, a plant carrying it into stable form and an animal resolving it at sight. Enters at the file's sections on the heart, on light and on the plant at its motion, the sciences paused.
 
 **Incoming, at v378, the ten named still at their one names** (`incoming/physics_for_other_files_v377/README.md`, the Natural Physics working's second report, received at v378, 2.3). Natural Naming 4.9 gives each of the ten one name, *an arriving named from behind*, *an opening named as a place*, *a completing named as a last*, *a carry named as a store*, *a middle named as an end*, *a parity named as a magnitude*, *a sequencing named to one beat*, *a rate named as a value*, *a two-way named to one side*, *the between named as a cut*; this file carries the older *held* forms at one places, each re-said at its one name at this file's motion.
+
+**Ready, at v379, from `incoming/session_v379/Session_Report_v379.md`, findings 5 and 21, for this file's motion: the sunflower's golden angle, the cucumber tendril, the sinoatrial node, fireflies and defibrillation, at this carrying alone.** Natural Illustrating v379 names each from this carrying at its 4.4, 5.5 and 5.6, the golden angle of one hundred thirty-seven and a half degrees and the two families of spirals opening opposite ways from one co-sequencing, the tendril's two helices of opposite hand joined at a perversion, the pacemakers entrained, the fireflies in unison, the shock arriving alike at each cell at once; none is at this file's body. At this file's motion each enters at its section, and the illustrating then names the section.
 
 ## Concern
 

@@ -1,0 +1,10 @@
+Part 1. Chained at 3 (none, +, -) by surfacing at 14 (none, +, -, 0): at 10 / chained at 11
+  chained none: --  . none |     + . + |     - . - |  0 . none
+  chained    +:     - . - |     0 . + |     - . - |     - . -
+  chained    -:     + . + |     + . + |     0 . - |     + . +
+
+Part 2. One self offered + once and then nothing, twelve momentaries
+  at 10: + - + - + - + - + - + -
+
+Part 3. One self offered + at each momentary, eight momentaries
+  at 10: + 0 0 0 0 0 0 0   chained at 11 throughout: +
