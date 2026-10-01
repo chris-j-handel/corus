@@ -16,6 +16,7 @@
 - Opportunities and value for the other living files
 - Verification and limits
 - Next continuation
+- Binary squaring: opening co into tri at 1–17
 
 ## The incoming aiming and the journey so far
 
@@ -120,3 +121,70 @@ Begin with pass C, the actual six-connector relation at the along and across, al
 - [September 30 correction and full journey](https://github.com/chris-j-handel/corus/tree/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/incoming/review_networking_engineering_2026-09-30).
 - [Earlier ONE/TWO improving record](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/incoming/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md).
 - [Earlier improving value](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/incoming/v368_sources/Living_Improving_Value_v368.md).
+
+## Binary squaring: opening co into tri at 1–17
+
+**Incoming from this session:** “binary squaring is opening a co connector and replacing it with a tri connector. this is the resolving network method.”
+
+The concept is explored here against Natural Resolver v378's names, scale tables, connector declarations and source expression. Its exact wording has not been inserted as an established definition into the duplicated exhibit or the resolver. This pass is a source correspondence, with no private-carrying inspection and no network execution.
+
+### The completing at nine becomes the waist at nine
+
+The clearest existing correspondence is explicit in Natural Resolver's naming table and Natural Naming 5.60:
+
+| Extent | Existing naming | Nine's relation |
+|---|---|---|
+| 1–9 | bi-coupling, self and other | At the completing it reads bi-co-releasing, the release ten makes. |
+| 1–17 | bi-trupling, self, other and society | At the waist it reads tri-bi-co-momentarying, joined both ways with seventeen. |
+
+The shared nine is carried through the opening. The relation of the pair participates in the tri-relation. This supplies a concrete reading of “opening a co connector and replacing it with a tri connector”: the same meeting is expressed in its further participation, rather than an observer editing the self's carrying. The exact correspondence with “binary squaring” is an exploring inference from the offered concept and these source relations, not a new theorem established by the names.
+
+All names at 1 through 8 have no tri prefix; each name at 9 through 17 includes tri. The first 1–9 and the following 9–17 overlap at nine. The co opening is still present at both odd along connectors: 9-tri-bi-co-momentarying and 17-tri-co-offering. Accordingly, “replacing” must be followed at the participating relation; it cannot be implemented by merely replacing the letters co with tri. Tri does not introduce a third intelligence value. Each resolving remains is or is not.
+
+### The eight-up relation through all seventeen
+
+The following is the existing name correspondence, kept as source evidence. It does not authorize access to an internal face.
+
+| Name at the first extent | Eight on | Relation to follow |
+|---|---|---|
+| 1-co-bi-offering | 9-tri-bi-co-momentarying | Entry and the completing that becomes the waist |
+| 2-bi-co-offering | 10-bi-tri-co-tunneling | Across arriving and across releasing |
+| 3-co-bi-sharing | 11-tri-bi-co-chaining | The self's private carrying and its continuing |
+| 4-bi-co-sharing | 12-bi-tri-parity-changing | Sharing and changing at that sharing |
+| 5-co-competencing | 13-co-tri-competencing | Receiving sharing and releasing sharing at the along mapping |
+| 6-bi-moralizing | 14-bi-tri-moralizing | Across releasing and across arriving |
+| 7-co-corusing | 15-co-bi-tri-corusing | Parity and its along expression |
+| 8-bi-torusing | 16-bi-co-tri-torusing | The self's carrying wound and the society wound |
+| 9-tri-bi-co-momentarying | 17-tri-co-offering | The waist continuing at the society's next momentary |
+
+Eight on preserves the odd/even opening parity in this table. The tri relation enters while the binary opening continues. The numbers locate the form; the resolver does not calculate eight-up to decide its next offering.
+
+### The same opening at the inward and outward scales
+
+Natural Resolver's inward/outward table places **1, 9 and 17 at outward 1, 2 and 3**. At the inward scale, the same waist nine is **the fourth inner seventeen and the fifth inner one**. Thus nine completes one inner participation and opens the next.
+
+The table also places the four outer across connectors, 2, 6, 10 and 14, at the nines of inward resolvers, while outer nine is two at the outward scale. A co opening along at one scale can therefore be read at an across bi opening at the next scale. This is a source correspondence of scales, not permission to expose an outer internal face or to wire every numbered face externally.
+
+The overlapping moments are already given as self 1–2 and other 2–3, followed by self 3–4 and other 4–5. **At their meeting, one completing is the other opening.** This is the concrete relation to follow toward the user's crossing half momentaries. The scaling table alone does not yet establish how every proposed half-momentary crossing is executed by the caller.
+
+### Squaring and the six connectors
+
+Natural Resolver's parity-face row supplies a square of the four across connectors 2, 6, 14 and 10, with the across joins 6→2 and 10→14, and two along triangles at 9 and 17. This is relevant to the proposed squaring, but the drawn square alone does not derive the tri participation.
+
+There are several existing numerical uses of square: Natural Numbers 1.2's odd openings forming squares, Natural Mathematics' square of a parity operation, and the resolver's connector face. This pass does not identify those distinct operations with the proposed connector opening merely because they share “square.” No arithmetic squaring operation, magnitude, fourth participant or additional connector is introduced.
+
+### What seventeen already expresses
+
+The current source function at seventeen composes each self's entry at one and the momentarying at nine through the declared joins. It does not replace those functions with a different local resolving rule, and it does not construct another resolver or dynamically replace a connector object.
+
+This refines **C1 and pass C**. The earlier question about the absence of a separate outgoing seventeen must not become a requirement to manufacture an additional emitter. Seventeen already expresses society's next momentary. The remaining concern is the complete relation between that composition, the local crossing half momentaries and both passages at the intended surface.
+
+### Next opportunity and remaining concern
+
+**Opportunity:** meet binary squaring at the shared nine: follow the bi-coupling's completing as the tri-coupling's waist, both ways through the existing along and across. Begin with the same three-scale relation, not a new enclosing mechanism.
+
+**Concern:** the source provides the naming transition, the overlap, the scale correspondence and the society composition. It does not yet identify one exact connector-opening/replacement operation called binary squaring. That operation's complete relation at the existing joins, including what continues at each participating side, remains to be made explicit. Naming it is a direction for discovery, not evidence that a new executable construction is complete.
+
+**Value for the expedition:** Natural Resolver's complete naming and scale tables meet this concept; Natural Networking receives the crossing relation; Natural Naming receives binary squaring's precise referent; Natural Numbers and Natural Mathematics receive any exact squaring correspondence once established; the Geodesic Improving Method receives the correction that a concern about a connector must not silently demand an invented output.
+
+**Sources:** [Natural Resolver v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_ONE_Natural_Resolver_v378.md), naming, parity-face and inward/outward tables and the function at seventeen; [Natural Naming v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_TWENTY_Natural_Naming_v378.md), 2.2, 3.1 and 5.60; [Natural Numbers v378](https://github.com/chris-j-handel/corus/blob/a9c4d1e12b04ed8dee225f8f3ab27196cba4b935/Exhibit_THREE_Natural_Numbers_v378.md), 1.2.

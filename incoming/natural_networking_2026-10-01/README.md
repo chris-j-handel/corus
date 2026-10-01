@@ -25,3 +25,5 @@
 **Scope of the working copy.** The rest of the exhibit is retained from v371 and still carries older names, second-sign explanations and diagnostic findings. This proposal is not yet coherent throughout. In particular, 1.2, 1.4–1.7, 5.1–5.3 and 6.2–6.8 need the passes below; old claims there do not overrule the corrected carrying method.
 
 **The way back.** This folder makes the requested duplicate available without replacing a living file or the published kit. The date names this working, not a newly assigned expedition version. Its findings can be received at the files' own carryings; final expedition versioning, the Living File Registry's working row and a whole-file review accompany that later receiving. The incoming index locates this branch's working now.
+
+**Current exploring:** [binary squaring at 1–17](Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.

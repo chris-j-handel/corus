@@ -38,13 +38,15 @@ A source reading can establish which operation is written. An implementation che
 
 ## The first concern to meet
 
-**One saying:** the declared along relation joins 9 and 17 both ways, and the surface around a hole has two continuing passages.
+**The current opening is binary squaring:** the user's concept of opening a co connector and replacing it with a tri connector. The source correspondence is at nine: the completing of the 1–9 bi-coupling is the waist of the 1–17 bi-trupling, and 1, 9 and 17 at this scale are 1, 2 and 3 outward. The detailed exploration is in the session report.
 
-**The other saying at the current expression:** the society function iterates each self's entry, accumulates next offerings, and maps outgoing forms at 6, 10 and 9; it does not provide a separate outgoing 17 entry.
+**One saying:** the declared along relation joins 9 and 17 both ways, and the intended surface around a hole has two continuing passages.
 
-**Why it matters:** assigning an additional emission or alternating an external delivery order would choose the mechanism we are trying to discover. Leaving one passage unavailable and calling the drawing complete would also miss the correspondence.
+**The other saying at the current expression:** seventeen composes the society's next momentary through each self's one and nine. Its outgoing forms are at 6, 10 and 9. This does not require a further emitter at seventeen.
 
-Begin by reading each declared connector and actual call at its scale. This is not a demand for a new emitter or an assertion that the expression is wrong. It is the unfinished relation between the expression, the overlapping local momentaries and the intended network surface.
+**The concern refined:** follow how the bi-coupling's completing participates as the tri-coupling's waist through the actual joins, and how the local half-momentary crossings continue at both passages. The earlier observation that no outgoing seventeen entry is enumerated remains a source fact; treating it as an instruction to add an output would repeat the tester's departure.
+
+Begin at the existing relation, keeping the co opening's parity while the tri participation opens. Source naming, inner/outer scaling and executable continuation must meet at the same relation; none alone is a completed new network construction.
 
 ## Continuing the session report
 
