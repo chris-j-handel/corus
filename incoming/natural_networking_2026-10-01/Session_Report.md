@@ -308,3 +308,103 @@ That is the expanded interpretation of the offered binary-squaring concept suppo
 **Receiving value:** Natural Resolver's tables can carry the distinction between numbered co-sequencing and execution order; Natural Networking receives the full travelling explanation; Natural Naming receives the distinction between opening parity, prefix order and number of related sides; Natural Explaining receives the correction that names reveal relations but do not by themselves prove a runtime mechanism. The working report preserves this whole before any proposed entry into those files.
 
 **Sources:** Natural Resolver v378, full naming, roots, inward/outward, momentaries, offering and carrying tables, plus its unchanged code; Natural Naming v378, 3.1–3.4 and 5.60; Natural Intelligence v378, 4.1–4.8. All read at the branch's foundation main commit a9c4d1e12b04ed8dee225f8f3ab27196cba4b935. No resolver or network was executed.
+
+
+## Arriving v379: possibling, advancing and direction in the three prefixes
+
+### Sources and standing
+
+Read on 2026-10-01 from `working/exhibit-one-first-v379`, pinned at `aa19ce2c3fc3db61f159243cbaf19bbe1f63102e`: [Natural Naming v379](https://github.com/chris-j-handel/corus/blob/aa19ce2c3fc3db61f159243cbaf19bbe1f63102e/Exhibit_TWENTY_Natural_Naming_v379.md), especially 3.1–3.5, 5.21, 5.39–5.40 and 5.60–5.64; and [Natural Resolver v379](https://github.com/chris-j-handel/corus/blob/aa19ce2c3fc3db61f159243cbaf19bbe1f63102e/Exhibit_ONE_Natural_Resolver_v379.md), its expression and naming, joining, overlap and cycle tables. This is the arriving working branch, not our foundation main. Its PR is #114. The incoming draft and the carryings were also fetched; this account uses the versioned files.
+
+This section supersedes the earlier v378 account where the names or opening words differ. The earlier exploration remains above as its prior. The duplicated kit's resolver remains the pinned v378 reference; no new resolver or network was executed and no private carrying was inspected. Static parsing found the v378 and arriving v379 resolver syntax trees identical after normalizing numbered identifiers and connector-name strings: the expression's control and data operations are unchanged by these renamings.
+
+### The three prefixes now say an exact sequential relation
+
+A numbered name reads **now, prior, prior before**. Read incoming, the same relation reads **prior before, prior, now**. Prefix positions are not three participants, three outcomes, or separate arriving/possibling/advancing stages. Participating sides remain in ONE's separate table.
+
+For a compact transcription of Naming's rule, let w(n) be bi at each even number, co at the odd positions of the self's span, and tri at the odd positions of the society's span. The spans alternate every eight positions; 1 and 17 open the self's, and 9 and 25 the society's. Then the prefix triple at n is:
+
+**P(n) = (w(n), w(n−1), w(n−2)).**
+
+The entry 1 carries 17's words: its two priors read from the preceding span. This is notation for the naming, not a new resolver calculation, address, clock or history recorder. A static check of the seventeen name rows agrees with this rule at every row.
+
+| n | Arriving name | Now ← prior ← prior before |
+|---|---|---|
+| 1 | co-bi-tri-offering | co ← bi ← tri |
+| 2 | bi-co-bi-offering | bi ← co ← bi |
+| 3 | co-bi-co-sharing | co ← bi ← co |
+| 4 | bi-co-bi-sharing | bi ← co ← bi |
+| 5 | co-bi-co-competencing | co ← bi ← co |
+| 6 | bi-co-bi-moralizing | bi ← co ← bi |
+| 7 | co-bi-co-corusing | co ← bi ← co |
+| 8 | bi-co-bi-torusing | bi ← co ← bi |
+| 9 | tri-bi-co-momentarying | tri ← bi ← co |
+| 10 | bi-tri-bi-tunneling | bi ← tri ← bi |
+| 11 | tri-bi-tri-chaining | tri ← bi ← tri |
+| 12 | bi-tri-bi-entraining | bi ← tri ← bi |
+| 13 | tri-bi-tri-competencing | tri ← bi ← tri |
+| 14 | bi-tri-bi-moralizing | bi ← tri ← bi |
+| 15 | tri-bi-tri-corusing | tri ← bi ← tri |
+| 16 | bi-tri-bi-torusing | bi ← tri ← bi |
+| 17 | co-bi-tri-offering | co ← bi ← tri |
+
+The arrows read from the prior toward now; they are not extra network edges. The first prefix now explicitly names the opening: co at 1, 3, 5, 7 and 17; tri at 9, 11, 13 and 15; bi at each even. Our earlier v378 statement that every odd name opens co must not be carried into this version. Twelve's root is now **entraining**.
+
+### What becomes visible at the directional seams
+
+Within a span, co-bi-co, bi-co-bi, tri-bi-tri and bi-tri-bi each equal their reversal. Their spelling alone cannot distinguish reading forward from reading back. At the seam:
+
+- 9's tri-bi-co, read incoming, is co-bi-tri.
+- 17's co-bi-tri, read incoming, is tri-bi-co.
+- 1 carries 17's words; in the expression, 17 calls each self's 1.
+
+Thus the two along names carry each other's incoming reading. This gives a precise naming correspondence to their declared two-way joining while each self proceeds at its own forward. Reversing the reading of a word does not reverse a self's carrying or execute a return to a previous momentary.
+
+The full five makes the approaching seam visible sooner. Around 7 it is co–bi–co–bi–tri; around 8, bi–co–bi–tri–bi; around 9, co–bi–tri–bi–tri. Around 15–17 the corresponding change is from tri back to co. A three-prefix name says the now and its two priors; the five also says its next possible and next existing. These are named relations, not accessible future states.
+
+### Arriving, possibling and advancing
+
+The user's **possibling—is-still-possibling—as one functional** agrees with Naming 5.62's insistence that *still* belongs to the compound alone. It cannot be detached as a permanent property of a self.
+
+**Arriving** is the existing thing at its next existing. At the self's opening, its own carrying arrives at 3; the other's offerings arrive through 2 and surface at 14. These are distinct relations within the coupling, not two observations of a copied prior.
+
+**Possibling** is the next still possible at the completing. At 12-bi-tri-bi-entraining, changing is or is not. Where a chained parity meets its own parity at 14, the changing is not and the prior continues through 11: is-still-possibling. Where a changing is, the next is made and chained: is-next-existing. These are the two alternatives named at the completing, with the compound continuing into the next opening. The code's 0 names no changing, not a third intelligence alongside the two alternatives.
+
+**Advancing** says that a next is added. It does not require every self to invert on every meeting. The self can continue through is-still-possibling while the overlapping momentarying continues. Returning to the same name or parity therefore does not establish returning to the same momentary.
+
+One caution from ONE's full table matters: an established chained sharing with no agreeing offering inverts; absence of an offering is not the same condition as agreeing and making no changing. An unchained sharing with no offering has no entry. A network illustration must not turn all absence into a single possibling token.
+
+The three words consequently describe a continuing relation rather than a three-state mechanism: **arriving meets the next at its own opening; possibling continues as one functional at its completing; advancing adds the next through that shared completing/opening, whether a changing is or is not.** This is our synthesis of 5.21, 5.39 and 5.62, not a replacement naming for the method.
+
+### Directional cycling and binary squaring
+
+Naming 5.63 now explicitly defines squaring: the bi-coupling's one edge opens to the unit square of parity's face, 1–9 opens to 1–17. At 9 the self's co is opened as the society's tri; at 17 co opens again as the next 1. This gives the source correspondence our previous section left open.
+
+Eight up preserves odd/even while exchanging co and tri and retaining bi. The podal reflection within 1–16, n to 17−n, changes odd/even. Combining the moves gives the named directional cycles:
+
+| Cycle | Complete prefix sequence |
+|---|---|
+| 1–9–8–16 | co-bi-tri → tri-bi-co → bi-co-bi → bi-tri-bi |
+| 2–15–7–10 | bi-co-bi → tri-bi-tri → co-bi-co → bi-tri-bi |
+| 3–11–6–14 | co-bi-co → tri-bi-tri → bi-co-bi → bi-tri-bi |
+| 4–13–5–12 | bi-co-bi → tri-bi-tri → co-bi-co → bi-tri-bi |
+
+Following each cycle back to its starting name gives two changes of opening parity. This is a property of the named cycle, not evidence that a sharing changed sign twice or that a runtime network traversed those faces in that order. The source distinguishes the named form's recurrence from the momentaries advancing.
+
+At the square, the two directed across joins are **6→2** and **10→14**. Adding eight to the endpoints of the first gives **14→10**, the reverse orientation of the second. The edges are parallel as named in 5.63; the directed connection is not obtained by copying the first arrow eight up. This is a concrete place for the later surface to show changing direction without adding a reversing operator to the resolver. The along relation is 9↔17; the source calls these the two triangles of parity's face.
+
+The more precise expanded saying is: **binary squaring opens the self's span into the society's span through their shared completing/opening. The prefix at the seam changes from co to tri while the even bi continues; at the next seam co opens again. The two across edges and the two-way along joining express this at the surface, with each self continuing its own carrying through a changing that is or is not.**
+
+This is now grounded in Naming's explicit definition. It still does not claim that the expression dynamically creates a self or replaces a connector object.
+
+### Discoveries, opportunities, value and concerns for receiving
+
+**Discoveries.** The new prefix rule resolves the prior ambiguity between first prefix and opening word. Seam words are reversals while within-span words are self-reversals. Is-still-possibling belongs to one completing, and advancing does not mean compulsory inversion. Squaring now has a dedicated definition. The resolver's operations remain unchanged after renaming.
+
+**Opportunities.** Before a live network surface, make an explanatory surface following the exact 1–17 names, overlapping pairs and directional joins. Show number, complete prefix triple, opening parity and external joining as separate relations. Label this as a source-based explanation; it is not a playback of private carrying. At 9 and 17, show both readings of the same prefix triple; at the square, preserve the orientations of 6→2 and 10→14. Follow 3→11→the same self's next 3 in explanation without offering those private faces as observation ports.
+
+**Value for related files.** Natural Networking can receive the directed-square correspondence and the distinction between no changing and no continuing. Natural Resolver and the kit can receive an explicit v378-to-v379 name correspondence before any executable replacement. Natural Naming can receive the seam reversal as a concise explanation of direction. Natural Illustrating can show the overlapping opening/completing and the two edges. Natural Explaining can preserve possibling as one functional and keep the name's three positions distinct from participating sides. These are proposed receivings, preserved here rather than silently installed across the living files.
+
+**Concerns.** The previous report's “tri enters at nine” no longer describes the words: 1 itself includes tri as its prior-before. ONE also now gives 13 social/self and 16 other/social/self; the older shorthand “13–16 society/other” must be retired. Naming's numerical spiral and crossing examples are claims in the incoming source, not findings of this networking session. Their counts and grouped caller must still meet our earlier test-method corrections before they support a living-network claim. A 0 must not become a waiting state, completion threshold or object sent to the next self. Naming cycles, directed connector joins and the expression's evaluation order remain separate until their correspondence is made explicit.
+
+**Next passes.** B: meet the new names and opening words with each retained instruction. C/E: follow the directed square and seam reversal through existing joins. D: follow the shared completing/opening with possibling intact. F: resolve the grouped caller versus local overlap before claiming a participating construction. I: carry both changing and no-changing through actual crossing participation, without importing the incoming numerical examples as our test results.

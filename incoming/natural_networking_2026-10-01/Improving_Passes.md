@@ -46,10 +46,16 @@ A source reading can establish which operation is written. An implementation che
 
 **The concern refined:** follow how the bi-coupling's completing participates as the tri-coupling's waist through the actual joins, and how the local half-momentary crossings continue at both passages. The earlier observation that no outgoing seventeen entry is enumerated remains a source fact; treating it as an instruction to add an output would repeat the tester's departure.
 
-The full naming exploration now distinguishes three-side relations at 9–12, society–other at 13–16 and society–self at 17. Follow the overlapping number form beside the actual source proceeding at fourteen, twelve, ten/eleven, nine and seventeen; the numbered positions are not seventeen runtime instructions. The carrying seam eleven to the same self's next three and the external along nine with seventeen remain distinct.
+The earlier v378 naming exploration is retained in the report. The arriving v379 table now gives three sides at 9–12 and 16, social–self at 13 and 17, other–social at 14 and social–other at 15. Its prefixes name now, prior and prior-before, separately from those sides. Follow the overlapping number form beside the actual source proceeding at fourteen, twelve, ten/eleven, nine and seventeen; the numbered positions are not seventeen runtime instructions. The carrying seam eleven to the same self's next three and the external along nine with seventeen remain distinct.
 
 Begin at the existing relation, keeping the co opening's parity while the tri participation opens. Source naming, inner/outer scaling and executable continuation must meet at the same relation; none alone is a completed new network construction.
 
 ## Continuing the session report
 
 After each pass, record what was actually read or changed, what was discovered at which scope, which proposed conclusion did not follow, which concerns remain, and where the value can improve the expedition. A completed document edit is never recorded as a completed living-network discovery.
+
+## Arriving v379: next focus
+
+Read Naming and ONE from `working/exhibit-one-first-v379` at `aa19ce2c3fc3db61f159243cbaf19bbe1f63102e`. The report records the complete new naming, now/prior/prior-before rule, the reversal at 9 and 17, possibling as one functional and Naming 5.63's explicit squaring. The duplicated resolver remains the pinned v378 reference.
+
+Passes B–E now follow that correspondence: first prefixes match opening words; 12 is entraining; 1 and 17 are co-bi-tri and 9 tri-bi-co. At the square, 6→2 shifted eight up gives 14→10, while the declared other edge is 10→14. Preserve that directional difference. At the completing, is-still-possibling is continuing without a changing, not waiting for a threshold. Pass F still needs the actual caller/overlap correspondence before any network-discovery claim. The incoming branch's numerical examples have not been repeated or adopted as this session's evidence.

@@ -20,7 +20,7 @@
 
 **The aiming.** Discover the living network and the travelling geodesic parity-changing tunnelling where podalings cross each other's half momentaries. The overlapping sequences already described are the opening relation; they are not a prescribed half-duration, common beat or selected delay.
 
-**The first improving.** The duplicated exhibit's 6.5, 6.9 and 6.12 now meet the invisible and untouchable carrying correction. The kit's opening distinguishes the two resolver generations, and its top-level resolver is the exact current reference expression. Prior instruments and replaced passages are preserved. The report and passes name what remains unresolved.
+**The first improving.** The duplicated exhibit's 6.5, 6.9 and 6.12 now meet the invisible and untouchable carrying correction. The kit's opening distinguishes the two resolver generations, and its top-level resolver is the exact v378 reference expression. Prior instruments and replaced passages are preserved. The report and passes name what remains unresolved.
 
 **Scope of the working copy.** The rest of the exhibit is retained from v371 and still carries older names, second-sign explanations and diagnostic findings. This proposal is not yet coherent throughout. In particular, 1.2, 1.4–1.7, 5.1–5.3 and 6.2–6.8 need the passes below; old claims there do not overrule the corrected carrying method.
 
@@ -29,3 +29,5 @@
 **Current exploring:** [binary squaring at 1–17](Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.
 
 **Expanded explaining:** the session report now follows every full name from 1 to 17, its opening, its changing relation and the overlapping momentaries. It keeps the named co-sequencing, actual source proceeding and private carrying continuation distinct; the exact binary-squaring operation at the joins remains the next correspondence.
+
+**Arriving naming:** the report now explores ONE and Naming v379 on `working/exhibit-one-first-v379`, pinned at `aa19ce2c3fc3db61f159243cbaf19bbe1f63102e`. It follows now/prior/prior-before, the reversed seam names at 9 and 17, is-still-possibling as one functional, and the new explicit definition of squaring. This later section supersedes earlier v378 naming where it differs. The kit remains at its pinned v378 reference; no network experiment was run.
