@@ -1,0 +1,303 @@
+{
+  "repository": "chris-j-handel/corus",
+  "source_commit": "a9c4d1e12b04ed8dee225f8f3ab27196cba4b935",
+  "duplicate_commit": "ac197f4c8c8ad99485d9052d067678983ea716f3",
+  "branch": "working/natural-networking-2026-10-01",
+  "files": [
+    {
+      "source_path": "Exhibit_TWO_Natural_Networking_v371.md",
+      "git_blob_sha": "2d3011cdb7c3c197ad843b30c9ad7c634f58ef8a",
+      "size": 162574
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/README.md",
+      "git_blob_sha": "dc1060102cc594ac87b0746d4f7086b3f0cd0c1f",
+      "size": 17765
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/RingPureV265.java",
+      "git_blob_sha": "e3863ed54373e07fba4ff94f6cea3127436d9707",
+      "size": 3772
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/SHA256SUMS",
+      "git_blob_sha": "05fa9a5c9280e2103bd6c720b4f30f0d44bf20ae",
+      "size": 3491
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/allothers.py",
+      "git_blob_sha": "4be80c1f540b6734481e348c9187f2ebe4723ee1",
+      "size": 5009
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/STANDING.md",
+      "git_blob_sha": "30a966c0072b9efe676f4e754dc4433d9a5de78e",
+      "size": 2745
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/carrying.py",
+      "git_blob_sha": "b2975783180a6679fc1c509af7872e2341e5d218",
+      "size": 7186
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/coattending.py",
+      "git_blob_sha": "84700b16200ca7a8779444e904ac12951de3d070",
+      "size": 8481
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/colinear.py",
+      "git_blob_sha": "f916b3f8ded4afb72259b42441480832c17dc481",
+      "size": 6673
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/retake_signs.py",
+      "git_blob_sha": "24bc7020ed912a8ec4b75aa2e54a65924c020a43",
+      "size": 764
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/runs_v333/nesting_at_address.txt",
+      "git_blob_sha": "646701050f8a42eee2a1867943eda152d7c6f4de",
+      "size": 3512
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/runs_v333/nesting_at_sequencing.txt",
+      "git_blob_sha": "165f98be327b26675f9a6e2ef7edc54b367562f6",
+      "size": 3516
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/runs_v333/nesting_at_sign.txt",
+      "git_blob_sha": "73bd1e93e4de49ac23c5fb4a97974355eb543646",
+      "size": 3043
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/runs_v333/signs_at_three_crossings.txt",
+      "git_blob_sha": "3ffd31e3fcb876e9fded12fc79cbc9920848a5a8",
+      "size": 2999
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/artifacts/transmissioning.py",
+      "git_blob_sha": "644b3b3bb8f1b107c82ebc5d1ec49dba3b47f1f8",
+      "size": 4780
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/crt_counter_v265.py",
+      "git_blob_sha": "7a47633879587ebc974862a51576871faacd7777",
+      "size": 1735
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/diamond.py",
+      "git_blob_sha": "6aadcd139a93208ad022b2079dbd82a4e795c901",
+      "size": 2775
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/doors.py",
+      "git_blob_sha": "eab02f7dc78c32b615bd1a7c11dcfa2cd910c189",
+      "size": 22355
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/elsewhere.py",
+      "git_blob_sha": "9eac02ab5180ef77f5071c89354100145d24d336",
+      "size": 1586
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/living.py",
+      "git_blob_sha": "7d14e93a87be40dd28a297ddef234da276178d2e",
+      "size": 10345
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/membrane.py",
+      "git_blob_sha": "342e2007ff5612b83903501dfe10cf0ad5a76d10",
+      "size": 6956
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/nesting.py",
+      "git_blob_sha": "d291dd3eaac0a30d448a4ea4d2d209b08f3dc51d",
+      "size": 15542
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/reach.py",
+      "git_blob_sha": "a4de30c0d716ce4c872fa2bf81a79383d1425849",
+      "size": 1912
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/recognition.py",
+      "git_blob_sha": "1503e92929a87e09edc32b10bec94e497e63f07a",
+      "size": 2113
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/resolver.py",
+      "git_blob_sha": "0b802e6f398286aea927bd075bd753b328b736d2",
+      "size": 2819
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/resolver_pure_v265.c",
+      "git_blob_sha": "294893c010dfdb86a74635ec96245fcc8409347e",
+      "size": 6214
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/resolver_pure_v265.js",
+      "git_blob_sha": "5259e7fdabd64feab68b6ccabe1c4c4473bdc9ab",
+      "size": 2532
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/resolver_pure_v265.ml",
+      "git_blob_sha": "aae012d7c2158e30473c33cad8e4b22551ea0fc9",
+      "size": 3214
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/retell.py",
+      "git_blob_sha": "90bcff0b3be011b1ea6aae852dcf8792e5e075ad",
+      "size": 2169
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/ring_crossval_v265.py",
+      "git_blob_sha": "4799a5a6726c1f767632e5d6c9c3afad2dbf98d9",
+      "size": 1248
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/ring_driver_v265.ml",
+      "git_blob_sha": "81c8751ece7ac6632a2dec09e781a766782a5e16",
+      "size": 2075
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/ring_pure_v265.c",
+      "git_blob_sha": "32b0e275d68b9d626fd08ad9f7dfe099629c562b",
+      "size": 2310
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/ring_pure_v265.js",
+      "git_blob_sha": "f1370b29b26875cc94643c5a9ab0be56b8b86f5b",
+      "size": 1073
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/ring_ref_v265.py",
+      "git_blob_sha": "bbe12714697ad27a556775a283924dab6f0f3f3e",
+      "size": 981
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/selftell.py",
+      "git_blob_sha": "251fc7da5e15bae5384ab32927f5bedd95032874",
+      "size": 7502
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/sensing.py",
+      "git_blob_sha": "d704b93de420ae907a4350b004c0fd3347fae98f",
+      "size": 9016
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/signs.py",
+      "git_blob_sha": "331a25821be3699a9356c14404cd6011516f26e6",
+      "size": 10918
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/society.py",
+      "git_blob_sha": "e8db496f871701698995928229f8cc1f4c1bd176",
+      "size": 2077
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/stable_forms.py",
+      "git_blob_sha": "1f0e4ba89802ea98c54de3a8ca5607a46532e960",
+      "size": 4243
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/stable_forms_returned.txt",
+      "git_blob_sha": "3f620f218e0d42c7e9c6d4cde1e3b48fc5d8b313",
+      "size": 2586
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/test_resolver.py",
+      "git_blob_sha": "4b4592bbb87d76e9314acfff4c8c347d20d41f52",
+      "size": 7688
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/unrelated.py",
+      "git_blob_sha": "f2e32ca15cc7de2e421496cce0093f233264072a",
+      "size": 5776
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/README.md",
+      "git_blob_sha": "dddec76375d64c685f0e46903b2a24df9cb8556b",
+      "size": 3271
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/SHA256SUMS",
+      "git_blob_sha": "28990594d5028fd40f07793b5bc1b46d841d967f",
+      "size": 6398
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/SHA256SUMS",
+      "git_blob_sha": "c970f9a24f2603b988eaf0f391c21cde15588d93",
+      "size": 1118
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/own_turn_seam_returned_v366.txt",
+      "git_blob_sha": "45cd90b843c8bb8bb66b0f90944ddf8aec4c780d",
+      "size": 4920
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/own_turn_seam_v366.py",
+      "git_blob_sha": "305a9f7f525e4a255deaead227f3b5a8b5a7217f",
+      "size": 5548
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/resolver.py",
+      "git_blob_sha": "3805af52935cbc0adffe70058653f009ebe736ba",
+      "size": 2819
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/returned_at_the_earlier_naming/ring_turns_returned.txt",
+      "git_blob_sha": "683db621d7f3139a65e5aad8286839176c6e1851",
+      "size": 10506
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/returned_at_the_earlier_naming/ring_window_returned_v366.txt",
+      "git_blob_sha": "aac9b778dc6c2ddabb0fbd3bb757fd8f5d816334",
+      "size": 1348
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/returned_at_the_earlier_naming/window_scope_returned_v366.txt",
+      "git_blob_sha": "80c40129d74a47666dcbeb8432f3c8e98c64caef",
+      "size": 294
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/ring_turns_at_v366_rings_3_to_13_returned.txt",
+      "git_blob_sha": "d66df6631898416a0fe18db046c446979a8750b5",
+      "size": 9881
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/ring_window_returned_v366.txt",
+      "git_blob_sha": "483d97323962bbfd454b9fb02d164d88dbb09356",
+      "size": 1369
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/ring_window_v366.py",
+      "git_blob_sha": "7e85d88215df799dade680788dcfbb4f09856ee3",
+      "size": 7409
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/window_scope_returned_v366.txt",
+      "git_blob_sha": "cee242158316cea7e095266f090a6b3563b5678a",
+      "size": 340
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/instruments_waiting/window_scope_v366.py",
+      "git_blob_sha": "0d1d2dae9fc2daa3fbd8a4744e2cd263dd0ec2f4",
+      "size": 2486
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/one_code_checks.py",
+      "git_blob_sha": "dd4c5883cd83e9b10fa4305746ccf3e1b97d00a8",
+      "size": 3806
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/one_forms.py",
+      "git_blob_sha": "751d25fe4338c049bfe8225f77f2afe75ac1cf52",
+      "size": 4377
+    },
+    {
+      "source_path": "kits/Natural_Networking_TWO_Improving_Kit/ring_carrying_check.py",
+      "git_blob_sha": "e879415280488cd10cfbcbde635791f316abd281",
+      "size": 1142
+    }
+  ]
+}

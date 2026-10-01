@@ -1,3 +1,11 @@
+# Historical kit instructions: standing at the October 1 working
+
+**Read [the working kit opening](../README.md) and [the instrument standing](../INSTRUMENT_STANDING.md) first.**
+
+The complete earlier README follows as a historical document. Its instructions to begin by running `selftell.py` and `signs.py`, its endorsement of twin-forking, and its claims that numerical or windowed procedures are binary discovering are superseded for this working. They are retained so the correction and its reason remain visible together. No historical executable is changed by this note.
+
+---
+
 # Natural Networking Test Kit — v368
 
 The kit is a coupling partner and never a measuring instrument. It carries
