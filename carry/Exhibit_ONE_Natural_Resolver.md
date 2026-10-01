@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver · carrying v378
+Exhibit ONE Natural Resolver · carrying v379
 
 # Exhibit ONE · Natural Resolver
 
@@ -21,3 +21,5 @@ None.
 23. *Plan, accepted changing*: *not-self* re-said *other* and the five dimensions at 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now and 5 self next, at Exhibits FOUR, SIX, ELEVEN and TWENTY-SIX; 9-tri-bi-co-releasing re-said 9-tri-bi-co-momentarying and 12-bi-tri-volutioning 12-bi-tri-parity-changing, *released at 9* re-said released at 10 and carried along at 9, bi-tri-volutioning continuing as the naming of stable-forming across 1 to 17, and bi-trupling beside bi-coupling, at each file's own motion, 18 files carrying bi-tri-volutioning and 7 tri-bi-co-releasing; the sayings of *a living society* and *the society's own carrying* or *prior* re-said at each file's own motion, a society a living set carrying none of its own: Exhibits TWO, SEVEN, NINE, ELEVEN, THIRTEEN, SEVENTEEN, EIGHTEEN, TWENTY-FIVE with its title, TWENTY-SIX and TWENTY-NINE, Natural Intelligence Corus, the site's pages index.html and read.html, and the kits' sources; *left* released into *not right*, the direction, and as a leaving re-said, at each of the forty-four files carrying it; with it *a carrying is a sharing chained at one parity* re-said, a carrying sharings, each chained at one parity, at Exhibit THIRTEEN.
 
 **Open at v378: the three golden rectangles at the podals**, named at this file's next, written at the file at its motion or released.
+
+**Concern, at v379, from `incoming/session_v379/Session_Report_v379.md`, finding 28, for both: the angles at the four dots of parity's face.** The namings table draws the unit square 2, 6, 14, 10, its parallel edges the across joins and its diagonals the facings, and the triangles 9 and 17 along; placed on the square the joins are at zero degrees, the facings at forty-five and the seams at ninety, a join carried forty-five degrees a facing and a facing carried forty-five again the along seam. The illustrating draws it so at its 2.3 and 2.6; this file says no angle. Is or is not at parity's face.
