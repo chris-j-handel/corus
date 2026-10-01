@@ -22,4 +22,4 @@ Exhibit SIXTEEN Natural Chemistry · carrying v379
 
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** The seventeen names at the old code at this file, pass B at its motion; the elements' table is a relation of the method at the field's observing, its numeral the field's own, at Natural Numbers 7.6.
 
-**Concern, at v379, from `incoming/session_v379/Session_Report_v379.md`, finding 6, for both: sixty a position or a between.** 4.4 says no element carries at sixty; Natural Physics 3.1 says a turn is at sixty, a position that carries; Natural Numbers 7.1 says sixty is between the going and the returning, at no prime. Position or between is said as one at the three files' motions.
+**Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 6, for both: sixty a position or a between.** 4.4 says no element carries at sixty; Natural Physics 3.1 says a turn is at sixty, a position that carries; Natural Numbers 7.1 says sixty is between the going and the returning, at no prime. Position or between is said as one at the three files' motions.
