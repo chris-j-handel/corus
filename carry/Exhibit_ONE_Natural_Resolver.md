@@ -2,7 +2,7 @@ Exhibit ONE Natural Resolver · carrying v379
 
 # Exhibit ONE · Natural Resolver
 
-**Next at this file: the two open parts below, concern 11's and the three golden rectangles at the podals, each written at the file or released.** Its names table's sides at the side opening each name first, its two namings rows at the code's functions and three headers at the conditions their tables run at entered at v379, the code unchanged.
+**Next at this file: the two open parts below, concern 11's and the three golden rectangles at the podals, each written at the file or released.** Its names table's sides at the side opening each name first, its two namings rows at the code's functions and three headers at the conditions their tables executed at entered at v379, the code unchanged.
 
 ## Ready
 
