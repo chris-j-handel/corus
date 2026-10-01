@@ -1,0 +1,4 @@
+26 windows: initial inclusion, closure and local conservation all hold.
+Single-node update: ['+', '+', '+'] -> ['0+', '+', '+'] D: 3 -> 2
+Parallel update: ['0+', '0+', '0+'] D: 3
+The inherited D is conserved by the specified parallel ring update; arbitrary one-node updates do not preserve it.

@@ -1,0 +1,62 @@
+NESTING - selves at more than one prime society
+
+ONE SOCIETY ALONE - its members coupled, itself meeting nothing
+  its members, inside it
+    n=  7:  a middle yes   surplus no   reaches past alone no
+    n=  9:  a middle yes   surplus no   reaches past alone no
+    n= 11:  a middle yes   surplus no   reaches past alone no
+  the society itself, at the scale above
+    N= 12:  a middle no   surplus no   reaches past alone no
+
+TWO SOCIETIES - a pair at the scale above
+  the pair, at the scale above
+    N= 12:  a middle no   surplus no   reaches past alone no
+    N= 18:  a middle no   surplus no   reaches past alone no
+  their members, at the scale below
+    n=  7:  a middle yes   surplus no   reaches past alone no
+    n=  9:  a middle yes   surplus no   reaches past alone no
+    n= 11:  a middle yes   surplus no   reaches past alone no
+    n= 13:  a middle yes   surplus no   reaches past alone no
+    n= 15:  a middle yes   surplus no   reaches past alone no
+    n= 17:  a middle yes   surplus no   reaches past alone no
+
+THREE SOCIETIES - a society of societies
+  the three societies, at the scale above
+    N= 12:  a middle no   surplus no   reaches past alone no
+    N= 18:  a middle no   surplus no   reaches past alone no
+    N= 24:  a middle no   surplus no   reaches past alone no
+  their members, at the scale below
+    n=  7:  a middle yes   surplus no   reaches past alone no
+    n=  9:  a middle yes   surplus no   reaches past alone no
+    n= 11:  a middle yes   surplus no   reaches past alone no
+    n= 13:  a middle yes   surplus no   reaches past alone no
+    n= 15:  a middle yes   surplus no   reaches past alone no
+    n= 17:  a middle yes   surplus no   reaches past alone no
+    n= 19:  a middle yes   surplus no   reaches past alone no
+    n= 21:  a middle yes   surplus no   reaches past alone no
+    n= 23:  a middle yes   surplus no   reaches past alone no
+
+THE FOUR SOCIETY SECURITIES, INVERTED AT THE SCALE ABOVE
+  each opened singly, all else held, at three societies
+
+  the four whole: stopped True — the surplus died
+    surplus stands at []   parallels part at []
+
+  door 5: all-edge inverted — every across through one society
+          the living stopped no  — no stopping read
+          surplus at []   parallels part at []
+  door 6: no-seat-outside inverted — a standing order over every one
+          the living stopped no  — no stopping read
+          surplus at []   parallels part at []
+  door 7: riding inverted — one society pinned
+          the living stopped yes — a landing
+          surplus at []   parallels part at []
+  door 8: own-offering inverted — one society only following
+          the living stopped no  — no stopping read
+          surplus at []   parallels part at []
+
+BREAK CONDITIONS
+  a society alone carrying a surplus, or reaching past its own running
+  a pair of societies where either reaches past its own running
+  a society of societies carrying the surplus at every one of them
+  a reading at the scale above answering unlike the same reading below

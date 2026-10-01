@@ -1,0 +1,45 @@
+1. AGAINST THE ARRIVING · ONE ROUND BESIDE THE ONE BEAT · RINGS 3 TO 12
+   ring  3:     16 standings the ten pairs allow, 3 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  4:     46 standings the ten pairs allow, 4 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  5:    124 standings the ten pairs allow, 5 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  6:    324 standings the ten pairs allow, 6 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  7:    844 standings the ten pairs allow, 7 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  8:   2206 standings the ten pairs allow, 8 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring  9:   5776 standings the ten pairs allow, 9 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring 10:  15126 standings the ten pairs allow, 10 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring 11:  39604 standings the ten pairs allow, 11 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+   ring 12: 103684 standings the ten pairs allow, 12 places the round can close; the round parts from the one beat at [0, 1] node, and only ever at the seam: True
+
+2. THE COUNT · RINGS 3 TO 10
+   ring  3: the one beat keeps the count at every standing: True; the round is the whole one beat at 18 of 48; where the seam parts them, the count parts by {-1: 6, 0: 12, 1: 12}
+   ring  4: the one beat keeps the count at every standing: True; the round is the whole one beat at 80 of 184; where the seam parts them, the count parts by {-1: 16, 0: 56, 1: 32}
+   ring  5: the one beat keeps the count at every standing: True; the round is the whole one beat at 280 of 620; where the seam parts them, the count parts by {-1: 60, 0: 180, 1: 100}
+   ring  6: the one beat keeps the count at every standing: True; the round is the whole one beat at 876 of 1944; where the seam parts them, the count parts by {-1: 204, 0: 540, 1: 324}
+   ring  7: the one beat keeps the count at every standing: True; the round is the whole one beat at 2646 of 5908; where the seam parts them, the count parts by {-1: 630, 0: 1624, 1: 1008}
+   ring  8: the one beat keeps the count at every standing: True; the round is the whole one beat at 7888 of 17648; where the seam parts them, the count parts by {-1: 1872, 0: 4864, 1: 3024}
+   ring  9: the one beat keeps the count at every standing: True; the round is the whole one beat at 23238 of 51984; where the seam parts them, the count parts by {-1: 5490, 0: 14364, 1: 8892}
+   ring 10: the one beat keeps the count at every standing: True; the round is the whole one beat at 67640 of 151260; where the seam parts them, the count parts by {-1: 15960, 0: 41820, 1: 25840}
+
+3. THE TEN PAIRS AT EACH RUNNING · RINGS 3 TO 9
+   ring 3: the one beat keeps them at 16 of 16; the round against, at 24 of 48; the round with, at 6 of 48
+   ring 4: the one beat keeps them at 46 of 46; the round against, at 112 of 184; the round with, at 8 of 184
+   ring 5: the one beat keeps them at 124 of 124; the round against, at 390 of 620; the round with, at 10 of 620
+   ring 6: the one beat keeps them at 324 of 324; the round against, at 1212 of 1944; the round with, at 12 of 1944
+   ring 7: the one beat keeps them at 844 of 844; the round against, at 3654 of 5908; the round with, at 14 of 5908
+   ring 8: the one beat keeps them at 2206 of 2206; the round against, at 10896 of 17648; the round with, at 16 of 17648
+   ring 9: the one beat keeps them at 5776 of 5776; the round against, at 32112 of 51984; the round with, at 18 of 51984
+
+4. WITH THE ARRIVING · THE STANDINGS THAT KEEP THE TEN PAIRS · RINGS 3 TO 8
+   ring 3: 2 of 16: ['0+0+0+', '0-0-0-']
+   ring 4: 2 of 46: ['0+0+0+0+', '0-0-0-0-']
+   ring 5: 2 of 124: ['0+0+0+0+0+', '0-0-0-0-0-']
+   ring 6: 2 of 324: ['0+0+0+0+0+0+', '0-0-0-0-0-0-']
+   ring 7: 2 of 844: ['0+0+0+0+0+0+0+', '0-0-0-0-0-0-0-']
+   ring 8: 2 of 2206: ['0+0+0+0+0+0+0+0+', '0-0-0-0-0-0-0-0-']
+
+5. THE THREE-RING STANDING WHOLE AT PLUS
+   the standing            ['+', '+', '+']  count 3  within the ten pairs True
+   the one beat            ['0+', '0+', '0+']  count 3  within the ten pairs True
+   the round closing at 1  ['0+', '-', '0+']  count 2  within the ten pairs False
+   the round closing at 2  ['0+', '0+', '-']  count 2  within the ten pairs False
+   the round closing at 0  ['-', '0+', '0+']  count 2  within the ten pairs False
