@@ -27,7 +27,7 @@ Exhibit EIGHTEEN Natural Physics · carrying v378
 - *A society with no others joining receding at its loops*: a radioactive sample receding, each nucleus at no dependence on its age.
 - *The fields as bi-tri-volutioning stable form emanations, and the electrons as the bi-tri-unrelationing between the sphere and the natural torusing society*, the observings, at their naming at Natural Naming.
 - *At the numbers, a continuous flow on a sphere carrying a rest point and the torus carrying a flow with none*, Exhibit THIRTY's step 319, at its conditions.
-- *No term of the code carrying a sum*: a field's conservation law exact at its own subject. *Right, the observings, all prior*: the weak crossing's one hand.
+- *No term of the code carrying a sum*: a field's conservation law exact at its own subject. *Right, the observings, all prior*: the weak crossing's one hand. *The step numbers at this paragraph are at v376's numbering; the map to v378's is at the Co-Chaining Logic Registry's carrying, 380 at 522 among them.*
 
 *Its naming, at Natural Naming 2.4 and Exhibit ONE's current names.* Physics carries *ledger* 81 times, *carry* 76, *source* 70, *sign* 70, *membrane* 56, *landed* and *landing* 49, *run* and *runs* 42, *bounding-zeroing* 31 and *surplus* 18, and the file's own *Geodesic-method* and *technology*: each re-said at its thought and never swapped, *the accounting* at a field's ledger, *carrying*, *parity*, *the between*, *abundancing*, *method*, a field's word at its own description carried as the field's; the code's names at their v376 form, 1-co-bi-offering, 2-bi-co-offering, 12-bi-tri-parity-changing, 14-bi-tri-moralizing, 9-tri-bi-co-momentarying, 17-tri-co-offering, and the rest at Exhibit ONE's table.
 
@@ -100,20 +100,24 @@ Exhibit EIGHTEEN Natural Physics · carrying v378
 
 **Incoming, carrying only, at neurons and at earthquakes, and no hard problem (v374).** *Observings.* Consolidated fear memories, reactivated at retrieval, return to a labile state, and a protein-synthesis inhibitor in the amygdala shortly after produces amnesia, without reactivation not (Nader, Schafe and LeDoux, Nature 2000, at its abstract). The active CA1 place cells change from day to day, cells of the roughly 15–25% overlap keeping their fields (Ziv and colleagues, Nature Neuroscience 2013, at its abstract). Parkfield's moderate earthquakes came near every 22 years from 1857 to 1966; the 1985 forecast placed the next before 1993, and it arrived in 2004 (Bakun and Lindh, 1985, at the USGS page). The Landers earthquake's passing waves triggered seismicity up to about 1,250 kilometres away (Hill and colleagues, Science 1993, at its title); large earthquakes are more probable at high tidal stress, a tiny failure more likely to expand into a great rupture (Ide, Yabe and Tanaka, Nature Geoscience 2016, at its abstract). *Pattern matching.* Arrived: there is no memory; there is only carrying, as the method of living discovering next living; the explanation is identical for earthquaking as geodesic parity changing and for neurons; neither is memory, computation, read, write, representation, prediction or probability; there is no hard problem, all natural resolving. At the code the only thing passing between calls is the carrying, *11-social-other-self-chaining arrives at the next coupling as 3-self-other-sharing*. Recall re-forming at each retrieval, the place cells changing while the society continues, a fault's slip opening where a passing wave or the tide arrives: each a binary crossing, a parity changing locally opening a new path, and the Registry's engram, neural code, neural representation and earthquake predictability met as natural resolving. This session's own text re-said at the reading: *from memory* at its sources named *not fetched this session*, and *read* released where it named a living society's or a code's changing.
 
-## Ready, laid at v378
+## Ready
+
+*Laid at v378, the hardest at this file; then the proposal's receiving, at its own headings below.*
 
 **The hardest, gathered at v375, item 10, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
 10. **No total conserved, and the fields' conservation laws and the energy ledger**; 22 files. *Resolving found*: a total across the changing is a thing beside all things; a field's conservation law is the field's own result, exact at its own subject, and no total of a universe; at the code no term carries a sum, the sum of parities changing in 442 of 500 closed societies and staying, where it stays, by the pattern's own symmetry. *To write*: Natural Physics, Chemistry and Engineering at their ledgers, the Co-Chaining Logic Registry's F40 and F41.
 
-## Received at v378: the proposed Natural Physics v377, read at four readings apart
+### Received at v378: the proposed Natural Physics v377, read at four readings apart
 
 **Next at this file, at v378's receiving: the proposal at `incoming/natural_physics_v377/` is this file's own motion at the Natural Physics working, and it replaces this file at corus.me when its improving is finished, section 2 of the review, `incoming/review_natural_physics_v377/README.md`, is met at the proposal: twenty-two records of the field said wrongly, ten prior relations lost in correction with no reason named, the readings asserted where the file says them open, the file speaking of itself at its branch and its folders, the names parting from Natural Intelligence, and the explaining's doers and negations.**
 
-## Ready, at v378's receiving
+### Ready, at v378's receiving
 
 **The proposal, whole, at the Natural Physics working's branch**: five parts and forty-nine sections, every execution running again at Exhibit ONE's code and every output matching, fifteen of sixteen claims at the code holding, the released words fallen to none at nearly every word, fifty-one records of the field correct at their numbers and sources, thirty of the prior's forty sections whole, and each correction of the prior's overclaimings rightly made. Enters as this file's next version at its working's motion, section 2 of the review met first.
 
-## Concern, at v378's receiving
+## Concern
+
+*At v378's receiving of the proposal.*
 
 **Five binaries or six** at Natural Intelligence 1.4 and the Geodesic Improving Method 2.7, the proposal asserting six at 2.1; one list at both files, at the observings.
 
