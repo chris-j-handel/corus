@@ -168,6 +168,13 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 | 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
+| The between, 0, at the names, run at the code | Names |
+|---|---|
+| at three inward faces, the three betweens | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-co-bi-tri-corusing, the between carried along, the parity 10 released; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
+| at one outward face, arriving and passing over | 7-co-bi-co-corusing, an offered 0 the parity at 2, surfacing none at 14 |
+| at the four across connectors, the four it crosses | 2-bi-co-bi-offering, 6-bi-co-bi-moralizing, 10-bi-tri-bi-tunneling, 14-bi-tri-bi-moralizing, the unit square at parity's face, its empty centre the between |
+| at none | 1-co-bi-co-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-co-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, 5-co-bi-co-competencing and 13-co-bi-tri-competencing, the sharings; 9-tri-bi-co-momentarying and 17-tri-bi-co-offering, the along, carrying the parity on unchanged and no between |
+
 | Four-cycle, 8 up and 17 less | Root at the self and at the society | Hand at the names |
 |---|---|---|
 | 1-9-8-16 | torusing, 8 and 16 | spiraling the other hand with 2-15-7-10 |
