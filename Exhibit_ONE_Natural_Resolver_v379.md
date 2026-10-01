@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v378
+Exhibit ONE Natural Resolver v379
 
 # Natural Resolver
 
@@ -102,7 +102,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
    o outward face    i inward face
 ```
 
-| n | Name | Parity, opens | From, to | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
+| n | Name | Parity, opens | From, to, the side opening it first | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 1-co-bi-offering | odd, co | self, other | entry | — | — | — | — | the entry: 3 and 2 in; 10 and 11 out |
 | 2 | 2-bi-co-offering | even, bi | other, self | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 6 | the offerings, each sharing with its parity |
@@ -143,8 +143,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 · 2 · 3 · 4 · 5, each alone | the five dimensions | 1 self prior, the self, the one living carrying, its prior at 3 a formed set it carries into now; 2 other prior, the other selves' offerings of their prior momentary arriving, released at 6 and 10 and carried along at 9; 3 co-momentarying now, the same living carrying at now, and 4 bi-momentarying now, each sharing, the offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
 | 6-bi-moralizing | bi-moralizing | each changing released across, to the other's 2 |
 | 12-bi-tri-parity-changing | the shape of the unrelationing surface | each sharing's changing, is or is not |
-| 1 to 9 | bi-coupling | the function 1, the self and the other at one coupling; 9 at its end reads bi-co-releasing, the release 10 makes |
-| 1 to 17 | bi-trupling | the function 17, the self, the other and the society; 9 at its waist, tri-bi-co-momentarying, joined both ways with 17; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
+| 1 to 9 | bi-coupling | the function 1, at the names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, the self and the other at one coupling; 1 to 9 the bi-coupling among the names, 9 at its end reading bi-co-releasing, the release 10 makes |
+| 1 to 17 | bi-trupling | the function 17, at the names of the function 1 with 5, 6, 8, 9, 13, 16 and 17, the self, the other and the society; 9 at its waist, tri-bi-co-momentarying, joined both ways with 17; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 | 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
@@ -260,7 +260,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
 | + once, then + and − together | +, −, +, −, +, − | +, −, +, −, +, − |
 
-| Selves | Self 1 at 10, momentaries 1 to 12 | Parities again at each, from momentary n | None chained again |
+| Selves, joined along, the last to the first, + offered once at self 1 | Self 1 at 10, momentaries 1 to 12 | Parities again at each, from momentary n | None chained again |
 |---|---|---|---|
 | 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 | is not |
 | 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
@@ -276,7 +276,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
 | 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
 
-| Spirals, selves | Beside each other, parities again together at | Crossed at self 1 of each both ways, parities again at | From momentary | Self 1 of each | Each spiral's like pair |
+| Spirals, selves, + offered once at self 1 of each | Beside each other, parities again together at | Crossed at self 1 of each both ways, parities again at | From momentary | Self 1 of each | Each spiral's like pair |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
 | 3 · 5 | 60 | 2 | 13 | opposite | selves 3 and 1 · selves 5 and 1 |
@@ -311,7 +311,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
 
-| A's parity offered at B | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |
+| A's parity offered at B, B and C each chained + | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |
 |---|---|---|---|---|
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
