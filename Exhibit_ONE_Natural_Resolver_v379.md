@@ -102,7 +102,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
    o outward face    i inward face
 ```
 
-| n | Name | Parity, opens | From, to, the side opening it first | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
+| n | Name | Parity, opens | From, to, the opening side first | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 1-co-bi-offering | odd, co | self, other | entry | — | — | — | — | the entry: 3 and 2 in; 10 and 11 out |
 | 2 | 2-bi-co-offering | even, bi | other, self | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 6 | the offerings, each sharing with its parity |
