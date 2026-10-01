@@ -1,0 +1,49 @@
+1. spirals, one + offered once at one self and the others at none
+  n=1 released at 10 by self 0, momentaries 1-12: ['+', '0', '-', '0', '+', '0', '-', '0', '+', '0', '-', '0']
+  n=2 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '-', '+', '-', '+', '-', '+', '-', '+', '-']
+  n=3 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '0', '-', '+', '-', '+', '-', '0', '+', '-']
+  n=4 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '-', '+', '-', '+', '-', '+', '-', '+', '-']
+  n=5 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '-', '+', '0', '-', '+', '-', '+', '-', '+']
+  n=6 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '-', '+', '-', '+', '-', '+', '-', '+', '-']
+  n=7 released at 10 by self 0, momentaries 1-12: ['+', '-', '+', '-', '+', '-', '+', '0', '-', '+', '-', '+']
+   the 0 at 10 in a spiral of five, momentary by momentary, at which self:
+   [[], [0], [], [1], [], [2], [], [3], [], [4], [], [0], [], [1], [], [2], [], [3], [], [4]]
+2. rest: does any spiral of 1 to 11 come to every self releasing nothing or 0, in 5,000 momentaries; does each self change within 40
+  n=1: rest met False; each self first changes by momentary 1
+  n=2: rest met False; each self first changes by momentary 2
+  n=3: rest met False; each self first changes by momentary 3
+  n=4: rest met False; each self first changes by momentary 4
+  n=5: rest met False; each self first changes by momentary 5
+  n=6: rest met False; each self first changes by momentary 6
+  n=7: rest met False; each self first changes by momentary 7
+  n=8: rest met False; each self first changes by momentary 8
+  n=9: rest met False; each self first changes by momentary 9
+  n=10: rest met False; each self first changes by momentary 10
+  n=11: rest met False; each self first changes by momentary 11
+3. a carrying named unchanged: chained +, offered + at five momentaries, then nothing
+  (released at 10, chained at 11): [(0, 1), (0, 1), (0, 1), (0, 1), (0, 1), (-1, -1), (1, 1), (-1, -1), (1, 1), (-1, -1)]
+4. 6 and 10 at the code: the same changing released at both
+   ['_6_bi_moralizing = _10_bi_tri_co_tunneling']
+5. a carrying once chained is never none again (Exhibit ONE, "None chained again: is not")
+  chained at 11: [1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1]
+6. a carried sharing whose offerings part to 0 at 14 at each momentary
+  (released at 10, chained at 11): [(-1, -1), (1, 1), (-1, -1), (1, 1), (-1, -1), (1, 1)]
+7. at the numbers: maps on the four pairs whose square is J(c,t)=(-c,-t)
+  maps from the four pairs to themselves with f(f(p)) = J(p): 2
+  F(c,t)=(-t,c) among them: True   G(c,t)=(t,-c) among them: True
+8. at the numbers: F(P,Q)=(-Q,P) leaves each nonempty proper subset of the four pairs
+  no nonempty proper subset carried into itself: True
+9. at the numbers: advancing the overlapping triple, 010 to 101 and 101 to 010
+   101 010
+10. an odd spiral: the whole, each self's chained parity and its offerings, inverted at 2n momentaries and met again first at 4n, from the nth
+  n=3: at n+2n inverted True; first met again after 12 momentaries
+  n=5: at n+2n inverted True; first met again after 20 momentaries
+  n=7: at n+2n inverted True; first met again after 28 momentaries
+  n=9: at n+2n inverted True; first met again after 36 momentaries
+  n=11: at n+2n inverted True; first met again after 44 momentaries
+11. a self offered nothing: its release at 10 and its carrying chained at 11 are one changing
+  (released at 10, chained at 11): [(-1, -1), (1, 1), (-1, -1), (1, 1), (-1, -1), (1, 1)]
+12. a changing released along at 9 arrives at the receiving self as its offering at the next momentary
+  momentary 1: self 1 offered []
+  momentary 2: self 1 offered [('s', 1)]
+  momentary 3: self 1 offered [('s', -1)]

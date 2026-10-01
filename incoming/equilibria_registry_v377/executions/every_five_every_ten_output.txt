@@ -1,0 +1,12 @@
+1. the along through the four corner dots, at Exhibit ONE: 9 ('not-yet-co-competent', 'along') joined both ways with 17 ('co-competent-so-far', 'along') ; the four corners {2: ('bi-moral-so-far', 'arriving'), 6: ('not-yet-bi-moral', 'releasing'), 10: ('not-yet-bi-moral', 'releasing'), 14: ('bi-moral-so-far', 'arriving')}
+   momentary 1: self 1 offered []; self 0 chained None
+   momentary 2: self 1 offered [1]; self 0 chained 1
+   momentary 3: self 1 offered [-1]; self 0 chained -1
+   each changing carried along at 9 arrives at the receiving self at the next momentary, 17 the society's next momentary
+2. every 5 at 1 to 441, Natural Mathematics line 85: neutralling co, odd, along; floating bi, even, across
+   multiples of 5: 88; neutralling, odd: 44 ([5, 15, 25, 35]…435); floating, every 10: 44 ([10, 20, 30, 40]…440)
+   alternating at each 5: True
+3. at the ring of 440, Natural Numbers 11.1, each number k with its far side 440 - k: each fifth number meets a far side of its own kind
+   neutralling to neutralling: True ; floating to floating: True
+   the waist 220 and the ring 440 floating: True True ; 441 = 21 x 21, one past the ring: 441
+4. at the code's seventeen names: {5: ('5-co-competencing', 'neutralling, co'), 10: ('10-bi-tri-co-tunneling', 'floating, bi'), 15: ('15-co-bi-tri-corusing', 'neutralling, co')}
