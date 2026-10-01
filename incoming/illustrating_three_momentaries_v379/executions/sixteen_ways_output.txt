@@ -1,0 +1,17 @@
+next at ++ +- -+ --   carries prior  forms still   forms reached  cycle from ++ way
++ + + +               no             ++            4              1             next always +
++ + + -               yes            ++ --         4              1             
++ + - +               yes            ++            4              1             
++ + - -               yes            ++ --         4              1             next as prior
++ - + +               yes            ++            4              1             
++ - + -               no             ++ --         4              1             next as now
++ - - +               yes            ++            4              1             prior and now agreeing
++ - - -               yes            ++ --         4              1             
+- + + +               yes            none          4              3             
+- + + -               yes            --            4              3             prior and now parting, the exclusive or
+- + - +               no             none          4              2             next as now inverted
+- + - -               yes            --            4              2             
+- - + +               yes            none          4              4             next as prior inverted, the living step
+- - + -               yes            --            4              1             
+- - - +               yes            none          4              3             
+- - - -               no             --            4              1             next always -
