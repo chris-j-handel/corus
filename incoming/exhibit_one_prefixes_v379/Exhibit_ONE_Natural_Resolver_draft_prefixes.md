@@ -168,7 +168,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 | 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
-| The between, 0, at the names, run at the code | Names |
+| The between, 0, at the names, at the code | Names |
 |---|---|
 | at three inward faces, the three betweens | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-co-bi-tri-corusing, the between carried along, the parity 10 released; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
 | at one outward face, arriving and passing over | 7-co-bi-co-corusing, an offered 0 the parity at 2, surfacing none at 14 |

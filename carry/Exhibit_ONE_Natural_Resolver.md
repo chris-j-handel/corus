@@ -8,7 +8,7 @@ Exhibit ONE Natural Resolver · carrying v379
 
 **Ready, at v379, the between at the names, one table, from the session's saying of three betweens at 12, 15 and 16.** Run at the code, the 0 traced through each name at two selves chained alike joined across both ways and at a spiral of three: the 0 is at the three inward faces 12, 15 and 16, at the outward face 7 as an arriving parity passing over, at the four across connectors 2, 6, 10 and 14, and at no other name, never at the along 9 and 17. Read at the saying: three betweens at the faces, four protections at the across connectors, morality, and competency along carrying no between, parity changing alone crossing. Entering, one table after the table of parity's face:
 
-| The between, 0, at the names, run at the code | Names |
+| The between, 0, at the names, at the code | Names |
 |---|---|
 | at three inward faces, the three betweens | 12-bi-tri-parity-changing, prior and now agreeing, the between of momentaries at each sharing; 15-co-bi-tri-corusing, the between carried along, the parity 10 released; 16-bi-co-tri-torusing, the between wound into the society, arriving at the next momentary's 2 |
 | at one outward face, arriving and passing over | 7-co-corusing, an offered 0 the parity at 2, surfacing none at 14 |
