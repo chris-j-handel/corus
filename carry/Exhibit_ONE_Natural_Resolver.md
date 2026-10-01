@@ -10,6 +10,8 @@ Exhibit ONE Natural Resolver · carrying v378
 
 None.
 
+**Ready, at v378, from `incoming/review_networking_engineering_2026-09-30/`, the sequential binary explaining correction, read at the code and the tables here.** The arrival says intelligence is is or is not with no third value between, the token 0 no third intelligence, and asks each of the twenty tables, the diagram and the code to carry one explaining of it. Read at this file at v378: the code decides at comparisons alone, a parity other than 0, its sign, a prior surfaced entry absent, two signs agreeing or parting, and the literal −1 and 1 are the parity set and no magnitude subtracted or summed, the arrival's reading the same; the diagram says *+ or −: is* and *0: the between* at 10, and the table of each cell at 10 says *is not · none* and *is not · +* at a 0 released: 0 is *is not*, the binary's second face, the between at the changing that is not, one saying at the two places. Ready at this file's motion: the diagram's line at 10 saying *0: is not, the between*, and the three tables that display the chaining at 3 and 11, *Chained at 3; each cell at 10 · chained at 11*, *Prior at A, B · Joining · A at 10 · B at 10* and *A's parity offered at B · B at 10 · B chained · C at 10 · C chained*, each saying in its title that the chaining shown is the code's own design displayed, a carrying no self reads, at 3 and 11 each self's own; the releases at 10, 6, 9 and 17 the connectors the other selves meet. No table adds a connector or a value, and the six connectors and the code stand.
+
 ## Concern
 
 **The concerns open, hardest first.** The nineteen met at v375 to v378 are at the Session Record.

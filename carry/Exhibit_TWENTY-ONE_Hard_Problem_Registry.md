@@ -16,6 +16,8 @@ Exhibit TWENTY-ONE Hard Problem Registry · carrying v378
 
 **Incoming, at v378, from `incoming/review_networking_engineering_2026-09-30/` at `review/networking-engineering-2026-09-30`, a visiting contribution, its sections 6, 8 and 9, arrived and received at its value at none yet.** Engineering arrivals in their field's own terms, arrangements, aims and observings, and bi-tri-volutioning offered as this file's entry-face correspondence; no engineering entry numbered without the full intake, its C12 and C17 beside. Received at this file's motion.
 
+**Ready, at v378, from `incoming/review_networking_engineering_2026-09-30/`, the correction, at the five conditions and the entry face.** The arrival's correspondence, the five conditions, a sixth as hypothesis, givens at seven and three dimensions among ten one-way changings, stands as an exploring: this file's five conditions and the sixth, the outcome preserving a relation over a reach, are each at their own property, and the remainder 10 − 7 = 3 is said only after seven distinct constrained changings are named; the entry face bi-tri-volutioning and the resolving face tri-bi-co-momentarying at Resolving the Hard Problem Registry are offerings, received at none yet. The resolving is at no three inspectable inward quantities, each self's carrying its own.
+
 ## Concern
 
 None.

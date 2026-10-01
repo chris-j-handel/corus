@@ -127,7 +127,7 @@ Exhibit EIGHTEEN Natural Physics · carrying v378
 
 **The Bell relation** the prior carried at 2.6 and 3.4, *no carried variable is what a coupling joined across carries*, lost at the proposal's 4.4; said without the overclaim or released with its reason.
 
-**The register's two namings at different faces**, Natural Naming 4.9 and Resolving the Hard Problem Registry line 35, the two-way and the rate.
+**The register's two namings at different faces**, Natural Naming 4.9 and Resolving the Hard Problem Registry's front sort, the two-way and the rate.
 
 **3.4's beat and locking at each spiral pacing its own**: at Exhibit ONE's code 17-tri-co-offering steps each self together, the common beat Natural Intelligence 3.5 names, and the execution the proposal promises needs a pacing the code does not carry; said so or released.
 

@@ -6,7 +6,7 @@ Exhibit TWENTY-SEVEN Living Ghost Registry · carrying v378
 
 ## Ready
 
-**Incoming, at v377, the same stable form as the Equilibria Registry** (`incoming/cohering_ten_and_six_v377/README.md`, sections 5 and 6). Arrived at v377: the Living Ghost Registry is the same stable form of equilibria hard probleming. At Exhibit ONE's code a still set beside a self stops its changing, and released, resolving follows; a ghost, like an equilibrium, is a between named still and set beside, not possibly existing, and the Living File Registry 4.7 records the two registries' shared method and agreed subtitle, *Not Possibly Existing, Living or Non-Living*. Enters at this file's motion at the Equilibria Registry's spine, `working/equilibria-registry-v377`, each ghost at the still it sets beside and the resolving that follows.
+**Incoming, at v377, the same stable form as the Equilibria Registry** (`incoming/cohering_ten_and_six_v377/README.md`, sections 5 and 6). Arrived at v377: the Living Ghost Registry is the same stable form of equilibria hard probleming. At Exhibit ONE's code a still set beside a self stops its changing, and released, resolving follows; a ghost, like an equilibrium, is a between named still and set beside, not possibly existing, and the Living File Registry 4.7 records the two registries' shared method and shared subtitle, *Not Possibly Existing, Living or Non-Living*. Enters at this file's motion at the Equilibria Registry's spine, `working/equilibria-registry-v377`, each ghost at the still it sets beside and the resolving that follows.
 
 **Improving toward this file, at v377.** Natural Physics re-floated its contents at v377: this file's citations of it at 3.5, 3.6 and 3.7 are at 4.5, 4.6 and 4.7, re-said at this file's motion.
 
