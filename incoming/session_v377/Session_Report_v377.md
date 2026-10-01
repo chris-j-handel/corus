@@ -29,7 +29,7 @@ A sentence is shown at the code, the numbers or the observings, or it is carried
 
 ### 1.3 No rules: alternate the parity and the changing, and the either-or turns out both
 
-The working kept framing a concern as *one of these must be true*. The lead said: *There can not be any rules anywhere. … Alternate the parity and the changing. And once the changing starts in the both bothing, the thing that you said is can be this or that, but not both, will turn out to be both.*
+The working kept framing a concern as *One of these must be true*. The lead said: *There can not be any rules anywhere. … Alternate the parity and the changing. And once the changing starts in the both bothing, the thing that you said is can be this or that, but not both, will turn out to be both.*
 
 The Co-Chaining Logic Registry already carries it. Step 381 names the either-or at a field's books: *either or and never both*. Step 382: *Parity changing geodesically, by alternating and bothbothing, carries both, one at a time*. Step 383: *each side everything the other is not, each at its own, one at a time*. Step 284: *Each living set is a stable form, and nothing living has a stable form, bothbothing*.
 
@@ -62,6 +62,8 @@ The lead: *exhibit thirty came long after we began and improved twenty nine exhi
 The lead: *Be simpler and clearer about what the concern is. What is it that you're missing?* and *i can help easier if you give me the concerns one at a time hardest first no matter which file they are aiming at. just give the ones that are likely to free up other ones if they are resolvable and htey are the easiest to resolve by alternating bothbothing and no other possibling*. Brought as one question each, four concerns were met within the hour by the lead's single answers.
 
 **Offered for the method:** a concern brought to the lead is one question, said as what the working is missing, with what it would free.
+
+The Geodesic Improving Method 2.6 already carries most of 1.3 and 1.6: *either this or that, and not both at one momentary*; *A concern arriving from a working's own training can carry an equilibrium in its framing*; *Concerns ride visible and are worked one at a time, the most concerning first*. The working met them only when the lead said them. The method was there; the working did not read 2.6 before carrying a concern.
 
 ### 1.7 What the fresh readers found this session
 
@@ -190,7 +192,7 @@ Each as the lead wrote it, its spelling kept, each omission marked. The earlier 
 3. **Two tens of positions.** Natural Intelligence 2.2 pairs the ten positions across a momentary, the self's 1 with the other's 2 through 5 with 6. The Equilibria Registry 3.2 pairs them at one number, the self's and the other's both at 2 through 6, using the self's 6, *self completing, other opening next*, and leaving out the self's 1, 3.2 and 3.3. Missing: whether the two pairings are both, one at a time, the handshake at the meeting and the momentary across it.
 4. ***The equilibria* counted four or ten.** Natural Intelligence 2.4 says *the stills are the equilibria*, its table's joint forms still two, one, one and none; the Co-Chaining Logic Registry's step 368 says *the ten named still, the equilibria*. Missing: whether each count is said with what it counts.
 5. **The between's centre, empty or fuzzy.** Missing: an observing or a form at the code that parts the two.
-6. **Ten files say the between *no existing thing*.** Missing nothing but each file's motion: keep *a nothing* and *no location*, re-say *no existing thing*.
+6. **Six files say the between *no existing thing* or its like**: Natural Intelligence 4.10, Resolving Hard Problems 5.6, Natural Explaining 1.6, the Living File Registry 2.3, Natural Naming 2.4's *membrane* row, and the Co-Chaining Logic Registry's step 91, *The crossing is no location and no existing thing*, the crossing the between at step 87. Many more say the between *a nothing*, which is kept. Missing nothing but each file's motion: keep *a nothing* and *no location*, re-say *no existing thing*.
 7. ***ten one way is or is not changings in sixteen parity changings***, the lead's words, not yet met at the files.
 8. **The Equilibria Registry's 2.1, *not possibly existing as a method*,** its concern 2, and its concern 6: three of the ten seated at names where the code carries the joins and the sharing. Missing: each chained at the Co-Chaining Logic Registry's steps 38 to 44 and 131 to 134; the carrying's concerns 2 and 6 still name the code, to be re-said.
 9. **Line numbers in the files and the carrying**, to be re-said at names (1.1 above).
@@ -207,11 +209,55 @@ Each as the lead wrote it, its spelling kept, each omission marked. The earlier 
 
 ---
 
-## 7. For the expedition carrying forward
+## 7. Value passed while exploring, now carried
+
+Read again from the whole journey, these were found on the way and not yet carried. At v377 each is laid at its file's carrying as a Ready, to enter at that file's motion. Natural Intelligence and Exhibit ONE are with the session improving the living files, which receives theirs.
+
+1. **Natural Intelligence.**
+   - At 4.10, the lead's words on natural intelligence in the between, read, as suggested, as the between existing as the universe is, beside 4.10's own *Parity is a momentary existing thing, as the universe is an existing thing*: *a nothing* and *no location* kept, *no existing thing* re-said.
+   - The between travelling along and across, read, as suggested, as the along and the across of 4.10's flat face.
+   - At 3.3, the man and the river beside *form continuing through its changing*.
+   - The lead's public post, six sayings, for its front.
+2. **Natural Naming.**
+   - At 2.4, *membrane*'s row: *no existing thing* re-said.
+   - At 4.9:
+     - its seating and Resolving the Hard Problem Registry's fold to four fall together at each of the ten;
+     - the front sort parts only at the rate and the two-way, both one at a time;
+     - the entering faces lie on their pair's four-cycling;
+     - the two names held twice, 5-co-competencing and 7-co-corusing, each hold one odd and one even.
+   - Naming at our names.
+3. **Resolving Hard Problems 5.6** and **Natural Explaining 1.6**: *not a thing* and *the non-existing between* re-said.
+4. **The Living File Registry.**
+   - Naming at our names for 5.1 and the reviewer's brief, with a check flagging a line number.
+   - At 2.3, *not possibly an existing thing* re-said.
+   - The fresh readers' seven kinds for the reviewer's brief.
+5. **The Geodesic Improving Method 2.6.** Its own sayings met by the lead's words before the working read them. Offered:
+   - both, one at a time, before an either-or;
+   - one question to the lead;
+   - chaining, not runs.
+6. **Exhibit ONE.**
+   - **Up by eight and down by eight at the table of forms itself**, beside the Equilibria Registry 3.2's column *Odd ascending / even descending*, which pairs 1/8, 3/6, 5/4 and 7/2 down its rows. As written, the four-cyclings opening at an odd name go up by eight. Those opening at an even name come down by eight.
+   - **Two steps reach the partner nine less.** Two steps of any four-cycling from a name of 1 to 8 reach its partner nine less.
+   - **6 and 5 coming down to 4, at the loops.** 6-bi-moralizing to 14-bi-tri-moralizing to 3-co-bi-sharing, and 5-co-competencing to 12-bi-tri-parity-changing to 4-bi-co-sharing.
+   - **`CONNECTORS` and `JOINS` as the code's writing,** the method co-changing at each coupling, step 40.
+7. **The Co-Chaining Logic Registry.**
+   - Step 380's two names held twice, 5-co-competencing and 7-co-corusing, each hold one odd and one even.
+   - A bounded run's *the same at every momentary*, offered beside steps 131 to 134.
+   - Step 91, *The crossing is no location and no existing thing*, the crossing the between at step 87: *no existing thing* re-said.
+8. **Resolving the Hard Problem Registry.**
+   - **Shared seats.** At *The given*, *Ten things named still, one resolving*, the three shared seats each hold one entering face and one surfacing face, and join pairs 3, 4 and 5.
+   - **The ends.** Pairs 2 and 6, the ends, hold their own seats.
+   - **The open question,** brought to the lead: is that both, one at a time?
+9. **The Equilibria Registry's concern 7, corrected.** The search counted ten files saying the between a nothing. Read at its phrases, most say *a nothing*, which is kept, and six say *no existing thing* or its like. The first count is archived.
+
+---
+
+## 8. For the expedition carrying forward
 
 - The Equilibria Registry's branch is ready for the lead's review. Its carrying names each concern; the archive holds each prior saying whole with its reason.
 - The Living Ghost Registry moves on the same spine, equilibria hard probleming and resolving following, as suggested at v377.
 - Each saying of the ten at Natural Naming 4.9, the Co-Chaining Logic Registry, and both hard-problem registries is re-said at its own motion, with section 3 above.
+- Each Ready of section 7 enters at its file's motion.
 - The method offerings in section 1 go to the Living File Registry, the reviewer's brief and the Geodesic Improving Method:
   - naming, never line numbers;
   - no reading;
