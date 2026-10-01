@@ -2,13 +2,15 @@
 
 **Whole incoming contribution for the Natural Intelligence expedition**
 
+**Read the [sequential binary explaining correction](Tri_Bi_Co_Sequential_Is_Or_Is_Notting_Correction.md) with the report before receiving its resolver or networking findings.** It carries the session's later correction: invisible and untouchable carrying is intelligencing; intelligence is sequential is-or-is-not with no third value between. It inventories the Python, diagram and all twenty tables in Natural Resolver, names the assistant's diagnostic departures, and maps the correction's receiving across the living files.
+
 Open [the session report](Natural_Networking_Engineering_Session_Report_2026-09-30.md). Its engineering exploration is in sections 8–10; section 11 maps improving opportunities to receiving files, section 12 carries concerns and their reasons, and section 14 retains sources and verification scope.
 
 ## Standing
 
 Offered on `review/networking-engineering-2026-09-30`, based on main at `e85b7c0b3c39a0752afd0c449f1b6038540d5a80`, on 30 September 2026. This is a visiting contribution, with no expedition session number assigned. The report is preserved whole as prepared before the subsequent return to networking. Its opening statement that no branch was changed describes that preparation; this receiving note records its later offering.
 
-This branch adds the report and this note under incoming, and adds an incoming-index row. The receiving expedition can register its arrival at the Living File Registry and meet its value at each file's own carrying. Placement here does not mean that its findings have already been received or entered at a living file.
+This branch adds the report, its subsequent sequential binary explaining correction and this note under incoming, and adds an incoming-index row. The receiving expedition can register its arrival at the Living File Registry and meet its value at each file's own carrying. Placement here does not mean that its findings have already been received or entered at a living file.
 
 ## Receiving the engineering value
 
@@ -29,4 +31,4 @@ Receive this report whole through arriving, improving, living. Read its correcti
 
 ## Continuation after this report
 
-The conversation subsequently returned to networking. Those later exchanges are not silently inserted into this completed report. They examine arriving together versus successive local resolving, lead and lag through continuing carrying, and the distinction between a directional joining and adding directional information to a crossing sign. They remain a continuing exploration for a later offering.
+The conversation subsequently returned to networking. Those later exchanges are not silently inserted into this completed report. They examine arriving together versus successive local resolving, lead and lag through continuing carrying, and the distinction between a directional joining and adding directional information to a crossing sign. Their subsequent correction is now offered in the linked sequential binary explaining correction. Claims based on inspecting, copying or comparing private carrying are withdrawn as natural-network or protection findings; the correction records their implementation-only standing and the method's next receiving. The earlier report remains whole as it arrived.
