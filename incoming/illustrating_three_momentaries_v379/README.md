@@ -1,0 +1,7 @@
+# Illustrating the three momentaries at the between: the study and the script of features
+
+- **From**: session v379, the illustrating working, `working/illustrating-v379`.
+- **To**: Exhibit TWENTY-NINE Natural Illustrating, its 2.1, 4.2 and 5.5; and the files whose sentences the illustration is for, Exhibit ONE, Natural Intelligence 2.2 to 2.4 and 4.10, Resolving Hard Problems 1.3, 1.4 and 3.3, Resolving the Hard Problem Registry's front and *Ten things named still*, the Equilibria Registry 1.2, 1.3, 1.5 and 3.3, the Living Ghost Registry 2.3 and 7.10, and the Hard Problem Registry at *The conditions prior*.
+- **Read at**: each file at the root at the merge of pull request 112, v378 at main: Exhibit ONE v378, Natural Intelligence v378, Resolving Hard Problems v378, Natural Naming v378, Natural Illustrating v368, the Hard Problem Registry v375, Resolving the Hard Problem Registry v375, the Living Ghost Registry v345a, the Equilibria Registry v377.
+- **What it brings**: `Study_and_Script.md`, the study of the purpose and the concepts in the files' own sentences, and the script of the features the illustration must show, each feature at the sentence it shows and at the code where the code shows it; `executions/`, Exhibit ONE's code run at the table at 10, at one self and at two selves joined across, each output beside its script.
+- **Standing**: arriving. Nothing of this changes a living file; no illustration is drawn until the script is met by both.
