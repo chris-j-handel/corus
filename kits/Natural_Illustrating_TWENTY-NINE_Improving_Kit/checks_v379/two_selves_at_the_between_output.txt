@@ -1,0 +1,7 @@
+Part 1. A offered + once at momentary 1, B offered nothing
+  A at 10: + - + - + - + -    chained at 11: + - + - + - + -
+  B at 10: none + - + - + - +    chained at 11: none + - + - + - +
+
+Part 2. A and B each offered + once at momentary 1
+  A at 10: + 0 - 0 + 0 - 0    chained at 11: + + - - + + - -
+  B at 10: + 0 - 0 + 0 - 0    chained at 11: + + - - + + - -

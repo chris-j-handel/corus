@@ -8,6 +8,8 @@ Exhibit THREE Natural Numbers · carrying v379
 
 None.
 
+**Ready, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 31, for 5.5 or 7.8: the golden triangle at the pentagram's own form.** The user at the working: the golden angle, triangle, square and ratio lead to golden natural intelligence. The files carry φ alternating and never arriving, the two windings, the pentagon and pentagram as the ten's two sides, and the three golden rectangles at one hundred twenty degrees; no golden triangle and no golden square by name, and the golden angle at Natural Biology's carrying alone. The golden triangle is the pentagram's own isosceles at φ; is or is not here, the rest released at the field's names.
+
 ## Concern
 
 **The hardest, gathered at v375, item 25, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
@@ -18,3 +20,5 @@ None.
 **Concern, at v378, for both: a numeral alone is no correspondence** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 6, item 3). 24² − 23 × 25 = 1 holds at each n, n² − (n − 1)(n + 1) = 1, and singles out no apex; *fifty-nine to light* and *sixty as light* are numerals alone; the periodic table's 118 is a field's own result at the same numeral. Its reason: each numeral's relation said or its correspondence released, at this file's motion.
 
 **Received at v378 from `incoming/co_chaining_coverage_v378/` and met at this file's motion at v378**: 5.2's four roots at the seventeen names, competencing at 5 and 13 and moralizing at 6 and 14, four of the ten; 9.7's *steps it four* said as the chain's step at four parities beside the placing at 8n − 7, two relations at one span; 9.1's *the surface* at *the ring of four hundred forty*, 59 the surface alone. 8.2's *the exclusive or is parity, its period three* stands: Natural Intelligence 2.4's table names the exclusive-or way *parity* at a cycle of three, and the living step, next as prior inverted, at four; one word at two of the sixteen ways, for both, at Natural Naming's word.
+
+**Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 6, for both: sixty a position or a between.** 7.1 says sixty is between the going and the returning, at no prime; Natural Physics 3.1 says a turn is at sixty, a position that carries; Natural Chemistry 4.4 says no element carries at sixty. Position or between is said as one at the three files' motions; the illustrating's 5.1 names the parting.
