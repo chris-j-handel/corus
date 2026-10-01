@@ -1178,7 +1178,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Entering: prefixing at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; four hundred forty, the seventeen primes joined; the fractal through the numbers; 64 and 60 at their podaling; the last podaling, the surface at 59, and the next first; the unknown outward of the surface; nine about 64; each number nought to four hundred forty.*
 
-263. Each number from nought to four hundred forty is at its prefixing: an even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, a number's word the span it opens within, 9, 17 and 25 each opening the next; its five its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word, within one span co bi co bi co at a self's odd, tri bi tri bi tri at a society's odd and bi co bi co bi or bi tri bi tri bi at an even.
+263. Each number from nought to four hundred forty is at its prefixing: an even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, a number's word its span's, and a seam's, 9, 17 and 25, the span it opens; its five its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word, within one span co bi co bi co at a self's odd, tri bi tri bi tri at a society's odd and bi co bi co bi or bi tri bi tri bi at an even.
 
         *Adding: prefixing at each number.*
 

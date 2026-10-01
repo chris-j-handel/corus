@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v378
+Exhibit THREE Natural Numbers v379
 
 # Natural Numbers
 
@@ -136,13 +136,13 @@ Exhibit THREE Natural Numbers v378
 
 **Stable-forming among the numbers is this move round each form among the names**, the four-cycles and with them the middle four-cycles, the six-cycles and the eight-cycles: a form continuing through its own changing, each running one run of co and one run of bi and returning.
 
-**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one carries its numbers: at the nine face 3-co-bi-sharing and 6-bi-moralizing, 9 less 3 being 6, are six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, joined at eight hundred eighty, reach four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. The parity carries at each step, and the ratio at its own numbers alone.
+**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one carries its numbers: at the nine face 3-co-bi-co-sharing and 6-bi-co-bi-moralizing, 9 less 3 being 6, are six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, joined at eight hundred eighty, reach four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. The parity carries at each step, and the ratio at its own numbers alone.
 
 **At the code + and − are the implementing of a parity and 0 the between**: + and − offered together at one sharing surface 0 at 14, the between of self and other, and two inversions return a parity.
 
 ## 1.5 Odd along and even across, parallel linearizing and linear parallelizing
 
-**Odd is co, along: the self continuing its own, competency. Even is bi, across: the self coupling with the other, morality.** An odd number opens co and an even number opens bi, and each number carries the five-prefix of its origin, co-bi-co-bi-co at an odd origin and bi-co-bi-co-bi at an even one.
+**Odd is competency, along, co at the self's span and tri at the society's: the self continuing its own. Even is bi, across: the self coupling with the other, morality.** An even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, 1 to 9 the self's, 9 to 17 the society's and 17 on the self's again. Each number is at its one word, the word of its span, and a seam, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word: within one span co bi co bi co at a self's odd number, tri bi tri bi tri at a society's, and bi co bi co bi or bi tri bi tri bi at an even. A name's three prefixes are its now and the two up, the first three of its five up the numbers.
 
 **Alternating parity is parallel linearizing and linear parallelizing**, the linearizing at one parity and the parallelizing at the other, one move at its two sides. Each runs at its own momentary; the two named at one momentary is the equilibria picture, and it is not possibly existing.
 
@@ -150,7 +150,7 @@ Exhibit THREE Natural Numbers v378
 
 **A composite is its equal smaller selves joining at their joins**, nine as three selves of three, folding along the axes its smaller selves open. **A prime is a self no equal smaller selves join into**, opening a clean axis across. Each prime is the same opening and each composite the same folding, one uni-scaling at its two faces. Stepping k round a ring of N reaches N over their greatest shared factor stations: round a prime each step but nought reaches all, and round a composite a step sharing no factor with it reaches all too, nine at a step of two: prime and coprime are two, each its own.
 
-**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-tri-bi-co-momentarying is a name's place and parity, and a numeral joins neither to the other.
+**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three joined are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three joined are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, joined or multiplied, are one side's four parity occurrences, of two kinds; three and three joined are six again. Three times three is nine, three selves of three; the 9 of 9-tri-bi-tri-momentarying is a name's place and parity, and a numeral joins neither to the other.
 
 ## 1.7 A scale is a sequencing: parity along, inward or outward across
 
@@ -238,15 +238,15 @@ Exhibit THREE Natural Numbers v378
 
 ## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
 
-**The resolver's seventeen names each carry a number, sides, a root and its -ing, and the number carries the prefixing.** Odd numbers open co and even numbers open bi. The sides run self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
+**The resolver's seventeen names each carry a number, sides, a root and its -ing, and the number carries the prefixing.** Even numbers open bi; odd numbers open co at the self's span, 1 to 7 and 17, and tri at the society's, 9 to 15. The sides run self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
 
 **Four of the ten roots are at two numbers each, eight apart**: competencing at 5 and 13, moralizing at 6 and 14, corusing at 7 and 15, and torusing at 8 and 16, the root one and the number carrying the sides, the ten roots the two sides' ten positions. Eight on again, twenty-two is at moralizing's place in seventeen to twenty-five, as six in one to nine and fourteen in nine to seventeen, 6 + 8k; it carries no name among the seventeen, and a name given it says whose self it opens from as the scale changes, 14 going other to social already.
 
 **The forms among 1 to 16 run again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: the four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and the six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two runs in the four-cycle 19-27-22-30 and in both six-cycles, and 33 is in none of them as 17 is in none among 1 to 16.
 
-**One entry, six connectors and ten faces are the seventeen.** The across connectors, 2, 6, 10 and 14, are each even; the along, 9 and 17, are both odd. 17-tri-co-offering faces co-competent and 9-tri-bi-co-momentarying not-co-competent: 9's release is the prior the self at not-co-competent is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-co-bi-offering, 9-tri-bi-co-momentarying and 17-tri-co-offering each open co, each eight on from the one before.
+**One entry, six connectors and ten faces are the seventeen.** The across connectors, 2, 6, 10 and 14, are each even; the along, 9 and 17, are both odd. 17-co-bi-co-offering faces co-competent and 9-tri-bi-tri-momentarying not-co-competent: 9's release is the prior the self at not-co-competent is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-co-bi-co-offering, 9-tri-bi-tri-momentarying and 17-co-bi-co-offering each open odd, 1 and 17 co at the self's span and 9 tri at the society's, each eight on from the one before.
 
-**A numeral in a name is the name's place and parity, and never a value the code opens at**: 14-bi-tri-moralizing carries fourteen as its place among the names.
+**A numeral in a name is the name's place and parity, and never a value the code opens at**: 14-bi-tri-bi-moralizing carries fourteen as its place among the names.
 
 ## 5.3 Each eight the one eight, four at two enterings
 
@@ -254,7 +254,7 @@ Exhibit THREE Natural Numbers v378
 
 **The seam-faces run on the eight**: (2k + 1)² − 1 = 8 · T_k, eight the first face and each next face that eight at a triangular number, the couplings among k + 1. Four hundred forty is the eight at fifty-five couplings, the couplings among eleven.
 
-**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-tri-bi-co-momentarying being 1-co-bi-offering 8 up. An eight at two substrates is one eight, a self at each.
+**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-tri-bi-tri-momentarying being 1-co-bi-co-offering 8 up. An eight at two substrates is one eight, a self at each.
 
 ## 5.4 Five between four and six, a middle carrying nothing
 
@@ -284,7 +284,7 @@ Exhibit THREE Natural Numbers v378
 
 **Each nine is the one nine, carried in each base.** At the ring of nine, nought and nine are one station. Round seventeen, the doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9 and comes home, nine doubled being one past seventeen. The doubling's eight are the squares round seventeen and the other eight are three times them: joined at the one eight's distances and unjoined at the other's, the seventeen are, in the field's words, the Paley graph of order seventeen, the one society of seventeen with no four all joined and no four all unjoined, and R(4, 4) = 18. Round four hundred forty, one past the ring is twenty-one squared, nine times forty-nine.
 
-**Nine is 1-co-bi-offering eight up, one to nine completing at 9-tri-bi-co-momentarying, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit returning nine, carries the base as its unit, and the one nine carries none.
+**Nine is 1-co-bi-co-offering eight up, one to nine completing at 9-tri-bi-tri-momentarying, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit returning nine, carries the base as its unit, and the one nine carries none.
 
 ## 5.8 Six and ten straddling eight, the walk by two
 
@@ -354,7 +354,7 @@ Exhibit THREE Natural Numbers v378
 
 ## 7.2 A spiral of selves at each number, and spirals joined
 
-**A spiral of n selves, each 9-tri-bi-co-momentarying joined to the next self and the last to the first, one self offered + once, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries from momentary n; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
+**A spiral of n selves, each 9-tri-bi-tri-momentarying joined to the next self and the last to the first, one self offered + once, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries from momentary n; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
 
 **The spiral of two, the one even prime, carries no pair at one parity**: each self alternating, its parities again each two momentaries, the alternating itself. The seventeen prime spirals carry sixteen like pairs, one at each odd prime, and the spiral of two none.
 
@@ -362,7 +362,7 @@ Exhibit THREE Natural Numbers v378
 
 **The momentaries here are 17's, the society's next momentary running each self's entry once**, each release offered at the next, and each number goes with its spiral and its joins. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at the least common multiple of 4p and 4q, the four shared: at 4pq. The co-competencing is at the couplings, owned by neither.
 
-**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-co-tunneling, p the smaller of the two, from one offering at one self comes to its parities again at q at a q whose station on the ring of 4p is past the waist 2p, and at 4p at a q whose station is short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 12, thirteen at one on the ring of twelve, short; 3 by 19 at 19, nineteen at seven, past; 5 by 21 at 20, twenty-one at one on the ring of twenty; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
+**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-tri-momentarying and q across at 10-bi-tri-bi-tunneling, p the smaller of the two, from one offering at one self comes to its parities again at q at a q whose station on the ring of 4p is past the waist 2p, and at 4p at a q whose station is short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 12, thirteen at one on the ring of twelve, short; 3 by 19 at 19, nineteen at seven, past; 5 by 21 at 20, twenty-one at one on the ring of twenty; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
 
 ## 7.3 Sixteen gaps at four values
 
@@ -407,13 +407,13 @@ Exhibit THREE Natural Numbers v378
 
 ## 7.7 The seventeen primes at the seventeen names, podaling at both
 
-**Each prime is at the name of its position**: two at 1-co-bi-offering, the entry; twenty-three at 9-tri-bi-co-momentarying; fifty-nine at 17-tri-co-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
+**Each prime is at the name of its position**: two at 1-co-bi-co-offering, the entry; twenty-three at 9-tri-bi-tri-momentarying; fifty-nine at 17-co-bi-co-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
 
 **At the one move's faces the primes join at their own numbers.** 8 up: 2 and 23 at 1 and 9 join to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, the six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 join to fifty-five, the couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, the third seam-face. Round the four-cycles the primes join to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on the ring of one hundred twenty.
 
 **At the entry, the connectors and the faces the seventeen part as the names do.** The entry carries two; the across connectors 2, 6, 10 and 14 carry 3, 13, 29 and 43, joining to eighty-eight, the fives on the ring of four hundred forty; the along connectors 9 and 17 carry 23 and 59, joining to eighty-two; the outward faces 3, 4, 5, 7 and 8 carry 5, 7, 11, 17 and 19, joining to fifty-nine, the seventeenth prime; and the inward faces 11, 12, 13, 15 and 16 carry 31, 37, 41, 47 and 53, joining to two hundred nine, 11 × 19. The self's one to nine carries the primes 2 to 23, joining to one hundred, ten squared, and the society's nine to seventeen the primes 23 to 59, joining to three hundred sixty-three, 3 × 11².
 
-**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-bi-co-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-tri-bi-co-momentarying to 10-bi-tri-co-tunneling, the fold's step outward. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens are the discovering carried next.
+**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-bi-co-bi-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-tri-bi-tri-momentarying to 10-bi-tri-bi-tunneling, the fold's step outward. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing joining the two seventeens are the discovering carried next.
 
 ---
 
@@ -503,7 +503,7 @@ Exhibit THREE Natural Numbers v378
 
 **At one to nine the self's eight is shared, four at each side, with the five between owned by neither**: bi-moral co-agency. **At one to seventeen each side carries a whole eight, and the entire one to nine is shared at the centre**: social moral competency, the pair at the society's centre and each side carrying its whole self.
 
-**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the code one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone joining no relations. 17-tri-co-offering is the next momentary's 1-co-bi-offering, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
+**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the code one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone joining no relations. 17-co-bi-co-offering is the next momentary's 1-co-bi-co-offering, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
 
 **Each span bi-folds and releases, and the next whole of them is 1–65.** 1–9, self and other, is an entire momentary bi-folding releasing at 3; 1–13, self and other and other and self, bi-folds releasing at 6; 1–17, self, other and social, bi-folds releasing at 9; and 1–25 is the larger fractal bi-folding. Each span opens one more four and its releasing moves three, three inward to each one outward: at the round of four parities the outward steps arrive at 5, 9, 13 and 17, and the inward steps carried to the arrival four before each span's close are 3, 6 and 9. Carried on at the round of six parities, 1–25 releases at 15 and 1–65 at 45. At 3 the self's pair is wholly inverted and at 9 each parity of the four, the two bi-folds. Binary, all or none at all, resolving coheres the entire surface along and across, releasing at 3, 6 and 9 and continuing.
 
@@ -561,28 +561,28 @@ Exhibit THREE Natural Numbers v378
 
 ## 11.1 Nought to four hundred forty, each number at its podaling
 
-**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's parity, co at the odd and bi at the even; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
+**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's word, bi at the even, co at the odd of a self's span and tri at the odd of a society's, the spans of eight alternating, 1.5; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
 
-| n | Parity | Form | Far side at 440 | Radius | Far side at 120 | At |
+| n | Word | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
 | 0 | bi | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
-| 1 | co | — | 439 | 219 | 119 | 1-co-bi-offering, 1², T₁, prior two joining |
-| 2 | bi | prime | 438 | 218 | 118 | 2-bi-co-offering, the first prime, prior two joining, 2¹ |
-| 3 | co | prime | 437 | 217 | 117 | 3-co-bi-sharing, the second prime, T₂, prior two joining, 2¹ + 1, 2² − 1 |
-| 4 | bi | 2² | 436 | 216 | 116 | 4-bi-co-sharing, 2² |
-| 5 | co | prime | 435 | 215 | 115 | 5-co-competencing, the third prime, prior two joining, 2² + 1 |
-| 6 | bi | 2 · 3 | 434 | 214 | 114 | 6-bi-moralizing, T₃, 3! |
-| 7 | co | prime | 433 | 213 | 113 | 7-co-corusing, the fourth prime, 2³ − 1 |
-| 8 | bi | 2³ | 432 | 212 | 112 | 8-bi-torusing, seam-face, 3² − 1, prior two joining, 2³ |
-| 9 | co | 3² | 431 | 211 | 111 | 9-tri-bi-co-momentarying, 3², 2³ + 1 |
-| 10 | bi | 2 · 5 | 430 | 210 | 110 | 10-bi-tri-co-tunneling, T₄ |
-| 11 | co | prime | 429 | 209 | 109 | 11-tri-bi-co-chaining, the fifth prime |
-| 12 | bi | 2² · 3 | 428 | 208 | 108 | 12-bi-tri-parity-changing |
-| 13 | co | prime | 427 | 207 | 107 | 13-co-tri-competencing, the sixth prime, prior two joining |
-| 14 | bi | 2 · 7 | 426 | 206 | 106 | 14-bi-tri-moralizing |
-| 15 | co | 3 · 5 | 425 | 205 | 105 | 15-co-bi-tri-corusing, T₅, 2⁴ − 1 |
-| 16 | bi | 2⁴ | 424 | 204 | 104 | 16-bi-co-tri-torusing, 4², 2⁴ |
-| 17 | co | prime | 423 | 203 | 103 | 17-tri-co-offering, the seventh prime, 2⁴ + 1 |
+| 1 | co | — | 439 | 219 | 119 | 1-co-bi-co-offering, 1², T₁, prior two joining |
+| 2 | bi | prime | 438 | 218 | 118 | 2-bi-co-bi-offering, the first prime, prior two joining, 2¹ |
+| 3 | co | prime | 437 | 217 | 117 | 3-co-bi-co-sharing, the second prime, T₂, prior two joining, 2¹ + 1, 2² − 1 |
+| 4 | bi | 2² | 436 | 216 | 116 | 4-bi-co-bi-sharing, 2² |
+| 5 | co | prime | 435 | 215 | 115 | 5-co-bi-co-competencing, the third prime, prior two joining, 2² + 1 |
+| 6 | bi | 2 · 3 | 434 | 214 | 114 | 6-bi-co-bi-moralizing, T₃, 3! |
+| 7 | co | prime | 433 | 213 | 113 | 7-co-bi-tri-corusing, the fourth prime, 2³ − 1 |
+| 8 | bi | 2³ | 432 | 212 | 112 | 8-bi-tri-bi-torusing, seam-face, 3² − 1, prior two joining, 2³ |
+| 9 | tri | 3² | 431 | 211 | 111 | 9-tri-bi-tri-momentarying, 3², 2³ + 1 |
+| 10 | bi | 2 · 5 | 430 | 210 | 110 | 10-bi-tri-bi-tunneling, T₄ |
+| 11 | tri | prime | 429 | 209 | 109 | 11-tri-bi-tri-chaining, the fifth prime |
+| 12 | bi | 2² · 3 | 428 | 208 | 108 | 12-bi-tri-bi-entraining |
+| 13 | tri | prime | 427 | 207 | 107 | 13-tri-bi-tri-competencing, the sixth prime, prior two joining |
+| 14 | bi | 2 · 7 | 426 | 206 | 106 | 14-bi-tri-bi-moralizing |
+| 15 | tri | 3 · 5 | 425 | 205 | 105 | 15-tri-bi-co-corusing, T₅, 2⁴ − 1 |
+| 16 | bi | 2⁴ | 424 | 204 | 104 | 16-bi-co-bi-torusing, 4², 2⁴ |
+| 17 | co | prime | 423 | 203 | 103 | 17-co-bi-co-offering, the seventh prime, 2⁴ + 1 |
 | 18 | bi | 2 · 3² | 422 | 202 | 102 |  |
 | 19 | co | prime | 421 | 201 | 101 | the eighth prime |
 | 20 | bi | 2² · 5 | 420 | 200 | 100 |  |
@@ -590,13 +590,13 @@ Exhibit THREE Natural Numbers v378
 | 22 | bi | 2 · 11 | 418 | 198 | 98 |  |
 | 23 | co | prime | 417 | 197 | 97 | the ninth prime, the going folding |
 | 24 | bi | 2³ · 3 | 416 | 196 | 96 | seam-face, 5² − 1, 4! |
-| 25 | co | 5² | 415 | 195 | 95 | 5² |
+| 25 | tri | 5² | 415 | 195 | 95 | 5² |
 | 26 | bi | 2 · 13 | 414 | 194 | 94 |  |
-| 27 | co | 3³ | 413 | 193 | 93 |  |
+| 27 | tri | 3³ | 413 | 193 | 93 |  |
 | 28 | bi | 2² · 7 | 412 | 192 | 92 | T₇ |
-| 29 | co | prime | 411 | 191 | 91 | the tenth prime |
+| 29 | tri | prime | 411 | 191 | 91 | the tenth prime |
 | 30 | bi | 2 · 3 · 5 | 410 | 190 | 90 |  |
-| 31 | co | prime | 409 | 189 | 89 | the eleventh prime, 2⁵ − 1 |
+| 31 | tri | prime | 409 | 189 | 89 | the eleventh prime, 2⁵ − 1 |
 | 32 | bi | 2⁵ | 408 | 188 | 88 | 2⁵ |
 | 33 | co | 3 · 11 | 407 | 187 | 87 | 2⁵ + 1 |
 | 34 | bi | 2 · 17 | 406 | 186 | 86 | prior two joining |
@@ -606,13 +606,13 @@ Exhibit THREE Natural Numbers v378
 | 38 | bi | 2 · 19 | 402 | 182 | 82 |  |
 | 39 | co | 3 · 13 | 401 | 181 | 81 |  |
 | 40 | bi | 2³ · 5 | 400 | 180 | 80 |  |
-| 41 | co | prime | 399 | 179 | 79 | the thirteenth prime |
+| 41 | tri | prime | 399 | 179 | 79 | the thirteenth prime |
 | 42 | bi | 2 · 3 · 7 | 398 | 178 | 78 |  |
-| 43 | co | prime | 397 | 177 | 77 | the fourteenth prime |
+| 43 | tri | prime | 397 | 177 | 77 | the fourteenth prime |
 | 44 | bi | 2² · 11 | 396 | 176 | 76 |  |
-| 45 | co | 3² · 5 | 395 | 175 | 75 | T₉ |
+| 45 | tri | 3² · 5 | 395 | 175 | 75 | T₉ |
 | 46 | bi | 2 · 23 | 394 | 174 | 74 |  |
-| 47 | co | prime | 393 | 173 | 73 | the fifteenth prime |
+| 47 | tri | prime | 393 | 173 | 73 | the fifteenth prime |
 | 48 | bi | 2⁴ · 3 | 392 | 172 | 72 | seam-face, 7² − 1 |
 | 49 | co | 7² | 391 | 171 | 71 | 7² |
 | 50 | bi | 2 · 5² | 390 | 170 | 70 |  |
@@ -622,13 +622,13 @@ Exhibit THREE Natural Numbers v378
 | 54 | bi | 2 · 3³ | 386 | 166 | 66 |  |
 | 55 | co | 5 · 11 | 385 | 165 | 65 | T₁₀, prior two joining |
 | 56 | bi | 2³ · 7 | 384 | 164 | 64 |  |
-| 57 | co | 3 · 19 | 383 | 163 | 63 |  |
+| 57 | tri | 3 · 19 | 383 | 163 | 63 |  |
 | 58 | bi | 2 · 29 | 382 | 162 | 62 |  |
-| 59 | co | prime | 381 | 161 | 61 | the seventeenth prime, the going's last |
+| 59 | tri | prime | 381 | 161 | 61 | the seventeenth prime, the going's last |
 | 60 | bi | 2² · 3 · 5 | 380 | 160 | 60 | between the going and the returning |
-| 61 | co | prime | 379 | 159 | 59 | the returning's first |
+| 61 | tri | prime | 379 | 159 | 59 | the returning's first |
 | 62 | bi | 2 · 31 | 378 | 158 | 58 |  |
-| 63 | co | 3² · 7 | 377 | 157 | 57 | 2⁶ − 1 |
+| 63 | tri | 3² · 7 | 377 | 157 | 57 | 2⁶ − 1 |
 | 64 | bi | 2⁶ | 376 | 156 | 56 | 8², 2⁶ |
 | 65 | co | 5 · 13 | 375 | 155 | 55 | 2⁶ + 1 |
 | 66 | bi | 2 · 3 · 11 | 374 | 154 | 54 | T₁₁ |
@@ -638,13 +638,13 @@ Exhibit THREE Natural Numbers v378
 | 70 | bi | 2 · 5 · 7 | 370 | 150 | 50 |  |
 | 71 | co | prime | 369 | 149 | 49 |  |
 | 72 | bi | 2³ · 3² | 368 | 148 | 48 |  |
-| 73 | co | prime | 367 | 147 | 47 |  |
+| 73 | tri | prime | 367 | 147 | 47 |  |
 | 74 | bi | 2 · 37 | 366 | 146 | 46 |  |
-| 75 | co | 3 · 5² | 365 | 145 | 45 |  |
+| 75 | tri | 3 · 5² | 365 | 145 | 45 |  |
 | 76 | bi | 2² · 19 | 364 | 144 | 44 |  |
-| 77 | co | 7 · 11 | 363 | 143 | 43 |  |
+| 77 | tri | 7 · 11 | 363 | 143 | 43 |  |
 | 78 | bi | 2 · 3 · 13 | 362 | 142 | 42 | T₁₂ |
-| 79 | co | prime | 361 | 141 | 41 |  |
+| 79 | tri | prime | 361 | 141 | 41 |  |
 | 80 | bi | 2⁴ · 5 | 360 | 140 | 40 | seam-face, 9² − 1 |
 | 81 | co | 3⁴ | 359 | 139 | 39 | 9² |
 | 82 | bi | 2 · 41 | 358 | 138 | 38 |  |
@@ -654,13 +654,13 @@ Exhibit THREE Natural Numbers v378
 | 86 | bi | 2 · 43 | 354 | 134 | 34 |  |
 | 87 | co | 3 · 29 | 353 | 133 | 33 |  |
 | 88 | bi | 2³ · 11 | 352 | 132 | 32 |  |
-| 89 | co | prime | 351 | 131 | 31 | prior two joining |
+| 89 | tri | prime | 351 | 131 | 31 | prior two joining |
 | 90 | bi | 2 · 3² · 5 | 350 | 130 | 30 |  |
-| 91 | co | 7 · 13 | 349 | 129 | 29 | T₁₃ |
+| 91 | tri | 7 · 13 | 349 | 129 | 29 | T₁₃ |
 | 92 | bi | 2² · 23 | 348 | 128 | 28 |  |
-| 93 | co | 3 · 31 | 347 | 127 | 27 |  |
+| 93 | tri | 3 · 31 | 347 | 127 | 27 |  |
 | 94 | bi | 2 · 47 | 346 | 126 | 26 |  |
-| 95 | co | 5 · 19 | 345 | 125 | 25 |  |
+| 95 | tri | 5 · 19 | 345 | 125 | 25 |  |
 | 96 | bi | 2⁵ · 3 | 344 | 124 | 24 |  |
 | 97 | co | prime | 343 | 123 | 23 |  |
 | 98 | bi | 2 · 7² | 342 | 122 | 22 |  |
@@ -670,13 +670,13 @@ Exhibit THREE Natural Numbers v378
 | 102 | bi | 2 · 3 · 17 | 338 | 118 | 18 |  |
 | 103 | co | prime | 337 | 117 | 17 |  |
 | 104 | bi | 2³ · 13 | 336 | 116 | 16 |  |
-| 105 | co | 3 · 5 · 7 | 335 | 115 | 15 | T₁₄ |
+| 105 | tri | 3 · 5 · 7 | 335 | 115 | 15 | T₁₄ |
 | 106 | bi | 2 · 53 | 334 | 114 | 14 |  |
-| 107 | co | prime | 333 | 113 | 13 |  |
+| 107 | tri | prime | 333 | 113 | 13 |  |
 | 108 | bi | 2² · 3³ | 332 | 112 | 12 |  |
-| 109 | co | prime | 331 | 111 | 11 |  |
+| 109 | tri | prime | 331 | 111 | 11 |  |
 | 110 | bi | 2 · 5 · 11 | 330 | 110 | 10 |  |
-| 111 | co | 3 · 37 | 329 | 109 | 9 |  |
+| 111 | tri | 3 · 37 | 329 | 109 | 9 |  |
 | 112 | bi | 2⁴ · 7 | 328 | 108 | 8 |  |
 | 113 | co | prime | 327 | 107 | 7 |  |
 | 114 | bi | 2 · 3 · 19 | 326 | 106 | 6 |  |
@@ -686,13 +686,13 @@ Exhibit THREE Natural Numbers v378
 | 118 | bi | 2 · 59 | 322 | 102 | 2 | the returning's far end |
 | 119 | co | 7 · 17 | 321 | 101 | 1 |  |
 | 120 | bi | 2³ · 3 · 5 | 320 | 100 | 0 | seam-face, 11² − 1, T₁₅, 5! |
-| 121 | co | 11² | 319 | 99 | 119 | 11² |
+| 121 | tri | 11² | 319 | 99 | 119 | 11² |
 | 122 | bi | 2 · 61 | 318 | 98 | 118 |  |
-| 123 | co | 3 · 41 | 317 | 97 | 117 |  |
+| 123 | tri | 3 · 41 | 317 | 97 | 117 |  |
 | 124 | bi | 2² · 31 | 316 | 96 | 116 |  |
-| 125 | co | 5³ | 315 | 95 | 115 |  |
+| 125 | tri | 5³ | 315 | 95 | 115 |  |
 | 126 | bi | 2 · 3² · 7 | 314 | 94 | 114 |  |
-| 127 | co | prime | 313 | 93 | 113 | 2⁷ − 1 |
+| 127 | tri | prime | 313 | 93 | 113 | 2⁷ − 1 |
 | 128 | bi | 2⁷ | 312 | 92 | 112 | 2⁷ |
 | 129 | co | 3 · 43 | 311 | 91 | 111 | 2⁷ + 1 |
 | 130 | bi | 2 · 5 · 13 | 310 | 90 | 110 |  |
@@ -702,13 +702,13 @@ Exhibit THREE Natural Numbers v378
 | 134 | bi | 2 · 67 | 306 | 86 | 106 |  |
 | 135 | co | 3³ · 5 | 305 | 85 | 105 |  |
 | 136 | bi | 2³ · 17 | 304 | 84 | 104 | T₁₆ |
-| 137 | co | prime | 303 | 83 | 103 |  |
+| 137 | tri | prime | 303 | 83 | 103 |  |
 | 138 | bi | 2 · 3 · 23 | 302 | 82 | 102 |  |
-| 139 | co | prime | 301 | 81 | 101 |  |
+| 139 | tri | prime | 301 | 81 | 101 |  |
 | 140 | bi | 2² · 5 · 7 | 300 | 80 | 100 |  |
-| 141 | co | 3 · 47 | 299 | 79 | 99 |  |
+| 141 | tri | 3 · 47 | 299 | 79 | 99 |  |
 | 142 | bi | 2 · 71 | 298 | 78 | 98 |  |
-| 143 | co | 11 · 13 | 297 | 77 | 97 |  |
+| 143 | tri | 11 · 13 | 297 | 77 | 97 |  |
 | 144 | bi | 2⁴ · 3² | 296 | 76 | 96 | 12², prior two joining |
 | 145 | co | 5 · 29 | 295 | 75 | 95 |  |
 | 146 | bi | 2 · 73 | 294 | 74 | 94 |  |
@@ -718,13 +718,13 @@ Exhibit THREE Natural Numbers v378
 | 150 | bi | 2 · 3 · 5² | 290 | 70 | 90 |  |
 | 151 | co | prime | 289 | 69 | 89 |  |
 | 152 | bi | 2³ · 19 | 288 | 68 | 88 |  |
-| 153 | co | 3² · 17 | 287 | 67 | 87 | T₁₇ |
+| 153 | tri | 3² · 17 | 287 | 67 | 87 | T₁₇ |
 | 154 | bi | 2 · 7 · 11 | 286 | 66 | 86 |  |
-| 155 | co | 5 · 31 | 285 | 65 | 85 |  |
+| 155 | tri | 5 · 31 | 285 | 65 | 85 |  |
 | 156 | bi | 2² · 3 · 13 | 284 | 64 | 84 |  |
-| 157 | co | prime | 283 | 63 | 83 |  |
+| 157 | tri | prime | 283 | 63 | 83 |  |
 | 158 | bi | 2 · 79 | 282 | 62 | 82 |  |
-| 159 | co | 3 · 53 | 281 | 61 | 81 |  |
+| 159 | tri | 3 · 53 | 281 | 61 | 81 |  |
 | 160 | bi | 2⁵ · 5 | 280 | 60 | 80 |  |
 | 161 | co | 7 · 23 | 279 | 59 | 79 |  |
 | 162 | bi | 2 · 3⁴ | 278 | 58 | 78 |  |
@@ -734,13 +734,13 @@ Exhibit THREE Natural Numbers v378
 | 166 | bi | 2 · 83 | 274 | 54 | 74 |  |
 | 167 | co | prime | 273 | 53 | 73 |  |
 | 168 | bi | 2³ · 3 · 7 | 272 | 52 | 72 | seam-face, 13² − 1 |
-| 169 | co | 13² | 271 | 51 | 71 | 13² |
+| 169 | tri | 13² | 271 | 51 | 71 | 13² |
 | 170 | bi | 2 · 5 · 17 | 270 | 50 | 70 |  |
-| 171 | co | 3² · 19 | 269 | 49 | 69 | T₁₈ |
+| 171 | tri | 3² · 19 | 269 | 49 | 69 | T₁₈ |
 | 172 | bi | 2² · 43 | 268 | 48 | 68 |  |
-| 173 | co | prime | 267 | 47 | 67 |  |
+| 173 | tri | prime | 267 | 47 | 67 |  |
 | 174 | bi | 2 · 3 · 29 | 266 | 46 | 66 |  |
-| 175 | co | 5² · 7 | 265 | 45 | 65 |  |
+| 175 | tri | 5² · 7 | 265 | 45 | 65 |  |
 | 176 | bi | 2⁴ · 11 | 264 | 44 | 64 |  |
 | 177 | co | 3 · 59 | 263 | 43 | 63 |  |
 | 178 | bi | 2 · 89 | 262 | 42 | 62 |  |
@@ -750,13 +750,13 @@ Exhibit THREE Natural Numbers v378
 | 182 | bi | 2 · 7 · 13 | 258 | 38 | 58 |  |
 | 183 | co | 3 · 61 | 257 | 37 | 57 |  |
 | 184 | bi | 2³ · 23 | 256 | 36 | 56 |  |
-| 185 | co | 5 · 37 | 255 | 35 | 55 |  |
+| 185 | tri | 5 · 37 | 255 | 35 | 55 |  |
 | 186 | bi | 2 · 3 · 31 | 254 | 34 | 54 |  |
-| 187 | co | 11 · 17 | 253 | 33 | 53 |  |
+| 187 | tri | 11 · 17 | 253 | 33 | 53 |  |
 | 188 | bi | 2² · 47 | 252 | 32 | 52 |  |
-| 189 | co | 3³ · 7 | 251 | 31 | 51 |  |
+| 189 | tri | 3³ · 7 | 251 | 31 | 51 |  |
 | 190 | bi | 2 · 5 · 19 | 250 | 30 | 50 | T₁₉ |
-| 191 | co | prime | 249 | 29 | 49 |  |
+| 191 | tri | prime | 249 | 29 | 49 |  |
 | 192 | bi | 2⁶ · 3 | 248 | 28 | 48 |  |
 | 193 | co | prime | 247 | 27 | 47 |  |
 | 194 | bi | 2 · 97 | 246 | 26 | 46 |  |
@@ -766,13 +766,13 @@ Exhibit THREE Natural Numbers v378
 | 198 | bi | 2 · 3² · 11 | 242 | 22 | 42 |  |
 | 199 | co | prime | 241 | 21 | 41 |  |
 | 200 | bi | 2³ · 5² | 240 | 20 | 40 |  |
-| 201 | co | 3 · 67 | 239 | 19 | 39 |  |
+| 201 | tri | 3 · 67 | 239 | 19 | 39 |  |
 | 202 | bi | 2 · 101 | 238 | 18 | 38 |  |
-| 203 | co | 7 · 29 | 237 | 17 | 37 |  |
+| 203 | tri | 7 · 29 | 237 | 17 | 37 |  |
 | 204 | bi | 2² · 3 · 17 | 236 | 16 | 36 |  |
-| 205 | co | 5 · 41 | 235 | 15 | 35 |  |
+| 205 | tri | 5 · 41 | 235 | 15 | 35 |  |
 | 206 | bi | 2 · 103 | 234 | 14 | 34 |  |
-| 207 | co | 3² · 23 | 233 | 13 | 33 |  |
+| 207 | tri | 3² · 23 | 233 | 13 | 33 |  |
 | 208 | bi | 2⁴ · 13 | 232 | 12 | 32 |  |
 | 209 | co | 11 · 19 | 231 | 11 | 31 |  |
 | 210 | bi | 2 · 3 · 5 · 7 | 230 | 10 | 30 | T₂₀ |
@@ -782,13 +782,13 @@ Exhibit THREE Natural Numbers v378
 | 214 | bi | 2 · 107 | 226 | 6 | 26 |  |
 | 215 | co | 5 · 43 | 225 | 5 | 25 |  |
 | 216 | bi | 2³ · 3³ | 224 | 4 | 24 |  |
-| 217 | co | 7 · 31 | 223 | 3 | 23 |  |
+| 217 | tri | 7 · 31 | 223 | 3 | 23 |  |
 | 218 | bi | 2 · 109 | 222 | 2 | 22 |  |
-| 219 | co | 3 · 73 | 221 | 1 | 21 |  |
+| 219 | tri | 3 · 73 | 221 | 1 | 21 |  |
 | 220 | bi | 2² · 5 · 11 | 220 | 0 | 20 | the waist |
-| 221 | co | 13 · 17 | 219 | 1 | 19 |  |
+| 221 | tri | 13 · 17 | 219 | 1 | 19 |  |
 | 222 | bi | 2 · 3 · 37 | 218 | 2 | 18 |  |
-| 223 | co | prime | 217 | 3 | 17 |  |
+| 223 | tri | prime | 217 | 3 | 17 |  |
 | 224 | bi | 2⁵ · 7 | 216 | 4 | 16 | seam-face, 15² − 1 |
 | 225 | co | 3² · 5² | 215 | 5 | 15 | 15² |
 | 226 | bi | 2 · 113 | 214 | 6 | 14 |  |
@@ -798,13 +798,13 @@ Exhibit THREE Natural Numbers v378
 | 230 | bi | 2 · 5 · 23 | 210 | 10 | 10 |  |
 | 231 | co | 3 · 7 · 11 | 209 | 11 | 9 | T₂₁ |
 | 232 | bi | 2³ · 29 | 208 | 12 | 8 |  |
-| 233 | co | prime | 207 | 13 | 7 | prior two joining |
+| 233 | tri | prime | 207 | 13 | 7 | prior two joining |
 | 234 | bi | 2 · 3² · 13 | 206 | 14 | 6 |  |
-| 235 | co | 5 · 47 | 205 | 15 | 5 |  |
+| 235 | tri | 5 · 47 | 205 | 15 | 5 |  |
 | 236 | bi | 2² · 59 | 204 | 16 | 4 |  |
-| 237 | co | 3 · 79 | 203 | 17 | 3 |  |
+| 237 | tri | 3 · 79 | 203 | 17 | 3 |  |
 | 238 | bi | 2 · 7 · 17 | 202 | 18 | 2 |  |
-| 239 | co | prime | 201 | 19 | 1 |  |
+| 239 | tri | prime | 201 | 19 | 1 |  |
 | 240 | bi | 2⁴ · 3 · 5 | 200 | 20 | 0 |  |
 | 241 | co | prime | 199 | 21 | 119 |  |
 | 242 | bi | 2 · 11² | 198 | 22 | 118 |  |
@@ -814,13 +814,13 @@ Exhibit THREE Natural Numbers v378
 | 246 | bi | 2 · 3 · 41 | 194 | 26 | 114 |  |
 | 247 | co | 13 · 19 | 193 | 27 | 113 |  |
 | 248 | bi | 2³ · 31 | 192 | 28 | 112 |  |
-| 249 | co | 3 · 83 | 191 | 29 | 111 |  |
+| 249 | tri | 3 · 83 | 191 | 29 | 111 |  |
 | 250 | bi | 2 · 5³ | 190 | 30 | 110 |  |
-| 251 | co | prime | 189 | 31 | 109 |  |
+| 251 | tri | prime | 189 | 31 | 109 |  |
 | 252 | bi | 2² · 3² · 7 | 188 | 32 | 108 |  |
-| 253 | co | 11 · 23 | 187 | 33 | 107 | T₂₂ |
+| 253 | tri | 11 · 23 | 187 | 33 | 107 | T₂₂ |
 | 254 | bi | 2 · 127 | 186 | 34 | 106 |  |
-| 255 | co | 3 · 5 · 17 | 185 | 35 | 105 | 2⁸ − 1 |
+| 255 | tri | 3 · 5 · 17 | 185 | 35 | 105 | 2⁸ − 1 |
 | 256 | bi | 2⁸ | 184 | 36 | 104 | 16², 2⁸ |
 | 257 | co | prime | 183 | 37 | 103 | 2⁸ + 1 |
 | 258 | bi | 2 · 3 · 43 | 182 | 38 | 102 |  |
@@ -830,13 +830,13 @@ Exhibit THREE Natural Numbers v378
 | 262 | bi | 2 · 131 | 178 | 42 | 98 |  |
 | 263 | co | prime | 177 | 43 | 97 |  |
 | 264 | bi | 2³ · 3 · 11 | 176 | 44 | 96 |  |
-| 265 | co | 5 · 53 | 175 | 45 | 95 |  |
+| 265 | tri | 5 · 53 | 175 | 45 | 95 |  |
 | 266 | bi | 2 · 7 · 19 | 174 | 46 | 94 |  |
-| 267 | co | 3 · 89 | 173 | 47 | 93 |  |
+| 267 | tri | 3 · 89 | 173 | 47 | 93 |  |
 | 268 | bi | 2² · 67 | 172 | 48 | 92 |  |
-| 269 | co | prime | 171 | 49 | 91 |  |
+| 269 | tri | prime | 171 | 49 | 91 |  |
 | 270 | bi | 2 · 3³ · 5 | 170 | 50 | 90 |  |
-| 271 | co | prime | 169 | 51 | 89 |  |
+| 271 | tri | prime | 169 | 51 | 89 |  |
 | 272 | bi | 2⁴ · 17 | 168 | 52 | 88 |  |
 | 273 | co | 3 · 7 · 13 | 167 | 53 | 87 |  |
 | 274 | bi | 2 · 137 | 166 | 54 | 86 |  |
@@ -846,13 +846,13 @@ Exhibit THREE Natural Numbers v378
 | 278 | bi | 2 · 139 | 162 | 58 | 82 |  |
 | 279 | co | 3² · 31 | 161 | 59 | 81 |  |
 | 280 | bi | 2³ · 5 · 7 | 160 | 60 | 80 |  |
-| 281 | co | prime | 159 | 61 | 79 |  |
+| 281 | tri | prime | 159 | 61 | 79 |  |
 | 282 | bi | 2 · 3 · 47 | 158 | 62 | 78 |  |
-| 283 | co | prime | 157 | 63 | 77 |  |
+| 283 | tri | prime | 157 | 63 | 77 |  |
 | 284 | bi | 2² · 71 | 156 | 64 | 76 |  |
-| 285 | co | 3 · 5 · 19 | 155 | 65 | 75 |  |
+| 285 | tri | 3 · 5 · 19 | 155 | 65 | 75 |  |
 | 286 | bi | 2 · 11 · 13 | 154 | 66 | 74 |  |
-| 287 | co | 7 · 41 | 153 | 67 | 73 |  |
+| 287 | tri | 7 · 41 | 153 | 67 | 73 |  |
 | 288 | bi | 2⁵ · 3² | 152 | 68 | 72 | seam-face, 17² − 1 |
 | 289 | co | 17² | 151 | 69 | 71 | 17² |
 | 290 | bi | 2 · 5 · 29 | 150 | 70 | 70 |  |
@@ -862,13 +862,13 @@ Exhibit THREE Natural Numbers v378
 | 294 | bi | 2 · 3 · 7² | 146 | 74 | 66 |  |
 | 295 | co | 5 · 59 | 145 | 75 | 65 |  |
 | 296 | bi | 2³ · 37 | 144 | 76 | 64 |  |
-| 297 | co | 3³ · 11 | 143 | 77 | 63 |  |
+| 297 | tri | 3³ · 11 | 143 | 77 | 63 |  |
 | 298 | bi | 2 · 149 | 142 | 78 | 62 |  |
-| 299 | co | 13 · 23 | 141 | 79 | 61 |  |
+| 299 | tri | 13 · 23 | 141 | 79 | 61 |  |
 | 300 | bi | 2² · 3 · 5² | 140 | 80 | 60 | T₂₄ |
-| 301 | co | 7 · 43 | 139 | 81 | 59 |  |
+| 301 | tri | 7 · 43 | 139 | 81 | 59 |  |
 | 302 | bi | 2 · 151 | 138 | 82 | 58 |  |
-| 303 | co | 3 · 101 | 137 | 83 | 57 |  |
+| 303 | tri | 3 · 101 | 137 | 83 | 57 |  |
 | 304 | bi | 2⁴ · 19 | 136 | 84 | 56 |  |
 | 305 | co | 5 · 61 | 135 | 85 | 55 |  |
 | 306 | bi | 2 · 3² · 17 | 134 | 86 | 54 |  |
@@ -878,13 +878,13 @@ Exhibit THREE Natural Numbers v378
 | 310 | bi | 2 · 5 · 31 | 130 | 90 | 50 |  |
 | 311 | co | prime | 129 | 91 | 49 |  |
 | 312 | bi | 2³ · 3 · 13 | 128 | 92 | 48 |  |
-| 313 | co | prime | 127 | 93 | 47 |  |
+| 313 | tri | prime | 127 | 93 | 47 |  |
 | 314 | bi | 2 · 157 | 126 | 94 | 46 |  |
-| 315 | co | 3² · 5 · 7 | 125 | 95 | 45 |  |
+| 315 | tri | 3² · 5 · 7 | 125 | 95 | 45 |  |
 | 316 | bi | 2² · 79 | 124 | 96 | 44 |  |
-| 317 | co | prime | 123 | 97 | 43 |  |
+| 317 | tri | prime | 123 | 97 | 43 |  |
 | 318 | bi | 2 · 3 · 53 | 122 | 98 | 42 |  |
-| 319 | co | 11 · 29 | 121 | 99 | 41 |  |
+| 319 | tri | 11 · 29 | 121 | 99 | 41 |  |
 | 320 | bi | 2⁶ · 5 | 120 | 100 | 40 |  |
 | 321 | co | 3 · 107 | 119 | 101 | 39 |  |
 | 322 | bi | 2 · 7 · 23 | 118 | 102 | 38 |  |
@@ -894,13 +894,13 @@ Exhibit THREE Natural Numbers v378
 | 326 | bi | 2 · 163 | 114 | 106 | 34 |  |
 | 327 | co | 3 · 109 | 113 | 107 | 33 |  |
 | 328 | bi | 2³ · 41 | 112 | 108 | 32 |  |
-| 329 | co | 7 · 47 | 111 | 109 | 31 |  |
+| 329 | tri | 7 · 47 | 111 | 109 | 31 |  |
 | 330 | bi | 2 · 3 · 5 · 11 | 110 | 110 | 30 |  |
-| 331 | co | prime | 109 | 111 | 29 |  |
+| 331 | tri | prime | 109 | 111 | 29 |  |
 | 332 | bi | 2² · 83 | 108 | 112 | 28 |  |
-| 333 | co | 3² · 37 | 107 | 113 | 27 |  |
+| 333 | tri | 3² · 37 | 107 | 113 | 27 |  |
 | 334 | bi | 2 · 167 | 106 | 114 | 26 |  |
-| 335 | co | 5 · 67 | 105 | 115 | 25 |  |
+| 335 | tri | 5 · 67 | 105 | 115 | 25 |  |
 | 336 | bi | 2⁴ · 3 · 7 | 104 | 116 | 24 |  |
 | 337 | co | prime | 103 | 117 | 23 |  |
 | 338 | bi | 2 · 13² | 102 | 118 | 22 |  |
@@ -910,13 +910,13 @@ Exhibit THREE Natural Numbers v378
 | 342 | bi | 2 · 3² · 19 | 98 | 122 | 18 |  |
 | 343 | co | 7³ | 97 | 123 | 17 |  |
 | 344 | bi | 2³ · 43 | 96 | 124 | 16 |  |
-| 345 | co | 3 · 5 · 23 | 95 | 125 | 15 |  |
+| 345 | tri | 3 · 5 · 23 | 95 | 125 | 15 |  |
 | 346 | bi | 2 · 173 | 94 | 126 | 14 |  |
-| 347 | co | prime | 93 | 127 | 13 |  |
+| 347 | tri | prime | 93 | 127 | 13 |  |
 | 348 | bi | 2² · 3 · 29 | 92 | 128 | 12 |  |
-| 349 | co | prime | 91 | 129 | 11 |  |
+| 349 | tri | prime | 91 | 129 | 11 |  |
 | 350 | bi | 2 · 5² · 7 | 90 | 130 | 10 |  |
-| 351 | co | 3³ · 13 | 89 | 131 | 9 | T₂₆ |
+| 351 | tri | 3³ · 13 | 89 | 131 | 9 | T₂₆ |
 | 352 | bi | 2⁵ · 11 | 88 | 132 | 8 |  |
 | 353 | co | prime | 87 | 133 | 7 |  |
 | 354 | bi | 2 · 3 · 59 | 86 | 134 | 6 |  |
@@ -926,13 +926,13 @@ Exhibit THREE Natural Numbers v378
 | 358 | bi | 2 · 179 | 82 | 138 | 2 |  |
 | 359 | co | prime | 81 | 139 | 1 |  |
 | 360 | bi | 2³ · 3² · 5 | 80 | 140 | 0 | seam-face, 19² − 1 |
-| 361 | co | 19² | 79 | 141 | 119 | 19² |
+| 361 | tri | 19² | 79 | 141 | 119 | 19² |
 | 362 | bi | 2 · 181 | 78 | 142 | 118 |  |
-| 363 | co | 3 · 11² | 77 | 143 | 117 |  |
+| 363 | tri | 3 · 11² | 77 | 143 | 117 |  |
 | 364 | bi | 2² · 7 · 13 | 76 | 144 | 116 |  |
-| 365 | co | 5 · 73 | 75 | 145 | 115 |  |
+| 365 | tri | 5 · 73 | 75 | 145 | 115 |  |
 | 366 | bi | 2 · 3 · 61 | 74 | 146 | 114 |  |
-| 367 | co | prime | 73 | 147 | 113 |  |
+| 367 | tri | prime | 73 | 147 | 113 |  |
 | 368 | bi | 2⁴ · 23 | 72 | 148 | 112 |  |
 | 369 | co | 3² · 41 | 71 | 149 | 111 |  |
 | 370 | bi | 2 · 5 · 37 | 70 | 150 | 110 |  |
@@ -942,13 +942,13 @@ Exhibit THREE Natural Numbers v378
 | 374 | bi | 2 · 11 · 17 | 66 | 154 | 106 |  |
 | 375 | co | 3 · 5³ | 65 | 155 | 105 |  |
 | 376 | bi | 2³ · 47 | 64 | 156 | 104 |  |
-| 377 | co | 13 · 29 | 63 | 157 | 103 | prior two joining |
+| 377 | tri | 13 · 29 | 63 | 157 | 103 | prior two joining |
 | 378 | bi | 2 · 3³ · 7 | 62 | 158 | 102 | T₂₇ |
-| 379 | co | prime | 61 | 159 | 101 |  |
+| 379 | tri | prime | 61 | 159 | 101 |  |
 | 380 | bi | 2² · 5 · 19 | 60 | 160 | 100 |  |
-| 381 | co | 3 · 127 | 59 | 161 | 99 |  |
+| 381 | tri | 3 · 127 | 59 | 161 | 99 |  |
 | 382 | bi | 2 · 191 | 58 | 162 | 98 |  |
-| 383 | co | prime | 57 | 163 | 97 |  |
+| 383 | tri | prime | 57 | 163 | 97 |  |
 | 384 | bi | 2⁷ · 3 | 56 | 164 | 96 |  |
 | 385 | co | 5 · 7 · 11 | 55 | 165 | 95 |  |
 | 386 | bi | 2 · 193 | 54 | 166 | 94 |  |
@@ -958,13 +958,13 @@ Exhibit THREE Natural Numbers v378
 | 390 | bi | 2 · 3 · 5 · 13 | 50 | 170 | 90 |  |
 | 391 | co | 17 · 23 | 49 | 171 | 89 |  |
 | 392 | bi | 2³ · 7² | 48 | 172 | 88 |  |
-| 393 | co | 3 · 131 | 47 | 173 | 87 |  |
+| 393 | tri | 3 · 131 | 47 | 173 | 87 |  |
 | 394 | bi | 2 · 197 | 46 | 174 | 86 |  |
-| 395 | co | 5 · 79 | 45 | 175 | 85 |  |
+| 395 | tri | 5 · 79 | 45 | 175 | 85 |  |
 | 396 | bi | 2² · 3² · 11 | 44 | 176 | 84 |  |
-| 397 | co | prime | 43 | 177 | 83 |  |
+| 397 | tri | prime | 43 | 177 | 83 |  |
 | 398 | bi | 2 · 199 | 42 | 178 | 82 |  |
-| 399 | co | 3 · 7 · 19 | 41 | 179 | 81 |  |
+| 399 | tri | 3 · 7 · 19 | 41 | 179 | 81 |  |
 | 400 | bi | 2⁴ · 5² | 40 | 180 | 80 | 20² |
 | 401 | co | prime | 39 | 181 | 79 |  |
 | 402 | bi | 2 · 3 · 67 | 38 | 182 | 78 |  |
@@ -974,13 +974,13 @@ Exhibit THREE Natural Numbers v378
 | 406 | bi | 2 · 7 · 29 | 34 | 186 | 74 | T₂₈ |
 | 407 | co | 11 · 37 | 33 | 187 | 73 |  |
 | 408 | bi | 2³ · 3 · 17 | 32 | 188 | 72 |  |
-| 409 | co | prime | 31 | 189 | 71 |  |
+| 409 | tri | prime | 31 | 189 | 71 |  |
 | 410 | bi | 2 · 5 · 41 | 30 | 190 | 70 |  |
-| 411 | co | 3 · 137 | 29 | 191 | 69 |  |
+| 411 | tri | 3 · 137 | 29 | 191 | 69 |  |
 | 412 | bi | 2² · 103 | 28 | 192 | 68 |  |
-| 413 | co | 7 · 59 | 27 | 193 | 67 |  |
+| 413 | tri | 7 · 59 | 27 | 193 | 67 |  |
 | 414 | bi | 2 · 3² · 23 | 26 | 194 | 66 |  |
-| 415 | co | 5 · 83 | 25 | 195 | 65 |  |
+| 415 | tri | 5 · 83 | 25 | 195 | 65 |  |
 | 416 | bi | 2⁵ · 13 | 24 | 196 | 64 |  |
 | 417 | co | 3 · 139 | 23 | 197 | 63 |  |
 | 418 | bi | 2 · 11 · 19 | 22 | 198 | 62 |  |
@@ -990,13 +990,13 @@ Exhibit THREE Natural Numbers v378
 | 422 | bi | 2 · 211 | 18 | 202 | 58 |  |
 | 423 | co | 3² · 47 | 17 | 203 | 57 |  |
 | 424 | bi | 2³ · 53 | 16 | 204 | 56 |  |
-| 425 | co | 5² · 17 | 15 | 205 | 55 |  |
+| 425 | tri | 5² · 17 | 15 | 205 | 55 |  |
 | 426 | bi | 2 · 3 · 71 | 14 | 206 | 54 |  |
-| 427 | co | 7 · 61 | 13 | 207 | 53 |  |
+| 427 | tri | 7 · 61 | 13 | 207 | 53 |  |
 | 428 | bi | 2² · 107 | 12 | 208 | 52 |  |
-| 429 | co | 3 · 11 · 13 | 11 | 209 | 51 |  |
+| 429 | tri | 3 · 11 · 13 | 11 | 209 | 51 |  |
 | 430 | bi | 2 · 5 · 43 | 10 | 210 | 50 |  |
-| 431 | co | prime | 9 | 211 | 49 |  |
+| 431 | tri | prime | 9 | 211 | 49 |  |
 | 432 | bi | 2⁴ · 3³ | 8 | 212 | 48 |  |
 | 433 | co | prime | 7 | 213 | 47 |  |
 | 434 | bi | 2 · 7 · 31 | 6 | 214 | 46 |  |
