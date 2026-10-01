@@ -16,7 +16,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v378
 
 Each concern says what parts, where, and what settles it at the code, the numbers or the observings. None is settled by a file's word.
 
-**1. Met at v377: *can change* re-said as stable forming.** Suggested at v377, the man and the river: at each observing a momentary stable form, at the next a different carrying; entered at 2.2, at 4.2's opening sentence, and at 4.1's column note, the observing at the Co-Chaining Logic Registry steps 125 and 126, the stable form beside step 284. The first concern whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_can_change_v377.md`.
+**1. Met at v377: *can change* re-said as stable forming.** Suggested at v377, the man and the river: at each observing a momentary stable form, at the next a different carrying; entered at 2.2, at 4.2's opening sentence, and at 4.2's column note, item 1, the observing at the Co-Chaining Logic Registry steps 125 and 126, the stable form beside step 284. The first concern whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_can_change_v377.md`.
 
 **2. *As a method*, and the universal claim.** 2.1 says *Equilibria are not possibly existing as a method*. What parts: without *as a method*, the sentence says no equilibrium exists anywhere, which a field's specialist rejects at once; with it, the claim is about the method alone. What settles it, now at the code: `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py` shows that wherever a still holds, the living step has stopped, and wherever the living step goes on, no still holds. Said at 2.1 with that execution, the claim stands at the code for the living, and *as a method* can be said as that.
 

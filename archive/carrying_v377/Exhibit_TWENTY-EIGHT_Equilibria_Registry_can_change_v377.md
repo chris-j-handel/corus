@@ -12,7 +12,7 @@ From 4.2's opening sentence:
 
 or a stability, a form or a relation that can change.
 
-From 4.1:
+From 4.2, item 1:
 
 the row's own column, *the changing it names*, is carried beside it as it stood,
 
