@@ -1,0 +1,27 @@
+the written-out step equals Exhibit ONE's _17_tri_co_offering at 60 momentaries: True
+nothing named still: the chained parities last change at momentary 60 of 60
+each root with its -ing taken out, its terms named still from momentary 13 on:
+  offering         at  2: continues to momentary 60
+  sharing          at  3: stops: no chained parity changes after momentary 16
+  competencing     at  5: continues to momentary 60
+  competencing     at 13: continues to momentary 60
+  moralizing       at 14: continues to momentary 60
+  moralizing       at  6: continues to momentary 60
+  corusing         at  7: stops: no chained parity changes after momentary 13
+  corusing         at 15: continues to momentary 60
+  torusing         at  8: stops: no chained parity changes after momentary 13
+  torusing         at 16: stops: no chained parity changes after momentary 13
+  momentarying     at  9: continues to momentary 60
+  tunneling        at 10: stops: no chained parity changes after momentary 13
+  chaining         at 11: stops: no chained parity changes after momentary 13
+  parity-changing  at 12: stops: no chained parity changes after momentary 13
+  offering         at  1: stops after momentary 13
+  offering         at 17: stops after momentary 12
+what each continuing term was named still at, and which selves keep changing:
+  at  2: held at {0: [1, -1], 1: [-1, -1], 2: [-1, 0], 3: [0, 1], 4: [1, 1]}; selves still changing after momentary 20: [0]
+  at 14: held at {0: {'s': 0}, 1: {'s': -1}, 2: {'s': -1}, 3: {'s': 1}, 4: {'s': 1}}; selves still changing after momentary 20: [0]
+  at  6: held at {0: [1], 1: [-1], 2: [-1], 3: [0], 4: [1]}; selves still changing after momentary 20: [0, 1, 2, 3, 4]
+  at  9: held at {0: [1], 1: [-1], 2: [-1], 3: [0], 4: [1]}; selves still changing after momentary 20: [0, 1, 2, 3, 4]
+  at 15: held at {0: [1], 1: [-1], 2: [-1], 3: [0], 4: [1]}; selves still changing after momentary 20: [0, 1, 2, 3, 4]
+  at  5: held at {(0, 6): 2, (0, 10): None, (0, 9): 1, (1, 6): 3, (1, 10): None}; selves still changing after momentary 20: [0, 1, 2, 3, 4]
+  at 13: held at {(0, 6): 2, (0, 10): None, (0, 9): 1, (1, 6): 3, (1, 10): None}; selves still changing after momentary 20: [0, 1, 2, 3, 4]

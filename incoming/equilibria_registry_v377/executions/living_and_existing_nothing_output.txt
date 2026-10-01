@@ -1,0 +1,5 @@
+what arrives at X, momentary by momentary: [[1], [], [], [], [-1], [], [], [1, -1], [], []]
+  along, X to B at 9; X living, carrying its prior: X releases +-+-0+-+-+ | B releases .+-+-+0-+-
+  along, X to B at 9; X non-living, carrying nothing: X releases +...-..0.. | B releases .+-+-0+-+-
+  across, X to B at 6; X living, carrying its prior: X releases +-+-0+-+-+ | B releases .+-+-+0-+-
+  across, X to B at 6; X non-living, carrying nothing: X releases +...-..0.. | B releases .+-+-0+-+-

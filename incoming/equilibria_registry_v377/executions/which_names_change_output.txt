@@ -1,0 +1,31 @@
+Python 3.11.15. A society of five, joined along at 9 and across at 6 and 10, two terms at each self, across 40 momentaries.
+1. 1, 9 and 17 are the code's three functions: their code is fixed, and what they carry is traced below at the other names.
+2. CONNECTORS, JOINS and the society's joins passed as 5, the same after every momentary: True ; the functions read CONNECTORS or JOINS: False
+3. Each name in each function, at each momentary compared with the momentary before: at how many momentaries the set of values bound changed, and the sequence of values; the momentaries at which either changed, when fewer than all; and the set, when it changed at none or at one:
+    2 in  1: set changed at 39, sequence at 39 of 39
+    2 in 17: set changed at 39, sequence at 39 of 39
+    3 in  1: set changed at 20, sequence at 39 of 39; set changed at momentaries [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40], sequence at [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+    3 in 17: set changed at 20, sequence at 39 of 39; set changed at momentaries [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40], sequence at [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+    4 in  1: set changed at  0, sequence at  1 of 39; set changed at momentaries [], sequence at [2]; the set bound at every momentary: ["'s'", "'t'"]
+    4 in 17: set changed at  0, sequence at  0 of 39; set changed at momentaries [], sequence at []; the set bound at every momentary: ['(0, 10)', '(0, 6)', '(0, 9)', '(1, 10)', '(1, 6)', '(1, 9)', '(2, 10)', '(2, 6)', '(2, 9)', '(3, 10)', '(3, 6)', '(3, 9)', '(4, 10)', '(4, 6)', '(4, 9)', '0', '1', '2', '3', '4']
+    5 in  9: set changed at  0, sequence at  0 of 39; set changed at momentaries [], sequence at []; the set bound at every momentary: ['{(0, 9): 1, (0, 6): 2, (0, 10): 3, (1, 9): 2, (1, 6): 3, (1, 10): 4, (2, 9): 3, (2, 6): 4, (2, 10): 0, (3, 9): 4, (3, 6): 0, (3, 10): 1, (4, 9): 0, (4, 6): 1, (4, 10): 2}']
+    5 in 17: set changed at  0, sequence at  0 of 39; set changed at momentaries [], sequence at []; the set bound at every momentary: ['{(0, 9): 1, (0, 6): 2, (0, 10): 3, (1, 9): 2, (1, 6): 3, (1, 10): 4, (2, 9): 3, (2, 6): 4, (2, 10): 0, (3, 9): 4, (3, 6): 0, (3, 10): 1, (4, 9): 0, (4, 6): 1, (4, 10): 2}']
+    6 in 17: set changed at 39, sequence at 39 of 39
+    7 in  1: set changed at  1, sequence at 39 of 39; set changed at momentaries [2], sequence at [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]; the set at momentary 1: ['-1', '1'], from momentary 2: ['-1', '0', '1']
+    8 in 17: set changed at 39, sequence at 39 of 39
+   10 in  1: set changed at 39, sequence at 39 of 39
+   10 in  9: set changed at 39, sequence at 39 of 39
+   10 in 17: set changed at 39, sequence at 39 of 39
+   11 in  1: set changed at 39, sequence at 39 of 39
+   12 in  1: set changed at 39, sequence at 39 of 39
+   13 in  9: set changed at  0, sequence at  0 of 39; set changed at momentaries [], sequence at []; the set bound at every momentary: ['(0, 10)', '(0, 6)', '(0, 9)', '(1, 10)', '(1, 6)', '(1, 9)', '(2, 10)', '(2, 6)', '(2, 9)', '(3, 10)', '(3, 6)', '(3, 9)', '(4, 10)', '(4, 6)', '(4, 9)']
+   13 in 17: set changed at  0, sequence at  0 of 39; set changed at momentaries [], sequence at []; the set bound at every momentary: ['0', '1', '2', '3', '4']
+   14 in  1: set changed at 39, sequence at 39 of 39
+   14 in 17: set changed at 39, sequence at 39 of 39
+   15 in  1: set changed at  1, sequence at 39 of 39; set changed at momentaries [2], sequence at [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]; the set at momentary 1: ['0', '1', 'None'], from momentary 2: ['-1', '0', '1', 'None']
+   15 in  9: set changed at 39, sequence at 39 of 39
+   15 in 17: set changed at 39, sequence at 39 of 39
+   16 in 17: set changed at 39, sequence at 39 of 39
+4. The same at every momentary, in every function: [5, 13]
+   changing at every momentary, in every function: [2, 3, 6, 7, 8, 10, 11, 12, 14, 15, 16]
+   neither: [4]

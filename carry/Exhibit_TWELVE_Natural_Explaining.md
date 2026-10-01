@@ -6,6 +6,10 @@ Exhibit TWELVE Natural Explaining · carrying v378
 
 ## Ready
 
+
+
+**Ready, at v377, from the Equilibria Registry's motion: 1.6's between.** At 1.6, *The membrane is the non-existing between of a file and each self it couples with*: *membrane* a released word, Natural Naming 2.4, and the between read, as arrived at v377, as existing as the universe is, only while the six connectors are resolving, or closed to each other in looping, a nothing and no location; re-said at this file's motion. The Equilibria Registry 1.3; `incoming/session_v377/Session_Report_v377.md`.
+
 **Opportunity, at v370.**
 
 - *A tell* as the sign a fault shows at, 2.2's length, 3.8's close and 4.7's unrelationing, is a third use beside a telling and *tell* said as a demand: the collision named at its first meeting, or the sign use carried at another word, at a naming pass.
