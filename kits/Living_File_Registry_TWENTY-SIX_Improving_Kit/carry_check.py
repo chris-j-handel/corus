@@ -68,7 +68,7 @@ if os.path.exists(liv):
     if re.search(r'^## ', t, re.M): notes.append("the front carries a file's section; each file's carrying is its own file at carry/<file>.md")
 else:
     notes.append('no carry/Living_Improving_Value.md')
-print('  %-56s %-6s %5s %7s   next' % ('each file at its own carrying', 'words', 'ready', 'concern'))
+print('  %-56s %-6s %5s %7s   next' % ('each file at its own carrying', 'words', 'ready', 'open'))
 ready_total = concern_total = 0
 for stem in sorted(living):
     if not living[stem].endswith('.md'): continue
@@ -83,12 +83,12 @@ for stem in sorted(living):
         return len([b for b in re.split(r'\n\s*\n', body) if b.strip()])
     ready, concern = part('Ready'), part('Concern')
     ready_total += ready; concern_total += concern
-    nm = re.search(r'^\*\*Next at this file(.*?)\*\*\s*(.*?)$', ct, re.M)
+    nm = re.search(r'^\*\*Next at this file(.*?)\*\*[ \t]*(.*?)$', ct, re.M)
     nxt = ((nm.group(1).strip(':,. ') + ' ' + nm.group(2).strip()).strip() if nm else '(no next said)')[:70]
     print('  %-56s %6d %5d %7d   %s' % (stem, len(ct.split()), ready, concern, nxt))
     if 'None.' not in ct and ready == 0 and concern == 0: notes.append('carrying of %s says neither Ready nor Concern' % stem)
     if not nm: notes.append('carrying of %s has no "Next at this file" paragraph' % stem)
-print('  ready offerings %d, concerns for both %d' % (ready_total, concern_total))
+print('  ready offerings %d, concerns open %d' % (ready_total, concern_total))
 reg = living.get('Exhibit_TWENTY-SIX_Living_File_Registry')
 rt = open(os.path.join(ROOT, reg), encoding='utf-8').read() if reg else ''
 m = re.search(r'\*\*The workings open\.\*\*.*?\n\n(\|.*?)\n\n', rt, re.S)

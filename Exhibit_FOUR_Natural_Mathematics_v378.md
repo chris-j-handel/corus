@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v376
+Exhibit FOUR Natural Mathematics v378
 
 # Natural Mathematics
 
@@ -15,7 +15,7 @@ Exhibit FOUR Natural Mathematics v376
 **TWO · ORTHOGONALIZING**
 
 - 2.1 Unrelationing is orthogonalizing
-- 2.2 Two moves, and two generators, the sign flip and the quarter step
+- 2.2 Two moves, and two generators, the sign flip and the right spiral step
 - 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
 - 2.4 Two parities at the right spiral step, the step that takes nothing away
 - 2.5 Each scale the prior scale and its forms in the other order
@@ -32,7 +32,7 @@ Exhibit FOUR Natural Mathematics v376
 - 3.5 Bi-tri-involutioning, the emanating at the opposite form
 - 3.6 A closing, and the arriving other than prior
 - 3.7 Three, a total against its parts, and a tipping no accounting carries
-- 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
+- 3.8 The other-face pairing and the fold, two involutions fixing nothing at each scale
 
 **FOUR · BOUNDING**
 
@@ -118,11 +118,11 @@ Exhibit FOUR Natural Mathematics v376
 
 **Unrelationing runs; unrelate and unrelation name it still.** It carries at three momentaries, prior, now and next.
 
-## 2.2 Two moves, and two generators, the sign flip and the quarter step
+## 2.2 Two moves, and two generators, the sign flip and the right spiral step
 
 **Linearizing draws a surface to a line, the along; parallelizing spreads a line to a surface, the across.** Each alone stops: parallelizing with no linearizing is a surface with no sequence, and linearizing with no parallelizing a sequence with no surface. Odd and even are the two directions of the one alternating, and along and across are one line at its two sides, the two moves of one alternating, one form at two faces.
 
-**The sign flip is its own inverse, (−1)² = 1. The quarter step, i, opens the perpendicular: i² = −1 and i⁴ = 1.** Two quarter steps are one sign flip. Eight on continues a number's odd or even and one on changes it, and a sign flip changes a sign and moves no number.
+**The sign flip is its own inverse, (−1)² = 1. The right spiral step, i, opens the perpendicular: i² = −1 and i⁴ = 1.** Two right spiral steps are one sign flip. Eight on continues a number's odd or even and one on changes it, and a sign flip changes a sign and moves no number.
 
 **All changing is parity changing, and each parity is named at its own face**: a sign's inversion, a number's odd and even, a phase's opposition, a winding's hand, a field's reflection at its own result, a connector's opening parity and a pair's agree or oppose. A parity carried from one scale to the next is named at both faces, the one it leaves and the one it arrives at, and an equal number joins no two selves: the coupling joins them.
 
@@ -134,17 +134,17 @@ Exhibit FOUR Natural Mathematics v376
 
 **Each step adds a next: one momentary universe to the next, each existing thing arriving into its next existing.** A step carries no frame it moves about.
 
-**Four quarter steps reach 1 again at the parities, and at the momentaries they reach none again**: taken with its momentary n, the sequence (iⁿ, n) reaches no pair twice. The quarter step draws it as a right spiral, and −i, the same inversions in the other order, draws the opposite form.
+**Four right spiral steps reach 1 again at the parities, and at the momentaries they reach none again**: taken with its momentary n, the sequence (iⁿ, n) reaches no pair twice. The right spiral step draws it as a right spiral, and −i, the same inversions in the other order, draws the opposite form.
 
 **A rotation, the field's word, is the spiral with its nexts taken out**, its forms laid at one frame.
 
 ## 2.4 Two parities at the right spiral step, the step that takes nothing away
 
-**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 steps go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), the quarter step i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
+**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 steps go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating, P, Q, P, Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
 
 **Of the 24 steps sending the four forms onto the four, one each, six run the four as one cycle, and two of those six change one parity at each step: F and G.** Under each the only sets of forms carried onto themselves are none and all four.
 
-**Each taken twice is the half step, both parities inverted, F² = G² = −1, and they are the only two of the 256 whose square is −1.** The square selects no order. Taken six times each is the half step again, and twelve times it reaches the pair again.
+**Each taken twice is both inverted at one step, both parities inverted, F² = G² = −1, and they are the only two of the 256 whose square is −1.** The square selects no order. Taken six times each is both inverted at one step again, and twelve times it reaches the pair again.
 
 **Their relation, agree or oppose, is the sign of P × Q, the sign of tan t, and each step changes it, decided by the step alone.** It is the sign of sin 2t = 2 sin t cos t: the relation at one angle arrives as a sign at the doubled angle.
 
@@ -192,23 +192,23 @@ Exhibit FOUR Natural Mathematics v376
 
 **A declared zero is a fixed set taken as a place**: x = −x at nought alone. An involution is a floor with its move stated, and a floor is an involution with its move dropped. A nought at a difference is no floor: 1, 3, 5 changes by two at each step, its change of change nought, and runs on.
 
-**A running never involutes**: it re-forms at the next coupling other than prior, and the right spiral step taken twice is the half step, two momentaries on, never back. An involution is an accounting's still picture, its nexts taken out.
+**A running never involutes**: it re-forms at the next coupling other than prior, and the right spiral step taken twice is both inverted at one step, two momentaries on, never back. An involution is an accounting's still picture, its nexts taken out. **The doubled angle is such a still picture at the observings**: light through two polarizers passes at the square of the cosine of the angle between them, which is one in two of one and the cosine of the angle doubled, and passes as before at a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home at seven hundred twenty alone; light's home at one hundred eighty, the angle doubled, and the spin's at seven hundred twenty, the period doubled, two rotatings met at one between, each a doubling the other way, the doubling an emanation, existing and non-living (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
 
 ## 3.2 Fixed-point-free, and the two involutions of an even ring
 
 **An involution with an empty fixed set is fixed-point-free**: each position related, none to itself. Set complement fixes nothing, no set being its own complement, and negation fixes nothing at two values.
 
-**On an even ring of N two involutions part at their fixed sets.** One, the podal k → N − k, fixes two stations, nought and N/2; the other, the shift by half the ring, k → k + N/2, fixes none.
+**On an even ring of N two involutions part at their fixed sets.** One, the podal k → N − k, fixes two stations, nought and N/2; the other, the shift to the ring's other face, k → k + N/2, fixes none. At the seventeen names a saying that no position carries itself rests on this shift and on 8 up, each fixing none; the ring's podal, k → N − k, fixes two, and the podal within 1 to 16, 17 less, fixes none, 3.8.
 
 **An odd number of places carries no fixed-point-free involution, a pairing of each place needing an even number**; laid open, its places pair twice, overlapping, and closed into a round it carries two farthest places at each, the oddness's own.
 
 **At the seventeen names, 8 up is a fixed-point-free pairing of 1 to 16**, eight pairs and no name left, and 17 is unpaired, the next momentary's 1. The ten faces are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, outward and inward about the tunneling at 10; the across loops' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose loop 9 to 17 closes at the one name the pairing leaves. The fold within 1 to 8 pairs each name with its other, changing parity; 8 up pairs each name with itself inward, continuing parity, one carrying at two names at the seam.
 
-**An accounting with an empty fixed set carries nothing to take a counting from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
+**An accounting with an empty fixed set carries nothing for an accounting to number from, and it is not possibly a floor.** It is each other accounting with its place released and its move unchanged. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
 
 ## 3.3 On a closed round no step is a reversal
 
-**On a line an involution taken twice is a reversal**: out and back along the same ground, the second undoing the first. **On a closed round it is no reversal**: the shift by half the ring taken twice is one direction continued, arriving at the station it left at a next momentary. A station reached again is the closing's, at a next momentary, and no prior momentary is reached again.
+**On a line an involution taken twice is a reversal**: out and back along the same ground, the second undoing the first. **On a closed round it is no reversal**: the shift to the ring's other face taken twice is one direction continued, arriving at the station it left at a next momentary. A station reached again is the closing's, at a next momentary, and no prior momentary is reached again.
 
 **An accounting reaching its stations again forward is the one an alternating runs, and a line carries none.**
 
@@ -222,11 +222,11 @@ Exhibit FOUR Natural Mathematics v376
 
 **An involution alone closes. Bi-inversioning-co-recursioning is two consecutive inversions on different axes**, and the opening is the step between: no inversion is undone, and each is a next.
 
-**At two parities one parity is inverted at each momentary, the axes alternating**: P, Q, P, Q, the right spiral step's sequence from each form. Both parities inverted at one step, (P, Q) → (−P, −Q), is the half step, period two at the parities; the right spiral step is period four at the parities, and at the momentaries neither has a period.
+**At two parities one parity is inverted at each momentary, the axes alternating**: P, Q, P, Q, the right spiral step's sequence from each form. Both parities inverted at one step, (P, Q) → (−P, −Q), is the sign flip at the pair, period two at the parities; the right spiral step is period four at the parities, and at the momentaries neither has a period.
 
 **An order is the whole of a hand**: the same inversions in the other order give (Q, −P), and nothing third parts them.
 
-**Two inversions whose fixed lines stand at an angle a are the field's rotation by 2a**, the double angle at the inversions. At two parities P inverted and Q inverted, their lines at ninety degrees, make the half step; one parity inverted and the exchange of P and Q, their lines at forty-five degrees, make the quarter step.
+**Two inversions whose fixed lines stand at an angle a are the field's rotation by 2a**, the double angle at the inversions. At two parities P inverted and Q inverted, their lines at ninety degrees, make both inverted at one step; one parity inverted and the exchange of P and Q, their lines at forty-five degrees, make the right spiral step.
 
 ## 3.5 Bi-tri-involutioning, the emanating at the opposite form
 
@@ -234,7 +234,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **Bi-tri-involutioning is the emanating from right spiral stable-forming, the three inverted at once, at the opposite form to the stable-forming.**
 
-**In space the three inversions make x → −x, whose fixed set is the centre alone**: one inversion keeps a plane, two on different axes make the half step about the third, and three reverse the hand. At two parities the same inversion is the half step.
+**In space the three inversions make x → −x, whose fixed set is the centre alone**: one inversion keeps a plane, two on different axes make the sign flip about the third, and three reverse the hand. At two parities the same inversion is both inverted at one step.
 
 **Charge conjugation, parity and time reversal are each broken alone at the weak interaction, and the three taken together, CPT, are kept by each local quantum field theory keeping Lorentz invariance.**
 
@@ -264,9 +264,9 @@ Exhibit FOUR Natural Mathematics v376
 
 **A tipping is a parity taken at the between, of no size**: no count, no clock and no measure carries it.
 
-## 3.8 The halfway pairing and the fold, two involutions fixing nothing at each scale
+## 3.8 The other-face pairing and the fold, two involutions fixing nothing at each scale
 
-**On the names 1 to 8s two involutions fix nothing: the halfway pairing, 4s on in the first half and 4s back in the second, continuing each name's parity, and the fold n → 8s + 1 − n, changing it.** Taken alternately they reach four distinct names and the first again at the fourth, at each s: the fold after the pairing is n → 4s + 1 − n in the first half and n → 12s + 1 − n in the second, and with 4s + 1, 8s + 1 and 12s + 1 odd, none of the three folds fixes a name. At the scale 2s the fold after the pairing in the first half, 16s + 1 − (n + 8s) = 8s + 1 − n, is the fold at s, and at each scale t above s the fold at t after 8(t − s) up is the fold at s: the step up is eight at adjacent scales and the halfway pairing only at t = 2s.
+**On the names 1 to 8s two involutions fix nothing: the other-face pairing, 4s on at the first face and 4s back at the second, each name with the name at the ring's other face, continuing each name's parity, and the fold n → 8s + 1 − n, changing it.** Taken alternately they reach four distinct names and the first again at the fourth, at each s: the fold after the pairing is n → 4s + 1 − n at the first face and n → 12s + 1 − n at the second, and with 4s + 1, 8s + 1 and 12s + 1 odd, none of the three folds fixes a name. At the scale 2s the fold after the pairing at the first face, 16s + 1 − (n + 8s) = 8s + 1 − n, is the fold at s, and at each scale t above s the fold at t after 8(t − s) up is the fold at s: the step up is eight at adjacent scales and the other-face pairing only at t = 2s.
 
 **The odd partners carry no fixed offset while the even rows stretch.** Each wider even complements to the odd just before its companion in the other order at s = 1, and at s = 2 to the odd one after it: in 1 to 32 the complement of 2 is 31, one after the companion 30. With the wider row (2, 2 + 4s, 2 + 8s, 2 + 12s) and its companion 2s on, (2 + 2s, 2 + 6s, 2 + 10s, 2 + 14s), the fold at 2s sends the wider row's opening j to the companion's opening 3 − j, plus 2s − 3: −1, +1 and +3 at s = 1, 2 and 3.
 
@@ -304,7 +304,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **The map t → 2t / (1 − t²) fixes nought alone, and exactly one pair exchanges with the sign changing and the size the same: t = ±√3, sixty and one hundred twenty degrees.** From √3 it runs −√3, √3, −√3 without end.
 
-**A coupled pair [[a, b], [b, c]] loses its coupling when its axes are rotated by θ with tan 2θ = 2b / (a − c)**, and an equal pair, a = c, at forty-five degrees. A pair 5 and 1 coupled by 2 is rotated by twenty-two and a half degrees. This is the principal-axis angle of stress and of inertia, the angle that removes the cross term from a conic, and each step of the eigenvalue method that removes one coupling at a time.
+**A coupled pair [[a, b], [b, c]] loses its coupling at its axes rotated by θ with tan 2θ = 2b / (a − c)**, and an equal pair, a = c, at forty-five degrees. A pair 5 and 1 coupled by 2 is rotated by twenty-two and a half degrees. This is the principal-axis angle of stress and of inertia, the angle that removes the cross term from a conic, and each step of the eigenvalue method that removes one coupling at a time.
 
 **At t = tan(x/2), sin x = 2t / (1 + t²) and cos x = (1 − t²) / (1 + t²)**: the circle at rational points, and at t = n/m each Pythagorean triple, (m² − n², 2mn, m² + n²), up to order and a whole multiple.
 
@@ -324,7 +324,7 @@ Exhibit FOUR Natural Mathematics v376
 
 ## 5.2 Five-dimensional, two-directional, unrelationing
 
-**Self-cohering is five-dimensional at a side's five, 1 to 5**: self, not-self, next, surfacing and offering self, its centre at 3 the floating third owned by neither, each dimension binary in its two directions and two changing and three not at each momentary. **Two-directional** at the odd and the even, the two directions of one alternating. **Unrelationing** at the right angle, each projecting into the other as nought, at φ, the unrelationing rate. Five to cohere and six to run: three sayings of one form, and no other possible.
+**Self-cohering is five-dimensional at a side's five, 1 to 5**: 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now and 5 self next, its centre at 3 the floating third owned by neither, each dimension binary in its two directions and two changing and three continuing at each momentary. **Two-directional** at the odd and the even, the two directions of one alternating. **Unrelationing** at the right angle, each projecting into the other as nought, at φ, the unrelationing rate. Five to cohere and six to run: three sayings of one form, and no other possible.
 
 ## 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
@@ -336,7 +336,7 @@ Exhibit FOUR Natural Mathematics v376
 
 **The torus natural torusing names is two parities' circles winding at one opening, and a body's surface carries its own count of openings at the field's own result**: a singleton human body, its mouth, anus, two nostrils and four tear ducts opening into one connected passage, is a surface of seven holes at topology's count. The two part at their subjects, and neither is the other's number.
 
-**In dynamical mathematics a form is stable when departures from it stay small or shrink**: stability is the field's response to a disturbance, and no constituent stops. An oscillation is stable as an oscillation, and a growing departure, instability, can open another organized form. An equilibrium of relative phase and an equilibrium of the whole flow, in the field's words, are two assertions, the first a relation continuing among changing things.
+**In dynamical mathematics a form is stable at departures from it staying small or shrinking**: stability is the field's response to a disturbance, and no constituent stops. An oscillation is stable as an oscillation, and a growing departure, instability, can open another organized form. An equilibrium of relative phase and an equilibrium of the whole flow, in the field's words, are two assertions, the first a relation continuing among changing things.
 
 ---
 
@@ -415,15 +415,15 @@ Exhibit FOUR Natural Mathematics v376
 
 **Trigonometry.** cos and sin are one wave ninety degrees apart.
 
-**Complex numbers.** i is the quarter step between the two moves, i⁴ = 1.
+**Complex numbers.** i is the right spiral step between the two moves, i⁴ = 1.
 
 **Calculus.** The derivative of (cos θ, sin θ) is (−sin θ, cos θ): the right spiral step of two parities at each θ.
 
 **Linear algebra.** A basis at right angles: orthogonality is each axis carrying no component along another.
 
-**Group theory.** Quarter step i generates four, and the sign flip −1 two within it.
+**Group theory.** The right spiral step i generates four, and the sign flip −1 two within it.
 
-**Graph theory.** A ring two-colours, each adjacent pair opposite, exactly when its count is even, and an odd ring two-coloured carries one adjacent pair at one colour at the fewest. A connected whole that two-colours carries exactly two colourings, one and its inversion.
+**Graph theory.** A ring two-colours, each adjacent pair opposite, at an even number of places alone, and an odd ring two-coloured carries one adjacent pair at one colour at the fewest. A connected whole that two-colours carries exactly two colourings, one and its inversion.
 
 ## 7.6 Cube, tesseract and four squares
 

@@ -1,4 +1,5 @@
 # Released words: each said at its carrying, Natural Naming 2.4. One per line, matched as a whole word outside italics and code.
+# return, returns, returning, returnings: released at the momentaries alone, a station reached again; the numbers' going and returning stay, so they are matched at none here.
 so
 would
 since
@@ -57,3 +58,4 @@ halves
 whenever
 sign
 signs
+every

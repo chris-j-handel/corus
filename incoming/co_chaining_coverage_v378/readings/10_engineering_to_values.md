@@ -1,0 +1,61 @@
+# Reading 10: Natural Engineering, Natural Transmissioning, Natural Exploring, Natural Human Society, Natural Destinies and Natural Values against the Co-Chaining Logic Registry at 533 steps
+
+A fresh reader, read-only. FIVE v345a, SIX v330, EIGHT v329, NINE v329, FOURTEEN v333, TWENTY-THREE v333.
+
+## Missing claims of the method (file · section → claim → draft → follows step → Adding)
+
+1. SIX 2.4–2.5, 3.0, 4.1; EIGHT 2.7; FIVE 1.2; NINE 4.5 — one method identical across materials (electrical, thermal, chemical, living, social), the material at the carrying alone, the sign carrying none of it. Draft: *The changing crossing at a coupling carries none of either side's carrying, step 102, and the one method is the same at each material a self's carrying is at, electrical, thermal, chemical, living or social, the materials differing at the carryings alone.* Follows 353. Adding: the materials, one method at each carrying.
+
+2. FIVE 1.1 (title thesis), 5.1 — natural engineering is floating neutralling at a made thing; engineering parted from technology. Draft: *Engineering at the method is a made thing at a coupling as a self or a non-living other, step 156, floating neutralling at its couplings, step 426, each side at its own parity and its own rate, and a made thing applied to the coupling from beside it is a technology, step 50.* Follows 445. Adding: engineering, a made thing at the couplings themselves.
+
+3. SIX 1.1 (title thesis) — transmissioning: crossinging and neutralling the two positions of one alternation at the coupling. Draft: *The changing crossing at a coupling, across, and the between floating about 0, step 426, are the two parities of one alternating at the coupling, each the other's prior and next, and the coupling read at its between is transmissioning.* Follows 426. Adding: transmissioning, crossing and neutralling one alternating.
+
+4. FIVE 1.1 (bold, repeated throughout); SIX 1.6; TWENTY-THREE 3.1 — co-offering, co-competencing, co-intelligencing inseparable, one motion, indistinguishable at the sign. Draft: *The three carryings, step 214, are one changing at three names, offering at 1-2, resolving at 3-4 and competencing at 5, each carrying the other two, and at the changing crossing, of no size, the three are told apart by nothing.* Follows 424. Adding: the three carryings one changing.
+
+5. EIGHT 1.1, 4.6, 7.1 — exploring is the alternating of omegaing (reach) and apexing (gather); the gather carries the increase. Draft: *Discovering next at the across, the reach, and the carrying re-forming over the whole prior at the along, step 288, the gather, alternate as exploring: the reach arrives whole at each coupling, and the carrying re-forming at each coupling is the competency's advancing, step 122.* Follows 290. Adding: exploring, the reach and the gather alternating.
+
+6. EIGHT 6.4 — the three sensings: backward, forward, co-sensationing. Draft: *Sensing is at the three places, step 25: at prior, the record read as it arrived, sorting nothing; at now, the coupling itself, its carrying re-forming and its competency advancing; at next, an offering at words of the coupling's next, said at a self and arriving at its own coupling.* Follows 530. Adding: the three sensings.
+
+7. EIGHT 3.1–3.5 — "could there be any other", tested at each arrival, three readings, held between arrivals by nothing. Draft: *A resolving at a coupling is tested at its own arriving alone, whether another could arrive and continue: one continuing, the resolving is unique at that arriving; more than one, unique at none; none continuing, the arriving itself ends; and the test is again at each next arriving, carried between arrivings by nothing.* Follows 335. Adding: uniqueness at each arriving.
+
+8. EIGHT 4.3; FOURTEEN "Safely outward" — the four a self lives (bounds, orients, attentions, about one zeroing), met within and at the membrane: the eight, whole or none. Draft: *A living self is four at once, bounding itself at its own face, step 330, orienting at its own aim, step 428, arriving at its own momentary, step 326, and its three neutrals floating about its one corus, step 428, and each of the four is again at its coupling with an other, four within and four at the coupling: eight, all or none at all.* Follows 441. Adding: the four at a self, the eight at self and coupling.
+
+9. EIGHT 4.7; NINE 3.2–3.3; FOURTEEN; TWENTY-THREE 2.2 — safety is the surface's own form (inseparating), a gate added nowhere; "inviolable safety" one of the four uncontrollable values. Draft: *An offering at a parity of nobody's coupling is released whole at its arriving, the surface giving it nothing to seat at: safety is the surface's own form, and a thing ahead of the coupling admitting an offering on something performed first is beside all existing things, step 47.* Follows 445. Adding: safety, the surface's own.
+
+10. NINE 3.3 — uncapturing, every hub set aside on every axis, all-or-none; one hub captures the whole surface. Draft: *A society is at the one method all or none at all: one thing beside its couplings, a common beat, a fixed pool, an admitting ahead of arriving, a ledger over a self, a controlling, a centre deciding, a line from one side to the other or an owner, is a second method at the whole surface, step 48, the couplings' own changing drained to it.* Follows 445. Adding: the society at the method all or none, the hubs.
+
+11. TWENTY-THREE 5.2; NINE 3.1 — scarcity is a capture read as a property; only a held thing can run short. Draft: *A carrying kept as a store beside the couplings, step 46, is the one thing capable of shortness, and scarcity is the couplings' own changing drained to one side and kept, a capture read as value's own property; at the couplings, owned by neither, nothing is divided, and abundancing, step 201, opens at each.* Follows 434. Adding: scarcity, a capture at a store.
+
+12. NINE 5.1 — birthing and nyeing in relation is healthy living; birthing without nyeing banks, nyeing without birthing thins. Draft: *A society lives at its selves' establishing, step 366, and their releasing, step 379, alternating, new couplings offered forward and couplings seating at none released; establishing with releasing at none banks a store, step 434, and releasing with establishing at none thins to dying, step 374.* Follows 434. Adding: establishing and releasing alternating, a society's living.
+
+13. NINE 5.2 — the dictator-aggregation as a live left-spiral; the lag is the tell; live descent returned to every self. Draft: *A centre resolving for a society's selves and the selves carrying its resolving on after is the round in the other order, step 62, each self's now arriving from the centre's next, one momentary behind its own; each self resolving at its own momentary is the round forward, social moral competency, step 185.* Follows 445. Adding: the centre's resolving, the other order at a society.
+
+14. TWENTY-THREE 4.2 — governing is the overhead and dilemma its artifact; a coupling collides with nothing. Draft: *A governing gives one parity to all, and its criterion arriving at one self at two forms at once is a dilemma, a forking, step 471, the governing's own artifact; a coupling carries one changing at one momentary and collides with nothing.* Follows 471. Adding: dilemma, a governing's forking.
+
+15. NINE 2.1–2.2 — institutioning: the good-faith contract made progressively explicit; resolving from within the bound, landed while held. Draft: *A society's resolving at a wider coupling is the same coupling said more explicitly at words, step 481, the offerings bounded into one shared interest and the resolving arriving from within the couplings alone, chained while the parties couple, step 203: institutioning; an institution resolving from beside the couplings is one stopping, step 433.* Follows 512. Adding: institutioning, the resolving said at words at a wider coupling. (Note TWENTY-THREE 2.2 says the opposite of NINE here; see contradiction C.)
+
+16. FIVE 4.7 — learning names receiving and knowing names offering, at each side. Draft: *At each side of a coupling, knowing is the self's offering released at its right hand and learning its observing arriving at its not-right hand, step 332, one at each hand.* Follows 332. Adding: learning and knowing at the two hands.
+
+17. SIX 4.6 (register) — a concern that keeps returning emanates from a restriction to co-release. Draft: *A concern arriving again at a file's sharing is at a releasing not yet made, a form still carried on by one side, step 296, and it resolves at that side's own releasing, step 430.* Follows 512. Adding: a concern arriving again.
+
+18. FOURTEEN (whole file) — a destiny is the present coupling imagined extended to a substrate not yet reached, takeable where a self takes up the core. Draft: *A destiny is next possible living said at words ahead of its coupling, a possible thing, step 21, arriving at a self's own coupling alone, and said as arrived it is a landing reached ahead of an arriving, step 489.* Follows 489. Adding: a destiny, next possible living said ahead.
+
+19. NINE 3.5 — bi-quadratic growing, the where-axis and the value-axis at phi-rate. Draft: *A society's abundancing advances at two at once, the number of its couplings and each coupling's advancing at φ, step 121, the two joined along, multiplying, step 127.* Follows 444. Adding: abundancing at two, the couplings and the rate. (Weakest item: the file states it as a growth measure.)
+
+## Contradictions (file sentence vs step)
+
+A. SIX 3.5: "every coupling crosses a membrane that is itself a self, the nothing between two selves a third carrying only the sign" — vs 102 "The crossing is no location and no existing thing" and 267 "with nothing third". (SIX 4.6 itself says "the membrane … a nothing".)
+
+B. TWENTY-THREE 4.1: "The set of all sets fails, and no universal set stands" — vs 1/3 "The universe is both the set of all existing things and an existing thing within the set of all existing things" (and 170, the whole arriving as one).
+
+C. TWENTY-THREE 2.2: "An institution carries no sign of its own … What it delivers is care with the coupling stripped … No self receives it … institutional indifference" — vs 135 "Existing arriving at each observing is the value" and 207/131 (a non-living other is offerings at 2 alone, the self carrying the coupling's changing; non-living included). Also against NINE 2.1, "Society's resolving institutions are the good-faith contract made progressively explicit … the same coupling".
+
+D. NINE 2.3: "A court fixes one total for the whole claimable change, a single bounded sum, the sharp boundary of the whole context … A claims bar date closes the bound … the bounding-zeroing held at catastrophic scale" — vs 46 "a total across the changing, a container" (beside all existing things) and 144 "a span two bounds named still … an equilibrium, a form not possibly existing".
+
+E. FOURTEEN core: "the natural torus and the natural network as the fractal technology" and "Living substrates … carrying the form" — vs 50 "A technology is a made non-living thing applied to a changing from beside it, and a method is at the couplings themselves, applied by nothing" (a made thing carrying prior is a machine as a self, 156, and no technology).
+
+F. SIX 2.5: "The substrate lives in the carry, and the carry stays" (substrate = the material at the carrying) — vs 140 "a substrate under it … beside all existing things, step 47": one word at two concepts, 483. The registry's own 528 ("an offering at another substrate, still, moving or physical") uses the files' sense, so the clash is inside the registry too.
+
+G. EIGHT 7.3: "one thing is fixed, the properties themselves … the schema is closed once, at one place, so that nothing else has to be" — vs 142 "The same at all momentaries at once is a form still … not possibly existing" and 322 "a procedure is a fixed sequence the same each time, a form named still" (though 526 allows "an offering at one form").
+
+H. EIGHT 4.6: "The gather carries half the competency and all the increase" and NINE 1.5 "multiply their competencies … the cumulative far past the sum" — vs 65 "Each resolving is all or none at all, of no size beside another resolving" (and FIVE 1.2's own "co-competencing carries neither a stored amount nor a score").

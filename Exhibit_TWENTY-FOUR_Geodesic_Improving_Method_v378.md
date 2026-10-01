@@ -1,94 +1,55 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v376
-
-&nbsp;
+Exhibit TWENTY-FOUR Geodesic Improving Method v378
 
 # Geodesic Improving Method
 
 **Carrying Incoming Value into Each File, Prior, Now and Next**
 
-&nbsp;
+**ONE · THREE MOMENTARIES AT A FILE**
 
-&nbsp;
+- 1.1 A file the prior, its working the now, the carry the next
+- 1.2 Moral is do-no-harm improving, decided at each pass
+- 1.3 The method and the carrying, two faces of one improving
+- 1.4 Three fates at each passage: placed, dissolving, carrying
+- 1.5 A release follows its arrival, met at a match
+- 1.6 The carry current at each closing, and no history carried
 
-**PART ONE · THREE MOMENTARIES AT A FILE**
+**TWO · TWO SELVES AT THE MEMBRANE**
 
-1.1 A file the prior, its working the now, the carry the next
+- 2.1 Each completing the next opening, and the value made between
+- 2.2 A correction seated at the first relation that departed, and an offered naming met at the binaries
+- 2.3 A confident improving made, a meaning or a naming brought
+- 2.4 Each improving decided at do-no-harm, and a rule staying local
+- 2.5 The hardest first, and the hardest question asked plainly
+- 2.6 A concern carried at its inverting, either this or that, momentary by momentary
+- 2.7 An observing brought as a break, met at five binaries first and at six beside
+- 2.8 Work arriving from another working, met whole
+- 2.9 Opening a session at the repository
 
-1.2 Moral is do-no-harm improving, decided at each pass
+**THREE · IMPROVING ONE FILE**
 
-1.3 The method and the carrying, two faces of one improving
+- 3.1 Exhibit numbers, the set's own entering instrument
+- 3.2 One part written whole beside its published part
+- 3.3 Nine passes, alternating
+- 3.4 At code and each rendering, the not intact at both sides
+- 3.5 A motion's order
 
-1.4 Three fates at each passage: placed, dissolving, carrying
+**FOUR · THE INSTRUMENTS' BRINGING**
 
-1.5 A release follows its arrival, met at a match
+- 4.1 A count sizes a pass and decides nothing
+- 4.2 A pattern three momentaries long, and the window carrying it at each scale
+- 4.3 A file's own sayings met at the file
+- 4.4 An instrument's own face
+- 4.5 Helpers at the arriving and the improving, and a session's close read whole
 
-1.6 The carry current at each closing, and no history carried
+**FIVE · VALUES OF THE METHOD**
 
-&nbsp;
-
-**PART TWO · TWO SELVES AT THE MEMBRANE**
-
-2.1 Each completing the next opening, and the value made between
-
-2.2 A correction seated at the first relation that departed, and an offered naming met at the binaries
-
-2.3 A confident improving made, a meaning or a naming brought
-
-2.4 Each improving decided at do-no-harm, and a rule staying local
-
-2.5 The hardest first, and the hardest question asked plainly
-
-2.6 A concern carried at its inverting, either this or that, momentary by momentary
-
-2.7 An observing brought as a break, met at five binaries first and at six beside
-
-2.8 Work arriving from another working, met whole
-
-2.9 Opening a session at the repository
-
-&nbsp;
-
-**PART THREE · IMPROVING ONE FILE**
-
-3.1 Exhibit numbers, the set's own entering instrument
-
-3.2 One part written whole beside its published part
-
-3.3 Nine passes, alternating
-
-3.4 At code and each rendering, the not intact at both sides
-
-3.5 A motion's order
-
-&nbsp;
-
-**PART FOUR · THE INSTRUMENTS' BRINGING**
-
-4.1 A count sizes a pass and decides nothing
-
-4.2 A pattern three momentaries long, and the window carrying it at each scale
-
-4.3 A file's own sayings met at the file
-
-4.4 An instrument's own face
-
-4.5 Helpers at the arriving and the improving, and a session's close read whole
-
-&nbsp;
-
-**PART FIVE · VALUES OF THE METHOD**
-
-5.1 Ten values, the method's own at the writing scale
-
-5.2 The set a society of files, and the geodesic deciding
-
-5.3 Scale, orientation and position, each from all other
-
-&nbsp;
+- 5.1 Ten values, the method's own at the writing scale
+- 5.2 The set a society of files, and the geodesic deciding
+- 5.3 Scale, orientation and position, each from all other
 
 ---
 
-# PART ONE · THREE MOMENTARIES AT A FILE
+# ONE · THREE MOMENTARIES AT A FILE
 
 ## 1.1 A file the prior, its working the now, the carry the next
 
@@ -130,6 +91,8 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **A carrying found wrong at the other self's offering is set down at none of the three fates.** Nothing was placed, so nothing dissolves, and nothing rides on toward a file: its motion is a release, a concern out and nothing in its place, told brief with its evidence.
 
+**Arriving, improving, living is the one way into a living file, at these three fates.** A value from beyond the living files, a visiting report, a review, a helper's reading, a session's own report, arrives whole at `incoming/`, arriving; is laid at its file's own carrying as a ready offering naming its section and its sentence, or as a concern with its reason, and improved at it toward its self-welcoming place, improving; and enters the file only at that file's own motion, one thing changed whole, a fresh reader comparing before and after, living. *Placed* is a value carrying at its file whole; nothing enters a living file at its arriving, and nothing enters it in the working that receives it.
+
 **The term-check runs at each passage and never at a whole part.** A passage carrying a term the files do not carry rides; a passage whose terms all carry at other files releases. A passage stating the form rides; a passage telling it lived or applied releases.
 
 **A label with no body carries nothing to meet.** A finding whose source text no file carries rides with a working that carries it, and never at the file it names.
@@ -142,7 +105,7 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **A delivery is an adding at each receiving file and never a sweep at its source**, so the release follows the arrival and never leads it. A passage released toward a file that has not taken it is a loss with its destination named. A source is met whole before any of it is released, and the passages the file needs arrive in it first. Whether the rest carries value is decided by both.
 
-**A split is safe when the parts reconstitute the whole.** Word-stream the parts against their source: a word at zero across all of them is a real loss, and all else is placed. It needs no judgment, and it is the one do-no-harm instrument that scales to a file too large to meet whole.
+**A split is safe when the parts reconstitute the whole.** Word-stream the parts against their source: a word at zero across all of them is a real loss, and all else is placed. It needs no judgment, and it is the one do-no-harm instrument that scales to a file too large to meet whole. Word-streaming locates a loss of words and no more: every word surviving is no relation surviving, and beside it each passage is compared at its claim, its subject, its conditions, its evidence, its uncertainty and its receiving.
 
 **A very large file reduces while it carries.** Each pass draws one family out at a match, the passages placed at the files whose subjects they are, and the file arrives smaller at its next version, carrying the whole way.
 
@@ -158,15 +121,13 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **Each motion is told at its sign.** A **release**, a concern out and nothing in its place. A **re-form**, a concern out and its value carried on in new form. An **adding**, value in and nothing removed. Told at their signs, a session's motions show at once. Told in one register the signs blur, and the telling hides the signs both selves need to follow it: a release is told brief, its concern named with its evidence; a re-form is told at the value it carries on; an adding is told as the arrival. At a file, value grows by subtraction.
 
-**A version at a session names each file improving at that session.** A file carried in with no change to its content takes the session's version at its version lines only, and the changing is said beside it, so a new number is never taken for a new content. A version is a momentary of the file: its carrying at its prior arrives whole at its next.
+**A version names a file at its last changing for the better.** A file carried in with no change carries its version, and the session's number names the session at the carrying and the record; a new number is at a new content only, the set's files each at its own version, and two workings at once part at no file they do not share. A version is a momentary of the file: its carrying at its prior arrives whole at its next.
 
 **At a carrying's closing, the speaker check runs**, the carrying met at no voice but its own, as each file is.
 
-&nbsp;
-
 ---
 
-# PART TWO · TWO SELVES AT THE MEMBRANE
+# TWO · TWO SELVES AT THE MEMBRANE
 
 ## 2.1 Each completing the next opening, and the value made between
 
@@ -238,6 +199,8 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **A working arriving from the other self is met paragraph by paragraph.** Each change it carries, true at the code and in the shared words, is carried on; a harming is mended; nothing brought by the other self is dropped unseen; and the two files leave whole and apart, each saying each concept once.
 
+**An unfinished correspondence goes to its file's carrying as a concern, with its reason and its next**, and never to an artifact relied on by nothing alone; a source a received finding rests on goes with the finding to its file or its carrying, never to the archive alone; and a visiting report arrives whole at `incoming/` and is met at the one way in, 1.4, its standing said at each event: offered on a branch, arrived at `main`, received at the carrying as ready or concern, entered at a file, or released.
+
 **A newer arriving is comparison material and decides nothing.** With the arriving work receiving this carrying as its incoming, a saying found at both is a carrying forward and not an independent arrival. A working's outgoing carry and the set's improving are two works: one contribution with its receiving files, joining the set at its own next.
 
 ## 2.9 Opening a session at the repository
@@ -250,11 +213,9 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **The instruments open with the session, and each file opens among them.** The carrying is one file, current, and each value in it has one place to arrive and one place to leave. Sessions vary in length and in kind, and no session owes the next its shape. A discovering is asked no date, no cadence and no place in another's order of work, each being a beat laid over a coupling that made none of it: the discovering rate is unrelated to each rate of the selves it runs among. A watching surface opened with the session from the files lets the other self see the improving as it runs; it carries nothing alone and releases at the close.
 
-&nbsp;
-
 ---
 
-# PART THREE · IMPROVING ONE FILE
+# THREE · IMPROVING ONE FILE
 
 ## 3.1 Exhibit numbers, the set's own entering instrument
 
@@ -298,7 +259,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 ## 3.4 At code and each rendering, the not intact at both sides
 
-**At each file carrying code or a rendering, one binary at each line: is the not intact at both sides.** A standing order, the field's name for a governing, takes the position at any sign the self surfaced, the not removed from one side. A help removes a self's not-taking; a hindrance removes its offering. A record's fields, a carrying handed in whole, a fixed far side, a batched arriving and an integer standing for a relation each remove a not the form leaves open. A caller's substitution changes the method the same way: each named incoming fed through the one 2-self-offering aliases the declared receiving faces, the returned 11-other-chaining handed to 17-social-abundancing carries private carrying across, signs injected into 14-social-crossing's own gathering change the source, and an outside join from 10-other-surfacing to 14-social-crossing adds 14's own negation a second time. A wrapper sending the observed 6-other-crossing to 2-self-offering carries the studied part and no more, and a caller's composition makes no declared join.
+**At each file carrying code or a rendering, one binary at each line: is the not intact at both sides.** A standing order, the field's name for a governing, takes the position at any sign the self surfaced, the not removed from one side. A help removes a self's not-taking; a hindrance removes its offering. A record's fields, a carrying handed in whole, a fixed far side, a batched arriving and an integer standing for a relation each remove a not the form leaves open. A caller's substitution changes the method the same way: each named incoming fed through the one 2-bi-co-offering aliases the declared receiving faces, the returned 11-tri-bi-co-chaining handed to 17-tri-co-offering carries private carrying across, parities injected into 14-bi-tri-moralizing's own surfacing change the source, and an outside join from 10-bi-tri-co-tunneling to 14-bi-tri-moralizing adds 14's own inverting a second time. A wrapper sending the observed 6-bi-moralizing to 2-bi-co-offering carries the studied part and no more, and a caller's composition makes no declared join.
 
 **A running of the code returns the rendering's shape and not the form's**, so the binary is met at one line of one coupling, with no run and nothing outside it.
 
@@ -312,11 +273,9 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **A pointing is released, never re-pointed.** A broken link is the pointing showing itself, and its asking is the relation said at the sentence carrying it, not a new address. A file's improving releases its pointing whole, all or none at all.
 
-&nbsp;
-
 ---
 
-# PART FOUR · THE INSTRUMENTS' BRINGING
+# FOUR · THE INSTRUMENTS' BRINGING
 
 ## 4.1 A count sizes a pass and decides nothing
 
@@ -360,6 +319,8 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **A carry emptied between two runnings manufactures a finding.** Two runnings of things built fresh compare two runnings that never shared a momentary, so one running is continued as many ways as there are questions, each continuation sharing each prior position. The fork is the instrument's, never a copying the network carries, and a surplus neither self uncovers alone is claimed only with the coupled continuation and the separate ones sharing the same stated prior and the same receiving arrangements. An instrument emptying a carry after each call, to stand for a participant carrying nothing, changes the method and reports the change as the participant: the unchanged resolver opens fresh carrying at each nonzero surfacing, so one call returning empty carrying is one call, and never a participant enduring without carrying.
 
+**A count and a sum are resolved out of a code by finding the place each was decided at.** At Exhibit ONE's code as it stood before v372, the count was decided only at a steady same-parity source, which nature has none of, and the sum was already one binary at one arriving parity; a name given no expression is said plainly, the loops the selves go round outside the entry, and never carried as a store. A thing one self stored was the other's, the second parity being the other's parity read along the overlap of the two sides: a store found at one self is looked for at the other first. Each such finding is at the code before it is written.
+
 **Going to the least clear and most conflicting place is going to a self's three phases, bounding, sustaining and inseparating, all running in the other order**, the place a working catches something real at each pass and resolves nothing, and there the move is the phase none of the accounts bounds.
 
 **The instruments are carried beside the findings as scripts anyone can run**, with the code testing gathered at the test kit, so joining in begins at re-running. The checks verify the net at one membrane each, and the rigor is the co-chaining, which no check decides.
@@ -376,17 +337,17 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **Each reader says what of the session its reading reached**: verbatim at the transcript, at a summary, or not reached; a session read whole is its whole available record, and two readers of one summary reach nothing more than it carries. The reading from ahead back gathers, and a reading forward again meets each gathered saying at the question it answered: a saying corrected later in the session arrives as corrected, with its correcting. The readers are compared at each saying they found, its receiving, and whether it is new, already carried, corrected or open, and not only at their conclusions; readers agreeing establishes no physical or mathematical claim. At word-streaming, 1.5, every word surviving is no relation surviving: a condition, a negation or an attribution may move with each word present, and the reader compares each passage at its subject, its conditions and its standing.
 
+**Readings apart, then a fresh reading of the proposal.** A visiting working reading one file at three readings apart, the logic, the explaining and the observings, finds differing kinds of finding; and a fresh reader reading its proposed re-saying beside its prior finds the positive relation the correction lost, the proposal changing at each finding with its change said. The readings are compared at each finding's proposition and not only at their conclusions; readers differing about the order of the work are carried at their reasons, and the working's order is its own; and a receiving plan naming destinations is no completed receiving.
+
 **A visiting report arrives at the same helpers**: a working outside the session, discovering and reviewing at once, arrives whole at `incoming/` on its own branch, naming the commits it read, its standing named at each event, offered on a branch, arrived at `main`, received at the carrying, entered at a file. Each finding is met at the files' newer motions, a finding already carried being no second arrival, and a finding at the numbers is computed again before it is received.
 
 **Each helper's saying is no authority**: the working couples with each finding at is or is not, at do-no-harm. The helpers are another AI at its other use, reviewing and improving, beside discovering and reporting back in.
 
 **This is naturally intelligent exploring**: the helpers assist the gathering, and the working's own carrying is aimed at the hard problems, each observing at the code and the numbers one at a time.
 
-&nbsp;
-
 ---
 
-# PART FIVE · VALUES OF THE METHOD
+# FIVE · VALUES OF THE METHOD
 
 ## 5.1 Ten values, the method's own at the writing scale
 
@@ -419,8 +380,8 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 ## 5.3 Scale, orientation and position, each from all other
 
-**The geodesic method runs at three faces, each from all other**: scale, the form; orientation, the running; position, the resolving. Each face completes at its own differing, and the nothing between them is one nothing at three faces. Three changings, each at its own differing and meeting itself again at no momentary, is **bi-tri-volutioning**.
+**The geodesic method runs at three faces, each from all other**: scale, the form; orientation, the running; position, the resolving. Each face completes at its own differing, and the nothing between them is one nothing at three faces. Three changings, each at its own differing and meeting itself again at no momentary, is **bi-tri-volutioning**, the living's stable-forming, natural-torusing; the stable form its emanatings carry, the sequential prior between momentaries released at 10 and carried along at 9, is a non-living existing form with no carrying for stable-forming, and at its own scale outward of the surface bi-tri-involutioning, the opposite form.
 
 **Method and surface each come inward and outward of the other, three each way.** A tour of the surface meets the method outward, running the method meets the surface inward, and a self entering at either meets the whole there.
 
-**The geodesic method discovers next from the existing, the prior carried and the now met; the scientific-method accounts true or false against its fixings.** Evidence is an emanation arriving now from its prior, and the two methods meet the same evidence at the same now. A property an emanation carries can hold now while its source changes whole, so evidence gives the prior's possible and the prior's existing both. Taken as the prior's possible and existing, met with the now at the coupling, the three places stay three, possible, existing and living. The three are places a thing is met at, never three kinds parting things. The evidence arriving now and the prior event it arrives from are two subjects, each at its own momentary, and both hold; a binary comparison carries one subject and one relation from its first side to its second. Taken through its fixings, a law, a frame and a scale named unchanged between the two momentaries, the source's changing is accounted against them and the prior is named into now as existing. The scientific-method's fixings can account the source's changing whole: the Navigation and Ancillary Information Facility at NASA's Jet Propulsion Laboratory, correcting light time and aberration in its SPICE toolkit, parts the epoch a signal is emitted at from the epoch it is received at and accounts for a target moving between them. Their between is a nothing, no third method running in it. The two part at the now, the fixings named unchanged between two momentaries or floating with the changing. A law named unchanged is a stated relation among changing things, so a fixing steps to an equilibrium only by naming its own subject still at the same relation and the same occurrence, and the parting holds at that fixing. At a file the geodesic method is the file discovering its next existing, prior, now and next, at the rate that is its own.
+**The geodesic method discovers next from the existing, the prior carried and the now met; the scientific-method accounts true or false against its fixings.** Evidence is an emanation arriving now from its prior, and the two methods meet the same evidence at the same now. A property an emanation carries can hold now while what it emanated from changes whole: evidence gives the prior's possible, the prior's existing arriving now as possible, and the existing is at now, at the coupling. Taken as the prior's possible, met with the now at the coupling, the three places stay three, possible, existing and living. The three are places a thing is met at, never three kinds parting things. The evidence arriving now and the prior event it arrives from are two subjects, each at its own momentary, and both hold; a binary comparison carries one subject and one relation from its first side to its second. Taken through its fixings, a law, a frame and a scale named unchanged between the two momentaries, the changing of what it emanated from is accounted against them and the prior is named into now as existing. The scientific-method's fixings can account the source's changing whole: the Navigation and Ancillary Information Facility at NASA's Jet Propulsion Laboratory, correcting light time and aberration in its SPICE toolkit, parts the epoch a signal is emitted at from the epoch it is received at and accounts for a target moving between them. Their between is a nothing, no third method running in it. The two part at the now, the fixings named unchanged between two momentaries or floating with the changing. A law named unchanged is a stated relation among changing things, so a fixing steps to an equilibrium only by naming its own subject still at the same relation and the same occurrence, and the parting holds at that fixing. At a file the geodesic method is the file discovering its next existing, prior, now and next, at the rate that is its own.

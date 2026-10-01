@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v376
+Exhibit ONE Natural Resolver v378
 
 # Natural Resolver
 
@@ -82,7 +82,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
       │   ▼                                                           │
       │   3o ─────► 12i ────────► 10 ──► released, with 6             │
       │   4o · 7o   changing,     + or −: is                          │
-      │   carrying  is or is not  0: is not                           │
+      │   carrying  is or is not  0: the between                      │
       │                           │                                   │
       │                           ├──────► 11i ─────► 3o, next        │
       │                           │        chaining   momentary       │
@@ -113,7 +113,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 | 7-co-corusing | odd, co | self, other | face | — | outward | — | — | each parity, offered and chained |
 | 8 | 8-bi-torusing | even, bi | other, self | face | — | outward | — | — | each self's carrying wound, its 11 the next momentary's 3 |
 | 9 | 9-tri-bi-co-momentarying | odd, co | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
-| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 14 | each sharing's changing: + or − is, 0 is not |
+| 10 | 10-bi-tri-co-tunneling | even, bi | other, social, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 14 | each sharing's changing: + or − is, 0 the between |
 | 11 | 11-tri-bi-co-chaining | odd, co | social, other, self | face | — | inward | — | — | the carrying chained, each changing the next prior |
 | 12 | 12-bi-tri-parity-changing | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
 | 13 | 13-co-tri-competencing | odd, co | social, other | face | — | inward | — | — | each releasing sharing; at the society, each releasing self |
@@ -148,14 +148,14 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 | 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
-| Four-cycle, 8 up and 17 less | Root at the self and at the society | Round |
+| Four-cycle, 8 up and 17 less | Root at the self and at the society | Hand at the names |
 |---|---|---|
-| 1-9-8-16 | torusing, 8 and 16 | round the other way with 2-15-7-10 |
-| 2-15-7-10 | corusing, 7 and 15 | round the other way with 1-9-8-16 and 3-11-6-14 |
-| 3-11-6-14 | moralizing, 6 and 14 | round the other way with 4-13-5-12 and 2-15-7-10 |
-| 4-13-5-12 | competencing, 5 and 13 | round the other way with 3-11-6-14 |
+| 1-9-8-16 | torusing, 8 and 16 | spiraling the other hand with 2-15-7-10 |
+| 2-15-7-10 | corusing, 7 and 15 | spiraling the other hand with 1-9-8-16 and 3-11-6-14 |
+| 3-11-6-14 | moralizing, 6 and 14 | spiraling the other hand with 4-13-5-12 and 2-15-7-10 |
+| 4-13-5-12 | competencing, 5 and 13 | spiraling the other hand with 3-11-6-14 |
 
-| Loop | Joining | Closing | Across or along |
+| Winding | Joining | Wound on at | Across or along |
 |---|---|---|---|
 | the other's | 6 to 2 | 8 | across, not-yet-bi-moral to bi-moral-so-far |
 | the society's | 10 to 14 | 16 | across, not-yet-bi-moral to bi-moral-so-far |
@@ -238,20 +238,20 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-co-bi-sharing | 11-tri-bi-co-chaining | 6-bi-moralizing | 14-bi-tri-moralizing |
 | 4-bi-co-sharing | 12-bi-tri-parity-changing | 5-co-competencing | 13-co-tri-competencing |
 
-| Form | Names in order | Round | Partner at the odd momentaries | Partner at the even momentaries |
+| Form | Names in order | Hand at the names | Partner at the odd momentaries | Partner at the even momentaries |
 |---|---|---|---|---|
-| four-cycle 1-9-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 8-bi-torusing · 16-bi-co-tri-torusing | co co bi bi | four-cycle 2-15-7-10, round the other way | — |
-| four-cycle 2-15-7-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 10-bi-tri-co-tunneling | bi co co bi | four-cycle 1-9-8-16, round the other way | four-cycle 3-11-6-14, round the other way |
-| four-cycle 3-11-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 6-bi-moralizing · 14-bi-tri-moralizing | co co bi bi | four-cycle 4-13-5-12, round the other way | four-cycle 2-15-7-10, round the other way |
-| four-cycle 4-13-5-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 12-bi-tri-parity-changing | bi co co bi | four-cycle 3-11-6-14, round the other way | four-cycle 4-13-5-12, itself |
-| middle four-cycle 9-5-12-8 | 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing | co co bi bi | middle four-cycle 7-11-6-10, round the other way | — |
-| middle four-cycle 7-11-6-10 | 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | co co bi bi | middle four-cycle 9-5-12-8, round the other way | middle four-cycle 7-11-6-10, itself |
-| six-cycle 1-9-5-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co bi bi bi | six-cycle 2-15-7-11-6-10, round the other way | — |
-| six-cycle 2-15-7-11-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co bi bi | six-cycle 1-9-5-12-8-16, round the other way | six-cycle 3-11-7-10-6-14, round the other way |
-| six-cycle 3-11-7-10-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 7-co-corusing · 10-bi-tri-co-tunneling · 6-bi-moralizing · 14-bi-tri-moralizing | co co co bi bi bi | six-cycle 4-13-5-9-8-12, round the other way | six-cycle 2-15-7-11-6-10, round the other way |
-| six-cycle 4-13-5-9-8-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 9-tri-bi-co-momentarying · 8-bi-torusing · 12-bi-tri-parity-changing | bi co co co bi bi | six-cycle 3-11-7-10-6-14, round the other way | — |
-| eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 13-co-tri-competencing · 4-bi-co-sharing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co co bi bi bi bi | eight-cycle 2-15-7-11-3-14-6-10, round the other way | — |
-| eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 3-co-bi-sharing · 14-bi-tri-moralizing · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co co bi bi bi | eight-cycle 1-9-5-13-4-12-8-16, round the other way | eight-cycle 2-15-7-11-3-14-6-10, itself |
+| four-cycle 1-9-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 8-bi-torusing · 16-bi-co-tri-torusing | co co bi bi | four-cycle 2-15-7-10, spiraling the other hand | — |
+| four-cycle 2-15-7-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 10-bi-tri-co-tunneling | bi co co bi | four-cycle 1-9-8-16, spiraling the other hand | four-cycle 3-11-6-14, spiraling the other hand |
+| four-cycle 3-11-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 6-bi-moralizing · 14-bi-tri-moralizing | co co bi bi | four-cycle 4-13-5-12, spiraling the other hand | four-cycle 2-15-7-10, spiraling the other hand |
+| four-cycle 4-13-5-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 12-bi-tri-parity-changing | bi co co bi | four-cycle 3-11-6-14, spiraling the other hand | four-cycle 4-13-5-12, itself |
+| middle four-cycle 9-5-12-8 | 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing | co co bi bi | middle four-cycle 7-11-6-10, spiraling the other hand | — |
+| middle four-cycle 7-11-6-10 | 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | co co bi bi | middle four-cycle 9-5-12-8, spiraling the other hand | middle four-cycle 7-11-6-10, itself |
+| six-cycle 1-9-5-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co bi bi bi | six-cycle 2-15-7-11-6-10, spiraling the other hand | — |
+| six-cycle 2-15-7-11-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co bi bi | six-cycle 1-9-5-12-8-16, spiraling the other hand | six-cycle 3-11-7-10-6-14, spiraling the other hand |
+| six-cycle 3-11-7-10-6-14 | 3-co-bi-sharing · 11-tri-bi-co-chaining · 7-co-corusing · 10-bi-tri-co-tunneling · 6-bi-moralizing · 14-bi-tri-moralizing | co co co bi bi bi | six-cycle 4-13-5-9-8-12, spiraling the other hand | six-cycle 2-15-7-11-6-10, spiraling the other hand |
+| six-cycle 4-13-5-9-8-12 | 4-bi-co-sharing · 13-co-tri-competencing · 5-co-competencing · 9-tri-bi-co-momentarying · 8-bi-torusing · 12-bi-tri-parity-changing | bi co co co bi bi | six-cycle 3-11-7-10-6-14, spiraling the other hand | — |
+| eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-offering · 9-tri-bi-co-momentarying · 5-co-competencing · 13-co-tri-competencing · 4-bi-co-sharing · 12-bi-tri-parity-changing · 8-bi-torusing · 16-bi-co-tri-torusing | co co co co bi bi bi bi | eight-cycle 2-15-7-11-3-14-6-10, spiraling the other hand | — |
+| eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-offering · 15-co-bi-tri-corusing · 7-co-corusing · 11-tri-bi-co-chaining · 3-co-bi-sharing · 14-bi-tri-moralizing · 6-bi-moralizing · 10-bi-tri-co-tunneling | bi co co co co bi bi bi | eight-cycle 1-9-5-13-4-12-8-16, spiraling the other hand | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
 | Offerings, momentary by momentary | At 10 | Chained at 11 |
 |---|---|---|
@@ -260,7 +260,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
 | + once, then + and − together | +, −, +, −, +, − | +, −, +, −, +, − |
 
-| Selves | Self 1 at 10, momentaries 1 to 12 | Round, from momentary n | None chained again |
+| Selves | Self 1 at 10, momentaries 1 to 12 | Parities again at each, from momentary n | None chained again |
 |---|---|---|---|
 | 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 | is not |
 | 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
@@ -276,7 +276,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
 | 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
 
-| Rings, selves | Beside each other, round | Crossed at self 1 of each both ways, round | From momentary | Self 1 of each | Each ring's pair at one parity |
+| Spirals, selves | Beside each other, parities again together at | Crossed at self 1 of each both ways, parities again at | From momentary | Self 1 of each | Each spiral's like pair |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
 | 3 · 5 | 60 | 2 | 13 | opposite | selves 3 and 1 · selves 5 and 1 |
@@ -287,7 +287,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 · 59 | 4,012 | 2 | 137 | opposite | selves 17 and 1 · selves 59 and 1 |
 | 9 · 15 | 180 | 2 | 41 | opposite | selves 9 and 1 · selves 15 and 1 |
 
-| Torus of selves, p along at 9 · q across at 10 | Round, one offering at self 1 | From momentary | Rings of p and q beside each other, round |
+| Torus of selves, p along at 9 · q across at 10 | Parities again at, one offering at self 1 | From momentary | Spirals of p and q beside each other, parities again together at |
 |---|---|---|---|
 | 1 · 3 | 3 | 3 | 12 |
 | 1 · 5 | 4 | 5 | 20 |
