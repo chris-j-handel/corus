@@ -211,3 +211,16 @@
 4. **No stopping.** At this following a self at nothing arriving is changing at each momentary, and no society stops.
 
 **Parting, for both.** The saying is followed here as: no changing *from arriving*, the self's own momentarying continuing. Said the other way, the self's parity at no changing at all at nothing arriving, it is the saying the working v380L followed forward to a self or the society whole stopping. Its reason: the words carry both.
+
+## The bi-folding in the naming: one meaning said at two steps of its stable-forming
+
+**The saying.** *again there is the bi folding in the naming and explaining and it keeps recurring. no changing from arriving and nothing arriving have the same no different common meaning yet we are describing to different steps of stable forming the one common meaning. like the 2 over 1 3 over 2 2 over 1 alternating is 1 2 3 4 5 4 3 2 1 2 3 4 5.*
+
+**Followed at Exhibit ONE's names and its fives; an offering, not yet chained six forward.**
+
+1. **The parting of the part before this one is withdrawn.** *Nothing arriving* and *no changing from arriving* are one meaning, and the part before laid them as two sayings parting. They are two steps of one.
+2. **One meaning at three steps, tri, bi, co.** At the releasing self, not releasing, tri. At the between, nothing arriving, bi. At the receiving self, no changing from arriving, co. And the changing the same: releasing; arriving; a changing from arriving. Changing or no changing travels tri, bi, co, the session's *tri-bi-co-momentary*.
+3. **The bi-folding is each number said twice.** At Exhibit ONE's momentaries of exchanging the self's are 1–2, 3–4, and the other's 2–3, 4–5: each number is the completing of one and the opening of the next, 2 over 1, 3 over 2. One meaning at a number is said at two steps, the one before it and the one after.
+4. **1 2 3 4 5 4 3 2 1.** The self's five going out, 1 to 5, and back, to the next 1: eight steps, four out and four back, one span of eight, 9 the next 1. Out and back pair 4 with 6, 3 with 7, 2 with 8 and 1 with 9, each pair at ten, 5 at itself.
+
+**Not yet followed, for both.** The pairing at ten, 1 with 9 and 5 at itself, is none of Exhibit ONE's three, 8 up, 9 less and 17 less; whether it is a fourth or one of the three said at 1 to 9 is not followed. *2 over 1, 3 over 2, 2 over 1* is followed here as each pair of numbers one after the other; another following of it may be the session's.
