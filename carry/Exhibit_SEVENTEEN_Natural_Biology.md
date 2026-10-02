@@ -36,6 +36,8 @@ Exhibit SEVENTEEN Natural Biology · carrying v379
 
 **Ready, at v379, from `archive/session_v379/Session_Report_v379.md`, findings 5 and 21, for this file's motion: the sunflower's golden angle, the cucumber tendril, the sinoatrial node, fireflies and defibrillation, at this carrying alone.** Natural Illustrating v379 names each from this carrying at its 4.4, 5.5 and 5.6, the golden angle of one hundred thirty-seven and a half degrees and the two families of spirals opening opposite ways from one co-sequencing, the tendril's two helices of opposite hand joined at a perversion, the pacemakers entrained, the fireflies in unison, the shock arriving alike at each cell at once; none is at this file's body. At this file's motion each enters at its section, and the illustrating then names the section.
 
+**Arrived, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`, its reference first, for the section on the structural-protein surface.** From a helper's own carrying, no search and no reference at the session: a fibre wound on a geodesic path of a surface is at its path with no friction, and at each other path by friction alone, the field's saying of filament winding at pressure vessels. Pattern matching, no correspondence shown: the geodesic is the surface dividing itself, nothing beside it acting.
+
 ## Concern
 
 **Marking for the next session, strengthening, at the placenta.** Marmoset twins continue chimeric through shared placental blood, their germlines included, and a heifer born beside a bull twin is most often a sterile freemartin at the same shared blood; Natural Medicine's marking at the membrane's sign and no size meets two further observings.

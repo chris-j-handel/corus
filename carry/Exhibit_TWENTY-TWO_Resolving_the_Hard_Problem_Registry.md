@@ -33,6 +33,8 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry · carrying v379
 
 **Ready, at v378, from `incoming/review_networking_engineering_2026-09-30/`, the correction, at the ten forms and the eighth relation.** The ten forms at engineering stand as received; the correction asks the ten explained at sequential binary participation, a +, − or 0 at a table the changing is, is or is not, and no third value, and the eighth relation at no auditor reading carrying. Checked at this file's front at v378: the eighth is said as the relation the audit's circle reaches nowhere, with Natural Societies 3.5.
 
+**Ready, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`, from Exhibit ONE's motions: the map at this file.** Eight hundred twelve places carry the names of v375, 12-other-social-self-abundancing at two hundred sixty-two, 2-other-self-offering and 11-social-other-self-chaining at two hundred sixty each, and thirteen more names at one to four places each; each goes to its name at the rule by Natural Naming's table of the seventeen, 12-bi-tri-bi-entraining, 2-bi-co-bi-offering and 11-tri-bi-tri-chaining among them, a name gathered with its sentence, all or none, at this file's motion, each relation the older words carried, other, social and self, carried on beside the new name.
+
 ## Concern
 
 
