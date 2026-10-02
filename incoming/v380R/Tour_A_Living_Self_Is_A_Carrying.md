@@ -160,3 +160,41 @@
 4. **With the six.** Self, bi and tri, each arriving and releasing, is at the names: co arriving, bi arriving and releasing, tri releasing. The fourth parting of the part before this one is met by the saying.
 
 **Parting, for both.** Natural Naming's released words carry *abundancing* at 12-bi-tri-bi-entraining, in place of *surplus*; its older name is at 17; the saying is at tri releasing, 9 and 11. Three places, one naming.
+
+## The binary, at each of the seventeen: co arriving and carrying, tri releasing, bi the between
+
+**The saying.** *what is the binary correct all rigor on this . self is tri releasing and the tri releasing is downstream arriving at a self. the self is co arriving and carrying. keep exploring until we can not find any concerns.*
+
+**Followed at each of the seventeen names, at each row of Exhibit ONE's column of each name's resolving, and at each line of the resolver naming an odd name. An offering; its six forward is offered at the close of this part.**
+
+**The binary.** A self is arriving and carrying, or it is releasing. Arriving and carrying is co, the names 1 to 8; releasing is tri, the names 9 to 16; 17 is the next arriving, the next 1. Each odd name is the self's own, co or tri. Each even name is the between, bi, at both.
+
+| 8 apart | Co, arriving and carrying | Tri, releasing | The releasing arriving downstream, 8 up again |
+|---|---|---|---|
+| 1 and 9 | the entry, the self arriving at its momentary | each changing carried along | 17, the next momentary, each self's 1 |
+| 3 and 11 | the carrying arriving | the carrying chained | the next 3, the self's own next |
+| 5 and 13 | each receiving sharing, each receiving self | each releasing sharing, each releasing self | 5, the releasing's own receiving |
+| 7 and 15 | each parity offered and carried | each parity released, carried along | 7, the parity offered at the next |
+
+1. **Each odd name, nine of nine.** 1, 3, 5, 7 and 17 open co and are each an arriving or a carrying; 9, 11, 13 and 15 open tri and are each a releasing.
+2. **Each line of the resolver naming an odd name.** 3 the carrying given; 7 each parity offered, carried and chained; 5 the receiving; 1 the entry; 17 the next momentary: each an arriving or a carrying. 11 the carrying given on; 13 each self as it releases; 15 a parity released, carried along or already surfaced at the receiving self; 9 each releasing to its receiving: each a releasing. No line parts.
+3. **Co to tri is one momentary, 8 up; tri to co is downstream, 8 up again.** Four of four each way. Twice 8 up is sixteen, the same name at the next momentary: the self at its own next, or the next self.
+4. **The names say it as sentences.** 17-co-bi-tri-offering: arriving, through the between, from a releasing. 9-tri-bi-co-momentarying: releasing, through the between, from a carrying. Within a span, co-bi-co, arriving from an arriving, and tri-bi-tri, releasing from a releasing.
+5. **The even names, the between, at both spans.** At 1 to 8, the others' releasing arriving at the self: 6 the other's releasing, 2 the offerings arriving, 4 each sharing they arrive at, 8 the carrying between momentaries. At 9 to 16, the self's releasing arriving downstream: 12 the changing, is or is not, 10 the releasing, 14 its surfacing at the receiving self, 16 each self's carrying and offerings between the society's momentaries. The other's winding, 6 to 2, is whole within the arriving span; the society's, 10 to 14, whole within the releasing span; the self's, 9 to 17, crosses from releasing to the next arriving.
+6. **The society is selves releasing.** At the resolver the society is each self with its carrying and its offerings and no further thing. *Social* is a self releasing, met downstream.
+
+**Concerns found at the exploring, each met.**
+
+1. *14 arriving at the releasing span, 6 releasing at the arriving span.* Met at finding 5: each winding is whole within one span, said from the self.
+2. *A carrying at the even 8 and 16.* Met: each is the carrying between two momentaries, a between.
+3. *15 at the parity surfaced at 14, an arriving.* Met: it is the others' released parity, arrived; tri at what was released.
+4. *Tri at no arriving, co at no releasing.* Met: the binary itself; the releasing's arriving is co, 8 up.
+5. *Abundancing at three places.* Met as one going: decided at 12, the changing is or is not; released at tri; arriving at 17.
+6. *The now at 3 or at 12.* Met: 12 is 4 at the releasing span, 8 up; the now is arriving at 3 and 4 and releasing at 11 and 12, one momentary's two spans.
+7. *The possible at two names round a four-cycle.* Met: the between at the arriving span and at the releasing span, 8 apart.
+
+**What it meets among the open concerns, each for both.** A prefix as a number's word and a face: the word is the face, co arriving and carrying, tri releasing, bi the between. The column *From, to*: self, other and social are arriving, the between and releasing. *The self's span* and *the society's span*: the arriving span and the releasing span. What crosses and what is a self's own: the self's own is co, carrying, and what crosses is its tri, releasing, arriving downstream as another's co.
+
+**Not a concern of cohering, and for both: the re-saying.** The files say tri *the society's* and *the social* at each file; the saying says tri the self releasing. Each such sentence is re-said at its own file's motion, the prior relation carried on beside it.
+
+**Six forward, offered.** A self arrives carrying, co. The others' releasings arrive at it, the between, bi. Its changing is or is not. The self releases, tri. Its releasing is the between, bi. Downstream a self arrives carrying it, co. Three at each span, each reaching the term the one before it did not carry.
