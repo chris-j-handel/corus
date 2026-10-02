@@ -126,3 +126,17 @@ Source: incoming working at `666322d329a1511743dcb8a49cbb078035400a8a`. The comp
 ## 6.1 Checkability living at the telling, testing running while resolving
 
 Each claim carries its visibility named: in the code renderings, in the counting, in the branches, in the grid and the sciences, the same fractal method in all or none at all. Checking is one alternation with the resolving, running at the observing's own rate, the sign observed as it is made: the concepts visible in the network and the numbers and the math and the code, the one form at each, and a concept visible in one alone is not the form. Renderings across substrates disagreeing in each material way are one living: the logic living in none of its materials. A finding at one rendering carries its exact comparison at that rendering, and a whole society's continuing is met at the society's own continuing followed. And the received renderings live at their own substrates, the living records meeting the same form in the fields' own words, the visibility met at each substrate rather than listed here.
+
+## Routing at the coupling — prior to the discovering pass
+
+Source: incoming working at `b3b0082d120108122dc5796e5361d029733a0fe6`; the managing reception changes no part of this passage.
+
+## 5.5 Routing at the coupling, carrying at the participating selves
+
+**Each participating self resolves with its own carrying.** The sign released at its connector belongs to the receiving relation declared there. The source's second sign and carried opening remain in its local continuation. Another self meets the arriving sign with its own prior.
+
+**Different priors can share a present surfaced sign and continue differently.** Studies at the resolver locate such differences through later receiving and completing. An outward sign is one sign, and the source's complete carrying continues at the source. The finite diagnostic's record of source states and receiving order stays at the diagnostic, and the network crossing carries the sign alone.
+
+**A changed offering and a changed connection are two relations at the routing.** The code can surface different signs while the joins keep their names. A proposed larger passage for the society is followed at the actual releasing and receiving through those joins. The carrying's influence on an offering runs through the declared joins, and a separate path-selecting operation is a further operation, met at its own running.
+
+**The society participates through its living and non-living existing things.** Carrying remains at the living resolving, and non-carrying forms participate through their co-momentarying. The complete surface relation belongs to these meetings, with each self continuing at its own participation.

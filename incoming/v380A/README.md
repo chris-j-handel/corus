@@ -86,3 +86,8 @@ The managing arrangement at `incoming/v380R/Progress.md` on main `33b875f9b1b17f
 ## Testing our discovering
 
 The incoming exhibit's “Checkability living at the telling, testing running while resolving” now states the subject: our discovering, explaining and rendering at their actual relations. The session carries resolving as the method of next existing and next possible existing. Each concern relevant to Natural Resolver is brought there whole, however slight, through natural torusing, all or not at all, with its sayings and reason; network testing is no prerequisite. The complete earlier section is preserved, its original paragraph continuing in the improved passage. Progress records this later addition separately from the previously reviewed passage.
+
+
+## Discovering entered at routing
+
+“Routing at the coupling, carrying at the participating selves” now carries the next complete incoming improving, with its prior and first draft preserved. The fresh and harm readings meet the revised explaining at its own scope. The second-sign explanation is re-said at each self's living continuing; present parity agreement, further receiving, and changed offering or changed coupling each retain their subjects. The report and passes carry the next adjacent quiet-release passage and the unresolved complete unfolding. New concerns belong at Natural Resolver and the Geodesic Improving Method, without awaiting network testing.

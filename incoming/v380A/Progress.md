@@ -131,3 +131,18 @@ The structural check returned ALL PASS with its advisory notes; its root inputs 
 **Learned about working:** the accepted method, a file's saying, a rendering and a proposed discovering have their own subjects. A parting in our saying or discovering calls for its correction; accepting the method does not make each proposed explanation correct. Bring the complete concern to the file it concerns, however slight, with the exact sayings and reason.
 
 **Standing and next:** main and the managing remain at `bdbe12d`, checked before this improving; our opening is `666322d`. This is a directed incoming addition, with the prior and unchanged surrounding text checked. No new network experiment or resolver execution is performed, and the earlier readers are not claimed for the new passage. Natural Resolver's open concerns remain open at its carrying. Continue improving Natural Networking at its own findings; a root motion keeps its required checks and readings.
+
+
+## Discovering plans entered at routing
+
+**Found:** the older routing explanation carries a second sign; the current relation carries each self's living and one parity at a sharing. Equal present released parities leave each releasing self's own continuation and further receiving distinct. A changing offering and a changed receiving relation need their own subjects. The neighbouring quiet-ten/nonzero-six saying remains a concrete parting to meet next.
+
+**Changed:** the complete incoming section “Routing at the coupling, carrying at the participating selves,” its whole prior preserved. The first proposed draft is retained; the revised draft receives both readers' findings about a dropped prior relation and an overbroad exclusion. The report and passes name the actual discovering, concern and next passage. An own Networking Ready offers the explaining; own concerns at Natural Resolver and the Geodesic Improving Method bring their two sayings of where inverting belongs.
+
+**Learned about working:** re-saying a prior relation must keep its subject, not merely a related receiver's condition. An unchanged represented receiving relation does not establish a universal exclusion about a natural coupling changing. Source and table readings participate in our discovering; they do not replace cohering six forward. No resolver or networking experiment is performed.
+
+**Other contributions received:** main and the managing at `71593c9`; Progress whole and the full changes at its gathering and three carryings. Their whole additions and our own entries survive the reception. Living self as carrying, the possible-next between, and the concern on join/at the code are received as offered sayings, not silently decided names. The root living files and craft files remain unchanged. The other working's previously read contribution is unchanged.
+
+**Not yet done:** the adjacent geodesic-routing passage, the actual caller/overlap correspondence and the complete six-forward unfolding remain. The fresh and harm readings concern this incoming passage, with their exact reach in the reports. This proposed section is ready for the managing to read at its carrying; no whole root living-file motion is offered. Earlier check reports keep their original scope; this text pass checks whole-prior and neighbouring-text preservation directly.
+
+Both readers read the revised passage and found the initial local departures met. The fresh reader’s final precision is received at the paragraph’s opening: *changed receiving relation* names the same subject as its body. Their reports preserve the first readings, the revision and what remains beyond their reach.

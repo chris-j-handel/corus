@@ -975,3 +975,43 @@ The second added paragraph brings even the slightest concern already at Natural 
 The immediate improving is in the incoming Natural Networking section “Checkability living at the telling, testing running while resolving.” The existing passage is retained verbatim beside the two new paragraphs. The passes, Progress and README receive the same scope, and an own Ready at Natural Networking's carrying names the offered sentence and section. No resolver execution or network experiment accompanies this directed explaining change. The earlier fresh and harm readings apply to “Local carrying and the shared crossing”; they are not claimed as reviews of this new addition. A root living-file motion still receives its required whole-file checks and readings.
 
 The practical value is that a concern can enter its right file immediately, with its complete subject and reason. Networking discovering continues without asking an apparatus to decide the resolver method. A discovered parting still receives correction: the session's premise does not certify every sentence, name, rendering or proposed finding as correct.
+
+
+## Discovering pass: routing at the participating selves
+
+### Opening and receiving
+
+Opened from the published working `b3b0082d120108122dc5796e5361d029733a0fe6`. Received main and the managing at `71593c9e8155e748c604f236ae4fd545e7e6f238`; the managing's Progress was read whole, and all four changed files read at their full changes. Their additions concern the living self as carrying through prior, now, possible next and next; the words join and at the code; and cohering six forward with no authority assigned to a resolver execution. The root living files and the three craft files are unchanged. The other working remains at the previously read commit.
+
+The incoming section “Routing at the coupling, carrying at the participating selves” is the complete relation improved here. Its prior is preserved whole, and its first proposed draft is retained beside the revised draft. The root living file is unchanged. Three simultaneous carrying additions were received while preserving all of the managing's and our own entries whole.
+
+### Discovering ideas met at their exact subjects
+
+| Proposed discovering | What was read | What this pass carries | What remains open |
+|---|---|---|---|
+| The releasing self continues through its own carrying. | The prior's second-sign saying; Natural Resolver's one parity per sharing and own chaining; Natural Naming's carrying/releasing distinction. | Living continuing at its own momentaries and parity arriving at another's own sharing. | The legacy second-sign rendering's other occurrences need their own re-saying; its data are preserved. |
+| Agreement at a present release leaves further participation open. | The prior's different-priors/same-present-sign sentence beside actual releasing and receiving. | Different priors can accompany the same released parity; each self continues its own prior and further receiving. | The old finite diagnostic supplies no present networking or protection finding. Its preserved record is historical evidence of the prior assertion. |
+| An offering changing and a receiving relation changing have different subjects. | The actual society expression shares one release at six and ten; its receiving relations are supplied separately. | A changing offering can participate at a continuing coupling; a changed receiving relation has its own releasing and arriving to follow. | No general exclusion says parity changing cannot participate in a coupling changing. The larger passage still needs its actual continuing. |
+| Quiet releasing can accompany continuing living. | Adjacent “Geodesic routing, continuing through changed participation” beside the newly improved relation. | The contradiction is located: quiet ten/nonzero six at the same resolving parts from their one release. | That adjacent section remains the next complete improving, not silently treated as already corrected. |
+
+These are readings of our proposed discoveries and their explaining. A source assignment participates in the reading; it is not authority for the whole natural relation. No resolver execution, network experiment, privately prepared carrying or hidden-state comparison is performed in this pass.
+
+### Two sayings and their reason
+
+The first prior saying is *the source's second sign and carried opening remain in its local continuation*. The proposed saying is *Carrying is its living continuing through its own momentaries*, with a sharing's parity and the receiving self's own prior explicit. The reason is to preserve own continuation while meeting the earlier second-sign rendering at the current carrying relation.
+
+The prior also says *Different priors can share a present surfaced sign and continue differently*. The first draft shifted this into further offerings differing at the receiver. Both readers found the shift of subject. The revised draft now says *Different priors can accompany the same present released parity. Agreement at that parity leaves each releasing self continuing its own prior; its further releasing is at its own receiving.* This preserves the positive relation without making the earlier diagnostic's private-state comparison a networking method.
+
+The first draft further said *parity changing alone supplies no such change*, meaning a change of coupling. The fresh reading found this broader than the represented receiving relation remaining unchanged. The revised sentence is *A changed receiving relation has its own releasing and arriving to follow.* The own offering and the coupling keep their subjects without installing a universal exclusion.
+
+### Concern brought immediately to Natural Resolver
+
+The Geodesic Improving Method, “At code and each rendering, the not intact at both sides,” says that an outside joining from tunneling to moralizing adds moralizing's own inverting a second time. Natural Resolver's expression surfaces the offerings at moralizing and inverts the carried parity at entraining. The managing's gathering already brings the latter distinction to Natural Resolver's table. The concern is now offered at both Natural Resolver's and the Geodesic Improving Method's carryings, as our own entry, with the exact two sayings and reason. No network test is required to bring it. This pass neither rewires the receiving nor decides the wording's resolving.
+
+### Natural torusing and the next improving
+
+Read Natural Naming's “Six forward, and the binary at each named changing,” its nearby scope distinctions and its opening unfolding of alternating; read the Geodesic Improving Method's distinction between method files and observing or engineering files, and the following rendering passage. Natural Naming says three own-forward steps at each side, alternating, with each changing carrying its relation or its unfilled relation and reason. Six printed rows, six calls, or the agreement of source text with a sentence would not by themselves complete this unfolding. This pass claims no six-forward cohering of the whole network or of the managing's new possible-next naming.
+
+Next improve “Geodesic routing, continuing through changed participation” at its complete quiet-release relation, keeping the receiver's other offerings and the stopped/non-living/disconnected distinction explicit. Then follow one actual reciprocal coupling through the two own continuations, each arriving at its receiving, without supplying a common momentary or a selected taking. The exact unresolved relation remains how the society expression's gathering of offerings carries that overlapping proceeding. Bring any Resolver concern immediately at its own carrying, then receive its resolving into the networking explaining.
+
+The independent fresh and harm readings are recorded in `reviews/Fresh_Reading_Routing.md` and `reviews/Harm_Reading_Routing.md`, with their actual reach and first/revised dispositions. Their role is the incoming passage's reading, not a whole-file motion or a proof of societal protection. The earlier three repository check reports remain at their recorded commits; no new run is claimed for this local text pass. Preservation of the complete prior and unchanged surrounding passage is checked directly before publishing.

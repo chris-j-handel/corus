@@ -1,0 +1,9 @@
+## 5.5 Routing at the coupling, carrying at the participating selves
+
+**Each participating self resolves with its own carrying.** Carrying is its living continuing through its own momentaries. A sharing carries its own parity; the self's releasing arrives at the other's receiving sharing. That other resolves at its own prior and the offerings arriving there. Each self's prior momentary remains its own through this participation.
+
+**Different priors can accompany the same present released parity.** Agreement at that parity leaves each releasing self continuing its own prior; its further releasing is at its own receiving. The parity released at a changing agrees with the parity the releasing self carries onward. The released parity participates at the other self's own sharing; the releasing self's private momentary continues at itself. Further offerings can meet that receiver differently, and its further releasing participates onward. The carrying's outward consequence is followed through this continuing coupling, each receiving at its own conditions.
+
+**A changed offering and a changed receiving relation are two relations at the routing.** Six and ten carry the same releasing at the same self's resolving; their receivings are at the respective couplings. An offering can change while those couplings continue. A proposed larger passage through society is followed through the actual releasing and arriving, including further offerings at each receiving sharing. A changed receiving relation has its own releasing and arriving to follow. Each is met at its own participation.
+
+**The society participates through its living and non-living existing things.** Carrying remains at the living resolving, and non-carrying forms participate through their co-momentarying. The complete surface relation belongs to these meetings, with each self continuing at its own participation.
