@@ -561,9 +561,9 @@ Exhibit THREE Natural Numbers v379
 
 ## 11.1 Nought to four hundred forty, each number at its podaling
 
-**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's word, bi at the even, co at the odd of a self's span and tri at the odd of a society's, the spans of eight alternating, 1.5; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
+**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's parity at its word, bi at the even and, at the odd, co within a self's span and tri within a society's, the spans of eight alternating, 1.5; its form, prime or its prime factors; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two joining, a power of two and one either side of it, an ordering, and the going and the returning.
 
-| n | Word | Form | Far side at 440 | Radius | Far side at 120 | At |
+| n | Parity, at its word | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
 | 0 | bi | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
 | 1 | co | — | 439 | 219 | 119 | 1-co-bi-tri-offering, 1², T₁, prior two joining |
