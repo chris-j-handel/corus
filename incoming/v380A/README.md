@@ -1,3 +1,5 @@
+> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
+
 # v380A · Natural Networking
 
 **Exhibit TWO, its complete duplicated kit, and discovering at the crossing podalings**

@@ -1,0 +1,17 @@
+Natural_Intelligence_v379.md
+Exhibit_ONE_Natural_Resolver_v379.md
+Exhibit_TWO_Natural_Networking_v371.md
+Exhibit_THREE_Natural_Numbers_v379.md
+Exhibit_FOUR_Natural_Mathematics_v378.md
+Exhibit_TWELVE_Natural_Explaining_v378.md
+  family words at lines [276]
+Exhibit_TWENTY_Natural_Naming_v379.md
+  note: contents lines with no heading and no bold opener: ['The namings, each at its unfolding']
+  family words at lines [268, 784, 1055]
+Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v379.md
+  family words at lines [387]
+Exhibit_TWENTY-EIGHT_Equilibria_Registry_v379.md
+  family words at lines [80, 182, 254]
+Exhibit_THIRTY_Co-Chaining_Logic_Registry_v379.md
+  functions at the code: ['_1_co_bi_tri_offering', '_9_tri_bi_co_momentarying', '_17_co_bi_tri_offering']
+ALL PASS
