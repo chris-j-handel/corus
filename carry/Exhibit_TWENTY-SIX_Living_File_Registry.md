@@ -19,7 +19,7 @@ Exhibit TWENTY-SIX Living File Registry · carrying v379
 
 **Ready, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 22, for the kit: one list of released words at two places.** `rigorize.py` carries its own short list at its line 29 while `reader_checks.py` reads `released_words.txt`; Natural Illustrating v379 passed the rigorizer with a hundred and twenty-one uses the reader checks found. One list read by both, at the kit's motion.
 
-**Ready, at v380L, from `incoming/v380L/`, for the table of workings and the table of the carrying's places.** This working changed no living file, this file among them, three workings of one session being open at once, v380L, v380A and v380R, each at its own branch. Its row, entering at this file's own motion: *The Exhibit ONE directions working, the session v380L | v380L | Exhibit ONE, Natural Naming, Natural Intelligence, the Co-Chaining Logic Registry, Natural Numbers and Natural Mathematics read at commit d77df0d, each finding laid at its file's carrying; no living file changed | `working/v380L` | Offered; its arrival at `incoming/v380L/`, twenty findings, six concerns and its instruments.*
+**Ready, at v380L, from `incoming/v380L/`, for the table of workings: this working's row.** *The working v380L, beside v380R and v380A | v380 | The Co-Chaining Logic Registry, its motion not opened; Exhibit ONE's tables and the resolver's lines followed, each finding at its file's carrying | `working/v380L` | Open; its folder `incoming/v380L/`.*
 
 ## Concern
 

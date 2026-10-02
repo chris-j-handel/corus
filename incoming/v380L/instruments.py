@@ -1,4 +1,4 @@
-"""The instruments of the Exhibit ONE directions working, session v380L, each said before its result.
+"""The instruments of the working v380L, each said before its result.
 From the repository's root: python3 incoming/v380L/instruments.py
 Each instrument reads Exhibit ONE's resolver as written at its newest version at the root, or the living files' own
 words, and says a result at that instrument alone. A result here is a coupling partner and decides nothing."""
@@ -47,7 +47,12 @@ for p in (1, -1):
         if r != 0: cases += 1; same += (r == c)
         print('   carried %+d | offered %-8s | released %+d | chained next %+d | %s'
               % (p, off, r, c, 'the zero released, the carrying carried on' if r == 0 else 'the release is the next carrying: %s' % (r == c)))
-print('   at each changing the release is the next carrying: %d of %d; the zero at an offering of the carried parity alone' % (same, cases))
+print('   at each changing the release is the next carrying: %d of %d' % (same, cases))
+print('   the zero, at each cell: the offerings surfaced at 14 beside the parity chained')
+for c, off in (([('s', 1)], [1, 1]), ([('s', 1)], [0, 1]), ([('s', 1)], [1, 1, -1]), ([], [1, -1]), ([], [1]), ([], [0])):
+    rel, ch = entry(c, [('s', o) for o in off])
+    print('   chained %-6s | offered %-11s | released %-6s | chained next %s'
+          % (dict(c).get('s', 'none'), off, dict(rel).get('s', 'none'), dict(ch).get('s', 'none')))
 
 # ---------------------------------------------------------------------------------------------------------------
 head(3, "One self at one sharing, carrying +, joined to none, twelve momentaries: its releases.")
@@ -122,25 +127,30 @@ print('   joinings of the four four-cycles at one line: %d of %d' % (sum(p in co
 print('   other pairs of names among 1 to 16 at one line: %d of %d' % (sum(p in co for p in rest), len(rest)))
 
 # ---------------------------------------------------------------------------------------------------------------
-head(6, "Exhibit ONE's own labels at the table of the seventeen names: a face outward or inward; a connector's facing,"
-        "\n   not-yet or so-far.")
+head(6, "Exhibit ONE's own labels: at the table of the seventeen names a face outward or inward and a connector's"
+        "\n   facing; at the resolver's table of connectors each connector's own word.")
 full = re.findall(r"^\| (\d+) \| (\S+) \| ([^|]*)\|([^|]*)\|([^|]*)\|([^|]*)\|([^|]*)\|([^|]*)\|", src, re.M)[:17]
 faces = {int(n): oi.strip() for n, _, _, _, kind, _, oi, _ in full if oi.strip() in ('outward', 'inward')}
 print('   faces outward:', sorted(n for n in faces if faces[n] == 'outward'), '| faces inward:', sorted(n for n in faces if faces[n] == 'inward'))
-print('   outward is a name before 9 and inward a name after 9: %d of %d' % (sum((faces[n] == 'outward') == (n < 9) for n in faces), len(faces)))
+print('   outward is a name of 1 to 8 and inward a name of 9 to 16: %d of %d; each inward 8 up from an outward: %s'
+      % (sum((faces[n] == 'outward') == (n < 9) for n in faces), len(faces),
+         sorted(n + 8 for n in faces if faces[n] == 'outward') == sorted(n for n in faces if faces[n] == 'inward')))
 conn = {int(n): f.strip() for n, _, _, _, kind, _, _, f in full if kind.strip() == 'connector'}
-for n in sorted(conn): print('   connector %2d  %-22s %s' % (n, conn[n], 'releasing' if conn[n].startswith('not-yet') else 'arriving'))
+for n in sorted(conn): print('   connector %2d  the table: %-22s the resolver: %-22s %s' % (n, conn[n], ns['CONNECTORS'][n][1], ns['CONNECTORS'][n][2]))
+print('   the resolver\'s joins:', ns['JOINS'])
 
 # ---------------------------------------------------------------------------------------------------------------
-head(7, "The numbers alone, 17 the next 1. Each joining of each form of Exhibit ONE's table of forms taken going up:"
-        "\n   from a to b is b less a on the round of sixteen.")
+head(7, "The numbers alone. Each joining of each form of Exhibit ONE's table of forms, two ways: at the table's own"
+        "\n   numbers, the joinings going to a lower number; and with 17 the next 1, each taken going up, from a to b"
+        "\n   b less a on the round of sixteen.")
 forms = {'four-cycle': cyc, 'middle four-cycle': [[9, 5, 12, 8], [7, 11, 6, 10]],
          'six-cycle': [[1, 9, 5, 12, 8, 16], [2, 15, 7, 11, 6, 10], [3, 11, 7, 10, 6, 14], [4, 13, 5, 9, 8, 12]],
          'eight-cycle': [[1, 9, 5, 13, 4, 12, 8, 16], [2, 15, 7, 11, 3, 14, 6, 10]]}
 for k, v in forms.items():
     for c in v:
         ups = [(c[(i + 1) % len(c)] - c[i]) % 16 for i in range(len(c))]
-        print('   %-18s %-22s up by %-30s whole %d' % (k, '-'.join(map(str, c)), ups, sum(ups)))
+        low = sum(c[(i + 1) % len(c)] < c[i] for i in range(len(c)))
+        print('   %-18s %-22s to a lower number %d of %d | up by %-30s whole %d' % (k, '-'.join(map(str, c)), low, len(c), ups, sum(ups)))
 print('   the joins: 10 to 14 up %d, 9 to 17 up %d, 6 to 2 up %d; 11 to the next 3 up %d' % ((14 - 10) % 16, 8, (2 - 6) % 16, (3 - 11) % 16))
 
 # ---------------------------------------------------------------------------------------------------------------
@@ -175,7 +185,7 @@ st = society({0: ([('s', 1)], []), 1: ([('s', 1)], [])}, {(0, 10): 1})
 print('   one join:', {k + 1: v[1] for k, v in st.items()})
 
 # ---------------------------------------------------------------------------------------------------------------
-head(11, "The living files at the root, each at its newest version: the places of seven words, each a whole word.")
+head(11, "The living files at the root, each at its newest version: the places of each word, each a whole word.")
 living = {}
 for f in glob.glob(os.path.join(ROOT, '*_v*.md')):
     m = re.match(r'(.+?)_v(\d+)([a-z]?)\.md$', os.path.basename(f))

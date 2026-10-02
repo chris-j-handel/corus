@@ -33,7 +33,14 @@ INSTRUMENT 2. One self at one sharing, one momentary: each carried parity agains
    carried -1 | offered [1]      | released +1 | chained next +1 | the release is the next carrying: True
    carried -1 | offered [0]      | released +1 | chained next +1 | the release is the next carrying: True
    carried -1 | offered [1, -1]  | released +1 | chained next +1 | the release is the next carrying: True
-   at each changing the release is the next carrying: 8 of 8; the zero at an offering of the carried parity alone
+   at each changing the release is the next carrying: 8 of 8
+   the zero, at each cell: the offerings surfaced at 14 beside the parity chained
+   chained 1      | offered [1, 1]      | released 0      | chained next 1
+   chained 1      | offered [0, 1]      | released 0      | chained next 1
+   chained 1      | offered [1, 1, -1]  | released -1     | chained next -1
+   chained none   | offered [1, -1]     | released 0      | chained next none
+   chained none   | offered [1]         | released 1      | chained next 1
+   chained none   | offered [0]         | released none   | chained next none
 
 INSTRUMENT 3. One self at one sharing, carrying +, joined to none, twelve momentaries: its releases.
    [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1]
@@ -62,31 +69,33 @@ INSTRUMENT 5. The resolver's own lines. A line is one simple statement, or the o
    joinings of the four four-cycles at one line: 8 of 16
    other pairs of names among 1 to 16 at one line: 53 of 104
 
-INSTRUMENT 6. Exhibit ONE's own labels at the table of the seventeen names: a face outward or inward; a connector's facing,
-   not-yet or so-far.
+INSTRUMENT 6. Exhibit ONE's own labels: at the table of the seventeen names a face outward or inward and a connector's
+   facing; at the resolver's table of connectors each connector's own word.
    faces outward: [3, 4, 5, 7, 8] | faces inward: [11, 12, 13, 15, 16]
-   outward is a name before 9 and inward a name after 9: 10 of 10
-   connector  2  bi-moral-so-far        arriving
-   connector  6  not-yet-bi-moral       releasing
-   connector  9  not-yet-co-competent   releasing
-   connector 10  not-yet-bi-moral       releasing
-   connector 14  bi-moral-so-far        arriving
-   connector 17  co-competent-so-far    arriving
+   outward is a name of 1 to 8 and inward a name of 9 to 16: 10 of 10; each inward 8 up from an outward: True
+   connector  2  the table: bi-moral-so-far        the resolver: bi-moral-so-far        arriving
+   connector  6  the table: not-yet-bi-moral       the resolver: not-yet-bi-moral       releasing
+   connector  9  the table: not-yet-co-competent   the resolver: not-yet-co-competent   along
+   connector 10  the table: not-yet-bi-moral       the resolver: not-yet-bi-moral       releasing
+   connector 14  the table: bi-moral-so-far        the resolver: bi-moral-so-far        arriving
+   connector 17  the table: co-competent-so-far    the resolver: co-competent-so-far    along
+   the resolver's joins: {10: 14, 6: 2, 17: 9, 9: 17}
 
-INSTRUMENT 7. The numbers alone, 17 the next 1. Each joining of each form of Exhibit ONE's table of forms taken going up:
-   from a to b is b less a on the round of sixteen.
-   four-cycle         1-9-8-16               up by [8, 15, 8, 1]                  whole 32
-   four-cycle         2-15-7-10              up by [13, 8, 3, 8]                  whole 32
-   four-cycle         3-11-6-14              up by [8, 11, 8, 5]                  whole 32
-   four-cycle         4-13-5-12              up by [9, 8, 7, 8]                   whole 32
-   middle four-cycle  9-5-12-8               up by [12, 7, 12, 1]                 whole 32
-   middle four-cycle  7-11-6-10              up by [4, 11, 4, 13]                 whole 32
-   six-cycle          1-9-5-12-8-16          up by [8, 12, 7, 12, 8, 1]           whole 48
-   six-cycle          2-15-7-11-6-10         up by [13, 8, 4, 11, 4, 8]           whole 48
-   six-cycle          3-11-7-10-6-14         up by [8, 12, 3, 12, 8, 5]           whole 48
-   six-cycle          4-13-5-9-8-12          up by [9, 8, 4, 15, 4, 8]            whole 48
-   eight-cycle        1-9-5-13-4-12-8-16     up by [8, 12, 8, 7, 8, 12, 8, 1]     whole 64
-   eight-cycle        2-15-7-11-3-14-6-10    up by [13, 8, 4, 8, 11, 8, 4, 8]     whole 64
+INSTRUMENT 7. The numbers alone. Each joining of each form of Exhibit ONE's table of forms, two ways: at the table's own
+   numbers, the joinings going to a lower number; and with 17 the next 1, each taken going up, from a to b
+   b less a on the round of sixteen.
+   four-cycle         1-9-8-16               to a lower number 2 of 4 | up by [8, 15, 8, 1]                  whole 32
+   four-cycle         2-15-7-10              to a lower number 2 of 4 | up by [13, 8, 3, 8]                  whole 32
+   four-cycle         3-11-6-14              to a lower number 2 of 4 | up by [8, 11, 8, 5]                  whole 32
+   four-cycle         4-13-5-12              to a lower number 2 of 4 | up by [9, 8, 7, 8]                   whole 32
+   middle four-cycle  9-5-12-8               to a lower number 2 of 4 | up by [12, 7, 12, 1]                 whole 32
+   middle four-cycle  7-11-6-10              to a lower number 2 of 4 | up by [4, 11, 4, 13]                 whole 32
+   six-cycle          1-9-5-12-8-16          to a lower number 3 of 6 | up by [8, 12, 7, 12, 8, 1]           whole 48
+   six-cycle          2-15-7-11-6-10         to a lower number 3 of 6 | up by [13, 8, 4, 11, 4, 8]           whole 48
+   six-cycle          3-11-7-10-6-14         to a lower number 3 of 6 | up by [8, 12, 3, 12, 8, 5]           whole 48
+   six-cycle          4-13-5-9-8-12          to a lower number 3 of 6 | up by [9, 8, 4, 15, 4, 8]            whole 48
+   eight-cycle        1-9-5-13-4-12-8-16     to a lower number 4 of 8 | up by [8, 12, 8, 7, 8, 12, 8, 1]     whole 64
+   eight-cycle        2-15-7-11-3-14-6-10    to a lower number 4 of 8 | up by [13, 8, 4, 8, 11, 8, 4, 8]     whole 64
    the joins: 10 to 14 up 4, 9 to 17 up 8, 6 to 2 up 12; 11 to the next 3 up 8
 
 INSTRUMENT 8. Two selves each carrying + at one sharing; one join from self 1 to self 2, at 6, at 10 or at 9, one at a
@@ -106,7 +115,7 @@ INSTRUMENT 10. Two selves each carrying + at one sharing, one momentary: the off
    no join:  {1: [], 2: []}
    one join: {1: [], 2: [('s', -1)]}
 
-INSTRUMENT 11. The living files at the root, each at its newest version: the places of seven words, each a whole word.
+INSTRUMENT 11. The living files at the root, each at its newest version: the places of each word, each a whole word.
    side, sides                             1525 places at 32 of 32 files
    step, steps, stepping, stepped           651 places at 28 of 32 files
    beat, beats, beating                     588 places at 24 of 32 files

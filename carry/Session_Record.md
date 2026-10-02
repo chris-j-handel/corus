@@ -2154,3 +2154,6 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 
 **Mending, the front.** The emanating's standing was wrong at two files: the Resolving the Hard Problem Registry carries the names of v375 at eight hundred twelve places and Natural Societies the older names at three, each now with the map at its carrying. The concerns of v379 in their order, the one relieving the most others first. The Living File Registry at its row for the folder and for the working.
 
+## The working v380R opened, its learnings and progress recorded (v380)
+
+**Adding.** The branch `working/v380R` from `main`; `incoming/v380R/README.md`, four findings and three learnings; at Natural Naming's carrying a third saying for the first concern and the four four-cycles at their roots; at Exhibit ONE's carrying the namings with no number computed beside their numbers' words; at the Geodesic Improving Method's carrying three learnings; the front at the workings of v380 beside each other; the Living File Registry at its row for this working. No living file's meaning changed.
