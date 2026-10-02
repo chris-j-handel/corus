@@ -116,3 +116,8 @@ The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the
 ## Further perturbing at its actual relation
 
 [Perturbing_Cases.md](Perturbing_Cases.md) receives three further bounded constructions: changed surfacing with matching gathered outputs, adjacent openings with quiet releasing, and one changed joining retaining previously gathered arrivals. Each has its own complete public record and supplied conditions. The incoming exhibit receives their different subjects. [Surface_Receiving_Map.md](Surface_Receiving_Map.md) receives the existing opening/completing placement and maps actual public occurrences. The remaining session contribution concerns which independently arriving releases meet one completing rather than successive completings; it is already at Natural Resolver's carrying.
+
+
+## Help through the improving files
+
+The session has directed the question into the other workings’ improving. [Progress](Progress.md), under “Improving question for Exhibit ONE, Natural Resolver,” now asks for one concrete passage through a self’s carrying, the other’s releasing arriving and the society’s releasing arriving, through completing and next opening at the actual names. Natural Resolver’s carrying receives the question; an answering passage from Natural Resolver, the Co-Chaining Logic Registry or Natural Naming can be received into Natural Networking. No user answer is required to restate what these files already carry.

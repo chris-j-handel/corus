@@ -183,3 +183,8 @@ The next natural-surface correspondence is now at a concrete source difference: 
 ## Placement received; occurrence mapped
 
 The broad request for opening/completing placement is superseded by the existing Natural Naming passages. Surface_Receiving_Map.md now follows the actual public arrivals at a completing and its next in the changed-coupling construction, with the exact limits of derived public source attribution. The remaining contribution from the session is the natural membership of independently arriving releases in one completing, not the already written placement. Keep this narrower question beside ongoing bounded work, not as a blanket stop.
+
+
+## Receive the answer through the other living files
+
+The next correspondence is now an improving question for Exhibit ONE, Natural Resolver, carried whole in Progress under “Improving question for Exhibit ONE, Natural Resolver” and at that file’s carrying. Receive the concrete named passing from that improving, Exhibit THIRTY, the Co-Chaining Logic Registry, or Exhibit TWENTY, Natural Naming, then improve Natural Networking at what it shows. Do not ask the user to supply an unexplained grouping rule. The source improving may correct the question itself. Bounded discovering remains available while this receiving continues.
