@@ -262,3 +262,18 @@
 **Crossed, and not yet sure.** The two roots named for the loops are at the other loop's parity: 7 and 15 carry the root corusing and are odd; 8 and 16 carry the root torusing and are even. Followed: 7 and 15 are the parity as the carrying carries it, the corus met at the torus; 8 and 16 are the carrying between two momentaries, the torus met at the between. Each loop named at the place the other meets it; or the two roots are at the wrong parity. Not followed far enough to say.
 
 **With the four four-cycles of the part before this one.** The four-cycle rooted torusing, 1-9-8-16, and the one rooted corusing, 2-15-7-10, are each two odd and two even names, a going out and back between the two loops; the two loops here are the odd names and the even names whole. Two relations, the loops and the four-cycles crossing them.
+
+## Six names, three and three: co-momentarying, tri-sharing, bi-tunneling; entraining, bi-sharing, co-chaining
+
+**The saying.** *co-Momentarying, tri-sharing, bi-tunneling Entraining, bi-sharing, co-chaining*
+
+**Followed at Exhibit ONE's names and the resolving's own order; an offering, not yet chained six forward.**
+
+1. **The six are six names of Exhibit ONE: 3, 4, 9, 10, 11 and 12.** The two sharings, 3 and 4, and the four names of one root each, momentarying, tunneling, chaining and entraining.
+2. **Each prefix said is the word beside the root in Exhibit ONE's name, five of five.** 9-tri-bi-**co**-momentarying; 10-bi-tri-**bi**-tunneling; 4-bi-co-**bi**-sharing; and at 11, tri-bi-**tri**, and at 3, co-bi-**co**. Entraining is said with none, 12-bi-tri-bi-entraining.
+3. **One thing differs: the roots at 3 and 11 are exchanged.** Exhibit ONE says 3-co-bi-co-sharing and 11-tri-bi-tri-chaining. The saying says co-chaining and tri-sharing: the carrying arriving, co, is the chaining, what was chained arriving; the carrying released, tri, is the sharing, the self's releasing. Sharing is then at 4 and 11, bi and tri, and chaining at 3, co.
+4. **The first three are the releasing, the second three the arriving and its changing.** Co-momentarying, tri-sharing and bi-tunneling: 9, 11 and 10, the changing carried along, the carrying given on, the changing released. Entraining, bi-sharing and co-chaining: 12, 4 and 3, the changing is or is not, each sharing, the carrying arriving.
+5. **Said from last to first, the six are the resolving's own order.** The resolving goes 3, 4, 12, 10, 11, 9: the carrying arriving, each sharing of it, its changing is or is not, the changing released, the carrying given on, each releasing carried to its receiving. The saying is that order from its last to its first: the from direction.
+6. **Forward, six.** Co-chaining, bi-sharing, entraining, bi-tunneling, tri-sharing, co-momentarying: three arriving and changing, three releasing.
+
+**Not yet sure, for both.** The exchange of roots at 3 and 11 is the one following at which each prefix agrees. The other following leaves the roots as they are and says each odd name at the word 8 up from it, momentarying co, sharing tri, chaining co, three of three. A carrying leaves as 11 and continues as the next 3, one carrying at two names: the two followings may be one meaning at two steps.
