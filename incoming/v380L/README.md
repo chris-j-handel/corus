@@ -1,10 +1,10 @@
 # Exhibit ONE's tables and the resolver's lines followed
 
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
-- **To**: Natural Naming, Natural Numbers, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
-- **Read at**: `main` at commit 6e58f65. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its four files. Read at the sections named here: Natural Intelligence v379 and the Co-Chaining Logic Registry v379.
-- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
-- **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`.
+- **To**: Natural Naming, Natural Numbers, the Co-Chaining Logic Registry, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
+- **Read at**: `main` at commit 048e21d. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its five files, and the Co-Chaining Logic Registry v379. Read at the sections named here: Natural Intelligence v379.
+- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; six entries at five carryings, two ready and four concerns for both; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`; [`Chaining_A_Selfs_Changing.md`](Chaining_A_Selfs_Changing.md), the first parting chained at the Registry's steps, no executing its reason.
 - **Standing**: *arriving*. No living file is changed.
 
 ## The instruments
@@ -68,13 +68,14 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 ## The entries at the carryings
 
-Each names this folder. Two are ready, a sentence entering with no meaning changed; three are concerns for both, each two sayings parting with its reason.
+Each names this folder. Two are ready, a sentence entering with no meaning changed; four are concerns for both, each two sayings parting with its reason.
 
 | Carrying | Entry | Finding |
 |---|---|---|
 | Natural Naming's | Concern: the zero at 14 | 6 |
 | Natural Naming's | Concern: *side* and *step* | 16 |
 | Natural Numbers' | Concern: *advancing* | 10 |
+| The Co-Chaining Logic Registry's | Concern: the 0 at 12, no changing or two opposed changings cancelling | The chaining |
 | The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
 | The Living File Registry's | Ready: this working's row for the table of workings | |
 
