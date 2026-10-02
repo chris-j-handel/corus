@@ -2,6 +2,10 @@
 
 **Standing:** an offered naming to follow, not a completed six-forward unfolding or a new network result. Read beside Natural Naming, Natural Networking, Natural Resolver and the managing's living-self tour at the current working `4fcea7c`, with main received at `6e58f65`.
 
+## Current receiving: the subject is travelling sequencing
+
+The session corrects this working’s interpretation: changing or no changing travels through the self’s momentarying as **tri bi co bi tri bi co**, with arriving and releasing interleaving into the sequencing. This is distinct from cycling out and back. The six-pair reading below remains the prior offered interpretation; it does not state the intended relation. The complete receiving is at [Momentarying_Sequence_Offering.md](Momentarying_Sequence_Offering.md).
+
 ## The six named relations
 
 | Relation offered | Arriving | Releasing |

@@ -140,3 +140,8 @@ Next meet the own momentary through not-arriving. The actual source passes zero 
 ## The offered six cycling
 
 Follow the session’s self arriving/releasing, bi arriving/releasing and tri arriving/releasing through each actual passing. The complete offering is at Six_Cycling_Offering.md. Meet it beside the three own-forward changes at each side and the three external releasings with their arrivings; establish the relation at each rather than identify them by the count. Keep self releasing/tri arriving as a possible single passing at two named relations, and keep the self’s own continuation private. This concern is at Natural Resolver before any larger network execution; its resolving returns to Natural Networking’s explaining.
+
+
+## The travelling sequence governs the next pass
+
+The preceding six-pair inquiry is corrected by the session: changing or no changing travels through self-momentarying as **tri bi co bi tri bi co**, arriving and releasing interleaving. Follow that relation rather than identifying it with the other out-and-back cycling. Momentarying_Sequence_Offering.md carries the exact receiving. The names’ actual moments, scales and interleaving remain to be followed without assigning one program call per word. The bounded pair and its natural activation concern remain at their prior scope.

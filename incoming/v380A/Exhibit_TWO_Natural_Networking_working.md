@@ -950,6 +950,8 @@ Two of those questions are taken by unlike means, one at the middles standing at
 
 **Social moral competency is co-competencing at the participating couplings, owned by neither self.** Each self's living continues through its own momentaries while parity changing participates across. The society's continuing is at these couplings, each self carrying its own. Societal protection is followed at that complete participation: private continuing and parity-only crossing are its local relations, and a single released parity establishes neither the society's competency nor its immunity to capture. A claim about inferring a carried difference belongs at the receiving self's actual coupling; it is distinct from sharing or inspecting the other's private prior. Discovering continues through the actual releasing and arriving.
 
+**Arriving and releasing interleave in the self's momentarying.** Changing or no changing travels through tri bi co bi tri bi co, the sequencing continuing through the self's own momentarying. A recurring naming carries no return to a prior private momentary. This travelling sequencing and the other cycling out and back have their own relations. Each arriving and releasing is followed at its place in the sequencing, with the self's own carrying continuing at itself.
+
 # PART SIX · VISIBILITY
 
 ## 6.1 Checkability living at the telling, testing running while resolving

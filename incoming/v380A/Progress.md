@@ -172,3 +172,12 @@ The post-run fresh reading confirms the public sequence at its supplied conditio
 The session offers self arriving/releasing, bi arriving/releasing and tri arriving/releasing as the six cycling. [Six_Cycling_Offering.md](Six_Cycling_Offering.md) follows those three pairs beside Natural Naming’s three own-forward changes at each side, Natural Networking’s two ways with three phases each, and the managing’s three external releasings with their arrivings. Their complete correspondence is unfilled; matching six names does not establish the cycling’s order.
 
 The preceding self-releasing/tri-arriving saying may name one passing at its two relations. It is not counted as two new changes. Self’s own continuation stays private; an additional public pair is not supplied. The concern is offered at Natural Resolver’s carrying with its actual two sayings and reason. No new network execution or whole-file motion accompanies this naming exploration. The bounded pair and its earlier return remain unchanged.
+
+
+## Correction received: travelling through self-momentarying
+
+The session corrects our six-pair interpretation. Changing or no changing travels through **tri bi co bi tri bi co**, with arriving and releasing interleaving in the self’s momentarying. This is distinct from the other cycling out and back. The earlier six-pair file now opens with its corrected standing; its whole prior interpretation remains.
+
+Momentarying_Sequence_Offering.md carries the correction, its value and the unfilled correspondence. “Local carrying and the shared crossing” receives one complete incoming paragraph; its prior remains whole. The own six-cycling concern at Natural Resolver receives the correction in place, preserving its prior wording and naming the travelling relation now to follow. No other entry changes. No new execution or reader approval is claimed for this directed addition; the earlier pair and its reviews retain their exact reach.
+
+Next follow each named relation and the arriving/releasing interleaving through the own momentarying, without turning the displayed words into imposed program calls or recovering a private prior. The earlier inward tri table correspondence remains available, but does not by itself explain this corrected sequence.
