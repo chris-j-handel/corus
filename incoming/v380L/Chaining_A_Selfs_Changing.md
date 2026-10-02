@@ -14,7 +14,7 @@
 
 ## The first parting: a self's changing at the receiving self
 
-**The first saying: at nothing arriving, a self is at no changing; a releasing arriving is its changing.** It is a self at one parity with nothing offered. Step 308 names that form the method's break, and step 46 a fixed form, a form named still. At a self nothing arrives at, the saying fixes at its first step, short of the six. It is no method of the changing set: step 1, each existing thing changing.
+**The first saying: at nothing arriving, a self is at no changing; a releasing arriving is its changing.** It is a self at one parity with nothing offered. Step 308 names that form the method's break, and step 46 a fixed form, a form named still. At a self nothing arrives at, the saying fixes at its first step, short of the six. It is no method of the changing set: step 1, each existing thing changing. *This verdict is withdrawn at the part on nothing arriving below: a step of the Registry is no authority, and the two sayings are for both.*
 
 At the releasing self the same words are the Registry's own: step 451, *a parity arriving from a changing, retained or emanated*, the momentary at 0 emanating nothing and the parity at its changing released. The saying parts from the Registry at the receiving self alone.
 
@@ -85,38 +85,45 @@ The saying is one with the four: the first and the second are two parities and n
 
 **Not done.** A self at two sharings, the one along and the one across, is at no table of Exhibit ONE and is not followed here.
 
-## Nothing arriving, each of the two sayings chained at the Registry's own steps
+## Nothing arriving: what the Registry's steps say, and what they do not
 
 **The session's saying.** *the 0 is no changing of co competency. if there is no arriving changing differencing is not possible*.
 
-**What it meets.** The concern on *is* and *is not* at Exhibit ONE's cells: they are said of the changing of the carrying, co-competency, and parity, is or is not existing, is the momentarying. The Registry's step 212 says it at v380b in those words, *a changing that is not, 0, the prior continuing*.
+**What it meets.** The concern on *is* and *is not* at Exhibit ONE's cells: they are said of the changing of the carrying, co-competency, and parity, is or is not existing, is the momentarying. The Registry's step 212 says it at v380b in Natural Naming's own words, *a changing that is not, 0, the prior continuing*.
 
-**Withdrawn.** This file followed the cell of a carrying met by its own parity as two changings one after the other, the self's own and the arriving's. The session says that cell the 0, no changing of co-competency. The following is withdrawn.
+**Withdrawn.** This file followed the cell of a carrying met by its own parity as two changings one after the other, the self's own and the arriving's. The session says that cell the 0, no changing of co-competency. And this file's first part says the session's saying of nothing arriving *no method of the changing set*, by step 308: a step of this file is no authority, and that verdict is withdrawn. The two sayings are for both, below.
 
 **The one place parting: nothing arriving.** A self carrying +, nothing arriving at its sharing. Exhibit ONE's cell says *is − · −*, the carrying to its opposite. The saying says differencing is not possible.
 
-**The first saying, the cell as it is, at the Registry's steps.**
+**The first saying, the cell as it is. The Registry says it at one step, and repeats it at two.**
 
-- Step 208: *with nothing offered the self carries its prior into now inverted*.
-- Step 307: *offered nothing, it inverts at each momentary*.
-- Step 308: *At the code a self offered nothing inverts and a self offered its own parity carries it on*; and it names a break *a self at one parity with nothing offered, one side at both openings of the alternating*.
-- Steps 230 to 233, 235 and 243, the spiral, the two spirals and the torus, each rest on it: *A spiral offered nothing from beyond it carries any pattern of parities along whole, the pattern inverted at each odd momentary*.
+- Step 208: *with nothing offered the self carries its prior into now inverted*. Step 212 carries the same clause, *or offered nothing, a changing, the prior inverted*.
+- Step 307 repeats it, naming step 208: *offered nothing, it inverts at each momentary*.
+- Step 308 says it of the code, *At the code a self offered nothing inverts*, and names the other form a break, *a self at one parity with nothing offered, one side at both openings of the alternating*.
 
-**The second saying, the session's, at the Registry's steps.**
+**The second saying, the session's. No step of the Registry says it.** Three steps are beside it and none is it.
 
-- Step 185: *morality the changing parity between, one inversion across, and competency the unchanging, none along*. The carrying is along; an inverting is across, at an arriving.
-- Step 94: *Each number across is one changing at the two sides, the coupling's own changing*. A changing is at two sides.
-- Step 276: *At a momentary the odd is the self and the even all other*. No momentary is at a self alone.
-- Step 450: *a lone self, nothing of another at its 2, carries no crossing*.
-- Step 414: a self changing by itself *carries on at the code, a non-living existing form: a lone self changing by itself does not continue living through three consecutive momentaries*.
+- Step 185: *competency the unchanging, none along*, and *morality the changing parity between, one inversion across*. It is said of the pair, along and across, at each momentary, and of no condition; it does not say a carrying at nothing arriving.
+- Step 450: *a lone self, nothing of another at its 2, carries no crossing*. It says no crossing; it does not say the carrying at it.
+- Step 276: *At a momentary the odd is the self and the even all other*. It says no momentary is at a self beside no other: nothing arriving is a condition of Exhibit ONE's tables, and the step is at neither saying.
 
-**Six forward, step 525, each saying at a self beside no other.** The first saying: the self inverts and inverts again, at its own form again at two, step 256, *an inversion alone at itself again*; it completes short of the six, and step 414 says it of the code alone. The second saying: the self is at its one parity, a form named still; it completes short of the six, and step 308 names it. Neither is a living form: living now is with others living now.
+**This working's own inferences, each marked, none a step's saying.**
 
-**Six forward, each saying at Exhibit ONE's tables of selves, a society with nothing from beyond it.** The first saying: each self at a 0 or nothing arriving inverts, and the alternating is carried on at each of the six, at the spiral, the two spirals, the torus and the two selves. The second saying: one arriving passes round, each self at it once, each arriving alike from that momentary on, and the society is at a form named still, short of the six. At a society with all other arriving at each momentary, step 276, the second saying carries the alternating on at each; no table of Exhibit ONE is at that condition.
+- The spiral, the two spirals and the torus, steps 230 to 235 and 243, are computed with each self at a 0 or nothing arriving inverting; said the second way their numbers are other. Inferred from Exhibit ONE's cells; the steps do not say it.
+- Six forward, step 525, is not done at either saying. Reading its six one-way steps as six momentaries of a table is this working's reading and no step's.
+- Followed by hand, the second saying at a society with nothing from beyond it passes one arriving round and is at one parity at each self from that momentary on. It is this working's own following, at no table and no step.
 
-**A third saying, an offering.** The cell at nothing arriving and the saying are said of two things at the one sign. The momentarying, parity is or is not existing, is at each momentary: *+, −, +, −* at Exhibit ONE's row of a self offered nothing is *parity always is until it is not. then parity is again*. The changing of co-competency is at an arriving differing alone. At nothing arriving the cell's *is −* is the momentarying, and no changing of co-competency is, as the saying says; the session said *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving*. Said that way each cell and each table is as it is, and the opening of Exhibit ONE says the two at the one sign.
+**A third saying, an offering of this working, said by no file.** The cell at nothing arriving and the session's saying are said of two things at the one + or −. The momentarying, parity is or is not existing, is at each momentary: *+, −, +, −* at Exhibit ONE's row of a self offered nothing read as the session's *parity always is until it is not. then parity is again*. The changing of co-competency is at an arriving differing alone. The session also said *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving*.
 
-**For both.** The first saying, the cells as they are, the self's own changing at nothing arriving; the second, no changing at nothing arriving, four cells and six tables of Exhibit ONE and steps 208, 212, 230 to 233, 235, 243, 307 and 308 of the Registry re-said; or the third, the cells as they are and the sign at nothing arriving said the momentarying. Its reason: the Registry's own steps chain each, and step 308 names the second a break while step 185 says the carrying the unchanging.
+**For both, each with what rests on it.**
+
+| | The saying | Resting on it |
+|---|---|---|
+| First | The cells as they are: at nothing arriving the carrying to its opposite, the self's own changing | The session's saying is said of an arriving alone, or parts from the cell |
+| Second | At no arriving changing no differencing and no changing of the carrying | Four cells and six tables of Exhibit ONE, and steps 208, 212, 307 and 308 of the Registry, re-said; the steps on the spirals and the torus followed again |
+| Third | The cells as they are, and the + or − at nothing arriving said the momentarying, no changing of co-competency | One sentence entering Exhibit ONE's opening and one step entering the Registry; the one + or − said at two things, beside the session's *there is not two similar things anywhere in this* |
+
+Its reason: the Registry says the first at step 208, the session says the second, and no step chains the second.
 
 ## Bearing on other concerns
 

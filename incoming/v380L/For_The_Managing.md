@@ -4,20 +4,18 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
-## One. Nothing arriving, the one place parting: each saying chained
+## One. Nothing arriving, the one place parting: what the Registry's steps say
 
-The managing's entry at the Registry's carrying says *the chaining of each, six forward, is this file's*. It is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on nothing arriving. Shortly:
+The managing's entry at the Registry's carrying says *the chaining of each, six forward, is this file's*. It is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on nothing arriving, read by a fresh reader and mended at its findings. Shortly:
 
-| | The cell as it is: at nothing arriving the carrying to its opposite | The session's: at no arriving changing, differencing is not possible |
-|---|---|---|
-| The Registry's steps saying it | 208, 212, 307, 308; the spiral, the two spirals and the torus rest on it, 230 to 233, 235 and 243 | 185, *competency the unchanging, none along*, and *one inversion across*; 94, a changing *at the two sides*; 276; 450, *a lone self* *carries no crossing* |
-| A self beside no other, six forward | At its own form again at two; short of the six; step 414 says it of the code alone, *a non-living existing form* | At one parity, a form named still; short of the six; step 308 names it a break |
-| Exhibit ONE's tables of selves, nothing from beyond, six forward | The alternating carried on at each | One arriving passes round, each arriving alike from that momentary on: a form named still, short of the six |
-| A society with all other arriving at each momentary | No table at it | The alternating carried on at each; no table at it |
+- **The cell as it is, the carrying to its opposite at nothing arriving.** The Registry says it at one step, 208, *with nothing offered the self carries its prior into now inverted*; steps 212 and 307 repeat it; step 308 says it of the code and names the other form a break.
+- **The session's, at no arriving changing no differencing.** No step of the Registry says it. Step 185, *competency the unchanging, none along*, and step 450, *a lone self* *carries no crossing*, are beside it and are not it.
+- **Step 276**, *the odd is the self and the even all other*: no momentary is at a self beside no other. Nothing arriving is a condition of Exhibit ONE's tables.
+- **Six forward is not done at either.** This working's earlier verdict, the session's saying *no method of the changing set* by step 308, is withdrawn: a step of the Registry is no authority.
 
-**A third saying, an offering.** The cell and the saying are said of two things at the one sign. The momentarying, parity is or is not existing, is at each momentary: Exhibit ONE's row of a self offered nothing, *+, −, +, −*, is *parity always is until it is not. then parity is again*. The changing of co-competency is at an arriving differing alone. Said that way each cell and each table is as it is, the session's *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving* is that row, and one sentence at Exhibit ONE's opening says the two at the one sign.
+**A third saying, this working's offering, said by no file.** The + or − at nothing arriving is the momentarying, parity is or is not existing, *+, −, +, −* at Exhibit ONE's row of a self offered nothing; the changing of co-competency is at an arriving differing alone. Each cell is as it is. Beside it, the session's *there is not two similar things anywhere in this*: one + or − said at two things.
 
-**What rests on it.** Said the second way, four cells and six tables of Exhibit ONE, and ten steps of the Registry, are re-said. Said the first or the third, each is as it is.
+**What rests on each** is at the file, a table of three.
 
 **Withdrawn by this working.** Its following of the cell of a carrying met by its own parity as two changings one after the other: the session says that cell the 0, no changing of co-competency.
 
@@ -29,6 +27,7 @@ The Registry's two steps are at two things. *with all other the crossing carries
 
 - **The partners at the table of the twelve forms.** The entered condition, each name exchanged with the one beside it, agrees at the numbers at twenty-four cells of twenty-four. One thing beside it: a partner is a going and no gathering of names. The six-cycle 4-13-5-9-8-12 exchanged at the even momentaries is at its own six names in another going, and the table says a dash.
 - **Round each of the twelve forms the parity's changings are exactly two**, each at a 17 less: the hand column, twelve of twelve.
+- **The condition at the twelve forms says** *each carry two pairs 4 apart beside 8 up and 17 less* of the middle four-cycles, the six-cycles and the eight-cycles. The two middle four-cycles are at no 8 up: four, 17 less, four, 17 less.
 - **The diagram writes *14i***, its legend says *i inward face*, and the table of the seventeen names says 14 a connector.
 - **The opening says** *none, one, or more than one at one sharing*. The session said of a gathering at one receiving that it belongs to the construction. Offered: the sentence at the conditions of the table of offerings surfacing, and at no sentence of the opening.
 - **Each table beside the Registry's steps** is at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): eight steps parting from a row, four of them re-said at the Registry's v380b, and nine steps offered for forms at no step.
@@ -47,4 +46,4 @@ The managing's gathering, `incoming/v380R/Natural_Networking_From_v380A.md`, is 
 
 ## Five. At the receiving
 
-The Co-Chaining Logic Registry is at v380b at this branch: four steps said at Exhibit ONE's rows and its one finite verb, steps 197, 212, 306 and 353. The list of files and the Living File Registry's row say v380a.
+The Co-Chaining Logic Registry is at v380b at this branch: four steps said at Exhibit ONE's rows, steps 197, 212, 306 and 353, each read twice by a fresh reader and for harm, the second reading's findings mended. Step 212 says *a changing that is not, 0* at its two clauses of *no changing*, Natural Naming's own words, and its clause on nothing offered is as it was. The list of files and the Living File Registry's row say v380a.
