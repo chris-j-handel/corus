@@ -72,3 +72,21 @@
 2. **Which valve is the tri.** Followed here as the self's own, along, the carrying continuing, 9-tri-bi-co-momentarying carrying each changing into the next momentary; and the bi as the four across, 2, 6, 10 and 14. The saying may name another.
 3. **Two changings at one self or at two.** Followed above at one self. At two selves, the self's changing released across is the other's arriving and may change the other: the self's completing the other's opening, two changings at the two's one overlapping momentary.
 4. **Connector or valve.** *Valve* is a built form's word; the is or is not is at 12-bi-tri-bi-entraining, a face, and its releasing at 10-bi-tri-bi-tunneling, a connector. A connector that opens or not is the two together.
+
+## Not releasing or releasing: the two arriving alternatives, always on
+
+**The saying.** *not releasing or releasing. these are the two parity incoming arriving alternatives that are always on as arriving living from prior of social or other where releasing is self-parity changing and not releasing is self-parity no changing.*
+
+**Followed at Exhibit ONE's table of each cell at 10 and chained at 11 and its table at 14; an offering, not yet followed six forward.**
+
+1. **Releasing is self-parity changing, not releasing is no changing, at each cell.** At each *is* the parity released is the parity chained, the self's carrying changed; at each *is not* the 0 is released and the carrying is chained on at its parity.
+2. **Always on.** A self carrying a parity releases a parity or the 0 at each momentary and never nothing.
+3. **Arriving from the prior.** What arrives at a self now is what the others released at their prior momentary.
+4. **From the social or the other.** At the names, along at 17 from the society and across at 2 and 14 from the other.
+5. **What an arriving releasing gives the self.** At each cell a parity arriving is the self's next carrying: the self changes to it, or carries it already and changes not. A releasing arriving brings the self to the arriving's parity either way.
+6. **What an arriving not releasing gives the self.** At a 0 arriving, and at nothing arriving, the self changes at its own, to its opposite.
+7. **Two releasings arriving at one momentary.** Agreeing, the one parity is the self's next. Parting, a + and a −, the 0 at 14, and the self changes at its own.
+
+**Withdrawn.** The offering before this one, the 0 as two parity changings at the releasing self, parts from the saying: not releasing is no changing.
+
+**Parting, for both.** At the releasing self the saying and the table are one. At the receiving self a not releasing arriving gives a changing, the self's own, and a releasing arriving at the self's own parity gives no changing: releasing and changing are one at the self releasing and are not one at the self receiving.
