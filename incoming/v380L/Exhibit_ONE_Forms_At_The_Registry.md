@@ -2,7 +2,7 @@
 
 **Standing:** arriving, an offering for both. Three fresh readers read Exhibit ONE's diagram and its twenty-two tables, one part each, beside the Registry read whole; this working met each parting and each offered step at Exhibit ONE's rows itself. No executing of the resolver is the reason of a line here: each offered step is checked at the numbers of the names in Exhibit ONE's own rows.
 
-**Read:** Exhibit ONE v379, its diagram and each table; the Co-Chaining Logic Registry v380b, its 599 steps.
+**Read:** Exhibit ONE, its diagram and each table, at v379 and beside v380, each table and each row the same at both; the Co-Chaining Logic Registry v380b, its 599 steps.
 
 **The aim.** The Registry carries the chaining of each form Exhibit ONE shows. This file says, at each table, the steps saying it, the rows at no step, and each step parting from a row.
 
@@ -51,7 +51,7 @@
 
 ## Steps offered, each a form of Exhibit ONE at no step
 
-Each is checked at the numbers of the names in Exhibit ONE's rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
+Each is checked at the numbers of the names in Exhibit ONE's rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it. The sixth, the seventh and the eighth are at a self at nothing arriving, and wait on the concern on no arriving changing at Exhibit ONE's carrying and the Registry's.
 
 **One. Two parity changings round each form.**
 *Round each of the twelve forms the names go odd and odd on, and even and even on, one going of each: the parity's changings round a form are exactly two, each at a 17 less, and each other move of it continues parity.*
