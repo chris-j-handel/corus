@@ -20,6 +20,8 @@ None.
 
 **Ready, at v380, from `incoming/v380R/Exhibit_ONE_Improving.md`, three workings' findings gathered, its parts one and two: thirteen things decidable at the resolver, each a sentence or a header, and what the file does not yet say.** Each executed again at the gathering: one release at three joins, 6, 10 and 9, and the carrying crossing at no join; the entry's four, whose each is; the 0 at a chained sharing and at a sharing chained none; the join; the numbers' order and the entry's own lines; five rows of the column *At the code*; the two lists at no function; a row +, +, − at the table at 14; the society's four momentaries of exchanging; each table of selves at its conditions; the four-cycles' header, the going by four, *hand* at two columns; the diagram at 14, at 17 and at its box. And for a reader arriving: an opening, the data said before the code, the rule of the prefixes, each term said before it is relied on. Each enters at this file's motion, one thing whole at each.
 
+**Ready, at v380, from `incoming/v380R/Exhibit_ONE_First_Motion_Draft.md`, a first motion drafted for each of the three workings to meet.** An opening after the subtitle, two paragraphs; what the resolver carries, said before its lines, a sharing, a parity, the 0, none, an offering, a carrying, a self, a society and a momentary; each of the twenty-two tables at a title and its conditions. It adds, each prior carried whole, no row, column, cell or name changed, and decides no parting for both. Each sentence is met by the three workings and a fresh reader before the motion.
+
 ## Concern
 
 **The concerns open, hardest first.** The nineteen met at v375 to v378 are at the Session Record.
