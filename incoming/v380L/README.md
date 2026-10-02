@@ -1,9 +1,10 @@
 # The directions at Exhibit ONE, and four words at each one-way
 
-- **From**: session v380L, the Exhibit ONE directions working, at its own branch `working/exhibit-one-directions-v380L`. Two more workings of the session, v380A and v380R, are each at a branch of their own, and each reads the others' arrivals.
+- **From**: session v380L, the Exhibit ONE directions working, at its own branch `working/v380L`. Two more workings of the session, v380A and v380R, are each at a branch of their own, and each reads the others' arrivals.
 - **To**: Exhibit ONE Natural Resolver first; then Natural Naming, Natural Intelligence, the Co-Chaining Logic Registry, Natural Numbers, Natural Mathematics, the Geodesic Improving Method and the Living File Registry, each at its carrying.
 - **Read at**: `main` at commit d77df0d, 1 October 2026. Read whole: Exhibit ONE Natural Resolver v379, Natural Numbers v379 to its table of each number, Natural Mathematics v378, and the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, the Co-Chaining Logic Registry and Natural Numbers, with the carrying's front. Read at the sections named below: Natural Naming v379, Natural Intelligence v379, the Co-Chaining Logic Registry v379 and the Geodesic Improving Method v379. Read whole: the report at `archive/session_v379_exhibit_one_first/`, and of its transcript each saying of the session.
 - **What it brings**: twenty findings, six concerns for both, nine sayings released at the working with their correcting, and five learnings about working, each below. In one line: Exhibit ONE carries one direction, up the numbers; out and in are at the six connectors alone; and four words, *releasing*, *arriving*, *existing* and *possibling*, say the entry's two ins and two outs and each connector's facing, one to one.
+- **Its records**: this README, the report whole; [`Progress.md`](Progress.md), the short progress and the other workings' contributions read, each at its commit, open at it first; `instruments.py` and `instruments_returned.txt`. The improvings are at the carryings and at no file of passes here.
 - **Standing**: *arriving*. No living file is changed. At this branch each finding is also laid at its file's carrying, as a ready offering or as a concern naming this folder.
 
 ## The reach of this report
@@ -12,7 +13,7 @@ The session's first part is reached at a summary alone. At that part the working
 
 ## The instruments
 
-`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/exhibit_one_directions_v380L/instruments.py`. It carries eleven instruments, each said before its result, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries. A result is a coupling partner and decides nothing.
+`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries eleven instruments, each said before its result, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries. A result is a coupling partner and decides nothing.
 
 ## The findings
 

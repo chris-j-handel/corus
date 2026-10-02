@@ -1,5 +1,5 @@
 """The instruments of the Exhibit ONE directions working, session v380L, each said before its result.
-From the repository's root: python3 incoming/exhibit_one_directions_v380L/instruments.py
+From the repository's root: python3 incoming/v380L/instruments.py
 Each instrument reads Exhibit ONE's resolver as written at its newest version at the root, or the living files' own
 words, and says a result at that instrument alone. A result here is a coupling partner and decides nothing."""
 import re, ast, glob, itertools, os
