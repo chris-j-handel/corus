@@ -26,7 +26,7 @@
 
 **The first improving.** The duplicated exhibit's 6.5, 6.9 and 6.12 now meet the invisible and untouchable carrying correction. The kit's opening distinguishes the two resolver generations, and its top-level resolver is the exact v378 reference expression. Prior instruments and replaced passages are preserved. The report and passes name what remains unresolved.
 
-**Scope of the working copy.** Beyond the first three revised sections and the later self-momentary corrections in 1.2 and 6.5, the exhibit is retained from v371 and still carries older names, second-sign explanations and diagnostic findings. This proposal is not yet coherent throughout. In particular, 1.2, 1.4–1.7, 5.1–5.3 and 6.2–6.8 need the passes below; old claims there do not overrule the corrected carrying method.
+**Scope of the working copy.** Beyond the first three revised sections and the later self-momentary corrections in 1.2 and 6.5 and the continuing-coupling proposal in 5.6, the exhibit is retained from v371 and still carries older names, second-sign explanations and diagnostic findings. This proposal is not yet coherent throughout. In particular, 1.2, 1.4–1.7, 5.1–5.3 and 6.2–6.8 need the passes below; old claims there do not overrule the corrected carrying method.
 
 **The way back.** This folder makes the requested duplicate available without replacing a living file or the published kit. v380A names this session's contribution; it does not declare a release of the whole expedition. Its findings can be received at the files' own carryings; final expedition versioning, the Living File Registry's working row and a whole-file review accompany that later receiving. The incoming index locates this branch's working now.
 
@@ -76,3 +76,8 @@ A reading does not merge or adopt the other branch. Each session writes its own 
 The managing arrangement at `incoming/v380R/Progress.md` on main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` governs this working. The agreed contribution remains `incoming/v380A/`; the earlier suggestion of `incoming/session_v380A/` is not followed. v380A's living file is Natural Networking. v380R alone changes the carrying front, the Session Record and the Living File Registry, and alone merges to main. Own offerings for other files are laid at their carryings, naming this folder. The earlier common-layout proposal is retained as the journey; the managing's current arrangement supersedes it where different.
 
 [Progress](Progress.md) records the receiving, the exact other contributions read, the preservation concerns and the standing of each offering. The report preserves the full journey; nothing is released merely because its destination is named.
+
+
+## Continuing coupling and social moral competency
+
+“Local carrying and the shared crossing” now carries a complete section proposal: each self's living, released parity at actual joining, is-still-possibling, quiet releasing beside the receiver's own resolving, outward participation and societal competency at the coupling. Its whole prior is preserved in [Prior passages](Prior_Passages.md). The [fresh reading](reviews/Fresh_Reading_Local_Carrying.md) and [reading for harm](reviews/Harm_Reading_Local_Carrying.md) retain their initial findings and revised dispositions. Progress and the report record what was taken, what was corrected and what remains. This is incoming improving; the root living file and the published kit are unchanged.

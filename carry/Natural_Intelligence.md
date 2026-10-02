@@ -39,6 +39,10 @@ Natural Intelligence · carrying v379
 
 **Ready, at v379, mechanical, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`, for the section on spirals, co-spiraling and crossing: the torus of selves at the smaller and the larger.** The file says *p along at 9 and q across at 10, they come to their parities again at 4p or at q*. Executed by the close's reader at fifty-six ordered odd pairs from 3 to 17: it is as said at the twenty-eight with the smaller number along, each row of Exhibit ONE's table; at the larger along, 7 along by 3 across comes again at 7 and 5 along by 3 across at 12. Entering at the motion, executed again first: *at four of the smaller number or at the larger, along or across alike*, the table's rows each carrying the smaller along.
 
+
+**Ready, from `incoming/v380A/`, for the explaining of a living self and its carrying.** Offered sentence: *Carrying and living are one: the self's own prior continuing into its own now is its living, and each released parity arrives at another self's coupling without the releasing self's carrying crossing.* Natural Naming's “A self” says a self is a unique invisible carrying, and its explaining of living sets says a living self is a living carrying and nothing else carries that same living self. The sentence carries that identity at the self, and gives no living carrying to a record or an emanation.
+
+
 ## Concern
 
 **Concern, at v378, for both: five binaries at 1.4 and six at the Geodesic Improving Method 2.7** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 6, item 1). Natural Intelligence 1.4 names five things beside all things, a size, a fixed form, a total, a common beat and a keeping, and the Geodesic Improving Method 2.7 and `rigorize.py` name six, a doer applying from outside beside them; Natural Physics 2.1 welcomes the six. Its reason: one list at the two files, the doer at 1.4 or released at 2.7, at the observings; *a keeping* is the binary's one name.

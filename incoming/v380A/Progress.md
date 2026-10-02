@@ -5,7 +5,7 @@
 **Session:** v380A.  
 **Branch:** `working/v380A`.  
 **Contribution:** `incoming/v380A/`.  
-**Updated:** 2 October 2026, America/Los_Angeles; the managing received and carrying/living with the two arrivals explored.  
+**Updated:** 2 October 2026, UTC; continuing coupling, do-no-harm readings and social moral competency offered.  
 **Continuing from:** `working/natural-networking-2026-10-01` at `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.  
 **Sources:** original duplicate from main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; v379 reviewed at `d77df0dc0aa6f5c07a707761d584187f190aade8`; current main received at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`.  
 **Standing:** working contribution offered on this branch. Living files and published kit have not been replaced. No natural-network execution has been performed in this session.
@@ -27,6 +27,7 @@
 | Follow 1–17 and newer naming | Full naming explored with binary squaring, three prefixes, is-still-possibling, recurrence and directional relations; earlier source versions explicitly superseded where needed. | Report sections on binary squaring, 1–17, arriving v379 and October 2 review. |
 | Receive the self-momentary correction | Five paragraphs of TWO 1.2 and the opening of 6.5 corrected; whole prior passages preserved. | Report “The self-momentary”; working exhibit and prior passages. |
 | Wider-file contributions | Support, conflicting sentences, candidate explanations and opportunities mapped across NI, ONE, Naming, Numbers, Societies, Transmissioning, Engineering, Explaining, Illustrating, Biology, Chemistry, Physics, Registry and Improving Method. These are offered findings and proposals. | Report “The self-momentary” and “Further reach of the self-momentary.” |
+| Continue coupling and social moral competency | Incoming section “Local carrying and the shared crossing” re-said; whole prior preserved; fresh and harm findings met. | Report’s “Continuing coupling,” proposed section and [reviews](reviews/Fresh_Reading_Local_Carrying.md). |
 | Make mutual reading possible | v380A branch and contribution naming established; common record layout documented; contribution relocated without re-creating the kit. | [README](README.md) and report's v380A coordination section. |
 
 ## Discoveries and contributions
@@ -84,3 +85,38 @@ Read the managing whole at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, `inc
 Own entries are added at the carryings of Natural Networking, Natural Naming, Natural Intelligence, the Geodesic Improving Method and the Living File Registry, each naming `incoming/v380A/`. They offer the self-momentary distinction, carrying/living, the two-arrival concern, the forked-prior concern and this working's registry standing. Existing entries remain unchanged.
 
 **Ready for the managing to read:** this set of carrying entries and its supporting report. **No living-file motion is offered as ready for main.** The required repository checks and fresh readings have not been claimed as performed at a living-file motion. This receiving checks preservation of the current set and of the earlier contribution; it runs no natural-network experiment.
+
+
+## Continuing coupling: current offering and reading
+
+**Found:** quiet at the releasing self is distinct from the receiver's own resolving. At a sharing already carried, a zero arrival with no other surfaced offering permits that receiver's own inversion; with further offerings, their surfacing must be met. Released/chained parity agreement belongs to the releasing self. Actual joining is needed for the other's receiving. These findings are from source and tables, not a natural-network experiment.
+
+**Changed:** one complete incoming section, “Local carrying and the shared crossing”; its whole prior preserved. The section now carries living, own prior, actual joining, all stated conditions at an already carried sharing, outward participation and the scope of social moral competency. README, report and passes are current. This working's three prior Ready entries are moved unchanged from below Concern into Ready. A new Networking Ready offers the section, and a Registry Concern offers the existing Entering/Adding differences. Other contributors' entries remain unchanged.
+
+**Learned about working:** equality at one self cannot establish another's joining. One agreeing offering cannot speak for parting offerings at that sharing. A privacy correction must carry forward the prior's positive outward participation. A Ready label needs its entry in Ready. Both independent readers' initial findings and revised dispositions are retained; the final optional precision, receiver's resolving rather than changing, is received.
+
+**Gathered:** v380R's current Progress read whole at `f6b91f9d930eace1edb48065b887806aff0eb5dc`; main unchanged at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`. v380L unchanged at the commit already read above; its source equality is received with its local subject. The managing arrangement introduces no new harm to prior work; the preservation concerns above continue to govern.
+
+**Not yet done:** adjacent older second-sign and independent quiet/releasing sayings remain in the duplicate; the caller's overlap correspondence remains open; first/second arrivals remain a concern at Natural Naming. No root living-file motion, complete network construction, tunnelling discovery or general societal protection is claimed. Social moral competency remains the aiming through actual participation.
+
+**Reading standing:** the [fresh reader](reviews/Fresh_Reading_Local_Carrying.md) and [harm reader](reviews/Harm_Reading_Local_Carrying.md) read the three craft files whole, the proposed section and its prior, adjacent text and specified source/tables. Both find the initial local departures met. Their scope is the incoming section, not the whole duplicate. The offered section is ready for the managing's reading at its carrying; the root file is unchanged.
+
+
+## New managing contribution received before this offering
+
+Main and v380R advanced to `bdbe12d` during this pass. Read the new Progress and `Exhibit_ONE_Improving.md` whole, and the complete changes at Natural Resolver's carrying, Living Improving Value and the Session Record. No root living file or resolver changed. The managing now aims Natural Resolver first, beginning with what crosses and what is the self's own.
+
+The gathering puts *the self's prior momentary is unique, unshared, unshareable and invisible* beside *one self's existing, released, is the other's possibling*. It also says that a receiver of successive released parities can receive the source's whole carrying parity by parity. This working's proposal preserves outward consequence and local released/chained agreement without equating released values with the self's private momentary. The meaning concern remains for both, now explicitly at Natural Resolver's carrying; our new own entry offers that distinction there. The networking section is a proposed explaining for that reading, not a decision of this concern.
+
+The gathering's attribution of *along* to this working's own continuation is met by our current passes: the same self's next prior and the external along join are already distinguished; we propose no renaming of all joins as across. Its zero finding is also received: the software list can carry a zero token to the receiver even though zero surfaces no offering. The earlier warning against treating zero as an emitted natural object does not deny that software entry. None of these receivings authorizes an inward-carrying experiment.
+
+No new managing instruction requires loss of earlier work. The original duplicate, earlier readings, superseded sayings and whole prior passages remain available. The completed records accompany our carrying entries; the managing's Natural Resolver motion is the next living-file aiming.
+
+
+## Checks, preservation and readiness at this receiving
+
+Current main `bdbe12d` is received into this working. The simultaneous additions at Natural Resolver’s carrying are preserved whole, each at Concern: the managing’s two entries and this working’s entry. No other contribution is edited. Root living files and the published kits match current main; the section’s text outside “Local carrying and the shared crossing” matches the opening working, and its whole prior is preserved.
+
+The structural check returned ALL PASS with its advisory notes; its root inputs are unchanged by the managing arrival. Its published-code smoke example is a software check, not a network experiment. The carrying check reports intact kit sums and present carryings. The reader check obtains the contribution diff and reports findings, not an all-pass result: existing Entering/Adding differences, a count not matched by its text pattern, and words in the historical duplicate and incoming records. Raw outputs and the earlier failed diff attempt remain in `reviews/`. Final checks after the managing receiving are at `reviews/reader_checks_final.txt` and `reviews/carry_check_final.txt`; earlier returns remain beside them. The reader findings do not authorize erasing the older journey or changing another working’s living file.
+
+**Ready for the managing to receive:** this working’s carrying entries and the supported section proposal. **Not offered as ready for main:** a root Natural Networking motion or the whole duplicated exhibit. The fresh and harm readings found the local corrections met; adjacent older mechanics, the caller correspondence and the managing’s meaning concerns remain explicit. Publishing this contribution makes the exact offering available for the other workings to read.

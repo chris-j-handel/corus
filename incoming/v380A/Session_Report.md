@@ -908,3 +908,57 @@ The fresh reading here is of v380L's report and progress, not a rerunning or rev
 The current main is received into this working without replacing its incoming contribution. Progress, the report, the README and the passes receive the managing arrangement. Own entries are added at the carryings of Natural Networking, Natural Naming, Natural Intelligence, the Geodesic Improving Method and the Living File Registry. The managing alone receives these into main.
 
 No living-file motion is offered as ready. No naming is decided and no natural-network experiment is performed. The required repository checks and fresh readings remain to accompany the concrete living-file motion; integrity checks of this receiving establish document preservation only.
+
+
+## Continuing coupling: do no harm and social moral competency
+
+### Standing and what was received
+
+This pass opened at v380A `fa267ce917708e30233321c0ac7e3078d25d07af`, current main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`. The managing's current Progress was read whole at v380R `f6b91f9d930eace1edb48065b887806aff0eb5dc`. v380L remains at `7adb3a5e864c7c4bc2e4ebf7cc01f0f837c9ef54`, whose README and Progress were read whole at the prior receiving. Its released/chained parity agreement is received here at the releasing self's own relation. The actual coupling to a receiving self is said separately. The three required craft files retain their previously read identities; both independent readers read them whole again for this section.
+
+The managing arrangement requires no harm to the previous contribution. The earlier preservation concerns remain in Progress. This pass improves our incoming Natural Networking alone and offers own entries at the relevant carryings. The root living file, root kit and other workings' entries remain unchanged. The managing's named next whole-file motion remains its own aiming; this section does not claim to complete that motion.
+
+### What changed and why
+
+The complete section “Local carrying and the shared crossing” is re-said in six paragraphs. Its earlier three paragraphs remain whole in Prior Passages and in the review's prior. Carrying is living opens the section. Released/chained agreement is located at the releasing self, while actual arriving participates in the receiver's own resolving. Is-still-possibling continues living. The source's quiet release is then followed at the receiver's conditions. The prior's positive outward consequence remains explicit, and social moral competency is followed at the participating couplings.
+
+**Two sayings, with their reason.** The prior says that differences in carrying can have outward consequences through continued coupling, while a sign-only crossing does not establish society's protections or an inability to infer any difference. The proposal says that the self's carrying participates in its further releasing; the other receives at its own sharing, with no inward access to that private prior. A protection or inference claim belongs at that actual complete participation. The reason is to carry the prior's positive relation onward with carrying/living and the private self-momentary, while retaining the limit on what the local source relation establishes.
+
+### Discovery, value and concern
+
+A source's no-changing is not the receiver's no-changing. At an already carried sharing, surfaced offerings agreeing with its parity give no changing and the prior continues. The opposite parity, parting offerings and none surfaced invert that prior. A zero released by another self supplies no offering; with no other surfaced offering, the receiving self's already carried parity therefore inverts. Further offerings must be met at that receiver's own sharing. This follows from the published source and offering/chaining tables; it was not established by a networking experiment.
+
+This gives the next tunnelling exploration a precise local relation without a shared momentary or a common pace. Quiet alone identifies neither a stopped self nor lost competency. Parity recurring identifies neither an actual joining nor a shared private prior. Social moral competency is the participating relation we aim to discover; no general security or immunity result follows from this section's improving.
+
+The adjacent “Routing at the coupling” still carries a second sign, and the preceding surface account allows quiet ten with an ongoing release at six. The current source uses one carried parity per sharing and equates six with ten's release at that resolving. Both old sayings need their own complete re-saying before this duplicate is coherent. The proposed first/second arrivals likewise remain open at Natural Naming's concern; this pass does not decide their ordering.
+
+### What the readers found and what was learned about working
+
+The fresh reading and reading for harm each read Natural Naming, Natural Explaining and the Geodesic Improving Method whole, then the section's whole prior and proposal with adjacent passages and the stated resolver source/tables. Their reports specify exactly what was read and what was not.
+
+The first draft let parity recurrence imply coupling, omitted absent and parting offerings, made the prior's outward participation less explicit, and risked granting protection from continuation. The revised section meets all four findings. Both readers then read the revision. The fresh reader's further precision, receiver's *resolving* in place of receiver's *changing* in the final sentence of the quiet-release paragraph, is received: with other offerings, resolving can give changing or no changing. The reports retain both readings; their local agreement is not a whole-file or whole-society claim.
+
+The working lesson is to preserve the subject as well as the words: one self's released/chained equality, another self's receiving, one surfaced offering and the offerings at a sharing are different relations. Preserving a prior artifact alone does not preserve its positive value in the new sentence. The new sentence must carry it onward.
+
+A coordination correction is also made: this working's three earlier Ready entries were appended below Concern at Natural Networking, Natural Intelligence and the Living File Registry. Those exact paragraphs are moved under Ready, unchanged. Their labels alone did not give them the correct place for reading or counting. No other working's entries move.
+
+### Checks and their actual reach
+
+The required checks were invoked from the repository root. `check_set.py .` returned ALL PASS, with its advisory notes. It also executes the published resolver's small smoke example; that software representation check is not a living-network experiment. `carry_check.py .` reported intact kit sums, single root living versions and present carryings. The returned outputs are preserved under `reviews/`.
+
+The first reader-check attempt could not obtain a needed Git diff because a partial-clone object required network access. Its failure is retained, not counted as agreement. The rerun with access obtained the diff and reported 806 findings over the contribution since the current main merge-base, including the historical duplicate and records. These are mechanical readings to meet, not an all-pass result or 806 independently established conceptual errors. Five existing Registry groups have differing Entering and joined Adding sayings; this working offers that bounded finding at its carrying. The check also could not match the Living File Registry's count in its expected textual form; that message is not proof that the number is absent. Existing retired sayings were reported in root files unchanged by this pass. Final receiving and check details are recorded in Progress.
+
+### Next opportunity and offering
+
+The proposed section is ready for the managing to read at Natural Networking's carrying, with whole prior and both reviews beside it. Next receive the adjacent old mechanics into their own complete passages, then follow the actual caller and overlap correspondence through the existing joins. The record offers no completed living-network construction, tunnelling discovery, root motion or societal protection result. It does offer a more exact participating relation from which to continue the expedition together.
+
+
+### Further arrival before publishing: the managing's resolver gathering
+
+Main and v380R advanced during this pass to `bdbe12d`. Their new Progress and `Exhibit_ONE_Improving.md` were read whole, together with the full changes at Natural Resolver's carrying, Living Improving Value and the Session Record. Natural Resolver is now the first living-file aiming. No root living file changed in that arrival, so the source relationships and readers' text remain at their stated versions.
+
+The new gathering brings our private self-momentary beside the other working's released existing becoming the receiver's possibling. It further says that a receiver can receive the source's whole carrying parity by parity. The two subjects must remain visible: agreement of released and chained parities is a value relation at the source; the private momentary is the self's continuing. Our revised section expressly preserves outward consequences and the scope of inference at actual receiving, and claims neither that inference is always possible nor that it is impossible. An own Concern is offered at Natural Resolver's carrying. This is an offering at the managing's concern, not its settlement.
+
+Two attributions also need their current reach. Our passes already distinguish the own continuation at eleven to next three from the external along join at nine with seventeen; this pass offers no renaming of joins. A software zero entry can arrive at the receiving function and be passed over without surfacing an offering. The earlier warning about zero as an emitted object is bounded by that actual list representation; it cannot assert that the software transmits no zero. The passage on quiet releasing carries this distinction.
+
+The managing's concern about history and persons at incoming is met at the rule's scope: incoming preserves provenance and correcting history; living files and carryings carry the relation. Removing the incoming journey would harm the preserved work. No existing shared entry is rewritten to settle that scope.

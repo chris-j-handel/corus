@@ -1,0 +1,20 @@
+1. Exhibit THIRTY: Exhibit_THIRTY_Co-Chaining_Logic_Registry_v379.md
+  ## 2 Arriving and carrying, living and non-living: Entering is not its Adding lines joined
+  ## 20 Sharing, the seventeen names: Entering is not its Adding lines joined
+  ## 24 Discovering next possible existing: Entering is not its Adding lines joined
+  ## 26 Fractal inward and outward: Entering is not its Adding lines joined
+  ## 30 Intelligence, our now: Entering is not its Adding lines joined
+   read 599 steps in 32 groups
+2. The registry's numbers for Exhibit THIRTY
+  the registry's number of steps not found
+3. Released words among the words added since the merge-base with origin/main
+   the merge-base read: 33b875f9b1
+  git diff --word-diff=porcelain failed: fatal: unable to access 'https://github.com/chris-j-handel/corus.git/': Failed to connect to browser-proxy port 8889 aft; this check read nothing of it and agrees with nothing
+   read 0 added words
+4. Retired sayings at the living files
+  "co-offering": Exhibit_THIRTEEN_Resolving_Hard_Problems_v379.md 1; Exhibit_SIX_Natural_Transmissioning_v330.md 7; Exhibit_FIFTEEN_Natural_Emanating_v329.md 2; Exhibit_ELEVEN_Natural_Medicine_v331.md 7; Exhibit_TEN_Natural_Health_v329.md 1; Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v375.md 6; Exhibit_FIVE_Natural_Engineering_v345a.md 70; Exhibit_THREE_Natural_Numbers_v379.md 1; Exhibit_FOUR_Natural_Mathematics_v378.md 2; Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v345a.md 2; Exhibit_SEVENTEEN_Natural_Biology_v333.md 42; Exhibit_TWO_Natural_Networking_v371.md 5; Exhibit_EIGHTEEN_Natural_Physics_v379.md 5; Exhibit_TWELVE_Natural_Explaining_v378.md 1; Exhibit_NINETEEN_Natural_Philosophy_v348.md 1; Exhibit_NINE_Natural_Human_Society_v329.md 10; Exhibit_SEVEN_Natural_Societies_v373.md 2; Exhibit_SIXTEEN_Natural_Chemistry_v346c.md 3; Exhibit_TWENTY-THREE_Natural_Values_v333.md 3
+  "living society": Exhibit_THIRTEEN_Resolving_Hard_Problems_v379.md 1; Exhibit_TWENTY-FIVE_Living_Society_Registry_v347.md 2; Exhibit_TWENTY-SIX_Living_File_Registry_v379.md 23; Exhibit_TWENTY-NINE_Natural_Illustrating_v379.md 9; Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v345a.md 2; Exhibit_SEVENTEEN_Natural_Biology_v333.md 2; Exhibit_TWO_Natural_Networking_v371.md 2; Exhibit_EIGHTEEN_Natural_Physics_v379.md 2; Natural_Intelligence_Corus_v330.md 2; Exhibit_SEVEN_Natural_Societies_v373.md 2
+  "not-self": Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md 1; Exhibit_TWENTY-SIX_Living_File_Registry_v379.md 1
+   read 8 sayings at 32 files
+5. Step numbers the carrying names, with each step's opening words
+10 said, each for a reader to meet

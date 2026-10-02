@@ -104,3 +104,17 @@ Replaced paragraphs preserved from working commit `3869d3be64ee4f4396d996425675d
 **The two sides carry four positions each, sharing three and reaching five together.** One side's 1, 2, 3, 4 meets the other's 2, 3, 4, 5, the outer 1 and 5 and the shared 2, 3 and 4 giving five distinct positions. Each side's two momentaries open and complete at their own positions through this overlap.
 
 **Carrying is intelligencing, invisible and untouchable.** Each self continues through its own prior into now. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.
+
+
+## Local carrying and the shared crossing — prior to the continuing-coupling pass
+
+Preserved whole from the working copy at fa267ce917708e30233321c0ac7e3078d25d07af. The proposed re-saying carries the private continuation, further outward consequences and the distinction between a local crossing and societal protection. The fresh and harm readings accompany the proposal.
+
+## 5.6 Local carrying and the shared crossing
+
+**A sign meets the other through the receiving coupling.** Each self keeps its own carrying. The shared crossing carries the offered sign, while the source continues through its own momentaries and the receiver resolves through its own prior.
+
+**The crossing's limits are met at further receiving's discovering.** A single sign is one sign and the source's whole carrying continues at the source, yet differences in carrying can have outward consequences through continued coupling. Direct transfer of carrying and discovering a consequence of carrying are different relations.
+
+**Protection at society needs the complete shared continuation.** The private local return and sign-only crossing are concrete constraints of this method. They keep each self's carrying at that self, and a carried difference can still show outward through continued coupling. Total invisibility, an inability to infer any carried difference and immunity to capture are each a stronger claim, carried at its own coupled relation and evidence. The inquiry continues through the selves' actual receiving, carrying and releasing.
+

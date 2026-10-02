@@ -94,3 +94,19 @@ Current aiming is read at v380R's “The managing, from v380R to v380L and v380A
 Carrying and living are one at the self. The proposed arriving social prior followed by arriving own prior is met beside Natural Naming's self opening with carrying and completing with offerings. Natural Naming's carrying already has the first-parity/completing concern. Do not settle it by the order of written operations, by exchanging prefixes, by dividing a duration, or by giving either self the other's private prior. The report records the two sayings and the possible relation to the other, even-opening side.
 
 Before a living-file motion is offered: the repository's three required checks at the root, a fresh reader read in at Natural Naming, Natural Explaining and the Geodesic Improving Method, and a reading for harm beside the file as opened. No such motion is marked ready at this receiving.
+
+
+## Continuing coupling and social moral competency received
+
+One complete section, “Local carrying and the shared crossing,” is improved in the incoming duplicate. This advances the explaining in B, C, D and L; it does not complete the caller's correspondence in F. Its prior is preserved whole, and both readers' initial findings and second readings remain at `reviews/`.
+
+The next concrete correspondence is the quiet release at the actual receiver. A releasing self continuing at an agreeing carried parity releases zero; zero surfaces no offering at the receiver. With no other offering at an already carried sharing, the receiver inverts; with other offerings, their surfacing participates. These are source-and-table relations, not an executed natural-network result. Released/chained equality is local to the releasing self and cannot supply an unstated join.
+
+For the next coherent passage, meet “Routing at the coupling” and the nearby saying that a quiet ten can accompany an ongoing release at six. Current source equates six and ten's release at that resolving; the older second sign belongs to the older engine. Preserve their intended outward continuation while re-saying them at actual receiving. Keep the proposed first and second arrivals open beside Natural Naming's self-opening, with no ordering inferred from code layout.
+
+Social moral competency remains the aiming at complete participating couplings. Follow the particular relation through actual releasing and arriving; one quiet release, one recurring parity, or private continuing alone cannot establish society's competency. Continue the existing six connectors with each self's own living. No inward-carrying experiment or completed protection result is proposed.
+
+The three repository checks were run at the root for this incoming proposal. Their reports distinguish structural agreement, mechanical findings and human readings. Their execution does not make the older whole duplicate coherent or offer a root living-file motion as ready.
+
+
+The managing's further arrival at `bdbe12d` aims Natural Resolver first, especially what crosses and what is the self's own. The local networking proposal now accompanies that concern: released parity agrees with the source's chained parity, and actual receiving supplies no identity with its private momentary. Keep the possibility of outward inference beside the private self-momentary. The source's own continuation and the external along join remain distinct; the software zero entry arriving and the absence of a surfaced offering likewise remain distinct. These are offered at their exact subjects, with no general renaming or new experiment.
