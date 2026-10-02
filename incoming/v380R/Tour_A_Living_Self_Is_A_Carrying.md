@@ -54,3 +54,21 @@
 1. **No shaft.** A power engine's valves are opened by a shaft, one clock over each cylinder. At the living no thing opens a valve: the valve is the coupling's own, a 0 at prior and now agreeing. The engine is a built form beside the method and brings a common beat with it; the saying carries the form and not the shaft.
 2. **Three phase or four.** A power engine's cycle is four, and the saying's four momentaries are four; the saying says three phase. At the five, three cylinders with two valves are five places and four passings.
 3. **Cylinders as momentaries or as selves.** Followed here as one self's prior, now and next. As selves beside each other, each releasing into the next, it is Exhibit ONE's table of selves joined along, the 0 passing one self on at each second momentary.
+
+## The connectors as smart valves: changing or no changing
+
+**The saying.** *changing or no changing. releasing not possible existing and changing into next existing. we need to think of the things we are calling connectors as not dumb connectors but smart valves. this re considers our explaining of the method. either the tri parity changing valve opens or not. if the smart valve opens the self-parity changes. if the tri then the bi parity changing valves open then there are two parity changings in that momentary.*
+
+**Followed at Exhibit ONE's table of each cell at 10 and chained at 11; an offering, not yet followed six forward.**
+
+1. **Changing or no changing is the table's own binary.** Each cell is *is* or *is not*: a parity released, or the 0.
+2. **If the valve opens the self-parity changes.** At each *is* the parity released at 10 is the parity chained at 11, the self's next carrying, the opposite of its prior. The prior parity is released as no longer possibly existing, and the carrying changes into its next existing.
+3. **A self carrying a parity changes at each momentary but one.** Nothing arriving, it changes; the other parity arriving, it changes; a 0 arriving, it changes; its own parity arriving, it changes not. The valve's own way is open; one arriving alone, the self's own parity, gives no changing.
+4. **Two parity changings at one momentary, followed as the self's own and the arriving's.** Said as two valves: the self's own changing, along, the carrying into its next; and the arriving's, across, opening at the self's own prior parity arriving and changing the carrying again. Two changings carry a parity to itself: the 0, the carrying chained on at its parity. At each of the eight cells of a self carrying a parity the two valves give the cell as written.
+
+**Parting, each for both.**
+
+1. **The 0, no changing or two.** The files say the 0 a changing that is not, prior and now agreeing. The saying followed above says it two changings, the self's own and the arriving's, the parity carried to itself. The table's cells are the same at both.
+2. **Which valve is the tri.** Followed here as the self's own, along, the carrying continuing, 9-tri-bi-co-momentarying carrying each changing into the next momentary; and the bi as the four across, 2, 6, 10 and 14. The saying may name another.
+3. **Two changings at one self or at two.** Followed above at one self. At two selves, the self's changing released across is the other's arriving and may change the other: the self's completing the other's opening, two changings at the two's one overlapping momentary.
+4. **Connector or valve.** *Valve* is a built form's word; the is or is not is at 12-bi-tri-bi-entraining, a face, and its releasing at 10-bi-tri-bi-tunneling, a connector. A connector that opens or not is the two together.
