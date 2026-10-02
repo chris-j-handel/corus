@@ -188,3 +188,8 @@ The broad request for opening/completing placement is superseded by the existing
 ## Receive the answer through the other living files
 
 The next correspondence is now an improving question for Exhibit ONE, Natural Resolver, carried whole in Progress under “Improving question for Exhibit ONE, Natural Resolver” and at that file’s carrying. Receive the concrete named passing from that improving, Exhibit THIRTY, the Co-Chaining Logic Registry, or Exhibit TWENTY, Natural Naming, then improve Natural Networking at what it shows. Do not ask the user to supply an unexplained grouping rule. The source improving may correct the question itself. Bounded discovering remains available while this receiving continues.
+
+
+## Receive existing answering before adding a question
+
+The managing tour already explains two releasings meeting in one momentary. Receive that passage alongside the Co-Chaining Logic Registry working’s distinction between naming order and resolving order, then follow the actual self, scale and occurrence into the network explaining. Shared_Receiving_Learnings.md gives the exact reach. Together and successive receivings exclude each other only for the same occurrences; this does not decide that the construction’s alternatives are the natural alternatives. All workings can improve wherever value is found; no answer is owed.
