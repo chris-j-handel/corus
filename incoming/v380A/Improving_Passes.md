@@ -135,3 +135,8 @@ The first executable proceeding is now concrete: two own software continuations,
 Next meet the own momentary through not-arriving. The actual source passes zero over while the construction calls the receiver; those sayings are offered at Natural Resolver. Then meet multiple arriving releasings at that self's own receiving without an added gathering rule. Follow the session's *a self releasing is a tri arriving* at the across arriving's inward nine and the along arriving's own seam, preserving the scale and each self's private momentary. The pair supplies no third participant or six-forward result by itself.
 
 “Geodesic routing, continuing through changed participation” now carries quiet releasing with continuing living and the other self's own resolving, with its entire prior preserved. This receives the earlier readers' adjacent finding. Its unfilled natural activation relation stays beside the bounded execution; each further concern goes to its own file without awaiting a larger network test.
+
+
+## The offered six cycling
+
+Follow the session’s self arriving/releasing, bi arriving/releasing and tri arriving/releasing through each actual passing. The complete offering is at Six_Cycling_Offering.md. Meet it beside the three own-forward changes at each side and the three external releasings with their arrivings; establish the relation at each rather than identify them by the count. Keep self releasing/tri arriving as a possible single passing at two named relations, and keep the self’s own continuation private. This concern is at Natural Resolver before any larger network execution; its resolving returns to Natural Networking’s explaining.

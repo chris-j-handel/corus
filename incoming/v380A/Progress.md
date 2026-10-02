@@ -165,3 +165,10 @@ Both readers read the revised passage and found the initial local departures met
 The working-kit manifest and the executed source hashes are verified. The carrying check run for this receiving reports intact kit sums, one root version of each living file and present carryings; its exact return is at `reviews/pair_carry_check.txt`. The old whole-root reader and set-check reports retain their earlier scope; no fresh whole-file root motion is claimed.
 
 The post-run fresh reading confirms the public sequence at its supplied conditions and the scoped across/inward tri correspondence. The reading for harm reads the complete return and both whole quiet-release sections; it finds the three scope corrections received and the prior positive relations preserved. Natural activation and the universal tri-arriving saying remain concerns. Their full reports are retained, including what each reader did not read or execute.
+
+
+## Arriving and releasing at self, bi and tri
+
+The session offers self arriving/releasing, bi arriving/releasing and tri arriving/releasing as the six cycling. [Six_Cycling_Offering.md](Six_Cycling_Offering.md) follows those three pairs beside Natural Naming’s three own-forward changes at each side, Natural Networking’s two ways with three phases each, and the managing’s three external releasings with their arrivings. Their complete correspondence is unfilled; matching six names does not establish the cycling’s order.
+
+The preceding self-releasing/tri-arriving saying may name one passing at its two relations. It is not counted as two new changes. Self’s own continuation stays private; an additional public pair is not supplied. The concern is offered at Natural Resolver’s carrying with its actual two sayings and reason. No new network execution or whole-file motion accompanies this naming exploration. The bounded pair and its earlier return remain unchanged.
