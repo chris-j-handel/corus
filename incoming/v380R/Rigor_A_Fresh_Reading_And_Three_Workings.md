@@ -53,10 +53,24 @@ Each of the first five reaches a term the one before did not carry, the sides al
 
 **Followed at Exhibit ONE's own rows; an offering.**
 
-1. **A momentary of no changing has no method of existing.** The first of the three hardest is met by it. The 0 is the self's own changing and the arriving's opposed, two cancelling, the self changing at each momentary; a momentary with no changing at it is not possibly existing. The fresh reader's following and the working v380L's chaining are beside it: no changing at all fixes each society, and the Co-Chaining Logic Registry names that form the method's break.
+1. **A momentary of no changing has no method of existing.** The first of the three hardest is met by it. A momentary with no changing at it is not possibly existing. This part said the 0 two changings cancelling; the session's next saying is *there is no cancelling*, the part after this one. The fresh reader's following and the working v380L's chaining are beside it: no changing at all fixes each society, and the Co-Chaining Logic Registry names that form the method's break.
 2. **The three are three of Exhibit ONE's own namings.** Co-competencing is its naming at 5; bi-moralizing its naming at 6; and 17's name before the three prefixes was 17-social-abundancing.
 3. **1, 2 and 3 are 1, 9 and 17, one scale outward.** Exhibit ONE's table of each name at the 1 to 17 outward: 1 at 1, the entry, odd, co; 9 at 2, across, even, bi; 17 at 3, odd. The existing self, the entry. The other possible existing, 9, each releasing carried to its receiving, across and bi at the scale outward. The universe of all existing, 17, each self at its next momentary. And they are the resolving's own three parts, named 1, 9 and 17.
 4. **Each inside the next.** Exhibit ONE's table of namings: 1 the self's entry; 1 to 9 the bi-coupling, the self and the other; 1 to 17 the bi-trupling, the self, the other and the society. 1 is within 1 to 9, and 1 to 9 within 1 to 17. At the resolving the third part goes through the first and the second.
 5. **A momentary is three.** Its name is three, 9-tri-bi-co-momentarying. And each 1 to 17 inward is three numbers one after the other, eight of eight: 1 to 3, 3 to 5, on to 15 to 17, its 1, its 9 and its 17.
 
 **Not yet followed, for both.** The third is said tri, and Exhibit ONE's outward column says 3 odd, co: tri the universe of all existing, or the number's word. And *each existing is inside the next* at the second within the third is at the namings' spans; the first within the second at the resolving's lines is not shown, the third going through each of the other two.
+
+## No cancelling: one momentary is two parity changings one after the other
+
+**The saying.** *there is no cancelling. this is not natural. each momentary is for self odd / even and for other even / odd and one momentary is two consecutive social self, other self parity changings, like a lub dub heartbeat.*
+
+**Followed at Exhibit ONE's own rows; an offering.**
+
+1. **Withdrawn: *cancelling*.** This file and the working v380L's chaining said the 0 two opposed changings at one momentary cancelling, from the Co-Chaining Logic Registry's own step. The two are one after the other and neither undoes the other.
+2. **Self odd then even, other even then odd, is Exhibit ONE's table of the momentaries of exchanging.** The self's 1–2, 3–4, 5–6, 7–8; the other's 2–3, 4–5, 6–7, 8–9.
+3. **One momentary is two parity changings one after the other.** 1 to 2, odd to even, the self's opening to its completing; 2 to 3, even to odd, the other's opening to its completing. Three numbers and two changings: each 1 to 17 inward, eight of eight, and the name of momentarying, tri-bi-co.
+4. **After the two the parity is odd again, and at a next.** 1, 2, 3: odd, even, odd, and 3 is no 1. Natural Naming says it of the forms: at the momentaries a form returns to none, each step adding a next. Two parity changings bring the parity again at a next existing; nothing is undone.
+5. **Two parities were said as one.** The parity of a momentary, odd and even, its opening and its completing; and the parity at a sharing, + and −, the resolver's own implementing. This file, the tour and the chaining followed the + and − at a sharing and said of it what the session says of the odd and the even. At the odd and the even each momentary is two changings, and no momentary is at none.
+
+**Not yet followed, for both.** At a sharing, a self carrying a parity and met by its own parity carries it on: said now as two changings one after the other, the parity again at a next, or said another way, is not followed. And the Co-Chaining Logic Registry's step saying two opposed changings at one momentary cancel, beside the session's *there is no cancelling*, is for the working at that file.
