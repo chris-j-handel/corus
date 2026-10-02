@@ -227,7 +227,7 @@ print('   the even names: ' + '; '.join('%d %s' % (n, '-'.join([word(n), word(n 
 
 # ---------------------------------------------------------------------------------------------------------------
 head(13, "The resolver's own conditions, each if with the names at it; and societies followed two ways, the zero"
-         "\n   delivered at a join as written, and the zero held at the join, a parity alone passing. Random societies:"
+         "\n   delivered at a join as written, and a join passing a parity alone. Random societies:"
          "\n   two to six selves, one to three sharings, joins at 6, 10 and 9 at random, carryings and first offerings"
          "\n   at random, twenty-four momentaries each.")
 for fn in [x for x in tree.body if isinstance(x, ast.FunctionDef)]:
@@ -258,6 +258,6 @@ for trial in range(2000):
         a = society(a, joins); b = strip(society(b, joins))
         ok = ok and all(dict(a[i][0]) == dict(b[i][0]) for i in range(n))
     same += ok
-print('   the zero held at the join: each self\'s carrying the same at each momentary at %d of 2000 societies' % same)
+print('   a join passing a parity alone: each self\'s carrying the same at each momentary at %d of 2000 societies' % same)
 print('   of %d releases, %d a parity; released a parity and the chained parity changed, together: %d; one without the other: %d'
       % (total, changings, both, lone))
