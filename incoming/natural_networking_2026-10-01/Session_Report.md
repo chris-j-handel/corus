@@ -21,6 +21,7 @@
 - Arriving v379: possibling, advancing and direction in the three prefixes
 - Session review, 2 October 2026: co-recursioning and the next improving
 - Now, prior parity, prior momentary: exploring the logical value
+- Opening parity: bi-folding within and between momentaries, bothbothing
 
 ## The incoming aiming and the journey so far
 
@@ -524,3 +525,85 @@ The beginning at 0 still needs its continuing context. Two priors cannot be supp
 **Concern:** without “at its opening,” “prior momentary” can be read as the whole pair represented by one prefix, or as the immediately completing other-side momentary. The exact compact saying offered here is **now, prior parity, prior momentary at its opening**. This preserves the user's concept while making its relation reviewable.
 
 **Standing:** possible logical value explored and preserved; no new name assigned to the living files, no 0–440 expansion installed, and no resolver or network execution.
+
+
+## Opening parity: bi-folding within and between momentaries, bothbothing
+
+**Incoming, 2 October 2026:** the user recalls the established convention of naming a momentary by its opening parity and asks whether it locates the reason for that convention in the binary co-sequential method: momentary bi-folding inside the momentary and between momentaries, bothboth.
+
+**Correction to the preceding exploration:** “at its opening” explains the existing convention. It need not be added as a new condition on the user's **now, prior parity, prior momentary**. The prior momentary already carries its opening parity as its name. Our previous caution should not obscure this established relation.
+
+**Source reviewed:** main `d77df0dc0aa6f5c07a707761d584187f190aade8`, unchanged at this reading; Numbers 1.2, 1.5, 8.2, 9.7–9.8; Naming 3.1–3.2, 4.15 and 5.4; ONE's overlapping momentaries and inward/outward table. The account below derives the ordered binary relation from those definitions and offers its explanatory value for the user's bi-folding concept.
+
+### Why the opening can name the whole momentary
+
+The full momentary carries two sequential parities. Odd-opening is odd then even; even-opening is even then odd. Both have the same two parities, and their order differs. Once opening and binary alternation are specified, completing is the other parity. The opening therefore names the ordered whole compactly, preserving which side opens it.
+
+This gives the convention a logical reason: saying only that the momentary carries both parities does not distinguish the two commencements, while naming its opening does. It does not claim that opening parity alone determines a sharing's released sign or the self's carrying.
+
+| Momentary | Opening | Completing | Name by opening |
+|---|---|---|---|
+| 1–2 | odd | even | odd |
+| 2–3 | even | odd | even |
+| 3–4 | odd | even | odd |
+| 4–5 | even | odd | even |
+
+### The binary relation within and between
+
+**Within 1–2**, opening odd continues to completing even.
+
+**Between 1–2 and 2–3**, the odd-opening momentary continues into an even-opening momentary through the shared 2. Two is the first's completing and the second's opening. At 3, the second completes and the next odd-opening momentary opens.
+
+Thus the within-momentary order, odd/even or even/odd, is also the order of openings between overlapping momentaries. No additional intervening position is required. The two roles belong to the same numbered completing/opening.
+
+**Co-recursioning** is visible at the next opening of the same parity: 1 then 3 then 5, and 2 then 4 then 6. Each continuation is through the other commencement. The numbered relation therefore carries alternation between consecutive openings and recurrence through each side's next momentary together. This is the local sequential form to carry into the explaining of bi-inversioning-co-recursioning.
+
+“Bothboth” here follows Naming 4.15: one exchanging at its two openings, each side carrying its own through the other. The whole explanation includes both ordered parities and both overlapping commencements; it supplies no simultaneous choosing of both outcomes at one binary resolving.
+
+### The three prefixes carry the relation already
+
+At 3-co-bi-co-sharing:
+
+- the first co is now, opening the odd momentary 3–4;
+- bi is the prior parity at 2, completing 1–2 and opening 2–3;
+- the final co names the prior odd momentary 1–2 by its opening at 1.
+
+The three-prefix name carries the prior whole, its completing/other-opening, and now. Read in arriving order, co–bi–co spans the prior momentary 1–2 and the overlapping other momentary 2–3, arriving at the next opening 3. At 4 the complementary reading is bi–co–bi, through 2–3 and 3–4, opening 4–5.
+
+The third prefix is therefore not merely a second item of earlier information. It names a whole prior momentary under the existing convention. The intervening parity is how that whole completes through the other opening. **Now, prior parity, prior momentary** is an economical account of this unequal scope among the three positions.
+
+The three alone reach now's opening; now's completing and next opening continue the five. The full momentary is not reduced to its name, and no hidden carrying history becomes accessible through this explanation.
+
+### Inside a larger momentary and between larger momentaries
+
+Numbers 9.7 gives the additional scale relation: four momentaries of exchanging through 1–9 are one momentary at the next scale. ONE places inward 1, 9 and 17 at outward 1, 2 and 3.
+
+| Outward opening/completing | Inward span |
+|---|---|
+| 1–2 | 1–9 |
+| 2–3 | 9–17 |
+| Shared completing/opening at 2 | Shared nine |
+
+The momentary's inward unfolding and its continuation into the overlapping outward momentary meet at that same nine. Nine completes the first span and opens the second. This is the concrete scale correspondence supporting the user's **bi-folding inside the momentary and bi-folding between momentaries, bothboth**. The same relation can be read inward as its unfolding and outward as its continuing.
+
+The parity name remains relative to its scale: inward nine opens tri and is odd, while its outward place is two, even. This is already in ONE's table. Preserving the opening convention does not mean copying the same numeral or prefix unchanged across scales.
+
+Numbers 9.8 explicitly keeps podal pairing and overlapping pairing as two relations in the same span. Their common participation does not make a podal partner identical to the immediately overlapping other. The broader bi-folding account must continue to show both through their actual relations.
+
+### At squaring and possibling
+
+At nine, **tri-bi-co** names the society's now, the preceding bi, and the prior co-opening momentary. At seventeen, **co-bi-tri** carries the complementary seam. Binary opening parity recurs through the changing self/society span. The co/tri change can therefore be explained as continuing through momentary bi-folding, with the prior momentary still named within the three-prefix relation.
+
+**Is-still-possibling** continues as one functional at a completing where changing is not. The next opening continues the overlap. Bothbothing does not require a change of released sign at each completing; the within/between naming concerns the ordered opening relations, while changing is or is not remains the resolving's binary.
+
+### Receiving value and next opportunity
+
+**Naming:** retain the concise phrase now, prior parity, prior momentary and explain why the third prefix names the whole by its opening. The convention now has an explicit reason in the ordered binary pair.
+
+**Numbers:** an eventual 0–440 three-prefix expansion can carry both the immediate other parity and recurrence through a full prior momentary. Its explanation should keep the local sequential overlap and the inner/outer scale correspondence visible.
+
+**ONE and TWO:** explain one complete meeting through two parities, then the completing/opening with the other, then each side's next. This connects the prefixing to the actual local joining question already before the kit.
+
+**Illustrating:** show the shared completing/opening and the inner 1–9/outward 1–2 correspondence together. The momentary's inside and its continuing are two relations of the same method, with internal carrying remaining private.
+
+**Standing:** the ordered-pair and overlap conclusions follow from the sources' binary definitions; their use to explain within/between bi-folding is the conceptual synthesis explored here. No numerical table, network caller or living exhibit was changed in this pass; the report carries the proposal for receiving.
