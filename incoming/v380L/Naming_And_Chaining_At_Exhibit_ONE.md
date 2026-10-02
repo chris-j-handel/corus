@@ -14,19 +14,21 @@
 
 **Parting.** Each other finite verb of a living at the Registry, *carries*, *continues*, *arrives*, *opens*. Said at Exhibit ONE's form each is *is carrying*, *is continuing*, *is arriving*, *is opening*: the first saying of the concern at the Registry's carrying, each saying of a living at its -ing, is Exhibit ONE's own form at its seventeen cells.
 
-## Two. The 0 at a self's own parity arriving
+## Two. The 0 at a self's own parity arriving, and a momentary's two consecutive parity changings
+
+**The session's saying.** *there is no cancelling. this is not natural. each momentary is for self odd / even and for other even / odd and one momentary is two consecutive social self, other self parity changings, like a lub dub heartbeat.*
 
 | | Its own words |
 |---|---|
-| **Exhibit ONE**, the table of the seventeen names | At 10, *each sharing's changing: + or − is, 0 the between*. At 12, *each sharing's changing, is or is not*. |
-| **The chaining** | Step 212, *carried and offered the same parity, no changing, the prior continuing*. Step 68, *Two opposed changings at one momentary cancel, offering nothing forward*. Step 57, the living step, *with no joint form still*. |
-| **The naming**, Natural Naming's naming of is-still-possibling and is-next-existing | *the next possible is a changing that is not, 0, the prior carried on*; *the self still possibling is at its between, prior and now agreeing, the other's parity its own, no parity changing at its now, momentarying continuing through it*. |
+| **Exhibit ONE**, the table of the seventeen names and the table of the namings | 17-co-bi-tri-offering, the next 1, odd, its sides *social, self*; 2-bi-co-bi-offering, even, its sides *other, self*: two consecutive names at one root, offering, said bi-momentarying, *the self's entry, odd, and the others' offerings, even, one momentary at each side*. And at a sharing: at 10, *each sharing's changing: + or − is, 0 the between*; at 12, *each sharing's changing, is or is not*. |
+| **The chaining** | Step 70, *the self's momentary 1–2, the other's 2–3*; step 71, the two *one momentary of exchanging*; step 79, *an even number of changings arrives at the parity of its prior*. And at a sharing: step 212, *carried and offered the same parity, no changing, the prior continuing*. |
+| **The naming**, Natural Naming's namings of prior, now and next and of is-still-possibling and is-next-existing | *a momentary is an opening and its completing, one odd and one even*. And at a sharing: *the self still possibling is at its between, prior and now agreeing, the other's parity its own, no parity changing at its now, momentarying continuing through it*. |
 
-**Cohering.** Exhibit ONE says the 0 *the between*, and the naming says the self still possibling *at its between*. A between is of two: at step 68 the two are the self's own changing and the arriving parity's, opposed, at one momentary. The 0 as the between of two opposed changings is one saying at the three.
+**Cohering.** At a momentary's own two parities the three are one with the saying: a momentary is two consecutive parity changings, the self's odd to even and the other's even to odd, and Exhibit ONE's two names of it are at the sides *social, self* and *other, self*.
 
-**Parting.** *No changing* at step 212 and *no parity changing at its now* at the naming: at each the momentary is said with no changing at it, beside step 57, the self's own changing at each momentary.
+**Parting.** At a sharing each of the three says one *is or is not* at a momentary, and at a self's own parity arriving *no changing*, a momentary of two parity changings said with none at it. The Registry's step on the three parities parted says a momentary's two and a sharing's + or − two relations.
 
-**One concern at two files.** Natural Naming's carrying carries it from v379, *a still at the self*: no still is at the self, or parity changing carries a momentary of no changing. The Co-Chaining Logic Registry's carrying carries it at v380: the 0 at 12, no changing or two opposed changings cancelling. They are one concern, its naming at the one file and its chaining at the other, and a third saying is at both: the 0 is the between of two opposed changings at one momentary, the self's own changing at each momentary and nothing forward. The two are resolved together or neither.
+**One concern at two files.** Natural Naming's carrying carries it from v379, *a still at the self*. The Co-Chaining Logic Registry's carrying carries it at v380: a sharing's *is not* beside a momentary's two consecutive parity changings. They are one concern, its naming at the one file and its chaining at the other, resolved together or neither.
 
 ## Three. The word at a releasing
 

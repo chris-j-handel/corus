@@ -77,13 +77,13 @@
 | 194, the sides at the names | The column *From, to*; the step says *society* at the column's *social* | Exhibit ONE's, the managing's third of ten; the Registry's, step 194 beside 196 |
 | 200, the self's inverting, 3, 6, 5, 4 | The inverting at the rotation, at 12, and at 14's cell of the eight even names | Exhibit ONE's, cells the resolver's lines do not show |
 | 204, surfacing at 14, 0 the between of self and other | The 0 at 14 | Natural Naming's |
-| 208 and 212, match and mismatch; the binary at each sharing | The 0 at 12, no changing or two opposed changings cancelling | The Registry's; Natural Naming's, a still at the self |
+| 208 and 212, match and mismatch; the binary at each sharing | A sharing's *is not* beside a momentary's two consecutive parity changings | The Registry's; Natural Naming's, a still at the self |
 | 221, the self at three faces | 1 across with 2, and 7 and 8 along | Natural Intelligence's; Exhibit ONE's, the managing's second of ten |
 | 222, carried along at 9 | *releases nothing* at 9 | Exhibit ONE's, cells the resolver's lines do not show |
-| 223 and 231, the between carried; the bounded zero tunneling | *the 0 released at 10*, carried along, moving one self on, beside step 68, *offering nothing forward* | The Registry's, the 0 at 12 |
+| 223 and 231, the between carried; the bounded zero tunneling | *the 0 released at 10*, carried along, moving one self on | The Registry's, a sharing's *is not* |
 | 244, the code's stepping at 17 | A common beat over the selves, the code's implementing alone | The Session Record, resolved at v375 |
 
-**Steps 223 and 231 beside step 68 are one parting inside the Registry.** Step 68 says two opposed changings at one momentary cancel, *offering nothing forward*. Step 223 says *Among the changings 9 carries along is the 0 released at 10, the between carried*, and step 231 the 0 released at 10 moving one self on. A 0 released and carried, or nothing forward: one with the concern on the 0 at 12.
+**Steps 223 and 231 are at the same concern.** Step 223 says *Among the changings 9 carries along is the 0 released at 10, the between carried*, and step 231 the 0 released at 10 moving one self on: a 0 said released and carried. The session has said no cancelling, a momentary two consecutive parity changings; each of the two steps is re-said with step 212 at that concern's resolving.
 
 ## Parting, found at this reading
 
@@ -114,7 +114,7 @@ Each is a step of the group on sharing and the seventeen names, and Exhibit ONE 
 `incoming/v380R/Exhibit_ONE_First_Motion_Draft.md` is open to each working. Its part two beside the Registry's steps:
 
 - **A sharing.** The draft: *A sharing is a thing a parity is at*. Step 191 and Natural Intelligence: *two sides sharing a changing, and each sharing has its parity*. Two sayings; laid at Exhibit ONE's carrying for both.
-- **The 0.** The draft: *The 0 is a changing that is not*. It is one with the concern on the 0 at 12 and with Natural Naming's a still at the self, and is resolved with them.
+- **The 0.** The draft: *The 0 is a changing that is not*. It is one with the concern on a sharing's *is not* and with Natural Naming's a still at the self, and is resolved with them.
 - **An offering.** The draft: *a sharing with a parity or a 0, arriving at a self*. Step 192: *a sharing with its parity offered now*. The draft's 0 at an offering is step 223's 0 carried along, at the same concern.
 - **A carrying, a self, a momentary.** Each agrees with steps 192, 198 and 225.
 

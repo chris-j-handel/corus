@@ -75,7 +75,7 @@ Each names this folder. Three are ready, a sentence entering with no meaning cha
 | Natural Naming's | Concern: the zero at 14 | 6 |
 | Natural Naming's | Concern: *side* and *step* | 16 |
 | Natural Numbers' | Concern: *advancing* | 10 |
-| The Co-Chaining Logic Registry's | Concern: the 0 at 12, no changing or two opposed changings cancelling | The chaining |
+| The Co-Chaining Logic Registry's | Concern: a sharing's *is not* beside a momentary's two consecutive parity changings | The chaining |
 | The Co-Chaining Logic Registry's | Concern: the -ing at each saying of a living, and the words the motion leaves | The motion, at the Progress |
 | The Co-Chaining Logic Registry's | Ready: step 197, the seventeen names and the two lists beside them | The reading of the group on sharing |
 | Exhibit ONE's | Concern: a sharing, a thing a parity is at or two sides sharing a changing | The reading of the group on sharing |
