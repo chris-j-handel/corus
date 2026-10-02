@@ -1,0 +1,25 @@
+{
+  "Surface_Distinct_Arriving_Public_Reading.json": {
+    "source_hash_matches": true,
+    "public_handoffs_plus_declared_insertions_match": true,
+    "recorded_invocations": 16,
+    "private_fields_checked": false
+  },
+  "Surface_Meeting_Arrivals_Public_Reading.json": {
+    "source_hash_matches": true,
+    "public_handoffs_plus_declared_insertions_match": true,
+    "recorded_invocations": 16,
+    "private_fields_checked": false
+  },
+  "Surface_Changed_Coupling_Public_Reading.json": {
+    "source_hash_matches": true,
+    "public_handoffs_plus_declared_insertions_match": true,
+    "recorded_invocations": 16,
+    "private_fields_checked": false
+  },
+  "public_agreement_only": {
+    "distinct_arriving_gathered_outputs_equal_first_surface": true,
+    "whole_records_equal": false,
+    "private_equality_checked_or_claimed": false
+  }
+}

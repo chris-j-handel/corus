@@ -171,3 +171,20 @@ The next work in the six-connector and participating-construction passes is exac
 The preceding opening question limits a claim of independent natural pacing; it is not a stop on all bounded constructions. Receive the v375 record's already explicit distinction. The current society expression has now been run once with three-by-five periodic wiring, own continuations unobserved, public opening and later public insertion, and sixteen declared grouped invocations. See Surface_Construction.md and Surface_Public_Reading.json. Every designated receiver receives nonzero public parity before the later offering; no private fullness is claimed.
 
 The later minus meets an already parting public arriving and introduces no new surfaced alternative there. The next practical pass follows a distinct surfaced condition from an ordinary public arriving, keeping the whole beginning and continuing together. No restoration, copied control or privately selected intervention supplies it. Continue the natural-pacing correspondence beside that bounded discovering; do not ask the user to implement it before doing useful work at the existing expression's stated scope.
+
+
+## What the further perturbing makes concrete
+
+Three further bounded cases are complete at Perturbing_Cases.md. A changed surfaced condition can accompany the same gathered releases; adjacent public openings can produce quiet participation; removing one joining preserves already gathered arrivals and leaves the remaining offerings to their own resolving. Each construction and its limit stay with its return. Do not equate any of these findings with a private-state comparison, an isolated perturbation effect, protection, a hole or a natural rerouting.
+
+The next natural-surface correspondence is now at a concrete source difference: the same parities together at one uncarried sharing release parting, whereas those parities at successive receivings release successively. Follow which other/social arriving meets which self completing/opening in tri bi co bi tri bi co. That concern is at Natural Resolver without a network test as a gate. The session can help by locating the intended interleaving and scale; adding more runs under the current grouped receiving would not decide it.
+
+
+## Placement received; occurrence mapped
+
+The broad request for opening/completing placement is superseded by the existing Natural Naming passages. Surface_Receiving_Map.md now follows the actual public arrivals at a completing and its next in the changed-coupling construction, with the exact limits of derived public source attribution. The remaining contribution from the session is the natural membership of independently arriving releases in one completing, not the already written placement. Keep this narrower question beside ongoing bounded work, not as a blanket stop.
+
+
+## Receive the answer through the other living files
+
+The next correspondence is now an improving question for Exhibit ONE, Natural Resolver, carried whole in Progress under “Improving question for Exhibit ONE, Natural Resolver” and at that file’s carrying. Receive the concrete named passing from that improving, Exhibit THIRTY, the Co-Chaining Logic Registry, or Exhibit TWENTY, Natural Naming, then improve Natural Networking at what it shows. Do not ask the user to supply an unexplained grouping rule. The source improving may correct the question itself. Bounded discovering remains available while this receiving continues.

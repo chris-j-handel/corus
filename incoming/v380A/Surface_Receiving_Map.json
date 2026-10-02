@@ -1,0 +1,215 @@
+{
+  "standing": "derived exclusively from public record, supplied wiring and source iteration order; no private field read",
+  "condition": "one sharing only, at most one release entry per source; selected receivers have one public entry per candidate joined source, so no omitted source makes attribution ambiguous",
+  "mappings": [
+    {
+      "released_at_supplied_invocation": 6,
+      "receiving_self": "0:1",
+      "mapping": [
+        {
+          "releasing_self": "0:0",
+          "releasing_connector": 10,
+          "receiving_self": "0:1",
+          "arriving_connector": 14,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "0:2",
+          "releasing_connector": 6,
+          "receiving_self": "0:1",
+          "arriving_connector": 2,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "2:1",
+          "releasing_connector": 9,
+          "receiving_self": "0:1",
+          "arriving_connector": 17,
+          "public_parity": -1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 6,
+      "receiving_self": "0:0",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 6,
+          "receiving_self": "0:0",
+          "arriving_connector": 2,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "0:4",
+          "releasing_connector": 10,
+          "receiving_self": "0:0",
+          "arriving_connector": 14,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "2:0",
+          "releasing_connector": 9,
+          "receiving_self": "0:0",
+          "arriving_connector": 17,
+          "public_parity": -1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 6,
+      "receiving_self": "0:2",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 10,
+          "receiving_self": "0:2",
+          "arriving_connector": 14,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "0:3",
+          "releasing_connector": 6,
+          "receiving_self": "0:2",
+          "arriving_connector": 2,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "2:2",
+          "releasing_connector": 9,
+          "receiving_self": "0:2",
+          "arriving_connector": 17,
+          "public_parity": 1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 6,
+      "receiving_self": "1:1",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 9,
+          "receiving_self": "1:1",
+          "arriving_connector": 17,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "1:0",
+          "releasing_connector": 10,
+          "receiving_self": "1:1",
+          "arriving_connector": 14,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "1:2",
+          "releasing_connector": 6,
+          "receiving_self": "1:1",
+          "arriving_connector": 2,
+          "public_parity": -1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 7,
+      "receiving_self": "0:1",
+      "mapping": [
+        {
+          "releasing_self": "0:2",
+          "releasing_connector": 6,
+          "receiving_self": "0:1",
+          "arriving_connector": 2,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "2:1",
+          "releasing_connector": 9,
+          "receiving_self": "0:1",
+          "arriving_connector": 17,
+          "public_parity": 1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 7,
+      "receiving_self": "0:0",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 6,
+          "receiving_self": "0:0",
+          "arriving_connector": 2,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "0:4",
+          "releasing_connector": 10,
+          "receiving_self": "0:0",
+          "arriving_connector": 14,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "2:0",
+          "releasing_connector": 9,
+          "receiving_self": "0:0",
+          "arriving_connector": 17,
+          "public_parity": 1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 7,
+      "receiving_self": "0:2",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 10,
+          "receiving_self": "0:2",
+          "arriving_connector": 14,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "0:3",
+          "releasing_connector": 6,
+          "receiving_self": "0:2",
+          "arriving_connector": 2,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "2:2",
+          "releasing_connector": 9,
+          "receiving_self": "0:2",
+          "arriving_connector": 17,
+          "public_parity": -1
+        }
+      ]
+    },
+    {
+      "released_at_supplied_invocation": 7,
+      "receiving_self": "1:1",
+      "mapping": [
+        {
+          "releasing_self": "0:1",
+          "releasing_connector": 9,
+          "receiving_self": "1:1",
+          "arriving_connector": 17,
+          "public_parity": 1
+        },
+        {
+          "releasing_self": "1:0",
+          "releasing_connector": 10,
+          "receiving_self": "1:1",
+          "arriving_connector": 14,
+          "public_parity": -1
+        },
+        {
+          "releasing_self": "1:2",
+          "releasing_connector": 6,
+          "receiving_self": "1:1",
+          "arriving_connector": 2,
+          "public_parity": 1
+        }
+      ]
+    }
+  ]
+}
