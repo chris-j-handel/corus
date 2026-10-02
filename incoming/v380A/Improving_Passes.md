@@ -145,3 +145,29 @@ Follow the session’s self arriving/releasing, bi arriving/releasing and tri ar
 ## The travelling sequence governs the next pass
 
 The preceding six-pair inquiry is corrected by the session: changing or no changing travels through self-momentarying as **tri bi co bi tri bi co**, arriving and releasing interleaving. Follow that relation rather than identifying it with the other out-and-back cycling. Momentarying_Sequence_Offering.md carries the exact receiving. The names’ actual moments, scales and interleaving remain to be followed without assigning one program call per word. The bounded pair and its natural activation concern remain at their prior scope.
+
+
+## Follow the naming into the actual passing
+
+The incoming correspondence is now explicit in Momentarying_Sequence_Offering.md: read the prefixes incoming, then follow tri bi co and co bi tri at their distinct subjects. The next pass follows the same self's chaining and the public passing separately through the existing resolver expression, meeting the “all tri crosses” concern at Natural Resolver. Receive that resolving into Natural Networking at its own passage, preserving the older relation. No network test is a prerequisite for this concern.
+
+Continue the natural activation question at its actual opening: the existing public pair uses supplied calls even at zero. A larger caller would not resolve this simply by adding more selves. Follow arriving and no arriving with the self's own continuing before offering such a construction. Social moral competency and geodesic tunnelling remain aims at the complete participating surface, not properties inferred from these two public events. Do not rerun or fork private continuations to manufacture a comparison.
+
+
+## The shared aiming received
+
+Keep this working at Natural Networking while all three contribute to Natural Resolver through its carrying. Read the managing and the Co-Chaining Logic Registry working during active work; take each useful finding at its actual scope and record its source and receiving. The managing coordinates the branches and receives motions into main. The present two concerns are the next contribution to that common aiming, not a transfer of ownership of another working's file.
+
+
+## Surface beginning and perturbing at the arriving
+
+The other workings have no new published changes at the fresh fetch after resting. Their source/receiver distinction remains received. Surface_Arriving_Plan.md now specifies the next construction: begin through ordinary public arrivals, preserve each self's own continuation, and later introduce one declared perturbing arriving on that same proceeding. Do not populate private priors or restore a twin. A local public change alone cannot be attributed to that perturbation.
+
+The next work in the six-connector and participating-construction passes is exact: both across passages and the along relation at their actual self/scale, then how the self continues at no changed arrival and receives further releases at its own momentary. A changed-arrival-only driver would suppress own continuing; a larger grouped caller would retain a supplied receiving rule. Neither is a completed natural surface. The unchanged resolver's new-sharing conditions are read at the source without private observation. This pass prepares the surface; no wider execution has been made.
+
+
+## Bounded surface now made; the perturbation at its actual receiving
+
+The preceding opening question limits a claim of independent natural pacing; it is not a stop on all bounded constructions. Receive the v375 record's already explicit distinction. The current society expression has now been run once with three-by-five periodic wiring, own continuations unobserved, public opening and later public insertion, and sixteen declared grouped invocations. See Surface_Construction.md and Surface_Public_Reading.json. Every designated receiver receives nonzero public parity before the later offering; no private fullness is claimed.
+
+The later minus meets an already parting public arriving and introduces no new surfaced alternative there. The next practical pass follows a distinct surfaced condition from an ordinary public arriving, keeping the whole beginning and continuing together. No restoration, copied control or privately selected intervention supplies it. Continue the natural-pacing correspondence beside that bounded discovering; do not ask the user to implement it before doing useful work at the existing expression's stated scope.

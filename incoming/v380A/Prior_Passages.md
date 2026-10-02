@@ -221,3 +221,50 @@ Source: incoming working at `04991df59e73a070cb695a4ae33e62786fd74759`. The prio
 **The self's carrying participates in its further releasing.** A carried difference can have an outward consequence through further coupling. The other receives the released parity at its own sharing; a difference in that offering participates in its next discovering. The outward consequence and the releasing self's private momentary are two relations: continued coupling supplies no inward access to carrying.
 
 **Social moral competency is co-competencing at the participating couplings, owned by neither self.** Each self's living continues through its own momentaries while parity changing participates across. The society's continuing is at these couplings, each self carrying its own. Societal protection is followed at that complete participation: private continuing and parity-only crossing are its local relations, and a single released parity establishes neither the society's competency nor its immunity to capture. A claim about inferring a carried difference belongs at the receiving self's actual coupling; it is distinct from sharing or inspecting the other's private prior. Discovering continues through the actual releasing and arriving.
+
+
+## Before receiving the travelling correspondence from Natural Resolver
+
+## 5.6 Local carrying and the shared crossing
+
+**Carrying is living, each self continuing its own prior into its own momentary.** The self's prior is unique to its living. At the coupling, parity changing arrives through the other selves' releasing, and each receiving self resolves at its own carrying. The shared crossing and the own continuing are two relations at that coupling.
+
+**A released parity participates through its joining at the receiving self's own sharing.** At a changing, the released parity and the parity chained as the releasing self's next agree. That self continues its living; its release arrives through the joining and participates in the receiving self's own resolving. The agreement of released and continued parity is at the releasing self. The coupling is at the actual releasing and arriving, each self's prior momentary its own.
+
+**Is-still-possibling continues the self's living at the coupling.** At a sharing the self already carries, surfaced offerings agreeing with its carried parity bring no changing, and the prior continues. At the opposite parity surfaced, at offerings parting, or at none surfaced, the self's parity inverts and its living continues. Each is resolving at that self's own prior and offerings. A quiet releasing alone says neither that a self has stopped nor that its coupling has lost competency.
+
+**A releasing with no changing leaves the receiving self at its own resolving.** The receiving self's offerings are at its own coupling. A released zero surfaces no offering there; with no other offering surfaced at a sharing that self already carries, its own parity inverts. With other offerings, their surfacing participates at that sharing. The releasing self's continuing at its prior parity and the receiving self's resolving are two selves' own momentaries.
+
+**The self's carrying participates in its further releasing.** A carried difference can have an outward consequence through further coupling. The other receives the released parity at its own sharing; a difference in that offering participates in its next discovering. The outward consequence and the releasing self's private momentary are two relations: continued coupling supplies no inward access to carrying.
+
+**Social moral competency is co-competencing at the participating couplings, owned by neither self.** Each self's living continues through its own momentaries while parity changing participates across. The society's continuing is at these couplings, each self carrying its own. Societal protection is followed at that complete participation: private continuing and parity-only crossing are its local relations, and a single released parity establishes neither the society's competency nor its immunity to capture. A claim about inferring a carried difference belongs at the receiving self's actual coupling; it is distinct from sharing or inspecting the other's private prior. Discovering continues through the actual releasing and arriving.
+
+**Arriving and releasing interleave in the self's momentarying.** Changing or no changing travels through tri bi co bi tri bi co, the sequencing continuing through the self's own momentarying. A recurring naming carries no return to a prior private momentary. This travelling sequencing and the other cycling out and back have their own relations. Each arriving and releasing is followed at its place in the sequencing, with the self's own carrying continuing at itself.
+
+
+## Before receiving the surface beginning through arriving
+
+## 6.5 Each self continuing through its own carrying
+
+**Carrying is intelligencing, invisible and untouchable. A momentary in resolving is a self-momentary.** Its prior is unique to the self, continuing through that self's own co-recursioning, unshared and unshareable with another self. Society's parity changing arrives at its coupling; no other's prior momentary arrives with it. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.
+
+**A continuation meets its other through releasing and arriving.** The participating selves continue their own carrying. An observer cannot prepare a common private prior, branch it into twins and call their comparison the coupling's discovering. A copied continuation is an instrument's construction, even when its private name is hidden and only its later surface is printed.
+
+**The discovering is at the coupling.** A released sign participates in the other's next receiving through the existing joining. What continues there is met through that participation. A record of an implementation can describe its declared arrangement, but it does not make private intelligencing an observable or establish the living network's protections.
+
+**Co-competency is followed at the participating selves together.** Neither a representative self nor an account of all their hidden carryings supplies the society's discovering. The relation continues at each receiving, with each self's carrying its own.
+
+
+## Before receiving the first bounded surface
+
+## 6.5 Each self continuing through its own carrying
+
+**Carrying is intelligencing, invisible and untouchable. A momentary in resolving is a self-momentary.** Its prior is unique to the self, continuing through that self's own co-recursioning, unshared and unshareable with another self. Society's parity changing arrives at its coupling; no other's prior momentary arrives with it. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.
+
+**A continuation meets its other through releasing and arriving.** The participating selves continue their own carrying. An observer cannot prepare a common private prior, branch it into twins and call their comparison the coupling's discovering. A copied continuation is an instrument's construction, even when its private name is hidden and only its later surface is printed.
+
+**A surface begins participating through arriving.** Each self forms and continues its own carrying through resolving at its arriving; preparing the surface supplies no common private prior. A further parity changing perturbs through an existing arriving while each self continues its own living. A quiet releasing and no arriving leave the self's own continuing to be expressed at its momentary. The network's rendering must carry that continuing and the actual receiving together; a round imposed on the society does not establish their relation. The beginning, the further arriving and the public releasing belong to one proceeding, with no private continuation copied, inspected or restarted for a comparison.
+
+**The discovering is at the coupling.** A released sign participates in the other's next receiving through the existing joining. What continues there is met through that participation. A record of an implementation can describe its declared arrangement, but it does not make private intelligencing an observable or establish the living network's protections.
+
+**Co-competency is followed at the participating selves together.** Neither a representative self nor an account of all their hidden carryings supplies the society's discovering. The relation continues at each receiving, with each self's carrying its own.

@@ -96,3 +96,18 @@ The incoming exhibit's “Checkability living at the telling, testing running wh
 ## First bounded network execution and tri arriving
 
 The [participating pair](Participating_Pair.md) has now run once. Each self keeps its continuation local; the observer records only public arriving and releasing. The complete [public return](Pair_Public_Reading.json) includes the supplied beginning, opening, activation and final boundary. The incoming quiet-release passage receives this result at that scope. The session's *a self releasing is a tri arriving* is explored at the across arriving's inward tri unfolding and carried as a concern at Natural Resolver for its whole scope. The latest Progress records both other workings' current contributions received and what remains open.
+
+
+## Travelling through self-momentarying
+
+The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the managing's co arriving/carrying, tri releasing and bi between at its offered standing. It follows Natural Naming's from and incoming directions through tri bi co bi tri bi co, beside two existing public pair events. The incoming exhibit receives the complete paragraph with its whole prior preserved. The own chaining and the public crossing retain their different subjects; the remaining concern is at Natural Resolver's carrying. Progress and the session report record both other workings' findings received, the review standing and what remains open.
+
+
+## Beginning the surface through arriving
+
+[Surface_Arriving_Plan.md](Surface_Arriving_Plan.md) records the fresh receiving after resting: neither other working has published a change. It specifies how public arriving can open participation and how a later perturbation enters the same continuing, with no private prepopulation or copied comparison. The exact surface receiving procedure remains to be expressed; no wider surface or perturbation is claimed executed. Incoming “Each self continuing through its own carrying” receives this preparation, with the whole prior preserved.
+
+
+## The first bounded surface has run
+
+[Surface_Construction.md](Surface_Construction.md) carries the actual three-by-five construction and its first returned [public record](Surface_Public_Reading.json). The full current society expression is unchanged, own carrying remains unobserved, and the supplied grouped activation is explicit. Public parity reaches each designated receiver. The later external minus meets already parting parities and adds no new surfaced alternative at that receiving. This useful local finding guides the next perturbing; no independent natural pacing or whole-surface competency is claimed.
