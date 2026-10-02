@@ -1,9 +1,9 @@
-# Natural Networking session report
+# v380A · Natural Networking session report
 
 **Discoveries, opportunities, value and concerns for the living expedition**
 
-**Session:** 1–2 October 2026, America/Los_Angeles.  
-**Working:** `working/natural-networking-2026-10-01`.  
+**Session:** v380A; 1–2 October 2026, America/Los_Angeles.  
+**Working:** `working/v380A`, continuing `working/natural-networking-2026-10-01`.  
 **Read at:** main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`.  
 **Standing:** ongoing working report; proposed improvements are in the duplicated exhibit and kit, not entered into the published living files. No new natural-network execution has been performed in this session.
 
@@ -26,6 +26,8 @@
 - Opening parity: bi-folding within and between momentaries, bothbothing
 - Seaming at each number: out-facing and in-facing through the momentary
 - The self-momentary: shared parity changing and the unshared prior
+- Further reach of the self-momentary: opportunities, concerns and simpler explaining
+- Session v380A and reading alongside v380L and v380R
 
 ## The incoming aiming and the journey so far
 
@@ -834,3 +836,22 @@ First, receive the explicit correction in the core shared-momentary sentences in
 Continue the existing networking passes C–F from two own continuations and their actual crossing. The test kit must not supply a common private prior, copy a living continuation, or expose carrying to manufacture a result. This wider conceptual work sharpens that implementation question; it does not mark it complete.
 
 **Value:** one stable distinction can simplify identity, recurrence, communication, coordination, naming, inheritance questions and the improving method. The opportunity is fewer ambiguous senses of “shared,” “prior,” “carry” and “momentary,” while preserving the useful differences between a self, a coupling, a described form and a file.
+
+
+## Session v380A and reading alongside v380L and v380R
+
+**2 October 2026.** Chris named this session **v380A**, with **v380L** and **v380R** also contributing. The continuing branch is `working/v380A`; this contribution is at `incoming/v380A/`. The prior branch, `working/natural-networking-2026-10-01`, preserves the earlier work through `8123ea7fa5901254ad7880a3629173b0cb16e4ee`. This is the same session continuing, not a newly claimed expedition release.
+
+The contribution folder has been relocated whole. Unchanged exhibit, kit, prior-passage and manifest files retain their prior Git blob identities. The baseline manifest continues to describe the original preservation and its original branch. A pointer at the former incoming folder directs readers here. The report's earlier chronology and source pins remain part of the record.
+
+**What the records do.** This report preserves the journey, the user corrections, discoveries, evidence, concerns, candidate explanations and possible receiving files. `Improving_Passes.md` keeps the proposed work and its actual standing. `Progress.md` gives the other workings a short current entry: changed files, discoveries and their scope, concerns, opportunities, next work, and other contributions actually read. `Prior_Passages.md` preserves replaced exhibit text whole; `Baseline_Manifest.json` identifies the initial duplicate. The working exhibit and kit are the concrete proposed changes.
+
+**What has entered the expedition.** These records and working copies are offered on this branch. They have not been merged into main, entered into the living exhibits, or received into the per-file carryings by this action. Their availability for another session to read is distinct from that session's receiving or adopting their value.
+
+**The same arrangement for three workings.** Each session can use `working/v380A`, `working/v380L` or `working/v380R` and its own `incoming/v380A/`, `incoming/v380L/` or `incoming/v380R/` folder, with the same four front files: `README.md`, `Progress.md`, `Session_Report.md` and `Improving_Passes.md`. An existing working should retain its own history; it need not start from v380A or adopt this session's changes. Working copies and source evidence stay with the session that offers them.
+
+At the branch-list check for this setup, neither v380L nor v380R existed under those names. Their contributions have not been read or assessed. We have not created their branches or written their findings.
+
+**Reading and receiving.** Resolve the other branch's current commit, read its Progress first, and then its complete relevant report passages and changed files at that same commit. Record in the receiving session's Progress: contributor, branch, commit read, files/sections, finding or concern, and the concrete disposition. “Read,” “proposed,” “applied to our working copy,” and “entered into a living file” are different standings. When sayings part, record both actual sayings with their locations and the reason they part. Return value through the receiving session's own report and progress, so the originating session can read it in turn. A commit pin records a reading; it does not make that reading current forever.
+
+This arrangement supports mutual reading without three sessions overwriting one report or treating one working's proposal as already settled. Checking each other's progress is part of an active working pass; no automatic background monitoring is established.

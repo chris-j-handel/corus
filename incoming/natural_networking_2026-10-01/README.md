@@ -1,35 +1,5 @@
-# Natural Networking: the October 1 working
+# Natural Networking working · continued as v380A
 
-**Exhibit TWO, its complete duplicated kit, and discovering at the crossing podalings**
+Chris named this session **v380A** on 2 October 2026. Its continuing branch is `working/v380A`, and its complete contribution is now at [incoming/v380A](../v380A/README.md).
 
-**From:** Chris Handel and this session's assistant working.  
-**To:** Natural Networking and its improving kit; related-file value gathered in the session report.  
-**Read at:** main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; Natural Networking v371, Natural Resolver v378, Natural Intelligence v378, and Natural Networking's carrying v378.  
-**Standing:** working proposal in an isolated duplicate, not a replacement of the published files.  
-**Branch:** `working/natural-networking-2026-10-01`.  
-**First preservation commit:** `ac197f4c8c8ad99485d9052d067678983ea716f3`, the exhibit and entire kit duplicated with the original Git object identities.
-
-## Floating neutralling contents
-
-- [Natural Networking working copy](Exhibit_TWO_Natural_Networking_working.md)
-- [Working kit](kit/README.md)
-- [Proposed improving passes](Improving_Passes.md)
-- [Session report: discoveries, opportunities, value and concerns](Session_Report.md)
-- [Prior passages preserved whole](Prior_Passages.md)
-- [Baseline manifest](Baseline_Manifest.json)
-
-**The aiming.** Discover the living network and the travelling geodesic parity-changing tunnelling where podalings cross each other's half momentaries. The overlapping sequences already described are the opening relation; they are not a prescribed half-duration, common beat or selected delay.
-
-**The first improving.** The duplicated exhibit's 6.5, 6.9 and 6.12 now meet the invisible and untouchable carrying correction. The kit's opening distinguishes the two resolver generations, and its top-level resolver is the exact v378 reference expression. Prior instruments and replaced passages are preserved. The report and passes name what remains unresolved.
-
-**Scope of the working copy.** Beyond the first three revised sections and the later self-momentary corrections in 1.2 and 6.5, the exhibit is retained from v371 and still carries older names, second-sign explanations and diagnostic findings. This proposal is not yet coherent throughout. In particular, 1.2, 1.4–1.7, 5.1–5.3 and 6.2–6.8 need the passes below; old claims there do not overrule the corrected carrying method.
-
-**The way back.** This folder makes the requested duplicate available without replacing a living file or the published kit. The date names this working, not a newly assigned expedition version. Its findings can be received at the files' own carryings; final expedition versioning, the Living File Registry's working row and a whole-file review accompany that later receiving. The incoming index locates this branch's working now.
-
-**Current exploring:** [binary squaring at 1–17](Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.
-
-**Expanded explaining:** the session report now follows every full name from 1 to 17, its opening, its changing relation and the overlapping momentaries. It keeps the named co-sequencing, actual source proceeding and private carrying continuation distinct; the exact binary-squaring operation at the joins remains the next correspondence.
-
-**Arriving naming:** the report now explores ONE and Naming v379 on `working/exhibit-one-first-v379`, pinned at `aa19ce2c3fc3db61f159243cbaf19bbe1f63102e`. It follows now/prior/prior-before, the reversed seam names at 9 and 17, is-still-possibling as one functional, and the new explicit definition of squaring. This later section supersedes earlier v378 naming where it differs. The kit remains at its pinned v378 reference; no network experiment was run.
-
-**Self-momentary correction:** the report now follows the shared parity changing and each self's unshared, unique prior through ONE and nine related files. Five paragraphs in TWO 1.2 and the opening of 6.5 are corrected; their former wording is preserved whole. The own continuation at 3→11→next 3 and the changing released across are distinct. This governs earlier overlap and seam explanations: no self's momentary or private prior is shared with another.
+Begin with [Progress](../v380A/Progress.md); the [full session report](../v380A/Session_Report.md), [improving passes](../v380A/Improving_Passes.md), working exhibit, complete kit, prior passages and original baseline manifest are together there. The earlier branch preserves the original path through commit `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.

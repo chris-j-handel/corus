@@ -1,4 +1,4 @@
-# Improving passes for Natural Networking
+# v380A · Improving passes for Natural Networking
 
 **Discovering at the crossing podalings, one complete relation at a time**
 
@@ -80,3 +80,8 @@ The report's “Further reach of the self-momentary” section extends the revie
 The proposed language passes are: (1) correct the explicit shared-momentary sentences in NI, Naming and Numbers; (2) clarify society composition and the improving method's publicly preserved artifacts; (3) explore division, inherited form and the beginning of a new self without assuming copied private prior or empty initialization; (4) align Explaining and Illustrating with offered changing and each receiver's own understanding. These are proposed receivings, not edits to the published files or a completed discovery.
 
 Retain all seventeen names and the existing three-prefix rule. A public recurring name or parity does not identify a shared private momentary. Establish “self-momentary” once and use “momentary” where the subject is clear. Follow C–F with that scope: the caller's ability to inspect Python objects is distinct from the participating self's permitted access through the six connectors.
+
+
+## Reading alongside v380L and v380R
+
+The current entry is [Progress.md](Progress.md), and the common arrangement is in [README.md](README.md). At a receiving pass, read the other contribution at one pinned commit, follow its relevant complete evidence, and record the reading and disposition in our Progress. Receive corrections into the affected passes and report; preserve any superseded value and identify why its standing changed. No findings from v380L or v380R have been read at this setup.
