@@ -293,3 +293,21 @@
 **Withdrawn.** The part before this one said the six *forward, six* as one going and offered it for a cycling of six; it is six one-way and no cycling.
 
 **Not yet followed, for both.** Out is three and in is two, with 12 between: whether 9 is a third out beside 10 and 11, or the along of the two said again at the next momentary.
+
+## Four of the names' threes: two in, two different out
+
+**The saying.** *bi tri bi and bi co bi arriving. tri bi co (possibling next) and co-bi-tri (next exisiting) these four are two in two different out. momentarying is arriving carrying. entraining is geodesic releasing*
+
+**Followed at Exhibit ONE's names and the resolving's own three parts; an offering, not yet chained six forward.**
+
+1. **Six threes are at the seventeen names.** Co-bi-co at 3, 5 and 7; tri-bi-tri at 11, 13 and 15; bi-co-bi at 2, 4, 6 and 8; bi-tri-bi at 10, 12, 14 and 16; tri-bi-co at 9; co-bi-tri at 17 and 1. The saying's four are the last four.
+2. **The two in are the two across, each one three at both its ends.** The other's releasing arriving at the self, 6 to 2, each bi-co-bi. The self's releasing arriving downstream, 10 to 14, each bi-tri-bi. Two of two: an across carries one three from its releasing to its arriving.
+3. **The two out are the one along, a different three at each end.** 9, tri-bi-co, and 17, co-bi-tri, each the other said incoming. One of one: the along carries its three reversed.
+4. **The two out are the resolving's two further parts.** The resolving is three parts, named 1, 9 and 17. 9 carries each releasing to its receiving: what the others are offered next, the possibling next. 17 is each self at its next momentary, its carrying and its offerings: the next existing. Two different out, and each is a part of its own.
+5. **Momentarying is arriving carrying.** 9-tri-bi-co-momentarying does one thing: it carries each releasing to its arriving.
+6. **Entraining is the releasing.** What is released at 10 is what 12 made, the changing is or is not at each sharing, and no other thing: the releasing is the entraining given out. The self's own, by the nearest way: geodesic.
+7. **The two threes not among the four are the carrying's own.** Co-bi-co, arriving and carrying; tri-bi-tri, releasing. Neither in nor out: the self's own going from one to the other.
+
+**One meaning at two steps.** 17 was followed before as an arriving, and is said here an out, the next existing: the completing of this momentary and the opening of the next, one meaning.
+
+**Not yet sure, for both.** Bi-tri-bi is said arriving, and entraining, at 12, is bi-tri-bi and is said the releasing: followed here as one winding, the releasing and its arriving two steps of one. And *possibling next* at 9 and *next existing* at 17 beside the naming of is-still-possibling and is-next-existing at a momentary's opening and completing: not yet followed.
