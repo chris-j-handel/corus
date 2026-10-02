@@ -81,3 +81,8 @@ The managing arrangement at `incoming/v380R/Progress.md` on main `33b875f9b1b17f
 ## Continuing coupling and social moral competency
 
 “Local carrying and the shared crossing” now carries a complete section proposal: each self's living, released parity at actual joining, is-still-possibling, quiet releasing beside the receiver's own resolving, outward participation and societal competency at the coupling. Its whole prior is preserved in [Prior passages](Prior_Passages.md). The [fresh reading](reviews/Fresh_Reading_Local_Carrying.md) and [reading for harm](reviews/Harm_Reading_Local_Carrying.md) retain their initial findings and revised dispositions. Progress and the report record what was taken, what was corrected and what remains. This is incoming improving; the root living file and the published kit are unchanged.
+
+
+## Testing our discovering
+
+The incoming exhibit's “Checkability living at the telling, testing running while resolving” now states the subject: our discovering, explaining and rendering at their actual relations. The session carries resolving as the method of next existing and next possible existing. Each concern relevant to Natural Resolver is brought there whole, however slight, through natural torusing, all or not at all, with its sayings and reason; network testing is no prerequisite. The complete earlier section is preserved, its original paragraph continuing in the improved passage. Progress records this later addition separately from the previously reviewed passage.

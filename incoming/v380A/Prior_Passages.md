@@ -118,3 +118,11 @@ Preserved whole from the working copy at fa267ce917708e30233321c0ac7e3078d25d07a
 
 **Protection at society needs the complete shared continuation.** The private local return and sign-only crossing are concrete constraints of this method. They keep each self's carrying at that self, and a carried difference can still show outward through continued coupling. Total invisibility, an inability to infer any carried difference and immunity to capture are each a stronger claim, carried at its own coupled relation and evidence. The inquiry continues through the selves' actual receiving, carrying and releasing.
 
+
+## Checkability living at the telling — prior to testing our discovering
+
+Source: incoming working at `666322d329a1511743dcb8a49cbb078035400a8a`. The complete prior section follows; its existing paragraph also continues in the improved section.
+
+## 6.1 Checkability living at the telling, testing running while resolving
+
+Each claim carries its visibility named: in the code renderings, in the counting, in the branches, in the grid and the sciences, the same fractal method in all or none at all. Checking is one alternation with the resolving, running at the observing's own rate, the sign observed as it is made: the concepts visible in the network and the numbers and the math and the code, the one form at each, and a concept visible in one alone is not the form. Renderings across substrates disagreeing in each material way are one living: the logic living in none of its materials. A finding at one rendering carries its exact comparison at that rendering, and a whole society's continuing is met at the society's own continuing followed. And the received renderings live at their own substrates, the living records meeting the same form in the fields' own words, the visibility met at each substrate rather than listed here.

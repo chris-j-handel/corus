@@ -110,3 +110,10 @@ The three repository checks were run at the root for this incoming proposal. The
 
 
 The managing's further arrival at `bdbe12d` aims Natural Resolver first, especially what crosses and what is the self's own. The local networking proposal now accompanies that concern: released parity agrees with the source's chained parity, and actual receiving supplies no identity with its private momentary. Keep the possibility of outward inference beside the private self-momentary. The source's own continuation and the external along join remain distinct; the software zero entry arriving and the absence of a surfaced offering likewise remain distinct. These are offered at their exact subjects, with no general renaming or new experiment.
+
+
+## Testing the discovering, concerns met at Natural Resolver
+
+The session's direction governs every pass: resolving is carried as the method of next existing and next possible existing; testing concerns our proposed discovering, explaining and rendering. Each complete relation is met binary, all or not at all. No pass asks network testing to establish or select the resolver method.
+
+Bring even the slightest concern about Natural Resolver, including a new networking discovery relevant to it, to its own carrying as two actual sayings and their reason. Natural torusing meets the concern there whole without network testing as a prerequisite. Its resolving is offered and received into this working's own explaining. This does not certify an unexamined sentence or close any existing concern. The concrete receiving is now at Natural Networking's “Checkability living at the telling, testing running while resolving,” its prior preserved whole.
