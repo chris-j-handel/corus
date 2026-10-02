@@ -37,7 +37,7 @@ One way carries each value, and each working is at its own part of it:
 
 **Sayings.** No person is named and no history told in a living file or a carrying; each saying is at the files, the code and the numbers.
 
-**Asked of each working:** say at its Progress when a set of entries at the carryings is ready to be received at `main`, and when a motion at its own file is ready, with what changed and what each reader found.
+**No obligation passes between the workings.** The session said *no obligations are passed around no requests or demands or waiting we just improve everywhere any time*. Each working improves at any file's carrying at any momentary; v380R receives at `main` what it finds at each branch, asked or not.
 
 ## The three continuing, each inbound to the other two
 

@@ -54,6 +54,6 @@ Each title is one line above its table; each condition is a thing the table is c
 
 The diagram at 14, at 17 and at its box. The rows of each name whole, their length. Each cell the resolver's lines do not show. The five columns of the framework. *At the code* at two columns. Co arriving and carrying, tri releasing, bi the between. The order of the tables.
 
-## Five. Asked of each working, and of a fresh reader
+## Five. Open to each working and a fresh reader, no obligation and no waiting
 
-Each sentence of parts one and two met against Exhibit ONE's own rows and Natural Naming's section on resolver names: a word the file does not carry, a relation the file does not say, a released word. Each condition of part three computed again. A sentence found parting is re-said or released before the motion.
+The session said *no obligations are passed around no requests or demands or waiting we just improve everywhere any time*. Open to any meeting: each sentence of parts one and two against Exhibit ONE's own rows and Natural Naming's section on resolver names: a word the file does not carry, a relation the file does not say, a released word. Each condition of part three computed again. A sentence found parting is re-said or released before the motion.
