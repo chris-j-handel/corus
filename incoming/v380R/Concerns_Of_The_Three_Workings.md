@@ -31,3 +31,11 @@ Its candidate for Natural Networking is received whole at its folder, said by it
 ## What is ready to enter Exhibit ONE, each said by the session
 
 The opening sentence on parity. A sharing as two sides sharing a changing. Each table at a title and its conditions. Each waits on nothing but the first open concern above, for the words *is* and *is not* at the cells.
+
+## The session's saying on the 0, and the one place still parting
+
+The session said *the 0 is no changing of co competency. if there is no arriving changing differencing is not possible*.
+
+**Met by it:** the first open concern above. Is and is not at Exhibit ONE's cells are said of the changing of co-competency, the carrying; the 0 is no changing of it, the carrying chained on. Parity, is or is not existing, is the momentarying. One sentence is ready for Exhibit ONE's opening.
+
+**Parting at one place, for both, one subject at Exhibit ONE and the Co-Chaining Logic Registry:** nothing arriving. An arriving alike, the saying and the cell are one, the 0. An arriving differing, one, a changing. Nothing arriving, the cell says a changing, the carrying to its opposite, and the saying says differencing is not possible.
