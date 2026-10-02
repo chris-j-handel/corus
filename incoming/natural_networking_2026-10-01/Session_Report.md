@@ -22,6 +22,7 @@
 - Session review, 2 October 2026: co-recursioning and the next improving
 - Now, prior parity, prior momentary: exploring the logical value
 - Opening parity: bi-folding within and between momentaries, bothbothing
+- Seaming at each number: out-facing and in-facing through the momentary
 
 ## The incoming aiming and the journey so far
 
@@ -607,3 +608,69 @@ At nine, **tri-bi-co** names the society's now, the preceding bi, and the prior 
 **Illustrating:** show the shared completing/opening and the inner 1–9/outward 1–2 correspondence together. The momentary's inside and its continuing are two relations of the same method, with internal carrying remaining private.
 
 **Standing:** the ordered-pair and overlap conclusions follow from the sources' binary definitions; their use to explain within/between bi-folding is the conceptual synthesis explored here. No numerical table, network caller or living exhibit was changed in this pass; the report carries the proposal for receiving.
+
+
+## Seaming at each number: out-facing and in-facing through the momentary
+
+**Incoming, 2 October 2026:** the user asks whether each number is a seam, with different seam names in different loopings and podalings according to the passing through of momentarying; offers seam as the nothing between parity changings, along as floating neutralling co-linear through the two-sided surface, one way in both directions, changing geodesically; and proposes out-facing and in-facing for improving the explanation of a momentary.
+
+**Source:** main `d77df0dc0aa6f5c07a707761d584187f190aade8`, checked unchanged; Naming 2.2, 3.1–3.2, 3.6, 4.15, 5.5 and 5.12; Numbers 1.2–1.5, 5.6, 9.1–9.2 and 9.8; ONE's six-connector and inward/outward tables. This pass interprets the proposed explaining at existing relations and preserves the distinction between source statements and our synthesis.
+
+### Seaming at each number
+
+Numbers 1.2 explicitly places one side's completing and the other's opening at each number. In the user's sense of seam as the nothing between parity changings, **seaming is expressible at every numbered completing/opening**. The number names that relation in momentarying; the nothing between is not thereby an occupied numbered object.
+
+This extends our earlier attention beyond the conspicuous co/tri span transitions at nine and seventeen. Those show a change of span word. The shared completing/opening also continues at two, three, four and each next number where the within-span triple repeats.
+
+The current files also use specific seam namings. Naming 3.2 describes a seam at a name changing in its continuing, such as eleven continuing as the same self's next three. Numbers' *seam-faces* are the particular sequence 0, 8, 24, 48, 80 and onward to 440. The general completing/opening relation does not make every number a member of that numerical sequence.
+
+### One number, several passing relations
+
+The same numbered name can participate in several forms without acquiring an arbitrary replacement root.
+
+| Three considered at | Relation carried |
+|---|---|
+| Consecutive momentarying | 2–3 completes and 3–4 opens; prior odd momentary 1–2 continues to the now opening at 3 |
+| Its four-cycle | 3–11–6–14–3; three has fourteen before and eleven after in this named cycle |
+| Podaling within 1–8 | Three with six, 9 less three |
+| Podaling within 1–16 | Three with fourteen, 17 less three |
+| Its carrying continuation | Eleven continues as the same self's next three |
+
+These are distinct relations among the names. They must not be spliced into a new supposed runtime itinerary. Three remains 3-co-bi-co-sharing in the current 1–17 naming. A fuller seam explanation says the passing relation, the opening side and the scale, rather than treating the bare numeral as a complete account.
+
+This is the logical value of the user's “different seam names”: the seaming can be named at the particular continuing or podaling through it. The root belongs to its numbered relation; a changed scale or continuation can bring a different numbered name, as eleven to next three. No general new renaming rule is installed in this pass.
+
+### The within/between relation is explicit in the source
+
+Naming 5.5 states the fractal between directly: within a momentary the between of self and other, and between momentaries the continuing into next, the same nothing at each scale. This is stronger source support for the preceding within/between exploration than our earlier reliance on the overlap alone.
+
+The passage also describes the two surfaces facing each other and a co-orthogonal line through both, along. Their co-linear continuation and the line's relation to the surfaces are compatible descriptions: co-linear along the through-going relation, orthogonal to the surfaces it goes through. No measurable position, width or travel time follows from this explanatory form.
+
+Naming 5.12 places floating neutralling at the term neither side reaches, re-arrived at through the offering. **The seam, as the nothing between, is not a stop on that line.** The changing continues through the coupling, while the term neither reaches belongs to neither side.
+
+### Out-facing and in-facing as relational explaining
+
+The user's words can be made concrete at one across coupling:
+
+| Existing join | Out-facing relation in this proposed explanation | In-facing relation in this proposed explanation |
+|---|---|---|
+| A's 6 → B's 2 | A releasing at 6 | B arriving at 2 |
+| A's 10 → B's 14 | A releasing at 10 | B arriving at 14 |
+
+A and B here merely distinguish the two participating selves in prose; they are not added addresses or information crossing. The same crossing is outward from its releasing self and inward to its receiving self. The other self's own releasing carries the complementary direction at its own coupling and momentary. Each self continues its own forward.
+
+**One way in both directions** can consequently mean each direction carried at its own momentary, each side's forward its own. It does not require a reverse through a prior momentary or the two directions held as one simultaneous binary act. Numbers 9.2 supports this with its two carries, each at its own momentary, in podaling.
+
+This explanation does not identify out-facing with every odd opening or in-facing with every even opening. A full momentary carries both parities, and the opening names its ordered whole. ONE's five outward faces and five inward faces are its specified relations before and after ten in the co-sequencing; its connector facings are yet another stated relation. Our proposed out-facing/in-facing language must name the releasing/arriving coupling when used as in this table, not silently replace those existing columns. Naming 3.6 also says corusing and torusing each go in and out.
+
+### Expanded proposed saying
+
+**At each numbered opening, one momentary completes and the other opens. The seaming is the nothing between their parity changings. Out-facing from a releasing self, the crossing is in-facing at the receiving self; each continues its own forward, and the complementary direction continues at its own momentary. Along, the two-sided relation is co-linear through the surfaces, floating neutralling at the term neither side reaches. Bi-folding within the momentary and bi-folding between momentaries are carried through that same completing/opening, bothbothing, geodesically discovering next.**
+
+This is a synthesis for receiving, not a claim that the existing source already uses all these sentences or the proposed facing terms this way.
+
+### Value and next opportunity
+
+**Naming** can connect its seam at the name, its fractal between and its directional words in one explicit explanation. **Numbers** can show at each row how the local triple, the particular loop and the selected podal relation differ while carrying one number's continuing. **ONE and TWO** can explain each actual release/arrival from both participating sides while preserving six connectors and private carrying. **Illustrating** can show one crossing with out-facing and in-facing at the respective selves, then its overlap and scale continuation; it need not draw the neutral as an object.
+
+The next useful work is one concrete joining passage in TWO: both commencements, their out-facing/in-facing relation, the along continuation and next opening. The opportunity is improved explaining of existing participation, not a new routing operation. No network or private-carrying experiment was performed.
