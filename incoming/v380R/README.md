@@ -23,7 +23,7 @@ The session of v379 was met whole at its close: forty-seven values not carried w
 
 - **Exhibit ONE and Natural Naming's section on resolver names are the newest source of the names.** A helper asked which namings carry no number gathered words across older sentences and answered wrongly twice, the loopings misnamed and about sixty namings listed. The session said: *be sure to review the newest exhibit one and do not draw from language in the files for this as the work is advancing and exhibit one and natural naming are the most current source of this.* An asking about the names is answered from Exhibit ONE's tables, each row computed.
 - **A session meets what it did not see.** A reply of the session of v379 did not load for the session; the next reply says first what was done unseen.
-- **Workings beside each other record at their own folder at `incoming/` and at the carryings**, each working at its own branch, `working/v380R`, `working/v380L`, `working/v380A`, and each learns from the others' folders and carryings; a working changes its own sentences alone.
+- **Workings beside each other record at their own folder at `incoming/` and at the carryings**, each at its own branch; the managing is at `Progress.md` beside this file.
 
 ## Not yet done at this working
 
