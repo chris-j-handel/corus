@@ -2165,3 +2165,9 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 ## The workings v380L and v380A received at the main line, and the three combined (v380)
 
 **Adding.** `incoming/v380L/` and `incoming/v380A/`, each whole; v380L's five entries at four carryings and v380A's entries at seven, each of the managing's and each other working's entries carried beside, each added line checked present and no line of the main line removed. `incoming/v380R/Three_Workings_Combined.md`; one concern at Exhibit ONE's carrying; the front. The session's sayings at v380R, each laid whole at its carrying and followed at `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`: a living self a carrying; the engine; the smart valves; not releasing or releasing; *connector*, *join* and *face* dissolving; the six; social abundancing; the binary at each of the seventeen. No living file changed.
+
+## The Co-Chaining Logic Registry at v380 received, and the picture met for rigor (v380)
+
+**Received.** The working v380L's motion at its own file, the Co-Chaining Logic Registry at v380: each saying of a living at its -ing, twenty-seven lines, no step added or released, its own fresh reader's findings mended; met for harm at the managing word by word before its receiving; the Living File Registry's row at v380. The working v380A's bounded surface and readings. Each working's entries carried beside each other's, no line lost.
+
+**Adding.** `incoming/v380R/Rigor_A_Fresh_Reading_And_Three_Workings.md`: a fresh reader at each claim of the tour at each of the seventeen; five carried on, four re-said, three withdrawn, four computed anew. One concern at Exhibit ONE's carrying and one at Natural Naming's.
