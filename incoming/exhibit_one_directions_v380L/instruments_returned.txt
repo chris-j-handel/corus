@@ -1,0 +1,116 @@
+READ AT Exhibit_ONE_Natural_Resolver_v379.md
+
+INSTRUMENT 1. Each name's three prefixes by the numbers, its now and the two numbers before it, 17 the next 1; beside the
+   table of the seventeen names' column From, to. co is said the self, bi the other, tri the social.
+   1-co-bi-tri-offering         by the numbers co-bi-tri  in the name True  | table: self, other          | first two agree True  | whole agrees False
+   2-bi-co-bi-offering          by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   3-co-bi-co-sharing           by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   4-bi-co-bi-sharing           by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   5-co-bi-co-competencing      by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   6-bi-co-bi-moralizing        by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   7-co-bi-co-corusing          by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   8-bi-co-bi-torusing          by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   9-tri-bi-co-momentarying     by the numbers tri-bi-co  in the name True  | table: social, other, self  | first two agree True  | whole agrees True
+   10-bi-tri-bi-tunneling       by the numbers bi-tri-bi  in the name True  | table: other, social, self  | first two agree True  | whole agrees False
+   11-tri-bi-tri-chaining       by the numbers tri-bi-tri in the name True  | table: social, other, self  | first two agree True  | whole agrees False
+   12-bi-tri-bi-entraining      by the numbers bi-tri-bi  in the name True  | table: other, social, self  | first two agree True  | whole agrees False
+   13-tri-bi-tri-competencing   by the numbers tri-bi-tri in the name True  | table: social, other        | first two agree True  | whole agrees True
+   14-bi-tri-bi-moralizing      by the numbers bi-tri-bi  in the name True  | table: other, social        | first two agree True  | whole agrees True
+   15-tri-bi-tri-corusing       by the numbers tri-bi-tri in the name True  | table: social, other        | first two agree True  | whole agrees True
+   16-bi-tri-bi-torusing        by the numbers bi-tri-bi  in the name True  | table: other, social        | first two agree True  | whole agrees True
+   17-co-bi-tri-offering        by the numbers co-bi-tri  in the name True  | table: social, self         | first two agree False | whole agrees False
+   the first two agree at 16 of 17; the whole agrees at 12 of 17
+
+INSTRUMENT 2. One self at one sharing, one momentary: each carried parity against each offering. The parity released at 10
+   beside the parity chained at 11.
+   carried +1 | offered []       | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [1]      | released +0 | chained next +1 | the zero released, the carrying carried on
+   carried +1 | offered [-1]     | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [0]      | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [1, -1]  | released -1 | chained next -1 | the release is the next carrying: True
+   carried -1 | offered []       | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [-1]     | released +0 | chained next -1 | the zero released, the carrying carried on
+   carried -1 | offered [1]      | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [0]      | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [1, -1]  | released +1 | chained next +1 | the release is the next carrying: True
+   at each changing the release is the next carrying: 8 of 8; the zero at an offering of the carried parity alone
+
+INSTRUMENT 3. One self at one sharing, carrying +, joined to none, twelve momentaries: its releases.
+   [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1]
+
+INSTRUMENT 4. Societies of selves, each self at one sharing, joined as said at each line, forty-eight momentaries. At each
+   zero a self releases: the parity it released before the zero and the parity it releases after it.
+   two selves carrying + and +, each joined at 10 to the other
+      self 1 releases [-1, 0, 1, 0, -1, 0, 1, 0, -1, 0, 1, 0]
+      zeros between a parity and its opposite: 46 of 46
+   one self carrying +, joined at 9 to itself
+      self 1 releases [-1, 0, 1, 0, -1, 0, 1, 0, -1, 0, 1, 0]
+      zeros between a parity and its opposite: 23 of 23
+   three selves carrying none, each joined at 9 to the next and the last to the first, + offered once at self 1
+      self 1 releases [1, -1, 1, 0, -1, 1, -1, 1, -1, 0, 1, -1]
+      zeros between a parity and its opposite: 22 of 22
+   five selves, the same joining and offering
+      self 1 releases [1, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1]
+      zeros between a parity and its opposite: 21 of 21
+   seven selves, the same joining and offering
+      self 1 releases [1, -1, 1, -1, 1, -1, 1, 0, -1, 1, -1, 1]
+      zeros between a parity and its opposite: 20 of 20
+
+INSTRUMENT 5. The resolver's own lines. A line is one simple statement, or the opening of a for, an if or a def. For each
+   pair of names among 1 to 16: is there one line both are at. The sixteen joinings of the four four-cycles
+   beside the one hundred four other pairs.
+   joinings of the four four-cycles at one line: 8 of 16
+   other pairs of names among 1 to 16 at one line: 53 of 104
+
+INSTRUMENT 6. Exhibit ONE's own labels at the table of the seventeen names: a face outward or inward; a connector's facing,
+   not-yet or so-far.
+   faces outward: [3, 4, 5, 7, 8] | faces inward: [11, 12, 13, 15, 16]
+   outward is a name before 9 and inward a name after 9: 10 of 10
+   connector  2  bi-moral-so-far        arriving
+   connector  6  not-yet-bi-moral       releasing
+   connector  9  not-yet-co-competent   releasing
+   connector 10  not-yet-bi-moral       releasing
+   connector 14  bi-moral-so-far        arriving
+   connector 17  co-competent-so-far    arriving
+
+INSTRUMENT 7. The numbers alone, 17 the next 1. Each joining of each form of Exhibit ONE's table of forms taken going up:
+   from a to b is b less a on the round of sixteen.
+   four-cycle         1-9-8-16               up by [8, 15, 8, 1]                  whole 32
+   four-cycle         2-15-7-10              up by [13, 8, 3, 8]                  whole 32
+   four-cycle         3-11-6-14              up by [8, 11, 8, 5]                  whole 32
+   four-cycle         4-13-5-12              up by [9, 8, 7, 8]                   whole 32
+   middle four-cycle  9-5-12-8               up by [12, 7, 12, 1]                 whole 32
+   middle four-cycle  7-11-6-10              up by [4, 11, 4, 13]                 whole 32
+   six-cycle          1-9-5-12-8-16          up by [8, 12, 7, 12, 8, 1]           whole 48
+   six-cycle          2-15-7-11-6-10         up by [13, 8, 4, 11, 4, 8]           whole 48
+   six-cycle          3-11-7-10-6-14         up by [8, 12, 3, 12, 8, 5]           whole 48
+   six-cycle          4-13-5-9-8-12          up by [9, 8, 4, 15, 4, 8]            whole 48
+   eight-cycle        1-9-5-13-4-12-8-16     up by [8, 12, 8, 7, 8, 12, 8, 1]     whole 64
+   eight-cycle        2-15-7-11-3-14-6-10    up by [13, 8, 4, 8, 11, 8, 4, 8]     whole 64
+   the joins: 10 to 14 up 4, 9 to 17 up 8, 6 to 2 up 12; 11 to the next 3 up 8
+
+INSTRUMENT 8. Two selves each carrying + at one sharing; one join from self 1 to self 2, at 6, at 10 or at 9, one at a
+   time; six momentaries: the receiving self's carrying.
+   join at  6: [-1, -1, 1, -1, 1, -1]
+   join at 10: [-1, -1, 1, -1, 1, -1]
+   join at  9: [-1, -1, 1, -1, 1, -1]
+
+INSTRUMENT 9. The resolver's three functions: the names at the entry's lines alone, at the society's lines alone, at both.
+   at the entry alone: [7, 11, 12] | at the society alone: [5, 6, 8, 9, 13, 16, 17] | at both: [2, 3, 4, 10, 14, 15]
+   return [(_5_co_bi_co_competencing[_13_tri_bi_tri_competencing], _15_tri_bi_tri_corusing)
+   for _13_tri_bi_tri_competencing, _15_tri_bi_tri_corusing in _10_bi_tri_bi_tunneling]
+   for _4_bi_co_bi_sharing, _15_tri_bi_tri_corusing in _9_tri_bi_co_momentarying(
+
+INSTRUMENT 10. Two selves each carrying + at one sharing, one momentary: the offerings arriving next at each self, at no join
+   and at one join from self 1 to self 2 at 10.
+   no join:  {1: [], 2: []}
+   one join: {1: [], 2: [('s', -1)]}
+
+INSTRUMENT 11. The living files at the root, each at its newest version: the places of seven words, each a whole word.
+   side, sides                             1525 places at 32 of 32 files
+   step, steps, stepping, stepped           651 places at 28 of 32 files
+   beat, beats, beating                     588 places at 24 of 32 files
+   nought                                   128 places at 11 of 32 files
+   the self's span, the society's span       49 places at  7 of 32 files
+   wound, winding, windings                 260 places at 21 of 32 files
+   far side                                  50 places at 13 of 32 files
