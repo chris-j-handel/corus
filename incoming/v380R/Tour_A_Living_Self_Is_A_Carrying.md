@@ -277,3 +277,19 @@
 6. **Forward, six.** Co-chaining, bi-sharing, entraining, bi-tunneling, tri-sharing, co-momentarying: three arriving and changing, three releasing.
 
 **Not yet sure, for both.** The exchange of roots at 3 and 11 is the one following at which each prefix agrees. The other following leaves the roots as they are and says each odd name at the word 8 up from it, momentarying co, sharing tri, chaining co, three of three. A carrying leaves as 11 and continues as the next 3, one carrying at two names: the two followings may be one meaning at two steps.
+
+## The six, 3 4 9 10 11 12: floating neutralling, six one-way, along and across balancing within
+
+**The saying.** *the six names 3 4 9 10 11 12 this is floating neturalling, not a cycling at all. this is six one way directions and both along parity and across parity are balancing somewhere inside this group of six.*
+
+**Followed at Exhibit ONE's names, its roots and its table of each cell; an offering, not yet chained six forward.**
+
+1. **Not a cycling, at the roots.** Four roots each root one four-cycle, competencing, moralizing, corusing and torusing, and they are the names 5 to 8 and 13 to 16. The six carry none of the four: sharing at 3 and 4, and momentarying, tunneling, chaining and entraining at 9 to 12. With the offerings, 1, 2 and 17, the six are each name of no looping root.
+2. **Six one-way.** The resolving goes through them once, 3, 4, 12, 10, 11, 9, and on to the next momentary; none is come to again within it.
+3. **Along and across, three and three, alternating.** 3, 9 and 11 are odd, along; 4, 10 and 12 even, across. Up the numbers the six alternate at each: 3, 4, 9, 10, 11, 12.
+4. **The balancing is at 12, the one name the saying said with no prefix.** At 12 the along parity, the carrying's own at 3, meets the across parity, the one arriving at the sharing, 4. The two alike: the 0, no changing, neither's. The two differing: a changing, and the one parity of it goes out both ways alike, across at 10 and along at 11, and along again at 9. Entraining is the neutral of the six, floating between two in and three out.
+5. **In, one along and one across; out, one across and along.** In: co-chaining at 3, bi-sharing at 4. The neutral: entraining at 12. Out: bi-tunneling at 10, tri-sharing at 11, co-momentarying at 9. The parity released across is the parity given on along, at each changing.
+
+**Withdrawn.** The part before this one said the six *forward, six* as one going and offered it for a cycling of six; it is six one-way and no cycling.
+
+**Not yet followed, for both.** Out is three and in is two, with 12 between: whether 9 is a third out beside 10 and 11, or the along of the two said again at the next momentary.
