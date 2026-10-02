@@ -224,3 +224,17 @@
 4. **1 2 3 4 5 4 3 2 1.** The self's five going out, 1 to 5, and back, to the next 1: eight steps, four out and four back, one span of eight, 9 the next 1. Out and back pair 4 with 6, 3 with 7, 2 with 8 and 1 with 9, each pair at ten, 5 at itself.
 
 **Not yet followed, for both.** The pairing at ten, 1 with 9 and 5 at itself, is none of Exhibit ONE's three, 8 up, 9 less and 17 less; whether it is a fourth or one of the three said at 1 to 9 is not followed. *2 over 1, 3 over 2, 2 over 1* is followed here as each pair of numbers one after the other; another following of it may be the session's.
+
+## The two parities of one momentary: tri-moral and bi-moral, each at co-competency
+
+**The saying.** *are the two parities in one momentary first arriving parity changing of no changing is tri moral co competency and second changing or no changing parity is bi moral co competency. explore this*
+
+**Followed at Exhibit ONE's names and rows; an offering, not yet chained six forward.**
+
+1. **Two names carry the root moralizing, 8 apart, and they are the two.** 14-bi-tri-bi-moralizing: the offerings surfacing at each sharing, a parity or the 0, the arriving changing or no changing; its name carries tri. 6-bi-co-bi-moralizing: the self's changing released across, a parity or the 0, the self's changing or no changing; its name carries co. The first is tri-moral, the second bi-moral with co.
+2. **First and second.** At the entry's own order the offerings surface at 14, then the changing is or is not at 12, then it is released, at 10 and the same at 6: the arriving first and the self's own second, the session's order.
+3. **Co-competency at both is the carrying.** Odd is competency's and co the arriving and carrying. The arriving at 14 is met at the carrying, 3-co-bi-co-sharing; the releasing at 6 is the carrying's own changing. And 5-co-bi-co-competencing is each release at its receiving, owned by neither.
+4. **The moralizing four-cycle is one momentary whole.** 3-11-6-14: the carrying arriving, 3; the carrying chained, 11; the changing released, 6; the offerings surfacing, 14. Two carryings, odd, co and tri, and two parities, even, bi with co and bi with tri: one momentary's in and out.
+5. **Each of the four four-cycles at one relation, offered from the rows.** Torusing, 1-9-8-16: the momentary and the between of momentaries. Corusing, 2-15-7-10: each parity, offered, carried along, released. Moralizing, 3-11-6-14: the carrying with its arriving and its releasing. Competencing, 4-13-5-12: each sharing, its releasing, its receiving, and the changing is or is not.
+
+**Not yet sure, for both.** The files say bi-moral at each of the four across, 2, 6, 10 and 14, and *tri-moral* is at no living file. Each of the arriving and the releasing is at two names, one opening bi-co and one bi-tri: arriving at 2 and at 14, releasing at 6 and at 10. Followed here by the root, moralizing, the two are 14 and 6; by the two windings they are the society's, 10 to 14, and the other's, 6 to 2. One meaning at two steps, or two meanings: not yet followed.
