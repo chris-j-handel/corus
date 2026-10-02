@@ -1,0 +1,9 @@
+{
+  "standing": "Candidate for further improving; not a whole-file merge-ready claim",
+  "source_commit": "04145263729226f4f98eab6d64e8cd3eaf93f079",
+  "candidate": "incoming/v380A/Exhibit_TWO_Natural_Networking_candidate.md",
+  "sha256": "79425ca98edc367eeeeff721df5d7544eaea54e9976950014ab5c6459716ffdc",
+  "identical_to_working_copy": true,
+  "compared_with_root": "Exhibit_TWO_Natural_Networking_v371.md",
+  "prior_passages": "incoming/v380A/Prior_Passages.md"
+}

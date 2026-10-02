@@ -1,3 +1,5 @@
+> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
+
 # v380A · Natural Networking
 
 **Exhibit TWO, its complete duplicated kit, and discovering at the crossing podalings**
@@ -121,3 +123,8 @@ The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the
 ## Help through the improving files
 
 The session has directed the question into the other workings’ improving. [Progress](Progress.md), under “Improving question for Exhibit ONE, Natural Resolver,” now asks for one concrete passage through a self’s carrying, the other’s releasing arriving and the society’s releasing arriving, through completing and next opening at the actual names. Natural Resolver’s carrying receives the question; an answering passage from Natural Resolver, the Co-Chaining Logic Registry or Natural Naming can be received into Natural Networking. No user answer is required to restate what these files already carry.
+
+
+## Learning already shared by the other workings
+
+[Shared_Receiving_Learnings.md](Shared_Receiving_Learnings.md) records the fresh reading, the unchanged published standing, and what serves from both other workings. Multiple releasings at one momentary are already explained; naming order and resolving order remain distinct. The concern now keeps its actual receiver, scale and occurrences, and contributing everywhere carries no ownership or obligation.
