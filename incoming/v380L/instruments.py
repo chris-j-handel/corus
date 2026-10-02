@@ -328,3 +328,31 @@ for trial in range(2000):
 print('   this instrument\'s own going through a society is the resolver\'s at %d of 2000 societies' % as_written)
 print('   the zero released as two parities, the inverted and the carried: each self\'s carrying the same at %d of 2000 societies;'
       '\n      at the societies with one join or none arriving at each self, %d of %d' % (pair_same, one_in_same, one_in))
+
+# ---------------------------------------------------------------------------------------------------------------
+head(15, "Two selves, each carrying + at one sharing, each releasing to the other, each at its own momentary. Each"
+         "\n   momentary of a self is one of three: changing at its own, nothing or a parting arriving; changing to the"
+         "\n   parity arriving; or no changing, its own parity arriving. Three pacings said; and 2000 pacings at random,"
+         "\n   forty-eight momentaries each.")
+def pair(order):
+    car = {0: 1, 1: 1}; arr = {0: [], 1: []}; log = []
+    for group in order:
+        group = group if isinstance(group, (list, tuple)) else [group]
+        out = {}
+        for i in group:
+            rel, ch = entry([('s', car[i])], [('s', p) for p in arr[i]])
+            v = surfaced([('s', p) for p in arr[i]], 's'); r = dict(rel)['s']
+            kind = 'none' if r == 0 else ('arriving' if v in (1, -1) else 'own')
+            out[i] = (r, dict(ch)['s']); log.append((i, kind))
+        for i in group: car[i] = out[i][1]; arr[i] = []
+        for i in group:
+            if out[i][0] != 0: arr[1 - i].append(out[i][0])
+    return log
+def say(log): return ['  '.join(k for j, k in log if j == i) for i in (0, 1)]
+for title, order in (('together', [[0, 1]] * 6), ('one and the other in exchange, self 1 first', [0, 1] * 6)):
+    a, b = say(pair(order)); print('   %s\n      self 1: %s\n      self 2: %s' % (title, a, b))
+random.seed(382); tally = {'own': 0, 'arriving': 0, 'none': 0}; after_arriving = one = 0
+for trial in range(2000):
+    order = [random.randrange(2) for _ in range(48)]
+    for j, k in pair(order): tally[k] += 1
+print('   at random pacings: changing at its own %d, changing to the parity arriving %d, no changing %d' % (tally['own'], tally['arriving'], tally['none']))

@@ -3,10 +3,10 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at bdbe12d joined into it.
+**Branch:** `working/v380L`, with `main` at 6e58f65 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 2 October 2026, America/Los_Angeles.
-**Sources:** `main` at bdbe12d: Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its three files whole.
+**Sources:** `main` at 6e58f65: Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its four files whole.
 **Standing:** arriving, offered on this branch. No living file is changed.
 
 ## Progress
@@ -15,7 +15,7 @@
 |---|---|---|
 | The managing received | Worked by: this folder, this file's sections, the shared files unchanged here, this working's row at the Living File Registry's carrying | `incoming/v380R/Progress.md`, its section on the managing; the section here on the managing received |
 | The reading in | Natural Naming, Natural Explaining and the Geodesic Improving Method read whole | The README's front |
-| Exhibit ONE's tables and the resolver's lines followed | Twenty findings, fourteen instruments with their returned text | [README](README.md); `instruments.py` |
+| Exhibit ONE's tables and the resolver's lines followed | Twenty-one findings, fifteen instruments with their returned text | [README](README.md); `instruments.py` |
 | The entries at the carryings | Five at four carryings, two ready and three concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
@@ -30,7 +30,7 @@ The managing removes no prior of this working. Six places part, each said with t
 3. **A carrying carries the next.** Paragraphs this working laid as evidence bearing on another working's concern were neither ready nor concern. Each is at the README's section on bearing, at this folder alone.
 4. **A ready sentence changing a meaning.** Eight entries this working laid as ready changed a meaning or released a prior, as the managing's gathering says at its part on this working's entries. Each is a concern for both, or released; the table at the next section says each.
 5. **One finding at two entries.** The managing's gathering at Exhibit ONE carries this working's findings at two of its parts: four findings and a part of a fifth at its part on the resolver's own showing, and five concerns among its ten for both. This working lays none of them again at Exhibit ONE's carrying; its evidence for each is at the README's section on bearing.
-6. **This working's own file.** Each of the twenty findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
+6. **This working's own file.** Each of the twenty-one findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
 
 `main` and this working each added entries at one place of three carryings, Exhibit ONE's, Natural Naming's and the Geodesic Improving Method's. `main` is joined into this branch, `main`'s entries first and this working's next, each line of `main` checked present.
 
@@ -75,6 +75,7 @@ No motion at this working's own file is offered.
 - **Received and made.** At the entry's lines each name received is a name of 1 to 8 and each name made a name of 9 to 16: the prior momentary arriving, and this momentary's parity changing made. At the even names it is bi-co-bi beside bi-tri-bi, parting at 16 and at 14 at the lines of 17.
 - **Each condition, and the zero at a join.** The resolver's six conditions are at 14, at 12, at 11 and at a join being or not; a join passes each release. With a join passing a parity alone each self's carrying is the same, at 2,000 of 2,000 societies, and a parity released and the chained parity changing are together at each changing.
 - **The next parity at one sentence.** The next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero surfacing; the order 12, 11, 10 gives the same release and chaining. The zero said as two parities released is the same at one join arriving and parts at two.
+- **Each self at its own momentary.** Two selves each releasing to the other, entered one and the other in exchange: each goes through three, changing at its own, no changing, changing to the parity arriving, the two one of the three apart; a parity at a changing is the one thing passing.
 - **What the files carry.** Of the concerns this working laid, each but three was the set's own carrying said again: at a sentence of a living file, at the Session Record, at a concern of v378 or at the managing's ten.
 
 ## Concerns
@@ -82,6 +83,8 @@ No motion at this working's own file is offered.
 Three for both, each two sayings parting with its reason, at its file's carrying: the zero at 14; *side* and *step*; *advancing*.
 
 One for the managing: the folder's release to the archive beside five entries naming the folder.
+
+One across two workings, for both: the table's zero at two sayings of the session. At v380R: *not releasing is self-parity no changing*, and the managing's file on a living self as a carrying withdraws the zero as two changings at it. At this working: *if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity*. At the self the two give one carrying. They part at the other self: not releasing passes nothing, as the resolver's lines give; two releasings pass two parities, parting at 14 at a self with two arriving, finding 20. The session's next saying at this working, *only the parity changing between is shared*, is with the first.
 
 ## Opportunities and next
 
@@ -91,7 +94,7 @@ At the Co-Chaining Logic Registry: the file read whole at its newest version; it
 
 | Contributor | Branch and commit read | Files read | Receiving or concern | Disposition |
 |---|---|---|---|---|
-| v380R | `main` at bdbe12d | `incoming/v380R/Progress.md`, `README.md` and `Exhibit_ONE_Improving.md`, each whole; its entries at Exhibit ONE's, Natural Naming's and the Geodesic Improving Method's carryings | **Received**: the managing, worked by; its part on this working's entries, each done as the table here says. **Agreeing**: the carrying crosses at no join, and one sharing's parity crosses at its changing; each form's whole is the same up and down; co at 1 to 7 and 17. **For both, at its first of ten**: this working's sentence *one self's existing, released, is the other's possibling* says the parity released at 10 the parity chained at 11. *The possible* is at Exhibit ONE's rows of 2 and 10; existing and possibling are at Natural Naming's naming, at a momentary's opening and completing, and at no row of Exhibit ONE and no line of the resolver. **One correcting**: its fourth of ten, four of six. | Its ten for both at Exhibit ONE's carrying; this working's evidence at seven of them, at the README |
+| v380R | `main` at 6e58f65 | `incoming/v380R/Progress.md`, `README.md`, `Exhibit_ONE_Improving.md` and `Tour_A_Living_Self_Is_A_Carrying.md`, each whole; its entries at Exhibit ONE's, Natural Naming's and the Geodesic Improving Method's carryings | **Received**: the managing, worked by; its part on this working's entries, each done as the table here says. **Agreeing**: the carrying crosses at no join, and one sharing's parity crosses at its changing; each form's whole is the same up and down; co at 1 to 7 and 17. **For both, at its first of ten**: this working's sentence *one self's existing, released, is the other's possibling* says the parity released at 10 the parity chained at 11. *The possible* is at Exhibit ONE's rows of 2 and 10; existing and possibling are at Natural Naming's naming, at a momentary's opening and completing, and at no row of Exhibit ONE and no line of the resolver. **One correcting**: its fourth of ten, four of six. **From its file on a living self as a carrying, reached apart at both**: a parity arriving is the self's next carrying, its part on not releasing or releasing and this working's finding 20; the order 14, 12, 10 with 11 and this working's 12, 11, 10, the same release and chaining. **Added here to it**: a zero passing changes nothing, 2,000 of 2,000 societies, finding 19; each condition of the resolver is at a parity and none at a releasing's passing, finding 19; the names of 1 to 8 arriving from the prior momentary and the names of 9 to 16 the parity changing, finding 18; the pair at three kinds of momentary, finding 21. **Received for this working's own file**: its two ready offerings at the Co-Chaining Logic Registry's carrying, a living self a carrying and *connector* at twenty-two places of the file; and the session's sayings at it, *join* and *at the code* no natural naming, the resolver no authority, this report's words at both to be re-said at the files' motions. | Its ten for both at Exhibit ONE's carrying; this working's evidence at seven of them, at the README |
 | v380A | `working/v380A` at 819dbb9 | `incoming/v380A/README.md` and `Progress.md` whole; of `Session_Report.md` the sections on arriving, possibling and advancing and on out-facing and in-facing | **Agreeing**: a sharing chained at a parity and offered nothing inverts; the self's own 3 to 11 to the next 3 apart from its release across. **For both**: v380A says no self's prior is shared; this working says the parity released at 10 is the parity chained at 11, one sharing's parity at a changing and the carrying at no join. | The managing's first of ten carries it |
 
 ## Three fresh readers' readings

@@ -6,7 +6,7 @@
 
 **What stands.** Each computable row of each of Exhibit ONE's twenty-two tables is as written. Each of 293 full names in the file is at the rule. The resolver at v379 is the resolver at v378 under the new names.
 
-## One. What the resolver itself shows, decidable, each ready as a sentence
+## One. What the resolver itself shows, each an offering, the resolver no authority
 
 1. **One release at three joins.** The list released at 10 is the list at 6, and it arrives alike through a join at 6, at 10 and at 9, each sharing's changing, a parity or a 0, at the receiving self's offerings, its next 2. Exchanging the three joins changes nothing at 2,000 of 2,000 societies. Across and along are at the names and the numbers, at no line of a function.
 2. **The carrying crosses at no join.** A self's 11 is that self's 8 and that self's next 3. What crosses is one sharing's parity at its changing, the same parity that self chains at 11, or a 0 with the carrying unchanged.

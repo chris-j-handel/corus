@@ -2,14 +2,14 @@
 
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
 - **To**: Natural Naming, Natural Numbers, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
-- **Read at**: `main` at commit bdbe12d. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its three files. Read at the sections named here: Natural Intelligence v379 and the Co-Chaining Logic Registry v379.
-- **What it brings**: twenty findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **Read at**: `main` at commit 6e58f65. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its four files. Read at the sections named here: Natural Intelligence v379 and the Co-Chaining Logic Registry v379.
+- **What it brings**: twenty-one findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
 - **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`.
 - **Standing**: *arriving*. No living file is changed.
 
 ## The instruments
 
-`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries fourteen instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
+`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries fifteen instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
 
 ## The findings
 
@@ -62,6 +62,8 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 20. **Exhibit ONE, the resolver's lines: the order 12, 11, 10, the next parity at one sentence, and the zero said as two changings.** With 11 made from 12 and 10 made next, the release and the chaining are the same at 20,000 of 20,000 cases: 10 is 12's own list. At each sharing the next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero surfacing, at 40,105 of 40,105 sharings. At a sharing chained at a parity and the same parity surfacing, the carried parity inverted and the surfaced parity arriving are two changings, the next carrying the parity carried: the table's zero. With the zero released as those two parities, the inverted and the carried, each self's carrying is the same at each of 336 societies with one join or none arriving at each self, and at 1,235 of 2,000 societies of each kind: at a self with two joins arriving, the two parities part at 14 and stop another self's parity, and the zero as written lets it surface. Instrument 14, the numbers at its cases and societies alone.
 
+21. **Exhibit ONE, two selves each releasing to the other, each at its own momentary.** The resolver's lines of 17 enter each self together; the entry's lines are one self's own, and entered one self at a momentary they give each self its own momentaries, a parity at a changing the one thing passing from one self to the other. Each momentary of a self is one of three: changing at its own, nothing arriving; changing to the parity arriving; or no changing, its own parity arriving. Entered together, each of the two goes changing at its own, no changing, and again. Entered one and the other in exchange, each goes through the three in order, changing at its own, no changing, changing to the parity arriving, and the two are one of the three apart: at the one's changing at its own the other has no changing, and its next is changing to the parity arriving. Instrument 15, at its pacings alone.
+
 ## The entries at the carryings
 
 Each names this folder. Two are ready, a sentence entering with no meaning changed; three are concerns for both, each two sayings parting with its reason.
@@ -74,7 +76,7 @@ Each names this folder. Two are ready, a sentence entering with no meaning chang
 | The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
 | The Living File Registry's | Ready: this working's row for the table of workings | |
 
-At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17, 18, 19 and 20 are at this folder alone, 18, 19 and 20 bearing on the managing's first.
+At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17, 18, 19, 20 and 21 are at this folder alone, 18 to 21 bearing on the managing's first and on its file on a living self as a carrying, `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`.
 
 ## Bearing on concerns other workings carry
 
