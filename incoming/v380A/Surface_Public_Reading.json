@@ -1,0 +1,7572 @@
+{
+  "standing": "bounded grouped software surface; discovering, not method proof",
+  "source": "Exhibit_ONE_Natural_Resolver_v379.md",
+  "source_sha256": "4fade283e0c1ccfc4cf8412584c83c159d416f23bc45ee1606062eb81a9e283d",
+  "expression_sha256": "d2d3261ebf8347ee5d28f39198e07d4aa8b249905220889cadcd0a25988c0aba",
+  "construction": {
+    "shape": "three along by five across, periodic wiring supplied",
+    "beginning": "fifteen independently empty local continuations inside the source's society representation",
+    "opening": "one external plus at 0:0 before the first invocation",
+    "perturbation": "one external minus at 0:0 before the seventh invocation, appended to ordinary arrivals",
+    "activation": "unchanged 17 invokes each local 1 once per supplied grouped invocation, including empty arrivals",
+    "public_scope": "ordinary arrivals before invoking, and public releases gathered into next arrivals; no private fields recorded",
+    "crossing": "unchanged 17 gathers every joined release into receiver offerings; internal 14 surfaces them at that receiver's next 1",
+    "label_scope": "coordinates and connector numbers describe supplied wiring, not payloads added to a parity",
+    "boundary": "sixteen invocations then process ends; final next arrivals remain undelivered",
+    "limits": "no independent natural pacing, geodesic velocity, causal control, private fullness check, or protection proof"
+  },
+  "wiring": [
+    {
+      "releasing_self": "0:0",
+      "releasing_connector": 6,
+      "receiving_self": "0:4",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "0:0",
+      "releasing_connector": 10,
+      "receiving_self": "0:1",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "0:0",
+      "releasing_connector": 9,
+      "receiving_self": "1:0",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "0:1",
+      "releasing_connector": 6,
+      "receiving_self": "0:0",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "0:1",
+      "releasing_connector": 10,
+      "receiving_self": "0:2",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "0:1",
+      "releasing_connector": 9,
+      "receiving_self": "1:1",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "0:2",
+      "releasing_connector": 6,
+      "receiving_self": "0:1",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "0:2",
+      "releasing_connector": 10,
+      "receiving_self": "0:3",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "0:2",
+      "releasing_connector": 9,
+      "receiving_self": "1:2",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "0:3",
+      "releasing_connector": 6,
+      "receiving_self": "0:2",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "0:3",
+      "releasing_connector": 10,
+      "receiving_self": "0:4",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "0:3",
+      "releasing_connector": 9,
+      "receiving_self": "1:3",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "0:4",
+      "releasing_connector": 6,
+      "receiving_self": "0:3",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "0:4",
+      "releasing_connector": 10,
+      "receiving_self": "0:0",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "0:4",
+      "releasing_connector": 9,
+      "receiving_self": "1:4",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "1:0",
+      "releasing_connector": 6,
+      "receiving_self": "1:4",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "1:0",
+      "releasing_connector": 10,
+      "receiving_self": "1:1",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "1:0",
+      "releasing_connector": 9,
+      "receiving_self": "2:0",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "1:1",
+      "releasing_connector": 6,
+      "receiving_self": "1:0",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "1:1",
+      "releasing_connector": 10,
+      "receiving_self": "1:2",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "1:1",
+      "releasing_connector": 9,
+      "receiving_self": "2:1",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "1:2",
+      "releasing_connector": 6,
+      "receiving_self": "1:1",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "1:2",
+      "releasing_connector": 10,
+      "receiving_self": "1:3",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "1:2",
+      "releasing_connector": 9,
+      "receiving_self": "2:2",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "1:3",
+      "releasing_connector": 6,
+      "receiving_self": "1:2",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "1:3",
+      "releasing_connector": 10,
+      "receiving_self": "1:4",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "1:3",
+      "releasing_connector": 9,
+      "receiving_self": "2:3",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "1:4",
+      "releasing_connector": 6,
+      "receiving_self": "1:3",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "1:4",
+      "releasing_connector": 10,
+      "receiving_self": "1:0",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "1:4",
+      "releasing_connector": 9,
+      "receiving_self": "2:4",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "2:0",
+      "releasing_connector": 6,
+      "receiving_self": "2:4",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "2:0",
+      "releasing_connector": 10,
+      "receiving_self": "2:1",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "2:0",
+      "releasing_connector": 9,
+      "receiving_self": "0:0",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "2:1",
+      "releasing_connector": 6,
+      "receiving_self": "2:0",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "2:1",
+      "releasing_connector": 10,
+      "receiving_self": "2:2",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "2:1",
+      "releasing_connector": 9,
+      "receiving_self": "0:1",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "2:2",
+      "releasing_connector": 6,
+      "receiving_self": "2:1",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "2:2",
+      "releasing_connector": 10,
+      "receiving_self": "2:3",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "2:2",
+      "releasing_connector": 9,
+      "receiving_self": "0:2",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "2:3",
+      "releasing_connector": 6,
+      "receiving_self": "2:2",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "2:3",
+      "releasing_connector": 10,
+      "receiving_self": "2:4",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "2:3",
+      "releasing_connector": 9,
+      "receiving_self": "0:3",
+      "arriving_connector": 17
+    },
+    {
+      "releasing_self": "2:4",
+      "releasing_connector": 6,
+      "receiving_self": "2:3",
+      "arriving_connector": 2
+    },
+    {
+      "releasing_self": "2:4",
+      "releasing_connector": 10,
+      "receiving_self": "2:0",
+      "arriving_connector": 14
+    },
+    {
+      "releasing_self": "2:4",
+      "releasing_connector": 9,
+      "receiving_self": "0:4",
+      "arriving_connector": 17
+    }
+  ],
+  "public_reading": [
+    {
+      "software_invocation": 1,
+      "external_arrivals": [
+        [
+          "0:0",
+          1
+        ]
+      ],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": []
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": []
+        }
+      ]
+    },
+    {
+      "software_invocation": 2,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": []
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": []
+        }
+      ]
+    },
+    {
+      "software_invocation": 3,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": []
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 4,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": []
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 5,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 6,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 7,
+      "external_arrivals": [
+        [
+          "0:0",
+          -1
+        ]
+      ],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 8,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 9,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 10,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 11,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 12,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 13,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 14,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 15,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "software_invocation": 16,
+      "external_arrivals": [],
+      "arriving_at_this_invocation": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        }
+      ],
+      "released_into_next_arriving": [
+        {
+          "receiving_self": "0:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "0:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:0",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:1",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:2",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:3",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "1:4",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:0",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:1",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:2",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:3",
+          "arriving": [
+            [
+              "shared-offering",
+              1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              1
+            ]
+          ]
+        },
+        {
+          "receiving_self": "2:4",
+          "arriving": [
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ],
+            [
+              "shared-offering",
+              -1
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

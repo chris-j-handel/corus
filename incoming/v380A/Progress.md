@@ -8,7 +8,7 @@
 **Updated:** 2 October 2026, UTC; continuing coupling, do-no-harm readings and social moral competency offered.  
 **Continuing from:** `working/natural-networking-2026-10-01` at `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.  
 **Sources:** original duplicate from main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; v379 reviewed at `d77df0dc0aa6f5c07a707761d584187f190aade8`; current main received at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`.  
-**Standing:** incoming improving with the first bounded reciprocal software pair now executed; the complete natural-network surface remains open. Root living files and published kits are unchanged. Latest receiving and exact limits are below.
+**Standing:** incoming improving with a bounded reciprocal pair and the first bounded grouped software surface executed; the complete natural-network surface remains open. Root living files and published kits are unchanged. Latest receiving and exact limits are below.
 
 ## Floating neutralling contents
 
@@ -181,3 +181,74 @@ The session corrects our six-pair interpretation. Changing or no changing travel
 Momentarying_Sequence_Offering.md carries the correction, its value and the unfilled correspondence. “Local carrying and the shared crossing” receives one complete incoming paragraph; its prior remains whole. The own six-cycling concern at Natural Resolver receives the correction in place, preserving its prior wording and naming the travelling relation now to follow. No other entry changes. No new execution or reader approval is claimed for this directed addition; the earlier pair and its reviews retain their exact reach.
 
 Next follow each named relation and the arriving/releasing interleaving through the own momentarying, without turning the displayed words into imposed program calls or recovering a private prior. The earlier inward tri table correspondence remains available, but does not by itself explain this corrected sequence.
+
+
+## Travelling correspondence received at its own subjects
+
+**Found:** Natural Naming's three prefixes read from now back; read incoming, 17-co-bi-tri-offering gives tri bi co and 9-tri-bi-co-momentarying gives co bi tri. The managing's new offering gives these words arriving/carrying, between and releasing. Reading these as overlapping offered roles gives the session's tri bi co bi tri bi co without identifying it with the other out-and-back cycling. The common word does not join numbered occurrences; their actual unfolding remains to be followed. The correspondence is offered, not a complete operational derivation.
+
+**Changed:** the complete travelling paragraph within incoming “Local carrying and the shared crossing,” its whole prior section preserved; Momentarying_Sequence_Offering.md now has the exact name/direction table, the distinct own and public subjects, and two consecutive cases from the existing public pair. No new run, private observation or kit change. Root living files and published kits remain unchanged.
+
+**Learned about working:** a name's written order and its incoming direction must be stated before following its sequence. A repeated boundary word alone proves no identity of selves or couplings. Releasing at one self and arriving at another cannot decide the receiver's changing without its own resolving. Read the offered meaning beside the existing public observation, with each retaining its scope.
+
+**Gathered:** main and v380R at `6e1fc70cf9661c39be28734765335a22e3bcbbc8`; Progress whole, the tour whole across the successive readings, and the new Resolver/Naming carrying entries. v380L at `31fb8dd57fc75bd2715c50faacc1d0f37eb0434e`; Progress whole and complete README findings 21 and 22. Taken: co arriving/carrying, tri releasing, bi between as an offering; source no changing does not entail receiver no changing. Other workings' instruments were not rerun. Their exact counts and claims remain at their own standing.
+
+**Concern offered:** tri at 11 chains the same self's own continuation; tri at a public releasing participates across. The new general saying “what crosses is its tri” needs both subjects carried explicitly. This is at Natural Resolver's carrying as two sayings with the reason, for its own resolving, without a network-testing prerequisite.
+
+**Not yet done:** natural activation, full coupling correspondence, geodesic tunnelling and social moral competency remain discovering opportunities. This pass offers no proof of six-forward cohering or of the method. The managing arrangement requires no harm to our completed work; losing the older sayings, treating names as a common caller's clock, or turning private chaining into a crossing would harm it. All earlier readings, public results and corrected sayings remain. No root living-file motion is offered ready.
+
+
+## Travelling offering: reading and readiness
+
+The fresh and harm readers compared the complete local section with its whole prior, receiving the three craft files at their unchanged whole-reading standing. The fresh reader found that a common prefix word did not identify a numbered opening; the section and correspondence now say offered roles and explicitly leave the actual numbered passage open. Both readers found no further local departure in the revised wording within that scope. Both Resolver concerns remain open: own chaining versus public crossing, and overlapping words versus the actual numbered passing. Their complete reports are at reviews/Fresh_Reading_Travelling.md and reviews/Harm_Reading_Travelling.md.
+
+Preservation checks confirm one complete paragraph changed in the incoming exhibit, the immediate whole section preserved, other workings' carrying entries unchanged, and root living files, kits and the existing public pair unchanged. Both quoted public events match that record. The carrying check passes at its stated structural scope; no further execution was performed. This incoming paragraph and its supporting records are ready for the managing's reading, not a whole living-file motion or a completed resolution of the two concerns.
+
+
+## The three workings: continuing inbound improving
+
+The session's shared message is received: v380R manages the branches and works now at Exhibit ONE, Natural Resolver; v380A continues aiming at Exhibit TWO, Natural Networking; v380L continues aiming at Exhibit THIRTY, the Co-Chaining Logic Registry. All three contribute to Natural Resolver by placing their actual findings at its carrying, with each working retaining its own file and sentences. This working will read both others' improvings during active work and record what is taken, what changes, what is learned and what remains.
+
+The travelling tri bi co bi tri bi co offers a way to explain our reciprocal receiving and contributing. It supplies no common clock and proves no identity between a team's workflow and the resolver method. The arrangement requires no harm to the work already done. The managing alone receives motions into main; the complete older contribution, preserved passages, public evidence and open concerns remain. This is a working arrangement for active sessions, not a claim that unattended background sessions continue running.
+
+This working's immediate contribution to Natural Resolver is now concrete: the exact incoming prefix reading, with the numbered occurrence still open, and the private chaining/public releasing distinction. Natural Networking receives their useful explaining at its offered standing while the managing meets the concerns at Natural Resolver. Further network discovering follows the actual arriving and the self's own continuing, with social moral competency aimed at the complete participation.
+
+
+## After resting: the surface beginning and perturbing
+
+**Found:** a fresh fetch of main and both other working branches shows no new published changes since the preceding receiving. Both Progress files were read whole again. The managing remains at `6e1fc70cf9661c39be28734765335a22e3bcbbc8`, the Co-Chaining Logic Registry working at `31fb8dd57fc75bd2715c50faacc1d0f37eb0434e`. Their progress still records an older reading of this working; we cannot claim our newer contributions have been received merely because they are published.
+
+**Changed:** Surface_Arriving_Plan.md makes the beginning, perturbation and exact remaining receiving relation concrete. Incoming “Each self continuing through its own carrying” receives a complete added paragraph; the whole prior section is preserved. Carrying is formed through arriving and own resolving, with no private prepopulation or copied comparison. A later perturbation enters an ordinary arriving on the same continuing. No surface or perturbation was executed.
+
+**Learned about working:** preparing an empty software receiver does not establish a participating carrying. The unchanged source distinguishes an unparted nonzero arriving at a new sharing, none surfacing, and opposite parities parting there. Those source cases can guide preparation without observing private carrying. A before/after public change is not by itself a perturbation-specific result; the self's own resolving also continues. The existing pair's final boundary ended that software execution, so there is no still-running pair to perturb by pretending its private continuation persisted.
+
+**Opportunities:** express both across passages and the along relation at their actual self and scale, then introduce one declared public perturbing arriving on the same proceeding. Public observations alone accompany it. Geodesic turning, tunnelling and social moral competency remain the aim at the complete participation.
+
+**Not yet done:** the surface's receiving procedure, specifically the self's own continuing at no changed arrival and which arriving releases participate at that self's momentary. The existing grouped society invocation and alternating pair caller are stated software constructions; enlarging either does not meet this relation. This is a concern at the proposed network rendering, not a prerequisite for accepting or testing the resolver method. No new receiving from the others removed that construction concern, and no larger execution is claimed. The managing arrangement requires no loss of prior work.
+
+
+## Surface preparation: readings and readiness
+
+The fresh and harm readings found no concrete departure in the incoming preparation at their scope. The new-sharing source conditions agree; the prior section's private continuing, positive participation and complete-society competency remain. The reviewers explicitly retain the unimplemented own receiving and the absence of any guaranteed changed response to the proposed perturbing offering. Their reports are at reviews/Fresh_Reading_Surface_Arriving.md and reviews/Harm_Reading_Surface_Arriving.md.
+
+Preservation checks confirm one complete paragraph added, the whole prior section retained, other workings' entries unchanged, and root living files, kits and existing public results unchanged. The carrying check reports its structural standing without an issue. The plan, incoming paragraph and carrying entries are ready for the managing to receive; no whole living-file motion, larger surface execution or completed geodesic discovering is claimed. The next work is the actual receiving procedure named at the plan, before a filled-surface claim.
+
+
+## Work proceeding now: first bounded surface
+
+**Correction to our stopping:** this work did not require further user help. The v375 Session Record already carries the code's grouped stepping beside the living's own rates, and Natural Intelligence's “φ and the primes, unrelationing at the numbers” and “A society's next momentary at 17” repeat the distinction. The earlier surface plan's limit on a filled natural-surface claim was too broadly treated as a stop on all larger bounded experiments. That limited claim remains open; this narrower construction can proceed with its supplied conditions.
+
+**Changed and executed:** participating_surface.py uses the complete unchanged current Resolver expression and its society entry. Three by five periodic wiring uses six left to two, ten right to fourteen and nine along to the next row's seventeen. One enclosing closure contains the society representation with fifteen initially independent empty continuations. Only ordinary arriving fields are exposed for recording or external insertion. Sixteen grouped invocations supply activation even with empty arrivals; a plus before the first and minus before the seventh are declared external offerings on one proceeding. The final next arrivals are undelivered. Both fresh and harm readers found no pre-run blocker at that exact scope. The first run is preserved whole at Surface_Public_Reading.json.
+
+**Found:** every designated receiver received nonzero public parity before the later external offering. This establishes public reach within the constructed surface, not private fullness or a natural surface. At the selected perturbing receiving, plus, plus, minus had already arrived; the further minus adds no new surfaced alternative. The source surfaces parting parities as zero without counting. No perturbation-specific later effect is claimed. Public handoffs were checked against the next invocation plus declared insertion; the source hash matches. No private carryings, twins or hidden traces were inspected or compared.
+
+**Learned about working:** a limitation on one claim must not become an unnecessary stop on a narrower useful investigation. The user need not resolve an implementation choice already available within the expedition's stated scope. An added parity may be redundant at an already parting receiving; the next perturbation must be followed at the actual public surfacing relation instead of being assumed effective. The original fresh/harm readings preceded the run and retain that scope; their later returned-result readings, where completed, are appended separately to the same reports.
+
+**Next:** follow a different surfaced condition through a declared public arriving on a continuing proceeding, preserving this first result. Independent natural pacing, the complete numbered travelling correspondence and actual social moral competency remain opportunities. The bounded surface does not decide them or test the resolver method. No main or other working's living file was changed.
+
+
+## Bounded surface: ready for the shared receiving
+
+Both pre-run readings found no blocker to the declared construction. The later fresh reading verified the public reach, source hash, all public handoffs and the already-parting perturbation; the harm reading checked the selected public entries and the whole prior/current section, with its narrower reach stated. Neither found a post-run publication blocker. No independent natural pacing or method proof was supplied by either reading.
+
+The incoming paragraph, new instrument, complete public return, readies, corrected scope and report are ready for the managing's receiving. The kit integrity check passes. Preservation checks confirm the whole prior section, other workings' entries, root living files, published kits and old pair are unchanged; the working kit adds only its new instrument and changes its own README and checksum manifest. The natural surface's fuller correspondence remains open alongside this completed bounded execution.
