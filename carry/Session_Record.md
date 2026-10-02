@@ -2161,3 +2161,7 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 ## Exhibit ONE, each thing an improving of it meets, gathered (v380)
 
 **Adding.** v380L's report and v380A's report met whole, v380L's instruments executed again, a fresh reader at Exhibit ONE alone, each computable table computed again and each as written. `incoming/v380R/Exhibit_ONE_Improving.md`; one ready and two concerns at Exhibit ONE's carrying; the front and this working's progress. No living file changed.
+
+## The workings v380L and v380A received at the main line, and the three combined (v380)
+
+**Adding.** `incoming/v380L/` and `incoming/v380A/`, each whole; v380L's five entries at four carryings and v380A's entries at seven, each of the managing's and each other working's entries carried beside, each added line checked present and no line of the main line removed. `incoming/v380R/Three_Workings_Combined.md`; one concern at Exhibit ONE's carrying; the front. The session's sayings at v380R, each laid whole at its carrying and followed at `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`: a living self a carrying; the engine; the smart valves; not releasing or releasing; *connector*, *join* and *face* dissolving; the six; social abundancing; the binary at each of the seventeen. No living file changed.
