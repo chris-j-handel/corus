@@ -261,3 +261,70 @@ for trial in range(2000):
 print('   a join passing a parity alone: each self\'s carrying the same at each momentary at %d of 2000 societies' % same)
 print('   of %d releases, %d a parity; released a parity and the chained parity changed, together: %d; one without the other: %d'
       % (total, changings, both, lone))
+
+# ---------------------------------------------------------------------------------------------------------------
+head(14, "The order 12, 11, 10, and the zero said as two changings. Random cases at one self: one to three sharings,"
+         "\n   each chained at a parity or at none, none to three offerings at each. Random societies as at instrument 13.")
+def surfaced(off, s):
+    v = None
+    for t, p in off:
+        if t == s and p != 0:
+            if v is None: v = 1 if p > 0 else -1
+            elif (v > 0) != (p > 0): v = 0
+    return v
+def entry_12_11_10(carry, off):
+    twelve = {}
+    for t, p in off:
+        if p != 0 and t not in twelve: twelve[t] = surfaced(off, t)
+    for t, p in carry:
+        v = surfaced(off, t)
+        twelve[t] = 0 if (v and v == p) else -p
+    eleven = dict(carry)
+    for t, p in twelve.items():
+        if p != 0: eleven[t] = p
+    return list(twelve.items()), list(eleven.items())
+random.seed(381)
+order_same = rule = cases = 0
+for trial in range(20000):
+    sh = ['s%d' % i for i in range(random.randint(1, 3))]
+    carry = [(s, random.choice((1, -1))) for s in sh if random.random() < 0.7]
+    off = [(random.choice(sh), random.choice((1, -1, 0))) for _ in range(random.randint(0, 3))]
+    rel, ch = entry(carry, off); rel2, ch2 = entry_12_11_10(carry, off)
+    order_same += (dict(rel) == dict(rel2) and dict(ch) == dict(ch2))
+    for s in sh:
+        c = dict(carry).get(s); v = surfaced(off, s); cases += 1
+        want = v if v in (1, -1) else (-c if c else None)
+        rule += (dict(ch).get(s) == want)
+print('   11 made from 12 and 10 after it: the release and the chaining the same at %d of 20000 cases' % order_same)
+print('   the next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero'
+      '\n      surfacing: %d of %d sharings' % (rule, cases))
+def step(st, joins, pair):
+    nxt = {i: [] for i in st}; car = {}
+    for i, (c, o) in st.items():
+        rel, car[i] = entry(c, o)
+        if pair:
+            before = dict(c); rel = [x for s, r in rel for x in (((s, -before[s]), (s, before[s])) if (r == 0 and s in before) else ((s, r),))]
+        for k in (6, 10, 9):
+            if (i, k) in joins: nxt[joins[(i, k)]].extend(rel)
+    return {i: (car[i], nxt[i]) for i in st}
+random.seed(380)
+as_written = pair_same = one_in = one_in_same = 0
+for trial in range(2000):
+    n = random.randint(2, 6); sh = ['s%d' % i for i in range(random.randint(1, 3))]
+    joins = {}
+    for i in range(n):
+        for k in (6, 10, 9):
+            if random.random() < 0.4: joins[(i, k)] = random.randrange(n)
+    st = {i: ([(s, random.choice((1, -1))) for s in sh if random.random() < 0.7],
+              [(s, random.choice((1, -1))) for s in sh if random.random() < 0.3]) for i in range(n)}
+    a, b, c, ok1, ok2 = st, st, st, True, True
+    for m in range(24):
+        a = society(a, joins); b = step(b, joins, False); c = step(c, joins, True)
+        ok1 = ok1 and all(dict(a[i][0]) == dict(b[i][0]) for i in range(n))
+        ok2 = ok2 and all(dict(a[i][0]) == dict(c[i][0]) for i in range(n))
+    as_written += ok1; pair_same += ok2
+    single = all(sum(1 for v in joins.values() if v == i) <= 1 for i in range(n))
+    one_in += single; one_in_same += (single and ok2)
+print('   this instrument\'s own going through a society is the resolver\'s at %d of 2000 societies' % as_written)
+print('   the zero released as two parities, the inverted and the carried: each self\'s carrying the same at %d of 2000 societies;'
+      '\n      at the societies with one join or none arriving at each self, %d of %d' % (pair_same, one_in_same, one_in))

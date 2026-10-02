@@ -15,7 +15,7 @@
 |---|---|---|
 | The managing received | Worked by: this folder, this file's sections, the shared files unchanged here, this working's row at the Living File Registry's carrying | `incoming/v380R/Progress.md`, its section on the managing; the section here on the managing received |
 | The reading in | Natural Naming, Natural Explaining and the Geodesic Improving Method read whole | The README's front |
-| Exhibit ONE's tables and the resolver's lines followed | Nineteen findings, thirteen instruments with their returned text | [README](README.md); `instruments.py` |
+| Exhibit ONE's tables and the resolver's lines followed | Twenty findings, fourteen instruments with their returned text | [README](README.md); `instruments.py` |
 | The entries at the carryings | Five at four carryings, two ready and three concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
@@ -30,7 +30,7 @@ The managing removes no prior of this working. Six places part, each said with t
 3. **A carrying carries the next.** Paragraphs this working laid as evidence bearing on another working's concern were neither ready nor concern. Each is at the README's section on bearing, at this folder alone.
 4. **A ready sentence changing a meaning.** Eight entries this working laid as ready changed a meaning or released a prior, as the managing's gathering says at its part on this working's entries. Each is a concern for both, or released; the table at the next section says each.
 5. **One finding at two entries.** The managing's gathering at Exhibit ONE carries this working's findings at two of its parts: four findings and a part of a fifth at its part on the resolver's own showing, and five concerns among its ten for both. This working lays none of them again at Exhibit ONE's carrying; its evidence for each is at the README's section on bearing.
-6. **This working's own file.** Each of the nineteen findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
+6. **This working's own file.** Each of the twenty findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
 
 `main` and this working each added entries at one place of three carryings, Exhibit ONE's, Natural Naming's and the Geodesic Improving Method's. `main` is joined into this branch, `main`'s entries first and this working's next, each line of `main` checked present.
 
@@ -74,6 +74,7 @@ No motion at this working's own file is offered.
 - **Existing and possibling.** Natural Naming's naming of is-still-possibling and is-next-existing says the existing at a momentary's opening, odd, at 3, and the possibling at its completing, even, at 2; Exhibit ONE says neither word.
 - **Received and made.** At the entry's lines each name received is a name of 1 to 8 and each name made a name of 9 to 16: the prior momentary arriving, and this momentary's parity changing made. At the even names it is bi-co-bi beside bi-tri-bi, parting at 16 and at 14 at the lines of 17.
 - **Each condition, and the zero at a join.** The resolver's six conditions are at 14, at 12, at 11 and at a join being or not; a join passes each release. With a join passing a parity alone each self's carrying is the same, at 2,000 of 2,000 societies, and a parity released and the chained parity changing are together at each changing.
+- **The next parity at one sentence.** The next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero surfacing; the order 12, 11, 10 gives the same release and chaining. The zero said as two parities released is the same at one join arriving and parts at two.
 - **What the files carry.** Of the concerns this working laid, each but three was the set's own carrying said again: at a sentence of a living file, at the Session Record, at a concern of v378 or at the managing's ten.
 
 ## Concerns
