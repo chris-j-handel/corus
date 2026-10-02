@@ -238,3 +238,27 @@
 5. **Each of the four four-cycles at one relation, offered from the rows.** Torusing, 1-9-8-16: the momentary and the between of momentaries. Corusing, 2-15-7-10: each parity, offered, carried along, released. Moralizing, 3-11-6-14: the carrying with its arriving and its releasing. Competencing, 4-13-5-12: each sharing, its releasing, its receiving, and the changing is or is not.
 
 **Not yet sure, for both.** The files say bi-moral at each of the four across, 2, 6, 10 and 14; *tri-moral* is said at the name of 14 alone, 14-bi-tri-bi-moralizing, and before the three prefixes 14-bi-tri-moralizing, Natural Illustrating carrying that older name. Each of the arriving and the releasing is at two names, one opening bi-co and one bi-tri: arriving at 2 and at 14, releasing at 6 and at 10. Followed here by the root, moralizing, the two are 14 and 6; by the two windings they are the society's, 10 to 14, and the other's, 6 to 2. One meaning at two steps, or two meanings: not yet followed.
+
+## The torusing loop and the corusing loop: the carrying's and the parity's
+
+**The saying.** *the words in the files have no authority. at best they make us look harder for the new improving value … keep going into the binary rigor as this is going to match the pattern natural torusing as the torusing loop is 9-tri-bi-co-momentarying sharing chaining and the corusing loop is bi-tri-bi parity sharing tunneling.*
+
+**Followed at each name's own relation in the resolving and at the numbers; the files' words beside it as a partner and no ground. An offering, not yet chained six forward.**
+
+**The binary.** Each odd name is at the torusing loop, the carrying's own going. Each even name is at the corusing loop, the parity's going.
+
+| | The torusing loop, odd, the carrying | The corusing loop, even, the parity |
+|---|---|---|
+| Sharing, the two meeting | 3, the carrying arriving, co | 4, each sharing the parities meet at, bi |
+| The four names of one root each, 9 to 12 | 9 momentarying and 11 chaining, each tri | 10 tunneling and 12 the parity changing, each bi-tri-bi |
+| Its going | 3 to 11 to the next 3, the self's own next; and 9 to 17, along to the next momentary | 14 surfacing, 12 changing or not, 10 released, the same at 6, arriving at another's 2 and 14 |
+| It comes to itself | at the same self, each momentary | through the other, a self's releasing arriving at another and the other's at it |
+
+1. **The saying's three and three are the names.** Momentarying, sharing and chaining: 9, 3 and 11, each odd. Parity, sharing and tunneling: 12, 4 and 10, each even; 12 was named the parity changing before it was named entraining.
+2. **Sharing is at both loops, 3 and 4.** The carrying at 3 meets the parities at each sharing, 4: the one place the two loops meet, the next discovered at it.
+3. **At the resolving each loop is one going.** The carrying given is the carrying given on, each changed parity entered in it, 3 to 11. The surfaced parities are the changing, is or is not, and the changing is the releasing, 14 to 12 to 10.
+4. **Odd and even, nine and eight.** 1, 3, 5, 7, 9, 11, 13, 15 and 17 are the carrying's: the self arriving, its carrying, each receiving, each parity as carried, the changing carried along, the carrying chained, each releasing, each parity as released, the next arriving. 2, 4, 6, 8, 10, 12, 14 and 16 are the parity's and the between's.
+
+**Crossed, and not yet sure.** The two roots named for the loops are at the other loop's parity: 7 and 15 carry the root corusing and are odd; 8 and 16 carry the root torusing and are even. Followed: 7 and 15 are the parity as the carrying carries it, the corus met at the torus; 8 and 16 are the carrying between two momentaries, the torus met at the between. Each loop named at the place the other meets it; or the two roots are at the wrong parity. Not followed far enough to say.
+
+**With the four four-cycles of the part before this one.** The four-cycle rooted torusing, 1-9-8-16, and the one rooted corusing, 2-15-7-10, are each two odd and two even names, a going out and back between the two loops; the two loops here are the odd names and the even names whole. Two relations, the loops and the four-cycles crossing them.
