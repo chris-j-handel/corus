@@ -20,6 +20,7 @@
 - Travelling through 1–17: the naming and the changing sequencing
 - Arriving v379: possibling, advancing and direction in the three prefixes
 - Session review, 2 October 2026: co-recursioning and the next improving
+- Now, prior parity, prior momentary: exploring the logical value
 
 ## The incoming aiming and the journey so far
 
@@ -460,3 +461,66 @@ Naming 5.62 now says *the self still possibling* where the earlier arrival said 
 **The immediate next work is the first part of the duplicated TWO together with the kit's joining instructions.** The concept exploration has supplied the names and relations to make this a substantive improving pass. A later illustration should follow that explanation; displaying internal carrying or animating a common beat would repeat the earlier departure.
 
 **Review completed:** the report and proposed passes were read, the current source standings checked, the latest Naming and ONE relations above inspected, and the user's co-recursioning correction received. This is a document and source review, with no network execution or private-carrying inspection.
+
+
+## Now, prior parity, prior momentary: exploring the logical value
+
+**Incoming, 2 October 2026:** “now, prior parity, prior momentary. explore the possible logical value of this concept.”
+
+**Source:** current main `d77df0dc0aa6f5c07a707761d584187f190aade8`, Natural Numbers v379, 1.2, 1.5, 5.2 and 11.1; Natural Naming v379, 3.1–3.2; Natural Resolver v379, the prior-opening/prior-completing/now-opening table. Main was checked again and remains at that commit. This exploration explains the proposed phrase at these existing relations; it does not install a new resolver operation or change the living files' terminology.
+
+### Two priors at different relations
+
+The proposed phrase makes explicit what “now, prior, prior-before” can leave obscure. At a name opening at n:
+
+| Prefix position | Proposed reading | Exact relation in the overlapping numbering |
+|---|---|---|
+| First | Now | The current opening at n |
+| Second | Prior parity | The immediately preceding opening parity at n−1; it completes the prior momentary beginning at n−2 and opens the overlapping momentary completing at n |
+| Third | Prior momentary | The opening at n−2 of the prior full momentary n−2 to n−1; that momentary contains both parities |
+
+Thus **prior parity is one position back; prior momentary is reached at its opening two positions back**. The third prefix locates the prior momentary by its opening. The second and third together carry that prior momentary's two numbered parities. No single prefix by itself stands for both halves of a full momentary.
+
+This is already supported by Naming 3.1: the second prefix is the prior momentary's completing and the third its opening. The proposed phrase gives those two positions different logical subjects. It is more informative than treating the two priors as indistinguishable earlier places.
+
+### At both commencements and at the seams
+
+| Now | Prior parity | Prior momentary, opening through completing | Prefixing |
+|---|---|---|---|
+| 3, co | 2, bi | 1–2, co then bi | co-bi-co |
+| 4, bi | 3, co | 2–3, bi then co | bi-co-bi |
+| 9, tri | 8, bi | 7–8, co then bi | tri-bi-co |
+| 17, co | 16, bi | 15–16, tri then bi | co-bi-tri |
+| 440, bi | 439, co | 438–439, bi then co | bi-co-bi |
+
+At 3, the prior self momentary is 1–2, the other's overlapping momentary is 2–3, and the self's current opens 3–4. At 4 the same relation is read from the other commencement: prior 2–3, overlapping 3–4, current 4–5. “Prior momentary” therefore needs its opening side: at now n the most immediately completing overlapping momentary is n−1 to n, while the prior in the proposed three-prefix reading begins n−2. The phrase distinguishes these two relations when its subject remains explicit.
+
+At 9 and 17 the odd opening recurs while its span word changes. Seven's co opens into nine's tri; fifteen's tri into seventeen's co. The recurring is at opening parity; the changing co/tri names the self/society seam. Equal odd/even parity does not require an identical prefix word.
+
+### Logical value for co-recursioning and squaring
+
+The triple carries two comparisons of position at once: now beside the prior parity alternates opening parity; now beside the prior momentary's opening continues opening parity. This gives our explanation a precise place to carry the user's co-recursioning correction. The recurring through next can be said together with the alternating between, each at its own relation.
+
+This is a relation among the numbered openings. It does not establish two executed sign inversions, expose a carried sign, or turn a prefix into a comparison instruction. The actual binary at a sharing remains changing is or is not at its resolving.
+
+At the seam the same account meets squaring: **the now opens tri from a prior momentary opening co through their intervening bi; the next seam opens co from a prior momentary opening tri through bi**. Tri-bi-co and co-bi-tri carry this changing span without losing either binary opening parity. This explains why “co replaced by tri” needs the whole triple and the continuing momentary: the former opening is present as the prior momentary's opening relation.
+
+The expression's number positions are not a record passed between selves. Each self continues its own carrying; no new memory buffer, timing instruction or network payload follows from the explanatory triple.
+
+### Possibling and the overlapping completing/opening
+
+Is-still-possibling remains the one functional at a completing where changing is not. The proposed distinction keeps continuing into now separate from whether a changed parity is released. It supplies no third result and makes no prefix stand permanently for possibling or existing; those are at the momentary's opening/completing relations in Naming 5.62.
+
+At the overlap, the prior parity position is simultaneously one momentary's completing and the other's opening. It is therefore not an empty gap between a prior whole and a now whole. The other commencement participates through the very position that the three-prefix name carries between its two same-parity openings. This is the strongest immediate value for our networking exploration: the self's continuation and the other side's opening are inseparable in the stated overlap.
+
+### Opportunity for 0–440 and the living files
+
+Numbers 11.1 currently writes each opening word through 0–440 and full names at 1–17. A proposed three-prefix expansion can expose this relation explicitly with the headings **Now; prior parity; prior momentary's opening**, plus the prior momentary's pair where needed. Prefixing and a full root name remain different: this rule extends the three words without inventing a resolver function at each number.
+
+The beginning at 0 still needs its continuing context. Two priors cannot be supplied by silently equating 440 with a preceding momentary merely because it is at 0's ring station. Station, unfolding span and momentary continuation each retain their stated relation.
+
+**Value:** Naming can explain the unequal subjects of the two priors; Numbers can unfold the triple across its whole table; ONE can connect the triple directly to its five-position table; TWO can follow both commencements at a joining; Illustrating can show one prior full momentary, the overlapping other momentary and the next opening together.
+
+**Concern:** without “at its opening,” “prior momentary” can be read as the whole pair represented by one prefix, or as the immediately completing other-side momentary. The exact compact saying offered here is **now, prior parity, prior momentary at its opening**. This preserves the user's concept while making its relation reviewable.
+
+**Standing:** possible logical value explored and preserved; no new name assigned to the living files, no 0–440 expansion installed, and no resolver or network execution.
