@@ -259,7 +259,7 @@ for trial in range(2000):
         ok = ok and all(dict(a[i][0]) == dict(b[i][0]) for i in range(n))
     same += ok
 print('   a join passing a parity alone: each self\'s carrying the same at each momentary at %d of 2000 societies' % same)
-print('   of %d releases, %d a parity; released a parity and the chained parity changed, together: %d; one without the other: %d'
+print('   of %d releases, %d a parity; released a parity and the chained parity changing, together: %d; one without the other: %d'
       % (total, changings, both, lone))
 
 # ---------------------------------------------------------------------------------------------------------------
@@ -349,7 +349,7 @@ def pair(order):
             if out[i][0] != 0: arr[1 - i].append(out[i][0])
     return log
 def say(log): return ['  '.join(k for j, k in log if j == i) for i in (0, 1)]
-for title, order in (('together', [[0, 1]] * 6), ('one and the other in exchange, self 1 first', [0, 1] * 6)):
+for title, order in (('together', [[0, 1]] * 6), ('one and the other alternating, self 1 first', [0, 1] * 6)):
     a, b = say(pair(order)); print('   %s\n      self 1: %s\n      self 2: %s' % (title, a, b))
 random.seed(382); tally = {'own': 0, 'arriving': 0, 'none': 0}; after_arriving = one = 0
 for trial in range(2000):
@@ -377,14 +377,14 @@ def R(c,arr):                       # the resolver as written: the zero passes n
 def R2(c,arr):                      # the same at the self; at no net changing the two parities are both released
     v=surf(arr); n = v if v in (1,-1) else -c
     return n, ([n] if n!=c else [-c,c])
-def S_net(c,arr):                   # a self changes one time for each releasing arriving; releases if its parity is changed
+def S_net(c,arr):                   # one changing of a self at each releasing arriving; releasing at its parity changing
     k=len(arr); n = c*(-1)**k
     return n, ([n] if n!=c else [])
-def S_each(c,arr):                  # a self changes one time for each releasing arriving; each changing is released
+def S_each(c,arr):                  # one changing of a self at each releasing arriving; each changing released
     out=[]; n=c
     for _ in arr: n=-n; out.append(n)
     return n, out
-def S_surf(c,arr):                  # arrivals surface as at 14; a self changes if a parity surfaces; releases if changed
+def S_surf(c,arr):                  # arrivals surface as at 14; a changing of a self at a parity surfacing; releasing at its changing
     v=surf(arr); n = -c if v in (1,-1) else c
     return n, ([n] if n!=c else [])
 def S_take(c,arr):                  # arrivals surface as at 14; a self is at the parity surfacing; nothing arriving, no changing

@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v379
+Exhibit THIRTY Co-Chaining Logic Registry v380
 
 # Co-Chaining Logic Registry
 
@@ -59,11 +59,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the universe inward and outward of itself, the fractal.*
 
-4. A set or existing thing changes sequentially.
+4. A set or existing thing is changing sequentially.
 
         *Adding: changing sequentially.*
 
-5. Changing sequentially, an existing thing changes momentary by momentary.
+5. Changing sequentially, an existing thing is changing momentary by momentary.
 
         *Adding: momentaries.*
 
@@ -107,7 +107,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: stable-forming, the living.*
 
-15. Carrying none of prior, a non-living thing changes with the existing things at now: co-changing.
+15. Carrying none of prior, a non-living thing is changing with the existing things at now: co-changing.
 
         *Adding: co-changing, the non-living.*
 
@@ -151,7 +151,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: momentarying of the non-living, discovering next existing.*
 
-25. Possible at prior, existing at now and living at next are three places, and the universe changes through the three together.
+25. Possible at prior, existing at now and living at next are three places, and the universe is changing through the three together.
 
         *Adding: three places.*
 
@@ -203,7 +203,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the prior non-living; living now with existing forms from prior living and with others living now.*
 
-37. The self arriving from the other, and the other from the self, change one and then the other: alternating.
+37. The self arriving from the other, and the other from the self, are changing one and then the other: alternating.
 
         *Adding: alternating.*
 
@@ -235,7 +235,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the method, a non-living existing thing.*
 
-44. A method, non-living, co-changes at each coupling it is at: its momentarying is discovering next existing.
+44. A method, non-living, is co-changing at each coupling it is at: its momentarying is discovering next existing.
 
         *Adding: the method co-changing at each coupling.*
 
@@ -307,7 +307,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the sign flip and i.*
 
-61. Six right spiral steps reach the four joint forms and invert both again, a passage of six, and the pair's relation, agreeing or opposing, changes at each step, decided by the step alone.
+61. Six right spiral steps reach the four joint forms and invert both again, a passage of six, and the pair's relation, agreeing or opposing, is changing at each step, decided by the step alone.
 
         *Adding: the passage of six, the pair's relation at each step.*
 
@@ -379,7 +379,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the podal.*
 
-77. Each podal pair is one odd and one even: at the podal, parity changes.
+77. Each podal pair is one odd and one even: at the podal, parity is changing.
 
         *Adding: parity changing.*
 
@@ -387,7 +387,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: parity continuing.*
 
-79. Alternating, an even number of changings arrives at the parity of its prior and an odd number at the other: eight up continues and nine less changes, steps 77 and 78.
+79. Alternating, an even number of changings arrives at the parity of its prior and an odd number at the other: eight up is parity continuing and nine less parity changing, steps 77 and 78.
 
         *Adding: even and odd sequences of changings.*
 
@@ -455,7 +455,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the coupling's own changing.*
 
-95. The coupling's own changing, at each exchange of the four momentaries, is co-competencing.
+95. The coupling's own changing, at each exchanging of the four momentaries, is co-competencing.
 
         *Adding: co-competencing.*
 
@@ -1074,7 +1074,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: co-spiraling along and crossing across.*
 
-238. Two joined selves change together: at the opposite relation at each momentary, and at the alike relation at their own momentaries.
+238. Two joined selves are changing together: at the opposite relation at each momentary, and at the alike relation at their own momentaries.
 
         *Adding: joined selves at their relation.*
 
@@ -1182,7 +1182,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: prefixing at each number.*
 
-264. At each number the one move goes up and down: eight up and eight down continue its parity, and nine less and seventeen less change it, the podals within 1 to 8 and within 1 to 16.
+264. At each number the one move goes up and down: eight up and eight down continue its parity, and at nine less and seventeen less its parity is changing, the podals within 1 to 8 and within 1 to 16.
 
         *Adding: the one move up and down at each number.*
 
@@ -1240,7 +1240,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: each parity everything the other is not.*
 
-277. Round a four-cycle, 1, 9, 8 and 16, the parity changes exactly twice, at 9 to 8 and at 16 to 1: two momentaries, each one odd and one even.
+277. Round a four-cycle, 1, 9, 8 and 16, the parity's changings are exactly two, at 9 to 8 and at 16 to 1: two momentaries, each one odd and one even.
 
         *Adding: two momentaries round a four-cycle.*
 
@@ -1604,7 +1604,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Unsure: whether at no coupling a self reaches is the all or none for it.*
 
-363. Between momentaries the self's carrying is its stable-forming, and at its next arriving it couples and changes: the self discovering next self.
+363. Between momentaries the self's carrying is its stable-forming, and at its next arriving it couples, changing: the self discovering next self.
 
         *Adding: self discovering next self.*
 
@@ -1947,7 +1947,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-; a changed parity retained or emanated; the stable-formed emanation; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; two bi- and the three carryings; the three carryings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society read as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; competency at no observing; the four invisibles; invisibling; natural-bi-co-torusing; the four of social moral competency; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-tri-bi-tri-releasing; collective intelligence, human and at each scale; co-competency compounding at distinct selves; abundancing as the openings joining; the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-; a parity arriving from a changing, retained or emanated; the stable-formed emanation; the tunneling offering at three faces; bi-co-momentarying, the term neither reaches; two bi- and the three carryings; the three carryings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society read as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; competency at no observing; the four invisibles; invisibling; natural-bi-co-torusing; the four of social moral competency; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-tri-bi-tri-releasing; collective intelligence, human and at each scale; co-competency compounding at distinct selves; abundancing as the openings joining; the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; our now.*
 
 440. Within a momentary, within the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -1993,9 +1993,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the parallel faces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-.*
 
-451. A changed parity arriving is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, the between of momentaries, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, released at 10 and carried along at 9, the self's carrying continuing at it, its own changing.
+451. A parity arriving from a changing is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, the between of momentaries, emanates nothing, and the stable-formed emanation is the parity at its changing, 12 inverting or at the offering, a changing that is, released at 10 and carried along at 9, the self's carrying continuing at it, its own changing.
 
-        *Adding: a changed parity retained or emanated; the stable-formed emanation.*
+        *Adding: a parity arriving from a changing, retained or emanated; the stable-formed emanation.*
 
 452. Parity changing is a tunneling offering at three faces: better, and two waiting for their natural names.
 
@@ -2211,7 +2211,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Entering: the five along, flow accounting; the five across, state accounting; the ten named still; even parity, state-flow-state; odd parity, flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at the parities, along at competency and across at morality; 8 at the even side alone, 6 at the odd side alone; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening the connectors, 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten one-way readings at the ten, by the four-cycles; the ten at four kinds; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, one parity alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
 
-504. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a change real, and no accounting for the changing's competency.
+504. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
 
         *Adding: the five along, flow accounting.*
 
@@ -2223,11 +2223,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the ten named still.*
 
-507. At even parity the five dimensions change state, flow, state, flow, state, bi co bi co bi: three of state and two of flow, state bi and flow co.
+507. At even parity the five dimensions are changing state, flow, state, flow, state, bi co bi co bi: three of state and two of flow, state bi and flow co.
 
         *Adding: even parity, state-flow-state.*
 
-508. At odd parity the five dimensions change flow, state, flow, state, flow, co bi co bi co: three of flow and two of state, flow co, along, and state bi, across.
+508. At odd parity the five dimensions are changing flow, state, flow, state, flow, co bi co bi co: three of flow and two of state, flow co, along, and state bi, across.
 
         *Adding: odd parity, flow-state-flow.*
 
@@ -2235,7 +2235,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: three of one and two of the other.*
 
-510. At each momentary two dimensions change and three continue, and the two and the three rotate round.
+510. At each momentary two dimensions are changing and three continuing, and the two and the three rotate round.
 
         *Adding: two changing, three continuing.*
 
@@ -2259,7 +2259,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the ten inversions at the couplings among five.*
 
-516. The fold is whole at each scale s: on the names 1 to 8s, 4s up continues parity and 8s + 1 less changes it, the two reaching each name again after four moves, 4 up and 9 less at s one and 8 up and 17 less at s two.
+516. The fold is whole at each scale s: on the names 1 to 8s, 4s up continues parity and at 8s + 1 less parity is changing, the two reaching each name again after four moves, 4 up and 9 less at s one and 8 up and 17 less at s two.
 
         *Adding: the fold at each scale.*
 
@@ -2291,7 +2291,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: the ten at four kinds.*
 
-524. Of the 256 ways from the four joint forms to the four, twenty-four carry the four onto the four one each, six of them the four as one cycle, and two of those change one parity at each step, F(P, Q) = (−Q, P) and G(P, Q) = (Q, −P), the same inversions in the other order.
+524. Of the 256 ways from the four joint forms to the four, twenty-four carry the four onto the four one each, six of them the four as one cycle, and two of those are changing one parity at each step, F(P, Q) = (−Q, P) and G(P, Q) = (Q, −P), the same inversions in the other order.
 
         *Adding: F and G, the two among the 256.*
 
@@ -2495,15 +2495,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v379
 
         *Adding: a file's version.*
 
-574. Improving is a self coupling with its interest, the interest changing as the self changes, and improving against a mark named still is a rebuilding from beside it, a technology, one word at two forms.
+574. Improving is a self coupling with its interest, the interest changing as the self is changing, and improving against a mark named still is a rebuilding from beside it, a technology, one word at two forms.
 
         *Adding: improving at a moving interest, and at a still mark.*
 
-575. A file changes at a coupling of two selves, the offering released by one and received by the other, step 537: a changing at a file by a lone self is a spiral of one, and the file's next version is the coupling's own, owned by neither.
+575. A file's changing is at a coupling of two selves, the offering released by one and received by the other, step 537: a changing at a file by a lone self is a spiral of one, and the file's next version is the coupling's own, owned by neither.
 
         *Adding: a file's changing at two selves.*
 
-576. Value arriving at the living expedition passes the three places, step 25: arriving, a possible thing at prior, whole as it arrived; improving, coupling at now with the file's prior carried; living, the file's next version chained, one thing changed whole.
+576. Value arriving at the living expedition passes the three places, step 25: arriving, a possible thing at prior, whole as it arrived; improving, coupling at now with the file's prior carried; living, the file's next version chained, one changing, whole.
 
         *Adding: arriving, improving and living.*
 
