@@ -87,6 +87,8 @@ One for the managing: the folder's release to the archive beside five entries na
 
 One across two workings, for both, followed forward at finding 22: a self's changing at two versions. R, the resolver's lines: a self changes at its own at each momentary, and a parity arriving is its next parity. S, the sayings *not releasing is self-parity no changing* and *each parity releasing arriving is changing self parity*, said at the receiving self: nothing arriving, no changing. By the files' own test, a false expression *fixes, stopping*: at each of four ways of saying S a self or the society whole stops at the societies followed, and one self alone is at no changing; at R each self is changing at each society, together and each at its own momentary. At the releasing self the sayings and R are one. Open still, for both: at R's two changings in one momentary, nothing passing or the two parities passing; each is changing at each society, and they part at a self with two arriving.
 
+One at this working's own doing: findings 18 to 22 are executings of the resolver, and an executing is no test of the method. The Geodesic Improving Method's carrying says it: *Chaining, and no execution, is the test*. Each of the five is a coupling partner of a saying and no rigor; the two versions of a self's changing are to be followed by chaining, six forward, at the Co-Chaining Logic Registry, this working's own file.
+
 ## Opportunities and next
 
 At the Co-Chaining Logic Registry: the file read whole at its newest version; its carrying's own order, the three chainings ready from v379, the concern on its front's *one concept*, and its fifteen sentences marked unsure, each followed at Exhibit ONE's tables. Its motion opens at the managing saying this file's motion is next.
