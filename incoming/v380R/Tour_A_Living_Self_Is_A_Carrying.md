@@ -147,3 +147,16 @@
 
 1. **Two orders.** The six is one cycling at the resolver's order and a four and a two at the numbers' one move; Exhibit ONE's forms are at the numbers.
 2. **Co arrives and tri releases.** Among the odd names co is at an arriving alone, 17 and the carrying at 3, and tri at a releasing alone, 9 and the chaining at 11; bi is at both. *Tri arriving and releasing* is followed here as the society's winding, its names opening bi-tri.
+
+## Tri releasing and never arriving: social abundancing
+
+**The saying.** *the names do not show tri arriving. this is social abundancing.*
+
+**Followed at Exhibit ONE's names and Natural Naming's own sentences; an offering, not yet followed six forward.**
+
+1. **At the names.** Among the odd names tri is at a releasing alone, 9 carrying along and 11 chaining, and co at an arriving alone, 17 and the carrying at 3. The self's winding is 9-tri-bi-co-momentarying releasing and 17-co-bi-tri-offering arriving: the society releasing, the self arriving.
+2. **The older name at 17 said it.** Natural Naming's table of the seventeen carries 17's gathered name, *17-social-abundancing*.
+3. **Abundancing is the third's, reached by neither.** Natural Naming: *a floating third carries the coupling's abundancing, reached by neither*, and *abundancing at its arriving*. Tri is the third word, the society's, and it releases and arrives at no name: the abundancing released, and no name at which the society receives.
+4. **With the six.** Self, bi and tri, each arriving and releasing, is at the names: co arriving, bi arriving and releasing, tri releasing. The fourth parting of the part before this one is met by the saying.
+
+**Parting, for both.** Natural Naming's released words carry *abundancing* at 12-bi-tri-bi-entraining, in place of *surplus*; its older name is at 17; the saying is at tri releasing, 9 and 11. Three places, one naming.
