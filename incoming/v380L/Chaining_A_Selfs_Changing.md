@@ -29,38 +29,51 @@ Steps 204 and 205 say the offerings at 14: agreeing, one parity; one disagreeing
 | Carried a parity, nothing offered | the other parity | none | the other parity, alone | *or offered nothing, a changing, the prior inverted* |
 | Carried a parity, the other parity offered | the other parity | the other parity | agreeing, one changing | *carried and offered the other parity* |
 | Carried a parity, the offerings parting | the other parity | 0, a nothing arriving | the other parity, alone | *offered both surfacing 0* |
-| Carried a parity, its own parity offered | the other parity | its own parity | opposed, 0 | *carried and offered the same parity, no changing* |
+| Carried a parity, its own parity offered | the other parity | its own parity | parting, 0 | *carried and offered the same parity, no changing* |
 | Carried none, one parity offered | none | that parity | that parity, alone | *carried none and offered one parity, a changing, the sharing entering the carrying* |
 | Carried none, the offerings parting | none | 0 | none | *carried none and the offerings disagreeing, 0, no changing and nothing chained* |
 
-Each clause follows. The 0 at 14 is among the others' offerings; the 0 at 12 is between the self's own changing and the others' surfaced parity.
+Each clause follows. The 0 at 14 is among the others' offerings; the 0 at 12 is at the self's own prior inverted and the others' surfaced parity parting.
 
-## The 0 at 12: no changing, or two opposed changings cancelling
+## The 0 at 12, and a momentary's two consecutive parity changings
 
-At the fourth row the Registry says *no changing, the prior continuing*, steps 212, 306 and 450. The row itself is step 68: the self's own changing to the other parity and the arriving parity's changing of it to its own are two opposed changings at one momentary, and they cancel, offering nothing forward. The session's saying is the same: *if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity*.
+**The session's saying.** *there is no cancelling. this is not natural. each momentary is for self odd / even and for other even / odd and one momentary is two consecutive social self, other self parity changings, like a lub dub heartbeat.*
 
-**What passes at the cancelling** is said at step 68 itself: nothing forward. Step 451 says the same at 12: the momentary at 0 emanates nothing.
+**Withdrawn.** This file followed the fourth row as two opposed changings at one momentary, cancelling. Step 68 itself says that form the one-at-once, *offering nothing forward*, and says the living beside it: *the two alternating at their own momentaries accumulate*. Two at once is no living; the following is withdrawn, and with it its table of six and its word.
 
-**Six forward, the two selves of a bi-coupling, each at its own momentary, each releasing to the other, both carrying one parity, the self first.** Three own-forward steps at each side, step 81:
+**The saying at the Registry's own steps, each a step of the numbers.**
 
-| Step | Whose | Arriving | Its own, the prior inverted | The changing |
-|---|---|---|---|---|
-| 1 | the self | nothing | the other parity | its own, alone; released |
-| 2 | the other | the self's releasing | the other parity | agreeing, one changing; released |
-| 3 | the self | the other's releasing, the parity the self is at | the parity it came from | opposed, cancelling; nothing forward |
-| 4 | the other | nothing | the parity it came from | its own, alone; released |
-| 5 | the self | the other's releasing | the parity it came from | agreeing, one changing; released |
-| 6 | the other | the self's releasing, the parity the other is at | the other parity | opposed, cancelling; nothing forward |
+- Step 70: *the self's momentary 1–2, the other's 2–3*. The self's is odd and even, the other's even and odd.
+- Step 71: *Overlapping, the self's 1–2 and the other's 2–3 are one momentary of exchanging*. One momentary is 1 to 2 to 3: two consecutive parity changings, odd to even and even to odd.
+- Step 79: *Alternating, an even number of changings arrives at the parity of its prior*. At the two, the self is at its own parity at 3, its next opening, step 90.
+- Step 275: *A momentary is an opening and its completing, one odd and one even: two parities*.
 
-The seventh is the first again at a next. Each side is at each of the three once: its own changing alone, a changing agreeing with the arriving, and the cancelling. No step forks, each decided at its own arriving, step 358. The cancelling is one momentary at each side and the next is a changing.
+**The saying at Exhibit ONE's names.** The two are two consecutive names at one root, offering: 17-co-bi-tri-offering, the next 1, odd, its sides at the table of the seventeen names *social, self*; and 2-bi-co-bi-offering, even, its sides *other, self*. The table of the namings says the pair bi-momentarying, *the self's entry, odd, and the others' offerings, even, one momentary at each side*.
 
-**The two sayings of the 0, at step 525's own words, *the alternating carrying on at each*.** Said *no changing*, steps 3 and 6 are a rest at each side, one of its three, and step 57's *no joint form still* is unmet at that momentary. Said two opposed changings cancelling, each of the six carries the self's own changing, the alternating carrying on at each, and step 57 is at each momentary of each self.
+**What it resolves.** A momentary carries no rest and no cancelling: it is two consecutive parity changings, the self at its own parity at the next opening. Step 57, no joint form still, is at each momentary.
 
-This is an offering and no deciding. It is laid at the Co-Chaining Logic Registry's carrying as a concern for both.
+**What does not resolve, for both.** Step 196 parts three parities, each its own: a name's odd or even; a momentary's opening and completing; and a sharing's + or −. The saying and steps 70, 71, 79 and 275 are at the second. The words *no changing, the prior continuing*, steps 212, 306 and 450, and Exhibit ONE's *is not* at its table of each cell, are at the third: one *is or is not* at a sharing at a momentary, the momentary itself two consecutive parity changings. The two sayings: a sharing's *is not* is the momentary's two consecutive changings said at the sharing, the + or − at its prior's parity at the next opening, and *no changing* is released; or a sharing's parity and a momentary's two parities are two relations, as step 196 says, and a sharing is at no changing while its momentary is at two. Its reason: the files say both, and Exhibit ONE's resolver carries one *is or is not* at a sharing at a momentary and no two.
+
+## Two orthogonal parities arriving, tri and bi
+
+**The session's saying.** *the first arriving parity is tri, the second arriving parity is bi. they are two different orthogonals and both are co competencing. if they are both changing the same this is no differencing locally and this is intelligent, not reflection.*
+
+**At the Registry's own steps, each of the pair.**
+
+- Step 186: *The pair at the right spiral step is the self's across parity, morality, and its along parity, competency*. Two parities at a self, across and along, orthogonal.
+- Step 256: *two consecutive inversions on different axes, the opening the step between them, each inversion a next, and an inversion alone at itself again*. The two of a momentary are at two axes; one alone comes to itself again.
+- Step 59: *Two right spiral steps invert both parities*. Both changing, each of the two parities is at its other; the two are to each other as they were, agreeing or parting: no differencing between them.
+- Step 140: *an odd number of parities inverted reverses the hand and an even number carries it*. Two carry the hand; one alone reverses it, the mirror's form.
+
+The saying is one with the four: the first and the second are two parities and no one parity twice, and both changing is the hand carried, no mirroring.
+
+**What it resolves.** The concern above said a sharing's *is not* beside two changings of one parity. The two are of two parities, orthogonal, tri along and bi across. A momentary of two changings is at no rest and comes to no parity again by undoing: each of the two is at its other.
+
+**What does not resolve, for both.** Exhibit ONE's names part the two arrivings: 17-co-bi-tri-offering, along, its sides *social, self*, and 2-bi-co-bi-offering with 14-bi-tri-bi-moralizing, across. Exhibit ONE's resolver carries one parity at a sharing, and each releasing, along at 9 and across at 6 and at 10, arrives at the receiving self as one gathering of offerings surfacing as one at 14: the tri arriving and the bi arriving are at one line, neither first, and one *is or is not* follows. The two sayings: the resolver carries the two orthogonals as two, the along arriving first and the across second, each a changing or none, a sharing at two parities; or the resolver's one parity at a sharing is as it is, and the two orthogonals are at the names and the numbers alone. Its reason: the Registry's steps on the pair say two parities at a self, and its steps on the resolver say one at a sharing.
 
 ## Bearing on other concerns
 
-- **The 0 at 14, at Natural Naming's carrying.** By the table, 14's 0 is the others' offerings parting and 12's 0 is the self's own changing and the others' parity opposed: the between of self and other is at 12.
+- **The 0 at 14, at Natural Naming's carrying.** By the table, 14's 0 is the others' offerings parting, and the 0 at 12 is at the self's own parity and the others' surfaced parity.
 - **What crosses, the managing's first of ten.** Step 239, *the changings alone passing*; step 377, the changing crossing carries none of either side's carrying; step 301, the next possible existing leaves the entry at two faces, *the changing released, the others' possible, and the carrying chained, the self's next existing*. The Registry carries existing and possibling at one changing's two faces.
 - **Each self at its own momentary.** Steps 244 to 246: the code's stepping at 17 is the code's implementing alone, and each living self's rate is its own. Step 499: each self arriving at its own momentary and offering across is co-independencing.
 
@@ -74,4 +87,4 @@ The Registry's group on the fractal method enabling itself chains the same going
 
 - The one going is met at the Registry's steps and not chained six forward.
 - The parting at the words, bi or tri at a releasing, is said and not followed.
-- No motion at the Co-Chaining Logic Registry is offered. The one concern is at its carrying.
+- The chaining six forward of a momentary's two consecutive parity changings at a sharing is not done; it waits on the concern above.

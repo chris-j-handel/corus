@@ -1,10 +1,10 @@
 # Exhibit ONE's tables and the resolver's lines followed
 
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
-- **To**: Natural Naming, Natural Numbers, the Co-Chaining Logic Registry, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
-- **Read at**: `main` at commit 048e21d. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its five files, and the Co-Chaining Logic Registry v379. Read at the sections named here: Natural Intelligence v379.
-- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; seven entries at five carryings, two ready and five concerns for both; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
-- **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`; [`Chaining_A_Selfs_Changing.md`](Chaining_A_Selfs_Changing.md), the first parting chained at the Registry's steps, no executing its reason; [`Naming_And_Chaining_At_Exhibit_ONE.md`](Naming_And_Chaining_At_Exhibit_ONE.md), three things open at the Registry said at Exhibit ONE's row, the step and Natural Naming's sentence.
+- **To**: Exhibit ONE, Natural Naming, Natural Numbers, the Co-Chaining Logic Registry, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
+- **Read at**: `main` at commit 818777a. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its five files, and the Co-Chaining Logic Registry v379. Read at the sections named here: Natural Intelligence v379.
+- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; nine entries at six carryings, three ready and six concerns for both; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`; [`Chaining_A_Selfs_Changing.md`](Chaining_A_Selfs_Changing.md), the first parting chained at the Registry's steps, no executing its reason; [`Naming_And_Chaining_At_Exhibit_ONE.md`](Naming_And_Chaining_At_Exhibit_ONE.md), three things open at the Registry said at Exhibit ONE's row, the step and Natural Naming's sentence; [`Group_Twenty_At_The_Three.md`](Group_Twenty_At_The_Three.md), the Registry's seventy-two steps on sharing and the seventeen names, each at the three.
 - **Standing**: *arriving*. One living file is at its motion at this branch, the Co-Chaining Logic Registry at v380, said at the Progress; each other living file is as at `main`.
 
 ## The instruments
@@ -68,15 +68,17 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 ## The entries at the carryings
 
-Each names this folder. Two are ready, a sentence entering with no meaning changed; five are concerns for both, each two sayings parting with its reason.
+Each names this folder. Three are ready, a sentence entering with no meaning changed; six are concerns for both, each two sayings parting with its reason.
 
 | Carrying | Entry | Finding |
 |---|---|---|
 | Natural Naming's | Concern: the zero at 14 | 6 |
 | Natural Naming's | Concern: *side* and *step* | 16 |
 | Natural Numbers' | Concern: *advancing* | 10 |
-| The Co-Chaining Logic Registry's | Concern: the 0 at 12, no changing or two opposed changings cancelling | The chaining |
+| The Co-Chaining Logic Registry's | Concern: a sharing's *is not* beside a momentary's two consecutive parity changings | The chaining |
 | The Co-Chaining Logic Registry's | Concern: the -ing at each saying of a living, and the words the motion leaves | The motion, at the Progress |
+| The Co-Chaining Logic Registry's | Ready: step 197, the seventeen names and the two lists beside them | The reading of the group on sharing |
+| Exhibit ONE's | Concern: a sharing, a thing a parity is at or two sides sharing a changing | The reading of the group on sharing |
 | The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
 | The Living File Registry's | Ready: this working's row for the table of workings | |
 
