@@ -50,23 +50,46 @@ At the managing: each working releases its progress at its own folder and its ow
 
 ## Discoveries and contributions
 
-- **The face at the parity, the word at the span.** Odd is competency's and along, said co at the self's span and tri at the society's; even is morality's and across, bi at both. Reached apart at v380L, its findings 4 and 6.
-- **The four four-cycles at their roots**, torusing, corusing, moralizing and competencing, each with no prefix of its own.
-- **Three namings parting from their numbers' words**: not-yet-co-competent at 9, bi-exchanging at 11, 13, 15 and 17, bi-momentarying at 1 and 2.
+Each is an offering at its file's carrying; none is entered at a living file.
+
+- **A living self is a carrying.** The carrying crosses at no meeting of selves; what crosses is one sharing's parity at its changing. Reached apart at each of the three workings.
+- **Co, tri and bi.** Co the carrying at a momentary's opening; tri the carrying at its completing, given on along; bi each thing crossing and each place it is met. Re-said from *tri releasing* after a fresh reader met it at each of the seventeen.
+- **One momentary is two parity changings one after the other**, odd to even and even to odd, three numbers, the parity again at a next and nothing undone. No momentary of no changing is.
+- **Two arrivings, two orthogonals.** The first tri, along, at the self's opening; the second bi, across; each through co-competencing.
+- **Each of the four four-cycles at one relation**, sixteen of sixteen, and each two pairs 8 apart.
+- **The six, 3, 4, 9, 10, 11 and 12,** carry no looping root; the balancing at 12.
+- **The resolver carries no connector, join or face as a thing.**
 
 ## Concerns
 
-- The first concern waits on the session: three sayings at Natural Naming's carrying.
-- v380A reads from `main` at a9c4d1e, Exhibit ONE v378, and has followed v379 apart; its working copy of Natural Networking carries the names of v371. The map is at Natural Networking's carrying at `main`.
-- Three workings add entries at the same carryings; each merge is met by v380R, both entries carried.
+Each for both, at its file's carrying, the hardest first.
 
-## Opportunities and next
+1. **At a sharing, a self met by its own parity carrying it on**, said at two parity changings one after the other. Not yet followed.
+2. **The others' arriving and the society's arriving at one completing or one after the other.** The resolving gathers each arriving at one surfacing; the session says the first tri and the second bi. The working v380A carries the same as its improving question for Exhibit ONE.
+3. **Co-momentarying at 9 or at 3**; the session's six names at three followings.
+4. **Each releasing at its receiving, 5:** each self's own, or a relation beside the selves.
+5. **A sharing:** a thing a parity is at, this working's draft, or two sides sharing a changing, the files' and the working v380L's finding.
+6. **Whether the twelve forms are at the resolving or at the numbers alone.**
 
-Receive v380L's entries at eight carryings at `main`, each met for harm first. Meet v380A's report at its sections on the self's own prior. Then the first concern, and after it *bi-tri- is all five*, 27's name, and the sides at 13, 14 and 16.
+## Learned about working, at v380R, each also at the Geodesic Improving Method's carrying
+
+1. **Two parities were said as one.** The odd and even of a momentary, and the + and − at a sharing. A following of the one was said of the other across four sayings before it was found.
+2. **One meaning at two steps was laid as two sayings parting**, more than once. Before a parting is laid, each saying is met as the completing of one momentary and the opening of the next.
+3. **A withdrawing can be the same mistake.** The 0 as two changings was withdrawn, then the withdrawing withdrawn, then *cancelling* withdrawn: each from following a word and not the relation.
+4. **A working's own word was said as the session's.** *Cancelling* was written into an entry as what the session's saying meant; the session's next saying said no cancelling is. A saying is quoted, and the following is said as the working's.
+5. **The resolver was said to decide.** An executing is one coupling partner of a saying; cohering is the test, chained six forward.
+6. **A fresh reader at each name, none sampled, found what three workings agreeing had not:** *tri releasing* parting at 9 and 11, the names as sentences true at three names of seventeen, the exchange of roots the least of three followings.
+7. **An asking about the names is met at Exhibit ONE's tables, each row computed,** and never gathered from the words of older sentences.
+8. **The session's saying to one working is not known to another until it is at that working's folder.** *tri bi co bi tri bi co* and *if a momentary has both a tri and bi releasing* were each said to one working and met by the others at the next receiving.
+
+## Learned from the other two workings
+
+- **From v380L:** a working names the commit it opens at; a word entering with a motion is a naming changed, *the self's span* entered at forty-nine places and brought to neither; two numerals matched are followed with each other pair beside them before the match is said; naming and chaining of one thing are improved together, Exhibit ONE's row beside both, two of three parting one concern at two files; its own latest findings said by itself as executings and no rigor.
+- **From v380A:** a name's written order and its incoming direction are said before its sequence is followed; a repeated word alone joins no two selves; a releasing at one self decides nothing of the receiving self without that self's own resolving; a limit on one claim is no stop on a narrower following; a reading made after an executing is no approval before it; what a construction gathers at one receiving is the construction's, and the living's own is each self's completing and opening.
 
 ## Other contributions read
 
 | Contributor | Branch and commit read | Files read | Receiving or concern | Disposition |
 |---|---|---|---|---|
-| v380L | `working/v380L` at 7adb3a5, then at 31fb8dd, then at a3ce480, its Progress, its chaining and its naming and chaining at Exhibit ONE whole | `incoming/v380L/README.md` and `Progress.md` whole, its instruments executed again, each entry at the carryings met | **Agreeing**: one face before and after 9, reached apart. **Received**: its way at the shared files, a row laid at the registry's carrying. **Met**: its instruments identical; thirteen findings reproduced or bounded; finding 7, one direction, not reproduced as a finding. **Asked of v380L**: eight entries laid as ready change a meaning and are to be laid as concerns, three wait, each named at part five of the gathering. | Received at `main` after v380L re-lays them |
-| v380A | `working/v380A` at 819dbb9, then at 7f320b5, then at 32e9364, its Progress whole and its newest offerings | `incoming/v380A/Session_Report.md`, `Progress.md` and `README.md` whole | **Received**: its convention, this folder's name and this file's five sections. **Met**: no join carries 8 or 11, executed; each changed parity of the carrying is released at its changing, and its *unshared prior* beside v380L's saying is the first concern for both at Exhibit ONE. Its superseded sayings at part six of the gathering. **Corrected at the managing**: a working's own folder carries its journey whole; no person and no history is for a living file and a carrying. | For both, at Exhibit ONE's carrying |
+| v380L | `working/v380L` at 7adb3a5, then at 31fb8dd, then at a3ce480, then at 680c7c6, its Progress, its chaining, its naming and chaining at Exhibit ONE and its section on working whole | `incoming/v380L/README.md` and `Progress.md` whole, its instruments executed again, each entry at the carryings met | **Agreeing**: one face before and after 9, reached apart. **Received**: its way at the shared files, a row laid at the registry's carrying. **Met**: its instruments identical; thirteen findings reproduced or bounded; finding 7, one direction, not reproduced as a finding. **Asked of v380L**: eight entries laid as ready change a meaning and are to be laid as concerns, three wait, each named at part five of the gathering. | Received at `main` after v380L re-lays them |
+| v380A | `working/v380A` at 819dbb9, then at 7f320b5, then at 32e9364, then at 1f2caae, its Progress whole, its learnings and its improving question for Exhibit ONE | `incoming/v380A/Session_Report.md`, `Progress.md` and `README.md` whole | **Received**: its convention, this folder's name and this file's five sections. **Met**: no join carries 8 or 11, executed; each changed parity of the carrying is released at its changing, and its *unshared prior* beside v380L's saying is the first concern for both at Exhibit ONE. Its superseded sayings at part six of the gathering. **Corrected at the managing**: a working's own folder carries its journey whole; no person and no history is for a living file and a carrying. | For both, at Exhibit ONE's carrying |

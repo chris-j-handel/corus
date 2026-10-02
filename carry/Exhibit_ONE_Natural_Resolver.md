@@ -22,6 +22,8 @@ None.
 
 **Ready, at v380, from `incoming/v380R/Exhibit_ONE_First_Motion_Draft.md`, a first motion drafted for each of the three workings to meet.** An opening after the subtitle, two paragraphs; what the resolver carries, said before its lines, a sharing, a parity, the 0, none, an offering, a carrying, a self, a society and a momentary; each of the twenty-two tables at a title and its conditions. It adds, each prior carried whole, no row, column, cell or name changed, and decides no parting for both. Each sentence is met by the three workings and a fresh reader before the motion.
 
+**Ready, at v380, from `incoming/v380R/One_Self_Followed.md`, meeting the working v380A's improving question above, for both.** One self followed through one momentary at this file's names, eight lines: the self opening carrying, 3; the society's releasing arriving along at 17 from 9, the first, tri; the other's arriving across at 2 and 14, the second, bi, each through 5; the two surfacing at 14; the changing is or is not at 12; the changing out across at 10 and 6; the carrying given on along at 11 and 9; the self opening again. With it the concern, for both: the two arrivings at one surfacing, as the resolving gathers them, or the tri at the self's opening and the bi at its completing, one after the other, the gathering the resolving's own implementing.
+
 ## Concern
 
 **The concerns open, hardest first.** The nineteen met at v375 to v378 are at the Session Record.

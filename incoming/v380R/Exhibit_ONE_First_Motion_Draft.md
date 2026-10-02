@@ -13,6 +13,7 @@
 ## Two. What the resolver carries, said before its lines
 
 > **A sharing** is a thing a parity is at; the resolver asks nothing of it but that it is one sharing and no other.
+> *Parting, found by the working v380L: the files say a sharing two sides sharing a changing, a relation and no thing. This sentence waits on that concern at Exhibit ONE's carrying.*
 > **A parity** at a sharing is + or −. **The 0** is a changing that is not. **None** is a sharing at no parity yet.
 > **An offering** is a sharing with a parity or a 0, arriving at a self; more than one arrives at one sharing.
 > **A carrying** is each sharing a self carries with its parity.
