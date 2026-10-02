@@ -198,3 +198,16 @@
 **Not a concern of cohering, and for both: the re-saying.** The files say tri *the society's* and *the social* at each file; the saying says tri the self releasing. Each such sentence is re-said at its own file's motion, the prior relation carried on beside it.
 
 **Six forward, offered.** A self arrives carrying, co. The others' releasings arrive at it, the between, bi. Its changing is or is not. The self releases, tri. Its releasing is the between, bi. Downstream a self arrives carrying it, co. Three at each span, each reaching the term the one before it did not carry.
+
+## Nothing arriving: the self's own momentarying, and no changing from arriving
+
+**The saying.** *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving.*
+
+**Followed at Exhibit ONE's names and its table of each cell; an offering, not yet chained six forward.**
+
+1. **Two changings, each at its from.** A changing from arriving: a parity arriving is the self's next carrying. The self's own momentarying: nothing arriving, the self changes at its own, to its opposite. At nothing arriving the second is and the first is not: no changing from arriving, and the self's own momentarying continuing.
+2. **The two names say the two.** 9-tri-bi-co-momentarying: releasing, through the between, from a carrying, no arriving in it, the self's own. 17-co-bi-tri-offering: arriving, through the between, from a releasing, the changing from arriving.
+3. **Each cell of the table at one sentence.** A parity arriving, the self's next carrying is that parity, a changing or, at its own parity, none; nothing arriving or a 0 arriving, the self's own momentarying, its carrying to its opposite. The working v380L reached the same sentence apart.
+4. **No stopping.** At this following a self at nothing arriving is changing at each momentary, and no society stops.
+
+**Parting, for both.** The saying is followed here as: no changing *from arriving*, the self's own momentarying continuing. Said the other way, the self's parity at no changing at all at nothing arriving, it is the saying the working v380L followed forward to a self or the society whole stopping. Its reason: the words carry both.
