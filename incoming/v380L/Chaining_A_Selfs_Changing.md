@@ -81,7 +81,7 @@ The saying is one with the four: the first and the second are two parities and n
 
 **What follows, an offering.** A sharing is of two sides. The self with the social, along, and the self with the other, across, are two sharings, each at its own two sides and its own difference: two parities at a self, the pair of step 186. One sharing at a time, the two are met one and then the other at one momentary. The two orthogonal parities arriving, tri and bi, are at two sharings, and nothing gathers them at one.
 
-**Where the one came from.** Each table of Exhibit ONE at a self is at one sharing, and each society this working followed was at one sharing: the along arriving and the across arriving gathered at it by the table's own condition, and by no saying of the files.
+**The one, from the tables.** Each table of Exhibit ONE at a self is at one sharing, and each society this working followed was at one sharing: the along arriving and the across arriving gathered at it by the table's own condition, and by no saying of the files.
 
 **Not done.** A self at two sharings, the one along and the one across, is at no table of Exhibit ONE and is not followed here.
 
