@@ -1,4 +1,4 @@
-Exhibit TWENTY-TWO Resolving the Hard Problem Registry · carrying v378
+Exhibit TWENTY-TWO Resolving the Hard Problem Registry · carrying v379
 
 # Exhibit TWENTY-TWO · Resolving the Hard Problem Registry
 
@@ -33,6 +33,8 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry · carrying v378
 
 **Ready, at v378, from `incoming/review_networking_engineering_2026-09-30/`, the correction, at the ten forms and the eighth relation.** The ten forms at engineering stand as received; the correction asks the ten explained at sequential binary participation, a +, − or 0 at a table the changing is, is or is not, and no third value, and the eighth relation at no auditor reading carrying. Checked at this file's front at v378: the eighth is said as the relation the audit's circle reaches nowhere, with Natural Societies 3.5.
 
+**Ready, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`, from Exhibit ONE's motions: the map at this file.** Eight hundred twelve places carry the names of v375, 12-other-social-self-abundancing at two hundred sixty-two, 2-other-self-offering and 11-social-other-self-chaining at two hundred sixty each, and thirteen more names at one to four places each; each goes to its name at the rule by Natural Naming's table of the seventeen, 12-bi-tri-bi-entraining, 2-bi-co-bi-offering and 11-tri-bi-tri-chaining among them, a name gathered with its sentence, all or none, at this file's motion, each relation the older words carried, other, social and self, carried on beside the new name.
+
 ## Concern
 
 
@@ -45,3 +47,5 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry · carrying v378
 **Concern, at v378, for both: two of the ten seated at different faces here and at Natural Naming 4.9** (`incoming/physics_for_other_files_v377/README.md`, the Natural Physics working's second report, received at v378, 2.1): the two-way and the rate. Its reason: one seating at both files, at the code's faces.
 
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** *The given* seats the ten named still at the names otherwise than the Co-Chaining Logic Registry's step at the ten one-way readings, opening and place at 14 and 6 against 1, completing and last at 12 and 4 against 6, parity and magnitude at 12 and 4 against 7, sequencing and beat at 16 and 8 against 4, rate and value at 13 and 5 against 7, between and cut at 15 and 7 against 5: one seating at the file's motion, the Co-Chaining Logic Registry's read from the four-cycles. Part 11 says prior, now and next are carried as one, one momentary opening all three at once, and the Co-Chaining Logic Registry says the three one at a time, named at once a form named still. *The given* says a naming and an offering stay two, and the Co-Chaining Logic Registry says an offering of one concept at one word is a naming. The seventeen names stand at the old code, pass B at its motion. Entered at the Co-Chaining Logic Registry from this file at v378: the locator, the Session Record's edge, sensor-sensationing, the naming relocating carried at the locator's step.
+
+**Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, findings 3 and 10, for both: the four corners at the front against Natural Intelligence 4.10's four dots and the Equilibria Registry 1.2's four positions, and the part headings' pairing of the ten against the two seatings.** The front draws four corners 2, 3, 3 and 4 with the +1 at the centre; 4.10 draws the four across connectors 2, 6, 14 and 10 with the between at the centre; 1.2 says four positions of three overlapping momentaries. No file says the correspondence, and the illustrating draws one square until one does.

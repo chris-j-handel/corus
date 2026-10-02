@@ -2,11 +2,11 @@
 
 **Exhibit TWO, its complete duplicated kit, and discovering at the crossing podalings**
 
-**From:** Chris Handel and this session's assistant working.  
+**From:** the v380A Natural Networking working.  
 **To:** Natural Networking and its improving kit; related-file value gathered in the session report.  
 **Read at:** main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; Natural Networking v371, Natural Resolver v378, Natural Intelligence v378, and Natural Networking's carrying v378.  
 **Standing:** working proposal in an isolated duplicate, not a replacement of the published files.  
-**Session:** v380A, named by Chris on 2 October 2026.  
+**Session:** v380A.  
 **Branch:** `working/v380A`.  
 **Contribution:** `incoming/v380A/`.  
 **Continuing from:** `working/natural-networking-2026-10-01` at `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.  
@@ -69,3 +69,10 @@ Read another session by resolving its current branch head, then reading Progress
 A reading does not merge or adopt the other branch. Each session writes its own records; shared living-file changes still need their receiving and review. Update Progress when work changes, so another session can distinguish new work from the commit it already read.
 
 **Opening for another session:** “This is session v380L [or v380R]. Continue our existing work on `working/v380L` [or `working/v380R`] with our contribution at `incoming/v380L/` [or `incoming/v380R/`]. Use the four front files described in v380A's README. Read v380A's Progress and relevant full report at a pinned commit, record what we receive and where we part, and make our own progress available for v380A and the other session to read.”
+
+
+## Current managing received
+
+The managing arrangement at `incoming/v380R/Progress.md` on main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` governs this working. The agreed contribution remains `incoming/v380A/`; the earlier suggestion of `incoming/session_v380A/` is not followed. v380A's living file is Natural Networking. v380R alone changes the carrying front, the Session Record and the Living File Registry, and alone merges to main. Own offerings for other files are laid at their carryings, naming this folder. The earlier common-layout proposal is retained as the journey; the managing's current arrangement supersedes it where different.
+
+[Progress](Progress.md) records the receiving, the exact other contributions read, the preservation concerns and the standing of each offering. The report preserves the full journey; nothing is released merely because its destination is named.

@@ -855,3 +855,56 @@ At the branch-list check for this setup, neither v380L nor v380R existed under t
 **Reading and receiving.** Resolve the other branch's current commit, read its Progress first, and then its complete relevant report passages and changed files at that same commit. Record in the receiving session's Progress: contributor, branch, commit read, files/sections, finding or concern, and the concrete disposition. “Read,” “proposed,” “applied to our working copy,” and “entered into a living file” are different standings. When sayings part, record both actual sayings with their locations and the reason they part. Return value through the receiving session's own report and progress, so the originating session can read it in turn. A commit pin records a reading; it does not make that reading current forever.
 
 This arrangement supports mutual reading without three sessions overwriting one report or treating one working's proposal as already settled. Checking each other's progress is part of an active working pass; no automatic background monitoring is established.
+
+
+## The managing received; carrying is living; the two arrivals
+
+**2 October 2026.** Read `incoming/v380R/Progress.md` at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, including “The managing, from v380R to v380L and v380A,” whole. Natural Naming, Natural Explaining and the Geodesic Improving Method are unchanged in Git blob identity from the complete reading at `b74ecda0dbe2044635450cc66bbc4bc151436f04`. Natural Resolver v379's entry and its tables of the momentaries and the namings were read beside this question. The earlier readings of v380L remain pinned at `7adb3a5e864c7c4bc2e4ebf7cc01f0f837c9ef54`.
+
+### The arrangement and preserving this working
+
+The managing now receives our existing `incoming/v380A/` convention. There is no move to `incoming/session_v380A/`. v380A works at Natural Networking alone; the duplicated kit remains part of this incoming contribution and no motion at the published kit is made. v380R alone changes the carrying front, the Session Record and the Living File Registry and merges to main. A registry offering belongs at the registry's carrying. Each working adds only its own carrying entries.
+
+The working receives current main while retaining its own history and the entire incoming contribution. At this receiving the v380A changes from the original common prior are confined to incoming material. The newer root files and existing carryings come from current main; none is replaced by the older root of this working.
+
+No harm is required by the arrangement as written. Three possible departures are recorded: recreating this working from current main by dropping its contribution; shortening the incoming account by deleting the report's journey and corrections; and releasing its folder merely because destinations have been listed. The contribution remains whole through the receiving, and a destination named is not value already received. The rule against persons and history in living files and carryings is received at those places. Incoming retains the provenance and corrected journey needed for a reading for harm, with its front said plainly at the working.
+
+The managing's paragraph on v380A's reading is received with its distinction: the working opened at v378, its duplicated exhibit remains chiefly v371, and the report subsequently read and corrected from v379 at `d77df0dc0aa6f5c07a707761d584187f190aade8`. The older opening is not our latest source reading. The current names enter with their sentences at Natural Networking's own motion, not by silently replacing words in the older duplicate.
+
+### Carrying and living are the same thing
+
+The session says: **“carrying and living are the same thing.”** This correction is received at the self. Carrying is the self's living continuing, not an object the living self possesses separately. Natural Naming's “A self” already says a self is a unique invisible carrying, and its released-words explaining says a living self is a living carrying and nothing else carries that same living self.
+
+A report, a returned representation, a record of an offering and the self's carrying are not identified by their common words. “Carrying and living are one” gives no living carrying to a released parity or a copied document. The self's momentary remains its own; only parity changing participates across.
+
+### The offered sequence and its useful distinction
+
+The session asks whether the first half of a momentary is arriving prior tri parity and the second half arriving prior self-carrying. “Half” here is read as the offered two parities or faces, not as an equal duration, and no word is silently replaced in a living file.
+
+The proposal distinguishes **society's prior offered across** from **the self's prior continuing as its living**. That distinction is useful. These are not two other selves' momentaries made available to a receiver. A released parity arriving is the other's prior offered; the self's prior momentary does not arrive across with it.
+
+There are two sayings at the opening. Natural Naming, “Is-still-possibling and is-next-existing,” says the self's odd opening is the carrying arriving, the existing, and its even completing is the offerings arriving, the possible. The offered sequence puts the arriving social parity first and the arriving own carrying second. Natural Resolver's overlapping momentaries give odd-then-even at the self and even-then-odd at the other. Thus a reversed numbered opening is already available at the other side; that alone does not settle which self's own prior the second face names. It must not borrow the first self's private prior to complete the other self's momentary.
+
+At the entry's written operations the offerings are surfaced before they are compared with the own carrying. Both are inputs to the same entry. That written proceeding is not, by itself, a proof that the self's momentary opens at the offered parity or that its living commences only at the second parity. The momentary's numbered opening and the entry's written order are the precise relations to meet.
+
+This is already a concern in Natural Naming's carrying, “The connectors at a momentary's two parities, a connector cohering method”: arriving at the first parity beside the offerings arriving at the completing. The present question adds the own self-carrying and its identity with living. It is laid beside that existing concern as v380A's own entry, not substituted for another working's entry.
+
+“Tri parity” also needs its relation stated. If it means the prior parity offered through society, it names the societal relation. It cannot yet name every arriving prefix: the across arriving connectors open bi, and the numbered tri belongs at the society's odd names. The managing already carries the parting between a prefix's numbered word and its face. The proposed sentence must meet that concern rather than silently settle it.
+
+A compact offering preserving the established distinction is:
+
+> Society's prior parity arrives at the coupling; the self's own prior continues as its living. At its own momentary the self resolves their agreeing or differing and discovers its next.
+
+This sentence does not decide the proposed first and second. Their ordering remains the concern above, brought as two sayings with its reason.
+
+### Receiving from the other working
+
+v380L's report says that, at a changing, the released parity and the parity chained as next agree; it explicitly parts the release from the whole carrying. This can agree with the self-momentary correction: equality of a released parity and a continued parity supplies no shared private momentary. The expression “one self's existing is the other's possibling” is received as a saying about released parity at the receiving relation, not permission to transfer a self's living carrying.
+
+The fresh reading here is of v380L's report and progress, not a rerunning or review of all its instruments. No claim of independent experimental verification is made.
+
+### What changed at this receiving
+
+The current main is received into this working without replacing its incoming contribution. Progress, the report, the README and the passes receive the managing arrangement. Own entries are added at the carryings of Natural Networking, Natural Naming, Natural Intelligence, the Geodesic Improving Method and the Living File Registry. The managing alone receives these into main.
+
+No living-file motion is offered as ready. No naming is decided and no natural-network experiment is performed. The required repository checks and fresh readings remain to accompany the concrete living-file motion; integrity checks of this receiving establish document preservation only.

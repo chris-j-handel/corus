@@ -1,0 +1,4 @@
+exchange then inversion, (x, y) -> (y, -x): (1, 2) -> (2, -1)
+inversion then exchange, (x, y) -> (-y, x): (1, 2) -> (-2, 1)
+exchange then inversion from ++: ++ +- -- -+ ++
+inversion then exchange from ++: ++ -+ -- +- ++

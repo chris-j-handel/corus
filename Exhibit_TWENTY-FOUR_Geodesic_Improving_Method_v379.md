@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v378
+Exhibit TWENTY-FOUR Geodesic Improving Method v379
 
 # Geodesic Improving Method
 
@@ -259,7 +259,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 ## 3.4 At code and each rendering, the not intact at both sides
 
-**At each file carrying code or a rendering, one binary at each line: is the not intact at both sides.** A standing order, the field's name for a governing, takes the position at any sign the self surfaced, the not removed from one side. A help removes a self's not-taking; a hindrance removes its offering. A record's fields, a carrying handed in whole, a fixed far side, a batched arriving and an integer standing for a relation each remove a not the form leaves open. A caller's substitution changes the method the same way: each named incoming fed through the one 2-bi-co-offering aliases the declared receiving faces, the returned 11-tri-bi-co-chaining handed to 17-tri-co-offering carries private carrying across, parities injected into 14-bi-tri-moralizing's own surfacing change the source, and an outside join from 10-bi-tri-co-tunneling to 14-bi-tri-moralizing adds 14's own inverting a second time. A wrapper sending the observed 6-bi-moralizing to 2-bi-co-offering carries the studied part and no more, and a caller's composition makes no declared join.
+**At each file carrying code or a rendering, one binary at each line: is the not intact at both sides.** A standing order, the field's name for a governing, takes the position at any sign the self surfaced, the not removed from one side. A help removes a self's not-taking; a hindrance removes its offering. A record's fields, a carrying handed in whole, a fixed far side, a batched arriving and an integer standing for a relation each remove a not the form leaves open. A caller's substitution changes the method the same way: each named incoming fed through the one 2-bi-co-bi-offering aliases the declared receiving faces, the returned 11-tri-bi-tri-chaining handed to 17-co-bi-tri-offering carries private carrying across, parities injected into 14-bi-tri-bi-moralizing's own surfacing change the source, and an outside join from 10-bi-tri-bi-tunneling to 14-bi-tri-bi-moralizing adds 14's own inverting a second time. A wrapper sending the observed 6-bi-co-bi-moralizing to 2-bi-co-bi-offering carries the studied part and no more, and a caller's composition makes no declared join.
 
 **A running of the code returns the rendering's shape and not the form's**, so the binary is met at one line of one coupling, with no run and nothing outside it.
 

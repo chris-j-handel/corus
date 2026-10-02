@@ -85,3 +85,12 @@ Retain all seventeen names and the existing three-prefix rule. A public recurrin
 ## Reading alongside v380L and v380R
 
 The current entry is [Progress.md](Progress.md), and the common arrangement is in [README.md](README.md). At a receiving pass, read the other contribution at one pinned commit, follow its relevant complete evidence, and record the reading and disposition in our Progress. Receive corrections into the affected passes and report; preserve any superseded value and identify why its standing changed. No findings from v380L or v380R have been read at this setup.
+
+
+## The managing and the two arrivals received
+
+Current aiming is read at v380R's “The managing, from v380R to v380L and v380A,” main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`. The passes remain this working's opportunities at Natural Networking; they do not order the other workings' files. The managing names the next living-file motion. The current root files are received before our motion and the older duplicate retains its stated standing.
+
+Carrying and living are one at the self. The proposed arriving social prior followed by arriving own prior is met beside Natural Naming's self opening with carrying and completing with offerings. Natural Naming's carrying already has the first-parity/completing concern. Do not settle it by the order of written operations, by exchanging prefixes, by dividing a duration, or by giving either self the other's private prior. The report records the two sayings and the possible relation to the other, even-opening side.
+
+Before a living-file motion is offered: the repository's three required checks at the root, a fresh reader read in at Natural Naming, Natural Explaining and the Geodesic Improving Method, and a reading for harm beside the file as opened. No such motion is marked ready at this receiving.

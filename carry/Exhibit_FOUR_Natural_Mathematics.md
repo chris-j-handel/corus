@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics · carrying v378
+Exhibit FOUR Natural Mathematics · carrying v379
 
 # Exhibit FOUR · Natural Mathematics
 
@@ -6,8 +6,12 @@ Exhibit FOUR Natural Mathematics · carrying v378
 
 ## Ready
 
+**Arrived, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`, its reference first, its section named at its motion.** From a helper's own carrying, no search and no reference at the session: a woven cloth draped on a surface is a Chebyshev net (Chebyshev, 1878, on the cutting of garments), two families of threads, each inextensible, the cloth changing at the angle between them alone; a plain weave is one binary alternating, each thread over and under, warp at one parity and weft at the other. Pattern matching, no correspondence shown: two carryings, each its own length, bi-coupling at a changing angle.
+
 ## Concern
 
 **Incoming, at v376, from the physics observings report** (`incoming/review_physics_observings_v376/`, whole, with its sources; read at commits 32ce56a and 6dbacb4, met here at the files' newer motions). At the numbers, computed again at v376 and entered at Exhibit THIRTY's steps 316 and 319 and Natural Naming: φ is the three golden rectangles' equal-edge condition, at a ratio r the nearest corners of one rectangle and the next √(2(1 + r² − r)) apart, 2 at φ alone, the right-hand turn about (1, 1, 1) carrying each onto the one passing through it at any ratio above 1; the twelve corners four triangles of three at four heights, of sides 2, 2φ, 2φ and 2; every continuous flow on a sphere carries at least one rest point, and the torus carries a flow with none, not every flow on it none. At this file's motion, its paragraph on a flow's rest points read at the same conditions, the index sum at isolated rest points, and a torus flow with rest points possible. Natural Numbers' 4.1 and 4.2 read at v376, two at the sphere and nought at the torus, at the numbers true. Open, its next named: the reading of the golden construction into a physical quantity, which sides, which axis, what is projected, and what orders it, never a resemblance made by a rotation or a cut chosen at will.
 
 **Received at v378 from `incoming/co_chaining_coverage_v378/` and met at this file's motion at v378**: 5.2's five dimensions at Natural Intelligence's names. Entered at the Co-Chaining Logic Registry from this file at v378: the sign flip and i, the passage of six, F and G among the 256, involution and its fixed set with the even ring's two involutions, two inversions on different axes, the eight forms to their opposites, the three places of a mathematical form, the three neutrals and the floor, the one possible at six forward, the ten inversions at the couplings among five. The doubled angle, v374's incoming, entered at 3.1 at v378.
+
+**Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 31, for 7.8: the golden triangle by name.** The pentagon and pentagram at 7.8 carry φ at the diagonal to the side; the golden triangle, the pentagram's isosceles at φ, is named at no file, and the user at the working names it among the golden forms leading to the method. Is or is not here or at Natural Numbers.
