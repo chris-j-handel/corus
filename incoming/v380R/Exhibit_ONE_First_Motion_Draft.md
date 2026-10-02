@@ -12,9 +12,8 @@
 
 ## Two. What the resolver carries, said before its lines
 
-> **A sharing** is a thing a parity is at; the resolver asks nothing of it but that it is one sharing and no other.
-> *Parting, found by the working v380L: the files say a sharing two sides sharing a changing, a relation and no thing. This sentence waits on that concern at Exhibit ONE's carrying.*
-> **A parity** at a sharing is + or −. **The 0** is a changing that is not. **None** is a sharing at no parity yet.
+> **A sharing** is two sides sharing a changing, and each sharing has its parity; the along and the across are two sharings. *Re-said from the working v380L's finding and the session's saying to it: a sharing said a place with a value given to it is no file's saying.*
+> **Parity** is is or is not existing, and no other is possible: it is until it is not, and is again. *The sentences on + and −, the 0 and none wait on the concern at Exhibit ONE's carrying on is and is not at a changing and at a parity.*
 > **An offering** is a sharing with a parity or a 0, arriving at a self; more than one arrives at one sharing.
 > **A carrying** is each sharing a self carries with its parity.
 > **A self** is its carrying and the offerings arriving at it.
