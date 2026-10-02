@@ -7,7 +7,7 @@
 **Contribution:** `incoming/v380R/`.
 **Updated:** 2 October 2026, America/Los_Angeles.
 **Sources:** `main` at d77df0d: Exhibit ONE v379, Natural Naming v379, Natural Intelligence v379, and each carrying.
-**Standing:** arriving at this folder; managing at `main`. No living file's meaning is changed.
+**Standing:** arriving at this folder; managing at `main`. Exhibit ONE is at v380 by this working's first motion, Natural Intelligence at v380 through it.
 
 ## Progress
 
@@ -21,6 +21,8 @@
 | The three workings combined | v380L and v380A received at `main`, each folder whole and each entry at its carrying; one going reached at three workings apart; five partings for both | [Three_Workings_Combined.md](Three_Workings_Combined.md) |
 | The picture met for rigor | A fresh reader at each of the seventeen; v380L and v380A received again at `main`, the Co-Chaining Logic Registry at v380 among them; five carried on, four re-said, three withdrawn, four computed anew | [Rigor_A_Fresh_Reading_And_Three_Workings.md](Rigor_A_Fresh_Reading_And_Three_Workings.md) |
 | The concerns of the three workings, each met or open | Nine met by the session's sayings, five open, the hardest is and is not said of the changing and of the parity | [Concerns_Of_The_Three_Workings.md](Concerns_Of_The_Three_Workings.md) |
+| Exhibit ONE at v380, a first motion | Entered: an opening of four paragraphs and each of the twenty-two tables at a title and its conditions; nothing of v379 changed but its version line; three helpers, each finding mended or laid | Exhibit ONE v380; `carry/Session_Record.md` |
+| The working v380A retired, its carrying value gathered | Five motions offered for a new Natural Networking, a kit of no executing as ground, each uncarried concern laid | [Natural_Networking_From_v380A.md](Natural_Networking_From_v380A.md) |
 | The three workings beside each other | v380A's convention received: one branch, one folder, a Progress at five sections. The managing below | This file |
 
 ## The managing, from v380R to v380L and v380A
