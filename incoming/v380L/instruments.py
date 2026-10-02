@@ -356,3 +356,106 @@ for trial in range(2000):
     order = [random.randrange(2) for _ in range(48)]
     for j, k in pair(order): tally[k] += 1
 print('   at random pacings: changing at its own %d, changing to the parity arriving %d, no changing %d' % (tally['own'], tally['arriving'], tally['none']))
+
+# ---------------------------------------------------------------------------------------------------------------
+head(16, "Two versions of a self's changing, each said as a rule and followed forward at the same societies. R: the"
+         "\n   resolver as written, a self changing at its own at each momentary and at the parity arriving. S: no changing"
+         "\n   at nothing arriving, a changing at a releasing arriving, at four ways of saying it. 3000 societies, two to six"
+         "\n   selves at one sharing, each releasing to one self at the least and arrived at from one at the least, each"
+         "\n   followed to a momentary it was at; and each self entered at its own momentary.")
+def surf(arr):
+    v=None
+    for p in arr:
+        if p!=0:
+            if v is None: v=p
+            elif v!=p: v=0
+    return v
+# each version: (carried parity c, list of arriving parities) -> (next parity, list of parities released)
+def R(c,arr):                       # the resolver as written: the zero passes nothing
+    v=surf(arr); n = v if v in (1,-1) else -c
+    return n, ([n] if n!=c else [])
+def R2(c,arr):                      # the same at the self; at no net changing the two parities are both released
+    v=surf(arr); n = v if v in (1,-1) else -c
+    return n, ([n] if n!=c else [-c,c])
+def S_net(c,arr):                   # a self changes one time for each releasing arriving; releases if its parity is changed
+    k=len(arr); n = c*(-1)**k
+    return n, ([n] if n!=c else [])
+def S_each(c,arr):                  # a self changes one time for each releasing arriving; each changing is released
+    out=[]; n=c
+    for _ in arr: n=-n; out.append(n)
+    return n, out
+def S_surf(c,arr):                  # arrivals surface as at 14; a self changes if a parity surfaces; releases if changed
+    v=surf(arr); n = -c if v in (1,-1) else c
+    return n, ([n] if n!=c else [])
+def S_take(c,arr):                  # arrivals surface as at 14; a self is at the parity surfacing; nothing arriving, no changing
+    v=surf(arr); n = v if v in (1,-1) else c
+    return n, ([n] if n!=c else [])
+V={'R  the resolver as written':R,'R2 the same, two parities released at no net changing':R2,
+   'S1 one changing at each releasing arriving, released at a net changing':S_net,
+   'S2 one changing at each releasing arriving, each changing released':S_each,
+   'S3 a changing at a parity surfacing, none at nothing arriving':S_surf,
+   'S4 the parity surfacing is the next parity, none at nothing arriving':S_take}
+def go(rule,n,joins,car,arr,limit=400):
+    seen={}; hist=[]
+    for t in range(limit):
+        key=(tuple(car),tuple(tuple(sorted(a)) for a in arr))
+        if key in seen: return hist, seen[key]
+        seen[key]=t; hist.append(tuple(car))
+        nxt=[[] for _ in range(n)]; newc=[]
+        for i in range(n):
+            c2,out=rule(car[i],arr[i]); newc.append(c2)
+            for j in joins[i]:
+                nxt[j].extend(out)
+                if len(nxt[j])>12: return hist, None      # growing with no bound
+        car,arr=newc,nxt
+    return hist, None
+def verdict(hist,start,n):
+    if start is None: return 'grows',0
+    cyc=hist[start:]
+    still=[i for i in range(n) if len({h[i] for h in cyc})==1]
+    return ('all still' if len(still)==n else ('some still' if still else 'each changing')), len(cyc)
+random.seed(383)
+socs=[]
+for trial in range(3000):
+    n=random.randint(2,6)
+    joins=[[j for j in range(n) if j!=i and random.random()<0.45] for i in range(n)]
+    for i in range(n):                         # each self releasing to one at the least and arrived at from one at the least
+        if not joins[i]: joins[i]=[random.choice([j for j in range(n) if j!=i])]
+    for j in range(n):
+        if not any(j in joins[i] for i in range(n)): joins[random.choice([i for i in range(n) if i!=j])].append(j)
+    car=[random.choice((1,-1)) for _ in range(n)]
+    arr=[[random.choice((1,-1))] if random.random()<0.4 else [] for _ in range(n)]
+    socs.append((n,joins,car,arr))
+for name,rule in V.items():
+    tally={}
+    for n,joins,car,arr in socs:
+        hist,start=go(rule,n,joins,list(car),[list(a) for a in arr])
+        k,_=verdict(hist,start,n); tally[k]=tally.get(k,0)+1
+    print('   %-72s %s'%(name, '  '.join('%s %d'%(k,tally.get(k,0)) for k in ('each changing','some still','all still','grows'))))
+print('   one self alone, carrying +, nothing arriving, six momentaries:')
+for name,rule in V.items():
+    c=1; seq=[]
+    for t in range(6): c,_=rule(c,[]); seq.append('+' if c>0 else '-')
+    print('      %-70s %s'%(name,' '.join(seq)))
+print('   two selves each releasing to the other, both carrying +, a + arriving at self 1 at the first momentary, eight momentaries:')
+for name,rule in V.items():
+    hist,start=go(rule,2,[[1],[0]],[1,1],[[1],[]],limit=9)
+    print('      %-70s %s'%(name,' '.join(''.join('+' if x>0 else '-' for x in h) for h in hist[:8])))
+
+print('   each self at its own momentary, one self entered at a time at random, 600 enterings at each society: the longest')
+print('   going of one self through its own momentaries with no changing, and societies with a self at no changing at its last 40 momentaries')
+random.seed(384)
+for name,rule in V.items():
+    longest=0; stopped=0
+    for n,joins,car,arr in socs[:1000]:
+        car=list(car); arr=[list(a) for a in arr]; run=[0]*n; last=[[] for _ in range(n)]; grew=False
+        for t in range(600):
+            i=random.randrange(n); c2,out=rule(car[i],arr[i]); arr[i]=[]
+            ch = (c2!=car[i]) or (len(out)>1 and rule in (R2,S_each))
+            last[i].append(c2!=car[i]); run[i]=0 if c2!=car[i] else run[i]+1; longest=max(longest,run[i]); car[i]=c2
+            for j in joins[i]:
+                arr[j].extend(out)
+                if len(arr[j])>60: grew=True
+            if grew: break
+        stopped += any(len(l)>=40 and not any(l[-40:]) for l in last)
+    print('      %-70s longest %3d   societies with a self stopped %d of 1000'%(name,longest,stopped))

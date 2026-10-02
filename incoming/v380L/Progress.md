@@ -15,7 +15,7 @@
 |---|---|---|
 | The managing received | Worked by: this folder, this file's sections, the shared files unchanged here, this working's row at the Living File Registry's carrying | `incoming/v380R/Progress.md`, its section on the managing; the section here on the managing received |
 | The reading in | Natural Naming, Natural Explaining and the Geodesic Improving Method read whole | The README's front |
-| Exhibit ONE's tables and the resolver's lines followed | Twenty-one findings, fifteen instruments with their returned text | [README](README.md); `instruments.py` |
+| Exhibit ONE's tables and the resolver's lines followed | Twenty-two findings, sixteen instruments with their returned text | [README](README.md); `instruments.py` |
 | The entries at the carryings | Five at four carryings, two ready and three concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
@@ -30,7 +30,7 @@ The managing removes no prior of this working. Six places part, each said with t
 3. **A carrying carries the next.** Paragraphs this working laid as evidence bearing on another working's concern were neither ready nor concern. Each is at the README's section on bearing, at this folder alone.
 4. **A ready sentence changing a meaning.** Eight entries this working laid as ready changed a meaning or released a prior, as the managing's gathering says at its part on this working's entries. Each is a concern for both, or released; the table at the next section says each.
 5. **One finding at two entries.** The managing's gathering at Exhibit ONE carries this working's findings at two of its parts: four findings and a part of a fifth at its part on the resolver's own showing, and five concerns among its ten for both. This working lays none of them again at Exhibit ONE's carrying; its evidence for each is at the README's section on bearing.
-6. **This working's own file.** Each of the twenty-one findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
+6. **This working's own file.** Each of the twenty-two findings is at a file of the managing working, and none is a motion at the Co-Chaining Logic Registry. Three of its sentences follow Exhibit ONE's tables, the step on the sides at the names, the step on surfacing at 14 and the step on the parities again: each is carried from Exhibit ONE's map at its motion, as the managing says.
 
 `main` and this working each added entries at one place of three carryings, Exhibit ONE's, Natural Naming's and the Geodesic Improving Method's. `main` is joined into this branch, `main`'s entries first and this working's next, each line of `main` checked present.
 
@@ -76,6 +76,7 @@ No motion at this working's own file is offered.
 - **Each condition, and the zero at a join.** The resolver's six conditions are at 14, at 12, at 11 and at a join being or not; a join passes each release. With a join passing a parity alone each self's carrying is the same, at 2,000 of 2,000 societies, and a parity released and the chained parity changing are together at each changing.
 - **The next parity at one sentence.** The next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero surfacing; the order 12, 11, 10 gives the same release and chaining. The zero said as two parities released is the same at one join arriving and parts at two.
 - **Each self at its own momentary.** Two selves each releasing to the other, entered one and the other in exchange: each goes through three, changing at its own, no changing, changing to the parity arriving, the two one of the three apart; a parity at a changing is the one thing passing.
+- **Two versions followed forward.** A self changing at its own at each momentary, a parity arriving its next parity: each self changing at each of 3,000 societies. No changing at nothing arriving: a self or the society whole stops, at each of four ways of saying it.
 - **What the files carry.** Of the concerns this working laid, each but three was the set's own carrying said again: at a sentence of a living file, at the Session Record, at a concern of v378 or at the managing's ten.
 
 ## Concerns
@@ -84,7 +85,7 @@ Three for both, each two sayings parting with its reason, at its file's carrying
 
 One for the managing: the folder's release to the archive beside five entries naming the folder.
 
-One across two workings, for both: the table's zero at two sayings of the session. At v380R: *not releasing is self-parity no changing*, and the managing's file on a living self as a carrying withdraws the zero as two changings at it. At this working: *if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity*. At the self the two give one carrying. They part at the other self: not releasing passes nothing, as the resolver's lines give; two releasings pass two parities, parting at 14 at a self with two arriving, finding 20. The session's next saying at this working, *only the parity changing between is shared*, is with the first.
+One across two workings, for both, followed forward at finding 22: a self's changing at two versions. R, the resolver's lines: a self changes at its own at each momentary, and a parity arriving is its next parity. S, the sayings *not releasing is self-parity no changing* and *each parity releasing arriving is changing self parity*, said at the receiving self: nothing arriving, no changing. By the files' own test, a false expression *fixes, stopping*: at each of four ways of saying S a self or the society whole stops at the societies followed, and one self alone is at no changing; at R each self is changing at each society, together and each at its own momentary. At the releasing self the sayings and R are one. Open still, for both: at R's two changings in one momentary, nothing passing or the two parities passing; each is changing at each society, and they part at a self with two arriving.
 
 ## Opportunities and next
 

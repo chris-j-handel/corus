@@ -175,3 +175,37 @@ INSTRUMENT 15. Two selves, each carrying + at one sharing, each releasing to the
       self 1: own  none  arriving  own  none  arriving
       self 2: arriving  own  none  arriving  own  none
    at random pacings: changing at its own 74572, changing to the parity arriving 11027, no changing 10401
+
+INSTRUMENT 16. Two versions of a self's changing, each said as a rule and followed forward at the same societies. R: the
+   resolver as written, a self changing at its own at each momentary and at the parity arriving. S: no changing
+   at nothing arriving, a changing at a releasing arriving, at four ways of saying it. 3000 societies, two to six
+   selves at one sharing, each releasing to one self at the least and arrived at from one at the least, each
+   followed to a momentary it was at; and each self entered at its own momentary.
+   R  the resolver as written                                               each changing 3000  some still 0  all still 0  grows 0
+   R2 the same, two parities released at no net changing                    each changing 3000  some still 0  all still 0  grows 0
+   S1 one changing at each releasing arriving, released at a net changing   each changing 1907  some still 296  all still 797  grows 0
+   S2 one changing at each releasing arriving, each changing released       each changing 475  some still 30  all still 549  grows 1946
+   S3 a changing at a parity surfacing, none at nothing arriving            each changing 1507  some still 763  all still 730  grows 0
+   S4 the parity surfacing is the next parity, none at nothing arriving     each changing 31  some still 57  all still 2912  grows 0
+   one self alone, carrying +, nothing arriving, six momentaries:
+      R  the resolver as written                                             - + - + - +
+      R2 the same, two parities released at no net changing                  - + - + - +
+      S1 one changing at each releasing arriving, released at a net changing + + + + + +
+      S2 one changing at each releasing arriving, each changing released     + + + + + +
+      S3 a changing at a parity surfacing, none at nothing arriving          + + + + + +
+      S4 the parity surfacing is the next parity, none at nothing arriving   + + + + + +
+   two selves each releasing to the other, both carrying +, a + arriving at self 1 at the first momentary, eight momentaries:
+      R  the resolver as written                                             ++ +- -+ +-
+      R2 the same, two parities released at no net changing                  ++ +- -+ +-
+      S1 one changing at each releasing arriving, released at a net changing ++ -+ -- +-
+      S2 one changing at each releasing arriving, each changing released     ++ -+ -- +-
+      S3 a changing at a parity surfacing, none at nothing arriving          ++ -+ -- +-
+      S4 the parity surfacing is the next parity, none at nothing arriving   ++ ++
+   each self at its own momentary, one self entered at a time at random, 600 enterings at each society: the longest
+   going of one self through its own momentaries with no changing, and societies with a self at no changing at its last 40 momentaries
+      R  the resolver as written                                             longest   3   societies with a self stopped 0 of 1000
+      R2 the same, two parities released at no net changing                  longest   3   societies with a self stopped 0 of 1000
+      S1 one changing at each releasing arriving, released at a net changing longest 333   societies with a self stopped 664 of 1000
+      S2 one changing at each releasing arriving, each changing released     longest 332   societies with a self stopped 237 of 1000
+      S3 a changing at a parity surfacing, none at nothing arriving          longest 331   societies with a self stopped 827 of 1000
+      S4 the parity surfacing is the next parity, none at nothing arriving   longest 331   societies with a self stopped 1000 of 1000
