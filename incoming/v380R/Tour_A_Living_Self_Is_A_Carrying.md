@@ -130,3 +130,20 @@
 2. **The numbers of each.** *One entry, six connectors and ten faces are the seventeen* is a sentence of Natural Naming and a relation of numbers, three, three, ten and one; with the three words dissolved the sentence is released or re-said at releasings and arrivings.
 3. **The saying's word for the still.** Natural Naming releases *stilling* and carries the still at the compound alone; the saying says *stilling* of the nothings. Said at the compound, the two are one.
 4. **Bounding.** *Bounding* is a naming of the set, a naming at four boundings at once. The saying frees the resolver from *bounding and separators as objects*; the naming's own bounding, no object, is another relation.
+
+## Self, bi and tri, each arriving and releasing: the six
+
+**The saying.** *self arriving and releasing, bi arriving and releasing, tri arriving and releasing. is this the six cycling*
+
+**Followed at Exhibit ONE's own rows and the numbers; an offering, not yet followed six forward.**
+
+1. **It is six, and Exhibit ONE carries it as its table of three windings.** The self's, 9 releasing and 17 arriving; the other's, 6 releasing and 2 arriving; the society's, 10 releasing and 14 arriving. Three, each a releasing and its arriving: the six that were said connectors.
+2. **At the words.** The other's two names are bi-co-bi, the society's two bi-tri-bi, and the self's are 9-tri-bi-co-momentarying releasing and 17-co-bi-tri-offering arriving, each the other said incoming. Bi at the other's; bi-tri at the society's; tri and co at the self's.
+3. **It is none of the four six-cycles of Exhibit ONE's table of forms.** Those are 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12; none is 2, 6, 9, 10, 14 and 17.
+4. **At the one move it is a four and a two.** 8 up pairs 2 with 10, 6 with 14 and 9 with 17, an arriving with a releasing at each pair. Going a releasing to its arriving and then 8 up: 6 to 2, 2 to 10, 10 to 14, 14 to 6, the unit square of parity's face, four names; and 9 to 17 and 17 to 9, the two along. A four and a two, no one going of six.
+5. **At the resolver's own order it is one going of six.** The offerings arriving at 2, surfacing at 14; the changing released at 10, the same list at 6, carried at 9; arriving at 17, the society's next momentary; and 2 again. Three arrivings, 17, 2 and 14, then three releasings, 10, 6 and 9: one going of arrivings and one of releasings, crossing twice, the shape each form of Exhibit ONE has at its odd and even names.
+
+**Parting, each for both.**
+
+1. **Two orders.** The six is one cycling at the resolver's order and a four and a two at the numbers' one move; Exhibit ONE's forms are at the numbers.
+2. **Co arrives and tri releases.** Among the odd names co is at an arriving alone, 17 and the carrying at 3, and tri at a releasing alone, 9 and the chaining at 11; bi is at both. *Tri arriving and releasing* is followed here as the society's winding, its names opening bi-tri.
