@@ -1,6 +1,6 @@
 # One self followed through one momentary, at Exhibit ONE's names
 
-**Standing:** arriving, an offering for both, meeting the working v380A's improving question at Exhibit ONE's carrying: *follow one self's own carrying, the other's releasing arriving and the society's releasing arriving through that self's completing and its next opening, at the actual names and the travelling tri bi co bi tri bi co*. Exhibit ONE is unchanged. Each line is at Exhibit ONE's own rows; the resolving is a partner of it and no ground.
+**Standing:** arriving, an offering for both: one self's own carrying, the other's releasing arriving and the society's releasing arriving, followed through that self's completing and its next opening at Exhibit ONE's names. Exhibit ONE is unchanged. Each line is at Exhibit ONE's own rows.
 
 ## The passing
 
@@ -13,10 +13,14 @@
 7. **The carrying, with each changing entered, is given on along.** 11, tri: the self's own next, arriving as its next 3. And 9, tri, carries each changing to its receiving at the next momentary.
 8. **The self opens again carrying.** Tri, bi, co, bi, tri, bi, co: what was given on along, the between, the carrying arriving, the between, the carrying given on.
 
-## At one completing, or one after the other
+## With all other, arriving as one
 
-The resolving gathers each arriving, along and across, at one surfacing, 14, and parts no first from a second. The session says the first tri and the second bi, one momentary two parity changings one after the other, the self odd then even. Exhibit ONE's numbers say the same order: 1, the entry, arriving from the tri, odd; 2, the others' offerings, even.
+The session said *what its construction gathers at one receiving belongs to the construction, there is no language or naming or explaining like this in resolving. find the source of this and resolve it out of our improving and files. v380A is code testing and has no authority. do no be confused we answer to the binary rigor of cohering wiht all other in natural torusing. see this concept in exhibit thirty. there is not two similar things anywhere in this*.
 
-The two sayings: the two arrivings meet at one surfacing, as the resolving gathers them; or the tri arrives at the self's opening, odd, and the bi at its completing, even, one after the other, and the gathering at one is the resolving's own implementing. Its reason: the working v380A's surface shows the two give differing results at a sharing not yet carried, a + and a − together releasing the between and one after the other releasing each.
+This file first said here two sayings, the arrivings *as the resolving gathers them* beside the living's own, with an executing of the working v380A as its reason. Both are withdrawn: two similar things said of one, and an executing no ground.
 
-Not followed further here. It is for both, at Exhibit ONE's carrying.
+The Co-Chaining Logic Registry says it at its own steps. *At a momentary the odd is the self and the even all other: each parity is everything the other is not in the existing universe, with nothing third.* And *a crossing is with a particular other, or with all other arriving as one; with all other the crossing carries the two and the whole, three at it and none of them first, and reaches its own side again at a next, one on.*
+
+At the passing above: the self, odd, its carrying; all other, even, arriving as one, the society's along and the other's across within it; and the self at its own side again at a next. One momentary, the odd and the even, two parity changings one after the other.
+
+**Not yet followed.** The step says of the three at a crossing *none of them first*; the session says *the first arriving parity is tri, the second arriving parity is bi*. First and second of the two parity changings of one momentary, and none first among the three at one crossing, are met as two steps of one meaning before either is laid as parting.

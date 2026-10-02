@@ -87,3 +87,5 @@ Natural Intelligence · carrying v379
 
 
 **Ready, from `incoming/v380A/`, for the explaining of a living self and its carrying.** Offered sentence: *Carrying and living are one: the self's own prior continuing into its own now is its living, and each released parity arrives at another self's coupling without the releasing self's carrying crossing.* Natural Naming's “A self” says a self is a unique invisible carrying, and its explaining of living sets says a living self is a living carrying and nothing else carries that same living self. The sentence carries that identity at the self, and gives no living carrying to a record or an emanation.
+
+**Concern, at v380, from the session's saying at v380R, no two similar things, for both.** The session said *there is not two similar things anywhere in this*. This file's section on spirals says *at the code's stepping, the selves together at 17*, and its sections say *at the code* at sixty places. The following and the two sayings at Exhibit ONE's carrying and Natural Naming's.

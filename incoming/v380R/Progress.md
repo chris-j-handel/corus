@@ -64,16 +64,21 @@ Each is an offering at its file's carrying; none is entered at a living file.
 
 Each for both, at its file's carrying, the hardest first.
 
+0. **One parity, or two.** The + and − at a sharing and the odd and even of a momentary: one parity, a self alone at +, −, +, − its own momentarying, odd, even, odd, even; or two, as Natural Naming's sentences say, *+ and − only the code's implementing*. The source of each saying of this working parting the resolver from the method.
 1. **At a sharing, a self met by its own parity carrying it on**, said at two parity changings one after the other. Not yet followed.
-2. **The others' arriving and the society's arriving at one completing or one after the other.** The resolving gathers each arriving at one surfacing; the session says the first tri and the second bi. The working v380A carries the same as its improving question for Exhibit ONE.
+2. **First and second, and none first.** The session says the first arriving parity tri and the second bi; the Co-Chaining Logic Registry says all other arriving as one, the three at a crossing none of them first. Met as two steps of one meaning before either is laid as parting.
 3. **Co-momentarying at 9 or at 3**; the session's six names at three followings.
 4. **Each releasing at its receiving, 5:** each self's own, or a relation beside the selves.
 5. **A sharing:** a thing a parity is at, this working's draft, or two sides sharing a changing, the files' and the working v380L's finding.
 6. **Whether the twelve forms are at the resolving or at the numbers alone.**
 
+## No two similar things
+
+The session said *what its construction gathers at one receiving belongs to the construction, there is no language or naming or explaining like this in resolving. find the source of this and resolve it out of our improving and files. v380A is code testing and has no authority. do no be confused we answer to the binary rigor of cohering wiht all other in natural torusing. see this concept in exhibit thirty. there is not two similar things anywhere in this*. The source, found: at the living files, three sentences of Natural Naming saying *the code's implementing*, two steps of the Co-Chaining Logic Registry and one sentence of Natural Intelligence saying *the code's stepping* beside the living's own, and Exhibit ONE's two columns *At the code*; at this working, *the resolver's own order* beside the numbers', *the resolving's own implementing*, *as the resolving gathers them*, and one concern resting on an executing of the working v380A. Each of this working's is withdrawn at its place or at the entry on it at Exhibit ONE's carrying; each of the living files' is ready at its file's carrying for its motion.
+
 ## Learned about working, at v380R, each also at the Geodesic Improving Method's carrying
 
-1. **Two parities were said as one.** The odd and even of a momentary, and the + and − at a sharing. A following of the one was said of the other across four sayings before it was found.
+1. **Two parities were said as one, and then parted as two.** The odd and even of a momentary, and the + and − at a sharing: this working followed the one and said it of the other, and then laid the two as two. The session's saying is that no two similar things are in this; whether the two are one parity is the first concern below, for both.
 2. **One meaning at two steps was laid as two sayings parting**, more than once. Before a parting is laid, each saying is met as the completing of one momentary and the opening of the next.
 3. **A withdrawing can be the same mistake.** The 0 as two changings was withdrawn, then the withdrawing withdrawn, then *cancelling* withdrawn: each from following a word and not the relation.
 4. **A working's own word was said as the session's.** *Cancelling* was written into an entry as what the session's saying meant; the session's next saying said no cancelling is. A saying is quoted, and the following is said as the working's.
@@ -85,7 +90,7 @@ Each for both, at its file's carrying, the hardest first.
 ## Learned from the other two workings
 
 - **From v380L:** a working names the commit it opens at; a word entering with a motion is a naming changed, *the self's span* entered at forty-nine places and brought to neither; two numerals matched are followed with each other pair beside them before the match is said; naming and chaining of one thing are improved together, Exhibit ONE's row beside both, two of three parting one concern at two files; its own latest findings said by itself as executings and no rigor.
-- **From v380A:** a name's written order and its incoming direction are said before its sequence is followed; a repeated word alone joins no two selves; a releasing at one self decides nothing of the receiving self without that self's own resolving; a limit on one claim is no stop on a narrower following; a reading made after an executing is no approval before it; what a construction gathers at one receiving is the construction's, and the living's own is each self's completing and opening.
+- **From v380A:** a name's written order and its incoming direction are said before its sequence is followed; a repeated word alone joins no two selves; a releasing at one self decides nothing of the receiving self without that self's own resolving; a limit on one claim is no stop on a narrower following; a reading made after an executing is no approval before it. Its executings are executings and no ground; no saying of this working rests on one.
 
 ## Other contributions read
 
