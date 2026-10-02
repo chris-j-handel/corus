@@ -46,3 +46,17 @@ Each of the first five reaches a term the one before did not carry, the sides al
 1. **A momentary of no changing.** Whether a self's own changing is at each momentary, the 0 two changings cancelling, or a momentary of no changing is. One concern at two files, Natural Naming's *a still at the self* and the Co-Chaining Logic Registry's the 0 at 12, resolved together or neither. Not sayable at the cells: each cell is the same at both.
 2. **Co-momentarying, at 9 or at 3.** The session's six fix six names at one following and not at another.
 3. **The joins.** Each self's own releasing-to, or a relation beside the selves and no thing.
+
+## The session's saying, met at the first of the three hardest
+
+**The saying.** *existing self (1 co-competencing), other possible existing (2 bi moralizing), universe of all existing (3 tri abundancing). a momentary is three consecutive existings and each existing is inside the next. a momentary of no changing has no method of existing*
+
+**Followed at Exhibit ONE's own rows; an offering.**
+
+1. **A momentary of no changing has no method of existing.** The first of the three hardest is met by it. The 0 is the self's own changing and the arriving's opposed, two cancelling, the self changing at each momentary; a momentary with no changing at it is not possibly existing. The fresh reader's following and the working v380L's chaining are beside it: no changing at all fixes each society, and the Co-Chaining Logic Registry names that form the method's break.
+2. **The three are three of Exhibit ONE's own namings.** Co-competencing is its naming at 5; bi-moralizing its naming at 6; and 17's name before the three prefixes was 17-social-abundancing.
+3. **1, 2 and 3 are 1, 9 and 17, one scale outward.** Exhibit ONE's table of each name at the 1 to 17 outward: 1 at 1, the entry, odd, co; 9 at 2, across, even, bi; 17 at 3, odd. The existing self, the entry. The other possible existing, 9, each releasing carried to its receiving, across and bi at the scale outward. The universe of all existing, 17, each self at its next momentary. And they are the resolving's own three parts, named 1, 9 and 17.
+4. **Each inside the next.** Exhibit ONE's table of namings: 1 the self's entry; 1 to 9 the bi-coupling, the self and the other; 1 to 17 the bi-trupling, the self, the other and the society. 1 is within 1 to 9, and 1 to 9 within 1 to 17. At the resolving the third part goes through the first and the second.
+5. **A momentary is three.** Its name is three, 9-tri-bi-co-momentarying. And each 1 to 17 inward is three numbers one after the other, eight of eight: 1 to 3, 3 to 5, on to 15 to 17, its 1, its 9 and its 17.
+
+**Not yet followed, for both.** The third is said tri, and Exhibit ONE's outward column says 3 odd, co: tri the universe of all existing, or the number's word. And *each existing is inside the next* at the second within the third is at the namings' spans; the first within the second at the resolving's lines is not shown, the third going through each of the other two.
