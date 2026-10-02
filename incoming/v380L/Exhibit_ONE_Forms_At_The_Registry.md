@@ -51,7 +51,7 @@
 
 ## Steps offered, each a form of Exhibit ONE at no step
 
-Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it. The sixth, the seventh and the eighth are at a self at nothing arriving, and wait on the concern on no arriving changing at Exhibit ONE's carrying and the Registry's.
+Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
 
 **One. The further forms, each at its moves.**
 *The further forms go by four up or four down, parity continuing, beside 8 up and 17 less: the middle four-cycles 9-5-12-8 and 7-11-6-10 at four and 17 less; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at 8, four and 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, four, 8 and 17 less.*
@@ -89,6 +89,10 @@ Adding: three selves in a line. From steps 208, 212, 222, 223 and 239. Exhibit O
 *Carried none and offered nothing, a sharing is at no carrying, and nothing is released at it.*
 Adding: a sharing at no carrying. From step 212, a sharing entering the carrying at an offering. Exhibit ONE's cell, a dash and *none*.
 
+**Ten. The changing is and is not, alternating.**
+*At a carrying, a changing that is and a changing that is not alternate, momentary by momentary: the carrying next at its prior inverted, the four joint forms of prior and now round in one cycle, the living step. The changing that is at each momentary is one parity turning at itself, again at two; the changing that is not at each momentary is a form named still.*
+Adding: the changing is and is not, alternating, the living step at a carrying. From steps 57, 58 and 212. Exhibit ONE's rows of a spiral of one self, *+, 0, −, 0*, and of two selves of alike priors joined both ways, *−, 0, +, 0, −, 0*; and of each alone, *+, −, +, −* and *+, 0, 0, 0*. The arithmetic of two parities alone is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md). With it the sixth, the seventh and the eighth wait on nothing.
+
 ## At no step, and offered at none
 
 Each is a number Exhibit ONE's table shows from the resolver executed, and no chaining of it is at hand.
@@ -102,7 +106,7 @@ And each is a saying Exhibit ONE's row carries in words, at no step: whose windi
 
 ## Not done
 
-- Each offered step is read by one fresh reader, its findings met here; none is entered.
+- Nine of the ten offered steps are read by one fresh reader, its findings met here; the tenth is read by none; none is entered.
 - The steps parting at 511, 427 and 308 are not followed.
 - The sayings in words at no step are listed and not chained.
 - The other living files are not read beside the Registry.

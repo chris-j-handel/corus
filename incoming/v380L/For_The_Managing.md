@@ -4,20 +4,23 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
-## One. Nothing arriving, the one place parting: what the Registry's steps say
+## One. Nothing arriving: the two alternating are all, and each alone is none at all
 
-The managing's entry at the Registry's carrying says *the chaining of each, six forward, is this file's*. It is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on nothing arriving, read by a fresh reader and mended at its findings. Shortly:
+No word decides it: no saying of the session, no step and no cell. The arithmetic of two parities alone, at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the binary:
 
-- **The cell as it is, the carrying to its opposite at nothing arriving.** The Registry says it at one step, 208, *with nothing offered the self carries its prior into now inverted*; steps 212 and 307 repeat it; step 308 says it of the code and names the other form a break.
-- **The session's, at no arriving changing no differencing.** No step of the Registry says it. Step 185, *competency the unchanging, none along*, and step 450, *a lone self* *carries no crossing*, are beside it and are not it.
-- **Step 276**, *the odd is the self and the even all other*: no momentary is at a self beside no other. Nothing arriving is a condition of Exhibit ONE's tables.
-- **Six forward is not done at either.** This working's earlier verdict, the session's saying *no method of the changing set* by step 308, is withdrawn: a step of the Registry is no authority.
+| | The carrying | Joint forms of prior and now, of four | At itself again at |
+|---|---|---|---|
+| The carrying to its opposite, at each momentary | + − + − | two | two |
+| The carrying carried on, at each momentary | + + + + | one | one |
+| The two alternating | + − − + | four | four, the carrying next at its prior inverted at each |
 
-**A third saying, this working's offering, said by no file.** The + or − at nothing arriving is the momentarying, parity is or is not existing, *+, −, +, −* at Exhibit ONE's row of a self offered nothing; the changing of co-competency is at an arriving differing alone. Each cell is as it is. Beside it, the session's *there is not two similar things anywhere in this*: one + or − said at two things.
+The two sayings laid as one or the other are the two steps of one going. Exhibit ONE's own rows are at it prior: a spiral of one self, *+, 0, −, 0*; two selves of alike priors joined both ways, *−, 0, +, 0, −, 0*. The cell at nothing arriving and the cell at its own parity arriving are one and the other in turn, and each cell is as it is. A self's parity alternating, + − + −, is one parity turning at itself; the alternating that discovers a next is of the changing, is and is not.
 
-**What rests on each** is at the file, a table of three.
+**Offered for Exhibit ONE's opening**, one sentence: *at a carrying the changing is and is not in turn, the carrying next at its prior inverted.* And a step offered at the Registry, the tenth of ten.
 
-**Withdrawn by this working.** Its following of the cell of a carrying met by its own parity as two changings one after the other: the session says that cell the 0, no changing of co-competency.
+**Open.** Exhibit ONE's even spirals and a self offered the other parity at each momentary are at the first row at each self.
+
+**Withdrawn by this working.** Its three sayings for both at nothing arriving; its following of the 0 as two changings one after the other; its verdict on the session's saying by a step of the Registry.
 
 ## Two. First and second, and none first
 
@@ -30,7 +33,7 @@ The Registry's two steps are at two things. *with all other the crossing carries
 - **The condition at the twelve forms says** *each carry two pairs 4 apart beside 8 up and 17 less* of the middle four-cycles, the six-cycles and the eight-cycles. The two middle four-cycles are at no 8 up: four, 17 less, four, 17 less.
 - **The diagram writes *14i***, its legend says *i inward face*, and the table of the seventeen names says 14 a connector.
 - **The opening says** *none, one, or more than one at one sharing*. The session said of a gathering at one receiving that it belongs to the construction. Offered: the sentence at the conditions of the table of offerings surfacing, and at no sentence of the opening.
-- **Each table beside the Registry's steps** is at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): eight steps parting from a row, four of them re-said at the Registry's v380b, and nine steps offered for forms at no step.
+- **Each table beside the Registry's steps** is at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): eight steps parting from a row, four of them re-said at the Registry's v380b, and ten steps offered for forms at no step.
 
 ## Four. The working v380A's handing over, beside the managing's gathering
 
@@ -38,7 +41,7 @@ The managing's gathering, `incoming/v380R/Natural_Networking_From_v380A.md`, is 
 
 **Three things beside the gathering.**
 
-1. **Its sentences on a quiet releasing rest on nothing arriving.** *A released zero surfaces no offering there; with no other offering surfaced at a sharing that self already carries, its own parity inverts.* It is the one place parting, part one above; each of its three paragraphs on a zero waits on it.
+1. **Its sentences on a quiet releasing rest on nothing arriving.** *A released zero surfaces no offering there; with no other offering surfaced at a sharing that self already carries, its own parity inverts.* Each of its three paragraphs on a zero is read beside part one above.
 2. **Beside *private*, four more words of a doer over a self** at its new lines: *public*, *access*, *inspect* and *observer*. *A self's private carrying does not become accessible by naming the inspection inward.* Each is re-said with *private*; the session said *there is no reading anywhere in resolving*.
 3. **Three Ready entries at Natural Networking's carrying name an executing as their ground**: from its plan of surfaces, its construction of a surface and its perturbing cases. The gathering releases each sentence resting on an executing; the three entries are beside it yet.
 

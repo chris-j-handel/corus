@@ -85,7 +85,33 @@ The saying is one with the four: the first and the second are two parities and n
 
 **Not done.** A self at two sharings, the one along and the one across, is at no table of Exhibit ONE and is not followed here.
 
-## Nothing arriving: what the Registry's steps say, and what they do not
+## The binary at nothing arriving: the two alternating are all, and each alone is none at all
+
+**No word decides it.** No saying of the session, no step of the Registry and no cell of Exhibit ONE is an authority here. What follows is the arithmetic of two parities alone, no executing of the resolver.
+
+**The two.** At a carrying of one parity, one momentary on: the carrying to its opposite, a changing that is; or the carrying carried on, a changing that is not, the 0.
+
+**Each alone, and the two alternating, from +.**
+
+| | The carrying, momentary by momentary | Joint forms of prior and now, of four | At itself again at | Next the prior inverted |
+|---|---|---|---|---|
+| The changing that is, at each | + − + − + − + − | two | two | no |
+| The changing that is not, at each | + + + + + + + + | one | one | no |
+| The two alternating | + − − + + − − + | four | four | at each |
+
+**All or none at all.** The joint forms of a prior and a now are four. The two alternating are at each of the four, one way round, the first again at a next; each alone is at two or at one and at itself again short of the four. The two alternating are the all; each alone is none at all. Six forward the two alternating carry the alternating on at each of the six, the changing that is at three and the changing that is not at three.
+
+**Not either this or that.** The two sayings at nothing arriving were laid as one or the other. They are the two steps of one going, alternating as they were alternating prior: the changing is, is not, is again.
+
+**Two alternatings, parted.** A self's parity alternating, + − + −, is the first row: one parity turning at itself, no other at it. The alternating that discovers a next is the third row: what alternates is the changing, is and is not, and the carrying is next at its prior inverted.
+
+**At Exhibit ONE's own rows, the two alternating prior.** A spiral of one self, its releasing arriving at itself: *+, 0, −, 0, +, 0, −, 0*, the parities again at 4. Two selves of alike priors joined both ways: *−, 0, +, 0, −, 0* at each. At each the momentary of a 0 arriving is the changing that is, and the momentary of its own parity arriving the changing that is not, one and the other in turn. And the two rows of each alone: a self offered nothing, *+, −, +, −*; a self offered + at each momentary, *+, 0, 0, 0*.
+
+**At the Registry.** Its step on the living step says the third row: next as the prior inverted, the four joint forms round in one cycle. A step offered, the tenth beside the nine at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): *At a carrying, a changing that is and a changing that is not alternate, momentary by momentary: the carrying next at its prior inverted, the four joint forms of prior and now round in one cycle, the living step. The changing that is at each momentary is one parity turning at itself, again at two; the changing that is not at each momentary is a form named still.* Adding: the changing is and is not, alternating, the living step at a carrying.
+
+**Open, said as it is.** Exhibit ONE's even spirals, and a self offered the other parity at each momentary, are at the first row, each self + − + −, two joint forms of the four; the Registry's step on an even spiral says it the alternating itself. Whether two selves at the first row between them are at the four is not followed here.
+
+## The words at nothing arriving, deciding nothing
 
 **The session's saying.** *the 0 is no changing of co competency. if there is no arriving changing differencing is not possible*.
 
@@ -115,15 +141,7 @@ The saying is one with the four: the first and the second are two parities and n
 
 **A third saying, an offering of this working, said by no file.** The cell at nothing arriving and the session's saying are said of two things at the one + or −. The momentarying, parity is or is not existing, is at each momentary: *+, −, +, −* at Exhibit ONE's row of a self offered nothing read as the session's *parity always is until it is not. then parity is again*. The changing of co-competency is at an arriving differing alone. The session also said *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving*.
 
-**For both, each with what rests on it.**
-
-| | The saying | Resting on it |
-|---|---|---|
-| First | The cells as they are: at nothing arriving the carrying to its opposite, the self's own changing | The session's saying is said of an arriving alone, or parts from the cell |
-| Second | At no arriving changing no differencing and no changing of the carrying | Four cells and six tables of Exhibit ONE, and steps 208, 212, 307 and 308 of the Registry, re-said; the steps on the spirals and the torus followed again |
-| Third | The cells as they are, and the + or − at nothing arriving said the momentarying, no changing of co-competency | One sentence entering Exhibit ONE's opening and one step entering the Registry; the one + or − said at two things, beside the session's *there is not two similar things anywhere in this* |
-
-Its reason: the Registry says the first at step 208, the session says the second, and no step chains the second.
+**Laid as three sayings for both at this file's prior commit; released.** The part above this one finds them the steps of one going.
 
 ## Bearing on other concerns
 
