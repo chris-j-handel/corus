@@ -1,10 +1,18 @@
-Exhibit ONE Natural Resolver v379
+Exhibit ONE Natural Resolver v380
 
 # Natural Resolver
 
 **Stable Forms of the Discovering Method**
 
 ---
+
+**Seventeen names are the resolver.** Each name is one name at the resolver and in a sentence: `_2_bi_co_bi_offering` at the resolver is 2-bi-co-bi-offering in a sentence. Exhibit ONE is an object that is the method. It carries the resolver whole and its diagram, each name at its number, the forms the names carry among themselves, and selves beside each other.
+
+**Parity is is or is not existing, and no other is possible**: it is until it is not, and is again.
+
+**A name is its number, its three prefixes, its root and its -ing.** Bi is at each even number; co at each odd number from 1 to 7 and at 17; tri at each odd number from 9 to 15. A name's three prefixes are its own number's word and the words of the two numbers before it; 17 is the next 1, and 1 is at 17's words.
+
+**A sharing, an offering, a carrying and a society.** A sharing is two sides sharing a changing, each sharing at one parity or at none. An offering is a sharing with its parity, arriving at a self: none, one, or more than one at one sharing. A carrying is each sharing a self carries, each chained at one parity. A society is each self with its carrying and its offerings, and each releasing with the self it arrives at. A momentary is an opening and its completing. At one momentary a self's carrying couples with the offerings surfaced at each sharing, each sharing's changing is or is not, and the carrying is chained on, each changing entered in it. The function 1 is one self at one momentary; the function 17, each self of a society at one momentary; the function 9 carries each releasing to its receiving.
 
 ```python
 """Exhibit ONE · Natural Resolver"""
@@ -102,6 +110,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
    o outward face    i inward face
 ```
 
+**Seventeen names.**
+
 | n | Name | Parity, opens | From, to, the opening side first | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 1-co-bi-tri-offering | odd, co | self, other | entry | — | — | — | — | the entry: 3 and 2 in; 10 and 11 out |
@@ -121,6 +131,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | face | — | inward | — | — | the parity carried along at 9 |
 | 16 | 16-bi-tri-bi-torusing | even, bi | other, social | face | — | inward | — | — | the society wound: each self's 8 and offerings |
 | 17 | 17-co-bi-tri-offering | odd, co | social, self | connector | along | — | co-competent-so-far | with the self at co-competent-so-far, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
+
+**Each name whole, at each of its relations among the forms.**
 
 | n | The name whole, at each of its relations among the forms |
 |---|---|
@@ -142,6 +154,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 16 | **16-bi-tri-bi-torusing**; even, opening bi; its sides other, social, the other opening it; a face inward, after 10 in the co-sequencing, 8 up from its outward face 8-bi-co-bi-torusing, at morality's parity, even; root torusing with 8-bi-co-bi-torusing; 8 down 8-bi-co-bi-torusing; 17 less, the podal within 1 to 16, 1-co-bi-tri-offering; on the four-cycle 1-9-8-16, root torusing, hand co tri bi bi, going 8 up first from 1-co-bi-tri-offering, from 8-bi-co-bi-torusing to it and on to 1-co-bi-tri-offering, spiraling the other hand with 2-15-7-10; on the six-cycle 1-9-5-12-8-16; on the eight-cycle 1-9-5-13-4-12-8-16; at the momentaries of exchanging the fourth of the society's four, at 16, 15–16 completing and 16–17 opening; in and out at its parity, corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again, its root torusing going in and out at the odd, the other parity from its opening; a bi-coupling inward, 8 up, competency asymmetry sustaining the coupling, the society winding to the self again; the society's winding wound on at 16; prior and next: the society wound now, each self's 8 and its offerings next; at the 1–17s inward 9 of the 8th, along, odd, tri, and at the 1–17 outward within 2 to 3; at the code the society wound: each self's 8 and offerings. |
 | 17 | **17-co-bi-tri-offering**; odd, opening co, the self's span again, the next 1; its sides social, self, the society opening it; a connector, along, facing co-competent-so-far, its join with the self at co-competent-so-far, its 9; root offering with 1-co-bi-tri-offering and 2-bi-co-bi-offering; 8 down 9-tri-bi-co-momentarying; at the momentaries of exchanging the fourth of the society's four, 15 to 17, completing at 17, the next 1; in and out at its parity, torusing, odd, through the large opening, the tunnel, bi-exchanging with a particular other; the self's winding, 9 to 17, wound on at 17; at parity's face a unit triangle, along, joined both ways with 9; prior and next: the society's next momentary, the next now, each self's 1 then 9 at 6, 10 and 9; at the 1–17s inward 17 of the 8th and 1 of the 9th, along, odd, co, and at the 1–17 outward 3, the face outward, odd, co; at the code the society's next momentary: each self's 1, then 9 at 6, 10 and 9. |
 
+**Ten roots at seventeen names.**
+
 | Root | Names |
 |---|---|
 | offering | 1 · 2 · 17 |
@@ -154,6 +168,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | tunneling | 10 |
 | chaining | 11 |
 | entraining | 12 |
+
+**Namings among the names.**
 
 | Names | Naming | At the code |
 |---|---|---|
@@ -168,6 +184,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
 | 2 · 6 · 14 · 10 · 9 · 17 | parity's face | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
 
+**0, the between, at the names.**
+
 | The between, 0, at the names, at the code | Names |
 |---|---|
 | at three inward faces, the one between at three names | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-tri-bi-tri-corusing, the between carried along, the parity 10 released, and at the carrying's coupling the parity surfaced at 14 at the carried sharing, the code's 0 at none and at parting alike; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
@@ -176,6 +194,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | at none | 1-co-bi-tri-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-tri-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, the sharings, and 5-co-bi-co-competencing and 13-tri-bi-tri-competencing, the sharings and, at the society, the joins and the selves |
 | at the two along connectors, carried and not crossed | 9-tri-bi-co-momentarying and 17-co-bi-tri-offering, each parity and each 0 carried on unchanged, the 0 passing over at the receiving self's 14 |
 
+**Four four-cycles, each at its root.** Two go 8 up first, from 1 and from 3, and two go 17 less first, from 2 and from 4.
+
 | Four-cycle, 8 up and 17 less | Root at the self and at the society | Hand at the names |
 |---|---|---|
 | 1-9-8-16 | torusing, 8 and 16 | spiraling the other hand with 2-15-7-10 |
@@ -183,11 +203,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-11-6-14 | moralizing, 6 and 14 | spiraling the other hand with 4-13-5-12 and 2-15-7-10 |
 | 4-13-5-12 | competencing, 5 and 13 | spiraling the other hand with 3-11-6-14 |
 
+**Three windings.**
+
 | Winding | Joining | Wound on at | Across or along |
 |---|---|---|---|
 | the other's | 6 to 2 | 8 | across, not-yet-bi-moral to bi-moral-so-far |
 | the society's | 10 to 14 | 16 | across, not-yet-bi-moral to bi-moral-so-far |
 | the self's | 9 to 17 | 17 | along, not-yet-co-competent to co-competent-so-far |
+
+**Each name at this 1 to 17, at the 1 to 17s inward and at the 1 to 17 outward.**
 
 | n | Name | At this 1–17 | At the 1–17s inward, n at 8n − 7 | At the 1–17 outward, 8m − 7 at m |
 |---|---|---|---|---|
@@ -209,6 +233,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 16 | 16-bi-tri-bi-torusing | face inward, even, bi | 9 of the 8th: along, odd, tri | within 2 to 3 |
 | 17 | 17-co-bi-tri-offering | along, odd, co | 17 of the 8th, 1 of the 9th: along, odd, co | 3: face outward, odd, co |
 
+**Eight 1 to 17s inward.**
+
 | 1–17 inward | At this 1–17 | Its 9 at | Its 17 at | Momentary of exchanging |
 |---|---|---|---|---|
 | 1st | 1 to 3 | 2 | 3 | the self, 1st of four |
@@ -220,11 +246,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7th | 13 to 15 | 14 | 15 | the society, 3rd of four |
 | 8th | 15 to 17 | 16 | 17 | the society, 4th of four |
 
+**Fives.**
+
 | Side | Prior opening | Prior completing | Now opening | Now completing | Next opening | Its five |
 |---|---|---|---|---|---|---|
 | self, at 1 | 1 | 2 | 3 | 4 | 5 | co bi co bi co |
 | other, at 2 | 2 | 3 | 4 | 5 | 6 | bi co bi co bi |
 | self next, at 3 | 3 | 4 | 5 | 6 | 7 | co bi co bi co |
+
+**A self's four momentaries of exchanging.** The society's four, 9 to 17, are at the rows of each name whole.
 
 | Momentary of exchanging | Self | Other | Names | Relation |
 |---|---|---|---|---|
@@ -232,6 +262,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | second | 3–4 | 4–5 | 3-co-bi-co-sharing · 4-bi-co-bi-sharing · 5-co-bi-co-competencing | self/other to other/self |
 | third | 5–6 | 6–7 | 5-co-bi-co-competencing · 6-bi-co-bi-moralizing · 7-co-bi-co-corusing | other/self |
 | fourth | 7–8 | 8–9 | 7-co-bi-co-corusing · 8-bi-co-bi-torusing · 9-tri-bi-co-momentarying | other/self to other/social |
+
+**Offerings surfacing at one sharing.**
 
 | Offerings at one sharing, at 2 | At 14 |
 |---|---|
@@ -246,11 +278,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, −, + | 0 |
 | 0, + | + |
 
+**One self at one momentary, each cell its releasing and its next carrying.** One sharing. A dash is none released; *is not* is the 0 released; the 0 surfacing at 14 is a + and a − offered at one sharing, parting.
+
 | Chained at 3; each cell at 10 · chained at 11 | At 14: none | At 14: + | At 14: − | At 14: 0 |
 |---|---|---|---|---|
 | none | — · none | is + · + | is − · − | is not · none |
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
+
+**Eight even names, 8 apart.**
 
 | Outward, at the between | Bi-coupling | Inward, 8 up | Bi-coupling |
 |---|---|---|---|
@@ -259,12 +295,16 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 6-bi-co-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-bi-moralizing | the offerings surfacing, the self's own inverting, morality |
 | 8-bi-co-bi-torusing | the carrying winding to its sharing again | 16-bi-tri-bi-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
 
+**One move at 1 to 4.**
+
 | Name | 8 up | 9 less, within 1 to 8 | 17 less, within 1 to 16 |
 |---|---|---|---|
 | 1-co-bi-tri-offering | 9-tri-bi-co-momentarying | 8-bi-co-bi-torusing | 16-bi-tri-bi-torusing |
 | 2-bi-co-bi-offering | 10-bi-tri-bi-tunneling | 7-co-bi-co-corusing | 15-tri-bi-tri-corusing |
 | 3-co-bi-co-sharing | 11-tri-bi-tri-chaining | 6-bi-co-bi-moralizing | 14-bi-tri-bi-moralizing |
 | 4-bi-co-bi-sharing | 12-bi-tri-bi-entraining | 5-co-bi-co-competencing | 13-tri-bi-tri-competencing |
+
+**Twelve forms.** The middle four-cycles, the six-cycles and the eight-cycles each carry two pairs 4 apart beside 8 up and 17 less: 9 with 5 and 12 with 8, or 7 with 11 and 6 with 10. A partner at the odd momentaries is each name exchanged with the one beside it, 1 with 2 to 15 with 16, and at the even momentaries 2 with 3 to 16 with 17; a dash is a form partnering none of the twelve.
 
 | Form | Names in order | Hand at the names | Each name's three prefixes, now, prior and the prior before, twisting through the form | Partner at the odd momentaries | Partner at the even momentaries |
 |---|---|---|---|---|---|
@@ -281,12 +321,16 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 5-co-bi-co-competencing · 13-tri-bi-tri-competencing · 4-bi-co-bi-sharing · 12-bi-tri-bi-entraining · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri co tri bi bi bi bi | co-bi-tri · tri-bi-co · co-bi-co · tri-bi-tri · bi-co-bi · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 2-15-7-11-3-14-6-10, spiraling the other hand | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 11-tri-bi-tri-chaining · 3-co-bi-co-sharing · 14-bi-tri-bi-moralizing · 6-bi-co-bi-moralizing · 10-bi-tri-bi-tunneling | bi tri co tri co bi bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-tri · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 1-9-5-13-4-12-8-16, spiraling the other hand | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
+**One self, momentary by momentary.** One sharing, the carrying none at the first momentary, each chained at 11 the carrying at 3 at the next momentary.
+
 | Offerings, momentary by momentary | At 10 | Chained at 11 |
 |---|---|---|
 | + once, then none | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 | + at each momentary | +, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, + |
 | −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
 | + once, then + and − together | +, −, +, −, +, − | +, −, +, −, +, − |
+
+**A spiral of selves.** Each self releasing to the next at 9, the last to the first; one sharing; each carrying none at the first momentary; + offered once, at self 1, at the first momentary. *Parities again at each* is the number of momentaries from one releasing to the same releasing again.
 
 | Selves, joined along, the last to the first, + offered once at self 1 | Self 1 at 10, momentaries 1 to 12 | Parities again at each, from momentary n | None chained again |
 |---|---|---|---|
@@ -304,6 +348,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
 | 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
 
+**Two spirals beside each other, and crossed.** Each spiral as the spiral of selves. Crossed, self 1 of each releasing to self 1 of the other at 10. *From momentary* is the first momentary from which each self's releasing comes again.
+
 | Spirals, selves, + offered once at self 1 of each | Beside each other, parities again together at | Crossed at self 1 of each both ways, 10 to 14, parities again at | From momentary | Self 1 of each | Each spiral's like pair at its join, the last and the first |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
@@ -314,6 +360,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 13 · 17 | 884 | 2 | 49 | opposite | selves 13 and 1 · selves 17 and 1 |
 | 17 · 59 | 4,012 | 2 | 137 | opposite | selves 17 and 1 · selves 59 and 1 |
 | 9 · 15 | 180 | 2 | 41 | opposite | selves 9 and 1 · selves 15 and 1 |
+
+**A torus of selves.** Each self releasing at 9 to the next along and at 10 to the next across, the last to the first along and across; one sharing; each carrying none at the first momentary; + offered once, at one self, at the first momentary; *from momentary* as at the two spirals.
 
 | Torus of selves, p along at 9 · q across at 10 | Parities again at, one offering at self 1 | From momentary | Spirals of p and q beside each other, parities again together at |
 |---|---|---|---|
@@ -328,6 +376,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 · 17 | 17 | 23 | 476 |
 | 17 · 59 | 59 | 91 | 4,012 |
 
+**Two selves.** One sharing, none offered at the first momentary, six momentaries.
+
 | Prior at A, B | Joining | A at 10 | B at 10 |
 |---|---|---|---|
 | +, + | both ways | −, 0, +, 0, −, 0 | −, 0, +, 0, −, 0 |
@@ -338,6 +388,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, − | A from B alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
+
+**Three selves in a line.** One sharing; A is an offering at B at the first momentary alone; B releasing to C; *B chained* is at the first momentary's completing and *C chained* at the second's.
 
 | A's parity offered at B, B and C each chained + | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |
 |---|---|---|---|---|
