@@ -15,6 +15,8 @@ These are proposed passes for this session, not findings or a prescribed schedul
 
 **Carrying is intelligencing, invisible and untouchable.** Intelligence is sequential is or is not, with no third value between. Only the six connectors, 2, 6, 9, 10, 14 and 17, are external. Describing the ten internal faces does not make them accessible.
 
+**Self-momentary governs the next passes.** The prior momentary belongs only to the resolving self, continuing through its own co-recursioning. Society's parity changing arrives at the coupling; no other's momentary or carrying arrives with it. Overlapping numbers describe the coupling and do not supply a shared private momentary. In B–F, follow each self's own 3→11→next 3 beside the released changing at 10 through existing joins. The society expression preserves each self's continuation separately.
+
 A source reading can establish which operation is written. An implementation check can establish its stated software relation. Neither becomes a natural-network finding by being printed as yes/no. Keep the prior failure, its correction and its practical consequence together.
 
 **Half momentaries** retains the user's arriving expression. The existing relation to meet first is self 1–2 and 3–4 with other 2–3 and 4–5, continuing with 5–6 and 6–7. No equal duration, global half-step, phase controller or prescribed lag is inferred. Whether this fully expresses the intended crossing of podalings is the next correspondence to make explicit, not an assumption that it is already complete.
@@ -65,3 +67,7 @@ Passes B–E now follow that correspondence: first prefixes match opening words;
 Co-recursioning names the recurrence through next momentaries, as corrected by the user. Carry it together with bi-inversioning through B–F. ONE and Naming v379 are now on main, read at `d77df0dc0aa6f5c07a707761d584187f190aade8`; current side relations at 13 and 16 supersede the preceding arrival's: social/other and other/social. Naming 3.1 additionally unfolds bi-tri- at self, other, society, across and along, and bi-/tri-/co- at the crossing's parity/unrelationing/changing. Receive each at its own relation beside the numbered now/prior/prior-before rule.
 
 Next, improve the duplicated TWO's first part and the kit's joining instructions together. Follow one complete coupling through both overlapping commencements and all existing join relations; receive current names with their actual sentences. The report's October 2 review gathers the session's learning, source refresh, concern and opportunities. The caller's local-overlap correspondence remains the next implementation question.
+
+## Self-momentary receiving, 2 October
+
+Five paragraphs in the duplicated TWO's 1.2 and the opening of 6.5 now distinguish shared parity changing from the self's unique prior and unshared momentary. Their prior wording is preserved whole. The report maps the corresponding support and departures in ONE, NI, Naming, Numbers, Societies, Transmissioning, Engineering, Explaining and Illustrating. Next, continue C–F from this distinction: two own continuations, the existing crossing, and no common private prior or momentary supplied by the instrument.

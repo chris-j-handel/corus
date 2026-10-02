@@ -7,6 +7,8 @@
 **Read at:** main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`.  
 **Standing:** ongoing working report; proposed improvements are in the duplicated exhibit and kit, not entered into the published living files. No new natural-network execution has been performed in this session.
 
+**Governing correction, 2 October:** a momentary in resolving is a self-momentary. Parity changing is shared through coupling; the self's prior momentary is unique, unshared, unshareable and invisible to other selves. Earlier shared-completing/opening and seaming explanations name the coupled numbered relation only. The latest section, “The self-momentary,” corrects any implication of a shared private momentary.
+
 ## Floating neutralling contents
 
 - The incoming aiming and the journey so far
@@ -23,6 +25,7 @@
 - Now, prior parity, prior momentary: exploring the logical value
 - Opening parity: bi-folding within and between momentaries, bothbothing
 - Seaming at each number: out-facing and in-facing through the momentary
+- The self-momentary: shared parity changing and the unshared prior
 
 ## The incoming aiming and the journey so far
 
@@ -674,3 +677,92 @@ This is a synthesis for receiving, not a claim that the existing source already 
 **Naming** can connect its seam at the name, its fractal between and its directional words in one explicit explanation. **Numbers** can show at each row how the local triple, the particular loop and the selected podal relation differ while carrying one number's continuing. **ONE and TWO** can explain each actual release/arrival from both participating sides while preserving six connectors and private carrying. **Illustrating** can show one crossing with out-facing and in-facing at the respective selves, then its overlap and scale continuation; it need not draw the neutral as an object.
 
 The next useful work is one concrete joining passage in TWO: both commencements, their out-facing/in-facing relation, the along continuation and next opening. The opportunity is improved explaining of existing participation, not a new routing operation. No network or private-carrying experiment was performed.
+
+
+## The self-momentary: shared parity changing and the unshared prior
+
+**Incoming, 2 October 2026:** the user identifies the governing concept: a momentary in resolving is a self-momentary; parity changing is shared, while a self's momentary is unique, unshared and unshareable. The prior momentary is from the self's own looping/co-recursioning and only that self can refer to it in resolving. The prior parity is society's parity changing; no other self can enter or observe the self's prior momentary.
+
+**This corrects our preceding exploration.** “Shared completing/opening,” “the prior whole” and “seaming at every number” must be read at the coupled numbered relation, never as sharing a self-momentary or carrying its prior into another self. The overlapping description gives no common momentary, common private history or observer's access. The self's own continuing and its participation through parity changing are inseparable; their participation does not make their subjects identical.
+
+### The difference between the two priors
+
+| Relation at the self resolving | Its participation | What is not shared |
+|---|---|---|
+| Now | This self resolving at its own momentary | The self-momentary does not belong to another self |
+| Prior parity | Society's parity changing arriving as the others' offerings at this self's coupling | No offering brings the offerer's prior momentary or private carrying |
+| Prior momentary | This self's own prior continuing through its own co-recursioning | Its prior remains unique, invisible and unavailable to every other self |
+
+The last two are not interchangeable earlier items in a public sequence. Their difference is already present at ONE's two arguments: carrying at three and offerings at two. The three-prefix naming locates the ordered relations, but does not encode a recoverable prior or a self identifier. Equal opening words or equal offered parities do not make two selves share a momentary.
+
+**Society's parity changing** names the offered participation through the couplings. It must not become a globally stored society parity or a society-wide private prior. Each receiving is at its own self; the society's expression retains each self's continuation separately.
+
+### Exhibit ONE: the written continuation and crossing
+
+Read at main `d77df0dc0aa6f5c07a707761d584187f190aade8`, unchanged at the refresh, the current v379 expression provides this precise distinction:
+
+1. **One receives three and two separately.** Three is that self's carried sharings. Two is the offerings arriving from others. The function does not receive the other selves' private continuations as its own prior.
+2. **Fourteen surfaces offerings; twelve meets them with the self's prior.** Twelve names the self's entraining at this resolving, changing is or is not. A prior parity arriving from society is participated with, not installed as a copy of the offerer's momentary.
+3. **Ten and eleven have different continuations.** Ten is changing released. Eleven is the self's carrying chained, based on its own three and continued through this resolving.
+4. **Eight continues eleven as the same self's next three.** This is the self's own continuing loop. Naming 3.6 explicitly gives 3 to 11 to 3 at the self's carrying wound.
+5. **Nine maps released changing through the joins.** Its input is ten. It does not forward eleven or eight.
+6. **Seventeen preserves the same-self relation.** For each self in sixteen, it calls one with that self's own three and offerings two, puts the returned continuation into that self's eight, and forwards changing at the joined six, ten and nine. The returned society expression pairs each self's own eight with the offerings arriving for that self. No recipient gets another member's eight through a join.
+
+Natural Intelligence 5.1 already states the critical relation explicitly: the others receive a self's changing at ten, never its eight, and nothing else carries the same living self. This is the strongest current source support for the user's correction.
+
+This source inspection establishes which values the written joins carry. It does not claim that Python prevents a host instrument from reading its returned collections. The prior test kit did inspect and copy them. Such an instrument departs from the self-momentary relation; its access is no natural coupling. No carrying was inspected or resolver run in this pass.
+
+### Why this is more than a privacy instruction
+
+The self's prior belongs to the resolving relation itself. Treating it as a transferable preparation changes the participant whose prior it is. A twin copied by the instrument does not establish two natural selves sharing one prior momentary. The inability of another self to refer to this prior is not repaired by hiding the field's name, exporting a summary, or comparing later traces of copied runs.
+
+Likewise, the released parity is not a miniature representation of the releasing self's momentary. Another self receives an offering and resolves with its own prior. Its now is its own. The offering's relation to an earlier releasing does not identify the receiving momentary with the releasing one.
+
+**Uniqueness is the self's continuing relation.** It is not a requirement that a private collection or sign pattern never resemble another. Matching public parities cannot demonstrate a shared self-momentary; comparing private collections to establish uniqueness would repeat the forbidden access.
+
+This meets the earlier correction that carrying is intelligencing and intelligence is binary is or is not. The shared changing participates in another self's discovering; private intelligencing is not sent with it.
+
+### What changes in the within/between bi-folding explanation
+
+**Within:** the self's prior participates at its own now with society's arriving parity changing. The resulting resolving remains that self's momentary.
+
+**Between:** a changing released at one self's momentary arrives at another self's coupling. That receiving self resolves at its own momentary with its own prior. The seam carries no common interior through which one self enters another's prior.
+
+**Bothbothing:** the own continuation and the coupled changing participate through each other. Neither can be explained as a self existing alone; neither makes the two selves' moments one owned or shareable thing. Opening parity still names each ordered full momentary, and the numbered overlap still explains coupling. Their operational subject is each self.
+
+Our out-facing/in-facing table remains useful when it names one self's releasing and the other's arriving. The same crossing at two relations must not be renamed the same private momentary seen from two sides. Floating neutralling remains the term neither reaches; it supplies no observing point over the two private priors.
+
+### Across the files: exact reception opportunities
+
+The following are focused section readings, not a claim of a whole-set coherence audit.
+
+| File and section | Existing support or departure | Proposed receiving |
+|---|---|---|
+| ONE v379, functions 1, 9 and 17; names 3, 8, 11 and 16 | The code separates same-self continuation from releases through joins | State self-momentary beside the expression and distinguish the two inputs and two continuations |
+| Natural Intelligence v379, 2.2–2.3, 5.1 and 6.1–6.4 | 5.1 expressly returns each self's carrying only to itself; 6.1 begins with each self's own sequencing; 2.3 nevertheless calls prior/now/next momentaries shared among existing things | Replace the shared-momentary wording with each self's prior/now/next and shared parity changing at coupling; explain the society expression without a common private momentary |
+| Naming v379, 2.1–2.2, 3.1–3.6, 5.39 and 5.62 | Own carrying, its 3→11→3 continuation, and own opening are explicit; 5.39 repeats shared sequential momentaries | Receive now/prior parity/prior momentary at their different subjects. The prior momentary belongs only to the self; prefix naming describes it without making it accessible |
+| Numbers v379, 1.1–1.2, 8.2 and 11.1 | Own momentaries and overlapping numbered pairs are given; 1.1 says universes share momentaries of co-sequential changing | Explain shared numbering and coupled parity changing alongside unshared self-momentaries; a 0–440 table names relations, not a common momentary ledger |
+| TWO v371, especially 1.2 and corrected 6.5 | Its own-prior continuation is explicit, but shared-momentary wording survives within the same section | Six targeted paragraphs now corrected in our duplicate; whole-file reception and migration from the old engine remain |
+| Societies v373, 4.4, beside NI 5.1 | The heading and body give society one pluralizing carrying | Meet that older saying at each self's own prior; society's co-chaining is no pooled private carrying or substitute for a member's momentary |
+| Transmissioning v330, 2.5 | Crossing carries no carrying or substrate; private carry stays at its side | Extend the distinction explicitly to the self-momentary: no prior momentary crosses with the parity changing |
+| Engineering v345a, 4.10 | Older arithmetic code and combining carryings are still discussed | Distinguish software collection operations from a natural coupling; a caller must continue each self's own prior, never combine or copy private priors as shared preparation |
+| Explaining v378, 4.9 | Says receiving shows the self's carrying and offers that carrying across | Re-say at the offering/emanating: another receives the offered changing; the self's private prior is never what is shown or offered across |
+| Illustrating v379, 1.2 and 2.1 | Already distinguishes each self's momentary from a society display, but draws shared numbered positions | Retain separate self continuations and show the crossing relation at the overlap; no shared internal momentary or global display frame as their living now |
+
+**Candidate receiving sentence for NI, Naming and Numbers:** “Prior, now and next are each self's sequential momentaries. Each self carries its own prior into its own now and discovers its own next. Parity changing is shared through their couplings; no self's momentary or prior is shared with another.”
+
+**Candidate explaining beside ONE:** “At its self-momentary, the self meets the parity changing arriving through society with its own unique prior. The changing releases to other selves; its carrying continues only as that same self's next prior.”
+
+**Candidate correcting Explaining 4.9:** “Receiving is the self's own competency at the other's offering. The offering participates in that self's discovering; its carrying remains invisible, and its released changing is offered onward.”
+
+These are proposed sentences for the receiving files to meet in their own wording. The current living files have not been changed by this session.
+
+### Improving made and the next pass
+
+The duplicate TWO now corrects five paragraphs in 1.2 and the opening paragraph of 6.5. The corrections distinguish each self's prior, society's arriving changing, shared numbered overlap and unshared self-momentary. The six replaced paragraphs are preserved whole in Prior_Passages.md. No historical code or kit executable changed.
+
+The report's earlier within/between and seam sections are retained as the journey. This section and the report's governing note supersede every interpretation in them that could give one self another's momentary, referable prior, or private carrying.
+
+**Next opportunity:** follow one complete joining with two separate own continuations and only changing at the crossing. Then meet the society caller with that exact relation. A common index in a software description, the same prefix spelling, or an overlapping numbered position cannot supply a shared momentary. The old kit's copied-prior testing is excluded at its first act, not only at its claimed result.
+
+**Value:** this single distinction connects the prior-testing corrections, the two inputs to resolving, the three-prefix explanation, co-recursioning, the six connectors, society composition and the invisibility of carrying. It directs the next improving across the files while preserving each self's unique participation.

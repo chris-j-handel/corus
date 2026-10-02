@@ -87,3 +87,20 @@ Two positions on four hundred forty are their own podal partners, the waist and 
 
 **Each finding carries the exact comparison establishing it.** Reciprocal dependence in one finite study is a concrete network finding, and social moral competency, the surplus available to neither self alone and larger fractal continuation are each met at their own complete relations. The next study proceeds from the finding made, its prior carried and its next receiving open.
 
+
+
+## 2 October 2026: self-momentary correction at 1.2 and 6.5
+
+Replaced paragraphs preserved from working commit `3869d3be64ee4f4396d996425675d28990c2716f`. The correction distinguishes the shared parity changing from each self's unshared momentary and private prior. The five first paragraphs are from 1.2; the last is from 6.5.
+
+**Along is the carrying continuing; across is releasing becoming another self's arriving.** Along, each self carries prior into now through its own forward sequencing, right-spiraling, co-chaining at its own rate. Across, selves meet at their coupling, bi-tunneling, each releasing to the other's arriving. Discovering continues through that meeting: prior, now and next are three sequential momentaries shared among existing things, prior and now participating at a self's resolving and next naming the discovering continuing beyond this now.
+
+**The traveling sequence keeps the places while their participation changes.** A now becomes prior as the continuing arrives into another now. The shared relation of prior, now and next runs across the network at each self's own rate, with no common beat. At the non-carrying local surface, arriving still participates; carrying continues at the surrounding selves, each carrying its own.
+
+**Prior and now are the two momentaries at the self resolving.** Prior participates through its carrying into now. Now is the receiving, changing and releasing through which the self continues discovering. Next names the continuing discovered through this existing, onward of the resolving and never a third momentary carried within it. Shared among existing things, prior, now and next are three sequential momentaries, and next is the third, the discovering onward, arriving at its own further resolving.
+
+**The completing of one side opens the overlapping momentary of the other.** At three, one side opens now as the other completes prior. At four, that now completes as the other's now opens. Each side continues forward; opposite opening parities carry their meeting across.
+
+**The two sides carry four positions each, sharing three and reaching five together.** One side's 1, 2, 3, 4 meets the other's 2, 3, 4, 5, the outer 1 and 5 and the shared 2, 3 and 4 giving five distinct positions. Each side's two momentaries open and complete at their own positions through this overlap.
+
+**Carrying is intelligencing, invisible and untouchable.** Each self continues through its own prior into now. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.

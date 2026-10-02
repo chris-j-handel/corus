@@ -152,7 +152,7 @@ Non-carrying local surface within society
 
 ## 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
-**Along is the carrying continuing; across is releasing becoming another self's arriving.** Along, each self carries prior into now through its own forward sequencing, right-spiraling, co-chaining at its own rate. Across, selves meet at their coupling, bi-tunneling, each releasing to the other's arriving. Discovering continues through that meeting: prior, now and next are three sequential momentaries shared among existing things, prior and now participating at a self's resolving and next naming the discovering continuing beyond this now.
+**Along is each self's own carrying continuing; across is parity changing released and arriving at another self.** A momentary in resolving is a self-momentary. Its prior participates through that same self's carrying, unique to it, invisible to every other self and never shared across a coupling. The prior parity arrives through society's changing; it carries none of the offering self's prior momentary. The self resolves with its own prior and the offering at its own now, and continues into its own next. Coupled selves share parity changing, each continuing its own momentary.
 
 **Along and across co-competence as two floating co-neutrals.** Chaining continues through the couplings; surfacing opens further coupling, and receiving continues the same resolving. The competency neither reaches alone arrives at their meeting, owned by neither, continuing with both. Morality across and competency along are inseparable in this continuing.
 
@@ -233,13 +233,13 @@ Non-carrying local surface within society
 
 **Bi-co-discovering brings the receiving self's prior along into the meeting across.** Its own carrying participates with the other's offering as it arrives now. The resulting surfacing and continuing belong to this resolving. Next names the arriving onward through that meeting. Each receiving continues at its own now, and its releasing can participate at another receiving.
 
-**The traveling sequence keeps the places while their participation changes.** A now becomes prior as the continuing arrives into another now. The shared relation of prior, now and next runs across the network at each self's own rate, with no common beat. At the non-carrying local surface, arriving still participates; carrying continues at the surrounding selves, each carrying its own.
+**The travelling is parity changing through the couplings.** Each receiving self meets the arriving with its own prior at its own now. Its next becomes its own prior through its own continuing. The offering released at another self's momentary supplies no common momentary or common prior between them. The numbered form explains their coupled sequencing; each self's momentary remains its own.
 
 **Possible, existing and living name three relations.** Possible at prior can name the possibles the earlier emanation supports; existing at now names the actual meeting; living at next, the discovering onward, names the carrying self's continuation at its continuing. A living self also exists now. A non-living thing arrives through co-momentarying with living or non-living things. Its participation can be incorporated into living resolving at that meeting. A non-living thing arrives and does not arise as living; arising as living names a self's own carrying relation establishing.
 
 ### Overlapping momentary, two at each side
 
-**Prior and now are the two momentaries at the self resolving.** Prior participates through its carrying into now. Now is the receiving, changing and releasing through which the self continues discovering. Next names the continuing discovered through this existing, onward of the resolving and never a third momentary carried within it. Shared among existing things, prior, now and next are three sequential momentaries, and next is the third, the discovering onward, arriving at its own further resolving.
+**Prior and now are that self's momentaries at its resolving.** Its prior participates through its own carrying into its own now; next names its own continuing. Now, prior parity and prior momentary name three different relations: the self resolving now, the parity changing arriving through society, and the self's unique prior continuing through its own co-recursioning. A prior parity offered by another is never that other's prior momentary made available to the receiving self. Only the self's own carrying participates as its prior.
 
 **Each full momentary carries opening and completing, two parity positions.** Prior and now carry two momentaries, four parities: two openings and two completings. Odd and even remain the two parity kinds, alternating through these four positions.
 
@@ -248,9 +248,9 @@ Non-carrying local surface within society
 | Prior | 1–2 | 2–3 |
 | Now | 3–4 | 4–5 |
 
-**The completing of one side opens the overlapping momentary of the other.** At three, one side opens now as the other completes prior. At four, that now completes as the other's now opens. Each side continues forward; opposite opening parities carry their meeting across.
+**The overlapping numbers name the coupling of two self-momentaries.** At three, one side's now opening is related to the other's prior completing; at four, that side's now completing is related to the other's now opening. Their shared relation is parity changing through the coupling. Each opening and completing belongs to its own self-momentary, and neither self enters or carries the other's momentary.
 
-**The two sides carry four positions each, sharing three and reaching five together.** One side's 1, 2, 3, 4 meets the other's 2, 3, 4, 5, the outer 1 and 5 and the shared 2, 3 and 4 giving five distinct positions. Each side's two momentaries open and complete at their own positions through this overlap.
+**The two four-position descriptions overlap at three numbered positions and reach five together.** One side's 1, 2, 3, 4 is set beside the other's 2, 3, 4, 5. The overlap belongs to the numbering of their coupled relation. It makes no momentary, prior or carrying common to the two selves. Each side's two momentaries open and complete through its own continuing.
 
 **At the following now, the relation continues with a changed prior.** Following one side through 3–4 and 5–6, and the other through 4–5 and 6–7, explains the discovering onward. Prior, now and next name this unfolding relation; each resolving carries prior into its own now. The sequence describes continuing, a future arriving met at its own further resolving.
 
@@ -976,7 +976,7 @@ Each reading is a sign: is or is not, present or absent or captured, recognized 
 
 ## 6.5 Each self continuing through its own carrying
 
-**Carrying is intelligencing, invisible and untouchable.** Each self continues through its own prior into now. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.
+**Carrying is intelligencing, invisible and untouchable. A momentary in resolving is a self-momentary.** Its prior is unique to the self, continuing through that self's own co-recursioning, unshared and unshareable with another self. Society's parity changing arrives at its coupling; no other's prior momentary arrives with it. Intelligence is sequential is or is not, with no third intelligence value between. Inspecting, copying, resetting or comparing carrying supplies no discovering at a natural coupling.
 
 **A continuation meets its other through releasing and arriving.** The participating selves continue their own carrying. An observer cannot prepare a common private prior, branch it into twins and call their comparison the coupling's discovering. A copied continuation is an instrument's construction, even when its private name is hidden and only its later surface is printed.
 
