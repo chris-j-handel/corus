@@ -34,7 +34,13 @@ for n, name, par, col in rows:
     two += a; whole += b
     print('   %-28s by the numbers %-10s in the name %-5s | table: %-20s | first two agree %-5s | whole agrees %s'
           % (name, '-'.join(three), '-'.join(three) == '-'.join(name.split('-')[1:4]), ', '.join(t), a, b))
-print('   the first two agree at %d of 17; the whole agrees at %d of 17' % (two, whole))
+print('   the first two agree at %d of 17; the whole agrees, a word said twice in a name said one time at the column, at %d of 17' % (two, whole))
+colm = {int(n): [x.strip() for x in c.split(',')] for n, _, _, c in rows}
+opens = {n: ('other' if n % 2 == 0 else ('self' if n <= 7 else 'social')) for n in range(1, 18)}
+print('   the column alone: its first entry is the self at the odd 1 to 7, the social at the odd 9 to 17 and the other at the even: %d of 17'
+      % sum(colm[n][0] == opens[n] for n in colm))
+print('   the column alone: its second entry is the next name\'s first entry: %d of 16, parting at %s'
+      % (sum(colm[n][1] == colm[n + 1][0] for n in range(1, 17)), [n for n in range(1, 17) if colm[n][1] != colm[n + 1][0]]))
 
 # ---------------------------------------------------------------------------------------------------------------
 head(2, "One self at one sharing, one momentary: each carried parity against each offering. The parity released at 10"

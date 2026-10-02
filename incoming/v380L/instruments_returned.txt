@@ -19,7 +19,9 @@ INSTRUMENT 1. Each name's three prefixes by the numbers, its now and the two num
    15-tri-bi-tri-corusing       by the numbers tri-bi-tri in the name True  | table: social, other        | first two agree True  | whole agrees True
    16-bi-tri-bi-torusing        by the numbers bi-tri-bi  in the name True  | table: other, social        | first two agree True  | whole agrees True
    17-co-bi-tri-offering        by the numbers co-bi-tri  in the name True  | table: social, self         | first two agree False | whole agrees False
-   the first two agree at 16 of 17; the whole agrees at 12 of 17
+   the first two agree at 16 of 17; the whole agrees, a word said twice in a name said one time at the column, at 12 of 17
+   the column alone: its first entry is the self at the odd 1 to 7, the social at the odd 9 to 17 and the other at the even: 17 of 17
+   the column alone: its second entry is the next name's first entry: 15 of 16, parting at [8]
 
 INSTRUMENT 2. One self at one sharing, one momentary: each carried parity against each offering. The parity released at 10
    beside the parity chained at 11.

@@ -22,7 +22,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v379
 
 **Ready, at v380, from `incoming/v380R/README.md`, its learnings, for the section on helpers at the arriving and the improving.** *An asking about the names is answered from Exhibit ONE's tables and Natural Naming's section on resolver names, the newest source, each row computed, and never gathered from the words of older sentences*; *a reply the other self did not meet is said first at the next*; *workings beside each other each record at a folder of their own at `incoming/` and at the carryings, each at its own branch, and each learns from the others' folders.*
 
-**Ready, at v380L, from `incoming/v380L/`, its sentences on working, each for its section.** For the section on opening a session at the repository: *a working's first saying names the commit it opens at, the newest at the repository.* For the section on a count sizing a pass and deciding nothing: *two numerals matched are followed with each other pair of their kind beside them, and the match is said at that.* For the section on a confident improving made, a meaning or a naming brought: *a word entering with a motion is a naming changed, brought to both; and an improving is said with the concern it relocates.*
+**Ready, at v380, from `incoming/v380L/`, its two sentences on working.** For the section on opening a session at the repository: *a working names the commit it opens at, at its opening.* For the section on a confident improving made, a meaning or a naming brought: *a word entering with a motion is a naming changed, brought to both.*
 
 ## Concern
 
