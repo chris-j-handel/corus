@@ -202,3 +202,25 @@ for label, pat in (('side, sides', r'\bsides?\b'), ('step, steps, stepping, step
                    ('wound, winding, windings', r'\b(wound|windings?)\b'), ('far side', r'\bfar side\b')):
     n = {k: len(re.findall(pat, t, re.I)) for k, t in texts.items()}
     print('   %-38s %5d places at %2d of %d files' % (label, sum(n.values()), sum(1 for v in n.values() if v), len(n)))
+
+# ---------------------------------------------------------------------------------------------------------------
+head(12, "The resolver's functions: each name as received, a parameter of the function or a part of one read at a for,"
+         "\n   or as made, assigned within the function. Beside each even name its three prefixes.")
+def names_in(node):
+    return sorted({int(re.match(r'_(\d+)_', n.id).group(1)) for n in ast.walk(node) if isinstance(n, ast.Name) and re.match(r'_(\d+)_', n.id)})
+for fn in [x for x in tree.body if isinstance(x, ast.FunctionDef)]:
+    me = int(re.match(r'_(\d+)_', fn.name).group(1))
+    params = [int(re.match(r'_(\d+)_', a.arg).group(1)) for a in fn.args.args]
+    made, read_from = set(), {}
+    for n in ast.walk(fn):
+        if isinstance(n, ast.Assign):
+            for t in n.targets:
+                for base in (t.elts if isinstance(t, ast.Tuple) else [t]):
+                    while isinstance(base, ast.Subscript): base = base.value
+                    if isinstance(base, ast.Name) and re.match(r'_(\d+)_', base.id): made.add(int(re.match(r'_(\d+)_', base.id).group(1)))
+        if isinstance(n, (ast.For, ast.comprehension)):
+            src_names = [x for x in names_in(n.iter)]
+            for t in names_in(n.target): read_from.setdefault(t, set()).update(src_names)
+    print('   at %d: received as parameters %s | made %s' % (me, params, sorted(made)))
+    for t in sorted(read_from): print('      %2d is read at a for from %s' % (t, sorted(read_from[t] - {t})))
+print('   the even names: ' + '; '.join('%d %s' % (n, '-'.join([word(n), word(n - 1), word(n - 2)])) for n in range(2, 17, 2)))

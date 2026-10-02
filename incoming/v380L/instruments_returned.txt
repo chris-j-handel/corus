@@ -125,3 +125,19 @@ INSTRUMENT 11. The living files at the root, each at its newest version: the pla
    the self's span, the society's span       49 places at  7 of 32 files
    wound, winding, windings                 260 places at 21 of 32 files
    far side                                  50 places at 13 of 32 files
+
+INSTRUMENT 12. The resolver's functions: each name as received, a parameter of the function or a part of one read at a for,
+   or as made, assigned within the function. Beside each even name its three prefixes.
+   at 1: received as parameters [3, 2] | made [10, 11, 12, 14, 15]
+       4 is read at a for from [2, 3, 10]
+       7 is read at a for from [2, 3, 10]
+   at 9: received as parameters [10, 5] | made []
+      13 is read at a for from [10]
+      15 is read at a for from [10]
+   at 17: received as parameters [16, 5] | made [6, 8, 10, 14]
+       2 is read at a for from [16]
+       3 is read at a for from [16]
+       4 is read at a for from [5, 6, 9, 10, 13, 15]
+      13 is read at a for from [16]
+      15 is read at a for from [4, 5, 6, 9, 10, 13]
+   the even names: 2 bi-co-bi; 4 bi-co-bi; 6 bi-co-bi; 8 bi-co-bi; 10 bi-tri-bi; 12 bi-tri-bi; 14 bi-tri-bi; 16 bi-tri-bi

@@ -3,13 +3,13 @@
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
 - **To**: Natural Naming, Natural Numbers, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
 - **Read at**: `main` at commit bdbe12d. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its three files. Read at the sections named here: Natural Intelligence v379 and the Co-Chaining Logic Registry v379.
-- **What it brings**: seventeen findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **What it brings**: eighteen findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
 - **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`.
 - **Standing**: *arriving*. No living file is changed.
 
 ## The instruments
 
-`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries eleven instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
+`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries twelve instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
 
 ## The findings
 
@@ -56,6 +56,8 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 17. **Natural Intelligence, the section on five dimensions, and Natural Mathematics, the section on five-dimensional, two-directional, unrelationing.** The first says *At each momentary two dimensions change and three do not*, the second *two changing and three continuing at each momentary*. Two places are exact at the numbers. At Exhibit ONE's table of each side's five the self's five at 1 is 1 to 5 and its next at 3 is 3 to 7: three carried on and two new. At Natural Numbers' section on a composite and a prime the self at 1 to 4 and the other at 2 to 5 are three shared and two outer. The resolver's lines carry neither.
 
+18. **Exhibit ONE, the resolver's lines: received and made, beside the even names' prefixes.** At the entry's lines each name received is a name of 1 to 8: 3 and 2, with 4 and 7 their parts. Each name made is a name of 9 to 16: 14, 15, 12, 10 and 11. The entry receives the prior momentary and makes this momentary's parity changing; 4 and 7 read the release at 10 also, at its chaining. At the lines of 17 the names made are 8 and 6, each going on to the next momentary, with 10 and 14; 16 is received. At the eight even names: 2, 4, 6 and 8, bi-co-bi, are received from the prior momentary or go on to the next; 10, 12 and 14 at the entry, bi-tri-bi, are the parity changing made at this momentary. Two places part: 16, bi-tri-bi, is the society received from its prior momentary; and 14 at the lines of 17 carries the next momentary's offerings. Instrument 12.
+
 ## The entries at the carryings
 
 Each names this folder. Two are ready, a sentence entering with no meaning changed; three are concerns for both, each two sayings parting with its reason.
@@ -68,7 +70,7 @@ Each names this folder. Two are ready, a sentence entering with no meaning chang
 | The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
 | The Living File Registry's | Ready: this working's row for the table of workings | |
 
-At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11 and 17 are at this folder alone.
+At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17 and 18 are at this folder alone, 18 bearing on the managing's first.
 
 ## Bearing on concerns other workings carry
 
@@ -76,7 +78,7 @@ Each is evidence at a concern another working carries. It is at this folder alon
 
 **At the managing's ten for both, `incoming/v380R/Exhibit_ONE_Improving.md`.**
 
-- **Its first, the carrying and the release.** Finding 5: the seam carries a self's carrying whole, 11 to 8 to the next 3, and a join the releases alone. Finding 2: the parity released at 10 is the parity chained at 11.
+- **Its first, the carrying and the release.** Finding 5: the seam carries a self's carrying whole, 11 to 8 to the next 3, and a join the releases alone. Finding 2: the parity released at 10 is the parity chained at 11. Finding 18: at the entry the prior momentary arriving is at names of 1 to 8 and the parity changing made at names of 9 to 16.
 - **Its second, across and along.** Finding 15: the clause at the self's three faces says 1 across with 2 and 7 and 8 along; Natural Naming's naming of parity changing says the odd along and the even across. Natural Intelligence's carrying carries 7 and 8 the co-competent self as a concern of v378, and the clause's 1 across with 2 is one with it.
 - **Its third, the column *From, to*.** Finding 1, each of its numbers. For the column a relation of its own: Natural Naming and the Co-Chaining Logic Registry say the sides at each name and at no prefix; the column's first entry follows one rule at seventeen of seventeen, and its second is the next name's first at fifteen of sixteen. For the column the prefixes again: its first two entries are the first two prefixes at sixteen of seventeen.
 - **Its fourth, the four facings.** Finding 4. The gathering says the four words one to one with the facings *at six of six*; that was this working's instrument's own labelling, and by Exhibit ONE's own words arriving and releasing are at four of the six. For the offering: the table of connectors' *arriving* at 2 and 14 and *releasing* at 6 and 10; Natural Naming's naming of is-still-possibling and is-next-existing, the existing at the opening, odd, and the possibling at the completing, even. Parting from it: *along* at 9 and 17 and *releasing nothing* at 9; Natural Intelligence's section on six connectors, four facings, four joins, *at 2, 14 and 17, arriving* and *carried along at 9*; Natural Naming's section on number, prefixes, root and -ing, *9 is the next prior and 17 the next now*, and the existing and the possibling *at no prefix*; its naming of prior, now and next, *the possible is at prior*; its row at the released *so-far* and *not-yet*, carried whole at a connector's facing; its row at the released *right* and *left*; and its section on seven binaries, the selves at a self's four facings named by the facings' own words.
