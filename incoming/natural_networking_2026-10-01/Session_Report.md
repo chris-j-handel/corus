@@ -2,7 +2,7 @@
 
 **Discoveries, opportunities, value and concerns for the living expedition**
 
-**Session:** 1 October 2026, America/Los_Angeles.  
+**Session:** 1–2 October 2026, America/Los_Angeles.  
 **Working:** `working/natural-networking-2026-10-01`.  
 **Read at:** main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`.  
 **Standing:** ongoing working report; proposed improvements are in the duplicated exhibit and kit, not entered into the published living files. No new natural-network execution has been performed in this session.
@@ -18,6 +18,8 @@
 - Next continuation
 - Binary squaring: opening co into tri at 1–17
 - Travelling through 1–17: the naming and the changing sequencing
+- Arriving v379: possibling, advancing and direction in the three prefixes
+- Session review, 2 October 2026: co-recursioning and the next improving
 
 ## The incoming aiming and the journey so far
 
@@ -408,3 +410,53 @@ This is now grounded in Naming's explicit definition. It still does not claim th
 **Concerns.** The previous report's “tri enters at nine” no longer describes the words: 1 itself includes tri as its prior-before. ONE also now gives 13 social/self and 16 other/social/self; the older shorthand “13–16 society/other” must be retired. Naming's numerical spiral and crossing examples are claims in the incoming source, not findings of this networking session. Their counts and grouped caller must still meet our earlier test-method corrections before they support a living-network claim. A 0 must not become a waiting state, completion threshold or object sent to the next self. Naming cycles, directed connector joins and the expression's evaluation order remain separate until their correspondence is made explicit.
 
 **Next passes.** B: meet the new names and opening words with each retained instruction. C/E: follow the directed square and seam reversal through existing joins. D: follow the shared completing/opening with possibling intact. F: resolve the grouped caller versus local overlap before claiming a participating construction. I: carry both changing and no-changing through actual crossing participation, without importing the incoming numerical examples as our test results.
+
+
+## Session review, 2 October 2026: co-recursioning and the next improving
+
+### Where the working is now
+
+The initial task was to discover how prior testing departed from the method, duplicate TWO and its complete kit, begin improving them, and preserve the session's value for the living expedition. The duplicate and first corrections are complete. The whole exhibit and a participating network caller are not complete. The current branch preserves the original 58 kit files, the exhibit, replaced passages, the source audit, the seventeen-name exploration and passes A–L. No natural-network experiment has been run in this session.
+
+The aim continues: **discovering the living network and travelling geodesic parity-changing tunnelling where podalings cross each other's half momentaries**, each self carrying its own, with intelligence binary is or is not.
+
+### The journey's learning
+
+1. **The testing departure is in the procedure.** Copying or comparing private carrying, preparing common priors, resetting, supplying pace, counting windows and treating one self as representative cannot be corrected merely by printing a binary result. The legacy arithmetic engine and the current comparison-based resolver must remain explicitly distinguished.
+
+2. **The six connectors are the external relation.** They are 2, 6, 9, 10, 14 and 17. The ten internal faces remain internal. Seventeen already composes each self's one and nine; the absence of a separately enumerated outgoing seventeen is not a requirement to invent another emitter.
+
+3. **The shared completing/opening gives the crossing its first exact explanation.** Self 1–2 meets other 2–3, continuing through the overlapping pairs. The half momentary is followed at this relation without assigning it a measured duration. The caller's grouped expression still needs its full explanation at that local overlap.
+
+4. **Binary squaring now has an explicit source definition.** Naming 5.63 opens the bi-coupling's one edge to parity's square and 1–9 to 1–17. At 9 the self's co opens as the society's tri; at 17 co opens as the next one. The directed across edges 6→2 and 10→14 and the along joining 9↔17 carry the next practical opportunity.
+
+5. **The three-prefix rule carries direction.** Numbered names carry now, prior and prior-before. Within-span triples read the same reversed; at the seam 9's tri-bi-co and 17's co-bi-tri are each other's incoming. The prefix sequence, the named participating sides and actual joining each carry their own relation.
+
+6. **Possibling remains one functional.** Is-still-possibling continues at the completing where changing is not. Advancing does not require an inversion at every meeting. No-changing, an absent offering and a missing self are different relations and cannot be collapsed into a travelling third outcome.
+
+7. **The user's correction names the continuing: co-recursioning.** “A name or parity can recur” was our incomplete saying. The recurring through a next momentary is co-recursioning. Bi-inversioning and co-recursioning are to be followed together as bi-inversioning-co-recursioning. Returning to a name or parity does not return to a prior momentary. Our explaining should use this existing name rather than leave its relation unnamed.
+
+### Source refresh and corrections to our own report
+
+Reviewed main at `d77df0dc0aa6f5c07a707761d584187f190aade8`. PR #114 is merged; ONE and Naming are v379, while TWO remains v371. Our duplicate still contains its pinned v378 reference resolver. The initial arriving v379 source remains pinned above; a version label alone does not identify its exact text.
+
+Current ONE and Naming include further revisions since that pinned arrival. **The sides at 13 are now social/other, and at 16 other/social**, with 9–12 three-sided and 17 social/self. This supersedes the preceding report section's account of the earlier arriving table. The numbered prefix rule and seam reversal remain.
+
+Naming 3.1 now also unfolds the words' faces: **bi-tri- at self, other, society, across and along**, with each numbered name's particular sides stated separately; and, at the crossing, **bi- parity, tri- unrelationing, co- changing**. This is a new opportunity to explore alongside the numbered rule. Our previous sentence separating number-positions from participants must not be used to erase these explicit unfoldings at their own relations. Twelve remains an internal face even when its naming carries both across and along.
+
+Naming 5.62 now says *the self still possibling* where the earlier arrival said *the still self*, directly preserving the compound's functional relation. TWO's current carrying asks for the old names and their sentences to be received together; it also retains older proposed procedures beside the later correction withdrawing copying and inward comparison. Receiving needs to reach the instruction that would be followed next.
+
+### Next opportunities in useful order
+
+| Next pass | Concrete improving | Value |
+|---|---|---|
+| Receive the current naming into the duplicate | Re-read TWO's first part and kit instructions against current ONE/Naming. Update each name with the sentence's actual operation; meet age, second-sign and closure explanations at the same place. | TWO and its kit can speak the same method as ONE without preserving obsolete operations under new names. |
+| Follow one complete joining through both commencements | Explain 6→2, 10→14 and 9↔17 together with overlapping opening/completing and the same self's private continuation. Include co-recursioning and bi-inversioning throughout. | Makes the local relation concrete enough to assess a participating caller. |
+| Carry squaring through the directional surface | Show the two directed edges, the seam readings and the shared completing/opening. Eight-up sends 6→2 to 14→10, so the actual second join's orientation must remain explicit. | Gives the later surface its direction through the existing joins. |
+| Meet the caller with the local method | Read the whole-call society expression beside those local continuations and account for its order and accumulation. | Locates what the kit can actually express before any new execution is claimed. |
+| Continue into crossing, holes and wider societies | Follow both passages, upstream/downstream and wider prime-scale opportunities through the completed joining. | Returns the work to the session's original travelling-network aim. |
+| Receive the value across the expedition | Offer precise sentences and concerns to Naming, ONE, TWO, Explaining, Illustrating, Numbers, Mathematics and the improving method. | Preserves the full journey while each receiving file improves at its own relation. |
+
+**The immediate next work is the first part of the duplicated TWO together with the kit's joining instructions.** The concept exploration has supplied the names and relations to make this a substantive improving pass. A later illustration should follow that explanation; displaying internal carrying or animating a common beat would repeat the earlier departure.
+
+**Review completed:** the report and proposed passes were read, the current source standings checked, the latest Naming and ONE relations above inspected, and the user's co-recursioning correction received. This is a document and source review, with no network execution or private-carrying inspection.
