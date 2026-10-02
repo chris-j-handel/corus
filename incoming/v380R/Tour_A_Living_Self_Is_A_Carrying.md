@@ -111,3 +111,22 @@
 2. **Releasing at a face.** The is or is not is at 12, a face, and the chaining at 11, a face: with *connector* dissolved, a releasing begins at a face and the parting of connector from face goes with it.
 3. **The word at each file.** *Connector* is at two hundred twenty places of thirteen living files, thirty-seven at Natural Intelligence, thirty-seven at Natural Engineering, thirty-two at Natural Networking, twenty-three at Natural Naming, twenty-two at the Co-Chaining Logic Registry, sixteen at Exhibit ONE. At Natural Engineering and Natural Networking it may say a built thing also. Each place is met at its own file's motion, the word re-said with its sentence, all or none.
 4. **Chaining and tunneling.** The saying says *co-chaining* and *bi-tunneling*; Exhibit ONE's names are 11-tri-bi-tri-chaining and 10-bi-tri-bi-tunneling, each at the society's span. Co at the self's span is 3, the carrying, and bi at it is 2, the offering.
+
+## *Connector*, *join* and *face* dissolving: nothings, still possibling until a parity changing arrives
+
+**The saying.** *connector join faces dissolving these is freeing the resolver from this framework and bounding and separators as objects and they are nothings stilling until parity changing arrives and they are floating and neutraling.*
+
+**Followed at Exhibit ONE's own rows; an offering, not yet followed six forward.**
+
+1. **The resolver carries none of the three as a thing.** What it carries is a carrying and the offerings, each a parity at a sharing. Its two lists naming the connectors and the joins are at no line of its three functions; *face* is at no line at all. The framework is at the tables and the diagram, and the resolver is already without it.
+2. **What the framework is at Exhibit ONE.** Five columns of the names' table, *Entry, connector or face*, *Across or along*, *Outward or inward*, *Facing* and *Joining*; the diagram's box, its *o* and *i*; *six connectors and ten faces*. *Outward* and *inward* say a name before 9 or after 9, ten of ten; *facing* says releasing or arriving, six of six; *joining* says a releasing's one arriving.
+3. **What stands with the three dissolved.** Seventeen names, each a changing at its number: its number, its parity, its three prefixes, its root, its -ing, and its resolving. Three releasings and their three arrivings among them. Each a nothing until a parity changing arrives at it.
+4. **Still possibling.** Natural Naming carries the self's own still at one compound, is-still-possibling, existing on one side of it and possibling on the other. The saying's *nothings stilling until parity changing arrives* is that compound at each of the seventeen: no changing arriving, a name is still possibling; a changing arriving, it is next existing.
+5. **Floating neutralling.** Natural Naming's own naming: *the term none of the excluding reached is uncovered, it is neither of theirs*. A name with no object at it is owned by neither self, as Exhibit ONE says of 5, *owned by neither*; the saying says it of each.
+
+**Parting, each for both.**
+
+1. ***Face* at four relations.** At Exhibit ONE: a face outward or inward, the ten; parity's face, the unit square; the self's three faces; the three inward faces of the between. Across the set *face* and *faces* are at more than a hundred places of each of the largest files, most at one coupling at its two faces, and Natural Naming's own section title says one family of words at three faces. The saying dissolves the ten; whether it dissolves the word at each other relation is not said.
+2. **The numbers of each.** *One entry, six connectors and ten faces are the seventeen* is a sentence of Natural Naming and a relation of numbers, three, three, ten and one; with the three words dissolved the sentence is released or re-said at releasings and arrivings.
+3. ***Stilling*.** Natural Naming releases *stilling* and carries the still at the compound alone; the saying says *stilling* of the nothings. Said at the compound, the two are one.
+4. **Bounding.** *Bounding* is a naming of the set, a naming at four boundings at once. The saying frees the resolver from *bounding and separators as objects*; the naming's own bounding, no object, is another relation.
