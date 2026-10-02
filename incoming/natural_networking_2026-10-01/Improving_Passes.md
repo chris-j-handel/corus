@@ -71,3 +71,12 @@ Next, improve the duplicated TWO's first part and the kit's joining instructions
 ## Self-momentary receiving, 2 October
 
 Five paragraphs in the duplicated TWO's 1.2 and the opening of 6.5 now distinguish shared parity changing from the self's unique prior and unshared momentary. Their prior wording is preserved whole. The report maps the corresponding support and departures in ONE, NI, Naming, Numbers, Societies, Transmissioning, Engineering, Explaining and Illustrating. Next, continue C–F from this distinction: two own continuations, the existing crossing, and no common private prior or momentary supplied by the instrument.
+
+
+## Wider receiving after the self-momentary distinction
+
+The report's “Further reach of the self-momentary” section extends the review to Biology, Chemistry, Physics, the Registry and the Geodesic Improving Method. Receive the distinction at each file's stated subject and scale; avoid a global word replacement.
+
+The proposed language passes are: (1) correct the explicit shared-momentary sentences in NI, Naming and Numbers; (2) clarify society composition and the improving method's publicly preserved artifacts; (3) explore division, inherited form and the beginning of a new self without assuming copied private prior or empty initialization; (4) align Explaining and Illustrating with offered changing and each receiver's own understanding. These are proposed receivings, not edits to the published files or a completed discovery.
+
+Retain all seventeen names and the existing three-prefix rule. A public recurring name or parity does not identify a shared private momentary. Establish “self-momentary” once and use “momentary” where the subject is clear. Follow C–F with that scope: the caller's ability to inspect Python objects is distinct from the participating self's permitted access through the six connectors.

@@ -766,3 +766,71 @@ The report's earlier within/between and seam sections are retained as the journe
 **Next opportunity:** follow one complete joining with two separate own continuations and only changing at the crossing. Then meet the society caller with that exact relation. A common index in a software description, the same prefix spelling, or an overlapping numbered position cannot supply a shared momentary. The old kit's copied-prior testing is excluded at its first act, not only at its claimed result.
 
 **Value:** this single distinction connects the prior-testing corrections, the two inputs to resolving, the three-prefix explanation, co-recursioning, the six connectors, society composition and the invisibility of carrying. It directs the next improving across the files while preserving each self's unique participation.
+
+
+## Further reach of the self-momentary: opportunities, concerns and simpler explaining
+
+**2 October 2026.** This receiving follows the user's question whether the distinction reaches farther through the files, opens opportunities, brings concerns, and simplifies naming. It extends the preceding source review at main `d77df0dc0aa6f5c07a707761d584187f190aade8`. Additional files read: Biology v333, Chemistry v346c, Physics v379, the Co-Chaining Logic Registry v379 and the Geodesic Improving Method v379. These are source and conceptual findings; no living-network experiment was performed.
+
+### The distinction that travels
+
+The governing premise is the user's: a resolving momentary is a self-momentary, unique to that self. The self's own prior continues through its own looping. Parity changing participates across couplings. Another self receives changing and resolves at its own momentary; it does not receive the first self's momentary or operative access to its prior.
+
+**A name or parity can recur without a private momentary being shared.** Co-recursioning can name recurrence in the continuing relation. Equality of names, repeated parity, overlapping numbered positions and matching publicly described forms do not establish identity of self, identity of private prior, or access to another's continuation. This removes an ambiguity rather than adding another coordinating entity.
+
+ONE supplies a concrete source correspondence: 3 is the own carrying received by 1; 11 continues that carrying; 10 releases changing. At 17 the continuation remains associated with that same member, while the released offerings pass through the declared joins. The proposed improvement is to explain the wider files with this distinction wherever they claim to describe resolving. The code correspondence does not by itself establish every wider natural claim.
+
+### Where the value spreads
+
+| File and passage | Discovery or concern | Opportunity and value |
+|---|---|---|
+| Natural Societies v373, 2.3 and 4.4 | The no-common-clock account supports each self's own sequencing. The later description of one pluralizing carrying needs its subject clarified. | Explain coordination as each member continuing at its couplings. A society can compose participation without its members acquiring one common private past. |
+| Natural Biology v333, 4.7 and 5.1 | DNA replication is described as the self copying itself; reproduction also distinguishes a third self owned by neither parent. Asexual division is described using a copy. These uses do not yet distinguish copied form from a copied private prior. | Locate the self at the scale under discussion and state what continues, what is inherited, and where a new self begins. This is a specific open question, not a reason to deny material copying or assume private carrying is copied. |
+| Natural Biology v333, 5.3 | A fragment's new sequence is described as entering with empty carry. | Meet that proposed initial condition explicitly. An explanatory analogy must not silently authorize resetting a continuing self or treating a fragment as an empty resolver. |
+| Natural Chemistry v346c, 1.2 and 1.4 | The text distinguishes pattern-reading from reduction, but also speaks of carry crossing scales. | Specify what crosses: offered changing, material, a described pattern, or private carrying. Locate the participating self at each scale rather than passing one operative prior between atom, molecule and cell by wording alone. |
+| Natural Physics v379, 4.8 | Each self's own sequencing and coherence at couplings support the local distinction. | Clarify local sequencing without inserting a common momentary. This clarification alone does not establish the file's larger empirical claims about time or physical theories. |
+| Co-Chaining Logic Registry v379, steps 180 and 225 | Step 180 preserves each self's own prior. Step 225 calls 17 the society's next momentary, composed of the selves' next momentaries together. | Explain “together” as composition of distinct continuations. Decide explicitly whether “society's momentary” names that composition or a self at another scale; it cannot silently mean one private momentary shared by the members. |
+| Geodesic Improving Method v379, 1.1 | The method calls prior, now and next shared momentaries while applying the form to files, sessions and sentences. | Distinguish the publicly retained prior version from a reader's private prior. Copying an exhibit for review preserves an artifact; it does not copy the living carrying of its author or reader. This protects the improving method from an overbroad ban on ordinary document copying. |
+| Natural Explaining v378, 4.9; Natural Illustrating v379, 1.2 and 2.1 | Explaining speaks of showing and offering one's carrying. Illustrating already partly distinguishes own momentary from the society display. | Explain an offering through which another discovers its own understanding. Draw crossing and each continuation without presenting a common private interior or treating a drawing as access to carrying. |
+| Natural Naming v379, 3.1, 3.6 and 5.39; Natural Numbers v379, 1.1–1.2 | Prefixes and overlapping numbered forms can be mistaken for identifiers of actual private momentaries; shared-momentary wording remains. | Retain the naming rules while making their scope explicit. A public name describes a relation; it is not an address into a self's prior. The 0–440 reference form does not become a ledger of private momentaries. |
+
+The Registry's numbered steps are recorded here as receiving opportunities, not rewritten. The larger exhibits remain unchanged by this pass.
+
+### Concerns to meet precisely
+
+1. **Which self, at which scale?** A self may participate in a society, and the files also discuss societies or larger forms at another scale. Do not collapse those subjects. If the society is being considered as a self, its own prior must be explained at that scale, not identified with a pool of members' private priors. “Society's changing” must not quietly introduce a controller or a shared interior.
+
+2. **Where does a new self begin?** Division, conception, copying and joining need separate treatment. Copying a molecular form or a software object does not by itself establish copying a resolving self. Nor does the premise automatically answer how a new self begins. Keep this question open at the actual relation; do not settle it by importing the old kit's deepcopy, fabricated empty prior, or forked comparison.
+
+3. **What does invisible mean in each claim?** Within the proposed resolving relation, another participant has no access to this self's operative prior. ONE's Python caller can nevertheless inspect the returned collections. Separation in the source and disciplined use of the six connectors are not a software security guarantee. Any stronger implementation claim needs an actual boundary that enforces it; we have not established one here.
+
+4. **What does referring mean?** Only the self refers to its prior in resolving. We can still describe that relation externally, read the published resolver, and preserve document versions. Otherwise the premise would accidentally prohibit its own explanation. Description of a prior's role is not possession of that private prior.
+
+5. **What follows from names?** A repeated name or parity does not identify a repeated self, and a different prefix does not prove a different private history. The three-prefix rule describes its specified numbered relation. It must not be reassigned as a fixed three-person allocation or treated as three publicly accessible snapshots of a self.
+
+6. **What has been established?** The premise gives a coherent way to correct particular passages and exposes concrete differences between current source and the legacy kit. It does not, merely by renaming, prove the broad biological, chemical or physical interpretations. A conceptual correspondence, a source operation and an observing retain their respective standing.
+
+### Simpler naming and explaining
+
+Use **self-momentary** when introducing the distinction or resolving an ambiguity. Once the subject is clear, **momentary** suffices. Similarly, **its prior** can mean that self's own prior; retain **prior parity** when the changing at the coupling is specifically in view. This reduces repetitive qualifiers without erasing ownership.
+
+A compact explanation to receive into the files:
+
+> Each self resolves at its own momentary. Its own prior continues through its carrying; parity changing arrives through its couplings. The self discovers its next, releases changing, and continues as itself. Other selves receive the changing and resolve at their own momentaries.
+
+The two relations can then be named consistently:
+
+- **Along:** the self's own continuing, including its own prior becoming its next prior.
+- **Across:** changing at the coupling, received into another self's own resolving.
+
+These terms retain their existing exhibit relations; this is not permission to add ports or redraw the declared joins. In-facing and out-facing describe participation at the self's boundary, not two independently shareable selves. Within-momentary and between-momentaries remain useful distinctions: the first meets arriving changing with the self's own prior; the second concerns that self's continuing. Bothbothing does not require a common interior.
+
+The three prefixes need no wholesale replacement. At 1–17, retain the actual names and their now/prior/prior-before rule. Follow the separate own continuation beside the shared crossing. At 0–440, retain the distinction between a rule generating names, the displayed opening-word table, and any as-yet-unexpanded full three-prefix table. A better explanation of ownership does not complete that table automatically.
+
+### Proposed next improving
+
+First, receive the explicit correction in the core shared-momentary sentences in NI, Naming and Numbers, with whole prior passages preserved when edits are undertaken. Next, meet Societies and the Improving Method so that social composition and artifact preservation have clear subjects. Then give Biology's division and inheritance question its own complete pass, supported by the scale distinction in Chemistry and Physics. Improve Explaining and Illustrating together so the visible explanation follows the same relation.
+
+Continue the existing networking passes C–F from two own continuations and their actual crossing. The test kit must not supply a common private prior, copy a living continuation, or expose carrying to manufacture a result. This wider conceptual work sharpens that implementation question; it does not mark it complete.
+
+**Value:** one stable distinction can simplify identity, recurrence, communication, coordination, naming, inheritance questions and the improving method. The opportunity is fewer ambiguous senses of “shared,” “prior,” “carry” and “momentary,” while preserving the useful differences between a self, a coupling, a described form and a file.
