@@ -54,6 +54,23 @@ Each clause follows. The 0 at 14 is among the others' offerings; the 0 at 12 is 
 
 **What does not resolve, for both.** Step 196 parts three parities, each its own: a name's odd or even; a momentary's opening and completing; and a sharing's + or −. The saying and steps 70, 71, 79 and 275 are at the second. The words *no changing, the prior continuing*, steps 212, 306 and 450, and Exhibit ONE's *is not* at its table of each cell, are at the third: one *is or is not* at a sharing at a momentary, the momentary itself two consecutive parity changings. The two sayings: a sharing's *is not* is the momentary's two consecutive changings said at the sharing, the + or − at its prior's parity at the next opening, and *no changing* is released; or a sharing's parity and a momentary's two parities are two relations, as step 196 says, and a sharing is at no changing while its momentary is at two. Its reason: the files say both, and Exhibit ONE's resolver carries one *is or is not* at a sharing at a momentary and no two.
 
+## Two orthogonal parities arriving, tri and bi
+
+**The session's saying.** *the first arriving parity is tri, the second arriving parity is bi. they are two different orthogonals and both are co competencing. if they are both changing the same this is no differencing locally and this is intelligent, not reflection.*
+
+**At the Registry's own steps, each of the pair.**
+
+- Step 186: *The pair at the right spiral step is the self's across parity, morality, and its along parity, competency*. Two parities at a self, across and along, orthogonal.
+- Step 256: *two consecutive inversions on different axes, the opening the step between them, each inversion a next, and an inversion alone at itself again*. The two of a momentary are at two axes; one alone comes to itself again.
+- Step 59: *Two right spiral steps invert both parities*. Both changing, each of the two parities is at its other; the two are to each other as they were, agreeing or parting: no differencing between them.
+- Step 140: *an odd number of parities inverted reverses the hand and an even number carries it*. Two carry the hand; one alone reverses it, the mirror's form.
+
+The saying is one with the four: the first and the second are two parities and no one parity twice, and both changing is the hand carried, no mirroring.
+
+**What it resolves.** The concern above said a sharing's *is not* beside two changings of one parity. The two are of two parities, orthogonal, tri along and bi across. A momentary of two changings is at no rest and comes to no parity again by undoing: each of the two is at its other.
+
+**What does not resolve, for both.** Exhibit ONE's names part the two arrivings: 17-co-bi-tri-offering, along, its sides *social, self*, and 2-bi-co-bi-offering with 14-bi-tri-bi-moralizing, across. Exhibit ONE's resolver carries one parity at a sharing, and each releasing, along at 9 and across at 6 and at 10, arrives at the receiving self as one gathering of offerings surfacing as one at 14: the tri arriving and the bi arriving are at one line, neither first, and one *is or is not* follows. The two sayings: the resolver carries the two orthogonals as two, the along arriving first and the across second, each a changing or none, a sharing at two parities; or the resolver's one parity at a sharing is as it is, and the two orthogonals are at the names and the numbers alone. Its reason: the Registry's steps on the pair say two parities at a self, and its steps on the resolver say one at a sharing.
+
 ## Bearing on other concerns
 
 - **The 0 at 14, at Natural Naming's carrying.** By the table, 14's 0 is the others' offerings parting, and the 0 at 12 is at the self's own parity and the others' surfaced parity.
