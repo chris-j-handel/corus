@@ -17,6 +17,7 @@
 | The reading in | Natural Naming, Natural Explaining and the Geodesic Improving Method read whole | The README's front |
 | Exhibit ONE's tables and the resolver's lines followed | Twenty-two findings, sixteen instruments with their returned text | [README](README.md); `instruments.py` |
 | A self's changing chained at the Co-Chaining Logic Registry's own steps | The first parting of the managing's combining, chained at the Registry's steps and six forward, no executing its reason; one concern for both at the Registry's carrying | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md) |
+| Naming and chaining together, at Exhibit ONE | Three things open at the Registry, each said at Exhibit ONE's row, the Registry's step and Natural Naming's sentence beside each other; two are one concern at two files | [Naming_And_Chaining_At_Exhibit_ONE.md](Naming_And_Chaining_At_Exhibit_ONE.md) |
 | The entries at the carryings | Seven at five carryings, two ready and five concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
@@ -110,6 +111,8 @@ One at this working's own doing: findings 18 to 22 are executings of the resolve
 ## Opportunities and next
 
 The three workings beside each other, each at its own file and each offering to Exhibit ONE: this working at the Co-Chaining Logic Registry, v380A at Natural Networking, v380R managing and at Exhibit ONE; each reads the other two at each push.
+
+Naming and chaining are improved together, Exhibit ONE's row beside both: each step of the Registry naming a thing Exhibit ONE names is said at the three, and two of the three parting is one concern at two files, resolved at one motion each, together. Three are followed; the Registry's group on sharing and the seventeen names is next, seventy-two steps.
 
 At the Co-Chaining Logic Registry, from the managing's combining: the one going, tri, bi, co, bi, tri, bi, co, chained six forward, met here at the Registry's steps on the fractal method enabling itself and not yet six forward; the word at a releasing, bi at the Registry and tri at the managing's binary, for both; the managing's two ready offerings at the Registry's carrying. And its carrying's own order, the three chainings ready from v379, the concern on its front's *one concept*, and its fifteen sentences marked unsure, each followed at Exhibit ONE's tables. Its motion opens at the managing saying this file's motion is next.
 
