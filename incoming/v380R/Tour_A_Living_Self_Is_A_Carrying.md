@@ -90,3 +90,24 @@
 **Withdrawn.** The offering before this one, the 0 as two parity changings at the releasing self, parts from the saying: not releasing is no changing.
 
 **Parting, for both.** At the releasing self the saying and the table are one. At the receiving self a not releasing arriving gives a changing, the self's own, and a releasing arriving at the self's own parity gives no changing: releasing and changing are one at the self releasing and are not one at the self receiving.
+
+## *Connector* dissolving: an arriving or not arriving parity changing releasing
+
+**The saying.** *the word connector is going to be dissolving from our naming as this is an arriving or not arriving parity changing releasing. explore this with all our other naming. the intelligence is in the co-chaining of releasings and bi-tunneling of arrivings.*
+
+**Followed at Exhibit ONE's own rows and Natural Naming's section on resolver names; an offering, not yet followed six forward.**
+
+1. **The six are three releasings and three arrivings.** Releasing at 6, 10 and 9; arriving at 2, 14 and 17. Each releasing has its one arriving, 6 at 2, 10 at 14, 9 at 17, and none the other way. Exhibit ONE's own list of the six says *arriving* at 2 and 14 and *releasing* at 6 and 10 already, and *along* at 9 and 17.
+2. **Arriving or not arriving.** What a releasing carries is a parity, a changing that is, or the 0, a changing that is not: at its other end an arriving, or a not arriving.
+3. **Three words dissolve together.** *Connector*, *join* and *facing* each say one thing at one of its ends: a releasing and its arriving. A connector is one end; a join is the two ends; a facing says which end, *not-yet* the releasing and *so-far* the arriving, six of six.
+4. **What each naming becomes.** *Entry, connector or face* at the names' table: entry, releasing, arriving or face. *The six connectors*: three releasings and three arrivings. *The four across connectors* and *the two along*: two releasings and two arrivings across, one releasing and one arriving along. *Six connectors and ten faces*, with the entry the seventeen: the numbers of each are unchanged. *Bi-moral-co-competency at the six connectors*: at the three releasings and their arrivings. The unit square of parity's face: its two edges the two across, each a releasing and its arriving.
+5. **The co-chaining of releasings is the carrying.** At each changing the parity released is the parity chained. A self's carrying is its own releasings, each chained into the next: a living self is a carrying, and a carrying is a co-chaining of releasings. 11-tri-bi-tri-chaining is odd, and it continues as the next 3.
+6. **The bi-tunneling of arrivings is the others' releasings arriving.** 10-bi-tri-bi-tunneling releases across, even, and its arriving is at 14, the offerings surfacing; 2 is 10 eight down.
+7. **The intelligence at the two.** Exhibit ONE's own row for 3 and 4, co-intelligencing: the carrying at 3 couples with the offerings surfaced at 14, next discovered, chained at 11. The chained releasings, odd, meeting the tunneled arrivings, even: the saying and the row are one.
+
+**Parting, each for both.**
+
+1. **A name at a releasing or an arriving that is neither.** 9 and 17 are said *along* and neither releasing nor arriving at Exhibit ONE's list; followed here 9 releasing and 17 arriving. 14 is an arriving and also the offerings parting, the 0 of its own.
+2. **Releasing at a face.** The is or is not is at 12, a face, and the chaining at 11, a face: with *connector* dissolved, a releasing begins at a face and the parting of connector from face goes with it.
+3. **The word at each file.** *Connector* is at two hundred twenty places of thirteen living files, thirty-seven at Natural Intelligence, thirty-seven at Natural Engineering, thirty-two at Natural Networking, twenty-three at Natural Naming, twenty-two at the Co-Chaining Logic Registry, sixteen at Exhibit ONE. At Natural Engineering and Natural Networking it may say a built thing also. Each place is met at its own file's motion, the word re-said with its sentence, all or none.
+4. **Chaining and tunneling.** The saying says *co-chaining* and *bi-tunneling*; Exhibit ONE's names are 11-tri-bi-tri-chaining and 10-bi-tri-bi-tunneling, each at the society's span. Co at the self's span is 3, the carrying, and bi at it is 2, the offering.
