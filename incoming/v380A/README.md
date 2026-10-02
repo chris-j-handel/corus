@@ -101,3 +101,8 @@ The [participating pair](Participating_Pair.md) has now run once. Each self keep
 ## Travelling through self-momentarying
 
 The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the managing's co arriving/carrying, tri releasing and bi between at its offered standing. It follows Natural Naming's from and incoming directions through tri bi co bi tri bi co, beside two existing public pair events. The incoming exhibit receives the complete paragraph with its whole prior preserved. The own chaining and the public crossing retain their different subjects; the remaining concern is at Natural Resolver's carrying. Progress and the session report record both other workings' findings received, the review standing and what remains open.
+
+
+## Beginning the surface through arriving
+
+[Surface_Arriving_Plan.md](Surface_Arriving_Plan.md) records the fresh receiving after resting: neither other working has published a change. It specifies how public arriving can open participation and how a later perturbation enters the same continuing, with no private prepopulation or copied comparison. The exact surface receiving procedure remains to be expressed; no wider surface or perturbation is claimed executed. Incoming “Each self continuing through its own carrying” receives this preparation, with the whole prior preserved.

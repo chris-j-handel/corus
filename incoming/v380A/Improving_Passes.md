@@ -157,3 +157,10 @@ Continue the natural activation question at its actual opening: the existing pub
 ## The shared aiming received
 
 Keep this working at Natural Networking while all three contribute to Natural Resolver through its carrying. Read the managing and the Co-Chaining Logic Registry working during active work; take each useful finding at its actual scope and record its source and receiving. The managing coordinates the branches and receives motions into main. The present two concerns are the next contribution to that common aiming, not a transfer of ownership of another working's file.
+
+
+## Surface beginning and perturbing at the arriving
+
+The other workings have no new published changes at the fresh fetch after resting. Their source/receiver distinction remains received. Surface_Arriving_Plan.md now specifies the next construction: begin through ordinary public arrivals, preserve each self's own continuation, and later introduce one declared perturbing arriving on that same proceeding. Do not populate private priors or restore a twin. A local public change alone cannot be attributed to that perturbation.
+
+The next work in the six-connector and participating-construction passes is exact: both across passages and the along relation at their actual self/scale, then how the self continues at no changed arrival and receives further releases at its own momentary. A changed-arrival-only driver would suppress own continuing; a larger grouped caller would retain a supplied receiving rule. Neither is a completed natural surface. The unchanged resolver's new-sharing conditions are read at the source without private observation. This pass prepares the surface; no wider execution has been made.
