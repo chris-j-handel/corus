@@ -1,0 +1,276 @@
+{
+  "standing": "bounded software participation; discovering under review",
+  "source": "Exhibit_ONE_Natural_Resolver_v379.md",
+  "source_sha256": "4fade283e0c1ccfc4cf8412584c83c159d416f23bc45ee1606062eb81a9e283d",
+  "expression_sha256": "d2d3261ebf8347ee5d28f39198e07d4aa8b249905220889cadcd0a25988c0aba",
+  "receiving_relation": "A's 6 to B's 2; B's 6 to A's 2",
+  "release_expression": "1 returns 10; 17 assigns that same release to 6",
+  "construction": {
+    "beginning": "two independently empty software continuations",
+    "opening": "one external + offering to A at shared-offering",
+    "continuing": "each public release before the reading boundary is the other's next arrival",
+    "zero": "zero is delivered and opens a receiving call",
+    "order": "caller alternates A/B; each next call receives the preceding release, including zero",
+    "reading_bound": 16,
+    "bound_scope": "process ends; final recorded release is not delivered; no natural-completion claim",
+    "reach": "no other incoming coupling; no society gathering or surface"
+  },
+  "public_reading": [
+    {
+      "receiving_self": "A",
+      "arriving_from": "declared opening offering",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          0
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          0
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          0
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          0
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          0
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          0
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          0
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          0
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          1
+        ]
+      ]
+    },
+    {
+      "receiving_self": "A",
+      "arriving_from": "B",
+      "arriving": [
+        [
+          "shared-offering",
+          1
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          0
+        ]
+      ]
+    },
+    {
+      "receiving_self": "B",
+      "arriving_from": "A",
+      "arriving": [
+        [
+          "shared-offering",
+          0
+        ]
+      ],
+      "releasing": [
+        [
+          "shared-offering",
+          -1
+        ]
+      ]
+    }
+  ]
+}

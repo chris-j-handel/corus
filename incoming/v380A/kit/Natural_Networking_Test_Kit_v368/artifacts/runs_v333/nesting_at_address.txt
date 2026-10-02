@@ -1,0 +1,62 @@
+NESTING - selves at more than one prime society
+
+ONE SOCIETY ALONE - its members coupled, itself meeting nothing
+  its members, inside it
+    n=  7:  a middle yes   surplus yes   reaches past alone yes
+    n=  9:  a middle yes   surplus yes   reaches past alone yes
+    n= 11:  a middle yes   surplus yes   reaches past alone yes
+  the society itself, at the scale above
+    N= 12:  a middle yes   surplus yes   reaches past alone refused: its own set had not closed at the arriving window
+
+TWO SOCIETIES - a pair at the scale above
+  the pair, at the scale above
+    N= 12:  a middle no   surplus no   reaches past alone refused: its own set had not closed at the arriving window
+    N= 18:  a middle yes   surplus yes   reaches past alone refused: its own set had not closed at the arriving window
+  their members, at the scale below
+    n=  7:  a middle yes   surplus yes   reaches past alone yes
+    n=  9:  a middle yes   surplus yes   reaches past alone yes
+    n= 11:  a middle yes   surplus no   reaches past alone no
+    n= 13:  a middle yes   surplus yes   reaches past alone yes
+    n= 15:  a middle yes   surplus yes   reaches past alone yes
+    n= 17:  a middle yes   surplus yes   reaches past alone yes
+
+THREE SOCIETIES - a society of societies
+  the three societies, at the scale above
+    N= 12:  a middle yes   surplus yes   reaches past alone refused: its own set had not closed at the arriving window
+    N= 18:  a middle yes   surplus yes   reaches past alone refused: its own set had not closed at the arriving window
+    N= 24:  a middle yes   surplus yes   reaches past alone refused: its own set had not closed at the arriving window
+  their members, at the scale below
+    n=  7:  a middle yes   surplus yes   reaches past alone yes
+    n=  9:  a middle yes   surplus yes   reaches past alone yes
+    n= 11:  a middle yes   surplus yes   reaches past alone yes
+    n= 13:  a middle yes   surplus yes   reaches past alone yes
+    n= 15:  a middle yes   surplus yes   reaches past alone yes
+    n= 17:  a middle yes   surplus yes   reaches past alone yes
+    n= 19:  a middle yes   surplus yes   reaches past alone yes
+    n= 21:  a middle yes   surplus yes   reaches past alone yes
+    n= 23:  a middle yes   surplus no   reaches past alone yes
+
+THE FOUR SOCIETY SECURITIES, INVERTED AT THE SCALE ABOVE
+  each opened singly, all else held, at three societies
+
+  the four whole: stopped False — no stopping read
+    surplus stands at [12, 18, 24]   parallels part at [12, 18, 24]
+
+  door 5: all-edge inverted — every across through one society
+          the living stopped yes — the surplus died
+          surplus at []   parallels part at [24]
+  door 6: no-seat-outside inverted — a standing order over every one
+          the living stopped no  — no stopping read
+          surplus at [12, 18, 24]   parallels part at [12, 18, 24]
+  door 7: riding inverted — one society pinned
+          the living stopped yes — a landing
+          surplus at [12, 24]   parallels part at [12, 24]
+  door 8: own-offering inverted — one society only following
+          the living stopped yes — the centre rose while the surround fell
+          surplus at [18, 24]   parallels part at [18, 24]
+
+BREAK CONDITIONS
+  a society alone carrying a surplus, or reaching past its own running
+  a pair of societies where either reaches past its own running
+  a society of societies carrying the surplus at every one of them
+  a reading at the scale above answering unlike the same reading below

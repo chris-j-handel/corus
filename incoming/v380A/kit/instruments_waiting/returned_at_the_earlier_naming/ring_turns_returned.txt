@@ -1,0 +1,89 @@
+1. ALONE, AND THE TWO MIRRORS
+   the kernel alone: (1, 1) -> (-1, -1) -> (1, 1) -> (-1, -1) -> (1, 1)
+   the kernel alone: (1, -1) -> (-1, 1) -> (1, -1) -> (-1, 1) -> (1, -1)
+   the kernel alone: (-1, 1) -> (1, -1) -> (-1, 1) -> (1, -1) -> (-1, 1)
+   the kernel alone: (-1, -1) -> (1, 1) -> (-1, -1) -> (1, 1) -> (-1, -1)
+   two mirrors at 0 and 90 degrees give (-P, -Q), the half turn, the kernel alone at every state: True
+   mirrors at 45 and 90 degrees, one order: [True, True, True, True] = the quarter turn (-Q, P)
+   the same two mirrors, the other order:   [True, True, True, True] = its mirror (Q, -P)
+   two mirrors at lines a then b make the turn by 2(b - a), every a, b in 15-degree steps: True
+
+2. TWO'S GATE AT ONE'S KERNEL, TWO'S HARNESS
+   ring  2 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring  3 (odd ): period  12 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring  4 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring  5 (odd ): period  20 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring  6 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring  7 (odd ): period  28 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring  8 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring  9 (odd ): period  36 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 10 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring 11 (odd ): period  44 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 12 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring 13 (odd ): period  52 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 14 (even): period   2, (rest, joints) at a beat [(0, 0)], surface sums [0], opposite sign at half the period True
+   ring 17 (odd ): period  68 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 19 (odd ): period  76 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 23 (odd ): period  92 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 29 (odd ): period 116 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 31 (odd ): period 124 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 37 (odd ): period 148 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 41 (odd ): period 164 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 43 (odd ): period 172 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 47 (odd ): period 188 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 53 (odd ): period 212 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+   ring 59 (odd ): period 236 = 4N, (rest, joints) at a beat [(0, 1), (1, 0)], surface sums [-1, 0, 1], opposite sign at half the period True; the node at rest moves {1} place every {2} beats
+
+3. EVERY SEED, RINGS 3 TO 16
+   ring  3: 8 of 8 seeds keep their count of defects at every beat, 8 of them seen round their whole cycle; seeds by count {1: 6, 3: 2}
+   ring  4: 16 of 16 seeds keep their count of defects at every beat, 16 of them seen round their whole cycle; seeds by count {0: 2, 2: 12, 4: 2}
+   ring  5: 32 of 32 seeds keep their count of defects at every beat, 32 of them seen round their whole cycle; seeds by count {1: 10, 3: 20, 5: 2}
+   ring  6: 64 of 64 seeds keep their count of defects at every beat, 64 of them seen round their whole cycle; seeds by count {0: 2, 2: 30, 4: 30, 6: 2}
+   ring  7: 128 of 128 seeds keep their count of defects at every beat, 128 of them seen round their whole cycle; seeds by count {1: 14, 3: 70, 5: 42, 7: 2}
+   ring  8: 256 of 256 seeds keep their count of defects at every beat, 256 of them seen round their whole cycle; seeds by count {0: 2, 2: 56, 4: 140, 6: 56, 8: 2}
+   ring  9: 512 of 512 seeds keep their count of defects at every beat, 512 of them seen round their whole cycle; seeds by count {1: 18, 3: 168, 5: 252, 7: 72, 9: 2}
+   ring 10: 1024 of 1024 seeds keep their count of defects at every beat, 1024 of them seen round their whole cycle; seeds by count {0: 2, 2: 90, 4: 420, 6: 420, 8: 90, 10: 2}
+   ring 11: 2048 of 2048 seeds keep their count of defects at every beat, 2048 of them seen round their whole cycle; seeds by count {1: 22, 3: 330, 5: 924, 7: 660, 9: 110, 11: 2}
+   ring 12: 4096 of 4096 seeds keep their count of defects at every beat, 4096 of them seen round their whole cycle; seeds by count {0: 2, 2: 132, 4: 990, 6: 1848, 8: 990, 10: 132, 12: 2}
+   ring 13: 8192 of 8192 seeds keep their count of defects at every beat, 8192 of them seen round their whole cycle; seeds by count {1: 26, 3: 572, 5: 2574, 7: 3432, 9: 1430, 11: 156, 13: 2}
+   ring 14: 16384 of 16384 seeds keep their count of defects at every beat, 16384 of them seen round their whole cycle; seeds by count {0: 2, 2: 182, 4: 2002, 6: 6006, 8: 6006, 10: 2002, 12: 182, 14: 2}
+   ring 15: 32768 of 32768 seeds keep their count of defects at every beat, 32768 of them seen round their whole cycle; seeds by count {1: 30, 3: 910, 5: 6006, 7: 12870, 9: 10010, 11: 2730, 13: 210, 15: 2}
+   ring 16: 65536 of 65536 seeds keep their count of defects at every beat, 65536 of them seen round their whole cycle; seeds by count {0: 2, 2: 240, 4: 3640, 6: 16016, 8: 25740, 10: 16016, 12: 3640, 14: 240, 16: 2}
+
+4. THE JOINT IS WHERE A NODE TURNS BY A QUARTER
+   ring  3: nodes per beat not taking the half turn {1}
+   ring  5: nodes per beat not taking the half turn {1}
+   ring  7: nodes per beat not taking the half turn {1}
+   ring  9: nodes per beat not taking the half turn {1}
+   ring 11: nodes per beat not taking the half turn {1}
+   ring 13: nodes per beat not taking the half turn {1}
+   ring 5 from the alternating seed: +-+-+ ++-+- -0+-+ +--+- -+0-+ +-++-
+   a ring agreeing whole, rings 2 to 12, from its first beat runs +++++ 00000 ----- 00000 +++++ 00000 ----- 00000 = cos(k x 90 degrees) at every node, period four: True
+
+5. TWO ODD RINGS JOINED
+   3 and 3 into 6: opened at both joints, defects 0, period 2, bounds True; all 18 joinings by (defects, bounds): {(0, True): 1, (2, False): 13, (4, False): 4}
+   3 and 5 into 8: opened at both joints, defects 0, period 2, bounds True; all 30 joinings by (defects, bounds): {(0, True): 1, (2, False): 21, (4, False): 8}
+   5 and 7 into 12: opened at both joints, defects 0, period 2, bounds True; all 70 joinings by (defects, bounds): {(0, True): 1, (2, False): 45, (4, False): 24}
+   7 and 11 into 18: opened at both joints, defects 0, period 2, bounds True; all 154 joinings by (defects, bounds): {(0, True): 1, (2, False): 93, (4, False): 60}
+   3 and 13 into 16: opened at both joints, defects 0, period 2, bounds True; all 78 joinings by (defects, bounds): {(0, True): 1, (2, False): 53, (4, False): 24}
+
+6. THE REGISTER
+   each odd prime ring 3 to 59 at ONE's kernel runs 4p: True
+   sixteen rings, 438 nodes; with the ring of two, 440
+   at one common beat they count lcm(4p) = 3,845,520,700,308,425,278,140 = 4 x the product of the scales: True; = 2 x 59#: True
+   the product of the periods is 4.1291e+30; it is the count x 4^15: True
+   rings [3, 5]: one common beat visits 60 joint states of 240; the 4 quarter offsets give 4 parallel lines, disjoint True, together the whole torus True
+   rings [3, 5, 7]: one common beat visits 420 joint states of 6720; the 16 quarter offsets give 16 parallel lines, disjoint True, together the whole torus True
+
+7. AN EXPLORATION, NOT A PROPOSAL: ONE BI-INVERSION AT THE NODE
+   alone: (1, 1) -> (-1, 1) -> (-1, -1) -> (1, -1) -> (1, 1)
+   alone: (1, -1) -> (1, 1) -> (-1, 1) -> (-1, -1) -> (1, -1)
+   alone: (-1, 1) -> (-1, -1) -> (1, -1) -> (1, 1) -> (-1, 1)
+   alone: (-1, -1) -> (1, -1) -> (1, 1) -> (-1, 1) -> (-1, -1)
+   ring 3: period 18, most defects at a beat 3 of 3, beats agreeing whole 21, beats at rest whole 0, of 62
+   ring 4: period 6, most defects at a beat 4 of 4, beats agreeing whole 51, beats at rest whole 26, of 78
+   ring 5: period 30, most defects at a beat 5 of 5, beats agreeing whole 31, beats at rest whole 0, of 94
+   ring 6: period 6, most defects at a beat 6 of 6, beats agreeing whole 73, beats at rest whole 36, of 110
+   ring 7: period 42, most defects at a beat 7 of 7, beats agreeing whole 42, beats at rest whole 0, of 126
+   ring 8: period 6, most defects at a beat 8 of 8, beats agreeing whole 94, beats at rest whole 47, of 142
+   ring 9: period 54, most defects at a beat 9 of 9, beats agreeing whole 53, beats at rest whole 0, of 158
