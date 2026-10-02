@@ -111,3 +111,90 @@
 2. **Releasing at a face.** The is or is not is at 12, a face, and the chaining at 11, a face: with *connector* dissolved, a releasing begins at a face and the parting of connector from face goes with it.
 3. **The word at each file.** *Connector* is at two hundred twenty places of thirteen living files, thirty-seven at Natural Intelligence, thirty-seven at Natural Engineering, thirty-two at Natural Networking, twenty-three at Natural Naming, twenty-two at the Co-Chaining Logic Registry, sixteen at Exhibit ONE. At Natural Engineering and Natural Networking it may say a built thing also. Each place is met at its own file's motion, the word re-said with its sentence, all or none.
 4. **Chaining and tunneling.** The saying says *co-chaining* and *bi-tunneling*; Exhibit ONE's names are 11-tri-bi-tri-chaining and 10-bi-tri-bi-tunneling, each at the society's span. Co at the self's span is 3, the carrying, and bi at it is 2, the offering.
+
+## *Connector*, *join* and *face* dissolving: nothings, still possibling until a parity changing arrives
+
+**The saying.** *connector join faces dissolving these is freeing the resolver from this framework and bounding and separators as objects and they are nothings stilling until parity changing arrives and they are floating and neutraling.*
+
+**Followed at Exhibit ONE's own rows; an offering, not yet followed six forward.**
+
+1. **The resolver carries none of the three as a thing.** What it carries is a carrying and the offerings, each a parity at a sharing. Its two lists naming the connectors and the joins are at no line of its three functions; *face* is at no line at all. The framework is at the tables and the diagram, and the resolver is already without it.
+2. **What the framework is at Exhibit ONE.** Five columns of the names' table, *Entry, connector or face*, *Across or along*, *Outward or inward*, *Facing* and *Joining*; the diagram's box, its *o* and *i*; *six connectors and ten faces*. *Outward* and *inward* say a name before 9 or after 9, ten of ten; *facing* says releasing or arriving, six of six; *joining* says a releasing's one arriving.
+3. **What is carried with the three dissolved.** Seventeen names, each a changing at its number: its number, its parity, its three prefixes, its root, its -ing, and its resolving. Three releasings and their three arrivings among them. Each a nothing until a parity changing arrives at it.
+4. **Still possibling.** Natural Naming carries the self's own still at one compound, is-still-possibling, existing on one side of it and possibling on the other. The saying's *nothings stilling until parity changing arrives* is that compound at each of the seventeen: no changing arriving, a name is still possibling; a changing arriving, it is next existing.
+5. **Floating neutralling.** Natural Naming's own naming: *the term none of the excluding reached is uncovered, it is neither of theirs*. A name with no object at it is owned by neither self, as Exhibit ONE says of 5, *owned by neither*; the saying says it of each.
+
+**Parting, each for both.**
+
+1. ***Face* at four relations.** At Exhibit ONE: a face outward or inward, the ten; parity's face, the unit square; the self's three faces; the three inward faces of the between. Across the set *face* and *faces* are at more than a hundred places of each of the largest files, most at one coupling at its two faces, and Natural Naming's own section title says one family of words at three faces. The saying dissolves the ten; whether it dissolves the word at each other relation is not said.
+2. **The numbers of each.** *One entry, six connectors and ten faces are the seventeen* is a sentence of Natural Naming and a relation of numbers, three, three, ten and one; with the three words dissolved the sentence is released or re-said at releasings and arrivings.
+3. **The saying's word for the still.** Natural Naming releases *stilling* and carries the still at the compound alone; the saying says *stilling* of the nothings. Said at the compound, the two are one.
+4. **Bounding.** *Bounding* is a naming of the set, a naming at four boundings at once. The saying frees the resolver from *bounding and separators as objects*; the naming's own bounding, no object, is another relation.
+
+## Self, bi and tri, each arriving and releasing: the six
+
+**The saying.** *self arriving and releasing, bi arriving and releasing, tri arriving and releasing. is this the six cycling*
+
+**Followed at Exhibit ONE's own rows and the numbers; an offering, not yet followed six forward.**
+
+1. **It is six, and Exhibit ONE carries it as its table of three windings.** The self's, 9 releasing and 17 arriving; the other's, 6 releasing and 2 arriving; the society's, 10 releasing and 14 arriving. Three, each a releasing and its arriving: the six that were said connectors.
+2. **At the words.** The other's two names are bi-co-bi, the society's two bi-tri-bi, and the self's are 9-tri-bi-co-momentarying releasing and 17-co-bi-tri-offering arriving, each the other said incoming. Bi at the other's; bi-tri at the society's; tri and co at the self's.
+3. **It is none of the four six-cycles of Exhibit ONE's table of forms.** Those are 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12; none is 2, 6, 9, 10, 14 and 17.
+4. **At the one move it is a four and a two.** 8 up pairs 2 with 10, 6 with 14 and 9 with 17, an arriving with a releasing at each pair. Going a releasing to its arriving and then 8 up: 6 to 2, 2 to 10, 10 to 14, 14 to 6, the unit square of parity's face, four names; and 9 to 17 and 17 to 9, the two along. A four and a two, no one going of six.
+5. **At the resolver's own order it is one going of six.** The offerings arriving at 2, surfacing at 14; the changing released at 10, the same list at 6, carried at 9; arriving at 17, the society's next momentary; and 2 again. Three arrivings, 17, 2 and 14, then three releasings, 10, 6 and 9: one going of arrivings and one of releasings, crossing twice, the shape each form of Exhibit ONE has at its odd and even names.
+
+**Parting, each for both.**
+
+1. **Two orders.** The six is one cycling at the resolver's order and a four and a two at the numbers' one move; Exhibit ONE's forms are at the numbers.
+2. **Co arrives and tri releases.** Among the odd names co is at an arriving alone, 17 and the carrying at 3, and tri at a releasing alone, 9 and the chaining at 11; bi is at both. *Tri arriving and releasing* is followed here as the society's winding, its names opening bi-tri.
+
+## Tri releasing and never arriving: social abundancing
+
+**The saying.** *the names do not show tri arriving. this is social abundancing.*
+
+**Followed at Exhibit ONE's names and Natural Naming's own sentences; an offering, not yet followed six forward.**
+
+1. **At the names.** Among the odd names tri is at a releasing alone, 9 carrying along and 11 chaining, and co at an arriving alone, 17 and the carrying at 3. The self's winding is 9-tri-bi-co-momentarying releasing and 17-co-bi-tri-offering arriving: the society releasing, the self arriving.
+2. **The older name at 17 said it.** Natural Naming's table of the seventeen carries 17's gathered name, *17-social-abundancing*.
+3. **Abundancing is the third's, reached by neither.** Natural Naming: *a floating third carries the coupling's abundancing, reached by neither*, and *abundancing at its arriving*. Tri is the third word, the society's, and it releases and arrives at no name: the abundancing released, and no name at which the society receives.
+4. **With the six.** Self, bi and tri, each arriving and releasing, is at the names: co arriving, bi arriving and releasing, tri releasing. The fourth parting of the part before this one is met by the saying.
+
+**Parting, for both.** Natural Naming's released words carry *abundancing* at 12-bi-tri-bi-entraining, in place of *surplus*; its older name is at 17; the saying is at tri releasing, 9 and 11. Three places, one naming.
+
+## The binary, at each of the seventeen: co arriving and carrying, tri releasing, bi the between
+
+**The saying.** *what is the binary correct all rigor on this . self is tri releasing and the tri releasing is downstream arriving at a self. the self is co arriving and carrying. keep exploring until we can not find any concerns.*
+
+**Followed at each of the seventeen names, at each row of Exhibit ONE's column of each name's resolving, and at each line of the resolver naming an odd name. An offering; its six forward is offered at the close of this part.**
+
+**The binary.** A self is arriving and carrying, or it is releasing. Arriving and carrying is co, the names 1 to 8; releasing is tri, the names 9 to 16; 17 is the next arriving, the next 1. Each odd name is the self's own, co or tri. Each even name is the between, bi, at both.
+
+| 8 apart | Co, arriving and carrying | Tri, releasing | The releasing arriving downstream, 8 up again |
+|---|---|---|---|
+| 1 and 9 | the entry, the self arriving at its momentary | each changing carried along | 17, the next momentary, each self's 1 |
+| 3 and 11 | the carrying arriving | the carrying chained | the next 3, the self's own next |
+| 5 and 13 | each receiving sharing, each receiving self | each releasing sharing, each releasing self | 5, the releasing's own receiving |
+| 7 and 15 | each parity offered and carried | each parity released, carried along | 7, the parity offered at the next |
+
+1. **Each odd name, nine of nine.** 1, 3, 5, 7 and 17 open co and are each an arriving or a carrying; 9, 11, 13 and 15 open tri and are each a releasing.
+2. **Each line of the resolver naming an odd name.** 3 the carrying given; 7 each parity offered, carried and chained; 5 the receiving; 1 the entry; 17 the next momentary: each an arriving or a carrying. 11 the carrying given on; 13 each self as it releases; 15 a parity released, carried along or already surfaced at the receiving self; 9 each releasing to its receiving: each a releasing. No line parts.
+3. **Co to tri is one momentary, 8 up; tri to co is downstream, 8 up again.** Four of four each way. Twice 8 up is sixteen, the same name at the next momentary: the self at its own next, or the next self.
+4. **The names say it as sentences.** 17-co-bi-tri-offering: arriving, through the between, from a releasing. 9-tri-bi-co-momentarying: releasing, through the between, from a carrying. Within a span, co-bi-co, arriving from an arriving, and tri-bi-tri, releasing from a releasing.
+5. **The even names, the between, at both spans.** At 1 to 8, the others' releasing arriving at the self: 6 the other's releasing, 2 the offerings arriving, 4 each sharing they arrive at, 8 the carrying between momentaries. At 9 to 16, the self's releasing arriving downstream: 12 the changing, is or is not, 10 the releasing, 14 its surfacing at the receiving self, 16 each self's carrying and offerings between the society's momentaries. The other's winding, 6 to 2, is whole within the arriving span; the society's, 10 to 14, whole within the releasing span; the self's, 9 to 17, crosses from releasing to the next arriving.
+6. **The society is selves releasing.** At the resolver the society is each self with its carrying and its offerings and no further thing. *Social* is a self releasing, met downstream.
+
+**Concerns found at the exploring, each met.**
+
+1. *14 arriving at the releasing span, 6 releasing at the arriving span.* Met at finding 5: each winding is whole within one span, said from the self.
+2. *A carrying at the even 8 and 16.* Met: each is the carrying between two momentaries, a between.
+3. *15 at the parity surfaced at 14, an arriving.* Met: it is the others' released parity, arrived; tri at what was released.
+4. *Tri at no arriving, co at no releasing.* Met: the binary itself; the releasing's arriving is co, 8 up.
+5. *Abundancing at three places.* Met as one going: decided at 12, the changing is or is not; released at tri; arriving at 17.
+6. *The now at 3 or at 12.* Met: 12 is 4 at the releasing span, 8 up; the now is arriving at 3 and 4 and releasing at 11 and 12, one momentary's two spans.
+7. *The possible at two names round a four-cycle.* Met: the between at the arriving span and at the releasing span, 8 apart.
+
+**What it meets among the open concerns, each for both.** A prefix as a number's word and a face: the word is the face, co arriving and carrying, tri releasing, bi the between. The column *From, to*: self, other and social are arriving, the between and releasing. *The self's span* and *the society's span*: the arriving span and the releasing span. What crosses and what is a self's own: the self's own is co, carrying, and what crosses is its tri, releasing, arriving downstream as another's co.
+
+**Not a concern of cohering, and for both: the re-saying.** The files say tri *the society's* and *the social* at each file; the saying says tri the self releasing. Each such sentence is re-said at its own file's motion, the prior relation carried on beside it.
+
+**Six forward, offered.** A self arrives carrying, co. The others' releasings arrive at it, the between, bi. Its changing is or is not. The self releases, tri. Its releasing is the between, bi. Downstream a self arrives carrying it, co. Three at each span, each reaching the term the one before it did not carry.

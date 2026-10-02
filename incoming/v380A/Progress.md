@@ -181,3 +181,34 @@ The session corrects our six-pair interpretation. Changing or no changing travel
 Momentarying_Sequence_Offering.md carries the correction, its value and the unfilled correspondence. “Local carrying and the shared crossing” receives one complete incoming paragraph; its prior remains whole. The own six-cycling concern at Natural Resolver receives the correction in place, preserving its prior wording and naming the travelling relation now to follow. No other entry changes. No new execution or reader approval is claimed for this directed addition; the earlier pair and its reviews retain their exact reach.
 
 Next follow each named relation and the arriving/releasing interleaving through the own momentarying, without turning the displayed words into imposed program calls or recovering a private prior. The earlier inward tri table correspondence remains available, but does not by itself explain this corrected sequence.
+
+
+## Travelling correspondence received at its own subjects
+
+**Found:** Natural Naming's three prefixes read from now back; read incoming, 17-co-bi-tri-offering gives tri bi co and 9-tri-bi-co-momentarying gives co bi tri. The managing's new offering gives these words arriving/carrying, between and releasing. Reading these as overlapping offered roles gives the session's tri bi co bi tri bi co without identifying it with the other out-and-back cycling. The common word does not join numbered occurrences; their actual unfolding remains to be followed. The correspondence is offered, not a complete operational derivation.
+
+**Changed:** the complete travelling paragraph within incoming “Local carrying and the shared crossing,” its whole prior section preserved; Momentarying_Sequence_Offering.md now has the exact name/direction table, the distinct own and public subjects, and two consecutive cases from the existing public pair. No new run, private observation or kit change. Root living files and published kits remain unchanged.
+
+**Learned about working:** a name's written order and its incoming direction must be stated before following its sequence. A repeated boundary word alone proves no identity of selves or couplings. Releasing at one self and arriving at another cannot decide the receiver's changing without its own resolving. Read the offered meaning beside the existing public observation, with each retaining its scope.
+
+**Gathered:** main and v380R at `6e1fc70cf9661c39be28734765335a22e3bcbbc8`; Progress whole, the tour whole across the successive readings, and the new Resolver/Naming carrying entries. v380L at `31fb8dd57fc75bd2715c50faacc1d0f37eb0434e`; Progress whole and complete README findings 21 and 22. Taken: co arriving/carrying, tri releasing, bi between as an offering; source no changing does not entail receiver no changing. Other workings' instruments were not rerun. Their exact counts and claims remain at their own standing.
+
+**Concern offered:** tri at 11 chains the same self's own continuation; tri at a public releasing participates across. The new general saying “what crosses is its tri” needs both subjects carried explicitly. This is at Natural Resolver's carrying as two sayings with the reason, for its own resolving, without a network-testing prerequisite.
+
+**Not yet done:** natural activation, full coupling correspondence, geodesic tunnelling and social moral competency remain discovering opportunities. This pass offers no proof of six-forward cohering or of the method. The managing arrangement requires no harm to our completed work; losing the older sayings, treating names as a common caller's clock, or turning private chaining into a crossing would harm it. All earlier readings, public results and corrected sayings remain. No root living-file motion is offered ready.
+
+
+## Travelling offering: reading and readiness
+
+The fresh and harm readers compared the complete local section with its whole prior, receiving the three craft files at their unchanged whole-reading standing. The fresh reader found that a common prefix word did not identify a numbered opening; the section and correspondence now say offered roles and explicitly leave the actual numbered passage open. Both readers found no further local departure in the revised wording within that scope. Both Resolver concerns remain open: own chaining versus public crossing, and overlapping words versus the actual numbered passing. Their complete reports are at reviews/Fresh_Reading_Travelling.md and reviews/Harm_Reading_Travelling.md.
+
+Preservation checks confirm one complete paragraph changed in the incoming exhibit, the immediate whole section preserved, other workings' carrying entries unchanged, and root living files, kits and the existing public pair unchanged. Both quoted public events match that record. The carrying check passes at its stated structural scope; no further execution was performed. This incoming paragraph and its supporting records are ready for the managing's reading, not a whole living-file motion or a completed resolution of the two concerns.
+
+
+## The three workings: continuing inbound improving
+
+The session's shared message is received: v380R manages the branches and works now at Exhibit ONE, Natural Resolver; v380A continues aiming at Exhibit TWO, Natural Networking; v380L continues aiming at Exhibit THIRTY, the Co-Chaining Logic Registry. All three contribute to Natural Resolver by placing their actual findings at its carrying, with each working retaining its own file and sentences. This working will read both others' improvings during active work and record what is taken, what changes, what is learned and what remains.
+
+The travelling tri bi co bi tri bi co offers a way to explain our reciprocal receiving and contributing. It supplies no common clock and proves no identity between a team's workflow and the resolver method. The arrangement requires no harm to the work already done. The managing alone receives motions into main; the complete older contribution, preserved passages, public evidence and open concerns remain. This is a working arrangement for active sessions, not a claim that unattended background sessions continue running.
+
+This working's immediate contribution to Natural Resolver is now concrete: the exact incoming prefix reading, with the numbered occurrence still open, and the private chaining/public releasing distinction. Natural Networking receives their useful explaining at its offered standing while the managing meets the concerns at Natural Resolver. Further network discovering follows the actual arriving and the self's own continuing, with social moral competency aimed at the complete participation.
