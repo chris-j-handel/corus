@@ -41,3 +41,8 @@ The same care applies to equality. A resolver's local binary comparison is not t
 ## What remains to be built
 
 A conforming participating construction is not present merely because the reference code has been copied. Passes C–F meet the six connectors, overlapping commencements, across crossing and society expression before a new caller is offered. The records remain intact without adding runtime guards or rewriting historical results.
+
+
+## Later bounded reciprocal construction
+
+`participating_pair.py` is separate from the historical instruments above. It has executed once using Natural Resolver v379's current local expression, loaded unchanged from the root. Each self's continuation stays within its receiving closure; the return and journal contain only public offerings and releases. The declared empty beginnings, external opening, caller-supplied alternating activation including after zero, and finite execution boundary remain part of its result. No conforming whole-society caller, natural birth or clockless surface is established. The full standing is at `../Participating_Pair.md` and the raw public return at `../Pair_Public_Reading.json`.

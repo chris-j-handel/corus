@@ -17,6 +17,7 @@
 | The first concern, a prefix as a number's word and a face | A third saying offered for both: the face at the parity, the word at the span | [README](README.md), finding 3; Natural Naming's carrying |
 | The namings with no number at Exhibit ONE | Each computed beside its number's word: nine agree, three part | README, finding 2; Exhibit ONE's carrying |
 | Exhibit ONE, each thing an improving of it meets | Gathered from three workings and a fresh reader: thirteen decidable, ten for both in their order, an order of the file offered; v380L's entries met for harm | [Exhibit_ONE_Improving.md](Exhibit_ONE_Improving.md); Exhibit ONE's carrying |
+| A living self is a carrying, followed through each stable form of Exhibit ONE | Seven cohering, four parting, each computed; offerings for v380L and v380A | [Tour](Tour_A_Living_Self_Is_A_Carrying.md); four carryings |
 | The three workings beside each other | v380A's convention received: one branch, one folder, a Progress at five sections. The managing below | This file |
 
 ## The managing, from v380R to v380L and v380A

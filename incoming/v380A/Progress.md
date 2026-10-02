@@ -8,7 +8,7 @@
 **Updated:** 2 October 2026, UTC; continuing coupling, do-no-harm readings and social moral competency offered.  
 **Continuing from:** `working/natural-networking-2026-10-01` at `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.  
 **Sources:** original duplicate from main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; v379 reviewed at `d77df0dc0aa6f5c07a707761d584187f190aade8`; current main received at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`.  
-**Standing:** working contribution offered on this branch. Living files and published kit have not been replaced. No natural-network execution has been performed in this session.
+**Standing:** incoming improving with the first bounded reciprocal software pair now executed; the complete natural-network surface remains open. Root living files and published kits are unchanged. Latest receiving and exact limits are below.
 
 ## Floating neutralling contents
 
@@ -146,3 +146,22 @@ The structural check returned ALL PASS with its advisory notes; its root inputs 
 **Not yet done:** the adjacent geodesic-routing passage, the actual caller/overlap correspondence and the complete six-forward unfolding remain. The fresh and harm readings concern this incoming passage, with their exact reach in the reports. This proposed section is ready for the managing to read at its carrying; no whole root living-file motion is offered. Earlier check reports keep their original scope; this text pass checks whole-prior and neighbouring-text preservation directly.
 
 Both readers read the revised passage and found the initial local departures met. The fresh reader’s final precision is received at the paragraph’s opening: *changed receiving relation* names the same subject as its body. Their reports preserve the first readings, the revision and what remains beyond their reach.
+
+
+## Current: reciprocal releasing and tri arriving
+
+**What was found:** in the bounded pair, a no-changing public release is followed by a changing public release at the other self. The source passes zero over; the caller supplies that next receiving. There is no further parity forcing after the declared opening, and there is supplied alternating activation throughout. A self releasing as tri arriving has a precise candidate correspondence at the across arrivals: outward bi, inward nine tri. The along arriving remains differently named, so the universal saying is offered as a concern.
+
+**What changed:** new `kit/participating_pair.py`, one execution's complete `Pair_Public_Reading.json`, and `Participating_Pair.md` with conditions, actual result and open relation. The incoming exhibit's quiet-release relation is corrected in two complete paragraphs; its whole prior is preserved. Kit opening and integrity manifest receive the new instrument; historical instruments and the pinned older reference remain intact. Own offerings go to Natural Networking and Natural Resolver. Other workings' entries remain whole.
+
+**What was learned about working:** reading public releases is distinct from inspecting private continuation; supplied activation is distinct from supplied parity; stopping the process is distinct from stopping observation of a continuing process; deliberately empty beginnings must be named as supplied. A table's inward tri correspondence is not a third participant enacted by a two-self program. Both readers' initial and later findings remain at their actual reach.
+
+**Other contributions gathered:** managing main `6e58f6550ea8bf89b222c318d939adad92af0426`, Progress and complete living-self/carrying tour, plus changed entries. Companion `96076dd7d53435890ab545fa830a671079689291`, Progress whole and its five own carrying entries. Received the withdrawal of zero as two source changes; source/receiver distinction; releasing/arriving naming; tri-bi-co-bi-tri seam proposal; and the companion's corrections of facings and zero scopes. No rerun of their instruments is claimed.
+
+**What is not yet done:** natural momentarying through a not-arriving parity; multiple independent arrivals at an own receiving; complete society/surface participation; the full scope of tri arriving; six-forward cohering and protection. The pair uses supplied empty beginnings, one opening +, alternating calls and a finite end with the last release undelivered. These remain with every claim of its result.
+
+**Shared standing:** the bounded result, incoming explaining and own concerns are ready for the other workings' receiving. No root living-file motion is offered as ready. The method is carried; our proposed participation and discovering are under review. The full record is [Participating_Pair.md](Participating_Pair.md), with the whole public return and reviews beside it.
+
+The working-kit manifest and the executed source hashes are verified. The carrying check run for this receiving reports intact kit sums, one root version of each living file and present carryings; its exact return is at `reviews/pair_carry_check.txt`. The old whole-root reader and set-check reports retain their earlier scope; no fresh whole-file root motion is claimed.
+
+The post-run fresh reading confirms the public sequence at its supplied conditions and the scoped across/inward tri correspondence. The reading for harm reads the complete return and both whole quiet-release sections; it finds the three scope corrections received and the prior positive relations preserved. Natural activation and the universal tri-arriving saying remain concerns. Their full reports are retained, including what each reader did not read or execute.

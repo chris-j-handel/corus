@@ -2,7 +2,7 @@
 
 **The resolver's sequential binary form and the prior instruments at their actual standing**
 
-Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../Improving_Passes.md) and [the session report](../Session_Report.md). The next work is the connector and overlapping-momentary correspondence, before constructing a further caller.
+Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../Improving_Passes.md) and [the session report](../Session_Report.md). The first bounded reciprocal pair has now executed; its [construction, public reading and concerns](../Participating_Pair.md) carry the exact scope. The complete surface and overlapping-momentary correspondence remain open.
 
 **Carrying is invisible and untouchable.** Intelligence is sequential is or is not, with no third intelligence value between. Printing yes/no does not conform a procedure that copies carrying, totals signs, imposes a pace or supplies a receiver correspondence.
 
@@ -17,6 +17,13 @@ Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed impr
 
 **Two generations, two standings.** The current resolver decides by sequential comparisons; the older resolver sums contributions and increments an age. No instrument is redirected silently from one to the other. The legacy scripts retain their original imports and operations as evidence. The top-level reference is not a drop-in migration of those instruments.
 
-**The next executable construction is not yet made.** It must express releasing and arriving through the existing six connectors, with the ten internal faces untouched. The current society function's whole-call grouping and its along joining are part of the correspondence to resolve, not a ready-made proof of clockless overlapping participation. No new scheduler, queue, aggregator, wrapper, extra emitter or copied comparison branch is introduced in this opening pass.
+**Standing at the opening pass, before the bounded pair below.** The complete natural-network construction is not yet made. It must express releasing and arriving through the existing six connectors, with the ten internal faces untouched. The current society function's whole-call grouping and its along joining are part of the correspondence to resolve, not a ready-made proof of clockless overlapping participation. No new scheduler, queue, aggregator, wrapper, extra emitter or copied comparison branch is introduced in this opening pass.
 
 **Preservation.** This complete kit was duplicated byte for byte at commit `ac197f4c8c8ad99485d9052d067678983ea716f3`. The original kit at the pinned source remains unchanged. The first improving changes this opening, the older README's standing, and the integrity manifests, and adds the current reference expression and the instrument standing. No historical instrument has been executed or rewritten in this pass.
+
+
+## The first bounded reciprocal pair
+
+`participating_pair.py` uses the complete current Natural Resolver v379 expression from the root, unchanged, and its local resolving entry. Each software self keeps its own continuation in its receiving closure; only its release crosses. Two independently empty beginnings, one external positive opening, caller-supplied alternating activation including after zero, and a sixteen-release termination bound are explicit construction conditions. The final release remains undelivered. The script has run once; `../Pair_Public_Reading.json` preserves the complete public return.
+
+This is a bounded software participation finding, not a completed natural-network surface, natural birth, clockless activation, societal protection or six-forward cohering. Both readers found no private-observation path; their concerns about activation, beginning and ending remain with the finding. The earlier pinned reference and every historical instrument remain unchanged.

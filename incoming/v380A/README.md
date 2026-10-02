@@ -91,3 +91,8 @@ The incoming exhibit's “Checkability living at the telling, testing running wh
 ## Discovering entered at routing
 
 “Routing at the coupling, carrying at the participating selves” now carries the next complete incoming improving, with its prior and first draft preserved. The fresh and harm readings meet the revised explaining at its own scope. The second-sign explanation is re-said at each self's living continuing; present parity agreement, further receiving, and changed offering or changed coupling each retain their subjects. The report and passes carry the next adjacent quiet-release passage and the unresolved complete unfolding. New concerns belong at Natural Resolver and the Geodesic Improving Method, without awaiting network testing.
+
+
+## First bounded network execution and tri arriving
+
+The [participating pair](Participating_Pair.md) has now run once. Each self keeps its continuation local; the observer records only public arriving and releasing. The complete [public return](Pair_Public_Reading.json) includes the supplied beginning, opening, activation and final boundary. The incoming quiet-release passage receives this result at that scope. The session's *a self releasing is a tri arriving* is explored at the across arriving's inward tri unfolding and carried as a concern at Natural Resolver for its whole scope. The latest Progress records both other workings' current contributions received and what remains open.

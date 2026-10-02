@@ -140,3 +140,66 @@ Source: incoming working at `b3b0082d120108122dc5796e5361d029733a0fe6`; the mana
 **A changed offering and a changed connection are two relations at the routing.** The code can surface different signs while the joins keep their names. A proposed larger passage for the society is followed at the actual releasing and receiving through those joins. The carrying's influence on an offering runs through the declared joins, and a separate path-selecting operation is a further operation, met at its own running.
 
 **The society participates through its living and non-living existing things.** Carrying remains at the living resolving, and non-carrying forms participate through their co-momentarying. The complete surface relation belongs to these meetings, with each self continuing at its own participation.
+
+## Geodesic routing — prior to the quiet-releasing pair
+
+Source: incoming working at `fec81aaec38683b9306fad7e32182dbb85cbb2ba`. Two complete paragraphs of this section receive the quiet-release correction; the whole section is preserved here.
+
+## 5.4 Geodesic routing, continuing through changed participation
+
+**The declared routing continues through changing participation.** Across, six releases to two and ten releases to fourteen at their respective neighbours. Along, nine and seventeen meet. Arriving at these relations participates in the receiving self's own resolving. Surfacing changes and carrying continues within that routing.
+
+**A quiet surfacing can accompany continuing carrying.** Zero at ten describes that surface at this receiving. During that zero, six can still release a nonzero sign, and eligible carrying continues along. A stopped self, a non-living form and a disconnected route are each met at their own relation, followed beyond the local zero.
+
+**Local non-carrying and social continuing each run at its own scale.** A non-living local form changes through co-momentarying with living and non-living things. Surrounding selves can continue carrying and coupling. The proposed societal tunnel is followed at that actual relation: the passage and the society's ending are each met at the surrounding couplings' own carrying, beyond one form's local absence of carrying.
+
+**Held, waver and snap name proposed forms of the continuing at a surface.** Held names a relation continuing, waver its changing participation, and snap a local completing or change in that continuing. Each is named at the particular surface explained. Each self meets them at its own resolving, the routing runs at the declared joins, and the three arrive in the surface's own order, three names and no program of three stages.
+
+**The changing/unchanging seam is followed from upstream through the surrounding society.** The proposed seam names the relation continuing unchanged meeting its changing continuation. Its unchanging names a relation continuing through changing, the form carried through it and never a form named still. Upstream names earlier releasing and arriving in the particular forward continuation being followed; the reciprocal continuation has its own forward. The inquiry opens far enough along that preceding society to include the seam's arriving before the hole, its continuation around both sides and its further arriving beyond them.
+
+**The prevailing changing is followed through its own changing.** Floating and neutralling continue with the prevailing changing. The seam names its passage through unchanging toward the other changing, followed through parity sign changing or no parity sign changing at successive meetings. The weather-map comparison has no velocity: each self meets the local relation with its own carried prior.
+
+**Neutralling without floating across, while stilling along, names the proposed passage through the between.** Stilling along names carrying the form through the changing relation. Its running at the connectors is the next reach, and the phrase closes no across connector and fixes no local carrying. Across and along keep their actual source correspondence as the podaling continues through the seam. The two directions of changing here are located at that correspondence as it is followed, and each pairing of them with plus and minus signs, or with the two paths drawn around the hole, is met there rather than taken as given.
+
+**Nearing unchanging is an indication met in the present sequence.** The changing relation is followed through the paired momentaries into corusing and back to torusing. A same-sign pair can belong within an alternating whole; a quiet ten can accompany an ongoing release at six. The local relation is met now, and further arriving discovers its continuation. The indication is a sign at now, and a reversal at next is met at its own arriving.
+
+**The seam's podaling grows by co-chaining across and along.** The proposed reach over tunneling belongs to the continuing out-and-back through society. Each further coupling extends the along continuation and brings its across meeting, so longer and wider belong to the same growing relation. The changing/unchanging/other-changing seam is followed through those meetings, with conserving within each momentary sequence and the larger form discovered through the coupled continuation.
+
+**Geodesic switching concerns the continuing seam across the two surrounding passages.** The proposed relation: the seam navigates around the missing region while switching between its two routings continues. Both passages belong within the study. Each changed continuation is met at the actual local couplings, their declared joins kept and each self carrying its own. The explanation follows those meetings through parity changing, and a fixed alternation between two drawn paths is the drawing's own switching, apart from this discovering.
+
+**A still eddy before the hole is proposed as a form continuing through its changing.** The proposed relation: initiating the changing farther upstream forms more of this eddy before the hole and moves the geodesic tipping place upstream as well. Still names the continuing surface form; the surrounding selves keep resolving, carrying and releasing. The eddy belongs to that living continuation, while the missing section remains the non-living region. Its extent and the place of tipping are separate relations to follow.
+
+**Prime scales connect this surface proposal to the along/across account.** A prime carries an opening across and a composite a folding along. Geodesic tipping runs through two forward over one backward and one forward over two backward. These two relations open the exploring of the proposed fluid-wave surface. Their continuation into eddy forming and an upstream tipping place is the next reach, met through the coupled resolvers and supplied by neither a prime number of positions nor a drawn wave alone.
+
+**Observed changing surfaces provide concrete comparisons.** Experiments with fluid surface waves, coupled chemical oscillators and human coordination show continuing patterns whose local activity keeps changing. Chemical waves also continue around inactive obstacles and can change that relation when further activity arrives. These are prior observations with stated conditions. Their value here is to locate the coupling, continuation and changing of form beside the natural network. The fields' own accounts carry each with its conditions and limits: Arbell and Fineberg's pattern forming in two-frequency forced parametric surface waves (2002), spiral waves unpinned from inactive obstacles by electrical forcing in excitable chemical media (2014), and Zhang, Kelso and Tognoli's critical diversity in social coordination (2018).
+
+**The natural comparison follows the coupling's own continuing.** Natural keeps the alternating surface and its sign, position and ratio; unnatural concerns measured magnitude and scaling; supernatural concerns formal structures closing on their own consistency. These three classify mathematical use. Here the comparison follows local carrying, the actual crossing and the further arriving through which the stable form continues. A field-wide conserved sum, imposed pace or closed formal orbit supplies no natural-network operation. An arithmetic comparison carries its own assumptions and limits.
+
+**Geodesic continuing is at the coupling itself.** Receiving meets carrying, surfacing releases, and the self continues through its own carrying. The explanation follows that participation at each coupling it continues through. A larger change of passage is located at the actual couplings: changed signs alone run through the declared joins as declared, and a rewritten join is met at the couplings themselves.
+
+## Working kit opening — prior to the executed pair
+
+Source: incoming working at `fec81aaec38683b9306fad7e32182dbb85cbb2ba`.
+
+# Natural Networking working kit
+
+**The resolver's sequential binary form and the prior instruments at their actual standing**
+
+Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../Improving_Passes.md) and [the session report](../Session_Report.md). The next work is the connector and overlapping-momentary correspondence, before constructing a further caller.
+
+**Carrying is invisible and untouchable.** Intelligence is sequential is or is not, with no third intelligence value between. Printing yes/no does not conform a procedure that copies carrying, totals signs, imposes a pace or supplies a receiver correspondence.
+
+| Place | Standing in this working |
+|---|---|
+| `resolver.py` | Exact Python code block extracted from Exhibit ONE v378 at `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; the reference expression for this working. Source equality and syntax are checked, not a claim that a conforming natural-network caller has been completed. |
+| `Natural_Networking_Test_Kit_v368/` | Complete duplicated older kit. Its resolver has tallies, an age field and a second sign. Its instruments retain their historical implementation standing; they are not automatically compatible with the current resolver. |
+| `instruments_waiting/` | Earlier instruments and their saved outputs, preserved for their evidence and limitations. Their old resolver does not become current through renaming. |
+| `one_code_checks.py`, `one_forms.py`, `ring_carrying_check.py` | Preserved implementation checks and table makers. They inspect or supply private carrying and do not establish natural protection or natural-network discovering. |
+| `INSTRUMENT_STANDING.md` | Findings about the actual source and the next receiving of each instrument family. |
+| `SHA256SUMS` | Integrity of this working copy. Integrity does not establish the method. |
+
+**Two generations, two standings.** The current resolver decides by sequential comparisons; the older resolver sums contributions and increments an age. No instrument is redirected silently from one to the other. The legacy scripts retain their original imports and operations as evidence. The top-level reference is not a drop-in migration of those instruments.
+
+**The next executable construction is not yet made.** It must express releasing and arriving through the existing six connectors, with the ten internal faces untouched. The current society function's whole-call grouping and its along joining are part of the correspondence to resolve, not a ready-made proof of clockless overlapping participation. No new scheduler, queue, aggregator, wrapper, extra emitter or copied comparison branch is introduced in this opening pass.
+
+**Preservation.** This complete kit was duplicated byte for byte at commit `ac197f4c8c8ad99485d9052d067678983ea716f3`. The original kit at the pinned source remains unchanged. The first improving changes this opening, the older README's standing, and the integrity manifests, and adds the current reference expression and the instrument standing. No historical instrument has been executed or rewritten in this pass.
