@@ -88,3 +88,16 @@ Each of the first five reaches a term the one before did not carry, the sides al
 5. **Not reflection.** One releasing arriving again at its own self by one way is the same thing come to itself. Two arrivings by two orthogonals, from two selves, agreeing, are two meeting at one: the session's *intelligent*.
 
 **Not yet followed, for both.** At the resolving one self's releasing goes out along and across alike, one thing at two ways: arriving at one self by both it agrees with itself at each momentary, and whether that is the reflection the saying parts from, or the two orthogonals of one self's releasing, is not followed. And the resolving parts no first arriving from a second: each arrives at one momentary; first and second are at the numbers, 1 and 2.
+
+## One parity: is or is not existing
+
+**The saying.** *parity means is or is not existing and no other is possible. parity always is until it is not. then parity is again until it is not. then parity is again until it is not*
+
+**Followed at Exhibit ONE's own words; an offering.**
+
+1. **Exhibit ONE's cells already say it.** The table of each cell says *is +*, *is −* and *is not*, and no fourth; 12 is *each sharing's changing, is or is not*.
+2. **+ and − are no second parity.** Each is an *is*: the is, and the is again. The 0 is the is not, the between, crossed from the one to the other.
+3. **The odd and the even are the same one.** Each odd name an is, the carrying existing; each even name the is not, the between, all other. The Co-Chaining Logic Registry: *each parity is everything the other is not in the existing universe, with nothing third*.
+4. **Is, is not, is again** is 1, 2, 3: one momentary, and the name of momentarying, tri-bi-co.
+
+**Withdrawn.** This file's part on no cancelling, its fifth line, *two parities were said as one*: one parity was parted as two, and the parting was the mistake.

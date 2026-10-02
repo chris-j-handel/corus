@@ -64,7 +64,7 @@ Each is an offering at its file's carrying; none is entered at a living file.
 
 Each for both, at its file's carrying, the hardest first.
 
-0. **One parity, or two.** The + and − at a sharing and the odd and even of a momentary: one parity, a self alone at +, −, +, − its own momentarying, odd, even, odd, even; or two, as Natural Naming's sentences say, *+ and − only the code's implementing*. The source of each saying of this working parting the resolver from the method.
+0. **One parity, met.** The session said *parity means is or is not existing and no other is possible. parity always is until it is not. then parity is again until it is not. then parity is again until it is not*. One parity: is or is not existing. The + and − are the is and the is again, the 0 the is not, the between; the odd and the even the same one. Ready at Exhibit ONE's carrying and Natural Naming's.
 1. **At a sharing, a self met by its own parity carrying it on**, said at two parity changings one after the other. Not yet followed.
 2. **First and second, and none first.** The session says the first arriving parity tri and the second bi; the Co-Chaining Logic Registry says all other arriving as one, the three at a crossing none of them first. Met as two steps of one meaning before either is laid as parting.
 3. **Co-momentarying at 9 or at 3**; the session's six names at three followings.
@@ -78,7 +78,7 @@ The session said *what its construction gathers at one receiving belongs to the 
 
 ## Learned about working, at v380R, each also at the Geodesic Improving Method's carrying
 
-1. **Two parities were said as one, and then parted as two.** The odd and even of a momentary, and the + and − at a sharing: this working followed the one and said it of the other, and then laid the two as two. The session's saying is that no two similar things are in this; whether the two are one parity is the first concern below, for both.
+1. **One parity was parted as two.** This working said the + and − at a sharing one parity and the odd and even of a momentary another, and recorded the parting as a learning. The session's saying is one parity, is or is not existing; the learning was the mistake and is withdrawn.
 2. **One meaning at two steps was laid as two sayings parting**, more than once. Before a parting is laid, each saying is met as the completing of one momentary and the opening of the next.
 3. **A withdrawing can be the same mistake.** The 0 as two changings was withdrawn, then the withdrawing withdrawn, then *cancelling* withdrawn: each from following a word and not the relation.
 4. **A working's own word was said as the session's.** *Cancelling* was written into an entry as what the session's saying meant; the session's next saying said no cancelling is. A saying is quoted, and the following is said as the working's.
