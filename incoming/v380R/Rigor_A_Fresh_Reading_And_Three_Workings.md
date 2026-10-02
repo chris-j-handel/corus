@@ -74,3 +74,17 @@ Each of the first five reaches a term the one before did not carry, the sides al
 5. **Two parities were said as one.** The parity of a momentary, odd and even, its opening and its completing; and the parity at a sharing, + and −, the resolver's own implementing. This file, the tour and the chaining followed the + and − at a sharing and said of it what the session says of the odd and the even. At the odd and the even each momentary is two changings, and no momentary is at none.
 
 **Not yet followed, for both.** At a sharing, a self carrying a parity and met by its own parity carries it on: said now as two changings one after the other, the parity again at a next, or said another way, is not followed. And the Co-Chaining Logic Registry's step saying two opposed changings at one momentary cancel, beside the session's *there is no cancelling*, is for the working at that file.
+
+## Two arriving parities, tri then bi, two orthogonals, each co-competencing
+
+**The saying.** *the first arriving parity is tri, the second arriving parity is bi. they are two different orthogonals and both are co competencing. if they are both changing the same this is no differencing locally and this is intelligent, not reflection*
+
+**Followed at Exhibit ONE's own rows; an offering.**
+
+1. **Two arrivings at a self, along and across.** Along: what 9, tri, carried, arriving at 17, the next 1, its three co-bi-tri, arriving from a tri. Across: what 6 and 10 released, arriving at 2 and 14, each bi. Exhibit ONE's column says *along* at the one and *across* at the other: the two orthogonals.
+2. **First and second are 1 and 2.** The self's entry, odd, arriving from the tri; then the others' offerings, even, bi. Exhibit ONE's naming at 1 and 2, bi-momentarying: *the self's entry, odd, and the others' offerings, even*. The two parity changings of one momentary, one after the other.
+3. **Each is co-competencing.** 5-co-bi-co-competencing is each releasing at its receiving, owned by neither. At the resolving each arriving, along and across alike, arrives through it and through no other thing.
+4. **Changing the same, no differencing at the sharing.** Exhibit ONE's table of the offerings surfacing: two arriving alike surface the one parity; two differing surface the 0, the between. Alike, nothing parts them at the sharing and the self's next carrying is that parity.
+5. **Not reflection.** One releasing arriving again at its own self by one way is the same thing come to itself. Two arrivings by two orthogonals, from two selves, agreeing, are two meeting at one: the session's *intelligent*.
+
+**Not yet followed, for both.** At the resolving one self's releasing goes out along and across alike, one thing at two ways: arriving at one self by both it agrees with itself at each momentary, and whether that is the reflection the saying parts from, or the two orthogonals of one self's releasing, is not followed. And the resolving parts no first arriving from a second: each arrives at one momentary; first and second are at the numbers, 1 and 2.
