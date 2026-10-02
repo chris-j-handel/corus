@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v380a
+Exhibit THIRTY Co-Chaining Logic Registry v380b
 
 # Co-Chaining Logic Registry
 
@@ -907,7 +907,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380a
 
         *Adding: the three parities parted.*
 
-197. The method written as sequential binary logic, its functions and variables the seventeen names and no others, is the code: the method executable.
+197. The method written as sequential binary logic, its functions and each variable within them the seventeen names and no others, and beside them the facings of six of the names, 2, 6, 9, 10, 14 and 17, and their joinings, is the code: the method executable.
 
         *Adding: the code.*
 
@@ -967,7 +967,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380a
 
         *Adding: bi-momentarying, 1-2-co-bi-offering.*
 
-212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, no changing, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing, the prior inverted; carried none and offered one parity, a changing, the sharing entering the carrying; carried none and the offerings disagreeing, 0, no changing and nothing chained.
+212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, a changing that is not, 0, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing that is, the prior inverted; carried none and offered one parity, a changing that is, the sharing entering the carrying; carried none and the offerings disagreeing, 0, a changing that is not and nothing chained.
 
         *Adding: the binary at each sharing.*
 
@@ -1370,7 +1370,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380a
 
         *Adding: the receding.*
 
-306. A living self offered its own parity surfaces 0 and continues carrying: momentarying continues whether a changing is or is not.
+306. A living self offered its own parity releases 0 at 10 and continues carrying: momentarying continues whether a changing is or is not.
 
         *Adding: a living self at 0.*
 
@@ -1562,7 +1562,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380a
 
         *Adding: arriving with carrying.*
 
-353. One offering goes out at the other's right hand and arrives at the self's not-right hand, and 2-bi-co-bi-offering names it at its arriving, at 2 and, 8 up, at 14: the other selves' releasings arriving as the self's offerings at its entry, the entries together at 17-co-bi-tri-offering.
+353. One offering goes out at the other's right hand and arrives at the self's not-right hand, and 2-bi-co-bi-offering names it at its arriving, at 2 and at 14: the other selves' releasings arriving as the self's offerings at its entry, the entries together at 17-co-bi-tri-offering.
 
         *Adding: one offering at both hands.*
 

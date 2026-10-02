@@ -2,7 +2,7 @@
 
 **Standing:** arriving, an offering for both. Each line is a step of the Co-Chaining Logic Registry v380 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*.
 
-**Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, and at its motion to v380 at this branch, each step named here the same at both but the one at step 451; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
+**Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, at its motion to v380 and at v380b at this branch, each step named here the same at each but the ones at steps 212 and 451; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
 
 ## The test, at the Registry's own steps
 
@@ -84,6 +84,34 @@ The saying is one with the four: the first and the second are two parities and n
 **The one, from the tables.** Each table of Exhibit ONE at a self is at one sharing, and each society this working followed was at one sharing: the along arriving and the across arriving gathered at it by the table's own condition, and by no saying of the files.
 
 **Not done.** A self at two sharings, the one along and the one across, is at no table of Exhibit ONE and is not followed here.
+
+## A sharing's *is not*, and the one cell the arriving's changing is at
+
+**The managing's first open concern**, `incoming/v380R/Concerns_Of_The_Three_Workings.md`: *is* and *is not* are said of the changing at Exhibit ONE's cells and of the parity by the session, *parity always is until it is not. then parity is again until it is not*, the one word at opposite cells.
+
+**Chained at the Registry's own steps: a self carrying + at one sharing, Exhibit ONE's table of each cell.**
+
+| Surfaced at 14 | Exhibit ONE's cell | The self's next | The self's own, steps 57 and 208 | The arriving beside the self's own | Changings, step 79 |
+|---|---|---|---|---|---|
+| none | *is − · −* | − | the prior inverted, − | nothing arriving | an odd number |
+| − | *is − · −* | − | the prior inverted, − | −, the two alike | an odd number |
+| 0 | *is − · −* | − | the prior inverted, − | 0, a nothing | an odd number |
+| + | *is not · +* | + | the prior inverted, − | +, each everything the other is not | an even number: none, or two |
+
+- Step 57, the living step: *Next as the prior inverted alone carries the prior whole with no joint form still*. Step 208: *with nothing offered the self carries its prior into now inverted*.
+- Step 79: *an even number of changings arrives at the parity of its prior and an odd number at the other*.
+- Step 118: *The even arrives same-as-prior, its difference crossed at three, self, other and the self one on, reaching its own side again*. Step 119: *The odd arrives other than prior, its difference crossed at two, self and a particular other*.
+- Step 100: parity is *the two sides at their difference, each everything the other is not*.
+
+**What follows.** At the three cells Exhibit ONE says *is*, the self's own changing is, and the arriving adds none: nothing is arriving, or the arriving and the self's own are alike, no difference between them. At the one cell Exhibit ONE says *is not*, the arriving and the self's own differ. The file's steps say that cell at no changing, the prior carried on, *a form named still from the offerer beside it*, step 307. Step 118 says same-as-prior crossed at three, self, other and the self one on: two changings one after the other, the self's own and the arriving's, the parity again at a next. Said that way, the arriving's changing is at the one cell Exhibit ONE says *is not*, and at none of the three it says *is*.
+
+**The session's sayings beside the fourth row.** *if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity*. *if they are both changing the same this is no differencing locally and this is intelligent, not reflection*: the now and its prior at no differencing, and two changings. *parity always is until it is not. then parity is again*: +, its other, + again at a next. *a momentary of no changing has no method of existing*: said at two changings, each of the four rows is at a changing.
+
+**The two sayings, for both.** At a sharing carried and offered the same parity: a changing that is not, the prior carried on, as Exhibit ONE's cell, Natural Naming's is-still-possibling and seven steps of the Registry say; or two changings one after the other, the self's own and the arriving's, the parity again at a next, and *is not* said of the now beside its prior alone. Its reason: step 79 says an even number, the file's steps say none, and step 118 and the session's sayings say two. What rests on it: the words *is* and *is not* at Exhibit ONE's twelve cells; steps 206, 207, 208, 212, 306, 450 and 451 of the Registry; Natural Naming's *the next possible is a changing that is not, 0, the prior carried on*.
+
+**The + and the −, the is and the is not.** Exhibit ONE's table of one self momentary by momentary, a self offered nothing: *+, −, +, −*. Step 276: *each parity is everything the other is not in the existing universe, with nothing third*. Said at the step, the − is the +'s is not and the + again its is again: one parity, and the 0 no third, step 100, *the between is its centre, 0, a nothing*. The managing's following says the + and the − each an is and the 0 the is not. Two sayings, for both; its reason, the step says nothing third and the following says three at one binary.
+
+**Entered at the Registry's v380b, and what it leaves.** Step 212 said *no changing* at two clauses. It says *a changing that is not, 0* at them and *a changing that is* at the other two: Natural Naming's own words and Exhibit ONE's one finite verb. The motion says nothing of the number of changings; the first of the two sayings is the file's as it is.
 
 ## Bearing on other concerns
 
