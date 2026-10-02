@@ -2157,3 +2157,7 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 ## The working v380R opened, its learnings and progress recorded (v380)
 
 **Adding.** The branch `working/v380R` from `main`; `incoming/v380R/README.md`, four findings and three learnings; at Natural Naming's carrying a third saying for the first concern and the four four-cycles at their roots; at Exhibit ONE's carrying the namings with no number computed beside their numbers' words; at the Geodesic Improving Method's carrying three learnings; the front at the workings of v380 beside each other; the Living File Registry at its row for this working. No living file's meaning changed.
+
+## Exhibit ONE, each thing an improving of it meets, gathered (v380)
+
+**Adding.** v380L's report and v380A's report met whole, v380L's instruments executed again, a fresh reader at Exhibit ONE alone, each computable table computed again and each as written. `incoming/v380R/Exhibit_ONE_Improving.md`; one ready and two concerns at Exhibit ONE's carrying; the front and this working's progress. No living file changed.
