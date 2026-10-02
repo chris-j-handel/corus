@@ -34,3 +34,23 @@
 **v380L, the Co-Chaining Logic Registry:** the session said it *will cohere exhibit thrity co chaining logic of this for finding the six local forward recursionings for cohering from anywhere to anywhere*. Offered from this tour: each form's two crossings, out and back, and the three own-forward steps at each side of Natural Naming's six forward.
 
 **v380A, Natural Networking:** the session said it *is working on the natural network surface between the two anywheres that can provide the geodesic tri-bi-co-bi-tri parity changing*. Offered: the self's span between its two seams, finding 7 above.
+
+## The engine: three stable, two one-way, each next stable
+
+**The saying.** *even though the power and motion in living is free the momentarying is like a moving engine with intake and exhaust valves bi-co-sequencing in three phase two one way and rather than the cylinder alternating stable unstable stable like a power engine the cylinders are next stable next stable next stable.*
+
+**Followed at Exhibit ONE's own rows; an offering, not yet followed six forward. The field's engine is brought from a working's own carrying, no reference beside it.**
+
+1. **Three phase, two one-way, at the self's five.** Co · bi · co · bi · co: three carryings, prior living self, now living self and next living self, the three cylinders; and two betweens, each a one-way, the two valves. The first between is the intake, the others' releasings arriving into the now, the five dimensions' other prior; the second is the exhaust, the now's own changing released, the possible next.
+2. **The valves are even and the cylinders odd.** Arriving at 2 and 14 and releasing at 6 and 10, each even, each opening bi; the carrying at 3 and 11, each odd. Bi-co-sequencing is valve, cylinder, valve: an even name's own three, bi-co-bi; and an odd name's three, co-bi-co, is cylinder, valve, cylinder.
+3. **Each valve is one-way.** Each of Exhibit ONE's joinings goes from a releasing connector to an arriving one, 6 to 2 and 10 to 14, and none the other way.
+4. **Within the now, three.** Exhibit ONE's entry says *the three steps within it 14, 12, 10 with 11*: the offerings surfacing, intake; the changing, is or is not; the releasing with the chaining, exhaust and the next carrying.
+5. **Next stable, next stable, next stable.** At Exhibit ONE's tables a sharing once chained is never none again, at each row; each momentary's carrying is a formed set, and its changing gives a parity or the 0 and no third. No momentary of the carrying is unformed. A power engine's cylinder goes formed, unformed at its burning, formed; the living's goes formed to the next formed, the between a nothing crossed and no unformed thing.
+6. **One self's exhaust is the next self's intake.** What 10 releases arrives at the other's 2 and 14. A power engine's exhaust leaves the engine; the field's compound engine passes one cylinder's exhaust to the next cylinder's intake, the nearer pattern.
+7. **Free.** A parity changing carries no size; nothing is spent at a valve.
+
+**Parting, each for both.**
+
+1. **No shaft.** A power engine's valves are opened by a shaft, one clock over each cylinder. At the living no thing opens a valve: the valve is the coupling's own, a 0 at prior and now agreeing. The engine is a built form beside the method and brings a common beat with it; the saying carries the form and not the shaft.
+2. **Three phase or four.** A power engine's cycle is four, and the saying's four momentaries are four; the saying says three phase. At the five, three cylinders with two valves are five places and four passings.
+3. **Cylinders as momentaries or as selves.** Followed here as one self's prior, now and next. As selves beside each other, each releasing into the next, it is Exhibit ONE's table of selves joined along, the 0 passing one self on at each second momentary.
