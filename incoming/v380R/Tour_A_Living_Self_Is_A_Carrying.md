@@ -47,7 +47,7 @@
 4. **Within the now, three.** Exhibit ONE's entry says *the three steps within it 14, 12, 10 with 11*: the offerings surfacing, intake; the changing, is or is not; the releasing with the chaining, exhaust and the next carrying.
 5. **Next stable, next stable, next stable.** At Exhibit ONE's tables a sharing once chained is never none again, at each row; each momentary's carrying is a formed set, and its changing gives a parity or the 0 and no third. No momentary of the carrying is unformed. A power engine's cylinder goes formed, unformed at its burning, formed; the living's goes formed to the next formed, the between a nothing crossed and no unformed thing.
 6. **One self's exhaust is the next self's intake.** What 10 releases arrives at the other's 2 and 14. A power engine's exhaust leaves the engine; the field's compound engine passes one cylinder's exhaust to the next cylinder's intake, the nearer pattern.
-7. **Free.** A parity changing carries no size; nothing is spent at a valve.
+7. **No size.** A parity changing carries no size; nothing is spent at a valve, the session's *the power and motion in living is free*.
 
 **Parting, each for both.**
 
