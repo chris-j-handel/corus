@@ -1,0 +1,211 @@
+READ AT Exhibit_ONE_Natural_Resolver_v379.md
+
+INSTRUMENT 1. Each name's three prefixes by the numbers, its now and the two numbers before it, 17 the next 1; beside the
+   table of the seventeen names' column From, to. co is said the self, bi the other, tri the social.
+   1-co-bi-tri-offering         by the numbers co-bi-tri  in the name True  | table: self, other          | first two agree True  | whole agrees False
+   2-bi-co-bi-offering          by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   3-co-bi-co-sharing           by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   4-bi-co-bi-sharing           by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   5-co-bi-co-competencing      by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   6-bi-co-bi-moralizing        by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   7-co-bi-co-corusing          by the numbers co-bi-co   in the name True  | table: self, other          | first two agree True  | whole agrees True
+   8-bi-co-bi-torusing          by the numbers bi-co-bi   in the name True  | table: other, self          | first two agree True  | whole agrees True
+   9-tri-bi-co-momentarying     by the numbers tri-bi-co  in the name True  | table: social, other, self  | first two agree True  | whole agrees True
+   10-bi-tri-bi-tunneling       by the numbers bi-tri-bi  in the name True  | table: other, social, self  | first two agree True  | whole agrees False
+   11-tri-bi-tri-chaining       by the numbers tri-bi-tri in the name True  | table: social, other, self  | first two agree True  | whole agrees False
+   12-bi-tri-bi-entraining      by the numbers bi-tri-bi  in the name True  | table: other, social, self  | first two agree True  | whole agrees False
+   13-tri-bi-tri-competencing   by the numbers tri-bi-tri in the name True  | table: social, other        | first two agree True  | whole agrees True
+   14-bi-tri-bi-moralizing      by the numbers bi-tri-bi  in the name True  | table: other, social        | first two agree True  | whole agrees True
+   15-tri-bi-tri-corusing       by the numbers tri-bi-tri in the name True  | table: social, other        | first two agree True  | whole agrees True
+   16-bi-tri-bi-torusing        by the numbers bi-tri-bi  in the name True  | table: other, social        | first two agree True  | whole agrees True
+   17-co-bi-tri-offering        by the numbers co-bi-tri  in the name True  | table: social, self         | first two agree False | whole agrees False
+   the first two agree at 16 of 17; the whole agrees, a word said twice in a name said one time at the column, at 12 of 17
+   the column alone: its first entry is the self at the odd 1 to 7, the social at the odd 9 to 17 and the other at the even: 17 of 17
+   the column alone: its second entry is the next name's first entry: 15 of 16, parting at [8]
+
+INSTRUMENT 2. One self at one sharing, one momentary: each carried parity against each offering. The parity released at 10
+   beside the parity chained at 11.
+   carried +1 | offered []       | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [1]      | released +0 | chained next +1 | the zero released, the carrying carried on
+   carried +1 | offered [-1]     | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [0]      | released -1 | chained next -1 | the release is the next carrying: True
+   carried +1 | offered [1, -1]  | released -1 | chained next -1 | the release is the next carrying: True
+   carried -1 | offered []       | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [-1]     | released +0 | chained next -1 | the zero released, the carrying carried on
+   carried -1 | offered [1]      | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [0]      | released +1 | chained next +1 | the release is the next carrying: True
+   carried -1 | offered [1, -1]  | released +1 | chained next +1 | the release is the next carrying: True
+   at each changing the release is the next carrying: 8 of 8
+   the zero, at each cell: the offerings surfaced at 14 beside the parity chained
+   chained 1      | offered [1, 1]      | released 0      | chained next 1
+   chained 1      | offered [0, 1]      | released 0      | chained next 1
+   chained 1      | offered [1, 1, -1]  | released -1     | chained next -1
+   chained none   | offered [1, -1]     | released 0      | chained next none
+   chained none   | offered [1]         | released 1      | chained next 1
+   chained none   | offered [0]         | released none   | chained next none
+
+INSTRUMENT 3. One self at one sharing, carrying +, joined to none, twelve momentaries: its releases.
+   [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1]
+
+INSTRUMENT 4. Societies of selves, each self at one sharing, joined as said at each line, forty-eight momentaries. At each
+   zero a self releases: the parity it released before the zero and the parity it releases after it.
+   two selves carrying + and +, each joined at 10 to the other
+      self 1 releases [-1, 0, 1, 0, -1, 0, 1, 0, -1, 0, 1, 0]
+      zeros between a parity and its opposite: 46 of 46
+   one self carrying +, joined at 9 to itself
+      self 1 releases [-1, 0, 1, 0, -1, 0, 1, 0, -1, 0, 1, 0]
+      zeros between a parity and its opposite: 23 of 23
+   three selves carrying none, each joined at 9 to the next and the last to the first, + offered once at self 1
+      self 1 releases [1, -1, 1, 0, -1, 1, -1, 1, -1, 0, 1, -1]
+      zeros between a parity and its opposite: 22 of 22
+   five selves, the same joining and offering
+      self 1 releases [1, -1, 1, -1, 1, 0, -1, 1, -1, 1, -1, 1]
+      zeros between a parity and its opposite: 21 of 21
+   seven selves, the same joining and offering
+      self 1 releases [1, -1, 1, -1, 1, -1, 1, 0, -1, 1, -1, 1]
+      zeros between a parity and its opposite: 20 of 20
+
+INSTRUMENT 5. The resolver's own lines. A line is one simple statement, or the opening of a for, an if or a def. For each
+   pair of names among 1 to 16: is there one line both are at. The sixteen joinings of the four four-cycles
+   beside the one hundred four other pairs.
+   joinings of the four four-cycles at one line: 8 of 16
+   other pairs of names among 1 to 16 at one line: 53 of 104
+
+INSTRUMENT 6. Exhibit ONE's own labels: at the table of the seventeen names a face outward or inward and a connector's
+   facing; at the resolver's table of connectors each connector's own word.
+   faces outward: [3, 4, 5, 7, 8] | faces inward: [11, 12, 13, 15, 16]
+   outward is a name of 1 to 8 and inward a name of 9 to 16: 10 of 10; each inward 8 up from an outward: True
+   connector  2  the table: bi-moral-so-far        the resolver: bi-moral-so-far        arriving
+   connector  6  the table: not-yet-bi-moral       the resolver: not-yet-bi-moral       releasing
+   connector  9  the table: not-yet-co-competent   the resolver: not-yet-co-competent   along
+   connector 10  the table: not-yet-bi-moral       the resolver: not-yet-bi-moral       releasing
+   connector 14  the table: bi-moral-so-far        the resolver: bi-moral-so-far        arriving
+   connector 17  the table: co-competent-so-far    the resolver: co-competent-so-far    along
+   the resolver's joins: {10: 14, 6: 2, 17: 9, 9: 17}
+
+INSTRUMENT 7. The numbers alone. Each joining of each form of Exhibit ONE's table of forms, two ways: at the table's own
+   numbers, the joinings going to a lower number; and with 17 the next 1, each taken going up, from a to b
+   b less a on the round of sixteen.
+   four-cycle         1-9-8-16               to a lower number 2 of 4 | up by [8, 15, 8, 1]                  whole 32
+   four-cycle         2-15-7-10              to a lower number 2 of 4 | up by [13, 8, 3, 8]                  whole 32
+   four-cycle         3-11-6-14              to a lower number 2 of 4 | up by [8, 11, 8, 5]                  whole 32
+   four-cycle         4-13-5-12              to a lower number 2 of 4 | up by [9, 8, 7, 8]                   whole 32
+   middle four-cycle  9-5-12-8               to a lower number 2 of 4 | up by [12, 7, 12, 1]                 whole 32
+   middle four-cycle  7-11-6-10              to a lower number 2 of 4 | up by [4, 11, 4, 13]                 whole 32
+   six-cycle          1-9-5-12-8-16          to a lower number 3 of 6 | up by [8, 12, 7, 12, 8, 1]           whole 48
+   six-cycle          2-15-7-11-6-10         to a lower number 3 of 6 | up by [13, 8, 4, 11, 4, 8]           whole 48
+   six-cycle          3-11-7-10-6-14         to a lower number 3 of 6 | up by [8, 12, 3, 12, 8, 5]           whole 48
+   six-cycle          4-13-5-9-8-12          to a lower number 3 of 6 | up by [9, 8, 4, 15, 4, 8]            whole 48
+   eight-cycle        1-9-5-13-4-12-8-16     to a lower number 4 of 8 | up by [8, 12, 8, 7, 8, 12, 8, 1]     whole 64
+   eight-cycle        2-15-7-11-3-14-6-10    to a lower number 4 of 8 | up by [13, 8, 4, 8, 11, 8, 4, 8]     whole 64
+   the joins: 10 to 14 up 4, 9 to 17 up 8, 6 to 2 up 12; 11 to the next 3 up 8
+
+INSTRUMENT 8. Two selves each carrying + at one sharing; one join from self 1 to self 2, at 6, at 10 or at 9, one at a
+   time; six momentaries: the receiving self's carrying.
+   join at  6: [-1, -1, 1, -1, 1, -1]
+   join at 10: [-1, -1, 1, -1, 1, -1]
+   join at  9: [-1, -1, 1, -1, 1, -1]
+
+INSTRUMENT 9. The resolver's three functions: the names at the entry's lines alone, at the society's lines alone, at both.
+   at the entry alone: [7, 11, 12] | at the society alone: [5, 6, 8, 9, 13, 16, 17] | at both: [2, 3, 4, 10, 14, 15]
+   return [(_5_co_bi_co_competencing[_13_tri_bi_tri_competencing], _15_tri_bi_tri_corusing)
+   for _13_tri_bi_tri_competencing, _15_tri_bi_tri_corusing in _10_bi_tri_bi_tunneling]
+   for _4_bi_co_bi_sharing, _15_tri_bi_tri_corusing in _9_tri_bi_co_momentarying(
+
+INSTRUMENT 10. Two selves each carrying + at one sharing, one momentary: the offerings arriving next at each self, at no join
+   and at one join from self 1 to self 2 at 10.
+   no join:  {1: [], 2: []}
+   one join: {1: [], 2: [('s', -1)]}
+
+INSTRUMENT 11. The living files at the root, each at its newest version: the places of each word, each a whole word.
+   side, sides                             1525 places at 32 of 32 files
+   step, steps, stepping, stepped           651 places at 28 of 32 files
+   beat, beats, beating                     588 places at 24 of 32 files
+   nought                                   128 places at 11 of 32 files
+   the self's span, the society's span       49 places at  7 of 32 files
+   wound, winding, windings                 260 places at 21 of 32 files
+   far side                                  50 places at 13 of 32 files
+
+INSTRUMENT 12. The resolver's functions: each name as received, a parameter of the function or a part of one read at a for,
+   or as made, assigned within the function. Beside each even name its three prefixes.
+   at 1: received as parameters [3, 2] | made [10, 11, 12, 14, 15]
+       4 is read at a for from [2, 3, 10]
+       7 is read at a for from [2, 3, 10]
+   at 9: received as parameters [10, 5] | made []
+      13 is read at a for from [10]
+      15 is read at a for from [10]
+   at 17: received as parameters [16, 5] | made [6, 8, 10, 14]
+       2 is read at a for from [16]
+       3 is read at a for from [16]
+       4 is read at a for from [5, 6, 9, 10, 13, 15]
+      13 is read at a for from [16]
+      15 is read at a for from [4, 5, 6, 9, 10, 13]
+   the even names: 2 bi-co-bi; 4 bi-co-bi; 6 bi-co-bi; 8 bi-co-bi; 10 bi-tri-bi; 12 bi-tri-bi; 14 bi-tri-bi; 16 bi-tri-bi
+
+INSTRUMENT 13. The resolver's own conditions, each if with the names at it; and societies followed two ways, the zero
+   delivered at a join as written, and a join passing a parity alone. Random societies:
+   two to six selves, one to three sharings, joins at 6, 10 and 9 at random, carryings and first offerings
+   at random, twenty-four momentaries each.
+   at  1, a condition at the names [7]
+   at  1, a condition at the names [7, 15]
+   at  1, a condition at the names [7]
+   at  1, a condition at the names [15]
+   at  1, a condition at the names [7, 15]
+   at 17, a condition at the names [4, 5]
+   a join passing a parity alone: each self's carrying the same at each momentary at 2000 of 2000 societies
+   of 345160 releases, 303159 a parity; released a parity and the chained parity changed, together: 303159; one without the other: 0
+
+INSTRUMENT 14. The order 12, 11, 10, and the zero said as two changings. Random cases at one self: one to three sharings,
+   each chained at a parity or at none, none to three offerings at each. Random societies as at instrument 13.
+   11 made from 12 and 10 after it: the release and the chaining the same at 20000 of 20000 cases
+   the next carrying is the parity surfaced at 14, a parity surfacing, and the carried parity inverted at none or a zero
+      surfacing: 40105 of 40105 sharings
+   this instrument's own going through a society is the resolver's at 2000 of 2000 societies
+   the zero released as two parities, the inverted and the carried: each self's carrying the same at 1235 of 2000 societies;
+      at the societies with one join or none arriving at each self, 336 of 336
+
+INSTRUMENT 15. Two selves, each carrying + at one sharing, each releasing to the other, each at its own momentary. Each
+   momentary of a self is one of three: changing at its own, nothing or a parting arriving; changing to the
+   parity arriving; or no changing, its own parity arriving. Three pacings said; and 2000 pacings at random,
+   forty-eight momentaries each.
+   together
+      self 1: own  none  own  none  own  none
+      self 2: own  none  own  none  own  none
+   one and the other in exchange, self 1 first
+      self 1: own  none  arriving  own  none  arriving
+      self 2: arriving  own  none  arriving  own  none
+   at random pacings: changing at its own 74572, changing to the parity arriving 11027, no changing 10401
+
+INSTRUMENT 16. Two versions of a self's changing, each said as a rule and followed forward at the same societies. R: the
+   resolver as written, a self changing at its own at each momentary and at the parity arriving. S: no changing
+   at nothing arriving, a changing at a releasing arriving, at four ways of saying it. 3000 societies, two to six
+   selves at one sharing, each releasing to one self at the least and arrived at from one at the least, each
+   followed to a momentary it was at; and each self entered at its own momentary.
+   R  the resolver as written                                               each changing 3000  some still 0  all still 0  grows 0
+   R2 the same, two parities released at no net changing                    each changing 3000  some still 0  all still 0  grows 0
+   S1 one changing at each releasing arriving, released at a net changing   each changing 1907  some still 296  all still 797  grows 0
+   S2 one changing at each releasing arriving, each changing released       each changing 475  some still 30  all still 549  grows 1946
+   S3 a changing at a parity surfacing, none at nothing arriving            each changing 1507  some still 763  all still 730  grows 0
+   S4 the parity surfacing is the next parity, none at nothing arriving     each changing 31  some still 57  all still 2912  grows 0
+   one self alone, carrying +, nothing arriving, six momentaries:
+      R  the resolver as written                                             - + - + - +
+      R2 the same, two parities released at no net changing                  - + - + - +
+      S1 one changing at each releasing arriving, released at a net changing + + + + + +
+      S2 one changing at each releasing arriving, each changing released     + + + + + +
+      S3 a changing at a parity surfacing, none at nothing arriving          + + + + + +
+      S4 the parity surfacing is the next parity, none at nothing arriving   + + + + + +
+   two selves each releasing to the other, both carrying +, a + arriving at self 1 at the first momentary, eight momentaries:
+      R  the resolver as written                                             ++ +- -+ +-
+      R2 the same, two parities released at no net changing                  ++ +- -+ +-
+      S1 one changing at each releasing arriving, released at a net changing ++ -+ -- +-
+      S2 one changing at each releasing arriving, each changing released     ++ -+ -- +-
+      S3 a changing at a parity surfacing, none at nothing arriving          ++ -+ -- +-
+      S4 the parity surfacing is the next parity, none at nothing arriving   ++ ++
+   each self at its own momentary, one self entered at a time at random, 600 enterings at each society: the longest
+   going of one self through its own momentaries with no changing, and societies with a self at no changing at its last 40 momentaries
+      R  the resolver as written                                             longest   3   societies with a self stopped 0 of 1000
+      R2 the same, two parities released at no net changing                  longest   3   societies with a self stopped 0 of 1000
+      S1 one changing at each releasing arriving, released at a net changing longest 333   societies with a self stopped 664 of 1000
+      S2 one changing at each releasing arriving, each changing released     longest 332   societies with a self stopped 237 of 1000
+      S3 a changing at a parity surfacing, none at nothing arriving          longest 331   societies with a self stopped 827 of 1000
+      S4 the parity surfacing is the next parity, none at nothing arriving   longest 331   societies with a self stopped 1000 of 1000
