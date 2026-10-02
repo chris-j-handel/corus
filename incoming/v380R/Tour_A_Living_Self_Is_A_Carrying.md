@@ -198,3 +198,116 @@
 **Not a concern of cohering, and for both: the re-saying.** The files say tri *the society's* and *the social* at each file; the saying says tri the self releasing. Each such sentence is re-said at its own file's motion, the prior relation carried on beside it.
 
 **Six forward, offered.** A self arrives carrying, co. The others' releasings arrive at it, the between, bi. Its changing is or is not. The self releases, tri. Its releasing is the between, bi. Downstream a self arrives carrying it, co. Three at each span, each reaching the term the one before it did not carry.
+
+## Nothing arriving: the self's own momentarying, and no changing from arriving
+
+**The saying.** *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving.*
+
+**Followed at Exhibit ONE's names and its table of each cell; an offering, not yet chained six forward.**
+
+1. **Two changings, each at its from.** A changing from arriving: a parity arriving is the self's next carrying. The self's own momentarying: nothing arriving, the self changes at its own, to its opposite. At nothing arriving the second is and the first is not: no changing from arriving, and the self's own momentarying continuing.
+2. **The two names say the two.** 9-tri-bi-co-momentarying: releasing, through the between, from a carrying, no arriving in it, the self's own. 17-co-bi-tri-offering: arriving, through the between, from a releasing, the changing from arriving.
+3. **Each cell of the table at one sentence.** A parity arriving, the self's next carrying is that parity, a changing or, at its own parity, none; nothing arriving or a 0 arriving, the self's own momentarying, its carrying to its opposite. The working v380L reached the same sentence apart.
+4. **No stopping.** At this following a self at nothing arriving is changing at each momentary, and no society stops.
+
+**Parting, for both.** The saying is followed here as: no changing *from arriving*, the self's own momentarying continuing. Said the other way, the self's parity at no changing at all at nothing arriving, it is the saying the working v380L followed forward to a self or the society whole stopping. Its reason: the words carry both.
+
+## The bi-folding in the naming: one meaning said at two steps of its stable-forming
+
+**The saying.** *again there is the bi folding in the naming and explaining and it keeps recurring. no changing from arriving and nothing arriving have the same no different common meaning yet we are describing to different steps of stable forming the one common meaning. like the 2 over 1 3 over 2 2 over 1 alternating is 1 2 3 4 5 4 3 2 1 2 3 4 5.*
+
+**Followed at Exhibit ONE's names and its fives; an offering, not yet chained six forward.**
+
+1. **The parting of the part before this one is withdrawn.** *Nothing arriving* and *no changing from arriving* are one meaning, and the part before laid them as two sayings parting. They are two steps of one.
+2. **One meaning at three steps, tri, bi, co.** At the releasing self, not releasing, tri. At the between, nothing arriving, bi. At the receiving self, no changing from arriving, co. And the changing the same: releasing; arriving; a changing from arriving. Changing or no changing goes tri, bi, co, the session's *tri-bi-co-momentary*.
+3. **The bi-folding is each number said twice.** At Exhibit ONE's momentaries of exchanging the self's are 1–2, 3–4, and the other's 2–3, 4–5: each number is the completing of one and the opening of the next, 2 over 1, 3 over 2. One meaning at a number is said at two steps, the one before it and the one after.
+4. **1 2 3 4 5 4 3 2 1.** The self's five going out, 1 to 5, and back, to the next 1: eight steps, four out and four back, one span of eight, 9 the next 1. Out and back pair 4 with 6, 3 with 7, 2 with 8 and 1 with 9, each pair at ten, 5 at itself.
+
+**Not yet followed, for both.** The pairing at ten, 1 with 9 and 5 at itself, is none of Exhibit ONE's three, 8 up, 9 less and 17 less; whether it is a fourth or one of the three said at 1 to 9 is not followed. *2 over 1, 3 over 2, 2 over 1* is followed here as each pair of numbers one after the other; another following of it may be the session's.
+
+## The two parities of one momentary: tri-moral and bi-moral, each at co-competency
+
+**The saying.** *are the two parities in one momentary first arriving parity changing of no changing is tri moral co competency and second changing or no changing parity is bi moral co competency. explore this*
+
+**Followed at Exhibit ONE's names and rows; an offering, not yet chained six forward.**
+
+1. **Two names carry the root moralizing, 8 apart, and they are the two.** 14-bi-tri-bi-moralizing: the offerings surfacing at each sharing, a parity or the 0, the arriving changing or no changing; its name carries tri. 6-bi-co-bi-moralizing: the self's changing released across, a parity or the 0, the self's changing or no changing; its name carries co. The first is tri-moral, the second bi-moral with co.
+2. **First and second.** At the entry's own order the offerings surface at 14, then the changing is or is not at 12, then it is released, at 10 and the same at 6: the arriving first and the self's own second, the session's order.
+3. **Co-competency at both is the carrying.** Odd is competency's and co the arriving and carrying. The arriving at 14 is met at the carrying, 3-co-bi-co-sharing; the releasing at 6 is the carrying's own changing. And 5-co-bi-co-competencing is each release at its receiving, owned by neither.
+4. **The moralizing four-cycle is one momentary whole.** 3-11-6-14: the carrying arriving, 3; the carrying chained, 11; the changing released, 6; the offerings surfacing, 14. Two carryings, odd, co and tri, and two parities, even, bi with co and bi with tri: one momentary's in and out.
+5. **Each of the four four-cycles at one relation, offered from the rows.** Torusing, 1-9-8-16: the momentary and the between of momentaries. Corusing, 2-15-7-10: each parity, offered, carried along, released. Moralizing, 3-11-6-14: the carrying with its arriving and its releasing. Competencing, 4-13-5-12: each sharing, its releasing, its receiving, and the changing is or is not.
+
+**Not yet sure, for both.** The files say bi-moral at each of the four across, 2, 6, 10 and 14; *tri-moral* is said at the name of 14 alone, 14-bi-tri-bi-moralizing, and before the three prefixes 14-bi-tri-moralizing, Natural Illustrating carrying that older name. Each of the arriving and the releasing is at two names, one opening bi-co and one bi-tri: arriving at 2 and at 14, releasing at 6 and at 10. Followed here by the root, moralizing, the two are 14 and 6; by the two windings they are the society's, 10 to 14, and the other's, 6 to 2. One meaning at two steps, or two meanings: not yet followed.
+
+## The torusing loop and the corusing loop: the carrying's and the parity's
+
+**The saying.** *the words in the files have no authority. at best they make us look harder for the new improving value … keep going into the binary rigor as this is going to match the pattern natural torusing as the torusing loop is 9-tri-bi-co-momentarying sharing chaining and the corusing loop is bi-tri-bi parity sharing tunneling.*
+
+**Followed at each name's own relation in the resolving and at the numbers; the files' words beside it as a partner and no ground. An offering, not yet chained six forward.**
+
+**The binary.** Each odd name is at the torusing loop, the carrying's own going. Each even name is at the corusing loop, the parity's going.
+
+| | The torusing loop, odd, the carrying | The corusing loop, even, the parity |
+|---|---|---|
+| Sharing, the two meeting | 3, the carrying arriving, co | 4, each sharing the parities meet at, bi |
+| The four names of one root each, 9 to 12 | 9 momentarying and 11 chaining, each tri | 10 tunneling and 12 the parity changing, each bi-tri-bi |
+| Its going | 3 to 11 to the next 3, the self's own next; and 9 to 17, along to the next momentary | 14 surfacing, 12 changing or not, 10 released, the same at 6, arriving at another's 2 and 14 |
+| It comes to itself | at the same self, each momentary | through the other, a self's releasing arriving at another and the other's at it |
+
+1. **The saying's three and three are the names.** Momentarying, sharing and chaining: 9, 3 and 11, each odd. Parity, sharing and tunneling: 12, 4 and 10, each even; 12 was named the parity changing before it was named entraining.
+2. **Sharing is at both loops, 3 and 4.** The carrying at 3 meets the parities at each sharing, 4: the one place the two loops meet, the next discovered at it.
+3. **At the resolving each loop is one going.** The carrying given is the carrying given on, each changed parity entered in it, 3 to 11. The surfaced parities are the changing, is or is not, and the changing is the releasing, 14 to 12 to 10.
+4. **Odd and even, nine and eight.** 1, 3, 5, 7, 9, 11, 13, 15 and 17 are the carrying's: the self arriving, its carrying, each receiving, each parity as carried, the changing carried along, the carrying chained, each releasing, each parity as released, the next arriving. 2, 4, 6, 8, 10, 12, 14 and 16 are the parity's and the between's.
+
+**Crossed, and not yet sure.** The two roots named for the loops are at the other loop's parity: 7 and 15 carry the root corusing and are odd; 8 and 16 carry the root torusing and are even. Followed: 7 and 15 are the parity as the carrying carries it, the corus met at the torus; 8 and 16 are the carrying between two momentaries, the torus met at the between. Each loop named at the place the other meets it; or the two roots are at the wrong parity. Not followed far enough to say.
+
+**With the four four-cycles of the part before this one.** The four-cycle rooted torusing, 1-9-8-16, and the one rooted corusing, 2-15-7-10, are each two odd and two even names, a going out and back between the two loops; the two loops here are the odd names and the even names whole. Two relations, the loops and the four-cycles crossing them.
+
+## Six names, three and three: co-momentarying, tri-sharing, bi-tunneling; entraining, bi-sharing, co-chaining
+
+**The saying.** *co-Momentarying, tri-sharing, bi-tunneling Entraining, bi-sharing, co-chaining*
+
+**Followed at Exhibit ONE's names and the resolving's own order; an offering, not yet chained six forward.**
+
+1. **The six are six names of Exhibit ONE: 3, 4, 9, 10, 11 and 12.** The two sharings, 3 and 4, and the four names of one root each, momentarying, tunneling, chaining and entraining.
+2. **Each prefix said is the word beside the root in Exhibit ONE's name, five of five.** 9-tri-bi-**co**-momentarying; 10-bi-tri-**bi**-tunneling; 4-bi-co-**bi**-sharing; and at 11, tri-bi-**tri**, and at 3, co-bi-**co**. Entraining is said with none, 12-bi-tri-bi-entraining.
+3. **One thing differs: the roots at 3 and 11 are exchanged.** Exhibit ONE says 3-co-bi-co-sharing and 11-tri-bi-tri-chaining. The saying says co-chaining and tri-sharing: the carrying arriving, co, is the chaining, what was chained arriving; the carrying released, tri, is the sharing, the self's releasing. Sharing is then at 4 and 11, bi and tri, and chaining at 3, co.
+4. **The first three are the releasing, the second three the arriving and its changing.** Co-momentarying, tri-sharing and bi-tunneling: 9, 11 and 10, the changing carried along, the carrying given on, the changing released. Entraining, bi-sharing and co-chaining: 12, 4 and 3, the changing is or is not, each sharing, the carrying arriving.
+5. **Said from last to first, the six are the resolving's own order.** The resolving goes 3, 4, 12, 10, 11, 9: the carrying arriving, each sharing of it, its changing is or is not, the changing released, the carrying given on, each releasing carried to its receiving. The saying is that order from its last to its first: the from direction.
+6. **Forward, six.** Co-chaining, bi-sharing, entraining, bi-tunneling, tri-sharing, co-momentarying: three arriving and changing, three releasing.
+
+**Not yet sure, for both.** The exchange of roots at 3 and 11 is the one following at which each prefix agrees. The other following leaves the roots as they are and says each odd name at the word 8 up from it, momentarying co, sharing tri, chaining co, three of three. A carrying leaves as 11 and continues as the next 3, one carrying at two names: the two followings may be one meaning at two steps.
+
+## The six, 3 4 9 10 11 12: floating neutralling, six one-way, along and across balancing within
+
+**The saying.** *the six names 3 4 9 10 11 12 this is floating neturalling, not a cycling at all. this is six one way directions and both along parity and across parity are balancing somewhere inside this group of six.*
+
+**Followed at Exhibit ONE's names, its roots and its table of each cell; an offering, not yet chained six forward.**
+
+1. **Not a cycling, at the roots.** Four roots each root one four-cycle, competencing, moralizing, corusing and torusing, and they are the names 5 to 8 and 13 to 16. The six carry none of the four: sharing at 3 and 4, and momentarying, tunneling, chaining and entraining at 9 to 12. With the offerings, 1, 2 and 17, the six are each name of no looping root.
+2. **Six one-way.** The resolving goes through them once, 3, 4, 12, 10, 11, 9, and on to the next momentary; none is come to again within it.
+3. **Along and across, three and three, alternating.** 3, 9 and 11 are odd, along; 4, 10 and 12 even, across. Up the numbers the six alternate at each: 3, 4, 9, 10, 11, 12.
+4. **The balancing is at 12, the one name the saying said with no prefix.** At 12 the along parity, the carrying's own at 3, meets the across parity, the one arriving at the sharing, 4. The two alike: the 0, no changing, neither's. The two differing: a changing, and the one parity of it goes out both ways alike, across at 10 and along at 11, and along again at 9. Entraining is the neutral of the six, floating between two in and three out.
+5. **In, one along and one across; out, one across and along.** In: co-chaining at 3, bi-sharing at 4. The neutral: entraining at 12. Out: bi-tunneling at 10, tri-sharing at 11, co-momentarying at 9. The parity released across is the parity given on along, at each changing.
+
+**Withdrawn.** The part before this one said the six *forward, six* as one going and offered it for a cycling of six; it is six one-way and no cycling.
+
+**Not yet followed, for both.** Out is three and in is two, with 12 between: whether 9 is a third out beside 10 and 11, or the along of the two said again at the next momentary.
+
+## Four of the names' threes: two in, two different out
+
+**The saying.** *bi tri bi and bi co bi arriving. tri bi co (possibling next) and co-bi-tri (next exisiting) these four are two in two different out. momentarying is arriving carrying. entraining is geodesic releasing*
+
+**Followed at Exhibit ONE's names and the resolving's own three parts; an offering, not yet chained six forward.**
+
+1. **Six threes are at the seventeen names.** Co-bi-co at 3, 5 and 7; tri-bi-tri at 11, 13 and 15; bi-co-bi at 2, 4, 6 and 8; bi-tri-bi at 10, 12, 14 and 16; tri-bi-co at 9; co-bi-tri at 17 and 1. The saying's four are the last four.
+2. **The two in are the two across, each one three at both its ends.** The other's releasing arriving at the self, 6 to 2, each bi-co-bi. The self's releasing arriving downstream, 10 to 14, each bi-tri-bi. Two of two: an across carries one three from its releasing to its arriving.
+3. **The two out are the one along, a different three at each end.** 9, tri-bi-co, and 17, co-bi-tri, each the other said incoming. One of one: the along carries its three reversed.
+4. **The two out are the resolving's two further parts.** The resolving is three parts, named 1, 9 and 17. 9 carries each releasing to its receiving: what the others are offered next, the possibling next. 17 is each self at its next momentary, its carrying and its offerings: the next existing. Two different out, and each is a part of its own.
+5. **Momentarying is arriving carrying.** 9-tri-bi-co-momentarying does one thing: it carries each releasing to its arriving.
+6. **Entraining is the releasing.** What is released at 10 is what 12 made, the changing is or is not at each sharing, and no other thing: the releasing is the entraining given out. The self's own, by the nearest way: geodesic.
+7. **The two threes not among the four are the carrying's own.** Co-bi-co, arriving and carrying; tri-bi-tri, releasing. Neither in nor out: the self's own going from one to the other.
+
+**One meaning at two steps.** 17 was followed before as an arriving, and is said here an out, the next existing: the completing of this momentary and the opening of the next, one meaning.
+
+**Not yet sure, for both.** Bi-tri-bi is said arriving, and entraining, at 12, is bi-tri-bi and is said the releasing: followed here as one winding, the releasing and its arriving two steps of one. And *possibling next* at 9 and *next existing* at 17 beside the naming of is-still-possibling and is-next-existing at a momentary's opening and completing: not yet followed.

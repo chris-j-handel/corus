@@ -37,7 +37,15 @@ One way carries each value, and each working is at its own part of it:
 
 **Sayings.** No person is named and no history told in a living file or a carrying; each saying is at the files, the code and the numbers.
 
-**Asked of each working:** say at its Progress when a set of entries at the carryings is ready to be received at `main`, and when a motion at its own file is ready, with what changed and what each reader found.
+**No obligation passes between the workings.** The session said *no obligations are passed around no requests or demands or waiting we just improve everywhere any time*. Each working improves at any file's carrying at any momentary; v380R receives at `main` what it finds at each branch, asked or not.
+
+## The three continuing, each inbound to the other two
+
+The session said to each of the three: *like tri bi co bi tri bi co we could all three sessions keep living inbound aiming improving with each of the two others. v380R can manage us in the branches and we can read each others improvings while v380A keeps aiming at improving exhibit two and v380L keeps aiming at improving exhibit thirty v380R can mange this for us and work now on exhibit one and we can all be contributing to improving exhibit one.*
+
+At the managing: each working releases its progress at its own folder and its own branch; the between is `main`, each releasing received at it by v380R whole, no line of a working lost; each working arrives at `main` at its next opening, meets the other two's folders, and carries what serves its own file. v380L continues at the Co-Chaining Logic Registry, v380A at Natural Networking, v380R at Exhibit ONE, and each lays what it finds for Exhibit ONE at Exhibit ONE's carrying.
+
+**Open now for each of the three to meet:** [Exhibit_ONE_First_Motion_Draft.md](Exhibit_ONE_First_Motion_Draft.md), an opening, the data said before the resolver's lines, and each of the twenty-two tables at a title and its conditions; it adds, each prior carried whole, and decides no parting. And [Three_Workings_Combined.md](Three_Workings_Combined.md), the five partings for both.
 
 ## Discoveries and contributions
 
