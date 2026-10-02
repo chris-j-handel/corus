@@ -219,7 +219,7 @@
 **Followed at Exhibit ONE's names and its fives; an offering, not yet chained six forward.**
 
 1. **The parting of the part before this one is withdrawn.** *Nothing arriving* and *no changing from arriving* are one meaning, and the part before laid them as two sayings parting. They are two steps of one.
-2. **One meaning at three steps, tri, bi, co.** At the releasing self, not releasing, tri. At the between, nothing arriving, bi. At the receiving self, no changing from arriving, co. And the changing the same: releasing; arriving; a changing from arriving. Changing or no changing travels tri, bi, co, the session's *tri-bi-co-momentary*.
+2. **One meaning at three steps, tri, bi, co.** At the releasing self, not releasing, tri. At the between, nothing arriving, bi. At the receiving self, no changing from arriving, co. And the changing the same: releasing; arriving; a changing from arriving. Changing or no changing goes tri, bi, co, the session's *tri-bi-co-momentary*.
 3. **The bi-folding is each number said twice.** At Exhibit ONE's momentaries of exchanging the self's are 1–2, 3–4, and the other's 2–3, 4–5: each number is the completing of one and the opening of the next, 2 over 1, 3 over 2. One meaning at a number is said at two steps, the one before it and the one after.
 4. **1 2 3 4 5 4 3 2 1.** The self's five going out, 1 to 5, and back, to the next 1: eight steps, four out and four back, one span of eight, 9 the next 1. Out and back pair 4 with 6, 3 with 7, 2 with 8 and 1 with 9, each pair at ten, 5 at itself.
 
