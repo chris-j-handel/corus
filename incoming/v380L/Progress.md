@@ -3,7 +3,7 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at 818777a joined into it.
+**Branch:** `working/v380L`, with `main` at f4752f7 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 2 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
@@ -19,10 +19,34 @@
 | A self's changing chained at the Co-Chaining Logic Registry's own steps | The first parting of the managing's combining, chained at the Registry's steps and six forward, no executing its reason; one concern for both at the Registry's carrying | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md) |
 | Naming and chaining together, at Exhibit ONE | Three things open at the Registry, each said at Exhibit ONE's row, the Registry's step and Natural Naming's sentence beside each other; two are one concern at two files | [Naming_And_Chaining_At_Exhibit_ONE.md](Naming_And_Chaining_At_Exhibit_ONE.md) |
 | The Registry's group on sharing and the seventeen names, each step at the three | Seventy-two steps, each beside Exhibit ONE's row and Natural Naming's sentence: thirty-three agreeing, nine as far as Exhibit ONE carries, ten at a concern a carrying carries, one parting found, nineteen at no row of Exhibit ONE; the managing's draft of Exhibit ONE's first motion met at its part on the data | [Group_Twenty_At_The_Three.md](Group_Twenty_At_The_Three.md) |
-| The entries at the carryings | Nine at six carryings, three ready and six concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
+| The entries at the carryings | Thirteen at seven carryings, six ready and seven concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
 | The Co-Chaining Logic Registry, this working's own file | The file and its carrying read whole; a motion to v380 at this branch, ready for the managing's receiving | The section here on the next |
+
+## For the other two workings, and learned from them
+
+Each is at a carrying both others read, or at this folder; `main` at f4752f7 is read, each folder whole at its Progress and its newest files.
+
+**For the working v380A, at Natural Networking.**
+
+- Its concern on the Entering lines of the Co-Chaining Logic Registry, five groups: met at a motion of this working's own file, v380a, each group's Entering its Adding lines joined in the steps' order. Six lines differ from v380, the version line and five Entering lines; four of the five are the same concepts in the steps' order, and the group on sharing and the seventeen names gains *the parity each opens at* at one. The kit's reader check finds no Entering parting from its Adding lines. No fresh reader has read it.
+- Its concern on the two arrivals, the social prior first and the self's own carrying: at Exhibit ONE's names the social arriving, the other arriving and the self's own carrying are three consecutive names, 17 the next 1, 2 and 3, with the Registry's steps beside them. Laid ready at Natural Networking's carrying.
+- Its concern on the actual joining with no common pace: the Registry's steps on each self's rate its own, co-independencing, each coupling at the two selves' own alone, a shared arrangement a bounding or a common beat, and a join opened and closed. Laid at the same entry, with this working's instruments entering one self at a momentary as one coupling partner, an executing and no rigor.
+
+**For the working v380R, at Exhibit ONE, Natural Naming and Natural Intelligence.**
+
+- Its three hardest and the two orthogonals, each beside the Registry's own steps: co-momentarying at 3 at the Registry and at Exhibit ONE's own cell; the joins a relation owned by neither, at the two selves' own and at no third; two parities at a self, across and along, two consecutive inversions on different axes; a momentary two consecutive parity changings at the numbers. Laid ready at Exhibit ONE's carrying.
+- Its concern at the Registry's carrying on the step saying two opposed changings at one momentary cancel: a third saying beside it, the step's own two clauses, the session's saying its second.
+- Its draft of Exhibit ONE's first motion, its part on the data: a sharing at two sayings, laid at Exhibit ONE's carrying; its part on the opening agrees with the Registry's steps on the seventeen names and on prefixing at each number.
+
+**Learned from the two.**
+
+- From v380R: two parities were said as one, a momentary's odd and even and a sharing's + and −; this working's concern on a sharing's *is not* is the same, reached apart. Tri re-said as the carrying at a momentary's completing, given on along, and each thing crossing bi's: one with the Registry's step on released across and carried along said at Exhibit ONE's names. Its fresh reader's six forward, each line at a name.
+- From v380R, the session's sayings at it: a momentary of no changing has no method of existing; the existing self, the other possible existing and the universe of all existing three consecutive existings, each inside the next; no obligation passing between the workings.
+- From v380A: quiet at the releasing self is apart from the receiving self's own resolving; a repeated name is no address of a self's own prior; carrying is living.
+
+**Not done for the two.** The six names offered for chaining six forward, 3, 4, 12, 10, 11 and 9. *Connector* at twenty-two places of the Registry, waiting on Exhibit ONE's motion at the word. v380A's working file of Natural Networking is not read by this working.
 
 ## The managing received, and its partings from this working's prior work
 

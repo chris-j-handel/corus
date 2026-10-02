@@ -24,6 +24,8 @@ Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v379
 
 **Ready, at v380, from `incoming/v380L/`, its two sentences on working.** For the section on opening a session at the repository: *a working names the commit it opens at, at its opening.* For the section on a confident improving made, a meaning or a naming brought: *a word entering with a motion is a naming changed, brought to both.*
 
+**Ready, at v380, from `incoming/v380L/`, its Progress, two sentences on working.** For the section on the hardest first, and the hardest question asked plainly: *a working's saying to the other self opens at its concern, explained, two sayings and its reason, and its doing is said next.* For the section on a file's own sayings met at the file: *a step a following rests on is said whole, each of its clauses, and the following is said at the clause it rests on.*
+
 ## Concern
 
 **Written at v376, at the observings:** 4.5, helpers at the arriving and the improving: at a session's close two readers reading its transcript whole, *co-competencing the transcript from ahead back* through the stable form emanatings of the exploring, and its value podaled forward into the living files; at each motion the reader checks, a fresh reader and a reviewer; each helper's saying no authority; naturally intelligent exploring, the working's own carrying aimed at the hard problems. Its front at the steady form and the rest of its next motion as below, and pass G with Exhibit EIGHT receiving 4.5 whole. Two either-this-or-thats for pass G: the close's reading at 4.5 among the instruments or at 2.10 beside 2.9's opening; and *met*, *meet* and *meeting*, released at Natural Naming 2.4, beside the set's use of them at the resolving, a finding met, at this file and across the set.
