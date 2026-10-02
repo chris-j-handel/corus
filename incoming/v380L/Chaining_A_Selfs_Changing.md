@@ -1,8 +1,8 @@
 # A self's changing, chained at the Co-Chaining Logic Registry's own steps
 
-**Standing:** arriving, an offering for both. No living file is changed. Each line is a step of the Co-Chaining Logic Registry v379 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*.
+**Standing:** arriving, an offering for both. Each line is a step of the Co-Chaining Logic Registry v380 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*.
 
-**Read:** the Co-Chaining Logic Registry v379, whole, at `main` 048e21d; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
+**Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, and at its motion to v380 at this branch, each step named here the same at both but the one at step 451; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
 
 ## The test, at the Registry's own steps
 
@@ -16,13 +16,13 @@
 
 **The first saying: at nothing arriving, a self is at no changing; a releasing arriving is its changing.** It is a self at one parity with nothing offered. Step 308 names that form the method's break, and step 46 a fixed form, a form named still. At a self nothing arrives at, the saying fixes at its first step, short of the six. It is no method of the changing set: step 1, each existing thing changing.
 
-At the releasing self the same words are the Registry's own: step 451, *a changed parity retained or emanated*, the momentary at 0 emanating nothing and the changed parity released. The saying parts from the Registry at the receiving self alone.
+At the releasing self the same words are the Registry's own: step 451, *a parity arriving from a changing, retained or emanated*, the momentary at 0 emanating nothing and the parity at its changing released. The saying parts from the Registry at the receiving self alone.
 
-**The second saying: a self changes at its own at each momentary, and a parity arriving changes it again or agrees with its changing.** It is the Registry's own at three steps: step 57, the prior inverted alone; step 208, *with nothing offered the self carries its prior into now inverted*; step 212, the binary at each sharing.
+**The second saying: a self is changing at its own at each momentary, and a parity arriving is changing it again or agreeing with its changing.** It is the Registry's own at three steps: step 57, the prior inverted alone; step 208, *with nothing offered the self carries its prior into now inverted*; step 212, the binary at each sharing.
 
 ## The binary at a sharing, said as one agreement at two places
 
-Step 205 says the offerings at 14: agreeing, one parity; one disagreeing, 0; none offered, none. Step 212's six clauses are the same agreement one place on, at 12, between the self's own prior inverted and the offering surfaced at 14:
+Steps 204 and 205 say the offerings at 14: agreeing, one parity; one disagreeing, 0; none offered, none. Step 212's six clauses are that agreement one place on, at 12, between the self's own prior inverted and the offering surfaced at 14:
 
 | At the sharing | The self's own, its prior inverted | The offering surfaced at 14 | At 12 | Step 212's clause |
 |---|---|---|---|---|

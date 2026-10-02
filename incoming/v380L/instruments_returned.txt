@@ -153,7 +153,7 @@ INSTRUMENT 13. The resolver's own conditions, each if with the names at it; and 
    at  1, a condition at the names [7, 15]
    at 17, a condition at the names [4, 5]
    a join passing a parity alone: each self's carrying the same at each momentary at 2000 of 2000 societies
-   of 345160 releases, 303159 a parity; released a parity and the chained parity changed, together: 303159; one without the other: 0
+   of 345160 releases, 303159 a parity; released a parity and the chained parity changing, together: 303159; one without the other: 0
 
 INSTRUMENT 14. The order 12, 11, 10, and the zero said as two changings. Random cases at one self: one to three sharings,
    each chained at a parity or at none, none to three offerings at each. Random societies as at instrument 13.
@@ -171,7 +171,7 @@ INSTRUMENT 15. Two selves, each carrying + at one sharing, each releasing to the
    together
       self 1: own  none  own  none  own  none
       self 2: own  none  own  none  own  none
-   one and the other in exchange, self 1 first
+   one and the other alternating, self 1 first
       self 1: own  none  arriving  own  none  arriving
       self 2: arriving  own  none  arriving  own  none
    at random pacings: changing at its own 74572, changing to the parity arriving 11027, no changing 10401
