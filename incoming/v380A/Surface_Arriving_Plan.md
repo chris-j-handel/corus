@@ -1,6 +1,6 @@
 # Beginning a surface through arriving
 
-**Standing:** concrete preparation for Natural Networking; no new surface or perturbation executed. Current public results remain the bounded reciprocal pair. No natural birth, complete network activation, geodesic tunnelling or social moral competency is established here.
+**Standing when this preparation was written:** no new surface or perturbation had been executed. The subsequent bounded construction is at Surface_Construction.md; this prior preparation and its limits on a natural-surface claim remain whole. Current public results remain the bounded reciprocal pair. No natural birth, complete network activation, geodesic tunnelling or social moral competency is established here.
 
 ## The other workings since the resting
 

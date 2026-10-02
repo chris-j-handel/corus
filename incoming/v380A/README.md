@@ -106,3 +106,8 @@ The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the
 ## Beginning the surface through arriving
 
 [Surface_Arriving_Plan.md](Surface_Arriving_Plan.md) records the fresh receiving after resting: neither other working has published a change. It specifies how public arriving can open participation and how a later perturbation enters the same continuing, with no private prepopulation or copied comparison. The exact surface receiving procedure remains to be expressed; no wider surface or perturbation is claimed executed. Incoming “Each self continuing through its own carrying” receives this preparation, with the whole prior preserved.
+
+
+## The first bounded surface has run
+
+[Surface_Construction.md](Surface_Construction.md) carries the actual three-by-five construction and its first returned [public record](Surface_Public_Reading.json). The full current society expression is unchanged, own carrying remains unobserved, and the supplied grouped activation is explicit. Public parity reaches each designated receiver. The later external minus meets already parting parities and adds no new surfaced alternative at that receiving. This useful local finding guides the next perturbing; no independent natural pacing or whole-surface competency is claimed.

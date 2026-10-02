@@ -998,6 +998,8 @@ Each reading is a sign: is or is not, present or absent or captured, recognized 
 
 **Co-competency is followed at the participating selves together.** Neither a representative self nor an account of all their hidden carryings supplies the society's discovering. The relation continues at each receiving, with each self's carrying its own.
 
+**A bounded surface discovering carries its supplied receiving with its finding.** Each self's own continuation stays at the self while released parity arrives through the declared couplings. The software expression's grouped stepping is said at that stepping, and no independent natural pacing follows from it. A further parity offered into already parting arrivings adds no new surfaced alternative there: parting remains parting, with no vote or balance counted. Follow the actual arriving and further releasing before attributing a changing to the perturbing. This discovering neither inspects carrying nor establishes the society's competency from public reach alone.
+
 ## 6.6 A run deceives as an accounting, four ledgers, the alternating the honest instrument
 
 Each deceiving of a run is one accounting at four ledgers. **A side taken as a vantage**: the probe, the frame stood outward, the reading from a place nothing is at. **A sequencing named to one beat**: the clock, the shared beat that forms the hub it then reports. **A sign named as a magnitude**: the magnitude, the quantity fixed as the standard. **And a bound named as a last**: the window, a run length taken as the whole running.

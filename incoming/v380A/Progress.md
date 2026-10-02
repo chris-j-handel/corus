@@ -8,7 +8,7 @@
 **Updated:** 2 October 2026, UTC; continuing coupling, do-no-harm readings and social moral competency offered.  
 **Continuing from:** `working/natural-networking-2026-10-01` at `8123ea7fa5901254ad7880a3629173b0cb16e4ee`.  
 **Sources:** original duplicate from main `a9c4d1e12b04ed8dee225f8f3ab27196cba4b935`; v379 reviewed at `d77df0dc0aa6f5c07a707761d584187f190aade8`; current main received at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`.  
-**Standing:** incoming improving with the first bounded reciprocal software pair now executed; the complete natural-network surface remains open. Root living files and published kits are unchanged. Latest receiving and exact limits are below.
+**Standing:** incoming improving with a bounded reciprocal pair and the first bounded grouped software surface executed; the complete natural-network surface remains open. Root living files and published kits are unchanged. Latest receiving and exact limits are below.
 
 ## Floating neutralling contents
 
@@ -232,3 +232,23 @@ This working's immediate contribution to Natural Resolver is now concrete: the e
 The fresh and harm readings found no concrete departure in the incoming preparation at their scope. The new-sharing source conditions agree; the prior section's private continuing, positive participation and complete-society competency remain. The reviewers explicitly retain the unimplemented own receiving and the absence of any guaranteed changed response to the proposed perturbing offering. Their reports are at reviews/Fresh_Reading_Surface_Arriving.md and reviews/Harm_Reading_Surface_Arriving.md.
 
 Preservation checks confirm one complete paragraph added, the whole prior section retained, other workings' entries unchanged, and root living files, kits and existing public results unchanged. The carrying check reports its structural standing without an issue. The plan, incoming paragraph and carrying entries are ready for the managing to receive; no whole living-file motion, larger surface execution or completed geodesic discovering is claimed. The next work is the actual receiving procedure named at the plan, before a filled-surface claim.
+
+
+## Work proceeding now: first bounded surface
+
+**Correction to our stopping:** this work did not require further user help. The v375 Session Record already carries the code's grouped stepping beside the living's own rates, and Natural Intelligence's “φ and the primes, unrelationing at the numbers” and “A society's next momentary at 17” repeat the distinction. The earlier surface plan's limit on a filled natural-surface claim was too broadly treated as a stop on all larger bounded experiments. That limited claim remains open; this narrower construction can proceed with its supplied conditions.
+
+**Changed and executed:** participating_surface.py uses the complete unchanged current Resolver expression and its society entry. Three by five periodic wiring uses six left to two, ten right to fourteen and nine along to the next row's seventeen. One enclosing closure contains the society representation with fifteen initially independent empty continuations. Only ordinary arriving fields are exposed for recording or external insertion. Sixteen grouped invocations supply activation even with empty arrivals; a plus before the first and minus before the seventh are declared external offerings on one proceeding. The final next arrivals are undelivered. Both fresh and harm readers found no pre-run blocker at that exact scope. The first run is preserved whole at Surface_Public_Reading.json.
+
+**Found:** every designated receiver received nonzero public parity before the later external offering. This establishes public reach within the constructed surface, not private fullness or a natural surface. At the selected perturbing receiving, plus, plus, minus had already arrived; the further minus adds no new surfaced alternative. The source surfaces parting parities as zero without counting. No perturbation-specific later effect is claimed. Public handoffs were checked against the next invocation plus declared insertion; the source hash matches. No private carryings, twins or hidden traces were inspected or compared.
+
+**Learned about working:** a limitation on one claim must not become an unnecessary stop on a narrower useful investigation. The user need not resolve an implementation choice already available within the expedition's stated scope. An added parity may be redundant at an already parting receiving; the next perturbation must be followed at the actual public surfacing relation instead of being assumed effective. The original fresh/harm readings preceded the run and retain that scope; their later returned-result readings, where completed, are appended separately to the same reports.
+
+**Next:** follow a different surfaced condition through a declared public arriving on a continuing proceeding, preserving this first result. Independent natural pacing, the complete numbered travelling correspondence and actual social moral competency remain opportunities. The bounded surface does not decide them or test the resolver method. No main or other working's living file was changed.
+
+
+## Bounded surface: ready for the shared receiving
+
+Both pre-run readings found no blocker to the declared construction. The later fresh reading verified the public reach, source hash, all public handoffs and the already-parting perturbation; the harm reading checked the selected public entries and the whole prior/current section, with its narrower reach stated. Neither found a post-run publication blocker. No independent natural pacing or method proof was supplied by either reading.
+
+The incoming paragraph, new instrument, complete public return, readies, corrected scope and report are ready for the managing's receiving. The kit integrity check passes. Preservation checks confirm the whole prior section, other workings' entries, root living files, published kits and old pair are unchanged; the working kit adds only its new instrument and changes its own README and checksum manifest. The natural surface's fuller correspondence remains open alongside this completed bounded execution.
