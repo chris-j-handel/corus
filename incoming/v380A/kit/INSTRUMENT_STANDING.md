@@ -46,3 +46,8 @@ A conforming participating construction is not present merely because the refere
 ## Later bounded reciprocal construction
 
 `participating_pair.py` is separate from the historical instruments above. It has executed once using Natural Resolver v379's current local expression, loaded unchanged from the root. Each self's continuation stays within its receiving closure; the return and journal contain only public offerings and releases. The declared empty beginnings, external opening, caller-supplied alternating activation including after zero, and finite execution boundary remain part of its result. No conforming whole-society caller, natural birth or clockless surface is established. The full standing is at `../Participating_Pair.md` and the raw public return at `../Pair_Public_Reading.json`.
+
+
+## Later bounded surfaces and their interventions
+
+The first surface and three subsequent variants use the complete v379 expression from the root, the society entry's grouped invocation and one enclosing closure whose own-continuation fields are not inspected. Only public arriving fields are recorded or supplemented. One variant changes the public joining map; it does not mutate a carried value. Each executed once with its own declared empty beginning, supplied openings and finite boundary. Their raw returns, public-only checks and actual review scopes stand at Surface_Construction.md and Perturbing_Cases.md one folder above. Recorded public-output agreement is not whole-state comparison or a claim of private equality. A missing join is not represented by a quiet release or by deleting a self.

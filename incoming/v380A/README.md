@@ -111,3 +111,8 @@ The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the
 ## The first bounded surface has run
 
 [Surface_Construction.md](Surface_Construction.md) carries the actual three-by-five construction and its first returned [public record](Surface_Public_Reading.json). The full current society expression is unchanged, own carrying remains unobserved, and the supplied grouped activation is explicit. Public parity reaches each designated receiver. The later external minus meets already parting parities and adds no new surfaced alternative at that receiving. This useful local finding guides the next perturbing; no independent natural pacing or whole-surface competency is claimed.
+
+
+## Further perturbing at its actual relation
+
+[Perturbing_Cases.md](Perturbing_Cases.md) receives three further bounded constructions: changed surfacing with matching gathered outputs, adjacent openings with quiet releasing, and one changed joining retaining previously gathered arrivals. Each has its own complete public record and supplied conditions. The incoming exhibit receives their different subjects. [Surface_Receiving_Map.md](Surface_Receiving_Map.md) receives the existing opening/completing placement and maps actual public occurrences. The remaining session contribution concerns which independently arriving releases meet one completing rather than successive completings; it is already at Natural Resolver's carrying.
