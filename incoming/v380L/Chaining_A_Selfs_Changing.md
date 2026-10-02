@@ -71,6 +71,20 @@ The saying is one with the four: the first and the second are two parities and n
 
 **What does not resolve, for both.** Exhibit ONE's names part the two arrivings: 17-co-bi-tri-offering, along, its sides *social, self*, and 2-bi-co-bi-offering with 14-bi-tri-bi-moralizing, across. Exhibit ONE's resolver carries one parity at a sharing, and each releasing, along at 9 and across at 6 and at 10, arrives at the receiving self as one gathering of offerings surfacing as one at 14: the tri arriving and the bi arriving are at one line, neither first, and one *is or is not* follows. The two sayings: the resolver carries the two orthogonals as two, the along arriving first and the across second, each a changing or none, a sharing at two parities; or the resolver's one parity at a sharing is as it is, and the two orthogonals are at the names and the numbers alone. Its reason: the Registry's steps on the pair say two parities at a self, and its steps on the resolver say one at a sharing.
 
+## A sharing said as a place with a value given to it: this working's own saying, withdrawn
+
+**The session's saying.** *what does this mean. resolver gives each sharing one parity. this is a foreign concept to natural explaining and may be the source of your misunderstanding.*
+
+**Withdrawn.** This working said *the resolver gives each sharing one parity*, and followed each arriving, along and across, as arriving at that one. The saying carries a giver over the sharing and a value at a place: a doer and a store, each beside all existing things. No file says it.
+
+**The files' own words.** Step 191: *A sharing is two sides sharing a changing, and each sharing has its parity*. Step 100: parity is *the two sides at their difference, each everything the other is not, owned by neither*. Natural Naming: *At a sharing, its parity is the code's + or −, the code's implementing*. Step 214: next is discovered *one sharing 4 at a time*.
+
+**What follows, an offering.** A sharing is of two sides. The self with the social, along, and the self with the other, across, are two sharings, each at its own two sides and its own difference: two parities at a self, the pair of step 186. One sharing at a time, the two are met one and then the other at one momentary. The two orthogonal parities arriving, tri and bi, are at two sharings, and nothing gathers them at one.
+
+**Where the one came from.** Each table of Exhibit ONE at a self is at one sharing, and each society this working followed was at one sharing: the along arriving and the across arriving gathered at it by the table's own condition, and by no saying of the files.
+
+**Not done.** A self at two sharings, the one along and the one across, is at no table of Exhibit ONE and is not followed here.
+
 ## Bearing on other concerns
 
 - **The 0 at 14, at Natural Naming's carrying.** By the table, 14's 0 is the others' offerings parting, and the 0 at 12 is at the self's own parity and the others' surfaced parity.
