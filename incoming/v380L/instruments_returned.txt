@@ -141,3 +141,16 @@ INSTRUMENT 12. The resolver's functions: each name as received, a parameter of t
       13 is read at a for from [16]
       15 is read at a for from [4, 5, 6, 9, 10, 13]
    the even names: 2 bi-co-bi; 4 bi-co-bi; 6 bi-co-bi; 8 bi-co-bi; 10 bi-tri-bi; 12 bi-tri-bi; 14 bi-tri-bi; 16 bi-tri-bi
+
+INSTRUMENT 13. The resolver's own conditions, each if with the names at it; and societies followed two ways, the zero
+   delivered at a join as written, and the zero held at the join, a parity alone passing. Random societies:
+   two to six selves, one to three sharings, joins at 6, 10 and 9 at random, carryings and first offerings
+   at random, twenty-four momentaries each.
+   at  1, a condition at the names [7]
+   at  1, a condition at the names [7, 15]
+   at  1, a condition at the names [7]
+   at  1, a condition at the names [15]
+   at  1, a condition at the names [7, 15]
+   at 17, a condition at the names [4, 5]
+   the zero held at the join: each self's carrying the same at each momentary at 2000 of 2000 societies
+   of 345160 releases, 303159 a parity; released a parity and the chained parity changed, together: 303159; one without the other: 0

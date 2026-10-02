@@ -3,13 +3,13 @@
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
 - **To**: Natural Naming, Natural Numbers, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
 - **Read at**: `main` at commit bdbe12d. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its three files. Read at the sections named here: Natural Intelligence v379 and the Co-Chaining Logic Registry v379.
-- **What it brings**: eighteen findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **What it brings**: nineteen findings, each at a table, at the resolver's lines or at a file's own sentence; five entries at four carryings, two ready and three concerns for both; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
 - **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`.
 - **Standing**: *arriving*. No living file is changed.
 
 ## The instruments
 
-`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries twelve instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
+`instruments.py` is at this folder with its returned text, `instruments_returned.txt`. From the repository's root: `python3 incoming/v380L/instruments.py`. It carries thirteen instruments, each said at its opening, each at Exhibit ONE's resolver as written or at the living files' own words. Each society is said with its selves, its carryings, its joins and its momentaries, and a result at a society is that society's alone. A result is a coupling partner and decides nothing.
 
 ## The findings
 
@@ -58,6 +58,8 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 18. **Exhibit ONE, the resolver's lines: received and made, beside the even names' prefixes.** At the entry's lines each name received is a name of 1 to 8: 3 and 2, with 4 and 7 their parts. Each name made is a name of 9 to 16: 14, 15, 12, 10 and 11. The entry receives the prior momentary and makes this momentary's parity changing; 4 and 7 read the release at 10 also, at its chaining. At the lines of 17 the names made are 8 and 6, each going on to the next momentary, with 10 and 14; 16 is received. At the eight even names: 2, 4, 6 and 8, bi-co-bi, are received from the prior momentary or go on to the next; 10, 12 and 14 at the entry, bi-tri-bi, are the parity changing made at this momentary. Two places part: 16, bi-tri-bi, is the society received from its prior momentary; and 14 at the lines of 17 carries the next momentary's offerings. Instrument 12.
 
+19. **Exhibit ONE, the resolver's lines: each condition, and the zero at a join.** The resolver carries six conditions. Five are at the entry's lines, each at a parity, 7 or 15: at 14, an offering a parity or a zero, a first parity or a parity parting from it; at 12, the surfaced parity one with the chained parity or not; at 11, the release a parity or a zero. One is at the lines of 17: a join is or is not. No condition is at a join's own passing: a join passes each release, the zero among them. A zero arriving changes nothing at 14, and with the zero held at the join, a parity alone passing, each self's carrying is the same at each momentary at 2,000 of 2,000 societies. At each release of a parity the chained parity changes with it, 303,159 of 303,159, and neither is without the other: at a changing the one parity is at two places, chained at 11 and released at 10; at no changing, at neither. Instrument 13, at its societies alone for the two numbers.
+
 ## The entries at the carryings
 
 Each names this folder. Two are ready, a sentence entering with no meaning changed; three are concerns for both, each two sayings parting with its reason.
@@ -70,7 +72,7 @@ Each names this folder. Two are ready, a sentence entering with no meaning chang
 | The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
 | The Living File Registry's | Ready: this working's row for the table of workings | |
 
-At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17 and 18 are at this folder alone, 18 bearing on the managing's first.
+At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17, 18 and 19 are at this folder alone, 18 and 19 bearing on the managing's first.
 
 ## Bearing on concerns other workings carry
 

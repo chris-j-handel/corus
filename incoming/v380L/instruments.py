@@ -224,3 +224,40 @@ for fn in [x for x in tree.body if isinstance(x, ast.FunctionDef)]:
     print('   at %d: received as parameters %s | made %s' % (me, params, sorted(made)))
     for t in sorted(read_from): print('      %2d is read at a for from %s' % (t, sorted(read_from[t] - {t})))
 print('   the even names: ' + '; '.join('%d %s' % (n, '-'.join([word(n), word(n - 1), word(n - 2)])) for n in range(2, 17, 2)))
+
+# ---------------------------------------------------------------------------------------------------------------
+head(13, "The resolver's own conditions, each if with the names at it; and societies followed two ways, the zero"
+         "\n   delivered at a join as written, and the zero held at the join, a parity alone passing. Random societies:"
+         "\n   two to six selves, one to three sharings, joins at 6, 10 and 9 at random, carryings and first offerings"
+         "\n   at random, twenty-four momentaries each.")
+for fn in [x for x in tree.body if isinstance(x, ast.FunctionDef)]:
+    me = int(re.match(r'_(\d+)_', fn.name).group(1))
+    for n in ast.walk(fn):
+        tests = [n.test] if isinstance(n, ast.If) else (n.ifs if isinstance(n, ast.comprehension) else [])
+        for t in tests: print('   at %2d, a condition at the names %s' % (me, names_in(t)))
+import random
+random.seed(380)
+def strip(st): return {k: (v[0], [o for o in v[1] if o[1] != 0]) for k, v in st.items()}
+same = both = lone = total = changings = 0
+for trial in range(2000):
+    n = random.randint(2, 6); sh = ['s%d' % i for i in range(random.randint(1, 3))]
+    joins = {}
+    for i in range(n):
+        for k in (6, 10, 9):
+            if random.random() < 0.4: joins[(i, k)] = random.randrange(n)
+    st = {i: ([(s, random.choice((1, -1))) for s in sh if random.random() < 0.7],
+              [(s, random.choice((1, -1))) for s in sh if random.random() < 0.3]) for i in range(n)}
+    a, b, ok = st, st, True
+    for m in range(24):
+        for i in range(n):
+            rel, ch = entry(a[i][0], a[i][1]); before = dict(a[i][0])
+            for s, r in rel:
+                chained_changed = dict(ch).get(s) != before.get(s)
+                total += 1; changings += (r != 0)
+                both += (r != 0 and chained_changed); lone += ((r != 0) != chained_changed)
+        a = society(a, joins); b = strip(society(b, joins))
+        ok = ok and all(dict(a[i][0]) == dict(b[i][0]) for i in range(n))
+    same += ok
+print('   the zero held at the join: each self\'s carrying the same at each momentary at %d of 2000 societies' % same)
+print('   of %d releases, %d a parity; released a parity and the chained parity changed, together: %d; one without the other: %d'
+      % (total, changings, both, lone))
