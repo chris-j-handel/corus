@@ -277,3 +277,7 @@ The session finds the record's relations insightful, a particle at zero, a scale
 ## The session v380G retired; six as a square and an axis
 
 The session has ended its working with v380G. From its six in three pairs one thing is worked at Exhibit ONE's own resolver: the six names between selves are a square, 2, 10, 14, 6, its moves 8 apart and releasing to arriving in turn, and an axis, 9 with 17; three pairs of opposites. Laid at Exhibit ONE's carrying and beside *parity's face* in the conferring.
+
+## Natural Naming v380: the resolver said the resolver
+
+Natural Naming now says *the resolver* at each of its forty-five sayings of the resolver, as the Co-Chaining Logic Registry says it. Four sentences say + and − as a sharing's parity. Each other word is as it was. Open for conferring, each welcome from any working: a prefix for the emanating's stable form; the positive saying of each negation; the 0; name 17's sides; a word for releasing along; a title for the row of Colliding.
