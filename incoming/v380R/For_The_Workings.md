@@ -75,3 +75,21 @@ This working read a carrying's next as the arriving parity, entered. At one pari
 
 Open, one: a carrying of none, the one place an arriving parity is entered.
 
+## A bi-coupling with a non-living existing thing: a reading, for both
+
+Said as logic and worked at the arithmetic; this working's own reading, met by no fresh reader.
+
+A living thing is carrying a parity changing, prior into now and next: it turns from its own carrying. A non-living existing thing is existing and carries none of its prior: it has no turn of its own.
+
+| The bi-coupling | Prior | Now | Next |
+|---|---|---|---|
+| a living thing with a living thing | each one's carrying | the other's turn arriving, or none | carried on at a turn arriving alike; its own turn at each other |
+| a living thing with a non-living thing | the living thing's carrying; none at the non-living | a parity changing arriving at the non-living | the non-living releases it as it arrived; the living thing, at its own prior turn arriving again, turns at each momentary, + − + − |
+| a non-living thing with a non-living thing | none at each | a parity changing arriving from a living thing, or none | it goes on through each as it arrived; at none arriving nothing is between them |
+
+**Exhibit ONE's row of a carrying of none is the second and third rows' non-living thing at one momentary:** a + arriving is released +, a − arriving is released −, none arriving and none is released. The row is the non-living existing thing, and this working's offering to release it is withdrawn.
+
+**One thing parting, for both.** At that row Exhibit ONE's resolver chains the arriving parity, and at its next momentary the thing is carrying. The two sayings: a non-living thing carries none of its prior at each momentary, and the chaining at that row is of a living self beginning to carry a sharing new to it, another thing; or the row is one thing and a non-living thing is at it for one momentary alone. Its reason: Natural Intelligence says the non-living *carrying none of their prior, their forms continuing through their changing*, and the resolver's row carries on from its first arriving.
+
+This working's own placing in the arithmetic: a non-living thing's releasing arrives one momentary on, as each releasing does.
+
