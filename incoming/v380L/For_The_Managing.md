@@ -149,3 +149,15 @@ The seven things of Exhibit ONE at no sentence, each with a sentence offered, an
 
 Each of the five sentences that are the claim is said. Each thing worked at each of its cases is of the numbers or of the resolver. One link is between them.
 
+## Sixteen. The proving down the numbers, worked and entered
+
+The session offered the proving: bi-inversioning co-recursioning down the numbers, through the universe, the other and the self, to one and its other parity. Worked at the Registry's own round, step 171, each number at one to six parities, and entered at v380l as steps 618 to 620:
+
+- **Each next number is one parity inverted, and each podal is the parity new at its scale, inverted alone:** 17 less the fourth, 9 less the third, 5 less the second, 3 less the first, 1 and 2.
+- **Each face of the one move is one parity inverted, or two in sequence:** 8 up is the third and the fourth, 9 less and 17 less in sequence.
+- **Each round is two of the round under it,** the same forms in the other order, the new parity inverted at the join, down to 1 and 2.
+
+A fresh reader built the round by hand and checked each number; its findings are mended. This working first worked the proving at a numbering of its own, each thing one place of a number at twos, and a fresh reader broke it: that numbering is at no step. At the Registry's own round the podal is one parity alone.
+
+**What it reaches, and the one thing yet said and not worked.** The three steps are of the round of joint forms: the same one inversion at each scale, down to one. That the set of all existing things goes by this round, one parity at a momentary, is said at steps 42, 45 and 170 and is worked at no case. It is the same one link as the status names, from each coupling of two to the set.
+

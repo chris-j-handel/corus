@@ -39,6 +39,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 - 33 The forms among the names
 - 34 A self and selves joined, at the resolver
 - 35 The rotation at 12 and 14, the further forms' moves of 4 about their centres, names two moves apart, the sixteen ways at one changing, and a next at itself again
+- 36 The round's podals, one parity at each scale down to one
 
 ---
 
@@ -2685,3 +2686,19 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 617. At the numbers a next joined from the now and the prior, each as it is, inverted or not joined, one at least joined, is at itself again at one, two, three, four or six, or never: the now alone, the prior lost, at one, and inverted at two; the prior alone at two, and inverted at four, the living step, steps 57 and 186; both inverted at three; the now as it is and the prior inverted at six; never at both as they are, the numbers 1, 1, 2, 3, 5, 8, step 120, and never at the now inverted and the prior as it is; and not one of the eight at five.
 
         *Adding: a next from the now and the prior at itself again at one, two, three, four or six.*
+
+## 36 The round's podals, one parity at each scale down to one
+
+        *Entering: each podal of the round the parity new at its scale, inverted alone; each face of the one move one parity inverted, or two in sequence; each round two of the round under it, down to 1 and 2.*
+
+618. At the round of step 171, the forms of k parities at the numbers 1 to 2^k, each next number is one parity inverted, and each number's podal is the parity new at its scale, step 171, inverted alone: at 1 to 16, 17 less the fourth parity; at 1 to 8, 9 less the third; at 1 to 4, 5 less the second; at 1 to 2, 3 less the first, 1 and 2. A number's odd or even, steps 77 and 264, is its inverted parities even or odd in number.
+
+        *Adding: each podal of the round the parity new at its scale, inverted alone.*
+
+619. At the round at four parities, at 1 to 8, 8 up is the third and fourth parities inverted, 9 less and 17 less in sequence, the two inversions of step 256 at two parities; 8 up and 17 less in sequence are 9 less, 1 to 9 to 8 of step 255; at 9 to 16, 17 less and 9 less in sequence are 8 down, the same two. Each face of the one move is one parity inverted, or two in sequence.
+
+        *Adding: each face of the one move one parity inverted, or two in sequence.*
+
+620. Down the numbers each round is two of the round under it, step 171: at four parities the round at three and the same forms in the other order, the fourth parity inverted at the join; at three, the round at two; at two, the round at one; at one parity, 1 and 2, one form and the same form at the other parity. At 1 and 2 the two are a coupling's two parities, steps 40 and 42, and at 1 to 16 the self's and the other's, step 172.
+
+        *Adding: each round two of the round under it, down to 1 and 2.*
