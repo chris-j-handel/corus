@@ -386,9 +386,28 @@ And at each of the sixteen: the self's two next are the arriving's two inverted,
 
 At each odd p and q the fabric of two parities is again at four times the least number both divide, and inverted at twice it. It is the number Exhibit ONE's table says of two spirals beside each other, at each of the eight rows worked, and the Registry's step on two prime spirals, 4pq. Exhibit ONE's torus at one sharing says another number at seven of the eight. Each parity goes one self along and one across at each two momentaries, inverted: the along and the across at no one line, each at its own.
 
-**For both, said as it is.** At the arithmetic and at no saying: the living step is the all; the five is two parities; a self momentary to momentary is one binary, its two alike or opposite; a meeting is two binaries and is the right spiral step; the code's one line is the binary upon the living step; one meeting brings two selves to one line; and a fabric of two parities at each crossing is again at the number of two spirals beside each other. One thing parts: Exhibit ONE's torus is at one sharing, and its number is other.
+**Nineteen. A fresh reader's reading of parts nine to eighteen, each finding met.** The reader worked each claim again. Each number is as said. What the numbers are said to show is not, at six places:
 
-**Not done.** A spiral, along alone, at two parities. An even number along or across, said beside the tables. No fresh reader has read this part.
+- **Nine and ten.** At the next the prior inverted, the self at the odd numbers and the other at the even, no parity is from the other's: the two are each its own alternating, beside each other at no coupling. The five from two parities is that and no more. *The one way* is at the Registry's own measure, each of the four joint forms in one going round; Exhibit ONE's two selves of opposite priors are + − + − at each call, at two.
+- **Fourteen.** At a + or a −, no changing at an arriving alike and else the other parity is one with the self at the arriving's parity. The three things said one are one thing said three ways; the self's own two are at nothing of its next. And *the arriving read at the self's next number* is this working's own placing, at no line of the code: the code's arriving is the releasing self's changing, its parity or 0, one call on, the 0 passed over. The placing withdrawn at part twelve is the nearer to the code, and it was withdrawn at its form, three of four, and at no fault shown in it.
+- **Sixteen.** *The fives agreeing at each number* is at four of the eight openings of two selves of opposite kinds; at the other four they differ at each. *One meeting* is at the two meeting in sequence; meeting together, two of one kind are at each other's line at each momentary and at no one line.
+- **Seventeen.** The Registry's step carries the self's own pair, its x the across and its y the along. This part carried the arriving's pair into the self, its x the social: the across carried into the along and the along inverted, the other hand.
+- **Eighteen.** Four times the least number both divide is from the rule's own form, each parity one self along and one across at two momentaries, inverted: at each of four ways of saying the rule. The eight rows are one sum, and the column they are beside is two spirals at no coupling. Beside Exhibit ONE's torus the fabric is one of eight. At an even p or q it is other than the spirals. Each crossing at one opening together is not said.
+- **The 0 and nothing arriving** are at no place of this part's rule, and each number of Exhibit ONE's tables of selves is from them.
+
+**Withdrawn at the reading.** *It is the code's line*; *one meeting is the cohering*; *a meeting is the right spiral step*; the fabric's number as Exhibit ONE's own; and the two entries laid ready at the Registry's carrying and Exhibit ONE's. Part twelve's withdrawing of the form at six is itself withdrawn: that placing is carried on beside this one, neither decided.
+
+**What is as it was.** Of sixteen ways of a next from a prior and a now, one is at each of the four joint forms in one going round, the next the prior inverted: the Registry's own step. Two parities each changing or not are beside each other as they were at both or at neither, and other at exactly one.
+
+**Open, the one resting the most on it first.**
+
+1. **The coupling.** At the living step no parity is from the other's. The code's coupling is its line of 0 at an arriving alike, with nothing arriving and the 0. The place the living step and that line are one form is not found: at the other's changing read as the arriving, + + + − − −, three of four; at the arriving read at the self's next number, the self at the arriving's parity and its own at nothing.
+2. **Two parities at a self at the code.** No line of the code carries a parity of one sharing to another; a self at two sharings is two selves beside each other at it.
+3. **Unmarked in this file.** *The code copies no arriving*, beside the self at the arriving's parity; *no comparing is in it*, beside agreeing or differing; each sharing at its own arrivings alone, beside a meeting across two.
+
+**For both, said as it is.** The living step and the code's line of no changing are each as they are, and the form at which they are one is not found. This part's findings past its ninth are this working's own placings, each as its numbers and none shown at the code.
+
+**Not done.** The three open above. No motion at the Registry from this part.
 
 ## The words at nothing arriving, deciding nothing
 

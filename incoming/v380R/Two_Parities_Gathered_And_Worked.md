@@ -100,3 +100,27 @@ Of its five partings:
 **Four. One number beyond the self's five.** The releasing five reaches 6 and is at no 2. The other's five is 2 to 6 at Exhibit ONE's table of fives. The self's next whole, 5 and 6, is the receiving side's prior whole: the prior and the next reversed is the releasing self's next at the receiving self's prior.
 
 **Open, for both.** The 2 at no number of the releasing five: the two sayings, the 2 is the other's opening and the other's own to release; or the releasing five is said at other numbers than this working followed. Its reason: this working chose the numbers, and the saying says *five consecutive*. And *bi-co-momentary* is at no row of Exhibit ONE's table of namings.
+
+## At the working v380L's fresh reading: withdrawn here also
+
+A fresh reader read the working v380L's rolling five and it withdrew four of its findings as its own placings. Three of the seven gathered above rest on them and are withdrawn here: the fifth, Exhibit ONE's line as the binary upon the living step; the sixth, a meeting the right spiral step; the seventh, the fabric's number as Exhibit ONE's own. This working's rows of a fabric, odd and even, are each as worked and are the numbers of a rule that is a placing: the parting at Exhibit ONE's even spirals is withdrawn with it, and the two tables offered for Exhibit ONE, a self at two parities and a fabric, are withdrawn. The learning is this working's also: it gathered and worked again the numbers and did not ask of each number the thing it was said to show.
+
+As it was: the one way of sixteen, the next the prior inverted; two parities each changing or not, beside each other other than they were at exactly one; and the releasing five, an arithmetic of the living step alone.
+
+## The form at which the living step and Exhibit ONE's line are one: an offering
+
+The working v380L laid open, first: the living step beside Exhibit ONE's line at a carried sharing, no changing at an arriving alike and else the other parity, *the form at which they are one not found*.
+
+**No word decides it.** One line of arithmetic, worked at each of six openings; no executing of the resolver; no fresh reader has met it.
+
+**One. Said at the line alone.** The living step says the carrying next is the carrying one prior, inverted. Exhibit ONE's line says the carrying next is the carrying now at an arriving alike, and else inverted. The two are one at each momentary exactly at this: an arriving alike is at the momentary after the self's own changing, and none is at the momentary after its no changing.
+
+**Two. That is a self's own prior releasing arriving.** Exhibit ONE's line releases the new parity at a changing and the 0 at none. A self whose arriving is its own prior releasing is at an arriving alike after each changing and at none after each no changing. Worked at a carrying of + and of −, each at none, a + and a − arriving first: at each of the six the carrying is + + − − from its second call, each the second prior inverted.
+
+**Three. It is Exhibit ONE's own row.** The table of a spiral of selves, one self, the last releasing to the first: *+, 0, −, 0*, again at 4. One self releasing along to itself is the living step, call by call.
+
+**Four. Beside the session's sayings.** *the self carrying was living and parity alternating prior and must continue this through next*: the self's own prior releasing, arriving along at its now. *social 3 is odd and along as is self*. *prior momentary living self is carrying into now momentary living self*. The premise and the along arriving are one thing at this form: the living step is a self at its own along.
+
+**Five. The coupling is the across.** Two selves of alike priors joined both ways are each + + − − at Exhibit ONE's table of two selves: each receives from the other the parity its own releasing is, and the living step continues at each. Two of opposite priors are + − + −, each at no arriving alike. An arriving from an other alike with the self's own return continues the living step; one differing is a changing of it. This is this working's reading of two rows and no more.
+
+**Open, for both.** A spiral of three selves and more is at no living step call by call; its going round is at four times the number at odd numbers. The two sayings: the living step is of one self at its own along, and a society's going round is that four at each of its selves in sequence; or the living step is a society's also and is said at another number than a call. Its reason: Exhibit ONE's row of one self is the living step, and its row of three is *+, −, +, 0, −, +, −, +, −, 0, +, −*, one 0 at each six.
