@@ -261,3 +261,7 @@ The claim, its four sentences, each case worked and each link not yet worked are
 ## A saying explored, for each working
 
 The session offered *co-bi-tri-involutioning is the releasing surface emanation in non-living existing stable form*. Explored at [The_Universal_Claim.md](The_Universal_Claim.md), its last part: useful at three things, a releasing between selves and a carrying of none one non-living form; the prefixes co-bi-tri at 1 and 17 alone; and the non-living set within each coupling of living things, bearing on the claim's link not yet worked. Parting at the naming, bi-tri-involutioning in the files.
+
+## Natural Naming's conferring, gathered
+
+[Natural_Naming_Conferring.md](Natural_Naming_Conferring.md): ten namings decided in this session's improving of Exhibit ONE; the working v380L's offering gathered; and eight open, a prefix first. The emanating's stable form is bi-tri with no co, the coupling released, worked at the seventeen names. Each working is welcome to add to the open or to answer one.
