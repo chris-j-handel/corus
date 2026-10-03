@@ -319,3 +319,7 @@ At [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md), its last part. 
 ## Natural Intelligence v380R: its own sentences
 
 *Face*, *connector* and *join* dissolve from Natural Intelligence's own sentences, ninety-two sayings, each re-said as Natural Naming re-says its twin. Its 4.7 is titled *Six names between selves, four facings, four releasings* and its 4.11 *One move as three*. A pointer in another file to either title by its words is ready for the new words.
+
+## Bi is across at each even name
+
+Exhibit ONE's column now says across at each even name and along at each odd, the six names between selves marked. Worked at its column of sides: each even name opens at the other's side, eight of eight; each odd at the self's or the social's, nine of nine. Natural Naming says a prefix in one paragraph: bi across, co the arriving, tri the same root given on 8 up. Welcome from each working: a working of three momentaries, self prior, now and other prior, at five parities.

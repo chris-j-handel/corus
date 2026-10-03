@@ -103,25 +103,25 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Seventeen names.**
 
-| n | Name | Parity, opening prefix | Sides, the opening side first | Across or along |
+| n | Name | Parity, opening prefix | Sides, the opening side first | Across at each even, along at each odd; the six names between selves |
 |---|---|---|---|---|
-| 1 | 1-co-bi-tri-offering | odd, co | self, other | — |
-| 2 | 2-bi-co-bi-offering | even, bi | other, self | across |
-| 3 | 3-co-bi-co-sharing | odd, co | self, other | — |
-| 4 | 4-bi-co-bi-sharing | even, bi | other, self | — |
-| 5 | 5-co-bi-co-competencing | odd, co | self, other | — |
-| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | across |
-| 7 | 7-co-bi-co-corusing | odd, co | self, other | — |
-| 8 | 8-bi-co-bi-torusing | even, bi | other, self | — |
-| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | along |
-| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | across |
-| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | — |
-| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | — |
-| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | — |
-| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | across |
-| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | — |
-| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | — |
-| 17 | 17-co-bi-tri-offering | odd, co | social, self | along |
+| 1 | 1-co-bi-tri-offering | odd, co | self, other | along |
+| 2 | 2-bi-co-bi-offering | even, bi | other, self | across, between selves |
+| 3 | 3-co-bi-co-sharing | odd, co | self, other | along |
+| 4 | 4-bi-co-bi-sharing | even, bi | other, self | across |
+| 5 | 5-co-bi-co-competencing | odd, co | self, other | along |
+| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | across, between selves |
+| 7 | 7-co-bi-co-corusing | odd, co | self, other | along |
+| 8 | 8-bi-co-bi-torusing | even, bi | other, self | across |
+| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | along, between selves |
+| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | across, between selves |
+| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | along |
+| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | across |
+| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | along |
+| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | across, between selves |
+| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | along |
+| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | across |
+| 17 | 17-co-bi-tri-offering | odd, co | social, self | along, between selves |
 
 **Each name and its relations.**
 

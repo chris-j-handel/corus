@@ -57,3 +57,9 @@ The two sayings of a prefix cohere for co and tri. A prefix is its number's word
 Name 17 opens co and ends tri, and name 9 opens tri and ends co: 17 is the society's offering arriving at each self, 9 the released given on along.
 
 The four four-cycles in Natural Naming agree with Exhibit ONE at each root and each move, read at each of its six sayings.
+
+## Bi, worked
+
+Each of the eight even names opens at the other's side in Exhibit ONE's column of sides: eight of eight. Each of the nine odd names opens at the self's side or the social's: nine of nine. Bi is across at each even name, a line parallel with each other even name's, and each odd name is along between two even names. The two sayings of bi are one. Entered at Exhibit ONE's column and at Natural Naming.
+
+Offered and yet to be worked: three momentaries, self prior, now and other prior, at five parities, the even two the across lines and the odd along between them.
