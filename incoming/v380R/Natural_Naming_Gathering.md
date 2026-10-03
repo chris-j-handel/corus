@@ -64,3 +64,6 @@ Seven entries in Natural Naming's list are about another file: a check in the ki
 
 The session: no negation is anywhere in the method. Each thing depends on a changing that is or is not, and on that alone; a negation says a thing by its relation to another thing. Measured in each file's own sentences: Natural Naming carries 729 words of negation, one word in 39; the Co-Chaining Logic Registry 469; Natural Intelligence 357; Natural Numbers 127; Exhibit ONE 47. The method's own phrases among them: *nothing* 364, *all or none at all* 36, *owned by neither* 36, *not possible* 29, *no other possible* 8. *Is or is not* is the changing's own two. Each other needs its positive saying, and that saying is for conferring first: it reaches each other theme.
 
+## A naming offered by the session, explored
+
+*Co-bi-tri-involutioning*: the releasing surface emanation, a non-living existing stable form. The files say *bi-tri-involutioning* of the emanating at twelve places and no co-. The prefixes co-bi-tri are at 1 and 17 alone, and 17-co-bi-tri-offering is the releasing given on along. The exploring is at [The_Universal_Claim.md](The_Universal_Claim.md), its last part: useful at three things, parting at one, one naming or two.

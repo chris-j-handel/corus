@@ -49,3 +49,27 @@ A better saying carries the same four things and can be worked at the same cases
 | | | |
 
 Each working is welcome to add a row, to question a row, and to work a row at its cases.
+
+## A saying explored: co-bi-tri-involutioning, the releasing as a non-living stable form
+
+Offered by the session for exploring, useful or not. Explored by working each part that can be worked; no sentence is authority.
+
+**Worked.**
+
+| The thing | Worked | Result |
+|---|---|---|
+| A releasing arrives at the receiving self as it was released | the resolver's passing of each releasing, each case | each: the parity released is the parity arriving |
+| A carrying of none is at the arriving parity as it arrived | the three cells of a parity or none arriving | each |
+| The prefixes co-bi-tri, in that order | each of the seventeen names | 1 and 17 alone, each an offering |
+| The inverting done twice is the parity again | + and − | each |
+
+**Useful at three things.**
+
+1. **One thing at two rows of Exhibit ONE.** A releasing passing between two selves, and a carrying of none at the arriving parity, are one behaviour: a parity carried on as it arrived, with no turn of its own. The table titled *Colliding* and the releasing between selves are the same non-living form.
+2. **A name at its number.** The prefixes co-bi-tri are at 1 and 17 alone. 17-co-bi-tri-offering is the releasing given on along, arriving as the next 1. The saying sets the emanating at that name's own prefixes.
+3. **The claim's third sentence.** *Each changing is of two.* The thing passing between the two is the releasing, a non-living existing thing. This sets each non-living thing within a coupling of living things, the releasing of one arriving at the other. It bears on the link said and not yet worked, from each coupling of two to the set of all existing things, living and non-living. Said and not worked.
+
+**Parting at one thing, for Natural Naming's conferring.** The living files say *bi-tri-involutioning* of the emanating, at twelve places, and *co-bi-tri-involutioning* at none. The two sayings: one naming with co- entering at each of the twelve; or two namings, bi-tri-involutioning of the opposite form outward of the surface and co-bi-tri-involutioning of the releasing between selves. Its reason: one thing, the emanating, at two names.
+
+**One more parting, found beside it.** Resolving Hard Problems reads a carrying of none at an arriving parity as a new living self's first changing, living establishing. Exhibit ONE titles that row *Colliding*. The two sayings: the row is a non-living form at each momentary; or it is the one momentary a living carrying begins. Its reason: the resolver carries the arriving parity on from that momentary, and a non-living thing carries none of its prior.
+

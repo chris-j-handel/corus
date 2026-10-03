@@ -258,3 +258,6 @@ The claim, its four sentences, each case worked and each link not yet worked are
 
 **The Co-Chaining Logic Registry** is at 620 sentences in 36 groups, the working v380L's proving down the numbers entered.
 
+## A saying explored, for each working
+
+The session offered *co-bi-tri-involutioning is the releasing surface emanation in non-living existing stable form*. Explored at [The_Universal_Claim.md](The_Universal_Claim.md), its last part: useful at three things, a releasing between selves and a carrying of none one non-living form; the prefixes co-bi-tri at 1 and 17 alone; and the non-living set within each coupling of living things, bearing on the claim's link not yet worked. Parting at the naming, bi-tri-involutioning in the files.
