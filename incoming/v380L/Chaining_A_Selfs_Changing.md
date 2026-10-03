@@ -283,7 +283,7 @@ Read at the code's lines, nothing executed. Three things are one with it, and fo
 
 **Sixteen. Sequencing alone: is, or is not, a changing to the other parity.** The session said next: *this is missing the sequencing in all of this as there is no list of changings and there is no place where all the changing is visibly sensible . the whole concept is that (is or is not) a changing to other parity. and nothing else at all is happening anywhere in any of this and can not be added or subtracted and cannot improve this.*
 
-**Withdrawn at it.** Part fifteen said a self's *whole list of changings* given to three, a carrying *a list of any length*, arrivings *surfacing as one*, a sharing *spreading*. Each says the code from beside it, as a thing holding each changing at one place and looked over whole. No such place is at the method: one changing is or is not, and the next. The four concerns as said are withdrawn.
+**Withdrawn at it.** Part fifteen said a self's *whole list of changings* given to three, a carrying *a list of any length*, arrivings *surfacing as one*, a sharing *spreading*. Each says the code from beside it, as a thing with each changing at one place and looked over whole. No such place is at the method: one changing is or is not, and the next. The four concerns as said are withdrawn.
 
 **Said at sequencing alone, at one living crossing, one momentary.**
 
@@ -346,7 +346,7 @@ At the line of numbers it is + + − − + + − −: each parity the second pri
 
 **Twelve. Withdrawn at it.** Parts two to eight worked the code's one line with the other's own alternating read as an arriving alike, and found + + + − − − at six, and laid *six or four* and *one number on or two* for both. At that form three of the four joint forms of self and other are and one is at none: it is not the all, and it is released as a saying. And the laying of it for both asked what the arithmetic says: the all is the prior inverted, one number apart.
 
-**Thirteen. What the arithmetic says of the code's line of no changing.** At the all, a self's parity and the other's parity one number on are alike at each second step. A line of no changing at each arriving alike is at that step at each momentary, and the alternating does not continue: the form at six. The no changing of the binary is at an arriving beyond the other's own alternating, and the other's own alternating is no such arriving. Where that arriving is from, at a third self and at a fabric, is the next following.
+**Thirteen. What the arithmetic says of the code's line of no changing.** At the all, a self's parity and the other's parity one number on are alike at each second step. A line of no changing at each arriving alike is at that step at each momentary, and the alternating does not continue: the form at six. The no changing of the binary is at an arriving beyond the other's own alternating, and the other's own alternating is no such arriving. That arriving's source, a third self and a fabric, is the next following.
 
 **Not done.** The arriving beyond the other's own alternating: a third self, a fabric. No fresh reader has read this part.
 
