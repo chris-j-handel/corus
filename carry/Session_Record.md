@@ -2197,3 +2197,15 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 **At Exhibit ONE · Natural Resolver, v380e, at the working v380R.** The tables of one self momentary by momentary and of a spiral re-said with − at self 1, each row inverted and each number as it was. The two spirals open as the spiral of selves: beside each other 12 to 4,012 and crossed at 2 as they were, self 1 of each opposite; *From momentary* worked again from the living opening, 7, 12, 20, 28, 44, 52, 119 and 36 beside 7, 13, 20, 29, 37, 49, 137 and 41.
 
 **At Exhibit ONE · Natural Resolver, v380f, at the working v380R.** The sentences beside six tables are at each header row or released; a reviewer met no row of the six changed and worked the torus, two selves and three selves from the resolver, each matching. The first sentence of the twelve forms is released, false of the two middle four-cycles.
+
+**At Exhibit ONE · Natural Resolver, v380g, at the working v380R.** The table of each name whole is at rows, a name's number, its relation and the name at it: 271 cells at twenty-two relations, each clause as it was. Released from each of seventeen rows: the clause of entry, connector or face, with its facing and its join, and the clause at the code.
+
+**At Exhibit ONE · Natural Resolver, v380h, at the working v380R.** The diagram is at its numbers and lines with across and along; its words of explaining and its o and i marks are released. The namings' third header is *At the names*. A reviewer met 288 of 288 clauses carried on of the table of each name whole word for word, and found five things the released clause alone carried; each is entered at a relation, *Co-sequencing*, at eleven names.
+
+**At Exhibit ONE · Natural Resolver, v380i, at the working v380R.** Seven titles and eighteen header rows are said directly, each the name's own word with its number and no phrase of a place. A fresh reader met no data row changed.
+
+**At Exhibit ONE · Natural Resolver, v380j, at the working v380R.** Nine headers are said plainly; entry, face outward and face inward are released from fifteen cells of the table of each name at three scales, and connector and face from the first column of 0, the between. No connector and no *at the code* is in the file beyond the resolver's own lists; *parity's face* and *the self's three faces*, two namings, are as they are for Natural Naming's motion.
+
+**At Exhibit ONE · Natural Resolver, v380k, at the working v380R.** The torus opens with each self at a parity, worked from the resolver, a reviewer matching each of ten rows. Eight numbers are as they were; 1 by 5 is 5 and 3 by 13 is 13. Each table of living resolving now opens with each self at a parity.
+
+**At Exhibit ONE · Natural Resolver, v380l, at the working v380R.** An audit of the file whole: each name, prefix, root, cycle, scale and five agrees with each other table, and each table of selves agrees with the resolver, worked. Two mends: the four four-cycles' header said 8 up or 17 less and two of the four go 8 down; one dash in the twelve forms is its own six names in another order.
