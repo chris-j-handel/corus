@@ -118,4 +118,4 @@ Exhibit THIRTY Co-Chaining Logic Registry · carrying v379
 
 **Next, at v380l: the universal claim living for each working, `incoming/v380R/The_Universal_Claim.md`.** Four sentences; each case worked; three links said and not yet worked; four questions; and a table for a better saying of the fourth sentence, each working adding its own. Nothing enters this file from it until the workings and the session have conferred.
 
-**Ready: *face* dissolves.** Natural Naming v381 carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
+**Ready: *face* dissolves.** Natural Naming v380a carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.

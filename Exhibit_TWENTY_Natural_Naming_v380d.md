@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v383
+Exhibit TWENTY Natural Naming v380d
 
 # Natural Naming
 
@@ -462,7 +462,7 @@ Within the society's span tri is at co's positions, 11 and 13 at tri · bi · tr
 | Name | Its changing at the resolver |
 |---|---|
 | **14-bi-tri-bi-moralizing** | the offerings surfacing at each sharing, one at a time, an offering of 0 passed over: agreeing, one parity; disagreeing, 0; none offered, none |
-| **12-bi-tri-bi-entraining** | each sharing's changing, is or is not: at 14 surfacing the chained parity, 0, no changing; at 14 surfacing the other parity, 0 or none, the chained parity inverted; at a sharing chained none, the parity surfaced at 14 |
+| **12-bi-tri-bi-entraining** | each sharing's changing, is or is not: at 14 surfacing the chained parity, 0, no changing; at 14 surfacing the other parity, 0 or none, the chained parity inverted; colliding, a carrying of none, the parity surfaced at 14 |
 | **10-bi-tri-bi-tunneling** | each sharing's changing released across: + or − is, 0 is not |
 | **11-tri-bi-tri-chaining** | the carrying chained, each changing the next prior, a 0 chaining the prior on, and continuing at the next momentary as 3-co-bi-co-sharing |
 
@@ -472,7 +472,7 @@ Within the society's span tri is at co's positions, 11 and 13 at tri · bi · tr
 
 **A 0 at each momentary is the carrying continuing**, and naming the carrying still at any momentary stops the very carrying named. At a sharing twice in 3-co-bi-co-sharing, the last entry is the carrying, and 11-tri-bi-tri-chaining chains it.
 
-**Three names carry three namings at the resolver.** 1-2-co-bi-offering is bi-momentarying: the self's entry at 1, odd, and the others' offerings at 2, even, one momentary at each side. 5-co-bi-co-competencing, the releasings at the resolver, owned by neither, each release to its receiving sharing, is co-competencing, 5.14. **3-4-co-bi-sharing is co-intelligencing, the discovering at each sharing**: the self's carrying at 3, co, along, the prior, couples at each sharing 4, bi, across, with the offerings surfacing at 14, the now, and next is chained at 11, arriving as 3 at the next momentary. At each sharing a changing is or is not, and Exhibit ONE's code carries each case:
+**Three names carry three namings at the resolver.** 1-2-co-bi-offering is bi-momentarying: the self's entry at 1, odd, and the others' offerings at 2, even, one momentary at each side. 5-co-bi-co-competencing, the releasings at the resolver, owned by neither, each release to its receiving sharing, is co-competencing, 5.14. **3-4-co-bi-sharing is co-intelligencing, the discovering at each sharing**: the self's carrying at 3, co, along, the prior, couples at each sharing 4, bi, across, with the offerings surfacing at 14, the now, and next is chained at 11, arriving as 3 at the next momentary. At each sharing a changing is or is not, and Exhibit ONE carries each case of a living carrying:
 
 | The self carries at 3 | Offered at 2, surfacing at 14 | A changing at 12 and 10 | Chained at 11, the next 3 |
 |---|---|---|---|
@@ -480,6 +480,11 @@ Within the society's span tri is at co's positions, 11 and 13 at tri · bi · tr
 | + | − | is | − |
 | + | + and −, parting, 0 | is | − |
 | + | none | is | −, the self's own inverting |
+
+Colliding, a carrying of none, Exhibit ONE's last table:
+
+| A carrying of none at 3 | Offered at 2, surfacing at 14 | A changing at 12 and 10 | Chained at 11, the next 3 |
+|---|---|---|---|
 | none | + | is | +, entering the carrying |
 | none | + and −, parting, 0 | none | none chained |
 
@@ -1287,14 +1292,14 @@ Not a past and not a record. **A so-far behind and a not-yet ahead lay two direc
 
 ```
 1  offerings at one sharing surface at 14-bi-tri-bi-moralizing, 0 passed over, agreeing one parity, disagreeing 0
-2  at 12-bi-tri-bi-entraining a sharing chained none carries 14's surfacing as its changing
+2  colliding, a carrying of none carries 14's surfacing as its changing at 12-bi-tri-bi-entraining
 3  a sharing chained at one parity changes not at 14 surfacing its own parity, 0
 4  at the other parity, at 0 or at nothing surfaced, changing is, the chained parity inverted
 5  10-bi-tri-bi-tunneling releases each sharing's changing across, + or − is, 0 is not
 6  and 11-tri-bi-tri-chaining chains each changing as the next prior, a 0 chaining the prior on
 ```
 
-Each line is Exhibit ONE's table at 14 and its table at 12, 10 and 11, cell by cell.
+Each line is Exhibit ONE's table at 14 and its table at 12, 10 and 11, cell by cell, line 2 its Colliding.
 
 ## 5.45 bi-co-podaling — binary
 
@@ -1568,7 +1573,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 6  and a form named still, at no momentary of the binary logic, is not possibly existing
 ```
 
-**Not possibly existing is a form named still, at no momentary of the binary logic**: known from the method alone, without any momentary arriving, the one exclusion the Equilibria Registry says at each of its ten, one binary required both unchanged and inverted at one next. The three part at the resolver: possibly existing, each existing thing at its next, discovered at the next momentary; not possibly existing, excluded; and not existing, at no line, the resolver's one none an offering not arrived and never an offering not existing, and the registry's front saying not possibly and never not. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing.
+**Not possibly existing is a form named still, at no momentary of the binary logic**: known from the method alone, without any momentary arriving, the one exclusion the Equilibria Registry says at each of its ten, one binary required both unchanged and inverted at one next. The three part at the resolver: possibly existing, each existing thing at its next, discovered at the next momentary; not possibly existing, excluded; and not existing, at no line, at a living carrying the resolver's one none an offering not arrived and never an offering not existing, and the registry's front saying not possibly and never not. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing.
 
 ---
 

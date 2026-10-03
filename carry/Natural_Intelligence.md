@@ -120,4 +120,4 @@ Natural Intelligence · carrying v379
 
 **Concern, at v380m, from `incoming/v380G/README.md`, for this file's opening.** A reader arrives with one question this file answers, a next discovered with no reference from beyond; Exhibit ONE's, changing resolved with no store; the Co-Chaining Logic Registry's, selves beside each other cohering. Each is said as an absence in the arrival. The two sayings: one sentence at each file's opening saying its question positively; or each file as it is. Its reason: a record said from outside this version's improving carries a framework the files have dissolved, and a reader of it is at that distance.
 
-**Ready: *face* dissolves.** Natural Naming v381 carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
+**Ready: *face* dissolves.** Natural Naming v380a carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
