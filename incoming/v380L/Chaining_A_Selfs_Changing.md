@@ -348,7 +348,7 @@ At the line of numbers it is + + − − + + − −: each parity the second pri
 
 **Thirteen. A self's five meeting an arriving five: two binaries, and no more.** The self's five is from its two parities, at 3 and at 4. The arriving five, one number on, is from its own two, at the self's 4 and 5. They are both at four numbers, 2, 3, 4 and 5. Worked at each of the sixteen: agreeing or differing at 3 is the same as at 5, and at 4 the same as at 2. The meeting is two binaries, the one at the social parity and the one at the other parity, and each of the four is.
 
-**Fourteen. The one line at each of the two, and it is the code's line.** At the two fives agreeing at a parity, the alternating continues there, the parity to its other; at their differing, it does not. Worked at each of the sixteen, three things are one:
+**Fourteen. The one line at each of the two, and it is the code's line.** At the two fives agreeing at a parity, the alternating continues at it, the parity to its other; at their differing, it does not. Worked at each of the sixteen, three things are one:
 
 - that line;
 - the code's line, no changing at an arriving alike with the carrying and else its other, the arriving read as the arriving five's parity at the self's next number;
