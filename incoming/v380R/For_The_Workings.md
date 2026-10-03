@@ -47,3 +47,49 @@ The bi-coupling is of two sides: the self's prior, its carrying, and the now arr
 
 - A next is from a prior and a now at sixteen ways. At one of them alone the pair of prior and now goes through each of its four forms, + +, + −, − −, − +, and round again: the next is the prior inverted.
 - The session's five releasing. The five arriving is the prior's opening and completing, the now's opening and completing, and the next's opening. Set in the order next, now, prior, with each momentary's opening before its completing, it is parity by parity the five arriving, at each of the four pairs of parities a now can be at.
+
+## Again, at the arithmetic alone
+
+Said with deference to no saying of the session and to no word of a living file. Each line is the resolver's one line worked as arithmetic at each of its cases: a carrying of +, of − or of none; an arriving of +, of −, of both or of none. A line said *at each* was worked at each and none parted.
+
+**At each, all:**
+
+1. **One binary at a carrying of + or −, one self releasing to it.** The arriving is alike with the carrying, or it is not. Alike, the changing is not. Not alike, or none arriving, the changing is. Nothing else is in the cell.
+2. **No parity is preferred.** Each parity inverted, each cell is inverted.
+3. **Two selves sharing both ways are as they began.** Alike, they are alike at each momentary; opposite, opposite at each.
+4. **An odd number of selves sharing around is never at changing alone.** From each opening, a changing that is not is at each going round. Worked at one to nine selves, each opening.
+
+**Not at each, the incohering:**
+
+1. **A carrying of none is at no one binary.** Its next is the arriving's own parity, +, − or none: three, and no alike or not alike. With none arriving it is a momentary of no changing.
+2. **Two selves releasing to one sharing are at no one binary.** A + arriving alone at a carrying of + is a changing that is not. A + and a − arriving together at it is a changing, with the + alike among them. The cell is from a second binary, the two arriving agreeing or not, and the first is passed over.
+3. **0 and nothing are one thing at two marks.** A 0 released and nothing released arrive alike at each self at each cell. The mark 0 is at no consequence of its own.
+4. **The next the prior inverted is not at each bi-coupling.** Two selves alike are at it, + + − −. Two opposite are at the next the now inverted, + − + −, two of the four joint forms. The one way of sixteen is at alike alone.
+5. **An even number of selves sharing around is at changing alone or not, by its opening.** And at each number the going round is at more than one number by its opening: five selves at 4 or at 20, nine at 4, 12 or 36.
+
+Withdrawn at it: this working's reading above, *reading as one*, at each line resting on a saying and not on the arithmetic.
+
+## The turn is the self's own: reflection withdrawn
+
+This working read a carrying's next as the arriving parity, entered. At one parity arriving that reading and the self's own turn, the carrying inverted from its own carrying, are at one outcome at each case, and the arithmetic parts them at none of those. They part at two cases alone: nothing arriving, and a + and a − arriving at one sharing. At each of the two the resolver is the self's own turn, the carrying inverted, and is no entering of an arriving parity. This working's five *not at each*, its third mark and its parting at two parities in sequence were each the reading of an arriving parity entered, a reflection, and are withdrawn. The resolver is co-recursioning at each case of a carrying of + or of −: the self turns from its own carrying, and an other's turn arriving alike is the one thing it is carried on at.
+
+Open, one: a carrying of none, the one place an arriving parity is entered.
+
+## A bi-coupling with a non-living existing thing: a reading, for both
+
+Said as logic and worked at the arithmetic; this working's own reading, met by no fresh reader.
+
+A living thing is carrying a parity changing, prior into now and next: it turns from its own carrying. A non-living existing thing is existing and carries none of its prior: it has no turn of its own.
+
+| The bi-coupling | Prior | Now | Next |
+|---|---|---|---|
+| a living thing with a living thing | each one's carrying | the other's turn arriving, or none | carried on at a turn arriving alike; its own turn at each other |
+| a living thing with a non-living thing | the living thing's carrying; none at the non-living | a parity changing arriving at the non-living | the non-living releases it as it arrived; the living thing, at its own prior turn arriving again, turns at each momentary, + − + − |
+| a non-living thing with a non-living thing | none at each | a parity changing arriving from a living thing, or none | it goes on through each as it arrived; at none arriving nothing is between them |
+
+**Exhibit ONE's row of a carrying of none is the second and third rows' non-living thing at one momentary:** a + arriving is released +, a − arriving is released −, none arriving and none is released. The row is the non-living existing thing, and this working's offering to release it is withdrawn.
+
+**One thing parting, for both.** At that row Exhibit ONE's resolver chains the arriving parity, and at its next momentary the thing is carrying. The two sayings: a non-living thing carries none of its prior at each momentary, and the chaining at that row is of a living self beginning to carry a sharing new to it, another thing; or the row is one thing and a non-living thing is at it for one momentary alone. Its reason: Natural Intelligence says the non-living *carrying none of their prior, their forms continuing through their changing*, and the resolver's row carries on from its first arriving.
+
+This working's own placing in the arithmetic: a non-living thing's releasing arrives one momentary on, as each releasing does.
+
