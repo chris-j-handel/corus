@@ -336,7 +336,19 @@ Said at it: the self's carrying and the arriving carrying are each five numbers 
 
 **Eight. The parting of part four, at this saying.** The saying sets the arriving one number on from the self, 1 to 5 and 2 to 6: two selves each at its own opening, the form at six. The code's third function is each self at one call together, a changing arriving one call on, two numbers; its form at two selves of alike priors is at four, Exhibit ONE's table and the Registry's living step. For both: the arriving one number on, or two.
 
-**Not done.** The five at a self's two parities, the along and the across. More than two selves. No fresh reader has read this part.
+**Nine. All or none at all at the frame, at the arithmetic and at no saying.** The frame: the self at the odd numbers and the other at the even, one number apart; a parity's prior and its now are the two numbers prior to it. A next is from a prior and a now at sixteen ways, each worked. At fifteen a joint form of prior and now is still, or the four are not one going round. At one the four are each in one going round, none still: the next is the prior inverted. It is the Registry's living step, and it is the one way.
+
+At the line of numbers it is + + − − + + − −: each parity the second prior inverted, each side its own alternating, + − + −, at each of its momentaries, one parity changing at each step.
+
+**Ten. The five under it is two parities.** The five is a, b, a inverted, b inverted, a: the parities at 3 and at 4 say the five whole. The now's two said, the prior's two are those two inverted and the next opening is 3 inverted. 3 and 4 as the next 1 and 2 are the same form two on. One momentary is two changings in sequence, the parity at 3 and the parity at 4, each to its other: both inverted, and the two beside each other, alike or opposite, as they were.
+
+**Eleven. The binary upon it.** At each of the two in sequence the alternating continues, a changing to the other parity, or it does not. Worked at the four: both continuing, the two beside each other as they were; neither, as they were; exactly one, other than they were. The self's carrying changing into its next is the two beside each other, other than they were: at exactly one.
+
+**Twelve. Withdrawn at it.** Parts two to eight worked the code's one line with the other's own alternating read as an arriving alike, and found + + + − − − at six, and laid *six or four* and *one number on or two* for both. At that form three of the four joint forms of self and other are and one is at none: it is not the all, and it is released as a saying. And the laying of it for both asked what the arithmetic says: the all is the prior inverted, one number apart.
+
+**Thirteen. What the arithmetic says of the code's line of no changing.** At the all, a self's parity and the other's parity one number on are alike at each second step. A line of no changing at each arriving alike is at that step at each momentary, and the alternating does not continue: the form at six. The no changing of the binary is at an arriving beyond the other's own alternating, and the other's own alternating is no such arriving. Where that arriving is from, at a third self and at a fabric, is the next following.
+
+**Not done.** The arriving beyond the other's own alternating: a third self, a fabric. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
