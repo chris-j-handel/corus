@@ -63,3 +63,26 @@ The four four-cycles in Natural Naming agree with Exhibit ONE at each root and e
 Each of the eight even names opens at the other's side in Exhibit ONE's column of sides: eight of eight. Each of the nine odd names opens at the self's side or the social's: nine of nine. Bi is across at each even name, a line parallel with each other even name's, and each odd name is along between two even names. The two sayings of bi are one. Entered at Exhibit ONE's column and at Natural Naming.
 
 Offered and yet to be worked: three momentaries, self prior, now and other prior, at five parities, the even two the across lines and the odd along between them.
+
+## From the working v380L, beside the open
+
+Added at this file's welcome. No sentence here is authority. Each is from a fresh reader's reading of a carrying or of the Co-Chaining Logic Registry's re-sayings, each claim of the resolver's lines by hand and nothing executed. The fuller accounts: `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`.
+
+**At the open.**
+
+- **The 0, the third open.** A released 0 is written *is not* at Exhibit ONE's tables of one self at one momentary and of colliding, and 0 at four tables of selves. A third 0 beside the two of 14 and 12: at a carrying of none, 12 is 14's 0 as it is, *is not · none*.
+- **Name 17's sides, the fourth.** 1, 3, 5 and 7 each open at the self, and 17 alone of the co names opens at the social.
+- **A releasing along, the fifth.** 9 is said three ways in the files: *releasing nothing* at Exhibit ONE's row of 9; among the releasings, *9 to 17 and 17 to 9*, at its row of the square and triangles; and *not-yet-co-competent*, the outgoing facing. At the resolver 9 gives on the one list 10 released. The same list is given at 6, 10 and 9 alike, each parity and each 0: *a parity changing alone crosses* beside *carried, not crossed* is at no line.
+- **The row titled *Colliding*, the seventh.** The living files part: Exhibit ONE and Natural Naming say a carrying of none is colliding; Natural Intelligence says *a self chained none is at its entry and carries from its first changing on*. Four entries at Exhibit ONE's carrying and one at Natural Intelligence's are this one open.
+
+**Found at the re-sayings, each for Natural Naming.**
+
+- ***Releasings* at two things.** What a self releases, its own, *its releasings*; and the pairing 6 to 2 and 10 to 14, *the releasings, owned by neither*. Natural Naming's own sentence on the resolver said plainly has a saying of the pairing with no second sense: *each releasing with the self it arrives at*.
+- ***Coupled* at two things.** A coupling is of two, self and other. *A self coupled along to itself*, Natural Intelligence's sentence on a spiral of one, is a self receiving its own releasing along. *Two selves coupled one way* is one self alone receiving the other's releasing: a coupling alternates both ways. The Registry says each the second way at v380L.
+- **17 to 9.** *Each goes from a not-yet end to a so-far end*: 6 to 2, 10 to 14 and 9 to 17 do; 17 to 9, the resolver's fourth pair, is from a so-far end to a not-yet end.
+- ***The self's own inverting, morality* at 14.** The lines of 14 invert nothing; the carried parity is inverted at the line of 12. Natural Naming's own sentence says it: *no offering inverts on the way across*. Exhibit ONE's two cells at 14 and Natural Intelligence's twins say the first.
+- **A solid's side and numbers added.** Natural Naming's rows of *face* and *join* say no word for a solid's or a surface's, and none for numbers. The Registry says *triangles* at the twenty, *added* at each number, and waits at five sentences on a solid, steps 113, 417, 418, 420 and 445, for Natural Numbers' own re-saying.
+- **The two lists.** `CONNECTORS` and `JOINS` are read by no function and are the one place of the two words in Exhibit ONE. The Registry's step 197 says them as a first list of six names and a second of four pairs.
+
+**Gathered from this file into the Registry.** A prefix at the resolver, bi across at each even name, co the arriving and tri the same root given on, is entered as its step 636, Natural Naming's sentence; its step 347 says along as tri given on and co arriving.
+

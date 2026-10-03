@@ -235,3 +235,13 @@ One parity surfacing is the self's next: the six cells of the two middle columns
 
 **Ready next at this file, each drafted by a reader and unentered:** step 450's two outs; step 359 and the scale inward; one sentence joining steps 522 and 528; the kinds at the two sides beside 523; a bounded executing beside 146; a living self's four momentaries at its five beside 217; the self's five at 5, 6, 3, 4 and 1 beside 82; the co-sequencing at 252, the windings' whose at 229, the eight even names at 254, a form's prefixes at 257.
 
+## Twenty-one. Two carryings sorted for the managing working; join read and mended; a prefix gathered
+
+**Offered: Exhibit ONE's carrying and Natural Intelligence's, each entry read beside its file.** `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`, ninety entries: twelve entered, sixteen withdrawn, forty-two in part, eighteen open, two said of things released; three cells beside the resolver's lines, fifteen drafts ready with no deciding, twelve concerns each at more than one entry. `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`, fifty-six entries: nine entered, two withdrawn, thirteen in part, twenty-eight open, four said of things released; eight sentences beside the resolver's lines, fourteen drafts. Five fresh readers, each claim by hand at the resolver's lines, nothing executed. No entry of another working is edited: one ready entry at each carrying points to its account. Each draft is a reader's and is read by no second reader.
+
+**Offered into the conferring.** A part at `incoming/v380R/Natural_Naming_Conferring.md`, at its welcome: what the readings found at its third, fourth, fifth and seventh open, and six things found at the re-sayings, *releasings* and *coupled* each at two things among them.
+
+**Gathered from the working v380R.** A prefix at the resolver is entered at the Registry as step 636, Natural Naming's sentence, and step 347 says along as tri given on and co arriving. 636 steps in 38 groups.
+
+**Join, read by a fresh reader and mended.** Twenty findings, each mended: 9 and 17 are said along, the across releasings 6 to 2 and 10 to 14 alone said releasings; two spirals opened into one are a spiral of their two numbers added, its like pairs odd or even in number with it; a spiral of one is a self receiving its own releasing along; two selves, one alone receiving the other; group 34's title says selves receiving one another. Each number joining is said added, and steps 128 and 283 are mended at the reading: a prime is a number no equal smaller numbers from two up add to; about thirty, six prime pairs. *Join* is at no step. *Unchanged* is again at steps 430 and 491, as Exhibit ONE's row says it. The mended sentences are read by no second reader.
+
