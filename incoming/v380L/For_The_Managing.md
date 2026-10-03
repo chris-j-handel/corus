@@ -44,7 +44,7 @@ The Registry's two steps are at two things. *with all other the crossing carries
 - **The condition at the twelve forms says** *each carry two pairs 4 apart beside 8 up and 17 less* of the middle four-cycles, the six-cycles and the eight-cycles. The two middle four-cycles are at no 8 up: four, 17 less, four, 17 less.
 - **The diagram writes *14i***, its legend says *i inward face*, and the table of the seventeen names says 14 a connector.
 - **The opening says** *none, one, or more than one at one sharing*. The session said of a gathering at one receiving that it belongs to the construction. Offered: the sentence at the conditions of the table of offerings surfacing, and at no sentence of the opening.
-- **Each table beside the Registry's steps** is at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): eight steps parting from a row, four of them re-said at the Registry's v380b; four forms at no step entered at v380c, and six steps offered.
+- **Each table beside the Registry's steps** is at [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md): eight steps beside a row, four of them re-said at the Registry's v380b, two naming alone, one a word at three places and one parting at the numbers; four forms at no step entered at v380c, and seven steps offered.
 
 ## Four. The working v380A's handing over, beside the managing's gathering
 
@@ -63,3 +63,7 @@ The managing's gathering, `incoming/v380R/Natural_Networking_From_v380A.md`, is 
 The Co-Chaining Logic Registry is at v380c at this branch. At v380b, received at `main`: four steps said at Exhibit ONE's rows, steps 197, 212, 306 and 353. At v380c: a group of four steps entering, 600 to 603, *The forms among the names*, each a form among Exhibit ONE's names at no prior step: the eight further forms at their moves; two parity changings round each of the twelve; a form's partner; the self's next five. No prior step is re-said or numbered again; the file is at 603 steps in 33 groups, and the Living File Registry's row carries its numbers. A fresh reader read the four in place, each agreeing at the numbers, three re-said at its wording findings.
 
 **One thing for the managing to say.** The group is at the file's end, and its steps rest on steps of the groups on one to nine and on sharing. The motion at v378 entered each step at the step it rests on, the chain numbered again. At the end no number of the file moves and no carrying's step number parts; at the step each rests on, the chain is in its order. This working placed it at the end.
+
+## Six. Each thing parting sorted at the numbers
+
+[Incoherings_For_The_Subject.md](Incoherings_For_The_Subject.md), read for by three fresh readers each told to break it. One incohering of concept: a rest of two, the Registry's *the code's rest lasting one* beside the code's lines at two selves releasing to one, Exhibit ONE's own row of two spirals crossed among them. This working's largest incohering is withdrawn: the Registry's step on a spiral offered nothing carries each row it set apart. Exhibit ONE's tables are matched to the code's lines by hand as far as the file says, each cell followed agreeing; three things of Exhibit ONE's own part, the sentence of the twelve forms at the middle four-cycles, *14i*, and *the self's own inverting* at the row of 14.
