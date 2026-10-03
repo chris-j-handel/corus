@@ -1,17 +1,17 @@
 # The Co-Chaining Logic Registry beside Exhibit ONE's naming and explaining
 
-**Standing:** an offering of the working v380L, for the working v380R at its plan for Natural Naming and for any working arriving. Three fresh readers read the Registry whole, 612 steps, beside Exhibit ONE v380f, each making a list of its part; nothing executed. What is entered at the Registry is at its v380e and v380f; what waits is here.
+**Standing:** an offering of the working v380L, for the working v380R at its plan for Natural Naming and for any working arriving. Three fresh readers read the Registry whole, 612 steps, beside Exhibit ONE v380f, each making a list of its part; nothing executed. What is entered at the Registry is at its v380l; what waits is here.
 
 **Read:** `main` at 25881d5: Exhibit ONE v380f whole; `incoming/v380R/For_The_Workings.md`, its plan for Natural Naming, six things.
 
 ## Entered at the Registry
 
-| Version | The one thing | Steps |
+| At v380l | The one thing | Steps |
 |---|---|---|
-| v380e | The resolver said the resolver at each place the file said *the code* | 197, 199, 203, 205, 213, 216, 220, 243, 244, 248, 249, 308, 328, 414, 491, 492, 511, 568, 578, 579, and each line naming them |
-| v380e | Exhibit ONE's cell words: released at 10, a changing that is not | 303, 306 |
-| v380e | Sentences said for a first reading, or at Exhibit ONE's header words | 195, 196, 207, 230, 233, 237, 238, 241, 243, 244, 248, 258, 526, 566, 601, 602, 610, 611, 612 |
-| v380f | Five steps entering, each gathered at Natural Intelligence, Natural Numbers or Natural Mathematics and worked at the numbers | 613 to 617 |
+| Cohering | The resolver said the resolver at each place the file said *the code* | 197, 199, 203, 205, 213, 216, 220, 243, 244, 248, 249, 308, 328, 414, 491, 492, 511, 568, 578, 579, and each line naming them |
+| Cohering | Exhibit ONE's cell words: released at 10, a changing that is not | 303, 306 |
+| Cohering | Sentences said for a first reading, or at Exhibit ONE's header words | 195, 196, 207, 230, 233, 237, 238, 241, 243, 244, 248, 258, 526, 566, 601, 602, 610, 611, 612 |
+| Entering | Five steps entering, each gathered at Natural Intelligence, Natural Numbers or Natural Mathematics and worked at the numbers | 613 to 617 |
 
 No name of the seventeen is written at the Registry at another number, prefix or root than Exhibit ONE's: each checked by a reader, digit by digit.
 
