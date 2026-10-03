@@ -68,3 +68,7 @@ New checkpoint read: `main` 350b0d11c3514a53a9e1fe8726b4dfa371e83c27, the managi
 Explored in the conversation: follow, anticipate, move, recognize, then name. One equilateral triangle and its marked corner make a geometric distinction visible after a 240-degree rotation: outline alike, corner elsewhere. A separately examined partner rotates the opposite way from its own points. This is one declared plane, no assignment to the square, names or offered parities. Three rotations bring the marked corner to its opening position, exposing a precise question beside the four-form parity sequence.
 
 Examined: intermediate path, same point-set with a changed marked point at one, marked point arriving at its opening at three, partner motion leaving A's angle unchanged, tracking toggle, reduced-motion endpoints, narrow layouts, labels and page errors. The teaching proposal and the exact next geometric questions are preserved at [Teaching_Exploration.md](Teaching_Exploration.md) for the other workings. No further movie or full triangle–square geometry is built from this trial.
+
+## The next receiving while sharing the identity correction
+
+Main 42a1ed9 is received without conflicts; v380L 3b8f620 is read for v380R to receive. Its Registry remains v380l at 627 numbered sentences in 37 groups, the new receiving one momentary at a time; the managing's newest ONE reads parity's unit square and parity's square and triangles. [The current gathering](Version_And_Workings.md) says each relation at its source and standing. This session remains v380A, fixed throughout.

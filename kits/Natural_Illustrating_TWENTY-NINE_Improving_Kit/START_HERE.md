@@ -4,7 +4,7 @@
 
 The kit's [README](README.md) says the standing of each folder. The received [v366 entrance](Illustration_Kit_v366/START_HERE.md) continues to introduce that unchanged snapshot.
 
-**Current gathering:** [v380A's reading for v380R](../../incoming/v380A/illustrating/Version_And_Workings.md) receives the Registry's 622 numbered sentences and the managing's square and along pair. The session identity is corrected on the movies, source archives and viewer labels. Their larger geometric correspondence remains to examine together.
+**Current gathering:** [v380A's reading for v380R](../../incoming/v380A/illustrating/Version_And_Workings.md) receives the Registry's successive round, its newer one-momentary receiving, and the managing's parity unit square and along pair. The session identity is corrected on the movies, source archives and viewer labels. Their larger geometric correspondence remains to examine together.
 
 ## v380A · first origin study, and the seventeen names
 

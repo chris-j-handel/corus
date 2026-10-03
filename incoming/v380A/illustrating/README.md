@@ -2,7 +2,7 @@
 
 **Session: v380A, fixed for this session.**
 
-**Current reading and receiving:** [Version_And_Workings.md](Version_And_Workings.md) receives v380L at c2de002 and v380R/main at e374aee65727ae092048b4a8683f626d0467535e. The Registry's successive round and the managing's square and along pair offer more concrete teaching relations. v380R manages all incoming value.
+**Current reading and receiving:** [Version_And_Workings.md](Version_And_Workings.md) receives v380L through 3b8f620 and v380R/main through 42a1ed9. The Registry's successive round and the managing's square and along pair offer more concrete teaching relations. v380R manages all incoming value.
 
 **From:** the v380A illustrating session, 3 October 2026.
 **To:** Natural Illustrating, 4.9 and 2.1–2.8; Natural Resolver's stable forms; the Co-Chaining Logic Registry, 6, 20 and 33; Natural Naming, 5.5 and 5.48; the Equilibria Registry, 2.1–2.2.
