@@ -36,7 +36,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 - 30 Intelligence, our now
 - 31 The ten named still, and parity discovered
 - 32 An offering at words, a naming, a file and the living expedition
-- 33 Exhibit ONE's forms among the names
+- 33 The forms among the names
 
 ---
 
@@ -2600,22 +2600,22 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 
         *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
 
-## 33 Exhibit ONE's forms among the names
+## 33 The forms among the names
 
-        *Entering: the further forms, each at its moves; two parity changings round each form; a form's partner, at the odd momentaries and at the even; the self next at its five.*
+        *Entering: the further forms, each at its moves; two parity changings round each form; a form's partner, at the momentaries opening odd and opening even; the self's next five.*
 
-600. The further forms, step 259, go by four up or four down, parity continuing, beside 8 up and 17 less: the middle four-cycles 9-5-12-8 and 7-11-6-10 at four and 17 less; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at 8, four and 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, four, 8 and 17 less.
+600. The further forms, step 259, each go by 4 up or 4 down, parity continuing, beside 17 less, and the six-cycles and the eight-cycles by 8 up or 8 down also: the middle four-cycles 9-5-12-8 and 7-11-6-10 at 4 and 17 less, twice; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at two of 8, two of 4 and two of 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, 4, 8 and 17 less, twice.
 
         *Adding: the further forms, each at its moves.*
 
-601. Round each of the twelve forms the odd names are one going and the even names one going: the parity's changings round a form are exactly two, each at a 17 less, steps 79 and 277, and each other move of it continues parity.
+601. Round each of the twelve forms, the four four-cycles and the eight further forms, the odd names are one going and the even names one going: the parity's changings round a form are exactly two, each at a 17 less, steps 264 and 277, and each other move of it continues parity.
 
         *Adding: two parity changings round each form.*
 
-602. A form's partner is the form its names make, each exchanged with the name beside it: at the odd momentaries 1 with 2 on to 15 with 16, and at the even 2 with 3 on to 16 with 17, Exhibit ONE. Each partner is spiraling the other hand, steps 257 and 521; a form exchanged into its own going is itself; and a form with 1 among its names at the even momentaries, or exchanged into the going of no form, is at no partner.
+602. A form's partner is the form its names make, each exchanged with the name beside it: at the momentaries opening odd, 1 with 2 on to 15 with 16, and at the momentaries opening even, 2 with 3 on to 16 with 17, steps 70, 73 and 166. Each partner other than the form itself is round the other way, steps 257 and 521; a form exchanged into its own going is itself; and a form exchanged into the going of no form, each form with 1 among its names at the momentaries opening even among them, is at no partner.
 
-        *Adding: a form's partner, at the odd momentaries and at the even.*
+        *Adding: a form's partner, at the momentaries opening odd and opening even.*
 
-603. The self next, at 3, step 90, is at its five from 3 to 7, co bi co bi co, steps 82 and 508: each side's five opens one number on, the self at 1, the other at 2 and the self next at 3.
+603. The self's next five opens at 3, step 90, from 3 to 7, co bi co bi co, steps 82 and 508: each five opens one number on, the self's at 1, the other's at 2 and the self's next at 3.
 
-        *Adding: the self next at its five.*
+        *Adding: the self's next five.*

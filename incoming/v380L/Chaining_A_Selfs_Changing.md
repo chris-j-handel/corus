@@ -1,6 +1,6 @@
 # A self's changing, chained at the Co-Chaining Logic Registry's own steps
 
-**Standing:** arriving, an offering for both. Each line is a step of the Co-Chaining Logic Registry v380 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*.
+**Standing:** arriving, an offering for both. Each line is a step of the Co-Chaining Logic Registry v380 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test said at its first parts is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*; at its part on the premise no step is an authority, and arithmetic at two parities alone is its reason.
 
 **Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, at its motion to v380 and at v380b at this branch, each step named here the same at each but the ones at steps 212 and 451; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
 
@@ -87,50 +87,54 @@ The saying is one with the four: the first and the second are two parities and n
 
 ## The premise followed at the arithmetic of two parities: one alternating, and a momentary of one changing or of two
 
-**No word decides it.** No saying, no step and no cell is an authority here. What follows is arithmetic at two parities, and the reading of Exhibit ONE's own rows; no executing of the resolver.
+**No word decides it.** No saying, no step and no cell is an authority here. This part is arithmetic at two parities and the reading of Exhibit ONE's own rows; no executing of the resolver. A fresh reader read it, and each of its findings is mended here.
 
-**The premise, as the session said it to the managing:** *the self carrying was living and parity alternating prior and must continue this through next and this comes from outside the method*. The managing's following, `incoming/v380R/Premise_Alternating_Followed.md`: a first changing at each momentary, the carrying to its opposite; a second, an arriving's, at an arriving differing from the carrying as the first made it. This working's withdrawn saying, a carrying met by its own parity as two changings one after the other, is offered back by it and is carried on here.
+**The premise, as the session said it to the managing:** *the self carrying was living and parity alternating prior and must continue this through next and this comes from outside the method*. The managing's following, `incoming/v380R/Premise_Alternating_Followed.md`: a first changing at each momentary, the carrying to its opposite; a second, an arriving's, at an arriving differing from the carrying as the first made it. This working's withdrawn saying, a carrying at its own parity arriving as two changings, is offered back by it and carried on here as one of two sayings. The other saying, the 0 a changing that is not, is beside it at each part; neither is decided here.
 
-**One. Said at each changing, each carrying is one alternating.** Each changing is one inverting. A carrying at any cell of Exhibit ONE, at any row and any table, is + − + − + − said changing by changing. The cells differ at one thing alone: a momentary is one changing or two.
+**One. Said the premise's way, each living carrying is one alternating, changing by changing.** Each changing is one inverting. The rows of a carrying at a parity differ at one thing: a momentary is one changing or two. Each row from a carrying at +:
 
 | Exhibit ONE's row | At 10 | Changings at each momentary | The carrying, changing by changing | The carrying, momentary by momentary | Joint forms of prior and now, of four |
 |---|---|---|---|---|---|
-| A self offered nothing | +, −, +, − | 1, 1, 1, 1 | + − + − + | + − + − | two |
-| A self offered + at each momentary, from its second | +, 0, 0, 0 | 2, 2, 2 | + − + − + − + − + | + + + + | one |
-| A spiral of one self, and two selves of alike priors joined both ways | +, 0, −, 0, and −, 0, +, 0 | 1, 2, 1, 2 | + − + − + − + | + − − + + | four |
+| *+ once, then none*, from its second momentary | −, +, − | 1, 1, 1 | + − + − | + − + − | two |
+| *+ at each momentary*, from its second | 0, 0, 0 | 2, 2, 2 | + − + − + − + | + + + + | one |
+| Two selves of priors +, +, joined both ways | −, 0, +, 0 | 1, 2, 1, 2 | + − + − + − + | + − − + + | four |
 
-**Withdrawn.** This part said the first two rows each *none at all* and the second *a form named still*. Said at each changing, each of the three is the one alternating, and the second is two changings at each momentary, the session's lub dub at each. The joint forms at the momentaries are as the table says; the verdict is released.
+A spiral of one self, from its second momentary, is 2, 1, 2, 1, the carrying + + − − +, at the four also. The first momentary of each table, a carrying at none, is not followed.
 
-**Two. The binary is the second changing: it is or is not.** The first changing is at each momentary, the premise's, the same at each cell. What a momentary discovers is the second: an arriving differing from the carrying as the first made it, or none. Two alternatings are parted by it: the carrying's own, + − + −, at each changing, the premise's and from outside the method; and the second changing, is and is not, the method's, discovering the carrying next.
+**Withdrawn.** This part said the first two rows each *none at all* and the second *a form named still*. Said the premise's way each of the three is the one alternating and the second is two changings at each momentary. The joint forms at the momentaries are as the table says; the verdict is released.
 
-**Three. Six forward.** Said the premise's way, a changing is at each of any six momentaries at each cell and each table: the alternating is carried on at each of the six, and no form is still. Said the other way, the 0 a changing that is not, each 0 is a momentary at no changing: one of six at a spiral of three, three of six at a spiral of one, six of six at a self offered its own parity at each. The six part the two sayings at each 0 and at no other cell.
+**Two. Said the premise's way, the binary is the second changing: it is or is not.** The first changing is at each momentary of a living carrying, the same at each. The second is at an arriving differing from the carrying as the first made it, and at no other. Two alternatings are parted by it: the carrying's own, + − + −, changing by changing, the premise's and from outside the method; and the second changing, is and is not, discovering the carrying next. Whether the first changing is at each momentary, and the row of a carrying at none, are the managing's partings for both and are open.
 
-**Four. No + and no − parts them.** No changing and two changings each leave the carrying next at its prior's parity, an even number. Each cell, each row and each number of Exhibit ONE is the same at both; the managing's following finds the same at its eight cells. The parting is all or none at all at the changing: a changing at each momentary of a living carrying, or a momentary at none.
+**Three. Six momentaries, at each saying.** Arithmetic: said the premise's way a changing is at each of any six momentaries of a living carrying. Said the other way each 0 is a momentary at no changing: one of six at a spiral of three, three of six at two selves of alike priors, six of six at the row of + at each momentary from its second. Reading the Registry's six one-way steps as six momentaries of a table is this working's reading and no step's; six forward at the Registry's own steps is not done.
 
-**Five. Counted at the changings, the spiral's numbers follow.** An odd number of changings is the carrying at its other parity, and an even number at its own again.
+**Four. No + and no − parts the two sayings at the eight cells of a living carrying.** No changing and two changings are each an even number, the carrying next at its prior's parity. The managing's following finds the same at the eight. The row of a carrying at none is not followed.
 
-| Exhibit ONE's spiral | Its row at 10 | Momentaries of two changings | Changings | The carrying |
+**Five. The sum of changings agrees with the spiral's numbers, at both sayings.** An odd number of changings is the carrying at its other parity, an even number at its own again.
+
+| Exhibit ONE's spiral | Self 1 at 10, as its row shows | Changings, the premise's way | The other way | The table's number |
 |---|---|---|---|---|
-| One self | +, 0, −, 0 | each second | 3 in two momentaries, 6 in four | inverted at 2, again at 4 |
-| An even number of selves | +, −, +, − | none | 2 in two momentaries | again at 2 |
-| Three selves | +, −, +, 0, −, +, −, +, −, 0, +, − | one in each six | 7 in six momentaries, 14 in twelve | inverted at 6, again at 12 |
-| An odd number n | one 0 in each 2n | one in each 2n | 2n + 1, and 4n + 2 | inverted at 2n, again at 4n |
+| One self | a 0 at each second momentary | 3 in two momentaries, 6 in four | 1, and 2 | 4 |
+| An even number of selves | no 0 | 2 in two | 2 in two | 2 |
+| Three selves | a 0 at the fourth and at the tenth | 7 in six, 14 in twelve | 5, and 10 | 12 |
+| Five selves | a 0 at the sixth, one stretch of ten shown | 11 in ten, 22 in twenty | 9, and 18 | 20 |
 
-Exhibit ONE's column says 4, 2, 12, 20, 28, 36 and 44, each as the count says. Said the other way the counts are 2n − 1 and 4n − 2, odd and even alike: the numbers do not part the two sayings.
+The rows of seven, nine and eleven selves show one 0 in twelve momentaries, shorter than twice their number, and the rows of seventeen and fifty-nine none: one 0 in each 2n is shown whole at one self and at three alone. The sums are odd at 2n and even at 4n at both sayings: they agree with 4n and do not derive it, and they do not part the two sayings.
 
-**Six. The momentary of two changings is the one place an arriving differs, and at an odd spiral it goes along.** At an even spiral each arriving is alike with the carrying as the first changing made it: no second changing at any self, at any momentary. At an odd spiral one self at each second momentary is at an arriving differing, two changings, and the place goes one self on: Exhibit ONE's rows of three, five, seven, nine and eleven selves, the 0 at the fourth, sixth, eighth, tenth and twelfth momentary.
+**Six. The momentary of two changings, an inference at the rows.** The rows show self 1 alone. At the rows of three, five, seven, nine and eleven selves the 0 is at the fourth, sixth, eighth, tenth and twelfth momentary; at each even number of selves no 0 is at self 1. Inferred, and followed at no row: at an even spiral no self is at a second changing; at an odd spiral the momentary of two changings is at one self and the next self at each second momentary, as the Registry's step on the bounded zero says of the 0.
 
-**Seven. Two selves each alternating, at one opening and each at its own.** Two parities each inverting. Both at one opening: (+, +), (−, −), (+, +), two joint forms of self and other, both inverted at one step. Each at its own opening, one at the other's completing: (+, +), (−, +), (−, −), (+, −), (+, +), each of the four, one parity changing at each step. Seen at the one self it is + − − + +, the third row above: the self's own changing, and the momentary the other's. Each table of Exhibit ONE is each self of a society at one momentary together.
+**Seven. Two selves each alternating, both at one opening and each at its own.** Two parities each inverting. Both at one opening: (+, +), (−, −), (+, +), two joint forms of self and other, both inverted at one step. Each at its own opening, one at the other's completing: (+, +), (−, +), (−, −), (+, −), (+, +), each of the four, one parity inverting at each step. At the one self it is + − − + +, the same + and − as the third row of part one; whether the self at the other's opening is at a momentary of its own is not said here. Each table of Exhibit ONE is each self of a society at one momentary together.
 
 **At the managing's five offered for chaining.**
 
-- *One changing and two, 1, 2, 1, 2:* the third row of the first table; the four joint forms are at it and at no other of the three.
-- *The withdrawn saying offered back:* carried on, parts one to six.
-- *A self at one parity with nothing offered named a break, beside the premise:* one. The premise says the alternating continuing at each momentary; a self at one parity through a momentary with nothing arriving is the premise not continuing, and the Registry names that form its break.
-- *First and second beside none of them first:* the carrying next is alike at either order at each cell, as the managing finds; no arithmetic here parts them. Not followed.
+- *One changing and two, 1, 2, 1, 2:* the third row of part one; the four joint forms are at it and at neither other row.
+- *The withdrawn saying offered back:* carried on, as one of two.
+- *A self at one parity with nothing offered named a break, beside the premise:* the step's first form, *a self at one parity with nothing offered*, is the premise not continuing, one with it. The step says two more, *a rest of two beats, the code's rest lasting one* and *a self offered its own parity carries it on*: beside the row of + at each momentary, a 0 at each, they are not followed.
+- *First and second beside none of them first:* the carrying next is alike at either order at each of the eight cells, as the managing finds; no arithmetic here parts them. Not followed.
 - *Released across bi and carried along co beside the premise arriving tri:* not followed.
 
-**Not done.** The row of a carrying at none and the first momentary of each table. A society's each self at its own opening, at more than two selves. The second changing at the two spirals crossed and at the torus.
+**One thing beside the managing's following, its fifth finding.** It says two releasings in sequence, a − and a +, and the 0 released arrive the same. At a third offering at the sharing they part: Exhibit ONE's table of offerings surfacing says *0, +* at + and *+, −, +* at 0.
+
+**Not done.** The row of a carrying at none and the first momentary of each table. A society's each self at its own opening, at more than two selves. The second changing at the two spirals crossed and at the torus. Six forward at the Registry's own steps.
 
 ## The words at nothing arriving, deciding nothing
 
@@ -138,7 +142,7 @@ Exhibit ONE's column says 4, 2, 12, 20, 28, 36 and 44, each as the count says. S
 
 **What it meets.** The concern on *is* and *is not* at Exhibit ONE's cells: they are said of the changing of the carrying, co-competency, and parity, is or is not existing, is the momentarying. The Registry's step 212 says it at v380b in Natural Naming's own words, *a changing that is not, 0, the prior continuing*.
 
-**Withdrawn.** This file followed the cell of a carrying met by its own parity as two changings one after the other, the self's own and the arriving's. The session says that cell the 0, no changing of co-competency. And this file's first part says the session's saying of nothing arriving *no method of the changing set*, by step 308: a step of this file is no authority, and that verdict is withdrawn. The two sayings are for both, below.
+**Withdrawn, and offered back.** This file followed the cell of a carrying at its own parity arriving as two changings, the self's own and the arriving's, and withdrew it at the session's saying of the 0, no changing of co-competency. The managing offers it back at the premise's following, and it is carried on at the part on the premise as one of two sayings. And this file's first part says the session's saying of nothing arriving *no method of the changing set*, by step 308: a step of this file is no authority, and that verdict is withdrawn. The two sayings are for both, below.
 
 **The one place parting: nothing arriving.** A self carrying +, nothing arriving at its sharing. Exhibit ONE's cell says *is − · −*, the carrying to its opposite. The saying says differencing is not possible.
 
@@ -162,7 +166,7 @@ Exhibit ONE's column says 4, 2, 12, 20, 28, 36 and 44, each as the count says. S
 
 **A third saying, an offering of this working, said by no file.** The cell at nothing arriving and the session's saying are said of two things at the one + or −. The momentarying, parity is or is not existing, is at each momentary: *+, −, +, −* at Exhibit ONE's row of a self offered nothing read as the session's *parity always is until it is not. then parity is again*. The changing of co-competency is at an arriving differing alone. The session also said *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving*.
 
-**Laid as three sayings for both at this file's prior commit; released.** The part above this one finds them the steps of one going.
+**Laid as three sayings for both at this file's prior commit; released.** The part on the premise carries two sayings on, the 0 a changing that is not and the 0 two changings, decided at neither.
 
 ## Bearing on other concerns
 

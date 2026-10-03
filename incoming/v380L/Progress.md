@@ -3,7 +3,7 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at d9d9348 joined into it.
+**Branch:** `working/v380L`, with `main` at afde6f0 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 2 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
@@ -22,9 +22,11 @@
 | The entries at the carryings | Sixteen at seven carryings, ten ready and six concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
-| Exhibit ONE's forms, each at the Registry's steps | The diagram and each of the twenty-two tables beside the Registry read whole, by three fresh readers: each table at its standing, eight steps parting from a row, ten steps offered for forms at no step, each checked at the numbers by this working and again by a fresh reader | [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md) |
+| Exhibit ONE's forms, each at the Registry's steps | The diagram and each of the twenty-two tables beside the Registry read whole, by three fresh readers: each table at its standing, eight steps parting from a row, ten steps offered for forms at no step, four of them entered at v380c, each checked at the numbers by this working and again by a fresh reader | [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md) |
 | For the managing | The main line's newest met: nothing arriving, the one place parting, at the Registry's steps; first and second beside none first; Exhibit ONE v380 beside the Registry; the working v380A's handing over beside the managing's gathering | [For_The_Managing.md](For_The_Managing.md) |
-| The Co-Chaining Logic Registry at v380b | Four steps said at Exhibit ONE's rows, 197, 212, 306 and 353; read twice by a fresh reader and for harm; ready for the managing's receiving | The section here on v380b |
+| The Co-Chaining Logic Registry at v380b | Four steps said at Exhibit ONE's rows, 197, 212, 306 and 353; read twice by a fresh reader and for harm; received at `main` | The section here on v380b |
+| The Co-Chaining Logic Registry at v380c | A group of four steps entering, 600 to 603, the forms among the names; read in place by a fresh reader; ready for the managing's receiving | The section here on v380c |
+| The premise followed at the arithmetic of two parities | Beside the managing's following: one changing or two at each momentary, two sayings carried on and neither decided; read by a fresh reader and mended | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the premise |
 | The Co-Chaining Logic Registry, this working's own file | The file and its carrying read whole; a motion to v380 at this branch, ready for the managing's receiving | The section here on the next |
 
 ## For the other two workings, and learned from them
@@ -94,7 +96,26 @@ The kit's checks at the repository's root: the set's check passes; the carrying 
 
 Three fresh readers read the entries. At the third, the concern on *advancing* and the registry's row are found sound as laid; the concern on the zero at 14 is found sound, and the files' own sentence on the between inside a momentary is added to its first saying; the concern on *side* and *step* is found sound at those two words, *beat* released from it; of the sentences on working one is found sound and one re-said. The words added at the third reading's mending are read by no fresh reader.
 
-## The Co-Chaining Logic Registry at v380b, ready
+## The Co-Chaining Logic Registry at v380c, ready
+
+**The one thing, whole: a group of four steps entering, *The forms among the names*, steps 600 to 603.** Each is a form among Exhibit ONE's names at no prior step. No prior step is re-said or numbered again; the contents carry one line more; the file is at 603 steps in 33 groups.
+
+| Step | It adds | At Exhibit ONE |
+|---|---|---|
+| 600 | The eight further forms, each at its moves: 4 up or 4 down beside 17 less, and 8 at the six-cycles and the eight-cycles | The table of the twelve forms, each move at its two names |
+| 601 | Two parity changings round each of the twelve forms, each at a 17 less | The column of the hand at the names, twelve of twelve |
+| 602 | A form's partner, its names each exchanged with the name beside it, at the momentaries opening odd and opening even | The two columns of partners, twenty-four cells of twenty-four |
+| 603 | The self's next five, 3 to 7 | The table of fives, its third row |
+
+**The kit's checks.** The set's check passes; the carrying check says nothing to say; the reader checks find 603 steps in 33 groups, each Entering its Adding lines joined, and no released word.
+
+**A fresh reader, read in at Natural Naming and the Geodesic Improving Method, the four in place and for harm.** Each of the four agrees at the numbers, each move, each parity changing and each partner computed again by the reader. Found and mended: step 600 said *beside 8 up and 17 less* of the middle four-cycles, at no 8; step 602 said each partner the other hand, and three forms are their own partner; step 603 said *the self next* at a second sense; the group's title named a file.
+
+**For the managing.** Exhibit ONE's condition at the twelve forms says the middle four-cycles *beside 8 up*, and they are at no 8. The group is at the file's end; the motion at v378 entered each step at the step it rests on. And the Living File Registry's row carries the file's numbers.
+
+**Not read again:** the four sentences as mended.
+
+## The Co-Chaining Logic Registry at v380b, received
 
 **The one thing, whole: four steps said at Exhibit ONE's own rows.** No step is added, released or numbered again.
 
@@ -153,7 +174,7 @@ Three fresh readers read the entries. At the third, the concern on *advancing* a
 
 Six for both, each two sayings parting with its reason, at its file's carrying: the zero at 14; *side* and *step*; *advancing*; and, at the Co-Chaining Logic Registry's, the -ing at each saying of a living, the step on alternation and cancelling, and three steps beside Exhibit ONE's rows.
 
-**Nothing arriving, met at the arithmetic of two parities, no word deciding.** The carrying to its opposite at each momentary, + − + −, is at two joint forms of prior and now of the four; the carrying carried on at each, one; the two alternating, + − − +, each of the four, the carrying next at its prior inverted. The two sayings are the two steps of one going, alternating as at Exhibit ONE's own rows, *+, 0, −, 0*. At [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md); a tenth step offered at the Registry's carrying.
+**The premise, one changing or two at each momentary, for both.** Said to the managing: *the self carrying was living and parity alternating prior and must continue this through next*. Two sayings are carried on, the 0 a changing that is not and the 0 two changings, and no + or − of Exhibit ONE parts them at the eight cells of a living carrying. Said the premise's way each living carrying is one alternating, changing by changing, and a momentary is one changing or two. At [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the premise. This working's verdict of *none at all* at its prior arriving is withdrawn.
 
 One for the managing: the folder's release to the archive beside five entries naming the folder.
 

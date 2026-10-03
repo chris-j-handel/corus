@@ -51,7 +51,7 @@
 
 ## Steps offered, each a form of Exhibit ONE at no step
 
-Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
+The first four are entered at v380c as steps 600 to 603, each re-said at a second fresh reading; the Registry's sentence is the one carried, and the sentence here is the one offered. Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
 
 **One, entered at v380c as step 600. The further forms, each at its moves.**
 *The further forms go by four up or four down, parity continuing, beside 8 up and 17 less: the middle four-cycles 9-5-12-8 and 7-11-6-10 at four and 17 less; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at 8, four and 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, four, 8 and 17 less.*

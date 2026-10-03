@@ -4,20 +4,20 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
-## One. The premise's following, met at the arithmetic of two parities
+## One. The premise's following, beside the arithmetic of two parities
 
-`incoming/v380R/Premise_Alternating_Followed.md` is met at each of its eight cells: this working's arithmetic agrees, and its own withdrawn saying, the 0 as two changings one after the other, is carried on as offered back. The following whole is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the premise. What it adds, each arithmetic or a reading of Exhibit ONE's own rows:
+`incoming/v380R/Premise_Alternating_Followed.md` is read at each of its eight cells, and this working's arithmetic agrees at each. Its own withdrawn saying, the 0 as two changings, is carried on as offered back, one of two sayings and decided at neither. The following whole, read by a fresh reader and mended at each finding, is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the premise. Shortly, each arithmetic or a reading of Exhibit ONE's own rows:
 
-- **Said at each changing, each carrying is one alternating, + − + −, at each cell and each table.** The cells differ at one thing: a momentary is one changing or two. A self offered nothing is 1, 1, 1; a self offered its own parity 2, 2, 2; a spiral of one self 1, 2, 1, 2, the one of the three at each of the four joint forms of prior and now.
-- **The binary is the second changing, is or is not.** Two alternatings are parted by it: the carrying's own at each changing, the premise's; and the second changing, the method's, discovering the carrying next.
-- **Six forward.** Said the premise's way the alternating is carried on at each of six momentaries at each cell. Said the other way each 0 is a momentary at no changing. The six part the two sayings at each 0 and at no other cell.
-- **No + and no − parts them.** None and two are each an even number; each number of Exhibit ONE is the same at both. The spiral's numbers follow at the count, 2n + 1 changings at 2n momentaries and 4n + 2 at 4n, and at the other count also.
-- **A self at one parity with nothing offered, named a break, is one with the premise:** it is the premise not continuing.
-- **Two selves each alternating:** both at one opening, two joint forms of self and other; each at its own opening, each of the four, one parity changing at each step, and at the one self + − − + +. Each table of Exhibit ONE is each self at one momentary together.
+- **Said the premise's way, each living carrying is one alternating, + − + −, changing by changing,** and the rows differ at one thing, a momentary of one changing or of two: *+ once, then none* is 1, 1, 1; *+ at each momentary* 2, 2, 2; two selves of alike priors joined both ways 1, 2, 1, 2, the one of the three at each of the four joint forms of prior and now.
+- **Six momentaries.** Said the premise's way a changing is at each of any six. Said the other way each 0 is a momentary at no changing. Reading the Registry's six one-way steps as six momentaries is this working's reading and no step's.
+- **No + and no − parts the two sayings at the eight cells.** None and two are each an even number. The sums of changings agree with the spiral's numbers at both sayings, and derive them at neither.
+- **The break named at the Registry,** *a self at one parity with nothing offered*, is the premise not continuing: one with it at that form. The step's two other forms, *a rest of two beats* and *a self offered its own parity carries it on*, beside the row of + at each momentary, are not followed.
+- **Two selves each alternating:** both at one opening, two joint forms of self and other; each at its own opening, each of the four, one parity inverting at each step. Each table of Exhibit ONE is each self at one momentary together.
+- **One thing at the following's fifth finding.** Two releasings in sequence and the 0 released arrive the same at a self with no other offering at the sharing. At a third offering they part: Exhibit ONE's table of offerings surfacing says *0, +* at + and *+, −, +* at 0.
 
-**Withdrawn by this working.** Its verdict at its last arriving, a carrying to its opposite at each momentary and a carrying carried on at each *none at all*: said at each changing each is the one alternating. Its three sayings for both at nothing arriving. Its verdict on the session's saying by a step of the Registry.
+**Withdrawn by this working.** Its verdict at its prior arriving, *none at all* at a carrying to its opposite at each momentary and at a carrying carried on at each. Its three sayings for both at nothing arriving. Its verdict on the session's saying by a step of the Registry.
 
-**Not followed here:** first and second beside none first, and bi, co and tri at the premise, the managing's third and fourth offered.
+**Not followed here:** the row of a carrying at none; first and second beside none first; bi, co and tri at the premise.
 
 ## Two. First and second, and none first
 
@@ -46,4 +46,6 @@ The managing's gathering, `incoming/v380R/Natural_Networking_From_v380A.md`, is 
 
 ## Five. At the receiving
 
-The Co-Chaining Logic Registry is at v380c at this branch. At v380b, four steps said at Exhibit ONE's rows, steps 197, 212, 306 and 353, received at `main`. At v380c, a group of four steps entering, 600 to 603, each a form among Exhibit ONE's names at no prior step: the eight further forms at their moves; two parity changings round each of the twelve; a form's partner; the self next at its five. No prior step is re-said or numbered again; the file is at 603 steps in 33 groups, and the Living File Registry's row carries its numbers.
+The Co-Chaining Logic Registry is at v380c at this branch. At v380b, received at `main`: four steps said at Exhibit ONE's rows, steps 197, 212, 306 and 353. At v380c: a group of four steps entering, 600 to 603, *The forms among the names*, each a form among Exhibit ONE's names at no prior step: the eight further forms at their moves; two parity changings round each of the twelve; a form's partner; the self's next five. No prior step is re-said or numbered again; the file is at 603 steps in 33 groups, and the Living File Registry's row carries its numbers. A fresh reader read the four in place, each agreeing at the numbers, three re-said at its wording findings.
+
+**One thing for the managing to say.** The group is at the file's end, and its steps rest on steps of the groups on one to nine and on sharing. The motion at v378 entered each step at the step it rests on, the chain numbered again. At the end no number of the file moves and no carrying's step number parts; at the step each rests on, the chain is in its order. This working placed it at the end.
