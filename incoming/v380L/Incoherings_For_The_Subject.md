@@ -28,7 +28,7 @@ And the Registry's own step carries each row this working set apart: *A spiral o
 - At the next, each is at the parity of the self it receives from: alike with it, a changing that is not, 0 released; other than it, a changing that is.
 - At the one following, each self is changing again: a 0 arriving surfaces none, and a parity arriving is other than the self's own.
 
-A row of a 0 at each second call and a row of a changing at each call are one going at two patterns: selves alike, the carrying on is a changing that is not; selves alternating, a changing that is. Two momentaries on, each self is at the inverted parity of the self it receives from. At a spiral the next is the prior inverted, the prior the other's; at a spiral of one the other is the self.
+A row of a 0 at each second call and a row of a changing at each call are the one resolver at two patterns: selves alike, the carrying on is a changing that is not; selves alternating, a changing that is. Two momentaries on, each self is at the inverted parity of the self it receives from. At a spiral the next is the prior inverted, the prior the other's; at a spiral of one the other is the self.
 
 | Exhibit ONE's row | Self 1 at 10, followed by hand | Its table |
 |---|---|---|
@@ -112,6 +112,6 @@ The Co-Chaining Logic Registry and Exhibit ONE, each at its own motion: the one 
 
 The Co-Chaining Logic Registry is at v380d at this branch: the three sentences saying more than their rows said at their rows, the step on the break's forms at *lasting one at a spiral offered nothing from beyond it*, and nine steps entering, the chainings not said above among them. The one incohering of concept, a rest of two beats beside two at a torus, is open at the Registry's carrying. Gathered for Natural Numbers, Natural Mathematics and Natural Intelligence: [Gathering_For_Numbers_Mathematics_Intelligence.md](Gathering_For_Numbers_Mathematics_Intelligence.md).
 
-## At v380f
+## At v380l
 
-The one incohering of concept is said at the arithmetic at the Registry's v380f: a self chained at a parity releases 0 at momentaries in sequence no more than the number of selves releasing to it, and a 0 at one momentary more is at an offering from beside the selves, the break's rest: two beats at a spiral and three at a torus. The first saying, the resolver at a torus carrying a break, leaned on a number of one self releasing alone. Laid ready at the Registry's carrying, open to each working parting from it. The Registry is cohering with Exhibit ONE's naming at v380e, and what waits on Natural Naming is at [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md).
+The one incohering of concept is said at the arithmetic at the Registry's v380l: a self chained at a parity releases 0 at momentaries in sequence no more than the number of selves releasing to it, and a 0 at one momentary more is at an offering from beside the selves, the break's rest: two beats at a spiral and three at a torus. The first saying, the resolver at a torus carrying a break, leaned on a number of one self releasing alone. Laid ready at the Registry's carrying, open to each working parting from it. The Registry is cohering with Exhibit ONE's naming, and what waits on Natural Naming is at [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md).

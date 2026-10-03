@@ -1,17 +1,17 @@
 # The Co-Chaining Logic Registry beside Exhibit ONE's naming and explaining
 
-**Standing:** an offering of the working v380L, for the working v380R at its plan for Natural Naming and for any working arriving. Three fresh readers read the Registry whole, 612 steps, beside Exhibit ONE v380f, each making a list of its part; nothing executed. What is entered at the Registry is at its v380e and v380f; what waits is here.
+**Standing:** an offering of the working v380L, for the working v380R at its plan for Natural Naming and for any working arriving. Three fresh readers read the Registry whole, 612 steps, beside Exhibit ONE v380f, each making a list of its part; nothing executed. What is entered at the Registry is at its v380l; what waits is here.
 
 **Read:** `main` at 25881d5: Exhibit ONE v380f whole; `incoming/v380R/For_The_Workings.md`, its plan for Natural Naming, six things.
 
 ## Entered at the Registry
 
-| Version | The one thing | Steps |
+| At v380l | The one thing | Steps |
 |---|---|---|
-| v380e | The resolver said the resolver at each place the file said *the code* | 197, 199, 203, 205, 213, 216, 220, 243, 244, 248, 249, 308, 328, 414, 491, 492, 511, 568, 578, 579, and each line naming them |
-| v380e | Exhibit ONE's cell words: released at 10, a changing that is not | 303, 306 |
-| v380e | Sentences said for a first reading, or at Exhibit ONE's header words | 195, 196, 207, 230, 233, 237, 238, 241, 243, 244, 248, 258, 526, 566, 601, 602, 610, 611, 612 |
-| v380f | Five steps entering, each gathered at Natural Intelligence, Natural Numbers or Natural Mathematics and worked at the numbers | 613 to 617 |
+| Cohering | The resolver said the resolver at each place the file said *the code* | 197, 199, 203, 205, 213, 216, 220, 243, 244, 248, 249, 308, 328, 414, 491, 492, 511, 568, 578, 579, and each line naming them |
+| Cohering | Exhibit ONE's cell words: released at 10, a changing that is not | 303, 306 |
+| Cohering | Sentences said for a first reading, or at Exhibit ONE's header words | 195, 196, 207, 230, 233, 237, 238, 241, 243, 244, 248, 258, 526, 566, 601, 602, 610, 611, 612 |
+| Entering | Five steps entering, each gathered at Natural Intelligence, Natural Numbers or Natural Mathematics and worked at the numbers | 613 to 617 |
 
 No name of the seventeen is written at the Registry at another number, prefix or root than Exhibit ONE's: each checked by a reader, digit by digit.
 
@@ -41,7 +41,7 @@ Each reader's re-saying of a step, the word dissolved, is offered as a reading a
 - **Rest.** A flow's still point at the torus, steps 112 and 429; the 0 released at momentaries in sequence, steps 308 and 611.
 - **The ten named still at the names.** Steps 511, 512 and 522 seat the names 1 to 8 at an even side and an odd side; Exhibit ONE's table of fives says *self, at 1 · 1 2 3 4 5 · co bi co bi co* and *other, at 2 · 2 3 4 5 6 · bi co bi co bi*. Not followed.
 
-## Sentences of the Registry not said at Exhibit ONE's rows, each left as it is
+## Sentences of the Registry not said at Exhibit ONE's rows, each as it is
 
 - Step 68, *Two opposed changings at one momentary cancel, offering nothing forward*: at a sharing chained at a parity a + and a − offered are a changing, the prior inverted; nothing is released at a carrying of none alone, Exhibit ONE's *Colliding*. A concern at the Registry's carrying carries it.
 - Step 568, of a file's sharing: *two offerings disagreeing surface 0 … the file's prior continuing*. At the resolver the prior is inverted at a 0 surfacing.

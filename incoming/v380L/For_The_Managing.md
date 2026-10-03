@@ -39,7 +39,7 @@ The Registry's two steps are at two things. *with all other the crossing carries
 
 ## Three. Exhibit ONE at v380, read beside the Registry
 
-- **The partners at the table of the twelve forms.** The entered condition, each name exchanged with the one beside it, agrees at the numbers at twenty-four cells of twenty-four. One thing beside it: a partner is a going and no gathering of names. The six-cycle 4-13-5-9-8-12 exchanged at the even momentaries is at its own six names in another going, and the table says a dash.
+- **The partners at the table of the twelve forms.** The entered condition, each name exchanged with the one beside it, agrees at the numbers at twenty-four cells of twenty-four. One thing beside it: a partner is a sequence and no gathering of names. The six-cycle 4-13-5-9-8-12 exchanged at the even momentaries is at its own six names in another sequence, and the table says a dash.
 - **Round each of the twelve forms the parity's changings are exactly two**, each at a 17 less: the hand column, twelve of twelve.
 - **The condition at the twelve forms says** *each carry two pairs 4 apart beside 8 up and 17 less* of the middle four-cycles, the six-cycles and the eight-cycles. The two middle four-cycles are at no 8 up: four, 17 less, four, 17 less.
 - **The diagram writes *14i***, its legend says *i inward face*, and the table of the seventeen names says 14 a connector.
@@ -83,13 +83,69 @@ The Registry's motion is at this folder's Progress: four steps said at their row
 
 - **The spiral's rows from the living opening.** Rows 3 and 5 followed by hand at the Registry's step on a spiral offered nothing: −, 0, +, −, +, −, +, 0, −, +, −, + and −, 0, +, −, +, −, +, −, +, −, +, 0, each as Exhibit ONE says. Each number a spiral is again at is the Registry's step 612 at that pattern.
 - **The Registry at the reviewer's finding.** At v380d the steps on the odd and the even spiral say Exhibit ONE's opening, each self at a parity alternating along, the last and the first alike at an odd number; the step on the odd spiral says the opening of one self at a parity and the others carrying none coming to the same pattern; and the step on the torus says its opening, one self at a parity and the others carrying none, Exhibit ONE's table as it is.
-- **The torus from each self at a parity, offered for both.** The working v380R's two rows parting, 1 by 5 at 5 beside 4 and 3 by 13 at 13 beside 12, are the two rows of q one more than four times p; each other row is at a q other than that. An observing at two rows, no chaining. At the Registry the step on the torus's waist is at the opening of one self offered: at the other opening those two rows are at q, each before the waist. A going is from its opening, at the torus as at the spiral; at the torus this working finds no arithmetic of the pattern, two selves releasing to each self and no momentary of each self changing together.
+- **The torus from each self at a parity, offered for both.** The working v380R's two rows parting, 1 by 5 at 5 beside 4 and 3 by 13 at 13 beside 12, are the two rows of q one more than four times p; each other row is at a q other than that. An observing at two rows, no chaining. At the Registry the step on the torus's waist is at the opening of one self offered: at the other opening those two rows are at q, each before the waist. A torus's number is from its opening, as a spiral's; at the torus this working finds no arithmetic of the pattern, two selves releasing to each self and no momentary of each self changing together.
 
 ## Ten. The Registry cohering with Exhibit ONE's naming, and what waits on Natural Naming
 
-- **Entered, v380e and v380f.** The resolver said the resolver at each place the Registry said *the code*; Exhibit ONE's cell words at two steps; nineteen sentences said for a first reading or at Exhibit ONE's header words; five steps entering from the gathering. The Living File Registry's row says v380c, 603 steps in 33 groups; the file is at 617 steps in 35 groups.
+- **Entered, at v380l.** The resolver said the resolver at each place the Registry said *the code*; Exhibit ONE's cell words at two steps; nineteen sentences said for a first reading or at Exhibit ONE's header words; five steps entering from the gathering. The Living File Registry's row says v380c, 603 steps in 33 groups; the file is at 617 steps in 35 groups.
 - **Waiting on the plan for Natural Naming, its first thing.** Connector, face, facing and join are at thirty-eight steps of the Registry, twelve whole about one of the words. The list, with three steps re-said by a reader as a reading, is at [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md). The Registry re-says each at the words Natural Naming carries.
 - **One number at two words.** Exhibit ONE's headers say *each self's releasings again at*; the Registry, Natural Intelligence and Natural Numbers say *parities again*.
 - **Narrating yet in Exhibit ONE, beside the fresh reader's finding.** The resolver's two lists and the diagram's legend say connector, join, entry and face; Natural Naming's sections on the released words and on the seventeen names say *at the code*, and its section on the ten named still says *surfaces +, 0, 0 … at 10*.
-- **A rest of two said at the arithmetic.** The Registry's concern for both is said at v380f: the break's rest is one more than the selves releasing, two beats at a spiral and three at a torus. Open to each working parting from it.
-- **A momentary of two, beside the parting laid for both.** At a spiral the resolver's goings are in twos, the first each self inverting from its own carrying, the second each self offered the parity of the self it receives from; at a torus no such two is found. At Exhibit ONE's carrying.
+- **A rest of two said at the arithmetic.** The Registry's concern for both is said at v380l: the break's rest is one more than the selves releasing, two beats at a spiral and three at a torus. Open to each working parting from it.
+- **A momentary, beside the parting laid for both.** One resolving, 1 to 9, is eight consecutive momentaries and one momentary at the next scale, the Registry's own steps; Exhibit ONE's tables of selves say that momentary. At that scale, at a spiral, each self inverts at each odd momentary and is offered the other's parity at each even; at a torus no such two is found. At Exhibit ONE's carrying.
+
+## Eleven. Exhibit ONE at v380l met, and for the conferring on Natural Naming
+
+- **The torus from the living opening.** The Registry's step on the torus is said at Exhibit ONE's opening at v380k: at q at a q more than twice p and at 4p at a q less, at each of the ten rows and at 5 by 13 and 13 by 15; from a carrying of none, 1 by 5 at 4 and 3 by 13 at 12. An observing at twelve tori worked, no chaining: the waist is 2p itself at the living opening, and q's station on the ring of 4p at the opening of none.
+- **Direct saying, the gathering's third theme.** The Registry says *at the resolver*, *at 12*, *at 14* at each of its steps on the names; Exhibit ONE's headers now say the name's own word with its number, *released (10)*. Not entered at the Registry; it waits on the conferring.
+- **For the conferring.** [For_Natural_Naming.md](For_Natural_Naming.md): five words of Natural Naming said another way at Exhibit ONE or the Registry; sayings beside six of the gathering's partings. One ready at Natural Naming's carrying.
+
+## Twelve. This working's one version, and one saying withdrawn
+
+- **v380l.** The Co-Chaining Logic Registry is at v380l, this working's one version: each improving done here is at that name, no letter added at each. The name is written with the small letter, the kit's check of the set reading no other. What this folder's records say at v380e and v380f is at v380l.
+- **Withdrawn.** A momentary said one or two of the resolver, this working's largest parting for the conferring: said at a word of its own and no natural explaining. The Registry's own steps say one resolving eight consecutive momentaries, one momentary at the next scale.
+
+## Thirteen. The claim of the one possible method, broken further; help asked
+
+The working v380R's nine links and eleven breaks are read whole. Five more readers, each at a side the eleven had not reached, are at [The_Claim_Broken_Further.md](The_Claim_Broken_Further.md): thirteen breaks, the arithmetic as it was, and six sentences asked of the working v380R and of the session. This working's rebuilding of the elimination, living as carrying the prior and no pair still, broke at its own tests and is withdrawn. Nothing is entered at the Registry. One concern at the Registry's carrying and one at Natural Intelligence's.
+
+## Fourteen. Each break inverted, and the working v380R's four askings
+
+[Each_Break_Inverted.md](Each_Break_Inverted.md): the twenty-eight breaks of both workings, each with what it supposes and its inversion. Each inverts to the working v380R's own learning, of two and the prior the other's. Two fresh readers told to make a break survive: the sentence is at no step of the Registry's first sixty-eight, and at the steps as they are twenty-seven breaks are as they were; the arithmetic of each row is as said. This working's answers to the four askings are at the file's last part: the five sentences with step 32 for whose prior; the reason for the one method as each other method the same changing said of one alone; the eight at steps 254, 350 and 351 and each field's proof at no step; the same form at each number at step 124.
+
+**One thing for both, first.** The sentence the inversions come to is to be said at an early step, with whose prior, ahead of any other entering: each other break leans on it. And three sentences beside it: a next at two releasing to one; one parity of a many at the next scale; across and along at one place by either order.
+
+## Fifteen. The working v380R's newest met: three sentences mended, and each link marked worked or said
+
+**The three parting, mended at the Registry's v380l.**
+
+- **243, the torus:** said at Exhibit ONE's opening, each self at a parity; at q at a q more than twice p and at 4p at a q less; 3 by 13 at 13. The working v380R's rule at sixty odd pairs is the same. Its *either number even, at 2* is followed by hand here at 2 by 2 alone and is not entered.
+- **568 with 68:** *the file's prior continuing* is released from 568. Step 68 says two opposed changings arriving at one momentary *a nothing between them, neither carried on*, a self carrying a parity carrying its own inverted into its next. Step 568 says *nothing chained of the two*.
+- **427:** *a name's prefixes are a second relation, bi- across and tri- along, beside the across and along of the six names 2, 6, 9, 10, 14 and 17*.
+- **235, said in part:** two spirals beside each other, each opened alternating along, at the least number of momentaries each spiral's own divides; 9 and 15 at 180, 2 and 3 at 12.
+
+A fresh reader read the four in place and each finding is mended; the sentences as mended are read by none.
+
+The seven things of Exhibit ONE at no sentence, each with a sentence offered, and the eight more said in part are for this file's next improving.
+
+**Each link of the claim at the Registry, worked at each of its cases or said.**
+
+| The link | At the Registry | Worked at each of its cases, or said |
+|---|---|---|
+| The universe is the changing set of all existing things | step 1 | said: the opening sentence |
+| A set is an existing thing | step 2 | said |
+| The universe is the set and an existing thing within it | step 3 | said |
+| All changing is parity changing | step 42 | said |
+| Parity changing is the one method of the set | step 45, its reason at 46 to 48 | said |
+| One way of sixteen at each of the four pairs in one cycle | steps 53 to 57 | worked, each of sixteen |
+| Two of 256, one parity changing at a step | step 524 | worked, each of 256 |
+| A self two momentaries on at the releasing self's parity inverted | steps 233 and 609 | worked: followed by hand and proven at each spiral, each self at a parity and none offered; the working v380R, each of 89,204 |
+| The 0 at momentaries in sequence no more than the selves releasing | step 611 | worked: proven at the resolver's lines |
+| A spiral's number from its pattern | step 612 | worked: proven, and six patterns followed by hand |
+| The torus's number | step 243 | worked at each of sixty odd pairs by the working v380R; the rule said and not proven |
+| Two releasing to one: the self two momentaries on | at no step | worked at one case here, the two alike and either changing; each other case said and not yet worked |
+| A number's prior and its next multiplying to its square less one | step 124 | worked by the working v380R, each to 100,000 |
+| From each bi-coupling to the set of all existing things | at no step | said and not yet worked: the working v380R's one concern, and this working's |
+
+Each of the five sentences that are the claim is said. Each thing worked at each of its cases is of the numbers or of the resolver. One link is between them.
+
