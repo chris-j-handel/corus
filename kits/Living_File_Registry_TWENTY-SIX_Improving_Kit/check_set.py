@@ -23,7 +23,7 @@ FILES = {s: newest(s) for s in STEMS}
 for stem, path in FILES.items():
     if not path: print(stem, '  (absent)'); continue
     fn = os.path.basename(path); t = open(path, encoding='utf-8').read(); L = t.split('\n')
-    ver = re.search(r'_v(\d+[a-z]*)\.md$', fn).group(1)
+    ver = re.search(r'_v(\d+[A-Za-z]*)\.md$', fn).group(1)
     print(fn)
     say(L[0].endswith('v' + ver), 'the version line does not end at the file\'s version: ' + L[0])
     # contents vs headings

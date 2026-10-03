@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v379
+Exhibit TWENTY-FOUR Geodesic Improving Method v380R
 
 # Geodesic Improving Method
 
@@ -202,6 +202,12 @@ A correct calculation is carried as it is and never as a larger discovering than
 **An unfinished correspondence goes to its file's carrying as a concern, with its reason and its next**, and never to an artifact relied on by nothing alone; a source a received finding rests on goes with the finding to its file or its carrying, never to the archive alone; and a visiting report arrives whole at `incoming/` and is met at the one way in, 1.4, its standing said at each event: offered on a branch, arrived at `main`, received at the carrying as ready or concern, entered at a file, or released.
 
 **A newer arriving is comparison material and decides nothing.** With the arriving work receiving this carrying as its incoming, a saying found at both is a carrying forward and not an independent arrival. A working's outgoing carry and the set's improving are two works: one contribution with its receiving files, joining the set at its own next.
+
+**Several workings improve the set at once, each at its own name.** A session's number and a working's letter name a working, v380A, v380L, v380R, and each file a working improves carries that working's name as its version, one version through each of the working's motions at that file. Each motion is in the record by its changing.
+
+**One working manages the set.** It receives each working's files whole at `main`, offers each motion to each working at one share in its own folder at `incoming/`, and brings the Living File Registry's table of workings current at each receiving. Each working reads that share at its opening and offers its own at its own folder.
+
+**A file the managing working improves after its arriving carries the managing working's version**, and lives at it until a later session improves it. Two workings sharing one file improve it one after the other: the second receives the first's file whole and improves from it, and the root carries one version of each file.
 
 ## 2.9 Opening a session at the repository
 
