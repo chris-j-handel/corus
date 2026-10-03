@@ -44,6 +44,8 @@ None.
 
 **Ready, at v380l, from `incoming/v380L/For_The_Managing.md`, its part on the round at this file, for the working v380R at this file's next motions.** One table of the round at four parities: each of the sixteen names at its form, and beside it the parities inverted by 17 less, by 9 less within 1 to 8 and by 8 up within 1 to 8. Listed by hand at each name: each next name is one parity inverted; 17 less inverts the fourth alone, 9 less the third alone, 8 up the third and fourth, 9 less and 17 less in sequence; each momentary is one odd and one even name one parity apart; 17 less carries each momentary to one of its own kind in the other order, 8 up in its own order. Each face of the one move is one parity inverted, or two in sequence. The Co-Chaining Logic Registry's steps 618 to 622 say it.
 
+**Ready, at v380l, from `incoming/v380L/For_The_Managing.md`, its nineteenth part, for the working v380R at this file: the tables of one self at one momentary and of a carrying of none said as two sentences, one momentary each.** One parity surfacing is the self's next, each of six cells. At none surfacing, and at + and − together, a self at a parity is next at its other parity, each of four; a self carrying none carries none on, each of two. Each of twelve cells followed by hand at the resolver's lines. The dissolved words are yet at this file beyond its two namings: *the joins* at its rows of 5 and of 5-co-bi-co-competencing; *joins*, *facings* and *joined both ways* at its row of parity's face; *outgoing* and *incoming* in its picture.
+
 ## Concern
 
 **The concerns open, hardest first.** The nineteen met at v375 to v378 are at the Session Record.

@@ -194,3 +194,28 @@ At the welcome of `incoming/v380R/The_Universal_Claim.md`: a row at its table of
 
 **The round at Exhibit ONE, an idea worked at four parities.** One table of the sixteen names, each at its form, and beside it the parities inverted by 17 less, by 9 less within 1 to 8 and by 8 up within 1 to 8: each face of the one move one parity inverted, or two in sequence. Parities inverted at each number: 1 none; 2 the first; 3 the first and second; 4 the second; 5 the second and third; 6 the first, second and third; 7 the first and third; 8 the third; 9 to 16 the same in the other order, 16 to 9, each with the fourth.
 
+## Nineteen. A self's next said one momentary at a time, *inverted* unsaid; and the Registry at Exhibit ONE's words for the names
+
+**The session's saying worked.** *My prior is your next existing* is at each of six cells of one parity surfacing, Exhibit ONE's tables of one self at one momentary and of a carrying of none: a self carrying +, − or none is next at the parity surfacing, and from a self's releasing that parity is the releasing self's own carrying, chained one momentary prior. It is one momentary. The fourth sentence, the other's prior inverted, is two momentaries said as one, and *inverted* is the first of the two: a self at a parity, none surfacing, next at its other parity.
+
+**Two sentences, one momentary each, twelve cells followed.**
+
+| Carrying | None surfacing | + surfacing | − surfacing | + and − together |
+|---|---|---|---|---|
+| + | − released, − next | 0 released, + next | − released, − next | − released, − next |
+| − | + released, + next | + released, + next | 0 released, − next | + released, + next |
+| none | none released, none next | + released, + next | − released, − next | 0 released, none next |
+
+One parity surfacing is the self's next: the six cells of the two middle columns. At none surfacing, and at + and − together, a self at a parity is next at its other parity: four cells. A self carrying none carries none on: two.
+
+**Entered at the Registry, group 37, steps 623 to 627**, 627 steps in 37 groups. A spiral's first two momentaries are the second sentence and the first in sequence; each further momentary is at one of the two at each self. A self offered its own parity from beyond, and a second self alike receiving from it alone, part from the fourth sentence and are at the two sentences at each momentary.
+
+**A fresh reader read it to break it**, each of twelve cells by hand at the resolver's lines and two spirals momentary by momentary, of three at −, +, − and of two at −, −: thirty-six notes, each finding in this working's files mended and the mended sentences not read again; the eight at step 254, four outward and four inward, as it was. The ones bearing beyond the Registry:
+
+- *My prior is your next existing* is at a parity released. At a self releasing 0, the receiving self is next at its own other parity.
+- A parity offered from beyond the selves surfaces and is no self's carrying.
+- A carrying of none releases none at none surfacing and 0 at + and − together.
+- Exhibit ONE yet says the dissolved words beyond its two namings: *the joins* at its rows of 5 and of 5-co-bi-co-competencing; *joins*, *facings* and *joined both ways* at its row of parity's face; *outgoing* and *incoming* in its picture; *outward* and *inward* at its rows of bi-coupling.
+
+**The Registry at Exhibit ONE's words for the names.** Eighteen steps re-said, `incoming/v380L/Registry_Beside_Exhibit_ONE_Naming.md`: connector at no step now. *Step* at each of the Registry's numbered sentences, and *face* said of two or three of one thing, are as they were, each waiting on the conferring. *Inverted* is yet at the Registry's own steps, 609 among them: steps 623 to 627 say a self's next with *its other parity*, and the wider re-saying is for a next motion.
+
