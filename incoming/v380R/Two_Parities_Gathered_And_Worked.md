@@ -76,3 +76,27 @@ Of its five partings:
 - No chaining at the Registry's steps of the even rows.
 - No row of Exhibit ONE's tables worked at two parities from its own first momentary, a carrying at none and + offered once.
 - No fresh reader has met this file.
+
+## The session's next saying: many parities, and a five arriving and a five releasing
+
+**The session's saying.** *a self carries many parities in 440 binaries. a bi-co-momentary shares five consecutive arriving parities over prior now next and five releasing over the same prior now next in opposite order where prior and next are reversed and the momentary ordering stays the same inside*
+
+**No word decides it.** Arithmetic at the living step, the next the prior inverted, worked at each of the four pairs of parities at 3 and at 4. No executing of the resolver; no fresh reader has met it.
+
+**One. Many parities, and the two.** A self carries many sharings, each at its parity; Natural Numbers carries a ring of 440. The two of the learning above, the social along and the other across, are the two of one momentary at one of the many. Read this way Exhibit ONE's resolver, a carrying of many sharings each at its own arrivings, is whole as it is, and the root concern, one sharing or two parities, is at its first saying. This is this working's reading and is laid as a saying, decided by no one.
+
+**Two. The five releasing, at three orders, all or none at all.** The five arriving is at the numbers 1, 2, 3, 4, 5: the prior whole, the now whole, the next's opening. Its releasing five over the same prior, now and next, the prior and the next reversed:
+
+| The releasing five | At the numbers | A living line, each the second prior inverted | One with the arriving five |
+|---|---|---|---|
+| the momentaries reversed, each momentary's own order as it is: the next whole, the now whole, the prior's opening | 5, 6, 3, 4, 1 | at each of the four | at each of the four |
+| each number reversed | 5, 4, 3, 2, 1 | at each of the four | at none |
+| the momentaries reversed, the next at its opening alone | 5, 3, 4, 1, 2 | at two of the four, the self's two alike | at none |
+
+**Reversed as the session says it, the releasing five is the arriving five, parity by parity, at each of the four.** At each number reversed it is a living line and another five: the social parity as it was and the other parity inverted. At the third it is a living line at the self's two alike alone. One order of the three is all.
+
+**Three. The reason at the arithmetic.** The living step is at itself inverted two numbers on and at itself again at four. A momentary is two numbers. Reversing momentaries whole moves each parity by four or by none, and the five is as it was; reversing within a momentary moves the other parity by two, to its inverse.
+
+**Four. One number beyond the self's five.** The releasing five reaches 6 and is at no 2. The other's five is 2 to 6 at Exhibit ONE's table of fives. The self's next whole, 5 and 6, is the receiving side's prior whole: the prior and the next reversed is the releasing self's next at the receiving self's prior.
+
+**Open, for both.** The 2 at no number of the releasing five: the two sayings, the 2 is the other's opening and the other's own to release; or the releasing five is said at other numbers than this working followed. Its reason: this working chose the numbers, and the saying says *five consecutive*. And *bi-co-momentary* is at no row of Exhibit ONE's table of namings.
