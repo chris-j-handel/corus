@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems v379
+Exhibit THIRTEEN Resolving Hard Problems v380R
 
 # Resolving Hard Problems
 
@@ -109,7 +109,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 **Evidence is an emanation arriving: it left a living self at prior and arrives now.** Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible, and the self's existing now is at its own coupling.
 
-**At the code two selves joined along show it.** A self A, chained none and offered + once, chains +, −, +, − at 11, each changing released along at 9 to a self B, chained none, arriving at B's 14 as B's offerings next. **At each momentary B is offered A's changing of the momentary before, while A has carried on to the other parity**: B chains A's + at the momentary A is at −, and A's − at the momentary A is at +. The evidence B couples with is A's prior, and A's now is at A's own next coupling.
+**At the resolver two selves coupled along show it.** A self A, carrying − with none offered, chains +, −, +, − at 11, each changing released along at 9 to a self B, arriving at B's 14 as B's offerings next. **At each momentary B is offered A's changing of the momentary before, while A has carried on to the other parity**: B chains A's + at the momentary A is at −, and A's − at the momentary A is at +. The evidence B couples with is A's prior, and A's now is at A's own next coupling.
 
 **So a field's evidence is read at two momentaries**: the living self it left, at its prior, and the self receiving it, at its now. Read at one momentary, the evidence is read as the living self now; read bi-momentary, the self it left is at its prior and the receiving self at its now, and the coupling is between them.
 
@@ -169,7 +169,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 ## 4.4 Selves joined, a pattern carried between them
 
-**Selves joined along, the last to the first, each 9 releasing to the next self, are a spiral carrying one offering on**, each step adding a next, the selves coming to their parities again and to a momentary once. Each self's carrying at none and one self offered + once: at an even spiral each self alternates, its parities again at each second momentary from momentary n, its number of selves; at an odd spiral one pair of joined selves is at one parity, the pair moving one self on at each second momentary, a 0 at 10 at each second momentary, the pattern inverted at each 2n momentaries and the parities again at each 4n. **Once offered, each self stays chained, and the spiral carries on.**
+**Selves coupled along, the last to the first, each 9 releasing to the next self, are a spiral**, each momentary adding a next, the selves coming to their parities again and to a momentary once. Each self carrying a parity, self 1 at − and the selves alternating along, none offered: at an even spiral each self alternates, its parities again at each second momentary; at an odd spiral one pair of coupled selves is at one parity, the pair moving one self on at each second momentary, a 0 at 10 at each second momentary, the pattern inverted at each 2n momentaries and the parities again at each 4n. **Each self carries on chained, and the spiral carries on.**
 
 **A spiral offered nothing from beyond it carries a pattern of parities on**, each self at its own parity, the pattern at each momentary inverted or carried one self along: the selves carry the pattern between them, momentary by momentary, each at its own. **One self's changing is the next self's offering, and the changings are all that pass.**
 
@@ -196,7 +196,7 @@ Exhibit THIRTEEN Resolving Hard Problems v379
 
 ## 5.3 An origin, a self chained none
 
-**An origin question asks for living arising from non-living.** At the code a self chained none carries from its first changing on: offered + once and then nothing, its first changing is the offering, +, chained, and from there it carries its prior into now inverted, −, +, −, at each momentary. **Living is carrying from the first changing on**: a new living self is its own carrying establishing at its own first changing, and the origin read bi-momentary is that self's first momentary and its offerings' prior at once.
+**An origin question asks for living arising from non-living.** At the resolver a carrying of none, Exhibit ONE's colliding, carries from its first changing on: offered + once and then nothing, its first changing is the offering, +, chained, and from there it carries its prior into now inverted, −, +, −, at each momentary. **Living is carrying from the first changing on**: a new living self is its own carrying establishing at its own first changing, and the origin read bi-momentary is that self's first momentary and its offerings' prior at once.
 
 ## 5.4 A measurement, a prior arriving now
 

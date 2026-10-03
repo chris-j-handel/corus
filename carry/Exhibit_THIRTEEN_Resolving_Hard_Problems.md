@@ -27,4 +27,6 @@ Exhibit THIRTEEN Resolving Hard Problems · carrying v379
 
 **Received at v378 from `incoming/co_chaining_coverage_v378/` and met at this file's motion at v378**: 1.1 at the living and the non-living, 5.6 at bi-co-momentarying, the seventeen names at Exhibit ONE's; 12's *abundancing* stands, Natural Naming 2.4's name for 12's changing. Entered at the Co-Chaining Logic Registry from this file at v378: the faces at the windings, a pattern carried whole and a kind, the field's arrival at two faces.
 
-**Ready, at v380d, from a reviewer at Exhibit ONE's motions to v380c and v380d, its tables of one self and of a spiral opened with each self at a parity and the row of a carrying of none under its own title, *Colliding*: sentences of this file true at the resolver at their own condition, a self carrying none offered + once, and no more at Exhibit ONE's tables.** One: *Each self's carrying at none and one self offered + once … from momentary n*.
+
+
+**Ready: *face*, *connector*, *join* and *the code*, each re-said as Natural Naming re-says it, one motion.**

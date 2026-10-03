@@ -327,3 +327,7 @@ Exhibit ONE's column now says across at each even name and along at each odd, th
 ## Three momentaries, five parities
 
 Exhibit ONE carries a new table, *Two selves, three momentaries, five parities*: the other's carrying prior, its releasing across, the self's carrying now, its releasing across, the self's carrying next. Six forms, the fifth the first inverted at each. Worked at each opening and each momentary of two selves, and at spirals of two to seven. This is the claim's fourth sentence at five parities: the three alongs odd, the two across even, and the self's next the other's prior of the next three momentaries. Welcome from the logic working: its sentences beside this table.
+
+## Resolving Hard Problems v380R and the Equilibria Registry v380R
+
+Resolving Hard Problems: three sentences re-said to Exhibit ONE's living rows, each worked at the resolver; the origin is said at a carrying of none, colliding. The Equilibria Registry: each of sixteen pointers into Exhibit ONE by a line number is said by its table's title. Each file's sayings of *face*, *connector*, *join* and *the code* are ready at its carrying. The Co-Chaining Logic Registry v380L is received at 635 sentences in 38 groups.
