@@ -1,18 +1,10 @@
-Exhibit ONE Natural Resolver v380a
+Exhibit ONE Natural Resolver v380b
 
 # Natural Resolver
 
 **Stable Forms of the Discovering Method**
 
 ---
-
-**Seventeen names are the resolver.** Each name is one name at the resolver and in a sentence: `_2_bi_co_bi_offering` at the resolver is 2-bi-co-bi-offering in a sentence. Exhibit ONE is an object that is the method. It carries the resolver whole and its diagram, each name at its number, the forms the names carry among themselves, and selves beside each other.
-
-**Parity is is or is not existing, and no other is possible**: it is until it is not, and is again.
-
-**A name is its number, its three prefixes, its root and its -ing.** Bi is at each even number; co at each odd number from 1 to 7 and at 17; tri at each odd number from 9 to 15. A name's three prefixes are its own number's word and the words of the two numbers before it; 17 is the next 1, and 1 is at 17's words.
-
-**A sharing, an offering, a carrying and a society.** A sharing is two sides sharing a changing, each sharing at one parity or at none. An offering is a sharing with its parity, arriving at a self: none, one, or more than one at one sharing. A carrying is each sharing a self carries, each chained at one parity. A society is each self with its carrying and its offerings, and each releasing with the self it arrives at. A momentary is an opening and its completing. At one momentary a self's carrying couples with the offerings surfaced at each sharing, each sharing's changing is or is not, and the carrying is chained on, each changing entered in it. The function 1 is one self at one momentary; the function 17, each self of a society at one momentary; the function 9 carries each releasing to its receiving.
 
 ```python
 """Exhibit ONE · Natural Resolver"""
