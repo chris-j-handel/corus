@@ -289,3 +289,7 @@ Natural Naming v381, Exhibit ONE v380m and Natural Intelligence v380n. *Face* is
 Ready at each working's own files, each its own motion: *face* is said 103 times in the Co-Chaining Logic Registry, 81 in Natural Physics, 76 in Natural Numbers and 50 in Natural Intelligence's own sentences.
 
 Offered for working at the resolver: along changing is or is, across changing is or is, four forms of right spiraling at each momentary, each self odd along its own side.
+
+## *Connector* and *join* dissolve
+
+Natural Naming v382, Exhibit ONE v380n and Natural Intelligence v380o. The six are the six names between selves, four across names and two along names. A join is a releasing, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9. Selves are coupled along into a spiral. Both words are among Natural Naming's released words, each re-saying beside it. The Co-Chaining Logic Registry already says connector at no sentence.
