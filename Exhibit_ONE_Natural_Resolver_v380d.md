@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v380b
+Exhibit ONE Natural Resolver v380d
 
 # Natural Resolver
 
@@ -270,11 +270,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, −, + | 0 |
 | 0, + | + |
 
-**One self at one momentary, each cell its releasing and its next carrying.** One sharing. A dash is none released; *is not* is the 0 released; the 0 surfacing at 14 is a + and a − offered at one sharing, parting.
+**One self at one momentary, each cell its releasing and its next carrying.**
 
-| Chained at 3; each cell at 10 · chained at 11 | At 14: none | At 14: + | At 14: − | At 14: 0 |
+| One sharing, chained at 3; each cell at 10 · chained at 11; *is* a parity released, *is not* the 0 released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered |
 |---|---|---|---|---|
-| none | — · none | is + · + | is − · − | is not · none |
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
@@ -313,34 +312,34 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 5-co-bi-co-competencing · 13-tri-bi-tri-competencing · 4-bi-co-bi-sharing · 12-bi-tri-bi-entraining · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri co tri bi bi bi bi | co-bi-tri · tri-bi-co · co-bi-co · tri-bi-tri · bi-co-bi · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 2-15-7-11-3-14-6-10, spiraling the other hand | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 11-tri-bi-tri-chaining · 3-co-bi-co-sharing · 14-bi-tri-bi-moralizing · 6-bi-co-bi-moralizing · 10-bi-tri-bi-tunneling | bi tri co tri co bi bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-tri · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 1-9-5-13-4-12-8-16, spiraling the other hand | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-**One self, momentary by momentary.** One sharing, the carrying none at the first momentary, each chained at 11 the carrying at 3 at the next momentary.
+**One self, momentary by momentary.**
 
-| Offerings, momentary by momentary | At 10 | Chained at 11 |
+| One sharing, + chained at 3 at the first momentary; offerings, momentary by momentary | At 10 | Chained at 11, the carrying at 3 at the next momentary |
 |---|---|---|
-| + once, then none | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
-| + at each momentary | +, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, + |
+| none at each momentary | −, +, −, +, −, +, −, + | −, +, −, +, −, +, −, + |
+| + at each momentary | 0, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, + |
 | −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
-| + once, then + and − together | +, −, +, −, +, − | +, −, +, −, +, − |
+| + and − together at each momentary | −, +, −, +, −, + | −, +, −, +, −, + |
 
-**A spiral of selves.** Each self releasing to the next at 9, the last to the first; one sharing; each carrying none at the first momentary; + offered once, at self 1, at the first momentary. *Parities again at each* is the number of momentaries from one releasing to the same releasing again.
+**A spiral of selves.**
 
-| Selves, joined along, the last to the first, + offered once at self 1 | Self 1 at 10, momentaries 1 to 12 | Parities again at each, from momentary n | None chained again |
-|---|---|---|---|
-| 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 | is not |
-| 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
-| 3 | +, −, +, 0, −, +, −, +, −, 0, +, − | 12 | is not |
-| 4 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
-| 5 | +, −, +, −, +, 0, −, +, −, +, −, + | 20 | is not |
-| 6 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
-| 7 | +, −, +, −, +, −, +, 0, −, +, −, + | 28 | is not |
-| 8 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
-| 9 | +, −, +, −, +, −, +, −, +, 0, −, + | 36 | is not |
-| 10 | +, −, +, −, +, −, +, −, +, −, +, − | 2 | is not |
-| 11 | +, −, +, −, +, −, +, −, +, −, +, 0 | 44 | is not |
-| 17 | +, −, +, −, +, −, +, −, +, −, +, − | 68 | is not |
-| 59 | +, −, +, −, +, −, +, −, +, −, +, − | 236 | is not |
+| Number of selves, each releasing to the next at 9, the last to the first; one sharing; each self chained at a parity at the first momentary, + at self 1 and alternating along, the last and the first alike at an odd number; none offered | Self 1 at 10, momentaries 1 to 12 | Each self's releasings again at, in momentaries |
+|---|---|---|
+| 1 | −, 0, +, 0, −, 0, +, 0, −, 0, +, 0 | 4 |
+| 2 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
+| 3 | −, 0, +, −, +, −, +, 0, −, +, −, + | 12 |
+| 4 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
+| 5 | −, 0, +, −, +, −, +, −, +, −, +, 0 | 20 |
+| 6 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
+| 7 | −, 0, +, −, +, −, +, −, +, −, +, − | 28 |
+| 8 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
+| 9 | −, 0, +, −, +, −, +, −, +, −, +, − | 36 |
+| 10 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
+| 11 | −, 0, +, −, +, −, +, −, +, −, +, − | 44 |
+| 17 | −, 0, +, −, +, −, +, −, +, −, +, − | 68 |
+| 59 | −, 0, +, −, +, −, +, −, +, −, +, − | 236 |
 
-**Two spirals beside each other, and crossed.** Each spiral as the spiral of selves. Crossed, self 1 of each releasing to self 1 of the other at 10. *From momentary* is the first momentary from which each self's releasing comes again.
+**Two spirals beside each other, and crossed.** Each spiral's selves each releasing to the next at 9, the last to the first; one sharing; each carrying none at the first momentary. Crossed, self 1 of each releasing to self 1 of the other at 10. *From momentary* is the first momentary from which each self's releasing comes again.
 
 | Spirals, selves, + offered once at self 1 of each | Beside each other, parities again together at | Crossed at self 1 of each both ways, 10 to 14, parities again at | From momentary | Self 1 of each | Each spiral's like pair at its join, the last and the first |
 |---|---|---|---|---|---|
@@ -387,3 +386,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 |---|---|---|---|---|
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
+
+**Colliding, at a carrying of none, at one momentary.**
+
+| One sharing, none chained at 3; each cell at 10 · chained at 11; *is* a parity released, *is not* the 0 released, a dash none released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered |
+|---|---|---|---|---|
+| none | — · none | is + · + | is − · − | is not · none |

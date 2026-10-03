@@ -93,3 +93,16 @@ A living thing is carrying a parity changing, prior into now and next: it turns 
 
 This working's own placing in the arithmetic: a non-living thing's releasing arrives one momentary on, as each releasing does.
 
+## Exhibit ONE's motions, for the Co-Chaining Logic Registry beside it
+
+Entered at the main line, each met by a reviewer and a fresh reader:
+
+- **v380a.** At the table of seventeen names five columns are released: *Entry, connector or face*, *Outward or inward*, *Facing*, *Joining*, *At the code*. Each cell of them is at the table of each name whole and at the resolver.
+- **v380b.** The four opening paragraphs are released from the front; the resolver is first.
+- **v380c.** Living resolving and colliding apart: the row of a carrying of none is under its own title, *Colliding, at a carrying of none, at one momentary*, at the file's end. No cell changed.
+- **v380d.** The tables of one self momentary by momentary and of a spiral open with each self at a parity and none offered: + at self 1 and alternating along, the last and the first alike at an odd number. Each number a spiral comes again at is as it was, 4, 2, 12, 2, 20 to 236; each row of releasings is other, from the living opening.
+
+**From the working v380L's sorting, gathered for Exhibit ONE's next motions:** the sentence of the twelve forms saying 8 up of the two middle four-cycles; *inward* at the diagram's 14 and at no 10; the resolver's two lists read by no function.
+
+**Offered before it enters, for both:** a torus worked from the resolver with each self at a parity, alternating along and across, none offered, comes again at the number Exhibit ONE says at seven of nine rows; at 1 by 5 it is 5 beside Exhibit ONE's 4, and at 3 by 13 it is 13 beside 12. A going round is from its opening.
+
