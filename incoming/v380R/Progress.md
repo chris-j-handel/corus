@@ -112,4 +112,4 @@ The session said *what its construction gathers at one receiving belongs to the 
 
 **Learned.** No self is alone at the resolver. And an offering for another working is said at natural naming alone: the thing, its two sayings, its reason.
 
-**Learned.** A carrying's next read as the arriving sign entered is reflection. The resolver is the self's own turn from its own carrying, co-recursioning; the two readings are at one outcome at one sign arriving and part at nothing arriving and at two signs, and the resolver is the turn at both. Five concerns of this working rested on the reflection and are withdrawn.
+**Learned.** A carrying's next read as the arriving parity entered is reflection. The resolver is the self's own turn from its own carrying, co-recursioning; the two readings are at one outcome at one parity arriving and part at nothing arriving and at two parities, and the resolver is the turn at both. Five concerns of this working rested on the reflection and are withdrawn.

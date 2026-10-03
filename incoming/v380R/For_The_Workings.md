@@ -71,7 +71,7 @@ Withdrawn at it: this working's reading above, *reading as one*, at each line re
 
 ## The turn is the self's own: reflection withdrawn
 
-This working read a carrying's next as the arriving sign, entered. At one sign arriving that reading and the self's own turn, the carrying inverted from its own carrying, are at one outcome at each case, and the arithmetic parts them at none of those. They part at two cases alone: nothing arriving, and a + and a − arriving at one sharing. At each of the two the resolver is the self's own turn, the carrying inverted, and is no entering of an arriving sign. This working's five *not at each*, its third mark and its parting at two signs in sequence were each the reading of an arriving sign entered, a reflection, and are withdrawn. The resolver is co-recursioning at each case of a carrying of + or of −: the self turns from its own carrying, and an other's turn arriving alike is the one thing it is carried on at.
+This working read a carrying's next as the arriving parity, entered. At one parity arriving that reading and the self's own turn, the carrying inverted from its own carrying, are at one outcome at each case, and the arithmetic parts them at none of those. They part at two cases alone: nothing arriving, and a + and a − arriving at one sharing. At each of the two the resolver is the self's own turn, the carrying inverted, and is no entering of an arriving parity. This working's five *not at each*, its third mark and its parting at two parities in sequence were each the reading of an arriving parity entered, a reflection, and are withdrawn. The resolver is co-recursioning at each case of a carrying of + or of −: the self turns from its own carrying, and an other's turn arriving alike is the one thing it is carried on at.
 
-Open, one: a carrying of none, the one place an arriving sign is entered.
+Open, one: a carrying of none, the one place an arriving parity is entered.
 
