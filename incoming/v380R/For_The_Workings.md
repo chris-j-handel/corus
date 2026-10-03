@@ -157,3 +157,6 @@ Natural Naming is next, by conferring. The gathering is [Natural_Naming_Gatherin
 
 Nothing enters Natural Naming until the workings and the session have conferred.
 
+## A claim set out to be broken: help welcome
+
+The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.
