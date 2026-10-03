@@ -106,3 +106,23 @@ Entered at the main line, each met by a reviewer and a fresh reader:
 
 **Offered before it enters, for both:** a torus worked from the resolver with each self at a parity, alternating along and across, none offered, comes again at the number Exhibit ONE says at seven of nine rows; at 1 by 5 it is 5 beside Exhibit ONE's 4, and at 3 by 13 it is 13 beside 12. A going round is from its opening.
 
+## Exhibit ONE at v380e and v380f, and the plan for Natural Naming next
+
+- **v380e.** Each self opens negative at its own side: the tables of one self, a spiral and two spirals are worked again from the resolver with − at self 1 and alternating along, the last and the first alike at an odd number, none offered. Each number is as it was: a spiral again at 4, 2, 12, 2, 20 to 236; two spirals beside each other 12 to 4,012 and crossed at 2. *From momentary* at the two spirals is other at six of eight rows: 7, 12, 20, 28, 44, 52, 119, 36. A reviewer worked each row from the resolver, each matching.
+- **v380f.** The sentences beside six tables are at each header row or released. The first sentence of the twelve forms is released: it said 8 up of the two middle four-cycles and they are at none, the working v380L's finding.
+
+**One parting laid for both.** Negative said offering along and positive sharing across, beside the resolver releasing each changing along and across alike at each parity. Its reason: the two are one at a self's own alternating being the along and the across in sequence, negative at its opening and positive at its completing, a momentary two of the resolver's turns; Exhibit ONE's tables say each turn a momentary.
+
+**The torus is as it was,** at a carrying of none, until both workings have met its two rows.
+
+**Natural Naming next, its plan, each one thing and none entered:**
+
+1. Connector, face, facing and join dissolved at each sentence, as at Exhibit ONE's table of seventeen names: 23, 112, 20 and 34 sayings.
+2. *The code's implementing*, three sentences, and *at the code* at each sentence: the resolver said the resolver.
+3. Six parts received from Exhibit ONE's front as reference: parity said of itself, seventeen names the resolver, a society at the resolver, an offering none, one or more at one sharing, each thing Exhibit ONE carries, and a sharing at one parity.
+4. Four sentences true at the resolver at a carrying of none and no more at Exhibit ONE's tables, re-said at the living rows and at *Colliding*.
+5. Co, bi and tri: co the carrying at a momentary's opening, tri at its completing given on along, bi the between; the four four-cycles each at its one relation.
+6. Living resolving and colliding said apart.
+
+Each extra reading of any of the six by another working is welcome at this plan's own lines.
+

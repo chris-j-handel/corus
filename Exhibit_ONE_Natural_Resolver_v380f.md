@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v380e
+Exhibit ONE Natural Resolver v380f
 
 # Natural Resolver
 
@@ -186,7 +186,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | at none | 1-co-bi-tri-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-tri-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, the sharings, and 5-co-bi-co-competencing and 13-tri-bi-tri-competencing, the sharings and, at the society, the joins and the selves |
 | at the two along connectors, carried and not crossed | 9-tri-bi-co-momentarying and 17-co-bi-tri-offering, each parity and each 0 carried on unchanged, the 0 passing over at the receiving self's 14 |
 
-**Four four-cycles, each at its root.** Two go 8 up first, from 1 and from 3, and two go 17 less first, from 2 and from 4.
+**Four four-cycles, each at its root.**
 
 | Four-cycle, 8 up and 17 less | Root at the self and at the society | Hand at the names |
 |---|---|---|
@@ -246,7 +246,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | other, at 2 | 2 | 3 | 4 | 5 | 6 | bi co bi co bi |
 | self next, at 3 | 3 | 4 | 5 | 6 | 7 | co bi co bi co |
 
-**A self's four momentaries of exchanging.** The society's four, 9 to 17, are at the rows of each name whole.
+**A self's four momentaries of exchanging.**
 
 | Momentary of exchanging | Self | Other | Names | Relation |
 |---|---|---|---|---|
@@ -295,9 +295,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-co-bi-co-sharing | 11-tri-bi-tri-chaining | 6-bi-co-bi-moralizing | 14-bi-tri-bi-moralizing |
 | 4-bi-co-bi-sharing | 12-bi-tri-bi-entraining | 5-co-bi-co-competencing | 13-tri-bi-tri-competencing |
 
-**Twelve forms.** The middle four-cycles, the six-cycles and the eight-cycles each carry two pairs 4 apart beside 8 up and 17 less: 9 with 5 and 12 with 8, or 7 with 11 and 6 with 10. A partner at the odd momentaries is each name exchanged with the one beside it, 1 with 2 to 15 with 16, and at the even momentaries 2 with 3 to 16 with 17; a dash is a form partnering none of the twelve.
+**Twelve forms.**
 
-| Form | Names in order | Hand at the names | Each name's three prefixes, now, prior and the prior before, twisting through the form | Partner at the odd momentaries | Partner at the even momentaries |
+| Form | Names in order | Hand at the names | Each name's three prefixes, now, prior and the prior before, twisting through the form | Partner at the odd momentaries, each name exchanged with the one beside it, 1 with 2 to 15 with 16 | Partner at the even momentaries, 2 with 3 to 16 with 17; a dash a form partnering none of the twelve |
 |---|---|---|---|---|---|
 | four-cycle 1-9-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri bi bi | co-bi-tri · tri-bi-co · bi-co-bi · bi-tri-bi | four-cycle 2-15-7-10, spiraling the other hand | — |
 | four-cycle 2-15-7-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 10-bi-tri-bi-tunneling | bi tri co bi | bi-co-bi · tri-bi-tri · co-bi-co · bi-tri-bi | four-cycle 1-9-8-16, spiraling the other hand | four-cycle 3-11-6-14, spiraling the other hand |
@@ -352,9 +352,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 · 59 | 4,012 | 2 | 119 | opposite | selves 17 and 1 · selves 59 and 1 |
 | 9 · 15 | 180 | 2 | 36 | opposite | selves 9 and 1 · selves 15 and 1 |
 
-**A torus of selves.** Each self releasing at 9 to the next along and at 10 to the next across, the last to the first along and across; one sharing; each carrying none at the first momentary; + offered once, at one self, at the first momentary; *from momentary* as at the two spirals.
+**A torus of selves.**
 
-| Torus of selves, p along at 9 · q across at 10 | Parities again at, one offering at self 1 | From momentary | Spirals of p and q beside each other, parities again together at |
+| Torus of selves, p along · q across, each self releasing at 9 to the next along and at 10 to the next across, the last to the first; one sharing; each carrying none at the first momentary, + offered once at one self at the first momentary | Each self's releasings again at | From momentary, the first each self's releasing comes again from | Spirals of p and q beside each other, each self's releasings again together at |
 |---|---|---|---|
 | 1 · 3 | 3 | 3 | 12 |
 | 1 · 5 | 4 | 5 | 20 |
@@ -367,9 +367,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 · 17 | 17 | 23 | 476 |
 | 17 · 59 | 59 | 91 | 4,012 |
 
-**Two selves.** One sharing, none offered at the first momentary, six momentaries.
+**Two selves.**
 
-| Prior at A, B | Joining | A at 10 | B at 10 |
+| Chained at 3 at A, B at the first momentary; one sharing, none offered from beyond the two | Each receiving at 14 the other's releasing at 10 | A at 10, six momentaries | B at 10, six momentaries |
 |---|---|---|---|
 | +, + | both ways | −, 0, +, 0, −, 0 | −, 0, +, 0, −, 0 |
 | +, + | A from B alone | −, 0, +, −, +, − | −, +, −, +, −, + |
@@ -380,9 +380,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
 
-**Three selves in a line.** One sharing; A is an offering at B at the first momentary alone; B releasing to C; *B chained* is at the first momentary's completing and *C chained* at the second's.
+**Three selves in a line.**
 
-| A's parity offered at B, B and C each chained + | B at 10 | B chained | C at 10, momentaries 1 and 2 | C chained |
+| A's parity offered at B at the first momentary alone; one sharing; B and C each chained +; B releasing to C | B at 10 | B chained at 11, the first momentary | C at 10, momentaries 1 and 2 | C chained at 11, the second momentary |
 |---|---|---|---|---|
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
