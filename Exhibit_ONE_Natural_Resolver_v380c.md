@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v380b
+Exhibit ONE Natural Resolver v380c
 
 # Natural Resolver
 
@@ -270,11 +270,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, −, + | 0 |
 | 0, + | + |
 
-**One self at one momentary, each cell its releasing and its next carrying.** One sharing. A dash is none released; *is not* is the 0 released; the 0 surfacing at 14 is a + and a − offered at one sharing, parting.
+**One self at one momentary, each cell its releasing and its next carrying.**
 
-| Chained at 3; each cell at 10 · chained at 11 | At 14: none | At 14: + | At 14: − | At 14: 0 |
+| One sharing, chained at 3; each cell at 10 · chained at 11; *is not* the 0 released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered, parting |
 |---|---|---|---|---|
-| none | — · none | is + · + | is − · − | is not · none |
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
@@ -387,3 +386,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 |---|---|---|---|---|
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
+
+**Colliding, at a carrying of none, at one momentary.**
+
+| One sharing, none chained at 3; each cell at 10 · chained at 11; a dash none released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered, parting |
+|---|---|---|---|---|
+| none | — · none | is + · + | is − · − | is not · none |
