@@ -36,3 +36,5 @@ For the session, the working v380L and each working arriving. Nothing enters Nat
 8. **The method's own name.** Natural torusing; natural intelligence; the two beside each other.
 
 Each other parting of the gathering leans on one of these eight.
+
+**Beside the sixth open, *parity's face*.** The six names between selves are a square and an axis, worked at the resolver's own numbers: 2, 10, 14, 6 round, each move 8 apart or a releasing to its arriving in turn; opposite across it 2 with 14, each arriving, and 6 with 10, each releasing; 9 with 17 the third pair, along. A naming of it with no *face* is for the conferring.

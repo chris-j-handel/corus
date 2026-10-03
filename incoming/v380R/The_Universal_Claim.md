@@ -128,3 +128,4 @@ The session: the emanating's stable form is the thing to name, and it is bi-tri 
 
 **Beside it.** The living files say *bi-tri-involutioning* of the emanating at twelve places, with no co. The parting laid above, co- entering or two namings, is withdrawn: the naming is bi-tri, as the files have it.
 
+**A saying offered by the session, beside the fourth sentence:** *my prior is your next existing.* It carries two, the other's, and the prior; *inverted* is unsaid in it. For the table of better sayings, with the working v380L's and this working's.
