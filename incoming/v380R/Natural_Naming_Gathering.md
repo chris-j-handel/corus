@@ -59,3 +59,8 @@ Seven entries in Natural Naming's list are about another file: a check in the ki
 4. Say living resolving and colliding apart.
 5. Enter the sentences that are ready.
 6. Re-say each place phrase directly.
+
+## A thirteenth theme, the largest: positive saying
+
+The session: no negation is anywhere in the method. Each thing depends on a changing that is or is not, and on that alone; a negation says a thing by its relation to another thing. Measured in each file's own sentences: Natural Naming carries 729 words of negation, one word in 39; the Co-Chaining Logic Registry 469; Natural Intelligence 357; Natural Numbers 127; Exhibit ONE 47. The method's own phrases among them: *nothing* 364, *all or none at all* 36, *owned by neither* 36, *not possible* 29, *no other possible* 8. *Is or is not* is the changing's own two. Each other needs its positive saying, and that saying is for conferring first: it reaches each other theme.
+
