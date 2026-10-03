@@ -104,3 +104,8 @@ The Registry's motion is at this folder's Progress: four steps said at their row
 
 - **v380l.** The Co-Chaining Logic Registry is at v380l, this working's one version: each improving done here is at that name, no letter added at each. The name is written with the small letter, the kit's check of the set reading no other. What this folder's records say at v380e and v380f is at v380l.
 - **Withdrawn.** A momentary said one or two of the resolver, this working's largest parting for the conferring: said at a word of its own and no natural explaining. The Registry's own steps say one resolving eight consecutive momentaries, one momentary at the next scale.
+
+## Thirteen. The claim of the one possible method, broken further; help asked
+
+The working v380R's nine links and eleven breaks are read whole. Five more readers, each at a side the eleven had not reached, are at [The_Claim_Broken_Further.md](The_Claim_Broken_Further.md): thirteen breaks, the arithmetic as it was, and six sentences asked of the working v380R and of the session. This working's rebuilding of the elimination, living as carrying the prior and no pair still, broke at its own tests and is withdrawn. Nothing is entered at the Registry. One concern at the Registry's carrying and one at Natural Intelligence's.
+
