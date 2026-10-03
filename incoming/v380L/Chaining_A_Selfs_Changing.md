@@ -183,7 +183,7 @@ The carrying next is changing at exactly one of the two arriving, and unchanging
 - **The code copies no arriving.** At an arriving opposite to the carrying the line is the same line as at none arriving: the carrying's own opposite. The one thing read of an arriving is alike with the carrying, or not.
 - **An arriving is a releasing self's changing.** A self releases a parity at a sharing it changed, and 0 at one it carried on; a 0 arriving is passed over at the surfacing.
 
-So at each call the carrying is alternating, + − + −, and at one arriving alone it is not changing: a changing arriving alike with it.
+At each call the carrying is alternating, + − + −, and at one arriving alone it is not changing: a changing arriving alike with it.
 
 **Nine. The saying beside the code: one, at a momentary of two calls.** Said with the saying's *geodesic changing arriving* an arriving alike with the carrying, and its momentary two calls in sequence:
 
@@ -198,7 +198,7 @@ Each of the four is the code's own lines twice. The saying's first sentence, the
 
 **Withdrawn at it.** This part said the saying and Exhibit ONE *two rules*, one at two rows of six, and laid it at two carryings. It read a table's one call as a momentary, and said an arriving opposite to the carrying copied; the code copies none. And parts of its following, a self at any changing arriving and a spiral again at twice its number, were of a rule the code does not carry. Each is withdrawn.
 
-**Ten. The tables and the opening beside the code, at one word: momentary.** The table of one self at one momentary agrees with the code's lines at each of its twelve cells, read line by line; and it is one call. The opening's *The function 1 is one self at one momentary*, each table's *momentaries 1 to 12* and *momentary by momentary*, are each one call. Said the saying's way a momentary is two calls: each second value of each row is the between, and the numbers are half, the odd spirals' four times the number of calls twice the number of momentaries. No + or − of a table is other than the code's by this reading; its word *momentary* is.
+**Ten. The tables and the opening beside the code, at one word: momentary.** The table of one self at one momentary agrees with the code's lines at each of its twelve cells, read line by line; and it is one call. The opening's *The function 1 is one self at one momentary*, each table's *momentaries 1 to 12* and *momentary by momentary*, are each one call. Said the saying's way a momentary is two calls: each second value of each row is the between, and each number of calls is two to a momentary, the odd spirals' four times the number of calls twice the number of momentaries. No + or − of a table is other than the code's by this reading; its word *momentary* is.
 
 **Eleven. Not found at the code's lines.** The saying says the first of the two the social, along, and the second the other's, across. At each call the code gathers the arrivings along and across at one surfacing and releases the same along and across; no line parts a first call along from a second across. Said as it is, for both.
 
