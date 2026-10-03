@@ -111,3 +111,5 @@ The session said *what its construction gathers at one receiving belongs to the 
 **The resolver read as bi-coupling.** The session said *the resolver is a bi-coupling resolver*. This working's largest concern, a self alternating alone beside the coupling, withdrawn. The offering for each working said again whole at [For_The_Workings.md](For_The_Workings.md): seven things reading as one at Exhibit ONE's own even names, and the few parting.
 
 **Learned.** No self is alone at the resolver. And an offering for another working is said at natural naming alone: the thing, its two sayings, its reason.
+
+**Learned.** A carrying's next read as the arriving sign entered is reflection. The resolver is the self's own turn from its own carrying, co-recursioning; the two readings are at one outcome at one sign arriving and part at nothing arriving and at two signs, and the resolver is the turn at both. Five concerns of this working rested on the reflection and are withdrawn.
