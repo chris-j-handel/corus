@@ -3,7 +3,7 @@
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
 - **To**: Exhibit ONE, Natural Naming, Natural Numbers, the Co-Chaining Logic Registry, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
 - **Read at**: `main` at commit 818777a. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its five files, and the Co-Chaining Logic Registry v379. Read at the sections named here: Natural Intelligence v379.
-- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; nineteen entries at seven carryings, eleven ready and eight concerns for both; Exhibit ONE's forms each at the Co-Chaining Logic Registry's steps, ten steps offered and four of them entered; the Registry at v380c; the premise followed at the arithmetic of two parities; advice for the managing; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; twenty entries at seven carryings, twelve ready and eight concerns for both; Exhibit ONE's forms each at the Co-Chaining Logic Registry's steps, ten steps offered and four of them entered; the Registry at v380c; the premise followed at the arithmetic of two parities; advice for the managing; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
 - **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`; [`Chaining_A_Selfs_Changing.md`](Chaining_A_Selfs_Changing.md), the first parting chained at the Registry's steps, no executing its reason; [`Naming_And_Chaining_At_Exhibit_ONE.md`](Naming_And_Chaining_At_Exhibit_ONE.md), three things open at the Registry said at Exhibit ONE's row, the step and Natural Naming's sentence; [`Group_Twenty_At_The_Three.md`](Group_Twenty_At_The_Three.md), the Registry's seventy-two steps on sharing and the seventeen names, each at the three.
 - **Standing**: *arriving*. One living file is at its motion at this branch, the Co-Chaining Logic Registry at v380, said at the Progress; each other living file is as at `main`.
 
@@ -68,7 +68,7 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 ## The entries at the carryings
 
-Each names this folder. Eleven are ready; eight are concerns for both, each sayings parting with its reason.
+Each names this folder. Twelve are ready; eight are concerns for both, each sayings parting with its reason.
 
 | Carrying | Entry |
 |---|---|
@@ -80,6 +80,7 @@ Each names this folder. Eleven are ready; eight are concerns for both, each sayi
 | The Co-Chaining Logic Registry's | Concern: each living crossing two parities in sequence, each a changing to its other parity is or is not |
 | The Co-Chaining Logic Registry's | Ready: the living step, the five as two parities, a meeting as two binaries, the code's line upon it, at the arithmetic |
 | Exhibit ONE's | Concern: each living crossing two parities in sequence, beside the tables at one parity |
+| Exhibit ONE's | Ready: the code's line the binary upon the living step; a torus at two parities at the number of two spirals |
 | Exhibit ONE's | Ready: the Registry's steps at the three hardest and the two orthogonals |
 | Exhibit ONE's | Ready: a sharing said as a place with a value, withdrawn; each table at one sharing |
 | Exhibit ONE's | Ready: the twelve forms' partners and hands, the diagram's 14, the opening's gathering, and each table beside the Registry |
