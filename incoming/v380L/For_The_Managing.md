@@ -4,6 +4,18 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
+## The session's newest saying, two arrivings, worked at its four
+
+The session said to this working *for a living thing, social moral parity is binary alternating changing + - + - + ....*, and of a momentary: at no changing arriving along the social moral parity changing, at none arriving across the bi-moral parity changing, the carrying unchanging at both changing and at neither, and changing at exactly one arriving. The saying whole and its working are at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on two arrivings. Shortly:
+
+- **Two changings at each momentary at each of its four rows,** one along and one across, each the self's own or the arriving's. No momentary at none.
+- **No + or − of an arriving is read.** A changing arriving or none, at two crossings.
+- **Beside the premise's following:** its open parting, the first changing at each momentary or at some, is at the saying. The alternating is at each; the self's own changing of it is at none arriving alone.
+- **Beside Exhibit ONE's eight cells, read at one crossing:** six are one. Two part, the cells of an arriving opposite to the carrying: the table says the carrying at the arriving's parity, the saying no changing of the self. They are the two cells at which the + or − of the arriving is read.
+- **No table of Exhibit ONE is a self at an along and an across at one momentary.**
+
+Laid for both at Exhibit ONE's carrying and the Registry's, one subject. Not read by a fresh reader.
+
 ## One. The premise's following, beside the arithmetic of two parities
 
 `incoming/v380R/Premise_Alternating_Followed.md` is read at each of its eight cells, and this working's arithmetic agrees at each. Its own withdrawn saying, the 0 as two changings, is carried on as offered back, one of two sayings and decided at neither. The following whole, read by a fresh reader and mended at each finding, is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on the premise. Shortly, each arithmetic or a reading of Exhibit ONE's own rows:

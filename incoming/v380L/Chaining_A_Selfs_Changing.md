@@ -136,6 +136,68 @@ The rows of seven, nine and eleven selves show one 0 in twelve momentaries, shor
 
 **Not done.** The row of a carrying at none and the first momentary of each table. A society's each self at its own opening, at more than two selves. The second changing at the two spirals crossed and at the torus. Six forward at the Registry's own steps.
 
+## Two arrivings, each a changing arriving or none: the saying as binary arithmetic
+
+**The session's saying.** *for a living thing, social moral parity is binary alternating changing + - + - + .... as natural torusing method, no other possible stable-forming method. a momentary of unchanging self carrying into next existing is either social moral parity changing (no social geodesic changing along arriving), then bi-moral parity changing (no other geodesic changing across arriving) and a net self unchanging carrying or social moral parity not changing (geodesic along changing arriving) and other moral parity not changing (geodesic other across changing arriving). if either social or other changing parity arrives and the other changing parity does not arrive then the self carrying is changing parity into next existing. explore all this for cohering*
+
+**No word decides it.** This part is the saying written as two binaries and worked at each of its four, and a reading of Exhibit ONE's own cells beside it. No executing of the resolver; no fresh reader has read it.
+
+**One. The saying at its four.** Two binaries at a momentary: a changing arriving along or none, and a changing arriving across or none.
+
+| Arriving along | Arriving across | The self's social moral parity | The self's bi-moral parity | Changings of the self | Changings arriving | Changings at the momentary | The carrying next |
+|---|---|---|---|---|---|---|---|
+| none | none | changing | changing | 2 | 0 | 2 | unchanging |
+| a changing | none | not changing | changing | 1 | 1 | 2 | changing |
+| none | a changing | changing | not changing | 1 | 1 | 2 | changing |
+| a changing | a changing | not changing | not changing | 0 | 2 | 2 | unchanging |
+
+The carrying next is changing at exactly one of the two arriving, and unchanging at both or at neither.
+
+**Two. All or none at all: two changings at each momentary, at each of the four.** One along and one across, the first and the second. Each is the self's own or the arriving's, and at no row both and at no row neither. No momentary is at no changing, none is at two at once, and nothing is undone.
+
+**Three. Each of the two parities is alternating at each momentary, at each of the four: an offering of this working.** Said of the two sides of a sharing, the self and the social along, the self and the other across: at each row exactly one side is changing, the self at none arriving and the other side at a changing arriving. The two sides at their difference are + − + − at each momentary, along and across alike. It is the saying's first sentence at each row: the alternating is at each, and the self's own changing is at none arriving alone.
+
+**Four. No comparing is in it.** The saying asks one thing at each crossing: a changing arriving, or none. The + or − of an arriving is at no row, and no arriving is read beside the carrying.
+
+**Five. Beside the session's prior sayings, each at its row.**
+
+| The prior saying | Its row |
+|---|---|
+| *when nothing is arriving there is tri-bi-co-momentary self parity no-changing from arriving* | none and none: the social parity changing, the bi-moral parity changing, the carrying unchanging |
+| *if there is no arriving changing differencing is not possible*; *the 0 is no changing of co competency* | none and none: the carrying unchanging |
+| *each parity releasing arriving is changing self parity* | exactly one arriving: the carrying changing |
+| *if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity* | both arriving: two changings, the carrying unchanging |
+| *if they are both changing the same this is no differencing locally* | both or neither: the carrying unchanging |
+| *one momentary is two consecutive social self, other self parity changings, like a lub dub heartbeat*; *a momentary of no changing has no method of existing*; *there is no cancelling* | each row: two changings, the along and the across |
+| *there is no reading anywhere in resolving. only changing or no changing* | each row: a changing arriving or none, and no comparing |
+
+**Six. Beside the Registry's steps.** Its right spiral step is one parity changing at a step, and two steps both parities inverted: a momentary of the saying is two such steps, the along and the across, each of the two parities at its other at each momentary. Its step on the pair names the two, the self's across parity and its along parity. Its step on even and odd changings is the last column: two or none of the self's, the carrying at its own parity; one, at its other. Its step on five dimensions says two changing at each momentary. No step says a changing arriving in the place of the self's own.
+
+**Seven. Beside Exhibit ONE's cells: two rules, and the place they part.** Exhibit ONE's table of one self at one momentary is at one sharing, and its columns are the arriving's + or −, read beside the carrying's. The saying is at two crossings and reads no + or −. Read at one crossing alone, the self changing at no changing arriving and not changing at a changing arriving, beside the eight cells of a living carrying:
+
+| The carrying | At 14 | Exhibit ONE's carrying next | The saying at one crossing | |
+|---|---|---|---|---|
+| + | none | − | no changing arriving: − | one |
+| + | + | + | a changing arriving: + | one |
+| + | − | − | a changing arriving: + | parting |
+| + | 0 | − | no parity arriving: − | one |
+| − | none | + | no changing arriving: + | one |
+| − | + | + | a changing arriving: − | parting |
+| − | − | − | a changing arriving: − | one |
+| − | 0 | + | no parity arriving: + | one |
+
+Six are one. The two parting are the cells of an arriving opposite to the carrying: Exhibit ONE says the carrying at the arriving's parity, and the saying says an arriving and no changing. Those two cells are the ones at which the + or − of the arriving is read; at the six a changing arriving or none says the cell whole.
+
+Read at a momentary of two crossings no table of Exhibit ONE is beside the saying: each table of a self is at one sharing, and a self at an along and an across is at none.
+
+**Eight. Beside the managing's following of the premise.** That following: a first changing at each momentary, and a second at an arriving differing from the carrying as the first made it; one changing or two of the self's. The saying: the first is the self's at no along arriving and the arriving's at one; the second likewise across; two changings at each momentary, none, one or two of them the self's. The following's open parting, the first changing at each momentary or at some, is at the saying: the alternating is at each, and the self's own changing of it at none arriving alone.
+
+**What rests on the two parting cells.** At Exhibit ONE: each table at which a self is at an arriving opposite to its carrying, the even spirals, the odd spirals, two selves of opposite priors, the spirals crossed and the torus. At the Registry: its steps on a mismatch, *at a mismatch the offered is chained*, and on the spirals and the torus. None is re-said here.
+
+**For both, said as it is.** Exhibit ONE's rule reads the + or − of an arriving beside the carrying; the saying is at a changing arriving or none, at two crossings. They are one at six cells of eight read at one crossing, and they are two rules.
+
+**Not done.** A self's releasing said the saying's way, along and across, and a society followed at it. The row of a carrying at none. No fresh reader has read this part.
+
 ## The words at nothing arriving, deciding nothing
 
 **The session's saying.** *the 0 is no changing of co competency. if there is no arriving changing differencing is not possible*.
