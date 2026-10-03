@@ -346,9 +346,32 @@ At the line of numbers it is + + − − + + − −: each parity the second pri
 
 **Twelve. Withdrawn at it.** Parts two to eight worked the code's one line with the other's own alternating read as an arriving alike, and found + + + − − − at six, and laid *six or four* and *one number on or two* for both. At that form three of the four joint forms of self and other are and one is at none: it is not the all, and it is released as a saying. And the laying of it for both asked what the arithmetic says: the all is the prior inverted, one number apart.
 
-**Thirteen. What the arithmetic says of the code's line of no changing.** At the all, a self's parity and the other's parity one number on are alike at each second step. A line of no changing at each arriving alike is at that step at each momentary, and the alternating does not continue: the form at six. The no changing of the binary is at an arriving beyond the other's own alternating, and the other's own alternating is no such arriving. That arriving's source, a third self and a fabric, is the next following.
+**Thirteen. A self's five meeting an arriving five: two binaries, and no more.** The self's five is from its two parities, at 3 and at 4. The arriving five, one number on, is from its own two, at the self's 4 and 5. They are both at four numbers, 2, 3, 4 and 5. Worked at each of the sixteen: agreeing or differing at 3 is the same as at 5, and at 4 the same as at 2. The meeting is two binaries, the one at the social parity and the one at the other parity, and each of the four is.
 
-**Not done.** The arriving beyond the other's own alternating: a third self, a fabric. No fresh reader has read this part.
+**Fourteen. The one line at each of the two, and it is the code's line.** At the two fives agreeing at a parity, the alternating continues there, the parity to its other; at their differing, it does not. Worked at each of the sixteen, three things are one:
+
+- that line;
+- the code's line, no changing at an arriving alike with the carrying and else its other, the arriving read as the arriving five's parity at the self's next number;
+- the self's next two parities are the arriving five's own, at 5 and at 6.
+
+**Withdrawn at it.** Part thirteen as it was laid a concern: the code's line of no changing beside the living step, the other's own alternating read as an arriving alike. It read the arriving at the number prior to the self's next. Read at the self's next number the code's line is the binary upon the living step, at each of the sixteen. The concern is released.
+
+**Fifteen. The carrying self momentary to momentary is one binary: its two beside each other, alike or opposite.** Each momentary both parities are at their other; the two beside each other are as they were. A self's two are alike, or opposite, and at the living step that continues. At a meeting, worked at each of the sixteen:
+
+| The two fives | The self's two beside each other, next |
+|---|---|
+| agreeing at both | as they were |
+| differing at both | as they were |
+| differing at 3 alone | other than they were |
+| differing at 4 alone | other than they were |
+
+And at each of the sixteen: the self's two next are the arriving's two inverted, alike for opposite; and they are other than they were exactly at the self and the arriving of one kind, each alike or each opposite.
+
+**Sixteen. Two selves of opposite kinds are one living line.** A self of two alike and an other of two opposite, one number on, are the line + + − − whole, the fives agreeing at each number. Two of one kind are at no one line. Worked: each the other's arriving in sequence, two of one kind are of opposite kinds at the first meeting and from it on, at each of the four openings. One meeting is the cohering; from it the two are one line, each self's two as they were at each momentary, and each parity alternating.
+
+**For both, said as it is.** At the arithmetic and at no saying: the living step is the all; the five is two parities; a self momentary to momentary is one binary, its two alike or opposite; a meeting is two binaries; the code's one line is the binary upon the living step; and one meeting brings two selves to one line. Nothing parts here.
+
+**Not done.** A self at two arrivings in sequence, the along and the across, each of its own line: a fabric. More than two selves. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
