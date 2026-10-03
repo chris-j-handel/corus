@@ -67,3 +67,5 @@ The session: no negation is anywhere in the method. Each thing depends on a chan
 ## A naming offered by the session, explored
 
 *Co-bi-tri-involutioning*: the releasing surface emanation, a non-living existing stable form. The files say *bi-tri-involutioning* of the emanating at twelve places and no co-. The prefixes co-bi-tri are at 1 and 17 alone, and 17-co-bi-tri-offering is the releasing given on along. The exploring is at [The_Universal_Claim.md](The_Universal_Claim.md), its last part: useful at three things, parting at one, one naming or two.
+
+**Mended.** The naming of the emanating's stable form is bi-tri with no co, the coupling released: the files' own *bi-tri-involutioning*. Worked: co is in the prefixes of 1 to 9 and 17 and in none of 10 to 16, and 10-bi-tri-bi-tunneling, the releasing, is the first with none. The parting on co- is withdrawn.

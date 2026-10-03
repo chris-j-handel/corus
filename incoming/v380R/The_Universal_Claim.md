@@ -73,3 +73,11 @@ Offered by the session for exploring, useful or not. Explored by working each pa
 
 **One more parting, found beside it.** Resolving Hard Problems reads a carrying of none at an arriving parity as a new living self's first changing, living establishing. Exhibit ONE titles that row *Colliding*. The two sayings: the row is a non-living form at each momentary; or it is the one momentary a living carrying begins. Its reason: the resolver carries the arriving parity on from that momentary, and a non-living thing carries none of its prior.
 
+## The emanating's stable form: bi-tri, with no co
+
+The session: the emanating's stable form is the thing to name, and it is bi-tri with no co, the coupling released.
+
+**Worked at the seventeen names.** Each name's three prefixes, by the rule of the numbers: co is in the prefixes of 1 to 9 and of 17, and in none of 10 to 16. The first name with no co is 10-bi-tri-bi-tunneling, the name the changing is released at. The names opening bi-tri are 10, 12, 14 and 16, each in the society's span.
+
+**Beside it.** The living files say *bi-tri-involutioning* of the emanating at twelve places, with no co. The parting laid above, co- entering or two namings, is withdrawn: the naming is bi-tri, as the files have it.
+
