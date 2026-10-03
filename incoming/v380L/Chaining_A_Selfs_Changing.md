@@ -324,6 +324,18 @@ And the four with each inverted.
 
 **Four. Beside the Registry's living step, a parting for both.** The Registry's living step is next as the prior inverted, the four joint forms round in one cycle, at itself again at four. The form here is each the third prior inverted, at itself again at six. Exhibit ONE's two selves of alike priors joined both ways, each self at one call together, are + − − + + at each, at four. The two sayings: two selves each at its own opening, the one's completing the other's opening, the form at six, three at each side, the Registry's six one-way steps; or each self at one opening together, the form at four, as the code's third function and the living step say. Its reason: the frame says the self's momentary 1 2 and the other's 2 3, one number apart; the code's third function is each self at one call together.
 
+**Five. The five as the session said it next.** *12345 this is the self carrying and social parity is 3 and other parity is 4. now is an arriving 23456 carrying. every odd number there is a new arriving 23456 carrying next momentary where 34 moves to 12 and the whole number system drops by 2*
+
+It is the files' own five at each word. The Registry: *the self 1 to 5 and the other 2 to 6*; *3 co-momentarying now, 4 bi-momentarying now*, the social parity at 3 and the other parity at 4; the self's next five from 3 to 7, the numbers two less. Exhibit ONE's table of fives, its three rows.
+
+Said at it: the self's carrying and the arriving carrying are each five numbers in sequence at one line of numbers, the arriving one number on. Four are at both, 2, 3, 4 and 5; the self's 1 is at the self alone and the arriving's 6 at the arriving alone. At each momentary the arriving is at one number new to the self, 6; the self's next opening is 7; and 3 and 4 are 1 and 2.
+
+**Six. The code's one line at it: the two new parities are from 3 and from 4.** By part three, each parity the third prior inverted: the arriving's 6 is the social parity, 3, inverted, and the self's 7 is the other parity, 4, inverted. The two parities of the now momentary are the two the next two are from, each at one changing.
+
+**Seven. Each parity's changing two on, is or is not.** A parity is at its other two on at being alike with the parity prior to it, and at its own again at being other than it. In the form + + + − − − the social parity and the other parity of each momentary in sequence are: is and is not; is and is; is not and is; and again. Three of the saying's four rows are at two selves in sequence, and neither changing at none.
+
+**Eight. The parting of part four, at this saying.** The saying sets the arriving one number on from the self, 1 to 5 and 2 to 6: two selves each at its own opening, the form at six. The code's third function is each self at one call together, a changing arriving one call on, two numbers; its form at two selves of alike priors is at four, Exhibit ONE's table and the Registry's living step. For both: the arriving one number on, or two.
+
 **Not done.** The five at a self's two parities, the along and the across. More than two selves. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
