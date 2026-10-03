@@ -2231,3 +2231,5 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 **At Natural Naming v380R.** The parts released from Exhibit ONE's front are received as reference, five sentences beside the sentence of each thing Exhibit ONE carries: seventeen names the resolver; parity is or is not existing; a society at the resolver; an offering none, one or more at one sharing; each sharing of a living carrying at one parity, a carrying of none colliding. Its carrying releases the entry.
 
 **At Natural Intelligence v380R, its own sentences.** *Face*, *connector* and *join* dissolve, ninety-two sayings, each re-said as Natural Naming re-says its twin: the six names between selves; a releasing, 6 to 2 and 10 to 14; 9 to 17 and 17 to 9; selves coupled; is facing; parity's unit square; a triangle of the twelve corners. Two section titles re-said. Exhibit ONE inside is as it was.
+
+**At Natural Intelligence v380R and Exhibit ONE v380R.** The resolver said the resolver at each of Natural Intelligence's forty-six sayings and at Exhibit ONE's one cell; + and − said the parity of a sharing. Each other word as it was.

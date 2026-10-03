@@ -120,4 +120,3 @@ Natural Intelligence · carrying v379
 
 **Concern, at v380m, from `incoming/v380G/README.md`, for this file's opening.** A reader arrives with one question this file answers, a next discovered with no reference from beyond; Exhibit ONE's, changing resolved with no store; the Co-Chaining Logic Registry's, selves beside each other cohering. Each is said as an absence in the arrival. The two sayings: one sentence at each file's opening saying its question positively; or each file as it is. Its reason: a record said from outside this version's improving carries a framework the files have dissolved, and a reader of it is at that distance.
 
-**Ready: the resolver said the resolver.** This file's own sentences say *the code* of the resolver; Natural Naming and the Co-Chaining Logic Registry say *the resolver*. Each is ready for re-saying, one motion.
