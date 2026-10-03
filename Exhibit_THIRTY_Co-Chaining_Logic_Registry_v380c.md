@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v380b
+Exhibit THIRTY Co-Chaining Logic Registry v380c
 
 # Co-Chaining Logic Registry
 
@@ -36,6 +36,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380b
 - 30 Intelligence, our now
 - 31 The ten named still, and parity discovered
 - 32 An offering at words, a naming, a file and the living expedition
+- 33 The forms among the names
 
 ---
 
@@ -2598,3 +2599,23 @@ Exhibit THIRTY Co-Chaining Logic Registry v380b
 599. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third, the next step shown being at the method, discovering next possible existing.
 
         *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
+
+## 33 The forms among the names
+
+        *Entering: the further forms, each at its moves; two parity changings round each form; a form's partner, at the momentaries opening odd and opening even; the self's next five.*
+
+600. The further forms, step 259, each go by 4 up or 4 down, parity continuing, beside 17 less, and the six-cycles and the eight-cycles by 8 up or 8 down also: the middle four-cycles 9-5-12-8 and 7-11-6-10 at 4 and 17 less, twice; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at two of 8, two of 4 and two of 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, 4, 8 and 17 less, twice.
+
+        *Adding: the further forms, each at its moves.*
+
+601. Round each of the twelve forms, the four four-cycles and the eight further forms, the odd names are one going and the even names one going: the parity's changings round a form are exactly two, each at a 17 less, steps 264 and 277, and each other move of it continues parity.
+
+        *Adding: two parity changings round each form.*
+
+602. A form's partner is the form its names make, each exchanged with the name beside it: at the momentaries opening odd, 1 with 2 on to 15 with 16, and at the momentaries opening even, 2 with 3 on to 16 with 17, steps 70, 73 and 166. Each partner other than the form itself is round the other way, steps 257 and 521; a form exchanged into its own going is itself; and a form exchanged into the going of no form, each form with 1 among its names at the momentaries opening even among them, is at no partner.
+
+        *Adding: a form's partner, at the momentaries opening odd and opening even.*
+
+603. The self's next five opens at 3, step 90, from 3 to 7, co bi co bi co, steps 82 and 508: each five opens one number on, the self's at 1, the other's at 2 and the self's next at 3.
+
+        *Adding: the self's next five.*

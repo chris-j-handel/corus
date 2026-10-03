@@ -2,7 +2,7 @@
 
 **Standing:** arriving, an offering for both. Three fresh readers read Exhibit ONE's diagram and its twenty-two tables, one part each, beside the Registry read whole; this working met each parting and each offered step at Exhibit ONE's rows itself. No executing of the resolver is the reason of a line here: each offered step is checked at the numbers of the names in Exhibit ONE's own rows.
 
-**Read:** Exhibit ONE, its diagram and each table, at v379 and beside v380, each table and each row the same at both; the Co-Chaining Logic Registry v380b, its 599 steps.
+**Read:** Exhibit ONE, its diagram and each table, at v379 and beside v380, each table and each row the same at both; the Co-Chaining Logic Registry v380b, its 599 steps. At v380c the first four of the steps offered here are entered, steps 600 to 603, a group of their own.
 
 **The aim.** The Registry carries the chaining of each form Exhibit ONE shows. This file says, at each table, the steps saying it, the rows at no step, and each step parting from a row.
 
@@ -20,13 +20,13 @@
 | The three windings | 227, 229 | Joinings and wound on whole; whose winding at no step |
 | Each name at this 1 to 17, inward and outward | 169, 172, 269, 366, 372 | By its rule |
 | The eight 1 to 17s inward | 366, 370, 371 | Whole by its rule |
-| The fives | 82, 507, 508 | Two rows of three; the self next at 3 at no step |
+| The fives | 82, 507, 508; at v380c, 603 | Three rows of three |
 | The four momentaries of exchanging | 71, 73 | The self's and the other's whole; its names and its relation at no step |
 | The offerings surfacing at one sharing | 204, 205, 223 | Nine rows of ten; a 0 beside a parity at no step |
 | One self at one momentary, each cell | 208, 212, 450, 451 | Eleven cells of twelve; carried none and offered nothing at no step |
 | The eight even names | 203, 204, 254, 512 | The eight; three sayings of eight whole |
 | The one move at 1 to 4 | 76, 78, 252, 255, 257, 264 | Whole at the numbers |
-| The twelve forms | 257, 258, 259, 277, 521 | Four of twelve named; eight said as kinds; hands and partners at no step |
+| The twelve forms | 257, 258, 259, 277, 521; at v380c, 600, 601 and 602 | Each of the twelve named at its moves, two parity changings round each, each partner at its rule; the prefixes twisting through a form at no step |
 | One self, momentary by momentary | 68, 306, 307, 308 | Three rows of four; offered the other parity at each momentary by rule alone |
 | A spiral of selves | 210, 230, 231, 232, 414 | Each row by its rule; *from momentary* at no step |
 | Two spirals | 235, 237, 238, 240 | Beside each other whole by rule; crossed, the parities again at 2, at no step |
@@ -51,21 +51,21 @@
 
 ## Steps offered, each a form of Exhibit ONE at no step
 
-Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
+The first four are entered at v380c as steps 600 to 603, each re-said at a second fresh reading; the Registry's sentence is the one carried, and the sentence here is the one offered. Each is checked at the numbers of the names in Exhibit ONE's rows, by this working and again by a fresh reader, each of the nine agreeing with its rows. Entering is at a motion of its own, in the group on sharing and the seventeen names, the chain renumbered, or as a group following it.
 
-**One. The further forms, each at its moves.**
+**One, entered at v380c as step 600. The further forms, each at its moves.**
 *The further forms go by four up or four down, parity continuing, beside 8 up and 17 less: the middle four-cycles 9-5-12-8 and 7-11-6-10 at four and 17 less; the six-cycles 1-9-5-12-8-16, 2-15-7-11-6-10, 3-11-7-10-6-14 and 4-13-5-9-8-12 at 8, four and 17 less; the eight-cycles 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 at 8, four, 8 and 17 less.*
 Adding: the further forms, each at its moves. From step 259, its *moves of their own*, and step 264. Each move of each of the eight computed at its two names: a sum of 17, or a difference of 8 or of 4. The middle four-cycles are at no 8 up: 4, 17, 4, 17.
 
-**Two. Two parity changings round each form.**
+**Two, entered at v380c as step 601. Two parity changings round each form.**
 *Round each of the twelve forms the odd names are one going and the even names one going: the parity's changings round a form are exactly two, each at a 17 less, and each other move of it continues parity.*
 Adding: two parity changings round each form. From steps 79, 264 and 277, and the step on the further forms. At Exhibit ONE's column of the hand at the names, twelve of twelve.
 
-**Three. A form's partner.**
+**Three, entered at v380c as step 602. A form's partner.**
 *A form's partner is the form its names make, each exchanged with the name beside it: at the odd momentaries 1 with 2 on to 15 with 16, and at the even 2 with 3 on to 16 with 17. Each partner is spiraling the other hand; a form exchanged into its own going is itself; and a form with 1 among its names at the even momentaries, or exchanged into the going of no form, is at no partner.*
 Adding: a form's partner, at the odd momentaries and at the even. From Exhibit ONE's condition at its table of the twelve forms, and steps 257 and 521. At Exhibit ONE's two columns of partners, twenty-four of twenty-four. At the odd momentaries each of the twelve is at a partner, six pairs. At the even: 2-15-7-10 with 3-11-6-14 and the six-cycles through 2 and through 3; 4-13-5-12, 7-11-6-10 and the eight-cycle through 2 each itself; and five at none. The six-cycle 4-13-5-9-8-12 exchanged at the even momentaries is at its own six names in another going, and the table says no partner: a partner is a going and no gathering of names.
 
-**Four. The self next at its five.**
+**Four, entered at v380c as step 603. The self next at its five.**
 *The self next, at 3, is at its five from 3 to 7, co bi co bi co: each side's five opens one number on, the self at 1, the other at 2 and the self next at 3.*
 Adding: the self next at its five. From steps 82, 90 and 508. *Self next, at 3* is Exhibit ONE's own row; the Registry's step on the five dimensions says *5 self next* of another thing.
 
@@ -90,8 +90,8 @@ Adding: three selves in a line. From steps 208, 212, 222, 223 and 239. Exhibit O
 Adding: a sharing at no carrying. From step 212, a sharing entering the carrying at an offering. Exhibit ONE's cell, a dash and *none*.
 
 **Ten. The changing is and is not, alternating.**
-*At a carrying, a changing that is and a changing that is not alternate, momentary by momentary: the carrying next at its prior inverted, the four joint forms of prior and now round in one cycle, the living step. The changing that is at each momentary is one parity turning at itself, again at two; the changing that is not at each momentary is a form named still.*
-Adding: the changing is and is not, alternating, the living step at a carrying. From steps 57, 58 and 212. Exhibit ONE's rows of a spiral of one self, *+, 0, −, 0*, and of two selves of alike priors joined both ways, *−, 0, +, 0, −, 0*; and of each alone, *+, −, +, −* and *+, 0, 0, 0*. The arithmetic of two parities alone is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md). With it the sixth, the seventh and the eighth wait on nothing.
+*At a carrying, a momentary of one changing and a momentary of two, alternating, are the carrying next at its prior inverted, the four joint forms of prior and now round in one cycle: the living step at a carrying.*
+Adding: one changing and two, alternating, the living step at a carrying. From steps 57, 58 and 79. Re-said at the premise's following: a momentary is one changing or two. Exhibit ONE's rows of a spiral of one self, *+, 0, −, 0*, and of two selves of alike priors joined both ways, *−, 0, +, 0, −, 0*; and of each alone, *+, −, +, −* and *+, 0, 0, 0*. The arithmetic of two parities alone is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md).
 
 ## At no step, and offered at none
 
@@ -106,7 +106,7 @@ And each is a saying Exhibit ONE's row carries in words, at no step: whose windi
 
 ## Not done
 
-- Nine of the ten offered steps are read by one fresh reader, its findings met here; the tenth is read by none; none is entered.
+- Nine of the ten offered steps are read by one fresh reader, its findings met here; four are entered at v380c; the fifth to the ninth say *a changing that is not* and *nothing offered*, and wait on the premise's following, for both; the tenth is re-said at it.
 - The steps parting at 511, 427 and 308 are not followed.
 - The sayings in words at no step are listed and not chained.
 - The other living files are not read beside the Registry.
