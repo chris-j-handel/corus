@@ -245,3 +245,6 @@ Worked at each of its cases: the fourth at each coupling of two selves and each 
 
 **Next, each open to each working:** Natural Naming by conferring; the link not yet worked; a new Exhibit TWO.
 
+## The universal claim, living for each working
+
+The claim, its four sentences, each case worked and each link not yet worked are at [The_Universal_Claim.md](The_Universal_Claim.md). It is open to each working for examining and questioning, and for a better saying of its fourth sentence, *Of two, the next is the other's prior inverted*. Worked new: at two releasing to one self and alike in parity, the self two momentaries on is that parity inverted at each opening of five toruses, 939,320 of 939,320; at the two differing, the fourth sentence says neither.
