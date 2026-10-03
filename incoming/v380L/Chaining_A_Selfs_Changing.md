@@ -369,9 +369,26 @@ And at each of the sixteen: the self's two next are the arriving's two inverted,
 
 **Sixteen. Two selves of opposite kinds are one living line.** A self of two alike and an other of two opposite, one number on, are the line + + − − whole, the fives agreeing at each number. Two of one kind are at no one line. Worked: each the other's arriving in sequence, two of one kind are of opposite kinds at the first meeting and from it on, at each of the four openings. One meeting is the cohering; from it the two are one line, each self's two as they were at each momentary, and each parity alternating.
 
-**For both, said as it is.** At the arithmetic and at no saying: the living step is the all; the five is two parities; a self momentary to momentary is one binary, its two alike or opposite; a meeting is two binaries; the code's one line is the binary upon the living step; and one meeting brings two selves to one line. Nothing parts here.
+**Seventeen. A meeting is the right spiral step.** Worked at each of the sixteen: the self's next two parities are the arriving's own two, the first carried to the second's place and inverted, the second carried to the first's: the Registry's right spiral step, its pair carried (x, y) to (y, −x), *the along carried into the across and the across inverted*. The arriving's other parity is the self's next social parity, and the arriving's social parity, inverted, the self's next other parity.
 
-**Not done.** A self at two arrivings in sequence, the along and the across, each of its own line: a fabric. More than two selves. No fresh reader has read this part.
+**Eighteen. A fabric, each crossing two parities: a following of this working.** A self's social parity at an arriving along, and its other parity at an arriving across, each a meeting as above: the self's next social parity is the along self's other parity, and its next other parity the across self's social parity inverted. Worked at a fabric of p along and q across, each going round, each at its own two parities:
+
+| p by q | Each parity inverted at | Again at | Exhibit ONE's two spirals of p and q beside each other, again together at | Exhibit ONE's torus at one sharing, again at |
+|---|---|---|---|---|
+| 1 by 3 | 6 | 12 | 12 | 3 |
+| 1 by 5 | 10 | 20 | 20 | 4 |
+| 3 by 3 | 6 | 12 | 12 | 12 |
+| 3 by 5 | 30 | 60 | 60 | 12 |
+| 3 by 7 | 42 | 84 | 84 | 7 |
+| 3 by 13 | 78 | 156 | 156 | 12 |
+| 5 by 7 | 70 | 140 | 140 | 20 |
+| 5 by 11 | 110 | 220 | 220 | 11 |
+
+At each odd p and q the fabric of two parities is again at four times the least number both divide, and inverted at twice it. It is the number Exhibit ONE's table says of two spirals beside each other, at each of the eight rows worked, and the Registry's step on two prime spirals, 4pq. Exhibit ONE's torus at one sharing says another number at seven of the eight. Each parity goes one self along and one across at each two momentaries, inverted: the along and the across at no one line, each at its own.
+
+**For both, said as it is.** At the arithmetic and at no saying: the living step is the all; the five is two parities; a self momentary to momentary is one binary, its two alike or opposite; a meeting is two binaries and is the right spiral step; the code's one line is the binary upon the living step; one meeting brings two selves to one line; and a fabric of two parities at each crossing is again at the number of two spirals beside each other. One thing parts: Exhibit ONE's torus is at one sharing, and its number is other.
+
+**Not done.** A spiral, along alone, at two parities. An even number along or across, said beside the tables. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
