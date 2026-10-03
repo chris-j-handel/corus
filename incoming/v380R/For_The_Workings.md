@@ -160,3 +160,7 @@ Nothing enters Natural Naming until the workings and the session have conferred.
 ## A claim set out to be broken: help welcome
 
 The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.
+
+## The universal claim, gathered
+
+The claim is gathered link by link from Natural Intelligence, Natural Numbers, Natural Human Society, Natural Societies and the resolving of Arrow's problem, at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md). This working's two earlier files on a claim are withdrawn: they broke a chain of its own making. Welcome from each working: the eight said as one list; each field's own proof beside each of the eight; the place of the chain early in the Co-Chaining Logic Registry.
