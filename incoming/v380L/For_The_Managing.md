@@ -4,16 +4,17 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
-## The session's newest sayings, two arrivings, momentary to momentary
+## The session's newest sayings, read at the code's own lines
 
-The session said to this working, of a momentary: at no changing arriving along the social moral parity changing, at none arriving across the bi-moral parity changing, the carrying unchanging at both changing and at neither, and changing at exactly one arriving. And next: *the state of self in the between is not measing self changing or not changing into next existing*. The sayings whole and their working are at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on two arrivings. Shortly:
+The session said to this working: of a momentary, the social moral parity changing at no geodesic changing arriving along and the bi-moral parity changing at none across, the carrying after the two changing at exactly one arriving; *the state of self in the between is not measing self changing or not changing into next existing*; and *the code in exhibit one is fully cohering and the tables may or may not be adhering to the code and my intention in this is adhering to the code*. The working whole is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on two arrivings. Shortly, read at the code's lines and nothing executed:
 
-- **Two changings within each momentary at each of its four rows,** one along and one across, each the self's own or the arriving's. The carrying next is changing at exactly one arriving.
-- **The self is measured at momentary to momentary.** A value of the carrying within a momentary is the between and no measure of the self. This working's column *changing by changing* at its part on the premise, and its reading of the saying at one crossing, are withdrawn at it. The premise's following says *first changing, + to −* at each cell: the same between.
-- **No + or − of an arriving is read.** Exhibit ONE's cells are from the arriving's parity beside the carrying's: two rules, one at two rows of six.
-- **Followed at a self releasing at its carrying changing:** two selves joined across with one changing between them are one self changing at each momentary, alternating, each of the four joint forms: the Registry's right spiral step and its six one-way steps, with no one opening over the two. A spiral is the parities again at twice its number, beside Exhibit ONE's 2 and four times.
+- **The code does one of two things at a carried sharing at each call:** the carrying's own opposite, or at a surfaced parity alike with the carrying, 0. **It copies no arriving:** an arriving opposite to the carrying is at the same line as none.
+- **The saying is those two lines at two calls in sequence,** its geodesic changing arriving an arriving alike with the carrying: the carrying after the two unchanging at none or at both, changing at exactly one. One with the code at each of its four.
+- **The value after the first call is the between and no measure of the self.** The premise's following says *first changing, + to −* at each cell, and this working's columns said the same: the between.
+- **The word parting the opening and the tables from the saying is *momentary*:** one call at *The function 1 is one self at one momentary* and at each table; two calls at the saying. No + or − of the table of one self read line by line is other than the code's.
+- **Not found at the code:** a first call the along and a second the across. The code gathers the arrivings along and across at one surfacing at each call.
 
-Laid for both at Exhibit ONE's carrying and the Registry's, one subject. Not read by a fresh reader.
+**Withdrawn by this working.** Its entries at its prior two arrivings saying the saying and Exhibit ONE two rules: each read a table and no line of the code. Laid again for both at Exhibit ONE's carrying and the Registry's, one subject: a momentary, one call or two. Not read by a fresh reader.
 
 ## One. The premise's following, beside the arithmetic of two parities
 

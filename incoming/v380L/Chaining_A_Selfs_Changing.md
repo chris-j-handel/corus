@@ -177,35 +177,34 @@ The carrying next is changing at exactly one of the two arriving, and unchanging
 
 **Withdrawn at it.** This part read the saying *at one crossing alone, the self changing at no changing arriving*, beside Exhibit ONE's eight cells, six one and two parting. That reading measured the self in the between, after the first of the two and prior to the second. The self's changing is the last column of the table of four alone: after the two. And the part on the premise above says a carrying *changing by changing*, + − + − within a momentary: its values within a momentary are the between and no measure of the self; its column momentary by momentary is the self's.
 
-**Eight. Beside Exhibit ONE's table, momentary to momentary.** Exhibit ONE's table of one self at one momentary is at one sharing, the offerings along and across gathered at it, and its carrying next is from the + or − surfaced beside the carrying's. The saying's carrying next is from the number of changings arriving, at the along and at the across, no + or − read.
+**Eight. Read at the code's own lines, and no table.** The session said next: *when you refer to exhibit one more care is needed as the code in exhibit one is fully cohering and the tables may or may not be adhering to the code and my intention in this is adhering to the code*. This part read Exhibit ONE at its tables and at this working's own gloss of them. Read at the lines of the code, as text, nothing executed:
 
-| Arriving at a carrying of + | Exhibit ONE's carrying next | The saying's carrying next | |
-|---|---|---|---|
-| none | − | unchanging, + | parting |
-| one, a − | − | changing, − | one |
-| one, a + | + | changing, − | parting |
-| two, a + and a + | + | unchanging, + | one |
-| two, a − and a − | − | unchanging, + | parting |
-| two, a + and a − | −, the 0 surfaced | unchanging, + | parting |
+- **At a sharing a self carries, the code does one of two things at each call.** It sets the carrying's own opposite, *−1 if the carrying is + else 1*; or, at a surfaced parity alike with the carrying, it sets 0 and the carrying is carried on. No third.
+- **The code copies no arriving.** At an arriving opposite to the carrying the line is the same line as at none arriving: the carrying's own opposite. The one thing read of an arriving is alike with the carrying, or not.
+- **An arriving is a releasing self's changing.** A self releases a parity at a sharing it changed, and 0 at one it carried on; a 0 arriving is passed over at the surfacing.
 
-They are one at an arriving opposite to the carrying alone, and at two arriving alike with it; they part at each other row. They are two rules: the one reads the arriving's parity, the other a changing arriving or none.
+So at each call the carrying is alternating, + − + −, and at one arriving alone it is not changing: a changing arriving alike with it.
 
-**Nine. A self's releasing, momentary to momentary: a following of this working.** The session said to the managing *releasing is self-parity changing and not releasing is self-parity no changing*. The self measured at momentary to momentary, a self is releasing at its carrying changing, along and across alike, and at no other; a self's arriving is the releasing of the momentary prior. Arithmetic at it:
+**Nine. The saying beside the code: one, at a momentary of two calls.** Said with the saying's *geodesic changing arriving* an arriving alike with the carrying, and its momentary two calls in sequence:
 
-| The society | The carrying, momentary to momentary | |
-|---|---|---|
-| A self at none arriving | + + + + | Unchanging; two changings within each momentary, each its own |
-| Two selves joined across, one changing between them | A: + + − − + + − −; B: + − − + + − − + | One self changing at each momentary, the one and the other alternating; each of the four joint forms of self and other; the carrying next at its prior inverted |
-| Two selves joined across, each changing at one momentary | A: + − + −; B: + − + − | Both changing at each; two joint forms |
-| A spiral of n selves, one changing going along | Self 1 of three: + + + − − − + + + | One self changing at each momentary; each carrying inverted at n and again at 2n |
+| At the first call | At the second call | The code, call by call, from a carrying of + | The saying | The carrying after the two |
+|---|---|---|---|---|
+| no arriving alike | no arriving alike | − and + | social moral parity changing, bi-moral parity changing | unchanging |
+| an arriving alike | no arriving alike | + and − | not changing, changing | changing |
+| no arriving alike | an arriving alike | − and − | changing, not changing | changing |
+| an arriving alike | an arriving alike | + and + | not changing, not changing | unchanging |
 
-**Ten. Beside the Registry's steps, the two selves with one changing between them.** One changing going from the self to the other and to the self again is the Registry's six one-way steps, three at each side; one parity changing at each step is its right spiral step, the four joint forms one way round and both inverted at six. The two selves are each at its own momentary, the one's changing the other's arriving: no one opening over the two.
+Each of the four is the code's own lines twice. The saying's first sentence, the parity alternating + − + −, is the code's line of the carrying's own opposite at each call. The value after the first call is the between and no measure of the self.
 
-**Eleven. Beside Exhibit ONE's tables of selves.** Its two selves of alike priors joined both ways are each changing at one momentary and each at none at the next, *−, 0, +, 0* at each: the third row of part nine at each second momentary. Its spirals say the parities again at 2 at an even number of selves and at four times an odd number; the saying's following says 2n at each. The numbers part.
+**Withdrawn at it.** This part said the saying and Exhibit ONE *two rules*, one at two rows of six, and laid it at two carryings. It read a table's one call as a momentary, and said an arriving opposite to the carrying copied; the code copies none. And parts of its following, a self at any changing arriving and a spiral again at twice its number, were of a rule the code does not carry. Each is withdrawn.
 
-**For both, said as it is.** The saying is whole at its four and at momentary to momentary: two changings within each momentary, the carrying changing at exactly one arriving. Followed at two selves it is the Registry's living step and its six one-way steps. Exhibit ONE's cells are another rule, one with it at two rows of six, and its spirals' numbers are other.
+**Ten. The tables and the opening beside the code, at one word: momentary.** The table of one self at one momentary agrees with the code's lines at each of its twelve cells, read line by line; and it is one call. The opening's *The function 1 is one self at one momentary*, each table's *momentaries 1 to 12* and *momentary by momentary*, are each one call. Said the saying's way a momentary is two calls: each second value of each row is the between, and the numbers are half, the odd spirals' four times the number of calls twice the number of momentaries. No + or − of a table is other than the code's by this reading; its word *momentary* is.
 
-**Not done.** The spirals crossed and the torus at the saying, a self at an along arriving and an across arriving at one momentary. The row of a carrying at none. No fresh reader has read this part.
+**Eleven. Not found at the code's lines.** The saying says the first of the two the social, along, and the second the other's, across. At each call the code gathers the arrivings along and across at one surfacing and releases the same along and across; no line parts a first call along from a second across. Said as it is, for both.
+
+**For both, said as it is.** The saying is the code's own two lines, at two calls in sequence, and the carrying after the two changing at exactly one arriving alike. A momentary one call or two is the one word parting the tables and the opening from the saying. The along first and the across second is at no line of the code.
+
+**Not done.** The other tables read beside the code line by line. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
