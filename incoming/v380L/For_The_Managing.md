@@ -115,3 +115,37 @@ The working v380R's nine links and eleven breaks are read whole. Five more reade
 
 **One thing for both, first.** The sentence the inversions come to is to be said at an early step, with whose prior, ahead of any other entering: each other break leans on it. And three sentences beside it: a next at two releasing to one; one parity of a many at the next scale; across and along at one place by either order.
 
+## Fifteen. The working v380R's newest met: three sentences mended, and each link marked worked or said
+
+**The three parting, mended at the Registry's v380l.**
+
+- **243, the torus:** said at Exhibit ONE's opening, each self at a parity; at q at a q more than twice p and at 4p at a q less; 3 by 13 at 13. The working v380R's rule at sixty odd pairs is the same. Its *either number even, at 2* is followed by hand here at 2 by 2 alone and is not entered.
+- **568 with 68:** *the file's prior continuing* is released from 568. Step 68 says two opposed changings arriving at one momentary *a nothing between them, neither carried on*, a self carrying a parity carrying its own inverted into its next. Step 568 says *nothing chained of the two*.
+- **427:** *a name's prefixes are a second relation, bi- across and tri- along, beside the across and along of the six names 2, 6, 9, 10, 14 and 17*.
+- **235, said in part:** two spirals beside each other, each opened alternating along, at the least number of momentaries each spiral's own divides; 9 and 15 at 180, 2 and 3 at 12.
+
+A fresh reader read the four in place and each finding is mended; the sentences as mended are read by none.
+
+The seven things of Exhibit ONE at no sentence, each with a sentence offered, and the eight more said in part are for this file's next improving.
+
+**Each link of the claim at the Registry, worked at each of its cases or said.**
+
+| The link | At the Registry | Worked at each of its cases, or said |
+|---|---|---|
+| The universe is the changing set of all existing things | step 1 | said: the opening sentence |
+| A set is an existing thing | step 2 | said |
+| The universe is the set and an existing thing within it | step 3 | said |
+| All changing is parity changing | step 42 | said |
+| Parity changing is the one method of the set | step 45, its reason at 46 to 48 | said |
+| One way of sixteen at each of the four pairs in one cycle | steps 53 to 57 | worked, each of sixteen |
+| Two of 256, one parity changing at a step | step 524 | worked, each of 256 |
+| A self two momentaries on at the releasing self's parity inverted | steps 233 and 609 | worked: followed by hand and proven at each spiral, each self at a parity and none offered; the working v380R, each of 89,204 |
+| The 0 at momentaries in sequence no more than the selves releasing | step 611 | worked: proven at the resolver's lines |
+| A spiral's number from its pattern | step 612 | worked: proven, and six patterns followed by hand |
+| The torus's number | step 243 | worked at each of sixty odd pairs by the working v380R; the rule said and not proven |
+| Two releasing to one: the self two momentaries on | at no step | worked at one case here, the two alike and either changing; each other case said and not yet worked |
+| A number's prior and its next multiplying to its square less one | step 124 | worked by the working v380R, each to 100,000 |
+| From each bi-coupling to the set of all existing things | at no step | said and not yet worked: the working v380R's one concern, and this working's |
+
+Each of the five sentences that are the claim is said. Each thing worked at each of its cases is of the numbers or of the resolver. One link is between them.
+

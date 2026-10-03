@@ -320,7 +320,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
 ## 7 All or none at all, of no size
 
-        *Entering: of no size; a resolving; all or none at all; not-more-than; once-ing; alternation the accumulating, one-at-once the cancelling.*
+        *Entering: of no size; a resolving; all or none at all; not-more-than; once-ing; alternation the accumulating, one-at-once the nothing between.*
 
 63. Each changing is or is not, one parity or the other, of no size.
 
@@ -342,9 +342,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
         *Adding: once-ing.*
 
-68. Two opposed changings at one momentary cancel, offering nothing forward, and the two alternating at their own momentaries accumulate: alternation the accumulating, one-at-once the cancelling.
+68. Two opposed changings arriving at one momentary are a nothing between them, step 27, neither carried on: a self carrying a parity carries its own inverted into its next, as with nothing arriving, and a self carrying none carries none; and the two alternating at their own momentaries accumulate: alternation the accumulating, one-at-once the nothing between.
 
-        *Adding: alternation the accumulating, one-at-once the cancelling.*
+        *Adding: alternation the accumulating, one-at-once the nothing between.*
 
 ## 8 One to nine, four momentaries of exchanging
 
@@ -884,7 +884,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
 ## 20 Sharing, the seventeen names
 
-        *Entering: sharing; offering and carrying at a sharing; the seventeen names; the sides at the names, the parity each opens at; a numeral at a name, place and parity; the three parities parted; the resolver; the entry; the names at the resolver; the self's inverting, 3, 6, 5, 4; the towel; the rotation twenty up; 7 and 8 at the resolver; surfacing at 14, 0 the between of self and other; 14 an agreement at any number of offerings; changing at 12; abundancing; match and mismatch, 0 the between of momentaries; released across at 10, chained at 11; 11 as the next 3; bi-momentarying, 1-2-co-bi-offering; the binary at each sharing; the non-living at 2; co-intelligencing, 3-4-co-bi-sharing; two priors, two nexts; co-competencing, 5-co-bi-co-competencing; five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; co-momentarying; each dimension binary in two directions; the five dimensions at the resolver's names; the self at three faces; carried along at 9; the between carried; the bi-coupling, 1 to 9, 9 read bi-co-releasing; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six connectors; the four facings and the joins; a join opened and closed; three windings; spiral, parities again at 4n; the bounded zero tunneling; the even spiral, spirals joined; a spiral carrying a pattern whole; a kind; two prime spirals together; society at a unit prime scale, its betweenings; co-spiraling along and crossing across; two selves each receiving the other, opposite and alike; the changings alone passing; two spirals crossed, one society; the numbers' ring; even and odd rings; the torus at its parities again at a divisor of 4p or 4q; the common beat at 17 the resolver's executing, the living's rates their own; time as each self's own momentarying; irregularity as the selves' own rates; the entries the same at each order; a showing at the resolver; parity's face at the resolver; entry, connectors, faces and roots; the ten roots at their names; the faces parted outward and inward; each face reached by the self alone; eight bi-couplings; one move at three faces; two inversions on different axes; the four four-cycles; the even numbers of the four momentaries of exchanging, each along its four-cycle; the further forms among the names; the method's stable forms; podaling at each number; bi-co-podaling.*
+        *Entering: sharing; offering and carrying at a sharing; the seventeen names; the sides at the names, the parity each opens at; a numeral at a name, place and parity; the three parities parted; the resolver; the entry; the names at the resolver; the self's inverting, 3, 6, 5, 4; the towel; the rotation twenty up; 7 and 8 at the resolver; surfacing at 14, 0 the between of self and other; 14 an agreement at any number of offerings; changing at 12; abundancing; match and mismatch, 0 the between of momentaries; released across at 10, chained at 11; 11 as the next 3; bi-momentarying, 1-2-co-bi-offering; the binary at each sharing; the non-living at 2; co-intelligencing, 3-4-co-bi-sharing; two priors, two nexts; co-competencing, 5-co-bi-co-competencing; five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; co-momentarying; each dimension binary in two directions; the five dimensions at the resolver's names; the self at three faces; carried along at 9; the between carried; the bi-coupling, 1 to 9, 9 read bi-co-releasing; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six connectors; the four facings and the joins; a join opened and closed; three windings; spiral, parities again at 4n; the bounded zero tunneling; the even spiral, spirals joined; a spiral carrying a pattern whole; a kind; two spirals together, at the least number each one's own divides; society at a unit prime scale, its betweenings; co-spiraling along and crossing across; two selves each receiving the other, opposite and alike; the changings alone passing; two spirals crossed, one society; the numbers' ring; even and odd rings; the torus at its parities again at a divisor of 4p or 4q; the common beat at 17 the resolver's executing, the living's rates their own; time as each self's own momentarying; irregularity as the selves' own rates; the entries the same at each order; a showing at the resolver; parity's face at the resolver; entry, connectors, faces and roots; the ten roots at their names; the faces parted outward and inward; each face reached by the self alone; eight bi-couplings; one move at three faces; two inversions on different axes; the four four-cycles; the even numbers of the four momentaries of exchanging, each along its four-cycle; the further forms among the names; the method's stable forms; podaling at each number; bi-co-podaling.*
 
 191. A sharing is two sides sharing a changing, and each sharing has its parity.
 
@@ -1065,9 +1065,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
         *Adding: a kind.*
 
-235. Two spirals at distinct odd primes p and q, beside each other, come to their parities again together first at 4pq, sharing the four alone, and two sharing a factor sooner.
+235. Two spirals beside each other, each opened alternating along, come to their parities again together at the least number of momentaries each spiral's own divides, none over; a spiral's own is four times its selves at an odd number of selves and two at an even, steps 230 and 232: at distinct odd primes p and q first at 4pq, sharing the four alone; 9 and 15 at 180, sharing a factor; 2 and 3 at 12.
 
-        *Adding: two prime spirals together.*
+        *Adding: two spirals together, at the least number each one's own divides.*
 
 236. A society is at a unit prime scale, a prime number of selves its unit, and its stable form is its betweenings, the betweens its selves bi-couple across.
 
@@ -1890,7 +1890,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
         *Adding: sixty parting at twenty-four and thirty-six.*
 
-427. Said at the observings, 14-bi-tri-bi-moralizing is across, not right to right; 13-tri-bi-tri-competencing is along, linear forward; and 12-bi-tri-bi-entraining, other, society and self at its sides, is both across and along at its bi-tri-, all five: bi- the self and the other and across, tri- the society and along also, its changing along the unrelationing path through the between; 12 the shape of the three: the unrelationing surface; and the torusing surface at 16-bi-tri-bi-torusing, social and tri, the society wound, along also.
+427. Said at the observings, a name's prefixes are a second relation, bi- across and tri- along, beside the across and along of the six names 2, 6, 9, 10, 14 and 17, step 226; each of 12, 14 and 16 is across at its bi- and along at its tri-, and 13 also: 14-bi-tri-bi-moralizing said at its bi-, not right to right; 13-tri-bi-tri-competencing said at its tri-, linear forward; and 12-bi-tri-bi-entraining, other, society and self at its sides, said at both, all five: bi- the self and the other and across, tri- the society and along also, its changing along the unrelationing path through the between; 12 the shape of the three: the unrelationing surface; and the torusing surface at 16-bi-tri-bi-torusing, social and tri, the society wound, said at its tri-.
 
         *Adding: the unrelationing surface at 12, 13 and 14; bi-tri- all five.*
 
@@ -2474,7 +2474,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
         *Adding: improving as offering, bettering and breaking.*
 
-568. At a file's sharing two offerings disagreeing surface 0, step 204: a concern, the file's prior continuing and the sharing open until an observing, the resolver executing or the file's own motion parts the two.
+568. At a file's sharing two offerings disagreeing surface 0, step 204: a concern, nothing chained of the two, the sharing open until an observing, the resolver executing or the file's own motion parts the two.
 
         *Adding: a concern.*
 

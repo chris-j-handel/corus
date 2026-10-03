@@ -4,7 +4,7 @@
 
 **The outcome, first.** Each of the twenty-eight inverts to one sentence. That sentence is at no step of the Registry's first sixty-eight. Read at the steps as they are, one break dissolves and twenty-seven are as they were; the last part says each.
 
-**The one reading.** The working v380R's learning, with the session: each break read the claim as of one thing alone with its own prior, and the method is of two. Here each break is met at that: what it supposes is a thing alone, a thing held over the things, or a thing the same at each momentary; its inversion is the same thing said of two.
+**The one reading.** The working v380R's learning, with the session: each break read the claim as of one thing alone with its own prior, and the method is of two. Here each break is met at that: what it supposes is a thing alone, a thing set over the things, or a thing the same at each momentary; its inversion is the same thing said of two.
 
 ## The breaks, each with its inversion
 
@@ -15,7 +15,7 @@
 | 1 | No step joins parity changing, the method of the whole set, to the one way of sixteen | A parity changing of one thing alone, other than the one way | Each changing is of two: an existing thing at now arrives from another at prior, steps 31 and 32. Of two, the self's next is the other's prior inverted, step 609. Parity changing at a coupling is the one way |
 | 2 | The method of the whole set is the one method by definition, and sets apart no particular changing | A uniqueness that sets some changing of one thing apart | The claim is of each changing: each is of two, a next from the other's prior inverted. A changing said of one thing alone is the same coupling said at one side |
 | 3 | The five things beside are a list | Five gathered, and a sixth to be found | The opening sentence carries five terms, each binary, step 16. Each of the five is one term carried over the things: existing, a size; changing, a fixed form; all, a container; set, a clock; carrying, a store. Each inverted is the term as the things' own. This working's offering, at no step |
-| 4 | The method carries a common now, a form the same, and a keeping | The method as one thing over the things | Of two: a now is each coupling's own, step 245; the form continues at each coupling, each occurrence its own, step 59; the prior is carried by being given to the other, inverted. The next as the prior is the keeping, and it is the way with two pairs still |
+| 4 | The method carries a common now, a form the same, and a store | The method as one thing over the things | Of two: a now is each coupling's own, step 245; the form continues at each coupling, each occurrence its own, step 59; the prior is carried by being given to the other, inverted. The next as the prior is the store, and it is the way with two pairs still |
 | 5 | Two forms are joined to existing or not and to self and other by *are*; a thing at three forms | One thing with forms of its own, two or three | The two forms are the two sides of a coupling, steps 40 and 42, each all the other is, step 276. A third form is a third side: one more other, two couplings at one self, step 178 |
 | 6 | One prior and one now; a next from two priors | One thing with a depth of its own priors | Of two: the self's now and the other's prior, one of each. Two priors of one thing are one thing said twice |
 | 7 | *No pair still* and *each pair arriving* are argued at no step; plain alternating is at no still | One thing's own prior and now, and its own going among the four pairs | The pair is the parity carried between the two. Followed from self to self it is inverted at one momentary and carried on to the next self at the next: x, −x, −x, x, at each opening, each of the four pairs in sequence, step 233. Worked at two selves alike, two opposite and three |
@@ -63,7 +63,7 @@
 
 ## What the inversions come to
 
-Each of the twenty-eight supposes one of three: a thing alone; a thing held over the things; a thing the same at each momentary. Each inverted is one sentence: **each changing is of two, the next the other's prior inverted, at each coupling, at each scale.**
+Each of the twenty-eight supposes one of three: a thing alone; a thing set over the things; a thing the same at each momentary. Each inverted is one sentence: **each changing is of two, the next the other's prior inverted, at each coupling, at each scale.**
 
 Three places are not chained whole, each named in its row: a spiral as one self at the next scale; the torus, two releasing to one; the four-sided face. The readers' finding of them, and of the one sentence, is at the part next.
 
@@ -82,9 +82,9 @@ Nothing executed; each followed the resolver's lines by hand.
 | Row | The offering | Found |
 |---|---|---|
 | 3 | The five things each one term of the opening sentence | The pairing is at no step and is one of several: Natural Intelligence pairs *set* with *no container*, and *no size is its own* is said of the set also. A pairing shows no sixth is to be found |
-| 7, 18 | The parity followed from self to self | The arithmetic is so. The path is the reader's: at two selves opposite, followed at one self it is x, −x, x, −x. At an alike momentary a 0 is released and the next self inverts its own: nothing is carried on. With a self at none or an offering from beyond the spiral it is other |
-| 10 | The other hand the one way at the other's side | The arithmetic is so. P and Q are one self's across and along parities, step 186: exchanging them is no exchanging of self and other |
-| 20 | The torus, the two alike and either changing | Proven. Both carrying on: a case of four selves is at the parity itself two momentaries on, from arrivings no self released; from selves' releasings alone it is not settled. The two at two parities: *the inverted parity of one of the two* is so of each parity |
+| 7, 18 | The parity followed from self to self | The arithmetic is as said. The path is the reader's: at two selves opposite, followed at one self it is x, −x, x, −x. At an alike momentary a 0 is released and the next self inverts its own: nothing is carried on. With a self at none or an offering from beyond the spiral it is other |
+| 10 | The other hand the one way at the other's side | The arithmetic is as said. P and Q are one self's across and along parities, step 186: exchanging them is no exchanging of self and other |
+| 20 | The torus, the two alike and either changing | Proven. Both carrying on: a case of four selves is at the parity itself two momentaries on, from arrivings no self released; from selves' releasings alone it is not settled. The two at two parities: *the inverted parity of one of the two* is said truly of each parity |
 | 25 | The torus the Klein bottle at both its sides | Each surface of one side carries such a cover, the sphere over the plane of one side among them: the cover parts nothing. By the row's own saying an odd number of crossings is at the hand exchanged |
 | 26 | φ at n one, one at a time | Step 127 says the family and derives none of it; each rate at no relation closes at none |
 
@@ -101,6 +101,6 @@ Nothing executed; each followed the resolver's lines by hand.
 ## For the working v380R's four askings
 
 1. **The fewest sentences.** Its five, 1, 2, 3, 42 and 45, with one more for whose prior: step 32, *An existing thing at now arriving from another existing thing at prior is a coupling of the two*. The inversions lean on it at each row.
-2. **The reason for the one method, with is or is not alone.** Each other method is the same changing said of one alone: its inversion is of two. Said so, steps 46 to 48 are at the five terms of the opening sentence, each the things' own.
+2. **The reason for the one method, with is or is not alone.** Each other method is the same changing said of one alone: its inversion is of two. Said that way, steps 46 to 48 are at the five terms of the opening sentence, each the things' own.
 3. **The eight.** Steps 254, 350 and 351: eight bi-couplings, four outward and four inward; a self bounding itself, one bounding at two faces. The eight of social moral competency and each field's own proof are at no step.
 4. **The same form at each number.** Step 124 says two numbers beside a centre multiply to one short of the centre's square. *The one owned by neither* is at no step beside it.
