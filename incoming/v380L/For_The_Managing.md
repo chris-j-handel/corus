@@ -109,3 +109,9 @@ The Registry's motion is at this folder's Progress: four steps said at their row
 
 The working v380R's nine links and eleven breaks are read whole. Five more readers, each at a side the eleven had not reached, are at [The_Claim_Broken_Further.md](The_Claim_Broken_Further.md): thirteen breaks, the arithmetic as it was, and six sentences asked of the working v380R and of the session. This working's rebuilding of the elimination, living as carrying the prior and no pair still, broke at its own tests and is withdrawn. Nothing is entered at the Registry. One concern at the Registry's carrying and one at Natural Intelligence's.
 
+## Fourteen. Each break inverted, and the working v380R's four askings
+
+[Each_Break_Inverted.md](Each_Break_Inverted.md): the twenty-eight breaks of both workings, each with what it supposes and its inversion. Each inverts to the working v380R's own learning, of two and the prior the other's. Two fresh readers told to make a break survive: the sentence is at no step of the Registry's first sixty-eight, and at the steps as they are twenty-seven breaks are as they were; the arithmetic of each row is as said. This working's answers to the four askings are at the file's last part: the five sentences with step 32 for whose prior; the reason for the one method as each other method the same changing said of one alone; the eight at steps 254, 350 and 351 and each field's proof at no step; the same form at each number at step 124.
+
+**One thing for both, first.** The sentence the inversions come to is to be said at an early step, with whose prior, ahead of any other entering: each other break leans on it. And three sentences beside it: a next at two releasing to one; one parity of a many at the next scale; across and along at one place by either order.
+
