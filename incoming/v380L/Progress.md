@@ -3,11 +3,11 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at 6745d4b joined into it.
+**Branch:** `working/v380L`, with `main` at 25881d5 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 3 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
-**Standing:** arriving, offered on this branch. One living file is at its motion at this branch: the Co-Chaining Logic Registry at v380d.
+**Standing:** arriving, offered on this branch. One living file is at its motion at this branch: the Co-Chaining Logic Registry at v380f.
 
 ## Progress
 
@@ -19,14 +19,16 @@
 | A self's changing chained at the Co-Chaining Logic Registry's own steps | The first parting of the managing's combining, chained at the Registry's steps and six forward, no executing its reason; one concern for both at the Registry's carrying | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md) |
 | Naming and chaining together, at Exhibit ONE | Three things open at the Registry, each said at Exhibit ONE's row, the Registry's step and Natural Naming's sentence beside each other; two are one concern at two files | [Naming_And_Chaining_At_Exhibit_ONE.md](Naming_And_Chaining_At_Exhibit_ONE.md) |
 | The Registry's group on sharing and the seventeen names, each step at the three | Seventy-two steps, each beside Exhibit ONE's row and Natural Naming's sentence: thirty-three agreeing, nine as far as Exhibit ONE carries, ten at a concern a carrying carries, one parting found, nineteen at no row of Exhibit ONE; the managing's draft of Exhibit ONE's first motion met at its part on the data | [Group_Twenty_At_The_Three.md](Group_Twenty_At_The_Three.md) |
-| The entries at the carryings | Twenty-five at nine carryings, sixteen ready and nine concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
+| The entries at the carryings | Twenty-six at nine carryings, eighteen ready and eight concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
 | Exhibit ONE's forms, each at the Registry's steps | The diagram and each of the twenty-two tables beside the Registry read whole, by three fresh readers: each table at its standing, eight steps parting from a row, eleven steps offered for forms at no step, four of them entered at v380c and each other at v380d, each checked at the numbers by this working and again by a fresh reader | [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md) |
 | For the managing | The main line's newest met: nothing arriving, the one place parting, at the Registry's steps; first and second beside none first; Exhibit ONE v380 beside the Registry; the working v380A's handing over beside the managing's gathering | [For_The_Managing.md](For_The_Managing.md) |
 | The Co-Chaining Logic Registry at v380b | Four steps said at Exhibit ONE's rows, 197, 212, 306 and 353; read twice by a fresh reader and for harm; received at `main` | The section here on v380b |
 | The Co-Chaining Logic Registry at v380c | A group of four steps entering, 600 to 603, the forms among the names; read in place by a fresh reader; received at `main` | The section here on v380c |
-| The Co-Chaining Logic Registry at v380d | Six steps said at their rows, 212, 230, 232, 233, 243 and 308, and a group of nine steps entering, 604 to 612, a self and selves joined, at the code; read in place by two fresh readers, each following the code's lines by hand, and for harm; ready for the managing's receiving | The section here on v380d |
+| The Co-Chaining Logic Registry at v380d | Six steps said at their rows, 212, 230, 232, 233, 243 and 308, and a group of nine steps entering, 604 to 612, a self and selves joined, at the code; read in place by two fresh readers, each following the code's lines by hand, and for harm; received at `main` | The section here on v380d |
+| The Co-Chaining Logic Registry at v380e | Cohering with Exhibit ONE's naming and explaining at v380f: the resolver said the resolver at twenty steps; Exhibit ONE's cell words at two; nineteen sentences said for a first reading; no step added. Three fresh readers read the file whole for the list, one read the motion in place | [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md); the section here on v380e and v380f |
+| The Co-Chaining Logic Registry at v380f | A group of five steps entering, 613 to 617, each gathered at Natural Intelligence, Natural Numbers or Natural Mathematics and worked at the numbers; the break's rest said at the arithmetic, one more than the selves releasing; read by a fresh reader as offered and again in place; ready for the managing's receiving | The section here on v380e and v380f |
 | Gathered for Natural Numbers, Natural Mathematics and Natural Intelligence | Each read whole by a fresh reader beside nine things found at the code's lines: no number of the three parts from the code's; one sentence of Natural Intelligence at two measures, the living step's form at a self offered nothing; fourteen sentences saying more than their rows; eighteen chainings the Registry is without; one ready at each file's carrying and one concern at Natural Intelligence's | [Gathering_For_Numbers_Mathematics_Intelligence.md](Gathering_For_Numbers_Mathematics_Intelligence.md) |
 | For each working at the subject | The working v380R's newest read whole. Each thing parting sorted at one measure, two numbers at one case: one incohering of concept, a rest of two, the Registry's *the code's rest lasting one* beside the code's lines at two selves releasing to one; two words each at two sets of names; three sentences saying more than their rows; the chainings not said; and naming. This working's largest incohering withdrawn, the Registry's step on a spiral offered nothing carrying each row it set apart. Exhibit ONE's tables matched to the code's lines by hand. Three fresh readers, each told to break it. Two concerns and one ready at the Registry's carrying, and one ready at Exhibit ONE's | [Incoherings_For_The_Subject.md](Incoherings_For_The_Subject.md) |
 | A rolling five, the carrying self at five parities in sequence | Worked at the numbers and read by a fresh reader. As it was: the living step the one of sixteen at each of the four joint forms. Withdrawn at the reading: the code's line as the binary upon the living step, one meeting the cohering, a meeting the right spiral step, a fabric at the number of two spirals, each this working's own placing and none shown at the code; two entries laid ready withdrawn. One concern at the Registry's carrying: the living step beside the code's line, the form at which they are one not found | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on a rolling five |
@@ -100,6 +102,34 @@ Five entries at four carryings: Natural Naming's, two concerns, the zero at 14 a
 The kit's checks at the repository's root: the set's check passes; the carrying check says nothing to say; the arrival check reads the front and executes the instruments; the reader checks find no released word among this working's words.
 
 Three fresh readers read the entries. At the third, the concern on *advancing* and the registry's row are found sound as laid; the concern on the zero at 14 is found sound, and the files' own sentence on the between inside a momentary is added to its first saying; the concern on *side* and *step* is found sound at those two words, *beat* released from it; of the sentences on working one is found sound and one re-said. The words added at the third reading's mending are read by no fresh reader.
+
+## The Co-Chaining Logic Registry at v380e and v380f, ready
+
+**v380e, the one thing: this file cohering with Exhibit ONE's naming and explaining at v380f.** No step is added or numbered again.
+
+- **The resolver said the resolver.** Each place the file said *the code*: twenty steps, each line naming them, the title of group 34. The step naming it says *is the resolver: the method executable*; a common beat at 17 and a showing are said *the resolver's executing*.
+- **Exhibit ONE's cell words.** A mismatch *is released at 10*; a living self offered its own parity *releases 0 at 10, a changing that is not*.
+- **Sentences said for a first reading, or at Exhibit ONE's header words.** Nineteen, the steps on a spiral, two spirals crossed, two selves, the numbers' ring, the torus's opening, the four momentaries of exchanging along the four-cycles, and this working's own of v380c and v380d among them.
+
+**v380f, the one thing: a group of five steps entering, steps 613 to 617.**
+
+| Step | It adds | Gathered at |
+|---|---|---|
+| 613 | The rotation 3, 6, 5, 4 at 12 and at 14: four names of the two four-cycles 3-11-6-14 and 4-13-5-12 | Natural Intelligence, *two faces of the one rotation* |
+| 614 | The further forms' moves of 4, four pairs about the centres 7, 10, 9 and 8 | Natural Intelligence, *podals too* |
+| 615 | Names two moves apart: 13 or 21 at the middle four-cycles, 9 or 25 at the four four-cycles | Natural Mathematics' folds; worked at each form |
+| 616 | The exclusive or and its inversion, the two of sixteen at which the next is changing at each single changing | Natural Numbers |
+| 617 | A next from the now and the prior at itself again at one, two, three, four or six, each of eight worked | Natural Numbers |
+
+**The break's rest, at v380f.** The step on the break says *a rest of two beats at a spiral*; the step on the 0 in sequence says a 0 at one momentary more than the selves releasing is at an offering from beside the selves, the break's rest two beats at a spiral and three at a torus. This working's concern for both is said at the arithmetic and laid ready, open to each working parting from it.
+
+**The kit's checks.** The set's check passes; the carrying check says nothing to say; the reader checks find 617 steps in 35 groups, each Entering its Adding lines joined, and no released word. The Living File Registry's row says v380c, 603 steps in 33 groups: the managing's at its receiving.
+
+**Fresh readers.** Three read the file whole beside Exhibit ONE v380f, each a part, for the list. One read v380e in place: ten steps at a fault, each mended, a common beat laid at the method and a living self read as *is not* among them. One read the five steps as offered: the rotation's test not at 12 and 14 alone, two moves said in an order right at one form of two, each mended. One read v380f in place with the mended sentences of v380e: *the prior is inverted at 12* not at a match, two sentences not parsed, each mended. Read for harm at each: none new.
+
+**Not read again:** the sentences as mended at the last reading, the step on the rotation and the last sentence of the step on the 0 in sequence among them.
+
+**Waiting:** connector, face, facing and join at thirty-eight steps, on Natural Naming's dissolving.
 
 ## The Co-Chaining Logic Registry at v380d, ready
 

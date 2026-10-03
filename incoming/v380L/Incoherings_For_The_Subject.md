@@ -111,3 +111,7 @@ The Co-Chaining Logic Registry and Exhibit ONE, each at its own motion: the one 
 ## At v380d
 
 The Co-Chaining Logic Registry is at v380d at this branch: the three sentences saying more than their rows said at their rows, the step on the break's forms at *lasting one at a spiral offered nothing from beyond it*, and nine steps entering, the chainings not said above among them. The one incohering of concept, a rest of two beats beside two at a torus, is open at the Registry's carrying. Gathered for Natural Numbers, Natural Mathematics and Natural Intelligence: [Gathering_For_Numbers_Mathematics_Intelligence.md](Gathering_For_Numbers_Mathematics_Intelligence.md).
+
+## At v380f
+
+The one incohering of concept is said at the arithmetic at the Registry's v380f: a self chained at a parity releases 0 at momentaries in sequence no more than the number of selves releasing to it, and a 0 at one momentary more is at an offering from beside the selves, the break's rest: two beats at a spiral and three at a torus. The first saying, the resolver at a torus carrying a break, leaned on a number of one self releasing alone. Laid ready at the Registry's carrying, open to each working parting from it. The Registry is cohering with Exhibit ONE's naming at v380e, and what waits on Natural Naming is at [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md).
