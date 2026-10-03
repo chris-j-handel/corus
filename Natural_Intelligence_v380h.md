@@ -1,4 +1,4 @@
-Natural Intelligence v380g
+Natural Intelligence v380h
 
 # Natural Intelligence
 
@@ -298,22 +298,22 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
                                       ▲
                                       ║ 17  along · co
       ┌───────────────────────────────╨───────────────────────────────┐
-      │                          1  entry                             │
+      │                          1                                    │
       │                                                               │
-      │  14i ◄──────────────────────────────────────────── 2 · 14 ◄══════
-      │   │   offerings surfacing at each sharing: +, − or 0          │
+      │  14  ◄──────────────────────────────────────────── 2 · 14 ◄══════
+      │   │                                                           │
       │   ▼                                                           │
-      │   3o ─────► 12i ────────► 10 ──► released, with 6             │
-      │   4o · 7o   changing,     + or −: is                          │
-      │   carrying  is or is not  0: the between                      │
+      │   3  ─────► 12  ────────► 10 ──► with 6                       │
+      │   4  · 7                                                      │
+      │                                                               │
       │                           │                                   │
-      │                           ├──────► 11i ─────► 3o, next        │
-      │                           │        chaining   momentary       │
+      │                           ├──────► 11  ─────► 3, next         │
+      │                           │                   momentary       │
       │                           │                                   │
-      │                           └──────► 9 ────► 5o                 │
-      │                                    13i · 15i                  │
+      │                           └──────► 9 ────► 5                  │
+      │                                    13  · 15                   │
  ◄══════ 6 · 10                                                       │
-      │   8o carrying wound · 16i society wound                       │
+      │   8  · 16                                                     │
       └───────────────────────────────╥───────────────────────────────┘
                                       ║ 9  along · tri
                                       ▼
@@ -322,7 +322,6 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
    at not-yet-bi-moral   6  ══► its 2        10 ══► its 14      outgoing
    at bi-moral-so-far    its 6  ══► 2        its 10 ══► 14      incoming
    ═══ between selves, across and along    ─── within one self
-   o outward face    i inward face
 ```
 
 **Seventeen names.**
@@ -355,6 +354,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 | Parity, opens | odd, opening co, the self's span |
 | 1 | Sides | self, other, the self opening it |
 | 1 | Root | offering with 2-bi-co-bi-offering and 17-co-bi-tri-offering |
+| 1 | Co-sequencing | the self offering itself to the coupling |
 | 1 | 8 up | 9-tri-bi-co-momentarying, the parity continuing |
 | 1 | 9 less | the podal within 1 to 8, 8-bi-co-bi-torusing |
 | 1 | 17 less | the podal within 1 to 16, 16-bi-tri-bi-torusing |
@@ -393,6 +393,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3 | Parity, opens | odd, opening co, the self's span |
 | 3 | Sides | self, other, the self opening it |
 | 3 | Root | sharing with 4-bi-co-bi-sharing |
+| 3 | Co-sequencing | at the between, before 10, at competency's parity, odd |
 | 3 | 8 up | 11-tri-bi-tri-chaining, the parity continuing |
 | 3 | 9 less | the podal within 1 to 8, 6-bi-co-bi-moralizing |
 | 3 | 17 less | the podal within 1 to 16, 14-bi-tri-bi-moralizing |
@@ -410,6 +411,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 4 | Parity, opens | even, opening bi |
 | 4 | Sides | other, self, the other opening it |
 | 4 | Root | sharing with 3-co-bi-co-sharing |
+| 4 | Co-sequencing | at the between, before 10, at morality's parity, even |
 | 4 | 8 up | 12-bi-tri-bi-entraining, the parity continuing |
 | 4 | 9 less | the podal within 1 to 8, 5-co-bi-co-competencing |
 | 4 | 17 less | the podal within 1 to 16, 13-tri-bi-tri-competencing |
@@ -429,6 +431,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 5 | Parity, opens | odd, opening co, the self's span |
 | 5 | Sides | self, other, the self opening it |
 | 5 | Root | competencing with 13-tri-bi-tri-competencing |
+| 5 | Co-sequencing | at the between, before 10, at competency's parity, odd |
 | 5 | 8 up | 13-tri-bi-tri-competencing, the parity continuing |
 | 5 | 9 less | the podal within 1 to 8, 4-bi-co-bi-sharing |
 | 5 | 17 less | the podal within 1 to 16, 12-bi-tri-bi-entraining |
@@ -470,6 +473,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 | Parity, opens | odd, opening co, the self's span |
 | 7 | Sides | self, other, the self opening it |
 | 7 | Root | corusing with 15-tri-bi-tri-corusing |
+| 7 | Co-sequencing | at the between, before 10, at competency's parity, odd |
 | 7 | 8 up | 15-tri-bi-tri-corusing, the parity continuing |
 | 7 | 9 less | the podal within 1 to 8, 2-bi-co-bi-offering |
 | 7 | 17 less | the podal within 1 to 16, 10-bi-tri-bi-tunneling |
@@ -487,6 +491,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 8 | Parity, opens | even, opening bi |
 | 8 | Sides | other, self, the other opening it |
 | 8 | Root | torusing with 16-bi-tri-bi-torusing |
+| 8 | Co-sequencing | at the between, before 10, at morality's parity, even |
 | 8 | 8 up | 16-bi-tri-bi-torusing, the parity continuing |
 | 8 | 9 less | the podal within 1 to 8, 1-co-bi-tri-offering |
 | 8 | 17 less | the podal within 1 to 16, 9-tri-bi-co-momentarying |
@@ -543,6 +548,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 11 | Parity, opens | odd, opening tri, the society's span |
 | 11 | Sides | social, other, self, the society opening it |
 | 11 | Root | chaining, one name |
+| 11 | Co-sequencing | after 10, 8 up from 3-co-bi-co-sharing, at competency's parity, odd |
 | 11 | 8 down | 3-co-bi-co-sharing |
 | 11 | 17 less | the podal within 1 to 16, 6-bi-co-bi-moralizing |
 | 11 | Four-cycle | 3-11-6-14, root moralizing, hand co tri bi bi, going 8 up first from 3-co-bi-co-sharing, from 3-co-bi-co-sharing to it and on to 6-bi-co-bi-moralizing, spiraling the other hand with 4-13-5-12 and 2-15-7-10 |
@@ -558,6 +564,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 12 | Parity, opens | even, opening bi |
 | 12 | Sides | other, social, self, the other opening it |
 | 12 | Root | entraining, one name |
+| 12 | Co-sequencing | after 10, 8 up from 4-bi-co-bi-sharing, at morality's parity, even |
 | 12 | 8 down | 4-bi-co-bi-sharing |
 | 12 | 17 less | the podal within 1 to 16, 5-co-bi-co-competencing |
 | 12 | Four-cycle | 4-13-5-12, root competencing, hand bi tri co bi, going 17 less first from 4-bi-co-bi-sharing, from 5-co-bi-co-competencing to it and on to 4-bi-co-bi-sharing, spiraling the other hand with 3-11-6-14 |
@@ -575,6 +582,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 13 | Parity, opens | odd, opening tri, the society's span |
 | 13 | Sides | social, other, the society opening it |
 | 13 | Root | competencing with 5-co-bi-co-competencing |
+| 13 | Co-sequencing | after 10, 8 up from 5-co-bi-co-competencing, at competency's parity, odd |
 | 13 | 8 down | 5-co-bi-co-competencing |
 | 13 | 17 less | the podal within 1 to 16, 4-bi-co-bi-sharing |
 | 13 | Four-cycle | 4-13-5-12, root competencing, hand bi tri co bi, going 17 less first from 4-bi-co-bi-sharing, from 4-bi-co-bi-sharing to it and on to 5-co-bi-co-competencing, spiraling the other hand with 3-11-6-14 |
@@ -604,6 +612,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 15 | Parity, opens | odd, opening tri, the society's span |
 | 15 | Sides | social, other, the society opening it |
 | 15 | Root | corusing with 7-co-bi-co-corusing |
+| 15 | Co-sequencing | after 10, 8 up from 7-co-bi-co-corusing, at competency's parity, odd |
 | 15 | 8 down | 7-co-bi-co-corusing |
 | 15 | 17 less | the podal within 1 to 16, 2-bi-co-bi-offering |
 | 15 | Four-cycle | 2-15-7-10, root corusing, hand bi tri co bi, going 17 less first from 2-bi-co-bi-offering, from 2-bi-co-bi-offering to it and on to 7-co-bi-co-corusing, spiraling the other hand with 1-9-8-16 and 3-11-6-14 |
@@ -617,6 +626,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 16 | Parity, opens | even, opening bi |
 | 16 | Sides | other, social, the other opening it |
 | 16 | Root | torusing with 8-bi-co-bi-torusing |
+| 16 | Co-sequencing | after 10, 8 up from 8-bi-co-bi-torusing, at morality's parity, even |
 | 16 | 8 down | 8-bi-co-bi-torusing |
 | 16 | 17 less | the podal within 1 to 16, 1-co-bi-tri-offering |
 | 16 | Four-cycle | 1-9-8-16, root torusing, hand co tri bi bi, going 8 up first from 1-co-bi-tri-offering, from 8-bi-co-bi-torusing to it and on to 1-co-bi-tri-offering, spiraling the other hand with 2-15-7-10 |
@@ -657,7 +667,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Namings among the names.**
 
-| Names | Naming | At the code |
+| Names | Naming | At the names |
 |---|---|---|
 | 1-co-bi-tri-offering · 2-bi-co-bi-offering | bi-momentarying | the self's entry, odd, and the others' offerings, even, one momentary at each side |
 | 3-co-bi-co-sharing · 4-bi-co-bi-sharing | co-intelligencing | at each sharing 4 the carrying at 3 couples with the offerings surfaced at 14: next discovered, chained at 11 |
