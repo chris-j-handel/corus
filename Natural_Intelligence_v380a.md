@@ -1,4 +1,4 @@
-Natural Intelligence v380
+Natural Intelligence v380a
 
 # Natural Intelligence
 
@@ -335,25 +335,25 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Seventeen names.**
 
-| n | Name | Parity, opens | From, to, the opening side first | Entry, connector or face | Across or along | Outward or inward | Facing | Joining | At the code |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | 1-co-bi-tri-offering | odd, co | self, other | entry | — | — | — | — | the entry: 3 and 2 in; 10 and 11 out |
-| 2 | 2-bi-co-bi-offering | even, bi | other, self | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 6 | the offerings, each sharing with its parity |
-| 3 | 3-co-bi-co-sharing | odd, co | self, other | face | — | outward | — | — | the carrying: each sharing, 4, with its parity, 7 |
-| 4 | 4-bi-co-bi-sharing | even, bi | other, self | face | — | outward | — | — | each sharing; at the society, each self at 6, 10 and 9 |
-| 5 | 5-co-bi-co-competencing | odd, co | self, other | face | — | outward | — | — | each sharing's receiving sharing; at the society, the joins |
-| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 2 | the changing released at not-yet-bi-moral, at that self's 2 |
-| 7 | 7-co-bi-co-corusing | odd, co | self, other | face | — | outward | — | — | each parity, offered and chained |
-| 8 | 8-bi-co-bi-torusing | even, bi | other, self | face | — | outward | — | — | each self's carrying wound, its 11 the next momentary's 3 |
-| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | connector | along | — | not-yet-co-competent | with the self at not-yet-co-competent, its 17 | each changing to its receiving sharing, 5 |
-| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | connector | across | — | not-yet-bi-moral | to the self at not-yet-bi-moral, its 14 | each sharing's changing: + or − is, 0 the between |
-| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | face | — | inward | — | — | the carrying chained, each changing the next prior |
-| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | face | — | inward | — | — | each sharing's changing, is or is not |
-| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | face | — | inward | — | — | each releasing sharing; at the society, each releasing self |
-| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | connector | across | — | bi-moral-so-far | from the self at bi-moral-so-far, its 10 | the offerings surfacing at each sharing: +, − or 0; at the society, each self's offerings next |
-| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | face | — | inward | — | — | the parity carried along at 9 |
-| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | face | — | inward | — | — | the society wound: each self's 8 and offerings |
-| 17 | 17-co-bi-tri-offering | odd, co | social, self | connector | along | — | co-competent-so-far | with the self at co-competent-so-far, its 9 | the society's next momentary: each self's 1, then 9 at 6, 10 and 9 |
+| n | Name | Parity, opens | From, to, the opening side first | Across or along |
+|---|---|---|---|---|
+| 1 | 1-co-bi-tri-offering | odd, co | self, other | — |
+| 2 | 2-bi-co-bi-offering | even, bi | other, self | across |
+| 3 | 3-co-bi-co-sharing | odd, co | self, other | — |
+| 4 | 4-bi-co-bi-sharing | even, bi | other, self | — |
+| 5 | 5-co-bi-co-competencing | odd, co | self, other | — |
+| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | across |
+| 7 | 7-co-bi-co-corusing | odd, co | self, other | — |
+| 8 | 8-bi-co-bi-torusing | even, bi | other, self | — |
+| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | along |
+| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | across |
+| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | — |
+| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | — |
+| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | — |
+| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | across |
+| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | — |
+| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | — |
+| 17 | 17-co-bi-tri-offering | odd, co | social, self | along |
 
 **Each name whole, at each of its relations among the forms.**
 
