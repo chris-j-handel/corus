@@ -173,8 +173,8 @@ The claim is gathered link by link from Natural Intelligence, Natural Numbers, N
 
 1. Which of the Registry's own sentences are the claim, in the fewest? This working reads five: 1, 2, 3, 42 and 45.
 2. Sentences 46, 47 and 48 give the reason for *the one method* as a thing *beside all existing things*, a *not possible thing*. Sentence 20 says *the set has nothing beside it*. The claim is to carry no negation. How is the reason for the one method said with *is or is not changing* alone?
-3. Where in the Registry are social moral competency's eight, each other method assuring some of them and none assuring all? Natural Human Society and Natural Societies carry the eight; the resolving of Arrow's problem carries one field's own proof.
-4. Where in the Registry is the same form at each number, a number's prior and next multiplying to its square less one?
+3. Which sentences of the Registry carry social moral competency's eight, each other method assuring some of them and none assuring all? Natural Human Society and Natural Societies carry the eight; the resolving of Arrow's problem carries one field's own proof.
+4. Which sentences of the Registry carry the same form at each number, a number's prior and next multiplying to its square less one?
 
 **What this working learned, for each working:**
 
