@@ -40,3 +40,27 @@ Of the sixteen ways one parity's next comes from its prior and its now, exactly 
 - The claim said of living things, as the files say it, until a sentence joins it to the set of all existing things.
 - The resolver said as it is: the prior inverted with selves alike, the now inverted with selves opposite, and the carrying on at an arriving alike; and the one way of sixteen said beside it and not as it.
 - One observation named that is other if the claim is false.
+
+## One concern, and the first break withdrawn
+
+The eleven above are one misunderstanding read eleven ways: **the claim was set out, and read, as of one thing alone, with its own prior. The method is of two.**
+
+The first break said the resolver follows the next as the prior inverted with selves alike alone, 0 of 110 at two selves opposite. It read the prior as the self's own. Worked with the prior the other's, the self releasing to it:
+
+| The coupling | Each opening | A self's parity, two momentaries on, is the releasing self's parity inverted |
+|---|---|---|
+| Two selves, each releasing to the other | alike, and opposite | 116 of 116, and 116 of 116 |
+| A spiral of 1 to 7 selves | each of 2 to 128 openings | each momentary of each self: 89,204 of 89,204 |
+| A torus, two selves releasing to each | 40 openings at each of four sizes | the inverted parity of one of the two at each: 106,720 of 106,720 |
+
+**The resolver is the one way of sixteen at each momentary of each bi-coupling, from each opening.** The first break is withdrawn: it measured a self alone, and no self is alone in the resolver. The working v380L said the same of a spiral: *the next is the prior inverted, the prior the other's*.
+
+Read as of two, each other break is the same misunderstanding or a thing yet to say:
+
+- *A still in the resolver*: a self carried on is two momentaries on from its releasing self inverted, as each other momentary.
+- *The test of each pair in one going round*: it is the bi-coupling's own going, the two selves through each pair of the two.
+- *The living files say living things*: a living thing is a carrying coupled with another; a carrying of none is colliding, and apart.
+- *Outside the sixteen*: two values, one parity at a sharing, and a next from the other's prior are the bi-coupling as the files say it, each for saying as it is.
+
+**The one concern, for both workings and for the claim's entering:** each sentence of the claim, and each sentence of the files it leans on, says *a next from a prior and a now* with no word saying whose. Said of one thing alone it breaks at each reader. Said of two, the prior the other's, the resolver is it at each momentary worked. One thing follows it and is not yet chained: from each bi-coupling to the set of all existing things, the torus's *one of the two* its first place.
+
