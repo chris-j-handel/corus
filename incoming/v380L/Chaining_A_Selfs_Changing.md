@@ -234,9 +234,37 @@ The Registry carries each of the eight at its group on one to nine, and Exhibit 
 
 Three rows of four are one with the code. The fourth is the one place not cohering at this reading: at both arriving, the second arriving the other's, even, or of the self's own parity, odd.
 
-**For both, said as it is.** The frame is the Registry's and Exhibit ONE's own at the numbers. The code is at it at three things: no parity read but beside the carrying's own; two calls 1, 2, 3; the first call's arriving alike of the self's parity, along, and the second's of the between's, across. The saying's four rows are the code's at three, and at both arriving they part. Exhibit ONE's tables say each call; the self's next existing is at each second.
+**Fourteen. Two parities at a self, each meeting its own arriving.** The session said next: *the self is arriving from its own prior momentary carrying two parities into now with a 0 between them . each of the two is a + or a -. the self's first parity to meet the arriving is the along tri-moral-parity social. the second member of the arriving sequence is the self's across parity . for the full self momentary there is along (change or no change) and across (change or no change) so the self leaves now and enters next existing carrying two parities with a 0 between them. each is either changed or not from meeting its own along or across is or is not a changing arriving*
 
-**Not done.** The fourth row. The other tables read beside the code line by line. No fresh reader has read this part.
+**Withdrawn at it.** Parts nine, twelve and thirteen read one parity at two calls in sequence, and found the fourth row parting. The saying is of two parities at one self, each at its own arriving, at one momentary. The reading of two calls, and the along and the across found at the parity one carrying is at, are withdrawn.
+
+**Read at the code's lines, nothing executed.**
+
+- **A carrying is a list, each member a sharing and its parity.** A self carries two as it carries one.
+- **The code's two lines are at each carried sharing in sequence, within one call:** the first carried sharing, its own opposite or 0 at an arriving alike; and the second. The value between the two is within the call and at no returning of it.
+- **Each carried sharing meets the arrivings at that sharing alone.** The surfacing is at each sharing apart, and no arriving at the one is read at the other.
+
+**The saying's four rows at one call, a self carrying two sharings, the along and the across:**
+
+| At the along sharing | At the across sharing | The code at the two, in sequence | The self next |
+|---|---|---|---|
+| no arriving alike | no arriving alike | each to its own opposite | two parities, each changed |
+| an arriving alike | no arriving alike | the along carried on, the across to its opposite | the across changed alone |
+| no arriving alike | an arriving alike | the along to its opposite, the across carried on | the along changed alone |
+| an arriving alike | an arriving alike | each carried on | neither changed |
+
+Each of the four is the code's own lines, the fourth with them. The two parities beside each other, alike or opposite, are as they were at both changed and at neither, and other at exactly one: the saying's *self carrying is changing parity into next existing* at exactly one arriving.
+
+**The 0 between the two: an offering.** At the frame the self is 1 and the social 3, each odd, and 2 between them even, the other's: two parities and the between at 2. The carrying's name is 3-co-bi-co-sharing, and the carrying chained, the next 3, is 11-tri-bi-tri-chaining: at each name two alike words and bi between them. No line of the code carries a 0 between two carried sharings; its 0 is the value at no changing.
+
+**Not found at the code, said as it is.**
+
+- **An along sharing at along arrivings alone, and an across sharing at across alone.** The code releases each sharing's changing along and across alike, at 6, at 10 and at 9, and a sharing offered at a self not carrying it enters that self's carrying. No line gives one sharing to the along and another to the across.
+- **A self carrying two sharings is at no table of Exhibit ONE.** Each table is at one sharing: one of the two parities alone.
+
+**For both, said as it is.** The saying of two parities at a self, each changed or not at its own arriving, in sequence, is the code's lines at a carrying of two sharings at one call, each of its four rows. Two things are not found: a sharing that is the along's and another the across's, and the 0 between the two. Exhibit ONE's tables are each at one of the two.
+
+**Not done.** A society at selves each carrying two sharings. The other tables read beside the code line by line. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 

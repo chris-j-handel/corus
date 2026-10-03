@@ -4,17 +4,17 @@
 
 **Read:** `main` at d9d9348: Exhibit ONE v380, its opening and each table's title and conditions; `incoming/v380R/Concerns_Of_The_Three_Workings.md`, its last part on the 0; `One_Self_Followed.md`; `Natural_Networking_From_v380A.md`; the carryings of Exhibit ONE and the Co-Chaining Logic Registry. And `incoming/v380A/`, its handing over, its Progress, its candidate beside Natural Networking v371 line by line and its report, read whole by a fresh reader, this working meeting eighteen of the lines named below at the files itself.
 
-## The session's newest sayings, read at the code's own lines and at the frame of the numbers
+## The session's newest sayings, read at the code's own lines
 
-The session said to this working: of a momentary, the social moral parity changing at no geodesic changing arriving along and the bi-moral parity changing at none across, the carrying changing at exactly one arriving; *the state of self in the between is not measing self changing or not changing into next existing*; *the code in exhibit one is fully cohering and the tables may or may not be adhering to the code and my intention in this is adhering to the code*; and the frame, *self is 1 is odd . all self momentaries start odd then even*, the social 3 odd and along as the self, each other momentary even from the self's side, each odd at its own side. The working whole is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on two arrivings. Shortly, read at the code's lines and nothing executed:
+The session said to this working, in sequence: the code of Exhibit ONE is cohering and its tables may or may not adhere to it; the self is at momentary to momentary and *the state of self in the between is not measing self changing or not changing into next existing*; the frame, self 1 odd, other even, social 3 odd and along; and *the self is arriving from its own prior momentary carrying two parities into now with a 0 between them*, the first meeting the along arriving and the second the across, each changed or not at its own. The working whole is at [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md), its part on two arrivings. Shortly, read at the code's lines and nothing executed:
 
-- **The code does one of two things at a carried sharing at each call:** the carrying's own opposite, or at a surfaced parity alike with the carrying, 0. **It copies no arriving,** and reads no parity but beside the carrying's own: each self at its own side.
-- **Two calls in sequence are 1, 2, 3,** the self's momentary and the other's. The self's next existing is at each second call; the value at the first is the between. The premise's following says *first changing, + to −* at each cell: that between.
-- **The along first and the across second is at the code's own test.** At the first call an arriving alike with the carrying is of the self's parity, odd, as the social; at the second, the first having changed it, of the between's parity, even, the other's.
-- **The saying's four rows:** none arriving, an arriving along alone and one across alone are the code's lines. At both arriving the saying says unchanging and the code changing at a second arriving of the even parity: the one place not cohering at this reading.
-- **Exhibit ONE's table of one self** agrees with the code at each of its twelve cells, read line by line; each row of each table says each call, and the self's are each second.
+- **The code does one of two things at a carried sharing:** the carrying's own opposite, or at a surfaced parity alike with the carrying, 0. **It copies no arriving,** and reads no parity but beside the carrying's own.
+- **A carrying is a list of sharings, and the two lines are at each in sequence within one call,** each sharing at its own arrivings alone. The saying's four rows, the along changed or not and the across changed or not, are the code's lines at a carrying of two sharings.
+- **Each table of Exhibit ONE at a self is at one sharing:** one of the two alone. The table of one self agrees with the code at each of its twelve cells, read line by line.
+- **Not found at the code:** one sharing the along's and another the across's, each sharing's changing released along and across alike; and a 0 between the two carried.
+- **The premise's following** says a first changing and a second at one sharing; the saying's two are at two parities.
 
-**Withdrawn by this working.** Its entries saying the saying and Exhibit ONE two rules, and a momentary one call or two. Laid again for both at Exhibit ONE's carrying and the Registry's, one subject. Not read by a fresh reader.
+**Withdrawn by this working.** Four readings of its own, each of one parity: at one crossing; two rules; a momentary one call or two; two calls 1, 2, 3 with a fourth row parting. Laid again for both at Exhibit ONE's carrying and the Registry's, one subject. Not read by a fresh reader.
 
 ## One. The premise's following, beside the arithmetic of two parities
 
