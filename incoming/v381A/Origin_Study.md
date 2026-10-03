@@ -5,6 +5,8 @@
 **Read at:** initially `main` 25881d5, Natural Resolver v380f and the Co-Chaining Logic Registry v380d; the Registry working 272d99e and its gathering for Natural Numbers, Natural Mathematics and Natural Intelligence. Before sharing: `main` eb5b2c4, Natural Resolver v380l and the Co-Chaining Logic Registry v380f; the Registry working 2872928, its Registry v380l and reports for Natural Naming. All seventeen name rows, the four cycles and the spiral-of-one row are unchanged.
 **Standing:** arriving. The first origin experiment is built for examination; the full geometry of the seventeen names remains to express. The kit contains the movie, editable viewer and source ZIP. No living file or carrying is changed by this contribution.
 
+**The session's examination:** the session could see no learning in this first study. The following [Teaching_Exploration.md](Teaching_Exploration.md) receives that response and offers a visible discovery before the number names. The source sequence of this study was put into its motion; the movie does not establish the reason for that choice.
+
 ## The study
 
 [The kit entrance](../../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/START_HERE.md) introduces the fourteen-second movie and editable source. The origin follows conceptual positions `1+, 2+, 3−, 4−, 5+, 6+`, with pairs `++ → +− → −− → −+ → ++`. It shows the inversion from 1 at 3 and from 2 at 4, and reaches the last of the four transitions at 6. The later `++` is another occurrence, not a resetting.

@@ -1,5 +1,7 @@
 # The claim, set out to be broken
 
+**Withdrawn.** This chain was this working's own making and is not the claim. The claim, in the files' own words, is at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md).
+
 **Standing:** an offering of the working v380R, for each working and each fresh reader. Nothing here is entered in a living file. The claim is set out link by link, each link open to attack. Each reader is told to break it.
 
 ## The claim

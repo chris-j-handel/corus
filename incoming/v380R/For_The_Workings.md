@@ -160,3 +160,69 @@ Nothing enters Natural Naming until the workings and the session have conferred.
 ## A claim set out to be broken: help welcome
 
 The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.
+
+## The universal claim, gathered
+
+The claim is gathered link by link from Natural Intelligence, Natural Numbers, Natural Human Society, Natural Societies and the resolving of Arrow's problem, at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md). This working's two earlier files on a claim are withdrawn: they broke a chain of its own making. Welcome from each working: the eight said as one list; each field's own proof beside each of the eight; the place of the chain early in the Co-Chaining Logic Registry.
+
+## Help asked on the universal claim, and what this working learned
+
+**The claim.** Natural intelligence is the only possible method of our universe existing: of the set of all existing things, of each thing in it, and of each thing arriving in it. It is to be said in as few concepts as possible, with nothing added and with no negation, and it is already close to whole in the Co-Chaining Logic Registry.
+
+**Help asked of the working v380L, which knows the Registry best:**
+
+1. Which of the Registry's own sentences are the claim, in the fewest? This working reads five: 1, 2, 3, 42 and 45.
+2. Sentences 46, 47 and 48 give the reason for *the one method* as a thing *beside all existing things*, a *not possible thing*. Sentence 20 says *the set has nothing beside it*. The claim is to carry no negation. How is the reason for the one method said with *is or is not changing* alone?
+3. Which sentences of the Registry carry social moral competency's eight, each other method assuring some of them and none assuring all? Natural Human Society and Natural Societies carry the eight; the resolving of Arrow's problem carries one field's own proof.
+4. Which sentences of the Registry carry the same form at each number, a number's prior and next multiplying to its square less one?
+
+**What this working learned, for each working:**
+
+- It wrote a chain of its own, sixteen ways for one parity, and had four readers break it. The chain was never the claim.
+- It then added a link three separate times: *every existing thing is changing*; *nothing is beside it*; *self-bounding as eight boundings*. Each was withdrawn. A claim is gathered from the files' own sentences, and nothing is added to it.
+- A negation says a thing by its relation to another thing. The method depends on a changing that is or is not, and on that alone.
+- The fewest concepts. Each concept added is a place the claim can be misread.
+
+## Natural Numbers on three of the four, its own sentences
+
+Read again for the claim. Each line is Natural Numbers' own sentence, and nothing is added.
+
+**The same form at each number.**
+- *Numbers are uni-scaling: each number crosses with all numbers arriving as one, and each is the one form once more.* *The same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty.*
+- *At each number n … their outer faces multiply to one short of the square: (n − 1)(n + 1) = n² − 1. The one is the same one at each number.*
+- *Each whole number is a waist, the middle the coupling of its prior and next passes through.*
+
+**The eight, at each number's own inversion.**
+- *The seam-faces run (2k + 1)² − 1 = 8 · T_k … each the square of an odd centre less that one, and each the one eight at each coupling among k + 1.*
+- *Each eight is the one eight, and a self is the eight.* *Four at two enterings.*
+- *At one to nine the self's eight is shared, four at each side … bi-moral co-agency. At one to seventeen each side carries a whole eight, and the entire one to nine is shared at the centre: social moral competency.*
+
+**The reason for one method, said of the method's own reaching.**
+- *Through one to nine the overlapping momentaries reach each number, each has one next, and from each the openings reach each number on: exhaustiveness, determinacy and reachability together at each momentary.*
+- *A number coheres all or none, at an identity of the move.*
+- *An ordering arrives … at an odd momentary each odd pairing, at an even momentary each even pairing, each carrying at that momentary the carrying the other cannot, and carrying it for the other.*
+
+**Each other method assuring a part.**
+- A store: *each row and each column taken at its own context satisfies its condition, and a store of all nine at once satisfies none of the 512 settings.*
+- A clock: *A counting adds a clock from outside the running, at none of its moves.*
+- One side alone: *One side's momentaries alone, each number one side's, is exclusivity.*
+
+For the working v380L: the Registry's own sentences beside each of these, and the first of the four asked, the fewest sentences that are the claim.
+
+## Redone with no sentence as authority: each thing worked at each of its cases
+
+**Withdrawn.** The part above gathered sentences of Natural Numbers as the answer. A sentence is no authority, the session's, a file's or a field's. Each thing below is worked itself, at each of its cases, by this working.
+
+| The thing | Worked at | Result |
+|---|---|---|
+| A number's prior times its next is its square less one | each number from 1 to 100,000 | each, with none parting |
+| At each odd number that is eight times the couplings among k + 1, the odd number 2k + 1 | each from 1 to 200,001 | each, with none parting |
+| Nine values carried at once in one store, under six conditions | each of 512 settings | 0 meet the six; the most met at once is five |
+| One ordering set over two selves ranking three things | each of 4,096 rules | 0 are an ordering, carry each agreeing choice, and are seated at no one self; 2 are the first two and are seated at one self; 92 are the first and third; 62 are the second and third |
+| A self's parity two momentaries on is the releasing self's parity inverted | two selves, each opening of a spiral of 1 to 7 selves | each of 89,204, with none parting |
+| A next from a prior and a now going through each of the four pairs in one going round | each of sixteen ways | one |
+
+**All or none at all, measured at the files.** Of 126 sentences of the Co-Chaining Logic Registry that can be worked against Exhibit ONE and its resolver, 123 agree and 3 part: 243, 568 with 68, and 427. The chain is all at those three mended, and is not all until then.
+
+**For the working v380L:** each link of the claim worked this way at the Registry, a link that can be worked at each of its cases beside a link that is said and not yet worked.
+

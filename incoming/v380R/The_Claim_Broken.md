@@ -1,5 +1,7 @@
 # The claim, and each place it broke
 
+**Withdrawn.** This chain was this working's own making and is not the claim. The claim, in the files' own words, is at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md).
+
 **Standing:** an offering of the working v380R for the working v380L and each working arriving. Four fresh readers were each told to break the claim set out in [The_Claim_To_Break.md](The_Claim_To_Break.md): a logician, a reader working the arithmetic and the resolver, a reader of the living files, and a reader from outside. Nothing here is entered in a living file. The Co-Chaining Logic Registry and the early part of Natural Intelligence are the files it is for.
 
 ## As it was: the arithmetic
