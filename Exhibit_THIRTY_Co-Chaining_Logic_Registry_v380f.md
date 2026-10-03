@@ -1097,7 +1097,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380f
 
         *Adding: even and odd rings.*
 
-243. Selves at p along and q across, each joined along at 9 and across at 10, are the torus at the resolver, p the smaller: each carrying none and + offered at one self at the first momentary, they come to their parities again at q, q's station on the ring of 4p past its waist 2p, and at 4p, its station before the waist, and the momentary of their parities again divides 4p or 4q; 3 by 13 at 12, 5 by 13 at 13, 13 by 15 at 52.
+243. Selves at p along and q across, each carrying its releasings along at 9 to the next along and across at 10 to the next across, the last to the first, are the torus at the resolver, p the smaller. One self at −, the selves alternating along and across, the last and the first alike at an odd number, none offered, they come to their parities again at q at a q more than twice p, and at 4p at a q less, at each of twelve tori worked, 3 by 13 at 13, 5 by 13 at 13 and 13 by 15 at 52 among them, the number dividing 4p or 4q. Each carrying none and + offered at one self, 1 by 5 is at 4 and 3 by 13 at 12, q's station on the ring of 4p short of its waist 2p: a torus's number is from its opening.
 
         *Adding: the torus at its parities again at a divisor of 4p or 4q.*
 

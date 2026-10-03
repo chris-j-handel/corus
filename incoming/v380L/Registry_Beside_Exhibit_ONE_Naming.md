@@ -41,7 +41,7 @@ Each reader's re-saying of a step, the word dissolved, is offered as a reading a
 - **Rest.** A flow's still point at the torus, steps 112 and 429; the 0 released at momentaries in sequence, steps 308 and 611.
 - **The ten named still at the names.** Steps 511, 512 and 522 seat the names 1 to 8 at an even side and an odd side; Exhibit ONE's table of fives says *self, at 1 · 1 2 3 4 5 · co bi co bi co* and *other, at 2 · 2 3 4 5 6 · bi co bi co bi*. Not followed.
 
-## Sentences of the Registry not said at Exhibit ONE's rows, each left as it is
+## Sentences of the Registry not said at Exhibit ONE's rows, each as it is
 
 - Step 68, *Two opposed changings at one momentary cancel, offering nothing forward*: at a sharing chained at a parity a + and a − offered are a changing, the prior inverted; nothing is released at a carrying of none alone, Exhibit ONE's *Colliding*. A concern at the Registry's carrying carries it.
 - Step 568, of a file's sharing: *two offerings disagreeing surface 0 … the file's prior continuing*. At the resolver the prior is inverted at a 0 surfacing.

@@ -3,7 +3,7 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at 25881d5 joined into it.
+**Branch:** `working/v380L`, with `main` at bf74f05 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 3 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
@@ -19,7 +19,7 @@
 | A self's changing chained at the Co-Chaining Logic Registry's own steps | The first parting of the managing's combining, chained at the Registry's steps and six forward, no executing its reason; one concern for both at the Registry's carrying | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md) |
 | Naming and chaining together, at Exhibit ONE | Three things open at the Registry, each said at Exhibit ONE's row, the Registry's step and Natural Naming's sentence beside each other; two are one concern at two files | [Naming_And_Chaining_At_Exhibit_ONE.md](Naming_And_Chaining_At_Exhibit_ONE.md) |
 | The Registry's group on sharing and the seventeen names, each step at the three | Seventy-two steps, each beside Exhibit ONE's row and Natural Naming's sentence: thirty-three agreeing, nine as far as Exhibit ONE carries, ten at a concern a carrying carries, one parting found, nineteen at no row of Exhibit ONE; the managing's draft of Exhibit ONE's first motion met at its part on the data | [Group_Twenty_At_The_Three.md](Group_Twenty_At_The_Three.md) |
-| The entries at the carryings | Twenty-six at nine carryings, eighteen ready and eight concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
+| The entries at the carryings | Twenty-seven at nine carryings, nineteen ready and eight concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
 | Exhibit ONE's forms, each at the Registry's steps | The diagram and each of the twenty-two tables beside the Registry read whole, by three fresh readers: each table at its standing, eight steps parting from a row, eleven steps offered for forms at no step, four of them entered at v380c and each other at v380d, each checked at the numbers by this working and again by a fresh reader | [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md) |
@@ -129,7 +129,9 @@ Three fresh readers read the entries. At the third, the concern on *advancing* a
 
 **Not read again:** the sentences as mended at the last reading, the step on the rotation and the last sentence of the step on the 0 in sequence among them.
 
-**Waiting:** connector, face, facing and join at thirty-eight steps, on Natural Naming's dissolving.
+**Exhibit ONE at v380l met.** The step on the torus is said at Exhibit ONE's opening at v380k, each self at a parity: at q at a q more than twice p and at 4p at a q less, at each of twelve tori worked; from a carrying of none, 1 by 5 at 4 and 3 by 13 at 12. Not read by a fresh reader.
+
+**Waiting:** connector, face, facing and join at thirty-eight steps, and each phrase of a place said directly, on the conferring at Natural Naming; this working's offering for it is at [For_Natural_Naming.md](For_Natural_Naming.md).
 
 ## The Co-Chaining Logic Registry at v380d, ready
 
