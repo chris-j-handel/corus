@@ -32,3 +32,7 @@ Fifteen concepts are in the record and in no living file: velocity, torque, pres
 **Not carried:** the framework of one entry, six connectors and ten faces; cancelling at 0; rejecting; more right and less right; each hard problem's paragraph; each of the fifteen concepts.
 
 **The larger value is a measure.** The record is a session saying the method whole from outside this version's improving. The distance between it and the files now, a dissolved framework at its centre and two sayings the resolver parts from, is the distance a reader of an older saying is from the files. It says which sayings to make plain first.
+
+## Mended at the session's reading
+
+The session finds the record insightful relationally: a particle at zero, a scale and an infinity bounded each show clearly, and their replacing by *my prior is your next existing* is clear. Its explaining and naming are apart from that. This working estimated its carrying value small and read it at its words; the estimate is of the words, and the relations it shows are for the conferring. Six prompts are offered to the session v380G at [Prompts_For_v380G.md](Prompts_For_v380G.md).

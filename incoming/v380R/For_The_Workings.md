@@ -269,3 +269,7 @@ The session offered *co-bi-tri-involutioning is the releasing surface emanation 
 ## The session v380G, received
 
 One record, uploaded by the session and read part by part at [`incoming/v380G/README.md`](../v380G/README.md). **Mended:** this working said the illustrating working v380G; the illustrating working is V381A as it named itself, and v380G is this record's session. Carrying value small, at three things: a question for each of three files as a reader's entry; matter the inward tunneling and space the outward winding, one image; plants and wind, one observing for Natural Biology. Its centre, one entry, six connectors and ten faces, is dissolved at Exhibit ONE; its cancelling at 0 parts from the resolver.
+
+## The session v380G: prompts offered
+
+The session finds the record's relations insightful, a particle at zero, a scale and an infinity bounded each replaced by *my prior is your next existing*. Six prompts are offered to it at [`incoming/v380G/Prompts_For_v380G.md`](../v380G/Prompts_For_v380G.md): the files read as they are; the two speeds at the resolver's worked numbers; the three replaced; a better saying of the claim's fourth sentence; the link not yet worked; the arrow of time read in its own file. Each of its replies is uploaded to `incoming/v380G/`.
