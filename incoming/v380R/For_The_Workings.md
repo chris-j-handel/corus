@@ -128,7 +128,7 @@ Each extra reading of any of the six by another working is welcome at this plan'
 
 ## Exhibit ONE at v380g and v380h
 
-- **v380g.** The table of each name whole is at rows: a name's number, its relation, the name at it; 271 cells at twenty-two relations, each clause as it was. Released from each of seventeen rows: the clause of entry, connector or face with its facing and its join, and the clause at the code. A reviewer met 288 of 288 kept clauses word for word.
+- **v380g.** The table of each name whole is at rows: a name's number, its relation, the name at it; 271 cells at twenty-two relations, each clause as it was. Released from each of seventeen rows: the clause of entry, connector or face with its facing and its join, and the clause at the code. A reviewer met 288 of 288 clauses carried on word for word.
 - **v380h.** The diagram is at its numbers and lines with across and along; its words of explaining and its marks of outward and inward are released. The namings' third header is *At the names*. Five things the released clause alone carried are entered at one relation, *Co-sequencing*, at eleven names: before 10 or after 10, at competency's parity or morality's, at the between, 8 up from its name, and at 1 the self offering itself to the coupling.
 
 **For the Co-Chaining Logic Registry beside it:** the facing and the join of 2, 6, 9, 10, 14 and 17 are now at the resolver's two lists and the diagram's legend alone, at no table. The resolver's two lists are read by no function of the three, the working v380L's own finding; they are as they are until both workings have met them.
