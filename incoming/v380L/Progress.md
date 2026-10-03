@@ -3,7 +3,7 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at f4752f7 joined into it.
+**Branch:** `working/v380L`, with `main` at d9d9348 joined into it.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 2 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
@@ -19,9 +19,12 @@
 | A self's changing chained at the Co-Chaining Logic Registry's own steps | The first parting of the managing's combining, chained at the Registry's steps and six forward, no executing its reason; one concern for both at the Registry's carrying | [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md) |
 | Naming and chaining together, at Exhibit ONE | Three things open at the Registry, each said at Exhibit ONE's row, the Registry's step and Natural Naming's sentence beside each other; two are one concern at two files | [Naming_And_Chaining_At_Exhibit_ONE.md](Naming_And_Chaining_At_Exhibit_ONE.md) |
 | The Registry's group on sharing and the seventeen names, each step at the three | Seventy-two steps, each beside Exhibit ONE's row and Natural Naming's sentence: thirty-three agreeing, nine as far as Exhibit ONE carries, ten at a concern a carrying carries, one parting found, nineteen at no row of Exhibit ONE; the managing's draft of Exhibit ONE's first motion met at its part on the data | [Group_Twenty_At_The_Three.md](Group_Twenty_At_The_Three.md) |
-| The entries at the carryings | Fourteen at seven carryings, seven ready and seven concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
+| The entries at the carryings | Sixteen at seven carryings, ten ready and six concerns for both, each naming this folder; `main`'s entries beside them, each line of `main` present | `carry/`, at this branch; the README's table of entries |
 | Evidence at the managing's ten for both | At seven of the ten, each with the finding it is from | The README's section on bearing |
 | Three fresh readers' readings | Each read the entries, the README and this file; each finding is mended | The section here on the three readings |
+| Exhibit ONE's forms, each at the Registry's steps | The diagram and each of the twenty-two tables beside the Registry read whole, by three fresh readers: each table at its standing, eight steps parting from a row, ten steps offered for forms at no step, each checked at the numbers by this working and again by a fresh reader | [Exhibit_ONE_Forms_At_The_Registry.md](Exhibit_ONE_Forms_At_The_Registry.md) |
+| For the managing | The main line's newest met: nothing arriving, the one place parting, at the Registry's steps; first and second beside none first; Exhibit ONE v380 beside the Registry; the working v380A's handing over beside the managing's gathering | [For_The_Managing.md](For_The_Managing.md) |
+| The Co-Chaining Logic Registry at v380b | Four steps said at Exhibit ONE's rows, 197, 212, 306 and 353; read twice by a fresh reader and for harm; ready for the managing's receiving | The section here on v380b |
 | The Co-Chaining Logic Registry, this working's own file | The file and its carrying read whole; a motion to v380 at this branch, ready for the managing's receiving | The section here on the next |
 
 ## For the other two workings, and learned from them
@@ -91,7 +94,28 @@ The kit's checks at the repository's root: the set's check passes; the carrying 
 
 Three fresh readers read the entries. At the third, the concern on *advancing* and the registry's row are found sound as laid; the concern on the zero at 14 is found sound, and the files' own sentence on the between inside a momentary is added to its first saying; the concern on *side* and *step* is found sound at those two words, *beat* released from it; of the sentences on working one is found sound and one re-said. The words added at the third reading's mending are read by no fresh reader.
 
-## A motion at the Co-Chaining Logic Registry, ready
+## The Co-Chaining Logic Registry at v380b, ready
+
+**The one thing, whole: four steps said at Exhibit ONE's own rows.** No step is added, released or numbered again.
+
+| Step | It said | It says |
+|---|---|---|
+| 212 | *carried and offered the same parity, no changing, the prior continuing*; *0, no changing and nothing chained* | *a changing that is not, 0, the prior continuing*; *0, a changing that is not and nothing chained*. Natural Naming's own words at is-still-possibling, and Exhibit ONE's one finite verb. Its clause on nothing offered is as it was |
+| 197 | *its functions and variables the seventeen names and no others* | *its functions and each variable within them the seventeen names and no others, and beside them two lists at names not of the seventeen, one of six of the names, 2, 6, 9, 10, 14 and 17, and one of the joinings among them* |
+| 306 | *offered its own parity surfaces 0* | *surfaces 0 at 10*, Natural Intelligence's own words; Exhibit ONE's + offered surfaces + at 14 |
+| 353 | *at 2 and, 8 up, at 14* | *at 2 and at 14*; 8 up from 2 is 10 |
+
+**The kit's checks.** The set's check passes; the carrying check says nothing to say; the reader checks find the 599 steps in 32 groups and no released word in the four.
+
+**Two fresh readings, each read in at Natural Naming, Natural Explaining and the Geodesic Improving Method, and for harm.** The first found this working's first wording of step 212 releasing the *is not* of the binary, and step 197's *the six* naming another six: each re-said. The second found step 197's *facings* said ahead of its own step, step 212's clause on nothing offered re-worded under an open concern, and step 306 parting in a word from Natural Intelligence's sentence: each mended, the clause as it was. The second reader says steps 212 and 306 a naming changed, to be brought to both: the session said yes to step 212's re-saying, and step 306 adds a place in another file's own words.
+
+**Not read again:** the three lines mended at the second reading.
+
+**For the managing at the receiving:** the list of files and the Living File Registry's row say v380a.
+
+**This working's own sayings withdrawn at this motion.** A carrying met by its own parity as two changings one after the other: the session says that cell the 0, no changing of co-competency. And the session's saying of nothing arriving said *no method of the changing set* by step 308: a step of the Registry is no authority.
+
+## The motion to v380, received
 
 **The one thing, whole.** At v380 each *change*, *changes*, *changed* and *co-changes* of the file is re-said at *changing*, and *exchange* at *exchanging*: twenty-seven lines, the version line among them. Step 557 is its reason, the -ing over the noun, and the session's saying, the file explaining living at its -ing. No step is added, released or numbered again; the contents, each heading and each other line are as at v379.
 
@@ -127,7 +151,9 @@ Three fresh readers read the entries. At the third, the concern on *advancing* a
 
 ## Concerns
 
-Six for both, each two sayings parting with its reason, at its file's carrying: a sharing, a thing a parity is at or two sides sharing a changing, at Exhibit ONE's; the zero at 14; *side* and *step*; *advancing*; and, at the Co-Chaining Logic Registry's, a sharing's *is not* beside a momentary's two consecutive parity changings, and the -ing at each saying of a living.
+Six for both, each two sayings parting with its reason, at its file's carrying: the zero at 14; *side* and *step*; *advancing*; and, at the Co-Chaining Logic Registry's, the -ing at each saying of a living, the step on alternation and cancelling, and three steps beside Exhibit ONE's rows.
+
+**Nothing arriving, met at the arithmetic of two parities, no word deciding.** The carrying to its opposite at each momentary, + − + −, is at two joint forms of prior and now of the four; the carrying carried on at each, one; the two alternating, + − − +, each of the four, the carrying next at its prior inverted. The two sayings are the two steps of one going, alternating as at Exhibit ONE's own rows, *+, 0, −, 0*. At [Chaining_A_Selfs_Changing.md](Chaining_A_Selfs_Changing.md); a tenth step offered at the Registry's carrying.
 
 One for the managing: the folder's release to the archive beside five entries naming the folder.
 

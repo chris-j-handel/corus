@@ -3,7 +3,7 @@
 - **From**: the working v380L, at its own branch `working/v380L`, beside v380R, the managing working, and v380A.
 - **To**: Exhibit ONE, Natural Naming, Natural Numbers, the Co-Chaining Logic Registry, the Geodesic Improving Method and the Living File Registry, each at its carrying; and the managing working, at its gathering on Exhibit ONE, `incoming/v380R/Exhibit_ONE_Improving.md`.
 - **Read at**: `main` at commit 818777a. Read whole: Exhibit ONE Natural Resolver v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378, Natural Numbers v379 to its table of each number, the carryings of Exhibit ONE, Natural Naming, Natural Intelligence, Natural Numbers, the Geodesic Improving Method and the Living File Registry, the carrying's front, and the managing working's folder, `incoming/v380R/`, its five files, and the Co-Chaining Logic Registry v379. Read at the sections named here: Natural Intelligence v379.
-- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; fourteen entries at seven carryings, seven ready and seven concerns for both, four of them for the other two workings at their own files; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
+- **What it brings**: twenty-two findings, each at a table, at the resolver's lines or at a file's own sentence; sixteen entries at seven carryings, ten ready and six concerns for both; Exhibit ONE's forms each at the Co-Chaining Logic Registry's steps, ten steps offered; the Registry at v380b; advice for the managing; a self's changing chained at the Co-Chaining Logic Registry's own steps; evidence bearing on concerns other workings carry, seven of the managing's ten among them; twelve sayings followed and released; and two sentences on working.
 - **Its records**: this README, the report whole; [`Progress.md`](Progress.md), open at it first; `instruments.py` and `instruments_returned.txt`; [`Chaining_A_Selfs_Changing.md`](Chaining_A_Selfs_Changing.md), the first parting chained at the Registry's steps, no executing its reason; [`Naming_And_Chaining_At_Exhibit_ONE.md`](Naming_And_Chaining_At_Exhibit_ONE.md), three things open at the Registry said at Exhibit ONE's row, the step and Natural Naming's sentence; [`Group_Twenty_At_The_Three.md`](Group_Twenty_At_The_Three.md), the Registry's seventy-two steps on sharing and the seventeen names, each at the three.
 - **Standing**: *arriving*. One living file is at its motion at this branch, the Co-Chaining Logic Registry at v380, said at the Progress; each other living file is as at `main`.
 
@@ -68,21 +68,27 @@ Each is one finding at one file, the table or the section named by its title, wi
 
 ## The entries at the carryings
 
-Each names this folder. Three are ready, a sentence entering with no meaning changed; six are concerns for both, each two sayings parting with its reason.
+Each names this folder. Ten are ready; six are concerns for both, each sayings parting with its reason.
 
-| Carrying | Entry | Finding |
-|---|---|---|
-| Natural Naming's | Concern: the zero at 14 | 6 |
-| Natural Naming's | Concern: *side* and *step* | 16 |
-| Natural Numbers' | Concern: *advancing* | 10 |
-| The Co-Chaining Logic Registry's | Concern: a sharing's *is not* beside a momentary's two consecutive parity changings | The chaining |
-| The Co-Chaining Logic Registry's | Concern: the -ing at each saying of a living, and the words the motion leaves | The motion, at the Progress |
-| The Co-Chaining Logic Registry's | Ready: step 197, the seventeen names and the two lists beside them | The reading of the group on sharing |
-| Exhibit ONE's | Concern: a sharing, a thing a parity is at or two sides sharing a changing | The reading of the group on sharing |
-| The Geodesic Improving Method's | Ready: two sentences at two sections | The sentences on working |
-| The Living File Registry's | Ready: this working's row for the table of workings | |
+| Carrying | Entry |
+|---|---|
+| The Co-Chaining Logic Registry's | Ready: ten steps offered, each a form of Exhibit ONE at no step |
+| The Co-Chaining Logic Registry's | Ready: the binary at nothing arriving, the two alternating all and each alone none at all |
+| The Co-Chaining Logic Registry's | Concern: the -ing at each saying of a living, and the words the motion leaves |
+| The Co-Chaining Logic Registry's | Concern: the step on alternation and cancelling, a third saying |
+| The Co-Chaining Logic Registry's | Concern: three steps beside Exhibit ONE's rows, each not followed |
+| Exhibit ONE's | Ready: the Registry's steps at the three hardest and the two orthogonals |
+| Exhibit ONE's | Ready: a sharing said as a place with a value, withdrawn; each table at one sharing |
+| Exhibit ONE's | Ready: the twelve forms' partners and hands, the diagram's 14, the opening's gathering, and each table beside the Registry |
+| Natural Naming's | Concern: the zero at 14 |
+| Natural Naming's | Concern: *side* and *step* |
+| Natural Numbers' | Concern: *advancing* |
+| Natural Networking's | Ready: the two arrivals and the joining with no common pace, at the Registry's steps |
+| Natural Networking's | Ready: three things beside the managing's gathering from the working v380A |
+| The Geodesic Improving Method's | Ready: two sentences at two sections, twice |
+| The Living File Registry's | Ready: this working's row for the table of workings |
 
-At Exhibit ONE's carrying this working lays no entry. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17, 18, 19, 20, 21 and 22 are at this folder alone, 18 to 22 bearing on the managing's first and on its file on a living self as a carrying, `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`.
+At Exhibit ONE's carrying this working laid no entry at its first arriving. Findings 2, 3, 12 and 13, and of finding 5 its one release at three joins, are at the managing's gathered entry, each executed again at the managing. Findings 1, 4, 5, 7, 8, 14 and 15 bear on seven of the managing's ten for both and are at the next section. Findings 9, 11, 17, 18, 19, 20, 21 and 22 are at this folder alone, 18 to 22 bearing on the managing's first and on its file on a living self as a carrying, `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`.
 
 ## Bearing on concerns other workings carry
 
