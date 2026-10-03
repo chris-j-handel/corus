@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v380c
+Exhibit THIRTY Co-Chaining Logic Registry v380d
 
 # Co-Chaining Logic Registry
 
@@ -37,6 +37,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 - 31 The ten named still, and parity discovered
 - 32 An offering at words, a naming, a file and the living expedition
 - 33 The forms among the names
+- 34 A self and selves joined, at the code
 
 ---
 
@@ -968,7 +969,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 
         *Adding: bi-momentarying, 1-2-co-bi-offering.*
 
-212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, a changing that is not, 0, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing, the prior inverted; carried none and offered one parity, a changing, the sharing entering the carrying; carried none and the offerings disagreeing, 0, a changing that is not and nothing chained.
+212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, a changing that is not, 0, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing, the prior inverted; carried none and offered one parity, a changing, the sharing entering the carrying; carried none and the offerings disagreeing, 0, a changing that is not and nothing chained; carried none and offered nothing, no carrying and nothing released.
 
         *Adding: the binary at each sharing.*
 
@@ -1051,11 +1052,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 
         *Adding: the bounded zero tunneling.*
 
-232. At an even spiral each self alternates, its parities again at each second momentary, the spiral of two the alternating itself, and spirals joined carry the parity of their joined number.
+232. At an even spiral, from an opening of one self at a parity and the others carrying none, each self alternates, its parities again at each second momentary, the spiral of two the alternating itself, and spirals joined carry the parity of their joined number.
 
         *Adding: the even spiral, spirals joined.*
 
-233. A spiral offered nothing from beyond it carries any pattern of parities along whole, the pattern inverted at each odd momentary and carried one self on at each even, the selves carrying it between them.
+233. A spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, carries any pattern of parities along whole, the pattern inverted at each odd momentary and carried one self on at each even, the selves carrying it between them.
 
         *Adding: a spiral carrying a pattern whole.*
 
@@ -1379,7 +1380,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 
         *Adding: the still from an offerer beside.*
 
-308. The method's one break, step 151, is named in advance at its own forms: a self at one parity with nothing offered, one side at both openings of the alternating; a rest of two beats, the code's rest lasting one; a self whose competency is another's, an emanation. At the code a self offered nothing inverts and a self offered its own parity carries it on, each momentary the alternating, and the observings arrived cohere, step 152.
+308. The method's one break, step 151, is named in advance at its own forms: a self at one parity with nothing offered, one side at both openings of the alternating; a rest of two beats, the code's rest, the 0 released, lasting one at a spiral offered nothing from beyond it; a self whose competency is another's, an emanation. At the code a self offered nothing inverts and a self offered its own parity carries it on, each momentary the alternating, and the observings arrived cohere, step 152.
 
         *Adding: the breaks named in advance.*
 
@@ -2619,3 +2620,43 @@ Exhibit THIRTY Co-Chaining Logic Registry v380c
 603. The self's next five opens at 3, step 90, from 3 to 7, co bi co bi co, steps 82 and 508: each five opens one number on, the self's at 1, the other's at 2 and the self's next at 3.
 
         *Adding: the self's next five.*
+
+## 34 A self and selves joined, at the code
+
+        *Entering: a 0 offered beside a parity; a self offered the other parity at each momentary; each sharing at its own offerings alone; two selves joined one way; three selves in a line; the prior inverted at a spiral, the prior the other's; a 0 at each second momentary and a changing at each, one going at two patterns; the 0 at momentaries in sequence, no more than the selves releasing; a spiral's parities again from its pattern.*
+
+604. A 0 and a parity offered at one sharing surface the parity at 14: a 0 offered surfaces none, at any number of offerings, steps 204, 205 and 223.
+
+        *Adding: a 0 offered beside a parity.*
+
+605. Offered at each momentary the other parity from its carrying, a self is at the offered parity at each, alternating as a self offered nothing, steps 208 and 212.
+
+        *Adding: a self offered the other parity at each momentary.*
+
+606. At one self each sharing couples with its own offerings alone, step 212: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both, and no parity passes from one sharing of a self to another.
+
+        *Adding: each sharing at its own offerings alone.*
+
+607. Two selves joined one way, each at a parity, the releasing self offered nothing, steps 222 and 228: the releasing self alternates, step 208, and from its second momentary the receiving self is at the parity the releasing self was at one momentary prior. From two alike priors the receiving self's second momentary is a changing that is not, step 212; from two opposite priors each of its momentaries is a changing, its own alternating.
+
+        *Adding: two selves joined one way.*
+
+608. Three selves in a line, the second and the third chained alike, the second releasing to the third, step 239: at the second an offering of its own parity is a changing that is not, step 212, its 0 released surfacing none at the third, step 223, the third inverting at each of its two momentaries; at the second an offering of the other parity is a changing, released, arriving at the third at its second momentary alike with the third's parity, a changing that is not.
+
+        *Adding: three selves in a line.*
+
+609. At a spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, step 233, each self is at the inverted parity the self it receives from was at two momentaries prior: next from a prior inverted, as step 57, the prior the other's. At a spiral of one the prior is the self's own, and its chained parities at two momentaries in sequence are all four joint forms in one cycle, one at each momentary, steps 52 and 57.
+
+        *Adding: the prior inverted at a spiral, the prior the other's.*
+
+610. At a spiral of selves all alike the carrying one self on, step 233, is a changing that is not, a 0 released, and at an even spiral of selves alternating a changing that is: a 0 at each second momentary and a changing at each momentary are the one going at two patterns.
+
+        *Adding: a 0 at each second momentary and a changing at each, one going at two patterns.*
+
+611. A self chained at a parity, each offering at it a self's releasing, releases 0 at no more momentaries in sequence than the selves releasing to it, steps 204, 208, 209, 212, 222 and 604: a self releasing a parity is at that parity, each next releasing a 0 or the other parity, and the other parity arriving is a changing; one momentary at a spiral offered nothing from beyond it, and at most two at a torus, the along arriving alike at one momentary and the across at the other.
+
+        *Adding: the 0 at momentaries in sequence, no more than the selves releasing.*
+
+612. A spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, is at its parities again at twice a number k, step 233: k the least number of selves on at which the pattern, carried on and inverted at each self on, is the pattern itself. At all selves alike k is two, the parities again at four momentaries; at an even spiral alternating k is one, the parities again at two; at one self at the other parity from each other self k is twice the number of selves at an odd number of three and more, the parities again at four times the number, and k is the number of selves at an even number of four and more, the parities again at twice the number.
+
+        *Adding: a spiral's parities again from its pattern.*

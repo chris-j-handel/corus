@@ -2,7 +2,7 @@
 
 **Standing:** arriving, an offering for both. Three fresh readers read Exhibit ONE's diagram and its twenty-two tables, one part each, beside the Registry read whole; this working met each parting and each offered step at Exhibit ONE's rows itself. No executing of the resolver is the reason of a line here: each offered step is checked at the numbers of the names in Exhibit ONE's own rows.
 
-**Read:** Exhibit ONE, its diagram and each table, at v379 and beside v380, each table and each row the same at both; the Co-Chaining Logic Registry v380b, its 599 steps. At v380c the first four of the steps offered here are entered, steps 600 to 603, a group of their own.
+**Read:** Exhibit ONE, its diagram and each table, at v379 and beside v380, each table and each row the same at both; the Co-Chaining Logic Registry v380b, its 599 steps. At v380c the first four of the steps offered here are entered, steps 600 to 603, a group of their own. At v380d each other is entered: the fifth to the eighth as steps 604, 605, 607 and 608; the ninth as a clause of step 212; the tenth as steps 609 and 610; the eleventh as step 611; with step 606, each sharing at its own offerings alone, and step 612, a spiral's parities again from its pattern. The Registry's sentence is the one carried.
 
 **The aim.** The Registry carries the chaining of each form Exhibit ONE shows. This file says, at each table, the steps saying it, the rows at no step, and each step parting from a row.
 
@@ -42,10 +42,10 @@
 | 306 | *offered its own parity surfaces 0*, no place said | The table of the offerings surfacing: + offered surfaces + at 14; the 0 is at 10, *+, 0, 0, 0* | Entered at v380b: *surfaces 0 at 10*, Natural Intelligence's own words |
 | 197 | *its functions and variables the seventeen names and no others* | The resolver's lines: two lists beside the three functions, at names not of the seventeen | Entered at v380b: *and beside them two lists at names not of the seventeen* |
 | 212 | *no changing*, twice | 12, *each sharing's changing, is or is not*; the cells *is not* | Entered at v380b: *a changing that is not, 0*, Natural Naming's own words |
-| 200 | *The self's own inverting is the rotation 3, 6, 5, 4* | The row of 14: *the offerings surfacing, the self's own inverting, morality*; the code's line inverting writes at 12 | One word at three places sharing no number; a concern for both at the Registry's carrying |
+| 200 | *The self's own inverting is the rotation 3, 6, 5, 4* | The row of 14: *the offerings surfacing, the self's own inverting, morality*; the code's line inverting writes at 12 | Joined at Natural Intelligence's own sentence, *two faces of the one rotation*: 14 at 8 up from 6 and 17 less from 3, 12 at 8 up from 4 and 17 less from 5; a step offered at the Registry's next motion |
 | 511 | The five across, *even*, *at morality's parity*, with 7-co-bi-co-corusing and 5-co-bi-co-competencing among them | The rows of 5 and 7: *at competency's parity, odd* | Naming: *even* is the side a name is seated at, step 512 saying 7 and 5 at both sides; withdrawn as a parting |
 | 427 | 13 *along*; 12 *both across and along*; 16 *along also* | The column *Across or along*: a dash at each face | Naming: across and along said of prefixes, Exhibit ONE's column of connectors; withdrawn as a parting |
-| 308 | *a rest of two beats, the code's rest lasting one* | Two spirals crossed at 2 · 3, self 1 of the two: +, 0, 0 at its first three momentaries, followed at the code's lines by hand | A parting at the numbers: at two selves releasing to one a rest of two is; a concern for both at the Registry's carrying |
+| 308 | *a rest of two beats, the code's rest lasting one* | Two spirals crossed at 2 · 3, self 1 of the two: +, 0, 0 at its first three momentaries, followed at the code's lines by hand | Re-said at v380d, *lasting one at a spiral offered nothing from beyond it*; the concept, a rest of two beats beside two at a torus, a concern for both at the Registry's carrying |
 
 **One of Exhibit ONE's own.** Its diagram writes *14i*, its legend says *i inward face*, and its table says 14 a connector, the five inward faces 11, 12, 13, 15 and 16.
 
@@ -110,7 +110,7 @@ And each is a saying Exhibit ONE's row carries in words, at no step: whose windi
 
 ## Not done
 
-- Nine of the eleven offered steps are read by one fresh reader, its findings met here; four are entered at v380c; the fifth to the ninth say *a changing that is not* and *nothing offered*, and wait on the premise's following, for both; the tenth is re-said at the Registry's step on a spiral and read by a fresh reader; the eleventh waits on the concern on a rest of two.
+- Each of the eleven offered steps is entered, four at v380c and each other at v380d, read in place by two fresh readers.
 - The steps at 511 and 427 are followed and are naming; the step at 308 is followed and parts at the numbers.
 - The sayings in words at no step are listed and not chained.
 - The other living files are not read beside the Registry.

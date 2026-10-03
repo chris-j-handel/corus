@@ -67,3 +67,14 @@ The Co-Chaining Logic Registry is at v380c at this branch. At v380b, received at
 ## Six. Each thing parting sorted at the numbers
 
 [Incoherings_For_The_Subject.md](Incoherings_For_The_Subject.md), read for by three fresh readers each told to break it. One incohering of concept: a rest of two, the Registry's *the code's rest lasting one* beside the code's lines at two selves releasing to one, Exhibit ONE's own row of two spirals crossed among them. This working's largest incohering is withdrawn: the Registry's step on a spiral offered nothing carries each row it set apart. Exhibit ONE's tables are matched to the code's lines by hand as far as the file says, each cell followed agreeing; three things of Exhibit ONE's own part, the sentence of the twelve forms at the middle four-cycles, *14i*, and *the self's own inverting* at the row of 14.
+
+## Seven. Beside Exhibit ONE's motions at v380a and v380b
+
+- **The tables opened with each self at a parity.** A spiral's numbers are from its pattern, the Registry's steps 233, 609 and 612 at v380d: all selves alike at four at each number of selves; alternating at two; one self at the other parity at four times the number at an odd number and twice at an even. For the rows as they are, four times an odd number and two at an even, the opening pattern is alternating with one like pair at an odd number, nothing arriving at the first momentary. At the torus and the spirals crossed no such arithmetic is found; those rows are followed at the code alone.
+- **The row of a carrying of none under its own title.** Natural Intelligence's own two sentences: *a self chained none is at its entry and carries from its first changing on*; of the non-living, *At the code it is offerings at 2 with no carrying behind them*.
+- **The resolver's two lists at no function.** A fresh reader for this working found the same, and one thing beside it: the releasings at 6, at 10 and at 9 arrive alike at the receiving self's offerings.
+- **Natural Intelligence at v380b.** Its copy of Exhibit ONE is Exhibit ONE v380b line for line.
+
+## Eight. The Registry at v380d, and the gathering for three files
+
+The Registry's motion is at this folder's Progress: four steps said at their rows and nine entering, 612 steps in 34 groups; the Living File Registry's row and the list of files are the managing's at its receiving. The gathering for Natural Numbers, Natural Mathematics and Natural Intelligence is at [Gathering_For_Numbers_Mathematics_Intelligence.md](Gathering_For_Numbers_Mathematics_Intelligence.md), one ready at each file's carrying: no number of the three parts from the code's; fourteen sentences say more than their rows, each with its case; and one concern for both at Natural Intelligence's carrying, the living step's form at a self offered nothing, its sentences at two measures.
