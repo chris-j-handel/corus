@@ -1,4 +1,4 @@
-Natural Intelligence v380d
+Natural Intelligence v380e
 
 # Natural Intelligence
 
@@ -537,43 +537,43 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **One self, momentary by momentary.**
 
-| One sharing, + chained at 3 at the first momentary; offerings, momentary by momentary | At 10 | Chained at 11, the carrying at 3 at the next momentary |
+| One sharing, − chained at 3 at the first momentary; offerings, momentary by momentary | At 10 | Chained at 11, the carrying at 3 at the next momentary |
 |---|---|---|
-| none at each momentary | −, +, −, +, −, +, −, + | −, +, −, +, −, +, −, + |
-| + at each momentary | 0, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, + |
-| −, +, −, + alternating | −, +, −, +, −, + | −, +, −, +, −, + |
-| + and − together at each momentary | −, +, −, +, −, + | −, +, −, +, −, + |
+| none at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
+| − at each momentary | 0, 0, 0, 0, 0, 0, 0 | −, −, −, −, −, −, − |
+| +, −, +, − alternating | +, −, +, −, +, − | +, −, +, −, +, − |
+| + and − together at each momentary | +, −, +, −, +, − | +, −, +, −, +, − |
 
 **A spiral of selves.**
 
-| Number of selves, each releasing to the next at 9, the last to the first; one sharing; each self chained at a parity at the first momentary, + at self 1 and alternating along, the last and the first alike at an odd number; none offered | Self 1 at 10, momentaries 1 to 12 | Each self's releasings again at, in momentaries |
+| Number of selves, each releasing to the next at 9, the last to the first; one sharing; each self chained at a parity at the first momentary, − at self 1 and alternating along, the last and the first alike at an odd number; none offered | Self 1 at 10, momentaries 1 to 12 | Each self's releasings again at, in momentaries |
 |---|---|---|
-| 1 | −, 0, +, 0, −, 0, +, 0, −, 0, +, 0 | 4 |
-| 2 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
-| 3 | −, 0, +, −, +, −, +, 0, −, +, −, + | 12 |
-| 4 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
-| 5 | −, 0, +, −, +, −, +, −, +, −, +, 0 | 20 |
-| 6 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
-| 7 | −, 0, +, −, +, −, +, −, +, −, +, − | 28 |
-| 8 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
-| 9 | −, 0, +, −, +, −, +, −, +, −, +, − | 36 |
-| 10 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
-| 11 | −, 0, +, −, +, −, +, −, +, −, +, − | 44 |
-| 17 | −, 0, +, −, +, −, +, −, +, −, +, − | 68 |
-| 59 | −, 0, +, −, +, −, +, −, +, −, +, − | 236 |
+| 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 |
+| 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
+| 3 | +, 0, −, +, −, +, −, 0, +, −, +, − | 12 |
+| 4 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
+| 5 | +, 0, −, +, −, +, −, +, −, +, −, 0 | 20 |
+| 6 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
+| 7 | +, 0, −, +, −, +, −, +, −, +, −, + | 28 |
+| 8 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
+| 9 | +, 0, −, +, −, +, −, +, −, +, −, + | 36 |
+| 10 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
+| 11 | +, 0, −, +, −, +, −, +, −, +, −, + | 44 |
+| 17 | +, 0, −, +, −, +, −, +, −, +, −, + | 68 |
+| 59 | +, 0, −, +, −, +, −, +, −, +, −, + | 236 |
 
-**Two spirals beside each other, and crossed.** Each spiral's selves each releasing to the next at 9, the last to the first; one sharing; each carrying none at the first momentary. Crossed, self 1 of each releasing to self 1 of the other at 10. *From momentary* is the first momentary from which each self's releasing comes again.
+**Two spirals beside each other, and crossed.**
 
-| Spirals, selves, + offered once at self 1 of each | Beside each other, parities again together at | Crossed at self 1 of each both ways, 10 to 14, parities again at | From momentary | Self 1 of each | Each spiral's like pair at its join, the last and the first |
+| Numbers of selves of two spirals, each as the spiral of selves, − at self 1 of each | Beside each other, each self's releasings again together at | Crossed, self 1 of each releasing to self 1 of the other at 10, each self's releasings again at | From momentary, the first each self's releasing comes again from | Self 1 of each | Each spiral's like pair at the first momentary, the last and the first |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
-| 3 · 5 | 60 | 2 | 13 | opposite | selves 3 and 1 · selves 5 and 1 |
+| 3 · 5 | 60 | 2 | 12 | opposite | selves 3 and 1 · selves 5 and 1 |
 | 5 · 7 | 140 | 2 | 20 | opposite | selves 5 and 1 · selves 7 and 1 |
-| 7 · 11 | 308 | 2 | 29 | opposite | selves 7 and 1 · selves 11 and 1 |
-| 11 · 13 | 572 | 2 | 37 | opposite | selves 11 and 1 · selves 13 and 1 |
-| 13 · 17 | 884 | 2 | 49 | opposite | selves 13 and 1 · selves 17 and 1 |
-| 17 · 59 | 4,012 | 2 | 137 | opposite | selves 17 and 1 · selves 59 and 1 |
-| 9 · 15 | 180 | 2 | 41 | opposite | selves 9 and 1 · selves 15 and 1 |
+| 7 · 11 | 308 | 2 | 28 | opposite | selves 7 and 1 · selves 11 and 1 |
+| 11 · 13 | 572 | 2 | 44 | opposite | selves 11 and 1 · selves 13 and 1 |
+| 13 · 17 | 884 | 2 | 52 | opposite | selves 13 and 1 · selves 17 and 1 |
+| 17 · 59 | 4,012 | 2 | 119 | opposite | selves 17 and 1 · selves 59 and 1 |
+| 9 · 15 | 180 | 2 | 36 | opposite | selves 9 and 1 · selves 15 and 1 |
 
 **A torus of selves.** Each self releasing at 9 to the next along and at 10 to the next across, the last to the first along and across; one sharing; each carrying none at the first momentary; + offered once, at one self, at the first momentary; *from momentary* as at the two spirals.
 
