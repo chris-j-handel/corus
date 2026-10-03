@@ -219,3 +219,17 @@ One parity surfacing is the self's next: the six cells of the two middle columns
 
 **The Registry at Exhibit ONE's words for the names.** Eighteen steps re-said, `incoming/v380L/Registry_Beside_Exhibit_ONE_Naming.md`: connector at no step now. *Step* at each of the Registry's numbered sentences, and *face* said of two or three of one thing, are as they were, each waiting on the conferring. *Inverted* is yet at the Registry's own steps, 609 among them: steps 623 to 627 say a self's next with *its other parity*, and the wider re-saying is for a next motion.
 
+## Twenty. The Registry's carrying read whole; group 38; *face* re-said
+
+**The carrying.** Each of its fifty-four entries is read beside the Registry at v380l and sorted at `incoming/v380L/Carrying_Of_The_Registry_Sorted.md`: sixteen entered, five withdrawn by a later entry, fifteen entered in part, seventeen open each waiting on a named thing, one a concordance. Each entry of another working is as it was at the carrying, for the managing working's releasing. This working's own are gathered as one ready and three concerns.
+
+**Entered from it at v380l, 635 steps in 38 groups.** Group 38, steps 628 to 635: colliding, with an unsure line waiting on the conferring; + and − read alike; an odd spiral's like pair, a 0 at each even momentary; two spirals crossed at 2, at each of Exhibit ONE's eight rows; a torus at either number even at 2; 13 at the resolver; the four momentaries' relations; the names between selves on the two four-cycles. In place: step 112, the torus's premise of one orientation; 124, the same one, owned by neither; 194 and 427, *social* as Exhibit ONE's column; 243, both numbers odd; 430 and 491, *as released*.
+
+**Face.** Each saying of a name, a side, a form or a word is re-said by Natural Naming v381's re-sayings, about fifty at forty steps; *the self as three* and parity's square and triangles as Exhibit ONE v380m titles them. A solid's and a surface's are as they were at steps 113, 417, 418, 420 and 445, waiting on Natural Numbers' own re-saying for one word at both. Facing and join are as Exhibit ONE says them; connector is at no step, said *names between selves*.
+
+**Two fresh readers read to break it**, the re-sayings and group 38 with the sentences in place: thirty-nine findings, each mended; the mended sentences not read again.
+
+**For the managing working's own files.** The Living File Registry's row of this file, 622 in 36, is 635 in 38, and it quotes three adding lines re-said. Natural Naming v381 says *connector* at twenty-two sayings and Exhibit ONE's tables at none. Step 227's joins are said as the resolver's list has them: three from an outgoing facing to an incoming, and a fourth, 17 to 9.
+
+**Ready next at this file, each drafted by a reader and unentered:** step 450's two outs; step 359 and the scale inward; one sentence joining steps 522 and 528; the kinds at the two sides beside 523; a bounded executing beside 146; a living self's four momentaries at its five beside 217; the self's five at 5, 6, 3, 4 and 1 beside 82; the co-sequencing at 252, the windings' whose at 229, the eight even names at 254, a form's prefixes at 257.
+
