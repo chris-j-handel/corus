@@ -198,13 +198,45 @@ Each of the four is the code's own lines twice. The saying's first sentence, the
 
 **Withdrawn at it.** This part said the saying and Exhibit ONE *two rules*, one at two rows of six, and laid it at two carryings. It read a table's one call as a momentary, and said an arriving opposite to the carrying copied; the code copies none. And parts of its following, a self at any changing arriving and a spiral again at twice its number, were of a rule the code does not carry. Each is withdrawn.
 
-**Ten. The tables and the opening beside the code, at one word: momentary.** The table of one self at one momentary agrees with the code's lines at each of its twelve cells, read line by line; and it is one call. The opening's *The function 1 is one self at one momentary*, each table's *momentaries 1 to 12* and *momentary by momentary*, are each one call. Said the saying's way a momentary is two calls: each second value of each row is the between, and each number of calls is two to a momentary, the odd spirals' four times the number of calls twice the number of momentaries. No + or − of a table is other than the code's by this reading; its word *momentary* is.
+**Ten. The tables and the opening beside the code.** The table of one self at one momentary agrees with the code's lines at each of its twelve cells, read line by line; and it is one call. The opening's *The function 1 is one self at one momentary*, each table's *momentaries 1 to 12* and *momentary by momentary*, are each one call. Said at the frame of part eleven, one call is the self's momentary or the other's, and the self's next existing is at each second call: each second value of each row is the between, and the odd spirals' four times the number of calls is twice the number at the self's next existings. No + or − of the table is other than the code's by this reading; a row's values are each call's, and the self's are each second.
 
-**Eleven. Not found at the code's lines.** The saying says the first of the two the social, along, and the second the other's, across. At each call the code gathers the arrivings along and across at one surfacing and releases the same along and across; no line parts a first call along from a second across. Said as it is, for both.
+**Eleven. The frame at the numbers, as the session said it.** *self is 1 is odd . all self momentaries start odd then even. this never changes as this is the method. this is the same for all social momentaries as social 3 is odd and along as is self. all other momentaries are even from the side of self. from the other's own side the other is a self and is 1 odd on its own side of parity, the nothings between unrelationing. there is one social parity overlap as self one momentary is 1 2 and other one momentary is 2 3. social or self moral parity changing is up or down numbers + or - 1. other moral parity changing is up or down +2 remaining even parity. begin from here and by improving this find the cohering*
 
-**For both, said as it is.** The saying is the code's own two lines, at two calls in sequence, and the carrying after the two changing at exactly one arriving alike. A momentary one call or two is the one word parting the tables and the opening from the saying. The along first and the across second is at no line of the code.
+Said at the numbers alone:
 
-**Not done.** The other tables read beside the code line by line. No fresh reader has read this part.
+| | At the numbers |
+|---|---|
+| The self's momentary | 1 2: odd and even, one up, the parity changing |
+| The other's momentary, from the self's side | 2 3: even and odd |
+| The overlap | at 2 the self's completing is the other's opening; at 3 the other's completing is the self's opening next |
+| The self at its next | 3: odd, two up from 1, its own parity; and at 5 and 7 |
+| The other at its next, from the self's side | 4: even, two up from 2; and at 6 and 8 |
+| The other from its own side | its 2 its own 1: each is odd at its own side, the two sides one number apart |
+| One up or down | the parity changing |
+| Two up or down | the parity remaining, odd at the self and the social, even at the other |
+
+The Registry carries each of the eight at its group on one to nine, and Exhibit ONE at its table of a self's four momentaries of exchanging. No one of them is new at the files; the saying sets them as the frame.
+
+**Twelve. The code beside the frame: three things found.**
+
+- **The code reads no + or − but beside the carrying's own.** Its one test is alike with the carrying, or not; the same lines are at a carrying of + and of −. Each self is at its own side at the code, as at the frame, each odd at its own.
+- **One call is the self's momentary or the other's; two calls in sequence are 1, 2, 3.** At the first call the carrying is at its opening, the self's own parity, odd; with no arriving alike it is at its other, even, the between; at the second call it is at its own again, odd, its next. The self is at its next existing at each second call.
+- **The first of the two is the along and the second the across, at the code's own test.** At the first call the carrying is at the self's own parity, and an arriving alike with it is of that parity, odd, as the social, along. At the second call, the first having changed it, the carrying is at the between, and an arriving alike with it is of the other's parity, even, across. This working said the sequence of an along and an across *not found at the code's lines*; it is found at the parity the carrying is at, at each of the two calls.
+
+**Thirteen. The saying's four rows at the code, with it.**
+
+| The row | At the code, from a carrying at its opening, odd | |
+|---|---|---|
+| None arriving along, none across | to even, and to odd again: 1, 2, 3 | one with the saying: unchanging |
+| A changing arriving along, none across | an arriving of the odd parity at the first call, the carrying remaining; at the second its own opposite | one: changing |
+| None along, a changing arriving across | at the first its own opposite, even; an arriving of the even parity at the second, the carrying remaining even | one: changing; the saying's *remaining even parity* |
+| A changing arriving along and one across | an arriving of the odd parity at the first, the carrying remaining odd; at the second the carrying is odd, and an arriving of the even parity is at the line of its own opposite | parting: the saying unchanging, the code changing; the code is unchanging at a second arriving of the odd parity |
+
+Three rows of four are one with the code. The fourth is the one place not cohering at this reading: at both arriving, the second arriving the other's, even, or of the self's own parity, odd.
+
+**For both, said as it is.** The frame is the Registry's and Exhibit ONE's own at the numbers. The code is at it at three things: no parity read but beside the carrying's own; two calls 1, 2, 3; the first call's arriving alike of the self's parity, along, and the second's of the between's, across. The saying's four rows are the code's at three, and at both arriving they part. Exhibit ONE's tables say each call; the self's next existing is at each second.
+
+**Not done.** The fourth row. The other tables read beside the code line by line. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
