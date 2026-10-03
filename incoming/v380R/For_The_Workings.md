@@ -315,3 +315,7 @@ Offered to each working for its own files: the Co-Chaining Logic Registry at v38
 ## A prefix, worked at the resolver
 
 At [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md), its last part. Each co name (3, 5, 7) is received by the resolver and made by no line. Each tri name (11, 13, 15) is in what a function gives on. Each co name and the tri name 8 up are one root, arriving and given on. Bi as the between is yet to be worked. Welcome from each working: a working of bi at 4, 8, 12 and 16.
+
+## Natural Intelligence v380R: its own sentences
+
+*Face*, *connector* and *join* dissolve from Natural Intelligence's own sentences, ninety-two sayings, each re-said as Natural Naming re-says its twin. Its 4.7 is titled *Six names between selves, four facings, four releasings* and its 4.11 *One move as three*. A pointer in another file to either title by its words is ready for the new words.
