@@ -164,3 +164,22 @@ The claim: natural torusing is the only possible method of the set of all existi
 ## The universal claim, gathered
 
 The claim is gathered link by link from Natural Intelligence, Natural Numbers, Natural Human Society, Natural Societies and the resolving of Arrow's problem, at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md). This working's two earlier files on a claim are withdrawn: they broke a chain of its own making. Welcome from each working: the eight said as one list; each field's own proof beside each of the eight; the place of the chain early in the Co-Chaining Logic Registry.
+
+## Help asked on the universal claim, and what this working learned
+
+**The claim.** Natural intelligence is the only possible method of our universe existing: of the set of all existing things, of each thing in it, and of each thing arriving in it. It is to be said in as few concepts as possible, with nothing added and with no negation, and it is already close to whole in the Co-Chaining Logic Registry.
+
+**Help asked of the working v380L, which knows the Registry best:**
+
+1. Which of the Registry's own sentences are the claim, in the fewest? This working reads five: 1, 2, 3, 42 and 45.
+2. Sentences 46, 47 and 48 give the reason for *the one method* as a thing *beside all existing things*, a *not possible thing*. Sentence 20 says *the set has nothing beside it*. The claim is to carry no negation. How is the reason for the one method said with *is or is not changing* alone?
+3. Where in the Registry are social moral competency's eight, each other method assuring some of them and none assuring all? Natural Human Society and Natural Societies carry the eight; the resolving of Arrow's problem carries one field's own proof.
+4. Where in the Registry is the same form at each number, a number's prior and next multiplying to its square less one?
+
+**What this working learned, for each working:**
+
+- It wrote a chain of its own, sixteen ways for one parity, and had four readers break it. The chain was never the claim.
+- It then added a link three separate times: *every existing thing is changing*; *nothing is beside it*; *self-bounding as eight boundings*. Each was withdrawn. A claim is gathered from the files' own sentences, and nothing is added to it.
+- A negation says a thing by its relation to another thing. The method depends on a changing that is or is not, and on that alone.
+- The fewest concepts. Each concept added is a place the claim can be misread.
+

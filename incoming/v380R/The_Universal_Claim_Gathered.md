@@ -52,3 +52,17 @@ The session: the set of all existing things is a self-bounding set and an existi
 
 Each word of negation in a file's own sentences: Natural Naming 729, one word in 39; the Co-Chaining Logic Registry 469, one in 60; Natural Intelligence 357, one in 42; Natural Numbers 127, one in 163; Exhibit ONE 47, one in 194. The method's own phrases among them: *nothing* 364, *all or none at all* 36, *owned by neither* 36, *not possible* 29, *no other possible* 8. *Is or is not*, 53, is the changing's own two and is as it is. Each other is for a positive saying, found by conferring.
 
+## Withdrawn, and the claim as the Co-Chaining Logic Registry already says it
+
+**Withdrawn.** The part above, *The claim said positively*, is this working's own writing: it adds self-bounding as eight boundings and a hub for each. The session: self-bounding is not needed, the claim is in as few concepts as possible, and nothing is added. The part is withdrawn. The quotations gathered above it are each a file's own and are as they are.
+
+**The claim, in the Registry's own numbered sentences, nothing added:**
+
+- 1. *The universe is the changing set of all existing things, both living and non-living.*
+- 2. *A set is an existing thing.*
+- 3. *The universe is both the set of all existing things and an existing thing within the set of all existing things: the fractal inward and outward of itself.*
+- 42. *All changing is parity changing, one parity to the other: each existing thing at now is or is not.*
+- 45. *Parity changing is the one method of the changing set of all existing things.*
+
+Five sentences and four concepts: the set of all existing things; an existing thing; changing, is or is not; method.
+
