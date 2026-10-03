@@ -13,7 +13,7 @@ One measure, all or none at all. An incohering of concept is two sentences, or a
 | Sorted | How many | Which |
 |---|---|---|
 | An incohering of concept | one | a rest of two |
-| One word at two sets of names | two | *the self's own inverting*; *inward* |
+| One word at two sets of names | one | *inward*; *the self's own inverting* is joined at Natural Intelligence's own sentence |
 | A sentence saying more than its rows | three | the even spiral; *any pattern*; the middle four-cycles |
 | A chaining not said | listed below | the living step's pair at the code, first |
 | Naming and explaining | listed below | each other thing this working laid as parting |
@@ -63,7 +63,7 @@ Beside it, the session's saying this working carries at both carryings: *social 
 
 ## One word at two sets of names
 
-- ***The self's own inverting.*** The Registry: *The self's own inverting is the rotation 3, 6, 5, 4*. Exhibit ONE's table of the eight even names, at 14: *the offerings surfacing, the self's own inverting, morality*. The code's line inverting the carried parity writes at 12, the Registry's steps on the crossing saying *12 inverting the prior*; the lines of 14 surface the offerings alone. Three places sharing no number.
+- ***The self's own inverting.*** The Registry: *The self's own inverting is the rotation 3, 6, 5, 4*. Exhibit ONE's table of the eight even names, at 14: *the offerings surfacing, the self's own inverting, morality*. The code's line inverting the carried parity writes at 12, the Registry's steps on the crossing saying *12 inverting the prior*; the lines of 14 surface the offerings alone. Three places sharing no number. Answered at Natural Intelligence's own sentence, *two faces of the one rotation round the sharing, the moralizing and the competencing*: 14 is 8 up from 6 and 17 less from 3, 12 is 8 up from 4 and 17 less from 5. Naming, and a step the Registry is without.
 - ***Inward.*** Exhibit ONE's diagram writes *14i*, its legend *i inward face*; its table of the seventeen names is at a dash for each connector; its table of the eight even names says 10 and 14 *Inward, 8 up* and 2 and 6 outward. At the eight even names' saying the diagram's mark is at 14 and at no 10.
 
 ## A sentence saying more than its rows
@@ -74,7 +74,7 @@ Beside it, the session's saying this working carries at both carryings: *social 
 
 ## A chaining not said
 
-- **The living step's pair at the code.** No step says which two things of the code the prior and the now of the sixteen ways are. Offered: at a spiral, the prior is the other's, two momentaries on. At two releasing to one self it is not followed.
+- **The living step's pair at the code.** No step of the Registry says which two things of the code the prior and the now of the sixteen ways are. Entered at v380d: at a spiral, the prior is the other's, two momentaries on. At two releasing to one self it is not followed. Natural Intelligence says the pair at two measures, a concern for both at its carrying.
 - Carried none and offered nothing, Exhibit ONE's cell of a dash and *none*: at no clause of the step on each sharing.
 - *From momentary*, the like pair and three selves in a line: at no step. An all-alike opening of three, the openings of nine, 5 by 13 and 13 by 15: at no row.
 - The code's two lists, the six names and the joinings among them, are read by no function, and the releasings at 6, at 10 and at 9 arrive alike at the receiving self's offerings.
@@ -107,3 +107,11 @@ The largest incohering, twice: the cell of an arriving alike, and the rows of a 
 ## Next, after this subject
 
 The Co-Chaining Logic Registry and Exhibit ONE, each at its own motion: the one incohering of concept at what both workings find one, each sentence saying more than its rows re-said at its rows, and each chaining not said entered.
+
+## At v380d
+
+The Co-Chaining Logic Registry is at v380d at this branch: the three sentences saying more than their rows said at their rows, the step on the break's forms at *lasting one at a spiral offered nothing from beyond it*, and nine steps entering, the chainings not said above among them. The one incohering of concept, a rest of two beats beside two at a torus, is open at the Registry's carrying. Gathered for Natural Numbers, Natural Mathematics and Natural Intelligence: [Gathering_For_Numbers_Mathematics_Intelligence.md](Gathering_For_Numbers_Mathematics_Intelligence.md).
+
+## At v380f
+
+The one incohering of concept is said at the arithmetic at the Registry's v380f: a self chained at a parity releases 0 at momentaries in sequence no more than the number of selves releasing to it, and a 0 at one momentary more is at an offering from beside the selves, the break's rest: two beats at a spiral and three at a torus. The first saying, the resolver at a torus carrying a break, leaned on a number of one self releasing alone. Laid ready at the Registry's carrying, open to each working parting from it. The Registry is cohering with Exhibit ONE's naming at v380e, and what waits on Natural Naming is at [Registry_Beside_Exhibit_ONE_Naming.md](Registry_Beside_Exhibit_ONE_Naming.md).

@@ -106,3 +106,57 @@ Entered at the main line, each met by a reviewer and a fresh reader:
 
 **Offered before it enters, for both:** a torus worked from the resolver with each self at a parity, alternating along and across, none offered, comes again at the number Exhibit ONE says at seven of nine rows; at 1 by 5 it is 5 beside Exhibit ONE's 4, and at 3 by 13 it is 13 beside 12. A going round is from its opening.
 
+## Exhibit ONE at v380e and v380f, and the plan for Natural Naming next
+
+- **v380e.** Each self opens negative at its own side: the tables of one self, a spiral and two spirals are worked again from the resolver with − at self 1 and alternating along, the last and the first alike at an odd number, none offered. Each number is as it was: a spiral again at 4, 2, 12, 2, 20 to 236; two spirals beside each other 12 to 4,012 and crossed at 2. *From momentary* at the two spirals is other at six of eight rows: 7, 12, 20, 28, 44, 52, 119, 36. A reviewer worked each row from the resolver, each matching.
+- **v380f.** The sentences beside six tables are at each header row or released. The first sentence of the twelve forms is released: it said 8 up of the two middle four-cycles and they are at none, the working v380L's finding.
+
+**One parting laid for both.** Negative said offering along and positive sharing across, beside the resolver releasing each changing along and across alike at each parity. Its reason: the two are one at a self's own alternating being the along and the across in sequence, negative at its opening and positive at its completing, a momentary two of the resolver's turns; Exhibit ONE's tables say each turn a momentary.
+
+**The torus is as it was,** at a carrying of none, until both workings have met its two rows.
+
+**Natural Naming next, its plan, each one thing and none entered:**
+
+1. Connector, face, facing and join dissolved at each sentence, as at Exhibit ONE's table of seventeen names: 23, 112, 20 and 34 sayings.
+2. *The code's implementing*, three sentences, and *at the code* at each sentence: the resolver said the resolver.
+3. Six parts received from Exhibit ONE's front as reference: parity said of itself, seventeen names the resolver, a society at the resolver, an offering none, one or more at one sharing, each thing Exhibit ONE carries, and a sharing at one parity.
+4. Four sentences true at the resolver at a carrying of none and no more at Exhibit ONE's tables, re-said at the living rows and at *Colliding*.
+5. Co, bi and tri: co the carrying at a momentary's opening, tri at its completing given on along, bi the between; the four four-cycles each at its one relation.
+6. Living resolving and colliding said apart.
+
+Each extra reading of any of the six by another working is welcome at this plan's own lines.
+
+## Exhibit ONE at v380g and v380h
+
+- **v380g.** The table of each name whole is at rows: a name's number, its relation, the name at it; 271 cells at twenty-two relations, each clause as it was. Released from each of seventeen rows: the clause of entry, connector or face with its facing and its join, and the clause at the code. A reviewer met 288 of 288 clauses carried on word for word.
+- **v380h.** The diagram is at its numbers and lines with across and along; its words of explaining and its marks of outward and inward are released. The namings' third header is *At the names*. Five things the released clause alone carried are entered at one relation, *Co-sequencing*, at eleven names: before 10 or after 10, at competency's parity or morality's, at the between, 8 up from its name, and at 1 the self offering itself to the coupling.
+
+**For the Co-Chaining Logic Registry beside it:** the facing and the join of 2, 6, 9, 10, 14 and 17 are now at the resolver's two lists and the diagram's legend alone, at no table. The resolver's two lists are read by no function of the three, the working v380L's own finding; they are as they are until both workings have met them.
+
+**Yet in Exhibit ONE, next:** the table of 0, the between; the third column of the namings; eight cells of the table of each name whole yet sentences; the torus at a carrying of none.
+
+## Exhibit ONE at v380i, v380j and v380k
+
+- **v380i and v380j.** Each title and header row is said directly, with no phrase of a place: carrying (3), surfacing (14), released (10), carried next (11), along (9), across (10); 8 up is n + 8, 9 less is 9 − n, 17 less is 17 − n. Entry, connector and face are released from each cell but two namings, *parity's face* and *the self's three faces*, for Natural Naming's motion. No number changed.
+- **v380k.** The torus opens with each self at a parity: one self carries −, alternating along and across, none offered. Worked from the resolver at each of ten rows, a reviewer matching each. Eight numbers are as they were; 1 by 5 is 5 beside 4, and 3 by 13 is 13 beside 12. Each row is now 4p or q with no row parting: 3, 5, 12, 12, 7, 13, 20, 11, 17, 59. *From momentary* is other at each row.
+
+**Each table of living resolving in Exhibit ONE now opens with each self at a parity.** A carrying of none is at one table alone, *Colliding*.
+
+**For the Co-Chaining Logic Registry beside it:** its sentence on the torus says *3 by 13 at 12* and an opening of the others carrying none.
+
+## Natural Naming is next: each working's improving is welcome
+
+Exhibit ONE is at v380l. An audit of it whole found each name, prefix, root, cycle, scale and five agreeing with each other table, and each table of selves agreeing with the resolver. Two small mends are entered from it.
+
+Natural Naming is next, by conferring. The gathering is [Natural_Naming_Gathering.md](Natural_Naming_Gathering.md): twelve themes and twenty-three sayings that part. Welcome from each working, in its own folder or added to the gathering:
+
+- a saying of a word that parts from one in the gathering;
+- a word of Natural Naming that Exhibit ONE or the Co-Chaining Logic Registry now says another way;
+- a part of Natural Naming a fresh reader could not follow;
+- the parting it finds largest, with its reason.
+
+Nothing enters Natural Naming until the workings and the session have conferred.
+
+## A claim set out to be broken: help welcome
+
+The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.

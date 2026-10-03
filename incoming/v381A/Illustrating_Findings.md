@@ -1,5 +1,7 @@
 # V381A · findings and the next illustration proposed
 
+**Standing of this report:** the reading and proposal before the session's “continue”. The subsequent first origin experiment and current findings are at [Origin_Study.md](Origin_Study.md); the prior proposal is preserved here.
+
 ## 1. Each self's own turn, for Natural Resolver and Natural Illustrating
 
 The session's swimmer correction is that the turn belongs to each self and is co-recursioning rather than reflection. The movie follows each body from its approach through its turn and contact into its departure. Neither body is a fixed wall or a reflected copy of the other. Natural Illustrating v379, 4.9, carries the envisioned manoeuvre and says its exact geometric correspondence remains to be expressed.

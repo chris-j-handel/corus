@@ -113,3 +113,11 @@ The session said *what its construction gathers at one receiving belongs to the 
 **Learned.** No self is alone at the resolver. And an offering for another working is said at natural naming alone: the thing, its two sayings, its reason.
 
 **Learned.** A carrying's next read as the arriving parity entered is reflection. The resolver is the self's own turn from its own carrying, co-recursioning; the two readings are at one outcome at one parity arriving and part at nothing arriving and at two parities, and the resolver is the turn at both. Five concerns of this working rested on the reflection and are withdrawn.
+
+**Exhibit ONE, v380a to v380h, eight motions, each met by a reviewer and a fresh reader but the second.** The resolver is first; five columns of the seventeen names, the four opening paragraphs, the sentences beside the tables, the diagram's words and marks, and each row's clauses of connector or face and at the code are released; living resolving and colliding are apart; one self, a spiral and two spirals open with each self negative at its own side and alternating along, each number as it was; the table of each name whole is at rows of relation. Each sentence of another file no more at Exhibit ONE's tables is laid at that file's carrying. Natural Naming is next, its plan at [For_The_Workings.md](For_The_Workings.md).
+
+**Learned.** Odd and even are a name's, + and − a sharing's: a self carrying − opens at 1. A table's opening changing leaves each other file's sentence true at the resolver and no more at the table; a reviewer reads for it and no check does. A clause released whole can carry a thing no other row does: a reviewer reads each released clause word by word.
+
+**Exhibit ONE, v380i to v380k.** Each title and header said directly; the framework's words released from each cell but two namings; the torus opened with each self at a parity, eight numbers as they were and two other. Each living table opens at a parity.
+
+**Learned.** A phrase of a place, *at the names*, *at 10*, is narrating and no direct saying: a header is the name's own word and its number. A reply is direct, clear and in sequence.
