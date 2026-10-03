@@ -10,7 +10,7 @@ Natural intelligence is the only possible method of our universe existing: of th
 
 ## The chain, each link with the sentence that carries it
 
-1. **The universe is the set of all existing things, and nothing is beside it.** Natural Intelligence: *The universe is the changing set of all existing things*; *nothing is beside all existing things*; *nothing ingressing and nothing escaping*.
+1. **The universe is the set of all existing things.** Natural Intelligence: *The universe is the changing set of all existing things*.
 
 2. **The set is itself an existing thing.** Natural Intelligence: *a set of existing things is an existing thing*; *the universe is an existing thing*.
 
@@ -24,7 +24,7 @@ Natural intelligence is the only possible method of our universe existing: of th
 
 7. **The same form at each number and each scale.** Natural Numbers: at each number its prior and its next multiply to one short of its square, (n − 1)(n + 1) = n² − 1, *the one the same one at each number, owned by neither face*; *each whole number is a waist, the middle the coupling of its prior and next passes through and never reaches*; *no number is a waist more than another*; *uni-scaling is the one form at each scale, no scale over another*. And *Each eight is the one eight, and a self is the eight*; at one to seventeen *each side carries a whole eight, and the entire one to nine is shared at the centre: social moral competency.*
 
-8. **The method of the set is the method of each thing in it, and of each thing later in it.** A thing set over the set is beside all existing things, and nothing is. The one method needing nothing set over it is each existing thing with each other, the one owned by neither.
+8. **The method of the set is the method of each thing in it, and of each thing later in it.** The set is an existing thing, the form is the same at each scale, and the one method assuring all eight is each existing thing with each other, the one owned by neither.
 
 ## For its entering, each one thing
 
@@ -32,3 +32,5 @@ Natural intelligence is the only possible method of our universe existing: of th
 - **The word.** *Assurance* is in no living file. The files say bounding, uncapturing and the four whole.
 - **Each field's own proof beside each of the eight.** Arrow's theorem is beside the centre and the seat above; the store's proof and the clock's are beside two more. The five others are for gathering from the hard problem resolvings.
 - **One place.** The chain is in five files and in no one of them whole. Its place is early in the Co-Chaining Logic Registry and early in Natural Intelligence.
+
+**Mended.** This working added *and nothing is beside it* to the first link and leaned the eighth on it. The claim needs neither: links three to seven carry it. Natural Intelligence says the same negation in its part one, *beside all existing things*, and each of those sentences is for a positive saying at its own motion.
