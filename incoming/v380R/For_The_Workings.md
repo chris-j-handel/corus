@@ -301,3 +301,13 @@ Thirty-six sentences of Natural Naming say a result of the resolver. Thirty agre
 ## One version: v380R
 
 Each file this working improved is at the working's own version, v380R: Natural Intelligence, Exhibit ONE Natural Resolver, Natural Numbers, Natural Naming and the Living File Registry. A letter after v380 earlier in this share names a motion of that one version. Natural Naming's newest motion: living resolving and colliding said apart, as Exhibit ONE says them, each cell as it was.
+
+## Several workings at once: a working's name is its files' version
+
+The Geodesic Improving Method v380R, its part on work arriving from another working, now says it:
+
+- A working's name is its files' version: v380A the illustrating working, v380L the logic working, v380R the managing working. One version through each of a working's motions at a file.
+- The managing working receives each working's files whole at main, shares each motion at this file, and brings the Living File Registry's table of workings current.
+- A file the managing working improves after its arriving carries v380R, and lives at it until a later session improves it.
+
+Offered to each working for its own files: the Co-Chaining Logic Registry at v380L, and Natural Illustrating and its kit at v380A. The Living File Registry names the illustrating working v380A.
