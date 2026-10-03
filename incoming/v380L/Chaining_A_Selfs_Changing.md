@@ -281,9 +281,25 @@ Read at the code's lines, nothing executed. Three things are one with it, and fo
 
 **What rests on the first.** With each parity released at its own, the along at 9 and the across at 6 and 10, a self's two parities are each at its own arriving alone, the saying's four rows at each crossing, and the third concern is at none: a sharing reaches no self beside its own thread. As the code is, each of a fabric's two sharings is a torus of its own at one sharing, the two never beside each other, each surfacing its along and across arrivings as one.
 
-**For both, said as it is.** The saying of two parities at a self, each changed or not at its own arriving, is the code's lines at a carrying of two sharings. The fabric of the saying and the code part at one place: the code releases each changing along and across alike. Exhibit ONE's tables are each at one parity at a crossing.
+**Sixteen. Sequencing alone: is, or is not, a changing to the other parity.** The session said next: *this is missing the sequencing in all of this as there is no list of changings and there is no place where all the changing is visibly sensible . the whole concept is that (is or is not) a changing to other parity. and nothing else at all is happening anywhere in any of this and can not be added or subtracted and cannot improve this.*
 
-**Not done.** A fabric followed at either saying. The other tables read beside the code line by line. No fresh reader has read this part.
+**Withdrawn at it.** Part fifteen said a self's *whole list of changings* given to three, a carrying *a list of any length*, arrivings *surfacing as one*, a sharing *spreading*. Each says the code from beside it, as a thing holding each changing at one place and looked over whole. No such place is at the method: one changing is or is not, and the next. The four concerns as said are withdrawn.
+
+**Said at sequencing alone, at one living crossing, one momentary.**
+
+| In sequence | The one thing |
+|---|---|
+| The self's along parity at the along arriving | a changing to its other parity is, or is not |
+| The self's across parity at the across arriving | a changing to its other parity is, or is not |
+| The self next | its two parities, each as its own changing was or was not |
+
+Nothing else is at the crossing. The code's line at it is one: at a parity carried, its other parity, or, at a changing arriving alike with it, no changing.
+
+**One thing seen at the code's lines beside it, said in sequence.** At a second arriving at the one parity within one momentary, the code's lines do one thing more: the second is met with the first, and at the two opposite neither is met with the carrying. At a crossing of the saying each parity is at one arriving at a momentary, and those lines are reached at none.
+
+**For both, said as it is.** At each parity in sequence a changing to the other parity is or is not, and no more. This working's four concerns are released. Exhibit ONE's tables are each at one parity at a crossing, and some of their rows at two arrivings at it.
+
+**Not done.** A fabric followed at sequencing alone. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
