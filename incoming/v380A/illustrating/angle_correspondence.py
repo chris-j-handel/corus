@@ -1,6 +1,6 @@
 """Exact angles at one declared plane, without a resolver or a visual.
 
-Run from the repository root: python3 incoming/v381A/angle_correspondence.py
+Run from the repository root: python3 incoming/v380A/illustrating/angle_correspondence.py
 For the 240-degree rotations, (a, b) denotes a + b * sqrt(3) * i.
 This examines only the stated same-plane case, not the user's unspecified
 three-dimensional axes or the still-open triangle-to-method correspondence.

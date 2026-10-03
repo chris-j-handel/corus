@@ -1,8 +1,10 @@
-# V381A · mid-pool flip-and-rolling
+# v380A · mid-pool flip-and-rolling
+
+**Session: v380A, fixed for this session.**
 
 **The approved first motion study, with its editable source**
 
-[Watch or download the MP4](V381A_Mid_Pool_Flip_Turning_First_Study.mp4). [Download the editable source](V381A_Mid_Pool_Swimmers_Editable_Source.zip).
+[Watch or download the MP4](v380A_Mid_Pool_Flip_Turning_First_Study.mp4). [Download the editable source](v380A_Mid_Pool_Swimmers_Editable_Source.zip).
 
 ## What the study expresses
 
@@ -12,7 +14,7 @@ The turn belongs to each swimmer. The second body is separately rotated; it is n
 
 ## Provenance and standing
 
-The V381A illustrating session approved this first experiment on 3 October 2026. Natural Illustrating v379, 4.9, already carries the envisioned mutual manoeuvre. The session's correction is that the turning is co-recursioning, each self's own, rather than reflection. The current managing report, `incoming/v380R/For_The_Workings.md`, at *The turn is the self's own: reflection withdrawn*, independently carries that distinction at the resolver's lines.
+The v380A illustrating session approved this first experiment on 3 October 2026. Natural Illustrating v379, 4.9, already carries the envisioned mutual manoeuvre. The session's correction is that the turning is co-recursioning, each self's own, rather than reflection. The current managing report, `incoming/v380R/For_The_Workings.md`, at *The turn is the self's own: reflection withdrawn*, independently carries that distinction at the resolver's lines.
 
 The movie is a procedural choreography for examination. It does not establish a swimmer-to-resolver correspondence, an exact inversion angle, a learning mechanism or a number of resolver momentaries. Those are the part still to express. The captions name four views: Arriving, Flip-and-rolling, Mutual podaling and Releasing.
 
@@ -21,3 +23,5 @@ The movie is a procedural choreography for examination. It does not establish a 
 The source ZIP contains the scene, viewer, local web server, rendering scripts and bundled Three.js and DejaVu assets with their licenses. Its `README.txt` gives the steps to view, pause, examine and export the scene. The viewer needs no external network requests. Rendering uses Node.js, Playwright with Chromium and ffmpeg.
 
 The MP4 was verified as H.264, yuv420p, 1280 × 720, 30 frames per second, 360 frames and 12 seconds; its whole stream decoded without errors. Approach, somersault, foot contact, extension and departure were visually examined. These checks concern the media and its motion, not the method's rigor.
+
+**Session identity corrected, 3 October 2026:** v380A remains fixed throughout this session; v380R manages incoming value. The existing study has its corrected filename and visible session label, and the editable source carries the same identity. [The current gathering](../../../incoming/v380A/illustrating/Version_And_Workings.md) receives the new Registry round and square relations. The original choreography remains the study's geometry.

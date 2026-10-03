@@ -1,8 +1,12 @@
-# V381A · progress
+# v380A · progress
 
-**Session:** V381A illustrating, 3 October 2026.
-**Branch:** `working/illustrating-v381A`, opened from `main` at `6745d4bd1d6c3a87e89b8376e73747e0a8057b05`.
+**Session: v380A, fixed for this session.**
+
+**Session:** v380A illustrating, 3 October 2026.
+**Branch:** `working/illustrating-v380A`, continuing from received `main` at `e374aee65727ae092048b4a8683f626d0467535e`.
 **Standing:** arriving for the managing working; no living file or carrying changed by this contribution. The swimmer experiment is approved and built. The session's “continue” following the concrete origin proposal is read as agreement for a first origin study, now built with an editable seventeen-name view. The larger geometric correspondence remains to express.
+
+**Current receiving:** the earlier illustration was received through pull request 117. This session is v380A, fixed throughout. [Version_And_Workings.md](Version_And_Workings.md) gathers the latest v380L/v380R value and the identity correction for v380R. The earlier readings below are chronological.
 
 ## Readings received
 
@@ -17,9 +21,11 @@
 
 ## Done
 
-The twelve-second swimmer MP4 and editable ZIP are at the existing Natural Illustrating kit's `swimmers_v381A/`. The first origin study is at `origin_v381A/`: a fourteen-second motion through conceptual positions 1–6, with its editable viewer and seventeen-name explorer. Provenance and each part still to express are at the current kit entrance. The kit's received v366 folder remains unchanged. The prior proposal and current findings are at this incoming folder for receiving.
+The twelve-second swimmer MP4 and editable ZIP are at the existing Natural Illustrating kit's `swimmers_v380A/`. The first origin study is at `origin_v380A/`: a fourteen-second motion through conceptual positions 1–6, with its editable viewer and seventeen-name explorer. Provenance and each part still to express are at the current kit entrance. The kit's received v366 folder remains unchanged. The prior proposal and current findings are at this incoming folder for receiving.
 
 ## Verification
+
+**Current checks at the session identity correction:** both movies rendered with v380A visible, encoded labels viewed and whole streams decoded; swimmer 360 frames and twelve seconds, origin 420 frames and fourteen seconds. The source archives' names and CRCs agree; 33 relative links resolve; the kit's 91 entries cover its current files; the inherited v366 snapshot is unchanged. The turning trial's heading and identifiers use v380A, with its controls and narrow layout re-examined. [Version_And_Workings.md](Version_And_Workings.md) records the current reach. The checks below are the earlier contributions' chronological standings.
 
 The previous rendering verified H.264, 1280 × 720, 30 frames per second, 360 frames, twelve seconds and whole-stream decoding, with visual examination of the turns and contact. This contribution verifies both saved files against those originals, the ZIP contents, the whole kit's SHA256 manifest and the unchanged v366 snapshot. `origin_pairs.py` examines the proposal's arithmetic and all four name cycles, without the resolver. Repository standing and arrival checks are used for this contribution; their outputs decide no method claim.
 

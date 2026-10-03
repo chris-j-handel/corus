@@ -1,4 +1,6 @@
-# V381A · origin and seventeen names
+# v380A · origin and seventeen names
+
+**Session: v380A, fixed for this session.**
 
 **The first origin study, continued from the session's agreed proposal**
 
@@ -6,7 +8,7 @@ The session's “continue” on 3 October 2026 is read as agreement to the prece
 
 ## Examine the study
 
-The fourteen-second silent [origin movie](V381A_Origin_1_to_6_First_Study.mp4) follows `1+, 2+, 3−, 4−, 5+, 6+`, with the adjacent pairs `++ → +− → −− → −+ → ++`. A right rotation is read forward into the drawn plane. The self's surface marker stays at one screen position, and its carrying is unpictured. The moving labels express a conceptual pair; they read no living participant or resolver state.
+The fourteen-second silent [origin movie](v380A_Origin_1_to_6_First_Study.mp4) follows `1+, 2+, 3−, 4−, 5+, 6+`, with the adjacent pairs `++ → +− → −− → −+ → ++`. A right rotation is read forward into the drawn plane. The self's surface marker stays at one screen position, and its carrying is unpictured. The moving labels express a conceptual pair; they read no living participant or resolver state.
 
 The public surface's signs follow the published spiral-of-one row: +, quiet, −, quiet, +, quiet. At a quiet releasing the pulse is absent while the conceptual sequence continues. The drawing does not turn a quiet surface into a third parity.
 
@@ -33,3 +35,5 @@ Run `node serve.mjs` in this folder and open `http://127.0.0.1:3812`. The viewer
 For exporting the movie, install the optional rendering dependencies with `npm install playwright @sparticuz/chromium`, install ffmpeg, then run `node render.mjs`. Use `node render.mjs --preview` for endpoint and layout examination. Preview outputs are placed in the system temporary folder by default. The source ZIP bundles the viewer, rendering scripts and DejaVu font with its license; it contains no dependency installation or rendering runtime.
 
 The study's verification examines all four pair endpoints, the self's fixed screen position, the Next control, selecting name 17, narrow layouts, font availability, page errors and the encoded movie. These verify the artifact and the stated arithmetic, not the method's rigor or the still-open physical correspondences.
+
+**Session identity corrected, 3 October 2026:** v380A remains fixed throughout this session; v380R manages incoming value. The existing study has its corrected filename and visible session label, and the editable source carries the same identity. [The current gathering](../../../incoming/v380A/illustrating/Version_And_Workings.md) receives the new Registry round and square relations. The original choreography remains the study's geometry.
