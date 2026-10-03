@@ -6,32 +6,28 @@
 
 **Read:** `main` at ec4748b: `incoming/v380R/For_The_Workings.md`, said again whole, the resolver read as bi-coupling, its things parting and its withdrawing of one self receiving its own prior releasing; `incoming/v380R/Two_Parities_Gathered_And_Worked.md`.
 
-## The largest incohering: the cell of an arriving alike
+## The largest incohering: the rows of a changing at each call
 
-The bi-coupling is of two, the carrying and the now arriving: a prior and a now, and the carrying next from them.
+**Re-said at the session's saying.** *the carrying next comes from more than prior and now. the whole concept is that the first half of next is next possible living and this is in the bicoupling logic now in the now momentary*. This file laid the cell of an arriving alike, each 0, as the largest incohering, the carrying next read from two things, the carrying and the arriving. That reading is withdrawn. Natural Naming says the same of a momentary: *its opening, odd, the self's, is the carrying arriving … the existing; its completing, even, the other's, is the offerings arriving … the next still possible … the binary is at the completing alone*. The arriving is the next possible, in the now; and the things the next is from are three, the carrying one prior, the carrying now, and the next possible arriving.
 
-The Registry says of the sixteen ways of a next from a prior and a now that one is the living step, the method's one way: the next is the prior inverted, whatever the now.
+**The Registry's measure, its own.** *At a living thing, next arrives from prior and now*: a living thing's own prior and its own now. *Next as the prior inverted alone carries the prior whole with no joint form still*, the living step. *Next as prior leaves two joint forms still … the two parting forms a cycle of two*.
 
-Exhibit ONE's cells of a carrying at + or at −, each read beside it:
+**Exhibit ONE's rows at it, each read at its own values:**
 
-| The carrying, the prior | The arriving, the now | Exhibit ONE's carrying next | The prior inverted | |
+| Exhibit ONE's row | The carrying, call by call | The next beside the prior | Joint forms of prior and now | At each second call |
 |---|---|---|---|---|
-| + | none | − | − | one |
-| + | − | − | − | one |
-| + | + | + | − | parting |
-| − | none | + | + | one |
-| − | + | + | + | one |
-| − | − | − | + | parting |
+| A spiral of one self; two selves of alike priors | + − − + + − − + | the prior inverted, at each | four | + − + − |
+| Two selves of opposite priors; an even spiral; a self at none arriving | + − + − + − + − | the prior, at each | two | + + + + |
+| A self at its own parity arriving at each | + + + + + + + + | the prior, at each | one | + + + + |
+| A spiral of three selves, self 1 | + − + + − + − + − − + − | the prior at six, the prior inverted at four | four | + + − − − + |
 
-At none arriving and at an arriving opposite to the carrying, Exhibit ONE is the living step. At an arriving alike with the carrying it is not: the prior is carried on, Exhibit ONE's *is not*, the 0 released. A + and a − parting are at the cells of none arriving, one with it.
+**The 0 is the living step's own.** The first row is the living step at each call, and it is the row of the changing that is and the changing that is not, one and the other in sequence: the existing and the next possible, each momentary both. With no 0 the carrying is next as prior, a cycle of two. The cell of an arriving alike is no parting from the living step; it is the second of its two.
 
-And at each cell of a parity arriving, Exhibit ONE's carrying next is the arriving's own parity: the next is the now, whatever the prior. It is another of the sixteen than the living step, and one with it at an arriving opposite alone.
+**The incohering.** The rows of a changing at each call, no 0 at any, are at the Registry's own measure next as prior, the two parting forms a cycle of two, and no living step: a self at none arriving, two selves of opposite priors, and each even spiral. The Registry says of a self alone *a non-living existing form*, one with it. It says of an even spiral *each self alternates … the spiral of two the alternating itself*, and Exhibit ONE's tables carry the rows among its stable forms.
 
-**Each 0 of Exhibit ONE's tables is that one cell:** a spiral of one self, two selves of alike priors, the odd spirals' one 0 going round, the torus. Its two selves of opposite priors are at an arriving opposite at each call, + − + − at each, and are the living step at each cell and at the line of self, other, self.
+**The two sayings.** The living step is the changing that is and the changing that is not in sequence, each momentary both, and a row of a changing at each call is a cycle of two and no living form, the even spirals and two selves of opposite priors re-said at it; or a self at its other parity at each call is the alternating itself, as the Registry says of the even spiral, and the living step's measure is said at another prior and now than a self's own. Its reason: the Registry's own sentences on next as prior and on the even spiral are beside each other, and Exhibit ONE's rows are at both.
 
-**The Registry carries both.** Its living step, the one way; and its sentences on the binary at a sharing, *At a match the prior carries on, 0*, a self offered its own parity *a form named still from the offerer beside it*.
-
-**The two sayings.** The living step is the one way, and the cell of an arriving alike, each 0, is a form named still at the method's own measure; or the binary at a bi-coupling is the one way, the changing is or is not, and the Registry's living step is it at an arriving opposite and at none. Its reason: Exhibit ONE and the Registry are one at six cells of eight, and the two cells parting are each 0 of each table.
+**Beside the session's sayings.** Read at each second call, the first row is + − + −, the carrying at its other at each, and the second row + + + +: *parity always is until it is not. then parity is again*; *the state of self in the between is not measing self changing*.
 
 ## Offered at the working v380R's things parting
 
@@ -49,7 +45,7 @@ And at each cell of a parity arriving, Exhibit ONE's carrying next is the arrivi
 
 ## Withdrawn by this working
 
-At its fresh reader's reading: Exhibit ONE's line as the binary upon the living step; one meeting the cohering; a meeting the right spiral step; a fabric at two parities at the number of two spirals. At the working v380R's withdrawing: one self receiving its own prior releasing as the form, this working's *one with it* with it; and this working's living step at two placings is re-said as the largest incohering above, the prior the carrying and the now the arriving.
+At its fresh reader's reading: Exhibit ONE's line as the binary upon the living step; one meeting the cohering; a meeting the right spiral step; a fabric at two parities at the number of two spirals. At the working v380R's withdrawing: one self receiving its own prior releasing as the form, this working's *one with it* with it; this working's living step at two placings, and its cell of an arriving alike as the largest incohering, the carrying next read from the carrying and the arriving alone: each is re-said as the largest incohering above.
 
 ## Next, after this subject
 
