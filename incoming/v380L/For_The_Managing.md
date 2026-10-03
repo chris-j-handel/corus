@@ -159,5 +159,22 @@ The session offered the proving: bi-inversioning co-recursioning down the number
 
 A fresh reader built the round by hand and checked each number; its findings are mended. This working first worked the proving at a numbering of its own, each thing one place of a number at twos, and a fresh reader broke it: that numbering is at no step. At the Registry's own round the podal is one parity alone.
 
-**What it reaches, and the one thing yet said and not worked.** The three steps are of the round of joint forms: the same one inversion at each scale, down to one. That the set of all existing things goes by this round, one parity at a momentary, is said at steps 42, 45 and 170 and is worked at no case. It is the same one link as the status names, from each coupling of two to the set.
+**What it reaches, and the one thing yet said and not worked.** The three steps are of the round of joint forms: the same one inversion at each scale, down to one. That the set of all existing things goes by this round is said at steps 42, 45 and 170 and is worked at no case. This working said it *one parity at a momentary*, a wording of its own: each momentary is two parities, the part next. It is the same one link as the status names, from each coupling of two to the set.
+
+## Seventeen. Each momentary two parities, and the fourth sentence offered
+
+The session: each momentary is two parities, and an odd momentary opens at the odd parity. The Registry's own steps say it: *A momentary is an opening and its completing, one odd and one even: two parities*; *At a momentary the odd is the self and the even all other: each parity is everything the other is not in the existing universe, with nothing third.* Worked at the round, each number at one to six parities, and entered at v380l as steps 621 and 622, 622 steps in 36 groups: each momentary two numbers in sequence, one odd and one even, one parity inverted between; an odd momentary opening at the odd; the round's podal carrying each momentary to one of its own kind in the other order. A fresh reader built the round by hand; its findings are mended.
+
+**For `incoming/v380R/The_Universal_Claim.md`, its fourth question, the link from each coupling of two to the set.** The two of a momentary are the self and all other, the Registry's step: of two, the other is each thing the self is. The set is the two of each momentary. Worked at the resolver: each releasing arriving at a self surfaces as one at 14, the table of offerings surfacing, each of its rows.
+
+**For its third question and its table, a saying of the fourth offered, worked at each of the eight cells of a self carrying a parity:**
+
+*Each momentary is of two, the self's prior and all other's arriving as one: the self's next is its prior inverted and released, and at the two alike its prior carried on, 0 released.*
+
+| Carrying | Arriving none | Arriving + | Arriving − | Arriving + and − |
+|---|---|---|---|---|
+| + | is − · − | is not · + | is − · − | is − · − |
+| − | is + · + | is + · + | is not · − | is + · + |
+
+A fresh reader followed the resolver's lines by hand at each cell. Found with it: at one releasing to each, *a self two momentaries on is the releasing self's parity inverted* follows from this saying, a self releasing one parity at no two momentaries in sequence; at two releasing and differing, the two surface 0 and the self inverts, the case the fourth sentence says neither at. Found short: the prior here is the self's own, one momentary back, and the other's prior two momentaries back is its consequence and is not in it; *arriving as one* leans on the table of offerings surfacing; a carrying of none is said by neither.
 

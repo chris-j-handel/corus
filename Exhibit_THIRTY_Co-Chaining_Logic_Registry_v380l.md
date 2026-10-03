@@ -39,7 +39,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 - 33 The forms among the names
 - 34 A self and selves joined, at the resolver
 - 35 The rotation at 12 and 14, the further forms' moves of 4 about their centres, names two moves apart, the sixteen ways at one changing, and a next at itself again
-- 36 The round's podals, one parity at each scale down to one
+- 36 The round's podals and momentaries, one parity at each scale down to one
 
 ---
 
@@ -2687,9 +2687,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 
         *Adding: a next from the now and the prior at itself again at one, two, three, four or six.*
 
-## 36 The round's podals, one parity at each scale down to one
+## 36 The round's podals and momentaries, one parity at each scale down to one
 
-        *Entering: each podal of the round the parity new at its scale, inverted alone; each face of the one move one parity inverted, or two in sequence; each round two of the round under it, down to 1 and 2.*
+        *Entering: each podal of the round the parity new at its scale, inverted alone; each face of the one move one parity inverted, or two in sequence; each round two of the round under it, down to 1 and 2; each momentary of the round one odd and one even number, an odd momentary opening at the odd; the round's podal, each momentary to one of its own kind in the other order.*
 
 618. At the round of step 171, the forms of k parities at the numbers 1 to 2^k, each next number is one parity inverted, and each number's podal is the parity new at its scale, step 171, inverted alone: at 1 to 16, 17 less the fourth parity; at 1 to 8, 9 less the third; at 1 to 4, 5 less the second; at 1 to 2, 3 less the first, 1 and 2. A number's odd or even, steps 77 and 264, is its inverted parities even or odd in number.
 
@@ -2702,3 +2702,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v380l
 620. Down the numbers each round is two of the round under it, step 171: at four parities the round at three and the same forms in the other order, the fourth parity inverted at the join; at three, the round at two; at two, the round at one; at one parity, 1 and 2, one form and the same form at the other parity. At 1 and 2 the two are a coupling's two parities, steps 40 and 42, and at 1 to 16 the self's and the other's, step 172.
 
         *Adding: each round two of the round under it, down to 1 and 2.*
+
+621. At the round each momentary is two numbers in sequence, one odd and one even, step 275, their two forms one parity inverted apart. An odd momentary opens at the odd number, that number's form at an even number of parities inverted, and completes at the even; an even momentary opens at the even and completes at the odd, step 70. The odd is the self and the even all other, step 276: the forms at an even number of parities inverted are at the odd numbers, the others at the even.
+
+        *Adding: each momentary of the round one odd and one even number, an odd momentary opening at the odd.*
+
+622. The round's podal carries an odd momentary to an odd and an even to an even, in the other order, opening to completing, the momentary at the join to itself.
+
+        *Adding: the round's podal, each momentary to one of its own kind in the other order.*
