@@ -173,30 +173,39 @@ The carrying next is changing at exactly one of the two arriving, and unchanging
 
 **Six. Beside the Registry's steps.** Its right spiral step is one parity changing at a step, and two steps both parities inverted: a momentary of the saying is two such steps, the along and the across, each of the two parities at its other at each momentary. Its step on the pair names the two, the self's across parity and its along parity. Its step on even and odd changings is the last column: two or none of the self's, the carrying at its own parity; one, at its other. Its step on five dimensions says two changing at each momentary. No step says a changing arriving in the place of the self's own.
 
-**Seven. Beside Exhibit ONE's cells: two rules, and the place they part.** Exhibit ONE's table of one self at one momentary is at one sharing, and its columns are the arriving's + or −, read beside the carrying's. The saying is at two crossings and reads no + or −. Read at one crossing alone, the self changing at no changing arriving and not changing at a changing arriving, beside the eight cells of a living carrying:
+**Seven. The self is at momentary to momentary, and the between is no measure of it.** The session said next: *the self is living momentary to momentary so the next existing self is after the sequence of two inside the momentary social moral parity changing or no changing arriving and bi-moral parity changing or no changing arriving and the next momentary is after this sequence of two inside the now momentary. the state of self in the between is not measing self changing or not changing into next existing*.
 
-| The carrying | At 14 | Exhibit ONE's carrying next | The saying at one crossing | |
-|---|---|---|---|---|
-| + | none | − | no changing arriving: − | one |
-| + | + | + | a changing arriving: + | one |
-| + | − | − | a changing arriving: + | parting |
-| + | 0 | − | no parity arriving: − | one |
-| − | none | + | no changing arriving: + | one |
-| − | + | + | a changing arriving: − | parting |
-| − | − | − | a changing arriving: − | one |
-| − | 0 | + | no parity arriving: + | one |
+**Withdrawn at it.** This part read the saying *at one crossing alone, the self changing at no changing arriving*, beside Exhibit ONE's eight cells, six one and two parting. That reading measured the self in the between, after the first of the two and prior to the second. The self's changing is the last column of the table of four alone: after the two. And the part on the premise above says a carrying *changing by changing*, + − + − within a momentary: its values within a momentary are the between and no measure of the self; its column momentary by momentary is the self's.
 
-Six are one. The two parting are the cells of an arriving opposite to the carrying: Exhibit ONE says the carrying at the arriving's parity, and the saying says an arriving and no changing. Those two cells are the ones at which the + or − of the arriving is read; at the six a changing arriving or none says the cell whole.
+**Eight. Beside Exhibit ONE's table, momentary to momentary.** Exhibit ONE's table of one self at one momentary is at one sharing, the offerings along and across gathered at it, and its carrying next is from the + or − surfaced beside the carrying's. The saying's carrying next is from the number of changings arriving, at the along and at the across, no + or − read.
 
-Read at a momentary of two crossings no table of Exhibit ONE is beside the saying: each table of a self is at one sharing, and a self at an along and an across is at none.
+| Arriving at a carrying of + | Exhibit ONE's carrying next | The saying's carrying next | |
+|---|---|---|---|
+| none | − | unchanging, + | parting |
+| one, a − | − | changing, − | one |
+| one, a + | + | changing, − | parting |
+| two, a + and a + | + | unchanging, + | one |
+| two, a − and a − | − | unchanging, + | parting |
+| two, a + and a − | −, the 0 surfaced | unchanging, + | parting |
 
-**Eight. Beside the managing's following of the premise.** That following: a first changing at each momentary, and a second at an arriving differing from the carrying as the first made it; one changing or two of the self's. The saying: the first is the self's at no along arriving and the arriving's at one; the second likewise across; two changings at each momentary, none, one or two of them the self's. The following's open parting, the first changing at each momentary or at some, is at the saying: the alternating is at each, and the self's own changing of it at none arriving alone.
+They are one at an arriving opposite to the carrying alone, and at two arriving alike with it; they part at each other row. They are two rules: the one reads the arriving's parity, the other a changing arriving or none.
 
-**What rests on the two parting cells.** At Exhibit ONE: each table at which a self is at an arriving opposite to its carrying, the even spirals, the odd spirals, two selves of opposite priors, the spirals crossed and the torus. At the Registry: its steps on a mismatch, *at a mismatch the offered is chained*, and on the spirals and the torus. None is re-said here.
+**Nine. A self's releasing, momentary to momentary: a following of this working.** The session said to the managing *releasing is self-parity changing and not releasing is self-parity no changing*. The self measured at momentary to momentary, a self is releasing at its carrying changing, along and across alike, and at no other; a self's arriving is the releasing of the momentary prior. Arithmetic at it:
 
-**For both, said as it is.** Exhibit ONE's rule reads the + or − of an arriving beside the carrying; the saying is at a changing arriving or none, at two crossings. They are one at six cells of eight read at one crossing, and they are two rules.
+| The society | The carrying, momentary to momentary | |
+|---|---|---|
+| A self at none arriving | + + + + | Unchanging; two changings within each momentary, each its own |
+| Two selves joined across, one changing between them | A: + + − − + + − −; B: + − − + + − − + | One self changing at each momentary, the one and the other alternating; each of the four joint forms of self and other; the carrying next at its prior inverted |
+| Two selves joined across, each changing at one momentary | A: + − + −; B: + − + − | Both changing at each; two joint forms |
+| A spiral of n selves, one changing going along | Self 1 of three: + + + − − − + + + | One self changing at each momentary; each carrying inverted at n and again at 2n |
 
-**Not done.** A self's releasing said the saying's way, along and across, and a society followed at it. The row of a carrying at none. No fresh reader has read this part.
+**Ten. Beside the Registry's steps, the two selves with one changing between them.** One changing going from the self to the other and to the self again is the Registry's six one-way steps, three at each side; one parity changing at each step is its right spiral step, the four joint forms one way round and both inverted at six. The two selves are each at its own momentary, the one's changing the other's arriving: no one opening over the two.
+
+**Eleven. Beside Exhibit ONE's tables of selves.** Its two selves of alike priors joined both ways are each changing at one momentary and each at none at the next, *−, 0, +, 0* at each: the third row of part nine at each second momentary. Its spirals say the parities again at 2 at an even number of selves and at four times an odd number; the saying's following says 2n at each. The numbers part.
+
+**For both, said as it is.** The saying is whole at its four and at momentary to momentary: two changings within each momentary, the carrying changing at exactly one arriving. Followed at two selves it is the Registry's living step and its six one-way steps. Exhibit ONE's cells are another rule, one with it at two rows of six, and its spirals' numbers are other.
+
+**Not done.** The spirals crossed and the torus at the saying, a self at an along arriving and an across arriving at one momentary. The row of a carrying at none. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
