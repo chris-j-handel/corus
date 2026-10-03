@@ -23,6 +23,14 @@ The twelve-second swimmer MP4 and editable ZIP are at the existing Natural Illus
 
 The previous rendering verified H.264, 1280 × 720, 30 frames per second, 360 frames, twelve seconds and whole-stream decoding, with visual examination of the turns and contact. This contribution verifies both saved files against those originals, the ZIP contents, the whole kit's SHA256 manifest and the unchanged v366 snapshot. `origin_pairs.py` examines the proposal's arithmetic and all four name cycles, without the resolver. Repository standing and arrival checks are used for this contribution; their outputs decide no method claim.
 
+The contribution's first commit is shared in [pull request 117](https://github.com/chris-j-handel/corus/pull/117), at `cc06d4af9bf33d64b1ef01b1409794fba69c6fb3`. The remote tree exactly matches the checked local tree, and both uploaded binary blob hashes match the originals. The repository's Checks workflow at that commit completed successfully. Local links and whitespace checks pass; the kit's 79 manifest entries agree and cover all files except the outer manifest itself.
+
+## Further reading while sharing
+
+`main` advanced to `25881d5489670b3faf3ddb0cbcc2a1b2ccf25fed`, Natural Resolver v380f and the Co-Chaining Logic Registry v380d; the Registry working advanced to `272d99e62fcae962241586b0c192e8c4b3b0daa8`. Read: the managing's newest report on v380e, v380f and its six-part plan for Natural Naming; the Registry working's newest report for the managing and its whole gathering for Natural Numbers, Natural Mathematics and Natural Intelligence; the Registry's new group 34; Natural Resolver's current relevant tables and headers. The resolver code is unchanged from the v380d code read at this session's opening.
+
+Received: step 609 now places the four consecutive-pair forms at a spiral of one, distinct from a lone self with nothing offered. The table opens with −, and its releasings +, 0, −, 0 give successive completions +, +, −, −. The proposal's plus phase thus has a specific arithmetic correspondence to examine, without assigning its positions to resolver names or representing private carrying. Step 611 distinguishes one quiet momentary at a spiral from up to two at a torus. The managing's Natural Naming plan remains offered; the living file is still v379. The new findings are shared in this contribution's final section.
+
 ## Next in this session
 
 Agree the first 1–17 illustration's hope with the session before building it: 1 and 2, the inversions at 3 and 4, the complete four transitions at 6, and the accompanied stationary screen view. Follow further changes at the managing and Registry branches while working, bringing only current findings back. The correspondence between this origin, a meeting and the six-connector face remains the next geometric relation to express.

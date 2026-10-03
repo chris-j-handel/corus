@@ -6,6 +6,8 @@
 **What it brings:** the approved swimmer motion study placed in the illustration kit; each self's own turn made visually traceable; a six-position origin proposal for the return to 1–17; a precise place for an overlay's failing requirement; the unresolved correspondences left explicit, with the evidence beside each in [Illustrating_Findings.md](Illustrating_Findings.md).
 **Standing:** arriving on `working/illustrating-v381A`, offered for the managing working's receiving. The swimmer study is built and checked. The 1–17 animation is proposed and has not been built; the session asked for agreement about what it should express before beginning it.
 
+**Subsequent reading:** `main` at `25881d5489670b3faf3ddb0cbcc2a1b2ccf25fed`, Natural Resolver v380f and the Co-Chaining Logic Registry v380d; `working/v380L` at `272d99e62fcae962241586b0c192e8c4b3b0daa8`. The new step 609 provides a concrete correspondence for the four-form sequence at a spiral of one, while the meeting correspondence remains open. The findings' final section and Progress receive these changes. Shared as [pull request 117](https://github.com/chris-j-handel/corus/pull/117).
+
 [The kit entrance](../../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/START_HERE.md) introduces the movie and editable source. [Progress](Progress.md) records readings and checks. [The arithmetic instrument](origin_pairs.py) examines only the proposed binary sequence and name cycles, and does not execute the resolver or inspect a living self.
 
 ## Offered standing for the Living File Registry's table of workings
