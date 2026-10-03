@@ -151,7 +151,7 @@ Each of the five sentences that are the claim is said. Each thing worked at each
 
 ## Sixteen. The proving down the numbers, worked and entered
 
-The session offered the proving: bi-inversioning co-recursioning down the numbers, through the universe, the other and the self, to one and its other parity. Worked at the Registry's own round, step 171, each number at one to six parities, and entered at v380l as steps 618 to 620:
+The session offered the proving: bi-inversioning co-recursioning down the numbers, through the universe, the other and the self, to one and its other parity. Worked at the Registry's own round, step 171, each number listed at one to four parities and at five and six from the rule itself, and entered at v380l as steps 618 to 620:
 
 - **Each next number is one parity inverted, and each podal is the parity new at its scale, inverted alone:** 17 less the fourth, 9 less the third, 5 less the second, 3 less the first, 1 and 2.
 - **Each face of the one move is one parity inverted, or two in sequence:** 8 up is the third and the fourth, 9 less and 17 less in sequence.
@@ -163,7 +163,7 @@ A fresh reader built the round by hand and checked each number; its findings are
 
 ## Seventeen. Each momentary two parities, and the fourth sentence offered
 
-The session: each momentary is two parities, and an odd momentary opens at the odd parity. The Registry's own steps say it: *A momentary is an opening and its completing, one odd and one even: two parities*; *At a momentary the odd is the self and the even all other: each parity is everything the other is not in the existing universe, with nothing third.* Worked at the round, each number at one to six parities, and entered at v380l as steps 621 and 622, 622 steps in 36 groups: each momentary two numbers in sequence, one odd and one even, one parity inverted between; an odd momentary opening at the odd; the round's podal carrying each momentary to one of its own kind in the other order. A fresh reader built the round by hand; its findings are mended.
+The session: each momentary is two parities, and an odd momentary opens at the odd parity. The Registry's own steps say it: *A momentary is an opening and its completing, one odd and one even: two parities*; *At a momentary the odd is the self and the even all other: each parity is everything the other is not in the existing universe, with nothing third.* Worked at the round, each number listed at one to four parities and at five and six from the rule itself, and entered at v380l as steps 621 and 622, 622 steps in 36 groups: each momentary two numbers in sequence, one odd and one even, one parity inverted between; an odd momentary opening at the odd; the round's podal carrying each momentary to one of its own kind in the other order. A fresh reader built the round by hand; its findings are mended.
 
 **For `incoming/v380R/The_Universal_Claim.md`, its fourth question, the link from each coupling of two to the set.** The two of a momentary are the self and all other, the Registry's step: of two, the other is each thing the self is. The set is the two of each momentary. Worked at the resolver: each releasing arriving at a self surfaces as one at 14, the table of offerings surfacing, each of its rows.
 
@@ -177,4 +177,20 @@ The session: each momentary is two parities, and an odd momentary opens at the o
 | − | is + · + | is + · + | is not · − | is + · + |
 
 A fresh reader followed the resolver's lines by hand at each cell. Found with it: at one releasing to each, *a self two momentaries on is the releasing self's parity inverted* follows from this saying, a self releasing one parity at no two momentaries in sequence; at two releasing and differing, the two surface 0 and the self inverts, the case the fourth sentence says neither at. Found short: the prior here is the self's own, one momentary back, and the other's prior two momentaries back is its consequence and is not in it; *arriving as one* leans on the table of offerings surfacing; a carrying of none is said by neither.
+
+## Eighteen. Worked, concerns and ideas laid in the working v380R's file on the claim
+
+At the welcome of `incoming/v380R/The_Universal_Claim.md`: a row at its table of sayings of the fourth sentence, and a part headed *From the working v380L*. A fresh reader read both to break them, each quote at its file and the round listed by hand at four parities; twenty-two findings, each mended in place.
+
+**What the reading mended, each bearing on this folder too.**
+
+- The saying offered of the fourth sentence is at one sharing; at nothing arriving its two is the self's prior alone; the fourth sentence follows from it at one releasing to each with each self at a parity and none arriving from beyond, and at no other opening. A self offered its own parity from beyond at its first momentary releases 0, and the self it releases to is two momentaries on at its own first parity.
+- The round is listed at one to four parities; five and six are from the rule itself. 8 up as two parities is at four parities, within 1 to 8; at five parities 8 up at 9 to 16 is the third and fifth.
+- 8 up carrying each momentary in its own order is at no step of the Registry. The hand, step 140, to a momentary's order is said and unworked.
+- 17 as the next 1 is the round of four parities joined back, step 176; at five parities 17 is two parities from 1, step 177.
+- *The living step* is one name at two measures: Natural Intelligence's at one momentary, prior into now; the Registry's steps 57 and 617 at two.
+- *Colliding* is a table's title alone at each file: the parting is a title beside sentences.
+- The Registry is this working's own file: quoting it is no second voice.
+
+**The round at Exhibit ONE, an idea worked at four parities.** One table of the sixteen names, each at its form, and beside it the parities inverted by 17 less, by 9 less within 1 to 8 and by 8 up within 1 to 8: each face of the one move one parity inverted, or two in sequence. Parities inverted at each number: 1 none; 2 the first; 3 the first and second; 4 the second; 5 the second and third; 6 the first, second and third; 7 the first and third; 8 the third; 9 to 16 the same in the other order, 16 to 9, each with the fourth.
 
