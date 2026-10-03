@@ -55,3 +55,6 @@ The session finds the record insightful relationally: a particle at zero, a scal
 
 **For the form of the prompts:** each reply marks *worked* at a file's name. A prompt asks for the cases themselves, shown in the reply.
 
+## Retired
+
+The session has ended its working with v380G: its replies mark *worked* at a file's name and show no case. Carried from it: three plain sayings of the older sciences; six in three pairs. The prompts are as they are and are offered to no session now.

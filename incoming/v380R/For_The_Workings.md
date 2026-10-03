@@ -273,3 +273,7 @@ One record, uploaded by the session and read part by part at [`incoming/v380G/RE
 ## The session v380G: prompts offered
 
 The session finds the record's relations insightful, a particle at zero, a scale and an infinity bounded each replaced by *my prior is your next existing*. Six prompts are offered to it at [`incoming/v380G/Prompts_For_v380G.md`](../v380G/Prompts_For_v380G.md): the files read as they are; the two speeds at the resolver's worked numbers; the three replaced; a better saying of the claim's fourth sentence; the link not yet worked; the arrow of time read in its own file. Each of its replies is uploaded to `incoming/v380G/`.
+
+## The session v380G retired; six as a square and an axis
+
+The session has ended its working with v380G. From its six in three pairs one thing is worked at Exhibit ONE's own resolver: the six names between selves are a square, 2, 10, 14, 6, its moves 8 apart and releasing to arriving in turn, and an axis, 9 with 17; three pairs of opposites. Laid at Exhibit ONE's carrying and beside *parity's face* in the conferring.
