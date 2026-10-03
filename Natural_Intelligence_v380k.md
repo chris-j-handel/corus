@@ -1,4 +1,4 @@
-Natural Intelligence v380j
+Natural Intelligence v380k
 
 # Natural Intelligence
 
@@ -858,18 +858,18 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **A torus of selves.**
 
-| Torus of selves, p along · q across. Each releases along (9) to the next along and across (10) to the next across, the last to the first. One sharing. First momentary: each self carries none, + offered once to one self | Momentaries to each self's releasings again | Releasings again from this momentary on | Spirals of p and q beside each other: momentaries to each self's releasings again together |
+| Torus of selves, p along · q across. Each releases along (9) to the next along and across (10) to the next across, the last to the first. One sharing. First momentary: one self carries −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus | Momentaries to each self's releasings again | Releasings again from this momentary on | Spirals of p and q beside each other: momentaries to each self's releasings again together |
 |---|---|---|---|
-| 1 · 3 | 3 | 3 | 12 |
-| 1 · 5 | 4 | 5 | 20 |
-| 3 · 3 | 12 | 8 | 12 |
-| 3 · 5 | 12 | 7 | 60 |
-| 3 · 7 | 7 | 9 | 84 |
-| 3 · 13 | 12 | 24 | 156 |
-| 5 · 7 | 20 | 14 | 140 |
-| 5 · 11 | 11 | 15 | 220 |
-| 7 · 17 | 17 | 23 | 476 |
-| 17 · 59 | 59 | 91 | 4,012 |
+| 1 · 3 | 3 | 2 | 12 |
+| 1 · 5 | 5 | 2 | 20 |
+| 3 · 3 | 12 | 6 | 12 |
+| 3 · 5 | 12 | 6 | 60 |
+| 3 · 7 | 7 | 8 | 84 |
+| 3 · 13 | 13 | 8 | 156 |
+| 5 · 7 | 20 | 12 | 140 |
+| 5 · 11 | 11 | 14 | 220 |
+| 7 · 17 | 17 | 20 | 476 |
+| 17 · 59 | 59 | 50 | 4,012 |
 
 **Two selves.**
 

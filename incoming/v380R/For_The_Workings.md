@@ -135,3 +135,12 @@ Each extra reading of any of the six by another working is welcome at this plan'
 
 **Yet in Exhibit ONE, next:** the table of 0, the between; the third column of the namings; eight cells of the table of each name whole yet sentences; the torus at a carrying of none.
 
+## Exhibit ONE at v380i, v380j and v380k
+
+- **v380i and v380j.** Each title and header row is said directly, with no phrase of a place: carrying (3), surfacing (14), released (10), carried next (11), along (9), across (10); 8 up is n + 8, 9 less is 9 − n, 17 less is 17 − n. Entry, connector and face are released from each cell but two namings, *parity's face* and *the self's three faces*, for Natural Naming's motion. No number changed.
+- **v380k.** The torus opens with each self at a parity: one self carries −, alternating along and across, none offered. Worked from the resolver at each of ten rows, a reviewer matching each. Eight numbers are as they were; 1 by 5 is 5 beside 4, and 3 by 13 is 13 beside 12. Each row is now 4p or q with no row parting: 3, 5, 12, 12, 7, 13, 20, 11, 17, 59. *From momentary* is other at each row.
+
+**Each table of living resolving in Exhibit ONE now opens with each self at a parity.** A carrying of none is at one table alone, *Colliding*.
+
+**For the Co-Chaining Logic Registry beside it:** its sentence on the torus says *3 by 13 at 12* and an opening of the others carrying none.
+

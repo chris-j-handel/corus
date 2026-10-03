@@ -2205,3 +2205,5 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 **At Exhibit ONE · Natural Resolver, v380i, at the working v380R.** Seven titles and eighteen header rows are said directly, each the name's own word with its number and no phrase of a place. A fresh reader met no data row changed.
 
 **At Exhibit ONE · Natural Resolver, v380j, at the working v380R.** Nine headers are said plainly; entry, face outward and face inward are released from fifteen cells of the table of each name at three scales, and connector and face from the first column of 0, the between. No connector and no *at the code* is in the file beyond the resolver's own lists; *parity's face* and *the self's three faces*, two namings, are as they are for Natural Naming's motion.
+
+**At Exhibit ONE · Natural Resolver, v380k, at the working v380R.** The torus opens with each self at a parity, worked from the resolver, a reviewer matching each of ten rows. Eight numbers are as they were; 1 by 5 is 5 and 3 by 13 is 13. Each table of living resolving now opens with each self at a parity.
