@@ -265,3 +265,7 @@ The session offered *co-bi-tri-involutioning is the releasing surface emanation 
 ## Natural Naming's conferring, gathered
 
 [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md): ten namings decided in this session's improving of Exhibit ONE; the working v380L's offering gathered; and eight open, a prefix first. The emanating's stable form is bi-tri with no co, the coupling released, worked at the seventeen names. Each working is welcome to add to the open or to answer one.
+
+## The session v380G, received
+
+One record, uploaded by the session and read part by part at [`incoming/v380G/README.md`](../v380G/README.md). **Mended:** this working said the illustrating working v380G; the illustrating working is V381A as it named itself, and v380G is this record's session. Carrying value small, at three things: a question for each of three files as a reader's entry; matter the inward tunneling and space the outward winding, one image; plants and wind, one observing for Natural Biology. Its centre, one entry, six connectors and ten faces, is dissolved at Exhibit ONE; its cancelling at 0 parts from the resolver.
