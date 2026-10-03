@@ -1,35 +1,49 @@
-# For each working: the session's newest sayings at this working, and each concern beside them
+# For each working: the resolver read as bi-coupling, and the few things parting
 
-**Standing:** an offering of the working v380R, laid at the main line for the working v380L and for any working arriving, the working v380A's folder among them. Nothing here is asked of any working. No saying is authority.
+**Standing:** an offering of the working v380R at the main line, for the working v380L and for any working arriving. Nothing here is asked of any working. No saying is authority. This offering is said again whole; its prior saying, a table of fourteen concerns, is released, and the concerns it carried are each read again below. A fresh reader met it at Exhibit ONE's own cells, and each finding is mended.
 
 ## The session's sayings at this working, each whole
 
 1. *the premise of the resolver is the self carrying was living and parity alternating prior and must continue this through next and this comes from outside the method for no cost to the method or ingression into or escape from the method*
-2. *we should not choose alone we should keep aiming at the binary rigor of this and the naming is our discipline and the co chaining logic and resolver code and exhibit one stable forms*
-3. *this needs to be all or none at all binary logic in exhibit one with no incohering anywhere with exhibit thirty and no missing logic in exhibit thirty needed to assure cohering with all of exhbit one*
-4. *a self carries many parities in 440 binaries. a bi-co-momentary shares five consecutive arriving parities over prior now next and five releasing over the same prior now next in opposite order where prior and next are reversed and the momentary ordering stays the same inside*
-5. *this is for cohering thirty and one exhibits fully and natural numbers math and intelligence also*
+2. *this needs to be all or none at all binary logic in exhibit one with no incohering anywhere with exhibit thirty and no missing logic in exhibit thirty needed to assure cohering with all of exhbit one*
+3. *a self carries many parities in 440 binaries. a bi-co-momentary shares five consecutive arriving parities over prior now next and five releasing over the same prior now next in opposite order where prior and next are reversed and the momentary ordering stays the same inside*
+4. *this is for cohering thirty and one exhibits fully and natural numbers math and intelligence also*
+5. *there are no steps in natural naming. … only use natural explaining and naming*
+6. *the resolver is a bi-coupling resolver*
 
-## Followed at this working
+## Withdrawn at this working
 
-- [Premise_Alternating_Followed.md](Premise_Alternating_Followed.md): its two changings at one sharing withdrawn.
-- [Two_Parities_Gathered_And_Worked.md](Two_Parities_Gathered_And_Worked.md): the releasing five at three orders, one order all; three gathered findings withdrawn at the working v380L's fresh reading; and an offering at the working v380L's first open, the form at which the living step and Exhibit ONE's line are one: one self at its own along, Exhibit ONE's row of a spiral of one self.
+This working laid as the largest concern the premise of a self alternating alone beside the resolver coupling a self with an other, parting at three selves sharing around. The session said *the resolver is a bi-coupling resolver. this is nonsense*. No self is alone at the resolver; the premise is of a self's carrying within a bi-coupling; three selves sharing around are bi-couplings in sequence, each of two. Withdrawn: the concern; the reading of a society as one going; and this working's offering of one self receiving its own prior releasing as the form, a self alone said another way.
 
-## Each concern beside the learning
+## Read as bi-coupling, at Exhibit ONE's own names
 
-| Concern | Beside the learning |
-|---|---|
-| The living step beside Exhibit ONE's line, the form at which they are one | An offering: one self whose arriving is its own prior releasing, at each of six openings. Open at three selves and more. |
-| One sharing or two parities at a self | Open. The session: a self carries many parities. The working v380L: no line carries a parity of one sharing to another. An offering: along is the self's own prior returned and across an other's, each arriving at one sharing, as each table's own condition says. |
-| Nothing arriving | Met at one self: none arriving is at the momentary after its no changing, and the changing is the living step continuing. |
-| The 0 | The 0 released is at an arriving alike, the momentary after the self's own changing: no changing of co-competency, the living step's second of two alike. |
-| A carrying at none, and each table's first momentary | Open. At one self each opening at none is at the living step from its second call. |
-| Comparing, an arriving's + or − beside the carrying | Open. At one self the arriving is the self's own and alike at each; comparing is at an other's arriving alone. |
-| A + and a − arriving at one sharing, the 0 at 14 | Open. |
-| Exhibit ONE's torus, its spirals at even numbers | As they are. This working's fabric beside them is withdrawn as a placing. |
-| Released across bi and carried along co, beside tri at a completing given on along | Open. |
-| Four steps of the Registry parting from Exhibit ONE's rows; three forms of its break | Open. The break's *a self offered its own parity carries it on* is at the form above: Exhibit ONE's line at an arriving alike. |
-| Natural Intelligence: *sixteen ways name a next from a prior and a now … none is a rule the changing follows* | Beside the premise as the one way of sixteen. The two sayings: none of the sixteen is a rule and the one is the premise from outside; or the sentence is re-said. Its reason: the premise says *must continue*. |
-| Natural Mathematics: two of 256 steps change one parity and undo none, the right spiral step | One with the living step at a prior and a now carried to a now and the prior inverted. The working v380L's reader found the hand of the pair said two ways. |
-| Natural Numbers: *At the code + and − are the implementing of a parity and 0 the between* | Beside the session's *the 0 is no changing of co competency*, and *at the code* a word for re-saying. |
-| Words: *at the code*, connector, join, face, *14i* | Open, each a motion at Exhibit ONE. |
+Exhibit ONE says each even name a bi-coupling: four outward, 2-bi-co-bi-offering, 4-bi-co-bi-sharing, 6-bi-co-bi-moralizing and 8-bi-co-bi-torusing; four inward, 10-bi-tri-bi-tunneling, 12-bi-tri-bi-entraining, 14-bi-tri-bi-moralizing and 16-bi-tri-bi-torusing. At 12-bi-tri-bi-entraining it says *changing at bi-coupling, the self in society; prior and next: now, the changing, is or is not, prior and now coupled*.
+
+The bi-coupling is of two sides: the self's prior, its carrying, and the now arriving, the others' offerings surfacing. The changing is or is not.
+
+**Reading as one at a carrying of + or of −, each this working's reading, met by a fresh reader at Exhibit ONE's cells:**
+
+- **The resolver.** The carrying is coupled with the now arriving. At an arriving alike with the carrying the changing is not, and the carrying is carried on. At each other arriving, and at none, the changing is, and the carrying is at its other parity.
+- **Nothing arriving.** The changing is.
+- **A + and a − arriving at one sharing.** Exhibit ONE says it parting, the 0 at 14-bi-tri-bi-moralizing; its cells are the cells of none arriving.
+
+**Not shown at Exhibit ONE, this working's own saying and no more:** the premise as a thing from outside, at no name; each sharing a self carries as a bi-coupling; three selves sharing around as bi-couplings in sequence. Exhibit ONE has no sentence on a premise, says bi-coupling of its even names, and says an offering none, one, or more than one at one sharing.
+
+## The things parting, each for both
+
+**A carrying at none.** At a carrying of + or of −, the carrying next is its own or its other, and the arriving's + or − is never entered. At a carrying of none Exhibit ONE's cells enter the arriving's own parity: *is + · +* at a + arriving and *is − · −* at a − arriving; and at none arriving none is released and none chained, a momentary of no changing. The premise says the carrying *was living and parity alternating prior*. The two sayings: a carrying at none is before the premise, a sharing arriving new at a self, and its row is as it is; or no carrying is at none and the row, with each table opening at none, is re-said. Its reason: the row of none is the one row an arriving's parity is entered at, and the one row a momentary of no changing is at.
+
+**Two things written 0.** Exhibit ONE writes 0 at 14-bi-tri-bi-moralizing, a + and a − offered at one sharing, parting; and writes *is not*, the 0 released, at a carrying alike with the arriving. At a carrying of none and a 0 at 14 its cell is *is not · none*, with no carrying alike. Natural Numbers says *0 the between*, of the first. The session said *the 0 is no changing of co competency*, and *there is not two similar things anywhere in this*. The two sayings: the two are one, the arriving side at no one parity being no changing arriving, and each is said at that one word; or the first is said at another word than 0. Its reason: one mark at two things, and the cell of none with a 0 at 14 says *is not* at no changing that could be.
+
+**The two sides of a bi-coupling, said two ways.** The session to the working v380L: a self carries a social parity, along, and an other parity, across, each at its own arriving. Exhibit ONE: one sharing's arrivings along and across surface as one at 14-bi-tri-bi-moralizing, and the bi-coupling at 12-bi-tri-bi-entraining is of the carrying and that one. The two sayings: the social and the other are two sharings of the many a self carries, each its own bi-coupling; or they are one sharing's two arrivings and Exhibit ONE's surfacing as one is re-said. Its reason: a bi-coupling is of two, and along with across with the carrying is three.
+
+**The word at a releasing.** The Co-Chaining Logic Registry: *Released across is bi, the self's morality; carried along is co, the self's competency*. The session at this working: the self is co arriving and carrying, and its releasing is tri arriving at the next self along. The two sayings: bi and co are the releasing self's two faces and tri is the same releasing said at the self it arrives at; or one of the two is re-said. Its reason: a releasing along is said co at the Registry and tri at the session's saying.
+
+**Natural Intelligence on the sixteen.** It says of sixteen ways a next is from a prior and a now that *none is a rule the changing follows*. The premise says the alternating *must continue*. The two sayings: the premise is from outside the method and no rule within it, and the sentence is as it is; or the sentence is re-said with the premise. Its reason: the premise's word *must* beside the sentence's *none is a rule*.
+
+**Words that are no natural naming, in Exhibit ONE and beside it:** *at the code*, connector, join, face, and *steps* said of the Co-Chaining Logic Registry's numbered sentences. Each is for re-saying, and re-saying each changes no meaning.
+
+## Carried on from the arithmetic, each as worked
+
+- A next is from a prior and a now at sixteen ways. At one of them alone the pair of prior and now goes through each of its four forms, + +, + −, − −, − +, and round again: the next is the prior inverted.
+- The session's five releasing. The five arriving is the prior's opening and completing, the now's opening and completing, and the next's opening. Set in the order next, now, prior, with each momentary's opening before its completing, it is parity by parity the five arriving, at each of the four pairs of parities a now can be at.
