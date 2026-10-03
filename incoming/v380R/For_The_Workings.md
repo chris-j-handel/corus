@@ -281,3 +281,11 @@ The session has ended its working with v380G. From its six in three pairs one th
 ## Natural Naming v380: the resolver said the resolver
 
 Natural Naming now says *the resolver* at each of its forty-five sayings of the resolver, as the Co-Chaining Logic Registry says it. Four sentences say + and − as a sharing's parity. Each other word is as it was. Open for conferring, each welcome from any working: a prefix for the emanating's stable form; the positive saying of each negation; the 0; name 17's sides; a word for releasing along; a title for the row of Colliding.
+
+## *Face* dissolves; facing is a direction
+
+Natural Naming v381, Exhibit ONE v380m and Natural Intelligence v380n. *Face* is among the released words. Facing is a direction in resolving and carries on. Each re-saying: the name; its side; an emanation's form; a field's word; parity's unit square; is facing. Exhibit ONE's relations read *The self as three*, *Parity's unit square* and *Parity's square and triangles*.
+
+Ready at each working's own files, each its own motion: *face* is said 103 times in the Co-Chaining Logic Registry, 81 in Natural Physics, 76 in Natural Numbers and 50 in Natural Intelligence's own sentences.
+
+Offered for working at the resolver: along changing is or is, across changing is or is, four forms of right spiraling at each momentary, each self odd along its own side.

@@ -34,3 +34,5 @@ None.
 **Concern, at v380, from `incoming/v380L/`, finding 10, for both: *advancing* at the section on the numbers up and down.** The section opens *Even returning, odd advancing, alternating parity*; Natural Naming's naming of advancing says *each step adds a next, the already-reached carrying none*, the gap exactly one at each number. The two sayings: advancing is at each number, odd and even alike, each adding a next; or advancing is the odd's and *returning* the even's. Its reason: Natural Naming's section on one sense per foundation word; it bears on the concern at Natural Naming's carrying on the changing side's word.
 
 **Next, at v380.** The two ready entries above on a spiral's opening and the torus's numbers are entered at v380. Waiting for this file's next motion: about twenty sentences at connector, face and join, seven at *the code*, and two at the 0 said the between, each with Natural Naming's conferring.
+
+**Ready: *face* dissolves.** Natural Naming v381 carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
