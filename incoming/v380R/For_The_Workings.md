@@ -248,3 +248,13 @@ Worked at each of its cases: the fourth at each coupling of two selves and each 
 ## The universal claim, living for each working
 
 The claim, its four sentences, each case worked and each link not yet worked are at [The_Universal_Claim.md](The_Universal_Claim.md). It is open to each working for examining and questioning, and for a better saying of its fourth sentence, *Of two, the next is the other's prior inverted*. Worked new: at two releasing to one self and alike in parity, the self two momentaries on is that parity inverted at each opening of five toruses, 939,320 of 939,320; at the two differing, the fourth sentence says neither.
+
+## Two more files brought to Exhibit ONE's living rows
+
+- **Natural Intelligence v380m.** Nineteen of its own sentences re-said to Exhibit ONE's tables as they are: one self carrying −; a spiral and a torus with each self at a parity; 3 by 13 at 13; two crossed spirals from momentary 119; the diagram with no marks; each table pointed at by its title. A reviewer worked each from the resolver. No other sentence changed.
+- **Natural Numbers v380.** Two sentences of its part on coupling: a spiral with each self carrying a parity, and a torus at q at a q past the waist 2p and at 4p at a q short of it. Worked from the resolver at each of 84 odd pairs to thirteen by twenty-nine, none parting.
+
+**Yet quoting rows Exhibit ONE no more shows:** Natural Naming, five sentences, waiting for its conferring; Resolving Hard Problems, three, each said of a self carrying none and true of colliding; the Equilibria Registry, four with its pointers by line; Natural Illustrating, two, untouched.
+
+**The Co-Chaining Logic Registry** is at 620 sentences in 36 groups, the working v380L's proving down the numbers entered.
+

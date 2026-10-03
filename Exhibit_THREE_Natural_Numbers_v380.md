@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v379
+Exhibit THREE Natural Numbers v380
 
 # Natural Numbers
 
@@ -354,7 +354,7 @@ Exhibit THREE Natural Numbers v379
 
 ## 7.2 A spiral of selves at each number, and spirals joined
 
-**A spiral of n selves, each 9-tri-bi-co-momentarying joined to the next self and the last to the first, one self offered + once, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries from momentary n; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
+**A spiral of n selves, each 9-tri-bi-co-momentarying joined to the next self and the last to the first, each self carrying a parity, alternating along, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries; at an odd spiral of n one pair of joined selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral each self alternating puts one self at both parities, a not possible form, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the code's joining of selves winds on.
 
 **The spiral of two, the one even prime, carries no pair at one parity**: each self alternating, its parities again each two momentaries, the alternating itself. The seventeen prime spirals carry sixteen like pairs, one at each odd prime, and the spiral of two none.
 
@@ -362,7 +362,7 @@ Exhibit THREE Natural Numbers v379
 
 **The momentaries here are 17's, the society's next momentary running each self's entry once**, each release offered at the next, and each number goes with its spiral and its joins. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at the least common multiple of 4p and 4q, the four shared: at 4pq. The co-competencing is at the couplings, owned by neither.
 
-**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-bi-tunneling, p the smaller of the two, from one offering at one self comes to its parities again at q at a q whose station on the ring of 4p is past the waist 2p, and at 4p at a q whose station is short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 12, thirteen at one on the ring of twelve, short; 3 by 19 at 19, nineteen at seven, past; 5 by 21 at 20, twenty-one at one on the ring of twenty; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
+**Spirals crossing spirals at each self are a torus of selves, and its parities again are the waist read at the podaling.** A torus of p selves along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-bi-tunneling, p the smaller of the two, with each self carrying a parity, alternating along and across, comes to its parities again at q at a q past the waist 2p, and at 4p at a q short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 13, thirteen past six; 3 by 19 at 19, nineteen past six; 5 by 21 at 21, twenty-one past ten; 13 by 15 at 52, fifteen short of twenty-six; 17 by 59 at 59, fifty-nine past thirty-four. Each odd pair to thirteen by twenty-nine at the code, and seventeen by fifty-nine, at the relation, sharing a factor or none; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
 
 ## 7.3 Sixteen gaps at four values
 
