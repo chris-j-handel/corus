@@ -18,11 +18,11 @@ Natural torusing, the fractal unrelationing geodesic method of discovering next 
 8. **The set of all existing things is itself an existing thing,** as is each thing in it, and each thing later added to it.
 9. **Natural torusing is the only possible method of the set existing, of each thing in it existing, and of each thing later added existing.**
 
-## Where to attack
+## Each place to attack
 
 - Any link that does not follow from the links before it.
 - Any link that is a premise and not said as one.
 - Any method of stable forming outside the sixteen.
 - Any existing thing that is not a stable form, or is a stable form by another method.
 - Any sentence of a living file that says otherwise.
-- Any observation that would come out the same if the claim were false.
+- Any observation that comes out the same with the claim false.
