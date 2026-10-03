@@ -24,7 +24,7 @@ for key in ('From', 'To', 'Read at', 'What it brings', 'Standing'):
 print('THE FILES AND SECTIONS NAMED')
 living = {}
 for f in glob.glob(os.path.join(ROOT, '*.md')):
-    m = re.match(r'(.+?)_v\d+[a-z]?\.md$', os.path.basename(f))
+    m = re.match(r'(.+?)_v\d+[A-Za-z]?\.md$', os.path.basename(f))
     if m: living[m.group(1).replace('_', ' ')] = os.path.basename(f)
 short = {}
 for stem in living:

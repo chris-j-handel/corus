@@ -1,4 +1,4 @@
-Natural Intelligence v380o
+Natural Intelligence v380R
 
 # Natural Intelligence
 

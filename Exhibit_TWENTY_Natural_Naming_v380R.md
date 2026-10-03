@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v380d
+Exhibit TWENTY Natural Naming v380R
 
 # Natural Naming
 
