@@ -1044,7 +1044,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380d
 
         *Adding: three windings.*
 
-230. Selves joined along at 9, the last to the first, are a spiral: each step adds a next, and the selves come to their parities again and to a momentary once. At an odd number of selves, from an opening of one self at a parity and the others carrying none, step 212, the parities come again at four times the number, and each opening its own: an all-alike opening of three chains at 4, and the openings of nine at 4, 12 or 36.
+230. Selves joined along at 9, the last to the first, are a spiral: each step adds a next, and the selves come to their parities again and to a momentary once. At an odd number of selves, from an opening of each self at a parity alternating along, the last and the first alike, nothing offered, the parities come again at four times the number, an opening of one self at a parity and the others carrying none, step 212, coming to the same pattern, and each opening its own: an all-alike opening of three chains at 4, and the openings of nine at 4, 12 or 36.
 
         *Adding: spiral, parities again at 4n.*
 
@@ -1052,7 +1052,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380d
 
         *Adding: the bounded zero tunneling.*
 
-232. At an even spiral, from an opening of one self at a parity and the others carrying none, each self alternates, its parities again at each second momentary, the spiral of two the alternating itself, and spirals joined carry the parity of their joined number.
+232. At an even spiral, from an opening of each self at a parity alternating along, each self alternates, its parities again at each second momentary, the spiral of two the alternating itself, and spirals joined carry the parity of their joined number.
 
         *Adding: the even spiral, spirals joined.*
 
@@ -1096,7 +1096,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380d
 
         *Adding: even and odd rings.*
 
-243. Selves at p along and q across, each joined along at 9 and across at 10, are the torus at the code, p the smaller: they come to their parities again at q, q's station on the ring of 4p past its waist 2p, and at 4p, its station before the waist, and the momentary of their parities again divides 4p or 4q; 3 by 13 at 12, 5 by 13 at 13, 13 by 15 at 52.
+243. Selves at p along and q across, each joined along at 9 and across at 10, are the torus at the code, p the smaller: from an opening of one self at a parity and the others carrying none, they come to their parities again at q, q's station on the ring of 4p past its waist 2p, and at 4p, its station before the waist, and the momentary of their parities again divides 4p or 4q; 3 by 13 at 12, 5 by 13 at 13, 13 by 15 at 52.
 
         *Adding: the torus at its parities again at a divisor of 4p or 4q.*
 

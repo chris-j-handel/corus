@@ -19,10 +19,9 @@ Exhibit TWENTY-SIX Living File Registry · carrying v379
 
 **Ready, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 22, for the kit: one list of released words at two places.** `rigorize.py` carries its own short list at its line 29 while `reader_checks.py` reads `released_words.txt`; Natural Illustrating v379 passed the rigorizer with a hundred and twenty-one uses the reader checks found. One list read by both, at the kit's motion.
 
-**Ready, at v380, from `incoming/v380L/`, for the table of workings: this working's row.** *The working v380L, beside v380R and v380A | v380 | The Co-Chaining Logic Registry; Exhibit ONE's tables and the resolver's lines followed, each finding at its folder and its entries at the carryings | `working/v380L` | Open; its folder `incoming/v380L/`.*
-
 **Ready, from `incoming/v380A/`, for the table of workings.** Offered row: *v380A — Natural Networking — current living files received; the earlier complete duplicate, proposed exhibit and kit corrections, preserved prior passages and session report available at the incoming; own offerings and concerns at the receiving carryings; the next living-file motion follows the managing's aiming; no motion yet offered as ready.* The published networking kit is unchanged. The managing places the row; no registry sentence is changed by this working.
 
+**Ready, at v380, from `incoming/v380L/`, for the table of workings: this working's row.** *The working v380L, beside v380R and v380A | v380 | The Co-Chaining Logic Registry; Exhibit ONE's tables and the resolver's lines followed, each finding at its folder and its entries at the carryings | `working/v380L` | Open; its folder `incoming/v380L/`.*
 
 ## Concern
 
