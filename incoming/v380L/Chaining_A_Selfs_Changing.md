@@ -262,9 +262,28 @@ Each of the four is the code's own lines, the fourth with them. The two parities
 - **An along sharing at along arrivings alone, and an across sharing at across alone.** The code releases each sharing's changing along and across alike, at 6, at 10 and at 9, and a sharing offered at a self not carrying it enters that self's carrying. No line gives one sharing to the along and another to the across.
 - **A self carrying two sharings is at no table of Exhibit ONE.** Each table is at one sharing: one of the two parities alone.
 
-**For both, said as it is.** The saying of two parities at a self, each changed or not at its own arriving, in sequence, is the code's lines at a carrying of two sharings at one call, each of its four rows. Two things are not found: a sharing that is the along's and another the across's, and the 0 between the two. Exhibit ONE's tables are each at one of the two.
+**Fifteen. A fabric, each crossing two parities: looked for at the code, concern by concern.** The session said next: *parity in stretching fabric is balancing geodesic along and across. every living crossing in this is a two parity momentary and the two are unrelationing each other when they are orthogonal. this needs to be the resolving method so keep looking for a concern about this. the carrying is always two consecutive parity changing or no changings always odd even odd or even odd even*
 
-**Not done.** A society at selves each carrying two sharings. The other tables read beside the code line by line. No fresh reader has read this part.
+Read at the code's lines, nothing executed. Three things are one with it, and four are concerns.
+
+**One with it.**
+
+- **The two are unrelationing each other.** At two carried sharings the code reads neither beside the other: each is at its own surfacing and its own two lines.
+- **The sequence of the two makes no differing.** The carried sharings are met in the list's sequence, and the surfacing at a sharing is the same at each sequence of its arrivings; the carrying next is the same along first or across first.
+- **Always odd even odd, or even odd even.** Each of the seventeen names is three words of three numbers in sequence: co-bi-co, tri-bi-tri, co-bi-tri and tri-bi-co at the odd names, bi-co-bi and bi-tri-bi at the even. The carrying is 3-co-bi-co-sharing and its chained next 11-tri-bi-tri-chaining.
+
+**The concerns, the one resting the most on it first.**
+
+1. **Along and across carry the same releasing.** The code gives a self's whole list of changings to each of its three, 6, 10 and 9; the line at 6 is the list at 10 itself. No parity is released along alone and none across alone. The saying: the self's first parity meets the along arriving and its second the across. At a fabric by the code as it is, a self's along parity is at the arrivings from its along neighbour and from its across neighbour alike, and its across parity the same.
+2. **A crossing at one parity, at two, or at any number.** The code's carrying is a list of any length; each table of Exhibit ONE, its torus of selves joined along at 9 and across at 10 among them, is at one sharing, each crossing at one parity. The saying: each living crossing at two, at each momentary.
+3. **A sharing arriving at a self not carrying it enters its carrying.** The code's 12 opens as each surfaced sharing, carried or not. Releasings going along and across alike, a sharing spreads to each joined self; two sharings named once for a whole fabric are at each self, and a sharing named at each thread or at each coupling is at each self it reaches, more than two.
+4. **Along and across arrivings at one sharing surface as one.** A + and a + are a +; a + and a − are the 0; the sequence makes no differing. It is the code's one place an along arriving and an across arriving are beside each other. The two sayings: it is the saying's *balancing geodesic along and across*, two arriving parities and the 0 between them; or it is a gathering at one sharing, and the balancing is at the self's two carried parities.
+
+**What rests on the first.** With each parity released at its own, the along at 9 and the across at 6 and 10, a self's two parities are each at its own arriving alone, the saying's four rows at each crossing, and the third concern is at none: a sharing reaches no self beside its own thread. As the code is, each of a fabric's two sharings is a torus of its own at one sharing, the two never beside each other, each surfacing its along and across arrivings as one.
+
+**For both, said as it is.** The saying of two parities at a self, each changed or not at its own arriving, is the code's lines at a carrying of two sharings. The fabric of the saying and the code part at one place: the code releases each changing along and across alike. Exhibit ONE's tables are each at one parity at a crossing.
+
+**Not done.** A fabric followed at either saying. The other tables read beside the code line by line. No fresh reader has read this part.
 
 ## The words at nothing arriving, deciding nothing
 
