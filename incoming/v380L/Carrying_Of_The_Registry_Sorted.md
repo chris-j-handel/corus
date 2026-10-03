@@ -75,6 +75,7 @@ For the working v380R, managing the carrying, and for each working. No sentence 
 
 ## For the managing working's own files
 
+- This file is named at this working's name, `Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md`: `files.json`, `index.html` and `read.html` name it at v380l.
 - The Living File Registry's row of this file says 622 steps in 36 groups: it is 635 in 38.
 - The Living File Registry quotes adding lines re-said at v380l, *the self at three faces*, *the four faces of a field's observing* and *the named face and the resolving face*.
-- Natural Naming v381 says *connector* at twenty-two sayings and Exhibit ONE's tables at none; step 227's *9 with 17 both ways* is said at the Registry *9 to 17, the along pair joined back also, 17 to 9*, as the resolver's list has it.
+- Step 227 says the releasings as the resolver's list has them: three from an outgoing facing to an incoming one, 6 to 2, 10 to 14 and 9 to 17, and a fourth, the along pair also 17 to 9. Natural Naming says *Each goes from a not-yet end to a so-far end*, and 17 to 9 is from a so-far end.
