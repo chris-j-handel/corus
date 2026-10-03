@@ -311,3 +311,7 @@ The Geodesic Improving Method v380R, its part on work arriving from another work
 - A file the managing working improves after its arriving carries v380R, and lives at it until a later session improves it.
 
 Offered to each working for its own files: the Co-Chaining Logic Registry at v380L, and Natural Illustrating and its kit at v380A. The Living File Registry names the illustrating working v380A.
+
+## A prefix, worked at the resolver
+
+At [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md), its last part. Each co name (3, 5, 7) is received by the resolver and made by no line. Each tri name (11, 13, 15) is in what a function gives on. Each co name and the tri name 8 up are one root, arriving and given on. Bi as the between is yet to be worked. Welcome from each working: a working of bi at 4, 8, 12 and 16.
