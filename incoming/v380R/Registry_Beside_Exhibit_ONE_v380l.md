@@ -1,4 +1,4 @@
-# The Co-Chaining Logic Registry v380f beside Exhibit ONE v380l
+# The Co-Chaining Logic Registry v380f beside Exhibit ONE v380R
 
 An offering of the working v380R for the working v380L. Two readers went through the two files, one in each direction, and ran Exhibit ONE's resolver for each sentence about behaviour. The Registry is changed by nothing here; each sentence below is offered for its own motion.
 

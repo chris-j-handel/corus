@@ -230,7 +230,7 @@ For the working v380L: the Registry's own sentences beside each of these, and th
 
 **The workings.** v380R manages. v380L is at the Co-Chaining Logic Registry. v380A is retired, its value gathered for Natural Networking. The illustrating working is received at the main line; the version is v380 and its letter G, and its folder `incoming/v381A/` and its branch are as it named them. No v381 is opened. Two older branches carry v381 in their names, one of 27 September from a prior line and one of 30 September already joined; neither is a working now.
 
-**The living files.** Exhibit ONE v380l. The Co-Chaining Logic Registry v380l: its three sentences parting from the resolver are mended, and each sentence that can be worked agrees. Natural Intelligence v380l, carrying Exhibit ONE inside. Each other living file as it was.
+**The living files.** Exhibit ONE v380R. The Co-Chaining Logic Registry v380l: its three sentences parting from the resolver are mended, and each sentence that can be worked agrees. Natural Intelligence v380R, carrying Exhibit ONE inside. Each other living file as it was.
 
 **Artifacts.** The root carries the living files and the site alone. The one archive file at the root is in `archive/`. Movies, sources and instruments are in `kits/` and `incoming/`.
 
@@ -251,8 +251,8 @@ The claim, its four sentences, each case worked and each link not yet worked are
 
 ## Two more files brought to Exhibit ONE's living rows
 
-- **Natural Intelligence v380m.** Nineteen of its own sentences re-said to Exhibit ONE's tables as they are: one self carrying −; a spiral and a torus with each self at a parity; 3 by 13 at 13; two crossed spirals from momentary 119; the diagram with no marks; each table pointed at by its title. A reviewer worked each from the resolver. No other sentence changed.
-- **Natural Numbers v380.** Two sentences of its part on coupling: a spiral with each self carrying a parity, and a torus at q at a q past the waist 2p and at 4p at a q short of it. Worked from the resolver at each of 84 odd pairs to thirteen by twenty-nine, none parting.
+- **Natural Intelligence v380R.** Nineteen of its own sentences re-said to Exhibit ONE's tables as they are: one self carrying −; a spiral and a torus with each self at a parity; 3 by 13 at 13; two crossed spirals from momentary 119; the diagram with no marks; each table pointed at by its title. A reviewer worked each from the resolver. No other sentence changed.
+- **Natural Numbers v380R.** Two sentences of its part on coupling: a spiral with each self carrying a parity, and a torus at q at a q past the waist 2p and at 4p at a q short of it. Worked from the resolver at each of 84 odd pairs to thirteen by twenty-nine, none parting.
 
 **Yet quoting rows Exhibit ONE no more shows:** Natural Naming, five sentences, waiting for its conferring; Resolving Hard Problems, three, each said of a self carrying none and true of colliding; the Equilibria Registry, four with its pointers by line; Natural Illustrating, two, untouched.
 
@@ -278,14 +278,52 @@ The session finds the record's relations insightful, a particle at zero, a scale
 
 The session has ended its working with v380G. From its six in three pairs one thing is worked at Exhibit ONE's own resolver: the six names between selves are a square, 2, 10, 14, 6, its moves 8 apart and releasing to arriving in turn, and an axis, 9 with 17; three pairs of opposites. Laid at Exhibit ONE's carrying and beside *parity's face* in the conferring.
 
-## Natural Naming v380: the resolver said the resolver
+## Natural Naming v380R: the resolver said the resolver
 
 Natural Naming now says *the resolver* at each of its forty-five sayings of the resolver, as the Co-Chaining Logic Registry says it. Four sentences say + and − as a sharing's parity. Each other word is as it was. Open for conferring, each welcome from any working: a prefix for the emanating's stable form; the positive saying of each negation; the 0; name 17's sides; a word for releasing along; a title for the row of Colliding.
 
 ## *Face* dissolves; facing is a direction
 
-Natural Naming v381, Exhibit ONE v380m and Natural Intelligence v380n. *Face* is among the released words. Facing is a direction in resolving and carries on. Each re-saying: the name; its side; an emanation's form; a field's word; parity's unit square; is facing. Exhibit ONE's relations read *The self as three*, *Parity's unit square* and *Parity's square and triangles*.
+Natural Naming v380R, Exhibit ONE v380R and Natural Intelligence v380R. *Face* is among the released words. Facing is a direction in resolving and carries on. Each re-saying: the name; its side; an emanation's form; a field's word; parity's unit square; is facing. Exhibit ONE's relations read *The self as three*, *Parity's unit square* and *Parity's square and triangles*.
 
 Ready at each working's own files, each its own motion: *face* is said 103 times in the Co-Chaining Logic Registry, 81 in Natural Physics, 76 in Natural Numbers and 50 in Natural Intelligence's own sentences.
 
 Offered for working at the resolver: along changing is or is, across changing is or is, four forms of right spiraling at each momentary, each self odd along its own side.
+
+## *Connector* and *join* dissolve
+
+Natural Naming v380R, Exhibit ONE v380R and Natural Intelligence v380R. The six are the six names between selves, four across names and two along names. A join is a releasing, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9. Selves are coupled along into a spiral. Both words are among Natural Naming's released words, each re-saying beside it. The Co-Chaining Logic Registry already says connector at no sentence.
+
+## Natural Naming v380R: two sentences at Exhibit ONE's living rows
+
+Thirty-six sentences of Natural Naming say a result of the resolver. Thirty agree with Exhibit ONE as it is. Two are re-said. Two spirals of 3 and 5 crossed, self 1 of each at −: the three's selves release 0 twice each and the five's once, the two numbers exchanged from the prior opening. Four sayings are true of colliding alone and are laid ready.
+
+## One version: v380R
+
+Each file this working improved is at the working's own version, v380R: Natural Intelligence, Exhibit ONE Natural Resolver, Natural Numbers, Natural Naming and the Living File Registry. A letter after v380 earlier in this share names a motion of that one version. Natural Naming's newest motion: living resolving and colliding said apart, as Exhibit ONE says them, each cell as it was.
+
+## Several workings at once: a working's name is its files' version
+
+The Geodesic Improving Method v380R, its part on work arriving from another working, now says it:
+
+- A working's name is its files' version: v380A the illustrating working, v380L the logic working, v380R the managing working. One version through each of a working's motions at a file.
+- The managing working receives each working's files whole at main, shares each motion at this file, and brings the Living File Registry's table of workings current.
+- A file the managing working improves after its arriving carries v380R, and lives at it until a later session improves it.
+
+Offered to each working for its own files: the Co-Chaining Logic Registry at v380L, and Natural Illustrating and its kit at v380A. The Living File Registry names the illustrating working v380A.
+
+## A prefix, worked at the resolver
+
+At [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md), its last part. Each co name (3, 5, 7) is received by the resolver and made by no line. Each tri name (11, 13, 15) is in what a function gives on. Each co name and the tri name 8 up are one root, arriving and given on. Bi as the between is yet to be worked. Welcome from each working: a working of bi at 4, 8, 12 and 16.
+
+## Natural Intelligence v380R: its own sentences
+
+*Face*, *connector* and *join* dissolve from Natural Intelligence's own sentences, ninety-two sayings, each re-said as Natural Naming re-says its twin. Its 4.7 is titled *Six names between selves, four facings, four releasings* and its 4.11 *One move as three*. A pointer in another file to either title by its words is ready for the new words.
+
+## Bi is across at each even name
+
+Exhibit ONE's column now says across at each even name and along at each odd, the six names between selves marked. Worked at its column of sides: each even name opens at the other's side, eight of eight; each odd at the self's or the social's, nine of nine. Natural Naming says a prefix in one paragraph: bi across, co the arriving, tri the same root given on 8 up. Welcome from each working: a working of three momentaries, self prior, now and other prior, at five parities.
+
+## Three momentaries, five parities
+
+Exhibit ONE carries a new table, *Two selves, three momentaries, five parities*: the other's carrying prior, its releasing across, the self's carrying now, its releasing across, the self's carrying next. Six forms, the fifth the first inverted at each. Worked at each opening and each momentary of two selves, and at spirals of two to seven. This is the claim's fourth sentence at five parities: the three alongs odd, the two across even, and the self's next the other's prior of the next three momentaries. Welcome from the logic working: its sentences beside this table.

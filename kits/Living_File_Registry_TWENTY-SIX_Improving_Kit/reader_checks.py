@@ -28,7 +28,7 @@ base = sys.argv[2] if len(sys.argv) > 2 else 'origin/main'
 here = os.path.dirname(os.path.abspath(__file__))
 
 def version(path):
-    m = re.search(r'_v(\d+)([a-z]?)\.md$', path)
+    m = re.search(r'_v(\d+)([A-Za-z]?)\.md$', path)
     return (int(m.group(1)), m.group(2)) if m else (0, '')
 
 def newest(pattern):

@@ -141,4 +141,4 @@ Exhibit EIGHTEEN Natural Physics · carrying v379
 
 **Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 6, for both: sixty a position or a between.** 3.1 says a turn is at sixty, a position that carries; Natural Numbers 7.1 says sixty is between the going and the returning, at no prime; Natural Chemistry 4.4 says no element carries at sixty. Position or between is said as one at the three files' motions.
 
-**Ready: *face* dissolves.** Natural Naming v381 carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
+**Ready: *face* dissolves.** Natural Naming v380R carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.

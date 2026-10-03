@@ -6,7 +6,7 @@
 **Branch:** `working/illustrating-v380A`, continuing from received `main` at `e374aee65727ae092048b4a8683f626d0467535e`.
 **Standing:** arriving for the managing working; no living file or carrying changed by this contribution. The swimmer experiment is approved and built. The session's “continue” following the concrete origin proposal is read as agreement for a first origin study, now built with an editable seventeen-name view. The larger geometric correspondence remains to express.
 
-**Current receiving:** the earlier illustration was received through pull request 117. This session is v380A, fixed throughout. [Version_And_Workings.md](Version_And_Workings.md) gathers the latest v380L/v380R value and the identity correction for v380R. The earlier readings below are chronological.
+**Current receiving:** the earlier illustration was received through pull request 117. This session is v380A, fixed throughout. [Concept_And_Consistency.md](Concept_And_Consistency.md) receives main 3000d4e and v380L 3b8f620, packs the continuity study as concept work and offers passage-level improving for Natural Illustrating. [Version_And_Workings.md](Version_And_Workings.md) retains the prior reading and identity correction. The earlier readings below are chronological.
 
 ## Readings received
 
@@ -72,3 +72,21 @@ Examined: intermediate path, same point-set with a changed marked point at one, 
 ## The next receiving while sharing the identity correction
 
 Main 42a1ed9 is received without conflicts; v380L 3b8f620 is read for v380R to receive. Its Registry remains v380l at 627 numbered sentences in 37 groups, the new receiving one momentary at a time; the managing's newest ONE reads parity's unit square and parity's square and triangles. [The current gathering](Version_And_Workings.md) says each relation at its source and standing. This session remains v380A, fixed throughout.
+
+## Concept packed and the exhibit compared, v380A
+
+The session asks to pack the continuity study and says illustrating is too undeveloped for more than concept work. The conversational source is preserved unchanged at the kit's `continuity_v380A/`, with a standalone view, editable fragment, export script and README. No further motion or larger geometry is built. The kit entrance carries that concept standing.
+
+Main `3000d4ee1a9e3d0a2ac15cf2e57ddc8e206b0a9f` is received without conflicts. v380L remains at `3b8f620ccc0829f3df8973ff9e2ed8fdc3dff0fc`. Read: Natural Illustrating's contents, method and teaching sections and its carrying; ONE's code, current names and relation tables, one-momentary, one-self, spiral, two-self and carrying-none tables; Natural Intelligence's prior/now/next, five dimensions, sharing, resolving and carrying passages; Natural Naming's current prefix and parity explanations, released words and golden rectangles; the Registry's groups 36 and 37; the latest managing share and v380L's parts eighteen and nineteen, with its earlier withdrawal; relevant Natural Explaining and Geodesic Improving Method passages.
+
+[Concept_And_Consistency.md](Concept_And_Consistency.md) offers the current twelve cases with their two openings, the older exhibit passages to receive and the still-missing derivations. The central illustrating aim agrees. ONE's current names and living openings are not yet received whole in Illustrating. The next teaching opportunity proposed for agreement is one releasing received at one momentary and its quiet case, with each living carrying unpictured. The earlier five-point meeting correspondence is not revived by the abstract pair's arithmetic.
+
+The exported concept's six endpoints, Back and bounds, fixed self marker and widths 736, 360 and 320 were checked. Its dark narrow view was inspected. There are no page errors or network requests; the wrapper's three unused icon and tooltip imports were removed. The fragment agrees byte for byte with the conversational source. The export script refreshes that embedded source. The refreshed kit manifest covers 95 files except the outer manifest itself; 116 relative links were examined; the inherited v366 snapshot is unchanged. Repository standing and arrival instruments report their findings, and the two arrival arithmetic scripts run without a resolver. These checks concern packaging and abstract arithmetic, and establish no teaching result or universal claim.
+
+Before sharing, main advanced to `3e29d6083899fc68cf8b79a83da2250be3f0c3f8`. Received whole: Natural Intelligence's own re-saying of face, connector and join; the resolver said at the resolver; bi across at each even and along at each odd in ONE's direction column; and **Two selves, three momentaries, five parities**, its six forms. The new managing share, conferring and table are read. The consistency report is brought to that checkpoint. The earlier viewer and ZIP retain their recorded direction-column snapshot, now stated explicitly at the origin README; no movie or new geometry is made from this receiving.
+
+For the new five's header, a hand-derived case is offered back: A and B each carrying +, coupled both ways, A offered its own + from beyond at the first momentary, gives **(+, 0, −, +, +)** at the five's reading. The fifth is alike with the first. This is a case outside the preceding two-self table's no-external-offering opening, and an opportunity to carry that opening explicitly into the new header. It is derived from the declared twelve-cell cases and next-momentary receiving, with no resolver execution.
+
+The static reader instrument finds the Registry's 627 and 37 agreeing with its registry row, and returns word occurrences in reports and inherited files for reading, with no step pointer parting named. Those seats decide no case. The concept's source and controls have no further change after their export examination.
+
+Offered to v380R through the existing pull request 118, with specific ready and concern wording for Natural Illustrating's next motion. The earlier networking handoff is preserved; its text below the current illustrating note is unchanged. The managing's front, record, registry and other workings' meanings are not authored here.

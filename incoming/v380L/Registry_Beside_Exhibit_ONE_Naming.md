@@ -17,7 +17,9 @@ No name of the seventeen is written at the Registry at another number, prefix or
 
 ## Waiting on the dissolving of connector, face, facing and join
 
-The working v380R's plan dissolves the four words at each sentence of Natural Naming. The Registry says them at these steps; none is re-said yet, the words to say in their place being Natural Naming's to carry first.
+**At v380l, the namings of the names re-said.** Connector, the four facings, the joins of the six and the ten faces are said in Exhibit ONE's words at eighteen steps, 175, 177, 178, 197, 216, 221, 224, 226, 227, 228, 249, 250, 252, 253, 419, 481, 491 and 520: between selves, across and along; within one self; arriving, releasing and along; before 10 and after 10. The Registry says *connector* at no step. Yet as they were: *parity's face* at 100, 103, 106 and 249 and *the self at three faces* at 221's adding line, each at the conferring's sixth open; *face* said of two or three of one thing at some thirty steps, Natural Naming's to carry first; *joined* said of selves, as Natural Intelligence says it; the eight at 254, four outward and four inward. The table under this is the Registry before the re-saying.
+
+The working v380R's plan dissolves the four words at each sentence of Natural Naming. The Registry says them at these steps; none was re-said, the words to say in their place being Natural Naming's to carry first.
 
 | The word | Steps leaning on it, the step whole about it | Steps saying it beside another thing |
 |---|---|---|

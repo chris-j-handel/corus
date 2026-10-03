@@ -1,8 +1,16 @@
-# v380A · illustrating, swimmers and the return to 1–17
+# v380A · illustrating concepts, kit and current receiving
 
 **Session: v380A, fixed for this session.**
 
-**Current reading and receiving:** [Version_And_Workings.md](Version_And_Workings.md) receives v380L through 3b8f620 and v380R/main through 42a1ed9. The Registry's successive round and the managing's square and along pair offer more concrete teaching relations. v380R manages all incoming value.
+**Current reading and receiving:** [Concept_And_Consistency.md](Concept_And_Consistency.md) receives main 3e29d60 and v380L 3b8f620. The continuity study is packed as concept work. The central illustrating aim agrees with the recent method; the older table openings and names need receiving, and the meeting's geometric correspondence remains open. v380R manages all incoming value. [Version_And_Workings.md](Version_And_Workings.md) retains the prior checkpoint.
+
+**From:** the v380A illustrating session, at its request to pack the concept and examine Natural Illustrating's agreement with the newer work.
+**To:** Natural Illustrating 1.1–1.7, 2.1–2.8, 3.3, 4.2, 4.9 and 8.3–9.2; the ONE and THIRTY workings; Natural Naming's conferring; v380R for receiving.
+**Read at:** main `3e29d6083899fc68cf8b79a83da2250be3f0c3f8` and v380L `3b8f620ccc0829f3df8973ff9e2ed8fdc3dff0fc`. ONE, Natural Intelligence, Natural Naming and the Geodesic Improving Method v380R; Natural Illustrating v379 and its carrying; the Registry v380l, groups 36–37; Natural Explaining v378. The report says the exact sections compared.
+**What it brings:** the continuity study preserved with editable source and standalone view as concept work; current cases beside older exhibit passages; specific opportunities for receiving, numbering correspondence, own turning and teaching.
+**Standing:** offered on `working/illustrating-v380A` for v380R. Concept packaging complete; illustrating too undeveloped for more than concept work. No new movie, full geometry, living exhibit or carrying authored here.
+
+## Earlier opening and studies
 
 **From:** the v380A illustrating session, 3 October 2026.
 **To:** Natural Illustrating, 4.9 and 2.1–2.8; Natural Resolver's stable forms; the Co-Chaining Logic Registry, 6, 20 and 33; Natural Naming, 5.5 and 5.48; the Equilibria Registry, 2.1–2.2.

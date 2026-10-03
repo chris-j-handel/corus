@@ -35,4 +35,4 @@ None.
 
 **Next, at v380.** The two ready entries above on a spiral's opening and the torus's numbers are entered at v380. Waiting for this file's next motion: about twenty sentences at connector, face and join, seven at *the code*, and two at the 0 said the between, each with Natural Naming's conferring.
 
-**Ready: *face* dissolves.** Natural Naming v381 carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.
+**Ready: *face* dissolves.** Natural Naming v380R carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion.

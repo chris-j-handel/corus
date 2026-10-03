@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v380m
+Exhibit ONE Natural Resolver v380R
 
 # Natural Resolver
 
@@ -103,25 +103,25 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Seventeen names.**
 
-| n | Name | Parity, opening prefix | Sides, the opening side first | Across or along |
+| n | Name | Parity, opening prefix | Sides, the opening side first | Across at each even, along at each odd; the six names between selves |
 |---|---|---|---|---|
-| 1 | 1-co-bi-tri-offering | odd, co | self, other | — |
-| 2 | 2-bi-co-bi-offering | even, bi | other, self | across |
-| 3 | 3-co-bi-co-sharing | odd, co | self, other | — |
-| 4 | 4-bi-co-bi-sharing | even, bi | other, self | — |
-| 5 | 5-co-bi-co-competencing | odd, co | self, other | — |
-| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | across |
-| 7 | 7-co-bi-co-corusing | odd, co | self, other | — |
-| 8 | 8-bi-co-bi-torusing | even, bi | other, self | — |
-| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | along |
-| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | across |
-| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | — |
-| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | — |
-| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | — |
-| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | across |
-| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | — |
-| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | — |
-| 17 | 17-co-bi-tri-offering | odd, co | social, self | along |
+| 1 | 1-co-bi-tri-offering | odd, co | self, other | along |
+| 2 | 2-bi-co-bi-offering | even, bi | other, self | across, between selves |
+| 3 | 3-co-bi-co-sharing | odd, co | self, other | along |
+| 4 | 4-bi-co-bi-sharing | even, bi | other, self | across |
+| 5 | 5-co-bi-co-competencing | odd, co | self, other | along |
+| 6 | 6-bi-co-bi-moralizing | even, bi | other, self | across, between selves |
+| 7 | 7-co-bi-co-corusing | odd, co | self, other | along |
+| 8 | 8-bi-co-bi-torusing | even, bi | other, self | across |
+| 9 | 9-tri-bi-co-momentarying | odd, tri | social, other, self | along, between selves |
+| 10 | 10-bi-tri-bi-tunneling | even, bi | other, social, self | across, between selves |
+| 11 | 11-tri-bi-tri-chaining | odd, tri | social, other, self | along |
+| 12 | 12-bi-tri-bi-entraining | even, bi | other, social, self | across |
+| 13 | 13-tri-bi-tri-competencing | odd, tri | social, other | along |
+| 14 | 14-bi-tri-bi-moralizing | even, bi | other, social | across, between selves |
+| 15 | 15-tri-bi-tri-corusing | odd, tri | social, other | along |
+| 16 | 16-bi-tri-bi-torusing | even, bi | other, social | across |
+| 17 | 17-co-bi-tri-offering | odd, co | social, self | along, between selves |
 
 **Each name and its relations.**
 
@@ -163,7 +163,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 2 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again |
 | 2 | Bi-coupling | outward, at the between, each other's releasing, offered to the self |
 | 2 | Winding | the other's winding, 6 to 2, wound on at 8 |
-| 2 | Parity's unit square | a dot of the unit square, its diagonal with 14 the facing bi-moral-so-far, its edge with 6 the join 6 to 2 |
+| 2 | Parity's unit square | a dot of the unit square, its diagonal with 14 the facing bi-moral-so-far, its edge with 6 the releasing 6 to 2 |
 | 2 | Prior and next | the others' releasings of their prior momentary, arriving now, the possible, carrying none of the prior |
 | 2 | 1 to 17s inward and outward | 1–17s inward 9 of the 1st, along, odd, tri, and at the 1–17 outward within 1 to 2 |
 | 3 | Name | **3-co-bi-co-sharing** |
@@ -219,7 +219,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 5 | Eight-cycle | 1-9-5-13-4-12-8-16 |
 | 5 | Momentaries of exchanging | the second of the self's four completing at 5, the other's 4–5, and the third opening at 5, self 5–6 |
 | 5 | Five dimensions | 5 self next, the next opening of the self's five |
-| 5 | Namings | 5, co-competencing, the joins, owned by neither, each release to its receiving sharing |
+| 5 | Namings | 5, co-competencing, the releasings, owned by neither, each release to its receiving sharing |
 | 5 | The self as three | the invisible intelligencing method, the rotation 3, 6, 5, 4, out at 5 |
 | 5 | In and out at its parity | torusing, odd, through the large opening, the tunnel, bi-exchanging with a particular other |
 | 5 | Prior and next | next, each release to its receiving sharing |
@@ -243,7 +243,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 6 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again |
 | 6 | Bi-coupling | outward, at the between, the other's moralizing to the self, each changing released across |
 | 6 | Winding | the other's winding, 6 to 2, wound on at 8 |
-| 6 | Parity's unit square | a dot of the unit square, its diagonal with 10 the facing not-yet-bi-moral, its edge with 2 the join 6 to 2 |
+| 6 | Parity's unit square | a dot of the unit square, its diagonal with 10 the facing not-yet-bi-moral, its edge with 2 the releasing 6 to 2 |
 | 6 | Prior and next | the changing released, the other's next offering at its 2 |
 | 6 | 1 to 17s inward and outward | 1–17s inward 9 of the 3rd, along, odd, tri, and at the 1–17 outward within 1 to 2 |
 | 7 | Name | **7-co-bi-co-corusing** |
@@ -300,7 +300,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 9 | Momentaries of exchanging | the fourth of the self's four completing at 9, the other's 8–9, and the first of the society's four, 9 to 11, opening at 9 |
 | 9 | In and out at its parity | torusing, odd, through the large opening, the tunnel, bi-exchanging with a particular other |
 | 9 | Winding | the self's winding, 9 to 17, wound on at 17 |
-| 9 | Parity's square and triangles | a unit triangle, along, joined both ways with 17 |
+| 9 | Parity's square and triangles | a unit triangle, along, 9 to 17 and 17 to 9 |
 | 9 | Prior and next | the next prior, each changing carried along into the next momentary, releasing nothing |
 | 9 | 1 to 17s inward and outward | 1–17s inward 17 of the 4th and 1 of the 5th, along, odd, co, and at the 1–17 outward 2, across, even, bi |
 | 10 | Name | **10-bi-tri-bi-tunneling** |
@@ -318,7 +318,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 10 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again |
 | 10 | Bi-coupling | inward, 8 up, the self among other-selves |
 | 10 | Winding | the society's winding, 10 to 14, wound on at 16 |
-| 10 | Parity's unit square | a dot of the unit square, its diagonal with 6 the facing not-yet-bi-moral, its edge with 14 the join 10 to 14 |
+| 10 | Parity's unit square | a dot of the unit square, its diagonal with 6 the facing not-yet-bi-moral, its edge with 14 the releasing 10 to 14 |
 | 10 | Prior and next | the changing released across now, the other's offering next, the possible |
 | 10 | 1 to 17s inward and outward | 1–17s inward 9 of the 5th, along, odd, tri, and at the 1–17 outward within 2 to 3 |
 | 11 | Name | **11-tri-bi-tri-chaining** |
@@ -382,7 +382,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 14 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again |
 | 14 | Bi-coupling | inward, 8 up, the offerings surfacing, the self's own inverting, morality |
 | 14 | Winding | the society's winding, 10 to 14, wound on at 16 |
-| 14 | Parity's unit square | a dot of the unit square, its diagonal with 2 the facing bi-moral-so-far, its edge with 10 the join 10 to 14 |
+| 14 | Parity's unit square | a dot of the unit square, its diagonal with 2 the facing bi-moral-so-far, its edge with 10 the releasing 10 to 14 |
 | 14 | Prior and next | now, the offerings surfacing, the others' prior momentary at the self's now |
 | 14 | 1 to 17s inward and outward | 1–17s inward 9 of the 7th, along, odd, tri, and at the 1–17 outward within 2 to 3 |
 | 15 | Name | **15-tri-bi-tri-corusing** |
@@ -423,7 +423,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | Momentaries of exchanging | the fourth of the society's four, 15 to 17, completing at 17, the next 1 |
 | 17 | In and out at its parity | torusing, odd, through the large opening, the tunnel, bi-exchanging with a particular other |
 | 17 | Winding | the self's winding, 9 to 17, wound on at 17 |
-| 17 | Parity's square and triangles | a unit triangle, along, joined both ways with 9 |
+| 17 | Parity's square and triangles | a unit triangle, along, 17 to 9 and 9 to 17 |
 | 17 | Prior and next | the society's next momentary, the next now, each self's 1 then 9 at 6, 10 and 9 |
 | 17 | 1 to 17s inward and outward | 1–17s inward 17 of the 8th and 1 of the 9th, along, odd, co, and at the 1–17 outward 3, odd, co |
 
@@ -448,23 +448,23 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 |---|---|---|
 | 1-co-bi-tri-offering · 2-bi-co-bi-offering | bi-momentarying | the self's entry, odd, and the others' offerings, even, one momentary at each side |
 | 3-co-bi-co-sharing · 4-bi-co-bi-sharing | co-intelligencing | at each sharing 4 the carrying at 3 couples with the offerings surfaced at 14: next discovered, chained at 11 |
-| 5-co-bi-co-competencing | co-competencing | the joins, owned by neither: each release to its receiving sharing |
+| 5-co-bi-co-competencing | co-competencing | the releasings, owned by neither: each release to its receiving sharing |
 | 1 · 2 · 3 · 4 · 5, each alone | the five dimensions | 1 self prior, the self, the one living carrying, its prior at 3 a formed set it carries into now; 2 other prior, the other selves' offerings of their prior momentary arriving, released at 6 and 10 and carried along at 9; 3 co-momentarying now, the same living carrying at now, and 4 bi-momentarying now, each sharing, the offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
 | 6-bi-co-bi-moralizing | bi-moralizing | each changing released across, to the other's 2 |
 | 12-bi-tri-bi-entraining | entraining, the shape of the unrelationing surface | the prior carried into now along the unrelationing path through the between, prior and now coupled at each sharing, a parity changing alone crossing it, 0 at a match; at the other parity, 0 or none, the chained parity inverted; at a sharing chained none, the parity surfaced at 14; its changing released at 10, the others' offering next |
 | 1 to 9 | bi-coupling | the function 1, at the names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, the self and the other at one coupling; 1 to 9 the bi-coupling among the names, 9 at its end reads bi-co-releasing, the release 10 makes |
-| 1 to 17 | bi-trupling | the function 17, at the names of the function 1 with 5, 6, 8, 9, 13, 16 and 17, the self, the other and the society; 9 at its waist, 9-tri-bi-co-momentarying, joined both ways with 17; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
+| 1 to 17 | bi-trupling | the function 17, at the names of the function 1 with 5, 6, 8, 9, 13, 16 and 17, the self, the other and the society; 9 at its waist, 9-tri-bi-co-momentarying, along, 9 to 17 and 17 to 9; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
-| 2 · 6 · 14 · 10 · 9 · 17 | parity's square and triangles | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across joins, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, joined both ways |
+| 2 · 6 · 14 · 10 · 9 · 17 | parity's square and triangles | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across releasings, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, 9 to 17 and 17 to 9 |
 
 **0, the between.**
 
 | The between, 0 | Names |
 |---|---|
-| the one between, three names | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-tri-bi-tri-corusing, the between carried along, the parity 10 released, and at the carrying's coupling the parity surfaced at 14 at the carried sharing, the code's 0 at none and at parting alike; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
+| the one between, three names | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-tri-bi-tri-corusing, the between carried along, the parity 10 released, and at the carrying's coupling the parity surfaced at 14 at the carried sharing, the resolver's 0 at none and at parting alike; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
 | arriving and passing over | 7-co-bi-co-corusing, an offered 0 the parity at 2, surfacing none at 14, and a 0 at 10 the parity at 11's chaining, chained none |
 | the four across names, the unit square's four dots: a parity changing alone crosses | 2-bi-co-bi-offering, 6-bi-co-bi-moralizing, 10-bi-tri-bi-tunneling, 14-bi-tri-bi-moralizing, parity's unit square, its empty centre the between |
-| none | 1-co-bi-tri-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-tri-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, the sharings, and 5-co-bi-co-competencing and 13-tri-bi-tri-competencing, the sharings and, at the society, the joins and the selves |
+| none | 1-co-bi-tri-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-tri-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, the sharings, and 5-co-bi-co-competencing and 13-tri-bi-tri-competencing, the sharings and, at the society, the releasings and the selves |
 | the two along names: carried, not crossed | 9-tri-bi-co-momentarying and 17-co-bi-tri-offering, each parity and each 0 carried on unchanged, the 0 passing over at the receiving self's 14 |
 
 **Four four-cycles and their roots.**
@@ -660,6 +660,17 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, − | A from B alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
+
+**Two selves, three momentaries, five parities.**
+
+| The other's carrying, prior (3), along | The other's releasing (10), across | The self's carrying, now (3), along | The self's releasing (10), across | The self's carrying, next (11), along. Two selves coupled both ways, across or along, each opening, each momentary: six forms. The fifth is the first inverted at each |
+|---|---|---|---|---|
+| + | − | − | 0 | − |
+| + | − | + | − | − |
+| + | 0 | + | − | − |
+| − | + | + | 0 | + |
+| − | + | − | + | + |
+| − | 0 | − | + | + |
 
 **Three selves in a line.**
 

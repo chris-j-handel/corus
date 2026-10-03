@@ -1,0 +1,134 @@
+<div id="v380a-follow-origin">
+  <style>
+    #v380a-follow-origin .origin-heading{padding-right:96px;min-height:50px}
+    #v380a-follow-origin .origin-scene{display:block;width:100%;overflow:visible}
+    #v380a-follow-origin .origin-scene text{font-size:var(--font-size-base);font-weight:400;fill:var(--foreground)}
+    #v380a-follow-origin .origin-axis{stroke:var(--border);fill:none;stroke-width:1}
+    #v380a-follow-origin .origin-first{stroke:var(--viz-series-1);fill:var(--viz-series-1)}
+    #v380a-follow-origin .origin-second{stroke:var(--viz-series-2);fill:var(--viz-series-2)}
+    #v380a-follow-origin .origin-history{fill:none;stroke-width:1.7;stroke-opacity:.55}
+    #v380a-follow-origin .origin-spoke{fill:none;stroke-width:2;stroke-opacity:.7}
+    #v380a-follow-origin .origin-status{min-height:2.8em;margin-top:12px}
+    #v380a-follow-origin .origin-key{display:flex;align-items:center;gap:7px}
+    #v380a-follow-origin .origin-key svg{width:15px;height:15px;flex:none}
+    #v380a-follow-origin [hidden]{display:none!important}
+  </style>
+  <h3 class="origin-heading">v380A · Following 1 into 3</h3>
+  <div class="viz-row" aria-label="Two continuing drawn parts">
+    <span class="origin-key"><svg aria-hidden="true" viewBox="0 0 15 15"><circle class="origin-first" cx="7.5" cy="7.5" r="4.5"/></svg><span>1 → 3 → 5</span></span>
+    <span class="origin-key"><svg aria-hidden="true" viewBox="0 0 15 15"><path class="origin-second" d="M7.5 2 L13 7.5 L7.5 13 L2 7.5 Z" style="fill:var(--background);stroke-width:2"/></svg><span>2 → 4 → 6</span></span>
+  </div>
+  <svg class="origin-scene" role="img" aria-labelledby="v380a-origin-title v380a-origin-desc">
+    <title id="v380a-origin-title">The same drawn part continues from conceptual 1 into 3, and another from 2 into 4</title>
+    <desc id="v380a-origin-desc">The approved conceptual sequence is plus, plus, minus, minus, plus, plus. A filled circle keeps the identity of positions 1, 3 and 5; an open diamond keeps 2, 4 and 6. In the declared prior and now plane both rotate clockwise. The signs change at their binary endpoints. The time-ordered pair changes from plus plus to plus minus, minus minus, minus plus and plus plus. Each labelled occurrence is new. The stationary self marker contains no carrying. These drawn components and conceptual position numbers are neither resolver names nor a view of a living self's private values.</desc>
+    <path id="v380a-origin-axes" class="origin-axis"/>
+    <circle id="v380a-origin-ring" class="origin-axis"/>
+    <text id="v380a-origin-prior" text-anchor="middle">prior</text>
+    <text id="v380a-origin-now" text-anchor="middle">now</text>
+    <path id="v380a-origin-history-a" class="origin-first origin-history"/>
+    <path id="v380a-origin-history-b" class="origin-second origin-history" stroke-dasharray="4 4" hidden/>
+    <path id="v380a-origin-spoke-a" class="origin-first origin-spoke"/>
+    <path id="v380a-origin-spoke-b" class="origin-second origin-spoke" hidden/>
+    <circle id="v380a-origin-self" class="origin-axis" r="23"/>
+    <text id="v380a-origin-self-label" text-anchor="middle">self</text>
+    <circle id="v380a-origin-a" class="origin-first" r="7"/>
+    <path id="v380a-origin-b" class="origin-second" style="fill:var(--background);stroke-width:2" hidden/>
+    <text id="v380a-origin-label-a" text-anchor="middle">1 +</text>
+    <text id="v380a-origin-label-b" text-anchor="middle" hidden>2 +</text>
+    <text id="v380a-origin-pair" text-anchor="middle">Conceptual position 1</text>
+  </svg>
+  <div class="viz-controls" aria-label="Examine conceptual positions 1 to 6">
+    <button type="button" class="btn" id="v380a-origin-back" disabled>Back</button>
+    <button type="button" class="btn btn-primary" id="v380a-origin-next">Next · 2</button>
+  </div>
+  <div id="v380a-origin-status" class="origin-status" aria-live="polite">Opening at 1 · follow the circle</div>
+  <script>
+    (()=>{
+      // Session v380A remains fixed. Geometry of the agreed conceptual origin only.
+      const root=document.getElementById('v380a-follow-origin');
+      if(!root)return;
+      const el=id=>root.querySelector('#v380a-origin-'+id),svg=root.querySelector('.origin-scene');
+      const HALF=Math.PI/2;
+      // The source's right spiral: (prior, now) becomes (now, -prior).
+      function pairAt(n){let pair=[1,1];for(let i=3;i<=n;i++)pair=[pair[1],-pair[0]];return pair;}
+      const valueAt=n=>n===1?1:pairAt(n)[1];
+      let number=1,angle=0,busy=false,motion=null,geom={w:0,h:0,cx:0,cy:0,r:0};
+      const sign=p=>p===1?'+':'−';
+      const odd=n=>n%2?n:n-1,even=n=>n<2?null:n%2?n-1:n;
+      const angleAt=n=>Math.max(0,n-2)*HALF;
+      const point=(a,r=geom.r)=>[geom.cx+r*Math.cos(a),geom.cy+r*Math.sin(a)];
+      const path=points=>'M '+points.map(p=>p.map(v=>v.toFixed(4)).join(' ')).join(' L ');
+      const diamond=p=>path([[p[0],p[1]-8],[p[0]+8,p[1]],[p[0],p[1]+8],[p[0]-8,p[1]]])+' Z';
+      const ring=(node,p,r)=>{node.setAttribute('cx',p[0]);node.setAttribute('cy',p[1]);if(r!==undefined)node.setAttribute('r',r);};
+      function label(node,p,text,a){
+        const q=point(a,geom.r+24);node.setAttribute('x',q[0]);node.setAttribute('y',q[1]+5);node.textContent=text;
+      }
+      function arc(base,end){
+        if(Math.abs(end)<.00001)return '';
+        const count=Math.max(2,Math.ceil(Math.abs(end)*30));
+        return path(Array.from({length:count+1},(_,i)=>point(base+end*i/count)));
+      }
+      function setHidden(id,value){el(id).toggleAttribute('hidden',value);}
+      function draw(){
+        const a=angle,b=-HALF+angle,pA=point(a),pB=point(b);
+        const target=motion?motion.to:number,showB=number>=2||target>=2;
+        const labelA=motion&&odd(motion.from)!==odd(motion.to)?odd(motion.from)+' → '+odd(motion.to):odd(number)+' '+sign(valueAt(odd(number)));
+        const eb=even(number),tb=even(target);
+        const bNumber=eb||tb||2;
+        const labelB=motion&&eb!==tb&&eb!==null?eb+' → '+tb:bNumber+' '+sign(valueAt(bNumber));
+        ring(el('a'),pA);el('b').setAttribute('d',diamond(pB));
+        el('spoke-a').setAttribute('d',path([point(a,31),pA]));el('spoke-b').setAttribute('d',path([point(b,31),pB]));
+        el('history-a').setAttribute('d',arc(0,angle));el('history-b').setAttribute('d',arc(-HALF,angle));
+        label(el('label-a'),pA,labelA,a);label(el('label-b'),pB,labelB,b);
+        for(const id of ['b','label-b','spoke-b','history-b'])setHidden(id,!showB);
+        for(const id of ['prior','now'])setHidden(id,number===1&&!motion);
+        const joint=pairAt(number);
+        const pair=number<2?'Conceptual position 1':'Pair '+(number-1)+'–'+number+' · ('+sign(joint[0])+', '+sign(joint[1])+')';
+        el('pair').textContent=busy?'Toward '+target:pair;
+      }
+      function detail(){
+        const texts=[
+          'Opening at 1 · follow the circle',
+          'At 2 · circle 1 + and diamond 2 +',
+          'At 3 · circle 1 + → 3 −; diamond 2 + continues',
+          'At 4 · diamond 2 + → 4 −; circle 3 − continues',
+          'At 5 · circle 3 − → 5 +; diamond 4 − continues',
+          'At 6 · diamond 4 − → 6 +; circle 5 + continues'
+        ];
+        el('status').textContent=texts[number-1];
+        el('back').disabled=busy||number===1;el('next').disabled=busy||number===6;
+        el('next').textContent=number===6?'At 6':'Next · '+(number+1);
+      }
+      function fit(){
+        const w=root.getBoundingClientRect().width;if(w<=0)return;
+        const h=Math.min(350,Math.max(295,w*.48)),cx=w/2,cy=(h-35)/2;
+        geom={w,h,cx,cy,r:Math.min(115,(w-136)/2,cy-41)};
+        svg.setAttribute('viewBox',`0 0 ${w} ${h}`);svg.setAttribute('height',h);
+        el('axes').setAttribute('d',path([[cx-geom.r-12,cy],[cx+geom.r+12,cy]])+' '+path([[cx,cy-geom.r-12],[cx,cy+geom.r+12]]));
+        ring(el('ring'),[cx,cy],geom.r);ring(el('self'),[cx,cy]);
+        el('self-label').setAttribute('x',cx);el('self-label').setAttribute('y',cy+5);
+        el('prior').setAttribute('x',cx+geom.r+12);el('prior').setAttribute('y',cy+34);
+        el('now').setAttribute('x',cx+48);el('now').setAttribute('y',cy-geom.r+5);
+        el('pair').setAttribute('x',cx);el('pair').setAttribute('y',h-8);draw();
+      }
+      function go(to){
+        if(busy||to<1||to>6)return;
+        const from=number,startAngle=angle,endAngle=angleAt(to);
+        if(to===2&&from===1||to===1&&from===2){number=to;angle=endAngle;draw();detail();return;}
+        busy=true;motion={from,to};el('back').disabled=true;el('next').disabled=true;
+        el('status').textContent='Following the same two drawn parts toward '+to;
+        const finish=()=>{angle=endAngle;number=to;motion=null;busy=false;draw();detail();};
+        if(matchMedia('(prefers-reduced-motion: reduce)').matches){finish();return;}
+        let started=null;
+        function advance(now){
+          if(started===null)started=now;const t=Math.min(1,(now-started)/2200),e=t*t*(3-2*t);
+          angle=startAngle+(endAngle-startAngle)*e;draw();if(t<1)requestAnimationFrame(advance);else finish();
+        }
+        requestAnimationFrame(advance);
+      }
+      el('next').addEventListener('click',()=>go(number+1));el('back').addEventListener('click',()=>go(number-1));
+      new ResizeObserver(fit).observe(root);fit();detail();
+      root.originReading=()=>({number,angle,busy,geom:{...geom},a:{number:odd(number),sign:valueAt(odd(number)),point:point(angle)},b:even(number)===null?null:{number:even(number),sign:valueAt(even(number)),point:point(-HALF+angle)},pair:number<2?null:pairAt(number)});
+    })();
+  </script>
+</div>

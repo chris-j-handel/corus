@@ -4,7 +4,15 @@
 
 The kit's [README](README.md) says the standing of each folder. The received [v366 entrance](Illustration_Kit_v366/START_HERE.md) continues to introduce that unchanged snapshot.
 
-**Current gathering:** [v380A's reading for v380R](../../incoming/v380A/illustrating/Version_And_Workings.md) receives the Registry's successive round, its newer one-momentary receiving, and the managing's parity unit square and along pair. The session identity is corrected on the movies, source archives and viewer labels. Their larger geometric correspondence remains to examine together.
+**Current standing: concept work.** The session finds the illustrating too undeveloped for more than concept work. [The current consistency reading](../../incoming/v380A/illustrating/Concept_And_Consistency.md) compares Natural Illustrating with main 3e29d60 and v380L 3b8f620, identifies the exact older openings and names to receive, and proposes one releasing received at one momentary as the next teaching aim to examine. [The prior gathering](../../incoming/v380A/illustrating/Version_And_Workings.md) retains its own checkpoint.
+
+## v380A · following 1 into 3, concept work
+
+- **Concept:** [index.html](continuity_v380A/index.html), the conversational continuity study exported for examination. Back and Next follow the circle 1 → 3 → 5 and diamond 2 → 4 → 6, with the self marker fixed and empty.
+- **Editable source:** [v380A_Following_1_Into_3.fragment.html](continuity_v380A/v380A_Following_1_Into_3.fragment.html), unchanged from the study shown in the conversation. [export.py](continuity_v380A/export.py) refreshes the standalone view after edits.
+- **Source and concept:** the abstract right-spiral pair of Natural Intelligence 2.4, at conceptual temporal positions. These components are not two living participants; their numbers are not resolver names. The [README](continuity_v380A/README.md) gives the provenance and precise reach.
+- **Part still to express:** one parity releasing into a receiver's next, the quiet case, and the correspondence to the numbered square, triangles and five roles. Each living carrying remains unpictured. No new movie or larger geometry is built from this packaging.
+- **Standing:** preserved at the session's request as concept work, with its teaching usefulness still to discover together.
 
 ## v380A · first origin study, and the seventeen names
 

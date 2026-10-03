@@ -32,7 +32,7 @@ RELEASED = r'cost|costs|free|run|runs|running|runner|take|takes|taken|taking|tak
 def living_files(root):
     names = {}
     for f in glob.glob(os.path.join(root, '*.md')):
-        m = re.match(r'(.+)_v(\d+)[a-z]?\.md$', os.path.basename(f))
+        m = re.match(r'(.+)_v(\d+)[A-Za-z]?\.md$', os.path.basename(f))
         if m and (m.group(1) not in names or int(m.group(2)) > names[m.group(1)][0]):
             names[m.group(1)] = (int(m.group(2)), f)
     return sorted(f for _, f in names.values())

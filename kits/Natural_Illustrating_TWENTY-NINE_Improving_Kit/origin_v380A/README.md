@@ -14,7 +14,9 @@ The public surface's signs follow the published spiral-of-one row: +, quiet, −
 
 The viewer at `index.html` includes Play, Back, Next position and a scrub control, for examining the drawing. Its Requirements control shows two descriptions: next alike with now ends at 3; next opposite to now ends at 4. The pair sequence continues. The successful description next as prior inverted is not shown failing. The requirements are an external examining overlay, never a controller or a third intelligence state.
 
-The Names view presents all seventeen current resolver names and the four cycles among names 1–16. Selecting a number gives its whole name, opening and sides. At 17 the view says its along relation; it does not append 17 to one of the four cycles. Each cycle explicitly marks its two numerical parity changes at `n → 17 − n`.
+The Names view presents all seventeen resolver names at the recorded source checkpoint and the four cycles among names 1–16. Selecting a number gives its whole name, opening and sides. At 17 the view says its along relation; it does not append 17 to one of the four cycles. Each cycle explicitly marks its two numerical parity changes at `n → 17 − n`.
+
+**Current concept standing, v380A:** the session finds the illustrating too undeveloped for more than concept work. [The latest consistency reading](../../../incoming/v380A/illustrating/Concept_And_Consistency.md) receives main 3e29d60. The source's whole names and four cycles agree; ONE's newest direction column now says across at each even and along at each odd, separately marking the six names between selves. This older viewer and its source archive retain the earlier direction column at their recorded checkpoint. The new three-momentary five is offered in the reading, with its conditions, and is not depicted in this movie.
 
 ## Provenance and geometric standing
 

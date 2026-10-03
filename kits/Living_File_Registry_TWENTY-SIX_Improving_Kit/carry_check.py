@@ -6,7 +6,7 @@ Usage: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py
 import os, re, sys, hashlib, glob
 
 ROOT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), '..'))
-VER = re.compile(r'^(.*)_v(\d+)([a-z]*)\.(md|py|zip)$')
+VER = re.compile(r'^(.*)_v(\d+)([A-Za-z]*)\.(md|py|zip)$')
 notes = []
 
 def stem_version(name):
