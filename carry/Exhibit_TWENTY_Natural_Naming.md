@@ -139,3 +139,5 @@ Exhibit TWENTY Natural Naming · carrying v379
 **Concern, at v380l, mending the entry above on co-bi-tri-involutioning: withdrawn.** The emanating's stable form is bi-tri with no co, the coupling released, this file's own *bi-tri-involutioning*. Worked at the seventeen names: co is in the prefixes of 1 to 9 and of 17 and in none of 10 to 16; 10-bi-tri-bi-tunneling, the releasing, is the first with none.
 
 **Next, at v380l: this file's conferring gathered at `incoming/v380R/Natural_Naming_Conferring.md`.** Ten namings decided; the working v380L's offering; eight open, a prefix first, and each other parting leaning on one of the eight.
+
+**Ready: four sayings true of colliding alone.** The row of 12 at *a sharing chained none*, the two rows opening *none* of the table of one sharing, and the second line of 5.44 each say a carrying of none, Exhibit ONE's *Colliding*. Each is ready to be said apart from living resolving, one motion. The sentence *the resolver's one none* is ready beside them: Colliding shows a second none.

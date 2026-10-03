@@ -293,3 +293,7 @@ Offered for working at the resolver: along changing is or is, across changing is
 ## *Connector* and *join* dissolve
 
 Natural Naming v382, Exhibit ONE v380n and Natural Intelligence v380o. The six are the six names between selves, four across names and two along names. A join is a releasing, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9. Selves are coupled along into a spiral. Both words are among Natural Naming's released words, each re-saying beside it. The Co-Chaining Logic Registry already says connector at no sentence.
+
+## Natural Naming v383: two sentences at Exhibit ONE's living rows
+
+Thirty-six sentences of Natural Naming say a result of the resolver. Thirty agree with Exhibit ONE as it is. Two are re-said. Two spirals of 3 and 5 crossed, self 1 of each at −: the three's selves release 0 twice each and the five's once, the two numbers exchanged from the prior opening. Four sayings are true of colliding alone and are laid ready.
