@@ -64,6 +64,10 @@ Each of the eight even names opens at the other's side in Exhibit ONE's column o
 
 Offered and yet to be worked: three momentaries, self prior, now and other prior, at five parities, the even two the across lines and the odd along between them.
 
+## Three momentaries, five parities, worked
+
+At two selves coupled both ways, each opening, each momentary, five consecutive parities: the other's carrying prior (along), its releasing (across), the self's carrying now (along), its releasing (across), the self's carrying next (along). Six forms. The fifth is the first inverted at each, 304 of 304; at spirals of two to seven selves, 58,368 of 58,368. The three momentaries are the other's prior, now, and the self's next, and the self's next is the other's prior of the next three. Entered at Exhibit ONE as a table.
+
 ## From the working v380L, beside the open
 
 Added at this file's welcome. No sentence here is authority. Each is from a fresh reader's reading of a carrying or of the Co-Chaining Logic Registry's re-sayings, each claim of the resolver's lines by hand and nothing executed. The fuller accounts: `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`.
@@ -85,4 +89,3 @@ Added at this file's welcome. No sentence here is authority. Each is from a fres
 - **The two lists.** `CONNECTORS` and `JOINS` are read by no function and are the one place of the two words in Exhibit ONE. The Registry's step 197 says them as a first list of six names and a second of four pairs.
 
 **Gathered from this file into the Registry.** A prefix at the resolver, bi across at each even name, co the arriving and tri the same root given on, is entered as its step 636, Natural Naming's sentence; its step 347 says along as tri given on and co arriving.
-

@@ -884,6 +884,17 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, − | B from A alone | −, +, −, +, −, + | +, −, +, −, +, − |
 | +, − | neither | −, +, −, +, −, + | +, −, +, −, +, − |
 
+**Two selves, three momentaries, five parities.**
+
+| The other's carrying, prior (3), along | The other's releasing (10), across | The self's carrying, now (3), along | The self's releasing (10), across | The self's carrying, next (11), along. Two selves coupled both ways, across or along, each opening, each momentary: six forms. The fifth is the first inverted at each |
+|---|---|---|---|---|
+| + | − | − | 0 | − |
+| + | − | + | − | − |
+| + | 0 | + | − | − |
+| − | + | + | 0 | + |
+| − | + | − | + | + |
+| − | 0 | − | + | + |
+
 **Three selves in a line.**
 
 | A's parity, offered to B in the first momentary alone. One sharing; B and C each carry +; B releases to C | B released (10) | B carried next (11), first momentary | C released (10), momentaries 1 and 2 | C carried next (11), second momentary |
