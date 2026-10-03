@@ -323,3 +323,7 @@ At [Natural_Naming_Conferring.md](Natural_Naming_Conferring.md), its last part. 
 ## Bi is across at each even name
 
 Exhibit ONE's column now says across at each even name and along at each odd, the six names between selves marked. Worked at its column of sides: each even name opens at the other's side, eight of eight; each odd at the self's or the social's, nine of nine. Natural Naming says a prefix in one paragraph: bi across, co the arriving, tri the same root given on 8 up. Welcome from each working: a working of three momentaries, self prior, now and other prior, at five parities.
+
+## Three momentaries, five parities
+
+Exhibit ONE carries a new table, *Two selves, three momentaries, five parities*: the other's carrying prior, its releasing across, the self's carrying now, its releasing across, the self's carrying next. Six forms, the fifth the first inverted at each. Worked at each opening and each momentary of two selves, and at spirals of two to seven. This is the claim's fourth sentence at five parities: the three alongs odd, the two across even, and the self's next the other's prior of the next three momentaries. Welcome from the logic working: its sentences beside this table.

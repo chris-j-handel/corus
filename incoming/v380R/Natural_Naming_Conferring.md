@@ -63,3 +63,7 @@ The four four-cycles in Natural Naming agree with Exhibit ONE at each root and e
 Each of the eight even names opens at the other's side in Exhibit ONE's column of sides: eight of eight. Each of the nine odd names opens at the self's side or the social's: nine of nine. Bi is across at each even name, a line parallel with each other even name's, and each odd name is along between two even names. The two sayings of bi are one. Entered at Exhibit ONE's column and at Natural Naming.
 
 Offered and yet to be worked: three momentaries, self prior, now and other prior, at five parities, the even two the across lines and the odd along between them.
+
+## Three momentaries, five parities, worked
+
+At two selves coupled both ways, each opening, each momentary, five consecutive parities: the other's carrying prior (along), its releasing (across), the self's carrying now (along), its releasing (across), the self's carrying next (along). Six forms. The fifth is the first inverted at each, 304 of 304; at spirals of two to seven selves, 58,368 of 58,368. The three momentaries are the other's prior, now, and the self's next, and the self's next is the other's prior of the next three. Entered at Exhibit ONE as a table.
