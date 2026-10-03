@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>V381A · Origin and seventeen names</title>
+  <style>
+    @font-face{font-family:StudySans;src:url('./vendor/StudySans.ttf') format('truetype');font-display:block}
+    :root{color-scheme:dark;font-family:StudySans,system-ui,sans-serif;color:#e3efed;background:#091b22}
+    *{box-sizing:border-box}body{margin:0}main{max-width:1080px;margin:auto;padding:22px}
+    header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    h1{font-size:19px;font-weight:500;margin:0}h2{font-size:17px;font-weight:500;margin:0 0 14px}
+    button,select{font:inherit;color:inherit;background:#142e37;border:1px solid #32535c;border-radius:7px;padding:9px 13px;min-height:42px}
+    button{cursor:pointer}button:disabled{opacity:.4;cursor:default}button[aria-selected=true],button[aria-pressed=true]{background:#dae8e4;color:#10242c}
+    button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid #9bddce;outline-offset:3px}
+    nav,.controls{display:flex;align-items:center;gap:9px;flex-wrap:wrap}nav{margin:22px 0 12px}
+    canvas{display:block;width:100%;border-radius:12px}label{font-size:14px;display:flex;align-items:center;gap:8px}
+    .controls{margin-top:13px}input[type=range]{flex:1;min-width:130px;accent-color:#9bd4c6}
+    .detail{line-height:1.55;color:#bed1d2;font-size:14px;max-width:74ch;margin:16px 0}
+    .names{padding:18px 0}.number-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(42px,1fr));gap:8px;margin-bottom:18px}
+    .number-list button{padding:9px 3px}.whole-name{font-size:18px;overflow-wrap:anywhere;color:#e3efed}
+    .name-details{display:flex;gap:18px;flex-wrap:wrap;font-size:14px;color:#bed1d2;margin:12px 0 22px}
+    table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:13px 8px;border-bottom:1px solid #29464e;vertical-align:top}th{font-weight:500;color:#bed1d2}
+    .route{display:flex;align-items:center;gap:7px;flex-wrap:wrap}.route button{min-width:42px;padding:7px 10px}.move-note{font-size:13px;color:#bed1d2;line-height:1.6}
+    .selected-row{background:#142e37}footer{font-size:13px;color:#92aeb3;line-height:1.6;margin:28px 0 0}a{color:#c0ded5}
+    [hidden]{display:none!important}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+    body.capture main{max-width:none;padding:0}body.capture header,body.capture nav,body.capture .controls,body.capture .detail,body.capture footer{display:none}body.capture canvas{border-radius:0}
+    @media(max-width:500px){main{padding:14px}header{padding-right:20px}th,td{padding:11px 4px}.whole-name{font-size:16px}}
+  </style>
+</head>
+<body>
+<main>
+  <header><h1>V381A · Origin and seventeen names</h1><span class="detail" style="margin:0">First study for examination</span></header>
+  <nav role="tablist" aria-label="Study view">
+    <button id="origin-tab" type="button" role="tab" aria-controls="origin-panel" aria-selected="true">Origin · 1–6</button>
+    <button id="names-tab" type="button" role="tab" aria-controls="names-panel" aria-selected="false">Names · 1–17</button>
+  </nav>
+  <section id="origin-panel" role="tabpanel" aria-labelledby="origin-tab">
+    <canvas id="origin-canvas" role="img" aria-label="A stationary self marker accompanied by six conceptual positions. A right spiral follows four prior-and-now pair forms; two stated requirements end at positions three and four while the sequence continues."></canvas>
+    <div class="controls">
+      <button type="button" id="play">Play</button>
+      <button type="button" id="back">Back</button>
+      <button type="button" id="next">Next position</button>
+      <label class="sr-only" for="seek">Examine the origin</label><input id="seek" type="range" min="0" max="14" step="0.01" value="0">
+      <label><input id="requirements" type="checkbox" checked>Requirements</label>
+    </div>
+    <div id="origin-status" class="detail" aria-live="polite">Position 1 · beginning.</div>
+    <p class="detail">The numbered positions describe a pair of consecutive parities. The self remains accompanied at one screen position; its carrying is unpictured. The right spiral is read forward, into the drawn plane.</p>
+  </section>
+  <section id="names-panel" class="names" role="tabpanel" aria-labelledby="names-tab" hidden>
+    <h2>Seventeen names</h2>
+    <div id="number-list" class="number-list" aria-label="Choose a resolver name"></div>
+    <div id="whole-name" class="whole-name" aria-live="polite"></div>
+    <div id="name-details" class="name-details"></div>
+    <h2>Four cycles among the names</h2>
+    <table><thead><tr><th scope="col">Root</th><th scope="col">Names, in sequence</th></tr></thead><tbody id="cycle-rows"></tbody></table>
+    <p id="cycle-detail" class="detail" aria-live="polite"></p>
+    <p class="detail">These are relations among resolver names. A matching numeral does not assign a conceptual position in the origin to the name at that number.</p>
+  </section>
+  <footer>Sources: Natural Resolver v380l, its seventeen names and four-cycle tables; the Co-Chaining Logic Registry v380f, steps 51–62 and 609. <a href="README.md">Provenance and the part still to express</a>.</footer>
+</main>
+<script type="module" src="./origin.js"></script>
+</body>
+</html>

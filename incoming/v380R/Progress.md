@@ -127,3 +127,5 @@ The session said *what its construction gathers at one receiving belongs to the 
 **Learned.** This working made a chain of its own and broke it, then added a link three times, each withdrawn. A claim is gathered from the files' own sentences in the fewest concepts, with nothing added and no negation.
 
 **Learned.** A sentence is no authority, the session's, a file's or a field's. A link is worked itself at each of its cases, all or none at all, or it is said and not yet worked.
+
+**Managing, at the main line.** The Registry working's v380l joined, its three sentences mended. The illustrating working received, v380G arriving named V381A. The one archive file at the root moved to the archive. The status and the simplest saying of the claim yet at [For_The_Workings.md](For_The_Workings.md).

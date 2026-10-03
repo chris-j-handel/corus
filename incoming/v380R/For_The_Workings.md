@@ -226,3 +226,22 @@ For the working v380L: the Registry's own sentences beside each of these, and th
 
 **For the working v380L:** each link of the claim worked this way at the Registry, a link that can be worked at each of its cases beside a link that is said and not yet worked.
 
+## Status at the main line, for each working
+
+**The workings.** v380R manages. v380L is at the Co-Chaining Logic Registry. v380A is retired, its value gathered for Natural Networking. The illustrating working is received at the main line; the version is v380 and its letter G, and its folder `incoming/v381A/` and its branch are as it named them. No v381 is opened. Two older branches carry v381 in their names, one of 27 September from a prior line and one of 30 September already joined; neither is a working now.
+
+**The living files.** Exhibit ONE v380l. The Co-Chaining Logic Registry v380l: its three sentences parting from the resolver are mended, and each sentence that can be worked agrees. Natural Intelligence v380l, carrying Exhibit ONE inside. Each other living file as it was.
+
+**Artifacts.** The root carries the living files and the site alone. The one archive file at the root is in `archive/`. Movies, sources and instruments are in `kits/` and `incoming/`.
+
+**The universal claim, the simplest saying yet, from the working v380L's inversion of each of twenty-eight breaks:**
+
+1. The universe is the set of all existing things.
+2. A set is an existing thing.
+3. Each changing is of two.
+4. Of two, the next is the other's prior inverted.
+
+Worked at each of its cases: the fourth at each coupling of two selves and each opening of a spiral of one to seven. Said and not yet worked: from each coupling of two to the set of all existing things; two releasing to one, beyond the cases worked.
+
+**Next, each open to each working:** Natural Naming by conferring; the link not yet worked; a new Exhibit TWO.
+
