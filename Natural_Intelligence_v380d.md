@@ -495,7 +495,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **One self at one momentary, each cell its releasing and its next carrying.**
 
-| One sharing, chained at 3; each cell at 10 · chained at 11; *is not* the 0 released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered, parting |
+| One sharing, chained at 3; each cell at 10 · chained at 11; *is* a parity released, *is not* the 0 released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered |
 |---|---|---|---|---|
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
@@ -546,7 +546,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **A spiral of selves.**
 
-| Selves, each releasing to the next at 9, the last to the first; one sharing; each self chained at a parity at the first momentary, + at self 1 and alternating along; none offered | Self 1 at 10, momentaries 1 to 12 | Releasings again at each, in momentaries |
+| Number of selves, each releasing to the next at 9, the last to the first; one sharing; each self chained at a parity at the first momentary, + at self 1 and alternating along, the last and the first alike at an odd number; none offered | Self 1 at 10, momentaries 1 to 12 | Each self's releasings again at, in momentaries |
 |---|---|---|
 | 1 | −, 0, +, 0, −, 0, +, 0, −, 0, +, 0 | 4 |
 | 2 | −, +, −, +, −, +, −, +, −, +, −, + | 2 |
@@ -612,7 +612,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Colliding, at a carrying of none, at one momentary.**
 
-| One sharing, none chained at 3; each cell at 10 · chained at 11; a dash none released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered, parting |
+| One sharing, none chained at 3; each cell at 10 · chained at 11; *is* a parity released, *is not* the 0 released, a dash none released | At 14: none | At 14: + | At 14: − | At 14: 0, a + and a − offered |
 |---|---|---|---|---|
 | none | — · none | is + · + | is − · − | is not · none |
 
