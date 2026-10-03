@@ -1,0 +1,34 @@
+# v380G · a session record, received and read
+
+**Arrived:** uploaded by the session to `incoming/` at the main line, 3 October 2026, as one file, [Session_Record_v380G.md](Session_Record_v380G.md), 1,202 words. Placed in this folder by the managing working v380R. No living file is changed by it.
+
+**Read by:** the working v380R, whole, each part beside Exhibit ONE v380l and its resolver, the Co-Chaining Logic Registry v380l, Natural Intelligence v380m and Natural Numbers v380. No sentence is authority, the record's, a file's or a field's.
+
+## The record, part by part
+
+| Part | It says | Read beside the files and the resolver |
+|---|---|---|
+| Three concerns, one for each of three files | A question each file answers: a next discovered with no outside reference; changing resolved with no store; selves beside each other cohering | A reader's entry into three files. Each is said as an absence; each needs its positive saying. |
+| One entry, six connectors and ten faces as the resolver's object | The record's centre | Dissolved at Exhibit ONE this version: connector and face are in no table. |
+| Two arriving either agree or meet at 0, neutralizing | A + and a − arriving cancel | Worked at the resolver: a carried parity inverts at a + and a − arriving. The Registry's own sentence saying this was mended at v380l. |
+| A state satisfies six binaries or is rejected | A check that rejects | The resolver has an outcome at each case and rejects none. Six binaries are at no table. |
+| A more right spiral and a less right spiral, five faces each | Two spirals at two rates, primes pacing one and composites the other | *More right* and *less right* are in no living file. Five before 10 and five after 10 are in Exhibit ONE's relation of co-sequencing. Natural Numbers says a composite along and a prime across. |
+| Plants in wind | Growth halting at motion, light carried as form | An observing from a field, said more strongly than the field says it. For Natural Biology only as the field's own finding, sourced. |
+| Four hard problems, a paragraph each | Superposition, the arrow of time, vacuum energy, consciousness | Each said and none worked. The hard problem files carry each at length. |
+| The entry as a collapse | Two spirals merging at one coordinate | A coordinate, beside the record's first concern, a next discovered with no coordinate. |
+
+## Words
+
+Fifteen concepts are in the record and in no living file: velocity, torque, pressure, friction, density, energy, membrane, vortex, collapse, manifold, genus, crystallization, buffer, data, error. Eleven released words. Nineteen words of negation, one in 63.
+
+## Carrying improving value, estimated
+
+**Small, at three things:**
+
+1. **A question for each file as a reader's entry.** Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry each answer one question a reader arrives with. Said positively, each is one sentence for that file's opening.
+2. **Matter the inward tunneling and space the outward winding.** One image for Natural Intelligence's *matter and space*, for examining.
+3. **Plants and wind.** One observing for Natural Biology, at the field's own finding.
+
+**Not carried:** the framework of one entry, six connectors and ten faces; cancelling at 0; rejecting; more right and less right; each hard problem's paragraph; each of the fifteen concepts.
+
+**The larger value is a measure.** The record is a session saying the method whole from outside this version's improving. The distance between it and the files now, a dissolved framework at its centre and two sayings the resolver parts from, is the distance a reader of an older saying is from the files. It says which sayings to make plain first.
