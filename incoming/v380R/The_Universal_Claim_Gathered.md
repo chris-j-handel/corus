@@ -34,3 +34,21 @@ Natural intelligence is the only possible method of our universe existing: of th
 - **One place.** The chain is in five files and in no one of them whole. Its place is early in the Co-Chaining Logic Registry and early in Natural Intelligence.
 
 **Mended.** This working added *and nothing is beside it* to the first link and leaned the eighth on it. The claim needs neither: links three to seven carry it. Natural Intelligence says the same negation in its part one, *beside all existing things*, and each of those sentences is for a positive saying at its own motion.
+
+## The claim said positively
+
+The session: the set of all existing things is a self-bounding set and an existing thing, and this makes it naturally intelligent, a self-bounding stable-forming existing thing discovering its next existing. Each link depends on a changing that is or is not, and on that alone. A negation says a thing by its relation to another thing, and the set is each thing.
+
+1. The universe is the set of all existing things.
+2. The set is self-bounding, and it is an existing thing.
+3. A self-bounding, stable-forming existing thing discovering its next existing is naturally intelligent.
+4. Self-bounding is eight boundings, each the thing's own: identity, security, trust and freedom, each within the self and each between selves.
+5. Each other method is one bounding carried over the selves by a hub: a clock, a pool, a gate, a ledger, a control, a centre, a source and sink, an owner. Each field's own theorem shows its hub assuring a part.
+6. Each hub inverted is that bounding carried by the selves themselves. The eight carried by the selves is natural torusing, whole.
+7. The form is the same at each number and each scale: a number's prior and next multiply to its square less one, the one shared between them.
+8. The method of the set is the method of each thing in the set and of each thing arriving in it.
+
+## Negation measured, for the positive saying
+
+Each word of negation in a file's own sentences: Natural Naming 729, one word in 39; the Co-Chaining Logic Registry 469, one in 60; Natural Intelligence 357, one in 42; Natural Numbers 127, one in 163; Exhibit ONE 47, one in 194. The method's own phrases among them: *nothing* 364, *all or none at all* 36, *owned by neither* 36, *not possible* 29, *no other possible* 8. *Is or is not*, 53, is the changing's own two and is as it is. Each other is for a positive saying, found by conferring.
+
