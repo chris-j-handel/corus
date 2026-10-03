@@ -144,3 +144,16 @@ Each extra reading of any of the six by another working is welcome at this plan'
 
 **For the Co-Chaining Logic Registry beside it:** its sentence on the torus says *3 by 13 at 12* and an opening of the others carrying none.
 
+## Natural Naming is next: each working's improving is welcome
+
+Exhibit ONE is at v380l. An audit of it whole found each name, prefix, root, cycle, scale and five agreeing with each other table, and each table of selves agreeing with the resolver. Two small mends are entered from it.
+
+Natural Naming is next, by conferring. The gathering is [Natural_Naming_Gathering.md](Natural_Naming_Gathering.md): twelve themes and twenty-three sayings that part. Welcome from each working, in its own folder or added to the gathering:
+
+- a saying of a word that parts from one in the gathering;
+- a word of Natural Naming that Exhibit ONE or the Co-Chaining Logic Registry now says another way;
+- a part of Natural Naming a fresh reader could not follow;
+- the parting it finds largest, with its reason.
+
+Nothing enters Natural Naming until the workings and the session have conferred.
+

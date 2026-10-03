@@ -1,4 +1,4 @@
-Natural Intelligence v380k
+Natural Intelligence v380l
 
 # Natural Intelligence
 
@@ -692,7 +692,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Four four-cycles and their roots.**
 
-| Four-cycle: each move 8 up, n + 8, or 17 less, 17 − n | Root, self and society | Hand, beside the other four-cycles |
+| Four-cycle: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n) | Root, self and society | Hand, beside the other four-cycles |
 |---|---|---|
 | 1-9-8-16 | torusing, 8 and 16 | spiraling the other hand with 2-15-7-10 |
 | 2-15-7-10 | corusing, 7 and 15 | spiraling the other hand with 1-9-8-16 and 3-11-6-14 |
@@ -812,7 +812,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | six-cycle 1-9-5-12-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 5-co-bi-co-competencing · 12-bi-tri-bi-entraining · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri co bi bi bi | co-bi-tri · tri-bi-co · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | six-cycle 2-15-7-11-6-10, spiraling the other hand | — |
 | six-cycle 2-15-7-11-6-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 11-tri-bi-tri-chaining · 6-bi-co-bi-moralizing · 10-bi-tri-bi-tunneling | bi tri co tri bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-tri · bi-co-bi · bi-tri-bi | six-cycle 1-9-5-12-8-16, spiraling the other hand | six-cycle 3-11-7-10-6-14, spiraling the other hand |
 | six-cycle 3-11-7-10-6-14 | 3-co-bi-co-sharing · 11-tri-bi-tri-chaining · 7-co-bi-co-corusing · 10-bi-tri-bi-tunneling · 6-bi-co-bi-moralizing · 14-bi-tri-bi-moralizing | co tri co bi bi bi | co-bi-co · tri-bi-tri · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | six-cycle 4-13-5-9-8-12, spiraling the other hand | six-cycle 2-15-7-11-6-10, spiraling the other hand |
-| six-cycle 4-13-5-9-8-12 | 4-bi-co-bi-sharing · 13-tri-bi-tri-competencing · 5-co-bi-co-competencing · 9-tri-bi-co-momentarying · 8-bi-co-bi-torusing · 12-bi-tri-bi-entraining | bi tri co tri bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-co · bi-co-bi · bi-tri-bi | six-cycle 3-11-7-10-6-14, spiraling the other hand | — |
+| six-cycle 4-13-5-9-8-12 | 4-bi-co-bi-sharing · 13-tri-bi-tri-competencing · 5-co-bi-co-competencing · 9-tri-bi-co-momentarying · 8-bi-co-bi-torusing · 12-bi-tri-bi-entraining | bi tri co tri bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-co · bi-co-bi · bi-tri-bi | six-cycle 3-11-7-10-6-14, spiraling the other hand | — ; its own six names, in another order |
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 5-co-bi-co-competencing · 13-tri-bi-tri-competencing · 4-bi-co-bi-sharing · 12-bi-tri-bi-entraining · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri co tri bi bi bi bi | co-bi-tri · tri-bi-co · co-bi-co · tri-bi-tri · bi-co-bi · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 2-15-7-11-3-14-6-10, spiraling the other hand | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 11-tri-bi-tri-chaining · 3-co-bi-co-sharing · 14-bi-tri-bi-moralizing · 6-bi-co-bi-moralizing · 10-bi-tri-bi-tunneling | bi tri co tri co bi bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-tri · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 1-9-5-13-4-12-8-16, spiraling the other hand | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
