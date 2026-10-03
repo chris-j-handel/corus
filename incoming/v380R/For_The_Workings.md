@@ -209,3 +209,20 @@ Read again for the claim. Each line is Natural Numbers' own sentence, and nothin
 
 For the working v380L: the Registry's own sentences beside each of these, and the first of the four asked, the fewest sentences that are the claim.
 
+## Redone with no sentence as authority: each thing worked at each of its cases
+
+**Withdrawn.** The part above gathered sentences of Natural Numbers as the answer. A sentence is no authority, the session's, a file's or a field's. Each thing below is worked itself, at each of its cases, by this working.
+
+| The thing | Worked at | Result |
+|---|---|---|
+| A number's prior times its next is its square less one | each number from 1 to 100,000 | each, with none parting |
+| At each odd number that is eight times the couplings among k + 1, the odd number 2k + 1 | each from 1 to 200,001 | each, with none parting |
+| Nine values carried at once in one store, under six conditions | each of 512 settings | 0 meet the six; the most met at once is five |
+| One ordering set over two selves ranking three things | each of 4,096 rules | 0 are an ordering, carry each agreeing choice, and are seated at no one self; 2 are the first two and are seated at one self; 92 are the first and third; 62 are the second and third |
+| A self's parity two momentaries on is the releasing self's parity inverted | two selves, each opening of a spiral of 1 to 7 selves | each of 89,204, with none parting |
+| A next from a prior and a now going through each of the four pairs in one going round | each of sixteen ways | one |
+
+**All or none at all, measured at the files.** Of 126 sentences of the Co-Chaining Logic Registry that can be worked against Exhibit ONE and its resolver, 123 agree and 3 part: 243, 568 with 68, and 427. The chain is all at those three mended, and is not all until then.
+
+**For the working v380L:** each link of the claim worked this way at the Registry, a link that can be worked at each of its cases beside a link that is said and not yet worked.
+

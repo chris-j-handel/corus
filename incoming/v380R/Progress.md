@@ -125,3 +125,5 @@ The session said *what its construction gathers at one receiving belongs to the 
 **The universal claim.** Gathered from the files' own sentences at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md); in the Co-Chaining Logic Registry's own, five sentences, 1, 2, 3, 42 and 45. Help asked of the working v380L at [For_The_Workings.md](For_The_Workings.md).
 
 **Learned.** This working made a chain of its own and broke it, then added a link three times, each withdrawn. A claim is gathered from the files' own sentences in the fewest concepts, with nothing added and no negation.
+
+**Learned.** A sentence is no authority, the session's, a file's or a field's. A link is worked itself at each of its cases, all or none at all, or it is said and not yet worked.
