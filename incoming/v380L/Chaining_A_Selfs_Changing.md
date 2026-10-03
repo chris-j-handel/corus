@@ -301,6 +301,31 @@ Nothing else is at the crossing. The code's line at it is one: at a parity carri
 
 **Not done.** A fabric followed at sequencing alone. No fresh reader has read this part.
 
+## A rolling five: the carrying self at five parities in sequence
+
+**The session's saying.** *we have been looking at prior, now, next where now is the momentary. we need to consider the next momentary where prior is too far back and no longer in the carrying. but the two consecutive parities of the now momentary become the two consecutive next prior momentary so there is a rolling five consecutive parities that is a carrying self.*
+
+**No word decides it.** This part is the files' own sentences on a five, and arithmetic at the code's one line; nothing executed, and no fresh reader has read it.
+
+**One. The five is at the files, and its rolling.** The Registry: a resolving is *its five from its origin, the self 1 to 5 and the other 2 to 6: prior opening, prior completing, now opening, now completing and next opening*; the five dimensions *1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now, 5 self next*; and *At each momentary two dimensions are changing and three continuing, and the two and the three rotate round*. Exhibit ONE's table of fives: the self at 1, 1 to 5; the self next at 3, 3 to 7. Rolling two on, three of the five continue and two are new: the now's two are the next's prior two, and the prior's two are in the carrying no more. The saying says the five is the carrying self.
+
+**Two. The reach of the code's one line is the five.** Two selves, each at its own opening, the one's completing the other's opening, as the frame says: the self at 1, 3, 5, the other at 2, 4, 6. The line at each: its other parity, or at a changing arriving alike with it, no changing; an arriving is the other's changing, if it is. The self's next, 5, is from its now, 3, and the other's changing from 2 to 4; that changing is from the other's 2 and the self's changing from 1 to 3. Nothing prior to 1 is in it: 1, 2 and 3 given, 4 and 5 are. The window is five, and it rolls two on: 3, 4 and 5 given, 6 and 7 are.
+
+**Three. Worked at each of the eight openings of 1, 2 and 3: one form.** At each, 5 is 2 inverted; and from the second on each parity is the third prior to it, inverted. The parities in sequence are + + + − − − + + +, at themselves again at six, three at each side. Each five in sequence is three alike and two other, or two and three: + + + − −, + − − − +, − − + + +.
+
+| 1, 2, 3 | In sequence | The self, at 1, 3, 5, 7 | The other, at 2, 4, 6, 8 |
+|---|---|---|---|
+| + + + | + + + − − − + + + | + + − + | + − − + |
+| + + − | + + − − − + + + − | + − − + | + − + + |
+| + − + | + − + + + − − − + | + + + − | − + − − |
+| + − − | + − − − + + + − − | + − + + | − − + − |
+
+And the four with each inverted.
+
+**Four. Beside the Registry's living step, a parting for both.** The Registry's living step is next as the prior inverted, the four joint forms round in one cycle, at itself again at four. The form here is each the third prior inverted, at itself again at six. Exhibit ONE's two selves of alike priors joined both ways, each self at one call together, are + − − + + at each, at four. The two sayings: two selves each at its own opening, the one's completing the other's opening, the form at six, three at each side, the Registry's six one-way steps; or each self at one opening together, the form at four, as the code's third function and the living step say. Its reason: the frame says the self's momentary 1 2 and the other's 2 3, one number apart; the code's third function is each self at one call together.
+
+**Not done.** The five at a self's two parities, the along and the across. More than two selves. No fresh reader has read this part.
+
 ## The words at nothing arriving, deciding nothing
 
 **The session's saying.** *the 0 is no changing of co competency. if there is no arriving changing differencing is not possible*.
