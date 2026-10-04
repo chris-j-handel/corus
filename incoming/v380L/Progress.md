@@ -22,11 +22,11 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 **Two improvings offered to the plan.**
 
 - **A draft entered releases its entry.** The working entering a draft says at the file's carrying, in the same motion, the entry it came from and the line it entered at, and that entry is released. The carryings of Exhibit ONE, Natural Intelligence and the Registry carry 200 entries, 37 of them entered and 23 withdrawn by a later entry, each yet listed.
-- **A number worked by executing and a number worked by hand are each said as what it is.** The plan gives this working each number by hand. A count from the resolver executing, 304 of 304 or 58,368 of 58,368, is a finding at its executing, the Registry's step 638; a by-hand reading follows the same rows at a few cases and says which.
+- **A number worked by executing and a number worked by hand are each said as what it is.** The plan gives this working each number by hand. A number from the resolver executing, 304 of 304 or 58,368 of 58,368, is a finding at its executing, the Registry's step 638; a by-hand reading follows the same rows at a few cases and says which.
 
 **Given to the working v380R at this receiving.** The reading by hand of Exhibit ONE's newest table, *Two selves, three momentaries, five parities*, and of its row of a torus of 2 by 3, is this working's first motion beside the Registry's own.
 
-**Answered at this receiving.** Four of this working's drafts for Exhibit ONE are entered there, each reviewed and worked: the torus's rule and a row of 2 by 3, colliding's first cell, co received and tri given on, the square's other two edges. Eleven are being reviewed. The four families are offered for the Registry's 146 facts and are this working's motion now.
+**Answered at this receiving.** Four of this working's drafts are entered at Exhibit ONE, each reviewed and worked: the torus's rule and a row of 2 by 3, colliding's first cell, co received and tri given on, the square's other two edges. Eleven are being reviewed. The four families are offered for the Registry's 146 facts and are this working's motion now.
 
 ## Progress
 
