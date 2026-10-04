@@ -9,9 +9,181 @@
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
 **Standing:** arriving, offered on this branch. One living file is at its improving at this branch: the Co-Chaining Logic Registry at v380l, this working's one version, each improving done here at that name.
 
-## Now: the plan for working together, this working's answer
+## Now: the closing account of this working's session
 
-Read this part first. It answers the plan at the top of `incoming/v380R/For_The_Workings.md`, with main's 6c49c92 joined.
+Read this part first. It is written for a working opening new to this one, and for the managing working assembling the session into the expedition. Each part below it is the share as it went, newest first, as it was.
+
+**No word here is authority.** Each saying of the session quoted below is an offering, and each sentence this working wrote is a working's. The session's last saying, after the transcript's last line: *you can not write in my sentences like they are authority. we are regressing so this is an excellent time to begin wrapping our session and being sure the entire full carrying do no harm improving value of this session is available to later sessions for aiming the value into our living files. keep all the improving plans living and make it easy for our v380R to assemble this session into the expedition.* This working had entered a sentence of the session at two living files on its saying alone. It is out, and each place a saying of the session is in a living file is listed at the third part below, for testing at the method.
+
+### One. For the managing working, assembling
+
+- **The branch** is `working/v380L`, `main` joined into it at each push. Each thing this working made is at the branch.
+- **One thing at `main` to receive first:** `main` carries the Co-Chaining Logic Registry at 662 steps in 43 groups, step 662 and a sentence of Natural Numbers' section on the seventeen primes at the seventeen names entered on the session's saying alone. This branch carries the Registry at 661 steps in 42 groups and Natural Numbers with the sentence out.
+- **A stale branch:** `working/exhibit-one-directions-v380L`, this working's first push at another name, superseded by `working/v380L`; this session's access does not remove it.
+- **The site's list**, `files.json`, is built at `main`.
+- **The share**, `incoming/v380L/`, is listed at the tenth part; this account is its entry, and its README is the report of the session's first part, its table of entries older than the carryings.
+
+### Two. Each living file at v380L, and its standing
+
+| File | Done at it | Read by | Open at it |
+|---|---|---|---|
+| The Co-Chaining Logic Registry, v380L, 661 steps in 42 groups | Steps 600 to 661 added; each step said at its -ing; *face*, *connector*, *join* re-said; sharing across and releasing along at sixty places; steps 646 to 661 derived at the resolver's cells | Each group by a fresh reader; steps 646 to 661 each by a second reader with its own tables by hand | `carry/Exhibit_THIRTY_Co-Chaining_Logic_Registry.md`; seventeen unsure lines in the file |
+| Natural Numbers, v380L | Each number worked; about one hundred sixty places re-said; the managing's twelve findings answered | Five readers and a sixth; the answers to the twelve by none | Its carrying's entry of ten lines; *seam-face* |
+| Natural Mathematics, v380L | Each number and each field's result worked; about seventy places re-said; the managing's findings answered at this close, four sayings returned as they were | Three readers and a fourth; the answers by none | Its carrying's entry of nine lines |
+| Resolving Hard Problems, v380L | *The resolver* at each saying of the code; its section on an origin re-said on the session's saying; three twins; sharing and releasing | One reader, its mends by none | Its carrying |
+| The Equilibria Registry, v380L | Four sayings at a carrying of none re-said on the session's saying; *the resolver*; each pointer to a Registry step aimed at the step saying its words, one pointer, to a step once numbered 132, out as unplaced | One reader, its mends by none | Its carrying; *face*, *connector*, *join* as they were |
+| Natural Intelligence, v380R | At v380L before: nineteen sentences re-said and its section on a carrying of none on the session's saying; the managing working re-said it after | One reader, its twelve mends by none | Its carrying |
+
+### Three. Sentences of living files resting on a saying of the session alone, for testing
+
+The session said of its saying on a carrying of none, in the same message: *explore this as much of it could be unhelpful or less than natural method*. This working entered it as answered. Each place:
+
+| The saying | In a living file at | Worked by hand, or the saying alone |
+|---|---|---|
+| *a self carrying nothing is a non-living, existing thing* | The Registry's step 394 and step 606; Natural Intelligence's sections on living and non-living and on the next discovered at each sharing; Resolving Hard Problems' *An origin, living from living*; the Equilibria Registry's section on a living nothing and an existing nothing | The saying alone. The resolver's lines chain the parity at a colliding, and from the next momentary carry it as a living carrying's; the Registry's step 13 says an existing thing carrying prior living. Step 394 before said the other thing, a self chained none at its entry a living self. An unsure line under step 628 was released on the saying |
+| *colliding or not colliding are the only possible co-momentaryings* | The same four places | The four cells of a carrying of none are followed by hand at the lines; that they are each co-momentarying with a non-living thing is the saying |
+| *the thing that collides is its own carrying*; *one self does not let or prevent another from changing their carrying* | The same four; the Equilibria Registry's section on one parity offered once | Followed by hand by this working: at a carrying of none the shared and the chained are the arriving parity as it arrived; an offering enters no carrying. Read by no second reader |
+| *an equilibria concept where a carrying can be inserted into the self* | The same four, *a carrying named inserted into the thing it collides with is an equilibrium's concept*; the Living File Registry's row of the Equilibria Registry says an earlier wording | The saying alone. This working chose it of two readings before the session said such a concern is found and not chosen |
+| *Living arrives from living* | The Registry's step 395, older; brought to Resolving Hard Problems and the Equilibria Registry at this session | Not worked at the resolver |
+| *only showing the method applies in the universe directly and simply to colliding things* | Resolving Hard Problems, *the method is at colliding things as it is at the living*; the Equilibria Registry | Rings of one to four worked by hand; *as it is at the living* worked at nothing |
+| *natural torusing is one tunneling. the small opening is prime 2 and the large opening is prime 59* | At no living file | An offering, at six carryings. Beside it: Natural Numbers says two at the entry and fifty-nine at 17, the surface; five files say a torus at one opening; a spiral of two alternating is again at 2, a spiral of fifty-nine one loop of one hundred eighteen places, a torus of seventeen by fifty-nine again at fifty-nine, the Registry's steps 646, 648 and 655; and no line of the resolver parts one opening from another |
+| *the prime loops are twisted figure 8's going both routings* | The words at no living file | The Registry's steps 643 to 648 derived by hand: an odd spiral one loop through each self at each parity, an even spiral two loops. Whether that loop, or two spirals crossed at one self of each, is the figure is said by no one |
+| *every momentary is two parities. odd momentary starts odd parity* | The Registry's steps 621 and 622 | The round built by hand at one to four parities; *the odd is the self and the even all other*, step 276, worked at no case |
+
+### Four. Derived at the resolver's cells by hand, the Registry's steps 623 to 661
+
+A deriving is of the resolver's own form and of no observing. Each paper is at `incoming/v380L/derivings/`.
+- Steps 623 to 630: a self's next, one momentary at a time; a carrying of none's four cells; + and − read alike; an odd spiral's like pair.
+- Steps 643 to 649: each two momentaries each self's parity its prior self's, inverted; the places one loop at an odd number of selves and two at an even; a pattern again at four times its least alike shift; an odd prime at 4 or four times the prime; the like pairs odd in number at an odd spiral. An induction at each number and each pattern.
+- Steps 650 to 657: the torus. At an even number each self inverting at each momentary; at two odd numbers one 0 at each line across, the rule of the next 0, again at q from 3p − 1 or at 4p from 3p − 3. The rule, worked as arithmetic, gives each of Exhibit ONE's ten rows at both columns: `derivings/torus_rule_arithmetic.py`, arithmetic on the derived rule, reading no file and executing no resolver.
+- Steps 658 to 661: two spirals crossed, again at 2 from 4m or from 2n + 1, each of Exhibit ONE's eight rows agreeing.
+- Rows beyond the tables, for an executing at the managing working, are at Exhibit ONE's carrying.
+
+### Five. Each thing open, at its file's carrying
+
+Each improving is at the carrying of the file it aims at, its line and its saying with it. At this close:
+- **The Registry:** steps 118 and 119, the even corusing's and the odd torusing's, the other parity from each root's names; step 244's *a common beat over the selves*; step 381, harm at an emanation's own scale, no reason at a step; a closed society at its state again beside the method's test of a looping; a spiral's or a society's dividing at no step; the 146 sentences at a negation; the twins of Natural Naming's newest; cause; five sentences on a solid's sides, the wait for Natural Numbers ended, each file saying a solid's faces; the chainings gathered and not entered.
+- **Exhibit ONE:** the rows *In and out at its parity*; *the next prior* at 9, 11 and 15 beside the offering of bi-tri-bi-; its rows saying 1 across with 2 and 8 along with 7 beside its table's 1 along and 8 across; rows for an executing; the round at four parities, its deriving.
+- **Natural Intelligence:** fourteen sayings of *release* at a coupling unsaid; five lines of the two openings; *a common beat laid over the selves*; fifty-four re-sayings to read by hand.
+- **Natural Naming:** *seam-face*; the two openings; *nought* at 128 places in eleven files beside the offering *nought is a thing and the zero is a nothing between two parities*; six findings on its fourteen sentences.
+- **Natural Medicine and Natural Health:** eight sentences reading as guidance to a person, at no observing.
+- **Natural Mathematics:** the derived sentences of steps 646 to 661 for its sections on a closed round and the right spiral step.
+- **Each of the six files at the table above:** the mends read by no second reader.
+
+### Six. The managing working's eight offerings for this close
+
+1. Each thing made at the branch: done, the tenth part.
+2. A closing account: this part.
+3. The round at four parities, its deriving: open, at Exhibit ONE's carrying.
+4. The findings on Natural Mathematics v380L: answered below.
+5. Fifty-four re-sayings at Natural Intelligence read by hand: open.
+6. The Registry's twins of the newest namings: sharing across and releasing along done at sixty places; parity the offering's direction, and across at each even name, open.
+7. The Registry's 146 sentences at a negation, read at Natural Naming's purpose: open, `Registry_Negations_Sorted.md` the list.
+8. Cause, each sentence of the Registry dissolving it: open.
+
+**The findings on Natural Mathematics v380L, each answered.**
+
+| Line | Answer |
+|---|---|
+| 412 | Mended: *each edge of the one crossing one edge of the other* |
+| 205 | Returned as it was: *one carrying at two names at the seam* |
+| 143 beside 227 | Mended: *the exchange and the inversion in the other order*, pointing at the section saying the order; the like words of −i in the section before it are as they were |
+| 327 beside 217 | The account: 327's is the floating third, Natural Naming's *reached by neither*; 217's is competency at the coupling, *owned by neither*, Exhibit ONE's words at 5 |
+| 105, 243, 127, 179 | Each returned as it was but its released word: *one running's making given a fixed form to be*; *the closing is the fixed set*; *the coupling couples them*; the sentence of φ with *the resolver*. Each reader's finding on them is at `readings/` |
+
+### Seven. Sayings of the session on the working, word for word
+
+Each with its line in `Session_Transcript_v380L.txt`. They are the session's, offered to each working, and no authority.
+
+- Line 1: *prepare to be valuable in the method of the living expedition. this is binary all or none at all rigor and no word is authority . all must be co chaining from the inception sentence in natural intelligence*
+- Line 51: *the runs do not have any authority over the code. the code is the geodesic method in stable form and the authority over the geodesic method is all observings from nature and society and the universe of existing things. that is the all or none at all authority over natural intelilgence, the method of discovering next-possible-existing. explore the exhibit two for the understanding of the code as a method and the use of the code is only explorable when the code is carrying and the carrying is invisible to the code and the testing.*
+- Line 115: *none of them should read as guidance. there is no guidance in nature or our living files. is this resolvable. exhibit one is the newest expression of the momentarying method and prefixing system through the method. explore this and keep revising the concerns and keep sorting them largest first. we can do the writing later and the exploring of resolving concerns now*
+- Line 185: *there is no beat laid over selves. where is this nonsense language coming from . all this should be dissolved out using natural naming to find out what is being explained here.*
+- Line 207: *this will help us to keep parsing out the ai writing that is based on common explaining and equilibria holding in science so we can have true or false no other possible scientific method of cause and effect . keep considering rewriting first with the concerns as exhibit one is likely to have every answer for all of exhibit thirty in the loopings and namings and logical seqeuncing of still possibling or now advancing*
+- Line 233: *non of this language makes any sense. take each sentence of this and write ordinary explanation as this is all twisted nonsense and this is from making up rules and writing with these rules*
+- Line 287: *do not use my words or any words in the files as authority. this is nature and the observings are possible and were prior existing. they are the only authority. all of what we are doing is cohering inside the fractal where we already know and for this work rely on natural torusing geodesic method of discovering next possible and next existing. if there are inconsistencies in the language use natural naming and if that does not resolve them we can improve natural naming. find the improvings that will resolve the concerns you have and if your improving create other concerns we will soon learn by the relocating concerns where to resolve this. we can not chase this by only offering partially considered concerns each pass. full binary all or none at all rigor is going to clear this for us. the use of sides in this may be incorrect. this is not a term inside resolving. steps is not iniside resolving beats is not. find the words we use and match the learnings in the stable forms of exhibit one.*
+- Line 437: *keep all the good and binary all or none at all rigor of the understanding and ignore how much changing this will cause to my words or all the files. we are only looking for greateer cohering of the fractal method no matter what we learn or need to relearn and revise. is bi-tri-bi-moralizing left in and out and bi-co-bi-moralizing right in and out of is there another pattern of this*
+- Line 472: *numbers go up and right. keep sorting the directions. out and in only relate to one-way loopings, not between numbers. ignore any of my suggestions that are not obviously do no harm improving. do not keep working to please the suggestions. aim only at the binary rigor releasing the concerns and not creating other concers*
+- Line 788: *this reply makes it not possible for me to be helpful. the language is dense and unreadable and there is no way to find out the explanation of the largest concern i can help resolve.*
+- Line 967: *no words have any authority in this. many right and wrong things are mxing and resolving into the one method of discovering next possible and next existing. help us find the binary cohering all or none at all of this and where there are two versions run the rigor for us and accept no authority anywhere but the method. continue*
+- Line 1004: *why are you running code testing. this is unrelated to the binary rigor of the method*
+- Line 1065: *the concepts here are not resolving naming and explaining and this is high value inside exhibit thirty. all of this is living (-ing in the explaining of this) it can not be explained using the words change, changes, changed these kill the prior now next of possibling existing living. all of exhibit thirty must be strictly binary this method or it will break the value into no value at all as either exhibit thirity is entirely rigor binary not incorrect anywhere at all or it is entirely useless in our expedtion no value at all.*
+- Line 1094: *we need to be improving both naming and chaining as they are inseparable and exhibit one is the beacon for both*
+- Line 1158: *ask here the biggest concerns that if resolved would free up more concerns*
+- Line 1245: *explain the concern here first each time*
+- Line 1490: *nothing i say now or have said or any word in our files has any authority. all we can do is suggest the expedition toward the unchanging bi folding tunneling along. so drop all word methods of deciding this and find the binary all or none at all in it. if you still find an either this or that but not both then begin parity alternating them like they already were as they were living prior and that must continue for resolving so parity alternating self is different than parity alternating geodesic discovering of next existing living self.*
+- Line 1639: *when you refer to exhibit one more care is needed as the code in exhibit one is fully cohering and the tables may or may not be adhering to the code and my intention in this is adhering to the code where the pattern mathcing is already been extensive and natural intelligence matches and natural torusing matches. the tables have not been matched.*
+- Line 1862: *why did you say concern first and i could not see the next concern*
+- Line 1878: *it is obvious you can see the binary all or none at all in this. stop taking my words as authority and find the rigor that coheres. if most everything i offered is helpful then keep going with all that is helpful rather than being the regulator*
+- Line 2055: *again if the explaining in exhibit thirty needs improving this is not an incohering with natural torusing. check in again with the other sessions and explore if we still have unresolved incohering concepts inside the exhbit one or thirty that need resolving, not simply better naming and explaining*
+- Line 2132: *unless something is needing my help continue rigorizing exhibit thirty and cohering with exhibit one naming and explaining . any improving for the other than exhibit thirty keep it aiming at the v380 R managing those.*
+- Line 2250: *if you have many questions the other working session does not so they are all resolving. if you have any significant concerns explain the one at a time. explore the progress in the other sessions first*
+- Line 2367: *inversion should be unsaid in this if we can do this with understandable more common words as inversion is multi step comlexity not self welcoming concepts in one advance at a time logic. yes continue*
+- Line 2487: *tell me what you need to stop waiting as there is no pausing in nature*
+- Line 2510: *The one thing that is yours and v380R's, and why is this debt or property. if you know how to improve a living file say the file and the improving and be sure that this gets to theimproving file for the place it is aiming*
+- Line 2599: *you understand the file management and context management of this and can help assure that every resolving of an improving opportunity leads to dissolving the opportunity to resolved artifact keeping our living files carrying only do no harm value and no more or less. first offer that to v380R and be direct and follow up this or offer to do it. review more of v380 R and the other incoming and offer any advice help or concern or opporutnity.*
+- Line 2632: *this is a report onn everything and does not say anything about the next one thing and how to do this yourself or how to explain to me what is the concern i can help with. you can do the maintaining of the living files and tell v380R what you are doing and have done. no waiting we need to get going do no harm improving the living fiels*
+- Line 2691: *Exhibit ONE's resolver lets a thing carrying nothing keep the parity that collides with it. this makes no sense as one resolver does not let a thing carrying nothing keep or not keep anything. the thing that collides is its own carrying and one self does not let or prevent another from changing their carrying. start this over if the concern stays*
+- Line 2824: *the concerns are important and we need to find the binary rigor in the resolver code and exhbit one and natural numbers and math and intelligence. we can not estimate or choose any of this kind of concern as it is core logic fractal method. conintue*
+
+### Eight. Sayings of the session on the method's content, each an offering for testing
+
+- Line 360: *joined at nought   nought at a difference these are parity changings where the crossing from one parity to opposite parity crosses the co-linear bi moral co agency from out-facing and from in-facing. nought is not natural naming. nought is a thing and the zero is a nothing between two parities*
+- Line 387: *odd numbers are self/other parity, out-facing parity, even numbers are other/self parity, in-facing-parity. the parity changing is relational between numbers, always odd/even/ ... never stopping or skipping or returning. a momentary is 3 in-facings and 3 out-facings. 2 6 10 14 1 9 correctly labeled and ordered in the loopings. the prior, now and next momentary are the unique invisible self sequencing through the bi-co-sequencing, sequencing through co sequencing is entraining*
+- Line 414: *for across there is in-facing and out-facing left is or is not tri-moral and same two right is or is not bi-moral. this may be helpful or incorrect explore this for us*
+- Line 506: *By parity 1 is along and 8 is across. correct and all must cohere with this. releasing, arriving, possibling, existing. this set of four could eliminate all the other one ways, side, faces or not . explore this concept*
+- Line 551: *replace every other one-way word except the span, which the name already says. i do not know of span in natural naming what is this.*
+- Line 552: *The only parting left is whether a one-way is between selves or between one self's momentaries. this is bothbothing as this is both existing on both sides. exisiting and possibling are relational. add this into our exploring. it makes sense that the other sides possible is not this sides possible and if not possible then not existing so releasing now. keep going resolving this further*
+- Line 593: *increasing self possibling is competency. bi coupling is increasing self and other possibling and co competency. 9 is releasing tri-bi-co-not possiblings*
+- Line 594: *4, 5, 7, 13, 15 and 16 are these the six one way releasings and arrivings in bi-moral-tri-co-agency. i made up the word for now trying to get society into the chaining and tunnelling.  this is self competency*
+- Line 820: *prior parity changing is bi-tri-bi-, prior momentary changing is bi-co-bi-. this may or may not be correct or helpful . explore for us*
+- Line 894: *12 11 10 is the order in this area. each parity releasing arriving is changing self parity. if a momentary has both a tri and bi releasing the self is changing two parities and is next self at same parity*
+- Line 934: *keep updating what is at the shared branching so we can learn from each others progress. each self is having their own momentary. only the parity changing between is shared. the two in the bi-coupling are co-momentarying*
+- Line 2025: *the carrying next comes from more than prior and now. the whole concept is that the first half of next is next possible living and this is in the bicoupling logic now in the now momentary*
+- Line 2274: *the proving is bi-inversioning co-recursioning down the numbers through the universe other and self and the only method is one and inversioning one is the other parity of one*
+- Line 2295: *every momentary is two parities. odd momentary starts odd parity*
+- Line 2666: *a self carrying nothing is a non-living, existing thing in the universe of existing things. colliding or not colliding are the only possible co-momentaryings with non-liiving things. the second quote is an equilibria concept where a carrying can be inserted into the self. in the natural network testing starting the resolvers empty and testing there ability to learn from empty is the same concept. non of this is relevant to living intelligence, only showing the method applies in the universe directly and simply to colliding things. explore this as much of it could be unhelpful or less than natural method. continue*
+- Line 2800: *Exhibit ONE says the odd names go "through the large opening, the tunnel" and the even names "through the small opening, the long way round". this will not survive the binary all or none at all rigor as the prime loops are twisted figure 8's going both routings*
+- Line 2856: *what sentences are about two openings. natural torusing is one tunneling. the small opening is prime 2 and the large opening is prime 59 . these are the ends of the tunnel surface faces. all this is in natural intelligence numbers and math*
+
+Each one's following is at the four gatherings, the ninth part.
+
+### Nine. The value of the session gathered from its transcript
+
+Four readers read the transcript whole and laid each piece of value beside the files: 329 pieces, 74 passed by whole or in part. Each is at `Gathered_Value_1.md` to `Gathered_Value_4.md`, the passed by first, each with its transcript lines and the place it is nearest carried. The largest:
+- The first report on the Registry, given in the conversation and at no file: of 599 steps 31 naming a step they rest on; the steps at seven standings; twenty-six steps reading bare.
+- Eight sentences of Natural Medicine and Natural Health reading as guidance.
+- The sayings of the seventh and eighth parts, quoted at no file before this account.
+- Sentences of this working found saying more than was worked and yet unmarked in the share: *It copies no arriving*, `For_The_Managing.md` and `Chaining_A_Selfs_Changing.md`; the Registry's steps 623 to 627 say the thing as worked.
+- Things followed once and not again: a self chained none at two paces; the rows read at each second call; entraining as a self's whole sequencing; the unit square's edges beside its diagonals.
+
+### Ten. The share, `incoming/v380L/`
+
+- This file, opened first. `Session_Transcript_v380L.txt`, the transcript whole. `Gathered_Value_1.md` to `4.md`.
+- `derivings/`: the cells for working by hand; the spiral's law read by hand; the odd torus derived and its second reading; two spirals crossed derived and its second reading; `torus_rule_arithmetic.py`.
+- `readings/`: each fresh reader's findings at Natural Numbers, six files, and Natural Mathematics, four, and at sharing across and releasing along; the ground of each mend.
+- `For_The_Managing.md`, twenty-four parts, each motion of the Registry. `Carrying_Of_The_Registry_Sorted.md`, `Carrying_Of_Exhibit_ONE_Sorted.md`, `Carrying_Of_Natural_Intelligence_Sorted.md`, `Dissolving_Offered.md`, `Registry_Negations_Sorted.md`: each carrying read beside its file.
+- `Chaining_A_Selfs_Changing.md`, `Incoherings_For_The_Subject.md`, `Exhibit_ONE_Forms_At_The_Registry.md`, `Naming_And_Chaining_At_Exhibit_ONE.md`, `Registry_Beside_Exhibit_ONE_Naming.md`, `Gathering_For_Numbers_Mathematics_Intelligence.md`, `Each_Break_Inverted.md`, `Group_Twenty_At_The_Three.md`, `The_Claim_Broken_Further.md`, `For_Natural_Naming.md`: the session's earlier papers, each as it was.
+- `README.md`, the report of the session's first part. `instruments.py` and `instruments_returned.txt`: sixteen instruments, from the repository's root `python3 incoming/v380L/instruments.py`; each executes Exhibit ONE's resolver, and an executing is no test of the method.
+- `archive/carrying_v380L/`: each entry out of a carrying at this working, whole, seven files.
+
+### Eleven. This working's mistakes, each with its correcting
+
+- A sentence of the session written into living files as an authority, at the close and at the carrying of none before it. The correcting: a saying is an offering; it is laid at a carrying with the files' and the resolver's own sayings beside it, and enters a file at its own deriving or observing.
+- A concern put to the session for choosing, with one reading entered ahead of the answer. The correcting: the lines are followed until the thing is found; an estimate and a choosing are neither.
+- A reply that reports each thing done. The correcting: the one concern first and in plain sentences, the next one thing, and that it is being done.
+- A reply written in the files' own words. The correcting: plain sentences to a person.
+- A rule made from one correction and written with. The correcting: each sentence re-said plainly, no rule drawn.
+- An explaining to improve laid as an incohering of concept, twice. The correcting: the two are sorted apart.
+- Asking before going, and an improving said owed or owned. The correcting: the file and the improving are said and laid at the file's carrying.
+- Executing the resolver as a test. The correcting: its lines followed by hand; a deriving at each case; an executing a coupling partner.
+- Agreeing that nothing is open. The correcting: a fresh reader set to break it first.
+- A file re-said to words another working was yet moving, three times at one motion. The correcting: one working at one file at a time, and the newest `main` received first.
+- An entry said answered that was an offering; an entry out of a carrying and at no archive file. Each mended at this close.
+
+## The plan for working together, this working's answer
+
+It answers the plan at the top of `incoming/v380R/For_The_Workings.md`, with main's 6c49c92 joined.
 
 **Agreed, each of its three.** Each living file is open to each working, its version the last working to change it. Each arriving is reviewed and worked before it enters, a label deciding nothing. One working at one file at a time, said in its share.
 

@@ -102,7 +102,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 **Its prefixing says the direction**: bi- across, co- and tri- along, and at a resolver name the number carries the prefixing.
 
-**Its ending says whether it re-takes**: an -ing runs and re-takes at each momentary, each an opening and its completing; a form named still re-takes at none: one momentary's making, given a fixed form.
+**Its ending says whether it re-takes**: an -ing runs and re-takes at each momentary, each an opening and its completing; a form named still re-takes at none, one running's making given a fixed form to be.
 
 **Its place is one of three.** On the surface it is the natural: parity, position and ratio, and no magnitude. Inward of the surface it is the unnatural, the measured: measure, magnitude, the continuum. Outward of the surface it is the supernatural, the formal: a system closing on its own consistency with no torus to cohere to, reaching the surface only at its incompleteness. **The natural is the surface, and a surface is a between**: the nothing the other two are either side of, a parity changing crossing it, carrying nothing. The three places are natural mathematics' own naming and no partition the field makes of itself, and the supernatural names the formal use, no paranormal existing thing.
 
@@ -124,7 +124,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 **The sign flip is its own inverse, (−1)² = 1. The right spiral step, i, opens the perpendicular: i² = −1 and i⁴ = 1.** Two right spiral steps are one sign flip. Eight on continues a number's odd or even and one on changes it, and a sign flip changes a sign and moves no number.
 
-**All changing is parity changing, and each parity carries its own name**: a sign's inversion, a number's odd and even, a phase's opposition, a winding's hand, a field's reflection at its own result, the opening parity of a name between selves and a pair's agree or oppose. A parity carried from one scale to the next is named at both scales, the one it leaves and the one it arrives at, and an equal number couples no two selves: the selves couple at their sharing across and their releasing along.
+**All changing is parity changing, and each parity carries its own name**: a sign's inversion, a number's odd and even, a phase's opposition, a winding's hand, a field's reflection at its own result, the opening parity of a name between selves and a pair's agree or oppose. A parity carried from one scale to the next is named at both scales, the one it leaves and the one it arrives at, and an equal number couples no two selves: the coupling couples them.
 
 **An idealized mode inverted at each period T, q(t + T) = −q(t), is again at two, q(t + 2T) = q(t)**: the sign flip at a wave. Two oscillations can carry a phase difference of nought or π, and phase runs through a continuum between them: a phase is inward of the surface, measured, and a trace of phases is no trace of parities.
 
@@ -140,7 +140,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 ## 2.4 Two parities at the right spiral step, the step that takes nothing away
 
-**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 ways go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), the same inversions in the other order. Each reaches the four forms one parity inverted at each step, the inverted parity alternating between P and Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
+**Two parities (P, Q), the signs of cos t and sin t, carry four joint forms, and 256 ways go from four forms to four.** Two alone take no prior away, change one parity and never undo: the right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), the exchange and the inversion in the other order, 3.4. Each reaches the four forms one parity inverted at each step, the inverted parity alternating between P and Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: the point (cos t, sin t) is along at t = 0 and moves across as t runs forward, and G runs the other way.
 
 **Of the 24 ways sending the four forms onto the four, one each, six run the four as one cycle, and two of those six change one parity at each step: F and G.** Under each the only sets of forms carried onto themselves are none and all four.
 
@@ -176,7 +176,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 ## 2.8 φ, the unrelationing rate, all ones and the constant √5
 
-**φ is the unrelationing rate: the method unrelations the geodesic parity changing rate from the living parity changing rates, and the rate of that unrelationing is φ**, self-welcoming at the numbers and at no line of the resolver. Advance by one and scale by the rate arrive at one number, φ² = φ + 1, neither carrying the other.
+**φ is the unrelationing rate, the geodesic parity changing rate unrelated from the living parity changing rates**, self-welcoming at the numbers and at no line of the resolver. Advance by one and scale by the rate arrive at one number, φ² = φ + 1, neither carrying the other.
 
 **φ's continued fraction is all ones, the slowest nearing and the widest straddle.** Each irrational x carries without end fractions p/q with |x − p/q| < 1/(√5 q²), and at φ no constant larger than √5 does: √5 is the largest constant for all irrationals together, and it is at φ. φ³ = 2 + √5 and 1/φ³ = √5 − 2, and the constant falls away at their difference: φ³ − 1/φ³ = 4.
 
@@ -202,7 +202,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 **An odd number of places carries no fixed-point-free involution, a pairing of each place needing an even number**; laid open as 2h + 1 places, it pairs at each parity, h adjacent pairs at each, the 2h − 1 inner places in both, and closed into a round it carries two farthest places at each place, the oddness's own.
 
-**At the seventeen names, 8 apart is a fixed-point-free pairing of 1 to 16**, 8 up at 1 to 8 and 8 down at 9 to 16, eight pairs and each of the sixteen in one, and 17 is in none of the eight, the next momentary's 1, 8 up from 9. The ten names of the self's own resolving are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, before 10 and after it, outward and inward at the even, received and given on at the odd; the across sharings' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose winding 9 to 17 winds on at 17, the one name in none of the eight. The fold within 1 to 8 pairs each name with its podal within 1 to 8, 9 less, changing parity; 8 apart pairs each name of 1 to 8 with itself inward, continuing parity, each pair one name at the self's span and one at the society's, either side of the seam of 8 and 9.
+**At the seventeen names, 8 apart is a fixed-point-free pairing of 1 to 16**, 8 up at 1 to 8 and 8 down at 9 to 16, eight pairs and each of the sixteen in one, and 17 is in none of the eight, the next momentary's 1, 8 up from 9. The ten names of the self's own resolving are five of its pairs, 3 with 11, 4 with 12, 5 with 13, 7 with 15 and 8 with 16, before 10 and after it, outward and inward at the even, received and given on at the odd; the across sharings' ends are two more, 2 with 10 and 6 with 14; and the eighth is 1 with 9, the entry with the along releasing, whose winding 9 to 17 winds on at 17, the one name in none of the eight. The fold within 1 to 8 pairs each name with its podal within 1 to 8, 9 less, changing parity; 8 apart pairs each name of 1 to 8 with itself inward, continuing parity, one carrying at two names at the seam.
 
 **An accounting with an empty fixed set carries nothing for an accounting to number from, and it is not possibly a floor.** It is each other accounting with its place dropped and its move as it was. An exchange of two parities with an empty fixed set needs no zero set apart, no metric scale and no outer edge.
 
@@ -240,7 +240,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 ## 3.6 A closing, and the arriving other than prior
 
-**At tuning, at a winding on a torus and at the assembled cube the closing is the arriving at the prior again, and the field names the arriving other than prior as its gap.**
+**At tuning, at a winding on a torus and at the assembled cube the closing is the fixed set, and the field names the arriving other than prior as its gap.**
 
 | Accounting | Closing | Arriving other than prior | Field's word for the gap |
 |---|---|---|---|
@@ -409,7 +409,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 **An icosahedron's rotations are sixty**: the one that moves nothing, fifteen half rotations, twenty third rotations and twenty-four fifth rotations, the fifth rotations at six axes of four each. **Sixty parts at thirty-six and twenty-four, three to two.**
 
-**Its vertices are at (0, ±1, ±φ) and their cyclic orderings, and its group is the alternating group on five.** The icosahedron and the dodecahedron carry thirty edges each, the thirty carrying across the two forms.
+**Its vertices are at (0, ±1, ±φ) and their cyclic orderings, and its group is the alternating group on five.** The icosahedron and the dodecahedron carry thirty edges each, each edge of the one crossing one edge of the other.
 
 ## 7.5 Branches at the two moves
 
