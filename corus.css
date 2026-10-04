@@ -3,10 +3,10 @@
 @media print{.read-top,.contents,.controls,.notice,dialog{display:none!important}.wrap{padding:0;max-width:none}.doc pre{white-space:pre-wrap;background:white}.table-wrap{overflow:visible}.file-row{break-inside:avoid}body{background:white;font-size:12pt}}
 
 /* Living AI access · v380A */
-.ai-access{max-width:876px;width:calc(100% - 64px);text-align:center;margin:12px auto 0;padding:10px 0 12px;border-bottom:1px solid var(--rule)}
+.ai-access{text-align:center;margin:0 0 9px;padding:10px 0 12px;border-bottom:1px solid var(--rule)}
 .ai-access p{margin:0}
 .ai-access a{font-size:21px;line-height:1.35;overflow-wrap:anywhere}
 .ai-access button{display:block;margin:3px auto 0;min-height:44px;padding:8px 10px;border:0;background:transparent;color:var(--muted);font:13px/1.5 system-ui,sans-serif;text-decoration:underline;text-underline-offset:4px}
 .ai-access button:hover{color:var(--ink)}
-@media(max-width:650px){.ai-access{width:calc(100% - 40px);margin-top:10px}.ai-access a{font-size:19px}}
+@media(max-width:650px){.ai-access a{font-size:19px}}
 @media print{.ai-access{display:none!important}}
