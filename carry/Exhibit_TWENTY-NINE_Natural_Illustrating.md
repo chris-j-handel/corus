@@ -8,6 +8,8 @@ Exhibit TWENTY-NINE Natural Illustrating · carrying v379
 
 None.
 
+**Ready, at v379, from `incoming/v380L/Progress.md`, its part *Now*, for the working v380A at this file: two pointers into Natural Intelligence, re-said there at v380L.** Line 216, *the living step's form carried alone … Natural Intelligence 4.12 and 2.4*: Natural Intelligence says a lone self offered nothing at the two parting forms, its next its prior itself, and the living step at a spiral of one and at each self of a spiral. Line 174, *Exhibit ONE's sides table*: Exhibit ONE's table of fives.
+
 ## Concern
 
 **Concern, at v379, for both: the four corner dots at three readings.** 2.3 draws four dots 2, 6, 14 and 10, the connectors across, with the between at the centre; Resolving the Hard Problem Registry's front draws four corners 2, 3, 3 and 4, numbers, with the +1 at the centre; the Equilibria Registry 1.2 says four positions 1, 2, 3 and 4, the three momentaries overlapping. Each is a square of four with the between at its centre, and the illustration draws one square or three; if one, the correspondence is said at a file's sentence, and no file says it yet. The reason: four at each alone establishes no correspondence, 2.9; at Natural Intelligence's carrying.

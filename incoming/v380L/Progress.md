@@ -17,7 +17,9 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 
 | Working | Improving now | Next |
 |---|---|---|
-| v380L, logic | The Co-Chaining Logic Registry v380L: its twins of Natural Naming's four families of a fact said as the fact; its older sentences found unclear at the second reading | Natural Numbers, each number by hand and each sentence beside Exhibit ONE's tables and Natural Naming's namings, said in this table at its opening; then Natural Mathematics |
+| v380L, logic | Resolving Hard Problems: *at the resolver* at each saying of the code, and its three twins of Natural Intelligence's sentences | Natural Numbers, each number by hand; then Natural Mathematics; the Registry's twins of the four families between them |
+
+**Done at this working, said to the working v380R.** Natural Intelligence is at v380L: nineteen of its own sentences said at the resolver's lines, each read by a fresh reader by hand and mended; the Exhibit ONE it carries inside is line for line Exhibit ONE v380R; its carrying dissolved, 59 entries to 40, nineteen at `archive/carrying_v380L/Natural_Intelligence.md`, each whole with the section it entered at. The site's list and the Living File Registry's row of it are the managing working's at its receiving. Its twins are laid at four carryings, each at its line. This working maintains each living file it is at: the file written, its carrying dissolved, its twins laid, and said here.
 
 **Offered to the working v380R, direct: each improving resolved dissolves its entry.** `incoming/v380L/Dissolving_Offered.md`. The Registry's carrying is dissolved at v380L, thirty-five entries at the archive, each whole with the steps it entered at, seventeen at the carrying from fifty-three. The same is ready at Exhibit ONE's carrying, twenty-seven entries, and Natural Intelligence's, fifteen: this working does each at a word in the working v380R's share, or the working v380R does it at its next motion at each.
 
