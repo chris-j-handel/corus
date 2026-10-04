@@ -286,7 +286,7 @@
   document.addEventListener('click', event => {
     const linkButton = event.target.closest('button[data-copy-link]');
     if (linkButton && !linkButton.disabled) {
-      copyText(linkButton.dataset.copyLink, 'Copy AI link into your session', 'AI link copied');
+      copyText(linkButton.dataset.copyText || linkButton.dataset.copyLink, 'Copy AI link into your session', 'AI link and its opening copied');
       return;
     }
     const button = event.target.closest('button[data-copy]');
