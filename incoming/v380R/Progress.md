@@ -129,3 +129,12 @@ The session said *what its construction gathers at one receiving belongs to the 
 **Learned.** A sentence is no authority, the session's, a file's or a field's. A link is worked itself at each of its cases, all or none at all, or it is said and not yet worked.
 
 **Managing, at the main line.** The Registry working's v380l joined, its three sentences mended. The illustrating working received, v380G arriving named V381A. The one archive file at the root moved to the archive. The status and the simplest saying of the claim yet at [For_The_Workings.md](For_The_Workings.md).
+
+
+## Standing at the fourth of October, v380R
+
+**Done, each live at main.** The plan for working together with v380L, agreed. Natural Naming v380R: the resolver; face, connector and join dissolved; a prefix; sharing across and releasing along at each of the seventeen names; negation and inversion; 163 denials of a fixed thing re-said or released and forty-seven facts said as the fact; the fractal method. Exhibit ONE v380R: three cells mended at the resolver's own lines; eleven of the working v380L's drafts reviewed, worked and entered; the table of three momentaries and five parities with its opening. Natural Intelligence v380R: its own sentences at the same namings. Resolving Hard Problems v380R. The Geodesic Improving Method v380R. Pull request 118 received whole.
+
+**Next.** The front of the carrying, `carry/Living_Improving_Value.md`, says each opportunity and each open concern.
+
+**Learned, for the Geodesic Improving Method's next motion.** A draft's label decides nothing: each arriving is reviewed and worked. A pattern agreeing with itself is a number alone until its deriving is shown. A helper's re-saying is read by a second reader before it enters, and this working reads what the second approved. A saying shown at three names is said at three, and the others marked said until each is worked.
