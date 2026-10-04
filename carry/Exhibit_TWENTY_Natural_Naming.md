@@ -140,3 +140,5 @@ Exhibit TWENTY Natural Naming · carrying v379
 **Next, at v380l: this file's conferring gathered at `incoming/v380R/Natural_Naming_Conferring.md`.** Ten namings decided; the working v380L's offering; eight open, a prefix first, and each other parting leaning on one of the eight.
 
 **Ready: four sayings true of colliding alone.** The row of 12 at *a sharing chained none*, the two rows opening *none* of the table of one sharing, and the second line of 5.44 each say a carrying of none, Exhibit ONE's *Colliding*. Each is ready to be said apart from living resolving, one motion. The sentence *the resolver's one none* is ready beside them: Colliding shows a second none.
+
+**Next: the facts yet said by a negation, each for a positive saying.** Listed at `incoming/v380R/Natural_Naming_Negations_Yet.md`, ninety-four clauses with a reviewer's reason, and about twenty-five more three helpers left as they were. The largest families: *at no line of the resolver*; *no offering reaches it but at a coupling*; *a number agreeing is no deriving*; a direction, *neither coupling carries a self the other way*; *of no size*.

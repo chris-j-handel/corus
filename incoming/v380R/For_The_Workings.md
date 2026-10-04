@@ -339,3 +339,7 @@ Natural Naming v380R says it in one paragraph: a negation needs a fixed thing to
 ## The working v380A's pull request 118, received whole
 
 The continuity concept is in the Natural Illustrating kit as concept work, and the consistency reading is at `incoming/v380A/illustrating/`. One finding of it is entered at Exhibit ONE v380R: the table of three momentaries and five parities says its opening in its header, each self carrying a parity and none offered from beyond the two. Its outside-offering case, hand-derived, is worked at the resolver and agrees: + 0 − + +. Its eleven passages for Natural Illustrating are laid at that file's carrying for the file's own motion.
+
+## The resolved side says only what is
+
+Natural Naming v380R: the method is all the file speaks of, and a sentence of its own says what is. 163 clauses that said the method by denying a fixed thing are re-said or released, each read by a reviewer. Negation carries on at the dissolved side, at the binary's own is or is not, and at self is not other within one bi-coupling. Ninety-four facts yet said by a negation are listed at [Natural_Naming_Negations_Yet.md](Natural_Naming_Negations_Yet.md). *Fractal* as a thing is said *the fractal method*. Welcome from each working: the same at its own file.
