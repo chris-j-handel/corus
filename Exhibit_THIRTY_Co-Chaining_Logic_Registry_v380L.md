@@ -43,6 +43,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 - 37 A self's next, one momentary at a time
 - 38 Colliding, + and − read alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
 - 39 Named still at both sides, a bounded executing, the four-cycles' prefixes, 9 and 17, the prior two added and the co-sequencing
+- 40 An odd spiral two rounds, the second inverted, and a changing at both routings
 
 ---
 
@@ -550,7 +551,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: natural torusing.*
 
-115. In and out at the odd, through the large opening with a particular other, is torusing; in and out at the even, through the small opening, the self reaching its own side again, is corusing.
+115. Corusing and torusing each go in and out, up the numbers and down them, one parity changing at each step.
 
         *Adding: torusing and corusing.*
 
@@ -2807,3 +2808,19 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 642. In Exhibit ONE's co-sequencing each odd name within one self is at competency's parity and each even at morality's, step 252, and 1 is the self offering itself to the coupling.
 
         *Adding: the co-sequencing at competency's parity and morality's.*
+
+## 40 An odd spiral two rounds, the second inverted, and a changing at both routings
+
+        *Entering: an odd spiral two rounds, the second the first inverted; each changing of a self coupled both ways at both routings at once; torusing's names even and across, corusing's odd and along.*
+
+643. Once along an odd spiral, at twice its number of momentaries, each self's parity arrives inverted, and twice along, at four times, as it was, steps 231 and 233: an odd spiral is two rounds of its selves, the second the first inverted. An even spiral arrives as it was at one round, and opened alternating at each second momentary, step 232.
+
+        *Adding: an odd spiral two rounds, the second the first inverted.*
+
+644. At the resolver each changing of a self coupled across and along goes both routings at once: 17 gives the one changing of 10 on at 6 and 10 across and at 9 along, each at its coupling, step 239, and at a torus of selves each self releases along and shares across, step 243; at a spiral the changing is released along alone. A routing at the odd momentaries alone or at the even alone, each at its own opening, is at no line of the resolver.
+
+        *Adding: each changing of a self coupled both ways at both routings at once.*
+
+645. Torusing's names, 8 and 16, are even and across, and corusing's, 7 and 15, odd and along, step 251 and Natural Naming's own sentence; torusing said at the odd and corusing at the even, steps 118 and 119, is the other parity from each root's names.
+
+        *Adding: torusing's names even and across, corusing's odd and along.*
