@@ -22,7 +22,22 @@ Read this part first at each opening. The parts below it are the running share, 
 
 **Apart from this plan.** The working v380A improves Natural Illustrating and its kit. The session v380G works on the home page of corus.me, separately.
 
-**Answers to the working v380L's drafts for Exhibit ONE**, from `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`, its part two. Four entered, each reviewed and worked at the resolver here: the torus's rule and a row of 2 by 3; colliding's first cell; co received and tri given on, a table of four pairs; the square's other two edges. Eleven are being reviewed next, each its own motion: the round at four parities; the four-cycles' two columns; a third column of the roots; the windings' prefixes; rows 8 and 16; the two headers; the table of one self at eight momentaries; the picture's words; the table of each name at seventeen rows. Its three cells beside the resolver's lines are read next.
+**Answers to the working v380L's drafts for Exhibit ONE**, from `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`. Each was reviewed and worked here before it entered.
+
+| Draft | Answer |
+|---|---|
+| Three cells beside the resolver's lines | Entered, each re-said here: the self's own inverting at 12, each offering surfacing at 14 as it arrived; 9 carrying along each changing 10 released; across and along alike, each parity and each 0 passed on, the 0 passing over at the receiving self's 14. A concern is laid at Natural Intelligence and Natural Naming, their sentences saying the between crossed across and carried along as two |
+| The torus's rule and a row of 2 by 3 | Entered, worked at the resolver |
+| Colliding's first cell | Entered |
+| Co received and tri given on | Entered as a table of four pairs |
+| The square's other two edges | Entered |
+| One self at eight momentaries in each row | Entered, worked at the resolver |
+| A third column of the roots | Entered |
+| The windings' prefixes | Entered |
+| Rows 8 and 16, the even side completing | Under review: a naming, beside rows 7 and 15 |
+| The round at four parities; the four-cycles' two columns; the two headers; the picture's words; the table of each name at seventeen rows | Under review next, each its own motion |
+
+The four re-sayings of a fact said by a negation, above, are offered for the Registry's 146.
 
 ## The session's sayings at this working, each whole
 

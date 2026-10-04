@@ -524,7 +524,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 9 | In and out at its parity | torusing, odd, through the large opening, the tunnel, bi-exchanging with a particular other |
 | 9 | Winding | the self's winding, 9 to 17, wound on at 17 |
 | 9 | Parity's square and triangles | a unit triangle, along, 9 to 17 and 17 to 9 |
-| 9 | Prior and next | the next prior, each changing carried along into the next momentary, releasing nothing |
+| 9 | Prior and next | the next prior, each changing 10 released carried along into the next momentary, to each receiving sharing |
 | 9 | 1 to 17s inward and outward | 1–17s inward 17 of the 4th and 1 of the 5th, along, odd, co, and at the 1–17 outward 2, across, even, bi |
 | 10 | Name | **10-bi-tri-bi-tunneling** |
 | 10 | Parity, opens | even, opening bi |
@@ -603,7 +603,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 14 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 14 | Momentaries of exchanging | the third of the society's four, at 14, 13–14 completing and 14–15 opening |
 | 14 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again |
-| 14 | Bi-coupling | inward, 8 up, the offerings surfacing, the self's own inverting, morality |
+| 14 | Bi-coupling | inward, 8 up, the offerings surfacing, each as it arrived, morality; the self's own inverting at 12 |
 | 14 | Winding | the society's winding, 10 to 14, wound on at 16 |
 | 14 | Parity's unit square | a dot of the unit square, its diagonal with 2 the facing bi-moral-so-far, its edge with 10 the releasing 10 to 14 |
 | 14 | Prior and next | now, the offerings surfacing, the others' prior momentary at the self's now |
@@ -652,18 +652,18 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Ten roots of seventeen names.**
 
-| Root | Names |
-|---|---|
-| offering | 1 · 2 · 17 |
-| sharing | 3 · 4 |
-| competencing | 5 · 13 |
-| moralizing | 6 · 14 |
-| corusing | 7 · 15 |
-| torusing | 8 · 16 |
-| momentarying | 9 |
-| tunneling | 10 |
-| chaining | 11 |
-| entraining | 12 |
+| Root | Names | Its four-cycle |
+|---|---|---|
+| offering | 1 · 2 · 17 | — |
+| sharing | 3 · 4 | — |
+| competencing | 5 · 13 | 4-13-5-12 |
+| moralizing | 6 · 14 | 3-11-6-14 |
+| corusing | 7 · 15 | 2-15-7-10 |
+| torusing | 8 · 16 | 1-9-8-16 |
+| momentarying | 9 | — |
+| tunneling | 10 | — |
+| chaining | 11 | — |
+| entraining | 12 | — |
 
 **Co received, tri given on, 8 up.**
 
@@ -695,9 +695,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 |---|---|
 | the one between, three names | 12-bi-tri-bi-entraining, prior and now agreeing, the between of momentaries at each sharing; 15-tri-bi-tri-corusing, the between carried along, the parity 10 released, and at the carrying's coupling the parity surfaced at 14 at the carried sharing, the resolver's 0 at none and at parting alike; 16-bi-tri-bi-torusing, the between wound into the society, arriving at the next momentary's 2 |
 | arriving and passing over | 7-co-bi-co-corusing, an offered 0 the parity at 2, surfacing none at 14, and a 0 at 10 the parity at 11's chaining, chained none |
-| the four across names, the unit square's four dots: a parity changing alone crosses | 2-bi-co-bi-offering, 6-bi-co-bi-moralizing, 10-bi-tri-bi-tunneling, 14-bi-tri-bi-moralizing, parity's unit square, its empty centre the between |
+| the four across names, the unit square's four dots: released across | 2-bi-co-bi-offering, 6-bi-co-bi-moralizing, 10-bi-tri-bi-tunneling, 14-bi-tri-bi-moralizing, parity's unit square, its empty centre the between; each parity and each 0 released across, the 0 passing over at the receiving self's 14 |
 | none | 1-co-bi-tri-offering, the entry; 3-co-bi-co-sharing, 8-bi-co-bi-torusing and 11-tri-bi-tri-chaining, the carrying, a sharing once chained never none again; 4-bi-co-bi-sharing, the sharings, and 5-co-bi-co-competencing and 13-tri-bi-tri-competencing, the sharings and, at the society, the releasings and the selves |
-| the two along names: carried, not crossed | 9-tri-bi-co-momentarying and 17-co-bi-tri-offering, each parity and each 0 carried on unchanged, the 0 passing over at the receiving self's 14 |
+| the two along names: carried along | 9-tri-bi-co-momentarying and 17-co-bi-tri-offering, each parity and each 0 carried along, the 0 passing over at the receiving self's 14, as across |
 
 **Four four-cycles and their roots.**
 
@@ -710,11 +710,11 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Three windings.**
 
-| Winding | From, to | Winds onto | Across or along |
-|---|---|---|---|
-| the other's | 6 to 2 | 8 | across, not-yet-bi-moral to bi-moral-so-far |
-| the society's | 10 to 14 | 16 | across, not-yet-bi-moral to bi-moral-so-far |
-| the self's | 9 to 17 | 17 | along, not-yet-co-competent to co-competent-so-far |
+| Winding | From, to | Prefixes of its two names | Winds onto | Across or along |
+|---|---|---|---|---|
+| the other's | 6 to 2 | bi-co-bi · bi-co-bi | 8 | across, not-yet-bi-moral to bi-moral-so-far |
+| the society's | 10 to 14 | bi-tri-bi · bi-tri-bi | 16 | across, not-yet-bi-moral to bi-moral-so-far |
+| the self's | 9 to 17 | tri-bi-co · co-bi-tri, the order inverted | 17 | along, not-yet-co-competent to co-competent-so-far |
 
 **Each name, three scales.**
 
@@ -796,7 +796,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 |---|---|---|---|
 | 2-bi-co-bi-offering | each other's releasing, offered to the self | 10-bi-tri-bi-tunneling | the self among other-selves |
 | 4-bi-co-bi-sharing | the whole ordering between self and other | 12-bi-tri-bi-entraining | changing at bi-coupling, the self in society |
-| 6-bi-co-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-bi-moralizing | the offerings surfacing, the self's own inverting, morality |
+| 6-bi-co-bi-moralizing | the other's moralizing to the self, each changing released across | 14-bi-tri-bi-moralizing | the offerings surfacing, each as it arrived, morality; the self's own inverting at 12 |
 | 8-bi-co-bi-torusing | the carrying winding to its sharing again | 16-bi-tri-bi-torusing | competency asymmetry sustaining the coupling, the society winding to the self again |
 
 **One move, 1 to 4.**
@@ -830,9 +830,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | One sharing; the self carries − (3) first. Offered each momentary | Released (10) | Carried next (11) |
 |---|---|---|
 | none at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
-| − at each momentary | 0, 0, 0, 0, 0, 0, 0 | −, −, −, −, −, −, − |
-| +, −, +, − alternating | +, −, +, −, +, − | +, −, +, −, +, − |
-| + and − together at each momentary | +, −, +, −, +, − | +, −, +, −, +, − |
+| − at each momentary | 0, 0, 0, 0, 0, 0, 0, 0 | −, −, −, −, −, −, −, − |
+| +, −, +, − alternating | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
+| + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 
 **A spiral of selves.**
 
