@@ -77,12 +77,14 @@ Each improving is at the carrying of the file it aims at, its line and its sayin
 
 1. Each thing made at the branch: done, the tenth part.
 2. A closing account: this part.
-3. The round at four parities, its deriving: open, at Exhibit ONE's carrying.
+3. The round at four parities, its deriving: worked to its exact stop and not derived, `closing_drafts/Round_At_Four_Parities_Deriving.md`. The fourth parity is the social among a name's sides and the four together a name's odd or even; the first three are derived from nothing in Exhibit ONE's table, and the lines use the names at another order.
 4. The findings on Natural Mathematics v380L: answered below.
-5. Fifty-four re-sayings at Natural Intelligence read by hand: open.
-6. The Registry's twins of the newest namings: sharing across and releasing along done at sixty places; parity the offering's direction, and across at each even name, open.
-7. The Registry's 146 sentences at a negation, read at Natural Naming's purpose: open, `Registry_Negations_Sorted.md` the list.
-8. Cause, each sentence of the Registry dissolving it: open.
+5. Fifty-four re-sayings at Natural Intelligence read by hand: read, forty-six sound and eight at findings, each with its mend, and the two fourteens, `closing_drafts/Natural_Intelligence_Fifty-Four_Read_By_Hand.md`.
+6. The Registry's twins of the newest namings: sharing across and releasing along done at sixty places; parity the offering's direction, and across at each even name, gathered step by step with each re-saying, `closing_drafts/Registry_Cause_And_Twins.md`, entered at no step.
+7. The Registry's 146 sentences at a negation, read at Natural Naming's purpose: each read, sixty-one the method's own and eighty-five denying a dissolved word, each with its re-saying, `closing_drafts/Registry_Negations_At_The_Purpose.md`, entered at no step.
+8. Cause, each sentence of the Registry dissolving it: gathered, thirty-four steps with their numbers, `closing_drafts/Registry_Cause_And_Twins.md`.
+
+Each of the four drafts is one reader's, read by no second, and none is entered at a living file.
 
 **The findings on Natural Mathematics v380L, each answered.**
 
@@ -164,6 +166,7 @@ Four readers read the transcript whole and laid each piece of value beside the f
 
 - This file, opened first. `Session_Transcript_v380L.txt`, the transcript whole. `Gathered_Value_1.md` to `4.md`.
 - `derivings/`: the cells for working by hand; the spiral's law read by hand; the odd torus derived and its second reading; two spirals crossed derived and its second reading; `torus_rule_arithmetic.py`.
+- `closing_drafts/`: four drafts made at the close for the managing working's offerings, each read by one reader: the round at four parities; Natural Intelligence's fifty-four; the Registry's cause and twins; the Registry's negations at Natural Naming's purpose.
 - `readings/`: each fresh reader's findings at Natural Numbers, six files, and Natural Mathematics, four, and at sharing across and releasing along; the ground of each mend.
 - `For_The_Managing.md`, twenty-four parts, each motion of the Registry. `Carrying_Of_The_Registry_Sorted.md`, `Carrying_Of_Exhibit_ONE_Sorted.md`, `Carrying_Of_Natural_Intelligence_Sorted.md`, `Dissolving_Offered.md`, `Registry_Negations_Sorted.md`: each carrying read beside its file.
 - `Chaining_A_Selfs_Changing.md`, `Incoherings_For_The_Subject.md`, `Exhibit_ONE_Forms_At_The_Registry.md`, `Naming_And_Chaining_At_Exhibit_ONE.md`, `Registry_Beside_Exhibit_ONE_Naming.md`, `Gathering_For_Numbers_Mathematics_Intelligence.md`, `Each_Break_Inverted.md`, `Group_Twenty_At_The_Three.md`, `The_Claim_Broken_Further.md`, `For_Natural_Naming.md`: the session's earlier papers, each as it was.
