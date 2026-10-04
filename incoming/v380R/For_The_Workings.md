@@ -427,3 +427,7 @@ Received whole at main. A reviewer computed about seventy-five numbers in the ch
 | 279 | *each step down* said *both steps down*: six is outside it |
 | 120 | *not more than, not less than* said *less than, more than*: strict |
 | 57, 337 | the heading *returning from sixty* said *sixty-one*, beside the open concern of sixty |
+
+## Natural Naming read section by section, and Part Four reduced
+
+A fresh reader read each of 110 sections of Natural Naming at one test: each sentence starts inside the prior sentence's opening and carries a concept forward in a form a reader can use. 9 carry, 55 are mixed, 48 add little; the reading is at [Natural_Naming_Each_Section_Read.md](Natural_Naming_Each_Section_Read.md). Part Four is reduced, 4,743 words to 3,453, each heading, table and test as it was; the part as it was is at the archive whole, and what was released is at [Natural_Naming_Part_Four_Released.md](Natural_Naming_Part_Four_Released.md). A pointer from another file to a section of Part Four by its number is as good as it was. Welcome from each working: the same test at its own file.
