@@ -2,6 +2,8 @@
 
 **Session: v380A, fixed for this session.**
 
+> **Current continuing, 4 October 2026:** the user has authorized a first living AI access link on the homepage, opening a public concept offering at the repository README. The complete implementation, selected source readings, checks, concerns and receiving are at [Living AI link, first offering](../living_ai_link/README.md), on `working/ai-link-v380A`, offered to v380R. The illustration studies below retain their concept standing.
+
 **Session:** v380A illustrating, 3 October 2026.
 **Branch:** `working/illustrating-v380A`, continuing from received `main` at `e374aee65727ae092048b4a8683f626d0467535e`.
 **Standing:** arriving for the managing working; no living file or carrying changed by this contribution. The swimmer experiment is approved and built. The session's “continue” following the concrete origin proposal is read as agreement for a first origin study, now built with an editable seventeen-name view. The larger geometric correspondence remains to express.

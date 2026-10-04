@@ -1,4 +1,4 @@
-/* corus.me · v347 */
+/* corus.me · v380A */
 (function (root) {
   'use strict';
   const small = 'ZERO ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN ELEVEN TWELVE THIRTEEN FOURTEEN FIFTEEN SIXTEEN SEVENTEEN EIGHTEEN NINETEEN'.split(' ');
@@ -157,15 +157,20 @@
     const version = document.createElement('span'); version.className = 'version'; version.textContent = f.version;
     access.append(version, controls(f)); row.append(name, access); return row;
   }
+  async function copyText(text, label = 'Copy file text', message = 'Copied') {
+    try { await navigator.clipboard.writeText(text); notify(message); }
+    catch {
+      const dialog = $('copy-dialog'), field = $('copy-text');
+      field.value = text; field.setAttribute('aria-label', label);
+      dialog.showModal(); field.focus(); field.select();
+      let copied = false; try { copied = document.execCommand('copy'); } catch {}
+      if (copied) { dialog.close(); notify(message); }
+    }
+  }
   async function copyFile(filename) {
     try {
       const text = readingFile === filename && readingText !== null ? readingText : decode(await fileBytes(filename));
-      try { await navigator.clipboard.writeText(text); notify('Copied'); }
-      catch {
-        const dialog = $('copy-dialog'), field = $('copy-text'); field.value = text; dialog.showModal(); field.focus(); field.select();
-        let copied = false; try { copied = document.execCommand('copy'); } catch {}
-        if (copied) { dialog.close(); notify('Copied'); }
-      }
+      await copyText(text);
     } catch { notify('Unavailable'); }
   }
   // Markdown is parsed in an inert template, then copied through this allowlist.
@@ -279,10 +284,17 @@
     } catch { notify('Unavailable'); }
   }
   document.addEventListener('click', event => {
+    const linkButton = event.target.closest('button[data-copy-link]');
+    if (linkButton && !linkButton.disabled) {
+      copyText(linkButton.dataset.copyLink, 'Copy AI link into your session', 'AI link copied');
+      return;
+    }
     const button = event.target.closest('button[data-copy]');
     if (button && !button.disabled && !/\.zip$/i.test(button.dataset.copy)) copyFile(button.dataset.copy);
   });
   $('copy-dialog').addEventListener('close', () => { $('copy-text').value = ''; });
+  const aiCopy = document.querySelector('button[data-copy-link]');
+  if (aiCopy) aiCopy.hidden = false;
   if (document.body.dataset.page === 'read') { window.addEventListener('hashchange', scrollSection); initReader(); }
   else initIndex();
 })(typeof globalThis === 'object' ? globalThis : this);
