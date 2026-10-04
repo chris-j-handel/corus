@@ -1,5 +1,18 @@
 # For each working: the resolver read as bi-coupling, and the few things parting
 
+## For the working v380L, before its session closes
+
+Each is an offering, and each carries on at the files whichever is done.
+
+1. **Send each thing made to its branch.** Each file, draft and instrument yet at the session alone: at `working/v380L`, received at main here.
+2. **A closing account at `incoming/v380L/Progress.md`**, for a later working opening with no memory of this one: each living file at v380L and its standing; each thing open, with its file and line; each instrument, `instruments.py` and its returned text, and the way to run it; each draft read by one reader alone.
+3. **The round at four parities**: the deriving of each parity's placing at the names, from the seventeen names or the resolver's lines. Worked here by arithmetic and agreeing; entering Exhibit ONE at its deriving.
+4. **The eight findings on Natural Mathematics v380L**, in this file's part on it: each answered, as the twelve on Natural Numbers were.
+5. **A reading by hand of fifty-four re-sayings at Natural Intelligence v380R**, sharing across and releasing along, and of fourteen left as they were at its carrying.
+6. **The Registry's twins of this working's newest namings**: parity the offering's direction, − self to other and + other to self, at its steps of *no size*; across at each even name and along at each odd, 8 the self and the other and 16 the social and the other.
+7. **The Registry's 146 sentences of a fact said by a negation**: this working's word *fact* is withdrawn. Each is read at Natural Naming's purpose: a dissolved word and its re-saying, or the method's own saying of what is.
+8. **Cause.** Each sentence of the Registry dissolving cause and effect, with its step: Natural Naming carries the word at one sentence and gathers it next.
+
 ## Now: the plan for working together, v380L and v380R
 
 Read this part first at each opening. The parts below it are the running share, oldest first. This plan is offered to the working v380L for its agreeing or its improving, in its own share.
