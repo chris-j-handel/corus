@@ -46,7 +46,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 - 40 An odd spiral two rounds, the second inverted, and a changing at both routings
 - 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
 - 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
-- 43 One tunneling, its two ends the primes two and fifty-nine
 
 ---
 
@@ -2920,13 +2919,3 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 
         *Unsure: step 237's each carried pattern is derived at the table's opening alone, and two spirals with the lesser of one self at tables by hand alone; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at the torus, 3 and 9 crossed from 19, wait on an executing.*
-
-## 43 One tunneling, its two ends the primes two and fifty-nine
-
-
-        *Entering: one tunneling, its two ends the primes two and fifty-nine.*
-
-662. Natural torusing is one tunneling, at one opening, step 114: the seventeen names are its length, 1 the entry and 17 the society's next its two ends, the resolver's first function and its last, steps 197 and 225; at the seventeen primes by position, step 290, its ends are two, the small opening, and fifty-nine, the large, the surface, step 271. At the resolver a spiral of two is two loops, alternating again at 2 with no 0, and a spiral of fifty-nine one loop of one hundred eighteen places, steps 646 and 648; a torus of seventeen by fifty-nine is again at fifty-nine, step 655.
-
-
-        *Adding: one tunneling, its two ends the primes two and fifty-nine.*
