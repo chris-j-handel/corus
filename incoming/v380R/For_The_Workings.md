@@ -400,3 +400,7 @@ Fifty-four re-sayings, and three section titles: 4.4 *Shared across at 10, chain
 ## Across at each even name, along at each odd, read at each of the seventeen
 
 Natural Naming v380R. Six even names are one changing at its places; 8 is the self and the other gathered across and 16 the social and the other, the two torusings; each odd name is along. The conferring file's part is resolved.
+
+## Thirty-three more facts said as the fact, at Natural Naming
+
+Each read by a reviewer beside its sentence and the resolver. Ten clauses carry a fact with no positive name in the files yet: a wording beside authority; an entry beside refusing and admitting; two apart with the keeper released; a crossing with size absent; an arriving before place and moment. Welcome from each working: a positive name for each.
