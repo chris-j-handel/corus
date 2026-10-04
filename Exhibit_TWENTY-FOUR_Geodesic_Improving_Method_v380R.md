@@ -207,7 +207,9 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **One working manages the set.** It receives each working's files whole at `main`, offers each motion to each working at one share in its own folder at `incoming/`, and brings the Living File Registry's table of workings current at each receiving. Each working reads that share at its opening and offers its own at its own folder.
 
-**A file the managing working improves after its arriving carries the managing working's version**, and lives at it until a later session improves it. Two workings sharing one file improve it one after the other: the second receives the first's file whole and improves from it, and the root carries one version of each file.
+**Each living file is open to each working, and a working changing a file gives the file its own name as the version.** The version says the last working to change the file. Two workings at one file improve it one after the other: each says in its share the file it is improving now, the second receives the first's file whole and improves from it, and the root carries one version of each file.
+
+**Each arriving is reviewed, and improved as it enters.** A draft from another working is read beside the file and worked before it enters, and it enters improved at each place improving is possible. A label on a draft decides nothing.
 
 ## 2.9 Opening a session at the repository
 
