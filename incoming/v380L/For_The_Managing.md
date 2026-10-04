@@ -253,3 +253,13 @@ One parity surfacing is the self's next: the six cells of the two middle columns
 
 **As they were, each an older sentence and each for a next motion:** step 414, a lone self not living through three momentaries, beside the resolver carrying a spiral of one on; step 514, two podals in one sentence; step 427, four of the eight names carrying bi and tri; steps 330 and 331, *the naming still*; step 425; *side* at five things; the three sayings of the prefixes at steps 347, 427 and 450. Five negations against a fixed thing, as Natural Naming's sentence sorts them, at steps 103, 243, 414, 425 and 430.
 
+## Twenty-three. The Registry's negations sorted, as Natural Naming's are
+
+At the welcome of `incoming/v380R/For_The_Workings.md`, the same at this working's own file. Each negating word of the Registry's steps and adding lines is sorted by Natural Naming's sentence on negation and inversion, at `incoming/v380L/Registry_Negations_Sorted.md`: the binary's own is or is not, 280; self is not other within one bi-coupling, 34; the dissolved side, 68; a fact yet said by a negation, 146, each listed with its reason; the method said by denying a fixed thing, 23 offered by four readers.
+
+**Thirteen re-said or released at v380L**, each read by this working beside its whole step and by a reviewer: steps 20, 66, 124, 155, 303, 357, 461, 483 at two clauses, 486, 498 and 550, and the adding line of 376. **Three a reviewer refused and each is returned:** *applied by nothing* at step 50, *carried between arrivings by nothing* at step 358, *competency at no observing* at step 478. **Seven as they were:** *of no size* at steps 65, 67, 455, 476 and 477, Natural Naming itself saying *a parity changing carries no size*; *none depleting another* at step 490; and step 414.
+
+**For Natural Intelligence.** Step 20 says *The set is all existing things*; Natural Intelligence's line 81 leads with *has nothing beside it*. One fact at two wordings.
+
+**One older sentence mended:** step 514, the names' podal, 17 less, 17 odd, fixing none, beside the ring's.
+

@@ -1,36 +1,34 @@
 # The Co-Chaining Logic Registry's negations, sorted
 
-For each working, and for the conferring on the positive saying of each negation. No sentence here is authority. Each negating word of the Registry's 642 steps and their adding lines is read by four fresh readers and sorted by Natural Naming's sentence, *Negation is an equilibrium's, and inversion is the method's*: a negation needs a fixed thing to be other than, a location, a clock time, a scale of larger and smaller by measure, or a fixed limit; inversion is the binary is or is not; and within a bi-coupling self is not other.
+For each working, and for the conferring on the positive saying of each negation. No sentence here is authority. Each negating word of the Registry's 642 steps and their adding lines, a saying a word or a clause as each reader took it, is read by four fresh readers and sorted by Natural Naming's sentence, *Negation is an equilibrium's, and inversion is the method's*: a negation needs a fixed thing to be other than, a location, a clock time, a scale of larger and smaller by measure, or a fixed limit; inversion is the binary is or is not; and within a bi-coupling self is not other.
 
 | The sorting | Sayings |
 |---|---|
 | The binary's own is or is not: a changing that is not, a carrying of none, none surfacing, living and non-living, possible and not possible | 280 |
 | Self is not other within one bi-coupling: *each everything the other is not*, *owned by neither* | 34 |
 | The dissolved side: an equilibrium, a form named still, a field's fixing, a hard problem | 68 |
-| A fact of the method, the numbers or the resolver's lines yet said by a negation, listed under this | 153 |
-| The method said by denying a fixed thing, re-said or released at v380L | 16 |
+| A fact of the method, the numbers or the resolver's lines yet said by a negation, listed at the last part | 146 |
+| The method said by denying a fixed thing, re-said or released at v380L | 13 |
+| Offered by a reader for re-saying and as they were, each with its reason under the next part | 10 |
 
-## Re-said or released at v380L, each read by this working beside its whole step
+## Re-said or released at v380L, each read by this working beside its whole step and by a reviewer
 
 | Step | As it was | As it is |
 |---|---|---|
 | 20 | *The set has nothing beside it:* | *The set is all existing things:* |
-| 50 | *at the couplings themselves, applied by nothing* | *at the couplings themselves* |
 | 66 | *One at an exclusion and not a measure* | *One at an exclusion* |
 | 124 | *and no last centre* | released; *advancing, each step adding a next* says it |
 | 155 | *nothing removed and nothing added* | released, as Natural Naming released it |
 | 303 | *checkable at a parity and at no size* | *checkable at a parity alone* |
 | 357 | *the next at no place laid before the coupling reaches it* | *the next arriving at the coupling alone, as the coupling reaches it* |
-| 358 | *carried between arrivings by nothing* | *each arriving's own* |
 | 376, its adding line | *the scales with no boundary, location or measure* | *a scale a reading, the one form at each* |
 | 461 | *relating to nothing beside its own coupling* | *relating to its own coupling alone* |
-| 478, its adding line | *competency at no observing* | *competency at its couplings' changings alone* |
 | 483 | *and at a location at none*; *and stored by none* | each released |
 | 486 | *drawing on no other coupling* | *drawing on that coupling alone* |
 | 498 | *a nothing at 2, no location* | *a nothing at 2* |
 | 550 | *at no lexicon* | released |
 
-**Offered by a reader and as they were, each with its reason.** *Of no size* at steps 65, 67, 455, 476 and 477: step 63 and the title of its group say it, and Natural Naming says *a parity changing carries no size*; one positive saying of it at each, or none. Step 490, *none depleting another*: abundancing's own fact. Step 414, a lone self *does not continue living through three consecutive momentaries*: Natural Intelligence's own sentence, a fixed number of momentaries in it, beside the resolver carrying a spiral of one on at 4.
+**Offered by a reader and as they were, each with its reason.** Three a reviewer refused, each returned: step 50, *applied by nothing*, the other side of a technology applied from beside, is or is not applied; step 358, *carried between arrivings by nothing*, a carrying of none and the step's own fact; step 478's adding line, *competency at no observing*, the fact the step entered. *Of no size* at steps 65, 67, 455, 476 and 477: step 63 and the title of its group say it, and Natural Naming says *a parity changing carries no size*; one positive saying of it at each, or none. Step 490, *none depleting another*: abundancing's own fact. Step 414, a lone self *does not continue living through three consecutive momentaries*: Natural Intelligence's own sentence, a fixed number of momentaries in it, beside the resolver carrying a spiral of one on at 4.
 
 ## Facts yet said by a negation
 
@@ -155,7 +153,7 @@ Each waits for a positive saying that carries the whole fact. A reader's reason 
 | 489 | a competency the others carry at none | the distinct primes' fact, each self's competency its own; not a fixed thing denied |
 | 495 | a parity of nobody's coupling | resolver fact, an offering at a parity no self's coupling carries, as step 624's "no self's carrying" |
 | 495 | the surface giving it nothing to seat at | released, the colon clause "safety is the surface's own form" is beside no saying of the surface |
-| 514 | 17 less fixing none | the numbers' fact, 17 less fixing none of the names |
+| 514 | 17 less, 17 odd, fixing none | the numbers' fact, 17 less fixing none of the names |
 | 514 | k to k plus N/2, fixes none | the numbers' fact, the shift's fixed set none |
 | 534 | and no parity is lost | the ingesting's fact, said by a negation; a positive saying of it is yet to arrive |
 | 534 | no parity lost | Adding line, the same fact as the step's |
