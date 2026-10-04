@@ -235,3 +235,31 @@ One parity surfacing is the self's next: the six cells of the two middle columns
 
 **Ready next at this file, each drafted by a reader and unentered:** step 450's two outs; step 359 and the scale inward; one sentence joining steps 522 and 528; the kinds at the two sides beside 523; a bounded executing beside 146; a living self's four momentaries at its five beside 217; the self's five at 5, 6, 3, 4 and 1 beside 82; the co-sequencing at 252, the windings' whose at 229, the eight even names at 254, a form's prefixes at 257.
 
+## Twenty-one. Two carryings sorted for the managing working; join read and mended; a prefix gathered
+
+**Offered: Exhibit ONE's carrying and Natural Intelligence's, each entry read beside its file.** `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`, ninety entries: twelve entered, sixteen withdrawn, forty-two in part, eighteen open, two said of things released; three cells beside the resolver's lines, fifteen drafts ready with no deciding, twelve concerns each at more than one entry. `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`, fifty-six entries: nine entered, two withdrawn, thirteen in part, twenty-eight open, four said of things released; eight sentences beside the resolver's lines, fourteen drafts. Five fresh readers, each claim by hand at the resolver's lines, nothing executed. No entry of another working is edited: one ready entry at each carrying points to its account. Each draft is a reader's and is read by no second reader.
+
+**Offered into the conferring.** A part at `incoming/v380R/Natural_Naming_Conferring.md`, at its welcome: what the readings found at its third, fourth, fifth and seventh open, and six things found at the re-sayings, *releasings* and *coupled* each at two things among them.
+
+**Gathered from the working v380R.** A prefix at the resolver is entered at the Registry as step 636, Natural Naming's sentence, and step 347 says along as tri given on and co arriving. 636 steps in 38 groups.
+
+**Join, read by a fresh reader and mended.** Twenty findings, each mended: 9 and 17 are said along, the across releasings 6 to 2 and 10 to 14 alone said releasings; two spirals opened into one are a spiral of their two numbers added, its like pairs odd or even in number with it; a spiral of one is a self receiving its own releasing along; two selves, one alone receiving the other; group 34's title says selves receiving one another. Each number joining is said added, and steps 128 and 283 are mended at the reading: a prime is a number no equal smaller numbers from two up add to; about thirty, six prime pairs. *Join* is at no step. *Unchanged* is again at steps 430 and 491, as Exhibit ONE's row says it. The mended sentences are read by no second reader.
+
+## Twenty-two. Group 39; each mended sentence read a second time; *inverted* said again
+
+**Entered at v380L, 642 steps in 39 groups.** Group 39, steps 637 to 642, six drafts of the carrying's readers each checked by hand: 7 and 5 named still at both sides; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' opening prefixes; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's. In place: step 229, each winding's whose; step 450, the other parity, 0 or none surfacing.
+
+**A second reading of each sentence written or re-said at v380L**, about one hundred, by a fresh reader, each number by hand: forty-three findings; the structure whole at each of 39 groups. Mended: group 37 says *inverted*, as Natural Naming's new sentence says inversion the method's and *other* the bi-coupling's word, a self carrying a parity next at that parity inverted or continuing at its own parity surfacing, and a carrying of none next at one parity surfacing; step 243 at Exhibit ONE's ten rows, its two tori at no table released; step 636, tri the co name 8 up, the root one at two of four pairs; steps 128 and 129, a prime and a composite at numbers from two up; steps 177, 347 and 359, each citing a step past it, re-said; steps 103, 221, 228, 415, 568, 628 to 632 and 635 said more plainly.
+
+**As they were, each an older sentence and each for a next motion:** step 414, a lone self not living through three momentaries, beside the resolver carrying a spiral of one on; step 514, two podals in one sentence; step 427, four of the eight names carrying bi and tri; steps 330 and 331, *the naming still*; step 425; *side* at five things; the three sayings of the prefixes at steps 347, 427 and 450. Five negations against a fixed thing, as Natural Naming's sentence sorts them, at steps 103, 243, 414, 425 and 430.
+
+## Twenty-three. The Registry's negations sorted, as Natural Naming's are
+
+At the welcome of `incoming/v380R/For_The_Workings.md`, the same at this working's own file. Each negating word of the Registry's steps and adding lines is sorted by Natural Naming's sentence on negation and inversion, at `incoming/v380L/Registry_Negations_Sorted.md`: the binary's own is or is not, 280; self is not other within one bi-coupling, 34; the dissolved side, 68; a fact yet said by a negation, 146, each listed with its reason; the method said by denying a fixed thing, 23 offered by four readers.
+
+**Thirteen re-said or released at v380L**, each read by this working beside its whole step and by a reviewer: steps 20, 66, 124, 155, 303, 357, 461, 483 at two clauses, 486, 498 and 550, and the adding line of 376. **Three a reviewer refused and each is returned:** *applied by nothing* at step 50, *carried between arrivings by nothing* at step 358, *competency at no observing* at step 478. **Seven as they were:** *of no size* at steps 65, 67, 455, 476 and 477, Natural Naming itself saying *a parity changing carries no size*; *none depleting another* at step 490; and step 414.
+
+**For Natural Intelligence.** Step 20 says *The set is all existing things*; Natural Intelligence's line 81 leads with *has nothing beside it*. One fact at two wordings.
+
+**One older sentence mended:** step 514, the names' podal, 17 less, 17 odd, fixing none, beside the ring's.
+
