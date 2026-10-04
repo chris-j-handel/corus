@@ -8,7 +8,7 @@ Exhibit TWENTY-NINE Natural Illustrating · carrying v379
 
 None.
 
-**Ready, at v379, from `incoming/v380L/Progress.md`, its part *Now*, for the working v380A at this file: two pointers into Natural Intelligence, re-said there at v380L.** Line 216, *the living step's form carried alone … Natural Intelligence 4.12 and 2.4*: Natural Intelligence says a lone self offered nothing at the two parting forms, its next its prior itself, and the living step at a spiral of one and at each self of a spiral. Line 174, *Exhibit ONE's sides table*: Exhibit ONE's table of fives.
+**Ready, at v379, from `incoming/v380L/Progress.md`, its part *Now*, for the working v380A at this file: two pointers into Natural Intelligence, re-said in it at v380L.** Line 216, *the living step's form carried alone … Natural Intelligence 4.12 and 2.4*: Natural Intelligence says a lone self offered nothing at the two parting forms, its next its prior itself, and the living step at a spiral of one and at each self of a spiral. Line 174, *Exhibit ONE's sides table*: Exhibit ONE's table of fives.
 
 ## Concern
 
