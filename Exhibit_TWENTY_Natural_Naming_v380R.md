@@ -298,6 +298,8 @@ Exhibit TWENTY Natural Naming v380R
 
 **A released word is at the one binary, is or is not living, coupling and resolving, and never a rule.** The same word at a sentence living, coupling and resolving carries whole at that sentence, and a table laid over the sentences as a rule is a standard, an incompetencing. **No wording carries authority**, this file's, a field's or a working's: a word selection here is the best the set carries at now, and a sentence carries by co-chaining from the opening sentence and by all or none at all.
 
+**Negation is an equilibrium's, and inversion is the method's.** A negation needs a fixed thing to be other than: a location, a clock time, a scale of larger and smaller by measure, or a fixed limit, unstated. Inversion is self-negation, the binary is or is not: is or is not possible, is or is not existing, is or is not possible next existing, is or is not next existing. Within a bi-coupling self is not other, and beside that bi-coupling neither self nor other is defined this way.
+
 ## 2.5 One sense per foundation word
 
 **Each foundation word carries one sense**, and a word at two senses is two concepts at one name. *Turn* carries seven senses, each carried by its own word:

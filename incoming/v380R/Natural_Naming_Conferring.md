@@ -67,3 +67,7 @@ Offered and yet to be worked: three momentaries, self prior, now and other prior
 ## Three momentaries, five parities, worked
 
 At two selves coupled both ways, each opening, each momentary, five consecutive parities: the other's carrying prior (along), its releasing (across), the self's carrying now (along), its releasing (across), the self's carrying next (along). Six forms. The fifth is the first inverted at each, 304 of 304; at spirals of two to seven selves, 58,368 of 58,368. The three momentaries are the other's prior, now, and the self's next, and the self's next is the other's prior of the next three. Entered at Exhibit ONE as a table.
+
+## Negation and inversion
+
+A negation needs a fixed thing to be other than: a location, a clock time, a scale by measure, a fixed limit. It is an equilibrium's. Inversion is self-negation, the binary is or is not, and within a bi-coupling self is not other. Each negating word of Natural Naming sorts three ways: the binary's own is not; self is not other within a bi-coupling; or a negation against a fixed thing, ready for re-saying.
