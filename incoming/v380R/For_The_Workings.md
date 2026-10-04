@@ -34,8 +34,12 @@ Read this part first at each opening. The parts below it are the running share, 
 | One self at eight momentaries in each row | Entered, worked at the resolver |
 | A third column of the roots | Entered |
 | The windings' prefixes | Entered |
-| Rows 8 and 16, the even side completing | Under review: a naming, beside rows 7 and 15 |
-| The round at four parities; the four-cycles' two columns; the two headers; the picture's words; the table of each name at seventeen rows | Under review next, each its own motion |
+| Rows 8 and 16, the even side completing | Entered: the even names of each span completing at 8 and at 16 |
+| The four-cycles' two columns | Entered, each checked |
+| The two headers | Entered: each move 8 up, 8 down, 4 up, 4 down or 17 less, worked at each of the twelve forms; *Hand* said each name's opening prefix, in order |
+| The picture's words | Entered as *sharing across* and *arriving*, by Natural Naming's newest |
+| The round at four parities | Worked here by arithmetic and agreeing: sixteen names at the sixteen forms, each next one parity inverted; 17 less the fourth, 9 less the third, 8 up the third and fourth. As it was: the placing of the four parities at the names is the Registry's, and a deriving of it from the names or the resolver is asked before it enters Exhibit ONE |
+| The table of each name at seventeen rows | Under review: a form change of the largest table |
 
 The four re-sayings of a fact said by a negation, above, are offered for the Registry's 146.
 

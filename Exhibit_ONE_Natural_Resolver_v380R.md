@@ -96,8 +96,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
                                       ▼
                         the self at not-yet-co-competent, its 17
 
-   at not-yet-bi-moral   6  ══► its 2        10 ══► its 14      outgoing
-   at bi-moral-so-far    its 6  ══► 2        its 10 ══► 14      incoming
+   at not-yet-bi-moral   6  ══► its 2        10 ══► its 14      sharing across
+   at bi-moral-so-far    its 6  ══► 2        its 10 ══► 14      arriving
    ═══ between selves, across and along    ─── within one self
 ```
 
@@ -283,7 +283,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 8 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again, its root torusing going in and out at the odd, the other parity from its opening |
 | 8 | Bi-coupling | outward, at the between, the carrying winding to its sharing again |
 | 8 | Winding | the other's winding wound on at 8 |
-| 8 | Prior and next | the carrying wound, chained at 11 this momentary and the next momentary's 3 |
+| 8 | Prior and next | the carrying wound, chained at 11 this momentary and the next momentary's 3; the even names of the self's span, 2, 4, 6 and 8, completing at 8 |
 | 8 | 1 to 17s inward and outward | 1–17s inward 9 of the 4th, along, odd, tri, and at the 1–17 outward within 1 to 2 |
 | 9 | Name | **9-tri-bi-co-momentarying** |
 | 9 | Parity, opens | odd, opening tri, the society's span |
@@ -413,7 +413,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 16 | In and out at its parity | corusing, even, through the small opening, the long way round, bi-tri-exchanging, the self reaching its own side again, its root torusing going in and out at the odd, the other parity from its opening |
 | 16 | Bi-coupling | inward, 8 up, competency asymmetry sustaining the coupling, the society winding to the self again |
 | 16 | Winding | the society's winding wound on at 16 |
-| 16 | Prior and next | the society wound now, each self's 8 and its offerings next |
+| 16 | Prior and next | the society wound now, each self's 8 and its offerings next; the even names of the society's span, 10, 12, 14 and 16, completing at 16 |
 | 16 | 1 to 17s inward and outward | 1–17s inward 9 of the 8th, along, odd, tri, and at the 1–17 outward within 2 to 3 |
 | 17 | Name | **17-co-bi-tri-offering** |
 | 17 | Parity, opens | odd, opening co, the self's span again, the next 1 |
@@ -478,12 +478,12 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Four four-cycles and their roots.**
 
-| Four-cycle: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n) | Root, self and society | Hand, beside the other four-cycles |
-|---|---|---|
-| 1-9-8-16 | torusing, 8 and 16 | spiraling the other hand with 2-15-7-10 |
-| 2-15-7-10 | corusing, 7 and 15 | spiraling the other hand with 1-9-8-16 and 3-11-6-14 |
-| 3-11-6-14 | moralizing, 6 and 14 | spiraling the other hand with 4-13-5-12 and 2-15-7-10 |
-| 4-13-5-12 | competencing, 5 and 13 | spiraling the other hand with 3-11-6-14 |
+| Four-cycle: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n) | Root, self and society | Its two pairs 8 apart | Names between selves on it | Beside the other four-cycles |
+|---|---|---|---|---|
+| 1-9-8-16 | torusing, 8 and 16 | 1 · 9 and 8 · 16 | 9 | spiraling the other hand with 2-15-7-10 |
+| 2-15-7-10 | corusing, 7 and 15 | 2 · 10 and 7 · 15 | 2 and 10 | spiraling the other hand with 1-9-8-16 and 3-11-6-14 |
+| 3-11-6-14 | moralizing, 6 and 14 | 3 · 11 and 6 · 14 | 6 and 14 | spiraling the other hand with 4-13-5-12 and 2-15-7-10 |
+| 4-13-5-12 | competencing, 5 and 13 | 4 · 12 and 5 · 13 | none | spiraling the other hand with 3-11-6-14 |
 
 **Three windings.**
 
@@ -587,7 +587,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Twelve forms.**
 
-| Form | Names in order | Hand | Each name's three prefixes: now, prior, and the prior before | Partner, odd momentaries: each name exchanged with the one beside it, 1 with 2 to 15 with 16 | Partner, even momentaries: 2 with 3 to 16 with 17. A dash: no partner among the twelve |
+| Form | Names in order: each move 8 up, 8 down, 4 up, 4 down or 17 less | Each name's opening prefix, in order | Each name's three prefixes: now, prior, and the prior before | Partner, odd momentaries: each name exchanged with the one beside it, 1 with 2 to 15 with 16 | Partner, even momentaries: 2 with 3 to 16 with 17. A dash: no partner among the twelve |
 |---|---|---|---|---|---|
 | four-cycle 1-9-8-16 | 1-co-bi-tri-offering · 9-tri-bi-co-momentarying · 8-bi-co-bi-torusing · 16-bi-tri-bi-torusing | co tri bi bi | co-bi-tri · tri-bi-co · bi-co-bi · bi-tri-bi | four-cycle 2-15-7-10, spiraling the other hand | — |
 | four-cycle 2-15-7-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 10-bi-tri-bi-tunneling | bi tri co bi | bi-co-bi · tri-bi-tri · co-bi-co · bi-tri-bi | four-cycle 1-9-8-16, spiraling the other hand | four-cycle 3-11-6-14, spiraling the other hand |
