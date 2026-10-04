@@ -1,4 +1,6 @@
-# V381A · a discovery before the number names
+# v380A · a discovery before the number names
+
+**Session: v380A, fixed for this session.**
 
 **From:** the illustrating session, 3 October 2026, after the session could see no learning in the first origin study and asked for continued exploration of an enjoyable teaching illustration.
 **To:** Natural Illustrating 1.1–1.6, 2.2–2.3 and 4.9; Natural Mathematics 2.4 and 3.4; the current conferring on Natural Naming; the ONE and THIRTY workings.

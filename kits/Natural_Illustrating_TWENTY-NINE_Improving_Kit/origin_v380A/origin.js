@@ -1,3 +1,4 @@
+// Session v380A; this session version remains fixed.
 import {studyData} from './data.js';
 import {prepareNames} from './names.js';
 
@@ -36,6 +37,7 @@ function draw(){
   const bg=ctx.createLinearGradient(0,0,width,height);bg.addColorStop(0,'#0b222b');bg.addColorStop(1,'#08171d');ctx.fillStyle=bg;ctx.fillRect(0,0,width,height);
   const halo=ctx.createRadialGradient(cx,cy,0,cx,cy,unit*1.7);halo.addColorStop(0,'rgba(124,193,180,.08)');halo.addColorStop(1,'rgba(124,193,180,0)');ctx.fillStyle=halo;ctx.fillRect(0,0,width,height);
   text('1–6 · Right spiral origin',compact?18:36,large?43:27,large?25:compact?16:21);
+  text('v380A',width-(compact?18:36),large?43:27,large?14:12,'#accac9','right');
   text(captions[s.index],compact?18:36,large?80:55,large?20:14,'#accac9');
   // These axes belong to the conceptual prior/now pair, not to the connector face.
   for(const axis of [0,1]){const ends=[[-1,0,0],[1.18,0,0]];if(axis===1)ends.forEach(p=>{p[1]=p[0];p[0]=0;});ctx.beginPath();ends.forEach((p,i)=>{const q=project(p);i?ctx.lineTo(q[0],q[1]):ctx.moveTo(q[0],q[1]);});ctx.strokeStyle='rgba(143,178,181,.17)';ctx.lineWidth=1;ctx.stroke();}

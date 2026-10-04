@@ -1,3 +1,4 @@
+// Session v380A; this session version remains fixed.
 export function prepareNames(data){
   const list=document.getElementById('number-list'),rows=document.getElementById('cycle-rows');
   const buttons=[];
