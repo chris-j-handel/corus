@@ -44,6 +44,8 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 - 38 Colliding, + and − read alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
 - 39 Named still at both sides, a bounded executing, the four-cycles' prefixes, 9 and 17, the prior two added and the co-sequencing
 - 40 An odd spiral two rounds, the second inverted, and a changing at both routings
+- 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
+- 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
 
 ---
 
@@ -2824,3 +2826,96 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 645. Torusing's names, 8 and 16, are even and across, and corusing's, 7 and 15, odd and along, step 251 and Natural Naming's own sentence; torusing said at the odd and corusing at the even, steps 118 and 119, is the other parity from each root's names.
 
         *Adding: torusing's names even and across, corusing's odd and along.*
+
+## 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
+
+
+        *Entering: a spiral's places one loop at an odd number of selves, two loops at an even; at an odd spiral a pattern again at four times its least alike shift; an odd prime spiral at 4 or at four times the prime, none between; the like pairs odd in number at an odd spiral, even at an even; the even torus at 2, at each momentary each self inverting; the odd torus's first 0 at the self of both seams, passing along the two lines through it.*
+
+646. Each two momentaries a spiral offered nothing from beyond it carries each self's parity to the next self, inverted, step 233: a parity at a self is two momentaries on at the next self at the other parity. Each self at each parity is a place, twice the number of selves. At an odd number of selves the places are one loop, each self passed twice, once at each parity, the loop at its opening place again at four times the number of selves, in momentaries; at an even number they are two loops, each self once on each, a self's two parities on the two, and neither loop reaches the other.
+
+
+        *Adding: a spiral's places one loop at an odd number of selves, two loops at an even.*
+
+647. A spiral is at its sharings again, and at its parities carried at an odd momentary, at twice k momentaries, k the least at which each self's parity is that of the self k prior, inverted at an odd k, step 646; a coming again is at an even number of momentaries, a 0 at each even momentary or the spiral alternating, at 2. At an odd number of selves an odd k, carried the number of selves times, brings each self to itself inverted, at no pattern: k is even, twice the least d at which each self is alike with the self d prior, d dividing the number of selves, and the pattern is again at four times d momentaries.
+
+
+        *Adding: at an odd spiral a pattern again at four times its least alike shift.*
+
+648. At an odd prime number of selves the least alike shift is one, each self alike, or the prime, step 647: each pattern is again at 4 momentaries or at four times the prime, and at none between. At two selves the two alike are again at 4 and the two opposite at 2. At an odd number with a factor a pattern whose least alike shift is the factor is again at four times the factor, nine selves at 4, at 12 or at 36, step 230.
+
+
+        *Adding: an odd prime spiral at 4 or at four times the prime, none between.*
+
+649. Along a spiral the pairs parting in parity are even in number, each parting met by one back: the like pairs are odd in number at an odd number of selves and even at an even, steps 232 and 630, one self alone a like pair with itself. An odd spiral carries a like pair at each momentary and a 0 at each even momentary; an even spiral alternating along carries none.
+
+
+        *Adding: the like pairs odd in number at an odd spiral, even at an even.*
+
+650. At a torus of selves with an even number along, the selves opened alternating along: each self's along offering, from the second momentary, is the parity other than its own, none offered at the first, and with each across offering beside it the surfacing is that parity or 0, a changing, step 212; each self inverts at each momentary, the alternating along carried on, and the parities are again at 2 from the first momentary. The same at an even number across. The 2 is of the opening alternating along the even number, step 243.
+
+
+        *Adding: the even torus at 2, at each momentary each self inverting.*
+
+651. At a torus of two odd numbers opened alternating, the last and the first alike along and across, step 243: at the first momentary each self inverts; at the second one self alone is at a changing that is not, the self alike with both its along prior and its across prior, each other self offered the parity other than its own or + and − together; and from that self a 0 passes one self on at each momentary along each of the two lines of selves through it, the self i on at momentary i + 2: along the p to the last self of the line, and across the q, at q more than p, on round the line.
+
+
+        *Adding: the odd torus's first 0 at the self of both seams, passing along the two lines through it.*
+
+## 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
+
+
+        *Entering: one 0 at most at each line across, and the two that carry it on; a line's next 0 one after the later of two, two after at the two alike; each self's first 0 at i + j + 2 and the lesser more, each line two momentaries behind its prior; at q more than twice p the sharings again at q, from momentary 3p − 1; at q less than twice p the sharings again at 4p, from momentary 3p − 3; the torus's divide derived: 2p round the lines, q round a line, the greater the 0's round; the crossing self's two cells the across offering alters; the 0 ended at the seam by the other parity across, the like pair still; two spirals crossed again at 2 from 4m or from 2n + 1, each row agreeing; two spirals of one number alike at each momentary, the 0 ending at none.*
+
+652. At a torus of two odd numbers, opened as step 651 says, each line of selves across carries one 0 at most at a momentary, at the self next across after its last 0, before its first at its self of the along seam. That self is at a changing that is not exactly at these two: the 0 of the line along prior to it has been at its along prior after its own last 0, at the first line's first round the opening's along seam standing for it; and its two priors were not both at a 0 the momentary before. Each other self, from the second momentary, is offered across the parity other than its own and inverts.
+
+
+        *Adding: one 0 at most at each line across, and the two that carry it on.*
+
+653. The momentary of a line's next 0 is one after the later of two, the line's own last 0 and the 0 of the line along prior to it at that place, and two after them at the two at one momentary, step 652; one after the one at the other none, a line's first 0 and the first line's first round; the first line's along prior is the last line, one round of the q before; and the first 0 of all is at the second momentary, step 651.
+
+
+        *Adding: a line's next 0 one after the later of two, two after at the two alike.*
+
+654. Each self's first 0 is at momentary i + j + 2 and the lesser of i and j more, i along and j across from the self of both seams, steps 651 and 653; and each line i along after the first, from its 0 next after its first i, is at each 0 of the line prior to it two momentaries later, without end.
+
+
+        *Adding: each self's first 0 at i + j + 2 and the lesser more, each line two momentaries behind its prior.*
+
+655. At q more than twice p the first line's 0 passes one self on at each momentary round its q selves and waits at none, each line after the first two momentaries behind its prior, the first more than two behind the last, steps 653 and 654: each self is at a 0 once in q momentaries, q odd, its parity as it was, and the sharings are again at q, from momentary 3p − 1.
+
+
+        *Adding: at q more than twice p the sharings again at q, from momentary 3p − 1.*
+
+656. At q less than twice p, p from 3, q the lesser's equal or more, the first line at its second round comes two momentaries behind the last line, at its place q − p of that round and at p and q one number at its first, and waits behind it at 2p − q places, steps 653 and 654: each line's 0 is round its q selves in 2p momentaries, each self at a 0 once in 2p, an even number, its parity inverted, and the sharings are again at 4p, from momentary 3p − 3. A torus of 1 by q is at step 655, and one self alone is at a 0 at each second momentary, 4 from the first.
+
+
+        *Adding: at q less than twice p the sharings again at 4p, from momentary 3p − 3.*
+
+657. The divide of step 243 is derived, steps 655 and 656: round the p lines, each after the first two momentaries behind its prior, is 2p momentaries, and round a line is q; the greater is the 0's round, q at q the greater, and 2p at 2p the greater, one 0 at each self in an even number of momentaries inverting it, 4p. The rule of step 653, from the first 0 of step 651 and each self inverting at each momentary it is at no 0, worked as arithmetic at each of Exhibit ONE's ten rows of two odd numbers, gives each row's number and the momentary it is from.
+
+
+        *Adding: the torus's divide derived: 2p round the lines, q round a line, the greater the 0's round.*
+
+658. At two spirals crossed, step 237, a crossing self is offered its along prior's changing and the other crossing self's, and is at a changing that is not exactly at one of them or both its own parity and neither the other parity, step 212. The across offering alters two cells alone: along its own parity and across the other, + and − together, a changing; along a 0 and across its own parity, a changing that is not.
+
+
+        *Adding: the crossing self's two cells the across offering alters.*
+
+659. Each self inverting at each momentary is exactly each spiral alternating from its first self to its last and, at an odd spiral, the last and the first alike with the two crossing selves opposite, steps 649 and 658: the odd spiral's like pair rests at its seam, its 0 ended by the other parity arriving across, + and − together, and the like pair is at each momentary still.
+
+
+        *Adding: the 0 ended at the seam by the other parity across, the like pair still.*
+
+660. Two spirals of two odd numbers crossed, m the lesser from 3 and n the greater, opened as Exhibit ONE opens them: the crossing selves are alike to momentary 2m + 1; at it the lesser spiral's crossing self, offered a 0 along and its own parity across, is at a changing that is not, and from 2m + 2 the two are opposite; each spiral's crossing self, next offered a 0 along and the other parity across, inverts, and each self of that spiral inverts from it on, the greater spiral from 2n + 1 and the lesser from 4m, its like pair at its seam offered both parities from the next momentary, steps 658 and 659. The sharings are again at 2 from momentary 4m at n less than twice m and from 2n + 1 at n more; at m even and n odd from 2n + 1, the two opposite from 3. Each of Exhibit ONE's eight rows agrees, step 631.
+
+
+        *Adding: two spirals crossed again at 2 from 4m or from 2n + 1, each row agreeing.*
+
+661. Two spirals of one number of selves crossed, opened alike, are alike self for self at each momentary, the crossing selves alike, and at an odd number the 0 ends at none, step 659: the two numbers differing is of the deriving. Two even spirals, each alternating, are again at 2 from the first momentary, the crossing selves alike.
+
+
+        *Adding: two spirals of one number alike at each momentary, the 0 ending at none.*
+
+
+        *Unsure: step 237's each carried pattern is derived at the table's opening alone, and two spirals with the lesser of one self at tables by hand alone; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at the torus, 3 and 9 crossed from 19, wait on an executing.*
