@@ -134,7 +134,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a self-emptying set.*
 
-20. The set has nothing beside it: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
+20. The set is all existing things: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
 
         *Adding: nothing ingressing and nothing escaping.*
 
@@ -266,7 +266,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a second method at one binary.*
 
-50. A technology is a made non-living thing applied to a changing from beside it, and a method is at the couplings themselves, applied by nothing.
+50. A technology is a made non-living thing applied to a changing from beside it, and a method is at the couplings themselves.
 
         *Adding: technology, a made thing applied.*
 
@@ -338,7 +338,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: all or none at all.*
 
-66. One at an exclusion and not a measure, the other at its own, the counterpart exclusion, the two alternating one at a time: not-more-than, the exclusion named at one side.
+66. One at an exclusion, the other at its own, the counterpart exclusion, the two alternating one at a time: not-more-than, the exclusion named at one side.
 
         *Adding: not-more-than.*
 
@@ -590,7 +590,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: forming as unrelationing.*
 
-124. Two numbers beside a centre multiply to one short of the centre's square, 2 × 4 = 8 and 3² = 9, the gap exactly one at each centre, the same one, owned by neither of the two numbers, and no last centre: advancing, each step adding a next.
+124. Two numbers beside a centre multiply to one short of the centre's square, 2 × 4 = 8 and 3² = 9, the gap exactly one at each centre, the same one, owned by neither of the two numbers: advancing, each step adding a next.
 
         *Adding: advancing.*
 
@@ -734,7 +734,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: other-emptying.*
 
-155. An observing empties the observed and measures the remainder against a ground it declared: the emptying is the observing's, an incompetencing, and the observed carries none; the declared ground at no location, the emptying released, nothing removed and nothing added, and the carrying carries its prior into now: geodesic disequilibrating.
+155. An observing empties the observed and measures the remainder against a ground it declared: the emptying is the observing's, an incompetencing, and the observed carries none; the declared ground at no location, the emptying released, and the carrying carries its prior into now: geodesic disequilibrating.
 
         *Adding: geodesic disequilibrating.*
 
@@ -1365,7 +1365,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: pattern-matching.*
 
-303. A coupling is checkable at a parity and at no size: a mismatch is released at 10 at its own parity, a yes or a no the other couples with.
+303. A coupling is checkable at a parity alone: a mismatch is released at 10 at its own parity, a yes or a no the other couples with.
 
         *Adding: checkable at a parity.*
 
@@ -1585,11 +1585,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: flowing co-chaining.*
 
-357. Each link is a next possible momentary discovered at a coupling, the next at no place laid before the coupling reaches it.
+357. Each link is a next possible momentary discovered at a coupling, the next arriving at the coupling alone, as the coupling reaches it.
 
         *Adding: discovering the next possible momentary.*
 
-358. A resolving at a coupling is tested at its own arriving alone, whether another could arrive and continue: one continuing, the resolving is the one possible at that arriving, and the test is again at each next arriving, carried between arrivings by nothing.
+358. A resolving at a coupling is tested at its own arriving alone, whether another could arrive and continue: one continuing, the resolving is the one possible at that arriving, and the test is again at each next arriving, each arriving's own.
 
         *Adding: uniqueness at each arriving.*
 
@@ -1625,7 +1625,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 26 Fractal inward and outward
 
-        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; the scalings at the chain; continuing inward and outward; the one fractal at each scale; the scales with no boundary, location or measure; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
+        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; the scalings at the chain; continuing inward and outward; the one fractal at each scale; a scale a reading, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
 
 366. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
 
@@ -1669,7 +1669,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 376. A scale is a reading, a self or a society read, and the one form is at each: a boundary, a location or a measure between scales is a thing beside all existing things, step 47.
 
-        *Adding: the scales with no boundary, location or measure.*
+        *Adding: a scale a reading, the one form at each.*
 
 377. The changing crossing at a coupling carries none of either side's carrying, and the one method is the same at each material a self's carrying is at, electrical, thermal, chemical, living or social, the materials differing at the carryings alone.
 
@@ -1954,7 +1954,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 30 Intelligence, our now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-; a parity arriving from a changing, retained or emanated; the stable-formed emanation; the tunneling offering as three; bi-co-momentarying, the term neither reaches; two bi- and the three carryings; the three carryings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society read as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; the four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; the four of social moral competency; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-tri-bi-tri-releasing; collective intelligence, human and at each scale; co-competency compounding at distinct selves; abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; our now.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-; a parity arriving from a changing, retained or emanated; the stable-formed emanation; the tunneling offering as three; bi-co-momentarying, the term neither reaches; two bi- and the three carryings; the three carryings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society read as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; the four invisibles; invisibling; competency at its couplings' changings alone; natural-bi-co-torusing; the four of social moral competency; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-tri-bi-tri-releasing; collective intelligence, human and at each scale; co-competency compounding at distinct selves; abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; our now.*
 
 440. Within a momentary, within the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -2042,7 +2042,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the instrument summing, a society read as one magnitude.*
 
-461. Each field carries a neutral, the term at it relating to nothing beside its own coupling, and at the neutral the field's names and the set's own names arrive at one concept with nothing translating between them.
+461. Each field carries a neutral, the term at it relating to its own coupling alone, and at the neutral the field's names and the set's own names arrive at one concept with nothing translating between them.
 
         *Adding: a field's neutral, the names meeting.*
 
@@ -2112,7 +2112,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 478. A self observes the changings arriving across and carries its competency along, the competency at its couplings' changings alone.
 
-        *Adding: competency at no observing.*
+        *Adding: competency at its couplings' changings alone.*
 
 479. Natural-bi-co-torusing names the form of existing: natural-, all or none at all; bi-, the difference; co-, the two at their difference; torusing, the carrying winding through its one opening; -ing, the changing continuing.
 
@@ -2130,7 +2130,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a seat at its arrangement.*
 
-483. Four values are at the between of selves and at a location at none: abundancing; identity, a self's own carrying carried by nothing else; safety, the other's changing checkable at a parity; and reputation, the observings of a self all prior; each re-arrived at each coupling and stored by none.
+483. Four values are at the between of selves: abundancing; identity, a self's own carrying carried by nothing else; safety, the other's changing checkable at a parity; and reputation, the observings of a self all prior; each re-arrived at each coupling.
 
         *Adding: the four values at the between.*
 
@@ -2142,7 +2142,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: self-interest and the society's competency one.*
 
-486. 12's changing at the society is made at each coupling and carries at that coupling, drawing on no other coupling.
+486. 12's changing at the society is made at each coupling and carries at that coupling, drawing on that coupling alone.
 
         *Adding: 12's changing at the society.*
 
@@ -2190,7 +2190,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: unanimizing and pluralizing alternating.*
 
-498. At the numbers the between is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, no location, and a co-orthogonal line through both, along: floating and neutralling, corusing and torusing, discovering collectively, in swarm, carrying next possible existing society.
+498. At the numbers the between is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, and a co-orthogonal line through both, along: floating and neutralling, corusing and torusing, discovering collectively, in swarm, carrying next possible existing society.
 
         *Adding: the between at the numbers, two parallel surfaces, in swarm.*
 
@@ -2406,7 +2406,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a gathering.*
 
-550. Each concept carries one name, a naming at a changing already named releasing to the one name, similar namings gathering at it, and a name is re-arrived at each time it is reached, at no lexicon.
+550. Each concept carries one name, a naming at a changing already named releasing to the one name, similar namings gathering at it, and a name is re-arrived at each time it is reached.
 
         *Adding: one name at each concept.*
 
