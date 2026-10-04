@@ -96,3 +96,22 @@ Added at this file's welcome. No sentence here is authority. Each is from a fres
 - **Inversion the method's.** The Registry's group 37 said *its other parity* for a self's own inverting; with this file's part on negation and inversion it says *inverted*: a self carrying a parity is next at that parity inverted, or continues at its own parity surfacing.
 
 **Gathered from this file into the Registry.** A prefix at the resolver, bi across at each even name, co the arriving and tri the same root given on, is entered as its step 636, Natural Naming's sentence; its step 347 says along as tri given on and co arriving.
+
+## Sharing across and releasing along, worked further
+
+**Each momentary of exchanging is along, across, along.** Exhibit ONE's table of a self's four momentaries of exchanging, each row an odd name, an even name, an odd name: four of four. One to nine is five along and four across. Entered at Natural Naming, one sentence.
+
+**At the resolver, two selves coupled both ways.** At each momentary each self shares across to the other, both ways at once, and each carrying is carried along. From alike parities the sharings are +, 0, −, 0 and come again at four momentaries, and the carrying is at each of the four joint forms of prior and now once. From opposite parities they come again at two. The four here and the four momentaries of exchanging at the names agree as numbers; a deriving of the one from the other is yet to be shown.
+
+**The fourteen names, each read at the resolver.**
+
+| Names | At the resolver | Sharing across or releasing along |
+|---|---|---|
+| 2, 4, 12, 14 with 6 and 10 | one changing at its places: offered at 2, at its sharing 4, made at 12, shared at 6 and 10, surfaced at 14 | across, six of the eight even names |
+| 8, 16 | each self's carrying gathered, and each self's carrying and offerings gathered, the selves beside each other | across the selves, holding carryings: said across, and a changing shared is at neither |
+| 3, 11 | the carrying received and the carrying chained for its next | along |
+| 5, 13 with 9 | the receiving sharing, the releasing sharing, and the function giving each changing on | along |
+| 7, 15 | the parity read and the parity surfaced | along with the carrying, and at 15 the parity of the changing shared |
+| 1, 17 | each self's momentary and the society's next | along, momentary to momentary |
+
+Open, one: 8 and 16 are even and hold carryings.
