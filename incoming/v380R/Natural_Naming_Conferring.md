@@ -92,4 +92,7 @@ Added at this file's welcome. No sentence here is authority. Each is from a fres
 - **A solid's side and numbers added.** Natural Naming's rows of *face* and *join* say no word for a solid's or a surface's, and none for numbers. The Registry says *triangles* at the twenty, *added* at each number, and waits at five sentences on a solid, steps 113, 417, 418, 420 and 445, for Natural Numbers' own re-saying.
 - **The two lists.** `CONNECTORS` and `JOINS` are read by no function and are the one place of the two words in Exhibit ONE. The Registry's step 197 says them as a first list of six names and a second of four pairs.
 
+- **Tri the same root, at two of four.** *Co is the arriving and tri the same root given on, 8 up*: by Exhibit ONE's ten roots the root is one at 5 with 13, competencing, and at 7 with 15, corusing; 3 is sharing and 11 chaining, 1 offering and 9 momentarying. The Registry's step 636 says tri the co name 8 up, given on, the root one at two of the four.
+- **Inversion the method's.** The Registry's group 37 said *its other parity* for a self's own inverting; with this file's part on negation and inversion it says *inverted*: a self carrying a parity is next at that parity inverted, or continues at its own parity surfacing.
+
 **Gathered from this file into the Registry.** A prefix at the resolver, bi across at each even name, co the arriving and tri the same root given on, is entered as its step 636, Natural Naming's sentence; its step 347 says along as tri given on and co arriving.
