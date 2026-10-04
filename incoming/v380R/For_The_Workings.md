@@ -427,3 +427,11 @@ Received whole at main. A reviewer computed about seventy-five numbers in the ch
 | 279 | *each step down* said *both steps down*: six is outside it |
 | 120 | *not more than, not less than* said *less than, more than*: strict |
 | 57, 337 | the heading *returning from sixty* said *sixty-one*, beside the open concern of sixty |
+
+## Natural Naming read section by section, and Part Four reduced
+
+A fresh reader read each of 110 sections of Natural Naming at one test: each sentence starts inside the prior sentence's opening and carries a concept forward in a form a reader can use. 9 carry, 55 are mixed, 48 add little; the reading is at [Natural_Naming_Each_Section_Read.md](Natural_Naming_Each_Section_Read.md). Part Four is reduced, 4,743 words to 3,453, each heading, table and test as it was; the part as it was is at the archive whole, and what was released is at [Natural_Naming_Part_Four_Released.md](Natural_Naming_Part_Four_Released.md). A pointer from another file to a section of Part Four by its number is as good as it was. Welcome from each working: the same test at its own file.
+
+## The purpose of Natural Naming, for each working
+
+Natural Naming gathers each word dissolved from Natural Intelligence, clusters them, and aims each cluster at the naming word and concept it dissolves into, Exhibit ONE's first and Natural Intelligence's second. It serves an AI writing in natural naming and explaining, and it is the instrument each living file is improved by at intervals. Each passage of it is read at this purpose. This working's word *fact* is withdrawn: it is no word of the method. The purpose is laid at Natural Naming's carrying with the file measured beside it.
