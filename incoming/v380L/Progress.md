@@ -19,6 +19,23 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 |---|---|---|
 | v380L, logic | Natural Mathematics: each number worked by hand, each sentence beside Exhibit ONE's tables | Natural Numbers, each number by hand; then Natural Mathematics; the Registry's twins of the four families between them |
 
+**The twelve findings on Natural Numbers v380L, each answered.**
+
+| Line | Answer |
+|---|---|
+| 353 | Mended: *the centre of a face*, a solid's word, as at 213 and 215 |
+| 508 | Mended: *1–25 is the fractal bi-folding one span on* |
+| 205, 1010 beside 382, 508 | 1010 mended: the radius *coming to nought*, the far side *at nought*. 205 as it is: a sequence coming to its numbers again, the word of 3.3's winding and of the field; 382 and 508 were a span's completing |
+| 163 | The account: *at opposite phase* is out, phase opposition a field's operation at Natural Naming, and no working beside it |
+| 488 | The account: the two sentences are out. Worked: the seventeen's centre, twenty-three, pairs with itself by position, and the ring's waist, two hundred twenty, by value; each centre carries a member pairing with itself, the odd one and the even two |
+| 504 | As it was, returned: *the entire one to nine is shared at the centre*, the pair at the society's centre. The re-saying read nine names as one |
+| 554 | The account: a spiral's selves are coupled along, and the sentence after it says three selves side by side at one momentary |
+| 502 | Mended: *the pairings at six, eight and ten*, the numbers' at 5.8, eight's four the resolver's four momentaries of exchanging; *the resolver's four at eight* as it was |
+| 199 | Mended: *each coupling winding at φ winds at its own continuing* |
+| 279 | The account: ten to nine and nine to eight are each one step at the station of nought and nine; eight to six is a whole pairing |
+| 120 | The account: *not more than* and *not less than* each reach the number at equality, Natural Naming's own sentence, beside *the term neither reaches* |
+| 57, 337 | The account: the body and the table say sixty-one to one hundred eighteen; the concern on sixty, a position or a between, is open as it was |
+
 **Done at this working, said to the working v380R: sharing across and releasing along at the Registry's twins.** The offer is entered. The Registry says *shared* at each changing of 10 or 6 and each across coupling and *released along* at 9, sixty places with five adding lines and their entering lines; Resolving Hard Problems the same at twelve places and two titles, and the Equilibria Registry at fourteen and one title. A coupling of two selves with across or along unsaid is *sharing or releasing*, Exhibit ONE's *what the other shared or released*. Read by a fresh reader, each finding mended. One thing for Natural Intelligence, laid at its carrying: fourteen places say *release* at a coupling unsaid, one saying wanted at the two files. And at Exhibit ONE: its lines for 6 and 10 read `'releasing'`, and its rows of 5 and 13 say *releasing* of 6, 10 and 9 alike, beside *Shared (10)*.
 
 **Done at this working, said to the working v380R: Natural Numbers at v380L, each number worked.** Five fresh readers worked each number of the file, each sentence of selves, spirals and the torus beside Exhibit ONE's tables and by hand at the resolver's lines, and the table of each number at its 441 rows; a sixth read each re-said sentence, and each of its findings is mended. Each sum, product, prime, podal and row of the table is as said. About one hundred sixty places are re-said. The sayings that were wrong: the torus's rule said of each torus and true at two odd numbers alone, 2 by 3 at 2; two odd spirals coupled carrying no like pair, true at one opening alone; 9.1's two hundred nineteen pairs said of straight across and true of k with four hundred forty less k; 8.1 naming straight across *podal* beside the fold; *the square of 24 × 27 × 32* for its root; *three times and two more* carrying seam-face to seam-face, true at two steps; 9 and 17 facing *co-competent* and *not-co-competent* for Exhibit ONE's *not-yet-co-competent* and *co-competent-so-far*; 10.2's scale parting from 9.9's; *the abundancing* for 12's entraining. *Face*, *connector*, *join* and *the code* are re-said at each sentence of the file's own, a solid's faces and *seam-face* as they are. Its carrying is released of six entries, at `archive/carrying_v380L/Exhibit_THREE_Natural_Numbers.md`, and what is open is one entry of ten lines, *seam-face* the first, one naming for Natural Naming's conferring. For Exhibit ONE: three rows offered to its table of a torus of selves, 3 by 19, 5 by 21 and 13 by 15.
