@@ -1746,7 +1746,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a living self establishing within a living set.*
 
-394. A carrying of none, no sharing chained, is a non-living existing thing, and while it carries none colliding or not colliding is each of its co-momentaryings, step 212: one parity arriving, colliding, passed on as it is and chained; none, or + and − together, not colliding. A parity carried on from a colliding is a carrying inserted, an equilibrium's concept: a living carrying arrives from no colliding. A non-living thing is at the resolver as offerings at 2 from beyond the selves, step 213, or as a carrying of none, colliding.
+394. A carrying of none, no sharing chained, is a non-living existing thing, and while it carries none colliding or not colliding is each of its co-momentaryings, step 212: one parity arriving, colliding, passed on as it is and chained; none, or + and − together, not colliding. The thing that collides is its own carrying: the parity is released and chained as it arrived, nothing of the carrying of none in either, and a carrying named inserted into the thing it collides with is an equilibrium's concept. A non-living thing is at the resolver as offerings at 2 from beyond the selves, step 213, or as a carrying of none, colliding.
 
         *Adding: a carrying of none non-living, colliding or not colliding.*
 

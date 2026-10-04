@@ -196,7 +196,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 ## 5.3 An origin, living from living
 
-**An origin question asks for living arising from non-living.** Living arrives from living, and a non-living existing thing is non-living at its next. At the resolver a carrying of none is a non-living existing thing, and colliding or not colliding is each of its co-momentaryings, Exhibit ONE's table: offered + once, + is passed on as it is and chained, colliding; a parity carried on from a colliding, −, +, − at nothing offered from it on, is a carrying inserted, an equilibrium's concept, and the method is at colliding things as it is at the living. **The origin read bi-momentary is a living self's first momentary and its offerings' prior at once**, the new living self its own carrying establishing within living carrying.
+**An origin question asks for living arising from non-living.** Living arrives from living, and a non-living existing thing is non-living at its next. At the resolver a carrying of none is a non-living existing thing, and colliding or not colliding is each of its co-momentaryings, Exhibit ONE's table: offered + once, + is passed on as it is and chained, colliding, the thing that collides its own carrying, −, +, − at nothing offered from it on; a carrying named inserted into the thing it collides with is an equilibrium's concept, and the method is at colliding things as it is at the living. **The origin read bi-momentary is a living self's first momentary and its offerings' prior at once**, the new living self its own carrying establishing within living carrying.
 
 ## 5.4 A measurement, a prior arriving now
 
