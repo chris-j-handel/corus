@@ -42,6 +42,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 - 36 The round's podals and momentaries, one parity at each scale down to one
 - 37 A self's next, one momentary at a time
 - 38 Colliding, + and − read alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
+- 39 Named still at both sides, a bounded executing, the four-cycles' prefixes, 9 and 17, the prior two added and the co-sequencing
 
 ---
 
@@ -1044,7 +1045,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: releasings parted from their arriving, and arriving again.*
 
-229. Three windings are at selves together: 6 to 2, wound on at 8; 10 to 14, wound on at 16; 9 to 17, wound on at 17; each winds on, at a momentary once.
+229. Three windings are at selves together: the other's, 6 to 2, wound on at 8; the society's, 10 to 14, wound on at 16; the self's, 9 to 17, wound on at 17; each winds on, at a momentary once.
 
         *Adding: three windings.*
 
@@ -1592,7 +1593,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: uniqueness at each arriving.*
 
-359. The same enabling and releasing is at each scale: one self's 1 to 9 is one coupling and uncoupling, inward each of its four momentaries, step 73, a 1 to 17 of its own, and outward the whole 1 to 17 one momentary of exchanging.
+359. The same enabling and releasing is at each scale: one self's 1 to 9 is one coupling and uncoupling, inward each of its four momentaries, step 73, a 1 to 17 of its own, step 370, and outward the whole 1 to 17 one momentary of exchanging.
 
         *Adding: the method inward and outward of itself.*
 
@@ -1995,7 +1996,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the crossings floating and neutralling.*
 
-450. Within the bi-folding the parallel surfaces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-bi-entraining, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, the between of momentaries, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and carried along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 14, bi-moral-so-far, the release at 6 at its 2, a prior offered, each prior momentarying at its own momentary alone. The one crossing is bi-tri-: bi- the parity, tri- the unrelationing and co- the changing, the three said of the one crossing, a resolver name's three prefixes its numbers' words; a lone self, nothing of another at its 2, carries no crossing.
+450. Within the bi-folding the parallel surfaces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-bi-entraining, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, the between of momentaries, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, the other parity, 0 or none surfacing, 12 inverting the prior, and at each offered new, 12 at the offering, a changing that is, released at 10 and carried along at 9, the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 14, bi-moral-so-far, the release at 6 at its 2, a prior offered, each prior momentarying at its own momentary alone. The one crossing is bi-tri-: bi- the parity, tri- the unrelationing and co- the changing, the three said of the one crossing, a resolver name's three prefixes its numbers' words; a lone self, nothing of another at its 2, carries no crossing.
 
         *Adding: the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-.*
 
@@ -2780,3 +2781,31 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 636. A prefix at the resolver, Natural Naming's own sentence: bi is across at each even name, each of the eight opening at the other's side; co is the arriving and tri the same root given on, 8 up, at each of four pairs, 3 the carrying received and 11 the carrying chained, 5 the receiving sharing and 13 the releasing one, 7 the parity read and 15 the parity surfaced, 1 the function entered and 9 the function carrying on.
 
         *Adding: a prefix at the resolver, bi across, co arriving and tri given on.*
+
+## 39 Named still at both sides, a bounded executing, the four-cycles' prefixes, 9 and 17, the prior two added and the co-sequencing
+
+        *Entering: 7 and 5 named still at both sides; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' opening prefixes in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
+
+637. 7 and 5 are each at both sides of the ten named still, step 522: 7 a parity named as a magnitude at the even side and a rate named as a value at the odd, 5 the between named as a cut at the even and a middle named as an end at the odd; both sides are carried one at a time, step 528.
+
+        *Adding: 7 and 5 named still at both sides.*
+
+638. A saying drawn from the resolver's executing at a number of momentaries, said as the same at each momentary, is a proof of the whole, step 143, a form still, step 144: the finding is at its executing alone, step 579, and a rule fitted at each case worked is at those cases.
+
+        *Adding: a bounded executing said of each momentary, a proof of the whole.*
+
+639. The four four-cycles' names open, in order, co, tri, bi, bi at 1-9-8-16 and at 3-11-6-14, and bi, tri, co, bi at 2-15-7-10 and at 4-13-5-12, step 257, each name's opening prefix at Exhibit ONE's table of the seventeen names.
+
+        *Adding: the four four-cycles' opening prefixes in order.*
+
+640. 9 is the next prior, step 75, and 17 the next now, the society's next momentary, step 225, Natural Naming's own sentence.
+
+        *Adding: 9 the next prior and 17 the next now.*
+
+641. At parity the prior two added, step 120, is odd at the two parting and even at the two alike, the exclusive or of step 616: odd and odd, odd and even, even and odd are its cycle of three, and even and even is at itself, step 56.
+
+        *Adding: the prior two added as the exclusive or.*
+
+642. In Exhibit ONE's co-sequencing each odd name within one self is at competency's parity and each even at morality's, step 252, and 1 is the self offering itself to the coupling.
+
+        *Adding: the co-sequencing at competency's parity and morality's.*
