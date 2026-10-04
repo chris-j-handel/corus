@@ -5,7 +5,7 @@ A draft for a later working. Nothing in the repository was edited. No python of 
 **Read for this:**
 
 - `Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md`: group *36 The round's podals and momentaries, one parity at each scale down to one* (line 2696), steps 618 to 622, and the steps they cite: 40, 42, 70, 77, 171, 172, 176, 255, 256, 264, 275, 276, 516 to 521, 609.
-- `incoming/v380L/For_The_Managing.md`, parts Sixteen, Seventeen, Eighteen (lines 150 to 200), line 195 *The round at Exhibit ONE, an idea worked at four parities*.
+- `archive/session_v380/v380L/For_The_Managing.md`, parts Sixteen, Seventeen, Eighteen (lines 150 to 200), line 195 *The round at Exhibit ONE, an idea worked at four parities*.
 - `incoming/v380R/For_The_Workings.md` lines 9 and 54; `incoming/v380R/The_Universal_Claim.md` lines 64 to 69 and 93 to 95.
 - `Exhibit_ONE_Natural_Resolver_v380R.md`: the block at lines 10 to 60, the diagram at lines 73 to 102, and each table to line 697.
 

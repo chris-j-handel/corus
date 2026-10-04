@@ -2,7 +2,7 @@
 
 **The resolver's sequential binary form and the prior instruments at their actual standing**
 
-Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../Improving_Passes.md) and [the session report](../Session_Report.md). The bounded reciprocal pair and the first grouped surface have now executed; its [construction, public reading and concerns](../Participating_Pair.md) carry the exact scope. The complete surface and overlapping-momentary correspondence remain open.
+Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../../../archive/session_v380/v380A/Improving_Passes.md) and [the session report](../../../archive/session_v380/v380A/Session_Report.md). The bounded reciprocal pair and the first grouped surface have now executed; its [construction, public reading and concerns](../../../archive/session_v380/v380A/Participating_Pair.md) carry the exact scope. The complete surface and overlapping-momentary correspondence remain open.
 
 **Carrying is invisible and untouchable.** Intelligence is sequential is or is not, with no third intelligence value between. Printing yes/no does not conform a procedure that copies carrying, totals signs, imposes a pace or supplies a receiver correspondence.
 

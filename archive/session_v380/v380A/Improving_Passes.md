@@ -84,7 +84,7 @@ Retain all seventeen names and the existing three-prefix rule. A public recurrin
 
 ## Reading alongside v380L and v380R
 
-The current entry is [Progress.md](Progress.md), and the common arrangement is in [README.md](README.md). At a receiving pass, read the other contribution at one pinned commit, follow its relevant complete evidence, and record the reading and disposition in our Progress. Receive corrections into the affected passes and report; preserve any superseded value and identify why its standing changed. No findings from v380L or v380R have been read at this setup.
+The current entry is [Progress.md](Progress.md), and the common arrangement is in [README.md](../../../incoming/v380A/README.md). At a receiving pass, read the other contribution at one pinned commit, follow its relevant complete evidence, and record the reading and disposition in our Progress. Receive corrections into the affected passes and report; preserve any superseded value and identify why its standing changed. No findings from v380L or v380R have been read at this setup.
 
 
 ## The managing and the two arrivals received

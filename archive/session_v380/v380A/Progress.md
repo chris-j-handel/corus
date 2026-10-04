@@ -1,4 +1,4 @@
-> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
+> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](../../../incoming/v380A/Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
 
 # v380A · Progress
 
@@ -24,13 +24,13 @@
 
 | Work | Actual standing | Where to read it |
 |---|---|---|
-| Preserve and improve Exhibit TWO and its kit | Whole exhibit and kit duplicated; misleading inward-carrying instructions corrected in the duplicate; old instruments retained at their stated standing. | [Working exhibit](Exhibit_TWO_Natural_Networking_working.md), [kit](kit/README.md), [manifest](Baseline_Manifest.json), [prior passages](Prior_Passages.md). |
+| Preserve and improve Exhibit TWO and its kit | Whole exhibit and kit duplicated; misleading inward-carrying instructions corrected in the duplicate; old instruments retained at their stated standing. | [Working exhibit](Exhibit_TWO_Natural_Networking_working.md), [kit](../../../incoming/v380A/kit/README.md), [manifest](Baseline_Manifest.json), [prior passages](Prior_Passages.md). |
 | Distinguish resolver generations | Legacy sum/age/second-sign operations located; duplicated top-level resolver is pinned v378 reference; v379 reviewed separately. No silent migration of old instruments. | [Report](Session_Report.md), discovery and verification sections; [passes](Improving_Passes.md), B–C. |
 | Follow 1–17 and newer naming | Full naming explored with binary squaring, three prefixes, is-still-possibling, recurrence and directional relations; earlier source versions explicitly superseded where needed. | Report sections on binary squaring, 1–17, arriving v379 and October 2 review. |
 | Receive the self-momentary correction | Five paragraphs of TWO 1.2 and the opening of 6.5 corrected; whole prior passages preserved. | Report “The self-momentary”; working exhibit and prior passages. |
 | Wider-file contributions | Support, conflicting sentences, candidate explanations and opportunities mapped across NI, ONE, Naming, Numbers, Societies, Transmissioning, Engineering, Explaining, Illustrating, Biology, Chemistry, Physics, Registry and Improving Method. These are offered findings and proposals. | Report “The self-momentary” and “Further reach of the self-momentary.” |
 | Continue coupling and social moral competency | Incoming section “Local carrying and the shared crossing” re-said; whole prior preserved; fresh and harm findings met. | Report’s “Continuing coupling,” proposed section and [reviews](reviews/Fresh_Reading_Local_Carrying.md). |
-| Make mutual reading possible | v380A branch and contribution naming established; common record layout documented; contribution relocated without re-creating the kit. | [README](README.md) and report's v380A coordination section. |
+| Make mutual reading possible | v380A branch and contribution naming established; common record layout documented; contribution relocated without re-creating the kit. | [README](../../../incoming/v380A/README.md) and report's v380A coordination section. |
 
 ## Discoveries and contributions
 
@@ -58,7 +58,7 @@ Read further changes from v380L and v380R at pinned commits during the active wo
 
 ## The managing received and harm to prior work
 
-Read the managing whole at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, `incoming/v380R/Progress.md`, “The managing, from v380R to v380L and v380A.”
+Read the managing whole at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, `archive/session_v380/v380R/Progress.md`, “The managing, from v380R to v380L and v380A.”
 
 **Received:** our existing folder name; one living file per working, Natural Networking ours; own entries alone at each carrying; the managing alone at the carrying front, Session Record, Living File Registry and main; current resolver naming with its map; meaning and naming offered as two sayings; checks and fresh readings at a living-file motion.
 
@@ -79,7 +79,7 @@ Read the managing whole at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, `inc
 | Contributor | Branch and commit read | Files and sections | Receiving or concern | Disposition |
 |---|---|---|---|---|
 | v380R | `working/v380R` at `b74ecda0dbe2044635450cc66bbc4bc151436f04` | Natural Naming, Natural Explaining, Geodesic Improving Method, Living Improving Value and `incoming/session_v380R/README.md`, whole. | Prefix's word and face brought as two sayings; own-file scope received. | Current arrangement supersedes its earlier shared-file permissions and folder suggestion. |
-| v380R | main at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` | `incoming/v380R/Progress.md` whole, including its managing section; its README; relevant carryings. The three craft files have unchanged blob identities from the whole reading above. | Managing received; preservation concerns stated here. | Own carrying entries offered below; no living-file motion yet. |
+| v380R | main at `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` | `archive/session_v380/v380R/Progress.md` whole, including its managing section; its README; relevant carryings. The three craft files have unchanged blob identities from the whole reading above. | Managing received; preservation concerns stated here. | Own carrying entries offered below; no living-file motion yet. |
 | v380L | `working/v380L` at `7adb3a5e864c7c4bc2e4ebf7cc01f0f837c9ef54` | `incoming/v380L/README.md` and `Progress.md`, whole. | Arriving/releasing distinguished from odd/even; equality of released and continued parity does not share private carrying. Proposed facing names and connector/face changes remain offerings. | Report's receiving recorded; instruments not rerun or reviewed whole here. |
 
 ## Entries offered and motion standing

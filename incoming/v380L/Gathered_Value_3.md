@@ -3,12 +3,12 @@
 Read: transcript lines 1401 to 2160, whole and in order. Searched: `carry/`, `incoming/v380L/`, `incoming/v380R/`, `archive/carrying_v380L/`, the living files at the root, and (for words found nowhere) the whole tree and the git log. Nothing in the repository was changed or executed.
 
 Short names used below:
-- **Chaining** = `incoming/v380L/Chaining_A_Selfs_Changing.md`
-- **Incoherings** = `incoming/v380L/Incoherings_For_The_Subject.md`
-- **FTM** = `incoming/v380L/For_The_Managing.md`
+- **Chaining** = `archive/session_v380/v380L/Chaining_A_Selfs_Changing.md`
+- **Incoherings** = `archive/session_v380/v380L/Incoherings_For_The_Subject.md`
+- **FTM** = `archive/session_v380/v380L/For_The_Managing.md`
 - **Progress** = `incoming/v380L/Progress.md`
-- **Gathering** = `incoming/v380L/Gathering_For_Numbers_Mathematics_Intelligence.md`
-- **Forms** = `incoming/v380L/Exhibit_ONE_Forms_At_The_Registry.md`
+- **Gathering** = `archive/session_v380/v380L/Gathering_For_Numbers_Mathematics_Intelligence.md`
+- **Forms** = `archive/session_v380/v380L/Exhibit_ONE_Forms_At_The_Registry.md`
 - **Registry** = `Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md` (the living file); **carry/THIRTY**, **carry/ONE**, **carry/TWENTY-FOUR**, **carry/LIV** = the carryings of the Registry, Exhibit ONE, the Geodesic Improving Method, and `carry/Living_Improving_Value.md`.
 
 83 pieces: 16 passed by (whole or in part), 67 carried or entered.
@@ -106,7 +106,7 @@ Eleven of the sixteen are the person's own words, quoted nowhere in the tree. Fo
 33. **1552 to 1558.** v380c, steps 600 to 603; three wording faults and a title mended; six steps waiting. ENTERED: Registry lines 2616 to 2628; Progress lines 240 to 257.
 34. **1562 to 1563.** Arithmetic agrees with the managing session's following at eight cells; its fifth finding fails at a third offering ("0, +" at +, "+, −, +" at 0). Finding. CARRIED: FTM lines 23, 30; carry/ONE line 35.
 35. **1565.** The new group placed at the file's end; whether it belongs beside the steps it rests on left to the managing session. Open question. CARRIED: FTM line 65; Progress line 236. No answer found in `incoming/v380R/`.
-36. **1566.** Not done: the row of a carrying at none; six forward at the Registry's own steps; reading the other thirty-one groups beside Exhibit ONE. CARRIED: none at steps 212, 624 to 628; six forward open at carry/THIRTY lines 43, 47; the thirty-one groups still "next" at Progress line 330 (the managing session read 126 sentences beside Exhibit ONE, `incoming/v380R/Registry_Beside_Exhibit_ONE_v380l.md`).
+36. **1566.** Not done: the row of a carrying at none; six forward at the Registry's own steps; reading the other thirty-one groups beside Exhibit ONE. CARRIED: none at steps 212, 624 to 628; six forward open at carry/THIRTY lines 43, 47; the thirty-one groups still "next" at Progress line 330 (the managing session read 126 sentences beside Exhibit ONE, `archive/session_v380/v380R/Registry_Beside_Exhibit_ONE_v380l.md`).
 37. **1568 to 1572.** The person: "for a living thing, social moral parity is binary alternating changing + - + - + .... as natural torusing method, no other possible stable-forming method" and the two paragraphs after it. Saying. CARRIED: Chaining line 141, quoted whole.
 38. **1577 to 1593.** The saying as two binaries, four rows; two changings at every row; no comparing; each earlier saying at its row. Finding. CARRIED: Chaining lines 145 to 174.
 39. **1594 to 1600.** Mistake: read the saying at one crossing alone (six cells one, two parting). CARRIED: Chaining line 178, withdrawn.
@@ -134,9 +134,9 @@ Eleven of the sixteen are the person's own words, quoted nowhere in the tree. Fo
 61. **1945 to 1957.** The fresh reader's findings: circular; withdrawn for the wrong reason; one meeting only in sequence; along and across reversed; the match forced, wrong column. What stands. Mistakes and their correction. CARRIED: Chaining lines 389 to 400; Progress line 106; FTM line 17.
 62. **1958 to 1963.** Three concerns not exhausted: where the coupling is; two parities at a self in the code; the 0 and nothing arriving. Open concerns. CARRIED: Chaining lines 402 to 408; the first met at steps 609, 623 to 627; the second at carry/THIRTY line 43.
 63. **1970 to 1975.** The managing session's offering (one self receiving its own prior releasing) worked again and found to hold. Finding, later withdrawn by both. CARRIED: carry/ONE line 167; Incoherings line 105.
-64. **1976 to 1988.** Four incoherings: the living step at two placings; Exhibit ONE's line with no comparing; the releasing five; a spiral of three at neither. Findings. ENTERED: step 609 (Registry line 2656, "the prior the other's"); group 37; steps 646 to 649. CARRIED: `incoming/v380R/Two_Parities_Gathered_And_Worked.md` lines 98, 108. The two-placings table is in git history only (d52da2e).
+64. **1976 to 1988.** Four incoherings: the living step at two placings; Exhibit ONE's line with no comparing; the releasing five; a spiral of three at neither. Findings. ENTERED: step 609 (Registry line 2656, "the prior the other's"); group 37; steps 646 to 649. CARRIED: `archive/session_v380/v380R/Two_Parities_Gathered_And_Worked.md` lines 98, 108. The two-placings table is in git history only (d52da2e).
 65. **1998 to 2016.** The "largest incohering": the cell of an arriving alike, every 0. Mistake. CARRIED as withdrawn: Incoherings line 105.
-66. **2018 to 2023.** Three helps for the managing session: a carrying at none; two things written 0; comparing. Findings. CARRIED: carry/ONE line 41; `incoming/v380L/For_Natural_Naming.md` line 31; ENTERED: steps 623 to 627. `incoming/v380L/README.md` line 82 still names the older entry by its first title.
+66. **2018 to 2023.** Three helps for the managing session: a carrying at none; two things written 0; comparing. Findings. CARRIED: carry/ONE line 41; `archive/session_v380/v380L/For_Natural_Naming.md` line 31; ENTERED: steps 623 to 627. `incoming/v380L/README.md` line 82 still names the older entry by its first title.
 67. **2030 to 2047.** The largest incohering moved to the rows with a changing at every call; the Registry's two sentences on a self alone and on the even spiral. Mistake. CARRIED as withdrawn: Incoherings lines 21 to 31; the even spiral's sentence at line 71; ENTERED: steps 232, 610.
 68. **2051.** "I laid this same finding earlier today and then withdrew it; your correction is what puts it back." CARRIED: Incoherings line 105, "The largest incohering, twice".
 69. **2062 to 2072.** One unresolved concept: a rest of two; at most one momentary for each self releasing; the torus of 1 by 6. Finding. CARRIED: Incoherings lines 43 to 62, 117; ENTERED: steps 308, 611.

@@ -38,7 +38,7 @@ A draft at 383 and 567, from Natural Naming's own sentence: *the offerings surfa
 
 **Entered:** 2, 5, 12, 13, 17, 18, 21, 32, 36, 51, 55, 63.
 
-**Withdrawn by a later entry or saying:** 9, 11, 35, 48, 52, 59, 61, 62, 64, 66, 68, 69, 72, 73, 75, 87. Each one's withdrawing entry or file: 12 for 11; 70 for 35 and 68; 49 for 48; 53 and 57 for 52; 63 for 61, 62 and 64; 68 and 76 for 66; 72 for 69; 73 for 72; 76 for 75; `incoming/v380R/The_Universal_Claim_Gathered.md` for 87. Entry 9 is set apart by the conferring's decided row, odd and even a name's and + and − a sharing's; entry 59 agrees with it.
+**Withdrawn by a later entry or saying:** 9, 11, 35, 48, 52, 59, 61, 62, 64, 66, 68, 69, 72, 73, 75, 87. Each one's withdrawing entry or file: 12 for 11; 70 for 35 and 68; 49 for 48; 53 and 57 for 52; 63 for 61, 62 and 64; 68 and 76 for 66; 72 for 69; 73 for 72; 76 for 75; `archive/session_v380/v380R/The_Universal_Claim_Gathered.md` for 87. Entry 9 is set apart by the conferring's decided row, odd and even a name's and + and − a sharing's; entry 59 agrees with it.
 
 **Said of things the file has released:** 1, the head, titled at v379 and pointing at four things as they were; 67, a sentence for an opening the file has none of, for Natural Naming's paragraph on the resolver said plainly.
 

@@ -74,7 +74,7 @@ A negation needs a fixed thing to be other than: a location, a clock time, a sca
 
 ## From the working v380L, beside the open
 
-Added at this file's welcome. No sentence here is authority. Each is from a fresh reader's reading of a carrying or of the Co-Chaining Logic Registry's re-sayings, each claim of the resolver's lines by hand and nothing executed. The fuller accounts: `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`.
+Added at this file's welcome. No sentence here is authority. Each is from a fresh reader's reading of a carrying or of the Co-Chaining Logic Registry's re-sayings, each claim of the resolver's lines by hand and nothing executed. The fuller accounts: `archive/session_v380/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `archive/session_v380/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`.
 
 **At the open.**
 

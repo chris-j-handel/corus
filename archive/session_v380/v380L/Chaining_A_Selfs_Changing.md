@@ -2,7 +2,7 @@
 
 **Standing:** arriving, an offering for both. Each line is a step of the Co-Chaining Logic Registry v380 said beside the saying it meets, the step named by its number and its own adding line. Nothing here is an executing of the resolver: the test said at its first parts is the Registry's own, its step 525, *the one possible at six forward*, and its step 569, *a concern resolving*; at its part on the premise no step is an authority, and arithmetic at two parities alone is its reason.
 
-**Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, at its motion to v380 and at v380b at this branch, each step named here the same at each but the ones at steps 212 and 451; the managing's combining, `incoming/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
+**Read:** the Co-Chaining Logic Registry, whole, at `main` 048e21d, at its motion to v380 and at v380b at this branch, each step named here the same at each but the ones at steps 212 and 451; the managing's combining, `archive/session_v380/v380R/Three_Workings_Combined.md`, its first parting and its asking of this working.
 
 ## The test, at the Registry's own steps
 
@@ -89,7 +89,7 @@ The saying is one with the four: the first and the second are two parities and n
 
 **No word decides it.** No saying, no step and no cell is an authority here. This part is arithmetic at two parities and the reading of Exhibit ONE's own rows; no executing of the resolver. A fresh reader read it, and each of its findings is mended here.
 
-**The premise, as the session said it to the managing:** *the self carrying was living and parity alternating prior and must continue this through next and this comes from outside the method*. The managing's following, `incoming/v380R/Premise_Alternating_Followed.md`: a first changing at each momentary, the carrying to its opposite; a second, an arriving's, at an arriving differing from the carrying as the first made it. This working's withdrawn saying, a carrying at its own parity arriving as two changings, is offered back by it and carried on here as one of two sayings. The other saying, the 0 a changing that is not, is beside it at each part; neither is decided here.
+**The premise, as the session said it to the managing:** *the self carrying was living and parity alternating prior and must continue this through next and this comes from outside the method*. The managing's following, `archive/session_v380/v380R/Premise_Alternating_Followed.md`: a first changing at each momentary, the carrying to its opposite; a second, an arriving's, at an arriving differing from the carrying as the first made it. This working's withdrawn saying, a carrying at its own parity arriving as two changings, is offered back by it and carried on here as one of two sayings. The other saying, the 0 a changing that is not, is beside it at each part; neither is decided here.
 
 **One. Said the premise's way, each living carrying is one alternating, changing by changing.** Each changing is one inverting. The rows of a carrying at a parity differ at one thing: a momentary is one changing or two. Each row from a carrying at +:
 

@@ -1,6 +1,6 @@
 > **Current illustrating, 3 October 2026:** this session is **v380A**, fixed throughout. Its [illustrating contribution](illustrating/README.md), kit studies and [current consistency reading for v380R](illustrating/Concept_And_Consistency.md) are on `working/illustrating-v380A`. The continuity study is packed as concept work; newer receiving and older passages to improve are said at their exact cases. v380R manages all incoming value. The earlier networking handoff below is preserved whole.
 
-> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
+> **Current handoff, 2 October 2026:** [Full session handoff](../../archive/session_v380/v380A/Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](../../archive/session_v380/v380A/Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
 
 # v380A · Natural Networking
 
@@ -18,13 +18,13 @@
 
 ## Floating neutralling contents
 
-- [Current progress and readings from other sessions](Progress.md)
-- [Natural Networking working copy](Exhibit_TWO_Natural_Networking_working.md)
+- [Current progress and readings from other sessions](../../archive/session_v380/v380A/Progress.md)
+- [Natural Networking working copy](../../archive/session_v380/v380A/Exhibit_TWO_Natural_Networking_working.md)
 - [Working kit](kit/README.md)
-- [Proposed improving passes](Improving_Passes.md)
-- [Session report: discoveries, opportunities, value and concerns](Session_Report.md)
-- [Prior passages preserved whole](Prior_Passages.md)
-- [Baseline manifest](Baseline_Manifest.json)
+- [Proposed improving passes](../../archive/session_v380/v380A/Improving_Passes.md)
+- [Session report: discoveries, opportunities, value and concerns](../../archive/session_v380/v380A/Session_Report.md)
+- [Prior passages preserved whole](../../archive/session_v380/v380A/Prior_Passages.md)
+- [Baseline manifest](../../archive/session_v380/v380A/Baseline_Manifest.json)
 
 **The aiming.** Discover the living network and the travelling geodesic parity-changing tunnelling where podalings cross each other's half momentaries. The overlapping sequences already described are the opening relation; they are not a prescribed half-duration, common beat or selected delay.
 
@@ -34,7 +34,7 @@
 
 **The way back.** This folder makes the requested duplicate available without replacing a living file or the published kit. v380A names this session's contribution; it does not declare a release of the whole expedition. Its findings can be received at the files' own carryings; final expedition versioning, the Living File Registry's working row and a whole-file review accompany that later receiving. The incoming index locates this branch's working now.
 
-**Current exploring:** [binary squaring at 1–17](Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.
+**Current exploring:** [binary squaring at 1–17](../../archive/session_v380/v380A/Session_Report.md), the shared nine as completing of bi-coupling and waist of bi-trupling. Pass C now starts at that relation; seventeen's society composition does not by itself require an added output.
 
 **Expanded explaining:** the session report now follows every full name from 1 to 17, its opening, its changing relation and the overlapping momentaries. It keeps the named co-sequencing, actual source proceeding and private carrying continuation distinct; the exact binary-squaring operation at the joins remains the next correspondence.
 
@@ -47,12 +47,12 @@
 
 | Record | Contribution |
 |---|---|
-| [Progress.md](Progress.md) | Short current progress, concerns, opportunities, next work, and exact commits read from other workings. Begin here. |
-| [Session_Report.md](Session_Report.md) | Full journey and its value: findings, corrections, source evidence, concerns and proposed receiving files. |
-| [Improving_Passes.md](Improving_Passes.md) | Proposed passes toward the living networking relation, with actual completion distinguished from opportunity. |
-| [Exhibit TWO working copy](Exhibit_TWO_Natural_Networking_working.md) and [kit](kit/README.md) | The concrete proposed improvements, their preserved earlier material and unresolved scope. |
-| [Prior_Passages.md](Prior_Passages.md) | Replaced exhibit passages retained whole. |
-| [Baseline_Manifest.json](Baseline_Manifest.json) | The original duplication's source identities. Its original branch name is historical and remains accurate for that event. |
+| [Progress.md](../../archive/session_v380/v380A/Progress.md) | Short current progress, concerns, opportunities, next work, and exact commits read from other workings. Begin here. |
+| [Session_Report.md](../../archive/session_v380/v380A/Session_Report.md) | Full journey and its value: findings, corrections, source evidence, concerns and proposed receiving files. |
+| [Improving_Passes.md](../../archive/session_v380/v380A/Improving_Passes.md) | Proposed passes toward the living networking relation, with actual completion distinguished from opportunity. |
+| [Exhibit TWO working copy](../../archive/session_v380/v380A/Exhibit_TWO_Natural_Networking_working.md) and [kit](kit/README.md) | The concrete proposed improvements, their preserved earlier material and unresolved scope. |
+| [Prior_Passages.md](../../archive/session_v380/v380A/Prior_Passages.md) | Replaced exhibit passages retained whole. |
+| [Baseline_Manifest.json](../../archive/session_v380/v380A/Baseline_Manifest.json) | The original duplication's source identities. Its original branch name is historical and remains accurate for that event. |
 
 ## v380A, v380L and v380R reading each other
 
@@ -77,14 +77,14 @@ A reading does not merge or adopt the other branch. Each session writes its own 
 
 ## Current managing received
 
-The managing arrangement at `incoming/v380R/Progress.md` on main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` governs this working. The agreed contribution remains `incoming/v380A/`; the earlier suggestion of `incoming/session_v380A/` is not followed. v380A's living file is Natural Networking. v380R alone changes the carrying front, the Session Record and the Living File Registry, and alone merges to main. Own offerings for other files are laid at their carryings, naming this folder. The earlier common-layout proposal is retained as the journey; the managing's current arrangement supersedes it where different.
+The managing arrangement at `archive/session_v380/v380R/Progress.md` on main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b` governs this working. The agreed contribution remains `incoming/v380A/`; the earlier suggestion of `incoming/session_v380A/` is not followed. v380A's living file is Natural Networking. v380R alone changes the carrying front, the Session Record and the Living File Registry, and alone merges to main. Own offerings for other files are laid at their carryings, naming this folder. The earlier common-layout proposal is retained as the journey; the managing's current arrangement supersedes it where different.
 
-[Progress](Progress.md) records the receiving, the exact other contributions read, the preservation concerns and the standing of each offering. The report preserves the full journey; nothing is released merely because its destination is named.
+[Progress](../../archive/session_v380/v380A/Progress.md) records the receiving, the exact other contributions read, the preservation concerns and the standing of each offering. The report preserves the full journey; nothing is released merely because its destination is named.
 
 
 ## Continuing coupling and social moral competency
 
-“Local carrying and the shared crossing” now carries a complete section proposal: each self's living, released parity at actual joining, is-still-possibling, quiet releasing beside the receiver's own resolving, outward participation and societal competency at the coupling. Its whole prior is preserved in [Prior passages](Prior_Passages.md). The [fresh reading](reviews/Fresh_Reading_Local_Carrying.md) and [reading for harm](reviews/Harm_Reading_Local_Carrying.md) retain their initial findings and revised dispositions. Progress and the report record what was taken, what was corrected and what remains. This is incoming improving; the root living file and the published kit are unchanged.
+“Local carrying and the shared crossing” now carries a complete section proposal: each self's living, released parity at actual joining, is-still-possibling, quiet releasing beside the receiver's own resolving, outward participation and societal competency at the coupling. Its whole prior is preserved in [Prior passages](../../archive/session_v380/v380A/Prior_Passages.md). The [fresh reading](../../archive/session_v380/v380A/reviews/Fresh_Reading_Local_Carrying.md) and [reading for harm](../../archive/session_v380/v380A/reviews/Harm_Reading_Local_Carrying.md) retain their initial findings and revised dispositions. Progress and the report record what was taken, what was corrected and what remains. This is incoming improving; the root living file and the published kit are unchanged.
 
 
 ## Testing our discovering
@@ -99,34 +99,34 @@ The incoming exhibit's “Checkability living at the telling, testing running wh
 
 ## First bounded network execution and tri arriving
 
-The [participating pair](Participating_Pair.md) has now run once. Each self keeps its continuation local; the observer records only public arriving and releasing. The complete [public return](Pair_Public_Reading.json) includes the supplied beginning, opening, activation and final boundary. The incoming quiet-release passage receives this result at that scope. The session's *a self releasing is a tri arriving* is explored at the across arriving's inward tri unfolding and carried as a concern at Natural Resolver for its whole scope. The latest Progress records both other workings' current contributions received and what remains open.
+The [participating pair](../../archive/session_v380/v380A/Participating_Pair.md) has now run once. Each self keeps its continuation local; the observer records only public arriving and releasing. The complete [public return](../../archive/session_v380/v380A/Pair_Public_Reading.json) includes the supplied beginning, opening, activation and final boundary. The incoming quiet-release passage receives this result at that scope. The session's *a self releasing is a tri arriving* is explored at the across arriving's inward tri unfolding and carried as a concern at Natural Resolver for its whole scope. The latest Progress records both other workings' current contributions received and what remains open.
 
 
 ## Travelling through self-momentarying
 
-The latest [travelling offering](Momentarying_Sequence_Offering.md) receives the managing's co arriving/carrying, tri releasing and bi between at its offered standing. It follows Natural Naming's from and incoming directions through tri bi co bi tri bi co, beside two existing public pair events. The incoming exhibit receives the complete paragraph with its whole prior preserved. The own chaining and the public crossing retain their different subjects; the remaining concern is at Natural Resolver's carrying. Progress and the session report record both other workings' findings received, the review standing and what remains open.
+The latest [travelling offering](../../archive/session_v380/v380A/Momentarying_Sequence_Offering.md) receives the managing's co arriving/carrying, tri releasing and bi between at its offered standing. It follows Natural Naming's from and incoming directions through tri bi co bi tri bi co, beside two existing public pair events. The incoming exhibit receives the complete paragraph with its whole prior preserved. The own chaining and the public crossing retain their different subjects; the remaining concern is at Natural Resolver's carrying. Progress and the session report record both other workings' findings received, the review standing and what remains open.
 
 
 ## Beginning the surface through arriving
 
-[Surface_Arriving_Plan.md](Surface_Arriving_Plan.md) records the fresh receiving after resting: neither other working has published a change. It specifies how public arriving can open participation and how a later perturbation enters the same continuing, with no private prepopulation or copied comparison. The exact surface receiving procedure remains to be expressed; no wider surface or perturbation is claimed executed. Incoming “Each self continuing through its own carrying” receives this preparation, with the whole prior preserved.
+[Surface_Arriving_Plan.md](../../archive/session_v380/v380A/Surface_Arriving_Plan.md) records the fresh receiving after resting: neither other working has published a change. It specifies how public arriving can open participation and how a later perturbation enters the same continuing, with no private prepopulation or copied comparison. The exact surface receiving procedure remains to be expressed; no wider surface or perturbation is claimed executed. Incoming “Each self continuing through its own carrying” receives this preparation, with the whole prior preserved.
 
 
 ## The first bounded surface has run
 
-[Surface_Construction.md](Surface_Construction.md) carries the actual three-by-five construction and its first returned [public record](Surface_Public_Reading.json). The full current society expression is unchanged, own carrying remains unobserved, and the supplied grouped activation is explicit. Public parity reaches each designated receiver. The later external minus meets already parting parities and adds no new surfaced alternative at that receiving. This useful local finding guides the next perturbing; no independent natural pacing or whole-surface competency is claimed.
+[Surface_Construction.md](../../archive/session_v380/v380A/Surface_Construction.md) carries the actual three-by-five construction and its first returned [public record](../../archive/session_v380/v380A/Surface_Public_Reading.json). The full current society expression is unchanged, own carrying remains unobserved, and the supplied grouped activation is explicit. Public parity reaches each designated receiver. The later external minus meets already parting parities and adds no new surfaced alternative at that receiving. This useful local finding guides the next perturbing; no independent natural pacing or whole-surface competency is claimed.
 
 
 ## Further perturbing at its actual relation
 
-[Perturbing_Cases.md](Perturbing_Cases.md) receives three further bounded constructions: changed surfacing with matching gathered outputs, adjacent openings with quiet releasing, and one changed joining retaining previously gathered arrivals. Each has its own complete public record and supplied conditions. The incoming exhibit receives their different subjects. [Surface_Receiving_Map.md](Surface_Receiving_Map.md) receives the existing opening/completing placement and maps actual public occurrences. The remaining session contribution concerns which independently arriving releases meet one completing rather than successive completings; it is already at Natural Resolver's carrying.
+[Perturbing_Cases.md](../../archive/session_v380/v380A/Perturbing_Cases.md) receives three further bounded constructions: changed surfacing with matching gathered outputs, adjacent openings with quiet releasing, and one changed joining retaining previously gathered arrivals. Each has its own complete public record and supplied conditions. The incoming exhibit receives their different subjects. [Surface_Receiving_Map.md](../../archive/session_v380/v380A/Surface_Receiving_Map.md) receives the existing opening/completing placement and maps actual public occurrences. The remaining session contribution concerns which independently arriving releases meet one completing rather than successive completings; it is already at Natural Resolver's carrying.
 
 
 ## Help through the improving files
 
-The session has directed the question into the other workings’ improving. [Progress](Progress.md), under “Improving question for Exhibit ONE, Natural Resolver,” now asks for one concrete passage through a self’s carrying, the other’s releasing arriving and the society’s releasing arriving, through completing and next opening at the actual names. Natural Resolver’s carrying receives the question; an answering passage from Natural Resolver, the Co-Chaining Logic Registry or Natural Naming can be received into Natural Networking. No user answer is required to restate what these files already carry.
+The session has directed the question into the other workings’ improving. [Progress](../../archive/session_v380/v380A/Progress.md), under “Improving question for Exhibit ONE, Natural Resolver,” now asks for one concrete passage through a self’s carrying, the other’s releasing arriving and the society’s releasing arriving, through completing and next opening at the actual names. Natural Resolver’s carrying receives the question; an answering passage from Natural Resolver, the Co-Chaining Logic Registry or Natural Naming can be received into Natural Networking. No user answer is required to restate what these files already carry.
 
 
 ## Learning already shared by the other workings
 
-[Shared_Receiving_Learnings.md](Shared_Receiving_Learnings.md) records the fresh reading, the unchanged published standing, and what serves from both other workings. Multiple releasings at one momentary are already explained; naming order and resolving order remain distinct. The concern now keeps its actual receiver, scale and occurrences, and contributing everywhere carries no ownership or obligation.
+[Shared_Receiving_Learnings.md](../../archive/session_v380/v380A/Shared_Receiving_Learnings.md) records the fresh reading, the unchanged published standing, and what serves from both other workings. Multiple releasings at one momentary are already explained; naming order and resolving order remain distinct. The concern now keeps its actual receiver, scale and occurrences, and contributing everywhere carries no ownership or obligation.

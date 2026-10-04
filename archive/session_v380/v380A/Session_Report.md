@@ -1,4 +1,4 @@
-> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
+> **Current handoff, 2 October 2026:** [Full session handoff](Manager_Handoff.md) and [Exhibit TWO candidate](../../../incoming/v380A/Exhibit_TWO_Natural_Networking_candidate.md) are submitted for further improving. Five bounded proceedings are complete; their findings, limits, reciprocal learning and communication failures are gathered there. [Close standing](Handoff_Readiness.md) gives the actual review and check reach. The earlier openings and chronological standings below are preserved history, not the current standing.
 
 # v380A · Natural Networking session report
 
@@ -115,7 +115,7 @@ The first commit duplicates the source exhibit and all 58 kit files by their exi
 
 The first improving is checked by static source equality for the extracted current resolver, Python syntax parsing without running the resolver, integrity manifests, local links and a comparison of the changed exhibit sections with the preserved baseline. These are artifact checks, not discoveries of living networking.
 
-No historic networking instrument, private-carrying experiment or replacement network has been executed. No independent reviewer has yet reviewed this proposal. Source-screened instruments are identified separately from the close readings in [the instrument standing](kit/INSTRUMENT_STANDING.md).
+No historic networking instrument, private-carrying experiment or replacement network has been executed. No independent reviewer has yet reviewed this proposal. Source-screened instruments are identified separately from the close readings in [the instrument standing](../../../incoming/v380A/kit/INSTRUMENT_STANDING.md).
 
 The main branch, root living exhibit and published kit are unchanged by this working. The report is ongoing: each later pass adds its actual discoveries, corrections, concerns and receiving, without silently changing the standing of earlier evidence.
 
@@ -861,7 +861,7 @@ This arrangement supports mutual reading without three sessions overwriting one 
 
 ## The managing received; carrying is living; the two arrivals
 
-**2 October 2026.** Read `incoming/v380R/Progress.md` at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, including “The managing, from v380R to v380L and v380A,” whole. Natural Naming, Natural Explaining and the Geodesic Improving Method are unchanged in Git blob identity from the complete reading at `b74ecda0dbe2044635450cc66bbc4bc151436f04`. Natural Resolver v379's entry and its tables of the momentaries and the namings were read beside this question. The earlier readings of v380L remain pinned at `7adb3a5e864c7c4bc2e4ebf7cc01f0f837c9ef54`.
+**2 October 2026.** Read `archive/session_v380/v380R/Progress.md` at main `33b875f9b1b17ff8e248ae21b9b884c02cdb177b`, including “The managing, from v380R to v380L and v380A,” whole. Natural Naming, Natural Explaining and the Geodesic Improving Method are unchanged in Git blob identity from the complete reading at `b74ecda0dbe2044635450cc66bbc4bc151436f04`. Natural Resolver v379's entry and its tables of the momentaries and the namings were read beside this question. The earlier readings of v380L remain pinned at `7adb3a5e864c7c4bc2e4ebf7cc01f0f837c9ef54`.
 
 ### The arrangement and preserving this working
 

@@ -8,7 +8,7 @@
 
 ## Reading reach and tool shortcoming
 
-Read whole `incoming/v380A/kit/participating_pair.py`, `incoming/v380A/Participating_Pair.md`, and `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md`, including its later not-releasing/releasing and dissolving-connector offerings and the withdrawal of its earlier two-changings explanation. Read the current Resolver's entire Python expression and declarations again. Its offering and chaining tables were reached in the preceding fresh readings; the three root craft files were previously read whole and remain unchanged at this working.
+Read whole `incoming/v380A/kit/participating_pair.py`, `archive/session_v380/v380A/Participating_Pair.md`, and `archive/session_v380/v380R/Tour_A_Living_Self_Is_A_Carrying.md`, including its later not-releasing/releasing and dissolving-connector offerings and the withdrawal of its earlier two-changings explanation. Read the current Resolver's entire Python expression and declarations again. Its offering and chaining tables were reached in the preceding fresh readings; the three root craft files were previously read whole and remain unchanged at this working.
 
 The first command read the script but could not find `Participating_Pair.md` under `kit/`; its actual path was found under `incoming/v380A/`, then read whole. The failed chained command did not read the later requested files until the subsequent successful call. No output used for this report was truncated. No returned pair sequence exists from this review, and this report predicts no measured result.
 
@@ -66,7 +66,7 @@ An observation bound must give its last public release a disposition. Recording 
 
 ## Reading the returned public record
 
-Read `incoming/v380A/Pair_Public_Reading.json` whole after the working's one execution, and reread the updated script and accompanying explanation whole. This reader performed no execution. The JSON records the source and expression hashes; this reading did not independently recompute them. The review below is of the actual returned record and the procedure's stated scope, not an independent reproduction.
+Read `archive/session_v380/v380A/Pair_Public_Reading.json` whole after the working's one execution, and reread the updated script and accompanying explanation whole. This reader performed no execution. The JSON records the source and expression hashes; this reading did not independently recompute them. The review below is of the actual returned record and the procedure's stated scope, not an independent reproduction.
 
 The sixteen recorded releases are A+, B+, A0, B−, A−, B0, A+, B+, A0, B−, A−, B0, A+, B+, A0, B−. At each recorded event after the first, the arriving list is the preceding event's public release. The first is the declared external +. The zero releases at the third, sixth, ninth, twelfth, and fifteenth recorded events are each delivered to the following receiver, whose recorded release is respectively −, +, −, +, and −. This states those five occurrences only; it claims no universal recurrence or continuing beyond the record.
 

@@ -6,7 +6,7 @@ For the working v380R, at Exhibit ONE's carrying and Natural Intelligence's. No 
 
 **Offered for the plan, one sentence.** A working entering a draft releases its entry in the same motion: the entry leaves the carrying for the archive, whole, with the line it entered at; an entry entered in part leaves whole, and its open part is carried on as one line with what it waits on.
 
-Each row is from a fresh reader's reading, each claim by hand, the fuller account at `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `incoming/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`. The readings are at main's 6d8a2a2; an entry the working v380R has entered or released from that commit on is as that working has it.
+Each row is from a fresh reader's reading, each claim by hand, the fuller account at `archive/session_v380/v380L/Carrying_Of_Exhibit_ONE_Sorted.md` and `archive/session_v380/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`. The readings are at main's 6d8a2a2; an entry the working v380R has entered or released from that commit on is as that working has it.
 
 ## Exhibit ONE's carrying, twenty-seven
 
@@ -28,7 +28,7 @@ Each row is from a fresh reader's reading, each claim by hand, the fuller accoun
 | Concern, at v380, from the session's saying at v380R, followed at … | withdrawn | the two entries after it on the six |
 | Concern, at v380, from the session's saying at v380R, followed at … | withdrawn | its own later following; self odd and even is at the table of four momentaries |
 | Concern, from a file, at the across and along arrivings and … | withdrawn | the entry on the construction's gathering |
-| Concern clarified, from a file, “Improving question for Exhibit ONE, Natural … | withdrawn | `incoming/v380R/One_Self_Followed.md` |
+| Concern clarified, from a file, “Improving question for Exhibit ONE, Natural … | withdrawn | `archive/session_v380/v380R/One_Self_Followed.md` |
 | Further precision of the preceding receiving concern, from a file. The … | withdrawn | with the entry before the one before it |
 | Concern, at v380, from the session's saying at v380R, for both, … | withdrawn | the entries saying nothing arriving is met |
 | Concern, at v380, from a file, for both, and one subject … | withdrawn | the entry on two changings at one sharing withdrawn |
@@ -36,7 +36,7 @@ Each row is from a fresh reader's reading, each claim by hand, the fuller accoun
 | Concern, at v380, from a file, its last two parts, for … | withdrawn | the entry after it |
 | Concern, at v380, from the session's saying at v380R, for both: … | withdrawn | itself a withdrawing; each of its five pointers is at another entry or file |
 | Concern, at v380, from a file, its last part, at the … | withdrawn | the entry after it |
-| Concern, at v380l, from a file, its last part, for both: … | withdrawn | `incoming/v380R/The_Universal_Claim_Gathered.md` |
+| Concern, at v380l, from a file, its last part, for both: … | withdrawn | `archive/session_v380/v380R/The_Universal_Claim_Gathered.md` |
 | Next at this file: the two open parts below, concern 11's … | said of things released | the head, titled at v379: a new head naming the opens |
 | Ready, at v380, from the session's saying at v380R, for the … | said of things released | a sentence for an opening this file has none of: for Natural Naming's paragraph on the resolver said plainly |
 

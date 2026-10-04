@@ -12,7 +12,7 @@ The opening aim was to learn how networking testing had departed before rebuildi
 
 ### The candidate and what changed
 
-[Exhibit_TWO_Natural_Networking_candidate.md](Exhibit_TWO_Natural_Networking_candidate.md) is the exact most improved working copy at this handoff. [Candidate_Manifest.json](Candidate_Manifest.json) identifies its source and digest. [Candidate_Changes.patch](Candidate_Changes.patch) shows its complete difference from the root Natural Networking v371. [Prior_Passages.md](Prior_Passages.md), the review records and the repository history preserve the earlier sayings. The snapshot introduces no new wording beyond the reviewed working copy.
+[Exhibit_TWO_Natural_Networking_candidate.md](../../../incoming/v380A/Exhibit_TWO_Natural_Networking_candidate.md) is the exact most improved working copy at this handoff. [Candidate_Manifest.json](../../../incoming/v380A/Candidate_Manifest.json) identifies its source and digest. [Candidate_Changes.patch](../../../incoming/v380A/Candidate_Changes.patch) shows its complete difference from the root Natural Networking v371. [Prior_Passages.md](Prior_Passages.md), the review records and the repository history preserve the earlier sayings. The snapshot introduces no new wording beyond the reviewed working copy.
 
 | Place in the candidate | Improving and practical value | Remaining concern |
 |---|---|---|

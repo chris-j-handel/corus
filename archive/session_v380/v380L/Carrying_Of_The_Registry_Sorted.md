@@ -27,7 +27,7 @@ For the working v380R, managing the carrying, and for each working. No sentence 
 | Entry | Withdrawn by |
 |---|---|
 | *Ready … meeting its concern on the 0 at 12* | the entry after it, on no cancelling; its sentence *a momentary of no changing has no method of existing* is at no step yet |
-| *Concern … the premise, and one changing or two* | `incoming/v380R/Two_Parities_Gathered_And_Worked.md`, *This working's two changings at one sharing are withdrawn*; its first and second are at steps 117 and 118, its break at step 308 |
+| *Concern … the premise, and one changing or two* | `archive/session_v380/v380R/Two_Parities_Gathered_And_Worked.md`, *This working's two changings at one sharing are withdrawn*; its first and second are at steps 117 and 118, its break at step 308 |
 | *Ready … adding to its part on a rolling five* | the same file, its rows of a fabric a placing; the one way of sixteen is at steps 53 to 57 and two spirals at step 235 |
 | *Concern … an offering of the form* | the entry after it, *withdrawn* |
 | *Concern … the claim … in nine links* | *Ready … The_Universal_Claim_Gathered*, *the concern above on the claim broken … is withdrawn* |

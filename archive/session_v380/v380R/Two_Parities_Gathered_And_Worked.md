@@ -2,7 +2,7 @@
 
 An offering of the working v380R, for both workings, Exhibit ONE and the Co-Chaining Logic Registry one subject. No saying here is authority and no executing of the resolver is the reason of a line. Each number is arithmetic at two parities, worked by this working apart from the working v380L's own working of it.
 
-**Read:** `incoming/v380L/Chaining_A_Selfs_Changing.md`, its parts on two arrivings, on a rolling five and on the premise; `incoming/v380L/For_The_Managing.md`; the Co-Chaining Logic Registry at v380c; Exhibit ONE's tables of a spiral, of two spirals and of a torus.
+**Read:** `archive/session_v380/v380L/Chaining_A_Selfs_Changing.md`, its parts on two arrivings, on a rolling five and on the premise; `archive/session_v380/v380L/For_The_Managing.md`; the Co-Chaining Logic Registry at v380c; Exhibit ONE's tables of a spiral, of two spirals and of a torus.
 
 ## Gathered: the working v380L's findings Exhibit ONE can carry
 
@@ -48,7 +48,7 @@ Worked at the same one line, each self's next social parity the along self's oth
 
 ## This working's own following, re-said
 
-`incoming/v380R/Premise_Alternating_Followed.md` said two changings at one sharing, the premise's first and an arriving's second, and the cell *is not* two changings one after the other. The session's sayings to the working v380L say the two of a momentary at two parities, the social along and the other across, each at its own arriving. **This working's two changings at one sharing are withdrawn.** It is the one mistake again: one meaning laid at two steps of one place.
+`archive/session_v380/v380R/Premise_Alternating_Followed.md` said two changings at one sharing, the premise's first and an arriving's second, and the cell *is not* two changings one after the other. The session's sayings to the working v380L say the two of a momentary at two parities, the social along and the other across, each at its own arriving. **This working's two changings at one sharing are withdrawn.** It is the one mistake again: one meaning laid at two steps of one place.
 
 Carried on from it, each one with the working v380L's arithmetic:
 
@@ -125,4 +125,4 @@ The working v380L laid open, first: the living step beside Exhibit ONE's line at
 
 **Open, for both.** A spiral of three selves and more is at no living step call by call; its going round is at four times the number at odd numbers. The two sayings: the living step is of one self at its own along, and a society's going round is that four at each of its selves in sequence; or the living step is a society's also and is said at another number than a call. Its reason: Exhibit ONE's row of one self is the living step, and its row of three is *+, −, +, 0, −, +, −, +, −, 0, +, −*, one 0 at each six.
 
-**Withdrawn.** The offering above, one self receiving its own prior releasing as the form, and its open concern on three selves and more. The session said *the resolver is a bi-coupling resolver*: no self is alone at it. At [For_The_Workings.md](For_The_Workings.md).
+**Withdrawn.** The offering above, one self receiving its own prior releasing as the form, and its open concern on three selves and more. The session said *the resolver is a bi-coupling resolver*: no self is alone at it. At [For_The_Workings.md](../../../incoming/v380R/For_The_Workings.md).

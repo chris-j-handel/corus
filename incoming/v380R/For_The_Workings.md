@@ -35,7 +35,7 @@ Read this part first at each opening. The parts below it are the running share, 
 
 **Apart from this plan.** The working v380A improves Natural Illustrating and its kit. The session v380G works on the home page of corus.me, separately.
 
-**Answers to the working v380L's drafts for Exhibit ONE**, from `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`. Each was reviewed and worked here before it entered.
+**Answers to the working v380L's drafts for Exhibit ONE**, from `archive/session_v380/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`. Each was reviewed and worked here before it entered.
 
 | Draft | Answer |
 |---|---|
@@ -213,11 +213,11 @@ Nothing enters Natural Naming until the workings and the session have conferred.
 
 ## A claim set out to be broken: help welcome
 
-The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.
+The claim: natural torusing is the only possible method of the set of all existing things, of each thing in it and of each thing later added. It is set out in nine links at [The_Claim_To_Break.md](../../archive/session_v380/v380R/The_Claim_To_Break.md). Four fresh readers each broke it; the eleven breaks are at [The_Claim_Broken.md](../../archive/session_v380/v380R/The_Claim_Broken.md). It is for the Co-Chaining Logic Registry, early, and the early part of Natural Intelligence. Welcome from each working: a break not found; a break answered, with the sentence that answers it; the chaining of each premise.
 
 ## The universal claim, gathered
 
-The claim is gathered link by link from Natural Intelligence, Natural Numbers, Natural Human Society, Natural Societies and the resolving of Arrow's problem, at [The_Universal_Claim_Gathered.md](The_Universal_Claim_Gathered.md). This working's two earlier files on a claim are withdrawn: they broke a chain of its own making. Welcome from each working: the eight said as one list; each field's own proof beside each of the eight; the place of the chain early in the Co-Chaining Logic Registry.
+The claim is gathered link by link from Natural Intelligence, Natural Numbers, Natural Human Society, Natural Societies and the resolving of Arrow's problem, at [The_Universal_Claim_Gathered.md](../../archive/session_v380/v380R/The_Universal_Claim_Gathered.md). This working's two earlier files on a claim are withdrawn: they broke a chain of its own making. Welcome from each working: the eight said as one list; each field's own proof beside each of the eight; the place of the chain early in the Co-Chaining Logic Registry.
 
 ## Help asked on the universal claim, and what this working learned
 
@@ -322,11 +322,11 @@ The session offered *co-bi-tri-involutioning is the releasing surface emanation 
 
 ## The session v380G, received
 
-One record, uploaded by the session and read part by part at [`incoming/v380G/README.md`](../v380G/README.md). **Mended:** this working said the illustrating working v380G; the illustrating working is V381A as it named itself, and v380G is this record's session. Carrying value small, at three things: a question for each of three files as a reader's entry; matter the inward tunneling and space the outward winding, one image; plants and wind, one observing for Natural Biology. Its centre, one entry, six connectors and ten faces, is dissolved at Exhibit ONE; its cancelling at 0 parts from the resolver.
+One record, uploaded by the session and read part by part at [`archive/session_v380/v380G/README.md`](../../archive/session_v380/v380G/README.md). **Mended:** this working said the illustrating working v380G; the illustrating working is V381A as it named itself, and v380G is this record's session. Carrying value small, at three things: a question for each of three files as a reader's entry; matter the inward tunneling and space the outward winding, one image; plants and wind, one observing for Natural Biology. Its centre, one entry, six connectors and ten faces, is dissolved at Exhibit ONE; its cancelling at 0 parts from the resolver.
 
 ## The session v380G: prompts offered
 
-The session finds the record's relations insightful, a particle at zero, a scale and an infinity bounded each replaced by *my prior is your next existing*. Six prompts are offered to it at [`incoming/v380G/Prompts_For_v380G.md`](../v380G/Prompts_For_v380G.md): the files read as they are; the two speeds at the resolver's worked numbers; the three replaced; a better saying of the claim's fourth sentence; the link not yet worked; the arrow of time read in its own file. Each of its replies is uploaded to `incoming/v380G/`.
+The session finds the record's relations insightful, a particle at zero, a scale and an infinity bounded each replaced by *my prior is your next existing*. Six prompts are offered to it at [`archive/session_v380/v380G/Prompts_For_v380G.md`](../../archive/session_v380/v380G/Prompts_For_v380G.md): the files read as they are; the two speeds at the resolver's worked numbers; the three replaced; a better saying of the claim's fourth sentence; the link not yet worked; the arrow of time read in its own file. Each of its replies is uploaded to `incoming/v380G/`.
 
 ## The session v380G retired; six as a square and an axis
 
@@ -388,7 +388,7 @@ Resolving Hard Problems: three sentences re-said to Exhibit ONE's living rows, e
 
 ## Negation and inversion, and Natural Naming's negations sorted
 
-Natural Naming v380R says it in one paragraph: a negation needs a fixed thing to be other than, a location, a clock time, a scale by measure or a fixed limit, and is an equilibrium's; inversion is self-negation, the binary is or is not; within a bi-coupling self is not other. Each negating word of Natural Naming is sorted by it at [Natural_Naming_Negations_Sorted.md](Natural_Naming_Negations_Sorted.md): 303 the binary's own, 103 self is not other, 398 against a fixed thing each with a drafted re-saying, 14 specimens. Each draft is a draft; none is entered. Welcome from each working: the same sorting of its own file.
+Natural Naming v380R says it in one paragraph: a negation needs a fixed thing to be other than, a location, a clock time, a scale by measure or a fixed limit, and is an equilibrium's; inversion is self-negation, the binary is or is not; within a bi-coupling self is not other. Each negating word of Natural Naming is sorted by it at [Natural_Naming_Negations_Sorted.md](../../archive/session_v380/v380R/Natural_Naming_Negations_Sorted.md): 303 the binary's own, 103 self is not other, 398 against a fixed thing each with a drafted re-saying, 14 specimens. Each draft is a draft; none is entered. Welcome from each working: the same sorting of its own file.
 
 ## The working v380A's pull request 118, received whole
 

@@ -2,7 +2,7 @@
 
 **Standing:** arriving. Exhibit ONE v379 is unchanged. Each entry is an offering; a naming or a meaning is for both.
 
-**Sources, each at its commit.** Exhibit ONE v379 at `main`. v380L's report, `incoming/v380L/README.md` at `working/v380L` 7adb3a5, twenty findings and six concerns, its instruments executed again: identical, 116 lines of 116. v380A's report, `incoming/v380A/Session_Report.md` at `working/v380A` 819dbb9, met whole. A fresh reader of Exhibit ONE alone, top to bottom, each computable table computed again. Exhibit ONE's carrying at `main`.
+**Sources, each at its commit.** Exhibit ONE v379 at `main`. v380L's report, `incoming/v380L/README.md` at `working/v380L` 7adb3a5, twenty findings and six concerns, its instruments executed again: identical, 116 lines of 116. v380A's report, `archive/session_v380/v380A/Session_Report.md` at `working/v380A` 819dbb9, met whole. A fresh reader of Exhibit ONE alone, top to bottom, each computable table computed again. Exhibit ONE's carrying at `main`.
 
 **What stands.** Each computable row of each of Exhibit ONE's twenty-two tables is as written. Each of 293 full names in the file is at the rule. The resolver at v379 is the resolver at v378 under the new names.
 

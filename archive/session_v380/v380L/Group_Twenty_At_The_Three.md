@@ -111,7 +111,7 @@ Each is a step of the group on sharing and the seventeen names, and Exhibit ONE 
 
 ## Meeting the managing's draft of Exhibit ONE's first motion, its part on the data
 
-`incoming/v380R/Exhibit_ONE_First_Motion_Draft.md` is open to each working. Its part two beside the Registry's steps:
+`archive/session_v380/v380R/Exhibit_ONE_First_Motion_Draft.md` is open to each working. Its part two beside the Registry's steps:
 
 - **A sharing.** The draft: *A sharing is a thing a parity is at*. Step 191 and Natural Intelligence: *two sides sharing a changing, and each sharing has its parity*. Two sayings; laid at Exhibit ONE's carrying for both.
 - **The 0.** The draft: *The 0 is a changing that is not*. It is one with the concern on a sharing's *is not* and with Natural Naming's a still at the self, and is resolved with them.

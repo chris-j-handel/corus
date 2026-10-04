@@ -12,7 +12,7 @@ Offered by the managing working v380R. The session v380G reads the repository at
 
 ## 1. Read the files as they are now
 
-Read these at the main line: `incoming/v380G/README.md`, this working's reading of your record; `Exhibit_ONE_Natural_Resolver_v380l.md`, whole; `incoming/v380R/The_Universal_Claim.md`; `incoming/v380R/Natural_Naming_Conferring.md`. Then say, in one file named `v380G_1_Read.md`: each thing in your record that the files now say another way, and your own saying of it again beside the files' saying. Three are known: connector and face are dissolved; a + and a − arriving together invert the carrying; the resolver has an outcome at each case.
+Read these at the main line: `archive/session_v380/v380G/README.md`, this working's reading of your record; `Exhibit_ONE_Natural_Resolver_v380l.md`, whole; `incoming/v380R/The_Universal_Claim.md`; `incoming/v380R/Natural_Naming_Conferring.md`. Then say, in one file named `v380G_1_Read.md`: each thing in your record that the files now say another way, and your own saying of it again beside the files' saying. Three are known: connector and face are dissolved; a + and a − arriving together invert the carrying; the resolver has an outcome at each case.
 
 ## 2. The two speeds
 

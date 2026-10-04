@@ -8,7 +8,7 @@
 
 ## Exact reading reach
 
-Read whole before execution: `kit/participating_pair.py` (80 lines), `Participating_Pair.md` (31 lines in that first form), `kit/README.md` (22 lines), `kit/INSTRUMENT_STANDING.md` (43 lines), and `incoming/v380R/Tour_A_Living_Self_Is_A_Carrying.md` (113 lines), including its “Not releasing or releasing” and “Connector dissolving” additions and the withdrawal of the earlier two-changings reading of zero. The initial task located the pair document under `kit/`; it was absent there and found at `incoming/v380A/Participating_Pair.md`.
+Read whole before execution: `kit/participating_pair.py` (80 lines), `Participating_Pair.md` (31 lines in that first form), `kit/README.md` (22 lines), `kit/INSTRUMENT_STANDING.md` (43 lines), and `archive/session_v380/v380R/Tour_A_Living_Self_Is_A_Carrying.md` (113 lines), including its “Not releasing or releasing” and “Connector dissolving” additions and the withdrawal of the earlier two-changings reading of zero. The initial task located the pair document under `kit/`; it was absent there and found at `archive/session_v380/v380A/Participating_Pair.md`.
 
 Read whole subsequently: revised `kit/participating_pair.py` (80 lines), revised `Participating_Pair.md` (64 lines), `Pair_Public_Reading.json` (276 lines), and `reviews/quiet_releasing_prior.md` and `quiet_releasing_proposed.md` (31 lines each, the complete section in each). Read all sixteen entries of the public return, not only the short table in the report. The actual execution is known through the receiving working's report and that returned artifact; this reader did not witness or repeat it.
 

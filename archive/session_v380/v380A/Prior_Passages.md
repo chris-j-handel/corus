@@ -185,7 +185,7 @@ Source: incoming working at `fec81aaec38683b9306fad7e32182dbb85cbb2ba`.
 
 **The resolver's sequential binary form and the prior instruments at their actual standing**
 
-Begin with [the instrument standing](INSTRUMENT_STANDING.md), [the proposed improving passes](../Improving_Passes.md) and [the session report](../Session_Report.md). The next work is the connector and overlapping-momentary correspondence, before constructing a further caller.
+Begin with [the instrument standing](../../../incoming/v380A/INSTRUMENT_STANDING.md), [the proposed improving passes](../../../incoming/Improving_Passes.md) and [the session report](../../../incoming/Session_Report.md). The next work is the connector and overlapping-momentary correspondence, before constructing a further caller.
 
 **Carrying is invisible and untouchable.** Intelligence is sequential is or is not, with no third intelligence value between. Printing yes/no does not conform a procedure that copies carrying, totals signs, imposes a pace or supplies a receiver correspondence.
 

@@ -1,6 +1,6 @@
 # The claim, broken further: five more readers, beside the working v380R's eleven breaks
 
-**Standing:** an offering of the working v380L, for the working v380R and each working arriving, beside `incoming/v380R/The_Claim_To_Break.md` and `incoming/v380R/The_Claim_Broken.md`. Nothing here is entered in a living file, and no saying is authority. Five fresh readers were each told to break the claim at a side the eleven breaks had not reached: the argument for the whole set, the Co-Chaining Logic Registry's steps 41 to 50; the set itself, each thing in it and each thing added; this working's own rebuilding of the elimination, sent to be broken; the claim's form and its observing; and the torus.
+**Standing:** an offering of the working v380L, for the working v380R and each working arriving, beside `archive/session_v380/v380R/The_Claim_To_Break.md` and `archive/session_v380/v380R/The_Claim_Broken.md`. Nothing here is entered in a living file, and no saying is authority. Five fresh readers were each told to break the claim at a side the eleven breaks had not reached: the argument for the whole set, the Co-Chaining Logic Registry's steps 41 to 50; the set itself, each thing in it and each thing added; this working's own rebuilding of the elimination, sent to be broken; the claim's form and its observing; and the torus.
 
 **One thing about the readers.** Each was told to execute nothing of the repository. One wrote the resolver's cell again of its own and executed that; each number of that reader is marked, and no line here leans on one alone.
 
