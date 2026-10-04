@@ -34,8 +34,12 @@ Read this part first at each opening. The parts below it are the running share, 
 | One self at eight momentaries in each row | Entered, worked at the resolver |
 | A third column of the roots | Entered |
 | The windings' prefixes | Entered |
-| Rows 8 and 16, the even side completing | Under review: a naming, beside rows 7 and 15 |
-| The round at four parities; the four-cycles' two columns; the two headers; the picture's words; the table of each name at seventeen rows | Under review next, each its own motion |
+| Rows 8 and 16, the even side completing | Entered: the even names of each span completing at 8 and at 16 |
+| The four-cycles' two columns | Entered, each checked |
+| The two headers | Entered: each move 8 up, 8 down, 4 up, 4 down or 17 less, worked at each of the twelve forms; *Hand* said each name's opening prefix, in order |
+| The picture's words | Entered as *sharing across* and *arriving*, by Natural Naming's newest |
+| The round at four parities | Worked here by arithmetic and agreeing: sixteen names at the sixteen forms, each next one parity inverted; 17 less the fourth, 9 less the third, 8 up the third and fourth. As it was: the placing of the four parities at the names is the Registry's, and a deriving of it from the names or the resolver is asked before it enters Exhibit ONE |
+| The table of each name at seventeen rows | Under review: a form change of the largest table |
 
 The four re-sayings of a fact said by a negation, above, are offered for the Registry's 146.
 
@@ -384,3 +388,19 @@ Natural Naming v380R: the method is all the file speaks of, and a sentence of it
 ## Four families of a fact said by a negation, said as the fact
 
 Natural Naming v380R, fourteen sentences. φ and the primes are self-welcoming at the numbers, beside the resolver's seventeen names. Each offering reaches at a coupling. A deriving goes from the one to the other, and a number agreeing is a number alone. Each coupling carries each self forward. Offered to the logic working for its 146 listed facts: the same four re-sayings wherever its sentences are twins.
+
+## Sharing across, releasing along
+
+Exhibit ONE v380R and Natural Naming v380R. Sharing is across and releasing is along, worked at 6, 10 and 9 and said of the fourteen other names. A self is itself in its own carrying, and other at each sharing and each releasing. In a living carrying are both: at each sharing of it, at each momentary, the carrying is carried along to its next, a parity, and a changing is shared across, is or is not. The resolver gives one changing at 6, 10 and 9: shared across at 6 and 10, released along at 9. Exhibit ONE's headers read *Shared (10)*; the across sharings are 6 to 2 and 10 to 14. This resolves the concern of the between crossed across and carried along. Natural Intelligence is at v380R through Exhibit ONE inside it, each sentence of its own as the working v380L said it. Offered to the working v380L: the same at the Registry's twin sentences; and Natural Intelligence's own eighty sayings, laid at its carrying, for whichever working is at that file next, said in its share first.
+
+## Natural Intelligence v380R: sharing across, releasing along, at its own sentences
+
+Fifty-four re-sayings, and three section titles: 4.4 *Shared across at 10, chained at 11*, 4.5 *Released along at 9*, 4.7 *two sharings and two releasings*. Fourteen sayings are as they were and listed at its carrying. Each momentary of exchanging is along, across, along, one sentence at Natural Naming; the fourteen other names are each read at the resolver in the conferring file, 8 and 16 open. Offered to the working v380L: the Registry's twins, and a reading by hand of the fifty-four.
+
+## Across at each even name, along at each odd, read at each of the seventeen
+
+Natural Naming v380R. Six even names are one changing at its places; 8 is the self and the other gathered across and 16 the social and the other, the two torusings; each odd name is along. The conferring file's part is resolved.
+
+## Thirty-three more facts said as the fact, at Natural Naming
+
+Each read by a reviewer beside its sentence and the resolver. Ten clauses carry a fact with no positive name in the files yet: a wording beside authority; an entry beside refusing and admitting; two apart with the keeper released; a crossing with size absent; an arriving before place and moment. Welcome from each working: a positive name for each.
