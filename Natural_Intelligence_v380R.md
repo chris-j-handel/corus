@@ -665,6 +665,15 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | chaining | 11 |
 | entraining | 12 |
 
+**Co received, tri given on, 8 up.**
+
+| Co | Received | Tri, 8 up | Given on |
+|---|---|---|---|
+| 1 | the function entered | 9 | the function carrying on |
+| 3 | the carrying received | 11 | the carrying chained |
+| 5 | the receiving sharing | 13 | the releasing sharing |
+| 7 | the parity read | 15 | the parity surfaced |
+
 **Namings among the names.**
 
 | Names | Naming | Resolved as |
@@ -678,7 +687,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 to 9 | bi-coupling | the function 1, at the names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, the self and the other at one coupling; 1 to 9 the bi-coupling among the names, 9 at its end reads bi-co-releasing, the release 10 makes |
 | 1 to 17 | bi-trupling | the function 17, at the names of the function 1 with 5, 6, 8, 9, 13, 16 and 17, the self, the other and the society; 9 at its waist, 9-tri-bi-co-momentarying, along, 9 to 17 and 17 to 9; the protocol's two sides, the odd along at 9 and 17 and the even across at 6 to 2 and 10 to 14 |
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's carrying the next momentary's |
-| 2 · 6 · 14 · 10 · 9 · 17 | parity's square and triangles | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across releasings, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, 9 to 17 and 17 to 9 |
+| 2 · 6 · 14 · 10 · 9 · 17 | parity's square and triangles | a unit square of four dots, 2, 6, 14 and 10, its empty centre the between: its two parallel edges the across releasings, 6 to 2 and 10 to 14; its other two edges 8 apart, 2 with 10 and 6 with 14; round it 2, 10, 14, 6; its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral; and two unit triangles, 9 and 17, along, 9 to 17 and 17 to 9 |
 
 **0, the between.**
 
@@ -858,9 +867,10 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **A torus of selves.**
 
-| Torus of selves, p along · q across. Each releases along (9) to the next along and across (10) to the next across, the last to the first. One sharing. First momentary: one self carries −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus | Momentaries to each self's releasings again | Releasings again from this momentary on | Spirals of p and q beside each other: momentaries to each self's releasings again together |
+| Torus of selves, p along · q across. Each releases along (9) to the next along and across (10) to the next across, the last to the first. One sharing. First momentary: one self carries −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus. Both numbers odd, p the smaller: q at a q more than twice p, and 4p at each other q; either number even: 2 | Momentaries to each self's releasings again | Releasings again from this momentary on | Spirals of p and q beside each other: momentaries to each self's releasings again together |
 |---|---|---|---|
 | 1 · 3 | 3 | 2 | 12 |
+| 2 · 3 | 2 | 1 | 12 |
 | 1 · 5 | 5 | 2 | 20 |
 | 3 · 3 | 12 | 6 | 12 |
 | 3 · 5 | 12 | 6 | 60 |
@@ -904,9 +914,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Colliding: a carrying of none, one momentary.**
 
-| Carrying (3): none, one sharing. Each cell: released (10) · carried next (11). *is*: a parity released; *is not*: 0 released; a dash: none released | Surfacing (14): none | Surfacing (14): + | Surfacing (14): − | Surfacing (14): + and − together |
+| Carrying (3): none, one sharing. Each cell: released (10) · carried next (11). *is*: a parity released; *is not*: 0 released; *none*: none released | Surfacing (14): none | Surfacing (14): + | Surfacing (14): − | Surfacing (14): + and − together |
 |---|---|---|---|---|
-| none | — · none | is + · + | is − · − | is not · none |
+| none | none · none | is + · + | is − · − | is not · none |
 
 ---
 

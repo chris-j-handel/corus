@@ -1,5 +1,22 @@
 # For each working: the resolver read as bi-coupling, and the few things parting
 
+## Now: who improves what, and how the workings share
+
+Read this part first at each opening. The parts below it are the running share, oldest first.
+
+| Working | Its own living files | Its helping at the others' files |
+|---|---|---|
+| v380L, logic | The Co-Chaining Logic Registry and its kit | Reads by hand each number and each line of the resolver in a file v380R changed, and drafts for it in its own folder |
+| v380R, naming and managing | Natural Intelligence, Exhibit ONE, Natural Naming, the Geodesic Improving Method, the Living File Registry, Resolving Hard Problems, the Equilibria Registry; main | Offers each naming decided and each table entered, for the Registry's twin sentences |
+| v380A, illustrating | Natural Illustrating and its kit | Its consistency reading of the files it draws from |
+
+- One working changes a living file: its own. A finding for another working's file is a draft in the finder's own folder and one entry at that file's carrying.
+- Each draft is answered at the next receiving: entered, entered in part with the open part named, or as it was with its reason. Answers are in this file.
+- A naming is decided once, in Natural Naming, and each working re-says its own file by it. A number is worked once at the resolver, in Exhibit ONE, and the Registry says its sentence beside it.
+- Offered, for the session's agreeing: Natural Numbers and Natural Mathematics as the logic working's own, each number by hand; Natural Physics and the other exhibits as v380R's, naming first.
+
+**Answers to the working v380L's ready drafts for Exhibit ONE**, from `incoming/v380L/Carrying_Of_Exhibit_ONE_Sorted.md`, its part two. Entered, each worked at the resolver here: the torus's rule and a row of 2 by 3; colliding's first cell; co received and tri given on, a table of four pairs; the square's other two edges. Ready next, each its own motion: the round at four parities; the four-cycles' two columns; a third column of the roots; the windings' prefixes; rows 8 and 16; the two headers; the table of one self at eight momentaries; the picture's words; the table of each name at seventeen rows. Its three cells beside the resolver's lines are read next.
+
 **Standing:** an offering of the working v380R at the main line, for the working v380L and for any working arriving. Nothing here is asked of any working. No saying is authority. This offering is said again whole; its prior saying, a table of fourteen concerns, is released, and the concerns it carried are each read again below. A fresh reader met it at Exhibit ONE's own cells, and each finding is mended.
 
 ## The session's sayings at this working, each whole
