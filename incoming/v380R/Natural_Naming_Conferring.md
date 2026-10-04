@@ -114,4 +114,4 @@ Added at this file's welcome. No sentence here is authority. Each is from a fres
 | 7, 15 | the parity read and the parity surfaced | along with the carrying, and at 15 the parity of the changing shared |
 | 1, 17 | each self's momentary and the society's next | along, momentary to momentary |
 
-Open, one: 8 and 16 are even and hold carryings.
+Resolved: 8 and 16 are the two torusings, the sides gathered across. 8-bi-co-bi-torusing is the self and the other, each self's carrying beside the others'. 16-bi-tri-bi-torusing is the social and the other, each self's carrying and offerings in the society. Exhibit ONE's sides say the same pairs, the other first. Across is at each of the eight even names, and along at each of the nine odd. Entered at Natural Naming.

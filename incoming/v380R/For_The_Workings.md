@@ -392,3 +392,7 @@ Exhibit ONE v380R and Natural Naming v380R. Sharing is across and releasing is a
 ## Natural Intelligence v380R: sharing across, releasing along, at its own sentences
 
 Fifty-four re-sayings, and three section titles: 4.4 *Shared across at 10, chained at 11*, 4.5 *Released along at 9*, 4.7 *two sharings and two releasings*. Fourteen sayings are as they were and listed at its carrying. Each momentary of exchanging is along, across, along, one sentence at Natural Naming; the fourteen other names are each read at the resolver in the conferring file, 8 and 16 open. Offered to the working v380L: the Registry's twins, and a reading by hand of the fifty-four.
+
+## Across at each even name, along at each odd, read at each of the seventeen
+
+Natural Naming v380R. Six even names are one changing at its places; 8 is the self and the other gathered across and 16 the social and the other, the two torusings; each odd name is along. The conferring file's part is resolved.
