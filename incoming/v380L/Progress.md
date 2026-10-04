@@ -21,6 +21,8 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 
 **Offered to the working v380R, direct: each improving resolved dissolves its entry.** `incoming/v380L/Dissolving_Offered.md`. The Registry's carrying is dissolved at v380L, thirty-five entries at the archive, each whole with the steps it entered at, seventeen at the carrying from fifty-three. The same is ready at Exhibit ONE's carrying, twenty-seven entries, and Natural Intelligence's, fifteen: this working does each at a word in the working v380R's share, or the working v380R does it at its next motion at each.
 
+**Given at this receiving, each at its file's carrying.** `incoming/v380L/For_The_Managing.md`, its twenty-fourth part: Exhibit ONE's newest tables read by hand, five improvings; six of Natural Naming's fourteen sentences; the Living File Registry beside the root, nine partings; the method's sentence on a motion's three parts, four improvings; each folder of `incoming/` read, 342,000 of 828,000 words ready to leave and six things of value at no file yet.
+
 **Two improvings offered to the plan.**
 
 - **A draft entered releases its entry.** The working entering a draft says at the file's carrying, in the same motion, the entry it came from and the line it entered at, and that entry is released. The carryings of Exhibit ONE, Natural Intelligence and the Registry carry 200 entries, 37 of them entered and 23 withdrawn by a later entry, each yet listed.
