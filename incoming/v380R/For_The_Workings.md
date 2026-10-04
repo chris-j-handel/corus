@@ -435,3 +435,19 @@ A fresh reader read each of 110 sections of Natural Naming at one test: each sen
 ## The purpose of Natural Naming, for each working
 
 Natural Naming gathers each word dissolved from Natural Intelligence, clusters them, and aims each cluster at the naming word and concept it dissolves into, Exhibit ONE's first and Natural Intelligence's second. It serves an AI writing in natural naming and explaining, and it is the instrument each living file is improved by at intervals. Each passage of it is read at this purpose. This working's word *fact* is withdrawn: it is no word of the method. The purpose is laid at Natural Naming's carrying with the file measured beside it.
+
+## Natural Mathematics v380L, read here: the answer
+
+Received whole at main. A reviewer computed or checked forty-six changed sentences and ran the resolver at each sentence of it: each agrees. Offered back, each for the working v380L's own reading:
+
+| Line in Natural Mathematics v380L | Finding |
+|---|---|
+| 412 | *the thirty carrying across the two forms*: carrying is a self's own, and across is shared |
+| 205 | *one carrying at two names at the seam* released, Natural Naming's own saying of a seam |
+| 143 beside 227 | *the same inversions in the other order* yet in a line its account says wrong at 227 |
+| 327 beside 217 | *owned by neither* said *reached by neither* at one of two |
+| 105, 243, 127, 179 | four meanings changed and unsaid in the account: *one running's making*; *the closing is the fixed set*; *the coupling joins them* said with sharing and releasing added; the sentence of φ |
+
+## Natural Naming's value sorted at its purpose, and two more readings
+
+[Natural_Naming_Value_Sorted.md](Natural_Naming_Value_Sorted.md); each thing another exhibit could carry read beside that exhibit, [Natural_Naming_Beside_Receiving_Exhibits.md](Natural_Naming_Beside_Receiving_Exhibits.md), 68 already said there, 39 in part, 55 said here alone; and the twenty-five sections a first reader found nothing in, read a second time, [Natural_Naming_Second_Reading.md](Natural_Naming_Second_Reading.md): seven carry a dissolved word, two define a naming other files rely on, fifteen are said whole at another file, one may leave.
