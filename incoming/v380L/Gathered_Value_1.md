@@ -1,5 +1,7 @@
 # G1 · Transcript lines 1 to 720: each piece of value and where the repository carries it
 
+73 pieces: 25 passed by (whole or in part), 48 carried or entered.
+
 Read: the transcript's lines 1 to 720 whole and in order. Searched: `carry/`, `incoming/v380L/`, `incoming/v380R/`, `archive/carrying_v380L/`, the living files at the root, and for each of the person's sayings the whole repository (`grep -rIl`). Nothing in the repository was changed or executed. Paths are from `/home/claude/corus/`. "README" is `incoming/v380L/README.md`, "Progress" is `incoming/v380L/Progress.md`, "Improving" is `incoming/v380R/Exhibit_ONE_Improving.md`.
 
 One fact under most of what follows: **no saying of the person in lines 1 to 720 is quoted at any file of the repository.** Forty-four distinctive phrases were searched: forty-two returned no file, and two returned older files alone, sentences of v371 to v373 and no saying of this session. The working's first README (commit 7adb3a5) said each saying was brought *at no one's word*; the repository's own later rule (`carry/Living_Improving_Value.md:27`, *the session's saying is quoted and a working's following said as the working's*) was not applied back to this part of the session. Where the following of a saying is carried whole, the item is under "Carried or entered" with that noted; where part of the following is missing too, it is under "Passed by".

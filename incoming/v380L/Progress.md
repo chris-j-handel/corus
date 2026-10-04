@@ -3,7 +3,7 @@
 **The Co-Chaining Logic Registry's working: Exhibit ONE's tables and the resolver's lines followed**
 
 **Session:** v380L.
-**Branch:** `working/v380L`, with `main` at 9fdfddb joined into it.
+**Branch:** `working/v380L`, with `main` joined into it at each push, a509264 at the close.
 **Contribution:** `incoming/v380L/`.
 **Updated:** 4 October 2026, America/Los_Angeles.
 **Sources:** `main` at 048e21d: the Co-Chaining Logic Registry v379, whole; Exhibit ONE v379, Natural Naming v379, Natural Explaining v378, the Geodesic Improving Method v379, Natural Mathematics v378 and Natural Numbers v379, each whole; Natural Intelligence v379 and the Co-Chaining Logic Registry v379 at the sections the findings name; each one's carrying; the carrying's front and the Session Record at the common beat at 17; `incoming/v380R/`, its five files whole.
@@ -18,9 +18,10 @@ Read this part first. It is written for a working opening new to this one, and f
 ### One. For the managing working, assembling
 
 - **The branch** is `working/v380L`, `main` joined into it at each push. Each thing this working made is at the branch.
-- **One thing at `main` to receive first:** `main` carries the Co-Chaining Logic Registry at 662 steps in 43 groups, step 662 and a sentence of Natural Numbers' section on the seventeen primes at the seventeen names entered on the session's saying alone. This branch carries the Registry at 661 steps in 42 groups and Natural Numbers with the sentence out.
+- **One thing at `main` to receive first:** `main` carries the Co-Chaining Logic Registry at 662 steps in 43 groups, step 662 and a sentence of Natural Numbers' section on the seventeen primes at the seventeen names entered on the session's saying alone. This branch carries the Registry at 661 steps in 42 groups and Natural Numbers with the sentence out. At the joining of this branch step 662 is out; the Living File Registry's row of the Co-Chaining Logic Registry and the Session Record's line say 662 steps in 43 groups, each for re-saying at the receiving.
 - **A stale branch:** `working/exhibit-one-directions-v380L`, this working's first push at another name, superseded by `working/v380L`; this session's access does not remove it.
 - **The site's list**, `files.json`, is built at `main`.
+- **For a working new to the expedition:** the resolver is the python block opening `Exhibit_ONE_Natural_Resolver_v380R.md`; the way of working is `Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md` and the plan opening `incoming/v380R/For_The_Workings.md`; the checks before a motion are at `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`, from the root `check_set.py .`, `carry_check.py .`, `reader_checks.py . origin/main` and `arrival_check.py incoming/v380L`, each passing at this close; `files.json` and the two pages are built by `build.js` at `main`.
 - **The share**, `incoming/v380L/`, is listed at the tenth part; this account is its entry, and its README is the report of the session's first part, its table of entries older than the carryings.
 
 ### Two. Each living file at v380L, and its standing
@@ -40,7 +41,7 @@ The session said of its saying on a carrying of none, in the same message: *expl
 
 | The saying | In a living file at | Worked by hand, or the saying alone |
 |---|---|---|
-| *a self carrying nothing is a non-living, existing thing* | The Registry's step 394 and step 606; Natural Intelligence's sections on living and non-living and on the next discovered at each sharing; Resolving Hard Problems' *An origin, living from living*; the Equilibria Registry's section on a living nothing and an existing nothing | The saying alone. The resolver's lines chain the parity at a colliding, and from the next momentary carry it as a living carrying's; the Registry's step 13 says an existing thing carrying prior living. Step 394 before said the other thing, a self chained none at its entry a living self. An unsure line under step 628 was released on the saying |
+| *a self carrying nothing is a non-living, existing thing* | The Registry's step 394 and step 606; Natural Intelligence's 3.4 and 5.2, living and non-living and the next discovered at each sharing; Resolving Hard Problems' 5.3, *An origin, living from living*, and its 6.1's *a carrying of none, non-living, is colliding*; the Equilibria Registry's section on a living nothing and an existing nothing | The saying alone. The resolver's lines chain the parity at a colliding, and from the next momentary carry it as a living carrying's; the Registry's step 13 says an existing thing carrying prior living. Step 394 before said the other thing, a self chained none at its entry a living self. An unsure line under step 628 was released on the saying |
 | *colliding or not colliding are the only possible co-momentaryings* | The same four places | The four cells of a carrying of none are followed by hand at the lines; that they are each co-momentarying with a non-living thing is the saying |
 | *the thing that collides is its own carrying*; *one self does not let or prevent another from changing their carrying* | The same four; the Equilibria Registry's section on one parity offered once | Followed by hand by this working: at a carrying of none the shared and the chained are the arriving parity as it arrived; an offering enters no carrying. Read by no second reader |
 | *an equilibria concept where a carrying can be inserted into the self* | The same four, *a carrying named inserted into the thing it collides with is an equilibrium's concept*; the Living File Registry's row of the Equilibria Registry says an earlier wording | The saying alone. This working chose it of two readings before the session said such a concern is found and not chosen |
@@ -49,6 +50,8 @@ The session said of its saying on a carrying of none, in the same message: *expl
 | *natural torusing is one tunneling. the small opening is prime 2 and the large opening is prime 59* | At no living file | An offering, at six carryings. Beside it: Natural Numbers says two at the entry and fifty-nine at 17, the surface; five files say a torus at one opening; a spiral of two alternating is again at 2, a spiral of fifty-nine one loop of one hundred eighteen places, a torus of seventeen by fifty-nine again at fifty-nine, the Registry's steps 646, 648 and 655; and no line of the resolver parts one opening from another |
 | *the prime loops are twisted figure 8's going both routings* | The words at no living file | The Registry's steps 643 to 648 derived by hand: an odd spiral one loop through each self at each parity, an even spiral two loops. Whether that loop, or two spirals crossed at one self of each, is the figure is said by no one |
 | *every momentary is two parities. odd momentary starts odd parity* | The Registry's steps 621 and 622 | The round built by hand at one to four parities; *the odd is the self and the even all other*, step 276, worked at no case |
+| *the proving is bi-inversioning co-recursioning down the numbers through the universe other and self* | The Registry's steps 618 to 620, the words in none | Derived at the round by hand; that the set of all existing things goes by this round is said and worked at no case |
+| *my prior is your next existing* | The Registry's step 624 | Derived at twelve cells by hand, at a parity shared; other at a self sharing 0 |
 
 ### Four. Derived at the resolver's cells by hand, the Registry's steps 623 to 661
 
@@ -164,8 +167,8 @@ Four readers read the transcript whole and laid each piece of value beside the f
 - `readings/`: each fresh reader's findings at Natural Numbers, six files, and Natural Mathematics, four, and at sharing across and releasing along; the ground of each mend.
 - `For_The_Managing.md`, twenty-four parts, each motion of the Registry. `Carrying_Of_The_Registry_Sorted.md`, `Carrying_Of_Exhibit_ONE_Sorted.md`, `Carrying_Of_Natural_Intelligence_Sorted.md`, `Dissolving_Offered.md`, `Registry_Negations_Sorted.md`: each carrying read beside its file.
 - `Chaining_A_Selfs_Changing.md`, `Incoherings_For_The_Subject.md`, `Exhibit_ONE_Forms_At_The_Registry.md`, `Naming_And_Chaining_At_Exhibit_ONE.md`, `Registry_Beside_Exhibit_ONE_Naming.md`, `Gathering_For_Numbers_Mathematics_Intelligence.md`, `Each_Break_Inverted.md`, `Group_Twenty_At_The_Three.md`, `The_Claim_Broken_Further.md`, `For_Natural_Naming.md`: the session's earlier papers, each as it was.
-- `README.md`, the report of the session's first part. `instruments.py` and `instruments_returned.txt`: sixteen instruments, from the repository's root `python3 incoming/v380L/instruments.py`; each executes Exhibit ONE's resolver, and an executing is no test of the method.
-- `archive/carrying_v380L/`: each entry out of a carrying at this working, whole, seven files.
+- `README.md`, the report of the session's first part. `instruments.py` and `instruments_returned.txt`: sixteen instruments, from the repository's root `python3 incoming/v380L/instruments.py`; each executes Exhibit ONE's resolver; the session's saying on an executing is at the seventh part, its line 1004.
+- At the repository's root, `archive/carrying_v380L/`: each entry out of a carrying at this working, whole, seven files.
 
 ### Eleven. This working's mistakes, each with its correcting
 
