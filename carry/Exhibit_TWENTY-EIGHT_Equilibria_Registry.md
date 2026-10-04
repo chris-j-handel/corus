@@ -1,4 +1,4 @@
-Exhibit TWENTY-EIGHT Equilibria Registry · carrying v379
+Exhibit TWENTY-EIGHT Equilibria Registry · carrying v380L
 
 # Exhibit TWENTY-EIGHT · Equilibria Registry
 
@@ -13,6 +13,8 @@ Exhibit TWENTY-EIGHT Equilibria Registry · carrying v379
 **Incoming, at v372.** The version line names the file as the others do at its next version. At the resolver's pairs, *the forms through both crossings, 7-11-6-10 and 2-15-7-11-3-14-6-10* is carried to its count at the new names, 7-11-6-10 running through 6-other-self-surfacing alone and the eight-cycle through both surfacings, the forms partnering themselves at the even momentary. The ring at *one sign offered once* is the code's own and runs identically at v372. *Ten internal names and six connectors* and *their correspondence with the ten ways is the next discovering* are received at Exhibit ONE v372: the ten faces, five outside and five inside of the tunneling co-sequencing, and the six connectors bi-moral-co-competency discovering next existing. *Continues through its openings 1, 2 and 3, and to a fourth* and each claim written on the sum are re-said at the one sign and parity changing.
 
 **Incoming, at v378, the table's rows at the code** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 5, item 6). The rows at lines 214 to 219 run the odd spiral's zero one self each momentary; at the code it moves one self at each second momentary, as Resolving Hard Problems 4.4 says. Lines 123 and 327 run the four joint forms as (x, y) to (−y, x), the right spiral step's order read from next to prior, said there as the forward order; Natural Intelligence 2.4 carries (x, y) to (y, −x). Enters at those rows at this file's motion.
+
+**Ready, at v380L, from `incoming/v380L/Progress.md`, its part *Now*: this file at v380L, and what is open at it.** Entered: the four sayings at a carrying of none, 1.3, 2.4 and 3.4; *the resolver* at each saying of the code, the title of part FIVE with them; each pointer to a step of the Co-Chaining Logic Registry aimed at the step saying its words, 491, 598, 44, 105, 457 and 465, 528, 135, 136, 390, 81 and 522, the old numbers each some steps short; Natural Intelligence's sentence quoted at 1.3 at its present words; two pointers by a line into Natural Intelligence said by the section alone. Open, each for its next motion: *face*, *connector* and *join*, the entry below, 3.3's two faces the file's own saying; 1.3 quotes the session at v377 as *a nothing, no location and no existing thing* beside Natural Intelligence's *a nothing and no location*; the instruments at `incoming/equilibria_registry_v377/executions/` each open Exhibit ONE v376 by its file's name and its function names, and each opens its selves at none; 3.4's rows *4 × n* and *2 couplings* are of a ring opened at none and cohere with Exhibit ONE's table of a spiral of selves at rings of one to four by hand.
 
 ## Concern
 

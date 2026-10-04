@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems · carrying v379
+Exhibit THIRTEEN Resolving Hard Problems · carrying v380L
 
 # Exhibit THIRTEEN · Resolving Hard Problems
 
@@ -19,6 +19,8 @@ Exhibit THIRTEEN Resolving Hard Problems · carrying v379
 
 **Ready, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`: the session's path arrives at this file.** The session said *continue through exhibit one naming then natural intelligence and numbers then one to exhibit thirteen and twenty seven as a possible path*, and of the word *still* at the files, *why is it staying in unless it is science and hard problem registry*. At this file's motion: a still named by another, at the science and the hard problems, beside is-still-possibling, the self's own and the one compound carrying the word, explored by both and no map.
 
+**Ready, at v380L, from `incoming/v380L/Progress.md`, its part *Now*: this file at v380L.** Entered: *the resolver* at each saying of the code; *face* and *join* as Natural Naming re-says them; three sentences at the resolver's lines, a self offered nothing at the two parting forms, the carried next at each cell, and *releases* at 10's; and 5.3, an origin, living from living: a carrying of none a non-living existing thing, colliding or not colliding each of its co-momentaryings, the thing that collides its own carrying. Each is read by a fresh reader by hand and mended. Two entries are at `archive/carrying_v380L/Exhibit_THIRTEEN_Resolving_Hard_Problems.md`.
+
 ## Concern
 
 **Concern, for both, at the items below.** The items below were laid at the ten things named still and the older resolving; each enters at this file only where it is living and non-living existing things co-sequencing at the code, and otherwise stays at its own file.
@@ -26,7 +28,3 @@ Exhibit THIRTEEN Resolving Hard Problems · carrying v379
 **Concern, at v378, for both, set-wide: the rings are spirals, and closure named as the form is an equilibrium entering the explaining** (incoming from the physics motion working at v377, `working/physics-motion-v377`, its set-wide audit laid at its carrying, met at Exhibit ONE's code at v378). At the code selves joined along, the last to the first, come to their parities again and never to a momentary again, each step adding a next: an odd spiral of n selves carries one like pair, the 0 released at 10-bi-tri-co-tunneling sits at the like pair's self and moves one self on at each second momentary, a bounded zero tunnelling, the pattern inverted after the 0 has passed each self once and the parities met again after twice, at 4n; an even spiral alternates, each self opposite the next; the torus winds on and never closes. Executed at v378 at a ring of five, the 0 at selves one to five at momentaries 5, 7, 9, 11 and 13, the pattern inverted at 15 and met again at 25. The saying to meet at this file's motion: *ring* at the code's joining is a spiral, *goes round at n* is *comes to its parities again at each n-th momentary*, *closes* is *winds on*, and each place naming closure as the form is the equilibrium entering; a field's own ring, a benzene ring or a superconducting ring, stays the field's, and the numbers' podaling rings are met at Natural Numbers. **At this file**: 6 sayings, 3 naming closure as the form, each met at its thought at the file's motion.
 
 **Received at v378 from `incoming/co_chaining_coverage_v378/` and met at this file's motion at v378**: 1.1 at the living and the non-living, 5.6 at bi-co-momentarying, the seventeen names at Exhibit ONE's; 12's *abundancing* stands, Natural Naming 2.4's name for 12's changing. Entered at the Co-Chaining Logic Registry from this file at v378: the faces at the windings, a pattern carried whole and a kind, the field's arrival at two faces.
-
-
-
-**Ready: *face*, *connector*, *join* and *the code*, each re-said as Natural Naming re-says it, one motion.**

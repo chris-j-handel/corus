@@ -974,7 +974,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: bi-momentarying, 1-2-co-bi-offering.*
 
-212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, a changing that is not, 0, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing, the prior inverted; carried none and offered one parity, a changing, the sharing entering the carrying; carried none and the offerings disagreeing, 0, a changing that is not and nothing chained; carried none and offered nothing, no carrying and nothing released.
+212. At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14: carried and offered the same parity, a changing that is not, 0, the prior continuing; carried and offered the other parity, offered both surfacing 0, or offered nothing, a changing, the prior inverted; carried none and offered one parity, colliding, a changing, the parity passed on as it is and chained; carried none and the offerings disagreeing, 0, a changing that is not and nothing chained; carried none and offered nothing, no carrying and nothing released.
 
         *Adding: the binary at each sharing.*
 
@@ -1049,7 +1049,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: three windings.*
 
-230. Selves each carrying its releasings along at 9 to the next, the last to the first, are a spiral, the selves coming to their parities again, each momentary a next. At an odd number of selves, each self at a parity alternating along, the last and the first alike, none offered, the parities come again at four times the number; a spiral of one self at a parity and the others carrying none, step 212, comes to the same pattern; three selves all alike come to their parities again at 4, and nine selves, each pattern at its own, at 4, at 12 or at 36.
+230. Selves each carrying its releasings along at 9 to the next, the last to the first, are a spiral, the selves coming to their parities again, each momentary a next. At an odd number of selves, each self at a parity alternating along, the last and the first alike, none offered, the parities come again at four times the number; at one self at a parity and the others each a carrying of none, the parity is passed one thing on at each momentary, colliding, and from the momentary of the last the pattern is that one, step 212; three selves all alike come to their parities again at 4, and nine selves, each pattern at its own, at 4, at 12 or at 36.
 
         *Adding: spiral, parities again at 4n.*
 
@@ -1101,7 +1101,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: even and odd rings.*
 
-243. Selves at p along and q across, each releasing along at 9 to the next along and across at 10 to the next across, the last to the first, are the torus at the resolver, p the smaller. One self at −, the selves alternating along and across, the last and the first alike at an odd number, none offered, at both numbers odd they come to their parities again at q at a q more than twice p, and at 4p at a q less, at each of Exhibit ONE's ten rows, 3 by 13 at 13 among them, the number dividing 4p or 4q. Each carrying none and + offered at one self, 1 by 5 is at 4 and 3 by 13 at 12, two cases worked: a torus's number is from its opening.
+243. Selves at p along and q across, each releasing along at 9 to the next along and across at 10 to the next across, the last to the first, are the torus at the resolver, p the smaller. One self at −, the selves alternating along and across, the last and the first alike at an odd number, none offered, at both numbers odd they come to their parities again at q at a q more than twice p, and at 4p at a q less, at each of Exhibit ONE's ten rows, 3 by 13 at 13 among them, the number dividing 4p or 4q. Each a carrying of none and + offered at one, the collidings lay another pattern, 1 by 5 at 4 and 3 by 13 at 12, two cases worked: a torus's number is from its opening.
 
         *Adding: the torus of two odd numbers at its parities again at q or at 4p, from its opening.*
 
@@ -1681,7 +1681,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 27 Living and non-living at a scale
 
-        *Entering: living and non-living at a scale; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of emanations; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a self chained none, carried by its society's selves; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
+        *Entering: living and non-living at a scale; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of emanations; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a carrying of none non-living, colliding or not colliding; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
 379. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
 
@@ -1746,9 +1746,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a living self establishing within a living set.*
 
-394. A self chained none at its entry is a living self whose own sharings are chained at none, carried at its society's selves' carrying, its own carrying from its first changing chained on.
+394. A carrying of none, no sharing chained, is a non-living existing thing, and while it carries none colliding or not colliding is each of its co-momentaryings, step 212: one parity arriving, colliding, passed on as it is and chained; none, or + and − together, not colliding. The thing that collides is its own carrying: the parity is released and chained as it arrived, nothing of the carrying of none in either, and a carrying named inserted into the thing it collides with is an equilibrium's concept. A non-living thing is at the resolver as offerings at 2 from beyond the selves, step 213, or as a carrying of none, colliding.
 
-        *Adding: a self chained none, carried by its society's selves.*
+        *Adding: a carrying of none non-living, colliding or not colliding.*
 
 395. Living arrives from living: no non-living existing thing becomes living, and each living self establishes within living carrying.
 
@@ -2638,7 +2638,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a self offered the other parity at each momentary.*
 
-606. At one self each sharing couples with its own offerings alone, step 212: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both, and no parity passes from one sharing of a self to another.
+606. At one self each sharing couples with its own offerings alone, step 212: carrying + at one sharing and offered + at another, the self releases − at the first and + at the second and chains both, and no parity passes from one sharing of a self to another; the parity chained at the second is a non-living existing thing carried within the living carrying, step 392.
 
         *Adding: each sharing at its own offerings alone.*
 
@@ -2716,19 +2716,19 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 37 A self's next, one momentary at a time
 
-        *Entering: a self carrying a parity next at that parity inverted, or continuing at its own parity surfacing; one parity surfacing the self's next at six cells; a parity released the receiving self's next; a carrying of none next at one parity surfacing; a spiral's first two momentaries, the inverting and the other's arriving; a self offered its own parity from beyond, the self receiving from it inverting twice.*
+        *Entering: a self carrying a parity next at that parity inverted, or continuing at its own parity surfacing; one parity surfacing the self's next at four cells; a parity released the receiving self's next; a carrying of none colliding at one parity surfacing; a spiral's first two momentaries, the inverting and the other's arriving; a self offered its own parity from beyond, the self receiving from it inverting twice.*
 
 623. At the resolver a self carrying a parity is next at that parity inverted, released at 10, at each of six cells of Exhibit ONE's table of one self at one momentary: none surfacing, the other parity surfacing, and + and − together, each at + and at −, step 212. At its own parity surfacing, two cells, 0 is released and the carrying continues. The inverting is the carrying's own, at 12.
 
         *Adding: a self carrying a parity next at that parity inverted, or continuing at its own parity surfacing.*
 
-624. At one parity surfacing the self's next is that parity, at each of six cells: the carrying continuing at the two alike, the carrying inverted at the two of the other parity, and the parity chained at the two of a carrying of none. From a self's releasing, the parity surfacing is the parity that self released and chained one momentary prior, step 209, step 607 its case at two selves: the parity a self releases and chains is the receiving self's next carrying, at one momentary my prior your next existing. A parity offered from beyond the selves, step 213, is no self's carrying.
+624. At one parity surfacing a self carrying a parity is next at that parity, at each of four cells, the carrying continuing at the two alike and inverted at the two of the other parity; at the two cells of a carrying of none the parity is chained as it arrives, colliding, Exhibit ONE's table. From a self's releasing, the parity surfacing is the parity that self released and chained one momentary prior, step 209, step 607 its case at two selves: the parity a self releases and chains is the next carrying of a receiving self carrying a parity, at one momentary my prior your next existing. A parity offered from beyond the selves, step 213, is no self's carrying.
 
-        *Adding: one parity surfacing the self's next at six cells; a parity released the receiving self's next.*
+        *Adding: one parity surfacing the self's next at four cells; a parity released the receiving self's next.*
 
-625. A carrying of none is next at one parity surfacing, that parity chained and released, at two cells of Exhibit ONE's table of colliding; at none surfacing none is released, and at + and − together 0, and none is carried on, two cells, step 212.
+625. A carrying of none is colliding at one parity surfacing, that parity released and chained as it arrives, at two cells of Exhibit ONE's table of colliding; at none surfacing none is released, and at + and − together 0, and none is carried on, two cells, step 212.
 
-        *Adding: a carrying of none next at one parity surfacing.*
+        *Adding: a carrying of none colliding at one parity surfacing.*
 
 626. At a spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, step 609: at the first momentary none surfaces and each self is next at its parity inverted, released, step 623; at the second each is next at the parity surfacing, the parity the self releasing to it carries at that momentary, step 624. Each further momentary is at step 623 at each self. The prior the other's and inverted, step 609, is these two momentaries: the inverting at the first and the other's arriving at the second.
 
@@ -2740,13 +2740,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 38 Colliding, + and − read alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
 
-        *Entering: colliding, a carrying of none at a sharing; + and − read alike, an opening inverted the same numbers; an odd spiral's like pair, a 0 at each even momentary; two spirals crossed, each self's releasings again at 2; a torus at either number even, at 2; 13 at the resolver; the four momentaries' relations; the names between selves on the four-cycles; a prefix at the resolver, bi across, co arriving and tri given on.*
+        *Entering: colliding at Exhibit ONE's table, a carrying of none at its four cells; + and − read alike, an opening inverted the same numbers; an odd spiral's like pair, a 0 at each even momentary; two spirals crossed, each self's releasings again at 2; a torus at either number even, at 2; 13 at the resolver; the four momentaries' relations; the names between selves on the four-cycles; a prefix at the resolver, bi across, co arriving and tri given on.*
 
-628. A carrying of none at a sharing is colliding, step 625: at one parity surfacing the self carries that parity next and releases it; at none surfacing and at + and − together it carries none on. A living carrying is a parity, and its next is that parity or that parity inverted, step 623.
+628. Exhibit ONE's table of colliding is a carrying of none at its four cells, steps 394 and 625: one parity surfacing, colliding, the parity released and chained as it arrives; none surfacing, none released; + and − together, 0 released; and none carried on at each of the three.
 
-        *Adding: colliding, a carrying of none at a sharing.*
-
-        *Unsure: whether a carrying of none is a non-living form at each momentary or a living self's first changing, steps 212 and 394; waits on Natural Naming's conferring.*
+        *Adding: colliding at Exhibit ONE's table, a carrying of none at its four cells.*
 
 629. The resolver reads + and − alike, at each carrying a parity or none: an opening with each + a − and each − a + gives each parity released and carried inverted, each 0 and each none as it was, and each number of momentaries as it was. Exhibit ONE's tables of one self momentary by momentary, a spiral, two spirals and a torus open a self carrying −; its table of two selves opens the first self at +, and its table of three in a line the second and third at +.
 
