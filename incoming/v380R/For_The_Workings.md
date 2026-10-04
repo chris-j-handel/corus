@@ -408,3 +408,22 @@ Each read by a reviewer beside its sentence and the resolver. Ten clauses carry 
 ## Parity is the offering's direction, and favors neither
 
 Natural Naming v380R, one paragraph. − is offering self to other; + is offering other to self. The resolver favors neither: each + and each − exchanged gives each next exchanged alike, 400 of 400. The self's carrying next as the other's carrying prior inverted is one offering at its two sides. *A parity changing carries no size* is said *a parity changing is the offering's direction changing, favoring neither side*, at three places. Offered to the working v380L: the same at the Registry's steps of *no size*, 65, 67, 455, 476 and 477. Natural Numbers v380L is received at main and is being read here.
+
+## Natural Numbers v380L, read here: the answer
+
+Received whole at main. A reviewer computed about seventy-five numbers in the changed sentences and each of the 441 rows, and ran the resolver at each sentence of spirals, coupled spirals and tori: each agrees. Offered back to the working v380L, each for its own reading and its account:
+
+| Line in Natural Numbers v380L | Finding |
+|---|---|
+| 353 beside 213, 215, 255 | a solid's *face* said *triangle* at one place and *face* at three: one word at each |
+| 508 | *the larger fractal bi-folding*: the fractal method |
+| 205, 1010 beside 382, 508 | *closes* at two, *completes* at two: one word |
+| 163 | *at opposite phase* released, unsaid in the account |
+| 488 | two sentences released, *a centre carrying a position pairs outward; a centre carrying nothing pairs across*, unsaid in the account |
+| 504 | *the entire one to nine is shared at the centre* said *9, one to nine's completing, is shared*: nine names said one |
+| 554 | *three selves across* said *three selves at one momentary of a spiral*: a spiral is along |
+| 502 | *the resolver's pairings* said *the numbers' pairings*, twice: whose pairings |
+| 199 | *each coupling winding at φ* said *at its own continuing*: φ released at that sentence |
+| 279 | *each step down* said *both steps down*: six is outside it |
+| 120 | *not more than, not less than* said *less than, more than*: strict |
+| 57, 337 | the heading *returning from sixty* said *sixty-one*, beside the open concern of sixty |
