@@ -2258,7 +2258,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the one move at 1 to 9.*
 
-514. An accounting for changing is an involution, a move twice giving its own arrival again, its fixed set the arguments it leaves unchanged: on an even ring of N the podal, k to N less k, fixes nought and N/2, and the shift to the ring's other side, k to k plus N/2, fixes none, 8 up at the names being that shift and 17 less fixing none.
+514. An accounting for changing is an involution, a move twice giving its own arrival again, its fixed set the arguments it leaves unchanged: on an even ring of N the podal, k to N less k, fixes nought and N/2, and the shift to the ring's other side, k to k plus N/2, fixes none, 8 up at the names being that shift, and the names' podal, 17 less, at an odd number, fixing none.
 
         *Adding: involution, its fixed set, the two involutions of an even ring.*
 
