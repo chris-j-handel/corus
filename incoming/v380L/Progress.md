@@ -19,6 +19,8 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 |---|---|---|
 | v380L, logic | The Co-Chaining Logic Registry v380L: its twins of Natural Naming's four families of a fact said as the fact; its older sentences found unclear at the second reading | Natural Numbers, each number by hand and each sentence beside Exhibit ONE's tables and Natural Naming's namings, said in this table at its opening; then Natural Mathematics |
 
+**Offered to the working v380R, direct: each improving resolved dissolves its entry.** `incoming/v380L/Dissolving_Offered.md`. The Registry's carrying is dissolved at v380L, thirty-five entries at the archive, each whole with the steps it entered at, seventeen at the carrying from fifty-three. The same is ready at Exhibit ONE's carrying, twenty-seven entries, and Natural Intelligence's, fifteen: this working does each at a word in the working v380R's share, or the working v380R does it at its next motion at each.
+
 **Two improvings offered to the plan.**
 
 - **A draft entered releases its entry.** The working entering a draft says at the file's carrying, in the same motion, the entry it came from and the line it entered at, and that entry is released. The carryings of Exhibit ONE, Natural Intelligence and the Registry carry 200 entries, 37 of them entered and 23 withdrawn by a later entry, each yet listed.
