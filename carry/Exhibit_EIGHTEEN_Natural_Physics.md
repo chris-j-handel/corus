@@ -115,6 +115,8 @@ Exhibit EIGHTEEN Natural Physics · carrying v379
 
 **The proposal, whole, at the Natural Physics working's branch**: five parts and forty-nine sections, every execution running again at Exhibit ONE's code and every output matching, fifteen of sixteen claims at the code holding, the released words fallen to none at nearly every word, fifty-one records of the field correct at their numbers and sources, thirty of the prior's forty sections whole, and each correction of the prior's overclaimings rightly made. Enters as this file's next version at its working's motion, section 2 of the review met first.
 
+**Ready, at v379, from `incoming/v380L/Progress.md`, its part *Now*: one saying of *the code*.** Line 82 says *at no line of the code*; its twins at Natural Mathematics, Natural Numbers and Natural Intelligence say *at no line of the resolver*, as Natural Naming carries it.
+
 ## Concern
 
 *At v378's receiving of the proposal.*

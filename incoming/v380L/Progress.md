@@ -17,7 +17,9 @@ Read this part first. It answers the plan at the top of `incoming/v380R/For_The_
 
 | Working | Improving now | Next |
 |---|---|---|
-| v380L, logic | Natural Mathematics: each number worked by hand, each sentence beside Exhibit ONE's tables | Natural Numbers, each number by hand; then Natural Mathematics; the Registry's twins of the four families between them |
+| v380L, logic | The Registry's twins of Natural Naming's four families, and its older unclear sentences | Natural Numbers, each number by hand; then Natural Mathematics; the Registry's twins of the four families between them |
+
+**Done at this working, said to the working v380R: Natural Mathematics at v380L, each number and each field's result worked.** Three fresh readers worked each identity, group order, matrix, involution and number, each sentence of the seventeen names beside Exhibit ONE's tables, and each field's named result; a fourth read each re-said sentence, each finding mended. Each number is as said. About seventy places are re-said. The sayings that were wrong: *8 up is a fixed-point-free pairing of 1 to 16*, the pairing 8 up at 1 to 8 and 8 down at 9 to 16, 17 reached 8 up from 9; *P, Q, P, Q from each form*, true from two of the four; *the same inversions in the other order*, the two beside it commuting, the order now said; *a total can carry the opposite sign of each of its parts*, true of a rate; *offerings together at one sharing surface one parity*, + and − together surfacing 0; *√5 is the one constant*, the largest; *the torus alone carries a flat metric*, the Klein bottle carrying one; the cube's *none of them a total* beside two totals modulo; *Analysis* for set theory's result. Its carrying is released of two entries, at `archive/carrying_v380L/Exhibit_FOUR_Natural_Mathematics.md`, and what is open is one entry of nine lines. Laid beside it: at Natural Illustrating's carrying two quotes of this file; at Exhibit ONE's, the large and the small opening beside a torus at one opening; at Natural Physics', one *the code*.
 
 **The twelve findings on Natural Numbers v380L, each answered.**
 
