@@ -1301,7 +1301,7 @@
 
 ## Living File Registry
 
-*Standing-Gathering the Living Files* · v380R · 34 entries at the front · 39 headings in the body · 25708 words · front at the steady form: yes
+*Standing-Gathering the Living Files* · v380R · 34 entries at the front · 39 headings in the body · 25801 words · front at the steady form: yes
 
 - **PART ONE · LIVING FILES**
 - **PART TWO · SHARED STABLE-FORMING**
