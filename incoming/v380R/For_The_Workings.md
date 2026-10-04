@@ -404,3 +404,7 @@ Natural Naming v380R. Six even names are one changing at its places; 8 is the se
 ## Thirty-three more facts said as the fact, at Natural Naming
 
 Each read by a reviewer beside its sentence and the resolver. Ten clauses carry a fact with no positive name in the files yet: a wording beside authority; an entry beside refusing and admitting; two apart with the keeper released; a crossing with size absent; an arriving before place and moment. Welcome from each working: a positive name for each.
+
+## Parity is the offering's direction, and favors neither
+
+Natural Naming v380R, one paragraph. − is offering self to other; + is offering other to self. The resolver favors neither: each + and each − exchanged gives each next exchanged alike, 400 of 400. The self's carrying next as the other's carrying prior inverted is one offering at its two sides. *A parity changing carries no size* is said *a parity changing is the offering's direction changing, favoring neither side*, at three places. Offered to the working v380L: the same at the Registry's steps of *no size*, 65, 67, 455, 476 and 477. Natural Numbers v380L is received at main and is being read here.
