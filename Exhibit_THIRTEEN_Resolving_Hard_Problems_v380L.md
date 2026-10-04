@@ -20,14 +20,14 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **THREE · NOW**
 
-- 3.1 Offerings at 2, the others' releasings
+- 3.1 Offerings at 2, the others' across sharings
 - 3.2 Surfacing at 14, agreeing one parity and disagreeing 0
 - 3.3 At 12, the prior coupling with the now
 - 3.4 The non-living at the now
 
 **FOUR · NEXT**
 
-- 4.1 Released across at 10 and 6, chained at 11
+- 4.1 Shared across at 10 and 6, chained at 11
 - 4.2 Released along at 9, and the society's next momentary at 17
 - 4.3 The living step, next as prior inverted
 - 4.4 Selves joined, a pattern carried between them
@@ -79,7 +79,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **Each momentary is three conditions at once, each binary**: exhaustiveness, all existing things; determinacy, one next momentary opening at the number each completes; and reachability, the next openings reaching each number on. Existing is these three at once at each momentary, and the universe is the existing thing they are.
 
-**At the resolver the three places are at their names.** Prior is 3-co-bi-co-sharing, the carrying. Now is 2-bi-co-bi-offering, the offerings, surfacing at 14-bi-tri-bi-moralizing and coupling with the prior at 12-bi-tri-bi-entraining. Next is 11-tri-bi-tri-chaining, the next prior, with the changings released at 10-bi-tri-bi-tunneling, 6-bi-co-bi-moralizing and 9-tri-bi-co-momentarying, and the society's next momentary at 17-co-bi-tri-offering.
+**At the resolver the three places are at their names.** Prior is 3-co-bi-co-sharing, the carrying. Now is 2-bi-co-bi-offering, the offerings, surfacing at 14-bi-tri-bi-moralizing and coupling with the prior at 12-bi-tri-bi-entraining. Next is 11-tri-bi-tri-chaining, the next prior, with the changings shared at 10-bi-tri-bi-tunneling and 6-bi-co-bi-moralizing and released along at 9-tri-bi-co-momentarying, and the society's next momentary at 17-co-bi-tri-offering.
 
 ## 1.5 A hard problem arriving, and its resolving
 
@@ -117,9 +117,9 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 # THREE · NOW
 
-## 3.1 Offerings at 2, the others' releasings
+## 3.1 Offerings at 2, the others' across sharings
 
-**2-bi-co-bi-offering is the offerings: each sharing with its parity offered now**, opening bi, even, across, at bi-moral-so-far, arriving from the self at not-yet-bi-moral, its 6. **A self's offerings are the others' releasings at the prior momentary**, arriving now: at the society each self's releasings gathered at the receiving self's 14 are its offerings next.
+**2-bi-co-bi-offering is the offerings: each sharing with its parity offered now**, opening bi, even, across, at bi-moral-so-far, arriving from the self at not-yet-bi-moral, its 6. **A self's offerings are the others' sharings and releasings at the prior momentary**, arriving now: at the society each self's sharings and releasings gathered at the receiving self's 14 are its offerings next.
 
 **The now is the other's side of the bi-momentary**: the self's carrying along and the others' offerings across arrive at the entry at once, each at its own momentary.
 
@@ -133,7 +133,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **At 12-bi-tri-bi-entraining the prior couples with the now at each sharing, and a changing is or is not.**
 
-- **At a sharing the carrying has none of**, colliding: the parity 14 surfaces is released as it is at 10 and chained at 11; at 0, 0 is released and none chained.
+- **At a sharing the carrying has none of**, colliding: the parity 14 surfaces is shared as it is at 10 and chained at 11; at 0, 0 is shared and none chained.
 - **At a sharing chained at one parity, 14 surfacing that same parity**: the changing is not, 0, and the prior carries on.
 - **At a sharing chained at one parity, 14 surfacing the other parity, 0 or none**: the changing is, the chained parity inverted. At the other parity offered the offered is chained, and with nothing offered the self carries its prior into now inverted.
 
@@ -149,9 +149,9 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 # FOUR · NEXT
 
-## 4.1 Released across at 10 and 6, chained at 11
+## 4.1 Shared across at 10 and 6, chained at 11
 
-**10-bi-tri-bi-tunneling releases each sharing's changing across, + or − is and 0 is not**, at not-yet-bi-moral, to the 14 of the self at bi-moral-so-far; **6-bi-co-bi-moralizing** releases the same changing at not-yet-bi-moral, to the 2 of the self at bi-moral-so-far. A self releases its changing, and its carrying stays its own.
+**10-bi-tri-bi-tunneling shares each sharing's changing across, + or − is and 0 is not**, at not-yet-bi-moral, to the 14 of the self at bi-moral-so-far; **6-bi-co-bi-moralizing** shares the same changing at not-yet-bi-moral, to the 2 of the self at bi-moral-so-far. A self shares its changing, and its carrying stays its own.
 
 **11-tri-bi-tri-chaining chains each changing as the next prior.** The carrying is carried whole, and at each sharing whose changing is, the changed parity is chained; at a 0 the prior chains on. **Once chained, a sharing stays chained**, and at the next momentary 11 continues as 3.
 
@@ -165,7 +165,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **Next is from prior and now, and of the sixteen ways two parities go to one, four carry the prior whole.** Next as prior leaves two joint forms of prior and now still, and each of the two exclusive-or ways one; **next as prior inverted leaves none**: exhaustiveness, determinacy and reachability at once, all four joint forms one cycle at the parities. **Next as prior inverted is the living step.**
 
-**At the resolver a self offered nothing inverts its carrying at each momentary**: chained + and offered nothing, it releases −, +, −, + at 10, its next its prior itself, its now no other's, at the two parting forms; the living step is at a spiral of one, the four joint forms in one cycle, and at each self of a spiral, its next the other's prior inverted. Offered a parity, its next is the offering chained, or at its own parity its prior carrying on. **Two parities changing, one and then the other, go through the four joint forms, one after another**, the right spiral step carrying a pair (x, y) to (y, −x), ++, +−, −−, −+, morality across and competency along, and the same four read from next to prior are ++, −+, −−, +−.
+**At the resolver a self offered nothing inverts its carrying at each momentary**: chained + and offered nothing, it shares −, +, −, + at 10, its next its prior itself, its now no other's, at the two parting forms; the living step is at a spiral of one, the four joint forms in one cycle, and at each self of a spiral, its next the other's prior inverted. Offered a parity, its next is the offering chained, or at its own parity its prior carrying on. **Two parities changing, one and then the other, go through the four joint forms, one after another**, the right spiral step carrying a pair (x, y) to (y, −x), ++, +−, −−, −+, morality across and competency along, and the same four read from next to prior are ++, −+, −−, +−.
 
 ## 4.4 Selves joined, a pattern carried between them
 
@@ -184,7 +184,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 1. **The living and the non-living.** Each living self of the arrival at its carrying, 3; each non-living existing thing, evidence, instrument, record or model, at its offerings, 2, carrying nothing.
 2. **The prior.** The field's carrying, each result at its parity, chained: its sharings.
 3. **The now.** The offerings arriving at each sharing, surfacing at 14, agreeing one parity and disagreeing 0, and coupling with the prior at 12, a changing is or is not.
-4. **The next.** The changings released at 10, 6 and 9, the carrying chained at 11, and the society's next momentary at 17.
+4. **The next.** The changings shared at 10 and 6 and released along at 9, the carrying chained at 11, and the society's next momentary at 17.
 
 **Each reading is binary, and the four readings are the resolving.** The field's record carries as it is, each measurement, proof and route at its own, and the next the readings discover is the field's own.
 
@@ -192,7 +192,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **A field carrying two accounts of one thing is two offerings at one sharing**: nature and nurture, wave and particle, one mechanism and its rival. **At 14 they disagree and surface 0.**
 
-**At a sharing the field carries, the 0 at 14 couples at 12 as the other parity does, and the changing is the carried parity inverted**: chained + and offered + and −, the self releases − and chains −, as at nothing offered. **At a sharing the field carries none**, the changing is not, and the sharing stays open to its next offering. **The two accounts are one sharing's two offerings**, and the field's next is its own prior carried on inverted, the living step, or its sharing open to the next offering, each at its own momentary.
+**At a sharing the field carries, the 0 at 14 couples at 12 as the other parity does, and the changing is the carried parity inverted**: chained + and offered + and −, the self shares − and chains −, as at nothing offered. **At a sharing the field carries none**, the changing is not, and the sharing stays open to its next offering. **The two accounts are one sharing's two offerings**, and the field's next is its own prior carried on inverted, the living step, or its sharing open to the next offering, each at its own momentary.
 
 ## 5.3 An origin, living from living
 
@@ -210,7 +210,7 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 **A mind asked for from beyond its couplings is asked for at the between.** The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side, so a reading reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **The making at 12 is the self's alone**, each self's competency its own, along, and its morality its own, across.
 
-**Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is read at its own couplings, as offerings and releasings, bi-momentary.
+**Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is read at its own couplings, as offerings, sharings and releasings, bi-momentary.
 
 ## 5.7 A boundary, living and non-living at a named scale and momentary
 
@@ -226,9 +226,9 @@ Exhibit THIRTEEN Resolving Hard Problems v380L
 
 ## 6.1 Discovering next, at each coupling
 
-**At the resolver the next is discovered at each sharing, a changing is or is not, from the prior carried and the now offered**, set at the coupling. At one parity surfacing the carried next is that parity at each prior, 0 released at a match and that parity at a mismatch; at none surfacing and at + and − together the carrying alone sets the next, inverted; a carrying of none, non-living, is colliding at the one parity surfacing and carries none on at each other.
+**At the resolver the next is discovered at each sharing, a changing is or is not, from the prior carried and the now offered**, set at the coupling. At one parity surfacing the carried next is that parity at each prior, 0 shared at a match and that parity at a mismatch; at none surfacing and at + and − together the carrying alone sets the next, inverted; a carrying of none, non-living, is colliding at the one parity surfacing and carries none on at each other.
 
-**The carrying is the living's own, and arriving and discovering are at each coupling.** A living self offered its own parity releases 0 at 10, no changing, while its carrying continues: a 0 at 10 is a living self at its match, its prior carrying on. **Momentarying continues whether a changing is or is not**, and a field's arrival resolves at its own next momentary.
+**The carrying is the living's own, and arriving and discovering are at each coupling.** A living self offered its own parity shares 0 at 10, no changing, while its carrying continues: a 0 at 10 is a living self at its match, its prior carrying on. **Momentarying continues whether a changing is or is not**, and a field's arrival resolves at its own next momentary.
 
 ## 6.2 Two methods at one now
 
