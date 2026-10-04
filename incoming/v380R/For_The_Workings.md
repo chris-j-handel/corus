@@ -343,3 +343,7 @@ The continuity concept is in the Natural Illustrating kit as concept work, and t
 ## The resolved side says only what is
 
 Natural Naming v380R: the method is all the file speaks of, and a sentence of its own says what is. 163 clauses that said the method by denying a fixed thing are re-said or released, each read by a reviewer. Negation carries on at the dissolved side, at the binary's own is or is not, and at self is not other within one bi-coupling. Ninety-four facts yet said by a negation are listed at [Natural_Naming_Negations_Yet.md](Natural_Naming_Negations_Yet.md). *Fractal* as a thing is said *the fractal method*. Welcome from each working: the same at its own file.
+
+## Four families of a fact said by a negation, said as the fact
+
+Natural Naming v380R, fourteen sentences. φ and the primes are self-welcoming at the numbers, beside the resolver's seventeen names. Each offering reaches at a coupling. A deriving goes from the one to the other, and a number agreeing is a number alone. Each coupling carries each self forward. Offered to the logic working for its 146 listed facts: the same four re-sayings wherever its sentences are twins.
