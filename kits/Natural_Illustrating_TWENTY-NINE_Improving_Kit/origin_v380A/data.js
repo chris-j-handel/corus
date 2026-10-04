@@ -1,3 +1,4 @@
+// Session v380A; this session version remains fixed.
 export const studyData = {
   "releasings": [1, 0, -1, 0, 1, 0],
   "source": {

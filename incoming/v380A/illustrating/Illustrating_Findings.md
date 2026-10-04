@@ -1,4 +1,6 @@
-# V381A · findings and the next illustration proposed
+# v380A · findings and the next illustration proposed
+
+**Session: v380A, fixed for this session.**
 
 **Standing of this report:** the reading and proposal before the session's “continue”. The subsequent first origin experiment and current findings are at [Origin_Study.md](Origin_Study.md); the prior proposal is preserved here.
 

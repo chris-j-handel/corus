@@ -1,8 +1,8 @@
-"""Examine V381A's proposed binary sequence and named cycles.
+"""Examine v380A's proposed binary sequence and named cycles.
 
 This instrument enumerates mathematical descriptions. It imports no
 resolver, examines no self's private carrying, and creates no illustration.
-Run from the repository root: python3 incoming/v381A/origin_pairs.py
+Run from the repository root: python3 incoming/v380A/illustrating/origin_pairs.py
 """
 from itertools import product
 

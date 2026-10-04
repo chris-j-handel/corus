@@ -886,7 +886,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Two selves, three momentaries, five parities.**
 
-| The other's carrying, prior (3), along | The other's releasing (10), across | The self's carrying, now (3), along | The self's releasing (10), across | The self's carrying, next (11), along. Two selves coupled both ways, across or along, each opening, each momentary: six forms. The fifth is the first inverted at each |
+| The other's carrying, prior (3), along | The other's releasing (10), across | The self's carrying, now (3), along | The self's releasing (10), across | The self's carrying, next (11), along. Two selves coupled both ways, across or along, each self carrying a parity, none offered from beyond the two, each opening, each momentary: six forms. The fifth is the first inverted at each |
 |---|---|---|---|---|
 | + | − | − | 0 | − |
 | + | − | + | − | − |

@@ -1,4 +1,6 @@
-# V381A · first origin study, continued
+# v380A · first origin study, continued
+
+**Session: v380A, fixed for this session.**
 
 **From:** the illustrating session, at its “continue” following the concrete origin proposal, 3 October 2026.
 **To:** Natural Illustrating 2.1–2.8; Natural Resolver's stable forms; the Co-Chaining Logic Registry 6, 20 and 34; Natural Naming 5.5 and 5.48; the Equilibria Registry 2.1–2.2.
@@ -9,7 +11,7 @@
 
 ## The study
 
-[The kit entrance](../../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/START_HERE.md) introduces the fourteen-second movie and editable source. The origin follows conceptual positions `1+, 2+, 3−, 4−, 5+, 6+`, with pairs `++ → +− → −− → −+ → ++`. It shows the inversion from 1 at 3 and from 2 at 4, and reaches the last of the four transitions at 6. The later `++` is another occurrence, not a resetting.
+[The kit entrance](../../../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/START_HERE.md) introduces the fourteen-second movie and editable source. The origin follows conceptual positions `1+, 2+, 3−, 4−, 5+, 6+`, with pairs `++ → +− → −− → −+ → ++`. It shows the inversion from 1 at 3 and from 2 at 4, and reaches the last of the four transitions at 6. The later `++` is another occurrence, not a resetting.
 
 The central self marker stays at one screen position. Its carrying is unpictured. The paired descriptions and numbered marks are external annotations of the conceptual temporal pair, not values read from the living self. The projected prior/now plane has a declared forward reading, into the plane, and follows a continuous rotation through the specified endpoints. It assigns neither temporal axis to the six-connector face's across or along.
 

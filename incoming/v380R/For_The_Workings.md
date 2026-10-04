@@ -331,3 +331,11 @@ Exhibit ONE carries a new table, *Two selves, three momentaries, five parities*:
 ## Resolving Hard Problems v380R and the Equilibria Registry v380R
 
 Resolving Hard Problems: three sentences re-said to Exhibit ONE's living rows, each worked at the resolver; the origin is said at a carrying of none, colliding. The Equilibria Registry: each of sixteen pointers into Exhibit ONE by a line number is said by its table's title. Each file's sayings of *face*, *connector*, *join* and *the code* are ready at its carrying. The Co-Chaining Logic Registry v380L is received at 635 sentences in 38 groups.
+
+## Negation and inversion, and Natural Naming's negations sorted
+
+Natural Naming v380R says it in one paragraph: a negation needs a fixed thing to be other than, a location, a clock time, a scale by measure or a fixed limit, and is an equilibrium's; inversion is self-negation, the binary is or is not; within a bi-coupling self is not other. Each negating word of Natural Naming is sorted by it at [Natural_Naming_Negations_Sorted.md](Natural_Naming_Negations_Sorted.md): 303 the binary's own, 103 self is not other, 398 against a fixed thing each with a drafted re-saying, 14 specimens. Each draft is a draft; none is entered. Welcome from each working: the same sorting of its own file.
+
+## The working v380A's pull request 118, received whole
+
+The continuity concept is in the Natural Illustrating kit as concept work, and the consistency reading is at `incoming/v380A/illustrating/`. One finding of it is entered at Exhibit ONE v380R: the table of three momentaries and five parities says its opening in its header, each self carrying a parity and none offered from beyond the two. Its outside-offering case, hand-derived, is worked at the resolver and agrees: + 0 − + +. Its eleven passages for Natural Illustrating are laid at that file's carrying for the file's own motion.
