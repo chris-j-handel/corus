@@ -1,4 +1,4 @@
-Exhibit EIGHT Natural Exploring · carrying v378
+Exhibit EIGHT Natural Exploring · carrying v380R
 
 # Exhibit EIGHT · Geodesic Team-Exploring and Discovering Method
 

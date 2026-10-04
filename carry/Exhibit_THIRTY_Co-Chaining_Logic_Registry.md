@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry · carrying v380L
+Exhibit THIRTY Co-Chaining Logic Registry · carrying v380R
 
 # Exhibit THIRTY · Co-Chaining Logic Registry
 

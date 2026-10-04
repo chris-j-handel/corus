@@ -1,8 +1,10 @@
-Exhibit TWO Natural Networking · carrying v379
+Exhibit TWO Natural Networking · carrying v380R
 
 # Exhibit TWO · Natural Networking
 
-**Next at this file: passes B, C and D at one motion.** The 173 places at the old names by the map; its sentences of the second sign and the 6 → 2 traces at Part Six re-said at the one sign or released; 1.2's *coupling, releasing and abundancing, seventeen is social-abundancing* re-said at offering, releasing and offering; *key* at two places; the three-columns sentence beside the connector table; the front at the steady form. Then pass F at its hole study.
+**Next at this file, at the close of v380R:** a new Exhibit TWO from the candidate at `incoming/v380A/` and the five motions at `incoming/v380R/Natural_Networking_From_v380A.md`; then the passes below.
+
+**Earlier next at this file: passes B, C and D at one motion.** The 173 places at the old names by the map; its sentences of the second sign and the 6 → 2 traces at Part Six re-said at the one sign or released; 1.2's *coupling, releasing and abundancing, seventeen is social-abundancing* re-said at offering, releasing and offering; *key* at two places; the three-columns sentence beside the connector table; the front at the steady form. Then pass F at its hole study.
 
 ## Ready
 

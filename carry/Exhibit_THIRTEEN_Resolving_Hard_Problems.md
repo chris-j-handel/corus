@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems · carrying v380L
+Exhibit THIRTEEN Resolving Hard Problems · carrying v380R
 
 # Exhibit THIRTEEN · Resolving Hard Problems
 

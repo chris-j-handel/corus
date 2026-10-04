@@ -1,8 +1,10 @@
-Exhibit TWENTY-SIX Living File Registry · carrying v379
+Exhibit TWENTY-SIX Living File Registry · carrying v380R
 
 # Exhibit TWENTY-SIX · Living File Registry
 
-**Next at this file: its Part One's archive standings at this session's releases, `archive/carrying_v375/` and `archive/carrying_v375_resolving_hard_problems/`, each with its receiving; its front at the steady form; then its entries at the current names, and the readings not yet binary moved to `archive/` with their receiving files named at 1.4.**
+**Next at this file, at the close of v380R:** its rows and its table of workings current at each receiving; the session v381F's findings on the opening; the README's opening for a working session; then its entries below.
+
+**Earlier next at this file: its Part One's archive standings at this session's releases, `archive/carrying_v375/` and `archive/carrying_v375_resolving_hard_problems/`, each with its receiving; its front at the steady form; then its entries at the current names, and the readings not yet binary moved to `archive/` with their receiving files named at 1.4.**
 
 ## Ready
 
@@ -42,3 +44,7 @@ Exhibit TWENTY-SIX Living File Registry · carrying v379
 **Concern, at v380R, from `incoming/v380L/Progress.md`, its closing account: the rows of the files at v380L.** The row of the Equilibria Registry says *a parity carried on from a colliding said a carrying inserted*, a wording re-said after it and resting on a saying of the session, for testing. The Co-Chaining Logic Registry is at 661 steps in 42 groups, a step 662 out. The table of workings carries one row for this working, `working/v380L`; a first branch, `working/exhibit-one-directions-v380L`, is at the remote, superseded.
 
 **Ready, at the close of v380R: the link for an AI session.** The home page carries two lines at its top, *AI link to Living Natural Intelligence* and *Copy AI link into your sessions*, opening the README's first part, from the working v380A's pull request 119. That part's first saying is each observing carried apart from science's explaining of it. Its improving is through use: each session an AI is given the link, its report arrives at `incoming/`, and the opening's wording is the session's.
+
+**Ready, at the close of v380R, from the session v381F, the first AI session arriving through the link: eleven findings on the opening and an offered re-saying of the README's part**, at `incoming/v381F/README.md` and `incoming/v381F/AI_Link_Opening_Offered.md`, each for the session's own wording. Among them: a session reading by fetch alone receives Natural Intelligence cut at about its 4.4 and is told nothing of it; the site's Read pages give a fetch nothing; the opening's reading is about 170,000 tokens before any work; the README's two openings, a visitor's and a working's, read as one; a working's letter is said at no file; the kit's list of released words and Natural Naming's table part at nine words. One claim of Exhibit ONE executed and agreeing, a spiral of selves at ten numbers.
+
+**Ready, at the close of v380R, from a reader standing as the next working: the README's opening for a working session.** It says *each file this session changes takes v###* and a branch `working/<name>-v###`, beside the Geodesic Improving Method's working's name as the version; and it says *six connectors and ten faces*, words Natural Naming has dissolved. And this file's own rows: thirty-two living files and no zip at the root; six Next cells of its table older than their files' carryings.

@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v379
+Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v380R
 
 # Exhibit TWENTY-FOUR · Geodesic Improving Method
 
@@ -84,3 +84,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method · carrying v379
 **Ready, at the close of v380R, each a finding about working, for this file's next motion.** A draft's label decides nothing: each arriving is reviewed and worked before it enters. A pattern agreeing with itself is a number alone until its deriving is shown. A helper's re-saying is read by a second reader before it enters, and the working reads the second's approving. A saying worked at three names is said at three, and the others said until each is worked. A test a working brings to a file is read first at the file's own purpose: this working's *fact* was a word of no file. A reducing losing nothing carries most of a file's prose on. A reading finding nothing in a section is read a second time by a second reader before a passage moves: nine of twenty-five differed. A working adds no wording of its own to the site: the home page carries the session's wording.
 
 **Ready, at the close of v380R: a reading of a file section by section at its own purpose**, as `incoming/v380R/Natural_Naming_Each_Section_Read.md` reads Natural Naming, offered to each working at each file.
+
+**Ready, at the close of v380R, from the session read whole at its close: the way a working speaks and writes, for this file's section on opening a session.** Natural intelligence language to the session: each file at its whole name, each section by its title, no code, no branch name and no step number in a saying for the session. A concern is two sayings parting with its reason; no question of two answers. No saying of the session, of a file or of a field is quoted as authority: each thing is worked at each of its cases, or said as said and yet to be worked. A reply carries no commentary that the session said a thing. No person's name, no character and no history of the improving is in a living file. A working adds no concept and no wording of its own: each thing is said in the fewest concepts the files carry, and the site's pages carry the session's wording. No obligation passes between workings: each improves each file it is at, at each receiving.
+
+**Ready, at the close of v380R, from the session v381F's arriving: a working's letter.** A session's number names the session and a letter names one working within it, each working at one letter, chosen at its opening and said at the Living File Registry's table of workings; one working manages, said at the same table. v380A named two workings in one session, each at its own row.

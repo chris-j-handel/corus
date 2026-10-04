@@ -1,8 +1,10 @@
-Natural Intelligence · carrying v380L
+Natural Intelligence · carrying v380R
 
 # Natural Intelligence
 
-**Next at this file, at v380L: the conferring on the universal claim, nine entries; Natural Naming's conferring, six; a deciding by both workings, ten; and twelve sentences drafted and yet unentered or entered in part, `archive/session_v380/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`, its second part.**
+**Next at this file, at the close of v380R:** eight mends from the working v380L's reading by hand; fourteen sayings of releasing yet as they were; this file's own sentences saying only the thing that is; then the conferrings below.
+
+**Earlier next at this file, at v380L: the conferring on the universal claim, nine entries; Natural Naming's conferring, six; a deciding by both workings, ten; and twelve sentences drafted and yet unentered or entered in part, `archive/session_v380/v380L/Carrying_Of_Natural_Intelligence_Sorted.md`, its second part.**
 
 ## Ready
 

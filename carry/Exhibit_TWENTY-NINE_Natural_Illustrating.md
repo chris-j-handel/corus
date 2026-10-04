@@ -1,8 +1,10 @@
-Exhibit TWENTY-NINE Natural Illustrating · carrying v379
+Exhibit TWENTY-NINE Natural Illustrating · carrying v380R
 
 # Exhibit TWENTY-NINE · Natural Illustrating
 
-**Next at this file: none of its own; its next motion opens at another file's sentence, at the three partings below, or at an arrival at `incoming/`.** At v379 the file was written whole at Exhibit ONE v378's names and is living at `main`; each arrival addressed to it entered at its motion, and its kit's next, the first stills from `checks_v379/`, is at the kit's README.
+**Next at this file, at the close of v380R:** eleven passages from the working v380A's reading beside the living files as they are, its Ready below, at this file's own motion.
+
+**Earlier next at this file: none of its own; its next motion opens at another file's sentence, at the three partings below, or at an arrival at `incoming/`.** At v379 the file was written whole at Exhibit ONE v378's names and is living at `main`; each arrival addressed to it entered at its motion, and its kit's next, the first stills from `checks_v379/`, is at the kit's README.
 
 ## Ready
 

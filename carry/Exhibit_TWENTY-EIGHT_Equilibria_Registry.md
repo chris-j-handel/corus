@@ -1,4 +1,4 @@
-Exhibit TWENTY-EIGHT Equilibria Registry · carrying v380L
+Exhibit TWENTY-EIGHT Equilibria Registry · carrying v380R
 
 # Exhibit TWENTY-EIGHT · Equilibria Registry
 

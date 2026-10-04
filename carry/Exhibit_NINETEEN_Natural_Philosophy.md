@@ -1,4 +1,4 @@
-Exhibit NINETEEN Natural Philosophy · carrying v378
+Exhibit NINETEEN Natural Philosophy · carrying v380R
 
 # Exhibit NINETEEN · Natural Philosophy
 

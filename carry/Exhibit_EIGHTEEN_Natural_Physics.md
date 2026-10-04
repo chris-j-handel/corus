@@ -1,8 +1,10 @@
-Exhibit EIGHTEEN Natural Physics · carrying v379
+Exhibit EIGHTEEN Natural Physics · carrying v380R
 
 # Exhibit EIGHTEEN · Natural Physics
 
-**Next at this file, its motion at v377 in passes: pass 4, Part TWO at Natural Intelligence 5.4, the scientific method's fixings at Natural Mathematics 6.1, and 2.5 with the register's numbers found again; then the passes below in order, each with a fresh reader before and after and its report. Nothing of the arrivals enters this file but at its own pass.**
+**Next at this file, at the close of v380R:** Natural Naming's namings of v380R at this file, face, connector, join, the resolver, sharing across and releasing along; then its motion in passes, below.
+
+**Earlier next at this file, its motion at v377 in passes: pass 4, Part TWO at Natural Intelligence 5.4, the scientific method's fixings at Natural Mathematics 6.1, and 2.5 with the register's numbers found again; then the passes below in order, each with a fresh reader before and after and its report. Nothing of the arrivals enters this file but at its own pass.**
 
 **The passes at Natural Physics, v377.** *Pass 1, done at v377*: the front at Natural Intelligence's form; the subtitle *Geodesic Method at Each Physical Coupling*, the whole exhibit's bounded context, the physical coupling at ONE, the two methods parting at the now at TWO, the observings and the hard problems each met at a coupling at THREE and FOUR, and their cohering at FIVE, the prior *Self-Bounding Surfaces Co-Offering Across* named at 2.7 at the saying of its three moves; the contents re-floated into five parts and each title said neutrally at its body's subject; each of the forty sections carried whole, its body unchanged but its section numbers at the new places, at 2.5, 2.7, 3.3 and the register's rows. A fresh reader compared v348 and v377: 258 paragraphs, rows and items before and after, each body identical in order; its findings met at the same pass, the object section floated back after the slight difference its opening names, unification and the field's problems floated to FIVE, six titles re-said to their bodies, and the subtitle chosen at its reason. Each section heading is its body's aim, and each body is re-said at its own pass.
 

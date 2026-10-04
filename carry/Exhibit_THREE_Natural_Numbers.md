@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers · carrying v380L
+Exhibit THREE Natural Numbers · carrying v380R
 
 # Exhibit THREE · Natural Numbers
 
@@ -40,3 +40,5 @@ None.
 **Concern, at v380, from `incoming/v380L/`, finding 10, for both: *advancing* at the section on the numbers up and down.** The section opens *Even returning, odd advancing, alternating parity*; Natural Naming's naming of advancing says *each step adds a next, the already-reached carrying none*, the gap exactly one at each number. The two sayings: advancing is at each number, odd and even alike, each adding a next; or advancing is the odd's and *returning* the even's. Its reason: Natural Naming's section on one sense per foundation word; it bears on the concern at Natural Naming's carrying on the changing side's word.
 
 **Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account: its mends read by one reader, and one sentence out.** This working's mends from the sixth reading and its answers to the managing working's twelve findings were read by no further reader. A sentence of the session, natural torusing one tunneling with its two ends the primes two and fifty-nine, was entered at the section on the seventeen primes at the seventeen names on the saying alone and is out; it is an offering at the carryings. The session's saying on *nought* is at Natural Naming's carrying; this file says nought at thirty-six places.
+
+**Concern, at the close of v380R, an offering of the session yet to be worked at this file: binary is even is two, the parallel across lines at each even number, and the odd alongs of three and one between two even lines.** Natural Naming says across at each even name and along at each odd, read at each of the seventeen names at the resolver; at the numbers of this file it is said and yet to be worked.

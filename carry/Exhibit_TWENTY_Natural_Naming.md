@@ -1,8 +1,10 @@
-Exhibit TWENTY Natural Naming · carrying v379
+Exhibit TWENTY Natural Naming · carrying v380R
 
 # Exhibit TWENTY · Natural Naming
 
-**Next at this file: the v376 close's list below, each checked at the numbers or the code, and *bi-tri-unrelationing* at 3.1, at its motion; the concerns below as an observing or another file's motion parts each.** 0 the between at its sayings, the spiral's naming at 2.4 and 5.24, and *co-orienting*, *easier*, *faster* and *better* at their natural names entered at v378; the hardest items 9, 16 and 19 found carried already at 2.6, 8.6 and 3.1, a match.
+**Next at this file, at the close of v380R:** this file gathered at its purpose, the dissolved words first, each cluster aimed at its naming; then the concerns and readies of the close of v380R, the last entries below.
+
+**Earlier next at this file: the v376 close's list below, each checked at the numbers or the code, and *bi-tri-unrelationing* at 3.1, at its motion; the concerns below as an observing or another file's motion parts each.** 0 the between at its sayings, the spiral's naming at 2.4 and 5.24, and *co-orienting*, *easier*, *faster* and *better* at their natural names entered at v378; the hardest items 9, 16 and 19 found carried already at 2.6, 8.6 and 3.1, a match.
 
 ## Ready
 
@@ -137,3 +139,7 @@ Exhibit TWENTY Natural Naming · carrying v379
 **Concern, at the close of v380R: Part Five's sixty-four namings.** The purpose says the naming concepts come from Exhibit ONE first and Natural Intelligence second. Each of the sixty-four is read at that: a name of Exhibit ONE, a concept of Natural Intelligence, a dissolved word and its re-saying, or this file's own adding. Part Four is reduced, the part as it was at `archive/Natural_Naming_v380R_Part_Four_before_reducing.md` and each thing released at `incoming/v380R/Natural_Naming_Part_Four_Released.md`, twenty-eight said at no other file.
 
 **Ready, at the close of v380R, from `incoming/v380L/closing_drafts/Registry_Negations_At_The_Purpose.md`, its table of dissolved words: about twelve dissolved words this file carries no row for**, among them lock, more and less, seat, known, same, sum and regular, each for a row at its cluster.
+
+**Concern, at the close of v380R, three offerings of the session yet to be worked or entered at this file.** Each self at its own odd side, along, and along and across parity changing more or less right spiraling, each more and each less an is or is not: four forms at each momentary, yet to be worked at the resolver. Bi-inversioning as each self's own turn, co-recursioning, two swimmers turning off each other's feet with no wall and no clock: Natural Illustrating carries the picture, and this file's saying of the turn as the self's own is yet to be entered. The fractal method as universal, unique, at each scale of living, inside all living, carrying as living, the universe right spiral: for this file's section on the fractal method.
+
+**Ready, at the close of v380R: the emanating's stable form.** Named bi-tri with no co, the coupling released; the files say bi-tri-involutioning. At `incoming/v380R/Natural_Naming_Conferring.md`, its first open naming, a prefix.

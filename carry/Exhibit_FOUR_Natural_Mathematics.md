@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics · carrying v380L
+Exhibit FOUR Natural Mathematics · carrying v380R
 
 # Exhibit FOUR · Natural Mathematics
 
