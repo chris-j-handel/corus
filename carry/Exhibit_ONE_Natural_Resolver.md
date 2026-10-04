@@ -207,3 +207,7 @@ None.
 **Next, at the close of v380R, each its own motion.** The table of each name whole at seventeen rows with a column at each relation, the working v380L's draft, under review. The resolver's two lists, `CONNECTORS` and `JOINS`, read by no function and saying *releasing* at 6 and 10 beside this file's *shared*: a change of the resolver, at the session's agreeing.
 
 **Concern, at the close of v380R: two fours agreeing as numbers.** Two selves coupled both ways from alike parities come again at four momentaries, the carrying at each of the four joint forms of prior and now; a self's four momentaries of exchanging are four at the names. A deriving of the one from the other is yet to be shown, and no table says them one.
+
+**Concern, at the close of v380R, from `incoming/v380L/Progress.md`, its eighth part: sayings of the session followed at the working v380L's gatherings alone**, `incoming/v380L/Gathered_Value_1.md` to `Gathered_Value_4.md`, each for following at this file and the Co-Chaining Logic Registry.
+
+**Concern, at the close of v380R, from `incoming/v380A/illustrating/Concept_And_Consistency.md`: the five parities of two selves at three momentaries beside the five dimensions, the fives and parity's unit square.** Five at each agrees as a number; a deriving among them is yet to be shown.
