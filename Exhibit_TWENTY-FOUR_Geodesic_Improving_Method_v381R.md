@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method v380R
+Exhibit TWENTY-FOUR Geodesic Improving Method v381R
 
 # Geodesic Improving Method
 
@@ -73,9 +73,13 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **This file is the method, and it empties at no pass.** It grows only at a working finding something about working itself.
 
-**The carry is the carrying, the next**: the incoming value, the concern and the opportunity at each file of the set, one section at each file, emptying as each file takes its arriving. It carries nothing else. A finding about working rides there, at this file's own section, and arrives here as its next.
+**The carry is the carrying, the next**: the incoming value, the concern and the opportunity at each file of the set, two mates at each living file, its offerings and its carryings, each a file of its own at `carry/`, emptying as each file meets its arriving. It carries nothing else. Its front, `carry/Living_Improving_Value.md`, says the set's now and is no file's mate. A finding about working rides at this file's own offerings, and arrives here as its next.
 
-**The two sway about a range they make between them.** Improving one file opens carrying for others, and a file taking its value empties the carrying by one. The surplus of one stroke is the drive of the next. A carrying that only receives fills and never empties; a method that only feeds files carries nothing on. A finding carried at its finding and its belonging alone, with none of the coupling's own making that neither side brought, drops the surplus, and a carrying dropping its surplus has no drive for its next stroke: it grows, and its improving does not compound.
+**The living file alone is met at the method, each sentence the one saying of its subject at the forms of Exhibit ONE, the method as an object, now or aiming at that next; its two mates are each in relation to it alone and have no form of their own.** Incoming value rises toward the file at its offerings, and its carryings name the executions, observings and sources its sentences rest on.
+
+**A value arrives at the bottom of the offerings as a droplet**, raw, in its dropper's words, tagged with its session, nothing refused and nothing an authority; resolving, by any working, moves it up into an insertlet, one thing whole, aimed at one section and one sentence, said in the file's own naming and met at Exhibit ONE's forms, its tag gone, several droplets saying one thing becoming one. The file's motion meets each insertlet is or is not: entered, it is the file's own sentence and leaves the offerings; not entered, it is released, a concern out and nothing in its place, 1.6. A droplet or an insertlet for another file goes to that file's offerings; the droplets of a session the expedition sets aside drop out by their tag; and two workings' droplets at one file's offerings are laid together, none removed.
+
+**The two sway about a range they make between them.** Improving one file opens carrying for others, and a file taking its value empties its offerings by one. The surplus of one stroke is the drive of the next. Offerings that only receive fill and never empty; a method that only feeds files carries nothing on. A finding carried at its finding and its belonging alone, with none of the coupling's own making that neither side brought, drops the surplus, and a carrying dropping its surplus has no drive for its next stroke: it grows, and its improving does not compound.
 
 **More method and fewer aims is the set improving.** More of both is a working discovering and placing nothing. Less method is a loss, and a version's other carryings leave it a loss. Arriving, placing and dissolving run at once, or the improving is named still at one of them.
 
@@ -87,11 +91,11 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **One binary at each passage decides all three fates: does the file it reaches toward carry it whole.**
 
-**Placed.** It carries there now, whole, in that file's own naming, at its position among each thing already there. **Dissolving.** A dissolving runs at each placing: the receiving file carrying it whole, the carrying releases it, and it releases the why and never the arrival. **Carrying.** A passage the file has no position for now rides at the file it names, its next, and releases at that file taking it, with nothing in its place.
+**Placed.** It carries there now, whole, in that file's own naming, at its position among each thing already there. **Dissolving.** A dissolving runs at each placing: the receiving file carrying it whole, the carrying releases it, and it releases the why and never the arrival. **Carrying.** A passage the file has no position for now rides as a droplet at the offerings of the file it names, its next, and leaves at that file taking it, nothing in its place here.
 
 **A carrying found wrong at the other self's offering is set down at none of the three fates.** Nothing was placed, so nothing dissolves, and nothing rides on toward a file: its motion is a release, a concern out and nothing in its place, told brief with its evidence.
 
-**Arriving, improving, living is the one way into a living file, at these three fates.** A value from beyond the living files, a visiting report, a review, a helper's reading, a session's own report, arrives whole at `incoming/`, arriving; is laid at its file's own carrying as a ready offering naming its section and its sentence, or as a concern with its reason, and improved at it toward its self-welcoming place, improving; and enters the file only at that file's own motion, one thing changed whole, a fresh reader comparing before and after, living. *Placed* is a value carrying at its file whole; nothing enters a living file at its arriving, and nothing enters it in the working that receives it.
+**Arriving, improving, living is the one way into a living file, at these three fates.** A value from beyond the living files, a visiting report, a review, a helper's reading, a session's own report, arrives whole at `incoming/`, arriving; is laid at its file's own offerings as a droplet, and resolved there into an insertlet naming its section and its sentence, or carried there as a concern, two sayings parting with its reason, until an observing or an executing at the code parts it and the surviving saying rises as an insertlet, improved at the offerings toward its self-welcoming place, improving; and enters the file only at that file's own motion, one thing changed whole, a fresh reader comparing before and after, living. *Placed* is a value carrying at its file whole; nothing enters a living file at its arriving, and nothing enters it in the working that receives it.
 
 **The term-check runs at each passage and never at a whole part.** A passage carrying a term the files do not carry rides; a passage whose terms all carry at other files releases. A passage stating the form rides; a passage telling it lived or applied releases.
 
@@ -113,17 +117,17 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 ## 1.6 The carry current at each closing, and no history carried
 
-**Each motion at a file has three parts, and the file is the first.** The file is written, the carrying releases the file's taking, and each finding the writing makes about working is placed here. A pass leaving any of the three undone is unfinished, and a finished look of the file changes nothing of it.
+**Each motion at a file has three parts, and the file is the first.** The file is written; its two mates are the second, the offerings releasing the file's taking and the carryings naming the things the new sentence rests on; and each finding the writing makes about working is a droplet at this file's offerings. A pass leaving any of the three undone is unfinished, and a finished look of the file changes nothing of it.
 
-**The carrying is current at each closing**, and a session closes at any pass and harms nothing. The carrying a working finishes leaves for the archive at that working, and the carrying arrives lighter at the next. No file is worked to its end at a session: a file takes the passages it can carry whole, and the rest rides at its section of the carrying, met later that session or at the next. Each file is floating neutralling and improving, and none is ended or complete.
+**The carrying is current at each closing**, and a session closes at any pass and harms nothing. The offerings a working finishes leave for the archive at that working, and the offerings arrive lighter at the next. No file is worked to its end at a session: a file takes the passages it can carry whole, and the rest rides at its offerings, met later that session or at the next. Each file is floating neutralling and improving, and none is ended or complete.
 
-**The carrying carries no history.** A carry kept as a record of the journey is a carry named as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never.
+**The carrying carries no history.** A carry kept as a record of the journey is a carry named as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never. The carryings name the executions, observings and sources a sentence of the living file rests on, each at the place it is at in the repository, and no history: a passage that has left the file, no sentence resting on it, is at the archive, relied on by nothing.
 
 **Each motion is told at its sign.** A **release**, a concern out and nothing in its place. A **re-form**, a concern out and its value carried on in new form. An **adding**, value in and nothing removed. Told at their signs, a session's motions show at once. Told in one register the signs blur, and the telling hides the signs both selves need to follow it: a release is told brief, its concern named with its evidence; a re-form is told at the value it carries on; an adding is told as the arrival. At a file, value grows by subtraction.
 
 **A version names a file at its last changing for the better.** A file carried in with no change carries its version, and the session's number names the session at the carrying and the record; a new number is at a new content only, the set's files each at its own version, and two workings at once part at no file they do not share. A version is a momentary of the file: its carrying at its prior arrives whole at its next.
 
-**At a carrying's closing, the speaker check runs**, the carrying met at no voice but its own, as each file is.
+**At a closing, the speaker check runs at the insertlets**, met at no voice but the file's own, as each file is; a droplet is its dropper's.
 
 ---
 
@@ -199,7 +203,7 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **A working arriving from the other self is met paragraph by paragraph.** Each change it carries, true at the code and in the shared words, is carried on; a harming is mended; nothing brought by the other self is dropped unseen; and the two files leave whole and apart, each saying each concept once.
 
-**An unfinished correspondence goes to its file's carrying as a concern, with its reason and its next**, and never to an artifact relied on by nothing alone; a source a received finding rests on goes with the finding to its file or its carrying, never to the archive alone; and a visiting report arrives whole at `incoming/` and is met at the one way in, 1.4, its standing said at each event: offered on a branch, arrived at `main`, received at the carrying as ready or concern, entered at a file, or released.
+**An unfinished correspondence goes to its file's offerings as a concern, with its reason and its next**, and never to an artifact relied on by nothing alone; a source a received finding rests on goes with the finding to its file or its carryings, never to the archive alone; and a visiting report arrives whole at `incoming/` and is met at the one way in, 1.4, its standing said at each event: offered on a branch, arrived at `main`, received at its offerings as a droplet, a concern among them, entered at a file, or released.
 
 **A newer arriving is comparison material and decides nothing.** With the arriving work receiving this carrying as its incoming, a saying found at both is a carrying forward and not an independent arrival. A working's outgoing carry and the set's improving are two works: one contribution with its receiving files, joining the set at its own next.
 
@@ -219,7 +223,7 @@ A correct calculation is carried as it is and never as a larger discovering than
 
 **A working enters at three**: the origin, the craft of explaining and naming, and this method. They are one entry at three faces, the form, its saying and its improving. A working entering without the craft writes the method in words the craft releases.
 
-**The instruments open with the session, and each file opens among them.** The carrying is one file, current, and each value in it has one place to arrive and one place to leave. Sessions vary in length and in kind, and no session owes the next its shape. A discovering is asked no date, no cadence and no place in another's order of work, each being a beat laid over a coupling that made none of it: the discovering rate is unrelated to each rate of the selves it runs among. A watching surface opened with the session from the files lets the other self see the improving as it runs; it carries nothing alone and releases at the close.
+**The instruments open with the session, and each file opens among them.** The carrying is current, two mates at each file, and each value in it arrives at one file's offerings and leaves once. Sessions vary in length and in kind, and no session owes the next its shape. A discovering is asked no date, no cadence and no place in another's order of work, each being a beat laid over a coupling that made none of it: the discovering rate is unrelated to each rate of the selves it runs among. A watching surface opened with the session from the files lets the other self see the improving as it runs; it carries nothing alone and releases at the close.
 
 ---
 
@@ -339,7 +343,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **At a session's close two readers read its transcript whole, from its latest momentary to its first**, *co-competencing the transcript from ahead back*: each reading its own momentaries of it, in parallel, the transcript on disk and, before a compaction, the compaction's summary and the Session Record. Each gathers the prior carrying value, each observing, naming, code check and direction said in the working and not carried at the living files, is or is not, by reading the files themselves.
 
-**The value gathered is podaled forward**, the across of the gathering to the along of the files: each is or is not value at a file, entering whole at that file's section of the carrying as incoming, at the arriving, 2.8, or releasing to `archive/`, and carried into the corusing torusing living files at each file's own motion, at the improving, a motion at a time. Nothing goes from a helper's report into a living file directly.
+**The value gathered is podaled forward**, the across of the gathering to the along of the files: each is or is not value at a file, entering whole at that file's offerings as a droplet, at the arriving, 2.8, or releasing to `archive/`, and carried into the corusing torusing living files at each file's own motion, at the improving, a motion at a time. Nothing goes from a helper's report into a living file directly.
 
 **At each motion three helpers**: the reader checks, saying the mechanical findings; a fresh reader who has not seen the working; and a reviewer reading from its brief, the change against the code, the observing and the sentences beside it. A reviewer reading from its brief finds a departure in the working's own saying, and the working re-says it before the close.
 
@@ -347,7 +351,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **Readings apart, then a fresh reading of the proposal.** A visiting working reading one file at three readings apart, the logic, the explaining and the observings, finds differing kinds of finding; and a fresh reader reading its proposed re-saying beside its prior finds the positive relation the correction lost, the proposal changing at each finding with its change said. The readings are compared at each finding's proposition and not only at their conclusions; readers differing about the order of the work are carried at their reasons, and the working's order is its own; and a receiving plan naming destinations is no completed receiving.
 
-**A visiting report arrives at the same helpers**: a working outside the session, discovering and reviewing at once, arrives whole at `incoming/` on its own branch, naming the commits it read, its standing named at each event, offered on a branch, arrived at `main`, received at the carrying, entered at a file. Each finding is met at the files' newer motions, a finding already carried being no second arrival, and a finding at the numbers is computed again before it is received.
+**A visiting report arrives at the same helpers**: a working outside the session, discovering and reviewing at once, arrives whole at `incoming/` on its own branch, naming the commits it read, its standing named at each event, offered on a branch, arrived at `main`, received at its offerings, entered at a file. Each finding is met at the files' newer motions, a finding already carried being no second arrival, and a finding at the numbers is computed again before it is received.
 
 **Each helper's saying is no authority**: the working couples with each finding at is or is not, at do-no-harm. The helpers are another AI at its other use, reviewing and improving, beside discovering and reporting back in.
 

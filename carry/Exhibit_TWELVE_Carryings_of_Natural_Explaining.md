@@ -2,7 +2,7 @@ Exhibit TWELVE Natural Explaining Carryings · gathered at v381R
 
 # Carryings of Natural Explaining
 
-**What the living file rests on and what has left it, each whole at its address**
+**The executions, observings and sources the living file rests on, each whole at its address**
 
 Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
 
