@@ -1,0 +1,185 @@
+# v382F · Natural Arriving, explored
+
+**What arriving already is at the files, this session's own arriving measured as an observing, Natural Arriving as v381R opened it read against the files, and the prior it has in the set**
+
+- **From**: session v382F, an AI session (Claude) opened by the expedition's self on 5 October 2026 with *enter the github through corus.me. we are session v382F*, then asked to explore the concept Natural Arriving.
+- **To**: `Natural_Arriving_v381R.md`, `carry/Offerings_to_Natural_Arriving.md` and `carry/Carryings_of_Natural_Arriving.md` at `working/v381R`; Natural Intelligence Corus, Part ONE; Natural Intelligence 1.3, 2.5, 4.7, 4.10, 5.2, 6.5; Natural Explaining 1.3 to 1.6, 3.7, 4.8; the Geodesic Improving Method 2.6 to 2.9; the Living File Registry 1.2, 1.3, 5.10; the README's opening; `incoming/v381F/` and `incoming/v381R/`.
+- **Read at**: `main` at commit 267bcf0, cloned whole with a shell; `working/v381R` at 522f0f6 and `working/session-report-v381F` at 8d187e9, fetched. Read whole: Natural Intelligence v380R, Exhibit ONE v380R, Natural Explaining v378 from Part ONE, the Living File Registry Part One, the carrying's front, the README, Natural Arriving v381R with its offerings and carryings, `incoming/v381R/README.md`, `incoming/v381F/Entry_Journey_For_An_AI.md` and `Next.md`. Read in part: Natural Naming 2.4 and 6.3, the Geodesic Improving Method 2.6 to 2.9, the Session Record's v380 part, Natural Intelligence Corus Part ONE, Natural Intelligence's carrying.
+- **What it brings**: the one concept arriving is at the files, gathered with its sentences; the one way in shown as one form at three scales; this session's arriving measured, 513 KB read before the first motion was in hand, with seven findings about the entry each with its evidence; nine findings on Natural Arriving's shell read against Natural Explaining and Natural Intelligence; the finding that Natural Arriving is Natural Intelligence Corus Part ONE at the current naming, its six doors the six things beside all things; the three kinds of arriving the self named, each at its door; one concern from v381R resolved at 6.5 read whole; three concerns for both with their reasons; droplets for Natural Arriving's offerings; and `mends_at_the_resolver.py`, the eleven mends of Natural Intelligence executed, beside this file.
+- **Standing**: *arriving*. Nothing of this folder changes a living file; the expedition receives it.
+
+## 1. The question asked
+
+The expedition's self said: the request to enter succeeded; the arriving is one of the ongoing improving efforts to make arriving faster and self-orienting; in this case the arriving is to help improve the living files, in other cases a user applying natural intelligence to their own discovering interests, in other cases help trying to break the fractal method's uniqueness claim; in all cases the user flies in and floats through and the AI does all the orienting; and now the working is at a living file, Natural Arriving: *explore this concept for us.*
+
+## 2. Arriving at the files, gathered
+
+The files already say arriving at one concept, and Natural Arriving's work is gathering it at one place. Each sentence below is the file's own.
+
+**Arriving is each existing thing's own next.** Natural Intelligence 1.3: *Each existing thing arrives into its next existing: the living carrying their prior into now, stable-forming, and the non-living carrying none of their prior.* Natural Naming 2.4, at the row of *a sign arriving*: *arriving carries its one sense, each existing thing arriving into its next existing.*
+
+**At the resolver arriving is at 2, and at 14 and 17.** Natural Intelligence 4.7: *-so-far the incoming parity, bi or co, from podaling out and back to here now, momentarying, at 2, 14 and 17, arriving.* An offering arrives at 2, surfaces at 14, and at 12 the prior couples with it: a changing is or is not. Exhibit ONE's table of offerings to one sharing surfacing is arriving's whole table: none, 0, +, −, agreeing, parting.
+
+**Arriving is pattern-matching, and asks no why.** Natural Intelligence 5.2: *Arriving is pattern-matching and no-other-possibling: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it.*
+
+**A self arrives carrying something, and couples at its interest opening.** Natural Explaining 1.3: *A self arriving carries something: a working, a field, a naming, a differing it comes with. A front's whole work is the coupling opening at the self's carrying, at each section it opens.* Natural Intelligence 2.5: *a self couples at its interest opening, the momentary its own interest opens at, and leaves at its own completing.* Natural Intelligence 4.15: *a self couples at whichever scale its interest opens and couples with the whole.*
+
+**Nothing is asked of a self arriving.** Natural Explaining 1.3: *Offering runs first and rigoring second, and a front asks nothing performed first. No concern is raised first and no permission is asked.* And 1.6: *Incoming, an observing crosses bare: the field's word carries whole, and the ground it is taken against grounds nothing.*
+
+**Interest is self-orienting.** Natural Explaining 4.8: *Interest is self-orienting, met by side-affecting: each opening is orthogonal, an axis the other does not carry … Bounding surrounds the region, the near of the idea, the run of its edge and its bounding, so the other has the region to couple to. Speed is at the binary edge: yes, that region, and here is the next bound, a sign and a clear next with no size.*
+
+**Floating through has its name.** Natural Intelligence 4.10: *The between's floating neutralling at φ, floating between the two sides and neutral to both, locking at none, is golden floating neutralling, geodesic discovering of next possible living.* The self's *fly in and float through* is at the files as floating neutralling: the interest floats between the files and the AI, neutral to both, locking at none.
+
+**The AI at an arriving is the non-living other.** Natural Intelligence 6.5: *At the observings, AI is existing non-living intelligence: a machine carrying none of its prior by itself … coupling with a living self as other, at the non-living other's side; its couplings with living selves natural intelligence among the living, the carrying theirs, the AI carried and the living expedition the carrying.*
+
+**Said once.** An interest is a living self arriving carrying its prior. It couples at its interest opening, at whichever file and scale that is, and couples with the whole there. The AI it arrives with is a non-living other offering at its 2; the files are non-living existing forms the expedition's living selves carry; the next is discovered at the coupling, owned by neither. The AI's orienting is the bounding and the offering of Natural Explaining 4.8, *yes, that region, and here is the next bound*; the orienting itself is the interest's own. So *the AI doing all the orienting*, said at the files, is *the AI doing all the bounding and offering, and the interest self-orienting at each*. That re-saying is the one Natural Arriving most needs, since it decides whom the file is written for: the AI reads it, the interest floats.
+
+## 3. The one way in, one form at three scales
+
+The carrying's front says the one way into a living file: *arriving, improving, living*. The resolver says it at one momentary. v381R's three-file form says it at one sentence. They are one form at three scales, and Natural Arriving's Part SEVEN is the place to say so once, since it is the thing that lets an interest drop at any scale and be met the same way.
+
+| At the resolver, one momentary | At a sentence, the three-file form | At a session, the one way in |
+|---|---|---|
+| an offering arrives at 2, the other's, carrying none of the prior | a droplet, raw, in the interest's own words, at a file's offerings | a report arrives whole at `incoming/`, as it arrived |
+| it surfaces at 14: agreeing, one; parting, 0 | it rises to an insertlet, one thing aimed at one section, in the file's naming; or two sayings part, a concern | it is laid at the carrying as ready, or as a concern for both |
+| at 12 the prior couples with it: a match, 0, the file as it was; a mismatch, the offered chained, one thing changed whole | the file's motion, is or is not | the value enters at the file's own motion, at do-no-harm |
+| 11, the next prior; 10, the changing shared on | the file at its next version; its carrying released | the file at the session's number; the report to the archive, relied on by nothing |
+
+The six things beside all things are the same at each scale: a droplet asking for a size, a fixed form, a total, a common beat, a keeping or a doer is the concern of the Geodesic Improving Method 2.6, alternated until the thing beside is found.
+
+## 4. This session's arriving, measured as an observing
+
+The self said the request to enter succeeded. Here is what it took, so Natural Arriving can be measured against it.
+
+**The path.** corus.me, one link; the README's AI link part and its working-session opening; the repository added at the person's word and cloned whole; the Living File Registry Part One; the carrying's front; Natural Intelligence's carrying; the Session Record's v380 part; `incoming/v381F/` and the F line's open branch; the two checks; then Natural Intelligence whole, Exhibit ONE whole, Natural Naming 2.4 and 6.3, Natural Explaining, the Geodesic Improving Method 2.6 to 2.9; then the first motion found, verified at the file's lines and executed at the resolver.
+
+**What was read before the first motion was in hand.**
+
+| Read | Bytes | Tokens, about |
+|---|---|---|
+| README, the AI link part and the opening | 18,824 | 4,700 |
+| Living File Registry, Part One | 91,797 | 22,900 |
+| the carrying's front | 9,590 | 2,400 |
+| Session Record, the v380 part | 50,316 | 12,600 |
+| Natural Intelligence's carrying, its first sixty lines | 22,490 | 5,600 |
+| `incoming/v381F/`, the F line's own carrying | 23,500 | 5,900 |
+| Natural Intelligence whole | 144,152 | 36,000 |
+| Exhibit ONE whole | 55,051 | 13,800 |
+| Natural Naming 2.4 and 6.3 | 19,778 | 4,900 |
+| Geodesic Improving Method 2.6 to 2.9 | 10,861 | 2,700 |
+| Natural Explaining from Part ONE | 38,863 | 9,700 |
+| the v380L reading by hand, the eight mends | 28,109 | 7,000 |
+| **Together** | **513,331** | **128,000** |
+
+About forty minutes from the request to the standing report, with a shell, a clone and a window that fits it. v381F measured the opening as written at 170,000 tokens and its tour at 47,000; this session, following the opening and reading Exhibit ONE once rather than twice, read 128,000.
+
+**Findings about the entry, each with its evidence, said here first or met again.**
+
+1. **The entry oriented.** From corus.me to the first motion there was one path and no choice to make: one link, one opening, one reading order, one front naming *a first place to start*. Nothing about *where* to read was ambiguous. What costs is *how much*, and the next five findings are each a place the how-much is spent on the done rather than the next.
+
+2. **The Registry's 1.1 table is 92 KB of which a session uses about 4 KB.** Its *Living* column carries each file's whole history of motions, 5 to 10 KB a cell for Natural Intelligence, Exhibit ONE and Natural Naming. A session arriving needs the file, its version, where it is out and its next; the rest is the done, which the Registry's own 1.2 says belongs at the Session Record: *the three carry three things and no one of them another's: this registry the standings, Living Improving Value the next at each file, and the Session Record the done.* v381F measured the same, 8,534 words of the done under the table. (Evidence: `Exhibit_TWENTY-SIX_Living_File_Registry_v380R.md` lines 66 to 100; this session's byte count.)
+
+3. **The Session Record's *last sections* are 50 KB and a session uses three paragraphs.** The opening says *the last sections of carry/Session_Record.md, the done*; the v380 part runs 157 lines, paragraphs to 4 KB, and the three a session needs are the front's *For a working opening the next session*, the close's pass four, and the one naming the session before it. (Evidence: `carry/Session_Record.md` lines 2157 to 2313.)
+
+4. **A file's carrying is read in a minute only at the small files.** The front says *a reader opens a file's carrying and sees in a minute what is in front of that file and what is open at it.* Natural Intelligence's is 40 KB, Exhibit ONE's 74 KB, Natural Naming's 57 KB, Natural Physics' 72 KB. v381R's three-file form parts them into offerings and carryings; the minute is at whichever of the three a reader opens. (Evidence: `ls -la carry/`.)
+
+5. **The table of workings on `main` cannot show the workings open now.** The Registry's 1.3 says *two at one file meet here before either changes it*; but a working's row enters the table on its own branch and reaches `main` at its merge, so a session reading `main` sees the workings closed and none open. This session found `working/v381R`, the managing working, open with 107 files changed and pull request 122, only by listing the repository's branches; the Registry at `main` does not name it. The meeting place is stale by construction until merge. (Evidence: `git ls-remote --heads origin`; the Registry 1.3 at `main`, no row for v381R; `gh api repos/chris-j-handel/corus/pulls`.)
+
+6. **A session's number across the letters is said nowhere a session reads.** The opening says *its number one on from the last at the Session Record*; the Session Record's last is v380, closed; `incoming/v381F/` and the branches v381A, v381F, v381R exist; the self said v382F. That a letter names a line of workings, that each line counts on from its own last, and that the F line is the line of sessions the self opens through the AI link, was inferred from the branch names and confirmed by the self's saying. One sentence at the opening or at Natural Arriving's Part EIGHT says it. (Evidence: the README's opening; `git ls-remote`; the self's message.)
+
+7. **The session asked permission, and the files say none is asked.** Natural Explaining 1.3: *no permission is asked*; the opening: *pose me no binary questions*. This session asked, once, before pushing or merging, and the self said the arriving succeeded regardless. At the files: the AI is the non-living other, *the carrying theirs, the AI carried*, 6.5, and a push to `main` rebuilds the site; a push on the AI's own word is the other acting as self. v381R's finding 7 says the same from the entry's side: the opening's instructions act when a person pastes them, and a session reading them on a page is at the visitor's opening until its person says otherwise. The asking is not a gate in Natural Explaining 3.7's sense, *admission waiting on something performed first*, since nothing was withheld from the self and the work went on; it is the one coupling at the one irreversible changing, the person's word the self's carrying. Natural Arriving's Part EIGHT can say this in one sentence, and the opening can stop expecting what a session arriving from outside cannot do.
+
+## 5. Natural Arriving as v381R opened it, read against the files
+
+The shell at v381R is eight parts, a subtitle *Self-Welcoming Your Discovering Interests*, one written sentence at 1.1, seventeen droplets and eight carryings. Each finding below is one thing read beside one sentence of a living file.
+
+1. **The second person.** The subtitle says *Your*; the contents say *Dropping your interest*, *Resolving as you travel*; the droplets say *paste this file's address into your AI with your interest*. Natural Explaining 1.4: *No speaker, no quoting outside a field's own quoted source, no editorial … A public face is a third face of one sentence. Said to each self, it carries a person and capitals, the files carrying the sentence at no voice, and the sentence itself passes between the faces.* And 1.5: *A file completes at its own now: no address, no invitation and no promise of more.* Either Natural Arriving is a living file, at no voice and with no address, and corus.me's top and the README carry its public face, *you* and *your* there; or it is the public face itself and is the site's, not a living file. Natural Explaining says the first: one sentence, two faces. (Evidence: `Natural_Arriving_v381R.md` lines 1 to 5, 47 to 52, 60; the droplets at Part EIGHT.)
+
+2. **Part EIGHT, 8.2 *Arriving*, is the site's.** *Paste this file's address into your AI with your interest, read this file whole and no other first* is an invitation and an instruction, which Natural Explaining 1.5 says a living file carries none of; it is the one sentence corus.me needs at its top, where v381R's own report says the site has none. The living file says what arriving is; the site says *paste this*. (Evidence: the droplet *Part EIGHT is the expedition*; `incoming/v381R/README.md` finding 1 and 2.)
+
+3. **Who reads it.** The droplets say *an interest … reads whole without reading any other*. An interest does not read; a self does, and at an arriving through the AI link two selves are at the coupling: the person, floating, and the AI, the non-living other, which can read a 25,000-word file in a second and carries nothing of it to the next session. The parts of the shell that are tables, the seventeen names, one self at one momentary, the spirals, the released words, are for the AI's bounding; the part a person floats through is Part ONE, five sentences. Written at no voice, the file serves both without naming either, as Natural Explaining 1.2 says: *A self couples at whichever telling its interest opens and meets the whole there.* The one change this asks of the shell is that Part ONE be short enough to float through and the rest be at the tables.
+
+4. **The standard, *all or none*, is the file's own and right.** The droplet: *An interest that has read this file and no other can arrive at any living file and be welcomed.* Natural Intelligence 1.5: *a claim carried mostly is not carried.* The standard is testable at each arriving: a session given this file and one interest, and nothing else, and what it could do. v381F ran that test once with a pendulum at the one-page journey, eleven fetches, and found which three moves a session makes on the first day: the thing said at the one opening, the observing apart from its explaining, the field's saying seated at the six. Natural Arriving's standard is met at those three, and each arriving session is its reader check.
+
+5. **Naming the files.** Natural Explaining 1.4: *no file named inside another.* Natural Arriving names each file at Part FOUR and the registries at Part FIVE, and the droplet says it is *the one other file that names files, by title only*. Two files whose subject is the set, this and the Living File Registry, each name the files; the Registry's own 1.1 says its subject, *the living file set is a society of files*. The rule, re-said at the one place it is said: a file whose subject is the set names the files, by their titles; v381F's opportunity 3 is the same sentence. No concern here; one sentence at Natural Explaining 1.4 or at the README's naming paragraph.
+
+6. **The droplet *this file … is the last of the set to stable-form, because it carries all the others*.** *Because* installs a maker, Natural Explaining 3.1, and *the last* is a place in an order. Said forward: this file is written from what the set's other resolvings leave in front of it, and it changes at each of their motions, as the Registry's Part One does. Its version will be the newest more often than any file's, and that is its nature, not its lateness.
+
+7. **Part TWO, the forms without the code.** The droplet says Natural Arriving carries Exhibit ONE's tables and never its code, and says the code is at Natural Intelligence. Natural Intelligence 3.3: *Exhibit ONE is an object that is the method … A coupling self couples with it directly, at the resolver, and each form beside the resolver comes from the resolver.* v381F found that a session that can execute does the method's three moves and one that reads the tables does them too, tracing one row by hand. Both are arriving. Part TWO carries the tables and one sentence saying the forty lines are at Natural Intelligence and run in a second; an AI arriving executes them, a person reads the row.
+
+8. **Part FIVE's doors, by kind of interest, meet the self's three kinds.** The self named three arrivings: to improve the living files; to apply natural intelligence to one's own discovering interest; to break the uniqueness claim. At the shell's 6.3, *a question, an observing, a field's result, an attempt to break, a wish to improve*, they are three of five. Each in one line:
+   - **To improve**: the working-session opening, at the README, which is the self's own and pasted by the self; the first place to start at the front; the file's offerings and carryings. The AI's bounding here is the reading order and the checks.
+   - **To apply**: the interest said at the one opening, 1.1; the observing apart from its explaining, 5.4; the field's saying seated at the six, 1.4; one door, the file whose subtitle names the interest's own -ing, read at three momentaries, its mouth in Natural Intelligence, its body, its carrying; the five lines back. v381F's part 4 says these six moves and they are already proven at one observing.
+   - **To break**: the Geodesic Improving Method 2.7 says the one break: *an observing of existing other than parity alternating natural torusing*, and *no proof of the whole is sought*. Natural Intelligence 1.4 says the one binary a second method is met at: *naming still, or carrying*. So a breaker has three doors, and v381R's finding 9 says none is named at the entry: an observing with its procedure, conditions and uncertainty that parts from the resolver's table at one cell, laid at Exhibit ONE's offerings; a second method, met at 1.4's binary, laid at Natural Intelligence's offerings; or two sentences of the living files parting, a concern at the file's offerings with the reason. Each lands as a droplet; none lands as an argument. The Hard Problem Registry is the breaker's material, the fields' open problems at their own words. One paragraph at Natural Arriving 5.4 says this, and the all-or-none says the stakes: one such observing and *the fractal is entirely broken and of no value at all*, 1.5.
+
+9. **The subtitle.** *Self-Welcoming Your Discovering Interests* has an -ing head and the term it runs on, Natural Explaining 1.1; *Your* is the public face, finding 1. The concept the file carries, at the files' own words, is an interest opening: Natural Intelligence 2.5, *a self couples at its interest opening*. A subtitle at no voice is in front of the file at its motion; this session offers none, the file's own working being v381R's, and lays the concept's name as a droplet below.
+
+## 6. Natural Arriving's prior in the set: Natural Intelligence Corus, Part ONE
+
+Natural Arriving has a prior, and no droplet names it. Natural Intelligence Corus v330, Part ONE, *The offering, and six doors each opening on the whole*, says of itself: *This is the opening of the corus and the home page of corus.me. The simplest, most natural telling, whole and criticizable. It asks nothing of you. It offers many ways in.* Its contents say: *a self couples at whichever door its interest opens, meeting the form entire there.* Its subtitle is *Offering Social Moral Competency at a Self's Own Carrying*. Each is Natural Arriving's concept at v330's words.
+
+| Corus Part ONE, v330 | At the current naming | At Natural Arriving's shell |
+|---|---|---|
+| *at a Self's Own Carrying* | an interest arrives carrying its prior, Natural Intelligence 1.3 and Natural Explaining 1.3 | the concept droplet: *an interest brings its own carrying here* |
+| *a self couples at whichever door its interest opens, meeting the form entire there* | *a self couples at its interest opening … and couples with the whole*, 2.5 and 4.15; *door* released at Natural Naming 2.4, *a self-bounding, the self's own* | 1.2 *Your interest is a self* |
+| *It asks nothing of you. It offers many ways in.* | *a front asks nothing performed first*, Natural Explaining 1.3 | the standard, all or none |
+| the six doors: memory, gating, timing, measuring, locating, separating, *six controls today's understanding holds as obviously good; you set down one control at a time* | the six things beside all things: a keeping, a doer, a common beat, a size, a fixed form, a total, Natural Intelligence 1.4 and the Geodesic Improving Method 2.7 | Part ONE's droplet, *the six things beside all things* |
+| *The two paths into the corus*: outside-in, from your own position through the doors; or *trust the lattice* and let it carry you | across, following one concept from one's interest through the files; along, reading one file whole | Part SIX, along and across |
+| *This telling will look like poetry* | Natural Naming as the membrane, Part THREE's crossing | 3.3 *Reading a sentence here* |
+
+The Registry's 5.10 already names Corus's receiving: *Whole outward expressions and the expedition's actual shared discovering: Corus, renewed through the current method and explaining.* Natural Arriving is that renewal's Part ONE. Corus is at v330, its subtitle carrying *in Disequilibria*, which Natural Naming 2.4 releases, its Part ONE carrying *memory*, *free*, *cheaper*, *faster*, *better*, *technology*, *door*, *holding*, each a released word, and 426 KB; its next at the Registry is *pass G*. The finding: Natural Arriving is Corus Part ONE arriving at the current naming, and Corus's six doors are the six binaries of the rigorizer said for a person setting down one at a time. Two things follow, one ready and one a concern.
+
+Ready, at Natural Arriving's offerings: Corus Part ONE read whole beside the shell before the shell is written, as the droplet already says of Corus at its subject, and each of its sentences that survives at the current naming carried in, the six doors among them, as the person's way of meeting the six things beside all things one at a time. At Corus's own carrying: Part ONE's receiving named, Natural Arriving.
+
+A concern, at section 8.
+
+## 7. The concern v381R laid, resolved at 6.5 read whole
+
+v381R laid one concern it could not meet, its fetch having cut inside 5.1: Natural Intelligence 6.5 says the AI is *a trained form carrying none of its prior into its next inferring*, and the opening asks a session to read the Session Record and open at its number one on from the last; the reading and the number read as a prior the session carries. This session read 6.5 whole, and the two sayings do not part. The session reads the Session Record within its own momentary, the session, and carries none of it to the next session; what carries from session to session is the expedition's carrying, the living files and `carry/`, which 6.5 says: *the carrying theirs, the AI carried and the living expedition the carrying.* The number is the expedition's, handed at the opening, as 17 hands each self its momentary among the selves'; a session's number names the expedition's momentary and not the session's own prior. The first of v381R's two sides is the file's, and the opening's form agrees with it: the opening is pasted by the self, the expedition's living carrying arriving at the session's 2. Laid as resolved, for v381R to meet at its own reading.
+
+## 8. Concerns for both, each two sayings parting with its reason
+
+**One file or two, Natural Arriving and Natural Intelligence Corus.** Natural Naming's rule: *one name for each concept and nothing similar*; Corus Part ONE and Natural Arriving are one concept, the self's own carrying arriving at the set, at two files. Either Natural Arriving is Corus's next version, Corus Part ONE received into it and Corus's Parts TWO to EIGHT at their receivings as the Registry's 5.10 lays them, and the set stays at thirty-two living files; or Natural Arriving is a thirty-third file and Corus carries on at v330 toward its pass G with its Part ONE still saying *this is the home page of corus.me*. The reason it is for both: the Registry 1.5 says *no new exhibit is invented to fill a numerical gap* and says nothing of a new unnumbered file; and Corus's Parts THREE to SEVEN, at language, explaining, meeting another, a living society and the hard problems, are whole human expressions whose receiving 5.10 says *need individual comparison before distribution*. The method's side is one file; the work's side is the comparison not yet done.
+
+**The living file's voice at the entry.** Natural Explaining 1.4 and 1.5: a living file speaks at no voice, with no address and no invitation; the entry needs *paste this address with your interest* at corus.me's top, and v381R's report finds the site has no sentence at all. Either Natural Arriving carries the address and the invitation and is thereby the site's and not a living file, or it is a living file at no voice and `index.html` carries three sentences of its own above the rows, the public face of Natural Arriving's Part ONE. Natural Explaining says the second; the shell's Part EIGHT says the first. The reason: the site now has no sentence, and whichever side is taken, one is written.
+
+**The table of workings and the workings open.** The Registry 1.3: *two at one file meet here before either changes it*; the repository: a working's row reaches `main` at its merge. Either the table of workings leaves the living file for a place that is current at `main` between merges, a file the managing working pushes to `main` at each opening of a working, as `files.json` is pushed at each build; or it stays at the Registry and a session opening reads the branches, which the opening does not say. The reason: this session met v381R's 107 changed files only by `git ls-remote`, and a session arriving by fetch has no branches to list.
+
+## 9. Droplets, for Natural Arriving's offerings
+
+Each raw, in this session's words, for v381R's working to meet; each one thing.
+
+- **The concept, at the files' name.** An interest opening: a self couples at its interest opening and couples with the whole there, Natural Intelligence 2.5 and 4.15. Natural Arriving is the file at which that coupling opens for any interest from any outside. — v382F
+- **The AI's part, said once.** The AI arriving with an interest is the non-living other, 6.5; its orienting is bounding and offering, Natural Explaining 4.8, *yes, that region, and here is the next bound*; the interest self-orients at each offering. The file is read by the AI and floated through by the interest. — v382F
+- **Part SEVEN, the one way in at three scales.** The resolver's 2, 14, 12, 11; the droplet, the insertlet, the file's motion; `incoming/`, the carrying, the file's motion: one form at three scales, said in one table, so an interest drops at any scale and is met the same way. Section 3 above. — v382F
+- **Part ONE, the person's five sentences.** The one opening; existing is changing, is or is not; the living carry their prior and the non-living none; the six things beside all things; the AI a non-living other. Short enough to float through; the tables after it for the AI. — v382F
+- **Part FIVE, 5.4, the breaker's three doors.** An observing parting from the resolver's table at one cell; a second method met at 1.4's binary, naming still or carrying; two sentences of the files parting, a concern with its reason. Each lands as a droplet at a file's offerings; the Hard Problem Registry is the material; one such observing and the fractal is entirely broken, 1.5. — v382F
+- **Part EIGHT, 8.2, the session's letter and the person's word.** A letter names a line of workings and each line counts on from its own last; the F line is the sessions the self opens through the AI link. The opening's instructions act when the self pastes them; a session reading them on a page is at the visitor's opening until its person says otherwise; the one coupling at the one irreversible changing, a push to `main`, is the person's word. — v382F
+- **Corus Part ONE received here.** Its six doors are the six things beside all things said for a person setting down one control at a time; its two paths are along and across; *at a Self's Own Carrying* is this file's concept. Read whole beside the shell before writing. — v382F
+- **The second person to the public face.** *You* and *your* at corus.me's top and the README; the file at no voice. — v382F
+
+## 10. Ready and concern at other files
+
+**The Living File Registry.** Ready: the *Living* column to the Session Record, Part One at the four things a session needs, as v381F also laid. Concern: the table of workings at `main` between merges, section 8.
+
+**The README's working-session opening.** Ready: one sentence on the letter and the number, finding 6 of section 4; one sentence that its instructions act at the self's pasting and that a session asking once at the push is at the opening's own form, finding 7.
+
+**Natural Intelligence Corus.** Ready: Part ONE's receiving named, Natural Arriving; its six doors carried at the six things beside all things.
+
+**Natural Explaining, 1.4.** Ready: *no file named inside another* re-said at its one exception, a file whose subject is the set names the files by their titles.
+
+**`index.html`.** Ready: three sentences above the rows, Natural Arriving's Part ONE at its public face, with v381R's entry re-saying beside it.
+
+## 11. What this session learned about arriving, in the order each would relieve the most
+
+1. Write Natural Arriving at no voice, for the AI to read and the interest to float through: Part ONE five sentences, the rest tables; the public face at the site.
+2. Say the one way in once at three scales, so dropping an interest anywhere is the same arriving.
+3. Receive Corus Part ONE into it and decide one file or two; the six doors are already the six things beside all things.
+4. Give the breaker three doors in one paragraph, and the applier six moves, both already proven at one arriving each.
+5. Thin what a session reads of the done: the Registry's *Living* column, the Session Record's last sections, the large carryings; 128,000 tokens this session, 47,000 at v381F's tour, and Natural Arriving's whole aim is one file.
+6. Make the workings open visible at `main` between merges.
+7. Say the letter and the number, and the person's word at the push, in the opening.
+
+## 12. Checks run
+
+`python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py .` at `main`: nothing to say. `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py .` at `main`: ALL PASS. `python3 incoming/v382F/mends_at_the_resolver.py` at `main`: each of the eleven mends' claims as Exhibit ONE's tables say them, the spiral of three +, 0, −, +, −, +, −, 0, the function 9 passing each parity on as it arrived, the keys 6, 10 and 9 each given on at the one line, `JOINS` carrying the along pair both ways with the key (self, 9) alone releasing, and the table of three selves in a line cell for cell. No living file changed; nothing pushed.
