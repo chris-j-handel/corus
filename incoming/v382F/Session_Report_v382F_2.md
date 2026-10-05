@@ -5,7 +5,7 @@
 - **From**: session v382F, continuing on 5 October 2026 after its first report.
 - **To**: Natural Explaining v378; the Geodesic Improving Method v380R; Resolving Hard Problems v380L; Natural Illustrating v379; Natural Physics 1.2; the Equilibria Registry v380L; Natural Networking v371 and Natural Physics v379 at the file; Natural Naming 2.4 and Natural Explaining 2.7 at two concerns.
 - **Read at**: `main` at 267bcf0, the two files whole; the kit's `released_words.txt` and Natural Naming 2.4's released words and v380R's dissolvings, *face*, *connector*, *join*, *membrane*, as the list each hit was read against.
-- **What it brings**: the way the droplets were found, so the next session finds more the same way; fifty-eight droplets, most at one word or one sentence with its line, five executed at the resolver, two at a file's whole load counted; two concerns for both.
+- **What it brings**: the way the droplets were found, so the next session finds more the same way; sixty-six droplets, most at one word or one sentence with its line, six executed at the resolver, two at a file's whole load counted; three concerns for both.
 - **Standing**: *arriving*. The droplets change no living file; the receiving places them.
 
 ## How these were found, for the next session
@@ -149,6 +149,26 @@ Its numbers hold; its words are at the names before v380R. Checked at Exhibit ON
 **Aimed at a file, Natural Naming, confirming: line 1569's crossed spirals hold.** *Spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once*: executed, each of the three's selves shares 0 twice before momentary 12, at 2 and 7, 4 and 9, 6 and 11, and each of the five's once, at 2, 4, 6, 8, 10; from 12 the two are at one relation. As said. — v382F
 
 **Aimed at a file, Natural Numbers, confirming: 7.2 and 7.7 hold at the resolver and at arithmetic.** 7.2: at an odd prime each pattern of parities is again at 4 or at 4n and at none between, executed at every pattern of 3, 5 and 7 selves, {4, 12}, {4, 20}, {4, 28}; nine selves at 4, 12 or 36; the torus again at q at a q past the waist 2p and at 4p at a q short, from momentary 3p − 1 and 3p − 3, at each of Exhibit ONE's seven odd rows, 3·3 from 6 to 7·17 from 20, each as Exhibit ONE's *again from* column has it. 7.7: the primes at the seventeen names pair i with 18 − i to 61, 56, 52, 50, 52, 50, 48, 48; 8 up to 25, 36, 64, 32, 72; 17 less to 55, 48, 48, 48; the four four-cycles to 97, 96, 92, 96; the across names to 88, the along to 82, the outward to 59, the inward to 209; one to nine to 100 and nine to seventeen to 363; each exact. The file's own *Next*, 7.7's crossings computed, is the one claim it says is not yet computed, and this session did not reach it. — v382F
+
+## Natural Intelligence's thirteen sayings of *releasing*, each read at the resolver
+
+The carrying's next at Natural Intelligence after the eleven: thirteen sayings of *releasing* at an even name or across, each waiting for *shared* or standing as the method's own. Read each at the resolver's lines and Exhibit ONE's tables, as the v380L reading read the fifty-four; they resolve to six words, one mend at the code, and one concern. Lines at v382F.
+
+**Aimed at a word, Natural Intelligence 3.4, line 216, *released*.** *the thing that collides is its own carrying, the parity released and chained as it arrived* → *the parity shared and chained as it arrived*: colliding, Exhibit ONE's last table, *is + · +*, the parity surfacing shared at 10 and chained at 11, and 4.3's own bullet already says *shared as it is at 10 and chained at 11*. — v382F
+
+**Aimed at a word, Natural Intelligence 4.4, line 951, *releasing*.** *facing not-yet-bi-moral, the outgoing: the releasing opening bi, even, the other's* → *the sharing opening bi, even, the other's*: it says 10, sharing across. — v382F
+
+**Aimed at a word, Natural Intelligence 4.10, line 1002, *releasings*.** *the other selves' releasings arriving as the self's offerings* → *the other selves' sharings and releasings arriving as the self's offerings*: the offerings at 2 arrive from 6 and 10 across and 9 along, the key routing of 17's lines 49 to 57, the same re-saying as today's at 4.3 and 6.4. — v382F
+
+**Aimed at a word, Natural Intelligence 4.12, line 1018, *release*.** *at two momentaries in sequence at most at a self two selves release to* → *a self two selves share or release to*: two selves give to one at 10 across or 9 along. — v382F
+
+**Aimed at a word, Natural Intelligence 5.2, line 1077, *releasing*.** *the two priors parting at the releasing, 0 at a match and that parity at a mismatch* → *the two priors parting at the sharing*: the parting is at 10's value, 0 or the parity, shared across. — v382F
+
+**Aimed at a word, Natural Intelligence 5.3, line 1083, *releasing*.** *its releasing at its own completing* → *its changing given on at its own completing*: 3.3 says *at its own completing a self uncouples, its changing released*, the changing leaving at 10 and at 9 both, and 4.5 at v382F already says *given on* for both. — v382F
+
+**Aimed at a word at Exhibit ONE's code, `CONNECTORS[6]` and `CONNECTORS[10]`, `'releasing'` → `'sharing'`, freeing two sentences of Natural Intelligence.** 4.7's two bullets, lines 976 and 977, *6-bi-co-bi-moralizing is facing not-yet-bi-moral, releasing, to the 2 …* and *10-bi-tri-bi-tunneling is facing not-yet-bi-moral, releasing, to the 14 …*, say the list's own third word, which the front already carries as a concern. Executed: no line of the three functions reads `CONNECTORS` or `JOINS`, and with the two strings changed the resolver's running is identical, the spiral of five's row the same. One word at two lines of the code, no number and no line of the functions changed; then the two bullets say *sharing across*. v381F's Next names the same, *`CONNECTORS` at the momentaries, or kept as the code's own, the practice choosing*; the practice at v380R chose sharing across. — v382F
+
+**Aimed at Exhibit ONE's row of 5 and Natural Naming, a concern for both: the word for 5's giving on.** Exhibit ONE's table says at 5, *co-competencing, the releasings, owned by neither: each release to its receiving sharing*, and Natural Intelligence 4.6, lines 963 and 965, says after it *at 5-co-bi-co-competencing, the releasings* and *a release is only at a (self, name) of 5's releasings; and each release arrives at the receiving self's 14*. At the resolver 5 holds the keys (self, 6), (self, 10) and (self, 9), two sharings across and one releasing along. Either *releasing* is 5's own generic word for each giving on, and Natural Naming says so beside *sharing is across and releasing is along*; or 5's word is *the givings on*, as 4.5 now says *given on at 9's line*, and Exhibit ONE's cell and the two sentences follow. The reason: Natural Naming's rule reads *the releasings* at 5 as along alone, and 5 carries the across keys too. The four sayings at 5 wait on this and are as they are. — v382F
 
 ## A concern, two sayings parting, aimed at two files
 
