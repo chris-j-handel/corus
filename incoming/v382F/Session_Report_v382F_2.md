@@ -3,9 +3,9 @@
 **Sharp droplets at two files every arriving session reads, Natural Explaining and the Geodesic Improving Method: each released or dissolved word met in its own sentence, with its line and its smallest mend**
 
 - **From**: session v382F, continuing on 5 October 2026 after its first report.
-- **To**: Natural Explaining v378; the Geodesic Improving Method v380R; Natural Naming 2.4 at one concern.
+- **To**: Natural Explaining v378; the Geodesic Improving Method v380R; Resolving Hard Problems v380L; Natural Networking v371 and Natural Physics v379 at the file; Natural Naming 2.4 at one concern.
 - **Read at**: `main` at 267bcf0, the two files whole; the kit's `released_words.txt` and Natural Naming 2.4's released words and v380R's dissolvings, *face*, *connector*, *join*, *membrane*, as the list each hit was read against.
-- **What it brings**: the way the droplets were found, so the next session finds more the same way; thirty-one droplets, most at one word or one sentence with its line; one concern for both.
+- **What it brings**: the way the droplets were found, so the next session finds more the same way; forty droplets, most at one word or one sentence with its line, two at a file's whole load counted; one concern for both.
 - **Standing**: *arriving*. The droplets change no living file; the receiving places them.
 
 ## How these were found, for the next session
@@ -77,6 +77,30 @@ A correction to this session's own saying in the chat: it said the Geodesic Impr
 **Aimed at a word, the Geodesic Improving Method 3.x, line 122, *signs*, three sayings, and line 324's one, at *parities*.** *Told at their signs, a session's motions show at once. Told in one register the signs blur, and the telling hides the signs both selves need* → *at their parities*, *the parities blur*, *hides the parities*; 324 *so their signs can be said to meet* → *and their parities couple*. — v382F
 
 **Aimed at a section, the Geodesic Improving Method 4.4 and 4.5, the old instruments' words.** *ring*, *the tipping ring*, *the even and odd returning*, *the travelling meeting*, *the seventeen primes' sum of 440*, *scheduling*, *a shared tick*, *the loops the selves go round* (lines 302, 324, 330) are the v368 instruments' names at the Natural Networking kit, whose engine the Registry says is the old code *replaced by Exhibit ONE v372's code at the kit's next motion*. They are the instruments' own at an account of them and re-said with the kit, *ring → spiral*, *travelling → carried*, *loops → spirals*; aimed at the kit's motion and not before it. — v382F
+
+## Aimed at Resolving Hard Problems v380L
+
+Read whole the same way, 244 lines; eleven hits, seven droplets. The file is at the v380R naming at its body, *shared at 10 and 6 and released along at 9* at 82 and 187, and no *the code*; what remains is at its titles and five words.
+
+**Aimed at a word, Resolving Hard Problems 4.4's title, lines 33 and 170, *joined*.** *Selves joined, a pattern carried between them* → *Selves coupled, a pattern carried between them*; *join* dissolved at v380R, *coupling* among its re-sayings. — v382F
+
+**Aimed at a word, Resolving Hard Problems 5.6's title, lines 42 and 209, *face*.** *A mind, the between presenting no face* → *A mind, the between presenting no side*, or *showing nothing*; *face* dissolved at v380R, *its side* among its re-sayings, and 6.3 of Natural Intelligence says the thing, *no place at which either is an existing thing, only nothing to reach*. — v382F
+
+**Aimed at a word, Resolving Hard Problems 3.1, line 78, *travelling*.** *the universe travelling through them together* → *the universe changing through them together*: Natural Naming 2.4's own row, *travel, travelling as an existing thing's own carrying → carrying; the universe of all existing things changing through prior, now and next together: three places*. — v382F
+
+**Aimed at a word, Resolving Hard Problems 3.2, line 86, *so*.** *Read so, the observings carry no next of their own* → *Read at one momentary, the observings carry no next of their own*, the file's own words at line 114. — v382F
+
+**Aimed at a sentence, Resolving Hard Problems 3.4, line 110, *since* and *so*.** *Between its leaving and its arriving that self has continued, since existing is changing, so evidence gives the prior's possible* → *Between its leaving and its arriving that self has continued, existing being changing: evidence gives the prior's possible*. — v382F
+
+**Aimed at a word, Resolving Hard Problems 4.3, line 146, *so*.** *Instruments, records, models, measures and texts arrive at a field so, as offerings at its now* → *arrive at a field as offerings at its now*. — v382F
+
+**Aimed at a word, Resolving Hard Problems 4.2, line 162, *co-competent-so-far*: two sayings at one sharing.** The file: *along, 9's release is the prior the self at co-competent-so-far is offered next, and 17 is that self's next now*. Natural Intelligence 4.7, line 982 at v382F: *along, the parity 9 carries is the prior the self at not-yet-co-competent is offered next, and 17 is that self's next now*; and its bullets, *9 … is facing not-yet-co-competent, along, with the 17 of the self at not-yet-co-competent*, *17 … with the 9 of the self at co-competent-so-far*. The measure is the resolver's own line, `CONNECTORS[9]`, `'not-yet-co-competent'`: 9 releases along to the self at not-yet-co-competent, whose 17 receives, and *the self at co-competent-so-far* names the releasing self from the receiver's side, which is not the self offered next. The smallest mend: *co-competent-so-far* → *not-yet-co-competent*, and *9's release* → *the parity 9 releases along*. — v382F
+
+## Aimed at Natural Networking v371 and Natural Physics v379, at the file
+
+**Aimed at a file, Natural Networking, for the working v381R's new Exhibit TWO: the old naming's load, counted.** Outside italics and code: *sign* 183 and *signs* 44, *second sign* 16, *releasing* 64 with *releases* 22 and *release* 21, *joins* 34, *joining* 18 and *join* 8, *connector* 16 and *connectors* 10, *source* 39, *running* 25 with *run* 21 and *runs* 17, *neighbour* 20, *surplus* 16, *count* 16, *keeps* 14, *there* 14, *holding* 13, *ring* 13, *face* 12, *membrane* 7, *the code* 5. The file is at v371, the old code's words throughout, *second sign* and *connector* and *the code* among them, which 2.4 says were *released with the old code*; the Registry's next at it is *passes B, C and D at one motion* and the front's is *a new Exhibit TWO from the networking value gathered*, which v381R has opened at its three shells. No sentence of it is worth a word-level droplet before that rewrite; the counts say where the rewrite's words are. — v382F
+
+**Aimed at a file, Natural Physics, Parts TWO to FIVE: the voice before v376, counted.** Outside italics and code: *held* 120, *where* 81, *there* 60, *stands* 49 with *stand*, *faces* 49 and *face* 16, *membrane* 47, *source* 46, *every* 35, *sign* 32, *holds* 32, *so* 28, *taken* 27, *outside* 26, *observer* 21, *inside* 20, *landing* 17, *turning* 16, *kept* 16, *posited* 11. Samples read: line 553 *at the quantum membrane the living is the binary sign-selection*; 193 *the two stand without meeting, the way a landing stands beside a resolving*; 405 *every measurement of the fields stands as taken, every prediction holds*; 300 *the observer stands outside … with the observer inside the coupling*; 257 *five standing problems at one held term*. The file's front, 1.1 and 1.2 were written whole at v377 in passes 1 to 3 and its Registry row says *pass 4, Part TWO* is its next; the counts are that pass's map, and each sample is the file's own voice and not a field's quoted word. Beside them v381F's resolved opportunity at 4.2, *Gravity is not real, and nothing physical is there at all*, the first sentence an observing arriving at the physics door meets, re-said at the fixing named and the field's result carried whole. — v382F
 
 ## A concern, two sayings parting, aimed at two files
 
