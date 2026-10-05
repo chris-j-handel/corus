@@ -2,6 +2,16 @@
 
 **The session's own carrying: what is in front, the opportunities in the order each would release the most, the explorings proposed next, and the ready offerings gathered by file. Improved at each reply; the done leaves to `Session_Report_v381F.md`. A carrying holds its next, ready and concern and nothing else.**
 
+## Aiming, reaffirmed at the chat on 5 October, adjustable
+
+**The expedition's aim this session is at.** Natural Intelligence as the most human-readable logical stable form of its title and subtitle, at the highest rigor of naming and explaining, Exhibit ONE whole inside it; the living files looping out of it and back, each at an interest; the Living File Registry as the floating neutralling table of contents of that universe of files; and any AI, with any user, able to learn the geodesic method by one tour and be of use at once, sharing freely with everyone.
+
+**The improving value sought.** Each thing found laid as one motion at one file, in the file's own voice, do-no-harm, with its evidence beside it: a quoted sentence, a number with its script, an executing at the resolver. The value is binary at each sharing, enters at the file's own motion, and the session's report is improved and never replaced.
+
+**Progress, 4 to 5 October.** The opening walked as written and its eleven findings laid; the Registry read whole and its table of contents measured, 8,534 words of the done under it and four stale cells; the set at its four tellings and its subtitles read together as the set's own contents; the relations across and along computed, the centre at the common words alone, the seventeen names at eleven files, the files pairing at subjects and not at numbers; the files' loopings counted, 38 to 3, each at its own pacing, titles looping too; the six mouths of Natural Intelligence computed and the tour built on them at 47,000 tokens against 170,000; an outside AI walked the tour and was of use to a physicist on the first day, and the parts, the five sentences and the mended paragraph came from what it could not do; the doors of nine kinds of user and the measured finding that society's door is the least open; so-far and not-yet shown at the resolver to be one overlap read from two sides; Exhibit ONE's forms at the files, where the set settles and where it does not; and six things first brought as concerns each resolved at the files when alternated, the learning laid. Two pull requests, #120 received at `main`, #121 open; twenty-five findings; seven scripts each running from the root; the ready offerings gathered by file below.
+
+**Where the exploring aims next.** The value gathered goes where v381R works, each file's carrying; the entry orienting is drafted whole so a reader at the site meets the tour, the doors and the five sentences first; and society's door, the five oldest files, is read at three momentaries so the users the expedition most wants to reach meet the current naming. The order is adjustable at each reply.
+
 ## Next
 
 The ready offerings below laid at each file's own carrying, `carry/<file>.md`, on this branch, as `incoming/README.md` invites a visitor to do, so the managing working v381R meets them where it works; then the entry orienting drafted whole for the README and the home page.
