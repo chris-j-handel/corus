@@ -8,6 +8,20 @@
 - **What it brings**: the way the droplets were found, so the next session finds more the same way; sixty-six droplets, most at one word or one sentence with its line, six executed at the resolver, two at a file's whole load counted; three concerns for both.
 - **Standing**: *arriving*. The droplets change no living file; the receiving places them.
 
+## What enters, and why each file is better for it
+
+Each droplet below is a sentence a file will carry afterwards; the line it names is only the address. Read by file, what goes in:
+
+- **Natural Intelligence** says one thing of what passes between selves, *shared across at 10 and 6, released along at 9*, at every sentence, and each can be followed to Exhibit ONE's table and found at the same column, *Shared (10)*, *released along (9)*. Eleven entered today; six more and two words at `CONNECTORS` finish it, the running proven identical.
+- **Resolving Hard Problems** sends an observing following 9 to the self the code sends it to, *the self at not-yet-co-competent*, the same self Natural Intelligence names.
+- **Natural Illustrating** draws the spiral of five at the living opening, the 0 at self 1 at the second momentary, and its kit's check confirms the drawing rather than the one before v380R.
+- **The Geodesic Improving Method** speaks the naming it asks every working to use, *shared across*, *the resolver*, and carries each prior to its next with no *so* leaving the crossing unnamed.
+- **Natural Explaining** demonstrates its own craft at each line, no *there* where it teaches a reader not to supply a location, and couples at the set's words, *the between* and *parity*, instead of standing beside them under older ones.
+- **The Equilibria Registry** meets its reader at one Exhibit ONE, *spiral*, *the six names between selves*, *the ten names of the self's own resolving*, its numbers already right at every one executed.
+- **Natural Physics 1.2** hands an observing at the physics door to Exhibit ONE's table without a translation step.
+- **Natural Naming** obeys at line 481 the rule it made, *shares at 10*, *surfaces* staying 14's.
+- **The whole set at its forms holds**: each claim with numbers at the Co-Chaining Logic Registry, Natural Numbers, Natural Naming and the Equilibria Registry runs at the resolver as written. The droplets carry the naming up to a logic that already agrees with itself; that is why nearly each is one word.
+
 ## How these were found, for the next session
 
 The kit's `released_words.txt` and Natural Naming 2.4 give the words released at the set's own voice; v380R dissolved *face*, *connector* and *join* at Natural Intelligence, Exhibit ONE and Natural Naming, and 2.4 carries *membrane* at *the between*. A scan of one file for each word outside italics and code gives the places; each place is then read in its sentence, and three kinds are passed by: a word mentioned as a word, a field's own word at the field's result, and a sense Natural Naming does not release (*left* as remaining, *complete* as a verb of completing, *tell* as a giveaway). What is left is a droplet at the degree the sentence allows: one word with its mend from 2.4's *Carried by* column, or a sentence where more than one word parts, or a file where one word is the file's own throughout and the mend is the file's motion. The scan is in `Natural_Arriving_Explored.md`'s session only as a method; the reading by hand is what made each droplet, and a next session at Natural Physics, Natural Networking or Resolving Hard Problems finds its own the same way.
