@@ -16,8 +16,8 @@ Natural Arriving is a shell at v381R; nothing has left it yet. What it will rest
 
 **The README's part *AI link to Living Natural Intelligence*** and its working-session opening, the entry as it was before this file; and the site, `index.html`, `files.json`, `build.js`.
 
-**The two entry reports**, `incoming/v381F/README.md` with `AI_Link_Opening_Offered.md`, and `incoming/v381R/README.md`: what an outside AI session meets at corus.me, each finding with its evidence.
+**The two entry reports**, `carryings/v381F/README.md` with `AI_Link_Opening_Offered.md`, and `incoming/v381R/README.md`: what an outside AI session meets at corus.me, each finding with its evidence.
 
-**The one-line arrival of the AI link**, `incoming/v380A/living_ai_link/`, where the link on the home page came from.
+**The one-line arrival of the AI link**, `carryings/v380A/living_ai_link/`, where the link on the home page came from.
 
 **Natural Intelligence Corus** at v330 and **Natural Explaining** at v378, read beside this file before it is written, for the concepts each already says once.
