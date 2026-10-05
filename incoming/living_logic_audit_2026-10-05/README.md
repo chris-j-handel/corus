@@ -25,7 +25,7 @@ The method followed is [Living Improving Value, the three-file form](https://git
 
 **Aim:** a word, Natural Naming 2.4, beside 3.1, 5.39, 5.55 and 5.62.
 
-Dissolve continues by saying the particular next: discovering next possible existing, still possibling at this non-changing completing, own next existing chaining at 11 and arriving at its next opening, or the changing offering at the other’s coupling. Next existing offering needs its side: the self’s next entry at 1 with its own prior at 3, or its changing offering at another self’s 2. Neither names the other’s carrying crossing. Natural Intelligence 4.1 gives the two next sides and 4.4 gives own chaining at shared 0 as well as at changing; Natural Naming 5.39 and 5.62 supply the opening and completing. This gathers the logical distinction behind the naming, not a universal word replacement.
+Dissolve continues by naming the particular participation: discovering next possible existing; still possibling where changing is not at 12, with 0 shared at 10 and own prior chained at 11; own next existing chained at 11 into its next opening; and changing shared at 10 as the other’s next possible offering. Own chaining and the other’s offering name two sides. The self’s next entry at 1 has its own prior at 3; its shared changing participates at another self’s 2. Natural Intelligence 4.1 gives those two sides and 4.4 gives own chaining with changing is or is not; Natural Naming 5.39 and 5.62 name the opening and completing. The particular relation supplies the explaining at each use of the word.
 
 **Evidence at the relation:**
 
@@ -33,13 +33,13 @@ Dissolve continues by saying the particular next: discovering next possible exis
 - [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/Natural_Intelligence_v380R.md), **An entry, 1-co-bi-tri-offering**, distinguishes the changing at 10, the other’s next possible offering, from own next existing chained at 11. **Shared across at 10, chained at 11** chains own prior at shared 0 and changed parity at changing.
 - The whole self’s next entry is offering at 1. The self’s own prior at 3 is distinct from the other’s offering at 2. Calling the next an offering does not make that own carrying cross.
 
-The proposal names the actual subject and momentary wherever the general verb has obscured it. Still possibling does not fix a later completing, and the self’s next existing is not restricted to a parity inversion.
+The proposal names the actual subject and momentary wherever the general verb has obscured it. At this completing, changing is or is not. At either outcome, own next is chained at 11.
 
 ## D2
 
 **Aim:** a sentence, Natural Naming **not possibly existing — binary**, 5.64, third line.
 
-None at surfacing does not establish that no offering arrived: Exhibit ONE’s Offerings to one sharing, surfacing table has both none offered and an offered 0 surfacing none. At this sentence say no offered parity surfacing, with those two arrivings kept distinct. It establishes neither no offering nor no existing thing. At an already-carried sharing, none surfacing gives own inverting at 12; still possibling at a completing instead has the offered parity agreeing with the own prior and 0 shared at 10. This joins Natural Naming 5.64 to ONE’s two tables without adding a third resolving outcome.
+Exhibit ONE’s Offerings to one sharing, surfacing table has two cases surfacing none: none offered and only 0 offered. None at 14 therefore does not establish that no offering arrived. At this sentence name none surfacing through both stated cases. Parting at 14 is the separate result where both parities are offered. At a sharing chained at one parity, none surfacing gives own inverting at 12; where the surfaced parity agrees with own prior, changing is not at 12, 0 is shared at 10 and own prior is chained at 11. The surfacing at 14 and the changing at 12 retain their particular participations.
 
 **Evidence at the relation:**
 
@@ -63,7 +63,7 @@ None at 14, parting at 14, and no changing shared at 10 retain their particular 
 
 ## Value already gathered, met rather than dropped again
 
-The current pass also followed a further coupling with an unchanged written file, and a session’s report as an offering at another session’s own coupling. These are already gathered at [Offerings to Geodesic Improving Method](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), the insertlet at 1.1 and the droplets about the session’s carrying and its report offering at the next session’s 2. [Offerings to Natural Arriving](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/carry/Offerings_to_Natural_Arriving.md) also carries the corresponding entry relations. No additional droplets for these have been appended here.
+Pass 45 also followed a further coupling with an unchanged written file, and a session’s report as an offering at another session’s own coupling. These are already gathered at [Offerings to Geodesic Improving Method](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), the insertlet at 1.1 and the droplets about the session’s carrying and its report offering at the next session’s 2. [Offerings to Natural Arriving](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/carry/Offerings_to_Natural_Arriving.md) also carries the corresponding entry relations. No additional droplets for these have been appended here.
 
 The earlier audit’s carrying-offered-across comparison is already gathered at [Offerings to Natural Explaining](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/carry/Exhibit_TWELVE_Offerings_to_Natural_Explaining.md). It is not re-offered as a new finding.
 
@@ -71,4 +71,6 @@ The earlier audit’s carrying-offered-across comparison is already gathered at 
 
 The findings follow the published binary cases as text. No resolver was executed and no private carrying was inspected. The changed repository paths are this incoming packet and the appended droplets at Natural Naming’s Offerings; the existing text of that mate is preserved.
 
-Next exploring is Natural Values, the offered changing, the coupling’s surplus and the self’s own next existing. New value discovered there can be a further raw droplet at the relevant Offerings, without converting prior audit passes.
+Pass 45’s next exploration was Natural Values, the offered changing, the coupling’s surplus and the self’s own next existing. The next offering is now at [v382A, D3](../v382A/README.md#d3).
+
+**Wording correction within v382A:** D1 now says changing is not at the completing, with its sharing and chaining explicit. D2 names none offered and 0 offered as two cases; it does not name an arriving where none was offered. Both droplets keep the surfaced result at 14 distinct from the changing at 12.
