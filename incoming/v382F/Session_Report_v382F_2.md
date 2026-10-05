@@ -5,7 +5,7 @@
 - **From**: session v382F, continuing on 5 October 2026 after its first report.
 - **To**: Natural Explaining v378; the Geodesic Improving Method v380R; Resolving Hard Problems v380L; Natural Illustrating v379; Natural Physics 1.2; the Equilibria Registry v380L; Natural Networking v371 and Natural Physics v379 at the file; Natural Naming 2.4 and Natural Explaining 2.7 at two concerns.
 - **Read at**: `main` at 267bcf0, the two files whole; the kit's `released_words.txt` and Natural Naming 2.4's released words and v380R's dissolvings, *face*, *connector*, *join*, *membrane*, as the list each hit was read against.
-- **What it brings**: the way the droplets were found, so the next session finds more the same way; fifty-five droplets, most at one word or one sentence with its line, two executed at the resolver, two at a file's whole load counted; two concerns for both.
+- **What it brings**: the way the droplets were found, so the next session finds more the same way; fifty-eight droplets, most at one word or one sentence with its line, five executed at the resolver, two at a file's whole load counted; two concerns for both.
 - **Standing**: *arriving*. The droplets change no living file; the receiving places them.
 
 ## How these were found, for the next session
@@ -141,6 +141,14 @@ Its numbers hold; its words are at the names before v380R. Checked at Exhibit ON
 **Aimed at a word, the Equilibria Registry 3.2, line 190's table, *the loop the ten are inside*.** → *the four-cycle the ten are within*: *loop* released, *inside* at *within*. — v382F
 
 **Aimed at the set, for the working v381R: living files pointing into `incoming/`, which v381R has moved to `carryings/`.** The Equilibria Registry fifteen times, the Living File Registry thirty-seven, the Geodesic Improving Method four, Natural Illustrating two; each a path a reader follows to its executions, `incoming/equilibria_registry_v377/executions/…` among them. At v381R's merge each is a broken pointer unless re-said at `carryings/`, as the v380 close corrected 406 pointers at 54 files. Counted, for the receiving. — v382F
+
+## Natural Naming's and Natural Numbers' resolver sayings, executed
+
+**Aimed at a word, Natural Naming line 481, *surfaces* at 10, twice, at *shares*.** *Offered + at each momentary, a sharing surfaces +, 0, 0, 0, 0, 0, 0 at 10 and chains + at each* and *Carrying − and offered none, it surfaces +, −, +, −, and chains the same*. The numbers hold at the resolver, +, 0, 0, 0 and +, −, +, −. The word is 14's: Exhibit ONE's tables head their columns *Surfacing (14)* and *Shared (10)*, and offered none, 14 surfaces none, its table's first row. *A sharing shares +, 0, 0, 0 at 10*; *it shares +, −, +, − at 10 and chains the same*. The file's own v380R decision, sharing is across at each even name. — v382F
+
+**Aimed at a file, Natural Naming, confirming: line 1569's crossed spirals hold.** *Spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once*: executed, each of the three's selves shares 0 twice before momentary 12, at 2 and 7, 4 and 9, 6 and 11, and each of the five's once, at 2, 4, 6, 8, 10; from 12 the two are at one relation. As said. — v382F
+
+**Aimed at a file, Natural Numbers, confirming: 7.2 and 7.7 hold at the resolver and at arithmetic.** 7.2: at an odd prime each pattern of parities is again at 4 or at 4n and at none between, executed at every pattern of 3, 5 and 7 selves, {4, 12}, {4, 20}, {4, 28}; nine selves at 4, 12 or 36; the torus again at q at a q past the waist 2p and at 4p at a q short, from momentary 3p − 1 and 3p − 3, at each of Exhibit ONE's seven odd rows, 3·3 from 6 to 7·17 from 20, each as Exhibit ONE's *again from* column has it. 7.7: the primes at the seventeen names pair i with 18 − i to 61, 56, 52, 50, 52, 50, 48, 48; 8 up to 25, 36, 64, 32, 72; 17 less to 55, 48, 48, 48; the four four-cycles to 97, 96, 92, 96; the across names to 88, the along to 82, the outward to 59, the inward to 209; one to nine to 100 and nine to seventeen to 363; each exact. The file's own *Next*, 7.7's crossings computed, is the one claim it says is not yet computed, and this session did not reach it. — v382F
 
 ## A concern, two sayings parting, aimed at two files
 
