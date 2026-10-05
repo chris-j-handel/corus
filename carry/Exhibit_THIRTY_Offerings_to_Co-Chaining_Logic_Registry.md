@@ -59,3 +59,807 @@ None.
 **Concern, at v380l, from `archive/session_v380/v380L/Chaining_A_Selfs_Changing.md`, its part on two arrivings, for both, one subject with Exhibit ONE: a self at two parities in sequence, each at its one arriving, beside one parity at a self and its arrivings surfacing as one.** This file carries the two at its step on the pair, *the self's across parity, morality, and its along parity, competency*, and says one parity at a self at each step on a sharing, steps 204, 606 and 623. The resolver's lines are one: at a parity carried, its other parity, or at one arriving alike with it, no changing; + and − together are reached at a second arriving at one sharing alone. The two sayings: each step on a self at a sharing said at two parities in sequence; or one parity at a self, as the steps say. Its reason: the first is said of two parities, each at one arriving, and the resolver's line is at one. With it, each open of this working's entry on the premise: first and second beside *none of them first*, step 117; bi, co and tri at the premise, the conferring's first open; six forward at this file's own steps, undone. — v380l
 
 **Concern, at v380l, from `incoming/v380L/`, its Progress, for both: the -ing at each saying of a living.** *Unchanged* is at seven steps of this file: at 156, 310, 311, 322 and 514 naming a fixing named still, and at 430 and 491 a parity carried on, as Exhibit ONE's row of the two along names says it. The two sayings: each saying of a living at this file at its -ing, each finite verb re-said, all or none at all; or the -ing for the changing alone, each other verb carrying its doing, as Natural Explaining says, *A verb carries the doing with no doer*. Its reason: step 557's reason is one at two reaches, and this file is binary at one of them alone. — v380l
+
+Explored_Steps_v376.md, "Competency along, and bi-co-momentarying at the crossing", steps 1–4, explored with the author at v376 and not yet entered in Exhibit THIRTY: "Inside a momentary, inside the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing. Along each line the recursioning goes forward, up the numbers and down them, both ways forward. The co-linear recursioning forward, along, is competency: each self's own, odd. Across the co-linear lines is the bi-folding's seaming, orthogonal to them." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Competency along, and bi-co-momentarying at the crossing", steps 5–8, not yet entered in THIRTY: "At each crossing the seaming goes one forward, the right spiral step, each step orthogonal to the prior. Each crossing arrives in the co-chainings, the couplings' betweens chained. The crossings together carry the bi-tri-involutioning's position, scale and orientation, inverted at once. (Unsure: how.) The crossings float and neutral, owned by neither line." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Competency along, and bi-co-momentarying at the crossing", steps 9–11, not yet entered in THIRTY: "They float and neutral on the natural torusing surface, inside the bi-tunneling. Parity changing is a tunneling offering at three faces: better, and two waiting for natural names. The term at the crossing, neither along nor across, owned by neither, floating neutralling, is bi-co-momentarying." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Left, and dying", steps 1–4, not yet entered in THIRTY: "A momentary is an opening and its completing, the smallest. Prior, now and next are three momentaries, one at a time: tri-bi-co-momentarying, the right spiral opening into each next. Taken as one object, at once, the three are a form named still, the shape of bi-tri-involutioning. The right spiral's alternating goes across its opening, arriving into each next recursioning, closing at none, at φ." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Left, and dying", steps 5–7 and the closing line, not yet entered in THIRTY: "On the left the winding closes on itself: a form named still, the living arriving at non-living, dying. Left is no moral offering; it carries a living self away from the society and nature's co-chaining, to dying. Each observing arrives one momentary at a time from the prior, and is right; a left face is the three taken at once. (Dying: a living existing thing's changing from living to non-living, an existing thing for the living.)" — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Cohering with nature", steps 1–3, not yet entered in THIRTY: "An incoming understanding arrives at the living expedition as an offering at words. It couples with the co-chaining, the expedition's prior carried: at each step a match or a mismatch, a changing is or is not. Across prior, now and next, one momentary at a time, it coheres or not: tri-bi-co-momentarying." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Cohering with nature", steps 4–6, not yet entered in THIRTY: "Cohering at each momentary, its difference crossed across (bi-, morality's), its continuing along the co-linear (co-, competency's), the crossing floating neutral: bi-moral-co-competencing. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Tri-bi-co-momentarying is the method of cohering with nature." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "The scientific method", steps 1–4, not yet entered in THIRTY: "The one method of the changing set is parity changing. The scientific method takes the observings: the same evidence, at the same now. It accounts true or false against fixings: a law, a frame, a scale named unchanged between two momentaries. A fixing named unchanged between two momentaries is two momentaries taken as one: a form named still, an equilibrium." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "The scientific method", steps 5–8, not yet entered in THIRTY: "Accounting against forms named still, it carries no changing of its own: no method of existing, and no second method beside the one. At the set's own voice it is an accounting; scientific-method is the field's own name, carried whole at the field's result. The two part at one naming, the fixings named unchanged or changing with the changing; between them a nothing, and no third. The accounting's observings, coupled with the co-chaining, cohere by tri-bi-co-momentarying: the fixings released, the observings carried at the opening sentence, a field's hard problem resolving at existing." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Society (entered at THIRTY after step 114)", the step 114 of v376 being "the self's 1 to 9 and the society's 9 to 17 overlap at 9": "17 a connector closing to 1 or opening to one more other; living society the fractal co-chaining of bi-couplings; the society the self's other at 9 to 17 and a self at 17, two faces one momentary at a time." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "The between is the crossing (settled with the author)", steps 1–3, not yet entered in THIRTY: "At a coupling are three: the self, the other, and the coupling's own changing, owned by neither. At a coupling, between the self's side and the other's, the along and the across cross, owned by neither: the between is the crossing. At the crossing is bi-co-momentarying, floating neutralling, and a parity changing alone crosses it." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "The between is the crossing (settled with the author)", steps 4–5, not yet entered in THIRTY: "The crossing is no location and no existing thing: owned by neither, it presents no face, and no magnitude crosses it. Between prior and now is a coupling too, an existing thing at now arriving from an existing thing at prior: the between of momentaries is the same crossing." — co_chaining_map_v376
+
+Explored_Steps_v376.md, "Competency naming (settled)", not yet entered in THIRTY: "the term at the crossing is bi-co-momentarying; competency the co-linear along, the self's own; morality the seaming across; social moral competency the society's." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 1 (main), a group proposal for the spine's steps 1–6 at v376's numbering, from "The universe is the changing set of all existing things, both living and non-living" to "Now is the next of prior and the prior of next". Entering: "the universe, the changing set of all existing things; the set as an existing thing; changing sequentially; momentaries; prior, now and next; each now a next and a prior." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 2 (main), steps 7–14 at v376's numbering, from "At now, the universe is all existing things at now" to "Stable-forming is bi-co, bi binary co-sequential intelligencing through the momentary of co-changing, and co-changing is co alone". Entering: "the universe at one momentary; arriving; each thing arriving; carrying; living and non-living, met at carrying; stable-forming, the living; co-changing, the non-living; bi-co and co." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 3 (main), steps 15–19 at v376's numbering, from "At prior, an existing thing arriving at now is a possible thing: capable of existing" to "Between prior and now, and between now and next, is the between: a nothing, with no third momentary". Entering: "possible thing at prior; existing thing at now; living thing at next; three places; the between." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 4 (main), steps 20–29 at v376's numbering, from "At prior, the universe is all existing things at prior" to "Overlapping and alternating, the self and the other are at two parities, the self at one and the other at the other". Entering: "the universe at prior; arriving from things; coupling; self and other; self to other; other to self; alternating; opening and completing; overlap; parity." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 5 (main), steps 30–36 at v376's numbering, from "Alternating and continuing through changing, each living thing is alternating stable-forming" to "A method carrying a not possible thing is a not possible method, and parity changing is the one possible method". Entering: "alternating stable-forming; all changing parity changing; the method, a non-living existing thing; the one method; beside all existing things; not possible thing; no other possible method." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 6 (main), steps 37–41 at v376's numbering, from "At a living thing, next arrives from prior and now" to "The same round read from next to prior is the other order, and the round forward from prior to next is right". Entering: "next from prior and now; four joint forms; the living step; the right spiral step; right, the one hand." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 7 (main), steps 42–43 at v376's numbering: "Each changing is or is not, one parity or the other, of no size" and "Each resolving is all or none at all, of no size beside another resolving". Entering: "of no size; all or none at all." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 8 (main), steps 44–54 at v376's numbering, from "With the sequence numbered, the self opens at the odd numbers and the other at the even: the self at 1, the other at 2" to "At each side, a resolving is its five from its origin, the self 1 to 5 and the other 2 to 6 ... two and a half momentaries at each side". Entering: "numbers; each side's momentary in numbers; exchanging; the four momentaries; the next scale; the podal; parity changing; parity continuing; into and out from 4; the six; each side's five." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 9 (main), steps 55–63 at v376's numbering, from "At 2, the self's completing is the other's opening" to "Natural intelligence is at each coupling of living selves, within each 1 to 9 and at each next scale". Entering: "one number, two faces; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 10 (main), steps 64–68 at v376's numbering, from "The couplings of all existing things, across and along, are a surface" to "Geodesic is an existing thing by itself, and the method is its stable form: the geodesic method". Entering: "surface; the surface dividing itself; geodesic; geodesic routing; geodesic method." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 11 (main), steps 69–76 at v376's numbering, from "The self's five from 1 to 5 are five dimensions of existing changing: 1 self, 2 not-self, 3 next, 4 surfacing, 5 offering self" to "Self and not-self are the two bi-, the differing; next, surfacing and offering self are the three co-: co-intelligencing, co-competencing and co-offering". Entering: "five dimensions; each dimension binary in two directions; two changing, three continuing; torusing and corusing; the self's corus at 4; the self's inverting, 3, 6, 5, 4; the self at three faces; two bi- and three co-." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 12 (main), steps 77–83 at v376's numbering, from "At parity, each next number is the prior two joining, 1, 1, 2, 3, 5, 8, 13: odd, odd, even, and again" to "Two rings joined across both ways at one self each come to one relation: the looping along and the crossing across are one stable form". Entering: "the prior two joining; φ; the unrelationing rate; prime; ring; two prime rings together; crossing." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 13 (main), steps 84–87 at v376's numbering, from "A non-living other carries none of prior along" to "Carried along by the self, co-competencing with a non-living other is natural intelligence among the living: non-living things are included". Entering: "the non-living at the coupling; the non-living across; the self carrying the coupling's changing; the non-living included." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 14 (main), steps 88–91 at v376's numbering, from "Arriving at the self's opening from an other's prior, each changing is an emanation of existing" to "Existing arriving at each observing is the value". Entering: "emanation; observing; proof of existing; value." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 15 (main), steps 92–94 at v376's numbering, from "Each observing arrives from prior at the one hand: right is the observings, all prior" through "A left face is an emanation of the one right spiral: position, scale and orientation inverted at once, bi-tri-involutioning" to "Natural- carries the one hand and all or none at all at each coupling". Entering: "right as the observings; bi-tri-involutioning; natural-." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 16 (main), steps 95–97 at v376's numbering, from "A proof of the whole is one saying the same at all momentaries at once" to "A proof of a form not possibly existing is a proof of no possible value". Entering: "the proof of the whole; the form still; no possible value." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 17 (main), steps 98–102 at v376's numbering, from "A hard problem is a changing named still" to "Cohering at each observing, a hard problem resolves at existing, where the value is". Entering: "the hard problem; the changing continuing; cohering or the break; the observings so far; the hard problem resolved at existing." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 18 (main), steps 103–108 at v376's numbering, from "A machine at a coupling is an existing thing" to "Which face a machine is at arrives at its observings". Entering: "the machine; the machine at carrying; the machine as a self; the machine as a non-living other; one intelligence; the face at the observings." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 19 (main), steps 109–119 at v376's numbering, from "Numbering on from 9, exchanging continues at 9–10 with 10–11 ... four momentaries, completing at 17" to "Social moral competency at each coupling of living selves, at each scale, 1 to 17 inward and outward, is natural intelligence". Entering: "9 to 17; 17; the scales in numbers; 9 to 17 as the other; society; self and society at 9; released along, arriving along; co-competencing at the society; morality across, competency along; social moral competency; the one fractal at each scale." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 20 (main), steps 120–137 at v376's numbering, from "A sharing is where two sides share a changing, and each sharing has its parity" to "Each number is at its podaling, paired with its far side at each ring it is at". Entering: "sharing; offering and carrying at a sharing; the seventeen names; the entry; surfacing at 14; changing at 12; match and mismatch; released across at 10, chained at 11; 11 as the next 3; released along at 9; the society's next momentary at 17; six connectors; three loops; entry, connectors, faces and roots; eight bi-couplings; one move at three faces; the four four-cycles; podaling at each number." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 21 (main), steps 138–148 at v376's numbering, from "Each number from nought to four hundred forty is at its prefixing: an odd number opens co, co bi co bi co, and an even number opens bi, bi co bi co bi" to "Each number from nought to four hundred forty is at its prefixing, its podaling at each ring it is at and its place in the fractal, one number at a time". Entering: "prefixing at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; the fractal through the numbers; 64 and 60 at their podaling; the last podaling and the next first; the unknown outward of the surface; nine about 64; each number nought to four hundred forty." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 22 (main), steps 149–159 at v376's numbering, from "The prior is carried across the between of momentaries as a stable form: the carried, and the between a nothing" to "A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming". Entering: "the prior carried across the between; carrying as capacity; remembering; discovering; four-momentarying; next possible existing; pattern-matching; a living self at 0; evidence; two methods; the two methods parting at the now." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 23 (main), steps 160–167 at v376's numbering, from "As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward" to "Inward and outward, each scale opens a next scale, and the fractal continues at each". Entering: "the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; continuing inward and outward." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 24 (main), steps 168–171 at v376's numbering, from "At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale" to "The stable form of the non-living emanatings of stable-forming living, the prior between momentaries, is bi-tri-volutioning". Entering: "living and non-living at a scale; harmful at its own scale; ingestible one scale inward; bi-tri-volutioning." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 25 (main), steps 172–182 at v376's numbering, from "Two offering, each its own, a term departs that neither reaches: competency, orthogonal to the surface" to "Our now is the four momentaries of exchanging at each self, each coupling and each society ... discovering next existing is the method momentarying". Entering: "competency, the term neither reaches; bi-moral co-agency; intelligence by existing; natural-bi-co-torusing; the four of social moral competency; social abundancing; collective intelligence, human and at each scale; co-independencing; living carrying non-living and possible; one form at each scale; our now." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later: the fractal method enabling itself), a proposed group with its own steps; entering: "the method at a coupling; resolving at a coupling; coupling enabling the method; uncoupling releasing the method; bi across, co along; carrying the bi-co; the carrying between momentaries; arriving with carrying; coupling again; flowing co-chaining; discovering the next possible momentary; the method inward and outward of itself; podaling inward; podaling outward; the unknown outward of the surface; self-stilling-self; the self's own stilling, and a still named by another; the fractal unrelationing method." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later), proposed steps 1–4: "A coupling is the method itself, at two existing things. At a coupling, the self's prior carried and the now offered meet, and a changing is or is not. Coupling enables the method: with no coupling the method is at no two existing things, and there is no between and no co-intelligencing. At its own completing, the self uncouples: its changing is released across and along, and its carrying is chained as its next prior." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later), proposed steps 5–8: "Released across is bi, the self's morality; carried along is co, the self's competency. Uncoupled, the self carries its bi-co into the next momentary. Between momentaries the carrying is a stable form, and nothing momentaries there. At the next momentary, the self arrives with its carrying, and its offerings are the others' releasings." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later), proposed steps 9–12: "Arriving, the self couples, and the method is enabled again. Coupling, uncoupling, carrying and arriving, momentary to next momentary, is a chain whose links are couplings and whose passing between links is the carrying. Each link is a next possible momentary discovered at a coupling, the next at no place laid before the coupling reaches it. The same enabling and releasing is at each scale: one self's 1 to 9 is one coupling and uncoupling, inward each of its names a 1 to 17 of its own, outward the whole 1 to 17 one momentary of exchanging." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later), proposed steps 13–15: "Inward, each number is at its podaling, paired with its far side at each ring: the method inward of itself. Outward, the self's podaling going up the numbers is the method outward of itself, reaching 59, the last before the surface, and opening again at 69. Sixty to sixty-eight is the method outward of itself at no coupling a self reaches, the unknown outward of the surface, each number there still at its podaling inward." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 26 (later), proposed steps 16–18: "Between momentaries the self's carrying is its stable form, the self stilling itself, and at its next arriving it couples and changes. A still named by another is an equilibrium, a form named still, not possible; a self stilling itself, at its own momentary alone, is its own stable-forming. Each coupling is at its own continuing and locks with no other coupling, at φ, and the co-chaining closes on itself at none." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 27 (later: the emanation's stable form at the numbers), a proposed group; entering: "the corus at the fold; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the emanating's own scale; 69, the right form again; the whole from the corus to 69." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 27 (later), proposed steps 1–4: "The self's own corus is at 4, and twenty up it is at 24, the fold. Either side of the fold are 23, the vertex, where the rotation's co-sharing opens outward, and 25, the centre of the face, five squared. The corus, the vertex and the centre of the face are on one line. Carried on along that line, the five outward faces carry the primes 5, 7, 11, 17 and 19, joining to 59, the seventeenth prime at 17, and 59 is the surface." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 27 (later), proposed steps 5–8: "The vertex is a position, the centre of the face a scale, and the line to the surface an orientation. Position, scale and orientation each at its own differing is bi-tri-volutioning, its three faces on one line from the corus to the surface. Outward of the surface, position, scale and orientation are inverted at once: bi-tri-involutioning, the emanating. Sixty to sixty-eight is nine numbers, four momentaries, 60 to 62 and 62 to 64 into 64, and 64 to 66 and 66 to 68 from it." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 27 (later), proposed steps 9–11: "Across 64 each number pairs with its far side, 60 with 68, 61 with 67, 62 with 66 and 63 with 65, each pair inverted about 64. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking there at none. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the emanating form outward of the surface." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 27 (later), proposed steps 12–14: "Bi-tri-involutioning is harmful to living at its own scale and not ingestible there, and sixty to sixty-eight is unknown to the living at that scale. At 69 the right form opens again, the next first podaling outward. From the corus to 59 is bi-tri-volutioning, the stable form; from 60 to 68 bi-tri-involutioning across 64, the emanating; at 69 the right form next: one fractal method, inward of the surface and outward of it." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 28 (later: twenty-four the apex), a proposed group; entering: "one to fifty-nine; the primes parting at twenty-four; the span parting at twenty-four; the fold across; the fold along; 24, the apex of the bi-folding; two leanings at one apex; the apex straddle; the corus at the apex; the self's primes behind, the society's ahead; the span ahead as the couplings among the nine behind; the bi-folding's edges; the apex behind the surface and the between past it." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 28 (later), proposed steps 1–4: "One to fifty-nine carries the seventeen primes, two to fifty-nine. At twenty-four the primes part, nine behind, two to twenty-three, and eight ahead, twenty-nine to fifty-nine. At twenty-four the span parts, twenty-four behind and thirty-six ahead, to sixty. A prime opens across, and the primes' parting, nine and eight, is a fold across." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 28 (later), proposed steps 5–8: "A span runs along, and the span's parting, twenty-four and thirty-six, two to three, is a fold along. Two folds at one number, across and along, is bi-folding, and twenty-four is its apex. The two folds lean opposite ways at the apex, the primes behind, nine to eight, and the span ahead, three to two, and the apex is neither side's. Twenty-three, the ninth prime and the going folding, is the fold across's last behind, and twenty-five, five squared, the first past the apex: twenty-three, twenty-four and twenty-five the apex straddle, the self's bi-inversioning-co-recursioning, one before the apex, the apex and one after." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 28 (later), proposed steps 9–11: "Twenty up from the self's own corus at 4 is the apex. The nine behind are the self's one to nine, primes 2 to 23 at names 1 to 9, and the eight ahead names 10 to 17, primes 29 to 59, the society's side. The couplings among the nine behind are thirty-six, the span ahead from twenty-four to sixty, six cycles of six." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 28 (later), proposed steps 12–13: "The bi-folding's edges, across and along, are the towel's edges, across at the bi-morality and along at the co-competency. One to fifty-nine bi-folds at twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four the next bi-folding, twenty-four and sixty-four forty apart." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 29 (later: one four-cycling), a proposed group; entering: "two parities at a momentary; each parity everything the other is not; two momentaries round a four-cycle; the carrying between the two; one four-cycling." Proposed steps 1–3: "A momentary is an opening and its completing, one odd and one even: two parities. At a momentary the odd is the self and the even all not-self: each parity is everything the other is not in the existing universe, with nothing third. Round a four-cycle, 1, 9, 8 and 16, the parity changes exactly twice, at 9 to 8 and at 16 to 1: two momentaries, each one odd and one even." — co_chaining_map_v376
+
+Co_Chaining_Groups_v376.md, Group 29 (later), proposed steps 4–5: "Between them, 1 to 9 and 8 to 16 are 8 up, the parity continuing, the carrying from one momentary to the next. One four-cycling is two momentaries, each with two parities, each parity everything the other is not." — co_chaining_map_v376
+
+cover_THIRTEEN.md, header and Counts: of 79 moves of Exhibit THIRTEEN v375 read against the spine THIRTY v376, 33 are CARRIED, 20 OPEN (only a step with an Unsure line carries it), 2 EXPLORED (only the explored file carries it) and 24 MISSING (no step carries it). Spine steps carrying an Unsure line at v376: 2, 14, 17, 19, 31, 32, 34, 38, 39, 43, 65, 68, 70, 72, 73, 75, 76, 80, 82, 84, 94, 127, 132, 155, 161, 172, 173, 174, 184, 190, 197, 200, 201, 212, 215, 225, 226, 227, 235, 236, 241. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 2, "The universe is one existing thing, with nothing beside or over it and no container": "nothing beside it and nothing over it"; "it is its things, one existing thing at each momentary" (§1.1); "the universe an existing thing co-sequencing" (§6.3). Spine step 2 (a set is an existing thing), with 35 (an existing thing beside all existing things is a not possible thing) carrying "nothing beside"; OPEN. 2's Unsure: "whether the universe, the set, is one of its existing things waits on a step of its own." → P-B. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 4, "Co-sequencing: existing things changing sequentially together (the title's word)": "Its existing is its things co-sequencing, momentary by momentary" (§1.1); "Co-sequencing is the two sides carrying on together" (§1.3); "co-sequence on" (§5.7). Steps 3, 4, 18 (changing sequentially; momentary by momentary; the three places together) carry the parts; the word enters only at 14 ("co-sequential", open). MISSING → P-A. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 5, "The universe's changing is parity changing": "its changing is their parity changing, one and then the other" (§1.1). Step 31 (all changing is parity changing), with 26 (alternating) carrying "one and then the other"; OPEN. 31's Unsure: "parity arrives at self and other; said here of each existing thing." → P-C. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 6, "The thesis: resolving hard problems is social moral competency discovering next living at each coupling, the abundancing at a field's coupling": "Resolving hard problems is social moral competency discovering next living at each coupling" (§1.1); "Resolving a hard problem is that abundancing at a field's coupling" (§6.3). Steps 103, 126, 179, 243 carry the parts; no step joins them. MISSING → P-D (needs P-E). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 7, "Field: a living society carrying results": "at a field's coupling" (§1.1); "A field's prior is its carrying" (§2.1); used throughout §§5–6. No step (256, the living expedition, is the nearest). MISSING → P-E1. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 8, "Every existing thing is its own stable-forming continuing": "An existing thing is its own stable-forming continuing" (§1.1). This goes against steps 12–13 (stable-forming is the living's, co-changing the non-living's). MISSING; "No step can carry this without contradicting 12–13. The fix is to reword THIRTEEN: 'A living existing thing is its own stable-forming continuing, and a non-living existing thing co-changing.'" — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 9, "The non-living's forms continue through their changing": "the non-living carrying nothing, their forms continuing through their changing" (§1.2, again §1.2 ¶2). Step 215; 255 carries it only for a file; 214 for an ingestible form. OPEN; 215's Unsure: "long; the prior between momentaries is not yet its own step…" → P-F. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 11, "The universe has no size": "no count is its size" (§1.1). Step 34 (a second method carries a size, a form still, a total, a common beat or a store), with 42 carrying "of no size" only for a changing; OPEN. 34's Unsure: "a form still enters as its own step at the proof of the whole." → P-G. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 13, "'At the code' as a ground of claims": "At the code a living self is a carrying" (§1.2); "the field's arrival is at the code" (§1.5); all of §5. No step; the Unsure lines at 82 and 84 (rings) point to "the rings at the code". MISSING → P-H. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 14, "3-self-other-sharing is the carrying, the prior": "Prior is 3-self-other-sharing, the carrying" (§1.4); "3-self-other-sharing is the carrying" (§2.1). Steps 129, 131, 136 carry the parts; no step names 3. MISSING → P-I. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 15, "2-other-self-offering is the offerings, the now; the non-living are offerings at 2": "Now is 2-other-self-offering" (§1.4); "a non-living thing is offerings at 2-other-self-offering with no carrying behind them" (§1.2, §3.4); "2-other-self-offering is the offerings" (§3.1). Steps 86, 129, 193 carry the parts; no step names 2. MISSING → P-J1, P-J2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 16, "Living and non-living part at a named scale and momentary": "Living and non-living part at a named scale and momentary" (§1.2, §5.7); "The parting is at the momentary and the scale the field names" (§5.7). Step 212; OPEN. 212's Unsure: "the saying may need its own steps once scale is fuller." → P-AI. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 20, "Bi-momentary: the self's momentary and the other's overlapping (the title's word)": "Bi-momentary is that overlapping" (§1.3); "read bi-momentary" (§2.3, §5.3, §5.4, §5.6, §6.2). No step (the explored file's "bi-co-momentarying", Comp-11, is a different concept). MISSING → P-L. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 22, "The entry at 1: carrying and offerings arrive at once; the now is the other's side": "1-self-other-offering opens co at the self" (§1.3); "The now is the other's side of the bi-momentary" (§3.1). CARRIED at 24, 25, 60, 131, 146, but "bi-momentary" depends on row 20 (P-L). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 24, "The possible at prior, the existing at now, the living at next ('next living')": "The possible is at prior, the existing at now and the living at next" (§1.4); "Competency of next living" (§6). Steps 15, 16, 17, 18; OPEN. 17's Unsure (the living thing is at next): "whether the living thing is at next or at now and next together." → P-AH. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 25, "Three binary conditions (exhaustiveness, determinacy, reachability) are existing": "Each momentary is three conditions at once, each binary" (§1.4); "exhaustiveness, determinacy and reachability at once" (§4.3). No step. MISSING → P-M1 to P-M4. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 27, "A hard problem is observings read with the universe as no existing thing": "A hard problem arrives where a field reads its observings with the universe as no existing thing" (§1.5). Step 99 gives a different saying ("a changing named still"); no step joins the two. MISSING → P-N2 (with P-N1). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 28, "Read that way, the observings carry no next and the field's accounts multiply": "the observings carry no next of their own, and the field's accounts multiply at one sharing" (§1.5). No step. MISSING → P-N2, P-Z. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 29, "Read with the universe as an existing thing, the observings are living and non-living co-sequencing": "Read with the universe an existing thing, the same observings are living and non-living existing things co-sequencing" (§1.5). Steps 2 (open), 102, 103; OPEN, as at row 2 → P-B, P-A. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 30, "Resolving is the next discovered at the sharing": "Its resolving is the next discovered there" (§1.5); "the four readings are the resolving" (§5.1). Step 43 (each resolving is all or none at all), with 196 carrying "next… discovered at a coupling"; OPEN. 43's Unsure: "discovering enters as its own step at discovering next possible existing." Steps 178 and 196 now exist, so the wait is met. → P-O. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 32, "The sharing is at 4-other-self-sharing and its parity at 7-self-other-corusing": "A sharing is where two sides share a changing, 4-other-self-sharing, and its parity is 7-self-other-corusing" (§2.1). Step 128 carries the sharing; no step names 4 or 7 as these. MISSING → P-K1, P-K2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 33, "A field's prior is its carrying of results, each a sharing chained": "the results it carries at their parities, each a sharing, the established, the measured and the proved" (§2.1). Steps 187, 193 would carry it once a field is given. MISSING → P-E2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 35, "The carrying is wound at 8, chained at 11 and continues as 3; the society is wound at 16": "8-other-self-torusing, chained at 11, continues at the next momentary as 3" (§2.2); "the society wound at 16" (§5.5). CARRIED at 136, 140; but "seam" is carried by no step; wording only. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 40, "Read at one momentary, evidence is read as the living self now; read bi-momentary, prior and now are two places": "Read at one momentary, the evidence is read as the living self now" (§2.3); "A measurement read at one momentary is read as the now" (§5.4). Only explored Sci-4 and Left-7 carry it; 185 carries it for fixings only. EXPLORED → P-N1. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 41, "Connector faces: bi-moral, not-bi-moral, not-co-competent": "facing bi-moral" (§3.1, §4.1); "at not-bi-moral" (§4.1); "facing not-co-competent" (§4.2). Steps 76, 139; OPEN. 76's Unsure: "bi-moral enters with morality at the society." Morality enters at 125 (morality across, competency along), so the wait is met. → P-AF1, P-AF2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 42, "At 14, disagreeing surfaces 0 and a 0 stays 0; none offered surfaces none": "Agreeing, one parity; disagreeing, 0; none offered, none" (§3.2); "At 14 they disagree and surface 0" (§5.2). Step 132 (14-other-social-surfacing); OPEN. 132's Unsure: "0 enters as its own step at a living self at 0." Step 182 comes after 132, and its 0 (at 10) is not the 0 at 14. → P-P1, P-P2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 46, "At a sharing chained none, the surfaced parity is the changing, a 0 is not, and the sharing stays open": "At a sharing chained none, the parity 14 surfaces is the changing" (§3.3); "At a sharing the field carries none, the changing is not" (§5.2). No step (134, match/mismatch/nothing offered, covers only chained sharings). MISSING → P-Q. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 47, "A 0 at a chained sharing inverts it as the other parity does; with two accounts, the field's next is its prior inverted": "the 0 at 14 couples at 12 as the other parity does, and the changing is the carried parity inverted" (§5.2); "14 surfacing the other parity, 0 or none" (§3.3). No step (134 names only a mismatch and nothing offered). MISSING → P-R (depends on P-P1). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 49, "The making at 12 is the self's alone, at its own face": "the making at 12 the self's alone" (§3.3, §5.6); "made at its own face at the society's momentary" (§3.3, §5.5). No step; in tension with 61 (the coupling's own changing) and with row 48 in the same paragraph. MISSING → P-S. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 51, "At a coupling with the non-living, the self's own inverting is across": "the living self's own inverting is across, its carrying continues along" (§3.4). Step 75 (the self's own inverting 3, 6, 5, 4), with 87 carrying the "along"; OPEN. 75's Unsure: "the names at 3 to 6 arrive later, with the seventeen names." → P-AJ. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 52, "A living self arises as its own carrying establishing at its first changing (the origin)": "a living self arises as its own carrying establishing" (§3.4); "Living is carrying from the first changing on" (§5.3). No step (218, dying, is the reverse). MISSING → P-T. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 58, "9 is the next prior and 17 the next now": "9 is the next prior and 17 the next now" (§4.2). Steps 112, 123 carry the parts; §1.4 of THIRTEEN names 11 "the next prior". MISSING → P-U (and settle the second "next prior"). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 59, "Of sixteen ways two parities go to one, four carry the prior whole": "of the sixteen ways two parities go to one, four carry the prior whole" (§4.3). No step; 39's Unsure (the living step) names this gap. MISSING → P-V1. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 60, "Only next as the prior inverted leaves no joint form still: the living step": "next as prior inverted leaves none… Next as prior inverted is the living step" (§4.3). Steps 39 (the living step), 40 (the right spiral step); OPEN. 39's Unsure: "the other ways a next could arrive from prior and now are not yet shown." → P-V1, P-V2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 61, "At the code, a self offered nothing is the living step (−, +, −, +)": "At the code a self offered nothing is the living step" (§4.3); origin run (§5.3). Step 134 carries the behaviour; 39 carries the name; OPEN, as at row 60 → P-V2, P-H. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 63, "Rings: an odd ring repeats at 4n and inverts at 2n; an even ring repeats at each second momentary": "at an odd ring… the ring inverted at each 2n momentaries and repeating at each 4n" (§4.4). Steps 82, 83 (a ring at an odd number of selves goes round at four times its number; two rings at distinct odd primes); no step for the even ring. OPEN; 82's Unsure: "said at the numbers from the rings at the code." → P-W, P-H. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 64, "A pattern is carried round a ring by the selves together, and a kind is read at the selves carrying it": "A ring offered nothing from beyond it carries a pattern of parities round" (§4.4); "a kind is read at the selves carrying it" (§5.7). No step (84 is the nearest, and open). MISSING → P-X1, P-X2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 65, "The changings are all that pass between selves": "the changings are all that pass" (§4.4); "a parity changing is all that crosses it" (§5.6). Step 31 (all changing is parity changing), with 60, 61 and 193 carrying that changings pass; OPEN, as at row 5 → P-C, P-AA. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 66, "A field's arrival is four binary readings at the code, and the four are the resolving": "A field's arrival is at the code in four readings… Each reading is binary, and the four readings are the resolving" (§5.1). No step; explored Coh-2 to Coh-6 are the nearest. MISSING → P-Y (needs P-H). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 67, "Two accounts of one thing are two offerings at one sharing": "A field carrying two accounts of one thing is two offerings at one sharing" (§5.2). Steps 129, 250 carry the parts; 132 (open). MISSING → P-Z (and P-P1). — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 68, "The between is neither side's: a nothing, not a location": "The between is neither side's, a nothing, not a location and not a thing" (§5.6). Steps 19 (the between, a nothing, with no third momentary), 188; OPEN. 19's Unsure: "said through a nothing and a no; a positive saying not yet found." → P-AA. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 69, "The between presents no face; a reading reaches it at none": "the nothing the couplings wind about presents no face, so a reading reaches it at none" (§5.6). Step 240 carries "invisible"; 235 carries the face; OPEN. 235's Unsure: "whether this unknown and the between's no face are one." → P-AB. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 70, "Competency is each self's own, along, and also a term that neither self reaches": "each self's competency its own, along" and "a term neither reaches alone: competency, owned by neither" (§5.6). Steps 190, 238 (competency the term neither reaches); OPEN. 190's Unsure: "competency carried along here, and competency a term neither reaches… wait on one all or none." THIRTEEN makes both moves → P-AC. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 71, "A mind is read at its own couplings, bi-momentary": "A mind is read at its own couplings, as offerings and releasings, bi-momentary" (§5.6). Steps 63 (natural intelligence at each coupling of living selves) and 240 carry the parts. MISSING → P-AD. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 73, "Two priors open two nexts from one now, and a now alone opens no next": "Two priors can open two nexts from one now, so a now alone opens no next of its own" (§6.1). Steps 37 (next arrives from prior and now) and 134 carry the parts. MISSING → P-AE. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 75, "The geodesic-method discovers next from the existing": "The geodesic-method discovers next from the existing" (§6.2). Step 184 (69 and 196 nearly carry it); OPEN. 184's Unsure: "the scientific method named a method beside the one method…" → P-AG. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 76, "The scientific method is a method: 'two methods'": "The scientific method accounts true or false against its fixings"; title "Two methods at one now" (§6.2). Step 184; goes against carried 36 (parity changing is the one possible method). OPEN; 184's Unsure as at row 75; explored Sci-3 to Sci-6 resolve it as an accounting → P-AG. — co_chaining_map_v376
+
+cover_THIRTEEN.md, table row 78, "The same evidence at the same now; a field's hard problem is its accounting read at one momentary": "The two are at the same evidence at the same now"; "a field's hard problem is that accounting read at one momentary" (§6.2). Only explored Sci-2, Sci-4, Sci-8 carry it. EXPLORED → P-N1, P-N2. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-A (after 18, the three places together): "Changing sequentially through the three places together, momentary by momentary, the existing things of the set are co-sequencing." Adding: co-sequencing. Carries row 4 and supports row 29. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-B (after 35, an existing thing beside all existing things is a not possible thing): "With no existing thing beside all existing things, the changing set is itself one of its existing things: the universe, one existing thing." Adding: the universe, one existing thing. This is where 2's wait ends. Carries rows 2 and 29. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-C (after 29, the self and the other at two parities): "Each existing thing at now being at a coupling, each existing thing is at one parity or the other." Adding: parity at each existing thing. This ends 31's wait. Carries rows 5 and 65. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-D (after 243, abundancing made at each coupling, and after P-E1): "Social moral competency discovering next living at a field's coupling, its abundancing made there, is a hard problem resolving at existing." Adding: resolving hard problems. Carries row 6. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-E1 (after 256, the living expedition): "A living society at a named scale, carrying sharings chained at their parities as its prior, is a field." Adding: field. Carries row 7. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-E2 (after P-E1): "A field's results, the established, the measured and the proved, are its sharings chained: the field's carrying." Adding: a field's results. Carries row 33. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-F (after 214, the ingestible form; this replaces 215's Unsure): "Carrying none of the prior, an emanation continues as a stable form through its changing, co-changing with the existing things at now." Adding: the non-living's stable form. Carries row 9. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-G (after P-B): "The universe, one existing thing, is of no size: a size of it is beside all existing things, not possible." Adding: the universe of no size. Carries row 11. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-H (after 264, the last step): "The seventeen names illustrated moving, each self at its sharings and each sharing at its parity, is the code." Adding: the code. Carries row 13 and supports rows 61, 63, 66 and every "at the code". — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-I (after 131, the entry at 1): "3-self-other-sharing is the carrying: each sharing chained at its parity, the self's prior, arriving at the entry." Adding: the carrying at 3. Carries row 14. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-J1 (after P-I): "2-other-self-offering is the offerings: each sharing with its parity offered now, the others' releasings." Adding: the offerings at 2. P-J2 (after P-J1): "A non-living other at the names is offerings at 2, carrying none of the prior." Adding: the non-living at 2. Both carry row 15. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-K1 / P-K2 (after 128, the sharing): "4-other-self-sharing is the sharing." / "7-self-other-corusing is its parity, + or −." Carry row 32. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-L (after 58, along and across): "The self's momentary and the other's, overlapping at each number, one odd and one even at once, are bi-momentary." Adding: bi-momentary. Carries row 20 and supports rows 22, 40, 71 and 78. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-M1 to P-M4 (after 58): "At each momentary all existing things are at it, none beside: exhaustiveness." "At each number one next momentary opens at the number each completes: determinacy." "The next openings reach each number on, none passed: reachability." "Exhaustiveness, determinacy and reachability, each binary, at once at each momentary, are existing." They carry row 25 and support row 60. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-N1 (after 185, the fixing named unchanged; generalising explored Sci-4): "An observing read at one momentary, its prior and its now taken as one, is a form named still." Adding: reading at one momentary. Carries rows 40 and 78. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-N2 (after 99, a hard problem is a changing named still, and P-N1): "A field reading its observings at one momentary, the universe as no existing thing, names its changing still, its observings carrying no next of their own: a hard problem." Adding: the hard problem at a field. Carries rows 27 and 28. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-O (after 196, the next at no place laid before the coupling reaches it; or strike 43's Unsure, since its wait is met at 178 and 196): "A next discovered at a self's coupling, from its prior carried and the now arriving, is its resolving." Carries row 30. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-P1 (after 131, before 132, 14-other-social-surfacing): "At a sharing offered both parities, one parting from the other, the sharing surfaces 0." Adding: 0 at a sharing. This ends 132's wait; carries rows 42 and 67. P-P2 (after P-P1): "At a sharing offered no parity, the sharing surfaces none." Adding: none at a sharing; carries row 42. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-Q (after 134, match, mismatch and nothing offered): "At a sharing chained none, the parity surfaced is the changing and is chained; 0 or none surfaced, the changing is not, and the sharing is open." Adding: the sharing chained none. Carries row 46. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-R (after P-Q): "At a sharing chained at one parity, 0 surfaced couples as the other parity does: the chained parity inverted." Adding: 0 at a chained sharing. Carries row 47. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-S (after 133, 12-other-social-self-abundancing): "The coupling's own changing is made at 12 at each self's own face, at the society's momentary: the making the self's alone." Adding: the self's making at 12. Carries row 49. "The author should first rule on the tension with 61" (the coupling's own changing). — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-T (after 218, dying): "An existing thing carrying none of prior, arriving with its first changing chained, carries prior from that changing on: a living self arising." Adding: arising. Carries row 52. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-U (after 123, the self's changing released along at 9 and arriving at 17): "Along, the changing released at 9 is the next prior offered, and 17 the next now." Adding: 9 and 17 as next prior and next now. Carries row 58. "Settle which of 11 and 9 THIRTEEN calls 'the next prior'." — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-V1 (after 38, the four joint forms): "Two parities going to one parity are sixteen ways, and four of them carry the prior whole." Adding: sixteen ways. Carries row 59. P-V2 (after 39, the living step): "Of the four carrying the prior whole, next as the prior inverted alone leaves no joint form still, all four round in one cycle." Adding: the living step alone. This ends 39's wait; carries rows 60 and 61. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-W (after 82, a ring at distinct odd primes): "A ring at an even number of selves, one self offered once, alternates and repeats at each second momentary." Adding: the even ring. Part of row 63. "82's own Unsure asks that rings be said without 'the code', which comes later." — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-X1 (after 84, a non-living other carries none of prior along): "A ring offered nothing from outward of it carries its parities round, one self along at each momentary: a pattern, carried by its selves together." Adding: pattern. P-X2 (after 212, living and non-living at a named scale): "A kind is a pattern carried by selves together, read at the selves carrying it." Adding: kind. Both carry row 64. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-Y (after P-H and P-E1): "A field's arrival read at the code is four readings, each binary: living or non-living, the prior, the now and the next, the four together its resolving." Adding: the four readings. Carries row 66. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-Z (after 251, an offering at words): "Two accounts of one observing, each an offering at words, are two offerings at one sharing." Adding: two accounts. Carries rows 67 and 28. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AA (after 188): "At a coupling the between is neither side's, and a parity changing is all that crosses it." Adding: the between neither side's. This gives 19 (the between, a nothing) its positive saying. Carries rows 68 and 65. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AB (after 240, natural intelligence invisible at the between): "Invisible at the between, natural intelligence presents no face: a reading reaches it at none." Adding: no face. Carries row 69. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AC (after 238, competency the term neither reaches; the author picks the all or none): "Each self's competency, carried along, is at a coupling of two selves the term departing that neither reaches: one competency at two faces." Adding: one competency at two faces. This ends 190's wait. Carries row 70. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AD (after 240 and P-L): "A mind is natural intelligence at a living self's couplings, read at its offerings and releasings, bi-momentary." Adding: mind. Carries row 71. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AE (after 187): "One now offered at two priors discovers two nexts: a now alone discovers no next." Adding: the now alone. Carries row 73. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AF1 (after 125, morality across and competency along): "Morality across is bi-moral, and competency along co-competent." P-AF2 (after 139, six connectors each face one way): "Across, a connector faces the self at bi-moral or at not-bi-moral; along, the self at co-competent or at not-co-competent." P-AF1 and P-AF2 end 76's wait and carry row 41. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AG (enter explored Sci-3 to Sci-6 after 185, then restate 184, the scientific method): "Accounting against forms named still, the scientific method carries no changing of its own: an accounting, no second method beside the one." Carries rows 75 and 76. "THIRTEEN's §6.2 title 'Two methods at one now' then goes against carried 36, and the file should say 'the method and an accounting'." — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AH (for 17, the living thing is at next): the author rules on "at next" against "at now and next". Suggested: "Carrying its prior at now into next, a living thing is at next, its now the next's prior." Carries row 24. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AI (after 212): "Named at one scale and one momentary, each existing thing carries prior there or none of it: living and non-living part at the naming." Carries row 16. — co_chaining_map_v376
+
+cover_THIRTEEN.md, Proposed steps, P-AJ (after 130, 17-social-self-offering): "At the names, the self's own inverting 3, 6, 5, 4 is across, its carrying along." This ends 75's wait. Carries row 51. — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Most carrying per step", 1–4: "P-H (the code) with P-I and P-J (the names 3 and 2): carries #13, #14, #15 and #66, supports #61 and #63, and grounds every 'at the code' sentence in §1.2–§6.3. P-E1 (field) with P-D: carries #6, #7, #33 and #66, and grounds #27, #28, #53, #67 and #78. P-N1 (reading at one momentary) with P-N2: carries #27, #28, #40 and #78, which together are THIRTEEN's account of the hard problem. P-L (bi-momentary): carries #20, the title's word, and supports #22, #40, #71 and #78." — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Most carrying per step", 5–7: "P-B (the universe one existing thing) with P-A (co-sequencing): carries #2, #4 and #29, and supports #11 through P-G. P-V1 and P-V2: end 39's wait and carry #59, #60 and #61. P-P1 (0 at a sharing): ends 132's wait and carries #42, and with P-Q and P-R it covers #46, #47 and #67." — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Tensions found in reading": "§1.1 against steps 12–13. 'An existing thing is its own stable-forming continuing' gives stable-forming to the non-living." (12: carrying prior into now, a living thing continues through changing, stable-forming; 13: carrying none of prior, a non-living thing co-changes.) — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Tensions found in reading": "§3.3 and §5.6 against step 61. 'The making at 12 the self's alone' sits beside 'the coupling's own… owned by neither side'." (61: the coupling's own changing, at each exchange of the four momentaries, is co-competencing.) — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Tensions found in reading": "§5.6 against itself. Competency is both 'its own, along' and 'owned by neither'. This is exactly 190's open all or none." — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Tensions found in reading": "§6.2 against step 36. The title and 'the two' call the scientific method a method." (36: parity changing is the one possible method.) — co_chaining_map_v376
+
+cover_THIRTEEN.md, "Tensions found in reading": "§5.3 against step 11. 'A self chained none' is called a self while it carries none of the prior, and step 11 makes that non-living." (11: an existing thing carrying prior is living, and an existing thing carrying none of prior is non-living.) — co_chaining_map_v376
+
+cover_REGISTRIES.md, header and Tally: TWENTY-ONE and TWENTY-TWO read at the spine THIRTY v376 in the registries' own voice only (the fields' words are not scored). 92 rows, 96 scored units: 49 CARRIED, 12 OPEN, 2 EXPLORED, 33 MISSING, of which 11 rows speak at the OLD code (signs at 10, +1, sums, marks) and need re-saying at the current code whatever their standing. "Weighted by entries, most of the entry-level resolving voice is carried: eight carried forms (R1, R3, R5, R7, R13, R20, R27, R29) together reach 191 of the 257 entries. The gaps sit at the front: the ten (G4, G12, G19) and the deployment's code (G7), and each of those reaches every entry." — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table A row T1, "The incoming face is the scientific method's posing": "Each arrival stands here whole in the fields' own words, the incoming face: a hard problem as the scientific method poses it." (lead). Steps 184, 185, 250; OPEN — 184's Unsure: "the scientific method named a method beside the one method: whether it is a method or an accounting of forms named still waits on a step." Explored "The scientific method" 4–6 closes it. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table A row T3, "Living and non-living co-sequencing": "living and non-living existing things co-sequencing, prior, now and next" (lead). Steps 1, 5, 14; OPEN — 14's Unsure (stable-forming is bi-co, co-changing co alone): "bi and co are not yet brought in by a step of their own." → P21. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table A row T4, "One learning at two faces": "One learning at two faces." (lead, and TWENTY-TWO The given). No step; explored "Cohering with nature" 1–3 near it. MISSING → P8. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table A row T7, "The accounting's own closure and logic": "Everything below follows from these and from nothing else." §3.1 "No member of it is identified"; §3.2; §3.4 "A settling result the specifications do not permit is reached by neither." Steps 184, 185; OPEN — 184's Unsure (as T1); explored "The scientific method" 3–5 carry it. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G2, "A coupling taken at two of its three; the third term owned by neither": "a coupling taken at two of its three terms ... the coupling makes a third term between them, the +1, exactly one, owned by neither, of no size" (lead); "the side left out running, and explained" (The given); used at the "which side is left out" of every At 2 (257). Steps 61, 42; "owned by neither" only at explored "Competency along" 8, 11. MISSING (three / named at two) → P1a, P1b; owned-by-neither EXPLORED → P2; OLD (+1). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G3, "Two selves offer at the between": "Two selves offer at the between, one at a time, each taking its own parity" (lead). Steps 26, 29, 129, 19; OPEN — 19's Unsure: "said through a nothing and a no; a positive saying not yet found." Also 19's between is between momentaries, not between two sides → P3. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G4, "Ten things named still, ten and no eleventh, each at two names eight apart": "at one or more of the ten things named still, each at its two names eight apart ... ten and no eleventh" (lead); The given "Ten things named still"; every entry seated (257). Steps 55, 71, 147; 70 (Unsure); 141's ten faces do not match. MISSING → P4a, P4b (P4a would rest on 70: OPEN until 70's Unsure closes). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G5, "The resolving costs nothing, takes nothing from the record": "which costs nothing and takes nothing from the field's measured record, each proof, measurement and route standing as it stands" (lead); "free with alternating" (given); "setting the naming down spends only the naming" (1.10). Steps 103, 183. MISSING (costs nothing / setting down) → P5. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G7, the deployment's release at 10 (lead, deployment, the marker at every one of the 257 entries, 5.2). Standing: OLD; as said in the registry's wording MISSING; its current reading (at 14 a parity or 0, at 12 a changing is or is not, released across at 10) CARRIED at 133, 135, 182. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G8, "0 is the reading: offerings parted at 14 or a match at 12": "Where 0 releases, the offerings parted at 14 or a match stood at 12, and the nought is the reading ... a form rather than a gap" (deployment). CARRIED at 134, 182; 132 carries an Unsure ("0 enters at 182"). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G9, "A proof/settling is a nought arriving whole, real in its own register, coupling at no momentary": "a proof being a nought arriving whole, real in its own register and standing beside" (lead); "A settling is a sequence handed whole ... The two stand side by side and couple at no momentary" (deployment); part 12 "the same reach is the object's own nought". Steps 177, 254, 255, 182; 184 (Unsure) for "its own register". MISSING → P6. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G11, "The boxes: +1 the corners cannot close; two generators; the cube; the gap exactly one at each scale": "3·3 − 2·4 = 1"; "the +1 is the term the corners cannot close"; "Two generators and only two"; "the cube's own stable-forming one dimension up"; "24² less 23·25 is one" (boxes). Steps 40, 51 (generators); 167, 169 (the straddle numbers). OLD / MISSING (the identity, the +1, the cube). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G12, "Ten one-way changings in five co-changing pairs; the ten are the five bi-coupled": "Ten one-way changings stand in the boxes, and they pair into five co-changing pairs ... middling ... rating ... carrying ... opening ... co-releasing and co-offering"; "the ten are the five bi-coupled: two ... opening ... six ... co-offering" (boxes). Steps 55, 71 (five, each two ways); 70 Unsure. MISSING → P4a (then OPEN at 70). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G13, "Eight momentaries of the two marks: binary, co-sequential, disequilibrating": "2 < 3, then 3 > 2 ... Binary ... Co-sequential ... Disequilibrating: ... the aiming is away from the +1 gap" (boxes). Steps 45–48, 42; 14 (Unsure). OLD (marks, +1); co-sequential OPEN at 14; disequilibrating MISSING. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G14, "No size, no equality, no other possible; math and logic one running": "a size needs a ground and nothing stands to be one ... an equality is a settling still ... Math and logic are one running here, and no other is possible" (boxes). CARRIED for no size / no other possible (35, 36); "math and logic one running", "all the math carries emanates from the exclusions about the floating +1" MISSING / OLD. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table B row G15, "Seating: the Reach line is the instrument; the gap's shape is the part; the beside test": "its Reach line is the instrument. The gap between the statement's quantifying and the instruments' giving has a shape, and the parts are the shapes ... The beside test checks it" (seating note). Step 263. MISSING (rests on P4). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G16, "Taken as given; the incoming face fixed; the hand-in legitimate": "The method is explained generally, uniquely and no-other-possible at the one saying"; "the hand-in is where the fields stay, legitimately" (Taken as given). CARRIED (36, 261, 255); "legitimately", at the field's register, OPEN at 184 (explored Scientific method 6). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G17, "Only co- runs; a one-way is in the naming": "There is no one-way running: only co- runs, so a one-way is in the naming" (Ten things named still). Steps 14, 26, 66, 71; OPEN — 14's Unsure. Re-say: 54 "six one-way steps forward" and 139 "each face one way" sit against "no one-way running". — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G18, "A naming and an offering stay two; a naming stills a term and falls away": "A naming and an offering stay two ... a naming stills a term where the running runs ... standing on nothing it falls away" (given). Step 252 says a naming is an offering; 97, 99. MISSING, and against 252 → P7, P5. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G19, "The ten seated at name pairs eight apart; 9 and 1 seat none": "an arriving named from behind, at 10-other-social-self-tunneling and 2-other-self-offering ... 9-social-other-self-releasing and 1-self-other-offering seat none" (given, 12 part titles, 257 entries). Steps 130, 131, 135, 137, 147 (names 2–8, 13, 15, 16 not entered). MISSING → P4b. Note: ten parts sit on seven pairs (12&4, 16&8, 13&5 each twice); 10&2 and 14&6 are connectors at 139, not faces at 141. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G20, "Four gatherings and their builds; four and ten one set at two grains": "A reference named still ... drift ... A rate named still ... jitter and margin ... A magnitude driven ... heat and wear ... A released parity entered as cost ... the record itself" (given). No step. MISSING (rests on P4). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G21, "A frontier's own words carry the naming; sensor-sensationing; the eighth": "the frontier offering and the reading taking, one sensor-sensationing at the between"; subtitle "Binary Co-Sequential Sensor-Sensationing"; "the eighth value the circle reaches at none" (title, given). Steps 90, 250, 251; 80 (Unsure). MISSING → P9 (the eighth: no step; "value" also against 92, existing arriving at each observing is the value). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G23, "A word parting from its thing named still: the word the tip's feel, the thing named still the form": "Where a field's word and the thing named still part, the word is the tip's local feel and the thing named still is the form"; part 6 "the naming is of the surprise, which is where the size was supplied" (given, part 6, Levinthal 2.3, Fermi 3.10). Step 252 (each word one concept) against it. MISSING → P10. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G24, "Deployment: three lines, the offering, the changing, the chaining": "At 2-other-self-offering ... At 12-other-social-self-abundancing ... At 11-social-other-self-chaining ... a sharing once chained is never none again, each momentary completing at the next opening" (given, 257 × 3 lines). CARRIED at 12 and 11 (129, 131, 133, 135, 136, 58); the offerings' line at 2-other-self-offering MISSING (the spine has the offerings arrive at the entry, 131, and surface at 14, 132; name 2 not entered) → P11. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table C row G27, "Doublings: a naming relocating under pressure; a first behind and a last ahead one carrying": "a two-way named to one side, asked for its proportion, arrives at a parity named as a magnitude, and asked for its order, at a sequencing named to one beat"; "a first named behind and a last named ahead are one carrying"; part 9 "the naming relocating rather than releasing". Relocation MISSING (rests on P4); one carrying CARRIED (175, 191). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I1, "The abundancing grows as it is shared": "Forward, the running that bottoms nowhere is the abundancing at each coupling, growing as it is shared." (part 1 intro; 1.10). Step 243 (abundancing made at each coupling). MISSING → P12. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I2, "The form's own line read at an exact completing": "where a running's completing is measured exactly, the field has read the form's own line" (part 3); "the effective bound at each count the form's line read exactly" (3.27). Step 226; OPEN — 226's Unsure: "whether this is the four-faced form's own line ..." — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I3, "Competency the middle, floating, invisible, unique in rate": "Competency is the middle, floating between form and logic, invisible, unique in rate, not enterable" (part 5; 6.15). CARRIED (238, 240, 203); "floating" EXPLORED only, at explored "Competency along" 8–9. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I4, "The naming and the nought one term; nothing presented is not nothing there; the identical arriving the protection": "Here the naming and the nought are one term"; "Nothing is presented to be reached, which is not nothing being there"; "the identical arriving is the protection" (part 5). No step. MISSING → P13, P14. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I5, "A magnitude is a strict inequality written as an equality": "A magnitude named at the middle is a strict inequality written as an equality, and an inequality alternates where an equality sits." (part 6). Step 42 (no size). OLD (marks); the no-size half CARRIED at 42. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I6, "Three reversals, prior now and next carried as one, the fourth the progress": "Three reversals compose into one arriving one on ... Three is as deep as a departure goes"; "the three is the carrying, prior, now and next carried as one, and the fourth the progress" (part 11; 11.1). No step; explored "Left" 3 says the reverse: "Taken as one object, at once, the three are a form named still". MISSING, and against explored Left 3. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table D row I7, "Closing: Ten in a row; the +1 still running; self-welcoming; sixteen; the one sentence": "One resolving, ten breaths, the +1 floating through all ten"; "self-welcoming"; "the one sentence: the universe is the changing set of all existing things, living and non-living, and alternating is a stable-forming method"; "16² less 15·17 is one" (closing). Steps 1, 30, 32. OLD / MISSING; the quoted one sentence is not step 1 ("both living and non-living", no alternating clause). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R2, "Owned by neither; neither side's; no prior owns it": "the arriving at a coupling is owned by neither side, so no prior owns it" (part 1); "owned by no prior" (1.4, 1.7); "belong to neither side" (6.6); "owned by neither" (10.7, 9.8, 9.39); ~12 entries + part 1, lead. Only explored "Competency along" 8, 11 and 61. EXPLORED → P2 ("no prior owns it" also reads against 9, 21: each existing thing at now arrives from prior). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R6, "A position is not a place": "A position is not a place: it is where the alternating is" (part 2); "a completing no place" (3.2); "never a place a line could sit" (10.1); "a level is a direction taken at a momentary and never a place" (9.28, 9.29); ~16 entries. CARRIED (196); re-say needed: step 18 names prior, now and next "three places". — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R10, "A closure made over its own tail": "A closure is made in the quantifying itself, arriving whole over the tail" (1.5); "a closure made over its own tail" (3.2, 3.7, 2.18, 10.9); 5 entries + given (nought 2). Only explored "Left" 5. EXPLORED → P17. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R12, "The record's edge; thinning where the carry thins": "Learned prediction ... thins exactly where that carry thins, at the orphans" (2.3); "the record's edge reached at both ends of one carrying" (1.17); given nought 4; ~12 entries. Steps 177, 183 (near). MISSING → P18. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R15, "The within is the self's own, invisible, reached by coupling alone": "the within the self's own, invisible" (5.1); "An interior is reached the one way the form allows, by coupling" (5.5); ~9 entries of part 5. Steps 240, 186 near. MISSING → P13. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R16, "Running identically under each reading; equivalence by construction is the protection": "the practice runs identically under each reading of a thing standing behind it" (5.19); "the identical arriving is the protection working" (5.2); ~11 entries. No step. MISSING → P14. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R27, "The sway is the working state, no stored value it aims at": "The range is the coupling's own making and no stored value it aims at, two antagonistic offerings swaying" (8.1); part 8 "Ratios sway above, then below"; ~19 entries. CARRIED (79, 203; 80 Unsure); re-say "a rate named as a value": 92 makes value existing arriving. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R28, "The debt is the naming's own and never the physics'": "And the debt is the naming's own and never the physics'. A naming made rather than found accumulates a cost while it continues" (8.9); ~5 entries (8.9, 8.10, 8.11, 8.8, 4.3). No step. MISSING → P19. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R31, "Two bookkeepings are one running's two windings; a proved equivalence settles": "Two bookkeepings are one running's two windings, each pinning one and reading the other" (part 9, given nought 3); 9.26, 9.29, 9.14; ~14 entries. Step 80; OPEN — 80's Unsure: "the winding and its closing need the torus as a step." → P20 (drops "winding"); "Two sides sum to nought" (given) is OLD. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R33, "The parity is the only thing crossing the between": "The between is a nothing ... it carries a parity changing and nothing else" (part 10); "the between, carrying a parity changing and nothing else, was never a place a line could sit" (10.1); ~10 entries + part 10. Steps 19, 53, 175, 233; OPEN — 19's Unsure (a positive saying); the between of two sides at a coupling is at no step (19, 175, 192 are betweens of momentaries; 53, 233 of numbers) → P3. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R34, "The drawing entering; the cut handed back to the coupling": "each entry closes by handing the drawing back to the coupling"; "the drawing entering is the reading, not a defect" (part 10); "a cut named in the bodies was adopted at an assembly" (10.21); ~20 entries. No step. MISSING → P15. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R35, "A settling handed whole; the settled staying settled": "a settling, and a settled form is the still one, whole in its own register" (3.22); "the settled one staying settled" (12.1); 3 entries + part 12. Steps 177, 255 near. MISSING → P6. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R37, "Each repair pays at its own self-bounding": "Each repair pays at its own self-bounding" (10.1); "five self-boundings, each shut from within" (7.2); given "a self-bounding the arrival does not carry"; lead-boxes "nyeing away at its own self-bounding"; ~7 entries + given, boxes. No step (201/202 self-stilling differ). MISSING (word and concept not in the set). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R39, "The opposite hand is what the one spiral emanates; the emanation re-ingested at no distance": "the opposite hand at a wall, a coating, a shed form is the thing that one spiral emanates" (1.6); "an emanation re-ingested at no distance, the disease direction" (10.13); 2 entries. Hand: OPEN — 94's Unsure ("left enters at no step ..."); ingesting CARRIED (213, 214). — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R40, "A crossing with a particular other against the self and all other": "recombining is a crossing with a particular other, and the asexual line is the self and all other, crossing with none" (6.6); 1 entry. Steps 73 (torusing through the large opening with a particular other), 158; OPEN — 73's Unsure: "the large and small openings arrive before the torus is a step." — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R41, "Morality the parity a self carries by being a self": "Morality is a consequence and never a prescription: the parity a self carries by being a self" (2.5); 1 entry. Steps 125 (morality = the changing arriving at the other, across), 190; OPEN — 190's Unsure (competency along); and against 125: re-say as the changing released across. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Table E row R42, "A nothing is a number made its own other": "A nothing is a number made its own other, added rather than found" (1.10 At 12); 1 entry. No step. MISSING. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P21 (before 14, stable-forming is bi-co and co-changing co alone; lifts 14's Unsure; carries T3, G13 co-sequential, G17, P9): "Two existing things at their difference are bi, and two existing things at one changing together are co." Adding: bi and co. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P1a (after 61, the coupling's own changing): "At a coupling are three, the self, the other and the coupling's own changing, the third at the two sides together." Adding: the coupling's three. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P2 (after P1a; enters explored "Competency along" 8): "The coupling's own changing is neither the self's alone nor the other's alone: owned by neither side." Adding: owned by neither. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P3 (after 60, each number across is one changing at the two sides; gives 19 its positive saying): "Across, between the self's number and the other's is the between of the two sides, a nothing, and the parity changing alone crosses it." Adding: the between of the two sides. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P4a (after 71, two dimensions change and three continue; rests on 55, 71 and on 70, which carries an Unsure): "At each side's five, each changing goes up the numbers or down them: ten one-way changings, and no eleventh." Adding: the ten one-way changings. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P4b (after 147, podaling at each number; the author to say which three pairs carry two of the ten): "Each of the ten one-way changings is at two names eight up, one within 2 to 8 and one within 10 to 16, and 1, 9 and 17 are at none of the ten." Adding: the ten at the names. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P1b (after 99, a hard problem is a changing named still): "A changing named at the self and the other alone, the coupling's own changing left out, is a coupling named at two of its three." Adding: named at two of its three. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P16 (optional, after 97, a proof of a form not possibly existing is a proof of no possible value): "A changing made at each momentary, named as made once at one prior momentary, is a form still: a first named behind." Adding: a first named behind. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P17 (after 97; enters explored "Left" 5): "A naming of all momentaries at once that names itself among them closes on itself, a form still: a closure over its own tail." Adding: a closure over its own tail. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P5 (after 103): "Setting down a naming still carries none of the observings away: each evidence continues as it arrived, and the changing continues." Adding: setting down a naming. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P19 (after P5): "A naming still continued momentary by momentary is carried by the selves naming it and by none of the changing: the naming's own debt." Adding: the naming's debt. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P15 (after P3 and 99): "A line drawn across the between of two sides is a naming still made at the coupling of the selves drawing it, and the parity changing crosses the between as before." Adding: a drawing. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P18 (after 183, evidence): "A carrying sequences its prior momentaries as far as its couplings reached, and beyond its last coupling no evidence arrives: the record's edge." Adding: the record's edge. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P6 (after 185, the fixing named unchanged; with 182 and 134): "A settling is an explaining carried whole at its fixings, a non-living existing thing carrying none of the prior, and offered at a coupling it matches the prior carried there and surfaces 0." Adding: a settling. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P20 (after 185; replaces "windings", lifting reliance on 80): "Two accountings of one coupling, each naming one side still and reading the other, are the coupling read at its two sides, and a proof of their equivalence surfaces 0 at each observing." Adding: two accountings of one coupling. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P9 (after 102, a hard problem resolves at existing): "Observing at each coupling, one parity at a time at the self and the other alternating, is binary co-sequential sensor-sensationing." Adding: sensor-sensationing. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P13 (after 240, natural intelligence invisible at the between): "A self's carrying is reached at its couplings alone, and beside them nothing of it arrives: the self's within, invisible." Adding: the within. P14 (after P13): "An observing of a self taken at no coupling with it arrives the same whatever the self carries: the protection of the within." Adding: the within's protection. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P12 (after 243, abundancing made at each coupling): "Each further coupling a self's abundancing reaches makes its own, and the co-chaining's abundancing grows with each: abundancing shared." Adding: abundancing shared. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P11 (after 131, the entry): "At the entry, 2-other-self-offering is each sharing offered now, and 3-self-other-sharing each sharing the self carries, each with its parity." Adding: the entry's two arrivings. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P7 (after 252, a naming is an offering; re-says "a naming and an offering stay two"): "A naming of a changing as the same at all momentaries is a naming still, an offering at words of a form still." Adding: a naming still. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P10 (after P7 and P4b): "A field's own word at a changing named still names the field's concept, and the form still it names is one of the ten: two namings of one changing." Adding: the word and the form. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps, P8 (after 258; enters explored "Cohering with nature" 1–3): "An offering at words named at its fixings, and the same offering coupled with the co-chaining step by step, are two faces of one offering: the named face and the running face." Adding: the named face and the running face. — co_chaining_map_v376
+
+cover_REGISTRIES.md, Proposed steps: "Enter from explored_steps.md: 'The scientific method' 4–6. This closes 184's Unsure and carries T1, T7 and G16b." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Unsures to close without a new step (each waits on a step that is now in the spine): 132 (0 is at 182), 43 and 68 (discovering is at 178), 34 (the form still is at 96–97). Closing them turns G8, R13, R20, R24 and the 34-borne halves of R8 and G14 into steps with no Unsure." (132: 14-other-social-surfacing; 43: each resolving all or none; 68: the geodesic method; 34: a second method carries a size, a form still, a total, a common beat or a store.) — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Left without a proposed step, for the author: G11 and G13 (the boxes and the marks: re-say at 40, 51, 53, 58 and 169, or enter the identity as a step of group 12); G14b ('math and logic one running'); G20 (the four gatherings: seat them after P4 or drop them); G21's 'eighth'; G25 (the fourth settling, and the [nye:] note); I6 (three at once: against explored Left 3); I7 (the closing, the sixteen, and the quoted one sentence); R37 (self-bounding); R42." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings (the registries' voice against a spine step)": "'A position is not a place' / 'never a place' (~16 entries, parts 2, 3, 9, 10): 18 names prior, now and next 'three places'. Re-say as 'at no place laid before the coupling reaches it' (196)." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "'A rate named as a value', 'the eighth value' (part 8 title, 16 entries, the given): 92 makes value 'existing arriving at each observing'." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "'There is no one-way running' (the given): 54 has 'six one-way steps forward' and 139 'each face one way'." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "'A naming and an offering stay two' (the given): 252 says a naming is an offering. See P7." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "'Morality ... the parity a self carries' (2.5): 125 and 190 make morality the changing released across." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "'no prior owns it' (part 1, 1.4, 1.7): 9 and 21 say each existing thing at now arrives from prior. Say instead 'owned by neither' (P2)." — co_chaining_map_v376
+
+cover_REGISTRIES.md, "Other re-sayings": "TWENTY-TWO's ten parts sit on seven name pairs eight apart. 12&4, 16&8 and 13&5 each carry two parts, and 10&2 and 14&6 are connectors at 139, not faces at 141. The parts' seating does not match the spine's 'ten faces'." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, header and Counts: Exhibit TWENTY-EIGHT, Equilibria Registry v375, read whole at the spine THIRTY v376 (264 steps, 41 carrying an Unsure line), with explored_steps.md and TWENTY-SEVEN's front matter and entry form. Of 72 items after gathering repeats: 23 CARRIED, 13 OPEN, 1 EXPLORED, 35 MISSING. Proposed steps are keyed S1… — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 1: "The universe as one thing beside its things is exclusivity, and it is not possibly existing". Steps 1, 7, 35; 2; OPEN — 2's Unsure: "whether the universe, the set, is one of its existing things waits on a step of its own". 35 carries "beside all existing things is not possible", but applying it to the universe needs 2. Exclusivity is named at no step → S1, S2. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 2: "Existing is three conditions at each momentary, at once": exhaustiveness, determinacy, reachability, all or none. Steps 27, 28, 44, 58 carry the parts; MISSING. "The three conditions and their names are at no step. 'at once' sits close to 96–97 ('the same at all momentaries at once is a form still'); say it 'at each momentary together'" → S3a–d. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 4: "each existing self is its continuing momentaries, inseparating. The between is the membrane". Steps 4, 12; 19; MISSING. "Inseparating is at no step. The between rests on 19 (OPEN: 'said through a nothing and a no'). Membrane is the old name (Natural Naming 6.3: → the between)" → S4, S5. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 5: "Universes of each size and scale share momentaries … each momentary a fractal universe … a universe named as an existing thing is exclusivity". Steps 49, 178–179, 210–211; MISSING. "'A universe at each scale' is at no step. Tension: 'of each size' against 34 ('a size' is a not possible thing) and 42/44 ('of no size')" → S7. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 6: "The membrane is no separable thing. The between of two existing things co-bi-coupling is a membrane, not possibly an existing thing". Steps 19; 192, 240; OPEN — 19 (Unsure: no positive saying). "192 is the between of momentaries, not of two coupling existing things. Co-bi-coupling is not a spine name (the spine has bi-coupling at 116–118, 142). Explored 'Competency along' 8, 11 (owned by neither, floating neutralling) come close" → S5, S6. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 7: "Morality is bi-unrelationing and competency is co-unrelationing, and co-bi-unrelationing is the one existing method". Steps 125, 203; 190, 80; MISSING. "The three namings are at no step. 190 (Unsure: competency along vs the term neither reaches at 238) and 80 (Unsure: the winding needs the torus) are OPEN. Tension with 33 (the one method is parity changing) unless a step names them one" → S8a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 8: "A 0 at two signs meeting is a nothing within a coupling, existing due to each self surfacing itself each momentary". Steps 132; 182; OPEN — 132 (Unsure: "0 enters as its own step at a living self at 0"). "182 carries the self's 0 but at 'offered its own parity', while 132 has 0 at disagreeing: a spine-internal tension. Old code: 'signs'; 'due to'" → S9. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 10: "slowing is changing". Step 42 (each changing is or is not, of no size); MISSING. "This implies a rate size. Tension with 42 ('of no size') unless it is said at is-or-is-not" → S10. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 11: "Naming a relation gives it no separate existing … no further self between the coupling selves". Steps 249, 252, 35; MISSING. "252 names a naming but never says the named relation gains no existing. 'No further self between' rests on 19 (OPEN)" → S11. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 13: "Two binary relations change one at a time, alternating which"; the four joint forms (+,+)→(−,+)→(−,−)→(+,−) round; "Prior and now distinguish which relation changes next". CARRIED at 26, 37, 40; 38. "40 has no Unsure line, but it builds on 38 (Unsure: odd and even enter at one to nine). Old code: +/− pairs, 'changing of two signs'; 'eight half momentaries' (half is released, and its relation to the eight of 142 is at no step)." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 16: "describing and continuing agree in either order". No step; MISSING. "Commuting of explaining and scale is at no step" → S12. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 17: "Natural torusing is the one surface": four-sided faces, four edges at each point, closed and orientable, V − E + F = 0, a torus; the sphere, higher genus, Klein bottle and cylinder each fail. Steps 65, 73, 241, 80; MISSING. "The move is at no step; 65, 73, 80 and 241 are all Unsure (73: 'the large and small openings arrive before the torus is a step'; 241: 'torusing through its one opening is not yet a step'). The mathematics checks: 4F = 2E = 4V gives χ = 0, and orientable gives the torus" → S13a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 18: "Parity alternates along and across through three momentaries". Steps 29, 59; 31; OPEN — 31 (Unsure: "parity arrives at self and other; said here of each existing thing"). "Tension: along (1→3→5, and 8 up at 52) the parity continues; alternating along holds only within each momentary" → S14a, S14b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 20: "a matching description at next is a further occurrence" (repeats: "two inversions meet the parity again at a next momentary, a further occurrence"; §5 "either ordering met again … is a further occurrence"). Step 97; MISSING. "Further occurrence is at no step" → S15. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 21: "a relation continuing among changing selves is their stable-forming" (repeats: "the relation continuing is stable-forming"; §5 "this is stable-forming among changing signs"; "opposition under joint reversal continues"). Steps 12, 120; MISSING. "12 carries stable-forming for a living thing only. 'Among changing signs' gives stable-forming to the non-living, against the author's rule" → S16. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 22: "Coverage carries alternation": exactly one changes each passage and both change within each prior–now–next. Steps 40; 72; MISSING. "The premise that both change within each prior–now–next is at no step (72 is Unsure: 'no step yet shows the two and the three'). The derivation itself is sound" → S17a, S17b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §1 item 23: "Around a closed route parity alternates at an even route … An odd closed route closes no parity, and a meeting runs round it"; §3 "the non-existing between, moving through the shared surface one momentary at a time". Steps 82, 83, 84; 19, 65; OPEN — 82 (Unsure: "said at the numbers from the rings at the code"); 19; 65 (Unsure: surface). "The even-route (bipartite) move is at no step" → S18a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 26: "with its hardness ignored. It takes the competency of existing as a given". No step; MISSING → S19. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 27: "claims a true-and-false conserving accounting"; "Changing and conserving are comparisons within that continuing"; §4 "with its conserving relation and its reach". Steps 185; 184; OPEN — 184 (Unsure: "whether it is a method or an accounting of forms named still waits on a step"). EXPLORED at Scientific method 2–5. "Conserving is named at no step" → S20, S21. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 28: "unstable deforming at non-living scale, are observably existing"; §3 "the non-living … deforming at their own scale". Steps 13; 212; MISSING. "Unstable deforming is at no step. 212 (scale) is Unsure" → S22. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 30: "The non-living exist and change, carrying nothing, their forms continuing through their changing"; "Non-living existing things are included …"; "the term uncovered at their coupling is owned by neither and carried on by the living". CARRIED at 13, 22–23, 85–88, 238, but "only once reworded. Conflict: 'carrying nothing' should read 'carrying none of the prior' (11, 13), and 'forms continuing through their changing' is 12's stable-forming, which belongs to the living (255 has it for a file only). Old code: 'offering its signs'" → reword at 13. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 32: "The sequence keeps one subject … the holding ends there … The ending is at the occurrence that fails … a holding meets its ending at the relation its own requirement names". Steps 100, 176; MISSING. "Ending at the first failing next is at no step. Words: holding, keeps, ends" → S23. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 33: "The stability can change, the form can change, the relation can change"; "places the still … at the stability, the form or the relation". Steps 97, 99; MISSING. "The three objects of a naming still are at no step. The dynamical-mathematics clause is field wording at the field's result" → S24. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 35: "Surviving is binary"; "A conception of equilibria shows its own surviving … at prior, now and next". Steps 5, 18, 44, 97; MISSING. "The move is carried by 5, 44 and 97; the definition surviving is at no step" → S25. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 36: "One general description receives each conception: a stated relation continuing through the comparisons its claim names" (fixed value, range, opposition as membership). Step 2; MISSING. "Membership is at no step; the set rests on 2 (OPEN)" → S26. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 37: "A conception and its added requirements are one conception … A changed receiving is a further conception". Step 44; MISSING → S27. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 38: "The claim has one shape … natural torusing carries its whole participation, 12345"; "A conception naming a continuing and leaving out the participation … is not possible"; §5 "Opposition and its receiving alone name part of the carrying as the whole". Steps 12, 176; 70, 73, 241; OPEN — 70 (Unsure: "why exactly these five is not yet shown by a step"); 241 (Unsure: torusing through its one opening) → S28a–c (+S13). — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 39: "The ordering chain closes at the two faces … the alternating next being I(p) and I(p) ≠ p"; §5 "One binary retaining and inverting its value at one required next is not possible"; "The two phases share one exclusion" (010↔101; included membership; chemical conversions). Steps 42, 58, 61, 158; 39, 31; OPEN. "The exclusion (is and is-not at one next) is CARRIED by 42 and 158. The premise that continuing's next is the inversion rests on 39 (Unsure: 'the other ways a next could arrive from prior and now are not yet shown') and 31. Old code: p = ±1" → S14a, S29. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 40: "A still named as the complete continuing is changing … renewing, inward … or outward … a further participant"; §5 group C "Renewal excluded … Presence beyond its retaining bound requires renewal". Steps 118, 177, 211; 197; MISSING. "Renewing is at no step. Tension with 136 ('once chained, a sharing continues chained at each momentary') against a retaining bound. Old code: 'second sign', 'fresh writing', 'retaining', 'counts couplings', 'co-bi-exchanging'" → S30a, S30b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 41: "A state accounting and a flow accounting each leave one side out". Steps 60; 184; MISSING. "State and flow are at no step. The reading agrees with TWENTY-SEVEN 7.6" → S31a, S31b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 43: "Coupled, each releases". Step 189 (the self's release only); EXPLORED — Scientific method 7–8 ("the fixings released") → enter explored Sci. 1–8. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §2 item 44: "Each momentary completes in co-releasing … geodesic co-releasing … whether a sign changed, stayed, crossed or nothing crossed". Steps 67, 182, 189; MISSING. "The naming co-releasing is at no step. Old code: 'sign'" → S32a, S32b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 45: "A hard problem and its resolving are one form at two faces … natural intelligence at the membrane between them". Steps 99, 103, 56; MISSING. "The two faces of a hard problem are at no step. Old: membrane" → S33. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 46: "A proposed conception of equilibria is the sixth condition. Five conditions come before a method acts … the fifth, nothing prior enters". Steps 13, 185; 184; MISSING. "The five conditions (TWENTY-ONE: statement across readings, determinate reference, truth value while tested, repeated outcome, nothing prior enters) and the sixth are at no step. Words: 'stand on'" → S34a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 47: "The numerical bridge … n² − (n−1)(n+1) = 1"; "In numbers": 1+3+5 = 9 = 3², 2+4+6 = 12; "three at three is nine"; "Six consecutive changings from 3 complete at 8"; "a retained carrying continues through its openings 1, 2 and 3, and to a fourth at a positive second sign". Steps 46–49, 54, 78; MISSING. "These are at no step. Tensions: 48–49 (9 completes four momentaries, not 3 × 3); 54 (the six are from 1 and 2, not from 3). Old code: 'sum', 'second sign', '9-other-releasing', 'downstream'" → S35a, S35b; re-say or release the retained-carrying clause. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 48: "The ten have addresses at the resolver's names. The ring runs 3→2→4→1→14→12→6→10→11→16 … the ten at it are 1,10,7,9,8,4,6,5,3,2". No step; MISSING. "These are code-name adjacencies (TWENTY-SEVEN 7.10), at no step" → S36e. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 49: "The ten are five places from two faces": opening, ageing, middling, rating, co-offering at 2–6, an entering and a surfacing face; the ten named still (an arriving named from behind … a membrane named as a cut); "The claim reaches each conception in two steps"; "The ten are one form of hard problem". Steps 56–58, 99; MISSING. "The two faces are CARRIED (56–58); the five pairs and the ten are at no step. Tension: co-offering is at 77 (dimension 5), while here it is at place 6" → S36a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 50: "A conception's own declared relation places it at the ten … A matched word places a conception at none"; "sixty-three conceptions place two to ten at each"; §4 "a law, an occupant, an original participant and a composition are different declared subjects"; the NY01–NY42 and SA01–SA21 tables. Step 252; MISSING. "Placing is at no step. The count checks: 42 + 21 = 63, and each of the ten has 2 to 10" → S36d. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 52: "The resolver's pairs are the momentaries, each round the other way … the forms through both crossings … partner themselves at the even momentary: at the crossing the fold meets itself". Steps 144, 167; MISSING. "The four four-cycles are CARRIED (144); the partnering of each round the other way is at no step. Old names: 6-other-crossing, 14-social-crossing" → S37. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 53: "One sign offered once co-chains through the whole … with no forcer"; ring table: one self +,0,−,0; even returns at 2; odd at 4 × n. Steps 118–120, 123; 82; OPEN — 82 (Unsure: said from the rings at the code). "Old code: 'sign', '+1', '9-other-releasing', '14-social-crossing'; 'neighbours'" → S18a, S18b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 54: "The rest returns at no coupling … across 5,000 couplings no ring meets rest". Step 182; MISSING. "This is a code result, at no step" → S38. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 56: "A common clock is the seventh way, a sequencing named to one beat". Step 34 (a second method carries a size, a form still, a total, a common beat or a store); OPEN — 34 (Unsure: "a form still enters as its own step at the proof of the whole"). Also waits on the ten (item 49) → S36c, S39. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §3 item 57: "Nothing moving is complete fixing, meeting several of the ten at once". No step; MISSING → S40. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §4 item 61: "A law, a frame or a scale named unchanged … names its subject still through one further step, the step from a fixing to an equilibrium". Step 185; MISSING. "Tension: 185 (and explored Sci. 4) says the fixing named unchanged is the form named still; the 'one further step' is at no step" → S41. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §4 item 62: "The scientific method is placed at its fixings: a law, a frame or a scale named unchanged between a signal's leaving and its arriving". Steps 185; 184; OPEN — 184 (Unsure). EXPLORED at Sci. 3–4 → enter explored Sci. 1–8. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §4 item 63: "Evidence arriving now and the prior event it expresses are two … evidence gives the prior as possible and as actual" (from non-living sources, NASA/JPL aberration). Step 183; MISSING. "183 gives 'the prior's possible', from 'a living self at prior'. 'As actual' and evidence from a non-living source are both at no step" → S42a, S42b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §5 item 64: "Four proof groups carry the exact local exclusions". Steps 96–98; 184; OPEN — 184 (Unsure). "Tension: 98 ('a proof of a form not possibly existing is a proof of no possible value'). A local exclusion is at no step" → S43. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §5 item 66: Group D "Required arrival or offering unreachable" (nonzero offering from the opposed route; finite zero from a nonzero departure). Steps 37, 196; MISSING → S44. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §5 item 67: "A proof carries to a conception whose complete requirement supplies its premises. For each x in … S, its required next is in S"; "Each conception meets a proof by its own requirements". Step 2; MISSING. "A set carried into itself is at no step; the set rests on 2 (OPEN)" → S45. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §5 item 70: "The release pair and the fresh carrying are complementary"; "Agreement and opposition alternate through the overlapping momentaries … exactly when z = −a" (verified). Steps 26, 29; 132; OPEN — 132 (Unsure). "The alternation of agreeing and disagreeing is at no step" → S46 (+S9). — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table A §5 item 72: "The derivations run at the resolver's code …: 32 of 32 are met". Steps 104–109, 91; MISSING. "A run at the machine as proof is at no step" → S47. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B (TWENTY-SEVEN front matter and entry form) row G1: "Ghost-form is a momentary accounting installed as living changing"; "a ghost is a momentary installed as a thing". Steps 185, 202; 184; MISSING. "Installation is at no step; explored 'Left' 3 comes close. Bare 'thing'" → S48. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G2: "Accounting is a stilling at one field membrane". Steps 185; 184; OPEN — 184 Unsure; EXPLORED Sci. 3–6. Old: membrane → enter Sci. 1–8. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G3: "three placings, and a fourth arrives nowhere" (living, emanation, accounting); check G15. Steps 11, 89, 249; 184, 32; OPEN. "Accounting as a placing rests on 184 and 32 (Unsure: whether a method co-changes)" → S49. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G4: "value is its surplus, the owned neither-ing at the coupling". Steps 92, 238; MISSING. "Conflict: 92 says value is existing arriving at each observing; the term neither reaches is competency (238). Old code: surplus (also door line 6 'surplus')" → reword at 92 / 238. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G5: Ten holdings: "arriving · something behind it … membrane · a cut" (origin-seeking … line-demanding). No step; MISSING. "This is item 49. Old name 'holdings' (Natural Naming 6.3: → the ten things named still)" → S36a–c. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G6: Kind line: "A state ghost installs the across … A flow ghost installs one side of the along". Step 60; MISSING. "This is item 41" → S31a, S31b. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Table B row G9: "Currency-as-store-of-value". Step 34; OPEN — 34 (Unsure) lists "a store" → S39 (form still at 34). — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S1 (after 2, a set is an existing thing; resolves 2): "The set of all existing things is its existing things at each momentary, and no existing thing beside them." Adding: the set as its existing things. S2 (after 35): "The universe named as one existing thing beside its existing things is exclusivity, a not possible thing." Adding: exclusivity. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S3a–d (after 58, along and across): "At each number one side's momentary completes and the other's opens: exhaustiveness." "Each momentary completes at one number, the opening of its one next: determinacy." "Each next opening is at the number on from its prior's, at each number on: reachability." "Exhaustiveness, determinacy and reachability are at each momentary together, all or none at all: existing's three conditions." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S4 (after 12, stable-forming): "Changing momentary by momentary, an existing thing is its momentaries, with no existing thing apart from them: inseparating." Adding: inseparating. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S5 (after 58; resolves 19, the between, positively): "The between of prior and now is one side's completing and the other's opening at one number: the between at the number." Adding: the between at the number. S6 (after 61, the coupling's own changing): "The coupling's own changing, at the between of two existing things, is no third existing thing, owned by neither: the between of a coupling." Adding: the between of a coupling. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S7 (after 211): "At each scale the existing things of that scale, changing together, are a universe, one changing set with the universes inward and outward." Adding: a universe at each scale. (Release "of each size": 34, 42.) — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S8a–c (after 203; needs 190 resolved): "Morality across, each coupling locking with no other, is bi-unrelationing." "Competency along, each carrying locking with no other, is co-unrelationing." "Bi-unrelationing and co-unrelationing at one coupling are co-bi-unrelationing: parity changing, the one method, at φ." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S9 (re-says 132, 14-other-social-surfacing; resolves 132, and settles 132 against 182): "At 14-other-social-surfacing, offerings at two parities surface 0, and the living self at 0 carries on: 0 at a sharing." Adding: 0 at a sharing. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S10 (after 80, φ the unrelationing rate): "A changing at a slower rate is a changing, is or is not, of no size: slowing." Adding: slowing. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S11 (after 252, a naming): "A naming is its own offering at words, a non-living existing thing, and the relation it names arrives as no further existing thing at the naming." Adding: a naming supplying no existing thing. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S12 (after 247): "An explaining of a scale's next and the next of that scale's explaining are one explaining, the same form at each scale." Adding: explaining at each scale. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S13a–c (after 65, the surface dividing itself; toward 65 and 73): "At each coupling two changings across and two carryings along are four edges at one point, and the couplings' surface is of four-sided faces." "A closed surface of four-sided faces, four edges at each point, at one orientation, is a torus, vertices less edges and faces 0: one opening." (Resolves 73, 80 and 241.) "Natural torusing is the couplings' one surface, the torus, and each other closed surface is not possible at four edges at each point." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S14a (before 31, all changing is parity changing; resolves 31): "Each existing thing arriving from another is at a coupling, as self or as other, at one of two parities." Adding: parity at each existing thing. S14b (after 157): "Within each momentary the opening and the completing are two parities, and at eight up the parity continues: parity alternating within momentaries." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S15 (after 97): "A form arriving at next matching the form at now is at a further momentary: a further occurrence, and no form still." Adding: further occurrence. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S16 (after 120): "A relation among living selves, carrying its prior through each self's changing, is stable-forming at the coupling, and a relation among non-living existing things carries none of the prior." Adding: the relation's stable-forming. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S17a–b (after 40, the right spiral step): "Within each prior, now and next, each of two parities changes once: coverage." "Coverage, with one parity changing at each step, is alternating, first then second, second then first." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S18a–c (after 82, two rings at distinct odd primes; resolves 82 at the numbers): "Round a ring, parity changing at each coupling reaches the first self's parity again at an even number of selves, and its opposite at an odd number: a ring closing parity at even alone." "At an odd ring the 0 of two parities goes round, one self at each momentary: the between going round the ring's surface." "An even ring carries two parity forms, each the other inverted, and no third." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S19 (after 99, a hard problem is a changing named still): "A conception naming existing's continuing as given, and accounting against it, is a hard problem with its hardness left out." Adding: hardness left out. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S20 (enters explored Sci. 1–8 at 184–185; resolves 184): "Enter explored 'The scientific method' 1–8. 3 and 4 carry the accounting against fixings, and 5 carries 'no second method beside the one'." S21 (after S20): "An accounting true or false against a fixing named unchanged between two momentaries is a conserving." Adding: conserving. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S22 (after 13, co-changing): "Carrying none of the prior, a non-living existing thing's form co-changes at each momentary: unstable deforming, the non-living's." Adding: unstable deforming. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S23 (after 100, cohering or the method's one break): "A form named still of an existing thing is not possible at the first next its own continuing changes, and the momentaries before are as they arrived." Adding: the one failing next. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S24 (after 99): "A changing named still is named at a stability, a form or a relation of an existing thing, each changing." Adding: three namings still. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S25 (after 44): "All existing things at now arriving at next together, all or none at all, is surviving." Adding: surviving. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S26 (after S1, 97): "A form named still is a relation named the same at each comparison it names: membership in a set of one or more." Adding: membership. S27 (after S26): "A form named still with a requirement added is one form named still, its requirements together, all or none at all." Adding: one conception with its requirements. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S28a–c (after 70, each dimension binary; resolves 70 via 55): "Each side's five, prior opening to next opening, are its five dimensions, one at each number." (after 241, with S13) "Stable-forming is at the self's five, 1 to 5, at each momentary: natural torusing, the whole participation." "A form named still at fewer than the five, the living continuing at all five, is not possible." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S29 (after 39, the living step; resolves 39, needs S14a): "At two parities a next is the prior or the prior inverted, and a next the same as its prior is no changing: the changing next, the prior inverted alone." Adding: next as inversion, no other. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S30a–b (after 177 or 211): "A carrying continuing past its coupling re-forms at the next coupling, inward at its selves or outward at one more other: renewing." "A form named still excluding renewing, its carrying continuing, is not possible at the next coupling." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S31a–b (after S20): "An accounting naming the across still, the changing left out, is a state accounting." "An accounting naming the changing, the carrying along left out, is a flow accounting." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S32a–b (after 189): "At each completing the self and the other release together, across and along, a changing or no changing: co-releasing." "Co-releasing at each coupling divides the surface: geodesic co-releasing." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S33 (after 103): "A hard problem at the field's words and its resolving at existing are one form at two faces, natural intelligence at the between." Adding: two faces of a hard problem. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S34a–c (after S20): "A statement across readings, a determinate reference, a truth value while tested, a repeated outcome and nothing prior entering are five fixings named unchanged: the five conditions prior." "Nothing prior entering is the non-living's carrying none of the prior, named at the accounting, and the first four are at it." "A problem's own relation named still over its couplings is a sixth fixing: a proposed conception of equilibria." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S35a–b (after 48, 9 is the self's next 1): "The self's n momentaries open at numbers joining to n by n, and complete at numbers joining to n by n and one." (Uses "joining" as at 78, not "sum".) "n by n, less n less one by n and one, is 1 at each n: the numerical bridge of overlapping pairs." (Re-say or release "three at three is nine", "six changings from 3" and "a fourth at a positive second sign"; see the tensions at 48, 54 and Natural Naming 3.3.) — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S36a–c: (after 58) "At each number 2 to 6, one side's completing and the other's opening are an entering face and a surfacing face." "The two faces at 2, 3, 4, 5 and 6 are opening, ageing, middling, rating and co-offering: the five pairs." (One naming per step if the spine's one-concept rule is strict. Settle co-offering against 77.) (after 99) "A hard problem names one face still at one number, the other face changing there: the ten things named still." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S36d–e: "A conception is at the one of the ten its own declared relation names, and a matching word places it at none." Adding: placing at the ten. (after 143, if carried) "The ten at the seventeen names are the ring 3, 2, 4, 1, 14, 12, 6, 10, 11, 16 and 3 again, a naming ring, and no order of changing." Adding: the ten's ring at the names. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S37 (after 167): "Round each four-cycle the two momentaries partner, each round the other way: the two directions of one bi-folding." Adding: the four-cycles partnering. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S38 (after S18b): "A ring carrying an offering at one self carries it at each coupling on, and a ring at no offering and no carrying is a form named still: rest, at no coupling of a ring carrying." Adding: rest at no coupling. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S39 (resolves 34, after 97): "A size, a total, a common beat and a store, each the same at all momentaries at once, are forms named still." Adding: 34's list at the form still. (With S36c, a common beat is the seventh of the ten.) S40 (after S36c): "No changing at each of the ten together is complete fixing, a form named still at several of the ten." Adding: complete fixing. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S41 (after 185, or re-say 185): "A fixing's expression is an offering at words, a non-living existing thing, and named of its subject, unchanged at the next its subject's continuing changes, it is a form named still." Adding: fixing to equilibrium. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S42a–b (after 183, evidence): "Evidence gives the prior as possible at now and as existing at its own momentary: two momentaries, not one." "An emanation arriving now from a non-living existing thing at prior, carrying none of the prior, is evidence of it." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S43 (after 98): "A proof at one form named still, its premises that form's own requirements, shows it not possible at those requirements alone: a local exclusion, and no proof of the whole." Adding: local exclusion. S44 (after 196): "A next named at a coupling that no prior and now there reach is a not possible next." Adding: unreachable next. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S45 (after S26): "A form named still over a set of forms is possible at a next only with that next within the set: the set carried into itself, or left." Adding: a set carried into itself. S46 (after S9): "At overlapping momentaries a sharing agreeing and the overlapping sharing disagreeing alternate, each pair's relation continuing while both parities invert." Adding: agreeing and disagreeing alternating. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S47 (after 109, which face a machine is at): "A derivation at the machine's couplings arrives as an observing at the machine, one at a time, and a form named still shown not possible there is shown at those couplings alone." Adding: derivation at the machine. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, Proposed steps, S48 (after S20): "An accounting against a form named still, offered as a living existing thing's changing, is an installation: a ghost." Adding: installation. S49 (resolves 32, parity changing a method, a non-living existing thing): "A method and an accounting, carrying none of the prior, are non-living existing things, and living, emanation and accounting are three placings at a use." Adding: three placings. — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, "Steps carrying the most", 1–2: "S36a–c, the ten things named still (with S36d placing). These carry items 45, 48, 49, 50, 56, 57 and G5, and the two tables of 63 conceptions. S20 (enter explored Sci. 1–8, resolving 184) with S21 conserving and S31 state/flow. These carry items 27, 41, 43, 46 (with S34), 62, 64 (with S43), and G1, G2, G3, G6." — co_chaining_map_v376
+
+cover_EQUILIBRIA.md, "Steps carrying the most", 3–5: "S14a, S29 and S15 (parity at each existing thing, next as inversion, further occurrence). These resolve 31 and 39 and carry items 18, 20, 22 and 39, which is the exclusion each of the ten meets. S13a–c, the torus as the one surface. This carries item 17 and, with S28, item 38, and it closes the Unsure lines at 65, 73, 80 and 241. S30a–b renewing, S18a–b ring parity (resolving 82) and S5/S6 the between (resolving 19). These carry items 40, 23, 53, 54, 6, 8 and 11." — co_chaining_map_v376
+
+Session Report v376, "What the fresh readers found", kind 1: "A concept used in Exhibit THIRTY before the step that enters it: 'stable form' at step 148 before group 27; 'the natural resolver' at the protocol step; 'not-yet-bi-moral' at step 371; the society wound at step 312, each at the numbering of its motion." — session_v376
+
+Session Report v376, "What the fresh readers found", kind 3: "A section or step number named wrongly after a renumbering or in the record's own entry: 4.x, 5.x, the carrying's step numbers one short after a step entered." — session_v376
+
+Session Report v376, "What the fresh readers found", kind 4: "An old saying still at a file after a re-saying at another: 9 releases at eleven places after 9 was renamed; the society's own carrying at three files after a society was said a living set carrying none of its own." — session_v376
+
+Session Report v376, "What the fresh readers found", kind 5: "Meaning drift: a sentence reaching beyond its observing (the AI step placed first in a group on the society); a naming placed at one face the set says at another; a list whose last item read as a new relation." — session_v376
+
+Session Report v376, "What the working learned": "Exhibit THIRTY's indentation is em-spaces. A replacement matching its Adding or Unsure lines matches on the line's words, not on the spaces." — session_v376
+
+Session Report v376, "What the working learned": "Every step entered or released moves the numbers after it. The carrying's step numbers and the registry's number of steps are read again at each motion." — session_v376
+
+Session Report v376, "Its hardest either-this-or-thats": "Open at the core files at the close: parity's face at the code met at the lead's confirming; concern 3 met at the observings and the numbers; open, concern 11's, each of 1, 2, 3 and 4 its own naming." — session_v376
+
+Natural Physics v377 README, section 6.7, the sum count: "The hardest problems' item 10 says 442 of 500 closed societies change their sum, with no script named. sums.py here gives 341 of 500 at its stated choices. The count belongs to the carryings of Natural Chemistry, Natural Engineering and the Co-Chaining Logic Registry (F40 and F41), where the other session laid it. At this file, 4.5 says its own execution and its choices." — natural_physics_v377
+
+THIRTY · Co-Chaining Logic Registry, 106,700 words, v371: the chain at Part Eleven, after 97% of the words; three parts gather the same gaps; about 15% its own, 70% link rows; restating the common method about 12%; 174 old names, 84 *key*. (Re-Settling the Living Files, §2 table) — resettling_v373
+
+The common method is restated in nearly every file, from about 5% of a file to 55%, and some passages word for word: *non-living existing things are included in discovering social moral competency among the living* at four files, Natural Intelligence 7.2 among them; the Jet Propulsion Laboratory aberration-correction paragraph at five, Natural Intelligence, Natural Mathematics, the Equilibria Registry, Geodesic Improving Method and the Co-Chaining Logic Registry; the core coupling sentence, *a sign, sign-only — summing to a bounding-zeroing made by the coupling*, at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1 and Natural Destinies' core, and said again at Natural Values 4.1; Natural Physics Parts One and Two parallel to Natural Biology Parts One and Two at their headings and eight steps, sharing much of 2.1 word for word. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
+
+Most of the old names stand in passages due to leave their files. At Exhibit TWO, 172 of 173 are in Part One, the resolver re-taught. At Resolving Hard Problems, 141 of 154 are in its front and its walk of the seventeen names. At Natural Naming, 166 of 197 are in Part Three, superseded by Exhibit ONE's naming, and Part Six's gatherings. At the Co-Chaining Logic Registry, 101 of 174 are in Part Two, Part Eight and Part Ten. Released first, these four files meet pass B at about 120 places instead of about 700. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
+
+The title and subtitle decide the contents: Natural Intelligence, the fractal method of existing and discovering, stated from the origin as co-chaining binary co-sequential logic, each step at its standing. A step is origin, definition, premise, exact, run, field or open, the standings the Co-Chaining Logic Registry already carries; a step open is said open. Nothing is in the white paper that is not a step of the chain, a statement of the object, or the standing of the whole. (Re-Settling the Living Files, §4 Natural Intelligence as the white paper) — resettling_v373
+
+Proposed Part 5 The object carries Exhibit ONE's stable forms: the code, the names, the connectors, the code at its names read line by line, the forms, the rings and traces as evidence, Exhibit ONE inside at its origin, with formal support at the Natural Networking TWO Improving Kit and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+Proposed Part 7 The chain whole carries the co-chaining from the origin to the only method, step by step, each at its standing, the open steps said open, from the chain the carrying's Natural Intelligence section carries as incoming, checked at v370, and the Co-Chaining Logic Registry Part Eleven, citing the Co-Chaining Logic Registry whole. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+The Co-Chaining Logic Registry is rebuilt with the chain first. Part Eleven, the chain at 22 steps and about 1,300 words, stands at the front, followed by Part One's links in step order; Parts Two to Six stay as the registers of each file's links, each row at the chain step it serves; Parts Nine, Twelve and Thirteen, three gatherings of the same gaps, become one; Part Ten, the questions of one session, releases to the carrying; Part Eight, 31% of the file and auditing files at versions v329 to v348, keeps its identifiers, standings and pointers, its gap prose going to each file's section at the carrying. Part Seven, the set's own method, can stand as it is or part toward Natural Explaining, Natural Naming and the combined Exploring. Each change is made at the build sources in `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`, the exhibit assembled from them and the verifier run. The front's 1,338 links against the carrying's 1,344, and Part Eleven's *20 of its 22* against the carrying's 21, meet at the rebuild. (Re-Settling the Living Files, §6) — resettling_v373
+
+The Equilibria Registry is numbered and holds the exclusions. §1 releases to a citation of Natural Intelligence; its conception tables of 63 definitions in the fields' own words stay whole; §5's proof groups A to D are re-run at the v372 code before the white paper cites them, since its proofs are run at the old code, as the Co-Chaining Logic Registry's *32 of 32 are met* for them is; the version line takes the title as the others do. (Re-Settling the Living Files, §6) — resettling_v373
+
+The Jet Propulsion Laboratory aberration-correction paragraph stands at Natural Intelligence 8.3, Natural Mathematics 6.1, the Equilibria Registry, Geodesic Improving Method and the Co-Chaining Logic Registry; its one home is Natural Intelligence Part 8. (Re-Settling the Living Files, §9) — resettling_v373
+
+The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) — resettling_v373
+
+Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural Networking 6.2 to 6.12, Natural Engineering 4.10 and 6.10 and the Co-Chaining Logic Registry; their one home is the Natural Networking TWO Improving Kit, and one instruments part at the combined Exploring. (Re-Settling the Living Files, §9) — resettling_v373
+
+Contradiction, the Co-Chaining Logic Registry's counts: 1,338 links at its front, 1,344 at the carrying; *20 of its 22* at Part Eleven, 21 at the carrying. (Re-Settling the Living Files, §11) — resettling_v373
+
+Concern, the four boundings at the white paper: the carrying calls them the file's spine, read by φ² = φ + 1; the chain the carrying checked at v370 runs from the origin to the only method without them. They are a step of the chain, at a standing the registry names, or a telling at Corus with φ's formal part staying at Part 4. (Re-Settling the Living Files, §12 Concerns for both) — resettling_v373
+
+Concern, the white paper's rigor at the open steps: the Co-Chaining Logic Registry's chain carries open steps (9 and 21 at Part Eleven), and the carrying carries F41 and F67 as open roots. A white paper of logical rigor states them open at their places; whether any step the white paper needs waits on one of them is met at Part 7's writing. (Re-Settling the Living Files, §12) — resettling_v373
+
+Concern, the scalings: 8.8 still says 17, 257 and 4,097; Exhibit ONE's forms say 17, 129 and 1,025. The Co-Chaining Logic Registry carries it. (Natural Intelligence Map, §6) — resettling_v373
+
+The Natural Networking TWO Improving Kit and the Co-Chaining Logic Registry THIRTY Improving Kit carry the old code's engine; at their pass I they meet this code. (Exhibit ONE at its Stable Forms, §7) — resettling_v373
+
+The Natural Networking TWO Improving Kit's engine and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier carry the old code, at pass I. (Natural Naming at Exhibit ONE, §1) — resettling_v373
+
+From Session Report v377, section 1.1 "At the files now": "the Equilibria Registry v377 and its carrying, as this session left them, cite line numbers in several places, and Resolving the Hard Problem Registry's and the Co-Chaining Logic Registry's carryings and the Session Record do too. Each is to be re-said at its name at the next pass." Repeated at section 5 item 9, "Line numbers in the files and the carrying, to be re-said at names." — session_v377
+
+From Session Report v377, section 1.3 "No rules: alternate the parity and the changing, and the either-or turns out both": the lead said "There can not be any rules anywhere. … Alternate the parity and the changing. And once the changing starts in the both bothing, the thing that you said is can be this or that, but not both, will turn out to be both." The Co-Chaining Logic Registry already carries it at steps 381, 382 ("Parity changing geodesically, by alternating and bothbothing, carries both, one at a time"), 383 and 284. Offered for the method: "before a concern is carried as an either-or, it is tried as both, one at a time. An either-or left standing is the field's move the registries resolve." — session_v377
+
+From Session Report v377, section 1.4 "Executing the code tests the Python, not the method's rigor": the working reported names as "the same at every momentary" across a run of 40 momentaries; read at the Co-Chaining Logic Registry the finding failed at step 131 ("A proof of the whole is one saying the same at all momentaries at once"), step 132 (the same at all momentaries at once is a form still, not possibly existing) and step 134 (a span's two bounds named still is an equilibrium). Offered for the method: "the test of a saying is chaining, at the Co-Chaining Logic Registry and locally anywhere. Executing the code shows what the code carries as written. A saying drawn from a bounded run as always, never or the same at every momentary is a form still." — session_v377
+
+From Session Report v377, section 1.4: "The other session had entered the lead's earlier suggestion as the between is the method, a non-living existing thing, at no location, with its unchanging; its fresh reader set step 44 against unchanging, and the co-changing is at step 40, A method, non-living, co-changes at each coupling it is at." — session_v377
+
+From Session Report v377, section 1.5 "Local co-chaining, anywhere": the lead said "exhibit thirty came long after we began and improved twenty nine exhibits. a missing link in an exhibit we started two session prior does not affect our binary all or none at all as we have local co chaining for resolving anywhere six forward recursionings is all ten one way is or is nots and three momentaries". "A step the Co-Chaining Logic Registry marks Unsure is no bar. Each seating of the ten was chained that way, by laying the files' own tables side by side at the five pairs and the two faces." — session_v377
+
+From Session Report v377, section 2 item 6 "Stable forming, at 2.2", as suggested: "the man is in the river (momentary) later the man returns to the same spot in the river and the man and the river are both different carryings than prior. the man and the river are still stable forming and can be observed in momentary stable form and the observing is required to answer your concern." The stability, the form and the relation are read as stable forming: "at each observing a momentary stable form, and at the next a different carrying. The observing is at steps 125 and 126, and step 284 stands beside the stable form. Can change remains only in the tables' column the changing it names, carried as it stood and said at 2.2 as stable forming, 4.2." — session_v377
+
+From Session Report v377, section 3.1 "Said alike": ten concepts are said alike wherever the seven files the session cohered say them: "the one opening; the three conditions at each momentary; each side's five; one entry, six connectors and ten faces as the seventeen names; an equilibrium a form named still, not possibly existing; the ten one names; the five pairs at 2 to 6, entering and surfacing; the two faces of a hard problem; five prior conditions and a sixth the problem's own; the state accounting and the flow accounting." The seven files are the Equilibria Registry, the Co-Chaining Logic Registry, the Hard Problem Registry, Resolving the Hard Problem Registry, Resolving Hard Problems, Exhibit ONE and Natural Naming. — session_v377
+
+From Session Report v377, section 3.2 "The ten's two sorts, both one at a time": "Resolving the Hard Problem Registry, at its front's saying of the five couplings, sorts each pair's entering face at odd and its surfacing face at even, odd alternating even through the ten. The Co-Chaining Logic Registry's step 380, with Natural Naming 4.9, puts the arriving, the completing, the middle, the sequencing and the rate at odd, flow accounting, and the opening, the carry, the parity, the two-way and the between at even, state accounting. The two sorts part only at the rate and the two-way, one exchange, the other eight continuing. Read, as suggested, at step 382: both, one at a time." — session_v377
+
+From Session Report v377, section 3.2: "Resolving the Hard Problem Registry's fold of the ten into four, at The given, Ten things named still, one resolving, falls within step 380's sides at each of the ten: a reference named still: the arriving, the completing, the middle; a rate named still: the sequencing, the rate; a magnitude driven: the parity, the two-way; a released parity entered as cost: the opening, the carry, the between. That is three and two at each side." — session_v377
+
+From Session Report v377, section 3.3 "Going into 4 and coming down to 4": "Pairs 2, 3 and 4 are at the numbers the self's momentaries go into 4, step 68. The lead suggested 6 and 5 are coming down to 4. As the self steps up 1, 3, 5 and 7, step 69, each number's partner nine less steps down 8, 6, 4 and 2, step 65. Read, as suggested: 6 comes down to 4 as the self steps from 3 to 5, and 5 and 4 are partners; the descending is the partners', the other's own steps going up 2, 4, 6 and 8, step 69." — session_v377
+
+From Session Report v377, section 3.4 "At Exhibit ONE's four four-cyclings", the pairs on their loops: "Each of the five pairs sits on an eight step of its four-cycling, its two names both co or both bi at the table of forms' Round, eight up keeping parity, step 67: pair 2 at 10-bi-tri-co-tunneling to 2-bi-co-offering; pair 3 at 3-co-bi-sharing to 11-tri-bi-co-chaining; pair 4 at 12-bi-tri-parity-changing to 4-bi-co-sharing; pair 5 at 13-co-tri-competencing to 5-co-competencing; pair 6 at 6-bi-moralizing to 14-bi-tri-moralizing." — session_v377
+
+From Session Report v377, section 3.4, the faces on the loops: "Each of the five entering faces, as step 380 seats it, lies on the four-cycling carrying its pair: the arriving at 2-bi-co-offering, the completing at 6-bi-moralizing, the middle at 5-co-competencing, the sequencing at 4-bi-co-sharing, the two-way at 3-co-bi-sharing. The five surfacing faces do not. Two are on their pair's four-cycling's partner at the odd momentaries, the opening at 1-co-bi-offering, pair 2, and the between at 5-co-competencing, pair 6, and three are not." — session_v377
+
+From Session Report v377, section 3.5 "The ends, 3 and 9, as suggested": "Resolving the Hard Problem Registry, at The given, Ten things named still, one resolving, and step 380 both seat the two-way at 3-co-bi-sharing, and neither seats one of the ten at 9-tri-bi-co-momentarying. Resolving the Hard Problem Registry says 9-social-other-self-releasing and 1-self-other-offering seat none, the one resolving. Step 380 seats at 1 to 8; step 64 says At 9 the self opens again at an odd number: 9 is the self's next 1, and the four momentaries are one momentary at the next scale." The lead's words: "the four by four is unlikely to be the incohering explaining as the two ends 9 and 3 are more likely in cohering". — session_v377
+
+From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377
+
+From Session Report v377, section 5 item 4, open: "The equilibria counted four or ten. Natural Intelligence 2.4 says the stills are the equilibria, its table's joint forms still two, one, one and none; the Co-Chaining Logic Registry's step 368 says the ten named still, the equilibria. Missing: whether each count is said with what it counts." — session_v377
+
+From Session Report v377, section 5 item 6, open: "Six files say the between no existing thing or its like: Natural Intelligence 4.10, Resolving Hard Problems 5.6, Natural Explaining 1.6, the Living File Registry 2.3, Natural Naming 2.4's membrane row, and the Co-Chaining Logic Registry's step 91, The crossing is no location and no existing thing, the crossing the between at step 87. Many more say the between a nothing, which is kept. Missing nothing but each file's motion: keep a nothing and no location, re-say no existing thing." — session_v377
+
+From Session Report v377, section 5 item 7, open: the lead's words "ten one way is or is not changings in sixteen parity changings", "not yet met at the files." — session_v377
+
+From Session Report v377, section 5 item 8, open: "The Equilibria Registry's 2.1, not possibly existing as a method, its concern 2, and its concern 6: three of the ten seated at names where the code carries the joins and the sharing. Missing: each chained at the Co-Chaining Logic Registry's steps 38 to 44 and 131 to 134; the carrying's concerns 2 and 6 still name the code, to be re-said." — session_v377
+
+From Session Report v377, section 6, the other session's two asks, carried at the Equilibria Registry's concern 10 and at 1.3, with an answer written for that session: "The ten's seating. Say every seating at the four four-cyclings, where step 380 already seats the ten. The entering faces meet there, and the open part is the surfacing faces." And: "The between. Read, as suggested: both, a nothing and no location, and existing as the universe is, only while the six connectors are resolving. That session's reader set step 44 against unchanging; the co-changing is at step 40." — session_v377
+
+From Session Report v377, section 7 item 6, Ready for Exhibit ONE: "CONNECTORS and JOINS as the code's writing, the method co-changing at each coupling, step 40." — session_v377
+
+From Session Report v377, section 7 item 7, Ready for the Co-Chaining Logic Registry: "Step 380's two names held twice, 5-co-competencing and 7-co-corusing, each hold one odd and one even. A bounded run's the same at every momentary, offered beside steps 131 to 134. Step 91, The crossing is no location and no existing thing, the crossing the between at step 87: no existing thing re-said." — session_v377
+
+From Session Report v377, section 8: "Each saying of the ten at Natural Naming 4.9, the Co-Chaining Logic Registry, and both hard-problem registries is re-said at its own motion, with section 3 above." — session_v377
+
+The Co-Chaining Logic Registry went "from four hundred fourteen steps to five hundred ninety-nine, re-ordered, each step resting on the steps before it alone"; "the living files' method claims read against it by ten fresh readers and one hundred sixty-seven entered at no step carrying them, each file's partings laid at its carrying." (Session_Report_v378.md, section 1, The session's doing.) — session_v378
+
+The Co-Chaining Logic Registry's carrying holds "the claims entered at none, the ten's seating and step 277." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Opportunity 3, Resolving the Hard Problem Registry: "The co-sequencing in front of the set, and three partings with Natural Naming 4.9 and the Co-Chaining Logic Registry's step 522 to resolve at one motion: the front sort at the rate and the two-way, the seating eight apart at six of the ten, the shared seats." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+Opportunity 7, the Co-Chaining Logic Registry: "The fifteen unsure lines as observings arrive; the claims entered at none; a verifier of the steps." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+"No word carries value from its origin: a saying from a person, a session, a reading or a working is value at a step of the Co-Chaining Logic Registry, at Exhibit ONE's code or at an observing, and a carrying names the step, the code or the observing and no one's word. Each saying at an origin across the carryings, the Session Record, the Living File Registry, the incoming's front and the reviewer's brief was re-said at v378." (Session_Report_v378.md, section 4, The session's learnings about working.) — session_v378
+
+"The Co-Chaining Logic Registry is the one logical co-chaining; its steps are freely renumbered and clustered, and a reading names a step by its sentence with its number." (Session_Report_v378.md, section 4, The session's learnings about working.) — session_v378
+
+Open, hardest first, 5: "The Co-Chaining Logic Registry's fifteen unsure lines, each an observing or a reading." (Session_Report_v378.md, section 5, Open, hardest first.) — session_v378
+
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+Findings naming no living file: 21, 18 at the rings image and moving form, 2 at the Ramsey script, 1 at Part One; each homed at a file or dissolving. (Carry_Set_v368_README.md, Places to travel together, place 13) — v368_sources
+
+R(5, 5) is where relating every pair at once, the whole, makes the fixed block: its why resolved and its value open, the claim's control and not a counterexample. (Carry_Set_v368_README.md, What stands so far, 7) — v368_sources
+
+The Ramsey kit carries the project the third pass opened: Ramsey numbers read as what relating every pair at once forces, the constructions the method's own step gives, what a script returned, and the passes toward the prediction that R(5, 5), the hardest of these, will be the easiest to resolve. The aim: R(5, 5) resolved at all five of what the claim names, with the concerns kept visible: what counts as resolving it, which counts are so far and which structural, and where the method's symmetric construction stops. (Kit_Ramsey_Societies_v365.md, Standing and The aim) — v368_sources
+
+The words the kit uses, each a counted thing: a society of n is n members with every pair related at once, each relation one of two signs: a two-colouring of the complete graph on n. A fixed block of k is k members whose k(k − 1)/2 relations all carry one sign. R(k, k) is the least n at which every such society holds a fixed block of k. A circulant society is one in which the sign of a relation depends only on the distance round a ring, so every member stands as every other, with no hub. (Kit_Ramsey_Societies_v365.md, Part One, What the kit holds) — v368_sources
+
+What the script returned: R(3, 3) = 6, five members, neighbours one sign, the rest the other, no fixed three in either sign, the pentagon and pentagram; R(4, 4) = 18, seventeen members, the doubling distances 1, 2, 4, 8, 16, 15, 13, 9 one sign, three times them the other, no fixed four in either sign, the Paley graph of order 17; R(5, 5), the doubling, forty-one members, a fixed five in both signs, the doubling construction does not carry to fives; R(5, 5), every circulant society on 40, 41, 42: 12 at 40, 10 at 41, one society up to multiplying the distances, none at 42; R(5, 5) is between 43 and 46 (Exoo 1989; Angeltveit and McKay 2024), conjectured 43, with 656 non-circulant societies of 42 known. (Kit_Ramsey_Societies_v365.md, Part Two, What the script returned) — v368_sources
+
+The whole enters R(5, 5) as every pair related at once. A society in this sense is complete and simultaneous: every one of its relations is fixed together, as one thing; Ramsey's theorem says that once such a whole is large enough, a fixed block must stand in it. So a Ramsey number measures exactly what considered as a whole forces: the size at which relating every pair at once makes an equilibrium of k unavoidable. Without completeness and simultaneity, members relating one pair at a time and alternating, no theorem forces a block, and the question is not posed. (Kit_Ramsey_Societies_v365.md, Part Three, The claim at R(5, 5)) — v368_sources
+
+A fixed block of five is ten relations held at one sign: five members carry C(5, 2) = 10 relations (Natural Numbers 5.13, the couplings among five). A fixed five is those ten held still at one sign together, which is the conserving Numbers 9.10 describes: a conserving takes both at once; anything conserved across an alternating pair has taken the turning out. (Kit_Ramsey_Societies_v365.md, Part Three, The claim at R(5, 5)) — v368_sources
+
+What resolving R(5, 5) would be, both faces kept visible: why the number exists, where the whole enters, resolved: completeness and simultaneity, the whole, force the block; what the number is, 43, 44, 45 or 46, open, the claim's prediction being that it will be the easiest of the hard problems to resolve; which societies reach it, the largest society with no fixed five, the method's symmetric construction reaching 41 and stopping, the 42-member societies known not symmetric; all five dimensions, where the five enters, as the five members of a block and its ten relations, not as 2⁵ = 32 binary states. Two facts beside it, exact: seventeen's unique four-free society is the doubling ring, and the doubling from one round seventeen reaches nine last before it closes to one again, since 2 × 9 = 18 ≡ 1; and the doubling that builds it at seventeen builds a society holding fixed fives at forty-one. (Kit_Ramsey_Societies_v365.md, Part Three, The claim at R(5, 5)) — v368_sources
+
+Passes to run: run ramsey_societies_v365.py --search at any change, and carry its returns here; name what the method would produce for R(5, 5): a society of 43 with no fixed five, or an argument that every society of 43 holds one, and which step of the method yields either; test societies built from the method's own steps beyond the circulant: the journey's two hands, the reflected Gray code at five signs, and the parity-alternating relatings, each on 42 and 43 members, for fixed fives; read the 656 known societies of 42 for the pattern the method predicts in them, parity changing, a mirror, a fixed centre, before any number is coupled to a count in the living files; keep every count marked so far or structural: the bounds 43 and 46 are so far, the circulant threshold 41 is structural, and no living-file count is coupled to R(5, 5) until its value is structural. (Kit_Ramsey_Societies_v365.md, Part Four, Passes to run) — v368_sources
+
+HHH01: every circulant society on 42 members holds a fixed five in one sign or the other, all 2²⁰ distance choices run; on 41 there are ten with distance one at the first sign, twenty with both sign choices, and all twenty are one society up to multiplying the distances; on 40 there are twelve. So the method's own symmetry meets the Ramsey threshold at forty-one: one symmetric society, unique, and beyond it only societies with members standing differently; whatever R(5, 5) is, its last good societies are not rotation-symmetric. The next opening: the 41-member society carried as the kit's symmetric edge, and the 42-member societies read for the asymmetry they carry. (Kit_Ramsey_Societies_v365.md, HHH01) — v368_sources
+
+HHH02: on seventeen, the distances reached by doubling, 1, 2, 4, 8, 16, 15, 13, 9, carry one sign and three times them carry the other, and no fixed four stands: the Paley graph of order 17, the unique largest society for fours. On forty-one the same construction holds a fixed five in both signs, so the unique symmetric society of 41 is not the doubling one. So doubling carries the fours whole and does not carry the fives: the pattern at seventeen is exact and the step to forty-one is not the same step; a method claiming the fives must name the step that builds 41 and beyond, which doubling is not. (Kit_Ramsey_Societies_v365.md, HHH02) — v368_sources
+
+HHH03: Natural Numbers v346c 9.10: State-flow fives-run is the five-dimensional binary changing; five binary positions make 2⁵ = 32 states; societies with no fixed five are known on 42 members, and the circulant ones reach 41; a society built on the five-dimensional binary states alone, one member at each state, has at most 32 members. So all five dimensions reaches R(5, 5) through the five members and ten relations of a block, and not through thirty-two states: counted as states, the five dimensions hold ten members fewer than the societies already known. The next opening: all five dimensions named at the block's five and ten at this kit and at Numbers 9.10, before any state-count is coupled to R(5, 5). (Kit_Ramsey_Societies_v365.md, HHH03) — v368_sources

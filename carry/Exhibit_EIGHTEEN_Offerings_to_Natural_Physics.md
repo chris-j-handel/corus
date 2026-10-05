@@ -154,3 +154,325 @@ None.
 **3.4's beat and locking at each spiral pacing its own**: at Exhibit ONE's code 17-tri-co-offering steps each self together, the common beat Natural Intelligence 3.5 names, and the execution the proposal promises needs a pacing the code does not carry; said so or released. — v380R
 
 **Ready: *face* dissolves.** Natural Naming v380R carries *face* among the released words, each re-saying beside it; facing is a direction and carries on. This file says *face* at its own sentences, each ready for re-saying at its own motion. — v380R
+
+Review of the proposed Natural Physics v377, section 1, "Logic, at Exhibit ONE's code": "Every script in executions/ runs from the root at Natural Intelligence v378's code block, byte-identical to Exhibit ONE v376's, and every output matches outputs.txt. Sixteen claims at the code checked: fifteen hold, at 3.2, 3.3, 3.5, 3.6, 3.7, 3.8, 4.5, 2.5, 5.11, 1.2, 2.8, 5.6 and 4.7. The register's counts, eighteen and thirty-two, twenty-one, thirteen, nine and five, thirty-one and seventeen, count from its fifty rows. Every item the proposal's report lists as open at its section 6.2 is said open in the file at the section named, with the phrase confirmed." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 1, "Explaining": "The front is at the steady form, forty-nine entries exactly the body's headings, no &nbsp;. The released words fall from the prior to the proposal at nearly every word: so 28 to 0, would 13 to 0, held 117 to 0, stands 49 to 0, there 57 to 0, where 67 to 1, sign 59 to 1, run 44 to 0, kept 21 to 0, stilling 18 to 0; keeping rises 1 to 10 as the name of a binary, the name Natural Intelligence 1.4 and the Geodesic Improving Method 2.7 use." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 1, "Observings, as a physicist": "Fifty-one records checked and correct at their numbers and their sources: Hensen's S = 2.42 ± 0.20 at 245 trials and 1.3 kilometres, Aspect, File and Mills, Tsuei's h/4e, the Kirkwood gaps, Greene, Jung's 47 days and Bosch's 33 years, Ohtsuki's 0.83 percent, Wu, Goldhaber, the shell capacities, the IUPAC group-three report, Bakun and Lindh, Deegan, the AME2020 masses, Noether, Onsager, Jaffe and Witten, the ALICE and CMS papers, Gibbons and Hawking, Steinhauer, DESI, GW190521 and GW231123, KiDS-Legacy, the muon g-2 lattice result, Eriksson, Phan, Torbert and the Magnetospheric Multiscale events." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 1, "Fresh reading beside the prior": "Thirty of the prior's forty sections stand whole at the proposal; the corrections of the prior's overclaimings, gravity is nothing, relativistic simultaneity, the simulation inadmissible, are each rightly made; the released readings the report names, 23 and 55, the capstone, the singularity as the Navier–Stokes seam, the genus with no φ, the softmax, the completest inversions, the screening constant, the clean conservings, the dark matter and black-hole pairing, ageing, the rhyme, geotensioning and fifty-nine as light, are released with their reasons and rightly." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2: each finding of 2.1 to 2.6 "is a harm at do-no-harm as the file stands: a field's record said wrongly, a prior value lost with no reason named, or a reading asserted where the file says elsewhere it is open", to be met before the file replaces its prior at corus.me. — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 1: "3.8 Decay departs from the exponential at short times, Wilkinson, and at long times, Rothe: neither is nuclear decay; Wilkinson 1997 is cold sodium atoms tunnelling in an optical lattice, Rothe 2006 is luminescence of organic molecules in solution; no departure from the exponential has been measured at radioactive decay, Norman and colleagues 1988 setting limits." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 2: "3.8 the rate changes at the atom about the nucleus opening or closing: the field's account of the dysprosium-163 and rhenium-187 cases is bound-state beta decay, the electron emitted into an empty shell, and the file states neither the account nor the reading as proposed." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 3: "3.8 the form, meeting in pairs, one member in two at each pairing: alpha and beta decay are single-nucleus events with no partner, and a halving at each step is a common beat, the thing the file releases elsewhere." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 4: "3.3 at equal settings the two sides' clicks are perfectly correlated: Hensen's pairs are a singlet, anti-correlated at equal settings; Aspect's cascade photons correlated; one fact stated for both." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 5: "3.4 nothing passes between the spirals but the changings at Huygens' clocks: the field's account has momentum exchanged through the common beam; the mechanism is dropped. At Bell, 3.3, the same phrase keeps no-signalling intact." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 6: "3.7 the flow between two quark jets differs with the third, at OPAL: the string effect was first observed by JADE, 1983, Physics Letters B 134, 275; OPAL's photon comparison, 1991, is the later test." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 7: "4.9 step 4 the cold both approach from opposite sides: a black hole's Hawking temperature rises as it evaporates, T proportional to 1/M; only the background cools." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 8: "4.11 step 1 the field names dark matter, dark energy or a reconciliation at the Hubble tension: the field names systematics or physics beyond ΛCDM; dark energy is at cosmic acceleration, a row at 5.11." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 9: "4.11 step 6 S8's difference closes at the KiDS-Legacy analysis: one survey consistent with Planck, DES Y3 and HSC Y3 still low; the field says eased." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 10: "4.11 step 1 pulsars' pulses matching the Hellings–Downs pattern: NANOGrav's fifteen-year set reports three to four sigma evidence; matching overstates." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 11: "4.11 steps 3 and 4 a rate not falling to rest at the edge: the expected Keplerian curve falls as r to the minus one half, not to rest, and a rotation speed is no rate in the file's sense." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 12: "4.11 step 4 the two expansion rates read as rates local to their couplings, no one global rate: H0 is one present-day parameter with two measured values, and local variation is bounded to one or two percent." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 13: "4.11 step 6 a temperature difference as a measured exchange rate: the Cold Spot and the hemispheric asymmetry are intensity differences on one surface at one epoch." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 14: "4.8 presentism and eternalism at McTaggart: McTaggart gave the A and B series; the two terms are later, Prior and Putnam." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 15: "2.2 A force at the field's account is a doer applying from outside: the field defines force as the rate of change of momentum, with no doer; the sentence is the file's reading said as the field's account." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 16: "2.3 and 4.4 Copenhagen, many worlds, decoherence and objective collapse each move the cause: many worlds denies collapse and seeks no cause; Copenhagen posits none." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 17: "4.5 step 1 the field names two hard parts: energy's being: the field names no such standing problem." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 18: "4.3 step 1 the field calls the curve the most important diagram in nuclear physics: a textbook flourish, no claim of the field." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 19: "3.12 each changing making the other at the field's account: in a plane wave the two fields are in phase and both sourced by the charges; the curl equations relate and cause nothing." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 20: "3.14 Physics has sought rest at ten subjects: the field sought rest at neither the critical point nor the inertial frame; the ten are the file's framing." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 21: "3.1 the Jet Propulsion Laboratory's aberration correction: the field's name is light-time correction, Moyer; aberration is a separate correction." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.1, item 22: "4.7 step 1 quantum theory describes the small scale as discrete and probabilistic: the wavefunction evolves continuously; discreteness is at spectra and outcomes." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "5.1 lists Bell's correlated clicks, 3.3, and wave and particle, 4.4, under meets the field's records with no contradiction found, and the same section lists 3.3's angle dependence and 4.4's amplitudes under reaching." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "5.9 says 4.3, 4.6 and 4.7 are proposed at their relation, and each of the three says its relation is still to be said." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "2.1 asserts A naming beside all existing things is at one of six binaries and 3.4 asserts the white paper's rings at 4.13 are these spirals, the two the report's section 6.1 lists as open for both files." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "3.4 The reading is two spirals joined across coming to one relation and 3.8's second sentence are declarative after the proposal sentence." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "3.15's one ordering is checkable at public archives asserts a precursor ordering the field records as contested, foreshocks preceding about half of large events." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.2: "3.16's ratio against a fixed step is no discriminator without its model, the stick-slip model already giving a radius-dependent spacing." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 1, prior value lost with no reason named: "2.5's refusal column, the two arriving refused, one side fixed as the standard, the sign returning refused: what the coupling does that each naming refuses, at all five rows; the binary's name replaced the coupling's own act." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 2, prior value lost: "2.6 and 3.4's Bell relation: tighter-than-local correlation is the thing one coupling at two faces is, and impossible for two objects, sayable without the overclaim as no carried variable is what a coupling joined across carries; the proposal's 4.4 step 6 keeps only the field's exclusion as its own result." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 3, prior value lost: "2.7's the theory became more exact, not less, the geodesic method's own confirmation, at 2.6 now consistent with the theory; the relation survives only at 2.8 step 7." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 4, prior value lost: "3.6's sub-atomic ghost list, vacuum, virtual particles and binding among them, and the electron as a ledger; 5.3's Ghost Registry seam covers force, field, potential and energy alone." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 5, prior value lost: "3.7's diamond form, four crossings about an unoccupied centre, one form at the crystallographic substrate; the lattice kept at 3.10, the relation gone." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 6, prior value lost: "3.7's and 5.8's named breaks, the Wick rotation's a light-cone whose turning is other than the quarter turns i returns through and the light-cone's shown to turn through its vertex and not stand; the proposal's 3.13 and 4.7 say to be named, and the report's 6.2 lists both as still to be named without saying the prior had named them." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 7, prior value lost: "3.9's DESI and JWST relations, the ledger value floats and rides the carry and the clock the time-axis reaching names; at 4.9 step 8 the two are the field's disputes alone." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 8, prior value lost: "4.5's sorting of fifteen problems at two fixings, one side fixed as the standard and an answer available before the running; the report says it is now at 2.5's binaries, which holds for four of nineteen." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 9, prior value lost: "3.2's the same nothing as energy, entropy and the arrow of time, one account, reversed at 4.2 and 4.5 to two accountings, the reversal unmarked; 5.7's six-cycling is seated on matter's two-turn spinor, not on light, reversed at 3.12, unmarked." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.3, item 10, prior value lost, minor: "4.1's four-level partner of Natural Biology's five-level table; 4.3's the one place the seeking ends is the apex; 5.10's trefoil coupling at 114, 120 and 126." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.4, the file speaking of itself from outside, Natural Explaining 1.4: "3.1 names incoming/natural_physics_v377/executions/ and incoming/physics_at_the_code_v376/, two folders that leave at their receiving; executed at v377 eleven times; 3.6 cites Natural Intelligence 4.13 at v379, a version at no file; 4.1's the order the cases opened at; 4.10's declined as natural intelligence evidence, a reviewer's verdict; 5.4's this part gathers the file's cases; 5.10's promise of a case still to come; 2.5 and 5.11's this file's own, at no registry entry; 3.7 and 3.14's Exhibit THIRTY's step 319 and 5.3's Exhibit TWENTY-SEVEN, 7.3, at that file's motion, coordinates for names." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.4, to be re-said: "each execution at 3.2 to 3.8 and 4.5 said at its own choices, the terms joined, the self chained, the seed, the momentaries, the sizes, so it runs again from Exhibit ONE's code alone, and its scripts at a living path, the kit's, named once; the versions said as sections; the outputs, 341 and 159, 65 and 129, 4n, as the results of those choices." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5, names parting from Natural Intelligence: "3.10 and 3.14 one between at three faces, Natural Intelligence 4.10: 4.10 names one between at two places, inside a momentary and between momentaries, and the three faces are this file's." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5: "3.7 joined along a chain at 6-bi-moralizing and 10-bi-tri-co-tunneling: 6 and 10 are across at Natural Intelligence 4.7, and along is spatial here." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5: "2.3 tipping for the changing at 12, a name at no line of Natural Intelligence; participant and member for self." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5: "4.12 nothing is inside either against Natural Intelligence 6.6, inward of a self are its selves, a society." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5: "1.1 at each momentary at opposite parities and at each second momentary at one parity, two selves alone, unqualified where 3.4 rightly avoids it at two spirals." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.5: "5.3 the offerings excluded and the offerings not yet arrived read alike: at 10 they part, ([('s',0)], []) against ([], []), alike only at the receiver's 12 and 11." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.6, the explaining: "Doers, causes and negations at the file's own voice, each with its positive at the explaining reader's list: the method bounds, the rigorizer seats, a script driving the code, the fields make each other, a force must be carried, never at both together, nothing is inside, no physics is claimed replaced." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.6: "the subtitle without its -ing head; four headings and sixty-four bold openers at a leading The." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.6: "twelve sentences a physicist stumbles at, the coinages bare where first said, natural-bi-co-torusing at 1.1, corusing at 1.2, floating neutralling at 2.3, the like pair and zeroing tunnelling at 3.5, a both at 5.3." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 2.6: "ten records correct and unsourced, Kirkwood, the group-three report, oganesson, the shell closures, KiDS-Legacy, the muon result, Hellings–Downs, the critical Z, Steinhauer and Farrah, Bose and Marletto–Vedral, Dieterich and Ruina, JADE." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, open at the carrying, item 1: "Five binaries or six, Natural Intelligence 1.4 and the Geodesic Improving Method 2.7, the file asserting six; one list at both, at the observings." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 2: "The rings as spirals set-wide, the file asserting it at 3.4; each file's motion." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 3: "3.8's decay read as pairing: single-nucleus events with no partner at the field's record, and a halving a common beat; the reading stands or releases." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 4: "4.11's readings changing the kind of the observed quantity: a speed read as a rate, one parameter read as two local rates, an intensity difference read as an exchange rate; each at the field's kind or released." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 5: "3.5 and 4.10, the persistent current: steady charge transport at the field's record, and a cyclic pattern with no transport does not keep it; the file marks the h/4e flux open and the transport not." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 6: "The Bell relation, lost at 2.3.2, sayable without the overclaim: said or released with its reason." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 7: "The register's two namings at different faces, Natural Naming 4.9 and Resolving the Hard Problem Registry, as the report's 6.1.4 says." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 3, item 8: "3.4's beat and locking at each spiral pacing its own: at Exhibit ONE's code 17 steps each self together, the common beat Natural Intelligence 3.5 names; the execution the file promises needs a pacing the code does not carry, and is said so or released." — review_natural_physics_v377
+
+Review of the proposed Natural Physics v377, section 4, its receiving: the proposal "replaces its prior at corus.me when its improving is finished, section 2 met, its checks and its fresh reader met. This review's section 2 is what remains to finish; section 3 rides at the carrying. Its branch was built before the carrying's re-forming at v378; at its merge its carrying paragraphs go to carry/Exhibit_EIGHTEEN_Natural_Physics.md and its record paragraphs to the Session Record, and the file's 3.1 and 4.5 name no incoming folder." — review_natural_physics_v377
+
+Natural Physics v377 README, section 1, "What is proposed": a whole proposed rewrite of Exhibit EIGHTEEN, Natural Physics, is at working/physics-motion-v377, pull request 106, on main e85b7c0, the file Exhibit_EIGHTEEN_Natural_Physics_v377.md there (brought whole to incoming/natural_physics_v377/Exhibit_EIGHTEEN_Natural_Physics_v377_proposed.md), with executions/ and outputs.txt beside this report. "The proposed version has five parts, forty-nine sections and 19,824 words": ONE A Physical Coupling, TWO Two Methods Parting at the Now, THREE Physical Observings, FOUR Hard Problems at Physics, FIVE Cohering, against the prior at v348's forty sections and 20,973 words. — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released", correspondences made by naming alone, with no relation said: "readings at a numeral alone, fifty-nine as light among them, its reason at the prior carrying's line 84; the 23-and-55 fit at the iron centre, met at Natural Numbers 1.3 and 5.8; the old capstone; the singularity as Navier–Stokes' seam; the black hole as a genus with no φ." — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released with no reason recorded": "the old Bell three inversions from 23, listed at pass 6. It is a reading at a numeral, 23, like those above; the reason is to be recorded." — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released", readings the code does not carry: "the softmax reading of Born's rule, since the code has no softmax; completest inversions, a depth no observing meets." — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released", readings nothing sources: "the screening constant laid over the vacuum and the horizon at eighty-six; the clean conservings as a perfect discard, with the +1 surplus." — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released", sortings and pairings re-said elsewhere: "The old sorting at a frame standing outside, now at 2.5's binaries. The dark matter and black-hole information pairing; 4.9 now pairs the black hole with the background. Evaporation as a body's ageing, carried at 4.9 as the carrying thinning." — natural_physics_v377
+
+Natural Physics v377 README, section 2, "Released", other: "3.16's grid rhyme, two engineering choices at no coupling; and geotensioning, a coinage never welcomed." — natural_physics_v377
+
+Natural Physics v377 README, section 3, "How to check it": check_set.py all pass; carry_check.py nothing to say; "reader_checks.py . main — no released word at the file, except keeping, which is the name of a binary. Its retired sayings list one: living society at 3.12, carried from v348, open at 6.2"; node build.js. — natural_physics_v377
+
+Natural Physics v377 README, section 3: "Each execution the file cites runs again here, at Exhibit ONE v376's code. executions/outputs.txt holds the output of each script in executions/; 3.7's output is at incoming/physics_at_the_code_v376/resolver_crossings_returned.txt, and a run today matches it. Each script says its own choices: its joins, its starts, its seeds." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.2, forms.py part 1: "At an empty carrying, one offering + surfaces + and is chained; + and − surface 0; three with one parting surface 0." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.3, two.py: "Two selves joined across change parity together: chained + and none; both +; opposite." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.4, spirals_joined.py and forms.py part 6: "Two spirals of two to six selves joined across: the joined selves come to one relation, alike at 2 to 64 patterns per pairing and opposite at the rest." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.4 and the first report's section 5 item 4, joined_alike.py: "Two spirals of two to five selves joined across: at the opposite relation, 2,406 patterns, the joined selves change at each momentary; at the alike relation, 74 patterns, they change at each momentary at 6. The file states no count from it; it is the evidence the first report sent against Natural Intelligence 4.13's change parity together at each momentary. 1.1 says two selves joined across change at each second momentary at one parity: that is two.py's two selves alone, and it does not carry to two spirals joined, where 6 of the 74 alike patterns change at each momentary." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.5, forms.py parts 2, 3 and 5: "An even spiral repeats at 2; an odd spiral of n repeats at 4n (12, 20, 28, 36, 44); a spiral of one runs −, −, +, +; the odd spiral carries one like pair." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.5, zero_tunnelling.py: "A spiral of five: the 0 released at 10 is at the like pair's self and moves one self on each second momentary." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.6, torus.py and torus_waist.py: "The tori at 3 by 5, 3 by 7, 5 by 7 and 17 by 59; the waist rule meeting and parting, 1 by 5, 3 by 13, 3 by 15, 3 by 27, 5 by 21 and 5 by 25 among the parting." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.7, incoming/physics_at_the_code_v376/resolver_crossings.py: "The crossing and the trace." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 3.8, forms.py parts 4 and 7: "1,024 members going to one; levelling at 65 with 64 joining; whole at 1,024 with 512 joining." — natural_physics_v377
+
+Natural Physics v377 README, section 3, executions table, 4.5, sums.py: "Of 500 random joined societies, the sum changes at 341 and stays at 159; an even spiral's sum is 0, and an odd spiral's runs −1, +1, +1, −1." — natural_physics_v377
+
+Natural Physics v377 README, section 3, where each script comes from: "forms.py and spirals_joined.py are the first report's forms.py and rings_all.py (incoming/rings_are_spirals_v377/), with a docstring added, ring re-said spiral in names and printed labels, and three printed labels re-said: round as parities again every and every, and after one loop as after one pairing. The computation is unchanged. two.py and torus.py are the first report's, with a docstring added. joined_alike.py, zero_tunnelling.py and torus_waist.py are the first report's, byte for byte. sums.py is the Physics working's, byte for byte, as the second report carries it." — natural_physics_v377
+
+Natural Physics v377 README, section 4, "The two reports to the other files": "The Physics working sent the other files two reports on working/geodesic-improving-method-v381: incoming/rings_are_spirals_v377/: the rings are spirals, and the audit of each ring saying across the set; incoming/physics_for_other_files_v377/: two corrections to the first report, and seven findings for other files, its 2.1 to 2.4, 3, 4 and 5; its subtitle says six. That session received the first at its commit 059e022 and the second at f1fc071." — natural_physics_v377
+
+Natural Physics v377 README, section 4, first correction to the second report: "Its section 2 says forty-seven rows at a naming were compared and agree; there are forty-eight, the fifty less the file's own two, and all forty-eight agree, the mass gap at Resolving the Hard Problem Registry 5.16 among them." — natural_physics_v377
+
+Natural Physics v377 README, section 4, second correction to the second report: "Its section 3 says 'Natural Physics never names Natural Philosophy'. That is false: Physics 4.4, 4.8 and 4.12 each say their seam meets Natural Philosophy. The search that led to the error required text after the name, and each of those sentences ends at the name. Natural Philosophy's carrying received the three seams without that sentence, so nothing there rests on it. Physics now names Philosophy's sections at the three seams: 3.4, 3.7 and 3.29." — natural_physics_v377
+
+Natural Physics v377 README, section 5, "5.11, the register's namings" (corrected at commit 5e84a84): "The namings, their pairs and each arrival's seat are at Resolving the Hard Problem Registry v375, not the Hard Problem Registry. All 48 rows at a naming agree with that file's seats. Six namings are now at their one names, Natural Naming 4.9, and the tenth is named: an opening named as a place." — natural_physics_v377
+
+Natural Physics v377 README, section 5, "5.3, the Living Ghost Registry seam": "It named six items as meeting that registry. The registry carries four of them at its 7.3 families: force; field, 'installed as the acting changing'; potential; and energy 'installed as capacity, substance, store'. It carries neither a hidden variable nor a collapse caused by measurement; those meet its next families, the wavefunction, probability and the observer. 5.3 now says so." — natural_physics_v377
+
+Natural Physics v377 README, section 5, "4.4, 4.8 and 4.12": "Natural Philosophy's sections are named. At 4.12, Philosophy names the arrival bearer and bundle." — natural_physics_v377
+
+Natural Physics v377 README, section 5, "3.1 and 4.5": "3.1 names this folder as the place each execution at 3.2 to 3.8 and 4.5 runs again, and 3.7's script at its own place; 4.5 names sums.py at its path. Before, sums.py was cited by its bare name, and the scripts for 3.2 to 3.6 and 3.8 were on the other session's branch only. 3.2 to 3.6 and 3.8 name no script at their own sentences; the table in section 3 gives each." — natural_physics_v377
+
+Natural Physics v377 README, section 6, "What stays open": "Each item says where it is, what is said now, and what would resolve it. None of them blocks the offering: at all or none, each reading is proposed until its relation is said, and the file says so at each." — natural_physics_v377
+
+Natural Physics v377 README, section 6.1, concern 1: "The waist rule, 3.6, with Natural Intelligence 4.13. main's Natural Intelligence v379, line 654, still says the rule. On the other session's branch, the rule's release is Ready at carry/Natural_Intelligence.md (its commit 69872eb), waiting on that file's next motion, and not yet entered. When it enters and merges, re-say 3.6 at 4.13's new sentence and mark the concern met. torus_waist.py gives the cases." — natural_physics_v377
+
+Natural Physics v377 README, section 6.1, concern 2: "Six binaries or five. 2.1 welcomes six from the Geodesic Improving Method 2.7. Natural Intelligence 1.4 names five, with the doer at none of its sentences. Resolve at one list shared by both files." — natural_physics_v377
+
+Natural Physics v377 README, section 6.1, concern 3: "Rings and spirals across the set. Physics says spirals, which never close: Natural Mathematics 2.3, and 3.4 and 3.5 here. The first report's four tables sort 776 sayings of ring across the white paper, Exhibit ONE, the other files and the kits, 216 of them naming closure as the form. One further line was found since: Resolving the Hard Problem Registry, line 736, 'the ring of the code's names'. Resolve at each file's motion." — natural_physics_v377
+
+Natural Physics v377 README, section 6.1, concern 4, sent here for Resolving the Hard Problem Registry's carrying: "The register's namings and the cases' binaries. 5.11 seats the measurement problem at the between named as a cut, and quantum gravity at a rate named as a value, as Resolving the Hard Problem Registry does. 4.4 names a doer and a common beat at the measurement; 4.7 names a fixed form ahead at quantum gravity. Resolve at one naming each, in both files." — natural_physics_v377
+
+Natural Physics v377 README, section 6.1, found beside the register, carried in the second report: "Natural Naming 4.9 and Resolving the Hard Problem Registry put the two-way and the rate at opposite faces. 5.11's pairs paragraph rests on the second file's faces, and says so." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, relations still to be said: "Each correspondence below is proposed, its relation between the field's record and the code's form not yet said. For the ones marked parting named, the section names the observing that would part the reading, before its outcome is read. 5.1 names the six whose parting observing is still to be named: 1.2, 3.2, 3.3, 3.5, 3.13 and 4.7's Wick rotation." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 1.2: "Physics' threes at one side's three steps: the colours at 4.6, time at 4.8, the three together at 5.8. The parting observing is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.2 and 4.4: "The field's amplitudes and the code's offerings. The dark fringe is proposed at two parting offerings surfacing 0. The bright fringe's fourfold count is at no line of the code. The parting observing is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.3 and 4.4: "The correlation's dependence on the angle between the settings is at the field's account and at no line of the code. At 4.4 the parting is named: a carrier measured crossing between the detectors at Hensen and colleagues' conditions. At 3.3 it is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.4: "The beat and the locking range at close paces are still to be executed, with each spiral pacing its own. The pacemakers and the fireflies are at Natural Biology." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.5 and 4.10: "The odd spiral's moving like pair and the tricrystal ring's h/4e flux, which the field records as a static spontaneous current. The persistent current is proposed at the spiral carrying its pattern whole. At 4.10 the parting is named: a supercurrent decaying at the persistent-current measurement's own conditions, or the pairing shown to need a mediating boson whose exchange is measured and whose source does not recede. At 3.5 it is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.6: "The waist rule's whole relation at the code, after concern 1. The Kirkwood gaps at the rational windings. Spirals at distinct odd primes coming to their parities together first at 4pq, and a lattice's modes at the torus of selves." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.7: "Three relations before the reading is whole: what at the plasma is a self's parity, and how far its offerings arrive; what is in phase and out of phase, with the two inflows' asymmetry and a shared guide field as two proposed readings; and the crescent's shape, which the code does not make. Next observing: which of the crescent's features the self-consistent kinetic simulations make. A second next observing is named: whether the crescents follow the null or the electrons' demagnetization at the measured guide field, across the Magnetospheric Multiscale electron diffusion region events. Reconnection with no crescent is to be met at Eriksson and colleagues' event, at its electron distributions. At the hadrons, local charge compensation at the code's alternating chain and opposite traces is proposed and open." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.8: "Which member changes at which pairing is open at the code; the field's probability for which nucleus decays is its own account." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.9: "The relation between the field's naming of its hand, negative helicity, and the momentaries' hand named right." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.10: "The atom's one between at three faces, related to the field's orbitals, energies and radii. The empty sites of a lattice read as the between, related to the lattice's own accounts." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.11: "The island of stability read as a stable form receding as it is approached, related to the field's shell models at 114, 120 or 126." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.12: "The reading of light as a living society of selves phase-relating is Natural Biology's to say, and living society is on the reader checks' retired sayings, kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/retired_sayings.txt." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.13: "Light's two readings at the light-cone's two sides. The parting observing is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 3.14: "Each rest sought read at one between at three faces, related at each rest." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.3: "Which phase is which side is not said. The two phases about one centre, related to the curve's ordering of nuclides. The released energy read as the term neither side reaches, which parts from 4.5's accounting reading. Parting named: fusion and fission energetics shown to need two balances with no shared centre region." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.6: "The mapping of the three colours to parity changing. Parting named: a quark observed isolated at a collider's final state." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.7: "The field's rotation, the Wick rotation, related to the quarter step. The parting for the case is named: entanglement induced between two masses by gravitation alone. For the Wick rotation it is still to be named." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.9: "The drawing in and the spreading out at the torus's two windings, related to the horizon and the background. Parting named: the beginning and the end shown to be two ages no single carrying reaches." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.9: "The time axis is the reading's open relation: the background's beginning and the black hole's end read as two contributions to one carrying forward." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.10: "The pseudogap's own literature is still to be met." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 4.11: "The cosmos at its largest scale carries a fork open: the matter's homogeneity and the background's smoothness read either as a form named still or as the co-moving observer's own reading from inside. Which it is, is the cosmologist's to part." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.3: "At Bell the question open is whether reproducing a probability distribution is owed." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.6: "The correspondence between the code's surfacing and Born's rule is open, each operation at its own." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.7: "The pair-instability mass band, a range the field names empty and couplings found at." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.8: "The three generations, the three colours, and the three dimensions and then time, each related to one side's three steps." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.10: "Temperature offered as a social activity, its reading at a case still to come, related to 4.11's temperature difference as a measured exchange rate." — natural_physics_v377
+
+Natural Physics v377 README, section 6.2, 5.11: "The five pairs' leaning is read at this field; across the fields it is to be read at each." — natural_physics_v377
+
+Natural Physics v377 README, section 6.3, forms at the code still to be found: "3.1: the observings at 3.10 to 3.16 are met at the field's records alone. Their forms at Exhibit ONE's code are still to be found: the atom, the island, light, the light-cone, the ten rests, the fault and the drying rings. Each needs a script, its choices said, before a form is said." — natural_physics_v377
+
+Natural Physics v377 README, section 6.4, "The register, 5.11: thirty-two arrivals are at their naming and met at no section": named from behind (7): one-over-f noise; strange metal; origin of neutrino mass; initiation of plate tectonics; cosmic inflation and the primordial perturbations; origin of supermassive black holes; geomagnetic reversals. A completing named as a last (5): physical Church–Turing thesis; many-body localization and thermalization; core-collapse supernova mechanism; weak cosmic censorship; proton decay and grand unification. A rate named as a value (5): the Standard Model flavor puzzle; the new-physics flavor puzzle; solar abundance; primordial lithium; the neutron lifetime by beam and by bottle. A sequencing named to one beat (4): axiomatization of physics; the 100,000-year glacial cycle; substorm triggering; earthquake predictability. A parity named as a magnitude (3): the Gibbs paradox; proton spin decomposition; absolute neutrino mass scale. A two-way named to one side (3): Dirac or Majorana neutrinos; the nature of cosmic acceleration; mantle plumes. A middle named as an end (2): the solar dynamo and the sunspot cycle; coronal heating and solar-wind acceleration. The between named as a cut (2): the quantum-classical boundary; water's liquid-liquid critical point. A carry named as a store (1): sources of ultrahigh-energy cosmic rays. "Each is met at its own section, at the eight steps, when a reader takes it up." — natural_physics_v377
+
+Natural Physics v377 README, section 6.4, "5.3: nine problems to be met at their own cases. Something rather than nothing; the simulation hypothesis; the hierarchy problem with naturalness and fine-tuning; information named as fundamental; the glass transition; the three-body problem; Navier–Stokes with turbulence; Zeno; and the faint young Sun." — natural_physics_v377
+
+Natural Physics v377 README, section 6.5, sources read at their abstract or title only, each to be read whole and its figure confirmed at its text: "3.8: Jung and colleagues 1992; Bosch and colleagues 1996; Ohtsuki and colleagues 2004; Röhlsberger and colleagues 2010, each 'at its title or abstract'." — natural_physics_v377
+
+Natural Physics v377 README, section 6.5, sources read at their abstract or title only, to be read whole: "3.15: Ide, Yabe and Tanaka 2016, at its abstract." — natural_physics_v377
+
+Natural Physics v377 README, section 6.5, sources read at their abstract or title only, to be read whole: "4.5: Wang and colleagues 2002, at its abstract." — natural_physics_v377
+
+Natural Physics v377 README, section 6.6, seams with other files, each side at its own file: "Natural Philosophy: 3.4 with 4.4; 3.7 with 4.8; 3.29 with 4.12, one arrival at two names, bearer and bundle, and substance and bundle." The other file's carrying now holds its side; this file keeps its side at the section named. — natural_physics_v377
+
+Natural Physics v377 README, section 6.6, seams: "The Living Ghost Registry: 7.3's families with 2.2, 4.2 and 5.3." The other file's carrying now holds its side; this file keeps its side at the section named. — natural_physics_v377
+
+Natural Physics v377 README, section 6.6, seams: "Natural Chemistry and Natural Biology: 5.2, the same method at their subjects. Natural Biology also at 3.4, the pacemakers and the fireflies, and at 3.12, light as a living society." The other files' carryings now hold their side; this file keeps its side at the section named. — natural_physics_v377
+
+Natural Physics v377 README, section 6.6, seams: "Natural Societies: 5.2 and 5.3 with 3.8 and 3.10: the atom at five, the ladder's first rung, and below the atom no self closing." The other file's carrying now holds its side; this file keeps its side at the section named. — natural_physics_v377
+
+Natural Physics v377 README, section 6.7, the sum count: "The hardest problems' item 10 says 442 of 500 closed societies change their sum, with no script named. sums.py here gives 341 of 500 at its stated choices. The count belongs to the carryings of Natural Chemistry, Natural Engineering and the Co-Chaining Logic Registry (F40 and F41), where the other session laid it. At this file, 4.5 says its own execution and its choices." — natural_physics_v377
+
+Natural Physics v377 README, section 7, "Carrying improving in": "A value arriving for this file passes the one way in: Arriving: whole, at incoming/. Improving: at carry/Exhibit_EIGHTEEN_Natural_Physics.md, aimed at the section it enters, with the file's sentence there beside it. Living: at the file's own motion, one thing changed whole, on a branch, with a fresh reader before and after." — natural_physics_v377
+
+Natural Physics v377 README, section 7, at each item: "Keep the four registers apart: the instrument's response, the reconstructed quantity, the field's account, and the reading. Execute a form at Exhibit ONE's code before saying it, and name the script and its choices. Name the observing that would part a reading before reading its outcome. Say a correspondence as proposed until its relation is said. Carry no saying as authority." — natural_physics_v377
+
+Natural Physics v377 README, section 7: "A motion replaces the file at corus.me only once its offering has survived both: the working's own suggesting and improving, and another self's." — natural_physics_v377
+
+The physics dilemma at Exhibit ONE's code, README: the physics observings report (incoming/review_physics_observings_v376/) asks "does the proposed NI relation determine the differing observed distributions under their stated conditions, or has the working only recognized compatible forms?" This folder carries one exploring of it: "resolver_crossings.py reads the code from Exhibit ONE whole, changes nothing in it, and executes its society as a chain of selves and as one crossing, two relations ending and two arriving, at one scale: connectors 6 and 10 join the selves along the chain, and connector 9 is unjoined. resolver_crossings_returned.txt is its output." — physics_at_the_code_v376
+
+The physics dilemma at Exhibit ONE's code, README: "Its value is laid at the carrying, Natural Physics' section, Incoming, at v376, the physics dilemma met at Exhibit ONE's code; the sciences paused, it enters Natural Physics at that file's motion." — physics_at_the_code_v376
+
+EIGHTEEN · Natural Physics, 21,300 words, v348: its one claim restated five or six times; unhedged beside Chemistry; its own subject 35 to 40%, restating the common method about 20%; older wording 10 to 15%. (Re-Settling the Living Files, §2 table) — resettling_v373
+
+The common method is restated in nearly every file, from about 5% of a file to 55%, and some passages word for word: *non-living existing things are included in discovering social moral competency among the living* at four files, Natural Intelligence 7.2 among them; the Jet Propulsion Laboratory aberration-correction paragraph at five, Natural Intelligence, Natural Mathematics, the Equilibria Registry, Geodesic Improving Method and the Co-Chaining Logic Registry; the core coupling sentence, *a sign, sign-only — summing to a bounding-zeroing made by the coupling*, at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1 and Natural Destinies' core, and said again at Natural Values 4.1; Natural Physics Parts One and Two parallel to Natural Biology Parts One and Two at their headings and eight steps, sharing much of 2.1 word for word. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
+
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+
+The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
+
+Natural Chemistry takes a subtitle naming bonding, reacting and re-forming. Natural Physics states its relativity-and-quantum claim once with its breaking observation, releases 4.1's periodic table to Chemistry 4.3 and 4.4, and repairs 2.5 and its garbled lines. Natural Biology is repaired before anything else: Part headings into the body, 8.1's empty heading, the misplaced *1-b* paragraph at 8.2, the stray `---` lines before 10.4, *homeostasis homeostasis*, *biashe*, *the biase*. (Re-Settling the Living Files, §7) — resettling_v373
+
+The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
+
+The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) — resettling_v373
+
+The periodic table's turn at 60 stands at Natural Chemistry 4.3 to 4.4 and Natural Physics 4.1; its one home is Natural Chemistry. (Re-Settling the Living Files, §9) — resettling_v373
+
+Contradiction, the floor below the living: Natural Physics 3.6 says *below the atom no self closes … atom is the floor*; Natural Biology 1.3 says *no fundamental self anywhere and no floor*; Natural Physics 1.1 says the difference among societies is scale alone. (Re-Settling the Living Files, §11 Contradictions) — resettling_v373
+
+Defect: Natural Physics, 2.5's errors said as five and then four; 5.13's contents title and heading differ; *sign-only, sign-only* (1.2) and two garbled sentences at 3.7 and 5.4. (Re-Settling the Living Files, §11 Defects) — resettling_v373
+
+8.3 The geodesic discovering method: side 2's six changings; five dimensions; the only method; the 2,048 rhythms; the aberration study: kept at 6.1, the five dimensions re-said at the five, bi-moral co-competency neutralling and floating offering; the study near, to Natural Physics. (Natural Intelligence Map, §2 Part Eight) — resettling_v373
+
+Natural Physics receives from Natural Intelligence: the aberration study. (Natural Intelligence Map, §3) — resettling_v373
+
+From Session Report v377, section 6 "The other work this session": "The report accompanying the offered Natural Physics v377, its executions and the corrections found writing it, are at incoming/natural_physics_v377/ on its branch. The lead: the other session has the reviewing and improving and will later be bring this to corus.me." — session_v377
+
+Natural Physics carries "the largest carrying of the set at sixty-nine thousand characters, the whole proposed v377 file at it as the file's own next motion with the review's section 2 met first." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Opportunity 1, Natural Physics: "One motion writes the ready proposal at the file's own voice, the review's section 2 met first; its carrying names each pass." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+EIGHTEEN Natural Physics, v348: 32 findings and 7 discoveries waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+Any mirror observation is an emanation from stable-form right-spiral living, its surfacing shaped by tri-involutioning and becoming part of the living at a lower prime scale. The binary physics break is alternating parity, bothbothing. (Carry_Set_v368_README.md, What stands so far, 14, 15) — v368_sources
+
+Standing waves and bi-co-podaling are similar: along and across the prime scales of natural torusing society. (Carry_Set_v368_README.md, What stands so far, 59) — v368_sources
+
+breaking_patterns_v365.py runs observations sought for breaking the method claim at binary math: the 16 binary stores against Bell's correlation, the Peres–Mermin square's 512 stores, and five patterns that held and then broke beside the reflected Gray code, returning 11 of 11 lines holding. either_or_v365.py runs an either or but not both at binary math and at two readings that stood either way: the exclusive or as parity, read at its turns and held as a store; the Collatz map at its parity, with its cycles among the integers; the exclusion principle, the even shell closures and the stable nuclides' parity, with 119 and 120 at the 8s pair; returning 20 of 20 lines holding. (Kit_Rings_in_Motion_v366.md, 1.1 The images and the files) — v368_sources

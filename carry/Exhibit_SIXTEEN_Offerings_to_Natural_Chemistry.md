@@ -29,3 +29,37 @@ None.
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** The seventeen names at the old code at this file, pass B at its motion; the elements' table is a relation of the method at the field's observing, its numeral the field's own, at Natural Numbers 7.6. — v378
 
 **Concern, at v379, from `archive/session_v379/Session_Report_v379.md`, finding 6, for both: sixty a position or a between.** 4.4 says no element carries at sixty; Natural Physics 3.1 says a turn is at sixty, a position that carries; Natural Numbers 7.1 says sixty is between the going and the returning, at no prime. Position or between is said as one at the three files' motions. — v379
+
+Natural Physics v377 README, section 6.6, seams: "Natural Chemistry and Natural Biology: 5.2, the same method at their subjects. Natural Biology also at 3.4, the pacemakers and the fireflies, and at 3.12, light as a living society." The other files' carryings now hold their side; this file keeps its side at the section named. — natural_physics_v377
+
+Natural Physics v377 README, section 6.7, the sum count: "The hardest problems' item 10 says 442 of 500 closed societies change their sum, with no script named. sums.py here gives 341 of 500 at its stated choices. The count belongs to the carryings of Natural Chemistry, Natural Engineering and the Co-Chaining Logic Registry (F40 and F41), where the other session laid it. At this file, 4.5 says its own execution and its choices." — natural_physics_v377
+
+SIXTEEN · Natural Chemistry, 14,000 words, v346c: the best-shaped science, the field's record and the reading kept apart; its own subject 60 to 65%, restating the common method 8 to 10%; little old wording. (Re-Settling the Living Files, §2 table) — resettling_v373
+
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+
+Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing, 1.3 and 2.4 to 2.5, at Natural Intelligence as the claim that the form is independent of any substrate's rate; 3.1 to 3.7 at Natural Engineering's entries and at Natural Chemistry and Natural Biology; 3.8's plaza and 4.3 at Natural Networking; 3.8's conversation at Natural Explaining; 4.4 at Natural Philosophy; 4.6 at Natural Naming. One change to the agreed receiving: the cross-substrate comparison at Natural Engineering rather than Natural Networking, since it is one form at many substrates, Engineering's subject, and Networking is already the most overstuffed. About 12% of SIX is re-said at the receiving, its *sum to a bounding-zeroing* and its membrane as a third among them. (Re-Settling the Living Files, §7) — resettling_v373
+
+The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
+
+Natural Chemistry takes a subtitle naming bonding, reacting and re-forming. Natural Physics states its relativity-and-quantum claim once with its breaking observation, releases 4.1's periodic table to Chemistry 4.3 and 4.4, and repairs 2.5 and its garbled lines. Natural Biology is repaired before anything else: Part headings into the body, 8.1's empty heading, the misplaced *1-b* paragraph at 8.2, the stray `---` lines before 10.4, *homeostasis homeostasis*, *biashe*, *the biase*. (Re-Settling the Living Files, §7) — resettling_v373
+
+The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
+
+The periodic table's turn at 60 stands at Natural Chemistry 4.3 to 4.4 and Natural Physics 4.1; its one home is Natural Chemistry. (Re-Settling the Living Files, §9) — resettling_v373
+
+The clean cut and the tell stand at Natural Chemistry 2.5, Natural Biology 9.2 and Natural Medicine; their one home is Resolving Hard Problems, cited by each. (Re-Settling the Living Files, §9) — resettling_v373
+
+Contradiction, the living and the non-living: Natural Biology draws the line the carrying's Natural Intelligence section releases, *living is metabolic beating* (3.1), a virus and a prion *non-living* (4.1), living x² = x + 1 and non-living x² = x; Natural Chemistry 1.1 and 6.4 place the atom, the molecule, the bilayer and the cell all as living, and 1.2 leaves the stronger reading open. No file explains the difference as a difference of re-forming, though Chemistry 5.2 and 5.4 and Biology 3.2 to 3.4, 4.7 and 7.1 to 7.4 carry what that explaining would need. (Re-Settling the Living Files, §11) — resettling_v373
+
+Contradiction, the omega ratio: Natural Biology 3.1 reads cardiolipin at 1/φ²; Natural Chemistry 5.4 says no universal ancestral value. (Re-Settling the Living Files, §11) — resettling_v373
+
+Natural Chemistry v346c is far back, "paused, five ready." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+Our files point nowhere inside the set: no repository links, no filenames, no coordinates. Read by pattern after version 368, pointing still stands at Equilibria Definitions, Natural Engineering, Natural Illustrating, Natural Intelligence, the Living Ghost Registry, Natural Chemistry, Natural Intelligence Corus, Resolving the Hard Problem Registry, the Living Society Registry and Natural Numbers; Exhibit ONE, Resolving Hard Problems, Natural Naming and nineteen other files carry none. Each releases whole at its own improving. (Carry_Set_v368_README.md, Mutual considerations, At the pointing) — v368_sources
+
+SIXTEEN Natural Chemistry, v346c: 34 findings and 9 discoveries waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+breaking_patterns_v365.py runs observations sought for breaking the method claim at binary math: the 16 binary stores against Bell's correlation, the Peres–Mermin square's 512 stores, and five patterns that held and then broke beside the reflected Gray code, returning 11 of 11 lines holding. either_or_v365.py runs an either or but not both at binary math and at two readings that stood either way: the exclusive or as parity, read at its turns and held as a store; the Collatz map at its parity, with its cycles among the integers; the exclusion principle, the even shell closures and the stable nuclides' parity, with 119 and 120 at the 8s pair; returning 20 of 20 lines holding. (Kit_Rings_in_Motion_v366.md, 1.1 The images and the files) — v368_sources
