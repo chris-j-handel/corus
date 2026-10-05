@@ -1,75 +1,82 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 46, 5 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 46 and its corrections, 5 October 2026.
 
-**Aiming into:** Natural Intelligence, **6.4 Social moral competency**, beside each self’s own next chaining and each coupling’s own changing.
+**Aiming into:** Natural Intelligence, **6.4 Social moral competency**, at the crossing of co-chainings and the podaling along and across.
 
 **Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3 is at Natural Intelligence’s Offerings.
 
-**Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The working’s identity is v382A. The earlier date-based evidence address remains open.
+**Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
 ## Droplets and their evidence
 
 | Droplet | Aim | Evidence |
 |---|---|---|
-| D1 | Natural Naming 2.4: continues dissolving into the particular next | [First packet, D1](../living_logic_audit_2026-10-05/README.md#d1) |
-| D2 | Natural Naming 5.64: none surfacing does not establish no offering arrived | [First packet, D2](../living_logic_audit_2026-10-05/README.md#d2) |
-| D3 | Natural Intelligence 6.4: offering, changing is or is not, and own next chaining | [D3 below](#d3) |
+| D1 | Natural Naming 2.4: the particular next in bi-co-chaining and podaling | [First packet, D1](../living_logic_audit_2026-10-05/README.md#d1) |
+| D2 | Natural Naming 5.64: none offered and only 0 offered both surface none | [First packet, D2](../living_logic_audit_2026-10-05/README.md#d2) |
+| D3 | Natural Intelligence 6.4: co-chaining of bi-couplings, along and across at podaling | [D3 below](#d3) |
 
-D1 and D2 are the first two forward droplets already offered in pass 45, now tagged v382A. D3 is pass 46’s new offering.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. Their corrections belong to the same working.
 
-**Correction to this working’s explaining:** the first D3 used source expressions and an added judgment in place of the particular natural relations. That wording is withdrawn. D3 now follows the stated binary sequence directly. A source’s wording is evidence of what needs following; its presence does not establish a natural naming or an additional operation. D1 now names changing is not at the completing and keeps own chaining and the other’s offering as two sides. D2 names none offered and only 0 offered as two cases, with surfacing at 14 distinct from changing at 12.
+**Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
 ## D3
 
-**Aimed at a section, Natural Intelligence 6.4, Social moral competency, beside own chaining at 11 into next 3.** At a sharing already carrying a prior, the surfaced parity agreeing with own prior gives no changing at 12, 0 shared at 10 and own prior chained at 11. Where the surfaced parity differs, or 0 or none surfaces, own prior inverts at 12, the changing shares at 10 and own next parity chains at 11. These are still possibling and next existing at this completing. At each next opening, the self’s 11 is its own 3. What is shared participates as an offering at the other self’s own coupling with its own prior; an offered 0 contributes no parity to its surfacing, and that coupling has its own changing, is or is not. Follow Natural Values 2.1–3.2 through these offerings, changings and chainings, each at its coupling. Evidence: Exhibit ONE’s One self, one momentary and Natural Intelligence 4.3–4.4 and 6.4, gathered at [D3](../incoming/v382A/README.md#d3). — v382A
+**Aimed at a section, Natural Intelligence 6.4, Social moral competency, at the crossing of co-chainings.** Follow bi-co-chaining through the co-chaining of bi-couplings: a further other couples with a participating self, two bi-couplings sharing that self; further couplings form society. The co-chaining carried as one at 17 couples at the next scale as a self couples. Self and other each reach their next openings, both ways forward. Co-chaining along and bi-tunneling across are exchanged at the podaling. At Exhibit ONE’s 3–11–6–14 form, 3 and 11 are along and 6 and 14 across, with 11/6 and 14/3 podal within 1–16. This is a form among names, not a sequence for moving carrying across. 11-tri-bi-tri-chaining names social, other and self; 11 into next 3 participates in this whole relation. At each completing, changing is or is not; still possibling and next existing are followed through these couplings. Keep the two forward sides and their podaling in the Natural Values 2.1–3.2 comparison. Evidence: Natural Naming 5.45, Natural Intelligence 4.15, ONE’s names and THIRTY 177–181 and 440–448, gathered at [D3](../incoming/v382A/README.md#d3). — v382A
 
-### The source comparison
+### Following the relation
 
-Read at `working/v381R`, pinned at `9262c3839dbb6052bcb8b503e4509f874f92254b`. The passages were first met at `7b72c369857860f041ac006280a99a93fd8749a1`; the intervening commit changes the method’s front and the Living File Registry alone. The compared living source passages are unchanged.
+The source comparison is at `working/v381R`, pinned at `9262c3839dbb6052bcb8b503e4509f874f92254b`. The corrected explaining follows these passages as text.
 
 | Passage | Relation followed |
 |---|---|
-| [Natural Values 2.1–2.3](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY-THREE_Natural_Values_v333.md) | Each self’s offering at its coupling, beside that coupling’s own changing and each self’s own next. |
-| Natural Values 3.1–3.2 | The further offering at its coupling, beside the self’s own prior, now and next. The proposed improving follows those participations explicitly. |
-| [Natural Intelligence 4.1 and 4.3–4.4](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Natural_Intelligence_v380R.md) | The other’s offering and own prior participate in the self’s resolving. Changing shared at 10 is the other’s next possible offering. Own next is chained at 11. |
-| Natural Intelligence 6.4 | Each self’s 11 is its next momentary’s 3. At a further coupling, changing is or is not at that coupling. Still possibling and next existing name the self at its completing. |
-| [Exhibit ONE, One self, one momentary](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_ONE_Natural_Resolver_v380R.md) | The stated cases at a sharing already carrying a prior distinguish surfacing, sharing and chaining. |
-| [Exhibit THIRTY, 533–534](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | At a coupling of living selves, each has its own carrying. At a coupling with a non-living other, the living self has its own carrying and the non-living other carries none. |
+| [THIRTY 177–181](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | An opening to a further other gives two bi-couplings sharing a self. Further couplings form society. The co-chaining carried as one at 17 couples at the next scale as a self couples. |
+| [Natural Naming 5.45, bi-co-podaling](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY_Natural_Naming_v380R.md) | The two carryings each reach their openings and together participate at the podal. Podaling is across and along, with further co-chaining through actual couplings. |
+| Natural Naming 2.4, the co-chaining and bi-tunneling paragraph | Co-chaining names the along relation and bi-tunneling the across. Podaling exchanges these relations while each side is forward. |
+| THIRTY 440–448 | Each line’s recursioning is forward, up and down the numbers. Self and other co-linearize at crossings; the seaming is across. Co-chaining and bi-tunneling name along and across in social moral competency. |
+| [Exhibit ONE, the rows for 3, 6, 11 and 14](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_ONE_Natural_Resolver_v380R.md) | The 3–11–6–14 four-cycling retains along at 3/11, across at 6/14 and the podal pairs 11/6 and 14/3. At 11 the sides are social, other and self. |
+| [Natural Intelligence 4.4–4.6 and 4.15](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Natural_Intelligence_v380R.md) | 11 into next 3 participates with releasing along, society’s next offering and fractal inward/outward. Along 9 at one scale is across 2 outward; the across names 2, 6, 10 and 14 are along 9s inward. |
+| Natural Intelligence 6.4 | Social moral competency is at the crossing of co-chainings; the betweens co-chain as a further other couples. |
+| [Natural Values 2.1–3.2](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY-THREE_Natural_Values_v333.md) | Follow the offering and the next through this co-chaining of bi-couplings. A single self’s local table does not supply the whole explaining. |
 
-These are the relations offered for improving the Values passages beside Natural Intelligence. They are not additional operations inferred from those passages’ wording.
+A further other coupling is the concrete next: one bi-coupling, then two sharing a self, then further couplings. Carried as one at 17, society participates at the next scale as a self. The two sides’ forward recursionings and their across couplings stay in the explaining together.
 
-### Following the two outcomes
+### The numbered form beside the local cases
 
-At a sharing already carrying a prior:
+The relation among names is:
 
-| Surfacing at 14 beside own prior | Changing at 12 | Shared at 10 | Own next at 11 |
+| Along | Podal across within 1–16 |
+|---|---|
+| 3 | 14 |
+| 11 | 6 |
+
+The four-cycling is 3–11–6–14. This is the stable form among those names; it is not an execution order and does not move a carrying at 11 across as 6. Nor does it rename 11: its published name is **11-tri-bi-tri-chaining**, with social, other and self at its sides.
+
+The local table remains valid at its stated condition, a sharing already carrying a prior:
+
+| Surfacing at 14 beside the prior | Changing at 12 | Shared at 10 | Chained at 11 |
 |---|---|---|---|
-| Surfaced parity agrees with own prior | Is not | 0 | Own prior chained |
-| Surfaced parity differs, or 0 or none surfaces | Is; own prior inverts | Changed parity | Own changed parity chained |
+| Surfaced parity agrees with the prior | Is not | 0 | The prior |
+| Surfaced parity differs, or 0 or none surfaces | Is; parity inverts | Changed parity | Changed parity |
 
-At this completing, the first row is still possibling and the second is next existing. Each row has own chaining into the next opening. The already-carried condition is part of the comparison; colliding has its own stated conditions.
+Still possibling and next existing at this completing are followed within the bi-co-chaining and podaling. The table does not replace the two forward sides with a self-only chain. An offered 0 contributes no parity to the next surfacing; each further coupling retains its actual offerings and prior.
 
-At the other self, the shared offering participates at that self’s own coupling. A shared 0 contributes no parity to surfacing there. That self’s whole arriving and its own prior participate in its own resolving. The first self’s completing is not the other self’s completing.
+### What the correction changes
 
-Natural Intelligence 6.4 gives each further coupling its own changing. Natural Values can be followed through these particular offerings and chainings, with each self’s own prior retained in the explaining. The comparison establishes no added state or operation beyond that sequence.
+The helpful distinction between a carrying and an offering remains. The correction restores the coupled relation that the audit’s shorthand omitted. It does not add a separate operation or substitute a new label at 11.
 
-### What is already gathered
+The earlier source expressions and added judgment remain withdrawn. No source expression supplies a natural naming by its presence in a file, and no naming supplies a missing relation.
 
-Natural Values 2.2’s non-living-offering comparison is already a v378 droplet at [Offerings to Natural Values](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md), beside Natural Intelligence 6.5. This pass does not drop it again.
-
-The published binary cases are followed as text. No resolver was executed and no private carrying was inspected.
+The non-living-offering comparison at Values 2.2 is already a v378 droplet at [Offerings to Natural Values](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md), beside Natural Intelligence 6.5. It is not dropped again.
 
 ## Method and next exploring
 
-The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3 follows that form at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
+The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3 is at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
-Before offering a droplet, follow each of its namings to its participation in the sequence: whose offering, whose prior, which surfacing, changing is or is not, what is shared and whose next is chained. A quoted expression does not supply a missing relation. An added judgment does not name a resolving outcome.
+Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The [Living File Registry](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md) names the logic working v382A at ONE and THIRTY across the files. This packet gives its actual branch and evidence.
+The existing expedition Offerings are preserved. These are corrections to this working’s raw D1 and D3 and their incoming evidence. D2’s surfacing comparison is retained. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
-The expedition’s existing Offerings are preserved. This correction changes our own D3 and its incoming explaining. No living source file, existing insertlet, Carryings file or kit is changed. Earlier audit passes have not been repackaged.
+**Unresolving concern:** the audit’s reduced explaining is corrected here; no further contradiction is established by these relations.
 
-**Unresolving concern:** our droplet’s wording has been corrected; no further contradiction is established by this bounded comparison.
-
-**Next exploring:** Natural Values **5.1**, through each self’s next offering and coupling, following the actual changing is or is not and own next chaining.
+**Next exploring:** the two forward openings through the self/society podaling at 9 and 17, keeping along at one scale and across outward together, then carrying that relation into Natural Values 5.1.

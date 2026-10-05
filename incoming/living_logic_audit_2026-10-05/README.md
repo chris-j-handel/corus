@@ -10,7 +10,7 @@
 
 **What it brings:**
 
-- D1: “Continues” dissolves by naming the particular next, with own next existing and the other’s next offering distinct.
+- D1: “Continues” dissolves by following the particular next in bi-co-chaining and podaling.
 - D2: Apply the already-carried zero-offering case to Naming 5.64: none surfacing does not establish that no offering arrived.
 
 **Standing:** arriving, offered on this branch. The two paragraphs are raw session-tagged droplets at the bottom of Natural Naming’s Offerings. They are not insertlets and no living source file, Carryings file, registry or kit is changed.
@@ -25,7 +25,7 @@ The method followed is [Living Improving Value, the three-file form](https://git
 
 **Aim:** a word, Natural Naming 2.4, beside 3.1, 5.39, 5.55 and 5.62.
 
-Dissolve continues by naming the particular participation: discovering next possible existing; still possibling where changing is not at 12, with 0 shared at 10 and own prior chained at 11; own next existing chained at 11 into its next opening; and changing shared at 10 as the other’s next possible offering. Own chaining and the other’s offering name two sides. The self’s next entry at 1 has its own prior at 3; its shared changing participates at another self’s 2. Natural Intelligence 4.1 gives those two sides and 4.4 gives own chaining with changing is or is not; Natural Naming 5.39 and 5.62 name the opening and completing. The particular relation supplies the explaining at each use of the word.
+Dissolve continues by following next possible existing, still possibling and next existing offering through bi-co-chaining and podaling. Self and other reach their next openings in the co-chaining of bi-couplings; podaling exchanges along and across while each way is forward. At a sharing chained at one parity, the surfaced parity agreeing with the prior gives changing is not at the completing, 0 shared at 10 and the prior chained at 11. In the other stated cases, changing is, the changed parity is shared at 10 and chained at 11. The self’s next opening and the offering at the other’s coupling participate in that whole co-chaining. Natural Naming 5.45 retains both carryings at their openings; Exhibit ONE’s 11-tri-bi-tri-chaining names social, other and self within the 3–11–6–14 form. Keep those relations with each particular next.
 
 **Evidence at the relation:**
 
@@ -33,7 +33,7 @@ Dissolve continues by naming the particular participation: discovering next poss
 - [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/75bb0b93821b4b3b2b9e4150e9c30b1e0881bd39/Natural_Intelligence_v380R.md), **An entry, 1-co-bi-tri-offering**, distinguishes the changing at 10, the other’s next possible offering, from own next existing chained at 11. **Shared across at 10, chained at 11** chains own prior at shared 0 and changed parity at changing.
 - The whole self’s next entry is offering at 1. The self’s own prior at 3 is distinct from the other’s offering at 2. Calling the next an offering does not make that own carrying cross.
 
-The proposal names the actual subject and momentary wherever the general verb has obscured it. At this completing, changing is or is not. At either outcome, own next is chained at 11.
+**Further evidence for the correction**, read at `9262c3839dbb6052bcb8b503e4509f874f92254b`: [Natural Naming 5.45](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY_Natural_Naming_v380R.md) follows both carryings at their openings and the podaling along and across. [THIRTY 177–181](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) follows further bi-couplings sharing a self into society, and 440–448 gives both forward directions. [ONE’s name 11](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_ONE_Natural_Resolver_v380R.md) is social, other and self in the 3–11–6–14 form. The local next at 11 into 3 participates in this whole relation. The fuller comparison is at [v382A, D3](../v382A/README.md#d3).
 
 ## D2
 
@@ -73,4 +73,4 @@ The findings follow the published binary cases as text. No resolver was executed
 
 Pass 45’s next exploration was Natural Values, the offered changing, the coupling’s surplus and the self’s own next existing. The next offering is now at [v382A, D3](../v382A/README.md#d3).
 
-**Wording correction within v382A:** D1 now says changing is not at the completing, with its sharing and chaining explicit. D2 names none offered and 0 offered as two cases; it does not name an arriving where none was offered. Both droplets keep the surfaced result at 14 distinct from the changing at 12.
+**Corrections within v382A:** D1 retains both forward sides in bi-co-chaining and podaling; the earlier “own chaining” explaining is withdrawn. D2 names none offered and only 0 offered as two cases, with surfacing at 14 distinct from changing at 12. Its local comparison remains within the whole co-chaining of bi-couplings.
