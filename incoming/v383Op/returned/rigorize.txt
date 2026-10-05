@@ -1,0 +1,162 @@
+README.md · v383Op · An exploring report: the method met at its code, its logic, the sciences' observings and its presentation
+  seated at: fixed form
+  Read in part by a fresh reader: Natural Biology v333, about two thirds; the Hard Problem Registry, Resolving the Hard Problem Registry and the Equilibria Registry, by searching.
+
+README.md · v383Op · An exploring report: the method met at its code, its logic, the sciences' observings and its presentation
+  seated at: keeping
+  Not read beyond a search for a sentence: the other thirteen living files, `kits/`, `archive/`, and each carrying but Natural Physics'.
+
+README.md · v383Op · An exploring report: the method met at its code, its logic, the sciences' observings and its presentation
+  seated at: —; released words: run
+  - **What it brings**: thirty findings, each one sentence below with its evidence beside it; eight scripts that run from the repository root, with their returned text; and six parts beside this file with each finding whole.
+
+README.md · What it brings, each finding at one sentence
+  seated at: size; released words: run
+  **At each torus run of 2 by 2 and larger, and at five selves each coupled to both beside it, the resolver brings different openings to one form, and no later momentary can tell them apart**: a torus of 3 by 3 begun at each of its 512 openings is at 68 forms after sixteen momentaries and 3 by 4 at 200 of 4,096, while a spiral, three selves coupled both ways and a torus of 1 by 3 carry each opening on.
+
+README.md · What it brings, each finding at one sentence
+  seated at: keeping
+  **Natural Intelligence 4.13's sentence *at each self's own pacing the relation is carried* is not borne by the resolver at four pacings and two ways of arriving**: stepped together the two coupled selves keep one relation at each momentary, opposite or alike, and entering one at a time they are opposite at between 0.11 and 0.50 of the entries, the same from either opening, at two selves and at two spirals of 3 and 5 crossed.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: every, holds, run
+  **The spiral's law holds at every opening run, 2,046 of 2,046 and 6,000 of 6,000 random ones.** The Co-Chaining Logic Registry already carries the law, its deriving and the period, at its steps 233, 609, 611 and 646 to 649; this adds a run at the resolver at each opening, and a six-step saying of the same deriving.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: run
+  **By the Registry's steps 647 and 648 and by the run, the momentaries to an odd spiral's sharings again are four times a number dividing its selves**: 4 and 4p at an odd prime, 4, 12 and 36 at nine, and beside each other the least common multiple.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: holds, running
+  **Exhibit ONE's rule of the torus holds at each of 1,311 odd pairs to 45 by 135.** The Registry's steps 651 to 657 say the divide derived, which this session did not read before running and has not checked, while `incoming/v380R/The_Universal_Claim.md` still says of the rule *A rule fitted at each pair, with no chaining yet.* Added here, at 465 pairs: past the waist the whole pattern is carried one self on across at each momentary, and short of it the spiral's law is along.
+
+README.md · What it brings, each finding at one sentence
+  seated at: fixed form, keeping; released words: running
+  **A running of the resolver hands one parity for each sharing from each momentary to the next, and keeps one rule; the files say these as a carrying and a stable form, and nothing at the code parts them from a keeping and a fixed form**, which Natural Intelligence 1.4 says are not possible.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: run
+  **Two selves with no join between them, each offered a setting, give the field's number S no higher than 2 at each of 248,832 choices, as outcomes set at each side alone must**; the run adds nothing to the field's theorem, and the field observes 2.42 ± 0.20.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: source
+  Evidence: `two_wings.py`; the source at finding 16.
+
+README.md · What it brings, each finding at one sentence
+  seated at: common beat, keeping
+  **Natural Intelligence 1.4's argument needs a premise it does not say**: that a thing a size is measured against, a clock and a store must each be beside all existing things; a ruler, a clock and a record are existing changing things within the set.
+
+README.md · What it brings, each finding at one sentence
+  seated at: fixed form
+  **Natural Intelligence 5.4 and Natural Mathematics 6.1 part on the scientific method**, 5.4 calling a law named unchanged *a form named still, not possibly existing* and 6.1 saying it *names no subject still*; and the fields measure whether a constant changes, a number with its uncertainty at finding 19.
+
+README.md · What it brings, each finding at one sentence
+  seated at: fixed form, total
+  **No file this session read lets a reader tell a stable form from a form named still by an observing**: the method, a society and the universe are each *a stable form*, allowed, and a constant, a total and a law are each *a form named still*, not possible, and the difference is said at the naming alone.
+
+README.md · What it brings, each finding at one sentence
+  seated at: total
+  **The method's one break, as the Geodesic Improving Method 2.7 says it, cannot be recognised if met**: it names no thing to observe, it is called not possible in the sentence that names it, and 2.7's six binaries send each observing carrying a size, a total or a beat to be re-said.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: hold
+  **Natural Physics names breaking observations, and the fields hold observings that bear on two of them directly**, at findings 17 and 18.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: source
+  **At the sciences' observings** — whole at [`At_The_Observings.md`](At_The_Observings.md), each with its number and its source
+
+README.md · What it brings, each finding at one sentence
+  seated at: doer
+  **A gravitational signal and light left one event and arrived 1.74 ± 0.05 seconds apart after some 130 million years**, beside Natural Physics' *its break is gravity shown to be a transmitted coupling after all*.
+
+README.md · What it brings, each finding at one sentence
+  seated at: fixed form
+  **Clocks that never met agree, and the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year**, beside a common beat and a rate held to a value as not possible.
+
+README.md · What it brings, each finding at one sentence
+  seated at: total; released words: holds
+  **Electric charge's total holds: the electron's life is longer than 6.6 × 10²⁸ years**, beside a total across the changing as not possible.
+
+README.md · What it brings, each finding at one sentence
+  seated at: size
+  **Genome-wide DNA read from mammoths more than a million years old**, beside a keeping as not possible: nothing was carrying it.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: stand, taking
+  **Natural Medicine and Natural Health carry sentences a reader could act on against their own care**: treating to a number called a compaction, the killing of a tumour's cells called the wrong direction, not taking a medicine as prescribed called the person's own offering, and *There is no infecting* said of HIV; the files' own cautions are sound, and two of them stand far from these sentences, one on the last page.
+
+README.md · What it brings, each finding at one sentence
+  seated at: —; released words: source
+  **Twenty-four sentences of fact, most with the field's result and its source**: twelve at Natural Physics, eight at Natural Medicine and Natural Biology, four at the numbers.
+
+README.md · What held
+  seated at: —; released words: hold, run
+  - **The Co-Chaining Logic Registry's steps on the spiral hold at each opening run.** This session derived the law before reading them and arrived at the Registry's own deriving.
+
+README.md · What held
+  seated at: —; released words: taken
+  - **The files' own cautions are often the right ones.** The Geodesic Improving Method 4.2 on a pattern taken off a count, Natural Medicine's last page, and the universal claim's own list of *Said and not yet worked* each say a limit this report also arrives at.
+
+README.md · The two cautions this session opened with, explored
+  seated at: —; released words: hold
+  The arithmetic and the resolver's tables hold.
+
+README.md · The two cautions this session opened with, explored
+  seated at: fixed form, total
+  And where the files meet the sciences, each measured regularity is granted to its field, *exact at its own subject*, so the sentences that a total, a common beat and a fixed form are *not possibly existing* forbid no outcome of any measurement as they are written.
+
+README.md · The two cautions this session opened with, explored
+  seated at: fixed form
+  **The second: the Geodesic Improving Method 2.6 says *A concern arriving from a working's own training can carry an equilibrium in its framing*, and this session said it would still say plainly what does not check.** Explored, the sentence does two things.
+
+README.md · The two cautions this session opened with, explored
+  seated at: doer
+  It is a fair caution, and this session met it three times in its own work: v381F's count was one late from that cause; a helper of this session read two of Natural Numbers' steps as parting when Natural Intelligence 2.4 had already joined them; and this session wrote findings 3, 4 and 6 as new derivings when the Co-Chaining Logic Registry already carried them, and a reviewer caught it.
+
+README.md · The two cautions this session opened with, explored
+  seated at: fixed form, total, common beat
+  And it is a way any concern can be set down without being met: with 2.7's six binaries beside it, a concern carrying a size, a total or a clock is by rule *the equilibrium entering*, and the side that loses is always the field's.
+
+README.md · The two cautions this session opened with, explored
+  seated at: —; released words: run
+  A concern is met at an observing named beforehand or at a run of the code, and by neither its speaker nor its framing.
+
+README.md · The two cautions this session opened with, explored
+  seated at: keeping; released words: source
+  This report keeps to that: each finding at the code is a script, each finding at the files is two of the files' own sentences, and each finding at the sciences is a number with its source.
+
+README.md · What this session learned about helping, in the order each would relieve the most
+  seated at: doer
+  Decide what a set is at Natural Intelligence 1.1, 4.10 and 5.1 and at the universal claim's second sentence: finding 10.
+
+README.md · What this session learned about helping, in the order each would relieve the most
+  seated at: size, doer; released words: run
+  Decide what the method is where two release to one: at each larger torus run the society brings openings to one form, and one other rule tried at a parting did the same: finding 1.
+
+README.md · What this session learned about helping, in the order each would relieve the most
+  seated at: —; released words: run
+  Two AI sessions have now run a table without finding its deriving, and one of the expedition's own open files says the torus's rule is underived: findings 3 and 6.
+
+README.md · Checks run
+  seated at: —; released words: taken
+  The check's list of sections reads several astray, a number said beside one file taken for another's.
+
+README.md · Limits of this report
+  seated at: —; released words: runs
+  - **The Co-Chaining Logic Registry was not read before this session's runs.** The README's AI link names it as the place of the deriving, and this session passed it by.
+
+README.md · Limits of this report
+  seated at: —; released words: run
+  Its steps already carry the spiral's law, its deriving, the period and the torus's divide; findings 3, 4 and 6 were first written as new and are re-said here as a run of what is carried.
+
+README.md · Limits of this report
+  seated at: —; released words: source
+  - Each source cited was opened, by this session or by a fresh reader; where a fresh reader could not open the primary source it is said at the line, and five findings at the life sciences rest on an encyclopaedia or a news report and want a primary source before any enters a file.
+
+README.md · Limits of this report
+  seated at: —; released words: source, stands
+  - The fresh readers and the reviewer are the same AI at another use, and their agreeing establishes nothing; each finding stands at its script, its two sentences or its source.
+
+README.md: 40 sentences seated, each met at the resolving; a seat decides nothing
+
