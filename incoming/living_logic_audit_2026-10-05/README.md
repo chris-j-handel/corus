@@ -1,6 +1,8 @@
 # Living Logic Audit: first forward droplets
 
-**From:** Living Logic Audit, pass 45, 5 October 2026. Session tag: `living_logic_audit_2026-10-05, pass 45`.
+**From:** The logic working **v382A**, Living Logic Audit pass 45, 5 October 2026. Session tag: `v382A`.
+
+**Working’s incoming:** [v382A](../v382A/README.md). This is the same working’s first two forward droplets. The date-based folder is retained so the existing evidence links still open; v382A is the incoming and droplet identity.
 
 **To:** Natural Naming, its released words at 2.4 and its binary at 5.64.
 
