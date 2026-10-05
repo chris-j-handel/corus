@@ -1,3 +1,5 @@
+Released at v381R: Exhibit TWO's carrying as it was at v380R, whole. Its receiving: each Ready and Concern paragraph a droplet at carry/Exhibit_TWO_Offerings_to_Natural_Networking.md, tagged with the session it came from; each thing the file rests on named at carry/Exhibit_TWO_Carryings_of_Natural_Networking.md; its paragraphs of record at the Session Record. Relied on by nothing.
+
 Exhibit TWO Natural Networking · carrying v380R
 
 # Exhibit TWO · Natural Networking
