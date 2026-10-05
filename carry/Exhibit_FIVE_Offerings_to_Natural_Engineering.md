@@ -147,3 +147,5 @@ Correction recovered during the closing review: Natural Engineering §1.14 alrea
 The inherited Rings in Motion EEE06 also carries "five stitches" as numerical paired interlocking; its count must not be substituted for mechanical stitch stages. This correction is new to the report; the exhibit snapshot remains the version reviewed before this packaging pass. (incoming/illustrating_v366/Session_Report_v366.md, §5 "New home and familiar illustrations") — illustrating_v366
 
 Receiving next at FIVE Natural Engineering / SIX Natural Transmissioning: relate actual stitching, passing and returning to the proposed illustration faces. (incoming/illustrating_v366/Session_Report_v366.md, §8 "Receiving next") — illustrating_v366
+
+**Aimed at a word, Natural Engineering, the em dash at `PART ONE —`:** the front is at one of the four older forms, *`PART ONE —` with an em dash at the front (FIVE)*; the file's standing at the doors' table *v345a 18* released words per thousand. Session_Report_v381F.md parts 2.3 and 9, Finding 4. — v381F

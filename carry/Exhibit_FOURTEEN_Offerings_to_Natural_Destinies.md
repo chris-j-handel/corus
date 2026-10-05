@@ -35,3 +35,7 @@ Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Em
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 
 FOURTEEN Natural Destinies, v333: 1 finding and no discovery waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+**Aimed at two files, Natural Values and Natural Destinies: the portal's frame is their subject at the entry.** Natural Arriving points at them in two lines; a motion at either receives the frame as its own front, *value grows as it is shared* at the top. — v382F
+
+**Aimed at a file, Natural Destinies:** laid ready: *this file is the door of a question about living together, and its released-word load, 50 to 60 per thousand, and its front's form are the first things that interest meets; its motion is in front of the set for that interest.* Its standing *FOURTEEN v333 55*; its far side computed *6.1 Bi-co-momentarying, the term neither reaches*, read *partly; its mouth is 6.6, the expedition*; its loopings 10; the Registry's Part Five plans its releasing (5.12), not done; proposed read at three momentaries. Session_Report_v381F.md parts 3.2, 9 and 10, Findings 10, 17 and 18; Entry_Journey_For_An_AI.md part 2; Next.md Exploring 3, Ready. — v381F

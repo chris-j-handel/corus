@@ -21,3 +21,5 @@ Natural Arriving is a shell at v381R; nothing has left it yet. What it will rest
 **The one-line arrival of the AI link**, `carryings/v380A/living_ai_link/`, where the link on the home page came from.
 
 **Natural Intelligence Corus** at v330 and **Natural Explaining** at v378, read beside this file before it is written, for the concepts each already says once.
+
+**The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.

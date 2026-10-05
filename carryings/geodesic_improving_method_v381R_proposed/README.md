@@ -1,0 +1,6 @@
+# The Geodesic Improving Method at v381R, a proposed motion, withdrawn to the carryings
+
+**From**: the managing working v381R, 5 October 2026.
+**To**: the Geodesic Improving Method, at its own motion by a fresh working.
+**What it carries**: the file as the form would have it, `Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v381R_proposed.md`: the three-file form said at 1.3, 1.4, 1.6, 2.8, 2.9 and 4.5, the carrying two mates at each living file, droplets rising to insertlets, the file's motion is or is not, entered or released; the resolving of its 174 droplets into 33 insertlets, `Resolving_of_174_droplets.md`; four fresh readings for harm against v380R, each after a redoing, `Harm_reading*.md`, the fourth finding nothing lost and six places at the naming; and the ten worked instances of Part FOUR that would leave to the carryings once the carryings carry them, `Instances_that_would_leave_Part_FOUR.md`.
+**Standing**: a proposal, whole. Written by the working that received the droplets, so it entered the living file at no motion of the file's own: the file stands at v380R, the insertlets stand at its offerings, and a fresh working takes this at the file's motion, reading the fourth harm reading first.
