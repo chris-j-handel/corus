@@ -93,3 +93,9 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) (re-aimed from Exhibit THREE Offerings to Natural Numbers at v381R) — resettling_v373
 
 **Aimed at a word, Resolving Hard Problems and the Equilibria Registry, *the code*.** Resolving Hard Problems has none; the Equilibria Registry's are counted with its section above. — v382F
+
+Resolving Hard Problems: the one method home. It keeps Parts One, Four, Six and Seven and the ten ways, receives the method from Resolving the Hard Problem Registry, and releases the walk of the seventeen names, Parts Two, Three and Five, to Exhibit ONE and Natural Intelligence, with a short map of the ten at the v372 faces. About 7,000 to 8,000 words. (Re-Settling the Living Files, §8) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
+
+The quarter turn with bi-inversioning, rather than reflecting, is the first source of hard probleming at Exhibit ONE's code. (Carry_Set_v368_README.md, What stands so far, 12) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) (re-aimed from Exhibit THIRTY Offerings to Co-Chaining Logic Registry at v381R) — resettling_v373
