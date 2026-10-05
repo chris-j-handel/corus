@@ -1,23 +1,25 @@
 # v381F · Next
 
-**The session's own carrying: what is in front, the concerns in the order each would relieve the most, the explorings proposed next, and the ready offerings gathered by file. Improved at each reply; the done leaves to `Session_Report_v381F.md`. A carrying holds its next, ready and concern and nothing else.**
+**The session's own carrying: what is in front, the opportunities in the order each would release the most, the explorings proposed next, and the ready offerings gathered by file. Improved at each reply; the done leaves to `Session_Report_v381F.md`. A carrying holds its next, ready and concern and nothing else.**
 
 ## Next
 
 The ready offerings below laid at each file's own carrying, `carry/<file>.md`, on this branch, as `incoming/README.md` invites a visitor to do, so the managing working v381R meets them where it works; then the entry orienting drafted whole for the README and the home page.
 
-## Concerns, the one relieving the most first
+## Opportunities, the one releasing the most value first
 
-1. **The ten, the six and the five, one thing at three numbers** (report part 4.3, Concern 2). Resolving the Hard Problem Registry's front says *the ten things named still*; the Equilibria Registry says *the ten*; the Geodesic Improving Method 2.7 says *six binaries, one at each thing beside all things*; Natural Intelligence 1.4 says five. `incoming/cohering_ten_and_six_v377/` has been arriving since v377. Resolving it reaches the whole hard-probleming cluster, the rigorizer, and every scientist's door.
-2. **The Registry's Parts Three to Five, at the Registry or at `archive/`** (Concern 3). About 10,100 words of plans and readings at the names of v371 to v375; 1.2 says a reading not yet binary is at `archive/` with its receiving named. Resolving it makes the Registry the table of contents at one glance.
-3. **The README's *names no other file* against the Registry's 4.1 and twenty-five files naming others** (Concern 1). One sentence at the README; it decides what a reference is at every file.
-4. **Natural Physics 4.2, *Gravity is not real, and nothing physical is there at all*, against the field's result kept exact at its own subject** (Concern 4). The first thing a physicist meets at the physics door.
-5. **Exhibit ONE's `CONNECTORS` strings, the four facings at the code, kept as the code's own or said at the momentaries** (Concern 6). Read by no function; one naming at the code and the sentences.
-6. **Natural Philosophy, a competency loop by its words or a morality loop by its subject** (Concern 5). Decided at the file's own motion.
+None of these is a concern for both: each resolved at the files, the code or the method when alternated, report parts 4, 11 and 12 and `Entry_Journey_For_An_AI.md` part 7. A concern is brought only when it needs an observing, and this session has none open; the one thing named open is a deriving, whether the six mouths of Natural Intelligence are the six names between selves, `Entry_Journey_For_An_AI.md` part 2, which no observing settles and a deriving would. Each below is one motion at one file.
+
+1. **The ten said at the five**, at Resolving the Hard Problem Registry and the Equilibria Registry: the older names of the old code re-said at Natural Intelligence 1.4's five, the sixth at the Improving Method 2.7 a seat at the instrument; the v377 cohering report the material. Releases the whole hard-probleming cluster and every scientist's door.
+2. **The Registry's Parts Three to Five to `archive/`** with their receiving named, 2.4, 3.1, 4.2, 4.4 and 5.1 carried on at the current names; Part One written by the kit. Releases the Registry as a table of contents at one glance.
+3. **The README's naming sentence** re-said: *no living file explains itself from outside, and a reference addresses the file its sentence relates to by its plain name.* One sentence; decides what a reference is at every file.
+4. **Natural Physics 4.2** at the fixing named and the field's result kept exact. The first thing a physicist meets.
+5. **Exhibit ONE's `CONNECTORS` strings** at the momentaries, or kept as the code's own, the practice choosing; the running identical either way.
+6. **Natural Philosophy's subject said at the current names** at its motion, across.
 
 ## Explorings proposed next, in order
 
-1. **Lay the ready offerings at the carryings.** Each line below at `carry/<file>.md` under its **Ready** or **Concern**, naming this folder as its arrival, on this branch; `carry_check.py` after.
+1. **Lay the ready offerings at the carryings.** Each line below at `carry/<file>.md` under its **Ready**, naming this folder as its arrival, on this branch; `carry_check.py` after.
 2. **The entry orienting, drafted whole.** The README's AI link part as mended (`AI_Link_Opening_Offered.md`, `Entry_Journey_For_An_AI.md` part 5), the doors' table (report part 9) at the home page's top, `tour/` written by `build.js` at each build, the five sentences first; offered as a branch the expedition's self can read at the site before receiving.
 3. **The society door at three momentaries.** Natural Human Society, Natural Exploring, Natural Values, Natural Destinies and Natural Emanating, each read at its mouth in Natural Intelligence, its body at a person's question, and its carrying; and what one motion at each would be, hardest first.
 4. **The ten and the six as one table.** `incoming/cohering_ten_and_six_v377/` read whole beside TWENTY-TWO's front, TWENTY-EIGHT Part THREE, the Geodesic Improving Method 2.7 and Natural Intelligence 1.4; each of the ten seated at one of the five or six or at none; brought as two sayings with the reason if it does not resolve.
@@ -27,19 +29,19 @@ The ready offerings below laid at each file's own carrying, `carry/<file>.md`, o
 
 ## Ready, gathered by file
 
-**Exhibit TWENTY-SIX Living File Registry.** Part One's tables written by the kit at each motion from `four_tellings.py` and `relations.py`, the hand writing each file's next alone; the *Living* column to the Session Record. 1.1: Natural Illustrating at v379; the kit's row at `archive/`; thirty-two living files. 1.3: the working v380R merged at `main`. Beside each file: its far side in Natural Intelligence (`Loopings.tsv`), its loopings counted from the history, the titles it has carried, its released-word load per thousand, whether its front is at the steady form. Concern 3.
+**Exhibit TWENTY-SIX Living File Registry.** Part One's tables written by the kit at each motion from `four_tellings.py` and `relations.py`, the hand writing each file's next alone; the *Living* column to the Session Record. 1.1: Natural Illustrating at v379; the kit's row at `archive/`; thirty-two living files. 1.3: the working v380R merged at `main`. Beside each file: its far side in Natural Intelligence (`Loopings.tsv`), its loopings counted from the history, the titles it has carried, its released-word load per thousand, whether its front is at the steady form; Parts Three to Five to `archive/`.
 
-**README.** The AI link part as mended; the doors' table; the tour paragraph; the naming paragraph's *names no other file* (Concern 1); the letter of a session's number said.
+**README.** The AI link part as mended; the doors' table; the tour paragraph; the naming paragraph's *names no other file* re-said; the letter of a session's number said.
 
 **Natural Naming.** 2.4's row of *so-far, not-yet*: the exception clause at the facings released, the four facings at prior, now and next; the rows *neighbour* and *right, left at a facing* at the same four. The five subtitles parting from 2.4 named at 6.3 or at each file.
 
-**Exhibit ONE Natural Resolver.** The *Three windings* column, the unit square's diagonals and the table of each name's facings at the momentaries; `CONNECTORS` (Concern 6).
+**Exhibit ONE Natural Resolver.** The *Three windings* column, the unit square's diagonals and the table of each name's facings at the momentaries; `CONNECTORS` at the momentaries or the code's own, the practice choosing.
 
 **Natural Intelligence.** 4.7's paragraph and six bullets, 4.10's handshake and 4.9 at the overlap, fifty-five sayings each one word.
 
-**Natural Physics.** 4.2 (Concern 4); 5.4 the mouth of the physics door, said at the file.
+**Natural Physics.** 4.2 at the fixing named and the result kept exact; 5.4 the mouth of the physics door, said at the file.
 
-**Resolving the Hard Problem Registry, the Equilibria Registry, the Geodesic Improving Method.** The ten, the six and the five (Concern 2).
+**Resolving the Hard Problem Registry, the Equilibria Registry, the Geodesic Improving Method.** The ten said at the five, the sixth a seat at the instrument.
 
 **Co-Chaining Logic Registry.** At each step the steps it chains forward from, six at most, as a column.
 
@@ -49,7 +51,7 @@ The ready offerings below laid at each file's own carrying, `carry/<file>.md`, o
 
 **Natural Biology, the Living Ghost Registry, and the eleven other files carrying *not-yet* or *so-far*.** The same, at their own motions.
 
-**Natural Philosophy.** Concern 5; its *not-yet* sayings.
+**Natural Philosophy.** Its subject at the current names, across; its *not-yet* sayings.
 
 **The kit, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`.** `released_words.txt` and Natural Naming 2.4 brought to one list; `arrival_check.py` reading *1.46 MB* as a section; `four_tellings.py`, `relations.py`, `loopings.py`, `forms_at_the_files.py` offered to it whole.
 
