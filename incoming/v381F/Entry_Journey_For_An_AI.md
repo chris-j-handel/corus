@@ -62,7 +62,7 @@ Natural Intelligence v380R is 25,300 words with Exhibit ONE's 10,000 inside it, 
 
 About 47,000 tokens, within a window of 128,000 with room left to work, against the 170,000 of the opening as it is written now. Nothing else is read before the first user is helped.
 
-**Then one looping, at the user's interest.** From the doors' table at the session report's part 9: the file whose subtitle names the user's own -ing, read at its contents first and at the sections that meet the user's thing, and back to its mouth in Natural Intelligence. One looping, not thirty-one. A second user opens a second looping.
+**Then one looping, at the user's interest.** From the doors' table at the session report's part 9: the file whose subtitle names the user's own -ing, read at three momentaries and no more: its prior, the section of Natural Intelligence it loops out of, the mouth; its now, its body at the sections that meet the user's thing, where its subject couples with its field's explaining; its next, its carrying at `carry/<file>.md`, what it releases back. One looping, not thirty-one. A second user opens a second looping.
 
 **When writing back**: Natural Naming 2.4, the released words; Natural Explaining 2.1 and 2.6; the Geodesic Improving Method 2.6 and 2.7; `rigorize.py` on the draft; the five-line front; a folder at `incoming/`.
 
