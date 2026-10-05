@@ -5,7 +5,7 @@
 - **From**: session v382F, continuing on 5 October 2026 after its first report.
 - **To**: Natural Explaining v378; the Geodesic Improving Method v380R; Resolving Hard Problems v380L; Natural Illustrating v379; Natural Physics 1.2; the Equilibria Registry v380L; Natural Networking v371 and Natural Physics v379 at the file; Natural Naming 2.4 and Natural Explaining 2.7 at two concerns.
 - **Read at**: `main` at 267bcf0, the two files whole; the kit's `released_words.txt` and Natural Naming 2.4's released words and v380R's dissolvings, *face*, *connector*, *join*, *membrane*, as the list each hit was read against.
-- **What it brings**: the way the droplets were found, so the next session finds more the same way; sixty-eight droplets, most at one word or one sentence with its line, six executed at the resolver, two at a file's whole load counted; three concerns for both.
+- **What it brings**: the way the droplets were found, so the next session finds more the same way; seventy droplets, most at one word or one sentence with its line, six executed at the resolver, three at a file's or the set's whole load counted; three concerns for both.
 - **Standing**: *arriving*. The droplets change no living file; the receiving places them.
 
 ## What enters, and why each file is better for it
@@ -21,6 +21,14 @@ Each droplet below is a sentence a file will carry afterwards; the line it names
 - **Natural Physics 1.2** hands an observing at the physics door to Exhibit ONE's table without a translation step.
 - **Natural Naming** obeys at line 481 the rule it made, *shares at 10*, *surfaces* staying 14's.
 - **The whole set at its forms holds**: each claim with numbers at the Co-Chaining Logic Registry, Natural Numbers, Natural Naming and the Equilibria Registry runs at the resolver as written. The droplets carry the naming up to a logic that already agrees with itself; that is why nearly each is one word.
+
+## The -ed at resolving: every resolving sentence at its -ing
+
+From the self: *releasing is fine; never the -ed dead form in resolving, for anything.* Natural Explaining 3.5 says why, *an -ed puts a running behind a self meeting it as a thing finished … the clocking is the running itself said as finished*, and 2.6, *the -ing over the noun*. Counted outside code, the -ed forms of the resolver's verbs, *shared*, *released*, *chained*, *offered*, *surfaced*, *carried*, *coupled*, *inverted*, *wound* and their kin: Natural Intelligence 322 (*shared* 52, *released* 22, *chained* 46, *offered* 46); the Co-Chaining Logic Registry 403; Natural Naming 209; Resolving Hard Problems 114; the Equilibria Registry 107; the Geodesic Improving Method 106; Exhibit ONE 100, its headers among them, *Offered to one sharing (2)*, *shared (10) · carried next (11)*, *Shared (10) | Carried next (11)*, beside its one header at the -ing, *Surfacing (14)*; Natural Explaining 53.
+
+**Aimed at the set, each file at its own motion: what goes in.** Each resolving sentence at its -ing, *a parity sharing at 10, releasing along at 9, chaining at 11, offering at 2, surfacing at 14, carrying at 3*, *the carrying arriving*, *the self inverting*, *the society winding*; Exhibit ONE's headers *Offering to one sharing (2) | Surfacing (14)*, *sharing (10) · carrying next (11)*, *Sharing (10) | Carrying next (11)*, *Receiving what the other is sharing or releasing*. Better: each sentence says the running at the momentary it runs and a reader meets the method as changing at every line, never as a thing done behind them; it is the set's own rule at 2.6 and 3.5 applied to the sentences nearest the code; and the sentences then read as the seventeen names read, each an -ing, *sharing* at 10 being 10's own word where *shared* reported it. Natural Naming 2.4 gains one row: *the -ed of a resolver's verb → its -ing, the running at its momentary*. — v382F, from the self
+
+**Each droplet already laid in this report and the first reads at the -ing when it enters**, *sharing across at 10 and 6 and releasing along at 9*, *chaining at none, the prior carrying on*, *the parity sharing and chaining as it arrives*; and the eleven entered at Natural Intelligence v382F this morning go to the -ing with the file's other 322 at its next motion, no undoing, one further changing for the better in the right order, the right word first and then its living form. — v382F
 
 ## How these were found, for the next session
 
