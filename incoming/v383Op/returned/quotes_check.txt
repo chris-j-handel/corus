@@ -249,6 +249,8 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | a self that parity arrives from next shares 0 or the other parity
   found   Natural_Intelligence_v380R.md                        | 4.3 A changing is or is not, at 12 | carries its prior into now inverted
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | Selves at p along and q across, each releasing along at 9 to the next 
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
 
 Unresolveds.md
   found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | is-still-possibling or is-next-existing, each resolving one of the two
@@ -319,6 +321,7 @@ carry/Exhibit_ONE_Offerings_to_Natural_Resolver.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | changing one and then the other: alternating
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 8 One to nine, four momentaries of exchanging | six one-way steps forward, three at each side, within the four momenta
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 8 One to nine, four momentaries of exchanging | two momentaries and the next one's opening at each side
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
 
 carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.1 Living and non-living — a virus and a prion | inert outside a host, as a spore or a seed is inert
@@ -465,6 +468,7 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | a self that parity arrives from next shares 0 or the other parity
   found   Natural_Intelligence_v380R.md                        | 4.13 Spirals, co-spiraling and crossing | carries any pattern of parities along whole
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -665,4 +669,4 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Natural_Intelligence_v380R.md                        | 4.13 Spirals, co-spiraling and crossing | carries any pattern of parities along whole
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
 
-quoted spans found: 622; not found: 0
+quoted spans found: 626; not found: 0

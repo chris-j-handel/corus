@@ -18,6 +18,8 @@ At Exhibit ONE's 1-co-bi-tri-offering, unchanged, a self carrying a parity meets
   2  One spiral followed, so the two lines can be seen.
   3  Two selves in turn: each offering followed from its releasing to its end.
   4  Tori stepped together: whether the takings are one number through the cycle.
+  5  Tori: what a self's two sides, along and across, offered at each of the four; how long a self
+     is still possibling; and what it meets at the momentary after.
 
 The Co-Chaining Logic Registry already says much of it: step 233, a spiral carries any pattern
 whole; 231, the 0 at the one like pair, one self on at each second momentary; 238 and 610, the
@@ -145,3 +147,56 @@ for p, q in ((2, 3), (3, 3), (3, 4)):
             one[k] += len({sum(1 for s in selves if r[s][0] == k) for r in rows}) == 1
     print('   torus %d by %d: %5d openings; takings one number: %5d; parting offerings: %5d; still possiblings: %5d; releasings: %5d' % (
         p, q, tot, one['T'], one['P'], one['.'], one['R']))
+
+print()
+print('5  Tori stepped together, every opening, momentaries 2 to 60: a self\'s two sides, the one releasing along to it and the one')
+print('   sharing across to it, each offering the self\'s own parity, the other parity, or none')
+import collections
+
+
+def torus_sides(p, q, op, T):
+    selves, joins = torus(p, q)
+    c = dict(zip(selves, op))
+    arriving = {s: {} for s in selves}
+    rows = []
+    for _ in range(T):
+        nxt = {s: {} for s in selves}
+        row = {}
+        for (i, j) in selves:
+            s = (i, j)
+            two = (arriving[s].get('along', 0), arriving[s].get('across', 0))
+            said = tuple(sorted('own' if x == c[s] else 'none' if x == 0 else 'other' for x in two))
+            k = kind(c[s], list(two))
+            c[s], o = entry(c[s], list(two))
+            row[s] = (k, said)
+            nxt[((i + 1) % p, j)]['along'] = o
+            nxt[(i, (j + 1) % q)]['across'] = o
+        rows.append(row)
+        arriving = nxt
+    return selves, rows
+
+
+sides, after, runs, openings_run = collections.Counter(), collections.Counter(), collections.Counter(), 0
+for p, q in ((2, 3), (3, 3), (3, 4)):
+    for op in itertools.product((1, -1), repeat=p * q):
+        openings_run += 1
+        selves, rows = torus_sides(p, q, op, 60)
+        rows = rows[1:]
+        for s in selves:
+            length = 0
+            for i, r in enumerate(rows):
+                k, said = r[s]
+                sides[(k, said)] += 1
+                if k == '.':
+                    length += 1
+                    if i + 1 < len(rows):
+                        after[rows[i + 1][s][0]] += 1
+                elif length:
+                    runs[length] += 1
+                    length = 0
+names = {'T': 'a taking', '.': 'still possibling', 'R': 'a releasing', 'P': 'parting offerings'}
+print('   openings: %d' % openings_run)
+for (k, said), v in sorted(sides.items(), key=lambda x: 'T.RP'.index(x[0][0])):
+    print('   %-18s the two sides offered %-16s %9d entries' % (names[k], ' and '.join(said), v))
+print('   still possibling, momentaries in sequence: %s' % ', '.join('%d: %d times' % kv for kv in sorted(runs.items())))
+print('   at the momentary after a still possibling the self meets: %s' % ', '.join('%s %d' % (names[k], v) for k, v in sorted(after.items(), key=lambda x: -x[1])))

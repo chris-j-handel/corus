@@ -289,6 +289,39 @@ So the two lines keep their numbers. An offering taken is one self on at each mo
 
 **What it is not, said plainly.** At a taking the offered parity is chained: it becomes the self's carrying, and is shared on. So the two lines are not without crossing. What does not happen, at the cell as written, is a blend: a carrying next is its own, kept or inverted, or the offered whole, and a sharing is the new carrying whole or nothing, *the resolver summing nothing*.
 
+## At a torus, a self's two sides
+
+The self asked for the tori of the part before explained, and said: "both sides are still possibling until either side offers parity changing next".
+
+**What was run.** At a spiral one self releases to each self. At the torus of the resolver two do: *Selves at p along and q across, each releasing along at 9 to the next along and sharing across at 10 to the next across, the last to the first*. So each self has two sides arriving, an along and an across. Three tori were run, 2 by 3, 3 by 3 and 3 by 4, six, nine and twelve selves, each from every opening, each self at + or −: 64, 512 and 4,096 openings, 4,672 together.
+
+**What a self's two sides can offer, and what the self meets.** Each side offers the self's own parity, the other parity, or none. `two_lines.py`, its fifth part, each entry of momentaries 2 to 60:
+
+| The two sides offered | The self meets | Entries |
+|---|---|---|
+| The other parity and the other parity | a taking | 1,846,536 |
+| The other parity and none | a taking | 194,196 |
+| Its own and its own | still possibling | 127,404 |
+| Its own and none | still possibling | 180,960 |
+| None and none | a releasing, its own inverted | 115,332 |
+| Its own and the other | parting offerings, its own inverted | 730,068 |
+
+A torus has the one thing a spiral has not: two sides that part.
+
+**The self's saying, run.** A self is still possibling where a side offers its own parity and no side offers the other. It is so one momentary each time, 302,910 times and at none two in sequence. At the momentary after:
+
+| At the next momentary | Times |
+|---|---|
+| A side offers the other parity, and the self takes it | 299,484 |
+| Neither side offers, and the self releases its own inverted | 3,426 |
+| Still possibling again, or parting offerings | 0 |
+
+So until either side offers parity changing next: is, at 299,484 of 302,910. At the rest neither side offers and the changing is the self's own, which the self's saying before this one has: until one or other releases a self parity changing.
+
+**One number beside the Registry's.** The Registry says a self shares 0 *at a torus at two at most, the along offering alike at the one and the across at the next*. At these three tori, from every opening, it is one each time. Two is the bound and is not met here.
+
+**The counts through the cycle**, said in the part before: at each of the 4,672 openings the takings are one number at each momentary of the cycle, and the parting offerings one number; the still possiblings and the releasings are each one number at some openings, and at the others all still possibling at one momentary and releasing at the next, as at a spiral.
+
 ## Limits
 
 This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.
