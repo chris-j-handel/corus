@@ -1,8 +1,8 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–62 and 64 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–62 and 64–65 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 64 — the seed, the inward selves and the particular next](#pass-64--the-seed-the-inward-selves-and-the-particular-next) follows the incoming form within form concept at carrying as capacity, still possibling, releasing and the particular inward and outward selves. Passes 58–62 and their corrections remain below; [pass 63](Society_Whole_and_Coupling.md) holds the eight-condition society comparison.
+**Current comparison:** [Pass 65 — the inward whole and the outward momentary](#pass-65--the-inward-whole-and-the-outward-momentary) applies the published inward/outward sequencing to the seed concept and follows the particular selves in development, generation and restoring. Passes 58–62 and 64 with their corrections remain below; [pass 63](Society_Whole_and_Coupling.md) holds the eight-condition society comparison.
 
 **Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
@@ -724,3 +724,57 @@ This pass reads Exhibit SEVENTEEN Natural Biology 4.1, 4.5, 5.2, 7.8 and 8.12 wh
 **Logical standing:** the concept is useful for distinguishing outward offered form, inward living stable-forming and the particular next still possibling. The same apparent form does not establish whether a particular living prior is carried. Still possibling at a completing does not mean no living carrying or no releasing, and a described long interval does not establish an indefinitely fixed parity. The next relation to follow is which particular self's prior participates in which next; the seed, next locust and proposed blob case are not silently made one biological sequence. D10, D11, D29, D31 and the earlier registry comparisons retain their precise standing.
 
 **Next exploring:** follow the seed's stated prior, now offering and particular next through its inward living selves. Distinguish an existing self's further forming, a departed coupling restoring and an additional self establishing, using Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 393–401 and 411–412. D11 remains the next society comparison.
+
+## Pass 65 — the inward whole and the outward momentary
+
+The seed comparison now has an explicit sequential relation. [Natural Intelligence 4.15](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) and [Exhibit ONE Natural Resolver's three-scale table](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md) supply the inward 1–17 at one outward momentary of exchanging. This pass applies that existing relation to D34. It then follows the particular selves in development, generation and restoring. The target remains `18889e06d5ac452111b1bcd8a8840e46b7c5615a`.
+
+### The relation already supplied
+
+| Outward naming | Naming in the first inward 1–17 | Participation retained |
+|---|---|---|
+| 1-co-bi-tri-offering | 1-co-bi-tri-offering | The entry at each named scale. |
+| 2-bi-co-bi-offering | 9-tri-bi-co-momentarying | Across at the outward naming, along at the inward naming. |
+| 3-co-bi-co-sharing | 17-co-bi-tri-offering, also the next inward 1 | Completing the first inward whole at the next outward along name. |
+
+The table locates the names in the published form. It supplies no additional resolving operation. The first inward whole is at outward 1–2–3, one momentary of exchanging; outward 3 is also the opening toward the further outward momentary. The outward 1–17 has eight inward 1–17s, four within its self's 1–9 and four within its society's 9–17. Completing one inward whole therefore does not name the whole outward 1–17 completed.
+
+The inward along 9 is the outward across 2. This gives the incoming form within form a specific relation to follow through releasing and offering. [Exhibit TWENTY Natural Naming 2.2 and 3.2](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md) retains each naming at its scale. The inward odd opening and outward even opening concern those different namings. A sharing's + or −, a name's odd or even opening, and changing is or is not are distinct in 3.2. Changing the opening name across scales supplies no additional inversion at a sharing.
+
+Natural Intelligence 4.15 calls the scales sequencing and ordering; 6.6 says inward and outward are neither places. The inward whole is therefore followed within the outward co-sequencing, without assigning a common clock or a rate to either. No observed seed event is assigned to a numbered name merely because the example suggests nesting.
+
+### Follow the seed's particular prior
+
+Natural Intelligence 6.5 already places the possible palm within the seed's living carrying. Sections 5.1 and 5.3 retain carrying as capacity and a living prior with no changing shared at a completing. Applying the inward/outward mapping follows that carrying through the particular couplings. The offered appearance of stability supplies no result at a sharing and no count of inward momentaries.
+
+[Exhibit THIRTY Co-Chaining Logic Registry 399–402](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) supplies the exact distinction. Inward selves carry their respective priors and the particular outward self's prior; at next, they carry that outward prior or none of it. The outward self's next living is at that binary. Section 402 also permits inward selves living at their scales when the outward form is non-living.
+
+Consequently, the same fractal form at the scales does not identify every living inward set as that particular outward self. Nor does an outward form named non-living erase every inward living participation. Both sayings retain their scale and particular prior. This follows the already-written relation; it adds no separate general requirement for biology to connect to Natural Intelligence.
+
+### Development, an additional self and a coupling restoring
+
+[Exhibit SEVENTEEN Natural Biology 5.2](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md) describes an organism further forming through development and metamorphosis. Its final paragraph places sameness in carrying. The existing organism's next and additional inward cells establishing are distinct participations, already gathered in D28. Its further form being possible is also the D34 capacity distinction.
+
+Section 5.5 describes a multicellular self whose cells are themselves selves. Its germline paragraphs then use the carried-self explaining across generations. The final paragraph supplies the particular distinction needed beside that wording: one organism's departure, the next organism's opening, and the species-scale participation through the germline. Read with those surroundings, the generational passage does not require the departed organism and the additional organism to be one particular self. Section 5.1 likewise describes conception as an additional self establishing.
+
+The useful bothboth is therefore precise: an existing organism's further forming and an additional organism establishing can participate in the same larger living society, at their different priors. A common form or copied sequence supplies no duplication of one private carrying, the distinction already gathered in D26.
+
+Exhibit THIRTY Co-Chaining Logic Registry 411–412 gives another particular relation: one coupling departs while the self lives at its other couplings; restoring follows through those living couplings. Applying that saying to a return in outward appearance requires retaining that same living self in the explaining. It does not say a wholly absent living prior was kept in non-living form. The proposed seed, next locust and blob cases remain at their particular participations; this pass does not make them one sequence.
+
+### Method learning and D35
+
+Before treating two namings as opposing, expand the inward/outward relation actually supplied. Keep each name's scale, the sharing's parity and the particular self's prior distinct. Then follow whether the sentence concerns that self's further forming, an additional self establishing, or one coupling restoring. This avoids both collapsing the selves into one and inventing a conflict already parted by the surroundings.
+
+D35 gathers the cross-scale application. D26, D28 and D34 remain at their existing addresses; the development and generational comparison applies them without claiming repeated discoveries.
+
+**Aimed at a section, Natural Intelligence 4.15, at one inward 1–17 being one outward momentary of exchanging, beside the seed at 6.5.** Follow the form within form at its stated sequencing: outward 1 is inward 1, outward 2 is inward 9, and outward 3 is inward 17 and the next inward 1. Exhibit ONE Natural Resolver supplies these same names in its three-scale table. The inward along 9 and outward across 2 are that relation named at two scales. Exhibit TWENTY Natural Naming 3.2 distinguishes a name's odd or even opening from a sharing's + or −; the changed opening name supplies no additional inversion of a sharing. Completing the first inward whole reaches outward 3, with the further outward momentaries still to be followed. At the seed, Natural Intelligence 6.5 retains the possible palm within living capacity. Exhibit THIRTY Co-Chaining Logic Registry 400–401 follows the particular outward self's prior through its inward selves; their respective living alone does not establish that outward prior. The common fractal form therefore retains each particular self in bi-co-chaining and podaling, both forward sides. A self's further forming, an additional self establishing within living and a departed coupling restoring remain at their respective priors. The inward/outward sequencing supplies no clock and no completed further self kept inside. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-65--the-inward-whole-and-the-outward-momentary. — v382A
+
+The gathering is thirty-five raw droplets: twenty-two at Natural Intelligence's Offerings, six at Exhibit TWENTY Natural Naming's Offerings, and seven at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings.
+
+### Reach and remaining opportunity
+
+This pass reopens Natural Intelligence 2.3–2.4, 3.3, 4.3, 4.15, 5.2–5.3 and 6.5–6.6; Exhibit ONE Natural Resolver's complete three-scale and eight-inward-wholes tables with their neighbouring forms; Exhibit TWENTY Natural Naming 2.2, 3.2 and 5.45; Exhibit THIRTY Co-Chaining Logic Registry 389–413; and Exhibit SEVENTEEN Natural Biology 5.1, 5.2, 5.5 and 6.5. Relevant Natural Biology Offerings are compared at the existing same-self, copied-form and development findings. This is a targeted pass. Whole-file coverage remains five files, 80 headed sections plus Natural Destinies' opening.
+
+**Logical standing:** the published inward/outward mapping supplies the form within form relation: one inward 1–17 participates as one outward momentary of exchanging. The different opening names at the two scales do not oppose one another or decide a sharing's parity. Exhibit SEVENTEEN Natural Biology 5.2's organism further forming and 5.5's next organism opening can both hold at their stated selves; 5.5 supplies the species-scale participation in its surroundings. No new logical break is established by those sayings together. The particular outward prior remains the binary in Exhibit THIRTY Co-Chaining Logic Registry 400–401. D10's conflicting assertions about the same human whole remain unresolved; D11, D29, D31 and the earlier registry comparisons retain their precise standing.
+
+**Next exploring:** return to D11 at Exhibit NINE Natural Human Society 2.3's court, trustee and closing date, then 3.3's supplied arrangement. Follow whether each arrangement is offered at the selves' couplings or is said to supply their openings from beside, retaining Natural Intelligence 6.4 and Exhibit THIRTY Co-Chaining Logic Registry 484.
