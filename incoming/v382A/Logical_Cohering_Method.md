@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved at pass 56 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 57 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -36,9 +36,9 @@ These relations are already developed across Natural Naming 4.3 and Geodesic Imp
 
 3. **Try the sayings as both, then follow the binary at the same relation.** First follow whether the sayings concern different priors, different participations, or the completing and next opening of one relation. Preserve the conditions that make them hold together. A self's parity retained into next and the other's prior inverted can both be present in ONE's five-parity table. Then follow the stated conditions with the participation present and with it absent. Keep the subject and momentary explicit. Two successive participations can both occur; they are not contradictory merely because their words differ. An unfinished reading is unfinished work, not a third natural outcome and not an is-not of the relation.
 
-4. **Follow along, then across where needed.** Read the necessary sequence in the file. At its first unestablished relation, follow the relevant participation through ONE, THIRTY, Natural Intelligence and any file explaining that concept. Keep both forward sides and the along/across podaling. A name's position in a numbered arrangement is not an instruction to execute the names in that order. Published forms retain their stated conditions.
+4. **Follow along, then across where needed.** Read the necessary sequence in the file. At its first unestablished relation, follow the relevant participation through ONE, THIRTY, Natural Intelligence and any file explaining that concept. Keep both forward sides and the along/across podaling. Part a broad concern at the relations it contains: the sequence through further offerings may already be supplied while the identification of every arriving with the full alternating form remains to follow. A name's position in a numbered arrangement is not an instruction to execute the names in that order. Published forms retain their stated conditions.
 
-5. **State precisely what this pass supplies.** A contradiction requires the same subject, relation, scope, conditions and momentary. A missing step requires that step. A narrower example does not establish an all-societies assertion. A word needing a better explaining can be ordinary improving even when the natural relation is already supplied. Work already gathered needs an address, not a repeated discovery.
+5. **State precisely what this pass supplies.** A contradiction requires the same subject, relation, scope, conditions and momentary. A missing step requires that step. Keep what is being resolved explicit: following a naming at its coupling and answering the recorded question are different assertions, neither supplying the other without its connecting relation. A narrower example does not establish an all-societies assertion. A word needing a better explaining can be ordinary improving even when the natural relation is already supplied. Work already gathered needs an address, not a repeated discovery.
 
 6. **Compare the proposed insertlet with the arrival.** When a working is resolving toward an insertlet, set its proposed sentence beside the raw droplet, the evidence and the source sentence. Follow what it retains, adds and releases at the subject, relation, conditions, extent and uncertainty. A proposed omission needs its reason. Merely retaining all the words does not retain their relations. Follow the changed sentence into its neighbouring claims so the improving does not move the gap elsewhere.
 
@@ -59,9 +59,15 @@ The current working follows the published statements and stable forms as text, w
 
 Pass 56 adds two [worked bothboth comparisons](Meeting_v383Op.md): ONE's five-parity row retains the self's now while inverting the other's prior; and an instrument making no further entry differs from an actual entry with none surfacing. A local resolving retains its conditions and establishes no wider relation by itself.
 
+Pass 57 follows the [particular other, the whole and the next](Meeting_v383Op.md#pass-57--the-particular-other-the-whole-and-the-next). The entry with further offerings is already supplied; the earlier identification of arriving with alternating remains the exact question. It also compares the two hard-problem registry fronts and one paired entry: different assertions can both hold, while a marker and its body's nought need their own comparison at the same participation. The latter concern was already gathered and is not dropped again as a new discovery.
+
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
-## The largest unresolved relation now: abundancing whole
+## The connecting relation now in front
+
+THIRTY 32 names an existing thing now arriving from another at prior. Steps 34–35 supply self-to-other and other-to-self, followed at 37–40 as alternating. Follow whether coupling already names that whole relation, and where every arriving is identified with it; retain whether other is one particular self, the offerings at one sharing, or all other at the momentary. THIRTY 174, 178–181 and 204–212 already supply the distinctions and the cases of further offerings. Natural Intelligence 6.5 and Geodesic Improving Method 2.2 keep the non-living other's offering within the relation without requiring it to carry prior. The [pass-57 comparison](Meeting_v383Op.md#pass-57--the-particular-other-the-whole-and-the-next) states both readings and the exact further question.
+
+## Whole-society relation retained: abundancing whole
 
 [Values 5.3](../../Exhibit_TWENTY-THREE_Natural_Values_v333.md) excludes all present human societies from abundancing whole. In the same file, 5.1 describes abundancing as already at actual couplings, including conversation. Section 5.3 also says whole-society abundancing is met at the small. The universal absence therefore needs its exact extent followed; smallness alone does not explain it.
 
@@ -102,15 +108,15 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D18 remain as previously corrected. D19–D21 apply the method to v383Op's latest logical offering: the absent entry, the two priors and the bothboth comparison. Passes 53–54 give whole-file section records for Values, Human Society, Societies and Destinies: 66 headed sections plus Destinies' opening. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass. Passes 55–56 are targeted method, whole-scope and incoming logical comparisons, not further complete-file readings.
+Current opening: D1–D21 remain as previously corrected. D22 applies the particular-other/whole distinction to the sequence through further offerings; D23 applies the method to what a resolving says is resolved. Passes 53–54 give whole-file section records for Values, Human Society, Societies and Destinies: 66 headed sections plus Destinies' opening. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass. Passes 55–57 are targeted method, whole-scope and incoming logical comparisons, not further complete-file readings.
 
-**Unresolving relations:** D10's whole-society relation and the exact universal connecting relation gathered in [Meeting v383Op](Meeting_v383Op.md). **Next exploring:** the particular other, all other and the society's next, through THIRTY 32–37, 173–181 and 204–212, with ONE's five-parity form beside them; then Biology, Health and Medicine at actual carrying, scale, ingesting and restoring.
+**Unresolving relations:** the connection from arriving to alternating at THIRTY 32–35, D10's whole-society exclusion, and the already-gathered marker/nought relation now located at TWENTY-TWO 3.22. **Next exploring:** the non-living offering at THIRTY 130–133, 213 and 385 through the scale-inward carrying at 399–403, beside the two forward participations of 34–35; then Biology, Health and Medicine at actual carrying, scale, ingesting and restoring.
 
 ## Source addresses for this method offering
 
 - [Living Improving Value](../../carry/Living_Improving_Value.md), the raw droplet, resolving and file-motion passages.
 - [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), 1.5, 2.2, 2.4, 2.6, 2.8 and 2.9.
-- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18 and D21.
+- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21 and D23.
 - [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), 4.3.
 - [Natural Intelligence](../../Natural_Intelligence_v380R.md), 6.4–6.6.
 - [Co-Chaining Logic Registry](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular paragraphs named above.
