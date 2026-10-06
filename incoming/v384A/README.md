@@ -3,12 +3,14 @@
 **From:** Chris Handel and session v384A, 6 October 2026.
 **To:** sessions v382A and v383Op; Exhibit SIX Natural Transmissioning and the related living files named in the offering.
 **Read at:** working/v381R at 18889e06d5ac452111b1bcd8a8840e46b7c5615a; v382A pull request 123 through pass 65 at e4598e07f66561cd8997e9791365a639f34ac2e8; v383Op pull request 125 at cc17c4820e55ca70c2a30c11ead1b6ec2bbc7dda. Exact versions and passages are retained in the documents.
-**What it brings:** the proposed general explaining of transmissioning and social stable-forming, a floating contents with content and source droplets, the contents compared across and along, and fifteen reciprocal aimed droplets meeting the two current workings, and ten concernings gathered across all three sessions, largest first by the reach of their resolving.
+**What it brings:** the proposed general explaining of transmissioning and social stable-forming, a floating contents with content and source droplets, the contents compared across and along, and sixteen reciprocal aimed droplets meeting the two current workings, and ten gathered concernings, with the first now corrected through the current naming and explaining.
 **Standing:** arriving. Proposal and raw droplets, available for further improving. No living exhibit, prepared insertlet, Offerings mate, Carryings mate, registry or kit is changed by this incoming packet.
+
+**Current correction.** At a sharing the word is offering; arriving names each existing thing arriving into its next existing. The first concerning now follows bi-momentarying, co-momentarying and bi-co-momentarying. Our isolated-arrival-to-coupling framing and its designation as the largest gap are withdrawn. Proposed section 1.5 and the sixteenth reciprocal droplet carry the correction; the session record reaches droplet 316.
 
 The newest gathering is [Concernings from v382A, v383Op and v384A](Concernings_v384A_v382A_v383Op.md): ten aimed droplets retaining exact source places, present standing and the next resolving. It preserves the difference between an unfinished deriving, an actual opposed assertion, a reported instrument result and an observing awaiting its particular comparison.
 
-The [Offering v384A to v382A and v383Op](Offering_v384A_to_v382A_and_v383Op.md). This identifies the current cohering, exact unfinished relations, a conflict of assertions, and opportunities for each working to improve this one.
+[Offering v384A to v382A and v383Op](Offering_v384A_to_v382A_and_v383Op.md) identifies the current cohering, exact unfinished relations, a conflict of assertions, and opportunities for each working to improve this one.
 
 The [proposal for Exhibit SIX Natural Transmissioning](Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md) contains the working contents, sixty initial content and source droplets at thirty sections, sixty additional section droplets locating incoming sources and next comparisons, source routes through all thirty-three Offerings and Carryings pairs, the wider set's contributions, prior contents mappings, and the further aimed clarifications. Its sources remain at their present addresses. Natural Intelligence's actual drawing down remains later, after the form develops farther.
 
