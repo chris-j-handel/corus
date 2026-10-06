@@ -1,0 +1,145 @@
+# v383Op · The unresolveds, one orderly set
+
+**Each thing this session found open, said once, at its kind, its place, what would resolve it and its standing now**
+
+The expedition's self asked whether there is any kind of concern beside an observing unresolved and a chaining broken, asked for each tracked as one set to work, and asked for the common way of working it with the logic working v382A at Exhibit ONE and the Co-Chaining Logic Registry. This file is the set. The rows of the first report were laid as droplets at the offerings at v381R; each row new since is dropped with this file at the offerings of the file it aims at, tagged v383Op and naming its row. So the set is worked where every working already meets: at the offerings.
+
+A sentence in italics is quoted from a file of the repository. Nothing here is authority, this session's reading least of all: each row is at a step, a run, a count or a source, and says which.
+
+## The kinds: the two named, and seven more
+
+| Kind | What it is | What resolves one |
+|---|---|---|
+| **O · An observing** | A field's observing stands beside a sentence of a file | The file says which side the observing is on, before or after it is read |
+| **C · A chaining** | A step takes something no earlier step gives | The missing step is written, or the thing taken is said as taken |
+| **P · A parting** | Two sayings of the files, at one subject, that cannot both be | One is re-said. First the two are followed to see they are of one subject, relation, extent and momentary: the logic working's own test |
+| **N · A naming** | One word at two meanings, or a word a reader cannot find said | One name for one concept, said once where a newcomer meets it |
+| **R · A reach** | A claim that, as said, no observing could come out against | One thing named ahead, with what it would show |
+| **E · An executing** | The resolver or an instrument beside a saying: which is the method's and which the run's | A run with its arrangement said, or the sentence bounded to the run |
+| **F · A fact** | A field's result said otherwise than the field has it, or one file older than another | The sentence corrected at its source |
+| **H · A harm** | A sentence a reader could act on against their own care | The file's own caution beside it |
+| **S · A showing** | A thing a newcomer is sent past and does not meet | A line where the newcomer arrives |
+
+The first two are the self's. The other seven were each met at least once in this session's work, and each needs a different thing to resolve it, which is why they are parted. A reach is the largest of the seven: it is neither an observing unresolved nor a chaining broken, and it decides what the observings count for.
+
+**Standings used:** *open*; *gathered*, already at a file or an offering before this session, its address given, with what this session adds; *offered*, a sentence or a deriving is offered for it; *parted*, the two sayings parted at the files' own sentences; *narrowed* or *withdrawn*, this session's own earlier finding made smaller or released.
+
+## R · Reach
+
+| | The unresolved | At | What would resolve it | Evidence | Standing |
+|---|---|---|---|---|---|
+| R1 | The claim forbids an observing, or it forbids none. At the reading under which the chain holds it is so of every universe the opening sentence allows, so that every observing coheres is the reading's own | Natural Intelligence 1.5; the Co-Chaining Logic Registry 151, 152, 599 | One thing named, its two forms and its momentary at a measuring, said before it is read | `Is_Or_Is_Not.md`; the expedition's eleventh break | open; gathered as the sixth help asked at `archive/session_v380/v380L/The_Claim_Broken_Further.md` |
+| R2 | The break's two forms, a living thing not alternating and a living society not natural torusing, have no form at a field's observing | The Geodesic Improving Method 2.7; the Registry 308 | For each: which thing is a self, what its momentary, what nothing offered. O1 and O2 are laid for it | `Is_Or_Is_Not.md` | open |
+| R3 | Each hard problem resolved by being read: no entry of twenty drawn says a thing an observing or a reckoning could show other | Resolving the Hard Problem Registry, each entry | One entry carried to a thing the field can check; or the word said at its meaning, N1 | a fresh reader's seeded draw, `Is_Or_Is_Not.md` | open |
+
+## O · Observings
+
+| | The unresolved | At | What would resolve it | Evidence | Standing |
+|---|---|---|---|---|---|
+| O1 | A living thing with no changing measured, living again as itself: a nematode after some 46,000 years, a child from an embryo stored thirty years. The files have four sayings of it, and each costs one sentence | Natural Biology 3.1, 4.1; the Registry 306 to 308, 395, 399 to 401 | The files say which of the four | PLOS Genetics 2023; MIT Technology Review 2025; each opened | open |
+| O2 | Living rates locked to the day, beside the unrelationing rate locking at none | The Registry 122, 246; Natural Biology 4.5 | A locked rate said natural torusing or said not | an encyclopaedia, opened | open |
+| O3 | Bell tests at S = 2.42 ± 0.20; two selves with no join between them give 2 at most | Natural Physics 4.4 | A sentence of a coupling's reach within one momentary | `carryings/v383Op/two_wings.py`; arXiv:1508.05949 | open; gathered beside Natural Physics' own concern |
+| O4 | A gravitational signal and light from one event arriving 1.74 s apart, beside the break Natural Physics names of gravity | Natural Physics 4.2 | The observing said the break, or the break said again | arXiv:1710.05834 | open |
+| O5 | Colour measured as a charge with structure, beside the breaking observation Natural Physics names | Natural Physics 4.6 | As O4 | arXiv:hep-ex/0101044 | open |
+| O6 | Clocks of three atoms agreeing in their ratios to parts in 10¹⁸, beside a regular rate showing a clock over them or a coupling among them | Natural Physics; the Registry 246 | Natural Physics says which | arXiv:2005.14694; this session's joining | open |
+| O7 | Charge's total holding, the electron's life beyond 6.6 × 10²⁸ years, beside no total across the changing | Natural Physics; Natural Intelligence 1.4 | With P4 | arXiv:1509.01223 | gathered at Natural Physics' offerings; the source added |
+| O8 | A sequence read from mammoths of a million years, beside nothing in nature stores | Natural Medicine | The file's own place for a record said there | Nature 2021 | open; the files' naming has its place, one sentence goes past it |
+| O9 | Eight open puzzles of the fields where a sentence said ahead could show its worth | Natural Physics, Natural Biology, Natural Medicine | One sentence said before the next measuring | `carryings/v383Op/At_The_Observings.md` | open, each an opportunity |
+| O10 | The lattice's part in the pairing observed at hydrogen sulphide at 203 K, beside no mediating force to find, said of the high-temperature materials | Natural Physics 4.10 | The sentence's boundary said | arXiv:1506.08190 | open |
+
+## P · Partings
+
+| | The unresolved | At | The two sayings | Evidence | Standing |
+|---|---|---|---|---|---|
+| P1 | **A common now is, or is not** | The Registry 8, 10, 30 beside 28, 46, 244, 245; Natural Intelligence 3.5, 4.13 | The chain uses a now of the whole universe and sets a common beat aside as not possible. Whether the two are of one subject is for following first | three instruments at Exhibit ONE's cell unchanged: `own_momentaries.py`, `carryings/v383Op/own_pacing.py`, `no_common_now.py` | open; the session's own saying, no beat laid over selves, is gathered at Natural Intelligence's offerings |
+| P2 | **A self offered its own parity is at a momentary, or it is not** | The Registry 208 and Natural Intelligence 6.1, the between of momentaries; the Registry 306, 307 and Natural Intelligence 5.3, momentarying continues | At a momentary: a self carries one parity on at momentaries in sequence, and the expedition's eighth break stands. At the between: the resolver is the one way at each momentary, and the tables count something other than momentaries. Step 307 itself says the one parity is the offerer's still and the self's own is its carrying continuing; whether that parts it from step 208's between is for following first | the cell, row by row; `Is_Or_Is_Not.md` | open |
+| P3 | The set exists as its things exist and carries no method of its own, or is a thing existing by the method; and the set within itself | The Registry 2, 3, 20, 387; Natural Intelligence 1.1, 4.10, 5.1; Natural Values 4.1; Natural Mathematics 6.3 | Each set an existing thing and the universe within itself; or the set its things and nothing more. Whether the sentences are of one set and one relation is for following first | the field's sets with no negation, the Stanford Encyclopedia, opened | gathered: the second help asked, the thirteenth break, Natural Values' offerings; the field's result offered |
+| P4 | The things beside all existing things, said of a ground, a clock and a store that are no existing thing, or of each ruler, clock, total and record | Natural Intelligence 1.4; the Registry 46 beside 463; Natural Physics 4.2; Natural Medicine | Narrow: the fields' measurings are whole within the method. Wide: a conserved total, a constant and a record are each not possible | findings 19, 20 and 24, each met by the narrow | open; gathered in part as the third break |
+| P5 | A fixing named unchanged is an equilibrium; or it steps to one only by naming its own subject still | Natural Intelligence 5.4 and the Registry 311 beside the Geodesic Improving Method 5.3 and Natural Mathematics 6.1 | The older saying and the newer | the four sentences | offered: the newer saying, by its words |
+| P6 | A carrying and a store; a stable form and a form still: what parts each pair | Natural Intelligence 1.4, 3.3, 5.1; the Registry 208, 308, 349, 611 | A carrying inverts at a momentary with none surfacing, and a store is a parity the same there; between momentaries the parting leans on step 349 | `carryings/v383Op/ring_law.py` | offered, with its bound; gathered as the fourth help asked |
+| P7 | The test of next from prior and now, at the cell and at a society | Natural Intelligence 2.4; Exhibit ONE | A self's prior is whole at its carrying next and its shared changing together; a society is existing and not living | `carryings/v383Op/priors_carried.py`; `stable_forms.py` | parted at the files' own sentences; this session's first finding withdrawn as a break |
+| P8 | A society at a prime scale beside what the steps carry of a prime: a prime enters the spiral's numbers only as a number with two divisors. The two may be of different subjects | Natural Intelligence 6.4, beside 3.5, rightly said, and the Registry 646 to 648 | The step from the spiral's numbers to a society at a prime scale, or the sentence bounded | `carryings/v383Op/ring_law.py`; `carryings/v383Op/At_The_Code.md`, its section 4 | open |
+
+## C · Chainings
+
+| | The unresolved | At | The missing step | Evidence | Standing |
+|---|---|---|---|---|---|
+| C1 | A now of the whole universe is taken: one thing with P1, at its other kind | The Registry 8, 10, 30 | From the sentence alone, none | a fresh reader's reading of steps 2 to 68 | open |
+| C2 | The self and the other in turn is taken | The Registry 37 | With a common now both can change at one now; with none, each changing after a self's first is opened by one changing of a self releasing to it, and nothing says which is first among changings not so joined | the same; `no_common_now.py` | open |
+| C3 | A next that is a way of one prior and one now is taken | The Registry 51 | That the next is from one prior and one now and from no more: of the living, carrying the prior whole gives it, and the step can say so | the same | open |
+| C4 | A set, any set, an existing thing is taken | The Registry 2 | The sentence can be read so of the universe; of each set it says nothing. With P3 | the same | open |
+| C5 | Which self releases to which is handed to the resolver at each table: no step gives a society its joins | Exhibit ONE's tables; the Registry 230, 237, 243 | A step from the couplings to a spiral, a crossing or a torus | the tables' own headers | open; gathered in part as the tenth break and the fifth help asked |
+| C6 | No step joins the one way at a living thing to the method of the whole set: it turns on P3's first side | The Registry 45 beside 53 to 57 | If the set exists as its things exist, step 20, its changing is its things' own and no second method is asked of it; what stays is C1 to C5 | `Is_Or_Is_Not.md` | gathered: the first break and the first help asked; narrowed here |
+| C7 | Two forms are of a thing read at one is or is not, and not of each existing thing | The Registry 42, 52; Natural Intelligence 1.2 | Offered: a changing of an is or is not is its inversion, and an inversion inverted is the first form again; a set of two is at four | `Is_Or_Is_Not.md` | offered; gathered as the fourth break and the third help asked |
+| C8 | At the one way the next is the prior inverted whatever the now is | The Registry 51 to 57, beside 609 | A sentence of what the now gives the next at the one way; and whose prior it is, the self's own with the two in turn or the other's at a spiral, step 609, is for the deriving to say | a shorter deriving, `Is_Or_Is_Not.md` | open |
+| C9 | The five things a second method could carry are a list, not shown each thing | The Registry 46 to 49; Natural Intelligence 1.4 | A step showing the five are all | the fresh reader; the expedition's third break | gathered; nothing added |
+| C10 | Steps 69 to 661 are not read at this standard, one at a time, is or is not | The Registry | The same reading on | — | open, work in front |
+
+## E · Executings
+
+| | The unresolved | At | What would resolve it | Evidence | Standing |
+|---|---|---|---|---|---|
+| E1 | Which of Exhibit ONE's numbers are the method's and which the stepping's: the parities again at four times a spiral's selves, at 4pq, at the torus's | Exhibit ONE's tables; the Registry 244 | With P1: at a common now they are the method's; at none they count steppings together | the three instruments | open; this session's first droplet on it at Exhibit ONE's offerings is narrowed to this |
+| E2 | With no common now, no pace and no 0 delivered, a society opened each self alike is at rest after one changing each, a rest like the break's form, though at this arm a self with nothing arriving opens no momentary; each other opening goes on | Exhibit ONE; the Registry 308 | The files say a society opened alike, at that arm | `no_common_now.py`: 332 of 332 | open |
+| E3 | An even spiral at the resolver oscillates on from all but its two alternating openings; the field's made even ring comes to one of two forms | Exhibit ONE's spiral; the Registry 609 | The parting said where the spiral is shown beside a made thing | `own_momentaries.py`: 254 of 256 at eight selves | open |
+| E4 | At the resolver, one holding the cell's rule and the joins and receiving each self's sharings names each carrying: a carrying is hidden from no one who has the rule | Natural Intelligence 5.4 and 6.4; the Registry 155, 185, 239, 253 | The sentence of the scientific method and competency said at what it is of | `observer.py`: 408,000 of 408,000 | open |
+| E5 | The stable forms a small torus comes to from every opening: 27 at 3 by 3, 123 at 3 by 5; Exhibit ONE's rows are the alternating opening's | Exhibit ONE's table of the torus; the Registry 243 | A datum for the header, if of use | `stable_forms.py` | offered |
+
+## N · Namings
+
+| | The unresolved | At | What would resolve it | Evidence | Standing |
+|---|---|---|---|---|---|
+| N1 | Resolved, at two meanings: resolved by being read, and standing open | Resolving the Hard Problem Registry beside the Hard Problem Registry | The word said at its meaning where a newcomer meets it | each file's own front | open |
+| N2 | Momentary: an entry of the stepping, a changing, or a self's own; with P2 | The Registry 208, 306; Exhibit ONE's tables | One name for each | — | open |
+| N3 | Living: metabolic beating, or carrying the prior; with O1 | Natural Biology 3.1; the Registry 13 | One criterion said at both | — | open |
+| N4 | Right, living, the universe within itself, the ratio at each unit: each said plainly at the Registry and in passing or nowhere at Natural Intelligence | Natural Intelligence 1.1, 1.3, 1.5, 2.2 | One sentence each where a newcomer reads | this session's seven misreadings, `Improving.md` | offered |
+
+## F · Facts
+
+| | The unresolved | At | Evidence | Standing |
+|---|---|---|---|---|
+| F1 | Twenty-four sentences of fact: twelve at Natural Physics, eight at Natural Medicine and Natural Biology, four at the numbers | each file | `carryings/v383Op/Corrections.md`, each with its source | laid as droplets at v381R; open |
+| F2 | The universal claim's open file says the torus's rule fitted with no chaining yet; the Registry says the divide derived | `carryings/v380R/The_Universal_Claim.md` beside the Registry 651 to 657 | the two sentences | open |
+| F3 | Fourteen prime scales beside biology's own list | Natural Societies 5.3 | `carryings/v383Op/Corrections.md` | gathered at the Living File Registry |
+
+## H · Harm
+
+| | The unresolved | At | Evidence | Standing |
+|---|---|---|---|---|
+| H1 | Four passages a reader could act on against their own care, the files' own cautions far from them | Natural Medicine; Natural Health | `carryings/v383Op/Do_No_Harm.md`, each with the field's result | gathered in part at Natural Health's offerings; a front sentence offered; first before any other motion at those files |
+
+## S · Showings
+
+| | The unresolved | At | What would resolve it | Standing |
+|---|---|---|---|---|
+| S1 | A newcomer through the AI link is sent to break the method and is not sent to the breaks found or the sentences asked | the README's link for an AI session; Natural Arriving | One line naming the claim broken further | offered |
+| S2 | A newcomer at the site meets no sentence saying the claim, and twenty-five terms before each is said | the site; Natural Intelligence's opening | A plain abstract; a plain rule beside the resolver; fourteen measured droplets | laid at v381R; open |
+| S3 | Each table of Exhibit ONE names no step of the Registry that derives it | Exhibit ONE's table headers | The Registry's sentence by its words at each header | offered |
+
+## This session's earlier droplets, their standing now
+
+Laid at the offerings at v381R from the first report, and since made smaller or released by this session's own improving. A receiving can read each at its standing here.
+
+| The droplet, by its opening words | At | Standing now |
+|---|---|---|
+| At each torus run of 2 by 2 and larger, and at five selves each coupled to both beside it | Exhibit ONE's offerings | withdrawn as a break; what stays is P7, parted |
+| Say which of Exhibit ONE's tables are the stepping's | Exhibit ONE's offerings | narrowed to E1 and P1: the first instrument paced each self by a clock of its own |
+| Aimed at the sentence of both hands, which hand unknown so far | Natural Physics' offerings | this session's joining of the weak coupling's hand to right withdrawn; the fact, a hand observed, stays at F1 |
+| Four sentences want one definition of living | the Geodesic Improving Method's, the Living File Registry's and Natural Arriving's offerings | kept, at N3 and O1. `Improving.md` called it withdrawn on the Registry's step of no first living, which is of scales and not of a first in time; that withdrawal is taken back |
+| The method's one break, as 2.7 says it, cannot be recognised if met | the Geodesic Improving Method's offerings | re-said: the Registry names the break's forms at step 308; what is missing is R2 |
+| The spiral's law, its period and the torus's divide as this session's derivings | the Registry's offerings | already carried at the Registry's steps; a run of what is carried, as those droplets now say |
+
+## The common way of working the set
+
+It is the expedition's own, as the front `carry/Living_Improving_Value.md` says it, with the logic working's pass at the one place it belongs.
+
+1. **One place to meet: the offerings.** An open thing is met as a raw droplet at the bottom of the offerings of the file it aims at, in the dropper's words, its evidence inside it, tagged with its session. Two workings at one file meet there, by union. Nothing here is an insertlet and no living file changes.
+2. **One pass between a droplet and an insertlet: the logic working's.** `incoming/v382A/Logical_Cohering_Method.md`, at `review/living-logic-droplets-2026-10-05`, commit `f64a5f6`: say the assertion plainly; keep one subject, relation, extent and momentary through both sides; find the first relation that departs; say exactly what the pass supplies, a missing step, an actual contradiction, a word to improve, or an address for work already gathered. Each parting above is offered for that pass first: several may dissolve on following the two sayings to different subjects, and that is a resolving.
+3. **Three ways an unresolved leaves the set, and each is kept.** It resolves: a sentence enters at the file's own motion. It dissolves: followed whole, the two sayings were of two subjects, or the file already carries it, and its address is said. Or the inadequacy is noted in the living file, at that file's own motion: the thing taken is said as taken at the step leaning on it, the offering the expedition's own readers made. The third is no failure of the set, and a newcomer then meets the open thing where it is.
+4. **The row keeps its letter and number** at each working, so a droplet, a resolving working's note, a run and a report can name it; a row that leaves says where it went.
+5. **A run is for the changing it finds.** The self's saying, gathered at v382F. Each instrument here is at one arrangement, said in its script, and its number is of that arrangement.
+6. **Who is at what.** The logic working v382A is at Exhibit ONE's and the Registry's relations as text, with no resolver executed. This session brings runs at the resolver, a fresh reader's step-by-step reading of the Registry's opening, and the fields' observings. The rows for the logic working first, in the order its pass can reach them: P1, P2, C1 to C5, C8, then R1, the largest.
+
+## Limits
+
+Each row is this session's reading of what it read. Thirteen living files were read no further than a search. The partings are not yet followed at the logic working's test of one subject, relation, extent and momentary; that is the first work, and some will leave the set by it. The fresh readers are the same kind of AI at another use.
