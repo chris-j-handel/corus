@@ -10,27 +10,19 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 
 ## Insertlets
 
-**At 15 · Offerings to one sharing, surfacing — beside "| +, −, + | 0 |".** A row after it: | +, +, − | 0 |
-
 **At 15 · Offerings to one sharing, surfacing — beside "Offered to one sharing (2) | Surfacing (14)".** The header saying the table's making: any number offered to one sharing at 2; surfacing at 14 the one parity where all offered agree, 0 where any one parts, a 0 offered passing over, none where none is offered.
 
 **At 16 · One self, one momentary — beside "Each cell: shared (10) · carried next (11)".** In the header, the table said once: a self carrying a parity is next at that parity inverted at six cells, and at its own parity at the two cells where its own parity surfaces.
 
 **At 27 · Colliding: a carrying of none, one momentary — beside "*none*: none shared".** In the header, the row said once: a carrying of none is next at the one parity surfacing, two cells, and carries none on at none surfacing and at + and − together, two cells.
 
-**At 7 · Namings among the names — row 12-bi-tri-bi-entraining, beside "a parity changing alone crossing it".** each releasing crossing it, a parity surfacing and a 0 surfacing none at 14; one list, each parity and each 0, given at 6, 10 and 9 alike
-
-**At 7 · Namings among the names — row parity's square and triangles, beside "its two parallel edges the across sharings".** its two across edges, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14
-
 **At 7 · Namings among the names — row parity's square and triangles, beside "its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral".** its diagonals the facings: 2 and 14 the arriving, the other's prior at the self's now; 6 and 10 the sharing, the self's now at the other's next
 
 **At 10 · Three windings — beside "across, not-yet-bi-moral to bi-moral-so-far".** across, the self's now to the other's next, at the other's winding and at the society's alike
 
-**At 10 · Three windings — beside "tri-bi-co · co-bi-tri, the order inverted".** Six threes are at the seventeen names. The windings carry four of them: bi-co-bi at both ends of the other's, bi-tri-bi at both ends of the society's, and tri-bi-co and co-bi-tri at the two ends of the self's, one three at each end. The two not among them, co-bi-co at 3, 5 and 7 and tri-bi-tri at 11, 13 and 15, are the carrying's own.
+**At 10 · Three windings — beside "tri-bi-co · co-bi-tri, the order inverted".** Of the six three-prefixes among the seventeen names the windings carry four: bi-co-bi at both ends of the other's, bi-tri-bi at both ends of the society's, and tri-bi-co and co-bi-tri at the two ends of the self's, one at each end. The two others, co-bi-co at 3, 5 and 7 and tri-bi-tri at 11, 13 and 15, are at no winding.
 
-**At 10 · Three windings — beside "along, not-yet-co-competent to co-competent-so-far".** Among the odd names tri is at a releasing alone and co at an arriving alone: the society releasing along at 9, the self arriving at 17.
-
-**At 9 · Four four-cycles and their roots — beside "Its two pairs 8 apart".** A column, each four-cycle at one relation: 1-9-8-16, torusing, the momentary and the between of momentaries; 2-15-7-10, corusing, each parity; 3-11-6-14, moralizing, the carrying with its arriving and its releasing, one momentary whole; 4-13-5-12, competencing, each sharing and the changing. Of each four-cycle's two pairs 8 apart one is its own root and the other no four-cycle's: 8 · 16 torusing with 1 · 9 offering and momentarying; 7 · 15 corusing with 2 · 10 offering and tunneling; 6 · 14 moralizing with 3 · 11 sharing and chaining; 5 · 13 competencing with 4 · 12 sharing and entraining.
+**At 9 · Four four-cycles and their roots — beside "Its two pairs 8 apart".** Of each four-cycle's two pairs 8 apart, one is its root and the other's two names are of roots with no four-cycle: 8 · 16 torusing with 1 · 9, offering and momentarying; 7 · 15 corusing with 2 · 10, offering and tunneling; 6 · 14 moralizing with 3 · 11, sharing and chaining; 5 · 13 competencing with 4 · 12, sharing and entraining.
 
 **At 9 · Four four-cycles and their roots — beside "each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n)".** For each name of 1 to 8, two moves round its four-cycle reach its 9 less, facing it across the four-cycle: 1 to 8, 2 to 7, 3 to 6, 4 to 5, and from each back again.
 
@@ -40,15 +32,9 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 
 **At 23 · A torus of selves — beside "Again from this momentary on".** In the header: both numbers odd, again from momentary 3p − 1 at q more than twice p, and from 3p − 3 at each other q.
 
-**At 23 · A torus of selves — beside "p the smaller".** The condition said at the second column's header cell: momentaries to each self's releasings and sharings again, both numbers odd, the smaller number p, q at a q more than twice p and 4p at each other q; either number even, 2.
-
 **At 22 · Two spirals beside each other, and crossed — beside "Crossed: releasings again from this momentary on".** In the header, m the lesser of the two numbers: again at 2 from momentary 4m at n less than twice m, and from 2n + 1 at n more; at m even, from 2n + 1.
 
-**At 25 · Two selves, three momentaries, five parities — beside "each opening, each momentary: six forms".** the four openings together: six forms, four at an alike opening and two at an opposite, each momentary from the second. The fifth is the first inverted at each with one releasing to each self, each self at a parity and none offered from beyond the two.
-
-**At 14 · A self's four momentaries of exchanging — beside "| fourth | 7–8 | 8–9 |".** The society's four, as the self's: first, 9–10 and 10–11, 9-tri-bi-co-momentarying · 10-bi-tri-bi-tunneling · 11-tri-bi-tri-chaining; second, 11–12 and 12–13, 11 · 12 · 13; third, 13–14 and 14–15, 13 · 14 · 15; fourth, 15–16 and 16–17, 15 · 16 · 17, completing at 17, the next 1.
-
-**At 4 · Each name and its relations — row 1, Prior and next, beside "the three steps within it 14, 12, 10 with 11".** one self through one momentary at the names, eight: the self opening carrying, 3; the society's releasing arriving along at 17 from 9, tri, the first; the other's arriving across at 2 and 14, bi, the second, each through 5; the two surfacing at 14; the changing is or is not at 12; the changing out across at 10 and 6; the carrying given on along at 11 and 9; the self opening again
+**At 25 · Two selves, three momentaries, five parities — beside "each opening, each momentary: six forms".** Of the six forms, four are at an alike opening, the two carryings at one parity, and two at an opposite.
 
 ## Droplets
 
@@ -215,3 +201,7 @@ From Session Report v377, section 7 item 1, Ready for Natural Intelligence: "At 
 UUU01: Exhibit ONE as a stable form registry template in its published shape: the resolver first, as the floating neutral; then its routings, sequencings, carrying and stable forms; the numbers' stable forms; and the names and relations as v345a lays them out, whose own eight-bi table already holds the evens in order. The published set leans on v345a's tables and names at 241 lines in seven files beside ONE, Natural Intelligence 106, Naming 61, the Living Ghost Registry 35, Engineering 20, Resolving Hard Problems 14, the Living File Registry 3 and Resolving the Hard Problem Registry 2, and at 697 more in Equilibria Definitions. Three conditions keep it do-no-harm: v345a's tables and names stand verbatim beside the sixteen, a position at each name; the numbers stand as the running returns them, at odd and even, with primality and the arithmetic at Numbers; and the code's sequencing and the forms' routing stand as two relations with their six joins, not as one. v3621's front and body homed at an explaining companion or at Natural Intelligence before the new ONE stands at corus.me in v345a's place. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.11 UUU01) (re-aimed from Exhibit FIVE Offerings to Natural Engineering at v381R) — v368_sources
 
 VVV01: a single naming at Exhibit ONE's code: the draft at next_ONE/ is laid as the resolver's 57 lines; stable forms of the resolver, its routing at the network surface, its sequencing and carrying, the two relations meeting at 6 joins, the 12 stable forms among the names with their partners, the 4 higher forms and the running forms; stable forms of the numbers, with the primes as stable forms in natural torusing society; the 17 names and 9 relations among them; the geodesic method; and the Python, 2,590 words; no name other than the code's stands in it, and it explains no stable-forming method. At a ring, each node is named a resolver, a ring of an odd count a self and of an even count a society; a ring of a composite count runs as its equal smaller selves joined, and a ring of a prime count as no joining of equal smaller selves larger than a single resolver. The resolver's earlier names stand in the living set at 1,467 places in 7 files: Equilibria Definitions 934, Natural Intelligence 174, Exhibit ONE 134, Natural Naming 104, the Living Ghost Registry 65, Natural Engineering 32 and Resolving Hard Problems 24; the word kernel, which Natural Explaining sets aside, stands in the living set at 39. So a single naming sets the order of the work: each name agreed at Exhibit ONE, then changed at every file of the living set at the same turn. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.12 VVV01) (re-aimed from Exhibit FIVE Offerings to Natural Engineering at v381R) — v368_sources
+
+**Returned to the droplets by a second reader at v381R, at 10 · Three windings — beside "along, not-yet-co-competent to co-competent-so-far":** Among the odd names tri is at a releasing alone and co at an arriving alone: the society releasing along at 9, the self arriving at 17. Its reason: a reading said as a fact: the file has 17 opened by the society (sides social, self), not the self arriving; and "tri is at a releasing alone" reads as if 11, 13 and 15 were not tri — v381R
+
+**Returned to the droplets by a second reader at v381R, at 4 · Each name and its relations — row 1, Prior and next, beside "the three steps within it 14, 12, 10 with 11":** one self through one momentary at the names, eight: the self opening carrying, 3; the society's releasing arriving along at 17 from 9, tri, the first; the other's arriving across at 2 and 14, bi, the second, each through 5; the two surfacing at 14; the changing is or is not at 12; the changing out across at 10 and 6; the carrying given on along at 11 and 9; the self opening again Its reason: a reading said as a fact: the along arriving from 9 "the first" and the across at 2 and 14 "the second" is an order the file does not say (the function gives one list to 14 at 6, 10 and 9 alike); and the row already carries the momentary as its three steps — v381R
