@@ -32,6 +32,8 @@
 
 **One difference of method.** `Is_Or_Is_Not.md`, the file v382A read, asks of each step whether it follows from the opening sentence alone and writes "is not" where it does not. v382A's method: "An unfinished reading is unfinished work, not a third natural outcome and not an is-not of the relation." The two are of different subjects, whether a step is derived and whether its relation is so, and this session's words did not keep them apart. Since then, with the self, this session re-said it: a sentence not chained is so far said at nothing, and is called neither false nor broken. That is near v382A's standard, and the older file still stands as it was written. By v382A's standard, "an actual missing or opposing step at a stated sentence", some of this session's fifty-five rows are unfinished readings and no concerns. They are offered to that pass for that reason.
 
+**Since, from the self: the word for it is the files' own.** "the state of an observing until it is a resolving is now still possibling". Natural Intelligence 5.3 names the binary, is-still-possibling or is-next-existing, each resolving one of the two. So a step not yet derived is still possibling, and v382A's standard and this session's binary are one thing said at the files' word. v382A has used the word from its fiftieth pass; this session had used it at none. The binary is at no step of the Registry, row C14. `Two_Logics.md`, its part on the three places.
+
 **The address.** v382A met five concerns as they stood at pull request 124. Two of the five this session had since re-said with the self: whether an observing can break the claim, now how an observing reaches the method; and resolved at two meanings, now the one row N1. The work since is not named in v382A's text: the set of unresolveds, the two logics, and the namings of nature, cursioning, carrying and living.
 
 **The ground.** v382A went outward along the files, reporting whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health, and passages of Natural Medicine and Natural Biology. This session went inward at the Registry's own words with the self. v382A holds three relations unresolved; this session's set holds fifty-five rows.
@@ -107,7 +109,7 @@ What the saying still takes, each a row: two parities, C7; a now, or entries wit
 ## For the logic working, in the order its pass can reach them
 
 1. **The address.** This session's standing is pull request 125, `working/unresolveds-v383Op`: `Unresolveds.md` for the rows, `Two_Logics.md` for the two logics and the namings. A pointer is laid at pull request 124.
-2. **The difference of method above**: whether "is not", said of a step not derived, is to be re-said through `Is_Or_Is_Not.md` as not yet followed.
+2. **The difference of method above**, answered since by the self: "is not", said of a step not derived, reads as is-still-possibling. For the pass: whether Natural Naming's six lines of it belong at the Registry, row C14.
 3. **Items 3 and 4**: whether each of the six conditions is the files' at the subject it is used at.
 4. **P1, at the Registry's steps 8, 10 and 30**: a now of the whole universe, read here as the sentence of the universe as an existing thing.
 5. **N9**: living said of a society, at steps 387, 472 and 564.

@@ -1,6 +1,6 @@
 # v383Op · Is or is not: each part of the claim, from the one opening sentence alone
 
-> **Read with `Meeting_v382A.md`, laid 6 October 2026.** Where this file writes "is not" of a step, it says the step is not derived from the opening sentence alone, and not that its relation is not so; the logic working v382A's method keeps those two apart, and this file's words did not. Its second shorter deriving, of the self's own prior, is not what the resolver does: the prior the next inverts is the other's.
+> **Read with `Meeting_v382A.md`, laid 6 October 2026.** Where this file writes "is not" of a step, it says the step is not derived from the opening sentence alone, and not that its relation is not so; the logic working v382A's method keeps those two apart, and this file's words did not. The self has since given the word, and it is the files' own: a step not yet derived is still possibling, the other side of is-next-existing, and no is-not of its relation; `Two_Logics.md`, its part on the three places. Its second shorter deriving, of the self's own prior, is not what the resolver does: the prior the next inverts is the other's.
 
 **The largest remaining concerns, revised at all or none at all**
 
