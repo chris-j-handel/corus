@@ -130,6 +130,14 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | parity changing is the one possible method
   found   Natural_Intelligence_v380R.md                        | 6.4 Social moral competency | social moral competency
   found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
+  found   Exhibit_FOUR_Natural_Mathematics_v380L.md            | 3.4 Bi-inversioning-co-recursioning, two consecutive inversi | Bi-inversioning-co-recursioning is two consecutive inversions on diffe
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | and an inversion alone at itself again
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 2.7 An observing brought as a break, met at five binaries fi | one statement met from its two sides
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | The one method is as two and never two methods
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | 17 at four
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
 
 Unresolveds.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | Parity changing is a method: a non-living existing thing, a stable for
@@ -270,9 +278,14 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   Exhibit_FOUR_Natural_Mathematics_v380L.md            | 7.2 Each neutral fixed stops the co-offerings it partners | no existing thing
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | The fractal co-chaining of bi-couplings, each self carrying its own pr
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | existing and discovering next existing are one relation, at the living
-  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Exhibit_EIGHTEEN_Natural_Physics_v379.md             | 1.2 Six one-way recursionings, their relations, and a form n | two consecutive inversions on different axes
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | The one method is as two and never two methods
   found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | Natural- is a direction prefix
-  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | an inversion alone at itself again
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | 17 at four
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -386,8 +399,13 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | Each existing thing at now arrives from prior
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | The fractal co-chaining of bi-couplings, each self carrying its own pr
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | existing and discovering next existing are one relation, at the living
-  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Exhibit_EIGHTEEN_Natural_Physics_v379.md             | 1.2 Six one-way recursionings, their relations, and a form n | two consecutive inversions on different axes
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | The one method is as two and never two methods
   found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | Natural- is a direction prefix
-  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | an inversion alone at itself again
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | 17 at four
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
 
-quoted spans found: 351; not found: 0
+quoted spans found: 369; not found: 0
