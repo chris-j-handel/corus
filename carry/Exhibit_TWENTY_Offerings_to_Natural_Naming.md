@@ -233,3 +233,7 @@ Levinthal's paradox and the tragedy of the commons stand at Natural Naming 5.1 a
 Levinthal's paradox and the tragedy of the commons stand at Natural Naming 5.1 as naming examples. They are arrivals, so they stay as naming examples or release to the registry pair. This travels with the third place. (Carry_Set_v368_README.md, Concerns, 4 Two field gatherings at Natural Naming) (re-aimed from Exhibit TWENTY-TWO Offerings to Resolving the Hard Problem Registry at v381R) — v368_sources
 
 Levinthal's paradox and the tragedy of the commons stand at Natural Naming 5.1 as naming examples. They are arrivals, so they stay as naming examples or release to the registry pair. This travels with the third place. (Carry_Set_v368_README.md, Concerns, 4 Two field gatherings at Natural Naming) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+**Aimed at a file, Natural Naming:** A glossary: each coined term, its plain words, the section that says it and its name in the code. Natural Naming is the place, and its entries are in no order a newcomer can search. Source: Presentation.md, section 30, droplet 4. — v383Op
+
+**Aimed at a sentence, Natural Naming, *One naming for each concept*:** It also says *One concept can carry several names*. The two sentences of one living file part. Source: Presentation.md, Five places the explaining's own sentences part. — v383Op

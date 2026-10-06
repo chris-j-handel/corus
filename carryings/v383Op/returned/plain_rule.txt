@@ -1,0 +1,13 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+one sharing, each case: 363 of 363 agree
+random entries: 20000 of 20000 agree
+
+(carrying, surfaced) -> (carrying next, shared)
+  (+1, +1) -> (+1, +0)
+  (+1, -1) -> (-1, -1)
+  (+1, +0) -> (-1, -1)
+  (-1, +1) -> (+1, +1)
+  (-1, -1) -> (-1, +0)
+  (-1, +0) -> (+1, +1)
+six arrivals, 4 results; arrivals leaving the same result: [[(1, -1), (1, 0)], [(-1, 1), (-1, 0)]]
+exchange of + and - : the rule is alike at each of the six cells
