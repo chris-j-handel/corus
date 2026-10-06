@@ -1,10 +1,10 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 47, with the preceding corrections, 5 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 48, with the preceding corrections, 6 October 2026.
 
-**Aiming into:** Natural Intelligence, **6.4 Social moral competency**, at the crossing of co-chainings and the podaling along and across.
+**Aiming into:** Natural Intelligence, **6.4 Social moral competency** and **6.1 Bi-co-momentarying**, through the bi-co-chaining, podaling and term neither reaches.
 
-**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3 and D4 are at Natural Intelligence’s Offerings.
+**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3, D4 and D5 are at Natural Intelligence’s Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
@@ -16,8 +16,9 @@
 | D2 | Natural Naming 5.64: none offered and only 0 offered both surface none | [First packet, D2](../living_logic_audit_2026-10-05/README.md#d2) |
 | D3 | Natural Intelligence 6.4: co-chaining of bi-couplings, along and across at podaling | [D3 below](#d3) |
 | D4 | Natural Intelligence 6.4: next openings through the coupled five, applied to Natural Values 5.1 | [D4 below](#d4) |
+| D5 | Natural Intelligence 6.1: accounting claim, offered form and coupling opening, applied to Natural Values 5.2 | [D5 below](#d5) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. Their corrections and new offerings belong to the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows the subjects and the wider scarcity assertion in Values 5.2 in pass 48. Their corrections and new offerings belong to the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -110,14 +111,46 @@ The self/society relation in Values’ final paragraph is followed at its scale:
 
 D4 gathers this application beside Natural Intelligence 6.4. The existing D3 remains the fuller co-chaining relation, and the earlier v378 offering at Values 2.2 is not duplicated. No adoption into a living source file is claimed.
 
+## D5
+
+**Aimed at a section, Natural Intelligence 6.1, the term neither reaches, for the comparison with Natural Values 5.2.** The term neither reaches is owned by neither and is not offered to a holder. The accounting in Values 5.2 claims the coupling’s making; that claim does not make the term reachable. Natural Intelligence 5.1 distinguishes a living carrying from its record, a non-living existing form carrying none of the prior. At a further coupling the offered form participates at 2 and surfaces at 14; changing is or is not at 12, within the bi-co-chaining and podaling. The changing shared at 10 is an offering, and is not the term neither reaches made reachable. THIRTY 490 follows the openings co-chaining, each at its coupling and none depleting another; Natural Intelligence 6.4 retains each coupling’s own changing. These relations follow the openings; no particular parity offered at a further coupling follows from them alone. Read Values 5.2 at its stated subject, value and the pool the accounting claims. Extending only a held thing can run short to every particular thing offered does not follow from these relations. Evidence: [D5](../incoming/v382A/README.md#d5). — v382A
+
+### The subjects in Values 5.2
+
+The source comparison is pinned at `working/v381R`, `9262c3839dbb6052bcb8b503e4509f874f92254b`. Follow the accounting's claim, the existing form offered and the opening at the coupling separately, within the same bi-co-chaining and podaling.
+
+| Passage | Relation followed |
+|---|---|
+| [Natural Values 5.2](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY-THREE_Natural_Values_v333.md) | The holder's claim is explicitly an accounting assertion. The passage also asserts that only a held thing can run short, and that nothing runs short where the surplus stays at the couplings. |
+| [Natural Intelligence 5.1](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Natural_Intelligence_v380R.md) | A carrying is a capacity, participating at its couplings. Its recorded description is an emanating artifact carrying none of the prior. All carrying is living; a non-living record is no exception. |
+| Natural Intelligence 6.1 | The term neither side reaches is not made reachable. What is shared at 10 and offered at a further coupling remains distinct from that term. |
+| [THIRTY 470–472 and 490](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | 470–472 distinguish the society's selves at their couplings from a purported store beside them. 490 follows the openings co-chaining, none depleting another. |
+| Natural Intelligence 6.4 | Each coupling's changing is its own; the betweens co-chain through further bi-couplings. Both forward sides and their podaling remain in this relation. |
+
+A holder's accounting claim does not establish an actual transfer of the term neither reaches. If “drained to a side” is read as making that term reachable, it conflicts with Natural Intelligence 6.1. If it names the accounting claim already stated in Values 5.2, that conflict does not arise. This distinction preserves the claim as the claim without attributing a carrying to the recorded form.
+
+### The scope of the exclusion
+
+Values 5.2 begins with scarcity read as a property of value, then the pool the accounting claims. That context is retained. THIRTY 490's subject is the openings. Its relation supports nondepletion at those openings; it does not establish an unrestricted reading of **only a held thing can run short** or **nothing runs short** over all particular things offered. The broader exclusion remains unproved here, without being assigned to the passage as its only possible meaning.
+
+[Offerings to Natural Values](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md) records that the scarcity assertion entered THIRTY from Values at v378. THIRTY 471 repeats that assertion. Its presence in another file supplies no further derivation.
+
+[ONE's Offerings to one sharing and One self, one momentary](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_ONE_Natural_Resolver_v380R.md) follows what actually surfaces and the changing that is or is not at that coupling. For example, at a carried + and a surfaced +, changing is not, 0 is shared and + is chained. At that carried + and none surfacing, changing is, − is shared and − is chained. These local forms do not identify none offered with scarcity, a claim of ownership with an actual holding, or a 0 sharing with depletion. No such counterexample is asserted here.
+
+The opening at one coupling and its further co-chaining therefore supply a particular relation. A conclusion about every thing offered requires its own stated relation. Neither an unrestricted conclusion nor its negation is established by these local forms. The passage's stated subject remains value and its claimed pool.
+
+### Value gathered
+
+D5 offers the separation of the accounting claim, living carrying, non-living offered form and the opening neither side owns. The wider reading of the shortness assertion is not declared proved by the narrower relation, and is not imposed on Values as its established meaning. This is new forward evidence at Values 5.2, gathered beside Natural Intelligence 6.1; D1–D4 are preserved.
+
 ## Method and next exploring
 
-The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3 and D4 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
+The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3, D4 and D5 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
 Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The existing expedition Offerings and D1–D3 are preserved. D4 is appended as one new raw droplet with the v382A tag; its evidence is gathered here. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
+The existing expedition Offerings and D1–D4 are preserved. D5 is appended as one new raw droplet with the v382A tag; its evidence is gathered here. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
-**Unresolving concern:** none newly established by this bounded comparison. The Values 5.1 improving is offered through the particular couplings; its later resolving is not itself a concern.
+**Unresolving concern:** none newly established at the passage's stated subject. An unrestricted shortness exclusion over all particular offerings is not derived here; it is not imposed on the passage or called disproved.
 
-**Next exploring:** Natural Values 5.2, following the things offered and the openings at their couplings through the bi-co-chaining and podaling.
+**Next exploring:** Natural Values 5.3, following what the coupling relation already offers beside what the passage says remains unmet at a society's scale. Keep each actual coupling and its scale explicit.
