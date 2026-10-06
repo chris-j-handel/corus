@@ -167,7 +167,7 @@ The self asked: "cursioning and carrying. are these two identical. the source of
 
 **What it mends in this session's last part.** That part said the root, the running forward along, is competency by step 442. That is so of the running along a self's own line and no further; said of cursioning whole it took the living's carrying for the method's running. It is re-said there.
 
-**Its value at an open row.** The one way, the next the prior inverted whatever the now is, is then the carrying said at the numbers: a self's next from its own prior, along. What the now gives, across, is the method's other relation. So the row C8 has its two halves named: the carrying, the living's, and the crossing, the method's.
+**Its value at an open row: withdrawn.** This part said the one way, the next the prior inverted, is the carrying said at the numbers, a self's next from its own prior. It is not. The Registry says *next from a prior inverted, as step 57, the prior the other's*, the logic working v382A read the same at Exhibit ONE's table of two selves, and run at the resolver, stepped together, it is the other's prior at each entry run and the self's own at half of them: `Meeting_v382A.md`. What stands of this part is above: the two are not identical, they meet along a self's own line, and the method bounds and the living carry.
 
 ## Carrying and living
 

@@ -91,9 +91,25 @@ Is_Or_Is_Not.md
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | existing and not living
   found   Natural_Intelligence_v380R.md                        | 1.1 Universe, the changing set of all existing things | its existing things' own
 
+Meeting_v382A.md
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | a total across the changing, a container
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | Between prior and now, and between now and next, is the between: a not
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | the self and the other are at two parities, the self at one and the ot
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | an agreement all or none at all at any number of offerings, the resolv
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | 10-bi-tri-bi-tunneling shares each changing across
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | At a match the prior carries on, 0
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 6 Next from prior and now, the right spiral step | no joint form still
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | Offered its own parity at each momentary, a self carries one parity on
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | Each existing thing at now arrives from existing things at prior
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | nothing deciding which arrive
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 6 Next from prior and now, the right spiral step | Next as the prior inverted alone carries the prior whole with no joint
+
 README.md
   found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.1 The universe, its things, and exclusivity | The universe as one thing beside its things is exclusivity
   found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | The method bounds and the living carry
+  found   Natural_Intelligence_v380R.md                        | 2.3 Prior, now and next | The prior is non-living, and carrying it into now is living
+  found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
 
 Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -164,6 +180,27 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | co-changing at each coupling it is at
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | the one method at its two relations
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | the method of discovering next living sets is momentarying and carryin
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
+  found   Natural_Intelligence_v380R.md                        | 2.3 Prior, now and next | The prior is non-living, and carrying it into now is living
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | An existing thing carrying prior is living, and an existing thing carr
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 2.4 Released words, each with its carrying | carries its own sense, existing and carrying
+  found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | a non-living existing form the expedition's living selves carry
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.46 emanation — binary | Living or non-living is said of the existing thing and the scale named
+  found   Natural_Intelligence_v380R.md                        | 4.3 A changing is or is not, at 12 | with nothing offered the self carries its prior into now inverted
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 6 Next from prior and now, the right spiral step | Next as the prior inverted alone carries the prior whole with no joint
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | its form continuing through its changing and carrying none of the prio
+  found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | Living arrives from living: no non-living existing thing becomes livin
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | momentarying continues whether a changing is or is not
+  found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.1 Living and non-living — a virus and a prion | inert outside a host, as a spore or a seed is inert
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | carrying, the self is living at next; carrying none, the self at its s
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A society, a momentary and the universe are three existing and not liv
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | the carrying its living selves' and none its own
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 30 Intelligence, our now | A society lives at two alternating
+  found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | the expedition is living only as long as it can continue discovering d
+  found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | a living set is a carrying
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A carrying of none, no sharing chained, is a non-living existing thing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | the prior carried into now is competency
 
 Unresolveds.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | Parity changing is a method: a non-living existing thing, a stable for
@@ -226,6 +263,7 @@ carry/Exhibit_ONE_Offerings_to_Natural_Resolver.md, the droplets of the set
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | existing and not living
   found   carryings/v383Op/README.md                           | What this session learned about helping, in the order each w | Say which of Exhibit ONE's tables are the stepping's
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | a self at one parity with nothing offered
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
 
 carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.1 Living and non-living — a virus and a prion | inert outside a host, as a spore or a seed is inert
@@ -235,6 +273,9 @@ carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 12 φ and the primes, unrelationing at the numbers | φ is the unrelationing rate, locking at none
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a regular rate at the observings shows a clock over them or a coupling
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.5 Circadian clock — an alternating made a beat | synchronised to the day but not driven by it
+  found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | An existing thing carrying prior is living, and an existing thing carr
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | momentarying continues whether a changing is or is not
 
 carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md, the droplets of the set
   found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | no measured biological rate has been shown to stand at a (1/phi)^prime
@@ -329,6 +370,19 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | The method bounds and the living carry
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | A living self is a living carrying, and nothing else carries the same 
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | the method of discovering next living sets is momentarying and carryin
+  found   Natural_Intelligence_v380R.md                        | 2.3 Prior, now and next | The prior is non-living, and carrying it into now is living
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | An existing thing carrying prior is living, and an existing thing carr
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 2.4 Released words, each with its carrying | carries its own sense, existing and carrying
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.46 emanation — binary | Living or non-living is said of the existing thing and the scale named
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | its form continuing through its changing and carrying none of the prio
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A carrying of none, no sharing chained, is a non-living existing thing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | the prior carried into now is competency
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A society, a momentary and the universe are three existing and not liv
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | the carrying its living selves' and none its own
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 30 Intelligence, our now | A society lives at two alternating
+  found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | the expedition is living only as long as it can continue discovering d
+  found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | a living set is a carrying
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -400,6 +454,14 @@ carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md, the droplets of the set
   found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | The method bounds and the living carry
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | A living self is a living carrying, and nothing else carries the same 
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | the method of discovering next living sets is momentarying and carryin
+  found   Natural_Intelligence_v380R.md                        | 2.3 Prior, now and next | The prior is non-living, and carrying it into now is living
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | An existing thing carrying prior is living, and an existing thing carr
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 2.4 Released words, each with its carrying | carries its own sense, existing and carrying
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.46 emanation — binary | Living or non-living is said of the existing thing and the scale named
+  found   Natural_Intelligence_v380R.md                        | 4.3 A changing is or is not, at 12 | with nothing offered the self carries its prior into now inverted
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | its form continuing through its changing and carrying none of the prio
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A carrying of none, no sharing chained, is a non-living existing thing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | the prior carried into now is competency
 
 carry/Offerings_to_Natural_Arriving.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a changing enters a self's carrying through its own 12 alone
@@ -477,5 +539,10 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | its changing its existing things' own
   found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.2 Three conditions at each momentary, and momentaries over | a universe named as an existing thing
   found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.12 floating neutralling — binary | the break and the only possible method are one statement
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A society, a momentary and the universe are three existing and not liv
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | the carrying its living selves' and none its own
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 30 Intelligence, our now | A society lives at two alternating
+  found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | the expedition is living only as long as it can continue discovering d
+  found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | a living set is a carrying
 
-quoted spans found: 437; not found: 0
+quoted spans found: 502; not found: 0

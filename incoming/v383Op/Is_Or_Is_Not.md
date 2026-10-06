@@ -1,5 +1,7 @@
 # v383Op · Is or is not: each part of the claim, from the one opening sentence alone
 
+> **Read with `Meeting_v382A.md`, laid 6 October 2026.** Where this file writes "is not" of a step, it says the step is not derived from the opening sentence alone, and not that its relation is not so; the logic working v382A's method keeps those two apart, and this file's words did not. Its second shorter deriving, of the self's own prior, is not what the resolver does: the prior the next inverts is the other's.
+
 **The largest remaining concerns, revised at all or none at all**
 
 **Written at the form of `main`, one carrying a file.** Where this part says an entry is "laid at a file's carrying", at the three-file form it is a droplet at that file's offerings, by its row in [`Unresolveds.md`](Unresolveds.md); a script of the first report it names is at `carryings/v383Op/`.
