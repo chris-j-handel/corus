@@ -1,10 +1,10 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 46 and its corrections, 5 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 47, with the preceding corrections, 5 October 2026.
 
 **Aiming into:** Natural Intelligence, **6.4 Social moral competency**, at the crossing of co-chainings and the podaling along and across.
 
-**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3 is at Natural Intelligence’s Offerings.
+**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3 and D4 are at Natural Intelligence’s Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
@@ -15,8 +15,9 @@
 | D1 | Natural Naming 2.4: the particular next in bi-co-chaining and podaling | [First packet, D1](../living_logic_audit_2026-10-05/README.md#d1) |
 | D2 | Natural Naming 5.64: none offered and only 0 offered both surface none | [First packet, D2](../living_logic_audit_2026-10-05/README.md#d2) |
 | D3 | Natural Intelligence 6.4: co-chaining of bi-couplings, along and across at podaling | [D3 below](#d3) |
+| D4 | Natural Intelligence 6.4: next openings through the coupled five, applied to Natural Values 5.1 | [D4 below](#d4) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. Their corrections belong to the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. Their corrections and new offerings belong to the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -69,14 +70,54 @@ The earlier source expressions and added judgment remain withdrawn. No source ex
 
 The non-living-offering comparison at Values 2.2 is already a v378 droplet at [Offerings to Natural Values](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md), beside Natural Intelligence 6.5. It is not dropped again.
 
+## D4
+
+**Aimed at a section, Natural Intelligence 6.4, the betweens co-chaining, for the comparison with Natural Values 5.1.** At 9 the self’s 1–9 completes and the society’s 9–17 opens; at 17 the society’s offering is at the self’s next 1. Along 9 at this scale is across 2 outward: both forward sides stay in the podaling. THIRTY 490 names abundancing as the openings co-chaining, each at its coupling. In ONE’s Two selves, three momentaries, five parities, the sequence is the other’s prior, the other’s sharing, the self’s now, the self’s sharing and the self’s next. Its rows with 0 at the self’s sharing have the same parity at the self’s now and next; the other’s offering remains in that whole relation. These are two selves coupled both ways, each carrying a parity, none offered from beyond them. Still possibling at this completing participates in the next opening through the coupled form. Follow Values 5.1 through those next offerings and couplings, each resolving all or none at all, of no size, Natural Intelligence 2.5. Evidence: [D4](../incoming/v382A/README.md#d4). — v382A
+
+### The two openings through 9 and 17
+
+[THIRTY 181–187](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) follows self and society at the overlap. [Natural Intelligence 4.5–4.6 and 4.15](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Natural_Intelligence_v380R.md) supplies its releasing, offering and scale relations.
+
+| Inward participation | At the scale outward |
+|---|---|
+| Self’s 1–9 | 1–2 |
+| Society’s 9–17 | Other’s 2–3 |
+| Overlap at 9, self completing and society opening, along | Overlap at 2, across |
+| Society completing at 17 and self’s next opening | 3, the next opening |
+
+These are two readings of the same coupling at their stated scales. Both directions are forward. The numbered form supplies no extra operation. At 9 the releasing is as 10 shared; at 17 the offering participates at the next opening. The offerings surface at 14, and at 12 changing is or is not at that coupling. No additional inversion is assigned to 9 or 17.
+
+### The coupled five
+
+[ONE’s Two selves, three momentaries, five parities](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_ONE_Natural_Resolver_v380R.md) is read at its full condition: two selves coupled both ways, each carrying a parity, none offered from beyond the two. Two of its six forms are:
+
+| Other’s prior, along | Other’s sharing, across | Self’s now, along | Self’s sharing, across | Self’s next, along |
+|---|---|---|---|---|
+| + | − | − | 0 | − |
+| − | + | + | 0 | + |
+
+The self’s now and next have the same parity in these rows. The other’s prior and its intervening offering remain explicit. At this completing the self is still possibling; the next opening participates in the whole coupled form. This does not identify the two momentaries or equate the participating selves.
+
+The table’s other four rows and the established relation of fifth to first remain in ONE. This comparison uses the two stated forms at Values 5.1; it neither claims them as new discoveries nor extends their particular conditions to every network.
+
+### The offering for Natural Values 5.1
+
+[THIRTY 490](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) already gives **abundancing as the openings co-chaining**. [Natural Naming 5.14](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY_Natural_Naming_v380R.md) follows the two routes and the opening at their coupling. [Natural Intelligence 2.5](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Natural_Intelligence_v380R.md) places each resolving at all or none at all, of no size; 6.4 includes still possibling and next existing in the social moral competency.
+
+The new application is at [Natural Values 5.1](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/Exhibit_TWENTY-THREE_Natural_Values_v333.md): follow its next offering through these actual couplings. The next opening is at its next momentary in bi-co-chaining and podaling. A different parity at the self’s next than at its now is not required by the two forms above. Nor does a resolving supply a comparative amount. The particular opening at each coupling and the further openings co-chaining provide the explaining.
+
+The self/society relation in Values’ final paragraph is followed at its scale: along inward, across outward, with 17 the next opening. The numeral alone supplies neither an extra parity offered at 10 nor a clock shared by the participating selves. The same method at each scale retains each scale’s participation.
+
+D4 gathers this application beside Natural Intelligence 6.4. The existing D3 remains the fuller co-chaining relation, and the earlier v378 offering at Values 2.2 is not duplicated. No adoption into a living source file is claimed.
+
 ## Method and next exploring
 
-The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3 is at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
+The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3 and D4 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
 Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The existing expedition Offerings are preserved. These are corrections to this working’s raw D1 and D3 and their incoming evidence. D2’s surfacing comparison is retained. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
+The existing expedition Offerings and D1–D3 are preserved. D4 is appended as one new raw droplet with the v382A tag; its evidence is gathered here. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
-**Unresolving concern:** the audit’s reduced explaining is corrected here; no further contradiction is established by these relations.
+**Unresolving concern:** none newly established by this bounded comparison. The Values 5.1 improving is offered through the particular couplings; its later resolving is not itself a concern.
 
-**Next exploring:** the two forward openings through the self/society podaling at 9 and 17, keeping along at one scale and across outward together, then carrying that relation into Natural Values 5.1.
+**Next exploring:** Natural Values 5.2, following the things offered and the openings at their couplings through the bi-co-chaining and podaling.
