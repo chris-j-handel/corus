@@ -311,7 +311,7 @@ D26 aims into Natural Intelligence's Offerings. D27 aims into Exhibit TWENTY Nat
 
 **6 October 2026 · v382A · raw incoming evidence**
 
-This pass follows Exhibit SEVENTEEN Natural Biology from copying into conceiving and developing, then follows the surrounding explanations of the organism and lineage. Its most useful finding is a bothboth already supplied within the files: one sexual parent and living couplings with others can hold together. The exact further question is in a prepared offering's passage from repetition at one sharing to genome doubling at every gene.
+This pass follows Exhibit SEVENTEEN Natural Biology from copying into conceiving and developing, then follows the surrounding explanations of the organism and lineage. Its most useful finding is a bothboth already supplied within the files: one parent and living couplings with others can hold together. The exact further question is in a prepared offering's passage from repetition at one sharing to genome doubling at every gene.
 
 ### Passages reached and the reach of this pass
 
@@ -434,6 +434,6 @@ The pass-58 withdrawal remains. The improvement to this method is the worked dis
 
 D28 aims into Natural Intelligence's Offerings. D29 aims into Exhibit TWENTY Natural Naming's Offerings. D1–D27 remain as previously corrected. The gathering is twenty-nine raw droplets.
 
-**Logical standing:** one sexual parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+**Logical standing:** one parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
 
 **Next exploring:** follow the genome-doubling offering at the particular gene, chromosome and cell, retaining whether a copied form repeats an offering at the same sharing or participates at another coupling. Then take that distinction to the already-gathered regeneration paragraph at Exhibit SEVENTEEN Natural Biology 5.3.
