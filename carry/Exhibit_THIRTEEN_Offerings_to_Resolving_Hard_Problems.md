@@ -99,3 +99,7 @@ Resolving Hard Problems: the one method home. It keeps Parts One, Four, Six and 
 The quarter turn with bi-inversioning, rather than reflecting, is the first source of hard probleming at Exhibit ONE's code. (Carry_Set_v368_README.md, What stands so far, 12) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
 
 The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) (re-aimed from Exhibit THIRTY Offerings to Co-Chaining Logic Registry at v381R) — resettling_v373
+
+None of the hard problems was hard until considered as a whole was added. (Carry_Set_v368_README.md, What stands so far, 3) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+In resolving, an either or but not both begins alternating parity and bothbothing; there is no remaining resolving, and reading is the hard probleming. The question asked of all starting numbers at once is the universe mistakenly declared a thing without yet existing, at the numbers; from it the origin, boundary and scale measuring in the numbers became the hard problems' organizing method. None of the hard problems is a test of anything about living. (Carry_Set_v368_README.md, What stands so far, 19, 20, 21) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources

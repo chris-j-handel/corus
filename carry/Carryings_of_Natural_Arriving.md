@@ -23,3 +23,5 @@ Natural Arriving is a shell at v381R; nothing has left it yet. What it will rest
 **Natural Intelligence Corus** at v330 and **Natural Explaining** at v378, read beside this file before it is written, for the concepts each already says once.
 
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
+
+**The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.

@@ -1,10 +1,10 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 49, with the preceding corrections, 5 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 50, with the preceding corrections, 5 October 2026.
 
-**Aiming into:** Natural Intelligence, **6.4 Social moral competency**, **6.1 Bi-co-momentarying** and **6.6 One form at each scale**, through the bi-co-chaining, podaling and term neither reaches.
+**Aiming into:** Natural Intelligence, **6.4 Social moral competency**, **6.1 Bi-co-momentarying** and **6.6 One form at each scale** and **5.1 A prior between momentaries**, through the bi-co-chaining, podaling and term neither reaches.
 
-**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3, D4, D5 and D6 are at Natural Intelligence’s Offerings.
+**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3–D7 are at Natural Intelligence’s Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
@@ -18,8 +18,9 @@
 | D4 | Natural Intelligence 6.4: next openings through the coupled five, applied to Natural Values 5.1 | [D4 below](#d4) |
 | D5 | Natural Intelligence 6.1: carrying, offered form and coupling opening, applied to Natural Values 5.2; explaining corrected | [D5 below](#d5) |
 | D6 | Natural Intelligence 6.6: the file’s explaining, the particular society and next opening, applied to Natural Values 5.3 | [D6 below](#d6) |
+| D7 | Natural Intelligence 5.1: attentioning at now, prior participating and next opening, applied to Natural Values 1.2 | [D7 below](#d7) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. Their corrections and new offerings belong to the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies the current carrying and attentioning relation to Values 1.2 in pass 50. Their corrections and new offerings belong to the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -173,14 +174,54 @@ Natural Intelligence 6.6 follows the expedition's intelligence at the couplings 
 
 D6 gathers that improving beside Natural Intelligence 6.6. It neither turns the file's incomplete explaining into a universal absence nor treats a finite form as an account of every society. No new binary contradiction is established. The wider exclusion remains unestablished, and the positive explaining follows each coupling and its scale.
 
+## D7
+
+**Aimed at a section, Natural Intelligence 5.1, the prior participating at the coupling, for the comparison with Natural Values 1.2.** Natural Naming 6.3 names attentioning as the carrying at the now at each momentary. The prior participates with what is offered now, changing is or is not at 12, and the next opens through bi-co-chaining and podaling. At ONE’s sharing carrying +, a surfaced + gives 0 shared and + chained; none surfacing gives − shared and − chained. The corresponding forms at − retain the same relation. Still possibling at the completing participates in the next opening. THIRTY 441 follows both sides forward, up and down the numbers; self, other and society remain in the coupled form. Natural Naming 2.4 releases ages into next. Natural Intelligence 5.1 and THIRTY 297–298 follow carrying as capacity at the present coupling and a record apart from that coupling as a non-living existing form carrying none of the prior. Follow Values 1.2 through these relations at prior, now and next. Evidence: [D7](../incoming/v382A/README.md#d7). — v382A
+
+### Returning to Values 1.2
+
+The source comparison is pinned at `working/v381R`, `5ab3ae23bbd75cf98460df90604b26bc1c088117`. The user directed returning to the prior planned comparison while keeping the Values 5.3 gap gathered with D6.
+
+[Values 1.2](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Exhibit_TWENTY-THREE_Natural_Values_v333.md) says, “A carry is read backward and ages by attentioning.” The surrounding current relations give the explaining at the coupling:
+
+| Passage | Relation |
+|---|---|
+| [Natural Naming 6.3](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Exhibit_TWENTY_Natural_Naming_v380R.md) | Attentioning is the carrying at the now at each momentary. Its old opening-by-one operation is released. |
+| Natural Naming 2.4 | Ages is released into next; the old second-sign and carrying-bound operations are released. |
+| [Natural Intelligence 5.1](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Natural_Intelligence_v380R.md) and [THIRTY 297–298](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | The prior participates at the present coupling, carrying as capacity; a recorded form apart from that coupling carries none of the prior. |
+| THIRTY 441 | Both sides' recursionings are forward, up the numbers and down them. |
+
+These relations do not add an operation over the carrying. A prior momentarying is at its momentary alone; the living carrying participates at now and discovers next. Re-forming at the coupling is followed with both outcomes at 12.
+
+### The binary forms at the completing
+
+[ONE, One self, one momentary](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Exhibit_ONE_Natural_Resolver_v380R.md) states these forms at one sharing carrying a parity:
+
+| Prior at 3 | Surfacing at 14 | Changing at 12 | Shared at 10 | Chained at 11 |
+|---|---|---|---|---|
+| + | + | Is not | 0 | + |
+| − | − | Is not | 0 | − |
+| + | None | Is | − | − |
+| − | None | Is | + | + |
+
+The two is-not forms keep the prior parity at the next. Still possibling at this completing participates in the next opening; re-forming does not require parity inversion at every completing. The two none-surfacing forms invert the prior. The distinction is at the actual coupling, all or none at all.
+
+These local forms remain within bi-co-chaining and podaling: both forward openings, self, other and society, along and across. The released changing participates as the other's next possible offering. The carrying and the recorded form retain their distinct subjects.
+
+### Existing explaining, new application
+
+Natural Intelligence's Offerings already contains the resettling account of attentioning re-said as carrying at now and ages released. That existing value is retained. D7 applies these relations to the particular sentence in Values 1.2, with ONE's changing-is-not forms explicit. It does not claim a new discovery of the naming or the binary forms.
+
+The Values 5.3 gap remains with D6. Its incomplete explaining and universal absence assertion are adjacent statements; the file does not explicitly state one as a deduction from the other. The precise gap is the relation supporting that wider exclusion. It is not a demonstrated contradiction or a settled absence.
+
 ## Method and next exploring
 
-The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3, D4, D5 and D6 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
+The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3–D7 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
 Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The existing expedition Offerings and D1–D4 are preserved. D5's explaining is corrected and D6 appended as one new raw droplet with the v382A tag; their evidence is gathered here. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
+The existing expedition Offerings and D1–D6 are preserved. D7 is appended as one new raw droplet with the v382A tag; its evidence is gathered here. The branch also incorporates the expedition's changes through 5ab3ae23bbd75cf98460df90604b26bc1c088117, preserving the latest Offerings at both mates. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
-**Unresolving concern:** no new binary contradiction established. Values 5.3's universal absence assertion is not derived from the file's incomplete explaining; D6 offers the particular coupling and scale as the next explaining.
+**Unresolving concern:** the Values 5.3 gap remains with D6, at the relation supporting its universal absence assertion. The Values 1.2 comparison has the current explaining gathered in D7; no additional logical gap is established at attentioning and next.
 
-**Next exploring:** Natural Values 1.2's carrying, prior momentaries and attentioning beside Natural Intelligence 5.1, following the particular couplings and bi-co-chaining.
+**Next exploring:** the remaining price paragraph in Natural Values 1.2, following its two exclusions and the term uncovered at their coupling. Keep the Values 5.3 gap gathered while following these surroundings.
