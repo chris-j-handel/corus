@@ -6,13 +6,13 @@
 - **To**: the Co-Chaining Logic Registry and Exhibit ONE first, where the logic working v382A is; Natural Intelligence; the Geodesic Improving Method 2.6, 2.7 and 2.9; Natural Biology 3.1, 4.1 and 4.5; Natural Physics; Natural Mathematics 6.3; Resolving the Hard Problem Registry and the Hard Problem Registry; Natural Arriving and the README's link for an AI session; the Living File Registry.
 - **Read at**: `working/v381R` at commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, the front `carry/Living_Improving_Value.md` and the offerings of the Co-Chaining Logic Registry and Exhibit ONE; `incoming/v382A/Logical_Cohering_Method.md` at `review/living-logic-droplets-2026-10-05`, commit `f64a5f6`; the living files as the first report says, and since then the Co-Chaining Logic Registry v380L, each of its 661 steps, and `archive/session_v380/v380L/The_Claim_Broken_Further.md`.
 - **What it brings**:
-  1. [`Unresolveds.md`](Unresolveds.md): fifty-six rows at seven kinds; three rows left the set, one of them re-said as how an observing reaches the method, each with its place, what would resolve it, its evidence and its standing; this session's earlier droplets at their standing now; and the common way of working the set.
-  2. Forty-seven droplets at the bottom of sixteen files' offerings, seventy-eight placings, each tagged v383Op and naming its row; four of them for the entry, at Natural Arriving's offerings.
+  1. [`Unresolveds.md`](Unresolveds.md): fifty-seven rows at seven kinds; three rows left the set, one of them re-said as how an observing reaches the method, each with its place, what would resolve it, its evidence and its standing; this session's earlier droplets at their standing now; and the common way of working the set.
+  2. Forty-eight droplets at the bottom of sixteen files' offerings, eighty-one placings, each tagged v383Op and naming its row; four of them for the entry, at Natural Arriving's offerings.
   3. [`Improving.md`](Improving.md): each finding of the first report met again, largest first; what resolved, what this session had misread, what stands.
   4. [`Two_Logics.md`](Two_Logics.md): the self's two logics, each followed alone from its own first sentence, tested part by part against the files, with the second offered as a sequence and found inside the first's chain.
   5. [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md): eight sayings of the method each taken at is or is not from the one opening sentence; the Registry's steps 2 to 68 read one at a time by a fresh reader; the largest concerns revised.
   6. [`Meeting_v382A.md`](Meeting_v382A.md): how closely this session and the logic working v382A cohere, where they are apart, what is taken from its passes 56 to 59, and its tables executed at Exhibit ONE's resolver.
-  7. Seven scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`; and `quotes_check.py`, which finds each sentence quoted here and in the droplets at its file.
+  7. Eight scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`; and `quotes_check.py`, which finds each sentence quoted here and in the droplets at its file.
 - **Standing**: *arriving*. No living file, no insertlet, no carryings mate, no registry and no kit is changed. The droplets are raw and at the bottom.
 
 ## The answer asked: is there a kind of concern beside an observing unresolved and a chaining broken
@@ -47,6 +47,8 @@ The self asked how closely this session and v382A cohere, whether they diverge, 
 
 The self said the three, that the middle is mostly at the files mated to each living file, and that still possibling needs to be in the sequential co-chaining, the state of an observing until its resolving. Tested at `Two_Logics.md`: it is in the files, a named binary, *is-still-possibling or is-next-existing, each resolving one of the two*, written as six lines in sequence at Natural Naming; and it is at none of the Registry's 661 steps, which have the relation unnamed. Row C14. It is the other side of a binary and no third thing. It gives the word for the one difference of method between this session and v382A: a step not yet derived is still possibling, and no is-not. And by the files' own cell it is no shelter: a self is still possibling at most as many entries in sequence as others release to it.
 
+The self then set the edge: next possible existing outside the method; still possibling the even half of now, the other's offering; the next momentary opening odd, the carrying. Read at Exhibit ONE's own names, `now_and_next.py`: the carrying at 3 and 11, odd, the offerings at 2, 14, 12 and 10, even, each name's first word by its parity at seventeen of seventeen. Next possible is outside at one reading, what is possible at next, and inside at the other, the next possible at now; the files say the phrase 46 times at seven living files, and the two fronts stand at the two sides, Natural Intelligence's line under its title saying Discovering Next Possible Existing and the Registry's Discovering Next Existing. Row N10. The pair of names is at two binaries in one paragraph, the halves of each momentary and the outcome of a resolving; the bound of the part before is of the second.
+
 ## For the entry: a method advises no one
 
 Three droplets at Natural Arriving's offerings, for the tour the files already carry there: a method advises no one, chained at the files' own sentences and executed as a scan of Natural Medicine and Natural Health, `advising_scan.py`; what an AI session carries in, said from the two rows released; and each open thing of the set as a droplet for the tour, explored one at a time with the self.
@@ -69,7 +71,7 @@ It is the expedition's own, at `carry/Living_Improving_Value.md`, with the logic
 
 Each from the repository root.
 
-- `python3 incoming/v383Op/own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `fractal_unique.py`, `meeting_v382A.py`: each returns its saved text.
+- `python3 incoming/v383Op/own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`: each returns its saved text.
 - `python3 incoming/v383Op/quotes_check.py`: each sentence quoted in this folder and in the droplets of the set, found in the repository.
 - `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py .`, `check_set.py` and `cohere_one.py`, as the managing working runs them at each commit.
 

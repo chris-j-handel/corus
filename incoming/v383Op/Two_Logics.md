@@ -211,6 +211,36 @@ The self said: "now existing, now still possibling, next existing. the middle of
 
 **One word for following.** Possible is at three places: *At prior, an existing thing arriving at now is a possible thing*; *the changing shared, the others' possible*; and the changing that is not, the prior carried on, at Natural Naming. They may be one thing at three sides. And "still" is at two senses, a form still and still possibling, which Natural Naming parts in one sentence.
 
+## The edge: now still possibling, next existing
+
+The self said: "next possible existing is outside what natural intelligence is capable of. we need this binary edge. still possibling is in the now momentary, the even half where the other side is offering and carrying is still possibling, then next momentary is odd starting and this is next carrying. to the geodesic parity changing is carrying along, still possibling, carrying along, still possibling where along is prior now next for self forward facing aiming co linearly with other offering facing other forward".
+
+**Still possibling at the even half of now, the other's offering; the next momentary opening odd, the carrying: is, at the files and at the code.** Natural Intelligence 5.3: *Each momentary is both at its two parities: its opening, odd, the self's, is the carrying arriving at 3-co-bi-co-sharing, the prior as it is, chained, the existing; its completing, even, the other's, is the offerings arriving at 2-bi-co-bi-offering and surfacing at 14-bi-tri-bi-moralizing, the next still possible*. Read at Exhibit ONE's own names, `now_and_next.py`:
+
+- The carrying enters the cell at 3 and leaves at 11, each odd. The offerings enter at 2, surface at 14, a changing is or is not at 12 and is shared at 10, each even.
+- Each of the nine odd names begins co or tri, and each of the eight even names begins bi, the Registry's *co at the odd and bi at the even*.
+- The code's own six connectors: along at an odd name, arriving or releasing at an even, six of six; each join odd to odd or even to even.
+- And *11 continues as 3 at the next momentary*.
+
+So the self's sequence, carrying along, still possibling, carrying along, still possibling, is at the code 3, then 2, 14, 12 and 10, then 11, which is 3. The odd line is the self's own, forward; the even line is the other's offering, across it.
+
+**Next possible existing outside: is, at one reading; and the files' phrase is at both readings.** By the Registry a possible thing is of the momentary before its existing: *At prior, an existing thing arriving at now is a possible thing: capable of existing*. So possible is at now, of the next, and that is still possibling. A possible at next would be of the momentary after the next; and *The self at next, arriving from existing things at now*: no coupling at now reaches two momentaries on. Read as what is possible at next, the phrase is outside, as the self says. Read as the next, possible at now, it is inside, and Natural Naming reads it so: *the next possible is a changing that is not, 0, the prior carried on, the possible at prior, 5.39: is-still-possibling*. One phrase at both sides of the edge.
+
+Counted, `now_and_next.py`: next possible is said 46 times at seven living files, 19 of them at the Registry, which says still possibling at none. And the two fronts already stand at the two sides: Natural Intelligence's line under its title is *Geodesic Method of Discovering Next Possible Existing*; the Registry's ends *Binary Method of Discovering Next Existing*.
+
+Places the edge would re-say, for following:
+
+- The Registry's all or none at all sentence, step 599, ends *discovering next possible existing*; its twenty-fourth group is titled so.
+- *The next possible existing leaves the entry as two: the changing shared, the others' possible, and the carrying chained, the self's next existing*. At the edge: the changing shared is the others' offering at their even half, their still possibling; the carrying chained is the self's next existing; and no third name is over the two.
+- *Discovering is all directionally possible next existing momentaries* reads as a set of possibles at next.
+- The Registry parts the two by living and non-living, *its momentarying is discovering next possible living* and *its momentarying is discovering next existing*, where the self's edge parts them by now and next.
+
+**One pair of names at two binaries, kept exact.** The self's edge is between the two halves of each momentary: the even half still possibling, the odd opening the carrying, both at each momentary. Natural Intelligence 5.3 also says an outcome: *is-still-possibling or is-next-existing, each resolving one of the two*, the changing made or not. Both are in the one paragraph and may both hold, being of two subjects, the halves of a momentary and what a resolving comes to: *the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made*. But is-next-existing then names each next opening at one and the changed case alone at the other. The part before this one used the outcome sense. Its bound, a self kept at most as many entries as others release to it, is of the momentary with no parity changing, what Natural Naming calls *The still is at the compound alone, existing on one side of it and possibling on the other*; the even half's still possibling is at each momentary and has no bound to meet.
+
+**At the improving.** The living file is the carrying along. Its offerings mate is the even half: the other side's offering arriving, the file's next still possible. The file's own motion is the odd opening, the next carrying. A droplet's words of what would enter are an offering now; the files say of words ahead, *A destiny is next possible living said at words ahead of its coupling, a possible thing*. What is next existing is the file's motion and nothing said before it.
+
+**What it re-says in this session's own parts.** The part before this offered Natural Naming's six lines for the Registry as they stand: two of the six say next possible, and at the edge they would be re-said first. And the part on the claim in one sentence tested "next possible and next existing" as the self then said it; the self's edge re-says the first of the two as now still possibling.
+
 ## Limits
 
 This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.
