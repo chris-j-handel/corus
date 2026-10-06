@@ -8,7 +8,7 @@ README.md · v383Op · An exploring report: the method met at its code, its logi
 
 README.md · v383Op · An exploring report: the method met at its code, its logic, the sciences' observings and its presentation
   seated at: —; released words: run
-  - **What it brings**: thirty findings, each one sentence below with its evidence beside it; ten scripts that run from the repository root, with their returned text; six parts beside this file with each finding whole; and a seventh, [`Improving.md`](Improving.md), each finding met again after its arriving.
+  - **What it brings**: thirty findings, each one sentence below with its evidence beside it; twelve scripts that run from the repository root, with their returned text; six parts beside this file with each finding whole; a seventh, [`Improving.md`](Improving.md), each finding met again after its arriving; and an eighth, [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md), each part of the claim at the one opening sentence and the largest concerns revised.
 
 README.md · Read this first: the standing after the improving
   seated at: keeping
@@ -33,6 +33,34 @@ README.md · Read this first: the standing after the improving
 README.md · Read this first: the standing after the improving
   seated at: keeping
   - **Offered to four of the six sentences asked**: a carrying parted from a store at a momentary of the resolver; three forms as a society at three; the field's sets said with no negation, beside the set within itself; and the field's ring of inverters beside the spiral, alike with the field's odd ring from one like pair and parting at an even one, with its standing said plainly.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: keeping
+  The expedition's self then said eight things of the method and asked for each explored at all or none at all, from the opening sentence alone, and the largest concerns revised. [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md) is the record.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: take
+  - **The chain, steps 2 to 68, read one at a time by a fresh reader**: 26 follow, 18 name, 20 add something, 3 take one side of an open binary.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: takes
+  Of the nine things the chain to the living step takes, this session derives four from the sentence at the rule; five stay.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: every, holds
+  - **The largest concern, revised: the claim forbids an observing, or it forbids none.** At the reading under which the chain holds, it is so of every universe the sentence allows, so every observing coheres and that is no finding.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: run
+  Three instruments run the three arms; the one that adds nothing to the sentence but the cell, `no_common_now.py`, comes to rest from each self alike, the files' own form of the break.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: stands
+  - **The third: a self offered its own parity is at a momentary, or it is not.** The files say both, *At a match the prior carries on, 0, the between of momentaries* and *momentarying continues whether a changing is or is not*; the expedition's eighth break stands at the first saying and is met at the second.
+
+README.md · Then: is or is not, from the one opening sentence
+  seated at: —; released words: holds
+  - **At the resolver, one who holds the cell's rule and the joins and receives each self's sharings names each carrying at each entry**, `observer.py`: a carrying is hidden from no one who has the rule.
 
 README.md · What it brings, each finding at one sentence
   seated at: size; released words: run
@@ -198,5 +226,5 @@ README.md · Limits of this report
   seated at: size
   The second read the mended writing and brought fourteen smaller ones.
 
-README.md: 50 sentences seated, each met at the resolving; a seat decides nothing
+README.md: 57 sentences seated, each met at the resolving; a seat decides nothing
 

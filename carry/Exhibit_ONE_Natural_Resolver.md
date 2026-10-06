@@ -32,6 +32,8 @@ Exhibit ONE Natural Resolver · carrying v380R
 
 **Incoming, at v383Op, from `incoming/v383Op/stable_forms.py`, a visiting session's offering: the stable forms a small torus comes to, from every opening.** The plain rule, each self carrying a parity, none offered from beyond, the selves stepped together; a form a round of carryings and shared changings come again, two that are one moved a self on, or inverted, counted as two. A torus of 3 by 3, from 512 openings, comes to 27: twenty-one again at 2, four at 3, one at 4 and one at 12. A torus of 3 by 5, from 32,768, comes to 123. The Co-Chaining Logic Registry says *a torus's number is from its opening*; this file's rows are the alternating opening's. And what opens a self's momentary, the resolver run both ways, is a concern at Natural Intelligence's carrying.
 
+**Incoming, at v383Op, from `incoming/v383Op/Is_Or_Is_Not.md`, a visiting session's offering, to its own concern below on the test of next from prior and now: parted at the files' own sentences.** A self's prior is whole at its carrying next and its shared changing together, one to one at each row of the cell: the carrying next at a 0 shared, its inversion at a parity shared. What a torus brings to one is the society's forms, and the Co-Chaining Logic Registry says a society *existing and not living*. The eighth break is not parted by it: at the cell a self is at a changing, its next its prior inverted, or offered its own parity at none, and whether that entry is a momentary of the self the files say both ways, a concern at Natural Intelligence's carrying beside a common now, is or is not.
+
 ## Concern
 
 **The concerns open, hardest first.** The nineteen met at v375 to v378 are at the Session Record.
