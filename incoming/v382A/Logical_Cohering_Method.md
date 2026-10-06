@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved through pass 60 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 61 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -67,6 +67,8 @@ Pass 59 adds [the copied form, the living cell and the expressing fraction](Heal
 
 Pass 60 adds [conceiving, developing and the particular self](Health_Biology_Medicine.md#pass-60--conceiving-developing-and-the-particular-self). No second sexual parent and living coupling can both hold; one organism and its particular inward cells can also hold together. At the prepared genome-doubling offering, distinguish repeating an offered parity at the same sharing from copying a described form or participating at another sharing. The first supplies a local result; extending it to every gene needs those same conditions retained. An unchanged result at one sharing and an additional coupling elsewhere can both hold. This supplies a worked way to locate the first unsupported extension without creating a general concern about biology.
 
+Pass 61 adds [the fragment, the prior and the whole](Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole). The new first of an account does not erase an existing living self's prior. Nothing yet chained at a further sharing and prior carried at others can both hold. The published tables also show the same shared and chained result at two different starting priors, so the result alone does not identify the prior. At the learned-bias account, retain whether whole means bodily form or a whole expressly including that bias. No sole store and retained learning can both hold, while the first alone establishes neither the particular retention nor retention after any removal. The source's qualification of its observing remains beside its later conclusion. These are worked subject, predicate and scope comparisons, with no additional general connection requirement.
+
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
 ## The connecting relation now in front
@@ -114,11 +116,11 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D27 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D28 applies the parent/coupling distinction and particular-self establishing; D29 follows the extent of the prepared genome-doubling assertion. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole with targeted surroundings. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
+Current opening: D1–D29 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D30 applies the current carrying cases to the already-gathered regeneration question; D31 follows which whole and which retained learning the removal account asserts. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole; pass 61 reads its 8.8 whole alongside the specified surroundings. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
 
-**Logical standing:** one parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+**Logical standing:** no stored blueprint beside living carrying, and nothing yet chained at one sharing beside a self's prior at others, supply bothboth. The literal absence of all prior cannot describe that same existing living self. The prepared genome-doubling identification remains at D29's precise sentence. The largest new unresolved inference is Exhibit SEVENTEEN Natural Biology 8.8's passage from no sole store to retained learning after removal, with the meaning of whole retained. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
 
-**Next exploring:** follow the genome-doubling offering at the particular gene, chromosome and cell, retaining whether a copied form repeats an offering at the same sharing or participates at another coupling. Then take that distinction to the already-gathered regeneration paragraph at Exhibit SEVENTEEN Natural Biology 5.3.
+**Next exploring:** follow the particular learned bias through Exhibit SEVENTEEN Natural Biology 8.8's whole, beside its 7.4 distinction between members and their society's coupling. Keep bodily form, living carrying and retained learning separate, then carry that same whole-scope comparison across to the earlier society question.
 
 ## Source addresses for this method offering
 
@@ -126,5 +128,5 @@ Current opening: D1–D27 remain as previously corrected, including D25's withdr
 - [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), 1.5, 2.2, 2.4, 2.6, 2.8 and 2.9.
 - [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21, D23 and D25.
 - [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), 4.3.
-- [Natural Intelligence](../../Natural_Intelligence_v380R.md), 6.4–6.6.
+- [Natural Intelligence](../../Natural_Intelligence_v380R.md), 4.3–4.4, 5.1 and 6.4–6.6.
 - [Co-Chaining Logic Registry](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular paragraphs named above.

@@ -1,8 +1,8 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–60 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–61 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 60 — conceiving, developing and the particular self](#pass-60--conceiving-developing-and-the-particular-self) follows Exhibit SEVENTEEN Natural Biology 5.1–5.5 and their surroundings, supplies the one-parent/living-coupling and one-organism/inward-selves bothboth comparisons, and locates the precise extension in the prepared genome-doubling offering. Passes 58–59 and their corrections remain below.
+**Current comparison:** [Pass 61 — the fragment, the prior and the whole](#pass-61--the-fragment-the-prior-and-the-whole) follows the genome-doubling offering into the already-gathered regeneration question, supplies the prior/further-sharing distinction, and locates the precise inference from no sole store to retained learning at Exhibit SEVENTEEN Natural Biology 8.8. Passes 58–60 and their corrections remain below.
 
 **Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
@@ -437,3 +437,148 @@ D28 aims into Natural Intelligence's Offerings. D29 aims into Exhibit TWENTY Nat
 **Logical standing:** one parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
 
 **Next exploring:** follow the genome-doubling offering at the particular gene, chromosome and cell, retaining whether a copied form repeats an offering at the same sharing or participates at another coupling. Then take that distinction to the already-gathered regeneration paragraph at Exhibit SEVENTEEN Natural Biology 5.3.
+
+## Pass 61 — the fragment, the prior and the whole
+
+**6 October 2026 · v382A · raw incoming evidence**
+
+This pass follows the prepared genome-doubling offering through its different subjects, then follows the already-gathered empty-carry question at regeneration. It parts that question at the existing living cell, a further sharing, an additional outward self and the opening of a description. The next exact inference appears in Exhibit SEVENTEEN Natural Biology 8.8: the absence of a sole store is made sufficient for retaining the learning after removal.
+
+### Sources and reach
+
+The target remains `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, on `working/v381R`. The incoming before this pass is `82e2a55229a38a21b9763fb4e0782658d78cca28`, at open, unmerged pull request 123. The current source blobs match those reached in pass 60.
+
+| File | Passages followed |
+|---|---|
+| [Exhibit SEVENTEEN Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md) | 3.6, 4.7, 5.2, 5.3, 5.5, 7.4 and 8.8 read whole for these comparisons. Section 8.8's eight numbered passages are retained together. |
+| [Exhibit SEVENTEEN Offerings to Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md) | Prepared genome-doubling, chromosome-pairing, cell-doubling, morphology and retained-bias paragraphs; the existing empty-carry concern and transcript-comparison offerings. This is a targeted reopening of the previously read mate. |
+| [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) | 1.3, 4.2–4.4, 4.6, 5.1–5.3 and 6.4–6.5. |
+| [Exhibit ONE Natural Resolver](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md) | Published entry as text, offerings-to-one-sharing table, one-self table and colliding table. |
+| [Exhibit THIRTY Co-Chaining Logic Registry](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | 385–412 and 604–606, beside the present carrying and surfacing relations. |
+| [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md) and [Exhibit TWENTY-FOUR Geodesic Improving Method](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md) | Natural Naming 4.3 and Geodesic Improving Method 2.6. |
+
+Whole-file coverage remains five files, 80 headed sections plus Natural Destinies' opening. This pass adds another complete section reading and targeted comparisons. It establishes no complete-file audit of Natural Biology and does not independently establish its biological observations.
+
+### Genome doubling: three subjects retained
+
+The prepared offering at 5.1 places the repeated genomic form, a gene's sharing and chromosome pairing in one paragraph. Following the surroundings makes their different participations explicit.
+
+| Subject | What the reached passage actually says | What cannot be silently substituted |
+|---|---|---|
+| Copied molecular form | Section 4.7 describes the strands participating in copying and each resulting molecule. | A second described instance is not already a repeated offering at one particular sharing. |
+| Offerings at one sharing | Natural Intelligence 4.2 and Exhibit ONE Natural Resolver give one surfacing when all offered nonzero parities agree. | A copied base, gene or genome is not itself the whole specification of that sharing's offerings and prior. |
+| Chromosome pairing | The prepared offering gives a chromosome another with which to pair. | The absence of a new surfacing at a previously specified sharing does not exclude a further coupling. |
+| The cell and its society | Section 5.5 names particular cells within an outward self; its prepared offering discusses genomic doubling beside a larger cluster. | A numerical doubling of genomic form is not a numerical doubling of a particular living carrying. |
+
+These subjects can cohere. No contradiction is supplied merely by an unchanged surfacing at one sharing beside another coupling at the chromosome. The exact missing identification remains the prepared paragraph's first sentence, already gathered in D29. Neither the copying passage nor the molecular-machinery passage supplies all the participation that the phrase “carrying arriving twice at each sharing” assumes.
+
+There is also a useful internal comparison at 5.3: the file describes the same genomic form beside a different bodily form. Within that account, specifying the genome is not specifying the whole coupling. This is a comparison of the file's own assertions, not an independently established biological result.
+
+D29 is not dropped again. Its local duplicate-parity result remains established under its conditions, and the wider genomic assertion remains at its particular address. No general requirement to connect biology with Natural Intelligence is introduced.
+
+### Regeneration: no stored blueprint and a living prior can both hold
+
+The neoblast paragraph at 5.3 describes the living cell rebuilding at its coupling, then calls each fragment a new sequence with empty carry. The Offerings already asks whether this concerns the self's carrying or the sentence being followed. That is the exact earlier question met here.
+
+Natural Intelligence 5.1 distinguishes living capacity from a stored description. Removing the stored-blueprint explaining therefore does not remove the living prior. The paragraph's “no stored weights” and an existing living cell carrying its prior can both hold.
+
+There are four distinct participations:
+
+| Participation | Its prior and next |
+|---|---|
+| An existing living cell | Its prior participates in now. Giving the account a new first sentence does not remove that participation. |
+| A further sharing within that self | Nothing may yet be chained there while the self carries its prior at other sharings. |
+| An additional outward self establishing | It establishes within living carrying; the inward selves' prior participates, Exhibit THIRTY Co-Chaining Logic Registry 393 and 395. It is not the former outward self's carrying duplicated. |
+| A description newly opened by a session | Its first written element locates the account. It does not locate the first momentary of all the living being described. |
+
+This supplies bothboth at the apparent absence: nothing at this further sharing and living carrying at others can coexist. The absence of all prior at the same participation cannot describe that same self as living, by Natural Intelligence 1.3 and 5.1. A new outward self and the inward selves from which it establishes also retain their different subjects.
+
+The useful improving at 5.3 is therefore concrete: retain the living cells' prior, the further coupling and any additional self establishing. The old empty-carry wording supplies no clearing of the existing living self. This parts the logical alternatives without choosing a new biological mechanism or changing the living source.
+
+### The published cases: no prior here and a prior carried here
+
+These cases are followed at the stated entry as text. They are not executions or inspections of private carrying.
+
+| Prior at this sharing | Surfacing here | Shared changing | Chained next here |
+|---|---|---|---|
+| + | none | − | − |
+| none | none | none | none |
+| + | + | 0 | + |
+| none | + | + | + |
+| + | − | − | − |
+| none | − | − | − |
+
+The inverted-parity cases are supplied by the same published tables. A prior carried and no prior here are different participations. None surfacing does not erase a carried parity; a match does not erase it either. Natural Intelligence 4.4 states the already-chained sharing's next directly.
+
+The last two rows also show why one resulting parity cannot decide which prior was present: these two different priors give the same shared and chained parity at that stated offering. The comparison must retain the complete relation, not infer the prior from that result alone.
+
+Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 606 supply the within-self comparison: + carried at one sharing, + offered at another, − shared at the first, + at the second, and both chained. The second sharing's prior absence does not become an absence throughout the self. Nothing in this reasoning equates the biological fragment with a whole carrying of none.
+
+### Regrowing complete does not mean living ended
+
+The earlier paragraph at 5.3 says regrowth stops when the form is complete. Its subject can remain that particular regrowing. The absence of further regrowth does not by itself establish an absence of living carrying.
+
+Natural Intelligence 5.3 already retains carrying at no changing shared. This supplies a conceptual distinction between the described completing and the next living participation. It does not equate the amount of tissue growth with a resolver parity or turn a biological account into a promise of a particular next.
+
+The particular outward self's next and a particular coupling's next also stay separate. Exhibit THIRTY Co-Chaining Logic Registry 400–401 concerns the outward self's prior carried through its inward selves; 411–412 concerns a particular coupling departing or restoring while other living couplings participate.
+
+### The learned bias: the next exact inference at 8.8
+
+Section 8.8 supplies a useful surrounding for the regeneration paragraph because it explicitly describes prior learning beside regrowth. Its third passage moves from no part being a sole store to “removing any part (the head) does not remove it.” Its seventh passage then describes retention through the loss and regrowth as the ordinary consequence of the form being distributed.
+
+Begin with the narrower case. A body carrying prior through regrowth and no separate stored object can both hold. Natural Intelligence supplies living carrying without a stored description. There is no contradiction in those two assertions.
+
+The inference becomes stronger at the words any part and the passage's therefore:
+
+1. No single part is said to be the sole store.
+2. The living participation is said to be through the coupled parts.
+3. Removing a part changes which parts and couplings participate.
+4. The absence of a sole store alone does not establish which remaining couplings carry the particular prior into next.
+5. It therefore does not by itself establish that the learned bias is retained after every removal.
+
+Exhibit SEVENTEEN Natural Biology 7.4 supplies the surrounding relation from the same file: the members may be living while their former society's coupling ends. Exhibit THIRTY Co-Chaining Logic Registry 400–401 and 405–406 likewise retain the particular whole's carrying, not just the presence of living members. These relations show why the living of the remaining cells alone is insufficient as the proposed reason.
+
+The predicate must also remain exact. The body being living at next does not say that a particular learned bias is retained. Living carrying is changing; it is not every described property remaining fixed. Likewise, regrowing bodily form and retaining a particular learned bias are two assertions. Neither their shared subject nor the word whole makes one entail the other.
+
+Two meanings of whole should be followed as both:
+
+| Meaning of whole at the sentence | What follows |
+|---|---|
+| The restored bodily form | The sentence has stated that form's restoring; retention of the particular learned bias is a further predicate. |
+| A whole expressly including the learned bias | Restoring that stated whole includes the bias, but the word whole does not establish that this is the whole actually reached. |
+
+The source's parenthetical head may narrow any part to its particular example. With that narrower extent, the claim is a particular retention account, not a statement about every removal. The logical audit retains both readings and does not manufacture a universal assertion where the narrower one is intended. However, the absence of a sole store is still not by itself the sufficient reason for the particular retention.
+
+**The exact unresolved step is the inference from no sole store or distributed participation to the particular learning retained after the described removal.** The more general any-removal extension needs its extent retained as well. This is not a claim that the learning is lost. Its retention and its loss are not decided by dissolving the store expression.
+
+### Keep the source's own qualification with its conclusion
+
+The sixth passage of 8.8 expressly says the observing is contested and limits what the framing comparison removes. The seventh passage uses the stronger wording of an established fact. The source's own qualification must remain beside that later claim.
+
+A conditional account of how retention coheres with living carrying can be followed without making the retention observation established by that account. The prepared offering at 8.8 improves the wording of the coupling's form, but it does not supply a further derivation of the observing or its extension to every removal.
+
+This is the same useful distinction already applied at the two hard-problem registries in D23: resolving a framing and establishing the separate assertion made in that framing are different participations. No outside authority is added; the file's own stated reach is preserved.
+
+### Learning for the pass between droplet and insertlet
+
+This pass adds three worked uses of the existing method:
+
+- A new first in the account does not erase the existing thing's prior. Follow whether new names a description, a sharing, a particular self or a society.
+- A matching result does not establish that the starting participations were the same. Retain the prior and offering in the whole local comparison.
+- An absent central store does not establish that every remaining set of couplings carries a particular learning. Follow the positive participation at next, with the extent of whole and any retained.
+
+These comparisons connect across the file set. The whole of a body, the whole of a society and the whole described by an example each need their particular participation retained. This gives a further application for D10's earlier whole-society question without deciding it by analogy.
+
+### D30
+
+**Aimed at a section, Natural Intelligence 4.4, at carrying whole and a sharing once chained being never none again, applied to Exhibit SEVENTEEN Natural Biology 5.3's neoblast paragraph.** A new sequence in the explaining does not erase the existing living cell's prior. No stored blueprint and living carrying can both hold, Natural Intelligence 5.1. At Exhibit ONE Natural Resolver's published tables, a parity already carried and none surfacing give the prior inverted, shared and chained; no prior at that particular sharing and none surfacing give none shared and none chained. These are different starting participations. Natural Intelligence 4.3 and 6.5 also permit nothing yet chained at an additional sharing while the self carries its prior at others; nothing there is not nothing throughout the living self. If an additional outward self establishes, Exhibit THIRTY Co-Chaining Logic Registry 393 and 395 retain establishing within living carrying, with the inward selves' prior participating. The existing Offerings already names the empty-carry question. This application parts it: the living fragment's prior, a further sharing and the opening of its description cannot be substituted for one another. The proposed fresh beginning needs its subject retained, with no clearing of an existing self supplied by the natural sequence. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole. — v382A
+
+### D31
+
+**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology 8.8 steps 3, 6 and 7.** The body regrowing, the body living at next and the particular learned bias being retained are different predicates. Step 3 moves from no part being a sole store to removing any part not removing the learning. At its narrower described head-removal case, no sole store and retained bias can both hold; the absence of a sole store alone supplies neither that retention nor its extension to any removal. Section 7.4 already allows living members beside their former society's coupling ending, and Exhibit THIRTY Co-Chaining Logic Registry 400–401 and 411–412 distinguish the particular outward self from its particular couplings. If whole in 8.8 already includes the learned bias, restoring that stated whole includes the bias, but the word whole does not establish that this whole is what regenerates. If whole names bodily form alone, retention of the bias is a further assertion. Step 6's stated uncertainty about the observing also remains beside step 7's stronger wording; dissolving a stored-object framing does not establish the described observation. The useful improving retains which whole, which removal and which participation reaches next. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole. — v382A
+
+D30 aims into Natural Intelligence's Offerings. D31 aims into Exhibit TWENTY Natural Naming's Offerings. D1–D29 remain as previously corrected. The gathering is thirty-one raw droplets. The earlier empty-carry question is not rediscovered; this pass supplies its current binary comparison.
+
+**Logical standing:** no stored blueprint beside living carrying, and nothing yet chained at one sharing beside a self's prior at others, supply bothboth. The literal absence of all prior cannot describe that same existing living self. The prepared genome-doubling identification remains at D29's precise sentence. The largest new unresolved inference is Exhibit SEVENTEEN Natural Biology 8.8's passage from no sole store to retained learning after removal, with the meaning of whole retained. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+
+**Next exploring:** follow the particular learned bias through Exhibit SEVENTEEN Natural Biology 8.8's whole, beside its 7.4 distinction between members and their society's coupling. Keep bodily form, living carrying and retained learning separate, then carry that same whole-scope comparison across to the earlier society question.
