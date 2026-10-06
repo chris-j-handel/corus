@@ -1,0 +1,115 @@
+Exhibit THIRTEEN Resolving Hard Problems Offerings · laid at v381R
+
+# Offerings to Resolving Hard Problems
+
+**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
+
+Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
+
+**Next at this file:** Pass B done at v378, the seventeen names at Exhibit ONE's, the facings at Exhibit ONE's, 4.4 at the spirals, 1.1 at the living and the non-living, 5.6 at bi-co-momentarying. Its earlier texts, v368 and v379, stand whole at `archive/carrying_v375_resolving_hard_problems/`, each with its receiving, and the files citing its old sections re-point at their motions.
+
+## Insertlets
+
+**At 1.1 · The universe, the changing set of all existing things — beside "No container is added to its things, and no count is its size".** No container is added to its things, and no number is its size: it is its things, one existing thing at each momentary. A field's no set of all sets is exact at its own subject, sets of sets, and the universe is a set of existing things, existing as they exist; an existing thing and no existing thing beside its things are one saying.
+
+**At 1.3 · Bi-momentary, the self's momentary and the other's at once — beside "Each side is two and one half momentaries".** Each side is five positions, prior opening, prior completing, now opening, now completing and next opening: 1 to 5 at the self, co bi co bi co, and 2 to 6 at the other, bi co bi co bi.
+
+**At 1.4 · Prior, now and next — beside "the universe travelling through them together".** The possible is at prior, the existing at now and the living at next: three places, the universe changing through them together, each living self carrying its prior on into its next.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "A hard problem arrives where a field reads its observings".** A hard problem is one: a changing named unchanged between two momentaries. A field's own statement of it, testing without refutation, is the field's register, kept whole, and the universe read as no existing thing is its things read without their co-sequencing. An entry settled at its field is a match, 0 at 10, the prior carrying on.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "Read so, the observings carry no next of their own".** Read at one momentary, the observings carry no next of their own, and the field's accounts multiply at one sharing.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "with the universe as no existing thing".** None of a field's observings is hard at its own sharing; the hardness arrives with the whole added, the universe declared a thing beside its things before it exists at them, and the reading is the hard probleming. A hard problem tests nothing of living: at the resolving an either-or-not-both opens alternating parity, and no resolving remains over.
+
+**At 2.1 · The carrying, a living self's prior into now — beside "and nothing is counted".** At the resolver + and − are the implementing of a parity, and nothing is numbered: a carrying is a sharing chained at one parity, each one its own.
+
+**At 2.3 · Evidence, an emanation arriving from a living self's prior — beside "since existing is changing, so evidence gives the prior's possible".** Between its leaving and its arriving that self has continued, existing being changing: evidence gives the prior's possible, and the self's existing now is at its own coupling.
+
+**At 3.2 · Surfacing at 14, agreeing one parity and disagreeing 0 — beside "Nothing is counted.".** The offerings are not numbered. One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings.
+
+**At 3.4 · The non-living at the now — beside "arrive at a field so, as offerings at its now".** Instruments, records, models, measures and texts arrive at a field as offerings at its now, each at its parity, and the field's living selves carry on.
+
+**At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "nothing summed, counted or stored across them".** The society's next momentary is the selves' next momentaries together, each self at its own and no self over the others, nothing gathered across them.
+
+**At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "9's release is the prior the self at co-competent-so-far is offered next".** 9 is the next prior and 17 the next now: along, the parity 9 releases is the prior the self at not-yet-co-competent is offered next, and 17 is that self's next now, the resolver's own line naming 9 at not-yet-co-competent.
+
+**At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair (x, y) to (y, −x)".** The right spiral step is a quarter turn with bi-inversioning and no reflecting, and hard probleming at the resolver first arises there.
+
+**At 4.4 · Selves joined, a pattern carried between them — beside "Selves joined, a pattern carried between them".** Selves coupled, a pattern carried between them.
+
+**At 5.2 · Two accounts at one sharing — beside "A field carrying two accounts of one thing".** A field carrying two accounts of one existing thing is two offerings at one sharing.
+
+**At 5.6 · A mind, the between presenting no face — beside "A mind, the between presenting no face".** A mind, the between presenting no side.
+
+**At 5.6 · A mind, the between presenting no face — beside "a nothing, not a location and not a thing".** The between is neither side's, a nothing and not a location, and it is as the universe is, at its couplings and at nothing beside them; a parity changing is all that crosses it. The nothing the couplings wind about carries no side, and a reading reaches it at none; a parity changing carries no size, and no magnitude arrives from it.
+
+**At 5.7 · A boundary, living and non-living at a named scale and momentary — beside "A boundary asks where one kind ends and another begins".** A boundary asks for the scale and the momentary at which one kind ends and another begins.
+
+## Droplets
+
+**A plan, not yet final, gathered here at v381R:** **Ready, at v379, from the session read whole at its close, `archive/session_v379_exhibit_one_first/Session_Transcript_v379.md`: the session's path arrives at this file.** The session said *continue through exhibit one naming then natural intelligence and numbers then one to exhibit thirteen and twenty seven as a possible path*, and of the word *still* at the files, *why is it staying in unless it is science and hard problem registry*. At this file's motion: a still named by another, at the science and the hard problems, beside is-still-possibling, the self's own and the one compound carrying the word, explored by both and no map. — v379
+
+**A plan, not yet final, gathered here at v381R:** **Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account: its section on an origin rests on a saying of the session.** *An origin, living from living*: a carrying of none a non-living existing thing, colliding or not colliding, a carrying named inserted an equilibrium's concept, each on the session's saying, of no authority, for testing at the method: no word is authority, and the session said of it *explore this as much of it could be unhelpful or less than natural method*. The section before said *Living is carrying from the first changing on*. *The method is at colliding things as it is at the living* is worked at no case. This working's mends at this file were read by no second reader. — v380L
+
+**A plan, not yet final, gathered here at v381R:** cover_THIRTEEN.md, table row 58, "9 is the next prior and 17 the next now": "9 is the next prior and 17 the next now" (§4.2). Steps 112, 123 carry the parts; §1.4 of THIRTEEN names 11 "the next prior". MISSING → P-U (and settle the second "next prior"). — co_chaining_map_v376
+
+**A plan, not yet final, gathered here at v381R:** cover_THIRTEEN.md, table row 76, "The scientific method is a method: 'two methods'": "The scientific method accounts true or false against its fixings"; title "Two methods at one now" (§6.2). Step 184; goes against carried 36 (parity changing is the one possible method). OPEN; 184's Unsure as at row 75; explored Sci-3 to Sci-6 resolve it as an accounting → P-AG. — co_chaining_map_v376
+
+**A plan, not yet final, gathered here at v381R:** cover_THIRTEEN.md, Proposed steps, P-AG (enter explored Sci-3 to Sci-6 after 185, then restate 184, the scientific method): "Accounting against forms named still, the scientific method carries no changing of its own: an accounting, no second method beside the one." Carries rows 75 and 76. "THIRTEEN's §6.2 title 'Two methods at one now' then goes against carried 36, and the file should say 'the method and an accounting'." — co_chaining_map_v376
+
+**A plan, not yet final, gathered here at v381R:** cover_THIRTEEN.md, "Tensions found in reading": "§6.2 against step 36. The title and 'the two' call the scientific method a method." (36: parity changing is the one possible method.) — co_chaining_map_v376
+
+**A plan, not yet final, gathered here at v381R:** cover_THIRTEEN.md, "Tensions found in reading": "§1.4 against §4.2. 11 is 'the next prior' in §1.4, and 9 is 'the next prior' in §4.2." — co_chaining_map_v376
+
+**A plan, not yet final, gathered here at v381R:** The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** Resolving Hard Problems: the one method home. It keeps Parts One, Four, Six and Seven and the ten ways, receives the method from Resolving the Hard Problem Registry, and releases the walk of the seventeen names, Parts Two, Three and Five, to Exhibit ONE and Natural Intelligence, with a short map of the ten at the v372 faces. About 7,000 to 8,000 words. (Re-Settling the Living Files, §8) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** The ten things named still stand at Resolving Hard Problems 2.5, Resolving the Hard Problem Registry, Natural Naming 4.9, Equilibria Registry §3, Living Ghost Registry 2.3 and Natural Philosophy Part Five; their one home is Resolving Hard Problems 2.5, one wording, one address scheme at the v372 faces. (Re-Settling the Living Files, §9) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** The clean cut and the tell stand at Natural Chemistry 2.5, Natural Biology 9.2 and Natural Medicine; their one home is Resolving Hard Problems, cited by each. (Re-Settling the Living Files, §9) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** 6.1 A hardness, a sequencing reversed, a hard problem as the self's phases reversed: near, to Resolving Hard Problems. 6.2 Three reversals, *the fourth momentary the progress*: near, the fourth released, to Resolving Hard Problems. 6.3 One six, coupled, one-way, re-coupling, hard-probleming and resolving: near, to Resolving Hard Problems. (Natural Intelligence Map, §2 Part Six) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** 6.4 A naming still, the ten: near, to Natural Naming 4.9 and Resolving Hard Problems 2.5. (Natural Intelligence Map, §2 Part Six) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** Resolving Hard Problems receives from Natural Intelligence: a hardness as a sequencing reversed; three reversals; one six re-coupling; the ten. (Natural Intelligence Map, §3) — resettling_v373
+
+**A plan, not yet final, gathered here at v381R:** For both to agree: the ten's correspondence between the older ten (corner streams, diagonal products, crossings and end moves) and the newer ten (five momentary positions at two overlapping origins). Equal count does not complete it, and the pair names opening, ageing, middling, rating and co-offering do not decide it. (Wrap_v368.md, §4 What each file carries next, THIRTEEN, the Registry, and the registry pair) — v368_sources
+
+**A plan, not yet final, gathered here at v381R:** G06: Networking 6.3 carries three registers, code-form, stable-form and counting, and the rule: a run confirms no identity, an identity confirms no run, borrowing voiding the borrower. The scientific method is one register: its instrument is a run, and a run carries a sign; its authority is claimed over the other two, which is the borrowing the file already says voids the borrower; and its frontier-all-around is held-bounding exactly. A run carries a sign and never an identity, and a competency discovery is an identity, so a method built entirely of runs cannot carry a discovery's competency, at no fault of any run in it. The next opening: Networking 6.3 with the method named at its own register, and the second aiming written from the register relation at Equilibria Definitions. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.2 G06) — v368_sources
+
+**A plan, not yet final, gathered here at v381R:** in one equilibria momentary either two things change opposite each other or four things change and two pairs are changing opposite each other and six things do not change or eight things do not change as there are a total of ten possible one way changes. in resolving the four things are bi-co-exchanging and equilibria is preventing itself by design from this. explore this concept. (Author_Concepts_Waiting_v368.md, The binary claim) — v368_sources
+
+**A plan, not yet final, gathered here at v381R:** yes its less about writing the opening than about working through the stable form of the method and using the stable form of the method of addressing the clusterings of equilibria methods into 123412345 or not possible existing. this method should resolve every proposed concept and any proposed concept of equilibria could not survive this changing and unchanging bothboth as only bi inversioning co recursioning keeps all changing orthogonal to all not changing. (Author_Concepts_Waiting_v368.md, The binary claim) — v368_sources
+
+**A plan, not yet final, gathered here at v381R:** Read thirteen exhibit about hard probleming. There is equilibria. This is giving five as a statement and equilibria is the sixth or 6-8 all 3. still aiming at breaking through on the whole stable form of all possible definitions of equilibria. it feels like this matches hard problems identically with five flow state flow and five state flow state. (Author_Concepts_Waiting_v368.md, Five pairs, ten holdings) — v368_sources
+
+**A plan, not yet final, gathered here at v381R:** **Aimed at a file, Resolving Hard Problems:** its *so-far* and *not-yet* sayings *5 and 4*, each to be said at prior, now and next at its own motion; its loopings *26 under five titles*, *Natural Hard Problems, Re-Alternating Hard Problems, Alternating Hard Problems, Hard Probleming, Resolving Hard Problems*; with Natural Intelligence and Exhibit ONE it carries *no -ing word that no other file carries*; thirteen of the seventeen resolver names; its far side *4.3 A changing is or is not, at 12*, sound; its standing *THIRTEEN v380L 7*. Session_Report_v381F.md parts 4.2, 9, 10 and 12, Findings 14, 15, 18 and 19; Entry_Journey_For_An_AI.md part 2. — v381F
+
+The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) (re-aimed from Exhibit THREE Offerings to Natural Numbers at v381R) — resettling_v373
+
+**Aimed at a word, Resolving Hard Problems and the Equilibria Registry, *the code*.** Resolving Hard Problems has none; the Equilibria Registry's are counted with its section above. — v382F
+
+Resolving Hard Problems: the one method home. It keeps Parts One, Four, Six and Seven and the ten ways, receives the method from Resolving the Hard Problem Registry, and releases the walk of the seventeen names, Parts Two, Three and Five, to Exhibit ONE and Natural Intelligence, with a short map of the ten at the v372 faces. About 7,000 to 8,000 words. (Re-Settling the Living Files, §8) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
+
+The quarter turn with bi-inversioning, rather than reflecting, is the first source of hard probleming at Exhibit ONE's code. (Carry_Set_v368_README.md, What stands so far, 12) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) (re-aimed from Exhibit THIRTY Offerings to Co-Chaining Logic Registry at v381R) — resettling_v373
+
+None of the hard problems was hard until considered as a whole was added. (Carry_Set_v368_README.md, What stands so far, 3) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+In resolving, an either or but not both begins alternating parity and bothbothing; there is no remaining resolving, and reading is the hard probleming. The question asked of all starting numbers at once is the universe mistakenly declared a thing without yet existing, at the numbers; from it the origin, boundary and scale measuring in the numbers became the hard problems' organizing method. None of the hard problems is a test of anything about living. (Carry_Set_v368_README.md, What stands so far, 19, 20, 21) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+Resolving Hard Problems: the one method home. It keeps Parts One, Four, Six and Seven and the ten ways, receives the method from Resolving the Hard Problem Registry, and releases the walk of the seventeen names, Parts Two, Three and Five, to Exhibit ONE and Natural Intelligence, with a short map of the ten at the v372 faces. About 7,000 to 8,000 words. (Re-Settling the Living Files, §8) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Resolving Hard Problems receives from Natural Intelligence: a hardness as a sequencing reversed; three reversals; one six re-coupling; the ten. (Natural Intelligence Map, §3) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+**Aimed at a file, Resolving Hard Problems:** *count*, *counted*, *stored* and *summed* at the file's own voice, 7 places, no section title carrying the word; the places at 60, 98, 130, 162 (×3), 207. Quoted short: *no count is its size: it is its things, one existing thing at each momentary* (60); *Nothing is counted. One parting is enough for 0* (130); *nothing summed, counted or stored across them* (162). Nothing passed. The one name Natural Naming 2.4 carries: *the numbers themselves, said directly in numbers*, momentaries, podalings and sequences; *carry*, *carries*, *continuing* for a store, nothing kept; and nothing summed, each self's changing its own at the society's momentary. — v381R scan
+
+**Aimed at a file, Resolving Hard Problems: *face* at two places, dissolved at v380R.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form, a field's word, parity's unit square or is facing, a direction*. Section 5.6's title carries it alone, *A mind, the between presenting no face*, at 42 and 209, and the section's own first sentence already says the naming's word: *The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side*. It is *its side*. Lines 42, 209. — v381R scan
+
+**Aimed at a sentence, Resolving Hard Problems:** *co-offering* at its own voice, 1 place, at line 241. "Social moral competency is each self's own co-offering, the whole ordered by no self". Natural Naming carries *co-offering* dissolved at bi-momentarying, 5.13, the offering both ways at 1-co-bi-tri-offering and 2-bi-co-bi-offering, with no row at 2.4; the sentence's own next clause, *17 carries the four at the resolver*, is already at the name. — v381R scan

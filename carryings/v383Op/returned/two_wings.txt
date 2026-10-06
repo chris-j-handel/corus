@@ -1,0 +1,3 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+choices tried: 248832; highest S at any of them: 2
+the field's bound for outcomes set at each side alone: 2; the field's observing: 2.42 +/- 0.20

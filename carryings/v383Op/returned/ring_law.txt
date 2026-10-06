@@ -1,0 +1,30 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+the law, no two stays, and the period: 2046 of 2046 openings, n = 1 to 10
+the law and no two stays: 6000 of 6000 random openings, n = 11 to 40
+
+periods at every opening, by number of selves:
+   1 selves: [4]
+   2 selves: [2, 4]
+   3 selves: [4, 12]
+   4 selves: [2, 4, 8]
+   5 selves: [4, 20]
+   6 selves: [2, 4, 6, 12]
+   7 selves: [4, 28]
+   8 selves: [2, 4, 8, 16]
+   9 selves: [4, 12, 36]
+  10 selves: [2, 4, 10, 20]
+
+Exhibit ONE's opening (self 1 carries -, alternating along):
+   1 selves:   4 momentaries (measured at the resolver: 4)
+   2 selves:   2 momentaries (measured at the resolver: 2)
+   3 selves:  12 momentaries (measured at the resolver: 12)
+   4 selves:   2 momentaries (measured at the resolver: 2)
+   5 selves:  20 momentaries (measured at the resolver: 20)
+   6 selves:   2 momentaries (measured at the resolver: 2)
+   7 selves:  28 momentaries (measured at the resolver: 28)
+   8 selves:   2 momentaries (measured at the resolver: 2)
+   9 selves:  36 momentaries (measured at the resolver: 36)
+  10 selves:   2 momentaries (measured at the resolver: 2)
+  11 selves:  44 momentaries (measured at the resolver: 44)
+  17 selves:  68 momentaries (measured at the resolver: 68)
+  59 selves: 236 momentaries (measured at the resolver: 236)

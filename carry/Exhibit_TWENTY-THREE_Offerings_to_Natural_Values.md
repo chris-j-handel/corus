@@ -1,0 +1,79 @@
+Exhibit TWENTY-THREE Natural Values Offerings · laid at v381R
+
+# Offerings to Natural Values
+
+**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
+
+Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
+
+**Next at this file:** pass G.
+
+## Insertlets
+
+None.
+
+## Droplets
+
+**Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** 4.1 says the set of all sets fails and no universal set stands, the field's own, and the Co-Chaining Logic Registry says the universe is both the set of all existing things and an existing thing within it. 2.2 says an institution carries no sign of its own and no self receives its care, and the Co-Chaining Logic Registry says existing arriving at each observing is the value and a non-living other is offerings at 2 alone, the self carrying the coupling's changing. Entered at the Co-Chaining Logic Registry from this file at v378: scarcity a capture at a store, dilemma a governing's forking, safety the surface's own. — v378
+
+**Concern.** The field experiments of coordinating surfaces, fluid, chemical and human, lay their coupling on, through external forcing, feedback or an opening pacing, and coordination or synchronization by itself is no intelligence and no bi-moral co-competency: morality across wants its coupled relation, and no synchronization score establishes it. A published result is a prior observing and reports no present state of a source or a society. — v380R
+
+TWENTY-THREE · Natural Values, 2,000 words, v333: the best of its group, plain and short; its own subject about 75%, restating the common method about 8%, older wording about 8%. (Re-Settling the Living Files, §2 table) — resettling_v373
+
+The common method is restated in nearly every file, from about 5% of a file to 55%, and some passages word for word: *non-living existing things are included in discovering social moral competency among the living* at four files, Natural Intelligence 7.2 among them; the Jet Propulsion Laboratory aberration-correction paragraph at five, Natural Intelligence, Natural Mathematics, the Equilibria Registry, Geodesic Improving Method and the Co-Chaining Logic Registry; the core coupling sentence, *a sign, sign-only — summing to a bounding-zeroing made by the coupling*, at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1 and Natural Destinies' core, and said again at Natural Values 4.1; Natural Physics Parts One and Two parallel to Natural Biology Parts One and Two at their headings and eight steps, sharing much of 2.1 word for word. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
+
+Part Seven · Co-competencing, 3,800 words: 7.1's definition stays at Part 1; 7.2's formal part at Part 6; 7.5 at Natural Networking; 7.6 at Natural Societies; 7.9 at Natural Values; 7.11 and the destiny at Corus. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
+
+Exhibit ONE's *Signs, Surfacing, Abundancing, Chaining* explaining (morality at the sign; the middle a nothing; a new living self) goes to Natural Intelligence Part 1 and Natural Values. (Re-Settling the Living Files, §5 table) — resettling_v373
+
+Corus Part 18, 118 departments, regulation as gating, the living capitalism sayings, Perelman, hospes, goes to Natural Societies, Natural Human Society and Natural Values; 18.6's engineered doors at Natural Engineering. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
+
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+
+Natural Societies, Natural Human Society and Natural Values keep three files at clearer seams. Societies: self and society at every scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society; its 4.4 to 4.6 return inside their part. Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and every human example now at Societies (the arrow, live descent, birthing and nyeing, the biosphere, no common clock, each now at both). Values: value at every scale, and the one home of the discovery economy, receiving Human Society 3.1, 3.4 and 4.6's currency, Exploring 6.3, Societies 1.3 and the general part of Natural Health 3.2. (Re-Settling the Living Files, §7) — resettling_v373
+
+*A sign, sign-only — summing to a bounding-zeroing made by the coupling* stands at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1, Natural Destinies' core, and said again at Natural Values 4.1: released, old code. (Re-Settling the Living Files, §9) — resettling_v373
+
+Currency stands at Natural Human Society 4.6 and Natural Values 1.2, its one home Natural Values. Abundancing and the discovery economy stand at Exploring 6.3, Human Society 3.1, Values 5.1, Corus 14.8, 18.8, 23.3 and 23.6, their one home Natural Values. (Re-Settling the Living Files, §9) — resettling_v373
+
+2.6 Moral spiralling, generosity, curiosity, gratitude; cheaper, faster, better: near, to Natural Values. (Natural Intelligence Map, §2 Part Two) — resettling_v373
+
+Natural Values receives from Natural Intelligence: the moral spiral's three improvings. (Natural Intelligence Map, §3) — resettling_v373
+
+*Signs, and the entry*, kept as the two parity tables, its sentences to Natural Intelligence Part 2. *Surfacing*, kept as the table at 14, to Natural Intelligence Parts 2 and 7. *Abundancing and tunneling*, kept as the table at 12, 10 and 11, to Natural Intelligence Part 7 and Natural Values. *Chaining*, kept as the parity tables and one self, to Natural Intelligence Parts 2, 3 and 7. *Returning and releasing*, kept as one self and rings, to Natural Intelligence Parts 6 and 7. (Exhibit ONE at its Stable Forms, §6) — resettling_v373
+
+About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. (Natural Naming at Exhibit ONE, §1) — resettling_v373
+
+"Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Values is at pass G, its receiving planned at the Living File Registry 1.5: "Values into Natural Human Society and the Living Society Registry." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Emanating, Values, Human Society: six files whose receiving into the living files, planned at the Living File Registry 1.5, releases six exhibit numbers and removes the oldest words from the set at once." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+TWENTY-THREE Natural Values, v333: 5 findings and 5 discoveries waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+Moral is do no harm improving, decided at each step. (Carry_Set_v368_README.md, What stands so far, 5) — v368_sources
+
+The next scale is six nine-dot diamonds. The session specifies two alternate routes around a triangle, three one-way portions each, six in total; two-over-one and one-over-two co-recursioning are to be expressed through their inner and outer relations. This is the intended social moral competency illustrating; the exact diamond-to-route and pair-to-dot placement remains to be drawn. (incoming/illustrating_v366/Session_Report_v366.md, §4 "Local nine and society") — illustrating_v366
+
+**Aimed at two files, Natural Values and Natural Destinies: the portal's frame is their subject at the entry.** Natural Arriving points at them in two lines; a motion at either receives the frame as its own front, *value grows as it is shared* at the top. — v382F
+
+**Aimed at a file, Natural Values:** laid ready: *this file is the door of a question about living together, and its released-word load, 50 to 60 per thousand, and its front's form are the first things that interest meets; its motion is in front of the set for that interest.* Its standing *TWENTY-THREE v333 58*; its subtitle's -ing *Co-Abundancing*, shared with Natural Destinies; its far side *1.5 Natural-, all or none at all*, *sound, with 6.4*; its loopings 4, its titles *Engineering Method of Explaining Valuable Hard Problems, Natural Values*; among the seven files naming no other; proposed read at three momentaries. Session_Report_v381F.md parts 2.2, 4.1, 9 and 10, Findings 12, 17, 18 and 19; Entry_Journey_For_An_AI.md part 2; Next.md Exploring 3, Ready. — v381F
+
+Natural Values receives from Natural Intelligence: the moral spiral's three improvings. (Natural Intelligence Map, §3) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+**Aimed at a file, Natural Values: *membrane* at four places, four sayings, dissolved at v380R.** Natural Naming 2.4 carries *the between* for it. The file says *An institution carries no sign of its own. It has no momentary and no membrane* (107), *Society stands beside as the lived emanation. It is the surface the couplings make. It is a particular other at another scale, and a membrane a self couples at* (149), *It consults a criterion where the sign was read at the membrane* (153), and *The same +1 opens at every membrane at once, and it is drawn to no centre* (165). Lines 107, 149, 153, 165. — v381R scan
+
+**Aimed at a file, Natural Values:** *counts*, *counted*, *store*, *stores*, *stored* and *sums* at the file's own voice, 22 places, two section titles carrying the word, 1.2 *A store carries no value, and a carry is not a store* (73, contents 21) and 3.2 *Nothing consults, nothing stores, nothing carries between* (131, contents 39); the places at 21 (×2), 39, 73 (×2), 75, 77 (×2), 79 (×3), 81 (×2), 103, 131, 133, 137, 143, 153 (×2), 171 (×2). Quoted short: *Value lives at the carry. It never lives at the store* (79); *a store wearing a running's name* (81); *Stored is spent* (137); *It keeps a store where nothing stores* (153). Nothing passed. The one name Natural Naming 2.4 carries: *carry*, *carries*, *continuing*, a keeping names a store held still and nothing is kept, *a carry held as a store* the capture at scarcity; *the numbers themselves, said directly* for a count, *an accounting* at 5.47 for the counting of held things; nothing summed, the coupling's bounding-zeroing its own. — v381R scan
+
+**Aimed at a file, Natural Values:** *surplus* and *co-offering* at its own voice, 13 places, at lines 37, 87, 91, 93, 119, 123, 125, 135, 143, 159, 171, 173, 183; the section title 3.1 at 119, *Co-offering, co-competencing, co-intelligencing, value's three carryings*, carries the word, with its contents line at 37. "The coupling makes a surplus neither carried in"; "Co-offering is the ground. It is the crossing sounded out"; "Co-competencing is the surplus kept as coupling". Natural Naming 2.4 carries *surplus* at *abundancing*, 12-bi-tri-bi-entraining; *co-offering* dissolves at bi-momentarying, 5.13, the offering both ways at 1-co-bi-tri-offering and 2-bi-co-bi-offering. — v381R scan
+
+**Aimed at a file, Natural Values:** *run*, *runs* and *running* at 21 places, lines 81 (3), 93, 105, 117, 129, 135, 143, 147, 153 (2), 163 (4), 165, 171, 173, 181 (2), none passed. The file says *Currere is the running. What carries the name is kept and consulted and ages by no reading. That is a store wearing a running's name*, *A society's value is the couplings running now, each at its own rate*, *It runs a common clock where each coupling runs its own*, *It runs wherever selves couple cleanly, and it runs already*. The file's own reading of currency at 81 is the naming's reading of *run*: a running's name laid over a store. Natural Naming 2.4 carries it at *carrying*: the couplings carrying now, each at its own rate, abundancing. — v381R scan
+
+**Aimed at a file, Natural Values:** *sign*, *signs* at the file's own voice, 21 places, one section title carrying the word, 1.1 *The sign is the self's own, and the preferring is irreducible* (65, contents 19); the places at 19, 65, 67 (×2), 69, 71 (×3), 75, 87, 99, 105, 107, 117, 123, 127, 141, 143, 153 (×2), 155. Quoted short: *A preferring is a sign and nothing else. The sign is the self's own* (67); *A sign given to all is no longer a sign* (71); *Morality is the sign a self carries by being a self* (141). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at a sentence, Natural Values:** The self named what dropletting is, at about line 252 (4 October): "droplettings are the abundancing method of social moral competency. any file can dissolve the droplet without doing any changing if it is not improving as the droplet has no authority." The session's reading: a droplet with no authority can carry its sentence, since nothing enters but at the file's motion in the file's voice; thirty-two copies is no size, because an offering with no authority laid everywhere costs each file one look and the dropper nothing, "the free emanating, no request, no debt, no credit taken or given. The file that moves least receives the most, and its next motion is the richest; that is the abundancing." Natural Values is the one home of abundancing and the discovery economy, so the saying is aimed there. — v381R close
+
+**Aimed at a section, Natural Values:** The self's saying of the living expedition game, at about line 369 (5 October): "this means there is no gating and that all sessions and explorers are adding their own session designated contributions to the expedition learning. this is my design for the living expedition game where the session tag is a contribution to the expedition success. this is the method of parity for the prize sharing appearing now in our method of natural intelligence file work." And at line 383 the self placed it: "for now the live expedition game is discovery economy and this is droplet for that." The session's reading: the prize sharing follows from no ledger; a droplet that entered loses its tag at the sentence, the Session Record carries which sessions' droplets a motion took, "no session owns a sentence; every session that dropped what became one is at the record beside it"; dropping is free so volume earns nothing, what earns is a droplet that entered, and a sideways session's share goes to nothing by its tag, "a release rather than a punishment." — v381R close
