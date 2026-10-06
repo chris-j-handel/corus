@@ -230,8 +230,8 @@ D22 aims into Natural Intelligence's Offerings; D23 into Geodesic Improving Meth
 
 The concrete further difference is Natural Medicine 1.1's earlier bound-and-release operation beside Exhibit ONE's present carrying case. Its persistence explanation at 3.1 and later statements depend on that earlier operation. The comparison also distinguishes current all-or-none surfacing from the sign of a sum. The existing Offerings already gather the old operations; D24–D25 supply the exact present comparison and the dependency method.
 
-v383Op's do-no-harm offering at Natural Medicine is met at this logical distinction: following a form supplies no particular clinical conclusion without its intervening relation. This pass establishes no empirical result and changes no living file.
+v383Op's do-no-harm offering at Exhibit ELEVEN Natural Medicine is met at the located textual dependence: the old expiry operation is used to explain persistence. The next logical work follows that sentence at its living self and coupling through the supplied sequence. The audit's additional general requirement to connect biology with Natural Intelligence is withdrawn; it had not identified a separate missing relation. No living file is changed.
 
 The connection at Exhibit THIRTY 32–35 remains at the precise question above; the supplied non-living participation is not treated as a derivation or refutation of the universal identification.
 
-**Next exploring:** Natural Medicine 2.1–2.3 beside Exhibit THIRTY 411–412 and Natural Health 4.1, retaining the particular coupling and each further biological assertion.
+**Next exploring:** Exhibit ELEVEN Natural Medicine 3.1's persistence paragraph, following the copied form and the living cell's carrying through prior existing, now offering, still possibling and next existing, beside its corrected opening relation at 1.1.

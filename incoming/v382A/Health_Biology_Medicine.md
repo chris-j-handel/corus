@@ -8,6 +8,8 @@ All comparisons below are internal to the files' stated relations. The published
 
 The target is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, on `working/v381R`. This packet and its two raw droplets are offered through [pull request 123](https://github.com/chris-j-handel/corus/pull/123). No living source or prepared insertlet is changed.
 
+**Correction to the pass-58 opportunity statement:** the audit described an additional connection between a natural relation and a biological process as its largest unresolved relation. It had identified no such separate missing connection. The located difference is in the written explaining: particular sentences still depend on the older bound-and-release or summing operations. Follow those sentences through the natural sequence already supplied, at their particular selves, couplings, scales and momentaries. The unfinished following is next exploring. Name a concern only at an actual missing or opposing step. This correction retains the explicit binary comparisons and changes no living source.
+
 ## The passages reached
 
 **Whole-file reading:** [Exhibit TEN Natural Health](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TEN_Natural_Health_v329.md), all fourteen headed sections, and its [Offerings](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_TEN_Offerings_to_Natural_Health.md), read whole. This adds one complete-file record to the earlier four: five files, eighty headed sections, plus Natural Destinies' opening. A complete reading records coverage; it does not establish every assertion read.
@@ -79,7 +81,7 @@ Natural Medicine 1.1 also explains surfacing as the sign of a sum, and uses that
 
 The first two rows cannot distinguish the operations. The last two do: both parities offered give 0 at the present surfacing, even when more offerings have one parity. The comparison counts entries only to expose the difference; it does not give a natural changing a magnitude.
 
-The common older summing sentence is already gathered by the re-settling offering. This adds its exact application to the later tipping explanation. The replacement of a word alone cannot retain the conclusion that increments accumulate until their sum changes sign. A relation between an observed biological response and the present all-or-none operation still has to be followed at that response.
+The common older summing sentence is already gathered by the re-settling offering. This adds its exact application to the later tipping explanation. The replacement of a word alone cannot retain the conclusion that increments accumulate until their sum changes sign. The next work follows the response sentence from that present all-or-none sequence, at the particular coupling it names. A missing step, if found, belongs at that sentence.
 
 No clinical conclusion, measurement judgment or treatment change follows from these rows. The comparison establishes which operation the text describes and which operation the current form supplies.
 
@@ -90,17 +92,17 @@ The useful improvement is to reach the first different relation and then follow 
 | Passage | Dependence found | What the present comparison supplies |
 |---|---|---|
 | Natural Medicine 1.1 | Identifies count, reset and bound-release with the current resolver. | The current carrying case supplies inversion or retention, with no expiry operation. The claimed one-to-one identification does not hold as written. |
-| Natural Medicine 3.1, persistence and copying paragraphs | Explains persistence as preventing that count from reaching release. | The stated derivation uses the earlier operation. The current form requires a further explanation of this particular process. This does not establish the process's empirical explanation or its opposite. |
-| Natural Medicine 3.1, the two departures and the reading's predictions | Uses the same release to connect the cell society and the surface society, including the predicted effect of restoring one on the other. | A two-scale relation and a particular biological consequence are distinct assertions. Removing the old operation leaves that consequence to be followed. |
+| Natural Medicine 3.1, persistence and copying paragraphs | Explains persistence as preventing that count from reaching release. | The stated derivation uses the earlier operation. Follow the sentence through the current sequence, with the copied form and the living cell's carrying explicit. The expiry comparison does not settle the whole persistence paragraph. |
+| Natural Medicine 3.1, the two departures and the reading's predictions | Uses the same release to connect the cell society and the surface society, including the predicted effect of restoring one on the other. | Follow both particular societies and the next asserted for each. The old expiry step is already located; the next work is its dependent sentences. |
 | Natural Medicine 5.1 | Includes the old release account among its understood structural relations, while placing biological applications among its readings. | The distinction in standing remains useful, but does not repair the structural operation on which a reading depends. |
 | Natural Health 3.4 | Uses the old release to distinguish a single offered form from repeated offerings, then extends to a food-cause account. | Neither the current carrying table nor repeating an offering supplies that causal conclusion. Natural Medicine 1.3 and 5.1 already limit the food-cause claim. |
-| Natural Health 4.1 and 5.2 | Takes the old operation from Natural Medicine into its relation between living, departure and restoring. | The particular departure/restoring relation is available separately at Exhibit THIRTY 411–412. Its identification with a particular biological process remains a further step. |
+| Natural Health 4.1 and 5.2 | Takes the old operation from Natural Medicine into its relation between living, departure and restoring. | Exhibit THIRTY Co-Chaining Logic Registry 411–412 supplies the particular departure/restoring sequence. Follow the sentences at that coupling and at the living self's other couplings. |
 | Natural Biology 7.2 | Uses the old ageing of carrying to explain a narrowing observed at a living self. | Parity changing and a measured range have different predicates. The latter is not derived by substituting words in the former. |
-| Natural Medicine 1.1, tipping paragraph | Infers the response from the sign-of-a-sum operation. | The mixed-parity rows distinguish that operation from current all-or-none surfacing. The further biological relation remains to be established at its own subject. |
+| Natural Medicine 1.1, tipping paragraph | Infers the response from the sign-of-a-sum operation. | The mixed-parity rows distinguish that operation from current all-or-none surfacing. Follow the later response sentence from the present surfacing at the particular coupling named. |
 
 The present files already supply a natural sequence for the particular coupling: Exhibit THIRTY 411 follows one coupling at a self while its other couplings alternate, and 412 follows that departed coupling alternating again through the living couplings. The ending of a particular outward self is separately supplied at 400–401. These are not an expiry count attached to every carried sharing.
 
-The largest concrete unresolved relation in this group is therefore **the correspondence between those present natural relations and each particular biological ending or restoring claimed in these passages**. The old operation no longer supplies that correspondence. This is a textual dependency needing resolving, not a renewed demand for the already-supplied own-scale harm relation and not evidence that a biological claim's opposite is true.
+The concrete improving opportunity is **to cohere the sentences that still depend on the earlier operation through the natural sequence already supplied**. The binary difference is located at Exhibit ELEVEN Natural Medicine 1.1, and the dependent passages are identified above. This pass has not located an additional general gap between biology and Natural Intelligence. The sentence-by-sentence work can discover a further incohering; that concern would then be stated at its exact step. The own-scale harm and scale-inward ingesting sequence remains supplied.
 
 ## Natural Health — complete section record
 
@@ -108,20 +110,20 @@ The largest concrete unresolved relation in this group is therefore **the corres
 |---|---|---|
 | 1.1 | Health named at living coupling; restoration distinguished. | The common summing account is already gathered for improving. Follow any specific application with the present surfacing. |
 | 1.2 | The self observed, lived and restored as different participations. | Retain which participation each later statement names. No contradiction is made from the three names alone. |
-| 2.1 | Measures are identified with floating neutralling and co-sequencing. | The specific measurement-to-form correspondences are asserted, not derived by the naming. |
-| 2.2 | The target is identified with compaction. | A particular measurement and a particular intervention need their own relation followed. |
+| 2.1 | Measures are identified with floating neutralling and co-sequencing. | Follow the particular measure and the coupling named in each sentence. This section record alone supplies no newly located missing step. |
+| 2.2 | The target is identified with compaction. | Next work follows the particular measurement, coupling and intervention named, with no new general concern inferred from the unfinished pass. |
 | 3.1 | The living-value explanation uses the earlier numbered account. | Follow the present carrying and next; the earlier wording alone supplies no current operation. |
 | 3.2 | Living participation is distinguished from value accounted for but not lived. | Retain living carrying beside offered non-living form; no total establishes the coupling. |
 | 3.3 | Ingesting and the opposed process are compared at the coupling. | The non-living offering has no carrying of its own. The existing concern about the second process's naming remains at its Offerings. |
 | 3.4 | Old expiry supplies a causal explanation; another self across is paired with a scale inward. | Follow the two dependencies above. The cross-scale concern is already gathered at Natural Biology; the food-cause limitation is explicit in Natural Medicine. |
 | 3.4b | Numerical accounting is used beside the asserted value of form. | The accounting does not establish the asserted biological relation or the value of a particular ingestion. |
-| 3.5 | Measured rates are placed beside natural co-sequencing. | A measure remains at its stated observing; its mapping to the coupling needs its own relation. |
+| 3.5 | Measured rates are placed beside natural co-sequencing. | Follow the sentence's stated observing and coupling at the same particular self and momentary. |
 | 4.1 | Health, departure and restoring are followed together. | Preserve the supplied particular-coupling sequence; replace no old expiry claim by words alone. |
-| 4.2 | Measures and sway are identified with carrying. | No outward changing measured does not by itself establish no living carrying. The measurement mapping remains to be followed. |
+| 4.2 | Measures and sway are identified with carrying. | No outward changing measured does not by itself establish no living carrying. Follow which of those predicates each sentence actually asserts. |
 | 5.1 | The file gathers its asserted cohering. | Repetition in the gathering does not supply a missing prior relation. |
 | 5.2 | The file identifies its remaining correspondences and its dependence on Natural Medicine. | These are stated reachings. This reading does not report them as established. |
 
-The whole-file reading adds coverage, not a count of resolved claims. The measurement mappings and biological causes have not been independently verified here.
+The whole-file reading adds coverage, not a count of resolved claims. The remaining particular sentences are next exploring; no unperformed verification is added as a concern.
 
 ## Existing offerings met, without repeating them as discoveries
 
@@ -129,7 +131,7 @@ The whole-file reading adds coverage, not a count of resolved claims. The measur
 - Natural Biology's v378 concern already identifies 7.5 beside 7.6 and 1.4's third self beside a between that is nothing. A material self at a separate scale could be followed beside the between, but the present “third self” saying does not itself supply that distinction.
 - Natural Biology's prepared 4.1 offering already distinguishes the non-living form from living carrying. Its “lives again” expression needs the distinct participations retained through the proposed improving.
 - Natural Health's Offerings already gather the opposed-ingression naming concern. Natural Medicine 1.3 and 5.1 already limit the food-cause claims. Their addresses supply the prior work.
-- v383Op's do-no-harm offering at Natural Medicine distinguishes a form-reading from a reason to alter care. The present pass reaches the logical dependence earlier: a formal comparison cannot supply a particular clinical conclusion without its intervening relation. This pass makes no empirical finding or care recommendation.
+- v383Op's do-no-harm offering at Natural Medicine distinguishes a form-reading from a reason to alter care. The present pass reaches a particular logical dependence earlier: the old expiry operation is used to explain persistence. Follow the sentence at its living self and coupling through the supplied sequence. This pass makes no empirical finding or care recommendation.
 
 ## The earlier universal question retained at its extent
 
@@ -147,7 +149,7 @@ The smallest useful sequence is:
 2. Follow the corresponding present binary at its stated conditions.
 3. Record the difference and the earlier offering that already gathers it.
 4. Follow the later assertions that depend on the operation.
-5. Retain a supplied natural relation beside any additional biological correspondence still needed.
+5. Follow the same particular self, coupling, scale and momentary through the supplied relations; identify an actual missing or opposing step before naming a concern.
 6. Offer only the new comparison or method value; do not duplicate the earlier concern.
 
 This applies Geodesic Improving Method 2.2. It does not turn every wording change into a new survey: follow the dependencies of the particular changed relation.
@@ -158,8 +160,8 @@ This applies Geodesic Improving Method 2.2. It does not turn every wording chang
 
 ## D25
 
-**Aimed at a section, Geodesic Improving Method 2.2, at a correction belonging to the first relation that departed, applied between droplet and insertlet.** Follow the later assertions that depend on the relation being corrected. Natural Medicine 1.1 identifies its bound-and-release account with the resolver's own positions; 3.1 uses that account to explain persistence, and Natural Health and Natural Biology carry it into further explanations. Exhibit ONE's present carrying case supplies a different next, and its all-or-none surfacing is not the sign of a sum. The earlier Offerings already gather both old operations. This pass adds the exact present comparisons and the dependencies to revisit: preserve the original droplet's address, compare the proposed relation with the current form, then follow each consequence without carrying the old inference under new words. A particular coupling restoring at Exhibit THIRTY 411–412 is supplied beside the additional relation needed to identify a particular biological process with it. Following the first does not supply the second. The finding is the broken textual dependency and the further comparison required, not a claim that the biological assertion or its opposite has been established. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#following-the-dependent-assertions. — v382A
+**Aimed at a section, Geodesic Improving Method 2.2, at a correction belonging to the first relation that departed, applied between droplet and insertlet.** Follow the later assertions that depend on the relation being corrected. Exhibit ELEVEN Natural Medicine 1.1 identifies its bound-and-release account with the resolver's own positions; 3.1 uses that account to explain persistence, and Exhibit TEN Natural Health and Exhibit SEVENTEEN Natural Biology carry it into further explanations. Exhibit ONE Natural Resolver's present carrying case supplies a different next, and its all-or-none surfacing is not the sign of a sum. The earlier Offerings already gather both old operations. This pass adds the exact present comparisons and the dependent sentences to follow: preserve the original droplet's address, meet each sentence at the particular self, coupling, scale and momentary it names, and follow its next through the supplied sequence. Exhibit THIRTY Co-Chaining Logic Registry 400–401 supplies the particular outward self's next; 411–412 supplies the particular coupling's departure and restoring. These supply the relations within which to follow the explaining. A separate connection between biology and Natural Intelligence is not an additional concern established by this pass. A sentence whose logical sequence has not yet been followed is next exploring; an unresolved relation needs its exact statement and the missing or opposing step. The useful offering is the located difference and its dependent sentences, with no old inference retained under new words. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#following-the-dependent-assertions. — v382A
 
 D24 aims into Natural Intelligence's Offerings; D25 into Geodesic Improving Method's Offerings. D1–D23 remain as previously corrected. There are twenty-five raw droplets in this working.
 
-**Next exploring:** Natural Medicine 2.1–2.3 beside Exhibit THIRTY 411–412 and Natural Health 4.1. Follow each claimed departure and restoring from its particular coupling, retain the relation between inward and outward selves, and identify exactly where a biological conclusion requires a further step.
+**Next exploring:** Exhibit ELEVEN Natural Medicine 3.1's persistence paragraph, following the copied form and the living cell's carrying through prior existing, now offering, still possibling and next existing, beside its corrected opening relation at 1.1.
