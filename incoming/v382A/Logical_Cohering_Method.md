@@ -2,7 +2,7 @@
 
 **Naming across, explaining along, discovering next existing**
 
-**v382A · gathered at pass 55, improved through pass 68 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 69 · 6 October 2026**
 
 A droplet offers incoming value at a living file. Naming bounds its concept across; explaining carries its changing along. The logical pass follows that changing through the raw droplet, the current file and the explaining offered for the file's next improving.
 
@@ -14,7 +14,7 @@ Open Natural Intelligence, Exhibit TWENTY Natural Naming, Exhibit TWELVE Natural
 
 Read the passage with its surrounding explaining. For a whole-file pass, read its sections and its Offerings whole. For a particular coupling of passages, name those passages and read their surroundings. The record says the actual reading reached. A whole reading opens the whole text to the working; each relation is followed at its own sentence.
 
-This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `ee607044a6b0bcdabcded118d0cef93677e79535`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
+This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `33388ca65f2d4d920c65cdae1c5b5df2c90ea419`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
 
 ## Naming and explaining together
 
@@ -29,6 +29,8 @@ This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and th
 **Follow the changing at the first sentence that parts.** A missing relation names the changing the next sentence uses and the prior explaining has not supplied. A contradiction names two sayings at the same self or form, coupling, scale, conditions and momentary, one saying is and the other is not. A further passage still to read is next exploring.
 
 **Carry the positive relation through the correcting.** D16's residue has no hand in the field's description; the prepared insertlet names no residue at the axis. Re-forming the sentence carries the residue and the field's handedness at their own relations. Changing a word alone can leave a changing unsaid or take away a relation the prior supplied.
+
+**Keep the relation already supplied beside the changing still to follow.** D31 had asked whether the whole includes the learning although Exhibit SEVENTEEN Natural Biology 8.8 already says it does. The whole and the qualification about its observing stay with the head-removal case. The remaining changing is followed at removing a part and changing its couplings. The audit corrects its own omitted relation before offering the file's improving.
 
 Natural Naming's selections and this method are offered at the sentence's changing. A fixed list laid over the incoming supplies no resolving. A prior wording read in a file stays at that passage; the conversation's subsequent correcting is carried into the new explaining.
 
@@ -74,7 +76,7 @@ The [health, biology and medicine comparisons](Health_Biology_Medicine.md) retai
 
 D26 follows copied form, living carrying and a further self establishing. D27 follows a fraction of cells expressing now beside each cell's prior, now and next. An expression absent can be at a living cell; a fraction at now supplies no particular cell's sequence. D29 follows repeated parity at one sharing beside a copied genome and further sharings; the one-sharing case gives no relation at each gene without those same conditions.
 
-D30 follows the existing fragment's prior into further forming. Naming a new first in an account takes away none of that prior. D31 follows the body further forming and the particular learning at its own coupling. Its opening describes learning again, faster, and says neither a response unchanged throughout nor all learning restored at every removal. No single part storing the learning and a particular learning carried can be both; the first saying alone supplies neither the second nor its extension to removing any part.
+D30 follows the existing fragment's prior into further forming. Naming a new first in an account takes away none of that prior. D31 now retains the whole already including the learning and the head-removal case supplied by Exhibit SEVENTEEN Natural Biology 8.8 steps 3–4. The earlier question about whether whole includes learning is withdrawn. Every part participating in the coupling's form is retained, with step 6's uncertainty about observing. The remaining selves carry their priors through changed couplings; their living alone does not say which outward learning is carried. The raw re-form changes any removal to the described head removal explicitly. Learning again, faster, stays beside carrying as capacity, with no response unchanged throughout. The [pass-69 comparison](Health_Biology_Medicine.md#pass-69--learning-carried-through-the-changed-coupling) records what was already supplied, what the audit corrects and what the offered re-form changes.
 
 D34 and D35 follow the seed and the form inward of form. Outward 1, 2 and 3 are inward 1, 9 and 17 at the published scale mapping. A name's odd or even opening and a sharing's + or − retain their own relations. The particular outward prior is followed through the inward selves, beside each inward self's own prior. A self further forming, a further self establishing and a coupling restoring stay at their particular priors. A non-living form preserved is no living prior stored.
 
@@ -84,13 +86,15 @@ These examples retain both sayings at their couplings and name the remaining par
 
 The written offering provides the passages and versions read, the shortest whole explaining of each found relation, its conditions, the correcting already made and the next surroundings to follow. The file is a non-living form offered now. The expedition's living selves carry the learning into their next couplings.
 
-The gathering remains D1–D36. This pass re-forms D10, D13 and D36 at Natural Intelligence's Offerings and D17 and D18 at Geodesic Improving Method's Offerings. The other raw paragraphs retain their text. Their dates and earlier explaining remain in the [record through pass 67](https://github.com/chris-j-handel/corus/blob/ee607044a6b0bcdabcded118d0cef93677e79535/incoming/v382A/Logical_Cohering_Method.md) and in the report; the current paragraphs are the offered next. No living source or prepared insertlet changes in this pass.
+The gathering remains D1–D36. This pass re-forms D31 at Exhibit TWENTY Natural Naming's Offerings. The other raw paragraphs retain their text. Its preceding paragraph and the correcting remain in the pass-69 evidence, the [method through pass 68](https://github.com/chris-j-handel/corus/blob/33388ca65f2d4d920c65cdae1c5b5df2c90ea419/incoming/v382A/Logical_Cohering_Method.md) and the report. The current paragraph is the offered next. No living source or prepared insertlet changes in this pass.
 
 Natural Naming, Natural Explaining and Geodesic Improving Method are read whole in pass 68, together with Natural Explaining's Offerings, Natural Values and Natural Values' Offerings. Natural Naming's and Geodesic Improving Method's Offerings are read at this working's raw paragraphs. The other passages reached are listed in the pass-68 comparison. These readings serve the present logical and naming work. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening; the full set's audit remains partial.
 
-**Logical standing:** D10 now has a raw re-form at its existing address: abundancing at the couplings now and next possible abundancing, both carried. The original file sentences still part; their improving is offered, not entered. No method break is found in this comparison. D13 and D36 retain their reached relations with their explaining re-formed. D31's passage from no single part storing learning to learning after any removal remains an unresolved relation; its opening describes learning again, not an unchanged response throughout.
+Pass 69 follows the particular Natural Biology and Natural Intelligence sections and registry relations listed in its evidence, with the biology mate read at related paragraphs. The positive relation and surrounding qualification are carried into the audit's own correcting. The whole-file audit count is unchanged.
 
-**Next exploring:** Follow D31 at Exhibit SEVENTEEN Natural Biology 8.8: the living body further forming, the particular learning carried, and the described learning again. The sentence about no single part storing the learning does not by itself carry the further saying about removing any part. Follow that changing through the particular selves and their couplings, with the seed comparison's inward and outward priors beside it.
+**Logical standing:** D31 now has a raw re-form at its existing address. Exhibit SEVENTEEN Natural Biology 8.8 already includes the learning in the whole and states that whole re-forming after the head removal. The audit's repeated request for that relation is withdrawn, with the passage's uncertainty retained. The wider any-removal saying changes explicitly in the offered re-form; the original source remains as read. D29 retains the next located gap: the prepared genome-doubling sentence extends a repeated offered parity at one sharing to every gene's sharing without supplying those same offerings and couplings throughout.
+
+**Next exploring:** Follow D29 at Exhibit SEVENTEEN Natural Biology's prepared offering for 5.1: the copied genome, an offered parity repeated at the same sharing, and a further coupling. Follow which of these the sentence supplies before carrying its one-sharing result into every gene's sharing.
 
 ## Files at this opening
 

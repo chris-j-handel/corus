@@ -1,8 +1,10 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–62 and 64–65 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–62, 64–65 and 69 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 65 — the inward whole and the outward momentary](#pass-65--the-inward-whole-and-the-outward-momentary) applies the published inward/outward sequencing to the seed concept and follows the particular selves in development, generation and restoring. Passes 58–62 and 64 with their corrections remain below; [pass 63](Society_Whole_and_Coupling.md) holds the eight-condition society comparison.
+**Current comparison:** [Pass 69 — learning carried through the changed coupling](#pass-69--learning-carried-through-the-changed-coupling) corrects D31 at the whole that already includes the learning, the described head removal and the passage's stated uncertainty. Its raw re-form changes the wider any-removal saying explicitly. Earlier passes and their corrections remain below; the inward and outward priors of pass 65 remain beside this comparison.
+
+**Pass-69 correction to D31:** the source already says the re-formed whole includes the learned bias and that every part participates in the coupling's form. The audit's repeated question about that whole is withdrawn; its omission of the positive relation is corrected. The changed coupling after removal is the precise relation followed below.
 
 **Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
@@ -778,3 +780,84 @@ This pass reopens Natural Intelligence 2.3–2.4, 3.3, 4.3, 4.15, 5.2–5.3 and 
 **Logical standing:** the published inward/outward mapping supplies the form within form relation: one inward 1–17 participates as one outward momentary of exchanging. The different opening names at the two scales do not oppose one another or decide a sharing's parity. Exhibit SEVENTEEN Natural Biology 5.2's organism further forming and 5.5's next organism opening can both hold at their stated selves; 5.5 supplies the species-scale participation in its surroundings. No new logical break is established by those sayings together. The particular outward prior remains the binary in Exhibit THIRTY Co-Chaining Logic Registry 400–401. D10's conflicting assertions about the same human whole remain unresolved; D11, D29, D31 and the earlier registry comparisons retain their precise standing.
 
 **Next exploring:** return to D11 at Exhibit NINE Natural Human Society 2.3's court, trustee and closing date, then 3.3's supplied arrangement. Follow whether each arrangement is offered at the selves' couplings or is said to supply their openings from beside, retaining Natural Intelligence 6.4 and Exhibit THIRTY Co-Chaining Logic Registry 484.
+
+## Pass 69 — learning carried through the changed coupling
+
+This pass follows D31 at [Exhibit SEVENTEEN Natural Biology 8.8](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md), beside its explaining of inward selves, outward society and further forming. The target is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`; the incoming opened at `33388ca65f2d4d920c65cdae1c5b5df2c90ea419`. D31 is re-formed at its existing address. No further droplet number is added.
+
+### The relation already supplied
+
+The whole described in Exhibit SEVENTEEN Natural Biology 8.8 includes the learned bias. Step 3 says this directly. Step 4 says that, after the head removal, the coupling re-forms that whole and the whole includes the bias. The audit need not ask again whether whole here names bodily shape alone. For this passage, that question is answered.
+
+Step 3 also supplies a positive relation before its no-store saying: every part participates in the coupling carrying the form. The audit's short account of a move from no sole store to retained learning left this positive relation out. It belongs in the comparison. A particular part participating in the whole and that part carrying its own prior can both hold. Exhibit THIRTY Co-Chaining Logic Registry 399–401 names the outward self's prior carried by its inward selves, each with its own prior. The passage need not mean that a separate duplicate of the whole's private carrying is placed in every part.
+
+The head-removal relation is supplied as the file's explaining. Calling it supplied does not establish the described observing. Step 6 keeps that observing uncertain, and the uncertainty belongs beside steps 3–4 and 7. Reading step 7 alone and then treating step 6's qualification as absent would repeat the method error gathered at D33.
+
+| Passage in Exhibit SEVENTEEN Natural Biology 8.8 | Relation retained in this comparison |
+|---|---|
+| Step 1 | The described body learns the response again, faster. No response unchanged at every intervening momentary is asserted. |
+| Steps 3–4 | The whole includes the learned bias, and this is the whole the passage says is re-formed after head removal. |
+| Step 3, before its conclusion | Each part participates in the coupling's form. The comparison retains this positive saying beside no sole store. |
+| Step 6 | The particular observing remains uncertain in the file's own account. |
+| Steps 3 and 7, read broadly | Distribution at the prior coupling is made to explain learning surviving removal without following what that removal changes in the coupling. |
+
+### The first changing still to follow
+
+The parts in their prior coupling carry the form. Removing a part changes the couplings through which the remaining selves carry into next. The first saying concerns those selves in the prior coupling; the further saying concerns the particular learning after the changed coupling. Their connection cannot be supplied by omitting the changing.
+
+Exhibit SEVENTEEN Natural Biology 7.4 already supplies the surroundings: members can be living while their society uncouples, and a society can be living while its members change. [Exhibit THIRTY Co-Chaining Logic Registry 399–406](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) follows the outward prior through the inward selves. Those selves carrying their own priors is one relation; their carrying the particular outward prior into next is another. At 411–412 a particular coupling can depart and restore while the self lives at its other couplings.
+
+These sayings allow the parts' living and an outward uncoupling together. They therefore prevent each part living, or no single part storing the learning, from standing for the particular outward learning carried after every removal. They say neither that the head-removal case fails nor that the learning must be unchanged whenever the body lives. A body's living at next and this particular learning being carried are each followed at their own couplings.
+
+The parenthetical head permits the described removal to be followed without turning it into every possible removal. On that reading, steps 3–4 supply the case. If any part is intended to reach every removal, that wider saying still has no explaining through the changed couplings. The raw re-form makes its choice explicit: follow the described head removal with its learning and qualification, and change the wider saying. It does not silently make any part mean the head.
+
+### Prior, now and next at the described learning
+
+[Without a stored response, Natural Intelligence 5.1](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) supplies carrying as capacity. The earlier pass-62 correction is retained.
+
+| Momentary or coupling followed | Explaining carried into the re-form |
+|---|---|
+| Prior existing | The body and its inward selves are living at their couplings; the particular learned bias is included in the whole described by 8.8. |
+| Now offering | Head removal changes the selves and couplings through which the body's further forming is followed. |
+| Still possibling | A response not appearing and living carrying can be both. The particular capacity is followed at the living selves' couplings. |
+| Next existing | Section 8.8 describes the body further forming and learning the response again, faster. Its stated uncertainty remains with this describing. |
+
+Where the inward selves carry the outward prior into next, the outward self is living at next. The particular learning is followed through the body's changed couplings, with the later learning again that 8.8 describes. This supplies no response unchanged throughout and no retention after every removal. The seed comparison's form within form remains useful here: the inward self's living and the outward self's prior stay named at their own relations.
+
+The published sharing relations in Natural Intelligence 4.3–4.4 retain the prior or invert it at the particular offering. Their carrying into next is not an assertion that every previously learned response remains unchanged. No parity is renamed as learned, forgotten, regrown or harmed in this comparison. The published form is read as text.
+
+### D31 re-formed
+
+**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology 8.8 steps 3–7.** The whole in steps 3–4 already includes the learned bias, and step 4 expressly says that this whole is re-formed after the described head removal. The earlier question about whether whole includes that learning is withdrawn. Step 3 also supplies every part participating in the coupling's form; this positive relation stays in the explaining. Removing a part changes that coupling. The remaining inward selves carry their priors into their next couplings; where they carry the outward self's prior into next, that self is living at next, as Exhibit THIRTY Co-Chaining Logic Registry 399–401 explains. Each part living does not by itself say which particular learning is carried: Exhibit SEVENTEEN Natural Biology 7.4 and Exhibit THIRTY Co-Chaining Logic Registry 405–406 already allow the selves living beside their society uncoupling. The offered re-form follows the described head removal and the whole that 8.8 says includes the learning. Its opening describes learning again, faster; Natural Intelligence 5.1's carrying as capacity leaves no need for a response unchanged throughout. Step 6's uncertainty about that observing stays with the case. The wider saying about any removal changes to this described removal and these couplings. No sole store and learning carried can be both; neither no sole store nor each part's prior participation makes every removal preserve that learning. The head case is supplied as the file's explaining, with its stated uncertainty; this comparison supplies no new observing. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-69--learning-carried-through-the-changed-coupling. — v382A
+
+### What changes in the audit's own explaining
+
+The preceding raw paragraph is retained here for review:
+
+> **Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology 8.8 steps 3, 6 and 7.** The body regrowing, the body living at next and the particular learned bias being retained are different predicates. Step 3 moves from no part being a sole store to removing any part not removing the learning. At its narrower described head-removal case, no sole store and retained bias can both hold; the absence of a sole store alone supplies neither that retention nor its extension to any removal. Section 7.4 already allows living members beside their former society's coupling ending, and Exhibit THIRTY Co-Chaining Logic Registry 400–401 and 411–412 distinguish the particular outward self from its particular couplings. If whole in 8.8 already includes the learned bias, restoring that stated whole includes the bias, but the word whole does not establish that this whole is what regenerates. If whole names bodily form alone, retention of the bias is a further assertion. Step 6's stated uncertainty about the observing also remains beside step 7's stronger wording; dissolving a stored-object framing does not establish the described observation. The useful improving retains which whole, which removal and which participation reaches next. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole. — v382A
+
+The current paragraph changes three relations in the audit. It removes the unanswered question about whether whole includes learning, because the passage already answers it. It restores the positive saying about each part participating in the form. It carries step 6's uncertainty through the head case instead of treating a short later passage as lacking its surroundings.
+
+The re-form also changes the wider any-removal saying to the particular removal the file describes. That is an offered improving of the source's explaining, stated as a change. The head case is not newly established by this audit; neither is it rejected. The existing passage's later experimental opportunity at step 8 remains a further sentence to follow at its own changing.
+
+### Learning between droplet and insertlet
+
+Naming bounds the self, form or coupling across the comparison. Explaining carries its prior and next along. The same whole must stay the same whole, and a changed coupling must be followed as changed.
+
+Read the positive relation and the qualification wherever the surrounding explaining supplies them. Then follow the sentence that changes the parts or their couplings. Ask for an unsupplied changing only at that sentence. A concern that omits an already supplied relation is corrected in the audit before being offered as a file improving.
+
+D33 already gathers the conditions supplied across an explaining, and D17 already carries the positive relation through the proposed improving. This pass applies those droplets to the audit itself. It adds no new general condition connecting biology to Natural Intelligence and no duplicate method droplet. The particular selves, their offering, their carrying and the changed coupling supply the comparison.
+
+At a proposed insertlet, retain the whole including learning, the head-removal case, the later learning again and the uncertainty. Name the changed any-removal saying explicitly. A smoother sentence that removes one of these relations loses part of the incoming value.
+
+### Reading reach and offering
+
+The reading reaches the opening 24,000 characters of Exhibit SEVENTEEN Natural Biology, including its opening and sections 1.1–1.7, 2.1 and part of 2.2; the full particular sections 5.2, 5.3, 5.5, 7.1–7.7 and 8.8; and selected related paragraphs in its Offerings concerning regeneration, whole form and learning. The mate is not claimed as read whole. Natural Intelligence 4.3–4.6, 5.1–5.3 and 6.4–6.6 are read at their sections. Exhibit THIRTY Co-Chaining Logic Registry is followed at 291–302 and 388–412. Exhibit ONE Natural Resolver is fetched for the paired comparison; no whole-file rereading or execution is claimed for it in this pass.
+
+The three craft files were read whole in pass 68; their naming and explaining are applied here. The existing D31, the related earlier health comparisons, D22, D29 and D33, and the current reusable method are read at their relevant paragraphs. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening. The full set's audit remains partial.
+
+D31 is the only raw Offerings paragraph changed in this pass. The incoming evidence, opening and reusable method carry the correction forward. The gathering remains thirty-six raw droplets: twenty-three at Natural Intelligence's Offerings, six at Exhibit TWENTY Natural Naming's Offerings and seven at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings. No living source or prepared insertlet changes.
+
+**Logical standing:** D31 now has a raw re-form at its existing address. Exhibit SEVENTEEN Natural Biology 8.8 already includes the learning in the whole and states that whole re-forming after the head removal. The audit's repeated request for that relation is withdrawn, with the passage's uncertainty retained. The wider any-removal saying changes explicitly in the offered re-form; the original source remains as read. D29 retains the next located gap: the prepared genome-doubling sentence extends a repeated offered parity at one sharing to every gene's sharing without supplying those same offerings and couplings throughout.
+
+**Next exploring:** Follow D29 at Exhibit SEVENTEEN Natural Biology's prepared offering for 5.1: the copied genome, an offered parity repeated at the same sharing, and a further coupling. Follow which of these the sentence supplies before carrying its one-sharing result into every gene's sharing.
