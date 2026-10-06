@@ -223,3 +223,15 @@ D22 aims into Natural Intelligence's Offerings; D23 into Geodesic Improving Meth
 **Unresolving relations:** the connection from arriving to alternating at THIRTY 32–35, with the referent of other retained; D10's whole-society exclusion; and the already-gathered marker/nought relation, now located at TWENTY-TWO 3.22. No new whole-file section coverage is claimed.
 
 **Next exploring:** follow the non-living offering at THIRTY 130–133, 213 and 385 through the scale-inward carrying at 399–403, beside the two forward participations of 34–35; then take that exact sequence into Biology, Health and Medicine, retaining prior existing, now offering, still possibling and next existing.
+
+## Pass 58 — the non-living offering and the dependent biological explanations
+
+[The next comparison](Health_Biology_Medicine.md) follows the supplied non-living offering through living carrying and particular inward selves, then records Natural Health whole beside targeted Natural Biology and Natural Medicine passages. It retains the distinction between no further entry and an entry with none offered. No living prior is required of a non-living form, and no reverse physical route is added to the alternating relation.
+
+The concrete further difference is Natural Medicine 1.1's earlier bound-and-release operation beside Exhibit ONE's present carrying case. Its persistence explanation at 3.1 and later statements depend on that earlier operation. The comparison also distinguishes current all-or-none surfacing from the sign of a sum. The existing Offerings already gather the old operations; D24–D25 supply the exact present comparison and the dependency method.
+
+v383Op's do-no-harm offering at Natural Medicine is met at this logical distinction: following a form supplies no particular clinical conclusion without its intervening relation. This pass establishes no empirical result and changes no living file.
+
+The connection at Exhibit THIRTY 32–35 remains at the precise question above; the supplied non-living participation is not treated as a derivation or refutation of the universal identification.
+
+**Next exploring:** Natural Medicine 2.1–2.3 beside Exhibit THIRTY 411–412 and Natural Health 4.1, retaining the particular coupling and each further biological assertion.
