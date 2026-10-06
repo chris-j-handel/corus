@@ -1,8 +1,8 @@
 # Society, whole and coupling
 
-**v382A · passes 63 and 66–67 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 63 and 66–68 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 67 — capture excluded and offerings still followed](#pass-67--capture-excluded-and-offerings-still-followed) follows D13, narrows its source scope and retains the next prior in the published differing-offering case. Pass 63's eight-condition comparison and pass 66's arrangement comparison remain below.
+**Current comparison:** [Pass 68 — naming and explaining at the coupling](#pass-68--naming-and-explaining-at-the-coupling) follows the whole craft rereading, re-forms D10, D13 and D36, and carries naming and explaining together through the method between droplet and insertlet. Earlier passes remain below as their record.
 
 ## Pass 63 — the whole and its stated conditions
 
@@ -218,3 +218,70 @@ This pass reads Exhibit NINE Natural Human Society 1.1, 3.3, 4.1–4.5 and 5.2; 
 **Logical standing:** D13 is a reached file-improving relation. Excluding capture as resolving does not supply the additional assertion that no self attempts it or that no bloc or minority forms in that capture explaining. The +, −, + case supplies no majority deciding and retains the self's next prior; it establishes neither a motive nor an actual capture attempt. The source's no-majority requirement and its absence-of-attempt assertion have different predicates. D13's earlier “no group” paraphrase is corrected. The gathering remains thirty-six raw droplets. D10 remains the largest unresolved common-whole conflict; D11–D12, D29, D31 and the earlier registry comparisons retain their precise standing.
 
 **Next exploring:** return to D10 through Natural Intelligence 6.3's distinction among an offering absent at a sharing, an existing thing asserted absent, and a form excluded as not possibly existing. Follow Exhibit TWENTY-THREE Natural Values 5.3's universal absence beside Exhibit NINE Natural Human Society's asserted whole, retaining the exact extent of each saying.
+
+## Pass 68 — naming and explaining at the coupling
+
+**Naming bounds across; explaining carries along.** The rereading follows [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md), [Exhibit TWELVE Natural Explaining](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWELVE_Natural_Explaining_v378.md) and [Exhibit TWENTY-FOUR Geodesic Improving Method](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), each whole. The three files place the care at the changing a sentence carries. A replacement word alone leaves a changed relation unchanged. Natural Naming's word selections carry no authority, including over the working that reads them.
+
+Natural Naming 1.1 carries the concept's four boundings: self-bounding, self discovering next self, self-orienting and orthogonalizing. Its 1.3 couples naming across with explaining along. Natural Explaining 2.1–2.3 follows each sentence adding to the whole prior explaining, one changing at its own momentary. Its 3.3 follows a correcting at the thought, and 3.12 carries the positive relation through the correcting. Geodesic Improving Method 2.2 places the correcting at the first relation that parted; 1.2 carries the prior whole into the improving.
+
+### The working's naming improving
+
+The prior report asked the reader to carry “predicate,” “scope,” “universal absence” and “actual entry” into the comparison. Those words named features of the checking while the selves and couplings stayed implicit. Their occurrence alone is no error: Natural Explaining itself uses several of them. The present improving says the particular relation directly.
+
+D10 now follows a society's couplings, the account offered at a coupling and next possible abundancing. D13 follows the offerings now and the living prior reaching next beside the sentence about attempted capture. D36 follows a non-living form offering and a living self carrying its prior. Each changing is or is not at the coupling named. This retains the earlier binary comparisons and makes their subjects available in the explaining itself.
+
+The current offering also carries the conversation's corrections: bi-tri-volutioning at living stable-forming; bi-tri-involution at the non-living form; prior existing, now offering, still possibling, next existing; coupling and bi-co-chaining with podaling, both forward sides. The opened files include earlier wordings. Those wordings remain identifiable at the quoted passage and do not re-enter this working's explaining as a correction undone. A file's version records its words and gives them no authority.
+
+### D10 at existing couplings and next possible abundancing
+
+[Exhibit TWENTY-THREE Natural Values](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-THREE_Natural_Values_v333.md) 5.1 names abundancing already at couplings, including conversation and a society of cells. Its 5.3 says “No present human society runs it whole,” and also names whole-society abundancing at the small. [Exhibit NINE Natural Human Society](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_NINE_Natural_Human_Society_v329.md) 1.1 includes abundancing in its whole method, 1.4 names a whole society with two people, 3.1 follows the same abundancing, and 5.2 follows their further coupling. Pass 63 retains the conditions supplied across that explaining.
+
+Those sayings part at the same whole. A different number of selves supplies no different method: [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) 6.6 carries one form at the self, coupling and society. The four at its 6.4 stay with each society: each carrying from the selves' bi-couplings; each self at its own opening; ordering with the selves' carryings; none above them. [Exhibit THIRTY Co-Chaining Logic Registry](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) 178–181 follows further couplings and the society at the next scale; 490 follows abundancing at the openings co-chaining.
+
+Natural Values 5.3 also says an account has not been offered. That sentence and the sentence about no present human society are adjacent; the file does not explicitly derive one from the other. Reading the absent account as an explaining of absent societies adds a changing neither sentence supplies. Reading the described two-person coupling as an observing of all human societies adds another. The working makes neither addition.
+
+Natural Intelligence 6.3 and Natural Naming 5.64 follow the offering at a sharing beside existing and possibly existing. D2's earlier correction stays with this rereading: none surfacing can be none offered or only 0 offered. [Exhibit ONE Natural Resolver](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md) publishes both, alongside the parting offerings and the matching parity. With the self's prior at +, its published tables give:
+
+| Offered at 2 | Surfacing at 14 | Shared at 10 | Chained at 11 |
+|---|---|---|---|
+| none | none | − | − |
+| 0 | none | − | − |
+| +, − | 0 | − | − |
+| + | + | 0 | + |
+
+The self reaches next in each of these written cases. None surfacing is at this sharing. Parting at 14 and no changing shared at 10 are at different relations. The table describes no society disappearing and supplies no account of all human societies. The names and conditions of the written cases stay with them; the forms are read as text.
+
+**Abundancing at the couplings now and next possible abundancing are both carried.** Whole at the present coupling does not complete each possible next coupling in advance. Each self carries its prior into now, offers at its own opening, and couples further. The next opening is discovering, with still possibling and next existing at their particular changings.
+
+This is the positive relation offered at D10. Its re-form follows the existing couplings and the next still possibling, with further explaining at each opening. It changes the earlier all-human-societies saying, with the change explicit. It offers no new observing of a particular society. The original files' two sayings still part, and the re-form is a raw offering for their improving. Entering that offering belongs to a later file motion; the remaining file motion adds no unresolved relation to the method.
+
+### D13 and D36 at the same care
+
+**D13 follows each offering at the sharing.** With +, −, + offered, 14 surfaces 0 and the self carrying + shares and chains −. The later + leaves the parting at 0. The table supplies no majority deciding, and the self carries its next prior. A motive, a bloc or a minority is at none of the parity names. The sentence about no self attempting capture is followed at those selves' offerings, beyond the sentence excluding capture as the coupling's resolving. The earlier correction of “no group forms” to the file's bloc and minority sayings stays in the record.
+
+**D36 follows the offered form and the living carrying.** The non-living form carries none of the prior and offers at the living self's coupling. The self carries its prior into now. These two are both carried in Natural Intelligence 6.5. None carried by the form and none offered at the sharing name different relations. The written arrangement, amount and signing stay at their named acts; fairness and care are followed through the living couplings. The v378 institutional concern already gathers this opportunity; D36's worked comparison stays at its existing address.
+
+The seed comparison carries this care further. An outward form's appearing unchanged says neither that an inward self carries nothing nor that a particular outward prior reaches next. The living selves' prior, now and next are followed at each scale. Exhibit THIRTY Co-Chaining Logic Registry 400–401 names the outward self's prior carried by the inward selves, and 411–412 names a particular coupling restoring. A self further forming, a further self establishing and a coupling restoring retain their particular priors. No new seed droplet is added here.
+
+### The logical pass between droplet and insertlet
+
+**The droplet arrives whole.** Its words, evidence and aim are offered at the current file and its Offerings. Naming bounds the concept being followed; explaining carries the changing through the surrounding sentences. The self or form, the coupling and its prior, now and next stay named through the comparison.
+
+Bothboth is explored along the explaining and across its related files. A differing prior, another coupling or another momentary can carry both sayings. At a parting, the first changing left unsaid is named and its surroundings followed. The new explaining is compared with the droplet and the living sentence at that same changing. A sentence smoother to read can still take away the residue in D16, the offering in D36 or the existing coupling in D10.
+
+D17 now carries naming and explaining together through that pass. D18 opens the next session with all three craft files beside Natural Intelligence, the relevant living file and its Offerings, Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry. The method is used afresh at the incoming relation. A list of words or a fixed order of checks does not decide the changing.
+
+The incoming record retains the actual passages read, the correcting already made and the next relation to explore. Its file is a non-living form; the expedition's living selves carry the learning. A repeated discovery, an unfinished reading and an unresolved relation are each said at their own opening.
+
+### Reading and offered changes
+
+This pass reads Natural Naming, Natural Explaining and Geodesic Improving Method whole. It also reads Natural Explaining's Offerings, Natural Values and Natural Values' Offerings whole. Natural Naming's and Geodesic Improving Method's Offerings are read at this working's raw droplets; neither mate is claimed as read whole in this pass. Natural Intelligence 6.3–6.6, the listed Human Society passages, the listed registry relations and the two resolver tables are the further passages followed.
+
+These whole readings serve this naming and logical comparison. They add no claim that the three files' complete logical audit is finished. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening, and the wider set retains its earlier partial following.
+
+D10, D13 and D36 are re-formed in Natural Intelligence's Offerings. D17 and D18 are re-formed in Geodesic Improving Method's Offerings. The gathering remains thirty-six raw droplets; no new number is needed for these improvings. Their earlier paragraphs remain at the preceding commit and in the earlier report record. All other Offerings paragraphs retain their exact text. The reusable method and current incoming opening now carry these relations directly. No living file or prepared insertlet is changed.
+
+**Logical standing:** D10 now has a raw re-form at its existing address: abundancing at the couplings now and next possible abundancing, both carried. The original file sentences still part; their improving is offered, not entered. No method break is found in this comparison. D13 and D36 retain their reached relations with their explaining re-formed. D31's passage from no single part storing learning to learning after any removal remains an unresolved relation; its opening describes learning again, not an unchanged response throughout.
+
+**Next exploring:** Follow D31 at Exhibit SEVENTEEN Natural Biology 8.8: the living body further forming, the particular learning carried, and the described learning again. The sentence about no single part storing the learning does not by itself carry the further saying about removing any part. Follow that changing through the particular selves and their couplings, with the seed comparison's inward and outward priors beside it.
