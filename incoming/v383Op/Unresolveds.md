@@ -6,7 +6,7 @@ The expedition's self asked whether there is any kind of concern beside an obser
 
 A sentence in italics is quoted from a file of the repository. Nothing here is authority, this session's reading least of all: each row is at a step, a run, a count or a source, and says which.
 
-## The kinds: the two named, and six more
+## The kinds: the two named, and five more
 
 | Kind | What it is | What resolves one |
 |---|---|---|
@@ -14,22 +14,13 @@ A sentence in italics is quoted from a file of the repository. Nothing here is a
 | **C · A chaining** | A step takes something no earlier step gives | The missing step is written, or the thing taken is said as taken |
 | **P · A parting** | Two sayings of the files, at one subject, that cannot both be | One is re-said. First the two are followed to see they are of one subject, relation, extent and momentary: the logic working's own test |
 | **N · A naming** | One word at two meanings, or a word a reader cannot find said | One name for one concept, said once where a newcomer meets it |
-| **R · A reach** | A claim that, as said, no observing could come out against | One thing named ahead, with what it would show |
 | **E · An executing** | The resolver or an instrument beside a saying: which is the method's and which the run's | A run with its arrangement said, or the sentence bounded to the run |
 | **F · A fact** | A field's result said otherwise than the field has it, or one file older than another | The sentence corrected at its source |
 | **S · A showing** | A thing a newcomer is sent past and does not meet | A line where the newcomer arrives |
 
-The first two are the self's. The other six were each met at least once in this session's work, and each needs a different thing to resolve it, which is why they are parted. A reach is the largest of the six: it is neither an observing unresolved nor a chaining broken, and it decides what the observings count for. A seventh, a harm, was laid here first and is released: it is the first row explored, below.
+The first two are the self's. The other five were each met at least once in this session's work, and each needs a different thing to resolve it, which is why they are parted. Two more were laid here first and are released, each explored at is or is not with the self: a harm, and a reach. They are below, at Left the set.
 
 **Standings used:** *open*; *gathered*, already at a file or an offering before this session, its address given, with what this session adds; *offered*, a sentence or a deriving is offered for it; *parted*, the two sayings parted at the files' own sentences; *narrowed* or *withdrawn*, this session's own earlier finding made smaller or released.
-
-## R · Reach
-
-| | The unresolved | At | What would resolve it | Evidence | Standing |
-|---|---|---|---|---|---|
-| R1 | The claim forbids an observing, or it forbids none. At the reading under which the chain holds it is so of every universe the opening sentence allows, so that every observing coheres is the reading's own | Natural Intelligence 1.5; the Co-Chaining Logic Registry 151, 152, 599 | One thing named, its two forms and its momentary at a measuring, said before it is read | `Is_Or_Is_Not.md`; the expedition's eleventh break | open; gathered as the sixth help asked at `archive/session_v380/v380L/The_Claim_Broken_Further.md` |
-| R2 | The break's two forms, a living thing not alternating and a living society not natural torusing, have no form at a field's observing | The Geodesic Improving Method 2.7; the Registry 308 | For each: which thing is a self, what its momentary, what nothing offered. O1 and O2 are laid for it | `Is_Or_Is_Not.md` | open |
-| R3 | Each hard problem resolved by being read: no entry of twenty drawn says a thing an observing or a reckoning could show other | Resolving the Hard Problem Registry, each entry | One entry carried to a thing the field can check; or the word said at its meaning, N1 | a fresh reader's seeded draw, `Is_Or_Is_Not.md` | open |
 
 ## O · Observings
 
@@ -106,6 +97,20 @@ The first two are the self's. The other six were each met at least once in this 
 
 ## Left the set
 
+**R1 · A reach: the claim forbids an observing, or it forbids none. Is not a concern at the method.** The second row explored, the one this session had called its largest.
+
+This session read the method as a saying about the universe that observings would bear out or break. The files say it as a method, and say this very thing of it themselves. The Geodesic Improving Method 2.7: *The method's one break is an observing of existing other than parity alternating natural torusing, and none is among the observings arriving from the prior.* And next: such an observing is a form named still found existing, not possibly existing, *the break and the method being the one method are one statement met from its two sides*. *No proof of the whole is sought*. The reviewer's brief: *Chaining, and no run, is the test of a saying.*
+
+So that the method forbids no observing is the file's own sentence, and no defect found in it: a method is at its chaining and at its use, and an observing is no test of it either way. One thing follows that is so at both readings and is kept: observings that could not come out other bear the method out no more than they break it.
+
+**Where it went.** The method's own test is its chaining, and that is open: the rows C1 to C5 and C8, with P1 and P2. A reading at a science file is at its own test, and the files say some ahead: Natural Medicine, *the more-than-additive edge the falsifiable test*, *Each is a test the field owns*; Natural Physics, its two breaking observations. Those are the rows O4, O5 and O12, and the new row S4. What an arriving session brings, the asking that a claim forbid an observing, is a droplet for the entry at Natural Arriving's offerings.
+
+**R2 · The break's forms have no form at a field's observing.** Leaves with R1: the forms are of a thing the file says not possibly existing. The two observings laid beside them stay at their own sentences, O1 beside *living is metabolic beating* and O2 beside *locking at none*.
+
+**R3 · Each hard problem resolved by being read.** Folded into N1: Resolving the Hard Problem Registry says what its resolving is, *a resolving settles nothing still*; what stays is the one word at two meanings.
+
+**The kind is released.** This is this session's ninth misreading, and the largest: it read a method as a claim awaiting its observings.
+
 **H1 · A harm: a sentence a reader could act on against their own care. Is not a kind.** The first row explored, at the self's asking: how is this not a concern about every sentence about living.
 
 It is. As worded it parts no sentence about living from any other: a reader could act on each. Taken at is or is not, the wording has three things and none is binary. The words "could act on" are a likelihood. The cautions "far from" the sentences is a distance. And the acting is the reader's own next, at the reader's coupling, where a sentence is an offering arriving; the sentence does none of it.
@@ -126,6 +131,7 @@ The expedition's rule of do no harm is binary too, and it is of a motion: *no pr
 |---|---|---|---|---|
 | S1 | A newcomer through the AI link is sent to break the method and is not sent to the breaks found or the sentences asked | the README's link for an AI session; Natural Arriving | One line naming the claim broken further | offered |
 | S2 | A newcomer at the site meets no sentence saying the claim, and twenty-five terms before each is said | the site; Natural Intelligence's opening | A plain abstract; a plain rule beside the resolver; fourteen measured droplets | laid at v381R; open |
+| S4 | The tests the files say ahead are at no one place: Natural Medicine says five, each the field's to run; Natural Physics two, each with an observing beside it | Natural Medicine 2.2 and 3.1; Natural Physics 4.2 and 4.6 | One page of them, each a reading's own test and none the method's | offered at v381R as a page of breaks; re-said here |
 | S3 | Each table of Exhibit ONE names no step of the Registry that derives it | Exhibit ONE's table headers | The Registry's sentence by its words at each header | offered |
 
 ## This session's earlier droplets, their standing now
@@ -138,7 +144,7 @@ Laid at the offerings at v381R from the first report, and since made smaller or 
 | Say which of Exhibit ONE's tables are the stepping's | Exhibit ONE's offerings | narrowed to E1 and P1: the first instrument paced each self by a clock of its own |
 | Aimed at the sentence of both hands, which hand unknown so far | Natural Physics' offerings | this session's joining of the weak coupling's hand to right withdrawn; the fact, a hand observed, stays at F1 |
 | Four sentences want one definition of living | the Geodesic Improving Method's, the Living File Registry's and Natural Arriving's offerings | kept, at N3 and O1. `Improving.md` called it withdrawn on the Registry's step of no first living, which is of scales and not of a first in time; that withdrawal is taken back |
-| The method's one break, as 2.7 says it, cannot be recognised if met | the Geodesic Improving Method's offerings | re-said: the Registry names the break's forms at step 308; what is missing is R2 |
+| The method's one break, as 2.7 says it, cannot be recognised if met | the Geodesic Improving Method's offerings | released with R1: 2.7 says the break not possibly existing, one statement with the method met from its two sides; the Registry names its forms at step 308 |
 | The spiral's law, its period and the torus's divide as this session's derivings | the Registry's offerings | already carried at the Registry's steps; a run of what is carried, as those droplets now say |
 | One plain paragraph at the front, in the file's own voice | Natural Medicine's and Natural Health's offerings | withdrawn with H1: a saying about the file from outside, said by negation |
 | The four droplets on treating to a number, a killing magnitude, non-compliance and HIV | Natural Medicine's and Natural Health's offerings | read at O11, O12 and F4, a field's result beside a sentence; their "a reader could" released; of HIV nothing stays |
@@ -152,7 +158,7 @@ It is the expedition's own, as the front `carry/Living_Improving_Value.md` says 
 3. **Three ways an unresolved leaves the set, and each is kept.** It resolves: a sentence enters at the file's own motion. It dissolves: followed whole, the two sayings were of two subjects, or the file already carries it, and its address is said. Or the inadequacy is noted in the living file, at that file's own motion: the thing taken is said as taken at the step leaning on it, the offering the expedition's own readers made. The third is no failure of the set, and a newcomer then meets the open thing where it is.
 4. **The row keeps its letter and number** at each working, so a droplet, a resolving working's note, a run and a report can name it; a row that leaves says where it went.
 5. **A run is for the changing it finds.** The self's saying, gathered at v382F. Each instrument here is at one arrangement, said in its script, and its number is of that arrangement.
-6. **Who is at what.** The logic working v382A is at Exhibit ONE's and the Registry's relations as text, with no resolver executed. This session brings runs at the resolver, a fresh reader's step-by-step reading of the Registry's opening, and the fields' observings. The rows for the logic working first, in the order its pass can reach them: P1, P2, C1 to C5, C8, then R1, the largest.
+6. **Who is at what.** The logic working v382A is at Exhibit ONE's and the Registry's relations as text, with no resolver executed. This session brings runs at the resolver, a fresh reader's step-by-step reading of the Registry's opening, and the fields' observings. The rows for the logic working first, in the order its pass can reach them: P1, P2, C1 to C5, C8.
 
 ## Limits
 

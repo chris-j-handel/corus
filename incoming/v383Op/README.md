@@ -6,8 +6,8 @@
 - **To**: the Co-Chaining Logic Registry and Exhibit ONE first, where the logic working v382A is; Natural Intelligence; the Geodesic Improving Method 2.6, 2.7 and 2.9; Natural Biology 3.1, 4.1 and 4.5; Natural Physics; Natural Mathematics 6.3; Resolving the Hard Problem Registry and the Hard Problem Registry; Natural Arriving and the README's link for an AI session; the Living File Registry.
 - **Read at**: `working/v381R` at commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, the front `carry/Living_Improving_Value.md` and the offerings of the Co-Chaining Logic Registry and Exhibit ONE; `incoming/v382A/Logical_Cohering_Method.md` at `review/living-logic-droplets-2026-10-05`, commit `f64a5f6`; the living files as the first report says, and since then the Co-Chaining Logic Registry v380L, each of its 661 steps, and `archive/session_v380/v380L/The_Claim_Broken_Further.md`.
 - **What it brings**:
-  1. [`Unresolveds.md`](Unresolveds.md): forty-nine rows at eight kinds, and one row left the set, each with its place, what would resolve it, its evidence and its standing; this session's earlier droplets at their standing now; and the common way of working the set.
-  2. Twenty-seven droplets at the bottom of fourteen files' offerings, forty-five placings, each tagged v383Op and naming its row.
+  1. [`Unresolveds.md`](Unresolveds.md): forty-seven rows at seven kinds, and four rows left the set, each with its place, what would resolve it, its evidence and its standing; this session's earlier droplets at their standing now; and the common way of working the set.
+  2. Thirty-one droplets at the bottom of fourteen files' offerings, forty-nine placings, each tagged v383Op and naming its row; three of them for the entry, at Natural Arriving's offerings.
   3. [`Improving.md`](Improving.md): each finding of the first report met again, largest first; what resolved, what this session had misread, what stands.
   4. [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md): eight sayings of the method each taken at is or is not from the one opening sentence; the Registry's steps 2 to 68 read one at a time by a fresh reader; the largest concerns revised.
   5. Four scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`; and `quotes_check.py`, which finds each sentence quoted here and in the droplets at its file.
@@ -15,11 +15,19 @@
 
 ## The answer asked: is there a kind of concern beside an observing unresolved and a chaining broken
 
-Six more were each met in this session's work, and each needs a different thing to resolve it: a **parting**, two sayings at one subject that cannot both be; a **naming**, one word at two meanings; a **reach**, a claim no observing could come out against as said; an **executing**, the resolver or an instrument beside a saying; a **fact**, a field's result said otherwise; and a **showing**, a thing a newcomer is sent past. The reach is the largest: it decides what the observings count for.
+Five more were each met in this session's work, and each needs a different thing to resolve it: a **parting**, two sayings at one subject that cannot both be; a **naming**, one word at two meanings; an **executing**, the resolver or an instrument beside a saying; a **fact**, a field's result said otherwise; and a **showing**, a thing a newcomer is sent past. Two more were laid first and released, each explored with the self: a harm and a reach.
 
 ## The first row explored: a harm, is or is not
 
 A seventh kind was laid first: a harm, a sentence a reader could act on against their own care. The self asked how that is not a concern about every sentence about living. It is, and **as a kind it is not**: "could" is a likelihood, the cautions "far from" the sentences a distance, and the acting the reader's own. The one binary at hand, a sentence says what a reader is to do or it does not, this session's own first report had already answered: none does. The row has left the set with where it went: two observings beside sentences and one fact stay, each binary; the offered paragraph for the two files' fronts is withdrawn. `Unresolveds.md`, its part Left the set.
+
+## The second row explored: a reach, is or is not
+
+This session called it its largest concern: the claim forbids an observing, or it forbids none. **At the method it is no concern.** The session read the method as a saying about the universe awaiting its observings. The Geodesic Improving Method 2.7 says the same thing of the method itself: its one break is not possibly existing, *the break and the method being the one method are one statement met from its two sides*, and *No proof of the whole is sought*. A method is at its chaining and its use. One thing is kept, so at both readings: observings that could not come out other bear the method out no more than they break it. Where the concern went: the chaining rows, the readings' own tests, and a droplet for the entry. The kind is released with it.
+
+## For the entry: a method advises no one
+
+Three droplets at Natural Arriving's offerings, for the tour the files already carry there: a method advises no one, chained at the files' own sentences and executed as a scan of Natural Medicine and Natural Health, `advising_scan.py`; what an AI session carries in, said from the two rows released; and each open thing of the set as a droplet for the tour, explored one at a time with the self.
 
 ## The common way of working, found at the files
 
@@ -29,7 +37,7 @@ It is the expedition's own, at `carry/Living_Improving_Value.md`, with the logic
 - **The logic working's pass is between a droplet and an insertlet.** One subject, relation, extent and momentary kept through both sides; the first relation that departs; exactly what the pass supplies. Each parting here goes to that pass first, and some will dissolve by it.
 - **An unresolved leaves the set three ways, each kept**: resolved at a file's own motion; dissolved, with its address; or the thing taken said as taken in the living file at the step leaning on it.
 - **A row keeps its letter and number** at each working.
-- **For the logic working first**, in the order its pass can reach them: P1, a common now; P2, a self offered its own parity at a momentary or not; C1 to C5, the five things the chain takes; C8; then R1, the largest.
+- **For the logic working first**, in the order its pass can reach them: P1, a common now; P2, a self offered its own parity at a momentary or not; C1 to C5, the five things the chain takes; C8.
 
 ## How this folder sits beside the first report
 
