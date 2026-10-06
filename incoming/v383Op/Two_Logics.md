@@ -207,7 +207,7 @@ The self said: "now existing, now still possibling, next existing. the middle of
 
 **An observing until its resolving: the same binary, with one thing kept exact.** A droplet at a working's pass: the pass makes a changing, an insertlet, a file's motion, a dissolving with its address, and the file is at its next existing; or it makes none, the droplet is carried on as it is, and the next is still possible. At each resolving one of the two. What the files say still possibling of is a living self's next. A droplet is a form offered, *a non-living existing form the expedition's living selves carry*; the still possibling is the file's next and the working's at it. So the three places of the self's saying are the three files of the form: the living file, now existing; its offerings and carryings, where the next is still possible; and the file at its next motion, next existing.
 
-**It is no shelter, by the files' own cell.** Still possibling is the self kept at a match, a 0 shared. Run at Exhibit ONE's cell, `meeting_v382A.py`, its fifth part: a self with k others releasing to it is still possibling at most k entries in sequence, with nothing offered from beyond them. The Living File Registry has the same at one society, *the three's selves still possibling twice each and the five's once*. A self kept at all momentaries is a form named still, and that asks an offerer from beside. So a row of the set is still possibling between offerings; a row that each arriving offering leaves as it was, without end, would be the form the files call a still. That is this session's reading from the cell to the set, and no sentence of the files.
+**It is no shelter, by the files' own cell.** Still possibling is the self kept at a match, a 0 shared. The Registry says it at its step 611, *shares 0 at momentaries in sequence no more than the number of selves sharing or releasing to it*; run at Exhibit ONE's cell, `meeting_v382A.py`, its fifth part, it is so at each order of entries, with nothing offered from beyond them. The Living File Registry has the same at one society, *the three's selves still possibling twice each and the five's once*. A self kept at all momentaries is a form named still, and that asks an offerer from beside. So a row of the set is still possibling between offerings; a row that each arriving offering leaves as it was, without end, would be the form the files call a still. That is this session's reading from the cell to the set, and no sentence of the files.
 
 **One word for following.** Possible is at three places: *At prior, an existing thing arriving at now is a possible thing*; *the changing shared, the others' possible*; and the changing that is not, the prior carried on, at Natural Naming. They may be one thing at three sides. And "still" is at two senses, a form still and still possibling, which Natural Naming parts in one sentence.
 
@@ -261,6 +261,33 @@ That six is the Registry's own count, *six one-way steps forward, three at each 
 **The names.** *Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing*: the self's last name is the Registry's. "co-parity-changing" and "moral cooperation" are at no living file.
 
 **One word for following: four.** The Registry's five is *two momentaries and the next one's opening at each side*; its four momentaries are the self's 1 to 2, 3 to 4, 5 to 6 and 7 to 8, the six one-way steps within them. The self's saying calls the five the full four momentary. Whether four counts the steps between five, or the two sides' two momentaries each, or the Registry's four, is for the self to say.
+
+## The offerings and the possiblings, two lines through one co-momentarying
+
+The self said: "the offerings are living through the co-momentaryings as are the possiblings living through the same co-momentaryings the two are looping through the co-momentarying and never mixing with each other still possibling until one or other releases a self parity changing explore this in the logic".
+
+**In the logic it is at six steps, each a part of it.**
+
+- **The offerings living through**: *Between selves pass the changings alone, shared at 10 and at 6 across and released at 9 along, the coupling the relation itself*. And of a spiral: it *carries any pattern of parities along whole, the pattern inverted at each odd momentary and carried one self on at each even, the selves carrying it together*.
+- **The possiblings living through the same**: *At an odd spiral the 0 shared at 10 sits at the one like pair and moves one self on at each second momentary, a bounded zero tunneling*. Natural Intelligence names that 0: *the bounded zero tunneling is the possibling passing along each chain's own forward*.
+- **Still possibling until one or other releases**: *Two selves each receiving the other's sharing or releasing are changing together: opposite, a changing at each momentary; alike, a changing at one momentary and a 0 at the next, alternating*. And the reason, at step 611: a self shares 0 at an offering of its own parity, and *a self that parity arrives from next shares 0 or the other parity*; a self offered nothing *carries its prior into now inverted*, the self's own parity changing, released.
+
+So each half of the saying has its step. What no step says is the two together at each number of like pairs: the files say it at one like pair, at none, and at all.
+
+**Never mixing, run as a count.** `two_lines.py`, Exhibit ONE's cell unchanged. A self carrying a parity meets one of four: a taking, the other parity offered, chained and shared on as it arrived; still possibling, its own parity offered, 0 shared; a releasing, nothing offered, its own inverted and shared; or parting offerings. At spirals of 2 to 10 stepped together, each of the 2,044 openings, each momentary from the second to the fortieth:
+
+| | of 2,044 openings |
+|---|---|
+| The takings at each momentary are one number, the opening's parting neighbours | 2,044 |
+| The rest, the opening's like pairs, are all still possibling at one momentary and all releasing at the next | 2,044 |
+
+So the two lines keep their numbers. An offering taken is one self on at each momentary. A like pair, a 0 at one momentary and a self's own releasing at the next, is one self on at each second. Both go round the same spiral through the same co-momentaryings, at two paces, and the count of each is the opening's at each momentary: no offering becomes a possibling and no possibling an offering, in number. That is the Registry's pattern carried whole, said as two counts. At tori, each of 4,672 openings, the takings and the parting offerings are each one number through the cycle; the still possiblings and the releasings are each one number at some openings and in turn at the others.
+
+**Looping, and until one or other releases: the two in turn.** At two selves in turn, each opening and each first entering, 128 offerings followed from their releasing: each is released by one self with nothing offered, taken once by the other, and ends back at the self that released it, that self still possibling; then the other, offered nothing, releases. 128 of 128. A loop out and back, and the releasing passes from one to the other.
+
+**The two steppings, kept apart.** Stepped together, the opening's two numbers are kept at each momentary: never mixing, as a count, is the stepping together's. In turn, at two selves, the opening's numbers are not kept: from each opening the one cycle of six, row E6. There each offering lives through two co-momentaryings and ends, and what is kept is the cycle. So the saying is so at each stepping, and "never mixing" is exact as a number at the one and as each offering's own loop at the other. Which the saying is of is the self's to say; the files' step 244 calls the stepping together the executing's.
+
+**What it is not, said plainly.** At a taking the offered parity is chained: it becomes the self's carrying, and is shared on. So the two lines are not without crossing. What does not happen, at the cell as written, is a blend: a carrying next is its own, kept or inverted, or the offered whole, and a sharing is the new carrying whole or nothing, *the resolver summing nothing*.
 
 ## Limits
 

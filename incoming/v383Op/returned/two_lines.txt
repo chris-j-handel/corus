@@ -1,0 +1,40 @@
+1  Spirals stepped together, every opening, each momentary from the second to the fortieth
+                  openings      takings at each momentary the opening's   the rest all still possibling at one momentary
+                                                     parting neighbours                    and all releasing at the next
+   spiral of 2           4                                            4                                                4
+   spiral of 3           8                                            8                                                8
+   spiral of 4          16                                           16                                               16
+   spiral of 5          32                                           32                                               32
+   spiral of 6          64                                           64                                               64
+   spiral of 7         128                                          128                                              128
+   spiral of 8         256                                          256                                              256
+   spiral of 9         512                                          512                                              512
+   spiral of 10       1024                                         1024                                             1024
+   together           2044                                         2044                                             2044
+
+2  A spiral of 7 opened + + - - - + -, three like pairs and four parting: what each self shares, and which of the four it met
+   momentary  1   shared  - - + + + - +      met  R R R R R R R
+   momentary  2   shared  + 0 - 0 0 + -      met  T . T . . T T
+   momentary  3   shared  - + + - - - +      met  T T R T R R T
+   momentary  4   shared  + - 0 + 0 0 -      met  T T . T . . T
+   momentary  5   shared  - + - - + + +      met  T T T R T R R
+   momentary  6   shared  + - + 0 - 0 0      met  T T T . T . .
+   momentary  7   shared  - + - + + - -      met  R T T T R T R
+   momentary  8   shared  0 - + - 0 + 0      met  . T T T . T .
+   momentary  9   shared  + + - + - - +      met  R R T T T R T
+   momentary 10   shared  0 0 + - + 0 -      met  . . T T T . T
+   momentary 11   shared  - - - + - + +      met  T R R T T T R
+   momentary 12   shared  + 0 0 - + - 0      met  T . . T T T .
+   each offering taken is one self on at each momentary; each like pair, a 0 at one momentary and a releasing at
+   the next, is one self on at each second momentary; and the number of each is the opening's at each momentary.
+
+3  Two selves in turn, each opening and each first entering: each offering from its releasing to its end
+   offerings released: 128; ended at a self still possibling: 128; takings each had lived before its end: 1: 128 offerings;
+   ended at the self that released it: 128
+   each offering is released by one self with nothing offered, taken once by the other, and ends back at its
+   releaser, still possibling; then the other, offered nothing, releases.
+
+4  Tori stepped together, every opening, momentaries 81 to 160: each of the four one number at each momentary
+   torus 2 by 3:    64 openings; takings one number:    64; parting offerings:    64; still possiblings:    62; releasings:    62
+   torus 3 by 3:   512 openings; takings one number:   512; parting offerings:   512; still possiblings:   126; releasings:   126
+   torus 3 by 4:  4096 openings; takings one number:  4096; parting offerings:  4096; still possiblings:  2870; releasings:  2870
