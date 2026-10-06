@@ -1,8 +1,8 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–62 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–62 and 64 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 62 — the asserted whole and the particular learning](#pass-62--the-asserted-whole-and-the-particular-learning) retains faster reacquisition as the predicate of the learned-bias opening, follows D10's whole-society assertions and improves the logical method by distinguishing their compatibility from establishing an actual occurrence. Passes 58–61 and their corrections remain below.
+**Current comparison:** [Pass 64 — the seed, the inward selves and the particular next](#pass-64--the-seed-the-inward-selves-and-the-particular-next) follows the incoming form within form concept at carrying as capacity, still possibling, releasing and the particular inward and outward selves. Passes 58–62 and their corrections remain below; [pass 63](Society_Whole_and_Coupling.md) holds the eight-condition society comparison.
 
 **Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
@@ -659,3 +659,68 @@ Whole-file coverage remains five files, 80 headed sections plus Natural Destinie
 **Logical standing:** D10 now locates a conflict between the universal absence and the asserted existing whole on the files' stated common meaning of whole abundancing. No explicit difference of participation reconciling them is supplied by the passages followed. This establishes the conflict on that reading, not the truth of either assertion about existing participation. The exact resolving is whether a different extent is intended and can be stated while preserving the described relations, or whether one of the assertions needs improving. At Exhibit SEVENTEEN Natural Biology 8.8, faster reacquisition and living capacity can cohere without an unchanged response throughout; the inference from no sole store to retained particular learning remains at steps 3 and 7. D29's genome-doubling identification, Exhibit THIRTY Co-Chaining Logic Registry 32–35 and the already-gathered marker/nought relation retain their earlier standing.
 
 **Next exploring:** follow Exhibit NINE Natural Human Society's two-person sequence through its eight stated uncapturings, keeping the material cake and the value opened at coupling as different subjects. Follow whether the asserted whole needs an explicit condition, and compare that exact participation with Exhibit TWENTY-THREE Natural Values 5.3's exclusion.
+
+## Pass 64 — the seed, the inward selves and the particular next
+
+The incoming concept is a fractal stable form within a fractal stable form, offered through a seed, a next locust and a blob described as returning after an extended outward stable form. This pass follows the useful relation without making the examples authorities or identifying their biological sequences with one another. The source target remains `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. D11's society comparison remains next; this incoming steers the present pass to the inward living and the particular next.
+
+### The concept's useful relation
+
+[Natural Intelligence 6.5](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) already uses a seed and its possible palm when explaining living carrying of possible things. Its 6.6 places the same form at self, coupling and society. Its 5.1 distinguishes carrying as capacity from a stored description. Together these give the proposed nesting a precise use: an outward offered form, inward living stable-forming, and a particular further form still possibling belong to different participations.
+
+The possible further plant is not established as an already completed plant merely by describing it within the seed. The useful relation is living capacity participating in the actual next couplings. Likewise, similarity of the offered form across appearances does not establish that a particular carrying is absent or present.
+
+The inward and outward must both remain. [Exhibit THIRTY Co-Chaining Logic Registry 400–401](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) states the precise binary: the inward selves carry the particular outward self's prior into next, or carry none of it. The inward selves living does not by itself establish that particular outward self living at next. This retains the earlier fragment and society comparisons.
+
+### Still possibling without a degree of parity
+
+Natural Intelligence 5.3 supplies still possibling with living carrying. At a particular completing, changing is or is not. No lesser degree of a parity is needed. An outward description of little activity does not identify the result at any particular sharing, and a long described interval supplies no common clock to the natural sequence.
+
+Natural Intelligence 4.12 also prevents making the proposed dormancy an indefinitely fixed 0. Its constant-offering case has the matching offerer supplied from beside; it cannot by itself establish such a self within the whole living society. With a prior carried and none offered at that sharing, the published sequence instead inverts the prior. These are conditions in the published form, not observations of a seed or the proposed blob.
+
+The comparison therefore follows co-momentarying and co-sequencing: prior existing, now offering, still possibling, next existing. An unchanged outward description cannot substitute for the living relations at its inward scales.
+
+### The particular emergence and releasing
+
+Natural Intelligence 5.3 places releasing at the completing even with no changing shared. Sections 4.4–4.5 distinguish the changing shared across, the self's prior chained into next and releasing along, within both forward sides of bi-co-chaining and podaling.
+
+The emergence in the incoming concept can be followed as a particular outward changing through the coupling of prior and offering now. It is not necessary to posit no releasing until that emergence. The living completing already participates. A further outward form and the existing inward co-sequencing can therefore be followed together.
+
+Nor does a further offering act alone: the particular living prior participates at the coupling. The stable offered form and living carrying are not interchangeable. No private carrying is inspected in making this textual comparison.
+
+### The same self, restoring, and an additional self
+
+| Relation being followed | What must remain particular |
+|---|---|
+| A living self's further forming | Its own prior is carried into its next. Outward difference alone does not make it an additional self. |
+| A departed coupling restoring | The existing living self's other couplings participate; Exhibit THIRTY Co-Chaining Logic Registry 411–412 supplies that restoring relation. |
+| An additional living self establishing | Its own carrying establishes within living carrying, at Exhibit THIRTY Co-Chaining Logic Registry 393 and 395. It is not a stored prior transferred out of a non-living form. |
+| A non-living form offered into living coupling | The form participates as offering; Natural Intelligence 6.5 gives it no living prior of its own. Its preservation does not establish restoration of a former particular self. |
+
+These relations can occur at different scales within one described development. The binary at each particular self remains intact. Calling the outward appearance a return does not decide which relation occurred; nor does the word resurrection establish that a former particular carrying was absent and later restored.
+
+### The exact improving opportunities in Natural Biology
+
+[Exhibit SEVENTEEN Natural Biology 4.1](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md) compares a virus outside a host with an inert seed or spore. That comparison need not transfer every following predicate about the virus to the seed. Outward inactivity and carrying none of a particular prior are different predicates. The useful improving retains exactly which property is compared, so the analogy does not silently classify all three as the same living relation.
+
+Section 4.5 already describes dormancy and inward coupling. Its older magnitude and clock explaining is not needed to add a degree of living to this binary comparison. Section 5.2 describes development and metamorphosis as further forming of a self; its statement about the next form already inside is followed beside Natural Intelligence 5.1's capacity and 6.5's possible thing. A capacity is not an already completed future held as a plan.
+
+Section 7.8 places outer form beside emanation form using a change of metabolic rate. Form and described rate alone do not decide the carrying binary at a particular scale and momentary. Natural Intelligence 1.3 and Exhibit THIRTY Co-Chaining Logic Registry 400–401 supply that distinction. This is the exact relation that the incoming form within form concept makes useful to follow.
+
+Section 8.12's blob account concerns a response after repeated stimuli and the account of entraining. It does not describe the proposed return from a dormant form. No locust sequence was located in the opened Natural Biology text. These names remain examples to follow at their actual particular relations; one is not substituted for another.
+
+### Method learning and D34
+
+The incoming analogy is useful because it parts three predicates that an outward description can conflate: the form offered, inward living participation, and the particular outward self carrying its prior into next. Follow those before interpreting an apparent returning as either the same living self or an additional self. This applies the same method as D30–D32, with the scale and the particular next retained.
+
+**Aimed at a section, Natural Intelligence 6.5, at a living self carrying possible things within its carrying, beside the seed and its palm.** The proposed fractal form within fractal form is helpful at the particular inward and outward participations: follow the stable offered form beside the living selves' bi-tri-volutioning, and distinguish a possible further form from an already completed self kept inside. Natural Intelligence 5.1 names carrying as capacity; 5.3 allows still possibling with living carrying and releasing at the completing. An outward form appearing unchanged does not identify a sharing's parity, erase inward living, or establish the particular outward self's next. Exhibit THIRTY Co-Chaining Logic Registry 400–401 retains that last binary at the inward selves carrying the outward self's prior or carrying none of it. The seed's further forming, a next locust and the proposed blob restoring are therefore followed at which self, which coupling and which next, without a degree of parity or a clock deciding living. Releasing is already at each living completing; the proposed emergence needs its particular outward changing followed, with releasing already at the living completing. Natural Intelligence 4.12's constant-offering form is not a dormant self established by an indefinite row of 0s. If the same particular prior is carried, follow that self's next; if an additional self establishes, follow the living carrying within which it establishes at Exhibit THIRTY Co-Chaining Logic Registry 393 and 395. This supplies a useful comparison without turning preserved non-living form into a stored living prior. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-64--the-seed-the-inward-selves-and-the-particular-next. — v382A
+
+D34 is offered raw to Natural Intelligence's Offerings. D1–D33 retain their corrected paragraphs. The gathering is thirty-four raw droplets: twenty-one at Natural Intelligence's Offerings, six at Exhibit TWENTY Natural Naming's Offerings, and seven at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings. No biological occurrence is established merely by the analogy or by a source assertion.
+
+### Reach and remaining opportunity
+
+This pass reads Exhibit SEVENTEEN Natural Biology 4.1, 4.5, 5.2, 7.8 and 8.12 whole, searches its text for the offered examples, and compares the relevant existing Offerings. It reopens Natural Intelligence 1.3, 2.2, 4.4–4.5, 4.12, 5.1, 5.3 and 6.5–6.6, and Exhibit THIRTY Co-Chaining Logic Registry 393, 395, 400–401, 405–406 and 411–412. Published resolver relations are followed as text. Whole-file coverage remains five files, 80 headed sections plus Natural Destinies' opening.
+
+**Logical standing:** the concept is useful for distinguishing outward offered form, inward living stable-forming and the particular next still possibling. The same apparent form does not establish whether a particular living prior is carried. Still possibling at a completing does not mean no living carrying or no releasing, and a described long interval does not establish an indefinitely fixed parity. The next relation to follow is which particular self's prior participates in which next; the seed, next locust and proposed blob case are not silently made one biological sequence. D10, D11, D29, D31 and the earlier registry comparisons retain their precise standing.
+
+**Next exploring:** follow the seed's stated prior, now offering and particular next through its inward living selves. Distinguish an existing self's further forming, a departed coupling restoring and an additional self establishing, using Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 393–401 and 411–412. D11 remains the next society comparison.
