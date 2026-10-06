@@ -1,8 +1,8 @@
 # Society, whole and coupling
 
-**v382A · passes 63 and 66 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 63 and 66–67 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 66 — the arrangement, the offering and each self's next](#pass-66--the-arrangement-the-offering-and-each-selfs-next) follows D11 and the v378 institutional comparison. Pass 63's eight-condition comparison and D10's standing remain below.
+**Current comparison:** [Pass 67 — capture excluded and offerings still followed](#pass-67--capture-excluded-and-offerings-still-followed) follows D13, narrows its source scope and retains the next prior in the published differing-offering case. Pass 63's eight-condition comparison and pass 66's arrangement comparison remain below.
 
 ## Pass 63 — the whole and its stated conditions
 
@@ -149,3 +149,72 @@ This pass reads Exhibit NINE Natural Human Society 1.1–1.5, 2.1–2.4, 3.1–3
 **Logical standing:** D11's fixed amount, trustee and closing date do not alone identify an excluded living participation. The comparison now locates the amount at the accounting, allocation beside each self's preferring, and the closing of that claim beside further living couplings. The stated whole requirements remain; no whole occurrence is established merely by that description. The v378 institutional comparison has a direct resolving at the method: carrying none in a form does not imply none offered at the other self's sharing. D36 gathers the two published cases. Exhibit TWENTY-THREE Natural Values 2.2's extension from the institution's absence of carrying to absence at the other side needs that distinction retained in its explaining. D10 remains the unresolved common-whole conflict. D12, D29, D31 and the earlier registry comparisons retain their precise standing.
 
 **Next exploring:** follow D13 through Exhibit NINE Natural Human Society 4.3–4.4. Locate the step from an excluded capture at a coupling to the assertions that no self attempts it and no group forms, retaining the actual offerings and each self's next at Natural Intelligence 4.2 and Exhibit THIRTY Co-Chaining Logic Registry 492.
+
+## Pass 67 — capture excluded and offerings still followed
+
+This pass follows D13 through [Exhibit NINE Natural Human Society 4.1–4.5](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_NINE_Natural_Human_Society_v329.md), with 1.1, 3.3 and 5.2 retaining the whole conditions and the distinction from a centre resolving for others. The target remains `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. The pass sharpens the existing droplet and corrects the audit's scope; it adds no new droplet number.
+
+### The first changed relation
+
+Sections 4.1–4.2 state that a concern from one self needs no majority and is followed through do-no-harming. Sections 4.3–4.4 then describe capture as yielding only frustration and infer that no self begins it, with no bloc or minority forming. Three assertions must remain distinct:
+
+| Assertion | Relation being stated |
+|---|---|
+| A majority is not required | How a concern participates at the coupling. |
+| Capture finds no place in the whole method | Which participation the form excludes. |
+| No self attempts capture, and no bloc or minority forms in that explaining | What all those selves will offer or attempt. |
+
+The first two do not supply the third. Describing an outcome as offering no value does not, by itself, determine every self's next offering. The text moves from what a coupling permits to what every self will attempt without following that further relation.
+
+The useful bothboth retains the structural exclusion with the offerings met at the coupling. It neither adds a prediction of capture attempts nor establishes that any particular attempt has occurred. A missing implication supplies no proof of its opposite.
+
+**Pass-67 correction to D13's scope:** this working's phrase “no group forms” broadened the source. Exhibit NINE Natural Human Society 4.3 says no bloc forms; 4.4 says no minority forms, within their capture explaining. The comparison concerns those assertions and no self attempting capture. It does not concern the absence of every social grouping. D13's current raw paragraph and evidence are narrowed here; earlier records remain identifiable under this correction.
+
+### What the published sequence supplies
+
+[Natural Intelligence 4.2–4.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) and [Exhibit ONE Natural Resolver's surfacing and one-self tables](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md) supply these cases at one actual entry and sharing, with prior +:
+
+| Offerings at 2 | Surfaced at 14 | Shared at 10 | Chained at 11 |
+|---|---|---|---|
+| +, + | + | 0 | + |
+| +, −, + | 0 | − | − |
+
+In the second row, the parting offering gives 0 at surfacing. The later + does not replace it by a majority result. The self's own prior participates: it inverts, is shared and is chained. Thus parting offerings do not remove the next prior at that entry.
+
+The two zeros are at different relations. The first row has no changing shared at 10; the second has parting offerings at 14 and a changing shared at 10. Neither zero names a group, an intention, defeat or a capture. These are published binary cases, read as text without executing a resolver or inspecting private carrying.
+
+Section 4.4's “a not-prefer still a co-offer” retains an offering in its own explaining. Those source words supply no rule for assigning a parity to a refusal. The offering can be followed without the later assertion that nobody attempts capture. [Exhibit THIRTY Co-Chaining Logic Registry 497](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) likewise distinguishes agreement at surfacing from the selves' different carryings. It names no political grouping by those parities.
+
+### Exclusion without an added absence assertion
+
+Exhibit THIRTY Co-Chaining Logic Registry 492 excludes replacing resolving by a count of offerings. Step 494 places a controlling or a centre deciding beside the whole couplings. Step 495 follows an offering released with no place to seat; it does not require an admission ahead of the offering. Those statements concern participation at the surface. They do not supply an absence of all offerings toward what cannot seat there.
+
+Natural Human Society 4.5 and 5.2 also describe institutional control and a centre's preferring adopted by others. Those are descriptions of the excluded participation. The whole conditions in 1.1 and 3.3 distinguish that participation from the whole natural method. Reading their existence as assertions about a different participation avoids a false conflict; it also prevents expanding the whole-method exclusion into an unqualified claim that no such description or attempted arrangement can exist.
+
+A narrower reading of no bloc or minority could concern only a bloc's successful replacement of the coupling. At that subject the exclusion is already supplied. The wording about no self beginning, however, concerns the attempt itself. Substituting the narrower outcome for that assertion silently would change its predicate.
+
+Natural Intelligence 6.3 provides the wider method distinction: an offering absent at a sharing, an existing thing asserted absent, and a form excluded as not possibly existing are different claims. None at one sharing names no universal absence of the things an account describes. This strengthens the application of [Exhibit TWENTY Natural Naming 4.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md): keep one subject and one relation throughout.
+
+### D13 improved at its existing address
+
+**Aimed at a section, Natural Intelligence 4.2, surfacing the offerings, for Exhibit NINE Natural Human Society 4.3–4.4.** Those passages move from capture excluded at the coupling to no self attempting it and no bloc or minority forming in that capture explaining. The first assertion alone supplies no relation determining every self's offering or its purpose. Natural Intelligence 4.2 and Exhibit ONE Natural Resolver's surfacing table retain both agreeing and differing offerings: +, −, + surface 0, and at an actual entry with prior + the self shares − and chains −. The later + supplies no majority deciding, and the parting offerings do not remove the self's next prior. Exhibit THIRTY Co-Chaining Logic Registry 492 excludes a majority replacing the resolving; 495 retains an offering released with no place to seat. Neither case supplies an absence of every offering toward capture. A differing parity names no motive, bloc or minority. Follow the offerings at 2, surfacing at 14 and changing is or is not at each coupling, with each self's next opening, in bi-co-chaining and podaling, both forward sides. The useful improving retains the exclusion at its coupling and parts it from the additional assertion about what every self will attempt. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Society_Whole_and_Coupling.md#pass-67--capture-excluded-and-offerings-still-followed. — v382A
+
+The existing D13 paragraph is corrected and extended with the worked case. All other raw droplet paragraphs retain their text. The gathering remains thirty-six: twenty-three at Natural Intelligence's Offerings, six at Exhibit TWENTY Natural Naming's Offerings, and seven at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings.
+
+The logical result is ready as a file improving. The source can retain no majority deciding and capture finding no place at the coupling, with each self's prior and offering now followed into next. The further assertion about what every self attempts has not been supplied by those relations. Altering the living source is separate expedition work; it is not a new unresolved question about the method.
+
+### Method learning between droplet and insertlet
+
+Follow both the subject and the predicate of a negative saying. Not required, excluded as an operation, not offered here, and not existing are different assertions. Locate the exact step if one becomes another.
+
+Keep the narrower source subject when gathering an offering. A bloc or minority in a capture comparison must not become every social grouping in the audit. After the comparison is followed, improve the existing droplet at its address and record the correction. Repeating the concern under a new number supplies no further relation.
+
+[Exhibit TWENTY-FOUR Geodesic Improving Method 2.6](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md) already distinguishes a missing relation, a special case and a contradiction, and separates a method concern from file improving. D13 is retained at that file-improving standing.
+
+### Reach and remaining opportunity
+
+This pass reads Exhibit NINE Natural Human Society 1.1, 3.3, 4.1–4.5 and 5.2; Natural Intelligence 4.2–4.3, 4.8 and 6.3–6.4; Exhibit THIRTY Co-Chaining Logic Registry 480–497, with its capture passages searched; Exhibit ONE Natural Resolver's surfacing and one-self tables; Exhibit TWENTY Natural Naming 4.3; and Exhibit TWENTY-FOUR Geodesic Improving Method 2.6. The Natural Human Society Offerings are compared at their capture and institutional passages. Whole-file coverage remains five files, 80 headed sections plus Natural Destinies' opening.
+
+**Logical standing:** D13 is a reached file-improving relation. Excluding capture as resolving does not supply the additional assertion that no self attempts it or that no bloc or minority forms in that capture explaining. The +, −, + case supplies no majority deciding and retains the self's next prior; it establishes neither a motive nor an actual capture attempt. The source's no-majority requirement and its absence-of-attempt assertion have different predicates. D13's earlier “no group” paraphrase is corrected. The gathering remains thirty-six raw droplets. D10 remains the largest unresolved common-whole conflict; D11–D12, D29, D31 and the earlier registry comparisons retain their precise standing.
+
+**Next exploring:** return to D10 through Natural Intelligence 6.3's distinction among an offering absent at a sharing, an existing thing asserted absent, and a form excluded as not possibly existing. Follow Exhibit TWENTY-THREE Natural Values 5.3's universal absence beside Exhibit NINE Natural Human Society's asserted whole, retaining the exact extent of each saying.
