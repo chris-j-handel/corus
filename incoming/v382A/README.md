@@ -1,10 +1,10 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 51, with the price wording corrected on 6 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 52, with the preceding naming and price corrections retained, 6 October 2026.
 
 **Aiming into:** Natural Intelligence, **6.4 Social moral competency**, **6.1 Bi-co-momentarying** and **6.6 One form at each scale** and **5.1 A prior between momentaries**, through the bi-co-chaining, podaling and term neither reaches.
 
-**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3–D8 are at Natural Intelligence’s Offerings.
+**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3–D9 are at Natural Intelligence’s Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
@@ -20,8 +20,9 @@
 | D6 | Natural Intelligence 6.6: the file’s explaining, the particular society and next opening, applied to Natural Values 5.3 | [D6 below](#d6) |
 | D7 | Natural Intelligence 5.1: prior existing, now offering, still possibling, next existing; applied to Natural Values 1.2 | [D7 below](#d7) |
 | D8 | Natural Intelligence 6.1: two exclusions and the natural coupling; price retained as the accounting expression under comparison in Natural Values 1.2 | [D8 below](#d8) |
+| D9 | Natural Intelligence 5.1: actual restoring at a coupling, applied to Natural Human Society 4.6 | [D9 below](#d9) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. Their corrections and new offerings belong to the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. D9 applies THIRTY’s restoring relation to Human Society 4.6 in pass 52. Their corrections and new offerings are gathered at the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -253,14 +254,69 @@ D8 is corrected at its existing paragraph and evidence. This is a correction wit
 
 D8 offers the Values 1.2 distinction beside Natural Intelligence 6.1. The Values 5.3 universal-absence gap stays gathered with D6. No new binary contradiction is established by this bounded comparison.
 
+## D9
+
+**Aimed at a section, Natural Intelligence 5.1, the prior participating at the coupling, for Natural Human Society 4.6.** A living carrying is the prior participating at its coupling; a record apart from that coupling carries none of the prior, THIRTY 297–298. Natural Naming 4.1 and 5.47 keep the accounting at its stated relation. THIRTY 411–412 follows a particular departed coupling beside the self’s other living couplings: restoring is that coupling alternating at next, the living couplings carrying the form to it. Follow Human Society 4.6’s restoring at this actual participation. A ledger correction alone supplies no such alternating. The whole self’s living next is a further subject: THIRTY 400–401 follows its particular prior through its inward selves. A departed coupling does not by itself establish the whole self’s dying. Prior existing, now offering, still possibling, next existing remain within self, other and society, both forward sides of bi-co-chaining and podaling, along and across. Evidence: [D9](../incoming/v382A/README.md#d9). — v382A
+
+### The accounting and the natural restoring
+
+The comparison is at `working/v381R`, pinned to `b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217`. [Natural Human Society 4.6](https://github.com/chris-j-handel/corus/blob/b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217/Exhibit_NINE_Natural_Human_Society_v329.md) describes a net-worth change as a carry, then names a ledger correction as restoring living currency. Its surrounding 4.5 distinguishes the substrate's accounting from the living form; 3.3 sets aside a ledger over a self. Those distinctions do not make a correction to the accounting a restoring at a living coupling.
+
+| Passage | Particular relation |
+|---|---|
+| [Natural Naming 4.1 and 5.47](https://github.com/chris-j-handel/corus/blob/b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217/Exhibit_TWENTY_Natural_Naming_v380R.md) | A field's expression retains its conditions. An accounting is at its ledger; its use does not supply a living self at an opening. |
+| [Natural Intelligence 5.1](https://github.com/chris-j-handel/corus/blob/b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217/Natural_Intelligence_v380R.md), [THIRTY 297–298](https://github.com/chris-j-handel/corus/blob/b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | Living carrying is the prior participating at the coupling. A record apart from that coupling carries none of the prior. |
+| THIRTY 411 | A particular departed coupling and the self alternating at its other couplings are distinct participations. |
+| THIRTY 412 | Restoring is the departed coupling alternating at next, the self's living couplings carrying the form to it. |
+| THIRTY 400–401 | The whole self's living next retains its particular prior through its inward selves. Departure at one coupling does not supply absence of that whole participation. |
+| Natural Intelligence 3.3 and 6.4 | Each completing, next opening and changing at a coupling is within bi-co-chaining and podaling; there is no additional ledger operation in that resolving. |
+
+The positive improving is available: follow the actual departed coupling, the living couplings around it and its next alternating. If the sentence concerns the whole self's next living, follow that particular outward prior through the inward selves. The coupling's restoring and the whole self's next living keep their subjects.
+
+This does not assign a monetary amount to a parity, rename a numerical ratio as carrying, or make one unchanged parity a departed coupling. Still possibling remains living participation. A written form can participate as an offering; that possibility alone does not establish a particular coupling's restoring.
+
+The ledger-to-restoring inference is unsupported if ledger means only its accounting. The natural relation needed for an improving is already explicit at THIRTY 411–412. D9 gathers its new application to Human Society 4.6; it does not add a new operation or claim that every offering restores a coupling. The source wording awaits later improving; that pending edit is not another unresolved natural relation.
+
+### What is new in this droplet
+
+D8 corrected this audit's adoption of recorded price in the natural explaining. D9 follows a different sentence: Human Society 4.6's claim about restoring. The published restoring relation supplies the positive explaining, with a particular departed coupling distinguished from the whole self's dying.
+
+The current Human Society and Values Offerings already gather older currency resettling proposals and naming scans. D9 adds this coupling-level logical application; it does not repeat those scans or backfill earlier passes.
+
+## Remaining opportunity after pass 52
+
+The current root contains 33 living files: thirty exhibits, Natural Intelligence, Corus and Natural Arriving. This is a file inventory, not a count of completed audits. The fifty-two passes have followed ONE and THIRTY through targeted relations across the set; they have not completed a whole-file logical pass of every living file.
+
+[Living File Registry 3.1–3.3 and 5.6](https://github.com/chris-j-handel/corus/blob/b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217/Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md) already gathers the files by their shared subjects and changings. The rows below use those gatherings for the remaining audit, with a file appearing at each relation it participates in. Natural Arriving's current body remains a shell with one written opening.
+
+| Gathering | Files | Remaining binary work |
+|---|---|---|
+| Existing, resolving and numbered forms | Natural Intelligence; ONE, THREE, FOUR, THIRTY | Retain each published form's conditions, scale and actual coupling when following wider claims. The finite form and a universal assertion require their stated relations; a number's recurrence does not replace next existing. |
+| Self, society and value | SEVEN, NINE, TWENTY-THREE, FOURTEEN | Carry D9's actual restoring into the social explaining. Follow the whole-society scope of Values 5.3 beside the positive social-coupling claims, preserving the particular outward prior. |
+| Coupling, networking and making | ONE, TWO, FIVE, SIX | Carry the gathered offering and surfacing cases into each proposed network and made form. Follow the actual couplings around an absence and keep shared changing distinct from living carrying. This audit remains a reading of published logic. |
+| Physical, chemical and biological changing | EIGHTEEN, SIXTEEN, SEVENTEEN, TEN, ELEVEN | Follow living carrying, fixed non-living form, same-scale complementarity, inward ingesting and restoring at their actual scales. The established same-scale harm explaining is retained. |
+| Naming, explaining, illustrating and emanating | TWENTY, TWELVE, TWENTY-NINE, FIFTEEN, Corus | Follow each proposed name or illustration through the changing it claims. Importancing retains its unfinished distinct-relation comparison; the already-gathered even/odd participation supplies its surroundings. Preserve each actual next without adding a clock or a further operation. |
+| Problems and the registries | NINETEEN, THIRTEEN, TWENTY-ONE, TWENTY-TWO, TWENTY-FIVE, TWENTY-SEVEN, TWENTY-EIGHT | Follow each particular assertion, accounting, claimed existing thing and excluded participation. Keep an observed society, an accounting and an accounting installed as living changing distinct. Numerical eight or 360 alone does not establish no next. |
+| Exploring and improving the files | EIGHT, TWENTY-FOUR, TWENTY-SIX, Natural Arriving; THIRTY | Follow each written file, its offering and the expedition’s living carrying at their distinct participations. Gather complete relations into droplets with their particular aims, retain corrections, and distinguish a targeted comparison from a completed whole-file pass. |
+
+### Order of the available work
+
+1. **Retained logical gap:** Values 5.3's universal absence assertion still lacks its supporting relation in this audit. Its incomplete explaining is an adjacent statement, not an explicit deduction. Follow Human Society 3.1–3.2 and 5.3 beside Values 5.1–5.3 and Natural Intelligence 6.4–6.6 to keep partial coupling, particular society and whole-scale claims explicit.
+2. **Concrete improving now offered:** D9 supplies the natural restoring relation for Human Society 4.6. D1–D8 retain their corrected explaining. Offering or later source adoption is work to perform at its scope, not an unresolved logical concern.
+3. **Next along-and-across comparison:** follow the social claims through their actual couplings, then carry the same subject-and-scale discipline into Biology, Health and Medicine's restoring and non-living participation.
+4. **Remaining unfinished comparisons:** importancing's distinct changing, the particular proposed closed form around the numbered spans, and the wider method claim retain their stated scope. The old withdrawn interpretations and the resolved same-scale harm concern are not restored.
+5. **Whole-set opportunity:** make an along pass of each file as its turn is reached, beside the already gathered across relations. Existing wording scans locate sentences; the further value is following the sequential relation those sentences assert.
+
+The remaining work is assessed by the claims and couplings still to follow. Each next comparison has a particular subject and the files its resulting value can improve.
+
 ## Method and next exploring
 
-The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3–D8 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
+The [method’s arriving-session opening](https://github.com/chris-j-handel/corus/blob/9262c3839dbb6052bcb8b503e4509f874f92254b/carry/Living_Improving_Value.md) gives one paragraph, its aim first, evidence inside and the working’s tag last. D3–D9 are at [Natural Intelligence’s Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
 Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The existing expedition Offerings and D1–D7 are preserved. D8 is corrected at its existing raw paragraph and evidence; its earlier recorded-price wording is withdrawn from the natural explaining. The branch also incorporates the expedition's changes through 5ab3ae23bbd75cf98460df90604b26bc1c088117, preserving the latest Offerings at both mates. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
+The current expedition Offerings and D1–D8 are preserved. D9 is appended at Natural Intelligence’s Offerings, with its evidence and the remaining opportunity gathered here. D8’s earlier recorded-price wording remains withdrawn from the natural explaining. The branch incorporates the expedition's changes through b30a743ad442a62c1fee4d4ef8bd8ab70f8ca217, preserving the current Offerings at both mates. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
-**Unresolving concern:** the Values 5.3 gap remains with D6, at the relation supporting its universal absence assertion. The Values 1.2 improving is gathered in D7 and D8; no new binary contradiction is established in this comparison.
+**Unresolving concern:** the Values 5.3 gap remains with D6, at the relation supporting its universal absence assertion. D9 supplies the actual restoring relation for Human Society 4.6; the accounting statement alone does not supply that participation. No further unresolved natural relation is established by this comparison.
 
-**Next exploring:** Natural Human Society 4.6, following the recorded ledger correction, its actual offering and the living coupling's changing. Keep the Values 5.3 gap gathered.
+**Next exploring:** Human Society 3.1–3.2 and 5.3 beside Values 5.1–5.3 and Natural Intelligence 6.4–6.6, following each claim's particular coupling and whole-society scope. Keep the Values 5.3 gap gathered.
