@@ -25,6 +25,8 @@ THE WIRING, said first as Exhibit TWO 6.2 asks of each run:
   3  One self at a time at four takings, beside the beat: what the own turn needs to be the one beat.
   4  A self absent after a common prior: the missing section Exhibit TWO 6.12 calls its next
      executable subject, with signs flowing.
+  5  At 3 and 4: the carrying at 3 and the offering at its sharing 4 at one parity, 0 at 12; at two
+     selves each sharing to the other, and at selves with two sharing to each.
 """
 import collections, glob, itertools, random, re
 
@@ -279,3 +281,43 @@ for p, q in ((3, 3), (4, 5), (5, 5), (7, 7)):
     print('      never reaches its fortieth momentary, waiting on the absent side: %d of 40' % stalled)
 print('   At the beat an absent side is met as a nothing at each momentary, which is this instrument laying a 0 where nothing')
 print('   is. A present self shares nothing at no two momentaries in sequence; the Registry\'s step 611 says two at most at a torus.')
+
+print()
+print('5  At 3 and 4. Two selves, each sharing to the other, each opening, momentaries 1 to 8.')
+print('   Each self: its carrying at 3 | the offering at its sharing 4 | at 12, 0 or the parity shared at 10')
+SG = {1: '+', -1: '-', 0: '0'}
+for op in itertools.product((1, -1), repeat=2):
+    c, last, line = list(op), [None, None], []
+    for t in range(8):
+        new, sh, cells = [0, 0], [0, 0], []
+        for s in (0, 1):
+            off = [] if last[1 - s] is None else [last[1 - s]]
+            k = kind(c[s], off)
+            new[s], sh[s] = entry(c[s], off)
+            cells.append('%s|%s|%s' % (SG[c[s]], SG[off[0]] if [x for x in off if x] else 'none', '0' if k == '.' else SG[sh[s]]))
+        c, last = new, sh
+        line.append(' '.join(cells))
+    print('   opened %s %s:   %s' % (SG[op[0]], SG[op[1]], '    '.join(line)))
+one = same = 0
+after = collections.Counter()
+for p, q in TORI:
+    selves = [(i, j) for i in range(p) for j in range(q)]
+    for op in itertools.product((1, -1), repeat=p * q):
+        c = dict(zip(selves, op))
+        last, prior_kinds = {}, None
+        for t in range(1, 61):
+            c, shared, kinds = beat(p, q, c, last)
+            if t >= 2:
+                for s in selves:
+                    offs = {last[u] for u in senders(p, q, s) if last[u]}
+                    if len(offs) == 1:
+                        one += 1
+                        same += c[s] in offs
+                    if prior_kinds and prior_kinds[s] == '.':
+                        after[(kinds[s], sum(c[s] == c[u] for u in senders(p, q, s)))] += 1
+            last, prior_kinds = shared, kinds
+print('   selves with two sharing to each, the three arrangements of part 1, each opening:')
+print('   one parity surfaced at 14: %d; the self next at that parity, its sharing other\'s: %d' % (one, same))
+print('   the momentary next to an is-still-possibling: none offered and the prior inverted, the self at one parity with both')
+print('   sharing to it: %d of %d; the offered chained: %d' % (after[('R', 2)], sum(v for (k, n), v in after.items() if k == 'R'),
+                                                             sum(v for (k, n), v in after.items() if k == 'T')))

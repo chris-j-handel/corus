@@ -53,3 +53,14 @@
       never reaches its fortieth momentary, waiting on the absent side: 40 of 40
    At the beat an absent side is met as a nothing at each momentary, which is this instrument laying a 0 where nothing
    is. A present self shares nothing at no two momentaries in sequence; the Registry's step 611 says two at most at a torus.
+
+5  At 3 and 4. Two selves, each sharing to the other, each opening, momentaries 1 to 8.
+   Each self: its carrying at 3 | the offering at its sharing 4 | at 12, 0 or the parity shared at 10
+   opened + +:   +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0
+   opened + -:   +|none|- -|none|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-
+   opened - +:   -|none|+ +|none|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+
+   opened - -:   -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0
+   selves with two sharing to each, the three arrangements of part 1, each opening:
+   one parity surfaced at 14: 2349096; the self next at that parity, its sharing other's: 2349096
+   the momentary next to an is-still-possibling: none offered and the prior inverted, the self at one parity with both
+   sharing to it: 3426 of 3426; the offered chained: 299484

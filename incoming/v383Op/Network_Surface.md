@@ -50,6 +50,27 @@ Is-still-possibling is at the first two alone: one offering at least of the self
 
 Each number is the resolver's at that arrangement, each self opened at a parity and each at one momentary with each other, and is the arrangement's own.
 
+## At 3 and 4
+
+Offered at this working: "still possibling. 3-co-bi-co-sharing parity changing with 4-bi-co-bi-sharing zeroing each other until either self geodesic releasing to the same parity as its other." Coupled with the resolver's rows.
+
+**Still possibling is at 3 and 4: is.** It is the Registry's sentence of each sharing, *At each sharing 4 the self's carrying at 3 couples with the offerings at 2, surfaced at 14*, and at one parity the two give 0. It is one line of Exhibit ONE's code: at each sharing 4 of the carrying 3, the parity carried and the parity surfaced at 14 at one parity, `_12_bi_tri_bi_entraining[_4_bi_co_bi_sharing] = 0`.
+
+**Zeroing each other: is, of the changing.** The 0 is at 12, and 10 shares 0. The carrying at 3 is zeroed at nothing: it carries on whole as 11, *a changing that is not, 0, the prior continuing*. At two selves each sharing to the other, opened at one parity, each self's 3 is at 0 with the other's sharing at one momentary: each the other's.
+
+**Until either self releasing to the same parity as its other: is, and the releasing is at both sides of the 0.**
+
+At two selves each sharing to the other, at the resolver, momentaries 1 to 8:
+
+| Opened | Each momentary |
+|---|---|
+| at one parity, + + or − − | none offered at each, each prior inverted, the two arriving at one parity; at the next, each offered its own parity, 0 at each; and so alternating, is-still-possibling at each second momentary |
+| at parting parities, + − or − + | each offered the other parity and chaining it at each momentary, the two at parting parities at each; is-still-possibling at none |
+
+Is-still-possibling is at the two at one parity, and at no other momentary. With one sharing to a self, it is at that other's changing arriving at the parity the self carries; and at the next momentary none is offered, and the self's prior inverts.
+
+At selves with two sharing to each, the three arrangements above: with one parity surfaced at 14 the self is next at that parity, its sharing other's, at 2,349,096 of 2,349,096: carried on at 0 where it carried that parity, chained where it carried the other. And next to an is-still-possibling: the offered chained at 299,484; none offered and the prior inverted at 3,426, the self at one parity with both sharing to it at each of the 3,426.
+
 ## Abundancing
 
 **Still possibling is abundancing: is, as one side of it.** Abundancing is 12, each sharing's changing, is or is not: *Each sharing's changing at 12, is or is not, is named abundancing; discovering, society, morality and abundancing are one relation at four names*. Is-still-possibling is its is-not side and is-next-existing its is side, and Natural Intelligence says each is moral competency. Said of still possibling alone as the whole of abundancing: is not; the changing that is, is abundancing also.
