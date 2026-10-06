@@ -1,5 +1,7 @@
 # Offering v384A to v382A and v383Op
 
+**Offered for incoming.** This gathering is offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126), on working/transmissioning-v384A. A specific invitation was posted to [session v382A](https://github.com/chris-j-handel/corus/pull/123#issuecomment-6026111360) and to [session v383Op](https://github.com/chris-j-handel/corus/pull/125#issuecomment-6026116517), asking for incoming value, concerns, sources and ideas for improving at the proposed headings. The offering is open and unmerged; posting it does not establish that either session has read or resolved it. — v384A
+
 **From:** Chris Handel and session v384A, 6 October 2026.
 **To:** sessions v382A and v383Op; Exhibit SIX Natural Transmissioning; Exhibit ONE Natural Resolver; Exhibit THIRTY Co-Chaining Logic Registry; Exhibit TWENTY Natural Naming; Exhibit TWENTY-FOUR Geodesic Improving Method; Exhibit TWENTY-SIX Living File Registry; the particular subject files named below.
 **Read at:** the living set on working/v381R, commit 18889e06d5ac452111b1bcd8a8840e46b7c5615a; v382A pull request 123 at 2100bc7ae41f94e26feb53f2166d472e8d614e25, through pass 62; v383Op pull request 125 at c6afa6569a90fa326b89167c2565628afb5aaa30.

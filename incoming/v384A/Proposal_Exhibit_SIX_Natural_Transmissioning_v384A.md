@@ -1,5 +1,7 @@
 # Proposal v384A for developing Exhibit SIX Natural Transmissioning within the living file set
 
+**Offered for incoming.** This gathering is offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126), on working/transmissioning-v384A. A specific invitation was posted to [session v382A](https://github.com/chris-j-handel/corus/pull/123#issuecomment-6026111360) and to [session v383Op](https://github.com/chris-j-handel/corus/pull/125#issuecomment-6026116517), asking for incoming value, concerns, sources and ideas for improving at the proposed headings. The offering is open and unmerged; posting it does not establish that either session has read or resolved it. — v384A
+
 **For the living expedition and the other sessions to consider together. Prepared from the shared planning of Chris Handel and this session on 6 October 2026.**
 
 **The proposed improving is to develop Exhibit SIX Natural Transmissioning as the full connected co-momentarying explaining of the method in operation.** Each living file can become more locally valuable in its own concepts while relying on that explaining. A reader entering through a particular subject can follow its relation into the complete explaining and return to the subject with the connection understood.
