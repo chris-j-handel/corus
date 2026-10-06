@@ -114,6 +114,26 @@ Two things the count also shows, each for the Registry:
 - **Step 3 is the first logic's own.** This session set a set an existing thing, with the universe within itself, at the second logic's ground. Step 3's own words are *the fractal inward and outward of itself*. Read as the set existing as its things exist, it is what makes the method at each thing the method at each scale. Read as one thing beside its things, it is the second logic's root. The naming row N5 is that parting, and the earlier part of this file is re-said at it: the second logic's sentences inside the first's chain are the universe whole at one now, steps 8, 10 and 30; step 2 and step 3 are at both, by the reading.
 - **What it does not do.** It does not say what the parities of a round are at a society of selves with no stepping together, the row P1, nor give a society its joins, C5. The round of step 170 is a round of forms; whose forms, at which momentaries, is those rows'.
 
+## The bounded context, and nature named
+
+The self said: "natural intelligence is the only possible method of existing. this is the entire full bounded context of the entire set of living files and all the interesting resolving opportunites. nature is the existing set of existing. this cursioning set is nature".
+
+**The first sentence is the files' own claim, at their own words.** Natural Naming: *the break and the only possible method are one statement*. Natural Intelligence: *natural intelligence, the geodesic method of discovering next possible existing*, and *Parity changing is the one method of the changing set of all existing things, and no other is possible*. One place is for following, and it is gathered already as the expedition's sixth break: the Registry says natural intelligence at the coupling of living selves, *Co-competencing at the coupling of living selves is natural intelligence*, and the method of existing at each existing thing, the non-living with them; the fractal, living at each scale, is what the files have between the two.
+
+**The second sentence is a bound, and each row of this session's set is inside it.** Taken as the test of a row, a place at which that one sentence is or is not yet carried through a file, each of the fifty-two rows passes, and the seven kinds are seven ways a row stands to the one sentence: a step of its chain taking something; two sayings of it parting; a field's observing beside a sentence of it; a name of it at two meanings; a run of it at an arrangement; a field's result carried beside it; and its showing to a newcomer. The two kinds released were outside the bound, which is why they left: a harm is no part of a method, and true or false of a claim is the other logic's.
+
+**The third sentence names what the files use and name at no sentence.** *Nature* is at no place in Natural Intelligence, whose word is the prefix. Natural Naming says it six times, *Naming is nature at a concept*, *Nature carries its competency at each momentary*, and the Registry at two steps, *the society and nature's co-chaining*; none says what nature is.
+
+Taken word by word at the opening sentence: "the existing set", the set existing, which the Registry says one way, *the set existing as its things exist*; "of existing", where the opening says of all existing things; and "cursioning", where the opening says changing. So it coheres, at the reading of the first logic, and it does one thing the opening sentence does not: it says the set existing, as its things exist, in the name itself.
+
+**Its value, at three rows.**
+
+- **The one word this session flagged in the claim's sentence, *nature's*.** With nature the existing set of existing, nature's method is the set's own changing, *its changing its existing things' own*, and no thing with a method beside its things. The flag is met by the naming, once the naming is at a file.
+- **N5, the universe and an existing thing at three wordings.** The second logic's root is *a universe named as an existing thing*. A name for the set existing as its things exist, apart from that, is what that row asks.
+- **The fractal.** A set cursioning, and again within itself, is the recursioning the files say, in its several forms, at more than two hundred places: the name carries fractal as it carries changing.
+
+**Two things for following, each a naming.** Natural Naming's rule is one name for each concept. Nature and the universe are then one concept at two names, or two: the opening sentence says the universe, and the self's sentence says nature of what reads as the same set. And "cursioning" by itself is at no living file; the files have recursioning, co-recursioning and bi-inversioning-co-recursioning, and the word they are from has no entry.
+
 ## Limits
 
 This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.

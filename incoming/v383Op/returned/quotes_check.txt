@@ -138,6 +138,15 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.12 floating neutralling — binary | the break and the only possible method are one statement
+  found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | natural intelligence, the geodesic method of discovering next possible
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 1.1 A naming is a floating-neutralling concept, four boundin | Naming is nature at a concept
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.29 geodesic disequilibrating — binary | Nature carries its competency at each momentary
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | the society and nature's co-chaining
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | the set existing as its things exist
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | its changing its existing things' own
+  found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.2 Three conditions at each momentary, and momentaries over | a universe named as an existing thing
 
 Unresolveds.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | Parity changing is a method: a non-living existing thing, a stable for
@@ -286,6 +295,12 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 1.1 A naming is a floating-neutralling concept, four boundin | Naming is nature at a concept
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.29 geodesic disequilibrating — binary | Nature carries its competency at each momentary
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | the society and nature's co-chaining
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | its changing its existing things' own
+  found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.2 Three conditions at each momentary, and momentaries over | a universe named as an existing thing
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.12 floating neutralling — binary | the break and the only possible method are one statement
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -337,6 +352,15 @@ carry/Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md, th
   found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | a resolving settles nothing still and carries no free term a settling 
   found   Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md     | 1 What stands open, and what stands fixed | The problems stand open.
   found   Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md     | 1 What stands open, and what stands fixed | No entry carries a settled answer to the statement it holds, except wh
+
+carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md, the droplets of the set
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 1.1 A naming is a floating-neutralling concept, four boundin | Naming is nature at a concept
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.29 geodesic disequilibrating — binary | Nature carries its competency at each momentary
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | the society and nature's co-chaining
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | the set existing as its things exist
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | its changing its existing things' own
+  found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.2 Three conditions at each momentary, and momentaries over | a universe named as an existing thing
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.12 floating neutralling — binary | the break and the only possible method are one statement
 
 carry/Offerings_to_Natural_Arriving.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a changing enters a self's carrying through its own 12 alone
@@ -407,5 +431,12 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | A round reaching each form of k parities one parity at a time is the r
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | each scale carrying the prior whole
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | the fractal inward and outward of itself
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 1.1 A naming is a floating-neutralling concept, four boundin | Naming is nature at a concept
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.29 geodesic disequilibrating — binary | Nature carries its competency at each momentary
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | the society and nature's co-chaining
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | the set existing as its things exist
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | its changing its existing things' own
+  found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.2 Three conditions at each momentary, and momentaries over | a universe named as an existing thing
+  found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.12 floating neutralling — binary | the break and the only possible method are one statement
 
-quoted spans found: 369; not found: 0
+quoted spans found: 398; not found: 0
