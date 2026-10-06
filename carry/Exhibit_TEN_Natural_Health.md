@@ -6,7 +6,7 @@ Exhibit TEN Natural Health · carrying v380R
 
 ## Ready
 
-None.
+**Ready, at v383Op, from `incoming/v383Op/Do_No_Harm.md`, a visiting session's offering, at this file's front, with the concern below on sentences reading as guidance to a person.** The section on the target as the compaction says *Health-as-a-setpoint — an optimal range, a normal value, a number to reach and hold — is the compaction*, and this file carries no caution beside it; Natural Medicine's last page has one. Entering: the front sentence laid at Natural Medicine's carrying, at this file's front too; and at that section Natural Medicine's own sentence of dose-to-a-level, how insulin and five more are given. The field's result and its source are at the arrival.
 
 ## Concern
 

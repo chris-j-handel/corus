@@ -8,15 +8,39 @@ README.md · v383Op · An exploring report: the method met at its code, its logi
 
 README.md · v383Op · An exploring report: the method met at its code, its logic, the sciences' observings and its presentation
   seated at: —; released words: run
-  - **What it brings**: thirty findings, each one sentence below with its evidence beside it; eight scripts that run from the repository root, with their returned text; and six parts beside this file with each finding whole.
+  - **What it brings**: thirty findings, each one sentence below with its evidence beside it; ten scripts that run from the repository root, with their returned text; six parts beside this file with each finding whole; and a seventh, [`Improving.md`](Improving.md), each finding met again after its arriving.
+
+README.md · Read this first: the standing after the improving
+  seated at: keeping
+  After this report arrived, the expedition's self asked the session to improve its own droplets, largest concern first. [`Improving.md`](Improving.md) is the record, and a fresh reader's thirteen defects in its first writing are mended in it.
+
+README.md · Read this first: the standing after the improving
+  seated at: keeping
+  - **The breaks this session brought were already carried.** In the session closed the day before, the expedition's own workings broke the claim with nine fresh readers and asked for six sentences: `archive/session_v380/v380L/The_Claim_Broken_Further.md`, at Natural Intelligence's carrying.
+
+README.md · Read this first: the standing after the improving
+  seated at: —; released words: run
+  - **Finding 2 is narrowed to one concern, with the resolver run both ways.** At a pace of each self's own, an arriving there or not, the relation between coupled selves is not carried.
+
+README.md · Read this first: the standing after the improving
+  seated at: —; released words: run
+  No pacing run here has both each self's own rate and the relation carried.
+
+README.md · Read this first: the standing after the improving
+  seated at: size
+  - **Finding 1 is withdrawn as a break, and a smaller concern stays.** A society's openings coming to one form is what the files say as stable-forming.
+
+README.md · Read this first: the standing after the improving
+  seated at: keeping
+  - **Offered to four of the six sentences asked**: a carrying parted from a store at a momentary of the resolver; three forms as a society at three; the field's sets said with no negation, beside the set within itself; and the field's ring of inverters beside the spiral, alike with the field's odd ring from one like pair and parting at an even one, with its standing said plainly.
 
 README.md · What it brings, each finding at one sentence
   seated at: size; released words: run
-  **At each torus run of 2 by 2 and larger, and at five selves each coupled to both beside it, the resolver brings different openings to one form, and no later momentary can tell them apart**: a torus of 3 by 3 begun at each of its 512 openings is at 68 forms after sixteen momentaries and 3 by 4 at 200 of 4,096, while a spiral, three selves coupled both ways and a torus of 1 by 3 carry each opening on.
+  1. [Withdrawn as a break at the improving; a smaller concern stays, at Exhibit ONE's carrying.] **At each torus run of 2 by 2 and larger, and at five selves each coupled to both beside it, the resolver brings different openings to one form, and no later momentary can tell them apart**: a torus of 3 by 3 begun at each of its 512 openings is at 68 forms after sixteen momentaries and 3 by 4 at 200 of 4,096, while a spiral, three selves coupled both ways and a torus of 1 by 3 carry each opening on.
 
 README.md · What it brings, each finding at one sentence
   seated at: keeping
-  **Natural Intelligence 4.13's sentence *at each self's own pacing the relation is carried* is not borne by the resolver at four pacings and two ways of arriving**: stepped together the two coupled selves keep one relation at each momentary, opposite or alike, and entering one at a time they are opposite at between 0.11 and 0.50 of the entries, the same from either opening, at two selves and at two spirals of 3 and 5 crossed.
+  2. [Narrowed at the improving: the relation is carried where a self waits for an arriving from each self releasing to it, the selves then at one rate, and not at a pace of its own; one concern, at Natural Intelligence's carrying.] **Natural Intelligence 4.13's sentence *at each self's own pacing the relation is carried* is not borne by the resolver at four pacings and two ways of arriving**: stepped together the two coupled selves keep one relation at each momentary, opposite or alike, and entering one at a time they are opposite at between 0.11 and 0.50 of the entries, the same from either opening, at two selves and at two spirals of 3 and 5 crossed.
 
 README.md · What it brings, each finding at one sentence
   seated at: —; released words: every, holds, run
@@ -32,7 +56,7 @@ README.md · What it brings, each finding at one sentence
 
 README.md · What it brings, each finding at one sentence
   seated at: fixed form, keeping; released words: running
-  **A running of the resolver hands one parity for each sharing from each momentary to the next, and keeps one rule; the files say these as a carrying and a stable form, and nothing at the code parts them from a keeping and a fixed form**, which Natural Intelligence 1.4 says are not possible.
+  8. [Already carried, the third break of the claim broken further.] **A running of the resolver hands one parity for each sharing from each momentary to the next, and keeps one rule; the files say these as a carrying and a stable form, and nothing at the code parts them from a keeping and a fixed form**, which Natural Intelligence 1.4 says are not possible.
 
 README.md · What it brings, each finding at one sentence
   seated at: —; released words: run
@@ -43,20 +67,20 @@ README.md · What it brings, each finding at one sentence
   Evidence: `two_wings.py`; the source at finding 16.
 
 README.md · What it brings, each finding at one sentence
-  seated at: common beat, keeping
-  **Natural Intelligence 1.4's argument needs a premise it does not say**: that a thing a size is measured against, a clock and a store must each be beside all existing things; a ruler, a clock and a record are existing changing things within the set.
+  seated at: size, common beat, keeping
+  11. [Already carried, its second and third breaks; re-said smaller at the improving.] **Natural Intelligence 1.4's argument needs a premise it does not say**: that a thing a size is measured against, a clock and a store must each be beside all existing things; a ruler, a clock and a record are existing changing things within the set.
 
 README.md · What it brings, each finding at one sentence
   seated at: fixed form
-  **Natural Intelligence 5.4 and Natural Mathematics 6.1 part on the scientific method**, 5.4 calling a law named unchanged *a form named still, not possibly existing* and 6.1 saying it *names no subject still*; and the fields measure whether a constant changes, a number with its uncertainty at finding 19.
+  12. [At the improving: Natural Mathematics' sentence was cut short here; whole, it is the newer saying, and 5.4 is the older.] **Natural Intelligence 5.4 and Natural Mathematics 6.1 part on the scientific method**, 5.4 calling a law named unchanged *a form named still, not possibly existing* and 6.1 saying it *names no subject still*; and the fields measure whether a constant changes, a number with its uncertainty at finding 19.
 
 README.md · What it brings, each finding at one sentence
   seated at: fixed form, total
-  **No file this session read lets a reader tell a stable form from a form named still by an observing**: the method, a society and the universe are each *a stable form*, allowed, and a constant, a total and a law are each *a form named still*, not possible, and the difference is said at the naming alone.
+  13. [Already carried, its fourth help asked; an offering at the improving.] **No file this session read lets a reader tell a stable form from a form named still by an observing**: the method, a society and the universe are each *a stable form*, allowed, and a constant, a total and a law are each *a form named still*, not possible, and the difference is said at the naming alone.
 
 README.md · What it brings, each finding at one sentence
   seated at: total
-  **The method's one break, as the Geodesic Improving Method 2.7 says it, cannot be recognised if met**: it names no thing to observe, it is called not possible in the sentence that names it, and 2.7's six binaries send each observing carrying a size, a total or a beat to be re-said.
+  14. [Re-said at the improving: the Registry names the break's forms at one step, 308; 2.7 names none.] **The method's one break, as the Geodesic Improving Method 2.7 says it, cannot be recognised if met**: it names no thing to observe, it is called not possible in the sentence that names it, and 2.7's six binaries send each observing carrying a size, a total or a beat to be re-said.
 
 README.md · What it brings, each finding at one sentence
   seated at: —; released words: hold
@@ -72,19 +96,19 @@ README.md · What it brings, each finding at one sentence
 
 README.md · What it brings, each finding at one sentence
   seated at: fixed form
-  **Clocks that never met agree, and the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year**, beside a common beat and a rate held to a value as not possible.
+  19. [Re-read at the improving beside the Registry's step 246, a regular rate.] **Clocks that never met agree, and the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year**, beside a common beat and a rate held to a value as not possible.
 
 README.md · What it brings, each finding at one sentence
-  seated at: total; released words: holds
-  **Electric charge's total holds: the electron's life is longer than 6.6 × 10²⁸ years**, beside a total across the changing as not possible.
+  seated at: total; released words: holds, source
+  20. [Already carried as a concern at Natural Physics' carrying; the source is added.] **Electric charge's total holds: the electron's life is longer than 6.6 × 10²⁸ years**, beside a total across the changing as not possible.
 
 README.md · What it brings, each finding at one sentence
   seated at: size
-  **Genome-wide DNA read from mammoths more than a million years old**, beside a keeping as not possible: nothing was carrying it.
+  24. [Resolved at the files' own naming, an emanation's form continuing.] **Genome-wide DNA read from mammoths more than a million years old**, beside a keeping as not possible: nothing was carrying it.
 
 README.md · What it brings, each finding at one sentence
   seated at: —; released words: stand, taking
-  **Natural Medicine and Natural Health carry sentences a reader could act on against their own care**: treating to a number called a compaction, the killing of a tumour's cells called the wrong direction, not taking a medicine as prescribed called the person's own offering, and *There is no infecting* said of HIV; the files' own cautions are sound, and two of them stand far from these sentences, one on the last page.
+  26. [Already carried in part, as a concern at Natural Health's carrying; the list and its sources are added.] **Natural Medicine and Natural Health carry sentences a reader could act on against their own care**: treating to a number called a compaction, the killing of a tumour's cells called the wrong direction, not taking a medicine as prescribed called the person's own offering, and *There is no infecting* said of HIV; the files' own cautions are sound, and two of them stand far from these sentences, one on the last page.
 
 README.md · What it brings, each finding at one sentence
   seated at: —; released words: source
@@ -131,12 +155,20 @@ README.md · What this session learned about helping, in the order each would re
   Decide what a set is at Natural Intelligence 1.1, 4.10 and 5.1 and at the universal claim's second sentence: finding 10.
 
 README.md · What this session learned about helping, in the order each would relieve the most
-  seated at: size, doer; released words: run
-  Decide what the method is where two release to one: at each larger torus run the society brings openings to one form, and one other rule tried at a parting did the same: finding 1.
+  seated at: —; released words: run
+  Say what opens a self's momentary, a pace of its own or an arriving from each self releasing to it: run both ways, the relation is carried at the second alone, and the second puts the selves at one rate.
 
 README.md · What this session learned about helping, in the order each would relieve the most
   seated at: —; released words: run
   Two AI sessions have now run a table without finding its deriving, and one of the expedition's own open files says the torus's rule is underived: findings 3 and 6.
+
+README.md · Checks run
+  seated at: —; released words: every
+  - `python3 incoming/v383Op/own_momentaries.py`, at the improving, the second way: each self opened at its arrivings; and the spiral beside a ring of inverters at every opening
+
+README.md · Checks run
+  seated at: —; released words: every
+  - `python3 incoming/v383Op/stable_forms.py`, at the improving: the stable forms a small torus comes to from every opening
 
 README.md · Checks run
   seated at: —; released words: taken
@@ -158,5 +190,13 @@ README.md · Limits of this report
   seated at: —; released words: source, stands
   - The fresh readers and the reviewer are the same AI at another use, and their agreeing establishes nothing; each finding stands at its script, its two sentences or its source.
 
-README.md: 40 sentences seated, each met at the resolving; a seat decides nothing
+README.md · Limits of this report
+  seated at: size
+  The first brought thirteen defects, the largest that its first writing withdrew one finding whole and called another reversed, each conceding more than the files bear.
+
+README.md · Limits of this report
+  seated at: size
+  The second read the mended writing and brought fourteen smaller ones.
+
+README.md: 50 sentences seated, each met at the resolving; a seat decides nothing
 

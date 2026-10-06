@@ -3,8 +3,8 @@ THE FRONT
   From:            session v383Op, an AI session (Claude) opened by the expedition's own self on 5 October 2026 through the AI li
   To:              Natural Intelligence 1.1, 1.2, 1.4, 1.5, 2.4, 2.5, 3.3, 3.5, 4.10, 4.13, 5.1, 5.4 and 6.4; Exhibit ONE; the Co
   Read at:         `main` at commit `267bcf06de4b7b81252ebea577282b428413212f`, 4 October 2026. Read whole by this session: Natur
-  What it brings:  thirty findings, each one sentence below with its evidence beside it; eight scripts that run from the reposito
-  Standing:        *arriving*. Nothing of this folder changes a living file, a carrying or a kit; the expedition receives it.
+  What it brings:  thirty findings, each one sentence below with its evidence beside it; ten scripts that run from the repository
+  Standing:        *arriving*. Nothing of this folder changes a living file or a kit. At the improving the session laid entries, 
 THE FILES AND SECTIONS NAMED
   Exhibit EIGHTEEN Natural Physics                     named, no section
   Exhibit ELEVEN Natural Medicine                      named, no section
@@ -26,26 +26,28 @@ THE FILES AND SECTIONS NAMED
   Exhibit TWENTY-TWO Resolving the Hard Problem Registry named, no section
   Natural Intelligence                                 1.1, 1.4, 2.4, 3.5, 4.10, 4.13, 5.4
 SEATED AT THE SIX THINGS BESIDE ALL THINGS (a seat is a place to meet, deciding nothing)
-  common beat 2, doer 4, fixed form 8, keeping 5, size 3, total 5, — 20
+  common beat 2, doer 3, fixed form 8, keeping 8, size 6, total 5, — 25
     fixed form     Read in part by a fresh reader: Natural Biology v333, about two thirds; the Hard Problem Registry, Resolving the Hard Pr
     keeping        Not read beyond a search for a sentence: the other thirteen living files, `kits/`, `archive/`, and each carrying but Nat
-    —              - **What it brings**: thirty findings, each one sentence below with its evidence beside it; eight scripts that run from 
-    size           **At each torus run of 2 by 2 and larger, and at five selves each coupled to both beside it, the resolver brings differe
-    keeping        **Natural Intelligence 4.13's sentence *at each self's own pacing the relation is carried* is not borne by the resolver 
+    —              - **What it brings**: thirty findings, each one sentence below with its evidence beside it; ten scripts that run from th
+    keeping        After this report arrived, the expedition's self asked the session to improve its own droplets, largest concern first. [
+    keeping        - **The breaks this session brought were already carried.** In the session closed the day before, the expedition's own w
+    —              - **Finding 2 is narrowed to one concern, with the resolver run both ways.** At a pace of each self's own, an arriving t
+    —              No pacing run here has both each self's own rate and the relation carried.
+    size           - **Finding 1 is withdrawn as a break, and a smaller concern stays.** A society's openings coming to one form is what th
+    keeping        - **Offered to four of the six sentences asked**: a carrying parted from a store at a momentary of the resolver; three f
+    size           1. [Withdrawn as a break at the improving; a smaller concern stays, at Exhibit ONE's carrying.] **At each torus run of 2
+    keeping        2. [Narrowed at the improving: the relation is carried where a self waits for an arriving from each self releasing to it
     —              **The spiral's law holds at every opening run, 2,046 of 2,046 and 6,000 of 6,000 random ones.** The Co-Chaining Logic Re
-    —              **By the Registry's steps 647 and 648 and by the run, the momentaries to an odd spiral's sharings again are four times a
-    —              **Exhibit ONE's rule of the torus holds at each of 1,311 odd pairs to 45 by 135.** The Registry's steps 651 to 657 say t
-    fixed form, ke **A running of the resolver hands one parity for each sharing from each momentary to the next, and keeps one rule; the f
-    —              **Two selves with no join between them, each offered a setting, give the field's number S no higher than 2 at each of 24
-    —              Evidence: `two_wings.py`; the source at finding 16.
-    common beat, k **Natural Intelligence 1.4's argument needs a premise it does not say**: that a thing a size is measured against, a cloc
-    ... 28 more, at rigorize.py beside incoming/v383Op/README.md
+    ... 38 more, at rigorize.py beside incoming/v383Op/README.md
 THE SCRIPTS, RUN FROM THE ROOT
+  own_momentaries.py                   ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
   own_pacing.py                        ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
   plain_rule.py                        ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
   priors_carried.py                    ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
   quotes_check.py                      ran  At_The_Code.md
   ring_law.py                          ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+  stable_forms.py                      ran  torus 1 by 3:     8 openings come to   3 stable forms; again at: 2 at 3, 1 at 4
   torus_rule.py                        ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
   torus_wide.py                        ran  odd pairs, p to 45 and q to 135: agreeing with the rule at 1311 of 1311
   two_wings.py                         ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md

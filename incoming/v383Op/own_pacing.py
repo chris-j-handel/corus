@@ -1,5 +1,9 @@
 """Session v383Op: the relation between two coupled selves at each self's own pacing.
 
+The first of two ways of pacing: a self enters at a pace of its own, an arriving there or not.
+The second, each self waiting for an arriving from each self releasing to it, is
+own_momentaries.py. Improving.md has the two beside each other, as one concern.
+
 Runs from the repository root: python3 incoming/v383Op/own_pacing.py
 Reads the newest Exhibit ONE at the root and executes its python block. Each self's entry is
 Exhibit ONE's own 1-co-bi-tri-offering, unchanged; 17, the stepping of the selves together, is

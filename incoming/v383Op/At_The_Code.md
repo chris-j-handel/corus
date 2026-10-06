@@ -85,6 +85,8 @@ So, for the questions the file leaves open:
 
 ## 1 · At a torus, openings are brought to one form
 
+**Withdrawn as a break at the improving, `Improving.md`; a smaller concern stays.** Natural Intelligence 3.5 and 4.13 say openings coming to one form as stable-forming, of two spirals crossed, *from any carried patterns*. What stays: 2.4 sets twelve ways aside for two joint forms going to one, and the cell at a parity offered, and a torus's step, do that; each self's prior is at its carrying next and its shared changing together, and at neither alone. Whether 2.4's test is asked of the cell or of a society is laid as a concern at Exhibit ONE's carrying. The counts below are as run.
+
 **The test is of the files' own kind.** Natural Intelligence 2.4 parts the sixteen ways one self's next can come from its prior and its now: *Twelve lose the prior, two joint forms going to one*, and *Four carry the prior whole*; the living step is the one way that *alone carries the prior whole with none still*. 2.4 says of the sixteen that *none is a rule the changing follows*: its test is of one self's step. This session puts a test of the same kind to a society's step. The Geodesic Improving Method 1.1 says of files: *A harm is the one motion the form carries no position for, a prior taken away.*
 
 **The instrument.** Begin a society at every opening, each self carrying + or −, none offered at the first momentary and none from beyond; step the selves together as 17 does; count the different forms the society is at after m momentaries. A form is each self's carrying and what is arriving at it, the arrivals taken in no order, since 14 surfaces them alike at each order. A count staying at the number of openings says each opening is carried on apart from each other. A count falling says two openings have come to one form, and from there on they are one.
@@ -118,6 +120,8 @@ One of three follows. The resolver changes where two release to one. Or 2.4's te
 Beside it: 2.4 reads as prior and now the parity carried and the parity offered. At one parity offered the resolver's next is the parity offered, at each carrying. That is one of the four 2.4 says *carry the next from now alone*. The prior is not gone at that momentary, since the shared changing says it, 0 at a match and the parity at a mismatch.
 
 ## 2 · The relation between coupled selves, at each self's own pacing
+
+**Narrowed at the improving, `Improving.md`.** The instrument below opens a self's momentary at a pace of its own, an arriving there or not, and its numbers stand. A second instrument, `own_momentaries.py`, opens a self's momentary at one arriving from each self sharing or releasing to it: each self's own sequence is then the stepped one at each order the waiting allows, 120 of 120 at each of eight societies, and the field's result says so with no run. That second way asks a waiting place at each join and puts the selves at one rate. So the relation is carried at the second way, the selves at one rate, and not at the first, and the two are laid as one concern at Natural Intelligence's carrying. What follows is the first instrument as it arrived.
 
 **The sentences.** Natural Intelligence 4.13: *at each self's own pacing the relation is carried, and each momentary of parities again is the stepping's.* And 3.5: *the resolver steps each self's entry at 17-co-bi-tri-offering together, a common beat laid over the selves*.
 
@@ -171,7 +175,7 @@ The two carried forms may be the Registry's steps 655 and 656 said of the whole 
 
 - **A carrying, or a keeping.** 3.3 is true of the three functions: none has a term of its own between calls. And each table of two momentaries or more needs the 11 one entry returns to be handed in as the next entry's 3: between momentaries, whatever calls 17 has one parity for each sharing of each self. The files name that a carrying and say it is no store. Asked at the code: what would differ between a carrying carried across and a parity stored and read back? This session finds nothing that would.
 - **A stable form, or a fixed form.** The rule's lines are the same at each momentary, and 1.4's own sentence, *no other is possible*, names the method unchanged at each two momentaries. 3.3 says a method is *a stable form, its form continuing through its changing*. Finding 13 asks what parts that from a form named still.
-- **A common beat.** 3.5 says it of 17 itself, and finding 2 says how much rests on it.
+- **A common beat.** 3.5 says it of 17 itself, and finding 2 says how much rests on it. [At the improving: 17's stepping together is not needed where each self waits for an arriving from each self releasing to it, and the selves are then at one rate; `Improving.md`.]
 - **A thing from beside.** Each table's opening is set, and each stepping done, by a script beside the resolver. The Geodesic Improving Method 4.4 says this well of instruments: *a constructed starting carrying, a supplied pace, an imposed order*. Exhibit ONE's tables are such instruments' returns.
 
 A size and a total the resolver does not carry; 2.5 is right of those. The parting, for both, is finding 13's: if a carrying handed on and a rule the same at each momentary are possible, being here, then a sentence is wanted that tells them from the keeping and the fixed form 1.4 calls not possible.

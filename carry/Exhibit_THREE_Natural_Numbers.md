@@ -22,6 +22,8 @@ None.
 - 9.7, *at 9 each parity of the four* and *the next whole of them is 1–65*: by the section's own stepping the outer pair alone is inverted at 9, and 1–33 is between 1–17 and 1–65.
 - 6.2's heading says *pass through* and its lead *straddle*.
 
+**Incoming, at v383Op, from `incoming/v383Op/Corrections.md`, a visiting session's offering: no false number found at this file by a fresh reader's 170 checks and each of its 441 rows; two limits and one reckoning.** *the crystallographic restriction* is of whole-number matrices that can be undone, and this file's cases losing the prior are beside it. *No rate is neared more slowly by the rationals than φ*: so, and each number whose continued fraction is at ones alone from a place on is neared as slowly. And of the seventeen primes adding to four hundred forty, one less than twenty-one squared: of the first seventeen such sums seven are a square or one from a square, 2, 5, 10, 17, 100, 197 and 440; the joining of the seventeen primes to the seventeen names waits on a deriving at the resolver, this file's own *matching numerals alone coupling no relations*.
+
 ## Concern
 
 **The hardest, gathered at v375, item 25, laid at this file at v378.** Each was met at the either/or resolving, the Geodesic Improving Method 2.6, gathered by five fresh readers across the living files, and its resolving is written into the files it names at their motions; the item stands whole as it was gathered, its number kept:
