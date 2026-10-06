@@ -140,13 +140,34 @@ The self asked: "does cursioning as the root of recursioning and an uncommon use
 
 **It has, at three places, and each is at the files' own sentences.**
 
-- **The root says running, and the prefix says back.** The field's word is from the Latin for a return, "from Latin recurrere 'to run back, return'" (Merriam-Webster, opened here); the root is the running. The files say the other direction of it each time they say what it is: *Along each line the recursioning goes forward, up the numbers and down them, both ways forward*, and *The co-linear recursioning forward, along, is competency: each self's own, odd*. The word says back and the sentence adds forward, at nine places across Natural Intelligence, the Registry and Natural Naming. The root needs no adding: cursioning is the running forward along, and by the Registry's own step that is competency, each self's own.
-- **It is competency with no source, in the name.** Natural Biology: *self-competency is competency with no source*. A running back has a place it runs back to; a running has none. So the root names the origin the self means: a self's own running along, from nothing behind it named as its source.
+- **The root says running, and the prefix says back.** The field's word is from the Latin for a return, "from Latin recurrere 'to run back, return'" (Merriam-Webster, opened here); the root is the running. The files say the other direction of it each time they say what it is: *Along each line the recursioning goes forward, up the numbers and down them, both ways forward*, and *The co-linear recursioning forward, along, is competency: each self's own, odd*. The word says back and the sentence adds forward, at nine places across Natural Intelligence, the Registry and Natural Naming. The root needs no adding: cursioning is the running forward; along a self's own line it is what that step says is competency, and there it meets carrying, the next part.
+- **It is competency with no source, in the name.** Natural Biology: *self-competency is competency with no source*. A running back has a place it runs back to; a running has none. So the root names a running with nothing behind it named as its source; whose the competency is, the carrying's, is the next part.
 - **The prefix is where the closing enters.** The field's recursion is a thing returning to itself. The Registry says what that is at a self: *A winding closing on itself is no moral offering*, a self *receiving its own releasing along, its own competency alone*, to dying. The files' recursioning forward and the field's running back are two things at one word, and the root parts them in the name.
 
 **What the prefix was carrying that is the method's own, and where it goes.** Again at the next momentary and the same at the next scale: *each scale carrying the prior whole*, the forms *again* at a later momentary, each occurrence its own. That is carried by next and by co-, and it asks no back. A set cursioning, and within itself, is the fractal with no return in it.
 
 **Its bound, for Natural Naming to weigh; nothing here decides it.** The recursioning words are at some two hundred and twenty places in the living files, and a renaming of that reach is a motion at each of them, at do no harm. *Bi-inversioning-co-recursioning* says a thing the arithmetic holds, a move twice at itself again, and whether the root alone still says it is for following. A word a newcomer has never met costs a first reading, and saves the second: the common word arrives with the field's meaning, the return, which is the reading the files take pains to correct. And one more naming found beside it: *self-competency* is the unexplained and own at Natural Biology, and at Natural Medicine the captured, *the co-competency turned to a self-competency*; one word at two.
+
+## Cursioning and carrying
+
+The self asked: "cursioning and carrying. are these two identical. the source of competency is carrying and cursioning is the method. is this correct".
+
+**Identical: is not. One case parts them, and it is the files' first binary.** *An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living.* A non-living thing runs on, *its momentarying is discovering next existing*, and carries none. The method itself is such a thing: *a non-living existing thing, a stable form, its form continuing through its changing and carrying none of the prior*. So there is cursioning with no carrying, at each non-living thing and at the method; and no carrying is found with no cursioning. They are two.
+
+**Where the two meet, and it is one place.** Along one self's own line the Registry says competency twice: *along, the prior carried into now is competency*, and *The co-linear recursioning forward, along, is competency: each self's own, odd*. There the carrying and the running forward along are one passage named at its two ends: carrying says what of the prior is at the now, and cursioning says the going to the next. Away from a self's own line they part: across, *one forward at each crossing*, is cursioning and no carrying.
+
+**The source of competency is carrying, and cursioning is the method: is, at the files' sentences.**
+
+- *The method bounds and the living carry*.
+- *A living self is a living carrying, and nothing else carries the same living self*.
+- The method is *co-changing at each coupling it is at*, at its two relations, across and along, *the one method at its two relations*; the carrying is at one of the two, and is the living's.
+- And of living sets the Registry joins them in one step as the self does: *the method of discovering next living sets is momentarying and carrying, the carrying its living selves'*.
+
+**One word for following: source.** Natural Biology says *self-competency is competency with no source*. The two sayings cohere if the carrying is no thing beside the self that the competency comes from: the self is its carrying. Then carrying is what competency is, the Registry's own *is*, and "source" names nothing behind it. Said as a source apart, it would be the store the files set aside.
+
+**What it mends in this session's last part.** That part said the root, the running forward along, is competency by step 442. That is so of the running along a self's own line and no further; said of cursioning whole it took the living's carrying for the method's running. It is re-said there.
+
+**Its value at an open row.** The one way, the next the prior inverted whatever the now is, is then the carrying said at the numbers: a self's next from its own prior, along. What the now gives, across, is the method's other relation. So the row C8 has its two halves named: the carrying, the living's, and the crossing, the method's.
 
 ## Limits
 
