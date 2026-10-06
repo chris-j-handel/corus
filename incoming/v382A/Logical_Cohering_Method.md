@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved through pass 61 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 62 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -24,6 +24,7 @@ This offering was compared with target commit `18889e06d5ac452111b1bcd8a8840e46b
 | Both forward sides, along and across | Follow self, other and society within bi-co-chaining and podaling. A local step remains within the whole; neither a repeated word nor matching numbers supplies the missing relation. |
 | The first relation that departs | Find the first changed subject, missing participation or unsupported extension. Follow its surroundings there before rewriting a later conclusion. |
 | The extent of what was established | Separate a relation followed whole, a relation still to follow, and an actual contradiction at the same subject and conditions. Lack of a derivation does not derive its opposite. |
+| Assertions and existing participation | Compare what the sayings assert separately from what establishes an actual occurrence. A textual conflict grants neither assertion truth; an unestablished occurrence does not silently turn an actual assertion into a conditional. |
 | Improving the improving | Compare the proposed insertlet back with the raw droplet, its evidence and the living passage. A clearer sentence can still change the claim. Gather any method learning at the method's Offerings. |
 
 These relations are already developed across Natural Naming 4.3 and Geodesic Improving Method 1.5, 2.2, 2.6 and 2.8. This offering makes their use explicit at the droplet-to-insertlet passage and supplies examples from this working.
@@ -38,7 +39,7 @@ These relations are already developed across Natural Naming 4.3 and Geodesic Imp
 
 4. **Follow along, then across where needed.** Read the necessary sequence in the file. At its first unestablished relation, follow the relevant participation through ONE, THIRTY, Natural Intelligence and any file explaining that concept. Keep both forward sides and the along/across podaling. Part a broad concern at the relations it contains: the sequence through further offerings may already be supplied while the identification of every arriving with the full alternating form remains to follow. A name's position in a numbered arrangement is not an instruction to execute the names in that order. Published forms retain their stated conditions.
 
-5. **State precisely what this pass supplies.** A contradiction requires the same subject, relation, scope, conditions and momentary. A missing step requires that step. Keep what is being resolved explicit: following a naming at its coupling and answering the recorded question are different assertions, neither supplying the other without its connecting relation. A narrower example does not establish an all-societies assertion. A word needing a better explaining can be ordinary improving even when the natural relation is already supplied. Work already gathered needs an address, not a repeated discovery.
+5. **State precisely what this pass supplies.** A contradiction requires the same subject, relation, scope, conditions and momentary. Compare assertions at that relation without first granting either truth; then say separately what their sequence establishes about actual participation. Do not postpone a comparison of assertions because an occurrence has not independently been established, and do not treat finding their conflict as proof of either occurrence. A missing step requires that step. Keep what is being resolved explicit: following a naming at its coupling and answering the recorded question are different assertions, neither supplying the other without its connecting relation. A narrower example does not establish an all-societies assertion. A word needing a better explaining can be ordinary improving even when the natural relation is already supplied. Work already gathered needs an address, not a repeated discovery.
 
 6. **Compare the proposed insertlet with the arrival.** When a working is resolving toward an insertlet, set its proposed sentence beside the raw droplet, the evidence and the source sentence. Follow what it retains, adds and releases at the subject, relation, conditions, extent and uncertainty. A proposed omission needs its reason. Merely retaining all the words does not retain their relations. Follow the changed sentence into its neighbouring claims so the improving does not move the gap elsewhere. If a later assertion depends on the earlier operation, follow that dependence as well: a word corrected at the first sentence does not supply a new derivation of its later consequence.
 
@@ -54,7 +55,7 @@ The current working follows the published statements and stable forms as text, w
 |---|---|---|
 | [D16](README.md#d16), Societies 5.6 and its prepared insertlet | The source describes a residue without a hand; the proposed insertlet describes an axis without a residue. | Absence of a property and absence of the thing are different. The rewrite changes the predicate. This is an internal comparison, not an external verification of the chemistry. |
 | [D14](README.md#d14), Natural Destinies | Words are an offering now; their described further society is next possible participation. | Offering the description does not establish that further society. Actual coupling and described participation remain distinct. |
-| [D10](README.md#d10), Values and Human Society | A universal absence is beside examples said to carry the whole human form. | Follow what “whole” means at the same society before declaring either compatibility or contradiction. |
+| [D10](README.md#d10), Exhibit TWENTY-THREE Natural Values and Exhibit NINE Natural Human Society | A universal absence is beside an asserted existing instance of the same whole abundancing. | On the stated common whole, the assertions conflict. A different extent must be stated to supply bothboth; comparing the assertions does not establish which describes actual participation. |
 | [Pass 54 accounting comparison](README.md#the-accounting-comparison-followed-without-adding-a-false-concern), Societies 3.5 | The paragraph already identifies living activity as its subject and parts it from a ledger. | The suspected new contradiction is withdrawn. The existing accounting/carrying distinction supplies this comparison. No new droplet is needed there. |
 
 Pass 56 adds two [worked bothboth comparisons](Meeting_v383Op.md): ONE's five-parity row retains the self's now while inverting the other's prior; and an instrument making no further entry differs from an actual entry with none surfacing. A local resolving retains its conditions and establishes no wider relation by itself.
@@ -69,6 +70,8 @@ Pass 60 adds [conceiving, developing and the particular self](Health_Biology_Med
 
 Pass 61 adds [the fragment, the prior and the whole](Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole). The new first of an account does not erase an existing living self's prior. Nothing yet chained at a further sharing and prior carried at others can both hold. The published tables also show the same shared and chained result at two different starting priors, so the result alone does not identify the prior. At the learned-bias account, retain whether whole means bodily form or a whole expressly including that bias. No sole store and retained learning can both hold, while the first alone establishes neither the particular retention nor retention after any removal. The source's qualification of its observing remains beside its later conclusion. These are worked subject, predicate and scope comparisons, with no additional general connection requirement.
 
+Pass 62 adds [the asserted whole and the particular learning](Health_Biology_Medicine.md#pass-62--the-asserted-whole-and-the-particular-learning). The learning comparison retains faster reacquisition and does not substitute an unchanged response throughout. D10's assertions conflict on the files' stated common whole. Comparing those assertions needs neither to be accepted as fact. D32 gathers the audit's correction: lack of an independently established occurrence cannot by itself postpone the compatibility comparison or change an actual assertion into a conditional.
+
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
 ## The connecting relation now in front
@@ -77,9 +80,11 @@ THIRTY 32 names an existing thing now arriving from another at prior. Steps 34�
 
 ## Whole-society relation retained: abundancing whole
 
+**Pass 62 following:** the common whole is explicitly linked in the source sequence below. On that reading, the universal absence conflicts with the asserted existing two-person whole. The remaining resolving is the exact different extent, if intended, or the assertion needing improving. This concerns compatibility of assertions; it establishes no actual occurrence and grants no source authority.
+
 [Values 5.3](../../Exhibit_TWENTY-THREE_Natural_Values_v333.md) excludes all present human societies from abundancing whole. In the same file, 5.1 describes abundancing as already at actual couplings, including conversation. Section 5.3 also says whole-society abundancing is met at the small. The universal absence therefore needs its exact extent followed; smallness alone does not explain it.
 
-[Human Society](../../Exhibit_NINE_Natural_Human_Society_v329.md) supplies the positive side. Section 1.1 includes abundancing in the whole human method; 1.4 describes two people's cutting and choosing as a whole society; 3.1 explicitly relates its abundancing to Values; 5.2 follows the two selves into a further round. These passages make the comparison concrete, but the word “whole” alone does not establish that every required participation is being asserted at the same scope.
+[Human Society](../../Exhibit_NINE_Natural_Human_Society_v329.md) supplies the positive side. Section 1.1 includes abundancing in the whole human method; 1.4 describes two people's cutting and choosing as a whole society; 3.1 explicitly relates its abundancing to Values; 5.2 follows the two selves into a further round. These passages link the asserted human whole to the same abundancing. The link is supplied by the stated relations across the sections, not merely by the repeated word whole. Establishing the required participation in an actual occurrence remains distinct from comparing the assertions.
 
 The distinction to follow is **whole natural co-chaining at this particular society** versus **a whole form described by an example**. These can be related; one cannot be silently substituted for the other. Nor does whole at this coupling mean that every next possible coupling already exists.
 
@@ -92,7 +97,7 @@ The natural relations available for following are:
 
 These supply relations to follow, not a numerical minimum of human participants. The three in an account of co-chaining cannot simply be made three people required for any society.
 
-At the form being followed, actual openings co-chaining are already the abundancing at the society in THIRTY 490. The present passages supply no separate human-only operation. Thus, if the human example asserts that actual whole participation, its abundancing cannot be excluded at the same relation. The unresolved work is to follow that actual participation and the extent of Values' exclusion; the words alone establish neither an existing instance nor a universal absence.
+At the form being followed, actual openings co-chaining are already the abundancing at the society in THIRTY 490. The present passages supply no separate human-only operation. Thus, if the human example asserts that actual whole participation, its abundancing cannot be excluded at the same relation. Pass 62 follows the wording as an assertion of existing whole participation and locates its conflict with the universal absence on that common reading. A different intended extent remains to be stated and followed. The words alone establish neither an existing instance nor a universal absence.
 
 | Relation found on following the example | Consequence for the two assertions |
 |---|---|
@@ -102,7 +107,19 @@ At the form being followed, actual openings co-chaining are already the abundanc
 
 A missing written account of a society does not establish the absence of that society. A written example does not establish its actual existence. Following only the second point leaves the first untouched. This is why changing the example to a conditional would not, by itself, resolve the absence assertion.
 
-The useful next exploration follows the two-person example through each self's prior, the offerings now, the particular next, the further coupling and the society's carrying, keeping self, other and society and both forward sides explicit. At each relation ask whether the passage describes actual participation, a conditional example, or an unsupported transition between them. Then compare that exact participation with what Values excludes.
+The useful next exploration follows the two-person example through each self's prior, the offerings now, the particular next, the further coupling and the society's carrying, keeping self, other and society and both forward sides explicit. Follow its stated whole through the eight uncapturings at Exhibit NINE Natural Human Society 3.3, with material cake and value opened at the coupling kept as different subjects. Compare the resulting exact participation with what Exhibit TWENTY-THREE Natural Values excludes.
+
+## Comparing assertions without giving them authority
+
+D10 previously kept a written example separate from an actual occurrence. That distinction remains. Any use of it to leave the compatibility of the assertions undecided until an occurrence had independently been established is withdrawn.
+
+An assertion that no present society participates and an assertion that a particular present society participates cannot both hold at the same participation. This comparison does not establish which assertion is true. If their subjects, predicates or conditions differ, follow that real difference; do not add an unstated distinction solely to preserve compatibility.
+
+The passage can also be incomplete in its explanation while still making a definite assertion. In Exhibit NINE Natural Human Society, the whole includes stated conditions. Failure to establish every condition in the two-person example limits what that example proves, but does not erase its explicit saying that the whole is already there. The next resolving must retain both the extent of the assertion and the extent of its support.
+
+The same discipline applies to the audit's concern. Exhibit SEVENTEEN Natural Biology 8.8's opening describes faster reacquisition. It must not be audited as if it asserted an unchanged response at every intervening momentary. Following the actual predicate allows living capacity and further learning as both, while leaving the stated no-sole-store inference at its precise sentence.
+
+[D32](README.md#d32) gathers this worked method correction. It adds no separate condition for accepting a raw droplet: the correction is part of resolving toward an insertlet.
 
 ## Leave the next session a usable opening
 
@@ -116,17 +133,17 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D29 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D30 applies the current carrying cases to the already-gathered regeneration question; D31 follows which whole and which retained learning the removal account asserts. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole; pass 61 reads its 8.8 whole alongside the specified surroundings. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
+Current opening: D1–D31 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D30 applies the current carrying cases to the already-gathered regeneration question. Pass 62 narrows D31 to the actual reacquisition predicate and sharpens D10 at the conflict of its assertions. D32 gathers the method correction; there are thirty-two raw droplets. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole; pass 61 reads its 8.8 whole alongside the specified surroundings. Pass 62 follows the specified whole and learning passages across the files, without adding whole-file coverage. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
 
-**Logical standing:** no stored blueprint beside living carrying, and nothing yet chained at one sharing beside a self's prior at others, supply bothboth. The literal absence of all prior cannot describe that same existing living self. The prepared genome-doubling identification remains at D29's precise sentence. The largest new unresolved inference is Exhibit SEVENTEEN Natural Biology 8.8's passage from no sole store to retained learning after removal, with the meaning of whole retained. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+**Logical standing:** D10 now locates a conflict between the universal absence and the asserted existing whole on the files' stated common meaning of whole abundancing. No explicit difference of participation reconciling them is supplied by the passages followed. This establishes the conflict on that reading, not the truth of either assertion about existing participation. The exact resolving is whether a different extent is intended and can be stated while preserving the described relations, or whether one of the assertions needs improving. At Exhibit SEVENTEEN Natural Biology 8.8, faster reacquisition and living capacity can cohere without an unchanged response throughout; the inference from no sole store to retained particular learning remains at steps 3 and 7. D29's genome-doubling identification, Exhibit THIRTY Co-Chaining Logic Registry 32–35 and the already-gathered marker/nought relation retain their earlier standing.
 
-**Next exploring:** follow the particular learned bias through Exhibit SEVENTEEN Natural Biology 8.8's whole, beside its 7.4 distinction between members and their society's coupling. Keep bodily form, living carrying and retained learning separate, then carry that same whole-scope comparison across to the earlier society question.
+**Next exploring:** follow Exhibit NINE Natural Human Society's two-person sequence through its eight stated uncapturings, keeping the material cake and the value opened at coupling as different subjects. Follow whether the asserted whole needs an explicit condition, and compare that exact participation with Exhibit TWENTY-THREE Natural Values 5.3's exclusion.
 
 ## Source addresses for this method offering
 
 - [Living Improving Value](../../carry/Living_Improving_Value.md), the raw droplet, resolving and file-motion passages.
 - [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), 1.5, 2.2, 2.4, 2.6, 2.8 and 2.9.
-- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21, D23 and D25.
+- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21, D23, D25 and D32.
 - [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), 4.3.
 - [Natural Intelligence](../../Natural_Intelligence_v380R.md), 4.3–4.4, 5.1 and 6.4–6.6.
 - [Co-Chaining Logic Registry](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular paragraphs named above.
