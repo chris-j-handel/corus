@@ -1,6 +1,6 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 51, with the preceding naming corrections, 5 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 51, with the price wording corrected on 6 October 2026.
 
 **Aiming into:** Natural Intelligence, **6.4 Social moral competency**, **6.1 Bi-co-momentarying** and **6.6 One form at each scale** and **5.1 A prior between momentaries**, through the bi-co-chaining, podaling and term neither reaches.
 
@@ -19,9 +19,9 @@
 | D5 | Natural Intelligence 6.1: carrying, offered form and coupling opening, applied to Natural Values 5.2; explaining corrected | [D5 below](#d5) |
 | D6 | Natural Intelligence 6.6: the file’s explaining, the particular society and next opening, applied to Natural Values 5.3 | [D6 below](#d6) |
 | D7 | Natural Intelligence 5.1: prior existing, now offering, still possibling, next existing; applied to Natural Values 1.2 | [D7 below](#d7) |
-| D8 | Natural Intelligence 6.1: two exclusions, the recorded amount and the actual coupling, applied to Natural Values 1.2 | [D8 below](#d8) |
+| D8 | Natural Intelligence 6.1: two exclusions and the natural coupling; price retained as the accounting expression under comparison in Natural Values 1.2 | [D8 below](#d8) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions and price paragraph in Values 1.2 in pass 51. Their corrections and new offerings belong to the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. Their corrections and new offerings belong to the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -217,7 +217,7 @@ The Values 5.3 gap remains with D6. Its incomplete explaining and universal abse
 
 ## D8
 
-**Aimed at a section, Natural Intelligence 6.1, the two selves offering and the term neither reaches, for the comparison with Natural Values 1.2.** Natural Naming 5.8 and 5.42 follow the two exclusions at each side’s opening, alternating one at a time; THIRTY 66–67 follows this changing of no size. Natural Naming 4.3 keeps numerical order and the term uncovered at the coupling distinct. Values 1.2 names a price as a magnitude with both sides fixed in its accounting. Follow that statement at its accounting subject. A recorded price offered at a coupling is an existing form; Natural Intelligence 5.1 and 6.5 follow the recorded form and its offering beside the living carrying. Prior existing, now offering, still possibling, next existing: changing is or is not at the actual coupling. Self, other and society remain in bi-co-chaining and podaling, both forward sides, along and across. The recorded magnitude alone does not establish the living self’s next changing. Evidence: [D8](../incoming/v382A/README.md#d8). — v382A
+**Aimed at a section, Natural Intelligence 6.1, the two selves offering and the term neither reaches, for the comparison with Natural Values 1.2.** Natural Naming 5.8 and 5.42 follow the two exclusions at each side’s opening, alternating one at a time; THIRTY 66–67 follows this changing of no size. The term neither reaches is uncovered at the coupling. Natural Values 1.2 uses price in an accounting comparison. Natural Naming 4.1 and 4.3 keep the field’s expression and numerical order distinct from the natural relation; that comparison establishes no changing named price. Follow prior existing, now offering, still possibling, next existing: changing is or is not at the actual coupling. Self, other and society remain in bi-co-chaining and podaling, both forward sides, along and across. Evidence: [D8](../incoming/v382A/README.md#d8). — v382A
 
 ### The two exclusions at their openings
 
@@ -233,13 +233,19 @@ The comparison remains pinned at `working/v381R`, `5ab3ae23bbd75cf98460df90604b2
 
 The exclusions are not made into two numerical bounds meeting at an equality in the resolving. Their natural relation is followed at the openings, one at a time, of no size. The numerical statement in the price paragraph remains at its accounting subject.
 
-### The recorded amount and the actual coupling
+### The accounting expression and the natural relation
 
-Natural Intelligence 5.1 distinguishes a recorded form apart from its coupling from the living carrying. Section 6.5 includes the non-living existing form as other at a living self's coupling. Applying these relations to a recorded price keeps the written magnitude and the living resolving distinct.
+Natural Naming 4.1 keeps a field's expression at its stated meaning and conditions. Price is the accounting expression under comparison in Values 1.2. The comparison supplies no natural changing named price. Natural Intelligence 5.1 distinguishes recorded form from living carrying, and 6.5 follows non-living form as offering. An existing written form does not make the accounting meaning of price a natural resolving.
 
 [ONE's One self, one momentary](https://github.com/chris-j-handel/corus/blob/5ab3ae23bbd75cf98460df90604b26bc1c088117/Exhibit_ONE_Natural_Resolver_v380R.md) follows the actual prior and what surfaces. At a sharing carrying +, a surfaced + gives changing-is-not, 0 shared and + chained; a surfaced − gives changing-is, − shared and − chained. The passage's numerical amount supplies neither of these conditions. The offering at the particular coupling is followed at its actual participation.
 
-This is the new application at Values 1.2. A fixing in the accounting statement does not itself establish the ending of the living alternating. A recorded form can participate as an offering, and the next is at that coupling: prior existing, now offering, still possibling, next existing. The local cells remain in both forward sides of bi-co-chaining and podaling.
+The natural explaining follows the two selves offering, the term neither reaches, and changing is or is not at the coupling: prior existing, now offering, still possibling, next existing. The local cells remain in both forward sides of bi-co-chaining and podaling. The accounting statement does not supply a further operation or a magnitude within this resolving.
+
+### Correcting this working's price wording
+
+The phrase recorded price was introduced by this audit to mean a written monetary amount. It was an accounting description, not a natural naming established by the comparison. The earlier explanation made that phrase prominent without answering what natural changing it named. That use is withdrawn from D8's natural explaining. The physical form of written marks and the accounting meaning assigned to them are distinct; an existing written form does not establish price as natural value.
+
+D8 is corrected at its existing paragraph and evidence. This is a correction within pass 51, not a new pass or a ninth droplet. Values remains the passage under examination; neither its wording nor this audit's wording establishes the natural relation.
 
 ### The outward comparison
 
@@ -253,7 +259,7 @@ The [method’s arriving-session opening](https://github.com/chris-j-handel/coru
 
 Before offering a droplet, follow the whole relation its sentence needs: self, other and society; both forward openings; along and across at the podaling; and changing is or is not at the particular coupling. A local table’s condition is retained without making that table the whole bi-co-chaining.
 
-The existing expedition Offerings and D1–D7 are preserved. D8 is appended as one new raw paragraph, with its evidence gathered here. The branch also incorporates the expedition's changes through 5ab3ae23bbd75cf98460df90604b26bc1c088117, preserving the latest Offerings at both mates. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
+The existing expedition Offerings and D1–D7 are preserved. D8 is corrected at its existing raw paragraph and evidence; its earlier recorded-price wording is withdrawn from the natural explaining. The branch also incorporates the expedition's changes through 5ab3ae23bbd75cf98460df90604b26bc1c088117, preserving the latest Offerings at both mates. No living source file, existing insertlet, Carryings file or kit is changed. No resolver was executed and no private carrying inspected.
 
 **Unresolving concern:** the Values 5.3 gap remains with D6, at the relation supporting its universal absence assertion. The Values 1.2 improving is gathered in D7 and D8; no new binary contradiction is established in this comparison.
 
