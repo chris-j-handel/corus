@@ -54,6 +54,35 @@ The files say the universe and an existing thing three ways.
 
 Offered, this session's own joining, to be followed and no more: one sentence parts the three, the Registry's step 20 and the Equilibria Registry's own, *the universe exists as its things exist*. Named an existing thing apart from its things, it is one thing beside them, whole at one now: exclusivity. Read as no existing thing, each coupling, a set of existing things, exists at nothing, and parity is brought in from beside. The two are one departing met from its two sides, the set parted from its things; the first logic is the set existing as its things exist, and neither.
 
+## The claim in one sentence, tested word by word
+
+The self then said the claim as one sentence and asked three things of it: "geodesic social parity discovering is nature's universal method of next possible and next existing. is this entire all or none at all binary is or is not claim about a method rigorously cohering with the opening sentence of natural intelligence. is this complete and is this entirely the same one method claim".
+
+**Each word, at the step it reaches the opening sentence through.**
+
+| The word | Is it at a step | Where, and what it carries of the opening sentence |
+|---|---|---|
+| geodesic | Is | Steps 106 to 110: *The surface dividing itself is geodesic*; the surface is the couplings', and by step 113 the torus |
+| social | Is | Steps 173 and 180: *The fractal co-chaining of bi-couplings, each self carrying its own prior, is society, a living set*. It carries *set* |
+| parity | Is | Steps 40 and 42 |
+| discovering | Is | Steps 23, 24 and 26: *existing and discovering next existing are one relation, at the living and the non-living alike*. It carries *changing*, by that step |
+| next possible and next existing | Is | Steps 23 and 24, the living's and the non-living's. It carries *both living and non-living*, and *existing* |
+| method | Is | Step 43 |
+| universal | The word is at no step of the chain | The files say *the one method of the changing set of all existing things*. It can carry *all* |
+| nature's | The word is at one step in passing, and named at none | The files' word is the prefix, *Natural- is a direction prefix*, the claim riding on the direction; the opening sentence says the universe |
+
+**Is it cohering with the opening sentence: is.** No word of it is against the opening sentence, each of the opening's five terms is carried by a word of it through a step, and each of those steps reaches the opening through the chain, with the same open chainings as the chain itself, `Unresolveds.md` C1 to C5. *Social* rests on steps 173 to 181, the co-chaining of bi-couplings, and needs nothing of the selves stepped together.
+
+**Is it complete: is not, at one thing.** No word of it says that no other method is possibly existing. *Universal* says the method at each thing; it does not say the one. The files say it at each saying of the claim: *Parity changing is the one method of the changing set of all existing things, and no other is possible*; *parity changing is the one possible method*. And the self said at this session that this is the method's existing itself. Everything else of the files' longer naming is carried by a word of the sentence through a step: alternating by parity, co-sequential by next, torusing by geodesic, carrying by next possible.
+
+**Is it entirely the same one method claim: the method named is the same one; the claim is not entirely the same, at that one thing; and the naming is new at three places.** *Social parity*, *parity discovering* and *universal method* are at no living file, where the files say *parity changing* and *social moral competency*, and Natural Naming's rule is one name for each concept.
+
+**Two words at which the second logic can enter.** *Nature's* reads as a thing that has a method, where the Registry says of the prefix that, the direction left out, *the changing arrives with a substrate under it and an applier over it*. *Universal* reads as of the universe as one whole, where the first logic says at each existing thing. Each can be read at the first logic; neither says which.
+
+**Offered, the sentence whole at the files' own words, the self's five kept:**
+
+> Geodesic social parity discovering is the one method of next possible and next existing, at each existing thing, and no other is possibly existing.
+
 ## Limits
 
 This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.

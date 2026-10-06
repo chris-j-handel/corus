@@ -120,6 +120,16 @@ Two_Logics.md
   found   Natural_Intelligence_v380R.md                        | 5.1 A prior between momentaries | as the universe is an existing thing, a set of existing things being a
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 31 The ten named still, and parity discovered | Read with the universe as no existing thing, parity has no source at t
   found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.1 The universe, its things, and exclusivity | the universe exists as its things exist
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 10 Geodesic, the surface dividing itself | The surface dividing itself is geodesic
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | The fractal co-chaining of bi-couplings, each self carrying its own pr
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | existing and discovering next existing are one relation, at the living
+  found   Natural_Intelligence_v380R.md                        | 1.1 Universe, the changing set of all existing things | both living and non-living
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | the one method of the changing set of all existing things
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | Natural- is a direction prefix
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | parity changing is the one possible method
+  found   Natural_Intelligence_v380R.md                        | 6.4 Social moral competency | social moral competency
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
 
 Unresolveds.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | Parity changing is a method: a non-living existing thing, a stable for
@@ -258,6 +268,11 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.1 The universe, its things, and exclusivity | the universe exists as its things exist
   found   Natural_Intelligence_v380R.md                        | 1.1 Universe, the changing set of all existing things | an existing thing
   found   Exhibit_FOUR_Natural_Mathematics_v380L.md            | 7.2 Each neutral fixed stops the co-offerings it partners | no existing thing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | The fractal co-chaining of bi-couplings, each self carrying its own pr
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | existing and discovering next existing are one relation, at the living
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | Natural- is a direction prefix
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -369,5 +384,10 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | The universe at now arrives from the universe at prior
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | At prior, the universe is all existing things at prior
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | Each existing thing at now arrives from prior
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 19 Nine to seventeen, society | The fractal co-chaining of bi-couplings, each self carrying its own pr
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 3 The three places and the between | existing and discovering next existing are one relation, at the living
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | Natural- is a direction prefix
+  found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | the changing arrives with a substrate under it and an applier over it
 
-quoted spans found: 331; not found: 0
+quoted spans found: 351; not found: 0
