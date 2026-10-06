@@ -55,3 +55,5 @@ Opportunity 2, Natural Biology: "The most incoming of any file prior to momentar
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 
 ELEVEN Natural Medicine, v331: 16 findings and 1 discovery waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+**Marking for the next session, strengthening, at the placenta.** Marmoset twins continue chimeric through shared placental blood, their germlines included, and a heifer born beside a bull twin is most often a sterile freemartin at the same shared blood; Natural Medicine's marking at the membrane's sign and no size meets two further observings. (re-aimed from Exhibit SEVENTEEN Offerings to Natural Biology at v381R) — v380R

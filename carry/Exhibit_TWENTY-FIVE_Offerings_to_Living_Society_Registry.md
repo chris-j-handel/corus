@@ -41,3 +41,5 @@ Our files point nowhere inside the set: no repository links, no filenames, no co
 TWENTY-FIVE Living Society Registry, v347: 11 findings and 2 discoveries waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
 
 **Aimed at a sentence, Living Society Registry, the subtitle *An Open Registry of …*:** one of *the two subtitles with no -ing and no relation unfolded*, the other the Hard Problem Registry's. Laid ready at the file's carrying: *an -ing in place of *An Open Registry of*, at the relation each unfolds, at each file's own motion and in its own voice.* Session_Report_v381F.md part 2.2, Finding 2, and part 6 Ready; Next.md Ready. — v381F
+
+Living Society Registry: the observations home for the sciences, with a source address at each entry, which it carries at none now. Its Part Three status paragraph goes to the Living File Registry; 1.10 is written or the numbering closed. (Re-Settling the Living Files, §8) (re-aimed from Exhibit TWENTY-SIX Offerings to Living File Registry at v381R) — resettling_v373
