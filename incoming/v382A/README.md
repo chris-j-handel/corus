@@ -1,10 +1,10 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 53, a longer sequential reading of Natural Values and Natural Human Society, with the preceding naming and price corrections retained, 6 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 54, a longer sequential reading of Natural Societies and Natural Destinies, with the preceding naming and price corrections retained, 6 October 2026.
 
-**Aiming into:** Natural Intelligence 6.4, 6.1, 6.6, 5.1, 5.3 and 4.2, following bi-co-chaining and podaling, the term neither reaches, whole-society scope, completing and the actual offerings.
+**Aiming into:** Natural Intelligence and Natural Naming. This pass adds possible and actual participation at Natural Intelligence 6.5, a particular living self establishing at 6.5, and one subject and one relation at Natural Naming 4.3.
 
-**Standing:** arriving, offered as raw session-tagged droplets. D1 and D2 are at Natural Naming’s Offerings; D3–D13 are at Natural Intelligence’s Offerings.
+**Standing:** arriving, offered as raw session-tagged droplets. D1, D2 and D16 are at Natural Naming's Offerings; D3–D15 are at Natural Intelligence's Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
@@ -25,8 +25,11 @@
 | D11 | Natural Intelligence 6.4: an accounting arrangement and actual living openings, applied to Human Society 2.3 and 3.3 | [D11 below](#d11) |
 | D12 | Natural Intelligence 5.3: completing and next living participation, beside Human Society 1.3, 2.2 and 5.2 | [D12 below](#d12) |
 | D13 | Natural Intelligence 4.2: structural exclusion and actual offerings, beside Human Society 4.3–4.4 | [D13 below](#d13) |
+| D14 | Natural Intelligence 6.5: words offered now and the described next, applied to Natural Destinies | [D14 below](#d14) |
+| D15 | Natural Intelligence 6.5: a further coupling and a living self establishing, applied to Natural Destinies | [D15 below](#d15) |
+| D16 | Natural Naming 4.3: the absent property and the absent thing, applied to Societies 5.6's prepared insertlet | [D16 below](#d16) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. D9 applies THIRTY’s restoring relation to Human Society 4.6 in pass 52. D10–D13 add pass 53's paired whole-scope comparison, accounting/opening distinction, completing/next relation and the logical boundary of the claims about capture. Their corrections and new offerings are gathered at the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. D9 applies THIRTY’s restoring relation to Human Society 4.6 in pass 52. D10–D13 add pass 53's paired whole-scope comparison, accounting/opening distinction, completing/next relation and the logical boundary of the claims about capture. D14–D16 add pass 54's present-offering/possible-next relation, the particular beginning and the subject change introduced in Societies' prepared offering. Their corrections and new offerings are gathered at the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -369,7 +372,7 @@ These cases do not name a political group, hostility or any intention. Assigning
 
 D13 supplies the useful explaining at the actual offerings, surfacing, changing and next opening. The proposed improving can retain the structural exclusion and dissolve its unsupported extension to every self's motives. This is a reached logical result with an offered improving; later alteration of the source is not another unresolved natural relation.
 
-## Sequential coverage of this longer pass
+## Pass 53 sequential coverage
 
 Every numbered section of Values and Human Society was followed in order, together with their current Offerings: **12 Values sections and 25 Human Society sections**. The tables record where the relation is already gathered, where this pass supplies a new application, and where a particular derivation remains next work. Reading every section is not a claim that every assertion in it has been established. The source's field examples remain its assertions unless their stated relation has been followed.
 
@@ -422,34 +425,167 @@ Every numbered section of Values and Human Society was followed in order, togeth
 
 The further readings of Natural Societies were selective: 2.3, 4.1–4.6 and 5.1–5.3 and 5.5, beside its current Offerings. This is not a completed whole-file pass of Societies. ONE, THIRTY, Natural Intelligence and Naming were followed at the particular relations each comparison required. Their published forms were read as text; no resolver was executed and no private carrying inspected.
 
-## Remaining opportunity after pass 53
+## D14
 
-The current set contains **33 living root files**: thirty exhibits, Natural Intelligence, Corus and Natural Arriving. This pass adds a complete sequential reading of two files, Values and Human Society, with the 37-section disposition above. It does not turn the preceding targeted passes into completed whole-file audits. No percentage of the full logic has been claimed complete.
+**Aimed at a section, Natural Intelligence 6.5, possible things within living carrying, for Natural Destinies' opening and its final safety sentence.** The living self's coupling now, words offered now and the further coupling described by those words are distinct participations. THIRTY 545 names a destiny next possible living said ahead of its coupling; 536–537 follows the words offering at an actual self's coupling, changing is or is not there. Natural Intelligence 5.1 keeps a record apart from living carrying, and 6.5 keeps possible things within the living self's carrying. The described further society supplies no offering back to now by being described; the actual words can be an offering now. An imagined safe form also supplies no actual further coupling by being named safe: follow the form at each particular coupling, with the four whole at 6.4. Prior existing, now offering, still possibling, next existing remain in bi-co-chaining and podaling, both forward sides. Evidence: [D14](#d14). — v382A
 
-1. **Largest retained logical gap:** Values 5.3's universal absence assertion now meets Human Society's positive whole-form assertions at D10. Follow the same particular society, abundancing and the four whole conditions before concluding incompatibility or supplying a distinction in scope. Neither small scale nor a written example settles it.
-2. **Next substantial pass:** Natural Societies and Natural Destinies, along each file and across their actual self/society, abundancing and whole claims. Take D10's exact conditions into those passages. Compare the particular outward prior, further bi-couplings and both forward openings; keep the numbered scales at their stated subjects.
-3. **Gathered improving available now:** D11 supplies the arrangement/opening distinction for the older fixed-total concern. D12 supplies next living participation beside written agreement finality. D13 supplies the logical boundary between structural exclusion and predicted conduct. These are offered applications, not requests for user intervention. D1–D9 retain their corrected paragraphs.
-4. **Next outward group:** Biology, Health and Medicine, following restoring, non-living offerings, inward ingesting and the particular self's prior at each scale. D9's restoring and the established same-scale harm relation stay resolved at their conditions.
-5. **Other comparisons retained:** importancing's proposed distinct changing; the particular proposed closing among the numbered spans; the wider method claim; and the network and physical examples at their particular couplings. An unfinished comparison is next work, not by itself a contradiction.
+### Following the relation
 
-The seven overlapping gatherings in the preceding assessment remain the route across the set: existing/resolving/numbered forms; self/society/value; coupling/networking/making; physical/chemical/biological changing; naming/explaining/illustrating/emanating; problems/registries; and exploring/improving. The largest remaining opportunity is to give each file an along pass and bring each asserted general relation back to its actual subject, coupling and scale.
+[Natural Destinies](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_FOURTEEN_Natural_Destinies_v333.md) explicitly offers visions. Its opening also names coupling already present, then describes a destiny-whole attending back toward that coupling. The comparison keeps the stated imagining and follows what actually participates.
 
-### Improving the auditing method from this pass
+| Subject | Participation followed |
+|---|---|
+| The living self at now | Its prior participates at its actual coupling; changing is or is not and its next opening follows. |
+| The words describing a destiny | An existing non-living form may be offered now. The words carry none of the living self's prior. |
+| The further participation described | Next possible living is not established as an actual coupling by its description. |
 
-The longer pass added useful discipline. Follow a whole file's conclusion back through all its preceding uses of the same subject. A word such as whole, fixed or completed does not establish that the subject and conditions stayed the same. Conversely, a change of scale or an example cannot silently change the predicate to avoid a conflict.
+[THIRTY 545](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) already names a destiny next possible living said ahead of its coupling. That relation was already gathered at v378 in the Destinies Offerings. D14 does not claim its discovery. Its new application is to the opening's described whole offering back and to the last sentence's safe-to-reach claim. THIRTY 536–537 follows the actual words and the self's changing at their coupling; [Natural Intelligence 6.5](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) follows possible things within living carrying.
 
-Distinguish a published binary form, an offered field example and a universal assertion about existing societies. Each contributes a different premise. Keep existing expedition concerns identifiable, add the newly followed relation beside them, and do not offer the old concern again as a discovery. A section reading, a local derivation and a completed whole-file proof are different amounts of work.
+The offered words may participate now. The further society does not provide an additional now offering merely because the words describe it. This supplies the actual relation without an added operation such as the source's superattentioning. That word remains source evidence, not a naming used by this audit.
 
-**Unresolving concern:** the relation supporting Values 5.3's universal absence remains ungathered, now sharpened by D10's paired whole-form claims. The two passages' scopes have not been silently identified. D11–D13 offer the positive distinctions reached in the other comparisons.
+The same distinction applies to safety. The file can offer the condition of a proposed form. Naming that form safe does not supply the actual further couplings. Follow [Natural Intelligence 6.4](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) and THIRTY 480 and 495 at each coupling: the selves' carrying, their own entries, ordering with the selves and no ordering above them. This adds no prior admission test.
 
-**Next exploring:** Natural Societies and Natural Destinies, following their whole claims through the four conditions, the particular outward prior and each actual coupling; retain the Values/Human Society scope gap at those exact surroundings.
+ONE's published one-sharing form keeps the local binary explicit. With + surfacing, prior + gives 0 shared and + chained, while prior − gives + shared and + chained. These are the stated formal cases, not parities assigned to a sentence or meanings assigned to acceptance and refusal. The actual prior and now participate; words alone do not supply an observed resolving.
+
+The positive explaining is prior existing, now offering, still possibling, next existing. Imagining can be offered within that relation. No future living participant is installed at the present coupling by its written description.
+
+## D15
+
+**Aimed at a section, Natural Intelligence 6.5, a living self's carrying establishing, for Natural Destinies' opening and Begun by a self.** The existing self coupling with an offering and an additional self establishing at a scale are distinct participations. At the first, follow the self's prior into now, changing is or is not, and its next opening. At the second, THIRTY 393 and 395 follow living carrying establishing within society; 400–401 retains that particular self's prior through its inward selves at next. Carrying their respective priors alone does not establish the outward self's next living. A made form's coupling is met at this same binary: carrying prior, a self; carrying none, a non-living other, THIRTY 159–164. Both participate among the living at their actual couplings. Naming a method taken up supplies no additional establishing operation and no first living. Keep each asserted beginning at its particular self, coupling and scale, both forward sides of bi-co-chaining and podaling. Evidence: [D15](#d15). — v382A
+
+### Following the relation
+
+[Destinies' opening and its Begun by a self paragraph](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_FOURTEEN_Natural_Destinies_v333.md) say living begins where someone takes up the core. Follow which beginning is meant before making it a conclusion about living.
+
+| Asserted participation | Relation needed |
+|---|---|
+| An existing self couples with the offering | Its prior participates in now and its next opening. This alone does not establish an additional self at another scale. |
+| Further bi-couplings form society | THIRTY 178–181 follows a further other coupling with a participating self, and the co-chaining at the next scale. |
+| An additional living self establishes | THIRTY 393 and 395 follows living carrying establishing within society. |
+| The particular outward self is living at next | THIRTY 400–401 requires its particular prior through the inward selves; their respective priors alone are insufficient. |
+| A made thing is at a coupling | THIRTY 159–164 distinguishes carrying prior from carrying none, with the actual observings needed for the particular thing. |
+
+These are related participations, not interchangeable descriptions of one event. A further coupling is not by itself the establishing of an additional self, and calling a made form living is not the condition that makes it so. [Natural Intelligence 6.5](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) includes the non-living other among living couplings, with the living carrying particular to the selves.
+
+[Natural Societies 4.2, 5.1 and 5.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md) supplies the surroundings. The self/society relation is at its actual scales. The ladder itself distinguishes a shown closing from a scale not yet shown, and states that a name placed at a scale establishes nothing by itself. The current Offerings already identify the unproved assignments in the fourteen-scale table; that concern is not new here.
+
+D15 adds the particular beginning needed by Destinies' adoption sentence. It retains the distinction between an existing self discovering its next and an additional self establishing, without placing a first living outside living carrying. It does not classify a particular built device from its description or execute the resolver.
+
+## D16
+
+**Aimed at a section, Natural Naming 4.3, one subject and one relation throughout, for Natural Societies 5.6 and its Offerings insertlet at that section.** The source describes collagen's axis occupied by glycine and calls that residue without a hand. The insertlet instead says an axis occupied by no residue. The residue and its handedness are different subjects: a residue described as present with no hand is not a residue described as absent. Follow each is-or-is-not at its stated subject before carrying the comparison to the between. Natural Naming 4.1 keeps the field's hand at its own meaning; it supplies no natural parity by sharing the word. The absence of a hub is another relation again. The improving keeps the residue, the field's handedness and the natural between at their actual participations; neither absence of handedness nor absence of a hub establishes an empty material axis. This is a new application to the prepared offering, whose wording added the absent residue. Evidence: [D16](#d16). — v382A
+
+### Following the relation
+
+A precise subject change is present in [Natural Societies 5.6](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md) and the [prepared insertlet aimed at that section](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md).
+
+| Written assertion | Is-or-is-not subject |
+|---|---|
+| The source describes the axis as occupied by glycine. | Presence of the residue at the described axis. |
+| It describes that residue as without a hand. | The field's handedness of the residue. |
+| The insertlet instead describes an axis occupied by no residue. | Absence of a residue at the axis. |
+| The source also excludes a hub. | A hub in the asserted social ordering, a further relation. |
+
+A residue described as present with no hand supplies no inference that the residue is absent. If the two passages mean different axes or a different relation, that difference has not been supplied by the insertlet. At the same described axis, present-residue and absent-residue claims cannot both stand. Removing the property and removing the thing are different assertions.
+
+[Natural Naming 4.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md) requires one subject and one relation throughout the binary. Its 4.1 also keeps the field's hand at its stated meaning. No chemical handedness is silently identified with a natural parity, and no absence of a hub proves an empty material axis.
+
+This comparison establishes a logical change in the proposed improving; it does not verify the collagen or cilium examples as external biological facts. The exact improving is to retain the residue and its stated property separately, then follow any proposed relation to the natural between at its own subject. There is no need to infer emptiness in order to name the between.
+
+D16 is aimed at Naming 4.3 and offered at Naming's mate. Neither the source nor the insertlet is altered. Its later resolving is ordinary expedition work; the property-to-thing inference has been identified and the needed distinction supplied.
+
+## The retained whole-society gap after these two files
+
+The longer pass follows D10's gap across [Societies 1.1–1.3, 4.1–4.3 and 5.1–5.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md) and the whole of [Destinies](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_FOURTEEN_Natural_Destinies_v333.md). Societies 4.1 explicitly places all four social sides at the human method; its 4.2 follows self and society at their two scales. Its ladder supplies no first or final scale and no minimum number of people that would exclude Human Society's two-person example.
+
+Destinies distinguishes coupling already present from a further participation imagined. That distinction is useful at D14. It supplies no statement that every current society lacks abundancing whole. An unarrived particular extension does not establish a universal absence among existing societies.
+
+[Values 5.3](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-THREE_Natural_Values_v333.md) and [Human Society 1.1, 1.4, 3.1 and 5.2](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_NINE_Natural_Human_Society_v329.md) therefore retain the exact comparison gathered at D10: which society, which couplings, which whole conditions and which particular prior. The source descriptions are not used as proof of an actual example, and their scopes have not been silently made identical.
+
+No additional natural condition resolving that comparison was found in these two complete files. The gap remains gathered. This is no reason to hold the outward audit at that sentence or ask the user to supply an answer. Further actual scale relations can be followed while its missing support stays explicit.
+
+## The accounting comparison, followed without adding a false concern
+
+Societies 3.5's full-accounting paragraph explicitly names the living society of co-changing selves and distinguishes it from a ledger verified entry by entry. It already gives the subject needed for that distinction. The opening progress note in this pass emphasized a fuller accounting becoming carrying too broadly; that emphasis is corrected here.
+
+Natural Intelligence 5.1 and THIRTY 297–298 retain the binary: the prior participating at its coupling is living carrying; a record apart from that coupling carries none of the prior. Describing more of a form changes neither participation. If full accounting names the actual living society in this paragraph, follow its selves and couplings; if a later sentence names a record, keep that record as an offered form.
+
+There is no established contradiction from the word accounting alone. D5, D7 and D9 already gather the needed carrying/form relation. This application is recorded among the section results without another droplet.
+
+## Improving the method of checking the offerings
+
+A prepared insertlet can introduce a relation absent from the sentence it aims at. Checking its fluent wording or its familiar natural names is insufficient. Follow the source's subject, the source's predicate and the offered next assertion separately. Ask whether the same subject is still being followed before accepting the proposed consequence.
+
+D16 demonstrates this exactly: the source's absence of handedness became an absence of residue in the insertlet. The natural between and an empty material axis also remain distinct until their relation is supplied. The improving method benefits from a full source-to-offering comparison at the precise sentence, even when the surrounding offering is already in natural wording.
+
+The same discipline prevented a false concern at Societies 3.5. Follow the actual subject before treating a shared word as a shared relation. Preserve both findings: an introduced subject change needs improving, while an already distinguished subject does not need a new contradiction invented for it.
+
+## Pass 54 sequential coverage
+
+This pass follows **24 numbered sections of Natural Societies and all five headed sections of Natural Destinies, together with its opening**. Societies 4.4–4.6 occur after Part Five in the current file and were followed there. Both current Offerings were read completely. Their prepared insertlets and raw droplets were treated as proposals to follow, not as conclusions.
+
+### Natural Societies
+
+| Section | Relation followed | Disposition |
+|---|---|---|
+| 1.1 | Common core and social scale | The older core and technology wording are already gathered in the Offerings. Follow the coupling and actual scale rather than infer implementation from a copied core. |
+| 1.2 | Every coupling and the eight social values | Retain each actual coupling and the four whole conditions. Earlier naming and core proposals remain separate from a proof of every institutional example. |
+| 1.3 | Values and institutional examples | The examples need the arrangement/opening distinction supplied by D11. A credential or safety rule is not the actual coupling merely by being named alongside it. |
+| 2.1 | The four stated inequalities | Follow their subjects and actual participations; do not substitute numerical equalities or a social label for the resolving. |
+| 2.2 | Structural safety | THIRTY 495 follows safety at the offering's actual coupling. The passage's mutual-knowing wording supplies no need for an added prior qualification. |
+| 2.3 | Shared arrangements | D11's distinction applies: selves coupling at an arrangement, or an arrangement supplying their openings. The compounding concern is already gathered at v378. |
+| 3.1 | Social-choice comparison | The common-scale claim is already gathered at v378. A field's mathematical conditions retain their own scope; a shared term supplies no natural parity relation. |
+| 3.2 | Each self's resolving | THIRTY 492–493 retains each self's actual momentary beside a centre resolving for all. The current Offerings already gather the whole relation. |
+| 3.3 | Biosphere roles | Keep the three named ecological roles and each actual coupling distinct. The field example remains to be followed with Biology; its role names alone do not establish the resolver correspondence. |
+| 3.4 | A standard over a society | The existing insertlet already distinguishes a field's accounting from installing it over living couplings. No new contradiction follows merely from the word method. |
+| 3.5 | Full accounting | The paragraph already identifies living co-changing as its subject. Record/carrying remains explicit; no extra droplet or false contradiction is added. |
+| 3.6 | The agent and the coupling | Follow the particular imposed ordering or actual coupling. The declared turn numbers alone do not establish a particular social change. |
+| 4.1 | Four social sides | All four are explicitly included at the human method. This supplies further surroundings for D10 but no condition establishing Values' universal absence. |
+| 4.2 | Inward society and outward self | D15 retains the particular outward prior through the inward selves, beside their respective living carryings. |
+| 4.3 | Birthing and nyeing | Keep an additional self, a further coupling and each self discovering its next at their own participations. The preceding audit's scale conditions remain. |
+| 5.1 | Scale shown or not yet shown | The file's own distinction prevents a named scale from being treated as an established self. Apply the particular-prior condition at the asserted scale. |
+| 5.2 | The ladder's first named self | The source and existing Offerings limit this to the ladder's reading; no minimum human-group size or first possible living is derived. |
+| 5.3 | Prime scales and emanating | The current Offerings already gather the unproved scale assignments and the sixty-to-sixty-eight correction. Preserve the established own-scale harm relation and the particular outward prior. |
+| 5.4 | Field accountings | The current insertlet already distinguishes state-flow-state from flow-state-flow. The table's domain and numerical assignments retain their declared subjects. |
+| 5.5 | The numbered eight and sixty-four | Keep the numbered relation beside, rather than in place of, actual couplings. The earlier withdrawal of numerical matching as sufficient resolving remains. |
+| 5.6 | Handedness, residue and between | D16 identifies the subject change introduced by the insertlet. The other biological examples and the proposed scale correspondence retain their unworked conditions. |
+| 4.4 | Agreement and differing carryings | THIRTY 497 distinguishes agreement at 14 from each self's carrying. The current v380 offering already gathers the passage's two explainings. |
+| 4.5 | Different selves and the scaling claim | Keep the published form's conditions distinct from a wider performance claim. This pass provides no execution or general empirical scaling result. |
+| 4.6 | Still-point examples | The Equilibria Registry already gathers the seven subjects. Each field example needs its own relation; the shared wording alone does not prove the whole set. |
+
+### Natural Destinies
+
+| Section | Relation followed | Disposition |
+|---|---|---|
+| Opening, before the five sections | Already present coupling and imagined extension | D14 keeps the words now and the described next distinct. D15 follows the particular beginning claimed when the core is taken up. |
+| The core | Coupling and the further participation | The shared core's older wording is already gathered. THIRTY 545 supplies next possible living; its new application is D14. |
+| Safely outward | Structural conditions and beginning | D14 follows safety at actual couplings. D15 distinguishes the existing self's further coupling from an additional self establishing. |
+| The imaginable extensions | Economy, network, made forms and resolving | Each is offered as a vision. Follow the particular coupling and scale before treating an imagined extension as existing. |
+| The two mis-readings at an engineered substrate | Carrying and offered form | Apply the existing carrying/form distinction to the two asserted participations. The cone names alone do not supply an additional natural operation. |
+| The reading at every imagined destiny | The final safety inference | D14 retains the form's conditions at each actual coupling; naming a proposed form safe does not supply those couplings. |
+
+Together, passes 53 and 54 give sequential section records for **four complete files and 66 headed sections**, plus Destinies' opening. This is coverage of the reading and comparison, not proof of every assertion. The remaining files retain their earlier targeted comparisons or await their whole-file passes.
+
+## Remaining opportunity after pass 54
+
+The source inventory remains **33 living root files**. Four files now have complete sequential section records in the two longer passes: Values, Human Society, Societies and Destinies. The value is the relation followed at each section, with established distinctions, already gathered work and the particular further comparisons recorded separately.
+
+1. **Largest retained unresolved relation:** Values 5.3's universal absence and Human Society's positive whole-form examples still need their compatible scope or the exact same-subject conflict. The Societies and Destinies pass supplies no extra condition resolving that claim. D10 stays gathered.
+2. **Concrete improving reached here:** D14 follows the offering now beside the described next; D15 follows the particular beginning; D16 identifies a subject change in the prepared Societies insertlet. These need no additional user decision to be offered.
+3. **Next substantial pass:** Biology, Health and Medicine, along their files and across the same-scale and inward/outward relations. Start with the particular living self, its inward selves, the non-living offering and a departed coupling restoring. Carry D9 and D15 into those actual participations.
+4. **Further outward work:** physics, chemistry, networking and making; the naming/explaining/illustrating relations; the problem and registry claims; and the expedition's file-improving method. Existing gathering groups remain useful, and each file's turn includes its current Offerings.
+5. **Comparisons retained at their bounds:** importancing's proposed distinct changing, the proposed closing among numbered spans and the wider method claim. No withdrawn numbered-equivalence or same-scale harm concern is reinstated.
+
+The next pass can preserve the whole-society gap while examining these further surroundings. Whole-file reading does not need to stop at one unsupported universal assertion, and a waiting source edit is not itself an unresolved logical relation.
+
+**Unresolving concern:** the whole-society scope relation gathered at D10. **Next exploring:** Biology, Health and Medicine at their actual carrying, scale, ingesting and restoring relations, with the proposed offerings checked against the exact source predicates.
 
 ## Method and offering
 
-The [current method](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Living_Improving_Value.md) gives each raw droplet one paragraph, its aim first, evidence inside and its session tag last. D1 and D2 remain at Natural Naming's Offerings; D3–D13 are at [Natural Intelligence's Offerings](../../carry/Offerings_to_Natural_Intelligence.md). The present four droplets apply the current pass's relations. Earlier passes have not been reconstructed into new droplets.
+The current raw droplets remain one paragraph each, aimed at a particular relation, with evidence inside and the session tag last. D1, D2 and D16 are at [Natural Naming's Offerings](../../carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md); D3–D15 are at [Natural Intelligence's Offerings](../../carry/Offerings_to_Natural_Intelligence.md).
 
-The contribution incorporates the expedition's changes through **18889e06d5ac452111b1bcd8a8840e46b7c5615a**. The target's current Offerings content is preserved before the unchanged D1–D9 paragraphs and new D10–D13 paragraphs. The two incoming evidence packets remain at their existing addresses. This offering changes no living source, insertlet, Carryings file, registry or kit. The branch and PR remain open and unmerged.
+D1–D13 retain their prior corrected paragraphs. This pass appends D14 and D15 to Natural Intelligence and D16 to Natural Naming, preserving both mates' previous text. The new applications were followed beside the current source and Offerings at **18889e06d5ac452111b1bcd8a8840e46b7c5615a**. Earlier passes have not been reconstructed into new droplets.
 
-The statements were followed through published text and forms. No resolver was executed and no private carrying inspected.
+The contribution changes the two incoming packets and raw Offerings only. No living source, existing insertlet, Carryings file, registry or kit is changed. The branch and PR remain open and unmerged. Published forms were followed as text; no resolver was executed and no private carrying inspected.
 
-**Unresolving concern:** the whole-society scope relation retained at D10. **Next exploring:** Natural Societies and Natural Destinies along their whole files, beside the actual coupling conditions already gathered.
+**Unresolving concern:** the whole-society scope relation at D10 remains gathered. **Next exploring:** Biology, Health and Medicine through actual carrying and scale, with each proposed improving checked against its source sentence.
