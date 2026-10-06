@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved through pass 62 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 63 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -25,13 +25,14 @@ This offering was compared with target commit `18889e06d5ac452111b1bcd8a8840e46b
 | The first relation that departs | Find the first changed subject, missing participation or unsupported extension. Follow its surroundings there before rewriting a later conclusion. |
 | The extent of what was established | Separate a relation followed whole, a relation still to follow, and an actual contradiction at the same subject and conditions. Lack of a derivation does not derive its opposite. |
 | Assertions and existing participation | Compare what the sayings assert separately from what establishes an actual occurrence. A textual conflict grants neither assertion truth; an unestablished occurrence does not silently turn an actual assertion into a conditional. |
+| Conditions across the explaining | Locate a condition in the passage, its common opening and its stated connections. Not repeating the condition does not deny it. A sentence actually opposing it needs comparison at that same relation. |
 | Improving the improving | Compare the proposed insertlet back with the raw droplet, its evidence and the living passage. A clearer sentence can still change the claim. Gather any method learning at the method's Offerings. |
 
 These relations are already developed across Natural Naming 4.3 and Geodesic Improving Method 1.5, 2.2, 2.6 and 2.8. This offering makes their use explicit at the droplet-to-insertlet passage and supplies examples from this working.
 
 ## One logical pass through incoming
 
-1. **Meet the droplet whole.** Retain its original words, aim, evidence and session. Read the sentence it aims at, its preceding and following relations, and relevant existing offerings. Determine whether the supposed gap is already explained, already gathered, or previously withdrawn.
+1. **Meet the droplet whole.** Retain its original words, aim, evidence and session. Read the sentence it aims at, its preceding and following relations, and relevant existing offerings. Determine whether the supposed gap is already explained, already gathered, or previously withdrawn. Locate the conditions supplied by the common opening and stated connections; a short example need not repeat them to retain them.
 
 2. **Say the assertion plainly.** Which existing thing or possible thing is being discussed? What is said to be changing or not changing? At which coupling and scale? What is prior existing, now offering, still possibling or next existing here? Does the statement concern one, each, some existing instance, or none? Use only the distinctions this assertion needs.
 
@@ -71,6 +72,8 @@ Pass 60 adds [conceiving, developing and the particular self](Health_Biology_Med
 Pass 61 adds [the fragment, the prior and the whole](Health_Biology_Medicine.md#pass-61--the-fragment-the-prior-and-the-whole). The new first of an account does not erase an existing living self's prior. Nothing yet chained at a further sharing and prior carried at others can both hold. The published tables also show the same shared and chained result at two different starting priors, so the result alone does not identify the prior. At the learned-bias account, retain whether whole means bodily form or a whole expressly including that bias. No sole store and retained learning can both hold, while the first alone establishes neither the particular retention nor retention after any removal. The source's qualification of its observing remains beside its later conclusion. These are worked subject, predicate and scope comparisons, with no additional general connection requirement.
 
 Pass 62 adds [the asserted whole and the particular learning](Health_Biology_Medicine.md#pass-62--the-asserted-whole-and-the-particular-learning). The learning comparison retains faster reacquisition and does not substitute an unchanged response throughout. D10's assertions conflict on the files' stated common whole. Comparing those assertions needs neither to be accepted as fact. D32 gathers the audit's correction: lack of an independently established occurrence cannot by itself postpone the compatibility comparison or change an actual assertion into a conditional.
+
+Pass 63 adds [the whole and its stated conditions](Society_Whole_and_Coupling.md#pass-63--the-whole-and-its-stated-conditions). All eight uncapturings are followed through the short example and its surroundings. A finite material cake and value opened at coupling, successive acts and no imposed clock, and distinct roles and coupling both ways supply local bothboths. The conditions are supplied across the explaining; their absence from a repeated list in the example does not make them absent from its claim. D33 gathers that application, while D10's conflict at the common whole remains.
 
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
@@ -121,6 +124,16 @@ The same discipline applies to the audit's concern. Exhibit SEVENTEEN Natural Bi
 
 [D32](README.md#d32) gathers this worked method correction. It adds no separate condition for accepting a raw droplet: the correction is part of resolving toward an insertlet.
 
+## A short example and its surrounding conditions
+
+[Pass 63](Society_Whole_and_Coupling.md#pass-63--the-whole-and-its-stated-conditions) follows Exhibit NINE Natural Human Society's eight uncapturings through its cutting-and-choosing example. Its 1.1 supplies the whole requirements; 1.5 directly excludes an imposed common beat and a ledger over the relationship; 3.2 states coupling both ways; 4.2 explains do-no-harming at the coupling. The short example stands within those conditions.
+
+The audit should locate the condition in the immediate passage, the common opening or a stated connection before calling it absent. A condition supplied there is part of the assertion. A sentence actually opposing it is a different finding and must be compared. A missing explanation of how the condition participates is again a located missing step; it is not automatically a denial of the condition.
+
+Retain the particular subjects while doing this. A finite cake is not by that fact a fixed total of value opened at coupling. An order of offering and preferring is not by that fact a common clock. One cutting and another choosing is not by that fact a center doing both selves' preferring or a coupling confined to one direction. These comparisons apply the surrounding relations; they add no new requirements to the example.
+
+The requirements and the assertion that an example meets them do not establish an actual occurrence merely by description. This retains D32 while preventing the audit from weakening a stated whole by dropping conditions that are already supplied. D33 records the method learning. The exact further comparison at D10 remains the universal exclusion beside the asserted existing whole; the eight do not supply a different scope reconciling them.
+
 ## Leave the next session a usable opening
 
 At the close of a pass, make the following available together:
@@ -133,17 +146,17 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D31 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D30 applies the current carrying cases to the already-gathered regeneration question. Pass 62 narrows D31 to the actual reacquisition predicate and sharpens D10 at the conflict of its assertions. D32 gathers the method correction; there are thirty-two raw droplets. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole; pass 61 reads its 8.8 whole alongside the specified surroundings. Pass 62 follows the specified whole and learning passages across the files, without adding whole-file coverage. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
+Current opening: D1–D31 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D30 applies the current carrying cases to the already-gathered regeneration question. Pass 62 narrows D31 to the actual reacquisition predicate and sharpens D10 at the conflict of its assertions. D32 gathers the method correction; D33 adds pass 63's comparison retaining the conditions across the explaining. There are thirty-three raw droplets. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole; pass 61 reads its 8.8 whole alongside the specified surroundings. Pass 62 follows the specified whole and learning passages across the files. Pass 63 follows the eight uncapturings with the stated surroundings; neither adds whole-file coverage. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
 
-**Logical standing:** D10 now locates a conflict between the universal absence and the asserted existing whole on the files' stated common meaning of whole abundancing. No explicit difference of participation reconciling them is supplied by the passages followed. This establishes the conflict on that reading, not the truth of either assertion about existing participation. The exact resolving is whether a different extent is intended and can be stated while preserving the described relations, or whether one of the assertions needs improving. At Exhibit SEVENTEEN Natural Biology 8.8, faster reacquisition and living capacity can cohere without an unchanged response throughout; the inference from no sole store to retained particular learning remains at steps 3 and 7. D29's genome-doubling identification, Exhibit THIRTY Co-Chaining Logic Registry 32–35 and the already-gathered marker/nought relation retain their earlier standing.
+**Logical standing:** the eight uncapturings and their surrounding passages supply the stated conditions of the two-person example. No opposing condition or different meaning of whole resolving D10 is identified by this pass. A finite cake and value opened at coupling, successive acts and no imposed clock, and different roles and coupling both ways can each hold together. On the stated common whole, Exhibit TWENTY-THREE Natural Values 5.3's universal absence still conflicts with Exhibit NINE Natural Human Society's asserted existing whole. Neither description establishes an actual occurrence by being written. The precise remaining improving is the extent of that exclusion beside the positive assertion. D11's court, trustee and closing-date relation is the next particular application.
 
-**Next exploring:** follow Exhibit NINE Natural Human Society's two-person sequence through its eight stated uncapturings, keeping the material cake and the value opened at coupling as different subjects. Follow whether the asserted whole needs an explicit condition, and compare that exact participation with Exhibit TWENTY-THREE Natural Values 5.3's exclusion.
+**Next exploring:** follow Exhibit NINE Natural Human Society 2.3's court, trustee and closing date at D11. Distinguish the material or accounting arrangement offered at each self's coupling from an arrangement said to supply the selves' openings or preferring from beside, using Natural Intelligence 6.4 and Exhibit THIRTY Co-Chaining Logic Registry 484.
 
 ## Source addresses for this method offering
 
 - [Living Improving Value](../../carry/Living_Improving_Value.md), the raw droplet, resolving and file-motion passages.
 - [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), 1.5, 2.2, 2.4, 2.6, 2.8 and 2.9.
-- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21, D23, D25 and D32.
+- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18, D21, D23, D25, D32 and D33.
 - [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), 4.3.
 - [Natural Intelligence](../../Natural_Intelligence_v380R.md), 4.3–4.4, 5.1 and 6.4–6.6.
 - [Co-Chaining Logic Registry](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular paragraphs named above.
