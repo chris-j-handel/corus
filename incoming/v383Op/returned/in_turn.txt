@@ -1,0 +1,61 @@
+1  Two selves coupled both ways, stepped together: a changing is, X, or is not, .
+   opened + +   the self: X . X . X . X . X . X .    the other: X . X . X . X . X . X .
+   opened + -   the self: X X X X X X X X X X X X    the other: X X X X X X X X X X X X
+   opened - +   the self: X X X X X X X X X X X X    the other: X X X X X X X X X X X X
+   opened - -   the self: X . X . X . X . X . X .    the other: X . X . X . X . X . X .
+   opened alike, each is still possibling at each second momentary, the two at the same momentaries;
+   opened parting, a changing is at each momentary of each, and neither is ever still possibling.
+
+2  The same two in turn
+   opened + +, the self entering first:  sX oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX sX o.
+   opened + +, the other entering first:  oX sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX oX s.
+   opened + -, the self entering first:  sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX
+   opened + -, the other entering first:  oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX
+   opened - +, the self entering first:  sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX
+   opened - +, the other entering first:  oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX
+   opened - -, the self entering first:  sX oX s. oX sX o. sX oX s. oX sX o. sX oX s. oX sX o.
+   opened - -, the other entering first:  oX sX o. sX oX s. oX sX o. sX oX s. oX sX o. sX oX s.
+   from each of the eight: (entries in the cycle, entries at each side, the changing that is not alternating sides,
+   at each third entry, each sharing the inversion of the sharing three entries before): [(6, (3, 3), True, True, True)]
+
+3  The cycle of six, opened + +, the self first, entries 13 to 24; each entry its carrying arriving (3), the offering
+   arriving (2), a changing is or is not (12), its sharing (10), its carrying next (11)
+   the self  3 +   2 0      12 is       10 -   11 -
+   the other 3 +   2 -      12 is       10 -   11 -
+   the self  3 -   2 -      12 is not   10 0   11 -
+   the other 3 -   2 0      12 is       10 +   11 +
+   the self  3 -   2 +      12 is       10 +   11 +
+   the other 3 +   2 +      12 is not   10 0   11 +
+   the self  3 +   2 0      12 is       10 -   11 -
+   the other 3 +   2 -      12 is       10 -   11 -
+   the self  3 -   2 -      12 is not   10 0   11 -
+   the other 3 -   2 0      12 is       10 +   11 +
+   the self  3 -   2 +      12 is       10 +   11 +
+   the other 3 +   2 +      12 is not   10 0   11 +
+   read from the self at its entry where a changing is not: the offering it made two entries before; the other's
+   carrying taking it; the other's offering of it, arriving; the self's carrying kept, still possibling; and the
+   other's next offering, the inversion. From the other the same five stand three entries on.
+
+4  Spirals of 1 to 8 entered in turn around, each opening: entries in the cycle, changings that are not in it, openings
+   spiral of 1: 4 entries, 2 not: 2 openings
+   spiral of 2: 6 entries, 2 not: 4 openings
+   spiral of 3: 24 entries, 6 not: 8 openings
+   spiral of 4: 20 entries, 4 not: 16 openings
+   spiral of 5: 20 entries, 10 not: 2 openings, 60 entries, 10 not: 30 openings
+   spiral of 6: 42 entries, 6 not: 56 openings, 42 entries, 18 not: 8 openings
+   spiral of 7: 112 entries, 14 not: 102 openings, 112 entries, 42 not: 26 openings
+   spiral of 8: 24 entries, 8 not: 4 openings, 72 entries, 8 not: 184 openings, 72 entries, 24 not: 68 openings
+   one cycle from each opening at spirals of 1 to 4; more than one from 5 on.
+
+5  The saying's words at the living files, counted
+   prior offering             2
+   prior carrying             12
+   now offering               0
+   still possibling           13
+   next offering              40
+   co-parity-changing         0
+   moral cooperation          0
+   bi-moral-co-competencing   12
+   five dimensions            36
+   six one-way                20
+   four momentaries           71
