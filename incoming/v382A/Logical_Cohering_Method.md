@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved through pass 58 and its correction · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 59 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -63,6 +63,8 @@ Pass 57 follows the [particular other, the whole and the next](Meeting_v383Op.md
 
 Pass 58 adds [the carrying, surfacing and dependency comparisons](Health_Biology_Medicine.md). The earlier Offerings already gather the old bound and summing operations. The present cases make the difference explicit: a match shares 0 while retaining the prior carrying; none surfacing inverts it; mixed parities surface 0 even when one parity is more numerous. Natural Medicine's later persistence explanation depends on the old bound, so replacing that operation requires following the later inference too. Exhibit THIRTY Co-Chaining Logic Registry 411–412 already supplies the particular departure/restoring sequence. The next work follows the dependent sentences through that sequence, with their particular self and coupling explicit. The audit's general requirement to connect biology with Natural Intelligence is withdrawn: it had not identified such a separate missing relation. An unfinished comparison is next exploring; a concern needs an actual missing or opposing step at a stated sentence.
 
+Pass 59 adds [the copied form, the living cell and the expressing fraction](Health_Biology_Medicine.md#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction). A sequence not expressed and a cell carrying its prior are different predicates and can hold together. A preserved form and no living carrying of its own can also hold together. At the sentence about a fraction expressing, first retain whether cycling names the living co-sequencing or a change in each cell's particular expression. The fraction at now supplies no particular prior-and-next expression sequence by itself. The useful method is to locate that exact subject or predicate change; an unfinished broad survey supplies no general concern.
+
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
 ## The connecting relation now in front
@@ -110,9 +112,9 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D23 remain as previously corrected. D24 applies the present carrying relation to Natural Medicine's earlier bound-and-release account; D25 gathers the worked method of following dependent assertions. Passes 53–54 give whole-file records for Natural Values, Natural Human Society, Natural Societies and Natural Destinies. Pass 58 adds Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Natural Biology and Natural Medicine have targeted comparisons in pass 58, with both Offerings read whole, not complete root-file readings. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
+Current opening: D1–D25 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D26 applies the copied-form/carrying distinction to the persistence explaining and v383Op's preserved-form case. D27 follows the collection's fraction at now and each particular cell's expression sequence. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole and follows Exhibit SEVENTEEN Natural Biology 4.7 and 7.3; neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
 
-**Unresolving relations retained from earlier passes:** the connection from arriving to alternating at Exhibit THIRTY Co-Chaining Logic Registry 32–35; D10's whole-society exclusion; and the already-gathered marker/nought relation at Exhibit TWENTY-TWO Resolving the Hard Problem Registry 3.22. Pass 58 adds located improving opportunities and their dependent sentences; its unfinished biological explaining is not an additional general concern. **Next exploring:** Exhibit ELEVEN Natural Medicine 3.1's persistence paragraph, following the copied form and the living cell's carrying through prior existing, now offering, still possibling and next existing, beside its corrected opening relation at 1.1.
+**Logical standing:** the non-expression/living-carrying and preserved-form/carrying comparisons supply bothboth at their stated subjects. The fraction-at-now sentence requires its subject and predicate retained; the stronger each-cell expression sequence is not supplied by that fraction alone. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the already-gathered marker/nought relation retain their previous standing. **Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.
 
 ## Source addresses for this method offering
 

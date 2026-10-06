@@ -235,3 +235,15 @@ v383Op's do-no-harm offering at Exhibit ELEVEN Natural Medicine is met at the lo
 The connection at Exhibit THIRTY 32–35 remains at the precise question above; the supplied non-living participation is not treated as a derivation or refutation of the universal identification.
 
 **Next exploring:** Exhibit ELEVEN Natural Medicine 3.1's persistence paragraph, following the copied form and the living cell's carrying through prior existing, now offering, still possibling and next existing, beside its corrected opening relation at 1.1.
+
+## Pass 59 — the preserved form and the living carrying
+
+[The complete comparison](Health_Biology_Medicine.md#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction) meets v383Op's offering at Natural Intelligence 1.4 and 5.1, now present in the Offerings to Exhibit ELEVEN Natural Medicine, at the stated subjects. The offering describes a sequence present in material from a formerly living animal and asks whether this contradicts carrying being no stored description.
+
+Natural Intelligence 5.1 explicitly includes non-living existing stable forms; 6.5 includes their offering at living couplings. The form's presence and its lack of a living carrying of its own can both hold. Its presence does not supply the former self's carrying through the intervening momentaries. Natural Intelligence 1.4 excludes an added method beside all existing things; the described existing form is already included in the natural sequence. The offered case therefore supplies no contradiction of these relations at those subjects.
+
+This follows the claim made in the offering and makes no new empirical assertion about its material, age or preservation. The unqualified store expression in Exhibit ELEVEN Natural Medicine needs its particular concept retained so that dissolving a separate method does not dissolve an existing form.
+
+The same pass follows copying and silencing at the living cell, and the exact sentence where a fraction at now is made the clone cycling. Living co-sequencing and a particular sequence not being expressed can both hold; the stronger claim about each cell's expression sequence is not supplied by the fraction alone. D26 and D27 gather those applications without reopening the withdrawn general connection requirement.
+
+**Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.

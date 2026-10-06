@@ -1,8 +1,10 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · pass 58 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–59 · 6 October 2026 · raw incoming evidence**
 
-This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
+**Current comparison:** [Pass 59 — the copied form, the living cell and the expressing fraction](#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction) follows Exhibit ELEVEN Natural Medicine 3.1 whole, supplies the non-expression/living-carrying bothboth, meets v383Op's preserved-form concern, and locates the precise fraction-at-now inference. The pass-58 record and its correction are retained below.
+
+**Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
 All comparisons below are internal to the files' stated relations. The published stable forms are read as text. They are not executed. A file, a version, a field's saying and a session supply no authority. The clinical and biological assertions are followed as assertions in these files; their empirical truth is not established by this pass.
 
@@ -165,3 +167,142 @@ This applies Geodesic Improving Method 2.2. It does not turn every wording chang
 D24 aims into Natural Intelligence's Offerings; D25 into Geodesic Improving Method's Offerings. D1–D23 remain as previously corrected. There are twenty-five raw droplets in this working.
 
 **Next exploring:** Exhibit ELEVEN Natural Medicine 3.1's persistence paragraph, following the copied form and the living cell's carrying through prior existing, now offering, still possibling and next existing, beside its corrected opening relation at 1.1.
+
+## Pass 59 — the copied form, the living cell and the expressing fraction
+
+**v382A · 6 October 2026 · target `18889e06d5ac452111b1bcd8a8840e46b7c5615a`**
+
+The persistence paragraph can be followed through three distinct subjects already present in the files: **the copied form**, **the particular living cell**, and **the society of cells**. The section itself supplies the useful bothboth: the cell's living co-sequencing and a particular sequence not being expressed can be present together. Its later fraction-at-now sentence needs those same subjects retained.
+
+This pass applies the correction to pass 58. There is no additional general requirement to connect biology with Natural Intelligence. The logical work follows the sentences within the supplied natural sequence. A concern belongs at an actual missing or opposing step; an unfinished pass remains next exploring.
+
+### Passages followed and coverage
+
+[Exhibit ELEVEN Natural Medicine](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ELEVEN_Natural_Medicine_v331.md) 3.1 is read whole in this pass, including its opening, the persistence and silencing paragraphs, the later two-society explanations and its final geometric comparison. The pass follows the copied-form and expression relations in detail; reading the whole section does not establish all of its other assertions.
+
+[Exhibit SEVENTEEN Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md) 4.7 is followed whole and 7.3 reopened at the member and the lineage. [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) 1.4, 4.6, 4.12, 5.1, 5.3 and 6.5 and [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md) 4.3 supply the surrounding relations. The particular-self and scale sequence is at [Exhibit THIRTY Co-Chaining Logic Registry](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) 385–405, especially 389, 392–395 and 399–401.
+
+The [Offerings to Exhibit ELEVEN Natural Medicine](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md) and [Offerings to Exhibit SEVENTEEN Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md) retain the same contents as the complete readings in pass 58. Their relevant prior concerns, prepared offerings and v383Op offerings are reopened here. No repeated full-file coverage is added: five whole-file records, 80 headed sections plus Natural Destinies' opening remain the reach of those earlier whole-file passes. Neither Natural Medicine nor Natural Biology is claimed as completely read.
+
+This is a logical comparison of the statements in the files. It neither executes a resolver nor inspects private carrying. The source's clinical reports are not independently verified or converted into advice by this pass.
+
+### The persistence paragraph, followed at its subjects
+
+The paragraph headed “The reservoir is a carry that will not thin” describes living cells, an integrated sequence, no expression of that sequence, and copying through division. Its next explanation uses the older bound: lack of expression is treated as lack of fresh sequencing, and copying is said to reset the carrying before its release.
+
+The earlier-operation difference is already gathered in the Natural Medicine Offerings and D24. The present pass follows the subjects that were combined by that explanation.
+
+| Subject in the sentence | Relation retained through the next sentence |
+|---|---|
+| The sequence described as copied | A form appearing in further copies. The fact of copying does not give the copy the particular cell's living carrying. |
+| The particular living cell | Its prior participates in its present coupling. Natural Intelligence 5.1 locates that carrying with this self. |
+| A daughter cell named as an additional living self | Its carrying establishes within living carrying, Exhibit THIRTY Co-Chaining Logic Registry 393 and 395. The copied sequence alone is not an additional copy of one particular living self. |
+| The society or lineage of cells | Its particular relation is followed through its participating selves. Their living and the particular outward self's prior are retained separately at 400–401. |
+| The sequence being expressed or not expressed | This is the predicate used by the paragraph. Its absence does not assert the absence of every coupling at the cell. |
+
+Natural Intelligence 5.1 explicitly retains the particular living self: another self does not carry that same living self. Section 6.5 includes non-living and possible forms within a living self's carrying. These two relations can hold together.
+
+This does not classify every molecular participation of DNA as non-living. Exhibit SEVENTEEN Natural Biology 4.7 names selves at the molecular participation. Retain the scale and subject being followed: the described sequence form, a particular molecule and the cell are not interchangeable subjects. The form at a given participation does not settle every inward self's living.
+
+The first useful improving is therefore to retain which thing is said to persist. Repeated form, the particular cell's next, and a lineage's next are different assertions within natural co-sequencing. None is supplied by substituting one for another.
+
+### Non-expression and living co-sequencing as both
+
+Exhibit ELEVEN Natural Medicine 3.1 itself supplies the surroundings. Its opening places integrating, copying and silencing with the cell. Later paragraphs say that the cell sustains the silencing. The section therefore supplies living activity beside the absence of the particular expression.
+
+The two binaries have different predicates:
+
+| Binary at its particular subject | What its “is not” says |
+|---|---|
+| Is this sequence being expressed at this cell now? | This particular expression is absent. |
+| Is this cell carrying its prior through its coupling? | This cell's living carrying is absent at the participation being followed. |
+
+The first is-not cannot be substituted for the second. A living cell with a sequence not expressed is already described in the passage. It does not require an expiry reset to become logically possible.
+
+Natural Intelligence 5.3 likewise supplies a living self at a completing with no changing shared. Section 4.12 supplies the different case of an actual entry with none offered, at which a carried parity inverts. These distinctions prevent an absence named at one participation from erasing the whole carrying. They do **not** identify gene expression with the parity of a sharing. The comparison preserves the different predicates; it adds no such identification.
+
+Prior existing, now offering, still possibling and next existing remain at the living coupling. The sequence's expression is followed where the paragraph actually names it. The explaining retains both forward sides, self, other and society, along and across in bi-co-chaining and podaling.
+
+### A fraction at now and a particular cell's next
+
+The paragraph headed “And the field has since watched the position phase refuse an activation driven from outside” describes a fraction of the cells expressing and silencing sustained by the cell. It then says that this fraction is the clone cycling, in opposition to a population of silent cells.
+
+There are two readings to meet as both before naming a contradiction:
+
+| What “cycling” names in this sentence | Logical result |
+|---|---|
+| The living co-sequencing of the cells and their society | This can hold together with a particular sequence not being expressed in some cells. The file's own silencing account supplies the bothboth. |
+| Each particular cell changing this particular expression across its momentaries | The fraction at now does not supply which cell changes that expression at prior or next. That stronger conclusion has an unprovided step at this sentence. |
+
+The across statement concerns which cells express at the observing now. The stronger along statement concerns what the same particular cell does through its prior, now and next. The former alone does not identify the latter. A fraction can be stated without stating the particular cell's expression sequence.
+
+This is not a separation of natural along and across into independent methods. It retains their co-chaining and podaling while refusing a change in the **predicate being explained**. The living co-sequencing of every participating self does not, merely by being named, say that this particular expression switches at each named step.
+
+The useful resolving is to retain the first reading with the non-expression already described. If the second is intended, its actual sequence must be supplied at this exact sentence. No general gap between biology and Natural Intelligence is introduced. D27 gathers this precise choice of subject and relation.
+
+### The absence of a separate actor and the presence of the form
+
+Earlier in 3.1, agency is placed with the living cell while the particle is described as a stable form. The section also says that the released bounding is neither a self nor nothing.
+
+Those statements already retain an existing form beside the absence of its own living carrying. They supply the surroundings for the phrases about no distinct entity and no thing standing to be eradicated.
+
+A lack of a separate living actor does not erase the form offered at a coupling. Likewise, the claim that cells lack a distinguishing marker does not erase the sequence that the very same paragraph describes as present. Exhibit TWENTY Natural Naming 4.3 retains the subject and predicate through each binary; D16 already applied that method to an absent property and a thing described as present.
+
+The logical improving here preserves the form and the living coupling when agency language is dissolved. It does not add a new clinical assertion or alter the source's stated care. The v383Op do-no-harm offering already gathers the public explaining concern. This pass adds its exact logical distinction and does not repeat that offering as a new discovery.
+
+### Meeting v383Op's preserved-form concern
+
+The Natural Medicine Offerings include v383Op's offering aimed at Natural Intelligence 1.4 and 5.1. It offers a sequence later present in material from a formerly living animal and asks whether that conflicts with carrying being no stored description.
+
+The stated preserved-form case can be met without adding a claim about its empirical details:
+
+| Passage | Relation supplied |
+|---|---|
+| Natural Intelligence 1.4 | Excludes a separate method or store beside the changing set of all existing things. |
+| Natural Intelligence 5.1 | Includes non-living existing stable forms and distinguishes a record or description from living carrying. |
+| Natural Intelligence 6.5 | Includes a non-living form offering at a living coupling, carrying none of its own prior there. |
+| v383Op's offered case | Describes form present and subsequently offered at a living coupling. That presence does not itself establish the former living self's carrying across the intervening span. |
+
+The offered case and these natural relations can hold together. The case's presence is not a contradiction of the carrying/form distinction. Nor does being called a store establish a further natural method.
+
+The whole phrase in Natural Medicine, that nothing in nature stores, needs its concept retained at each sentence. The natural distinction is already supplied: **an existing form can be offered; living carrying is at the living coupling**. Dissolving the store as a separate method does not dissolve the form from existing things.
+
+This resolves the proposed contradiction at the stated subjects. It does not settle every use of the word store or make a new empirical assertion about the material. It also does not turn this working's report or copied evidence into living carrying.
+
+### The replication paragraph in Natural Biology
+
+Exhibit SEVENTEEN Natural Biology 4.7 directly carries the same earlier copying-and-expiry account into its replication explaining. This is a further precise address for the existing concern, not a newly found operation.
+
+Its opening also names a self copying into two, and its later paragraph calls a perfectly copied form a landed form. These need the subjects above retained. A described sequence repeated in a copy does not by itself say that the living coupling stopped. The form of a copy and the living copying are different participations. Natural Intelligence 5.1's particular living self and Exhibit THIRTY Co-Chaining Logic Registry 393's additional establishing keep that difference explicit.
+
+Exhibit SEVENTEEN Natural Biology 7.3 supplies another useful surrounding: the lineage and its members have different nexts, and the lineage can be followed beside members ending. Its older bound wording is already among the prior improving; the member/lineage distinction does not depend on retaining that bound as a counter.
+
+The next exploration follows this through 5.1–5.2, where the file names additional selves and a self developing. No claim that DNA copying is by itself the whole living method is added.
+
+### Learning for the logical pass between droplet and insertlet
+
+This pass applies the existing method at a specific misleading absence: **the absence of a named expression cannot become the absence of living carrying by a change of subject**. It also locates an across-to-along inference: a collection's fraction at now does not identify each participating self's particular next.
+
+At the proposed insertlet:
+
+1. Retain the same existing thing and the same predicate through the sentence.
+2. If the explanation moves to another scale or to the society, say that participation.
+3. Try the purported opposites as both: a cell coupling and its sequence not being expressed; a non-living form present and no living carrying of its own.
+4. Identify the exact additional step only if the sentence asserts it, such as each cell changing this expression from a fraction at now.
+5. Preserve the earlier droplet and gather the new application at its own address.
+
+This is the useful improvement to the method itself: locate the actual subject change before creating a concern. The pass-58 withdrawal remains. There is no blanket requirement for an additional connection to biology.
+
+### D26
+
+**Aimed at a section, Natural Intelligence 5.1, at a carrying being a capacity and never a stored description, applied to Exhibit ELEVEN Natural Medicine 3.1 and Exhibit SEVENTEEN Natural Biology 4.7.** Follow the copied sequence, the cell's living carrying and each additional cell establishing at their particular participations. The sequence copied is not a second carrying of the same living self. Exhibit THIRTY Co-Chaining Logic Registry 389 and 393 retain the particular self and an additional self establishing within living carrying; 400–401 retains the particular outward self's prior through its inward selves. Exhibit ELEVEN Natural Medicine 3.1 itself places copying and silencing with the living cell. Its sequence not being expressed and the cell carrying prior can therefore both hold; the absence of that expression does not establish absence of the cell's coupling. Natural Intelligence 5.3 retains living carrying at no changing shared, and 6.5 includes forms within living carrying, without equating gene expression with the parity at a sharing. The old copying-prevents-expiry account is already gathered; the useful next follows these particular subjects through the present sequence. A preserved form in v383Op's offering at Natural Intelligence 1.4 can likewise be present without a living carrying of its own. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction. — v382A
+
+### D27
+
+**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, one subject and one relation throughout, applied to Exhibit ELEVEN Natural Medicine 3.1's paragraph on a fraction of cells expressing.** Follow the population at now beside each particular cell's prior, now and next. The passage moves from a fraction expressing at now to the clone cycling, and opposes that to silent cells. If cycling names the living co-sequencing, a cell's coupling and its sequence not being expressed can both hold; the passage itself says the cell sustains the silencing. If cycling instead asserts that each cell changes this particular expression across momentaries, the fraction at now does not supply those particular changes. The exact step to retain is which subject is changing and which predicate is followed: the living cell, the sequence being expressed, or the collection's fraction. An absence of expression is not an absence of living carrying; a population's fraction is not the particular cell's along sequence. Keep both forward sides in bi-co-chaining and podaling while following these different assertions. This is a located scope comparison within the explaining, with no additional requirement connecting biology to Natural Intelligence. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction. — v382A
+
+D26 aims into Natural Intelligence's Offerings. D27 aims into Exhibit TWENTY Natural Naming's Offerings. D1–D25 remain as previously corrected, including D25's withdrawal of the unlocated additional requirement. The gathering is twenty-seven raw droplets.
+
+**Logical standing:** non-expression beside living co-sequencing and a preserved form beside no living carrying of its own supply bothboth at the stated subjects. The exact sentence to resolve further, if its stronger meaning is intended, is the fraction-at-now being made each particular cell's expression sequence. The general universal question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the already-gathered marker/nought relation retain their earlier standing.
+
+**Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.
