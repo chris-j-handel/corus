@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55, improved through pass 59 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 60 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -65,6 +65,8 @@ Pass 58 adds [the carrying, surfacing and dependency comparisons](Health_Biology
 
 Pass 59 adds [the copied form, the living cell and the expressing fraction](Health_Biology_Medicine.md#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction). A sequence not expressed and a cell carrying its prior are different predicates and can hold together. A preserved form and no living carrying of its own can also hold together. At the sentence about a fraction expressing, first retain whether cycling names the living co-sequencing or a change in each cell's particular expression. The fraction at now supplies no particular prior-and-next expression sequence by itself. The useful method is to locate that exact subject or predicate change; an unfinished broad survey supplies no general concern.
 
+Pass 60 adds [conceiving, developing and the particular self](Health_Biology_Medicine.md#pass-60--conceiving-developing-and-the-particular-self). No second sexual parent and living coupling can both hold; one organism and its particular inward cells can also hold together. At the prepared genome-doubling offering, distinguish repeating an offered parity at the same sharing from copying a described form or participating at another sharing. The first supplies a local result; extending it to every gene needs those same conditions retained. An unchanged result at one sharing and an additional coupling elsewhere can both hold. This supplies a worked way to locate the first unsupported extension without creating a general concern about biology.
+
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
 ## The connecting relation now in front
@@ -112,9 +114,11 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D25 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D26 applies the copied-form/carrying distinction to the persistence explaining and v383Op's preserved-form case. D27 follows the collection's fraction at now and each particular cell's expression sequence. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole and follows Exhibit SEVENTEEN Natural Biology 4.7 and 7.3; neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
+Current opening: D1–D27 remain as previously corrected, including D25's withdrawal of the unlocated additional connection requirement. D28 applies the parent/coupling distinction and particular-self establishing; D29 follows the extent of the prepared genome-doubling assertion. Passes 53–54 and 58 give whole-file records for Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health: five files, 80 headed sections plus Natural Destinies' opening. Pass 59 reads Exhibit ELEVEN Natural Medicine 3.1 whole; pass 60 reads Exhibit SEVENTEEN Natural Biology 5.1–5.5 whole with targeted surroundings. Neither root file is claimed as complete. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass.
 
-**Logical standing:** the non-expression/living-carrying and preserved-form/carrying comparisons supply bothboth at their stated subjects. The fraction-at-now sentence requires its subject and predicate retained; the stronger each-cell expression sequence is not supplied by that fraction alone. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the already-gathered marker/nought relation retain their previous standing. **Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.
+**Logical standing:** one sexual parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+
+**Next exploring:** follow the genome-doubling offering at the particular gene, chromosome and cell, retaining whether a copied form repeats an offering at the same sharing or participates at another coupling. Then take that distinction to the already-gathered regeneration paragraph at Exhibit SEVENTEEN Natural Biology 5.3.
 
 ## Source addresses for this method offering
 

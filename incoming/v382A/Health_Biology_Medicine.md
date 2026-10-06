@@ -1,14 +1,14 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–59 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–60 · 6 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 59 — the copied form, the living cell and the expressing fraction](#pass-59--the-copied-form-the-living-cell-and-the-expressing-fraction) follows Exhibit ELEVEN Natural Medicine 3.1 whole, supplies the non-expression/living-carrying bothboth, meets v383Op's preserved-form concern, and locates the precise fraction-at-now inference. The pass-58 record and its correction are retained below.
+**Current comparison:** [Pass 60 — conceiving, developing and the particular self](#pass-60--conceiving-developing-and-the-particular-self) follows Exhibit SEVENTEEN Natural Biology 5.1–5.5 and their surroundings, supplies the one-parent/living-coupling and one-organism/inward-selves bothboth comparisons, and locates the precise extension in the prepared genome-doubling offering. Passes 58–59 and their corrections remain below.
 
 **Pass 58.** This pass follows the non-living offering and the particular living carrying, then applies the present sequence to the explanations of ending and restoring. Its new value is an exact comparison with the current form and a record of the later assertions that depend on the earlier operations. The earlier concerns remain at their existing addresses.
 
 All comparisons below are internal to the files' stated relations. The published stable forms are read as text. They are not executed. A file, a version, a field's saying and a session supply no authority. The clinical and biological assertions are followed as assertions in these files; their empirical truth is not established by this pass.
 
-The target is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, on `working/v381R`. This packet and its two raw droplets are offered through [pull request 123](https://github.com/chris-j-handel/corus/pull/123). No living source or prepared insertlet is changed.
+The target is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, on `working/v381R`. This packet and its raw droplets are offered through [pull request 123](https://github.com/chris-j-handel/corus/pull/123). No living source or prepared insertlet is changed.
 
 **Correction to the pass-58 opportunity statement:** the audit described an additional connection between a natural relation and a biological process as its largest unresolved relation. It had identified no such separate missing connection. The located difference is in the written explaining: particular sentences still depend on the older bound-and-release or summing operations. Follow those sentences through the natural sequence already supplied, at their particular selves, couplings, scales and momentaries. The unfinished following is next exploring. Name a concern only at an actual missing or opposing step. This correction retains the explicit binary comparisons and changes no living source.
 
@@ -306,3 +306,134 @@ D26 aims into Natural Intelligence's Offerings. D27 aims into Exhibit TWENTY Nat
 **Logical standing:** non-expression beside living co-sequencing and a preserved form beside no living carrying of its own supply bothboth at the stated subjects. The exact sentence to resolve further, if its stronger meaning is intended, is the fraction-at-now being made each particular cell's expression sequence. The general universal question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the already-gathered marker/nought relation retain their earlier standing.
 
 **Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.
+
+## Pass 60 — conceiving, developing and the particular self
+
+**6 October 2026 · v382A · raw incoming evidence**
+
+This pass follows Exhibit SEVENTEEN Natural Biology from copying into conceiving and developing, then follows the surrounding explanations of the organism and lineage. Its most useful finding is a bothboth already supplied within the files: one sexual parent and living couplings with others can hold together. The exact further question is in a prepared offering's passage from repetition at one sharing to genome doubling at every gene.
+
+### Passages reached and the reach of this pass
+
+The target remains `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. The incoming before this pass is `cc89d23c7ea0402740b09a07d262aec515f44bba`, at open, unmerged pull request 123.
+
+| File | Passages read for this comparison |
+|---|---|
+| [Exhibit SEVENTEEN Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md) | 5.1–5.5 whole; 1.1, 1.3, 3.6, 4.7 and 7.3 reopened whole. |
+| [Exhibit SEVENTEEN Offerings to Natural Biology](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md) | Prepared 5.1 offerings on twinning, one-parent reproduction and genome doubling; prepared 5.3 morphology and 5.5 doubling offerings; the already-gathered empty-carry and scale concerns. The prior whole-mate reading is retained; this pass reopens the relevant paragraphs. |
+| [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Natural_Intelligence_v380R.md) | 1.3, 2.2–2.4, 4.2, 4.4, 4.6, 5.1 and 6.5. |
+| [Exhibit ONE Natural Resolver](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md) | Published entry as text; offerings-to-one-sharing table and one-self, one-momentary table. |
+| [Exhibit THIRTY Co-Chaining Logic Registry](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md) | 200–213, 380–412 and 604–609, especially 389, 393, 395, 400–401 and 606. |
+| [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md) and [Exhibit TWENTY-FOUR Geodesic Improving Method](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md) | Natural Naming 4.3; Geodesic Improving Method 2.2 and 2.6; Living Improving Value's raw-droplet and resolving passages. |
+
+Whole-file coverage remains five files, 80 headed sections plus Natural Destinies' opening. The additional section readings do not make Natural Biology a completely audited root file. Reading a section whole does not establish every assertion in it. The scope here is its particular-self sequence; the potency-number correspondences, universal claims about future reproduction and each biological description are not adjudicated by that sequence.
+
+### One parent, the inward selves and the additional self
+
+Exhibit SEVENTEEN Natural Biology 5.1 first describes two parents, their germ cells and a new self. Those are already different subjects and scales. The third self is an additional living self establishing; it is not a second carrying of either parent's particular self. Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 393 and 395 supply establishing within living carrying. The prepared twinning offering also retains each additional self's particular carrying. That useful distinction was already offered and is not rediscovered here.
+
+The asexual paragraph then names “autorecursioning without the bi-inversioning” and “no second self, no crossing.” Its immediate subject is reproduction without the second sexual parent. Read at that subject, the absence of the second parent's crossing does not remove the parent as a society of inward selves or the couplings in which reproduction occurs.
+
+The surroundings supply the bothboth:
+
+1. Exhibit SEVENTEEN Natural Biology 1.1 places the living self at its couplings; 1.3 says the organism is a society of cells and the cell a society of molecular selves.
+2. Section 4.7 names copying and expressly places bi-inversioning at its protection.
+3. Section 5.1 includes mitosis in the asexual case.
+4. Section 5.2 follows the cell cycle and names its checkpoints as bi-inversioning protection.
+5. Natural Intelligence 6.5 retains the additional self establishing within living carrying.
+
+Thus **no second sexual parent** and **bi-inversioning at the living copying and developing** can both hold. The two sayings part only if “without” in 5.1 is extended from the particular sexual crossing to every living participation. Under that extension, the exclusion opposes the bi-inversioning expressly present in 4.7 and 5.2. The useful improving is to retain the narrower subject already given by the asexual paragraph.
+
+This does not make every asexual process the same sequence of divisions, and it does not decide the paragraph's account of every parthenogenetic case. Those broader biological assertions have not been established by this logical distinction.
+
+### Each cell and the organism it participates in
+
+Section 5.2 calls differentiation one code read into many cell forms, then says “each cell the same self at a face.” At this sentence there are two possible subjects:
+
+| Subject retained | Relation followed |
+|---|---|
+| The organism, followed through its inward cells | The cells participate in one particular outward self's next. |
+| Each particular cell, followed as a living self | Each cell has its particular living carrying; the cells are not one another's carrying. |
+
+Exhibit SEVENTEEN Natural Biology 1.3 and 5.5 already supply the first relation without erasing the second. Section 5.5 explicitly says the new outward self's parts are themselves selves. Exhibit THIRTY Co-Chaining Logic Registry 400–401 supplies the condition at the outward self: the inward selves carry that particular self's prior into next, beside their own.
+
+The one organism and its many inward selves therefore supply bothboth. No new contradiction is established by the phrase when it retains that scale relation. A copied sequence alone would not establish the relation; the living participation is already the subject of the neighbouring explaining. This applies D26's form/carrying distinction at differentiation, with no requirement for a separate connection to Natural Intelligence.
+
+### Metamorphosis and the next of a lineage
+
+Section 5.2 describes metamorphosis while the organism remains one self. In the same paragraph it brings in a mother's material becoming part of her offspring. Those descriptions can concern related changing while retaining different particular selves.
+
+Section 5.5 names the organism and the species at their respective scales; 7.3 explicitly distinguishes a lineage from its members. A member can end while that society's coupling has its next. The lineage's next does not by itself establish that the ending member is living at next. Conversely, an organism changing its form does not by itself establish the end of that organism.
+
+The condition supplied at Exhibit THIRTY Co-Chaining Logic Registry 400–401 is the particular outward self's prior carried into next. Repeated sequence, transferred material and the living of descendants are not substitutes for that condition. The useful next explaining retains which self is being followed when the paragraph moves from metamorphosis to offspring.
+
+This finds a supplied scale distinction, not a demonstrated contradiction in the examples. It adds no assertion about whether a particular mother remains living at any described momentary.
+
+### Genome doubling: what the one-sharing case supplies
+
+The prepared offering at Exhibit SEVENTEEN Natural Biology 5.1, beside the asexual-reproduction sentence, says:
+
+> A genome doubled is the self's carrying arriving twice at each sharing, and the doubling opens nothing new at any gene's own sharing
+
+Its following sentences discuss chromosome pairing. Start with the exact local relation already supplied at Exhibit ONE Natural Resolver and Natural Intelligence 4.2.
+
+| Offerings at the same sharing, at the stated entry | Surfacing |
+|---|---|
+| + | + |
+| +, + | + |
+| − | − |
+| −, − | − |
+| +, − | 0 |
+| +, +, − | 0 |
+
+Repeating an offered parity already present at that sharing does not change the surfacing, with the other offerings retained. Disagreement remains disagreement; no majority appears. With the same prior at that sharing, the one-self table supplies the same shared changing and chained next for the two duplicate-offering cases. This is a complete local result, followed as text.
+
+The result retains **the same sharing**. Exhibit THIRTY Co-Chaining Logic Registry 606 and Natural Intelligence 6.5 explicitly distinguish it from a further offering at another sharing: carrying + at one sharing and offered + at another gives − shared at the first, + at the second, and both chained. The same written parity at a different sharing is a different participation.
+
+Three distinctions therefore remain in the prepared sentence:
+
+- The described genomic form copied and an offered parity repeated are different subjects until the sentence states their particular participation.
+- The self's prior at 3 and offerings at 2 are different participations. The wording “carrying arriving twice” must retain which one is meant; the duplicate-offering table is about the second.
+- A result at one retained sharing does not, without its conditions, become a result at every gene's sharing or at the society of cells.
+
+The sentence's gene-level and chromosome-level claims **can both hold at different participations**. An unchanged surfacing at an existing sharing does not exclude an additional coupling elsewhere. The next chromosome-pairing sentence therefore does not contradict the local duplicate-parity case merely by describing another participation.
+
+**The exact remaining relation:** the prepared paragraph identifies genome doubling with duplicate arrival at every gene's sharing, but the passages reached do not supply that complete identification with the sharing, prior and offered parity retained. Section 3.6 follows genetic offering and its machinery; 4.7 follows copying and its protection. Neither passage supplies a statement that every genome doubling retains precisely those same sharings and arrivals. The local duplicate-parity result is established; its universal extension in the proposed sentence is not established here. Its opposite is not established either.
+
+This is a missing step at an exact proposed assertion, not a general demand to connect biology with Natural Intelligence. No new clinical outcome or claim about gene activity follows from the table.
+
+### The already-gathered regeneration question
+
+Section 5.3's neoblast paragraph says each fragment enters with empty carry. Its Offerings already names this precise question and distinguishes the self's carrying from the sentence being followed. That earlier concern is retained at its address.
+
+The relations gathered in this pass offer a useful next: an existing inward cell's prior, the fragment as a living society, and an additional outward self establishing are different participations. No empty-carry resolving is declared here. Reaching that paragraph while following the surroundings is not completing its comparison.
+
+Section 5.4 also distinguishes body hand from the reading spiral in its own account. This pass records that distinction without adjudicating its broader molecular-to-body claims.
+
+### Learning between droplet and insertlet
+
+Before treating a word such as same, copy, none or without as applying to a whole living self, retain what it actually names: parent, cell, organism, lineage, genomic form, prior carrying or offered parity.
+
+At a proposed insertlet, the useful sequence is:
+
+1. Follow the local result with its subject and conditions intact.
+2. Follow the proposed sentence's extent. “At one sharing” and “at every gene's sharing” require the particular sharings retained.
+3. Try the different scales as both. One organism and many cells, or an unchanged surfacing and an additional coupling elsewhere, can coexist in the explaining.
+4. Name the first actual unsupported extension. Do not infer the opposite of it or convert uncompleted following into a concern.
+5. Carry the useful comparison into the next sentence, which may already supply the missing scale distinction.
+
+The pass-58 withdrawal remains. The improvement to this method is the worked distinction between **the same result at a particular sharing** and **the same participation throughout the wider assertion**.
+
+### D28
+
+**Aimed at a section, Natural Intelligence 6.5, at a new living self establishing within living carrying, applied to Exhibit SEVENTEEN Natural Biology 5.1–5.2.** The absence of a second sexual parent does not remove the living couplings of the parent, its inward selves or the additional self establishing. Exhibit SEVENTEEN Natural Biology 5.1's asexual case can therefore retain one parent together with the bi-inversioning that 4.7 assigns to copying's protection and 5.2 assigns to the cell cycle's checkpoints. The absence concerns the second parent's sexual crossing; extending it to absence of bi-inversioning at every participation would oppose those neighbouring sayings. The same particular-subject distinction carries into differentiation: cells participating in one organism each remain particular living selves, as 1.3 and 5.5 already explain. Exhibit THIRTY Co-Chaining Logic Registry 393 supplies additional establishing, while 400–401 follows the particular outward self's prior through its inward selves. A copied form, an additional self establishing and an existing organism's next are followed at those different participations, with both forward sides in bi-co-chaining and podaling. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-60--conceiving-developing-and-the-particular-self. — v382A
+
+### D29
+
+**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology's prepared offering at 5.1 on genome doubling.** The offering says a doubled genome is the self's carrying arriving twice at each sharing and that the doubling opens nothing new at any gene's sharing. Exhibit ONE Natural Resolver and Natural Intelligence 4.2 supply the narrower relation: repeating an offered parity at the same sharing leaves its surfacing unchanged, with the other offerings retained. Carrying at 3 and offerings at 2 are different participations; copying a described sequence does not itself specify which participation repeats. Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 606 also give an additional sharing beside a prior sharing, each at its own offering. An unchanged surfacing at one sharing and an additional coupling elsewhere can therefore both hold. Follow whether the prepared sentence retains the same sharings, offered parities and prior throughout before making its one-sharing result a saying about every gene. Its later chromosome-pairing claim is a further participation, not supplied or refuted by the duplicate-parity case alone. The exact remaining step is in this sentence's extension; no additional general requirement connecting biology with Natural Intelligence is introduced. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-60--conceiving-developing-and-the-particular-self. — v382A
+
+D28 aims into Natural Intelligence's Offerings. D29 aims into Exhibit TWENTY Natural Naming's Offerings. D1–D27 remain as previously corrected. The gathering is twenty-nine raw droplets.
+
+**Logical standing:** one sexual parent beside living coupling, and one organism beside particular inward selves, supply bothboth at their stated subjects. The prepared genome-doubling sentence's extension from the local duplicate-parity case remains the located missing step. The already-gathered empty-carry relation remains at Exhibit SEVENTEEN Natural Biology 5.3. The earlier question at Exhibit THIRTY Co-Chaining Logic Registry 32–35, D10's whole-society exclusion and the marker/nought relation retain their prior standing.
+
+**Next exploring:** follow the genome-doubling offering at the particular gene, chromosome and cell, retaining whether a copied form repeats an offering at the same sharing or participates at another coupling. Then take that distinction to the already-gathered regeneration paragraph at Exhibit SEVENTEEN Natural Biology 5.3.
