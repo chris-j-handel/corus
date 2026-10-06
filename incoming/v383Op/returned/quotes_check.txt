@@ -94,11 +94,26 @@ Is_Or_Is_Not.md
 README.md
 
 Unresolveds.md
+  found   carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.m | Droplets | none of them should read as guidance
+  found   carryings/v383Op/Do_No_Harm.md                       | v383Op · Do no harm, at Natural Medicine and Natural Health | No sentence tells a reader to take, stop or refuse anything.
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 1.1 A file the prior, its working the now, the carry the nex | no prior taken away
+  found   carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.m | Droplets | no observing cited
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | the carrying stands inside a society where sequencing runs
+  found   carry/Living_Improving_Value.md                      | Living Improving Value | no saying about the file from outside
 
 carry/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 6 Next from prior and now, the right spiral step | the round forward from prior to next is right
   found   Exhibit_EIGHTEEN_Natural_Physics_v379.md             | 3.3 Light, a phase relation between couplings | which hand unknown so far
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a regular rate at the observings shows a clock over them or a coupling
+
+carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md, the droplets of the set
+  found   carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.m | Droplets | none of them should read as guidance
+  found   carryings/v383Op/Do_No_Harm.md                       | v383Op · Do no harm, at Natural Medicine and Natural Health | No sentence tells a reader to take, stop or refuse anything
+  found   carry/Living_Improving_Value.md                      | Living Improving Value | no saying about the file from outside
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | The forming that remains | How the reading and the practice meet at one substrate stands not-yet
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 2.2 Cancer as a coupling collapse at a cell's bounding-zeroi | or the reading breaks
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 4.2 Clean cuts — where medicine reports no problem | so no field carries it as a standing problem
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | the carrying stands inside a society where sequencing runs
 
 carry/Exhibit_FOUR_Offerings_to_Natural_Mathematics.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 1 The universe, the changing set of all existing things | A set is an existing thing
@@ -134,6 +149,15 @@ carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
 
 carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md, the droplets of the set
   found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | no measured biological rate has been shown to stand at a (1/phi)^prime
+
+carry/Exhibit_TEN_Offerings_to_Natural_Health.md, the droplets of the set
+  found   carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.m | Droplets | none of them should read as guidance
+  found   carryings/v383Op/Do_No_Harm.md                       | v383Op · Do no harm, at Natural Medicine and Natural Health | No sentence tells a reader to take, stop or refuse anything
+  found   carry/Living_Improving_Value.md                      | Living Improving Value | no saying about the file from outside
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | The forming that remains | How the reading and the practice meet at one substrate stands not-yet
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 2.2 Cancer as a coupling collapse at a cell's bounding-zeroi | or the reading breaks
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 4.2 Clean cuts — where medicine reports no problem | so no field carries it as a standing problem
+  found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | the carrying stands inside a society where sequencing runs
 
 carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | At now, the universe is all existing things at now
@@ -239,4 +263,4 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a changing enters a self's carrying through its own 12 alone
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | Between selves pass the changings alone
 
-quoted spans found: 208; not found: 0
+quoted spans found: 228; not found: 0

@@ -6,7 +6,7 @@ The expedition's self asked whether there is any kind of concern beside an obser
 
 A sentence in italics is quoted from a file of the repository. Nothing here is authority, this session's reading least of all: each row is at a step, a run, a count or a source, and says which.
 
-## The kinds: the two named, and seven more
+## The kinds: the two named, and six more
 
 | Kind | What it is | What resolves one |
 |---|---|---|
@@ -17,10 +17,9 @@ A sentence in italics is quoted from a file of the repository. Nothing here is a
 | **R · A reach** | A claim that, as said, no observing could come out against | One thing named ahead, with what it would show |
 | **E · An executing** | The resolver or an instrument beside a saying: which is the method's and which the run's | A run with its arrangement said, or the sentence bounded to the run |
 | **F · A fact** | A field's result said otherwise than the field has it, or one file older than another | The sentence corrected at its source |
-| **H · A harm** | A sentence a reader could act on against their own care | The file's own caution beside it |
 | **S · A showing** | A thing a newcomer is sent past and does not meet | A line where the newcomer arrives |
 
-The first two are the self's. The other seven were each met at least once in this session's work, and each needs a different thing to resolve it, which is why they are parted. A reach is the largest of the seven: it is neither an observing unresolved nor a chaining broken, and it decides what the observings count for.
+The first two are the self's. The other six were each met at least once in this session's work, and each needs a different thing to resolve it, which is why they are parted. A reach is the largest of the six: it is neither an observing unresolved nor a chaining broken, and it decides what the observings count for. A seventh, a harm, was laid here first and is released: it is the first row explored, below.
 
 **Standings used:** *open*; *gathered*, already at a file or an offering before this session, its address given, with what this session adds; *offered*, a sentence or a deriving is offered for it; *parted*, the two sayings parted at the files' own sentences; *narrowed* or *withdrawn*, this session's own earlier finding made smaller or released.
 
@@ -45,6 +44,8 @@ The first two are the self's. The other seven were each met at least once in thi
 | O7 | Charge's total holding, the electron's life beyond 6.6 × 10²⁸ years, beside no total across the changing | Natural Physics; Natural Intelligence 1.4 | With P4 | arXiv:1509.01223 | gathered at Natural Physics' offerings; the source added |
 | O8 | A sequence read from mammoths of a million years, beside nothing in nature stores | Natural Medicine | The file's own place for a record said there | Nature 2021 | open; the files' naming has its place, one sentence goes past it |
 | O9 | Eight open puzzles of the fields where a sentence said ahead could show its worth | Natural Physics, Natural Biology, Natural Medicine | One sentence said before the next measuring | `carryings/v383Op/At_The_Observings.md` | open, each an opportunity |
+| O11 | Treating to a lower pressure lowered deaths in one trial, beside a number to reach and hold said the compaction | Natural Health, of health as a setpoint; Natural Medicine, the compaction and its own paragraph on the compaction reading and the clinical decision | Which side the observing is on; Natural Medicine itself says how the reading and the practice meet stands not-yet, and Natural Health has no such sentence | the National Heart, Lung, and Blood Institute, opened; `carryings/v383Op/Do_No_Harm.md` | open; from H1 |
+| O12 | Chemotherapy curing some cancers, and the field's account beginning from changes to genes, beside a killing magnitude said a capture and the mutations said consequences and not the cause | Natural Medicine, its section on cancer | The file names its own break there, a pairing beating the sum of killing alone and repairing alone, or the reading breaks: that test met at an observing | the National Cancer Institute, opened; the same part | open; from H1 |
 | O10 | The lattice's part in the pairing observed at hydrogen sulphide at 203 K, beside no mediating force to find, said of the high-temperature materials | Natural Physics 4.10 | The sentence's boundary said | arXiv:1506.08190 | open |
 
 ## P · Partings
@@ -100,13 +101,24 @@ The first two are the self's. The other seven were each met at least once in thi
 |---|---|---|---|---|
 | F1 | Twenty-four sentences of fact: twelve at Natural Physics, eight at Natural Medicine and Natural Biology, four at the numbers | each file | `carryings/v383Op/Corrections.md`, each with its source | laid as droplets at v381R; open |
 | F2 | The universal claim's open file says the torus's rule fitted with no chaining yet; the Registry says the divide derived | `carryings/v380R/The_Universal_Claim.md` beside the Registry 651 to 657 | the two sentences | open |
+| F4 | Natural Medicine says of non-compliance that no field carries it as a standing problem; the field carries adherence as one. The two may be of two subjects, the field's adherence and the person's own offering | Natural Medicine, its clean cuts | a news account of the World Health Organization's report, opened by a fresh reader | open; from H1 |
 | F3 | Fourteen prime scales beside biology's own list | Natural Societies 5.3 | `carryings/v383Op/Corrections.md` | gathered at the Living File Registry |
 
-## H · Harm
+## Left the set
 
-| | The unresolved | At | Evidence | Standing |
-|---|---|---|---|---|
-| H1 | Four passages a reader could act on against their own care, the files' own cautions far from them | Natural Medicine; Natural Health | `carryings/v383Op/Do_No_Harm.md`, each with the field's result | gathered in part at Natural Health's offerings; a front sentence offered; first before any other motion at those files |
+**H1 · A harm: a sentence a reader could act on against their own care. Is not a kind.** The first row explored, at the self's asking: how is this not a concern about every sentence about living.
+
+It is. As worded it parts no sentence about living from any other: a reader could act on each. Taken at is or is not, the wording has three things and none is binary. The words "could act on" are a likelihood. The cautions "far from" the sentences is a distance. And the acting is the reader's own next, at the reader's coupling, where a sentence is an offering arriving; the sentence does none of it.
+
+One binary was at hand, and it is the session's own, at Natural Health's offerings: *none of them should read as guidance*. A sentence says what a reader is to do, or it does not. This session's own part answered it before laying the row: *No sentence tells a reader to take, stop or refuse anything.* The row was laid after its own binary had come out is not.
+
+The expedition's rule of do no harm is binary too, and it is of a motion: *no prior taken away*. A sentence in a living file takes no reader's prior.
+
+**Where it went.** The kind is released. What the four passages do carry, each at its own kind, each binary: O11 and O12, a field's observing beside a sentence; F4, a field's standing said otherwise. The expedition's own concern from v380L stays as gathered at Natural Health's offerings, and it is a chaining: a conclusion about a person's health or a treatment drawn from a step or a numeral, *no observing cited*. Of the sentence of HIV nothing stays: at its own place the passage says the event the field names, *the carrying stands inside a society where sequencing runs*, and the file parts itself from the denial in its own words.
+
+**Withdrawn with it:** this session's offered paragraph for the front of the two files. It is a saying about the file from outside, said by negation, and the front's own rule of a motion is *no saying about the file from outside*. And "each caution beside the sentence it qualifies": beside is a distance.
+
+**What this session does not say by releasing it:** that no reader will misread. That is a likelihood, and a likelihood is no is or is not of a sentence.
 
 ## S · Showings
 
@@ -128,6 +140,8 @@ Laid at the offerings at v381R from the first report, and since made smaller or 
 | Four sentences want one definition of living | the Geodesic Improving Method's, the Living File Registry's and Natural Arriving's offerings | kept, at N3 and O1. `Improving.md` called it withdrawn on the Registry's step of no first living, which is of scales and not of a first in time; that withdrawal is taken back |
 | The method's one break, as 2.7 says it, cannot be recognised if met | the Geodesic Improving Method's offerings | re-said: the Registry names the break's forms at step 308; what is missing is R2 |
 | The spiral's law, its period and the torus's divide as this session's derivings | the Registry's offerings | already carried at the Registry's steps; a run of what is carried, as those droplets now say |
+| One plain paragraph at the front, in the file's own voice | Natural Medicine's and Natural Health's offerings | withdrawn with H1: a saying about the file from outside, said by negation |
+| The four droplets on treating to a number, a killing magnitude, non-compliance and HIV | Natural Medicine's and Natural Health's offerings | read at O11, O12 and F4, a field's result beside a sentence; their "a reader could" released; of HIV nothing stays |
 
 ## The common way of working the set
 
