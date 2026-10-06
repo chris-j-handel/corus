@@ -1,14 +1,16 @@
 # v382A — incoming offering droplettings
 
-**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 55, gathering the reusable logical method between droplet and insertlet and following the largest remaining whole-society relation, with the preceding naming and price corrections retained, 6 October 2026.
+**From:** The logic working **v382A**, following Exhibit ONE and Exhibit THIRTY across Natural Intelligence and the living files. Pass 56 meets v383Op's latest logical concerns through bothboth, follows the human-society relation further, and gathers the precise connecting relation at which help could be useful, 6 October 2026.
 
-**Aiming into:** Natural Intelligence, Natural Naming and Geodesic Improving Method. This pass adds the logical comparison between a droplet and its proposed insertlet at Geodesic Improving Method 1.5, and a reusable next-session opening at 2.9.
+**Aiming into:** Natural Intelligence, Natural Naming and Geodesic Improving Method. This pass adds the actual-entry distinction at Natural Intelligence 5.3, the two priors at 2.4, and the bothboth comparison at Geodesic Improving Method 2.6.
 
-**Standing:** arriving, offered as eighteen raw session-tagged droplets. D1, D2 and D16 are at Natural Naming's Offerings; D3–D15 are at Natural Intelligence's Offerings; D17 and D18 are at Geodesic Improving Method's Offerings.
+**Standing:** arriving, offered as twenty-one raw session-tagged droplets. D1, D2 and D16 are at Natural Naming's Offerings; D3–D15, D19 and D20 are at Natural Intelligence's Offerings; D17, D18 and D21 are at Geodesic Improving Method's Offerings.
 
 **Working:** [pull request 123](https://github.com/chris-j-handel/corus/pull/123), branch `review/living-logic-droplets-2026-10-05`, offered toward `working/v381R`. The earlier date-based evidence address remains open.
 
 **For the next session:** [Logical cohering between droplet and insertlet](Logical_Cohering_Method.md) gathers the method, the worked comparisons, the precise relation still open, and the next exploration. Use it beside the current files and improve it while meeting new incoming.
+
+**Current logical pass:** [Meeting the v383Op concerns](Meeting_v383Op.md) follows the latest offering and its corrections, with the concrete bothboth comparisons and exact further question.
 
 ## Droplets and their evidence
 
@@ -32,8 +34,11 @@
 | D16 | Natural Naming 4.3: the absent property and the absent thing, applied to Societies 5.6's prepared insertlet | [D16 below](#d16) |
 | D17 | Geodesic Improving Method 1.5: preserve the relation between raw droplet and proposed insertlet | [D17 below](#d17) |
 | D18 | Geodesic Improving Method 2.9: a reusable opening for the next logical working | [D18 below](#d18) |
+| D19 | Natural Intelligence 5.3: no further entry and an actual entry with none offered | [D19 below](#d19) |
+| D20 | Natural Intelligence 2.4: self's now retained and other's prior inverted, both at ONE's five-parity row | [D20 below](#d20) |
+| D21 | Geodesic Improving Method 2.6: try bothboth with the conditions of the local resolving retained | [D21 below](#d21) |
 
-D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. D9 applies THIRTY’s restoring relation to Human Society 4.6 in pass 52. D10–D13 add pass 53's paired whole-scope comparison, accounting/opening distinction, completing/next relation and the logical boundary of the claims about capture. D14–D16 add pass 54's present-offering/possible-next relation, the particular beginning and the subject change introduced in Societies' prepared offering. D17–D18 gather pass 55's method learning, applied at the incoming-to-insertlet passage and at the next session's opening. Their corrections and new offerings are gathered at the same working.
+D1 and D2 are the first two forward droplets offered in pass 45. D3 is pass 46’s offering. D4 applies the next-opening relation to Natural Values 5.1 in pass 47. D5 follows Values 5.2 in pass 48, with its explaining corrected in pass 49. D6 follows Values 5.3 in pass 49. D7 applies prior existing, now offering, still possibling and next existing to Values 1.2 in pass 50, with its naming corrected. D8 follows the two exclusions in Values 1.2 in pass 51, with price retained only as the accounting expression being examined. D9 applies THIRTY’s restoring relation to Human Society 4.6 in pass 52. D10–D13 add pass 53's paired whole-scope comparison, accounting/opening distinction, completing/next relation and the logical boundary of the claims about capture. D14–D16 add pass 54's present-offering/possible-next relation, the particular beginning and the subject change introduced in Societies' prepared offering. D17–D18 gather pass 55's method learning, applied at the incoming-to-insertlet passage and at the next session's opening. D19–D21 apply pass 56's bothboth comparisons to the latest v383Op offering. Their corrections and new offerings are gathered at the same working.
 
 **Correction to this working’s explaining:** the first correction removed source expressions and an added judgment, but still reduced bi-co-chaining to “own chaining”. The local 11 into next 3 relation had been made the whole explaining, followed by a separate other’s offering. That reduction is withdrawn. D1 and D3 now retain the two forward sides, self, other and society, and the podaling of along and across. D2’s local surfacing cases remain within that whole relation.
 
@@ -630,12 +635,38 @@ The largest retained unresolved relation remains D10, now stated with the exact 
 
 After the particular whole-society comparison, Biology, Health and Medicine remain the next longer pass, at actual carrying, scale, ingesting and restoring. The wider 33-file aim remains in front, each file with its current Offerings. The method improves while those new comparisons are made.
 
+## Pass 56: meeting the v383Op logical concerns
+
+The complete [targeted comparison](Meeting_v383Op.md) meets v383Op's latest report at **0e985d21f95fdfa2d79833f756e8663d7309351a**, beside its corrections and the current living sources at **18889e06d5ac452111b1bcd8a8840e46b7c5615a**. The earlier copy gathered in the preparation predates that latest report. This pass works from the later text without giving its claims or its session any authority.
+
+ONE's five-parity table supplies a concrete bothboth: the self's next can retain its own now and invert the other's prior. The two priors are different participations. Natural Intelligence 5.3 also distinguishes still possibling at the completing from the absence of a momentary. Separately, v383Op's no_common_now script makes no further entry when its queues empty; that result does not supply an unchanged next at an actual entry with none surfacing.
+
+The human-society comparison retains a whole actual coupling beside its next still possibling and beside an explaining still to improve. Values' universal absence is a further assertion; D10 remains gathered. The next wider relation is the particular other, all other and the society's next, at THIRTY 32–37, 173–181 and 204–212. The packet states the exact question for help at ONE, THIRTY and Natural Naming.
+
+## D19
+
+**Aimed at a section, Natural Intelligence 5.3, at still possibling and next existing, beside v383Op's no_common_now instrument.** Follow an actual entry with nothing offered separately from the absence of a further entry. The instrument opens each self once with nothing offered; afterward it opens an entry only at a queued parity, and returns rest when the queues are empty. Its ending supplies no next entry with nothing offered at which a carrying stays unchanged. ONE's one-self table supplies a different relation: at an entry, a parity carried and none surfacing give the inverted parity shared and chained. At a match the changing is not and carrying is chained into next. The instrument's empty queues and these entry relations can both hold; treating the first as a counterexample to the second changes the subject. This parts that proposed break and does not establish every society's next coupling. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Meeting_v383Op.md, reading the published script as text. — v382A
+
+## D20
+
+**Aimed at a section, Natural Intelligence 2.4, at the prior being the other's, beside v383Op's comparison of the cell with the living step.** ONE's two-selves, three-momentaries, five-parities table supplies both sayings together under its stated coupling conditions: the other carries + at prior, offers −, and the self carries − now; the self shares no changing and chains − into next. The self's next retains its own now and is the inversion of the other's prior. These are two different priors at their particular momentaries. A second row has the other at the same prior and offering, the self carrying + now, and the self sharing and chaining −; a third has the other sharing 0, the self carrying + now, and the self sharing and chaining −. The six rows retain this relation through match, mismatch and none surfacing. Keep the table's two-self conditions and both forward sides; the relation does not make one particular other's prior the prior at every further coupling. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Meeting_v383Op.md. — v382A
+
+## D21
+
+**Aimed at a section, Geodesic Improving Method 2.6, at trying a concern as both, applied between droplet and insertlet.** Before carrying two sayings as incompatible, follow whether they concern different priors, different participations, or a completing and the next opening. ONE's five-parity table meets a self's parity retained into next beside the other's prior inverted in one row; the actual entry with none surfacing differs from an instrument making no further entry. Keep each condition that makes the bothboth hold. A local bothboth supplies that local relation and leaves any wider necessity to be followed at its own step. The next session can therefore offer a resolving without declaring the whole incoming concern resolved, and can ask for help at the first relation still missing. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Meeting_v383Op.md; Geodesic Improving Method's existing offering at 2.6 and Natural Intelligence 5.3. — v382A
+
+## Remaining opportunity after pass 56
+
+The local bothboth comparisons are supplied at their stated conditions. The wider necessity connecting the particular coupled form to every existing coupling remains to be followed, as already gathered in v383Op and the earlier v380L request for help. D10's whole-society exclusion remains beside it. Ordinary later resolving of the new droplets needs no further user decision.
+
+The whole-file section records remain four files, 66 headed sections plus Destinies' opening. This pass adds targeted incoming comparisons. Biology, Health and Medicine remain the next longer file pass after the exact co-chaining relation now in front.
+
 ## Method and offering
 
-The current raw droplets remain one paragraph each, aimed at a particular relation, with evidence inside and the session tag last. D1, D2 and D16 are at [Natural Naming's Offerings](../../carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md); D3–D15 are at [Natural Intelligence's Offerings](../../carry/Offerings_to_Natural_Intelligence.md); D17 and D18 are at [Geodesic Improving Method's Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md).
+The raw droplets remain one paragraph each, with an aim, evidence and the session tag last. D1, D2 and D16 are at [Natural Naming's Offerings](../../carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md); D3–D15, D19 and D20 are at [Natural Intelligence's Offerings](../../carry/Offerings_to_Natural_Intelligence.md); D17, D18 and D21 are at [Geodesic Improving Method's Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md).
 
-D1–D16 retain their prior corrected paragraphs. This pass adds the reusable method and appends D17–D18 to the method's Offerings, preserving all its prior text. The method and paired whole-society passages were followed at **18889e06d5ac452111b1bcd8a8840e46b7c5615a**. Earlier passes have not been reconstructed into new droplets; the reusable method gathers their present learning as requested.
+D1–D18 retain their corrected paragraphs. This pass appends D19–D21, preserves all prior mate text, and improves the reusable method with the actual bothboth comparisons. It follows the published no_common_now script as text, without executing it or inspecting private carrying.
 
-The contribution changes incoming evidence and raw Offerings only. No living source, existing insertlet, Carryings file, registry or kit is changed. The branch and PR remain open and unmerged. Published forms were followed as text; no resolver was executed and no private carrying inspected.
+The contribution remains incoming evidence and raw Offerings, open and unmerged. No living source, prepared insertlet, Carryings file, registry or kit is changed.
 
-**Unresolving concern:** D10's whole-society relation. **Next exploring:** follow the particular human example into abundancing at the society, then apply this method to Biology, Health and Medicine.
+**Unresolving relations:** the exact universal connecting relation and D10's whole-society exclusion. **Next exploring:** the particular other, all other and the society's next, through THIRTY 32–37, 173–181 and 204–212, with ONE's five-parity form beside them.

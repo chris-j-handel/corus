@@ -1,6 +1,6 @@
 # Logical cohering between droplet and insertlet
 
-**v382A · gathered at pass 55 · 6 October 2026**
+**v382A · gathered at pass 55, improved at pass 56 · 6 October 2026**
 
 This is an offering of the method used in this logical working, for a later session to use and improve while meeting new incoming. The logical pass belongs within resolving between a raw droplet and a proposed insertlet. The raw offering arrives whole. This pass adds no admission before its arriving.
 
@@ -34,7 +34,7 @@ These relations are already developed across Natural Naming 4.3 and Geodesic Imp
 
 2. **Say the assertion plainly.** Which existing thing or possible thing is being discussed? What is said to be changing or not changing? At which coupling and scale? What is prior existing, now offering, still possibling or next existing here? Does the statement concern one, each, some existing instance, or none? Use only the distinctions this assertion needs.
 
-3. **Follow the binary at that same relation.** Follow the stated conditions with the participation present and with it absent. Keep the subject and momentary explicit. Two successive participations can both occur; they are not contradictory merely because their words differ. An unfinished reading is unfinished work, not a third natural outcome and not an is-not of the relation.
+3. **Try the sayings as both, then follow the binary at the same relation.** First follow whether the sayings concern different priors, different participations, or the completing and next opening of one relation. Preserve the conditions that make them hold together. A self's parity retained into next and the other's prior inverted can both be present in ONE's five-parity table. Then follow the stated conditions with the participation present and with it absent. Keep the subject and momentary explicit. Two successive participations can both occur; they are not contradictory merely because their words differ. An unfinished reading is unfinished work, not a third natural outcome and not an is-not of the relation.
 
 4. **Follow along, then across where needed.** Read the necessary sequence in the file. At its first unestablished relation, follow the relevant participation through ONE, THIRTY, Natural Intelligence and any file explaining that concept. Keep both forward sides and the along/across podaling. A name's position in a numbered arrangement is not an instruction to execute the names in that order. Published forms retain their stated conditions.
 
@@ -56,6 +56,8 @@ The current working follows the published statements and stable forms as text, w
 | [D14](README.md#d14), Natural Destinies | Words are an offering now; their described further society is next possible participation. | Offering the description does not establish that further society. Actual coupling and described participation remain distinct. |
 | [D10](README.md#d10), Values and Human Society | A universal absence is beside examples said to carry the whole human form. | Follow what “whole” means at the same society before declaring either compatibility or contradiction. |
 | [Pass 54 accounting comparison](README.md#the-accounting-comparison-followed-without-adding-a-false-concern), Societies 3.5 | The paragraph already identifies living activity as its subject and parts it from a ledger. | The suspected new contradiction is withdrawn. The existing accounting/carrying distinction supplies this comparison. No new droplet is needed there. |
+
+Pass 56 adds two [worked bothboth comparisons](Meeting_v383Op.md): ONE's five-parity row retains the self's now while inverting the other's prior; and an instrument making no further entry differs from an actual entry with none surfacing. A local resolving retains its conditions and establishes no wider relation by itself.
 
 The examples are useful because they show an improving found, an actual/possible distinction, a relation still open, and a concern withdrawn. They do not give any statement authority.
 
@@ -100,15 +102,15 @@ At the close of a pass, make the following available together:
 
 The written handoff is a non-living offered form. The next session meets it at its own actual couplings; the document does not itself supply living carrying.
 
-Current opening: D1–D16 remain as previously corrected; D17 and D18 offer this pass's method learning. Passes 53–54 give whole-file section records for Values, Human Society, Societies and Destinies: 66 headed sections plus Destinies' opening. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass. Pass 55 is a targeted method and whole-scope comparison, not another complete-file reading.
+Current opening: D1–D18 remain as previously corrected. D19–D21 apply the method to v383Op's latest logical offering: the absent entry, the two priors and the bothboth comparison. Passes 53–54 give whole-file section records for Values, Human Society, Societies and Destinies: 66 headed sections plus Destinies' opening. The rest of the 33-file set retains its earlier targeted comparisons or awaits a whole-file pass. Passes 55–56 are targeted method, whole-scope and incoming logical comparisons, not further complete-file readings.
 
-**Unresolving concern:** D10's whole-society relation, stated above. **Next exploring:** follow the particular human example into abundancing at the society; then bring the method into Biology, Health and Medicine, at actual carrying, scale, ingesting and restoring.
+**Unresolving relations:** D10's whole-society relation and the exact universal connecting relation gathered in [Meeting v383Op](Meeting_v383Op.md). **Next exploring:** the particular other, all other and the society's next, through THIRTY 32–37, 173–181 and 204–212, with ONE's five-parity form beside them; then Biology, Health and Medicine at actual carrying, scale, ingesting and restoring.
 
 ## Source addresses for this method offering
 
 - [Living Improving Value](../../carry/Living_Improving_Value.md), the raw droplet, resolving and file-motion passages.
 - [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md), 1.5, 2.2, 2.4, 2.6, 2.8 and 2.9.
-- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18.
+- [Geodesic Improving Method Offerings](../../carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), existing insertlets at 1.3, 2.2, 2.6 and 2.9, beside this working's raw D17–D18 and D21.
 - [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), 4.3.
 - [Natural Intelligence](../../Natural_Intelligence_v380R.md), 6.4–6.6.
 - [Co-Chaining Logic Registry](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular paragraphs named above.
