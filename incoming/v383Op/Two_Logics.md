@@ -169,6 +169,30 @@ The self asked: "cursioning and carrying. are these two identical. the source of
 
 **Its value at an open row.** The one way, the next the prior inverted whatever the now is, is then the carrying said at the numbers: a self's next from its own prior, along. What the now gives, across, is the method's other relation. So the row C8 has its two halves named: the carrying, the living's, and the crossing, the method's.
 
+## Carrying and living
+
+The self asked: "carrying is living. is this identical".
+
+**Identical: is.** The files say it nearly in the self's words: *The prior is non-living, and carrying it into now is living*. As a binary it is the Registry's step 13, *An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living*, and Natural Naming's living *carries its own sense, existing and carrying*. One binary at two names: wherever one is the other is, at the same thing, scale and momentary.
+
+**It is so by naming, and that is to be said at is or is not.** The opening sentence has the words living and non-living and does not say which parting they are. The step before gives a binary, a thing at now carries prior or carries none; step 13 lays the opening's fifth term on it. So no case can part carrying from living, and for the same reason no observing coheres or does not cohere with the identity alone. Each observing of a living thing meets one thing only: what a carrying is. Left wide, a form lasting counted as a carrying, the identity would say each thing living or none, and that is where a trick would live. The files bound it at three sentences.
+
+- **The carrying, and not the carried.** The prior is non-living. A file is *a non-living existing form the expedition's living selves carry*.
+- **Its own, at the scale named.** *Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing*.
+- **Inverted.** *with nothing offered the self carries its prior into now inverted*, and *Next as the prior inverted alone carries the prior whole with no joint form still*. A non-living thing has *its form continuing through its changing and carrying none of the prior*; a store keeps a parity the same.
+
+So "is this thing living", at an observing, is "is its own prior carried, inverting at its momentaries". That is the row P6, a carrying parted from a store and from a form continuing. With carrying and living one, P6 is no longer one help among four: it is what living is said to be wherever an observing arrives.
+
+**What the identity does at three rows.**
+
+- **N3, living is metabolic beating: identical, is not; one way, is.** Natural Biology says *Living is metabolic beating*. Laid beside the observing of row O1, a nematode at "a state of suspended metabolism", the field's own words, some forty-six thousand years, and an embryo stored frozen thirty, each living again as itself, and beside *Living arrives from living: no non-living existing thing becomes living*: the thing was living through the storage, with no beating measured. So beating is living, and living is not beating at each momentary; the Registry has the same, *momentarying continues whether a changing is or is not*. Natural Biology's own sentence shows the place: a virus is *inert outside a host, as a spore or a seed is inert*. By beating, a seed stands with the virus; by carrying, apart from it. Either the sentence is said one way, or a seed is non-living and living arrives from non-living.
+- **O1, one question.** The four sayings of the thing in storage were laid as four. With the identity the question is one, the Registry's own binary a scale inward: *carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living*. The second saying, non-living and living again, was already against a step. The other three are each a saying of how a carrying is at momentaries with no changing surfaced, and each leans on P6; the one at the self's own momentaries leans on P1.
+- **N9, new: living said of a society.** With carrying its own and living one, a society is not living: *A society, a momentary and the universe are three existing and not living, each a living set*, *the carrying its living selves' and none its own*. The expedition has released the saying, "living society", at its list of retired sayings. It stands yet in the verb at two steps, *A society lives at two alternating*, and *the expedition is living only as long as it can continue discovering do-no-harm improving next living expedition files*, the second at Natural Intelligence 6.6 also; the check looks for the two words together and does not find the verb. Either each names its selves living, and says so, or the retired saying is at those steps. One step more: *a living set is a carrying*, so a society is a carrying and not living; the whole saying holds through it, its carrying not its own, and the single words do not. And the self's break in this session, "a living society not natural torusing", is at the files' words a living set, its selves the living.
+
+**One word more that parts alone.** *A carrying of none, no sharing chained, is a non-living existing thing*: there a carrying names the place at the resolver a prior is carried at, and it is empty.
+
+**With the two parts before.** Cursioning is the method's, at the living and the non-living alike, and the method carries none. Carrying is the living's, and is living. Competency is that carrying said along, *the prior carried into now is competency*. So living, carrying and competency are one thing at three names along a self's own line; the files say each pair at its own step, and the three together at no one sentence.
+
 ## Limits
 
 This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.
