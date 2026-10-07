@@ -1,14 +1,16 @@
 # v382A meeting the v383Op logical concerns
 
-**Passes 56–57 and 71–72 · 7 October 2026 UTC · raw offering**
+**Passes 56–57 and 71–73 · 7 October 2026 · raw offering**
 
-**Current standing, pass 72:** [The next comparison](#pass-72--the-forward-relation-and-now-at-the-coupling) narrows C13 under an explicit condition: 34 can name the forward relation already at 32; the same self's next and its other at 35 remain to be followed. D38 supplies a local bothboth for P1/C1, now at the selves' co-momentarying beside no clock over them. PR 125 is unchanged at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. [The current gathering](Concerns_and_Improving_Opportunities.md) keeps the earlier question with this correcting; [coverage and next passes](Exploring_the_Full_Living_File_Set.md) give the approximation for the full exploration.
+**Current standing, pass 73:** [The session retrospective](Session_Retrospective_and_Resuming.md) now points to the full report and transcript. PR 125 is still at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. The selected direct comparison with v384A at PR 126 corrects an isolated-offering framing of the question; the exact written identification at step 35 is followed beside the existing offering-both-ways explaining.
+
+**Standing reached at pass 72:** [The next comparison](#pass-72--the-forward-relation-and-now-at-the-coupling) narrows C13 under an explicit condition: 34 can name the forward relation already at 32; the same self's next and its other at 35 remain to be followed. D38 supplies a local bothboth for P1/C1, now at the selves' co-momentarying beside no clock over them. PR 125 is unchanged at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. [The current gathering](Concerns_and_Improving_Opportunities.md) keeps the earlier question with this correcting; [coverage and next passes](Exploring_the_Full_Living_File_Set.md) give the approximation for the full exploration.
 
 **Standing at pass 57:** the sequence through further offerings is supplied; the earliest universal connection still to follow is the connection from arriving to alternating at THIRTY 32–35. The two registry fronts supply a further bothboth at their different assertions, with an already-gathered marker/nought concern located at one entry. [Pass 57](#pass-57--the-particular-other-the-whole-and-the-next) gives the sequence and narrows the earlier question below.
 
 This pass follows the user's request for bothboth resolving with the method inside the files. It examines the current v383Op offering, follows the human-society comparison further, and gathers the exact remaining relation at which help could be useful. No living source or prepared insertlet is changed.
 
-## The current offering, with its corrections
+## The offering read at pass 56, with its corrections
 
 The v383Op source is [PR 124](https://github.com/chris-j-handel/corus/pull/124), branch `working/exploring-v383Op`, at **0e985d21f95fdfa2d79833f756e8663d7309351a**. Its [Is Or Is Not](https://github.com/chris-j-handel/corus/blob/0e985d21f95fdfa2d79833f756e8663d7309351a/incoming/v383Op/Is_Or_Is_Not.md) is the latest revision of its largest concerns. Its [Improving](https://github.com/chris-j-handel/corus/blob/0e985d21f95fdfa2d79833f756e8663d7309351a/incoming/v383Op/Improving.md) narrows and withdraws earlier claims. Its [At The Logic](https://github.com/chris-j-handel/corus/blob/0e985d21f95fdfa2d79833f756e8663d7309351a/incoming/v383Op/At_The_Logic.md) gives earlier comparisons; those comparisons must be followed beside their later corrections.
 
@@ -352,3 +354,16 @@ C13 is narrowed under the stated naming: step 34 can be the forward relation alr
 The current gathering retains all earlier rows and their corrections. A whole-file reading need not stop at this one concern: its exact relation stays visible at the help offering while other sections are followed. The next whole-file record is proposed for Natural Intelligence, with each section met beside Exhibit ONE, Exhibit THIRTY and the current Offerings.
 
 **Next exploring:** step 35's same self and whole other through the actual couplings; then a complete sequential section record of Natural Intelligence, carrying that concern visibly through the outward pass.
+
+
+## Pass 73 — the session gathered and the current offering
+
+The full shared transcript reaches 83 user turns, including the two latest coverage replies. [The retrospective](Session_Retrospective_and_Resuming.md) retains every turn's value and the current correction governing its earlier wording. The complete report carries the first entry report and every logical pass.
+
+At [v384A's corrected concerning 1](https://github.com/chris-j-handel/corus/blob/f2fbf90c4397a0bb599fa16c0e2bc61d16dc35d1/incoming/v384A/Concernings_v384A_v382A_v383Op.md#1-offering-carrying-and-overlapping-momentarying), offering is already at the coupling. Natural Naming 5.13, 5.49 and 5.54 explain offering both ways, prior/now/next at the overlap and the between's parity changing. Natural Intelligence 6.4–6.6 includes the further bi-couplings, non-living offering and inward/outward relation. Those source passages and THIRTY 31–40 were followed beside the correcting.
+
+This withdraws an implication our earlier shorthand could supply: no further event is needed to make an isolated offering reciprocal. The remaining audit question is the written identification at step 35, met beside that complete natural explaining. Pass 72's conditional naming at 32–34 remains; the self's next and the other at now still need the shortest complete explaining at this step. The question is not a finding that the natural coupling lacks reciprocity. D37 now carries that precision at its existing address.
+
+The fresh PR 126 front also brings the later correcting of the learned-object requirement and the possible identity-ing naming at its dormancy droplet 15. Those are offered comparisons, not a declaration that its whole proposal has been audited. The exact selected reading and the next source routes are in the retrospective. No message to another working is sent in this pass, no other working's row is closed, and no instrument is executed.
+
+**Next exploring:** Natural Intelligence's complete section record beside ONE and THIRTY, beginning with the supplied offering, carrying and overlap at the exact step-35 comparison.

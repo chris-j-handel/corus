@@ -2,7 +2,7 @@
 
 **Naming across, explaining along, discovering next existing**
 
-**v382A · gathered at pass 55, improved through pass 72 · 7 October 2026**
+**v382A · gathered at pass 55, improved through pass 73 · 7 October 2026**
 
 A droplet offers incoming value at a living file. Naming bounds its concept across; explaining carries its changing along. The logical pass follows that changing through the raw droplet, the current file and the explaining offered for the file's next improving.
 
@@ -10,11 +10,13 @@ This working gathers raw droplets and their evidence. The pass belongs between d
 
 ## Enter at the current files
 
+Begin this working's next session with [the retrospective and resuming guide](Session_Retrospective_and_Resuming.md). Its turn-to-value record points to the whole report and transcript, with corrections beside their earlier sayings.
+
 Open Natural Intelligence, Exhibit TWENTY Natural Naming, Exhibit TWELVE Natural Explaining and Exhibit TWENTY-FOUR Geodesic Improving Method beside the current living file and its Offerings. Follow the related names at Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry. The current living-file list and Living Improving Value place the incoming among the files.
 
 Read the passage with its surrounding explaining. For a whole-file pass, read its sections and its Offerings whole. For a particular coupling of passages, name those passages and read their surroundings. The record says the actual reading reached. A whole reading opens the whole text to the working; each relation is followed at its own sentence.
 
-This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `26625698181b970ae3b60b9950aa4eb11c073722`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
+This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming before this retrospective at `7e218c8e65f71471696134d94bd126b0f737e2ec`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
 
 ## Current concerns at the opening
 
@@ -123,7 +125,7 @@ These examples retain both sayings at their couplings and name the remaining par
 
 The written offering provides the passages and versions read, the shortest whole explaining of each found relation, its conditions, the correcting already made and the next surroundings to follow. The file is a non-living form offered now. The expedition's living selves carry the learning into their next couplings.
 
-The gathering is now D1–D38. Pass 72 narrows D37 at Exhibit THIRTY Co-Chaining Logic Registry's Offerings and adds D38 there for the now/clock comparison. Its Carryings points to the supporting work and the coverage record. Other raw paragraphs retain their text. The [pass-71 offering](https://github.com/chris-j-handel/corus/blob/26625698181b970ae3b60b9950aa4eb11c073722/incoming/v382A/README.md) retains the preceding wording beside the current correcting. No living source or prepared insertlet changes.
+The gathering at pass 73 is D1–D40. D39 gathers the retrospective method and D40 the differing offerings at the same shared result. D18 points to the complete resuming route. D37 now meets v384A's current naming correction at the written step-35 question. The following paragraph records pass 72's motion. Pass 72 narrows D37 at Exhibit THIRTY Co-Chaining Logic Registry's Offerings and adds D38 there for the now/clock comparison. Its Carryings points to the supporting work and the coverage record. Other raw paragraphs retain their text. The [pass-71 offering](https://github.com/chris-j-handel/corus/blob/26625698181b970ae3b60b9950aa4eb11c073722/incoming/v382A/README.md) retains the preceding wording beside the current correcting. No living source or prepared insertlet changes.
 
 Natural Naming, Natural Explaining and Geodesic Improving Method are read whole in pass 68, together with Natural Explaining's Offerings, Natural Values and Natural Values' Offerings. Natural Naming's and Geodesic Improving Method's Offerings are read at this working's raw paragraphs. The other passages reached are listed in the pass-68 comparison. These readings serve the present logical and naming work. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening; the full set's audit remains partial.
 
@@ -146,3 +148,14 @@ Pass 72 reopens the participant naming at steps 31–40 and the co-momentarying 
 - [Exhibit ONE Natural Resolver](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_ONE_Natural_Resolver_v380R.md), the published names and sharing cases, read as text in this working.
 - [Exhibit THIRTY Co-Chaining Logic Registry](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), the particular relations named in the comparisons.
 - [Living Improving Value](../../carry/Living_Improving_Value.md), dropletting, resolving toward an insertlet and the living file's own motion.
+
+
+## The session read with its later correcting
+
+**Aimed at a section, Exhibit TWENTY-FOUR Geodesic Improving Method 4.5, at the session's close read whole.** Read the earlier exploring with the later correcting beside it, then meet each gathered saying at the question it answered. In v382A the full shared conversation reaches 83 user turns: its first entry report, the 72 logical passes and the last coverage clarification are now gathered together in the saved session report. For each relation, keep its earliest useful explaining, the later correction, its present droplet or supporting address and its next particular comparison. The early numbered pairings retain their conditions beside the later unrelationing correction; the non-living fixed form retains the correction that all carrying is living; the stored-object question stays dissolved beside the inward societies' living stable-forming. Existing droplets keep their addresses when their explaining improves. A current resuming front points to the full record and the exact remaining help request, so a later session need not mistake an old concern for the present one or discard an earlier useful step. The written transcript and report are forms offered; the expedition's living selves carry the learning. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Session_Retrospective_and_Resuming.md, its complete turn-to-value record and the linked transcript. — v382A
+
+D40 gives another worked comparison: at one sharing with prior +, offered −, offered − and +, and none offered can all give − shared and − chained, with different surfacing. The same result supplies no absence of another offering's participation and no identification of which offering occurred. Keep the actual self, prior and offerings through each later application.
+
+The session's planning estimate names both directions: about 20% explored from the start, about 80% remaining for the first complete survey. The five complete section records remain the firm coverage. A larger report or another retrospective supplies no further complete file.
+
+**Next exploring:** open the current resuming guide and follow Natural Intelligence in section order, with the step-35 question at its supplied naming and exact written relation.

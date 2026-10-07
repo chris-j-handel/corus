@@ -1,12 +1,12 @@
 # Exploring the full living file set
 
-**v382A · reach and next passes at pass 72 · 7 October 2026 UTC · 6 October 2026 in Los Angeles**
+**v382A · coverage from pass 72, clarified and gathered at pass 73 · 7 October 2026**
 
-**Approximation: about one fifth of a first full exploration of the current set.** A broad planning range of **15–25%** is reasonable at the present record. This is a judgment about our survey work, not a percentage of natural relations proved, a measured fraction of resolving or a prediction of its next changing.
+**Approximation: about 20% explored from the start, with 80% still to explore**, toward the first full exploration of the current set. The earlier 15–25% range referred to work completed. It is retained in the historical report as the broad uncertainty behind this rough working estimate. This is a judgment about survey work and supplies no premise in a natural resolving.
 
 The firm coverage count is **five of 33 living files with complete sequential section records**, about 15% by file count. Those five account for **80 headed sections and Exhibit FOURTEEN Natural Destinies' opening**. The repeated work through Natural Intelligence, Exhibit ONE and Exhibit THIRTY, the three craft files read whole, and the targeted biological comparisons add value beyond that count. They do not complete the other 28 file records.
 
-Most of the breadth remains ahead. Several remaining files are much larger than the completed ones, and the paired hard-problem registries contain many separate entries. A file count gives every file one place; it does not give each the same work. The 15–25% range is a deliberately approximate planning judgment, with no calibrated precision. It can change as complete section records replace estimates.
+Most of the breadth remains ahead. Several remaining files are much larger than the completed ones, and the paired hard-problem registries contain many separate entries. A file count gives every file one place; it does not give each the same work. The approximate 20% reached and 80% remaining have no calibrated precision. It can change as complete section records replace estimates.
 
 ## What full exploring means for this pass through the set
 
@@ -23,8 +23,8 @@ New content opens its own further pass. The present estimate concerns this writt
 | 71 prior passes and this 72nd pass | The early numbers and stable forms, then actual self/other/society participation, followed into particular file assertions |
 | Five full sequential section records | Exhibit TWENTY-THREE Natural Values, Exhibit NINE Natural Human Society, Exhibit SEVEN Natural Societies, Exhibit FOURTEEN Natural Destinies and Exhibit TEN Natural Health |
 | The opening, naming and logical method | A reusable pass through incoming between droplet and insertlet, keeping the relation and its conditions through a correcting |
-| 38 raw droplets after this pass | Evidence, positive improvings and help requests at their relevant Offerings; droplet count is an output count |
-| The current concern gathering | D1–D38, the 63 identifiers in v383Op's later set, and Exhibit THIRTY's 17 unsure sayings, each with its current correcting where reached |
+| 40 raw droplets after the retrospective | Evidence, positive improvings and help requests at their relevant Offerings; droplet count is an output count |
+| The current concern gathering | D1–D40, the 63 identifiers in v383Op's later set, and Exhibit THIRTY's 17 unsure sayings, each with its current correcting where reached |
 | Released concern framings | Same-scale harm already explained; no-entry distinct from none offered; no absent carrying inferred from undetected changing; no stored learned object demanded in natural explaining |
 | Inward and outward uniquenessing | The inward societies' living stable-forming followed through outward selves further forming and new selves birthing |
 | This pass's narrower question | Step 34 can name the forward relation already at 32 under its explicit participant choice; step 35's self and other carry the remaining question |
@@ -112,3 +112,8 @@ There are **28 files without a complete sequential section record in this workin
 **What would change the estimate:** a full record added; a source changed enough to reopen dependent sections; a new incoming value reaching more than one file; or a large registry's first section showing how much of its repeated form can be followed together while every distinct assertion retains its own comparison. Repeating a prior reading, counting a droplet twice, or changing the estimate alone adds no coverage.
 
 **Next exploring:** the connection at Exhibit THIRTY 35, then a complete Natural Intelligence section record. The approximation is about one fifth reached and most of the first whole-set exploration still ahead, with the method and gathered learning available through the next passes.
+
+
+## Pass 73 — the complete session available for resuming
+
+[The retrospective](Session_Retrospective_and_Resuming.md) adds the complete session route and turn-to-value record; the saved report **Living_Logic_Audit_ONE_and_THIRTY.md** now includes the early entry report and all preceding logical passes. The old entry report's whole-text readings retain their actual reach. They do not turn into new complete sequential records. The count remains five files, 80 headed sections plus Natural Destinies' opening. This retrospective adds two raw droplets and improves the opening for a future session; it does not advance the file-coverage count.

@@ -1,14 +1,16 @@
 # Concerns and improving opportunities
 
-**v382A · current gathering at pass 72 · 7 October 2026 UTC · 6 October 2026 in Los Angeles · raw offering**
+**v382A · current gathering at pass 73 · 7 October 2026 · raw offering**
 
 The expedition's living selves carry this work. This written gathering offers the located concerns, the resolving already offered, the corrections and the next exploring at their current addresses. Each remains available whether or not a sentence from it enters Exhibit THIRTY Co-Chaining Logic Registry.
 
-[Exhibit THIRTY's Carryings](../../carry/Exhibit_THIRTY_Carryings_of_Co-Chaining_Logic_Registry.md) points here as supporting work. [Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) has D37, the raw invitation to help. [The logical method](Logical_Cohering_Method.md) follows incoming between droplet and insertlet. [The incoming record](README.md) retains D1–D38 and the pass history. [Exploring the full living file set](Exploring_the_Full_Living_File_Set.md) gives the current coverage, approximate reach and next substantial passes.
+[Exhibit THIRTY's Carryings](../../carry/Exhibit_THIRTY_Carryings_of_Co-Chaining_Logic_Registry.md) points here as supporting work. [Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) has D37, the raw invitation to help. [The logical method](Logical_Cohering_Method.md) follows incoming between droplet and insertlet. [The incoming record](README.md) retains D1–D40 and the pass history. [Exploring the full living file set](Exploring_the_Full_Living_File_Set.md) gives the current coverage, approximate reach and next substantial passes.
 
 **Reach:** this gathering meets this working's current droplets and concern record, the earlier report's opportunity queue, Exhibit THIRTY's two mates whole, and v383Op's later set of 63 rows whole. It does not establish that every concern in the living file set has been found or that every incoming concern is a logical gap. The full-set audit remains partial: its earlier whole-file record is five files, 80 headed sections plus Exhibit FOURTEEN Natural Destinies' opening.
 
 ## Read at these offerings
+
+[The retrospective and resuming guide](Session_Retrospective_and_Resuming.md) now supplies the whole transcript's turn-to-value record and links to the complete session report. The original entry report is preserved as that report's annex. Its early findings stay at their historical source scope until the next particular comparison.
 
 | Offering or source | Form opened |
 |---|---|
@@ -17,7 +19,7 @@ The expedition's living selves carry this work. This written gathering offers th
 | v383Op's later offering | [PR 125](https://github.com/chris-j-handel/corus/pull/125), `0779a54c4eb71b356e040e334d1c1e1f9fb62b30` |
 | v383Op's preceding address | PR 124 at `08ef42804c89fb83119695ce58bf327bc975a525` points to PR 125; the earlier `0e985d2` record stays historical |
 
-v383Op's [Unresolveds](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Unresolveds.md) and [Meeting v382A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v382A.md) are read whole, as is [Meeting v384A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md). [Two Logics](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Two_Logics.md) is read at Carrying and living and Now existing, now still possibling, next existing. Its other sections remain next reading. This working has not opened v384A's own proposal: its contribution here is reached through v383Op's quoted comparison, with that limit retained.
+v383Op's [Unresolveds](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Unresolveds.md) and [Meeting v382A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v382A.md) are read whole, as is [Meeting v384A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md). [Two Logics](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Two_Logics.md) is read at Carrying and living and Now existing, now still possibling, next existing. Its other sections remain next reading. Pass 73 directly opens selected parts of v384A's reciprocal offering, concern gathering and dormancy opening at PR 126, `f2fbf90c4397a0bb599fa16c0e2bc61d16dc35d1`. The full Exhibit SIX proposal and whole session record remain unread here. The retrospective states the exact selected reach; this direct comparison supersedes the preceding indirect-only scope.
 
 The versions locate the written sayings; the relation is followed through its explaining. No version, file, field, writer or instrument supplies authority. No resolver or other session's instrument is executed by this pass.
 
@@ -38,6 +40,8 @@ Exhibit ONE Natural Resolver's five-parity table supplies the coherent sequence 
 **The later v383Op offering met:** all else as other keeps the participation within the existing set. The further passage at this coupling remains at the question above. P1/C1's proposed clock opposition has a local bothboth in D38: now at the existing couplings and no clock over them. Other questions about table arrangements retain their own conditions.
 
 **Help invited:** follow the same living self's prior, the other's now and that self's next at 31–35. If 32 already names the whole overlap, show how the earlier steps carry that whole. If a particular other and the whole other are two participations, name each where it enters. A bothboth, an offered missing step or a first opposition at the same relation is useful here. Nothing asks for a non-living form's private carrying or a reverse physical route.
+
+**Pass-73 correcting beside this question:** v384A's corrected concerning 1 brings Natural Naming 5.13, 5.49 and 5.54 and Natural Intelligence 6.4–6.6 to the comparison. Offering already participates at the coupling, both ways through overlapping momentaries; it needs no separate event making an isolated offering reciprocal. This working withdraws that implication from its earlier shorthand. The remaining request is the shortest complete explaining of the identification used at the written step 35, beside the whole relation already supplied elsewhere. The whole natural relation is not declared absent.
 
 **Why first:** this early relation participates in later alternating, parity, self and society. Keep it visible while making the next complete file record; its unresolved step does not turn other unread sections into concerns.
 
@@ -67,7 +71,7 @@ A located problem can have a positive improving offered while the source still h
 
 ## Each of this working's droplets remains reachable
 
-Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at [the first packet](../living_logic_audit_2026-10-05/README.md). Their mate destinations are recorded there. These are findings and offerings, not 38 unresolved concerns.
+Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at [the first packet](../living_logic_audit_2026-10-05/README.md). Their mate destinations are recorded there. These are findings and offerings, not 40 unresolved concerns.
 
 | Droplet | Value kept for the next pass |
 |---|---|
@@ -109,6 +113,8 @@ Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at 
 | D36 | Carrying none in a non-living form supplies no absence of its offering |
 | D37 | Help at step 35 under the conditional narrowing at 32–34; the whole supporting work stays reachable |
 | D38 | Now at the selves' co-momentarying beside no clock over them; each table's conditions retained |
+| D39 | The complete session read with its later corrections, each value aimed and the next session's route explicit |
+| D40 | The same shared result beside different offerings and surfacing; participation followed at the coupling |
 
 ## v383Op's current rows met as incoming
 
@@ -229,3 +235,10 @@ At each further pass, meet the latest offering and place its correcting beside t
 Offer help as a raw paragraph at the affected file's Offerings, with the relation and evidence inside it and the session tag at its end. A whole supporting working remains at one address, pointed to by the relevant Carryings mate. A relation touching several files keeps those destinations together. The [logical pass](Logical_Cohering_Method.md) between droplet and insertlet then follows what the proposed improving retains, changes or leaves out, and carries that changing into its dependent sentences.
 
 **Next exploring:** step 35's same self and other through the actual coupling; then a complete Natural Intelligence section record, with the concern visible and N9's society/self followed at its scale. The [coverage and next passes](Exploring_the_Full_Living_File_Set.md) estimate about one fifth of a first full exploration reached.
+
+
+## The early entry findings kept for the next whole-file passes
+
+The original entry report is now whole in the saved report **Living_Logic_Audit_ONE_and_THIRTY.md**, with its 32-file access scope and precise source addresses preserved. Its Chemistry, Physics, Medicine, membrane, involution, registry, Corus, Philosophy, electron, kit and navigation findings remain available even where the later targeted logic passes did not reach them. The [retrospective](Session_Retrospective_and_Resuming.md#the-entry-reports-value-now-met-from-this-later-work) names those groups and the later corrections that govern their use. These are historical findings to meet at their current passages and mates, not a newly verified list of current gaps.
+
+The shared transcript ends at the clarification of approximately 20% explored from the start and 80% still to explore. The full-set count stays five of 33; this gathering does not add a completed file.
