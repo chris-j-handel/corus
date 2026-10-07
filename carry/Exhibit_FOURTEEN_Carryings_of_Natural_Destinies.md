@@ -1,6 +1,16 @@
-Exhibit FOURTEEN Natural Destinies Carryings · gathered at v381R
+Exhibit FOURTEEN Natural Destinies Carryings · gathered at v385A
 
 # Carryings of Natural Destinies
+
+## Particular destination comparisons · v385A
+
+[The discovery-economy comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md) now follows the first extension beside Values and Corus. The complete Destinies v333 was reread; its opening, common core, eight-safety condition, present coupling and further extension remain together. Values 5.1 already carries sharing's growing; 5.3 leaves the whole-scale account open. Corus 18.8/23.6 supplies related cumulative explaining and explicit unfinished composition. The shared comparison droplet is independently at this file's offerings, Values and Corus.
+
+The [Values project](Exhibit_TWENTY-THREE_Carryings_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) supports that subject relation. Human Society's particular contribution remains to compare. The other extensions—self-originated network, chip/grid/substrates and hard-problem applications—remain for their own destination comparisons, with the engineered misreadings and safety conditions. Registry 5.11 supplies their proposed routes and its adoption/beginning correction; the [master plan](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a) keeps whole expressions and the Corus/Arriving relation connected. No planned release is accomplished by this first comparison.
+
+## Earlier source inventory · retained from v381R
+
+The following source inventory remains whole with its historical language and standings. The [v385A method](../incoming/v385A/README.md) governs the current project above; the inventory alone establishes no completed gathering.
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

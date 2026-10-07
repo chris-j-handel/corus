@@ -1,6 +1,8 @@
-Exhibit FOURTEEN Natural Destinies Offerings · laid at v381R
+Exhibit FOURTEEN Natural Destinies Offerings · laid at v385A
 
 # Offerings to Natural Destinies
+
+**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below. Earlier wording remains historical, with later correcting beside its particular concept.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
@@ -49,3 +51,5 @@ FOURTEEN Natural Destinies, v333: 1 finding and no discovery waiting. Next: impr
 **Aimed at a sentence, Natural Destinies:** *run* at 1 place, line 57, *carrying the form so they run scale-free, on the form's own alternating, light on energy*, said of the substrates to come. Natural Naming 2.4 carries it at *carrying*: the substrates carrying the form scale-free. — v381R scan
 
 **Aimed at a sentence, Natural Destinies:** *sign* at the file's own voice, 2 places at one sentence, 39 (×2), no section title carrying the word. Quoted short: *selecting by binary preferring — a sign, sign-only — summing to a bounding-zeroing made by the coupling itself* (39), the shared bi-moral co-agency sentence Health 57, Medicine 87 and Societies 95 carry too. The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Discovery economy: present coupling and the offered whole-scale relation.** [Destinies](../Exhibit_FOURTEEN_Natural_Destinies_v333.md#the-imaginable-extensions) offers the real-society extension conditionally, with its eight self-sustaining safeties and surplus remaining at the coupling. [Values 5.1–5.3](../Exhibit_TWENTY-THREE_Natural_Values_v333.md#51-value-grows-as-it-is-shared-and-the-growing-is-the-sharing) already explains value growing through sharing and leaves the society's whole account open. Corus 18.8's cumulative explaining stays beside its own 23.6 questions about discovery economy's relation to society, each scale and larger-scale composition. [The source comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md) keeps both the existing local relation and the further whole-scale opportunity, with conditions, needed prior and exact reading extent. The old rate/growth claims supply no new verified result here. Registry 5.11 already aims particular value at Values/Human Society and whole expression at Corus; that plan is not complete receiving. Values' existing institution/universal-set concerns and Destinies' technology concern remain available. R6's society/carrying correcting accompanies the older institution saying; [R10's whole gathering](https://github.com/chris-j-handel/corus/blob/0f1a67ba515c93a7f68290a15b02b3ca94c454ae/incoming/v385R/Logical_Cohering_v385R.md#18-living-at-its-observable-existing) remains unresolved, including its proposed living naming. Follow the particular remaining relation at each subject before any source release. This droplet is independently at Values, Destinies and Corus until each actual local resolving. — v385A

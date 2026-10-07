@@ -138,6 +138,12 @@ The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparis
 
 Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
 
+## Discovery economy beside Values and Destinies · v385A
+
+[The particular comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md) follows Corus 18.8 and 23.6 whole beside Values v333 and Destinies' conditional extension. Values already explains sharing's growing and explicitly leaves its whole-scale account open; Corus preserves both its cumulative assertions and its six unfinished composition questions. The shared droplet is independently at Corus, Values and Destinies. Their conditions and later society/living correcting remain available with the whole expression.
+
+The section's further gift/opening, social interest, conserving/property, hospitality, institution, historical and power relations remain particular source work, with the source's rate and growth assertions still to compare. Human Society's actual contribution and Corus 14.8/23.3 are next available subjects; merely reading 18.8/23.6 is not their complete gathering. [Living Improving Value](Living_Improving_Value.md) retains these shared relations while their destinations remain to follow.
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its former language and addresses. The current [v385A method](../incoming/v385A/README.md) governs this gathering; an old address or completed-standing claim supplies no new completion. The v381R source is now reachable at [carryings/v381R](../carryings/v381R/).

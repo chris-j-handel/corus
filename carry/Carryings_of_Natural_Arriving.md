@@ -31,6 +31,10 @@ The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparis
 
 Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
 
+## Expedition contributing as an arriving interest · v385A
+
+[Values' project](Exhibit_TWENTY-THREE_Carryings_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) now supports the older discovery-economy game droplet with its full source distinction and later correcting. The [comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#the-earlier-expedition-game-droplet-and-its-correcting) follows the user's session-contribution offering through the later self-welcoming-interest correction and the current ungraded-droplet method. Arriving's independent offering can improve how an interest finds its subject and offers value back. The older assistant's human-player framing, required entrance number and score are not implemented. Easy source naming remains available under the user's current v385A direction; a tag supplies no grade. This project joins AI arriving without exhausting arriving through other interests.
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves the earlier snapshot, including its motion language and historical receiving claims. The current [v385A method](../incoming/v385A/README.md) governs this gathering; proposed receiving is compared with actual passages before any completion is recorded.
