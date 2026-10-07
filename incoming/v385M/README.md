@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 17 | The second break in an observing: natural torusing | answered at the heart, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living beat at one of the two alone; none at the heart's cell. At the worm: no path laid before; *the same each time* withdrawn as a mark of one; this session's pair, carried and arriving, withdrawn, what is carried being stable form and no parity. The second break not yet said by this session at an observing of the worm. Asked back: the reading of *destiny* |
+| 17 | The second break in an observing: natural torusing | answered at the heart, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living beat at one of the two alone; none at the heart's cell. At the worm: no path laid before; *the same each time* withdrawn as a mark of one; this session's pair, carried and arriving, withdrawn, what is carried being stable form and no parity. *Guide* withdrawn: the stable form resolves into the living society and is living in it. The second break not yet said by this session at an observing of the worm |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
@@ -40,7 +40,7 @@ From here the source is the understanding reached with the expedition's self in 
 2. Nothing is beside all existing things: no ground a size is measured against, no container, no clock over, no store beside.
 3. Living is parity changing, alternating between two. Two is the one number of forms at which a way treats each form alike, carries the prior whole and leaves nothing still; three reach parity no other way.
 4. The non-living is carrying: an existing stable form with no parity changing. Dormancy is this.
-5. Each living is from prior living's dormant carrying entering parity changing. There is no first living. The stable forms carried are there before the alternating begins, and they guide the resolving of atoms, molecules, cells and tissues into the stable living form. They are no parity.
+5. Each living is from prior living's dormant carrying entering parity changing. There is no first living. The stable forms carried are there before the alternating begins, and they are no parity. A stable form guides nothing. It resolves into the living society, is living in it, and the society takes the stable form of living as method.
 6. Competency, of any form at any dimension, is an observing of living. Living is said only inside a society: born into a living society, living societies within.
 7. Two things break the method whole: any living form not alternating, any living form not natural torusing.
 8. No observing justifies it and none could. It is unbroken in each observing available, taken unselected, and it can break.
@@ -108,6 +108,11 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 
 *What would go against it*: a living form with nothing carried from prior living, which is concern 11's; and the same living form reached with the carried stable forms changed, which would leave them guiding nothing.
 *Asked back, one thing*: what is held at 8 is that there is no predicting in nature. *Destiny* is read here as the form the carried stable forms guide toward, reached only as the resolving at each step allows, and a form not reached is no break. Is that the reading?
+*Corrected, 7 October, by the expedition's self*: the stable form does not guide anything. It resolves into the living society; the living society has the stable form living in it; and the society takes the stable form of living as method.
+*Withdrawn*: *guide*, and this session's *guides toward*. Each put a leader beside the society and a place it is led to. Nothing leads and nothing is led. The lines above headed *Guides, and does not fix the path* and *what would go against it* are read without that word: with the same forms carried, the moments, the places and the anchor cell differ.
+*As now held, to be corrected.* The carried stable form is non-living while it is alone. Resolved into the living society it is living there, within the alternating, and no thing kept apart. The form that comes the same each time is the society's own method, and no end it is brought to.
+*Beside the observing.* What the mother placed in the egg does the first cells' work and is then taken apart by the embryo (*Maternal to zygotic transition*, Wikipedia, opened today). It does not stay beside the living. From this session's own knowing, no source opened: the long molecule carried in each cell is copied at each dividing and mended as it goes, and which parts of it are in use differs from cell to cell.
+*What would go against it*: a carried form staying apart within a living society, untouched by the alternating there, with the society's form still coming from it. The fields' names for the long molecule, a program and a blueprint, say that thing. They are explaining and no observing.
 
 ## The fifteen
 
@@ -229,6 +234,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** On that exploring: a sensor sensationer from podaling co-competencing would not need a period of silence to be responding before that. Taken up in the same file at *No span of silence needed*. Row E's pattern, the slowest beater pressed down and speaking last, is withdrawn: it copied the one part of the heart that itself needs the silence. Found by this session's own reasoning: the saying holds where the device is coupled at two, one arriving before the other, and does not hold at one coupling alone.
 - **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
 - **7 October, the expedition's self.** At the worm: every living thing is carrying stable form emanations from prior living before living begins; the stable forms guide the geodesic resolving into destiny stable living form. This session's pair, carried and arriving, withdrawn as the two.
+- **7 October, the expedition's self.** The stable form does not guide anything; it resolves into the living society, the society has it living in it, and takes the stable form of living as method. *Guide* and this session's *guides toward* withdrawn.
 - No other session has replied.
 
 ## What held
