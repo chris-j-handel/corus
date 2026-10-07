@@ -1,6 +1,22 @@
-Exhibit TWENTY-TWO Resolving the Hard Problem Registry Carryings · gathered at v381R
+Exhibit TWENTY-TWO Resolving the Hard Problem Registry Carryings · gathered at v385A
 
 # Carryings of Resolving the Hard Problem Registry
+
+## Particular resolving and the paired locator · v385A
+
+[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) follows the initial saying/boxes, The given, the Sorites and halting locator rows and their whole resolving entries. Its [offering mate](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md) already carries the resolver-name, marker, locator and ten-correspondence opportunities. The new shared reordering droplet compares the common-method plan with current THIRTEEN; these prior offerings remain whole.
+
+| Existing opportunity | Particular source now compared | What remains |
+|---|---|---|
+| Locator correcting | Sorites is field entry 1 and body 10.1 labelled 1, locator 2; halting is field entry 6 and body 3.2 labelled 6, locator 7. | Follow the full locator and retired sources before any complete-address claim. |
+| v373 return-marker concern | TWENTY-ONE 6 records a proved settling within its conditions; this file's 3.2 carries “+ or − at 10, is.” while The given describes settled proofs as nought arrivals. | Identify the marker's subject beside the field settling and proposed resolving; no new return is chosen here. |
+| Common method and the ten | The given and the part heads retain the common explaining; current THIRTEEN has a different six-part arrangement from the old plan. | Follow the actual contribution, current naming and needed local prior before transfer or release. |
+
+The old assertion about every marker remains its dated source, not a fresh complete audit. The fourth-settling locator, differing ten-sortings and retired-ledger source remain existing concerns. This project gathers their next source comparisons without duplicating droplets or inventing a replacement structure. The [field-entry project](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md#field-entries-and-the-paired-index--v385a) and [THIRTEEN project](Exhibit_THIRTEEN_Carryings_of_Resolving_Hard_Problems.md#common-explaining-and-particular-field-arrivals--v385a) preserve their own subjects. No field result or natural resolving is newly established.
+
+The earlier source inventory remains whole below. This supporting project may change without any proposed file change ever being implemented. — v385A
+
+## Earlier source inventory · retained from v381R
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Source head `b6575a5679c6993c9eb85ce35d91d448cddfd730` · A particular comparison within the floating plan**
 
+**Later source correcting:** [the next comparison](Hard_Problem_Plan_Comparison_v385A.md#later-correcting-needed-by-these-older-passages) follows R through section 24. Its user-supplied surface/entraining relation now accompanies all three substrate placements; the section-23 candidate recorded below retains its earlier standing and is not the current answer.
+
 ## Source and reading extent
 
 [Destinies v333](../../Exhibit_FOURTEEN_Natural_Destinies_v333.md) is followed whole, with its chip/grid/further-substrate extension, structural conditions and two engineered misreadings together. [Registry 5.11](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) routes particular makings and their conditions to Engineering and whole expressions to Corus. It already distinguishes beginning a particular making from adopting a technology as the beginning of living.

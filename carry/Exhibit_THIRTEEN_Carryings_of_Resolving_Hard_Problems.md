@@ -1,6 +1,20 @@
-Exhibit THIRTEEN Resolving Hard Problems Carryings · gathered at v381R
+Exhibit THIRTEEN Resolving Hard Problems Carryings · gathered at v385A
 
 # Carryings of Resolving Hard Problems
+
+## Common explaining and particular field arrivals · v385A
+
+[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) reads THIRTEEN and its two mates whole beside Destinies' fourth extension, selected passages at the two hard-problem registries and Corus 17.3. Its [offering mate](Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems.md) now gathers the extension, changed-content reordering comparison and later surface/entraining correcting as droplets.
+
+Current Parts One–Four explain living/non-living and prior/now/next, Part Five a field's arrival and Part Six discovering, accounting and social competency. Re-Settling's older instruction to keep Part Seven and gather the ten at 2.5 no longer identifies current sections. The common-method purpose remains a possible project; compare every contribution at its actual destination before any release. The method/accounting and ten-correspondence concerns already in the mate remain available.
+
+THIRTEEN 4.3 repeats the joint-form exclusion; 6.1 preserves the matching sharing. R's complete own-side answering, stable-form/social-competency distinction and latest surface/entraining relation accompany the older explaining. The [reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-the-hard-problem-plan) identifies the source offered to R and the remaining relation; R10 stays whole and unresolved. The linked [field-entry project](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md#field-entries-and-the-paired-index--v385a) and [particular-resolving project](Exhibit_TWENTY-TWO_Carryings_of_Resolving_the_Hard_Problem_Registry.md#particular-resolving-and-the-paired-locator--v385a) preserve their different subjects.
+
+Further work remains at the particular field applications, the ten's correspondence, Corus's rate/restoration expression and each destination's needed prior. No common-method transfer or living-file change is completed here.
+
+The earlier source inventory remains whole below. This supporting project may change without any proposed file change ever being implemented. — v385A
+
+## Earlier source inventory · retained from v381R
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

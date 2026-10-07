@@ -156,7 +156,13 @@ N14a–h and N23.3a–j remain particular unfinished relations: directions, scal
 
 [The engineered-substrate comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) now reads Corus 23.7 whole beside selected Engineering passages and Destinies' third extension. Corus's whole expression remains connected with its distribution/Arriving project. The chip's explicit specification and N23.7a–f retain their unfinished work; Engineering already supplies chip, grid, interface, robotic contact and collective-robotics places. Its [local carrying project](Exhibit_FIVE_Carryings_of_Natural_Engineering.md#engineered-substrates-and-their-particular-making--v385a) gathers the supporting comparison, while this mate preserves the whole-expression relation.
 
-The same substrate and gather/reach droplets are independently at Corus, Engineering and Destinies. Current resolver correcting and R's later stable-form/joint-form relation travel with the older text; M's developing pacemaker file remains for later gathering. No implementation, medical result or whole source distribution is claimed. Destinies' hard-problem extension is next at its particular subjects. — v385A
+The same substrate and gather/reach droplets are independently at Corus, Engineering and Destinies. Current resolver correcting and R's later stable-form/joint-form relation travel with the older text; M's developing pacemaker file remains for later gathering. No implementation, medical result or whole source distribution is claimed. Destinies' hard-problem extension now has the further comparison below. — v385A
+
+## Hard-problem expression and the particular subjects · v385A
+
+[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) reads Corus 17.3 whole beside Destinies' fourth extension and the current common-method/paired-registry subjects. Its outward expression stays connected with Corus's distribution and developing Arriving purpose. Rate diagnostics, installation, departure and restoration remain particular source comparisons; the older expression is not newly established by being placed. Current society, stable-form and surface/entraining correcting accompanies it.
+
+The hard-problem extension droplet is independently at Corus, Destinies and THIRTEEN. [THIRTEEN's carrying project](Exhibit_THIRTEEN_Carryings_of_Resolving_Hard_Problems.md#common-explaining-and-particular-field-arrivals--v385a) links the distinct field-entry and particular-resolving projects. The common core and structural conditions remain next, with all four extension comparisons bounded and unfinished. — v385A
 
 ## Earlier source inventory · retained from v381R
 
