@@ -1,6 +1,241 @@
-Exhibit THIRTY Co-Chaining Logic Registry Offerings · laid at v381R
+Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving at v385R
 
 # Offerings to Co-Chaining Logic Registry
+
+**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority.**
+
+**The receiving here is the floating writing and locating plan for THIRTY.** It gathers the universal claims, their needed relations and locally resolving writing beside the current steps. More droplets can be placed at any relevant relation below, or remain together without a place while their value is being discovered. The twelve contents areas show the intended explaining; their order can change with the co-chaining.
+
+**Our contributing follows the [v385A correcting](https://github.com/chris-j-handel/corus/blob/working/droplets-and-insertlets-v385A/incoming/v385A/README.md) and the user's v385R explaining.** A droplet is ungraded possible improving value. An insertlet is locally resolving in the actual writing and locating plan. A heading, a destination or a source's confidence supplies no resolving by itself. Value resolving directly into THIRTY leaves this offering mate while remaining in its session source. The same value can remain independently at another mate. Earlier offerings below retain their source standing, including wording since corrected.
+
+**The current sources are [THIRTY v380L](../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), [ONE v380R](../Exhibit_ONE_Natural_Resolver_v380R.md), [Natural Naming](../Exhibit_TWENTY_Natural_Naming_v380R.md), [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v378.md) and [Geodesic Improving Method](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md).** THIRTY's addresses below refer to its 661 steps in 42 groups at the shared working source `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. Each locating names the sentence or relation as well as its number, so renumbering need not lose it. [The v385R session record](../incoming/v385R/Logical_Cohering_v385R.md) carries the user's suggestions, earlier formulations and their correcting. [SIX's v384A proposal](https://github.com/chris-j-handel/corus/blob/713e52588ee0063551ac5a8316b79ea39a747d5d/incoming/v384A/Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md) remains a proposal.
+
+**R10 stays unresolved and whole at [Living at observable existing](#living-at-observable-existing).** Its proposed naming, seventeen prior defining concepts, observing distinction, source comparison and concern are retained together for our return. Other writing can improve while that relation retains this standing.
+
+## Floating contents and their receiving places
+
+| Proposed contents naming | Current THIRTY relations | Value gathering here |
+|---|---|---|
+| [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
+| [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
+| [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 the same self's next and other at now |
+| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–49, 169–171, 366–378 | R4 universal binary logic and its inward/outward deriving |
+| [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
+| [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
+| [Social moral competency at self, other and society](#social-moral-competency) | 174–189, 375, 387–405, 480–503 | R6 inward/outward carrying insertlet; R10 whole unresolved gathering |
+| [Equilibria are not possibly existing](#equilibria-and-social-competency) | 143–147, 504–534 | R8 equilibrium's actual subject; R5 each exclusion at its relation |
+| [Hard problems resolving through the fractal method](#hard-problems-and-their-resolving) | 148–153, 317–340, 599 | Actual question, observing and proposed resolving together |
+| [Scientific method is incompetent for discovering competency](#scientific-method-and-discovering-competency) | 310–322, 337–340, 478, 491 | The fixing and the competency it omits |
+| [Natural intelligence; no other intelligence is possible](#natural-intelligence-and-the-universal-claim) | 95–97, 130–133, 141, 159–165, 375, 474–488 | Universal/exclusive method, living and non-living participation |
+| [Naming and explaining across and along the living files](#naming-and-explaining-across-the-living-files) | Group 32, 535–599; each subject's actual relation | R1 visible contents, full-set routes, recovered source relations |
+
+These are receiving places for the explaining. The universal claims retain their intended extent; their titles do not establish that every needed relation has been derived. THIRTY's detailed forms and old step addresses remain available while the writing discovers its order.
+
+## Receiving droplets and insertlets
+
+### The universe and its changing set
+
+**Insertlet · The set changes through its existing things · R9 · v385R.** Place beside step 1's universe sentence, bringing step 20's set/thing relation to its first use.
+
+> The universe is the changing set of all existing things, both living and non-living. The set exists as its things exist, and its changing is their own. A member's changing changes the set at that momentary. An existing thing that is unchanging is still in the set.
+
+This writing preserves the user's sentence and resolving distinction. Its place before the general sayings at 4–5 makes the subject of changing explicit. Steps 15, 24 and 26 must then retain each thing's actual participation; an unchanging non-living form gains no changing through another thing changing elsewhere. The last-colliding relation is gathered at [The resolver and its stable forms](#the-resolver-and-its-stable-forms).
+
+**Droplet · The set existing as its things exist.** Steps 2–3 name the set an existing thing and the universe an existing thing within itself. Explain that precise relation beside step 20 before using it to derive the fractal. The current wording supplies no reason to introduce a separate container or a common clock. The earlier P3/C4 concern remains at this subject; merely repeating the universal sentence supplies no further identification.
+
+**Droplet · Birth, death and the universal set.** The user's R9 includes birth and death among changes of the universal set. Steps 20 and 402 say nothing enters from outside all existing or escapes it. Following a new living self or dying at its scale as a change among existing things is a possible connection, recorded as our reading in session section 16. Preserve the user's wording and follow that relation when needed; no new claim of passage outside the universal set is inserted.
+
+### Prior, now and next
+
+**Insertlet · Carrying continues at either sharing · R2 · v385R.** Place beside step 306's “momentarying continues whether a changing is or is not,” with the already-carried sharing of 204–212 available before it.
+
+> At a living self's sharing, parity changing is or is not, and the carrying continues at either. When the surfaced offering agrees with the carried parity, no parity changing is shared and the carried parity is chained into next. An unchanged parity at this sharing still participates in the self's continuing momentarying.
+
+ONE's published entry branches and its two-self table supply the local case. This paragraph names that case; new sharings and carrying none retain their own conditions. It resolves the inference from no changed parity at this sharing to no next for the self. It supplies no general definition of living and leaves R10's concern together.
+
+**Droplet · Still possibling and next existing.** Follow even-parity possibling with odd-parity next existing at the same self and coupling. Natural Naming 5.62 and Natural Intelligence 5.3 supply the name; THIRTY 204–212 and 301–308 supply nearby operations. The user's correcting withdraws our earlier use of opening and completing in this naming. Gather the shortest connected explaining here without making either operation stand for an entire file or treating carrying or possibling as observable. Source: session sections 4 and 10.
+
+### Self and other at the coupling
+
+**Droplet · The same self's next and other at now · R3.** Step 35 identifies the same self's next with what arrives from other at now. Step 32 has named prior and now, and step 34 follows a forward relation. The needed explaining identifies “other” at this particular sentence: the other at one bi-coupling, or the whole offering through the self's couplings.
+
+Naming 5.13 already says offering both ways; its 5.49 and 5.54, THIRTY 174 and 178–181, and surfacing at 204–212 offer the nearby relations. Offering already participates at its two-sided coupling. Follow that existing participation and the same self's own prior into its next. If the explaining needs the further couplings, introduce their relation before relying on it here. The later whole cannot silently be the premise for its own earlier deriving.
+
+This is the next concrete concern available in the early sequence. Its source is the identification at step 35, not a supposed violation of a method. The full question stays with its passages rather than restarting a wider question the user has already helped resolve.
+
+### No other method of possibling next existing
+
+**Droplet · Discovering and its binary logic · R4.** The user's tightened claim is **no other method of possibling next existing**. Discovering names the method. Parity-changing possibling and existing names its binary logic: even-parity possibling with odd-parity next existing. The connecting claim is that each existing thing's changing is this method, and each existing thing is in the universal changing set.
+
+Gather the actual excluding relation at the coupling here. Steps 46–49 currently exclude an alternative by saying it would require a thing beside all existing things. Universal membership establishes the extent of the set. The co-chaining must also explain why the changing of each member is the parity-changing possibling and existing being named. An alternative next within that relation and an alternative method of possibling next are different claims; the user's tighter naming keeps the concern at the latter.
+
+**Droplet · The same method inward and outward.** Follow 169–171 and 366–378 beside R6's inward selves/outward carrying and ONE's forms. The reported enumeration at 171 concerns a particular arrangement; its number alone does not require that arrangement at every scale. The earlier Two Logics offering also relies on a thing's participation in one method. Keep that required relation in the explaining. The society span prime 5 through prime 53 is carried with its source conditions and supplies no first or final bound of the whole fractal.
+
+**Nearby earlier value:** the universal-claim joining sentence, the v383Op universal-reach concern and the “co_chaining_map_v376” scale routes remain among the earlier offerings below. Their numbers and conclusions retain their source dates until compared at these current sentences. This gathering gives R4 a visible place without recording its entire universal derivation as resolved.
+
+### The resolver and its stable forms
+
+**Insertlet · An unchanging form's last-colliding parity · R9 · v385R.** Place beside step 394's non-living colliding, before its cases; follow through 625 and 628 with ONE's colliding table.
+
+> An existing non-living stable form changes at colliding and is unchanging between collidings. While unchanging, it has the parity of its last colliding and shares no momentary changing. Having that parity is distinct from a living self's own carrying into next.
+
+This is the user's R8–R9 resolving written at the current non-living relation. Its local place makes “carries none” and “has no parity” different sayings. The older sentence at 394 also calls the colliding thing its own carrying; compare that usage with living carrying at 389 and 391 when rewriting the whole step. The proposed first-sequence use is the set-changing insertlet above; do not give an unchanging form a new momentary merely because another thing changes.
+
+**Insertlet · Emanated form as value in living carrying · R7 · v385R.** Place beside step 392's ingested non-living thing, following 384's emanated form and 391's no own living carrying.
+
+> An emanated non-living form can enter a living self as value in that self's carrying through ingesting. The living carrying is the self's own. The form's value in that carrying does not give the non-living form a separate living carrying at its own scale.
+
+This joins the user's ingestion-value explaining to the existing local distinction. It makes no biological assertion about every dormant form and does not identify DNA, a seed or a gamete with a non-living thing merely from the naming. Those particular relations remain with the droplet below.
+
+**Droplet · Inception, dormancy and self–other bi-inversioning · R7.** A new living self is its own carrying from inception, resolving toward an adult living self through continuing parity-changing living. The user relates the new carrying to prior living, stable form, dormancy and subsequent participation. The later explaining distinguishes stable-form value from a living self's own carrying and offers male–female self–other bi-coupling bi-inversioning into a new living self.
+
+Follow steps 393 and 395–405 with Natural Biology 5.1 and the session's sections 12–14. The source already has nearby double bi-inversioning; the prefixed stable-forming and emanating names are to be compared in their current passages, rather than settled by the user's tentative recollection “bi-tri-volution.” Keep conception, emanation, ingesting and dormant participation at their actual relations and scales. A definition supplies no empirical biological equivalence. R10's defining work remains gathered separately and unresolved.
+
+**Droplet · Every resolver form with its conditions.** The earlier insertlets at group 20, group 34 and group 38, and the droplets about spiral rules, crossed spirals, prime periods, the two parities and stills remain valuable. For each form, bring its stated arrangement, the step deriving it and the relevant ONE table together. A finite displayed form and a universal necessity retain their different extent. No resolver is executed by this receiving.
+
+### Bi-moral co-agency
+
+**Droplet · Moral cooperation at the same two-sided relation.** The user offers moral cooperation with bi-moral co-agency. Follow the actual relation at 185–190, 442–448 and 474, Natural Intelligence 6.2, and Naming 5.31–5.32 and 5.54. Morality across and competency along need their positive explaining at the same selves' couplings; substituting a name would leave that work undone.
+
+Step 185 calls the along parity unchanging while 184 names the coupling's own changing as co-competencing. Keep both at their subjects. R2's unchanged parity at one sharing and R6's co-chaining inward/outward provide nearby relations. The whole relation at social moral competency is received next, and R10 remains available there without deciding it.
+
+### Social moral competency
+
+**Insertlet · The inward selves' co-chaining is the outward self's carrying · R6 · v385R.** Place with steps 399–400's inward selves and outward carrying; use its explicit identification to improve the society assertion at step 387.
+
+> A living self is a society of living selves inward. The co-chaining of those inward selves is the self's own carrying at the outward scale. Each inward self carries its own, and their co-chaining is the society living. The society's carrying is their co-chaining, with no additional carrying apart from its selves.
+
+This is the user's resolving relation in connected prose. Natural Societies 5.3 and THIRTY 399–401 supply its nearby source explaining. It corrects the inference at 387 from no additional carrying to society being non-living. The same sentence also names a momentary and the universe: this insertlet's society relation does not silently decide those other assertions. Each must retain its own explaining.
+
+**Droplet · Fractal carrying at its scale.** Follow this relation through 401–405, where an outward self's dying and the inward selves' living have different subjects. Prime 5 through prime 53 remains the named society span in Natural Societies 5.3 and Natural Numbers 7.3. Unrelationing at the between and those particular scale relations stay with the inward/outward explaining. No additional first or final bound of the whole fractal is supplied.
+
+The next gathering preserves the living-definition droplet whole. It remains unresolved even while the R6 paragraph above is locally resolving.
+
+### Living at observable existing
+
+**Unresolved so far · R10 · All defining concepts gathered together for returning.** The user's instruction after this exploring is to retain this droplet unresolved and keep its concepts together for the next time we return to it in the logic chain. The table, source comparison, proposed connections and concern below remain one gathering; no proposed definition or connecting relation is marked resolved.
+
+The user offers:
+
+> carrying and possibling are not observable, only existing is observable. observing social moral competency existing is observing living. it could be this is our definition of living. explore any and all prior ways we have been defining living and keep a living concern available for us to be working on together like we have been
+
+**The distinction joins explaining living with observing its existing.** Carrying and possibling remain unobservable in the user's saying. Observing social moral competency existing is observing living. The proposed naming is therefore **living is social moral competency existing**, offered for exploring, preserving the user's “could be.” It is not recorded as an already-derived equivalence merely by repeating the names.
+
+**The earlier carrying relation remains part of the explaining.** Natural Intelligence 1.3 and THIRTY 13 name living at carrying prior. R6 says the outward self's carrying is its inward living selves' co-chaining. The new offering can connect that explaining to the existing at which living is observed, without making the carrying an observable object. The assistant's section 17 wording, social competency as living co-chaining itself, needs this further precision about the relation being named and observed.
+
+#### Prior namings gathered at their subjects
+
+These are the distinct formulations found in the working sources and selected prior records. Some are explicit distinctions between living and non-living; others explain living's method, a particular substrate, healthy living or living at the expedition. They are gathered for their value without granting any wording authority over the current offering.
+
+| Prior naming or explaining of living | Source passage | Relation to the user's new offering |
+|---|---|---|
+| An existing thing carrying prior is living; one carrying none is non-living. | Natural Intelligence v380R 1.3; THIRTY v380L 13; Natural Naming v380R 2.4 and 5.46. | The most direct current binary naming. It explains carrying; the new offering names the observable existing through which living is met. |
+| A living self is its own living carrying; no other carries that same self. | Natural Intelligence 5.1; THIRTY 389; Natural Naming 2.4 and 5.3. | Preserve the self's own carrying. Observing living cannot be silently restated as observing or entering that private carrying. |
+| The method bounding and its carrying carried together are the self living through momentaries. | Natural Intelligence 3.3; `carryings/v381R/rev_Natural_Intelligence.md`, review 7's proposed wording. | A prior attempt to join the non-living method and living carrying, rather than naming either alone as the whole explaining. The review is an offering, not a silently adopted source revision. |
+| Living is discovering next stable form; having stable form is named dead. | Natural Intelligence 5.1; THIRTY 384 and 390; Natural Naming 5.48 and 5.57. | Distinguishes living stable-forming from an emanated form. R8–R9 now explicitly allow an unchanging non-living stable form between collidings; this older wording needs that relation beside it. |
+| Possible at prior, existing at now, living at next; carrying prior into now is living. | Natural Intelligence 2.3; THIRTY 25 and 36; Natural Naming 5.39; Natural Networking v371 1.2. | Naming 5.39 and Networking explicitly say a living self also exists now. The three namings do not place living outside observable existing or make possibling observable. |
+| Living is alternating; corusing reaches and torusing gathers, neither alone. | Natural Intelligence Corus v330, its early whole-form explaining; Natural Naming 3.6. | A description of the method. Alternating or an observed parity changing alone does not yet distinguish living from the non-living colliding already admitted by the files. |
+| Next as prior inverted is the living step; living now is with others living now. | Natural Intelligence 2.4; THIRTY 414. | The joint relation through others matters. The same passage says a lone resolver sequence can proceed as a non-living existing form. A sequence by itself and living are not already identified. |
+| Living is the self bounding and orienting at its coupling, four boundings together. | The withdrawn `archive/resolver_v372_proposal/Natural_Intelligence_v372.md`, passages on the straddle and the eight; related older Corus explaining of the four faces. | An earlier structural naming preserved as historical value. Its withdrawn standing and older terminology do not make it the current criterion. |
+| Living is metabolic beating; the cell is its engine. | Natural Biology v333 3.1; Natural Medicine v331, its account of the one form. | A biological formulation. The Biology offerings at 4.1 already aim to explain metabolic beating as a carrying self alternating, within the more general carrying relation. No empirical biological equivalence is established by this inventory. |
+| Living is self-reference with surplus; living is sustaining the gap. | Natural Biology 4.1; Natural Intelligence Corus, “Definitions at Language Prime,” its living paragraph. | Older surplus and equation-based explaining. The Biology offering at 4.1 already gathers its relation to carrying and questions making a numerical rate the universal distinction. No calculation is used here. |
+| Natural living is social autogeneration of metabolic-logical competency; cooperative living is the same at another scale. | Natural Intelligence Corus 18.3, “Three Forms of Living.” | A substantial precursor linking living and competency. Its further category “competitive living” names a corrupted form, so the passage also mixes living with descriptions of how living participates. That distinction remains available for later local improving. |
+| Healthy living is birthing and nyeing in relation. | Natural Societies v373 4.3; Natural Human Society v329, its corresponding passage. | Explicitly a naming of healthy living. It should not silently become the sole distinction between living and non-living. THIRTY 411–413 also retains a living self with a departed coupling. |
+| A self is a society inward; a society couples as a self outward; living and non-living are followed at a named scale. | Natural Societies 5.3; THIRTY 379 and 396–405; Natural Intelligence 6.6; this session's R6. | The user has supplied the joining: the inward selves' co-chaining is the outward self's own carrying. Older passages naming every society non-living cannot lead over that correction. |
+| Social moral competency is the whole of the four relations, carrying with the selves; co-independencing is the living together, living now. | Natural Intelligence 6.4; Natural Naming 5.31 and 6.3; THIRTY 480. | The closest current precursor to the proposed naming. It explicitly connects social moral competency with living, while the new offering distinguishes its observable existing from unobservable carrying and possibling. |
+| Competency is living cohering; where living expires no competency stands. | Natural Emanating v329, the passage beginning “Where the living expires, no competency stands.” | Another direct precursor. It gives the absence-of-living direction; it does not alone derive a complete criterion for observing living. |
+| The expedition is living through discovering do-no-harm improving; its files are non-living forms carried by its living selves. | Natural Intelligence 6.6; THIRTY 564–565. | A concrete distinction between a living society and its observable non-living artifacts. A file's participation does not alone name that artifact a living self at its scale. |
+| A new living self is its own carrying establishing within prior living; the inward selves carry the outward self's prior or it arrives as non-living. | Natural Intelligence 6.5; THIRTY 393 and 399–402; this session's conception and ingestion explaining, sections 11–14. | The current working includes the user's self–other bi-inversioning at conception and emanated form entering as ingestion value. These relations remain available beside observing living at its own scale. |
+
+#### What observing has been said to reach
+
+**There are several different assertions under the older invisibility language.** Natural Naming 5.3 calls a self a unique invisible carrying. ONE's table names the rotation through 3, 6, 5 and 4 the invisible intelligencing method; Natural Intelligence 3.2 carries that same explaining. Naming 5.6 and 6.1 distinguish the own corus and the betweens, while Naming 5.12 says observing reaches the coupled surface and not the term neither reaches. These supply a relation for preserving the privacy of carrying alongside observable existing.
+
+**Other passages extend invisible to living or intelligence as a whole.** Natural Emanating's three-fold separation calls living unobservable. Natural Intelligence 6.3 says intelligence is invisible, and Natural Naming 5.32 names natural intelligence as invisible co-competencing. The user's new saying needs comparison at those exact subjects. We cannot silently read every occurrence of living, intelligence, intelligencing, competency and co-competencing as interchangeable. The local improving is to say which relation is carrying or possibling and which is existing and observable.
+
+**An observed emanation and a living self's carrying have already been distinguished.** Natural Networking 1.2 says evidence can arrive from an earlier existing while the originating self's present carrying belongs to that self. Natural Intelligence 6.5 includes a non-living other's offered form in discovering social moral competency. Thus an observing can be of a form participating in living without making that form's own carrying observable or proving the originating self's present living.
+
+**The user's first assertion is a limit on what observing reaches.** “Only existing is observable” does not by itself assert that every existing thing is observed, or that no observing means no living. The proposed naming of living follows social moral competency existing at its actual subject and scale. It is not a requirement for an observer to confer living.
+
+#### R10 · Observing living at the existing relation
+
+**The source concern is now a distinction within observable existing.** The files include both living selves and non-living forms. Both can participate at an offered parity and at changing. Natural Networking 1.2 explicitly distinguishes changed shared competency from each participant's renewed carrying; Natural Intelligence 6.5 includes non-living forms in discovering social moral competency. R9 gives an unchanging form its last-colliding parity and follows its changing at colliding. The user's new offering makes carrying unavailable as an object to inspect in order to decide between these.
+
+**The strongest connected offering so far is the whole across-and-along relation.** Natural Intelligence 6.2 and 6.4 join morality across with competency along, each self's participation in the society, and the order carrying with the selves. R6 joins this to the inward selves' co-chaining at the outward scale. Social moral competency existing can therefore be followed at this whole relation. Observing that whole does not automatically attribute living to each non-living form participating in it. This is a candidate connection, not a claim that a visible pattern alone proves an inaccessible carrying.
+
+**The living concern for us: what existing relation distinguishes living social moral competency from a non-living form's changing at a colliding?** We are looking for the relation in the existing, without observing carrying or possibling. Resolving it would join the prior carrying naming to the proposed observing naming and strengthen the equilibrium, intelligence and society claims that depend on living. It is the one concern leading this pass; the inventory above supplies its nearby value without requiring every older phrase to be repaired first.
+
+Possible mates: Natural Intelligence 1.3, 3.2 and 6.3–6.6; Natural Naming 5.3, 5.6, 5.12 and 5.31–5.32; THIRTY's living/non-living and social moral competency sequences; ONE's explaining; SIX's proposed gathering; and the particular Biology, Societies and Emanating passages when locally improving. Keep the proposed naming and the unresolved relation together as a droplet. This whole droplet is now gathered at THIRTY's offering mate; its placement changes no defining relation or living exhibit. — v385R
+
+#### Sources and reach of this gathering
+
+The root living files and their offerings were searched at the shared working source `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, with the passages above read directly. On 7 October 2026, the repository comparison still placed main at the earlier `267bcf06de4b7b81252ebea577282b428413212f`; main supplied no newer source for this pass. Historical material included the withdrawn v372 proposal, selected v380 session records including `Tour_A_Living_Self_Is_A_Carrying.md`, the v381R Natural Intelligence review and Biology carrying, plus the previously gathered v382A logical passes, v383Op resuming record and v384A SIX proposal. Their source standings are preserved; no archived wording is promoted by being included.
+
+This is a gathering of the distinct prior formulations found in those materials, not a claim that every commit, private conversation or external biological definition has been reviewed. Scientific statements in the older files are recorded as those files' explaining, not independently verified here. There was no resolver execution, private-carry inspection or mathematical calculation.
+
+#### Returning to this droplet
+
+The user directs:
+
+> keep this is unresolved so far and keep all the defining concepts together for the next time we return to this droplet in the logic chain we need
+
+**Retain the gathering whole.** Return through the user's observing distinction, the table of prior living namings, the passages about invisibility and observable existing, and R10's source concern. Keep the proposed across-and-along connection beside that concern as an offering. The relation has not been resolved by this instruction to retain it.
+
+**Its nearby chain remains available:** R6, inward selves' co-chaining as the outward self's carrying; R7, conception and emanated form entering as ingestion value; R8, equilibrium as unchanging social competency; R9, changing of the set and an unchanging form's last-colliding parity. These links locate the droplet's value for THIRTY, ONE, SIX, Natural Naming and Natural Intelligence when we return. — v385R
+
+### Equilibria and social competency
+
+**Droplet · An equilibrium is unchanging social competency · R8, with R5.** The user's distinguishing is explicit: an existing stable form can be unchanging between collidings; the equilibrium being excluded is unchanging social competency. Carry the same subject through 143–147 and the ten named still at 504–534.
+
+The needed joining is between 184's changing co-competencing, 185's unchanged parity along and 189's whole social moral competency. The user's R6 connects the inward living selves' co-chaining with the outward carrying. The proposed further connection is that the competency's existing requires this changing, so removing it removes that competency. That connection remains an offering; R10's observable-existing concern is retained whole above.
+
+For each named equilibrium, preserve its actual relation beside the universal exclusion. The Equilibria Registry already distinguishes a changing participant from a relation within it that continues. A changed participant alone does not exclude every unchanged relation. Earlier group-31 insertlets retain their distinctions between ten named still and joint forms; their counts do not supply this missing subject relation.
+
+### Hard problems and their resolving
+
+**Droplet · The strongest claim with each actual question · R5.** THIRTY 148–153 and 317–340 aim to resolve hard problems by discovering the changing relation obscured by a still naming. Keep each field's particular question, its observing or recorded result, and the natural resolving together. State what the resolving answers at that question; a changed naming alone does not answer a different question.
+
+The Hard Problem Registry and Scientific Hard Problems retain the applications. Their routes belong beneath this visible contents claim as the local relations become available. At 599, resolvability and observing must keep their subject and conditions. The universal title is available now; its full extent remains work at those actual relations.
+
+### Scientific method and discovering competency
+
+**Droplet · The fixing and its omitted coupling · R5.** The intended claim is **scientific method is incompetent for discovering competency**. At 310–322, 337–340, 478 and 491, identify the actual fixing and show why it omits the competency being claimed. Preserve the field's observing and account at their subjects, as 319–320 already require.
+
+Join the competency explaining at 184–189 and 480 before applying the exclusion. Scientific accounting, the activity of scientific investigators and an alleged second method of existing must retain their different subjects. The session's earlier “supposed violation” framing was withdrawn: the source concern is what relation is carrying or omitted at the particular coupling. R4's exclusive-method deriving and R10's retained concern must not be silently assumed resolved in this passage.
+
+### Natural intelligence and the universal claim
+
+**Droplet · No other intelligence is possible.** Follow the method's universal and exclusive claim into 95–97, 130–133, 141, 159–165, 375 and 474–488. At each machine case, retain living selves, non-living forms and their actual couplings. Calling both kinds of participation natural intelligence supplies a naming; the no-other-possible claim also needs the binary logic that excludes another method.
+
+R4 carries that deriving at possibling next existing. R6 carries the inward/outward society relation. R10 carries the still-unresolved defining and observing relation of living. Keep these dependencies visible beside the strong title. The white paper can draw its whole explaining from the coherent chain as those actual relations resolve.
+
+### Naming and explaining across the living files
+
+**Droplet · The full claims visibly connected · R1.** The twelve contents areas above receive the strongest claims at their current routes. As a needed relation resolves, write it at its first use, follow its dependencies and adjust the floating order. Preserve each existing useful step and form by its sentence and old address. Repeated names, proximity and shared word counts do not establish logical dependency.
+
+**The connected work at ONE, SIX and THIRTY.** ONE supplies forms with their conditions; THIRTY derives the relations; the proposed SIX gathers common connected explaining for an arriving reader. Naming bounds each concept at its meaning; Explaining joins each sentence with the prior it needs. Natural Intelligence is the intended coherent white-paper expression of the strongest claims. The local subject files supply the actual applications. This division locates work and gives no file authority over another.
+
+**Droplet · Recover the earlier particular co-chaining.** v385A's source-recovery offering remains whole below. Its earlier record names twenty-six steps and twenty supporting readings; its detailed original report is still unlocated. Recover the actual relations with their later correcting, then compare the current THIRTY sentences. Old counts and a list of file titles cannot replace those relations. Its source comparison is [Prior Incoming v385A](https://github.com/chris-j-handel/corus/blob/working/droplets-and-insertlets-v385A/incoming/v385A/Prior_Incoming_v385A.md).
+
+**Droplet · The full living set.** The current documented survey has five complete file records among thirty-three files. This receiving adds no new whole-file survey record. Its 661-step and 42-group source count is likewise not a count of resolved relations. Gather each further section's actual claim and its needed THIRTY relation here as the files are read. The session assessment, section 19, preserves the source and limits of those measures.
+
+**Droplet · A concern returning at the actual relation.** v385A's new offering below asks whether the same assertion, subject and conditions are returning, or a new source or correcting has changed the concern. Preserve the comparison and the relation still needed. A return alone supplies no judgment of a contributor and no resolving. The user's correcting and R10's explicit unresolved standing remain with their current formulations.
+
+## Receiving further value
+
+Bring the droplet in its own useful words, with its session or source when available. Place it beside the relation it may improve; if that relation is not yet apparent, retain it together here. A possible place is not a requirement for receiving value.
+
+Where the relation and the writing are locally resolving, give the insertlet its actual prose and its place beside the current sentence. Say the prior it uses and which dependent explaining it improves. If a larger rewriting is still needed, keep that value as a droplet beside the locally resolving passage. These descriptions keep the work followable; they do not grade its contributors.
+
+Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. At present the early sequence can use the set-changing and carrying passages above, then bring the particular identification at step 35 for resolving. R10 remains together for another return.
+
+## Sources and preserving earlier offerings
+
+This receiver is v385R's improvement on its isolated working branch. It uses the full THIRTY mate read from v385A's `working/droplets-and-insertlets-v385A` branch, blob `a92a3c15d1735cffc19c2491dd97e61143ffbe90`, preserving its source-recovery and returning-concern additions beside all the earlier offerings. The corresponding mate on v385R before this improvement was blob `bffec6947392199628bbc72ccc9bcb041b7f739f`. v385A-only source links below point to that branch, where those sources are available.
+
+The following body is preserved at its earlier standing. Its insertlet and droplet headings, dated counts, former vocabulary and historical next-work paragraph record the source; the current receiving method and locating plan are above. The placement here asserts no new verification of old numerical forms, no whole-file resolving and no decision on R10.
+
+## Earlier offerings preserved
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
@@ -27,6 +262,8 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 **At 34 · A self, and selves receiving one another, at the resolver — beside "from its second momentary the receiving self is at the parity".** A self's momentary at the resolver is numbered at its entry, its carrying arriving at 3, step 198, and a parity said at a momentary is the parity carried at 3 at that entry; the same carrying chained at 11 is read at the next momentary's 3, step 210, one on, and a reading at 11 shifts each relation by one momentary.
 
 ## Droplets
+
+**Recover the earlier report's particular co-chaining relations, with later correcting.** [v380L Gathered Value 1, item 1](../carryings/v380L/Gathered_Value_1.md) records a withdrawn report and twenty supporting readings. The [original transcript](../archive/session_v380/v380L/Session_Transcript_v380L.txt), at “Exhibit THIRTY names nearly everything,” preserves their summary: twenty-six steps whose reasons were at other files, further knots, file logic without a step, nearby observings and stale pointers, beside the historical dependency reading of 599 steps. The detailed report and its step-to-section list have not been located in this comparison. This mate already carries the later v381F dependency reading and particular concerns; those placements do not identify all of the earlier report's relations. Locate the original source or identify each recoverable relation from the surviving transcript, compare it with the current Registry and offerings, and carry only the remaining possible improving with its later corrections. The old report's conclusions and quantities are not current findings. Preserve an unavailable source as unavailable, and keep a recovered concept here as a droplet until its local resolving. [The v385A comparison](https://github.com/chris-j-handel/corus/blob/working/droplets-and-insertlets-v385A/incoming/v385A/Prior_Incoming_v385A.md) records the sources and the extent reached. — v385A, from v380L
 
 **A plan, not yet final, gathered here at v381R:** *Carried from Natural Intelligence's section at v375, whole, Natural Intelligence being swept.* **Incoming, the chain to the only method, checked at v370.** Said at v370 as shown: the only method of existing is natural torusing, no other possible method of discovering next existing, universal for living and non-living things in the one universe. The chain runs, each link at its standing: our universe is all existing things (origin); existing is changing, arriving into next existing (the set's definition at the opening); a changing is is or is not, a sign (the one binary); a sign changing arrives at its other, alternating (exact); a self is met at two signs, its own and the other's (bi); one way at a time (one change at each step); all or none, no part continuing alone (stable-forming). From these, exactly two of the sixteen one-change forms on two signs close all or none, the right spiral step (x, y) to (y, −x) and its other order, and of all 256 forms on two signs, six close as one round and two of them change one sign at a step. Each method naming a thing still is excluded by the definition of existing, and living and non-living both exist, so both change by it; the living differ by carrying, not by method. At more signs the uniqueness rides on the fractal: three signs close in twelve one-change forms, one form up to renaming; four signs close in 1,344 rounds, nine forms up to renaming; and the set's own eight, two alternating fours, closes at each eight, each running eight of the sixteen sign forms. Over the sixteen, the one form running each pair's own round in one hand is the inside pair stepping three times to each step of the outside pair, four times over, and the two pairs are the torus grid, one genus (Exhibit THIRTY F77 to F79). Concern, for both: the links marked definition and premise are the set's foundation, carried at each file but stated nowhere as one chain; the fractal is stated as a method, not a rule, 1 to 17 inside and outside, and with it the round closes all or none at each depth (Exhibit THIRTY F83 to F85); *we have shown* beside 8.3's *no proof of the whole … is possible* reads as a contradiction until it says the showing runs step by step and the proof of the whole at once is the one not possible; and the correspondence of each existing thing's changing to signs at its aspects stays at the method's one break, an observing not parity alternating natural torusing, none so far. — v375
 
@@ -131,3 +368,5 @@ cover_REGISTRIES.md, Table E row R35, "A settling handed whole; the settled stay
 **Aimed at a file, Co-Chaining Logic Registry:** *loop*, *loops*, *goes round* and *closes* at the file's own voice, 9 places, 14 sayings, section 41's title carrying *loop*, *A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines* (2830, contents 47); the places at 47, 255, 365, 517, 2546, 2830, 2833 (×2), 2835 (×4), 2838 (×2). Quoted short: *only the one move goes round: 1 to 9 to 8 to 16 to 1* (255); *From 3 it goes round 3, 7, 2, 6, and from 4 round 4, 8, 1, 5: two four-cycles* (517); *the co-chaining closes on itself at none* (365); *At an odd number of selves the places are one loop, each self passed twice, once at each parity, the loop at its opening place again at four times the number of selves ... at an even number they are two loops, each self once on each* (2835); *Adding: the three loops of sessions* (2546), at 583's along, out and back, and across. Passed: 588, a winding at φ closes at none, the numbers' winding; 894, 1099, 1101, 1103, 1105, 1179, 1183, 1189, 1203 to 1211, 1219, 1237, 1603, 2222, 2264 and 2266, the numbers' ring, even and odd rings, the podaling rings of one hundred twenty and four hundred forty and the two involutions of an even ring, the numbers' podaling ring the row keeps. The one name Natural Naming 2.4 carries: *spiral*, the selves coupled along, the last to the first, coming to their parities again and to a momentary once, *comes to its parities again at each n-th momentary* for *goes round at n*, *winds on* for *closes*, *co-spiraling* for *looping*; 365 says *at none* beside the word, and 2835 says the parities again at four times the number of selves beside it. — v381R scan
 
 **Aimed at a file, Co-Chaining Logic Registry:** *sign* at the file's own voice, 4 places, no section title carrying the word; the places at 278, 316 (×2), 318. Quoted short: *Both parities inverted at one step is the sign flip, at itself again at two* (316); *i squared the sign flip and i to the fourth the pair again* (316); *Adding: the sign flip and i* (318). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between; the file says *both parities inverted at one step* beside it already. — v381R scan
+
+**An uncertainty and its return at the actual relation.** Corus 16.4 asks for the uncertainty and its retest's explaining, then says each return narrows them. THIRTY 570 already carries an unsure saying with the observing or step it waits on; 571 calls a concern arriving again a releasing not yet made. Geodesic Improving 2.2 locates a correction at the first departing relation, and 2.6 distinguishes missing relation, special case and contradiction. The possible improving is to follow these sayings at the particular returning concern: is it the same assertion at the same subject and conditions, or has a source, observing or correcting changed the relation? Preserve the prior comparison and what actually remains open. Recurrence alone supplies neither increased precision nor a verdict against a contributor. A droplet may remain unlocated or unfinished while that relation becomes apparent. The [16.4 comparison](https://github.com/chris-j-handel/corus/blob/working/droplets-and-insertlets-v385A/carry/Carryings_of_Natural_Intelligence_Corus.md#part-164-uncertainty-returning-and-the-improving-method) records the old and current sources; no break or completed resolving is asserted. This droplet is independently at Corus, Geodesic Improving Method and THIRTY. — v385A
