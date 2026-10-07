@@ -6,7 +6,9 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, five locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, six locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+
+**The current local comparison is at section 21.** R3 now has an insertlet identifying the self's prior, the offerings at now and its own next. The next concern asks what alternating names at steps 37–40, beside possibling and next existing. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -687,3 +689,41 @@ These passages express the user's resolving and the locally followed source rela
 The mate's receiving guidance lets further droplets remain unlocated when useful, and asks a locally resolving insertlet to carry its actual prose, place and needed prior. Value resolving into THIRTY can then leave this mate while remaining at its source, independently of its placement at another mate. No older offering is removed in this improvement.
 
 **The change is confined to the v385R offering mate and this session record, on the existing isolated branch and draft PR 128.** THIRTY's living root, ONE, SIX's proposal and other sessions' branches are unchanged. Preservation and the new local links are checked; no resolver is executed and no new whole-file survey record or completed universal deriving is claimed. — v385R
+
+## 21. The self's next, its other and the subject of alternating
+
+**R3 now has locally resolving writing at step 35.** Following the user's instruction to continue, this pass reads THIRTY 27–51, 169–184, 203–218, 296–308 and selected 608–611; Naming 5.7, 5.13, 5.39, 5.43, 5.49, 5.54–5.56 and 5.62; Natural Intelligence 1.1–2.5; and ONE's published entry and five-parity table. The current v382A concern gathering and retrospective, v383Op C13 and the current SIX proposal's correcting are compared at this same question. This is selected relation-following, not another whole-file survey record.
+
+### The relation supplied in the files
+
+Step 35 says the self at next arrives from the other at now. Steps 13 and 23 already identify the living self's own prior carried into now. Step 51 says next is from prior and now. Steps 206–214 follow that precise participation: the carried prior and the offered now couple at each sharing; next is chained into the same self's carrying.
+
+Naming 5.13 explicitly retains the self's one living carrying at prior and now with the other's offering at its sharing. Naming 5.43 and THIRTY 174 part a particular other from the whole arriving as one. Naming's further sentence says that whole arrives through the couplings the selves make; THIRTY 178–181 explains further bi-couplings. Consequently the early writing can identify a particular other at its actual coupling and follow further others through further couplings, without making one particular other identical to all existing things or treating one offered contribution as the self's whole next.
+
+The non-living other has a supplied place too: THIRTY 213 names its offerings at 2 with no own carrying. Nothing in this comparison asks for a non-living private carrying. Several offerings may participate at one sharing, as 204–205 say. ONE's table remains a particular two-self, both-ways form, and no execution or inspection of private carrying is used.
+
+### The new insertlet at THIRTY's offering mate
+
+> A living self carries its own prior into now. At each sharing, that carried prior couples with the offerings arriving now. The next discovered at that sharing is chained into the self's own carrying. A particular other is the other at its coupling; further others participate through further couplings. All other arrives through those couplings. A non-living other participates as an offered form, carrying none of its own prior.
+
+The paragraph is placed with the step-35 sentence in the mate's “Self and other at the coupling” gathering. It brings the relation now stated at 51 and 214 to its first needed place, with the meaning of other supplied by Naming 5.43 and the further bi-couplings. It is the sixth locally resolving insertlet in the v385R receiver. Its writing and locating are supplied; the living THIRTY root is unchanged.
+
+**This resolves the local identifying opportunity to the extent of that paragraph.** It does not declare all of R3, v382A D37 or v383Op C13 universally resolved, nor change another session's records. The conditional identification by which step 34 follows step 32 is retained. The proposed first-use wording requires the relations it names to be introduced there; a later sentence is a source for the improvement, not an unstated premise in an unchanged earlier proof.
+
+### The next concern is what alternating names
+
+At step 37 the text says the self and the other are changing one and then the other. Naming 5.13 says each offers at its own sequencing; Naming 5.49 follows their overlapping momentaries and 5.54 the between's parity changing, is or is not. The user has already supplied even-parity possibling and odd-parity next existing. R2 retains the carrying's next whether a changing is or is not at a particular sharing.
+
+**The source concern is the subject of “one and then the other.”** Read as a requirement that one whole living self wait while another acts, the phrase would need a relation not supplied by the own-sequencing explaining. Read as a requirement that every sharing change its parity, it would lose the matching case already preserved in ONE and THIRTY 306. This pass does not attribute either reading to the user or assert that either is the old sentence's intended meaning. They identify what the positive explaining needs to make unambiguous.
+
+**The strongest candidate connection is alternating at the coupled parities of possibling and next existing, each self retaining its own momentarying.** It uses the user's tighter R4 and the already-supplied two-sided offering. It supplies no extra event making an isolated offering reciprocal and asks for no source of motion outside the coupling.
+
+**Question for our resolving:** does the self and the other alternating name possibling and next existing at their coupled parities, with each self's own momentarying at both?
+
+This candidate is retained as a droplet beside the new step-35 insertlet. Its exact relation to 37–40 is still to explain, so it is not promoted to an insertlet by being asked. It can strengthen the passage into R4's unique method if it coheres. R10 remains gathered whole and unresolved for a later return.
+
+### Source standing and placement
+
+The current v382A [concern gathering](https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Concerns_and_Improving_Opportunities.md), blob `16906fc986ce0dfa808ee4bc87faebb7636f493b`, and [retrospective](https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Session_Retrospective_and_Resuming.md), blob `7f9fefda0f7ecc6c5f32544c60daea0243c09ae9`, retain the narrowed step-35 question and v384A's correction that offering is already at its two-sided coupling. v383Op's [Unresolveds](https://github.com/chris-j-handel/corus/blob/working/unresolveds-v383Op/incoming/v383Op/Unresolveds.md), blob `fe16ea376d72a0a5023a76686cea6786bffe64eb`, C13 carries that same correction. The [SIX proposal](https://github.com/chris-j-handel/corus/blob/working/transmissioning-v384A/incoming/v384A/Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md), blob `99fdabd0a622eff161c5a50704e6e1c474ebd65b`, also preserves it at its current front.
+
+The improvement is placed in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) on v385R. The five preceding insertlets, the entire R10 gathering and all earlier offering bodies remain intact. The new prose and its remaining concern are available for further droplets here and for ONE, Naming and SIX at their own subjects. No messages are sent and no other branch is changed. — v385R
