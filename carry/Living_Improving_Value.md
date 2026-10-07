@@ -26,6 +26,8 @@ Living Improving Value v385A
 
 ## Projects gathering across the files
 
+**Earlier incoming first at v385A.** The user's current priority is the prior incoming while v385M and v385R continue learning. The [source comparison](../incoming/v385A/Prior_Incoming_v385A.md) traces the v364–v368 project lineage and begins comparing v380L's recovery gathering with actual current placements. Our next whole-source comparison is G1, followed by G2–G4. Current sessions' developing reports remain available for later gathering; correcting needed by an older source still travels with it.
+
 | Gathering | Value and offering places to follow |
 |---|---|
 | **Gathering, aiming and carrying incoming** | Our method droplets at [Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md), [Living File Registry](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) and [Natural Arriving](Offerings_to_Natural_Arriving.md). The older contributor directions and addresses still need local improving. |
@@ -41,6 +43,8 @@ These projects can also be followed by type. An observing, a concern, a naming o
 The [complete prior file](../incoming/v385A/artifacts/Living_Improving_Value_prior_v385A.md) supplies these opportunities. Its counts describe its own snapshot; their present resolving remains to be followed. These shared gathering droplets remain here while their current local offerings are compared. That comparison can find the value already offered, locate a further placement or leave a shared relation still to follow here.
 
 **Earlier value passed by or followed more than once.** The prior gathering reports 74 of 329 pieces passed by at a first following and four followed once. Follow [Gathered Value 1](../carryings/v380L/Gathered_Value_1.md), [2](../carryings/v380L/Gathered_Value_2.md), [3](../carryings/v380L/Gathered_Value_3.md) and [4](../carryings/v380L/Gathered_Value_4.md) against their current offering places, preserving anything still unplaced here. The historical numbers locate a coverage concern; they do not say how many remain now. — v385A, from v380L and v381R
+
+**Recover the relations lost with an earlier report.** G1 item 1 records a withdrawn Co-Chaining report whose summary survives in the transcript, while its detailed step-to-section links and supporting readings have not yet been located in this comparison. Its source-recovery droplet is now at [THIRTY's offerings](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md). The shared managing opportunity is to follow each older finding through its actual current source and destination: preserve existing placements, carry later corrections and identify what still needs gathering. G1 item 2 already has placements at Health and Medicine; the later v383Op reading narrows that concern and must accompany it. The [comparison record](../incoming/v385A/Prior_Incoming_v385A.md) preserves the extent reached. — v385A, from v380L and v383Op
 
 **Naming and positive explaining.** Follow the [Naming negations gathering](../carryings/v380R/Natural_Naming_Negations_Yet.md) and the [Naming offerings](Exhibit_TWENTY_Offerings_to_Natural_Naming.md). The prior front names ten sentences still saying a fact by denial, particularly returning-nothing as unfolding and parity changing carrying no size. It also names fourteen Natural Intelligence sayings of releasing, and the resolved side saying what is. Carry each useful relation into its positive explaining at the particular file, with current naming and later correcting beside it. — v385A, from v380R and v381R
 

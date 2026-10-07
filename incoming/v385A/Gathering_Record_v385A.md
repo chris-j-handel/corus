@@ -58,6 +58,14 @@ The branch heads below were checked on 7 October 2026. Their current guides, sel
 
 The next gathering can follow a source through a whole reading and its current corrections, place each possible value as it is found, and record the precise point reached. The full source becomes an artifact of the gathering only when the remaining work is available through its droplets or otherwise accounted for. Relied-on evidence stays reachable through the carrying mates. This pass has not moved or declared complete any of the larger sources above.
 
+## Earlier incoming becomes the priority · 7 October 2026
+
+The user's current direction and the bounded comparison are preserved at [Earlier incoming first](Prior_Incoming_v385A.md). The oldest project lineage traced here is v364/v365 incoming through v366 and the v368 bundle. Examples already placed at Societies, Numbers and Illustrating prevent us treating age or the old unlocated count as current missing value.
+
+G1 of the v380L recovery gathering was read whole. Its first two items were compared with current mates and selected original transcript passages. The detailed withdrawn Co-Chaining report remains to locate; a source-recovery droplet is now at THIRTY's offerings, beside the later dependency and logical concerns already there. Health and Medicine already carry G1's second concern and a later, more precise v383Op reading; those existing placements were recorded rather than duplicated. Further item comparisons remain active, with G1–G4 ahead of extracting the current sessions' developing work. The historical 74 of 329 is not a present remainder.
+
+Living Improving Value and this session's opening now carry that priority. The periodic reciprocal-help instructions were updated to support older incoming and necessary correcting. No new reciprocal comment was sent in this pass. All sources and previous offerings are preserved; the living exhibits were not changed.
+
 ## Verification and publication scope
 
 The old front's complete text is retained after the artifact's wrapper. Existing bodies of the three offering mates remain unchanged before the appended gathering droplet. The new droplet is identical at all three mates. Local source and destination links are checked against the repository; differences are checked for whitespace errors. These checks concern preservation and addresses, not a proof or execution of the natural method.
