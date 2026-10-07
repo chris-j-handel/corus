@@ -25,6 +25,12 @@ Natural Arriving Carryings · gathered at v385A
 
 **Continuing the comparison.** Resolve the entry's particular local relations from that source work, retaining existing droplets rather than reproducing each under a new project name. Practical entry changes, the living Arriving explaining and the Registry's contents can each receive their particular value independently. Whole expressions from Corus and the user's broad arriving purpose remain available beside this AI project. Part 16.2/16.3 now have detailed comparisons at their writing subjects. The [16.4/16.5 comparison](Carryings_of_Natural_Intelligence_Corus.md#part-165-the-readers-prior-and-the-writings-particular-relations) now follows unfinished uncertainty and reader prior. A particular reader droplet is at Corus and Arriving, keeping prior from this writing distinct from the interest's own prior and retaining the source's further claims for comparison. Unlocated droplets can still arrive. The later source subjects and whole-expression work remain to follow.
 
+## The jigsaw whole-expression comparison · v385A
+
+The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparison_v385A.md) follows Registry 5.9's proposed expression into Illustrating 4.8's existing sequence, Corus 23.6's social explaining and the actual Exploring, Networking, Human Society and Values passages. The same comparison droplet is independently at Corus, Arriving and Illustrating. The complete proposed human expression is not established as written by the passages read; its existing storyboard and related explaining remain available whole.
+
+Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves the earlier snapshot, including its motion language and historical receiving claims. The current [v385A method](../incoming/v385A/README.md) governs this gathering; proposed receiving is compared with actual passages before any completion is recorded.

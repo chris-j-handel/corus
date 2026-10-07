@@ -37,6 +37,8 @@ The [current THIRTY mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Lo
 
 The original list of eight is still not identified by these sources. The three examples named by G1 remain locatable in the living files: Medicine's restoration paragraph and crisis-model paragraph, and Health's disease-face paragraph. Locating those passages does not reconstruct the other five or resolve their relations. No duplicate of the already offered Health/Medicine concern was added. These existing droplets deserve an early local comparison, preserving the later source's correction.
 
+**Further prior reordering work:** [the whole-expression comparison](Whole_Expression_Comparison_v385A.md) follows the jigsaw proposal into its actual existing passages and the method. Destinies v333 has been read whole for its present-coupling/possible-extension relation; its particular destination comparisons remain, beginning with discovery economy at Values and Corus. This complements G1–G4 without declaring their gathering complete.
+
 ## Our next gathering
 
 1. Continue G1 in its source order, with the original transcript and later correcting beside each item. Record the exact current mate or living passage wherever the value is already carried. Keep source recovery for item 1 open while further items can be followed.

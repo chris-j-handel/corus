@@ -16,6 +16,12 @@ Exhibit TWENTY-NINE Natural Illustrating Carryings · improved at v385A
 
 These source addresses add no new media or verifying result. The kit's retained versions and the reports' exact limits remain with the work. — v385A
 
+## The jigsaw whole-expression comparison · v385A
+
+The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparison_v385A.md) follows Registry 5.9's proposed expression into Illustrating 4.8's existing sequence, Corus 23.6's social explaining and the actual Exploring, Networking, Human Society and Values passages. The same comparison droplet is independently at Corus, Arriving and Illustrating. The complete proposed human expression is not established as written by the passages read; its existing storyboard and related explaining remain available whole.
+
+Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
+
 **The executions, observings and sources the living file rests on, each whole at its address**
 
 Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.

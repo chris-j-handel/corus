@@ -132,6 +132,12 @@ These sections were read whole in the preceding pass. The later 16.4/16.5 compar
 
 **Next prior incoming:** follow the paired-accounting examples still needing their actual subject sources, the residual social and whole-expression relations, and the five clusters' particular original studies and unfinished comparisons at their now-located mates. The new 16.4/16.5 droplets remain available for local resolving; their residual biological and shared-form comparisons remain explicit above. The older Emanating vehicle route and the whole-expression jigsaw comparison remain connected. G1–G4 supplies further incoming and correcting. All Part 16 has been read, while detailed destination comparison and gathering remain open. No source passage or local offering has been removed.
 
+## The jigsaw whole-expression comparison · v385A
+
+The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparison_v385A.md) follows Registry 5.9's proposed expression into Illustrating 4.8's existing sequence, Corus 23.6's social explaining and the actual Exploring, Networking, Human Society and Values passages. The same comparison droplet is independently at Corus, Arriving and Illustrating. The complete proposed human expression is not established as written by the passages read; its existing storyboard and related explaining remain available whole.
+
+Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its former language and addresses. The current [v385A method](../incoming/v385A/README.md) governs this gathering; an old address or completed-standing claim supplies no new completion. The v381R source is now reachable at [carryings/v381R](../carryings/v381R/).
