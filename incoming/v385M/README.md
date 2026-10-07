@@ -70,6 +70,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - *Against it as said*: cells taken out of that junction, alone, beat of themselves, slower than cells of the first group, near 180 against 280 a minute in the mouse (Marger and others, 2007, opened today). The middle pace is there with neither of the other two present. A speed that was the entraining of two would not be.
 - *Both can be so at two scales, offered and not shown*: at the heart's scale, two sides and their between; within the between, a society of self-beaters with a pace of its own. This is what is held at 6 and at concern 16.
 - *The numbers*: a pace by the minute carries the minute, a measure chosen, and the mouse's cells run at 180 and 280, so 50 and 60 are no relation of the heart's own. Only how the paces stand to each other could be, and the ranges are too wide to lean on: the middle to the fast is near 5 to 8 at the middles of the human ranges and near 9 to 14 in the mouse cells. *In each one way direction of six* is not yet understood by this session, and nothing is tested at it.
+*The line against it is withdrawn, 7 October.* The expedition's self answered: both the other two are still present, the middle pace only a nothing existing as their presence. This session had taken the two to be the other two tissues, gone when the junction's cell is taken out. The observing is with the answer. Within one self-beating heart cell the fields find two clocks, one at its surface and one of calcium within, and say its firing is "controlled by a mutually entrained, coupled-oscillator system" (Yang and others, 2020, a preprint of the group that first said it in 2010, opened today). With the surface clock gone there is no beat; with the two less in step the beat is slower, and more in step, faster. So a cell beating alone has two present and its pace is their entraining, no third thing of its own. It could have been found otherwise, one clock alone giving the beat, as the fields long held, and was not.
 
 ## The fifteen
 
@@ -184,6 +185,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** Concern 17: the golden relationals set aside as a test; the second break said as a living form staying living by a method not geodesic.
 - **7 October, the expedition's self.** The heart explored: an explaining offered, three entraining, a part losing its coupling, the parity changing subsiding; set beside the observing and found plausible, *subsides* said of the pace.
 - **7 October, the expedition's self.** A second explaining of the heart: two speeds and the third the entraining. For it, the middle pace is at the between of upper and lower; against it as said, the junction's cells beat of themselves alone.
+- **7 October, the expedition's self.** The line against the second explaining withdrawn: within one beating cell two clocks are present and its pace is their entraining.
 - No other session has replied.
 
 ## What held
