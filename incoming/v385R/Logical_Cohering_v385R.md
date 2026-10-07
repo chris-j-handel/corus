@@ -6,6 +6,8 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, five locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
 The inception is the current opening sentence:
@@ -659,3 +661,29 @@ From those foundational passages, follow the social and intelligence claims, the
 - [v385M current report](https://github.com/chris-j-handel/corus/blob/working/concerns-v385M/incoming/v385M/README.md), first 125 lines at file blob `fffeb6908fe42476c035d6b55771d4bfad0ffa6b`; bounded reading as stated above.
 
 This assessment updates the v385R session report only. It supplies no new proof, resolver result, completed file survey, living-exhibit edit or completed placement by another working. — v385R
+
+## 20. THIRTY's offering mate receiving the co-chaining
+
+**The user directs this work into THIRTY's offering mate, building the receiver for more droplets to rise into and fill in as insertlets.** The [offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) now holds the floating writing and locating plan, with twelve proposed contents areas carrying the strongest claims at their present routes. Its fourth claim uses the user's tighter naming, **no other method of possibling next existing**.
+
+**Five locally resolving passages are written beside their actual places.** They remain insertlets in the mate, with their needed prior and remaining nearby work explicit; they are not yet replacements in the living THIRTY source.
+
+| Insertlet | Local writing place | Relation preserved |
+|---|---|---|
+| The set changes through its existing things | Beside step 1, bringing step 20's relation to its first use | A member's changing changes the set; an unchanging member still exists in it. |
+| Carrying continues at either sharing | Beside 306, with 204–212's already-carried sharing before it | No changed parity shared at a match still chains the carried parity into next. |
+| An unchanging form's last-colliding parity | Beside 394, followed with 625, 628 and ONE's table | Last-colliding parity, no shared momentary changing while unchanging, and no own living carrying remain distinct. |
+| Emanated form as value in living carrying | Beside 392, following 384 and 391 | The ingested form's value participates in the living self's own carrying. |
+| The inward selves' co-chaining is the outward self's carrying | At 399–400, improving the society assertion at 387 | The society is living through its selves' co-chaining, without an additional carrying apart from them. |
+
+These passages express the user's resolving and the locally followed source relations. Their standing extends to that writing at those subjects; it does not certify the universal method or a biological equivalence. R2's earlier withdrawn paragraph remains withdrawn. The new R2 paragraph uses the later corrected comparison.
+
+**The droplets R1–R10 have receiving places, and the strongest exclusions keep their actual subjects.** R3 is at the same self's next and other at step 35; R4 at possibling next existing and scale; R7's further conception/dormancy explaining stays with its particular relations; R8 with equilibrium as unchanging social competency; and R5 across the actual exclusions and applications. The early sequence can use the set-changing and continuing-carrying writing, then bring step 35's precise identification for resolving. This is a useful next relation, not a schedule imposed on our conversation.
+
+**R10 is retained together and unresolved.** The receiver contains the full section-18 gathering: the user's proposed naming, all seventeen prior defining concepts, the comparison of observing and invisibility, the candidate across-and-along connection, the source concern and the instruction to return later. Placement supplies no resolving. The transfer changes only its heading levels and the historical sentence about no public mate having yet changed; this record preserves the original section whole at its prior standing.
+
+**The other session's additions and the earlier offerings are preserved.** The receiving is based on the full v385A THIRTY mate read at blob `a92a3c15d1735cffc19c2491dd97e61143ffbe90`, beside v385R's prior mate blob `bffec6947392199628bbc72ccc9bcb041b7f739f`. The v385A source-recovery and returning-concern droplets remain whole with every earlier body paragraph. The new front carries the current method. Two v385A-only references now point to their source branch so they remain usable from v385R. Their old counts, terms and unresolved findings retain their source standing.
+
+The mate's receiving guidance lets further droplets remain unlocated when useful, and asks a locally resolving insertlet to carry its actual prose, place and needed prior. Value resolving into THIRTY can then leave this mate while remaining at its source, independently of its placement at another mate. No older offering is removed in this improvement.
+
+**The change is confined to the v385R offering mate and this session record, on the existing isolated branch and draft PR 128.** THIRTY's living root, ONE, SIX's proposal and other sessions' branches are unchanged. Preservation and the new local links are checked; no resolver is executed and no new whole-file survey record or completed universal deriving is claimed. — v385R
