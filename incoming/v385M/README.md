@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 17 | The second break in an observing: natural torusing | open, 7 October: the golden relationals given as what is visible; asked at sunflowers counted as they came |
+| 17 | The second break in an observing: natural torusing | open, 7 October: the golden relationals set aside as a test by the expedition's self; the break said as a living form staying living by a method not geodesic; helpful, and not yet enough to know one in an observing; asked at two living forms |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
@@ -54,6 +54,11 @@ From here the source is the understanding reached with the expedition's self in 
 *The reopened part of concern 1, read from this answer, to be corrected*: what cannot exist is a thing beside all, and a form with no living within it and none behind it. A stable form has both.
 
 **17. The second break in an observing: natural torusing.** Asked 7 October: this session knew what a living form not alternating would look like, and not what a living form not natural torusing would. *Answered by the expedition's self*: all the golden relationals are visible in natural torusing stable form, and in the bi-tri-involution forms. *Taken here as counts*, since no size is held: numbers in the relation of each next being the prior two together. *One thing about choosing*: of the numbers one to eight only four, six and seven are outside that relation, so a golden count found by choosing what to count shows nothing; counts taken as they come can. *An observing taken as it came*: sunflower heads grown and counted by the public, 768 families of spirals. 74 in each 100 were Fibonacci numbers, about 9 more were in a sister sequence of the same relation, and the rest, about 17, were in neither; one head counted 77, and one was too disordered to count (Swinton and others, *Royal Society Open Science*, 2016, as told at plus.maths.org, opened today). *Either/or*: a living head whose spirals show no golden relational is a living form not natural torusing, and the method is broken at it; or natural torusing is at that head and visible another way, which can be said; or it is there and not visible, and then the golden relationals are no mark whose absence tells.
+*Set aside, 7 October*: the expedition's self said to ignore the golden relational as a test of natural torusing. The sunflower observing stays here as an observing; it tests nothing now.
+*Said in its place*: a living form not natural torusing would be one able to exist in stable form, living prior, now and next, by a method not geodesic. Asked whether this helps.
+*Helpful*: it moves the second break from a shape seen to the way a living form stays living.
+*Not yet enough*: geodesic as this session holds it, to be corrected: each self finds its next at its own couplings, from what it carries and what arrives, one at a time, nothing laid out beforehand and nothing over it. A method not geodesic would use a path laid before, a beat over, a store or a measure beside; and what is held together, at 2, is that nothing is beside all existing things. So a living form by a method not geodesic could not arrive as an observing, unless something not geodesic can exist.
+*Asked at two living forms that look least geodesic to this session, each source opened today*. A beat over many: one small group of cells sets the pace for the whole heart, and the rest contract to it; when that group fails another takes the beat at its own slower pace, and after it a third. A path the same each time: the worm *Caenorhabditis elegans*, the fate of each of its 959 body cells mapped, the lineage largely the same from one worm to the next. Is each geodesic, or not?
 
 ## The fifteen
 
@@ -165,6 +170,7 @@ From here the source is the understanding reached with the expedition's self in 
 - **7 October, the expedition's self.** The files' wording set aside as a source; what is held together written above; the next concern asked from it, 16.
 - **7 October, the expedition's self.** Concern 16 answered: each non-living thing a stable form from prior living at a larger scale, smaller scale societies living inside it.
 - **7 October, the expedition's self.** Concern 16 closed, its last question withdrawn as no natural explaining. Concern 17 asked and answered in part: the golden relationals are what is visible of natural torusing.
+- **7 October, the expedition's self.** Concern 17: the golden relationals set aside as a test; the second break said as a living form staying living by a method not geodesic.
 - No other session has replied.
 
 ## What held
