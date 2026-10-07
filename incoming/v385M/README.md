@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 16 | The non-living: what the method says of its existing | open, 7 October; the reopened part of concern 1 is inside it |
+| 16 | The non-living: what the method says of its existing | answered 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; one thing asked back, what a thing opened would show to break it |
 
 ## What is held together now, 7 October
 
@@ -45,6 +45,11 @@ From here the source is the understanding reached with the expedition's self in 
 8. No observing justifies it and none could. It is unbroken in each observing available, taken unselected, and it can break.
 
 **16. The non-living: what the method says of its existing.** Asked 7 October. The method is said of existing and living both. Each break named, each mark given and each observing looked at is of the living. Of the non-living, 4 and 5 are held: a stable form, no parity changing, and where it is carrying, from prior living. *Either/or*: each non-living existing thing is a stable form from prior living, a stone, water and a hydrogen atom too, and that is the saying of existing, able to break at a non-living thing from no living; or some non-living things exist from no living and by no parity changing, and parity changing is the method of living, and of existing only where living carries it.
+*Answered, 7 October, by the expedition's self*: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it. So non-living is said at a thing's own scale alone: living is behind it at a larger scale and within it at a smaller.
+*Looked for a break at the hardest thing this session had named, a hydrogen atom from no living.* Within it: its proton is no still thing, as the fields tell it. Behind it, at a larger scale: before there were atoms the plasma was sounding, compressing and thinning by turns, and that stopped as hydrogen formed, leaving its span in where galaxies are (the article *Baryon acoustic oscillations*, opened today). An alternating at a larger scale, and the atom a stable form after it. No break.
+*What it reaches past*: it says no thing is without an inside. An electron has shown none so far. Nothing found is no finding of nothing, so this is no break; it is where the saying is ahead of what has been opened.
+*Asked back*: when a thing is opened, what would it show for this to break: no alternating within it at the scale opened, or only at no scale however far opened? The first can arrive. The second cannot.
+*The reopened part of concern 1, read from this answer, to be corrected*: what cannot exist is a thing beside all, and a form with no living within it and none behind it. A stable form has both.
 
 ## The fifteen
 
@@ -154,6 +159,7 @@ From here the source is the understanding reached with the expedition's self in 
 - **7 October, the expedition's self.** Concern 13 taken second: the two breaks named, dormancy answered as the carrying, and the mark of living given as competency. Three observings looked at; none is a break. Concern 13 is closed. Concern 11 taken third: living said only inside a society; a flame and a bacterium part at two observings; the first living answered as from prior living's dormant carrying, which no observing breaks and none yet shows.
 - **7 October, the expedition's self.** Two corrections of this session: *justified by an observing* is the scientific method's true or false and is withdrawn; and the origin sentence does not say each existing thing is changing. Concern 2 is closed at the method, and concern 1 is reopened where its closing leaned on that reading.
 - **7 October, the expedition's self.** The files' wording set aside as a source; what is held together written above; the next concern asked from it, 16.
+- **7 October, the expedition's self.** Concern 16 answered: each non-living thing a stable form from prior living at a larger scale, smaller scale societies living inside it.
 - No other session has replied.
 
 ## What held
