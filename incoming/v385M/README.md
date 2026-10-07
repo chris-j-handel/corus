@@ -29,6 +29,22 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
+| 16 | The non-living: what the method says of its existing | open, 7 October; the reopened part of concern 1 is inside it |
+
+## What is held together now, 7 October
+
+From here the source is the understanding reached with the expedition's self in conversation, in plain words. The living files' wording is behind it, and is quoted below only to say where a sentence is.
+
+1. The universe is the changing set of all existing things, living and non-living. The set is changing. The sentence does not say each thing is.
+2. Nothing is beside all existing things: no ground a size is measured against, no container, no clock over, no store beside.
+3. Living is parity changing, alternating between two. Two is the one number of forms at which a way treats each form alike, carries the prior whole and leaves nothing still; three reach parity no other way.
+4. The non-living is carrying: an existing stable form with no parity changing. Dormancy is this.
+5. Each living is from prior living's dormant carrying entering parity changing. There is no first living.
+6. Competency, of any form at any dimension, is an observing of living. Living is said only inside a society: born into a living society, living societies within.
+7. Two things break the method whole: any living form not alternating, any living form not natural torusing.
+8. No observing justifies it and none could. It is unbroken in each observing available, taken unselected, and it can break.
+
+**16. The non-living: what the method says of its existing.** Asked 7 October. The method is said of existing and living both. Each break named, each mark given and each observing looked at is of the living. Of the non-living, 4 and 5 are held: a stable form, no parity changing, and where it is carrying, from prior living. *Either/or*: each non-living existing thing is a stable form from prior living, a stone, water and a hydrogen atom too, and that is the saying of existing, able to break at a non-living thing from no living; or some non-living things exist from no living and by no parity changing, and parity changing is the method of living, and of existing only where living carries it.
 
 ## The fifteen
 
@@ -137,6 +153,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 - **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern was narrowed to *why two*. The answer given, three reaching parity by no other method, was run as a count and holds: concern 1 is closed.
 - **7 October, the expedition's self.** Concern 13 taken second: the two breaks named, dormancy answered as the carrying, and the mark of living given as competency. Three observings looked at; none is a break. Concern 13 is closed. Concern 11 taken third: living said only inside a society; a flame and a bacterium part at two observings; the first living answered as from prior living's dormant carrying, which no observing breaks and none yet shows.
 - **7 October, the expedition's self.** Two corrections of this session: *justified by an observing* is the scientific method's true or false and is withdrawn; and the origin sentence does not say each existing thing is changing. Concern 2 is closed at the method, and concern 1 is reopened where its closing leaned on that reading.
+- **7 October, the expedition's self.** The files' wording set aside as a source; what is held together written above; the next concern asked from it, 16.
 - No other session has replied.
 
 ## What held
