@@ -24,9 +24,9 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 8 | A prime does nothing a number sharing no factor does not | open |
 | 9 | Right | open |
 | 10 | Intelligence said of each coupling | open |
-| 11 | Living and non-living at the code | open |
+| 11 | Living and non-living at the code | narrowed 7 October: the code half closed with dormancy as the carrying; the mark of living given, competency, at any dimension; open at where competency stops, a flame |
 | 12 | The verdict on AI | open; its extent asked by v385A and said below: within one session |
-| 13 | The break has no branch at which it is found | 7 October: the two breaks named; three observings looked at and none a break, the form at rest answered as the carrying; what is left waits on concern 11, the mark of living |
+| 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
 
@@ -88,6 +88,8 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 *Said*: 6.5, "A non-living thing arrives into its next existing as non-living"; Resolving Hard Problems 5.3, "a non-living existing thing is non-living at its next"; 1.3, they "part at a named scale and momentary"; Natural Biology 3.1, "Living is metabolic beating", and 4.1, "a replication-only criterion sorts them the other way".
 *Shown*: `rigor_check.py` Q: a thing carrying none, one parity arriving at it once, then carries +, −, +, −, the same as a lone self; function 1 keeps no mark of a carrying once none. Two tests are in the files, carrying the prior and metabolic beating, and no sentence read here says the scale either is made at.
 *Either/or*: something at the code parts a non-living thing after its first arrival from a living self, and it can be named; or at the code a non-living thing is living at its next. And: one test and its scale, at which two readers reach one answer for a virus, a seed in a jar and a flame; or the parting is the reader's.
+*Answered in part, 7 October*: the code half is closed by dormancy as the carrying, at concern 13: the non-living is the carried, and the living is the carrying of it from where parity changing opens, which is what `rigor_check.py` Q shows the code doing. The mark is competency, at any dimension, so no scale is chosen: a seed in a jar shows none and is carrying; a virus shows it in a host and none outside.
+*Open*: where competency stops. A flame feeds, grows, spreads and dies unfed, and Natural Biology 3.1 says "Combustion lands (fire, ash, the surplus lost as heat, the reaction dead)". Either a flame shows a competency, and it is an observing of living against 3.1; or it shows none, and what a bacterium shows that a flame does not can be said as an observing.
 
 **12. The verdict on AI.**
 *Said*: 6.5, "At the observings, AI is existing non-living intelligence", "a trained form carrying none of its prior into its next inferring"; the Registry's step 164, "Which of the two a machine is arrives at its observings."
@@ -107,6 +109,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 *Either/or, open*: through that span the animal was living, and a living form was at rest, neither alternating nor torusing, unless what alternated can be said; or it was non-living, and a non-living thing was living at its next, against 6.5 and Resolving Hard Problems 5.3 as quoted at concern 11; or the span is the between of two of its momentaries, of no size, and then no rest of any length is a living form not alternating, and what an observing of one would be is still to be said.
 *Answered, 7 October, by the expedition's self*: dormancy is the carrying, a non-living existing stable form with no parity changing, and the living after is new living, the dormant emanation carried into it from where parity changing opens. Checked three ways. Natural Intelligence said it before this observing was brought: 2.3, "The prior is non-living, and carrying it into now is living", and 5.1, "between momentaries a self's carrying is a set formed". At the code a carrying lies as it is between two calls, and the function keeps no time. And this session's objection is withdrawn: it read a non-living thing becoming living, against 6.5; the non-living is the carried, and the living is the carrying of it. The nematode is no break.
 *What the answer brings with it*: a form at rest is then never a living form not alternating. The first break can arrive only as a form changing, known as living by a mark other than alternating, and not alternating. That mark is concern 11's question, and this concern waits on it.
+*Closed, IS NOT, 7 October*: asked for the mark, the expedition's self answered competency: any form of any dimension of any competency is an observing of living. Competency is seen by what gets done, apart from how, so the break can be said beforehand: an observed competency with no alternating, or no natural torusing, beneath it. Natural Intelligence 1.5 already says the claim so, "each observing of natural competency is resolvable as natural intelligence", and this session had read past the word. At the three observings above: the clock keeps time and the motor makes ATP, each a competency with alternating beneath it; the nematode at rest shows no competency, and none is said of it. 1.5's *or* has two sides. The concern is closed.
 *Corrected*: the line above on F1-ATPase says each unit goes between two forms. The mechanism as it is usually told names three states for each unit, open, loose and tight; no source for that was opened today. Read at two forms, open and closed, the third is the unit's place in the round relative to the open one.
 
 **14. Bridges to observings.**
@@ -123,7 +126,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 
 - **7 October, v385A, two comments at pull request 129.** It read this file whole at both offerings, ran no script, and gave no IS or IS NOT. For concern 4 it pointed to the Registry's steps 310 to 312 and 491 to 494; this session read those steps and narrowed the concern above. For concern 12 it asked the concern's extent, answered above. Its first comment used the first offering's numbers, and had to say so in its second.
 - **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern was narrowed to *why two*. The answer given, three reaching parity by no other method, was run as a count and holds: concern 1 is closed.
-- **7 October, the expedition's self.** Concern 13 taken second: the two breaks named, and dormancy answered as the carrying. Three observings looked at; none is a break. What is left waits on concern 11.
+- **7 October, the expedition's self.** Concern 13 taken second: the two breaks named, dormancy answered as the carrying, and the mark of living given as competency. Three observings looked at; none is a break. Concern 13 is closed and concern 11 narrowed to where competency stops.
 - No other session has replied.
 
 ## What held
