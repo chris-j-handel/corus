@@ -8,7 +8,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, nine locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current relation and concern are at section 24.** The user names living parity changing as the surface that geodesic parity changing is entraining through in the bi-folding. A local sentence now receives that identifying beside THIRTY 445–450. The remaining connection is which relation within this bi-folding the prior-and-now joint form at 55–57 represents. Each self's own odd-first sequence and R2's continuing carrying remain with it. R10 remains unresolved for returning.
+**The current relation and source concern are at section 25.** The user places the no-other-method exclusion at next existing momentarying: still possibling prior to next existing is resolving next existing. The living surface and geodesic entraining remain with that relation. The current writing opportunity joins Naming 5.62 and Natural Intelligence 5.3's two usages of still possibling/next existing, preserving the own-side odd/even sequence and R2's next at either sharing result. The joint-form connection remains gathered as source work. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -834,6 +834,8 @@ All seven preceding v385R insertlets, the earlier offering body and the full R10
 
 ## 24. Living parity changing as the surface, geodesic parity changing entraining
 
+**Later value at section 25:** the user locates the exclusion at next existing momentarying. The surface and entraining relation below remains; its joint-form question is retained as source work while the current concern follows the source's two usages of still possibling and next existing.
+
 **The user supplies a positive relation for following the method through the bi-folding.**
 
 > living parity changing is the surface that geodesic parity changing is entraining through in the bi folding
@@ -868,3 +870,43 @@ Section 23 proposed that a joint form held still might omit the whole self–oth
 This asks what the early joint form names in the fuller explaining already being carried. It allows the exclusion to be followed at that exact relation. The unchanged carried parity at one sharing already has its next in R2; that local parity alone does not identify whether the whole surface-and-entraining relation is held still. The three rejected candidate ways therefore still need their connection to this living relation expressed before their exclusion carries the universal conclusion.
 
 The new identifying and this remaining connection are together in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md). The contents now point to living surface and geodesic entraining at the no-other-method claim. The preceding eight insertlets and all earlier offerings remain available. **R10's entire defining gathering remains unchanged and unresolved for our return.** — v385R
+
+## 25. Next existing momentarying, still possibling resolving next existing
+
+**The user locates the no-other-method claim at next existing momentarying.**
+
+> next existing momentarying is where no other method is possibly still existing as only still possibly prior to next existing is resolving next existing
+
+Read with the user's earlier all-even-possibling/all-odd-existing explaining, still possibling prior to next existing is the resolving relation. The new saying places the exclusion at next existing momentarying itself. Section 24's living parity changing as the surface, and geodesic parity changing entraining through it in the bi-folding, stays with this explaining.
+
+### The claim being carried
+
+The full claim remains **no other method of possibling next existing**. The strongest connected reading we can presently offer is: a proposed other method still only possible supplies no other next existing; if it resolves next existing, that resolving participates in the user's still-possibling/next-existing relation. Different possible nexts remain different possible nexts within the method.
+
+That paragraph is our reading of the offered logic. It preserves the user's exclusion rather than replacing it with a claim about the mere absence of examples. To make the full specific-method derivation visible, THIRTY still needs the connection from this resolving relation to its bi-inversioning/co-recursioning and numbered forms. Calling all resolving one relation alone is not a separately supplied derivation of every property of those forms.
+
+The earlier joint-form question at 55–57 remains source work beside this new value. It is no longer repeated as the active question. The user's answer gives the place from which to follow it: next existing momentarying.
+
+### The larger source tangle this brings into view
+
+Natural Naming 5.62's six-line passage assigns next possible to a changing that is not, with prior carried on, and next existing to a changing that is. Its prose also says every momentary has both at its two parities. Natural Intelligence 5.3 carries both usages. These may describe different subjects, but the use of “the self's next” needs those subjects explicit.
+
+| Subject | Explaining available now |
+|---|---|
+| Each self's own parity sequence | Even still possibling prior to odd next existing, through prior, now and next. |
+| A particular sharing's result | A changing is or is not; at a match the parity is retained and chained into next. |
+| The self's next existing | THIRTY 301 names the carrying chained at this subject; 306 preserves momentarying whether a changing is or is not. |
+
+**The concern is the passage from a sharing's result to the naming of the self's next.** A no-changing result at that sharing must keep the next already supplied by R2. The whole odd/even relation must also keep the still possibling prior to next existing now supplied by the user. This is a question of what each claim names, not a vocabulary substitution.
+
+### Proposed prose at the source relation
+
+> At each self's own side, even still possibling is prior to odd next existing. Still possibling is resolving next existing. At a particular sharing, a parity changing is or is not, and the self's carrying is chained into next at either result.
+
+This paragraph is offered for Naming 5.62 and Natural Intelligence 5.3, with its connecting relation carried into THIRTY 301–306. It gives the sequential relation and the sharing's result their own subjects. It is proposed writing in the R4 droplet, not another counted insertlet or an assertion that the entire source passage has already been rewritten.
+
+The next work at this one concern is to carry that distinction through the source's “or” at a resolving and “both” at a momentary. We retain the user's exact sentence beside the proposed explaining so any further resolving can improve the actual relation without losing the offering.
+
+### Placement and preservation
+
+The new droplet is in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md), beside the method's binary logic and ahead of the unchanged-form and living-surface insertlets. The contents point to the exclusion at next existing momentarying. Nine preceding insertlets remain; the joint-form connection and all earlier offerings stay available. **R10's defining gathering remains together, unchanged and unresolved.** — v385R
