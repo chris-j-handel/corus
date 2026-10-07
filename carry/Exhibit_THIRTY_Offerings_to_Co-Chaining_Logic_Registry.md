@@ -19,7 +19,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 | [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
 | [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now; each self at its own odd 1 |
-| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–49, 169–171, 366–378 | R4 possibling next existing; the unchanged-form insertlet and joint-form exclusion |
+| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 possibling next existing; living surface, geodesic entraining and the joint-form exclusion |
 | [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
 | [Social moral competency at self, other and society](#social-moral-competency) | 174–189, 375, 387–405, 480–503 | R6 inward/outward carrying insertlet; R10 whole unresolved gathering |
@@ -105,25 +105,37 @@ Gather the actual excluding relation at the coupling here. Steps 46–49 current
 
 This carries the user's already-supplied distinction into the first exclusion that uses stillness. It preserves the existing form and the no-other-method claim at their different subjects. It asserts no unchanging form at every momentary of all existing things, and it gives an unchanging member no shared momentary changing through another member's changing. The local paragraph is the eighth v385R insertlet.
 
-**Droplet · What the joint form still excludes · R4 with R8.** THIRTY 51 names next from prior and now. Steps 52–54 describe four joint forms and the candidate ways carrying prior. Step 55 excludes three of those ways because each leaves a joint form still; 57 names next as prior inverted the living step because none is still.
+**Insertlet · Living parity changing as the surface · R4 · v385R.** Place beside steps 445–450, where the geodesic method, the surface and the crossing are joined in the bi-folding. Carry its relation back to 51–57 when the early method deriving names the joint form.
 
-The source concern is now at that specific exclusion. The user has already distinguished an unchanging non-living form from unchanging social competency. R2 permits an unchanged carried parity at a sharing, and the own-side explaining now follows every self through odd existing and even possibling. The missing written identification is what the “joint form” must carry here for its being still to exclude a method of possibling next existing.
+> Living parity changing is the surface that geodesic parity changing is entraining through in the bi-folding.
+
+**The user's exact offering:** “living parity changing is the surface that geodesic parity changing is entraining through in the bi folding”
+
+This supplies the living subject of the surface and names what is entraining through it. THIRTY 450 already joins the parallel surfaces and the crossings through them in one form; 12 names entraining at the crossing. ONE's name at 12 follows the prior carried into now through the between. Natural Naming 5.40 joins set momentarying and each existing thing entraining through the between as one method. Geodesic Improving 5.3 follows method and surface inward and outward of each other. These passages give the user's sentence its receiving place.
+
+**The distinction now available is between the living surface and the geodesic entraining through it, within the bi-folding.** Each self's own odd-existing/even-possibling sequence and the unchanged carried parity at a matching sharing remain beside this explaining. Surface and entraining are named here at their relation; the sentence does not assign them respectively to odd/even and +/−, or make one exclusively across and the other exclusively along. The local identifying sentence is the ninth v385R insertlet. Source record: session section 24.
+
+**Droplet · The joint form within surface and entraining · R4 with R8.** THIRTY 51 names next from prior and now. Steps 52–54 describe four joint forms and the candidate ways carrying prior. Step 55 excludes three of those ways because each leaves a joint form still; 57 names next as prior inverted the living step because none is still.
+
+The user's new surface-and-entraining relation now gives this exclusion a positive relation to follow. An unchanging non-living form, a carried parity unchanged at a sharing, and the living surface through which geodesic parity changing entrains each keep their own subjects. The missing written identification is which relation within this bi-folding the early “joint form” represents. Its being still can then be followed at that same relation.
 
 | Unchanging named at | The relation already available |
 |---|---|
 | A non-living stable form between collidings | Existing; its parity is that of its last colliding. |
 | A living self's carried parity at a matching sharing | Carrying proceeds into next; this sharing has no parity changing. |
-| The prior-and-now joint form used to exclude another candidate at 55–57 | Its relation to the whole self–other bi-inversioning/co-recursioning needs to be explicit before its stillness can carry that exclusion. |
+| The prior-and-now joint form used to exclude another candidate at 55–57 | Identify what it represents within living parity changing as the surface and geodesic parity changing entraining through the bi-folding. |
 
 Naming 3.2 distinguishes a name's odd/even position from the +/− parity at a sharing. The user's even-possibling/odd-existing sequence cannot silently become a demand for a +/− inversion at every sharing. Naming 3.4 and ONE's matching case retain the carrying's next at either result.
 
-**The strongest connecting candidate:** a joint form held still as the whole relation of prior, now and next would omit the required bi-inversioning/co-recursioning, while an unchanged parity at one sharing still participates in that relation. The user's two-along/one-across rolling explaining supplies the positive relation to follow. This candidate is not yet inserted as the derivation of 55–57.
+**The earlier candidate is retained in session section 23.** It suggested that the joint form held still might omit the whole self–other bi-inversioning/co-recursioning. The user's present offering supplies surface and entraining as the relation to explore; it does not simply affirm that candidate. The current explaining therefore follows this supplied relation before attributing a particular omission to the excluded ways.
 
-**The one concern for our resolving:** what is absent from the three excluded ways that remains present when living carrying takes an unchanged parity into next? More particularly, does their “joint form still” mean the self–other bi-inversioning/co-recursioning itself is absent, rather than a parity remaining unchanged within it?
+**The one concern for our resolving:** which relation within living parity changing as the surface, and geodesic parity changing entraining through it in the bi-folding, is represented by the prior-and-now “joint form” at 55–57? This is the relation whose being held still would need to explain the exclusion.
+
+An unchanged carried parity at a matching sharing already has its continuing next in R2. That local parity alone cannot identify whether the whole surface-and-entraining relation is held still. The work here is to connect the joint form to that whole at its actual subject.
 
 Keep whose prior beside that question. Natural Intelligence 2.4, THIRTY 609 and ONE's five-parity table identify the other's prior in their stated arrangements. They allow the same local next to retain the self's now parity while inverting the other's prior. Those sources keep their particular conditions; this pass does not turn their two-self or spiral arrangements into a universal rule.
 
-The Equilibria Registry 1.5 explicitly states its alternating-coverage conditions; 2.1 follows the relation a conception actually fixes; 2.3 requires the ordering fixed to be the very ordering its next inverts. These are the strongest nearby source relations for this droplet. The subject is the claimed exclusion in THIRTY's first method deriving. R10's proposed observing definition remains gathered whole and unresolved. Source record: session section 23. — v385R
+The Equilibria Registry 1.5 explicitly states its alternating-coverage conditions; 2.1 follows the relation a conception actually fixes; 2.3 requires the ordering fixed to be the very ordering its next inverts. These are the strongest nearby source relations for this droplet. The subject is the claimed exclusion in THIRTY's first method deriving. R10's proposed observing definition remains gathered whole and unresolved. Source records: session sections 23–24. — v385R
 
 **Droplet · The same method inward and outward.** Follow 169–171 and 366–378 beside R6's inward selves/outward carrying and ONE's forms. The reported enumeration at 171 concerns a particular arrangement; its number alone does not require that arrangement at every scale. The earlier Two Logics offering also relies on a thing's participation in one method. Keep that required relation in the explaining. The society span prime 5 through prime 53 is carried with its source conditions and supplies no first or final bound of the whole fractal.
 
