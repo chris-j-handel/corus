@@ -1,6 +1,25 @@
-Exhibit ELEVEN Natural Medicine Carryings · gathered at v381R
+Exhibit ELEVEN Natural Medicine Carryings · gathered at v385A
 
 # Carryings of Natural Medicine
+
+## Corus research comparisons · v385A
+
+[Corus 16.7](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, gathers three questions now available at [this offering mate](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md).
+
+| Project relation | Existing passage and next comparison |
+|---|---|
+| Turnover ratios and barrier response | Medicine 2.3 already carries organ and barrier orderings. Compare the particular gap-ratio question and permeability/response-time connection with their original observations and conditions. |
+| Gap-2 internal positions | Keep the nine-organ, cycling/still, kidney double-barrier and corneal-boundary questions distinct from the already written ordering. Follow the actual decomposition and source data. |
+| Existing-sample membrane ratio | Medicine 3.1 reports DDIT4/ZNF254; 5.1 identifies that cohort account as second-hand. Recover its primary report and whether stored samples exist, preserving Corus's measurement-only boundary. |
+
+Medicine 2.3 and 5.1–5.3 were read whole for this comparison; the predictor paragraph in 3.1 was followed separately. Chemistry 5.4 supplies the measured-ratio conditions. [The joined comparison](Carryings_of_Natural_Intelligence_Corus.md#part-167-five-research-clusters-at-their-subjects) preserves the other clusters and the remaining source work. Medicine 5.1's psychiatric/food-cause exclusions accompany Corus's older network analogies; their rhetorical pairing supplies no new clinical result.
+
+These are possibling project comparisons beside Medicine; their improving value is in the offering mate. The sources remain whole, and no scientific calculation, empirical verification or living-file resolving is claimed.
+
+## Earlier source inventory · retained from v381R
+
+The following inventory retains its historical wording and addresses. The [v385A method](../incoming/v385A/README.md) governs the present gathering.
+
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 
