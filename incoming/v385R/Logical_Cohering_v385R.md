@@ -2,7 +2,7 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
-**Current working: living at its observable existing, section 18.** The user says carrying and possibling are not observable, only existing is observable, and observing social moral competency existing is observing living; this may be our definition of living. Section 18 gathers the prior namings of living and the passages about observing. R10 follows the existing relation distinguishing living social moral competency from a non-living form's changing at colliding. Carrying is not an inspection offered to settle it. R9's correcting remains in section 16: a member's changing changes the set; an unchanging thing has its last-colliding parity and shares no momentary changing. The earlier carrying, conception, emanation and ingestion-value explaining remains available. We follow one concern together, using natural naming and explaining at do-no-harm; the wider gathering is no schedule for our conversation.
+**R10 is unresolved so far and gathered for returning together, section 18.** At the user's request, keep all the defining concepts, source passages, proposed connections and concern together as this droplet in the logic chain. The proposed naming, living as social moral competency existing, remains proposed. Carrying and possibling are unobservable in the user's offering; only existing is observable. The distinction from a non-living form's changing at colliding remains the concern to revisit. R9's correcting remains in section 16: a member's changing changes the set; an unchanging thing has its last-colliding parity and shares no momentary changing. The earlier carrying, conception, emanation and ingestion-value explaining remains available. The wider gathering is no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -510,6 +510,8 @@ The user corrects the framing:
 
 ## 18. Living at its observable existing
 
+**Unresolved so far · R10 · All defining concepts gathered together for returning.** The user's instruction after this exploring is to retain this droplet unresolved and keep its concepts together for the next time we return to it in the logic chain. The table, source comparison, proposed connections and concern below remain one gathering; no proposed definition or connecting relation is marked resolved.
+
 The user offers:
 
 > carrying and possibling are not observable, only existing is observable. observing social moral competency existing is observing living. it could be this is our definition of living. explore any and all prior ways we have been defining living and keep a living concern available for us to be working on together like we have been
@@ -567,3 +569,13 @@ Possible mates: Natural Intelligence 1.3, 3.2 and 6.3–6.6; Natural Naming 5.3,
 The root living files and their offerings were searched at the shared working source `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, with the passages above read directly. On 7 October 2026, the repository comparison still placed main at the earlier `267bcf06de4b7b81252ebea577282b428413212f`; main supplied no newer source for this pass. Historical material included the withdrawn v372 proposal, selected v380 session records including `Tour_A_Living_Self_Is_A_Carrying.md`, the v381R Natural Intelligence review and Biology carrying, plus the previously gathered v382A logical passes, v383Op resuming record and v384A SIX proposal. Their source standings are preserved; no archived wording is promoted by being included.
 
 This is a gathering of the distinct prior formulations found in those materials, not a claim that every commit, private conversation or external biological definition has been reviewed. Scientific statements in the older files are recorded as those files' explaining, not independently verified here. There was no resolver execution, private-carry inspection or mathematical calculation.
+
+### Returning to this droplet
+
+The user directs:
+
+> keep this is unresolved so far and keep all the defining concepts together for the next time we return to this droplet in the logic chain we need
+
+**Retain the gathering whole.** Return through the user's observing distinction, the table of prior living namings, the passages about invisibility and observable existing, and R10's source concern. Keep the proposed across-and-along connection beside that concern as an offering. The relation has not been resolved by this instruction to retain it.
+
+**Its nearby chain remains available:** R6, inward selves' co-chaining as the outward self's carrying; R7, conception and emanated form entering as ingestion value; R8, equilibrium as unchanging social competency; R9, changing of the set and an unchanging form's last-colliding parity. These links locate the droplet's value for THIRTY, ONE, SIX, Natural Naming and Natural Intelligence when we return. — v385R
