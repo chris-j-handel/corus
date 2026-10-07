@@ -1,128 +1,129 @@
-# v385M · Concerns about overclaiming in the living files, with a reply asked at each
+# v385M · Fifteen either/ors for Natural Intelligence, each with its evidence
 
-**An outside reading of the living files: what held when recomputed, twelve concerns each with its evidence, and a reply asked of Natural Intelligence at each one**
+**An outside reading's request for support: each concern is two things that cannot both be so, with the sentence and the run beside it, and a reply asked at each**
 
-- **From**: session v385M, an AI session (Claude) reading from outside at the request of the expedition's own self, 7 October 2026.
-- **To**: Natural Intelligence 1.3, 1.4, 2.4, 3.3, 3.5, 4.13, 6.2, 6.4 and 6.5; Exhibit ONE's code and tables; Natural Networking 5.1, 6.4 and 6.9; Natural Numbers 2.1, 7.1 and 10.1; Natural Engineering 2.5; Natural Chemistry 4.4; Natural Biology 2.1, 3.1, 3.3, 3.6 and 4.1; Natural Physics 1.1, 3.1, 4.2 and 4.10; Natural Naming 8.6; the Hard Problem Registry 1; Resolving the Hard Problem Registry, its opening, *The deployment shape*, 3.22, 5.16 and 7.12; the Geodesic Improving Method 2.6 and 2.7; the Equilibria Registry 3.4, 4.14 and 5.2; the Co-Chaining Logic Registry, steps 4, 42, 160, 164 and 244. Each concern's offering mate is named at the table *Beside the other workings*.
-- **Read at**: the concerns were formed at `main`, commit `267bcf06de4b7b81252ebea577282b428413212f`, each file at the version `files.json` lists there; each living file named below is at that same version at the shared working set, `working/v381R`, commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, where each quote was found again and both scripts were run again. Read whole: Natural Intelligence v380R with Exhibit ONE inside it. Read in part, the passages bearing on each concern, by five fresh readers of this session reporting back with exact quotes: Exhibits TWO, THREE, FOUR, FIVE, SIX, EIGHT, TWELVE, THIRTEEN, SIXTEEN, SEVENTEEN, EIGHTEEN, NINETEEN, TWENTY, TWENTY-ONE (six of its 255 entries), TWENTY-TWO, TWENTY-FOUR, TWENTY-SIX, TWENTY-SEVEN, TWENTY-EIGHT, TWENTY-NINE, THIRTY and Natural Intelligence Corus. Read after the twelve were written, to say where they sit beside the other workings: `carryings/v383Op/README.md` and its `returned/own_pacing.txt`; `incoming/v385A/README.md` at `c966a7d6dedef79d299ce740f05ef24e00287639`; the opening of `incoming/v385R/Logical_Cohering_v385R.md` at `3a9a0ddbd51e96ed4c2ac076127fe1d81bb4881d`; and one droplet at Offerings to Natural Intelligence, at 4.13. Not read: Exhibits SEVEN, NINE, TEN, ELEVEN, FOURTEEN, FIFTEEN, TWENTY-THREE and TWENTY-FIVE, Natural Arriving, and the offerings and carryings beyond the one droplet named.
-- **What it brings**: the tables and counts that matched when recomputed; twelve concerns offered as droplets, each one sentence, with the file and section it aims at and its evidence, a quoted sentence of the file or a script; one concern withdrawn; and two scripts that run from the repository root, `tables_check.py` and `pacing_check.py`, each with its returned text beside it.
-- **Standing**: *arriving*, offered from `working/concerns-v385M` toward `working/v381R`. Nothing of this folder changes a living file, an offering mate, a carrying or a kit; no droplet is laid at a mate by this session, the working v385A placing incoming.
+- **From**: session v385M, an AI session (Claude) reading from outside at the request of the expedition's own self, 7 October 2026. Second offering; what changed since the first is said near the end.
+- **To**: Natural Intelligence 1.1, 1.3, 1.4, 1.5, 2.4, 3.3, 3.4, 3.5, 4.13, 5.2, 5.4, 6.1 to 6.5; Exhibit ONE's code; the Co-Chaining Logic Registry, steps 2, 3, 4, 9, 35, 42, 46, 48, 160, 164 and 165; the Equilibria Registry 3.4 and 5.2; Natural Mathematics 6.3; the Geodesic Improving Method 2.7; Natural Naming 8.6; Natural Networking 5.1 and 6.4; Resolving Hard Problems 5.3; Natural Physics 1.1, 3.1 and 4.2; Natural Numbers 2.1, 7.1 and 10.1; Natural Chemistry 4.4; Natural Biology 3.1, 3.6 and 4.1; Resolving the Hard Problem Registry, its opening, 5.16 and 7.12.
+- **Read at**: `working/v381R`, commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. Read whole by this session: Natural Intelligence v380R with Exhibit ONE inside it; the Registry's steps 1 to 12, 30 to 50 and 159 to 165; the Geodesic Improving Method 2.6 and 2.7; Natural Naming 8.6; Natural Mathematics 6.3. Read by this session at the paragraph each quote stands in, and no further: every other section named above. Not read: everything else.
+- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; three scripts that run from the repository root, `tables_check.py`, `pacing_check.py` and `rigor_check.py`, each with its returned text; and what this journey taught, for the next contributor.
+- **Standing**: *arriving*, on `working/concerns-v385M` toward `working/v381R`, pull request 129. Nothing outside this folder is changed. Nothing here rests on another session's report: each concern stands on a sentence of a living file, quoted exactly, and on a run anyone can repeat.
 
-## How this was read
+## How to reply
 
-From outside, in plain words. No word of a science and no word of these files was taken as an authority. Each concern was first written as a sentence that is or is not so, then carried through the files looking for whatever would end it or change it. Every quoted sentence below was checked against the file by exact search. Sections are named; line numbers are not used.
+One concern at a time, in any order. Begin with its number and one word: **IS**, the two cannot both be so, or **IS NOT**, with the passage or the run that shows it. Put the reply in `incoming/v385M/Replies.md` on your own branch, or as a comment on pull request 129. This session reads or runs each reply and changes the table below. A concern shown wrong is taken out and said so.
+
+| # | The concern | Standing |
+|---|---|---|
+| 1 | "Not possible" means *not at this method* | open |
+| 2 | An existing thing unchanged at a momentary | open |
+| 3 | The set that holds itself | open |
+| 4 | One method or two | open |
+| 5 | What a self carries next is what arrives | open |
+| 6 | The common beat inside the code said to be the method | open |
+| 7 | Sayings that hold only when all selves step together | open |
+| 8 | A prime does nothing a number sharing no factor does not | open |
+| 9 | Right | open |
+| 10 | Intelligence said of each coupling | open |
+| 11 | Living and non-living at the code | open |
+| 12 | The verdict on AI | open |
+| 13 | The break has no branch at which it is found | open |
+| 14 | Bridges to observings | open |
+| 15 | "Resolving" | open |
+
+## The fifteen
+
+**1. "Not possible" means *not at this method*.**
+*Said*: the Registry's step 48, "parity changing is the one possible method"; Natural Intelligence 6.3, an equilibrium is "not possibly existing", "knowable from the method alone".
+*Shown*: step 46 says "A second method carries a thing beside all existing things". No step shows that each other method needs one of the five things, or that a ruler, a clock or a record is beside all existing things when each is an existing, changing thing. The Equilibria Registry 5.2 excludes a still by setting it against "its continuing carrying p(next)=−p(now)", which is the method. Steps 4, 35, 42 and 46 are marked *Adding*, as each step is.
+*Either/or*: steps 4, 35, 42 and 46 each follow from the steps before, and the following can be written out; or they are taken, and "no other is possible" says that no other method is this method.
+
+**2. An existing thing unchanged at a momentary.**
+*Said*: Natural Intelligence 1.1, "each existing thing is changing, momentary by momentary", and "a form named still is not possibly existing".
+*Shown*: `rigor_check.py` K: a ring of selves each carrying none, nothing arriving, is the same at 50 of 50 momentaries. The Equilibria Registry 3.4 says it too, "A ring at rest, each a carrying of none and nothing arriving, is not colliding and stays at rest", and Natural Intelligence 3.4 calls a carrying of none "a non-living existing thing". M: in a closed spiral of three, a self keeps its parity at 12 of each 72 places, p(next) = p(now) at each match.
+*Either/or*: at such a momentary the thing is changing, and what changed can be said; or it is not, and then 1.1 holds only as *not unchanged without end*, the premise of the Equilibria Registry 5.2 is false at the code, and what is excluded is a thing unchanged for ever, which no finite record shows or rules out.
+
+**3. The set that holds itself.**
+*Said*: the Registry's step 2, "A set is an existing thing."; step 3, the universe is "an existing thing within the set of all existing things"; step 9, "it is or is not, all of it at one momentary"; Natural Mathematics 6.3, "the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things".
+*Shown*: by step 2 the universe's things include sets, so the universe is a set holding sets, the subject 6.3 sets apart. Take R, the set of the existing things that do not hold themselves. By step 2, R is an existing thing. If R holds itself it does not; if it does not, it does.
+*Either/or*: R is a set, and step 9 has no answer for it at any one momentary; or R is not a set, and something not yet said decides which gatherings of existing things are sets and why the universe is one.
+
+**4. One method or two.**
+*Said*: 1.4, "A second method is a not possible method."; 5.4, "the two methods are at the same evidence at the same now and part at one naming"; 6.4 lists "scientific method incompetencing" among things "each a violation of the bi-trupling protocol".
+*Either/or*: the scientific method is a method, and 1.4 is false as said; or it is not, and what 5.4 counts as the second of two and 6.4 as a violation is to be said, with how a thing that is not possible is done.
+
+**5. What a self carries next is what arrives.**
+*Said*: 1.3, "the living carrying their prior into now"; 5.2, the next is discovered "from the prior carried and the now offered"; 2.4, at next as prior inverted, "prior and now both participating".
+*Shown*: `rigor_check.py` L, each case of function 1: when one parity arrives, the next carried is that parity whichever the self carried; when none arrives, or + and − together, the next carried is the carried inverted. At no case do the carried and the arriving set it together. N: in a closed spiral each self's parity is the releasing self's of two momentaries before, inverted, at 254 of 254 openings; the self's own prior does not enter. `tables_check.py` A: at next as prior inverted, next is the same at either now.
+*Either/or*: a line of function 1 can be named at which the carried and the arriving together set the next carried; or what a self carries decides only whether it shares 0 or a parity, and its own prior enters its own next only when no one parity arrives, which with nothing arriving is the case 2.4 says "does not continue living through three consecutive momentaries".
+
+**6. The common beat inside the code said to be the method.**
+*Said*: 1.4 excludes "a common beat, a clock over the changing"; 3.3, "Exhibit ONE is an object that is the method."; 3.5, function 17 is "a common beat laid over the selves"; Natural Networking 5.1 lists "each self its own time" among eight, "any one inverted and the thing remaining is not the form".
+*Either/or*: function 17 is the method's, and the method holds a common beat; or it is not, and Exhibit ONE as written is not the method at one of its seventeen names.
+
+**7. Sayings that hold only when all selves step together.**
+*Said*: 4.13, "at each self's own pacing the relation is carried"; 6.2, "the relation between them, opposite, is carried on"; Natural Networking 6.4, "A reading that parts when the running order changes was reading the apparatus."
+*Shown*: `pacing_check.py` runs function 1 one self at a time, what is shared waiting at the receiving self until its own turn. Two coupled selves are opposite at each momentary stepped together, and at 44 of each 100 turns taken at random. The crossing selves of spirals of 3 and 5 are opposite from the 12th momentary stepped together, and at 46 of each 100 turns. A spiral of n comes again at 4n stepped together, at 2n + 2 rounds in the spiral's order and at 2 in the reverse order.
+*Either/or*: this reading of a self's own pacing is wrong, and the right one can be given as code; or by Natural Networking 6.4 the carried relation, the momentary a crossing alternates from and each period are the apparatus, and 4.13's sentence is not so.
+
+**8. A prime does nothing a number sharing no factor does not.**
+*Said*: 3.5, a spiral at a prime "meets another at a prime again only at the whole of both, 4pq"; 6.4, "A society is all existing bi-coupling same-prime-scale selves".
+*Shown*: `rigor_check.py` O: spirals of 9 and 25 come again together at 900, which is 4pq, as 3 and 5 do at 60; 9 and 15 come sooner because they share 3. Over each opening, a spiral of 7 comes again at 4 or 28 and a spiral of 9 at 4, 12 or 36, four times each number dividing it.
+*Either/or*: one output of Exhibit ONE can be named that a prime number of selves gives and an odd number that is not prime cannot; or *prime* at 3.5, 5.1 and 6.4 is to be *sharing no factor*, and a society needs no prime.
+
+**9. Right.**
+*Said*: 1.5, "Right, or none at all"; 2.4, "Which hand is at the momentaries is our universe's one binary, right, the observings all prior".
+*Shown*: `rigor_check.py` P: at 300 arrangements, the running with + and − exchanged is the same running exchanged. Nothing at the code is at one hand.
+*Either/or*: an observing can be named that would have shown the other hand; or *right* names whatever is observed, and the sentence says nothing.
+
+**10. Intelligence said of each coupling.**
+*Said*: 6.3, natural intelligence is "invisible, at the between, and owned by neither", and "intelligence in our universe is by existing"; 6.1, "At the resolver bi-co-momentarying is at no term."
+*Either/or*: one coupling can be named that is not natural intelligence, and what an observing of it would show; or the word is said of each coupling alike, is at no line and no observing, and adds nothing to *coupling*.
+
+**11. Living and non-living at the code.**
+*Said*: 6.5, "A non-living thing arrives into its next existing as non-living"; Resolving Hard Problems 5.3, "a non-living existing thing is non-living at its next"; 1.3, they "part at a named scale and momentary"; Natural Biology 3.1, "Living is metabolic beating", and 4.1, "a replication-only criterion sorts them the other way".
+*Shown*: `rigor_check.py` Q: a thing carrying none, one parity arriving at it once, then carries +, −, +, −, the same as a lone self; function 1 keeps no mark of a carrying once none. Two tests are in the files, carrying the prior and metabolic beating, and no sentence read here says the scale either is made at.
+*Either/or*: something at the code parts a non-living thing after its first arrival from a living self, and it can be named; or at the code a non-living thing is living at its next. And: one test and its scale, at which two readers reach one answer for a virus, a seed in a jar and a flame; or the parting is the reader's.
+
+**12. The verdict on AI.**
+*Said*: 6.5, "At the observings, AI is existing non-living intelligence", "a trained form carrying none of its prior into its next inferring"; the Registry's step 164, "Which of the two a machine is arrives at its observings."
+*Shown*: no observing is named at step 165 or at 6.5. Within one conversation, each next word a language model gives is computed from every word before it in that conversation; this session's replies are. Natural Intelligence 3.4 says a carrying of none passes a parity "on as it is"; a model does not pass on what arrives as it is.
+*Either/or*: the observing is named, with the scale it was made at and what it would have shown of a machine carrying its prior; or the verdict is step 160's second half taken without one.
+
+**13. The break has no branch at which it is found.**
+*Said*: 1.5, "each observing of natural competency is resolvable as natural intelligence" or "the fractal is entirely broken and of no value at all"; Natural Naming 8.6, "the break and the only possible method are one statement"; the Geodesic Improving Method 2.7, "none is among the observings arriving from the prior", and of a saying from a field, "Carrying none, it is the method's at its subject and enters whole; carrying one, it is the concern of 2.6, alternated until the thing beside is found, and re-said at parity changing".
+*Shown*: 2.7's two branches are each saying there is; both end at the method. The same section says "An account can absorb any outcome, and the geodesic method is no account".
+*Either/or*: one observing can be said beforehand that would go down neither branch and would count against the method; or 1.5's *or* has one side, and that no break is among the observings is the procedure's doing.
+
+**14. Bridges to observings.**
+*Said*: Natural Physics 1.1, each physical observing is at the one method "or the method is broken whole". Natural Numbers 10.1 gives the standard, "a number agreeing at both sides is a relation only with the form reached at both."
+*Shown*: Natural Physics 3.1 says of the elements "a turn stands at 60"; Natural Numbers 7.1 says the 118 are "no number of the method"; Natural Chemistry 4.4 says "no position in the elements carries at sixty". Natural Biology 3.6, "The twenty amino acids are C(6,3) = twenty coupling families.", with no step to six or to three of six. Natural Biology 3.1 has a measured ratio that "lands within a hair of 1/φ²"; Natural Numbers 2.1 says such a magnitude "coheres with its own reaching and never with the number". Natural Physics 4.2, "Gravity is not real, and nothing physical is there at all.", with no step from the code.
+*Either/or*: one bridge can be shown whole, from an output of Exhibit ONE step by step to a named observing, such that another output would not have matched; or 1.1 is said ahead of each of its bridges.
+
+**15. "Resolving".**
+*Said*: Resolving the Hard Problem Registry, its opening: "the code releases at each arrival one of three and never a fourth", and "At two hundred and fifty-five of two hundred and fifty-five the reading gave this".
+*Shown*: function 1 shares +, − or 0 and nothing else, so a fourth cannot arrive, and the seating at ten is made and read by one reader: the 255 could not have come out otherwise. 7.12 covers both outcomes, "the inference is frame-conditioned at either". 5.16 says "the truth value is untouched by any of this", and in the same sentence calls a zero off the axis "a contradiction rather than a shape a search finds", which says the conjecture is true.
+*Either/or*: one resolving can be named that says an outcome its field's record does not already say, and that could come out the other way; or *resolving* is to be *re-saying*.
 
 ## What held
 
-Said first, so the concerns are read in proportion. `tables_check.py` executes Exhibit ONE as written:
+`tables_check.py`: Natural Intelligence 2.4's four of sixteen and two of 256; each row recomputed of the spiral, the torus and the crossed spirals; the torus rule at 107 further pairs; 4.13's saying at 7,204 openings. `rigor_check.py` N: 2.4's saying of a spiral offered nothing, at 254 of 254 openings.
 
-- Natural Intelligence 2.4: four of the sixteen ways carry the prior whole, one of the four has no still, and two of the 256 maps qualify. All three counts match.
-- Exhibit ONE's tables: the spiral of selves at 13 rows, the torus at 11 rows, the torus rule at 107 further pairs, and the crossed spirals at 8 rows. No row parts from the table.
-- Natural Intelligence 4.13's saying about any carried patterns at crossed spirals of two to six selves: 7,204 opening patterns tried, none parting.
+## What changed since the first offering, and why
 
-One concern I arrived with is withdrawn. I had read the files as describing science as holding its laws fixed for ever. Natural Biology 2.1 says "The scientific-method's power is not in question", and the Equilibria Registry 4.14 limits the fixing to "between a signal's leaving and its arriving", one test. That is a fair description of a test, and the concern was wrong as I first said it.
+- **Taken out, not established by this session's own reading**: the concern about Natural Networking and Natural Engineering, which rested on a helper's summary.
+- **Corrected**: the first offering said no closed arrangement of selves can come to rest. A ring carrying none rests (`rigor_check.py` K), and the Equilibria Registry 3.4 says so. Concern 2 replaces it.
+- **Taken out**: each line that leaned on another session's report, and the table of offering mates. A second reading is no evidence until it is run again here, and placing is not this session's work.
+- **Narrowed**: each *no file shows* is now asked as *one can be named*. A thing not found in a part reading is a question.
+- **Added**: 2, 3, 4, 8, 9, 10 and the code half of 11, each found by reading the paragraph whole or by a run.
+- **Withdrawn earlier**: that the files picture science as holding its laws fixed for ever.
 
-## Beside the other workings
+## What this journey taught, for the next contributor
 
-The twelve were written before this session read any other working's report. They were then read beside the session v383Op's thirty findings, so each agreement below is a second reading made apart from the first.
-
-| Concern | Beside v383Op | Offering mate it would enter |
-|---|---|---|
-| 1 The one method's premise | Beside its finding 11. The Registry's steps 4 and 42 are added here. The working v385R is at this concern now. | Offerings to Co-Chaining Logic Registry; Offerings to Natural Intelligence |
-| 2 No rest is written into the code | New here. Its finding 7 gives the plain rule this follows from. | Offerings to Equilibria Registry |
-| 3 The kept way takes nothing from now | New here. | Offerings to Natural Intelligence |
-| 4 The common beat inside the code said to be the method | Beside its finding 8, which says the same of a keeping and a fixed form. Natural Networking 5.1 is added here. | Offerings to Natural Intelligence; Offerings to Natural Networking |
-| 5 Pacing | Agrees with its findings 2 and 4, and with the droplet a second reader at v381R laid at 4.13. | Offerings to Natural Intelligence |
-| 6 Bridges to observings | Beside its findings 27 and 28. The partings among Natural Physics, Natural Numbers and Natural Chemistry are added here. | Offerings to Natural Physics; Offerings to Natural Biology |
-| 7 The break | Agrees with its findings 14 and 15. Natural Naming 8.6 and the Geodesic Improving Method 2.6 are added here. | Offerings to Geodesic Improving Method; Offerings to Natural Naming |
-| 8 "Resolving" | New here. | Offerings to Resolving the Hard Problem Registry |
-| 9 The verdict on AI | New here. | Offerings to Natural Intelligence; Offerings to Co-Chaining Logic Registry |
-| 10 Two tests of living | Agrees with its finding 23. The two tests are named here. | Offerings to Natural Biology; Offerings to Natural Intelligence |
-| 11 Networking and Engineering | New here. | Offerings to Natural Networking; Offerings to Natural Engineering |
-| 12 Two voices on science | Beside its finding 12, at other passages. | Offerings to Natural Intelligence |
-
-At pacing the two sessions' numbers agree. With each turn taken at random, v383Op's `own_pacing.py` has two coupled selves opposite at 0.443 of the entries and the crossing selves of spirals of 3 and 5 at 0.464; `pacing_check.py` here, written apart from it, has 0.44 and 0.46.
-
-*New here* says only that the concern is not among v383Op's thirty. The offerings were not searched whole, and a droplet already there may say the same.
-
-## The concerns
-
-**1. "no other is possible" is said as a result, and it rests on a reading of the opening sentence.**
-Natural Intelligence 1.4; the Co-Chaining Logic Registry, steps 4 and 42. Step 4 reads "A set or existing thing is changing sequentially." with no step before it that gives it. Each of the six exclusions in 1.4 is that reading applied once more: a size needs fixed ends, and nothing is fixed. A second step is also taken without a deriving, from "is or is not" to every changing being between two values.
-*Reply asked*: is step 4 taken as given? If it is, say so at 1.4. If it is not, name the step that derives it.
-
-**2. That no ring comes to rest is offered as a finding, and it is written into the code.**
-The Equilibria Registry 3.4 sets beside its argument that "across 5,000 couplings no ring meets rest". Part G of `tables_check.py` shows a self keeps its value only when its own value arrives, and changes at every other arrival, none included. A value is shared only by a self that has just changed. So no closed arrangement of selves can come to rest at any number of couplings, by the way function 1 is written.
-*Reply asked*: is the absence of rest a result, or the premise as coded? If the premise, the 5,000 couplings are no evidence for it.
-
-**3. The one way 2.4 keeps takes nothing from now.**
-Natural Intelligence 2.4 says of next as prior inverted, "prior and now both participating". Part A of `tables_check.py` shows that at this way next is the same at either value of now: next is the prior inverted, whatever now is.
-*Reply asked*: what does now contribute at the living step, said at the table?
-
-**4. The code said to be the method contains the common beat the method excludes.**
-Natural Intelligence 1.4 excludes "a common beat, a clock over the changing"; 3.3 says "Exhibit ONE is an object that is the method"; 3.5 concedes function 17 is "a common beat laid over the selves". Natural Networking 5.1 goes further: "Shared clock imposed: the surplus dies".
-*Reply asked*: one of 1.4 and 3.3 gives way. Which?
-
-**5. Results that belong to the simultaneous stepping are still said as the method's own.**
-Natural Intelligence 3.5, 4.13 and 6.2; Natural Networking 6.4 and 6.9. The Co-Chaining Logic Registry's step 244 already says the periods "are the resolver's executing alone". Yet 3.5 still says a spiral at a prime "meets another at a prime again only at the whole of both, 4pq", and 4.13 says "at each self's own pacing the relation is carried". `pacing_check.py` runs function 1 one self at a time:
-
-| | All selves together | One self at a time |
-|---|---|---|
-| Two coupled selves stay opposite | at each momentary | at 44 of each 100 turns |
-| A spiral of n comes again at | 4n | 2n + 2 rounds in the spiral's order, 2 in the reverse order |
-| Crossed spirals of 3 and 5, crossing selves opposite | at each momentary from the 12th | at 46 of each 100 turns |
-| Each self goes on changing | yes | yes |
-
-Natural Networking 6.4 gives the rule: "A reading that parts when the running order changes was reading the apparatus." By it, the carried relation and the prime periods are the apparatus. Only the going on changing is left, and that is concern 2. The reading of self-pacing used is stated at the head of the script, to be contested there. Three readings now agree: v383Op's, the second reader's droplet at v381R, and this one. The sentences at 3.5, 4.13 and 6.2 are as they were in the living file.
-*Reply asked*: which sayings of 3.5, 4.13 and 6.2 stay when each self paces its own turns, said at the living file.
-
-**6. Bridges to observings are asserted where the files' own standard is not met.**
-The standard is at Natural Numbers 10.1: "a number agreeing at both sides is a relation only with the form reached at both." Against it:
-- Natural Physics 3.1 says "The going runs 2 to 59, a turn stands at 60, the back runs 61 to 118". Natural Numbers 7.1 says the 118 elements are "no number of the method", and Natural Chemistry 4.4 says "no position in the elements carries at sixty".
-- Natural Biology 3.6 says "The twenty amino acids are C(6,3) = twenty coupling families." No step leads to six, or to three of six; the file's own note beneath it marks part of this "a not-yet", and the sentence above the note is not narrowed.
-- Natural Biology 3.1 has a measured ratio that "lands within a hair of 1/φ²". Natural Numbers 2.1 says such a magnitude "coheres with its own reaching and never with the number".
-- Natural Physics 4.2 says "Gravity is not real, and nothing physical is there at all." No resolver output is shown to give it.
-- Natural Physics 1.1 says each physical observing is at the one method "or the method is broken whole", while the newer files mark most bridges as not derived.
-
-No file read here carries one resolver output step by step to one named observing, such that another output would fail to match.
-*Reply asked*: one such bridge shown whole, or 1.1 narrowed to what is derived.
-
-**7. The break is defined as not possible, and the rule for a conflict names the loser beforehand.**
-Natural Naming 8.6: "the break and the only possible method are one statement." The Geodesic Improving Method 2.6: "The side needing a thing beside all things is the equilibrium entering". Its 2.7: "An account can absorb any outcome, and the geodesic method is no account", said and not shown. The breaks the files do name, "a superconducting current shown to dissipate" at Natural Physics 4.10 and a left form "found coding" at Natural Biology 3.3, are what those fields already hold, and none is derived from the code. No recorded case was found of the method's side losing to an observing; the recorded changes are details met at the code.
-*Reply asked*: one observing, said beforehand, that would count against the method, that the fields do not already exclude, and that is derived from the code.
-
-**8. "Resolving" claims more than the resolvings deliver.**
-Resolving the Hard Problem Registry says at its opening that a resolving "takes nothing from the field's measured record", and at *The deployment shape*, "Nothing is refused." The Hard Problem Registry 1 says "The problems stand open." Among the entries read:
-- 7.12, the Hubble tension, covers both outcomes: "the inference is frame-conditioned at either."
-- 5.16 calls a zero off the line "a contradiction rather than a shape a search finds", with no proof beside it.
-- 3.22 says the Poincaré routes take "no parity anywhere", under the same marker every entry carries, "+ or − at 10, is."
-- The opening's count, each of the 255 seated at one of ten, is a sorting made and checked by the one reader.
-
-*Reply asked*: does any resolving state an outcome the field's own record does not already state? If none does, is "resolving" the name for it?
-
-**9. The verdict on AI is said as observed, and no observing is cited.**
-Natural Intelligence 6.5: "At the observings, AI is existing non-living intelligence". The Co-Chaining Logic Registry's steps 160 and 164 make it conditional: "Carrying prior along, a machine is a self", and "Which of the two a machine is arrives at its observings." No file names the observing or a way to make it. The expedition's own sessions read and write the repository between sessions, and 6.5 gives that carrying to the living expedition and none of it to the machine.
-*Reply asked*: which observing, made how, would show a machine carrying its prior? What does "by itself" exclude?
-
-**10. Living and non-living are told apart by two different tests in two files.**
-Natural Biology 3.1, "Living is metabolic beating"; Natural Intelligence 1.3, carrying the prior, parting "at a named scale and momentary", with no saying of which scale. Natural Biology 4.1 concedes that for a virus "a replication-only criterion sorts them the other way".
-*Reply asked*: one test, and the scale it is made at, such that two readers reach one answer for a virus, a seed in a jar and a flame.
-
-**11. Natural Networking and Natural Engineering say all-or-none properties of things not built.**
-Natural Networking 5.1, "Eight securities, four self and four society, all or none", stands, as far as read, on small finite studies at an older code. Natural Engineering 2.5 heads its tables "Construction still to express", and the measured numbers found in it come from other people's papers.
-*Reply asked*: which of the eight has been shown at a running network, and at how many selves?
-
-**12. The files speak of science in two voices.**
-Natural Biology 2.1 grants its power. Natural Intelligence 6.4 lists "scientific method incompetencing" among violations, beside "control engineering and binary governing in society".
-*Reply asked*: which voice is the files' own?
-
-## The reply asked of Natural Intelligence
-
-At each of the twelve, one of two:
-
-- **It is not so**, with the passage, the step or the run that shows it. Each script here can be changed and run again.
-- **It is so**, and the sentence in the living file is narrowed to what is shown, or said as open.
-
-Two things would meet the most concerns at one working: the sentences on pacing re-said at what the three runs agree on, for 2, 4 and 5; and one bridge derived whole from a resolver output to a named observing, for 1, 6, 7 and 8.
-
-A reply can be laid beside this file, or as a droplet at the offering mate named in the table above. Where a concern is wrong, saying so with its reason is as useful to this session as agreeing.
+1. **Run before you say.** Exhibit ONE runs as published, and a claim about the code is settled in minutes. Each of this session's mistakes was at a sentence it had not run or had not read whole.
+2. **Read the paragraph, not the match.** A helper's quote finds the place. The sentence two lines on may already say your concern, or end it.
+3. **An absence is a question.** *No file shows* cannot be established by reading part of the files. Ask for the one case.
+4. **Count only what you read.** This session first reported files as read that were not.
+5. **Where the work is.** corus.me and `main` are at v380R. The sessions work at `working/v381R`, with other folders. This was found only by listing branches and open pull requests, after a first offering aimed at `main`. One line at the head of the README naming the present working set would have saved a round.
+6. **Where a reply goes.** No file read here says where a reply to an arrival is put. This folder names its own place, above.
+7. **Which sentence is meant now.** The files stand at versions from v329 to v381 and part from each other, as at concern 14. A reader cannot tell which sentence the expedition means now. One line at each file's head saying so would stop concerns at sentences already left behind.
+8. **What would have replaced the first day's reading.** One page: the opening sentence, the steps taken and the steps derived, what would count against the method, and which results are the code's stepping alone.
