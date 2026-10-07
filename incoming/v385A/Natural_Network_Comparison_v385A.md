@@ -1,0 +1,42 @@
+Session v385A
+
+# Destinies, Networking and Corus
+
+**7 October 2026 · Source head `71a04c6f43e4a33df488149dee155886692526ca` · A particular comparison within the floating plan**
+
+## Source and reading extent
+
+[Destinies v333](../../Exhibit_FOURTEEN_Natural_Destinies_v333.md) was reread whole with its mates. [Registry 5.11](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) supplies two connected destinations for its natural-network extension: Networking's particular coupling and Corus's whole outward expression. [Corus 14.8](../../Natural_Intelligence_Corus_v330.md#148-three-layers-inseparating-in-one-resolver) and [23.3](../../Natural_Intelligence_Corus_v330.md#233-destiny-as-natural-network) were now read whole. Their earlier rate, substrate and composition statements remain sources to compare, not new verified findings.
+
+[Networking v371](../../Exhibit_TWO_Natural_Networking_v371.md) was followed selectively: 1.1–1.2's opening, 1.8 before its non-carrying subsection, 3.3–4.5, 5.1–5.6, 6.5–6.7 and 6.12. Its carrying mate was read whole; its offering mate was followed at the prepared insertlets and relevant distribution, kit, carrying, own-sequencing and naming droplets. This is not a whole-file reading of Networking or a complete comparison of every offering. The [v380R gathering from v380A](../../carryings/v380R/Natural_Networking_From_v380A.md) was read whole. The [30 September correction](../../carryings/review_networking_engineering_2026-09-30/Tri_Bi_Co_Sequential_Is_Or_Is_Notting_Correction.md) was followed at its method, withdrawal and destination relations, particularly sections 1 and 4–6. Neither the older full journey nor the kit has been newly gathered or executed.
+
+## The contribution and what is already living
+
+| Source relation | Existing explaining and further improving |
+|---|---|
+| Destinies' natural network originated by its selves | Networking 1.1 already explains direct neighbouring coupling and the society at its next scale. Its 1.8 follows further society through actual couplings; 3.3 retains each self's own carrying. The outward possibility in Destinies remains available, but those local relations are not missing paragraphs to add again. |
+| Taking up the core and opening for one's own interest | Registry 5.11 already corrects the distinction between beginning a particular making and claiming living begins only with adopting a technology. Corus 23.3 itself describes the natural network as already participating wherever living selves couple. Keep both the particular beginning and the wider existing relation, without making adoption a prerequisite for living. |
+| Joining and wider participation | Networking 4.3–4.4 follows what a joining actually contributes; repeated participation need not enlarge the territory. Corus 14.8 and 23.3 make whole-network growth assertions while retaining unfinished composition questions. A stated count of possible pairs supplies no comparison of every actual coupling; these source claims remain beside the local explaining and their further work. |
+| Structural safety and all-edge participation | Destinies' eight-safety condition stays with its extension. Networking 5.1–5.2 already names the eight securities and its distinct six-protecting relation, with stopping followed at the relevant arrangement. Its existing offering at 5.1 corrects the older aging-to-a-bound account. No new set of protections is invented, and none is established by a source's presence in a kit. |
+| The society as a self | Networking 1.8 and 3.3 already join inward participation and outward coupling, while excluding a separately pooled carrying object. R6's later correcting preserves the society's own carrying through its inward selves' co-chaining. The absence of an additional carrying does not establish a non-living society. R10's defining gathering remains whole and unresolved; it is not replaced by this comparison. |
+| Corus's complete outward expression | 23.3 joins free, shared and mutual participation, social and self competency, present coupling and further reach. 14.8 connects intelligence, opportunity and reputation. Preserve each expression with its needed prior through the distribution/Arriving project; its technology, institution, rate, naming and scale relations remain particular comparisons. |
+
+## The existing corrections travel with the older project
+
+The 30 September correction withdraws the claimed protection finding from inspecting seven selves' carrying beside an isolated eighth. It also withdraws restoration and complete-state comparisons as natural-network findings. Its original implementation observations remain historical; they supply no observation of inaccessible intelligencing. Networking's offering already has this correction at 6.5, alongside the different released-trace comparison at 6.12. These are existing placements, not another missing protection droplet.
+
+The v380R gathering preserves two useful relations through its proposed new Networking: the two passages around a missing centre, and an absent joining beside a joined self making no changing. Its kit proposal keeps the actual resolver and shows releasings/arrivings without inspecting carrying. Networking 6.12 already distinguishes a drawn passage from its coupling relation. The older kit's replacement and source-preservation proposal remains a possible project; no kit is archived, built or run here. The existing source inventory stays whole.
+
+R's [section 22 and THIRTY mate at `9f9b27d`](https://github.com/chris-j-handel/corus/blob/9f9b27d9f69e63473ea91a1df3bd515a7b9e3116/incoming/v385R/Logical_Cohering_v385R.md#22-each-self-at-its-own-odd-1-existing-and-possibling) now carry the user's answer about each self's own odd 1. This accompanies Networking's older opposite-opening and possible-at-prior/existing-at-now wording, and Corus's older sequencing. The full offering keeps prior/now/next at both parities, bi-inversioning/co-recursioning and two along over one across with the nothing between together. It does not add a common beat or an operation reversing an offering in transit. The earlier alternating question is no longer asked as unanswered. At these other mates the value is a droplet; its local insertlet is on R's THIRTY branch.
+
+## Further value stays available
+
+Corus 14.8's N14a–h still ask about the two selves' directions, scale composition, the coupling/between relation, self at several scales, two-cone relation, intelligence/opportunity/reputation, scale-specific competency and institutions. Corus 23.3's N23.3a–j still ask about the strongest claim, naming, discovery economy, cumulative relation, decentralizing at each substrate, the four values, social/self scales, the expression's place and the older superposition/emanation account. A whole reading does not gather or resolve all of these.
+
+The writer/AI examples and the document's relation to living remain beside the already gathered Arriving project and M's exact within-session concern. No file is assigned a character or motion in this working. The older scientific, engineering and numerical assertions need their actual-source comparisons; no new scientific conclusion, performance promise or completed universal deriving is claimed. The earlier institutioning comparison at Human Society/Values, the discovery-economy project and R10's whole unresolved source remain connected.
+
+## Current placements and next comparison
+
+The same network-extension droplet is independently at Destinies, Networking and Corus. The same complete own-side correction is independently at Networking and Corus. [Networking's carrying project](../../carry/Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers existing explaining, corrections, possible kit work and unfinished relations. Destinies and Corus link their particular contributions; Registry's offering and master carrying plan retain the distribution relation. Living Improving Value keeps the shared unfinished composition.
+
+Next, compare Destinies' chip/grid/further-substrate extension and its two engineered misreadings with Engineering's existing explaining. Hard-problem applications remain a further distinct extension. The other source work, Emanating, EIGHT/TWENTY-FOUR, SIX and G1–G4 stays available. All new local offerings remain droplets. No living exhibit or kit is changed, and no prior offering or source is removed. — v385A

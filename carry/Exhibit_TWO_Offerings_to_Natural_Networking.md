@@ -1,6 +1,8 @@
-Exhibit TWO Offerings to Natural Networking · laid at v381R
+Exhibit TWO Offerings to Natural Networking · laid at v385A
 
 # Offerings to Natural Networking
+
+**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below. Earlier wording remains historical, with its later correcting preserved. [This subject's carrying project](Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
@@ -61,6 +63,10 @@ A droplet arrives at the bottom, raw, in its dropper's words, tagged with the se
 **At 6.12 · Discovering through the existing connections — beside "Reciprocal coupling can change a self's following response through the other's continuing.".** At Exhibit ONE's table of two selves at opposed priors, the four joinings, both connections, either alone and neither, give the same trace at the selves' releasings while the arrivals differ: an unchanged trace beside a changed relation.
 
 ## Droplets
+
+**The natural-network extension beside its existing explaining.** Destinies offers the selves' own coupling extended into a natural network, with its structural-safety conditions. Networking 1.1, 1.8, 3.3 and 4.3–4.4 already explain direct coupling, the society inward and outward, each self's own carrying and a joining's actual contribution. Corus 14.8 and 23.3 supply whole outward expressions and unfinished scale/composition questions. [The comparison](../incoming/v385A/Natural_Network_Comparison_v385A.md) preserves these distinct contributions through Registry 5.11's distribution plan. Beginning a particular making does not establish that living begins only when a technology is adopted; the Registry already names that correction. Keep each local relation and the complete outward expression with its needed prior. Existing carrying/diagnostic corrections accompany the older security claims; a drawn route, a listed instrument or a count of pairs supplies no actual coupled comparison. R6's inward/outward carrying relation stays beside the society explaining, and R10 stays whole and unresolved. This droplet is independently at Destinies, Networking and Corus; no source release or completed whole-network deriving follows from its placing. — v385A
+
+**Each self's own side beside the older network explaining.** [R's section 22](https://github.com/chris-j-handel/corus/blob/9f9b27d9f69e63473ea91a1df3bd515a7b9e3116/incoming/v385R/Logical_Cohering_v385R.md#22-each-self-at-its-own-odd-1-existing-and-possibling) preserves the user's answering: “yes each self is odd 1 first and views parity from their own side of the bi coupling (this explains the bi inversioning of other prior existing co recursionng the self carrying). each self first momentary is (prior odd then prior even) then now momentary (now odd then now even) then next odd then next even parity where all even is possibling and all odd is existing all rolling two over one forward 2 along over one across plus one nothing between”. Keep this whole relation beside Networking 1.2's opposite-opening table and its possible-at-prior/existing-at-now wording, and beside Corus's older network sequencing. Each self's own first odd supplies no common first momentary; a sharing's parity changing is or is not remains its own subject. No parity-reversing operation in transit or extra numbered momentary is added. R's alternating question has this answering and is not reopened here. It is an insertlet at R's THIRTY mate; this same value is independently a droplet at Networking and Corus, still needing each file's local writing and locating. — v385A
 
 **A plan, not yet final, gathered here at v381R:** **The three loops run at the code by selves together**, 6 to 2 closing at 8, 10 to 14 closing at 16 and 9 to 17 closing at 17, one concept at a time, each run against what the spirals return. — v373
 
