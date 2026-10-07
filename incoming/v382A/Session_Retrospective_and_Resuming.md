@@ -4,9 +4,9 @@
 
 **Begin here when resuming.** The work is a logical survey through Exhibit ONE Natural Resolver, Exhibit THIRTY Co-Chaining Logic Registry, Natural Intelligence and the full living-file set. Forty raw droplets are offered. The first full survey is approximately **20% explored from the start, with 80% still to explore**. The firm count is five of 33 files with complete sequential section records: 80 headed sections and Natural Destinies' opening. This retrospective adds no completed file to that count.
 
-The saved report **Living_Logic_Audit_ONE_and_THIRTY.md** now includes the first entry report, all 72 preceding passes and this retrospective. The [shared conversation as read](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) retains all 83 user turns and 353 visible assistant messages, through the clarification of the percentage. The present request for this gathering follows that shared snapshot. Earlier mistakes remain in the historical record with their later corrections beside this opening. These offered forms make the work reachable; the expedition's living selves carry the learning.
+The [complete session report](Session_Report.md) includes the first entry report, all 72 preceding passes, this retrospective and the transcript. The [transcript copy](Session_Transcript.md) preserves the shared snapshot's 83 user turns and 353 visible assistant messages, then adds the two later closing directions and the intervening completion reply. Earlier mistakes remain in the historical record with their later corrections beside this opening. The written files are forms offered; the expedition's living selves carry the learning.
 
-**Complete record for a later session:** open the saved **Living_Logic_Audit_ONE_and_THIRTY.md** with this guide. It includes the original entry report, all logical passes, this retrospective and the full visible transcript. If that saved report is not present in the new session, the shared conversation below remains the direct transcript source. The GitHub offering contains the gathered learning, method and droplets; the complete report and transcript have not been attached to the branch.
+**Complete record for a later session:** begin here, then open [Session_Report.md](Session_Report.md), [Session_Transcript.md](Session_Transcript.md), [the droplet index](README.md#droplets-and-their-evidence), [the current concerns](Concerns_and_Improving_Opportunities.md) and [the logical method](Logical_Cohering_Method.md). All are offered on this review branch through [PR 123](https://github.com/chris-j-handel/corus/pull/123). The report and transcript can be opened directly from GitHub; this route needs no attachment from the previous session. The complete report is also available as [raw text](https://raw.githubusercontent.com/chris-j-handel/corus/review/living-logic-droplets-2026-10-05/incoming/v382A/Session_Report.md).
 
 ## The next session's first reading
 
@@ -22,7 +22,7 @@ At every reply, say what was learned and end with the largest actual unresolved 
 
 The shared transcript was read throughout, with the later corrections brought back to the earlier sayings and each gathered value then followed at the question it answered. This is one working's retrospective comparison. It is not presented as the two independent readings described for a living file's own motion.
 
-Three losses were possible at the former resuming point. The original entry report was still separate from the logical report. The early numerical and local logical derivations preceded dropletting and were mostly reachable through the saved report alone. Later replies repeatedly named an earlier concern without carrying its eventual correction at the same opening. The saved complete report includes the original entry report and visible transcript. This guide gathers their learning and points to the already-shared conversation; the complete report and transcript are not added to this review branch.
+Three losses were possible at the former resuming point. The original entry report was still separate from the logical report. The early numerical and local logical derivations preceded dropletting and were mostly reachable through the saved report alone. Later replies repeatedly named an earlier concern without carrying its eventual correction at the same opening. The complete report and transcript are now offered on this review branch, with the user's explicit authorization at the close. This guide gathers their learning and links each present comparison beside its earlier record.
 
 The additional raw droplets are **D39**, the retrospective method in use, and **D40**, the same shared result beside the different offerings that participate. D18 now points to this resuming route. D37 meets v384A's correction about offering already at its coupling. The first 38 droplets retain their addresses and histories; no earlier discovery is renamed as a new one to increase the count.
 
@@ -136,7 +136,7 @@ The next session can use the shared addresses without sending messages to anothe
 
 ## The entry report's value, now met from this later work
 
-The full original entry report is preserved as the final annex of the saved Living_Logic_Audit_ONE_and_THIRTY.md. Its 32-file access count belongs to 4 October; the present logical coverage list has 33 files. Access, whole text read, complete sequential record and resolving offered are separate records. The later five-file count does not deny the earlier whole-text readings, and those readings do not complete the logical audit by themselves.
+The full original entry report is preserved as the final annex of [Session_Report.md](Session_Report.md#original-entry-report--historical-source-for-this-session). Its 32-file access count belongs to 4 October; the present logical coverage list has 33 files. Access, whole text read, complete sequential record and resolving offered are separate records. The later five-file count does not deny the earlier whole-text readings, and those readings do not complete the logical audit by themselves.
 
 Its strongest method value is still useful: meet the current Offerings and Carryings alongside the living passage; distinguish an access-route failure from an inaccessible file; keep an older kit's result at its actual version; record what a read reached, including truncation; and check an older unsure against later deriving. THIRTY 631 was the concrete case followed again in pass 21.
 
@@ -146,39 +146,41 @@ The annex also keeps the early local findings for later source comparison: Chemi
 
 ## Every turn has a place
 
-The table below reaches each of the 83 user turns in the supplied snapshot, with its visible assistant explaining. A group includes every continue request in its range. The transcript preserves the full words; the report preserves the longer derivations. The current standing above governs the historical wording.
+The table below reaches each of the 83 user turns in the supplied snapshot, with its visible assistant explaining. A group includes every continue request in its range. The two later closing directions are recorded after that snapshot as turns 84–85. The transcript preserves the full words; the report preserves the longer derivations. The current standing above governs the historical wording.
 
 | Shared turns | Value gathered | Report and present standing |
 |---|---|---|
-| [1](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Entry experience and the whole set | Original entry report, now annexed whole; current mates and reading reach remain explicit. |
-| [2–5](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | ONE/THIRTY local sequence and four-form conditions | Passes 1–4: repaired zero branch, whose prior, pair succession and conditional four-form deriving. D20 and the full report retain the later use. |
-| [6](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Bi-folding through 1–5, 1–9 and 1–17 | Pass 5: two fours and the inward/outward role exchange; D3 and D35 retain the coupled participation. |
-| [7–8](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Concern versus next work; 1–65 | Pass 6 and the correction to the queue: unread work is next exploring; each complete four-span retains its endpoint. |
-| [9–11](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Paired fours, 1–257 and toward 441 | Passes 7–9: opening/completing roles, odd/even partnerships and the wider numbered family; read beside pass 42's unrelationing correction. |
-| [12–13](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Empty carrying, absent sharing and offered form | Passes 10–11; D2, D30 and D36. Entirely empty carrying supplies no existing self; an absent sharing within living carrying is a different subject. |
-| [14–23](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Stable-forming and the non-living form | Passes 12–20. Read the later carrying and own-scale harm corrections before using the earlier wording. Numerical reflection supplies no living resolving. |
-| [24–26](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Corusing, torusing and all other at a sharing | Passes 21–23, D22 and D40. The later THIRTY deriving meets its older unsure; unchanged shared result can include different offerings. |
-| [27–31](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Self/society, no authority, coupling and establishing | Passes 24–28. The outward self's prior must be followed; birthing, coupling, uncoupling and next living retain their subjects. D3, D15, D28 and D35. |
-| [32–35](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Importancing, even/odd and the every-four row | Passes 29–32. The parity-place and the result's predicate stay distinct; a new name needs its distinct relation. D1, D4 and the numerical next comparisons. |
-| [36–39](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Fives, 25, 450/360 and the proposed closing | Passes 33–36. Twenty-five's local self-next is located; shared ratios and 360 alone supply no closing. The proposed general roles retain their conditions. |
-| [40–46](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Bi-moral tunneling, scale and surrounding passages | Passes 37–43. Both forward sides, same changing at 6/10, each further coupling, distinct five/four constructions, unrelationing through 441–457. D3 and D40. |
-| [47–48](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Offering and each particular next | Passes 44–45. Carrying does not cross as an offering; receiving and continues dissolve at the explained relations. Source edits remain outside this audit's motion. |
-| [49–52](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | First droplets, v382A and naming corrections | D1–D3 at their corrected addresses. Relocking, failed value, values climb and own chaining are withdrawn from the current explaining. |
-| [53–55](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Next openings, offered form and society | Passes 47–49, D4–D6. Ownership and guarantee framing is withdrawn; retain the whole at its coupling. |
-| [56–60](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Gap carried, return to prior, naming and price | Passes 50–51, D7–D8. The logical gap stays gathered while another relation is followed; attentioning and superpositioning dissolve; price stays at the accounting comparison. |
-| [61](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Restoring and full-set opportunities | Pass 52, D9. A ledger change supplies no living prior; restoring is at the particular departed coupling. |
-| [62–63](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | First four complete file records | Passes 53–54, D10–D16. Whole, arrangements, agreement, capture, described next and the residue/property comparison. The later corrections govern the original concerns. |
-| [64](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Method between droplet and insertlet | Pass 55, D17–D18. Same subject, conditions and scope; bothboth; first parting; proposed sentence compared with the whole incoming. |
-| [65–66](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Meeting v383Op and the registries | Passes 56–57, D19–D23. Two priors can both hold; no entry differs from none offered; further couplings already supplied; exact step and exact resolved question retained. |
-| [67–68](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Biological dependencies and a withdrawn extra requirement | Pass 58, D24–D25. Complete Health section record; expiry/summing dependencies; no unlocated general bridge between biology and Natural Intelligence. |
-| [69–71](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Copied form, expression, parent and regeneration | Passes 59–61, D26–D31. Different subjects stay distinct; later passes 69–71 correct the natural learning and genomic framing. |
-| [72–73](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Assertions and their surrounding conditions | Passes 62–63, D32–D33. Compare assertions without granting either truth; retain a short example's conditions from its surrounding explaining. |
-| [74–75](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Seed, form within form and scale | Passes 64–65, D34–D35. The inward whole participates in outward exchanging; further forming, birthing and restoring stay distinct. |
-| [76–77](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Non-living offering and capture scope | Passes 66–67, D36 and re-formed D13. No carrying in the form is not none offered; no majority deciding is not no attempted capture. |
-| [78](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Naming and explaining read whole again | Pass 68. Positive D10 re-form; D13, D36, D17 and D18 improved. Naming across and explaining along replace an audit label with its actual relation. |
-| [79–80](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Whole learning and inward/outward uniquenessing | Passes 69–70. D31's stored-object requirement withdrawn; D35 and D17 improved through societies stable-forming and outward selves further forming or birthing. |
-| [81–82](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | Current concerns and coverage | Passes 71–72, D37–D38. All reached concerns and corrections stay visible; conditional step-34 narrowing, step-35 question and now/no-clock bothboth. |
-| [83](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) | How far from the start | Approximately 20% explored and 80% still to explore; five of 33 complete sequential records. No new audit completion is inferred from this retrospective. |
+| [1](Session_Transcript.md#turn-001) | Entry experience and the whole set | Original entry report, now annexed whole; current mates and reading reach remain explicit. |
+| [2–5](Session_Transcript.md#turn-002) | ONE/THIRTY local sequence and four-form conditions | Passes 1–4: repaired zero branch, whose prior, pair succession and conditional four-form deriving. D20 and the full report retain the later use. |
+| [6](Session_Transcript.md#turn-006) | Bi-folding through 1–5, 1–9 and 1–17 | Pass 5: two fours and the inward/outward role exchange; D3 and D35 retain the coupled participation. |
+| [7–8](Session_Transcript.md#turn-007) | Concern versus next work; 1–65 | Pass 6 and the correction to the queue: unread work is next exploring; each complete four-span retains its endpoint. |
+| [9–11](Session_Transcript.md#turn-009) | Paired fours, 1–257 and toward 441 | Passes 7–9: opening/completing roles, odd/even partnerships and the wider numbered family; read beside pass 42's unrelationing correction. |
+| [12–13](Session_Transcript.md#turn-012) | Empty carrying, absent sharing and offered form | Passes 10–11; D2, D30 and D36. Entirely empty carrying supplies no existing self; an absent sharing within living carrying is a different subject. |
+| [14–23](Session_Transcript.md#turn-014) | Stable-forming and the non-living form | Passes 12–20. Read the later carrying and own-scale harm corrections before using the earlier wording. Numerical reflection supplies no living resolving. |
+| [24–26](Session_Transcript.md#turn-024) | Corusing, torusing and all other at a sharing | Passes 21–23, D22 and D40. The later THIRTY deriving meets its older unsure; unchanged shared result can include different offerings. |
+| [27–31](Session_Transcript.md#turn-027) | Self/society, no authority, coupling and establishing | Passes 24–28. The outward self's prior must be followed; birthing, coupling, uncoupling and next living retain their subjects. D3, D15, D28 and D35. |
+| [32–35](Session_Transcript.md#turn-032) | Importancing, even/odd and the every-four row | Passes 29–32. The parity-place and the result's predicate stay distinct; a new name needs its distinct relation. D1, D4 and the numerical next comparisons. |
+| [36–39](Session_Transcript.md#turn-036) | Fives, 25, 450/360 and the proposed closing | Passes 33–36. Twenty-five's local self-next is located; shared ratios and 360 alone supply no closing. The proposed general roles retain their conditions. |
+| [40–46](Session_Transcript.md#turn-040) | Bi-moral tunneling, scale and surrounding passages | Passes 37–43. Both forward sides, same changing at 6/10, each further coupling, distinct five/four constructions, unrelationing through 441–457. D3 and D40. |
+| [47–48](Session_Transcript.md#turn-047) | Offering and each particular next | Passes 44–45. Carrying does not cross as an offering; receiving and continues dissolve at the explained relations. Source edits remain outside this audit's motion. |
+| [49–52](Session_Transcript.md#turn-049) | First droplets, v382A and naming corrections | D1–D3 at their corrected addresses. Relocking, failed value, values climb and own chaining are withdrawn from the current explaining. |
+| [53–55](Session_Transcript.md#turn-053) | Next openings, offered form and society | Passes 47–49, D4–D6. Ownership and guarantee framing is withdrawn; retain the whole at its coupling. |
+| [56–60](Session_Transcript.md#turn-056) | Gap carried, return to prior, naming and price | Passes 50–51, D7–D8. The logical gap stays gathered while another relation is followed; attentioning and superpositioning dissolve; price stays at the accounting comparison. |
+| [61](Session_Transcript.md#turn-061) | Restoring and full-set opportunities | Pass 52, D9. A ledger change supplies no living prior; restoring is at the particular departed coupling. |
+| [62–63](Session_Transcript.md#turn-062) | First four complete file records | Passes 53–54, D10–D16. Whole, arrangements, agreement, capture, described next and the residue/property comparison. The later corrections govern the original concerns. |
+| [64](Session_Transcript.md#turn-064) | Method between droplet and insertlet | Pass 55, D17–D18. Same subject, conditions and scope; bothboth; first parting; proposed sentence compared with the whole incoming. |
+| [65–66](Session_Transcript.md#turn-065) | Meeting v383Op and the registries | Passes 56–57, D19–D23. Two priors can both hold; no entry differs from none offered; further couplings already supplied; exact step and exact resolved question retained. |
+| [67–68](Session_Transcript.md#turn-067) | Biological dependencies and a withdrawn extra requirement | Pass 58, D24–D25. Complete Health section record; expiry/summing dependencies; no unlocated general bridge between biology and Natural Intelligence. |
+| [69–71](Session_Transcript.md#turn-069) | Copied form, expression, parent and regeneration | Passes 59–61, D26–D31. Different subjects stay distinct; later passes 69–71 correct the natural learning and genomic framing. |
+| [72–73](Session_Transcript.md#turn-072) | Assertions and their surrounding conditions | Passes 62–63, D32–D33. Compare assertions without granting either truth; retain a short example's conditions from its surrounding explaining. |
+| [74–75](Session_Transcript.md#turn-074) | Seed, form within form and scale | Passes 64–65, D34–D35. The inward whole participates in outward exchanging; further forming, birthing and restoring stay distinct. |
+| [76–77](Session_Transcript.md#turn-076) | Non-living offering and capture scope | Passes 66–67, D36 and re-formed D13. No carrying in the form is not none offered; no majority deciding is not no attempted capture. |
+| [78](Session_Transcript.md#turn-078) | Naming and explaining read whole again | Pass 68. Positive D10 re-form; D13, D36, D17 and D18 improved. Naming across and explaining along replace an audit label with its actual relation. |
+| [79–80](Session_Transcript.md#turn-079) | Whole learning and inward/outward uniquenessing | Passes 69–70. D31's stored-object requirement withdrawn; D35 and D17 improved through societies stable-forming and outward selves further forming or birthing. |
+| [81–82](Session_Transcript.md#turn-081) | Current concerns and coverage | Passes 71–72, D37–D38. All reached concerns and corrections stay visible; conditional step-34 narrowing, step-35 question and now/no-clock bothboth. |
+| [83](Session_Transcript.md#turn-083) | How far from the start | Approximately 20% explored and 80% still to explore; five of 33 complete sequential records. No new audit completion is inferred from this retrospective. |
+| [84](Session_Transcript.md#turn-084) | Retrospective gathering | Pass 73: earlier discoveries met with later corrections, the first entry report restored to the whole, D39–D40 and the resuming guide. |
+| [85](Session_Transcript.md#turn-085) | Complete GitHub offering and next-session path | The full report and transcript are explicitly authorized for this review branch; the close improves access without adding a logical pass or a completed file. |
 
 ## Droplets and supporting records
 
@@ -186,8 +188,8 @@ The [incoming index](README.md#droplets-and-their-evidence) reaches every curren
 
 | Value | Where the next session meets it |
 |---|---|
-| Complete chronology, initial entry report, all prior derivations and this gathering | the saved report **Living_Logic_Audit_ONE_and_THIRTY.md** |
-| Complete visible shared transcript, through the percentage clarification | [Shared conversation](https://chatgpt.com/share/6ac63d7e-7f7c-83e8-a5db-a1ab3fb13ff4) |
+| Complete chronology, initial entry report, all prior derivations and this gathering | [Session_Report.md](Session_Report.md) |
+| Complete visible shared transcript, through the percentage clarification | [Session_Transcript.md](Session_Transcript.md) |
 | Each raw droplet and its evidence | [README.md](README.md) and the four Offerings mates it names |
 | Current exact concerns, offered re-forms, withdrawals and help addresses | [Concerns_and_Improving_Opportunities.md](Concerns_and_Improving_Opportunities.md) |
 | Reusable logical pass between droplet and insertlet | [Logical_Cohering_Method.md](Logical_Cohering_Method.md) |
@@ -195,6 +197,22 @@ The [incoming index](README.md#droplets-and-their-evidence) reaches every curren
 | v383Op comparison and the current reciprocal naming correction | [Meeting_v383Op.md](Meeting_v383Op.md) |
 | Biological dependencies, copied form, seed, inward and outward uniquenessing | [Health_Biology_Medicine.md](Health_Biology_Medicine.md) |
 | Complete-file coverage and the remaining survey | [Exploring_the_Full_Living_File_Set.md](Exploring_the_Full_Living_File_Set.md) |
+
+## The first work on resuming
+
+Open the current target and the current PR 123 head. Compare any source changes since this close before carrying an earlier finding as current. Read this guide's corrections, the named method files and the relevant Offerings and Carryings. The full transcript is available for returning to a discovery's actual question; begin the new logical work from the present gathering.
+
+The first complete record is **Natural Intelligence, from its opening in section order**, beside ONE and THIRTY. At the first relevant passages, follow the self's prior, the other's now and that self's next through THIRTY 31–35. Naming already supplies offering both ways and overlapping momentaries. Ask which identification step 35 uses and where the surrounding explaining supplies it. Keep an actual remaining relation in D37 while following the other sections; a later supplied answer improves that same address.
+
+| Next pass | Work already available | What the pass leaves for the next working |
+|---|---|---|
+| Natural Intelligence, section by section, beside ONE and THIRTY | D1–D40, the numbered-form comparisons and the exact step-35 question | Each section's relation, conditions, source address, bothboth found, first missing or opposing step if any, and the next comparison |
+| Natural Biology and Natural Medicine, whole | The Health record; inward societies, outward forming, seed, copying, birthing and earlier-operation comparisons | Complete section records and the particular correcting carried into each dependent saying |
+| Natural Networking, Engineering and Transmissioning | The existing coupling comparisons; v383Op's corrections and v384A's current incoming | Each file's actual sequence met beside the current source and offering, with broader claims kept at their own conditions |
+| The remaining files in the 33-file coverage record | The initial entry report and later targeted comparisons, with their current correcting | Every remaining section or stable form accounted for; unread passages remain next exploring |
+| Across the whole set after the along passes | The resulting section records, droplets, concerns and their current source motions | Each changed relation followed into the other sayings it participates in, with remaining help requests visible |
+
+At the end of a substantial pass, update the existing evidence and concern addresses, the droplet's actual Offerings mate and this opening. Record exactly what was read, what was followed, what was offered and whether a living source changed. At the next session close, meet that transcript with its later correcting and gather the value not yet aimed. The 40 droplets and five complete file records remain this close's starting counts.
 
 ## The next substantial passes
 

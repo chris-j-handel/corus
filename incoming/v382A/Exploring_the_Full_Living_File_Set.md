@@ -116,4 +116,7 @@ There are **28 files without a complete sequential section record in this workin
 
 ## Pass 73 — the complete session available for resuming
 
-[The retrospective](Session_Retrospective_and_Resuming.md) adds the complete session route and turn-to-value record; the saved report **Living_Logic_Audit_ONE_and_THIRTY.md** now includes the early entry report and all preceding logical passes. The old entry report's whole-text readings retain their actual reach. They do not turn into new complete sequential records. The count remains five files, 80 headed sections plus Natural Destinies' opening. This retrospective adds two raw droplets and improves the opening for a future session; it does not advance the file-coverage count.
+[The retrospective](Session_Retrospective_and_Resuming.md) adds the complete session route and turn-to-value record; [the complete session report](Session_Report.md) now includes the early entry report and all preceding logical passes. The old entry report's whole-text readings retain their actual reach. They do not turn into new complete sequential records. The count remains five files, 80 headed sections plus Natural Destinies' opening. This retrospective adds two raw droplets and improves the opening for a future session; it does not advance the file-coverage count.
+
+
+The [first work on resuming](Session_Retrospective_and_Resuming.md#the-first-work-on-resuming) names the order of the next passes and what each pass leaves at its current addresses. The complete report and transcript are now on this branch; their historical readings keep the reach recorded above.
