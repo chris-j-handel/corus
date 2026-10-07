@@ -18,7 +18,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 |---|---|---|
 | [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
-| [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now insertlet; alternating's subject |
+| [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now; each self at its own odd 1 |
 | [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–49, 169–171, 366–378 | R4 universal binary logic and its inward/outward deriving |
 | [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
@@ -71,15 +71,31 @@ The writing makes the same self's own prior and own next explicit. It identifies
 
 **What is now locally resolving.** R3 has actual prose at the needed sentence instead of only a question about which other. This supplies a connected identification using relations the files already state. Its placement needs those relations introduced in the early sequence; it records no independent derivation of the whole alternating or universal method. The earlier droplet above stays beside it because that broader sequence still needs its relations followed. The v382A D37 and v383Op C13 source records remain unchanged.
 
-**Droplet · What alternating names at this coupling · R3 onward to R4.** Step 37 says the self and the other are “changing one and then the other.” Naming 5.13 says each offers at its own sequencing. The user's newer explaining names even-parity possibling and odd-parity next existing, with momentarying proceeding whether a parity changing is or is not at one sharing.
+**Insertlet · Each self at its own odd 1 · R3 onward to R4 · v385R.** Place at steps 37–40's alternating and parity explaining, with its numbering followed at 69–83 and its along/across relation at 89–93.
 
-The needed precision is the subject of “one and then the other.” The most promising connection is that alternating names the coupled parities of possibling and next existing, with each living self's own sequencing retained. Read this beside Naming 5.49's overlapping momentaries and 5.54's between parity-changing is or is not, and the user's sections 4 and 10 in the session record. It would let 35's discovering carry into 37–40 without making one living self wait while the other acts, or requiring a changed offered parity at every sharing. Such waiting or required changing is not established as the old text's intended claim.
+> Each self is odd 1 first, naming parity from its own side of the bi-coupling. Its prior momentary is prior odd existing then prior even possibling; its now momentary is now odd existing then now even possibling; its next momentary is next odd existing then next even possibling. All odd is existing and all even is possibling, from each self's own side.
 
-**The concern for resolving together:** does “the self and the other alternating” name **possibling and next existing at their coupled parities**, with each self's own momentarying at both? The proposed connection needs its exact explaining before it is an insertlet at 37–40. This is a question about the relation those sentences name, not a question asking what outside the coupling makes it act. R10 remains gathered and unresolved. — v385R
+| This self's momentary | Odd existing | Even possibling |
+|---|---|---|
+| Prior | Prior odd, its 1 | Prior even, its 2 |
+| Now | Now odd, its 3 | Now even, its 4 |
+| Next | Next odd, its 5 | Next even, its 6 |
+
+The user supplies this relation in answer to the preceding alternating concern. Each living self has its own odd-first sequence. ONE's current Fives table places self at 1 and other at 2 in one displayed sequence; the user's explaining makes explicit that this other is also a self at its own odd 1 when parity is named from that side. The first 1 is this self's origin for the explaining, with each self at its own sequencing.
+
+**The user's full connecting offering:** “yes each self is odd 1 first and views parity from their own side of the bi coupling (this explains the bi inversioning of other prior existing co recursionng the self carrying). each self first momentary is (prior odd then prior even) then now momentary (now odd then now even) then next odd then next even parity where all even is possibling and all odd is existing all rolling two over one forward 2 along over one across plus one nothing between”
+
+**Bi-inversioning and the rolling relation stay with this insertlet.** From each self's side, the user identifies the bi-inversioning of the other's prior existing with the co-recursioning of the self's carrying. The coupled momentaries roll two over one forward: **two along over one across, plus one nothing between**. Follow that exact relation with THIRTY 92–93's along and across, 255–256's bi-inversioning-co-recursioning, Naming 3.4 and Natural Numbers 1.4. THIRTY 27 already calls the between a nothing with no third momentary. This wording gives the between its place without adding it as another parity or numbered momentary.
+
+The numbered source forms remain beside the connecting offering. Natural Numbers 1.4 describes two odd over one even and one odd over two even; Naming 3.4 distinguishes a sharing's own parity inverting from an offering surfacing at its parity. Those passages locate the further co-chaining of the user's rolling relation. This pass performs no arithmetic, executes no resolver and adds no operation changing a parity as it crosses.
+
+**The preceding alternating question has the user's resolving.** The current writing follows each self's odd existing and even possibling through prior, now and next. The new relation is carried forward instead of asking that same question again. At a particular sharing, parity changing still is or is not and carrying proceeds at either, as R2 already explains. The odd/even positions and the changed-or-unchanged offered parity keep those distinct subjects. R10 stays gathered whole and unresolved. Source record: session section 22. — v385R
 
 ### No other method of possibling next existing
 
 **Droplet · Discovering and its binary logic · R4.** The user's tightened claim is **no other method of possibling next existing**. Discovering names the method. Parity-changing possibling and existing names its binary logic: even-parity possibling with odd-parity next existing. The connecting claim is that each existing thing's changing is this method, and each existing thing is in the universal changing set.
+
+The user's further explaining at [Self and other at the coupling](#self-and-other-at-the-coupling) now gives each self its own odd 1 and the prior, now and next odd-existing/even-possibling pairs. The bi-inversioning of other prior existing and co-recursioning of self carrying, rolling two along over one across with the nothing between, supply the next connecting value to follow here.
 
 Gather the actual excluding relation at the coupling here. Steps 46–49 currently exclude an alternative by saying it would require a thing beside all existing things. Universal membership establishes the extent of the set. The co-chaining must also explain why the changing of each member is the parity-changing possibling and existing being named. An alternative next within that relation and an alternative method of possibling next are different claims; the user's tighter naming keeps the concern at the latter.
 
@@ -241,7 +257,7 @@ Bring the droplet in its own useful words, with its session or source when avail
 
 Where the relation and the writing are locally resolving, give the insertlet its actual prose and its place beside the current sentence. Say the prior it uses and which dependent explaining it improves. If a larger rewriting is still needed, keep that value as a droplet beside the locally resolving passage. These descriptions keep the work followable; they do not grade its contributors.
 
-Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. The early sequence now has the set-changing and carrying passages and a locally resolving paragraph at step 35. The next comparison is what alternating names at 37–40, beside the user's possibling and next-existing explaining. R10 remains together for another return.
+Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. The early sequence now has the set-changing and carrying passages, the paragraph at step 35, and each self's own odd-first existing/possibling sequence at 37–40. Follow the user's bi-inversioning and two-along/one-across rolling relation through the numbered forms and the universal method's next needed relation. The earlier alternating question has its answering; R10 remains together for another return.
 
 ## Sources and preserving earlier offerings
 
