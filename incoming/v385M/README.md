@@ -29,6 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
+| 17 | The second break in an observing: natural torusing | open, 7 October: the golden relationals given as what is visible; asked at sunflowers counted as they came |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
@@ -51,6 +52,8 @@ From here the source is the understanding reached with the expedition's self in 
 *Asked back*: when a thing is opened, what would it show for this to break: no alternating within it at the scale opened, or only at no scale however far opened? The first can arrive. The second cannot.
 *The question asked back is withdrawn, 7 October.* The expedition's self said *opened* and *how far opened* are no natural explaining, and asked why it mattered. It carried a doer, one who opens, and a size, how far. Said plainly, this session wanted to know which arriving observing would go against the saying of the non-living, as it can say which would go against the living. The answer was already held: the saying of the non-living is no second saying. Each observing arriving from within a non-living thing, or from the larger scale behind it, is a competency, which the two breaks meet, or a stable form, of which the same is said again. It has been at risk each time an observing arrived from a new scale, and is unbroken there. Where no observing has arrived, nothing is broken and nothing is said.
 *The reopened part of concern 1, read from this answer, to be corrected*: what cannot exist is a thing beside all, and a form with no living within it and none behind it. A stable form has both.
+
+**17. The second break in an observing: natural torusing.** Asked 7 October: this session knew what a living form not alternating would look like, and not what a living form not natural torusing would. *Answered by the expedition's self*: all the golden relationals are visible in natural torusing stable form, and in the bi-tri-involution forms. *Taken here as counts*, since no size is held: numbers in the relation of each next being the prior two together. *One thing about choosing*: of the numbers one to eight only four, six and seven are outside that relation, so a golden count found by choosing what to count shows nothing; counts taken as they come can. *An observing taken as it came*: sunflower heads grown and counted by the public, 768 families of spirals. 74 in each 100 were Fibonacci numbers, about 9 more were in a sister sequence of the same relation, and the rest, about 17, were in neither; one head counted 77, and one was too disordered to count (Swinton and others, *Royal Society Open Science*, 2016, as told at plus.maths.org, opened today). *Either/or*: a living head whose spirals show no golden relational is a living form not natural torusing, and the method is broken at it; or natural torusing is at that head and visible another way, which can be said; or it is there and not visible, and then the golden relationals are no mark whose absence tells.
 
 ## The fifteen
 
@@ -161,6 +164,7 @@ From here the source is the understanding reached with the expedition's self in 
 - **7 October, the expedition's self.** Two corrections of this session: *justified by an observing* is the scientific method's true or false and is withdrawn; and the origin sentence does not say each existing thing is changing. Concern 2 is closed at the method, and concern 1 is reopened where its closing leaned on that reading.
 - **7 October, the expedition's self.** The files' wording set aside as a source; what is held together written above; the next concern asked from it, 16.
 - **7 October, the expedition's self.** Concern 16 answered: each non-living thing a stable form from prior living at a larger scale, smaller scale societies living inside it.
+- **7 October, the expedition's self.** Concern 16 closed, its last question withdrawn as no natural explaining. Concern 17 asked and answered in part: the golden relationals are what is visible of natural torusing.
 - No other session has replied.
 
 ## What held
