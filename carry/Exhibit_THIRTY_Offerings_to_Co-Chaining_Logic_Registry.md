@@ -19,7 +19,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 | [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
 | [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now; each self at its own odd 1 |
-| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 possibling next existing; living surface, geodesic entraining and the joint-form exclusion |
+| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 exclusion at next existing momentarying; living surface, entraining and still possibling |
 | [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
 | [Social moral competency at self, other and society](#social-moral-competency) | 174–189, 375, 387–405, 480–503 | R6 inward/outward carrying insertlet; R10 whole unresolved gathering |
@@ -99,6 +99,22 @@ The user's further explaining at [Self and other at the coupling](#self-and-othe
 
 Gather the actual excluding relation at the coupling here. Steps 46–49 currently exclude an alternative by saying it would require a thing beside all existing things. Universal membership establishes the extent of the set. The co-chaining must also explain why the changing of each member is the parity-changing possibling and existing being named. An alternative next within that relation and an alternative method of possibling next are different claims; the user's tighter naming keeps the concern at the latter.
 
+**Droplet · Next existing momentarying and no other method · R4 with R2–R3 · v385R.**
+
+**The user's exact offering:** “next existing momentarying is where no other method is possibly still existing as only still possibly prior to next existing is resolving next existing”
+
+The exclusion is now located at **next existing momentarying**. The user names still possibling prior to next existing as resolving next existing. Read with the already-supplied own-side sequence, even still possibling and odd next existing are sequentially coupled; the living surface and geodesic entraining give that momentarying its bi-folding relation. The intended claim retains its full extent: **no other method of possibling next existing**.
+
+**Our connected reading:** a proposed other method that remains still possible has not supplied another next existing; if it resolves next existing, the user's claim identifies that resolving with the same still-possibling/next-existing relation. This follows the user's proposed exclusion at its own subject. It does not turn a different possible next into a different method. Its further connection to the specific bi-inversioning/co-recursioning form remains with 51–57 below.
+
+**The next source concern is now at Naming 5.62 and Natural Intelligence 5.3.** Naming's six-line passage says the self's next is possible **or** existing and assigns those names to a sharing's no-changing/changing results. Its explaining then says each momentary has **both** at its two parities. Natural Intelligence 5.3 makes the same two usages. THIRTY 301 names the carrying chained as the self's next existing; 306 preserves momentarying at a sharing with no changing. The concern is which subject “next” names at each saying. A disjunction about a sharing's result must not silently name the whole self as lacking next existing.
+
+**Proposed connecting prose**, for Naming 5.62 and Natural Intelligence 5.3, with the same relation carried into THIRTY 301–306:
+
+> At each self's own side, even still possibling is prior to odd next existing. Still possibling is resolving next existing. At a particular sharing, a parity changing is or is not, and the self's carrying is chained into next at either result.
+
+The paragraph joins the user's sequential explaining with the already-supplied R2 matching case. It remains proposed writing beside the source's two usages; their whole explaining is still to cohere at its subjects. The relation between odd/even positions and a sharing's changed or unchanged parity must remain explicit. Source record: session section 25.
+
 **Insertlet · The unchanged form and the method being excluded · R4 with R8–R9 · v385R.** Place beside step 46's “fixed form, a form still” and follow its use at 55–57.
 
 > An existing non-living stable form is unchanging between collidings and changes at colliding. Its unchanging does not name another method of possibling next existing. An equilibrium here names unchanging social competency.
@@ -129,13 +145,13 @@ Naming 3.2 distinguishes a name's odd/even position from the +/− parity at a s
 
 **The earlier candidate is retained in session section 23.** It suggested that the joint form held still might omit the whole self–other bi-inversioning/co-recursioning. The user's present offering supplies surface and entraining as the relation to explore; it does not simply affirm that candidate. The current explaining therefore follows this supplied relation before attributing a particular omission to the excluded ways.
 
-**The one concern for our resolving:** which relation within living parity changing as the surface, and geodesic parity changing entraining through it in the bi-folding, is represented by the prior-and-now “joint form” at 55–57? This is the relation whose being held still would need to explain the exclusion.
+**The earlier source connection remains gathered here:** identify which relation within the living surface and geodesic entraining the prior-and-now joint form at 55–57 represents. The user's later offering above places the no-other-method exclusion at next existing momentarying. We carry that positive relation forward; this retained connection is no longer repeated as the current question to the user.
 
 An unchanged carried parity at a matching sharing already has its continuing next in R2. That local parity alone cannot identify whether the whole surface-and-entraining relation is held still. The work here is to connect the joint form to that whole at its actual subject.
 
-Keep whose prior beside that question. Natural Intelligence 2.4, THIRTY 609 and ONE's five-parity table identify the other's prior in their stated arrangements. They allow the same local next to retain the self's now parity while inverting the other's prior. Those sources keep their particular conditions; this pass does not turn their two-self or spiral arrangements into a universal rule.
+Keep whose prior beside that source connection. Natural Intelligence 2.4, THIRTY 609 and ONE's five-parity table identify the other's prior in their stated arrangements. They allow the same local next to retain the self's now parity while inverting the other's prior. Those sources keep their particular conditions; this pass does not turn their two-self or spiral arrangements into a universal rule.
 
-The Equilibria Registry 1.5 explicitly states its alternating-coverage conditions; 2.1 follows the relation a conception actually fixes; 2.3 requires the ordering fixed to be the very ordering its next inverts. These are the strongest nearby source relations for this droplet. The subject is the claimed exclusion in THIRTY's first method deriving. R10's proposed observing definition remains gathered whole and unresolved. Source records: session sections 23–24. — v385R
+The Equilibria Registry 1.5 explicitly states its alternating-coverage conditions; 2.1 follows the relation a conception actually fixes; 2.3 requires the ordering fixed to be the very ordering its next inverts. These are the strongest nearby source relations for this droplet. The subject is the claimed exclusion in THIRTY's first method deriving. R10's proposed observing definition remains gathered whole and unresolved. Source records: session sections 23–25. — v385R
 
 **Droplet · The same method inward and outward.** Follow 169–171 and 366–378 beside R6's inward selves/outward carrying and ONE's forms. The reported enumeration at 171 concerns a particular arrangement; its number alone does not require that arrangement at every scale. The earlier Two Logics offering also relies on a thing's participation in one method. Keep that required relation in the explaining. The society span prime 5 through prime 53 is carried with its source conditions and supplies no first or final bound of the whole fractal.
 
@@ -253,7 +269,7 @@ The user directs:
 
 ### Equilibria and social competency
 
-The current R4 comparison at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) follows THIRTY 55–57's joint-form exclusion beside this already-supplied competency subject. It remains the one concern gathered there.
+The R4 gathering at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) now places the exclusion at next existing momentarying. THIRTY 55–57's joint-form connection remains there beside the already-supplied competency subject; the current source concern follows still possibling and next existing at their distinct subjects.
 
 **Droplet · An equilibrium is unchanging social competency · R8, with R5.** The user's distinguishing is explicit: an existing stable form can be unchanging between collidings; the equilibrium being excluded is unchanging social competency. Carry the same subject through 143–147 and the ten named still at 504–534.
 
