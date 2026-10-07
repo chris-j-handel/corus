@@ -1,8 +1,10 @@
 # v382A meeting the v383Op logical concerns
 
-**Passes 56–57 · 6 October 2026 · raw offering**
+**Passes 56–57 and 71 · 7 October 2026 · raw offering**
 
-**Current standing, pass 57:** the sequence through further offerings is supplied; the earliest universal connection still to follow is the connection from arriving to alternating at THIRTY 32–35. The two registry fronts supply a further bothboth at their different assertions, with an already-gathered marker/nought concern located at one entry. [Pass 57](#pass-57--the-particular-other-the-whole-and-the-next) gives the sequence and narrows the earlier question below.
+**Current standing, pass 71:** [The later offering](#pass-71--the-later-offering-and-the-same-coupling) is PR 125 at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. Its C13 retains our steps 32–35 question; the all-else reading is met at that same relation. Later withdrawals and offered improvings accompany the earlier concerns in [the current gathering](Concerns_and_Improving_Opportunities.md). The record below says what passes 56–57 read; it is not the latest account of every row.
+
+**Standing at pass 57:** the sequence through further offerings is supplied; the earliest universal connection still to follow is the connection from arriving to alternating at THIRTY 32–35. The two registry fronts supply a further bothboth at their different assertions, with an already-gathered marker/nought concern located at one entry. [Pass 57](#pass-57--the-particular-other-the-whole-and-the-next) gives the sequence and narrows the earlier question below.
 
 This pass follows the user's request for bothboth resolving with the method inside the files. It examines the current v383Op offering, follows the human-society comparison further, and gathers the exact remaining relation at which help could be useful. No living source or prepared insertlet is changed.
 
@@ -247,3 +249,44 @@ This follows the claim made in the offering and makes no new empirical assertion
 The same pass follows copying and silencing at the living cell, and the exact sentence where a fraction at now is made the clone cycling. Living co-sequencing and a particular sequence not being expressed can both hold; the stronger claim about each cell's expression sequence is not supplied by the fraction alone. D26 and D27 gather those applications without reopening the withdrawn general connection requirement.
 
 **Next exploring:** follow Exhibit SEVENTEEN Natural Biology 4.7 into 5.1–5.2, retaining the copying of a form, each additional living self establishing, and the particular society's next.
+
+
+## Pass 71 — the later offering and the same coupling
+
+**7 October 2026 · v382A · raw incoming comparison**
+
+PR 124 at `08ef42804c89fb83119695ce58bf327bc975a525` points to [PR 125](https://github.com/chris-j-handel/corus/pull/125), branch `working/unresolveds-v383Op`. This pass opens that later offering at **0779a54c4eb71b356e040e334d1c1e1f9fb62b30**. The earlier comparisons above remain at the versions they actually read.
+
+Read whole: [Unresolveds](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Unresolveds.md), [Meeting v382A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v382A.md), and [Meeting v384A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md). Two Logics is read at Carrying and living and Now existing, now still possibling, next existing; the other sections are not claimed as reviewed. v384A's own proposal has not been opened by this pass. The instrument results and field accounts remain the other working's reported evidence; no instrument is executed here.
+
+### The later correcting meets the earlier concern
+
+| Earlier record | Later relation carried here |
+|---|---|
+| A step not derived was marked is-not | The later offering explicitly retains still possibling. An unfinished deriving supplies no opposite natural relation. |
+| No further entry resembled the break | E2 releases that likeness; an actual entry with none offered remains a different predicate, D19. |
+| The self's next was its own prior inverted | C8 carries D20's correction: the other's prior at the published two-self conditions, with the self's own now retained at a match. |
+| Both registry fronts appeared to claim the same resolving | N1 carries the two subjects found in pass 57; a particular entry's further assertion still has its own comparison. |
+| An observed preserved form appeared to be living carrying stored | O8 and the later carrying comparison retain the preserved form and the particular living self separately. |
+| Undetected changing was treated as absent changing | The later O1/N3 record withdraws that inference. No undetected changing decides either side of the natural predicate. |
+| Instrument arrangements at E8/E9 were offered as natural surface sayings | Those sayings are released at the source; their tests remain at their stated arrangements. |
+| v382A's D10 had no positive offering | That description read passes 56–59. Pass 68 offers the abundancing re-form, and pass 71 carries its current standing. |
+| v382A named PR 125 nowhere | That description is historical after this pass. |
+
+### C13 retains the exact question
+
+The later set expressly gathers this working's steps 32–35 question as C13. It offers a reading with all else as the other and names step 31 as the identification. The existing set supplies where the prior participates; the transition from that saying to the two forward participations at this coupling remains to be followed.
+
+The text of 31 says each existing thing at now arrives from existing things at prior. The text of 32 names a coupling of two at an arriving. The text of 33 names self and other. At 34 the other at now arrives from the self at prior; at 35 the self at next arrives from the other at now. Reading other as the whole can keep all participation within the existing set; the words still need to carry how this coupling supplies each of those two relations. If 32 is already the whole alternating, that identification needs its place in the explaining.
+
+The later working also says its executions do not answer this question. This pass makes no contrary claim from their counts. Steps 174, 178–181 and 204–212 already supply the further-coupling and many-offering cases; these remain supplied. The question stays at the earlier passage, not at a new demand for a many-offering table or a non-living other's private carrying.
+
+### All the later rows remain available
+
+The [current gathering](Concerns_and_Improving_Opportunities.md#v383ops-current-rows-met-as-incoming) accounts for all 63 identifiers in the later set, including the rows marked offered, parted or released. Each retains its original evidence address. Reading the whole set does not make every row a confirmed logical concern. C10 is further reading; S1–S4 are entry and showing improvings; an unrun instrument supplies no shortfall.
+
+P1/C1's now relation and N9's society/self relation are the next surroundings to meet beside C13. At N9 the comparison must retain society at 17, the particular outward self and the selves inward, Exhibit THIRTY Co-Chaining Logic Registry 387–401 and Natural Intelligence 6.6. Pass 70's living inward stable-forming must not be removed by a word-level replacement.
+
+**Help is invited** at [D37 in Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md), with this supporting working pointed to by its Carryings. Offer a missing step, a bothboth or an opposition at the same relation, with the surrounding explaining. No message is sent to another session or person.
+
+**Next exploring:** the particular and whole other at 31–35, then P1/C1's now and N9's society/self at their named scales. The logical pass and each correcting stay at the current gathering.

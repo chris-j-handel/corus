@@ -1,8 +1,8 @@
 # Natural Health, Natural Biology and Natural Medicine — the logical sequence
 
-**v382A · passes 58–62, 64–65 and 69–70 · 6 October 2026 · raw incoming evidence**
+**v382A · passes 58–62, 64–65 and 69–71 · 7 October 2026 · raw incoming evidence**
 
-**Current comparison:** [Pass 70 — stable-forming inward and outward](#pass-70--stable-forming-inward-and-outward) dissolves the science expression from D31's natural explaining and follows the inward societies' living stable-forming, the outward selves further forming and new selves birthing. D35 carries that uniquenessing through the scales; D17 carries the correcting into the logical method.
+**Current comparison:** [Pass 71 — copied form and the particular living carrying](#pass-71--copied-form-and-the-particular-living-carrying) offers D29's positive explaining: copied genomic form, each self's particular carrying and the offerings at a stated sharing. The inward and outward uniquenessing of pass 70 participates throughout. [The current gathering](Concerns_and_Improving_Opportunities.md) keeps the remaining concerns, offered improvings and next exploring together.
 
 **Pass-70 correction to D31:** pass 69 made preservation of the science expression “learned bias” a condition on the natural explaining. That condition is withdrawn. Prior living participates through the inward societies' carrying and the outward selves forming; the field's describing and uncertainty remain at its own comparison. The former D31 and its reasoning are retained below as the record being corrected.
 
@@ -434,7 +434,7 @@ The pass-58 withdrawal remains. The improvement to this method is the worked dis
 
 ### D29
 
-**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology's prepared offering at 5.1 on genome doubling.** The offering says a doubled genome is the self's carrying arriving twice at each sharing and that the doubling opens nothing new at any gene's sharing. Exhibit ONE Natural Resolver and Natural Intelligence 4.2 supply the narrower relation: repeating an offered parity at the same sharing leaves its surfacing unchanged, with the other offerings retained. Carrying at 3 and offerings at 2 are different participations; copying a described sequence does not itself specify which participation repeats. Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 606 also give an additional sharing beside a prior sharing, each at its own offering. An unchanged surfacing at one sharing and an additional coupling elsewhere can therefore both hold. Follow whether the prepared sentence retains the same sharings, offered parities and prior throughout before making its one-sharing result a saying about every gene. Its later chromosome-pairing claim is a further participation, not supplied or refuted by the duplicate-parity case alone. The exact remaining step is in this sentence's extension; no additional general requirement connecting biology with Natural Intelligence is introduced. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-60--conceiving-developing-and-the-particular-self. — v382A
+**Aimed at a section, Exhibit TWENTY Natural Naming 4.3, at one subject and one relation throughout, applied to Exhibit SEVENTEEN Natural Biology's prepared offerings at 5.1, 5.5 and 9.1.** A copied genomic form participates at the couplings of living selves, each carrying its particular prior into now. The inward societies' living stable-forming participates in the outward selves further forming or birthing; each new self establishes its own carrying through those couplings. At one sharing, repeating the same offered parity, with the other offerings retained, leaves the surfacing unchanged, Natural Intelligence 4.2 and Exhibit ONE Natural Resolver's published table. A further sharing is followed at its own offerings and prior, Natural Intelligence 6.5 and Exhibit THIRTY Co-Chaining Logic Registry 606. An unchanged surfacing here and an additional coupling elsewhere can both hold. This explaining changes the prepared offering's identification of genomic doubling with a carrying arriving twice at every sharing: a copied form alone supplies neither that identification nor the saying that nothing new opens at any gene's sharing. The cell's particular living carrying also remains particular beside the copied form at 5.5. The chromosome-pairing and lineage descriptions at 5.1 and 9.1 stay at their own comparisons, with their stated uncertainty; the one-sharing case supplies no outcome for them. Follow their particular couplings next. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Health_Biology_Medicine.md#pass-71--copied-form-and-the-particular-living-carrying. — v382A
 
 D28 aims into Natural Intelligence's Offerings. D29 aims into Exhibit TWENTY Natural Naming's Offerings. D1–D27 remain as previously corrected. The gathering is twenty-nine raw droplets.
 
@@ -952,3 +952,45 @@ D31 changes at Exhibit TWENTY Natural Naming's Offerings; D35 at Natural Intelli
 **Logical standing:** D31's natural explaining now follows the inward societies' living stable-forming and the outward selves further forming or birthing. The science expression is retained only at its comparison and at the record of its dissolving. The audit's demand to preserve a learned object is withdrawn. D35 carries the same inward and outward uniquenessing at each particular self; D17 carries this correcting into the method between droplet and insertlet. No break in that fractal relation is located in this pass. D29's passage from one repeated offering to each gene's coupling remains the next written relation to explore with this correcting carried into it.
 
 **Next exploring:** Follow D29's genome-doubling passage through the societies' living stable-forming: the copied genomic form, offerings at their particular couplings, and new selves birthing. Repeated form alone names neither a repeated living carrying nor all the couplings of the evolving society.
+
+
+## Pass 71 — copied form and the particular living carrying
+
+**7 October 2026 · v382A · raw incoming evidence**
+
+This pass carries the inward and outward uniquenessing of pass 70 through D29's genome-doubling comparison. The current target is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`; this working opens at `4c996c067d4d583ae127145462ccfb69afa1cac3`. Natural Biology 5.1 is read whole, its prepared offerings at 5.1, 5.5 and 9.1 together, and Natural Intelligence 4.2–4.3, 5.1 and 6.5–6.6 at the participation followed. Exhibit ONE Natural Resolver's published surfacing and one-self tables are read as text; Exhibit THIRTY Co-Chaining Logic Registry 169–180 and 387–406 retain the particular scale and carrying. Natural Naming 4.3 and Geodesic Improving Method 2.6 supply the comparison's own method. This is a targeted logical pass, with no resolver executed and no new biological observing claimed.
+
+### The particular carrying through the copied form
+
+The prepared 5.1 paragraph identifies a doubled genome with the self's carrying arriving twice at every sharing. Its next assertion, nothing new at any gene's sharing, then uses the one-sharing repeated-parity result. The first identification supplies neither the particular sharing nor all its offerings; the second takes the local result to every gene. Natural Intelligence 5.1 retains each living self's carrying as particular. A copied genomic form does not itself duplicate that living self.
+
+The positive explaining follows the living selves and their societies. Their prior participates in now through the actual couplings. The inward stable-forming participates in the outward selves further forming; an additional self establishes its own carrying within that living. At a stated sharing, a repeated offered parity can meet the same prior and other offerings. At another sharing the offerings and prior are followed there. The copied form alone does not decide those relations.
+
+Exhibit ONE Natural Resolver already gives these published cases:
+
+| Offered at the same sharing | Surfacing |
+|---|---|
+| + | + |
+| +, + | + |
+| +, − | 0 |
+| +, −, + | 0 |
+
+The repeated + changes neither displayed surfacing. Natural Intelligence 4.2 supplies the all-or-none relation at further offerings. With the prior retained, the one-self table also supplies the same shared changing and next at that sharing. This is a local comparison at its conditions, not a count of copies deciding a society's next.
+
+### The later sentences retain their own coupling
+
+| Prepared offering | The participation to retain |
+|---|---|
+| 5.1, chromosome pairing | The further pairing described is another coupling; an unchanged surfacing elsewhere excludes none of it. The field's speculative attribution remains at that description. |
+| 5.5, cells and larger clusters | The quoted genomic change and the described society size do not by themselves say that a particular cell's living carrying doubles. Each cell's prior and its couplings remain particular. |
+| 9.1, lineage | The claim about pairing with the parent population is followed at those particular couplings; it is not derived from the duplicate-parity case. |
+
+These are next comparisons at exact sentences. This pass supplies no empirical conclusion about the named organisms. It offers the natural explaining with the copied form, each living carrying and each coupling kept explicit.
+
+### D29's offered correcting
+
+D29 above and at Exhibit TWENTY Natural Naming's Offerings is re-formed in this pass. Its prior paragraph remains at the [preceding offering](https://github.com/chris-j-handel/corus/blob/4c996c067d4d583ae127145462ccfb69afa1cac3/carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md). The new paragraph explicitly changes the genome/carrying identification and limits the repeated-offering result to its sharing and conditions. A positive improving is now offered; the source's own motion and the later particular chromosome/cell/lineage comparisons remain next work. D29 is not counted as a new droplet.
+
+The [current gathering](Concerns_and_Improving_Opportunities.md) keeps that distinction visible beside the concerns still needing a relation. It also meets v383Op's later O1 and N3 correcting: an undetected changing supplies neither absence of carrying nor a direct observing of it. This is the logical distinction recorded by that working; its field accounts have not been independently checked here. No additional general connection between biology and Natural Intelligence is asked.
+
+**Next exploring:** the early coupling relation at Exhibit THIRTY Co-Chaining Logic Registry 32–35, with help invited at D37; then the particular chromosome-pairing, cell and lineage sentences, with each copied form and living carrying retained.

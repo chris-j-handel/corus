@@ -2,7 +2,7 @@
 
 **Naming across, explaining along, discovering next existing**
 
-**v382A · gathered at pass 55, improved through pass 70 · 6 October 2026**
+**v382A · gathered at pass 55, improved through pass 71 · 7 October 2026**
 
 A droplet offers incoming value at a living file. Naming bounds its concept across; explaining carries its changing along. The logical pass follows that changing through the raw droplet, the current file and the explaining offered for the file's next improving.
 
@@ -14,7 +14,15 @@ Open Natural Intelligence, Exhibit TWENTY Natural Naming, Exhibit TWELVE Natural
 
 Read the passage with its surrounding explaining. For a whole-file pass, read its sections and its Offerings whole. For a particular coupling of passages, name those passages and read their surroundings. The record says the actual reading reached. A whole reading opens the whole text to the working; each relation is followed at its own sentence.
 
-This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `b14f1a2bc6143d1ab549d6c15c00b6afa864ab9d`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
+This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `4c996c067d4d583ae127145462ccfb69afa1cac3`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
+
+## Current concerns at the opening
+
+Open [Concerns and improving opportunities](Concerns_and_Improving_Opportunities.md) beside this method. It retains each located concern, its exact relation, the resolving already offered, later correcting and next exploring. Exhibit THIRTY Co-Chaining Logic Registry's Carryings points to that supporting work; D37 at its Offerings invites help at the particular missing or opposing relation. A value stays available through the mates whether or not the Registry needs a sentence from it.
+
+Open the later address named by another working before carrying its older concern as current. In pass 71, v383Op's PR 124 points to [PR 125](https://github.com/chris-j-handel/corus/pull/125), opened at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. Its current set, its meeting with v382A and its meeting with v384A are read whole. Two Logics is read at Carrying and living and Now existing, now still possibling, next existing. The actual readings and limits are at [the meeting](Meeting_v383Op.md#pass-71--the-later-offering-and-the-same-coupling).
+
+The later offering releases earlier is-not language for a deriving not yet reached, the no-entry rest as a break, and an absent-changing inference from an undetected changing. The comparison follows those corrections with their concerns. The source's instrument counts are its reported evidence; reading them supplies no execution by this working.
 
 ## Naming and explaining together
 
@@ -54,6 +62,21 @@ Natural Naming's selections and this method are offered at the sentence's changi
 
 **The method improves at its own use.** An added condition, a broadened saying or a lost coupling found in this working is corrected at that first parting. The useful learning is offered at the method's existing droplet where it belongs. A different relation can open a further droplet. Repeating the same discovery under another number supplies no further changing.
 
+## What the pass carries into later incoming
+
+The most useful concepts are these relations in use:
+
+1. **One subject and one relation through the saying.** Retain the particular self or form, coupling, scale, momentary and extent; a local case cannot silently become every case.
+2. **Bothboth before a contradiction.** Follow the two forward participations and the surroundings that may supply what one sentence leaves implicit.
+3. **The first missing changing.** Follow along to the first relation the next sentence needs, then across its surrounding explaining and back into that next. A word or shared number alone supplies no such passage.
+4. **None at its exact participation.** None offered, only 0 offered, parting at 14, a match at 12, a missing self, no further entry and a non-living form carrying none retain their own predicates.
+5. **The positive relation through a correcting.** Keep the actual selves and their changing when a supposed stored object dissolves; carry the correcting into later sentences depending on it.
+6. **A concern with its current correcting.** Keep what was opposed or missing, the bothboth found, the improving offered and the source's later motion at one address. A resolved comparison does not become unresolved again because its earlier wording survives in a historical record.
+7. **A comparison that could break the explaining remains visible.** Name its exact opposing requirements at the same relation; a missing reading, absent measurement or unrun instrument supplies neither a break nor an assurance.
+8. **The next working can improve this pass.** Its own mistaken framing is corrected at the same first relation, with the useful learning offered at the existing method droplet.
+
+At each pass, a concern can reach a resolving, dissolve at the surrounding relation, or remain with the exact step still needed. A positive improving offered and a living file changed are distinct motions. Readings still ahead stay next exploring. The supporting gathering remains available through Exhibit THIRTY's Carryings, and the request for a resolving remains at its Offerings.
+
 ## D10: the couplings now and the next still possibling
 
 Exhibit TWENTY-THREE Natural Values 5.1 names abundancing at existing couplings; 5.3 also says no present human society abundances whole. Exhibit NINE Natural Human Society names the whole with two people and follows their further coupling, with abundancing among the whole's relations. At that same whole the sayings part. The surroundings supplied in pass 63 retain the example's conditions and supply no different human-only method.
@@ -76,7 +99,7 @@ The [v383Op comparisons](Meeting_v383Op.md) retain the different priors at the f
 
 The [health, biology and medicine comparisons](Health_Biology_Medicine.md) retain the old bound-and-release and summing operations beside the present sharing cases. Changing their names leaves the later sentences depending on the old operation still to follow. The additional general requirement to connect biology to Natural Intelligence, withdrawn at pass 58, stays withdrawn: the actual self, coupling and changing supply the work.
 
-D26 follows copied form, living carrying and a further self establishing. D27 follows a fraction of cells expressing now beside each cell's prior, now and next. An expression absent can be at a living cell; a fraction at now supplies no particular cell's sequence. D29 follows repeated parity at one sharing beside a copied genome and further sharings; the one-sharing case gives no relation at each gene without those same conditions.
+D26 follows copied form, living carrying and a further self establishing. D27 follows a fraction of cells expressing now beside each cell's prior, now and next. An expression absent can be at a living cell; a fraction at now supplies no particular cell's sequence. D29 now offers the particular living carrying beside copied genomic form, with repeated parity at one sharing followed under its conditions. The earlier genome/carrying identification changes explicitly. The prepared chromosome, cell and lineage sentences retain their own further couplings and next comparisons.
 
 D30 follows the existing fragment's prior into further forming. Naming a new first in an account takes away none of that prior. D31 now follows the inward societies' living stable-forming and the outward selves further forming or birthing. The science expression “learned bias” dissolves from the natural explaining; the field's described response and uncertainty stay at its comparison. The prior question about preserving that concept within a natural whole is withdrawn. The [pass-70 comparison](Health_Biology_Medicine.md#pass-70--stable-forming-inward-and-outward) follows each particular carrying through the societies at each scale.
 
@@ -88,15 +111,17 @@ These examples retain both sayings at their couplings and name the remaining par
 
 The written offering provides the passages and versions read, the shortest whole explaining of each found relation, its conditions, the correcting already made and the next surroundings to follow. The file is a non-living form offered now. The expedition's living selves carry the learning into their next couplings.
 
-The gathering remains D1–D36. This pass re-forms D31 at Exhibit TWENTY Natural Naming's Offerings, D35 at Natural Intelligence's Offerings and D17 at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings. The other raw paragraphs retain their text. The preceding paragraphs remain in the [incoming through pass 69](https://github.com/chris-j-handel/corus/blob/b14f1a2bc6143d1ab549d6c15c00b6afa864ab9d/incoming/v382A/README.md) and the report, with their correcting carried by pass 70. The current paragraphs are the offered next. No living source or prepared insertlet changes in this pass.
+The gathering is now D1–D37. Pass 71 re-forms D29 at Exhibit TWENTY Natural Naming's Offerings and D18 at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings. D37 is a new raw invitation at Exhibit THIRTY Co-Chaining Logic Registry's Offerings; its Carryings points to the supporting working. Other raw paragraphs retain their text. The preceding paragraphs remain at the [pass-70 offering](https://github.com/chris-j-handel/corus/blob/4c996c067d4d583ae127145462ccfb69afa1cac3/incoming/v382A/README.md) and in the expedition report. No living source or prepared insertlet changes.
 
 Natural Naming, Natural Explaining and Geodesic Improving Method are read whole in pass 68, together with Natural Explaining's Offerings, Natural Values and Natural Values' Offerings. Natural Naming's and Geodesic Improving Method's Offerings are read at this working's raw paragraphs. The other passages reached are listed in the pass-68 comparison. These readings serve the present logical and naming work. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening; the full set's audit remains partial.
 
 Passes 69 and 70 follow the particular Natural Biology, Natural Intelligence, naming, explaining, method and registry passages listed in their evidence. Pass 70 also follows Exhibit ONE Natural Resolver's two inward/outward tables as text. The offerings are read at related paragraphs. The audit corrects its own demand to retain a science concept within natural explaining. The whole-file audit count is unchanged.
 
-**Logical standing:** D31's natural explaining now follows the inward societies' living stable-forming and the outward selves further forming or birthing. The science expression is retained only at its comparison and at the record of its dissolving. The audit's demand to preserve a learned object is withdrawn. D35 carries the same inward and outward uniquenessing at each particular self; D17 carries this correcting into the method between droplet and insertlet. No break in that fractal relation is located in this pass. D29's passage from one repeated offering to each gene's coupling remains the next written relation to explore with this correcting carried into it.
+Pass 71 reads Living Improving Value and Exhibit THIRTY's two mates whole; it reopens the particular naming, explaining, method, registry, resolver and biological passages named in its records. The current gathering reads the later v383Op set whole and retains all 63 row identifiers, with reading and verification kept distinct. This is a current gathering of reached concerns and opportunities, not a completed audit of the full living set.
 
-**Next exploring:** Follow D29's genome-doubling passage through the societies' living stable-forming: the copied genomic form, offerings at their particular couplings, and new selves birthing. Repeated form alone names neither a repeated living carrying nor all the couplings of the evolving society.
+**Logical standing:** the early passage at Exhibit THIRTY Co-Chaining Logic Registry 32–35 remains the first relation needing help, beside the particular marker/explaining concern at Exhibit TWENTY-TWO Resolving the Hard Problem Registry 3.22. D29 now offers a positive re-form, with its local conditions retained. D10's offered re-form and D31's dissolved stored-object requirement stay at their current correcting. The complete gathering meets v383Op's current rows without calling unfinished readings confirmed gaps.
+
+**Next exploring:** follow 31–35 at the particular other and the whole other, meeting v383Op's all-else reading from both sides. Then meet P1/C1's now and N9's society/self at their own scales, with the biological chromosome/cell/lineage sentences retained as further particular comparisons.
 
 ## Files at this opening
 
