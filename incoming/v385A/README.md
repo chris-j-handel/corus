@@ -16,6 +16,8 @@ Session v385A
 
 **The floating plan:** [Living File Registry's offering mate](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) now gathers exhibit-originating, combining, title/subtitle, clustering and mate-method opportunities. Projects are available beside their living subjects through offering and carrying mates; Living Improving Value retains unlocated and shared value. The [user's further direction](Reordering_Plans_v385A.md#the-floating-plan-at-the-registrys-offering-mate) and the concrete Illustrating gathering carry this relation into our current method.
 
+**Possibling projects inside the carryings:** the user's further direction places the editable [master file-changing plan inside Registry's carrying](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a), with exhibit-level droplets still at its offering mate. The plan may change continually and may never be implemented. [AI arriving, experience and orienting](../../carry/Carryings_of_Natural_Arriving.md#ai-arriving-method-experience-and-orienting--v385a) now gathers at Natural Arriving's two mates. Existing sources and droplets can participate in several possible projects; their grouping supplies no grade, required order or actual resolving. The [exact user direction](Reordering_Plans_v385A.md#the-master-plan-inside-the-carrying-mate) is preserved with the reordering comparisons.
+
 ## The user's correction
 
 The following is the complete correction offered in this conversation on 7 October 2026. It corrects this session's earlier descriptions of rawness, grading, a file's motion, and the need for a particular aim before something can be a droplet.

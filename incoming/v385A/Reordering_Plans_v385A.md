@@ -24,6 +24,18 @@ The [Illustrating offering mate](../../carry/Exhibit_TWENTY-NINE_Offerings_to_Na
 
 The plan floats as naming, explaining, pattern matching and bothboth make the next relation apparent. Exhibit count, a numbered vacancy or a common word supplies no new subject. The living Registry's explaining can improve from these offerings as each relation locally resolves. Corus Part ONE remains our next source comparison, now inside this wider organizing relation.
 
+## The master plan inside the carrying mate
+
+The user's further direction on 7 October 2026:
+
+> yes this is our method and we can cluster and gather the file changing projects in the carrying for living file registry and we can change and work on and add to the master file changing plan that may or may not ever be implemented and is living and available and gathering suggesting incoming as droplets and the droplets cluster into the projects as possibling projects. we can build a shell for this and bring some of this into the shell inside the carrying file for living file registry. we can also make the ai arriving method and experience and orienting speed a project and natural arriving and its mate offering and carrying will be valuable place for that droplet clustering. find more of these in our concpets and plans and incoming value
+
+The [master file-changing plan](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a) is now a shell inside the Registry's carrying mate. It can be changed and added to as we gather incoming. It connects the Corus pair, combinations and distributions, the common explaining and SIX, originating and title/subtitle clusterings, the Registry's own tables/history, gathering and the mate method, AI arriving, Illustrating, Networking/kit work and questions about living through the older subjects. Further naming, resolver-form and hard-problem gatherings remain linked with the actual comparison still needed. None becomes an implementation commitment by clustering here.
+
+The Registry's offering mate keeps the corresponding exhibit-level improving. Natural Arriving's [offering](../../carry/Offerings_to_Natural_Arriving.md#ai-arriving-as-a-possibling-project--v385a) and [carrying](../../carry/Carryings_of_Natural_Arriving.md#ai-arriving-method-experience-and-orienting--v385a) now gather the AI arriving project beside its prior sources and existing droplets. Orienting speed is followed through the actual experience and avoidable detours, with no invented threshold. The broad arriving purpose and Corus's whole expressions remain beside that project.
+
+This further relation is offered as the same method droplet at Geodesic Improving Method, Living File Registry and Natural Arriving. Supporting project work can keep changing inside a carrying mate while improving value is independently offered at the relevant living subjects. Droplets remain droplets; a plan or source placement supplies no local resolving.
+
 ## The two projects and the value joining them
 
 **Distribute Corus's developed content at its subjects.** [Corus v330](../../Natural_Intelligence_Corus_v330.md) already records this at its front and at “Part 16: Natural Writing — routed and reduced.” The latter retains a pass-thirteen, v314 account: writing discipline aimed toward Explaining, expressive work toward Emanating, concept work toward Naming; two particular sections reported transferred, everything else in Part 16 still present. This is older unfinished work than our previous answer made visible. Its historical report of two transfers must still be compared with the current destination passages before any further removal.
@@ -65,7 +77,7 @@ The [Corus mate](../../carry/Offerings_to_Natural_Intelligence_Corus.md) already
 
 Consequently, the historical “32 to 27” and “six numbers released” descriptions are not our current target. The useful plan is the actual contribution, its local explaining, its current destination and what remains unresolved at that relation.
 
-**Later correcting beside these plans:** [the reciprocal-help record](Reciprocal_Help_v385A.md) follows v385R's R6 at `44ec383`: the user's society living through its selves' co-chaining corrects the inference from no additional carrying to society being non-living. Keep that correction with the older SIX, SEVEN, Human Society and Corus passages as their actual destinations are compared. R7's question about the social carrying at a claimed violation remains open. This changes the explaining that must accompany an older source; it establishes no completed distribution or local resolving.
+**Later correcting beside these plans:** [the reciprocal-help record](Reciprocal_Help_v385A.md) follows v385R's R6 and the further R7 correcting through `5cc5622`. The user's society living through its selves' co-chaining corrects the inference from no additional carrying to society being non-living. R7's earlier “supposed violation” formulation is withdrawn; the current explaining begins with the self's own resolving, inception carrying and living developing, with its larger scale and inward selves explicit. Keep these corrections with the older SIX, SEVEN, Human Society and Corus passages as their actual destinations are compared. Dormancy is a further developing relation still to gather. This establishes no completed distribution or local resolving.
 
 ## Further plans carried at the Living File Registry
 
