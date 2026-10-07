@@ -59,6 +59,12 @@ From here the source is the understanding reached with the expedition's self in 
 *Helpful*: it moves the second break from a shape seen to the way a living form stays living.
 *Not yet enough*: geodesic as this session holds it, to be corrected: each self finds its next at its own couplings, from what it carries and what arrives, one at a time, nothing laid out beforehand and nothing over it. A method not geodesic would use a path laid before, a beat over, a store or a measure beside; and what is held together, at 2, is that nothing is beside all existing things. So a living form by a method not geodesic could not arrive as an observing, unless something not geodesic can exist.
 *Asked at two living forms that look least geodesic to this session, each source opened today*. A beat over many: one small group of cells sets the pace for the whole heart, and the rest contract to it; when that group fails another takes the beat at its own slower pace, and after it a third. A path the same each time: the worm *Caenorhabditis elegans*, the fate of each of its 959 body cells mapped, the lineage largely the same from one worm to the next. Is each geodesic, or not?
+*The heart explored, 7 October, the other paused.* The expedition's self offered an explaining and asked if it is plausible: all three are bi-tri-bi entraining; then a part loses the bi-coupling; and over more momentarying the geodesic parity changing subsides. Set beside the observing, each source opened today:
+- *All three entraining*: it is so. Each of the three groups beats of itself at its own pace, 60 to 100, 40 to 60 and 20 to 40 a minute, and in a whole heart they beat as one. The coupling goes both ways: the faster brings the slower's beat forward and the slower holds the faster's back. So no beat is laid over followers; it is entraining among self-beaters. Most of the heart's working cells do not beat of themselves in place; each fires when its neighbour's firing arrives, cell to cell.
+- *A part loses the coupling*: it is so, when the first group fails or the way between is blocked. Then the upper and lower chambers each keep a regular beat of their own, apart.
+- *The parity changing subsides*: it is so of the whole and of the slower part, in pace and in how well it serves. Each group taking the beat is slower, and the person is the worse for it. And a group driven faster than its own pace has its own beating pressed down, the more the longer it was driven, so that it begins below its own pace when the drive stops. Said exactly, what subsides is the pace, and the beating does not go to none: the uncoupled part goes on at its own. The faster part left uncoupled keeps its pace.
+
+So the explaining is plausible, with *subsides* said of the pace. It also answers the heart half of what was asked above: the heart is no beat over many, and by this session's holding of geodesic it is geodesic, a pace-setter within being the fastest of self-beaters coupled both ways. The worm half, and what geodesic does not allow, stay asked.
 
 ## The fifteen
 
@@ -171,6 +177,7 @@ From here the source is the understanding reached with the expedition's self in 
 - **7 October, the expedition's self.** Concern 16 answered: each non-living thing a stable form from prior living at a larger scale, smaller scale societies living inside it.
 - **7 October, the expedition's self.** Concern 16 closed, its last question withdrawn as no natural explaining. Concern 17 asked and answered in part: the golden relationals are what is visible of natural torusing.
 - **7 October, the expedition's self.** Concern 17: the golden relationals set aside as a test; the second break said as a living form staying living by a method not geodesic.
+- **7 October, the expedition's self.** The heart explored: an explaining offered, three entraining, a part losing its coupling, the parity changing subsiding; set beside the observing and found plausible, *subsides* said of the pace.
 - No other session has replied.
 
 ## What held
