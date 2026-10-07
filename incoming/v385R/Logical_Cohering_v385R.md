@@ -6,9 +6,9 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, eight locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, nine locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current concern is at section 23, beside the user's resolving in section 22.** Each self's own odd-first existing/possibling sequence is retained. The next comparison asks what the joint form named still at THIRTY 55–57 omits, while an unchanged parity at a sharing participates in living carrying. R10 remains unresolved for returning.
+**The current relation and concern are at section 24.** The user names living parity changing as the surface that geodesic parity changing is entraining through in the bi-folding. A local sentence now receives that identifying beside THIRTY 445–450. The remaining connection is which relation within this bi-folding the prior-and-now joint form at 55–57 represents. Each self's own odd-first sequence and R2's continuing carrying remain with it. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -780,6 +780,8 @@ These are opportunities at their current source sentences. The change made here 
 
 ## 23. The joint form at the no-other-method exclusion
 
+**Later value at section 24:** the user supplies living parity changing as the surface through which geodesic parity changing entrains in the bi-folding. The candidate and question below retain their historical standing; the current receiver follows the new relation.
+
 **The next large concern is at THIRTY 55–57, where a joint form named still is used to exclude other candidate ways of carrying prior.** This follows the user's own-side parity explaining into R4's no-other-method claim. It does not repeat the answered question about alternating, ask the user to restate R8's equilibrium naming, or resume R10's proposed definition of living.
 
 ### The first local correcting is already supplied
@@ -829,3 +831,40 @@ The insertlet and this one concern are together under “No other method of poss
 This pass reads THIRTY 41–62, 138–149, selected 368–378 and 603–610; Natural Naming 3.2 beside the already-read 3.4 and 5.62; and the Equilibria Registry's first two parts through 2.4, with 1.5 and 2.1–2.3 followed at the exact relation above. The source includes older vocabulary and claims corrected by R6, R8 and R9; those older assertions do not override the user's current explaining. The earlier v383Op C9 and C14 records were compared at their retained scope.
 
 All seven preceding v385R insertlets, the earlier offering body and the full R10 gathering are preserved. R10 remains unresolved, including its proposed observable-living naming. No source exhibit or other branch is changed, no resolver is executed and no private carrying is inspected. — v385R
+
+## 24. Living parity changing as the surface, geodesic parity changing entraining
+
+**The user supplies a positive relation for following the method through the bi-folding.**
+
+> living parity changing is the surface that geodesic parity changing is entraining through in the bi folding
+
+Living parity changing names the surface. Geodesic parity changing names what is entraining through that surface in the bi-folding. The surface itself is living parity changing. This is the user's new identifying for the existing surface, method and entraining passages.
+
+### The source relations receiving this explaining
+
+| Source place | Relation already written | Value of the user's sentence there |
+|---|---|---|
+| THIRTY 440–450, especially 445, 448 and 450 | Co-linear recursioning along; geodesic bi-moralizing across; surface and crossings in one bi-folding form; entraining at 12. | Explicitly names living parity changing as the surface and geodesic parity changing as entraining through it. |
+| ONE's name and full table at 12 | The self's prior carried into now along the unrelationing path through the between, the changing is or is not. | Locates entraining at the living self's prior meeting now. |
+| Natural Naming 5.40, beside 3.2–3.4 | Set momentarying and each existing thing entraining through the between are the one method; parity positions and the parity at a sharing retain their subjects. | Connects the newly named living surface with the wider momentarying/entraining explaining while preserving each participation. |
+| Natural Intelligence 6.1 and Geodesic Improving 5.3 | Surface and crossings in one form; method and surface inward and outward of each other. | Carries the sentence toward Natural Intelligence and the same method at the file set. |
+
+These source passages were followed at their actual wording. Their older opening/completing vocabulary remains in the sources; the new writing uses the user's natural naming.
+
+### The local writing in THIRTY's offering mate
+
+> Living parity changing is the surface that geodesic parity changing is entraining through in the bi-folding.
+
+The sentence is placed beside THIRTY 445–450 in the R4 receiver, with the exact user offering beside it. It is the ninth locally resolving insertlet: its local work is identifying the surface and entraining where the source already joins them. Its connection back to the earlier joint-form exclusion remains with the droplet at 51–57.
+
+The user's own-side parity sequence from section 22 remains whole. So does R2: a carried parity can be unchanged at a sharing while carrying proceeds into next. The new surface-and-entraining naming does not itself assign odd/even exclusively to one and +/− exclusively to the other. Neither source nor user sentence supplies that identification here.
+
+### The joint form now has a more precise receiving relation
+
+Section 23 proposed that a joint form held still might omit the whole self–other bi-inversioning/co-recursioning. That was the assistant's candidate. The present user sentence gives the positive relation through which to explore it; it is not recorded as agreement to that earlier candidate.
+
+**The one concern now is the identification at THIRTY 55–57: which relation within living parity changing as the surface, and geodesic parity changing entraining through it in the bi-folding, is represented by the prior-and-now joint form?**
+
+This asks what the early joint form names in the fuller explaining already being carried. It allows the exclusion to be followed at that exact relation. The unchanged carried parity at one sharing already has its next in R2; that local parity alone does not identify whether the whole surface-and-entraining relation is held still. The three rejected candidate ways therefore still need their connection to this living relation expressed before their exclusion carries the universal conclusion.
+
+The new identifying and this remaining connection are together in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md). The contents now point to living surface and geodesic entraining at the no-other-method claim. The preceding eight insertlets and all earlier offerings remain available. **R10's entire defining gathering remains unchanged and unresolved for our return.** — v385R
