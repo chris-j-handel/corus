@@ -980,3 +980,5 @@ The complete [retrospective](Session_Retrospective_and_Resuming.md) accounts for
 ## Session close — the complete record on GitHub
 
 The user explicitly authorized the complete report and transcript for GitHub after the retrospective. Both are now offered here, alongside the resuming guide and the earlier incoming. This close adds no logical pass and no new droplet: D39's access is improved, and D1–D40 retain their existing places. The current corrections govern the historical report and transcript. The first full Natural Intelligence record is next, with the exact THIRTY 35 relation carried beside its supplied surroundings.
+
+The complete transcript stays whole at its own linked address, allowing the report and transcript to open separately through the shared file method. The logical report retains every pass and the original entry annex.
