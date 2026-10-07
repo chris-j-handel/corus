@@ -76,6 +76,12 @@ All four Destinies extensions now have bounded destination comparisons. Their ac
 
 **Later correcting for the continuing plan.** [The next-existing check](../incoming/v385A/Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) follows R through `19af4d8` and M through `01645ca`. The earlier joint-form question above remains source work; the current question is the self's next existing beside a sharing's result at Naming 5.62/NI 5.3. That correcting accompanies all four affected subject mates. M's stable-form “guiding” and carried/arriving-parity withdrawals remain with the next common-core comparison. These corrections preserve the earlier plan and source versions without supplying completed local resolving or new file changes. — v385A
 
+### Common core and structural conditions at their subjects · v385A
+
+[The further Destinies comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) now links [NI's common-coupling project](Carryings_of_Natural_Intelligence.md#common-coupling-and-structural-conditions--v385a) and [Naming's protecting/subject project](Exhibit_TWENTY_Carryings_of_Natural_Naming.md#protecting-and-the-subjects-of-the-common-naming--v385a). The earlier common explaining already present is located; old selecting/summing wording is not restored through distribution. The eight/four descriptions retain their distinct subjects and existing v379 concerns. Corus 17.2/23.0's different lists and N17.2b–d remain further comparisons. M's correcting about stable form guiding nothing and R's current next-existing relation travel with these older sources.
+
+Destinies' contributions now all have bounded comparison routes. Actual local writing and complete distribution remain open; the plan may change or never be implemented. Next source work follows the existing v379 protecting/three-betweens relation, with Emanating, EIGHT/TWENTY-FOUR, SIX, Corus/Arriving and G1–G4 still connected. — v385A
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its earlier sayings and addresses. Its motion language, standings and claims of completed gathering describe that source snapshot; the current [v385A method](../incoming/v385A/README.md) governs this working. Supporting work now includes the editable project gathering above. The earlier `incoming/v381R/` report is available at [carryings/v381R](../carryings/v381R/).

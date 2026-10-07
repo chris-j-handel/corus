@@ -1,6 +1,16 @@
-Natural Intelligence Carryings · gathered at v381R
+Natural Intelligence Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence
+
+## Common coupling and structural conditions · v385A
+
+[The Destinies comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) follows existing NI 6.1–6.4 coupling and social explaining beside Destinies' core, and NI 4.10 beside its structural conditions. The two comparison droplets remain at this offering mate, Naming, Destinies and Corus. The earlier v379 three-betweens concern is already here; its original user sayings and the assistant's changing mappings are located in the report. Follow that source with Naming's protecting concern and R's later next-existing distinction. No equal-count mapping or completed protection follows from grouping them.
+
+Registry retains the possible distribution; the full outward expression remains at its Corus comparison. R10 stays whole and unresolved. These are supporting source comparisons, not a rewrite of NI or a complete gathering of its incoming. — v385A
+
+## Earlier source inventory · retained from v381R
+
+The following inventory remains whole as its historical source. The [v385A method](../incoming/v385A/README.md) governs the project above; source presence is not complete gathering or local resolving.
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

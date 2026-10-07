@@ -51,3 +51,7 @@ This improves our managing by making each claim of carrying checkable at its sou
 ## Reciprocal help retained
 
 The first v385A exchange remains [the comment on PR 128](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6042397480). Its source was v385R's corrected report at `446d7c6`, including the withdrawn opening/completing paragraph. The scheduled exchange now follows the earlier-incoming priority. No new message was sent during this comparison. Current-session reports are not the next extraction task.
+
+## Further older-source comparison · v385A
+
+[Destinies' common core and structural conditions](Common_Core_Comparison_v385A.md) now have a bounded comparison. v373's old-code and differing-four-value concerns, v378's common-method/destiny source and v379's exact protecting/three-betweens sayings are compared to existing NI/Naming/Corus passages and offerings. Their presence at mates is recorded as existing value, not fresh missing droplets. Full v379 source comparison remains next; G1–G4 and the wider earlier incoming remain active, neither complete nor replaced by this particular project.

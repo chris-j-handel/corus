@@ -1,6 +1,16 @@
-Exhibit TWENTY Natural Naming Carryings · gathered at v381R
+Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
+
+## Protecting and the subjects of the common naming · v385A
+
+[The comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) locates Naming 1.1–1.3's existing care, concept-boundings and coupling beside Destinies. Its existing v379 protecting droplet and NI's three-betweens droplet retain the actual user offerings. The four concept-boundings, four across connectors, eight even-name bi-couplings and older inside/outside readings each need their own subjects kept explicit. The new structural comparison links the existing concerns; it does not copy them as newly missing value.
+
+R's later 5.62/NI 5.3 concern and M's stable-form guiding withdrawal accompany the common-core comparison at the offering mate. The next source comparison follows the v379 user sayings and later correcting; the older manuscript and every earlier offering stay available. No existing local droplet is removed by this project grouping. — v385A
+
+## Earlier source inventory · retained from v381R
+
+The following inventory remains whole as its historical source. The [v385A method](../incoming/v385A/README.md) governs the project above; source presence is not complete gathering or local resolving.
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

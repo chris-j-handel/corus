@@ -26,6 +26,12 @@ The hard-problem extension now has the further comparison below, preserving each
 
 All four extensions now have bounded comparisons; none of that declares their complete local receiving. The common core and structural-safety relation are next beside Natural Intelligence and Naming, with the source whole and each destination's needed prior preserved. — v385A
 
+## The common core and structural conditions · v385A
+
+[This further comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) now follows Destinies' common core, structural conditions and closing beside selected NI, Naming and Societies passages, with whole Corus 17.2/23.0. Two shared droplets are independently at NI, Naming, Destinies and Corus. NI and Naming have supporting carrying projects for the already offered protecting/three-betweens concerns. Corus's existing different-list concern and unfinished N17.2b–d remain explicit. M's later stable-form correcting and R's current next-existing relation accompany the source comparison.
+
+Every Destinies contribution now has a bounded comparison route; this does not complete the proposed distribution. The original opening, core, four extensions, both engineered misreadings, care and structural conditions remain whole at the source. Next is the particular v379 source comparison; Emanating's connected expression and the other master-plan projects remain available. — v385A
+
 ## Earlier source inventory · retained from v381R
 
 The following source inventory remains whole with its historical language and standings. The [v385A method](../incoming/v385A/README.md) governs the current project above; the inventory alone establishes no completed gathering.
