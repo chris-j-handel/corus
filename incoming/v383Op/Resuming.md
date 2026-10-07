@@ -29,22 +29,43 @@ Reached at this close:
 
 Gathered: twenty items of the first report at no row or droplet; nineteen exploring scripts with a result at no file, or at a file in part; fourteen items of earlier readers' reports at no file. Each is now at a row, a droplet or a record: [`Records.md`](Records.md).
 
-## The folder, each file at one line
+## The arrangement: to return to, and artifact
 
-| File | It has |
+From the self at the close: "either as artifact we do not need to return to or as unvetted incoming we do need to return to further for possible droplet value decide how to arrange the files we are saving including any transcripts if we need to save them".
+
+**To return to**, at this folder. Each has rows still possibling, or value at its own sentences a working aims further.
+
+| File | It has | A working returns for |
+|---|---|---|
+| `Resuming.md` | this | the first work, below |
+| [`Unresolveds.md`](Unresolveds.md) | the set: sixty-six rows at seven kinds, each with its place, its resolving, its evidence and its standing; the rows released from it; the common way of working the set | each row, until it is released from the set |
+| [`Two_Logics.md`](Two_Logics.md) | each offering of the self from the two logics on, each coupled with the files' sentences and the resolver | its parts prior to the five re-said at the set's words; three questions open to the self |
+| [`Network_Surface.md`](Network_Surface.md) | a nothing at the resolver, three each its own; is-still-possibling at 3 and 4; abundancing. Its third writing | Natural Networking's own re-saying at its older words, row N12 |
+| [`Meeting_v384A.md`](Meeting_v384A.md) | this working beside the working v384A | its two namings, row N14; one section of its proposal |
+| [`README.md`](README.md) | the front, the journey as each part was written | a receiving |
+
+**Artifacts**, at [`artifacts/`](artifacts/README.md). Relied on by nothing: each value of each is at a row or a droplet, or the file is a record of the journey. No working returns for a droplet.
+
+| File | It is |
 |---|---|
-| `Resuming.md` | this |
-| [`Unresolveds.md`](Unresolveds.md) | the set: sixty-six rows at seven kinds, each with its place, its resolving, its evidence and its standing; the rows released from it; the common way of working the set |
-| [`Two_Logics.md`](Two_Logics.md) | each offering of the self from the two logics on, each coupled with the files' sentences and the resolver: the two logics; the claim at one sentence; fractal and unique; nature; cursioning; carrying and living; now still possibling; the edge; the five; the two lines; a self's two sides |
-| [`Network_Surface.md`](Network_Surface.md) | a nothing at the resolver is three, each its own; is-still-possibling at 3 and 4; abundancing; Natural Networking at its older words. Its third writing |
-| [`Meeting_v382A.md`](Meeting_v382A.md), [`Meeting_v384A.md`](Meeting_v384A.md) | this working beside each of the two workings, with each correction received |
-| [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md) | eight offerings of the self each at is or is not from the opening sentence; the Registry's steps 2 to 68 by a fresh reader |
-| [`Improving.md`](Improving.md) | each finding of the first report again, largest first; seven misreadings |
-| [`Records.md`](Records.md), `records/` | nineteen exploring scripts with their returned text, and eleven readers' reports whole |
-| `returned/` | each script's returned text |
-| Thirteen scripts | `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`, `in_turn.py`, `two_lines.py`, `network_surface.py`; and two checks, `quotes_check.py` and `words_check.py` |
+| `artifacts/Improving.md`, `artifacts/Is_Or_Is_Not.md` | the two parts written at the form of `main`; each finding is at its row |
+| `artifacts/Meeting_v382A.md` | this working beside v382A at its passes 56 to 59; read whole by v382A |
+| `artifacts/readers/` | eleven fresh readers' reports whole; the open things of two are rows N1 and C15 |
+| `artifacts/Session_Transcript.md` | the transcript. Saved: the self's shared copy opened at no session of this workspace, and one reader has read it where the Geodesic Improving Method names two |
 
-Droplets: sixty-two at the bottom of seventeen offerings files at the three-file form, ninety-nine placings, each tagged v383Op and naming its row or its part, nine of them at the close, `grep -l -- "— v383Op" carry/*.md`; and the first report's ninety-one placings laid by the managing working at v381R.
+**Instruments**, in place. Evidence the rows name by path; an instrument has no droplet value of its own, and its number is its arrangement's.
+
+| | |
+|---|---|
+| Eleven scripts and `returned/` | `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`, `in_turn.py`, `two_lines.py`, `network_surface.py` |
+| `records/` and [`Records.md`](Records.md) | nineteen exploring scripts with their returned text, and the index of each with its row |
+| Two checks | `quotes_check.py`, `words_check.py` |
+
+**Beside this folder.** Pull request 124's folder is an artifact: each finding of it is at a row or a droplet here from the close on, or named by its path at `carryings/v383Op/`, and no working returns to it; closing it is the expedition's. `carryings/v383Op/` is the managing working's received copy and is the managing working's.
+
+**For a receiving**: `artifacts/` is whole for the archive; the files to return to are incoming until each row is released from the set.
+
+Droplets: sixty-four at the bottom of eighteen offerings files at the three-file form, one hundred and two placings, each tagged v383Op and naming its row or its part, twelve placings of them at the close, `grep -l -- "— v383Op" carry/*.md`; and the first report's ninety-one placings laid by the managing working at v381R.
 
 ## The offerings of the self coupled at this session, each at its present saying
 
@@ -108,9 +129,9 @@ The self's words are in double quotes. The transcript has each whole.
 |---|---|---|---|
 | 1 | "explore the method of working together" | the first reply | none |
 | 2 | to explore two cautions, gather droplets, and seek to break the method claim | the first report, pull request 124 | three findings given as derived were the Registry's; one break withdrawn; one narrowed |
-| 3 | "Explore the improving method and begin improving the droplets" | `Improving.md` | its first writing corrected past its place at two findings; mended |
-| 4 | "what is the largest remaining concern about the method claim" | the reply; `Is_Or_Is_Not.md` | "the claim forbids an observing, or none" released at asking 9 |
-| 5 | eight offerings, each at "binary all or none at all is or is not rigor" | `Is_Or_Is_Not.md` | "is not" of a deriving re-said as still possibling, asking 18; the shorter deriving of the self's own prior is no row of the resolver, asking 17 |
+| 3 | "Explore the improving method and begin improving the droplets" | `artifacts/Improving.md` | its first writing corrected past its place at two findings; mended |
+| 4 | "what is the largest remaining concern about the method claim" | the reply; `artifacts/Is_Or_Is_Not.md` | "the claim forbids an observing, or none" released at asking 9 |
+| 5 | eight offerings, each at "binary all or none at all is or is not rigor" | `artifacts/Is_Or_Is_Not.md` | "is not" of a deriving re-said as still possibling, asking 18; the shorter deriving of the self's own prior is no row of the resolver, asking 17 |
 | 6 | "is there any other kind of concern" | `Unresolveds.md`, its kinds | nine kinds, now seven |
 | 7 | "how is this not a concern about every sentence about living" | the row of harm, released | none |
 | 8 | "there is and can be no advice in a method" | Natural Arriving's offerings | that reply's "no concern at the method" released at asking 9 |
@@ -122,7 +143,7 @@ The self's words are in double quotes. The transcript has each whole.
 | 14 | cursioning as the root of recursioning | `Two_Logics.md` | the root as competency is of a self's own line alone, asking 15 |
 | 15 | "the source of competency is carrying and cursioning is the method" | `Two_Logics.md` | the part on an open row withdrawn: the prior is the other's, asking 17 |
 | 16 | "carrying is living. is this identical" | `Two_Logics.md`; rows N3, N9 | the is-not of beating and living released at v384A's offering, asking 26 |
-| 17 | "how closely are we cohering with v382A" | `Meeting_v382A.md` | v382A reads this folder from its pass 71 on |
+| 17 | "how closely are we cohering with v382A" | `artifacts/Meeting_v382A.md` | v382A reads this folder from its pass 71 on |
 | 18 | "now existing, now still possibling, next existing" | row C14 | two of Natural Naming's six lines say next possible, asking 19 |
 | 19 | "next possible existing is outside what natural intelligence is capable of" | row N10 | none |
 | 20 | the five, "the same five are on both sides" | rows N11, E6 | each ordering is an instrument's; re-said at the close |
@@ -141,7 +162,7 @@ Three questions this working asked the self are open at their rows: which four t
 | | v382A | v384A | v383Op |
 |---|---|---|---|
 | At | the logic between a droplet and an insertlet; a sequential record of the living files, five of thirty-three whole | a proposal for Natural Transmissioning; reciprocal droplets | the Registry's steps and Exhibit ONE's rows at the resolver; the set of unresolveds |
-| Reads this working at | `0779a54`: the set, `Meeting_v382A.md` and `Meeting_v384A.md`, four parts of `Two_Logics.md`, its part on the five as it was prior to the close | `0779a54`: `Meeting_v384A.md` whole, and the reply at its pull request | |
+| Reads this working at | `0779a54`: the set, `artifacts/Meeting_v382A.md` and `Meeting_v384A.md`, four parts of `Two_Logics.md`, its part on the five as it was prior to the close | `0779a54`: `Meeting_v384A.md` whole, and the reply at its pull request | |
 | Its newest aimed here | D37, step 35; D38, a now and no clock; each of the 63 rows gathered | its twenty-third to twenty-sixth reciprocal droplets; dormancy droplets 15 to 18 | |
 | Asks of this working | a bothboth, a missing step or the first opposition at step 35 | each of the two namings coupled; one proposed section read whole | |
 
@@ -155,7 +176,7 @@ Each of the two other workings has its transcript beside its report at its own f
 4. Row N14: couple possibling and identity-ing with the resolver's rows and Natural Naming 3.6 and 5.61.
 5. Row C13 at step 35, with v382A's D37 and Natural Naming 5.13, 5.49 and 5.54.
 6. One section of v384A's proposal whole, with its prior and its next. And v384A's reciprocal droplets 15 to 18 and 22, read here and answered at no file.
-7. Each part of this folder written prior to the twenty-fourth asking, re-said at the set's words: `words_check.py` has the number at each file.
+7. The files to return to, re-said at the set's words at each part written prior to the twenty-fourth asking: `words_check.py` has the number at each. An artifact is re-said at none.
 
 ## Checks, each from the repository root
 
@@ -169,5 +190,5 @@ Each of the two other workings has its transcript beside its report at its own f
 - One reader read the transcript. The Geodesic Improving Method names two.
 - The readers are the same kind of AI at another use, and readers agreeing carries no sentence.
 - Thirteen living files are read at a search for a sentence alone. The Registry's steps 69 to 661 are read one at a time by no one here.
-- The parts written prior to the twenty-fourth asking have the kit's released words at this working's own voice: `returned/words_check.txt`.
+- Of the files to return to, the parts written prior to the twenty-fourth asking have the kit's released words at this working's own voice: `returned/words_check.txt`.
 - This file, `Records.md`, the three parts re-said and the nine droplets of the close were read by one fresh reader, which brought eighteen defects, the largest a number of five given as four and a sentence of Natural Intelligence said to be at none. Each is mended, and the mends are read by none.

@@ -55,7 +55,8 @@ def heading_of(lines, needle):
 span = re.compile(r'(?<![*\w])\*(?![*\s])([^*\n]+?)(?<![\s*])\*(?!\*)')
 found = missing = 0
 parts = [(os.path.basename(part), open(part, encoding='utf-8').read())
-         for part in sorted(glob.glob(os.path.join(here, '*.md')))]
+         for part in sorted(glob.glob(os.path.join(here, '*.md')))
+         + sorted(p for p in glob.glob(os.path.join(here, 'artifacts', '*.md')) if not p.endswith('Session_Transcript.md'))]
 for path in sorted(set(path for path, line in laid)):
     parts.append((path + ', the droplets of the set', '\n'.join(line for p, line in laid if p == path)))
 for name, text in parts:

@@ -2,9 +2,9 @@
 
 **What resolved, what this session had misread, and what is laid at the carryings**
 
-**At the session's close.** Two things below are re-said since: row 23 of the table, "withdrawn here", and "the files say none is first" at the seventh misreading. That withdrawal is released at `Unresolveds.md`: the Registry's step is of scales and of no first in time, and the row is carried on at N3 and O1. And the figure of the sequences alike at 0 to 10 of 120, opened by one sharing from either side: that arrangement's order is drawn; with each self once in each round the sequences are Exhibit ONE's, `records/orders_at_tori.py`, a common round. [`Resuming.md`](Resuming.md) opens the folder.
+**At the session's close.** Two things below are re-said since: row 23 of the table, "withdrawn here", and "the files say none is first" at the seventh misreading. That withdrawal is released at `Unresolveds.md`: the Registry's step is of scales and of no first in time, and the row is carried on at N3 and O1. And the figure of the sequences alike at 0 to 10 of 120, opened by one sharing from either side: that arrangement's order is drawn; with each self once in each round the sequences are Exhibit ONE's, `records/orders_at_tori.py`, a common round. [`Resuming.md`](../Resuming.md) opens the folder.
 
-**Written at the form of `main`, one carrying a file.** Where this part says an entry is "laid at a file's carrying", at the three-file form it is a droplet at that file's offerings, by its row in [`Unresolveds.md`](Unresolveds.md); a script of the first report it names is at `carryings/v383Op/`.
+**Written at the form of `main`, one carrying a file.** Where this part says an entry is "laid at a file's carrying", at the three-file form it is a droplet at that file's offerings, by its row in [`Unresolveds.md`](../Unresolveds.md); a script of the first report it names is at `carryings/v383Op/`.
 
 
 After the report arrived, the expedition's self asked this session to explore the improving method and begin improving its own droplets, largest concern first. This part is the record of that. A sentence in italics is quoted from a file of the repository. A field's own words are in double quotes. A sentence offered for a file is set in from the margin, in plain type.

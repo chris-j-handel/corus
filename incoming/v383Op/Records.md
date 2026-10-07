@@ -2,7 +2,7 @@
 
 **Each exploring script the folder had at no file, and each fresh reader's report whole, with the row each is at**
 
-At its close this working read its whole transcript again, and three fresh readers read the folder against the first report, against the exploring scripts and against the earlier readers' reports. This file is the index of the records gathered by it. Each record is at `records/`: a script with its returned text at `records/returned/`, or a reader's report at `records/readers/`.
+At its close this working read its whole transcript again, and three fresh readers read the folder against the first report, against the exploring scripts and against the earlier readers' reports. This file is the index of the records gathered by it. A script is at `records/`, its returned text at `records/returned/`; a reader's report is at `artifacts/readers/`, an artifact.
 
 **Each script is an instrument at its own arrangement.** Its storage and its ordering are the instrument's, and each number is of that arrangement: the Geodesic Improving Method, *A diagnostic's own storage or ordering is the instrument's, and never the natural relation it explores*. A record is at no sentence of the method. It is here for the number to be had again, and for the row beside it.
 
@@ -37,10 +37,10 @@ At its close this working read its whole transcript again, and three fresh reade
 
 | Report | Read | What this working did with it |
 |---|---|---|
-| `readers/01_the_two_hard_problem_registries.md` | Exhibit TWENTY-ONE and TWENTY-TWO, each entry matched, twenty drawn | The numbers are at `Is_Or_Is_Not.md`. Three things of it were at no file and are at row N1 and one droplet since the close: Exhibit TWENTY-TWO's own sentences of an arrival open; the five problems Exhibit TWENTY-ONE has as settled; and one marker alike at each entry |
-| `readers/02_the_Registry_steps_1_to_68.md` | The Registry's steps 1 to 68, each marked | Its four numbers and nine things are at `Is_Or_Is_Not.md`. Its mark at each step, and three of its nine things, were at no file: row C15 |
-| `readers/03` to `08` | This working's own writings, each before it was offered | Each defect mended at its place, and said at each file's limits |
-| `readers/09`, `10`, `11` | At the close: the earlier readers' reports, the first report at pull request 124, and the exploring scripts, each against the folder | The rows, droplets and records of the close |
+| `artifacts/readers/01_the_two_hard_problem_registries.md` | Exhibit TWENTY-ONE and TWENTY-TWO, each entry matched, twenty drawn | The numbers are at `artifacts/Is_Or_Is_Not.md`. Three things of it were at no file and are at row N1 and one droplet since the close: Exhibit TWENTY-TWO's own sentences of an arrival open; the five problems Exhibit TWENTY-ONE has as settled; and one marker alike at each entry |
+| `artifacts/readers/02_the_Registry_steps_1_to_68.md` | The Registry's steps 1 to 68, each marked | Its four numbers and nine things are at `artifacts/Is_Or_Is_Not.md`. Its mark at each step, and three of its nine things, were at no file: row C15 |
+| `artifacts/readers/03` to `08` | This working's own writings, each before it was offered | Each defect mended at its place, and said at each file's limits |
+| `artifacts/readers/09`, `10`, `11` | At the close: the earlier readers' reports, the first report at pull request 124, and the exploring scripts, each against the folder | The rows, droplets and records of the close |
 
 ## Each record's words
 
