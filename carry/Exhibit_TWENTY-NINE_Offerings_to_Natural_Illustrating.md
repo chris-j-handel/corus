@@ -1,12 +1,27 @@
-Exhibit TWENTY-NINE Natural Illustrating Offerings · laid at v381R
+Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v385A
 
 # Offerings to Natural Illustrating
+
+**Contributing and resolving at v385A.** Follow the [current ungraded droplet method](../incoming/v385A/README.md). The earlier descriptions below remain at their source passages for improving. A project's possible value is carried with its actual sources and unfinished relations; media existing in a kit establishes no completed resolving into this living file.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
 Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** eleven passages from the working v380A's reading beside the living files as they are, its Ready below, at this file's own motion.
+
+## Projects beside Natural Illustrating · v385A
+
+**Natural Illustrating is the subject through which these projects participate in Natural Intelligence.** Their concepts, concerns and further explaining are available here as droplets, with supporting work at [the carrying mate](Exhibit_TWENTY-NINE_Carryings_of_Natural_Illustrating.md). A project can also contribute at another living subject's mate, each contribution retaining its own relation. Changes to an exhibit's purpose, title, subtitle or place among the subjects belong additionally in the [Living File Registry's offering mate](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md), where the expedition's floating plan is gathering. — v385A
+
+| Existing project gathering | Source and the further relation carried here |
+|---|---|
+| **Rings, local diamonds and the originating image** | The [v366 kit entrance](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/Illustration_Kit_v366/START_HERE.md) locates the original image, studies, inherited rings kit and their correcting. Existing droplets below already carry further diamond, axis and numbering comparisons. The inherited 0/9 centre and later centre-1 explaining remain beside each other with their sources; neither can silently supply the other's correspondence. |
+| **The two-swimmer study** | The [swimmer source](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/swimmers_v380A/README.md) and [kit entrance](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/README.md) retain the existing film and editable work. Its turns remain a study whose correspondence to the natural relations needs explaining. A film's saved and checked media supplies no completed derivation. |
+| **Origin and continuity studies** | The [origin source](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/origin_v380A/README.md), [continuity source](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/continuity_v380A/README.md) and [later consistency report](../carryings/v380A/illustrating/Concept_And_Consistency.md) preserve the conceptual positions and the missing correspondence to the named relations. Follow current correcting before reusing an older drawing or label; the living carrying remains unpictured. The studies are not declared completed explainings by being located here. |
+| **Group jigsaw and whole human expression** | Living File Registry “Human discovering made visible” already offers this comparison. Detailed illustrating stays here; the whole expression is compared with Corus/Arriving, team discovering with Exploring, and human/value relations with Human Society and Values. Its finite puzzle arrangement does not establish every relation of the expedition. The [reordering gathering](../incoming/v385A/Reordering_Plans_v385A.md) keeps those destinations connected. |
+
+This is the current source gathering, not an inventory claiming every illustrating project has been followed. The existing offerings below retain each particular improving; the kit retains its source versions. Further projects can gather here by their actual contribution, without a new exhibit being required for each project. — v385A
 
 ## Insertlets
 

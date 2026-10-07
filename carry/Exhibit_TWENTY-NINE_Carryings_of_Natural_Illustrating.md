@@ -1,6 +1,19 @@
-Exhibit TWENTY-NINE Natural Illustrating Carryings · gathered at v381R
+Exhibit TWENTY-NINE Natural Illustrating Carryings · improved at v385A
 
 # Carryings of Natural Illustrating
+
+**Project sources at v385A.** The [offering mate](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) gathers the projects' possible improving beside Natural Illustrating. This carrying mate keeps their supporting work reachable. The [current session method](../incoming/v385A/README.md) preserves source evidence and completed comparisons at their actual uses; the historical descriptions below retain their original scope.
+
+| Supporting project work | Existing source |
+|---|---|
+| Kit entrance and current project descriptions | [Natural Illustrating kit](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/README.md) |
+| Original image, v366 studies, inherited rings and their corrections | [v366 entrance](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/Illustration_Kit_v366/START_HERE.md) |
+| Swimmer film and editable study | [Swimmer README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/swimmers_v380A/README.md) |
+| Origin study and its declared correspondence | [Origin README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/origin_v380A/README.md) |
+| Continuity concept and editable source | [Continuity README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/continuity_v380A/README.md) |
+| Later comparison and passage-level opportunities | [v380A consistency report](../carryings/v380A/illustrating/Concept_And_Consistency.md), at its current carrying address; older kit links still name `incoming/` |
+
+These source addresses add no new media or verifying result. The kit's retained versions and the reports' exact limits remain with the work. — v385A
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

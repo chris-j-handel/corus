@@ -86,6 +86,14 @@ The user asked us to continue exploring, comparing and cohering the improving pl
 
 Existing destination plans were found at NI, ONE and the hard problem and Ghost/Equilibria mates. A Registry comparison droplet carries the new cohering, and one shared Ghost/Equilibria planning droplet is at Registry, Ghost and Equilibria independently. The earlier bodies remain whole; the two further mates now point to the current v385A method. Corus Part ONE into Arriving remains next, now with the Registry's entrance and naming relations beside it, followed by Corus Part 16. No living exhibit or source artifact standing changes here.
 
+## The floating plan and projects beside their living subjects · 7 October 2026
+
+The [user's further direction](Reordering_Plans_v385A.md#the-floating-plan-at-the-registrys-offering-mate) places exhibit-level improving at the Living File Registry's offering mate: originating, combining, separating, titles, subtitles, clusterings and the offering/carrying relation. The mate now has a floating gathering of the known plans near its front. Earlier detailed droplets and their sources remain whole. The session comparisons support that gathering; Living Improving Value now points there while retaining unlocated and shared value.
+
+Illustrating makes the project relation concrete. Its offering mate now locates the existing rings and diamond work, swimmer study, origin and continuity studies, and jigsaw proposal, each beside its source and further relation. Its carrying mate points directly to the existing kit and the later v380A consistency report at its actual `carryings/` address. The kit entrance, v366 entrance, selected v380A passages and the continuity README supplied the comparison; existing media were not re-examined or newly built. No claim is made that every illustrating source or project has been gathered. The project remains near its subject's relation to Natural Intelligence, while changes to the subject's place in the set are also at Registry.
+
+All these opportunities remain droplets. No exhibit or mate is removed, no new exhibit is originated, and no source is declared wholly gathered by this organizing pass. The same value remains independently available wherever its local relation needs it. Earlier incoming remains first, with Corus Part ONE, Arriving and the Registry entrance followed together next.
+
 ## Verification and publication scope
 
 The old front's complete text is retained after the artifact's wrapper. Existing bodies of the three offering mates remain unchanged before the appended gathering droplet. The new droplet is identical at all three mates. Local source and destination links are checked against the repository; differences are checked for whitespace errors. These checks concern preservation and addresses, not a proof or execution of the natural method.

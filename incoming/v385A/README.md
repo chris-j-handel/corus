@@ -14,6 +14,8 @@ Session v385A
 - **What it brings:** droplets as movable, ungraded improving opportunity or value; insertlets as locally resolving into an exhibit's writing and self-welcoming locating plan; direct resolving into the living file; local removal from offerings with the source retained in session artifacts; and the same general droplet available independently at several mates.
 - **Standing:** the method used for this session's contributing and resolving, and offered as the same droplet at three existing mates. It has not been resolved into a living exhibit. Earlier insertlets and droplets remain available whole.
 
+**The floating plan:** [Living File Registry's offering mate](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) now gathers exhibit-originating, combining, title/subtitle, clustering and mate-method opportunities. Projects are available beside their living subjects through offering and carrying mates; Living Improving Value retains unlocated and shared value. The [user's further direction](Reordering_Plans_v385A.md#the-floating-plan-at-the-registrys-offering-mate) and the concrete Illustrating gathering carry this relation into our current method.
+
 ## The user's correction
 
 The following is the complete correction offered in this conversation on 7 October 2026. It corrects this session's earlier descriptions of rawness, grading, a file's motion, and the need for a particular aim before something can be a droplet.

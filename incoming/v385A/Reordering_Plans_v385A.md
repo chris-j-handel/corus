@@ -10,6 +10,20 @@ Session v385A
 
 The previous priority answer was incomplete. Corus's distribution and its developing arriving purpose are substantial prior work that our incoming management must follow. They now have this shared project gathering alongside the G1–G4 recovery work. Earlier incoming remains the priority; ordering the work follows the relations it can improve, not age alone.
 
+## The floating plan at the Registry's offering mate
+
+The user's further direction on 7 October:
+
+> consider how all of these improving opportunities including merging exhibits and originating new exhibits and the method of offering and carrying mate files now. this is the floating neutraling table of contents of the living expedition. all the improving opportunities at the level of originating an exhibit or changing a subtitle clustering belong in the offering mate file for the living registry exhibit. all projects we have like illustrating projects now can reside near its portal to natural intelligence through its living file mate. keep seeing if this can be the floating plan we are still now assembling
+
+The [Registry's offering mate](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) now gathers the floating plan itself: originating an exhibit, combining or separating subjects, titles and subtitles, clusterings and the relation of living files with their offering and carrying mates. These are improving opportunities for the expedition's floating table of contents. This session record preserves our source comparisons; it is not the only place from which to find the plan.
+
+Each project is available beside the living subject through which it participates in Natural Intelligence. Its improving concepts and unfinished work belong at that subject's offering mate; its supporting sources and artifacts remain reachable through the carrying mate. A proposed new exhibit can be gathered at Registry before a new file or its mates exist. What has no known subject stays available in Living Improving Value, with the exhibit-originating relation also at Registry. One project can contribute independently at several subjects, each with its particular relation and local resolving.
+
+The [Illustrating offering mate](../../carry/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) now makes this concrete with the existing rings and diamond work, swimmer, origin and continuity studies, and the proposed jigsaw expression. Their sources remain at the [Illustrating carrying mate](../../carry/Exhibit_TWENTY-NINE_Carryings_of_Natural_Illustrating.md). The shared whole-expression destination is still compared with Corus/Arriving, and a project's relation to the set belongs at Registry. These source routes establish no completed illustration, full gathering or settled merger.
+
+The plan floats as naming, explaining, pattern matching and bothboth make the next relation apparent. Exhibit count, a numbered vacancy or a common word supplies no new subject. The living Registry's explaining can improve from these offerings as each relation locally resolves. Corus Part ONE remains our next source comparison, now inside this wider organizing relation.
+
 ## The two projects and the value joining them
 
 **Distribute Corus's developed content at its subjects.** [Corus v330](../../Natural_Intelligence_Corus_v330.md) already records this at its front and at “Part 16: Natural Writing — routed and reduced.” The latter retains a pass-thirteen, v314 account: writing discipline aimed toward Explaining, expressive work toward Emanating, concept work toward Naming; two particular sections reported transferred, everything else in Part 16 still present. This is older unfinished work than our previous answer made visible. Its historical report of two transfers must still be compared with the current destination passages before any further removal.

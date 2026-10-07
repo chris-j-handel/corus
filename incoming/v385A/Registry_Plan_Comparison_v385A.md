@@ -8,6 +8,8 @@ Session v385A
 
 The [Living File Registry](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md) and its [offering mate](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) carry more than the distributions already gathered in [Reordering Plans](Reordering_Plans_v385A.md). Their value includes the entrance to the set, the Registry's own explaining, repository practice, particular registry subjects and the order of receiving. This comparison carries those relations into our plan without making the old proposals completed work.
 
+**The further organizing relation:** the [user's next direction](Reordering_Plans_v385A.md#the-floating-plan-at-the-registrys-offering-mate) places the floating plan itself at the Registry's offering mate. Exhibit purposes, originating, combining, titles, subtitles, clusterings and the mate method gather there. Each project remains beside its living subject's mates, with its relation to the expedition's contents also at Registry. This record preserves the comparison that informed that gathering.
+
 ## Plans already offered, now connected
 
 | Possible improving | Existing source and placement | What this changes in our comparing |
