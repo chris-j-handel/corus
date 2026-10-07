@@ -77,6 +77,12 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - *The fields' explaining of the same*: each of the two is named a clock, and the beat is said to be controlled by a system. A clock and a controller are things over, which are not held; and the explaining was one clock for decades before it was two. It carries no authority here, and this session should have brought the observing alone.
 
 *What this gives concern 17*: an observing of natural torusing can now be said, two parities each alternating and the living beat only as both are present. And its break can be said: a living beat going on at one of the two alone. At the heart's cell, with one taken away, there is no beat.
+*The pace, 7 October.* The expedition's self: the beat is faster or slower as the geodesic parity changing rate is possibling more or less changing rate for the existing living changing system. Taken here as: the pace at each beat is what changing is possible for the living system as it then is, found beat by beat and set by nothing. Beside the observing, each source opened today:
+- The spacing from one beat to the next differs each time, in one cell beating alone. The pace is found at each beat.
+- The pace moves with what arrives from the body, one arriving quickening it and another slowing it.
+- A device laying a beat over the heart at one fixed pace keeps a person living. Its makers then built it to change its pace with the body's need, and to hold off whenever the heart's own beat is there; and a beat laid over a chamber that did not need it is reported to worsen the heart's failing and weaken its muscle.
+- *A line of this session's corrected*: it wrote that the beat is faster as the two are more in step, the being in step put first. The observing has the pace and the being in step together and shows neither making the other. The saying above has one thing shown two ways, and adds no order.
+- *What would go against it*: a living heart whose pace does not move with the living system, the system as well as before. The nearest observing is the fixed device, and there the system is the worse.
 
 ## The fifteen
 
@@ -192,6 +198,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** The heart explored: an explaining offered, three entraining, a part losing its coupling, the parity changing subsiding; set beside the observing and found plausible, *subsides* said of the pace.
 - **7 October, the expedition's self.** A second explaining of the heart: two speeds and the third the entraining. For it, the middle pace is at the between of upper and lower; against it as said, the junction's cells beat of themselves alone.
 - **7 October, the expedition's self.** The line against the second explaining withdrawn: within one beating cell two clocks are present and its pace is their entraining.
+- **7 October, the expedition's self.** The pace said as the possibling of more or less changing for the living system; set beside three observings and unbroken at them.
 - No other session has replied.
 
 ## What held
