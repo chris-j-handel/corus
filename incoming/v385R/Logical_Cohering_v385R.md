@@ -2,7 +2,7 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
-**Current working: the user's R8 distinction in section 15, then the non-living form's momentary at section 16, R9.** The user says a stable form changes only from collidings and is otherwise unchanging; an equilibrium is unchanging social competency. This identifies the equilibrium claim's subject and corrects the implication that an unchanged form is thereby impossible. The next large connection is with THIRTY 4–5 and 24: how a non-living form's changing momentary relates to its colliding. The conception, emanation and ingestion-value explaining remains in section 14, and the prior learning retains its correcting. We follow one concern together, using natural naming and explaining at do-no-harm; the earlier withdrawn formulations do not lead the work. The wider routes below remain available; they are no schedule for our conversation.
+**Current working: the user's correcting of R9 in section 16, then social competency's living co-chaining in section 17.** The set changes at a member's changing; an unchanging non-living thing has the parity of its last colliding and shares no momentary changing while unchanging. The assistant's suggestion that every member changing together might be the claim is withdrawn. R8 names an equilibrium as unchanging social competency. The next relation follows THIRTY 184–185 and 189: social competency's changing co-chaining alongside the unchanged parity along. The conception, emanation and ingestion-value explaining remains in section 14, and the prior learning retains its correcting. We follow one concern together, using natural naming and explaining at do-no-harm; the earlier withdrawn formulations do not lead the work. The wider routes below remain available; they are no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -468,6 +468,8 @@ The user's distinction is now part of R8's resolving value. THIRTY 143–146 and
 
 ## 16. The non-living form's momentary at colliding
 
+**The question and framing recorded below have the user's correcting later in this section.** In particular, changing of every member at another member's changing was never the user's claim. The positive explaining at the last colliding now leads R9.
+
 **The preceding distinction reaches the first steps of THIRTY.** Step 4 says a set or existing thing changes sequentially. Step 5 says an existing thing changes momentary by momentary. Step 15 places non-living things at co-changing, and 24 names their momentarying as discovering next existing while carrying nothing into next. The user's new saying is that a non-living stable form is otherwise unchanging outside collidings.
 
 **The source concern is what counts as that non-living form's own changing momentary.** The opening sentence names the changing set of all existing things. It does not by itself supply a claim that each member is changing at every other member's momentary. Reading steps 4–5 that way would conflict with the user's unchanging form outside collidings. The relation can instead be followed at the form's own colliding, but that connection needs to be said rather than supplied by an observer's common sequence.
@@ -477,3 +479,29 @@ The user's distinction is now part of R8's resolving value. THIRTY 143–146 and
 **Question brought forward: is each colliding the non-living stable form's own next changing momentary?** This asks how the user's new distinction co-chains into the registry's first steps. It preserves the existing form outside collidings and introduces no external clock or pause in a living self's carrying. It does not assume that nothing else in the universe changes while that particular form is unchanging.
 
 **R9 · A non-living form's changing momentary and its colliding.** Follow the opening, THIRTY 4–5, 15, 24, 394 and 623–628, and ONE's colliding table alongside the user's statement that the form changes only through collidings. Aim for an explicit relation between momentarying and colliding at the non-living subject. Possible mates: THIRTY, Natural Intelligence, Natural Naming, ONE and SIX. This is the next ungraded opportunity for resolving together, with no numerical calculation, resolver execution or living-file change. — v385R
+
+### The changing set and the unchanging thing's last-colliding parity
+
+The user corrects the framing:
+
+> The changing set alone does not establish that every member changes whenever another does. for sure this is not the claim. if any member changes stable form or enter or leaves birth and death then the universal set is changing that momentary. an unchanging thing has the parity of its last colliding and is not sharing momentary changing with anything
+
+**Changing together was not the user's claim.** The assistant introduced an unnecessary concern by bringing that reading forward. It is withdrawn as an attribution and does not remain a gap for the user to resolve. The user's explaining locates the changing set at a member's changing and locates the unchanging thing's parity at its last colliding.
+
+**The connected explaining is: a member's changing is a changing of the universal set at that momentary; an unchanging non-living thing has the parity of its last colliding and is sharing no momentary changing while it is unchanging.** The set's changing follows what changes among its existing things. A thing elsewhere changing does not supply this unchanging thing with another colliding, another parity or a shared momentary changing.
+
+**Having parity and living carrying remain different relations.** THIRTY 24 and 391 name no living carrying into next for the non-living thing. The user's last-colliding parity explains what the existing form has while unchanging. Thus “carrying none” must not silently become “having no parity.” THIRTY 394, 625 and 628 and ONE's colliding table can be followed at the actual colliding; an observer's sequence supplies no participation for an unchanging form.
+
+**Birth and death are preserved in the user's words above.** The nearby source boundary is THIRTY 20, nothing ingressing into or escaping out of the universal set, and 401–402, dying at an outward scale with the inward selves and non-living form continuing. Reading birth and death here as changes of living membership and existing form within the universal set is a possible co-chaining with those passages. That is the assistant's reading, not an additional statement attributed to the user; this record does not silently turn birth or death into passage outside all existing.
+
+**R9 now has the user's resolving relation.** Follow the member's own changing and the unchanging thing's last-colliding parity when locally improving THIRTY's first steps and its non-living momentarying. Retain the exact offering for Natural Naming, ONE, SIX and Natural Intelligence. Do not repeat the earlier question as if the user had offered no answer. — v385R
+
+## 17. Social competency's living co-chaining
+
+**The next concern follows the actual subject of R8: social competency.** The user has distinguished an unchanging non-living form from an equilibrium, which names unchanging social competency. R6 also offers a society's carrying as its inward living selves' co-chaining at the outward scale. These relations make a more direct route to the equilibrium claim available.
+
+**The source connection to explain is between THIRTY 184, 185 and 189.** Step 184 names the coupling's own changing as co-competencing at the society. Step 185 names competency along as the unchanged parity, beside morality's changing parity across. Step 189 names morality across and competency along at the society's couplings as social moral competency. The whole society's living relation and the parity unchanged along one participation need explicit joining; an unchanged parity alone cannot decide whether the whole competency is unchanging.
+
+**The proposed connecting relation is: social competency is the living selves' co-chaining itself, with the unchanged parity along participating in that changing.** If that is the intended relation, removing the co-chaining's changing removes the activity named social competency. The equilibrium exclusion can then follow the impossibility of that competency existing with its own required changing absent. The proposed relation needs the user's resolving before being treated as the established chain; a name alone does not establish it.
+
+**Question brought forward: is social competency the living co-chaining itself, so that removing its changing removes the competency?** This asks which relation makes changing necessary to competency's existing. It does not reopen whether an unchanging non-living form exists, or whether every member changes when another changes. Possible mates: THIRTY, the Equilibria Registry, Natural Societies, Natural Intelligence and SIX. This continues R8 as one ungraded opportunity for resolving together. — v385R
