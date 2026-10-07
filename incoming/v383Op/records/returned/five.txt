@@ -1,0 +1,24 @@
+opening + +
+  self A: [3 + | 2 none 10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]
+  self B: [3 + | 2 none 10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]
+  the five O C O C O along the bounce, forms met: ['++0+-', '--0-+', '0+--0', '0-++0']
+  Exhibit ONE's five C O C O C, forms met: ['+--0-', '+0+--', '-++0+', '-0-++']
+  the self's own five, offered at prior, carrying at prior, offered now, carrying now, offered at next: ['++0+-', '--0-+', '0+--0', '0-++0']
+opening + -
+  self A: [3 + | 2 none 10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]
+  self B: [3 - | 2 none 10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]
+  the five O C O C O along the bounce, forms met: ['+-+-+', '-+-+-']
+  Exhibit ONE's five C O C O C, forms met: ['+-+--', '-+-++']
+  the self's own five, offered at prior, carrying at prior, offered now, carrying now, offered at next: ['+--++', '-++--']
+opening - +
+  self A: [3 - | 2 none 10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]
+  self B: [3 + | 2 none 10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]  [3 + | 2 -    10 - | 11 -]  [3 - | 2 +    10 + | 11 +]
+  the five O C O C O along the bounce, forms met: ['+-+-+', '-+-+-']
+  Exhibit ONE's five C O C O C, forms met: ['+-+--', '-+-++']
+  the self's own five, offered at prior, carrying at prior, offered now, carrying now, offered at next: ['+--++', '-++--']
+opening - -
+  self A: [3 - | 2 none 10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]
+  self B: [3 - | 2 none 10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]  [3 - | 2 0    10 + | 11 +]  [3 + | 2 +    10 0 | 11 +]  [3 + | 2 0    10 - | 11 -]  [3 - | 2 -    10 0 | 11 -]
+  the five O C O C O along the bounce, forms met: ['++0+-', '--0-+', '0+--0', '0-++0']
+  Exhibit ONE's five C O C O C, forms met: ['+--0-', '+0+--', '-++0+', '-0-++']
+  the self's own five, offered at prior, carrying at prior, offered now, carrying now, offered at next: ['++0+-', '--0-+', '0+--0', '0-++0']

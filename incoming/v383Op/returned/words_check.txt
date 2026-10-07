@@ -1,0 +1,15 @@
+Meeting_v384A.md                 1 of   1215 words
+     meeting 1
+Network_Surface.md              17 of   1384 words
+     counting 2, running 2, taking 2, what 2, where 2, kept 1, membrane 1, neighbour 1, sign 1, so 1, surplus 1, there 1
+README.md                       87 of   3372 words
+     what 13, so 9, there 8, where 7, how 4, taken 4, kept 3, left 3, meet 3, run 3, running 3, would 3, inside 2, meeting 2, outside 2, since 2, stand 2, begin 1, count 1, counts 1, every 1, half 1, halves 1, holds 1, keeps 1, meets 1, met 1, runs 1, stands 1, takes 1, taking 1
+Records.md                       3 of   1278 words
+     what 2, since 1
+Resuming.md                      1 of   2958 words
+     where 1
+Two_Logics.md                  186 of   7536 words
+     what 36, so 28, where 16, running 11, would 9, there 8, taken 7, half 6, kept 5, inside 4, met 4, run 4, begins 3, count 3, holds 3, left 3, meet 3, outside 3, stands 3, wherever 3, because 2, counted 2, halves 2, how 2, meets 2, runs 2, stand 2, take 2, counts 1, every 1, hold 1, keeps 1, rings 1, since 1, takes 1, taking 1
+Unresolveds.md                 166 of   8907 words
+     what 22, where 19, so 14, met 10, taken 8, run 7, there 7, how 6, since 6, stands 6, count 4, holding 4, left 4, inside 3, kept 3, meet 3, outside 3, running 3, takes 3, counts 2, every 2, half 2, meets 2, stand 2, whatever 2, when 2, would 2, because 1, begins 1, counted 1, halves 1, held 1, hold 1, holds 1, keep 1, keeps 1, ring 1, rings 1, runs 1, sign 1, turn 1, turns 1
+together: 461

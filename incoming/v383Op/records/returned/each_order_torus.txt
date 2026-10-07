@@ -1,0 +1,2 @@
+torus2x2 cap 2 non-alike openings reaching rest: 0 capped True states 104284
+torus2x2 cap 3 non-alike openings reaching rest: 0 capped True states 2183616

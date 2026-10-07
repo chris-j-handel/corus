@@ -1,0 +1,39 @@
+two selves both ways   entries     304 | next = other prior inverted     304 | all-or-none of others priors     304 | own prior inverted     152 | own now inverted     228
+spiral of 1            entries      76 | next = other prior inverted      76 | all-or-none of others priors      76 | own prior inverted      76 | own now inverted      38
+spiral of 2            entries     304 | next = other prior inverted     304 | all-or-none of others priors     304 | own prior inverted     152 | own now inverted     228
+spiral of 3            entries     912 | next = other prior inverted     912 | all-or-none of others priors     912 | own prior inverted     456 | own now inverted     684
+spiral of 4            entries    2432 | next = other prior inverted    2432 | all-or-none of others priors    2432 | own prior inverted    1216 | own now inverted    1824
+spiral of 5            entries    6080 | next = other prior inverted    6080 | all-or-none of others priors    6080 | own prior inverted    3040 | own now inverted    4560
+spiral of 6            entries   14592 | next = other prior inverted   14592 | all-or-none of others priors   14592 | own prior inverted    7296 | own now inverted   10944
+spiral of 7            entries   34048 | next = other prior inverted   34048 | all-or-none of others priors   34048 | own prior inverted   17024 | own now inverted   25536
+torus 3 by 3           entries  129024 | next = other prior inverted       0 | all-or-none of others priors  125460 | own prior inverted   36126 | own now inverted  111150
+torus 2 by 3           entries   10752 | next = other prior inverted       0 | all-or-none of others priors   10404 | own prior inverted    1128 | own now inverted   10224
+torus 3 by 4           entries  884736 | next = other prior inverted       0 | all-or-none of others priors  824328 | own prior inverted  179424 | own now inverted  798840
+two selves both ways
+   next from others priors                       : 2 forms, 0 of them at both nexts
+   next from others priors, own now              : 4 forms, 0 of them at both nexts
+   next from others priors, own now, own prior   : 6 forms, 0 of them at both nexts
+   next from others nows                         : 2 forms, 2 of them at both nexts
+   next from others nows, own now                : 4 forms, 2 of them at both nexts
+   next from others priors and nows, own now     : 6 forms, 0 of them at both nexts
+spiral of 5
+   next from others priors                       : 2 forms, 0 of them at both nexts
+   next from others priors, own now              : 4 forms, 0 of them at both nexts
+   next from others priors, own now, own prior   : 6 forms, 0 of them at both nexts
+   next from others nows                         : 2 forms, 2 of them at both nexts
+   next from others nows, own now                : 4 forms, 2 of them at both nexts
+   next from others priors and nows, own now     : 6 forms, 0 of them at both nexts
+torus 3 by 3
+   next from others priors                       : 3 forms, 1 of them at both nexts
+   next from others priors, own now              : 6 forms, 2 of them at both nexts
+   next from others priors, own now, own prior   : 8 forms, 2 of them at both nexts
+   next from others nows                         : 3 forms, 3 of them at both nexts
+   next from others nows, own now                : 6 forms, 2 of them at both nexts
+   next from others priors and nows, own now     : 14 forms, 0 of them at both nexts
+torus 3 by 4
+   next from others priors                       : 3 forms, 1 of them at both nexts
+   next from others priors, own now              : 6 forms, 2 of them at both nexts
+   next from others priors, own now, own prior   : 8 forms, 2 of them at both nexts
+   next from others nows                         : 3 forms, 3 of them at both nexts
+   next from others nows, own now                : 6 forms, 2 of them at both nexts
+   next from others priors and nows, own now     : 14 forms, 0 of them at both nexts

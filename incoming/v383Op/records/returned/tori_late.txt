@@ -1,0 +1,44 @@
+torus 2 by 3, 64 openings, momentaries 21 to 60
+   of each 1000 entries: {'.': 47, 'P': 344, 'R': 16, 'T': 594}
+   what the two sides offered, by what the self met:
+      .  none and own       480
+      .  own and own        240
+      P  other and own      5280
+      R  none and none      240
+      T  none and other     480
+      T  other and other    8640
+   still possibling how many momentaries in sequence: {1: 696}
+   after a still possibling, the next momentary the self meets: {'R': 228, 'T': 468}
+torus 3 by 3, 512 openings, momentaries 21 to 60
+   of each 1000 entries: {'.': 135, 'P': 156, 'R': 127, 'T': 582}
+   what the two sides offered, by what the self met:
+      .  none and own       1440
+      .  own and own        23400
+      P  other and own      28800
+      R  none and none      23400
+      T  none and other     1440
+      T  other and other    105840
+   still possibling how many momentaries in sequence: {1: 24066}
+   after a still possibling, the next momentary the self meets: {'R': 342, 'T': 23724}
+torus 3 by 4, 4096 openings, momentaries 21 to 60
+   of each 1000 entries: {'.': 87, 'P': 229, 'R': 29, 'T': 655}
+   what the two sides offered, by what the self met:
+      .  none and own       115200
+      .  own and own        56160
+      P  other and own      451200
+      R  none and none      56160
+      T  none and other     115200
+      T  other and other    1172160
+   still possibling how many momentaries in sequence: {1: 166704}
+   after a still possibling, the next momentary the self meets: {'R': 456, 'T': 166248}
+torus 3 by 3, one opening, what each self met, momentary by momentary (rows of the torus side by side)
+    1   R R R   R R R   R R R      T 0  . 0  R 9  P 0
+    2   . P T   P T T   T T .      T 5  . 2  R 0  P 2
+    3   T . T   . T T   T T T      T 7  . 2  R 0  P 0
+    4   T T .   T R T   . T T      T 6  . 2  R 1  P 0
+    5   R T T   T . T   T T T      T 7  . 1  R 1  P 0
+    6   . T T   T T .   T . T      T 6  . 3  R 0  P 0
+    7   T R T   R T T   T T R      T 6  . 0  R 3  P 0
+    8   T . T   . T T   T T .      T 6  . 3  R 0  P 0
+    9   T T R   T R T   R T T      T 6  . 0  R 3  P 0
+   10   T T .   T . T   . T T      T 6  . 3  R 0  P 0

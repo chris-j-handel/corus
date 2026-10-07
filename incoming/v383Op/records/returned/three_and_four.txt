@@ -1,0 +1,11 @@
+two selves, each sharing to the other, each opening, momentaries 1 to 8: each self its carrying at 3, the offering at its sharing 4, 0 or a changing at 12
+  opened + +:  +|none|- +|none|-   -|-|0 -|-|0   -|none|+ -|none|+   +|+|0 +|+|0   +|none|- +|none|-   -|-|0 -|-|0   -|none|+ -|none|+   +|+|0 +|+|0
+  opened + -:  +|none|- -|none|+   -|+|+ +|-|-   +|-|- -|+|+   -|+|+ +|-|-   +|-|- -|+|+   -|+|+ +|-|-   +|-|- -|+|+   -|+|+ +|-|-
+  opened - +:  -|none|+ +|none|-   +|-|- -|+|+   -|+|+ +|-|-   +|-|- -|+|+   -|+|+ +|-|-   +|-|- -|+|+   -|+|+ +|-|-   +|-|- -|+|+
+  opened - -:  -|none|+ -|none|+   +|+|0 +|+|0   +|none|- +|none|-   -|-|0 -|-|0   -|none|+ -|none|+   +|+|0 +|+|0   +|none|- +|none|-   -|-|0 -|-|0
+one parity surfaced at 14: 2349096; the self next at that parity, its sharing other's: 2349096
+the momentary after an is-still-possibling: (what is at 12, how many of its two sharing others the self is then at one parity with):
+   ('R', 2) 3426
+   ('T', 0) 215292
+   ('T', 1) 78780
+   ('T', 2) 5412

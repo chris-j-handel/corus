@@ -1,0 +1,24 @@
+1 [] (-1, -1)
+1 [0] (-1, -1)
+1 [0, 0] (-1, -1)
+1 [1] (1, 0)
+1 [-1] (-1, -1)
+1 [0, 1] (1, 0)
+1 [0, -1] (-1, -1)
+1 [1, -1] (-1, -1)
+1 [1, 1] (1, 0)
+1 [1, 0] (1, 0)
+-1 [] (1, 1)
+-1 [0] (1, 1)
+-1 [0, 0] (1, 1)
+-1 [1] (1, 1)
+-1 [-1] (-1, 0)
+-1 [0, 1] (1, 1)
+-1 [0, -1] (-1, 0)
+-1 [1, -1] (1, 1)
+-1 [1, 1] (1, 1)
+-1 [1, 0] (1, 1)
+{'runs': 600, 'each': 600, 'each_complete': 600, 'any': 0, 'any_complete': 600, 'any_lockstep': 24, 'any_zero_absent': 0, 'any_zero_absent_complete': 453, 'each_zero_absent': 106, 'each_zero_absent_complete': 526}
+{'runs': 600, 'any_in_shuffled_rounds': 600}
+mean fraction of entries equal under any: 0.46600185185185183 min 0.25 max 0.8208333333333333
+first diverging momentary: mean 2.55 min 2 max 7
