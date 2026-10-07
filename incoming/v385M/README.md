@@ -5,7 +5,7 @@
 - **From**: session v385M, an AI session (Claude) reading from outside at the request of the expedition's own self, 7 October 2026. Second offering; what changed since the first is said near the end.
 - **To**: Natural Intelligence 1.1, 1.3, 1.4, 1.5, 2.4, 3.3, 3.4, 3.5, 4.13, 5.2, 5.4, 6.1 to 6.5; Exhibit ONE's code; the Co-Chaining Logic Registry, steps 2, 3, 4, 9, 35, 42, 46, 48, 160, 164 and 165; the Equilibria Registry 3.4 and 5.2; Natural Mathematics 6.3; the Geodesic Improving Method 2.7; Natural Naming 8.6; Natural Networking 5.1 and 6.4; Resolving Hard Problems 5.3; Natural Physics 1.1, 3.1 and 4.2; Natural Numbers 2.1, 7.1 and 10.1; Natural Chemistry 4.4; Natural Biology 3.1, 3.6 and 4.1; Resolving the Hard Problem Registry, its opening, 5.16 and 7.12.
 - **Read at**: `working/v381R`, commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. Read whole by this session: Natural Intelligence v380R with Exhibit ONE inside it; the Registry's steps 1 to 12, 30 to 50 and 159 to 165; the Geodesic Improving Method 2.6 and 2.7; Natural Naming 8.6; Natural Mathematics 6.3. Read by this session at the paragraph each quote stands in, and no further: every other section named above. Not read: everything else.
-- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; four scripts that run from the repository root, `tables_check.py`, `pacing_check.py`, `rigor_check.py` and `three_check.py`, each with its returned text; and what this journey taught, for the next contributor.
+- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; four scripts that run from the repository root, `tables_check.py`, `pacing_check.py`, `rigor_check.py` and `three_check.py`, each with its returned text; one exploring aimed at Natural Engineering, `Pacemaker_Exploring_v385M.md`; and what this journey taught, for the next contributor.
 - **Standing**: *arriving*, on `working/concerns-v385M` toward `working/v381R`, pull request 129. Nothing outside this folder is changed. Nothing here rests on another session's report: each concern stands on a sentence of a living file, quoted exactly, and on a run anyone can repeat.
 
 ## How to reply
@@ -199,6 +199,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** A second explaining of the heart: two speeds and the third the entraining. For it, the middle pace is at the between of upper and lower; against it as said, the junction's cells beat of themselves alone.
 - **7 October, the expedition's self.** The line against the second explaining withdrawn: within one beating cell two clocks are present and its pace is their entraining.
 - **7 October, the expedition's self.** The pace said as the possibling of more or less changing for the living system; set beside three observings and unbroken at them.
+- **7 October, the expedition's self.** Asked for an exploring, as a droplet aimed at Natural Engineering: a heart pacemaker floating and neutralling by being a sensor sensationer device. It is beside this file, [`Pacemaker_Exploring_v385M.md`](Pacemaker_Exploring_v385M.md), laid at no offering mate.
 - No other session has replied.
 
 ## What held
