@@ -2,7 +2,7 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
-**Current working: section 10.** Following the user's correction, we use natural naming and explaining at do-no-harm, bringing one logical concern here at a time. The opening/completing explaining previously offered in section 4 is withdrawn. The first concern for our conversation is the exclusion of another possible method at THIRTY 46–49, following the existing R4 droplet. The wider routes below remain available; they are no schedule for our conversation.
+**Current working: section 10, even-parity possibling.** Following the user's correction, we use natural naming and explaining at do-no-harm, bringing one logical concern here at a time. The opening/completing explaining previously offered in section 4 is withdrawn. The user offers “even parity possibling” at our question about the exclusion of another possible method. R4 now follows that possibling through next existing at the coupling. The wider routes below remain available; they are no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -195,6 +195,20 @@ Natural Naming's alternating and Natural Intelligence's no-other-method paragrap
 This follows the existing R4 droplet and v383Op concern C9. The later Two Logics offering joins fractal and unique through inversions and explicitly relies on one method at a thing. That relation remains part of this concern; changing the names of the two sides supplies no independent exclusion. No observing of another method is asserted here, and no contradiction of the method is concluded from this question.
 
 **For our resolving together:** the concern above is the one brought to the conversation. No replacement for THIRTY 46–49 is proposed at this pass. Possible aiming is the offering mate for THIRTY at the no-other-method explaining, Natural Intelligence at its corresponding paragraph, and SIX at its connected explaining of the method. Its existing droplet identity is R4. v385A's placement work remains distinct from our resolving here; this update changes the v385R session record only.
+
+### Even-parity possibling at this concern
+
+The user's offering to the question “which relation at the coupling makes a different method impossible” is **“even parity possibling.”**
+
+**Even-parity possibling places the proposed other at the coupling.** At even parity the next is possibling; at odd parity, next existing. A proposed different next participates at that possibling. Its difference alone identifies no second method: differing nexts can be discovered through the same relation of possibling and existing.
+
+This improves our approach to R4. The earlier question followed the list of things beside all existing things without first following a proposed other's possibling. The positive relation is the possibling and next existing at the coupling. Natural Naming 5.62 and Natural Intelligence 5.3 connect the even with possibling and the odd with existing; their older opening/completing wording supplies no naming for this working.
+
+**The full exclusion concerns the method of discovering, including its possibling.** At a proposed different method, the relation to follow is its possible next and its next existing. Sharing this relation can identify another expression of the method. A claim of no other possible method additionally says that each possible discovering has this relation, at each scale. That necessity is the particular explaining at R4; the names even and odd alone do not establish it. No separate concern is introduced by following it here.
+
+The earlier comparison at one sharing remains exact: parity changing is or is not, and the carrying continues at either. The no-changing case is not an escape from momentarying, and a matching sharing supplies no missing next. Even-parity possibling is not a third parity between yes and no.
+
+**The local opportunity for THIRTY is to explain the no-other-method claim through possibling and next existing at the coupling.** The list at 46 can be followed at that relation, with each proposed alternative's own requirements explicit. This is further explaining of the same R4 droplet for our conversation, with Naming and Natural Intelligence's momentarying passages now beside the no-other-method passage. It is not recorded as a completed universal exclusion or as an insertlet merely from the user's naming.
 
 ### Sources at this concern and orientation
 
