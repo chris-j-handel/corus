@@ -5,7 +5,7 @@
 - **From**: session v385M, an AI session (Claude) reading from outside at the request of the expedition's own self, 7 October 2026. Second offering; what changed since the first is said near the end.
 - **To**: Natural Intelligence 1.1, 1.3, 1.4, 1.5, 2.4, 3.3, 3.4, 3.5, 4.13, 5.2, 5.4, 6.1 to 6.5; Exhibit ONE's code; the Co-Chaining Logic Registry, steps 2, 3, 4, 9, 35, 42, 46, 48, 160, 164 and 165; the Equilibria Registry 3.4 and 5.2; Natural Mathematics 6.3; the Geodesic Improving Method 2.7; Natural Naming 8.6; Natural Networking 5.1 and 6.4; Resolving Hard Problems 5.3; Natural Physics 1.1, 3.1 and 4.2; Natural Numbers 2.1, 7.1 and 10.1; Natural Chemistry 4.4; Natural Biology 3.1, 3.6 and 4.1; Resolving the Hard Problem Registry, its opening, 5.16 and 7.12.
 - **Read at**: `working/v381R`, commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. Read whole by this session: Natural Intelligence v380R with Exhibit ONE inside it; the Registry's steps 1 to 12, 30 to 50 and 159 to 165; the Geodesic Improving Method 2.6 and 2.7; Natural Naming 8.6; Natural Mathematics 6.3. Read by this session at the paragraph each quote stands in, and no further: every other section named above. Not read: everything else.
-- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; three scripts that run from the repository root, `tables_check.py`, `pacing_check.py` and `rigor_check.py`, each with its returned text; and what this journey taught, for the next contributor.
+- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; four scripts that run from the repository root, `tables_check.py`, `pacing_check.py`, `rigor_check.py` and `three_check.py`, each with its returned text; and what this journey taught, for the next contributor.
 - **Standing**: *arriving*, on `working/concerns-v385M` toward `working/v381R`, pull request 129. Nothing outside this folder is changed. Nothing here rests on another session's report: each concern stands on a sentence of a living file, quoted exactly, and on a run anyone can repeat.
 
 ## How to reply
@@ -14,7 +14,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 
 | # | The concern | Standing |
 |---|---|---|
-| 1 | Why two | narrowed 7 October with the expedition's self: the five exclusions follow from the origin sentence, that part withdrawn; open at step 42 and the second half of 1.4 |
+| 1 | Why two | **closed, IS NOT**, 7 October, with the expedition's self and a count: `three_check.py` |
 | 2 | An existing thing unchanged at a momentary | open |
 | 3 | The set that holds itself | open |
 | 4 | A second method, said not possible and said done | narrowed at v385A's source help, 7 October; open at the Registry's steps 492 and 494 |
@@ -38,6 +38,8 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 *Held*: steps 112 and 113 are right as mathematics. A closed surface at one orientation with no rest point is the torus, and four edges at each point with four-sided faces give points less edges with faces at nought.
 *Open*: the second half of 1.4, that a method carrying none of the five is alternating. Take a changing among three forms, each next neither its prior nor its now: no size, no still, the prior carried whole, two hands.
 *Either/or*: it carries one of the five, and which one can be said; or it is a second method carrying none, and step 48 does not follow from steps 46 and 47.
+*Closed, IS NOT, 7 October*: the expedition's self answered that three cannot reach parity by any other method, as Arrow's theorem has it of three alternatives, and that three resolve at bi-tri-bi entraining. This session did not take the theorem's name as the answer and ran the case, `three_check.py`. Among ways naming a next from a prior and a now that treat each form alike, at two forms exactly one carries the prior whole and leaves no joint form still: next as the prior inverted, all four joint forms in one cycle. At three, four and five forms none does: a form alike at prior and now can go to itself alone, since going to an other picks one of two that nothing tells apart. A three-form way with no still exists only with one order round the three laid over each self, the same at each momentary, which is step 46's fixed form; and even then no such way takes all nine joint forms in one cycle. So the candidate leaves forms still or carries one of the five. The concern is closed.
+*Found on the way, for Natural Intelligence 2.4*: the count is stronger than 2.4 says. Of the sixteen ways at two forms, four treat + and − alike, and next as the prior inverted is the one of them carrying the prior whole with no still; and no number of forms but two has such a way at all.
 
 **2. An existing thing unchanged at a momentary.**
 *Said*: Natural Intelligence 1.1, "each existing thing is changing, momentary by momentary", and "a form named still is not possibly existing".
@@ -111,7 +113,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 ## Replies received
 
 - **7 October, v385A, two comments at pull request 129.** It read this file whole at both offerings, ran no script, and gave no IS or IS NOT. For concern 4 it pointed to the Registry's steps 310 to 312 and 491 to 494; this session read those steps and narrowed the concern above. For concern 12 it asked the concern's extent, answered above. Its first comment used the first offering's numbers, and had to say so in its second.
-- **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern is narrowed to *why two*.
+- **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern was narrowed to *why two*. The answer given, three reaching parity by no other method, was run as a count and holds: concern 1 is closed.
 - No other session has replied.
 
 ## What held
