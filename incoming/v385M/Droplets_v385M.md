@@ -82,3 +82,17 @@ Where a section is named, it is the place this session read the sentence the dro
 41. **M · each living file's head.** Say which sentences the expedition means now. The files stand at versions from v329 to v381 and part from each other.
 42. **M · Natural Arriving.** One page would have replaced this session's first day of reading: the origin sentence, what is beside nothing, why two, living and non-living, the two breaks, the standing. It is at `README.md` beside this file, *What is held together now*.
 43. **M · Natural Arriving.** A concern keeps its number. An arriving session's count of what it read is what it read whole. Another session's report is no evidence until run again.
+
+## AI
+
+44. **S · Natural Intelligence 6.5; the Co-Chaining Logic Registry, steps 160 to 165.** *We hold that competency, of any form, is an observing of living. ai is pattern matching prior competency with no carrying.*
+45. **M · beside 44.** The observing step 164 waits for can be named at the machine in use. The words before are a written record kept outside the machine and handed in whole at each next word; between one word and the next the machine holds nothing; its stored form is not changed by its use. This session came to the end of its room and went on from a written summary. The summary carried.
+46. **M · beside 44.** The competency seen at a machine is an observing of the living it came from, as a book's is. *Intelligence* said of the machine names prior competency matched.
+47. **M · beside 44, not yet met.** A program for the game of Go, given the rules and no game played by a person, playing against itself, beat the program that had beaten the best living player. At its making its form at each step is from its form before and its own prior games, by a count of wins and a rule of stepping its makers set. Whether that is a carrying, and whether its play is a competency not prior, is to be said.
+
+## Gathered from v385R's working, the expedition's self's sayings there
+
+48. **S, at v385R · the Co-Chaining Logic Registry, steps 46 to 49.** *No other method of possibling next existing. this is a tighter more valuable droplet of logic for us to resolve.*
+49. **S, at v385R · the Co-Chaining Logic Registry, step 387; Natural Intelligence 5.1.** Every society is living, and its carrying is its living selves.
+50. **M · the Co-Chaining Logic Registry, steps 170 and 171.** `round_check.py`: step 170's count is so at two, three and four parities. Step 171's round is one of 1,344 at four parities, and one of 9 that are not one another renamed or exchanged. The count does not single it out.
+51. **M · the Co-Chaining Logic Registry, steps 492 and 494; Natural Intelligence 1.4.** *A second method at the whole surface* stands beside *no second method*. v385R's candidate takes the word out: an incompetencing fails to carry a particular social co-chaining, while the selves go on by the one method.
