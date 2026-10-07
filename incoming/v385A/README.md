@@ -4,6 +4,8 @@ Session v385A
 
 **The session's method and its offering for contributors · 7 October 2026**
 
+**Gathering now:** [Living Improving Value](../../carry/Living_Improving_Value.md) carries unlocated droplets and shared project gatherings. [The gathering record](Gathering_Record_v385A.md) preserves the two further user offerings, the complete gathering of the prior front, its artifact and the larger incoming still to follow.
+
 - **From:** the v385A working, following the user's correction in this session.
 - **To:** Geodesic Improving Method, Living File Registry and Natural Arriving, at their existing offering mates.
 - **Read at:** `working/v381R`, `18889e06d5ac452111b1bcd8a8840e46b7c5615a`; the later v382A offering at `9d396c166df66c3c661de7aee0f3030ff6099b88`, v383Op at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`, and v384A at `713e52588ee0063551ac5a8316b79ea39a747d5d` informed the session's earlier assessment.
@@ -60,4 +62,4 @@ Our first explanation introduced meeting, rawness as a standing, and a file's mo
 
 Apply this method to all incoming we work on during v385A. Follow each incoming's current correcting, preserve its useful value and evidence, and float its droplets to any mates they can improve. Resolve locally into an exhibit's writing and self-welcoming locating plan; retain each other copy until its own resolving. Record a removal from offerings only with its actual resolving into that living file and preserve the source in session artifacts.
 
-This offering changes the three mates' session version lines, adds a current-session pointer and appends the same complete droplet to each. It leaves the prior body of each mate intact. No living exhibit, prepared insertlet, resolver, kit, public site or other working's branch is changed. It is offered from `working/droplets-and-insertlets-v385A` toward `working/v381R`.
+The first offering changed the three mates' session version lines, added a current-session pointer and appended the same complete method droplet to each. The further gathering now improves Living Improving Value, preserves its prior whole as a session artifact and adds the same gathering-method droplet to those three mates. Their earlier bodies remain intact. The gathering record distinguishes completed gathering from further incoming. No living exhibit, prepared insertlet, resolver, kit, public site or other working's branch is changed. It is offered from `working/droplets-and-insertlets-v385A` toward `working/v381R`.
