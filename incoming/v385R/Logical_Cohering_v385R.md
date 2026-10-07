@@ -6,9 +6,9 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, seven locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, eight locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current local explaining is at section 22.** The user answers the alternating concern: each self is odd 1 from its own side, prior odd/even then now odd/even then next odd/even, every even possibling and every odd existing. The bi-inversioning/co-recursioning and two-along/one-across rolling relation stay together with that explaining. R10 remains unresolved for returning.
+**The current concern is at section 23, beside the user's resolving in section 22.** Each self's own odd-first existing/possibling sequence is retained. The next comparison asks what the joint form named still at THIRTY 55–57 omits, while an unchanged parity at a sharing participates in living carrying. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -777,3 +777,55 @@ The current R3 question in the mate is replaced by that answering, and the old q
 | Natural Intelligence 2.1–2.4 and proposed SIX's early common explaining | The same connected relation at both selves' own sides, carrying toward the universal method's explaining. |
 
 These are opportunities at their current source sentences. The change made here is in THIRTY's v385R offering mate and this report; the living roots and other branches retain their present writing. Selected source passages were read, with no resolver execution, arithmetic or private-carry inspection. **R10 remains unresolved and together for returning.** — v385R
+
+## 23. The joint form at the no-other-method exclusion
+
+**The next large concern is at THIRTY 55–57, where a joint form named still is used to exclude other candidate ways of carrying prior.** This follows the user's own-side parity explaining into R4's no-other-method claim. It does not repeat the answered question about alternating, ask the user to restate R8's equilibrium naming, or resume R10's proposed definition of living.
+
+### The first local correcting is already supplied
+
+THIRTY 46 includes a fixed form named still among what a second method would require. The user's R8–R9 explaining allows a non-living stable form to be unchanging between collidings, with the parity of its last colliding and no shared momentary changing while unchanging. The method claim concerns possibling next existing. The form's existing and that method's exclusion need their subjects explicit where stillness is first used.
+
+The eighth locally resolving insertlet is therefore placed beside step 46 in THIRTY's offering mate:
+
+> An existing non-living stable form is unchanging between collidings and changes at colliding. Its unchanging does not name another method of possibling next existing. An equilibrium here names unchanging social competency.
+
+This uses the user's already-supplied resolving. It neither asserts an eternally unchanging form nor makes the universal set's changing the simultaneous changing of every member. The later use of stillness must preserve these same subjects.
+
+### The particular relation at 55–57
+
+Step 51 names next from prior and now. Step 52 names their four joint forms; 53–54 describe candidate ways and those said to carry prior whole. Step 55 says three of the four leave a joint form still; 57 says next as prior inverted alone carries prior whole with no joint form still and names it the living step.
+
+The relation still needed in that compact passage is what the joint form names as a whole. A bare assertion that its parity values stay the same cannot silently substitute for the social competency's whole participation being unchanging.
+
+| What is said to be unchanged | Current explaining | Its use at the exclusion |
+|---|---|---|
+| Non-living stable form between collidings | The user's R8–R9: it exists, has its last-colliding parity and shares no momentary changing while unchanging. | Its unchanging alone establishes no second method or impossible thing. |
+| Carried parity at a matching sharing | R2, ONE's published entry, THIRTY 208 and 306: no parity changing shared, carrying chained into next. | Its unchanged parity remains within momentarying. |
+| Prior-and-now joint form at 55–57 | The source uses its stillness to exclude a candidate method. | The step must say which required self–other participation that stillness omits. |
+
+**The own-side parity explaining makes this distinction more visible.** Each self is odd 1 from its own side, with prior odd/even, now odd/even and next odd/even, all odd existing and all even possibling. Naming 3.2 already distinguishes odd/even positions among names from +/− parity at a sharing. Naming 3.4 distinguishes the parity's inversion from the carrying's proceeding at either changing or no changing. The new user explaining therefore supplies no requirement that every particular sharing invert its carried parity.
+
+**Whose prior remains with each saying.** Natural Intelligence 2.4 and THIRTY 609 explicitly identify the other's prior in the stated spiral arrangement. ONE's five-parity table, under its two-self both-ways conditions, contains rows where self next retains self now's parity and is also the inverted parity of other prior. That comparison was already gathered in R2 and now has the user's bi-inversioning/co-recursioning explaining beside it. This pass makes no new table, performs no arithmetic and adds no universal claim to those arrangements.
+
+### The strongest nearby connecting source
+
+The Equilibria Registry 1.5 gives the alternating passage with its conditions stated: one of two binary relations changes at each passage and both change within each prior–now–next. Its 2.1 follows a holding at the exact relation that the conception requires unchanged, allowing a participant to change while a relation within it continues. Its 2.3 explicitly says that the ordering named still must be the very ordering the next inverts. These are usable prior relations for explaining the exclusion; the names alone do not supply their universal application.
+
+The strongest candidate connected explaining here is:
+
+**The joint form held still as the whole prior–now–next relation would omit the self–other bi-inversioning/co-recursioning that possibles next existing. An unchanged parity at a sharing remains a participation within that rolling relation.**
+
+This is the assistant's candidate joining of the supplied sources and the user's explaining. It stays a droplet until the precise identification at the joint form is resolved. The candidate does not attribute an omitted participation to every repeating parity, non-living form or scientific conception.
+
+**The one question brought to the user is: what is absent from the three excluded ways that remains present when living carrying takes an unchanged parity into next? Does their joint form still name the absence of the self–other bi-inversioning/co-recursioning itself?**
+
+This locates the source concern before extending its conclusion into the whole no-other-method, equilibrium, hard-problem and intelligence claims. It uses R8's already-supplied distinction, and it retains the full force of the claim being developed. It asks for the missing relation at this exclusion, not for a cause outside the coupling.
+
+### Placement and reach
+
+The insertlet and this one concern are together under “No other method of possibling next existing” in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md). Its equilibrium gathering points to the same droplet rather than duplicating a second concern. R1–R10 retain their source identities.
+
+This pass reads THIRTY 41–62, 138–149, selected 368–378 and 603–610; Natural Naming 3.2 beside the already-read 3.4 and 5.62; and the Equilibria Registry's first two parts through 2.4, with 1.5 and 2.1–2.3 followed at the exact relation above. The source includes older vocabulary and claims corrected by R6, R8 and R9; those older assertions do not override the user's current explaining. The earlier v383Op C9 and C14 records were compared at their retained scope.
+
+All seven preceding v385R insertlets, the earlier offering body and the full R10 gathering are preserved. R10 remains unresolved, including its proposed observable-living naming. No source exhibit or other branch is changed, no resolver is executed and no private carrying is inspected. — v385R
