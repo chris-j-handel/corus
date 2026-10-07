@@ -39,6 +39,8 @@ Living Improving Value v385A
 
 The common-explaining gathering carries the [later reciprocal correcting](../incoming/v385A/Reciprocal_Help_v385A.md): v385R's R6 records the user's society living through its selves' co-chaining, correcting the older inference from no additional carrying to society being non-living; R7 keeps the actual carrying at a claimed violation open. These relations accompany older society and SIX sources. v385M's current concern numbering and withdrawals are preserved there too. Their complete developing sources remain for later gathering; this pointer neither resolves the concerns nor places all their value.
 
+The [Registry's further plans](../incoming/v385A/Registry_Plan_Comparison_v385A.md) now join the reordering gathering: the entrance and contents of the set, current standings beside completed history, repository practice, and the Ghost/Equilibria and hard problem registry relations. The shared comparing keeps each local explaining that its next concept needs, and preserves unfinished value before a source is archived. Existing destination offerings are followed at their sources; shared wording, an old pass label or a historical droplet total supplies no completed receiving or current work order.
+
 These projects can also be followed by type. An observing, a concern, a naming opportunity and a whole-file proposal keep their own relations when gathered together.
 
 ## Droplets from the gathering

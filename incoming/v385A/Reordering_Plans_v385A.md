@@ -53,6 +53,12 @@ Consequently, the historical “32 to 27” and “six numbers released” descr
 
 **Later correcting beside these plans:** [the reciprocal-help record](Reciprocal_Help_v385A.md) follows v385R's R6 at `44ec383`: the user's society living through its selves' co-chaining corrects the inference from no additional carrying to society being non-living. Keep that correction with the older SIX, SEVEN, Human Society and Corus passages as their actual destinations are compared. R7's question about the social carrying at a claimed violation remains open. This changes the explaining that must accompany an older source; it establishes no completed distribution or local resolving.
 
+## Further plans carried at the Living File Registry
+
+The [Registry plan comparison](Registry_Plan_Comparison_v385A.md) follows its offering mate whole and the v373 resettling source whole. It adds the Registry's own contents and standing/history separation, the different orders of an arriving interest and a working session, the repository-practice receiving, the hard problem files' separate subjects, and the Ghost/Equilibria title and resolving plans. Existing destination droplets are identified rather than copied again. The offered EIGHT subtitle spelling is **Binary-All-or-None-at-All, Do-No-Harm Improving**, correcting the underscore retained in the Registry source above.
+
+The same comparison preserves the differences: v381F's proposal to archive later Registry parts still needs every unfinished value available at its destinations; v373's citation-only subject openings must be compared with Registry 5.3's locally needed explaining; and scripts offered to the Registry kit remain beside their source report rather than at the destination named by the proposed insertlet. Corus Part ONE now has the Registry entrance beside Arriving in its next comparison. No extra publishing, merger or universal file order is inferred from these proposals.
+
 ## The next work this makes possible
 
 1. **Compare Corus Part ONE whole with the Arriving shell and current offerings.** Part ONE was read whole in this pass. Follow its actual concepts one by one with the v382F preparation, v381R review and v385A corrections. Record existing value, local improving and source-specific concerns. Keep the site's practical directions at their actual use and the living explaining at its own subject.

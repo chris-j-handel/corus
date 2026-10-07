@@ -80,6 +80,12 @@ v385M is now verified at PR 129, branch `working/concerns-v385M`, `b827e48fc6dc7
 
 The [new source offer to M](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6043932118) locates THIRTY 310–312 beside current concern 4, retaining the unresolved relation at 491–494. No reply from either session was present when checked. No repeated request was sent to R or about AI. Corus Part ONE and Part 16 remain the next prior-source comparisons.
 
+## The Registry's further plans · 7 October 2026
+
+The user asked us to continue exploring, comparing and cohering the improving plans, including possible offerings at Living File Registry. [Registry Plan Comparison v385A](Registry_Plan_Comparison_v385A.md) records the complete reading of that offering mate, its carrying mate and the v373 resettling draft, with selected living passages and later sources beside them. It adds the Registry's own entrance and standing/history work, the repository-practice receiving, the hard problem subjects and locator, and the Ghost/Equilibria planned titles and common resolving. The record states the exact extent of reading; the full Registry and every destination remain to compare.
+
+Existing destination plans were found at NI, ONE and the hard problem and Ghost/Equilibria mates. A Registry comparison droplet carries the new cohering, and one shared Ghost/Equilibria planning droplet is at Registry, Ghost and Equilibria independently. The earlier bodies remain whole; the two further mates now point to the current v385A method. Corus Part ONE into Arriving remains next, now with the Registry's entrance and naming relations beside it, followed by Corus Part 16. No living exhibit or source artifact standing changes here.
+
 ## Verification and publication scope
 
 The old front's complete text is retained after the artifact's wrapper. Existing bodies of the three offering mates remain unchanged before the appended gathering droplet. The new droplet is identical at all three mates. Local source and destination links are checked against the repository; differences are checked for whitespace errors. These checks concern preservation and addresses, not a proof or execution of the natural method.
