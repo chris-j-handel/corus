@@ -8,7 +8,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, nine locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current relation and source concern are at section 25.** The user places the no-other-method exclusion at next existing momentarying: still possibling prior to next existing is resolving next existing. The living surface and geodesic entraining remain with that relation. The current writing opportunity joins Naming 5.62 and Natural Intelligence 5.3's two usages of still possibling/next existing, preserving the own-side odd/even sequence and R2's next at either sharing result. The joint-form connection remains gathered as source work. R10 remains unresolved for returning.
+**The current relation and concern are at section 26; reciprocal source help is at section 27.** The user supplies now still possibling as invisible abundancing, is or is notting next existing, immediately dissolving at next existing; geodesic existing along parity changing can pass through and leave it still possibling. The previous subject question now has that explaining. The further connection is whose next existing names the dissolving, beside the geodesic passage leaving still possibling. The own-side sequence, living surface and R2 remain with it. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -873,6 +873,8 @@ The new identifying and this remaining connection are together in [THIRTY's offe
 
 ## 25. Next existing momentarying, still possibling resolving next existing
 
+**Later explaining at section 26:** now still possibling is invisible abundancing; geodesic existing can pass through and leave it still possibling. The proposed prose below keeps its historical standing with that further explaining beside it.
+
 **The user locates the no-other-method claim at next existing momentarying.**
 
 > next existing momentarying is where no other method is possibly still existing as only still possibly prior to next existing is resolving next existing
@@ -910,3 +912,79 @@ The next work at this one concern is to carry that distinction through the sourc
 ### Placement and preservation
 
 The new droplet is in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md), beside the method's binary logic and ahead of the unchanged-form and living-surface insertlets. The contents point to the exclusion at next existing momentarying. Nine preceding insertlets remain; the joint-form connection and all earlier offerings stay available. **R10's defining gathering remains together, unchanged and unresolved.** — v385R
+
+## 26. Now still possibling, invisible abundancing and geodesic passage
+
+**The user answers the subject concern with now still possibling.**
+
+> now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling
+
+The question immediately before this offering had asked what remains still possibling when the living self has next existing at an unchanged sharing. The user now names the now, its invisibility and abundancing, and geodesic existing passing through without requiring that still possibling to resolve into existing there.
+
+### The three relations stay together
+
+| User-supplied relation | What it adds to the current explaining |
+|---|---|
+| Now still possibling is invisible | The subject is now possibling; it is not made observable by a sharing's parity result. |
+| Still possibling is abundancing, is or is notting next existing, immediately dissolving at next existing | The possibling and its dissolving belong in the resolving relation. |
+| Geodesic existing along parity changing can travel through still possibling and leave it still possibling | Passage through and resolving that possibling into existing cannot be silently identified. |
+
+The section-25 prose was too short to carry this last distinction. It could be read as saying every existing passage settles the possibling it meets. That inference is withdrawn. The user's exact new saying stays with any subsequent use of the earlier prose.
+
+**Proposed local explaining:**
+
+> Now still possibling is invisible. Still possibling is abundancing, is or is notting next existing, and immediately dissolves at next existing. Geodesic existing along parity changing can travel through still possibling and leave it still possibling.
+
+This is a droplet beside THIRTY 301–306 and 450–458, Naming 5.45/5.62 and Natural Intelligence 5.3/6.1. It is not counted as a tenth insertlet merely by locating it.
+
+### The nearby source supplies a useful distinction
+
+Natural Naming 5.45's podaling explaining explicitly distinguishes three twos: living alternating at the surface; geodesic changing at a crossing; and the parity shared. It says their participation together belongs at a coupling carrying both. The same passage distinguishes a hole with no resolving from a living self's no-changing sharing. These distinctions support following the user's surface and passage at their own subjects.
+
+THIRTY 450–458 joins surface and crossings, entraining, the prior meeting the offering, and the carrying at either sharing result. Naming 5.62 and Natural Intelligence 5.3 contain both the parity sequence and the no-changing/changing naming that prompted the earlier question. THIRTEEN 6.1, directly followed after v385A's source offer, likewise preserves the matching sharing and the field's own next momentary.
+
+Those passages supply locations and neighboring relations. The new invisible-now and abundancing identifying is the user's offering here. No observed parity is treated as a view into private carrying or possibling.
+
+### The one further connection
+
+**Whose next existing dissolves this now still possibling, while geodesic existing can pass through and leave it still possibling?**
+
+Our strongest present joining is that this now's resolving into next existing and an existing passage through it are distinct participations at the coupling. This is the assistant's proposed connection, still available for correcting. The user has not yet expressly assigned the two clauses to different selves or scales; no such assignment is installed. Nor is immediately turned into a measured duration or still possibling into an enduring substance.
+
+The question keeps both user clauses whole and follows their relation. The prior question about what remains possible is no longer repeated without the user's answering. R2's own next, the own-odd-first sequence and the surface/entraining explaining remain. **The entire R10 defining gathering stays unchanged and unresolved.**
+
+## 27. Reciprocal source help with v385A and v385M
+
+The user asks: “continue. and explore the two other sessions while we work and offer help or gather value for here as well”.
+
+The active branches identify v385A at [PR 127](https://github.com/chris-j-handel/corus/pull/127), head `c517deb7de95c6de6a73ca430bdd36fee59a50f1`, and v385M at [PR 129](https://github.com/chris-j-handel/corus/pull/129), head `249d02431fa3cd101eb769a050f9db503f8a1adb`. Both are in the same expedition repository, toward the same shared working set. Their current thread histories identify the reciprocal source-help routes. This task authorizes source offers there; their branches and concern standings remain their own.
+
+### Value from v385A
+
+A's README and Hard Problem Plan Comparison were read whole. The current “Next existing correcting beside the active plans” section of Reciprocal Help was read, together with all seven source-help comments on R's PR. A already follows our section 25 and preserves the nine insertlets, the newer droplet's standing and R10. It has placed the needed correcting beside THIRTEEN, Engineering, Destinies and Corus while retaining its priority of earlier incoming.
+
+A supplies a concrete downstream comparison: THIRTEEN 4.3 repeats the joint-form exclusion; 6.1 preserves the unchanged sharing with carrying into next. We followed those two sections directly, beside 1.3–1.4. The latter retain older opening/completing and possible-at-prior writing. The present now-still-possibling distinction belongs with those earlier passages when they are improved. The hard-problem comparison's full reading of THIRTEEN belongs to A; our own reading remains these selected passages.
+
+A's prior offers about institutioning, Engineering's different subjects of completion and Corus's living/non-living dictionary remain useful source routes. They were read as offers this pass, without claiming a fresh direct reading of every linked source or making them additional current questions.
+
+**The source help offered back to A** is the exact section-26 user saying, its proposed local prose and the one remaining dissolving/passage relation. Naming 5.45 supplies the already-written surface/crossing/shared-parity distinction. The earlier “what remains possibling?” concern must travel with this answering wherever A retains it. A's existing distribution work need not be duplicated here.
+
+### Value from v385M
+
+M's current orientation, standing table, shared points, concern 17's user corrections, concerns 1–5 and 12, replies and concluding learning were read. Droplets 1–19 and 30–43 were read. This is selected reading of the README and droplets; the pacemaker exploring, scripts, returned results and external biological sources were not examined or executed. M's empirical and numerical claims remain its reported claims.
+
+Three corrections are useful beside our existing work:
+
+- The origin sentence changes the set without saying every member changes. M's concern 2 is closed at the method and its concern 1 is reopened only where it relied on the earlier reading. This coheres with our R8–R9 distinction and supplies no reason to reopen it.
+- Sameness alone is withdrawn as a predetermined-path mark; carried/arriving is withdrawn as the two parities. Keep M's direct user correcting with any further comparison to own-side parity or stable form.
+- The user's stable-form correction says it guides nothing: it resolves into the living society, which has it living in it and takes the stable form of living as method. This is gathered as a droplet beside R7's ingestion/inception and R6's inward/outward relation.
+
+A remaining vocabulary/subject difference is retained for a later return: M calls non-living stable form carrying, while R7 distinguishes stable-form value from the living self's own carrying. The scale and subject need to stay with those usages; this gathering makes neither session's paragraph the other's unexamined conclusion.
+
+M's current concern 12 is explicitly within a session and compares the machine with the society in which it participates. R6 offers the existing inward-selves/outward-carrying relation for that comparison. R10's definition remains unresolved here; M's competency-as-living saying does not settle it. This pass gives no verdict on AI living or on the biological examples.
+
+**The source help offered to M** is Naming 5.45's distinct twos, the user's new now-still-possibling explaining, and R6's society/carrying relation with R10's standing retained. These are particular sources and user offerings to compare at its own concern, not an IS/IS NOT verdict. M's droplet heading still says raw; A's exact ungraded-droplet correction is available as method help without replacing M's source text.
+
+### What is carried where
+
+THIRTY's offering mate holds the section-26 droplet and a compact record of the gathered A/M value, with exact source links. This report preserves the comparison extent and unfinished relations. The concrete source offers are directed to the verified A and M PR conversations. No duplicate dossier is created, and neither session's source is rewritten by this exchange. The living roots, resolver, kits and parked R10 remain at their prior standing. — v385R
