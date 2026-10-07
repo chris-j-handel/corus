@@ -1,0 +1,11 @@
+torus 3 by 3                             a self still at the other cell: False ; at Exhibit ONE cell: False
+torus 2 by 3                             a self still at the other cell: False ; at Exhibit ONE cell: False
+two lone selves releasing to a third     a self still at the other cell: True ; at Exhibit ONE cell: False
+spirals of 3 and 4 crossed               a self still at the other cell: True ; at Exhibit ONE cell: False
+spirals of 2 and 3 crossed               a self still at the other cell: True ; at Exhibit ONE cell: False
+torus 3 by 4                             a self still at the other cell: False ; at Exhibit ONE cell: False
+torus 4 by 4                             a self still at the other cell: False ; at Exhibit ONE cell: False
+torus 2 by 2                             a self still at the other cell: False ; at Exhibit ONE cell: False
+spirals 2 and 2 crossed                  a self still at the other cell: False ; at Exhibit ONE cell: False
+spirals 4 and 4 crossed                  a self still at the other cell: False ; at Exhibit ONE cell: False
+joins drawn, each self receiving from one at least: the other cell leaves a self still at 131 of 160 societies

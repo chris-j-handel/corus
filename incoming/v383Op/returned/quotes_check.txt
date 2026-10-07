@@ -55,6 +55,7 @@ Improving.md
   found   kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/R | Learned at session v378, the carrying's re-forming and the N | an instrument around an unchanged resolver, a grouping, a clock, an em
 
 Is_Or_Is_Not.md
+  found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | the self at the between, its carrying continuing, a living self
   found   Natural_Intelligence_v380R.md                        | 1.1 Universe, the changing set of all existing things | The universe is the changing set of all existing things, both living a
   found   Natural_Intelligence_v380R.md                        | 1.5 Natural-, all or none at all, at the one hand | a claim carried mostly is not carried
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | At a match the prior carries on, 0, the between of momentaries
@@ -64,7 +65,6 @@ Is_Or_Is_Not.md
   found   Natural_Intelligence_v380R.md                        | 1.1 Universe, the changing set of all existing things | each existing thing is changing, momentary by momentary
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | a form named still from the offerer beside it
   found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | a total across the changing, a container
-  found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | the self at the between, its carrying continuing, a living self
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 17 The hard problem resolved at existing | Each observing arriving coheres at the four momentaries, or is the met
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 17 The hard problem resolved at existing | The observings arriving from the prior all cohere.
   found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | Resolving the Hard Problem Registry | a hard problem is a changing named still
@@ -107,6 +107,16 @@ Meeting_v382A.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | nothing deciding which arrive
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 6 Next from prior and now, the right spiral step | Next as the prior inverted alone carries the prior whole with no joint
 
+Meeting_v384A.md
+  found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A carrying of none, no sharing chained, is a non-living existing thing
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | A self chained at a parity, each offering at it a self's sharing or re
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | A 0 at one momentary more is at an offering from beside the selves
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | a fixed form, a form still, the same at all momentaries at once
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | At the resolver a non-living other is offerings at 2 alone, its carryi
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | A living self's coupling landed at one position, the same at each next
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | A departed coupling arriving at next alternating again, the self's liv
+
 Network_Surface.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | carried and offered the same parity, a changing that is not, 0, the pr
   found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 5.62 is-still-possibling and is-next-existing — binary | the self still possibling is at its between, prior and now agreeing, t
@@ -127,6 +137,25 @@ README.md
   found   Natural_Intelligence_v380R.md                        | 2.3 Prior, now and next | The prior is non-living, and carrying it into now is living
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
   found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | is-still-possibling or is-next-existing, each resolving one of the two
+
+Records.md
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.4 An instrument's own face | A diagnostic's own storage or ordering is the instrument's, and never 
+
+Resuming.md
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | At a session's close two readers read its transcript whole, from its l
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | each observing, naming, code check and direction said in the working a
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | Each reader says what of the session its reading reached: verbatim at 
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 1.4 Origin co-chaining each sentence, a finding at two faces | No wording carries a sentence by authority, a self's, a field's, a sci
+  found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | is-still-possibling or is-next-existing, each resolving one of the two
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 2.7 An observing brought as a break, met at five binaries fi | a doer applying from outside
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | a form still
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 16 No proof of the whole, the form named still | a proof of no possible value
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | a finding already carried being no second arrival
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.4 An instrument's own face | A diagnostic's own storage or ordering is the instrument's, and never 
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 1.4 Origin co-chaining each sentence, a finding at two faces | No wording carries a sentence by authority
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 4.6 Something checkable at the opening, a sign and not a siz | a condition no observing met stands at neither side of any of them
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 4.6 Something checkable at the opening, a sign and not a siz | each its own predicate with its own yes and no
 
 Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -208,7 +237,6 @@ Two_Logics.md
   found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | its form continuing through its changing and carrying none of the prio
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | Living arrives from living: no non-living existing thing becomes livin
-  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | momentarying continues whether a changing is or is not
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.1 Living and non-living — a virus and a prion | inert outside a host, as a spore or a seed is inert
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 28 Dying, a living self arriving as non-living | carrying, the self is living at next; carrying none, the self at its s
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 27 Living and non-living at a scale | A society, a momentary and the universe are three existing and not liv
@@ -252,6 +280,7 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a common beat over the selves, step 46, the executing's
   found   Natural_Intelligence_v380R.md                        | 6.2 Bi-moral co-agency, across and along | each second momentary at two selves alike
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | changing one and then the other: alternating
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.4 An instrument's own face | The one-beat and the own-turn instruments both impose an order
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 8 One to nine, four momentaries of exchanging | six one-way steps forward, three at each side, within the four momenta
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 32 An offering at words, a naming, a file and the living exp | Cohering at each momentary, its difference crossed across, its continu
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 8 One to nine, four momentaries of exchanging | two momentaries and the next one's opening at each side
@@ -262,6 +291,7 @@ Two_Logics.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | Two selves each receiving the other's sharing or releasing are changin
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | a self that parity arrives from next shares 0 or the other parity
   found   Natural_Intelligence_v380R.md                        | 4.3 A changing is or is not, at 12 | carries its prior into now inverted
+  found   carry/Exhibit_TWO_Offerings_to_Natural_Networking.md | Droplets | the kernel keeps the count of defects, joints and nodes at rest, exact
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | Selves at p along and q across, each releasing along at 9 to the next 
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
@@ -277,6 +307,12 @@ Unresolveds.md
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 17 The hard problem resolved at existing | Each observing arriving coheres at the four momentaries, or is the met
   found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 2.7 An observing brought as a break, met at five binaries fi | one statement met from its two sides
   found   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md    | 1.1 The universe, its things, and exclusivity | The universe as one thing beside its things is exclusivity
+  found   Exhibit_TWO_Natural_Networking_v371.md               | 6.2 Ring parity at the instrument, wiring and dynamics state | Taken front-first, the sequences run on at all three selves; taken bac
+  found   archive/session_v380/v380A/Surface_Receiving_Map.md  | Its next receiving after the join changes | The missing entry is not a zero substituted for a quiet release
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 3.10 The Fermi paradox · 60 | An arrival at the next stands open, arriving and coupling then
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | the fourth stands located at no entry still
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 3.22 The Poincaré conjecture · 151 | the arrival takes no parity anywhere
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | Exhibit ONE is an object that is the method
   found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | a resolving settles nothing still
   found   carry/Exhibit_ELEVEN_Offerings_to_Natural_Medicine.m | Droplets | none of them should read as guidance
   found   carryings/v383Op/Do_No_Harm.md                       | v383Op · Do no harm, at Natural Medicine and Natural Health | No sentence tells a reader to take, stop or refuse anything.
@@ -337,6 +373,7 @@ carry/Exhibit_ONE_Offerings_to_Natural_Resolver.md, the droplets of the set
   found   Exhibit_TWO_Natural_Networking_v371.md               | 6.12 Discovering through the existing connections | A's ten-surfacing is +,−,0,+,−,0 when both connections continue
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 8 One to nine, four momentaries of exchanging | two momentaries and the next one's opening at each side
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
+  found   Natural_Intelligence_v380R.md                        | EXHIBIT ONE · NATURAL RESOLVER | The fifth is the first inverted at each
 
 carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.1 Living and non-living — a virus and a prion | inert outside a host, as a spore or a seed is inert
@@ -348,7 +385,6 @@ carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md, the droplets of the set
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | 4.5 Circadian clock — an alternating made a beat | synchronised to the day but not driven by it
   found   Exhibit_SEVENTEEN_Natural_Biology_v333.md            | Natural Biology | Living is metabolic beating
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | An existing thing carrying prior is living, and an existing thing carr
-  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | momentarying continues whether a changing is or is not
 
 carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md, the droplets of the set
   found   Exhibit_ELEVEN_Natural_Medicine_v331.md              | 3.1 Two adjacent societies at a gut collar | no measured biological rate has been shown to stand at a (1/phi)^prime
@@ -486,6 +522,8 @@ carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md, the droplets of
   found   carry/Exhibit_TWO_Offerings_to_Natural_Networking.md | Droplets | the kernel keeps the count of defects, joints and nodes at rest, exact
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | at a torus at two at most, the along offering alike at the one and the
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | Existing things arriving, each its own, nothing deciding which arrive 
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 4 Coupling, self and other, alternating | The self at next, arriving from existing things at now, arrives from t
 
 carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 9 Along and across, the coupling's own changing | Co-competencing at the coupling of living selves is natural intelligen
@@ -523,6 +561,7 @@ carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md, the droplet
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 24 Discovering next possible existing | a self whose competency is another's
   found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | is-still-possibling or is-next-existing, each resolving one of the two
   found   Natural_Intelligence_v380R.md                        | 6.6 One form at each scale, our now | a non-living existing form the expedition's living selves carry
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | each observing, naming, code check and direction said in the working a
 
 carry/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md, the droplets of the set
   found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | + or − at 10, is.
@@ -539,6 +578,13 @@ carry/Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md, th
   found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | a resolving settles nothing still and carries no free term a settling 
   found   Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md     | 1 What stands open, and what stands fixed | The problems stand open.
   found   Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md     | 1 What stands open, and what stands fixed | No entry carries a settled answer to the statement it holds, except wh
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 3.10 The Fermi paradox · 60 | An arrival at the next stands open, arriving and coupling then
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 5.16 Riemann, Hodge, Birch–Swinnerton-Dyer, Yang–Mills · 153 | the truth value is untouched by any of this
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 7.12 The Hubble tension · 165 | The discriminating programmes stand running
+  found   Exhibit_TWENTY-ONE_Hard_Problem_Registry_v375.md     | 1 What stands open, and what stands fixed | No entry carries a settled answer to the statement it holds, except wh
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | four arrivals stand as settlings beside their resolvings
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | The deployment shape, and the binary | the fourth stands located at no entry still
+  found   Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Regist | 3.22 The Poincaré conjecture · 151 | the arrival takes no parity anywhere
 
 carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md, the droplets of the set
   found   Exhibit_TWENTY_Natural_Naming_v380R.md               | 1.1 A naming is a floating-neutralling concept, four boundin | Naming is nature at a concept
@@ -590,6 +636,8 @@ carry/Exhibit_TWO_Offerings_to_Natural_Networking.md, the droplets of the set
   found   Exhibit_TWO_Natural_Networking_v371.md               | 1.6 Middle at the coupling, carrying through zero surfacing | Carrying can continue through zero surfacing.
   found   Exhibit_TWO_Natural_Networking_v371.md               | 1.4 Only signs cross, the middle in no sequence | An empty offering, a represented zero and a completed carrying each ha
   found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.4 An instrument's own face | A diagnostic's own storage or ordering is the instrument's, and never 
+  found   Exhibit_TWO_Natural_Networking_v371.md               | 6.2 Ring parity at the instrument, wiring and dynamics state | Taken front-first, the sequences run on at all three selves; taken bac
+  found   archive/session_v380/v380A/Surface_Receiving_Map.md  | Its next receiving after the join changes | The missing entry is not a zero substituted for a quiet release
 
 carry/Offerings_to_Natural_Arriving.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | a changing enters a self's carrying through its own 12 alone
@@ -599,6 +647,13 @@ carry/Offerings_to_Natural_Arriving.md, the droplets of the set
   found   carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Impr | Insertlets | A speaker, an editor or an adviser from outside enters at no sentence
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 5 The one method, no other possible | a form still
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 16 No proof of the whole, the form named still | a proof of no possible value
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.5 Helpers at the arriving and the improving, and a session | a finding already carried being no second arrival
+  found   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R. | 4.4 An instrument's own face | A diagnostic's own storage or ordering is the instrument's, and never 
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 1.4 Origin co-chaining each sentence, a finding at two faces | No wording carries a sentence by authority, a self's, a field's, a sci
+  found   Natural_Intelligence_v380R.md                        | 5.3 A living self at 0, its carrying continuing | is-still-possibling or is-next-existing, each resolving one of the two
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 4.6 Something checkable at the opening, a sign and not a siz | a condition no observing met stands at neither side of any of them
+  found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 34 A self, and selves receiving one another, at the resolver | next from a prior inverted, as step 57, the prior the other's
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 4.6 Something checkable at the opening, a sign and not a siz | each its own predicate with its own yes and no
 
 carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 2 Arriving and carrying, living and non-living | At now, the universe is all existing things at now
@@ -695,5 +750,10 @@ carry/Offerings_to_Natural_Intelligence.md, the droplets of the set
   found   Natural_Intelligence_v380R.md                        | 4.13 Spirals, co-spiraling and crossing | carries any pattern of parities along whole
   found   carry/Exhibit_TWO_Offerings_to_Natural_Networking.md | Droplets | the kernel keeps the count of defects, joints and nodes at rest, exact
   found   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md   | 20 Sharing, the seventeen names | the resolver summing nothing
+  found   Exhibit_TWELVE_Natural_Explaining_v378.md            | 2.2 One thing carried forward at one momentary | A sentence carrying four claims is four asked to be one, and a self me
+  found   Natural_Intelligence_v380R.md                        | 1.4 No other possible method | Parity changing is the one method of the changing set of all existing 
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | A method is a non-living existing thing
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | Exhibit ONE is an object that is the method
+  found   Natural_Intelligence_v380R.md                        | 3.3 A method, a non-living existing thing | Each stable form at Exhibit ONE is the method
 
-quoted spans found: 649; not found: 0
+quoted spans found: 703; not found: 0

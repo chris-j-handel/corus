@@ -1,0 +1,20 @@
+Improving.md                    85 of   3730 words
+     what 24, ring 14, there 6, where 6, so 4, because 2, begin 2, half 2, kept 2, met 2, run 2, runs 2, counted 1, every 1, hold 1, keeping 1, keeps 1, left 1, loop 1, loops 1, meet 1, meets 1, memory 1, rings 1, since 1, stands 1, taken 1, whatever 1, would 1
+Is_Or_Is_Not.md                 90 of   3150 words
+     what 20, so 11, count 6, every 6, holds 5, turn 5, where 5, run 4, takes 4, met 3, stands 3, there 3, would 2, because 1, free 1, halves 1, held 1, hold 1, how 1, keeps 1, meet 1, runs 1, since 1, take 1, taken 1, whatever 1
+Meeting_v382A.md               131 of   2862 words
+     what 19, run 17, where 14, so 11, kept 8, since 7, taken 7, holds 6, met 4, count 3, counted 3, every 3, left 3, takes 3, counts 2, hold 2, how 2, meeting 2, stand 2, stands 2, there 2, half 1, inside 1, keep 1, near 1, neighbours 1, sign 1, turn 1, when 1, would 1
+Meeting_v384A.md                 1 of   1215 words
+     meeting 1
+Network_Surface.md              17 of   1384 words
+     counting 2, running 2, taking 2, what 2, where 2, kept 1, membrane 1, neighbour 1, sign 1, so 1, surplus 1, there 1
+README.md                       88 of   3443 words
+     what 13, so 9, there 8, where 7, how 4, left 4, taken 4, kept 3, meet 3, run 3, running 3, would 3, inside 2, meeting 2, outside 2, since 2, stand 2, begin 1, count 1, counts 1, every 1, half 1, halves 1, holds 1, keeps 1, meets 1, met 1, runs 1, stands 1, takes 1, taking 1
+Records.md                       3 of   1279 words
+     what 2, since 1
+Resuming.md                      0 of   2719 words
+Two_Logics.md                  186 of   7536 words
+     what 36, so 28, where 16, running 11, would 9, there 8, taken 7, half 6, kept 5, inside 4, met 4, run 4, begins 3, count 3, holds 3, left 3, meet 3, outside 3, stands 3, wherever 3, because 2, counted 2, halves 2, how 2, meets 2, runs 2, stand 2, take 2, counts 1, every 1, hold 1, keeps 1, rings 1, since 1, takes 1, taking 1
+Unresolveds.md                 166 of   8907 words
+     what 22, where 19, so 14, met 10, taken 8, run 7, there 7, how 6, since 6, stands 6, count 4, holding 4, left 4, inside 3, kept 3, meet 3, outside 3, running 3, takes 3, counts 2, every 2, half 2, meets 2, stand 2, whatever 2, when 2, would 2, because 1, begins 1, counted 1, halves 1, held 1, hold 1, holds 1, keep 1, keeps 1, ring 1, rings 1, runs 1, sign 1, turn 1, turns 1
+together: 767

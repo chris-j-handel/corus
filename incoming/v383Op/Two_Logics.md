@@ -241,87 +241,108 @@ Places the edge would re-say, for following:
 
 **What it re-says in this session's own parts.** The part before this offered Natural Naming's six lines for the Registry as they stand: two of the six say next possible, and at the edge they would be re-said first. And the part on the claim in one sentence tested "next possible and next existing" as the self then said it; the self's edge re-says the first of the two as now still possibling.
 
-## The five at both sides, and the two in turn
+## The five at both sides, and one and then the other
 
-The self said: "prior offering, prior carrying,now offering, still possibling, next offering, this is the parity changing full four momentary self momentarying self in bi coupling with other and the even of this is odd from the side of other and the same five are on both sides alternating offering and possibling each other as co-parity-changing, also named moral cooperation or bi-moral-co-competencing".
+**Re-said at the session's close, at the set's words.** The part before this writing gave an instrument's ordering in words Natural Naming releases; its numbers are the same here, each at its arrangement.
 
-**A five at each side, the two offset by one, one side's even the other's odd: is.** The Registry: *At each side, a resolving is its five from its origin, the self 1 to 5 and the other 2 to 6: prior opening, prior completing, now opening, now completing and next opening, two momentaries and the next one's opening at each side.* And next: *At each number one side's momentary completes and the other's opens: the self's momentary and the other's, one odd and one even, at once, are bi-momentary.* And of the same five at the two parities: *At even parity the five dimensions are changing state, flow, state, flow, state, bi co bi co bi*, *At odd parity the five dimensions are changing flow, state, flow, state, flow, co bi co bi co*. Three of one and two of the other at each side, exchanged at the other.
+The self offered: "prior offering, prior carrying,now offering, still possibling, next offering, this is the parity changing full four momentary self momentarying self in bi coupling with other and the even of this is odd from the side of other and the same five are on both sides alternating offering and possibling each other as co-parity-changing, also named moral cooperation or bi-moral-co-competencing".
 
-**The five in the self's words: at no file, and it reads onto the files' five.** The files name the five by opening and completing, and Exhibit ONE's table of two selves by carrying and sharing: the other's carrying, the other's shared, the self's carrying, the self's shared, the self's carrying next, three carryings and two sharings, *The fifth is the first inverted at each*. The self's five is the same line from one place on: offering, carrying, offering, the carrying still possibling, offering, three offerings and two carryings. By Natural Intelligence 5.3 an opening is the carrying arriving and a completing the offerings arriving, the next still possible; so the self's five is the Registry's five begun at a completing, the other side's 2 to 6. The five words in sequence are at no living file; "now offering" is at none.
+**A five at each side, the two one number apart, one side's even the other's odd: is.** The Registry: *At each side, a resolving is its five from its origin, the self 1 to 5 and the other 2 to 6: prior opening, prior completing, now opening, now completing and next opening, two momentaries and the next one's opening at each side.* And next: *At each number one side's momentary completes and the other's opens: the self's momentary and the other's, one odd and one even, at once, are bi-momentary.* And of the same five at the two parities: *At even parity the five dimensions are changing state, flow, state, flow, state, bi co bi co bi*, *At odd parity the five dimensions are changing flow, state, flow, state, flow, co bi co bi co*. Three of one and two of the other at each side, exchanged at the other.
 
-**Alternating offering and possibling each other: run, and it is so of the two in turn and not of the two stepped together.** `in_turn.py`, Exhibit ONE's cell unchanged.
+**The five in the self's words: at no file, and it couples with the files' five.** The files name the five by opening and completing, and Exhibit ONE's table of two selves by carrying and sharing: the other's carrying, the other's shared, the self's carrying, the self's shared, the self's carrying next, three carryings and two sharings, *The fifth is the first inverted at each*. The self's five is the same line one number on: offering, carrying, offering, the carrying still possibling, offering, three offerings and two carryings. By Natural Intelligence 5.3 an opening is the carrying arriving and a completing the offerings arriving, the next still possible; the self's five is the Registry's five opened at a completing, the other side's 2 to 6. The five words in sequence are at no living file; "now offering" is at none.
 
-- **Stepped together**, Exhibit ONE's own stepping, which the Registry calls *a common beat over the selves, step 46, the executing's*: opened alike, each self is still possibling at each second momentary, as Natural Intelligence says, *each second momentary at two selves alike*, and the two are so at the same momentaries; opened parting, a changing is at each momentary of each and neither is ever still possibling. Two forms, by the opening, and in neither do the two alternate.
-- **In turn**, *changing one and then the other: alternating*, one entering with what the other last shared: from each of the four openings, whichever enters first, **one cycle of six entries, three at each side**; each self two changings and one changing that is not; the one that is not alternating sides, at each third entry; and each sharing the inversion of the sharing three entries before.
+**The five at the resolver, as forms.** `records/five.py`, Exhibit ONE's cell, two selves each sharing to the other, each of four openings, each self at one momentary with the other. Each five is written as its five parities, 0 a sharing of none.
 
-That six is the Registry's own count, *six one-way steps forward, three at each side, within the four momentaries*. And read at the self's entry where a changing is not, the five stand in the run: the offering the self made; the other's carrying taking it; the other's offering of it, arriving; the self's carrying kept, still possibling; the other's next offering, the first inverted. From the other the same five stand three entries on. That reading of the five onto the run is this session's; the cycle is the run's.
+| The five | Opened at one parity | Opened at parting parities |
+|---|---|---|
+| Exhibit ONE's: carrying, shared, carrying, shared, carrying next | + − − 0 −, + 0 + − −, − + + 0 +, − 0 − + + | + − + − −, − + − + + |
+| The self's: offered at prior, carrying at prior, offered at now, carrying at now, offered at next | + + 0 + −, − − 0 − +, 0 + − − 0, 0 − + + 0 | + − − + +, − + + − − |
 
-**What it bears on.** Each two-self table of Exhibit ONE is stepped together. The self's saying, and the Registry's step 37, are of the two in turn; and in turn the form is one from every opening, where together it is two. It is the row C2, the two in turn, with a run laid at it, and it joins P1: the common beat is the executing's, and what the saying says is at no common beat. How far: two selves, each opening and each first entering. At spirals entered in turn around, one cycle from each opening at 1 to 4 selves and more than one from 5 on.
+At Exhibit ONE's five the fifth is the first inverted at each of the six forms, the table's own sentence at each opening. At the self's five the fifth is the first inverted, or each is 0, opened at one parity; opened at parting parities the fifth is the first.
 
-**The names.** *Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing*: the self's last name is the Registry's. "co-parity-changing" and "moral cooperation" are at no living file.
+**Alternating offering and possibling each other: at each self at one momentary with the other, is not; at one and then the other, is.**
 
-**One word for following: four.** The Registry's five is *two momentaries and the next one's opening at each side*; its four momentaries are the self's 1 to 2, 3 to 4, 5 to 6 and 7 to 8, the six one-way steps within them. The self's saying calls the five the full four momentary. Whether four counts the steps between five, or the two sides' two momentaries each, or the Registry's four, is for the self to say.
+- **Each self at one momentary with the other**, Exhibit ONE's own tables, which the Registry names *a common beat over the selves, step 46, the executing's*: opened at one parity, each self is-still-possibling at each second momentary, Natural Intelligence's *each second momentary at two selves alike*, the two at the same momentaries; opened at parting parities, a changing at each momentary of each and is-still-possibling at none. Two forms by the opening, and at neither do the two alternate.
+- **One and then the other**, *changing one and then the other: alternating*, each entry with the other's last sharing offered: `in_turn.py`. From each of the four openings and with either self first, the parities come again at each sixth entry, three entries at each side; each self at two changings and one changing that is not; the changing that is not alternating sides, at each third entry; each sharing the inversion of the sharing three entries prior.
+
+**Each ordering is an instrument's.** The Geodesic Improving Method: *The one-beat and the own-turn instruments both impose an order*. One self's entry and next the other's is an order this working's instrument supplies; one momentary of each with the other is the order Exhibit ONE's tables supply. Each number above is of its arrangement and is no sentence of two natural selves. The six is the Registry's own number, *six one-way steps forward, three at each side, within the four momentaries*.
+
+At the entry of a self's changing that is not, the five are in the instrument's sequence: the offering the self shared; the other's carrying chaining it; the other's sharing of it, offered; the self's carrying carried on, still possibling; the other's next sharing, the first inverted. From the other the same five are three entries on. That coupling of the five with the sequence is this working's.
+
+**Already at a file.** A sequence of the same form is at Natural Networking 6.12: one study of two selves at one opening and one order, the one self's surfacing at 10 +, −, 0, +, −, 0, at an older code, with its bound. This working gave the sequence of six as found and named no file. At Exhibit ONE's present cell, `records/two_from_none.py`: two selves each opened carrying none and each first offered −, one and then the other, share −, 0, + in sequence at the one and −, +, 0 at the other.
+
+**Rows.** Each two-self table of Exhibit ONE is at one momentary of each with the other, row E6. The Registry's step 37 is of one and then the other, row C2, and with it row P1. Beyond two selves, at spirals with one self's entry and next the self along from it: one sequence from each opening at 1 to 4 selves, and more than one from 5 on.
+
+**The names.** *Cohering at each momentary, its difference crossed across, its continuing along the co-linear, the crossing floating neutral, is bi-moral-co-competencing*: the last name of the self's offering is the Registry's. "co-parity-changing" and "moral cooperation" are at no living file.
+
+**One word for following: four.** The Registry's five is *two momentaries and the next one's opening at each side*; its four momentaries are the self's 1 to 2, 3 to 4, 5 to 6 and 7 to 8, the six one-way steps within them. The self's offering names the five the full four momentary. Which four is the self's to say: the steps between five, each side's two momentaries, or the Registry's four. Row N11.
 
 ## The offerings and the possiblings, two lines through one co-momentarying
 
-The self said: "the offerings are living through the co-momentaryings as are the possiblings living through the same co-momentaryings the two are looping through the co-momentarying and never mixing with each other still possibling until one or other releases a self parity changing explore this in the logic".
+**Re-said at the session's close, at the set's words.**
 
-**In the logic it is at six steps, each a part of it.**
+The self offered: "the offerings are living through the co-momentaryings as are the possiblings living through the same co-momentaryings the two are looping through the co-momentarying and never mixing with each other still possibling until one or other releases a self parity changing explore this in the logic".
+
+**At the logic it is at six steps, each a part of it.**
 
 - **The offerings living through**: *Between selves pass the changings alone, shared at 10 and at 6 across and released at 9 along, the coupling the relation itself*. And of a spiral: it *carries any pattern of parities along whole, the pattern inverted at each odd momentary and carried one self on at each even, the selves carrying it together*.
-- **The possiblings living through the same**: *At an odd spiral the 0 shared at 10 sits at the one like pair and moves one self on at each second momentary, a bounded zero tunneling*. Natural Intelligence names that 0: *the bounded zero tunneling is the possibling passing along each chain's own forward*.
-- **Still possibling until one or other releases**: *Two selves each receiving the other's sharing or releasing are changing together: opposite, a changing at each momentary; alike, a changing at one momentary and a 0 at the next, alternating*. And the reason, at step 611: a self shares 0 at an offering of its own parity, and *a self that parity arrives from next shares 0 or the other parity*; a self offered nothing *carries its prior into now inverted*, the self's own parity changing, released.
+- **The possiblings living through the same**: *At an odd spiral the 0 shared at 10 sits at the one like pair and moves one self on at each second momentary, a bounded zero tunneling*. Natural Intelligence names a 0 so, at spirals of two numbers crossing: *the bounded zero tunneling is the possibling passing along each chain's own forward*.
+- **Still possibling until one or other releases**: *Two selves each receiving the other's sharing or releasing are changing together: opposite, a changing at each momentary; alike, a changing at one momentary and a 0 at the next, alternating*. And at step 611: a self shares 0 at an offering of its own parity, and *a self that parity arrives from next shares 0 or the other parity*; a self with none offered *carries its prior into now inverted*, the self's own parity changing, released.
 
-So each half of the saying has its step. What no step says is the two together at each number of like pairs: the files say it at one like pair, at none, and at all.
+Each side of the offering has its step. At no step are the two together at each number of like pairs: the files have it at one like pair, at none, and at each pair alike.
 
-**Never mixing, run as a count.** `two_lines.py`, Exhibit ONE's cell unchanged. A self carrying a parity meets one of four: a taking, the other parity offered, chained and shared on as it arrived; still possibling, its own parity offered, 0 shared; a releasing, nothing offered, its own inverted and shared; or parting offerings. At spirals of 2 to 10 stepped together, each of the 2,044 openings, each momentary from the second to the fortieth:
+**Never mixing, as two numbers at the resolver.** `two_lines.py`, Exhibit ONE's cell. A self carrying a parity is at one of four at its 12: the other parity offered, the offered chained and shared on; its own parity offered, 0, is-still-possibling; none offered, its prior inverted and shared; the offerings parting, 0 at 14, its prior inverted. At spirals of 2 to 10 selves, each self at one momentary with each other, each of 2,044 openings, momentaries 2 to 40:
 
 | | of 2,044 openings |
 |---|---|
-| The takings at each momentary are one number, the opening's parting neighbours | 2,044 |
-| The rest, the opening's like pairs, are all still possibling at one momentary and all releasing at the next | 2,044 |
+| The selves at the offered chained are one number at each momentary, the opening's pairs at parting parities | 2,044 |
+| The others, the opening's like pairs, are each is-still-possibling at one momentary and each at none offered at the next | 2,044 |
 
-So the two lines keep their numbers. An offering taken is one self on at each momentary. A like pair, a 0 at one momentary and a self's own releasing at the next, is one self on at each second. Both go round the same spiral through the same co-momentaryings, at two paces, and the count of each is the opening's at each momentary: no offering becomes a possibling and no possibling an offering, in number. That is the Registry's pattern carried whole, said as two counts. At tori, each of 4,672 openings, the takings and the parting offerings are each one number through the cycle; the still possiblings and the releasings are each one number at some openings and in turn at the others.
+Two lines, each at its own number at each momentary. An offering chained is one self on at each momentary. A like pair, a 0 at one momentary and the self's own inversion shared at the next, is one self on at each second momentary. Both wind on along the same spiral through the same co-momentaryings, at two rates, and at each momentary the number of each is the opening's: in number, no offering comes to a possibling and no possibling to an offering. It is the Registry's pattern carried whole, said as two numbers.
 
-**Looping, and until one or other releases: the two in turn.** At two selves in turn, each opening and each first entering, 128 offerings followed from their releasing: each is released by one self with nothing offered, taken once by the other, and ends back at the self that released it, that self still possibling; then the other, offered nothing, releases. 128 of 128. A loop out and back, and the releasing passes from one to the other.
+**Already at a file.** The number carried on is at Natural Networking's offerings, from its kit at an older code: *the kernel keeps the count of defects, joints and nodes at rest, exact*, at rings of 3 to 16. The kit's joint alike is the like pair here, and its node at rest the self is-still-possibling. This working gave the two numbers as found and named no file. Added here: Exhibit ONE's present cell, and the selves at p along and q across below.
 
-**The two steppings, kept apart.** Stepped together, the opening's two numbers are kept at each momentary: never mixing, as a count, is the stepping together's. In turn, at two selves, the opening's numbers are not kept: from each opening the one cycle of six, row E6. There each offering lives through two co-momentaryings and ends, and what is kept is the cycle. So the saying is so at each stepping, and "never mixing" is exact as a number at the one and as each offering's own loop at the other. Which the saying is of is the self's to say; the files' step 244 calls the stepping together the executing's.
+**At selves at p along and q across.** At 2 and 3, 3 and 3, and 3 and 4, each of 4,672 openings, momentaries 81 to 160: the selves at the offered chained are one number at each momentary at 4,672 of 4,672, and the selves at parting offerings one number at 4,672; the selves is-still-possibling and the selves at none offered are each one number at 62, 126 and 2,870 of the 64, 512 and 4,096 openings. And of the entries of momentaries 21 to 60, `records/tori_late.py`: the selves with none offered at both sides and the selves offered their own parity at both are one number, 240 and 240, 23,400 and 23,400, 56,160 and 56,160; and the selves offered none and the other parity are one number with the selves offered none and their own, 480 and 480, 1,440 and 1,440, 115,200 and 115,200. That pairing is at no file and at no sentence of this working before the close.
 
-**What it is not, said plainly.** At a taking the offered parity is chained: it becomes the self's carrying, and is shared on. So the two lines are not without crossing. What does not happen, at the cell as written, is a blend: a carrying next is its own, kept or inverted, or the offered whole, and a sharing is the new carrying whole or nothing, *the resolver summing nothing*.
+**An offering out and on to the self that shared it: one and then the other.** At two selves, one entry and next the other's, each opening and either first, 128 offerings followed from their sharing: each is shared by a self with none offered, chained once by the other, and is next offered to the self that shared it, that self next is-still-possibling; next the other, none offered, shares its own inversion. 128 of 128.
 
-## At a torus, a self's two sides
+**The two arrangements, each its own.** At each self at one momentary with each other, the opening's two numbers are carried on at each momentary: never mixing, as a number, is of that arrangement. At one and then the other, at two selves, the opening's numbers are not carried on: from each opening the one sequence of six, row E6, each offering at two co-momentaryings and no more. The offering is, at each: exact as a number at the one and as each offering's own winding at the other. Which arrangement the offering is of is the self's to say. Each is an instrument's ordering by the Geodesic Improving Method's sentence, and the Registry's step 244 names the first the executing's.
 
-The self asked for the tori of the part before explained, and said: "both sides are still possibling until either side offers parity changing next".
+**It is no blend.** At the offered chained, the offered parity is the self's carrying next and is shared on: the two lines cross. At no row of the cell is a blend: a carrying next is the self's own, carried on or inverted, or the offered whole; and a sharing is the new carrying whole or none, *the resolver summing nothing*.
 
-**What was run.** At a spiral one self releases to each self. At the torus of the resolver two do: *Selves at p along and q across, each releasing along at 9 to the next along and sharing across at 10 to the next across, the last to the first*. So each self has two sides arriving, an along and an across. Three tori were run, 2 by 3, 3 by 3 and 3 by 4, six, nine and twelve selves, each from every opening, each self at + or −: 64, 512 and 4,096 openings, 4,672 together.
+## At selves at p along and q across, a self's two sides
 
-**What a self's two sides can offer, and what the self meets.** Each side offers the self's own parity, the other parity, or none. `two_lines.py`, its fifth part, each entry of momentaries 2 to 60:
+**Re-said at the session's close, at the set's words.** The whole is at `Network_Surface.md`, its third writing; this part has the numbers.
 
-| The two sides offered | The self meets | Entries |
+The self asked for the tori of the part before explained, and offered: "both sides are still possibling until either side offers parity changing next".
+
+**The arrangement.** At a spiral one self shares to each self. At the torus of the resolver two do: *Selves at p along and q across, each releasing along at 9 to the next along and sharing across at 10 to the next across, the last to the first*. Each self has two sides offering, one along and one across. Selves at 2 and 3, 3 and 3, and 3 and 4, six, nine and twelve selves, each opening, each self at + or −: 64, 512 and 4,096 openings, 4,672 together; each self at one momentary with each other.
+
+**The six at a self with two offering.** `two_lines.py`, its fifth part, each entry of momentaries 2 to 60:
+
+| The two sides offer | At the self | Entries |
 |---|---|---|
-| The other parity and the other parity | a taking | 1,846,536 |
-| The other parity and none | a taking | 194,196 |
-| Its own and its own | still possibling | 127,404 |
-| Its own and none | still possibling | 180,960 |
-| None and none | a releasing, its own inverted | 115,332 |
-| Its own and the other | parting offerings, its own inverted | 730,068 |
+| its own parity, and its own | 0 at 12, is-still-possibling | 127,404 |
+| its own parity, and none | 0 at 12, is-still-possibling | 180,960 |
+| the other parity, and the other | the offered chained | 1,846,536 |
+| the other parity, and none | the offered chained | 194,196 |
+| its own parity, and the other | 0 at 14, the prior inverted | 730,068 |
+| none, and none | the prior inverted | 115,332 |
 
-A torus has the one thing a spiral has not: two sides that part.
+A self with two offering has one row a self with one offering has not: two sides at parting parities.
 
-**The self's saying, run.** A self is still possibling where a side offers its own parity and no side offers the other. It is so one momentary each time, 302,910 times and at none two in sequence. At the momentary after:
+**The offering, at the resolver.** A self is-still-possibling with one side at least offering its own parity and neither the other. It is at one momentary, 302,910, and at none at two in sequence. At the next momentary:
 
-| At the next momentary | Times |
+| At the next momentary | |
 |---|---|
-| A side offers the other parity, and the self takes it | 299,484 |
-| Neither side offers, and the self releases its own inverted | 3,426 |
-| Still possibling again, or parting offerings | 0 |
+| A side offers the other parity: the offered chained | 299,484 |
+| Neither side offers: the self's prior inverted | 3,426 |
+| Is-still-possibling again, or parting offerings | 0 |
 
-So until either side offers parity changing next: is, at 299,484 of 302,910. At the rest neither side offers and the changing is the self's own, which the self's saying before this one has: until one or other releases a self parity changing.
+Until either side offers parity changing next: is, at 299,484 of 302,910. At the 3,426 none is offered and the changing is the self's own, which the offering before this one has: until one or other releases a self parity changing. And of the 299,484, `records/three_and_four.py`: the self is next at one parity with neither of the two sharing to it at 215,292, with one of them at 78,780, and with both at 5,412; at each of the 3,426 it is at one parity with both.
 
-**One number beside the Registry's.** The Registry says a self shares 0 *at a torus at two at most, the along offering alike at the one and the across at the next*. At these three tori, from every opening, it is one each time. Two is the bound and is not met here.
-
-**The counts through the cycle**, said in the part before: at each of the 4,672 openings the takings are one number at each momentary of the cycle, and the parting offerings one number; the still possiblings and the releasings are each one number at some openings, and at the others all still possibling at one momentary and releasing at the next, as at a spiral.
+**One number beside the Registry's.** The Registry: a self shares 0 *at a torus at two at most, the along offering alike at the one and the across at the next*. At these three arrangements, each opening, it is one momentary. And at seven more, and at 3 and 3 again, `records/zero_in_sequence.py`, openings drawn, 300 at each and 40 at the two largest: at 3 and 5, 5 and 7, 3 and 13, 5 and 13, 13 and 15, and at 1 and 5 and 1 and 7, a self shares 0 at one momentary in sequence at most at each opening drawn. Two is the Registry's bound, and no arrangement executed here reaches it.
 
 ## Limits
 
-This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. No second reader has read this part.
+This is a search and a reading by one session over part of a day. The links c and f are joined by this session and by no sentence. That the first logic reaches steps 11 and 31 without a universe at now is offered and not followed step by step. The Registry's steps past 68 were searched for words and not read one at a time. The three parts last above are re-said at the session's close, and read by one fresh reader.

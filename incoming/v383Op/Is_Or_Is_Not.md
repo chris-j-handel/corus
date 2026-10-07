@@ -2,6 +2,8 @@
 
 > **Read with `Meeting_v382A.md`, laid 6 October 2026.** Where this file writes "is not" of a step, it says the step is not derived from the opening sentence alone, and not that its relation is not so; the logic working v382A's method keeps those two apart, and this file's words did not. The self has since given the word, and it is the files' own: a step not yet derived is still possibling, the other side of is-next-existing, and no is-not of its relation; `Two_Logics.md`, its part on the three places. Its second shorter deriving, of the self's own prior, is not what the resolver does: the prior the next inverts is the other's.
 
+> **At the session's close.** A fresh reader's report on this file is at `records/readers/06_is_or_is_not.md`, and the report of the reader of steps 1 to 68 at `records/readers/02_the_Registry_steps_1_to_68.md`: its mark at each step, and three things it marked as added that are at none of the nine below, row C15. At the fourth offering below, *the self at the between, its carrying continuing, a living self* is Natural Intelligence's sentence of a living self at 0; of a non-living thing found the same it says nothing. [`Resuming.md`](Resuming.md) opens the folder.
+
 **The largest remaining concerns, revised at all or none at all**
 
 **Written at the form of `main`, one carrying a file.** Where this part says an entry is "laid at a file's carrying", at the three-file form it is a droplet at that file's offerings, by its row in [`Unresolveds.md`](Unresolveds.md); a script of the first report it names is at `carryings/v383Op/`.

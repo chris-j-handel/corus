@@ -4,7 +4,7 @@
 
 - **Read at**: `working/transmissioning-v384A`, commit `fcfa8d9`: `incoming/v384A/Dormancy_Carrying_and_Geodesic_Releasing_v384A.md` whole, and the reciprocal offering at each droplet aimed at this working. The proposal for Natural Transmissioning, 617 lines, is read at none of its sections.
 - **v384A reads this working at** `720d205`, and the logic working v382A at its pass 70, `4c996c0`. It says each address.
-- **v382A reads this working at** pull request 124. Its files name pull request 125 at none of their lines.
+- **v382A reads this working at** pull request 124. Its files name pull request 125 at none of their lines. **Later, at the session's close**: v382A reads this folder at `0779a54` from its pass 71, this file whole among it; and v384A has this file's reply at its dormancy droplets 16 to 18 and its twenty-third reciprocal droplet, and asks two namings coupled, row N14. [`Resuming.md`](Resuming.md).
 
 ## A correction received
 
@@ -60,6 +60,6 @@ And v384A's droplet 10 brings the Registry's own two sentences of a sharing the 
 
 **Cohering, at one relation each has at its own place**: is-still-possibling is no parity changing at one sharing with the carrying continuing, and is no name of an organism dormant, of an offering of none, or of a carrying of none. v382A has it at its method, a matching offering giving no changing shared and the prior chained into next. v384A has it at its droplets 8 and 12. This working has it at the rows.
 
-**Resolving with each other: is, between v384A and each; between v382A and this working's present files, observed at neither side.** v384A carries each working's corrections to the other at its own droplets.
+**Resolving with each other: is, between v384A and each; and, from v382A's pass 71 on, between v382A and this working's present files.** v384A carries each working's corrections to the other at its own droplets.
 
 **Still possibling at each of the three**: the Registry's steps 32 to 35, the particular other and all other, v382A's earliest and v384A's first concerning and this working's row C13; and at v384A, the offering that an offering and a sharing gather at one naming, possibling, which this working has at no reading.
