@@ -1,6 +1,8 @@
 # Logical cohering of the universal claims · v385R
 
-**7 October 2026 · First exploring and resuming report**
+**7 October 2026 · Exploring, correcting and one concern for resolving together**
+
+**Current working: section 10.** Following the user's correction, we use natural naming and explaining at do-no-harm, bringing one logical concern here at a time. The opening/completing explaining previously offered in section 4 is withdrawn. The first concern for our conversation is the exclusion of another possible method at THIRTY 46–49, following the existing R4 droplet. The wider routes below remain available; they are no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -88,16 +90,11 @@ This is a reading of the published branches at an already-carried sharing, not a
 
 The first row is decisive for the present explaining: **no parity changing shared at this sharing supplies no absence of the self's next.** In ONE's five-parity table, the rows with 0 shared still give a parity in the self's next column. Under that table's stated two-self, both-ways conditions, the self's now retained and the other's prior inverted can both be said of the same row, with their different priors retained.
 
-Two uses therefore need their named subjects in the writing:
+**Correction at this explaining.** The user corrected the use of opening and completing in our natural naming. The paragraph previously offered using those terms is withdrawn from our current offering. Its earlier wording remains in the prior version of this session artifact. Occurrences in older sources give that wording no authority for our working.
 
-1. **Opening and completing:** now existing at the self's opening, the other's offering and still possibling at the completing, then next existing at the next opening.
-2. **The binary at one sharing:** parity changing is or is not. At a match the carried parity is chained on; at the other cases the changing is chained. Both branches have their next in the entry.
+The useful comparison remains at the same self and the same sharing: **parity changing is or is not; the carrying continues at either.** At a match the carried parity is chained on; at the other cases the changing is chained. Natural Naming's explaining of a carrying and of momentarying supplies these relations. Momentarying continues whether a changing is or is not. An unchanged parity at one sharing supplies no form named still across the self's momentaries.
 
-Natural Intelligence 5.3 and Natural Naming 5.62 already place both in one paragraph. The positive improving is to keep each subject explicit when this explaining enters THIRTY. In particular, “is-next-existing” used for the changing outcome alone must not silently become a claim that the matching branch has no next existing. The surface's unchanged parity is not a frozen whole existing thing.
-
-**Locally aimed explaining for further resolving:** “At its opening the self carries its prior. The other's offering participates at the completing, the next still possibling. At each carried sharing a parity changing is or is not; the matching prior is chained on, or the changing is chained. At the next opening that chaining is the self's prior. The unchanged parity at one sharing supplies no form named still across all the self's momentaries.”
-
-This paragraph is offered for comparison at THIRTY's first explanation of the resolving, beside steps 204–212, with 301–308 following it. It has not been placed as an insertlet or entered into a living file. Its word “next” and the last sentence retain the named self, sharing and actual next entry. It supplies no inference about a seed's inward condition from an outward non-detection and no second intelligence outside the coupling.
+Still possibling and next existing remain available for further explaining at these relations. No replacement paragraph is offered for insertion by this correction. The relevant places remain THIRTY 204–212 and 301–308, ONE's published branches and table, Natural Intelligence 5.3 and Natural Naming 5.7, 5.55 and 5.62. The active concern for our conversation is in section 10.
 
 ## 5. A floating contents structure for the full claims
 
@@ -137,7 +134,7 @@ The proposed SIX is useful here because the same long relation is currently dist
 ## 7. The next logical passes
 
 1. **Complete the opening-to-coupling passage.** Read THIRTY 1–40 in order beside Natural Intelligence 1.1–2.3 and Natural Naming 5.13, 5.49 and 5.54. Carry the current set/thing relation and step-35 identification at their exact sentences. Include the later v383Op C15 reader questions: the kind carried into next, the prior and now said apart, and the successive momentaries. These are places to follow at the same subject, not established failures. State a supplied relation as supplied; unread work remains next exploring.
-2. **Resolve the still-possibling paragraph locally.** Follow the offered explaining in section 4 through THIRTY 204–212, 301–308 and every later next-possible dependency. Compare it at SIX's proposed 1.2–1.3 and 2.1–2.2, ONE's published cases and Naming 5.62. Preserve the two subjects rather than exchange one label for another.
+2. **Follow still possibling at its named relations.** The prior paragraph in section 4 is withdrawn following the user's correction. Preserve the comparison of parity changing and the continuing carrying through THIRTY 204–212, 301–308 and each next-possible relation. Compare SIX's proposed 1.2–1.3 and 2.1–2.2, ONE's published cases and Naming's carrying, momentarying and still-possibling explaining. Further writing belongs to our local resolving together.
 3. **Follow the universal and unique claim.** Carry the exclusion at 46–49 and the one-method participation through the scale passage at 169–171 and 366–378. Separate the numerical forms, their supplied conditions and the relation requiring that same form at the living coupling. No finite enumeration alone completes the universal passage.
 4. **Follow social moral competency and bi-moral co-agency.** Keep inward selves, outward self and society explicit at 174–190, 375, 387–401 and 472–503. Compare SIX Parts Three and Four and the naming. Moral cooperation can unfold there at the user's intended relation.
 5. **Follow the exclusions and resolvings.** Equilibria, hard problems, scientific accounting and the intelligence claim each retain their full extent, with the concrete derivation and the actual observing or conception at its own subject. The two hard-problem registries preserve what question has and has not been answered.
@@ -151,7 +148,7 @@ The following paragraphs are offered here for v385A's placing. Their labels pres
 
 **R1 · The full claims visible at the contents.** Exhibit THIRTY already carries social moral competency, bi-moral co-agency, the equilibria exclusion, hard-problem resolving, scientific-method incompetencing and the machine cases within broad groups. Give each universal claim a visible place in the contents, with its deriving and conditions beneath it. Section 5 of this report locates the current routes; preserving the steps and their dependencies governs the later regrouping. Possible places: THIRTY, SIX, Natural Intelligence and the Living File Registry offerings. — v385R
 
-**R2 · The two subjects at still possibling.** Natural Naming 5.62 and Natural Intelligence 5.3 say the opening/completing relation and the changing-is-or-is-not at a sharing together. THIRTY 204–212 and 306 carry the operation without the still-possibling name. ONE's matching case still chains its prior into next. Resolve the explaining with the same self and sharing named, so next existing at the next opening is not restricted by silence to the mismatch case alone. Section 4 offers the comparison and a paragraph for further local resolving. Possible places: THIRTY, Naming, Natural Intelligence and SIX offerings. — v385R
+**R2 · Parity changing and the continuing carrying at still possibling.** At one sharing parity changing is or is not, and the carrying continues at either. ONE's matching case chains its prior into next. Natural Naming's carrying and momentarying explaining supplies that relation; still possibling and next existing are followed at the same self and sharing. THIRTY 204–212 and 306 contain the operation without the still-possibling name. Section 4 retains the useful comparison and withdraws the opening/completing paragraph following the user's correction. Possible places: THIRTY, Naming, Natural Intelligence and SIX offerings. — v385R
 
 **R3 · Other at step 35.** Preserve v382A's narrowed D37 and v384A's correction that offering already participates both ways. Follow the same self's prior, other at now and own next through the actual couplings. THIRTY 174 and 178–181 already distinguish a particular other from the whole offering; 204–212 supplies surfacing. Bring that identification to its first needed sentence without using the later overlap as its own unstated premise. Possible places: THIRTY and SIX offerings. — v385R
 
@@ -167,4 +164,47 @@ The first local result is the shared no-changing/next-chaining distinction at th
 
 No resolver or scientific calculation was executed. File parsing and source-address checks concern the written report only. The report alone is added on `working/logical-cohering-v385R`; the living sources, their mates and the other workings' branches are not edited here. No message has been sent to another session. The report is available for the next logical pass and for v385A's incoming work.
 
-**Resume at:** section 7, first passage, THIRTY 1–40 with the exact set/thing and step-35 relations retained; then resolve section 4's still-possibling explaining at its local source. The universal claims remain the aiming throughout.
+**Resume at:** section 10's one concern, for resolving here together. The universal claims remain the aiming throughout.
+
+## 10. Naming, explaining and one concern for resolving together
+
+### Our working at the user's correction
+
+The user directs this working to natural naming, natural explaining and geodesic do-no-harm improving. Opening and completing are withdrawn from the explaining we offered. We use momentarying, carrying, offering, sharing, parity changing and chaining at the relations each names. Older wording remains available at its sources; its occurrence decides no naming for our conversation.
+
+**Naming bounds the concept; explaining follows its relation.** Natural Naming's four boundings keep the concept whole, its own continuing and orienting, and its differing from other concepts. Its account of naming and resolving keeps an unfilled relation with the concept and its reason. Its explaining of two namings coupling asks whether each reaches the shared term through its own relation. A shared word alone supplies no joining.
+
+**One sentence adds one relation to the explaining already offered.** Natural Explaining places the same subject and relation at the binary, with each naming explained in familiar words at its arriving. Naming identity, necessity at stated premises and a claim at all existing things each say their own relation. A concern includes its reason; its recording confers no grade.
+
+**Do-no-harm improving preserves the useful understanding at the concern.** Geodesic Improving places a correction at the first relation needing it, brings a change of meaning or naming to both of us, and follows one concern at a time. The user explicitly directs that words short of the files' all-or-none explaining are not our authority or level for deciding the work. We follow the concept and its possible improving. Word substitutions and a general purge supply none of that resolving.
+
+For each concern we record the actual sayings, the best explaining available, the particular relation needing attention, our correcting together and the possible offering mates. These are the working record of the concern. A droplet remains ungraded; an insertlet is locally resolving into a particular exhibit's writing and self-welcoming locating plan. A destination alone supplies none of that resolving.
+
+### One concern: another method and a thing beside all existing things
+
+**The claim is the full one: parity changing is the one possible method of the changing set of all existing things.** This concerns the universality and uniqueness of the fractal method, including the living and the non-living, and the later claim that no other intelligence is possible. Its universal extent remains our aiming.
+
+**The strongest current explaining starts with the universe existing as its changing things exist.** No additional container, clock, ground or store is needed beside them. Natural Intelligence's explaining of changing follows one form and another, one at a time, at a changing that is or is not. Natural Naming's alternating follows each side's own continuing and offering. THIRTY names this parity changing at the coupling. Different forms and different namings can express that same method.
+
+**The precise concern is at the exclusion of another method.** THIRTY step 46 says that a second method carries a thing beside all existing things. Step 47 excludes an existing thing beside all existing things. Step 48 excludes a method needing that thing. The relation to follow is the one at step 46: a proposed differing changing among existing things being either this same method or a changing that needs something beside all existing things. The exclusion of a thing beside all existing things does not itself explain that identification.
+
+Natural Naming's alternating and Natural Intelligence's no-other-method paragraph offer the fuller relation: a form named still, or the participant's own continuing at the coupling; the latter is identified as alternating. This is the useful explaining to follow at the concern. The living and non-living participation stays explicit: carrying prior is the living's, and a non-living thing's form continues through co-changing. A thing carrying none of its prior is not, on that account, a thing named still.
+
+**Our question here is: which relation identifies every proposed different changing within the universe as this same parity-changing method, or shows the thing beside all existing things that it needs?** The natural-intelligence offering is that the actual coupling, followed through its own changing, supplies that resolving. The next explaining can follow that identification at the coupling and preserve the distinction between another form of the same method and another method. Merely naming the proposed other as beside the universe repeats the claim at issue.
+
+This follows the existing R4 droplet and v383Op concern C9. The later Two Logics offering joins fractal and unique through inversions and explicitly relies on one method at a thing. That relation remains part of this concern; changing the names of the two sides supplies no independent exclusion. No observing of another method is asserted here, and no contradiction of the method is concluded from this question.
+
+**For our resolving together:** the concern above is the one brought to the conversation. No replacement for THIRTY 46–49 is proposed at this pass. Possible aiming is the offering mate for THIRTY at the no-other-method explaining, Natural Intelligence at its corresponding paragraph, and SIX at its connected explaining of the method. Its existing droplet identity is R4. v385A's placement work remains distinct from our resolving here; this update changes the v385R session record only.
+
+### Sources at this concern and orientation
+
+The branch check on 7 October 2026 found the shared working source still at `18889e06d5ac452111b1bcd8a8840e46b7c5615a` and the v385A method correction still at `45fe8b0dc2c21fb423d3efa320c8f8beb227f538`.
+
+- [Natural Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md): four boundings; naming and resolving; the word selections' express absence of wording authority; two namings coupling; seven binaries; alternating, carrying, bi-momentarying, co-momentarying, bi-co-momentarying and momentarying. The orientation was a substantial selected reading, not a complete reading of all entries.
+- [Natural Explaining](../../Exhibit_TWELVE_Natural_Explaining_v378.md): its four parts, particularly one relation at a sentence, supplying, the scope of a necessity, explaining as competency and two explainings joined through their relation.
+- [Geodesic Improving Method](../../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md): do-no-harm, a correction at its first relation, a meaning or naming brought to both, hardest first one at a time, the scope of a contradiction, and each source read with its correcting. The v385A correction and the present user's directions accompany this older wording.
+- [THIRTY](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md): sequential reading through the first six groups, with steps 41–49 at this concern.
+- [Natural Intelligence](../../Natural_Intelligence_v380R.md): universe, changing, living and non-living, and no other possible method, sections 1.1–1.4.
+- [Two Logics](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Two_Logics.md): the offered relation of fractal and unique and its stated reliance on one method at a thing; [Unresolveds](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Unresolveds.md), C9.
+
+No resolver execution or calculation accompanies this pass. The change is the correction of our own offered explaining and this one concern for working together.
