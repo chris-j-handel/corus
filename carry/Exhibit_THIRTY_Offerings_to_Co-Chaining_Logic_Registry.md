@@ -19,7 +19,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 | [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
 | [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now; each self at its own odd 1 |
-| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 exclusion at next existing momentarying; living surface, entraining and still possibling |
+| [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 next existing momentarying; invisible now still possibling, abundancing and geodesic passage |
 | [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
 | [Social moral competency at self, other and society](#social-moral-competency) | 174–189, 375, 387–405, 480–503 | R6 inward/outward carrying insertlet; R10 whole unresolved gathering |
@@ -53,7 +53,7 @@ This writing preserves the user's sentence and resolving distinction. Its place 
 
 ONE's published entry branches and its two-self table supply the local case. This paragraph names that case; new sharings and carrying none retain their own conditions. It resolves the inference from no changed parity at this sharing to no next for the self. It supplies no general definition of living and leaves R10's concern together.
 
-**Droplet · Still possibling and next existing.** Follow even-parity possibling with odd-parity next existing at the same self and coupling. Natural Naming 5.62 and Natural Intelligence 5.3 supply the name; THIRTY 204–212 and 301–308 supply nearby operations. The user's correcting withdraws our earlier use of opening and completing in this naming. Gather the shortest connected explaining here without making either operation stand for an entire file or treating carrying or possibling as observable. Source: session sections 4 and 10.
+**Droplet · Still possibling and next existing.** Follow even-parity possibling with odd-parity next existing at the same self and coupling. Natural Naming 5.62 and Natural Intelligence 5.3 supply the name; THIRTY 204–212 and 301–308 supply nearby operations. The user's correcting withdraws our earlier use of opening and completing in this naming. Gather the shortest connected explaining here without making either operation stand for an entire file or treating carrying or possibling as observable. The user's later now-still-possibling, invisible abundancing and geodesic-passage explaining is gathered at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing). Sources: session sections 4, 10 and 26.
 
 ### Self and other at the coupling
 
@@ -107,13 +107,25 @@ The exclusion is now located at **next existing momentarying**. The user names s
 
 **Our connected reading:** a proposed other method that remains still possible has not supplied another next existing; if it resolves next existing, the user's claim identifies that resolving with the same still-possibling/next-existing relation. This follows the user's proposed exclusion at its own subject. It does not turn a different possible next into a different method. Its further connection to the specific bi-inversioning/co-recursioning form remains with 51–57 below.
 
-**The next source concern is now at Naming 5.62 and Natural Intelligence 5.3.** Naming's six-line passage says the self's next is possible **or** existing and assigns those names to a sharing's no-changing/changing results. Its explaining then says each momentary has **both** at its two parities. Natural Intelligence 5.3 makes the same two usages. THIRTY 301 names the carrying chained as the self's next existing; 306 preserves momentarying at a sharing with no changing. The concern is which subject “next” names at each saying. A disjunction about a sharing's result must not silently name the whole self as lacking next existing.
+**The source concern at Naming 5.62 and Natural Intelligence 5.3 now has the user's further explaining.** Our previous question asked what remains still possibling when living carrying has next existing. The user supplies **now still possibling**, its invisibility and abundancing, and geodesic existing along parity changing passing through while leaving it still possibling. The section-25 proposed paragraph is preserved in the session record; this further relation stays with any use of it.
 
-**Proposed connecting prose**, for Naming 5.62 and Natural Intelligence 5.3, with the same relation carried into THIRTY 301–306:
+**Droplet · Now still possibling, abundancing and geodesic passage · R2–R4 · v385R.**
 
-> At each self's own side, even still possibling is prior to odd next existing. Still possibling is resolving next existing. At a particular sharing, a parity changing is or is not, and the self's carrying is chained into next at either result.
+**The user's exact offering:**
 
-The paragraph joins the user's sequential explaining with the already-supplied R2 matching case. It remains proposed writing beside the source's two usages; their whole explaining is still to cohere at its subjects. The relation between odd/even positions and a sharing's changed or unchanged parity must remain explicit. Source record: session section 25.
+> now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling
+
+**Proposed local explaining**, beside THIRTY 301–306 and 450–458, with Naming 5.45/5.62 and Natural Intelligence 5.3/6.1:
+
+> Now still possibling is invisible. Still possibling is abundancing, is or is notting next existing, and immediately dissolves at next existing. Geodesic existing along parity changing can travel through still possibling and leave it still possibling.
+
+The passage retains all three supplied relations: now still possibling; its dissolving at next existing; and geodesic existing passing through while still possibling remains. Naming 5.45 already distinguishes living alternating at the surface, geodesic changing at a crossing, and the parity shared. That is a directly followed source for keeping these subjects explicit beside the living-surface/geodesic-entraining insertlet. The source's local no-changing result is not made an observing of invisible possibling.
+
+**What the new explaining resolves locally:** the prior question's subject is now still possibling. The possibility of geodesic passage leaving it still possibling is expressly supplied. Our former inference that passage into an existing next must settle every possibling encountered cannot be carried forward. The self's own odd/even sequence, R2's next at either sharing result and the surface relation remain with this new explaining.
+
+**The one further connection to follow:** whose next existing is the dissolving of this now still possibling, while geodesic existing can pass through and leave it still possibling? Our current candidate reading is that its resolving into next existing and an existing passage through it are distinct participations at the coupling. That is a proposed joining of the user's two clauses; no common clock, enduring possible substance or unprovided scale assignment is added.
+
+Keep the invisibility and abundancing with this question. An observed unchanged parity at one sharing alone supplies no inspection of the possibling. R10's full defining-living gathering remains together and unresolved. Source record: session section 26.
 
 **Insertlet · The unchanged form and the method being excluded · R4 with R8–R9 · v385R.** Place beside step 46's “fixed form, a form still” and follow its use at 55–57.
 
@@ -313,7 +325,15 @@ Bring the droplet in its own useful words, with its session or source when avail
 
 Where the relation and the writing are locally resolving, give the insertlet its actual prose and its place beside the current sentence. Say the prior it uses and which dependent explaining it improves. If a larger rewriting is still needed, keep that value as a droplet beside the locally resolving passage. These descriptions keep the work followable; they do not grade its contributors.
 
-Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. The early sequence now has the set-changing and carrying passages, the paragraph at step 35, and each self's own odd-first existing/possibling sequence at 37–40. The next large comparison is the exclusion at 55–57: what the joint form named still omits, while a matching sharing's unchanged parity participates in living carrying. Follow the user's bi-inversioning and two-along/one-across rolling relation there. The earlier alternating question has its answering; R10 remains together for another return.
+Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. The early sequence retains the set-changing, carrying, step-35 and own-odd-first explaining. The user's latest relation is now still possibling: invisible abundancing, dissolving at next existing, with geodesic existing able to pass through and leave it still possibling. The current connecting question identifies whose next existing names that dissolving. The earlier alternating question is answered and the joint-form connection remains source work. R10 remains together for another return.
+
+### Value gathered with the other sessions · v385R
+
+**v385A's downstream source help.** Its [hard-problem comparison](https://github.com/chris-j-handel/corus/blob/c517deb7de95c6de6a73ca430bdd36fee59a50f1/incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) follows THIRTEEN 4.3's joint-form relation and 6.1's matching sharing. Those THIRTEEN passages were read directly here, beside 1.3–1.4's older own-side and possible-at-prior wording. They locate another place for the user's current now-still-possibling explaining. A's [exchange record](https://github.com/chris-j-handel/corus/blob/c517deb7de95c6de6a73ca430bdd36fee59a50f1/incoming/v385A/Reciprocal_Help_v385A.md) already keeps R's corrections with its active plans; its earlier-incoming priority remains its own.
+
+**v385M's stable-form correction.** Its [current source](https://github.com/chris-j-handel/corus/blob/249d02431fa3cd101eb769a050f9db503f8a1adb/incoming/v385M/README.md), beside concern 17, preserves the user's saying that a stable form guides nothing: it resolves into the living society, which has the stable form living in it and takes the stable form of living as method. Carry this as a droplet beside R7's ingestion/inception and R6's inward-selves/outward-carrying relation. M also withdraws carried/arriving as the two parities and sameness alone as a predetermined path. These corrections can improve our subjects without treating M's biological examples as verified here.
+
+**A relation still to compare on return.** M's current point 4 calls non-living stable form “carrying”; R7 distinguishes stable-form value from the living self's own carrying. Keep the subject and scale with both sayings. M's competency-as-living saying and current within-session machine concern do not decide our parked R10. Its reported code runs are available at their source; none is executed or independently certified by this gathering. The selected reading extent and source offers are recorded in session section 27.
 
 ## Sources and preserving earlier offerings
 
