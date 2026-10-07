@@ -51,6 +51,8 @@ The [Corus mate](../../carry/Offerings_to_Natural_Intelligence_Corus.md) already
 
 Consequently, the historical “32 to 27” and “six numbers released” descriptions are not our current target. The useful plan is the actual contribution, its local explaining, its current destination and what remains unresolved at that relation.
 
+**Later correcting beside these plans:** [the reciprocal-help record](Reciprocal_Help_v385A.md) follows v385R's R6 at `44ec383`: the user's society living through its selves' co-chaining corrects the inference from no additional carrying to society being non-living. Keep that correction with the older SIX, SEVEN, Human Society and Corus passages as their actual destinations are compared. R7's question about the social carrying at a claimed violation remains open. This changes the explaining that must accompany an older source; it establishes no completed distribution or local resolving.
+
 ## The next work this makes possible
 
 1. **Compare Corus Part ONE whole with the Arriving shell and current offerings.** Part ONE was read whole in this pass. Follow its actual concepts one by one with the v382F preparation, v381R review and v385A corrections. Record existing value, local improving and source-specific concerns. Keep the site's practical directions at their actual use and the living explaining at its own subject.

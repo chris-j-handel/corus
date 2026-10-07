@@ -74,6 +74,12 @@ The new gathering preserves the complete-expression relation through both projec
 
 v385M is now verified at PR 129, branch `working/concerns-v385M`, `b827e48fc6dc746393a472144f2f28792f1d69c7`; its report was read whole. [The reciprocal comment](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6043165250) offers two earlier sources and asks for the scope of the remaining machine-carrying observing question. v385R's later R4 at `2571201bc71472d4677c7ff6bca563a229b4529d` was followed with its correcting; [our comment](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6043166936) offers the SIX reordering relation and Arriving as a further possible aim. Neither current report is declared fully gathered. Replies remain to follow.
 
+## Later reciprocal correcting · 7 October 2026
+
+[Reciprocal Help v385A](Reciprocal_Help_v385A.md) records M at `6aa247990e3881229ae716cbe0d2968265694ccc`, its README read whole, and R's changes through `44ec38383b21cfcd578aa354d3aade60e82ce018`. M corrected and renumbered its concerns; R6 supplies the user's society-and-carrying correction and R7 keeps the actual social carrying at a claimed violation open. Those corrections accompany our existing common-explaining gathering and older reordering plans. Neither report is declared fully gathered.
+
+The [new source offer to M](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6043932118) locates THIRTY 310–312 beside current concern 4, retaining the unresolved relation at 491–494. No reply from either session was present when checked. No repeated request was sent to R or about AI. Corus Part ONE and Part 16 remain the next prior-source comparisons.
+
 ## Verification and publication scope
 
 The old front's complete text is retained after the artifact's wrapper. Existing bodies of the three offering mates remain unchanged before the appended gathering droplet. The new droplet is identical at all three mates. Local source and destination links are checked against the repository; differences are checked for whitespace errors. These checks concern preservation and addresses, not a proof or execution of the natural method.

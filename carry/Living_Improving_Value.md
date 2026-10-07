@@ -37,6 +37,8 @@ Living Improving Value v385A
 | **The expedition's entrance and contributors' next working** | [v381F's sources](../carryings/v381F/README.md), [v381R's entry report](../carryings/v381R/README.md), [v382F's Arriving exploration](../carryings/v382F/Natural_Arriving_Explored.md) and the [Arriving offerings](Offerings_to_Natural_Arriving.md). Follow the current path from corus.me and make the next useful contribution apparent. |
 | **Earlier value still to follow** | The droplets below retain the prior front's outstanding opportunities. Compare them with current mates and later correcting. The earlier [incoming index](../incoming/README.md) and [carryings](../carryings/README.md) locate further source gatherings. |
 
+The common-explaining gathering carries the [later reciprocal correcting](../incoming/v385A/Reciprocal_Help_v385A.md): v385R's R6 records the user's society living through its selves' co-chaining, correcting the older inference from no additional carrying to society being non-living; R7 keeps the actual carrying at a claimed violation open. These relations accompany older society and SIX sources. v385M's current concern numbering and withdrawals are preserved there too. Their complete developing sources remain for later gathering; this pointer neither resolves the concerns nor places all their value.
+
 These projects can also be followed by type. An observing, a concern, a naming opportunity and a whole-file proposal keep their own relations when gathered together.
 
 ## Droplets from the gathering
