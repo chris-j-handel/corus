@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Source head `c517deb7de95c6de6a73ca430bdd36fee59a50f1` · Further comparing within the floating plan**
 
+**Later source comparison:** [Protecting and the three betweens](Protecting_Source_Comparison_v385A.md) now traces the v379 source and R's returned now-still-possibling answering through `b3108da`. The earlier question below retains its dated extent; the later answering travels with every affected mate. The full distribution and exact consecutive/name relation remain open.
+
 ## Source and reading extent
 
 [Destinies v333](../../Exhibit_FOURTEEN_Natural_Destinies_v333.md) and its two mates were read whole. Its four extensions already have bounded destination comparisons. This pass follows its opening, common core, structural-safety conditions and closing reading beside current common explaining. [Registry 5.11](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) was read whole: every contribution is to be compared and preserved before any possible release of the exhibit.

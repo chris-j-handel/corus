@@ -82,6 +82,10 @@ All four Destinies extensions now have bounded destination comparisons. Their ac
 
 Destinies' contributions now all have bounded comparison routes. Actual local writing and complete distribution remain open; the plan may change or never be implemented. Next source work follows the existing v379 protecting/three-betweens relation, with Emanating, EIGHT/TWENTY-FOUR, SIX, Corus/Arriving and G1–G4 still connected. — v385A
 
+### Protecting source and preservation of intermediate explaining · v385A
+
+[The further source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) supports NI/Naming's existing projects and the THIRTY offering, with Destinies/Corus's structural-condition plan connected. It recovers an intermediate claim later corrected and preserves the user's consecutive relation separately from the assistant's re-saying. Registry and Geodesic Improving have the same method-comparison droplet beside existing preservation work. R's reciprocal answering now accompanies all six affected mates. This improves the source-to-placement record without resolving the exact mapping or implementing a proposed file change. — v385A
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its earlier sayings and addresses. Its motion language, standings and claims of completed gathering describe that source snapshot; the current [v385A method](../incoming/v385A/README.md) governs this working. Supporting work now includes the editable project gathering above. The earlier `incoming/v381R/` report is available at [carryings/v381R](../carryings/v381R/).
