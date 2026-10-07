@@ -152,6 +152,12 @@ Networking already explains direct coupling, each self's own carrying and actual
 
 N14a–h and N23.3a–j remain particular unfinished relations: directions, scales, the between, self at several scales, two-cone/emanation explaining, intelligence/opportunity/reputation, institutions, discovery-economy composition, the four values and each expression's place. [Living Improving Value](Living_Improving_Value.md#droplets-from-the-gathering) retains that shared source work; the comparison states the remaining extent. The writer/AI/document passages remain beside Arriving's existing project and M's within-session concern. No file character, common clock or verified rate finding is added. Destinies' engineered-substrate extension and its two misreadings are the next connected comparison.
 
+## Natural Robotics and particular engineering · v385A
+
+[The engineered-substrate comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) now reads Corus 23.7 whole beside selected Engineering passages and Destinies' third extension. Corus's whole expression remains connected with its distribution/Arriving project. The chip's explicit specification and N23.7a–f retain their unfinished work; Engineering already supplies chip, grid, interface, robotic contact and collective-robotics places. Its [local carrying project](Exhibit_FIVE_Carryings_of_Natural_Engineering.md#engineered-substrates-and-their-particular-making--v385a) gathers the supporting comparison, while this mate preserves the whole-expression relation.
+
+The same substrate and gather/reach droplets are independently at Corus, Engineering and Destinies. Current resolver correcting and R's later stable-form/joint-form relation travel with the older text; M's developing pacemaker file remains for later gathering. No implementation, medical result or whole source distribution is claimed. Destinies' hard-problem extension is next at its particular subjects. — v385A
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its former language and addresses. The current [v385A method](../incoming/v385A/README.md) governs this gathering; an old address or completed-standing claim supplies no new completion. The v381R source is now reachable at [carryings/v381R](../carryings/v381R/).

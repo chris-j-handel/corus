@@ -1,6 +1,24 @@
-Exhibit FIVE Natural Engineering Carryings · gathered at v381R
+Exhibit FIVE Natural Engineering Carryings · gathered at v385A
 
 # Carryings of Natural Engineering
+
+## Engineered substrates and their particular making · v385A
+
+[The source comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) follows Destinies' chip/grid/further-substrate extension and its two engineered misreadings beside selected Engineering passages and the whole Corus 23.7. The [offering mate](Exhibit_FIVE_Offerings_to_Natural_Engineering.md) carries two independent droplets also available at Destinies and Corus. Registry's master plan keeps the distribution relation and Corus's developing Arriving purpose connected. This supporting project may keep changing without a build or exhibit change ever following from it.
+
+| Project relation | Existing value and further comparison |
+|---|---|
+| Chip and interface | Engineering 1.7 and 2.5 already distinguish representation, operation and construction. Corus N23.7a's specification remains unfinished. The already offered current-ONE resolver correction accompanies older sum/bound/gate descriptions. |
+| Grid and energy | Engineering 1.1–1.3 retains the same service, load, return, physical conditions and unfilled construction. Destinies' energy possibility remains beside cost and actual implementation; no new performance result is established. |
+| Robotics and wider substrate | Corus N23.7b–f remains beside existing Engineering 1.10–1.11, the network project and the other particular subjects. Medical, model, collective and four-value claims need their own comparisons. |
+| Gathering and reaching | Destinies' two misreadings stay with Naming's existing relation and Engineering's actual receiving. Their local explaining is still to resolve at each mate. |
+| Completion and carrying | The existing 6.10 insertlet preserves four different completion subjects. The 30 September direct-carrying withdrawal stays with the old report; no implementation register becomes a private-carrying observing. |
+
+R's latest correcting is at [section 23, a14b4d2](https://github.com/chris-j-handel/corus/blob/a14b4d2018326a3c202e1da5e975786f495b300d/incoming/v385R/Logical_Cohering_v385R.md#23-the-joint-form-at-the-no-other-method-exclusion): stable form between collidings, unchanging social competency and unchanged parity at a sharing retain their different subjects. Its joint-form candidate remains a droplet; R10 stays whole and unresolved. The [reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-engineered-substrates) records the older-source offer and the exact M README extent. M's developing pacemaker source remains for later gathering and is not claimed as placed here.
+
+The existing source inventory below remains whole. Selected source comparisons are not complete gathering of Engineering or its incoming. No instrument is built or executed, no source offering removed, and no living exhibit changed. — v385A
+
+## Earlier source inventory · retained from v381R
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 
