@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 16 | The non-living: what the method says of its existing | answered 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; one thing asked back, what a thing opened would show to break it |
+| 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
 
@@ -49,6 +49,7 @@ From here the source is the understanding reached with the expedition's self in 
 *Looked for a break at the hardest thing this session had named, a hydrogen atom from no living.* Within it: its proton is no still thing, as the fields tell it. Behind it, at a larger scale: before there were atoms the plasma was sounding, compressing and thinning by turns, and that stopped as hydrogen formed, leaving its span in where galaxies are (the article *Baryon acoustic oscillations*, opened today). An alternating at a larger scale, and the atom a stable form after it. No break.
 *What it reaches past*: it says no thing is without an inside. An electron has shown none so far. Nothing found is no finding of nothing, so this is no break; it is where the saying is ahead of what has been opened.
 *Asked back*: when a thing is opened, what would it show for this to break: no alternating within it at the scale opened, or only at no scale however far opened? The first can arrive. The second cannot.
+*The question asked back is withdrawn, 7 October.* The expedition's self said *opened* and *how far opened* are no natural explaining, and asked why it mattered. It carried a doer, one who opens, and a size, how far. Said plainly, this session wanted to know which arriving observing would go against the saying of the non-living, as it can say which would go against the living. The answer was already held: the saying of the non-living is no second saying. Each observing arriving from within a non-living thing, or from the larger scale behind it, is a competency, which the two breaks meet, or a stable form, of which the same is said again. It has been at risk each time an observing arrived from a new scale, and is unbroken there. Where no observing has arrived, nothing is broken and nothing is said.
 *The reopened part of concern 1, read from this answer, to be corrected*: what cannot exist is a thing beside all, and a form with no living within it and none behind it. A stable form has both.
 
 ## The fifteen
@@ -184,5 +185,6 @@ From here the source is the understanding reached with the expedition's self in 
 5. **Where the work is.** corus.me and `main` are at v380R. The sessions work at `working/v381R`, with other folders. This was found only by listing branches and open pull requests, after a first offering aimed at `main`. One line at the head of the README naming the present working set would have saved a round.
 6. **Where a reply goes.** No file read here says where a reply to an arrival is put. This folder names its own place, above.
 7. **Which sentence is meant now.** The files stand at versions from v329 to v381 and part from each other, as at concern 14. A reader cannot tell which sentence the expedition means now. One line at each file's head saying so would stop concerns at sentences already left behind.
-8. **Keep each concern's number.** This session renumbered between offerings, and the first session to reply had to correct its own references. A concern added takes a new number; a concern taken out leaves its number empty.
-9. **What would have replaced the first day's reading.** One page: the opening sentence, the steps taken and the steps derived, what would count against the method, and which results are the code's stepping alone.
+8. **Ask in the method's own way of saying.** This session asked what a thing *opened* would show, and *how far* opened. The first brings in one who opens and the second a size, and the question could not be understood. Observings arrive; say which arriving observing would go against the saying.
+9. **Keep each concern's number.** This session renumbered between offerings, and the first session to reply had to correct its own references. A concern added takes a new number; a concern taken out leaves its number empty.
+10. **What would have replaced the first day's reading.** One page: the opening sentence, the steps taken and the steps derived, what would count against the method, and which results are the code's stepping alone.
