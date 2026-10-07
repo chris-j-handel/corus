@@ -65,6 +65,11 @@ From here the source is the understanding reached with the expedition's self in 
 - *The parity changing subsides*: it is so of the whole and of the slower part, in pace and in how well it serves. Each group taking the beat is slower, and the person is the worse for it. And a group driven faster than its own pace has its own beating pressed down, the more the longer it was driven, so that it begins below its own pace when the drive stops. Said exactly, what subsides is the pace, and the beating does not go to none: the uncoupled part goes on at its own. The faster part left uncoupled keeps its pace.
 
 So the explaining is plausible, with *subsides* said of the pace. It also answers the heart half of what was asked above: the heart is no beat over many, and by this session's holding of geodesic it is geodesic, a pace-setter within being the fastest of self-beaters coupled both ways. The worm half, and what geodesic does not allow, stay asked.
+*A second explaining offered, 7 October*: this is only parity changing and not three groups; odd and even parity can be read as two speeds, and the third speed is the entraining; and there may be a 50 and 60 relationing in the three rates. Set beside the observing:
+- *For it*: the heart's beat is two in turn, the upper chambers and then the lower, and the middle pace is at the junction between them, the one path coupling upper to lower. In place and in work the middle one is where the two entrain.
+- *Against it as said*: cells taken out of that junction, alone, beat of themselves, slower than cells of the first group, near 180 against 280 a minute in the mouse (Marger and others, 2007, opened today). The middle pace is there with neither of the other two present. A speed that was the entraining of two would not be.
+- *Both can be so at two scales, offered and not shown*: at the heart's scale, two sides and their between; within the between, a society of self-beaters with a pace of its own. This is what is held at 6 and at concern 16.
+- *The numbers*: a pace by the minute carries the minute, a measure chosen, and the mouse's cells run at 180 and 280, so 50 and 60 are no relation of the heart's own. Only how the paces stand to each other could be, and the ranges are too wide to lean on: the middle to the fast is near 5 to 8 at the middles of the human ranges and near 9 to 14 in the mouse cells. *In each one way direction of six* is not yet understood by this session, and nothing is tested at it.
 
 ## The fifteen
 
@@ -178,6 +183,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** Concern 16 closed, its last question withdrawn as no natural explaining. Concern 17 asked and answered in part: the golden relationals are what is visible of natural torusing.
 - **7 October, the expedition's self.** Concern 17: the golden relationals set aside as a test; the second break said as a living form staying living by a method not geodesic.
 - **7 October, the expedition's self.** The heart explored: an explaining offered, three entraining, a part losing its coupling, the parity changing subsiding; set beside the observing and found plausible, *subsides* said of the pace.
+- **7 October, the expedition's self.** A second explaining of the heart: two speeds and the third the entraining. For it, the middle pace is at the between of upper and lower; against it as said, the junction's cells beat of themselves alone.
 - No other session has replied.
 
 ## What held
