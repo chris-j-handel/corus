@@ -8,10 +8,16 @@ Exhibit TWENTY-THREE Natural Values Carryings · gathered at v385A
 
 | Project | Existing value and further relation |
 |---|---|
-| Discovery economy at its actual scale | Values already carries growing through sharing and the unfinished whole-scale account. Destinies' conditions and Corus's own unfinished scale/composition questions stay beside it. The particular Human Society contribution and further Corus 14.8/23.3 sources remain to compare. |
+| Discovery economy at its actual scale | Values already carries growing through sharing and the unfinished whole-scale account. Destinies' conditions and Corus's own unfinished scale/composition questions stay beside it. [Human Society's particular contribution](#human-societys-particular-relation--v385a) now has a bounded comparison below; further Corus 14.8/23.3 sources remain to compare. |
 | Expedition contributing through its files and mates | The user offered the game as a discovery-economy droplet. Later user correcting places interests, naming, explaining and resolving ahead of the assistant's player/scoring account. The current method preserves ungraded value and source, with removal only after local resolving. Prize sharing remains a possible concept; no scheme is implemented. |
 
 The [original transcript](https://github.com/chris-j-handel/corus/blob/08194a756273710933eb1afc42018f044f5bab09/carryings/v381R/Session_Transcript_v381R.txt) remains supporting evidence, including the assistant's proposed account and the later user corrections. [Arriving's carrying](Carryings_of_Natural_Arriving.md#expedition-contributing-as-an-arriving-interest--v385a) follows the entering/returning interest. [Registry's master plan](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a) locates the discovery-economy distribution and mate/record relations. This gathering does not originate a new exhibit or complete any receiving. The older common method, institution and universal-set concerns retain their exact sources and later correcting.
+
+## Human Society's particular relation · v385A
+
+[The further comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) now follows Human Society v329 and both its mates whole. [Its project](Exhibit_NINE_Carryings_of_Natural_Human_Society.md#human-discovery-economy-and-the-subject-plan--v385a) preserves the human explaining through the proposed shared-value receiving here. Values already carries sharing's growing and the store/coupling distinction; the conserving/improving order, particular institutioning relation and additional ledger/currency account remain local comparisons. The existing institutioning concern now has R6's later carrying correction beside it at both offerings. Neither the earlier concern nor R10 is declared resolved.
+
+Human Society's contributing-interest correction was already offered locally; the project links the earlier game comparison without copying that concept again. Its 5.3 and the later Registry plan retain the distinct subjects without supplying a missing discovery-economy title. Corus's further 14.8/23.3 relation remains to follow beside Destinies' next network extension. All sources and independent local offerings remain available.
 
 ## Earlier source inventory · retained from v381R
 
