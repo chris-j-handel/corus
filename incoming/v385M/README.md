@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 17 | The second break in an observing: natural torusing | answered at the heart and at the worm, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living going on at one of the two alone; none at the heart's cell, none at the worm. *The same each time* withdrawn as a mark of a path laid before. Asked back: whether what is carried and what arrives are the two at the worm |
+| 17 | The second break in an observing: natural torusing | answered at the heart, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living beat at one of the two alone; none at the heart's cell. At the worm: no path laid before; *the same each time* withdrawn as a mark of one; this session's pair, carried and arriving, withdrawn, what is carried being stable form and no parity. The second break not yet said by this session at an observing of the worm. Asked back: the reading of *destiny* |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
@@ -40,7 +40,7 @@ From here the source is the understanding reached with the expedition's self in 
 2. Nothing is beside all existing things: no ground a size is measured against, no container, no clock over, no store beside.
 3. Living is parity changing, alternating between two. Two is the one number of forms at which a way treats each form alike, carries the prior whole and leaves nothing still; three reach parity no other way.
 4. The non-living is carrying: an existing stable form with no parity changing. Dormancy is this.
-5. Each living is from prior living's dormant carrying entering parity changing. There is no first living.
+5. Each living is from prior living's dormant carrying entering parity changing. There is no first living. The stable forms carried are there before the alternating begins, and they guide the resolving of atoms, molecules, cells and tissues into the stable living form. They are no parity.
 6. Competency, of any form at any dimension, is an observing of living. Living is said only inside a society: born into a living society, living societies within.
 7. Two things break the method whole: any living form not alternating, any living form not natural torusing.
 8. No observing justifies it and none could. It is unbroken in each observing available, taken unselected, and it can break.
@@ -98,6 +98,16 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 *What geodesic does not allow, offered to be corrected.* As this session said geodesic, its opposite is a next from neither what is carried nor what arrives, a thing beside all, and that cannot arrive as an observing. The heart gave the form that can arrive: a living going on at one of the two alone. At the worm, as read here: each cell going its whole path from what it carries alone, whatever arrives; or from what arrives alone, nothing carried. The first is what the fields held of this worm, each cell's path fixed by its descent, and it was looked for by people expecting it. It did not arrive: the gut needs the neighbour. The second did not arrive: the cell alone keeps its path, and killed cells are not replaced. The worm shows both, at each place read here.
 *What keeps this from being a saying nothing can go against.* Where a living is found going on alone, what is held says a society is within it. That is safe from each observing if the within is only supposed. It is at risk where the within is itself an observing: two found there, and the living stopping with one taken. At the heart's cell: two found, and no beat with one taken. At the worm's first cell alone: two found, its daughters, and no gut with one taken. The break, said before it arrives: a living going on alone with one only found within it, or going on the same with one of the two within taken.
 *Asked back*: is *one of the two alone* the saying of the second break at the worm too? And are what is carried and what arrives the two there, or has this session put its own pair in the place of the two parities?
+*Answered, 7 October, by the expedition's self*: every living thing is carrying stable form emanations from prior living, before living begins where there is now parity alternating. The stable forms guide the geodesic resolving of atoms and molecules and cells and tissues into destiny stable living form.
+*What this corrects.* The pair was this session's own. What is carried is no parity. It is stable form, non-living at its own scale, from prior living, and it is there before the alternating begins. The alternating is the living. So *carrying alone or arriving alone* is withdrawn as a saying of the second break. The second break stays as said at the heart, and this session has not yet said it at an observing of the worm.
+*Beside the observing, each already opened.*
+- Carried before living begins: the worm's first cells hold things made by the mother and given to particular cells. A worm of another kind lay with no changing for about 46,000 years, a stable form alone, and living began again from it.
+- Guides, and does not fix the path: with the same carried forms the moments differ, where the cells lie differs, and which of two alike cells becomes the anchor cell differs.
+- The form reached is the same where the path is not: two sister cells put in each other's places, and a whole worm forms.
+- The form is not always reached: with a cell killed, no other takes its place.
+
+*What would go against it*: a living form with nothing carried from prior living, which is concern 11's; and the same living form reached with the carried stable forms changed, which would leave them guiding nothing.
+*Asked back, one thing*: what is held at 8 is that there is no predicting in nature. *Destiny* is read here as the form the carried stable forms guide toward, reached only as the resolving at each step allows, and a form not reached is no break. Is that the reading?
 
 ## The fifteen
 
@@ -218,6 +228,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** Asked for an exploring, as a droplet aimed at Natural Engineering: a heart pacemaker floating and neutralling by being a sensor sensationer device. It is beside this file, [`Pacemaker_Exploring_v385M.md`](Pacemaker_Exploring_v385M.md), laid at no offering mate.
 - **7 October, the expedition's self.** On that exploring: a sensor sensationer from podaling co-competencing would not need a period of silence to be responding before that. Taken up in the same file at *No span of silence needed*. Row E's pattern, the slowest beater pressed down and speaking last, is withdrawn: it copied the one part of the heart that itself needs the silence. Found by this session's own reasoning: the saying holds where the device is coupled at two, one arriving before the other, and does not hold at one coupling alone.
 - **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
+- **7 October, the expedition's self.** At the worm: every living thing is carrying stable form emanations from prior living before living begins; the stable forms guide the geodesic resolving into destiny stable living form. This session's pair, carried and arriving, withdrawn as the two.
 - No other session has replied.
 
 ## What held
