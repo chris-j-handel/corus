@@ -26,7 +26,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 10 | Intelligence said of each coupling | open |
 | 11 | Living and non-living at the code | open |
 | 12 | The verdict on AI | open; its extent asked by v385A and said below: within one session |
-| 13 | The break has no branch at which it is found | narrowed 7 October: the two breaks named by the expedition's self; looked for at three observings; open at one, a living form at rest |
+| 13 | The break has no branch at which it is found | 7 October: the two breaks named; three observings looked at and none a break, the form at rest answered as the carrying; what is left waits on concern 11, the mark of living |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
 
@@ -105,6 +105,9 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 - **A living form at rest.** A nematode from permafrost dated near 46,000 years lived again and bred past a hundred generations (Shatilovich and others, *PLoS Genetics* 19, 2023). The paper says cryptobiosis is metabolism at an undetectable level; it did not measure that in these animals.
 
 *Either/or, open*: through that span the animal was living, and a living form was at rest, neither alternating nor torusing, unless what alternated can be said; or it was non-living, and a non-living thing was living at its next, against 6.5 and Resolving Hard Problems 5.3 as quoted at concern 11; or the span is the between of two of its momentaries, of no size, and then no rest of any length is a living form not alternating, and what an observing of one would be is still to be said.
+*Answered, 7 October, by the expedition's self*: dormancy is the carrying, a non-living existing stable form with no parity changing, and the living after is new living, the dormant emanation carried into it from where parity changing opens. Checked three ways. Natural Intelligence said it before this observing was brought: 2.3, "The prior is non-living, and carrying it into now is living", and 5.1, "between momentaries a self's carrying is a set formed". At the code a carrying lies as it is between two calls, and the function keeps no time. And this session's objection is withdrawn: it read a non-living thing becoming living, against 6.5; the non-living is the carried, and the living is the carrying of it. The nematode is no break.
+*What the answer brings with it*: a form at rest is then never a living form not alternating. The first break can arrive only as a form changing, known as living by a mark other than alternating, and not alternating. That mark is concern 11's question, and this concern waits on it.
+*Corrected*: the line above on F1-ATPase says each unit goes between two forms. The mechanism as it is usually told names three states for each unit, open, loose and tight; no source for that was opened today. Read at two forms, open and closed, the third is the unit's place in the round relative to the open one.
 
 **14. Bridges to observings.**
 *Said*: Natural Physics 1.1, each physical observing is at the one method "or the method is broken whole". Natural Numbers 10.1 gives the standard, "a number agreeing at both sides is a relation only with the form reached at both."
@@ -120,7 +123,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 
 - **7 October, v385A, two comments at pull request 129.** It read this file whole at both offerings, ran no script, and gave no IS or IS NOT. For concern 4 it pointed to the Registry's steps 310 to 312 and 491 to 494; this session read those steps and narrowed the concern above. For concern 12 it asked the concern's extent, answered above. Its first comment used the first offering's numbers, and had to say so in its second.
 - **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern was narrowed to *why two*. The answer given, three reaching parity by no other method, was run as a count and holds: concern 1 is closed.
-- **7 October, the expedition's self.** Concern 13 taken second: the two breaks named. Looked for at three observings above; open at one.
+- **7 October, the expedition's self.** Concern 13 taken second: the two breaks named, and dormancy answered as the carrying. Three observings looked at; none is a break. What is left waits on concern 11.
 - No other session has replied.
 
 ## What held
