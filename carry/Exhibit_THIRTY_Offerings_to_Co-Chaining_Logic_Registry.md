@@ -18,7 +18,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 |---|---|---|
 | [The universe, the changing set of all existing things](#the-universe-and-its-changing-set) | 1–20; the set existing as its things exist | R9 set-changing insertlet; the set/self relation still to explain |
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | R2 continuing carrying insertlet; the possibling relation |
-| [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 the same self's next and other at now |
+| [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now insertlet; alternating's subject |
 | [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–49, 169–171, 366–378 | R4 universal binary logic and its inward/outward deriving |
 | [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
@@ -61,7 +61,21 @@ ONE's published entry branches and its two-self table supply the local case. Thi
 
 Naming 5.13 already says offering both ways; its 5.49 and 5.54, THIRTY 174 and 178–181, and surfacing at 204–212 offer the nearby relations. Offering already participates at its two-sided coupling. Follow that existing participation and the same self's own prior into its next. If the explaining needs the further couplings, introduce their relation before relying on it here. The later whole cannot silently be the premise for its own earlier deriving.
 
-This is the next concrete concern available in the early sequence. Its source is the identification at step 35, not a supposed violation of a method. The full question stays with its passages rather than restarting a wider question the user has already helped resolve.
+**Insertlet · The self's prior and the offering at now · R3 · v385R.** Place with step 35's “self at next” sentence, introducing the relation now stated at 51 and 214 where this early sequence first needs it.
+
+> A living self carries its own prior into now. At each sharing, that carried prior couples with the offerings arriving now. The next discovered at that sharing is chained into the self's own carrying. A particular other is the other at its coupling; further others participate through further couplings. All other arrives through those couplings. A non-living other participates as an offered form, carrying none of its own prior.
+
+This paragraph follows 13 and 23's living carrying, 33's self and other, 51's next from prior and now, 174 and 178–181's particular and further couplings, and 204–214's discovering at each sharing. Naming 5.13 carries the self's prior and the other's offering at now; 5.43 explicitly says the whole arriving as one arrives through the couplings the selves make. The paragraph brings that identifying relation to step 35. It uses **offerings** at a sharing because 204–205 includes several offerings there; it does not assign an entire self's next to one particular other's contribution alone.
+
+The writing makes the same self's own prior and own next explicit. It identifies the particular other locally and the whole through actual further couplings. Non-living participation remains at the offered form, as 213 says. ONE's five-parity table keeps its two-self, both-ways conditions; those conditions are not generalized by this paragraph. The conditional participant choice by which step 34 follows step 32 remains available in the session record; this insertlet does not rewrite that choice.
+
+**What is now locally resolving.** R3 has actual prose at the needed sentence instead of only a question about which other. This supplies a connected identification using relations the files already state. Its placement needs those relations introduced in the early sequence; it records no independent derivation of the whole alternating or universal method. The earlier droplet above stays beside it because that broader sequence still needs its relations followed. The v382A D37 and v383Op C13 source records remain unchanged.
+
+**Droplet · What alternating names at this coupling · R3 onward to R4.** Step 37 says the self and the other are “changing one and then the other.” Naming 5.13 says each offers at its own sequencing. The user's newer explaining names even-parity possibling and odd-parity next existing, with momentarying proceeding whether a parity changing is or is not at one sharing.
+
+The needed precision is the subject of “one and then the other.” The most promising connection is that alternating names the coupled parities of possibling and next existing, with each living self's own sequencing retained. Read this beside Naming 5.49's overlapping momentaries and 5.54's between parity-changing is or is not, and the user's sections 4 and 10 in the session record. It would let 35's discovering carry into 37–40 without making one living self wait while the other acts, or requiring a changed offered parity at every sharing. Such waiting or required changing is not established as the old text's intended claim.
+
+**The concern for resolving together:** does “the self and the other alternating” name **possibling and next existing at their coupled parities**, with each self's own momentarying at both? The proposed connection needs its exact explaining before it is an insertlet at 37–40. This is a question about the relation those sentences name, not a question asking what outside the coupling makes it act. R10 remains gathered and unresolved. — v385R
 
 ### No other method of possibling next existing
 
@@ -227,7 +241,7 @@ Bring the droplet in its own useful words, with its session or source when avail
 
 Where the relation and the writing are locally resolving, give the insertlet its actual prose and its place beside the current sentence. Say the prior it uses and which dependent explaining it improves. If a larger rewriting is still needed, keep that value as a droplet beside the locally resolving passage. These descriptions keep the work followable; they do not grade its contributors.
 
-Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. At present the early sequence can use the set-changing and carrying passages above, then bring the particular identification at step 35 for resolving. R10 remains together for another return.
+Follow one substantial source concern at a time, larger first when its resolving can help the others. State the relation already supplied by the user before asking what remains. The early sequence now has the set-changing and carrying passages and a locally resolving paragraph at step 35. The next comparison is what alternating names at 37–40, beside the user's possibling and next-existing explaining. R10 remains together for another return.
 
 ## Sources and preserving earlier offerings
 
