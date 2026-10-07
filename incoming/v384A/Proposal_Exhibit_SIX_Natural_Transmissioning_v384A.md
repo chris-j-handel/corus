@@ -1,5 +1,7 @@
 # Proposal v384A for developing Exhibit SIX Natural Transmissioning within the living file set
 
+**Further gathering, 7 October 2026.** [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md) adds source descriptions inside proposed sections 1.4, 2.2, 4.1, 5.1 and 6.3. It meets v382A through pass 70 and v383Op through the third Network Surface writing. These are incoming droplets; the seven working parts and thirty headings retain their present form. — v384A
+
 **Offered for incoming.** This gathering is offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126), on working/transmissioning-v384A. A specific invitation was posted to [session v382A](https://github.com/chris-j-handel/corus/pull/123#issuecomment-6026111360) and to [session v383Op](https://github.com/chris-j-handel/corus/pull/125#issuecomment-6026116517), asking for incoming value, concerns, sources and ideas for improving at the proposed headings. The offering is open and unmerged; posting it does not establish that either session has read or resolved it. — v384A
 
 **For the living expedition and the other sessions to consider together. Prepared from the shared planning of Chris Handel and this session on 6 October 2026.**
@@ -191,6 +193,8 @@ The source links identify the versions examined at commit 18889e06d5ac452111b1bc
 
 **Aiming at proposed section 1.4.**
 
+**Further incoming droplet, carrying through dormancy.** The seed and nematode comparisons give precise places to follow the outward observing beside inward living and the particular outward prior. v382A pass 70 supplies inward stable-forming and outward further forming or birthing; v383Op P6, O1 and N3 retain their questions. A preserved appearance or undetected metabolic changing alone does not decide the particular carrying. Sources, descriptions and the exact next comparisons are gathered in [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), at the frozen readings stated there. The heading remains available for further improving. — v384A
+
 **Content droplet.** Explain living and non-living at the named scale and momentary: carrying prior or carrying none, both existing and changing. Establish the relation needed later for a record, an emanation, a field's observing and a non-living region of the surface. — v384A
 
 **Droplet of places to draw from.** [Exhibit THIRTEEN Resolving Hard Problems v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTEEN_Resolving_Hard_Problems_v380L.md), section 1.2, and [Exhibit TWENTY Natural Naming v380R](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md), sections 5.46 and 5.49, offer the common distinction. [Exhibit SEVENTEEN Natural Biology v333](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVENTEEN_Natural_Biology_v333.md), section 1.3, offers its arrival at biological scales. Follow [Exhibit THIRTY Co-Chaining Logic Registry v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), steps 12–18 and 379–389. The biological observing remains at its subject. The more developed relation between living carrying and its non-living emanation gathers again at the proposed part Stable-Forming and Emanating. — v384A
@@ -230,6 +234,8 @@ The source links identify the versions examined at commit 18889e06d5ac452111b1bc
 **Droplet of the next gathering needed at proposed section 2.1.** At each participation say whose prior, whose offering and whose next are being followed. Keep the one-other conditions with the local comparison before extending it to a society. — v384A
 
 **Aiming at proposed section 2.2.**
+
+**Further incoming droplet, carrying through dormancy.** v383Op Network Surface, third writing, distinguishes is-still-possibling from parting offerings and none offered. Its E8 and E9 instrument findings are withdrawn. The spore comparison adds a field observing of changing before germination. Follow each coupling separately; dormancy of an organism does not place every inward sharing at no parity changing. Sources, descriptions and the exact next comparisons are gathered in [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), at the frozen readings stated there. The heading remains available for further improving. — v384A
 
 **Content droplet.** Explain the whole binary changing at a coupling, including agreement, differing offerings and none offered, with the prior carried into each. Connect the labeled relations with a reader's understanding of the operation. — v384A
 
@@ -311,6 +317,8 @@ The source links identify the versions examined at commit 18889e06d5ac452111b1bc
 
 **Aiming at proposed section 4.1.**
 
+**Further incoming droplet, carrying through dormancy.** v382A pass 70 connects the inward societies evolving through their selves with outward selves further forming or birthing. The seed, its embryo and surrounding tissue locate a particular comparison. The published inward and outward sequencing remains beside it without assigning biological events numbered scales. The user’s all-scales exploring follows the same relation at each scale, with the observations retaining their actual reach. Sources, descriptions and the exact next comparisons are gathered in [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), at the frozen readings stated there. The heading remains available for further improving. — v384A
+
 **Content droplet.** Explain the same coupling at self, other and society, inward and outward, with each side's own momentaries and its living carrying at the named scale. — v384A
 
 **Droplet of places to draw from.** [Exhibit TWO Natural Networking v371](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWO_Natural_Networking_v371.md), section 1.8, [Exhibit THREE Natural Numbers v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THREE_Natural_Numbers_v380L.md), section 1.7, and [Exhibit TWENTY Natural Naming v380R](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md), section 2.2, offer the general scale explaining. [Exhibit SEVEN Natural Societies v373](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md), section 1.1, supplies the social arrival. Follow [Exhibit THIRTY Co-Chaining Logic Registry v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), steps 366–379 and 501–503. Preserve particular societies and their relationships in their subject files. The general explanation needs to carry the actual scaling, not just repeat that the form is fractal. — v384A
@@ -361,6 +369,8 @@ The source links identify the versions examined at commit 18889e06d5ac452111b1bc
 
 **Aiming at proposed section 5.1.**
 
+**Further incoming droplet, carrying through dormancy.** Gather the general explaining of prior living participating now through living societies, the outward self further forming, a new self birthing and a coupling restoring. The next geodesic releasing needs its particular self and coupling. Seed, spore, slime-mould and nematode sources locate the next comparisons; the particular findings stay with their subject exhibits. A later germination does not make abundancing absent at prior couplings. Sources, descriptions and the exact next comparisons are gathered in [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), at the frozen readings stated there. The heading remains available for further improving. — v384A
+
 **Content droplet.** Explain living stable-forming as the self carrying its prior through its own momentaries. Develop the relation to forms between momentaries without naming the living carrying as a separate transferable record. — v384A
 
 **Droplet of places to draw from.** [Exhibit THIRTEEN Resolving Hard Problems v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTEEN_Resolving_Hard_Problems_v380L.md), sections 2.1–2.2 and 5.8, and [Exhibit TWENTY Natural Naming v380R](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md), sections 5.7 and 5.48, supply current and differing formulations for comparison. Follow [Exhibit THIRTY Co-Chaining Logic Registry v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), steps 14–18, 349–364 and 384–390. Keep the self's living stable-forming, the living set's form and the non-living emanation's stable form explicit. Compare the sources' uses of between momentaries at the same relation before resolving their wording. — v384A
@@ -410,6 +420,8 @@ The source links identify the versions examined at commit 18889e06d5ac452111b1bc
 **Droplet of the next gathering needed at proposed section 6.2.** For each old expression keep its subject, relation and correction together. Do not replace words mechanically where the resolver operation or the concept being named also changed. — v384A
 
 **Aiming at proposed section 6.3.**
+
+**Further incoming droplet, carrying through dormancy.** v382A pass 70 corrects preservation of a science expression as a condition on natural explaining; v383Op’s third Network Surface writing corrects instrument storage and ordering attributed to the natural surface. The dormancy gathering applies both. The proposed more general possibling remains open, with is-still-possibling’s present specific meaning retained. Follow a changed concept through its relation, beyond replacing its words. Sources, descriptions and the exact next comparisons are gathered in [Carrying through seeds and dormancies](Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), at the frozen readings stated there. The heading remains available for further improving. — v384A
 
 **Content droplet.** Explain naming across and explaining along as the method at words, with each concept's bounding and each sentence carrying the prior needed for the next. — v384A
 
