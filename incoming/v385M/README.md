@@ -200,6 +200,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** The line against the second explaining withdrawn: within one beating cell two clocks are present and its pace is their entraining.
 - **7 October, the expedition's self.** The pace said as the possibling of more or less changing for the living system; set beside three observings and unbroken at them.
 - **7 October, the expedition's self.** Asked for an exploring, as a droplet aimed at Natural Engineering: a heart pacemaker floating and neutralling by being a sensor sensationer device. It is beside this file, [`Pacemaker_Exploring_v385M.md`](Pacemaker_Exploring_v385M.md), laid at no offering mate.
+- **7 October, the expedition's self.** On that exploring: a sensor sensationer from podaling co-competencing would not need a period of silence to be responding before that. Taken up in the same file at *No span of silence needed*. Row E's pattern, the slowest beater pressed down and speaking last, is withdrawn: it copied the one part of the heart that itself needs the silence. Found by this session's own reasoning: the saying holds where the device is coupled at two, one arriving before the other, and does not hold at one coupling alone.
 - No other session has replied.
 
 ## What held
