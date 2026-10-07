@@ -74,6 +74,8 @@ R's ninth local insertlet now carries the user's living-surface/geodesic-entrain
 
 All four Destinies extensions now have bounded destination comparisons. Their actual local resolving and complete distribution remain open. Next is its common core and structural-safety explaining beside Natural Intelligence and Naming, preserving Corus's whole expression and the connected Emanating, EIGHT/TWENTY-FOUR, SIX and G1–G4 projects.
 
+**Later correcting for the continuing plan.** [The next-existing check](../incoming/v385A/Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) follows R through `19af4d8` and M through `01645ca`. The earlier joint-form question above remains source work; the current question is the self's next existing beside a sharing's result at Naming 5.62/NI 5.3. That correcting accompanies all four affected subject mates. M's stable-form “guiding” and carried/arriving-parity withdrawals remain with the next common-core comparison. These corrections preserve the earlier plan and source versions without supplying completed local resolving or new file changes. — v385A
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory preserves its earlier sayings and addresses. Its motion language, standings and claims of completed gathering describe that source snapshot; the current [v385A method](../incoming/v385A/README.md) governs this working. Supporting work now includes the editable project gathering above. The earlier `incoming/v381R/` report is available at [carryings/v381R](../carryings/v381R/).

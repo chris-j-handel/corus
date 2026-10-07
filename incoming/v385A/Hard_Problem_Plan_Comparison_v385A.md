@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Source head `c76f603b9ee0b43ad665d127a92d10a1f9d5fc0c` · A particular comparison within the floating plan**
 
+**Later source correcting, 7 October 2026.** [The following exchange](Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) carries R through `19af4d8`: its joint-form connection below remains source work, while the active question now follows Naming 5.62/NI 5.3's subjects of “next”. Nine local insertlets remain; the new proposed prose is a droplet. The same later correcting independently accompanies THIRTEEN, Engineering, Destinies and Corus, preserving the dated comparison below and the whole unresolved R10. M's later withdrawals remain in the exchange record for the next prior-source comparison. — v385A
+
 ## Source and reading extent
 
 [Registry 5.11](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) routes Destinies' fourth extension to Resolving Hard Problems and the particular subjects, preserving the distinction between a demonstrated resolving and a proposed application. The earlier whole reading of [Destinies](../../Exhibit_FOURTEEN_Natural_Destinies_v333.md) retains its common core, structural conditions and whole outward expression beside this particular possibility.

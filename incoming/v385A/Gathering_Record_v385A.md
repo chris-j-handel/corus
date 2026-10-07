@@ -6,6 +6,10 @@ Session v385A
 
 The working gathering is [Living Improving Value](../../carry/Living_Improving_Value.md). It now explicitly carries droplets before their offering mate is known, and shared value gathered by project or type. The [method and its exact corrections](README.md) remain the session's source.
 
+## Further source correcting · 7 October 2026
+
+[The reciprocal check](Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) follows R through `19af4d8` and M through `01645ca`, with no new replies. R's exact next-existing offering and its current Naming 5.62/NI 5.3 subject distinction now accompany all four affected THIRTEEN, Engineering, Destinies and Corus droplets. The former joint-form question remains source work; nine insertlets and the whole unresolved R10 retain their standing. M's later “same each time”, carried/arriving and guiding withdrawals are retained for the next older-source comparison, without gathering its developing science or pacemaker project. Prior paragraphs and sources remain; no offering is removed and no living exhibit is changed. — v385A
+
 ## The user's two further offerings
 
 > we in this session are managing all the incoming value and aiming it into the most self welcoming offering mate files. all concerns opportunities projects ideas anything that would be a possible improving file for a living file in our living set and of possible carrying value in our living expedition set at corus.me. explore a plan for this do no harm improving work together where we are not doing any creative work as this is binary naming and explaining and pattern matching and cohering with natural torusing no other possible. only bothboth work is resolving forward
