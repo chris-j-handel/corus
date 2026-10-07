@@ -2,7 +2,7 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
-**Current working: section 12, inception carrying and a new living self's own resolving, R7 with R6.** The user brings the concern farther back: a carrying enters the world as a new living self, the carrying is a larger scale fractal pattern, and the self resolves from inception into an adult without pausing parity-changing living. This now leads our explaining. The earlier “supposed violation” question is withdrawn as our current formulation; its source comparison remains below with the correcting. Section 11 preserves society living through its selves' co-chaining and the prime 5–53 passages; section 10 preserves R4, “No other method of possibling next existing.” We follow one concern together, using natural naming and explaining at do-no-harm. The opening/completing explaining previously offered in section 4 is withdrawn. The wider routes below remain available; they are no schedule for our conversation.
+**Current working: section 13, prior living, dormancy in stable form and entering parity-changing living.** The user adds dormancy to the inception-carrying logic. The exact relation to explain is what carries during dormancy and what establishes as the new self's own living afterward. R6's inward/outward co-chaining and R7's inception carrying accompany this new offering; the older claims that carrying is living and that a non-living stable form carries none are compared at the same subject and scale. Biological comparisons are recorded separately with primary sources. The earlier “supposed violation” question is withdrawn as our current formulation. Sections 10–12 retain the prior learning with its correcting. We follow one concern together, using natural naming and explaining at do-no-harm. The opening/completing explaining previously offered in section 4 is withdrawn. The wider routes below remain available; they are no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -324,3 +324,50 @@ The user corrects the concern's explaining:
 **The useful distinction for the earlier concern is carrying from prior living and another self doing this self's resolving.** Inception within living carrying supports the new self's own resolving. It does not by itself give an outside self that resolving to perform. The governing passages can be revisited from this fuller explanation of a self's living; the present suggestion is not recorded as having resolved every governing or harming claim.
 
 **R7, current opportunity · Inception carrying, the larger scale fractal pattern resolving as a living self.** Carry the user's exact suggestion with R6's inward/outward co-chaining. Explain THIRTY 393 and 395 together with 399–400, and Natural Intelligence's carrying-as-capacity and seed-and-palm passages, so the self's own resolving is followed from inception through its living developing. The source concern at 389 and 492–493 remains available at that clearer relation. Possible mates: THIRTY, Natural Intelligence, Natural Naming, Natural Societies and SIX, with ONE's forms alongside. This remains one ungraded offering opportunity in the v385R session record; it introduces no inspection of private carrying, no numerical calculation and no change to a living exhibit or public mate. — v385R
+
+## 13. Prior living, dormancy in stable form and entering parity-changing living
+
+The user adds a new relation:
+
+> this is new logic. all carrying is from prior living after dormancy in stable form enters parity changing living. explore this in the logic. this is consistent with biology and dna and conception and seeds
+
+**The new link is the passage through dormancy.** Section 12 followed the new self from inception through its own parity-changing living. The present suggestion brings the explaining back through prior living and a dormant stable form. Its value is to follow the origin of the inception carrying, what is preserved through dormancy, and what enters living at the larger scale. The exact user wording is retained; neither a universal dormancy requirement nor an exception to it is silently inserted into the natural explaining.
+
+### The one relation requiring resolving
+
+THIRTY 389 identifies a living self with living carrying. Steps 384 and 391–392 say the non-living stable form has no carrying of its own and participates when carried by living. Step 395 says living arrives from living and no non-living existing thing becomes living. Step 393 places a new self establishing within living carrying. These are the prior sayings to compare with the new suggestion, not an authority that prevents their improving.
+
+**The dormant form's origin in prior living and its own carrying during dormancy are different assertions.** A form can have come from prior living without the older wording granting it a living self's carrying. The present suggestion may improve that wording, but the same subject and scale must follow through the comparison. Naming a form “dormant carrying” does not yet settle whether it is itself living, carried by living inward selves, or a preserved form participating when a new self establishes.
+
+**R6 offers a possible connecting relation.** The carrying can be followed at inward living selves while the larger scale pattern is still possibling next living. In that explaining the outward dormant form and the inward living carrying are named at their respective scales. The later living self establishes as their larger scale co-chaining. This is a candidate drawn from the user's inward/outward relation, not an assumption that every inward self remains active in every biological dormancy or that every seed begins existing only at germination.
+
+**A second possible meaning would change the older carrying/living identity.** If the suggestion instead names carrying itself as non-living during dormancy and living only afterward, “all carrying is living” would need improving at that exact relation. The earlier never-pausing statement can then refer to the self after its inception, while the dormant prior has another standing. Both meanings should not be stated of the same carrying at the same scale and momentary.
+
+**The question for our resolving: during dormancy, is the carrying living inward while the larger scale pattern is still possibling next living?** This follows the user's own scale explaining and makes the dormant relation available for a binary suggestion. It is the concern before the universal scope of dormancy or the governing passages is pursued further.
+
+### Existing work that contributes
+
+Natural Intelligence 5.1 names carrying as capacity and 6.5 offers the seed carrying its possible palm. Exhibit SEVENTEEN Natural Biology 4.7, 5.1, 5.2 and 5.5 provide DNA, conception, developing and germline passages for local comparing; their older terminology and field interpretations are not adopted wholesale. Biology 4.1 calls a seed or spore inert alongside a virus, while Natural Intelligence calls the seed a living carrier. That particular comparison needs the same subject and scale as the new dormancy explaining.
+
+The [v384A dormancy gathering](https://github.com/chris-j-handel/corus/blob/713e52588ee0063551ac5a8316b79ea39a747d5d/incoming/v384A/Dormancy_Carrying_and_Geodesic_Releasing_v384A.md), read at its frozen source, already separates a seed further developing, a new self establishing and a coupling restoring. Droplets 16–18 withdraw an inference from undetected metabolism to no changing and distinguish instrument reach from carrying none. That correction accompanies our present comparison: an outward observing alone identifies neither every inward changing nor its absence. The user's new logic is followed as a new offering rather than absorbed into that older account unchanged.
+
+### Biology alongside the natural explaining
+
+These primary research comparisons were retrieved on 7 October 2026. They concern biological measurements and structures; none identifies a measurement with a Natural Intelligence parity or directly demonstrates the universal method.
+
+| Comparison | What the research supports | Relation still to explain in Natural Intelligence |
+|---|---|---|
+| Dry seed and reactivation | Nietzel and colleagues observed ATP accumulation and oxygen uptake within minutes of Arabidopsis seed imbibition, with changes in mitochondrial redox state. | Activation after quiescence is a useful comparison; it does not establish absence of every changing before hydration. |
+| Living participation within a stored seed | Shinozaki and colleagues found autophagy contributes to maintaining endosperm quality and germination capacity during dry seed storage. | Outward stability can accompany inward maintenance; this supports looking separately at embryo, surrounding tissue and whole seed. It is not a demonstration that all inward selves have an identical standing. |
+| Conception and inherited DNA | Mouse fertilization studies observe changes in calcium signalling and ATP production; human early-embryo work follows distinct parental genomes and changing chromatin states. | Prior biological material participates in developing a new organism. These observations do not equate DNA alone with the whole living carrying or establish a non-living interval before conception. |
+| The universal extent of dormancy | Raghavan's Arabidopsis experiments induced germination of embryos that had not entered dormancy. | “All carrying comes from prior living” and “all carrying must pass through biological dormancy” have different scopes. This observing is to be retained when deciding what the natural naming of dormancy means. |
+
+Primary sources:
+
+- Nietzel et al. (2020), [Redox-mediated kick-start of mitochondrial energy metabolism drives resource-efficient seed germination](https://pubmed.ncbi.nlm.nih.gov/31871212/), PNAS, doi:10.1073/pnas.1910501117. Abstract and indexed research excerpts consulted; the full-text route was unavailable in this pass.
+- Shinozaki et al. (2024), [Autophagy maintains endosperm quality during seed storage to preserve germination ability in Arabidopsis](https://pubmed.ncbi.nlm.nih.gov/38530890/). Abstract and indexed research excerpts consulted, alongside the earlier v384A comparison.
+- Campbell and Swann (2006), [Ca2+ oscillations stimulate an ATP increase during fertilization of mouse eggs](https://www.sciencedirect.com/science/article/pii/S0012160606009444). Indexed abstract consulted.
+- Li et al. (2018), [Single-cell multi-omics sequencing of human early embryos](https://www.nature.com/articles/s41556-018-0123-2). Indexed research abstract consulted for parental genomes and chromatin changes.
+- Raghavan (2002), [Induction of vivipary in Arabidopsis by silique culture: implications for seed dormancy and germination](https://bsapubs.onlinelibrary.wiley.com/doi/10.3732/ajb.89.5.766). Abstract and relevant full-text passages consulted.
+
+**R7 with R6 · Prior living through dormancy into the new self's living co-chaining.** Preserve the user's new logic whole. Follow the same carrying, dormant form, inward selves and outward pattern through prior, now and next. Resolve the carrying/living relation at dormancy before claiming that biology establishes the universal extension. Possible mates: THIRTY, Natural Intelligence, Natural Naming, Natural Biology and SIX. This remains an ungraded droplet in the v385R session artifact; no living exhibit or public mate is changed. — v385R
