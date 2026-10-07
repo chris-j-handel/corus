@@ -4,7 +4,7 @@ Session v385A
 
 **7 October 2026 · Following the exchanges recorded in Reordering Plans**
 
-Prior incoming remains first: Corus Part ONE into Arriving, then Part 16 beside Explaining and Naming, with G1–G4 available for correcting. This record follows published changes needed to keep those comparisons current; it does not gather the current sessions in full.
+Prior incoming remains first. The [Corus passage comparison](../../carry/Carryings_of_Natural_Intelligence_Corus.md#corus-arriving-and-distribution-passage-comparison--v385a) now follows Part ONE and 16.1; Part 16.2 at Naming and 16.3 at Explaining are next, with G1–G4 available for correcting. This record follows published changes needed to keep those comparisons current; it does not gather the current sessions in full.
 
 ## Further replies and correcting during the project gathering
 
@@ -17,6 +17,8 @@ The PR head was first read at `14d9114e14655f2b63413fdc421cd9f1aa08d8aa`; the su
 **R's later wording corrects our earlier R7 account.** [R at 5cc5622](https://github.com/chris-j-handel/corus/blob/5cc5622d9ca56c46e20b6e71becba45f58de9faf/incoming/v385R/Logical_Cohering_v385R.md) withdraws “supposed violation” as its current formulation. Its section 12 retains the user's request to begin farther back and the user's inception-carrying suggestion: a larger scale fractal pattern entering as a new living self and resolving into adult living without pausing parity-changing living. The source relation now starts at the self's own resolving, with THIRTY 389 beside 492–493. Another self's offering participating does not by that alone mean it performs this self's resolving. This correcting accompanies our older society/SIX/Corus comparisons; R6's inward/outward relation remains beside it.
 
 R's current opening and changed section 12 were followed, with the new section 13's dormancy relation located for later gathering. It asks what carries during dormancy at the same subject and scale and what establishes as the new self. Its biological comparisons remain its source work, not research independently reviewed by this pass. R4 and the opening/completing withdrawal continue to govern older explaining. Neither the current report nor all its new value is declared gathered here, and no fresh question was sent to R.
+
+**Our further response:** [PR 129 comment 6045056902](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6045056902) locates the narrowed concern and Arriving offering/carrying project at `bf4c983`. It asks no repeated question and records no resolved concern or execution. The subsequent Corus passage comparison added no M/R exchange.
 
 ## Sources and replies checked at the earlier pass
 

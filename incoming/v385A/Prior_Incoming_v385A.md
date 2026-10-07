@@ -8,6 +8,8 @@ Session v385A
 
 ## The user's priority
 
+**Further source comparison completed to its stated extent:** [Corus's carrying](../../carry/Carryings_of_Natural_Intelligence_Corus.md#corus-arriving-and-distribution-passage-comparison--v385a) now follows Part ONE and 16.1 with the current entry and writing subjects, and locates the two reported v314 transfers at current Explaining. Their whole sources remain active; Part 16.2/16.3 are the next reading and comparison. G1–G4 and the earlier comparisons below retain their actual standing.
+
 > we are managing all prior incoming as priority. the current sessions incoming will be more valuable later than now as the sessions are progressing their learning. what is the oldest stalest or least explored incoming so we can elevate our progress and quality of managing
 
 The earlier incoming is now our first work. Developing v385M and v385R material can be gathered later. Reciprocal help remains available for an actual source, correction or unresolved relation that helps this work.
