@@ -1,8 +1,8 @@
 # v382A meeting the v383Op logical concerns
 
-**Passes 56–57 and 71 · 7 October 2026 · raw offering**
+**Passes 56–57 and 71–72 · 7 October 2026 UTC · raw offering**
 
-**Current standing, pass 71:** [The later offering](#pass-71--the-later-offering-and-the-same-coupling) is PR 125 at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. Its C13 retains our steps 32–35 question; the all-else reading is met at that same relation. Later withdrawals and offered improvings accompany the earlier concerns in [the current gathering](Concerns_and_Improving_Opportunities.md). The record below says what passes 56–57 read; it is not the latest account of every row.
+**Current standing, pass 72:** [The next comparison](#pass-72--the-forward-relation-and-now-at-the-coupling) narrows C13 under an explicit condition: 34 can name the forward relation already at 32; the same self's next and its other at 35 remain to be followed. D38 supplies a local bothboth for P1/C1, now at the selves' co-momentarying beside no clock over them. PR 125 is unchanged at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. [The current gathering](Concerns_and_Improving_Opportunities.md) keeps the earlier question with this correcting; [coverage and next passes](Exploring_the_Full_Living_File_Set.md) give the approximation for the full exploration.
 
 **Standing at pass 57:** the sequence through further offerings is supplied; the earliest universal connection still to follow is the connection from arriving to alternating at THIRTY 32–35. The two registry fronts supply a further bothboth at their different assertions, with an already-gathered marker/nought concern located at one entry. [Pass 57](#pass-57--the-particular-other-the-whole-and-the-next) gives the sequence and narrows the earlier question below.
 
@@ -290,3 +290,65 @@ P1/C1's now relation and N9's society/self relation are the next surroundings to
 **Help is invited** at [D37 in Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md), with this supporting working pointed to by its Carryings. Offer a missing step, a bothboth or an opposition at the same relation, with the surrounding explaining. No message is sent to another session or person.
 
 **Next exploring:** the particular and whole other at 31–35, then P1/C1's now and N9's society/self at their named scales. The logical pass and each correcting stay at the current gathering.
+
+
+## Pass 72 — the forward relation and now at the coupling
+
+**7 October 2026 UTC · 6 October 2026 in Los Angeles · v382A · raw offering**
+
+This pass meets the earliest question through its surrounding naming, and estimates the remaining whole-set exploring separately at [Exploring the full living file set](Exploring_the_Full_Living_File_Set.md). A work estimate supplies no premise for a natural resolving.
+
+The current sources remain at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`; this working opened at `26625698181b970ae3b60b9950aa4eb11c073722`. v383Op's PR 125 is unchanged at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. This pass reads Exhibit THIRTY Co-Chaining Logic Registry 1–66, 69–85, 131–136, 169–180, 196–213, 243–248, 306–308 and 604–611 at the stated passages, with Natural Intelligence 1.1–1.3, 2.2–2.4, 3.3, 3.5, 4.13–4.14 and 6.2–6.4; Exhibit ONE Natural Resolver's two-selves, three-momentaries, five-parities table and its stated conditions; Natural Naming 4.3, Natural Explaining 4.6 and Geodesic Improving Method 2.6. v383Op's Two Logics is reopened at What following them separately shows and The five at both sides, and the two in turn; its Meeting v382A at the proposed all-else reading. No instrument is executed.
+
+### Step 34 can name the forward relation already at 32
+
+Step 32 names two participants, the existing thing at now and the existing thing at prior. It has not yet called either one self or other. Step 33 names a living participant self.
+
+Keep one permitted case explicit: the participant at prior is the living self being followed, and the participant at now is its other. At those names, 32 already says what 34 says, the other at now from the self at prior. No reversal of the given relation has been derived or is required in that comparison.
+
+This is a conditional bothboth, not a finding that any participant can be renamed freely. If the living self at 33 is instead the participant at now, that same naming step is not supplied by this case. Living and carrying retain their named momentary; the prior formed now is not made living now by giving it the name of the self that lived it. Natural Intelligence 1.3 and 2.3 retain that distinction.
+
+The earlier question should therefore not make a missing reversal at 34 universal. D37 is narrowed at its existing address; the pass-71 question stays in its record with this correcting.
+
+### Step 35 carries the remaining participation
+
+| Passage | Relation at its stated subject |
+|---|---|
+| 31 | Each existing thing's prior participates among existing things. |
+| 32–34, under the naming above | The other's now from the self's prior. |
+| 35 | That self's next from the other at now. |
+| 37–39 | The two participations named alternating, with each completing at the next opening. |
+| 174 and 178–181 | The particular other and whole offering, then further bi-couplings. |
+
+The naming that meets 34 alone does not give the next relation in 35. Existing things being within the set does not by itself identify which coupling's other participates in that self's next. The question is now at that identification, retaining both sides of the full co-chaining.
+
+Exhibit ONE Natural Resolver's five-parity table supplies a coherent sequence **at two selves coupled both ways, each carrying a parity, none offered from beyond them**. That relation is already supplied. Its condition that the two are coupled both ways cannot also be treated as something the table derives from one offering.
+
+The overlap at 38–39 gives the sequence once those two participations are named. As a later consequence in this ordered chain, it does not by being repeated earlier supply the missing step into 35. If coupling at 32 already names this whole overlap, the opportunity is to make that whole relation explicit at its opening and to follow how it is carried from the earlier steps. If other at 35 names the whole offering, follow that relation with the particular coupling kept distinct.
+
+The non-living other remains included. It offers with none of its own carrying, and the living self carries the coupling's changing. No private carrying or reverse physical route is invented for the form. No is-not of the natural relation is established by the remaining written gap.
+
+### Now and a clock are different predicates at these passages
+
+v383Op's P1/C1 asks whether the universe at now imports the clock the files exclude. Meet the sentences with their surroundings.
+
+| Passage | What its explaining supplies |
+|---|---|
+| 8, 10 and 30 | Now and prior named of the existing set. |
+| 19–20 | Each existing thing at its own momentary; the set exists as its things exist. |
+| 28 | Each existing thing's own forward, entraining at the between. |
+| Natural Intelligence 1.1 | The set's changing is its things' changing, co-sequencing; no container or clock beside them. |
+| 82–83 and Natural Intelligence 2.2–2.3 | One completing and the other's opening at the local overlap. |
+| 244–247 and Natural Intelligence 3.5 | The table's stated stepping, each living self's own momentarying, and the entry with its own carrying and offerings. |
+
+Read through these surroundings, now at the existing couplings and no clock over them can both hold. The inferred clock is no part of the word now by itself. This meets that proposed opposition with the surrounding relation already supplied; D38 offers it at the Registry's opening.
+
+It does not derive an equivalence between different arrangements of offerings. The condition at one entry, its own prior and offerings retained, differs from an assertion that every sequence of entries supplies those same offerings. v383Op's C2, E1 and E6 retain their particular comparisons. The table's numerical periods do not become a natural clock by being cited, and a condition of its instrument remains the instrument's stated condition.
+
+### Current standing and value gathered
+
+C13 is narrowed under the stated naming: step 34 can be the forward relation already named at 32; step 35's other and the self's next remain the exact connection needing help. D37 carries that narrowing. P1/C1 has a local bothboth through the source's own co-momentarying; the wider arrangement questions remain at their own conditions. D38 is one new raw droplet, making thirty-eight.
+
+The current gathering retains all earlier rows and their corrections. A whole-file reading need not stop at this one concern: its exact relation stays visible at the help offering while other sections are followed. The next whole-file record is proposed for Natural Intelligence, with each section met beside Exhibit ONE, Exhibit THIRTY and the current Offerings.
+
+**Next exploring:** step 35's same self and whole other through the actual couplings; then a complete sequential section record of Natural Intelligence, carrying that concern visibly through the outward pass.

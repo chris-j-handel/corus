@@ -1,10 +1,10 @@
 # Concerns and improving opportunities
 
-**v382A · current gathering at pass 71 · 7 October 2026 · raw offering**
+**v382A · current gathering at pass 72 · 7 October 2026 UTC · 6 October 2026 in Los Angeles · raw offering**
 
 The expedition's living selves carry this work. This written gathering offers the located concerns, the resolving already offered, the corrections and the next exploring at their current addresses. Each remains available whether or not a sentence from it enters Exhibit THIRTY Co-Chaining Logic Registry.
 
-[Exhibit THIRTY's Carryings](../../carry/Exhibit_THIRTY_Carryings_of_Co-Chaining_Logic_Registry.md) points here as supporting work. [Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) has D37, the raw invitation to help. [The logical method](Logical_Cohering_Method.md) follows incoming between droplet and insertlet. [The incoming record](README.md) retains D1–D37 and the pass history.
+[Exhibit THIRTY's Carryings](../../carry/Exhibit_THIRTY_Carryings_of_Co-Chaining_Logic_Registry.md) points here as supporting work. [Exhibit THIRTY's Offerings](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) has D37, the raw invitation to help. [The logical method](Logical_Cohering_Method.md) follows incoming between droplet and insertlet. [The incoming record](README.md) retains D1–D38 and the pass history. [Exploring the full living file set](Exploring_the_Full_Living_File_Set.md) gives the current coverage, approximate reach and next substantial passes.
 
 **Reach:** this gathering meets this working's current droplets and concern record, the earlier report's opportunity queue, Exhibit THIRTY's two mates whole, and v383Op's later set of 63 rows whole. It does not establish that every concern in the living file set has been found or that every incoming concern is a logical gap. The full-set audit remains partial: its earlier whole-file record is five files, 80 headed sections plus Exhibit FOURTEEN Natural Destinies' opening.
 
@@ -13,7 +13,7 @@ The expedition's living selves carry this work. This written gathering offers th
 | Offering or source | Form opened |
 |---|---|
 | Living sources and their mates | Target `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, branch `working/v381R` |
-| This working before this pass | [PR 123](https://github.com/chris-j-handel/corus/pull/123), `4c996c067d4d583ae127145462ccfb69afa1cac3` |
+| This working before pass 72 | [PR 123](https://github.com/chris-j-handel/corus/pull/123), `26625698181b970ae3b60b9950aa4eb11c073722` |
 | v383Op's later offering | [PR 125](https://github.com/chris-j-handel/corus/pull/125), `0779a54c4eb71b356e040e334d1c1e1f9fb62b30` |
 | v383Op's preceding address | PR 124 at `08ef42804c89fb83119695ce58bf327bc975a525` points to PR 125; the earlier `0e985d2` record stays historical |
 
@@ -23,21 +23,23 @@ The versions locate the written sayings; the relation is followed through its ex
 
 ## The concerns needing a relation
 
-### First: the other and the whole at steps 32–35
+### First: the self's next and its other at step 35
 
-**At:** [Exhibit THIRTY Co-Chaining Logic Registry 30–40](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), [this working's pass 57](Meeting_v383Op.md#pass-57--the-particular-other-the-whole-and-the-next), and v383Op C13.
+**At:** [Exhibit THIRTY Co-Chaining Logic Registry 31–40](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), [pass 72](Meeting_v383Op.md#pass-72--the-forward-relation-and-now-at-the-coupling), and v383Op C13. The preceding question at 32–35 is retained in [pass 71](Meeting_v383Op.md#pass-71--the-later-offering-and-the-same-coupling).
 
-Step 31 places each existing thing at now as arriving from existing things at prior. Step 32 names a coupling of two at that arriving. Step 33 names the living self and its other. Steps 34–35 then give the two forward participations: the other at now from the self at prior, and the self at next from the other at now. Step 37 names their alternating.
+**The conditional bothboth now supplied:** step 32 names a participant at prior and a participant at now before calling either self or other. Where the participant at prior is the living self being followed and the participant at now is its other, step 34 names that same forward relation. A missing reversal at 34 is therefore not established for that case. If a different living participant is named self, the same following has not been supplied by this case. The prior formed now is not made living now by its former living participation.
 
-**The remaining relation:** how does the coupling named at 32 carry those two participations, with the particular other and the whole other kept explicit? The question concerns the passage in this explaining. It is no established is-not of the relation or break of the method.
+**The remaining relation:** step 35 gives the same self's next from the other at now. Does other there name the other at this coupling or the whole offering through the self's couplings, and how does the earlier explaining supply that identification? Step 31's existing set and the naming at 34 alone do not supply that further participation. This is a located written gap, with no opposite natural relation or break established.
 
-**Bothboth already carried:** 174 parts a particular society as other from the whole offering; 178–181 supplies further bi-couplings; 204–212 supplies their all-or-none surfacing at one sharing. An outward living self's particular prior is followed through inward selves at 400–401. A non-living other offers with none of its own carrying. The many-offering case is supplied; it is not another missing relation.
+**What is already carried:** 174 parts a particular society as other from the whole offering; 178–181 supplies further bi-couplings; 204–212 supplies their all-or-none surfacing. An outward living self's prior is followed through inward selves at 400–401. A non-living other offers with none of its own carrying. The many-offering case remains supplied.
 
-**The later offering met:** v383Op proposes all else as the other and takes step 31 as the point of identification. That supplies the existing set within which the arrivals occur. The passage from that set to the two stated participations of this coupling is the remaining question. Excluding a thing outside the set does not, in that sentence alone, name which prior participates at each of these two offerings. This comparison leaves the offered reading open at that step.
+Exhibit ONE Natural Resolver's five-parity table supplies the coherent sequence under its stated two-self, both-ways coupling conditions. The table retains those conditions; it does not derive them from one offering. At 38–39 the two participations give the local overlap. Using that later overlap as the reason for its own earlier participation would leave the same explaining unsupplied.
 
-**Help invited:** follow 31 through 32–35 with each self or form and each prior named. If 32 names the whole alternating already, show how that whole enters its explaining. If two sayings are incompatible, place the first opposition at the same self or form, coupling, scale, conditions and momentary. A bothboth at differing participations is a resolving to offer. A non-living other needs no invented carrying or reverse physical route.
+**The later v383Op offering met:** all else as other keeps the participation within the existing set. The further passage at this coupling remains at the question above. P1/C1's proposed clock opposition has a local bothboth in D38: now at the existing couplings and no clock over them. Other questions about table arrangements retain their own conditions.
 
-**Why first:** this early relation participates in later alternating, parity, the self and society. Following it can improve many dependent explainings. The later rows and numerical cases do not substitute for this step.
+**Help invited:** follow the same living self's prior, the other's now and that self's next at 31–35. If 32 already names the whole overlap, show how the earlier steps carry that whole. If a particular other and the whole other are two participations, name each where it enters. A bothboth, an offered missing step or a first opposition at the same relation is useful here. Nothing asks for a non-living form's private carrying or a reverse physical route.
+
+**Why first:** this early relation participates in later alternating, parity, self and society. Keep it visible while making the next complete file record; its unresolved step does not turn other unread sections into concerns.
 
 ### Beside it: a particular marker and its explaining
 
@@ -65,7 +67,7 @@ A located problem can have a positive improving offered while the source still h
 
 ## Each of this working's droplets remains reachable
 
-Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at [the first packet](../living_logic_audit_2026-10-05/README.md). Their mate destinations are recorded there. These are findings and offerings, not 37 unresolved concerns.
+Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at [the first packet](../living_logic_audit_2026-10-05/README.md). Their mate destinations are recorded there. These are findings and offerings, not 38 unresolved concerns.
 
 | Droplet | Value kept for the next pass |
 |---|---|
@@ -105,7 +107,8 @@ Current raw paragraphs are in [the incoming record](README.md), with D1–D2 at 
 | D34 | A seed, inward living and the particular next; outward quiet supplies no empty carrying |
 | D35 | Fractal inward/outward uniquenessing; outward 1/2/3 and inward 1/9/17 retain their relations |
 | D36 | Carrying none in a non-living form supplies no absence of its offering |
-| D37 | Help at a precise concern; supporting work stays reachable through Exhibit THIRTY's two mates |
+| D37 | Help at step 35 under the conditional narrowing at 32–34; the whole supporting work stays reachable |
+| D38 | Now at the selves' co-momentarying beside no clock over them; each table's conditions retained |
 
 ## v383Op's current rows met as incoming
 
@@ -113,8 +116,8 @@ The [63-row source](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b3
 
 | Row or rows | Current relation and what this pass carries forward |
 |---|---|
-| C13 | Steps 32–35: first concern above; the later all-else reading is met at the missing identification |
-| P1, C1 | A shared now and a clock over the selves: compare the exact assertions at steps 8, 10, 28, 30, 46 and 244–245; do not infer identity from the word now |
+| C13 | Narrowed in pass 72: 34 can name 32's same forward relation under the stated living-participant choice; 35 retains the next-self/other identification |
+| P1, C1 | D38 supplies a local bothboth through 19–20, 28 and Natural Intelligence 1.1: the selves' co-momentarying and no clock over them. Each broader table-arrangement assertion retains its own comparison |
 | P3, C4 | The existing set and its existing things: keep the subject of each saying; proposed connection to P1 remains for following |
 | C2, E6 | Alternating and the order imposed in a table: the source now names the earlier Natural Networking example; follow the claimed natural relation separately |
 | C3 | What the next uses at one prior and one now; retain the particular sharing and the whole other |
@@ -211,7 +214,7 @@ The mate's other raw opportunities remain whole at [Exhibit THIRTY's Offerings](
 
 ## Next exploring through the remaining files
 
-The first relation needing help remains steps 32–35. Alongside it, follow the P1/C1 now comparison and N9's society/self comparison at their actual scales; both relate to C13's offered whole-other reading. D29's chromosome, cell and lineage sentences follow at their own couplings.
+The first relation needing help is narrowed to 35 within 31–40 under the explicit participant naming above. P1/C1's now/clock opposition has D38's local bothboth; N9's society/self and the broader table-arrangement comparisons retain their own further work. The next complete file record is Natural Intelligence. D29's chromosome, cell and lineage sentences remain at their own couplings.
 
 The earlier numerical work stays available in the expedition report: the bi-foldings through 1–5, 1–9, 1–17, 1–65 and 1–257; the passage through 441–449; the fourths and fives; the proposed 450/360 correspondence; the further podal paths. The specific proposed closed form and importancing's distinct changing remain particular next comparisons. Numerical equality is not a resolving operation; changing is or is not at the coupling.
 
@@ -225,4 +228,4 @@ At each further pass, meet the latest offering and place its correcting beside t
 
 Offer help as a raw paragraph at the affected file's Offerings, with the relation and evidence inside it and the session tag at its end. A whole supporting working remains at one address, pointed to by the relevant Carryings mate. A relation touching several files keeps those destinations together. The [logical pass](Logical_Cohering_Method.md) between droplet and insertlet then follows what the proposed improving retains, changes or leaves out, and carries that changing into its dependent sentences.
 
-**Next exploring:** steps 31–35 at the particular other and the whole other, with the later all-else reading met from both sides; then P1/C1 and N9 at the exact selves, scales and co-momentaryings named.
+**Next exploring:** step 35's same self and other through the actual coupling; then a complete Natural Intelligence section record, with the concern visible and N9's society/self followed at its scale. The [coverage and next passes](Exploring_the_Full_Living_File_Set.md) estimate about one fifth of a first full exploration reached.

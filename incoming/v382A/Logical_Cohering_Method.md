@@ -2,7 +2,7 @@
 
 **Naming across, explaining along, discovering next existing**
 
-**v382A · gathered at pass 55, improved through pass 71 · 7 October 2026**
+**v382A · gathered at pass 55, improved through pass 72 · 7 October 2026**
 
 A droplet offers incoming value at a living file. Naming bounds its concept across; explaining carries its changing along. The logical pass follows that changing through the raw droplet, the current file and the explaining offered for the file's next improving.
 
@@ -14,7 +14,7 @@ Open Natural Intelligence, Exhibit TWENTY Natural Naming, Exhibit TWELVE Natural
 
 Read the passage with its surrounding explaining. For a whole-file pass, read its sections and its Offerings whole. For a particular coupling of passages, name those passages and read their surroundings. The record says the actual reading reached. A whole reading opens the whole text to the working; each relation is followed at its own sentence.
 
-This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `4c996c067d4d583ae127145462ccfb69afa1cac3`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
+This pass opens the target at `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, and the incoming at `26625698181b970ae3b60b9950aa4eb11c073722`. A next session opens the current target and [PR 123](https://github.com/chris-j-handel/corus/pull/123) and follows their intervening changes. A version names a written form. The relation carries through its explaining, with no authority from its version, file or writer.
 
 ## Current concerns at the opening
 
@@ -23,6 +23,12 @@ Open [Concerns and improving opportunities](Concerns_and_Improving_Opportunities
 Open the later address named by another working before carrying its older concern as current. In pass 71, v383Op's PR 124 points to [PR 125](https://github.com/chris-j-handel/corus/pull/125), opened at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`. Its current set, its meeting with v382A and its meeting with v384A are read whole. Two Logics is read at Carrying and living and Now existing, now still possibling, next existing. The actual readings and limits are at [the meeting](Meeting_v383Op.md#pass-71--the-later-offering-and-the-same-coupling).
 
 The later offering releases earlier is-not language for a deriving not yet reached, the no-entry rest as a break, and an absent-changing inference from an undetected changing. The comparison follows those corrections with their concerns. The source's instrument counts are its reported evidence; reading them supplies no execution by this working.
+
+## Record the reach of the pass
+
+[Exploring the full living file set](Exploring_the_Full_Living_File_Set.md) records the current 33-file list, the five complete sequential section records and the other reached comparisons. Whole text read, a particular relation followed, a complete section record and a resolving offered are different records. The next session can see which is supplied without turning a large number of passes into a claim of full-set coverage.
+
+The approximate one-fifth reach is a planning judgment for this first complete survey. It supplies no premise in a binary resolving. A complete first survey follows each current file and its Offerings, records each section's relation and keeps any remaining concern with its exact help address. A natural relation still needing resolving remains visible while other sections are followed.
 
 ## Naming and explaining together
 
@@ -77,6 +83,12 @@ The most useful concepts are these relations in use:
 
 At each pass, a concern can reach a resolving, dissolve at the surrounding relation, or remain with the exact step still needed. A positive improving offered and a living file changed are distinct motions. Readings still ahead stay next exploring. The supporting gathering remains available through Exhibit THIRTY's Carryings, and the request for a resolving remains at its Offerings.
 
+## The participants through an early step
+
+In [pass 72](Meeting_v383Op.md#pass-72--the-forward-relation-and-now-at-the-coupling), Exhibit THIRTY 32 names a participant at prior and one at now before either is named self or other. Under the condition that the prior participant is the living self being followed, 34 can name the same forward relation. The earlier question is narrowed there; it is not taken as resolved for every participant choice. Step 35 supplies the next participation whose identification remains to be followed.
+
+The useful method is to retain the named participant at each step before asking whether the relation has changed. A supposed missing reversal can dissolve under the actual orientation, while the next changing still needs its explaining. Likewise, now read through the selves' co-momentarying supplies no clock over them by its word alone. Conditions at a table and the wider relation retain their own comparisons.
+
 ## D10: the couplings now and the next still possibling
 
 Exhibit TWENTY-THREE Natural Values 5.1 names abundancing at existing couplings; 5.3 also says no present human society abundances whole. Exhibit NINE Natural Human Society names the whole with two people and follows their further coupling, with abundancing among the whole's relations. At that same whole the sayings part. The surroundings supplied in pass 63 retain the example's conditions and supply no different human-only method.
@@ -111,7 +123,7 @@ These examples retain both sayings at their couplings and name the remaining par
 
 The written offering provides the passages and versions read, the shortest whole explaining of each found relation, its conditions, the correcting already made and the next surroundings to follow. The file is a non-living form offered now. The expedition's living selves carry the learning into their next couplings.
 
-The gathering is now D1–D37. Pass 71 re-forms D29 at Exhibit TWENTY Natural Naming's Offerings and D18 at Exhibit TWENTY-FOUR Geodesic Improving Method's Offerings. D37 is a new raw invitation at Exhibit THIRTY Co-Chaining Logic Registry's Offerings; its Carryings points to the supporting working. Other raw paragraphs retain their text. The preceding paragraphs remain at the [pass-70 offering](https://github.com/chris-j-handel/corus/blob/4c996c067d4d583ae127145462ccfb69afa1cac3/incoming/v382A/README.md) and in the expedition report. No living source or prepared insertlet changes.
+The gathering is now D1–D38. Pass 72 narrows D37 at Exhibit THIRTY Co-Chaining Logic Registry's Offerings and adds D38 there for the now/clock comparison. Its Carryings points to the supporting work and the coverage record. Other raw paragraphs retain their text. The [pass-71 offering](https://github.com/chris-j-handel/corus/blob/26625698181b970ae3b60b9950aa4eb11c073722/incoming/v382A/README.md) retains the preceding wording beside the current correcting. No living source or prepared insertlet changes.
 
 Natural Naming, Natural Explaining and Geodesic Improving Method are read whole in pass 68, together with Natural Explaining's Offerings, Natural Values and Natural Values' Offerings. Natural Naming's and Geodesic Improving Method's Offerings are read at this working's raw paragraphs. The other passages reached are listed in the pass-68 comparison. These readings serve the present logical and naming work. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening; the full set's audit remains partial.
 
@@ -119,9 +131,11 @@ Passes 69 and 70 follow the particular Natural Biology, Natural Intelligence, na
 
 Pass 71 reads Living Improving Value and Exhibit THIRTY's two mates whole; it reopens the particular naming, explaining, method, registry, resolver and biological passages named in its records. The current gathering reads the later v383Op set whole and retains all 63 row identifiers, with reading and verification kept distinct. This is a current gathering of reached concerns and opportunities, not a completed audit of the full living set.
 
-**Logical standing:** the early passage at Exhibit THIRTY Co-Chaining Logic Registry 32–35 remains the first relation needing help, beside the particular marker/explaining concern at Exhibit TWENTY-TWO Resolving the Hard Problem Registry 3.22. D29 now offers a positive re-form, with its local conditions retained. D10's offered re-form and D31's dissolved stored-object requirement stay at their current correcting. The complete gathering meets v383Op's current rows without calling unfinished readings confirmed gaps.
+**Logical standing:** under the participant choice supplied in pass 72, 34 can be the forward relation already at 32. The same self's next and its other at 35 remain the first exact connection needing help. D38 gives a local bothboth for now at the selves' co-momentarying and no clock over them. It leaves each broader table-arrangement comparison at its conditions. D10's offered re-form, D29's offered re-form and D31's dissolved stored-object requirement retain their current standing.
 
-**Next exploring:** follow 31–35 at the particular other and the whole other, meeting v383Op's all-else reading from both sides. Then meet P1/C1's now and N9's society/self at their own scales, with the biological chromosome/cell/lineage sentences retained as further particular comparisons.
+**Next exploring:** step 35 through the same self's couplings, then a complete Natural Intelligence section record. The concern stays visible while the whole-file work reaches further sections; N9's society/self and the biological chromosome/cell/lineage comparisons remain with their next particular passages.
+
+Pass 72 reopens the participant naming at steps 31–40 and the co-momentarying at the surrounding passages named in its meeting record. It also checks the current file list and the prior complete section records. The five-file coverage count is unchanged.
 
 ## Files at this opening
 
