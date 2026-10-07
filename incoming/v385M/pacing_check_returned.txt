@@ -1,0 +1,19 @@
+read: Natural_Intelligence_v380R.md
+
+H. Two selves coupled across both ways, opening opposite (6.2: the relation, opposite, is carried on)
+   all together, opposite at each of 12 momentaries: True
+   taking turns A, B, A, B, (A,B) after each turn: -- -- +- ++ ++ +- -- -- +- ++ ++ +- -- -- +- ++
+   each turn at random, 200 seeds, share of turns the two are opposite: least 0.44, mean 0.44, most 0.45
+
+I. A spiral of n selves, one at a time (3.5 and the table: parities again at 4n)
+   n =  3   all together:  12   in the spiral's order, rounds:   8   in the reverse order, rounds: 2
+   n =  5   all together:  20   in the spiral's order, rounds:  12   in the reverse order, rounds: 2
+   n =  7   all together:  28   in the spiral's order, rounds:  16   in the reverse order, rounds: 2
+   n =  9   all together:  36   in the spiral's order, rounds:  20   in the reverse order, rounds: 2
+   n = 15   all together:  60   in the spiral's order, rounds:  32   in the reverse order, rounds: 2
+   n = 17   all together:  68   in the spiral's order, rounds:  36   in the reverse order, rounds: 2
+   n = 59   all together: 236   in the spiral's order, rounds: 120   in the reverse order, rounds: 2
+
+J. Spirals of 3 and 5 crossed, each turn at random (4.13: at each self's own pacing the relation is carried)
+   seeds at which some self kept one value through the last 4,000 turns: 0 of 100
+   share of turns the crossing selves are opposite: least 0.41, mean 0.46, most 0.49 (all together: 1.00)
