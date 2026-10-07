@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Source age, existing placements and the next gathering**
 
+**Further direction in this session:** the [Corus and reordering gathering](Reordering_Plans_v385A.md) corrects this record's incomplete view of the oldest unfinished projects. Corus itself preserves v314 distribution notes inside v330, and its arriving purpose is explicitly followed toward Natural Arriving. Those next comparisons now accompany and guide the G1–G4 work below; the earlier completed comparisons remain as recorded.
+
 ## The user's priority
 
 > we are managing all prior incoming as priority. the current sessions incoming will be more valuable later than now as the sessions are progressing their learning. what is the oldest stalest or least explored incoming so we can elevate our progress and quality of managing

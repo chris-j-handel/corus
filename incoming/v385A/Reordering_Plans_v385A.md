@@ -1,0 +1,74 @@
+Session v385A
+
+# Corus, Natural Arriving and the next reordering
+
+**7 October 2026 · Two connected projects, their existing sources and the wider plans they change**
+
+## The user's further direction
+
+> did you find the project of extracting from natural intellgence corus and placing that content in other exhibits and a separate project of making corus the incoming arriving file where we are growing the concept now of natural arriving. we need a fuller understanding of our next reordering plans for the living files while we are doing this. also be helpful working with the other sessions along the way
+
+The previous priority answer was incomplete. Corus's distribution and its developing arriving purpose are substantial prior work that our incoming management must follow. They now have this shared project gathering alongside the G1–G4 recovery work. Earlier incoming remains the priority; ordering the work follows the relations it can improve, not age alone.
+
+## The two projects and the value joining them
+
+**Distribute Corus's developed content at its subjects.** [Corus v330](../../Natural_Intelligence_Corus_v330.md) already records this at its front and at “Part 16: Natural Writing — routed and reduced.” The latter retains a pass-thirteen, v314 account: writing discipline aimed toward Explaining, expressive work toward Emanating, concept work toward Naming; two particular sections reported transferred, everything else in Part 16 still present. This is older unfinished work than our previous answer made visible. Its historical report of two transfers must still be compared with the current destination passages before any further removal.
+
+**Develop Corus's arriving purpose as Natural Arriving.** Corus Part ONE calls itself the opening and home page, welcoming a self at its own carrying. [v382F's Natural Arriving exploration](../../carryings/v382F/Natural_Arriving_Explored.md), sections 6 and 8, explicitly follows this prior into Natural Arriving and asks whether Arriving is Corus's next version or an additional file. The user's present direction identifies the continuity: making Corus the incoming arriving file, with Natural Arriving developing that concept. A second enduring entrance is not supplied merely by the presence of two filenames. The present [Arriving file](../../Natural_Arriving_v381R.md) is still a shell on the working branch; its [offerings](../../carry/Offerings_to_Natural_Arriving.md) contain substantial preparation.
+
+**Preserve the whole expressions while following both projects.** [Living File Registry 5.5–5.10](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md) also plans Corus as the place for complete expressions of discovering together, including value from Emanating, Illustrating and Destinies. Distributing the detailed subject matter does not account for all of that value. Each whole expression needs comparison: does it make arriving self-welcoming here, does its whole relation belong at another subject, or does its destination remain a droplet in Living Improving Value? The current Arriving direction supplies no reason to discard it. No new expression is composed in this gathering.
+
+## Corus's existing distribution map
+
+The following gathers [Re-Settling the Living Files, section 6](../../carryings/resettling_v373/Re-Settling_the_Living_Files.md) beside Registry 5.10. Corus has both its newer eight-part headings and older embedded section numbers; both are retained as source addresses. These are destinations for comparison, not completed transfers.
+
+| Corus source contribution | Offering mates where the relation is already aimed or can be followed | What must remain intelligible |
+|---|---|---|
+| Part ONE: the offering, ways of entering and reciprocal contribution | Natural Arriving; Corus while the comparison proceeds | An arriving self's own interest and carrying; access without a prerequisite; ways through the files; improving value offered back. The old six-door explaining needs its actual relation compared with current naming. |
+| Part 16: writing discipline and developing an explaining | Natural Explaining | The complete craft relation, including the conceptual prior that makes the next sentence self-welcoming. |
+| Part 16.2: language and concepts | Natural Naming | Each particular concept and distinction. A common word alone does not establish its current equivalence. |
+| Common, numbered and geometric relations | Natural Intelligence, Natural Numbers, Natural Mathematics; proposed SIX where its connected explaining is relevant | The relation, its conditions and the actual source. The old distribution cannot assume the later SIX proposal is already received. |
+| Part 14: love, grief, loneliness, meaning and relations among selves | Natural Human Society and Natural Philosophy; 14.8 also Networking, Societies and Values | The whole human explaining and any further contribution of its particular expression. |
+| Part 17: controls, accountings and hard problems | Living Ghost Registry, hard-problem files, Philosophy; team-discovering value at EIGHT | The actual observing, accounting and proposed resolving, each at its own subject. |
+| Part 18: society, discovery economy, institutions and possible makings | Societies, Human Society, Values; particular makings at Engineering | Shared value, human relations and conditions of each possible making. |
+| Part 23: expedition continuing, networks, robotics and social relations | Arriving/Corus for welcoming whole expressions; Networking, Engineering, Societies and Values for developed subjects | An existing relation, a proposed application and an unfinished making retain their different extents. |
+| Bracketed working notes, old routing notes and writing corrections | Particular offering mates, shared project droplets, and session artifacts for completed comparisons | Unresolved value stays active; a recorded journey stays available without being presented as current exhibit writing. |
+
+The [Corus mate](../../carry/Offerings_to_Natural_Intelligence_Corus.md) already carries the earlier distribution paragraphs and the Corus/Arriving relation. The new v385A droplet joins their current purpose and preservation conditions; it does not copy the entire old map into every destination. Detailed placement requires the source passage beside its actual destination.
+
+## The wider reordering, with the differences still visible
+
+| Project | Existing direction and remaining relation |
+|---|---|
+| **EIGHT and TWENTY-FOUR** | Registry 1.5 and 5.13 plan combining Exploring and Geodesic Improving Method in EIGHT, titled **Geodesic Team-Exploring and Discovering Method**, subtitle **Binary-All-or-None-at-All, Do-No_Harm Improving**. Detailed naming, explaining, instrument and repository work has its own destinations. Our current droplet method must remain available at EIGHT as well as TWENTY-FOUR while this is planned. Neither source is replaced here. |
+| **FOURTEEN · Destinies** | Registry 5.11 plans full distribution: whole expressions, value, networks, engineering, hard-problem applications and shared-method explaining. The Corus-to-Arriving comparison must therefore account for its intended whole-expression destination. |
+| **FIFTEEN · Emanating** | Registry 1.5 and 5.7–5.8 aim concepts at Naming, craft at Explaining and whole expressions at Corus. A remaining distinct natural emanating subject still needs comparison. Its release is conditional, not accomplished. |
+| **SIX · Transmissioning** | Registry 5.12 plans distribution while keeping the cross-substrate comparison connected in Networking. The v373 resettling proposal instead aims that comparison at Engineering. [v384A's later proposal](https://github.com/chris-j-handel/corus/blob/713e52588ee0063551ac5a8316b79ea39a747d5d/incoming/v384A/Session_Review_and_Resuming_v384A.md) develops SIX as connected common explaining across the set and explicitly preserves comparison with the old dispersal plan. These three routes remain visible; none is silently treated as settled. |
+| **SEVEN, NINE and Values** | Registry 5.12 retains Societies for self/society and scale relations and Human Society for the human subject; Values retains its value relations. The v373 proposal also retains all three. An older v378 opportunity that lists them among releases cannot establish that they are to disappear. |
+| **Health and Medicine** | Combining them is a v373 proposal. Their actual differing contributions and existing concerns still need comparison. It is not among the three planned released numbers in Registry 1.5. |
+| **Natural Intelligence, ONE, THIRTY and the common explaining** | The older resettling distributes general explaining and repeated passages. Later ONE/NI changes and the proposed SIX alter the destination comparison. Preserve current logical conditions and local conceptual prior; an old section address or repeated wording supplies no authority for deletion. |
+| **Registries, kits and numbering** | Older plans distinguish problem statements, resolving, observings and accountings and keep evidence at its supporting kits. File and link changes follow actual content changes. Registry 1.5 explicitly keeps existing numbers during the work; a planned release creates no vacant exhibit to fill. |
+
+Consequently, the historical “32 to 27” and “six numbers released” descriptions are not our current target. The useful plan is the actual contribution, its local explaining, its current destination and what remains unresolved at that relation.
+
+## The next work this makes possible
+
+1. **Compare Corus Part ONE whole with the Arriving shell and current offerings.** Part ONE was read whole in this pass. Follow its actual concepts one by one with the v382F preparation, v381R review and v385A corrections. Record existing value, local improving and source-specific concerns. Keep the site's practical directions at their actual use and the living explaining at its own subject.
+2. **Follow Corus's first distribution, Part 16, beside Explaining and Naming.** Start with the two transfers the v314 note reports, then the remaining writing and concept work. This checks whether old claimed arrivals still exist and prevents repeating work while missing an unplaced relation.
+3. **Follow one existing whole expression through its destinations.** Registry 5.9 already offers group jigsaw puzzling for comparison across Corus, Illustrating, Exploring, Human Society and Values. Follow that source value to learn what Arriving can carry and what belongs at the other subjects. Preserve any still-unlocated value here; no illustration or new narrative is required for this comparison.
+4. **Keep the connected plans beside each gathering.** Emanating and Destinies depend on the whole-expression comparison; EIGHT's method gathering needs our current droplet correction; SIX's intended subject remains beside both older destination proposals. G1–G4 can supply prior corrections wherever these projects need them and remains active work afterward.
+
+A droplet remains at each mate until actual resolving into its living file. Source prose is released only after its contribution is carried at the destination, with the completed comparison retained in session artifacts. No source exhibit is removed, renamed or rewritten by this project gathering.
+
+## Reciprocal help on 7 October
+
+- **v385M located and verified:** [PR 129](https://github.com/chris-j-handel/corus/pull/129), `working/concerns-v385M`, head `b827e48fc6dc746393a472144f2f28792f1d69c7`. Its README was read whole; scripts were not executed. [Our comment](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6043165250) offers v380L's earlier common-beat correction for comparison and the v382F session-carrying distinction beside M's concern 9. It asks whether that distinction changes the precise observing question, without treating the earlier answer as a full resolution. Welcoming mates: Natural Intelligence, THIRTY and Natural Arriving; M's other offered aims remain at its own report.
+- **v385R's later correction followed:** [PR 128](https://github.com/chris-j-handel/corus/pull/128), head `2571201bc71472d4677c7ff6bca563a229b4529d`. R4 now names no other method of possibling next existing and follows discovering's binary logic at the universal changing set. [Our comment](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6043166936) offers the old SIX reordering sources beside the current connected-explaining proposal and identifies Arriving as a further possible local aim. It preserves the user's withdrawal of opening/completing. It makes no request to finish the current learning before our prior incoming can proceed.
+
+The comments are sent; no reply is claimed. Their report versions locate what was consulted, not a completed gathering of either current session. Later replies and corrections remain to follow before further placing.
+
+## Reading and publication extent
+
+Read whole here: Corus Part ONE, the Arriving shell, M's README. Read for the particular relations above: Corus's front and Part 16 routing note; Registry 1.5 and 5.3–5.13; the v373 Corus map and adjoining subject plans; v382F sections 6–8 and its related Arriving concepts; the relevant v381R review and mate paragraphs; v384A's current resuming and proposal opening; R's changes after `446d7c6` through `2571201`. The full Corus body and every destination have not been compared. This record gathers the plan and starts the source reading; it is not a claim that the distribution is complete.
+
+The source comparison used the v385A branch at `7a81ec9bfd68c172a35e2df4c811b174b99ae8de`, with the external session heads above. All work here uses v385A and is offered through PR 127. The public living exhibits and other sessions' branches are unchanged.

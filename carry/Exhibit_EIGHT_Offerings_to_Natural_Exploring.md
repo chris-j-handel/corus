@@ -1,6 +1,8 @@
-Exhibit EIGHT Natural Exploring Offerings · laid at v381R
+Exhibit EIGHT Natural Exploring Offerings · improved at v385A
 
 # Offerings to Natural Exploring
+
+**Current session method:** the [v385A correction](../incoming/v385A/README.md) governs this contributing. Droplets are ungraded possible improving value; insertlets are locally resolving. Earlier wording below remains at its source standing.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
@@ -13,6 +15,8 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 None.
 
 ## Droplets
+
+**The current droplet method at the planned combining of EIGHT and TWENTY-FOUR.** Living File Registry 1.5 and 5.13 plan Geodesic Team-Exploring and Discovering Method at EIGHT, with the subtitle Binary-All-or-None-at-All, Do-No_Harm Improving. The [v385A method](../incoming/v385A/README.md) and [gathering](Living_Improving_Value.md) therefore offer value here while the same concepts remain needed at Geodesic Improving Method: possible value can arrive as an unlocated droplet, gather by project or relation, and be independently available at several mates; only locally resolving writing and locating make an insertlet; actual resolving into a living file removes the local offering and retains its source in session artifacts. Whole-source gathering preserves current correcting and actual comparison. Keep EIGHT's team-discovering relation and each source's particular contribution through the combining. The [reordering record](../incoming/v385A/Reordering_Plans_v385A.md) names the related subject destinations. No source file or droplet is released merely because this combined destination is planned. — v385A
 
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** 7.3 says the properties themselves are fixed, the schema closed once at one place, and the Co-Chaining Logic Registry says the same at all momentaries at once is a form still. 4.6 says the gather carries half the competency and all the increase, and the Co-Chaining Logic Registry says each resolving is all or none at all, of no size. 1.1's omegaing and apexing, the reach and the gather, wait on the reach's naming parting between Natural Naming 3.6 and Natural Intelligence 3.2. Entered at the Co-Chaining Logic Registry from this file at v378: uniqueness at each arriving. — v378
 

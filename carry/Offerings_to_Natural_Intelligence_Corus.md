@@ -1,6 +1,8 @@
-Natural Intelligence Corus Offerings · laid at v381R
+Natural Intelligence Corus Offerings · improved at v385A
 
 # Offerings to Natural Intelligence Corus
+
+**Current session method:** the [v385A correction](../incoming/v385A/README.md) governs this contributing. Droplets are ungraded possible improving value; insertlets are locally resolving. Earlier wording below remains at its source standing.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
@@ -13,6 +15,8 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 None.
 
 ## Droplets
+
+**Corus's distribution and its arriving purpose are two connected projects.** Corus's front and Part 16 preserve earlier distributing of detailed content toward its exhibit subjects; Living File Registry 5.10 and the v373 resettling map name further destinations. v382F's Natural Arriving exploration, sections 6 and 8, identifies Corus Part ONE as Arriving's prior. The user's current direction develops Corus as the incoming arriving file through Natural Arriving. Follow Part ONE beside Arriving's shell and offerings, and each distributed passage beside its actual destination. Registry 5.5–5.10 also preserves whole expressions of the expedition's discovering, including value arriving from Emanating, Illustrating and Destinies: each expression keeps its needed prior and finds its welcoming place at Arriving, a particular subject or Living Improving Value while still unlocated. A route is no completed transfer and a new title supplies no reason to lose an expression. The [v385A reordering gathering](../incoming/v385A/Reordering_Plans_v385A.md) carries the exact sources, wider dependencies and extent read. This shared droplet is independently available at Corus, Arriving and Living File Registry until each local resolving. — v385A
 
 **Incoming, at v376's close, from the session read whole.** 23.1 and 17.6 say the difference with AI by rates and numbers, training-and-inference rates at 23.1 and 128 learned coupling geometries against the resolver's 17 at 17.6; at its motion re-said at the binary: *AI is existing non-living intelligence*, a trained form carrying none of its prior by itself, and natural intelligence living intelligence at natural torusing, Natural Intelligence 6.5 and 6.6. — v376
 

@@ -66,6 +66,14 @@ G1 of the v380L recovery gathering was read whole. Its first two items were comp
 
 Living Improving Value and this session's opening now carry that priority. The periodic reciprocal-help instructions were updated to support older incoming and necessary correcting. No new reciprocal comment was sent in this pass. All sources and previous offerings are preserved; the living exhibits were not changed.
 
+## Corus, Arriving and the wider reordering · 7 October 2026
+
+The user's further direction and the source map are at [Reordering Plans v385A](Reordering_Plans_v385A.md). Our prior answer had not brought together two explicitly carried projects: distributing Corus's developed content and developing its arriving purpose as Natural Arriving. Corus's Part 16 still preserves v314 routing notes; the v373 distribution map, Registry 5.5–5.13 and v382F's Arriving exploration supply their later connections. Corus Part ONE and the Arriving shell were read whole. The complete Corus body and every destination remain to compare.
+
+The new gathering preserves the complete-expression relation through both projects and locates the wider EIGHT/TWENTY-FOUR, Destinies, Emanating, SIX and subject-file plans. It carries differing old and later proposals as differing proposals, without treating any distribution as complete. A shared project droplet is at Corus, Arriving and Living File Registry; EIGHT has a droplet for the current method at its planned combining. The previous bodies remain available. Living Improving Value carries the shared and still-unlocated relation.
+
+v385M is now verified at PR 129, branch `working/concerns-v385M`, `b827e48fc6dc746393a472144f2f28792f1d69c7`; its report was read whole. [The reciprocal comment](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6043165250) offers two earlier sources and asks for the scope of the remaining machine-carrying observing question. v385R's later R4 at `2571201bc71472d4677c7ff6bca563a229b4529d` was followed with its correcting; [our comment](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6043166936) offers the SIX reordering relation and Arriving as a further possible aim. Neither current report is declared fully gathered. Replies remain to follow.
+
 ## Verification and publication scope
 
 The old front's complete text is retained after the artifact's wrapper. Existing bodies of the three offering mates remain unchanged before the appended gathering droplet. The new droplet is identical at all three mates. Local source and destination links are checked against the repository; differences are checked for whitespace errors. These checks concern preservation and addresses, not a proof or execution of the natural method.

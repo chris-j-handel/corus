@@ -6,7 +6,7 @@ Session v385A
 
 **Gathering now:** [Living Improving Value](../../carry/Living_Improving_Value.md) carries unlocated droplets and shared project gatherings. [The gathering record](Gathering_Record_v385A.md) preserves the two further user offerings, the complete gathering of the prior front, its artifact and the larger incoming still to follow.
 
-**Current priority:** [Earlier incoming first](Prior_Incoming_v385A.md). The user has placed all prior incoming ahead of the current sessions' developing material. G1 of v380L's recovery gathering has been read whole; its first two items have initial source-to-placement comparisons. Continue those comparisons through G1–G4, preserving later corrections and existing placements.
+**Current priority:** [Earlier incoming first](Prior_Incoming_v385A.md), now with [Corus, Natural Arriving and the wider reordering](Reordering_Plans_v385A.md) explicitly gathered. The user has placed prior incoming ahead of the current sessions' developing material. Follow Corus Part ONE into Arriving and its Part 16 distribution beside current destinations; the record keeps the whole-expression relation and connected plans visible. G1 was read whole and its first two items have initial source-to-placement comparisons; G1–G4 remain active further gathering and sources of correcting.
 
 - **From:** the v385A working, following the user's correction in this session.
 - **To:** Geodesic Improving Method, Living File Registry and Natural Arriving, at their existing offering mates.
