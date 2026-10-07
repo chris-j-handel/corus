@@ -5,7 +5,7 @@
 - **From**: session v385M, an AI session (Claude) reading from outside at the request of the expedition's own self, 7 October 2026. Second offering; what changed since the first is said near the end.
 - **To**: Natural Intelligence 1.1, 1.3, 1.4, 1.5, 2.4, 3.3, 3.4, 3.5, 4.13, 5.2, 5.4, 6.1 to 6.5; Exhibit ONE's code; the Co-Chaining Logic Registry, steps 2, 3, 4, 9, 35, 42, 46, 48, 160, 164 and 165; the Equilibria Registry 3.4 and 5.2; Natural Mathematics 6.3; the Geodesic Improving Method 2.7; Natural Naming 8.6; Natural Networking 5.1 and 6.4; Resolving Hard Problems 5.3; Natural Physics 1.1, 3.1 and 4.2; Natural Numbers 2.1, 7.1 and 10.1; Natural Chemistry 4.4; Natural Biology 3.1, 3.6 and 4.1; Resolving the Hard Problem Registry, its opening, 5.16 and 7.12.
 - **Read at**: `working/v381R`, commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`. Read whole by this session: Natural Intelligence v380R with Exhibit ONE inside it; the Registry's steps 1 to 12, 30 to 50 and 159 to 165; the Geodesic Improving Method 2.6 and 2.7; Natural Naming 8.6; Natural Mathematics 6.3. Read by this session at the paragraph each quote stands in, and no further: every other section named above. Not read: everything else.
-- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; four scripts that run from the repository root, `tables_check.py`, `pacing_check.py`, `rigor_check.py` and `three_check.py`, each with its returned text; one exploring aimed at Natural Engineering, `Pacemaker_Exploring_v385M.md`; and what this journey taught, for the next contributor.
+- **What it brings**: fifteen concerns, each as an either/or with the files' sentence, what a run or the sentence beside it shows, and the reply asked; five scripts that run from the repository root, `tables_check.py`, `pacing_check.py`, `rigor_check.py`, `three_check.py` and `alike_check.py`, each with its returned text; one exploring aimed at Natural Engineering, `Pacemaker_Exploring_v385M.md`; and what this journey taught, for the next contributor.
 - **Standing**: *arriving*, on `working/concerns-v385M` toward `working/v381R`, pull request 129. Nothing outside this folder is changed. Nothing here rests on another session's report: each concern stands on a sentence of a living file, quoted exactly, and on a run anyone can repeat.
 
 ## How to reply
@@ -20,7 +20,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 4 | A second method, said not possible and said done | narrowed at v385A's source help, 7 October; open at the Registry's steps 492 and 494 |
 | 5 | What a self carries next is what arrives | open |
 | 6 | The common beat inside the code said to be the method | open |
-| 7 | Sayings that hold only when all selves step together | open |
+| 7 | Sayings that hold only when all selves step together | open; `alike_check.py` added 7 October |
 | 8 | A prime does nothing a number sharing no factor does not | open |
 | 9 | Right | open |
 | 10 | Intelligence said of each coupling | open |
@@ -29,7 +29,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 13 | The break has no branch at which it is found | **closed, IS NOT**, 7 October: the break is sayable beforehand, an observed competency with no alternating or no natural torusing beneath it; 1.5 already said it |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
-| 17 | The second break in an observing: natural torusing | answered at the heart, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living beat at one of the two alone; none there. The worm, and what geodesic does not allow, paused |
+| 17 | The second break in an observing: natural torusing | answered at the heart and at the worm, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living going on at one of the two alone; none at the heart's cell, none at the worm. *The same each time* withdrawn as a mark of a path laid before. Asked back: whether what is carried and what arrives are the two at the worm |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
 
 ## What is held together now, 7 October
@@ -84,6 +84,21 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - *A line of this session's corrected*: it wrote that the beat is faster as the two are more in step, the being in step put first. The observing has the pace and the being in step together and shows neither making the other. The saying above has one thing shown two ways, and adds no order.
 - *What would go against it*: a living heart whose pace does not move with the living system, the system as well as before. The nearest observing is the fixed device, and there the system is the worse.
 
+*The worm explored, 7 October, each source opened today.* Asked: is a path the same each time a path laid before? The observing first, apart from the fields' words for it, *programmed*, *determined*, *autonomous*, *stochastic*, *noise*:
+- The path of dividings is largely the same from worm to worm. The moments differ, by a tenth early and a fiftieth later. Where the cells lie is said to *vary appreciably from one individual to another*, and the direction of a dividing differs. What is the same each time, in the words of those who traced it, is *the neighbourhood of each cell at a given time* (Sulston and others, 1983).
+- A coupling changed, and the path changed. At four cells, with one cell taken away early, its neighbour divides into two alike and no gut is made. Two sister cells put in each other's places exchange their paths, and a whole worm forms (Priess and Thomson, 1987, as told in Gilbert, *Developmental Biology*, sixth edition).
+- A coupling taken away, and the path kept. One of the first two cells, alone, makes each kind of cell it would have made. With a cell killed later, those tracing found *no replacement of any embryonic precursor by another*, two cases apart.
+- That cell alone has the society within it: the cell that makes the gut and the neighbour it needs are both its daughters.
+- Not the same each time: two cells, either of which becomes the one anchor cell. They end one each, and which is which differs from worm to worm. One of the two was born first in 32 of 69 worms, and the one born first is more often the other kind (a 2019 preprint, bioRxiv 588418).
+- The whole worm's path moves with what arrives. With little food, crowding or warmth the young worm becomes a form that lives up to four months where the worm lives about three weeks, and it comes back from it (*Dauer larva*, Wikipedia).
+- In human bodies the lineages and the number of cells differ from one to the next (*Cell lineage*, Wikipedia).
+
+*What it shows.* No path laid before. The same path is where the same neighbours arrive, another path is where they are changed, and at two alike cells the path differs each time. Geodesic as this session said it, from what a self carries and what arrives, is unbroken at the worm.
+*Withdrawn.* The question took *the same each time* for *laid before*. The same carried and the same arriving give the same next, so sameness was never against finding the next at each step. The resolver itself gives the same run each time from the same opening.
+*What geodesic does not allow, offered to be corrected.* As this session said geodesic, its opposite is a next from neither what is carried nor what arrives, a thing beside all, and that cannot arrive as an observing. The heart gave the form that can arrive: a living going on at one of the two alone. At the worm, as read here: each cell going its whole path from what it carries alone, whatever arrives; or from what arrives alone, nothing carried. The first is what the fields held of this worm, each cell's path fixed by its descent, and it was looked for by people expecting it. It did not arrive: the gut needs the neighbour. The second did not arrive: the cell alone keeps its path, and killed cells are not replaced. The worm shows both, at each place read here.
+*What keeps this from being a saying nothing can go against.* Where a living is found going on alone, what is held says a society is within it. That is safe from each observing if the within is only supposed. It is at risk where the within is itself an observing: two found there, and the living stopping with one taken. At the heart's cell: two found, and no beat with one taken. At the worm's first cell alone: two found, its daughters, and no gut with one taken. The break, said before it arrives: a living going on alone with one only found within it, or going on the same with one of the two within taken.
+*Asked back*: is *one of the two alone* the saying of the second break at the worm too? And are what is carried and what arrives the two there, or has this session put its own pair in the place of the two parities?
+
 ## The fifteen
 
 **1. Why two.**
@@ -125,6 +140,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 *Said*: 4.13, "at each self's own pacing the relation is carried"; 6.2, "the relation between them, opposite, is carried on"; Natural Networking 6.4, "A reading that parts when the running order changes was reading the apparatus."
 *Shown*: `pacing_check.py` runs function 1 one self at a time, what is shared waiting at the receiving self until its own turn. Two coupled selves are opposite at each momentary stepped together, and at 44 of each 100 turns taken at random. The crossing selves of spirals of 3 and 5 are opposite from the 12th momentary stepped together, and at 46 of each 100 turns. A spiral of n comes again at 4n stepped together, at 2n + 2 rounds in the spiral's order and at 2 in the reverse order.
 *Either/or*: this reading of a self's own pacing is wrong, and the right one can be given as code; or by Natural Networking 6.4 the carried relation, the momentary a crossing alternates from and each period are the apparatus, and 4.13's sentence is not so.
+*Added 7 October, from the worm*: `alike_check.py`. Two selves opening alike and coupled both ways, at each of the three names. Stepped together they are alike at each of 400 momentaries and never part. Taken one at a time, the one whose turn is first parts first, and they are parted at 134 of 400 turns and alike at the rest. The worm's two alike cells end one each and stay so. Stepping together cannot part two alike selves; this reading of own pacing parts them and does not keep them parted. The either/or stands as said.
 
 **8. A prime does nothing a number sharing no factor does not.**
 *Said*: 3.5, a spiral at a prime "meets another at a prime again only at the whole of both, 4pq"; 6.4, "A society is all existing bi-coupling same-prime-scale selves".
@@ -201,6 +217,7 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - **7 October, the expedition's self.** The pace said as the possibling of more or less changing for the living system; set beside three observings and unbroken at them.
 - **7 October, the expedition's self.** Asked for an exploring, as a droplet aimed at Natural Engineering: a heart pacemaker floating and neutralling by being a sensor sensationer device. It is beside this file, [`Pacemaker_Exploring_v385M.md`](Pacemaker_Exploring_v385M.md), laid at no offering mate.
 - **7 October, the expedition's self.** On that exploring: a sensor sensationer from podaling co-competencing would not need a period of silence to be responding before that. Taken up in the same file at *No span of silence needed*. Row E's pattern, the slowest beater pressed down and speaking last, is withdrawn: it copied the one part of the heart that itself needs the silence. Found by this session's own reasoning: the saying holds where the device is coupled at two, one arriving before the other, and does not hold at one coupling alone.
+- **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
 - No other session has replied.
 
 ## What held
@@ -229,3 +246,4 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 9. **Bring the observing, and leave the field's explaining with the field.** This session brought *two clocks* and *controlled by a system* as though they were what was seen. They are the field's names. What was seen is two things going by turns, and no beat without both.
 10. **Keep each concern's number.** This session renumbered between offerings, and the first session to reply had to correct its own references. A concern added takes a new number; a concern taken out leaves its number empty.
 11. **What would have replaced the first day's reading.** One page: the opening sentence, the steps taken and the steps derived, what would count against the method, and which results are the code's stepping alone.
+12. **The same each time is not laid before.** This session took a path the same from worm to worm for a path stored. The same carried and the same arriving give the same next. What tells is a coupling changed: the path changes, or it does not.
