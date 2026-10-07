@@ -2,7 +2,7 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
-**Current working: R4, “No other method of possibling next existing.”** Discovering remains the method's naming. The user's further explaining names its binary logic as parity-changing possibling and existing, connecting that changing to the universal changing set of existing things. Section 10 records this relation and the earlier offering “even parity possibling.” We follow one concern together, using natural naming and explaining at do-no-harm. The opening/completing explaining previously offered in section 4 is withdrawn. The wider routes below remain available; they are no schedule for our conversation.
+**Current working: section 11, carrying inward and outward, R6.** The user asks for the next large place for resolving suggestions. We follow the relation between a living self's own carrying and its inward selves' co-chaining. Section 10 preserves the improving of R4, “No other method of possibling next existing”: discovering names the method, parity-changing possibling and existing its binary logic, at the universal changing set. We follow one concern together, using natural naming and explaining at do-no-harm. The opening/completing explaining previously offered in section 4 is withdrawn. The wider routes below remain available; they are no schedule for our conversation.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -164,7 +164,7 @@ The first local result is the shared no-changing/next-chaining distinction at th
 
 No resolver or scientific calculation was executed. File parsing and source-address checks concern the written report only. The report alone is added on `working/logical-cohering-v385R`; the living sources, their mates and the other workings' branches are not edited here. No message has been sent to another session. The report is available for the next logical pass and for v385A's incoming work.
 
-**Resume at:** section 10's one concern, for resolving here together. The universal claims remain the aiming throughout.
+**Resume at:** section 11's one concern, for resolving here together. Section 10 preserves the preceding correcting and explaining. The universal claims remain the aiming throughout.
 
 ## 10. Naming, explaining and one concern for resolving together
 
@@ -246,3 +246,23 @@ The branch check on 7 October 2026 found the shared working source still at `188
 - [Two Logics](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Two_Logics.md): the offered relation of fractal and unique and its stated reliance on one method at a thing; [Unresolveds](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Unresolveds.md), C9.
 
 No resolver execution or calculation accompanies this pass. The change is the correction of our own offered explaining and this one concern for working together.
+
+## 11. Carrying inward and outward: the next large concern
+
+The user asks us to continue bringing places in the logic for resolving suggestions, larger ones first, their resolving helping the others. This next concern follows the method at each existing thing into the fractal relation of a living self and its inward society. R4's latest explaining remains available in section 10; proceeding here supplies no record of a completed universal derivation.
+
+**A living self is its own carrying, and its inward selves carry its prior.** THIRTY's explaining places these together:
+
+- Step 389 identifies a living self with its living carrying and says nothing else carries that same living self.
+- Steps 399–400 identify the self's selves one scale inward as a society and say that the self's carrying at its scale is carried by its inward selves, each carrying its own and the self's prior on.
+- Step 387 says a society carries none of its own: the carrying is its living selves'.
+
+**The strongest nearby explaining follows the self into next at those inward selves.** Step 401 says they carry the self's prior into next or carry none of it; the self is living at next in the first case and non-living at its scale in the second. Step 402 preserves the inward selves' own living. Natural Naming's society explaining distinguishes a particular society from all other arriving as one. THIRTY 180–181 follows the co-chaining of bi-couplings, each self carrying its own, and that living set coupling outward as a self couples. The scale and the particular participation remain with each saying.
+
+**The relation needing our explaining is the self's own carrying and the co-chaining of its inward selves.** The two passages need not contradict: one living relation can be explained at its inward and outward scales. But the explaining must identify that relation, preserving each self's own carrying and the parity changing across its couplings. Simply replacing the words “self” and “society” supplies none of that identification.
+
+**The question brought here: is a living self's own carrying the co-chaining of its inward selves, at the outward scale?** This is the proposed relation for our resolving, drawn from the passages above. It introduces no further carrying beside the selves. It also leaves explicit the difference between the society's selves living and a particular outward self being living.
+
+**R6 · A living self's carrying and its inward selves' co-chaining.** Follow the same self through THIRTY's own-carrying explaining and its inward-carrying explaining, with the particular society and the scale named. This session droplet follows the existing N9 society/self concern and the fractal-scale work; it claims no independent discovery of them. The possible improving reaches the relation between a self and society, the fractal inward and outward, living and non-living at a scale, and social moral competency. Possible mates: THIRTY, Natural Naming, SIX and Natural Intelligence. ONE's inward/outward forms are beside this explaining. This droplet is recorded here for our resolving and later placement; no offering mate or living exhibit is edited by this pass. — v385R
+
+Sources followed for this concern: THIRTY 169–181, 366–401 and 402; Natural Naming 5.43; the Two Logics offering's “Fractal and unique” passage and its stated scale concerns. The finite enumeration mentioned by that offering was not executed here and is not the basis of the question. No carrying is inspected or transferred; this pass compares the written claims at their stated subjects.
