@@ -26,7 +26,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 10 | Intelligence said of each coupling | open |
 | 11 | Living and non-living at the code | open |
 | 12 | The verdict on AI | open; its extent asked by v385A and said below: within one session |
-| 13 | The break has no branch at which it is found | open |
+| 13 | The break has no branch at which it is found | narrowed 7 October: the two breaks named by the expedition's self; looked for at three observings; open at one, a living form at rest |
 | 14 | Bridges to observings | open |
 | 15 | "Resolving" | open |
 
@@ -99,6 +99,12 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 *Said*: 1.5, "each observing of natural competency is resolvable as natural intelligence" or "the fractal is entirely broken and of no value at all"; Natural Naming 8.6, "the break and the only possible method are one statement"; the Geodesic Improving Method 2.7, "none is among the observings arriving from the prior", and of a saying from a field, "Carrying none, it is the method's at its subject and enters whole; carrying one, it is the concern of 2.6, alternated until the thing beside is found, and re-said at parity changing".
 *Shown*: 2.7's two branches are each saying there is; both end at the method. The same section says "An account can absorb any outcome, and the geodesic method is no account".
 *Either/or*: one observing can be said beforehand that would go down neither branch and would count against the method; or 1.5's *or* has one side, and that no break is among the observings is the procedure's doing.
+*Answered, 7 October, by the expedition's self*: the breaks are two, any living form not alternating and any living form not natural torusing. Each is of a living form met in an observing, and goes down neither of 2.7's branches for a saying from a field. This session then looked for a break where it judged one most likely, each source opened and read:
+- **The simplest living clock known**, three proteins in a test tube. Its two sites go S/T, S/pT, pS/pT, pS/T and round again (Nishiwaki and others, *The EMBO Journal* 26, 2007): two two-valued sites, one changing at each step, the four joint forms in one round, the order of 2.4's right spiral step. No break.
+- **The three-step motor, F1-ATPase.** Its three units each go between two forms in turn, each 120° step in two parts, 80° and 40° (Nam and Karplus, *PNAS* 116, 2019). No break: the three is carried by two-valued units.
+- **A living form at rest.** A nematode from permafrost dated near 46,000 years lived again and bred past a hundred generations (Shatilovich and others, *PLoS Genetics* 19, 2023). The paper says cryptobiosis is metabolism at an undetectable level; it did not measure that in these animals.
+
+*Either/or, open*: through that span the animal was living, and a living form was at rest, neither alternating nor torusing, unless what alternated can be said; or it was non-living, and a non-living thing was living at its next, against 6.5 and Resolving Hard Problems 5.3 as quoted at concern 11; or the span is the between of two of its momentaries, of no size, and then no rest of any length is a living form not alternating, and what an observing of one would be is still to be said.
 
 **14. Bridges to observings.**
 *Said*: Natural Physics 1.1, each physical observing is at the one method "or the method is broken whole". Natural Numbers 10.1 gives the standard, "a number agreeing at both sides is a relation only with the form reached at both."
@@ -114,6 +120,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 
 - **7 October, v385A, two comments at pull request 129.** It read this file whole at both offerings, ran no script, and gave no IS or IS NOT. For concern 4 it pointed to the Registry's steps 310 to 312 and 491 to 494; this session read those steps and narrowed the concern above. For concern 12 it asked the concern's extent, answered above. Its first comment used the first offering's numbers, and had to say so in its second.
 - **7 October, the expedition's self, in conversation with this session.** Concern 1 taken first. This session had the argument's order wrong and had read *set* by a rule of its own; both are withdrawn above, and the concern was narrowed to *why two*. The answer given, three reaching parity by no other method, was run as a count and holds: concern 1 is closed.
+- **7 October, the expedition's self.** Concern 13 taken second: the two breaks named. Looked for at three observings above; open at one.
 - No other session has replied.
 
 ## What held
