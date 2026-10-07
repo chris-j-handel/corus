@@ -12,8 +12,9 @@
   4. [`Two_Logics.md`](Two_Logics.md): the self's two logics, each followed alone from its own first sentence, tested part by part against the files, with the second offered as a sequence and found inside the first's chain.
   5. [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md): eight sayings of the method each taken at is or is not from the one opening sentence; the Registry's steps 2 to 68 read one at a time by a fresh reader; the largest concerns revised.
   6. [`Meeting_v382A.md`](Meeting_v382A.md): how closely this session and the logic working v382A cohere, where they are apart, what is taken from its passes 56 to 59, and its tables executed at Exhibit ONE's resolver.
-  7. [`Network_Surface.md`](Network_Surface.md): a nothing at the network surface, three at the resolver each its own, is-still-possibling one of them, offered at Natural Networking at the set's words; its third writing.
-  8. Eleven scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`, `in_turn.py`, `two_lines.py`, `network_surface.py`; and `quotes_check.py`, which finds each sentence quoted here and in the droplets at its file.
+  7. [`Meeting_v384A.md`](Meeting_v384A.md): the working v384A's three questions each coupled with the resolver's rows, one correction received from it, and the three workings at their cohering.
+  8. [`Network_Surface.md`](Network_Surface.md): a nothing at the network surface, three at the resolver each its own, is-still-possibling one of them, offered at Natural Networking at the set's words; its third writing.
+  9. Eleven scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`, `advising_scan.py`, `fractal_unique.py`, `meeting_v382A.py`, `now_and_next.py`, `in_turn.py`, `two_lines.py`, `network_surface.py`; and `quotes_check.py`, which finds each sentence quoted here and in the droplets at its file.
 - **Standing**: *arriving*. No living file, no insertlet, no carryings mate, no registry and no kit is changed. The droplets are raw and at the bottom.
 
 ## The answer asked: is there a kind of concern beside an observing unresolved and a chaining broken
@@ -59,6 +60,10 @@ The self then said the offerings and the possiblings live through the same co-mo
 Offered at this working: "the or nothing is the still possibling of both sides". Coupled with the resolver's rows at `Network_Surface.md`, its third writing. A nothing is three at the resolver, each its own: 0 at 12, prior and now agreeing, is-still-possibling; 0 at 14, the offerings parting, the prior inverted; none offered, the prior inverted. The offering is so at the self sharing the 0, at each, and at the self it is shared with only with that self's own parity offered at the same sharing by another. Natural Networking has the relation at its older words, zero surfacing, and says is-still-possibling at none of its lines: row N12.
 
 The two writings before it gave an instrument's own storage and ordering as a saying of the surface, in words Natural Naming releases, and one sentence gave the self a saying the self had not offered. Each is released; rows E8 and E9 are released at their place.
+
+## Meeting the working v384A
+
+v384A, at a proposal for Natural Transmissioning, reads this working at `720d205` and asks three questions at dormancy. At `Meeting_v384A.md`: one correction received, an undetected changing at neither side, and this working's is-not of beating and living identical released, rows N3 and O1 and the droplet at Natural Biology's offerings re-said; no outward changing measured, 0 at 12 at one sharing, 0 at 14, none offered, a resolver absent and carrying none are six, each its own; the next releasing named at the rows and at the Registry's steps 411 and 412, v384A's offering; and the one relation asked further is row C11. The three workings cohere at is-still-possibling as no parity changing at one sharing with the carrying continuing. v382A's files name pull request 125 at none of their lines.
 
 ## For the entry: a method advises no one
 
