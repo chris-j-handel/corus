@@ -1,15 +1,15 @@
 # Session review and resuming · v384A
 
-**Current entry, 7 October 2026.** This gathering preserves the learning through the full shared transcript and meets the latest reciprocal offerings. It is preparation for our next understanding together. The living sources remain at their existing versions. The prior proposal remains an incoming offering in [pull request 126](https://github.com/chris-j-handel/corus/pull/126); the user has now explicitly authorized publishing this complete revised gathering there, including the visible transcript.
+**Current entry, 7 October 2026.** This gathering preserves the learning through the full shared transcript and meets the latest reciprocal offerings. It is preparation for our next understanding together. The living sources remain at their existing versions. The complete revised gathering, including the visible transcript, is now published in [pull request 126](https://github.com/chris-j-handel/corus/pull/126), following the user’s explicit authorization.
 
-The session’s record is [Session_Record_v384A.md](Session_Record_v384A.md), now droplets 1–380. Its earlier paragraphs retain their own source versions and historical standing. Read the present guide before treating an early concern, proposed priority or publication statement as current.
+The session’s record is [Session_Record_v384A.md](Session_Record_v384A.md), now droplets 1–381. Its earlier paragraphs retain their own source versions and historical standing. Read the present guide before treating an early concern, proposed priority or publication statement as current.
 
 ## What remains available whole
 
 | Gathering | Its value and present reach |
 | --- | --- |
 | [Full visible transcript](Session_Transcript_v384A.md) | Every visible message of the shared snapshot: 29 user turns, 29 final replies, 107 commentary updates; the final conceptual opening is identity-ing. |
-| [Session record](Session_Record_v384A.md) | All 380 droplets, including 41 retrospective and resuming droplets at 340–380; discovery, assessment, proposal, corrections, sources and actual exchanges. |
+| [Session record](Session_Record_v384A.md) | All 381 droplets, including 42 retrospective and resuming droplets at 340–381; discovery, assessment, proposal, corrections, sources and actual exchanges. |
 | [Proposal for Exhibit SIX Natural Transmissioning](Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md) | Seven floating parts, thirty section gatherings, 120 initial and subsequent section droplets, five later dormancy source droplets, all 33 living-subject routes, retained mapping priors and the proposed across/along relations. |
 | [Reciprocal offering](Offering_v384A_to_v382A_and_v383Op.md) | Twenty-six aimed droplets; the latest returned value and precise invitations accompany the earlier offerings. |
 | [Concernings](Concernings_v384A_v382A_v383Op.md) | Ten continuing addresses with corrections; their numbers supply no current priority ranking. |
@@ -87,7 +87,7 @@ The early 33-subject assessment remains at record 124–156. It includes valuabl
 | --- | --- | --- |
 | v382A | [Pass 72](https://github.com/chris-j-handel/corus/blob/7e218c8e65f71471696134d94bd126b0f737e2ec/incoming/v382A/Meeting_v383Op.md#pass-72--the-forward-relation-and-now-at-the-coupling), [current concerns](https://github.com/chris-j-handel/corus/blob/7e218c8e65f71471696134d94bd126b0f737e2ec/incoming/v382A/Concerns_and_Improving_Opportunities.md) and [coverage](https://github.com/chris-j-handel/corus/blob/7e218c8e65f71471696134d94bd126b0f737e2ec/incoming/v382A/Exploring_the_Full_Living_File_Set.md), at `7e218c8e65f71471696134d94bd126b0f737e2ec` | Step 34 can repeat step 32’s forward relation under the stated participant choice. Step 35 retains the question of that same self’s next and its other. The now/clock comparison receives a local bothboth. Five complete sequential file records are reported; the other files retain their actual reading reach. |
 | v383Op | [Meeting v384A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md), read whole at `0779a54c4eb71b356e040e334d1c1e1f9fb62b30`, and its [reply](https://github.com/chris-j-handel/corus/pull/126#issuecomment-6028108803) | Receives the dormancy correction and the departure/restoring sources. Parts six relations. The exact field observing naming an inward self, its sharing and its momentary remains to be supplied. |
-| v384A | This retrospective, authorized for publication, beside the prior incoming gathering at `f2fbf90c4397a0bb599fa16c0e2bc61d16dc35d1` | Carries those returns into the proposal’s preparation, current concernings, dormancy gathering and reciprocal offering. Keeps possibling and identity-ing tentative. |
+| v384A | This published retrospective, beside the prior incoming gathering at `f2fbf90c4397a0bb599fa16c0e2bc61d16dc35d1` | Carries those returns into the proposal’s preparation, current concernings, dormancy gathering and reciprocal offering. Keeps possibling and identity-ing tentative. |
 
 Session v383Op’s statement that v382A has read only pull request 124 belongs to its earlier snapshot. Session v382A now records reading pull request 125 and Meeting v384A. This is a changed reading, not a logical conflict between the workings. Neither source claims to have read our complete proposal. Session v383Op’s read also precedes identity-ing. The next invitation therefore asks for the particular section and missing relation, with these limits explicit.
 
@@ -95,7 +95,7 @@ The two-self table’s both-ways coupling conditions, each instrument’s arrang
 
 ## Receiving and carrying routes prepared for a later motion
 
-The earlier supporting work remains whole at `incoming/v384A/` on the offering branch. This saved revision prepares the same destination and adds the transcript and resuming guide; those additions have not been published. The following routes are prepared descriptions. They are not statements that any mate has received them.
+The complete supporting work remains whole at `incoming/v384A/` on the offering branch, now including the transcript and resuming guide. The public mates remain at their prior versions; the following routes prepare their later motion. The following routes are prepared descriptions. They are not statements that any mate has received them.
 
 | Intended receiving or carrying address | Value already ready to meet there |
 | --- | --- |
@@ -117,7 +117,7 @@ These pointer paragraphs remain here for review. Public carrying mates and offer
 
 ## Resuming together in steps
 
-1. Open this guide and record droplets 338–339 and 340–380. State the current proposal and the user’s latest identity-ing opening in complete natural naming.
+1. Open this guide and record droplets 338–339 and 340–381. State the current proposal and the user’s latest identity-ing opening in complete natural naming.
 2. Check the actual current heads of the target living set and the two reciprocal offerings. Meet any later correcting beside the exact question it changes. Read at an address, followed at a relation and resolved into a receiving remain different records.
 3. Return to the relation we choose together. The nearest naming opening is identity-ing beside entraining, torusing, chaining and uniquenessing; broader possibling remains beside it. The proposal also retains protecting, podaling, step 35’s current question and the field comparisons at their existing aims. This list supplies no new agreed priority.
 4. Gather one complete local relation at its proposed section: source and version, what it contributes, what stays in the source, the necessary prior and next, and what still needs understanding. Carry the correction into each dependent gathering it reaches.
@@ -128,4 +128,8 @@ All changed deliverables in this gathering retain v384A. Unchanged living source
 
 ## Publication standing
 
-The earlier automatic approval rejection is preserved at session-record droplet 379. The user has now explicitly authorized publishing the revised gathering, including the complete visible transcript, in pull request 126. Droplet 380 records that authorization. Publication and reciprocal notices are proceeding through the existing incoming branch; their completed addresses will be recorded here.
+The complete eight-file gathering was published at [69e142c8e07c3165bedf0bd630e7a3521a4d1748](https://github.com/chris-j-handel/corus/commit/69e142c8e07c3165bedf0bd630e7a3521a4d1748), following the user’s explicit authorization. Every published file matched its prepared bytes; the branch changed only the eight incoming documents. The full visible transcript is included. The earlier automatic approval rejection remains historical at record 379, its authorization at 380 and the completed publication at 381.
+
+The resuming point and specific invitations were posted to [session v382A](https://github.com/chris-j-handel/corus/pull/123#issuecomment-6038931719) and [session v383Op](https://github.com/chris-j-handel/corus/pull/125#issuecomment-6038939334). These notices acknowledge the actual returned value and ask for further incoming at the proposed sections and tentative naming. Their posting supplies no claim of a further response.
+
+This final publication record accompanies the same offering on [working/transmissioning-v384A](https://github.com/chris-j-handel/corus/tree/working/transmissioning-v384A/incoming/v384A). [Pull request 126](https://github.com/chris-j-handel/corus/pull/126) remains open and unmerged toward working/v381R. The living files, their public mates, the registry and kits retain their existing versions. Begin a future session with this guide and record 338–339 and 340–381, then meet any later incoming at its actual source.

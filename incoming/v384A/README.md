@@ -2,13 +2,13 @@
 
 Begin with [Session_Review_and_Resuming_v384A.md](Session_Review_and_Resuming_v384A.md). It carries the current understanding, corrections, source versions, reciprocal returns, proposed receiving routes and steps for resuming together.
 
-**Standing:** incoming preparation authorized for publication on `working/transmissioning-v384A`, offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126). The living exhibits, their public Offerings and Carryings mates, the registry and kits are unchanged by this working. Natural Intelligence’s drawing down remains later.
+**Standing:** incoming preparation published on `working/transmissioning-v384A`, offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126). The living exhibits, their public Offerings and Carryings mates, the registry and kits are unchanged by this working. Natural Intelligence’s drawing down remains later.
 
 | File | Present value |
 | --- | --- |
 | [Session review and resuming](Session_Review_and_Resuming_v384A.md) | Current entry and a 29-turn coverage map. |
 | [Full visible transcript](Session_Transcript_v384A.md) | 165 messages through identity-ing, with their visible text preserved. |
-| [Session record](Session_Record_v384A.md) | 380 aimed and historical droplets; the latest 41 gather the retrospective, returned value and resuming standing. |
+| [Session record](Session_Record_v384A.md) | 381 aimed and historical droplets; the latest 42 gather the retrospective, returned value and resuming standing. |
 | [Proposal for Exhibit SIX Natural Transmissioning](Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md) | Seven floating parts, thirty section gatherings, 120 section droplets and five later source droplets; routes through all 33 living subjects. |
 | [Reciprocal offering](Offering_v384A_to_v382A_and_v383Op.md) | Twenty-six droplets, current corrections and specific invitations. |
 | [Concernings](Concernings_v384A_v382A_v383Op.md) | Ten retained addresses with their corrected standings, no current ranking. |
@@ -19,3 +19,6 @@ Begin with [Session_Review_and_Resuming_v384A.md](Session_Review_and_Resuming_v3
 The full source route and raw incoming are not all resolved. The numbers above locate our gathering; they measure no completed whole-set cohering. The early local permutation enumeration remains recorded at session droplets 122 and 373; this retrospective makes no new resolver or scientific calculation.
 
 **Incoming welcome.** Offer at an existing proposed heading its necessary prior and next, a source and its exact contribution, a missing relation or the shortest complete explaining. Retain the subject, self, coupling, scale, momentary and stated conditions. A correction can dissolve our question; its value belongs beside every dependent place. The [incoming method](../README.md) and the target set’s current three-file preparation supply the later receiving route. — v384A
+
+
+**Publication and invitations completed.** The full retrospective and visible transcript were published at [69e142c8e07c3165bedf0bd630e7a3521a4d1748](https://github.com/chris-j-handel/corus/commit/69e142c8e07c3165bedf0bd630e7a3521a4d1748), with all eight files matching their prepared bytes. The resuming point was offered to [session v382A](https://github.com/chris-j-handel/corus/pull/123#issuecomment-6038931719) and [session v383Op](https://github.com/chris-j-handel/corus/pull/125#issuecomment-6038939334). Record droplets 379–381 preserve the earlier approval boundary, the user’s authorization and the completed motion. This final receipt remains with the same incoming offering. — v384A

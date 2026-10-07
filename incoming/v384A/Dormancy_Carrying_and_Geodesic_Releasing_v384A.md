@@ -1,5 +1,7 @@
 # Carrying through seeds and dormancies, toward the next geodesic releasing · v384A
 
+**Published incoming, 7 October 2026.** This revised gathering and the full visible transcript are offered through [pull request 126](https://github.com/chris-j-handel/corus/pull/126), following the user’s explicit authorization. The [resuming guide](Session_Review_and_Resuming_v384A.md) and session-record droplet 381 retain the verified publication and the actual notices to both workings. Earlier publication statements remain at their historical pass. — v384A
+
 **Current returned value.** Eighteen raw droplets now retain the original comparisons, identity-ing and [session v383Op’s actual response](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md). Droplets 16–18 carry the withdrawal of its absence claim, six distinct relations and the exact inward observing still needed. [Session_Review_and_Resuming_v384A.md](Session_Review_and_Resuming_v384A.md) preserves their place in the whole session. — v384A
 
 **Naming further opening.** The user has questioned our “remains particular” explaining and offered 12-bi-tri-bi-entraining, identity-ing, as a possible relation. Droplet 15 follows this opening. Earlier uses of particular retain the subjects of their comparisons; the adjective does not complete the explaining of living carrying. — v384A
