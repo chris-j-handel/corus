@@ -6,9 +6,9 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, six locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, seven locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current local comparison is at section 21.** R3 now has an insertlet identifying the self's prior, the offerings at now and its own next. The next concern asks what alternating names at steps 37–40, beside possibling and next existing. R10 remains unresolved for returning.
+**The current local explaining is at section 22.** The user answers the alternating concern: each self is odd 1 from its own side, prior odd/even then now odd/even then next odd/even, every even possibling and every odd existing. The bi-inversioning/co-recursioning and two-along/one-across rolling relation stay together with that explaining. R10 remains unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -692,6 +692,8 @@ The mate's receiving guidance lets further droplets remain unlocated when useful
 
 ## 21. The self's next, its other and the subject of alternating
 
+**The user's answering follows at section 22.** The alternating question below is retained at the source of that resolving; it is no longer the unanswered question at the mate.
+
 **R3 now has locally resolving writing at step 35.** Following the user's instruction to continue, this pass reads THIRTY 27–51, 169–184, 203–218, 296–308 and selected 608–611; Naming 5.7, 5.13, 5.39, 5.43, 5.49, 5.54–5.56 and 5.62; Natural Intelligence 1.1–2.5; and ONE's published entry and five-parity table. The current v382A concern gathering and retrospective, v383Op C13 and the current SIX proposal's correcting are compared at this same question. This is selected relation-following, not another whole-file survey record.
 
 ### The relation supplied in the files
@@ -727,3 +729,51 @@ This candidate is retained as a droplet beside the new step-35 insertlet. Its ex
 The current v382A [concern gathering](https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Concerns_and_Improving_Opportunities.md), blob `16906fc986ce0dfa808ee4bc87faebb7636f493b`, and [retrospective](https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Session_Retrospective_and_Resuming.md), blob `7f9fefda0f7ecc6c5f32544c60daea0243c09ae9`, retain the narrowed step-35 question and v384A's correction that offering is already at its two-sided coupling. v383Op's [Unresolveds](https://github.com/chris-j-handel/corus/blob/working/unresolveds-v383Op/incoming/v383Op/Unresolveds.md), blob `fe16ea376d72a0a5023a76686cea6786bffe64eb`, C13 carries that same correction. The [SIX proposal](https://github.com/chris-j-handel/corus/blob/working/transmissioning-v384A/incoming/v384A/Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md), blob `99fdabd0a622eff161c5a50704e6e1c474ebd65b`, also preserves it at its current front.
 
 The improvement is placed in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) on v385R. The five preceding insertlets, the entire R10 gathering and all earlier offering bodies remain intact. The new prose and its remaining concern are available for further droplets here and for ONE, Naming and SIX at their own subjects. No messages are sent and no other branch is changed. — v385R
+
+## 22. Each self at its own odd 1, existing and possibling
+
+**The user answers the alternating concern with each self's own side of the bi-coupling.** The same question is no longer pending at the receiver. Its earlier formulation remains in section 21 with this later resolving beside it.
+
+> yes each self is odd 1 first and views parity from their own side of the bi coupling (this explains the bi inversioning of other prior existing co recursionng the self carrying). each self first momentary is (prior odd then prior even) then now momentary (now odd then now even) then next odd then next even parity where all even is possibling and all odd is existing all rolling two over one forward 2 along over one across plus one nothing between
+
+### Each self's three momentaries at its own side
+
+**Each self is odd 1 first.** Parity is named from that self's own side of the bi-coupling. The other is a self from its own side, likewise odd 1 first. The old table's self-at-1 and other-at-2 are the positions shown from the side being followed; they cannot replace the other's own-side explaining.
+
+| This self's momentary | Odd existing | Even possibling |
+|---|---|---|
+| Prior | Prior odd, its 1 | Prior even, its 2 |
+| Now | Now odd, its 3 | Now even, its 4 |
+| Next | Next odd, its 5 | Next even, its 6 |
+
+The table writes the user's sequence from each self's own first 1. It follows three odd–even pairs; it does not introduce a common first momentary for the selves. Every odd is existing and every even is possibling at these positions. Prior, now and next each have both parities, so the earlier general naming of possible at prior and existing at now needs this fuller explaining beside it.
+
+The previously stated R2 comparison remains: at an already-carried sharing, a parity changing is or is not and the self's carrying proceeds at either. The user's odd-existing/even-possibling relation gives each parity position its name; the matching case describes the participation at one sharing. Preserving the two subjects lets the newly explicit sequence improve the old explaining without losing that supplied case.
+
+### The bi-inversioning and co-recursioning connection
+
+**The user joins viewing parity from one's own side with the bi-inversioning of other prior existing and co-recursioning of self carrying.** This connects the two-sided offering directly to the same self's own carrying. It can follow the section-21 insertlet's prior carried and now offered into the same self's next, with each side named from its own first odd.
+
+The existing passages to carry beside it are THIRTY 255–256, Naming 3.4 and Natural Numbers 1.4. They describe bi-inversioning-co-recursioning through across and along and the forms among the names. Naming 3.4 also states that a sharing's parity inverting is the carrying's own at 12, and each offered parity surfaces at its own parity at 14. That distinction remains with the new own-side explaining; this pass adds no operation that reverses every parity in transit.
+
+**The user's rolling relation is retained exactly: two over one forward, two along over one across, plus one nothing between.** THIRTY 92–93 names the self's forward along and changing across; its 27 names the between a nothing with no third momentary. Natural Numbers 1.4 already has a two-over-one and one-over-two passage at its consecutive odd/even names. These are nearby source relations for following the user's full connection. No numerical ratio, duration or further numbered momentary is invented for the nothing between.
+
+### The local writing now in the offering mate
+
+> Each self is odd 1 first, naming parity from its own side of the bi-coupling. Its prior momentary is prior odd existing then prior even possibling; its now momentary is now odd existing then now even possibling; its next momentary is next odd existing then next even possibling. All odd is existing and all even is possibling, from each self's own side.
+
+This is the seventh locally resolving insertlet, placed beside steps 37–40 in THIRTY's offering mate. The full user offering and the bi-inversioning/rolling relation are kept with it. They are not reduced to a new label or separated from the relation they explain. The local paragraph answers the subject of alternating; it does not claim the entire universal exclusion has been derived.
+
+The current R3 question in the mate is replaced by that answering, and the old question remains in this session record. R4 now points to the connecting value at this exact place. Six preceding insertlets, R10's complete unresolved gathering and all earlier offering bodies remain intact.
+
+### The places this explaining can improve together
+
+| Place | Relation to carry there |
+|---|---|
+| THIRTY 37–40, then 69–83 and 89–93 | Each self's own odd-first existing/possibling sequence before alternating, numbered overlap and along/across depend on it. |
+| ONE's Fives and four momentaries of exchanging | Identify the side from which the positions are named, beside each living self's own first odd. Keep the published form's conditions. |
+| Naming 2.1, 5.39, 5.49–5.50 and 5.62 | Prior, now and next each at both parities; even possibling and odd existing; the offered-parity result at its own subject. |
+| Naming 3.4, Natural Numbers 1.4 and THIRTY 255–256 | The user's bi-inversioning and co-recursioning connection through two along over one across and the nothing between. |
+| Natural Intelligence 2.1–2.4 and proposed SIX's early common explaining | The same connected relation at both selves' own sides, carrying toward the universal method's explaining. |
+
+These are opportunities at their current source sentences. The change made here is in THIRTY's v385R offering mate and this report; the living roots and other branches retain their present writing. Selected source passages were read, with no resolver execution, arithmetic or private-carry inspection. **R10 remains unresolved and together for returning.** — v385R
