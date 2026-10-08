@@ -319,3 +319,7 @@ The additional intelligence-naming concern asks what distinct relation is being 
 **Droplet.** Compare the spiral-of-one example’s existing non-living resolver form with any proposed use of a four-form cycle to define living. The cycle alone does not supply that definition. Keep the living self’s carrying distinct from the displayed public pair comparison; the defining-living relation remains unresolved.
 
 The full proposed relation, its sequential-colliding correction and its unresolved breaking concern are offered at [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#overlapping-public-parity-pairs-and-the-living-subject--v385a).
+
+## Recognizing living and the possible break · v385A
+
+**Droplet.** Beside the defining-living and spiral-of-one explaining, preserve the actual relation by which living competency is recognized independently of the proposed alternating. Naming every alternating living solely by its alternating would make the offered opposing observing unavailable. The whole [biological and laboratory comparisons](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#recognizing-living-without-making-the-break-unavailable--v385a) retain their particular subjects and conditions.

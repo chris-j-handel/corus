@@ -94,7 +94,7 @@ The [v385A gathering record](../archive/session_v385A/Gathering_Record_v385A.md)
 
 ## Completed session v385M: clustered incoming · v385A
 
-The following droplets remain to distribute from the [one completed-session report](../incoming/v385M/Session_Report_v385A.md). The finite resolver arrangements, heart relations, pacemaker proposal, controlling concern, “Arriving, naming and one session report”, dormancy, seed-opening, handed-form, worm and slime-mould clusters have their destinations in [Living File Registry’s current placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a).
+The following droplets remain to distribute from the [one completed-session report](../incoming/v385M/Session_Report_v385A.md). [Living File Registry’s placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a) locates the value already available at its subjects.
 
 ### The origin, positive explaining and the possible break
 
@@ -125,24 +125,6 @@ The offered inception explaining is prior living's dormant existing form enterin
 The non-living form is said at its own scale, with prior living at a larger scale and living societies inward. The offered hydrogen comparison follows earlier plasma compressing and thinning before atoms formed and changing within the proton. These are offered relations, not a completed empirical derivation of living at those scales. No inward structure yet observed in an electron establishes neither absence nor a found structure. The withdrawn question about opening something and how far to open it becomes the actual question: which arriving observing would oppose the explaining?
 
 **Possible aimings:** [Natural Intelligence](Offerings_to_Natural_Intelligence.md), [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Societies](Exhibit_SEVEN_Offerings_to_Natural_Societies.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md), [Natural Destinies](Exhibit_FOURTEEN_Offerings_to_Natural_Destinies.md) and [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md).
-
-### Recognizing living without making the break unavailable
-
-**Droplet.** Alternating alone does not yet provide the complete defining-living explaining. The unresolved comparison includes a heart cell, channels opening and closing, a molecule changing between forms, a pulsing star, a pendulum, a flame and a machine's repeated operations. If every alternation is called living solely because it alternates, an independently recognized living thing not alternating cannot arrive as a break. If more is required, that actual relation needs explaining at the named self and scale.
-
-The offered flame/bacterium comparison names two particular differences: bacteria come from bacteria, and isolated clock proteins can continue their cycle; the flame comparison supplies neither. The bacterial criterion and the molecular observation must not silently become a completed universal definition. A virus outside a cell, a seed in a jar, a flame and a dormant animal retain their distinct conditions.
-
-Likewise preserve the laboratory concern. A chemically made genome was reported functioning only within an existing cell. Another report describes two manufactured RNA enzymes assembling each other from supplied pieces, with variants selected as they continue; their makers did not name this life. If merely having living makers counts as the prior living for every laboratory arrangement, what actual observing could oppose the prior-living claim? The unresolved relation concerns what enters as prior living in the made thing, rather than the existence of people elsewhere in the laboratory. This remains an offered question, not an instruction to conduct an experiment or a declaration that the method has broken.
-
-**Possible aimings:** [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Intelligence](Offerings_to_Natural_Intelligence.md) and [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md). The possible observing places belong in [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying list.
-
-### Each self's own momentarying and the public forms
-
-**Droplet.** Each self has its own prior, now and next. Each begins at its own odd one; the other's own one is at the self's two. The two sides overlap by one half momentarying. Even is still possibling; at odd a parity may change or still exist. An unchanged odd parity does not become an even still-possibling position. Recurring podaling is not excluded.
-
-For the displayed overlapping pairs, (a,b) followed by (b,z), different relations give z other than a and the same relation gives z the same as a. Keep the across and along relation explicit. The positions in this public expression have not thereby been identified with a living self's own numbered momentaryings or private carrying. A four-form round can describe a non-living form's changes; it is not by itself a definition of living.
-
-**Possible aimings:** [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md), [Natural Intelligence](Offerings_to_Natural_Intelligence.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md), [Natural Mathematics](Exhibit_FOUR_Offerings_to_Natural_Mathematics.md), [Natural Numbers](Exhibit_THREE_Offerings_to_Natural_Numbers.md) and [Equilibria Registry](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md). The whole overlap droplet already has these placements; compare before adding anything.
 
 ### Sequential colliding and what would break the society's carrying
 
@@ -203,18 +185,6 @@ The claim that gravity is not real retains its own question: what natural relati
 The hard-problem concern distinguishes an output constrained by a definition from resolving the field's question. A resolver returning plus, minus or zero cannot yield a fourth because of its stated cases; a reported 255 arrangements need not add a further result. An explaining accommodating either empirical outcome, including the Hubble-tension example, still needs to show what is resolved. The zeta-zero example places a statement that truth value is untouched beside naming an off-axis zero a contradiction. Preserve the exact relation that would resolve that apparent difference; neither “re-saying” nor “resolved” alone answers it. The requested comparison is a particular resolving with its actual alternatives and why the natural explaining covers it, without imposing prediction as the method's required authority.
 
 **Possible aimings:** [Natural Physics](Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md), [Natural Chemistry](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md), [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Numbers](Exhibit_THREE_Offerings_to_Natural_Numbers.md), [Hard Problem Registry](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md), [Resolving the Hard Problem Registry](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md) and [Resolving Hard Problems](Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems.md).
-
-### A living list of possible opposing observings
-
-**Possible carrying object.** Natural Exploring's carrying can gather an improvable list: an actual place, the held relation it could oppose, and the observing that would oppose it, stated before looking. It is no list of debts or assigned tasks. A looked-at observing is welcomed whole, including a result that opposes the method. It must not be selected afterward to fit the desired explaining.
-
-The places already named include a prion reproducing a fold without a cell; a virus outside a cell; a growing crystal; a dried tardigrade; living continuing with one of its proposed two absent; a three-part living round without a two beneath it; living made without the prior living claimed; a self originating without a society and none within; a machine's own carrying rather than prior competency; and a wholly opposite-handed living making. Keep the distinct living-recognition and laboratory questions above beside this list.
-
-The offered cyanobacterial-clock example has two sites progressing through four joint forms, with one changing at a step. The rotary-motor example has three units and steps reported in 80-degree and 40-degree portions. The earlier assertion that each unit has only two states must retain its correction: the usual description includes open, loose and tight; reading this as open/closed plus position in the round is an offered interpretation, not an independently observed reduction. These observations were discussed; neither has a newly completed natural derivation here.
-
-Further places named without a completed looking are frog embryos' first divisions, seeds germinating, paused embryos resuming, viruses within cells, fireflies' coordination, breathing with heartbeat, sleep/wake relations, cell division and the lynx/hare cycles. The heart, worm, dormancy, spores, egg, seed opening, handed forms and slime mould have their particular descriptions at [Natural Biology’s offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md); having a description does not fill every open question. The finite resolver questions likewise retain their actual arrangements in this list when useful.
-
-**Possible aiming:** [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying as an independently improving object. Particular file-improving findings also belong in their subject offerings through Living Improving Value.
 
 ## Contributing-method opportunities from session v385Q · v385A
 

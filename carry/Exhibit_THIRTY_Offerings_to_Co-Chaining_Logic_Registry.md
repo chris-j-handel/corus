@@ -247,3 +247,7 @@ The non-living stable form can change at each colliding and otherwise has its la
 The user's offered why-two relation is bi-tri-bi entraining three parity, with Arrow's three-alternative comparison; the theorem's name is not itself the missing natural explaining.
 
 The [enumeration treating forms alike](Exhibit_FOUR_Offerings_to_Natural_Mathematics.md#treating-forms-alike-and-exchanging-their-signs--v385a) retains its conditions and its necessity question. The existing four-parity-round concern above retains its traversal convention and its unassigned across/along relation. Neither finite result supplies the complete no-other-method explaining.
+
+## Recognizing living and the prior-living relation · v385A
+
+**Droplet.** In the defining-living deriving, keep the proposed recognition of living separate from assuming the alternating whose absence would oppose the claim. At the laboratory comparison, name what enters the made thing as prior living; the existence of its living makers elsewhere does not itself explain that relation. The full [comparison and unresolved concern](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#recognizing-living-without-making-the-break-unavailable--v385a) is at Natural Biology. This extends the existing defining-living gathering with the particular older incoming.
