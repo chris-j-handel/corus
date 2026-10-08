@@ -2,6 +2,12 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## Exact explaining of the current source relations · v385A
+
+**8 October 2026.** [Exact naming and explaining](Exact_Naming_and_Explaining_v385A.md) states the particular correction in session v385R's **Withdrawing the imposed impossibility requirement**, the offered relation in **The thing existing as a set and the two-over-one fractal relation**, the retained question in **Living at its observable existing**, and session v385M's withdrawn second statement in **What is held together now, 7 October**. These full descriptions replace shortened current references.
+
+The published source for session v385R remains 3d78ac414e101cb7c05f9c6c83826941eafce2f2; session v385M remains 1d9be70f19ca36064e80c65033603e7d9f70dcbe. Both discussion threads have no later reply after this session's previously recorded comments. The current user correction is new value for the contributing method; it does not reopen any withdrawn logical question. The earlier dated records below preserve their source wording and reading extent.
+
 ## Withdrawals and the offered set connection · v385A
 
 **7 October 2026 · Own source d1686c3d2ba3b18200aa47fcf7893f24e19b65b5.** PR 127 remains open. R's published branch is working/logical-cohering-v385R at 3d78ac414e101cb7c05f9c6c83826941eafce2f2; M's is working/concerns-v385M at 1d9be70f19ca36064e80c65033603e7d9f70dcbe. R's changed report and THIRTY mate after d1d8097, including complete sections 32–34, and M's complete README changes after 0b739c7 were read. M's assessment is unchanged across that comparison; its changed Droplets collection was not read or gathered. PR comments were checked for replies and duplicate exchanges.

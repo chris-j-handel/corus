@@ -2,6 +2,10 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v385A
 
 # Carryings of Geodesic Improving Method
 
+## Exact names and the present source comparison · v385A
+
+[Exact naming and explaining](../incoming/v385A/Exact_Naming_and_Explaining_v385A.md) preserves the user's correction and the particular source statements behind the earlier shortened references. The [Living File Registry plan comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) locates the existing whole-name offerings, the repository introduction's naming sentence and its proposed replacement, the table tools at their actual source addresses, and the preserving required before proposed archival. These support the existing projects. Their presence establishes available value; further writing and the full content account remain to follow.
+
 ## Earlier entry value at its actual places · v385A
 
 [The entry content account](../incoming/v385A/Arriving_Content_Account_v385A.md) reads v381F's entry report and complete opening proposal and v381R's entry report whole, then follows their eleven/nine findings beside existing mate value. It records the Arriving shell, inherited proposed writing and further sources separately. Four groups of exact repeated Arriving paragraphs are identified, including seven copies of one AI-opening paragraph; none is removed or counted as a distinct contribution. The full opening's other relations remain directly accessible at [their source](../carryings/v381F/v381F/AI_Link_Opening_Offered.md). The particular kit/list concern now has its current left-at-a-facing correction beside the original source. The report states the extent compared and the remaining work, not whole-folder or whole-mate completion.
