@@ -260,3 +260,14 @@ R. The seventeen names inside one run of the resolver's functions, from the code
    in the three together: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]; of 1 to 17, at none of them: []
    Exhibit ONE's table of a self's four momentaries of exchanging has them at 1-2, 3-4, 5-6 and 7-8, and the
    society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: each of those names is inside the one run.
+
+S. Two parity changings in the code: each self inverting at each 1 to 17, and the changing beneath it
+   one self coupled with none: carried - + - + - + - +; of 40, the 1 to 17s with a changing beneath: 0; a 0 shared: False
+   the published spiral of 4: of 40, with a changing beneath: 0; a 0 shared: False
+   the published spiral of 6: of 40, with a changing beneath: 0; a 0 shared: False
+   the published spirals of 3 and 5 crossed: with a changing beneath, the first 100: 8; 301 to 400: 0; a 0 shared after 300: False
+   the published spirals of 5 and 7 crossed: with a changing beneath, the first 100: 12; 301 to 400: 0; a 0 shared after 300: False
+   the published spiral of 3, its 4n of 12: changings beneath 6; the 1 to 17s each self is the receiving self of the alike pair: [4]
+   the published spiral of 5, its 4n of 20: changings beneath 10; the 1 to 17s each self is the receiving self of the alike pair: [4]
+   the published spiral of 7, its 4n of 28: changings beneath 14; the 1 to 17s each self is the receiving self of the alike pair: [4]
+   the published spiral of 9, its 4n of 36: changings beneath 18; the 1 to 17s each self is the receiving self of the alike pair: [4]

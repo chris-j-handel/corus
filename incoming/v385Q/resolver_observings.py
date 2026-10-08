@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to R.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to S.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -506,3 +506,43 @@ inside = sorted(set(int(x) for x in re.findall(r"_(\d+)_[a-z_]+", functions)))
 print("   in the three together: %s; of 1 to 17, at none of them: %s" % (inside, [k for k in range(1, 18) if k not in inside]))
 print("   Exhibit ONE's table of a self's four momentaries of exchanging has them at 1-2, 3-4, 5-6 and 7-8, and the")
 print("   society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: each of those names is inside the one run.")
+
+
+print("\nS. Two parity changings in the code: each self inverting at each 1 to 17, and the changing beneath it")
+
+
+def follow(st, rel, T):
+    keys = sorted(st)
+    car, sh = [], []
+    for t in range(T):
+        car.append([dict(st[k][0])["s"] for k in keys])
+        sh.append([dict(entry(*st[k])[0]).get("s") for k in keys])
+        st = step(st, rel)
+    return car, sh
+
+
+def changes_beneath(car, lo, hi):
+    return sum(beneath(car, t + 1) != beneath(car, t) for t in range(lo, hi))
+
+
+car, sh = follow({0: ([("s", -1)], [])}, {}, 60)
+print("   one self coupled with none: carried %s; of 40, the 1 to 17s with a changing beneath: %d; a 0 shared: %s" % (
+    " ".join(S[c[0]] for c in car[:8]), changes_beneath(car, 10, 50), any(0 in r for r in sh)))
+for n in (4, 6):
+    car, sh = follow({i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}, 100)
+    print("   the published spiral of %d: of 40, with a changing beneath: %d; a 0 shared: %s" % (n, changes_beneath(car, 40, 80), any(0 in r for r in sh[40:])))
+for p_, q_ in ((3, 5), (5, 7)):
+    st = {("A", i): ([("s", alt(i))], []) for i in range(p_)}
+    st.update({("B", i): ([("s", alt(i))], []) for i in range(q_)})
+    rel = {(("A", i), 9): ("A", (i + 1) % p_) for i in range(p_)}
+    rel.update({(("B", i), 9): ("B", (i + 1) % q_) for i in range(q_)})
+    rel[(("A", 0), 10)] = ("B", 0)
+    rel[(("B", 0), 10)] = ("A", 0)
+    car, sh = follow(st, rel, 400)
+    print("   the published spirals of %d and %d crossed: with a changing beneath, the first 100: %d; 301 to 400: %d; a 0 shared after 300: %s" % (
+        p_, q_, changes_beneath(car, 0, 100), changes_beneath(car, 300, 399), any(0 in r for r in sh[300:])))
+for n in (3, 5, 7, 9):
+    car, sh = follow({i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}, 8 * n + 40)
+    at = [sum(car[t][i] == car[t][(i - 1) % n] for t in range(40, 40 + 4 * n)) for i in range(n)]
+    print("   the published spiral of %d, its 4n of %d: changings beneath %d; the 1 to 17s each self is the receiving self of the alike pair: %s" % (
+        n, 4 * n, changes_beneath(car, 40, 40 + 4 * n), sorted(set(at))))
