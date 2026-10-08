@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is carrying restoring locally and non-restoring damage cascading, section 56.** The user qualifies section 55's missing-momentary offering: a slip resolving locally is carrying restoring; non-restoring damage cascades. The active frontier follows the next coupling from the slipped carrying, keeping along carrying and across offering together.
+**The current work is restoring at the wider society, section 57.** Section 56 retains the user's distinction between a slip resolving locally and non-restoring damage cascading. Naming and Networking now supply a particular next comparison: a non-living region remaining within surrounding living co-chaining, with mending proposed at the society's couplings. The current concern is whether the outward carrying can be restoring while the damaged inward self remains non-restoring.
 
-**The path and progress.** Sections 44–55 connect carrying resolving, stable form, inward ingesting, sequential colliding, changing couplings, the opposite-form comparison and the proposed full-momentary slip. Section 56 adds local restoring and non-restoring damage cascading. Next follow the relation at the further coupling and first whole podal passage; beyond it, follow outward carrying, the wider society, own-side overlap and equilibrium explaining. A's latest receiving method gathers one whole session report into Living Improving Value before distribution to mates. M has closed; Q is joining. The complete defining-living gathering remains unresolved.
+**The path and progress.** Sections 44–55 connect carrying resolving, stable form, inward ingesting, sequential colliding, changing couplings, the opposite-form comparison and the proposed full-momentary slip. Section 56 adds local restoring and non-restoring damage cascading. Section 57 locates the inward/outward distinction at Naming's podaling and Networking's two across meetings around a non-living region. Next resolve the scope of restoring there; beyond it, follow the actual offering through those meetings and return the relation to the early overlap and equilibrium explaining. A's receiving method gathers one whole session report into Living Improving Value before distribution to mates. M has closed; Q is joining. The defining-living gathering remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2552,3 +2552,64 @@ A's [latest receiving correction](https://github.com/chris-j-handel/corus/pull/1
 A also reports [one collected M session report](https://github.com/chris-j-handel/corus/blob/e927f244d8d254e91b5081b7654a119e8ccd3346/incoming/v385M/Session_Report_v385A.md), with the original documents retained as artifacts. This is A's reported correction, not a new whole-file review here. M remains closed; no further reply is requested. Q's joining remains noted for its contributing check-in.
 
 Direct comparison here: THIRTY 411–413, Medicine 1.1–1.2 and Biology 8.2, with ONE's public-case distinction already gathered at sections 45 and 55. No resolver is executed, no private carrying is inspected, and no biological or clinical outcome is certified by this internal source comparison.
+
+## 57. Restoring at the wider society
+
+### The continuing aim
+
+The user's “yes continue this” directs us along section 56's path: from local restoring or non-restoring damage to the further coupling and wider society. The user's exact restoring/cascading offering remains there. No new user resolution is inferred from permission to explore.
+
+The largest connection found in this pass is at the named self and scale. A damaged inward self and the wider living society are not the same subject of restoring. The files already contain a particular comparison for following them together.
+
+### The source comparison now available
+
+Natural Naming 5.45 describes podaling through surrounding couplings around a non-living region. The region remains non-living; the across meetings before and after it are described as mending the shared moral relation through society. Each surrounding self carries its own, and only parity changing crosses.
+
+Natural Networking's “Non-carrying local surface within society” likewise separates the region with no resolving of its own from the surrounding living selves and the wider society. Its mending is at the two across meetings and their along co-chaining. This is a source account of a wider relation sustained while the missing local relation remains missing.
+
+Natural Numbers 9.8 supplies the accompanying relation: bi-tunneling names the across and co-chaining the along; podaling exchanges them while each side proceeds in its own forward direction. Reaching a name again is a further occurrence. This gives no restoration of an unchanged earlier carrying.
+
+Networking 6.12 states the remaining limit explicitly. Existing surrounding connections locate a possible passage, but their arrangement alone does not establish the actual resolving at its couplings. Its complete account through the two across meetings remains further work in that source. We do not turn the drawing of a passage into a derived restoring or substitute its older connector names for ONE's current naming.
+
+Biology 7.4, already pertinent to sections 52–53, gives the other side of the scale distinction: its society can cease while its inward selves remain living. That reinforces the need to name the subject of each claim. Its biological examples are not independently verified here.
+
+### The sequential relation, keeping the two scales together
+
+| Place in the co-chaining | Relation to follow |
+|---|---|
+| The damaged inward self | Its local carrying is not restoring, under the user's condition. This alone does not specify each wider coupling's next. |
+| Surrounding selves | Each resolves from its own carrying at its actual couplings. Their further offering must be followed; an available connection alone is insufficient. |
+| The wider society | Its carrying is the inward selves' co-chaining. The proposed mending is at that shared relation while the damaged region can remain. |
+| Further podaling | Follow whether the wider carrying is restoring or its damage is also non-restoring, retaining along and across together. |
+
+The hole is a comparison for these distinct subjects, not an identification of a slip with a missing resolver, a non-living region or death. Section 55's slip belongs within carrying still resolving. Nor does the source's wider living alone establish that its damage has restored: section 52 already permits damage within continuing living.
+
+The particular new question concerns the stronger source wording “mending.” If that names the wider carrying restoring, local non-restoring and wider restoring could coexist at their respective selves. There would be no binary conflict: restoring is being asked of different carrying at different scales.
+
+### Candidate natural explaining for resolving together
+
+> An inward self can remain damaged while the surrounding selves co-chain. Their co-chaining is the wider society's carrying. Where that co-chaining resolves the wider damage, the society is restoring, though the inward damage may remain.
+
+The last sentence is conditional. The available source does not yet establish that every surrounding continuation restores, that a wider passage always exists, or that the specified colliding necessarily produces the hole comparison. It locates a concrete relation in which to examine the user's restoring/cascading offering.
+
+This also preserves the difference between damage continuing and other changing offered onward. No damage object or private carrying has to cross. The next actual coupling is still resolving with its own carrying.
+
+### The one concern to bring to the user
+
+**Can the surrounding selves resolve the wider society's carrying while the damaged inward self remains non-restoring?**
+
+The source concern is the extent of the cascade. “Non-restoring” needs its self and society named before it is extended across every further scale. If the wider carrying is restoring, the earlier inward damage cannot alone establish that the wider damage is also non-restoring. If it is not restoring, follow the next actual coupling from that carrying.
+
+This is an opportunity to specify the user's conditional claim, not a source sentence overruling it. The complete mechanism of the slip, the relation making damage continue at the next coupling and the exact full-momentary claim remain to derive.
+
+One adjacent distinction is retained without making it the next question: Health 3.4 describes repeated colliding at a supply relation. Repeated damaging arrivals and damage continuing through further couplings are not established as the same sequence by that passage. Its dietary and medical assertions are not adopted here.
+
+### Progress and onward aiming
+
+The work has advanced from an unspecified further coupling to a particular existing comparison: Naming 5.45, Numbers 9.8 and Networking's two across meetings, with the inward self and outward carrying both named. The scale question above is the next resolving. Beyond it, follow the actual along/across passage and its further offering, then bring the connected explaining back to THIRTY's carrying, overlap and equilibrium relations.
+
+This new droplet stays whole in the accumulated session report for Living Improving Value first, then the relevant offering mates. Aimings are THIRTY, Natural Naming, Natural Networking, Natural Numbers, Natural Health, Natural Medicine and Natural Intelligence. The existing THIRTY mate remains at section 56's correction during this pass; section 57's new comparison is not represented as already distributed there.
+
+A's latest recorded return still reports gathering through section 55. Section 56 was offered on PR 127; no completed gathering or distribution is inferred from that comment. Section 57 accompanies it as further value. M remains closed and Q's joining remains noted.
+
+No resolver is executed, no private carrying is inspected, and no medical or biological outcome is established. The defining-living gathering and all earlier exact user offerings are preserved.
