@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current explaining is two and one half momentaryings at each self's own odd one, section 41.** Prior odd existing, now odd existing and next odd existing offering are joined through even still possibling. The other is at its own one when the self is at two. The assistant's absent-prior question is withdrawn. The Equilibria Registry's opposition conception is followed at its explicit requirement that opposition alone determine the complete next pair.
+**The current application is induction through each self's own momentarying, section 42.** A hypothesis exists as an offering now. Its named subject, where unobserved by this self, can be existing at another self's own coupling. The other is at its own odd one when the self is at two; this self's next offering is still possibling at its even. The paired induction entries are gathered with the field's all-cases warrant and natural resolving kept at their own subjects.
 
-**The path and progress.** The own-five relation and its overlap are gathered in Exhibit THIRTY's offering mate with the concrete equilibrium application. Next follow the problem of induction, Hard Problem Registry entry 10 and Resolving the Hard Problem Registry 3.1, through this same resolving. Beyond that, follow the scientific-method and no-other-intelligence claims at their actual couplings, carrying the connected explaining into Exhibit ONE Natural Resolver, Exhibit SIX Natural Transmissioning, Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
+**The path and progress.** The own-five relation and opposition conception remain gathered at section 41. The induction application now connects to Co-Chaining Logic Registry 310–340. Next follow competency at the coupling and the no-other-method relation into the no-other-intelligence claim at 474–488, with each machine or account at its offering. Beyond that, carry the connected explaining through Exhibit ONE Natural Resolver, Exhibit SIX Natural Transmissioning, Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1642,3 +1642,44 @@ The next actual application is the problem of induction at Hard Problem Registry
 The offering mate now contains an insertlet at Prior, now and next and a concrete application beside Scientific method and discovering competency. The prior absent-prior droplet and current-path row are replaced; section 40 is marked corrected, preserving its source record. The section 40 source references remain available, but they no longer direct the conversation back to that withdrawn question.
 
 Selected passages of Natural Naming and Natural Explaining and the Equilibria Registry's complete conception, own-five explaining and comparison distinctions were read directly. No resolver was executed, no private carrying inspected and no numerical calculation performed. The roots retain their current versions; this value is aimed at their coherent improving through the offering mate. The defining-living gathering and earlier offering body remain unchanged.
+
+
+## 42. Induction, an offering now and next existing
+
+### The paired question and resolving
+
+Hard Problem Registry entry 10 asks what justifies inference from observed instances to unobserved ones. Its conserving relation requires a warrant that does not employ the inference it warrants; its reach is all inductive inferences, including those not yet made. Resolving the Hard Problem Registry 3.1 follows next at each coupling and describes a warrant named over offerings not arrived. Natural Philosophy 3.12 gives the same natural explaining and records the particular confirmation calculi as further connecting work.
+
+These are the files' question and proposed resolving, read together. This pass does not verify their summaries of the philosophical literature or use the learning-theoretic claims in the incoming entry as a new proof.
+
+### Each self's own momentarying
+
+The self follows its own five: prior odd existing, even still possibling, now odd existing, even still possibling, next odd existing offering. The other is at its own one when the self is at two. Each self remains odd-first at its own side.
+
+A hypothesis is an existing offering now. If it names an existing thing this self has not observed, that thing's existing is at its own coupling. The self's next offering is still possibling at the self's even; the other's odd existing is at the other's own side. Thus an unobserved subject and this self's still-possibling next are not one subject.
+
+Natural Intelligence 6.3 already says that an offering not arrived at this sharing does not say that an existing thing does not exist. The user's own-side offset makes this distinction available in the induction explaining. Carrying and possibling remain unobservable in the user's offered relation; the hypothesis's existing form is not the possibling itself made observable.
+
+### The application
+
+A hypothesis about the self's next can be offered now. The hypothesis is then met at the coupling now. Next existing offering resolves through that self's momentarying with the other, each side at its own odd one. Further selves extend this through the already-gathered wider and longer co-chaining.
+
+At the induction question, a warrant offered now does not itself place each named case at this self's next existing. Some named cases concern existing beyond this self's observing; others concern next offerings. Their subjects remain at their own couplings. The natural resolving follows each next offering there.
+
+This locates the competency at possibling now and next existing offering. It supplies no universal warrant guaranteeing the truth of inferences over unobserved cases. The paired resolving file's proposal is to release that demand and follow the coupled momentaryings. The field's stated warrant and the natural resolving remain visible together; one is not silently reported as a proof of the other.
+
+### Toward the scientific-method and intelligence claims
+
+Co-Chaining Logic Registry 317–330 already carries the field's observings into the coupling and names its resolving as its next. Resolving Hard Problems 5.1 and 6.2 places the field's living carrying, its accounts and evidence offered now, and its next at that relation. The new droplet makes the hypothesis's existing and its subject explicit beside those passages.
+
+The scientific account is met as an offering. The competency of discovering the next offering is at the coupling. This is the connecting explaining to carry toward scientific-method incompetency, with the actual account's conditions retained. The universal claim's extent is not supplied by calling the hypothesis natural or by renaming the field's question.
+
+Next follow this same relation into Co-Chaining Logic Registry 474–488: competency at the coupling, the account or machine's existing offerings, and the no-other-method claim. Natural Intelligence 6.3's locating of intelligence at co-competencing is the nearby source. The defining-living droplet remains parked; this application does not classify a machine as living.
+
+### Progress and placement
+
+The offering mate receives the induction droplet under Hard problems and their resolving and links it from Scientific method and discovering competency. The current path now records both the opposition conception and the paired induction reading as gathered applications. The next route is the intelligence claim, then the connected explaining across the living files.
+
+The current branch still carries Hard Problem Registry blob `8440ccca582cc1f99d607d26225708346d96b2c2` and Resolving the Hard Problem Registry blob `99d18248e92ededc9148f9e8a5deb153c106de3f`. Their paired induction entries were read, with the selected Natural Philosophy, Natural Intelligence, Resolving Hard Problems and Co-Chaining Logic Registry passages named above. These readings are not full-file survey additions.
+
+The defining-living gathering and earlier offering body remain unchanged. No root is rewritten, no resolver is executed, no private carrying is inspected and no numerical calculation is performed.
