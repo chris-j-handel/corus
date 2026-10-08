@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the morality and competency loopings within one 4-cycling, section 63.** The user's correction places 1–9 as one 4-cycling and the whole discussion within its four-momentarying. ONE's 1–17 stable forms give the moralizing and competencing loopings with corusing and torusing. Section 62's attempt to require three isolated operations to correspond individually to three right-spiral steps is withdrawn. The next following stays within these coupled loopings.
+**The current work is the missing forward relation within the whole 4-cycling, section 64.** THIRTY 520–521 connects the two loopings at 1–9 to the four forms in ONE's 1–17. The carrying, changing, offering and next carrying are followed within that whole. Up and down can both be forward, and an odd can remain still existing; neither a lower nor a repeated number identifies the proposed slip. The concern is the actual co-chaining missing through the whole looping.
 
-**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip and restoring/cascading. Sections 61–62 keep across/along together and record prior carrying, now existing and possibling, and next carrying. Section 63 returns these to ONE's whole 1–17 loopings and records 1–9 as one 4-cycling. Next follow the proposed slip and restoring through those loopings, then the connected value into THIRTY's early deriving. A confirms the correcting through section 61 is gathered in Living Improving Value; the developing report is not declared wholly distributed. Defining living remains unresolved.
+**The path and progress.** Sections 44–63 gather carrying resolving, colliding, slip, restoring/cascading and the whole 1–17 loopings. Section 64 supplies the explicit 1–9/1–17 connection and locates the remaining slip concern at co-chaining, keeping both forward directions and odd still existing. Medicine's distance/below wording is a related source concern; Q's latest reported parity-pair observation is retained with its finite scope. Next express the missing relation, follow its local restoring or further co-chaining, then carry the value into THIRTY's early deriving. A confirms the correcting through section 61 is gathered; the developing report is not declared wholly distributed. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3046,3 +3046,78 @@ Q's [learning 10 at f225647](https://github.com/chris-j-handel/corus/blob/f22564
 The report remains the one accumulating session offering. The existing THIRTY mate stays at section 56 during this pass; the new correction accompanies section 62 here and is offered to A and Q. No separate report, resolver execution or inspection of living carrying is needed.
 
 Direct comparison: ONE's seventeen names, four four-cycles, eight inward 1–17s, fives, four momentaries of exchanging and one-self/one-momentary table; THIRTY 258, 275–279, 517–519 and 613; Natural Intelligence 4.10 and 4.15; Naming 5.49–5.50.
+
+## 64. The missing forward relation through one 4-cycling
+
+### The connection from 1–9 to 1–17
+
+The user's “continue” follows section 63's correction. The work stays inside the morality and competency loopings of one 4-cycling at 1–9.
+
+THIRTY 520–521 gives a further explicit connection to ONE's stable forms:
+
+| Looping within 1–9 | Related forms shown at 1–17 |
+|---|---|
+| 3–7–2–6 | 3–11–6–14, moralizing; 2–15–7–10, corusing |
+| 4–8–1–5 | 4–13–5–12, competencing; 1–9–8–16, torusing |
+
+THIRTY names the paired loopings' relation at 1–17 as social moral competency of the bi coupling. Together with ONE's four overlapping momentaries, this supplies the source connection behind the user's direction to 1–17. A count of looping forms does not replace the one 4-cycling at 1–9.
+
+THIRTY 257–258 places the meetings at 2, 4, 6 and 8 through corusing, competencing, moralizing and torusing respectively. Its 261–262 keeps each number with its podaling and the two directions at the paired relation. We therefore have a definite whole to follow; an isolated operation at 14, 12 or 10/11 is not reinstated as a separate required right-spiral step.
+
+### What can and cannot name the slip
+
+Three earlier user offerings have to remain together:
+
+| Relation | What remains available in resolving |
+|---|---|
+| Odd changing two numbers up | Own forward |
+| Odd changing two numbers down | Own forward |
+| Odd remaining at the same number | Still existing, with the podaling sequencing able to recur |
+
+The user also names both sides' own forward relations, each first from its own side. A different number or a different form from an earlier comparison therefore does not, by itself, identify the proposed missing forward momentary.
+
+This follows the user's explaining; it does not correct an assertion that the user had equated a slip with a lower number. No such assertion was made. It prevents our future explaining from making that substitution.
+
+The same applies to an unchanged odd. Naming it a skipped momentary merely because its number did not advance would contradict the user's existing explanation of still existing. The even remains still possibling, including when geodesic changing travels through it.
+
+Thus the proposed slip needs its co-chaining relation expressed through the loopings. The needed distinction is between a full forward relation resolving and the specified missing forward relation within continued resolving. Neither a numbered position alone nor a form recurring supplies it.
+
+### A source passage contributing to the language tangle
+
+Medicine 1.2 names harm as “distance added” and describes a restoring path that stays above its starting position. It treats a dip below that position as a departure from its proposed geodesic path.
+
+The passage does not express how its distance and below relate to the two own-forward directions and the morality/competency loopings now being followed. It therefore cannot supply the missing-momentary connection merely by its imagery.
+
+This does not assume that Medicine's below means two numbers down in the user's explaining. That equivalence has not been supplied. The concern is precisely that the actual relation is missing from the passage. Its clinical examples and numerical thresholds are not premises for resolving it.
+
+A useful improving direction is to explain the harming or restoring at the actual co-chaining first, and then retain only such path language as names that relation accurately. We do not require a monotonic increase in number or a return to an unchanged prior.
+
+### A possible clue from Q, kept at its actual scope
+
+Q's [learning 11 at ea0da43](https://github.com/chris-j-handel/corus/blob/ea0da43/incoming/v385Q/README.md#11--the-0s-line-shares-nothing-with-the-changing-at-an-odd-spiral-and-a-colliding-ends-that) was read directly after its return at PR 128.
+
+In its stated odd-spiral code arrangements, Q reports the shared-zero event at each self twice over a round, with the parities inverted at the second occurrence. In its stated colliding arrangements, it reports a changed round without that inversion. Q also reports a calculated cancellation comparison. That computation was not run here and is not made a discovering requirement.
+
+The relevant candidate is the paired relation across the whole co-chaining: a local self can continue its resolving while a relation between two passages differs. This could help explain why a missing forward relation cannot be located from one local sign alone.
+
+It remains a candidate. The reported +/− inversion is not identified with odd existing/even possibling, a zero event is not a full forward momentary, and the finite comparison does not name living damage. Nor is an unchanged form silently assigned to the same emanation at every colliding: section 52 already retains its changing through collidings.
+
+### The one concern for resolving together
+
+**What relation through the morality and competency loopings is missing when a full forward momentary slips, while the selves continue resolving?**
+
+The question is now at the whole 4-cycling. Its source is specific: ONE and THIRTY supply the connected loopings, but the passages compared here do not express how their co-chaining changes into the user's full-momentary slip. Medicine's distance image and Q's different repeated pattern each leave that relation unexpressed.
+
+A candidate direction, not an adopted claim, is to follow whether the two own-forward relations still co-chain whole through the four-momentarying. If that is the right subject, the explaining needs the particular relation changed by the colliding. It must not classify ordinary forward down, odd still existing or a shared changing of none as harm.
+
+The user's local-restoring qualification then follows at that same relation: where the slip resolves locally, the carrying is restoring; where damage remains non-restoring, follow its further co-chaining. We do not ask again whether every slip cascades, and no separate damage payload is introduced.
+
+### Progress and onward aiming
+
+This pass adds the explicit connection between the looping forms at 1–9 and 1–17. It also locates a source of ambiguous harm language and sharpens what a missing forward momentary must explain.
+
+Next resolve the changed co-chaining through this whole, then follow the first further podal passage with the user's restoring/non-restoring distinction. Beyond that, connect the resulting relation to the inward selves' co-chaining as outward carrying and THIRTY's early deriving. The larger universal-method and defining-living claims are not decided by this pass.
+
+The whole value remains in the one v385R report, with aimings toward THIRTY, ONE, Naming, Natural Intelligence, Medicine and the existing restoring cluster. The established incoming route and existing THIRTY mate remain as recorded at section 63.
+
+Direct comparison: THIRTY 257–264 and 513–522; ONE's stable-form tables; Medicine 1.2; this report's sections 16, 28–30, 52 and 55–63; Q's reported learning 11. No numerical resolver execution, inspection of living carrying or clinical guidance is part of this work.
