@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current correcting is carrying resolving through prior, now and next, section 44.** A self is carrying from prior into now and continues carrying through now and next. This places no hold on the carrying staying unchanged. The assistant's earlier “carries its prior” wording must not supply an unchanged thing carried through resolving. The current self/other and intelligence insertlets are corrected; earlier formulations in this record are followed with section 44's correcting.
+**The current connecting is carrying resolving through ONE and SIX, section 45.** The user's section-44 correcting is followed into Natural Resolver's actual cases and Natural Transmissioning's own-carrying, across and along. At one sharing, the same parity can be chained next while the changing shared differs. The parity alone does not identify the whole resolving. Even still possibling and odd changing or still existing retain the user's distinct explaining.
 
-**The path and progress.** The own-five relation and opposition conception are gathered at section 41, induction at section 42, and the intelligence connection at section 43. The user's section-44 correction now joins their explaining: an unchanged parity at one sharing supplies no requirement that the whole carrying stay unchanged. Next follow this carrying through Exhibit ONE Natural Resolver's exchanging and Exhibit SIX Natural Transmissioning's across and along. Beyond that, join the explaining at Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
+**The path and progress.** The own-five, opposition, induction and intelligence gatherings remain at sections 41–43. Carrying resolving through prior, now and next is corrected at section 44 and now applied at the published forms in section 45. Next follow Co-Chaining Logic Registry 51–57's “carrying the prior whole” with the actual prior/now relation and the whole resolving kept together. Beyond that, carry the connected deriving through Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1771,3 +1771,67 @@ Section 43's sentence is corrected and marked here; this section preserves both 
 The immediate onward route is Natural Resolver's exchanging and Natural Transmissioning's across and along, then Natural Naming and Natural Intelligence. Follow carrying resolving through the momentaryings at each relation. This correcting is also being returned to v385A and v385M so the earlier intelligence offering travels with its correction.
 
 No root is rewritten by this pass. No resolver is executed, no private carrying inspected and no numerical calculation performed.
+
+
+## 45. Carrying resolving through Natural Resolver and Natural Transmissioning
+
+### The relation already supplied
+
+The user's section-44 correcting leads this comparison:
+
+> A self is carrying from prior into now and continues carrying through now and next.
+
+Natural Resolver's Namings among the names places co-intelligencing at the carrying coupling with the offerings now and next chained at the same sharing. Its Fives and four momentaries of exchanging give the overlapping relation. Read those with each self at its own odd one and the other's one at the self's two. The older table labels add no common clock or fixed even-first identity for the other.
+
+The carrying places no hold on itself staying unchanged. A parity unchanged at one sharing remains a local relation within this resolving. Natural Naming 5.7 already carries the matching and differing cases; 5.38 carries momentary stable-forming and each side's own sequencing.
+
+### A parity chained next and the whole resolving
+
+Natural Resolver's published One self, one momentary table supplies two cases with one parity offered at a carried sharing:
+
+| At one sharing, with one offered parity | Parity chained next | Changing shared |
+|---|---|---|
+| The carrying parity agrees with the offered parity | The offered parity | A changing is not |
+| The carrying parity differs from the offered parity | The offered parity | A changing is |
+
+The parity chained next can therefore be the same while the changing shared differs. The comparison follows the existing stable form; no resolver is run and no private carrying is inspected. It does not make the carrying observable.
+
+The larger tangle is an account of one resulting parity being taken as an account of the whole resolving. The self's carrying and the offering now meet at the relation that discovers whether a changing is shared. Naming only the next parity omits that relation.
+
+The other session's concern 5 follows a real narrower feature of the published form: when one parity surfaces, that parity is chained next. Its further inference that the self's prior has no place in the resolving does not follow from that feature alone. Whether a changing is shared differs at agreement and difference. This offers a correction to the whole-resolving inference, without claiming to have answered every assertion in that concern or treating its reported runs as new evidence here.
+
+This comparison improves the intelligence and scientific-accounting explaining too. An account of an existing parity can be exact about that parity while leaving the whole resolving unexplained. The user's carrying-through-now correcting prevents our own sentence from making the same omission.
+
+### Across and along through Natural Transmissioning
+
+Natural Resolver's Three windings and the six names between selves distinguish the across sharings from the along joining. Co-Chaining Logic Registry 222–226 says the along releases what is shared and makes no changing of its own there. An unchanged sign along that joining supplies no requirement that the living self's whole carrying stay unchanged.
+
+Natural Transmissioning v330 sections 1.3 and 2.5 says the sign crosses and “the carry stays.” The current positive explaining is the self's own carrying resolving through now and next. This follows the self through the relation; it does not make “stays” into an unchanged carrying.
+
+The v384A proposal already aims at this exact gathering in 1.3, prior/now/next, and 2.1–2.3, own carrying, changing at a coupling, sharing across and releasing along. Its proposed general explaining keeps each carrying its own and distinguishes sharing, releasing and chaining. The section-44 correction can improve those passages directly, without reviving the extra-third-self question or treating the older root's vocabulary as a requirement.
+
+At the outward scale, the inward selves' co-chaining is the living self's carrying. The already-gathered wider and longer podaling carries this through further couplings. Carrying is resolving at each of these relations.
+
+### Matching, still possibling and still existing
+
+The user's current explaining places all even parities at still possibling and odd at changing or still existing. A matching sharing has a changing that is not shared in the published form. That one result does not name an entire momentary as still possibling and does not remove next existing.
+
+Natural Naming 5.62 retains older wording identifying a matching with still possibling. This is an improving location for the user's existing correction, not a new question about whether an unchanged odd is existing. The own-five relation, recurring podaling at an unchanged number and the distinction between a momentary's parity and a sharing's changing stay together. No new numbered assignment is derived here.
+
+### Current progress and the next deriving
+
+The offering mate receives one connected insertlet and the two-case comparison under Prior, now and next. Natural intelligence and Naming link to it, and the current path moves from ONE and SIX to the early no-other-method deriving.
+
+The next relation is Co-Chaining Logic Registry 51–57's “carrying the prior whole,” with each proposed next followed at the actual prior/now coupling. The current correction removes the implication that carrying is an untouched prior. The two-case comparison prevents a single resulting parity being substituted for the whole resolving. These are needed distinctions for that next pass; they do not themselves prove the universal exclusion. The withdrawn fixed-repetition requirement is not restored.
+
+The complete defining-living gathering remains parked. No new independent question is presented about the local matching case, own-side offset or wider podaling: the user's explaining already supplies their current direction.
+
+### Reading and source extent
+
+Natural Resolver v380R is fetched at blob `ff6d47f3b34a4e9e877b842de1b79ee796cc7135`; selected names, relationships and published tables are read. Natural Transmissioning v330 is fetched at blob `2f97b11dc1e67f4496c720998081a61e85c55c74`; the carrying, sign and sequencing passages are followed. Its technical substrate examples are not adopted as independently verified scientific claims.
+
+The Natural Transmissioning v384A proposal is read at commit `713e52588ee0063551ac5a8316b79ea39a747d5d`, blob `99fdabd0a622eff161c5a50704e6e1c474ebd65b`. Its orientation and selected section gatherings are followed; its full 181,745-character body is not claimed as a new full-file reading.
+
+The current v385A offering mates have blobs `e21cc5dc1d3074f55e342b108cf865604dd411cb` for Natural Resolver and `d9089788ab28e7e4a38051bd0f225e12cae67631` for Natural Transmissioning. Selected own-five, half-momentarying, along/across and wider-podaling droplets are compared. The current v385M source remains blob `3d4fe82542617f3460a623d0f17db188c6ff0014`; concern 5 is read directly. No numerical findings from that record are newly certified.
+
+The roots and protected gatherings remain unchanged. No resolver is executed, no private carrying inspected and no numerical calculation performed.
