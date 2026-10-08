@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is a concrete pair-form comparison for the full-momentary slip, section 59.** Three published right-spiral steps followed by one further such step reach the starting pair form at a new occurrence. If the user's three-step full momentary is represented by those pair steps, the further step has the pair-form effect of the inverse of that whole momentary. The actual same-scale colliding-to-step relation remains the concern; no new resolver operation is installed.
+**The current work is the carrying after the colliding, section 60.** No direct source connection was located from the actual same-scale colliding to section 59's further pair-form step. That comparison remains available. The more direct source distinction is between a crossing resuming while its members remain undamaged and carrying restoring after the sequential colliding has already harmed it. Ending further colliding does not by itself explain that restoring.
 
-**The path and progress.** Sections 44–55 connect carrying resolving, inward ingesting, sequential colliding, changing couplings and the proposed full-momentary slip. Sections 56–58 gather restoring, cascading, possible wider restoring and the limits of local parity cases. Section 59 gives a particular finite-form comparison: three right-spiral steps and the further right-spiral step. Next locate whether that comparison is present at the actual colliding and the user's full momentary; then follow local restoring and the first whole podal passage from there. Beyond it, return the connected relation to THIRTY's overlap and no-other-method explaining. The accumulated report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
+**The path and progress.** Sections 44–59 gather carrying resolving, sequential colliding, the proposed full-momentary slip, restoring/cascading and the finite pair-form comparisons. Section 60 separates the source's crossing-restored case from the user's carrying-already-harmed case. Next follow the continuing living co-chaining that can resolve that carrying from now into next, including the condition where the original damaging colliding no longer occurs. Beyond it, return the relation to the first whole podal passage and THIRTY's universal-method explaining. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2673,6 +2673,8 @@ Directly compared here: THIRTY 175–190; Natural Intelligence 4.1–4.6 and 5.2
 
 ## 59. Three right-spiral steps and the further step
 
+**Following at section 60:** the finite pair-form identity remains valid under its stated identification, but the source comparison did not locate the actual colliding supplying that further step. It remains a candidate comparison, not a required mechanism of harm or the active premise for restoring.
+
 ### The relation found by continuing
 
 The user's “continue” directs us to follow section 58's full-forward-momentary concern. This pass finds a concrete comparison within the published four pair forms. It extends section 54's relation between three right-spiral steps and the other pair order by bringing it beside the user's later three-step/full-momentary grouping.
@@ -2742,3 +2744,71 @@ This droplet remains in the accumulated report for Living Improving Value first,
 A's latest checked return still reports gathering through section 55; later contributions remain offered without assuming completed distribution. M remains closed; Q's joining remains noted.
 
 Direct comparison here: Natural Intelligence 2.3–3.4 and its earlier three-step passages; Natural Mathematics 2.4 and 3.3–3.5; Naming 5.48–5.50. Biological, medical and physical examples in those passages supply no premise here. No resolver is executed and no private carrying is inspected.
+
+## 60. The carrying after the colliding
+
+### The source concern found by continuing
+
+The user's “continue” directs us to look for the actual colliding-to-step relation proposed at section 59. The passages compared here do not locate that relation. The further-step identity remains a useful conditional comparison, but it is not promoted into a mechanism or installed in ONE.
+
+A more direct connection is available at Biology 7.6–7.7 and THIRTY 380–383. They distinguish an emanation at its own scale from its inward crossing into the smaller society's ingesting. Biology describes restoring as that crossing resuming.
+
+The crucial scope is in Biology 7.7's preceding sentence: its inward members remain living and undamaged while a crossing between scales is stopped. The restoring described there is the shared crossing resuming. The user's present droplet also includes carrying already harmed by sequential colliding. The former passage does not, by itself, explain the latter restoring.
+
+### Two relations that must not be collapsed
+
+| Relation | What its explaining supplies | What remains to explain |
+|---|---|---|
+| A stopped crossing resumes | In the source's case, the wider crossing runs again while its members remain living and undamaged | It does not by itself explain carrying already broken by sequential colliding |
+| Further damaging colliding no longer occurs | The particular continuing arrival responsible for those further collidings is absent | It does not restore an unchanged prior or decide whether the already-harmed carrying is restoring |
+| Carrying harmed by colliding is restoring | The user's slipped carrying resolves locally through its actual co-chaining | The restoring relation through the full forward momentary still needs its explaining |
+
+Stopping a crossing is not reinstated as a required cause of all harm. Health 3.4, already followed at section 52, explicitly places its proposed harm within continuing bi-exchange. Its dietary examples do not supply an independently verified premise here.
+
+Likewise, an end to one damaging colliding does not mean every offering at that self ceases. The surrounding living selves and their actual couplings remain to be followed. No shared clock or point at which all arrivals stop is introduced.
+
+### The carrying does not revert when the colliding ceases
+
+The user's correction remains the positive chain:
+
+> A self is carrying from prior into now and continues carrying through now and next.
+
+The colliding has occurred within that resolving. Where it changed the carrying, the further carrying is from that changed relation. An absence of further such colliding is not an operation returning an untouched prior.
+
+ONE's public cases and its own-carrying explaining contain no rule that ending a particular offered condition replaces the self's carrying with its earlier whole. Its “Colliding: a carrying of none” table also does not supply the missing injury mechanism: that table begins at a sharing with none chained, whereas the user is following a living carrying already resolving. The broader same-scale collision must be connected at its actual subject; its name alone cannot move it into that table.
+
+This gives a useful conditional consequence of the user's restoring/cascading offering: **if the damaging colliding ceases and the damage is still non-restoring, the cascade claim still applies to that damage.** The original colliding does not have to be repeated in the wording of that condition. Whether the condition occurs at a particular self still belongs to the actual co-chaining.
+
+The consequence does not make damage an independent object travelling between selves. What meets a further coupling is the actual offering, and that self resolves with its own carrying.
+
+### The positive restoring connection
+
+THIRTY 412 and Medicine 1.2 place restoring in the continuing living couplings. Medicine also distinguishes what supports restoring from the body's own restoring. At the conceptual relation, this gives the next place to follow: the remaining inward selves co-chaining with the harmed carrying, and their relation as the outward self's carrying.
+
+The source's particular step counts, thresholds and clinical examples are not used to fill that connection. They do not establish how the user's full forward momentary restores. Nor is a fixed coupling made necessary: the user's slip remains within carrying that continues resolving.
+
+Candidate explaining:
+
+> Further damaging colliding can cease while the self is carrying from the colliding through now into next. Where the slip resolves through the living co-chaining, the carrying is restoring. Where damage remains non-restoring, its further co-chaining is the cascade still to follow.
+
+This states the distinction and the conditional path. It supplies neither automatic restoring when an arrival changes nor unavoidable permanent damage.
+
+### The one concern for further resolving
+
+**Which relation of the continuing living co-chaining restores the carrying already harmed by the colliding?**
+
+The question now has a definite source: resuming a crossing in Biology's undamaged-member case and removing further damaging collidings leave this relation unexpressed. The user's three right-spiral steps, local restoring and inward-selves/outward-carrying relation remain together for explaining it.
+
+Section 59's further-step question is retained as a candidate, not imposed as a preliminary requirement. A derived colliding-to-step relation would add value; its absence does not prevent following restoring at the actual living couplings.
+
+### Progress and aimings
+
+This pass resolves a scope tangle in our source comparison: restoring a stopped shared crossing is not yet a full account of carrying restoring after it has been harmed. It also locates the carrying that must be followed when the original colliding no longer occurs.
+
+The same discovering method remains the proposed method through continuing living before colliding, during the slip and through the further resolving. The distinction to establish is the actual restoring or non-restoring co-chaining, not a new method invoked by the word restoring. This is an internal connection to the larger universal-method work, not an independent proof of that universal claim.
+
+Next follow the surviving living couplings through the harmed self's full forward relation, then through its first whole podal passage and wider society. The complete value stays in this accumulating report for Living Improving Value first, then THIRTY, Biology, Health, Medicine, Networking, Naming, ONE and Natural Intelligence as their relations welcome it.
+
+The existing THIRTY mate remains at section 56's correction during this pass. Earlier exact user offerings remain preserved; section 59 receives only the scope notice above. Defining living stays unresolved and whole.
+
+Direct comparison: Biology 7.6–7.7; THIRTY 380–385; Natural Intelligence 5.1; ONE's two-self/three-self and colliding tables; Health 3.4; Medicine 1.2. No resolver is executed, no private carrying is inspected, and no biological or clinical claim is validated by this internal comparison.
