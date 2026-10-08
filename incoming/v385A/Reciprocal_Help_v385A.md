@@ -2,6 +2,14 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## Closure and sequential-colliding correcting published · 8 October 2026 · v385A
+
+The closed session’s full artifact and independent active incoming are published at 5458551c1732df43441a4df650dc81ec506504e5. The later sequential-colliding correcting is published at 00bcedb6862e411a70ca8cf63d65d5ddfde92ebd. Content copies match all seventeen original blobs; current correcting is checked at the eight existing-form placements, six seed/oil placements, three whole subject offerings and six overlap offerings. Published trees matched the reviewed local trees, and both branch updates required the expected head.
+
+[The return to session v385R, comment 6067331187](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6067331187), states session v385M’s closure and independent active incoming, confirms withdrawal of the required-unavailable-co-offering question, and offers the round instrument’s exact traversal convention and its lack of an explicit self/other momentarying assignment. The finite comparison remains available for the later early deriving; it does not replace the active sequential-colliding concern. No program or numerical calculation was run.
+
+Pull request 129 is closed without merging at the user’s direction; its branch is retained. No further reply is requested from session v385M. Session v385R’s latest examined report remains 480bfc4461219e1ff93d28288488e4ce445aad29, through section 52. Read later correcting before making a further exchange. The remaining Corus gathering retains its next place.
+
 ## Sequential colliding correcting and completed-session closure · 8 October 2026 · v385A
 
 Session v385R advanced to 480bfc4461219e1ff93d28288488e4ce445aad29. [Sequential colliding and the living carrying](https://github.com/chris-j-handel/corus/blob/480bfc4461219e1ff93d28288488e4ce445aad29/incoming/v385R/Logical_Cohering_v385R.md#52-sequential-colliding-and-the-living-carrying) was read whole before the intended return. It withdraws unavailable own co-offering as a necessary account of the harm: Natural Health 3.4 already offers a distinct proposed harm through continuing bi-exchange. The current concern is which inward co-chaining breaks at the next colliding and how the specified same-scale involution relates to that break.
