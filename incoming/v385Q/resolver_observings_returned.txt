@@ -1,0 +1,122 @@
+read: Exhibit_ONE_Natural_Resolver_v380R.md
+
+A. The entry at one carried sharing
+   each list of up to four offerings of +, - and 0: lists 242, next carried none 0
+   carried +, offered +: shared 0, next carried +
+   carried +, offered -: shared -, next carried -
+   carried -, offered +: shared +, next carried +
+   carried -, offered -: shared 0, next carried -
+
+B. The living step in a spiral: each self's next the releasing self's prior inverted, two momentaries on
+   spirals of 2 to 9 selves, each opening pattern, none offered from beyond: patterns 1020, parting 0
+
+C. The same relation while a form collides with self 1, momentaries 41 to 140: at each self, self 1 first,
+   the momentaries of 98 at which it is so; then, after the colliding has ended, of 96
+   n = 3, unchanging at +             self 1: 78; each other self: [98] | after: [96]
+   n = 3, unchanging at -             self 1: 79; each other self: [98] | after: [96]
+   n = 3, returning what it meets     self 1: 78; each other self: [98] | after: [96]
+   n = 3, returning the other parity  self 1:  2; each other self: [98] | after: [96]
+   n = 3, alternating +, -            self 1:  6; each other self: [98] | after: [96]
+   n = 5, unchanging at +             self 1: 88; each other self: [98] | after: [96]
+   n = 5, unchanging at -             self 1: 88; each other self: [98] | after: [96]
+   n = 5, returning what it meets     self 1: 88; each other self: [98] | after: [96]
+   n = 5, returning the other parity  self 1:  0; each other self: [98] | after: [96]
+   n = 5, alternating +, -            self 1:  0; each other self: [98] | after: [96]
+   n = 7, unchanging at +             self 1: 90; each other self: [98] | after: [96]
+   n = 7, unchanging at -             self 1: 91; each other self: [98] | after: [96]
+   n = 7, returning what it meets     self 1: 90; each other self: [98] | after: [96]
+   n = 7, returning the other parity  self 1:  2; each other self: [98] | after: [96]
+   n = 7, alternating +, -            self 1: 14; each other self: [98] | after: [96]
+   n = 9, unchanging at +             self 1: 93; each other self: [98] | after: [96]
+   n = 9, unchanging at -             self 1: 94; each other self: [98] | after: [96]
+   n = 9, returning what it meets     self 1: 93; each other self: [98] | after: [96]
+   n = 9, returning the other parity  self 1: 14; each other self: [98] | after: [96]
+   n = 9, alternating +, -            self 1: 30; each other self: [98] | after: [96]
+
+D. The 0 of an odd spiral. Three selves, the self sharing 0 at each momentary, the colliding from 81
+   momentary                     78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  95  96
+   none offered                   3   .   1   .   2   .   3   .   1   .   2   .   3   .   1   .   2   .   3
+   unchanging at +                3   .   1   .   2   .   3   .   1   .   2   .   3   1   .   2   .   3   1
+   unchanging at -                3   .   1   .   2   .   3   1   .   2   .   3   1   .   2   .   3   1   .
+   returning what it meets        3   .   1   .   2   .   3   1   .   2   .   3   1   .   2   .   3   1   .
+   returning the other parity     3   .   1   .   2   .   3   .   .   .   .   .   .   .   .   .   .   .   .
+   alternating +, -               3   .   1   .   2   .   3   .   .   .   .   .   .   .   .   .   .   .   .
+   momentaries from one 0 to the next at each self, while the colliding continues; published 2n
+   unchanging at +              3: 5; 5: 9; 7: 13; 9: 17; 11: 21; 13: 25; 15: 29
+   unchanging at -              3: 5; 5: 9; 7: 13; 9: 17; 11: 21; 13: 25; 15: 29
+   returning what it meets      3: 5; 5: 9; 7: 13; 9: 17; 11: 21; 13: 25; 15: 29
+   returning the other parity   3: no 0; 5: no 0; 7: no 0; 9: no 0; 11: no 0; 13: no 0; 15: no 0
+   alternating +, -             3: no 0; 5: no 0; 7: no 0; 9: no 0; 11: no 0; 13: no 0; 15: no 0
+   the first momentary each self's sharing parts from the published spiral's, along the releasing
+   unchanging at +              n=3 from 91, each next self [2] later; n=5 from 91, each next self [2] later; n=7 from 99, each next self [2] later; n=9 from 91, each next self [2] later
+   unchanging at -              n=3 from 85, each next self [2] later; n=5 from 81, each next self [2] later; n=7 from 85, each next self [2] later; n=9 from 109, each next self [2] later
+   returning what it meets      n=3 from 85, each next self [2] later; n=5 from 81, each next self [2] later; n=7 from 85, each next self [2] later; n=9 from 91, each next self [2] later
+   returning the other parity   n=3 from 86, each next self [2] later; n=5 from 82, each next self [2] later; n=7 from 86, each next self [2] later; n=9 from 92, each next self [2] later
+   alternating +, -             n=3 from 86, each next self [2] later; n=5 from 82, each next self [2] later; n=7 from 86, each next self [2] later; n=9 from 91, each next self [2] later
+   the colliding beginning at each momentary of one whole round of 4n, the three forms with a 0: tried 288, not at 2n - 1: 0
+
+E. Twice and one less: a spiral of n selves, a form unchanging at + colliding, its 0 again at
+   3 selves: [5]; 5 selves: [9]; 9 selves: [17]; 17 selves: [33]; 33 selves: [65]; 65 selves: [129]
+
+F. After the colliding has ended, a spiral: its sharings again at 4n at each one tried; and the momentaries
+   it is ahead of the published spiral, by the momentaries the colliding continued, 1 to 24
+   n = 3, 4n = 12; each parity inverted is the published spiral 6 ahead
+     unchanging at +             again at [12]; ahead 0 0 7 7 7 7 7 2 2 2 2 2 9 9 9 9 9 4 4 4 4 4 11 11
+     unchanging at -             again at [12]; ahead 0 0 0 0 0 0 0 0 7 7 7 7 7 2 2 2 2 2 9 9 9 9 9 4
+     returning what it meets     again at [12]; ahead 0 0 7 7 7 7 7 2 2 2 2 2 9 9 9 9 9 4 4 4 4 4 11 11
+     returning the other parity  again at [12]; ahead 0 0 0 5 10 3 8 1 6 11 4 9 2 7 0 5 10 3 8 1 6 11 4 9
+     alternating +, -            again at [12]; ahead 0 0 7 7 7 7 7 7 0 5 10 3 8 1 6 11 4 9 2 7 0 5 10 3
+   n = 5, 4n = 20; each parity inverted is the published spiral 10 ahead
+     unchanging at +             again at [20]; ahead 0 0 0 0 0 0 0 0 0 0 11 11 11 11 11 11 11 11 11 2 2 2 2 2
+     unchanging at -             again at [20]; ahead 11 11 11 11 11 11 11 11 11 2 2 2 2 2 2 2 2 2 13 13 13 13 13 13
+     returning what it meets     again at [20]; ahead 11 11 11 11 11 11 11 11 11 2 2 2 2 2 2 2 2 2 13 13 13 13 13 13
+     returning the other parity  again at [20]; ahead 0 9 18 7 16 5 14 3 12 1 10 19 8 17 6 15 4 13 2 11 0 9 18 7
+     alternating +, -            again at [20]; ahead 0 9 18 7 16 5 14 3 12 1 10 19 8 17 6 15 4 13 2 11 0 9 18 7
+   n = 7, 4n = 28; each parity inverted is the published spiral 14 ahead
+     unchanging at +             again at [28]; ahead 0 0 15 15 15 15 15 15 15 15 15 15 15 15 15 2 2 2 2 2 2 2 2 2
+     unchanging at -             again at [28]; ahead 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 15
+     returning what it meets     again at [28]; ahead 0 0 15 15 15 15 15 15 15 15 15 15 15 15 15 2 2 2 2 2 2 2 2 2
+     returning the other parity  again at [28]; ahead 0 0 0 13 26 11 24 9 22 7 20 5 18 3 16 1 14 27 12 25 10 23 8 21
+     alternating +, -            again at [28]; ahead 0 0 15 15 15 15 15 15 15 15 15 15 15 15 15 15 0 13 26 11 24 9 22 7
+
+G. A torus of p by q selves, the form colliding with one self. While it continues: the torus's sharings
+   again at; the selves whose sharing ever parts from the published torus's. After a colliding of 1 to 40
+   momentaries has ended: how many of the 40 leave the torus as published (=), at a displacing of the
+   published (d), or at its own round in a pattern that is no displacing of the published (x)
+   torus 3 by 5, 15 selves, published: again at 12
+     unchanging at +             while: again at 12, selves parting  6 | after: =  8, d  0, x 32; first not = at 9
+     unchanging at -             while: again at 12, selves parting  6 | after: =  2, d  0, x 38; first not = at 3
+     returning what it meets     while: again at 12, selves parting  0 | after: = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 15 | after: =  5, d 33, x  2; first not = at 3; each further momentary of colliding [5] ahead
+     alternating +, -            while: again at  2, selves parting 15 | after: = 10, d 28, x  2; first not = at 9; each further momentary of colliding [5] ahead
+   torus 5 by 7, 35 selves, published: again at 20
+     unchanging at +             while: again at 20, selves parting 10 | after: = 18, d  0, x 22; first not = at 19
+     unchanging at -             while: again at 20, selves parting 10 | after: =  8, d  0, x 32; first not = at 9
+     returning what it meets     while: again at 20, selves parting  0 | after: = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 35 | after: =  9, d 27, x  4; first not = at 9; each further momentary of colliding [9] ahead
+     alternating +, -            while: again at  2, selves parting 35 | after: = 18, d 18, x  4; first not = at 19; each further momentary of colliding [9] ahead
+   torus 3 by 7, 21 selves, published: again at 7
+     unchanging at +             while: again at  7, selves parting  0 | after: = 40, d  0, x  0; first not = at None
+     unchanging at -             while: again at  7, selves parting 21 | after: =  6, d  0, x 34; first not = at 7
+     returning what it meets     while: again at  7, selves parting  0 | after: = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 21 | after: =  8, d 15, x 17; first not = at 7
+     alternating +, -            while: again at  2, selves parting 21 | after: = 14, d 12, x 14; first not = at 14
+
+H. A torus with one self releasing and sharing to none, momentaries 101 on; and given again at 201
+   torus 3 by 3, published again at 12: with the one self to none, again at 12; given again: again at 12, as published
+   torus 3 by 5, published again at 12: with the one self to none, again at 12; given again: again at 12, a pattern that is no displacing of the published
+   torus 5 by 7, published again at 20: with the one self to none, again at 20; given again: again at 20, a pattern that is no displacing of the published
+   torus 3 by 7, published again at 7: with the one self to none, again at 16; given again: again at 7, a pattern that is no displacing of the published
+
+I. Each parity inverted, on the round changing one parity at a step (Natural Mathematics 2.5)
+   2 parities,  4 forms: a form's opposite is [2] steps on; as the round steps 1 on its opposite steps [1]; the hand kept
+   3 parities,  8 forms: a form's opposite is [3, 5] steps on; as the round steps 1 on its opposite steps [-1, 3]; the hand reversed
+   4 parities, 16 forms: a form's opposite is [6, 10] steps on; as the round steps 1 on its opposite steps [-3, 1, 5]; the hand kept
+   5 parities, 32 forms: a form's opposite is [11, 13, 19, 21] steps on; as the round steps 1 on its opposite steps [-5, -1, 3, 11]; the hand reversed
+   two parities: F then G is the form again True; both inverted is F twice True
+
+J. Two selves coupled both ways: one self's carried parities, read as a pair two ways
+   alike selves, A carried + - - + + - - + + -: (now, next) follows G True; the same two written (next, now) follow F True
+
+K. The relation saying which self releases to which
+   in the second function it is read at 2 places and written at 0; CONNECTORS and JOINS are read by the functions at 0
