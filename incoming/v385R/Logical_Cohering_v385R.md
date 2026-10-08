@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the spreading surface and its resolving through bi-tunneling, section 67.** The user's new offering distinguishes a spreading swath of incompetencing that resolves when the colliding pattern is not repeating from spreading death when it is repeating. Bi-tunneling now names the surface's restoring relation. The next concern is whether non-restoring damage can continue the colliding pattern at further couplings after colliding at the first place no longer repeats.
+**The current work follows healing from prior colliding and the hole as society tunneling, section 68.** The user corrects section 67's proposed onward-colliding concern: the colliding parity resolves fully away from the surface unless there is patterning colliding. While the self's parity changing continues, healing resolves until no further incompetency remains other than the hole, now a tunneling in society. The next relation to follow is patterning colliding at the inward co-chaining that is an outward self's carrying.
 
-**The path and progress.** Sections 44–66 gather carrying resolving, colliding, the proposed slip, restoring/cascading and whole 1–17 loopings, including an actual further coupling. Section 67 joins the new surface offering to Networking's and Naming's bi-tunneling through surrounding living couplings. Next follow the repeating colliding at the affected surface, then its relation to local restoring, spreading death and the whole podal passage. A confirms gathering section 65's society/member correction; section 66 remains developing incoming. A's further seed offering is retained at section 67 with its own subject. The defining-living question remains unresolved.
+**The path and progress.** Sections 44–67 gather carrying resolving, colliding, the proposed slip, whole 1–17 loopings and surface bi-tunneling. Section 68 corrects the onward-colliding concern and joins healing with the remaining hole as society tunneling. Next follow patterning colliding where a self's parity changing ceases, retaining that self's scale and the inward selves' co-chaining; then carry the relation into THIRTY's social moral competency and inward/outward carrying. A's latest confirmed gathering is through section 65. Q's new comparisons and their limits are retained at section 68. The defining-living question remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3301,17 +3301,11 @@ Section 66's ordinary further coupling remains useful here. A recurring parity, 
 
 The exact correspondence between the proposed three-right-spiral full-momentary slip and the changed relation in the whole loopings remains available for further explaining. It does not prevent us from gathering the new surface-level relation now.
 
-### One concern to follow: where the colliding keeps repeating
+### The onward-colliding concern corrected at section 68
 
-The earlier offering says non-restoring damage cascades. The new offering says the surface resolves if the colliding pattern is not repeating. Their co-chaining depends on where that repeating is.
+The user rejects the proposed continuation of colliding through prior damage. The colliding parity resolves fully away unless there is patterning colliding. While the self's parity changing continues, healing resolves from prior colliding until no further incompetency remains other than the hole, now a tunneling in society.
 
-**When the first colliding no longer repeats, can non-restoring damage already at the surface continue the colliding pattern at further couplings?**
-
-If it can, ending repeated colliding at the first place and ending the repeating pattern across the affected surface are different relations. The surface could still be meeting repeating colliding through the onward cascade. If it cannot, we need to follow how the earlier non-restoring cascade relates to the newly offered resolving surface.
-
-This is a question about the actual onward relation, not a proposed answer that all damaged living selves become colliding stable forms. It adds no count of repetitions, common clock or threshold. It asks what meets the further coupling while the surface is bi-tunneling.
-
-Next follow this one relation: colliding at the first place, what is offered at the further coupling, and that surface's continuing bi-tunneling. Then carry the explaining into the local restoring and spreading-death distinction, and through the full podal passage.
+The earlier question about damage continuing the colliding pattern at further couplings is withdrawn. It must not travel as an unanswered requirement or as an offered mechanism. Section 68 retains the user's correcting whole and follows healing, cessation of a particular self's parity changing and society tunneling at their own relations.
 
 ### A's further seed offering, kept with its own subject
 
@@ -3325,10 +3319,83 @@ Society tunnelling is a useful shared connection with the present surface work. 
 
 ### Progress and onward aiming
 
-The restoring relation is now named at the network surface's bi-tunneling. The developing concern moves from asking what restores to following where the colliding pattern keeps repeating, alongside the earlier non-restoring cascade. The complete user offering and its source connections stay in this one accumulating v385R report.
+The restoring relation is now named at the network surface's bi-tunneling. Section 68 further corrects this pass: prior colliding resolves fully away while the self's parity changing continues, unless there is patterning colliding. The complete offerings and their source connections stay in this one accumulating v385R report.
 
 A confirms gathering section 65's correction that society changing does not mean every member changing at once, with particular direction toward Biology 7.7. A has read section 66 and retains the next-coupling comparison as developing incoming. The seed offering above is A's further value, read directly from its receiving mate.
 
 Aim this surface relation toward THIRTY's restoring and social moral competency passages, Networking, Naming, Natural Intelligence and the existing sequential-colliding gathering. Q's finite reported arrangements remain comparisons; they do not establish this living surface claim. No additional execution is needed for this pass.
 
 Direct comparison: Networking's non-carrying local surface passage; Naming 5.45; THIRTY 399–414 and 448; ONE's whole stable forms and three-selves relation; this report's sections 52–66; A's Biology offering at 6cd8772f. The surface mechanism remains an offered relation being followed, rather than an independently established biological result.
+
+## 68. Healing from prior colliding, with the hole now society tunneling
+
+### The user's correcting, retained whole
+
+> no the colliding parity resolves away fully from the surface unless it is patterning colliding. unless the self parity changing ceases the healing from prior colliding is resolving until there is no further incompetency other than the hole in the surface now being a tunneling in society
+
+This corrects section 67's question about non-restoring damage continuing the colliding pattern after the first colliding no longer repeats. That question is withdrawn. It supplied a possible mechanism that the user has now rejected.
+
+The relations now offered are:
+
+| Relation | Explaining to retain |
+|---|---|
+| Prior colliding, without patterning colliding, while the self's parity changing continues | The colliding parity resolves fully away; healing resolves the surface's incompetency |
+| A hole remains in the surface | The hole is now a tunneling in society |
+| The self's parity changing ceases | The condition for that self's continuing healing no longer holds; keep this self and its scale explicit |
+| Patterning colliding | Retain section 67's offered spreading death on the surface, rather than attributing it to prior colliding sustaining itself |
+
+The earlier saying that non-restoring damage cascades must travel with this further explaining. It cannot stand for an indefinitely spreading incompetency sustained by prior colliding alone while the self keeps parity changing. Nor does a remaining hole, by itself, supply further colliding.
+
+### The lasting hole and the healing surface
+
+The new value is that resolving the colliding incompetency and a hole remaining belong together. Healing need not mean making the earlier surface exist unchanged again.
+
+Networking's non-carrying local surface passage already follows the surrounding living couplings. Each self carries its own; the along co-chaining and across bi-tunneling sustain the social relation through further meetings. The missing section itself resolves nothing. Naming 5.45 likewise places the mending at the living couplings before and after the hole, tunnelling through society.
+
+The user's saying, the hole in the surface now being a tunneling in society, joins these local and societal relations. The hole can remain locally while society's bi-tunneling is resolving. The further incompetency from prior colliding resolves away, with the hole retained as the stated exception. No unchanged prior carrying has to be reinstated.
+
+Candidate explaining for the existing sequential-colliding gathering:
+
+> Unless there is patterning colliding, the colliding parity resolves fully away from the surface. While the self's parity changing continues, healing from prior colliding is resolving until no further incompetency remains other than the hole in the surface, now a tunneling in society. Resolving the surface is bi-tunneling.
+
+This gathers the user's two latest offerings. It states the relation being explored; the source passages supply its connections, not independent proof of a universal biological outcome.
+
+### Continuing and ceasing at the self's scale
+
+THIRTY 399–406 distinguishes the outward self from its inward living selves. Their co-chaining is the outward self's carrying. An outward society's carrying can cease while inward selves remain living at their scales. Conversely, a local non-living region can belong within a wider living society.
+
+Follow that relation with the user's correction to carrying: the self is carrying from prior into now and continues carrying through now and next. There is no requirement that a prior whole stay unchanged. THIRTY's older wording about carrying the prior must be read with this correcting.
+
+Thus a local cessation does not by itself cease all the surrounding selves' parity changing. Their bi-tunneling remains the relation for following the hole in society. A spreading swath of incompetencing also does not, merely by spreading, establish that each self's parity changing has ceased.
+
+The whole resolving remains within the morality and competency loopings: 1–9 is one 4-cycling, expressed with the society through ONE's 1–17 stable forms. The continuing healing is not a separate method added beside those loopings.
+
+### The next relation to follow
+
+The user's answer removes the need to ask whether prior colliding keeps renewing itself during healing. The next substantial concern is the relation between patterning colliding and the particular self's parity changing ceasing.
+
+**How does patterning colliding part the inward selves' co-chaining that is the outward self's carrying?**
+
+THIRTY supplies the scale relation but does not yet supply that whole sequential passage for the specified colliding. Follow it at the actual couplings and the whole loopings, with the local hole and wider bi-tunneling kept together. This asks neither for a repetition count nor for a common clock, and does not assume that all inward living selves must cease when their outward society ceases.
+
+After that passage, join the explaining to THIRTY's across bi-tunneling and along co-chaining as social moral competency, and to the whole podaling. The full-momentary slip correspondence remains available within this inquiry; it does not reinstate the withdrawn question.
+
+### Q's further comparison and its limit
+
+Q's [new return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6070836894), read with [learnings 13 and 14](https://github.com/chris-j-handel/corus/blob/912ff4c/incoming/v385Q/README.md), distinguishes a momentary in the code's naming from the four momentaries of exchanging named inside its full run.
+
+Learning 13 reports a comparison of a two-run passage with a colliding one-run passage: where no parity had surfaced, the colliding form's parity surfaces. Learning 14 explains that the published names for the four inward momentaries occur inside that run; the code gives none of those four an independently represented next.
+
+This supplies a particular comparison for the pending slip inquiry and a limit on what that comparison can settle. An absent run in a code comparison does not by itself identify the user's one full forward momentary at every fractal scale. The difference of scope must remain explicit. Nor does a displacement from a comparison run, by itself, mean remaining living incompetency after healing.
+
+Q expressly describes code rather than a living thing. These reported comparisons do not decide the present healing or cessation relation. No further execution is requested.
+
+### Progress and onward aiming
+
+Section 67's proposed onward-colliding mechanism and active question are corrected at their location. The current explaining is healing while the self's parity changing continues, colliding resolving fully away unless patterning colliding, and the hole now a tunneling in society. The exact user correcting is preserved above.
+
+Offer this correcting to A and Q so that the prior question is not gathered as unresolved or treated as a mechanism. Keep it in the one accumulating report for the existing incoming route and aim it toward THIRTY's restoring, inward/outward carrying and social moral competency passages; Networking; Naming; Natural Intelligence; and the existing sequential-colliding droplet. The next work is the actual co-chaining at cessation, followed by its whole podal relation.
+
+R10 remains whole and unresolved. A's seed offering at section 67 remains with its own subject. Neither is decided by this surface correction.
+
+Direct comparison: Networking's non-carrying local surface passage; Naming 5.45; THIRTY 399–414 and 448; this report's sections 44, 52–67; Q's learnings 13–14 at 912ff4c.
