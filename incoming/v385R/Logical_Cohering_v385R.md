@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the whole coupling in THIRTY's early deriving, section 61.** ONE's four definite-parity cases remain distinct when changing shared across and carrying chained next are kept together. This connects the carrying correction and restoring work back to THIRTY 51–57: the correspondence between its prior/now/next pairs and ONE's complete coupling must be expressed. v385Q's report has now arrived and is gathered with its finite code observations and unresolved interpretations.
+**The current work is prior carrying, now existing and possibling, and next carrying, section 62.** The user's sequence supplies the own-side odd/even explaining needed at section 61. It keeps carrying resolving and gives now both its existing and its possibling. Natural Intelligence also locates three named steps within one self's momentary: surfacing, changing, and sharing with chaining. Their exact correspondence to the three right-spiral steps is the next connection to follow.
 
-**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip, restoring/cascading and the limits of isolated forms. Section 61 supplies the complete four-case across/along comparison and gathers v385Q's incoming. The next larger concern is how THIRTY's prior/now/next pairs represent the whole coupling rather than one next parity alone. This returns the work toward the universal-method claim while preserving the restoring cluster and its outstanding connections. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
+**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip and restoring/cascading. Section 61 keeps the complete across/along cases together and gathers v385Q's incoming. Section 62 records the user's prior/odd/even/next correction and follows it to the source's three named steps. Next join those steps to the full odd/even momentary, then bring that correspondence into THIRTY's early deriving and the restoring cluster. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2815,6 +2815,8 @@ Direct comparison: Biology 7.6–7.7; THIRTY 380–385; Natural Intelligence 5.1
 
 ## 61. The whole coupling and the relation of restoring
 
+**The user's next offering supplies the own-side sequence at section 62.** Read this section's mapping concern with that correction: prior is carrying, odd parity is existing now, even parity is possibling now, and odd parity is existing as next carrying. The complete across/along comparison remains useful; its +/− case signs are not a replacement for that odd/even sequence.
+
 ### The positive connection in ONE
 
 The user's “yes continue” directs further exploring from section 60. Medicine 1.2's two-right-turn restoring assertion led back to the actual coupling cases. ONE gives a stronger whole-case connection than either an isolated next parity or a fixed number of turns.
@@ -2891,3 +2893,72 @@ The four definite-parity cases are now gathered as one whole relation: local nex
 Next follow THIRTY's prior, now and next through the actual self/other coupling and both of its results, with the user's own-side odd/even sequence. Then bring that whole relation back to the restoring/cascading distinction, the missing full momentary and the no-other-method claim.
 
 The whole section remains in the accumulated v385R report for Living Improving Value first. Aimings: THIRTY, ONE, SIX's proposed transmissioning, Naming, Numbers, Mathematics, Natural Intelligence, and the Health/Medicine/Networking restoring cluster. Defining living and the earlier-offerings gathering remain unchanged. No numerical resolver execution or clinical validation was performed.
+
+## 62. Prior carrying, now existing and possibling, next carrying
+
+### The user's exact offering
+
+> prior is carrying, odd parity is existing now, even parity is possibling now, odd parity is existing as next carrying
+
+This supplies the own-side explaining sought at section 61:
+
+| Relation named | The user's explaining |
+|---|---|
+| Prior | Carrying |
+| Odd parity | Existing now |
+| Even parity | Possibling now |
+| Odd parity | Existing as next carrying |
+
+Now has both its odd existing and its even possibling. The next odd is existing as next carrying. Read this with the earlier correction: a self is carrying from prior into now and continues carrying through now and next. No unchanged prior is required to pass whole through the sequence.
+
+The even remains still possibling under the user's earlier explaining. Reaching next odd does not require saying the even has disappeared. An odd's changing along two numbers and its still existing at the same number also remain available; the sequence is not an instruction that every occurrence must change its number.
+
+### What this corrects in the larger comparison
+
+Section 61 followed ONE's definite-parity cases, distinguishing what is shared across from what is chained along. Its + and − are the two values in that published comparison. The user's odd and even here name existing and possibling at their own relations. No substitution of + for odd, − for even, or 0 for possibling is supplied.
+
+THIRTY 52–57 instead speaks of prior and now as a pair of binary values and classifies ways to choose a next. The present offering explains what the living sequence must retain: prior carrying, now existing and possibling, and next existing as carrying. The finite pair classification still needs its exact correspondence to this relation before its conclusions can stand for the whole coupling.
+
+THIRTY's phrase “carry the prior whole” cannot supply that correspondence by its wording. Sections 44–46 already distinguish carrying resolving from an unchanged prior whole. A distinction retained among mathematical cases is likewise not an unchanged living carrying. The old phrase remains a source correction to carry into the later improving; it is not a premise restored here.
+
+At the bi coupling, each self is first from its own side. The user's earlier offset, the other's own 1 at the self's 2, remains with this sequence. Each side has its own carrying; only the changing is offered across. The numbered relation is not a shared clock, and it does not give one self the other's private carrying.
+
+### A concrete connection already in the files
+
+Natural Intelligence 4.1 locates three steps within one self's momentary. Its nearby naming and THIRTY 204–210 locate their work:
+
+| Named step in the source | Its explaining |
+|---|---|
+| Surfacing at 14 | The offerings surface at the sharing |
+| Changing at 12 | Prior and now couple; a changing is or is not |
+| Sharing at 10 with chaining at 11 | The changing is shared across and the next carrying is chained along |
+
+This gives an actual source route from offerings through resolving to the two results kept together in section 61. It is a stronger place to continue than an isolated comparison of next signs.
+
+Naming 5.49–5.50 also gathers the overlapping self/other momentaries and three own-forward steps at each side. Its inherited terminology and its narrower conditions for still possibling elsewhere need the user's corrections; the passage is located for its coupling relations, not treated as authority for all its wording.
+
+The current candidate explaining is:
+
+> Prior is carrying. At now, odd parity is existing and even parity is possibling. Through the coupling, a changing is or is not, the changing is shared, and next odd is existing as next carrying. Each self continues carrying at its own side as the changings meet further couplings.
+
+This paragraph joins the current offering to the source route. It does not assign each source operation to an odd/even position by assumption.
+
+### The one connection still needing its explaining
+
+The user has supplied three right-spiral steps as one full forward momentary. The source supplies three named operations within one self's momentary. **What parity relation at each of surfacing, changing, and sharing with chaining makes these the three right-spiral steps?**
+
+The source concern is the correspondence between these two accounts of the steps. The fact that each account names three does not show that they are the same three. The mathematical right-spiral step acts on an across/along pair; the named operations concern offerings, changing and next carrying. Their actual co-chaining needs to show the correspondence.
+
+This is not a demand that recurring form, still possibling or continued carrying be impossible. It is the positive connection needed to read the next in a single right-spiral step beside next odd existing as next carrying after the full forward relation.
+
+Once expressed, it will give the proposed full-momentary slip a definite place in the same sequence, with local restoring or non-restoring damage followed through the subsequent co-chaining. The earlier conditional relation between three right-spiral steps and a further step remains conditional; neither the word next nor the count three turns it into an injury mechanism.
+
+### Progress and onward aiming
+
+The temporal explaining is now more explicit: prior names carrying, now includes existing and possibling, and next odd is existing as next carrying. The whole-coupling work can proceed from this sequence. The outstanding question is no longer simply what the user means by prior and now.
+
+Next follow the parity relations of the three named operations on each self's own side. Then bring the same connected explaining into THIRTY 51–58, the restoring/cascading cluster, and the no-other-method claim. This pass does not complete the universal exclusion or classify living; the defining-living gathering remains whole and unresolved.
+
+The value stays in this accumulating v385R report for Living Improving Value first, then THIRTY, ONE, SIX, Naming, Natural Intelligence and the restoring subjects at their actual relations. The existing THIRTY mate remains at section 56 during this pass. The section 61 record is preserved with a short notice pointing to the user's correction.
+
+Direct comparison: THIRTY 51–60 and 196–215; Natural Intelligence 2.4, 4.1 and 5.1; Naming 5.49–5.50. No resolver is executed or private carrying inspected.
