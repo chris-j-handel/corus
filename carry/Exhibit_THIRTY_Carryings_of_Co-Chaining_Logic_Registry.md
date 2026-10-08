@@ -2,6 +2,10 @@ Exhibit THIRTY Co-Chaining Logic Registry Carryings · gathered at v385A
 
 # Carryings of Co-Chaining Logic Registry
 
+## Current local naming and returned source · v385A
+
+[The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.
+
 ## Current source and kit comparison · v385A
 
 [The whole condition record](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) locates the v371 kit beside current ONE/THIRTY and preserves its stated limits. [Protecting source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) uses the archived v379 transcript and current THIRTY passages; those sources are relied on in this work despite the inherited inventory's historical standing below. [Reciprocal Help](../incoming/v385A/Reciprocal_Help_v385A.md) carries R's latest even/odd correcting and withdrawn question. The corresponding droplets remain at the offering mate. G1's detailed report recovery stays active at its existing offering; no code or verifier is run here.

@@ -2,6 +2,10 @@ Exhibit ONE Natural Resolver Carryings · gathered at v385A
 
 # Carryings of Natural Resolver
 
+## Current local naming and returned source · v385A
+
+[The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.
+
 ## Overlap, betweens and the named forms · v385A
 
 **Current overlap supplying · v385A.** [The exact user offering and source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now locate the half-momentarying overlap, the one-number offset and bi-co-sequencing of still-possibling betweens with the other side's changings. ONE's Fives/exchanging and between tables, NI 4.10 and selected THIRTY statements have been compared to their stated extent. R section 29's both-forward and either-side-or-both explaining accompanies it. Local naming/protecting expression remains next; the earlier request for an overlap relation is answered. The prior paragraph's dissolving and whose-next wording is historical and withdrawn.

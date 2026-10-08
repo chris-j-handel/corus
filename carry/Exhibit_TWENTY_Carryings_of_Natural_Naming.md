@@ -2,6 +2,10 @@ Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
 
+## Current local naming and returned source · v385A
+
+[The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.
+
 ## Protecting and the subjects of the common naming · v385A
 
 [The comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) locates Naming 1.1–1.3's existing care, concept-boundings and coupling beside Destinies. Its existing v379 protecting droplet and NI's three-betweens droplet retain the actual user offerings. The four concept-boundings, four across connectors, eight even-name bi-couplings and older inside/outside readings each need their own subjects kept explicit. The new structural comparison links the existing concerns; it does not copy them as newly missing value.

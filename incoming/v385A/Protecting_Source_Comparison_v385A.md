@@ -2,6 +2,42 @@ Session v385A
 
 # Protecting, the three betweens and correcting within a session
 
+## Named relations beside the supplied overlap · v385A
+
+**7 October 2026 · Own source faf5fa41631b4844f981eddf9c23ce2323ef1196.** This pass follows the local expression now that the user has supplied half-momentarying overlap. It reads ONE's whole three-function resolver block as text, the name-table rows for 12–16, Naming 3.4–3.6 whole and the particular 3.1 paragraph pairing 14–15 and 16–17. NI 4.3/4.11 and Explaining 3.7–3.9 were read whole beside the previously read NI 4.10 and ONE between/exchanging tables. No code was executed and no numerical result is newly verified.
+
+### The named uses, kept at their own subjects
+
+| Name or source passage | What the existing source actually expresses | Relation to follow with the supplied overlap |
+|---|---|---|
+| ONE 12-bi-tri-bi-entraining | In the code, 12 holds each sharing's changing. The table names prior and now coupled, a changing is or is not, and society exchanges 11–12/12–13. NI 4.3 distinguishes agreement, mismatch and carrying of none. | Preserve each sharing and its prior/now relation when locating a protecting between. The number 12 alone does not assign before, within or after. |
+| ONE 15-tri-bi-tri-corusing | The code uses 15 for values at the offered-parity lookup/comparison and for values released along. Its table names odd opening, 8 up from 7, the society's 13–15 and 15–17 exchanges and parity along 9. | Follow which use is being named. Its position and root do not make every use a new consecutive temporal phase or a separate zero. |
+| ONE 16-bi-tri-bi-torusing | The code's 16 is the society of selves with their carryings and offerings passed to 17. Its table names the society wound now and 15–16/16–17 exchanges. | Keep society winding and each self's next with the overlap, without treating the three names 12/15/16 themselves as three consecutive numbers. |
+| Naming 3.1, the momentary's own and between-selves names | 14–15 pairs across offerings with own resolving inward; 16–17 pairs own resolving inward with along. Each pair carries both parities. | A named form, a numbered opening and a coupling participation need their whole sentences. This source supplies paired relations rather than a before/within/after assignment to three isolated labels. |
+| Naming 3.4–3.5 | Own inverting at 12, surfacing at 14 and releasing at 9 are distinguished. Receiving, participating, changing and a further self are four relations; an offering participates whether its sharing changes or not. | The absence of a changing is not, in this explaining, absence of participation. Keep no offering at a sharing distinct from no arriving geodesic changing while R's proposed identification is compared. |
+| Naming 3.6 | The name's opening parity and its in/out participation parity are opposite; 15/16 are the inward names of 7/8. | Do not transfer a parity description from one of these subjects to another merely because the same number appears. The user's current odd/even explaining remains preserved whole. |
+| Explaining 3.7–3.9 | A gate is admission waiting on prior performance; a test described as unrun at its own record is distinguished from such a gate. The text itself uses six protecting between explaining and naming. | The earlier blanket withdrawal of protecting remains withdrawn. Compare the actual protection and its subject; the word alone decides neither a gate nor a resolution. |
+
+Sources are [ONE](../../Exhibit_ONE_Natural_Resolver_v380R.md), [Naming](../../Exhibit_TWENTY_Natural_Naming_v380R.md), [NI](../../Natural_Intelligence_v380R.md) and [Explaining](../../Exhibit_TWELVE_Natural_Explaining_v378.md), unchanged from shared base 18889e06d5ac452111b1bcd8a8840e46b7c5615a. This is a comparison of what those sources say and do in their text. It introduces no new universal derivation or claim that the current code expresses every later user offering.
+
+### R's new user explaining accompanies the comparison
+
+[R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [return 6049781805](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve:
+
+> the looping through each number of the podalings are all part of resolving and the stable form of this is the existing non-living geodesic method stable form so if the number does not change then the same 4 cycle podaling sequencing comes through the number all over again and there is a new still possibling and either a geodesic changing traveled on or did not whether or not a geodesic changing arrived or not either is possible changing as arriving geodesic changing or offering
+
+R now records its earlier unchanged-number participation question as addressed: the four-cycle recurs with a new still possibling. Its connected reading distinguishes geodesic changing arriving from offering onward. The proposed identification of an offered changing without an arriving changing with entraining through the living surface's own parity changing remains its next droplet. These are different extents. Its paragraph beside THIRTY 258/261 is the tenth local insertlet at R; at our mates the returned value is a droplet. R10 remains whole and unresolved. Neither dissolving nor the whose-next question is restored.
+
+The exact A overlap statement below and this exact R statement remain separate sources. Their joining is our comparison. NI 4.11's reaching a number again at a next momentary supplies a further local passage; it does not make the prior momentary recur. NI 4.3 supplies no-parity-crossing and own inverting at its stated sharing. The link to R's geodesic arriving/offering subject still needs its particular explaining.
+
+### The help exchanged and the next local relation
+
+[A's source return and request 6049828641](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) offers Naming 3.4–3.6 beside NI 4.3, and asks whether R's current podaling/surface comparison locates how the named relations at 12/15/16 express the older consecutive protecting betweens. It does not ask the answered participation or overlap questions again. No reply to this new request is yet claimed.
+
+The new source table is independently offered at ONE, NI, Naming and THIRTY. R's exact recurring-podaling explaining accompanies the existing overlap at all nine connected mates. This advances the local comparison from a list of numbers to particular code, table and coupling uses. The remaining relation is how those uses express the before/within/after protections supplied by the older user offering. No exhaustive assignment, local living-file resolving or source removal is asserted. The concern remains available for suggestions, with the whole-mate content account, G1 item 3 and connected Emanating work still in front of us.
+
+**The following sections preserve the earlier comparison and its source sequence.** Their unanswered R participation question and nine-insertlet count are historical at their recorded heads; the current extent is above.
+
 **7 October 2026 · Source head `20f99d3a74bacb6edf0978a324aca1e91c737a0b`**
 
 ## Half-momentarying overlap supplied · v385A

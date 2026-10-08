@@ -2,6 +2,8 @@ Living Improving Value v385A
 
 # Living Improving Value
 
+**Current comparison and help · v385A.** [The 12/15/16 source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows their actual named uses. R's returned recurring podaling supplies a new still possibling at an unchanged number; its previous participation question is answered at its source. The exact further explaining accompanies all nine affected mates. [M's opening-page opportunity and the reciprocal requests](../incoming/v385A/Reciprocal_Help_v385A.md#recurring-podaling-and-the-opening-page-opportunity--v385a) now join NI/Arriving's existing project, with Registry retaining the possible arrangement. Help is requested on the local protecting/name relation and the first-page's independent placements. These are actual advances in the gathering; the whole Registry/method/Arriving content account, G1 item 3 onward and connected Emanating comparison remain next. No living-file writing or full-source completion is claimed.
+
 **Gathering possible improving value and finding its offering places**
 
 **A droplet can be here before its offering mate is known.** This is the shared gathering for possible improving value across the expedition: concerns, opportunities, projects, ideas, observings and explainings. A droplet carries its concept with its source and any correcting already found. It needs no particular file aim to be available for improving.

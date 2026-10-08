@@ -2,6 +2,14 @@ Natural Intelligence Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence
 
+## The current opening beside the earlier arriving sources · v385A
+
+[M's first-page assessment](https://github.com/chris-j-handel/corus/blob/0b739c7cf56f807b6e52119c6f95356f00fd7c93/incoming/v385M/Improving_Opportunity_v385M.md) is now an independent droplet at NI, Arriving and Registry. The [reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#recurring-podaling-and-the-opening-page-opportunity--v385a) keeps its partial-set reading, all eight opportunity routes and the actual help exchanged. Follow the common method explaining at NI and the interest's orientation at Arriving beside the existing Corus Part ONE/v382F and earlier entry sources. This adds a current reader's experience to the existing project; it does not replace that project or declare its whole content gathered. The exact first-page writing and its local relations remain further work, with [M's help welcomed](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049829668). Its underlying droplet collection, pacemaker exploring and scripts remain later incoming.
+
+## Current local naming and returned source · v385A
+
+[The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.
+
 ## Common coupling and structural conditions · v385A
 
 [The Destinies comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) follows existing NI 6.1–6.4 coupling and social explaining beside Destinies' core, and NI 4.10 beside its structural conditions. The two comparison droplets remain at this offering mate, Naming, Destinies and Corus. The earlier v379 three-betweens concern is already here; its original user sayings and the assistant's changing mappings are located in the report. Follow that source with Naming's protecting concern and R's later next-existing distinction. No equal-count mapping or completed protection follows from grouping them.
