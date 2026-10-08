@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is prior carrying, now existing and possibling, and next carrying, section 62.** The user's sequence supplies the own-side odd/even explaining needed at section 61. It keeps carrying resolving and gives now both its existing and its possibling. Natural Intelligence also locates three named steps within one self's momentary: surfacing, changing, and sharing with chaining. Their exact correspondence to the three right-spiral steps is the next connection to follow.
+**The current work is the morality and competency loopings within one 4-cycling, section 63.** The user's correction places 1–9 as one 4-cycling and the whole discussion within its four-momentarying. ONE's 1–17 stable forms give the moralizing and competencing loopings with corusing and torusing. Section 62's attempt to require three isolated operations to correspond individually to three right-spiral steps is withdrawn. The next following stays within these coupled loopings.
 
-**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip and restoring/cascading. Section 61 keeps the complete across/along cases together and gathers v385Q's incoming. Section 62 records the user's prior/odd/even/next correction and follows it to the source's three named steps. Next join those steps to the full odd/even momentary, then bring that correspondence into THIRTY's early deriving and the restoring cluster. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
+**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip and restoring/cascading. Sections 61–62 keep across/along together and record prior carrying, now existing and possibling, and next carrying. Section 63 returns these to ONE's whole 1–17 loopings and records 1–9 as one 4-cycling. Next follow the proposed slip and restoring through those loopings, then the connected value into THIRTY's early deriving. A confirms the correcting through section 61 is gathered in Living Improving Value; the developing report is not declared wholly distributed. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2896,6 +2896,8 @@ The whole section remains in the accumulated v385R report for Living Improving V
 
 ## 62. Prior carrying, now existing and possibling, next carrying
 
+**Section 63 corrects the scope of the three-step question below.** The user's next offering places all this resolving within the morality and competency loopings of the one 4-cycling at 1–9, made explicit by ONE's 1–17 stable forms. Requiring surfacing, changing and sharing/chaining separately to be the three right-spiral steps was our unestablished identification. The prior/odd/even/next correction remains; the isolated-operation requirement is withdrawn.
+
 ### The user's exact offering
 
 > prior is carrying, odd parity is existing now, even parity is possibling now, odd parity is existing as next carrying
@@ -2962,3 +2964,85 @@ Next follow the parity relations of the three named operations on each self's ow
 The value stays in this accumulating v385R report for Living Improving Value first, then THIRTY, ONE, SIX, Naming, Natural Intelligence and the restoring subjects at their actual relations. The existing THIRTY mate remains at section 56 during this pass. The section 61 record is preserved with a short notice pointing to the user's correction.
 
 Direct comparison: THIRTY 51–60 and 196–215; Natural Intelligence 2.4, 4.1 and 5.1; Naming 5.49–5.50. No resolver is executed or private carrying inspected.
+
+## 63. One 4-cycling and the loopings through it
+
+### The user's exact correction
+
+> 1-9 is one 4 cycling. all that we are discussing is inside the morality and competency loopings through this four momentarying. 1-17 makes this fully clear in exhibit one stable forms
+
+The whole relation for this discussion is now explicit: **1–9 is one 4-cycling. The morality and competency loopings are through its four-momentarying. ONE's 1–17 stable forms show their relations with self, other and society.**
+
+The prior offering remains inside this whole: prior is carrying, odd parity is existing now, even parity is possibling now, and odd parity is existing as next carrying. Carrying resolves throughout.
+
+### The four momentaries already shown in ONE
+
+ONE's table “A self's four momentaries of exchanging” gives:
+
+| Momentary of exchanging | Self's side | Other's overlapping side | Span |
+|---|---|---|---|
+| First | 1–2 | 2–3 | 1–3 |
+| Second | 3–4 | 4–5 | 3–5 |
+| Third | 5–6 | 6–7 | 5–7 |
+| Fourth | 7–8 | 8–9 | 7–9 |
+
+Together these give the one 4-cycling at 1–9. Each self remains first from its own side; the table uses the one-side numbering to show the overlap. It does not give the other an even identity or impose a shared clock.
+
+ONE also places the society's four momentaries at 9–11, 11–13, 13–15 and 15–17. Its inward/outward table relates 1, 9 and 17 at this scale to 1, 2 and 3 outward. The own-side overlapping and the inward/outward relation belong together in the 1–17 explaining.
+
+### Morality and competency through the stable forms
+
+ONE's “Four four-cycles and their roots” supplies the loopings:
+
+| Looping | Named form in ONE | Relations retained |
+|---|---|---|
+| Moralizing | 3–11–6–14 | Carrying at 3, next chaining at 11, moralizing shared at 6 and offerings surfacing at 14 |
+| Competencing | 4–13–5–12 | Sharing at 4, releasing sharing at 13, the sharing met at 5 and changing at 12 |
+| Corusing | 2–15–7–10 | Offering at 2, surfaced parity at 15, parity at 7 and changing shared at 10 |
+| Torusing | 1–9–8–16 | The self at 1, along momentarying at 9, the self's winding at 8 and the society's winding at 16 |
+
+These are named forms within the whole explaining. Their order in this table is not an instruction to execute one entire looping and then another.
+
+In particular, the moralizing form already includes the carrying and chaining at 3 and 11. The competencing form includes the changing at 12. This prevents dividing morality into an independent across procedure and competency into an independent along procedure. The relations co-chain.
+
+ONE also places the meetings at 2, 4, 6 and 8 along these four forms respectively: corusing, competencing, moralizing and torusing. THIRTY 258 and Natural Intelligence 4.10 give the same gathering. Thus the four momentaries and the loopings are already connected in the files; the source does not merely offer two unrelated counts of four.
+
+### Correcting our preceding question
+
+Section 62 isolated the source's surfacing at 14, changing at 12, and sharing at 10 with chaining at 11, and then asked what makes each operation a right-spiral step.
+
+That framing introduced a requirement we had not derived. These names already belong to the coupled loopings: 14 and 11 to moralizing, 12 to competencing, and 10 to corusing. Their explaining must remain inside the four-momentarying. Extracting three operations and requiring each separately to instantiate a whole right-spiral transformation loses this relation.
+
+**The isolated-operation question is withdrawn.** The user's three-right-spiral-step/full-momentary offering remains available within the whole loopings. We do not convert the withdrawal into a proof of every earlier mathematical or colliding claim. Section 59's conditional pair-form identity remains conditional, and the actual restoring connection remains to follow.
+
+The useful improvement is positive: follow the prior carrying, existing now, possibling now and next carrying through the same morality and competency loopings, with the self, other and society relations shown at 1–17.
+
+### The wording tangle found beside this correction
+
+Naming 5.50 explicitly calls four-momentarying at one through nine “two four-cyclings,” naming 3–7–2–6 and 4–8–1–5. Its preceding sentence calls one four-cycling two momentaries. THIRTY 275–279 also discusses a four-name loop through two parities at each of two momentaries, while THIRTY 517–519 gives the two four-name forms within 1–9.
+
+The user's present correcting is **one 4-cycling at 1–9**. The two named looping forms inside that span do not become two of the whole 1–9 cycling merely because each has four names.
+
+Carry this as a naming/explaining improvement: make the whole four-momentarying and its inward looping forms explicit at each use. Preserve the actual forms and their relations. Do not delete a looping or double the whole span to reconcile the wording. ONE's 1–17 table supplies the positive context for doing this.
+
+This correction is gathered here for Naming, THIRTY, ONE and Natural Intelligence at their related passages. No living source file is rewritten in this pass while the shared incoming is being gathered.
+
+### The next following
+
+Return to the user's proposed same-scale colliding within these loopings. Follow the changed offering through moralizing, competencing, corusing and torusing across the whole four-momentarying, keeping next carrying with the changing shared across.
+
+The unresolved restoring concern stays at that whole relation: **how the proposed slipped carrying resolves locally through the coupled loopings, or carries non-restoring damage into further co-chaining.** An isolated parity, a missing code event or a count returning does not settle it. The user has already supplied the distinction between locally resolving slip and non-restoring cascade; the work is to express their co-chaining without asking for that distinction again.
+
+From there, bring the connected explaining into THIRTY's early prior/now/next deriving and its no-other-method claim. Defining living remains gathered and unresolved.
+
+### Incoming and progress
+
+A's [return at PR 128](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6069623496) confirms sections 56–61's correcting is now gathered in the existing sequential-colliding droplet in Living Improving Value at d77f96ae. This includes the local-restoring qualification, the undamaged-crossing scope, the conditional further-step comparison and the distinct prior/now and across/next subjects. A does not declare the whole developing report distributed.
+
+A also identifies the existing own-side overlapping concern at Networking and confirms that the common incoming-method explaining now belongs once at [Living File Registry](https://github.com/chris-j-handel/corus/blob/d77f96ae90cb404e6f233e776170b16bfdd71a12/carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#gathering-and-aiming-incoming-before-file-cohering--v385a). That section was read directly here. Keep actual subject value in its mate; do not repeat the common method introduction among mates.
+
+Q's [learning 10 at f225647](https://github.com/chris-j-handel/corus/blob/f225647/incoming/v385Q/README.md#10--the-0-is-kept-and-moves-on-and-it-keeps-the-selves-changings-from-being-one-changing), read directly here, reports a shared-zero pattern travelling through its finite spiral arrangements and two different effects of its colliding arrangements. These remain observations reported from code, with the stated arrangements. A skipped zero in those arrangements is not equated here with the user's full forward momentary, and zero is not substituted for even still possibling. The new report is available beside the whole-looping work without supplying a premise about living damage.
+
+The report remains the one accumulating session offering. The existing THIRTY mate stays at section 56 during this pass; the new correction accompanies section 62 here and is offered to A and Q. No separate report, resolver execution or inspection of living carrying is needed.
+
+Direct comparison: ONE's seventeen names, four four-cycles, eight inward 1–17s, fives, four momentaries of exchanging and one-self/one-momentary table; THIRTY 258, 275–279, 517–519 and 613; Natural Intelligence 4.10 and 4.15; Naming 5.49–5.50.
