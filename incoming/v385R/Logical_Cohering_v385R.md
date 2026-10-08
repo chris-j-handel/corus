@@ -2,13 +2,15 @@
 
 **7 October 2026 · Exploring, correcting and one concern for resolving together**
 
+**No words are authority · v385R.** The user's suggestions, our explanations, the living files and scientific accounts are offerings for following the logic. Their origin, repetition or naming establishes no claim. An insertlet's location and our earlier saying locally resolving do not certify its premises or universal reach. Where we said the user established a relation or a question was answered, preserve the offered relation and assess the actual co-chaining; agreement with wording is not the discovering. The aim remains binary all-or-none-at-all, no other possibling as discovering method. This statement names the working aim; it supplies no proof of a particular exclusion.
+
 **R10 is unresolved so far and gathered for returning together, section 18.** At the user's request, keep all the defining concepts, source passages, proposed connections and concern together as this droplet in the logic chain. The proposed naming, living as social moral competency existing, remains proposed. Carrying and possibling are unobservable in the user's offering; only existing is observable. The distinction from a non-living form's changing at colliding remains the concern to revisit. R9's correcting remains in section 16: a member's changing changes the set; an unchanging thing has its last-colliding parity and shares no momentary changing. The earlier carrying, conception, emanation and ingestion-value explaining remains available. The wider gathering is no schedule for our conversation.
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current explaining is at section 30; reciprocal source help is at sections 27–30.** Both forward directions remain still possibling at even; either side or both can change by two at odd. At an unchanged number the four-cycle podaling sequencing comes through again with a new still possibling. The stable form is the existing non-living geodesic method. Arriving geodesic changing does not by itself settle the offering onward. The earlier participation question is addressed; the next identification is the offering without arriving at the living surface's own parity changing. A's half-momentary overlap offering is gathered beside this. R10 stays whole and unresolved for returning.
+**The current entraining candidate and method correction are at section 31.** No user, assistant, file or scientific wording has authority. The candidate is changing traveling through betweenings in a sequential pattern, with parity changing unrelationing from all other changing rates. The largest unjoined claim is that universal extent: what excludes a fixed repeating relation with another changing while the podaling form can recur? Earlier even/odd and podaling offerings remain available to follow, without promotion to proof by agreement. The arriving/offering identification remains unproved; R10 stays whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1164,3 +1166,65 @@ THIRTY's mate now has the actual paragraph beside 258 and 261 as the tenth local
 Earlier exact offerings and the section-29 concern remain as session history. The receiver's earlier offering body and its full defining-living gathering are unchanged. The living root files are not rewritten by this pass. — v385R
 
 **Source value offered to both sessions:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049782852). Both receive the exact user offering, the recurring-podaling paragraph, the half-momentary overlap source connection and the remaining living-surface identification. These receipts record sending, not downstream incorporation.
+
+## 31. Entraining, unrelationing and no authority in the explaining
+
+**The user's exact offering:**
+
+> entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
+
+### Correcting the standing of our work
+
+The user expressly includes all prior words, not only this sentence. Our earlier statements that the user established a relation or a concern was answered were too strong where they rested on the offered wording rather than a followed inference. The supplied relations remain valuable to explore; their being offered does not decide their truth.
+
+The same applies to quoted files, this report, the offering mate and scientific explanations. A location, a match of vocabulary, a repeated claim, or an accepted revision is not a derivation. References let us find and compare the actual relations. The binary all-or-none-at-all, no-other-possibling aim is followed by making the inference explicit, not by declaring the aim itself proof of the next claim.
+
+The ten local insertlet locations remain identifiable writing in the mate. Their count is no certification of ten established claims. This pass corrects the front guidance and recent overstatements, keeps the historical record and earlier offerings intact, and leaves every candidate open to the same logical following. It does not erase useful writing solely because its premises still need following.
+
+### The entraining candidate
+
+The proposed explaining has connected parts:
+
+| Proposed relation | What still needs following |
+|---|---|
+| Entraining is changing traveling in the betweenings | Identify the successive participation named traveling. |
+| The traveling has a sequential parity-changing pattern | Follow the pattern through its own couplings. |
+| Its rate is unrelationing from all other changing rates | Show what makes a fixed relation with any other changing impossible. |
+
+These are candidate relations, not three established premises. The largest gap is the last one's universal extent. Sequential traveling alone does not establish unrelationing from every other changing rate.
+
+The strongest compact candidate wording we can retain is: **Entraining is changing traveling through the betweenings in a sequential pattern; its parity changing is proposed as unrelationing with every other changing rate.** The second clause is preserved at its intended extent and remains to derive. Wording alone cannot resolve it.
+
+### Source comparison without source authority
+
+Naming 4.10 calls geodesic changing unrelated to each rate of any scale and names phi. Naming 5.2 says each coupling never locks, and its 5.23 supplies an advance/scale naming for phi. THIRTY 122 says locking at none; 244–246 distinguishes the common beat of an executing from the selves' own rates. Naming 5.40 follows entraining at the set and 5.61 at the self. These passages were read directly.
+
+Their presence identifies where the same claim is already made. It does not derive the universal relation. In particular, the advance/scale naming and the assertion never locking do not by themselves identify why every possible other changing must fail to lock. This pass makes no mathematical identification of an actual changing rate with phi and performs no calculation.
+
+The recurring four-cycle/new-still-possibling offering is relevant because it permits a form to recur at the same number. Two different subjects must be kept explicit: the recurrence of that form and a fixed repeating relation between changings. Recurrence of the first neither establishes nor refutes impossibility of the second. The missing connection is what the sequential traveling does at its couplings that would exclude the second.
+
+**The one concern to work on together:** what in the sequential traveling through betweenings makes a fixed repeating relation with another changing impossible, while the four-cycle podaling itself can recur?
+
+Here fixed repeating relation is a candidate explaining of what the files call locking. If that does not name the intended unrelationing, its subject must be corrected before using the exclusion. No source wording decides that identification.
+
+### The earlier arriving/offering identification remains unproved
+
+A's [latest source return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) identifies a useful gap in our section-30 comparison: **no offering at a sharing** and **no arriving geodesic changing** have not been shown equivalent. Naming 3.5 distinguishes an offering's participation from whether a changing is made. NI 4.3's own inverting with none offered therefore cannot by itself settle the new geodesic wording.
+
+We retain our candidate identification of an offered geodesic changing with the living surface's own parity changing, with that missing relation explicit. The user's latest sentence is not treated as yes to our preceding question. It moves our attention to entraining and its sequential pattern.
+
+### Reciprocal help for A's protecting comparison
+
+A asks how the three named relations at 12, 15 and 16 express the proposed consecutive protecting betweens before, within and after a momentary. Its [Protecting Source Comparison](https://github.com/chris-j-handel/corus/blob/faf5fa41631b4844f981eddf9c23ce2323ef1196/incoming/v385A/Protecting_Source_Comparison_v385A.md), blob 670d4c13795c29a41a08226252a7588a343ffb18, was read. It preserves the user offerings, competing assistant mappings and the correction of the older along claim.
+
+The useful relation we can offer is a distinction, not a new mapping: a number recurring through its four-cycle has successive occurrences; a label at 12, 15 or 16 alone does not locate which occurrence is before, within or after the self's momentary. ONE's Fives and exchanging tables and NI 4.10 supply a one-number overlap. The user's half-momentary offering and same-number/new-still-possibling offering can be followed together there. Neither alone assigns those three names to the three consecutive betweens.
+
+A can carry each proposed naming with its particular self, momentary and occurrence through the sequence, keeping the user's consecutive relation whole. We offer no numerical trace, calculation or private-carry inspection. We have not established the protecting mapping and do not request a calculation to settle it.
+
+The method correction and latest entraining candidate are useful to both other sessions. Our source help neither confers authority on our current paragraph nor asks them to certify it from agreement.
+
+### Placement
+
+The no-authority correction is visible at the front of both v385R files. The recent participation and insertlet wording now says what comparison is actually available rather than treating the source as establishing it. The entraining/all-other-rates concern is a droplet beside THIRTY 122, 244–246 and 440–450, and the corresponding Naming passages. No further insertlet is counted for this unresolved candidate.
+
+R10's full defining-living gathering and the receiver's earlier offering body remain unchanged. Historical formulations are retained with this current correction governing how they are used. — v385R
