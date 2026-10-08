@@ -99,3 +99,10 @@ Where a section is named, it is the place this session read the sentence the dro
 49. **S, at v385R · the Co-Chaining Logic Registry, step 387; Natural Intelligence 5.1.** Every society is living, and its carrying is its living selves.
 50. **M · the Co-Chaining Logic Registry, steps 170 and 171.** `round_check.py`: step 170's count is so at two, three and four parities. Step 171's round is one of 1,344 at four parities, and one of 9 that are not one another renamed or exchanged. The count does not single it out.
 51. **M · the Co-Chaining Logic Registry, steps 492 and 494; Natural Intelligence 1.4.** *A second method at the whole surface* stands beside *no second method*. v385R's candidate takes the word out: an incompetencing fails to carry a particular social co-chaining, while the selves go on by the one method.
+
+## A second method, and how a concern is said
+
+55. **S · Natural Explaining; `incoming/README.md`.** *Do not quote the files say and then look for help. we only care about the binary all or none at all of this. this is like quoting anonymous sources for rigorous working.*
+56. **M · the Co-Chaining Logic Registry, steps 492 and 494; Natural Intelligence 1.4.** A thing beside one society is an existing thing among all existing things, and no thing beside all. A controlling is by the one method: at each controlling observed the living is alternating with its two present. *A second method* names nothing and comes out.
+57. **M · beside 56.** What would go against it: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
+

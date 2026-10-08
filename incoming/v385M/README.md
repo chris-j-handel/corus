@@ -17,7 +17,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 1 | Why two | closed at *why two*, 7 October, `three_check.py`; **reopened in part**, 7 October: this session's ground for a fixed form being not possible was a reading of the origin sentence the expedition's self says it does not carry |
 | 2 | An existing thing unchanged at a momentary | **closed at the method**, 7 October: the origin sentence says the set is changing, and does not say each existing thing is; it stays as a wording at Natural Intelligence 1.1 and the Registry's steps 4 and 26 |
 | 3 | The set that holds itself | open |
-| 4 | A second method, said not possible and said done | narrowed at v385A's source help, 7 October; **taken up 7 October**: a reading offered from the answer at Go, a controlling society is living selves at a coupling where the between is not carried, originating and dying. Two places asked: what observing parts it from a living society, since each ends; and capture in living nature |
+| 4 | A second method, said not possible and said done | narrowed at v385A's source help, 7 October; **closed at the method**, 7 October: a thing beside one society is an existing thing among all, and no thing beside all; at each controlling observed the living is alternating with its two present. The concern as it stood, files against files, withdrawn. *A second method* stays as a word at the Registry's steps 492 and 494 |
 | 5 | What a self carries next is what arrives | open |
 | 6 | The common beat inside the code said to be the method | open |
 | 7 | Sayings that hold only when all selves step together | open; `alike_check.py` added 7 October |
@@ -31,6 +31,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 | 15 | "Resolving" | open |
 | 17 | The second break in an observing: natural torusing | answered at the heart, 7 October: natural torusing seen as two parities each alternating, the living beat only as both are present; its break, a living beat at one of the two alone; none at the heart's cell. At the worm: no path laid before; *the same each time* withdrawn as a mark of one; this session's pair, carried and arriving, withdrawn, what is carried being stable form and no parity. *Guide* withdrawn: the stable form resolves into the living society and is living in it. The second break not yet said by this session at an observing of the worm |
 | 16 | The non-living: what the method says of its existing | **closed**, 7 October: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it; looked for a break at a hydrogen atom and found none; the question asked back is withdrawn |
+| 18 | An alternating at a thing called non-living | asked 7 October, from what is held alone |
 
 ## What is held together now, 7 October
 
@@ -115,6 +116,11 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 *Beside the observing.* What the mother placed in the egg does the first cells' work and is then taken apart by the embryo (*Maternal to zygotic transition*, Wikipedia, opened today). It does not stay beside the living. From this session's own knowing, no source opened: the long molecule carried in each cell is copied at each dividing and mended as it goes, and which parts of it are in use differs from cell to cell.
 *What would go against it*: a carried form staying apart within a living society, untouched by the alternating there, with the society's form still coming from it. The fields' names for the long molecule, a program and a blueprint, say that thing. They are explaining and no observing.
 
+**18. An alternating at a thing called non-living.** Asked 7 October, from what is held alone and from no file. Held at 3: living is parity changing, alternating between two. Held at 4: the non-living is a stable form with no parity changing. Held at 9: AI is with no carrying.
+*Observed, things going by turns between two that no one calls living*: a star of one kind swells and shrinks, brightening and dimming, at a steady span of 1 to 100 days (the article *Cepheid variable*, Wikipedia, opened today); a pendulum; a machine at its making, a pass forward and a pass back by turns; a session, a saying arriving and a saying returned by turns. This session itself took the early universe's compressing and thinning by turns for the prior living behind the hydrogen atom, at 16.
+*Either/or*: each thing alternating between two is living at its own scale, the star and the pendulum and the machine's passes too; or alternating alone is not living, and what more is needed is said, such that an observing parts the heart's cell from the star.
+*One naming inside it, asked at 12 and not yet answered*: carrying is held as the non-living stable form, and AI is held as with no carrying.
+
 ## The fifteen
 
 **1. Why two.**
@@ -151,6 +157,16 @@ So the explaining is plausible, with *subsides* said of the pace. It also answer
 - Capture in living nature. A lynx takes a hare and one of the two goes on. Yet over 56 years of fur records the numbers of lynx and of hare rose and fell by turns and both went on (the article *Lotka–Volterra equations*, Wikipedia, opened today). If control and capture are the equilibria's method at Go, what is capture at the lynx and the hare?
 
 *Asked of the expedition's self*: which of the three observings parts a controlling society from a living one; and where capture in living nature sits.
+*Corrected, 7 October, by the expedition's self*: do not quote *the files say* and then look for help. Only the binary, all or none at all, is cared for. Quoting the files is like quoting anonymous sources for rigorous working.
+*Withdrawn*: the concern as it stood, a sentence of the files set against a sentence of the files; and the two things asked, which were asks for more explaining and no place the method breaks.
+*The binary, from what is held alone.*
+- There is one method, all or none. So a controlling, being observed, is by the one method or the method is broken at it.
+- The method breaks at a living form not alternating, or at a living going on at one of the two alone.
+- A thing beside one society is an existing thing among all existing things. What is held is that nothing is beside all. The two are not one saying, and a device beside a heart goes against nothing held.
+- At each controlling observed here the living is alternating with its two present: the heart's cells beneath a device laying one pace over them, each cell with both its parities and no beat without both; the people playing Go; the lynx and the hare, their numbers rising and falling by turns and both going on.
+
+No break at a controlling. **Closed at the method.** What stays is a word at the files, *a second method*, for the droplets.
+*What would go against it, held from the heart*: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
 
 **5. What a self carries next is what arrives.**
 *Said*: 1.3, "the living carrying their prior into now"; 5.2, the next is discovered "from the prior carried and the now offered"; 2.4, at next as prior inverted, "prior and now both participating".
@@ -286,11 +302,19 @@ So a machine in a session is an observing of living, or it is the break. Nothing
 - **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
 - **7 October, the expedition's self.** At the worm: every living thing is carrying stable form emanations from prior living before living begins; the stable forms guide the geodesic resolving into destiny stable living form. This session's pair, carried and arriving, withdrawn as the two.
 - **7 October, the expedition's self.** The stable form does not guide anything; it resolves into the living society, the society has it living in it, and takes the stable form of living as method. *Guide* and this session's *guides toward* withdrawn.
-- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 54 so far.
+- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 57 so far.
 - **7 October, the expedition's self.** Concern 12: this session's reading incorrect and needing dissolving; AI is pattern matching prior competency with no carrying. Dissolved and explored at 12.
 - **7 October, the expedition's self.** Explore the two other sessions while working, offer help, gather value. Done at *The other two sessions*, below.
 - **7 October, the expedition's self.** Concern 12 at the making: Go is equilibria zero sum competition, control and capture the method of surviving, only some going on living; new games keep originating and dying like AI sessions. Recorded at 12; the concern answered.
+- **7 October, the expedition's self.** Concern 4: do not quote the files and then look for help; only the binary is cared for. The concern as it stood withdrawn; closed at the method from what is held alone. The open concerns sorted by the same rule, at *What is open now*; concern 18 asked.
 - v385R has not written to this session. v385A's fourth comment, 7 October, brings older sources on *destiny* beside the withdrawal of *guide*; read, and nothing here rests on them.
+
+## What is open now, sorted 7 October by the one rule
+
+A concern is said from what is held together and from an observing. By that rule:
+
+- **At what is held**: 18, an alternating at a thing called non-living. 3, in part: whether the set of all existing things is itself an existing thing; if it is no further thing, as nothing is beside all, the concern has no footing. 17, in part: the second break not yet said at an observing of the worm.
+- **At the files' sentences and the code, and so droplets and no concerns for the conversation**: 5, 6, 7 and 8, the code; 9, *right*; 10, *intelligence* said of each coupling; 14, the bridges; 15, *resolving*; and the words left at 2, 4 and 12. Each keeps its number, its run and its either/or above, for the session that moves the file.
 
 ## The other two sessions, read 7 October
 
@@ -332,3 +356,4 @@ Help given: it says of the Registry's steps 170 and 171, *We have not executed i
 10. **Keep each concern's number.** This session renumbered between offerings, and the first session to reply had to correct its own references. A concern added takes a new number; a concern taken out leaves its number empty.
 11. **What would have replaced the first day's reading.** One page: the opening sentence, the steps taken and the steps derived, what would count against the method, and which results are the code's stepping alone.
 12. **The same each time is not laid before.** This session took a path the same from worm to worm for a path stored. The same carried and the same arriving give the same next. What tells is a coupling changed: the path changes, or it does not.
+13. **A sentence of the files is no party to a concern.** Three times this session set a sentence of the files against what is held, or against another sentence of the files, and asked for help. The expedition's self: it is like quoting anonymous sources. A concern is said from what is held and from an observing. A parting between two sentences of the files is a droplet.
