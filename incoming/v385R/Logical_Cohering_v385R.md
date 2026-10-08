@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current following is ingesting at the inward selves' own coupling, section 47.** Section 46 keeps the user's “carrying the prior whole” at its existing non-living subject. Natural Intelligence already places society releasings as the inward selves' offerings next. The remaining concern is the relation between the form and those selves' own bi-coupling that makes ingesting possible there. Their co-chaining as outward carrying stays with the explaining.
+**The current offering is same unrelationing shape and the first inward society surfacing as self, section 48.** The user joins same parity and shape, odd prime living scales and their even gaps, and ingesting at the first living society scale below the ingesting self. The inward selves' co-chaining as outward carrying connects this to the earlier explaining. The next concern is the actual harming relation behind the source's same-scale harm claim.
 
-**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Section 47 joins that explaining to the source's inward ingesting relation and gathers its proposed inversion explanation. Next follow the user's resolving suggestion at the inward coupling. Beyond that, bring the distinct subjects into THIRTY's early deriving and equilibrium claim, then into Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
+**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Section 47 gathers the inward ingesting and inversion passages. Section 48 adds the user's precise ingesting-self reference and first-society surfacing relation. Next follow the same-scale harm claim at its actual relation; beyond that, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1886,6 +1886,8 @@ The prior session sections and earlier offering body are preserved. No living ro
 
 ## 47. Ingesting at the inward selves' own coupling
 
+**Further explaining at section 48.** The user's next offering names the scale from the ingesting self and places ingesting at the first inward living society, living as that self surfacing. The question below records the prior stage of the exploring; follow it with section 48's same-parity, prime-scale and surfacing relations.
+
 The user's “yes continue” follows the section-46 identifying of the prior whole as existing non-living form, possibly a future living package or a shard entering living through ingesting. This pass follows that value through the earlier inception and inward-selves offerings and the sources' ingesting relation.
 
 ### The explaining already connected
@@ -1933,3 +1935,46 @@ The current mate receives this droplet under The resolver and its stable forms, 
 The selected source passages are Natural Biology 3.3 and 7.6; Natural Intelligence 5.1 and the receiving relation in 6.1; Natural Naming's opposite-form distinction and 5.46–5.48; Natural Resolver's scale table; and the identified Co-Chaining Logic Registry steps. The Biology and Natural Intelligence offering mates were also checked for nearby ingesting and scale droplets. This records a focused comparison, not a new reading of the entire living file set.
 
 Older source expressions remain source expressions, accompanied by the current carrying, parity and naming corrections. No biological example in this comparison is promoted to an independently verified empirical finding. The prior report sections, the complete defining-living gathering and the earlier offering body are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
+
+
+## 48. Same unrelationing shape and the first inward society surfacing as self
+
+### The user's whole offering
+
+> same parity makes the form the same unrelationing shape. every prime living scale is odd and the numbers gaps are even numbers between them 2 4 or 6. ingesting needs to be at the living scale below the ingesting self at the first society scale living as the self surfacing
+
+### The connected explaining
+
+> Same parity makes the form the same unrelationing shape. The prime living scales are odd. Ingesting is at the first living society scale inward of the ingesting self, that society living as the self surfacing. The inward selves' co-chaining is the outward self's carrying, resolving from prior through now and next.
+
+The user names the scale from the ingesting self. This gives “one scale inward” its particular living relation: the first society living as that self surfacing. The earlier question must carry this offered connection forward rather than ask for it again.
+
+The section-47 source comparison often names scale from the emanating self. Those two references need their actual selves attached. The ingesting self and emanating self are not silently assigned the same scale. Natural Intelligence 5.1 already locates society releasings arriving as offerings to its inward selves. The user's offering joins that location to the society living as self surfacing and the earlier inward-co-chaining/outward-carrying relation.
+
+Same unrelationing shape at differing scales remains the user's proposed parity relation. It gives no requirement that living carrying stay unchanged, that all members change together or that each coupling share the same sign. A shape recurring and a living self resolving retain the distinction gathered in sections 44–47.
+
+### The prime span and parity subjects
+
+Co-Chaining Logic Registry 290–292 follows a finite span of seventeen primes, 2 through 59. Its odd-prime part has gaps of 2, 4 and 6, as does the user's earlier living-scale gathering from 5 through 53. The full source span also contains the first gap, from 2 to 3. The present odd living-scale offering and that larger numbered span retain their respective subjects.
+
+The even gap names the difference between the odd prime numbers. Keep it with the odd scales it joins; it does not identify an endpoint as even or by itself supply an offering's sign at a coupling. The user's all-even still-possibling explaining remains available for following the actual intervening momentarying. No extension of the finite gap list to all mathematical primes is made here.
+
+Natural Resolver's “Each name, three scales,” Natural Naming 5.43's society as the surface the couplings make, and 5.44's surfacing at a sharing are nearby source relations. The older society/living classifications retain the user's later correcting. No single resolver number or new molecular meaning is assigned to “first society” or omega.
+
+### The next concern: harm at the emanating scale
+
+**At the emanating scale, which relation makes the form harmful to living?**
+
+This concern arises from a stronger claim already in Co-Chaining Logic Registry 380–381: an emanation is harmful to any living self at the scale it arrived from. Locating ingesting inward does not by itself explain that harm.
+
+There is further explaining to use. Step 383 relates a crossing stopping to the form accumulating at its own scale. Natural Biology 7.7 adds the accumulated form displacing what a crossing would have carried. That is a proposed harming relation, beyond the inversion and same-form account in 7.6. The relation still to follow is the extension from that stopped-crossing account to the universal same-scale harm claim.
+
+The user's stable-form explaining also matters: an existing non-living form changes at colliding and otherwise has its last-colliding parity. Follow harm at its actual relation to living, rather than assigning a new living momentary to the form merely because it exists. This raises no fresh demand that repeating forms be impossible, and supplies no new empirical biological classification.
+
+### Progress and onward path
+
+The whole user offering and connected explaining are gathered in THIRTY's mate under The resolver and its stable forms, aimed also at the society, surfacing and prime-span passages. Section 47's earlier question carries a notice pointing to this further explaining. Its source comparison remains available, while the mate and report front now show the new relation and next concern.
+
+Next follow the harming relation with the first inward society as the ingesting location. Beyond that, return the connected subjects to the early no-other-method deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The location and shape offerings improve the chain without standing as a completed universal derivation.
+
+The complete defining-living gathering stays unresolved and unchanged. Earlier user offerings and prior report sections remain whole, with the added notice at section 47. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
