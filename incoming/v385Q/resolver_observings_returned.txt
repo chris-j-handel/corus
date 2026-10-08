@@ -252,3 +252,11 @@ Q. One momentary at one self, in the code's own names: carried in (3), offered a
            109            +       + -                 -   -
            110            -       - +                 +   +
    the carried next of each momentary is the carried in of the next, at each momentary of the three: True
+
+R. The seventeen names inside one run of the resolver's functions, from the code as written
+   _1_co_bi_tri_offering        [1, 2, 3, 4, 7, 10, 11, 12, 14, 15]
+   _9_tri_bi_co_momentarying    [5, 9, 10, 13, 15]
+   _17_co_bi_tri_offering       [1, 2, 3, 4, 5, 6, 8, 9, 10, 13, 14, 15, 16, 17]
+   in the three together: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]; of 1 to 17, at none of them: []
+   Exhibit ONE's table of a self's four momentaries of exchanging has them at 1-2, 3-4, 5-6 and 7-8, and the
+   society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: each of those names is inside the one run.

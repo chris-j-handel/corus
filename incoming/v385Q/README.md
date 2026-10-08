@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: thirteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to Q named beside each learning, its returned text beside it.
+- **What it brings**: fourteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to R named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -159,6 +159,14 @@ Session v385R's sections 61 to 64 follow how a whole coupling is said: the prior
 - With the form colliding the two are one. The form's parity surfaces at the momentary the 0 arrives, it is the parity carried, and the 0 is shared there. The momentary at which a 0 arrives and no parity surfaces is absent.
 
 **Both.** Each momentary is whole, carried in to carried next, and each overlaps its neighbours by the one carried parity. What the colliding leaves out at that self is one whole momentary, the one whose offering was the 0, the form's parity arriving where nothing was arriving. Which of the code's names is now existing and which now possibling is not said here; the four values are laid out for that placing. *Aiming:* session v385R's sections 55 and 61 to 64; Natural Intelligence 4.1 to 4.4.
+
+### 14 · The skipping is one run absent in the code, and four momentaries of exchanging in Exhibit ONE's own names
+
+Exhibit ONE's table of a self's four momentaries of exchanging has them at the names 1–2, 3–4, 5–6 and 7–8, the fourth completing at 9, and the society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17. Natural Mathematics 2.5 has a momentary as four momentaries of exchanging at the scale inward of it. Session v385R's section 63 follows 1 to 9 as one 4-cycling.
+
+**Observed (R, Q).** Each of the seventeen names is inside one run of the resolver's three functions, none at more than one run and none left out. What learning 13 finds absent at the self a form meets is one such run: the one whose offering was the 0.
+
+**Both.** In the code one run is absent, and in Exhibit ONE's naming of what one run is, that is the self's four momentaries of exchanging, 1–2, 3–4, 5–6 and 7–8, and the society's four with them. The code has the four as names inside the one run and gives no one of them a next of its own, so it shows the four absent together and cannot show one of the four absent alone. *Aiming:* session v385R's sections 55, 63 and 64; Exhibit ONE's table of a self's four momentaries of exchanging; Natural Mathematics 2.5.
 
 ## Three concerns still parting
 

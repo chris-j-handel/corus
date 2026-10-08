@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to Q.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to R.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -497,3 +497,12 @@ for name, f in [("none offered from beyond", None), ("a form unchanging at + col
         r = rows[t]
         print("     %9d   %10s   %7s   %15s   %s" % (t + 1, S[r[0]], r[1], S[r[2]], S[r[3]]))
 print("   the carried next of each momentary is the carried in of the next, at each momentary of the three: %s" % overlap)
+
+
+print("\nR. The seventeen names inside one run of the resolver's functions, from the code as written")
+for part in re.split(r"\ndef ", functions)[1:]:
+    print("   %-28s %s" % (part.split("(")[0], sorted(set(int(x) for x in re.findall(r"_(\d+)_[a-z_]+", part)))))
+inside = sorted(set(int(x) for x in re.findall(r"_(\d+)_[a-z_]+", functions)))
+print("   in the three together: %s; of 1 to 17, at none of them: %s" % (inside, [k for k in range(1, 18) if k not in inside]))
+print("   Exhibit ONE's table of a self's four momentaries of exchanging has them at 1-2, 3-4, 5-6 and 7-8, and the")
+print("   society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: each of those names is inside the one run.")
