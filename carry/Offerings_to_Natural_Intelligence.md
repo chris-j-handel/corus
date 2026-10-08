@@ -292,6 +292,8 @@ The [dormancy and beginning-of-living comparisons](Exhibit_SEVENTEEN_Offerings_t
 
 The [handed-form and inward-decay comparisons](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) retain inward chemical breakdown among the reported conditions of an existing form. “Remains until collision or ingesting” must not silently exclude those inward relations. The particular form, its scale and its conditions still need explaining; neither a stable appearance nor the visible hand supplies its living classification.
 
+The [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) names bi tunneling as the restoring relation now to follow at the living network surface. Keep its actual repeating-colliding condition with the earlier non-restoring cascade; the question no longer lacks a named surface-resolving relation.
+
 ## The whole opening offering and its actual claims · v385A
 
 Natural Intelligence Corus Part ONE offers social moral competency at a self's own carrying, alternating stable-forming in disequilibria. It proposes that wherever natural competency is observable, nature is better, faster and cheaper than technology. Its concrete opening example is a brain outthinking a datacenter at light-bulb power, with no clock, no stopping to think and repair while running. It offers a more plausible explaining of observable competency and invites a particular competency to be brought for comparison. These performance and biological sayings remain the opening's claims, not results established by gathering them.

@@ -364,3 +364,7 @@ The living self's carrying and possibling are unobservable. Nothing here instruc
 The older code’s common stepping instruction remains beside the claim of each self’s own pacing. This extends the existing concern at Natural Networking 4.7: a common implementing instruction has not supplied the actual local overlap.
 
 The [worm's changed-neighbour comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-worms-path-and-two-initially-alike-cells--v385a) supplies the biological subject beside this scheduling question. Retain the actual neighbour and coupling conditions when seeking a correspondence; a scheduler's order over selves does not by itself explain the cells' own overlapping momentarying.
+
+## Surface resolving through bi tunneling · v385A
+
+The [gathered surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) belongs beside the surrounding living couplings at a non-carrying local surface. It names bi tunneling as the surface’s resolving where the colliding pattern is not repeating. The further question concerns that pattern at onward couplings after the first colliding stops repeating. The region, its surrounding selves and the wider society retain their actual carrying relations.

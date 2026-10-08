@@ -192,6 +192,8 @@ The non-living stable form can change at each colliding and otherwise has its la
 
 At Natural Biology 7.7, distinguish the society changing at a member's or coupling's changing from every other member changing at once. The [gathered society-changing correction](Living_Improving_Value.md#sequential-colliding-and-what-would-break-the-societys-carrying) retains the stopped-crossing comparison while following further changing at the actual couplings. The seed's dormant-carrying offering remains at [its own relation](#the-seed-dormant-carrying-and-society-tunnelling-parity-changing--v385a).
 
+The [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) supplies bi tunneling as the resolving relation beside the existing stopped-crossing comparison. Follow its distinction between the surface resolving without the repeating colliding pattern and spreading death with that repeating; the actual seed conception and dormant carrying remain at their own subject below.
+
 ## Measuring and the whole seed and oil example · v385A
 
 Natural Intelligence Corus Part ONE presents measuring as the first of three consecutive equilibria: a thing at rest, a settled value held still long enough to be read, with one-way time pointing toward rest. Its example says there is one omega as one coupling geometry at the membrane; the scientific account is described as omega-3, omega-6 and a ratio. It proposes that reading the measured molecule as the same makes extracted oil read as equal to the seed. The offered difference is the seed delivering value living, unwrapped naturally and safely through the substrates, while oil delivers it severed. Its proposed value is the whole living delivery.

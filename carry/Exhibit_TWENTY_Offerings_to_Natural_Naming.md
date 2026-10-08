@@ -512,6 +512,8 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 
 The non-living stable form can change at each colliding and otherwise has its last-colliding parity. Do not hold its form or arriving parity identical at every further encounter merely because it is named stable. Its successive encounters do not assign it its own living carrying. First-inward-society ingesting, the same-scale reference, entering from above and birthing within retain their particular subjects. Natural Biology 7.4's inward living with ceased outward coupling, 3.3/7.6's proposed same-scale returning and 7.7's stopped crossing locate further comparisons; their exact sequential relation remains to be supplied. The local public tables alone neither prove nor disprove this proposed breaking. No biological classification, clinical result or private-carrying inspection follows from the gathering.
 
+At Natural Naming 5.45, the [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) follows society tunnelling through the surrounding living couplings. Keep the incompetencing swath, the non-living region and the wider society at their actual subjects; the seed’s conception and dormant carrying are a related naming at a distinct coupling.
+
 ## Overlapping public parity pairs and the living subject · v385A
 
 **Droplet.** Keep the names of public pair positions, each self’s own momentarying and living carrying distinct where they occur here. Their proposed correspondence remains to locate; do not name a public pair comparison as access to private carrying.
