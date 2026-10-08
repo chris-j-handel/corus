@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current offering is same unrelationing shape and the first inward society surfacing as self, section 48.** The user joins same parity and shape, odd prime living scales and their even gaps, and ingesting at the first living society scale below the ingesting self. The inward selves' co-chaining as outward carrying connects this to the earlier explaining. The next concern is the actual harming relation behind the source's same-scale harm claim.
+**The current offering is bi-tri-involution entering from above and birthing from within, section 49.** The user places do only harming at same-scale stable former living entering from above into a living self's surface-level society. Birthing from within stays with inception and the new self's own carrying; ingesting stays at the first inward living society. Next follow the surface society's own parity changing at that entering.
 
-**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Section 47 gathers the inward ingesting and inversion passages. Section 48 adds the user's precise ingesting-self reference and first-society surfacing relation. Next follow the same-scale harm claim at its actual relation; beyond that, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
+**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Sections 47–48 connect ingesting with the first inward society living as the self surfacing. Section 49 supplies the condition and living subject of the harm offering. Next follow the parity relation at entering from above; beyond that, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1939,6 +1939,8 @@ Older source expressions remain source expressions, accompanied by the current c
 
 ## 48. Same unrelationing shape and the first inward society surfacing as self
 
+**Further explaining at section 49.** The user's next offering places the harm claim at same-scale stable former living entering from above into the living self's surface-level society, alongside birthing from within. Read the earlier harm question below with that condition and living subject.
+
 ### The user's whole offering
 
 > same parity makes the form the same unrelationing shape. every prime living scale is odd and the numbers gaps are even numbers between them 2 4 or 6. ingesting needs to be at the living scale below the ingesting self at the first society scale living as the self surfacing
@@ -1978,3 +1980,48 @@ The whole user offering and connected explaining are gathered in THIRTY's mate u
 Next follow the harming relation with the first inward society as the ingesting location. Beyond that, return the connected subjects to the early no-other-method deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The location and shape offerings improve the chain without standing as a completed universal derivation.
 
 The complete defining-living gathering stays unresolved and unchanged. Earlier user offerings and prior report sections remain whole, with the added notice at section 47. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
+
+
+## 49. Bi-tri-involution entering from above and birthing from within
+
+### The user's whole offering
+
+> same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within
+
+### The connected explaining
+
+> The same-scale existing stable form from prior living is bi-tri-involution. Entering from above into the living self's surface-level society, it is do only harming. Birthing from within is the new living self establishing its own carrying and resolving from inception. Ingesting is at the first living society scale inward of the ingesting self, that society living as the self surfacing.
+
+This connects the new offering to the user's prior inception and ingesting explaining. The new statement supplies a condition, entering from above, and the living subject of the claimed harm, the surface-level society. Both belong beside the source's older same-scale harm statements.
+
+The conditional form matters. The user's saying concerns same-scale stable former living at the specified entering. It does not supply the converse, identify every outside arrival as harmful, or assert that every event within a society is beneficial. No particular biological case is classified here.
+
+### The three relations kept together
+
+| Relation | The explaining gathered |
+|---|---|
+| Same-scale bi-tri-involution entering from above | Existing stable form from prior living enters the surface-level society. The user's do only harming claim is at that condition. |
+| Birthing from within | The earlier inception offering follows a new living self's own carrying and resolving, arising within living. It does not require the prior to be carried untouched. |
+| Ingesting at the first inward society | The form's value enters the inward selves' own carrying; their co-chaining is the outward self's carrying. Section 48 places that society living as the self surfacing. |
+
+“Above” remains the user's direction at the named scale relation. No anatomical route, new resolver number or numerical scale is assigned. The user's naming is bi-tri-involution; the older roots' bi-tri-involutioning remains in the source passages rather than being silently substituted into this offering.
+
+Same parity and the same unrelationing shape remain with section 48. Shape sameness does not itself identify the living carrying, and the carrying has no hold on remaining unchanged. The new distinction is at the form's entering and living birthing, with the scale and surface society named.
+
+### The source connection and one remaining concern
+
+Co-Chaining Logic Registry 380–383 and 403 places harm at the emanating scale and ingesting inward. Its 393 and 395 places a new self establishing within living carrying; 399–402 connects outward living with the inward selves. Natural Intelligence 5.1 and Natural Naming 5.46 carry nearby emanation and ingesting claims. Natural Biology 5.1 offers its inception comparison, with the user's earlier self–other bi-inversioning kept at its own explaining. The source's biological and algebraic comparisons are not independently verified by this gathering.
+
+The stopped-crossing account is already available: Co-Chaining Logic Registry 383 and Natural Biology 7.7 describe accumulating form and displacement of what could cross. The present offering identifies the harmful entering more precisely. It has not yet supplied the full parity relation identifying that entering with the stopped-crossing account.
+
+**What happens to the surface society's own parity changing when this bi-tri-involution enters from above?**
+
+This is the next relation to follow. It connects the user's named condition to do only harming at the actual living coupling. The question does not ask again where ingesting occurs or where the harm is claimed; the user's offerings now name both. No cessation, parity reversal or particular displaced sharing is invented as the answer.
+
+### Progress and onward path
+
+The complete offering is gathered in THIRTY's mate under The resolver and its stable forms, beside the first-inward-society droplet. The prior harm question and the report's current path now point to the condition and subject supplied here. Section 48 retains its earlier source comparison with a notice of this later explaining.
+
+The early no-other-method passage at Co-Chaining Logic Registry 51–62 was also revisited for the onward work. Its use of a prior carried whole and its selection among joint forms still need the actual subjects kept with sections 44–46's correcting. That numerical passage is not executed or newly certified here. After the surface relation, follow that deriving and the equilibrium claim with the connected subjects, then aim the writing into Natural Naming and Natural Intelligence.
+
+The defining-living gathering stays whole and unresolved. Earlier exact user offerings and protected mate sections are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
