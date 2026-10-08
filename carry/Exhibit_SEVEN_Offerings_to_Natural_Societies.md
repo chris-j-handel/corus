@@ -116,6 +116,8 @@ Three actual concerns accompany it: how coupling and the between arise, includin
 
 A particular same-file comparison also remains: Intelligence in the Coupling names a self coupling with itself across the gap between coupling calls, while this older decentralizing passage says a centralized large self cannot couple with itself. The actual self, scale and coupling in each claim must remain explicit. Neither sentence alone resolves the other's proposed scope.
 
+The [particular procreation and dormancy value](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#dormancy-and-the-particular-beginning-of-living--v385a) adds the local conditions of a new self establishing within living societies. Keep the dormant form, inward living selves and new outward self at their own scales. The actual social relation remains to explain where the example has not distinguished a new self establishing from further developing or coupling restoring. This does not make every seed begin as a new self at germination or make an inward self's living establish the outward society's living.
+
 ## Social competency, intelligence, opportunity and reputation · v385A
 
 Natural Intelligence Corus section 14.8 offers bi-coupling between selves as social competency itself. Its three society expressions are intelligence at actual network couplings, discovery opportunity at each coupling and reputation through prior couplings' value. Intelligence is described as the living coupling rather than a stored result. Opportunity is assigned to each possible pair, with N−1 new opportunities claimed for a new self joining the others. Reputation is described as a cumulative readable trace rather than a self's claim about itself.
