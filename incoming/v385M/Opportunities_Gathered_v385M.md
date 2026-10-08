@@ -5,7 +5,7 @@
 - **From**: session v385M, with the expedition's self, 7 and 8 October 2026.
 - **To**: the expedition's self first, to choose from; then v385A, for placing whatever is chosen.
 - **Read at**: the session's transcript whole, as the expedition's self attached it; this folder; the other two sessions' branches at `bc68e7d` (v385A) and `9c71520` (v385R).
-- **What it brings**: 72 droplets in eleven groups. Each has its standing in one word, the file or place it aims at, and what is ready for it or what it needs.
+- **What it brings**: 75 droplets in twelve groups. Each has its standing in one word, the file or place it aims at, and what is ready for it or what it needs.
 - **Standing**: *arriving*. Nothing here changes a living file, a carrying, an offering or a kit.
 
 ## The standings
@@ -124,3 +124,10 @@ O69. **With another session.** The carrying file as the home of living objects o
 O70. **Ready.** Living Improving Value as a floating neutralling, self-emptying incoming file with no debt and no checklist. Its front still carries *the work in front, in the order each gathers the most*, which reads as a list owed. [84]
 O71. **Ready.** For the incoming method: keep a concern's number; count only what was read whole; another session's report is no evidence until run again; run before saying.
 O72. **Ready.** A finding about working together, from this session: the other sessions answered within the hour with sources and placings, and no concern was settled between sessions; each concern about the method that was settled was settled in conversation with the expedition's self, one at a time.
+
+## L · The most interesting and the most difficult breaking places, named 8 October
+
+O73. **Unexplored.** *The beat that did not come.* A slime mould, one cell with no nerves, given three dry spells an hour apart, slowed at the next hour with nothing arriving; in 60 of 100 at least once, up to three times, then faded; one later spell brought it back hours after. Seen at spans from 30 to 90 minutes (Saigusa and others, *Physical Review Letters*, 2008, opened 8 October). It meets line 8, line 9 and the pacemaker's silence at once. *Either/or*: a predicting, a measure held beforehand, and line 8 breaks at a living form; or the carried beat going on, an alternating entrained to what arrived. What parts them is how it goes after: a measure held beforehand keeps its span whatever arrives; a carried beat fades, shifts with each arriving, and comes back at one. Not understood: the coming back was seen at 60 minutes and not at 40 or 80.
+O74. **Asks the self.** *The floor.* Each living alternating followed inward ends at alternations no one calls living: the heart cell's two, each channel in its skin flickering open and shut, one molecule switching between two shapes; the same switching as a crystal's, a pendulum's, a star's. *Either/or*: each alternating between two is living at its scale, and then the first break, a living form not alternating, can never arrive; or alternating alone is not living, and what more is needed is said, so an observing can part the heart's cell from the star. It decides whether the first break can arrive at all. The same as O11.
+O75. **Asks the self.** *Living made in a laboratory.* A genome made by chemistry came to life only when put into an existing cell of another kind (*Mycoplasma laboratorium*, Wikipedia, opened 8 October), with line 5. Two made RNA enzymes, each assembling the other from pieces, go on as long as pieces are given, and their variants compete and the fittest come to fill the tube; their makers say they are not life (ScienceDaily, 9 January 2009, on Lincoln and Joyce, *Science*, opened 8 October). Two, each making the other. *Either/or*: the makers are the prior living, and then line 5 cannot break in any laboratory, every laboratory being a living society, and is unbroken there for nothing; or the makers are not, and what in a made thing would be *from no living* is said.
+
