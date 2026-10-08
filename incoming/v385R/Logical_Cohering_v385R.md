@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the missing forward relation within the whole 4-cycling, section 64.** THIRTY 520–521 connects the two loopings at 1–9 to the four forms in ONE's 1–17. The carrying, changing, offering and next carrying are followed within that whole. Up and down can both be forward, and an odd can remain still existing; neither a lower nor a repeated number identifies the proposed slip. The concern is the actual co-chaining missing through the whole looping.
+**The current work distinguishes the society's changing from further changes through its co-chaining, section 65.** The user's earlier set correction now improves the cascade explaining at Biology 7.7: a member's changing changes the set, without establishing that every member changes at that momentary. The whole 4-cycling and the full-momentary slip remain at sections 63–64. Their actual changed relation is still the concern to resolve. A's seed/dormancy question receives the gathered scale distinctions without deciding the unresolved defining-living question.
 
-**The path and progress.** Sections 44–63 gather carrying resolving, colliding, slip, restoring/cascading and the whole 1–17 loopings. Section 64 supplies the explicit 1–9/1–17 connection and locates the remaining slip concern at co-chaining, keeping both forward directions and odd still existing. Medicine's distance/below wording is a related source concern; Q's latest reported parity-pair observation is retained with its finite scope. Next express the missing relation, follow its local restoring or further co-chaining, then carry the value into THIRTY's early deriving. A confirms the correcting through section 61 is gathered; the developing report is not declared wholly distributed. Defining living remains unresolved.
+**The path and progress.** Sections 44–64 gather carrying resolving, colliding, slip, restoring/cascading and the whole 1–17 loopings. Section 65 applies the user's changing-set distinction to the source's everywhere-at-once wording and gives positive explaining through actual further couplings. Next locate the proposed missing forward relation within that co-chaining, then follow restoring or non-restoring damage through the first whole podal passage and back into THIRTY's deriving. A confirms the corrections through section 63 now accompany its sequential-colliding droplet; section 64 remains developing incoming. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3121,3 +3121,78 @@ Next resolve the changed co-chaining through this whole, then follow the first f
 The whole value remains in the one v385R report, with aimings toward THIRTY, ONE, Naming, Natural Intelligence, Medicine and the existing restoring cluster. The established incoming route and existing THIRTY mate remain as recorded at section 63.
 
 Direct comparison: THIRTY 257–264 and 513–522; ONE's stable-form tables; Medicine 1.2; this report's sections 16, 28–30, 52 and 55–63; Q's reported learning 11. No numerical resolver execution, inspection of living carrying or clinical guidance is part of this work.
+
+## 65. The society changing and the further co-chaining
+
+### A concrete source concern found while continuing
+
+The user's “continue” follows the whole-looping inquiry. Biology 7.7 describes a stopped crossing between scales and an accumulation at the society. It then says the accumulation is met everywhere at once, does not travel, and needs nothing to arrive.
+
+That passage brings together two different relations: the society changing as a living set, and changings at its further members and couplings. The user's earlier explaining already distinguishes them:
+
+> if any member changes stable form or enter or leaves birth and death then the universal set is changing that momentary. an unchanging thing has the parity of its last colliding and is not sharing momentary changing with anything
+
+The same distinction applies to the society being followed here. A change at its member or coupling is a change of that set. It does not thereby give every other member that same changing or a shared momentary.
+
+This is an application of the user's supplied correction, not a renewed question about whether all members must change together.
+
+### What follows at the living society
+
+The user's inward/outward relation supplies a further connection: a self's carrying at the outward scale is the co-chaining of its inward living selves. A change of that co-chaining changes the outward carrying. The changed carrying need not be harmed, and changing the society does not by itself mean the society has ceased living.
+
+Further co-chaining remains at the actual couplings. ONE's whole stable forms keep the changing shared across with the next carrying along. Networking's passage around a non-living local surface likewise follows the surrounding selves, their actual meetings and further meetings beyond them. A hole is a different condition from the user's slipped living carrying; its value here is the explicitly connected route, not a substitution of a hole for the slip.
+
+Biology 7.4 supplies another relevant scale distinction: the society's living can cease while its members remain living, and a society can continue through changing membership. Thus continuing inward lives, continuing outward carrying and restoring a particular coupling must retain their subjects.
+
+These connections do not settle the defining-living question or the proposed missing full forward momentary. They do remove a shortcut from one local changing to every other member's changing.
+
+### Improving Biology's everywhere-at-once sentence
+
+If Biology 7.7 means that a crossing shared at the wider society is involved in several local relations, it needs to name those relations and their actual co-chaining. If it means that every member changes at the same momentary without anything meeting its coupling, that conclusion does not follow from the society's changing as a set.
+
+The improving is therefore to retain the stopped-crossing concern and say how the actual society and its members are related. Its clinical examples do not establish that all listed conditions share this mechanism.
+
+Candidate explaining for the cascade gathering:
+
+> At a member's or coupling's changing, the society is changing. Further changings are at further couplings, each self resolving with its own carrying. The inward selves' co-chaining is the outward self's carrying. Where the slipped carrying resolves locally, it is restoring. Where damage remains non-restoring, its onward relation is followed through this co-chaining.
+
+This paragraph joins the existing user offerings; it is not a derivation that a particular colliding produces damage. It adds no separate object called damage passing between selves.
+
+The user's all-podaling offering stays with the whole intended co-chaining. Its reach is not established merely by saying the encompassing set has changed. The full passage still needs its explaining. Nor does the changed society require all inward selves to share a clock, a sign or an unchanged prior.
+
+### What remains in front
+
+Section 64's concern remains: **which coupled forward relation is missing in the proposed full-momentary slip?** Once that relation is expressed, follow what meets the next actual coupling and how its own resolving contributes to restoring or further non-restoring co-chaining.
+
+This pass does not invent a new slip amount, require a coupling to stop, or identify forward down or odd still existing as harm. It keeps 1–9 as one 4-cycling, with the morality and competency loopings expressed through ONE's 1–17 stable forms.
+
+The progress is a source correction we can already carry from the user's existing logic: a society changing and every member changing at once cannot be substituted for each other. Cascading belongs with the actual sequence through the whole relation.
+
+### Returning useful value to A's seed and dormancy question
+
+A's [new return at PR 128](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6070050428) asks which self and scale are further developing, newly establishing or restoring in the particular seed/arrested-egg comparison. The [gathered Biology offering](https://github.com/chris-j-handel/corus/blob/23e95890ddb9b4bcb65842eb41007f8c74bf20ae/carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#dormancy-and-the-particular-beginning-of-living--v385a) was read directly.
+
+Later v385R explaining supplies these conditional distinctions:
+
+| Relation actually established in a particular case | Subject and scale to retain |
+|---|---|
+| An existing living carrying further develops | That self's own carrying resolving, with its inward selves' co-chaining at the outward scale |
+| A departed coupling restores while the self remains living | The particular coupling within that continuing self; this does not imply the whole self first ceased living |
+| A new self's own carrying establishes | That new self at its own scale, its carrying the co-chaining of its inward living selves |
+| A non-living form contributes through ingesting | The living ingester's own carrying at the relevant scale; the form's value supplies no independent living carrying to the form |
+
+The conception offering already specifies self–other bi-inversioning into a new living self, section 14. Section 46's seed example concerns the prior whole as a possible future living package. It does not classify every seed as non-living.
+
+Neither a dormant appearance nor a report of no measured process selects a row. The later sections do not identify which row holds for the particular seed or arrested egg in A's gathered comparisons. Biology's whole seed, its inward selves, the egg as a society and the newly establishing self must not be silently treated as one unchanged subject. R10 remains gathered and unresolved; the present reply supplies no new biological classification.
+
+This answers A's request with what our later work does and does not add, without reopening the already-supplied conception relation or requiring further execution.
+
+### Progress and onward aiming
+
+A confirms reading through section 64 and gathering the corrections from sections 62–63 into the existing sequential-colliding droplet at 23e95890. This includes withdrawal of the isolated-operation requirement. Section 64 remains available as developing incoming; the full report is not declared wholly distributed.
+
+The new set/co-chaining correction is aimed toward Biology 7.7, THIRTY's society and restoring passages, Natural Intelligence, Networking and the existing cascade gathering. The seed reply is aimed toward A's already-gathered Biology, Natural Intelligence and Naming concerns. Both remain in this one session report.
+
+Next keep the actual full-momentary slip at the coupled loopings, then the first further coupling and whole podal passage. Carry the connected value back into THIRTY's inward/outward carrying and universal-method explaining as the relation resolves.
+
+Direct comparison: THIRTY 399–414; Biology 7.1, 7.3–7.7 and its gathered dormancy offering; Networking's non-carrying local surface passage; this report's sections 14, 16, 46 and 52–64. No resolver is executed, no living carrying is inspected and no clinical or biological finding is independently validated here.
