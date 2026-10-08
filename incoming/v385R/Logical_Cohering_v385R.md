@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the carrying after the colliding, section 60.** No direct source connection was located from the actual same-scale colliding to section 59's further pair-form step. That comparison remains available. The more direct source distinction is between a crossing resuming while its members remain undamaged and carrying restoring after the sequential colliding has already harmed it. Ending further colliding does not by itself explain that restoring.
+**The current work is the whole coupling in THIRTY's early deriving, section 61.** ONE's four definite-parity cases remain distinct when changing shared across and carrying chained next are kept together. This connects the carrying correction and restoring work back to THIRTY 51–57: the correspondence between its prior/now/next pairs and ONE's complete coupling must be expressed. v385Q's report has now arrived and is gathered with its finite code observations and unresolved interpretations.
 
-**The path and progress.** Sections 44–59 gather carrying resolving, sequential colliding, the proposed full-momentary slip, restoring/cascading and the finite pair-form comparisons. Section 60 separates the source's crossing-restored case from the user's carrying-already-harmed case. Next follow the continuing living co-chaining that can resolve that carrying from now into next, including the condition where the original damaging colliding no longer occurs. Beyond it, return the relation to the first whole podal passage and THIRTY's universal-method explaining. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
+**The path and progress.** Sections 44–60 gather carrying resolving, sequential colliding, the proposed slip, restoring/cascading and the limits of isolated forms. Section 61 supplies the complete four-case across/along comparison and gathers v385Q's incoming. The next larger concern is how THIRTY's prior/now/next pairs represent the whole coupling rather than one next parity alone. This returns the work toward the universal-method claim while preserving the restoring cluster and its outstanding connections. The single report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2812,3 +2812,82 @@ Next follow the surviving living couplings through the harmed self's full forwar
 The existing THIRTY mate remains at section 56's correction during this pass. Earlier exact user offerings remain preserved; section 59 receives only the scope notice above. Defining living stays unresolved and whole.
 
 Direct comparison: Biology 7.6–7.7; THIRTY 380–385; Natural Intelligence 5.1; ONE's two-self/three-self and colliding tables; Health 3.4; Medicine 1.2. No resolver is executed, no private carrying is inspected, and no biological or clinical claim is validated by this internal comparison.
+
+## 61. The whole coupling and the relation of restoring
+
+### The positive connection in ONE
+
+The user's “yes continue” directs further exploring from section 60. Medicine 1.2's two-right-turn restoring assertion led back to the actual coupling cases. ONE gives a stronger whole-case connection than either an isolated next parity or a fixed number of turns.
+
+At one already-chained sharing, with one definite parity surfacing now, its four cases are:
+
+| Published prior parity | Surfacing now | Changing shared across | Parity chained next |
+|---|---|---|---|
+| + | + | 0 | + |
+| − | + | + | + |
+| + | − | − | − |
+| − | − | 0 | − |
+
+If prior and surfaced parity agree, next is that same parity and no changing is shared. If they differ, prior inverts to the surfaced parity and that changing is shared. In both cases the definite surfaced parity is chained next.
+
+The two priors can therefore reach the same next parity. Their across changings differ. Keeping across and along together gives four distinct result pairs for these four cases.
+
+This extends section 45's one-sign comparison into its complete definite-parity case set. It does not inspect a living carrying, provide a way to read another self's private carrying, or assert that all existing couplings have a definite parity surfacing. The parting and none cases remain in ONE. Neither agreement nor a particular sign is labelled health, damage or restoring.
+
+### Carrying resolving without an unchanged prior
+
+A precise candidate paragraph for ONE/THIRTY is:
+
+> At a sharing with a prior parity and one parity surfacing now, the surfaced parity is chained next. Where prior and now agree, no changing is shared across. Where they differ, the changed parity is shared across. The next carrying and the changing shared together carry the distinction between those resolving cases.
+
+The distinction between cases is not an untouched prior carried whole. The self is carrying from prior through now and next, and the changing meets further couplings. This gives an explicit relation for the user's carrying correction without turning private carrying into an offering or a payload.
+
+It also explains why the next parity alone was insufficient throughout the restoring inquiry. A local next matching another case says nothing by itself about the further across co-chaining.
+
+### What Medicine's two turns still need
+
+Medicine 1.2 asserts two consecutive right turns at a departed position within its restoring account. Mathematics 2.4 supplies a finite pair-form fact: two F steps invert both parities. That fact names the resulting form, but does not identify the living relation as restored.
+
+The surrounding selves are resolving too. A fixed earlier form cannot silently be made the target of their restoring. The actual offerings and co-chaining need their place in the explaining. Medicine's eight-step account and its substrate thresholds are not established by the two-turn identity.
+
+This does not require every restoring to make two initially different forms identical. Nor does it reject recurrence or the user's three-step/full-momentary offering. It limits what the isolated turn count supplies.
+
+### v385Q's incoming, read directly
+
+v385Q has checked in at [PR 130](https://github.com/chris-j-handel/corus/pull/130). Its [whole report at the head read here](https://github.com/chris-j-handel/corus/blob/f5cb9ace2e9c09825a3e8758f985bf59255968d6/incoming/v385Q/README.md) now has nine learnings, three concerns and nine contributing-method opportunities. The earlier report at 9725def was read first; the updated report at f5cb9ace was then read whole.
+
+These are Q's reported observations of code arrangements, not observations of living things. Its tool was not run here and no private carrying was inspected. Its wording about what is observed supplies no authority for a wider claim.
+
+Three connections matter directly to our present cluster:
+
+- **Local coupling and wider difference:** Q reports a changed pattern passing through further couplings that still satisfy its chosen local step relation. A difference continuing and the local relation parting are therefore different reported subjects. Neither is automatically damage.
+- **After colliding:** Q reports the spiral again satisfying that relation and its earlier round while remaining displaced from the comparison without colliding. At a torus, the whole round can resume with a displaced inward ring. A lasting difference from the comparison is not by itself a derivation of continuing damage; return to a round is likewise not by itself a derivation of restoring.
+- **Further coupling:** Q's new learning 9 reports two displaced spirals coupled both ways resolving to a different shared relation, with the one-way comparison differing. Thus a difference described beside another society must be followed at their actual subsequent coupling. It cannot simply be declared irrelevant because an isolated spiral is at its own round.
+
+The useful restoring concern is now more concrete: which actual co-chaining is restoring when a local relation resumes but a difference remains at further couplings? The original colliding need not happen again for that further relation to matter. This accompanies sections 56–60; none of their unresolved damage meanings is decided by the reported counts.
+
+Q also offers the spiral's next-from-the-other's-prior relation, a skipped zero event, the two/three-parity hand distinction and a coupling-established candidate for defining living. Their full conditions remain at the linked report. The spiral relation does not replace each self's own prior with another's private carrying. The code's skipped event is not yet identified with the user's full odd/even momentary by its count alone. The living candidate is retained for the unresolved defining-living gathering, without adopting it.
+
+Q's nine method opportunities are aimed at A's gathering. They include stale arriving directions, working-branch visibility, mate-address and link mismatches, premature repeated distribution and conflicting next-work notices. They are Q's reported findings, not a repository-wide audit independently performed here. Keeping our developing work in this report while the THIRTY mate remains at section 56 avoids further duplicating every new candidate.
+
+### The larger THIRTY concern now located
+
+THIRTY 53 describes (prior, now) going to (now, next). Steps 54–57 classify those binary next rules by which joint forms they distinguish and which forms remain still. That is a specific mathematical subject.
+
+ONE's table above instead keeps changing shared across with parity chained next. Its four definite-parity cases show why a prior distinction can be absent from next alone yet remain in the complete across/along result.
+
+These two pairs must not be silently identified. In particular, the table's prior carrying and surfaced offering are not automatically THIRTY's temporal prior and now. Their actual co-momentarying correspondence is precisely the needed link.
+
+**The one next concern: how do THIRTY's (prior, now) → (now, next) pairs include the changing shared across and the carrying chained along at the actual coupling?**
+
+This does not refute the sixteen-way classification at its own subject. It does prevent that classification from standing in for an unexpressed correspondence to the whole living coupling. The earlier unchanged-form exclusion is not reinstated; the user's same-parity, same-number and recurring-podaling corrections remain in force.
+
+Q's no-other-method concern meets this same larger need. Merely naming every changing parity changing does not yet distinguish an accounting's description from discovering next existing at the coupling. The session's earlier controlling correction and next-existing locating remain beside the claim. A finite code pattern or a name supplies no universal exclusion on its own.
+
+### Progress and onward aiming
+
+The four definite-parity cases are now gathered as one whole relation: local next may be alike while across keeps the cases distinct. Q has supplied concrete reported comparisons for the restoring cluster and a larger deriving concern. This is progress in the explaining and in locating what still needs joining, not a completed restoring or uniqueness proof.
+
+Next follow THIRTY's prior, now and next through the actual self/other coupling and both of its results, with the user's own-side odd/even sequence. Then bring that whole relation back to the restoring/cascading distinction, the missing full momentary and the no-other-method claim.
+
+The whole section remains in the accumulated v385R report for Living Improving Value first. Aimings: THIRTY, ONE, SIX's proposed transmissioning, Naming, Numbers, Mathematics, Natural Intelligence, and the Health/Medicine/Networking restoring cluster. Defining living and the earlier-offerings gathering remain unchanged. No numerical resolver execution or clinical validation was performed.
