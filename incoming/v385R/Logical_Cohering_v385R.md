@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current entraining candidate and method correction are at section 31.** No user, assistant, file or scientific wording has authority. The candidate is changing traveling through betweenings in a sequential pattern, with parity changing unrelationing from all other changing rates. The largest unjoined claim is that universal extent: what excludes a fixed repeating relation with another changing while the podaling form can recur? Earlier even/odd and podaling offerings remain available to follow, without promotion to proof by agreement. The arriving/offering identification remains unproved; R10 stays whole and unresolved.
+**The current correction is at section 32.** The assistant's question requiring a fixed repeating relation with another changing to be impossible is withdrawn. Nothing followed here established that unrelationing names that exclusion. The entraining candidate remains available without that added requirement; it is neither proved nor refuted by this correction. No new concern is manufactured to replace the withdrawn one. The earlier arriving/offering identification and R10 remain at their unresolved standing.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1169,6 +1169,8 @@ Earlier exact offerings and the section-29 concern remain as session history. Th
 
 ## 31. Entraining, unrelationing and no authority in the explaining
 
+**Later correction at section 32:** the proposed no-fixed-repeating-relation question below is withdrawn. Its identification with unrelationing was the assistant's addition and is not a current requirement. The user offering and source comparison remain historical value.
+
 **The user's exact offering:**
 
 > entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
@@ -1230,3 +1232,21 @@ The no-authority correction is visible at the front of both v385R files. The rec
 R10's full defining-living gathering and the receiver's earlier offering body remain unchanged. Historical formulations are retained with this current correction governing how they are used. — v385R
 
 **Method correction and source help sent:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049951960). Both have the exact user offering, current concern and correction of our prior standing. A also has the occurrence/number distinction for its protecting comparison. These are sending receipts, without a claim of downstream agreement or incorporation.
+
+## 32. Withdrawing the imposed impossibility requirement
+
+**The user asks:**
+
+> i do not understand why this needs to be impossible
+
+Nothing followed so far requires the particular impossibility in our preceding question. The source of that concern was our interpretation: we read unrelationing as excluding any fixed repeating relation with another changing. We then asked the user to derive that exclusion. The proposed identification was unestablished.
+
+Naming's never-locking passages explain why that comparison occurred to us, but their words do not supply the missing identity between unrelationing and the exclusion we formulated. The user's all-other-rates wording does not by itself establish that identity either. The no-authority correction applies to this assistant interpretation.
+
+**The question is withdrawn.** It is not moved into a list of required unresolved proofs and is not restored merely because a source uses never locking. The same four-cycle's recurrence and the proposed new still possibling can be followed without imposing a new rule that a repeating relation between changings must be impossible.
+
+The entraining offering remains a candidate: changing traveling in the betweenings in a sequential pattern, with its proposed unrelationing-rate relation. This correction neither derives that candidate nor disproves it. We keep its exact wording and the earlier podaling, even/odd, half-momentary and surface offerings available for their actual relations to be followed.
+
+The practical next work is following successive arriving, resolving and offering at the coupling, identifying an actual missing relation only when that following needs one. Binary all-or-none-at-all does not turn an arbitrary alternative into something that must be excluded. A particular impossibility needs a particular contradiction or excluding relation, not a demand added to the method.
+
+THIRTY's mate now states this correction beside the entraining droplet and removes the no-fixed-repetition question from the current working direction. The two other sessions are to receive the same withdrawal because we sent them that question. The earlier source distinction between nothing offered and no arriving geodesic changing stays unresolved; R10 and the earlier offering body remain unchanged. — v385R
