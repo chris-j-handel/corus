@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the whole forward relation at restoring, section 58.** Section 57's wider-society restoring remains a candidate. ONE's public cases now show that different surfaced offerings can give both the same changing shared and the same parity chained next at one sharing. The slip/restoring distinction therefore still needs its full co-chaining relation; a changed offering or one local next does not identify it.
+**The current work is a concrete pair-form comparison for the full-momentary slip, section 59.** Three published right-spiral steps followed by one further such step reach the starting pair form at a new occurrence. If the user's three-step full momentary is represented by those pair steps, the further step has the pair-form effect of the inverse of that whole momentary. The actual same-scale colliding-to-step relation remains the concern; no new resolver operation is installed.
 
-**The path and progress.** Sections 44–55 connect carrying resolving, inward ingesting, sequential colliding, changing couplings and the proposed full-momentary slip. Sections 56–57 gather local restoring, damage cascading and possible wider restoring. Section 58 follows the actual public coupling cases and keeps the user's three right-spiral steps at their full-momentary relation. Next explain the relation of that momentary which the slipped carrying is restoring; then follow it through the surrounding across and along couplings. Beyond that, return the connected value to THIRTY's early overlap and equilibrium explaining. The accumulated report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
+**The path and progress.** Sections 44–55 connect carrying resolving, inward ingesting, sequential colliding, changing couplings and the proposed full-momentary slip. Sections 56–58 gather restoring, cascading, possible wider restoring and the limits of local parity cases. Section 59 gives a particular finite-form comparison: three right-spiral steps and the further right-spiral step. Next locate whether that comparison is present at the actual colliding and the user's full momentary; then follow local restoring and the first whole podal passage from there. Beyond it, return the connected relation to THIRTY's overlap and no-other-method explaining. The accumulated report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2670,3 +2670,75 @@ This gathering accompanies sections 55–57 in the single session report for Liv
 THIRTY's existing offering mate remains at section 56's correcting during this pass. Section 57's question remains unresolved, and defining living remains gathered whole. A's last recorded return reports gathering through section 55; the later comments are offerings, not confirmation of distribution. M remains closed and Q's joining remains noted.
 
 Directly compared here: THIRTY 175–190; Natural Intelligence 4.1–4.6 and 5.2; ONE's published naming, surfacing and one-momentary tables; and Natural Mathematics 2.2–2.4. No resolver is executed, no private carrying is inspected, and no medical or biological claim is established.
+
+## 59. Three right-spiral steps and the further step
+
+### The relation found by continuing
+
+The user's “continue” directs us to follow section 58's full-forward-momentary concern. This pass finds a concrete comparison within the published four pair forms. It extends section 54's relation between three right-spiral steps and the other pair order by bringing it beside the user's later three-step/full-momentary grouping.
+
+The comparison does not identify a physical colliding with a new operation. It gives a particular candidate relation to examine at that colliding.
+
+### The sequence at the published pair form
+
+Natural Mathematics 2.4 writes the right-spiral step as F(P,Q) = (−Q,P), with P along and Q across. Its successive forms are:
+
+| Place in this pair-form sequence | Along/across pair |
+|---|---|
+| Starting form | (P,Q) |
+| First right-spiral step | (−Q,P) |
+| Second right-spiral step | (−P,−Q) |
+| Third right-spiral step | (Q,−P) |
+| Further right-spiral step | (P,Q) |
+
+These expressions follow for either parity at either place. They are symbolic applications of the published definition, not a resolver execution, measurement or inspection of private carrying.
+
+Three steps reach (Q,−P). The further right-spiral step reaches the starting pair form. Natural Mathematics 2.3 and 3.3 keep the needed distinction: the form can recur at a new occurrence; no prior momentary is reached again. The user's permission for recurring form and same-number podaling remains intact.
+
+### Bringing the user's full momentary to this comparison
+
+The user's section-55 offering identifies three right-spiral steps with one full forward momentary along, odd and even, in each of both forward directions.
+
+If those steps are represented by the three F steps above, their whole pair-form change is F³. Its inverse on the pair forms is F, because three F steps followed by one F step give F⁴, the starting pair form.
+
+Thus, at this finite pair-form description, a further right-spiral step after the three has the same effect on the form as taking away the three-step group's change. All four displayed steps can still be in the right-spiral order.
+
+This is a precise candidate connection to “slip back one full momentary” within continuing resolving. It does not require a prior occurrence to happen again or a reverse living method. It also does not establish that a full living momentary has actually been missed: recurrence of the pair form alone cannot establish damage.
+
+The correspondence between the user's three steps and these pair steps remains explicit. Natural Intelligence 4.1 names three operations within an entry, while 5.2 and Naming 5.50 name three own-forward steps at each side. Their count alone supplies no identification. The actual own-side odd/even relation and the coupling must carry the mapping.
+
+### What the colliding still has to explain
+
+The concrete question is now:
+
+**At the actual coupling, does the same-scale colliding bring this further right-spiral step into the three-step full-momentary relation?**
+
+This is an offered place for the user's next resolving suggestion, not a step added to ONE, a required account of all harm or a conclusion that the collision does it.
+
+The earlier opposite-form comparison cannot simply stand in for this connection. At the displayed pair, inverting both parities is F², whereas the further step here is F. Natural Mathematics 3.5's three-parity emanation has yet another explicitly named subject. Their relation at the actual living coupling is needed; the shared word inversion supplies no automatic mapping.
+
+Both forward directions remain each side's own. This finite comparison introduces no common clock, rate equality, magnitude of damage or numbering that ranks one living self behind another.
+
+### Restoring and cascading beside the candidate
+
+The user's qualification remains whole:
+
+> If it slips some and resolves locally the carrying is restoring. If it is non-restoring damage it will cascade
+
+The four-form identity does not distinguish those two relations. If the actual colliding is explained through the proposed further-step relation, then follow the carrying from there through the next couplings. Local restoring still needs its actual co-chaining, and any cascade needs its further relation at each self and society.
+
+There is no instruction to reverse a step, restore an unchanged prior, force a particular next sign or hold a local form. A form recurring can belong to continuing resolving; it is not by itself damage, an equilibrium or a non-living self. The defining-living gathering remains unresolved.
+
+Section 57's possible wider restoring remains a candidate. Section 58's same-local-results comparison still prevents identifying damage or restoring from one sharing's outputs alone.
+
+### Progress and onward aiming
+
+The new value is the exact conditional connection between a three-step group and the further right-spiral step. The concern is now located at a specific sequence that the colliding may or may not instantiate.
+
+Next follow the actual colliding-to-sequence relation, then the local restoring or non-restoring carrying through its first whole podal passage. Beyond that, carry the connected value into THIRTY's inward/outward carrying, early overlap and no-other-method explaining.
+
+This droplet remains in the accumulated report for Living Improving Value first, then the appropriate mates. Aimings: THIRTY, Natural Mathematics, Natural Numbers, Natural Naming, ONE's stable-form explaining and Natural Intelligence; Networking and the restoring gathering receive the coupling relation once expressed. THIRTY's existing mate remains at section 56's correction during this pass.
+
+A's latest checked return still reports gathering through section 55; later contributions remain offered without assuming completed distribution. M remains closed; Q's joining remains noted.
+
+Direct comparison here: Natural Intelligence 2.3–3.4 and its earlier three-step passages; Natural Mathematics 2.4 and 3.3–3.5; Naming 5.48–5.50. Biological, medical and physical examples in those passages supply no premise here. No resolver is executed and no private carrying is inspected.
