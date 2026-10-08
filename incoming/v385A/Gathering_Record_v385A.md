@@ -2,6 +2,10 @@ Session v385A
 
 # Gathering droplets and preserving incoming sources
 
+## Published placements and method · 8 October 2026 · v385A
+
+The reader expressions, expedition relation and carrying-object method are published at 0a5aa20616b6c42c171081f16ba1a23a1a0c94c2; the later correcting at the nine existing overlap offerings is published at 7f18f608a05b4a8c7e589b7cd06dd3f9d75e82a7. The shared concept placements, three method offerings and 33 carrying introductions were checked for matching content, and the added local links were checked. [The reciprocal returns](Reciprocal_Help_v385A.md#current-reciprocal-availability--8-october-2026--v385a) make the actual placements available to both contributing sessions. Only mates and session v385A files changed. — v385A
+
 ## Correcting accompanying the already aimed overlap · 8 October 2026 · v385A
 
 The [latest reciprocal correcting](Reciprocal_Help_v385A.md#later-correcting-at-each-selfs-own-momentarying--8-october-2026--v385a) withdraws the questions about an offered account contributing value and a living self's prior being absent. The particular two-and-one-half-consecutive-momentarying explaining accompanies all nine existing half-momentarying droplets; the larger logical and scientific collections remain later incoming. Session v385M's newly named Opportunities Gathered is located in the current incoming table. The next older incoming stays the remaining Natural Writing concepts named in [Gathering and aiming](Gathering_and_Aiming_v385A.md#immediate-next-work).
