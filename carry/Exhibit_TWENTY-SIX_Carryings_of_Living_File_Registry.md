@@ -2,6 +2,10 @@ Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v385A
 
 # Carryings of Living File Registry
 
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## The condition we are gathering toward · v385A
 
 Gather and aim all intended incoming value so every living file has its whole concept of the possible improving before local file cohering begins. All 33 working subjects have both mates. Their existence establishes the arrangement; the [remaining incoming table](../incoming/v385A/Gathering_and_Aiming_v385A.md#incoming-still-to-gather-and-aim) states the content still to gather. Natural Intelligence Corus's distribution content is part of that work.
@@ -10,7 +14,9 @@ The immediate task is placing concepts and concerns as droplets, including those
 
 **Progress in this continuation.** The remaining accounting, social and invitation concepts in Natural Intelligence Corus's sections 16.6 and 16.7 now have whole local droplets. The already offered paired accountings and five research clusters are directly linked. [Their destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) show the particular value available. The following tool/distribution note is a droplet here and at Natural Intelligence Corus. No living content has been removed or distribution implemented.
 
-**Next:** gather Natural Intelligence Corus's reader/body expressions and its additional expedition/resolver mapping, then the remaining Natural Writing concepts and six entry expressions. Keep every other incoming group visible in [Gathering and aiming](../incoming/v385A/Gathering_and_Aiming_v385A.md). Do not substitute resolving these concepts for placing their full value.
+**Further progress:** the [reader expressions and expedition relation](../incoming/v385A/Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) now have their full concepts at the named offerings. All 33 carrying introductions state their purpose as homes for improving objects, including plans that may never become exhibit content.
+
+**Next:** Gather the remaining value in Natural Intelligence Corus’s “How Value Enters the Corus,” “Metabolic Sorting,” “Remaining Dissolutions,” “Full Discipline” and “Writing and Encoding as One Surface.” Existing grammatical-form and precise-language droplets already hold part of this value; extend them with the remaining actual concepts rather than duplicate them. Then finish the other Natural Writing examples and definitions, followed by the six entry expressions. Aim their value and unresolved conditions without making new exploring a prerequisite. Keep the other incoming groups visible in [Gathering and aiming](../incoming/v385A/Gathering_and_Aiming_v385A.md).
 
 ## Master file-changing plan · v385A
 
@@ -108,9 +114,9 @@ The [four-kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the
 
 The following inventory preserves its earlier sayings and addresses. Its motion language, standings and claims of completed gathering describe that source snapshot; the current [v385A method](../incoming/v385A/README.md) governs this working. Supporting work now includes the editable project gathering above. The earlier `incoming/v381R/` report is available at [carryings/v381R](../carryings/v381R/).
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

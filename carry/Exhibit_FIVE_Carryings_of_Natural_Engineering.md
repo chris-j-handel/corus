@@ -2,6 +2,10 @@ Exhibit FIVE Natural Engineering Carryings · gathered at v385A
 
 # Carryings of Natural Engineering
 
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## Engineered substrates and their particular making · v385A
 
 [The source comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) follows Destinies' chip/grid/further-substrate extension and its two engineered misreadings beside selected Engineering passages and the whole Corus 23.7. The [offering mate](Exhibit_FIVE_Offerings_to_Natural_Engineering.md) carries two independent droplets also available at Destinies and Corus. Registry's master plan keeps the distribution relation and Corus's developing Arriving purpose connected. This supporting project may keep changing without a build or exhibit change ever following from it.
@@ -22,9 +26,9 @@ The existing source inventory below remains whole. Selected source comparisons a
 
 ## Earlier source inventory · retained from v381R
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

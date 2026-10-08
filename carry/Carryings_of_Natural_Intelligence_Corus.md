@@ -2,9 +2,19 @@ Natural Intelligence Corus Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence Corus
 
+## Further incoming concepts aimed at this subject · v385A
+
+The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.
+
+- [A reader's own prior and prior from this writing](Offerings_to_Natural_Intelligence_Corus.md#a-readers-own-prior-and-prior-from-this-writing--v385a)
+
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## Distribution value aimed in this continuation · v385A
 
-The [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) links the whole destination droplets for the remaining accounting, social and invitation value in sections 16.6 and 16.7, including their concerns. It also links the already offered paired-accounting and research value and the following instrument plan. These concepts no longer await destinations. The earlier “further comparison” paragraphs below are not instructions to explore before aiming. Next gather the reader/body and expedition/resolver concepts, then the remaining Natural Writing and six entry expressions. The living Corus passages remain intact.
+The [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) links the whole destination droplets for the remaining accounting, social and invitation value in sections 16.6 and 16.7, including their concerns. It also links the already offered paired-accounting and research value and the following instrument plan. These concepts no longer await destinations. The earlier “further comparison” paragraphs below are not instructions to explore before aiming. The [reader expressions and expedition relation](../incoming/v385A/Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) now also have whole destination droplets. Next gather the remaining value from How Value Enters the Corus through Writing and Encoding as One Surface, then the other Natural Writing concepts and six entry expressions. The living Corus passages remain intact.
 
 
 ## Corus arriving and distribution: passage comparison · v385A
@@ -70,6 +80,10 @@ The wording has changed. The v314 note preserves “the how and no-other-possibl
 | **White space and Inversion Technique** | Corus assigns +1 to a blank line and claims collapsing blank lines loses the gap; it also joins two one-way verbs with “and.” | Preserve both claims and their textual/geometry relation with the shared grammatical-form droplet. Neither a layout choice nor the word “and” by itself derives a natural relation. |
 | **Inversion Writing** | Corus's exact older wording asks for a first “bad” surface and then a “good” one, retaining the writer's own language. Explaining 1.3 welcomes without anything performed first; 4.2 follows the particular improving. | Precision in the offered wording is useful. The older two-pass prescription stays at its source; there is no mandatory defective first draft, grading or admission condition for a droplet. |
 | **Two One-Way Languages** | Corus names competency and morality as two one-way languages, directs their order, and asserts harm when either is used at the other subject. Explaining 4.9 makes an own offering available without a demand; Naming 2.7 preserves a field's own saying and exact operation. | A droplet at Corus and Explaining preserves precise arrival in one's own or a field's language, with welcoming and subject-specific improving. The source's universal harm claims and its temperature, genes, gravity, prices, brain, selection, immune and inflation examples remain particular explainings to compare. Changing a verb supplies no empirical result or completed resolving of those subjects. |
+
+### Current placement of the reader expressions and expedition relation · v385A
+
+The [current destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) gives the whole droplets now available for the reader’s prior and reading, five bodily comparisons, three observer-position projections, and the proposed expedition/resolver relation. Their uncertainties remain with their concepts. The older comparison below records the preceding extent; its descriptions of these particular concepts as unplaced are superseded. The remaining sections of Natural Writing still need their complete concept gathering.
 
 ### Part 16.4: uncertainty, returning and the improving method
 
@@ -173,9 +187,9 @@ The hard-problem extension droplet is independently at Corus, Destinies and THIR
 
 The following inventory preserves its former language and addresses. The current [v385A method](../incoming/v385A/README.md) governs this gathering; an old address or completed-standing claim supplies no new completion. The v381R source is now reachable at [carryings/v381R](../carryings/v381R/).
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

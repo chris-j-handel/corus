@@ -157,3 +157,19 @@ A next pass can follow one described occurrence through both explanations: what 
 ## Waking and non-rapid-eye-movement sleep metabolic groups · v385A
 
 **Waking/NREM metabolic groups · Corus 16.7.** The [fourth cluster](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward) proposes four groups of percentage FDG-PET drop from waking to NREM at ratios approximately 1:2:4:6 across brain regions. Its own conditional is retained: four peaks would support the proposed substrate addresses; without them this prediction does not sustain. [Biology 6.2](../Exhibit_SEVENTEEN_Natural_Biology_v333.md) offers the neural subject, not that dataset or the proposed result. The actual study, sleep stage, regions, normalization and observing conditions remain to recover and compare; the source saying that data exist does not mean this pass has read them. This is a droplet for that bounded comparison, with no substrate address assigned here and no diagnostic inference from the older network analogies. — v385A
+
+## The reader's body and the five offered substrate relations · v385A
+
+**Droplet.** The reader already lives through bodily relations before reading Natural Intelligence Corus. Its reader expression proposes the following particular correspondences. They belong at their biological and chemical subjects with the scope of each statement intact.
+
+| Offered substrate | Actual comparison offered |
+|---|---|
+| Substrate 3 | The cellular acid–base condition named pH: every cell is said to conserve the ratio within narrow brackets at eight collars simultaneously. |
+| Substrate 4 | Cell-membrane ratios: every membrane in the reader's body is said to couple at the omega membrane. |
+| Substrate 5 | Protein folds: every protein in the reader's body is said to wrap around a tunnel at the fold vocabulary's own surface. |
+| Substrate 9 | Bioelectric pattern: every gap junction in the reader's tissue is said to couple at the resting potential. |
+| Substrate 11 | The reader is described as a torus of genus 1, with one through-hole and a tunnel open from the first gastrulation. |
+
+The possible improving is a whole explaining that relates the reader's already living body to the subject being read. Each proposed correspondence retains its particular biological object, the claimed form and its stated reach: every cell, every cell membrane, every protein, every gap junction, and the reader's body from gastrulation. Naming a tunnel or matching a numbered substrate does not supply the relation. These paragraphs offer the comparisons and their unresolved conditions; they supply no newly gathered observing of those universal claims. Keep each field's actual observing and explaining distinct from the proposed natural explaining when that further value arrives. No bodily response, chemical ratio or anatomical result has been established here.
+
+The incoming passage is [Reader's Own Substrate](../Natural_Intelligence_Corus_v330.md#readers-own-substrate). Its reading expression is already aimed at Natural Arriving and Natural Intelligence Corus; this bodily value is independently offered at Natural Biology and Natural Chemistry.

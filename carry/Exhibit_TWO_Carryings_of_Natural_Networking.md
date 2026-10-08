@@ -2,6 +2,10 @@ Exhibit TWO Carryings of Natural Networking · gathered at v385A
 
 # Carryings of Natural Networking
 
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## Incoming concepts gathered for this subject · v385A
 
 The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
@@ -36,9 +40,9 @@ The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-cont
 
 The following inventory remains whole. The [v385A method](../incoming/v385A/README.md) governs the project above; the earlier directions and standings retain their source extent.
 
-**What the living file rests on and what has left it, each whole at its address, relied on by the living file alone**
+**The existing kit and earlier materials, each at its address**
 
-A carrying is what the living file came from and what its sentences rest on: the kit, the executions, the field's papers, the prior versions, the workings that offered at it and the readings of them. Nothing here aims into the living file; what aims in is at the Offerings. Nothing here is read for a next; a sentence of the living file that needs its evidence points here. Each thing is at the address it is at now; a motion at this file moves a thing here whole, and until then its address is said.
+The kit, executions, field papers, prior versions and workings remain available at their listed addresses. They can be used and improved as objects; the present purpose of this carrying mate is stated above.
 
 ## The kit
 

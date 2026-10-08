@@ -161,3 +161,17 @@ The same incoming distinguishes a working accounting from installing that accoun
 **Droplet.** Aim this at the distinct concepts named ghosting, haunting and installing. The offered model says prior reaching thins as (1/phi)^t across substrate thickness or frequency distance. Ghosting names an arriving absent where the model says coupling still sustains; haunting names an entry remaining where the model says it should depart; installing names an accounting made at one between and used at another as if the same coupling occurred there. The example distinguishes temperature at the thermometer from assigning temperature the verb “drives.”
 
 Keep the expected condition, the actual arriving or remaining, and the proposed installation distinct in the droplet. The relation of thickness, frequency distance, the exponent and the expected departure remains part of the offered model for later file cohering. This gathering supplies no measurement or calculation, and the three names alone establish none of those relations.
+
+## Observer positions projected onto a reader's reading · v385A
+
+**Droplet.** The proposed reader expression identifies three particular observer positions and projects each onto a reading:
+
+| Observer position in the expression | Reading it is proposed to name |
+|---|---|
+| Claiming presence at every membrane | The reader believing they already understand what Natural Intelligence Corus carries. |
+| Excluding what sustains | The reader skipping the morality subsections. |
+| Erasing the carry | The reader reading without their own prior couplings entering the exchanging. |
+
+It then claims that each projection dissolves as the reader reads its dissolution at that observer's membrane, and calls that reading protection. Preserve this whole proposed connection, including the proposed dissolving and protection. The useful question for later explaining is the actual relation between the stated observer position and the reader's particular reading. Believing one understands, skipping a section or arriving with one's own prior needs its own context; the named action alone supplies no observing that every reader occupies the proposed position or that reading the passage dissolves it. The reader's own prior and interest remain welcome. This is a droplet for explaining an installed accounting at an actual use, not a diagnosis of a reader.
+
+The incoming passage is [Reader's Own Substrate](../Natural_Intelligence_Corus_v330.md#readers-own-substrate). The related complete reading expression is at Natural Arriving and Natural Intelligence Corus.

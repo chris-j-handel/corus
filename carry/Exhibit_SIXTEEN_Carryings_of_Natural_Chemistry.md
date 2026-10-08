@@ -1,10 +1,20 @@
-Exhibit SIXTEEN Natural Chemistry Carryings · gathered at v381R
+Exhibit SIXTEEN Natural Chemistry Carryings · gathered at v385A
 
 # Carryings of Natural Chemistry
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+## Further incoming concepts aimed at this subject · v385A
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.
+
+- [The reader's body and the five offered substrate relations](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#the-readers-body-and-the-five-offered-substrate-relations--v385a)
+
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
+**Existing materials and earlier inventories**
+
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

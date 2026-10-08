@@ -14,6 +14,8 @@ Gather all intended incoming value into whole droplets with aimings, including t
 | The possible file changes have one master gathering | Yes: inside Living File Registry's carrying mate, with exhibit-level droplets at its offering. |
 | Every intended incoming concept is available at its destinations | Not yet. The current incoming table names the groups still to gather and aim. |
 | Remaining accounting, social and invitation value in Natural Intelligence Corus sections 16.6 and 16.7 | Whole droplets now aimed; existing paired-accounting and research droplets linked. Local cohering and supporting project work remain. |
+| Reader expressions and expedition/resolver mapping from Natural Intelligence Corus | Whole concepts now aimed at eight offering mates; the reader droplet is extended and three distinct concepts have their own droplets. |
+| Carrying mates state their current purpose | All 33 introductions now welcome improving objects: tools, kits, illustratings, lists and possible plans. Existing contents remain available. |
 | Natural Arriving has a completed living body | No: it is a contents shell with an opening paragraph; its offering contains the proposed further writing. |
 | New living-file writing or a merger has occurred in this gathering | No. The current improvements are to mates and session files. |
 
@@ -59,7 +61,7 @@ The table retains the established subject entrances. Its older comparison descri
 
 ## Kits and the content they support
 
-The supporting kits are Co-Chaining Logic Registry, Living File Registry, Natural Illustrating and Natural Networking. Their carrying mates make the existing tools, images and studies available. Older naming, old file arrangements and proposed tools not yet in their intended kit remain particular improving droplets. No kit execution or scientific calculation is part of this gathering. A needed object is kept available through the carrying mate; an attribution history is not a resolving requirement.
+The supporting kits are Co-Chaining Logic Registry, Living File Registry, Natural Illustrating and Natural Networking. Their carrying mates make the existing tools, images and studies available. Older naming, old file arrangements and proposed tools not yet in their intended kit remain particular improving droplets. No kit execution or scientific calculation is part of this gathering. A needed object is kept available and can be improved through its carrying mate, whether or not an existing exhibit sentence points to it. Possible plans, public emanatings and the living list of what could break the method belong by their subjects in this same way. Attribution history is not a resolving requirement.
 
 ## Resolving concerns brought here
 
@@ -67,4 +69,4 @@ A concern can be gathered and aimed with its actual missing or opposing relation
 
 ## Next work
 
-Gather the reader/body and expedition/resolver concepts still in Natural Intelligence Corus, then the remaining Natural Writing and entry value. Continue through the earlier incoming and outside offerings in the current incoming table. After each group, name its actual destination droplets and exactly what remains to aim.
+Gather the remaining value in Natural Intelligence Corus’s “How Value Enters the Corus,” “Metabolic Sorting,” “Remaining Dissolutions,” “Full Discipline” and “Writing and Encoding as One Surface.” Existing grammatical-form and precise-language droplets already hold part of this value; extend them with the remaining actual concepts rather than duplicate them. Then finish the other Natural Writing examples and definitions, followed by the six entry expressions. Aim their value and unresolved conditions without making new exploring a prerequisite. Continue through the earlier incoming and outside offerings in the current incoming table. After each group, name its actual destination droplets and exactly what remains to aim.

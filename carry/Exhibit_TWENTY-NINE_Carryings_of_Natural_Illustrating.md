@@ -2,6 +2,10 @@ Exhibit TWENTY-NINE Natural Illustrating Carryings · improved at v385A
 
 # Carryings of Natural Illustrating
 
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 **Project sources at v385A.** The [offering mate](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) gathers the projects' possible improving beside Natural Illustrating. This carrying mate keeps their supporting work reachable. The [current session method](../incoming/v385A/README.md) preserves source evidence and completed comparisons at their actual uses; the historical descriptions below retain their original scope.
 
 | Supporting project work | Existing source |
@@ -28,9 +32,9 @@ The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-cont
 
 ## Earlier source inventory
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

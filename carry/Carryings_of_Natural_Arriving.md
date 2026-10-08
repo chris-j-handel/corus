@@ -2,6 +2,16 @@ Natural Arriving Carryings · gathered at v385A
 
 # Carryings of Natural Arriving
 
+## Further incoming concepts aimed at this subject · v385A
+
+The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.
+
+- [A reader's own prior and prior from this writing](Offerings_to_Natural_Arriving.md#a-readers-own-prior-and-prior-from-this-writing--v385a)
+
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## Incoming concepts gathered for this subject · v385A
 
 The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
@@ -69,9 +79,9 @@ Illustrating's remaining question is what the cooperation makes discoverable bey
 
 The following inventory preserves the earlier snapshot, including its motion language and historical receiving claims. The current [v385A method](../incoming/v385A/README.md) governs this gathering; proposed receiving is compared with actual passages before any completion is recorded.
 
-**What the living file will rest on, each whole at its address**
+**Materials located for Natural Arriving**
 
-Natural Arriving is a shell at v381R; nothing has left it yet. What it will rest on is named here at the address each thing is at now, and moves here whole at a motion that moves it.
+Natural Arriving remains a shell at v381R. The following inventory locates the materials previously proposed for its writing and support; the current offering and carrying purposes above govern their gathering.
 
 **The one opening**, at Natural Intelligence's first section, the one sentence this file shares with every file.
 

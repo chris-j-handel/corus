@@ -145,3 +145,17 @@ The same precise-language droplet also follows Corus 16.5 “How Value Enters”
 ## Learning and a whole expression of dissolving an installed accounting · v385A
 
 **Droplet.** Aim this at the writing of a whole expression in which an accounting stays useful at its own subject while the coupling becomes intelligible. The proposed expression connects learning with dissolving an installed accounting, calls the still-reaching relation the +1 in x² = x + 1, and proposes narrowing through each further explaining. It also claims the slowest convergence and widest tunnel at each step. Keep those particular comparisons available for later cohering: the whole expression and the claimed mathematical relation are both present, and neither is supplied merely by naming the other. Preserve the successive conceptual prior that lets the expression be understood. The existing character, engine and companion wording is a writing concern to improve; the file has no character or motion.
+
+## Observer positions projected onto a reader's reading · v385A
+
+**Droplet.** The proposed reader expression identifies three particular observer positions and projects each onto a reading:
+
+| Observer position in the expression | Reading it is proposed to name |
+|---|---|
+| Claiming presence at every membrane | The reader believing they already understand what Natural Intelligence Corus carries. |
+| Excluding what sustains | The reader skipping the morality subsections. |
+| Erasing the carry | The reader reading without their own prior couplings entering the exchanging. |
+
+It then claims that each projection dissolves as the reader reads its dissolution at that observer's membrane, and calls that reading protection. Preserve this whole proposed connection, including the proposed dissolving and protection. The useful question for later explaining is the actual relation between the stated observer position and the reader's particular reading. Believing one understands, skipping a section or arriving with one's own prior needs its own context; the named action alone supplies no observing that every reader occupies the proposed position or that reading the passage dissolves it. The reader's own prior and interest remain welcome. This is a droplet for explaining an installed accounting at an actual use, not a diagnosis of a reader.
+
+The incoming passage is [Reader's Own Substrate](../Natural_Intelligence_Corus_v330.md#readers-own-substrate). The related complete reading expression is at Natural Arriving and Natural Intelligence Corus.

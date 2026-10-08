@@ -2,6 +2,10 @@ Natural Intelligence Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence
 
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 **Current source comparison · v385A.** Session v385R's requirement to exclude every fixed repeating relation between changings is withdrawn: its identification of that exclusion with unrelationing was not established. The proposed explaining of entraining and the unresolved relation between nothing offered and no arriving geodesic changing retain their separate questions. Its question about observing living asks what existing relation distinguishes living social moral competency from a non-living form's changing at a colliding; the complete gathering remains unresolved at its source. [Exact naming and explaining](../incoming/v385A/Exact_Naming_and_Explaining_v385A.md) states each source and relation in full.
 
 The user's offered relation between a set and its existing things is independently at Offerings to Natural Intelligence, Offerings to Natural Naming and Offerings to Co-Chaining Logic Registry. Session v385M's withdrawn second opening statement accompanies the proposed first page at Offerings to Natural Intelligence, Offerings to Natural Arriving and Offerings to Living File Registry. The next source comparison concerns the intended content of Living File Registry, Geodesic Improving Method and Natural Arriving and their mates. Item 3 of Gathered Value 1 from session v380L and the connected Natural Emanating plans remain further work. These placements establish availability for improving; they establish no completed writing in the living files.
@@ -30,9 +34,9 @@ Registry retains the possible distribution; the full outward expression remains 
 
 The following inventory remains whole as its historical source. The [v385A method](../incoming/v385A/README.md) governs the project above; source presence is not complete gathering or local resolving.
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 

@@ -2,6 +2,14 @@ Session v385A
 
 # Gathering droplets and preserving incoming sources
 
+## Reader expressions, expedition relation and carrying objects · 8 October 2026 · v385A
+
+[The current destination table](Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) identifies an extended reader droplet at Natural Arriving and Natural Intelligence Corus and three distinct concepts independently aimed at their subjects: the five bodily comparisons at Natural Biology and Natural Chemistry; the observer projections at Living Ghost Registry and Natural Explaining; and the expedition/resolver mapping at Geodesic Improving Method and Co-Chaining Logic Registry. The two incoming subsections were read whole. Their proposed conditions and unresolved relations are inside the offerings; no living Corus passage was removed.
+
+All 33 carrying introductions now state their purpose as homes of living objects of value, including kits, illustratings, lists and possible plans. Their existing materials remain available. The same correction is in the three shared method offerings and current continuing instructions. Natural Exploring's living list includes possible gaps in sequential logic as well as possible breaking observings; its linked instruments were located but not executed. [Reciprocal help](Reciprocal_Help_v385A.md#carrying-objects-and-the-withdrawn-extra-third-self-question--8-october-2026--v385a) records the exact contributing corrections. The current co-chaining and wider-and-longer-podaling relation replaces the withdrawn extra-third-self question at Natural Transmissioning and Natural Intelligence Corus.
+
+Gather the remaining value in Natural Intelligence Corus’s “How Value Enters the Corus,” “Metabolic Sorting,” “Remaining Dissolutions,” “Full Discipline” and “Writing and Encoding as One Surface.” Existing grammatical-form and precise-language droplets already hold part of this value; extend them with the remaining actual concepts rather than duplicate them. Then finish the other Natural Writing examples and definitions, followed by the six entry expressions. Aim their value and unresolved conditions without making new exploring a prerequisite.
+
 ## Published gathering and reciprocal availability · 8 October 2026 · v385A
 
 The gathering and aiming instructions, nine new concept droplets and current method corrections are published at 3cb064dfc6e705d1f9fb047f2a8cb63d865405e0. The three shared method offerings match; added local links and headings were checked. [The reciprocal record](Reciprocal_Help_v385A.md#gathering-method-offered-to-both-contributing-sessions--8-october-2026--v385a) locates the two comments making these placements available to sessions v385R and v385M. The next incoming remains Natural Intelligence Corus's reader/body expressions and expedition/resolver mapping. — v385A

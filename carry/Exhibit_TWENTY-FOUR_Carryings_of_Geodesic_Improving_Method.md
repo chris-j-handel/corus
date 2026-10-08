@@ -2,6 +2,16 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v385A
 
 # Carryings of Geodesic Improving Method
 
+## Further incoming concepts aimed at this subject · v385A
+
+The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.
+
+- [The Method is the Resolver at the Expedition Scale](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#the-method-is-the-resolver-at-the-expedition-scale--v385a)
+
+## Living objects of value for this subject · v385A
+
+This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
+
 ## Exact names and the present source comparison · v385A
 
 [Exact naming and explaining](../incoming/v385A/Exact_Naming_and_Explaining_v385A.md) preserves the user's correction and the particular source statements behind the earlier shortened references. The [Living File Registry plan comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) locates the existing whole-name offerings, the repository introduction's naming sentence and its proposed replacement, the table tools at their actual source addresses, and the preserving required before proposed archival. These support the existing projects. Their presence establishes available value; further writing and the full content account remain to follow.
@@ -18,9 +28,9 @@ This supports the existing AI arriving and file-changing plans. The current [no-
 
 ## Earlier source inventory
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Existing materials and earlier inventories**
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
 
 **Prior versions.** The repository's history carries each prior version of the file that left the root.
 
