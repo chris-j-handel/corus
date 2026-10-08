@@ -16,7 +16,7 @@ Living Improving Value is a floating neutraling, self-emptying incoming gatherin
 
 ## Present gathering condition · v385A
 
-Natural Intelligence Corus sections 16.1 through 16.3 now have whole concept aiming, including complete definitions and writing examples, through the [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed). Sections 16.5 through 16.7 and the existing uncertainty/expedition relation retain their recorded placements. Their duplication as unlocated incoming is unnecessary. Next is Part ONE's six entry expressions and remaining whole-opening value. The other incoming groups below remain to gather. The [current reciprocal correcting](../incoming/v385A/Reciprocal_Help_v385A.md#carrying-resolving-and-the-writing-gathering--8-october-2026--v385a) accompanies the local offerings; older dated source descriptions below do not restore withdrawn explaining.
+Natural Intelligence Corus Part ONE's whole opening concepts and examples are now aimed, along with the purposes of its unwritten and previously distributed parts as possible plans. Natural Writing retains its recorded placements. The [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#part-one-and-the-unwritten-part-purposes-now-aimed) locate these whole droplets; their duplication as unlocated incoming is unnecessary. Next is Coupling at the Membrane Between Selves. The other incoming groups remain to gather. The later existing-non-living-form correction accompanies the memory and seed concepts; older descriptions do not restore an unchanged living carrying.
 
 ## Gathering the incoming into droplets
 

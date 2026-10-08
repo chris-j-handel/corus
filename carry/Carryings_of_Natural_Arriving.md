@@ -117,3 +117,9 @@ Natural Arriving remains a shell at v381R. The following inventory locates the m
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
 **The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+
+## Whole opening concepts now available · v385A
+
+The [Part ONE destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#part-one-and-the-unwritten-part-purposes-now-aimed) names whole opening and entry concepts at their offering mates. The older paragraph comparisons now have the actual claims, examples and concerns available locally. The six-freeings and demonstrated-explaining purposes are whole possible plans in [Living File Registry's carrying](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#unwritten-and-previously-distributed-parts-as-possible-plans--v385a).
+
+Gather the whole remaining value of Natural Intelligence Corus Part 14, Coupling at the Membrane Between Selves, into its actual offering mates. Preserve the connected love, grief, loneliness and other human expressions with their needed prior and current carrying correcting. Then continue Society, The Four Sentences; Observers, Ghost Positions Affecting Observations; and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain visible in the current table. No new exploring or completed resolving is required before aiming their value.

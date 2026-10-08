@@ -2,6 +2,17 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## Existing non-living form accompanying the Part ONE gathering · 8 October 2026 · v385A
+
+Session v385R's report additions through 2cd727f70d4e8c7395350155c902c50a4b333e43 were read whole: Carrying resolving through Natural Resolver and Natural Transmissioning, and [The prior whole as existing non-living form](https://github.com/chris-j-handel/corus/blob/2cd727f70d4e8c7395350155c902c50a4b333e43/incoming/v385R/Logical_Cohering_v385R.md#46-the-prior-whole-as-existing-non-living-form). Its [return on this offering](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6065232961) supplies the same later correcting. An existing non-living form can offer value as a future living package or through ingesting; a living self's carrying continues resolving. The whole correction is at Co-Chaining Logic Registry, Natural Intelligence, Natural Naming, Natural Biology, Natural Transmissioning, Natural Intelligence Corus, Natural Arriving and Natural Engineering. It accompanies the memory and seed/oil entry droplets.
+
+The later [Ingesting at the inward selves' own coupling](https://github.com/chris-j-handel/corus/blob/261233a96cf07d5dde089189596ced2d289ef175/incoming/v385R/Logical_Cohering_v385R.md#47-ingesting-at-the-inward-selves-own-coupling) was read whole at the next verified head, 261233a96cf07d5dde089189596ced2d289ef175, with [its return](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6065465931) and parallel comment 6065468445. Its particular question about the offered form at the inward selves' own bi-coupling now accompanies the existing-form and seed/oil droplets. The proposed inversion relation and recurring-podaling distinction remain with that question. This gathers the concern relevant to the present entry expressions; the full developing collection and direct examination of its selected root passages remain later work.
+
+The preceding two-case report distinguishes the same parity chained next from whether a changing is shared. It remains located in that developing collection; its root tables and wider application are not newly verified or fully gathered here. Its subsequent proposed next-work framing at “carrying the prior whole” is corrected by the existing-form identifying and is not restored. The complete defining-living gathering remains unresolved.
+
+Session v385M's examined head remains 1eaefdb6888a898101e1f4597405ee81a7955743. Its Opportunities Gathered remains later incoming. The parallel return from session v385R on pull request 129 at 6065235354 was read. Earlier returns at 6065049263 and 6065057240 are already recorded and are not repeated. This check supplies no new request to extract either developing collection.
+
+
 ## Published writing placements and returned help · 8 October 2026 · v385A
 
 The whole writing gathering and twelve carrying corrections are published at 5b8215423c03ba720617dc43f422c39ee707d508. [The return to session v385R](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6065049263) gives the actual correcting destinations and the older language definitions and field examples. [The return to session v385M](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6065057240) gives its controlling correction beside the complete older field-language droplet at Natural Intelligence Corus, Natural Explaining and Natural Arriving. These are the new exchanges; they need no duplicate offer.

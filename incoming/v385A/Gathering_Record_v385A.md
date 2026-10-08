@@ -2,6 +2,14 @@ Session v385A
 
 # Gathering droplets and recording their destinations
 
+## Part ONE and possible missing-part writing · 8 October 2026 · v385A
+
+[The current destination table](Gathering_and_Aiming_v385A.md#part-one-and-the-unwritten-part-purposes-now-aimed) gives the whole opening offering, six entry expressions, actual examples, named paths, separate trust passage and whole welcome. Existing path and six-entry droplets were extended. The complete purposes of What a self sets down and what it keeps, and At explaining, are possible plans at Living File Registry and both arriving offerings; the master carrying keeps their actual content. No missing body is invented.
+
+The existing-form correction from session v385R is independently at eight affected mates and accompanies the memory and seed/oil concepts. The seed as a possible future living package remains distinct from the older delivery claim and from the unspecified “smaller societies omega.” No universal biological classification or new numerical relation is assigned.
+
+Gather the whole remaining value of Natural Intelligence Corus Part 14, Coupling at the Membrane Between Selves, into its actual offering mates. Preserve the connected love, grief, loneliness and other human expressions with their needed prior and current carrying correcting. Then continue Society, The Four Sentences; Observers, Ghost Positions Affecting Observations; and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain visible in the current table. No new exploring or completed resolving is required before aiming their value.
+
 ## Complete aiming of the remaining writing examples and definitions · 8 October 2026 · v385A
 
 The complete sections Writing Discipline, Language Prime, and Inversion and Rocking were read beside their existing droplets and relevant Natural Explaining passages. The [destination table](Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) gives all seven concept groups: grammatical definitions and rocking, dictionary meanings, pronoun relations, precision and field examples, writing catches, self-welcoming purposes, and multiple expressions. Existing droplets were extended where the relation was already offered. A title or report address is no substitute for their now-local concepts and concerns.
