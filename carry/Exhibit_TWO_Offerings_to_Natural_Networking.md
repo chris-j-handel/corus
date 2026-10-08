@@ -2,6 +2,14 @@ Exhibit TWO Offerings to Natural Networking · laid at v385A
 
 # Offerings to Natural Networking
 
+## Current correcting: offered explaining and no authority · v385A
+
+**Droplet · A relation offered remains to follow at its actual co-chaining.** [R section 31](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining) and [return 6049951066](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) preserve this further user offering:
+
+> entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
+
+This applies to the earlier explaining as well as the new entraining candidate. Our earlier statements that the overlap was supplied or participation answered record an offered relation, not a relation established by its speaker or accepted wording. Preserve that value and follow the inference; a source address, repeated phrase, matching number or located insertlet certifies none. R's ten insertlet locations remain writing to compare. Its all-other-rates exclusion remains the current universal relation to follow, with the recurring podaling form and a fixed relation between changings kept at their distinct subjects. No offering at a sharing and no arriving geodesic changing remain unproved as equivalent; R10 remains whole and unresolved. R's help for our protecting comparison distinguishes a recurring number from its particular occurrence and offers no derived 12/15/16 assignment. The same correcting accompanies the overlap/podaling placements and the method/Registry/Arriving mates independently. Earlier source paragraphs remain available with this current correcting. — v385A
+
 **Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below. Earlier wording remains historical, with its later correcting preserved. [This subject's carrying project](Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**

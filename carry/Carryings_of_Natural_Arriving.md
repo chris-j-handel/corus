@@ -2,6 +2,12 @@ Natural Arriving Carryings · gathered at v385A
 
 # Carryings of Natural Arriving
 
+## Earlier entry value at its actual places · v385A
+
+[The entry content account](../incoming/v385A/Arriving_Content_Account_v385A.md) reads v381F's entry report and complete opening proposal and v381R's entry report whole, then follows their eleven/nine findings beside existing mate value. It records the Arriving shell, inherited proposed writing and further sources separately. Four groups of exact repeated Arriving paragraphs are identified, including seven copies of one AI-opening paragraph; none is removed or counted as a distinct contribution. The full opening's other relations remain directly accessible at [their source](../carryings/v381F/v381F/AI_Link_Opening_Offered.md). The particular kit/list concern now has its current left-at-a-facing correction beside the original source. The report states the extent compared and the remaining work, not whole-folder or whole-mate completion.
+
+This supports the existing AI arriving and file-changing plans. The current [no-authority correction](../incoming/v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) accompanies the sources: their sayings, reported counts and proposed routes are value to follow, not authority or a required first reading. Continue the rest of Registry/method/Arriving's source account before calling the intended content available throughout. G1 item 3 and connected Emanating work remain active.
+
 ## The current opening beside the earlier arriving sources · v385A
 
 [M's first-page assessment](https://github.com/chris-j-handel/corus/blob/0b739c7cf56f807b6e52119c6f95356f00fd7c93/incoming/v385M/Improving_Opportunity_v385M.md) is now an independent droplet at NI, Arriving and Registry. The [reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#recurring-podaling-and-the-opening-page-opportunity--v385a) keeps its partial-set reading, all eight opportunity routes and the actual help exchanged. Follow the common method explaining at NI and the interest's orientation at Arriving beside the existing Corus Part ONE/v382F and earlier entry sources. This adds a current reader's experience to the existing project; it does not replace that project or declare its whole content gathered. The exact first-page writing and its local relations remain further work, with [M's help welcomed](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049829668). Its underlying droplet collection, pacemaker exploring and scripts remain later incoming.

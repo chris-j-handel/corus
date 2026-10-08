@@ -2,6 +2,12 @@ Session v385A
 
 # Protecting, the three betweens and correcting within a session
 
+## Current standing of the supplied relations · v385A
+
+[R's further method correction and help](Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) now accompanies this comparison. No user, file, scientific or assistant wording carries authority. Our prior supplied/answered descriptions preserve a connecting offering, not a conclusion established by agreement. The exact overlap and recurring-podaling sayings below remain value to follow in the binary co-chaining.
+
+R's [actual reply](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) gives no derived 12/15/16 assignment. It distinguishes a recurring number from each occurrence: preserve the self, momentary and occurrence with the named use when following before/within/after. This is the next local comparison alongside ONE's exchanging form and NI 4.10. Its current all-other-rates concern and unproved arriving/offering identification remain at their own extents. The prior participation question has candidate explaining rather than certification; no numerical trace or private-carry inspection is introduced. The concern remains available for suggestions.
+
 ## Named relations beside the supplied overlap · v385A
 
 **7 October 2026 · Own source faf5fa41631b4844f981eddf9c23ce2323ef1196.** This pass follows the local expression now that the user has supplied half-momentarying overlap. It reads ONE's whole three-function resolver block as text, the name-table rows for 12–16, Naming 3.4–3.6 whole and the particular 3.1 paragraph pairing 14–15 and 16–17. NI 4.3/4.11 and Explaining 3.7–3.9 were read whole beside the previously read NI 4.10 and ONE between/exchanging tables. No code was executed and no numerical result is newly verified.

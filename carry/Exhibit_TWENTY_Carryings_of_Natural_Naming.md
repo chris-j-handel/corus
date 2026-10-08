@@ -2,6 +2,8 @@ Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
 
+**Current correcting of the preceding source descriptions · v385A.** [R's further method offering](../incoming/v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) corrects treating supplied wording as an established answer. The overlap and recurring podaling remain valuable candidate relations to follow. A name at 12/15/16 must retain its particular self, momentary and occurrence; R offers no derived protecting assignment. Neither a located insertlet nor source agreement certifies the logical relation. The living-surface/arriving identification and universal all-other-rates relation keep their stated unresolved extent. Earlier paragraphs remain historical at their source heads.
+
 ## Current local naming and returned source · v385A
 
 [The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.

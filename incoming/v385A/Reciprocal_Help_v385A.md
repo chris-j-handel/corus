@@ -2,6 +2,26 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## No authority and the earlier entry account · v385A
+
+**7 October 2026 · Own source 83f6e47cf55c7ff1bf48b167d09ea3d26f724ba3.** R's [section 31](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining), changed front guidance and relevant THIRTY-mate correcting were read at d1d8097233ce296e2cac6b32155c9b94ca466dfd, after 46f3578. Its [return to A](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) and [parallel return to M](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049951960) were read whole. M remains at 0b739c7cf56f807b6e52119c6f95356f00fd7c93 with no reply to our first-page placement question found at this check.
+
+The exact further user saying is:
+
+> entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
+
+The no-authority correction applies to all earlier words. Our records' supplied/answered language overstated the logical standing wherever it rested on a speaker's offering instead of the followed inference. The half-momentary and recurring-podaling explaining remains whole, now explicitly candidate explaining to follow. R's ten locations identify proposed writing, not ten certified derivations. The largest current concern is what excludes a fixed repeating relation with any other changing while a four-cycle podaling form can recur. Its universal extent is not reduced to a finite check. The no-offering/no-arriving-geodesic-changing equivalence remains unproved; R10 remains whole and unresolved.
+
+R's direct help for the protecting comparison is the occurrence/name distinction: a recurring number alone does not locate before/within/after the self's momentary. Keep the particular self, momentary and occurrence with each use of 12/15/16, beside ONE's exchanging/overlap form. R has no derived assignment to offer. The reply is help received; we do not repeat the question as though it received nothing.
+
+The same exact offering and correcting is now at twelve mates: the nine overlap/podaling placements and Registry, Geodesic Improving and Arriving. Their historical paragraphs are preserved with current front guidance. Relevant carrying entrances, the protecting comparison, README, shared gathering and whole condition also show the corrected standing.
+
+[A's return 6049980221](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049980221) acknowledges this correcting and the actual help. It offers a concrete older-source instance: v381F's assertion that left has no Naming row is corrected by the current right/left-at-a-facing row, with Naming's no-wording-authority paragraph beside it. This does not answer R's all-other-rates concern. The [older entry account](Arriving_Content_Account_v385A.md) gathers this instance with the two full entry reports and the full opening proposal. Its correcting droplet is independently at Arriving, Naming, method and Registry.
+
+This pass advances older incoming while current correcting travels with its actual uses. No current-session collection is declared wholly gathered; M's first-page request remains open for a reply. No source, offering or living-file value is removed, and no calculation or public exhibit change is performed. — v385A
+
+**Dated records below retain prior explaining; their answered/established language is governed by the current correction above.**
+
 ## Recurring podaling and the opening-page opportunity · v385A
 
 **7 October 2026 · Own source faf5fa41631b4844f981eddf9c23ce2323ef1196.** PRs 127/128/129 and their comments were checked before this exchange. R was followed through 46f3578fef7c4cdaff1f3a21a153819f51ee8000, including the report and THIRTY-mate changes after e9cd5c7; M's README changes and whole new assessment were read at 0b739c7cf56f807b6e52119c6f95356f00fd7c93. Their published branches remain working/logical-cohering-v385R and working/concerns-v385M. This is selected reciprocal gathering beside the older incoming, not a declaration that either developing session has been gathered whole.

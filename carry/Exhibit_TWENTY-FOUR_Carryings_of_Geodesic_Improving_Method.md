@@ -2,6 +2,12 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v385A
 
 # Carryings of Geodesic Improving Method
 
+## Earlier entry value at its actual places · v385A
+
+[The entry content account](../incoming/v385A/Arriving_Content_Account_v385A.md) reads v381F's entry report and complete opening proposal and v381R's entry report whole, then follows their eleven/nine findings beside existing mate value. It records the Arriving shell, inherited proposed writing and further sources separately. Four groups of exact repeated Arriving paragraphs are identified, including seven copies of one AI-opening paragraph; none is removed or counted as a distinct contribution. The full opening's other relations remain directly accessible at [their source](../carryings/v381F/v381F/AI_Link_Opening_Offered.md). The particular kit/list concern now has its current left-at-a-facing correction beside the original source. The report states the extent compared and the remaining work, not whole-folder or whole-mate completion.
+
+This supports the existing AI arriving and file-changing plans. The current [no-authority correction](../incoming/v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) accompanies the sources: their sayings, reported counts and proposed routes are value to follow, not authority or a required first reading. Continue the rest of Registry/method/Arriving's source account before calling the intended content available throughout. G1 item 3 and connected Emanating work remain active.
+
 ## The gathering condition and its method sources · v385A
 
 [The whole condition record](../incoming/v385A/Working_Condition_v385A.md) supports the current method droplet at this file's offering mate and the editable plan at [Registry carrying](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#the-condition-we-are-gathering-toward--v385a). The user's [v385A method](../incoming/v385A/README.md) and latest direction govern this gathering. Earlier incoming, carrying-index, kit and reviewer directions retain historical rules and addresses; their particular correcting is available at the existing method offerings. The [v381R entry report](../carryings/v381R/README.md) is now at its actual carrying address. The [protecting comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) supplies the instance where opening/final comparisons can miss value entered and replaced within a session. Preserve that intermediate source with its later correcting.
