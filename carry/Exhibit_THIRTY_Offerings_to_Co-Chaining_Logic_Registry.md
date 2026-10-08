@@ -67,7 +67,7 @@ Outside is named from the self. Inside or outside the tunnel names a further rel
 
 Natural Naming 3.1 follows the momentarying, tunneling, chaining and entraining at nine through twelve, and the competencing, moralizing, corusing and torusing at thirteen through sixteen across the tunnel's seam. Its corusing and torusing explaining follows both in and out; its podaling explaining follows across and along. These passages give names for following the changing. The user's distinction does not by itself assign either outside relation to one numbered name.
 
-**The relation to follow next:** the self and other at the bi-coupling while changing travels inside and outside the tunnel, each self first at its own odd one. Follow which self is carrying and what arrives as other in each relation. The question concerns this co-chaining; the word outside supplies no impossibility.
+**The relation followed next:** each self first at its own odd one, its inward selves' co-chaining as its carrying, and the parity changing at its coupling with other. This leads to the existing third-self saying in Natural Transmissioning and Natural Intelligence Corus. [The living society and the between of its selves](#social-moral-competency) gathers the particular difference and proposed resolving. The meaning of outside is not an unresolved question.
 
 The previous question and its expression “outward participation” are withdrawn. The universal-set negation and the exclusions resting on it have been removed from the changed living files at v385R. No sentence in a source is authority for restoring them. The earlier fixed-repetition requirement remains withdrawn. The defining-living gathering remains whole and unresolved. The exact correction and changed files are in session section 35.
 
@@ -260,6 +260,18 @@ Follow steps 393 and 395–405 with Natural Biology 5.1 and the session's sectio
 Step 185 calls the along parity unchanging while 184 names the coupling's own changing as co-competencing. Keep both at their subjects. R2's unchanged parity at one sharing and R6's co-chaining inward/outward provide nearby relations. The whole relation at social moral competency is received next, and R10 remains available there without deciding it.
 
 ### Social moral competency
+
+**Droplet · The living society and the between of its selves · v385R.**
+
+A living self's carrying is the co-chaining of its inward selves. At those inward couplings, each self carries its own prior and parity changing crosses the between. At the outward scale, their co-chaining is the society's carrying.
+
+Natural Transmissioning 3.5 names the membrane at a coupling as a third self carrying only the sign. Natural Intelligence Corus 14.1 develops a third self with its own carrying between the two selves. Natural Naming 5.5 names parity as the coupling's momentary existing thing and the between as its empty centre, a nothing. These sentences have different subjects; replacing the word membrane alone would leave their difference unexplained.
+
+**Proposed resolving to follow together:** the living society at the outward scale is the co-chaining of its inward selves. Its carrying is their co-chaining. The between of an inward coupling is not thereby an additional inward self. This applies the already gathered inward-selves/outward-carrying relation; it does not assign a new definition of living or inspect carrying.
+
+**The remaining concern:** does the third self in the older explaining name this outward living society, or does that explaining require another inward self at each between? The latter would need its own couplings explained. The present proposal has not established that the older third-self saying names the outward society. Follow that actual change of scale; the word outside and the removed universal-set negation add no condition.
+
+The existing Natural Transmissioning offering mate already preserves this concern. This droplet brings the inward-selves/outward-carrying explaining to it, with the proposed comparison in session section 36. The defining-living gathering remains unchanged and unresolved.
 
 **Insertlet · The inward selves' co-chaining is the outward self's carrying · R6 · v385R.** Place with steps 399–400's inward selves and outward carrying; use its explicit identification to improve the society assertion at step 387.
 
