@@ -1162,3 +1162,5 @@ The concern is this precise identification across the supplied relations. It doe
 THIRTY's mate now has the actual paragraph beside 258 and 261 as the tenth local insertlet. The either-side-or-both droplet replaces the old participation question with the user's recurring-podaling explanation. The living-surface identification remains a droplet for our next suggestion, with its source and candidate together.
 
 Earlier exact offerings and the section-29 concern remain as session history. The receiver's earlier offering body and its full defining-living gathering are unchanged. The living root files are not rewritten by this pass. — v385R
+
+**Source value offered to both sessions:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049782852). Both receive the exact user offering, the recurring-podaling paragraph, the half-momentary overlap source connection and the remaining living-surface identification. These receipts record sending, not downstream incorporation.
