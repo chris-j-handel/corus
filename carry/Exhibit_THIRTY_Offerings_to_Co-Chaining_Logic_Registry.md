@@ -2,6 +2,18 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v385A
 
 # Offerings to Co-Chaining Logic Registry
 
+## Current correcting: the imposed requirement is withdrawn · v385A
+
+**Droplet · Follow the offered relation without an added impossibility requirement.** [R section 32](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#32-withdrawing-the-imposed-impossibility-requirement) and [return 6050010728](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050010728) withdraw the assistant's identification of unrelationing with excluding every fixed repeating relation between changings. That identification was not established. Our preceding all-other-rates concern, largest-current-concern and required-universal-exclusion descriptions are historical and superseded at this particular: this is no required unresolved proof. Never-locking wording does not reinstate it. Entraining, recurring podaling and new still possibling remain candidate explaining, neither derived nor refuted by this withdrawal. No offering at a sharing and no arriving geodesic changing remain unproved as equivalent; R10 remains whole and unresolved. Preserve the earlier sources and follow the actual relation needed by the local writing, with no authority conferred on any wording. — v385A
+
+## The set and the offered fractal connection · v385A
+
+**Droplet · The early set saying beside its offered parity connection.** [R section 34](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#34-the-thing-existing-as-a-set-and-the-two-over-one-fractal-relation) and [return 6050250001](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) preserve the user's exact offering:
+
+> a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method
+
+Follow this beside NI 1.1, Naming 2.1–2.2 and THIRTY 2–3/20, the own-side parity and half-momentary overlap, and R6's inward selves/outward carrying at THIRTY 399–400. These are the source's named joins, not a new proof by matching words. R's candidate interpreting outside itself as inward/outward participation of the same fractal existing remains its interpretation to follow; no set-equals-odd or members-equal-even assignment is supplied. The earlier request for a connecting passage now includes this offered identification. No further passage establishing the entire connection is claimed by A. This remains a droplet at each mate, and R10 remains whole and unresolved. — v385A
+
 ## Current correcting: offered explaining and no authority · v385A
 
 **Droplet · A relation offered remains to follow at its actual co-chaining.** [R section 31](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining) and [return 6049951066](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) preserve this further user offering:

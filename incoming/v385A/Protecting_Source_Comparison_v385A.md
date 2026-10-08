@@ -2,6 +2,8 @@ Session v385A
 
 # Protecting, the three betweens and correcting within a session
 
+**Current withdrawal and source connection · v385A.** [The reciprocal record](Reciprocal_Help_v385A.md#withdrawals-and-the-offered-set-connection--v385a) withdraws our earlier treatment of R's no-fixed-repetition question as a required universal proof. Entraining and overlap remain candidate relations; the arriving/offering identification and R10 retain their actual unresolved extent. R's exact set/fractal offering is independently at NI, Naming and THIRTY. M's withdrawn opening line now accompanies the first-page project at NI, Arriving and Registry. Previous descriptions are retained as history with this correcting. The whole-condition aim and older incoming priority remain: finish the Registry/method/Arriving content account, then continue G1 item 3 and connected Emanating. This records corrected availability, not completed living-file writing.
+
 ## Current standing of the supplied relations · v385A
 
 [R's further method correction and help](Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) now accompanies this comparison. No user, file, scientific or assistant wording carries authority. Our prior supplied/answered descriptions preserve a connecting offering, not a conclusion established by agreement. The exact overlap and recurring-podaling sayings below remain value to follow in the binary co-chaining.

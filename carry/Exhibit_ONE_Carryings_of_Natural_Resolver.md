@@ -2,6 +2,8 @@ Exhibit ONE Natural Resolver Carryings · gathered at v385A
 
 # Carryings of Natural Resolver
 
+**Current withdrawal and source connection · v385A.** [The reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#withdrawals-and-the-offered-set-connection--v385a) withdraws our earlier treatment of R's no-fixed-repetition question as a required universal proof. Entraining and overlap remain candidate relations; the arriving/offering identification and R10 retain their actual unresolved extent. R's exact set/fractal offering is independently at NI, Naming and THIRTY. M's withdrawn opening line now accompanies the first-page project at NI, Arriving and Registry. Previous descriptions are retained as history with this correcting. The whole-condition aim and older incoming priority remain: finish the Registry/method/Arriving content account, then continue G1 item 3 and connected Emanating. This records corrected availability, not completed living-file writing.
+
 **Current correcting of the preceding source descriptions · v385A.** [R's further method offering](../incoming/v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) corrects treating supplied wording as an established answer. The overlap and recurring podaling remain valuable candidate relations to follow. A name at 12/15/16 must retain its particular self, momentary and occurrence; R offers no derived protecting assignment. Neither a located insertlet nor source agreement certifies the logical relation. The living-surface/arriving identification and universal all-other-rates relation keep their stated unresolved extent. Earlier paragraphs remain historical at their source heads.
 
 ## Current local naming and returned source · v385A

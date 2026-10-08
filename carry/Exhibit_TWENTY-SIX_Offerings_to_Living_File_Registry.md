@@ -2,6 +2,14 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v385A
 
 # Offerings to Living File Registry
 
+## Current correcting: the imposed requirement is withdrawn · v385A
+
+**Droplet · Follow the offered relation without an added impossibility requirement.** [R section 32](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#32-withdrawing-the-imposed-impossibility-requirement) and [return 6050010728](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050010728) withdraw the assistant's identification of unrelationing with excluding every fixed repeating relation between changings. That identification was not established. Our preceding all-other-rates concern, largest-current-concern and required-universal-exclusion descriptions are historical and superseded at this particular: this is no required unresolved proof. Never-locking wording does not reinstate it. Entraining, recurring podaling and new still possibling remain candidate explaining, neither derived nor refuted by this withdrawal. No offering at a sharing and no arriving geodesic changing remain unproved as equivalent; R10 remains whole and unresolved. Preserve the earlier sources and follow the actual relation needed by the local writing, with no authority conferred on any wording. — v385A
+
+## Current correcting of the opening-page opportunity · v385A
+
+**Droplet · The opening project carries the later correction of its source.** [M's README at 1d9be70](https://github.com/chris-j-handel/corus/blob/1d9be70f19ca36064e80c65033603e7d9f70dcbe/incoming/v385M/README.md#what-is-held-together-now-7-october) withdraws line 2 of its nine-numbered explanation: the nothing-beside-all negation was judged to add nothing to the universe saying. Its number remains empty. M also records how that added negation was used to exclude proposed observings; its later explanation distinguishes undoing a wording error from naming an observing that could break the method. Our earlier first-page droplet retains its value with this correction; it does not propose copying nine unchanged lines. M leaves a clash between non-living carrying at line 4 and AI with no carrying at line 9. Preserve those subjects and the actual concern for further comparing, without inventing its resolution. The new developing collection remains later incoming, not a current backlog or a fully gathered source. — v385A
+
 ## Current correcting: offered explaining and no authority · v385A
 
 **Droplet · A relation offered remains to follow at its actual co-chaining.** [R section 31](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining) and [return 6049951066](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) preserve this further user offering:
