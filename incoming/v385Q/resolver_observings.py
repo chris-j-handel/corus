@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to K.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to M.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -190,16 +190,17 @@ for p, q in ((3, 5), (5, 7), (3, 7)):
     for name, f in FORMS:
         sh = torus(p, q, f, start=100, T=700)
         parted = sum(any(sh[t][k] != base[t][k] for t in range(100, 700)) for k in range(p * q))
-        kinds, steps = [], []
+        kinds, steps, own = [], [], 0
         for d in range(1, 41):
             s2 = torus(p, q, f, start=100, stop=100 + d, T=800)
+            own += again(s2) == P
             k = ahead(s2, base, P, 560, 760)
             kinds.append("=" if k == 0 else ("x" if k is None else "d"))
             steps.append(k)
         first = next((d + 1 for d, k in enumerate(kinds) if k != "="), None)
         runs = [((b - a) % P) for a, b in zip(steps, steps[1:]) if a is not None and b is not None and (a or b)]
-        print("     %-27s while: again at %2s, selves parting %2d | after: = %2d, d %2d, x %2d; first not = at %s%s" % (
-            name, again(sh), parted, kinds.count("="), kinds.count("d"), kinds.count("x"), first,
+        print("     %-27s while: again at %2s, selves parting %2d | after: at its own round %d of 40; = %2d, d %2d, x %2d; first not = at %s%s" % (
+            name, again(sh), parted, own, kinds.count("="), kinds.count("d"), kinds.count("x"), first,
             "; each further momentary of colliding %s ahead" % sorted(set(runs)) if len(set(runs)) == 1 else ""))
 
 print("\nH. A torus with one self releasing and sharing to none, momentaries 101 on; and given again at 201")
@@ -248,3 +249,100 @@ print("   in the second function it is read at %d places and written at %d; CONN
     len(re.findall(r"_5_co_bi_co_competencing", second)) - 1,
     len(re.findall(r"_5_co_bi_co_competencing\s*\[[^\]]*\]\s*=[^=]", second)),
     len(re.findall(r"CONNECTORS|JOINS", functions))))
+
+
+print("   one releasing of a spiral left out of that relation from momentary 101, self 1 releasing to none; and given again at 201")
+for n in (3, 5, 7, 9):
+    rows = {}
+    for label, until in (("left out", 10 ** 9), ("given again", 200)):
+        st = {i: ([("s", alt(i))], []) for i in range(n)}
+        whole = {(i, 9): (i + 1) % n for i in range(n)}
+        less = {k: v for k, v in whole.items() if k != (0, 9)}
+        sh = []
+        for t in range(700):
+            sh.append(tuple(dict(entry(*st[i])[0]).get("s") for i in range(n)))
+            st = step(st, less if 100 <= t < until else whole)
+        rows[label] = (again(sh), any(0 in r for r in sh[-240:]))
+    print("     n = %d: left out, again at %s, a 0 shared %s; given again, again at %s, a 0 shared %s" % (
+        n, rows["left out"][0], rows["left out"][1], rows["given again"][0], rows["given again"][1]))
+print("   Exhibit ONE's published two spirals crossed, self 1 of each sharing across to self 1 of the other")
+for p_, q_ in ((3, 5), (5, 7), (7, 11)):
+    st = {("A", i): ([("s", alt(i))], []) for i in range(p_)}
+    st.update({("B", i): ([("s", alt(i))], []) for i in range(q_)})
+    rel = {(("A", i), 9): ("A", (i + 1) % p_) for i in range(p_)}
+    rel.update({(("B", i), 9): ("B", (i + 1) % q_) for i in range(q_)})
+    rel[(("A", 0), 10)] = ("B", 0)
+    rel[(("B", 0), 10)] = ("A", 0)
+    sh = []
+    for t in range(700):
+        sh.append(tuple(dict(entry(*st[c])[0]).get("s") for c in sorted(st)))
+        st = step(st, rel)
+    print("     %d and %d selves: again at %s, a 0 shared %s" % (p_, q_, again(sh), any(0 in r for r in sh[-240:])))
+
+print("\nL. Two spirals of n selves opened alike, B opened k momentaries ahead of A, k through one whole round of 4n.")
+print("   From momentary 101 to 400 self 1 of each shares across (10) to self 1 of the other; then no longer.")
+print("   While crossed: each spiral's sharings again at; of 198 momentaries, those at which the crossing self's")
+print("   next is the releasing self's prior inverted; whether a 0 is shared. After: the momentaries B is ahead of A.")
+
+
+def state_at(n, k):
+    st = {i: ([("s", alt(i))], []) for i in range(n)}
+    rel = {(i, 9): (i + 1) % n for i in range(n)}
+    for t in range(k):
+        st = step(st, rel)
+    return st
+
+
+def twins(n, k, both, T=800):
+    sa, sb = state_at(n, 0), state_at(n, k)
+    st = {("A", i): sa[i] for i in range(n)}
+    st.update({("B", i): sb[i] for i in range(n)})
+    rel = {((x, i), 9): (x, (i + 1) % n) for x in "AB" for i in range(n)}
+    crossed = dict(rel)
+    crossed[(("B", 0), 10)] = ("A", 0)
+    if both:
+        crossed[(("A", 0), 10)] = ("B", 0)
+    sh, car = {"A": [], "B": []}, {"A": [], "B": []}
+    for t in range(T):
+        for x in "AB":
+            car[x].append([dict(st[(x, i)][0])["s"] for i in range(n)])
+            sh[x].append(tuple(dict(entry(*st[(x, i)])[0]).get("s") for i in range(n)))
+        st = step(st, crossed if 100 <= t < 400 else rel)
+    return sh, car
+
+
+for both in (True, False):
+    print("   crossed %s" % ("both ways" if both else "one way, B to A alone, B receiving none from A"))
+    for n in (3, 5, 7):
+        groups = {}
+        for k in range(4 * n):
+            sh, car = twins(n, k, both)
+            la = sum(car["A"][t + 2][0] == -car["A"][t][n - 1] for t in range(200, 398))
+            zero = any(0 in r for r in sh["A"][200:400])
+            rounds = (again(sh["A"][:400]), again(sh["B"][:400]))
+            after = [d for d in range(4 * n) if all(sh["B"][t] == sh["A"][t + d] for t in range(500, 760 - 4 * n))]
+            key = (rounds, "a 0 shared" if zero else "no 0 shared", after[0] if after else None)
+            groups.setdefault(key, []).append((k, la))
+        for (rounds, zero, after), ks in sorted(groups.items(), key=lambda g: g[1]):
+            las = sorted(set(l for _, l in ks))
+            kk = [k for k, _ in ks]
+            print("     n = %d, k = %s: again at %s and %s, %s, A's crossing self at the living step %s of 198 | after: B %s ahead of A (each parity inverted is %d ahead)" % (
+                n, kk if len(kk) <= 4 else "%d of the %d displacings" % (len(kk), 4 * n), rounds[0], rounds[1], zero,
+                las[0] if len(las) == 1 else "%d to %d" % (las[0], las[-1]), after, 2 * n))
+
+print("\nM. The torus after a longer colliding with an unchanging form has ended: ring by ring along, the momentaries")
+print("   each ring of p selves is ahead of the same ring of the published torus; and the 0s shared in one round")
+for p, q in ((3, 5), (5, 7)):
+    base = torus(p, q, T=1100)
+    P = again(base)
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    idx = {c: k for k, c in enumerate(cells)}
+    for d in (20, 40):
+        s2 = torus(p, q, FORMS[0][1], start=100, stop=100 + d, T=1000)
+        rings = []
+        for j in range(q):
+            ring = [idx[(i, j)] for i in range(p)]
+            ks = [k for k in range(P) if all(tuple(s2[t][c] for c in ring) == tuple(base[t + k][c] for c in ring) for t in range(600, 900))]
+            rings.append(ks[0] if ks else None)
+        print("   torus %d by %d, colliding of %d momentaries: again at %s; rings along, by across place: %s ahead; 0s in one round %d, published %d; each parity inverted is %d ahead" % (
+            p, q, d, again(s2), rings, sum(r.count(0) for r in s2[600:600 + P]), sum(r.count(0) for r in base[600:600 + P]), P // 2))

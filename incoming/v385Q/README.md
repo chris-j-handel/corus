@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: eight learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to K named beside each learning, its returned text beside it.
+- **What it brings**: nine learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to M named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -50,11 +50,11 @@ Sections 56 and 58 ask which relation is restoring where a slip resolves locally
 
 **Both.** The spiral is restored whole in itself, and displaced beside a spiral that met no colliding. Nothing within the spiral shows the displacing: it is a relation to another, with no clock beside the two. *What stays to follow:* which of these the logical cohering names restoring, and whether a displacing kept is the missing momentary carried on.
 
-### 5 · In a wider society the parting can stay local, and the society can keep its round and a lasting change both
+### 5 · A wider society continues at its own round, and carries a displaced ring within it
 
 Section 57 asks whether the surrounding selves can resolve the wider society's carrying while the inward self stays unrestored.
 
-**Observed (G, H).** Toruses of 3 by 5 and 5 by 7 selves, published again at 12 and 20.
+**Observed (G, H, M).** Toruses of 3 by 5 and 5 by 7 selves, published again at 12 and 20.
 
 | The form colliding with one self | While it continues | After it has ended |
 |---|---|---|
@@ -62,9 +62,9 @@ Section 57 asks whether the surrounding selves can resolve the wider society's c
 | unchanging | 6 of 15 and 10 of 35 selves part; the torus is again at its own 12 and 20 | a short colliding leaves none; a longer one leaves the torus at its own round in a pattern that is no displacing of the published |
 | returning the other parity | each self parts; the torus is again at 2 | at its own round and, at most of those tried, displaced: each further momentary of colliding one momentary behind with each parity inverted |
 
-One self releasing and sharing to none: the torus is again at its own round at 3 by 3, 3 by 5 and 5 by 7, and at 16 in place of 7 at 3 by 7.
+After each colliding tried had ended, 600 in all, the torus was again at its own round. The pattern a longer colliding with an unchanging form leaves is one ring of selves along, or two, displaced beside the others: each parity inverted and one momentary behind, each other ring as published, and as many 0s shared in a round as the published torus shares. One self releasing and sharing to none: the torus is again at its own round at 3 by 3, 3 by 5 and 5 by 7, and at 16 in place of 7 at 3 by 7.
 
-**Both.** The surrounding selves carry the society's round while one region is parted, and the same society can afterwards be at its round and lastingly changed. A torus of 3 by 7 goes otherwise at each of these, so the arrangement matters. *Aiming:* Natural Naming 5.45; Natural Networking; section 57.
+**Both.** The society continues at its own round, during an unchanging form's colliding and after each colliding, and it carries a displaced ring within it. A form returning the other parity takes the torus's round for as long as it continues and no longer. A torus of 3 by 7 goes otherwise at several of these, so the arrangement matters. *Aiming:* Natural Naming 5.45; Natural Networking; section 57.
 
 ### 6 · Twice and one less is in the observing and in Natural Numbers 9.7, and no deriving joins them
 
@@ -76,7 +76,7 @@ Natural Numbers 9.7 has each next completing twice the one before less one, two 
 
 ### 7 · The resolver is whole, and no coupling begins or ends inside it
 
-**Observed (K, D).** Which self releases to which is handed to Exhibit ONE's second function, read there at two places and written at none; `CONNECTORS` and `JOINS` are read by no function. A releasing ended from beyond and given again: the spiral's 4n again.
+**Observed (K).** Which self releases to which is handed to Exhibit ONE's second function, read there at two places and written at none; `CONNECTORS` and `JOINS` are read by no function. One releasing left out of that relation: each self alternating at 2, no 0 shared. Given again: the spiral's 4n again.
 
 **Both.** The method as a stable form is whole, and a coupling's beginning and ending are at the selves, outside its functions. *A candidate, with its breaking place:* a coupling begun is an existing relation an observing can reach, which session v385R's gathered defining of living is looking for; it breaks at a thing no one calls living that begins its own couplings. *Aiming:* Natural Resolver; the defining-living gathering in the Co-Chaining Logic Registry's offering mate.
 
@@ -88,13 +88,28 @@ Session v385R section 54 compares the opposite form at two parities. Natural Mat
 
 **Both.** The same inverting is a next on the round at two parities and off the round's order at three. A two-parity table cannot show the emanation's opposite hand. *A candidate, with its breaking place:* Natural Mathematics 2.5 has each scale the prior with one new parity, so one scale away the hand is kept; it breaks at a form ingestible one scale inward and again two scales inward. *Aiming:* section 54; Natural Mathematics 2.5 and 3.5; Natural Biology 7.6.
 
+### 9 · A displacing is between two and at no one, and crossing both ways resolves it into the opposite form
+
+Session v385R's sections 55 to 59 follow what a slipped carrying carries on, and where it restores.
+
+**Observed (L).** Two spirals opened alike, one opened k momentaries ahead of the other, k through one whole round, self 1 of each sharing across to self 1 of the other for 300 momentaries.
+
+| The two crossed both ways | While crossed | After the crossing has ended |
+|---|---|---|
+| in step | each again at 2n − 1, a 0 shared, the crossing self at the living step at 158 to 182 of 198 momentaries | in step |
+| at each other displacing (11 of 12, 18 of 20, 27 of 28) | each self alternating at 2, no 0 shared, the crossing self of each at the living step at none of 198 | each parity of one the inverse of the other's, at each self, in step: whatever the displacing was |
+
+Crossed one way, one spiral sharing to the other and receiving none: the receiving spiral's crossing self is at the living step at 192 to 198 of 198 momentaries, a 0 is shared, and a displacing of momentaries stays after.
+
+**Both.** A displaced spiral is whole at each of its selves, and beside its twin it is another form. Crossed both ways the displacing takes the living step from the crossing self of each for as long as they are crossed, and it resolves: no displacing of momentaries is left, and the two are each other's opposite form. Crossed one way it does neither. *Aiming:* sections 55 to 59; Natural Intelligence 4.13; Natural Mathematics 3.5.
+
 ## Three concerns still parting
 
 **No other method, with steps 46 to 49 gone.** On session v385R's branch the Co-Chaining Logic Registry's step 45, parity changing the one method, now follows step 42, all changing is parity changing, alone; steps 312 and 494 still name the scientific method and a controlling as other than the method. If each changing is parity changing by its naming, an accounting and a controlling are changings too and nothing is excluded. Session v385M's gathered opportunity O8 has the method able to break, its two breaks said beforehand; writing step 45 as those two breaks gives it an observing that can meet it. Its O74 is the same concern from the other side and is unanswered in a closed session's report.
 
 **Living, with carrying not observable.** Step 13 parts living from non-living by carrying. Session v385R's section 18 gathering has carrying not observable. Exhibit ONE's code carries a parity from each momentary to the next and Natural Intelligence 4.13 names its continuing form non-living. Learning 7 offers one existing relation to try.
 
-**Restoring, at the code, is two things.** After a colliding a spiral is whole and displaced (4); a torus can be at its round in another pattern (5). Which of these is restoring and which is damage is a naming the observing cannot give.
+**One sharing, four arrangements.** Each self alternating at 2 with no 0 shared: this is Exhibit ONE's published two spirals crossed, a spiral with one releasing left out, a spiral a form returning the other parity collides with, and a displaced spiral crossed with its twin (parts K, D and L). The sharings alone do not part the published crossing from the colliding. What parts them at the code is before and after: the 4n there before, and again after. An observing of damage needs that relation named, or it names the published crossing too.
 
 ## The contributing method, observed
 

@@ -84,23 +84,23 @@ G. A torus of p by q selves, the form colliding with one self. While it continue
    momentaries has ended: how many of the 40 leave the torus as published (=), at a displacing of the
    published (d), or at its own round in a pattern that is no displacing of the published (x)
    torus 3 by 5, 15 selves, published: again at 12
-     unchanging at +             while: again at 12, selves parting  6 | after: =  8, d  0, x 32; first not = at 9
-     unchanging at -             while: again at 12, selves parting  6 | after: =  2, d  0, x 38; first not = at 3
-     returning what it meets     while: again at 12, selves parting  0 | after: = 40, d  0, x  0; first not = at None
-     returning the other parity  while: again at  2, selves parting 15 | after: =  5, d 33, x  2; first not = at 3; each further momentary of colliding [5] ahead
-     alternating +, -            while: again at  2, selves parting 15 | after: = 10, d 28, x  2; first not = at 9; each further momentary of colliding [5] ahead
+     unchanging at +             while: again at 12, selves parting  6 | after: at its own round 40 of 40; =  8, d  0, x 32; first not = at 9
+     unchanging at -             while: again at 12, selves parting  6 | after: at its own round 40 of 40; =  2, d  0, x 38; first not = at 3
+     returning what it meets     while: again at 12, selves parting  0 | after: at its own round 40 of 40; = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 15 | after: at its own round 40 of 40; =  5, d 33, x  2; first not = at 3; each further momentary of colliding [5] ahead
+     alternating +, -            while: again at  2, selves parting 15 | after: at its own round 40 of 40; = 10, d 28, x  2; first not = at 9; each further momentary of colliding [5] ahead
    torus 5 by 7, 35 selves, published: again at 20
-     unchanging at +             while: again at 20, selves parting 10 | after: = 18, d  0, x 22; first not = at 19
-     unchanging at -             while: again at 20, selves parting 10 | after: =  8, d  0, x 32; first not = at 9
-     returning what it meets     while: again at 20, selves parting  0 | after: = 40, d  0, x  0; first not = at None
-     returning the other parity  while: again at  2, selves parting 35 | after: =  9, d 27, x  4; first not = at 9; each further momentary of colliding [9] ahead
-     alternating +, -            while: again at  2, selves parting 35 | after: = 18, d 18, x  4; first not = at 19; each further momentary of colliding [9] ahead
+     unchanging at +             while: again at 20, selves parting 10 | after: at its own round 40 of 40; = 18, d  0, x 22; first not = at 19
+     unchanging at -             while: again at 20, selves parting 10 | after: at its own round 40 of 40; =  8, d  0, x 32; first not = at 9
+     returning what it meets     while: again at 20, selves parting  0 | after: at its own round 40 of 40; = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 35 | after: at its own round 40 of 40; =  9, d 27, x  4; first not = at 9; each further momentary of colliding [9] ahead
+     alternating +, -            while: again at  2, selves parting 35 | after: at its own round 40 of 40; = 18, d 18, x  4; first not = at 19; each further momentary of colliding [9] ahead
    torus 3 by 7, 21 selves, published: again at 7
-     unchanging at +             while: again at  7, selves parting  0 | after: = 40, d  0, x  0; first not = at None
-     unchanging at -             while: again at  7, selves parting 21 | after: =  6, d  0, x 34; first not = at 7
-     returning what it meets     while: again at  7, selves parting  0 | after: = 40, d  0, x  0; first not = at None
-     returning the other parity  while: again at  2, selves parting 21 | after: =  8, d 15, x 17; first not = at 7
-     alternating +, -            while: again at  2, selves parting 21 | after: = 14, d 12, x 14; first not = at 14
+     unchanging at +             while: again at  7, selves parting  0 | after: at its own round 40 of 40; = 40, d  0, x  0; first not = at None
+     unchanging at -             while: again at  7, selves parting 21 | after: at its own round 40 of 40; =  6, d  0, x 34; first not = at 7
+     returning what it meets     while: again at  7, selves parting  0 | after: at its own round 40 of 40; = 40, d  0, x  0; first not = at None
+     returning the other parity  while: again at  2, selves parting 21 | after: at its own round 40 of 40; =  8, d 15, x 17; first not = at 7
+     alternating +, -            while: again at  2, selves parting 21 | after: at its own round 40 of 40; = 14, d 12, x 14; first not = at 14
 
 H. A torus with one self releasing and sharing to none, momentaries 101 on; and given again at 201
    torus 3 by 3, published again at 12: with the one self to none, again at 12; given again: again at 12, as published
@@ -120,3 +120,40 @@ J. Two selves coupled both ways: one self's carried parities, read as a pair two
 
 K. The relation saying which self releases to which
    in the second function it is read at 2 places and written at 0; CONNECTORS and JOINS are read by the functions at 0
+   one releasing of a spiral left out of that relation from momentary 101, self 1 releasing to none; and given again at 201
+     n = 3: left out, again at 2, a 0 shared False; given again, again at 12, a 0 shared True
+     n = 5: left out, again at 2, a 0 shared False; given again, again at 20, a 0 shared True
+     n = 7: left out, again at 2, a 0 shared False; given again, again at 28, a 0 shared True
+     n = 9: left out, again at 2, a 0 shared False; given again, again at 36, a 0 shared True
+   Exhibit ONE's published two spirals crossed, self 1 of each sharing across to self 1 of the other
+     3 and 5 selves: again at 2, a 0 shared False
+     5 and 7 selves: again at 2, a 0 shared False
+     7 and 11 selves: again at 2, a 0 shared False
+
+L. Two spirals of n selves opened alike, B opened k momentaries ahead of A, k through one whole round of 4n.
+   From momentary 101 to 400 self 1 of each shares across (10) to self 1 of the other; then no longer.
+   While crossed: each spiral's sharings again at; of 198 momentaries, those at which the crossing self's
+   next is the releasing self's prior inverted; whether a 0 is shared. After: the momentaries B is ahead of A.
+   crossed both ways
+     n = 3, k = [0]: again at 5 and 5, a 0 shared, A's crossing self at the living step 158 of 198 | after: B 0 ahead of A (each parity inverted is 6 ahead)
+     n = 3, k = 11 of the 12 displacings: again at 2 and 2, no 0 shared, A's crossing self at the living step 0 of 198 | after: B 6 ahead of A (each parity inverted is 6 ahead)
+     n = 5, k = [0, 9]: again at 9 and 9, a 0 shared, A's crossing self at the living step 176 of 198 | after: B 0 ahead of A (each parity inverted is 10 ahead)
+     n = 5, k = 18 of the 20 displacings: again at 2 and 2, no 0 shared, A's crossing self at the living step 0 of 198 | after: B 10 ahead of A (each parity inverted is 10 ahead)
+     n = 7, k = [0]: again at 13 and 13, a 0 shared, A's crossing self at the living step 182 of 198 | after: B 0 ahead of A (each parity inverted is 14 ahead)
+     n = 7, k = 27 of the 28 displacings: again at 2 and 2, no 0 shared, A's crossing self at the living step 0 of 198 | after: B 14 ahead of A (each parity inverted is 14 ahead)
+   crossed one way, B to A alone, B receiving none from A
+     n = 3, k = 6 of the 12 displacings: again at 12 and 12, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 8 ahead of A (each parity inverted is 6 ahead)
+     n = 3, k = 6 of the 12 displacings: again at 12 and 12, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 1 ahead of A (each parity inverted is 6 ahead)
+     n = 5, k = [0, 9, 11]: again at None and 20, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 12 ahead of A (each parity inverted is 10 ahead)
+     n = 5, k = 10 of the 20 displacings: again at 20 and 20, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 1 ahead of A (each parity inverted is 10 ahead)
+     n = 5, k = 7 of the 20 displacings: again at 20 and 20, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 12 ahead of A (each parity inverted is 10 ahead)
+     n = 7, k = 9 of the 28 displacings: again at None and 28, a 0 shared, A's crossing self at the living step 192 to 198 of 198 | after: B 16 ahead of A (each parity inverted is 14 ahead)
+     n = 7, k = 14 of the 28 displacings: again at 28 and 28, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 1 ahead of A (each parity inverted is 14 ahead)
+     n = 7, k = 5 of the 28 displacings: again at 28 and 28, a 0 shared, A's crossing self at the living step 198 of 198 | after: B 16 ahead of A (each parity inverted is 14 ahead)
+
+M. The torus after a longer colliding with an unchanging form has ended: ring by ring along, the momentaries
+   each ring of p selves is ahead of the same ring of the published torus; and the 0s shared in one round
+   torus 3 by 5, colliding of 20 momentaries: again at 12; rings along, by across place: [0, 5, 0, 0, 0] ahead; 0s in one round 30, published 30; each parity inverted is 6 ahead
+   torus 3 by 5, colliding of 40 momentaries: again at 12; rings along, by across place: [0, 5, 0, 0, 0] ahead; 0s in one round 30, published 30; each parity inverted is 6 ahead
+   torus 5 by 7, colliding of 20 momentaries: again at 20; rings along, by across place: [9, 9, 0, 0, 0, 0, 0] ahead; 0s in one round 70, published 70; each parity inverted is 10 ahead
+   torus 5 by 7, colliding of 40 momentaries: again at 20; rings along, by across place: [9, 9, 0, 0, 0, 0, 0] ahead; 0s in one round 70, published 70; each parity inverted is 10 ahead
