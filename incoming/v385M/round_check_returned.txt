@@ -1,4 +1,0 @@
-k = 2 parities: forms  4, a round is 1 to  5 (step 170: 2^k + 1 =  5);  rounds one parity at a time:    1;  step 171's round among them: True;  rounds not one another renamed or exchanged: 1
-k = 3 parities: forms  8, a round is 1 to  9 (step 170: 2^k + 1 =  9);  rounds one parity at a time:    6;  step 171's round among them: True;  rounds not one another renamed or exchanged: 1
-k = 4 parities: forms 16, a round is 1 to 17 (step 170: 2^k + 1 = 17);  rounds one parity at a time: 1344;  step 171's round among them: True;  rounds not one another renamed or exchanged: 9
-step 171's round at four parities: 0000 0001 0011 0010 0110 0111 0101 0100 1100 1101 1111 1110 1010 1011 1001 1000

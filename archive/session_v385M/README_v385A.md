@@ -6,7 +6,7 @@ The user declared session v385M completed and closed on 8 October 2026. This art
 
 The artifact folder keeps the original incoming/v385M layout. [The session report](incoming/v385M/README.md), [the opportunity collection](incoming/v385M/Opportunities_Gathered_v385M.md), [the whole droplets](incoming/v385M/Droplets_v385M.md), the pacemaker proposal, initial assessment, six scripts and six recorded outputs are all preserved. Source-relative references remain as they arrived; they describe the original repository arrangement.
 
-No continuing work needs this artifact. The complete independent [active incoming copy](../../incoming/v385M/Receiving_v385A.md) preserves every file at its working relative path while its unique value is gathered into the offering mates. Closing the session does not mark all opportunities aimed, any droplet graded, or any living file resolved. The active continuation states its actual remaining work. No program, calculation, numerical result or clinical claim was executed or certified by this preservation.
+The current incoming is [one clustered session report](../../incoming/v385M/Session_Report_v385A.md), with its whole value in [Living Improving Value](../../carry/Living_Improving_Value.md#completed-session-v385m-clustered-incoming--v385a) before distribution to local mates. The redundant active copies have been removed. This artifact retains all original files unchanged and the superseded receiving wrapper. No return here is required for forward resolving. Closing the session supplies no grade or completed living-file resolving, and no program or scientific calculation was run.
 
 ## Preserved files
 

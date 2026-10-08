@@ -2,6 +2,20 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## One session report and the two distribution steps · 8 October 2026 · v385A
+
+The user's correction is now the active method: one session report accumulates clustered value droplets, with or without aimings; first gather their whole value into Living Improving Value; then distribute to the appropriate offering mates. Five overlapping prose files and six script/output pairs are not seventeen independent incoming tasks. Attribution and repeat execution supply no required resolving step.
+
+[Completed session v385M's one report](../v385M/Session_Report_v385A.md) gathers the concepts, examples, conditions, open questions and correcting. The whole cluster body is in [Living Improving Value](../../carry/Living_Improving_Value.md#completed-session-v385m-clustered-incoming--v385a). The original seventeen files remain unchanged in the completed-session artifact; redundant active copies and the added receiving wrapper are retired. The wrapper is preserved with the artifact. No program is run.
+
+The shared method is corrected at Natural Arriving, Geodesic Improving Method and Living File Registry, with the current entrance and next instructions. Local distribution remains to complete: compare existing droplets, then distribute the remaining finite resolver and biological conditions and the connected pacemaker concept. Earlier Corus Society, Observers and Destiny work remains in the plan. Public living exhibits and other branches are unchanged.
+
+## Actual current logical comparison · 8 October 2026 · v385A
+
+Session v385R was examined through face0ef0f33ed7611c5930808154d19cd00e268b, report sections 53 and 54. Its [changing-couplings return](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6067382012) and [opposite-form return](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6067574799) were read. The current concepts are gathered in the sequential-colliding cluster of the one completed-session report and Living Improving Value. Ordinary uncoupling, a crossing disconnecting, surrounding selves co-chaining around a non-living region, and the loss of a particular outward self's carrying remain distinct. The opposite-next-form comparison retains the intervening momentaryings and has not identified a collision as the inversion. The actual change at the society's betweenings remains unresolved.
+
+The whole source is [The opposite next form and the order through the betweening](https://github.com/chris-j-handel/corus/blob/face0ef0f33ed7611c5930808154d19cd00e268b/incoming/v385R/Logical_Cohering_v385R.md#54-the-opposite-next-form-and-the-order-through-the-betweening), with section 53 immediately before it. The complete newer collection remains developing; these particular conditions accompany the existing value without requesting extraction of the whole session. The preceding dated seventeen-active-files arrangement is superseded by the single report and the two distribution steps above.
+
 ## Closure and sequential-colliding correcting published · 8 October 2026 · v385A
 
 The closed session’s full artifact and independent active incoming are published at 5458551c1732df43441a4df650dc81ec506504e5. The later sequential-colliding correcting is published at 00bcedb6862e411a70ca8cf63d65d5ddfde92ebd. Content copies match all seventeen original blobs; current correcting is checked at the eight existing-form placements, six seed/oil placements, three whole subject offerings and six overlap offerings. Published trees matched the reviewed local trees, and both branch updates required the expected head.
@@ -20,7 +34,7 @@ Session v385M’s [closure receipt](https://github.com/chris-j-handel/corus/pull
 
 ## Session v385M closed; session v385R’s overlap relation · 8 October 2026 · v385A
 
-The user declared session v385M completed and closed. Its final published head is 1eaefdb6888a898101e1f4597405ee81a7955743; the GitHub pull request was still open at this check. Preserve its complete offering before closing that pull request. Stop requests to the closed session. Its full [active incoming](../v385M/Receiving_v385A.md) is separate from the closed-session artifact and retains all value for the remaining gathering.
+The user declared session v385M completed and closed. Its final published head is 1eaefdb6888a898101e1f4597405ee81a7955743; the GitHub pull request was still open at this check. Preserve its complete offering before closing that pull request. Stop requests to the closed session. Its full [active incoming](../../archive/session_v385M/Receiving_before_single_report_v385A.md) is separate from the closed-session artifact and retains all value for the remaining gathering.
 
 Session v385R advanced from c11e6679a96cd4ac0dc0e01e5f9b77120b795b25 to ac69514a440ea2ff23f4ca6c2665ccdf7e1d6776. [The right-spiral form at the overlap and living carrying](https://github.com/chris-j-handel/corus/blob/ac69514a440ea2ff23f4ca6c2665ccdf7e1d6776/incoming/v385R/Logical_Cohering_v385R.md#51-the-right-spiral-form-at-the-overlap-and-living-carrying) and its mate changes were read. The new relation is gathered at the six affected public-form and living-subject mates. Its exact public pair condition does not assign a private carrying or the user’s numbered positions, and the harmful-entry concern remains available rather than declared harmless or impossible.
 

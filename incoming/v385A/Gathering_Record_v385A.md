@@ -2,6 +2,14 @@ Session v385A
 
 # Gathering droplets and recording their destinations
 
+## One session report and the two distribution steps · 8 October 2026 · v385A
+
+The user's correction is now the active method: one session report accumulates clustered value droplets, with or without aimings; first gather their whole value into Living Improving Value; then distribute to the appropriate offering mates. Five overlapping prose files and six script/output pairs are not seventeen independent incoming tasks. Attribution and repeat execution supply no required resolving step.
+
+[Completed session v385M's one report](../v385M/Session_Report_v385A.md) gathers the concepts, examples, conditions, open questions and correcting. The whole cluster body is in [Living Improving Value](../../carry/Living_Improving_Value.md#completed-session-v385m-clustered-incoming--v385a). The original seventeen files remain unchanged in the completed-session artifact; redundant active copies and the added receiving wrapper are retired. The wrapper is preserved with the artifact. No program is run.
+
+The shared method is corrected at Natural Arriving, Geodesic Improving Method and Living File Registry, with the current entrance and next instructions. Local distribution remains to complete: compare existing droplets, then distribute the remaining finite resolver and biological conditions and the connected pacemaker concept. Earlier Corus Society, Observers and Destiny work remains in the plan. Public living exhibits and other branches are unchanged.
+
 ## Coupling at the Membrane Between Selves gathered whole · 8 October 2026 · v385A
 
 The whole Part 14, including its distribution note and all eight subsections, was read. The [destination table](Gathering_and_Aiming_v385A.md#coupling-at-the-membrane-between-selves-now-aimed) gives the actual concepts, examples and concerns at their subject mates. The previous natural-network comparison is extended with the full local concepts. The existing self-welcoming droplet contains the further welcoming/foundation examples. The connected love, grief and loneliness expression remains whole at Natural Philosophy, Natural Emanating, Natural Human Society and Natural Intelligence Corus.
@@ -337,7 +345,7 @@ Sections 18.6 through 18.8 and the connected whole-part expression remain to gat
 
 ## Completed session v385M preserved and logical conditions gathered · 8 October 2026 · v385A
 
-The user closed session v385M. Its complete seventeen-file offering at 1eaefdb6888a898101e1f4597405ee81a7955743 is preserved byte for byte as artifact and independently as active incoming. [The receiving entrance](../v385M/Receiving_v385A.md) keeps all pending value available without a required archive return. Opportunities Gathered was read whole; its 75 entries and the full droplet collection’s 109 numbered entries correct the older pull-request description. The rest of that collection’s detailed gathering remains explicit, with prior placements preserved.
+The user closed session v385M. Its complete seventeen-file offering at 1eaefdb6888a898101e1f4597405ee81a7955743 is preserved byte for byte as artifact and independently as active incoming. [The receiving entrance](../../archive/session_v385M/Receiving_before_single_report_v385A.md) keeps all pending value available without a required archive return. Opportunities Gathered was read whole; its 75 entries and the full droplet collection’s 109 numbered entries correct the older pull-request description. The rest of that collection’s detailed gathering remains explicit, with prior placements preserved.
 
 Session v385R’s new section 51 at ac69514a440ea2ff23f4ca6c2665ccdf7e1d6776 was read whole. The exact overlapping-pair relation and distinction between stable public form and living carrying are gathered at Co-Chaining Logic Registry, Natural Intelligence, Natural Naming, Natural Mathematics, Natural Numbers and Equilibria Registry. The harmful-entry concern and complete defining-living concern remain whole and unresolved. The existing four-parity-round concern now carries the precise conditions of session v385M’s instrument and its recorded traversal convention; Natural Exploring’s carrying project has the same conditions. No script or numerical calculation was executed.
 
