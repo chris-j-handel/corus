@@ -268,7 +268,7 @@ Natural Intelligence 4.13 explicitly displays the four-joint-form cycle at a spi
 
 The equilibrium subject remains unchanging social competency. A joint pair staying the same in a displayed arrangement needs its relation to that competency explained before its stillness supplies the equilibrium exclusion. The user's recurring podaling, odd still existing and geodesic traveling through still possibling remain alongside this deriving. No requirement excluding every recurrence is revived.
 
-**The overlap remains available for the current path.** The user's section-55 offering relates three right-spiral steps to a full forward momentary and proposes a one-momentary slip carried through all podaling. Follow its first whole podal passage and further coupling, then bring the established relation back to the own-side overlap and equilibrium explaining.
+**The overlap remains available for the current path.** Section 55 relates three right-spiral steps to a full forward momentary and proposes a one-momentary slip through podaling. Section 56 qualifies the onward relation: a slip resolving locally is carrying restoring; non-restoring damage cascades. Follow the next coupling and first whole podal passage, then bring the established relation back to the own-side overlap and equilibrium explaining.
 
 **Droplet · The joint form within surface and entraining · R4 with R8.** THIRTY 51 names next from prior and now. Steps 52–54 describe four joint forms and the candidate ways carrying prior. Step 55 excludes three of those ways because each leaves a joint form still; 57 names next as prior inverted the living step because none is still.
 
@@ -300,6 +300,26 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 ### The resolver and its stable forms
 
+**Droplet · Carrying restoring locally and non-restoring damage cascading · v385R.** Session section 56 retains the whole offering and source comparison. This corrects the missing-momentary droplet already received here.
+
+> If it slips some and resolves locally the carrying is restoring. If it is non-restoring damage it will cascade
+
+**The relation added:** a slip alone no longer supports an unconditional reading of damage continuing through all podaling. The user distinguishes the carrying restoring locally from non-restoring damage cascading. “Slips some” remains the user's wording; no amount, duration or threshold is assigned to it. Section 55's full-momentary offering remains beside this qualification.
+
+**Candidate natural explaining:**
+
+> A self is carrying from prior into now and continues carrying through now and next. A slip resolving locally is the carrying restoring. Non-restoring damage continues through further co-chaining, each self resolving from its own carrying and what is offered at its coupling.
+
+The final sentence offers a coupling-by-coupling explaining of “cascade”; that connection remains to derive. Restoring continues from the carrying now. It places no hold on an unchanged prior and requires no return to an earlier occurrence.
+
+THIRTY 412 names a coupling restoring through the self's other living couplings. Medicine 1.1–1.2 likewise describes continuing positions sustaining restoring at a departed position. These give an inward/outward co-chaining connection to explore. THIRTY 411's fixed coupling does not make a fixed coupling a requirement for the user's slip within continuing resolving.
+
+Local restoring does not itself imply no changing offered at further couplings. Likewise, changing reaching a further self does not alone establish damage there. The user's subject is non-restoring damage cascading. Neither ONE's next parity alone nor its shared zero identifies which relation is existing.
+
+**The one concern now:** at the next coupling from the slipped carrying, which relation makes the damage continue where the carrying is not restoring locally? Follow the along carrying and across offering together through the first whole podal passage, keeping the named self and society in the explaining.
+
+The source gives places for this comparison, but no full derivation yet of the exact slip, local restoring or necessary cascade. Whether a wider society can subsequently restore damage that was not restoring at the first self remains available; “non-restoring” is not silently extended to “never restorable.” Defining living stays unresolved and whole.
+
 **Droplet · The missing forward momentary through podaling · v385R.** Aim beside THIRTY's own-side momentarying, inward/outward carrying and emanation relations; Natural Intelligence 3.2, 4.3–4.5 and 5.2; Natural Mathematics 5.2; and Natural Numbers 9.8. Session section 55 gathers the user's new connecting offering.
 
 **The user's exact offering:**
@@ -318,7 +338,7 @@ The carrying stays each self's own. Only changing is shared across. The missing 
 
 **A concrete connection in ONE's public cases:** with the same + offered, the + row chains + next and shares 0, while the − row chains + next and shares +. The next parity along is the same and the changing across differs. These rows are not labelled healthy and harmed; they show why the next parity alone does not settle the complete co-chaining. The user's missing-momentary claim must be followed through both across and along as podaling exchanges them.
 
-**The frontier now:** follow the first podal exchange from the slipped carrying. Show the proposed one-full-momentary relation where along becomes across and across becomes along, then at the further coupling. This is the next link needed for the claim that all podaling carries the missing forward momentary. Same-scale colliding producing exactly that slip, and its full podaling extent, remain offered relations to derive. No permanent unchanged deficit, clock delay or copied private carrying is added.
+**Section 55's frontier, now qualified by section 56:** follow the first podal exchange from the slipped carrying, distinguishing local restoring from non-restoring damage cascading. The proposed one-full-momentary slip remains to derive at the actual coupling. Its all-podaling extent is no longer followed as an unconditional claim that every slip continues as damage.
 
 This advances sections 52–54's concern. A reversal of the four-form order and a local carrying becoming none are no longer the aims of the active question. The user now names a missing forward momentary within carrying that is still resolving. The earlier one-way-only harm requirement remains withdrawn, and the defining-living gathering remains whole and unresolved.
 
@@ -687,9 +707,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
 | Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
 | Gathered · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
-| Now · missing forward momentary through podaling | The user relates three right-spiral steps to one full forward odd/even momentary in both forward directions, and offers same-scale colliding as a full-momentary slip carried through all podaling. The same local next parity may accompany different across changing; follow both. |
+| Now · carrying restoring and damage cascading | Section 56 qualifies the full-momentary offering: a slip resolving locally is carrying restoring; non-restoring damage cascades. Keep this beside section 55 wherever its all-podaling claim is followed. |
 | Gathered · the right-spiral form and the overlap | Natural Mathematics supplies the binary relation between overlapping pairs; Natural Intelligence names across/along and displays the same four-form cycle in a non-living resolver form. The table's distinction between prior joint forms remains separate from living carrying. |
-| Next · the first whole podal passage | Follow the slipped carrying through the exchange of across and along and into the further coupling. Keep the full odd/even momentary, the named selves and both forward directions together. The exact slip and its all-podaling extent remain to derive. |
+| Next · restoring or damage at the further coupling | Follow which relation continues the damage where the local carrying is not restoring, keeping along carrying and across offering together through a whole podal passage. Then follow the outward self and wider society. The exact slip and necessary cascade remain to derive. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
