@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current source connection is own co-offering in Natural Health and Natural Medicine, section 50.** The user directed us to existing exploring there. Health distinguishes the living self's own bi-exchange from larger-to-smaller one-way entering; Medicine also describes co-offering from above. The next concern is the parity relation that makes the specified bi-tri-involution entry one-way for the surface society.
+**The current work is the right-spiral form at the overlap and living carrying, section 51.** ONE's local cases do not identify the specified harmful entry from the origin of a surfaced parity, so the complete harm concern remains gathered for return. The active path follows THIRTY's early deriving: the explicit overlapping-pair relation, the across/along names and the stable form's distinction from a living self's carrying.
 
-**The path and progress.** Sections 44–49 connect carrying resolving, stable form, inward ingesting and the specified entering from above. Section 50 brings in Health and Medicine's already-existing own-co-offering explanation and narrows the remaining parity concern. Next follow that entry at the actual bi-coupling; beyond it, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
+**The path and progress.** Sections 44–50 keep carrying resolving, stable form, inward ingesting and the conditional harm offering connected. Section 51 compares ONE's local cases and returns to the larger early deriving with a concrete overlap relation from Natural Mathematics. Next locate that relation at each self's own momentarying, then follow the equilibrium requirement at the same subject. Naming and Natural Intelligence follow that co-chaining. The harm concern and complete defining-living gathering each remain available and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2031,6 +2031,8 @@ The defining-living gathering stays whole and unresolved. Earlier exact user off
 
 ## 50. Own co-offering in Natural Health and Natural Medicine
 
+**Current path after section 51's comparison.** The complete harm concern below remains gathered for return. ONE's local cases do not derive a harmful-entry classification from the origin of an arriving parity. The active work returns to the early no-other-method deriving with the explicit overlapping-pair relation found in Natural Mathematics.
+
 ### The user's direction
 
 > we have explored this some in natural medicine and health. continue
@@ -2094,3 +2096,77 @@ Natural Health v329 was read whole at blob `7c3d288092635628554b00162a416245b310
 The current v385A offering mates were fetched at blobs `460ddb2d10db4b32c20fc4b34646c00baa0d9cbc` for Health and `0bb57dfdcd9833c97b8bd3bb57d883f4cb9003af` for Medicine. The selected scale, ingesting, source-standing and later seed/omega droplets were read. Numerical reports, biological mechanisms and clinical results were not independently verified or recalculated here.
 
 The earlier exact offerings and protected mate sections are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
+
+
+## 51. The right-spiral form at the overlap and living carrying
+
+### The user's direction and the method pursued
+
+> continue if you have a method or concept to pursue. i do not now have a suggesting aim for this part
+
+The method pursued here is to compare the proposed one-way entry with the existing public sharing and colliding relations, keep any unsupplied relation gathered, and follow the larger chain with a source connection that can be stated precisely. No new user suggestion is required to make that progress.
+
+### What ONE's public cases supply
+
+The published “One self, one momentary” table gives a matching surfaced parity with no changing shared and that parity chained next. A differing surfaced parity has a changing shared and that offered parity chained next. With none surfaced, the carried parity inverts and is shared. These are the source's displayed cases, already compared in section 45.
+
+The “Colliding” table begins with no carrying and gives its own offered-parity cases. It does not turn a living self into a carrying of none merely because the offering arrived from a stable form. A non-living offering and a non-living colliding subject retain different positions in the explanation.
+
+The local table does not distinguish an offered sign by an above/below origin or assign a harmful-entry result to it. Nor does the number of agreeing offerings alter the parity surfaced in that table. Therefore the table alone supplies no deriving of the specified harm from entry direction, scale or an unchanged result. This is a limit of the particular comparison, not a finding that the user's harmful entering is impossible or harmless.
+
+The whole concern remains gathered: the user's bi-tri-involution, same scale, surface society and entering-from-above condition; birthing within; the first inward society as ingesting; and Health and Medicine's own-answering relation. The active path returns to the larger early deriving.
+
+### The prior whole and what the finite table actually distinguishes
+
+Natural Intelligence 2.4 explains the early table's “losing the prior” as different joint forms going to one joint form. Its four displayed rows preserve their distinction. A clearer candidate sentence is:
+
+> In the four rows displayed, different prior joint forms remain different next joint forms. In the other displayed cases, different prior joint forms can arrive as one next joint form.
+
+This names the stable-form relation being compared. It supplies no requirement that a living self's carrying remain untouched. The user's existing non-living prior whole stays with the stable-form, package and shard explaining; it is not silently renamed as the invisible living carrying.
+
+The comparison remains at the finite arrangement stated in the source. The full counting is neither executed nor offered as a new verification here. The condition being described can be followed without inspecting any living self's private carrying.
+
+### The explicit relation at the overlap
+
+Natural Intelligence 2.4 and Natural Naming name the right-spiral pair as across parity and along parity. Natural Mathematics 2.4 gives the same form along first. Their notation can be stated with its subjects:
+
+> The right-spiral pair names across parity and along parity. Its step places the along parity across and the across parity, inverted, along.
+
+Natural Mathematics then gives a more particular relation for two overlapping pairs, (a, b) and (b, z):
+
+| Relation across the two overlapping pairs | The outer parities |
+|---|---|
+| Their agreeing-or-parting relations differ | z has the other parity from a |
+| Their agreeing-or-parting relations are the same | z has the same parity as a |
+
+The middle position b belongs to both displayed pairs. This is a relation in the public form; it is no claim that the selves share private carrying. The first row is the source's explicit condition for “next as prior inverted.” The second states its complementary binary case.
+
+The same source also keeps two other subjects apart: along a side's two momentaries, both parities can invert while their agreeing-or-parting relation remains the same; across the overlap, that relation changes. The unchanged relation along is therefore compatible with the parities changing. This is useful positive explaining for the user's own-side overlap and the distinction between a retained relation and an equilibrium's unchanged social competency.
+
+These sign-pair positions are not silently assigned the user's numbered odd/even positions, two-number forward changes or complete carrying. Locating them in that supplied explaining is the next source work.
+
+### A four-form cycle is not by itself a living self
+
+Natural Intelligence 4.13 explicitly follows a spiral of one through the four joint forms and calls its continuing resolver form non-living. Its 2.4 likewise places that example beside the phrase “living step.” The source therefore already allows the right-spiral stable form in something it does not call a living self.
+
+The precise improvement is to say which subject is being named. The cycle displays a stable form of the method. The living self is carrying and resolving at its actual couplings with others. The cycle's presence alone supplies no definition of living, no social competency finding and no universal equilibrium exclusion.
+
+Likewise, a joint pair unchanged in a displayed arrangement does not by itself name the user's equilibrium subject, unchanging social competency. The deriving needs the actual relation between that pair and the competency whose next existing is at issue. The user's recurring podaling and odd still existing remain available; no demand that recurrence be impossible is added.
+
+### Current progress and the next relation to follow
+
+THIRTY's mate receives a new droplet beside the early joint-form deriving. It includes the explicit overlap relation, the two parity names, the candidate wording for distinct prior forms and the non-living-cycle example. The older section-23 candidate remains historical; the present findings do not retroactively certify it.
+
+The next work is to locate these overlapping pairs in each self's own prior, now and next, with the other's own one at the self's two, and the living surface through which geodesic parity changing entrains. The required equilibrium comparison then follows the same relation: what the conception requires unchanged and what the actual next changes. This gives an autonomous source path rather than another request that the user supply an aim for the harm thread.
+
+The defining-living gathering remains parked whole. This section does not decide it; the non-living example is the source's own classification used to clarify the extent of its mathematical saying.
+
+### Reciprocal value and reading extent
+
+v385A's [return on PR 128](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6065565450) reports the existing-form and inward-coupling correction at eight offering mates, with the whole seed/oil comparison separately aimed. That reported placement extent is retained. The Medicine-mate comparison was read in section 50; no eight-file rereading or clinical conclusion is claimed here.
+
+Natural Resolver was fetched at blob `ff6d47f3b34a4e9e877b842de1b79ee796cc7135`; its local sharing, surfacing, inward/outward and colliding passages were followed. Natural Intelligence 2.4 and 4.12–4.13, Natural Mathematics 2.4 and Natural Naming's across/along paragraph were read directly in the v385R working set. Their finite arrangements retain their conditions.
+
+v385M's source remains blob `3d4fe82542617f3460a623d0f17db188c6ff0014`. Its current wording of the local carried/arriving concern and its earlier fixed-form concerns were compared. Section 45 already preserves the distinction between one next parity and the changing shared. M's historical excluded-set premise remains superseded by this session's correcting, and its reported programs and biological examples were not executed or independently verified here.
+
+Earlier exact offerings and protected sections are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
