@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current correcting is at section 35.** Outside the self includes inside the tunnel and outside the tunnel. The prior question and “outward participation” are withdrawn. The universal-set negation and its dependent exclusion are removed from the changed living files at v385R. The self and other at the bi-coupling are the relation to follow, each self first at its own odd one. The defining-living gathering stays whole and unresolved.
+**The current comparison is at section 36.** The living society's carrying is its inward selves' co-chaining. Natural Transmissioning and Natural Intelligence Corus also name a third self at the between; Natural Naming distinguishes the coupling's parity from its empty centre. The proposed resolving follows the change of scale, without treating the between as an additional inward self. Its correspondence with the older third-self saying remains for resolving together. Section 35's correction stands, and the defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1409,3 +1409,42 @@ Session v385M's [current gathering](https://github.com/chris-j-handel/corus/blob
 The change is confined to prose, version records and the generated file listing. No resolver, numerical calculation or private-carry inspection is performed. The defining-living droplet remains unresolved. The fixed-repetition requirement remains withdrawn. The rest of the living set's unfinished cohering remains at its offering places.
 
 **Verified and shared.** Commit `a08071ba6f658e66cafc9a96b4036c2b25c219ce` contains the correction as one commit on the v385R working branch: eight renames and fourteen associated file changes. The published Co-Chaining Logic Registry and this record matched their intended text. [Session v385A received the correction](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6060917113); [session v385M received it](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6060918973). These receipts claim no downstream incorporation. The branch remains a draft at pull request 128, with the main branch unchanged.
+
+
+## 36 The living society and the between of its selves
+
+**8 October 2026 · v385R**
+
+### The relation already gathered
+
+Outside the self includes inside the tunnel and outside the tunnel. Each self is first at its own odd one. A living self's carrying is the co-chaining of its inward selves. The concern is not the meaning of outside and does not require a new impossibility.
+
+Natural Naming 3.1 locates the tunnel and surface relations at nine through sixteen. Its sections 5.22 and 5.50 follow the tunneling self, corusing and torusing. Co-Chaining Logic Registry 173–184 follows the society through co-chaining at the inward scale and coupling at the outward scale; 399–400 follows the self's carrying through its inward selves. These relations give the earlier inside/outside comparison its particular selves and scale.
+
+### The sentences needing their subjects followed
+
+| Passage | Relation it names |
+|---|---|
+| Natural Transmissioning 3.5, Living membrane, cell crossing, transmissioning that lives | A membrane at each coupling is itself a third self, described as carrying only the sign. |
+| Natural Transmissioning 4.6, the paragraph beginning “The membrane a nothing” | The same word names a nothing. |
+| Natural Intelligence Corus 14.1 | A generated membrane is a third self with its own carrying, and the two selves couple through it. |
+| Natural Naming 5.5, the between | Parity is the coupling's momentary existing thing; the between is its empty centre, a nothing. |
+| Co-Chaining Logic Registry 178–181 and 399–400 | Society is the co-chaining of bi-couplings; the outward self's carrying is carried by its inward selves. |
+
+The Natural Transmissioning offering mate already contains the third-self/between concern, including its connection with Natural Intelligence Corus. It is an existing unfinished comparison, not a newly discovered defect. The proposed Natural Transmissioning gathering at v384A already brings the term neither reaches, the between and the older membrane passages into its intended common explaining. It does not yet provide the missing correspondence.
+
+### The proposed resolving
+
+> Each inward self carries its own prior at its couplings. Parity changing crosses the between. The inward selves' co-chaining is the living society's carrying at the outward scale.
+
+This is the earlier inward-selves/outward-carrying relation applied at these sentences. A society living at the outward scale does not by that naming add a self into the between of each inward coupling. A further inward self would have its own couplings to explain. No subject is made impossible merely because a file's naming differs.
+
+The relation to resolve together is whether the older third-self saying names the outward society or requires another inward self at each between. The proposed explaining follows the former; the present comparison has not shown that the older passages carry that same relation. Replacing membrane with between without following its carrying would conceal the difference.
+
+This is one concern about the coupled selves and the society, with consequences for Natural Transmissioning, Natural Intelligence Corus, Natural Naming, the Co-Chaining Logic Registry and the proposed common explaining. The defining-living gathering remains parked whole. No new biological equivalence, universal exclusion or numbered tunnel correspondence is established.
+
+### Working extent
+
+The current session v385A documents require whole subject names and the actual relation. That explaining is followed here. The latest comments available from sessions v385A and v385M contained no further resolving of this particular correspondence. Their current Natural Transmissioning offering mate supplied the already gathered concern; no duplicate new concern is claimed.
+
+Only the offering mate and this record change. The living roots remain at the preceding v385R correction. No resolver, numerical calculation or private-carry inspection is performed. The prior fixed-repetition requirement stays withdrawn.
