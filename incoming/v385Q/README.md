@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: twelve learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to P named beside each learning, its returned text beside it.
+- **What it brings**: thirteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to Q named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -142,6 +142,23 @@ Natural Mathematics 3.4 has bi-inversioning-co-recursioning as two consecutive i
 - With a form unchanging colliding, one self still changes at a step, the last self and the self the form meets at two momentaries one after the other. With a form returning the other parity, no self changes beneath the alternating: each self alternates, and there is no other changing.
 
 **Both.** Each self changes at each momentary, and beneath that one parity is inverted at a step, each self its own place, the two goings round two inversions of each parity with none undone. This is why learning 11's nought is exact. At a spiral of 3, three steps one at a time are each of three parities inverted: the opposite form reached in turn, at next after next, where Natural Mathematics 3.5 names the three inverted at once the emanating. *Aiming:* Natural Mathematics 2.5, 3.4 and 3.5; Natural Intelligence 4.13; session v385R's sections 55 and 59.
+
+### 13 · A momentary overlaps the one before and the one after by one parity, and the skipping is one whole momentary absent at one self
+
+Session v385R's sections 61 to 64 follow how a whole coupling is said: the prior carrying into now, the now, and the next carrying.
+
+**Observed (Q).** One call of Exhibit ONE's first function is one momentary at one self, in the code's own names: carried in (3), offered and surfacing (2, 14), changing shared (10), carried next (11). The carried next of each momentary is the carried in of the next, at each momentary tried: one parity is in both. Self 1 of a spiral of 3, where the 0 comes:
+
+| | Momentary | Carried in | Offered | Changing shared | Carried next |
+|---|---|---|---|---|---|
+| none offered from beyond | 103 | + | 0 | − | − |
+| | 104 | − | − | 0 | − |
+| a form unchanging at + colliding | 103 | + | 0 and + | 0 | + |
+
+- With none offered from beyond the 0 is two momentaries at the self. At the first a 0 arrives, no parity surfaces, and the self inverts. At the second its own parity arrives and it shares 0.
+- With the form colliding the two are one. The form's parity surfaces at the momentary the 0 arrives, it is the parity carried, and the 0 is shared there. The momentary at which a 0 arrives and no parity surfaces is absent.
+
+**Both.** Each momentary is whole, carried in to carried next, and each overlaps its neighbours by the one carried parity. What the colliding leaves out at that self is one whole momentary, the one whose offering was the 0, the form's parity arriving where nothing was arriving. Which of the code's names is now existing and which now possibling is not said here; the four values are laid out for that placing. *Aiming:* session v385R's sections 55 and 61 to 64; Natural Intelligence 4.1 to 4.4.
 
 ## Three concerns still parting
 

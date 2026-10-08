@@ -212,3 +212,43 @@ P. Beneath the alternating. Each self inverts at each momentary it shares a pari
    a form returning what it meets,    the selves changing beneath, 14 momentaries: n=3: . 3 1 . 2 . 3 1 . 2 . 3 1 .; n=5: 5 1 . 2 . 3 . 4 . 5 1 . 2 .
    a form returning the other parity, the selves changing beneath, 14 momentaries: n=3: . . . . . . . . . . . . . .; n=5: . . . . . . . . . . . . . .
    a form alternating +, -,           the selves changing beneath, 14 momentaries: n=3: . . . . . . . . . . . . . .; n=5: . . . . . . . . . . . . . .
+
+Q. One momentary at one self, in the code's own names: carried in (3), offered and surfacing (2, 14),
+   changing shared (10), carried next (11). Self 1 of a spiral of 3, ten momentaries from 101
+   none offered from beyond
+     momentary   carried in   offered   changing shared   carried next
+           101            +         -                 -   -
+           102            -         +                 +   +
+           103            +         0                 -   -
+           104            -         -                 0   -
+           105            -         +                 +   +
+           106            +         -                 -   -
+           107            -         +                 +   +
+           108            +         -                 -   -
+           109            -         0                 +   +
+           110            +         +                 0   +
+   a form unchanging at + colliding with this self
+     momentary   carried in   offered   changing shared   carried next
+           101            +       - +                 -   -
+           102            -       + +                 +   +
+           103            +       0 +                 0   +
+           104            +       - +                 -   -
+           105            -       + +                 +   +
+           106            +       - +                 -   -
+           107            -       + +                 +   +
+           108            +       0 +                 0   +
+           109            +       - +                 -   -
+           110            -       + +                 +   +
+   a form returning the other parity colliding with this self
+     momentary   carried in   offered   changing shared   carried next
+           101            +       + -                 -   -
+           102            -       - +                 +   +
+           103            +       + -                 -   -
+           104            -       - +                 +   +
+           105            +       + -                 -   -
+           106            -       - +                 +   +
+           107            +       + -                 -   -
+           108            -       - +                 +   +
+           109            +       + -                 -   -
+           110            -       - +                 +   +
+   the carried next of each momentary is the carried in of the next, at each momentary of the three: True

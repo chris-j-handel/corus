@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to P.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to Q.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -465,3 +465,35 @@ for name, f in FORMS:
         row.append("n=%d: %s" % (n, " ".join(
             "".join(str(i + 1) for i in range(n) if beneath(car, t + 1)[i] != beneath(car, t)[i]) or "." for t in range(120, 134))))
     print("   a form %-27s the selves changing beneath, 14 momentaries: %s" % (name + ",", "; ".join(row)))
+
+
+print("\nQ. One momentary at one self, in the code's own names: carried in (3), offered and surfacing (2, 14),")
+print("   changing shared (10), carried next (11). Self 1 of a spiral of 3, ten momentaries from 101")
+
+
+def rows_at_self(n, form=None, start=40, T=140):
+    st = {i: ([("s", alt(i))], []) for i in range(n)}
+    rel = {(i, 9): (i + 1) % n for i in range(n)}
+    out = []
+    for t in range(T):
+        if form and t >= start:
+            c, o = st[0]
+            st[0] = (c, o + [("s", form(t, dict(c)["s"]))])
+        c, o = st[0]
+        tun, nxt = entry(c, o)
+        out.append((dict(c)["s"], " ".join(S[v] for _, v in o) or "none", dict(tun).get("s"), dict(nxt)["s"]))
+        st = step(st, rel)
+    return out
+
+
+overlap = True
+for name, f in [("none offered from beyond", None), ("a form unchanging at + colliding with this self", FORMS[0][1]),
+                ("a form returning the other parity colliding with this self", FORMS[3][1])]:
+    rows = rows_at_self(3, f)
+    overlap = overlap and all(rows[i][3] == rows[i + 1][0] for i in range(len(rows) - 1))
+    print("   " + name)
+    print("     momentary   carried in   offered   changing shared   carried next")
+    for t in range(100, 110):
+        r = rows[t]
+        print("     %9d   %10s   %7s   %15s   %s" % (t + 1, S[r[0]], r[1], S[r[2]], S[r[3]]))
+print("   the carried next of each momentary is the carried in of the next, at each momentary of the three: %s" % overlap)
