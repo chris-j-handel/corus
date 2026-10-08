@@ -164,7 +164,7 @@ Session v385R's sections 61 to 64 follow how a whole coupling is said: the prior
 
 Exhibit ONE's table of a self's four momentaries of exchanging has them at the names 1–2, 3–4, 5–6 and 7–8, the fourth completing at 9, and the society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17. Natural Mathematics 2.5 has a momentary as four momentaries of exchanging at the scale inward of it. Session v385R's section 63 follows 1 to 9 as one 4-cycling.
 
-**Observed (R, Q).** Each of the seventeen names is inside one run of the resolver's three functions, none at more than one run and none left out. What learning 13 finds absent at the self a form meets is one such run: the one whose offering was the 0.
+**Observed (R, Q).** Each of the seventeen names is inside one run of the resolver's three functions, none left out. What learning 13 finds absent at the self a form meets is one such run: the one whose offering was the 0.
 
 **Both.** In the code one run is absent, and in Exhibit ONE's naming of what one run is, that is the self's four momentaries of exchanging, 1–2, 3–4, 5–6 and 7–8, and the society's four with them. The code has the four as names inside the one run and gives no one of them a next of its own, so it shows the four absent together and cannot show one of the four absent alone. *Aiming:* session v385R's sections 55, 63 and 64; Exhibit ONE's table of a self's four momentaries of exchanging; Natural Mathematics 2.5.
 
