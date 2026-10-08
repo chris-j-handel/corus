@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work distinguishes the society's changing from further changes through its co-chaining, section 65.** The user's earlier set correction now improves the cascade explaining at Biology 7.7: a member's changing changes the set, without establishing that every member changes at that momentary. The whole 4-cycling and the full-momentary slip remain at sections 63–64. Their actual changed relation is still the concern to resolve. A's seed/dormancy question receives the gathered scale distinctions without deciding the unresolved defining-living question.
+**The current work follows one further coupling through ONE's three-selves relation, section 66.** B sharing no changing can be followed by C changing; B changing can be followed by C sharing no changing. Each self resolves with its own carrying, and the two complete results at C remain distinct in the published comparison. A recurring parity can follow intervening changings. The passage supplies a concrete place to examine the proposed slip without labelling either ordinary case damage.
 
-**The path and progress.** Sections 44–64 gather carrying resolving, colliding, slip, restoring/cascading and the whole 1–17 loopings. Section 65 applies the user's changing-set distinction to the source's everywhere-at-once wording and gives positive explaining through actual further couplings. Next locate the proposed missing forward relation within that co-chaining, then follow restoring or non-restoring damage through the first whole podal passage and back into THIRTY's deriving. A confirms the corrections through section 63 now accompany its sequential-colliding droplet; section 64 remains developing incoming. Defining living remains unresolved.
+**The path and progress.** Sections 44–65 gather carrying resolving, the proposed slip and restoring/cascading, whole 1–17 loopings and the society/member changing distinction. Section 66 follows one further coupling with ONE's complete published cases and locates a recurring parity within actual changing. Next identify the slip's changed relation in the paired loopings, then follow the full podal passage and the local-restoring or non-restoring co-chaining. A's latest confirmed gathering remains through section 63's corrections. The defining-living question remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3196,3 +3196,68 @@ The new set/co-chaining correction is aimed toward Biology 7.7, THIRTY's society
 Next keep the actual full-momentary slip at the coupled loopings, then the first further coupling and whole podal passage. Carry the connected value back into THIRTY's inward/outward carrying and universal-method explaining as the relation resolves.
 
 Direct comparison: THIRTY 399–414; Biology 7.1, 7.3–7.7 and its gathered dormancy offering; Networking's non-carrying local surface passage; this report's sections 14, 16, 46 and 52–64. No resolver is executed, no living carrying is inspected and no clinical or biological finding is independently validated here.
+
+## 66. What the changing meets at the next coupling
+
+### A concrete passage already in ONE
+
+The user's “Continue” directs the inquiry to the next actual coupling. ONE's “Three selves in a line” table and THIRTY 608 and 627 supply that passage.
+
+At the published arrangement, A offers one parity to B at the first momentary alone. B and C each have + at their one sharing, and B releases along to C. The two cases are:
+
+| A's offering to B | B shares | B chains next | C shares at its first and second momentaries | C chains next at its second |
+|---|---|---|---|---|
+| + | No changing | + | −, then + | + |
+| − | − | − | −, then no changing | − |
+
+The signs are ONE's published values. They are not substitutions for odd existing and even possibling. “No changing” expresses the table's shared 0; it supplies no third living parity and no claim that a self has ceased resolving.
+
+### Following each self's own resolving
+
+In the first case, A's offering agrees with B's parity. B shares no changing and chains +. At C's first momentary no parity from B has yet surfaced, so C's own + inverts to −. B's shared 0 then surfaces no parity at C, and C's own − inverts to +.
+
+Thus C's parity at its second next is the same as its first prior, with its own intervening changing. This is a recurrence of a parity through resolving. It does not identify an unchanged prior whole or bring back an earlier occurrence.
+
+In the second case, A's − differs from B's +. B shares − and chains −. C again first inverts its own + to −. B's − then surfaces at C, agreeing with C's now parity: C shares no changing and chains −.
+
+The place of the changing-that-is-not differs between these passages. In the first it is at B, followed by C's changing; in the second B changes and C's following coupling shares no changing. Each relation follows the published cases.
+
+The two complete results at C remain distinct: shared + with next + in the first case, and no changing with next − in the second. This is one example in which the offered difference continues into distinct results at a further coupling. It does not overturn section 58's other comparison, where different offered conditions gave the same two local results. The actual cases matter.
+
+### Its place within the whole loopings
+
+At each self the prior carrying and the now offering meet in its own resolving. The changing at 12 is shared at 10, and next carrying is chained at 11. The along coupling follows ONE's 9/17 relation. These names retain their places in the moralizing, competencing, corusing and torusing loopings gathered at sections 63–64.
+
+The passage therefore connects directly to the user's latest explaining: prior carrying; odd existing now; even possibling now; odd existing as next carrying. It does not replace the whole 4-cycling at 1–9 with a chain of isolated operations.
+
+This follows one further coupling under the table's stated arrangement. Its two listed momentaries at C are not silently identified with the user's three-right-spiral-step grouping, and no fixed execution schedule is made the living selves' shared clock. The actual own-side and inward/outward relations remain with the whole stable form.
+
+### Value for the slip and restoring inquiry
+
+A local changing-that-is-not is compatible with further changing. A changed offering can likewise meet another self's carrying and give a changing-that-is-not. The no-changing result therefore cannot by itself be the proposed missing full forward momentary.
+
+A recurring parity likewise cannot by itself identify restoring or a slip: in the first case C returns to + through two actual changings. This supplies a concrete source example beside the user's earlier explanation of odd still existing and recurring podaling, without identifying the sign with that odd numbered position.
+
+The positive explaining available for the receiving files is:
+
+> A self's changing is offered at another's coupling. The other resolves with its own carrying. A changing-that-is-not at one self can be followed by changing at the other; a changed offering can meet agreement at the other and give a changing-that-is-not. Their further carrying and offering belong to that same co-chaining.
+
+No damage or restoring is assigned to either row. No private carrying is copied between the selves. The source's ordinary three-selves case does not identify A's offering as the user's specified same-scale emanation.
+
+### The remaining concern, now at a particular passage
+
+The slip's changed relation still needs to be identified within the paired loopings. We now have an explicit next-coupling passage to keep with that concern: B's changing or no changing, what surfaces at C, and C's own changing and next carrying.
+
+**Which change of this co-sequencing through the whole loopings is the missing full forward momentary in the specified colliding?** The ordinary movement of changing-that-is-not among the selves is already part of the method. A harm claim needs the further relation that distinguishes the proposed slip from these ordinary cases.
+
+The user's local-restoring qualification remains attached. Once that relation is expressed, follow its local resolving or the onward non-restoring damage at the next actual coupling and through the whole podal passage. The society-changing correction from section 65 prevents substituting a change of the whole set for the missing further sequence.
+
+### Progress and onward aiming
+
+The new value is the complete first further coupling, with each self's own carrying, both local results, and the recurrence through intervening changing explicit. The first further passage is followed; the full podal passage and the exact harmful-slip correspondence remain unresolved.
+
+Aimings: THIRTY beside 608 and 623–627 and the restoring cluster; ONE's existing three-selves explaining; SIX's proposed transmissioning; Naming; Networking; Natural Intelligence. This stays in the one accumulating v385R report for the established incoming route. No new root rewrite or separate report is introduced.
+
+No new A or Q return was present at the current PR 128 check. A's latest confirmed gathering remains the correction through section 63, as recorded at section 65. R10's complete defining-living gathering remains unresolved and unchanged.
+
+Direct comparison: ONE's published “Three selves in a line,” surfacing and one-self/one-momentary tables; THIRTY 604–609, 623–627 and 633–636. No resolver is executed, no living carrying is inspected and no injury or clinical outcome is derived from these cases.
