@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current correction is at section 32.** The assistant's question requiring a fixed repeating relation with another changing to be impossible is withdrawn. Nothing followed here established that unrelationing names that exclusion. The entraining candidate remains available without that added requirement; it is neither proved nor refuted by this correction. No new concern is manufactured to replace the withdrawn one. The earlier arriving/offering identification and R10 remain at their unresolved standing.
+**The current exploring route is at section 33.** The withdrawn impossibility requirement stays withdrawn. The next substantial source connection is THIRTY 1–3 and 20: the changing set, the set existing as its things exist, and the universe named an existing thing within itself as the fractal. R6's inward-selves/outward-carrying relation supplies a candidate to follow there. Other source work remains gathered; R10 stays whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1252,3 +1252,55 @@ The practical next work is following successive arriving, resolving and offering
 THIRTY's mate now states this correction beside the entraining droplet and removes the no-fixed-repetition question from the current working direction. The two other sessions are to receive the same withdrawal because we sent them that question. The earlier source distinction between nothing offered and no arriving geodesic changing stays unresolved; R10 and the earlier offering body remain unchanged. — v385R
 
 **Withdrawal sent:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050010728) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6050011260). The prior question is withdrawn from required unresolved work; the entraining candidate remains available. These are sending receipts.
+
+## 33. Further logical chaining, with the early fractal relation first
+
+**The user asks:**
+
+> is there more logical chaining exploring to do in our files
+
+Yes. The work remaining includes connections between early claims and later explaining, propagation of the recent distinctions to their dependent sentences, and examination of the actual relations used by the strongest universal claims. Removing an unsupported assistant question does not remove that work.
+
+This pass reads the current v385R mate and report, THIRTY 1–33, 41–57, 143–162 and 385–408 at the returned passages, NI 1.1, Naming 2.1–2.2, and Explaining 3.11's distinction between a naming identity, a consequence at stated premises and a universal necessity. These are specific source comparisons, not a new whole-file survey or a certification of the whole chain.
+
+### The next substantial connection: the set and the fractal
+
+| Sentence | The relation it asserts |
+|---|---|
+| THIRTY 1 | The universe is the changing set of all existing things. |
+| THIRTY 2 | A set is an existing thing. |
+| THIRTY 3 | The universe is an existing thing within that set; this is called the fractal inward and outward of itself. |
+| THIRTY 20 and NI 1.1 | The set exists as its existing things exist; the set is its things and nothing more. |
+| THIRTY 399–400 and our R6 explaining | A living self's inward selves carry their own and the self's prior; their co-chaining is the outward self's carrying. |
+
+The membership and self/society relation in step 3 is not supplied merely by the opening sentence. The file needs to identify what existing relation it names. That is the source concern: an actual step in the claimed sequence needs its connecting work made visible.
+
+Our strongest candidate material is the self/society relation already gathered at R6. It follows inward living selves and their co-chaining as the outward self's carrying. Naming 2.2 supplies the method's inward/outward scale relation. These can be brought forward to explain the fractal at its first appearance.
+
+**Question for resolving together:** what existing relation is step 3 naming when it calls the universe an existing thing within itself?
+
+This is not a demand to disprove a repeating pattern or to accept a separate universe-object. It asks what the existing sentence adds and how that addition follows. We should discover whether it names the same self/society relation, restates the set existing as its things exist, or needs different explaining. These remain possibilities for the writing, not verdicts supplied by the words.
+
+The question already had a receiving place in the first contents area. This pass supplies the exact sentence comparison and the best current connecting value, so it can now be worked on concretely.
+
+### Further work remains gathered behind this first connection
+
+**Changing and unchanged existing.** THIRTY 4–5 and 26 use existing is changing; 15 and 24 use co-changing for non-living participation. Our later explaining distinguishes the changing set, a stable form unchanged between collidings, odd still existing, and recurring podaling with a new still possibling. The current root sentences have not yet been rewritten to carry those subjects explicitly. This is a propagation and chaining task. The old claim that all members change whenever one does remains withdrawn, not a new question for the user.
+
+**Self, society and carrying.** THIRTY 387 still calls society existing and not living; 399–400 gives the inward-selves carrying. The R6 insertlet gathers a candidate connection, and the user's every-society-living offering remains to follow in that writing. The early fractal relation can help this later passage retain the same subjects. R10's proposed definition of living remains parked and is not used to settle it.
+
+**The strongest exclusions and applications.** THIRTY 143–153, the competency passages and the related mates still need the precise subject carried from the local relation into the universal claim. Existing unchanged forms must remain distinct from the proposed unchanging-social-competency equilibrium. A hard problem's actual question must remain with what its proposed resolving answers. These are existing R5/R8 routes, not a fresh set of questions added here.
+
+The next step is the early fractal relation above, one substantial connection at a time. The other routes are retained so the full aiming remains visible; they do not become a simultaneous list for the user to answer.
+
+### Source coordination
+
+A's [latest returned note](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049980221) reports correcting wording that could confer authority on offerings and keeping the self, momentary and particular occurrence with its protecting comparison. Its note precedes our section-32 withdrawal; the withdrawal was separately sent to A and M and remains current. We do not read A's older mention of the all-other-rates concern as reinstating it.
+
+The useful source help to solicit now is a passage that actually follows the set/fractal connection, especially beside the inward-selves/outward-carrying relation, rather than another occurrence of the same claim. No calculation or private carrying is needed. The source may reveal that our selected gap already has its explaining elsewhere; that would help bring it to the needed sentence.
+
+### Placement and progress
+
+The first contents area of THIRTY's offering mate now holds the precise step-1/2/3/20 comparison, R6's candidate connection and the one question. No new insertlet is counted: this is an improved droplet with a better specified relation to explore. The ten existing prose locations remain subject to logical following, not counted as certified results.
+
+The report and receiver retain all previous value, including the method corrections and parked R10. Their improved organization makes the next work concrete, but it does not mean the living root or full file set is already coherent. — v385R
