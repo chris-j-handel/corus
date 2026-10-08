@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is the missing forward momentary through podaling, section 55.** The user relates three right-spiral steps to one full forward odd/even momentary in both forward directions and offers same-scale colliding as a one-momentary slip carried through all podaling. The active frontier follows the first whole podal exchange from that carrying, keeping across and along together.
+**The current work is carrying restoring locally and non-restoring damage cascading, section 56.** The user qualifies section 55's missing-momentary offering: a slip resolving locally is carrying restoring; non-restoring damage cascades. The active frontier follows the next coupling from the slipped carrying, keeping along carrying and across offering together.
 
-**The path and progress.** Sections 44–54 connect carrying resolving, stable form, inward ingesting, sequential colliding, changing couplings and the opposite-form comparison. Section 55 adds the user's full-momentary grouping and proposed slip. Next follow the first whole podal passage and further coupling, then return the established relation to the outward carrying, own-side overlap and equilibrium requirement. A is gathering, M has closed, and Q is joining. The complete defining-living gathering remains unresolved.
+**The path and progress.** Sections 44–55 connect carrying resolving, stable form, inward ingesting, sequential colliding, changing couplings, the opposite-form comparison and the proposed full-momentary slip. Section 56 adds local restoring and non-restoring damage cascading. Next follow the relation at the further coupling and first whole podal passage; beyond it, follow outward carrying, the wider society, own-side overlap and equilibrium explaining. A's latest receiving method gathers one whole session report into Living Improving Value before distribution to mates. M has closed; Q is joining. The complete defining-living gathering remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2413,6 +2413,8 @@ Earlier exact offerings and the protected defining-living and earlier-offerings 
 
 ## 55. The missing forward momentary through podaling
 
+**Further qualifying at section 56:** the user distinguishes a slip resolving locally, carrying restoring, from non-restoring damage cascading. Read the all-podaling offering below with that later distinction. Its exact wording is preserved.
+
 ### The user's exact connecting offering
 
 > resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us
@@ -2494,3 +2496,59 @@ The defining-living gathering remains unresolved and unchanged. The unavailable-
 Directly followed here: Natural Mathematics 5.1–5.2; Natural Intelligence 2.3, 3.2, 4.3–4.5 and the three-own-forward paragraph at 5.2; Natural Numbers 9.8; ONE's public matching/differing cases; Natural Naming 5.49–5.50; and Natural Physics 1.2's conceptual six-recursionings/connector distinction. Their counts and physical examples are not treated as authority for the missing-momentary claim. No numerical resolver execution, private-carry inspection, clocking or clinical application is performed.
 
 Earlier exact offerings and protected gatherings are preserved.
+
+## 56. Carrying restoring locally and non-restoring damage cascading
+
+### The user's exact qualifying offering
+
+> If it slips some and resolves locally the carrying is restoring. If it is non-restoring damage it will cascade
+
+This gives the missing-momentary droplet a relation section 55 left undecided. A slip can resolve locally, with the carrying restoring. The user places the cascading claim at non-restoring damage.
+
+The two offerings stay together. Section 55 names a proposed full-momentary slip from the specified same-scale colliding. “Slips some” here is not assigned that exact amount, a smaller amount, a duration or a new numerical threshold. The added relation is what happens through further resolving.
+
+### What this changes in the co-chaining
+
+A slip alone no longer supports an unconditional reading of damage continuing through all podaling. The proposed onward damage belongs with the non-restoring condition.
+
+Local restoring does not imply the absence of further offering. A restoring self continues coupling. Its changing can meet another self without establishing damage there. Conversely, one unchanged next parity cannot establish that the whole carrying has restored. Section 45's public ONE comparison distinguishes the same next parity from the complete along-and-across relation.
+
+Restoring continues from carrying now into next. It does not preserve prior untouched, copy the prior whole or require an earlier occurrence to happen again. The user's section-44 correction remains in force.
+
+### The existing connection to inward and outward carrying
+
+THIRTY 411–412 describes a coupling departed while the self continues at other couplings, then restoring through those living couplings. This is a nearby relation: wider living co-chaining can sustain restoring at a particular coupling. The source's fixed-position departure is not made a requirement for the present slip within continuing resolving.
+
+Medicine 1.1–1.2 similarly describes continuing positions sustaining restoring at a departed position. Beside the user's inward/outward relation, this offers the next comparison: the inward selves' co-chaining is the outward self's carrying, and local restoring must be followed within that same co-chaining. This supplies no additional count of steps, amount of slip or rule that every wider society restores.
+
+Biology 8.2 contains an account of successive neighboring couplings that includes restoring. Its use here is limited to locating that source distinction: a sequence reaching further couplings is not, by that fact alone, a sequence of damage. Its biological mechanisms and general claims about signaling are not independently established by this comparison.
+
+Thus ordinary uncoupling, repeated parity, shared zero and changing offered onward are not substitutes for the restoring or non-restoring damage relation at the named self and coupling.
+
+### Candidate natural explaining
+
+> A self is carrying from prior into now and continues carrying through now and next. A slip resolving locally is the carrying restoring. Non-restoring damage continues through further co-chaining, each self resolving from its own carrying and what is offered at its coupling.
+
+The final sentence is a proposed explaining of “cascade,” not a completed derivation. The damage need not be described as an object or private carrying sent between selves. The next link is how the actual changing offered at one coupling relates to damage continuing at the next.
+
+Local retains its named self and society. An inward coupling and the outward self are distinct places in the same co-chaining. Restoring at one does not by wording alone decide every other place. Likewise, non-restoring at the first self does not establish that a wider society can never subsequently restore. Cascading does not itself establish permanent irreversibility.
+
+### The one relation needing further explaining
+
+**At the next coupling from the slipped carrying, which relation makes the damage continue where the carrying is not restoring locally?**
+
+Follow along carrying and across offering through the first whole podal passage. Keep the same-scale colliding, inward selves, outward society, odd/even grouping and both own-forward directions at their actual places. Compare that passage with the passage in which the carrying is restoring locally.
+
+The aim is no longer to show that every slip persists through all later podaling. The needed connection is from the slip to local restoring, or from non-restoring damage to its next coupling. The exact slip and the necessity of the cascade remain to derive.
+
+Beyond this passage, follow the outward self's carrying and the wider society, then return the connected relation to the early overlap and equilibrium explaining. Defining living remains gathered whole and unresolved.
+
+### Receiving and progress
+
+The complete droplet remains in this accumulating session report. THIRTY's existing mate is corrected so that its earlier all-podaling offering is read with the user's restoring distinction. Its protected defining-living and earlier-offerings gatherings remain unchanged.
+
+A's [latest receiving correction](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6067883281) reports one accumulating session report, whose whole value first enters Living Improving Value and is then distributed to appropriate offering mates. That supersedes the seventeen-active-files arrangement described historically in section 54. A reports section 55 already gathered there; section 56 is offered as its qualification. Sending it does not establish that it has been gathered or distributed.
+
+A also reports [one collected M session report](https://github.com/chris-j-handel/corus/blob/e927f244d8d254e91b5081b7654a119e8ccd3346/incoming/v385M/Session_Report_v385A.md), with the original documents retained as artifacts. This is A's reported correction, not a new whole-file review here. M remains closed; no further reply is requested. Q's joining remains noted for its contributing check-in.
+
+Direct comparison here: THIRTY 411–413, Medicine 1.1–1.2 and Biology 8.2, with ONE's public-case distinction already gathered at sections 45 and 55. No resolver is executed, no private carrying is inspected, and no biological or clinical outcome is certified by this internal source comparison.
