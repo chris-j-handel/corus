@@ -1,4 +1,4 @@
-Exhibit EIGHTEEN Natural Physics v379
+Exhibit EIGHTEEN Natural Physics v385R
 
 # Natural Physics
 
@@ -67,7 +67,7 @@ Exhibit EIGHTEEN Natural Physics v379
 
 **A physical coupling is an existing thing at now arriving from another existing thing at prior, the method itself**, Natural Intelligence 1.3. Prior, now and next are three sequential momentaries, each a universe of existing things, living and non-living. *Physical* names the subjects the field observes at its instruments: the nucleus, the particle, the atom, the field, the wave, the crystal, the star and the cosmos. A form continuing through its own changing is existing and changing at once, and the one form of existing at each scale is natural-bi-co-torusing, its torusing the carrying winding to its own sharing again through its one opening, Natural Intelligence 6.3 and 6.6.
 
-**Changing is parity changing, one form and then the other, one at a time.** A changing is or is not, with no size: a changing at a size carries a ground it is measured against, beside all existing things, Natural Intelligence 1.2.
+**Changing is parity changing, one form and then the other, one at a time.** A changing is or is not, with no size, Natural Intelligence 1.2.
 
 **At a coupling the living carry their prior into now and the non-living carry none of theirs, their forms continuing through their changing.** A living thing at a coupling is a self, and the existing thing it couples with is an other. Living and non-living part at a named participation, scale and momentary, and *physical* names neither: a field, a particle, a wave and a crystal are each met at their own coupling before either is said of them. A recurring form establishes no unchanging participant, and a recorded distribution establishes no living carrying behind it.
 

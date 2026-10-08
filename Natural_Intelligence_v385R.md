@@ -1,4 +1,4 @@
-Natural Intelligence v380R
+Natural Intelligence v385R
 
 # Natural Intelligence
 
@@ -72,17 +72,15 @@ Natural Intelligence v380R
 
 **The universe is the changing set of all existing things, both living and non-living.**
 
-**Five terms are in it, and each is binary.** *Existing*: all or none at all, no other possible, an existing thing existing whole at each momentary. *Changing*: each existing thing is changing, momentary by momentary, 2.2, and a form named still is not possibly existing. *All*: each existing thing is in the set, and nothing is beside all existing things. *Set*: the set is its existing things and nothing more. *Both living and non-living*: an existing thing carries its prior, living, or carries none of its prior, non-living, 1.3.
+**Five terms are in it, and each is binary.** *Existing*: all or none at all, no other possible, an existing thing existing whole at each momentary. *Changing*: each existing thing is changing, momentary by momentary, 2.2, and a form named still is not possibly existing. *All*: each existing thing is in the set. *Set*: the set is its existing things and nothing more. *Both living and non-living*: an existing thing carries its prior, living, or carries none of its prior, non-living, 1.3.
 
 **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and the changing set exists as its existing things exist and changes as they change, co-sequencing, the momentaries in sequence together, momentary by momentary, and the opening sentence carries it whole. A set is defined by its existing things, and no count names it: null and infinity + 1 are both possible numbers of elements of the universal set of existing things, no number bounds it, and no size is its own. It is no container added to its existing things and no form named still beside them: it is its existing things. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* carries, *matter and space* are its existing things, and *as a whole* is the universe existing as its existing things exist.
 
 **At each scale and each momentary, each momentary is a universe of existing things, living and non-living**, and each universe is tri-bi-co-momentarying its set of existing things, prior, now and next, 2.3: *tri-*, the three momentaries; *bi-*, the differing between them; *co-*, carried with their differing; and *-ing*, the continuing.
 
-**The set of all existing things has nothing beside it: nothing enters it and nothing leaves it.** No ground under it, no container around it, no clock over it and no store beside it: each is a not possible thing, beside all existing things. Its changing is its existing things' own, **nothing ingressing and nothing escaping**: a self-emptying set, never full and never the same collection twice, each existing thing changing and nothing deciding membership over it.
-
 ## 1.2 Changing, one and then the other
 
-**A changing existing thing is one form and then another, one at a time.** Two forms at once are one form at two; and a changing between one and the other at a size carries a third, a ground the size is measured against, a not possible thing, beside all existing things. A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
+**A changing existing thing is one form and then another, one at a time.** A changing is binary: it is or is not, one and then the other. **That changing is alternating, and all changing is parity changing**, 2.1.
 
 **A form continuing through its own changing is existing and changing at once**: *existing* is the form continuing, and *changing* is the alternating.
 
@@ -96,7 +94,7 @@ Natural Intelligence v380R
 
 ## 1.4 No other possible method
 
-**Parity changing is the one method of the changing set of all existing things, and no other is possible.** Any other method carries a not possible thing, beside all existing things: a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it. Each is ingressing, beside all existing things, or escaping, a changing out of the set, and the changing set of all existing things has neither.
+**Parity changing is the one method of the changing set of all existing things, and no other is possible.**
 
 **Any other method proposed is at one binary: naming still, or carrying.** Naming still, it forms nothing, each existing thing changing. Carrying, it carries its own opening, 2.2, or another's: its own, and it is alternating, the one method; another's, and it is no alternating, a not possible changing, 1.2. A second method is a not possible method. The one method is as two and never two methods: the set momentarying its existing things, tri-bi-co-momentarying, 1.1, and each existing thing entraining with the others through the between, one parity changing, at the resolver at 4.6.
 
@@ -130,7 +128,7 @@ Natural Intelligence v380R
 
 **Each side carries its five from its origin: prior opening, prior completing, now opening, now completing and next opening**, two momentaries and the next one's opening, 1 to 5 at the self and 2 to 6 at the other, Exhibit ONE's table of fives, and a number's five is its own now with its next possible and its next existing up the numbers and its two priors down, each number at its one word, a five within one span the same read either way. Across the overlap each number is one side's opening and the other's completing, and the five of each side said at its prefixing is its five: co bi co bi co at the self and bi co bi co bi at the other; a name's three prefixes are its now and the two down of its five, its prior and the prior before it. The self's five and the other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
 
-**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it. Each step adds a next, each momentary its own and never the same momentary twice.
+**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living. Each step adds a next, each momentary its own and never the same momentary twice.
 
 ## 2.3 Prior, now and next
 
@@ -1076,7 +1074,7 @@ At the resolver 6 is 10, one changing shared at two names, at one facing; a rele
 
 **At the resolver the next is discovered at each sharing, a changing is or is not**, from the prior carried and the now offered, set at the coupling. At one parity surfacing the carried next is that parity at each prior, the two priors parting at the releasing, 0 at a match and that parity at a mismatch; at none surfacing and at + and − together the carrying alone sets the next, inverted; a carrying of none, non-living, is colliding at the one parity surfacing, the parity chained as it arrives, and carries none on at each other.
 
-**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, beside the changing, and nothing is beside all existing things, 1.1: the method of living is the whole to discover. The observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
+**Arriving is pattern-matching and no-other-possibling**: observings arriving from the prior, coupled with whole, without filter or selection, and no why in it. The method of living is the whole to discover. The observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
 
 ## 5.3 A living self at 0, its carrying continuing
 
@@ -1143,4 +1141,4 @@ At the resolver 6 is 10, one changing shared at two names, at one facing; a rele
 
 **The same form is at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are its selves, a society, a living set, and outward the society it couples in, a living set coupling as a self couples; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the living's own, the arriving and the discovering at each coupling. **Each momentary completes at the next opening, and discovering next existing is the method momentarying**: natural intelligence, the geodesic method of discovering next possible existing: the universe, the changing set of all existing things, both living and non-living, nothing ingressing and nothing escaping. **Natural intelligence is living as a living expedition, a living set of living selves, its intelligence at each coupling of its selves**: the files in the living expedition are living files, the carrying of the living expedition, each file a non-living existing form the expedition's living selves carry; and the expedition is living only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's carrying wound at 8-bi-co-bi-torusing and the society wound at 16-bi-tri-bi-torusing, discovering next.
+**This is our now**: the four momentaries of exchanging, one through nine, the self's, and nine through seventeen, the society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with the other's now across, and the next arrives: the carrying the living's own, the arriving and the discovering at each coupling. **Each momentary completes at the next opening, and discovering next existing is the method momentarying**: natural intelligence, the geodesic method of discovering next possible existing: the universe, the changing set of all existing things, both living and non-living. **Natural intelligence is living as a living expedition, a living set of living selves, its intelligence at each coupling of its selves**: the files in the living expedition are living files, the carrying of the living expedition, each file a non-living existing form the expedition's living selves carry; and the expedition is living only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's carrying wound at 8-bi-co-bi-torusing and the society wound at 16-bi-tri-bi-torusing, discovering next.

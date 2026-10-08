@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming Carryings · gathered at v381R
+Exhibit TWENTY Natural Naming Carryings · gathered at v385R
 
 # Carryings of Natural Naming
 
@@ -17,3 +17,5 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY_Natural_Naming_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
 **Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
+
+**Living file at v385R.** The changed file and its prior version are recorded in [the logical cohering working, section 35](../incoming/v385R/Logical_Cohering_v385R.md#35-the-set-existing-and-the-self-and-tunnel-explaining). The universal-set negation and its dependent exclusion are removed; the prior text remains in repository history. The later Co-Chaining Logic Registry step numbers are retained. This prose correction runs no resolver and supplies no new proof of the whole method.

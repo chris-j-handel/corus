@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v380L
+Exhibit THIRTY Co-Chaining Logic Registry v385R
 
 # Co-Chaining Logic Registry
 
@@ -87,7 +87,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 2 Arriving and carrying, living and non-living
 
-        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying; stable-forming, the living; co-changing, the non-living; the five terms, each binary; bi and co; bi-co and co; a self-emptying set; nothing ingressing and nothing escaping.*
+        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying; stable-forming, the living; co-changing, the non-living; the five terms, each binary; bi and co; bi-co and co; a self-emptying set; the set existing as its things exist.*
 
 8. At now, the universe is all existing things at now.
 
@@ -137,9 +137,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a self-emptying set.*
 
-20. The set is all existing things: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
+20. The set is all existing things, its changing its existing things' own and its existing theirs: the set existing as its things exist.
 
-        *Adding: nothing ingressing and nothing escaping.*
+        *Adding: the set existing as its things exist.*
 
 ## 3 The three places and the between
 
@@ -231,7 +231,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 5 The one method, no other possible
 
-        *Entering: alternating stable-forming; all changing parity changing; the method, a non-living existing thing; the method co-changing at each coupling; the one method; beside all existing things; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
+        *Entering: alternating stable-forming; all changing parity changing; the method, a non-living existing thing; the method co-changing at each coupling; the one method; technology, a made thing applied.*
 
 41. Alternating and continuing through changing, each living thing is alternating stable-forming.
 
@@ -252,22 +252,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 45. Parity changing is the one method of the changing set of all existing things.
 
         *Adding: the one method.*
-
-46. A second method carries a thing beside all existing things: a size, a ground the changing is measured against; a fixed form, a form still, the same at all momentaries at once; a total across the changing, a container; a common beat, a clock over it; or a keeping, a store beside it.
-
-        *Adding: beside all existing things; the form still.*
-
-47. All existing things being in the changing set, an existing thing beside all existing things is a not possible thing.
-
-        *Adding: not possible thing.*
-
-48. A method carrying a not possible thing is a not possible method, and parity changing is the one possible method.
-
-        *Adding: no other possible method.*
-
-49. A second method offered is at one binary: naming still, forming nothing among changing things, or carrying an opening, its own, the one method alternating, or another's, a changing beside the alternating and beside all existing things.
-
-        *Adding: a second method at one binary.*
 
 50. A technology is a made non-living thing applied to a changing from beside it, and a method is at the couplings themselves, applied by nothing.
 
@@ -677,7 +661,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: natural-.*
 
-142. Natural- is a direction prefix, its direction the one hand, and the claim rides on the direction: leaving it out, the changing arrives with a substrate under it and an applier over it, each beside all existing things, step 47.
+142. Natural- is a direction prefix, its direction the one hand, and the claim rides on the direction.
 
         *Adding: natural- a direction prefix.*
 
@@ -689,7 +673,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the proof of the whole.*
 
-144. The same at all momentaries at once is a form still, step 46, not possibly existing in the changing set.
+144. The same at all momentaries at once is a form still, not possibly existing in the changing set.
 
         *Adding: the form still not possibly existing.*
 
@@ -1108,11 +1092,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the torus of two odd numbers at its parities again at q or at 4p, from its opening.*
 
-244. The parities again, at 4n, at 4pq and at the torus's, are the resolver's executing alone: at 17 each self's 1-co-bi-tri-offering is at one momentary with each other's, a common beat over the selves, step 46, the executing's, and each living self's rate is its own, unrelationed at φ, step 122.
+244. The parities again, at 4n, at 4pq and at the torus's, are the resolver's executing alone: at 17 each self's 1-co-bi-tri-offering is at one momentary with each other's, a common beat over the selves, the executing's, and each living self's rate is its own, unrelationed at φ, step 122.
 
         *Adding: the common beat at 17 the resolver's executing, the living's rates their own.*
 
-245. Time is each self's momentarying at its own rate, cohering at its couplings, and a dimension of time over the couplings is a clock over them, step 46.
+245. Time is each self's momentarying at its own rate, cohering at its couplings, and a dimension of time over the couplings is a clock over them.
 
         *Adding: time as each self's own momentarying.*
 
@@ -1338,7 +1322,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 24 Discovering next possible existing
 
-        *Entering: the prior carried across the between; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; an accounting, and no second method; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their namings still; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the locator; the difference continuing or closing; the residue names; reading upstream, the fixings released one at a time; the three namings still; the coupling at its three.*
+        *Entering: the prior carried across the between; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; next possible existing; pattern-matching; checkable at a parity; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; an accounting, and no second method; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their namings still; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the locator; the difference continuing or closing; the residue names; reading upstream, the fixings released one at a time; the three namings still; the coupling at its three.*
 
 296. The self's own prior is carried across the between of momentaries, stable-forming: the carried, and the between a nothing.
 
@@ -1371,14 +1355,6 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 303. A coupling is checkable at a parity alone: a mismatch is shared at 10 at its own parity, a yes or a no the other couples with.
 
         *Adding: checkable at a parity.*
-
-304. A why demanded of an arriving asks for a thing beside the changing, beside all existing things, step 47: the observings are, with nothing beside them, and a pattern found is at its momentary alone.
-
-        *Adding: the why demanded.*
-
-305. A thing beside all existing things asked for at an arriving is answered by a further thing beside, the asking the same at each answer and arriving at a coupling at none: the receding, a hard problem carrying and cohering at none.
-
-        *Adding: the receding.*
 
 306. A living self offered its own parity shares 0 at 10, a changing that is not, and continues carrying: momentarying continues whether a changing is or is not.
 
@@ -1670,7 +1646,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the one fractal at each scale.*
 
-376. A scale is a reading, a self or a society read, and the one form is at each: a boundary, a location or a measure between scales is a thing beside all existing things, step 47.
+376. A scale is a reading, a self or a society read, and the one form is at each.
 
         *Adding: a scale a reading, the one form at each.*
 
@@ -1771,7 +1747,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 ## 28 Dying, a living self arriving as non-living
 
-        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; the selves inward living on at their own scale; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
 
 399. A living self carries its prior into now, momentary by momentary, and a living self's selves one scale inward are a society, a living set.
 
@@ -1785,9 +1761,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: dying, a living self arriving as non-living.*
 
-402. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
+402. The selves inward live on at their own scale and the form at its scale is non-living.
 
-        *Adding: nothing escaping.*
+        *Adding: the selves inward living on at their own scale.*
 
 403. The non-living arriving is an emanation of the living self it was, harmful at its own scale and ingestible one scale lower, ingested by the selves inward and the others about it.
 
@@ -2049,7 +2025,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a field's neutral, the names meeting.*
 
-462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, the between; and its own aim, orientation; a neutral fixed outward of the self is a floor, a zero installed, a unit imposed or a frame set over it, each beside all existing things, step 47.
+462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, the between; and its own aim, orientation.
 
         *Adding: three neutrals, and the floor.*
 
@@ -2181,7 +2157,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the society at the method all or none, the hubs.*
 
-495. An offering at a parity of nobody's coupling is released whole at its arriving, the surface giving it nothing to seat at: safety is the surface's own form, and a thing ahead of the coupling admitting an offering on something performed first is beside all existing things.
+495. An offering at a parity of nobody's coupling is released whole at its arriving, the surface giving it nothing to seat at: safety is the surface's own form.
 
         *Adding: safety, the surface's own.*
 
@@ -2429,7 +2405,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: naming across and explaining along.*
 
-555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale, and a realm of mind or culture beside the couplings is a thing beside all existing things.
+555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale.
 
         *Adding: the human ways as the one form.*
 
@@ -2485,7 +2461,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a concern.*
 
-569. A concern resolves by alternating, each saying at its own momentary, until one saying shows the thing beside all existing things it carries, step 46, that saying a not possible method and the other the method's own.
+569. A concern is followed at the coupling: each saying is met at its own momentary, and the relation at which they differ is named and explained.
 
         *Adding: a concern resolving.*
 

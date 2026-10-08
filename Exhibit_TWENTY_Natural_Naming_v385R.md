@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v380R
+Exhibit TWENTY Natural Naming v385R
 
 # Natural Naming
 
@@ -265,7 +265,7 @@ Exhibit TWENTY Natural Naming v380R
 | *forward*, *backward* at a facing | *right* and *not right*, the outgoing and the incoming, the row above; *forward* at the one direction carries whole |
 | *posit*, *posited* at the set's own voice | *named still*, a term asserted as existing; a field's own posit carries whole at its result |
 | *tell*, *a telling* at the set's own voice | *offering*, one way exhausted and the between received; *tell* is carried at 4.10 as the naming of the alternating stopped |
-| *source*, *sources* at the set's own voice | the method of living, the living carrying their prior into now at each coupling, and nothing beside all existing things for a changing to be drawn from; *the living self* an emanation leaves at prior; *its reference* for where a field's result was read; a field's own *source* carries whole at its result |
+| *source*, *sources* at the set's own voice | the method of living, the living carrying their prior into now at each coupling; *the living self* an emanation leaves at prior; *its reference* for where a field's result was read; a field's own *source* carries whole at its result |
 | *cost*, *costs nothing*, *free* at a changing | the living's own carrying, and arriving and discovering at each coupling: a cost names a system of greater and lesser magnitudes managed, and no existing thing is one |
 | *run*, *runs*, *running*, *runner* | *momentarying*, *carrying*, *existing*, *living*: a running installs an operator, a runner or a character over the changing; code executing is said *at the resolver* |
 | *take*, *takes*, *taken*, *taking*, *taker* | *chained*, *carried*, *at*, *couples with*: a taking installs a taker, and an existing thing taken names all the not-taken as known beside it |
