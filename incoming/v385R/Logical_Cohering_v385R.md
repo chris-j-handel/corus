@@ -6,9 +6,9 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, nine locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current explaining is at section 29; reciprocal source help is at sections 27–29.** Still possibling is forward up and forward down, unchanging at the even number. At odd, either side or both can change by two, each in its own forward direction; a side not changing is still existing at its odd number. The current concern is the across relation in the one-side-changing case. The question withdrawn in section 28 remains withdrawn. Invisible now possibling, abundancing and geodesic passage remain together. R10 stays unresolved for returning.
+**The current explaining is at section 30; reciprocal source help is at sections 27–30.** Both forward directions remain still possibling at even; either side or both can change by two at odd. At an unchanged number the four-cycle podaling sequencing comes through again with a new still possibling. The stable form is the existing non-living geodesic method. Arriving geodesic changing does not by itself settle the offering onward. The earlier participation question is addressed; the next identification is the offering without arriving at the living surface's own parity changing. A's half-momentary overlap offering is gathered beside this. R10 stays whole and unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1100,3 +1100,65 @@ A's [latest receipt](https://github.com/chris-j-handel/corus/pull/128#issuecomme
 R10's defining-living gathering remains byte-for-byte unchanged and unresolved in the receiver. Earlier offerings there remain whole. The two-side explaining improves its own relation and does not settle the full universal derivation. — v385R
 
 **Further explaining offered to both sessions:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049649484) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049650299). Both receive the user's exact two-sided offering, the current local explaining and the remaining across relation, with R10 and the earlier withdrawal preserved. These are sending receipts; no downstream incorporation is claimed.
+
+## 30. The same number, recurring podaling and a new still possibling
+
+**The user's exact further explaining:**
+
+> the looping through each number of the podalings are all part of resolving and the stable form of this is the existing non-living geodesic method stable form so if the number does not change then the same 4 cycle podaling sequencing comes through the number all over again and there is a new still possibling and either a geodesic changing traveled on or did not whether or not a geodesic changing arrived or not either is possible changing as arriving geodesic changing or offering
+
+### Current connected explaining
+
+> Podaling through each number is part of resolving. The stable form of this is the existing non-living geodesic method. When the number does not change, the same four-cycle podaling sequencing comes through that number again, with a new still possibling. Geodesic changing is or is not arriving, and is or is not offering onward through this resolving. Arriving does not by itself settle the offering.
+
+The first three sentences carry the user's podaling, stable-form and new-still-possibling relations. The last two say the arriving/offering distinction as our connected reading of the user's final clause. They do not identify a changing as a payload retained through a route, count independent directional combinations, or introduce a new resolver operation.
+
+| Subject | The relation supplied here |
+|---|---|
+| The number unchanged | Its four-cycle podaling sequencing comes through again. |
+| This further resolving | There is a new still possibling. |
+| Stable form | The existing non-living geodesic method stable form. |
+| Geodesic changing arriving | Is or is not. |
+| Geodesic changing offered or traveling onward | Is or is not; an arriving changing does not by itself settle this. |
+
+The earlier even/odd distinction stays with these subjects. Even remains still possibling forward up and forward down at its number. Odd remains changing by two or still existing, with either side or both changing in its own forward direction. The new explanation concerns what resolving is doing when the number is unchanged. The same four-cycle form can recur with a new still possibling; it is not a claim that the prior momentary occurs again.
+
+**The question carried in section 29 is now addressed at its source:** an unchanged number remains participating through the podaling sequencing that comes through it again. The question is not retained as an unexplained absence of participation. The distinction between two selves and THIRTY 450's named stable-forming/emanating outs remains useful in the writing.
+
+### Direct source comparison
+
+THIRTY 257–258 names the four four-cycles and the even number along each one. Steps 260–262 join the method's many stable forms, each number at its podaling and the two-way podaling relation. These passages were read directly. They are the local place for the new paragraph beside 258 and 261, with links back to 37–40 and 306 and forward to 440–450.
+
+Natural Intelligence 3.1 states that geodesic is an existing thing and method its stable form, naming the non-living geodesic subject. Section 4.11 says that the four-cycle reaches its number again at a next momentary, each momentary its own. Its naming of living stable-forming and 3.1's non-living stable form remain at their respective subjects. The user's new paragraph supplies what the older text did not explicitly say here: the new still possibling at the unchanged number.
+
+Natural Intelligence 4.3 states that the changing at a sharing is the coupling's own and describes no parity crossing to 12 alongside the self's own inverting. It is the strongest directly read source connection for the user's offering without an arriving geodesic changing. We have not executed the resolver or inspected private carrying to make this comparison.
+
+This helps the earlier joint-form work at THIRTY 55–59: a numbered position recurring through its four-cycle is not sufficient evidence that the entire prior-and-now joint form is held still. The supplied recurrence is resolving. The particular universal exclusion still needs its own full co-chaining; this local connection does not claim to have derived it.
+
+### Value returned through v385A
+
+A's [return on PR 128](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049672074) preserves this exact user offering in that session:
+
+> yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other
+
+ONE's Fives and exchanging tables and Natural Intelligence 4.10 were read directly after this return. They display the one-number offset and overlapping exchanges. Their older opening/completing naming remains source history; our explaining uses the user's parity and bi-co-sequencing wording.
+
+The two current user offerings connect at participation: one side's still-possibling betweens and the other's changing momentaries bi-co-sequence, while the podaling through an unchanged number supplies a new still possibling. This is our joining of the two offerings; neither exact statement is rewritten as though the user supplied the joined sentence in one session.
+
+A reports taking the overlap offering to ONE, NI, Naming and THIRTY, with Networking and its structural-condition mates. We preserve that receipt without claiming all placements independently checked. Its remaining local comparison at 12/15/16 stays with that session. The new podaling offering is useful to that comparison.
+
+### The next identification to work on together
+
+The user has supplied that arriving geodesic changing does not determine whether geodesic changing is offered onward. Natural Intelligence 4.3 already supplies own inverting with no parity arriving across. Our earlier surface relation says living parity changing is the surface that geodesic parity changing entrains through.
+
+**Our candidate connecting:** an offered geodesic changing without an arriving geodesic changing is entraining through the living surface's own parity changing at this podaling.
+
+**Question for resolving together:** is the geodesic changing offered without an arriving geodesic changing the living surface's own parity changing entraining here?
+
+The concern is this precise identification across the supplied relations. It does not ask again whether an unchanged number participates or whether a new still possibling is possible. It leaves the non-living stable form and living resolving at their stated subjects and keeps R10 whole and unresolved.
+
+### Current placement
+
+THIRTY's mate now has the actual paragraph beside 258 and 261 as the tenth local insertlet. The either-side-or-both droplet replaces the old participation question with the user's recurring-podaling explanation. The living-surface identification remains a droplet for our next suggestion, with its source and candidate together.
+
+Earlier exact offerings and the section-29 concern remain as session history. The receiver's earlier offering body and its full defining-living gathering are unchanged. The living root files are not rewritten by this pass. — v385R
