@@ -45,7 +45,7 @@ The new structural comparison droplet independently links those existing concern
 
 ## Later correcting and reciprocal help
 
-[The reciprocal record](Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) preserves R through `19af4d8`: the joint-form connection remains source work; its active question follows the self's next existing beside a sharing's result at NI 5.3/Naming 5.62. The assistant candidate remains a candidate, nine insertlets remain, and R10 remains whole and unresolved. This distinction travels with the common-core droplet; an unchanged parity at one sharing cannot silently remove the self's next existing.
+[The reciprocal record](../../archive/session_v385A/Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) preserves R through `19af4d8`: the joint-form connection remains source work; its active question follows the self's next existing beside a sharing's result at NI 5.3/Naming 5.62. The assistant candidate remains a candidate, nine insertlets remain, and R10 remains whole and unresolved. This distinction travels with the common-core droplet; an unchanged parity at one sharing cannot silently remove the self's next existing.
 
 M through `01645ca` withdraws carried/arriving as the parities and stable form guiding. Its exact later user correcting is preserved in that same record. [Source help offered to M](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049081467) supplies Destinies, Registry 5.11 and v378 Reading 10 item 18/contradiction E beside those withdrawals. It asks for no accelerated extraction and does not answer the worm break. Both branches were checked again at these heads; no new replies preceded the offer. No further R comment repeated the recent sources.
 

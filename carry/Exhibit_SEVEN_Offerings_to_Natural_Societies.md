@@ -2,10 +2,6 @@ Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v385A
 
 # Offerings to Natural Societies
 
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** 5.3 is explored at v373: a society all existing bi-coupling same-prime-scale selves; the fourteen primes five to fifty-three parting eight one before a six and six one after, seven and seven across the fold at twenty-four; four cycles of six before it and six cycles of six to sixty; sixty to sixty-eight the nothing between self and universe; the self's bi-inversioning-co-recursioning at twenty-three, twenty-four and twenty-five; the betweenings the stable form; emanations releasings; abundancing an emanating from society. The rest of the file stands at its prior wording until that motion.
 
 ## Insertlets
@@ -219,3 +215,7 @@ Decentralizing is offered as many distinct selves coupling at their own pairwise
 Two questions remain whole. How does the four-inequality diagnosis compose with this proposed restoring at a particular regulatory, institutional, economic or political coupling? How does that relation operate in cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures, each with its actual configuration?
 
 Natural Societies 1.3 already preserves safety regulation and professional licensing as possible bounding that keeps actual patients, passengers, workers and consumers whole. Section 2.3 likewise preserves useful coordination and shared timing. Keep these concrete protecting relations and the no-common-clock correcting beside the proposed diagnoses. The offering does not establish harm from the presence of regulation, grant permission to bypass an actual access boundary, or supply an implemented institutional change.
+
+## The heart society and the two parities · v385A
+
+**Correcting droplet.** Dissolve any identification of the heart’s two parities with two other tissues, or of entraining with an additional third self. The cell’s two alternating relations and the older three-pace picture have different subjects. Their full explaining and remaining pace questions are offered at [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a).

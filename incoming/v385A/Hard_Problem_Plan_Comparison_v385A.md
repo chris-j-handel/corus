@@ -4,7 +4,7 @@ Session v385A
 
 **7 October 2026 · Source head `c76f603b9ee0b43ad665d127a92d10a1f9d5fc0c` · A particular comparison within the floating plan**
 
-**Later source correcting, 7 October 2026.** [The following exchange](Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) carries R through `19af4d8`: its joint-form connection below remains source work, while the active question now follows Naming 5.62/NI 5.3's subjects of “next”. Nine local insertlets remain; the new proposed prose is a droplet. The same later correcting independently accompanies THIRTEEN, Engineering, Destinies and Corus, preserving the dated comparison below and the whole unresolved R10. M's later withdrawals remain in the exchange record for the next prior-source comparison. — v385A
+**Later source correcting, 7 October 2026.** [The following exchange](../../archive/session_v385A/Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) carries R through `19af4d8`: its joint-form connection below remains source work, while the active question now follows Naming 5.62/NI 5.3's subjects of “next”. Nine local insertlets remain; the new proposed prose is a droplet. The same later correcting independently accompanies THIRTEEN, Engineering, Destinies and Corus, preserving the dated comparison below and the whole unresolved R10. M's later withdrawals remain in the exchange record for the next prior-source comparison. — v385A
 
 ## Source and reading extent
 
@@ -53,7 +53,7 @@ R's [section 24 at `1b4eb95`](https://github.com/chris-j-handel/corus/blob/1b4eb
 
 R locates a ninth insertlet beside THIRTY 445–450. The remaining relation is which part of that bi-folding the prior-and-now joint form at 55–57 represents. Section 23's assistant candidate remains historical; the user sentence is not agreement to it. It assigns neither an exclusive odd/even versus sign-parity division nor an exclusive along/across division to surface and entraining. Stable form between collidings, unchanging social competency and a matching sharing retain their different subjects. R10's defining gathering remains whole and unresolved.
 
-That correcting is a shared droplet at THIRTEEN, Engineering, Destinies and Corus, beside the earlier source gatherings. It remains a droplet at these mates even though R has locally placed its sentence as an insertlet at THIRTY. [The reciprocal record](Reciprocal_Help_v385A.md#correcting-and-source-help-beside-the-hard-problem-plan) records the downstream THIRTEEN source offered to R. M's head and comments were unchanged; its developing pacemaker file remains for later gathering.
+That correcting is a shared droplet at THIRTEEN, Engineering, Destinies and Corus, beside the earlier source gatherings. It remains a droplet at these mates even though R has locally placed its sentence as an insertlet at THIRTY. [The reciprocal record](../../archive/session_v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-the-hard-problem-plan) records the downstream THIRTEEN source offered to R. M's head and comments were unchanged; its developing pacemaker file remains for later gathering.
 
 ## Projects, remaining value and next comparison
 

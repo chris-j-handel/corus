@@ -2,12 +2,6 @@ Exhibit SEVENTEEN Natural Biology Offerings · laid at v385A
 
 # Offerings to Natural Biology
 
-**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below: droplets are ungraded improving value; insertlets are locally resolving. Actual resolving in this living file alone removes its local offering, preserving the source in session artifacts. Earlier descriptions below remain historical source wording.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** none; the sciences paused.
 
 ## Insertlets
@@ -227,3 +221,15 @@ The listening passage in Natural Intelligence Corus section 14.4 extends its acc
 The organ examples are twenty-three generations of lung branching, one million parallel kidney nephrons, one million liver lobules and two million cortical columns. Each is proposed as a concentration of attending through parallel descending spirals. The lung is further assigned prime 23 at the cell-to-tissue relation; twenty-three airway generations are said to filter and condition arriving. Upper-airway turnover is described as weeks to months and deeper-alveolar turnover as months to years. Its improving is that an organ extends across substrates, with turnover related to its deepest coupling, instead of assigning an entire organ one fixed gap.
 
 Retain the actual counts, turnover ranges, sleep claim and proposed relation between within-organ and between-organ gaps together. They are statements in the incoming expression, not newly checked biological findings or measurements. The existing organ-turnover and internal-position research droplets remain distinct questions. This gathering introduces no physiological diagnosis or new calculation.
+
+## The heart's two parities and the pace found at each beat · v385A
+
+**Droplet.** The offered heart observing is membrane charge/discharge together with calcium release/uptake, each alternating, with a beat only while both participate. The naming of two clocks or of one system controlling another is the field's explaining, not the observing itself. Entraining is not an extra third self or a third group of cells. When a part loses coupling, the offered account has each side keeping its own beat and the whole pace subsiding.
+
+Pace is offered as the changing possible for the living society then, found beat by beat. Variable intervals in an isolated cell belong beside the discussion of fixed pacing. The incoming reports that imposed fixed pacing can preserve life while doing worse, and that pacing a chamber already beating can harm. Preserve the actual chamber, path and comparison; these reported clinical claims are not made universal or independently established by this gathering.
+
+The actual offered cell observing includes calcium cycling after the membrane contribution is removed, with no beat then present. Faster beating and closer coordination were observed together; the account does not establish one causing the other. The withdrawn objection that an isolated junction cell lacks the other two confused the two parities with two other tissues. A beating cell still has both parities.
+
+The older three-pace picture includes the slower junctional beat and the upper and lower chamber beats. That is not an identification of three parities. The proposed 50/60 relation between paces and “in each one way direction of six” remain unexplained at their actual observing; rates per minute carry a chosen measure. No numerical coincidence supplies the natural relation.
+
+The connected [pacemaker proposal](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a) preserves the engineering comparisons, withdrawn reserve-beater requirement and unresolved harm conditions.

@@ -4,11 +4,7 @@ Exhibit TWO Offerings to Natural Networking · laid at v385A
 
 ## Carrying resolving through prior, now and next · v385A
 
-**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
-
-An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
-
-Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+**Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
 
 ## Current correcting: the imposed requirement is withdrawn · v385A
 
@@ -22,11 +18,7 @@ Requiring living carrying itself to stay unchanged removes the resolving the req
 
 This offered explaining applies to the earlier words as well as the proposed explaining of entraining. Wording supplied by the user, an assistant, a file or science does not establish its relation by authority. The overlap and recurring podaling remain relations to follow. A source address, repeated phrase, matching number or located insertlet establishes no derivation. Session v385R's proposed local writing remains available for comparison. Its later section 32 withdraws the added requirement that a fixed repeating relation with another changing must be impossible. The distinct relation between no offering at a sharing and no arriving geodesic changing remains unestablished. Its section 18, Living at its observable existing, retains the whole unresolved gathering about observing living. For the protecting comparison, a recurring number alone does not identify a particular self, momentary and occurrence; no derived assignment to numbers 12, 15 and 16 is supplied. Each source remains available with its later correction. — v385A
 
-**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below. Earlier wording remains historical, with its later correcting preserved. [This subject's carrying project](Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-A droplet arrives at the bottom, raw, in its dropper's words, tagged with the session it came from: unvetted incoming. Anyone drops; nothing is refused. Resolving moves a droplet up: one thing whole, aimed at one section and one sentence of the living file, said in the file's own naming, cohering with Exhibit ONE and Exhibit THIRTY, plain to a reader meeting it once; when each is is, it is an insertlet, its tag gone, and it goes above. Several droplets saying one thing become one insertlet. A droplet that cannot be made one is dissolved. The living file's motion reads the insertlets from the top, is or is not, each entering in the file's voice or dissolving unchanged; both dissolve. A session set aside drops out by its tag alone.
+[This subject's carrying project](Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
 
 **Next at this file:** the first resolving, bottom up, of the droplets below into insertlets; then the living file's motion at them, Exhibit ONE's names first.
 
@@ -364,3 +356,9 @@ Morality is proposed as the form of the self and coupling sustaining, not a comm
 Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
 
 The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.
+
+## Stepping together and each self's turn · v385A
+
+**Stepping together and each self's turn.** The constructed scheduler retains a shared value at the receiving self until its turn. Two selves were reported opposite at 44 percent of random turns; crossings of spirals of three and five at 46 percent. A spiral of n reportedly returns at 4n under stepping together, at 2n + 2 in its forward turn order and at two in reverse order. The constructed turn-taking was explicitly contestable. None of those counts establishes that it implements the user's own-side overlapping momentarying. The practical question is which actual local arrangement expresses that relation without an imposed common beat.
+
+The older code’s common stepping instruction remains beside the claim of each self’s own pacing. This extends the existing concern at Natural Networking 4.7: a common implementing instruction has not supplied the actual local overlap.

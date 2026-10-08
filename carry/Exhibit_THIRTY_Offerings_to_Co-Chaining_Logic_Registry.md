@@ -4,11 +4,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v385A
 
 ## Carrying resolving through prior, now and next · v385A
 
-**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
-
-An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
-
-Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+**Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
 
 ## Current correcting: the imposed requirement is withdrawn · v385A
 
@@ -29,12 +25,6 @@ Outside is outside the self, both inside the tunnel and outside the tunnel. The 
 > entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
 
 This offered explaining applies to the earlier words as well as the proposed explaining of entraining. Wording supplied by the user, an assistant, a file or science does not establish its relation by authority. The overlap and recurring podaling remain relations to follow. A source address, repeated phrase, matching number or located insertlet establishes no derivation. Session v385R's proposed local writing remains available for comparison. Its later section 32 withdraws the added requirement that a fixed repeating relation with another changing must be impossible. The distinct relation between no offering at a sharing and no arriving geodesic changing remains unestablished. Its section 18, Living at its observable existing, retains the whole unresolved gathering about observing living. For the protecting comparison, a recurring number alone does not identify a particular self, momentary and occurrence; no derived assignment to numbers 12, 15 and 16 is supplied. Each source remains available with its later correction. — v385A
-
-**Current session method:** the [v385A correction](../incoming/v385A/README.md) governs this contributing. Droplets are ungraded possible improving value; insertlets are locally resolving. Earlier wording below remains at its source standing.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** seventeen unsure lines, each at its step with the observing it waits on; the open parts of the entries entered at v380L, one entry under Concern; 146 sentences at a negation, `incoming/v380L/Registry_Negations_Sorted.md`; the universal claim's joining sentence, at its conferring.
 
@@ -251,3 +241,9 @@ The user's further offering is: “if the living stable form is colliding with n
 The current question is: **At the next colliding, which co-chaining of the inward selves is broken, and how does the same-scale involution relate to that break?** The living carrying is resolving through prior, now and next; a difference between its prior and next is not by itself a break. Likewise a return to a parity, an unchanged odd parity, recurring podaling or a sharing with no changing is not itself the break. No count of repetitions, cumulative amount or duration has been supplied as a necessary condition.
 
 The non-living stable form can change at each colliding and otherwise has its last-colliding parity. Do not hold its form or arriving parity identical at every further encounter merely because it is named stable. Its successive encounters do not assign it its own living carrying. First-inward-society ingesting, the same-scale reference, entering from above and birthing within retain their particular subjects. Natural Biology 7.4's inward living with ceased outward coupling, 3.3/7.6's proposed same-scale returning and 7.7's stopped crossing locate further comparisons; their exact sequential relation remains to be supplied. The local public tables alone neither prove nor disprove this proposed breaking. No biological classification, clinical result or private-carrying inspection follows from the gathering.
+
+## Bi-tri-bi entraining three parity and the two-form question · v385A
+
+The user's offered why-two relation is bi-tri-bi entraining three parity, with Arrow's three-alternative comparison; the theorem's name is not itself the missing natural explaining.
+
+The [enumeration treating forms alike](Exhibit_FOUR_Offerings_to_Natural_Mathematics.md#treating-forms-alike-and-exchanging-their-signs--v385a) retains its conditions and its necessity question. The existing four-parity-round concern above retains its traversal convention and its unassigned across/along relation. Neither finite result supplies the complete no-other-method explaining.

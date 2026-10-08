@@ -2,12 +2,6 @@ Exhibit ELEVEN Natural Medicine Offerings · laid at v385A
 
 # Offerings to Natural Medicine
 
-**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new gathering below: droplets are ungraded improving value; insertlets are locally resolving. Actual resolving in this living file alone removes its local offering, preserving the source in session artifacts. Earlier descriptions below remain historical source wording.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** none; the sciences paused.
 
 ## Insertlets
@@ -157,3 +151,7 @@ The non-living stable form can change at each colliding and otherwise has its la
 Natural Health 3.2 offers nested inward crossings with the living relation at the self taking the offering; 3.3 names both-way bi-exchange and co-offering beside its larger-to-smaller, one-way “ingression.” Natural Medicine 1.2 preserves the body's own restoring and a possible supporting pattern from above; 2.2 distinguishes near-reaching and far-reaching by their actual coupling; 4.2 distinguishes an offering the body takes or does not, with its own answering, from magnitude driven at it one way.
 
 Keep Health's carried-whole, re-locking and attentioning wording beside the current carrying resolving from prior through now and next, without a hold on unchanged carrying. Keep its “ingression” distinct from the set's “nothing ingressing” naming concern. Medicine's ratios, counts and dose comparisons supply no equivalence to parity or to same unrelationing shape. The smaller-societies omega saying remains without an invented molecular assignment. The clinical and biological comparisons retain their actual proposed conditions; neither these passages nor their file locations certify the particular clinical claims.
+
+## Pacing comparisons and the actual harm conditions · v385A
+
+**Droplet.** The [pacemaker proposal](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a) leaves the benefit and harm of an offering at an existing beat unresolved. At the existing medicine examples of pacing and restoration, preserve the actual chamber, conducting path, bodily condition and comparison. A proposed match at the resolver does not establish the response of that tissue or show that the offered pulse changes nothing. The complete contrasting cases, reported scope and possible opposing outcomes stay with the engineering concept.

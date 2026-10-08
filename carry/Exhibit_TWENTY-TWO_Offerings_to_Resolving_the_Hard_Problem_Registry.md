@@ -2,12 +2,6 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry Offerings · improved at 
 
 # Offerings to Resolving the Hard Problem Registry
 
-**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the gathering below. Earlier wording remains historical, with later correcting beside its particular concept.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** At v375 its entries stand at the one saying and its parts at the ten things named still, both read from the universe as no existing thing. Its next motion re-says its front and each entry from the code as Resolving Hard Problems v375 carries it, each field's living and non-living existing things, prior, now and next, and the clustering found again at the co-sequencing, the entries whole in their incoming numbers.
 
 ## Insertlets

@@ -64,7 +64,7 @@ The [kit list](../../kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/released
 
 The [review brief](../../kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/REVIEWER.md) says a suggested re-saying comes from the row, while its checks also say no released word. Naming's closing paragraphs say the actual sentence carries its relation and no wording carries authority. The list's own comment says whole-word matching outside italics/code and explicitly explains not matching return. This already shows that a match list and the conceptual table have different uses. The useful next work is a source-linked account of what each instrument matches, why, and how the sentence's relation is followed. Adding all words indiscriminately or treating no match as complete conformance would not do that work.
 
-This correcting is independently offered at Arriving, Naming, Geodesic Improving and Registry, with the source preserved. It is also a concrete instance of [R's current method correction](Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a): an offered word, a quotation or an agreed source supplies a relation to follow and no authority for its truth.
+This correcting is independently offered at Arriving, Naming, Geodesic Improving and Registry, with the source preserved. It is also a concrete instance of [R's current method correction](../../archive/session_v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a): an offered word, a quotation or an agreed source supplies a relation to follow and no authority for its truth.
 
 ## Progress toward the intended mate condition
 

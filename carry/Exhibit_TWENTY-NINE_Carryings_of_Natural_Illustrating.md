@@ -4,15 +4,11 @@ Exhibit TWENTY-NINE Natural Illustrating Carryings · improved at v385A
 
 ## Further Natural Writing value aimed · v385A
 
-The [whole destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) marks the completed concept aiming of sections 16.1 through 16.3. The local improving concepts are available at this subject's offering:
+The [whole destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) marks the completed concept aiming of sections 16.1 through 16.3. The local improving concepts are available at this subject's offering:
 
 - [Several expressions of the form and each distinct contribution](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md#several-expressions-of-the-form-and-each-distinct-contribution--v385a)
 
 These are whole droplets, including their unresolved conditions. Earlier comparison-only instructions for this particular value are superseded. The living files remain intact; actual local cohering is later work.
-
-## Living objects of value for this subject · v385A
-
-This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
 
 **Project sources at v385A.** The [offering mate](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) gathers the projects' possible improving beside Natural Illustrating. This carrying mate keeps their supporting work reachable. The [current session method](../incoming/v385A/README.md) preserves source evidence and completed comparisons at their actual uses; the historical descriptions below retain their original scope.
 
@@ -36,15 +32,11 @@ Illustrating's remaining question is what the cooperation makes discoverable bey
 
 ## Kit source condition beside the projects · v385A
 
-The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) keeps inherited source versions, superseded image labels and incomplete correspondences beside the projects. The README's consistency link still uses its earlier incoming address; the actual [Concept and Consistency](../carryings/v380A/illustrating/Concept_And_Consistency.md) source is already linked above. The existing media and kit results have not been rerun.
+The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-and-the-content-they-support) keeps inherited source versions, superseded image labels and incomplete correspondences beside the projects. The README's consistency link still uses its earlier incoming address; the actual [Concept and Consistency](../carryings/v380A/illustrating/Concept_And_Consistency.md) source is already linked above. The existing media and kit results have not been rerun.
 
 ## Earlier source inventory
 
 **Existing materials and earlier inventories**
-
-The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
-
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
 
 **Executions, the kit.** `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -55,5 +47,3 @@ The earlier materials below remain at their listed addresses. The current purpos
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY-NINE_Natural_Illustrating_v380R.md`, each of its paragraphs now a droplet at the offerings.
-
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.

@@ -4,11 +4,7 @@ Exhibit ONE Natural Resolver Offerings · laid at v385A
 
 ## Carrying resolving through prior, now and next · v385A
 
-**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
-
-An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
-
-Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+**Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
 
 ## Current correcting: the imposed requirement is withdrawn · v385A
 
@@ -21,12 +17,6 @@ Requiring living carrying itself to stay unchanged removes the resolving the req
 > entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
 
 This offered explaining applies to the earlier words as well as the proposed explaining of entraining. Wording supplied by the user, an assistant, a file or science does not establish its relation by authority. The overlap and recurring podaling remain relations to follow. A source address, repeated phrase, matching number or located insertlet establishes no derivation. Session v385R's proposed local writing remains available for comparison. Its later section 32 withdraws the added requirement that a fixed repeating relation with another changing must be impossible. The distinct relation between no offering at a sharing and no arriving geodesic changing remains unestablished. Its section 18, Living at its observable existing, retains the whole unresolved gathering about observing living. For the protecting comparison, a recurring number alone does not identify a particular self, momentary and occurrence; no derived assignment to numbers 12, 15 and 16 is supplied. Each source remains available with its later correction. — v385A
-
-**Current working method · v385A.** The [user's current method](../incoming/v385A/README.md) governs these offerings: droplets are ungraded, locally resolving insertlets return to droplets elsewhere, and only actual living-file resolving removes the local offering. The older front below remains historical source wording.
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** the two open parts below, concern 11's and the three golden rectangles at the podals, each written at the file or released; the concerns at the sides of 13 and 16 and at the whole names, each at an observing or at Natural Naming's motion.
 
@@ -243,3 +233,15 @@ The earlier unchanged-number participation question is addressed at R: the same 
 ## The named uses at the protecting comparison · v385A
 
 **Droplet · 12, 15 and 16 with their actual relations.** [The source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) follows ONE's static code and name rows beside Naming 3.1 and 3.4–3.6, NI 4.3/4.10/4.11 and Explaining 3.7–3.9. 12 holds each sharing's changing and names prior/now coupled; 15 has particular offered-parity and along uses; 16 holds the society of selves with their carryings and offerings. Naming's 14–15 and 16–17 pairs keep own and between-selves relations together. Its opening parity and participation parity are separately named. The supplied overlap now guides their comparison; the three names alone do not assign before, within and after. The remaining local relation is how these uses express the older consecutive protecting betweens. [Help is welcomed from R](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) at that particular relation. Its newer recurring-podaling explaining accompanies this work, with the earlier participation question answered. No code calculation, exhaustive protecting assignment or completed living-file resolving is claimed. — v385A
+
+## Prior and now, unchanged forms and the reported resolver tables · v385A
+
+**Droplets.** These are reported constructed arrangements and their remaining questions.
+
+**A prior and a now both participating.** In the published local cases as read by the incoming, one arriving parity becomes the next parity whatever was carried; no single parity arriving gives the carried parity inverted. The carried parity can still affect what is shared. The concern is the exact sense in which prior and now participate, not the unsupported inference that private living carrying was inspected. The reported closed-spiral comparison identified a releasing parity two momentaries earlier, inverted, at 254 openings. Distinguish a public output formula from the whole natural coupling.
+
+**Rest.** A constructed ring with none carried and nothing arriving reportedly remains unchanged through 50 momentaries. The universe changing as a set does not require every existing thing to change at every momentary. Dissolve the contrary requirement in the older opening. In another reported closed spiral of three, a self retains the same parity at 12 of 72 positions. Same parity at next is not automatically still possibling or an absence of living carrying.
+
+**Tables recomputed.** The earlier report says the four of sixteen and two of 256 counts, spiral, torus and crossing tables agreed; it also reports 107 further torus pairs, 7,204 openings for another relation and 254 openings for an inversion. Those are reported checks of defined tables, not additional natural observations. Agreement cannot show that the chosen table captures every living relation.
+
+An initially unchained form taking a parity after one arrival remains beside the difference between a continued chained public expression and the continued living of an outward society. The [sequential-colliding droplet](Living_Improving_Value.md#sequential-colliding-and-what-would-break-the-societys-carrying) retains the later changing-coupling, opposite-form and missing-full-forward-momentary conditions still being distributed. A local parity remaining chained supplies no verdict on that society’s continued living. No all-or-none natural verdict follows from these partial enumerations.

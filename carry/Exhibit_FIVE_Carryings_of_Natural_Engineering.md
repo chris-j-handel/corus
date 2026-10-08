@@ -2,10 +2,6 @@ Exhibit FIVE Natural Engineering Carryings · gathered at v385A
 
 # Carryings of Natural Engineering
 
-## Living objects of value for this subject · v385A
-
-This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
-
 ## Engineered substrates and their particular making · v385A
 
 [The source comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) follows Destinies' chip/grid/further-substrate extension and its two engineered misreadings beside selected Engineering passages and the whole Corus 23.7. The [offering mate](Exhibit_FIVE_Offerings_to_Natural_Engineering.md) carries two independent droplets also available at Destinies and Corus. Registry's master plan keeps the distribution relation and Corus's developing Arriving purpose connected. This supporting project may keep changing without a build or exhibit change ever following from it.
@@ -18,7 +14,7 @@ This carrying mate holds living objects of value for its subject: tools, kits, i
 | Gathering and reaching | Destinies' two misreadings stay with Naming's existing relation and Engineering's actual receiving. Their local explaining is still to resolve at each mate. |
 | Completion and carrying | The existing 6.10 insertlet preserves four different completion subjects. The 30 September direct-carrying withdrawal stays with the old report; no implementation register becomes a private-carrying observing. |
 
-R's correcting at the engineered-substrate comparison is at [section 23, a14b4d2](https://github.com/chris-j-handel/corus/blob/a14b4d2018326a3c202e1da5e975786f495b300d/incoming/v385R/Logical_Cohering_v385R.md#23-the-joint-form-at-the-no-other-method-exclusion): stable form between collidings, unchanging social competency and unchanged parity at a sharing retain their different subjects. Its joint-form candidate remains a droplet; R10 stays whole and unresolved. The [reciprocal record](../incoming/v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-engineered-substrates) records the older-source offer and the exact M README extent. M's developing pacemaker source remains for later gathering and is not claimed as placed here.
+R's correcting at the engineered-substrate comparison is at [section 23, a14b4d2](https://github.com/chris-j-handel/corus/blob/a14b4d2018326a3c202e1da5e975786f495b300d/incoming/v385R/Logical_Cohering_v385R.md#23-the-joint-form-at-the-no-other-method-exclusion): stable form between collidings, unchanging social competency and unchanged parity at a sharing retain their different subjects. Its joint-form candidate remains a droplet; R10 stays whole and unresolved. The [reciprocal record](../archive/session_v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-engineered-substrates) records the older-source offer and the exact M README extent. Completed session v385M’s pacemaker proposal is now offered at Natural Engineering, with its possible project below.
 
 The later [surface/entraining correcting](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md#later-correcting-needed-by-these-older-passages) now accompanies this project's offerings. R's section 24 supplies the user's new identifying; section 23's candidate remains historical, not confirmed by that offering. The current joint-form relation stays explicit, with R10 whole and unresolved.
 
@@ -28,10 +24,6 @@ The existing source inventory below remains whole. Selected source comparisons a
 
 **Existing materials and earlier inventories**
 
-The earlier materials below remain at their listed addresses. The current purpose of this carrying mate is stated above; an earlier inventory does not establish that every object or incoming concept has been gathered.
-
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
-
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`; `kits/Natural_Networking_TWO_Improving_Kit/`.
 
 **Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/genome_duplication_v374/`; `carryings/illustrating_v366/`; `carryings/natural_physics_v377/`; `carryings/physics_for_other_files_v377/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/rings_are_spirals_v377/`; `carryings/session_v378/`; `carryings/v368_sources/`; `carryings/v380A/`; `carryings/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
@@ -40,4 +32,6 @@ The earlier materials below remain at their listed addresses. The current purpos
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_FIVE_Natural_Engineering_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
+## A pacemaker participating at each beat · v385A
+
+**Possible project.** Compare the proposed participation at both sides of a lost coupling with the configured-delay, conducting-path, beat-withholding and breath-following arrangements already gathered in the [whole offering](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a). Its open questions include an absent beat with no preceding observing, a sensed offering provoking further offerings, the absence of relevant bodily arriving, and harm when an offering coincides with an existing beat. No implementation or completed comparison is present.

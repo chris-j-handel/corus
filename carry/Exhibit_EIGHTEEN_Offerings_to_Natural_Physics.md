@@ -1,10 +1,6 @@
-Exhibit EIGHTEEN Natural Physics Offerings · laid at v381R
+Exhibit EIGHTEEN Natural Physics Offerings · improved at v385A
 
 # Offerings to Natural Physics
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** its resolving by a fresh reader, the droplets below whole; a first reading at v381R aimed fifty insertlets at 1.1 to 5.11 and its texts were withheld by the reader's own house, so none is laid; then the proposed v377 at `carryings/natural_physics_v377/` at the file's own motion.
 

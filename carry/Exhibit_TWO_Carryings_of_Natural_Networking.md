@@ -2,17 +2,10 @@ Exhibit TWO Carryings of Natural Networking · gathered at v385A
 
 # Carryings of Natural Networking
 
-## Living objects of value for this subject · v385A
-
-This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
-
 ## Incoming concepts gathered for this subject · v385A
-
-The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
 
 - [Self-interest and the health of the natural network](Exhibit_TWO_Offerings_to_Natural_Networking.md#self-interest-and-the-health-of-the-natural-network--v385a)
 - [Concerns in the diagnostic analogies for networks](Exhibit_TWO_Offerings_to_Natural_Networking.md#concerns-in-the-diagnostic-analogies-for-networks--v385a)
-
 
 ## Natural-network expression and supporting kit · v385A
 
@@ -34,7 +27,7 @@ The following whole droplets are available in this subject's offering mate. Thei
 
 ## Kit source versions and current entrance · v385A
 
-The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) records the v368 engine, waiting instruments and proposed later conforming from the kit's current README. Its former incoming route is available at [the v365 ONE/TWO project source](../carryings/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md). The existing direct-carrying withdrawal and local kit project remain together; no current compatibility or new result is claimed.
+The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-and-the-content-they-support) records the v368 engine, waiting instruments and proposed later conforming from the kit's current README. Its former incoming route is available at [the v365 ONE/TWO project source](../carryings/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md). The existing direct-carrying withdrawal and local kit project remain together; no current compatibility or new result is claimed.
 
 ## Earlier source inventory · retained from v381R
 

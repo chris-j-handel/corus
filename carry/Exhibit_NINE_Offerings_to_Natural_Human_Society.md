@@ -2,11 +2,7 @@ Exhibit NINE Natural Human Society Offerings · laid at v385A
 
 # Offerings to Natural Human Society
 
-**Current working at v385A.** The [session method](../incoming/v385A/README.md) governs the new comparison below. Earlier wording remains historical, with the later correcting beside its particular concept. The supporting project is at [this subject's carrying](Exhibit_NINE_Carryings_of_Natural_Human_Society.md#human-discovery-economy-and-the-subject-plan--v385a).
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
+The supporting project is at [this subject's carrying](Exhibit_NINE_Carryings_of_Natural_Human_Society.md#human-discovery-economy-and-the-subject-plan--v385a).
 
 **Next at this file:** No sentence of the code.
 

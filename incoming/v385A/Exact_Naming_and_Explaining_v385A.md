@@ -4,7 +4,7 @@ Session v385A
 
 ## Current use · v385A
 
-Use the whole subject name and explain the actual concept or concern. Attribution from any source adds no resolving value. The [gathering and aiming method](Gathering_and_Aiming_v385A.md) replaces this account's earlier implication that every droplet needs a source statement and its history. Addresses may locate content; they are not required authority or explaining.
+Use the whole subject name and explain the actual concept or concern. Attribution from any source adds no resolving value. The [gathering and aiming method](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#gathering-and-distribution-within-the-current-plan--v385a) replaces this account's earlier implication that every droplet needs a source statement and its history. Addresses may locate content; they are not required authority or explaining.
 
 
 **8 October 2026 · Current method for session v385A**

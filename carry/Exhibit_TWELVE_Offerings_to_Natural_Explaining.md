@@ -4,10 +4,6 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v385A
 
 **Contributing and resolving at v385A.** This session follows ungraded droplets and locally resolving insertlets, with the complete correction and source at [v385A](../incoming/v385A/README.md). Earlier descriptions remain at their passages for improving through this method. The [Corus passage comparison](Carryings_of_Natural_Intelligence_Corus.md#corus-arriving-and-distribution-passage-comparison--v385a) now supports the existing Part 16 receiving plan; its two reported older arrivals have related explaining at current 3.1 and 3.2, with their wording differences retained.
 
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file: its released words re-said at Natural Naming 2.4's namings, one motion: *running*, *runs* and *run* at 78 places, *telling* and *tell* at 33, *taken*, *takes*, *take* and *taking* at 34, *sign* and *signs* at 25, *there* at 14, *count* at 15, and *membrane* at 1.6, five section titles among them, 1.6, 3.5, 3.8, 3.9 and 4.7; the *tell* collision below met at the same motion; a fresh reader comparing before and after.** Its front at the steady form and its four incomings entered at v378.
 
 ## Insertlets

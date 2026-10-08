@@ -2,12 +2,6 @@ Session v385A · completed session v385M gathered and improved
 
 # Completed session v385M: clustered value droplets
 
-This is the one incoming report for the completed session. Its concepts, concerns, examples, possible projects and necessary conditions are clustered below, with possible aimings. The earlier overlapping documents, scripts and recorded outputs are artifacts. They are not separate incoming tasks and their execution is not required by this method.
-
-The whole gathering below is received into [Living Improving Value](../../carry/Living_Improving_Value.md#completed-session-v385m-clustered-incoming--v385a). From there, compare each droplet with its existing local offerings, retain correcting, and distribute its remaining value to the offering mates or its independently improving object to a carrying mate. An aiming named here does not declare that distribution complete. Earlier local placements remain; do not create them again.
-
-Droplets are ungraded. A concern remains available without requiring its resolving before gathering. Reported observations and program outcomes below retain their actual scope; this gathering performs no experiment or calculation and supplies no new scientific result. Natural resolving concerns the pattern, not attribution. The names of prior numbered concerns are unnecessary for continuing from this report.
-
 ## The origin, positive explaining and the possible break
 
 **Droplet.** The universe is the changing set of all existing things, living and non-living. Changing at the set does not require every existing thing to change at every momentary. A stable existing form is not excluded by that opening. Remove the inference that an unchanged existing thing would contradict the origin sentence.

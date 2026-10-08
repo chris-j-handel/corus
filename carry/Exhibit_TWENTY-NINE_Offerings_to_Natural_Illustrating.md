@@ -4,10 +4,6 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v385A
 
 **Contributing and resolving at v385A.** Follow the [current ungraded droplet method](../incoming/v385A/README.md). The earlier descriptions below remain at their source passages for improving. A project's possible value is carried with its actual sources and unfinished relations; media existing in a kit establishes no completed resolving into this living file.
 
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** eleven passages from the working v380A's reading beside the living files as they are, its Ready below, at this file's own motion.
 
 ## Projects beside Natural Illustrating · v385A

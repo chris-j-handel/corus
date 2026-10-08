@@ -4,10 +4,6 @@ Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v385A
 
 **Contributing and resolving at v385A.** This session follows the ungraded droplets and locally resolving insertlets, with the complete correction and its session source at [v385A](../incoming/v385A/README.md). The earlier descriptions remain at their existing passages for improving through this method.
 
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file:** at its motion, its ten door lines met at the ten faces, five outside and five inside of the tunneling co-sequencing, and its old resolver names by the map.
 
 ## Insertlets
