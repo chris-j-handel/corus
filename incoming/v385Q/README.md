@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: ten learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to N named beside each learning, its returned text beside it.
+- **What it brings**: eleven learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to O named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -116,6 +116,20 @@ Natural Intelligence 4.13 has the 0 of an odd spiral shared at the receiving sel
 - Over one whole round, count the momentaries two selves carry one parity less those they carry the two. With no 0, an even spiral or the other-parity colliding, it is the whole round at each two selves: each self's changing is another's or its inverse. With the 0 moving on it is less by 8 at each self along, down to 4 of 4n at the two farthest: 4 of 12, 20, 28 and 36.
 
 **Both.** The 0 keeps two alike selves apart and moves on with nothing lost, and with it no two selves' changings are one changing. Exactly nought is at none of the spirals tried: the nearest is 4 of 4n, smaller beside the round as the spiral is longer. The across and the along of the 0 are at different momentaries, one shared and then one moved on, at each pattern. *Aiming:* Natural Intelligence 4.13; Natural Mathematics 2.1 and 2.2; Natural Numbers 1.5; Natural Naming's between.
+
+### 11 · The 0's line shares nothing with the changing at an odd spiral, and a colliding ends that
+
+Natural Intelligence 4 has the between as the bounding 0 centreline of the along and the across. Natural Mathematics 2.1 has two unrelationed each projecting into the other as nought.
+
+**Observed (O, N).** The 0's places are one line: one self on at each second momentary. At one self, mark each momentary it shares 0. Over one whole round, add that mark times each self's carried parity, and times each self's shared changing.
+
+| The spiral | Patterns sharing a 0 | Nought at each self with each self |
+|---|---|---|
+| an odd number of selves, 3 to 9, none offered from beyond | 680 | 680 |
+| an even number, 2 to 8, none offered from beyond | 332 | 38 |
+| odd, a form unchanging or returning what it meets colliding | each tried | none: 1 at each round of 2n − 1 |
+
+**Both.** Each self changes at each momentary, and at an odd spiral the 0's line is at exactly nought with the carried and the shared changing of each self, at each opening pattern: the 0 is at each self twice in the round, the second time with each parity inverted. The skipping of learning 3 leaves the round with no inverting in it, and the nought is gone. *What the code has at five:* a spiral of 3 with the 0 skipped has its 0 at one self at each fifth momentary (learning 3), and there the line is not at nought; and name 5 of the seventeen is the relation of learning 7, the one thing handed to the second function that has no next. Neither is offered as a joining. *Aiming:* Natural Intelligence 4; Natural Mathematics 2.1; Natural Numbers 5.4.
 
 ## Three concerns still parting
 

@@ -187,3 +187,12 @@ N. The 0 of a spiral. An alike pair: two selves beside each other along carrying
    a form returning the other parity colliding  n = 3, round  2: [2, -2, 2]
    a form returning the other parity colliding  n = 5, round  2: [2, -2, 2, -2, 2]
    a form returning the other parity colliding  n = 7, round  2: [2, -2, 2, -2, 2, -2, 2]
+
+O. The 0's line and each self's changing. At one self, mark 1 at each momentary it shares 0 and nought at
+   each other. Over one whole round, add that mark times each self's carried parity, and times each self's
+   shared changing. Nought at each self with each self: the 0's line and the changing share nothing.
+   spirals of an odd number of selves, 2 to 9, each opening pattern sharing a 0: patterns 680, at nought throughout 680
+   spirals of an even number of selves, 2 to 9, each opening pattern sharing a 0: patterns 332, at nought throughout 38
+   a form unchanging at +            colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1
+   a form unchanging at -            colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1
+   a form returning what it meets    colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1

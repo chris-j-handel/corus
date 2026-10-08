@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to N.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to O.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -388,3 +388,42 @@ for name, f, ns_ in (("an odd spiral, its 0 moving on", None, (3, 5, 7, 9)), ("a
         sh, car = spiral(n, f, start=40, T=400)
         P = again(sh)
         print("   %-44s n = %d, round %2d: %s" % (name, n, P, [sum(car[t][0] * car[t][j] for t in range(200, 200 + P)) for j in range(n)]))
+
+
+print("\nO. The 0's line and each self's changing. At one self, mark 1 at each momentary it shares 0 and nought at")
+print("   each other. Over one whole round, add that mark times each self's carried parity, and times each self's")
+print("   shared changing. Nought at each self with each self: the 0's line and the changing share nothing.")
+
+
+def line_products(sh, car, n, P, lo):
+    worst = 0
+    has = False
+    for i in range(n):
+        Z = [1 if sh[t][i] == 0 else 0 for t in range(lo, lo + P)]
+        has = has or any(Z)
+        for j in range(n):
+            worst = max(worst, abs(sum(z * car[lo + k][j] for k, z in enumerate(Z))),
+                        abs(sum(z * (sh[lo + k][j] or 0) for k, z in enumerate(Z))))
+    return has, worst
+
+
+tally = {}
+for n in range(2, 10):
+    for pat in itertools.product(V, repeat=n):
+        sh, car = spiral(n, pattern=list(pat), T=300)
+        has, worst = line_products(sh, car, n, again(sh, 160), 120)
+        if has:
+            key = "odd" if n % 2 else "even"
+            t = tally.setdefault(key, [0, 0])
+            t[0] += 1
+            t[1] += worst == 0
+for key in ("odd", "even"):
+    print("   spirals of an %s number of selves, 2 to 9, each opening pattern sharing a 0: patterns %d, at nought throughout %d" % (
+        key, tally[key][0], tally[key][1]))
+for name, f in FORMS[:3]:
+    row = []
+    for n in (3, 5, 7):
+        sh, car = spiral(n, f, start=40, T=400)
+        P = again(sh, 160)
+        row.append("n=%d, round %d: %d" % (n, P, line_products(sh, car, n, P, 200)[1]))
+    print("   a form %-26s colliding, the largest of those sums: %s" % (name, "; ".join(row)))
