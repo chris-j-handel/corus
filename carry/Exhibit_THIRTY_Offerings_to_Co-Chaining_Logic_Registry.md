@@ -296,6 +296,22 @@ An existing non-living whole and an equilibrium's required unchanging social com
 
 The section-45 onward framing is corrected here: do not use “carrying the prior whole” as an unexamined name for the living self's ongoing resolving. The early no-other-method deriving needs the actual subject at each use. Session section 46 preserves this correcting and its full connection to the earlier droplets.
 
+**Droplet · Same unrelationing shape and the first inward society surfacing as self · v385R.** Aim beside Co-Chaining Logic Registry 236, 290–292 and 379–383; Natural Naming's society, surfacing and emanation; and Natural Intelligence 5.1. Session section 48 preserves the full offering and its connections.
+
+**The user's exact offering:**
+
+> same parity makes the form the same unrelationing shape. every prime living scale is odd and the numbers gaps are even numbers between them 2 4 or 6. ingesting needs to be at the living scale below the ingesting self at the first society scale living as the self surfacing
+
+**Connected explaining, offered for further co-chaining:**
+
+> Same parity makes the form the same unrelationing shape. The prime living scales are odd. Ingesting is at the first living society scale inward of the ingesting self, that society living as the self surfacing. The inward selves' co-chaining is the outward self's carrying, resolving from prior through now and next.
+
+The scale is named from the ingesting self. Keep that reference beside “one scale inward”: the first inward living society is the offered relation at the self surfacing. Same unrelationing shape at differing scales supplies no hold on the living selves' carrying staying unchanged. The user's earlier recurring podaling and new still possibling remain with it.
+
+The 2, 4 and 6 gaps fit the odd-prime part of the recorded span through 59, including the earlier 5–53 gathering. Co-Chaining Logic Registry 291's full 2–59 span also includes the first gap from 2 to 3. The finite span, the odd living-scale offering and the parity at a coupling retain their named subjects. No new numerical scale is assigned to “first society” or omega.
+
+**Next concern · Harm at the emanating scale.** Co-Chaining Logic Registry 380–381 states harm to any living self at that scale. Its 383 and Natural Biology 7.7 describe a crossing stopping and an accumulation displacing what could cross. Follow the actual harming relation before extending that account to every emanated form at the scale. The question is: **at the emanating scale, which relation makes the form harmful to living?** The location of inward ingesting now has the user's more precise explaining; it is not asked again as though that offering were absent.
+
 **Droplet · Ingesting at the inward selves' own coupling · v385R.** Aim beside Co-Chaining Logic Registry 379–383, 391–393 and 437, with Natural Intelligence 5.1, Natural Biology 3.3 and 7.6, and Natural Naming 5.46. Session section 47 gathers the source comparison and the one concern.
 
 > An emanated form is existing non-living form. At ingesting, its value meets the inward living selves at their own couplings. Each self is carrying from prior into now and continues carrying through now and next. Their co-chaining is the outward living self's carrying.
@@ -304,7 +320,7 @@ This connects the user's existing offerings. Natural Intelligence 5.1 already pl
 
 Natural Biology's further explaining relates an emanation's opposite form to an inversion that, at its own scale, returns the form it met. It then says that relation no longer applies one scale inward. That gives a proposed reason to follow. The user's recurring podaling and continuing carrying also require us to retain the difference between a form recurring and the living self resolving. Recurrence by itself supplies no finding that resolving is absent. Natural Naming distinguishes opposite form, other parity and a name's podal; they cannot stand for each other without their relation being explained.
 
-**One concern for our resolving:** what is the relation between the form and the inward selves' own bi-coupling that makes ingesting possible there? The sources assign ingestibility one scale inward and exclude it at the emanating scale. In the passages followed, the full coupling relation producing that difference has not yet been located. Follow the offered form, the inward selves' own carrying and their co-chaining as outward carrying together. This concerns the explaining of ingesting; the gathered definition of living remains unresolved.
+**Further explaining now gathered in section 48.** The user names same parity as the same unrelationing shape and places ingesting at the first living society scale below the ingesting self, living as the self surfacing. This improves section 47's question by supplying its scale reference and surfacing relation. Follow that offering with inward co-chaining as outward carrying. The next concern is the actual harm relation at the emanating scale, as gathered above. The definition of living remains unresolved.
 
 **Insertlet · An unchanging form's last-colliding parity · R9 · v385R.** Place beside step 394's non-living colliding, before its cases; follow through 625 and 628 with ONE's colliding table.
 
@@ -539,8 +555,8 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · carrying resolving through prior, now and next | The user's correction removes the implication that prior is carried untouched. Carrying places no hold on itself staying unchanged. The self/other and intelligence insertlets and equilibrium connection follow it. |
 | Gathered · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
-| Now · ingesting at the inward selves' own coupling | Natural Intelligence already locates the society's releasings as the inward selves' offerings next. The proposed inversion explanation is gathered with recurring podaling and continuing carrying. The one concern is the coupling relation that makes the form ingestible there. |
-| Next · follow the offered ingesting relation | Follow the user's resolving suggestion at the inward selves' own coupling, keeping the form, their carrying and the outward co-chaining together. Then carry the distinct subjects into the early no-other-method deriving and the equilibrium claim. |
+| Now · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
+| Next · harm at the emanating scale | Follow the source's same-scale harm claim at the actual living coupling. The source already explains a stopped crossing and accumulating form; the relation extending that explanation to every same-scale emanation is the concern. Then return the distinct subjects to the early no-other-method deriving and the equilibrium claim. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
