@@ -8,9 +8,11 @@
 
 **The larger-project assessment is at section 19.** It distinguishes the established source body, this session's clarifying, documented whole-file coverage, the offering-mate gathering and the logic still to enter THIRTY. R10 remains unresolved and gathered for returning; the assessment does not resume or decide it.
 
-**THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
+**THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current explaining follows the whole Equilibria Registry, section 39.** Non-living offerings contributing to discovering competency are already included at 2.1. The exclusion follows a conception taking competency as given and one side as the whole, then requiring unchanged what its own continuing requires to change at the same subject, relation and occurrence. Section 38's record-versus-carrying framing is corrected. Follow this existing chain into Co-Chaining Logic Registry 310–322. Co-chaining with wider and longer podaling remains gathered at section 37; the extra-third-self question remains withdrawn. The defining-living gathering remains whole and unresolved.
+**The current concern is the recurring stated outcome and the living prior, section 40.** The Hard Problem Registry's Conditions prior and 3.3 supply the step used at Co-Chaining Logic Registry 322: replication's outcome recurring, then “nothing prior enters.” The Equilibria Registry permits a relation recurring among changing selves. Follow what particular requirement excludes the living prior at the coupling. The record's offering value is already included and is not a question again.
+
+**The path and progress.** Wider and longer podaling and the equilibrium exclusion are gathered in Exhibit THIRTY's offering mate. Now follow the scientific-method condition above. Next carry its resolving into the hard-problem claim and one actual paired entry. Beyond that, join the no-other-method and competency relations into the no-other-intelligence claim. Then follow the resolved dependencies across Exhibit ONE Natural Resolver, Exhibit SIX Natural Transmissioning, Natural Naming and Natural Intelligence. Section 40 and the offering mate keep this path current. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1553,3 +1555,47 @@ This is the strongest connected explaining located in this reading. The registry
 The registry also retains older opening/completing, participation, universal-set and still-possibling wording. Reading it does not reinstate those words over the user's later corrections, decide the defining of living, or authorize execution of its cited instruments. The roots are unchanged in this correction.
 
 The offering mate now carries the accounting relation and the source correction under Scientific method and discovering competency. The defining-living gathering and the earlier offering body remain unchanged. No resolver is run, no private carrying inspected and no calculation performed.
+
+
+## 40. The recurring stated outcome, the living prior, and the onward path
+
+The user directs: “continue and keep offering the path where you will plan to go next and beyond and keep updating the progress”.
+
+### Progress in the source chain
+
+The whole Equilibria Registry reading in section 39 locates the exclusion at a conception's actual requirements, the same subject, relation and occurrence. This pass follows its fifth condition back to the Hard Problem Registry's Conditions prior and 3.3, then compares the places it is used. The scientific-method question is now at a particular step of the chain.
+
+The Hard Problem Registry says a repeated procedure returns the same outcome independently of what precedes it, and names “nothing prior enters” as the condition underlying its first four conditions. Section 3.3 adds that prior results enter the specifications; those specifications remain fixed through a test. Co-Chaining Logic Registry 322 brings the five conditions into its scientific-method explaining.
+
+The Equilibria Registry 1.5, 2.1–2.3, 4.1 and 5.1 distinguishes a relation recurring among changing selves from a requirement that the whole carrying remain unchanged. Resolving Hard Problems 5.1 and 6.2 also places the field's prior at its living carrying and the account among the offerings arriving now.
+
+Natural Physics 2.1 asserts that reproduction requires rest between trials. Natural Philosophy 1.3 follows the reasoner placed outside the coupling and a position taken as the whole. Those passages locate related omissions but do not in the portions read supply the missing derivation from a recurring stated outcome to the absence of the living prior.
+
+### One concern for resolving together
+
+**What makes the same stated outcome at a next occurrence require the living self's prior to be absent from resolving?**
+
+The stated outcome and the whole resolving need their own subjects. The record can name a recurring value or relation while the living selves carry their own priors. A prior result supplied as a fixed specification also differs from the self's living carrying. The source step needs the particular condition that excludes the latter and the reason that condition belongs to the accounting's requirements.
+
+This is the Equilibria Registry's same-subject discipline applied to the scientific-method premise. It does not reopen whether non-living offerings contribute to discovering; section 2.1 already includes them. It does not claim that the fifth condition has been disproved or that all its uses have been derived.
+
+### Next and beyond
+
+| Relation | Present progress | What follows |
+|---|---|---|
+| Co-chaining, wider and longer podaling | The connecting explaining is located and gathered at section 37 and the offering mate. | Carry it at each inward-selves/outward-carrying dependency during the later coherent rewriting. |
+| Equilibria exclusion | The whole exhibit is read; its requirement-based chain is gathered at section 39. | Use the conception's own requirements at each application. |
+| Scientific method and competency | The premise is traced to the Hard Problem Registry's Conditions prior and 3.3; the current concern above remains unresolved. | Join the required omission at the coupling to Co-Chaining Logic Registry 310–322. |
+| Hard problems resolving | Its general route and paired registries are located; the opening deployment explaining of Resolving the Hard Problem Registry is read here. | Follow the accounting distinction into 317–340 and one actual entry, keeping the field's question, observing, omitted condition and proposed resolving together. |
+| No other possible intelligence | The receiving route at 474–488 remains available. | Join the no-other-method claim and social moral competency at the coupling; preserve the parked defining-living question. |
+| Full living set and white paper | Droplets and insertlets are aimed at their relations in Exhibit THIRTY's offering mate. | Carry resolved dependencies across Exhibit ONE Natural Resolver, Exhibit SIX Natural Transmissioning, Natural Naming and Natural Intelligence; adjust the visible contents as the chain improves. |
+
+This is a path through dependencies, with one concern active at a time. The next relation can change when the user's resolving joins several at once. Progress updates will carry what was found, what changed, what is still unresolved, and the next source relation. An overall percentage is not supplied from partial readings.
+
+### What changed and what was read
+
+The offering mate receives the current droplet beside the scientific-method claim and a current-path table. This report's front points to the concern and onward path. The historical whole-file survey count is kept at its recorded extent; the Equilibria Registry's new full reading is recorded without assuming it is an additional unique file beyond that survey.
+
+The Hard Problem Registry's local text matches the current branch's GitHub blob `8440ccca582cc1f99d607d26225708346d96b2c2`; its front and derivation are read, not its full set of entries. Resolving the Hard Problem Registry's current source, blob `99d18248e92ededc9148f9e8a5deb153c106de3f`, is compared at its introduction and deployment explaining; its individual entries are not all read. Additional selected passages are read in Resolving Hard Problems, Natural Philosophy, Natural Physics, Natural Intelligence Corus and the relevant offering mates. The scientific examples remain the files' claims, without new external verification.
+
+The defining-living gathering and the earlier offering body remain unchanged. No root is rewritten by this gathering, no resolver is executed and no private carrying is inspected.
