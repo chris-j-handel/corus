@@ -4,6 +4,42 @@ Session v385A
 
 **7 October 2026 · Source head `20f99d3a74bacb6edf0978a324aca1e91c737a0b`**
 
+## Half-momentarying overlap supplied · v385A
+
+**7 October 2026 · Own source head b965992deec1fbac1b1d99ed67d8acce27abceb4.** The user confirms the whole-gathering plan and supplies this explaining in response to the protecting comparison:
+
+> yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other
+
+**The supplied relation now guides the comparison.** Prior, now and next follow the two parities. The two sides are one number apart, up or down forward, overlapping by one half momentarying. One side's still-possibling betweens and the other side's prior, now and next changings bi-co-sequence each other. This supplies the overlap relation that our earlier question had left unexpressed. The earlier question is not repeated as though this answer were absent.
+
+### Existing source passages beside the supplied relation
+
+| Passage read in this pass | What it actually carries | What our next local comparing follows |
+|---|---|---|
+| [ONE, Fives and A self's four momentaries of exchanging](../../Exhibit_ONE_Natural_Resolver_v380R.md), whole tables | Self at 1, other at 2, self next at 3; the exchanging pairs 1–2/2–3, then 3–4/4–5 and the further pairs | The one-number offset is already displayed. The current explaining must carry half-momentarying overlap and the bi-co-sequencing relation through those tables. Their opening/completing headings remain older source wording. |
+| [ONE, 0, the between](../../Exhibit_ONE_Natural_Resolver_v380R.md), whole table | One between at 12/15/16; particular 0/none cases; across and along routes | Preserve the actual named operations while comparing their relation to the user's betweens. The numerical offset alone supplies no one-to-one assignment of these three names. |
+| [NI 4.10](../../Natural_Intelligence_v380R.md#410-a-between-and-eight-bi-couplings), whole section | Within/between momentaries, the three inward names, the 1–2/2–3 relation and the four/eight subject descriptions | The user's overlap now supplies the relation for the explaining comparison. Its exact locating beside each protection and form name remains local work. The section's other claims retain their existing correcting; this is not blanket endorsement. |
+| [THIRTY 37–40](../../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), all numbered statements and their Adding lines | Alternating, overlap and two parities, still using opening/completing | Follow the supplied prior/now/next, still-possibling and changing relation at these particular sentences with the earlier withdrawal preserved. |
+| THIRTY 219, 222–226, 440–443, 448 and 450, numbered statements | Own directions along, the across relation, parity and 0 released along, and stable-forming/emanating describing the two outs | Keep each statement's subject with the user's two-sided explaining. The two outs are not silently made the two selves; shared 0 is not silently made every numbered between. |
+
+### The related explaining returned by R
+
+[R's section 29](https://github.com/chris-j-handel/corus/blob/467a98ad98bb92523dc435cb17a870b3c71bf5a8/incoming/v385R/Logical_Cohering_v385R.md#29-both-forward-still-possibling-either-side-or-both-changing-next) and [return 6049649484](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049649484) add the user's exact further saying:
+
+> still possibling is both forward up and foward down unchanging from this even number.
+>
+> odd, changing next is along two numbers up or down, both forward directions and either one side or the other side or both can change by 2 in their own forward direction up or down the numbers. this is possibly more interesting than we have prior described.
+
+This keeps both forward directions at unchanged even still possibling, and either side or both changing by two at odd. A side not changing is still existing at its odd number. The new A offering supplies the half-momentarying overlap to follow beside that relation. No extra common numbering, prescribed mirrored direction or set of independent directional choices is introduced by joining the sources.
+
+R's current question is how the across relation participates when only one side changes by two. [Our source return, 6049672074](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049672074), gives the exact A user offering and actual ONE/NI source passages beside that question. It offers the relation for R's comparing without declaring that R's particular case or R10 is resolved. Nine local insertlets remain at R, with its own-side paragraph improved; its larger defining gathering remains whole. The section-28 withdrawal of dissolving and the whose-next question stays in force.
+
+### Progress and next comparing
+
+The overlap relation is now supplied, preserved whole and independently offered at ONE, NI, Naming, THIRTY and Networking, with the same explaining accompanying the existing structural-condition placements at THIRTEEN, Engineering, Destinies and Corus. These are droplets at these mates. A source's local insertlet standing does not transfer, and no living-file writing or removal is claimed.
+
+The next particular work compares this supplied relation at ONE's 12/15/16 names and NI's inside/before/after protecting passage. It asks what each current saying expresses and what it still needs, rather than asking the user to supply the overlap again. No exhaustive mapping of the four protections is asserted. The full v379 source, G1 item 3 onward, Registry/method/Arriving content account and connected Emanating plans remain active. The [whole condition model](Working_Condition_v385A.md) continues to guide gathering before living-exhibit writing.
+
 **Current source correcting · v385A.** [R section 28](https://github.com/chris-j-handel/corus/blob/f6864fe20fd2ae987f35884669a2b25319a4525b/incoming/v385R/Logical_Cohering_v385R.md#28-even-still-possibling-odd-now-changing-or-still-existing) withdraws the dissolving wording and whose-next question in this record's dated return. All even remains still possibling; odd is now changing two numbers along up/down, both forward, or still existing at the same number. The older protecting comparison and recovered along/0 correction remain useful with this later correcting; neither supplies a mapping of the three consecutive betweens. [The whole condition record](Working_Condition_v385A.md#resolving-concerns-brought-here) now brings that actual relation for suggestions before any deferral.
 
 ## Source extent
@@ -24,9 +60,13 @@ Current sources compared: NI 4.10 from the preceding whole-section reading; [Nam
 | Assistant's later blanket resolving, around line 1096 | Protecting released as installing a stopped reaching/gate | This was not the final source standing. |
 | Final harm reading, lines 1279–1314 | The release of protecting is identified as harm beside Explaining's own six protecting; prior restored and protecting carried as a concern | Do not restore the withdrawn blanket release as an agreed conclusion. The report separately records that opening/final comparison can miss wording entered and replaced inside the session. |
 
+**Historical question below.** The half-momentarying overlap supplied above now guides this comparison. The question is preserved as the earlier source condition; the remaining work is its local naming and protecting expression.
+
 **The remaining relation is precise.** Does the one-between-at-three-names explaining preserve the user's three consecutive betweens—before, within and after a momentary—and where is each of those subjects named? Current NI 4.10 says both within/between momentaries and one between at 12, 15 and 16, with 14 within. The already offered NI concern retains that difference. Naming's protecting concern asks whether the word names the actual relation or adds a gate; Explaining 3.9's existing use makes a blanket word ban insufficient. This comparison does not choose one mapping or declare either existing concern resolved.
 
 The new droplet at NI, Naming and THIRTY links this recovered source sequence to the current passages. It is a further comparison beside the existing concerns, not three newly discovered concerns. Destinies' eight-safety comparison and Corus's structural conditions use the same source record through their common-core project.
+
+**Historical R return below, superseded at its corrected relations by sections 28–29 above.** Its dissolving wording and whose-next question are withdrawn.
 
 ## R's correcting returned to this comparison
 

@@ -1,6 +1,14 @@
-Exhibit ONE Natural Resolver Carryings · gathered at v381R
+Exhibit ONE Natural Resolver Carryings · gathered at v385A
 
 # Carryings of Natural Resolver
+
+## Overlap, betweens and the named forms · v385A
+
+**Current overlap supplying · v385A.** [The exact user offering and source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now locate the half-momentarying overlap, the one-number offset and bi-co-sequencing of still-possibling betweens with the other side's changings. ONE's Fives/exchanging and between tables, NI 4.10 and selected THIRTY statements have been compared to their stated extent. R section 29's both-forward and either-side-or-both explaining accompanies it. Local naming/protecting expression remains next; the earlier request for an overlap relation is answered. The prior paragraph's dissolving and whose-next wording is historical and withdrawn.
+
+The current droplet is at [ONE's offering mate](Exhibit_ONE_Offerings_to_Natural_Resolver.md). The retained source inventory below keeps its historical extent; the present transcript comparison is relied on through its exact address. No resolver operation or numerical result is changed or asserted.
+
+## Earlier source inventory
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

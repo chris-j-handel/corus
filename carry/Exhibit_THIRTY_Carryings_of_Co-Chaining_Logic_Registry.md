@@ -6,6 +6,8 @@ Exhibit THIRTY Co-Chaining Logic Registry Carryings · gathered at v385A
 
 [The whole condition record](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) locates the v371 kit beside current ONE/THIRTY and preserves its stated limits. [Protecting source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) uses the archived v379 transcript and current THIRTY passages; those sources are relied on in this work despite the inherited inventory's historical standing below. [Reciprocal Help](../incoming/v385A/Reciprocal_Help_v385A.md) carries R's latest even/odd correcting and withdrawn question. The corresponding droplets remain at the offering mate. G1's detailed report recovery stays active at its existing offering; no code or verifier is run here.
 
+**Current overlap supplying · v385A.** [The exact user offering and source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now locate the half-momentarying overlap, the one-number offset and bi-co-sequencing of still-possibling betweens with the other side's changings. ONE's Fives/exchanging and between tables, NI 4.10 and selected THIRTY statements have been compared to their stated extent. R section 29's both-forward and either-side-or-both explaining accompanies it. Local naming/protecting expression remains next; the earlier request for an overlap relation is answered. The prior paragraph's dissolving and whose-next wording is historical and withdrawn.
+
 ## Earlier source inventory
 
 **The executions, observings and sources the living file rests on, each whole at its address**

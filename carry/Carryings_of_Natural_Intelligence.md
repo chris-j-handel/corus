@@ -8,6 +8,8 @@ Natural Intelligence Carryings · gathered at v385A
 
 Registry retains the possible distribution; the full outward expression remains at its Corus comparison. R10 stays whole and unresolved. These are supporting source comparisons, not a rewrite of NI or a complete gathering of its incoming. — v385A
 
+**Current overlap supplying · v385A.** [The exact user offering and source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now locate the half-momentarying overlap, the one-number offset and bi-co-sequencing of still-possibling betweens with the other side's changings. ONE's Fives/exchanging and between tables, NI 4.10 and selected THIRTY statements have been compared to their stated extent. R section 29's both-forward and either-side-or-both explaining accompanies it. Local naming/protecting expression remains next; the earlier request for an overlap relation is answered. The prior paragraph's dissolving and whose-next wording is historical and withdrawn.
+
 **The v379 source now followed further.** [Protecting Source Comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) traces the two user sayings, the assistant's intermediate mappings, the corrected along-carrying relation and the later protecting withdrawal/mend. The original consecutive relation remains distinct from one-between/three-names; the existing concern is not declared resolved. R's returned now-still-possibling explaining accompanies the current comparison, with invisibility, abundancing, dissolving and passage together. Next is the current ONE table beside NI 4.10 and THIRTY's explicit relations, with the original sequence preserved. — v385A
 
 ## Earlier source inventory · retained from v381R
