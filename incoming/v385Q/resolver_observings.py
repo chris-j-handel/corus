@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to O.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to P.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -427,3 +427,41 @@ for name, f in FORMS[:3]:
         P = again(sh, 160)
         row.append("n=%d, round %d: %d" % (n, P, line_products(sh, car, n, P, 200)[1]))
     print("   a form %-26s colliding, the largest of those sums: %s" % (name, "; ".join(row)))
+
+
+print("\nP. Beneath the alternating. Each self inverts at each momentary it shares a parity; take that out by")
+print("   inverting each self's carried parity at each second momentary, and follow what still changes.")
+
+
+def beneath(car, t):
+    return tuple(c if t % 2 == 0 else -c for c in car[t])
+
+
+tot = other = 0
+for n in range(2, 10):
+    for pat in itertools.product(V, repeat=n):
+        sh, car = spiral(n, pattern=list(pat), T=100)
+        tot += 1
+        other += any({i for i in range(n) if beneath(car, t + 1)[i] != beneath(car, t)[i]} != {i for i in range(n) if sh[t][i] == 0}
+                     for t in range(1, 98))
+print("   spirals of 2 to 9 selves, each opening pattern: patterns %d; a momentary at which the selves changing" % tot)
+print("   beneath the alternating are not exactly the selves sharing 0: %d" % other)
+for n in (3, 5, 7):
+    sh, car = spiral(n, T=60 + 4 * n)
+    forms, who = [beneath(car, 40)], []
+    for t in range(41, 41 + 4 * n):
+        u = beneath(car, t)
+        if u != forms[-1]:
+            who.append([i + 1 for i in range(n) if u[i] != forms[-1][i]])
+            forms.append(u)
+    print("   n = %d, one whole round: %s" % (n, " ".join("".join(S[x] for x in f) for f in forms)))
+    print("          the self changing at each step %s; forms %d, not one another %d; %d steps on each parity inverted %s; %d steps on the first form %s" % (
+        " ".join("".join(map(str, w)) for w in who), len(forms) - 1, len(set(forms)), n,
+        forms[n] == tuple(-x for x in forms[0]), 2 * n, forms[2 * n] == forms[0]))
+for name, f in FORMS:
+    row = []
+    for n in (3, 5):
+        car = spiral(n, f, start=40, T=200)[1]
+        row.append("n=%d: %s" % (n, " ".join(
+            "".join(str(i + 1) for i in range(n) if beneath(car, t + 1)[i] != beneath(car, t)[i]) or "." for t in range(120, 134))))
+    print("   a form %-27s the selves changing beneath, 14 momentaries: %s" % (name + ",", "; ".join(row)))

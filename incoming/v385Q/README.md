@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: eleven learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to O named beside each learning, its returned text beside it.
+- **What it brings**: twelve learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to P named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -130,6 +130,18 @@ Natural Intelligence 4 has the between as the bounding 0 centreline of the along
 | odd, a form unchanging or returning what it meets colliding | each tried | none: 1 at each round of 2n − 1 |
 
 **Both.** Each self changes at each momentary, and at an odd spiral the 0's line is at exactly nought with the carried and the shared changing of each self, at each opening pattern: the 0 is at each self twice in the round, the second time with each parity inverted. The skipping of learning 3 leaves the round with no inverting in it, and the nought is gone. *What the code has at five:* a spiral of 3 with the 0 skipped has its 0 at one self at each fifth momentary (learning 3), and there the line is not at nought; and name 5 of the seventeen is the relation of learning 7, the one thing handed to the second function that has no next. Neither is offered as a joining. *Aiming:* Natural Intelligence 4; Natural Mathematics 2.1; Natural Numbers 5.4.
+
+### 12 · Beneath the alternating the one changing is at the 0, one self at a step, and two goings round are two inversions with none undone
+
+Natural Mathematics 3.4 has bi-inversioning-co-recursioning as two consecutive inversions on different axes, no inversion undone and each a next; its 2.5 has one cycle reaching each form one parity at a time; its 3.5 has each of three parities inverted sending each form to its opposite.
+
+**Observed (P).** Each self inverts at each momentary it shares a parity. Take that alternating out, and follow what still changes.
+
+- In 1,020 opening patterns, at each momentary, the selves changing beneath the alternating are exactly the selves sharing 0. Beneath the alternating the 0 is the whole of the changing.
+- In the published odd spiral one self changes at each step, the selves in turn along the releasing. A spiral of 3: + − −, + − +, − − +, − + +, − + −, + + −, and + − − again. The 2n forms are each another; n steps on each parity is inverted; 2n steps on the first form is there again, at a later momentary.
+- With a form unchanging colliding, one self still changes at a step, the last self and the self the form meets at two momentaries one after the other. With a form returning the other parity, no self changes beneath the alternating: each self alternates, and there is no other changing.
+
+**Both.** Each self changes at each momentary, and beneath that one parity is inverted at a step, each self its own place, the two goings round two inversions of each parity with none undone. This is why learning 11's nought is exact. At a spiral of 3, three steps one at a time are each of three parities inverted: the opposite form reached in turn, at next after next, where Natural Mathematics 3.5 names the three inverted at once the emanating. *Aiming:* Natural Mathematics 2.5, 3.4 and 3.5; Natural Intelligence 4.13; session v385R's sections 55 and 59.
 
 ## Three concerns still parting
 

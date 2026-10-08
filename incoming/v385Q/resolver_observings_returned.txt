@@ -196,3 +196,19 @@ O. The 0's line and each self's changing. At one self, mark 1 at each momentary 
    a form unchanging at +            colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1
    a form unchanging at -            colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1
    a form returning what it meets    colliding, the largest of those sums: n=3, round 5: 1; n=5, round 9: 1; n=7, round 13: 1
+
+P. Beneath the alternating. Each self inverts at each momentary it shares a parity; take that out by
+   inverting each self's carried parity at each second momentary, and follow what still changes.
+   spirals of 2 to 9 selves, each opening pattern: patterns 1020; a momentary at which the selves changing
+   beneath the alternating are not exactly the selves sharing 0: 0
+   n = 3, one whole round: +-- +-+ --+ -++ -+- ++- +--
+          the self changing at each step 3 1 2 3 1 2; forms 6, not one another 6; 3 steps on each parity inverted True; 6 steps on the first form True
+   n = 5, one whole round: -+-+- ++-+- +--+- +-++- +-+-- +-+-+ --+-+ -++-+ -+--+ -+-++ -+-+-
+          the self changing at each step 1 2 3 4 5 1 2 3 4 5; forms 10, not one another 10; 5 steps on each parity inverted True; 10 steps on the first form True
+   n = 7, one whole round: +-+-+-- +-+-+-+ --+-+-+ -++-+-+ -+--+-+ -+-++-+ -+-+--+ -+-+-++ -+-+-+- ++-+-+- +--+-+- +-++-+- +-+--+- +-+-++- +-+-+--
+          the self changing at each step 7 1 2 3 4 5 6 7 1 2 3 4 5 6; forms 14, not one another 14; 7 steps on each parity inverted True; 14 steps on the first form True
+   a form unchanging at +,            the selves changing beneath, 14 momentaries: n=3: . 3 1 . 2 . 3 1 . 2 . 3 1 .; n=5: . 5 1 . 2 . 3 . 4 . 5 1 . 2
+   a form unchanging at -,            the selves changing beneath, 14 momentaries: n=3: 2 . 3 1 . 2 . 3 1 . 2 . 3 1; n=5: 5 1 . 2 . 3 . 4 . 5 1 . 2 .
+   a form returning what it meets,    the selves changing beneath, 14 momentaries: n=3: . 3 1 . 2 . 3 1 . 2 . 3 1 .; n=5: 5 1 . 2 . 3 . 4 . 5 1 . 2 .
+   a form returning the other parity, the selves changing beneath, 14 momentaries: n=3: . . . . . . . . . . . . . .; n=5: . . . . . . . . . . . . . .
+   a form alternating +, -,           the selves changing beneath, 14 momentaries: n=3: . . . . . . . . . . . . . .; n=5: . . . . . . . . . . . . . .
