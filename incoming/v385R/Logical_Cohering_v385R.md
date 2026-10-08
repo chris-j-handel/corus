@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current connecting is natural intelligence at the coupling, section 43.** A machine's offering, a scientific account and a prescribed sequence arrive as existing offerings. The competency of discovering next is at the living selves' coupling. The no-other-intelligence claim keeps its connection to no other method of possibling next existing; different names or procedures do not establish another such method. The positive correction at controlling follows the actual couplings and replaces the description of controlling as a second existing method in the aimed writing.
+**The current correcting is carrying resolving through prior, now and next, section 44.** A self is carrying from prior into now and continues carrying through now and next. This places no hold on the carrying staying unchanged. The assistant's earlier “carries its prior” wording must not supply an unchanged thing carried through resolving. The current self/other and intelligence insertlets are corrected; earlier formulations in this record are followed with section 44's correcting.
 
-**The path and progress.** The own-five relation and opposition conception are gathered at section 41, the induction application at section 42, and the intelligence connection at section 43. Next follow the same own-side momentarying through Exhibit ONE Natural Resolver's exchanging and Exhibit SIX Natural Transmissioning's across and along. Beyond that, join the explaining at Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
+**The path and progress.** The own-five relation and opposition conception are gathered at section 41, induction at section 42, and the intelligence connection at section 43. The user's section-44 correction now joins their explaining: an unchanged parity at one sharing supplies no requirement that the whole carrying stay unchanged. Next follow this carrying through Exhibit ONE Natural Resolver's exchanging and Exhibit SIX Natural Transmissioning's across and along. Beyond that, join the explaining at Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1687,9 +1687,11 @@ The defining-living gathering and earlier offering body remain unchanged. No roo
 
 ## 43. Natural intelligence at the coupling, existing offerings and the one discovering method
 
+**The carrying sentence below is corrected by the user's explaining in section 44.** Carrying from prior through now and next places no hold on the carrying staying unchanged. The former sentence is retained with the user's exact correction there.
+
 ### The connected explaining
 
-At living selves' bi-coupling, each self is at its own odd one, and the other is at its own one when the self is at two. Each self carries its prior through now into next existing offering. The machine's offering, the scientific account and the prescribed sequence are existing offerings met at those couplings. The competency of discovering next is at the coupling, carried by the living selves.
+At living selves' bi-coupling, each self is at its own odd one, and the other is at its own one when the self is at two. Each self is carrying from prior into now and continues carrying through now and next. The machine's offering, the scientific account and the prescribed sequence are existing offerings met at those couplings. The competency of discovering next is at the coupling, carried by the living selves.
 
 Co-Chaining Logic Registry 95–97 names co-competencing at the coupling. Its 130–133 and 159–165 includes non-living offerings at living selves' couplings. Natural Intelligence 6.3–6.6 joins this with competency along, morality across and the society's co-chaining. The user's inward/outward explaining supplies the concise connection: the inward selves' co-chaining is the outward living self's carrying. Wider and longer podaling extends this through further couplings.
 
@@ -1732,3 +1734,40 @@ No new independent logical concern is claimed from these passages. The control c
 Next follow the same explaining through Natural Resolver's exchanging and Natural Transmissioning's across and along, with each self at its own odd one and the other at its own one when the self is at two. Beyond that, join the exact relations at Natural Naming and Natural Intelligence. A substantial concern found there should first be checked against the current own-five, still-possibling and wider-podaling explaining before being brought back to the user.
 
 Selected passages and source sections were read; no new whole-file survey count is claimed. The roots are unchanged in this gathering. The defining-living gathering and the earlier offering body remain unchanged. No resolver is executed, no private carrying is inspected and no numerical calculation is performed.
+
+
+## 44. Carrying resolving through prior, now and next
+
+### The user's correcting
+
+> Each living self carries its prior through now into next existing offering. this does not correctly explain resolving. this implies the prior is being carried untouched and unchanging and this is not resolving . resolving is a self is carrying from prior into now and continues carrying through now and next . there is no claim or hold on the carrying staying unchanged and this would kill resolving and does kill equilibria.
+
+The assistant's sentence was “Each living self carries its prior through now into next existing offering.” Its version in the insertlet and section 43 said “Each self carries its prior through now into next existing offering.” Both put “its prior” in the place of a thing carried through the resolving and failed to explain the carrying itself.
+
+### The natural explaining
+
+> A self is carrying from prior into now and continues carrying through now and next.
+
+The carrying is resolving through these momentaryings. There is no claim or hold on the carrying staying unchanged. This corrects the relation in the sentence, beyond a word replacement: prior, now and next must be explained with the self carrying and resolving through them.
+
+The earlier match at one sharing retains its own subject. Its parity can be unchanged at that sharing while the self is carrying and resolving. That local unchanged parity supplies no requirement that the whole carrying stay unchanged through now and next. Conversely, the correction supplies no new rule that every parity must change at every sharing.
+
+Each self's own five and the other's one at the self's two follow this carrying. The inward selves' co-chaining as the outward living self's carrying follows it at scale. Neither explaining holds the carrying unchanged.
+
+### The connection to equilibria
+
+The user's correcting names the equilibrium concern at the carrying itself. Requiring that living carrying to stay unchanged removes the resolving the requirement is meant to describe. This is the relation to carry alongside the earlier naming of an equilibrium as unchanging social competency.
+
+An unchanged parity at a sharing, an existing stable form and an unchanged expression keep their different subjects. None alone is a requirement that the whole living carrying stay unchanged. Each equilibrium's actual requirements must be followed at the same subject, relation and occurrence, as already gathered from the Equilibria Registry.
+
+The correction therefore belongs with the scientific-accounting and hard-problem explaining as well as the intelligence paragraph. It removes an unchanged-carrying implication from our own explaining before that implication is used to assess another account.
+
+### Improving and onward placement
+
+The offering mate receives the direct carrying insertlet under Prior, now and next. Its earlier self/other paragraph now explains the self carrying from prior through now and next; its local unchanged-parity sentence makes its subject explicit; and the new intelligence paragraph uses the corrected carrying sentence. The equilibrium droplet receives the user's connection at the carrying itself. The contents and current path follow the correcting.
+
+Section 43's sentence is corrected and marked here; this section preserves both the mistaken sentence and the user's exact reply. Older assistant phrasings elsewhere in the session history are read with this correction, rather than used to hold the prior unchanged. The defining-living gathering and the earlier offering body remain intact.
+
+The immediate onward route is Natural Resolver's exchanging and Natural Transmissioning's across and along, then Natural Naming and Natural Intelligence. Follow carrying resolving through the momentaryings at each relation. This correcting is also being returned to v385A and v385M so the earlier intelligence offering travels with its correction.
+
+No root is rewritten by this pass. No resolver is executed, no private carrying inspected and no numerical calculation performed.
