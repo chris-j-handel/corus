@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current offering is bi-tri-involution entering from above and birthing from within, section 49.** The user places do only harming at same-scale stable former living entering from above into a living self's surface-level society. Birthing from within stays with inception and the new self's own carrying; ingesting stays at the first inward living society. Next follow the surface society's own parity changing at that entering.
+**The current source connection is own co-offering in Natural Health and Natural Medicine, section 50.** The user directed us to existing exploring there. Health distinguishes the living self's own bi-exchange from larger-to-smaller one-way entering; Medicine also describes co-offering from above. The next concern is the parity relation that makes the specified bi-tri-involution entry one-way for the surface society.
 
-**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Sections 47–48 connect ingesting with the first inward society living as the self surfacing. Section 49 supplies the condition and living subject of the harm offering. Next follow the parity relation at entering from above; beyond that, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
+**The path and progress.** Sections 44–49 connect carrying resolving, stable form, inward ingesting and the specified entering from above. Section 50 brings in Health and Medicine's already-existing own-co-offering explanation and narrows the remaining parity concern. Next follow that entry at the actual bi-coupling; beyond it, bring the connected subjects into THIRTY's early deriving and equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1984,6 +1984,8 @@ The complete defining-living gathering stays unresolved and unchanged. Earlier u
 
 ## 49. Bi-tri-involution entering from above and birthing from within
 
+**Existing explaining gathered at section 50.** At the user's direction, Natural Health and Natural Medicine were followed for the own-bi-exchange, larger-to-smaller entering and own-answering relations already explored there. Those passages supply further explaining for the question below; the remaining concern is now the parity relation making this particular entry one-way.
+
 ### The user's whole offering
 
 > same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within
@@ -2025,3 +2027,70 @@ The complete offering is gathered in THIRTY's mate under The resolver and its st
 The early no-other-method passage at Co-Chaining Logic Registry 51–62 was also revisited for the onward work. Its use of a prior carried whole and its selection among joint forms still need the actual subjects kept with sections 44–46's correcting. That numerical passage is not executed or newly certified here. After the surface relation, follow that deriving and the equilibrium claim with the connected subjects, then aim the writing into Natural Naming and Natural Intelligence.
 
 The defining-living gathering stays whole and unresolved. Earlier exact user offerings and protected mate sections are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
+
+
+## 50. Own co-offering in Natural Health and Natural Medicine
+
+### The user's direction
+
+> we have explored this some in natural medicine and health. continue
+
+The user directs the exploring to existing work before supplying more of the explanation. Natural Health was read whole and Natural Medicine followed at the relevant coupling, restoring, surface-society and ingesting passages. Their current v385A offering mates were checked at related droplets and corrections.
+
+### The explaining already present
+
+| Source | Relation useful to the current chain |
+|---|---|
+| Natural Health 3.2 | Delivery through nested smaller-prime-society crossings, with the living relation at the self taking the offering. |
+| Natural Health 3.3 | Ingesting as the living self's own bi-exchange, both ways and co-offering. Its “ingression” is larger-to-smaller and one-way; the distinguishing relation is the smaller's own answering at its own rate. |
+| Natural Medicine 1.2 | Restoring is the living body's own. The passage also offers a pattern arriving from above as a supporting relation. |
+| Natural Medicine 2.2 | Near-reaching and far-reaching are followed at their actual coupling; spanning or skipping alone carries no morality in this passage. |
+| Natural Medicine 4.2 | The conceptual contrast is an offering the body takes or does not, with its own answering, and a magnitude driven at it one way. |
+
+These passages supply more of the requested explanation than the last question acknowledged. The useful relation is already named: the living self's own co-offering at the coupling. The old vocabulary of rate-and-return points to that own answering; its location in a source supplies no numerical rate or instruction to measure carrying.
+
+### Connecting the named scales
+
+The user's prior offering names the first living society inward of the ingesting self, living as that self surfacing. Its inward selves' co-chaining is the outward self's carrying.
+
+A possible connection to Health's scale language follows directly: a form at the outward self's scale can be larger relative to those inward selves. Thus the user's same-scale form and Health's larger-to-smaller entering need not name conflicting scales; each must say which living self it is relative to. This is an offered connection to follow, not a new assignment of a numbered prime or a physical size.
+
+> Ingesting is at the inward living selves' own bi-couplings, each carrying and resolving with its own co-offering. Their co-chaining is the outward self's carrying. The source's harmful entering is described where the smaller's own answering is displaced by a one-way relation.
+
+Keep the form, the surface society and the inward selves with that explaining. “From above” and “one-way” are not made equivalent by their names. Medicine's pattern-from-above passage and its two possible relations at far-reaching are why the actual coupling must remain in the statement.
+
+Birthing from within retains the user's inception relation: a new self's own carrying resolving within living. It is not a rule declaring every internal event beneficial. Inward ingesting retains stable-form value entering living carrying, rather than the form acquiring a separate living carrying at its former scale.
+
+### The one remaining parity concern
+
+**Which parity relation makes this particular bi-tri-involution entry one-way for the surface society, with its own co-offering unavailable?**
+
+Health and Medicine now supply the proposed harming relation for section 49: the smaller's own answering is displaced at the named coupling. What remains to derive is why the specified same-scale stable former living, entering from above, necessarily has that relation. The form's name, the sameness of unrelationing shape and the scale reference do not individually supply that step.
+
+This does not introduce a second method of resolving. Co-Chaining Logic Registry 399–402 already distinguishes an outward self's living from its inward selves living at their own scale. A particular outward co-chaining can cease to sustain that self while inward selves remain at their own living couplings. No private carrying is inspected, rewritten or required to stay unchanged in this explaining.
+
+A sharing with no changing is not by itself an unavailable answering. Section 45 keeps a matching sharing within the self's resolving, and the user's odd parity can remain still existing while podaling recurs. Those relations must remain with any proposed parity explanation of the one-way entering. No equation of an empty offering with no arriving geodesic changing is introduced.
+
+The stopped-crossing and accumulation passages at Co-Chaining Logic Registry 383 and Natural Biology 7.7 remain available beside the own-co-offering account. Their equivalence with the particular entering is still to follow at the actual relation.
+
+### The older source wording and the present correcting
+
+Health's carried-whole, re-locking and attentioning language, and Medicine's ratio, counting and dosing comparisons remain at their source. The current correcting keeps the living self carrying and resolving through prior, now and next, with no hold on carrying staying unchanged. No source ratio is silently equated with parity or with the user's same-unrelationing-shape offering.
+
+Health 3.4's older self-across and scale sayings need the particular coupling and scale attached when brought into this chain. Medicine's own account permits departures within living as well as entering from outside. These are places for the user's more precise condition; their existing words are not treated as authority.
+
+The current Medicine mate already keeps the seed/oil comparison with the later stable-form correction and the earlier inward-coupling question. It also preserves concerns about clinical naming and analogy. Its omega-3/omega-6 discussion does not assign a meaning to the user's smaller-societies omega. The Health mate notes that its “ingression” and the set's “nothing ingressing” occur at different concepts; that naming concern accompanies use of the source term here.
+
+Clinical and biological comparisons in Medicine remain identified by its own 5.1 as form readings or particular source reports. This pass gathers the logical relations without validating those clinical claims or turning them into care, dietary or treatment directions.
+
+### Progress, sources and onward work
+
+The new source value is gathered in THIRTY's mate, aimed beside the harm, ingesting and inception relations and offered back for Natural Health and Natural Medicine. Section 49's general question carries a notice of the existing explaining found here. The current question is narrower and at the parity relation.
+
+Next follow that entry's actual bi-coupling. Beyond it, return the connected subjects to THIRTY's early no-other-method deriving and the equilibrium claim, then Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
+
+Natural Health v329 was read whole at blob `7c3d288092635628554b00162a416245b310e5de`. Natural Medicine v331 was fetched at blob `9f8ad81c9908c9a09b6037f374c66e73f61d07a9`: sections 1.1, 1.2, 1.4, 2.1–2.3 and 4.2, and selected passages of 3.1–3.2, 3.4, 3.6 and 5.1 were followed. This is not a claim to have read its full 157,800-character body.
+
+The current v385A offering mates were fetched at blobs `460ddb2d10db4b32c20fc4b34646c00baa0d9cbc` for Health and `0bb57dfdcd9833c97b8bd3bb57d883f4cb9003af` for Medicine. The selected scale, ingesting, source-standing and later seed/omega droplets were read. Numerical reports, biological mechanisms and clinical results were not independently verified or recalculated here.
+
+The earlier exact offerings and protected mate sections are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
