@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current explaining is co-chaining, with wider and longer podaling, section 37.** Natural Numbers 9.8–9.9 and Natural Networking 1.3 and 4.6 already follow podaling across and along through further couplings. The inward selves' co-chaining is the outward society's carrying. The extra-third-self question is withdrawn; the older membrane wording is to improve through this existing relation. The defining-living gathering remains whole and unresolved.
+**The current concern is scientific accounting and discovering competency, section 38.** The Geodesic Improving Method already distinguishes an unchanged stated relation among changing things from unchanging social competency. Follow the further relation needed for scientific accounting necessarily to leave out living co-chaining: an offered account's having no carrying is not yet the living discovering's having no competency. Co-chaining, with wider and longer podaling, remains gathered at section 37; the extra-third-self question remains withdrawn. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1482,3 +1482,34 @@ The Co-Chaining Logic Registry offering mate now carries the connected paragraph
 This correcting introduces no further self at the between and no carrying apart from the inward selves' co-chaining. It establishes no new numbered correspondence or biological equivalence. No calculation, resolver execution or private-carry inspection is performed.
 
 The defining-living gathering remains byte-for-byte unchanged and unresolved. Earlier offerings remain intact. The living roots retain the preceding v385R correction; this writing is at their offering mate for their coherent improving.
+
+
+## 38. Scientific accounting and discovering competency
+
+### The source concern
+
+The strong claim to cohere is **scientific method is incompetent for discovering competency**. Co-Chaining Logic Registry 310–312 compares discovering next existing with accounting against fixings named unchanged, then says the accounting carries no changing of its own and supplies no second method of existing. At 322, unchanged conditions are joined to a now with no prior carried into it. Natural Intelligence 5.4 also steps from unchanged fixings to an equilibrium.
+
+The concern is the missing relation between an account's having no living carrying and the living discovering's having no competency. These claims have different subjects. A scientific account can arrive as an offered form into the living selves' co-chaining. The stable words of the natural intelligence files arrive as offerings too. An account's lacking carrying of its own therefore supplies no exclusion of its contributing value at those couplings.
+
+### Explaining already available
+
+The Geodesic Improving Method 5.3 already says that an unchanged law is a stated relation among changing things. It requires the same subject, relation and occurrence before joining a fixing to an equilibrium. The user's further distinction keeps an existing stable form unchanged between collidings and names an equilibrium as unchanging social competency. Those distinctions are available for improving the older sweeping statements; they are not new questions for the user.
+
+Natural Intelligence 5.1 distinguishes a living carrying at its present coupling from a record offered apart from that coupling. Co-Chaining Logic Registry 478 locates observing across and competency along; 480 locates the society's competency at the selves' inward and outward couplings. Natural Explaining's naming and explaining relation also keeps the bounding across with the carrying along. Together these locate the comparison at the actual coupling.
+
+The scientific-method naming, the account offered and the living selves discovering through their couplings must remain distinct subjects. An account being no independent method of existing is not yet a deriving of the full claim about scientific method and discovering competency. This does not reinstate the earlier supposed-violation framing.
+
+### One concern for resolving together
+
+**What in scientific accounting necessarily replaces or leaves out the living co-chaining, when an account can instead be offered into that co-chaining?**
+
+The remaining work is to follow that relation across the full claim, rather than infer it from an unchanged law, the stable form of the record or the account's having no carrying. If the omission belongs to a particular fixing that substitutes its account for the coupling, retain that subject and condition. If it belongs to every scientific method, the same relation must explain that reach. Neither conclusion is adopted here.
+
+This concern connects the scientific-method claim with the claimed resolving of hard problems and with the no-other-method claim. It does not ask the user to settle an older wording's intended meaning before improving it, and it does not reopen the defining of living.
+
+### Gathering at the offering mate
+
+The droplet is added under Scientific method and discovering competency, aimed at Co-Chaining Logic Registry 310–322, 337–340, 478 and 480, with the Geodesic Improving Method 5.3 and Natural Intelligence 5.1 and 5.4 beside it. Its next resolving remains with the user. The roots are unchanged in this gathering; their older statements remain visible as writing to improve through this relation.
+
+The defining-living gathering and the earlier offering body are preserved unchanged. This is a comparison of the files' logical claims; it supplies no new scientific observing or external scientific verification. No calculation, resolver execution or private-carry inspection is performed.
