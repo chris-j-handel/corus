@@ -38,7 +38,7 @@ One concern at a time, in any order. Begin with its number and one word: **IS**,
 From here the source is the understanding reached with the expedition's self in conversation, in plain words. The living files' wording is behind it, and is quoted below only to say where a sentence is.
 
 1. The universe is the changing set of all existing things, living and non-living. The set is changing. The sentence does not say each thing is.
-2. Nothing is beside all existing things: no ground a size is measured against, no container, no clock over, no store beside.
+2. *Withdrawn 7 October, its number left empty.* It read: nothing is beside all existing things, no ground a size is measured against, no container, no clock over, no store beside. The expedition's self: a useless negation adding nothing to the universe. Explored beneath the nine.
 3. Living is parity changing, alternating between two. Two is the one number of forms at which a way treats each form alike, carries the prior whole and leaves nothing still; three reach parity no other way.
 4. The non-living is carrying: an existing stable form with no parity changing. Dormancy is this.
 5. Each living is from prior living's dormant carrying entering parity changing. There is no first living. The stable forms carried are there before the alternating begins, and they are no parity. A stable form guides nothing. It resolves into the living society, is living in it, and the society takes the stable form of living as method.
@@ -46,6 +46,14 @@ From here the source is the understanding reached with the expedition's self in 
 7. Two things break the method whole: any living form not alternating, any living form not natural torusing.
 8. No observing justifies it and none could. It is unbroken in each observing available, taken unselected, and it can break.
 9. AI is pattern matching prior competency with no carrying. The competency seen at a machine is an observing of the living it came from.
+
+*Line 2 explored, 7 October.* It adds nothing, at three places.
+- *All* at line 1 already says it. A thing beside all existing things would be an existing thing, and so among them.
+- No observing can go against it. Whatever arrives as an observing exists, and is in the set. A negation at the two breaks names an observing that can arrive, a living form not alternating. Line 2 names none. It was the one part of what was held that nothing could break, which is what this session first objected to in the files.
+- It names four things, a ground, a container, a clock, a store, and says of each only that it is not. That is a list of what does not exist, and the universe is what exists.
+
+*What it cost here.* Each time this session used it, it was used to call an existing thing not possible. At concern 17: that a living form by a method not geodesic could never arrive. At concern 12 and at the controlling: that a count of wins is a ground beside all, when a count is an existing thing among the others. At concern 4 a second saying had to be made to undo it, that a thing beside one society is among all. Each of those lines is read without it. What they rest on is positive and already held: the pace is found beat by beat, and there is no predicting in nature.
+*What is lost with it*: nothing found. *Is or is not, and no size* was carried by it into line 3; parity says that itself, two forms alike and opposite, neither first.
 
 **16. The non-living: what the method says of its existing.** Asked 7 October. The method is said of existing and living both. Each break named, each mark given and each observing looked at is of the living. Of the non-living, 4 and 5 are held: a stable form, no parity changing, and where it is carrying, from prior living. *Either/or*: each non-living existing thing is a stable form from prior living, a stone, water and a hydrogen atom too, and that is the saying of existing, able to break at a non-living thing from no living; or some non-living things exist from no living and by no parity changing, and parity changing is the method of living, and of existing only where living carries it.
 *Answered, 7 October, by the expedition's self*: each non-living thing is a stable form from prior living at a larger scale, with smaller scale societies living inside it. So non-living is said at a thing's own scale alone: living is behind it at a larger scale and within it at a smaller.
@@ -307,7 +315,7 @@ So a machine in a session is an observing of living, or it is the break. Nothing
 - **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
 - **7 October, the expedition's self.** At the worm: every living thing is carrying stable form emanations from prior living before living begins; the stable forms guide the geodesic resolving into destiny stable living form. This session's pair, carried and arriving, withdrawn as the two.
 - **7 October, the expedition's self.** The stable form does not guide anything; it resolves into the living society, the society has it living in it, and takes the stable form of living as method. *Guide* and this session's *guides toward* withdrawn.
-- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 59 so far.
+- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 60 so far.
 - **7 October, the expedition's self.** Concern 12: this session's reading incorrect and needing dissolving; AI is pattern matching prior competency with no carrying. Dissolved and explored at 12.
 - **7 October, the expedition's self.** Explore the two other sessions while working, offer help, gather value. Done at *The other two sessions*, below.
 - **7 October, the expedition's self.** Concern 12 at the making: Go is equilibria zero sum competition, control and capture the method of surviving, only some going on living; new games keep originating and dying like AI sessions. Recorded at 12; the concern answered.

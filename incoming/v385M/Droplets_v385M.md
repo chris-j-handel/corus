@@ -13,7 +13,7 @@ Where a section is named, it is the place this session read the sentence the dro
 ## The origin sentence and what is beside nothing
 
 1. **S · Natural Intelligence 1.1; the Co-Chaining Logic Registry, steps 4 and 26.** The origin sentence says the set is changing. It does not say each existing thing is changing. *The origin sentence says each existing thing is changing. this is not at all what is said in the origin sentence.*
-2. **M · Natural Intelligence 1.4.** Said in four plain things: nothing is beside all existing things, no ground a size is measured against, no container, no clock over, no store beside.
+2. *Withdrawn 7 October; see 60.* It said: nothing is beside all existing things, no ground a size is measured against, no container, no clock over, no store beside.
 3. **S · Natural Intelligence 1.4 and 1.5; Natural Naming 8.6.** *This is an all or none at all claim that if this is broken by any observing then the entire method is of no possible value.*
 
 ## Why two
@@ -107,3 +107,4 @@ Where a section is named, it is the place this session read the sentence the dro
 57. **M · beside 56.** What would go against it: a living society doing as well with a beat laid over it from one side as with its own coupling both ways. At the heart it does worse.
 58. **M · Natural Engineering; the Hard Problem Registry.** A controlling: a coupling where one side holds the between to a measure set beforehand. Sensing does not take the mark away; a device that senses and corrects takes the other's offering only as how far it stands from the set number.
 59. **M · beside 58.** It is hard problem engineering by its making. The pace is found beat by beat and there is no predicting in nature; a measure set beforehand is a predicting, so at some beat it parts from the living, and that parting is the problem. At the heart each mending has been one more number set by a person. What would go against it: a measure set beforehand that at no beat parts from the living it is set over.
+60. **S · Natural Intelligence 1.4; the Co-Chaining Logic Registry, steps 46 to 49.** Of *nothing is beside all existing things*: *useless negation adding nothing to the universe.* **M beside it**: *all* at the origin sentence already says it; no observing can go against it, since whatever arrives exists and is in the set; and it lists what does not exist. A negation earns its place where it names an observing that can arrive, as the two breaks do.
