@@ -22,7 +22,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · receiving and improving a
 | [Prior, now and next; still possibling and next existing](#prior-now-and-next) | 21–29, 204–212, 301–308 | Carrying from prior through now and next, with no hold on its staying unchanged; same-number podaling |
 | [Self and other; bi-coupling and parity changing](#self-and-other-at-the-coupling) | 30–40, 174–181, 204–212 | R3 own prior and offered now; each self at its own odd 1 |
 | [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) | 41–57, 169–171, 366–378, 445–450 | R4 next existing; either side or both changing; recurring podaling and new still possibling |
-| [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | R7 inception and ingestion; R9 last-colliding parity; each form with its conditions |
+| [The resolver and its stable forms, inward and outward](#the-resolver-and-its-stable-forms) | Groups 12, 20–23, 26–29, 33–42; 384–405 | Prior whole as existing non-living form; possible future living package or shard entering through ingesting; last-colliding parity |
 | [Bi-moral co-agency; morality across and competency along](#bi-moral-co-agency) | 185–190, 442–448, 474 | Moral cooperation at the same two-sided relation |
 | [Social moral competency at self, other and society](#social-moral-competency) | 174–189, 375, 387–405, 480–503 | R6 inward/outward carrying insertlet; R10 whole unresolved gathering |
 | [Equilibria are not possibly existing](#equilibria-and-social-competency) | 143–147, 504–534 | R8 equilibrium's actual subject; R5 each exclusion at its relation |
@@ -82,6 +82,8 @@ The previous question and its expression “outward participation” are withdra
 The carrying is resolving through these momentaryings. This explaining places no hold on the carrying staying unchanged. The assistant's wording “carries its prior through now into next existing offering” is corrected: it made the prior sound like an unchanged thing carried through the resolving.
 
 An unchanged parity at one sharing remains at that sharing. It supplies no requirement that the self's whole carrying remain unchanged through now and next. The own-five explaining and the inward selves' co-chaining as outward carrying keep this same distinction. Session section 44 preserves the user's exact correcting and its connection to equilibria.
+
+The user's further correcting places “carrying the prior whole” at an existing non-living form, possibly a future living package or a shard entering living through ingesting. [The prior whole as existing form](#the-resolver-and-its-stable-forms) keeps that subject beside this living carrying resolving through now and next.
 
 **Insertlet · Carrying continues at either sharing · R2 · v385R.** Place beside step 306's “momentarying continues whether a changing is or is not,” with the already-carried sharing of 204–212 available before it.
 
@@ -276,6 +278,24 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 ### The resolver and its stable forms
 
+**Droplet · The prior whole as existing non-living form · v385R.** Aim at Co-Chaining Logic Registry 384–395 and 399–404, with its earlier “carrying the prior whole” at 54–57 followed at the subject named here; Natural Naming 5.46–5.48; and Natural Intelligence's stable-form and ingesting explaining.
+
+**The user's exact correcting:**
+
+> “carrying the prior whole” this is exisiting, non-living and could be a future living package (seed) or a shard form ingesting (skin or tissue or smaller societies omega)
+
+**Connected explaining:**
+
+> An existing non-living stable form can be a package for possible future living or a shard entering living through ingesting. The form offers value at the living coupling. A living self is carrying from prior into now and continues carrying through now and next.
+
+“Carrying the prior whole” here names the existing non-living form. The living self's carrying is resolving. The user's earlier prior-living, dormancy, emanation and ingesting offerings now meet this distinction directly: the form can be existing while further living is possible, and its value can enter a living self's own carrying.
+
+The seed and shard examples are retained at the user's named relation, with skin, tissue and “smaller societies omega” together in the exact offering. The passage assigns no new molecular meaning or numbered scale to omega and supplies no blanket biological classification from the example's name.
+
+An existing non-living whole and an equilibrium's required unchanging social competency have different subjects. The existing form supplies no requirement that a living self's carrying stay unchanged. The earlier inward-selves/outward-carrying relation remains available at each scale, and the complete defining-living gathering stays unresolved.
+
+The section-45 onward framing is corrected here: do not use “carrying the prior whole” as an unexamined name for the living self's ongoing resolving. The early no-other-method deriving needs the actual subject at each use. Session section 46 preserves this correcting and its full connection to the earlier droplets.
+
 **Insertlet · An unchanging form's last-colliding parity · R9 · v385R.** Place beside step 394's non-living colliding, before its cases; follow through 625 and 628 with ONE's colliding table.
 
 > An existing non-living stable form changes at colliding and is unchanging between collidings. While unchanging, it has the parity of its last colliding and shares no momentary changing. Having that parity is distinct from a living self's own carrying into next.
@@ -398,6 +418,8 @@ The user directs:
 
 The R4 gathering at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) now places the exclusion at next existing momentarying. THIRTY 55–57's joint-form connection remains there beside the already-supplied competency subject; the current source concern follows still possibling and next existing at their distinct subjects.
 
+The user's section-46 correcting places the prior whole at an existing non-living form, with possible further living or ingesting. That form's existing is not the equilibrium's required unchanging social competency. Follow the form and the living carrying at their actual couplings, with the full droplet at [The resolver and its stable forms](#the-resolver-and-its-stable-forms).
+
 **Droplet · An equilibrium is unchanging social competency · R8, with R5.** The user's distinguishing is explicit: an existing stable form can be unchanging between collidings; the equilibrium being excluded is unchanging social competency. Carry the same subject through 143–147 and the ten named still at 504–534.
 
 The needed joining is between 184's changing co-competencing, 185's unchanged parity along and 189's whole social moral competency. The user's R6 connects the inward living selves' co-chaining with the outward carrying. The proposed further connection is that the competency's existing requires this changing, so removing it removes that competency. That connection remains an offering; R10's observable-existing concern is retained whole above.
@@ -505,8 +527,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · hard problems and scientific accounting | The paired induction entries keep a hypothesis existing now, its named unobserved subject and the self's next offering at their own places. The field's all-cases warrant and natural resolving retain their different subjects. |
 | Gathered · natural intelligence at the coupling | Existing machine offerings, accounts and procedures are joined to competency at the living coupling and the inward/outward carrying. The no-other-intelligence claim keeps its dependency on no other method of discovering next. Controlling is gathered at its actual couplings; the description of it as a second existing method is corrected in the aimed writing. |
 | Gathered · carrying resolving through prior, now and next | The user's correction removes the implication that prior is carried untouched. Carrying places no hold on itself staying unchanged. The self/other and intelligence insertlets and equilibrium connection follow it. |
-| Now · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
-| Next · the early no-other-method deriving | Follow Co-Chaining Logic Registry 51–57's “carrying the prior whole” through the actual prior/now relation and the self's continuing resolving. Keep the whole relation with each proposed next; do not substitute one chained parity for it or reinstate a fixed-repetition exclusion. |
+| Gathered · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
+| Now · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
+| Next · the form at the living coupling | Follow the form's value at inception or ingesting with the inward selves' co-chaining and outward carrying. Carry that subject distinction into the early no-other-method deriving and the equilibrium claim, without treating the existing non-living form as unchanging living competency. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
