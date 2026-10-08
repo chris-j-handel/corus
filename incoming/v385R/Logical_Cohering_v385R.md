@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows one further coupling through ONE's three-selves relation, section 66.** B sharing no changing can be followed by C changing; B changing can be followed by C sharing no changing. Each self resolves with its own carrying, and the two complete results at C remain distinct in the published comparison. A recurring parity can follow intervening changings. The passage supplies a concrete place to examine the proposed slip without labelling either ordinary case damage.
+**The current work follows the spreading surface and its resolving through bi-tunneling, section 67.** The user's new offering distinguishes a spreading swath of incompetencing that resolves when the colliding pattern is not repeating from spreading death when it is repeating. Bi-tunneling now names the surface's restoring relation. The next concern is whether non-restoring damage can continue the colliding pattern at further couplings after colliding at the first place no longer repeats.
 
-**The path and progress.** Sections 44–65 gather carrying resolving, the proposed slip and restoring/cascading, whole 1–17 loopings and the society/member changing distinction. Section 66 follows one further coupling with ONE's complete published cases and locates a recurring parity within actual changing. Next identify the slip's changed relation in the paired loopings, then follow the full podal passage and the local-restoring or non-restoring co-chaining. A's latest confirmed gathering remains through section 63's corrections. The defining-living question remains unresolved.
+**The path and progress.** Sections 44–66 gather carrying resolving, colliding, the proposed slip, restoring/cascading and whole 1–17 loopings, including an actual further coupling. Section 67 joins the new surface offering to Networking's and Naming's bi-tunneling through surrounding living couplings. Next follow the repeating colliding at the affected surface, then its relation to local restoring, spreading death and the whole podal passage. A confirms gathering section 65's society/member correction; section 66 remains developing incoming. A's further seed offering is retained at section 67 with its own subject. The defining-living question remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3261,3 +3261,74 @@ Aimings: THIRTY beside 608 and 623–627 and the restoring cluster; ONE's existi
 No new A or Q return was present at the current PR 128 check. A's latest confirmed gathering remains the correction through section 63, as recorded at section 65. R10's complete defining-living gathering remains unresolved and unchanged.
 
 Direct comparison: ONE's published “Three selves in a line,” surfacing and one-self/one-momentary tables; THIRTY 604–609, 623–627 and 633–636. No resolver is executed, no living carrying is inspected and no injury or clinical outcome is derived from these cases.
+
+## 67. The spreading surface resolving through bi-tunneling
+
+### The user's further offering
+
+> The incompetencing will be a spreading swath of network surface that resolves itself if not repeating colliding pattern. If repeating death on surface spreads. Resolving the surface is bi tunneling
+
+This supplies the named resolving relation at the surface. It advances the earlier offering:
+
+> If it slips some and resolves locally the carrying is restoring. If it is non-restoring damage it will cascade
+
+The new explaining places the swath, repeating colliding and bi-tunneling together:
+
+| Relation offered | Surface relation |
+|---|---|
+| Incompetencing spreads and the colliding pattern is not repeating | The network surface resolves through bi-tunneling |
+| The colliding pattern is repeating | Death on the surface spreads |
+
+The swath of incompetencing is not thereby wholly dead at its first spreading. The offering distinguishes its resolving from the spreading death. Likewise, a particular local death and the wider society ceasing living remain different subjects.
+
+### Where the files already supply the connection
+
+Networking's non-carrying local surface passage follows the living couplings surrounding a missing section. Each remaining self resolves with its own carrying. What releases at one coupling arrives at another through further meetings. Co-chaining along and bi-tunneling across belong to this surrounding living surface.
+
+Naming 5.45 follows the podaling out and back, across and along. Across before and across after a non-living region mend the missing morality at their couplings through society tunnelling. The region itself supplies no resolving; the mending belongs to the surrounding living couplings. THIRTY 448 likewise places social moral competency across at bi-tunneling and along at co-chaining.
+
+These passages supply a route for following the user's surface offering. Where a local region remains non-living, the surrounding living surface can sustain a wider moral relation through its actual couplings. This does not require a former local carrying to return untouched. Nor does it identify the whole spreading swath of incompetencing with an already missing section.
+
+The user's new offering supplies what the earlier stopping-colliding question lacked: the living surface's own bi-tunneling. Section 60's distinction between cessation of colliding and reinstating an untouched prior remains useful, but it must not be turned into another unanswered request to name the restoring relation. That relation is now offered.
+
+### Keeping the whole resolving together
+
+The swath is a relation across a network surface, with further changing through actual couplings. A changing of the society does not give every member the same changing at once. Section 65's correction stays with this spreading.
+
+Each self is carrying from prior into now and continues carrying through now and next. The surface's resolving belongs within the morality and competency loopings: 1–9 is one 4-cycling, with their full expression at ONE's 1–17 stable forms. The new surface offering does not require us to isolate three operations before following that whole relation.
+
+Section 66's ordinary further coupling remains useful here. A recurring parity, a changing-that-is-not, or a recurring podaling sequence does not alone identify the repeating colliding in this offering. Those can occur through ordinary resolving. The stable emanation may itself change at its collidings, as section 52 already retains; repeating a colliding pattern need not mean one unchanged sign arriving again.
+
+The exact correspondence between the proposed three-right-spiral full-momentary slip and the changed relation in the whole loopings remains available for further explaining. It does not prevent us from gathering the new surface-level relation now.
+
+### One concern to follow: where the colliding keeps repeating
+
+The earlier offering says non-restoring damage cascades. The new offering says the surface resolves if the colliding pattern is not repeating. Their co-chaining depends on where that repeating is.
+
+**When the first colliding no longer repeats, can non-restoring damage already at the surface continue the colliding pattern at further couplings?**
+
+If it can, ending repeated colliding at the first place and ending the repeating pattern across the affected surface are different relations. The surface could still be meeting repeating colliding through the onward cascade. If it cannot, we need to follow how the earlier non-restoring cascade relates to the newly offered resolving surface.
+
+This is a question about the actual onward relation, not a proposed answer that all damaged living selves become colliding stable forms. It adds no count of repetitions, common clock or threshold. It asks what meets the further coupling while the surface is bi-tunneling.
+
+Next follow this one relation: colliding at the first place, what is offered at the further coupling, and that surface's continuing bi-tunneling. Then carry the explaining into the local restoring and spreading-death distinction, and through the full podal passage.
+
+### A's further seed offering, kept with its own subject
+
+A's [new return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6070645293) brings this further user explaining, retained whole at the [Biology offering mate](https://github.com/chris-j-handel/corus/blob/6cd8772fa4bd119f567b0efaf150836413f27c68/carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-seed-dormant-carrying-and-society-tunnelling-parity-changing--v385a):
+
+> The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing
+
+This advances A's seed question beyond section 65's conditional distinctions. Keep conception of bi inversioning coupling itself, dormant carrying, stable forming shards and society tunnelling parity changing together. The arrested-egg comparison and seed geometry retain their own questions.
+
+Society tunnelling is a useful shared connection with the present surface work. The shared naming does not by itself make conception, dormant carrying and restoring an existing living surface one identical case. Each keeps its self, scale and actual couplings. R10's whole defining-living gathering remains unresolved.
+
+### Progress and onward aiming
+
+The restoring relation is now named at the network surface's bi-tunneling. The developing concern moves from asking what restores to following where the colliding pattern keeps repeating, alongside the earlier non-restoring cascade. The complete user offering and its source connections stay in this one accumulating v385R report.
+
+A confirms gathering section 65's correction that society changing does not mean every member changing at once, with particular direction toward Biology 7.7. A has read section 66 and retains the next-coupling comparison as developing incoming. The seed offering above is A's further value, read directly from its receiving mate.
+
+Aim this surface relation toward THIRTY's restoring and social moral competency passages, Networking, Naming, Natural Intelligence and the existing sequential-colliding gathering. Q's finite reported arrangements remain comparisons; they do not establish this living surface claim. No additional execution is needed for this pass.
+
+Direct comparison: Networking's non-carrying local surface passage; Naming 5.45; THIRTY 399–414 and 448; ONE's whole stable forms and three-selves relation; this report's sections 52–66; A's Biology offering at 6cd8772f. The surface mechanism remains an offered relation being followed, rather than an independently established biological result.
