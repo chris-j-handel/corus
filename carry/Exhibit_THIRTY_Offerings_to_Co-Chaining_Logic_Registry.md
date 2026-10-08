@@ -12,11 +12,8 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v385A
 
 ## The set and the offered fractal connection · v385A
 
-**Droplet · The early set saying beside its offered parity connection.** [R section 34](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#34-the-thing-existing-as-a-set-and-the-two-over-one-fractal-relation) and [return 6050250001](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) preserve the user's exact offering:
+**Droplet.** Follow the offered two-over-one betweening and parity-offset relation at the actual set construction. Calling a gathering a set and the withdrawn negation supply no completed resolution of the self-inclusion concern. The [whole set offering and the self-inclusion concern](Offerings_to_Natural_Intelligence.md#the-set-and-the-offered-fractal-connection--v385a) are at Natural Intelligence. Dissolve any exclusion resting on “nothing is beside all existing things” here. Each inward self and outward society retain their subjects and scales; the defining-living gathering remains unresolved.
 
-> a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method
-
-Outside is outside the self, both inside the tunnel and outside the tunnel. The earlier “outward participation” interpretation and its question are withdrawn. The offered set, two-over-one and parity-offset relation above remains for the particular explaining at Natural Intelligence, Natural Naming and Co-Chaining Logic Registry. The negation “nothing is beside all existing things” supplies no condition for excluding an observing or offering. The later working of these living subjects removes that negation and the exclusions dependent on it; session v385A gathers this correcting without replacing its own living files. Each inward self's own prior and the society's outward carrying must retain their subjects and scale. The distinct defining-living gathering remains whole and unresolved. — v385A
 
 ## Current correcting: offered explaining and no authority · v385A
 
@@ -222,7 +219,7 @@ Natural Health 3.2 offers nested inward crossings with the living relation at th
 
 Keep Health's carried-whole, re-locking and attentioning wording beside the current carrying resolving from prior through now and next, without a hold on unchanged carrying. Keep its “ingression” distinct from the set's “nothing ingressing” naming concern. Medicine's ratios, counts and dose comparisons supply no equivalence to parity or to same unrelationing shape. The smaller-societies omega saying remains without an invented molecular assignment. The clinical and biological comparisons retain their actual proposed conditions; neither these passages nor their file locations certify the particular clinical claims.
 
-At the across/along society explaining, the [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) names bi tunneling as the resolving relation. The remaining question follows the colliding pattern at further couplings after the first colliding stops repeating, with the full-momentary slip still to locate through the whole loopings.
+At the across/along society explaining, the [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) names bi tunneling as the resolving relation. The later correcting withdraws the proposed onward-colliding mechanism. Follow the remaining gap between particular coupling restoring at 411–412 and the whole-surface healing claim, keeping the hole and surrounding couplings explicit. The full-momentary slip still needs its correspondence through the whole loopings.
 
 ## Overlapping public parity pairs and the living subject · v385A
 
@@ -253,3 +250,7 @@ The [enumeration treating forms alike](Exhibit_FOUR_Offerings_to_Natural_Mathema
 ## Recognizing living and the prior-living relation · v385A
 
 **Droplet.** In the defining-living deriving, keep the proposed recognition of living separate from assuming the alternating whose absence would oppose the claim. At the laboratory comparison, name what enters the made thing as prior living; the existence of its living makers elsewhere does not itself explain that relation. The full [comparison and unresolved concern](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#recognizing-living-without-making-the-break-unavailable--v385a) is at Natural Biology. This extends the existing defining-living gathering with the particular older incoming.
+
+## The origin and possible break at this subject · v385A
+
+**Droplet.** In the deriving of no other method of possibling next existing, retain the complete unresolved universal relation. Set changing supplies no inference that every existing member changes at each momentary. Dissolve exclusions from “nothing is beside all existing things”; the two-parity heart example alone supplies no universal derivation. The [full explaining](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) is at Natural Intelligence.

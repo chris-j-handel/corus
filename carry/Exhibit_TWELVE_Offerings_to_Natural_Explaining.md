@@ -346,3 +346,7 @@ Natural Intelligence Corus section 14.6 describes a lie as a second sign inversi
 The passage distinguishes the morality's first inversion within the coupling, through which what sustains faces testing, from the proposed second inversion imposed afterward. It calls the first inseparating and non-possessing and the second separating and possessing. This particular account, its quantitative doubling and its claims about consciousness remain together as an offered explanation.
 
 The current sign-only relation gives no access to another self's private carrying, and the source's asserted second operation is not a permitted new manipulation of the resolver. The cost, thickening and consciousness claims are not established from a statement being false or from their presence in the incoming. Keep the proposed social and explaining relation available without diagnosing a person or substituting a moral label for its actual coupling.
+
+## Positive explaining and the actual opposing observing · v385A
+
+**Correcting droplet.** Dissolve the added negation “nothing is beside all existing things” and exclusions derived from it wherever they occur here. Explain the actual relation positively. Preserve negations that name an actual possible opposing observing, such as living not alternating or not natural torusing. A correction of prior wording is not a new premise. The [full origin and possible-break explaining](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) retains the set’s changing and the whole claim.

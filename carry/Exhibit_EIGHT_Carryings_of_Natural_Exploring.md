@@ -40,3 +40,7 @@ Further places named without a completed looking are frog embryos' first divisio
 **Released readings and records naming this file, at the archive.** `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_EIGHT_Natural_Exploring_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Sunflower forms and the possible breaking observing · v385A
+
+The reported sunflower collection comprises 768 spiral families: about 74 percent Fibonacci, about nine percent a related sequence, and the remainder neither, including 77 and a head too disordered to count. Retain these reported conditions. Golden relationals visible in stable forms are not a test of natural torusing, and these counts alone supply no method-breaking verdict. The proposed opposing observing remains living competency without alternating or natural torusing beneath it, with its recognition independent of assuming that alternating. The [complete origin and possible-break droplet](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) keeps the claim’s actual reach.

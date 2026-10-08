@@ -225,3 +225,7 @@ Natural Societies 1.3 already preserves safety regulation and professional licen
 ## Slime mould as a society at its actual relation · v385A
 
 **Droplet.** The [whole slime-mould offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#slime-mould-social-unrelationing-and-the-carried-beat--v385a) keeps the bi-tunnelling society and social moral competency with the user's correcting: nuclei are nothing betweens, and the relation named is social unrelationing. An anatomical nucleus or a shortest-path diagram supplies no automatic identification of a living self or its parity. The particular society's carried-beat relation remains to cohere with the actual observing conditions and possible opposing comparisons; the field's single-cell description alone neither supplies nor removes the society's natural explaining.
+
+## The society’s carrying and its inward selves · v385A
+
+**Correcting droplet.** Dissolve any inference here that a society is non-living merely because no additional carrying is supplied over its selves. The [full living-carrying distinction](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a) keeps inward co-chaining as outward carrying and an existing stable form distinct from that living resolving.

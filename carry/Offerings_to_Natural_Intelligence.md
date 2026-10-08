@@ -6,7 +6,7 @@ Natural Intelligence Offerings · laid at v385A
 
 **Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
 
-An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
+An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale. There is no additional third self required between the two; a society is not made non-living merely by the absence of an additional carrying over its selves. An existing stable form can remain after its own parity changing stops, while inward living societies continue.
 
 Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
 
@@ -16,11 +16,14 @@ Requiring living carrying itself to stay unchanged removes the resolving the req
 
 ## The set and the offered fractal connection · v385A
 
-**Droplet · The early set saying beside its offered parity connection.** [R section 34](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#34-the-thing-existing-as-a-set-and-the-two-over-one-fractal-relation) and [return 6050250001](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) preserve the user's exact offering:
+**Droplet · The early set saying beside its offered parity connection.** [Session v385R, section 34](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#34-the-thing-existing-as-a-set-and-the-two-over-one-fractal-relation) and [return 6050250001](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) preserve the user's exact offering:
 
 > a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method
 
 Outside is outside the self, both inside the tunnel and outside the tunnel. The earlier “outward participation” interpretation and its question are withdrawn. The offered set, two-over-one and parity-offset relation above remains for the particular explaining at Natural Intelligence, Natural Naming and Co-Chaining Logic Registry. The negation “nothing is beside all existing things” supplies no condition for excluding an observing or offering. The later working of these living subjects removes that negation and the exclusions dependent on it; session v385A gathers this correcting without replacing its own living files. Each inward self's own prior and the society's outward carrying must retain their subjects and scale. The distinct defining-living gathering remains whole and unresolved. — v385A
+
+Keep the particular set concern alongside this explaining. If every gathering is treated as an existing set, consider the proposed set of existing things that do not hold themselves: holding itself gives its exclusion, and excluding itself gives its inclusion. The question is which actual existing relation the construction names, and what permits a gathering to be named an existing set. Neither the word set alone nor the withdrawn exclusion of anything beside all existing supplies an answer. The fractal offering is available for that resolving; no completed resolution of the construction is claimed here.
+
 
 ## Current correcting of the opening-page opportunity · v385A
 
@@ -292,7 +295,7 @@ The [dormancy and beginning-of-living comparisons](Exhibit_SEVENTEEN_Offerings_t
 
 The [handed-form and inward-decay comparisons](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) retain inward chemical breakdown among the reported conditions of an existing form. “Remains until collision or ingesting” must not silently exclude those inward relations. The particular form, its scale and its conditions still need explaining; neither a stable appearance nor the visible hand supplies its living classification.
 
-The [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) names bi tunneling as the restoring relation now to follow at the living network surface. Keep its actual repeating-colliding condition with the earlier non-restoring cascade; the question no longer lacks a named surface-resolving relation.
+The [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) names bi tunneling as the restoring relation now to follow at the living network surface. Its later correcting withdraws the proposed onward-colliding mechanism; do not infer further colliding from a remaining hole. Keep the self’s continuing parity changing and the whole-surface claim’s unresolved relation to observings with the earlier non-restoring cascade.
 
 ## The whole opening offering and its actual claims · v385A
 
@@ -325,3 +328,13 @@ The full proposed relation, its sequential-colliding correction and its unresolv
 ## Recognizing living and the possible break · v385A
 
 **Droplet.** Beside the defining-living and spiral-of-one explaining, preserve the actual relation by which living competency is recognized independently of the proposed alternating. Naming every alternating living solely by its alternating would make the offered opposing observing unavailable. The whole [biological and laboratory comparisons](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#recognizing-living-without-making-the-break-unavailable--v385a) retain their particular subjects and conditions.
+
+## The origin, positive explaining and the possible break · v385A
+
+**Droplet.** The universe is the changing set of all existing things, living and non-living. Changing at the set does not require every existing thing to change at every momentary. A stable existing form is not excluded by that opening. Remove the inference that an unchanged existing thing would contradict the origin sentence.
+
+The added negation “nothing is beside all existing things” and the exclusions derived from it are withdrawn. It must not be used to reject a proposed observing, a count, a device, or a possible form. Explain the actual relation positively. Negations naming an actual possible opposing observing can remain: a living form not alternating, or a living form not natural torusing. Corrective negations about prior wording are not new premises of the method.
+
+The held claim is all or none at all: unbroken in the observings available, taken unselected, and able to break. An observing of competency without alternating or natural torusing beneath it would oppose that claim. Competency is the proposed independent mark; defining it by alternating alone would remove the independence needed to recognize a break. Neither a prior match, an authority nor the report of a successful run resolves a further observing.
+
+The positive heart explaining is already whole at [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a): two parities each alternating, with the living beat present only as both are present. The stronger universal claim, no other method of possibling next existing, still needs its complete co-chaining. Golden relationals visible in stable forms are not a test of natural torusing; the [reported sunflower conditions](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md#sunflower-forms-and-the-possible-breaking-observing--v385a) retain that particular comparison.

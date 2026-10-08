@@ -24,11 +24,8 @@ At the [handed-form comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.m
 
 ## The set and the offered fractal connection · v385A
 
-**Droplet · The early set saying beside its offered parity connection.** [R section 34](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#34-the-thing-existing-as-a-set-and-the-two-over-one-fractal-relation) and [return 6050250001](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) preserve the user's exact offering:
+**Droplet.** Keep a set, the thing existing as a set and outside the self at their actual subjects. Outside includes both inside and outside the tunnel. The withdrawn “outward participation” interpretation supplies no further question. The [whole set offering and the self-inclusion concern](Offerings_to_Natural_Intelligence.md#the-set-and-the-offered-fractal-connection--v385a) are at Natural Intelligence. Dissolve any exclusion resting on “nothing is beside all existing things” here. Each inward self and outward society retain their subjects and scales; the defining-living gathering remains unresolved.
 
-> a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method
-
-Outside is outside the self, both inside the tunnel and outside the tunnel. The earlier “outward participation” interpretation and its question are withdrawn. The offered set, two-over-one and parity-offset relation above remains for the particular explaining at Natural Intelligence, Natural Naming and Co-Chaining Logic Registry. The negation “nothing is beside all existing things” supplies no condition for excluding an observing or offering. The later working of these living subjects removes that negation and the exclusions dependent on it; session v385A gathers this correcting without replacing its own living files. Each inward self's own prior and the society's outward carrying must retain their subjects and scale. The distinct defining-living gathering remains whole and unresolved. — v385A
 
 ## Current correcting: offered explaining and no authority · v385A
 
@@ -512,7 +509,7 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 
 The non-living stable form can change at each colliding and otherwise has its last-colliding parity. Do not hold its form or arriving parity identical at every further encounter merely because it is named stable. Its successive encounters do not assign it its own living carrying. First-inward-society ingesting, the same-scale reference, entering from above and birthing within retain their particular subjects. Natural Biology 7.4's inward living with ceased outward coupling, 3.3/7.6's proposed same-scale returning and 7.7's stopped crossing locate further comparisons; their exact sequential relation remains to be supplied. The local public tables alone neither prove nor disprove this proposed breaking. No biological classification, clinical result or private-carrying inspection follows from the gathering.
 
-At Natural Naming 5.45, the [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) follows society tunnelling through the surrounding living couplings. Keep the incompetencing swath, the non-living region and the wider society at their actual subjects; the seed’s conception and dormant carrying are a related naming at a distinct coupling.
+At Natural Naming 5.45, the [further surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) follows society tunnelling through the surrounding living couplings. The further correcting names the remaining hole as society tunneling; do not name that hole itself as continuing colliding. Keep the incompetencing swath, the non-living region and the wider society at their actual subjects; the seed’s conception and dormant carrying are a related naming at a distinct coupling.
 
 ## Overlapping public parity pairs and the living subject · v385A
 
@@ -523,3 +520,7 @@ The full proposed relation, its sequential-colliding correction and its unresolv
 ## Clock and control at the heart observing · v385A
 
 **Correcting droplet.** At the heart example, distinguish the field’s naming of two clocks or one system controlling another from the actual observing. The complete alternating relations are offered at [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a); the proposed relation named controlling is offered at [Natural Engineering](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#controlling-and-the-hard-problem-made-by-engineering--v385a). Neither name alone supplies its natural relation.
+
+## The origin and possible break at this subject · v385A
+
+**Droplet.** At the names existing, changing and living, keep changing at the set distinct from every member changing at each momentary. Dissolve exclusions from “nothing is beside all existing things”; retain the names of actual possible opposing observings. The [full explaining](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) is at Natural Intelligence.
