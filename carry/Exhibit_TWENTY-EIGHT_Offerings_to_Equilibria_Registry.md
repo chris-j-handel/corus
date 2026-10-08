@@ -604,6 +604,10 @@ The later correcting identifies an existing non-living stable form as a possible
 
 The connected question is how the offered form meets the inward selves' own bi-coupling so its value can be ingested there. An inversion account and the naming of an inward scale are available explaining; their names alone do not establish the whole relation. This remains an actual concern beside the seed/oil comparison, available for further explaining when local cohering begins.
 
+The later ingesting explaining supplies the place asked for above: the ingesting self's first inward living society, living as that self surfacing, with inward co-chaining as outward carrying. Same parity is offered as the same unrelationing shape. This does not identify ingesting and emanating selves' scales, assign a molecular meaning to omega or settle the seed/oil delivery claims. The earlier locating question now carries this further explaining rather than asking for it again.
+
+The later harm identifying concerns same-scale stable form from prior living, bi-tri-involution, entering from above into a living self's surface-level society. Its claimed harm remains at that condition, distinct from birthing from within and the first inward society's ingesting. The seed/oil example is not classified from these names; the actual delivery and coupling relation remains with its proposed claims.
+
 ## Locating as an entry expression · v385A
 
 Natural Intelligence Corus Part ONE presents locating as the second consecutive equilibrium: the relationship at rest. Once things are read at rest, a fixed one-way relation is read between them. Force and attraction are described as “this pushes that” and “this draws that” by a constant. Locating fixes a thing's place in a settled relational frame. The offered living relation carries a bounded zero where the constant is read, and its ratio floats.

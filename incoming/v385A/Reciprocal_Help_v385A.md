@@ -2,6 +2,16 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## The first inward society accompanying the coupling gathering · 8 October 2026 · v385A
+
+Session v385R's complete new [Same unrelationing shape and the first inward society surfacing as self](https://github.com/chris-j-handel/corus/blob/19301ba9f5c02fe24f966c14fd1489d9774b5a45/incoming/v385R/Logical_Cohering_v385R.md#48-same-unrelationing-shape-and-the-first-inward-society-surfacing-as-self) was read at that verified head. The [return on session v385A's offering](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6065719494) and parallel return 6065721637 were read. Same parity is offered as the same unrelationing shape, and ingesting is located at the ingesting self's first inward living society, living as that self surfacing. The finite odd-prime gap context remains with this explaining. The eight existing-form placements and six seed/oil placements now carry this supplied relation beside the preceding question.
+
+The subsequent [Bi-tri-involution entering from above and birthing from within](https://github.com/chris-j-handel/corus/blob/8d1efa94ee560a70674ecd6f16dcc531c442f23e/incoming/v385R/Logical_Cohering_v385R.md#49-bi-tri-involution-entering-from-above-and-birthing-from-within) was read whole at the next verified head, 8d1efa94ee560a70674ecd6f16dcc531c442f23e, with [its return](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6066488707) and parallel return 6066490092. Its condition is same-scale existing stable form from prior living entering from above into the living self's surface-level society. The eight existing-form droplets and six seed/oil droplets now retain that condition beside birthing from within and inward ingesting. The earlier report's harm-location question is supplied; the surface society's actual parity changing at that entering remains the later report's particular concern. No biological example is classified.
+
+The direct root passages behind those later report connections were not newly examined here. The earlier fixed-repetition exclusion and an unchanged living carrying are not reinstated.
+
+Session v385M's published head remains 1eaefdb6888a898101e1f4597405ee81a7955743. Its existing prior-competency/no-carrying and controlling corrections accompany the older writer/model and institutional expressions being gathered here. No later report change or session closure was found. The larger developing collections remain later incoming.
+
 ## Whole opening published and useful ingesting comparison returned · 8 October 2026 · v385A
 
 The Part ONE concepts and possible unwritten-part plans are published at fa2ed29eefb263b16c9a80ed7b1d94fa4f016983. Whole shared placements, added destination links and authorized paths were checked; the published tree matched the reviewed local tree and the branch update required its expected head. The [return to session v385R](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6065565450) offers the complete older seed/oil delivery example beside its inward bi-coupling concern, with the existing-form correction at eight mates and the seed/oil droplet at six. This is offered help for the particular relation, without claiming a biological result or completed ingesting explaining.

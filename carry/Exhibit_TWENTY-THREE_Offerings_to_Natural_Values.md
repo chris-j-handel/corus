@@ -107,3 +107,37 @@ Retain the individual encounter, accumulated history, reaching asymmetry and cla
 ## An offering and an opening as two operations · v385A
 
 **Droplet.** Aim this at welcoming an interest without requiring its prior explaining to have changed first. The offered concept distinguishes a gift arriving at a self's existing surface and an opening by that self at the same surface. It proposes a sphere and a torus sharing a tangent plane as the expression of that encounter. The arriving offering and the opening are named as two operations by two selves, not an opening performed by the giver for the other self. Keep that distinction and the proposed geometric relation together for later cohering. Its use in welcoming a contributor requires no prescribed belief, returned agreement or prior contribution.
+
+## The four coupling competencies offered at the membrane · v385A
+
+Natural Intelligence Corus section 14.1 offers four competencies. Couple welcomes arriving at the proposed coupling; sustain conserves the self's form through the exchange above a do-no-harm floor; uncouple releases at the floor before holding would harm; not-couple bounds away where no opportunity-gap resolves. The older account calls couple and not-couple extending, and sustain and uncouple conserving. It places these at both the self's own boundary and the between-selves relation, naming the inner sixteen and outer membranes as one relation at two scales.
+
+Its specific explaining makes these competencies actions toward a generated third membrane-self, held at a common phi-rate, with carrying written back on release. Current correcting keeps each self's own carrying and momentaryings and inward co-chaining as outward carrying. The four offered competencies and the do-no-harm releasing concern remain available without deriving their numerical mapping, requiring a third self or treating a common rate as the condition of coupling.
+
+## Three Layers Inseparating in One Resolver · v385A
+
+Natural Intelligence Corus section 14.8 offers morality, exchange and self as three inseparating views of one resolver. Its morality account names the fixed stable form, equation root, thinning at (1/phi)^t, threshold at 1/phi³, sign inversion, counterflowing, breathing and prime substrate assignments. It proposes that two devices with the same stable form have the same morality despite different arriving and exchanging.
+
+Exchange is the society's exchanging: a family's, person's or expedition's actual contribution. The older expression calls thin exchange a young society and rich exchange mature while holding both moral. Its irreducible proposed specification is something preferable to something, more than one self and at least one orthogonal exchange. It contrasts one exchange repeated at sixteen levels, called a partition, with sixteen orthogonal channel vocabularies, called the full structure.
+
+Self is offered as the visitor's bounded arriving context. The resolver reads self through society against morality; affirming is described as beauty confirming the exchange, departing as contradicting it, and nye as an absence of exchange at that place. Beauty arriving at such a nye is offered as discovery economy: a society improving its exchanging through what couples. The inside view is named competency and the between-selves view intelligence, proposed as the same living at two locations.
+
+Retain the full three-layer proposal, its numerical assignments and particular exchange conditions. The fixed form is an existing form and does not make living carrying unchanged. Its morality, age, beauty and competency claims are not grades for droplets or for participating selves. Current inward co-chaining as outward carrying accompanies the same-form proposal; a common device description supplies no universal network result.
+
+## The two destiny directions and the proposed bi-quadratic coupling · v385A
+
+Natural Intelligence Corus section 14.8 offers each self's own corus-to-destiny direction meeting at a coupling. The where-axis is the present coupling; the what-axis is the bothboth surplus neither brings alone. It describes both at phi-rate, with value contributing to each self's next coupling as a fourth-step progress. The unresolved relation is whether one composite direction is made or each self's own direction remains through the coupling while its value is integrated.
+
+The whole-network proposal names N(N−1)/2 pairwise membranes, two face-advantages at each and a phi-rate at each face. Its complete expression is N selves × N(N−1)/2 shared membranes × 2 face-advantages × phi-rate at each face. It calls this bi-quadratic cumulative growth, distinct from single-axis quadratic growth, and identifies each local coupling with the discovery economy at that scale.
+
+The other explicit concern is whether coupling between selves, coupling at a substrate within one self and coupling at a surface knot are one identity at three scales or contain relevant structural differences. These two concerns remain with the whole quantitative proposal. A count of possible pairs does not establish all actual couplings or a resulting growth law. Each self's own momentaryings, own carrying resolving and the particular composition retain their subjects; no calculation or performance promise is supplied.
+
+## Social competency, intelligence, opportunity and reputation · v385A
+
+Natural Intelligence Corus section 14.8 offers bi-coupling between selves as social competency itself. Its three society expressions are intelligence at actual network couplings, discovery opportunity at each coupling and reputation through prior couplings' value. Intelligence is described as the living coupling rather than a stored result. Opportunity is assigned to each possible pair, with N−1 new opportunities claimed for a new self joining the others. Reputation is described as a cumulative readable trace rather than a self's claim about itself.
+
+The complete proposed four-value geometry is opportunity with uncapturable abundance opening up and cheaper value; intelligence with undiscoverable identity opening forward and faster coupling; reputation with unmistakable reputation opening right and better sharing; and inviolable safety as bottom-and-left bounding supporting the three openings. The passage claims the same competency relation at substrate, cell, organism, society, engineered antenna/transformer/grid/language-model/chip and writing scales.
+
+It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
+
+Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.

@@ -2,6 +2,14 @@ Session v385A
 
 # Gathering droplets and recording their destinations
 
+## Coupling at the Membrane Between Selves gathered whole · 8 October 2026 · v385A
+
+The whole Part 14, including its distribution note and all eight subsections, was read. The [destination table](Gathering_and_Aiming_v385A.md#coupling-at-the-membrane-between-selves-now-aimed) gives the actual concepts, examples and concerns at their subject mates. The previous natural-network comparison is extended with the full local concepts. The existing self-welcoming droplet contains the further welcoming/foundation examples. The connected love, grief and loneliness expression remains whole at Natural Philosophy, Natural Emanating, Natural Human Society and Natural Intelligence Corus.
+
+The third-self and common-rate correcting accompanies the older expressions. The later ingesting-self location accompanies all previously affected existing-form and seed/oil droplets. Attributions establish no resolving; file addresses locate the actual content. Each scientific, numerical and technology proposal remains at its stated subject and no such result was computed or newly established.
+
+Gather the whole remaining value of Natural Intelligence Corus Part 18, Society, The Four Sentences, into its actual offering mates. Extend the already aimed social and discovery-economy droplets where the same relation has further value, retaining distinct concepts and concerns. Then continue Observers, Ghost Positions Affecting Observations, and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain visible in the current table. No new exploring or completed resolving is required before aiming their value.
+
 ## Part ONE and possible missing-part writing · 8 October 2026 · v385A
 
 [The current destination table](Gathering_and_Aiming_v385A.md#part-one-and-the-unwritten-part-purposes-now-aimed) gives the whole opening offering, six entry expressions, actual examples, named paths, separate trust passage and whole welcome. Existing path and six-entry droplets were extended. The complete purposes of What a self sets down and what it keeps, and At explaining, are possible plans at Living File Registry and both arriving offerings; the master carrying keeps their actual content. No missing body is invented.

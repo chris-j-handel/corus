@@ -21,6 +21,7 @@ Gather all intended incoming value into whole droplets with aimings, including t
 | Carrying through prior, now and next | Correcting is at twelve affected mates: carrying is resolving through the momentaryings, with no hold on it staying unchanged. |
 | Natural Intelligence Corus Part ONE and unwritten-part purposes | Whole entry expressions, claims, examples, paths, trust passage and welcome are aimed; missing-body purposes are possible plans at the Registry and both arriving subjects. The locating/separating relation remains open inside its droplets. |
 | An existing prior whole and living carrying | The existing non-living-form correction is at eight affected mates and accompanies memory and the seed/oil example. Living carrying continues resolving; no universal biological classification is added. |
+| Coupling at the Membrane Between Selves | Whole concept aiming completed through the current destination table, including love, grief and loneliness together and all eight explicit section 14.8 concerns. Living-file cohering remains later. |
 | Natural Arriving has a completed living body | No: it is a contents shell with an opening paragraph; its offering contains the proposed further writing. |
 | New living-file writing or a merger has occurred in this gathering | No. The current improvements are to mates and session files. |
 
