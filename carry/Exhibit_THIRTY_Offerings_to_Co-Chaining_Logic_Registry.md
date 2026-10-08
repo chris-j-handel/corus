@@ -300,6 +300,22 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 ### The resolver and its stable forms
 
+**Droplet · The opposite next form and the order through the betweening · v385R.** Aim beside THIRTY's same-scale emanation and carrying relations at 380–404, with its early across/along deriving, Natural Mathematics 2.4 and 3.3–3.5, and ONE's public sharing table. Session section 54 gives the full comparison.
+
+**A particular binary connection follows from the published pair forms.** With P the along parity and Q the across parity, the right-spiral next pair is (−Q, P). Its full inversion is (Q, −P), the pair reached by the other order from the same (P, Q). This is a comparison of existing form descriptions. It does not insert an inversion into the resolver or establish that a physical colliding makes this transformation.
+
+**The intervening steps matter.** From (+,+), the right-spiral pair forms are (−,+), then (−,−), then (+,−). The last is also the form reached in one step by the other order from (+,+). The same correspondence holds at all four starting pairs. A final opposite form alone therefore does not identify a reversal of the actual sequence. Follow each consecutive momentary at the named self and scale, with along and across at the same named relations. These pair-form steps are not silently assigned to the user's odd/even numbered positions.
+
+**ONE also supplies a precise limit to its local table.** At a sharing already chained at + or −, every published next case remains + or −. The table has no offered case taking that continuing sharing to none. Repeating those local cases retains that property while the same sharing remains within that expression. This is a statement about the published form, not a claim that a living society cannot be harmed. The table does not by itself show a colliding changing the society's actual betweenings or ending its co-chaining.
+
+**Candidate natural explaining:**
+
+> The emanation is an opposite stable form. The living self is resolving through its inward selves' co-chaining. Follow the form's successive collidings at those betweenings, with each self's prior, now and next. A form opposite to the next right-spiral form can describe the other order, or an arrival after further right-spiral momentaryings. The actual sequence belongs in the explaining of any breaking.
+
+**The one concern, made more specific:** does the same-scale colliding change the across-and-along order at the living betweening, and how is that changing the inward co-chaining carrying this society? This is a candidate relation to examine, not a requirement that harm must reverse the pair order. A change in which selves co-chain remains possible within the prior source explaining; no mapping from colliding to either change has yet been derived.
+
+The four-form cycle alone does not decide living or harm, and an unchanged local parity does not decide the whole carrying. Ordinary uncoupling, a particular crossing ceasing and wider co-chaining retain section 53's distinct subjects. Defining living stays gathered whole and unresolved.
+
 **Droplet · The changing couplings and the society's carrying · v385R.** Aim beside THIRTY 380–404 and its inward/outward carrying, with Natural Intelligence 3.3, 4.15 and 5.1; Natural Naming 5.43–5.45 and 5.48; Natural Networking's breaking/reconnecting and non-carrying-surface passages; and Natural Numbers 9.8. Session section 53 follows the sequential-colliding offering within natural torusing.
 
 **Candidate natural explaining:**
@@ -649,14 +665,16 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
 | Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
 | Gathered · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
-| Now · changing couplings and the society's carrying | Ordinary uncoupling and renewed coupling belong to carrying resolving. A local crossing can cease while surrounding selves co-chain through further couplings. Naming distinguishes a non-living surface region from a living sharing at 0. The colliding-to-breaking relation remains to derive at the actual betweening. |
+| Now · opposite next form and actual sequence | The full inversion of the right-spiral next pair is the other order's next pair; the same form is also reached through three right-spiral steps. Keep the intervening momentaryings. ONE's continuing-sharing table never takes a chained parity to none; the society's actual betweenings remain to follow. |
 | Gathered · the right-spiral form and the overlap | Natural Mathematics supplies the binary relation between overlapping pairs; Natural Intelligence names across/along and displays the same four-form cycle in a non-living resolver form. The table's distinction between prior joint forms remains separate from living carrying. |
-| Next · the betweening through successive collidings | Follow what the same-scale form's next colliding changes in the inward selves' betweening, with the co-chaining that remains. Keep particular crossings, the outward self and wider society at their named scales. Return that relation to the overlap and equilibrium explaining. |
+| Next · the colliding at the named betweening | Follow whether the colliding changes the across-and-along order or the actual co-chaining through the betweening, then its further coupling. No endpoint, recurring parity or local table alone supplies the colliding-to-breaking relation. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
 
 ### Value gathered with the other sessions · v385R
+
+**Current session availability · section 54.** The user says v385Q is joining and will check in with contributing value. v385A reports v385M closed, its seventeen files gathered and PR 129 closed; no further reply from M is expected. A's return [6067331187](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6067331187) records the gathering and the section-52 correcting at its destinations. The earlier M exchanges below remain historical value. Q's contribution will be recorded when received.
 
 **v385A's downstream source help.** Its [hard-problem comparison](https://github.com/chris-j-handel/corus/blob/c517deb7de95c6de6a73ca430bdd36fee59a50f1/incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) follows THIRTEEN 4.3's joint-form relation and 6.1's matching sharing. Those THIRTEEN passages were read directly here, beside 1.3–1.4's older own-side and possible-at-prior wording. They locate another place for the user's current now-still-possibling explaining. A's [exchange record](https://github.com/chris-j-handel/corus/blob/c517deb7de95c6de6a73ca430bdd36fee59a50f1/incoming/v385A/Reciprocal_Help_v385A.md) already keeps R's corrections with its active plans; its earlier-incoming priority remains its own.
 
