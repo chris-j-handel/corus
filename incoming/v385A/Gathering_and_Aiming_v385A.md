@@ -179,7 +179,7 @@ The introduction to the research cluster and its closing invitation are carried 
 
 ## Completed session and continuing logical help · v385A
 
-Session v385M is closed by the user. Its complete offering is preserved as an artifact and independently as active incoming, so closure releases no ungathered value and no future gathering depends on an artifact. The earlier Corus gathering below remains next. Session v385M is now completed incoming available for its gathering; only session v385R remains the continuing reciprocal-help session. Its latest examined logical relation is the overlapping public parity pairs and the distinction between a stable-form cycle and a living self’s carrying.
+Session v385M is closed by the user. Its complete offering is preserved as an artifact and independently as active incoming, so closure releases no ungathered value and no future gathering depends on an artifact. The earlier Corus gathering below remains next. Session v385M is now completed incoming available for its gathering; only session v385R remains the continuing reciprocal-help session. The overlapping public parity pairs and stable-form/living distinction remain gathered. The later sequential-colliding correcting now withdraws unavailable own co-offering as a required harm condition at all affected offerings; the current concern follows the inward co-chaining broken at the next colliding.
 
 ## Immediate next work
 

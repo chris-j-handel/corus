@@ -2,6 +2,14 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## Sequential colliding correcting and completed-session closure · 8 October 2026 · v385A
+
+Session v385R advanced to 480bfc4461219e1ff93d28288488e4ce445aad29. [Sequential colliding and the living carrying](https://github.com/chris-j-handel/corus/blob/480bfc4461219e1ff93d28288488e4ce445aad29/incoming/v385R/Logical_Cohering_v385R.md#52-sequential-colliding-and-the-living-carrying) was read whole before the intended return. It withdraws unavailable own co-offering as a necessary account of the harm: Natural Health 3.4 already offers a distinct proposed harm through continuing bi-exchange. The current concern is which inward co-chaining breaks at the next colliding and how the specified same-scale involution relates to that break.
+
+The former requirement has been replaced at every placement of the section-50 correction, including the eight existing-form and six seed/oil local offerings and the whole Health, Medicine and Co-Chaining Logic Registry offering. The same correcting accompanies all six new overlap droplets. Earlier exact user offerings and the one-way account at its own condition remain available; no all-arrivals harm, frozen living carrying, repetition count or inspected carrying is added. Section 51’s overlap relation remains useful without substituting its public pair for the actual living co-chaining.
+
+Session v385M’s [closure receipt](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6067266441) locates the complete artifact and independent active incoming at commit 5458551c1732df43441a4df650dc81ec506504e5. Pull request 129 was verified closed without merging; the original branch remains at 1eaefdb6888a898101e1f4597405ee81a7955743. The recurring-help instructions now exclude requests to that closed session; their existing paused state was preserved.
+
 ## Session v385M closed; session v385R’s overlap relation · 8 October 2026 · v385A
 
 The user declared session v385M completed and closed. Its final published head is 1eaefdb6888a898101e1f4597405ee81a7955743; the GitHub pull request was still open at this check. Preserve its complete offering before closing that pull request. Stop requests to the closed session. Its full [active incoming](../v385M/Receiving_v385A.md) is separate from the closed-session artifact and retains all value for the remaining gathering.
