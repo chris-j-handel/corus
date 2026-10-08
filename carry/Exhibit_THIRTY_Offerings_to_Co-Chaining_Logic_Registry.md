@@ -296,6 +296,24 @@ An existing non-living whole and an equilibrium's required unchanging social com
 
 The section-45 onward framing is corrected here: do not use “carrying the prior whole” as an unexamined name for the living self's ongoing resolving. The early no-other-method deriving needs the actual subject at each use. Session section 46 preserves this correcting and its full connection to the earlier droplets.
 
+**Droplet · Own co-offering in Natural Health and Natural Medicine · v385R.** Aim at Co-Chaining Logic Registry 380–383, 392–403 and the society's co-chaining; Natural Health 3.2–3.3; and Natural Medicine 1.2, 2.2 and 4.2. Session section 50 gathers the source value the user directed us to.
+
+Natural Health already explains ingesting as the living self's own bi-exchange, both ways and co-offering. Its “ingression” names the larger entering the smaller one way; its distinguishing relation is the smaller's own answering at its own living rate. Natural Medicine 4.2 likewise follows an offering the body takes or does not, with its own answering, beside an imposed driving magnitude. These are the sources' conceptual relations; their clinical examples are not established by locating them.
+
+**Connected explaining to follow:**
+
+> Ingesting is at the inward living selves' own bi-couplings, each carrying and resolving with its own co-offering. Their co-chaining is the outward self's carrying. The source's harmful entering is described where the smaller's own answering is displaced by a one-way relation.
+
+This supplies existing explaining for section 49's question. The possible scale connection is explicit: a form at the outward self's scale can be larger relative to its inward selves. “Same scale” and “larger entering smaller” then name different selves in the same offered chain. Follow the actual form, surface society and inward selves; the two phrases alone do not prove the harm claim.
+
+Natural Medicine 1.2 also describes restoring with a pattern from above, and 2.2 expressly says spanning or skipping an intermediate relation alone carries no morality. Its distinction concerns the actual coupling. These passages keep the user's entering-from-above condition attached to the particular bi-tri-involution and surface society, with birthing within at its own relation. They supply no general claim that above is harmful or within is beneficial.
+
+**The one remaining concern:** which parity relation makes this particular bi-tri-involution entry one-way for the surface society, with its own co-offering unavailable? The Health and Medicine passages now supply the proposed harming relation to compare; they do not yet derive that necessity from the form's name, same parity or scale. No second method of resolving is introduced: the inward selves can remain living at their own couplings while a particular outward society's co-chaining no longer sustains that self.
+
+A sharing with no changing and an odd parity still existing do not by themselves show that a self's own co-offering is unavailable. Section 45's matching case and the user's recurring podaling remain beside this concern.
+
+The older “rate-and-return,” ratio, attentioning and carried-whole phrasings retain their source standing. The current own-momentarying and carrying corrections accompany them; no numerical rate, stored carrying, new omega meaning or unchanged living carrying is installed. Defining living remains gathered and unresolved.
+
 **Droplet · Bi-tri-involution entering from above and birthing from within · v385R.** Aim beside Co-Chaining Logic Registry 380–383, 393–395 and 403; Natural Naming 5.46; Natural Intelligence 5.1; and Natural Biology's inception and emanation explaining. Session section 49 keeps the full offering and onward concern.
 
 **The user's exact offering:**
@@ -310,7 +328,7 @@ The harm saying now carries its condition, entering from above, and its living s
 
 The user's naming here is bi-tri-involution. Earlier source passages use bi-tri-involutioning. Preserve the older source expressions at their source; the present offering uses the user's supplied name. Same unrelationing shape, inward co-chaining as outward carrying and carrying resolving through prior, now and next remain connected. Same shape supplies no hold on carrying staying unchanged.
 
-The source's stopped-crossing and accumulating-form account is available beside this offering. Entering from above has not yet been identified with that account by a followed parity relation. **The one next concern:** what happens to the surface society's own parity changing when this bi-tri-involution enters from above? Follow the actual coupling to connect the named condition to do only harming. No new requirement that recurring forms be impossible is introduced.
+**Further explaining found in Natural Health and Natural Medicine, section 50.** The sources already distinguish the living self's own two-way co-offering from the larger entering the smaller one way, and describe the smaller's own answering as the distinguishing relation. The question now concerns the parity relation that makes this particular bi-tri-involution entry one-way at the surface society. Follow that relation beside the stopped-crossing account. The general question above is not repeated as though the existing Health and Medicine explaining were absent.
 
 **Droplet · Same unrelationing shape and the first inward society surfacing as self · v385R.** Aim beside Co-Chaining Logic Registry 236, 290–292 and 379–383; Natural Naming's society, surfacing and emanation; and Natural Intelligence 5.1. Session section 48 preserves the full offering and its connections.
 
@@ -572,8 +590,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
 | Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
-| Now · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
-| Next · the surface society's parity changing | Follow the actual coupling at entering from above to connect that condition to do only harming. Compare the existing stopped-crossing account at that relation. Then return the connected subjects to the early no-other-method deriving and the equilibrium claim. |
+| Gathered · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
+| Now · Health and Medicine's own-co-offering relation | Health already follows ingesting as the living self's own bi-exchange, and harmful entering as larger-to-smaller one-way overwhelming. Medicine also describes co-offering from above. The actual coupling and the smaller's own answering distinguish the relations. |
+| Next · the parity relation at this entry | Follow why the specified bi-tri-involution entering is one-way for the surface society. The existing source explaining narrows the question; names and scale alone do not settle it. Then return the connected subjects to the early no-other-method deriving and equilibrium claim. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
