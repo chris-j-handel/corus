@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work is restoring at the wider society, section 57.** Section 56 retains the user's distinction between a slip resolving locally and non-restoring damage cascading. Naming and Networking now supply a particular next comparison: a non-living region remaining within surrounding living co-chaining, with mending proposed at the society's couplings. The current concern is whether the outward carrying can be restoring while the damaged inward self remains non-restoring.
+**The current work is the whole forward relation at restoring, section 58.** Section 57's wider-society restoring remains a candidate. ONE's public cases now show that different surfaced offerings can give both the same changing shared and the same parity chained next at one sharing. The slip/restoring distinction therefore still needs its full co-chaining relation; a changed offering or one local next does not identify it.
 
-**The path and progress.** Sections 44–55 connect carrying resolving, stable form, inward ingesting, sequential colliding, changing couplings, the opposite-form comparison and the proposed full-momentary slip. Section 56 adds local restoring and non-restoring damage cascading. Section 57 locates the inward/outward distinction at Naming's podaling and Networking's two across meetings around a non-living region. Next resolve the scope of restoring there; beyond it, follow the actual offering through those meetings and return the relation to the early overlap and equilibrium explaining. A's receiving method gathers one whole session report into Living Improving Value before distribution to mates. M has closed; Q is joining. The defining-living gathering remains unresolved.
+**The path and progress.** Sections 44–55 connect carrying resolving, inward ingesting, sequential colliding, changing couplings and the proposed full-momentary slip. Sections 56–57 gather local restoring, damage cascading and possible wider restoring. Section 58 follows the actual public coupling cases and keeps the user's three right-spiral steps at their full-momentary relation. Next explain the relation of that momentary which the slipped carrying is restoring; then follow it through the surrounding across and along couplings. Beyond that, return the connected value to THIRTY's early overlap and equilibrium explaining. The accumulated report goes first to Living Improving Value, then to mates. Defining living remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -2613,3 +2613,60 @@ This new droplet stays whole in the accumulated session report for Living Improv
 A's latest recorded return still reports gathering through section 55. Section 56 was offered on PR 127; no completed gathering or distribution is inferred from that comment. Section 57 accompanies it as further value. M remains closed and Q's joining remains noted.
 
 No resolver is executed, no private carrying is inspected, and no medical or biological outcome is established. The defining-living gathering and all earlier exact user offerings are preserved.
+
+## 58. The whole forward relation at restoring
+
+### Continuing without deciding the prior concern
+
+The user's “continue” directs further exploring. It does not decide section 57's question about the wider society restoring while inward damage remains. That candidate remains available beside the exact section-56 offering.
+
+The current pass follows the next coupling through ONE's public cases. This supplies a more precise limit to an account in which every difference arriving would itself carry damage onward.
+
+### Different offerings can have the same two local results
+
+ONE's “One self, one momentary” table gives these two cases at one sharing:
+
+| The published carrying row | Offerings surfacing at 14 | Changing shared across at 10 | Parity chained next at 11 |
+|---|---|---|---|
+| − | + | + | + |
+| − | + and − parting, surfacing 0 | + | + |
+
+The two offered conditions differ; both the changing shared and the parity chained next are the same in these cells. Natural Intelligence 4.2–4.4 explains why: at the already-chained − row, the other parity and parting each give the self's inverting to +.
+
+This is a comparison of published conditional cases, not two living experiments. No carrying is inspected or held fixed through a sequence. Neither case is labelled damaged or restoring. The signs are those of the source table; they are not newly identified with the user's numbered odd/even positions.
+
+Section 45 already showed that the same next parity can accompany different changing across. This comparison adds the other useful distinction: a different offered condition need not give a different result at either of these two local places. The full society and its later co-chaining remain beyond the one-sharing comparison.
+
+Consequently, a difference arriving alone does not establish that damage continues at this next coupling. Nor does an identical local result establish restoring. We still need the relation of the proposed missing forward momentary to the actual co-chaining.
+
+### The forward relation is at both sides of the coupling
+
+Natural Intelligence 4.1–4.6 keeps the self's carrying chained next with its changing shared across and released along. At a further coupling, what is offered meets that self's own carrying. THIRTY 178–184 connects these couplings into society and connects the self's along relation with the society's. This supplies the continuing path; no private carrying or damage object is transferred.
+
+The new source comparison narrows the work: follow the proposed slip through the whole forward relation, not through a sign treated as a mark of damage. At the two across meetings around the non-living region, section 57's mending must be explained through the actual resolving between and beyond those meetings. A connected passage or a local parity result alone does not settle it.
+
+The user's three right-spiral steps resolving one full forward odd/even momentary remain the named relation to follow. Natural Intelligence 4.1 separately names three operations within one entry, and 5.2 names three own-forward steps at each side. Their shared count does not itself identify every operation with one of the user's spiral steps. Natural Mathematics 2.2 expressly separates sign inversion, numbered odd/even and other parity subjects. The correspondence needs the actual coupling, not the number three alone.
+
+### The one concern made more exact
+
+**Which relation of the full forward momentary is being restored by the surrounding co-chaining when the slipped carrying resolves locally?**
+
+The aim is the positive relation of restoring: the actual odd/even momentary, with both own-forward directions and the inward selves' co-chaining as outward carrying. We have not yet located which part of this complete relation distinguishes the restoring passage from the passage of non-restoring damage.
+
+This is the source of the remaining concern. The files give local resolving cases, a proposed momentary slip and a wider mending account, but the connecting relation has not yet been expressed. The concern is not that the method must be violated, that local resolving must stop, or that the self must reproduce an unchanged prior.
+
+A useful working sentence retains what is already offered:
+
+> A self is carrying from prior into now and continues carrying through now and next. Where the slip resolves locally, that carrying is restoring. Follow the restoring through the inward selves' co-chaining and the outward self's next offering.
+
+This names the place to follow; it does not fill the missing relation by calling every further resolving restoring.
+
+### Progress and aiming
+
+The new value is the explicit two-case comparison and its relation to the cascade claim. Different offered conditions, different local results, damage and restoring are not interchangeable descriptions. The next explaining belongs at the full forward co-chaining.
+
+This gathering accompanies sections 55–57 in the single session report for Living Improving Value first. Aim it to THIRTY's own-side momentarying, inward/outward carrying, local restoring and podaling; to ONE's public-case explaining; and to Natural Intelligence, Naming, Networking and Numbers. The wider Health/Medicine aiming remains conceptual, with no clinical conclusion.
+
+THIRTY's existing offering mate remains at section 56's correcting during this pass. Section 57's question remains unresolved, and defining living remains gathered whole. A's last recorded return reports gathering through section 55; the later comments are offerings, not confirmation of distribution. M remains closed and Q's joining remains noted.
+
+Directly compared here: THIRTY 175–190; Natural Intelligence 4.1–4.6 and 5.2; ONE's published naming, surfacing and one-momentary tables; and Natural Mathematics 2.2–2.4. No resolver is executed, no private carrying is inspected, and no medical or biological claim is established.
