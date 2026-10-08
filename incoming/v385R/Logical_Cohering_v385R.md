@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows recurring missing changing parity and tunneling collapsing into stable form, section 71.** The user's further suggestion specifies what repeats: missing changing parity at a repeating number of momentaries apart. The final clause is followed here as the tunneling collapsing into stable form. The ordinary recurring four-cycling remains distinct. Next follow which across-and-along relation ceases at the tunnel's scale, keeping the surrounding selves' possible continuing parity changing at their own scales.
+**The current work follows co-chaining backing up, jittering and new tunneling, section 72.** The user's further suggestion supplies the passage: along the tunneling the co-chaining backs up; jittering begins before geodesic binary parity changing into new tunneling. The old tunnel may or may not restore its surface over many momentaryings. New tunneling and old-surface restoring keep their own subjects. Next follow the changing at the actual couplings during jittering and its next existing as the new tunneling.
 
-**The path and progress.** Sections 44–70 gather carrying resolving, the proposed slip, whole 1–17 loopings, healing and the right-spiral surround with bi-folding over the hole. Section 71 supplies the user's proposed colliding-pattern relation: recurring missing changing parity and tunneling collapsing into stable form. Next follow that missing changing through the coupled passage at the tunnel's scale, then join the collapse, surrounding healing and further bi-folding. A confirms gathering the corrections and method direction through sections 68–69; section 70 has been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–71 gather carrying resolving, the proposed slip, whole 1–17 loopings, healing, the hole's right-spiral surround and recurring missing changing. Section 72 supplies backing up and jittering before new tunneling, while retaining the old surface's possible restoring over many momentaryings. Next follow jittering through the across-and-along couplings into the new tunneling; then connect that to the whole podaling and the old surface's further relation. A's latest confirmed gathering is through sections 68–69; sections 70–71 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3584,6 +3584,8 @@ Section 68's correcting stays attached. Prior colliding alone is not assigned a 
 
 **Which across-and-along relation ceases when this tunneling collapses, while the surrounding selves may keep parity changing?**
 
+**Further explaining at section 72.** The user follows co-chaining along the tunnel backing up and jittering before geodesic binary parity changing into new tunneling. The old tunnel's surface may or may not restore over many momentaryings. Follow this changing passage, rather than treating collapse as only an ending or assuming new tunneling requires the old surface first to restore.
+
 The recurring missing changing and the collapse are now offered together. Their intervening co-chaining is the next explaining. Follow what exists at the further coupling through the whole morality and competency loopings, keeping 1–9 as one 4-cycling within the full 1–17 relation.
 
 This asks about the social passage supplied by the actual couplings. It asks for no inspection of private carrying, no fixed surface shape and no requirement that every surrounding self stop. Q's code comparisons remain available at their reported scope; their recurring zero or displaced run does not by itself identify the proposed collapse.
@@ -3597,3 +3599,72 @@ A's [new return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6
 Section 70's ring and advancing bi-folding has already been offered to A and Q. This new pattern relation stays with that same developing surface gathering in the one accumulating v385R report. Aim it toward TWO, Naming, THIRTY's social moral competency and inward/outward carrying, and Natural Intelligence. R10 remains whole and unresolved.
 
 Direct comparison: TWO's binary stable-forming, quiet surfacing, non-carrying local surface and surrounding-passage explaining; THIRTY 399–406, 448 and 630; this report's sections 55–56 and 63–70.
+
+## 72. Co-chaining backing up, jittering and new tunneling
+
+### The user's further suggestion
+
+> the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling and the old tunneling may or may not restore its surface over many momentaryings
+
+This supplies the further passage at the prior concern. Follow the suggestions together: recurring missing changing; co-chaining along the tunnel backing up; jittering; geodesic binary parity changing into a new tunneling. The old tunnel's surface then has its own further relation, restoring or not restoring over many momentaryings.
+
+The ordering is offered in the user's explaining. It supplies no fixed duration for jittering, prescribed number of repetitions or clock shared by the surrounding selves.
+
+### New tunneling and the old surface
+
+Two subjects now remain explicit:
+
+| Subject | Further relation offered |
+|---|---|
+| The co-chaining and its geodesic binary parity changing | New tunneling following the backing up and jittering |
+| The old tunneling's surface | May restore over many momentaryings, or may not |
+
+The new tunneling is not made conditional on the old surface first restoring. The same old surface is not required as an unchanged destination of resolving.
+
+This connects the newer suggestions to section 68's healing with a hole remaining. The society's resolving through a new tunneling and the old surface remaining unrestored can belong together. That is a connection among the suggestions, not an observing that every new tunnel has removed all incompetency.
+
+The earlier interpreting of tunneling collapse must stay at the affected tunnel's relation. Loss of that passage does not by itself establish the death of the encompassing society: the new suggestion follows its co-chaining into new tunneling. Likewise, a possible later restoring of the old surface is not a claim that every inward self stayed living or that a prior carrying returns untouched.
+
+### Connections already in TWO and THIRTY
+
+TWO's geodesic-switching passage follows the changing through actual local couplings around the missing region, with the surrounding passages available. The declared joins remain, each self carrying its own. This supplies a particular source connection for new tunneling through changed co-chaining, without requiring an added wire or an imposed alternation of routes.
+
+TWO also places the proposed surface waver and its further changing in a sequence. The user's jittering can be followed beside that explaining. The two words are not made identical by their resemblance; the actual parity-changing passage must join them.
+
+TWO 2.6 describes restoring as a living relation met at a further now, with a changed prior possible. This is useful for the old surface's many momentaryings: further restoring meets the selves and couplings existing then. It is not an unchanged earlier carrying being put back.
+
+THIRTY 442–448 places along co-chaining and across bi-tunneling within the whole social moral competency. The backing up is now specifically offered along the tunneling. The new tunneling remains to be followed through both the across and along at the surrounding couplings.
+
+### Keeping backing up at the proposed living relation
+
+Retain “backs up” as the user's description of the co-chaining along the tunneling. No mechanism of stored or replayed parity offerings is supplied by that wording.
+
+This distinction matters at TWO's existing interruption comparison: its delayed offerings were held in an external diagnostic queue, which the source expressly distinguishes from the resolver's own method. That added storage must not silently become the explaining of the user's backing up.
+
+The work here follows the existing changings and offerings at the actual couplings. Neither missing changing nor jittering licenses inspecting private carrying or imposing a delay schedule to produce the proposed form.
+
+### Connected explaining for the surface droplet
+
+> The co-chaining along the tunneling backs up, and jittering begins before geodesic binary parity changing into a new tunneling. The old tunneling may or may not restore its surface over many momentaryings. The new tunneling and the old surface's further restoring are followed at their own couplings, with each self carrying from prior through now into next.
+
+The first two sentences retain the user's relation with punctuation made explicit. The last joins it to the existing carrying explaining. Keep this beside the recurring missing-changing suggestion and the ring's across-and-along right-spiral passage.
+
+Section 68's correcting remains attached: prior colliding alone is not assigned an indefinitely renewing colliding mechanism, and a remaining hole does not itself supply further colliding. The current passage follows the proposed pattern and its further resolving into new tunneling.
+
+### One concern to follow next
+
+**What is changing across and along at the couplings during jittering, before the new tunneling is existing?**
+
+The backing up, jittering and new tunneling are now supplied in sequence. The next explaining follows their coupled relation within the whole 1–9 4-cycling and the 1–17 society relation. A single parity recurring, a local changing-that-is-not or a changed drawing of a route alone does not supply that passage.
+
+Follow the jittering at its actual offerings and further changings, then the across-and-along relation of the new tunneling. This need not predict which tunnel will exist next or demand that the old tunnel restore. Afterward, join the old surface's further restoring or remaining hole to the continuing wider podaling.
+
+### Progress and onward aiming
+
+Section 71 is annotated with this further passage. The current concern moves from a cessation alone to the co-chaining backing up, jittering and geodesic parity changing into new tunneling. The old surface's possible restoring is preserved as a separate further relation, with the user's many momentaryings retained.
+
+Aim this whole value toward TWO's geodesic-switching and restoring explaining, Naming 5.45, THIRTY's social moral competency and inward/outward carrying, and Natural Intelligence, through the existing surface and sequential-colliding gathering.
+
+No new return was present at the current PR 128 check. A's latest confirmed gathering remains through sections 68–69; sections 70–71 have already been offered to A and Q. The new suggestion stays in this one accumulating report. No additional resolver execution is requested. R10 remains whole and unresolved.
+
+Direct comparison: TWO 2.6, 5.4 and its interruption comparison; THIRTY 399–406 and 442–448; Naming 5.45; this report's sections 55–56 and 67–71.
