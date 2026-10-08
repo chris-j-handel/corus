@@ -157,3 +157,33 @@ M. The torus after a longer colliding with an unchanging form has ended: ring by
    torus 3 by 5, colliding of 40 momentaries: again at 12; rings along, by across place: [0, 5, 0, 0, 0] ahead; 0s in one round 30, published 30; each parity inverted is 6 ahead
    torus 5 by 7, colliding of 20 momentaries: again at 20; rings along, by across place: [9, 9, 0, 0, 0, 0, 0] ahead; 0s in one round 70, published 70; each parity inverted is 10 ahead
    torus 5 by 7, colliding of 40 momentaries: again at 20; rings along, by across place: [9, 9, 0, 0, 0, 0, 0] ahead; 0s in one round 70, published 70; each parity inverted is 10 ahead
+
+N. The 0 of a spiral. An alike pair: two selves beside each other along carrying one parity; its receiving
+   self is the one the other releases to. Spirals of 2 to 9 selves, each opening pattern, 80 momentaries
+   patterns 1020; the number of alike pairs not the same at each momentary: 0; a 0 shared at a self that is
+   not the receiving self of an alike pair: 0; the places between the alike pairs not kept: 0; a 0 shared at
+   two momentaries one after the other: 0
+   the receiving self of the alike pair | the self sharing 0, at twelve momentaries from 121
+   none offered                n = 3: 1|. 1|1 2|. 2|2 3|. 3|3 1|. 1|1 2|. 2|2 3|. 3|3
+   none offered                n = 5: 1|. 1|1 2|. 2|2 3|. 3|3 4|. 4|4 5|. 5|5 1|. 1|1
+   unchanging at +             n = 3: 3|. 3|3 1|1 2|. 2|2 3|. 3|3 1|1 2|. 2|2 3|. 3|3
+   unchanging at +             n = 5: 5|. 5|5 1|1 2|. 2|2 3|. 3|3 4|. 4|4 5|. 5|5 1|1
+   unchanging at -             n = 3: 2|2 3|. 3|3 1|1 2|. 2|2 3|. 3|3 1|1 2|. 2|2 3|.
+   unchanging at -             n = 5: 5|5 1|1 2|. 2|2 3|. 3|3 4|. 4|4 5|. 5|5 1|1 2|.
+   returning what it meets     n = 3: 3|. 3|3 1|1 2|. 2|2 3|. 3|3 1|1 2|. 2|2 3|. 3|3
+   returning what it meets     n = 5: 5|5 1|1 2|. 2|2 3|. 3|3 4|. 4|4 5|. 5|5 1|1 2|.
+   returning the other parity  n = 3: 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|.
+   returning the other parity  n = 5: 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|.
+   alternating +, -            n = 3: 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|.
+   alternating +, -            n = 5: 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|. 1|.
+   over one whole round, the momentaries at which self 1 and each self along carry one parity, less those
+   at which they carry the two: the whole round with one changing or its inverse, nought with neither
+   an odd spiral, its 0 moving on               n = 3, round 12: [12, -4, -4]
+   an odd spiral, its 0 moving on               n = 5, round 20: [20, -12, 4, 4, -12]
+   an odd spiral, its 0 moving on               n = 7, round 28: [28, -20, 12, -4, -4, 12, -20]
+   an odd spiral, its 0 moving on               n = 9, round 36: [36, -28, 20, -12, 4, 4, -12, 20, -28]
+   an even spiral, no 0                         n = 4, round  2: [2, -2, 2, -2]
+   an even spiral, no 0                         n = 6, round  2: [2, -2, 2, -2, 2, -2]
+   a form returning the other parity colliding  n = 3, round  2: [2, -2, 2]
+   a form returning the other parity colliding  n = 5, round  2: [2, -2, 2, -2, 2]
+   a form returning the other parity colliding  n = 7, round  2: [2, -2, 2, -2, 2, -2, 2]

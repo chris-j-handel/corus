@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: nine learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to M named beside each learning, its returned text beside it.
+- **What it brings**: ten learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to N named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each.
@@ -102,6 +102,20 @@ Session v385R's sections 55 to 59 follow what a slipped carrying carries on, and
 Crossed one way, one spiral sharing to the other and receiving none: the receiving spiral's crossing self is at the living step at 192 to 198 of 198 momentaries, a 0 is shared, and a displacing of momentaries stays after.
 
 **Both.** A displaced spiral is whole at each of its selves, and beside its twin it is another form. Crossed both ways the displacing takes the living step from the crossing self of each for as long as they are crossed, and it resolves: no displacing of momentaries is left, and the two are each other's opposite form. Crossed one way it does neither. *Aiming:* sections 55 to 59; Natural Intelligence 4.13; Natural Mathematics 3.5.
+
+### 10 · The 0 is kept and moves on, and it keeps the selves' changings from being one changing
+
+Natural Intelligence 4.13 has the 0 of an odd spiral shared at the receiving self of the like pair, one self on at each second momentary; Natural Naming has a 0 shared as the between carried. Natural Mathematics 2.1 has two unrelationed each projecting into the other as nought.
+
+**Observed (N).** Spirals of 2 to 9 selves, each opening pattern, 1,020 patterns, none offered from beyond.
+
+- A 0 is shared only at the receiving self of two selves beside each other carrying one parity. At none of the patterns is one shared elsewhere.
+- The number of such pairs is the same at each momentary, and the places between them are kept: no two meet, none is made, none is lost.
+- Each pair is at a self for two momentaries: at the first no 0 is shared, at the second the 0 is shared, and the pair is one self on. A 0 is shared at no two momentaries one after the other.
+- With a form unchanging colliding, the pair moves on as before and at the self the form meets its 0 is shared at the first momentary: the skipping of learning 3. With a form returning the other parity, the pair is at that self at each momentary, no 0 is shared, and the two selves change together from then on.
+- Over one whole round, count the momentaries two selves carry one parity less those they carry the two. With no 0, an even spiral or the other-parity colliding, it is the whole round at each two selves: each self's changing is another's or its inverse. With the 0 moving on it is less by 8 at each self along, down to 4 of 4n at the two farthest: 4 of 12, 20, 28 and 36.
+
+**Both.** The 0 keeps two alike selves apart and moves on with nothing lost, and with it no two selves' changings are one changing. Exactly nought is at none of the spirals tried: the nearest is 4 of 4n, smaller beside the round as the spiral is longer. The across and the along of the 0 are at different momentaries, one shared and then one moved on, at each pattern. *Aiming:* Natural Intelligence 4.13; Natural Mathematics 2.1 and 2.2; Natural Numbers 1.5; Natural Naming's between.
 
 ## Three concerns still parting
 

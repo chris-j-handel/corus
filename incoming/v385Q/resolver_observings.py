@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to M.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to N.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -346,3 +346,45 @@ for p, q in ((3, 5), (5, 7)):
             rings.append(ks[0] if ks else None)
         print("   torus %d by %d, colliding of %d momentaries: again at %s; rings along, by across place: %s ahead; 0s in one round %d, published %d; each parity inverted is %d ahead" % (
             p, q, d, again(s2), rings, sum(r.count(0) for r in s2[600:600 + P]), sum(r.count(0) for r in base[600:600 + P]), P // 2))
+
+
+print("\nN. The 0 of a spiral. An alike pair: two selves beside each other along carrying one parity; its receiving")
+print("   self is the one the other releases to. Spirals of 2 to 9 selves, each opening pattern, 80 momentaries")
+
+
+def alike(c, n):
+    return [i for i in range(n) if c[i] == c[(i - 1) % n]]
+
+
+def gaps(al, n):
+    al = sorted(al)
+    return sorted((al[(j + 1) % len(al)] - al[j]) % n for j in range(len(al))) if al else []
+
+
+tot = number = where = apart = beat = 0
+for n in range(2, 10):
+    for pat in itertools.product(V, repeat=n):
+        sh, car = spiral(n, pattern=list(pat), T=80)
+        tot += 1
+        number += len(set(len(alike(car[t], n)) for t in range(80))) != 1
+        where += any(not set(i for i in range(n) if sh[t][i] == 0) <= set(alike(car[t], n)) for t in range(1, 80))
+        apart += len(set(tuple(gaps(alike(car[t], n), n)) for t in range(80))) != 1
+        beat += len(set(t % 2 for t in range(2, 80) if 0 in sh[t])) > 1
+print("   patterns %d; the number of alike pairs not the same at each momentary: %d; a 0 shared at a self that is" % (tot, number))
+print("   not the receiving self of an alike pair: %d; the places between the alike pairs not kept: %d; a 0 shared at" % (where, apart))
+print("   two momentaries one after the other: %d" % beat)
+print("   the receiving self of the alike pair | the self sharing 0, at twelve momentaries from 121")
+for name, f in [("none offered", None)] + FORMS:
+    for n in (3, 5):
+        sh, car = spiral(n, f, start=40, T=140)
+        print("   %-27s n = %d: %s" % (name, n, " ".join(
+            ("".join(str(i + 1) for i in alike(car[t], n)) or ".") + "|" + ("".join(str(i + 1) for i in range(n) if sh[t][i] == 0) or ".")
+            for t in range(120, 132))))
+print("   over one whole round, the momentaries at which self 1 and each self along carry one parity, less those")
+print("   at which they carry the two: the whole round with one changing or its inverse, nought with neither")
+for name, f, ns_ in (("an odd spiral, its 0 moving on", None, (3, 5, 7, 9)), ("an even spiral, no 0", None, (4, 6)),
+                     ("a form returning the other parity colliding", FORMS[3][1], (3, 5, 7))):
+    for n in ns_:
+        sh, car = spiral(n, f, start=40, T=400)
+        P = again(sh)
+        print("   %-44s n = %d, round %2d: %s" % (name, n, P, [sum(car[t][0] * car[t][j] for t in range(200, 200 + P)) for j in range(n)]))
