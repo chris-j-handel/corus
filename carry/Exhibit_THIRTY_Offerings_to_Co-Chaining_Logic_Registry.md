@@ -296,6 +296,22 @@ An existing non-living whole and an equilibrium's required unchanging social com
 
 The section-45 onward framing is corrected here: do not use “carrying the prior whole” as an unexamined name for the living self's ongoing resolving. The early no-other-method deriving needs the actual subject at each use. Session section 46 preserves this correcting and its full connection to the earlier droplets.
 
+**Droplet · Bi-tri-involution entering from above and birthing from within · v385R.** Aim beside Co-Chaining Logic Registry 380–383, 393–395 and 403; Natural Naming 5.46; Natural Intelligence 5.1; and Natural Biology's inception and emanation explaining. Session section 49 keeps the full offering and onward concern.
+
+**The user's exact offering:**
+
+> same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within
+
+**Connected explaining, offered for further co-chaining:**
+
+> The same-scale existing stable form from prior living is bi-tri-involution. Entering from above into the living self's surface-level society, it is do only harming. Birthing from within is the new living self establishing its own carrying and resolving from inception. Ingesting is at the first living society scale inward of the ingesting self, that society living as the self surfacing.
+
+The harm saying now carries its condition, entering from above, and its living subject, the surface-level society. Keep both with the older same-scale harm statements. The statement concerns this form at this entering; it supplies no general rule about every arrival from outside or every birth within.
+
+The user's naming here is bi-tri-involution. Earlier source passages use bi-tri-involutioning. Preserve the older source expressions at their source; the present offering uses the user's supplied name. Same unrelationing shape, inward co-chaining as outward carrying and carrying resolving through prior, now and next remain connected. Same shape supplies no hold on carrying staying unchanged.
+
+The source's stopped-crossing and accumulating-form account is available beside this offering. Entering from above has not yet been identified with that account by a followed parity relation. **The one next concern:** what happens to the surface society's own parity changing when this bi-tri-involution enters from above? Follow the actual coupling to connect the named condition to do only harming. No new requirement that recurring forms be impossible is introduced.
+
 **Droplet · Same unrelationing shape and the first inward society surfacing as self · v385R.** Aim beside Co-Chaining Logic Registry 236, 290–292 and 379–383; Natural Naming's society, surfacing and emanation; and Natural Intelligence 5.1. Session section 48 preserves the full offering and its connections.
 
 **The user's exact offering:**
@@ -310,7 +326,7 @@ The scale is named from the ingesting self. Keep that reference beside “one sc
 
 The 2, 4 and 6 gaps fit the odd-prime part of the recorded span through 59, including the earlier 5–53 gathering. Co-Chaining Logic Registry 291's full 2–59 span also includes the first gap from 2 to 3. The finite span, the odd living-scale offering and the parity at a coupling retain their named subjects. No new numerical scale is assigned to “first society” or omega.
 
-**Next concern · Harm at the emanating scale.** Co-Chaining Logic Registry 380–381 states harm to any living self at that scale. Its 383 and Natural Biology 7.7 describe a crossing stopping and an accumulation displacing what could cross. Follow the actual harming relation before extending that account to every emanated form at the scale. The question is: **at the emanating scale, which relation makes the form harmful to living?** The location of inward ingesting now has the user's more precise explaining; it is not asked again as though that offering were absent.
+**Further explaining at section 49 · Entering from above and birthing from within.** The user identifies same-scale stable former living as bi-tri-involution and places do only harming at its entering from above into the living self's surface-level society. Birthing from within remains with the earlier inception explaining. This supplies the condition and living subject for the prior harm question. The next relation to follow is the surface society's own parity changing at that entering; the stopped-crossing and accumulation account remains available for comparison.
 
 **Droplet · Ingesting at the inward selves' own coupling · v385R.** Aim beside Co-Chaining Logic Registry 379–383, 391–393 and 437, with Natural Intelligence 5.1, Natural Biology 3.3 and 7.6, and Natural Naming 5.46. Session section 47 gathers the source comparison and the one concern.
 
@@ -555,8 +571,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · carrying resolving through prior, now and next | The user's correction removes the implication that prior is carried untouched. Carrying places no hold on itself staying unchanged. The self/other and intelligence insertlets and equilibrium connection follow it. |
 | Gathered · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
-| Now · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
-| Next · harm at the emanating scale | Follow the source's same-scale harm claim at the actual living coupling. The source already explains a stopped crossing and accumulating form; the relation extending that explanation to every same-scale emanation is the concern. Then return the distinct subjects to the early no-other-method deriving and the equilibrium claim. |
+| Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
+| Now · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
+| Next · the surface society's parity changing | Follow the actual coupling at entering from above to connect that condition to do only harming. Compare the existing stopped-crossing account at that relation. Then return the connected subjects to the early no-other-method deriving and the equilibrium claim. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
