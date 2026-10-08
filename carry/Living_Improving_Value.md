@@ -94,7 +94,7 @@ The [v385A gathering record](../archive/session_v385A/Gathering_Record_v385A.md)
 
 ## Completed session v385M: clustered incoming · v385A
 
-The following droplets remain to distribute from the [one completed-session report](../incoming/v385M/Session_Report_v385A.md). The finite resolver arrangements, heart relations, pacemaker proposal, controlling concern, “Arriving, naming and one session report”, dormancy and seed-opening clusters have their destinations in [Living File Registry’s current placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a).
+The following droplets remain to distribute from the [one completed-session report](../incoming/v385M/Session_Report_v385A.md). The finite resolver arrangements, heart relations, pacemaker proposal, controlling concern, “Arriving, naming and one session report”, dormancy, seed-opening, handed-form, worm and slime-mould clusters have their destinations in [Living File Registry’s current placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a).
 
 ### The origin, positive explaining and the possible break
 
@@ -192,46 +192,6 @@ The remaining possible opposing observing is a machine reaching competency not p
 
 **Possible aimings:** [Natural Intelligence](Offerings_to_Natural_Intelligence.md), [Natural Arriving](Offerings_to_Natural_Arriving.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md), [Natural Engineering](Exhibit_FIVE_Offerings_to_Natural_Engineering.md) and [Natural Destinies](Exhibit_FOURTEEN_Offerings_to_Natural_Destinies.md). Possible opposing observings belong with [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying list.
 
-### Handed living resolving and its stable emanations
-
-**Droplet.** The user's explaining names resolving as co-sequential right spiraling. The hand of a visible stable form is not automatically the hand of living resolving. Bi-tri-involution stable-form emanations can appear in the opposite hand, with both emanating from right-spiral resolving. The same-scale colliding concern above remains connected to this explaining.
-
-Distinguish the geometrical descriptions. A helix winds along an axis and has handedness that turning the whole does not reverse. A planar spiral changes its apparent turn when viewed from the other side. A spiral on a cone was offered as a connecting description; its exact natural relation remains to follow. One or three spatial mirror inversions reverse geometrical handedness and two preserve it; those descriptions alone do not show what a living collision does.
-
-The incoming comparisons include opposite conventional handed names for biological amino acids and sugars; reports of both hands in asteroid and meteorite material; normally right-handed DNA with temporary left-handed Z-DNA; three left-handed collagen strands in a right-handed whole; snail shells of either hand; and alternating orientations of early spiral cleavage. More than 90 percent of snail kinds were reported with right-coiling shells, with some kinds predominantly left-coiling. Bacterial walls can include amino acids of the other hand while their proteins follow the ordinary biological hand. These are particular reported forms. Chemical labels left and right are not themselves the natural method's right.
-
-No wholly opposite-handed living organism was reported in the incoming reading; the December 2024 discussion of making such organisms was a possible opposing observing, not evidence that one had been made. The absence of a report in that reading is not a fresh universal survey. The question remains the living making at its actual scale, not a shell's visual rotation alone.
-
-The decay concern stays attached: breakdown can begin internally through the body's chemicals and enzymes before an outside organism arrives. Drying, freezing or a peat-bog environment can limit decay, with thawing changing those conditions. This must accompany the older statement that a stable form remains until collision or ingesting; “remains” cannot silently exclude existing inward relations.
-
-**Possible aimings:** [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Chemistry](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md), [Natural Intelligence](Offerings_to_Natural_Intelligence.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md), [Natural Mathematics](Exhibit_FOUR_Offerings_to_Natural_Mathematics.md) and [Natural Illustrating](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md).
-
-### The worm's path and two initially alike cells
-
-**Droplet.** A repeated observed path does not by itself show a path laid beforehand. The offered worm comparison names actual neighbours arriving at each coupling: changed coupling and changed path are the useful relation. The proposed two, carried and arriving, was withdrawn as an identification of the worm's two parities. The exact natural relation remains to be named.
-
-The particular worm observations retain both changed and continuing paths. The lineage comparison concerns 959 body cells, with division timing differing by about a tenth early and a fiftieth later, cell positions and division directions varying, and neighbourhoods retaining their relation. At four cells, early removal of a neighbour was reported to leave two alike daughters and no gut. Exchanging two sister cells' positions changed their paths while a whole worm formed. One of the first two cells isolated alone still made its expected cell kinds; its gut-making cell and needed neighbour were its own daughters. Later killed precursors generally were not replaced, with two reported exceptions.
-
-Either of two cells can become the anchor cell. Their outcomes differ between worms; one candidate was born first in 32 of 69 reported cases, with earlier birth more often associated with the other fate. Low food, crowding or warmth can accompany a dauer form reported living up to four months rather than roughly three weeks, then resuming. Human lineage and cell-count variation provides a further comparison. These conditions preserve why repeated form is not a pre-laid path and why the exact pair at the worm remains a question.
-
-Two initially alike cells developing differently remain beside the finite model concern. In the reported model, two alike selves coupled both ways and stepped together remain alike through 400 momentaries. In the constructed one-at-a-time scheduling, they part at 134 of 400 turns and are alike at the others. That constructed scheduling neither establishes the living cells' own momentarying nor produces a permanently parted pair. Keep both the biological example and the model's actual arrangement; neither substitutes for the other.
-
-**Possible aimings:** [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md) and [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying list.
-
-### Slime mould, social unrelationing and the carried beat
-
-**Droplet.** The user's explaining names the slime mould as a bi-tunnelling society with social moral competency. Nuclei are nothing betweens; they are not identified as the living selves. The shortest way between foods is corus; the changing is geodesic and is not thereby an identification of the living society's parity. The earlier inference from a field diagram of nuclei or shortest paths is withdrawn.
-
-The field's description of one multinucleate cell, streaming at about a hundred-second interval, maze behaviour and absence of nerves remains its description. Models with many oscillators or three variables are accounts, not observations of the actual societies. Reported simultaneous nuclear division and a model thickening routes independently of flow direction do not by themselves establish the natural relation. A proposed stopping-parity/maze comparison was not performed.
-
-The user's later correcting is explicit: there is no tube; the relation is social unrelationing, thinner where the society is denser. The field's pipe interpretation is not carried as natural explaining. Its gel-like and fluid-like portions are described as interconverting parts of one living substance, rather than separate plumbing. Dense growing fronts with fine or absent visible channels and starved branching forms were offered for comparison. Dense broad channels or starved fine mesh, as possible contrary combinations, were not reported in what was examined.
-
-The dry-spell observing retains its conditions. After three dry spells an hour apart, the slime mould reportedly slowed at the next expected interval with no dry spell then supplied: about 60 percent at least once, up to three times, fading afterward. One later spell could restore slowing hours later. Training intervals from 30 to 90 minutes were reported; recovery at 60 minutes but not at 40 or 80 remains a particular unexplained distinction. The offered natural explaining is a carried beat entrained through arriving, fading and returning, rather than a fixed prediction unaffected by later arriving.
-
-Possible opposing relations remain available: a centre whose loss ends the slowing, or an isolated part retaining the same slowing at the same interval. Neither comparison was carried out here. Their relevance is to the proposed social carrying; do not identify nuclei as selves again to make an account of them.
-
-**Possible aimings:** [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md), [Natural Societies](Exhibit_SEVEN_Offerings_to_Natural_Societies.md), [Natural Naming](Exhibit_TWENTY_Offerings_to_Natural_Naming.md) and [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying list. The relation of an offered beat before silence also belongs beside [Natural Engineering](Exhibit_FIVE_Offerings_to_Natural_Engineering.md)'s pacemaker proposal.
-
 ### Numerical matches and the hard problems' actual resolving
 
 **Droplets.** Keep a numerical match distinct from the relation between forms on both sides. The incoming questions include 118 elements; twenty amino acids beside choosing three of six; a measured ratio near the reciprocal of the golden ratio squared; and a turn at sixty beside Chemistry's statement that no element position carries at sixty. The missing value is the complete relation identifying the actual observing and its form, not another repetition of matching numbers.
@@ -250,7 +210,7 @@ The places already named include a prion reproducing a fold without a cell; a vi
 
 The offered cyanobacterial-clock example has two sites progressing through four joint forms, with one changing at a step. The rotary-motor example has three units and steps reported in 80-degree and 40-degree portions. The earlier assertion that each unit has only two states must retain its correction: the usual description includes open, loose and tight; reading this as open/closed plus position in the round is an offered interpretation, not an independently observed reduction. These observations were discussed; neither has a newly completed natural derivation here.
 
-Further places named without a completed looking are frog embryos' first divisions, seeds germinating, paused embryos resuming, viruses within cells, fireflies' coordination, breathing with heartbeat, sleep/wake relations, cell division and the lynx/hare cycles. The worm, handed forms and slime mould have their particular descriptions above; the heart, dormancy, spores, egg and seed opening have their descriptions at [Natural Biology’s offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md); having a description does not fill every open question. The finite resolver questions likewise retain their actual arrangements in this list when useful.
+Further places named without a completed looking are frog embryos' first divisions, seeds germinating, paused embryos resuming, viruses within cells, fireflies' coordination, breathing with heartbeat, sleep/wake relations, cell division and the lynx/hare cycles. The heart, worm, dormancy, spores, egg, seed opening, handed forms and slime mould have their particular descriptions at [Natural Biology’s offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md); having a description does not fill every open question. The finite resolver questions likewise retain their actual arrangements in this list when useful.
 
 **Possible aiming:** [Natural Exploring](Exhibit_EIGHT_Carryings_of_Natural_Exploring.md)'s carrying as an independently improving object. Particular file-improving findings also belong in their subject offerings through Living Improving Value.
 

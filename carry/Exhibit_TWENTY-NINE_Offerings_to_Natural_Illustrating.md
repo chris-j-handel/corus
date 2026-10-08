@@ -119,3 +119,7 @@ These are descriptions of possible expressions. The word “painting” establis
 ## The proposed seed opening and its unobserved relations · v385A
 
 **Droplet.** A possible illustration can follow the [whole seed-opening offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#seeds-incubation-and-water-at-the-opening--v385a), keeping the reported opening and water-entry sequence distinct from the proposed bi-folding over an apex. Edge-following inside the opening and a right-handed seed-coat spiral were not observed in the gathered reading. Retain those questions with any later drawing; a general helical fibre or a corner-liquid demonstration does not supply that seed's anatomy. No image or resolved correspondence is available from this gathering.
+
+## Handed forms and the operation shown · v385A
+
+**Droplet.** Any use of the [handed-form comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) in an illustration needs the actual operation to remain apparent: turning the whole form, looking from another side or reflecting spatially. An image's apparent left or right must not be made an independent demonstration of living resolving or colliding. The offered cone-spiral connection remains a question; no artwork or new correspondence is originated here.

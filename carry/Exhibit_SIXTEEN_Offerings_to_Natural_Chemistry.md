@@ -133,3 +133,7 @@ Keep the material arrangements, conversation value and writing contribution avai
 ## Water at the particular seed opening · v385A
 
 **Droplet.** The [whole seed-opening comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#seeds-incubation-and-water-at-the-opening--v385a) retains the proposed water clinging to both sides and following the edges. Here the unresolved relation is between water rising in the narrow-angle-plate experiment and water at that actual biological opening. The former's reported height-and-time account supplies no observation of edge-following inside the latter. Keep the particular plant opening and wetting sequence with this question; generic surface or fibre geometry cannot supply the missing relation.
+
+## Chemical handed names and living resolving · v385A
+
+**Droplet.** The [whole handed-form comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) keeps the field's molecular labels and the natural explaining of right resolving at their actual subjects. Natural Chemistry's chirality and earlier crystal-twinning offering need the relation between a chemical handed form, its mirror comparison and the proposed living making. Opposite labels or a molecular form alone do not identify the hand of that living resolving. The possible opposing observing concerns the living making at its actual scale; no new substance, experiment or biological result is supplied here.

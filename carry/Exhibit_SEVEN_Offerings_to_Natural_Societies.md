@@ -221,3 +221,7 @@ Natural Societies 1.3 already preserves safety regulation and professional licen
 ## The heart society and the two parities · v385A
 
 **Correcting droplet.** Dissolve any identification of the heart’s two parities with two other tissues, or of entraining with an additional third self. The cell’s two alternating relations and the older three-pace picture have different subjects. Their full explaining and remaining pace questions are offered at [Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a).
+
+## Slime mould as a society at its actual relation · v385A
+
+**Droplet.** The [whole slime-mould offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#slime-mould-social-unrelationing-and-the-carried-beat--v385a) keeps the bi-tunnelling society and social moral competency with the user's correcting: nuclei are nothing betweens, and the relation named is social unrelationing. An anatomical nucleus or a shortest-path diagram supplies no automatic identification of a living self or its parity. The particular society's carried-beat relation remains to cohere with the actual observing conditions and possible opposing comparisons; the field's single-cell description alone neither supplies nor removes the society's natural explaining.

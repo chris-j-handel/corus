@@ -238,6 +238,8 @@ The possible opposing observations remain specific: steady pacing doing as well 
 
 The [heart’s observed relations](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a) remain at Natural Biology. The possible project is gathered at [Natural Engineering’s carrying](Exhibit_FIVE_Carryings_of_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a). These incoming concepts supply no instructions for treatment or construction.
 
+The [slime-mould carried-beat comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#slime-mould-social-unrelationing-and-the-carried-beat--v385a) is a particular offered relation beside the question of an arriving beat before silence. Its reported slowing, fading and later return do not establish how a device would participate at a heart's coupling. Keep that proposed connection with the existing sensing and harm questions; it does not reinstate a required reserve beater or demonstrate the proposal's safety.
+
 ## Controlling and the hard problem made by engineering · v385A
 
 **Droplet.** The proposed naming of controlling is a coupling where one side holds the between to a measure set beforehand. A device can sense the other while using that sensing only as error relative to its configured target. The actual relation, not sensing alone, is the subject of the concern.

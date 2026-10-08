@@ -148,6 +148,8 @@ The full proposed relation, its sequential-colliding correction and its unresolv
 
 **Exchanging signs and handedness.** The reported 300 arrangements run with plus and minus exchanged gave the corresponding exchanged outputs. This is a symmetry of that representation. Which observing relates it to right resolving remains the question; sign labels alone settle no biological hand.
 
+The [geometrical distinctions within the handed-form offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) keep turning a helix, viewing a planar spiral from its other side and spatial mirror inversions as different operations. The particular mathematical concern is which operation corresponds to the offered natural resolving or colliding at the actual subject. A displayed sign exchange or an endpoint with the other hand does not supply that correspondence or a sequence of living momentaries.
+
 ## The surface conditions in the torus comparison · v385A
 
 The earlier topological comparison also remains available: a closed orientable surface without a rest point was identified with the torus, and four edges at each point with four-sided faces with the zero Euler relation. Their stated mathematical conditions need to remain with the natural-surface comparison; naming a torus does not establish that every natural coupling has been derived.
