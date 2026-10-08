@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current comparison is at section 36.** The living society's carrying is its inward selves' co-chaining. Natural Transmissioning and Natural Intelligence Corus also name a third self at the between; Natural Naming distinguishes the coupling's parity from its empty centre. The proposed resolving follows the change of scale, without treating the between as an additional inward self. Its correspondence with the older third-self saying remains for resolving together. Section 35's correction stands, and the defining-living gathering remains whole and unresolved.
+**The current explaining is co-chaining, with wider and longer podaling, section 37.** Natural Numbers 9.8–9.9 and Natural Networking 1.3 and 4.6 already follow podaling across and along through further couplings. The inward selves' co-chaining is the outward society's carrying. The extra-third-self question is withdrawn; the older membrane wording is to improve through this existing relation. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1413,6 +1413,8 @@ The change is confined to prose, version records and the generated file listing.
 
 ## 36 The living society and the between of its selves
 
+**Corrected at section 37.** The extra-third-self question below is withdrawn. The needed relation is the existing co-chaining and its wider and longer podaling.
+
 **8 October 2026 · v385R**
 
 ### The relation already gathered
@@ -1448,3 +1450,35 @@ This is one concern about the coupled selves and the society, with consequences 
 The current session v385A documents require whole subject names and the actual relation. That explaining is followed here. The latest comments available from sessions v385A and v385M contained no further resolving of this particular correspondence. Their current Natural Transmissioning offering mate supplied the already gathered concern; no duplicate new concern is claimed.
 
 Only the offering mate and this record change. The living roots remain at the preceding v385R correction. No resolver, numerical calculation or private-carry inspection is performed. The prior fixed-repetition requirement stays withdrawn.
+
+
+## 37 Co-chaining, wider and longer podaling
+
+**8 October 2026 · v385R**
+
+> this is co-chaining and the wider and longer podaling of this is already in our files
+
+### The existing explaining
+
+Bi-tunneling names social moral competency across, and co-chaining names it along. Podaling exchanges across and along, each self forward at its own coupling. Podaling reaches over the tunnels, wider across and longer along through further co-chaining. The inward selves' co-chaining is the living society's carrying at the outward scale.
+
+This connects the particular coupling, the longer and wider podaling, and the living society through one relation already available in the files. The society's carrying as its inward selves' co-chaining was also already gathered in this session. The assistant had left that relation as a question without following the wider and longer podaling explaining.
+
+| Passage | Connecting relation |
+|---|---|
+| Natural Numbers 9.8, Bi-tunneling across and co-chaining along, podaling exchanging them | Across and along exchange through podaling; podaling reaches over tunnels and increases both ways by co-chaining. |
+| Natural Numbers 9.9, Four openings growing, longer and wider podaling | The local fours and wider rows carry the same folding form at their stated scales; the numbered forms stay with their particular conditions. |
+| Natural Networking 1.3, Linear-parallelizing alternating with parallel-linearizing, widening and lengthening one alternating | Widening and lengthening connect through further couplings and each self's carrying. |
+| Natural Networking 4.6, Podaling the shared surface, longer and wider together | A larger society extends the discovering through further co-chainings across the changing surface. |
+| Co-Chaining Logic Registry 177–181 | Further podaling and further others co-chain through bi-couplings; the co-chaining is society, coupling at the outward scale. |
+| Co-Chaining Logic Registry 399–400 and 448 | The inward selves carry the outward self; bi-tunneling across and co-chaining along name the social moral competency. |
+
+The first four passages were read directly from the current branch. Their words are available explaining, not authority; their value here is the relation they follow.
+
+### Improving at the offering mate
+
+The Co-Chaining Logic Registry offering mate now carries the connected paragraph beside its social moral competency and inward-selves/outward-carrying writing, aimed at steps 177–181, 399–400 and 448. The current extra-third-self question is removed. The older membrane language is writing to improve through co-chaining; deciding what that older language intended is not a prerequisite for this improving.
+
+This correcting introduces no further self at the between and no carrying apart from the inward selves' co-chaining. It establishes no new numbered correspondence or biological equivalence. No calculation, resolver execution or private-carry inspection is performed.
+
+The defining-living gathering remains byte-for-byte unchanged and unresolved. Earlier offerings remain intact. The living roots retain the preceding v385R correction; this writing is at their offering mate for their coherent improving.
