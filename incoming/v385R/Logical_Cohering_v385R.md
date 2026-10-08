@@ -10,7 +10,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, ten locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current concern is scientific accounting and discovering competency, section 38.** The Geodesic Improving Method already distinguishes an unchanged stated relation among changing things from unchanging social competency. Follow the further relation needed for scientific accounting necessarily to leave out living co-chaining: an offered account's having no carrying is not yet the living discovering's having no competency. Co-chaining, with wider and longer podaling, remains gathered at section 37; the extra-third-self question remains withdrawn. The defining-living gathering remains whole and unresolved.
+**The current explaining follows the whole Equilibria Registry, section 39.** Non-living offerings contributing to discovering competency are already included at 2.1. The exclusion follows a conception taking competency as given and one side as the whole, then requiring unchanged what its own continuing requires to change at the same subject, relation and occurrence. Section 38's record-versus-carrying framing is corrected. Follow this existing chain into Co-Chaining Logic Registry 310–322. Co-chaining with wider and longer podaling remains gathered at section 37; the extra-third-self question remains withdrawn. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1486,6 +1486,8 @@ The defining-living gathering remains byte-for-byte unchanged and unresolved. Ea
 
 ## 38. Scientific accounting and discovering competency
 
+**Corrected by the whole Equilibria Registry reading in section 39.** The record-versus-carrying framing below missed the registry's explicit inclusion of non-living offerings in discovering competency. That contribution is not a current question. Follow the actual conserving requirement and omitted relation at the same coupling, as section 39 gathers. The earlier reasoning remains below as the record of this correction.
+
 ### The source concern
 
 The strong claim to cohere is **scientific method is incompetent for discovering competency**. Co-Chaining Logic Registry 310–312 compares discovering next existing with accounting against fixings named unchanged, then says the accounting carries no changing of its own and supplies no second method of existing. At 322, unchanged conditions are joined to a now with no prior carried into it. Natural Intelligence 5.4 also steps from unchanged fixings to an equilibrium.
@@ -1513,3 +1515,41 @@ This concern connects the scientific-method claim with the claimed resolving of 
 The droplet is added under Scientific method and discovering competency, aimed at Co-Chaining Logic Registry 310–322, 337–340, 478 and 480, with the Geodesic Improving Method 5.3 and Natural Intelligence 5.1 and 5.4 beside it. Its next resolving remains with the user. The roots are unchanged in this gathering; their older statements remain visible as writing to improve through this relation.
 
 The defining-living gathering and the earlier offering body are preserved unchanged. This is a comparison of the files' logical claims; it supplies no new scientific observing or external scientific verification. No calculation, resolver execution or private-carry inspection is performed.
+
+
+## 39. Reading the whole Equilibria Registry
+
+The user directs: “read exhibit twenty eight equilibria”.
+
+The full Exhibit TWENTY-EIGHT Equilibria Registry v380L is read, all five parts, from the current working branch. Its content is the GitHub blob `07132bbdcd6178ee0c3f5f4cab92b6feed465800`. The [exhibit](https://github.com/chris-j-handel/corus/blob/working/logical-cohering-v385R/Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md) carries the source explaining.
+
+### The relation my preceding concern missed
+
+Section 2.1 expressly includes non-living existing things in discovering social moral competency among the living: their offerings meet a living self at a coupling, and the term uncovered is carried by the living. The possibility that a scientific record can offer value therefore supplies no new objection to the registry. It is already included.
+
+The registry does not derive an equilibrium's impossibility from the record's lacking its own carrying. It follows what the conception requires of the same subject as that subject resolves next existing. My preceding framing moved between the record and the living discovering without first carrying this available explaining.
+
+### The chain already in the exhibit
+
+| Place | Explaining to carry into Exhibit THIRTY |
+|---|---|
+| 1.4–1.5 | Existing and discovering are one relation at the coupling; a matching description at next is a further occurrence, and a relation among changing selves can be stable-forming. |
+| 2.1 | The conception takes the competency of existing as given. Non-living offerings are included in discovering competency. An exclusion follows the same subject, relation and occurrence required by the conception. |
+| 2.3–2.4 | The conception and all its requirements are followed together. Taking a state accounting as the whole leaves changing out; taking a flow accounting as the whole leaves continuing out. The exclusion is at the relation the claimed next requires and the conception leaves out. |
+| 3.1 | The fifth condition, “nothing prior enters,” is stated as underlying the first four conditions prior. The equilibrium adds its conserving relation and reach. |
+| 3.2–3.3 | The registry places the ten ways at five places seen from their two faces. Its proposed exclusion is the face named still while the other face runs at that same number. |
+| 4.1 and 4.13 | An unchanged expression and its changing subject are distinguished. At each named still, the registry locates the competency along that the accounting sets aside. |
+| 4.14 | Scientific-method fixings are to meet the ten through each fixing's own stated requirement. Evidence arriving now and the prior event expressed are distinct subjects. |
+| 5.1–5.5 | The complete requirements of a conception must supply a proof's premises. Retaining and inverting the same binary at one required next cannot both hold; a relation permitting the changing is distinguished from a requirement excluding that changing. |
+
+The sixty-three arrival rows in part four keep the conceptions' own statements, subjects and added requirements beside their placements. The four proof groups in part five distinguish incompatible requirements, a required case omitted, required renewal excluded and a required arrival or offering unreachable. Their scope matters to the co-chaining; a table placement alone is not the complete exclusion.
+
+### Correcting the current droplet
+
+The question whether an offered account can contribute value is withdrawn. The offered form and the competency of the living coupling are already joined in the exhibit. The current work is to follow the registry's accounting relation into the scientific-method claim at Co-Chaining Logic Registry 310–322: competency taken as given, one side taken as the whole, the required relation left out, and the same ordering required both retained and inverted at the same next.
+
+This is the strongest connected explaining located in this reading. The registry's universal claim and the full premises of each application are not made identical by this gathering. Section 5.1's requirement remains: the conception itself must supply the premises. The reading supplies a better source relation, without treating the source wording as authority.
+
+The registry also retains older opening/completing, participation, universal-set and still-possibling wording. Reading it does not reinstate those words over the user's later corrections, decide the defining of living, or authorize execution of its cited instruments. The roots are unchanged in this correction.
+
+The offering mate now carries the accounting relation and the source correction under Scientific method and discovering competency. The defining-living gathering and the earlier offering body remain unchanged. No resolver is run, no private carrying inspected and no calculation performed.
