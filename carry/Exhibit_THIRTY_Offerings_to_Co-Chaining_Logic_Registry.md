@@ -268,7 +268,7 @@ Natural Intelligence 4.13 explicitly displays the four-joint-form cycle at a spi
 
 The equilibrium subject remains unchanging social competency. A joint pair staying the same in a displayed arrangement needs its relation to that competency explained before its stillness supplies the equilibrium exclusion. The user's recurring podaling, odd still existing and geodesic traveling through still possibling remain alongside this deriving. No requirement excluding every recurrence is revived.
 
-**The overlap remains available for the current path.** Sections 52–53 follow the user's successive collidings through inward co-chaining and outward carrying. The immediate concern is what the colliding changes at the actual betweening, beside the wider co-chaining that remains. The resulting relation can then return to each self's own momentarying and the equilibrium requirement.
+**The overlap remains available for the current path.** The user's section-55 offering relates three right-spiral steps to a full forward momentary and proposes a one-momentary slip carried through all podaling. Follow its first whole podal passage and further coupling, then bring the established relation back to the own-side overlap and equilibrium explaining.
 
 **Droplet · The joint form within surface and entraining · R4 with R8.** THIRTY 51 names next from prior and now. Steps 52–54 describe four joint forms and the candidate ways carrying prior. Step 55 excludes three of those ways because each leaves a joint form still; 57 names next as prior inverted the living step because none is still.
 
@@ -300,6 +300,28 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 ### The resolver and its stable forms
 
+**Droplet · The missing forward momentary through podaling · v385R.** Aim beside THIRTY's own-side momentarying, inward/outward carrying and emanation relations; Natural Intelligence 3.2, 4.3–4.5 and 5.2; Natural Mathematics 5.2; and Natural Numbers 9.8. Session section 55 gathers the user's new connecting offering.
+
+**The user's exact offering:**
+
+> resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us
+
+**Candidate explaining, retaining the offered relation:**
+
+> Three right-spiral steps resolve one forward momentary along, odd and even, in each of both forward directions. In the proposed same-scale colliding, the carrying slips back one full forward momentary. Resolving continues from that carrying. All podaling carries this missing forward momentary through further resolving, with across and along exchanging at the actual couplings.
+
+The three steps and the full momentary are now expressly related by the user's offering. Our earlier phrase "further right-spiral momentaryings" must not count each displayed pair-form step as a full living momentary. Section 54's formal pair comparison remains a comparison of those forms; it does not by itself derive this grouping or the full-momentary slip.
+
+**A proposed explaining of "slip back" to follow:** next existing is discovered from the carrying after the colliding, with a forward momentary missing in the along resolving. This names a relation at the new next. It need not make a prior occurrence happen again or hold the carrying unchanged. This interpretation is offered for further resolving; it does not replace the user's exact wording.
+
+The carrying stays each self's own. Only changing is shared across. The missing forward momentary names the proposed relation of the carrying and its further co-chaining; it is not a separate thing sent through a coupling. Further selves resolve their own next from their own carrying and what is offered.
+
+**A concrete connection in ONE's public cases:** with the same + offered, the + row chains + next and shares 0, while the − row chains + next and shares +. The next parity along is the same and the changing across differs. These rows are not labelled healthy and harmed; they show why the next parity alone does not settle the complete co-chaining. The user's missing-momentary claim must be followed through both across and along as podaling exchanges them.
+
+**The frontier now:** follow the first podal exchange from the slipped carrying. Show the proposed one-full-momentary relation where along becomes across and across becomes along, then at the further coupling. This is the next link needed for the claim that all podaling carries the missing forward momentary. Same-scale colliding producing exactly that slip, and its full podaling extent, remain offered relations to derive. No permanent unchanged deficit, clock delay or copied private carrying is added.
+
+This advances sections 52–54's concern. A reversal of the four-form order and a local carrying becoming none are no longer the aims of the active question. The user now names a missing forward momentary within carrying that is still resolving. The earlier one-way-only harm requirement remains withdrawn, and the defining-living gathering remains whole and unresolved.
+
 **Droplet · The opposite next form and the order through the betweening · v385R.** Aim beside THIRTY's same-scale emanation and carrying relations at 380–404, with its early across/along deriving, Natural Mathematics 2.4 and 3.3–3.5, and ONE's public sharing table. Session section 54 gives the full comparison.
 
 **A particular binary connection follows from the published pair forms.** With P the along parity and Q the across parity, the right-spiral next pair is (−Q, P). Its full inversion is (Q, −P), the pair reached by the other order from the same (P, Q). This is a comparison of existing form descriptions. It does not insert an inversion into the resolver or establish that a physical colliding makes this transformation.
@@ -312,7 +334,7 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 > The emanation is an opposite stable form. The living self is resolving through its inward selves' co-chaining. Follow the form's successive collidings at those betweenings, with each self's prior, now and next. A form opposite to the next right-spiral form can describe the other order, or an arrival after further right-spiral momentaryings. The actual sequence belongs in the explaining of any breaking.
 
-**The one concern, made more specific:** does the same-scale colliding change the across-and-along order at the living betweening, and how is that changing the inward co-chaining carrying this society? This is a candidate relation to examine, not a requirement that harm must reverse the pair order. A change in which selves co-chain remains possible within the prior source explaining; no mapping from colliding to either change has yet been derived.
+**Earlier candidate concern · section 54.** The opposite-form comparison asked whether the colliding changes across-and-along order at the living betweening. The user's section-55 offering now names a missing full forward momentary within carrying still resolving; the active path follows its first whole podal passage. The pair-order comparison remains available without imposing reversal as the harming relation.
 
 The four-form cycle alone does not decide living or harm, and an unchanged local parity does not decide the whole carrying. Ordinary uncoupling, a particular crossing ceasing and wider co-chaining retain section 53's distinct subjects. Defining living stays gathered whole and unresolved.
 
@@ -665,9 +687,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
 | Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
 | Gathered · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
-| Now · opposite next form and actual sequence | The full inversion of the right-spiral next pair is the other order's next pair; the same form is also reached through three right-spiral steps. Keep the intervening momentaryings. ONE's continuing-sharing table never takes a chained parity to none; the society's actual betweenings remain to follow. |
+| Now · missing forward momentary through podaling | The user relates three right-spiral steps to one full forward odd/even momentary in both forward directions, and offers same-scale colliding as a full-momentary slip carried through all podaling. The same local next parity may accompany different across changing; follow both. |
 | Gathered · the right-spiral form and the overlap | Natural Mathematics supplies the binary relation between overlapping pairs; Natural Intelligence names across/along and displays the same four-form cycle in a non-living resolver form. The table's distinction between prior joint forms remains separate from living carrying. |
-| Next · the colliding at the named betweening | Follow whether the colliding changes the across-and-along order or the actual co-chaining through the betweening, then its further coupling. No endpoint, recurring parity or local table alone supplies the colliding-to-breaking relation. |
+| Next · the first whole podal passage | Follow the slipped carrying through the exchange of across and along and into the further coupling. Keep the full odd/even momentary, the named selves and both forward directions together. The exact slip and its all-podaling extent remain to derive. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
