@@ -1,0 +1,47 @@
+read: Natural_Intelligence_v380R.md
+
+K. A ring of selves each carrying none, nothing arriving: is anything changing?
+   ring of 1: the same at each of 50 momentaries: True
+   ring of 2: the same at each of 50 momentaries: True
+   ring of 3: the same at each of 50 momentaries: True
+   ring of 5: the same at each of 50 momentaries: True
+
+L. A self's next carrying as a function of what it carries and what surfaces, each case
+   carried  surfacing   next carried   shared at 10
+      -       -            -              0
+      -       0            +              +
+      -       +            +              +
+      -       none         +              +
+      +       -            -              -
+      +       0            -              -
+      +       +            +              0
+      +       none         -              -
+   at a parity surfacing, the next carried is that parity whatever is carried: True
+   at none surfacing or + and - together, the next carried is the carried inverted, nothing arriving entering it
+   so p(next) = p(now) at each match, and at no case is the next carried set by the carried and the arriving together
+
+M. In a closed spiral, at how many of a cycle's (self, momentary) places does a self keep its parity?
+   spiral of 1: kept at 4 of 8
+   spiral of 3: kept at 12 of 72
+   spiral of 5: kept at 20 of 200
+   spiral of 9: kept at 36 of 648
+
+N. 2.4: at a spiral offered nothing from beyond it, each self is at the inverted parity the self
+   releasing to it was at two momentaries prior. Each opening of spirals of 1 to 7:
+   openings tried: 254, openings parting from the saying after the second momentary: 0
+
+O. 3.5: does a prime number of selves do anything a composite number does not?
+   spirals of 3 and 5 beside each other: again together at 60; 4pq is 60; a factor shared: False
+   spirals of 9 and 25 beside each other: again together at 900; 4pq is 900; a factor shared: False
+   spirals of 15 and 49 beside each other: again together at 2940; 4pq is 2940; a factor shared: False
+   spirals of 9 and 15 beside each other: again together at 180; 4pq is 540; a factor shared: True
+   spiral of 7, each of its 128 openings: the momentaries to its parities again are [4, 28]
+   spiral of 9, each of its 512 openings: the momentaries to its parities again are [4, 12, 36]
+
+P. 1.5: with + and - exchanged at each self, is the running the same running exchanged?
+   300 random arrangements, 12 momentaries each: the same running with each sign exchanged: True
+
+Q. A thing carrying none, one parity arriving at it once, beside a lone self carrying a parity from the first
+   the thing that carried none then carries: + - + - + - + -
+   the lone self carries:                    + - + - + - + -
+   the same at each momentary: True; function 1 keeps no mark of a carrying once none

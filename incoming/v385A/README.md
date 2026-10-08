@@ -36,7 +36,7 @@ The whole current gathering-and-aiming droplet is independently at [Offerings to
 
 ## The next contributing
 
-Use the current incoming table and add newly offered outside value through the same method. Update affected droplets when correcting arrives. Name the actual new placements and remaining content, then the next group. The [reciprocal-help record](Reciprocal_Help_v385A.md) supports authorized exchanges with sessions v385R and v385M; read current replies before sending help. Their developing collections need not displace earlier incoming.
+Use the current incoming table and add newly offered outside value through the same method. Update affected droplets when correcting arrives. Name the actual new placements and remaining content, then the next group. The [reciprocal-help record](Reciprocal_Help_v385A.md) supports continuing authorized help with session v385R; read its current replies before sending help. Session v385M is closed by the user. Its [whole active incoming](../v385M/Receiving_v385A.md) is preserved independently of the completed-session artifact, with its remaining concept gathering explicit. No further replies are requested from that session.
 
 Work on working/droplets-and-insertlets-v385A, offered through [pull request 127](https://github.com/chris-j-handel/corus/pull/127). Read the latest branch before publishing and require its expected commit to match. This gathering changes mates and session v385A files; it does not merge or edit another session's branch or a public living exhibit.
 

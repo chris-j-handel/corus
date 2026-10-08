@@ -1,0 +1,22 @@
+A. Each form treated alike, nothing laid over the forms
+      a way with no still at 2 forms, each relabelling: its joint forms go round in cycles of [4]
+   2 forms, each relabelling: ways treating each form alike 4; carrying the prior whole 2; and leaving no joint form still 1
+   3 forms, each relabelling: ways treating each form alike 3; carrying the prior whole 2; and leaving no joint form still 0
+   4 forms, each relabelling: ways treating each form alike 2; carrying the prior whole 1; and leaving no joint form still 0
+   5 forms, each relabelling: ways treating each form alike 2; carrying the prior whole 1; and leaving no joint form still 0
+
+B. Brute count at two and three forms, each way of the 16 and the 19683, the same question
+   2 forms: ways treating each form alike 4; of them carrying the prior whole with no still 1
+   3 forms: ways treating each form alike 3; of them carrying the prior whole with no still 0
+
+C. Three forms with one order round them laid over each self, the same at each momentary
+      a way with no still at 3 forms, turnings of the one order only: its joint forms go round in cycles of [3, 3, 3]
+      a way with no still at 3 forms, turnings of the one order only: its joint forms go round in cycles of [3, 6]
+      a way with no still at 3 forms, turnings of the one order only: its joint forms go round in cycles of [3, 3, 3]
+      a way with no still at 3 forms, turnings of the one order only: its joint forms go round in cycles of [3, 6]
+   3 forms, turnings of the one order only: ways treating each form alike 27; carrying the prior whole 6; and leaving no joint form still 4
+
+D. What a form alike at prior and now can go to, each form treated alike
+   2 forms: from (a, a) the next can be a, or the one other
+   3 forms: from (a, a) the next can be a alone
+   4 forms: from (a, a) the next can be a alone
