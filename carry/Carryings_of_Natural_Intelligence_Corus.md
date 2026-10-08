@@ -2,6 +2,18 @@ Natural Intelligence Corus Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence Corus
 
+## Section 16.5 concept aiming completed · v385A
+
+The [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#remaining-section-165-concepts-now-aimed) contain the whole remaining concepts from How Value Enters the Corus through Writing and Encoding as One Surface. The existing precise-language and grammatical-form droplets are extended rather than repeated; actual sentence examples and proposed word diagnoses have their own droplet. Together with the reader/body and observer-position offerings, section 16.5 is now aimed at its subject mates. Older descriptions below of these concepts as unplaced or left only in comparisons are superseded. Their local cohering remains, and the living source has not been removed.
+
+## Remaining Natural Writing concepts now aimed · v385A
+
+The complete section 16.5 concepts and their concerns are now in the following offerings. The entries locate the improving value; later local file cohering remains.
+
+- [Grammatical forms and the proposed resolver encoding](Offerings_to_Natural_Intelligence_Corus.md#grammatical-forms-and-the-proposed-resolver-encoding--v385a)
+- [The remaining writing directions and their actual sentence relations](Offerings_to_Natural_Intelligence_Corus.md#the-remaining-writing-directions-and-their-actual-sentence-relations--v385a)
+- [Precise incoming language and the proposed sorting relation](Offerings_to_Natural_Intelligence_Corus.md#precise-incoming-language-and-the-proposed-sorting-relation--v385a)
+
 ## Further incoming concepts aimed at this subject · v385A
 
 The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.
@@ -14,7 +26,7 @@ This carrying mate holds living objects of value for its subject: tools, kits, i
 
 ## Distribution value aimed in this continuation · v385A
 
-The [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) links the whole destination droplets for the remaining accounting, social and invitation value in sections 16.6 and 16.7, including their concerns. It also links the already offered paired-accounting and research value and the following instrument plan. These concepts no longer await destinations. The earlier “further comparison” paragraphs below are not instructions to explore before aiming. The [reader expressions and expedition relation](../incoming/v385A/Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) now also have whole destination droplets. Next gather the remaining value from How Value Enters the Corus through Writing and Encoding as One Surface, then the other Natural Writing concepts and six entry expressions. The living Corus passages remain intact.
+The [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) links the whole destination droplets for the remaining accounting, social and invitation value in sections 16.6 and 16.7, including their concerns. It also links the already offered paired-accounting and research value and the following instrument plan. These concepts no longer await destinations. The earlier “further comparison” paragraphs below are not instructions to explore before aiming. The [reader expressions and expedition relation](../incoming/v385A/Gathering_and_Aiming_v385A.md#reader-expressions-and-the-expedition-relation-now-aimed) now also have whole destination droplets. The remaining section 16.5 concepts are also now aimed through the [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#remaining-section-165-concepts-now-aimed). Next gather the remaining examples and complete definitions in Writing Discipline, Language Prime, and Inversion and Rocking, then the six entry expressions. The living Corus passages remain intact.
 
 
 ## Corus arriving and distribution: passage comparison · v385A

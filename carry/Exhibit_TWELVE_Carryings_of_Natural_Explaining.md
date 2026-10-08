@@ -2,6 +2,14 @@ Exhibit TWELVE Natural Explaining Carryings · gathered at v385A
 
 # Carryings of Natural Explaining
 
+## Remaining Natural Writing concepts now aimed · v385A
+
+The complete section 16.5 concepts and their concerns are now in the following offerings. The entries locate the improving value; later local file cohering remains.
+
+- [Grammatical forms and the proposed resolver encoding](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#grammatical-forms-and-the-proposed-resolver-encoding--v385a)
+- [The remaining writing directions and their actual sentence relations](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#the-remaining-writing-directions-and-their-actual-sentence-relations--v385a)
+- [Precise incoming language and the proposed sorting relation](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#precise-incoming-language-and-the-proposed-sorting-relation--v385a)
+
 ## Further incoming concepts aimed at this subject · v385A
 
 The whole concepts and their unresolved conditions are available at this subject's offering mate for later file cohering.

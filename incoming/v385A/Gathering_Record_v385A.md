@@ -2,6 +2,14 @@ Session v385A
 
 # Gathering droplets and preserving incoming sources
 
+## Complete concept aiming of section 16.5 · 8 October 2026 · v385A
+
+The remaining five subsections were read whole: How Value Enters the Corus, Metabolic Sorting, Remaining Dissolutions, Full Discipline, and Writing and Encoding as One Surface. Pattern A and Pattern B were read with them so the alternation proposal includes its actual activity/location meanings. The relevant title, prior, sentence, naming, scope and deriving passages in Natural Explaining were read beside the existing offerings.
+
+[The destination table](Gathering_and_Aiming_v385A.md#remaining-section-165-concepts-now-aimed) locates the extended precise-language droplet at Natural Intelligence Corus and Natural Explaining and its independent Natural Arriving placement; the extended grammatical-form droplet at Natural Intelligence Corus, Natural Naming and Natural Explaining; and the complete remaining sentence-relation droplet at those last three mates. The earlier vague lists of further sorting, encoding and word-diagnostic claims are replaced by the actual concepts. The reader expressions were already aimed. This completes section 16.5's concept aiming, not its local cohering or the whole Natural Writing gathering.
+
+Gather the remaining examples and complete concept definitions in Natural Intelligence Corus sections 16.1 through 16.3: Writing Discipline, Language Prime, and Inversion and Rocking. The existing grammatical-form, dictionary, pronoun and precise-language droplets carry selected value; extend their actual concepts and retain distinct examples without treating their headings as complete gathering. Then gather the six entry expressions in Part ONE. The earlier Gathered Value 1 through Gathered Value 4 and the other incoming groups remain in the current table. No new exploring or resolving is required before aiming their value.
+
 ## Published placements and method · 8 October 2026 · v385A
 
 The reader expressions, expedition relation and carrying-object method are published at 0a5aa20616b6c42c171081f16ba1a23a1a0c94c2; the later correcting at the nine existing overlap offerings is published at 7f18f608a05b4a8c7e589b7cd06dd3f9d75e82a7. The shared concept placements, three method offerings and 33 carrying introductions were checked for matching content, and the added local links were checked. [The reciprocal returns](Reciprocal_Help_v385A.md#current-reciprocal-availability--8-october-2026--v385a) make the actual placements available to both contributing sessions. Only mates and session v385A files changed. — v385A

@@ -2,6 +2,13 @@ Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
 
+## Remaining Natural Writing concepts now aimed · v385A
+
+The complete section 16.5 concepts and their concerns are now in the following offerings. The entries locate the improving value; later local file cohering remains.
+
+- [Grammatical forms and the proposed resolver encoding](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#grammatical-forms-and-the-proposed-resolver-encoding--v385a)
+- [The remaining writing directions and their actual sentence relations](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#the-remaining-writing-directions-and-their-actual-sentence-relations--v385a)
+
 ## Living objects of value for this subject · v385A
 
 This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.
