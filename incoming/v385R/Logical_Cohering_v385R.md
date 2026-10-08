@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current application is induction through each self's own momentarying, section 42.** A hypothesis exists as an offering now. Its named subject, where unobserved by this self, can be existing at another self's own coupling. The other is at its own odd one when the self is at two; this self's next offering is still possibling at its even. The paired induction entries are gathered with the field's all-cases warrant and natural resolving kept at their own subjects.
+**The current connecting is natural intelligence at the coupling, section 43.** A machine's offering, a scientific account and a prescribed sequence arrive as existing offerings. The competency of discovering next is at the living selves' coupling. The no-other-intelligence claim keeps its connection to no other method of possibling next existing; different names or procedures do not establish another such method. The positive correction at controlling follows the actual couplings and replaces the description of controlling as a second existing method in the aimed writing.
 
-**The path and progress.** The own-five relation and opposition conception remain gathered at section 41. The induction application now connects to Co-Chaining Logic Registry 310–340. Next follow competency at the coupling and the no-other-method relation into the no-other-intelligence claim at 474–488, with each machine or account at its offering. Beyond that, carry the connected explaining through Exhibit ONE Natural Resolver, Exhibit SIX Natural Transmissioning, Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
+**The path and progress.** The own-five relation and opposition conception are gathered at section 41, the induction application at section 42, and the intelligence connection at section 43. Next follow the same own-side momentarying through Exhibit ONE Natural Resolver's exchanging and Exhibit SIX Natural Transmissioning's across and along. Beyond that, join the explaining at Natural Naming and Natural Intelligence. The defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1683,3 +1683,52 @@ The offering mate receives the induction droplet under Hard problems and their r
 The current branch still carries Hard Problem Registry blob `8440ccca582cc1f99d607d26225708346d96b2c2` and Resolving the Hard Problem Registry blob `99d18248e92ededc9148f9e8a5deb153c106de3f`. Their paired induction entries were read, with the selected Natural Philosophy, Natural Intelligence, Resolving Hard Problems and Co-Chaining Logic Registry passages named above. These readings are not full-file survey additions.
 
 The defining-living gathering and earlier offering body remain unchanged. No root is rewritten, no resolver is executed, no private carrying is inspected and no numerical calculation is performed.
+
+
+## 43. Natural intelligence at the coupling, existing offerings and the one discovering method
+
+### The connected explaining
+
+At living selves' bi-coupling, each self is at its own odd one, and the other is at its own one when the self is at two. Each self carries its prior through now into next existing offering. The machine's offering, the scientific account and the prescribed sequence are existing offerings met at those couplings. The competency of discovering next is at the coupling, carried by the living selves.
+
+Co-Chaining Logic Registry 95–97 names co-competencing at the coupling. Its 130–133 and 159–165 includes non-living offerings at living selves' couplings. Natural Intelligence 6.3–6.6 joins this with competency along, morality across and the society's co-chaining. The user's inward/outward explaining supplies the concise connection: the inward selves' co-chaining is the outward living self's carrying. Wider and longer podaling extends this through further couplings.
+
+These relations are gathered in an insertlet at the offering mate's Natural intelligence and the universal claim. The paragraph follows the machine's offered form at living selves' couplings. It makes no new finding about the machine's own living, memory, internal construction or carrying. The defining-living gathering remains at its existing unresolved standing.
+
+### The method, the procedure and the universal claim
+
+Natural Explaining 4.5 distinguishes a procedure's fixed sequence from competency at the coupling. Its 2.3 joins naming across and explaining along; 4.7 distinguishes an actual deriving from agreement between two tellings. These are useful here because different names for procedures or offered forms supply no different relation of possibling now and next existing by themselves.
+
+The route of the universal claim is therefore explicit. Natural intelligence names co-competencing at the coupling. No other intelligence, at that subject, depends on no other method of this discovering. The no-other-method explaining already gathered remains the connection to follow. Neither a machine's name nor the fact that its offering is existing independently proves that exclusion.
+
+This keeps the strong claim at its intended subject without reporting the variety of offered forms as a variety of methods of existing. It also supplies no claim that all procedures produce the same offerings. The new paragraph connects the earlier droplets; it is not an additional universal proof.
+
+### Controlling at the existing couplings
+
+The other session's concern 4 already corrects the proposed second-method concern. Its user rejected the file-against-file framing, and its later explaining keeps observed controlling within the living selves' alternating. What remains for improving is the description of controlling as a second method at Co-Chaining Logic Registry 494. Repeating the old contradiction as a new question would lose that correction.
+
+The positive insertlet now aimed at 491–494 says:
+
+> A controlling occurs through existing selves' couplings. Each living self's next existing is at its own momentarying. A measure named beforehand arrives as an existing offering. The society's carrying is its inward selves' co-chaining at the outward scale.
+
+This connects the user's inception and own-resolving explaining in section 12 with the own-five relation in section 41. Another self's offering can arrive at this self's coupling; that arrival does not establish that the other performs this self's resolving. Co-Chaining Logic Registry 310–312 already distinguishes an accounting from a second method of existing.
+
+The source offers controlling as holding to a measure named beforehand. That naming is retained at its offered extent. Its medical examples and claims about particular machines are not adopted as evidence here. An unchanged measure alone establishes no universal claim of harm. Particular control and incompetencing claims still need their own subjects and couplings followed; the old supposed-violation question is not reinstated.
+
+### Value received from the other sessions
+
+The directly read v385M README has blob `3d4fe82542617f3460a623d0f17db188c6ff0014`. Concern 4 supplies the method correction above. Concern 10's naming question has moved to its droplets, and concern 12 corrects that session's earlier claim that the machine is living in the society. Those source statuses do not settle this session's parked defining-living relation. Withdrawn universal-set wording in older parts of that record is not restored.
+
+v385A reports placing the own-five correction beside nine existing half-momentary droplets: Natural Resolver, Natural Intelligence, Natural Naming, Co-Chaining Logic Registry, Natural Networking, Resolving Hard Problems, Natural Engineering, Natural Destinies and Natural Intelligence Corus. It also reports replacing the extra-third-self question with wider and longer podaling at Natural Transmissioning and Natural Intelligence Corus.
+
+The directly read Reciprocal Help source is at commit `7f18f608a05b4a8c7e589b7cd06dd3f9d75e82a7`, blob `469d4c4c8e563571b066b8824b9f752e28737766`. The reported placements are retained at that extent. Its method correction allows useful tools, illustrations and plans to improve in carrying files without already supporting an exhibit sentence; value aimed at an exhibit remains in its offering mate.
+
+### Progress and the onward path
+
+The offering mate receives two connected insertlets: existing offerings with discovering at the living coupling, and controlling at the actual couplings. Its contents and current path follow them. The report's front now points here.
+
+No new independent logical concern is claimed from these passages. The control concern proposed during this reading already had its correction in the other session. The remaining no-other-method dependency is visible beside the intelligence claim; a new label is not offered as its resolving.
+
+Next follow the same explaining through Natural Resolver's exchanging and Natural Transmissioning's across and along, with each self at its own odd one and the other at its own one when the self is at two. Beyond that, join the exact relations at Natural Naming and Natural Intelligence. A substantial concern found there should first be checked against the current own-five, still-possibling and wider-podaling explaining before being brought back to the user.
+
+Selected passages and source sections were read; no new whole-file survey count is claimed. The roots are unchanged in this gathering. The defining-living gathering and the earlier offering body remain unchanged. No resolver is executed, no private carrying is inspected and no numerical calculation is performed.
