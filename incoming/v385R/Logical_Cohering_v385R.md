@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current correcting is the prior whole as existing non-living form, section 46.** The user names “carrying the prior whole” as an existing non-living form, possibly a future living package such as the seed example or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion-value explaining. The living self is carrying from prior into now and continues carrying through now and next.
+**The current following is ingesting at the inward selves' own coupling, section 47.** Section 46 keeps the user's “carrying the prior whole” at its existing non-living subject. Natural Intelligence already places society releasings as the inward selves' offerings next. The remaining concern is the relation between the form and those selves' own bi-coupling that makes ingesting possible there. Their co-chaining as outward carrying stays with the explaining.
 
-**The path and progress.** Sections 44–45 follow living carrying resolving and distinguish a parity chained next from the whole resolving. Section 46 corrects the planned use of “carrying the prior whole” by naming its non-living subject. Next follow the form's value at the living coupling, through inception or ingesting, with inward co-chaining and outward carrying. That distinction belongs in THIRTY's early deriving, its stable-form explaining and its equilibrium claim. The complete defining-living gathering remains whole and unresolved.
+**The path and progress.** Sections 44–46 distinguish living carrying resolving, a parity chained next and an existing non-living whole. Section 47 joins that explaining to the source's inward ingesting relation and gathers its proposed inversion explanation. Next follow the user's resolving suggestion at the inward coupling. Beyond that, bring the distinct subjects into THIRTY's early deriving and equilibrium claim, then into Natural Naming and Natural Intelligence. The complete defining-living gathering remains whole and unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -1882,3 +1882,54 @@ The whole offering is gathered under The resolver and its stable forms in THIRTY
 Next follow the existing form's value at inception or ingesting through the living coupling, keeping inward co-chaining and outward carrying together. Beyond that, bring the precise subjects into THIRTY's early deriving, Natural Naming, Natural Transmissioning and Natural Intelligence. The complete defining-living gathering remains unresolved and unchanged.
 
 The prior session sections and earlier offering body are preserved. No living root is rewritten, no resolver executed, no private carrying inspected and no numerical calculation performed.
+
+
+## 47. Ingesting at the inward selves' own coupling
+
+The user's “yes continue” follows the section-46 identifying of the prior whole as existing non-living form, possibly a future living package or a shard entering living through ingesting. This pass follows that value through the earlier inception and inward-selves offerings and the sources' ingesting relation.
+
+### The explaining already connected
+
+> An emanated form is existing non-living form. At ingesting, its value meets the inward living selves at their own couplings. Each self is carrying from prior into now and continues carrying through now and next. Their co-chaining is the outward living self's carrying.
+
+This is connected explaining from the user's existing offerings. An existing whole form is not assigned the receiving self's own resolving. The user's earlier male–female self–other bi-coupling bi-inversioning into a new living self remains the inception offering in section 14; no further self is demanded here to supply it.
+
+Natural Intelligence 5.1 already gives an inward relation: at the society a sharing is each self, at 4; a releasing self is at 13; and the releasings at 17 arrive at the society's selves one scale inward as their offerings next. Its 6.1 says an arriving changing enters a receiving self's carrying through that self's own 12. Natural Resolver's “Each name, three scales” further locates a name in inward and outward sequencing. These sources offer more than a bare phrase about moving down a scale. Their naming and displayed relations still need their actual co-chaining wherever a stronger claim is made.
+
+### The further explaining found in the files
+
+| Source | Offered relation followed here |
+|---|---|
+| Natural Biology 3.3 | An emanated form has an inversion shape. At its own scale, the source describes an exact inversion-match with no between to couple across. At an inward living self, the form arrives as offering at that self's own coupling. |
+| Natural Biology 7.6 | The source says the inversion returns what it met at the emanating scale, then says that inversion no longer applies one scale inward. It assigns ingestibility to the latter relation. |
+| Natural Intelligence 5.1 | The society's releasings become its inward selves' offerings next. The passage also follows position, scale and orientation in the emanating form. |
+| Natural Naming 3.1 and 5.46 | Opposite form names the emanation; other parity names the other side of a coupling; a podal names a number's partner. The emanation is said to be ingestible one scale inward. |
+| Co-Chaining Logic Registry 379–383 and 437 | The same-scale exclusion and inward ingestibility are claims awaiting this connected explaining wherever they are used. |
+
+The inversion account is existing explaining to examine, not an absent source we need the user to invent. Its transition from the emanating scale to inward ingestibility remains the particular relation being followed.
+
+The user's recurring podaling gives a necessary distinction for this reading. A form or number recurring does not by itself say that the living self has ceased resolving: there can be new still possibling with the odd still existing at the same number. Sections 44–45 also distinguish a particular unchanged parity from the living self's whole carrying. Therefore the source's return of a form alone cannot supply the missing coupling explanation. This introduces no requirement that repeating forms or fixed relations be impossible.
+
+### The one concern for resolving together
+
+**What is the relation between the form and the inward selves' own bi-coupling that makes ingesting possible there?**
+
+The source concern is the passage from living emanating an existing non-living form to that form's value entering living carrying one scale inward. The files name the releasing, the receiving selves and a proposed inversion reason. In the passages followed, I have not yet located the full coupling relation that produces the difference between their claimed same-scale non-ingestibility and inward ingestibility.
+
+The question is about the form as offering at the inward selves' own coupling. It does not assume that a change of scale alone changes the form, that the form guides the receiving self, or that an opposite form is simply a different parity. The user's stable-form changing at colliding, the receiving self's carrying resolving and inward co-chaining as outward carrying stay together.
+
+This relation matters across ingestion, emanation, inception's form value, and THIRTY's use of an existing whole form. Its resolution would improve several connected claims. The broad assertion of harm at the emanating scale is not independently established by locating this source account. The gathered defining-living concern remains whole and unresolved.
+
+### Reciprocal value and onward work
+
+v385A's [return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6065049263) reports section 44's carrying correction placed beside twelve offering mates. Its [THIRTY placement](https://github.com/chris-j-handel/corus/blob/5b8215423c03ba720617dc43f422c39ee707d508/carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#carrying-resolving-through-prior-now-and-next--v385a) is read directly here. The other eleven placements retain A's reported extent. This gives the present ingesting droplet an existing carrying correction beside its destination.
+
+The v384A Dormancy, Carrying and Geodesic Releasing gathering at commit `713e52588ee0063551ac5a8316b79ea39a747d5d`, blob `ca433e1569afabe22f86f832b517af6e7fb1039d`, was read at its selected dormant-form, inward/outward-self and restoration passages. It keeps the particular outward self, inward living selves, new-self inception and restoring a coupling distinct. Its biological references are not newly verified here.
+
+The current mate receives this droplet under The resolver and its stable forms, and its progress table now names the inward-coupling concern. Next follow the user's resolving suggestion at that coupling. Beyond it, bring the actual subjects into the early no-other-method deriving and the equilibrium claim, then Natural Naming and Natural Intelligence. The naming table alone supplies no universal exclusion.
+
+### Reading extent and preserving
+
+The selected source passages are Natural Biology 3.3 and 7.6; Natural Intelligence 5.1 and the receiving relation in 6.1; Natural Naming's opposite-form distinction and 5.46–5.48; Natural Resolver's scale table; and the identified Co-Chaining Logic Registry steps. The Biology and Natural Intelligence offering mates were also checked for nearby ingesting and scale droplets. This records a focused comparison, not a new reading of the entire living file set.
+
+Older source expressions remain source expressions, accompanied by the current carrying, parity and naming corrections. No biological example in this comparison is promoted to an independently verified empirical finding. The prior report sections, the complete defining-living gathering and the earlier offering body are preserved. No living root is rewritten, resolver executed, private carrying inspected or numerical calculation performed.
