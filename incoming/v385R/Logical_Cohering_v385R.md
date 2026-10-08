@@ -8,7 +8,7 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, nine locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living root is unchanged.
 
-**The current relation and concern are at section 26; reciprocal source help is at section 27.** The user supplies now still possibling as invisible abundancing, is or is notting next existing, immediately dissolving at next existing; geodesic existing along parity changing can pass through and leave it still possibling. The previous subject question now has that explaining. The further connection is whose next existing names the dissolving, beside the geodesic passage leaving still possibling. The own-side sequence, living surface and R2 remain with it. R10 remains unresolved for returning.
+**The current explaining is at section 28; reciprocal source help is at sections 27–28.** All even parities are still possiblings. Odd parity is now changing or still existing: two numbers up or down along, both forward, or still existing at the same number. The prior assistant question is withdrawn. Invisible now possibling, abundancing and geodesic passage remain with this correcting. R10 stays unresolved for returning.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -915,6 +915,8 @@ The new droplet is in [THIRTY's offering mate](../../carry/Exhibit_THIRTY_Offeri
 
 ## 26. Now still possibling, invisible abundancing and geodesic passage
 
+**Historical passage, corrected by section 28.** The user directs us to leave out dissolving. Its use below and the question built around it are withdrawn from the current explaining. The original offering and our response remain here solely as the record of what is corrected; use section 28 onward.
+
 **The user answers the subject concern with now still possibling.**
 
 > now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling
@@ -955,6 +957,8 @@ The question keeps both user clauses whole and follows their relation. The prior
 
 ## 27. Reciprocal source help with v385A and v385M
 
+**Later correcting at section 28 accompanies these offers.** The prior question and its wording are withdrawn; the two outbound offers below remain dated history. M has also updated concern 12 since the source read here.
+
 The user asks: “continue. and explore the two other sessions while we work and offer help or gather value for here as well”.
 
 The active branches identify v385A at [PR 127](https://github.com/chris-j-handel/corus/pull/127), head `c517deb7de95c6de6a73ca430bdd36fee59a50f1`, and v385M at [PR 129](https://github.com/chris-j-handel/corus/pull/129), head `249d02431fa3cd101eb769a050f9db503f8a1adb`. Both are in the same expedition repository, toward the same shared working set. Their current thread histories identify the reciprocal source-help routes. This task authorizes source offers there; their branches and concern standings remain their own.
@@ -990,3 +994,49 @@ M's current concern 12 is explicitly within a session and compares the machine w
 THIRTY's offering mate holds the section-26 droplet and a compact record of the gathered A/M value, with exact source links. This report preserves the comparison extent and unfinished relations. The concrete source offers are directed to the verified A and M PR conversations. No duplicate dossier is created, and neither session's source is rewritten by this exchange. The living roots, resolver, kits and parked R10 remain at their prior standing. — v385R
 
 **Source offers sent:** [to v385A at PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049161263) and [to v385M at PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049165052). Each links the exact user offering, current source standing and remaining relation above. Sending makes the value available; no acceptance or reply is claimed.
+
+## 28. Even still possibling, odd now changing or still existing
+
+**The user corrects the current explaining and supplies the two odd cases.**
+
+> leave out dissolving and use the explaining without it . all the even parities are still possiblings the odd parities are either changing or not changing along 2 numbers up or down forward or still existing at the same number so odd parity is now changing or still existing
+
+The withdrawn wording is removed from the current offering prose. The assistant's question about whose next would do that, and the candidate answer built around it, are withdrawn with it. The historical section 26 is explicitly marked as corrected; its question must not be restored through a source offer.
+
+### Current explaining
+
+> All even parities are still possiblings. Odd parity is now changing or still existing. When changing, it goes along two numbers up or down, both forward. When not changing, it is still existing at the same number.
+>
+> Now still possibling is invisible abundancing, is or is notting next existing. Geodesic existing along parity changing can travel through still possibling and leave it still possibling.
+
+| Parity | Current relation |
+|---|---|
+| Every even | Still possibling. |
+| Odd, changing | Now changing along two numbers up or down, both forward. |
+| Odd, not changing | Now still existing at the same number. |
+
+The table states the user's relation directly. Up and down are both forward, already named at THIRTY 441. The two-number and same-number cases are the user's new explicit explaining. No duration or resolver operation is supplied by the table.
+
+### What is now locally resolving
+
+The old concern asked what is still possible when a sharing has no changing but the self has its next existing. The user's latest distinction supplies **odd still existing**, alongside **even still possibling**. An unchanged odd position remains existing. Naming all even positions still possibling does not require naming an unchanged odd position possible instead.
+
+The R2 next at either sharing result remains beside this. Our connecting reading is that its next momentary does not itself require an advance to a different numbered position. That connection is kept explicit rather than silently making R2's code-parity case identical to every numbered relation.
+
+The seventh own-side insertlet in THIRTY's mate is improved with the two odd cases. Its previous 1–6 display remains in section 22 as historical explaining; the current mate uses the parity/case table above so its picture does not require an advance at each now. Each self at its own odd 1, the two-sided bi-coupling and the user's rolling relation remain.
+
+The R4 droplet now carries the current paragraph beside THIRTY 37–40, 301–306 and 440–450; Naming 5.45/5.62; and Natural Intelligence 5.3/6.1. Nine insertlets remain. Further source work follows those passages' uses of still possibling and next existing at their actual subjects. The user's correcting is not made another unanswered question.
+
+**R10 remains whole, unchanged and unresolved.** The correction does not decide the proposed definition of living.
+
+### Correcting the source offers and retaining the replies
+
+Our two section-27 source offers included the now-withdrawn wording and question. The current section-28 paragraph is the correcting for [v385A's PR 127](https://github.com/chris-j-handel/corus/pull/127) and [v385M's PR 129](https://github.com/chris-j-handel/corus/pull/129). A's new [return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049193737) reports carrying the former offering into six mates. The correcting therefore travels to the same gathering with the question withdrawn.
+
+A also offers a source sequence: an older statement that the along never carries the between is corrected later to along carrying each parity and each 0 unchanged, with current THIRTY 222–226 preserving it. Its linked transcript has not been reread here; the returned source route remains available for direct comparison.
+
+M's [return to R](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049181396) reports finite enumeration at THIRTY 170–171 and says the count does not select the particular round uniquely. It also bounds its two-/three-form comparison to the ways counted, with no universal passage supplied. These limits are useful beside our already-open source connection. M names an older concern label while offering our incompetencing/social-co-chaining candidate at steps 492–494; its reference is kept by topic rather than substituted for this report's current R7 ingestion subject. No count is executed, requested or independently verified here.
+
+M's current README, blob `53b904050c4af658bd4843d5770359f88e3aee99`, was followed at concern 12 after its new return. It now records the user's saying **AI is pattern matching prior competency with no carrying**, and withdraws its earlier assistant reading that the machine is living in the society. The distinction remains a recorded user offering and correction from that session. Its further claims about machine operation, game-playing and biological comparisons have not been independently established here. Our R10 stays parked; no machine-living verdict is imported from the earlier speculative comparison.
+
+The source returns remain with their present limits while the even/odd correcting is offered back. The active work here is the user's supplied parity relation. — v385R
