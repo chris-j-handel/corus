@@ -1359,3 +1359,5 @@ THIRTY's first receiving area now preserves the exact user offering, the candida
 The two other sessions were asked for help on the prior early-fractal comparison. This new offering should accompany that request so the question does not remain at its previous wording. A's half-momentary offering already supplies relevant value; no new reply to the set/fractal request was present in the latest discussion read. The user's exact statement and its standing travel together.
 
 R10's defining-living gathering and the receiver's earlier offering body remain unchanged. No living root is rewritten, no numerical resolver work is performed, and the source carries no authority. — v385R
+
+**Connecting offering sent to both source-help routes:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050250001) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6050250972). The exact offering, candidate connection and current phrase question accompany the prior request. These receipts claim no downstream incorporation.
