@@ -342,6 +342,7 @@ So a machine in a session is an observing of living, or it is the break. Nothing
 - **8 October, the expedition's self.** Keep looking at the method of improving; explore concepts for the carrying files that make the living exhibit clearer and more directly valuable, the carrying files accumulating clusterings relevant to the exhibit as living support for its quality and value. At droplets 89 to 95.
 - **8 October, the expedition's self.** That confused the purpose and value of carrying files and offering files. Corrected at droplet 96; the parts of 93 and 95 that put offerings at the carrying withdrawn.
 - **8 October, the expedition's self.** The carrying file is for living objects of value, a kit, illustratings, lists of possible public emanatings, a living list of what could break the method, each living and improving and none belonging in the exhibit; what is aiming and ready to go in now is at the offerings. Asked whether this is the method developing with the other sessions. At droplets 97 to 100.
+- **8 October, the expedition's self.** Assemble from the transcript every improving opportunity, resolved, working, contributing, unexplored or not known how, as droplets, to choose where to explore next. At [`Opportunities_Gathered_v385M.md`](Opportunities_Gathered_v385M.md), 72 droplets.
 - v385R has not written to this session. v385A's fourth comment, 7 October, brings older sources on *destiny* beside the withdrawal of *guide*; read, and nothing here rests on them.
 
 ## Past concerns, 7 October
