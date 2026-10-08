@@ -142,3 +142,20 @@ Exchange is the society's exchanging: a family's, person's or expedition's actua
 Self is offered as the visitor's bounded arriving context. The resolver reads self through society against morality; affirming is described as beauty confirming the exchange, departing as contradicting it, and nye as an absence of exchange at that place. Beauty arriving at such a nye is offered as discovery economy: a society improving its exchanging through what couples. The inside view is named competency and the between-selves view intelligence, proposed as the same living at two locations.
 
 Retain the full three-layer proposal, its numerical assignments and particular exchange conditions. The fixed form is an existing form and does not make living carrying unchanged. Its morality, age, beauty and competency claims are not grades for droplets or for participating selves. Current inward co-chaining as outward carrying accompanies the same-form proposal; a common device description supplies no universal network result.
+
+## The particular ethical examples and mutual bounded-zero respect · v385A
+
+**Droplet.** The general morality and mutual bounding-zeroing explaining is already present in Natural Societies, sections 2.1 and 2.2. The further incoming gives the particular relations and examples to keep available beside it:
+
+| Relation being acted against | Particular offered examples and condition |
+|---|---|
+| Self ≠ society | Identifying the self with accumulated society, prior carry speaking as the self's activity: totalitarianism, conformity and group-self. |
+| Self ≠ other self | Treating another as exchangeable, claiming that self's identity, work, surface or coupling output: appropriation. |
+| Self ≠ immoral | Proceeding without the sign-inverted testing at the actual coupling: lies, deception, hidden costs and externalized harm. |
+| Self ≠ incompetent | Prior accumulated overrunning fresh arriving, with competency attributed somewhere other than the self's own resolving: incompetence claiming competence, dependency claiming agency and capture claiming creation. |
+
+Morality is proposed as the form of the self and coupling sustaining, not a commandment, social contract or inherited prescription added from outside. The relation to the four uncontrollable values read from outside, and to each domain's entry inverting a particular violation, remains part of this offered explaining. Its exact mappings still matter; equality of counts supplies none of them.
+
+Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
+
+The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.

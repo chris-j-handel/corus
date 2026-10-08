@@ -347,3 +347,20 @@ The complete proposed four-value geometry is opportunity with uncapturable abund
 It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
 
 Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+
+## The particular ethical examples and mutual bounded-zero respect · v385A
+
+**Droplet.** The general morality and mutual bounding-zeroing explaining is already present in Natural Societies, sections 2.1 and 2.2. The further incoming gives the particular relations and examples to keep available beside it:
+
+| Relation being acted against | Particular offered examples and condition |
+|---|---|
+| Self ≠ society | Identifying the self with accumulated society, prior carry speaking as the self's activity: totalitarianism, conformity and group-self. |
+| Self ≠ other self | Treating another as exchangeable, claiming that self's identity, work, surface or coupling output: appropriation. |
+| Self ≠ immoral | Proceeding without the sign-inverted testing at the actual coupling: lies, deception, hidden costs and externalized harm. |
+| Self ≠ incompetent | Prior accumulated overrunning fresh arriving, with competency attributed somewhere other than the self's own resolving: incompetence claiming competence, dependency claiming agency and capture claiming creation. |
+
+Morality is proposed as the form of the self and coupling sustaining, not a commandment, social contract or inherited prescription added from outside. The relation to the four uncontrollable values read from outside, and to each domain's entry inverting a particular violation, remains part of this offered explaining. Its exact mappings still matter; equality of counts supplies none of them.
+
+Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
+
+The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.

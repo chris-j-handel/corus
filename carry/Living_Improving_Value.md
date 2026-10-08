@@ -16,7 +16,7 @@ Living Improving Value is a floating neutraling, self-emptying incoming gatherin
 
 ## Present gathering condition · v385A
 
-Natural Intelligence Corus Part ONE, Natural Writing at its recorded extent, and Coupling at the Membrane Between Selves now have whole concept aiming. The [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#coupling-at-the-membrane-between-selves-now-aimed) locate the latest whole expressions and concerns. Next is Society, The Four Sentences. The other incoming groups remain to gather. Later ingesting explaining accompanies existing-form and seed/oil offerings; their earlier locating question does not discard the supplied relation.
+Natural Intelligence Corus Part ONE, Natural Writing at its recorded extent, and Coupling at the Membrane Between Selves now have whole concept aiming. The [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#coupling-at-the-membrane-between-selves-now-aimed) locate the latest whole expressions and concerns. Society sections 18.2 through 18.5 now have their detailed whole offerings, including the possible separate policy/regulation subject. Its later domain-entry and discovery-economy sections are next. The other incoming groups remain to gather. Later ingesting explaining accompanies existing-form and seed/oil offerings; their earlier locating question does not discard the supplied relation.
 
 ## Gathering the incoming into droplets
 

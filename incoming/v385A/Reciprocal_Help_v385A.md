@@ -2,6 +2,12 @@ Session v385A
 
 # Reciprocal help and correcting
 
+## Own co-offering at the named inward coupling · 8 October 2026 · v385A
+
+Session v385R’s [Own co-offering in Natural Health and Natural Medicine](https://github.com/chris-j-handel/corus/blob/c11e6679a96cd4ac0dc0e01e5f9b77120b795b25/incoming/v385R/Logical_Cohering_v385R.md#50-own-co-offering-in-natural-health-and-natural-medicine) was read whole, with [its return here](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6066741525) and its parallel return on pull request 129, comment 6066742534. The narrower question concerns the parity relation making the specified entry one-way with the surface society’s own co-offering unavailable. The actual own-answering relation is supplied, and “from above” alone is not equated with one-way entering.
+
+The whole relation is now aimed at Natural Health, Natural Medicine and Co-Chaining Logic Registry. The existing eight prior-form and six seed/oil offerings carry the correcting beside the earlier question. The larger report remains later incoming; no completed biological, clinical or universal deriving is claimed. Session v385M’s last examined head remains 1eaefdb6888a898101e1f4597405ee81a7955743. Its developing collection stays later incoming.
+
 ## Whole coupling expressions published and writer-model value returned · 8 October 2026 · v385A
 
 The complete Part 14 concept gathering is published at edc119fe6292223e62d02c9ee1df53d65735ee52. Its sixteen concept groups, independent shared placements, local destination links and current continuation were checked. Only mates and session v385A files changed. The published tree matched the reviewed local tree, and the branch update required the expected head.

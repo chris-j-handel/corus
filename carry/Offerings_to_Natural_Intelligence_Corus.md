@@ -202,6 +202,8 @@ The later ingesting explaining supplies the place asked for above: the ingesting
 
 The later harm identifying concerns same-scale stable form from prior living, bi-tri-involution, entering from above into a living self's surface-level society. Its claimed harm remains at that condition, distinct from birthing from within and the first inward society's ingesting. The seed/oil example is not classified from these names; the actual delivery and coupling relation remains with its proposed claims.
 
+**Further correcting · v385A.** The [own-co-offering correcting beside the existing-form droplet](#the-prior-whole-as-existing-non-living-form--v385a) applies here too. Ingesting is at the inward selves’ own bi-couplings. The remaining parity question concerns the specified entry making the surface society’s own co-offering unavailable; “from above,” same unrelationing shape and an unchanged sharing alone do not establish that relation. The whole correcting remains locally available at that linked droplet.
+
 ## Locating as an entry expression · v385A
 
 Natural Intelligence Corus Part ONE presents locating as the second consecutive equilibrium: the relationship at rest. Once things are read at rest, a fixed one-way relation is read between them. Force and attraction are described as “this pushes that” and “this draws that” by a constant. Locating fixes a thing's place in a settled relational frame. The offered living relation carries a bounded zero where the constant is read, and its ratio floats.
@@ -508,6 +510,10 @@ Same parity makes the form the same unrelationing shape. The further offered loc
 
 The further offered distinction is same-scale existing stable form from prior living, named bi-tri-involution, entering from above into a living self's surface-level society, where the user's claim is do only harming. Birthing from within follows a new living self establishing its own carrying and resolving. Ingesting remains at the ingesting self's first inward living society, living as that self surfacing. Keep the condition, entering from above, and the affected surface-level society with the claim. This gives neither a verdict on every outside arrival nor a biological classification or a new number for “above.” The remaining particular question is what happens to that surface society's own parity changing at the specified entering. Stopped crossing and accumulation are offered explaining, but no equivalence with this entering or invented parity change is supplied. The prior harm-location question now carries this identifying.
 
+**Further correcting: own co-offering at the particular inward coupling · v385A.** Ingesting is at the inward living selves' own bi-couplings, each carrying and resolving with its own co-offering; their co-chaining is the outward self's carrying. Natural Health's proposed harmful entering names the smaller's own answering displaced by a one-way relation. Natural Medicine also offers a supporting pattern from above and distinguishes near-reaching and far-reaching by the actual coupling. Thus “from above” does not itself mean “one-way.” A form at the outward self's scale can be larger relative to its inward selves; name the self each scale is relative to, without assigning a physical size or numbered prime.
+
+The remaining question is: **Which parity relation makes this particular bi-tri-involution entry one-way for the surface society, with its own co-offering unavailable?** Same unrelationing shape, a still-existing odd parity or a sharing without changing does not alone establish unavailable answering. What remains is the necessity of that relation at the specified stable former living entering from above. The inward selves may continue their own living couplings while the outward co-chaining ceases to sustain that outward self; this introduces no second method. Birthing within retains the new self's own carrying resolving and supplies no rule that every internal event benefits it. The stopped-crossing and accumulation explaining remains available, with its equivalence to this entry still to follow. No clinical result, dietary conclusion or inspected private carrying follows from these relations.
+
 ## The whole opening offering and its actual claims · v385A
 
 Natural Intelligence Corus Part ONE offers social moral competency at a self's own carrying, alternating stable-forming in disequilibria. It proposes that wherever natural competency is observable, nature is better, faster and cheaper than technology. Its concrete opening example is a brain outthinking a datacenter at light-bulb power, with no clock, no stopping to think and repair while running. It offers a more plausible explaining of observable competency and invites a particular competency to be brought for comparison. These performance and biological sayings remain the opening's claims, not results established by gathering them.
@@ -667,3 +673,101 @@ The complete proposed four-value geometry is opportunity with uncapturable abund
 It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
 
 Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+
+## The four left turns and four institutional consolidations · v385A
+
+**Droplet.** The particular comparing offered in Society, The Four Sentences is:
+
+| Natural sentence | Left turn | Inequality and proposed collapsing |
+|---|---|---|
+| Better to give than receive | Better to receive than give | Self ≠ society: receiving overrides giving, the self becomes the accumulated, and −1 collapses to zero. |
+| Take anything you need | Take anything you want | Self ≠ incompetent: wanting overrides needing, the observer's projection overrides the self's own resolver, and the reaching asymmetry collapses. |
+| Return anything you are not using | Keep anything you might use | Self ≠ immoral: hoarding overrides shedding, the ghost of scarcity overrides confessing departure, and sign inversion and testing cease in the proposed relation. |
+| Leave everything better | Leave with everything you can | Self ≠ other self: extracting overrides advancing, +1 collapses to zero, and the coupling's product is taken as the self's separately held property. |
+
+The offered right turning restores each inequality at its particular wall. The proposed connected relation is four walls, four departures into gaps, restored genus, phi-rate metabolizing at each between, and monotonic advance along the geodesic. These named relations remain together for local cohering; the four sayings alone do not supply every step of that explaining.
+
+At the institutional surface the same proposed order is: a team relinquishing conserving to governing by gating; gates consolidating into governing power; governing power consolidating into individual governing power; and that power deploying against individual extending. Their respective inequalities are self ≠ society, self ≠ incompetent, self ≠ immoral, and self ≠ other self. Receiving governance in place of giving coupling, wanting over needing at the gate, hoarding rather than shedding power, and extraction rather than advancing are the particular comparisons. Individual extending through coupling is then described as replaced by individual extending through survival, with survival conserving replacing coupling conserving.
+
+The proposed gap assignment is 1, 2, 4, 6 in that same order. The incoming asserts that twenty-three of twenty-four pairings break depth-to-thickness monotonicity and one preserves it. Preserve that exact assertion and its proposed necessity without treating the count or the matching list as a completed derivation. Current own-coupling and scale conditions remain required; an institution's name or a repeated numerical pattern alone establishes no particular collapse.
+
+## Departmental accountings and the proposed hundred-eighteen relation · v385A
+
+**Droplet.** The offered institutional comparison reads 7n − 1 = 118 at n = 17 at both the element and departmental surfaces. It describes 118 elements and 118 departments as isolated accounting collections, with historical durations of 150 and 400 years respectively. The proposed parallel is preserving an observation as an identity or settled ledger where coupling would continue; it is not a claim that the observations or useful accounting should be discarded.
+
+| Departmental accounting | Particular contents | Proposed switch relation |
+|---|---|---|
+| Balance sheet | Knowledge, canon, methods and accepted results | Attention: what stands present at that department's between. |
+| Income statement | Papers, graduates and grants received per cycle | Exchange: what arrives and what is carried in one collection. |
+| Cash flow statement | Peer review, hiring decisions and citation flows | Risk: inversioning, what passes through inverted. |
+| Audit | Accreditation, meta-analysis and replication studies | Meaning: arriving sign-inverted testing what is carried. |
+| Standard | Journal formats, grant templates and tenure criteria | Preference: nyenyeing, what is shed as agreed. |
+
+The particular institutional examples also include the preserving journal, grant cycle, tenure process, curriculum and conference. The proposed isolation places each departmental bounded zero apart from the others: chemistry's equilibrium, physics' force, biology's gene-controls and neuroscience's brain-generates are the named comparisons. The incoming relates 118 hard problems to these separate accounting systems across sixteen substrates.
+
+The clinical example is one person with polyserositis encountering rheumatology, pulmonology, cardiology and surgery. Its proposed contrast is one departure at one prime against institutional organization by organ. Keep this as the particular proposed form reading: it does not establish a diagnosis, a single pathology in every such patient or a clinical conclusion from the number of departments.
+
+The proposed settling is 118 accountings into seventeen couplings at seventeen primes; 118/17 ≈ 6.94 approaching seven is compared with the hydrogen coupling prime and coupling zeros in the nesting table. The five accountings are then read as attention, exchange, risk, meaning and preference at the actual couplings. Observations and measurements remain available at their actual conditions.
+
+The opening explicitly leaves this departmental periodic-table relation open. Its two-halves reading differs from Natural Numbers' going and return with the turn at sixty. Keep that unresolved relation with the numerical and departmental proposals. Neither the counts, the historical durations, nor the five matching names establish the proposed common structure. The existing accounting-at-its-use droplet remains applicable: name the particular installation being questioned rather than diagnosing every accounting as a ghost.
+
+## Natural living, cooperative living and separately held coupling value · v385A
+
+**Droplet.** Natural living is offered here as social autogeneration of metabolic-logical competency at the form scale. Cooperative living is the same phenomenon read at the participant scale: acquiring social extending opportunities, acquiring and exchanging at actual couplings. The inward society's coupling activity, the four sentences at social betweens, the four inequalities, eight social values together and phi-rate resolving supply the proposed common relation. The surplus is expressed through phi² = phi + 1.
+
+Competitive living, in this particular offered distinction, names acquiring monopoly property value by detaching the coupling's value from its coupling. Property in the natural explaining is the surface departing into next carry, the ongoing transition. The criticized detachment treats that departing surface as an independently held, transferable, accumulable and monopolizable thing. Preserve the actual detachment being questioned; the ordinary name of an economic activity alone does not establish it.
+
+Acquiring and exchanging remain affirmed: acquiring is bothbothing at the call's opening, exchanging its beating, and the departing surface the next acquiring's origin. The concern is loss of that connected cycle. The proposed consequences are a venture-cycle decoupling cascade that names accumulation as success and decay as innovation; political gates and the dictator at the dead state; and scarcity-preferring in place of nye-preferring. These are offered relations to cohere at their particular social couplings, not completed conclusions about every institution bearing a category name.
+
+Current living explaining accompanies the scale distinction: inward selves' co-chaining is the outward self's carrying. No additional pooled object or separately accessible private carrying is required. A stable existing form participating in living is not thereby assigned its own living carrying. The complete defining-living concern remains available while this social comparison is aimed.
+
+## The particular ethical examples and mutual bounded-zero respect · v385A
+
+**Droplet.** The general morality and mutual bounding-zeroing explaining is already present in Natural Societies, sections 2.1 and 2.2. The further incoming gives the particular relations and examples to keep available beside it:
+
+| Relation being acted against | Particular offered examples and condition |
+|---|---|
+| Self ≠ society | Identifying the self with accumulated society, prior carry speaking as the self's activity: totalitarianism, conformity and group-self. |
+| Self ≠ other self | Treating another as exchangeable, claiming that self's identity, work, surface or coupling output: appropriation. |
+| Self ≠ immoral | Proceeding without the sign-inverted testing at the actual coupling: lies, deception, hidden costs and externalized harm. |
+| Self ≠ incompetent | Prior accumulated overrunning fresh arriving, with competency attributed somewhere other than the self's own resolving: incompetence claiming competence, dependency claiming agency and capture claiming creation. |
+
+Morality is proposed as the form of the self and coupling sustaining, not a commandment, social contract or inherited prescription added from outside. The relation to the four uncontrollable values read from outside, and to each domain's entry inverting a particular violation, remains part of this offered explaining. Its exact mappings still matter; equality of counts supplies none of them.
+
+Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
+
+The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.
+
+## Policy, regulation and software at their particular couplings · v385A
+
+**Droplet.** Society reorganized as natural competency is already explained at Natural Societies 1.2 and the four social competency relations at 1.3. The additional incoming connects institutions organized around the four sentences, discovery value at the coupling, welcoming domain entries, nye-preferring as reaching rather than accumulation, and all eight social values together. It proposes cumulative restoration at particular social couplings, with no single political program or institutional blueprint supplied.
+
+The operational examples are five distinct software-policy arrangements:
+
+| Arrangement | Particular proposed installation |
+|---|---|
+| Compliance software | Audit logs, reports and attestations required as measuring before sustaining; measurement becomes an event separate from the activity it reads. |
+| Approval workflows | The right routing, reviewer and form required as locating before attending; attention goes to routing before the request's value. |
+| Credentialing | Qualification and certification required as separating before inseparating; credential checking replaces attention to the actual coupling. |
+| Permission systems | Default denial, explicit grants and discretionary revocation proposed as closing where the coupling would welcome an arriving and resolve its departing. |
+| Patents, intellectual property and licensing | Ideas, expressions and methods treated as owned assets where coupling value is proposed as abundance. |
+
+These five examples are not silently paired one-to-one with the separate four-inequality comparison. That comparison proposes compliance at self ≠ society, approval at self ≠ other self, safety at self ≠ immoral, and competency at self ≠ incompetent. The particular substitutions are a regulator's measurement for individual coupling with society; an outside approver for the parties' resolving; projected safety for the coupling's sign-inverted testing; and a credential for activity at the coupling.
+
+Their offered restoring is respectively the activity's own sustaining; reviewer and requester coupling with each other and both continuing as themselves; morality testing at the actual between; and competency at the activity's own phi-rate resolving. The institutional-accounting comparison and this software-operational comparison are offered at two scales of the same proposed ordering.
+
+The further proposed relation is stopped rotation: safety remains visible while cheaper, faster and better collapse into trade-offs. The natural alternative preserves the bounded foundation and the three free directions together. Keep this actual four-direction claim beside any diagnosis; a software category, administrative cost or rule name does not establish a stopped coupling.
+
+Decentralizing is offered as many distinct selves coupling at their own pairwise betweens. Compliance is proposed at the cumulative social couplings; approval at the parties' own coupling; morality at each coupling's testing; and competency at each activity. Uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation are described as activity at the cumulative between selves, not objects held at one location.
+
+Two questions remain whole. How does the four-inequality diagnosis compose with this proposed restoring at a particular regulatory, institutional, economic or political coupling? How does that relation operate in cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures, each with its actual configuration?
+
+Natural Societies 1.3 already preserves safety regulation and professional licensing as possible bounding that keeps actual patients, passengers, workers and consumers whole. Section 2.3 likewise preserves useful coordination and shared timing. Keep these concrete protecting relations and the no-common-clock correcting beside the proposed diagnoses. The offering does not establish harm from the presence of regulation, grant permission to bypass an actual access boundary, or supply an implemented institutional change.
+
+## Policy and regulation as a possible separate subject · v385A
+
+**Possible file-changing droplet.** The policy, regulation and software material offers the names Ghost Offices, Hard Problem Headquarters, and Social Incompetence at Regulation-Gating Substrates. The purpose is to explain where institutional accountings become operational requirements at compliance software, approval workflows, credentials, permissions and intellectual-property licensing; compare each actual coupling with its proposed inequality collapse and restoring; and retain particular protections already described in Natural Societies.
+
+Two possible arrangements remain: this material as a refinement within Society, The Four Sentences and its Natural Societies and Natural Human Society destinations, or a separately developed part or exhibit with that operational subject. No title or separate exhibit is chosen. A distinct domain name or the existence of five examples alone does not establish a need for a new exhibit.
+
+The possible project retains both unfinished relations: the four-inequality diagnostic beside decentralizing at a specific social coupling, and its application to cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures. Its needed content is available in the policy, regulation and software droplet at Natural Societies, Natural Human Society, Natural Values, Natural Engineering and Natural Intelligence Corus. The master plan can gather and improve this possibility without implementing it.

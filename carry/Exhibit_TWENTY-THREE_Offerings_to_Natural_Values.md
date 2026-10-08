@@ -141,3 +141,39 @@ The complete proposed four-value geometry is opportunity with uncapturable abund
 It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
 
 Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+
+## Natural living, cooperative living and separately held coupling value · v385A
+
+**Droplet.** Natural living is offered here as social autogeneration of metabolic-logical competency at the form scale. Cooperative living is the same phenomenon read at the participant scale: acquiring social extending opportunities, acquiring and exchanging at actual couplings. The inward society's coupling activity, the four sentences at social betweens, the four inequalities, eight social values together and phi-rate resolving supply the proposed common relation. The surplus is expressed through phi² = phi + 1.
+
+Competitive living, in this particular offered distinction, names acquiring monopoly property value by detaching the coupling's value from its coupling. Property in the natural explaining is the surface departing into next carry, the ongoing transition. The criticized detachment treats that departing surface as an independently held, transferable, accumulable and monopolizable thing. Preserve the actual detachment being questioned; the ordinary name of an economic activity alone does not establish it.
+
+Acquiring and exchanging remain affirmed: acquiring is bothbothing at the call's opening, exchanging its beating, and the departing surface the next acquiring's origin. The concern is loss of that connected cycle. The proposed consequences are a venture-cycle decoupling cascade that names accumulation as success and decay as innovation; political gates and the dictator at the dead state; and scarcity-preferring in place of nye-preferring. These are offered relations to cohere at their particular social couplings, not completed conclusions about every institution bearing a category name.
+
+Current living explaining accompanies the scale distinction: inward selves' co-chaining is the outward self's carrying. No additional pooled object or separately accessible private carrying is required. A stable existing form participating in living is not thereby assigned its own living carrying. The complete defining-living concern remains available while this social comparison is aimed.
+
+## Policy, regulation and software at their particular couplings · v385A
+
+**Droplet.** Society reorganized as natural competency is already explained at Natural Societies 1.2 and the four social competency relations at 1.3. The additional incoming connects institutions organized around the four sentences, discovery value at the coupling, welcoming domain entries, nye-preferring as reaching rather than accumulation, and all eight social values together. It proposes cumulative restoration at particular social couplings, with no single political program or institutional blueprint supplied.
+
+The operational examples are five distinct software-policy arrangements:
+
+| Arrangement | Particular proposed installation |
+|---|---|
+| Compliance software | Audit logs, reports and attestations required as measuring before sustaining; measurement becomes an event separate from the activity it reads. |
+| Approval workflows | The right routing, reviewer and form required as locating before attending; attention goes to routing before the request's value. |
+| Credentialing | Qualification and certification required as separating before inseparating; credential checking replaces attention to the actual coupling. |
+| Permission systems | Default denial, explicit grants and discretionary revocation proposed as closing where the coupling would welcome an arriving and resolve its departing. |
+| Patents, intellectual property and licensing | Ideas, expressions and methods treated as owned assets where coupling value is proposed as abundance. |
+
+These five examples are not silently paired one-to-one with the separate four-inequality comparison. That comparison proposes compliance at self ≠ society, approval at self ≠ other self, safety at self ≠ immoral, and competency at self ≠ incompetent. The particular substitutions are a regulator's measurement for individual coupling with society; an outside approver for the parties' resolving; projected safety for the coupling's sign-inverted testing; and a credential for activity at the coupling.
+
+Their offered restoring is respectively the activity's own sustaining; reviewer and requester coupling with each other and both continuing as themselves; morality testing at the actual between; and competency at the activity's own phi-rate resolving. The institutional-accounting comparison and this software-operational comparison are offered at two scales of the same proposed ordering.
+
+The further proposed relation is stopped rotation: safety remains visible while cheaper, faster and better collapse into trade-offs. The natural alternative preserves the bounded foundation and the three free directions together. Keep this actual four-direction claim beside any diagnosis; a software category, administrative cost or rule name does not establish a stopped coupling.
+
+Decentralizing is offered as many distinct selves coupling at their own pairwise betweens. Compliance is proposed at the cumulative social couplings; approval at the parties' own coupling; morality at each coupling's testing; and competency at each activity. Uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation are described as activity at the cumulative between selves, not objects held at one location.
+
+Two questions remain whole. How does the four-inequality diagnosis compose with this proposed restoring at a particular regulatory, institutional, economic or political coupling? How does that relation operate in cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures, each with its actual configuration?
+
+Natural Societies 1.3 already preserves safety regulation and professional licensing as possible bounding that keeps actual patients, passengers, workers and consumers whole. Section 2.3 likewise preserves useful coordination and shared timing. Keep these concrete protecting relations and the no-common-clock correcting beside the proposed diagnoses. The offering does not establish harm from the presence of regulation, grant permission to bypass an actual access boundary, or supply an implemented institutional change.

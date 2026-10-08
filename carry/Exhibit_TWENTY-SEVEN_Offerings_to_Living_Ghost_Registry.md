@@ -175,3 +175,23 @@ Keep the expected condition, the actual arriving or remaining, and the proposed 
 It then claims that each projection dissolves as the reader reads its dissolution at that observer's membrane, and calls that reading protection. Preserve this whole proposed connection, including the proposed dissolving and protection. The useful question for later explaining is the actual relation between the stated observer position and the reader's particular reading. Believing one understands, skipping a section or arriving with one's own prior needs its own context; the named action alone supplies no observing that every reader occupies the proposed position or that reading the passage dissolves it. The reader's own prior and interest remain welcome. This is a droplet for explaining an installed accounting at an actual use, not a diagnosis of a reader.
 
 The incoming passage is [Reader's Own Substrate](../Natural_Intelligence_Corus_v330.md#readers-own-substrate). The related complete reading expression is at Natural Arriving and Natural Intelligence Corus.
+
+## Departmental accountings and the proposed hundred-eighteen relation · v385A
+
+**Droplet.** The offered institutional comparison reads 7n − 1 = 118 at n = 17 at both the element and departmental surfaces. It describes 118 elements and 118 departments as isolated accounting collections, with historical durations of 150 and 400 years respectively. The proposed parallel is preserving an observation as an identity or settled ledger where coupling would continue; it is not a claim that the observations or useful accounting should be discarded.
+
+| Departmental accounting | Particular contents | Proposed switch relation |
+|---|---|---|
+| Balance sheet | Knowledge, canon, methods and accepted results | Attention: what stands present at that department's between. |
+| Income statement | Papers, graduates and grants received per cycle | Exchange: what arrives and what is carried in one collection. |
+| Cash flow statement | Peer review, hiring decisions and citation flows | Risk: inversioning, what passes through inverted. |
+| Audit | Accreditation, meta-analysis and replication studies | Meaning: arriving sign-inverted testing what is carried. |
+| Standard | Journal formats, grant templates and tenure criteria | Preference: nyenyeing, what is shed as agreed. |
+
+The particular institutional examples also include the preserving journal, grant cycle, tenure process, curriculum and conference. The proposed isolation places each departmental bounded zero apart from the others: chemistry's equilibrium, physics' force, biology's gene-controls and neuroscience's brain-generates are the named comparisons. The incoming relates 118 hard problems to these separate accounting systems across sixteen substrates.
+
+The clinical example is one person with polyserositis encountering rheumatology, pulmonology, cardiology and surgery. Its proposed contrast is one departure at one prime against institutional organization by organ. Keep this as the particular proposed form reading: it does not establish a diagnosis, a single pathology in every such patient or a clinical conclusion from the number of departments.
+
+The proposed settling is 118 accountings into seventeen couplings at seventeen primes; 118/17 ≈ 6.94 approaching seven is compared with the hydrogen coupling prime and coupling zeros in the nesting table. The five accountings are then read as attention, exchange, risk, meaning and preference at the actual couplings. Observations and measurements remain available at their actual conditions.
+
+The opening explicitly leaves this departmental periodic-table relation open. Its two-halves reading differs from Natural Numbers' going and return with the turn at sixty. Keep that unresolved relation with the numerical and departmental proposals. Neither the counts, the historical durations, nor the five matching names establish the proposed common structure. The existing accounting-at-its-use droplet remains applicable: name the particular installation being questioned rather than diagnosing every accounting as a ghost.
