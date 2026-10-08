@@ -1,6 +1,12 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v381R
+Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v385A
 
 # Carryings of Geodesic Improving Method
+
+## The gathering condition and its method sources · v385A
+
+[The whole condition record](../incoming/v385A/Working_Condition_v385A.md) supports the current method droplet at this file's offering mate and the editable plan at [Registry carrying](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#the-condition-we-are-gathering-toward--v385a). The user's [v385A method](../incoming/v385A/README.md) and latest direction govern this gathering. Earlier incoming, carrying-index, kit and reviewer directions retain historical rules and addresses; their particular correcting is available at the existing method offerings. The [v381R entry report](../carryings/v381R/README.md) is now at its actual carrying address. The [protecting comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) supplies the instance where opening/final comparisons can miss value entered and replaced within a session. Preserve that intermediate source with its later correcting.
+
+## Earlier source inventory
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

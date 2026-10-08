@@ -1,6 +1,12 @@
-Exhibit THIRTY Co-Chaining Logic Registry Carryings · gathered at v381R
+Exhibit THIRTY Co-Chaining Logic Registry Carryings · gathered at v385A
 
 # Carryings of Co-Chaining Logic Registry
+
+## Current source and kit comparison · v385A
+
+[The whole condition record](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) locates the v371 kit beside current ONE/THIRTY and preserves its stated limits. [Protecting source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) uses the archived v379 transcript and current THIRTY passages; those sources are relied on in this work despite the inherited inventory's historical standing below. [Reciprocal Help](../incoming/v385A/Reciprocal_Help_v385A.md) carries R's latest even/odd correcting and withdrawn question. The corresponding droplets remain at the offering mate. G1's detailed report recovery stays active at its existing offering; no code or verifier is run here.
+
+## Earlier source inventory
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

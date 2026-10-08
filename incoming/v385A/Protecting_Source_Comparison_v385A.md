@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Source head `20f99d3a74bacb6edf0978a324aca1e91c737a0b`**
 
+**Current source correcting · v385A.** [R section 28](https://github.com/chris-j-handel/corus/blob/f6864fe20fd2ae987f35884669a2b25319a4525b/incoming/v385R/Logical_Cohering_v385R.md#28-even-still-possibling-odd-now-changing-or-still-existing) withdraws the dissolving wording and whose-next question in this record's dated return. All even remains still possibling; odd is now changing two numbers along up/down, both forward, or still existing at the same number. The older protecting comparison and recovered along/0 correction remain useful with this later correcting; neither supplies a mapping of the three consecutive betweens. [The whole condition record](Working_Condition_v385A.md#resolving-concerns-brought-here) now brings that actual relation for suggestions before any deferral.
+
 ## Source extent
 
 This follows the existing NI/Naming concerns located by [the common-core comparison](Common_Core_Comparison_v385A.md). The [v379 transcript](../../archive/session_v379_exhibit_one_first/Session_Transcript_v379.md) was followed at the two user offerings and their adjoining replies, the intermediate three-name/along explaining, the later corrected table report, the assistant's protecting withdrawal and the final harm reading and mend. Its closing report was read at the opening, NI/Naming concern lists, concern ordering and learning. This is a particular source comparison, not a whole-transcript gathering or an independent rerun of its code claims.

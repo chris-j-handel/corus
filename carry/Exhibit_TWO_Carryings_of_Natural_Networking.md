@@ -20,6 +20,10 @@ Exhibit TWO Carryings of Natural Networking · gathered at v385A
 
 [Engineering's further comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) now follows the chip/grid/interface extension and Destinies' two misreadings beside Corus 23.7. The network's actual coupling and each self's own carrying remain at this subject; Engineering keeps material interfaces and construction. R's later joint-form concern is recorded at its stated scope, with no demand for a sign inversion at every sharing. Destinies' hard-problem extension is next in the connected plan.
 
+## Kit source versions and current entrance · v385A
+
+The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) records the v368 engine, waiting instruments and proposed later conforming from the kit's current README. Its former incoming route is available at [the v365 ONE/TWO project source](../carryings/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md). The existing direct-carrying withdrawal and local kit project remain together; no current compatibility or new result is claimed.
+
 ## Earlier source inventory · retained from v381R
 
 The following inventory remains whole. The [v385A method](../incoming/v385A/README.md) governs the project above; the earlier directions and standings retain their source extent.

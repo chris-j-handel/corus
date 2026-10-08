@@ -2,6 +2,29 @@ Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v385A
 
 # Carryings of Living File Registry
 
+## The condition we are gathering toward · v385A
+
+**Our current aim is the whole usable gathering before writing into the living exhibits.** Every subject has its living file and two mates. Its offering holds the possible improving value with current correcting, including actual concerns and further writing still helpful. Its carrying makes the support and possibling project followable. Unlocated value is welcome at Living Improving Value. This editable master plan keeps the relation among subjects, possible distributions, combinations, new exhibits, subtitles and entrances visible. A plan may remain possible indefinitely. The [whole condition record](../incoming/v385A/Working_Condition_v385A.md) preserves the user's direction, all 33 file/mate routes, kit conditions and source scope.
+
+| Part of the working | Intended content and value available here | Current observed condition |
+|---|---|---|
+| Living files | Each subject's existing explaining, needed prior and exact version for comparison | 33 roots on this working branch, including the Arriving shell; 32 on the examined main. The Registry root still says thirty-two. The branch and published set must remain distinguishable. |
+| Offering mates | Whole droplets, their sources and correcting; locally resolving insertlets where that work already exists | Both mates exist for every working subject. Current v385A droplets are independently placed at their named subjects. This checks the arrangement, not every paragraph's gathering. |
+| Carrying mates | Direct source routes, local projects, relied-on evidence and completed comparison records | Particular projects are developed at Corus/Arriving, the Destinies destinations, Illustrating, Medicine/Biology and Registry. Other mates still mainly present inherited inventories; their content needs comparison before completeness can be said. |
+| Incoming and shared gathering | Source versions, extent read, exact placements and what remains; unlocated value retained whole | The prior LIV front has a whole source-to-placement account. G1–G4, the older project bundle and larger later sources remain active to their recorded extents. M and R are explicit later incoming on their own branches; necessary correcting travels now. |
+| Artifacts and kits | Exact historical sources; each relied-on item reachable, with its version, use and limits | The v379 transcript is needed for current comparison despite its archive address. Four kit entrances are read and retain older code/naming or concept-work limits. Their presence supplies no current verification. |
+| Concerns and progress | The actual missing relation, suggestions sought here and the result of that comparison | Existing protecting/three-betweens explaining and source-recovery droplets remain active; a difference between file sentences is not by itself an observing breaking the method. This pass records them for suggestions, without deciding that they cannot now resolve. |
+
+**What is already accomplished:** the 33 mate pairs are present; the master plan and local project fronts are connected; Corus Part ONE and Part 16, the jigsaw relation, and every Destinies contribution type have comparisons to their stated extents; the earlier source's conditions and later correcting are carried beside those placements. The whole gathering is not complete. A complete reading of a source is distinct from comparison of all its value; a carrying folder or insertlet heading supplies neither by itself.
+
+**The next few steps, in this order unless a resolving relation changes it:**
+
+1. Finish a complete local account for the method/Registry/Arriving group: follow their existing offerings beside source records and carrying routes, identify already available value, locate missing support and keep further writing explicit. This pass supplies the common condition model and direct kit/source entrances. The older one-place, Ready/Concern and nothing-further-in-carryings directions remain offered correcting, not the operating method.
+2. Continue the prior source comparison through the current ONE between table, NI 4.10 and THIRTY beside the v379 protecting account. Bring the three-consecutive/one-between relation for suggestions here; do not silently substitute one explaining for the other. Then resume G1 at item 3 with its actual current placements; source recovery for item 1 remains active alongside it.
+3. Extend the same account across Emanating and the other connected projects, then the remaining mate pairs and kit dependencies. Preserve whole expressions, local conceptual prior and the differing SIX plans. M/R full extraction remains later; their corrections and precise reciprocal help remain current.
+
+At each pass record which comparison is done, where the value is available, what still needs comparing or writing, and the next few steps toward this same aim. Do not use a universal finished count, a droplet grade or a scheduled exhibit rewrite to substitute for the local account. The [concerns brought for suggestions](../incoming/v385A/Working_Condition_v385A.md#resolving-concerns-brought-here) stay in front of us until their actual relation changes.
+
 ## Master file-changing plan · v385A
 
 **A living gathering of possibling projects.** The user places the master file-changing plan here, inside the Registry's carrying mate. We can work on, add to and change this plan; any project may or may not ever be implemented. Incoming suggesting a possible improving remains a droplet and can cluster with other droplets by its actual relation. These clusters are supporting work for the expedition's floating neutraling table of contents. The [Registry's offering mate](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md) carries the exhibit-level opportunities: originating, combining, separating, naming, subtitles, clustering and the relation of files and mates. The [user's direction](../incoming/v385A/Reordering_Plans_v385A.md#the-master-plan-inside-the-carrying-mate) preserves the source of this further method.
@@ -85,6 +108,10 @@ Destinies' contributions now all have bounded comparison routes. Actual local wr
 ### Protecting source and preservation of intermediate explaining · v385A
 
 [The further source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) supports NI/Naming's existing projects and the THIRTY offering, with Destinies/Corus's structural-condition plan connected. It recovers an intermediate claim later corrected and preserves the user's consecutive relation separately from the assistant's re-saying. Registry and Geodesic Improving have the same method-comparison droplet beside existing preservation work. R's reciprocal answering now accompanies all six affected mates. This improves the source-to-placement record without resolving the exact mapping or implementing a proposed file change. — v385A
+
+### Kit entrance and present source use · v385A
+
+The [four-kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) follows Registry's actual entrance and reviewer brief beside the current two-mate method. Old tool descriptions retain their one-carrying and Ready/Concern assumptions; their actual inputs need comparison before relying on their report. This is the existing repository-practice project, with no kit execution or tool change.
 
 ## Earlier source inventory · retained from v381R
 

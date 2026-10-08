@@ -22,6 +22,12 @@ The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparis
 
 Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
 
+## Kit source condition beside the projects · v385A
+
+The [kit account](../incoming/v385A/Working_Condition_v385A.md#kits-and-the-content-they-support) keeps inherited source versions, superseded image labels and incomplete correspondences beside the projects. The README's consistency link still uses its earlier incoming address; the actual [Concept and Consistency](../carryings/v380A/illustrating/Concept_And_Consistency.md) source is already linked above. The existing media and kit results have not been rerun.
+
+## Earlier source inventory
+
 **The executions, observings and sources the living file rests on, each whole at its address**
 
 Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.

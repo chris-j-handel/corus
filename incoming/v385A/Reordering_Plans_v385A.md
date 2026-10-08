@@ -4,6 +4,8 @@ Session v385A
 
 **7 October 2026 · Two connected projects, their existing sources and the wider plans they change**
 
+**Current whole-condition aim · v385A.** [The working condition](Working_Condition_v385A.md) now records the intended gathering before living-file writing, all 33 paired routes, four kit entrances, actual progress and remaining comparisons. Its working model and next few steps are inside Registry's carrying. The [latest reciprocal correcting](Reciprocal_Help_v385A.md#current-correcting-and-the-whole-working-condition) supersedes R's dissolving/whose-next account and M's machine-living candidate; the dated accounts below remain historical. The next work is a complete local content account for Registry/method/Arriving, then the current ONE/NI/THIRTY protecting comparison and continued G1 gathering. Concerns are brought here for suggestions before being described as not now resolvable so far.
+
 ## The user's further direction
 
 > did you find the project of extracting from natural intellgence corus and placing that content in other exhibits and a separate project of making corus the incoming arriving file where we are growing the concept now of natural arriving. we need a fuller understanding of our next reordering plans for the living files while we are doing this. also be helpful working with the other sessions along the way
@@ -98,6 +100,8 @@ The same comparison preserves the differences: v381F's proposal to archive later
 4. **Keep the connected plans beside each gathering.** Emanating and Destinies depend on the whole-expression comparison; EIGHT's method gathering needs our current droplet correction; SIX's intended subject remains beside both older destination proposals. G1–G4 can supply prior corrections wherever these projects need them and remains active work afterward.
 
 A droplet remains at each mate until actual resolving into its living file. Source prose is released only after its contribution is carried at the destination, with the completed comparison retained in session artifacts. No source exhibit is removed, renamed or rewritten by this project gathering.
+
+**Current numbering beside the dated exchange.** The first M source below called the AI concern 9; it became concern 12 at M's later arrangement. [Its current correcting](https://github.com/chris-j-handel/corus/blob/2031cd6370dfaa87372df98e04b353c80fd55151/incoming/v385M/README.md) withdraws the machine-living candidate, as recorded in [Reciprocal Help](Reciprocal_Help_v385A.md#current-correcting-and-the-whole-working-condition). The original concern number below remains the address of that first exchange.
 
 ## Reciprocal help on 7 October
 
