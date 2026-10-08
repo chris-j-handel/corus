@@ -8,6 +8,8 @@
 - **What it brings**: eight opportunities in order of value for the effort, each with what it is, why it is worth it, and what is ready for it in this folder.
 - **Standing**: *arriving*. Nothing here changes a living file, an offering, a carrying or a kit.
 
+> **8 October.** Its eight are gathered with their present standings at [`Opportunities_Gathered_v385M.md`](Opportunities_Gathered_v385M.md). Line 2 of the held lines it speaks of is withdrawn, and its *nine lines* are eight.
+
 ## The one finding beneath the eight
 
 What the expedition's self holds now is ahead of the files, and it is shorter, plainer and stronger than they are. In one day of conversation the method came to nine lines (`README.md`, *What is held together now*). Each of this reader's large objections was met by a line of the nine, and by no passage of the files. The opportunity is to bring the files up to the nine lines.
