@@ -2,6 +2,11 @@ Session v385A
 
 # Corus, Natural Arriving and the next reordering
 
+## Current gathering and aiming · v385A
+
+[Gathering and aiming](Gathering_and_Aiming_v385A.md) states the current task and next incoming. Gather each concept and concern into its destination offering now; intentional exploring and local file cohering come later. The earlier comparisons below remain available, but their requests for further deriving, source recovery or attribution are not prerequisites for placing the value already present. Natural Intelligence Corus's remaining distribution value is part of this gathering.
+
+
 **7 October 2026 · Two connected projects, their existing sources and the wider plans they change**
 
 **Current whole-condition aim · v385A.** [The working condition](Working_Condition_v385A.md) now records the intended gathering before living-file writing, all 33 paired routes, four kit entrances, actual progress and remaining comparisons. Its working model and next few steps are inside Registry's carrying. The [latest reciprocal correcting](Reciprocal_Help_v385A.md#current-correcting-and-the-whole-working-condition) supersedes R's dissolving/whose-next account and M's machine-living candidate; the dated accounts below remain historical. The next work is a complete local content account for Registry/method/Arriving, then the current ONE/NI/THIRTY protecting comparison and continued G1 gathering. Concerns are brought here for suggestions before being described as not now resolvable so far.

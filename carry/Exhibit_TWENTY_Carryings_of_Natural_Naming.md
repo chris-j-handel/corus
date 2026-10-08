@@ -2,6 +2,13 @@ Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
 
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Accounting, uniformity and the proposed three positions](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#accounting-uniformity-and-the-proposed-three-positions--v385a)
+
+
 ## Exact names and the present source comparison · v385A
 
 [Exact naming and explaining](../incoming/v385A/Exact_Naming_and_Explaining_v385A.md) preserves the user's correction and the particular source statements behind the earlier shortened references. The [Living File Registry plan comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) locates the existing whole-name offerings, the repository introduction's naming sentence and its proposed replacement, the table tools at their actual source addresses, and the preserving required before proposed archival. These support the existing projects. Their presence establishes available value; further writing and the full content account remain to follow.

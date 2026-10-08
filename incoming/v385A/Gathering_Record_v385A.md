@@ -2,6 +2,20 @@ Session v385A
 
 # Gathering droplets and preserving incoming sources
 
+## Correcting incorporated while aiming · v385A
+
+The [current reciprocal record](Reciprocal_Help_v385A.md#gathering-method-and-the-current-returned-correcting--8-october-2026--v385a) records two useful contributions. Natural Intelligence, Natural Naming and Co-Chaining Logic Registry's existing set droplets now carry the self/tunnel distinction and withdrawal of the outward-participation question. Natural Transmissioning and Natural Intelligence Corus's existing third-self concern retains the proposed change-of-scale explaining and its unresolved correspondence. Living Improving Value now explicitly self-empties as whole value is aimed; possible breaking-observing explorings are gathered at Natural Exploring's carrying, without duty or an outstanding checklist. No developing science collection is declared gathered.
+
+
+## Gathering and aiming continued · 8 October 2026 · v385A
+
+The [current continuation](Gathering_and_Aiming_v385A.md) makes gathering and aiming the immediate task, keeps all known incoming groups visible and names the next concepts. The same method droplet is at Living File Registry, Geodesic Improving Method and Natural Arriving. Their operative fronts and Living Improving Value now state this task without attribution as a resolving requirement. The former session entrance and condition account are filed as artifacts.
+
+The remaining concepts in Natural Intelligence Corus sections 16.6 and 16.7 now have whole destination droplets: accounting/positions, expected arriving/departing, whole-expression learning, network health, agency/justice, offering/opening and clinical-analogy concerns. The invitation and following instrument/distribution note are also aimed. Existing paired-accounting and five research-cluster droplets have direct headings and links; none was copied again. The destination table identifies these placements. Their later file cohering and supporting work remain distinct from completed aiming.
+
+Next gather the reader/body expressions and expedition/resolver mapping, then the other Natural Writing concepts and six entry expressions. The living files are unchanged, no offering has been removed as resolved, and no scientific calculation was made.
+
+
 ## Whole names, particular statements and prior plan comparison · v385A
 
 **8 October 2026.** [Exact naming and explaining](Exact_Naming_and_Explaining_v385A.md) preserves the user's correction verbatim and states the actual relations behind the shortened references. The new correction is independently at Offerings to Living File Registry, Offerings to Geodesic Improving Method, Offerings to Natural Naming and Offerings to Natural Arriving; their carrying mates provide the source comparison. Existing whole-name offerings remain in place. Current repeated source summaries now use the full session and file names and explain the unresolved relation about observing living. The existing withdrawal droplets at twelve offering mates and the existing opening correction at three mates now state their subjects in full. The paragraph following the quoted statement about wording having no authority now explicitly retains the later withdrawal of the added repeating requirement, so its earlier source wording cannot be mistaken for a current requirement. These are improvements of the existing droplets, with their earlier wording preserved in the preceding commit and source reports.

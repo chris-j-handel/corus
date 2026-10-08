@@ -2,6 +2,14 @@ Exhibit NINE Natural Human Society Carryings · gathered at v385A
 
 # Carryings of Natural Human Society
 
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Self-interest and the health of the natural network](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#self-interest-and-the-health-of-the-natural-network--v385a)
+- [Agency and justice as an offered relation at two subjects](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#agency-and-justice-as-an-offered-relation-at-two-subjects--v385a)
+
+
 ## Human discovery economy and the subject plan · v385A
 
 **A possibling project beside this subject.** The [Human Society comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) follows the complete v329 exhibit and its mates beside Values and selected Corus relations. [This offering mate](Exhibit_NINE_Offerings_to_Natural_Human_Society.md) retains the earlier distribution, institutioning, growth and naming concerns, with new local comparison droplets. [Values' project](Exhibit_TWENTY-THREE_Carryings_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) supplies its connected subject and expedition-contributing work.

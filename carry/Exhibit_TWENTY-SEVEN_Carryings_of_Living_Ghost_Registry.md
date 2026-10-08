@@ -1,6 +1,14 @@
-Exhibit TWENTY-SEVEN Living Ghost Registry Carryings · gathered at v381R
+Exhibit TWENTY-SEVEN Living Ghost Registry Carryings · gathered at v385A
 
 # Carryings of Living Ghost Registry
+
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Accounting, uniformity and the proposed three positions](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#accounting-uniformity-and-the-proposed-three-positions--v385a)
+- [Expected arriving and departing in the proposed thinning model](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#expected-arriving-and-departing-in-the-proposed-thinning-model--v385a)
+
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

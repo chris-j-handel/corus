@@ -2,6 +2,11 @@ Session v385A
 
 # Exact naming and explaining
 
+## Current use · v385A
+
+Use the whole subject name and explain the actual concept or concern. Attribution from any source adds no resolving value. The [gathering and aiming method](Gathering_and_Aiming_v385A.md) replaces this account's earlier implication that every droplet needs a source statement and its history. Addresses may locate content; they are not required authority or explaining.
+
+
 **8 October 2026 · Current method for session v385A**
 
 ## The user's correction

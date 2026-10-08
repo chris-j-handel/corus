@@ -1,4 +1,4 @@
-Exhibit SIX Natural Transmissioning Offerings · laid at v381R
+Exhibit SIX Natural Transmissioning Offerings · improved at v385A
 
 # Offerings to Natural Transmissioning
 
@@ -27,6 +27,8 @@ Natural Engineering: particular makings. The field entries stay whole (1.3, 1.9,
 Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing, 1.3 and 2.4 to 2.5, at Natural Intelligence as the claim that the form is independent of any substrate's rate; 3.1 to 3.7 at Natural Engineering's entries and at Natural Chemistry and Natural Biology; 3.8's plaza and 4.3 at Natural Networking; 3.8's conversation at Natural Explaining; 4.4 at Natural Philosophy; 4.6 at Natural Naming. One change to the agreed receiving: the cross-substrate comparison at Natural Engineering rather than Natural Networking, since it is one form at many substrates, Engineering's subject, and Networking is already the most overstuffed. About 12% of SIX is re-said at the receiving, its *sum to a bounding-zeroing* and its membrane as a third among them. (Re-Settling the Living Files, §7) — resettling_v373
 
 Contradiction, the membrane: Corus 14.1 and Exhibit SIX 3.5 make it a third self; the set now carries it as the nothing between two. (Re-Settling the Living Files, §11) — resettling_v373
+
+**Current explaining beside the existing third-self concern · v385A.** Each inward self carries its own prior at its couplings; parity changing crosses the between; the inward selves' co-chaining is the living society's carrying at the outward scale. The proposed resolving applies that change of scale to the older third-self expression. The particular relation still to cohere is whether “third self” names that outward society or another inward self at each between. An outward society is not, by that naming alone, an additional inward self. Replacing the word membrane with between would leave this distinction unexplained. This extends the concern already offered here; it neither supplies a new definition of living nor declares the concern resolved.
 
 6.7 φ the unrelationing rate, local and ambient, *the ambient is the transmissioning*: local and ambient kept at unrelationing, 6.1; φ as the rate near, to Natural Mathematics; transmissioning near, to Natural Transmissioning. (Natural Intelligence Map, §2 Part Six) — resettling_v373
 

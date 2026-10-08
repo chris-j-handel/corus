@@ -1,6 +1,13 @@
-Exhibit FIFTEEN Natural Emanating Carryings · gathered at v381R
+Exhibit FIFTEEN Natural Emanating Carryings · gathered at v385A
 
 # Carryings of Natural Emanating
+
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Learning and a whole expression of dissolving an installed accounting](Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md#learning-and-a-whole-expression-of-dissolving-an-installed-accounting--v385a)
+
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

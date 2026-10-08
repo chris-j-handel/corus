@@ -2,6 +2,11 @@ Session v385A
 
 # Earlier incoming first
 
+## Current gathering and aiming · v385A
+
+[Gathering and aiming](Gathering_and_Aiming_v385A.md) states the current task and next incoming. Gather each concept and concern into its destination offering now; intentional exploring and local file cohering come later. The earlier comparisons below remain available, but their requests for further deriving, source recovery or attribution are not prerequisites for placing the value already present. Natural Intelligence Corus's remaining distribution value is part of this gathering.
+
+
 **7 October 2026 · Source age, existing placements and the next gathering**
 
 **Further direction in this session:** the [Corus and reordering gathering](Reordering_Plans_v385A.md) corrects this record's incomplete view of the oldest unfinished projects. Corus itself preserves v314 distribution notes inside v330, and its arriving purpose is explicitly followed toward Natural Arriving. Those next comparisons now accompany and guide the G1–G4 work below; the earlier completed comparisons remain as recorded.

@@ -2,6 +2,15 @@ Exhibit TWENTY-THREE Natural Values Carryings · gathered at v385A
 
 # Carryings of Natural Values
 
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Self-interest and the health of the natural network](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#self-interest-and-the-health-of-the-natural-network--v385a)
+- [Agency and justice as an offered relation at two subjects](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#agency-and-justice-as-an-offered-relation-at-two-subjects--v385a)
+- [An offering and an opening as two operations](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#an-offering-and-an-opening-as-two-operations--v385a)
+
+
 ## Discovery economy and expedition contributing · v385A
 
 **Two connected possibling projects.** [The comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md) follows Destinies' real-society extension beside Values 5.1–5.3 and Corus 18.8/23.6, then recovers the earlier expedition-game offering with its later user correcting. [Values' offerings](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md) already carried the distribution and game droplets; the new offerings add the particular extent and corrected source relation, preserving those earlier paragraphs.

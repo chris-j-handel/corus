@@ -2,6 +2,13 @@ Exhibit ELEVEN Natural Medicine Carryings · gathered at v385A
 
 # Carryings of Natural Medicine
 
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Concerns in the diagnostic analogies for networks](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#concerns-in-the-diagnostic-analogies-for-networks--v385a)
+
+
 ## Corus research comparisons · v385A
 
 [Corus 16.7](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, gathers three questions now available at [this offering mate](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md).

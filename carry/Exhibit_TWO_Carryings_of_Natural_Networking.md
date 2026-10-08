@@ -2,6 +2,14 @@ Exhibit TWO Carryings of Natural Networking · gathered at v385A
 
 # Carryings of Natural Networking
 
+## Incoming concepts gathered for this subject · v385A
+
+The following whole droplets are available in this subject's offering mate. Their concepts and concerns are aimed; local file cohering remains. The [current gathering and aiming plan](../incoming/v385A/Gathering_and_Aiming_v385A.md) names the remaining incoming.
+
+- [Self-interest and the health of the natural network](Exhibit_TWO_Offerings_to_Natural_Networking.md#self-interest-and-the-health-of-the-natural-network--v385a)
+- [Concerns in the diagnostic analogies for networks](Exhibit_TWO_Offerings_to_Natural_Networking.md#concerns-in-the-diagnostic-analogies-for-networks--v385a)
+
+
 ## Natural-network expression and supporting kit · v385A
 
 [The Destinies/Networking/Corus comparison](../incoming/v385A/Natural_Network_Comparison_v385A.md) gathers a possibling project beside this subject. It follows selected living passages, the already offered corrections and the supporting sources below; it does not claim a whole comparison of every Networking source. [This file's offerings](Exhibit_TWO_Offerings_to_Natural_Networking.md) retain their existing insertlets and droplets with the current method and further network-expression/own-side droplets.

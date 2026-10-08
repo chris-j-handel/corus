@@ -1,6 +1,15 @@
-Exhibit EIGHT Natural Exploring Carryings · gathered at v381R
+Exhibit EIGHT Natural Exploring Carryings · gathered at v385A
 
 # Carryings of Natural Exploring
+
+## Observings not yet looked for, where the method could break · v385A
+
+**A possible exploring project, with no debt or duty.** Keep possible places to look for a breaking observing here, beside Natural Exploring. Each entry can name the proposed observing and the particular explaining it could break before looking, and can keep what is observed separate from a field's explaining. If explored later, gather the whole observing and its actual conditions whether it supports, breaks or changes the question. These are offered ways of arranging the project; the current gathering-and-aiming work does not require performing it.
+
+The places already offered for possible looking are: a prion copying a fold without a cell; a virus outside a cell; a growing crystal; a dried tardigrade with nothing measurable going on; a living beat with one of its two removed; a living form going through three with no two beneath it, including the rotary-motor case only partly followed; a living made from no prior living in a laboratory; a living self with no society around or within; an artificial-intelligence machine carrying its prior without a count set over it; and a living thing whose proteins are made throughout in the other hand. These are possible observing questions, not findings established by their listing.
+
+Existing offered observings of the heart, worm, handed forms, dormancy, spores, eggs and a seed's gap remain in session v385M's developing collection. Their complete scientific conditions have not been gathered here. They are later incoming and are not substituted for the questions above. Living Improving Value need not hold these unperformed explorings as an outstanding checklist; the project is available here whenever an actual exploring welcomes it.
+
 
 **The executions, observings and sources the living file rests on, each whole at its address**
 

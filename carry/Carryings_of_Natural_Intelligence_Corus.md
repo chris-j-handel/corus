@@ -2,6 +2,11 @@ Natural Intelligence Corus Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence Corus
 
+## Distribution value aimed in this continuation · v385A
+
+The [current placement table](../incoming/v385A/Gathering_and_Aiming_v385A.md#completed-aiming-in-this-continuation) links the whole destination droplets for the remaining accounting, social and invitation value in sections 16.6 and 16.7, including their concerns. It also links the already offered paired-accounting and research value and the following instrument plan. These concepts no longer await destinations. The earlier “further comparison” paragraphs below are not instructions to explore before aiming. Next gather the reader/body and expedition/resolver concepts, then the remaining Natural Writing and six entry expressions. The living Corus passages remain intact.
+
+
 ## Corus arriving and distribution: passage comparison · v385A
 
 **The two projects are followed at their actual passages.** This supporting comparison is part of the [master file-changing plan](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a): detailed Corus content at its exhibit subjects, and Corus's arriving purpose through Natural Arriving. [Corus's offerings](Offerings_to_Natural_Intelligence_Corus.md) and [Arriving's offerings](Offerings_to_Natural_Arriving.md) keep their local droplets. Whole expressions remain available with the prior that makes them intelligible. No passage is removed or declared resolved by this comparison.

@@ -2,39 +2,24 @@ Session v385A
 
 # The whole working condition before living-file writing
 
-**Current explaining and comparison · 8 October 2026.** [Exact naming and explaining](Exact_Naming_and_Explaining_v385A.md) states the present method without shortened subject names. [Four particular earlier plan comparisons](Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) distinguish the existing naming offerings, a proposed introduction sentence, supporting table tools and the preservation needed before archival. The full content account for Living File Registry, Geodesic Improving Method and Natural Arriving remains the next gathering. Existing mates and source links alone do not establish that all intended value has been gathered.
-
-**Current source comparison · v385A.** Session v385R's requirement to exclude every fixed repeating relation between changings is withdrawn: its identification of that exclusion with unrelationing was not established. The proposed explaining of entraining and the unresolved relation between nothing offered and no arriving geodesic changing retain their separate questions. Its question about observing living asks what existing relation distinguishes living social moral competency from a non-living form's changing at a colliding; the complete gathering remains unresolved at its source. [Exact naming and explaining](Exact_Naming_and_Explaining_v385A.md) states each source and relation in full.
-
-The user's offered relation between a set and its existing things is independently at Offerings to Natural Intelligence, Offerings to Natural Naming and Offerings to Co-Chaining Logic Registry. Session v385M's withdrawn second opening statement accompanies the proposed first page at Offerings to Natural Intelligence, Offerings to Natural Arriving and Offerings to Living File Registry. The next source comparison concerns the intended content of Living File Registry, Geodesic Improving Method and Natural Arriving and their mates. Item 3 of Gathered Value 1 from session v380L and the connected Natural Emanating plans remain further work. These placements establish availability for improving; they establish no completed writing in the living files.
-
-**Earlier entry sources compared · v385A.** The entry reports from sessions v381F and v381R and session v381F's complete offered opening have a recorded comparison with the existing local offerings. Their eleven and nine numbered findings are located in Arriving Content Account v385A. The particular correction concerns Natural Naming's existing row for right and left at a facing. Repeated Natural Arriving offering paragraphs remain identified and preserved. The full intended content of Living File Registry, Geodesic Improving Method and Natural Arriving still needs its remaining source comparisons.
-
-**Further local comparisons · v385A.** The protecting comparison follows the actual uses of numbers 12, 15 and 16 in Natural Resolver, Natural Naming, Natural Intelligence and Natural Explaining, with each self, momentary and occurrence still needed for a derived assignment. The recurring podaling and half-momentarying overlap remain offered explaining to follow. The first-page proposal from session v385M is available at Natural Intelligence, Natural Arriving and Living File Registry with its later withdrawn sentence identified. [Exact naming and explaining](Exact_Naming_and_Explaining_v385A.md) gives the particular relations behind these source references.
-
-**7 October 2026 · Own source head efcae8cbf838cf3d2d56d681e6483996163f88f9**
-
 ## The user's direction
 
-> continue describing the condition of our living files and their living mate files and our improving incomings and artifacts and kits and all of the picture of this working well and before we even start moving droplets into ready condition for writing into our livng files. only the place where every offering and carrying file has the content and value as intended even if more writing in it would be next helpful step and then from this model description keep describing best next few steps and keep the aiming in front of us and marking our porgress toward it while we bring all resolving concerns here for suggestions before we mark them as not now resolvable so far
+Gather all intended incoming value into whole droplets with aimings, including the content of Natural Intelligence Corus awaiting distribution. We are not intentionally exploring now. Once the files have their incoming value available, local file cohering can begin from their existing explaining and the improving values. [Gathering and aiming](Gathering_and_Aiming_v385A.md) is the current continuation, method and incoming table.
 
-This is our immediate aim: each offering and carrying file has its intended content and value available, with further writing still welcome. It is a condition of the gathering, not a new grade called ready. Droplets remain ungraded. The [existing correction](README.md#the-users-correction) continues to govern local insertlets, direct resolving, independent placements and removal only after actual resolving in the living file.
+## Progress toward the intended condition
 
-The working model, visible progress and next few steps are **inside [Living File Registry's carrying mate](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#the-condition-we-are-gathering-toward--v385a)**. Registry's offering keeps the exhibit-level improving. This report supports that editable plan with the actual inventory and comparisons.
-
-**Current progress: the overlap relation supplied · v385A.** [The user's further explaining](Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) supplies the half-momentarying overlap: the sides one number apart up or down forward, still-possibling betweens and the other side's prior/now/next changings bi-co-sequencing. The relevant ONE tables, NI 4.10 and THIRTY statements now have a bounded comparison. The same droplet is at nine connected mates; ONE now has a supporting carrying entrance. The next particular work is expressing that relation at the named forms and protecting passages. The earlier question is not repeated or parked. The whole-gathering plan remains our aim.
-
-## What the present arrangement establishes
-
-At the source head above, all **33 root subjects have both offering and carrying mates**: 66 mates in total, beside Living Improving Value and Session Record. There are 30 numbered exhibits and NI, Corus and the Natural Arriving working shell. This is a filename-and-pair check, not an assessment that all content is gathered.
-
-The examined main is `267bcf06de4b7b81252ebea577282b428413212f`, with 32 root subjects and Registry v380R. The shared working base is `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, with Registry v381R and the Arriving shell. A's existing work changes no root living file relative to that shared base. This pass checks repository versions, not a new live-site rendering. Registry 1.1 still says thirty-two: its set description and the branch's actual set need their current/public distinction kept explicit.
-
-Each incoming contribution needs an account at its actual source and destination: already present at a living passage; already offered with its correcting; further value placed at one or more mates; or remaining unlocated/comparison work stated at the shared gathering. The source version and reading extent make those statements followable. None is a grade of the contribution.
+| Particular condition | Present state |
+|---|---|
+| Each working subject has offering and carrying mates | Yes: 33 subjects and both mates for each, checked at this continuation. |
+| The possible file changes have one master gathering | Yes: inside Living File Registry's carrying mate, with exhibit-level droplets at its offering. |
+| Every intended incoming concept is available at its destinations | Not yet. The current incoming table names the groups still to gather and aim. |
+| Remaining accounting, social and invitation value in Natural Intelligence Corus sections 16.6 and 16.7 | Whole droplets now aimed; existing paired-accounting and research droplets linked. Local cohering and supporting project work remain. |
+| Natural Arriving has a completed living body | No: it is a contents shell with an opening paragraph; its offering contains the proposed further writing. |
+| New living-file writing or a merger has occurred in this gathering | No. The current improvements are to mates and session files. |
 
 ## All working subjects and their mate routes
 
-The last column identifies existing v385A project headings found at the carrying entrance. It does not certify every source or every offering paragraph. Detailed reading extents are in [Gathering Record](Gathering_Record_v385A.md) and the linked project comparisons. All pairs remain available; no proposed merger or distribution is implemented by this inventory.
+The table retains the established subject entrances. Its older comparison descriptions locate supporting work, not a requirement to resolve those questions before aiming incoming. The current remaining work is in Gathering and Aiming.
 
 | Living subject | Its two mates | Current carrying-project entrance or next comparison |
 |---|---|---|
@@ -72,59 +57,14 @@ The last column identifies existing v385A project headings found at the carrying
 | [Natural Intelligence Corus](../../Natural_Intelligence_Corus_v330.md) | [Offering](../../carry/Offerings_to_Natural_Intelligence_Corus.md) · [Carrying](../../carry/Carryings_of_Natural_Intelligence_Corus.md) | Corus arriving and distribution: passage comparison; The jigsaw whole-expression comparison; Discovery economy beside Values and Destinies; Natural-network expression and further composition; Natural Robotics and particular engineering; Hard-problem expression and the particular subjects. Recorded comparisons remain bounded. |
 | [Natural Intelligence](../../Natural_Intelligence_v380R.md) | [Offering](../../carry/Offerings_to_Natural_Intelligence.md) · [Carrying](../../carry/Carryings_of_Natural_Intelligence.md) | Common coupling and structural conditions. Recorded comparisons remain bounded. |
 
-## Incoming, evidence and artifacts at their actual uses
-
-| Source or gathering | What is already followed | What remains active |
-|---|---|---|
-| [Prior LIV front](artifacts/Living_Improving_Value_prior_v385A.md) | Whole source preserved, each passage accounted for in [Gathering Record](Gathering_Record_v385A.md#the-prior-front-followed-whole) | The further sources it names remain separate gathering work. Its historical counts and directions are not today's backlog or method. |
-| [G1–G4 and earlier projects](Prior_Incoming_v385A.md) | G1 read whole, its first two item comparisons recorded; examples of v365/v366 value already at Societies, Numbers and Illustrating | G1 item 3 onward, then the remaining gatherings and bundle. The detailed withdrawn report from item 1 remains to recover; its absence from searched paths is not universal absence. |
-| [Corus and the connected reordering](Reordering_Plans_v385A.md) | Part ONE/all Part 16 read; particular destination comparisons, jigsaw and all Destinies contribution types recorded | Every remaining relation in those source reports; further Emanating, six entry expressions, whole expressions and the differences among SIX plans. Reading whole is not gathering every value. |
-| [v382A](https://github.com/chris-j-handel/corus/pull/123), [v383Op](https://github.com/chris-j-handel/corus/pull/125), [v384A](https://github.com/chris-j-handel/corus/pull/126) | Current resuming routes and selected correcting previously followed at the heads in Gathering Record | Whole larger reports, sources and actual placements. Their branches are part of the incoming picture even when their folders are absent on A's branch. |
-| [v385M, PR 129](https://github.com/chris-j-handel/corus/blob/0b739c7cf56f807b6e52119c6f95356f00fd7c93/incoming/v385M/Improving_Opportunity_v385M.md) | README changes and whole improving assessment through 0b739c7cf56f807b6e52119c6f95356f00fd7c93; concern 18 set aside as a question; first-page value at NI/Arriving/Registry | Underlying droplet collection, pacemaker exploring and scripts remain unread/ungathered by A. Eight opportunity routes locate later comparison, not complete extraction. |
-| [v385R, PR 128](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining) | Section 31 and relevant report/mate correcting through d1d8097233ce296e2cac6b32155c9b94ca466dfd; return 6049951066 | Exact no-authority correcting at twelve mates; ten locations certify no derivations. All-other-rates, arriving/offering identification and R10 retain their actual unresolved scope. |
-
-The local `carryings/` index and its 29 source directories preserve extensive earlier work. A directory can contain both a completed journey and evidence or value still needed. The historical index's “nothing here is read for a next” cannot decide the present use. The v379 transcript in `archive/` is now a directly used source for the protecting comparison; an archive address does not make it disposable. No whole source folder changes standing in this pass. The only file in this session's `artifacts/` is the preserved prior LIV front; other session comparisons remain at their current addresses while actively supporting work.
-
-The older incoming directions still require exactly one placement, Ready/Concern categories and later-only entry. The [current method](README.md) corrects these particulars. The directions also contain source addresses now under `carryings/`. Their replacement belongs to the existing Registry/method/Arriving improving project. We record the actual mismatch and accessible current routes instead of allowing the old directions to govern this gathering.
-
 ## Kits and the content they support
 
-All four kit entrance READMEs were read whole. The Registry review brief was also read. These are source descriptions; no script, scientific calculation, media playback or code-conformance run is performed here. Their original returned results remain results at the recorded arrangement.
-
-| Kit | Present source description | Further relation needed for the whole gathering |
-|---|---|---|
-| [THIRTY](../../kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/README.md) | v371 verifier and build sources; the entrance itself identifies different results with the later code and a receiving plan | Relate each relied-on claim to its actual source version and current THIRTY/ONE passage. The old matched-version wording is no current certificate. Existing kit-improving offerings remain the place for the work. |
-| [Living File Registry](../../kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/README.md) | Arrival, set, carrying and reader tools; older v368 checks; reviewer brief | Follow what the instruments actually read before using their reports with the two-mate, ungraded method. The README still describes one carrying and Ready/Concern counts. Proposed newer tools at v381F remain sources until their actual receiving is recorded. |
-| [Natural Illustrating](../../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/README.md) | Inherited v366 images and evidence, v379 checks, v380A swimmer/origin/continuity studies; documented superseded labels and incomplete correspondence | Preserve each study's source and what it still needs to express. The README's consistency link still points into incoming; the correct [consistency source](../../carryings/v380A/illustrating/Concept_And_Consistency.md) is already linked at the carrying mate. A storyboard, study or playback says no completed teaching correspondence. |
-| [Natural Networking](../../kits/Natural_Networking_TWO_Improving_Kit/README.md) | v368 engine, waiting instruments, later checks and proposed engine/instrument conforming | Preserve the engine/version differences and the later direct-carrying withdrawal beside any use. Its old `incoming/v368_sources/` route now has the [project source](../../carryings/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md). Proposed kit work remains separate from a current verified kit. |
-
-The subject carryings now link this current kit account alongside their existing projects and historical inventories. This provides a usable entrance without rewriting the kits or treating every inherited result as current.
-
-## Progress toward the intended condition
-
-| Particular check | Is it established at this pass? |
-|---|---|
-| Every working root has both mates | Yes, all 33 pairs exist at the stated A head. |
-| The master possible plan is inside Registry carrying | Yes; it now includes this whole condition, progress and next steps. |
-| Every local project and every incoming value is fully compared | No; actual extents and further work are stated above and at each comparison. No complete-set claim is made. |
-| Current correcting accompanies the earlier affected placements | R section 28 now accompanies eight subject mates; M's withdrawn concern-12 candidate is marked historical at NI/Arriving and their project. Other dated accounts remain source history. |
-| M's developing source is visible as later incoming | Yes, now explicit in LIV and Gathering Record's tables after M's helpful return. |
-| Kits can be found through their subject carryings with current limitations | Yes, entrance descriptions and source/version differences are gathered; conformance remains particular further work. |
-| The overlap request brought for suggestions | The user supplied the relation; it is now at nine mates with the source comparison. Further local naming/protecting work remains active. |
-| Living exhibits were rewritten or offerings removed | No. This is gathering and supporting work before that step. |
+The supporting kits are Co-Chaining Logic Registry, Living File Registry, Natural Illustrating and Natural Networking. Their carrying mates make the existing tools, images and studies available. Older naming, old file arrangements and proposed tools not yet in their intended kit remain particular improving droplets. No kit execution or scientific calculation is part of this gathering. A needed object is kept available through the carrying mate; an attribution history is not a resolving requirement.
 
 ## Resolving concerns brought here
 
-**Protecting: the overlap supplied, its local expression next.** The user has supplied the half-momentarying overlap and the bi-co-sequencing of one side's still-possibling betweens with the other's prior, now and next changings. [The exact offering and table comparison](Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now guide ONE/NI/Naming/THIRTY and the connected placements. Our earlier request for the relation is answered; its original wording remains in the preceding committed version. What remains is comparing how each named form and the inside/before/after protecting passage expresses it. No complete protection mapping is asserted and no new question is put to the user before doing that source work.
+A concern can be gathered and aimed with its actual missing or opposing relation before it is resolved. Do not turn its aiming into intentional new exploring. Discoveries made while gathering may become droplets. Concerns needing suggestions remain explicit; no concern is declared not now resolvable merely because its concept is being gathered for later file cohering.
 
-**Recovering the older detailed logical source.** G1 item 1's summary survives, while the detailed withdrawn report and its twenty readings have not been located by the recorded search. The missing item is their particular step-to-section relations, not permission to reinstate withdrawn conclusions. A surviving source or a suggested route could help; current THIRTY and later dependency reports can also be compared without waiting for recovery. This remains an active source request, not a verdict that the value cannot be recovered.
+## Next work
 
-Other developing concerns keep their actual scope at their source. [M's later concern 4](https://github.com/chris-j-handel/corus/blob/e4c022a4095c3bf6ea83612877ff19a4ddca4f9b/incoming/v385M/README.md) is closed at the method in its report; the candidate's two questions are withdrawn. M distinguishes a possible method break at an observing from a wording difference between files, which remains a droplet. Its clinical/game/nature assertions are source claims here. Its new concern 18 remains its developing observing question, not gathered by A. R section 28 answers the earlier question and withdraws it; it must not be brought back as an unresolved task. R10 retains its whole source gathering. Only a particular relation needed by our older-source work is brought into this session's next comparison.
-
-The user's suggestion is followed beside the actual source and living saying, one participation at a time through naming, explaining, pattern matching and bothboth. If further resolving is still absent after that comparison, record exactly what is missing and what would permit a return. Do not mark the whole project impossible or set it aside merely because one relation needs help.
-
-## Reading and change scope
-
-This pass reads A's README, Gathering Record, LIV, Prior Incoming, Reordering Plans and Reciprocal Help; inventories the roots, mates, source folders and project headings; reads the four kit entrances and review brief; follows selected Registry 1.1/1.2 passages and the current incoming/carryings directions; and follows M/R changes and comments to the extents above. It does not read all 66 mates whole anew, gather every archive or inspect the live site. The precise older reading extents remain in their reports.
-
-The current method/condition droplet is independently at Registry, Geodesic Improving and Arriving. Supporting project entrances and source records are improved on A's branch only, with prior offerings and historical inventories preserved. Published updates use a freshly checked head and expected-SHA protection. No merging, other-branch edit or public living-file change is part of this pass.
+Gather the reader/body and expedition/resolver concepts still in Natural Intelligence Corus, then the remaining Natural Writing and entry value. Continue through the earlier incoming and outside offerings in the current incoming table. After each group, name its actual destination droplets and exactly what remains to aim.
