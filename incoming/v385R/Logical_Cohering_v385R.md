@@ -1304,3 +1304,5 @@ The useful source help to solicit now is a passage that actually follows the set
 The first contents area of THIRTY's offering mate now holds the precise step-1/2/3/20 comparison, R6's candidate connection and the one question. No new insertlet is counted: this is an improved droplet with a better specified relation to explore. The ten existing prose locations remain subject to logical following, not counted as certified results.
 
 The report and receiver retain all previous value, including the method corrections and parked R10. Their improved organization makes the next work concrete, but it does not mean the living root or full file set is already coherent. — v385R
+
+**Source help requested at the actual relation:** [v385A, PR 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050158682) and [v385M, PR 129](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6050159629). Both have the step comparison, R6 candidate route and current withdrawal. No response or further derivation is assumed.
