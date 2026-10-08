@@ -2,6 +2,15 @@ Exhibit TWENTY Natural Naming Carryings · gathered at v385A
 
 # Carryings of Natural Naming
 
+## Further Natural Writing value aimed · v385A
+
+The [whole destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) marks the completed concept aiming of sections 16.1 through 16.3. The local improving concepts are available at this subject's offering:
+
+- [Complete language conditions and definitions](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#complete-language-conditions-and-definitions--v385a)
+- [Actual sentence examples and proposed drift patterns](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#further-actual-sentence-examples-and-the-six-proposed-drift-patterns--v385a)
+
+These are whole droplets, including their unresolved conditions. Earlier comparison-only instructions for this particular value are superseded. The living files remain intact; actual local cohering is later work.
+
 ## Remaining Natural Writing concepts now aimed · v385A
 
 The complete section 16.5 concepts and their concerns are now in the following offerings. The entries locate the improving value; later local file cohering remains.

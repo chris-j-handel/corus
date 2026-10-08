@@ -2,6 +2,14 @@ Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v385A
 
 # Offerings to Equilibria Registry
 
+## Carrying resolving through prior, now and next · v385A
+
+**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
+
+An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
+
+Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+
 **Contributing and resolving at v385A.** This session follows the ungraded droplets and locally resolving insertlets, with the complete correction and its session source at [v385A](../incoming/v385A/README.md). The earlier descriptions remain at their existing passages for improving through this method.
 
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**

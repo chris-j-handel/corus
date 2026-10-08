@@ -1,6 +1,14 @@
 Session v385A
 
-# Gathering droplets and preserving incoming sources
+# Gathering droplets and recording their destinations
+
+## Complete aiming of the remaining writing examples and definitions · 8 October 2026 · v385A
+
+The complete sections Writing Discipline, Language Prime, and Inversion and Rocking were read beside their existing droplets and relevant Natural Explaining passages. The [destination table](Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) gives all seven concept groups: grammatical definitions and rocking, dictionary meanings, pronoun relations, precision and field examples, writing catches, self-welcoming purposes, and multiple expressions. Existing droplets were extended where the relation was already offered. A title or report address is no substitute for their now-local concepts and concerns.
+
+The carrying correction from session v385R's current report accompanies twelve affected mates. Observed controlling as an existing coupling accompanies the three precise-language offerings. The larger developing collection remains later incoming. No living root, instrument or other branch changed. Added links and identical independently placed concepts are checked before publication; updating the branch requires the expected head to match.
+
+Gather the six entry expressions in Natural Intelligence Corus Part ONE and the remaining whole-opening value. The existing opening and path droplets contain selected value; put each remaining concept, example and concern at its actual offering destination. Then gather the purposes of the unwritten and previously distributed parts as possible plans, without inventing missing text, before continuing the remaining whole expressions. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain visible in the current table. No new exploring or completed resolving is required before aiming their value.
 
 ## Complete concept aiming of section 16.5 · 8 October 2026 · v385A
 

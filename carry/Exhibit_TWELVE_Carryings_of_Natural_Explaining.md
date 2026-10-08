@@ -2,6 +2,18 @@ Exhibit TWELVE Natural Explaining Carryings · gathered at v385A
 
 # Carryings of Natural Explaining
 
+## Further Natural Writing value aimed · v385A
+
+The [whole destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) marks the completed concept aiming of sections 16.1 through 16.3. The local improving concepts are available at this subject's offering:
+
+- [Complete language conditions and definitions](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#complete-language-conditions-and-definitions--v385a)
+- [Actual sentence examples and proposed drift patterns](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#further-actual-sentence-examples-and-the-six-proposed-drift-patterns--v385a)
+- [Self-welcoming concepts and distinct writing purposes](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#self-welcoming-concepts-and-distinct-writing-purposes--v385a)
+- [The complete inversion-writing and two-language expression](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#the-complete-inversion-writing-and-two-language-expression--v385a)
+- [Several expressions of the form and each distinct contribution](Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#several-expressions-of-the-form-and-each-distinct-contribution--v385a)
+
+These are whole droplets, including their unresolved conditions. Earlier comparison-only instructions for this particular value are superseded. The living files remain intact; actual local cohering is later work.
+
 ## Remaining Natural Writing concepts now aimed · v385A
 
 The complete section 16.5 concepts and their concerns are now in the following offerings. The entries locate the improving value; later local file cohering remains.

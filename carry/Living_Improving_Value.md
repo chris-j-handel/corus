@@ -14,6 +14,10 @@ Living Improving Value is a floating neutraling, self-emptying incoming gatherin
 
 **Droplets and insertlets.** Aiming alone makes no insertlet and supplies no grade. An insertlet is locally resolving into the particular file's writing and self-welcoming locating plan, and becomes a droplet when floated elsewhere. Actual resolving into the living file alone removes the offering at that file and retains the completed material in session artifacts. Independent placements remain until their own resolving.
 
+## Present gathering condition · v385A
+
+Natural Intelligence Corus sections 16.1 through 16.3 now have whole concept aiming, including complete definitions and writing examples, through the [current destinations](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed). Sections 16.5 through 16.7 and the existing uncertainty/expedition relation retain their recorded placements. Their duplication as unlocated incoming is unnecessary. Next is Part ONE's six entry expressions and remaining whole-opening value. The other incoming groups below remain to gather. The [current reciprocal correcting](../incoming/v385A/Reciprocal_Help_v385A.md#carrying-resolving-and-the-writing-gathering--8-october-2026--v385a) accompanies the local offerings; older dated source descriptions below do not restore withdrawn explaining.
+
 ## Gathering the incoming into droplets
 
 Read the whole incoming group being gathered. Place every distinct value and its concern, including unresolved concepts, into its destinations without requiring new exploring first. Keep any still-unlocated content whole here. A particular group is aimed when none of its found value remains available only through an incoming-report link. Name the next group and any actual remaining content. New outside offerings follow the same method.

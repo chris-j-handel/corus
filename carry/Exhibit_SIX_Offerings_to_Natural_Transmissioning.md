@@ -2,6 +2,14 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v385A
 
 # Offerings to Natural Transmissioning
 
+## Carrying resolving through prior, now and next · v385A
+
+**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
+
+An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
+
+Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+
 **Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
 
 Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.

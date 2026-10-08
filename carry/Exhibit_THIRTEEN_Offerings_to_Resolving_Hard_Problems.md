@@ -2,6 +2,14 @@ Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v385A
 
 # Offerings to Resolving Hard Problems
 
+## Carrying resolving through prior, now and next · v385A
+
+**Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
+
+An unchanged parity at one sharing retains that particular subject. It supplies no requirement that the self's whole carrying stay unchanged through now and next, and the correcting supplies no rule that every parity must change at every sharing. Each self's own odd prior, now and next existing offering, and the other's own one at the self's two, follow carrying resolving through the momentaryings. The inward selves' co-chaining as the outward living self's carrying follows the same relation at scale.
+
+Requiring living carrying itself to stay unchanged removes the resolving the requirement is meant to describe. An unchanged parity, an existing stable form and an unchanged expression are distinct from that requirement. Follow each equilibrium's actual requirements at its actual subject, relation and occurrence. The correcting accompanies already gathered value; it supplies no new defining-living verdict and does not require exploring before aiming a droplet.
+
 ## Current correcting: the imposed requirement is withdrawn · v385A
 
 **Droplet · Follow the offered relation without an added impossibility requirement.** [Session v385R, section 32: Withdrawing the imposed impossibility requirement](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#32-withdrawing-the-imposed-impossibility-requirement) withdraws its assistant's identification of unrelationing with excluding every fixed repeating relation between changings. That identification was not established, so the added exclusion is no required unresolved proof. Its [statement on pull request 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050010728) records the same withdrawal. Entraining, recurring podaling and new still possibling remain offered explaining to follow. “Nothing offered at a sharing” and “no arriving geodesic changing” have not been established as equivalent. The separate question in section 18, Living at its observable existing, asks what existing relation distinguishes living social moral competency from a non-living form's changing at a colliding; its whole gathering remains unresolved at its source. Preserve the earlier sources with this correction and follow the actual relation needed by the local writing. No wording confers authority. — v385A

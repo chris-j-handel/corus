@@ -2,6 +2,14 @@ Exhibit TWENTY-NINE Natural Illustrating Carryings · improved at v385A
 
 # Carryings of Natural Illustrating
 
+## Further Natural Writing value aimed · v385A
+
+The [whole destination table](../incoming/v385A/Gathering_and_Aiming_v385A.md#writing-discipline-language-prime-and-inversion-and-rocking-now-aimed) marks the completed concept aiming of sections 16.1 through 16.3. The local improving concepts are available at this subject's offering:
+
+- [Several expressions of the form and each distinct contribution](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md#several-expressions-of-the-form-and-each-distinct-contribution--v385a)
+
+These are whole droplets, including their unresolved conditions. Earlier comparison-only instructions for this particular value are superseded. The living files remain intact; actual local cohering is later work.
+
 ## Living objects of value for this subject · v385A
 
 This carrying mate holds living objects of value for its subject: tools, kits, illustratings, lists and possible plans, each available for further improving in its own form. These objects support the subject and do not belong in the exhibit as its body. A list of possible public emanatings or of gaps and observings that could break the method can remain here as an improving object. Its value does not require an existing exhibit sentence to point to it. Value aimed into the living exhibit belongs in its offering mate as droplets or locally resolving insertlets. Living Improving Value holds incoming whose place is still unknown and self-empties as its whole value is aimed. No file has character or motion.

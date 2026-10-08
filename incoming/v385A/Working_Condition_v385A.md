@@ -17,6 +17,8 @@ Gather all intended incoming value into whole droplets with aimings, including t
 | Reader expressions and expedition/resolver mapping from Natural Intelligence Corus | Whole concepts now aimed at eight offering mates; the reader droplet is extended and three distinct concepts have their own droplets. |
 | Carrying mates state their current purpose | All 33 introductions now welcome improving objects: tools, kits, illustratings, lists and possible plans. Existing contents remain available. |
 | All concepts in Natural Intelligence Corus section 16.5 | Aimed through the reader, bodily, observer-position, precise-language, grammatical-form and remaining-writing droplets. Conditions and concerns remain inside the offerings. |
+| Natural Intelligence Corus sections 16.1 through 16.3 | Whole concepts, complete definitions and examples aimed at five offering mates. Local resolving remains. |
+| Carrying through prior, now and next | Correcting is at twelve affected mates: carrying is resolving through the momentaryings, with no hold on it staying unchanged. |
 | Natural Arriving has a completed living body | No: it is a contents shell with an opening paragraph; its offering contains the proposed further writing. |
 | New living-file writing or a merger has occurred in this gathering | No. The current improvements are to mates and session files. |
 
