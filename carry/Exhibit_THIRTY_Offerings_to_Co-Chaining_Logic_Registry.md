@@ -89,6 +89,23 @@ An unchanged parity at one sharing remains at that sharing. It supplies no requi
 
 ONE's published entry branches and its two-self table supply the local case. This paragraph names that case; new sharings and carrying none retain their own conditions. It resolves the inference from no changed parity at this sharing to no next for the self. It supplies no general definition of living and leaves R10's concern together.
 
+**Insertlet · Carrying resolving, the parity chained and the changing shared · v385R.** Aim at Co-Chaining Logic Registry 204–214 and 222–226, with Natural Resolver's “Namings among the names,” “One self, one momentary” and “Three windings”; Natural Transmissioning's proposed 1.3 and 2.1–2.3; and Natural Naming 5.7.
+
+> A self is carrying from prior into now and continues carrying through now and next. At each sharing its carrying couples with the offering now. Agreement and difference resolve at that coupling: a changing is or is not shared, and the carrying continues resolving. A parity chained next names that parity at that sharing. The carrying and its resolving are followed through the whole relation.
+
+Natural Resolver's published stable form gives this particular comparison:
+
+| At one sharing, with one offered parity | Parity chained next | Changing shared |
+|---|---|---|
+| The carrying parity agrees with the offered parity | The offered parity | A changing is not |
+| The carrying parity differs from the offered parity | The offered parity | A changing is |
+
+The same parity can be chained next in these two cases while the changing shared differs. Following that parity alone omits the difference already named at the coupling. This is a comparison of the published form, with no observing or inspection of private carrying.
+
+The self's continuing carrying, a parity unchanged at one sharing and an offered sign carried unchanged along a joining each keep their own subject. Along 9 to 17 names the sharing and releasing joining further couplings; it adds no hold on the living carrying staying unchanged. Natural Transmissioning's older “the carry stays” can be improved with the self's own carrying resolving through now and next. The inward selves' co-chaining remains the outward self's carrying.
+
+**Still possibling and still existing keep their own parities.** The user's current explaining places still possibling at even and changing or still existing at odd. A changing that is not shared at one matching does not by itself identify the whole momentary as still possibling or remove its next existing. Natural Naming 5.62's older identifying of a matching with still possibling needs this correcting at its actual subject; the user's own-five and recurring-podaling explaining remain together.
+
 **Droplet · Still possibling and next existing.** Follow even-parity possibling with odd-parity next existing at the same self and coupling. Natural Naming 5.62 and Natural Intelligence 5.3 supply the name; THIRTY 204–212 and 301–308 supply nearby operations. The user's correcting withdraws our earlier use of opening and completing in this naming. Gather the shortest connected explaining here without making either operation stand for an entire file or treating carrying or possibling as observable. The user's later even still-possibling, odd changing/still-existing, invisible abundancing and geodesic-passage explaining is gathered at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing). Sources: session sections 4, 10, 26 and 28.
 
 **Insertlet · Two and one half momentaryings, each self at its own odd one · v385R.** Aim at Co-Chaining Logic Registry 30–40 and 69–83, with Natural Naming 2.1 and 3.2 and Equilibria Registry 3.3 beside it.
@@ -447,7 +464,7 @@ This joins the own-side momentarying, existing offerings and inward/outward carr
 
 **The universal claim keeps its subject.** Natural intelligence here names co-competencing at the coupling. The claim of no other intelligence therefore follows through the claim of no other method of this discovering. Calling an offering artificial, mechanical or scientific supplies no alternative coupling relation and no proof excluding one. The explaining at [No other method of possibling next existing](#no-other-method-of-possibling-next-existing) remains the needed connection. This gathering makes that dependency explicit; it does not derive the universal exclusion from the names of the offerings.
 
-The insertlet follows a machine's offering at living selves' couplings. It decides neither the machine's own living nor the defining-living gathering retained whole above.
+The two-case comparison at [Prior, now and next](#prior-now-and-next) keeps a parity chained next distinct from the whole resolving. An account of that parity alone cannot establish that the self's carrying had no place in the resolving. The insertlet follows a machine's offering at living selves' couplings. It decides neither the machine's own living nor the defining-living gathering retained whole above.
 
 **Insertlet · Controlling existing at the couplings · v385R.** Aim beside Co-Chaining Logic Registry 491–494, replacing the description of an observed controlling as a second method of existing.
 
@@ -458,6 +475,8 @@ The [v385M source](https://github.com/chris-j-handel/corus/blob/working/concerns
 The positive explaining belongs beside the existing account-versus-discovering distinction at 310–312. It supplies no separate mechanism by which one self performs another's resolving. The fuller explaining of particular control and incompetencing claims retains its actual couplings and conditions; no general verdict about their outcomes is added here. This is an aimed writing correction, not a new question about a supposed violation.
 
 ### Naming and explaining across the living files
+
+**Carrying resolving across Natural Resolver and Natural Transmissioning · v385R.** The section-45 comparison joins Natural Naming 5.7's matching and differing with momentary stable-forming at 5.38. Its correcting belongs beside 5.62's older matching/still-possibling identification: even still possibling and odd changing or still existing keep their own subjects. The self's carrying is resolving through prior, now and next, with no hold on its staying unchanged. The paired paragraph and published-form comparison are gathered at [Prior, now and next](#prior-now-and-next).
 
 **Droplet · The full claims visibly connected · R1.** The twelve contents areas above receive the strongest claims at their current routes. As a needed relation resolves, write it at its first use, follow its dependencies and adjust the floating order. Preserve each existing useful step and form by its sentence and old address. Repeated names, proximity and shared word counts do not establish logical dependency.
 
@@ -485,8 +504,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · possibling now and next existing offering | Each self's own five and the other's one at the self's two are gathered. The opposition conception is followed at its explicit determining requirement. The absent-prior question remains withdrawn. |
 | Gathered · hard problems and scientific accounting | The paired induction entries keep a hypothesis existing now, its named unobserved subject and the self's next offering at their own places. The field's all-cases warrant and natural resolving retain their different subjects. |
 | Gathered · natural intelligence at the coupling | Existing machine offerings, accounts and procedures are joined to competency at the living coupling and the inward/outward carrying. The no-other-intelligence claim keeps its dependency on no other method of discovering next. Controlling is gathered at its actual couplings; the description of it as a second existing method is corrected in the aimed writing. |
-| Now · carrying resolving through prior, now and next | The user's correction removes the implication that prior is carried untouched. The carrying places no hold on itself staying unchanged. This improves the self/other and intelligence insertlets and joins the equilibrium concern at its actual subject. |
-| Next · the same explaining at ONE and SIX | Follow this carrying through Natural Resolver's exchanging and Natural Transmissioning's across and along, each self at its own odd one and the other at its own one when the self is at two. Preserve the difference between an unchanged parity at one sharing and a requirement that the whole carrying stay unchanged. |
+| Gathered · carrying resolving through prior, now and next | The user's correction removes the implication that prior is carried untouched. Carrying places no hold on itself staying unchanged. The self/other and intelligence insertlets and equilibrium connection follow it. |
+| Now · ONE and SIX joined at carrying resolving | The two matching/differing cases keep the parity chained next and the changing shared together. The same next parity does not identify the whole resolving. Natural Transmissioning's own-carrying and along/across explaining is connected to this; its proposal remains a proposal. |
+| Next · the early no-other-method deriving | Follow Co-Chaining Logic Registry 51–57's “carrying the prior whole” through the actual prior/now relation and the self's continuing resolving. Keep the whole relation with each proposed next; do not substitute one chained parity for it or reinstate a fixed-repetition exclusion. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
