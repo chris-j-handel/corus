@@ -139,3 +139,7 @@ Each is what is seen, apart from the field's explaining, with what is not known 
 81. **M · beside 78, remaining until ingested.** Decay begins at death. Bodies kept very dry, very cold or in a peat bog stop decaying; frozen ones begin again when thawed. Bacteria, fungi, flies and scavengers do the decaying. Where the observing parts from *remains*: the first stage is the body's own chemicals and enzymes breaking down its tissues, from within, before any other living thing arrives. (*Decomposition*, Wikipedia, opened 8 October.)
 82. **M · beside 78, what would go against it.** A living thing whose own making, its proteins built in each cell, runs throughout in the other hand. None is known; none has been made; in December 2024 thirty-eight scientists urged that none be. (Smithsonian, on the *Science* article of December 2024, opened 8 October.)
 
+## Gathered 8 October from v385R's working
+
+83. **S, at v385R section 34 · Natural Intelligence 1.1; the Co-Chaining Logic Registry, steps 1 to 3.** *a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method.* It bears on concern 3 here, the set that holds itself.
+

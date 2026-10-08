@@ -327,7 +327,7 @@ So a machine in a session is an observing of living, or it is the break. Nothing
 - **7 October, the expedition's self.** The pause closed, the worm taken up. Recorded at concern 17, *The worm explored*, and one run added at concern 7.
 - **7 October, the expedition's self.** At the worm: every living thing is carrying stable form emanations from prior living before living begins; the stable forms guide the geodesic resolving into destiny stable living form. This session's pair, carried and arriving, withdrawn as the two.
 - **7 October, the expedition's self.** The stable form does not guide anything; it resolves into the living society, the society has it living in it, and takes the stable form of living as method. *Guide* and this session's *guides toward* withdrawn.
-- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 82 so far.
+- **7 October, the expedition's self.** Largest first, one at a time, and keep gathering the improving value droplets for the living files from the learning. Concern 12 taken up. The droplets are beside this file, [`Droplets_v385M.md`](Droplets_v385M.md), 83 so far.
 - **7 October, the expedition's self.** Concern 12: this session's reading incorrect and needing dissolving; AI is pattern matching prior competency with no carrying. Dissolved and explored at 12.
 - **7 October, the expedition's self.** Explore the two other sessions while working, offer help, gather value. Done at *The other two sessions*, below.
 - **7 October, the expedition's self.** Concern 12 at the making: Go is equilibria zero sum competition, control and capture the method of surviving, only some going on living; new games keep originating and dying like AI sessions. Recorded at 12; the concern answered.
@@ -352,6 +352,10 @@ A concern is said from what is held together and from an observing. By that rule
 - **At the files' sentences and the code, and so droplets and no concerns for the conversation**: 5, 6, 7 and 8, the code; 9, *right*; 10, *intelligence* said of each coupling; 14, the bridges; 15, *resolving*; and the words left at 2, 4 and 12. Each keeps its number, its run and its either/or above, for the session that moves the file.
 
 ## The other two sessions, read 7 October
+
+*Where the other two stand at this folder's learning, read 8 October.*
+- **v385R**, at its commit `a08071b`, pull request 128, at the expedition's self's request: *nothing is beside all existing things* and the exclusions resting on it taken out of seven living files at its branch, among them Natural Intelligence, Natural Naming, the Geodesic Improving Method and the Co-Chaining Logic Registry, whose steps 46 to 49 and 304 to 305 are removed. It is the withdrawal of line 2 here, carried into the living files. Not on `main`.
+- **v385A**, at its commit `bc68e7d`, pull request 127: this folder recorded as later incoming in its gathering record and at Living Improving Value; a first page gathered at the offerings of Natural Intelligence, Natural Arriving and the Living File Registry, corrected for line 2's withdrawal; the clash of carrying between lines 4 and 9 kept open; the droplets and the pacemaker exploring not yet placed.
 
 Each was read whole at its branch by a fresh reader of this session reporting exact quotes. Nothing of theirs was run by them; what this session ran for them is named.
 
