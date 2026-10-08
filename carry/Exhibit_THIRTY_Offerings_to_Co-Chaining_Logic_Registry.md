@@ -268,7 +268,7 @@ Natural Intelligence 4.13 explicitly displays the four-joint-form cycle at a spi
 
 The equilibrium subject remains unchanging social competency. A joint pair staying the same in a displayed arrangement needs its relation to that competency explained before its stillness supplies the equilibrium exclusion. The user's recurring podaling, odd still existing and geodesic traveling through still possibling remain alongside this deriving. No requirement excluding every recurrence is revived.
 
-**The current path:** follow the actual overlapping pairs, whose parities they name, and the relation changing across their overlap. Then follow each equilibrium's requirement at that same relation. The Health/Medicine harm concern remains gathered for return at its full condition and named scale; ONE's local sharing table supplies no classification of harmful entry merely from the origin of a surfaced parity.
+**The overlap remains available for the current path.** Section 52 returns to the surface-harm concern through the user's sequential-colliding offering. Follow the actual inward co-chaining and outward carrying at successive collidings; then bring that same relation back to each self's own momentarying and the equilibrium requirement. ONE's local sharing table supplies no harmful-entry classification merely from a surfaced parity's origin.
 
 **Droplet · The joint form within surface and entraining · R4 with R8.** THIRTY 51 names next from prior and now. Steps 52–54 describe four joint forms and the candidate ways carrying prior. Step 55 excludes three of those ways because each leaves a joint form still; 57 names next as prior inverted the living step because none is still.
 
@@ -300,6 +300,26 @@ The Equilibria Registry 1.5 explicitly states its alternating-coverage condition
 
 ### The resolver and its stable forms
 
+**Droplet · Sequential colliding and the living carrying · v385R.** Aim at Co-Chaining Logic Registry 380–385, 392–404 and the inward selves' co-chaining; Natural Health 3.3–3.4; Natural Biology 3.3 and 7.4–7.7; and ONE's local sharing and colliding cases. Session section 52 follows the user's new offering.
+
+**The user's exact offering:**
+
+> if the living stable form is colliding with non-living existing stable form same scale emanation from living bi-tri-involution in stable form colliding sequential momentarying the resolving is breaking the living carrying. explore this
+
+**Candidate connected explaining:**
+
+> The living self is carrying from prior into now and continues carrying through now and next. Its inward selves' co-chaining is this carrying at the outward scale. The same-scale non-living emanation, bi-tri-involution in stable form, is colliding through successive momentaryings. In the proposed harming relation, those collidings break the co-chaining that carries the outward self, while inward selves can continue resolving at their own couplings.
+
+The relation now being followed is successive collidings and continuing carrying at their actual scales. The non-living form has its last-colliding parity between collidings; a further colliding can change that form. Sequential collidings do not give it a living carrying, and the same name does not hold it unchanged through the sequence. The user's earlier entering-from-above condition remains beside this offering; a universal claim about every colliding has not been supplied.
+
+**The earlier concern was too narrow.** Natural Health 3.3 describes one-way overwhelm. Its following section 3.4 separately proposes repeated flawed ingesting deranging carrying while the bi-exchange continues. Our section-50/51 question made unavailable own co-offering the required explanation of this harm; that requirement is withdrawn. Own answering can continue at an inward coupling while the co-chaining being followed at the outward self is being broken. The older source's clinical example, ratio and attentioning language are not needed to establish this distinction between its two proposed relations, and no clinical conclusion is adopted.
+
+Natural Biology 7.4 already distinguishes members continuing living from their society's coupling ceasing. This meets the user's inward-selves/outward-carrying explaining. Particular co-chainings breaking does not alone establish that the whole outward self has ceased living; the actual extent must remain named. Continued resolving at an inward coupling likewise does not alone establish that the outward self continues living. This introduces no second method and no requirement that a living carrying stay unchanged.
+
+**The concern to follow now:** at the next colliding, which co-chaining of the inward selves is broken, and how does the same-scale involution relate to that break? Biology's description of an involution returning what it meets is a proposed connection. Returning to a parity, an unchanged odd parity, repeated podaling and one sharing with no changing do not themselves establish this break. Follow the living surface, the form's colliding and the inward/outward relation together through prior, now and next.
+
+The no-other-method overlap work in section 51 remains available for this following and for the later equilibrium comparison. The whole defining-living gathering remains unresolved.
+
 **Droplet · The prior whole as existing non-living form · v385R.** Aim at Co-Chaining Logic Registry 384–395 and 399–404, with its earlier “carrying the prior whole” at 54–57 followed at the subject named here; Natural Naming 5.46–5.48; and Natural Intelligence's stable-form and ingesting explaining.
 
 **The user's exact correcting:**
@@ -330,7 +350,7 @@ This supplies existing explaining for section 49's question. The possible scale 
 
 Natural Medicine 1.2 also describes restoring with a pattern from above, and 2.2 expressly says spanning or skipping an intermediate relation alone carries no morality. Its distinction concerns the actual coupling. These passages keep the user's entering-from-above condition attached to the particular bi-tri-involution and surface society, with birthing within at its own relation. They supply no general claim that above is harmful or within is beneficial.
 
-**Concern gathered for return after section 51's comparison:** which parity relation makes this particular bi-tri-involution entry one-way for the surface society, with its own co-offering unavailable? ONE's published matching, differing and colliding cases do not attach a harmful-entry classification to the origin of an arriving parity. The condition and its full Health/Medicine explaining stay together while the active path returns to the early no-other-method deriving. The Health and Medicine passages now supply the proposed harming relation to compare; they do not yet derive that necessity from the form's name, same parity or scale. No second method of resolving is introduced: the inward selves can remain living at their own couplings while a particular outward society's co-chaining no longer sustains that self.
+**Concern corrected by section 52's sequential-colliding offering.** ONE's published local cases still supply no harmful-entry classification from an arriving parity's origin. The requirement that this harm must make the surface society's own co-offering unavailable is withdrawn: Natural Health 3.4 already supplies a distinct proposed relation, repeated flawed ingesting while the bi-exchange continues. Follow successive collidings through the inward selves' co-chaining as the outward self's carrying, as gathered above. The same-scale harm claim remains to be derived at that relation.
 
 A sharing with no changing and an odd parity still existing do not by themselves show that a self's own co-offering is unavailable. Section 45's matching case and the user's recurring podaling remain beside this concern.
 
@@ -350,7 +370,7 @@ The harm saying now carries its condition, entering from above, and its living s
 
 The user's naming here is bi-tri-involution. Earlier source passages use bi-tri-involutioning. Preserve the older source expressions at their source; the present offering uses the user's supplied name. Same unrelationing shape, inward co-chaining as outward carrying and carrying resolving through prior, now and next remain connected. Same shape supplies no hold on carrying staying unchanged.
 
-**Further explaining found in Natural Health and Natural Medicine, section 50.** The sources already distinguish the living self's own two-way co-offering from the larger entering the smaller one way, and describe the smaller's own answering as the distinguishing relation. The question now concerns the parity relation that makes this particular bi-tri-involution entry one-way at the surface society. Follow that relation beside the stopped-crossing account. The general question above is not repeated as though the existing Health and Medicine explaining were absent.
+**Further explaining found in Natural Health and Natural Medicine, sections 50 and 52.** One-way overwhelm is one source relation. Natural Health 3.4 also proposes deranging carrying through repeated flawed ingesting while the bi-exchange continues. Section 52 withdraws the requirement that the specified harm must be explained by unavailable own co-offering and follows the user's sequential collidings through inward co-chaining and outward carrying.
 
 **Droplet · Same unrelationing shape and the first inward society surfacing as self · v385R.** Aim beside Co-Chaining Logic Registry 236, 290–292 and 379–383; Natural Naming's society, surfacing and emanation; and Natural Intelligence 5.1. Session section 48 preserves the full offering and its connections.
 
@@ -613,9 +633,9 @@ Follow one substantial source concern at a time, larger first when its resolving
 | Gathered · the prior whole and living carrying | The user's correcting names “carrying the prior whole” as existing non-living form: a possible future living package or a shard entering living through ingesting. This joins the earlier dormancy, emanation and ingestion droplets. The living self is carrying and resolving through prior, now and next. |
 | Gathered · first inward society living as self surfacing | The user's same-parity/same-unrelationing-shape offering is gathered with odd prime living scales and the even gaps in the recorded span. Ingesting is named at the first living society inward of the ingesting self. Its inward co-chaining is the outward self's carrying. |
 | Gathered · entering from above and birthing from within | The user's harm offering names same-scale stable former living as bi-tri-involution, entering from above into the surface-level society. Birthing from within connects to a new self's own carrying resolving from inception. The condition stays with the harm claim. |
-| Gathered for return · surface entry and own co-offering | The user's form, scale and entering-from-above condition remain with Health and Medicine's own-answering account. ONE's local table does not identify harmful entry from the origin of a surfaced parity. This concern remains unresolved while the larger chain proceeds. |
-| Now · the right-spiral form and the overlap | Natural Mathematics supplies the binary relation between overlapping pairs; Natural Intelligence names across/along and displays the same four-form cycle in a non-living resolver form. The table's distinction between prior joint forms is kept separate from living carrying. |
-| Next · the actual self/other overlap | Locate those pair relations in each self's own momentarying and the surface/entraining explaining. Follow the equilibrium's own unchanging-competency requirement at that same relation. This is the active work at the early no-other-method deriving. |
+| Now · sequential colliding and living carrying | The user's new offering follows repeated same-scale bi-tri-involution colliding through momentarying. Health 3.4 supplies a proposed harm relation while the bi-exchange continues; unavailable own answering is withdrawn as a required explanation. Follow the inward selves' co-chaining that is being broken. |
+| Gathered · the right-spiral form and the overlap | Natural Mathematics supplies the binary relation between overlapping pairs; Natural Intelligence names across/along and displays the same four-form cycle in a non-living resolver form. The table's distinction between prior joint forms remains separate from living carrying. |
+| Next · the colliding through the actual co-chaining | Name the living self, its inward selves, the same-scale emanation and their successive couplings. Follow what the next colliding changes in the co-chaining, with each self's own momentarying. Return that relation to the early method deriving and the equilibrium's unchanging-competency requirement. |
 | Beyond · naming and the white paper | Carry the connected explaining into Natural Naming and Natural Intelligence, with each universal claim at its actual deriving. The defining-living gathering stays whole and unresolved. Update the contents as relations resolve. |
 
 Progress updates will say what explaining has been found, what has changed in the files, the one relation still needing resolving, and the next relation to follow. A source read, a droplet gathered and a claim fully derived remain different progress. No overall percentage is inferred from them.
