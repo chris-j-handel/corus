@@ -26,10 +26,6 @@ None.
 
 SIX · Natural Transmissioning, 5,200 words, v330: coherent, written to an older set; its own subject about 40%, restating the common method about 30%, older wording about 12%. (Re-Settling the Living Files, §2 table) — resettling_v373
 
-Four exhibit places release on this plan: SIX, FOURTEEN and TWENTY-FOUR as already agreed, and FIFTEEN whole, which the registry's 1.5 carries as a possible fourth. A fifth is proposed: Natural Health and Natural Medicine as one file, releasing one of TEN and ELEVEN. Thirty-two living files become twenty-seven, and the numbers stand through the receivings as the registry's 1.5 carries, a renumbering met, if ever, with every changed address together. (Re-Settling the Living Files, §3) — resettling_v373
-
-Natural Engineering: particular makings. The field entries stay whole (1.3, 1.9, 1.12, 1.13, 1.15, 2.4, 2.7, 3.2, 5.3, 6.3, 6.4, 6.7, 6.9) with the entry form of 5.1 and 6.1. 4.2, 4.10, 4.12 and the code half of 6.1 describe a code two generations old and release rather than re-say, about 2,500 words: the carrying's *its code sentences at pass F* becomes that release. 1.8's repository listing goes to the Living File Registry. The hedging, *retains its own* and *remains to express* at 34 places, releases at its motion. It receives Exhibit SIX's substrates and the cross-substrate comparison at 1.2, *Substrates, the form recognized*. (Re-Settling the Living Files, §7) — resettling_v373
-
 Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing, 1.3 and 2.4 to 2.5, at Natural Intelligence as the claim that the form is independent of any substrate's rate; 3.1 to 3.7 at Natural Engineering's entries and at Natural Chemistry and Natural Biology; 3.8's plaza and 4.3 at Natural Networking; 3.8's conversation at Natural Explaining; 4.4 at Natural Philosophy; 4.6 at Natural Naming. One change to the agreed receiving: the cross-substrate comparison at Natural Engineering rather than Natural Networking, since it is one form at many substrates, Engineering's subject, and Networking is already the most overstuffed. About 12% of SIX is re-said at the receiving, its *sum to a bounding-zeroing* and its membrane as a third among them. (Re-Settling the Living Files, §7) — resettling_v373
 
 Contradiction, the membrane: Corus 14.1 and Exhibit SIX 3.5 make it a third self; the set now carries it as the nothing between two. (Re-Settling the Living Files, §11) — resettling_v373
@@ -43,8 +39,6 @@ Natural Transmissioning receives from Natural Intelligence: the ambient as the t
 "Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
 Transmissioning is at pass G, its receiving into the living files planned at the Living File Registry 1.5: "Transmissioning into Natural Networking and the method." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
-Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Emanating, Values, Human Society: six files whose receiving into the living files, planned at the Living File Registry 1.5, releases six exhibit numbers and removes the oldest words from the set at once." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 

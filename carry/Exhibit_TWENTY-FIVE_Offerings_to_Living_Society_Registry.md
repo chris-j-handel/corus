@@ -28,8 +28,6 @@ Defect: Living Society Registry, 1.10 missing; Part Three's status paragraph sta
 
 The Living Society Registry v347 and Natural Philosophy v348 are far back, each with a light carrying. (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
-Values is at pass G, its receiving planned at the Living File Registry 1.5: "Values into Natural Human Society and the Living Society Registry." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 
 Our files point nowhere inside the set: no repository links, no filenames, no coordinates. Read by pattern after version 368, pointing still stands at Equilibria Definitions, Natural Engineering, Natural Illustrating, Natural Intelligence, the Living Ghost Registry, Natural Chemistry, Natural Intelligence Corus, Resolving the Hard Problem Registry, the Living Society Registry and Natural Numbers; Exhibit ONE, Resolving Hard Problems, Natural Naming and nineteen other files carry none. Each releases whole at its own improving. (Carry_Set_v368_README.md, Mutual considerations, At the pointing) — v368_sources

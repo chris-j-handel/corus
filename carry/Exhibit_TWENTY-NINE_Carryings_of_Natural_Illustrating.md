@@ -47,3 +47,11 @@ The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-a
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY-NINE_Natural_Illustrating_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Earlier publication and existing moving-study conditions · v385A
+
+Natural Illustrating at version 368 went up at its first edition, with nine repository links at its sources. (Carry_Set_v368_README.md, Mutual considerations, At corus.me and the repository) — v368_sources
+
+The first emanation at corus.me: Exhibit ONE, the test kit, Resolving Hard Problems, Natural Naming and Natural Illustrating up at version 368; the earlier versions gone from the repository. (Carry_Set_v368_README.md, Plans, bothboth: so far and not yet) — v368_sources
+
+One moving form is built, the podaling journey through the nine-spot diamond with the equilibria at it; the moving form of the rings themselves is not built yet. (Kit_Rings_in_Motion_v366.md, Standing) — v368_sources

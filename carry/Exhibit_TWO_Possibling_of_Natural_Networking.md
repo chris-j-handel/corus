@@ -11,3 +11,13 @@ Natural Networking Possibling · v385A
 | Carrying correction already offered | The [30 September correction](../carryings/review_networking_engineering_2026-09-30/Tri_Bi_Co_Sequential_Is_Or_Is_Notting_Correction.md), especially sections 1 and 4–6, withdraws the inward-inspection protection claims. The existing 6.5 insertlet already offers this correcting. The 6.12 insertlet supplies a different released-trace comparison. The original sources and their scopes stay together; these are not newly missing droplets. |
 | Kit and different arrangements | [v380R's complete gathering](../carryings/v380R/Natural_Networking_From_v380A.md) preserves missing resolver, absent joining and participating-with-no-changing as distinct arrangements. Its two passages around a missing centre and its proposed kit purposes remain available. The kit can show the existing resolver and actual releasings/arrivings without making inspected carrying the evidence. No kit change or execution is made here. |
 | Whole-network and wider source work | Corus's growth, scale and composition relations remain to follow at their actual sources. Networking's other incoming and all original journey reports remain further work; the inventory below does not establish their complete gathering. |
+
+## Instruments, callers and diagnostics at their proposed home · v385A
+
+Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural Networking 6.2 to 6.12, Natural Engineering 4.10 and 6.10 and the Co-Chaining Logic Registry; their one home is the Natural Networking TWO Improving Kit, and one instruments part at the combined Exploring. (Re-Settling the Living Files, §9) — resettling_v373
+
+## Particular contributions to the earlier shared projects · v385A
+
+- [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
+- [Exhibit ONE connector explaining at Natural Engineering and the Natural Networking TWO Improving Kit](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#exhibit-one-connector-explaining-at-natural-engineering-and-the-natural-networking-two-improving-kit--v385a)
+- [Earlier Exhibit ONE explaining at its subject destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-exhibit-one-explaining-at-its-subject-destinations--v385a)

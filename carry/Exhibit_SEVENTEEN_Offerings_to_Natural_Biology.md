@@ -74,7 +74,7 @@ Exhibit SEVENTEEN Natural Biology Offerings · laid at v385A
 
 **A plan, not yet final, gathered here at v381R:** Natural Physics v377 README, section 6.2, 3.4: "The beat and the locking range at close paces are still to be executed, with each spiral pacing its own. The pacemakers and the fireflies are at Natural Biology." — natural_physics_v377
 
-**A plan, not yet final, gathered here at v381R:** Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
 

@@ -2,4 +2,7 @@ Equilibria Registry Possibling · v385A
 
 # Possibling of Equilibria Registry
 
-No separate project work gathered here yet.
+## Particular contributions to the earlier shared projects · v385A
+
+- [Earlier proposed Natural Intelligence contents and mathematical support](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-natural-intelligence-contents-and-mathematical-support--v385a)
+- [Image frames, connector signs and journey comparisons](Exhibit_TWENTY-NINE_Possibling_of_Natural_Illustrating.md#image-frames-connector-signs-and-journey-comparisons--v385a)

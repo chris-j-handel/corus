@@ -43,8 +43,6 @@ The ten things named still stand at Resolving Hard Problems 2.5, Resolving the H
 
 Defect: Natural Philosophy, *PART FOUR · CO-SEQUENCING* at line 346, before 3.9, so seams 3.9 to 3.37 fall under Part Four in the body. (Re-Settling the Living Files, §11 Defects) — resettling_v373
 
-About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. (Natural Naming at Exhibit ONE, §1) — resettling_v373
-
 The Living Society Registry v347 and Natural Philosophy v348 are far back, each with a light carrying. (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources

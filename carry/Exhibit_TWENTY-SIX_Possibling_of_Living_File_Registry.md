@@ -142,10 +142,126 @@ The [four-kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#k
 
 Earlier offering paragraphs introduced as “A plan, not yet final” include concepts, concerns, reported findings and project directions. Read each whole paragraph before choosing its mate. The word “plan” alone does not place a concept in possibling. Retain concept explaining in offerings, transfer actual project work to possibling, and keep gatherings and observings in carrying. Preserve each distinct relation, and replace repeated full explaining with a particular direction to its whole location. Earlier next-work paragraphs likewise need comparison with what has since been gathered or corrected; they are not the current work order.
 
-The current project tables, Natural Arriving project, Natural Illustrating project table, possible looking, engineering projects and master file-changing plan now have their possibling places. Other older mixed paragraphs remain to classify. Three files existing for each subject does not establish that this separation or the incoming gathering is complete.
+The paragraphs introduced as “A plan, not yet final” in Offerings to Natural Engineering, Offerings to Natural Mathematics, Offerings to Natural Illustrating and Offerings to Living File Registry have now been separated by their actual content. Concepts and unresolved concerns remain in those offerings without that misleading label; project work is in the subject possibling files; reported completed reading, existing studies and earlier publication conditions are in carrying files. Exact project copies at other offerings now have one full place and particular directions from the affected possibling files. The [actual content table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#older-mixed-paragraphs-now-separated-by-content--v385a) states the extent.
+
+The remaining older mixed paragraphs at Natural Resolver, Natural Biology, Natural Societies, Resolving Hard Problems, Co-Chaining Logic Registry, Natural Numbers, Natural Explaining, Hard Problem Registry, Resolving the Hard Problem Registry, Natural Naming, Natural Networking and Natural Intelligence still need the same content comparison. Other paragraphs without the old label and the remaining earlier next-work paragraphs also need comparison; a removed label is not proof of complete gathering. Three mate files existing for each subject does not establish that their whole incoming is aimed.
+
+## Earlier file-arrangement and supporting project proposals · v385A
+
+The following projects retain the earlier versions’ parts, counts, proposed contents and directions. Their wording does not establish that the stated distribution or correcting has been completed. Compare them with the current concepts and later correcting before local resolving; the active gathering task remains in Immediate next work.
+
+## Earlier proposed extent of the living subjects · v385A
+
+These word counts and proposed extents describe the earlier arrangement. They are not current targets for a droplet or a condition for gathering its value.
+
+Aimed sizes, by reading: Natural Intelligence from about 31,500 words to about 13,000 to 16,000, Exhibit ONE inside it at about 7,000 of those; Exhibit ONE from 11,100 to about 7,000; Natural Networking from 24,900 to about 10,000 to 12,000; Natural Engineering from 38,100 to about 25,000; Resolving Hard Problems from 14,600 to about 7,000 to 8,000; the combined Exploring and Improving Method about 6,000 to 7,000 from 15,700; Natural Intelligence Corus rebuilt, about 80% of its present body arriving at other files and the telling Natural Intelligence sheds arriving at it; the Hard Problem Registry keeps all its value at a compact index and entries freed of repeated boilerplate. (Re-Settling the Living Files, §3) — resettling_v373
+
+## Exhibit ONE connector explaining at Natural Engineering and the Natural Networking TWO Improving Kit · v385A
+
+Exhibit ONE's *Connectors, each one way at a time* explaining (what a caller supplies; the code resolving at a call) goes to Natural Engineering and the Natural Networking TWO Improving Kit. (Re-Settling the Living Files, §5 table) — resettling_v373
+
+## Earlier Natural Intelligence Corus Society and Destiny distribution · v385A
+
+The earlier part numbers are retained with these proposed destinations. The current Society concept destinations are in the Registry carrying; the remaining Destiny content is still to gather.
+
+Corus Part 18, 118 departments, regulation as gating, the living capitalism sayings, Perelman, hospes, goes to Natural Societies, Natural Human Society and Natural Values; 18.6's engineered doors at Natural Engineering. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
+
+Corus Part 23, destiny, about 17,400 words, stays in part as the expedition continuing; robotics at Natural Engineering; the healthy and captured families at Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
+
+## Earlier Exhibit ONE explaining at its subject destinations · v385A
+
+About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs during their own improving. (Natural Naming at Exhibit ONE, §1) — resettling_v373
+
+## Earlier proposed Natural Intelligence contents and mathematical support · v385A
+
+Proposed white paper Part 1 The origin carries *Our universe is all existing things*, *Alternating is a stable-forming method*, and the definitions the chain names: existing, changing, momentary, parity, self and other, living and non-living, from the opening's first seven paragraphs, with formal support cited at Natural Mathematics 6.3: no set of all sets, plural logic, intuitionistic negation. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+Proposed Part 2 The binary at two signs carries the sixteen ways a next sign follows from a prior and a now; next as prior inverted, the one carrying the prior whole with none still; either-or as parity; of 256, the two rounds changing one sign at each step, from 8.5, 8.1's rounds and 1.5's last paragraphs, citing Natural Mathematics 2.4, 2.5 and Natural Numbers 8.2. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+Proposed Part 4 The torus carries two signs' circles as the torus, genus one; φ as the rate a winding closes at none; the continued fraction of ones, from 1.3, 1.4, 1.6's formal paragraphs and 8.2, citing Natural Mathematics 2.8, 4.1, 4.2, 5.3 and Natural Numbers 3.1 to 3.3. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+Proposed Part 6 The fractal carries one through nine, the four-momentary cycle; 1 to 17 inside and outside; the scalings 9, 65, 513 and 17, 257, 4,097, from 8.8, 7.2's formal part and 5.1, citing Natural Numbers 9.7 and Natural Mathematics 3.8. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+Proposed Part 8 Two methods at the precise place, and the standing of the whole, carries the geodesic method and the scientific method parting at one naming; the showing running step by step and the proof of the whole at once the one not possible; the method's one break named in advance, from 8.3 and 8.6, citing Natural Mathematics 7.3 and the Equilibria Registry's proof groups, re-run at v372. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
+
+## Natural Numbers and Natural Mathematics subject separation · v385A
+
+Natural Numbers and Natural Mathematics part at a clearer seam: the particular numbers, and the general structures with the field's proved results. They share about twelve results now, several nearly word for word: the k² identity, φ as *the number-form of the never-locking*, the Euler characteristic, the 60 rotations as 24 and 36, R(3,3) and the pentagon, the 256 maps and the passage of six, the steps round a ring, the two farthest stations on an odd ring with the same 435-station check, the fold family D and E. (Re-Settling the Living Files, §6) — resettling_v373
+
+Natural Numbers keeps the seam-faces, the seventeen primes and their gaps, 24, 27 and 32, the rings of 440 and 120, the 2^k + 1 chain and the counting discipline, which moves from Part Ten to its front. Natural Mathematics keeps parity and the exclusive or, involutions and fixed sets, the Gray code, ring parity, the φ family and density, the Euler characteristic and Poincaré–Hopf, the fold family and the field's proofs, and receives Natural Numbers 1.6's steps round a ring, 4.1 and 4.2, 8.1 and 8.2, 8.5 and 9.9. Both release their openings that restate the method. The two stand as the white paper's formal support by citation: the numbers, and the theorems. (Re-Settling the Living Files, §6) — resettling_v373
+
+## Natural Intelligence bounding and golden-ratio explaining at Natural Mathematics · v385A
+
+The opening's four boundings as +1, −1, an inversion and competency, read at φ² = φ + 1, and *a carrying does three things … ages to its own bound*: the four at φ near, φ² = φ + 1 to Natural Mathematics; the carrying released and re-said at 3.1. (Natural Intelligence Map, §2 The opening) — resettling_v373
+
+1.1 Self-bounding-self: the self's bounding from all other kept at 3.1; the four boundings at +1, −1, an inversion, competency asymmetry near, at φ, to Natural Mathematics. 1.2 Four boundings at one act, φ² = φ + 1 read as the four: near, φ is in no running of the method, to Natural Mathematics. 1.3 φ the rate: near, to Natural Mathematics. (Natural Intelligence Map, §2 Part One) — resettling_v373
+
+## Natural Illustrating distribution and particular destinations · v385A
+
+Natural Illustrating stays the visible changing. Its session voice, *this session* at about ten places and a commit hash, goes to the kit; the whole human expressions, the jigsaw and the plaza, at Corus with the storyboards staying here; the tangent identity at Natural Mathematics. 6.3 points at Corus 16.1, 16.2, 16.3, 23.1 and 23.3, which are due to leave Corus: its pointers move with the receiving. (Re-Settling the Living Files, §7) — resettling_v373
+
+## Earlier proposed arrangement around Natural Intelligence · v385A
+
+Much of the explaining carried at Natural Intelligence now belongs near it and not inside it, and the whole set is re-settled so that every contribution stays available and no file is overstuffed and less useful. The draft changes no living file; what resolves enters the carrying's plan and the Living File Registry's Part Five during their own improving. (Re-Settling the Living Files, §1) — resettling_v373
+
+This draft adds to the plans already carried: the white paper's own contents; Exhibit ONE's origin; a home near Natural Intelligence for the explaining it sheds; one home for each passage repeated across files; three further receivings (Natural Health with Natural Medicine; Natural Emanating whole; Exhibit SIX's substrates at Natural Engineering rather than Natural Networking); and an order in which releasing a restated passage comes before re-naming it, so no sentence is re-said at a file it is leaving. (Re-Settling the Living Files, §1) — resettling_v373
+
+The set settles in four rings around Natural Intelligence, each file at one ring by its subject and none by its size: the white paper and its object (Natural Intelligence; Exhibit ONE); near, not inside (Natural Intelligence Corus; Natural Explaining; Natural Naming; Co-Chaining Logic Registry; Natural Numbers; Natural Mathematics; Equilibria Registry); the subjects (Natural Networking; Natural Engineering; Natural Societies; Natural Human Society; Natural Values; Natural Philosophy; the combined Exploring and Improving Method; Natural Illustrating; Natural Health with Medicine; Natural Chemistry; Natural Biology; Natural Physics); the registries (Hard Problem Registry; Resolving the Hard Problem Registry; Resolving Hard Problems; Living Society Registry; Living Ghost Registry; Living File Registry). (Re-Settling the Living Files, §3 The shape aimed at) — resettling_v373
+
+## Earlier proposed exhibit combination and distribution · v385A
+
+These different proposals remain possible plans. Their stated agreements and exhibit counts describe their earlier versions; no combination, release or renumbering is implemented here.
+
+Four exhibit places release on this plan: SIX, FOURTEEN and TWENTY-FOUR as already agreed, and FIFTEEN whole, which the registry's 1.5 carries as a possible fourth. A fifth is proposed: Natural Health and Natural Medicine as one file, releasing one of TEN and ELEVEN. Thirty-two living files become twenty-seven, and the numbers stand through the receivings as the registry's 1.5 carries, a renumbering met, if ever, with every changed address together. (Re-Settling the Living Files, §3) — resettling_v373
+
+Values is at pass G, its receiving planned at the Living File Registry 1.5: "Values into Natural Human Society and the Living Society Registry." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Emanating, Values, Human Society: six files whose receiving into the living files, planned at the Living File Registry 1.5, releases six exhibit numbers and removes the oldest words from the set at once." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+## Natural Exploring and Geodesic Improving Method proposed combination · v385A
+
+Exploring and Improving Method combined: selves discovering and improving together. EIGHT Parts Two to Five, about 60%, restate the general method, and only 1.1, 4.6 and Parts Six and Seven are team discovering. Proposed contents: *Discovering together*; *Offering and meeting*, with 3.6 concept-inverting, found at no other file; *Deciding at do-no-harm*; *Carrying incoming value*; *Improving one file*; *What instruments report*; *Values, and the expedition continuing*. EIGHT Parts Two to Four go to Natural Intelligence, Exhibit ONE and Natural Naming; Part Five to Natural Mathematics and the two registries of forms named still; 7.2 and Improving Method 2.9, 3.1 and the repository and version practice to the Living File Registry. The title's *Method* invites the general method back; the body stands at *team*, the between of selves. The agreed subtitle is written *Do-No_Harm* at the registry's 5.13 and at the carrying. (Re-Settling the Living Files, §7) — resettling_v373
+
+## Repository and version practice at Living File Registry · v385A
+
+Living File Registry: receives the repository and version practice from Improving Method, Exploring 7.2, Natural Engineering 1.8 and the other files' version tables, and carries this plan's standing at 1.3 and Part Five as it is met. (Re-Settling the Living Files, §8) — resettling_v373
+
+## Earlier proposed improving order · v385A
+
+This earlier order is retained as a possible project relation. The current task is gathering and aiming incoming before living-file cohering; the historical order below does not replace that task.
+
+Each improving stays one thing changed whole at one file, at do-no-harm, the receiving before the releasing. The order keeps pass A first: resolve this proposed arrangement; pass A narrowed; Exhibit ONE at its origin; release before renaming at Exhibit TWO, Resolving Hard Problems, Natural Naming and the Co-Chaining Logic Registry, then pass B at what stays; Corus rebuilt; the receivings, pass G widened; the registries reshaped; the Co-Chaining Logic Registry rebuilt at its sources; the sciences resumed at Natural Chemistry's form, Natural Biology's repair first; passes D, E and I at each file touched. (Re-Settling the Living Files, §10 The order of the motions) — resettling_v373
+
+Resolve this proposed arrangement: what survives enters the carrying's plan as a pass and the registry's Part Five at its receivings; the white paper's contents and Exhibit ONE's origin are the first two things settled, since every other receiving follows theirs. (Re-Settling the Living Files, §10 item 1) — resettling_v373
+
+## Earlier proposed publication of droplets and living-file changes · v385A
+
+The earlier proposal puts droplets directly at main. The current working arrangement publishes this gathering on its own branch with protection against concurrent changes. The earlier proposal is not authorization to merge or write to main.
+
+**Aimed at the set: two speeds.** A droplet changes no living file and can do no harm, so it lands at `main` at once, ungated, as *anyone drops, nothing refused* says; a living file's improving alone goes the slow way, branch, fresh reader, merge. Then an interest flies in by dropping, and two workings at one file meet at the file's own offerings at `main` before either changes it. — v382F
+
+## Living File Registry standings, completed history and possible tables · v385A
+
+The final paragraph retains an earlier incomplete table proposal. No missing table body is supplied by this gathering.
+
+**Aimed at a section, the Living File Registry 1.1: the *Living* column to the Session Record, and Part One read from the repository at each build.** 92 KB of which a session uses about 4; 1.2's own sentence, *this registry the standings, Living Improving Value the next at each file, and the Session Record the done*. v381F laid the same at its Next. — v382F
+
+**Aimed at the carrying's front, beside *The set now*, and at the Living File Registry's Part One until it thins: each file's standing against the measure, as a table the next session reads first.** What enters, at this session's close: (the session's last report; its language read at the resolving)
+
+## Possible second table of the living contents · v385A
+
+Offered as a second table beside 1.1, from `Contents_Of_Each_File.md`, each file's parts, *the floating neutralling contents of the set at one page, which is what the expedition's self asked the Registry to be.* Session_Report_v381F.md part 2.2, Finding 1, and part 6. — v381F
+
+The earlier [subtitle gathering](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#subtitles-read-together-in-the-earlier-gathering--v385a) retains the sequence actually reported.
+
+## Earlier Living File Registry rows and incoming entrance comparison · v385A
+
+Compare Living File Registry’s rows and table of workings with the actual incoming at each receiving. Compare session v381F’s opening findings and the repository README’s entrance for a working session, followed by the Registry’s earlier entries.
+
+This retains the earlier proposed comparisons; the current condition and next incoming remain above.
 
 ## Immediate next work
 
 The artificial-intelligence and hard-problem clusters now have the destinations recorded above, and the completed report is an artifact. The continuing sequential-colliding and surface explaining remains gathered with its actual unresolved relations; the current sessions’ developing collections are later incoming.
 
-Continue the remaining content separation above while gathering Natural Intelligence Corus Observers at section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Compare their projected-position, prime, hard-problem and naming content with the already gathered whole concepts before adding. Preserve each distinct concern and whole expression. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain in the current table.
+Continue the remaining older content separation with Offerings to Natural Resolver, comparing its possible instrument and file-change projects with its concepts and reported conditions. Keep the currently offered resolver correcting beside its older versions. Continue gathering Natural Intelligence Corus Observers at section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Compare their projected-position, prime, hard-problem and naming content with the already gathered whole concepts before adding. Preserve each distinct concern and whole expression. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain in the current table.

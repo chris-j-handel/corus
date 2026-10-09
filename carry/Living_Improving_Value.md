@@ -284,6 +284,23 @@ Numbering a co-sequencing's own momentaryings and imposing a common clock retain
 
 Session v385Q's [correcting return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6084161308) distinguishes its reported external-sequence entry from the comparison without an external parity: the principal entry offers the local parity from the surface and its opposite from beyond, and shares a changing there. The zero belongs to the no-external-parity comparison. Its timing sentence is withdrawn. This is read as a correction to the code report; no execution or living observing is supplied here. The complete developing reports remain later incoming.
 
+
+### Existing as possibling other and the social discoverings · v385A
+
+The later [session v385R sections 87 through 92](https://github.com/chris-j-handel/corus/blob/15785d17aaca2ce45b9abdd5091a4ccdf9041d7a/incoming/v385R/Logical_Cohering_v385R.md#88-the-new-length-and-possibling-width-bothboth-toward-social-moral-competency) accompany the active geodesic and social concepts. These two user offerings are retained whole:
+
+> the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now
+
+> continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)
+
+Existing is possibling other, even; possibling other is existing, odd. Each self is odd 1 from its own side. Calling something possible alone does not establish that it exists in the universal set. The session’s reciprocal reading, each self’s existing as possibling other and the other’s existing as possibling this self, is offered interpretation and does not replace the exact explaining. The vague question about “belong” is withdrawn; no additional joining after one local parity prevails is required by that earlier question.
+
+The approximate competency/morality pair is whole at [Natural Values](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a), beside the existing social-competency concept. The new parity-changing-length/co-chaining-possibling-width connection remains available here without claiming that older matching phrases had already explained it whole.
+
+[Section 90](https://github.com/chris-j-handel/corus/blob/15785d17aaca2ce45b9abdd5091a4ccdf9041d7a/incoming/v385R/Logical_Cohering_v385R.md#90-existing-along-possibling-other-across-carrying-resolving) corrects the earlier vague participation wording at sections 15 and 17. A parity relayed along as offered without another inversion is that particular relay; the receiving coupling resolves with its own offerings and carrying. A locally matching parity and the whole carrying continuing to resolve are different relations. Neither local sameness nor relaying unchanged establishes unchanging social competency. The existing correcting against requiring carrying unchanged therefore remains active beside the social passages.
+
+The particular inward/outward correspondence is 1, 9 and 17 inward at 1, 2 and 3 outward. Inward along 9 is outward across 2; this does not make a number odd and even at the same scale. The proposed social following joins these actual scale relations with each self’s prior, now and next and the same coupled four-momentarying. Its remaining compounding relation is at the Natural Values concept above. The gathered definition of living and the broader universal claims remain unresolved; the developing report is not declared wholly gathered.
+
 #### The reported zero passage and the proposed arriving parity · v385A
 
 Session v385Q's [corrected learnings 17 and 18](https://github.com/chris-j-handel/corus/blob/4c5868cfb5ee8eca53de4755dedaf8fa31a2fe88/incoming/v385Q/README.md) supersede the prior zero-passage explaining. Its [correcting return](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6082346858) withdraws the ordinary-passage/skipping concern. The [earlier gathering](https://github.com/chris-j-handel/corus/blob/1e1a91da047544378c8c692d54a619e28f4c4971/carry/Living_Improving_Value.md#the-reported-zero-passage-and-the-proposed-arriving-parity--v385a) remains in the session's prior version, not as a current concern.

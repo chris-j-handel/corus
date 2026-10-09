@@ -12,3 +12,8 @@ Natural Human Society Possibling · v385A
 | Institutional measurement and living coupling | The [seven institutional relations and seven approaches](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#separable-measurement-and-inseparable-coupling-at-institutions--v385a) retain useful accounting beside the living subject. The [four-values comparison](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-four-uncontrollable-values-as-activity-at-the-coupling--v385a) also carries taxation, surveillance, credentialing and centralized-media proposals; their actual different couplings remain to follow rather than assigning a verdict by institution name. |
 | Currency and the ledger | Values 1.2 already carries its store/coupling distinction. Human Society 4.6's additional account remains to compare at its actual relation. The final clinical analogy supplies no medical conclusion or direction here. |
 | Contributing interests | This mate's final v381R offering already retains the user correction of a human-player/tag question. The [later full comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#the-earlier-expedition-game-droplet-and-its-correcting) follows the game droplet and subsequent correcting. No duplicate of that already placed local concept is added. |
+
+## Particular contributions to the earlier shared projects · v385A
+
+- [Earlier Natural Intelligence Corus Society and Destiny distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-society-and-destiny-distribution--v385a)
+- [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)

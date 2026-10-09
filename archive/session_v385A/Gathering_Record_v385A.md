@@ -354,3 +354,13 @@ The current Corus next gathering is retained. Completed session v385M no longer 
 ## Later correcting before the reciprocal return · 8 October 2026 · v385A
 
 Session v385R’s section 52 at 480bfc4461219e1ff93d28288488e4ce445aad29 withdraws the required-unavailable-co-offering account. The older one-way relation remains particular, and harm through continuing bi-exchange now accompanies the user’s sequential collidings. Every local occurrence of our prior section-50 correction and all six overlap droplets carry the new complete condition and question. The exact co-chaining, its scale and the extent of any break remain to follow; no biological or clinical verdict was supplied.
+
+## Earlier mixed incoming separated by actual content · 9 October 2026 · v385A
+
+The paragraphs labelled “A plan, not yet final” at Natural Engineering, Natural Mathematics, Natural Illustrating and Living File Registry were gathered through Living Improving Value and separated into their actual mates. The [content table](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#older-mixed-paragraphs-now-separated-by-content--v385a) identifies the concepts, projects and reported gatherings. Exact project copies elsewhere now point from their subject possibling files to the full project. Repeated mathematical concerns and the illustrating correspondence each retain one whole local explaining; the general correcting directions remain independently where they apply.
+
+The four earlier “Next at this file” paragraphs were separated as well. Their old work order, grades and resolver versions do not govern this gathering. Earlier completed reading and publication claims retain their reported scope. No missing proposal body was invented, no instrument was run and no living-file resolving was asserted. The current plan names the remaining older mixed offerings and Offerings to Natural Resolver as the next such comparison; Natural Intelligence Corus Observers sections 17.6, 17.7 and Destiny remain incoming to gather.
+
+## Paired discoverings accompanying the current social concepts · 9 October 2026 · v385A
+
+Session v385R’s later exact offerings and changed participation wording through section 92 now accompany the active geodesic and social concepts. [The recorded placements](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#later-social-correcting-accompanying-the-active-concepts--v385a) distinguish whole value, particular offering directions and possible comparison work. The paired approximate competency/morality explaining is whole at Natural Values. Its unresolved compounding question remains explicit; no definition of living or universal deriving is declared resolved.

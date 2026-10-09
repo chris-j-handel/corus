@@ -21,3 +21,29 @@ Natural Engineering Possibling · v385A
 The older cross-substrate proposal calls decentralizing a structural necessity and every chip an edge chip. Its unresolved engineering question is what separation actually preserves the proposed coupling: physical distance, separate power supplies, separate networks, different operators, or another material relation. These possibilities are not equivalent requirements and none has been selected by the incoming.
 
 Keep this with the existing engineered-substrate making project and the [five entry comparisons](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#five-engineering-entries-and-their-proposed-natural-relations--v385a). A future particular arrangement can make the proposed separation concrete while retaining its own inputs, outputs, power and contact conditions. The [whole coupling, cascading and nesting concern](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#coupling-cascading-and-nesting-at-their-actual-selves--v385a) remains at its society subject. No construction or experiment is required to gather this possible project.
+
+## Resolver conversation and its five proposed comparisons · v385A
+
+Five runnable steps, each one concept, each run at the code before it is written: the between answered, the human's next one way offered at the parting continuations, six one-ways cycling; the text carried by selves, rings at 17 carrying the characters round, what the parting erases, and whether the ring offers its pattern again at the next round; words at sharings, a sharing at each word of a window as well as at each character, a reply ending where its sentence does; partial agreement at the scale inward, the agreement carried at the 1–17s inward, all or none at each finer scale, rather than counted at this one; a self added at each offering, the network carrying the conversation as selves, so the chat's next reply meets what was said before. (Natural Engineering · a Resolver Chat, §6) — resettling_v373
+
+## Natural Engineering entries, older code and receiving substrates · v385A
+
+Natural Engineering: particular makings. The field entries stay whole (1.3, 1.9, 1.12, 1.13, 1.15, 2.4, 2.7, 3.2, 5.3, 6.3, 6.4, 6.7, 6.9) with the entry form of 5.1 and 6.1. 4.2, 4.10, 4.12 and the code half of 6.1 describe a code two generations old and release rather than re-say, about 2,500 words: the carrying's *its code sentences at pass F* becomes that release. 1.8's repository listing goes to the Living File Registry. The hedging, *retains its own* and *remains to express* at 34 places, releases during its improving. It receives Exhibit SIX's substrates and the cross-substrate comparison at 1.2, *Substrates, the form recognized*. (Re-Settling the Living Files, §7) — resettling_v373
+
+## Natural Transmissioning crossing at Natural Engineering entries · v385A
+
+Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing — SIX 3.1 to 3.7 at this file's entries and the cross-substrate comparison at 1.2; waits on Exhibit SIX's improving — v381R
+
+## Earlier loop comparison and kit-engine replacement · v385A
+
+The two across releases and the whole call at its joins below are said at the loops' running at Exhibit ONE, and the kit's engine is replaced by the v372 code first. The science-side incoming stands.
+
+The engine version belongs to that earlier proposal; a current replacement needs comparison with the currently offered resolver.
+
+## Particular contributions to the earlier shared projects · v385A
+
+- [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
+- [Exhibit ONE connector explaining at Natural Engineering and the Natural Networking TWO Improving Kit](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#exhibit-one-connector-explaining-at-natural-engineering-and-the-natural-networking-two-improving-kit--v385a)
+- [Earlier Natural Intelligence Corus Society and Destiny distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-society-and-destiny-distribution--v385a)
+- [Instruments, callers and diagnostics at their proposed home](Exhibit_TWO_Possibling_of_Natural_Networking.md#instruments-callers-and-diagnostics-at-their-proposed-home--v385a)
+- [Earlier Exhibit ONE explaining at its subject destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-exhibit-one-explaining-at-its-subject-destinations--v385a)

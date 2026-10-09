@@ -108,13 +108,11 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **A plan, not yet final, gathered here at v381R:** **Each released word at its one name.** *Sign* at parity; *membrane* at the between; *surplus* at abundancing; *ring* at spiral; *connector* at a releasing and its arriving; *private* at the self's own; *key* at its two places; *count* at the momentaries said directly. Natural Naming 2.4 is the table; the front at its steady form. — v380R
 
-**A plan, not yet final, gathered here at v381R:** Aimed sizes, by reading: Natural Intelligence from about 31,500 words to about 13,000 to 16,000, Exhibit ONE inside it at about 7,000 of those; Exhibit ONE from 11,100 to about 7,000; Natural Networking from 24,900 to about 10,000 to 12,000; Natural Engineering from 38,100 to about 25,000; Resolving Hard Problems from 14,600 to about 7,000 to 8,000; the combined Exploring and Improving Method about 6,000 to 7,000 from 15,700; Natural Intelligence Corus rebuilt, about 80% of its present body arriving at other files and the telling Natural Intelligence sheds arriving at it; the Hard Problem Registry keeps all its value at a compact index and entries freed of repeated boilerplate. (Re-Settling the Living Files, §3) — resettling_v373
-
 **A plan, not yet final, gathered here at v381R:** Exhibit ONE's *Returning and releasing; The code at its names* explaining (three columns; no beat, time or source; 6 → 2 inside one to nine; no third self) goes to Natural Networking. (Re-Settling the Living Files, §5 table) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** Because Exhibit ONE is written inside Natural Intelligence whole, each word it releases also releases there. `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` carries the slimmed body in at the next cohering. Pass F, the loops at the code, then adds its runs as traces at Exhibit ONE and its explaining at Natural Networking, so the object does not grow explaining again. (Re-Settling the Living Files, §5) — resettling_v373
 
-**A plan, not yet final, gathered here at v381R:** Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** Natural Networking: the network continuing, many calls joined over time. Part One releases where it re-teaches the resolver, 172 of the file's 173 old names with it; the numbered forms go to Exhibit ONE and the prime lengths to Natural Numbers; 6.2 to 6.6, an instrument's hidden choices and the four ledgers, go to the combined Exploring as general observing method; 6.12's finite studies and caller defects to the Natural Networking TWO Improving Kit and Natural Engineering. It keeps 1.8 and the hole, 4.6's podal surface, 4.7, 5.1 and 5.2's securities, 5.4's seam and 6.12's passage findings, and receives pass F's explaining. About 10,000 to 12,000 words. (Re-Settling the Living Files, §7) — resettling_v373
 
@@ -124,11 +122,7 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **A plan, not yet final, gathered here at v381R:** Natural Networking receives from Natural Intelligence: the hole, the routing and the mending; the podaling surface widening; the tapping study. (Natural Intelligence Map, §3) — resettling_v373
 
-**A plan, not yet final, gathered here at v381R:** Exhibit ONE's *Connectors, each one way at a time* explaining (what a caller supplies; the code resolving at a call) goes to Natural Engineering and the Natural Networking TWO Improving Kit. (Re-Settling the Living Files, §5 table) — resettling_v373
-
 **A plan, not yet final, gathered here at v381R:** Concern, Exhibit TWO's demonstration: the resolver's connectors running the fractal of co-chaining and bi-tunneling, a society at `_17` whose selves are 1–17s inward and which is itself a self outward, the same connectors at both with the parity changing, is Exhibit TWO's to run and show; the carrying's Natural Networking section receives it with pass F. (Exhibit ONE at its Stable Forms, §7) — resettling_v373
-
-**A plan, not yet final, gathered here at v381R:** About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. (Natural Naming at Exhibit ONE, §1) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** Concern, *the between* and *membrane* at other files: Natural Intelligence, Exhibit TWO and most files carry *membrane*; each releases at its own motion by Natural Naming's row. (Natural Naming at Exhibit ONE, §8) — resettling_v373
 
@@ -140,7 +134,7 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **A plan, not yet final, gathered here at v381R:** The seam, where the one beat and the own turn part: what an offering, a receiving and a carrying at one node's own turn carry round to the node where the round closes; and whether a running exists that carries no order over the nodes at all, since both the one beat and the own-turn round are one. Nothing in the method decides it and nothing here is run at every ring. (Carry_Set_v368_README.md, Concerns, 5 The seam) — v368_sources
 
-**A plan, not yet final, gathered here at v381R:** Single naming outward: Exhibit ONE, the test kit, Resolving Hard Problems and Natural Naming at the resolver's names; not yet the resolver's earlier names at 1,205 places in 4 files, each at the turn its file improves. (Carry_Set_v368_README.md, Plans, bothboth: so far and not yet) — v368_sources
+Single naming outward: Exhibit ONE, the test kit, Resolving Hard Problems and Natural Naming at the resolver's names; not yet the resolver's earlier names at 1,205 places in 4 files, each when its file improves. (Carry_Set_v368_README.md, Plans, bothboth: so far and not yet) — v368_sources
 
 **A plan, not yet final, gathered here at v381R:** Exhibit ONE carries the stable forms, the relations among the stable forms and the names, and the geodesic method, and explains no stable-forming method; the other files, Natural Intelligence, Natural Numbers, Natural Networking and Natural Mathematics above all, carry the explaining of every stable-forming method and form in Exhibit ONE. Stable forms need not be explicit in the code. The primes are stable forms in natural torusing society, and belong in Exhibit ONE. (Carry_Set_v368_README.md, What stands so far, 31, 32, 33) — v368_sources
 

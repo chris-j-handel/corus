@@ -28,8 +28,6 @@ Part Seven · Co-competencing, 3,800 words: 7.1's definition stays at Part 1; 7.
 
 Exhibit ONE's *Signs, Surfacing, Abundancing, Chaining* explaining (morality at the sign; the middle a nothing; a new living self) goes to Natural Intelligence Part 1 and Natural Values. (Re-Settling the Living Files, §5 table) — resettling_v373
 
-Corus Part 18, 118 departments, regulation as gating, the living capitalism sayings, Perelman, hospes, goes to Natural Societies, Natural Human Society and Natural Values; 18.6's engineered doors at Natural Engineering. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
 Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 Natural Societies, Natural Human Society and Natural Values keep three files at clearer seams. Societies: self and society at every scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society; its 4.4 to 4.6 return inside their part. Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and every human example now at Societies (the arrow, live descent, birthing and nyeing, the biosphere, no common clock, each now at both). Values: value at every scale, and the one home of the discovery economy, receiving Human Society 3.1, 3.4 and 4.6's currency, Exploring 6.3, Societies 1.3 and the general part of Natural Health 3.2. (Re-Settling the Living Files, §7) — resettling_v373
@@ -44,13 +42,7 @@ Natural Values receives from Natural Intelligence: the moral spiral's three impr
 
 *Signs, and the entry*, kept as the two parity tables, its sentences to Natural Intelligence Part 2. *Surfacing*, kept as the table at 14, to Natural Intelligence Parts 2 and 7. *Abundancing and tunneling*, kept as the table at 12, 10 and 11, to Natural Intelligence Part 7 and Natural Values. *Chaining*, kept as the parity tables and one self, to Natural Intelligence Parts 2, 3 and 7. *Returning and releasing*, kept as one self and rings, to Natural Intelligence Parts 6 and 7. (Exhibit ONE at its Stable Forms, §6) — resettling_v373
 
-About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. (Natural Naming at Exhibit ONE, §1) — resettling_v373
-
 "Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
-Values is at pass G, its receiving planned at the Living File Registry 1.5: "Values into Natural Human Society and the Living Society Registry." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
-Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Emanating, Values, Human Society: six files whose receiving into the living files, planned at the Living File Registry 1.5, releases six exhibit numbers and removes the oldest words from the set at once." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 
@@ -156,6 +148,18 @@ The proposed rotation exchanges two directions at a time while the third sustain
 The incoming compares “cheaper-faster-better, pick two” with a stopped rotation: two available directions and one departed direction. It proposes all three together with safety where rotation continues, and a particular collapsed direction at a particular coupling where social incompetency occurs. This retains the offered geometry and its performance claims. Neither the three directions nor the phrase about choosing two supplies a cost, speed or quality result at an actual technology. Each self's own momentarying accompanies the older phi-rate wording; the rotation is not a shared-clock requirement.
 
 The incoming explicitly leaves one correspondence unfinished: the four values; the four inequalities self ≠ society, self ≠ other-self, self ≠ immoral and self ≠ incompetent; the four activities cohering, conservancy, changing and competency; and the four geometric directions. It also joins the earlier “Four Self-Activities at Two Namings” concern. These are four actual lists whose connected explaining remains to follow, not four interchangeable lists because their numbers match. The [existing opening offering](Offerings_to_Natural_Intelligence.md#the-whole-opening-offering-and-its-actual-claims--v385a) preserves its different self-bounding, self-regulating, self-equilibrating and self-resurfacing names. The older proposed location at white-paper Part 1.2 does not select a current writing location by itself.
+
+### Competency and morality as paired approximate discoverings · v385A
+
+The user’s further offering in [session v385R, section 91](https://github.com/chris-j-handel/corus/blob/15785d17aaca2ce45b9abdd5091a4ccdf9041d7a/incoming/v385R/Logical_Cohering_v385R.md#91-competency-and-morality-as-the-two-discoverings) is:
+
+> discovering next possible existings. this is approximately competency. morality is approximately discovering existing next possibles
+
+Keep the two approximate explainings together, including their plurals and the different positions of existing and possible. They are offerings for resolving, not completed definitions. The [existing geodesic gathering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) retains the user’s own-side existing/possibling-other explaining and parity-changing-length/co-chaining-possibling-width connection whole.
+
+The session’s proposed reciprocal explaining follows each self’s discovering next possible existings through the other’s existing offerings, and its own existing as possibling other next. That is an interpretation to resolve with observings, distinct from the exact approximate pair above. It neither allocates competency to one self and morality to the other nor makes every possible next already existing.
+
+The remaining compounding question in [section 92](https://github.com/chris-j-handel/corus/blob/15785d17aaca2ce45b9abdd5091a4ccdf9041d7a/incoming/v385R/Logical_Cohering_v385R.md#92-the-two-discoverings-through-four-momentarying) is: **“Is the compounding of co-competency this further co-chaining of the two discoverings?”** Natural Intelligence 3.5’s count for two spirals beside each other, its different coupled-society arrangement, and Co-Chaining Logic Registry 489’s “multiplies along” retain their different subjects. The pair-opportunity count in the older Corus concept above does not by itself resolve that compounding. No new numerical or universal result is asserted.
 
 ## Natural living, cooperative living and separately held coupling value · v385A
 

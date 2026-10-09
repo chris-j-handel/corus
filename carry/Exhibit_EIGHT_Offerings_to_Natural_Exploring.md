@@ -18,8 +18,6 @@ None.
 
 EIGHT · Natural Exploring, 7,800 words, v329: title and body apart, team exploring in Parts Six and Seven only; its own subject about 30%, restating the common method about 55%; v329 wording. (Re-Settling the Living Files, §2 table) — resettling_v373
 
-Aimed sizes, by reading: Natural Intelligence from about 31,500 words to about 13,000 to 16,000, Exhibit ONE inside it at about 7,000 of those; Exhibit ONE from 11,100 to about 7,000; Natural Networking from 24,900 to about 10,000 to 12,000; Natural Engineering from 38,100 to about 25,000; Resolving Hard Problems from 14,600 to about 7,000 to 8,000; the combined Exploring and Improving Method about 6,000 to 7,000 from 15,700; Natural Intelligence Corus rebuilt, about 80% of its present body arriving at other files and the telling Natural Intelligence sheds arriving at it; the Hard Problem Registry keeps all its value at a compact index and entries freed of repeated boilerplate. (Re-Settling the Living Files, §3) — resettling_v373
-
 8.7 One method at a sentence, a file set and a session, 220 words, proposed home the combined Exploring and Improving Method; Natural Explaining for the sentence. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
 
 Corus Part 17, the control ghost, accounting failures, the inseparable view's uptake, goes to the Living Ghost Registry and the hard-problem registries; 17.4 at the combined Exploring. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
@@ -32,23 +30,15 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 Natural Networking: the network continuing, many calls joined over time. Part One releases where it re-teaches the resolver, 172 of the file's 173 old names with it; the numbered forms go to Exhibit ONE and the prime lengths to Natural Numbers; 6.2 to 6.6, an instrument's hidden choices and the four ledgers, go to the combined Exploring as general observing method; 6.12's finite studies and caller defects to the Natural Networking TWO Improving Kit and Natural Engineering. It keeps 1.8 and the hole, 4.6's podal surface, 4.7, 5.1 and 5.2's securities, 5.4's seam and 6.12's passage findings, and receives pass F's explaining. About 10,000 to 12,000 words. (Re-Settling the Living Files, §7) — resettling_v373
 
-Exploring and Improving Method combined: selves discovering and improving together. EIGHT Parts Two to Five, about 60%, restate the general method, and only 1.1, 4.6 and Parts Six and Seven are team discovering. Proposed contents: *Discovering together*; *Offering and meeting*, with 3.6 concept-inverting, found at no other file; *Deciding at do-no-harm*; *Carrying incoming value*; *Improving one file*; *What instruments report*; *Values, and the expedition continuing*. EIGHT Parts Two to Four go to Natural Intelligence, Exhibit ONE and Natural Naming; Part Five to Natural Mathematics and the two registries of forms named still; 7.2 and Improving Method 2.9, 3.1 and the repository and version practice to the Living File Registry. The title's *Method* invites the general method back; the body stands at *team*, the between of selves. The agreed subtitle is written *Do-No_Harm* at the registry's 5.13 and at the carrying. (Re-Settling the Living Files, §7) — resettling_v373
-
 Natural Societies, Natural Human Society and Natural Values keep three files at clearer seams. Societies: self and society at every scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society; its 4.4 to 4.6 return inside their part. Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and every human example now at Societies (the arrow, live descent, birthing and nyeing, the biosphere, no common clock, each now at both). Values: value at every scale, and the one home of the discovery economy, receiving Human Society 3.1, 3.4 and 4.6's currency, Exploring 6.3, Societies 1.3 and the general part of Natural Health 3.2. (Re-Settling the Living Files, §7) — resettling_v373
 
-Living File Registry: receives the repository and version practice from Improving Method, Exploring 7.2, Natural Engineering 1.8 and the other files' version tables, and carries this plan's standing at 1.3 and Part Five as it is met. (Re-Settling the Living Files, §8) — resettling_v373
-
 Currency stands at Natural Human Society 4.6 and Natural Values 1.2, its one home Natural Values. Abundancing and the discovery economy stand at Exploring 6.3, Human Society 3.1, Values 5.1, Corus 14.8, 18.8, 23.3 and 23.6, their one home Natural Values. (Re-Settling the Living Files, §9) — resettling_v373
-
-Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural Networking 6.2 to 6.12, Natural Engineering 4.10 and 6.10 and the Co-Chaining Logic Registry; their one home is the Natural Networking TWO Improving Kit, and one instruments part at the combined Exploring. (Re-Settling the Living Files, §9) — resettling_v373
 
 Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settling the Living Files, §11 Defects) — resettling_v373
 
 "Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
 Exploring is at pass G, its receiving planned at the Living File Registry 1.5: "Exploring with the Geodesic Improving Method as Exhibit EIGHT." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
-Opportunity 4, the pass-G receivings: "Transmissioning, Exploring, Destinies, Emanating, Values, Human Society: six files whose receiving into the living files, planned at the Living File Registry 1.5, releases six exhibit numbers and removes the oldest words from the set at once." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 

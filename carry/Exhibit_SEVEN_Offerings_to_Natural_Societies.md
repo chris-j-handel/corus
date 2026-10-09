@@ -60,11 +60,7 @@ Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v385A
 
 **A plan, not yet final, gathered here at v381R:** Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's cost, meaning), goes to Natural Human Society and Natural Philosophy; 14.8 at Natural Networking and Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
-**A plan, not yet final, gathered here at v381R:** Corus Part 18, 118 departments, regulation as gating, the living capitalism sayings, Perelman, hospes, goes to Natural Societies, Natural Human Society and Natural Values; 18.6's engineered doors at Natural Engineering. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
-**A plan, not yet final, gathered here at v381R:** Corus Part 23, destiny, about 17,400 words, stays in part as the expedition continuing; robotics at Natural Engineering; the healthy and captured families at Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
-**A plan, not yet final, gathered here at v381R:** Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** The files stand at versions from v329 to v372, and their wording at several generations. The carrying's passes B and C meet the v371 names and the old code's means; files older than v368 carry a further layer the passes do not name: *held as* (930 places at Resolving the Hard Problem Registry), *riding the carry*, *coefficient one*, *self-equilibrating*, and *phi-rate*, at Natural Intelligence Corus on 182 lines and at Natural Societies, Natural Human Society and Natural Engineering on nine. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
 
@@ -207,3 +203,7 @@ Natural Intelligence Corus section 18.1 says the four sentences were released wh
 The note also names four-as-five-switches, unification at the behavioural surface and four observations of the still centre. It gives no further body or exact assignment there. Keep those named relations as an improving opportunity beside the four sentences; do not invent their missing mapping or mark the whole release complete from its label. The continuing whole must keep the later parity, carrying and own-momentarying explaining with the older centre and common-rate language.
 
 The five-station expression—society, coupling, natural resolving, opportunistic, selves—is already whole at [Natural Human Society](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#individual-preferring-within-societys-conserving--v385a). The Society part joins that individual/social relation with the four-sentence comparisons, departmental concern, cooperative living, ethics, institutional offering, engineering entries and discovery economy. Their [recorded destinations](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#societys-domain-entries-and-discovery-economy-now-aimed--v385a) keep these connected without another copy of every concept.
+
+## Social competency through the coupled discoverings · v385A
+
+Follow the [paired approximate discoverings at Natural Values](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a) beside this subject’s society co-chaining and competency relations. The [own-side and length/width correcting](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) keeps existing as possibling other. An unchanged relay does not establish unchanging social competency.

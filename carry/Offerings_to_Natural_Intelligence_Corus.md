@@ -48,8 +48,6 @@ Natural Intelligence Corus, 62,100 words, v330: worst shaped, empty parts, dead 
 
 The files stand at versions from v329 to v372, and their wording at several generations. The carrying's passes B and C meet the v371 names and the old code's means; files older than v368 carry a further layer the passes do not name: *held as* (930 places at Resolving the Hard Problem Registry), *riding the carry*, *coefficient one*, *self-equilibrating*, and *phi-rate*, at Natural Intelligence Corus on 182 lines and at Natural Societies, Natural Human Society and Natural Engineering on nine. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
 
-Aimed sizes, by reading: Natural Intelligence from about 31,500 words to about 13,000 to 16,000, Exhibit ONE inside it at about 7,000 of those; Exhibit ONE from 11,100 to about 7,000; Natural Networking from 24,900 to about 10,000 to 12,000; Natural Engineering from 38,100 to about 25,000; Resolving Hard Problems from 14,600 to about 7,000 to 8,000; the combined Exploring and Improving Method about 6,000 to 7,000 from 15,700; Natural Intelligence Corus rebuilt, about 80% of its present body arriving at other files and the telling Natural Intelligence sheds arriving at it; the Hard Problem Registry keeps all its value at a compact index and entries freed of repeated boilerplate. (Re-Settling the Living Files, §3) — resettling_v373
-
 The opening's *This file runs the whole journey once* and *the eight parts and the exhibit are runnings a reader runs*, about 230 words, proposed home Natural Intelligence Corus. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
 
 Part One's four boundings as a self's saying and 1.7 self-bounding at its own primes, about 1,000 words: proposed home the chain, if the four boundings are a step of it; the telling at Corus, if not. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
@@ -72,15 +70,9 @@ Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's
 
 Corus Part 17, the control ghost, accounting failures, the inseparable view's uptake, goes to the Living Ghost Registry and the hard-problem registries; 17.4 at the combined Exploring. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
-Corus Part 18, 118 departments, regulation as gating, the living capitalism sayings, Perelman, hospes, goes to Natural Societies, Natural Human Society and Natural Values; 18.6's engineered doors at Natural Engineering. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
-Corus Part 23, destiny, about 17,400 words, stays in part as the expedition continuing; robotics at Natural Engineering; the healthy and captured families at Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
 Corus's 54 bracketed continuing items, the *v314* routing notes and the writer catches go to the carrying where a value stands, the archive where a record. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
 Natural Explaining stays the craft, tight at four parts. It receives Corus Part 16's remainder and releases its own general method: 1.6 and 4.1 to Natural Intelligence or Natural Naming, 4.2's truth, science and device paragraph to Natural Intelligence 8.6 or Natural Philosophy, 4.5's surgical method to the combined Exploring, 4.6's resolver case to Exhibit ONE. Natural Intelligence 8.7's sentence paragraph says what Explaining 2.1 says and releases there. (Re-Settling the Living Files, §6) — resettling_v373
-
-Natural Illustrating stays the visible changing. Its session voice, *this session* at about ten places and a commit hash, goes to the kit; the whole human expressions, the jigsaw and the plaza, at Corus with the storyboards staying here; the tangent identity at Natural Mathematics. 6.3 points at Corus 16.1, 16.2, 16.3, 23.1 and 23.3, which are due to leave Corus: its pointers move with the receiving. (Re-Settling the Living Files, §7) — resettling_v373
 
 Currency stands at Natural Human Society 4.6 and Natural Values 1.2, its one home Natural Values. Abundancing and the discovery economy stand at Exploring 6.3, Human Society 3.1, Values 5.1, Corus 14.8, 18.8, 23.3 and 23.6, their one home Natural Values. (Re-Settling the Living Files, §9) — resettling_v373
 

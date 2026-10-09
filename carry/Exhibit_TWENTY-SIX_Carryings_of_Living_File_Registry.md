@@ -357,3 +357,36 @@ The supporting kits are Co-Chaining Logic Registry, Living File Registry, Natura
 ## Resolving concerns brought here
 
 A concern can be gathered and aimed with its actual missing or opposing relation before it is resolved. Do not turn its aiming into intentional new exploring. Discoveries made while gathering may become droplets. Concerns needing suggestions remain explicit; no concern is declared not now resolvable merely because its concept is being gathered for later file cohering.
+
+## Subtitles read together in the earlier gathering · v385A
+
+**Aimed at a part, Living File Registry Part One:** The subtitles are a gathering of the set's concepts already, and nothing at the Registry or the site reads them together; gathered at their -ings by `four_tellings.py`, read as one sequence they say *discovering next possible existing, living and non-living; stable-forming; co-competencing, bi-coupling, co-sequencing; co-abundancing; self-welcoming; unrelationing, co-recursioning, co-chaining; floating neutralling; standing-gathering. That is the floating neutralling contents of the set, at the files' own words.*
+
+The reported subtitle sequence belongs to that gathering; it is not a new examination of every current subtitle.
+
+## Earlier reported order at the session v376 close · v385A
+
+Session Report v376, "At the close": "The core files are the stable form of all the files: resolved first, then the carrying across." — session_v376
+
+This reports that session’s closing order. It is not the current gathering order.
+
+## Older mixed paragraphs now separated by content · v385A
+
+The paragraphs introduced as “A plan, not yet final” at the following four offerings were read whole and compared with their exact copies in other mates. Whole value was gathered through Living Improving Value before placement. The copies no longer repeat full project explaining in offerings; each affected subject’s possibling points to the whole project.
+
+| Subject | Concepts remaining in its offering | Project work in possibling | Gatherings in carrying |
+|---|---|---|---|
+| Natural Engineering | Speaking or echoing, no counting and graded meaning, indexed text, text carried by selves, older resolver sentences and outward naming concerns. | [Resolver conversation, engineering entries, substrates and the earlier loop comparison](Exhibit_FIVE_Possibling_of_Natural_Engineering.md#resolver-conversation-and-its-five-proposed-comparisons--v385a). | Its existing conditions and supporting materials remain available; none of these marked paragraphs reports a new completed project. |
+| Natural Mathematics | Cloth correspondence, the full earlier mathematical concerns, neutralling names, three golden rectangles, the Ramsey claim and the doubled-turn/involution concern. | [Image correspondence and proposed Ramsey society comparisons](Exhibit_FOUR_Possibling_of_Natural_Mathematics.md#image-correspondence-for-inner-and-outer-pairs-podaling-and-tangent-directions--v385a). | [Earlier completed reading and wording changes](Exhibit_FOUR_Carryings_of_Natural_Mathematics.md#reported-mathematical-reading-and-wording-changes-at-v380l--v385a). Their reported scope remains distinct from the unresolved concepts. |
+| Natural Illustrating | The fourth-face wording and the unresolved five-diamond, square, numbering and commutator correspondence. One identical copy of the latter has been removed. | [Rings, routes, image-frame comparisons, possible second publication and animation](Exhibit_TWENTY-NINE_Possibling_of_Natural_Illustrating.md#rings-routes-and-the-possible-moving-form--v385a). | [Earlier publication and existing moving-study conditions](Exhibit_TWENTY-NINE_Carryings_of_Natural_Illustrating.md#earlier-publication-and-existing-moving-study-conditions--v385a). |
+| Living File Registry | The different orderings, mechanical kit/table concerns and the unresolved six-entry/six-name correspondence. | [Earlier file-arrangement proposals](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-file-arrangement-and-supporting-project-proposals--v385a): subject redistribution, contents, combinations, repository practice, standings tables and possible publication arrangements. | [The earlier gathered subtitle sequence](#subtitles-read-together-in-the-earlier-gathering--v385a) and [session v376’s reported closing order](#earlier-reported-order-at-the-session-v376-close--v385a). |
+
+The four earlier front “Next at this file” paragraphs were also separated. Natural Mathematics’s involution concern remains in its offering and its reported v378 changes are in carrying; the other actual comparison work is in possibling. Natural Illustrating’s repeated method introduction is removed; the shared method remains at Living File Registry. General dissolving/naming directions remain independently at the affected offerings.
+
+These placements preserve earlier versions and their actual questions. No proposed script was executed, no scientific result was established and no living exhibit was changed. Other old-label paragraphs, unlabelled mixed content and earlier next-work instructions remain at the extent stated in the [current plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#separating-the-remaining-mixed-incoming-by-its-actual-content--v385a).
+
+## Later social correcting accompanying the active concepts · v385A
+
+Session v385R was compared from 6b91e0a63e0eaf0cad68546ac0eb7df44214278b through 15785d17aaca2ce45b9abdd5091a4ccdf9041d7a. New sections 87–92 and the changes at sections 15, 17 and 86 were read. The [continuing geodesic gathering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) now preserves the two full user offerings about length/width and existing/possibling other. The exact approximate competency/morality pair and unresolved compounding relation have their [whole place at Natural Values](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a). Natural Societies, Natural Intelligence and Co-Chaining Logic Registry have particular offering directions, with the possible further comparison in Possibling of Natural Values.
+
+No comment later than session v385A’s previous comment 6085205195 was present on pull request 128 at this check. Session v385M remains closed. This follows needed correcting beside already active concepts; it does not declare the complete developing logical report gathered or establish a scientific or living result.

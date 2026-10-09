@@ -20,3 +20,11 @@ The places already offered for possible looking are: a prion copying a fold with
 ## Further places named for possible looking · v385A
 
 Further places named without a completed looking are frog embryos' first divisions, seeds germinating, paused embryos resuming, viruses within cells, fireflies' coordination, breathing with heartbeat, sleep/wake relations, cell division and the lynx/hare cycles. The heart, worm, dormancy, spores, egg, seed opening, handed forms and slime mould have their particular descriptions at [Natural Biology’s offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md); having a description does not fill every open question. The finite resolver questions likewise retain their actual arrangements in this list when useful.
+
+## Particular contributions to the earlier shared projects · v385A
+
+- [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
+- [Instruments, callers and diagnostics at their proposed home](Exhibit_TWO_Possibling_of_Natural_Networking.md#instruments-callers-and-diagnostics-at-their-proposed-home--v385a)
+- [Natural Exploring and Geodesic Improving Method proposed combination](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-exploring-and-geodesic-improving-method-proposed-combination--v385a)
+- [Repository and version practice at Living File Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#repository-and-version-practice-at-living-file-registry--v385a)
+- [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
