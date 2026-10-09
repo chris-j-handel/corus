@@ -857,6 +857,7 @@ for p, q in ((3, 7), (3, 5), (5, 7)):
     two = no0 = carries = lines = parting_ok = 0
     ended_n = ended_same = ended_inv = 0
     each_n = each_ok = each_alt = each_pairs = 0
+    shares_given = zero_there_held = zero_there_begun = zero_first_begun = 0
     for (a, b) in cells:
         for t0 in begins:
             for order in (0, 1):
@@ -867,6 +868,11 @@ for p, q in ((3, 7), (3, 5), (5, 7)):
                 kind = "held" if came and all(v == own for v in came) and given == -own else ("begun" if not came and given == own else "other")
                 held += kind == "held"; begun += kind == "begun"; other += kind == "other"
                 n += 1
+                shares_given += kind == "held" and sh[first][(a, b)] == given
+                zero_first_begun += kind == "begun" and sh[first][(a, b)] == 0
+                there = sum(sh[t][(a, b)] == 0 for t in range(first, T))
+                zero_there_held += there if kind == "held" else 0
+                zero_there_begun += there if kind == "begun" else 0
                 lengths.append(first - t0 + 1)
                 zs = [t for t in range(t0, first + 1) if bsh[t][(a, b)] == 0]
                 passing.append(len(zs) if kind == "held" else None)
@@ -897,12 +903,15 @@ for p, q in ((3, 7), (3, 5), (5, 7)):
                                 each_pairs += 1; each_alt += sg and sg == -prev
                             prev = sg
     print("   torus of %d along by %d across, published again at %d: enterings %d (each place, %d beginnings, both orders)" % (p, q, P, n, len(begins)))
-    print("     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0")
-    print("       about to be shared there, and the sequence offering the other: %d; the surface offering it 0 alone and the" % held)
-    print("       sequence its own: %d; any other: %d. Lengths of sequence to it: %d to %d%s" % (
+    print("     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone and")
+    print("       the sequence offering the other: %d; the surface offering it no parity and the sequence offering" % held)
+    print("       its own: %d; any other: %d. The sequence's 1 to 17s counted to it: %d to %d%s" % (
         begun, other, min(lengths), max(lengths),
-        "; at the 0's passing number %s there" % sorted(set(x for x in passing if x)) if begun == 0 else ""))
-    print("     ended at that 1 to 17, before the changing: the surface as published throughout: %d of %d" % (before_same, n * len(ends) // len(begins)))
+        "; that resolver's own-parity-alone 1 to 17 number %s" % sorted(set(x for x in passing if x)) if begun == 0 else ""))
+    print("     at that 1 to 17 the entering resolver sharing the sequence's parity, at the first kind: %d; sharing 0, at the second" % shares_given)
+    print("       kind: %d; the 0s shared at the entering resolver from that 1 to 17 on, with the sequence: %d at the first kind," % (zero_first_begun, zero_there_held))
+    print("       %d at the second" % zero_there_begun)
+    print("     ended with nothing changed: the surface as published throughout: %d of %d" % (before_same, n * len(ends) // len(begins)))
     print("     continuing: 1 to 17s from the first changing to the last 0 shared anywhere: %d to %d; then no 0 shared: %d;" % (min(to_last), max(to_last), no0))
     print("       the sharings again at 2: %d; each resolver carrying what the sequence offered the 1 to 17 before, inverted" % two)
     print("       once for each place along and across from the entering place: %d; each alike pair across received at the" % carries)
@@ -914,7 +923,7 @@ for p, q in ((3, 7), (3, 5), (5, 7)):
     print("       parity inverted from one length to the next: %d of %d" % (each_alt, each_pairs))
     if (p, q) == (3, 7):
         for t0 in (100, 101):
-            print("     beginning at %d, the 0s then (#), and the length of sequence to the first changing at each entering place," % (t0 + 1))
+            print("     beginning at %d, the 0s shared then with no sequence (#), and the sequence's 1 to 17s counted to the first changing at each entering place," % (t0 + 1))
             print("       order +, - | order -, +")
             rows = {}
             for (a, b) in cells:

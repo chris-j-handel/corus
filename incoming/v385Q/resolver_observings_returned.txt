@@ -370,10 +370,13 @@ W. Where the 0s are on a torus, across and along together: the units sharing 0 (
 X. A sign-changing sequence entering a torus at one resolver: +, - in turn, one at each 1 to 17, offered from
    beyond to a resolver at any place along and across, begun at any 1 to 17, in either order
    torus of 3 along by 7 across, published again at 7: enterings 294 (each place, 7 beginnings, both orders)
-     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
-       about to be shared there, and the sequence offering the other: 294; the surface offering it 0 alone and the
-       sequence its own: 0; any other: 0. Lengths of sequence to it: 1 to 14; at the 0's passing number [1, 2] there
-     ended at that 1 to 17, before the changing: the surface as published throughout: 126 of 126
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone and
+       the sequence offering the other: 294; the surface offering it no parity and the sequence offering
+       its own: 0; any other: 0. The sequence's 1 to 17s counted to it: 1 to 14; that resolver's own-parity-alone 1 to 17 number [1, 2]
+     at that 1 to 17 the entering resolver sharing the sequence's parity, at the first kind: 294; sharing 0, at the second
+       kind: 0; the 0s shared at the entering resolver from that 1 to 17 on, with the sequence: 0 at the first kind,
+       0 at the second
+     ended with nothing changed: the surface as published throughout: 126 of 126
      continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 3 to 4; then no 0 shared: 294;
        the sharings again at 2: 294; each resolver carrying what the sequence offered the 1 to 17 before, inverted
        once for each place along and across from the entering place: 294; each alike pair across received at the
@@ -383,21 +386,24 @@ X. A sign-changing sequence entering a torus at one resolver: +, - in turn, one 
        resolver 1, from the ending on: 252 of 252, as carried 126, each parity inverted 126
      ended at each of eight lengths from the first changing, read 80 on: that same surface: 176 of 176; each
        parity inverted from one length to the next: 154 of 154
-     beginning at 101, the 0s then (#), and the length of sequence to the first changing at each entering place,
+     beginning at 101, the 0s shared then with no sequence (#), and the sequence's 1 to 17s counted to the first changing at each entering place,
        order +, - | order -, +
        along 1   .#.....   14  8  2 10  4 12  6 |  7  1  9  3 11  5 13
        along 2   ......#    9  3 11  5 13  7  1 |  2 10  4 12  6 14  8
        along 3   ....#..    4 12  6 14  8  2 10 | 11  5 13  7  1  9  3
-     beginning at 102, the 0s then (#), and the length of sequence to the first changing at each entering place,
+     beginning at 102, the 0s shared then with no sequence (#), and the sequence's 1 to 17s counted to the first changing at each entering place,
        order +, - | order -, +
        along 1   ..#....    6 14  8  2 10  4 12 | 13  7  1  9  3 11  5
        along 2   #......    1  9  3 11  5 13  7 |  8  2 10  4 12  6 14
        along 3   .....#.   10  4 12  6 14  8  2 |  3 11  5 13  7  1  9
    torus of 3 along by 5 across, published again at 12: enterings 360 (each place, 12 beginnings, both orders)
-     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
-       about to be shared there, and the sequence offering the other: 330; the surface offering it 0 alone and the
-       sequence its own: 30; any other: 0. Lengths of sequence to it: 1 to 12
-     ended at that 1 to 17, before the changing: the surface as published throughout: 90 of 90
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone and
+       the sequence offering the other: 330; the surface offering it no parity and the sequence offering
+       its own: 30; any other: 0. The sequence's 1 to 17s counted to it: 1 to 12
+     at that 1 to 17 the entering resolver sharing the sequence's parity, at the first kind: 330; sharing 0, at the second
+       kind: 30; the 0s shared at the entering resolver from that 1 to 17 on, with the sequence: 0 at the first kind,
+       30 at the second
+     ended with nothing changed: the surface as published throughout: 90 of 90
      continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 2 to 9; then no 0 shared: 360;
        the sharings again at 2: 360; each resolver carrying what the sequence offered the 1 to 17 before, inverted
        once for each place along and across from the entering place: 360; each alike pair across received at the
@@ -408,10 +414,13 @@ X. A sign-changing sequence entering a torus at one resolver: +, - in turn, one 
      ended at each of eight lengths from the first changing, read 64 on: that same surface: 86 of 128; each
        parity inverted from one length to the next: 72 of 112
    torus of 5 along by 7 across, published again at 20: enterings 350 (each place, 5 beginnings, both orders)
-     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
-       about to be shared there, and the sequence offering the other: 275; the surface offering it 0 alone and the
-       sequence its own: 75; any other: 0. Lengths of sequence to it: 1 to 20
-     ended at that 1 to 17, before the changing: the surface as published throughout: 70 of 70
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone and
+       the sequence offering the other: 275; the surface offering it no parity and the sequence offering
+       its own: 75; any other: 0. The sequence's 1 to 17s counted to it: 1 to 20
+     at that 1 to 17 the entering resolver sharing the sequence's parity, at the first kind: 275; sharing 0, at the second
+       kind: 75; the 0s shared at the entering resolver from that 1 to 17 on, with the sequence: 0 at the first kind,
+       75 at the second
+     ended with nothing changed: the surface as published throughout: 70 of 70
      continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 6 to 17; then no 0 shared: 350;
        the sharings again at 2: 350; each resolver carrying what the sequence offered the 1 to 17 before, inverted
        once for each place along and across from the entering place: 350; each alike pair across received at the
