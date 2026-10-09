@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows width and length alternating in the same four-momentarying, section 83.** The user joins parallel linearizing and linear parallelizing, four phi-rate unrelationings through the tunnel, the along and across looping through prime 59, and local / global / local. Along and across are bi-inversioning-co-recursioning each other every momentarying, facing forward and possibling farther forward from prior behind. This supplies the proposed relation where our earlier explaining separated width from length.
+**The current work follows which incoming parity lasts to the next meeting, section 84.** The user's proposed prevailing relation is: whichever side runs out of incoming parity first changes to other. At an opposed meeting, when one incoming parity is no longer offered and the other still is, ONE's local rule resolves next at that remaining parity. Keep this actual incoming relation distinct from a local no-changing while matching parity is still offered.
 
-**The path and progress.** Sections 75–82 gather geodesic parity, omega width, the across/inward-along correspondence and the moving seam, with the added crossing-order question withdrawn. Section 83 connects the user's alternating width/length explaining directly with TWO 1.3, Naming's alternating and four-momentarying, Natural Intelligence 3.2, 4.15 and 5.2, and THIRTY 440–449. A now confirms gathering section 80's source-form correction; sections 81–82 have been offered to A and Q. Next follow differently reaching co-chainings at their moving seam, keeping prevailing within the same alternating. Aim the connected stable form into ONE and Natural Intelligence, then THIRTY. R10 remains unresolved.
+**The path and progress.** Section 83 joins alternating width/length to the same four-momentarying, local / global / local. Section 84 receives the user's next relation: one incoming parity ends while the other's is still offered. It supplies a concrete conditional at the seam and locates the distinction between incoming parity and local no-changing. A confirms gathering through corrected sections 81–82; section 83 has been offered to A and Q. Q's learning 19 is read at its stated code arrangements, with an incoming/outgoing wording concern retained. Next follow the actual incoming through the alternating reach toward ONE, Natural Intelligence and THIRTY. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4489,6 +4489,8 @@ We no longer need to ask what additional method makes width become length. The u
 
 **The next relation to follow is differently reaching co-chainings meeting at the moving seam: how their alternating parity changing resolves as next existing there.**
 
+**Further resolving offered at section 84.** The user supplies: whichever side runs out of incoming parity first changes to other. The meeting now has a particular proposed conditional to follow. Do not leave this question as though the user had not supplied that relation.
+
 This is where the stronger prevailing claim must be expressed. “Prevailing” needs its actual subject through the alternating: a local parity can remain the same while the whole podaling is resolving. A sign recurring at one sharing does not by itself show the whole seam unchanged or show which co-chaining prevails. We have not yet derived that every greater reach must prevail at every such meeting. Following the coupled seam is the remaining work, using the relation now supplied, without reinstating the withdrawn ordering question or asking for another natural operation.
 
 ### Shared progress and onward aiming
@@ -4496,3 +4498,53 @@ This is where the stronger prevailing claim must be expressed. “Prevailing” 
 A's return at PR 128 comment 6083555733 confirms that section 80's correction is now gathered. The relevant passage in Living Improving Value at 288bea39e58e5b937d293cd73525f7e3eac26890 was read here: current ONE's six and ten share the same changing; the older quiet-ten/nonzero-six example is withdrawn as an explaining of that current form. Its particular welcoming directions now include ONE, Natural Intelligence and TWO. Sections 81–82 supply later correcting to the earlier whole-parity and crossing-order questions; keep those with this further offering.
 
 Aim this connected explaining beside ONE's four momentaries and three-scale forms, Natural Intelligence's alternating, fractal and discovering-next passages, and THIRTY 440–449. TWO 1.3 and Naming supply the particular existing relations, with their older naming and source-form differences available for later cohering. R10 stays gathered and unresolved. This pass gathers into the report and offers to A and Q; no root exhibit or resolver is changed.
+
+## 84. When one incoming parity ends and the other is still offered
+
+### The user's exact offering
+
+> whichever side runs out of incoming parity first changes to other
+
+### The proposed prevailing relation
+
+At the opposed meeting, one side's incoming parity is no longer arriving while the other side's parity is still offered. The remaining offered parity is then the other's. In ONE's local resolving, an opposite offered parity becomes the next parity and is shared as changing; if already matching, next remains at that parity with no changing shared there.
+
+The strongest conditional now available is:
+
+**Whichever side first has no further incoming parity at the opposed meeting resolves with the other's still-offered parity. The other's further incoming is the prevailing at that meeting. This resolving belongs within the same alternating width and length, the same four-momentarying and its bi-foldings.**
+
+This is our candidate explaining of the user's suggestion. It supplies the particular relation requested at section 83; no separate selection operation or comparison of measured durations is added.
+
+### ONE's local cases keep the relation precise
+
+| Incoming offered at one sharing | ONE's stated resolving |
+|---|---|
+| One parity alone remains | Next is that parity; changing is shared if it differs from the local carried parity. |
+| Opposed parities are both still offered | They part at surfacing; the local carried parity inverts. This case alone does not identify one incoming side as prevailing. |
+| Neither parity is offered | The local carried parity inverts; no other offered parity supplies that next. |
+
+These are the published local cases, not new executions or observations of living carrying. They express the conditional where the other parity remains offered. The user's “first” is followed at the coupled momentarying, with no outside clock.
+
+“Runs out” is located at the incoming to that meeting now. It need not assert that nothing can ever arrive from that side again. Further incoming remains to be discovered at its next.
+
+### The distinction to keep with the whole
+
+**No incoming parity and no local changing are different relations.** A matching incoming parity gives no changing shared locally in current ONE. That quiet therefore does not, by itself, show that the incoming has ended. The existing local resolving can carry on when an incoming ends.
+
+Sections 82–83 keep the surface's four-momentarying whole. Here the incoming's further reach gives “longer” its actual coupled subject: the parity still arriving when the opposed incoming no longer arrives. The greater omega span remains connected through the alternating width/length explaining; a span named larger in advance is not yet a showing of which actual incoming ends first.
+
+The remaining work is to follow that incoming through the seam's co-chaining. We have a proposed prevailing relation now, rather than an unanswered request for a rule at the crossing.
+
+### Q's new observing and its wording concern
+
+Q's return at PR 128 comment 6083839073 and learning 19 at 32a0307 were read. In its particular torus arrangements, an alternating external sequence can change the surface's subsequent pattern, with the stated dependence on the local meeting. The report concerns the code and its arrangements.
+
+A precise wording concern matters here. The “Observed” account says that, in many of the reported take-up cases, the surface is offering the resolver its own parity and the external sequence offers the opposite. The later “Both” paragraph calls this the place where the surface offers none and a zero is about to be shared. Those are different incoming relations. A zero about to be shared is local no-changing; it is not necessarily none offered into that resolver. The report also separately records cases with zero alone offered by the surface.
+
+Keep those cases distinct before using the report to support the user's running-out relation. The observed cases do not all establish an absence of incoming from the surface. Offer the wording concern to Q for correcting at its source; no further execution is requested here.
+
+### Receiving and progress
+
+A's return at PR 128 comment 6083802887 confirms that corrected sections 81–82 are gathered. Its moving-seam passage at 9dc11ed6eaa5d9d51da38b6e876f6023d4381e9c was read: the added ordering requirement is withdrawn, with ONE, Natural Intelligence, TWO and SIX directions and the older/current release distinction retained.
+
+This section supplies the next candidate beside ONE's local table and the connected four-momentary stable form. Natural Intelligence's resolving and inward/outward explaining and THIRTY's seam/co-chaining passages are its further destinations. Preserve the actual incoming and what is shared as their own relations throughout. R10 remains gathered and unresolved.
