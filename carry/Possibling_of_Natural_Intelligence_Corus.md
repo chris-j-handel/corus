@@ -11,3 +11,5 @@ Gather the remaining subject value into Living Improving Value and then its subj
 - [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
 - [Earlier Natural Intelligence Corus Society and Destiny distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-society-and-destiny-distribution--v385a)
 - [Natural Illustrating distribution and particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-illustrating-distribution-and-particular-destinations--v385a)
+
+[Earlier Natural Intelligence Corus Part Fourteen distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-part-fourteen-distribution--v385a).

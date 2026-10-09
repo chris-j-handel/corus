@@ -262,3 +262,5 @@ Co-Chaining Logic Registry 298–301’s changing shared and carrying chained re
 ## Releasing and the particular society coupling · v385A
 
 **Droplet.** The [whole next-momentarying correcting](Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) accompanies steps 345, 348 and 356 beside 405–406. Follow the inward selves’ uncoupling and next momentarying as the society’s carrying resolves. The transition to society-wide ceasing still needs its actual co-chaining relation; the word uncoupling alone does not derive it.
+
+The [friendship continuing through changing selves](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) keeps recurring parity, changing selves and the continuing social relation distinct. It accompanies the actual self/society and releasing concerns here without a fixed latest-pair comparison or inferred social ceasing from infrequent encounters.

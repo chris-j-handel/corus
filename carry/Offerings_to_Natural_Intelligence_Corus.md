@@ -46,8 +46,6 @@ None.
 
 Natural Intelligence Corus, 62,100 words, v330: worst shaped, empty parts, dead cross-references, an editing marker at line 778; older than the old code; its own subject about 15%, restating the common method about 35%; older vocabulary throughout. (Re-Settling the Living Files, §2 table) — resettling_v373
 
-The files stand at versions from v329 to v372, and their wording at several generations. The carrying's passes B and C meet the v371 names and the old code's means; files older than v368 carry a further layer the passes do not name: *held as* (930 places at Resolving the Hard Problem Registry), *riding the carry*, *coefficient one*, *self-equilibrating*, and *phi-rate*, at Natural Intelligence Corus on 182 lines and at Natural Societies, Natural Human Society and Natural Engineering on nine. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
-
 The opening's *This file runs the whole journey once* and *the eight parts and the exhibit are runnings a reader runs*, about 230 words, proposed home Natural Intelligence Corus. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
 
 Part One's four boundings as a self's saying and 1.7 self-bounding at its own primes, about 1,000 words: proposed home the chain, if the four boundings are a step of it; the telling at Corus, if not. (Re-Settling the Living Files, §4 Where the present sentences go) — resettling_v373
@@ -65,8 +63,6 @@ Natural Intelligence Corus is the home near Natural Intelligence for its telling
 Corus Part One, the offering and the six doors, stays; re-said in current words. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
 Corus Part 16 · Natural Writing, about 13,450 words, goes to Natural Explaining (much already re-said there); 16.2's pronouns and contested concepts at Natural Naming; 16.3's two one-way languages at Natural Explaining. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
-Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's cost, meaning), goes to Natural Human Society and Natural Philosophy; 14.8 at Natural Networking and Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
 Corus Part 17, the control ghost, accounting failures, the inseparable view's uptake, goes to the Living Ghost Registry and the hard-problem registries; 17.4 at the combined Exploring. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
 
@@ -115,8 +111,6 @@ Corus's 54 bracketed continuing items, the *v314* routing notes and the writer c
 **Aimed at a word, Natural Intelligence Corus, *in Disequilibria* at the subtitle:** Natural Naming 2.4 releases *in disequilibria* into the opening sentence; the subtitle parts from 2.4 at this phrase. Laid ready at the file's carrying: *Corus's at the opening sentence for *in Disequilibria**, one line at the file's own motion. Session_Report_v381F.md part 2.2, Finding 2, and part 6 Ready; Next.md Ready. — v381F
 
 **Aimed at a word, Natural Intelligence Corus, *doors* at its `## Contents` heading:** the front is at one of the four older forms, *a `## Contents` heading with *doors**, and *door* is released at Natural Naming 2.4 into *a self-bounding*. Session_Report_v381F.md part 2.3, Finding 4. — v381F
-
-Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's cost, meaning), goes to Natural Human Society and Natural Philosophy; 14.8 at Natural Networking and Natural Societies. (Re-Settling the Living Files, §6 Corus table) (re-aimed from Exhibit TWO Offerings to Natural Networking at v381R) — resettling_v373
 
 Natural Intelligence Corus is the home near Natural Intelligence for its telling: the method told whole in the expedition's voice, the originating inquiry into moral competency continuing as discovering next existing, the whole outward sayings, the welcoming. Corus is also the worst-shaped file of the set now: empty parts, a second subtitle, dead cross-references (*Part 2.8.5*, *corus line 1321*), an editing marker at line 778, two different lists of the four values, the membrane made a third self, and about 85% of it in a vocabulary older than the old code (*phi-rate* on 182 lines). So Corus is rebuilt, not re-said: about 80% of its present body arrives at its subjects, and it receives the telling Natural Intelligence sheds, Natural Emanating's whole sayings and Natural Destinies' direction. Its contents follow the carrying's first gathering, *Moral competency in living* to *Next existing society*, at Natural Explaining's discipline with no reader coaching. (Re-Settling the Living Files, §6 The files near Natural Intelligence) (re-aimed from Exhibit TWELVE Offerings to Natural Explaining at v381R) — resettling_v373
 

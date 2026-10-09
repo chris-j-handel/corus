@@ -320,3 +320,5 @@ The [reported naming inventories](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology
 ## Releasing and the particular society coupling · v385A
 
 **Droplet.** The [whole next-momentarying correcting](Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) accompanies Natural Biology 7.4’s society/member distinction, 7.7’s stopped-crossing account and the 5.3 morphogenesis insertlet. At 7.4, members continuing does not establish their former society continuing, and ordinary uncoupling into next does not establish that society ceasing. The particular inward co-chaining that ceases remains to explain. The surface, seed and dormancy comparisons retain their own conditions; this naming supplies no biological observing.
+
+The [friendship continuing through changing selves](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) keeps recurring parity, changing selves and the continuing social relation distinct. It accompanies the actual self/society and releasing concerns here without a fixed latest-pair comparison or inferred social ceasing from infrequent encounters.

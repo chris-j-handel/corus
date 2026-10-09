@@ -223,3 +223,5 @@ The [Part ONE destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Reg
 ## Whole human and coupling expressions available for possible file improving · v385A
 
 [The complete destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#coupling-at-the-membrane-between-selves-now-aimed) places Coupling at the Membrane Between Selves at its subject offerings. Love, Grief, Loneliness remains a connected expression with its needed prior. The conversation, meaning and purpose, social and technical contributions keep their distinct full concepts. The possible Corus distribution preserves those expressions while its arriving purpose develops through Natural Arriving. No title, combination or distribution is implemented.
+
+[Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).

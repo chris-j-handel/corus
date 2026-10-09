@@ -22,10 +22,6 @@ None.
 
 NINE · Natural Human Society, 6,700 words, v329: fair; claims said three times; its own subject about 50%, restating the common method about 25%; v329 wording. (Re-Settling the Living Files, §2 table) — resettling_v373
 
-The files stand at versions from v329 to v372, and their wording at several generations. The carrying's passes B and C meet the v371 names and the old code's means; files older than v368 carry a further layer the passes do not name: *held as* (930 places at Resolving the Hard Problem Registry), *riding the carry*, *coefficient one*, *self-equilibrating*, and *phi-rate*, at Natural Intelligence Corus on 182 lines and at Natural Societies, Natural Human Society and Natural Engineering on nine. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
-
-Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's cost, meaning), goes to Natural Human Society and Natural Philosophy; 14.8 at Natural Networking and Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
 Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 Natural Societies, Natural Human Society and Natural Values keep three files at clearer seams. Societies: self and society at every scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society; its 4.4 to 4.6 return inside their part. Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and every human example now at Societies (the arrow, live descent, birthing and nyeing, the biosphere, no common clock, each now at both). Values: value at every scale, and the one home of the discovery economy, receiving Human Society 3.1, 3.4 and 4.6's currency, Exploring 6.3, Societies 1.3 and the general part of Natural Health 3.2. (Re-Settling the Living Files, §7) — resettling_v373
