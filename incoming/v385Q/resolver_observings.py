@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to V.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to W.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -698,3 +698,52 @@ for c in V:
     for offs in ([], [c], [-c], [c, -c]):
         tun, nxt = entry([("s", c)], [("s", o) for o in offs])
         print("     carried %s, offered %-6s shared %s, next carried %s" % (S[c], (" ".join(S[o] for o in offs) or "none") + ":", S[dict(tun)["s"]], S[dict(nxt)["s"]]))
+
+
+print("\nW. Where the 0s are on a torus, across and along together: the units sharing 0 (#) at successive 1 to 17s,")
+print("   each group one place along, its marks the places across")
+
+
+def torus_cells(p, q, T):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    st = {c: ([("s", alt(c[0] + c[1]))], []) for c in cells}
+    rel = {}
+    for i, j in cells:
+        rel[((i, j), 9)] = ((i + 1) % p, j)
+        rel[((i, j), 10)] = (i, (j + 1) % q)
+    out = []
+    for t in range(T):
+        out.append({c: dict(entry(*st[c])[0]).get("s") for c in cells})
+        st = step(st, rel)
+    return out
+
+
+for p, q in ((3, 7), (5, 7), (3, 5)):
+    rows = torus_cells(p, q, 200)
+    print("   torus of %d along by %d across" % (p, q))
+    for t in range(100, 106):
+        print("     %3d   %s" % (t + 1, "  ".join("".join("#" if rows[t][(i, j)] == 0 else "." for j in range(q)) for i in range(p))))
+    one_each = sum(all(sum(rows[t][(i, j)] == 0 for j in range(q)) == 1 for i in range(p)) for t in range(100, 200))
+    moved = sum(all((rows[t + 2][((i + 1) % p, j)] == 0) == (rows[t][(i, j)] == 0) for i in range(p) for j in range(q)) for t in range(100, 198))
+    steps = set()
+    for t in range(100, 200):
+        at = [next((j for j in range(q) if rows[t][(i, j)] == 0), None) for i in range(p)]
+        if None not in at:
+            steps |= set((at[i] - at[i + 1]) % q for i in range(p - 1))
+    print("     of 100, the 1 to 17s with one 0 at each place along: %d; the places across stepping back by %s from one place along" % (one_each, sorted(steps)))
+    print("     to the next; of 98, the 1 to 17s after which the whole of the 0s is one place along two 1 to 17s on: %d" % moved)
+
+print("   two spirals crossed, the published 3 and 5: the 1 to 17s at which a crossing unit shares 0, the first 100 and 301 to 400")
+st = {("A", i): ([("s", alt(i))], []) for i in range(3)}
+st.update({("B", i): ([("s", alt(i))], []) for i in range(5)})
+rel = {(("A", i), 9): ("A", (i + 1) % 3) for i in range(3)}
+rel.update({(("B", i), 9): ("B", (i + 1) % 5) for i in range(5)})
+rel[(("A", 0), 10)] = ("B", 0)
+rel[(("B", 0), 10)] = ("A", 0)
+early = late = 0
+for t in range(400):
+    z = sum(dict(entry(*st[k])[0]).get("s") == 0 for k in (("A", 0), ("B", 0)))
+    early += z if t < 100 else 0
+    late += z if t >= 300 else 0
+    st = step(st, rel)
+print("     %d and %d" % (early, late))

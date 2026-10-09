@@ -334,3 +334,35 @@ V. A 0 among the offerings. The code as written hands a shared 0 on with the par
      carried -, offered -:     shared 0, next carried -
      carried -, offered +:     shared +, next carried +
      carried -, offered - +:   shared +, next carried +
+
+W. Where the 0s are on a torus, across and along together: the units sharing 0 (#) at successive 1 to 17s,
+   each group one place along, its marks the places across
+   torus of 3 along by 7 across
+     101   .#.....  ......#  ....#..
+     102   ..#....  #......  .....#.
+     103   ...#...  .#.....  ......#
+     104   ....#..  ..#....  #......
+     105   .....#.  ...#...  .#.....
+     106   ......#  ....#..  ..#....
+     of 100, the 1 to 17s with one 0 at each place along: 100; the places across stepping back by [2] from one place along
+     to the next; of 98, the 1 to 17s after which the whole of the 0s is one place along two 1 to 17s on: 0
+   torus of 5 along by 7 across
+     101   .......  #......  .....#.  .......  .......
+     102   ..#....  .#.....  ......#  ....#..  ...#...
+     103   .......  .......  #......  .....#.  .......
+     104   ...#...  ..#....  .#.....  ......#  ....#..
+     105   .......  .......  .......  #......  .....#.
+     106   ....#..  ...#...  ..#....  .#.....  ......#
+     of 100, the 1 to 17s with one 0 at each place along: 50; the places across stepping back by [1, 2] from one place along
+     to the next; of 98, the 1 to 17s after which the whole of the 0s is one place along two 1 to 17s on: 98
+   torus of 3 along by 5 across
+     101   ...#.  .....  #....
+     102   ....#  ..#..  .#...
+     103   #....  ...#.  .....
+     104   .#...  ....#  ..#..
+     105   .....  #....  ...#.
+     106   ..#..  .#...  ....#
+     of 100, the 1 to 17s with one 0 at each place along: 50; the places across stepping back by [1, 2] from one place along
+     to the next; of 98, the 1 to 17s after which the whole of the 0s is one place along two 1 to 17s on: 98
+   two spirals crossed, the published 3 and 5: the 1 to 17s at which a crossing unit shares 0, the first 100 and 301 to 400
+     3 and 0
