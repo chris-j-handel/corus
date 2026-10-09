@@ -2,9 +2,11 @@ Exhibit ONE Natural Resolver Offerings · laid at v385A
 
 # Offerings to Natural Resolver
 
-## Local sharing and the proposed whole geodesic momentary · v385A
+## Local sharing and the whole geodesic momentary · v385A
 
-The [travelling-geodesic gathering](Living_Improving_Value.md#the-travelling-geodesic-as-self-through-consecutive-local-momentaryings--v385a) follows the user's proposed geodesic as self through consecutive local momentaryings. Natural Resolver's one-sharing table supplies its local comparison; the whole stopping outcome is not required in one table cell. The particular relation for its four momentaries and whole 1–9 and 1–17 forms is how consecutive local releasings co-chain as one whole momentary of that proposed self. No fixed number of local meetings or common pace has been supplied.
+The [whole geodesic gathering](Living_Improving_Value.md#every-self-is-a-geodesic-self--v385a) now carries the user's every-self explaining with the connected social bi-tunneling and across-span relation. The earlier distinction between local selves and a separate geodesic kind is withdrawn. Natural Resolver's one-sharing table remains inside the whole; its stopping outcome is not required in one table cell.
+
+The particular improving places are “Namings among the names,” the four momentaries of exchanging, and the local-to-societal stable forms. Follow offerings at 2 and surfacing at 14, prior at 3 and changing at 12, sharing at 6 and 10 and releasing at 9, private next at 11 into 3, and the whole 1–17. The across possibling span and actual along co-chaining need their connected expression there. The standalone exhibit and its embedded expression in Natural Intelligence need the same explaining. No fixed number of local meetings or common pace has been supplied.
 
 ## Carrying resolving through prior, now and next · v385A
 

@@ -2,6 +2,12 @@ Natural Intelligence Offerings · laid at v385A
 
 # Offerings to Natural Intelligence
 
+## Geodesic selves, carrying and podaling · v385A
+
+The user's [whole every-self explaining](Living_Improving_Value.md#every-self-is-a-geodesic-self--v385a) corrects treating geodesic self as a separate kind. Its connected social bi-tunneling, across possibling span and longer co-chaining remain in that gathering. Section 3.1's non-living geodesic naming needs its actual subject cohered with that whole explaining, rather than excluding geodesic from living selves by its wording.
+
+The further particular improving places are sections 3.4 and 4.2–4.6 for offering, carrying and resolving; 4.15 for inward and outward; 5.2 for still possibling and next existing; and 6.2 and 6.4 for bi-moral co-agency and social moral competency. The embedded Natural Resolver and the standalone exhibit need the same connected expression of global offerings, local resolving and further global co-chaining. The gathering preserves the actual across-to-along relation still to express and the corrected code comparison at its own scope.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.
