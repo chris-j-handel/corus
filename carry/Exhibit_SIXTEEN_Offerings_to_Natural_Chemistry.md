@@ -137,3 +137,7 @@ Keep the material arrangements, conversation value and writing contribution avai
 ## Chemical handed names and living resolving · v385A
 
 **Droplet.** The [whole handed-form comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) keeps the field's molecular labels and the natural explaining of right resolving at their actual subjects. Natural Chemistry's chirality and earlier crystal-twinning offering need the relation between a chemical handed form, its mirror comparison and the proposed living making. Opposite labels or a molecular form alone do not identify the hand of that living resolving. The possible opposing observing concerns the living making at its actual scale; no new substance, experiment or biological result is supplied here.
+
+## The element count and the turn at sixty · v385A
+
+**Droplet.** The 118-element comparison needs the relation between the actual elements and the offered form, not a matching count alone. The incoming turn-at-sixty question belongs with the existing concern here: Natural Chemistry says no element carries at sixty, Natural Physics names a turn at sixty, and Natural Numbers names the between of going and returning. Name whether position or between is intended at each actual relation. The [complete numerical-comparison gathering](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) keeps the distinct subjects.

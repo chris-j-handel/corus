@@ -329,7 +329,7 @@ The possible project retains both unfinished relations: the four-inequality diag
 
 **Droplet.** A session can finish with value still to distribute. Retain one report of clustered droplets in the best available explaining, with or without aimings. Gather its whole value into Living Improving Value, then distribute it to the relevant offering mates and its independent improving objects to carrying mates. Preserve completed supporting material as artifacts; an incoming session does not become a collection of separate report, opportunity-list, droplet-list and execution tasks.
 
-The current instance is [completed session v385M's one report](../incoming/v385M/Session_Report_v385A.md). Its whole value is gathered in [Living Improving Value](Living_Improving_Value.md#completed-session-v385m-clustered-incoming--v385a). The five overlapping prose files and twelve program/output files remain artifacts. Its earlier labels provide no grade or completed-local-resolving claim. Session closure ends requests for replies; it does not remove local offerings or establish that their living files have resolved them.
+The current instance is [completed session v385M’s one gathered report](../archive/session_v385M/Session_Report_v385A.md), now an artifact. Its concepts are available through the [recorded placements](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a) and the continuing sequential-colliding gathering in Living Improving Value. Session closure and artifact filing remove no local offering and establish no living-file resolving.
 
 ## The origin and possible break at this subject · v385A
 

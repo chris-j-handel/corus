@@ -145,3 +145,9 @@ The full proposed relation, its sequential-colliding correction and its unresolv
 ## Sharing no factor and primes · v385A
 
 **Sharing no factor and primes.** Spirals of nine and twenty-five reportedly return together at 900 as three and five do at 60; nine and fifteen return sooner because of their shared factor. Across openings, a spiral of seven reportedly returns at four or twenty-eight and a spiral of nine at four, twelve or thirty-six. The concern is what operation specifically requires a prime rather than relatively prime sizes. A common return count alone does not establish the claimed natural scale.
+
+## Numerical matches and the actual relation between forms · v385A
+
+**Droplets.** Keep a numerical match distinct from the relation between forms on both sides. The incoming questions include 118 elements; twenty amino acids beside choosing three of six; a measured ratio near the reciprocal of the golden ratio squared; and a turn at sixty beside Chemistry's statement that no element position carries at sixty. The missing value is the complete relation identifying the actual observing and its form, not another repetition of matching numbers.
+
+The sixty comparison already has a particular position-or-between concern at [Natural Chemistry](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#the-element-count-and-the-turn-at-sixty--v385a). Keep the element count, amino-acid count, measured ratio and turn at their actual subjects; none is identified with another by its number alone.

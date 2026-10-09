@@ -578,3 +578,9 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 **Droplet.** The non-living form is said at its own scale, with prior living at a larger scale and living societies inward. The offered hydrogen comparison follows earlier plasma compressing and thinning before atoms formed and changing within the proton. These are offered relations, not a completed empirical derivation of living at those scales. No inward structure yet observed in an electron establishes neither absence nor a found structure. The withdrawn question about opening something and how far to open it becomes the actual question: which arriving observing would oppose the explaining?
 
 The [living-carrying and stable-form distinction](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a) retains the outward self and inward societies at their actual scales. Neither the atomic names nor the inward-scale claim alone settles the particular living relation.
+
+## The gravity statement and its actual observing · v385A
+
+The claim that gravity is not real retains its own question: what natural relation in the existing explaining supplies that statement at the observed phenomenon? A name or absence of a shown resolver output in partial reading is not a resolution or a demonstrated contradiction.
+
+This extends the existing transmitted-coupling concern here; it does not decide that concern by the statement alone. The [numerical-match gathering](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) also retains the measured-ratio and turn-at-sixty questions. The [hard-problem comparison](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) keeps the Hubble-tension example’s unresolved relation.
