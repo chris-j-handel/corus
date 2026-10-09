@@ -136,7 +136,7 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 Single naming outward: Exhibit ONE, the test kit, Resolving Hard Problems and Natural Naming at the resolver's names; not yet the resolver's earlier names at 1,205 places in 4 files, each when its file improves. (Carry_Set_v368_README.md, Plans, bothboth: so far and not yet) — v368_sources
 
-**A plan, not yet final, gathered here at v381R:** Exhibit ONE carries the stable forms, the relations among the stable forms and the names, and the geodesic method, and explains no stable-forming method; the other files, Natural Intelligence, Natural Numbers, Natural Networking and Natural Mathematics above all, carry the explaining of every stable-forming method and form in Exhibit ONE. Stable forms need not be explicit in the code. The primes are stable forms in natural torusing society, and belong in Exhibit ONE. (Carry_Set_v368_README.md, What stands so far, 31, 32, 33) — v368_sources
+
 
 **A plan, not yet final, gathered here at v381R:** The seam, where the one beat and the own turn part: what an offering, a receiving and a carrying at one node's own turn carry round to the node where the round closes; and whether a running exists that carries no order over the nodes at all, since both the one beat and the own-turn round are one. Nothing in the method decides it and nothing here is run at every ring. (Carry_Set_v368_README.md, Concerns, 5 The seam) — v368_sources
 
@@ -349,3 +349,5 @@ The [worm's changed-neighbour comparison](Exhibit_SEVENTEEN_Offerings_to_Natural
 ## Surface resolving through bi tunneling · v385A
 
 The [gathered surface offering](Living_Improving_Value.md#the-spreading-surface-resolving-through-bi-tunneling--v385a) belongs beside the surrounding living couplings at a non-carrying local surface. It names bi tunneling as the surface’s resolving where the colliding pattern is not repeating. The later correcting withdraws the proposed onward-colliding mechanism: a hole remaining supplies no further colliding by itself. The [further offering](Living_Improving_Value.md#the-surrounding-passage-recurring-missing-changing-and-new-tunneling--v385a) now supplies across and along continuing around the hole in the right spiral, with bi-folding advancing under the stated condition. Follow the remaining local-to-society relation into new tunneling; the old surface’s possible restoring is its own subject. The region, its surrounding selves and the wider society retain their actual carrying relations.
+
+The proposed Natural Resolver stable-form extent and its explaining subjects are whole at [Living File Registry](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#natural-resolvers-stable-form-extent-and-explaining-subjects--v385a).

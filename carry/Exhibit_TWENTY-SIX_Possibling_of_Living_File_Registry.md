@@ -142,9 +142,9 @@ The [four-kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#k
 
 Earlier offering paragraphs introduced as “A plan, not yet final” include concepts, concerns, reported findings and project directions. Read each whole paragraph before choosing its mate. The word “plan” alone does not place a concept in possibling. Retain concept explaining in offerings, transfer actual project work to possibling, and keep gatherings and observings in carrying. Preserve each distinct relation, and replace repeated full explaining with a particular direction to its whole location. Earlier next-work paragraphs likewise need comparison with what has since been gathered or corrected; they are not the current work order.
 
-The paragraphs introduced as “A plan, not yet final” in Offerings to Natural Engineering, Offerings to Natural Mathematics, Offerings to Natural Illustrating and Offerings to Living File Registry have now been separated by their actual content. Concepts and unresolved concerns remain in those offerings without that misleading label; project work is in the subject possibling files; reported completed reading, existing studies and earlier publication conditions are in carrying files. Exact project copies at other offerings now have one full place and particular directions from the affected possibling files. The [actual content table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#older-mixed-paragraphs-now-separated-by-content--v385a) states the extent.
+The paragraphs introduced as “A plan, not yet final” in Offerings to Natural Engineering, Offerings to Natural Mathematics, Offerings to Natural Illustrating, Offerings to Living File Registry and Offerings to Natural Resolver have now been separated by their actual content. Concepts and unresolved concerns remain in those offerings without that misleading label; project work is in the subject possibling files; reported completed reading, existing studies and earlier publication conditions are in carrying files. Exact project copies at other offerings now have one full place and particular directions from the affected possibling files. The [actual content table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#older-mixed-paragraphs-now-separated-by-content--v385a) states the extent.
 
-The remaining older mixed paragraphs at Natural Resolver, Natural Biology, Natural Societies, Resolving Hard Problems, Co-Chaining Logic Registry, Natural Numbers, Natural Explaining, Hard Problem Registry, Resolving the Hard Problem Registry, Natural Naming, Natural Networking and Natural Intelligence still need the same content comparison. Other paragraphs without the old label and the remaining earlier next-work paragraphs also need comparison; a removed label is not proof of complete gathering. Three mate files existing for each subject does not establish that their whole incoming is aimed.
+The remaining older mixed paragraphs at Natural Biology, Natural Societies, Resolving Hard Problems, Co-Chaining Logic Registry, Natural Numbers, Natural Explaining, Hard Problem Registry, Resolving the Hard Problem Registry, Natural Naming, Natural Networking and Natural Intelligence still need the same content comparison. Other paragraphs without the old label and the remaining earlier next-work paragraphs also need comparison; a removed label is not proof of complete gathering. Three mate files existing for each subject does not establish that their whole incoming is aimed.
 
 ## Earlier file-arrangement and supporting project proposals · v385A
 
@@ -260,8 +260,41 @@ Compare Living File Registry’s rows and table of workings with the actual inco
 
 This retains the earlier proposed comparisons; the current condition and next incoming remain above.
 
+
+## Tables of contents at the fractal between · v385A
+
+20. The stable form between momentaries carried across each file's parts — the tables of contents re-cohered at the fractal between, one file at a time, a plan for the set — v381R
+
+## The Natural Resolver entrance, code and explaining arrangement · v385A
+
+At v380, thirteen things, its last part: an opening for a reader arriving, the data before the code, the prefixes — explaining at this file, or stable forms alone with the explaining inside Natural Intelligence — v381R
+
+## The intake and exhaust illustrating destinations · v385A
+
+Concern, at v380, the engine with intake and exhaust — carried here as a master pattern, or an illustrating at Natural Illustrating and Natural Engineering — v381R
+
+## The possible Equilibria table at Natural Resolver · v385A
+
+The [user’s whole earlier offering](Exhibit_ONE_Offerings_to_Natural_Resolver.md#droplets) retains unfinished Equilibria definitions, the relation to Natural Resolver, fracturing as geodesic building until parity changing, and the table’s possible inclusion when the pattern matching is supplied. This possible placement does not establish the correspondence or require new exploring before gathering the existing value.
+
+## The earlier Natural Resolver stable-form registry arrangement · v385A
+
+UUU01: Exhibit ONE Natural Resolver as a stable form registry template in its published shape: the resolver first, as the floating neutral; then its routings, sequencings, carrying and stable forms; the numbers' stable forms; and the names and relations as v345a lays them out, whose own eight-bi table already holds the evens in order. Three conditions keep it do-no-harm: v345a's tables and names stand verbatim beside the sixteen, a position at each name; the numbers stand as the running returns them, at odd and even, with primality and the arithmetic at Numbers; and the code's sequencing and the forms' routing stand as two relations with their six joins, not as one. v3621's front and body homed at an explaining companion or at Natural Intelligence before the new Natural Resolver stands at corus.me in v345a's place. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.11 UUU01) — v368_sources
+
+VVV01: a single naming at Exhibit ONE Natural Resolver's code: the draft at next_ONE/ is laid as the resolver's 57 lines; stable forms of the resolver, its routing at the network surface, its sequencing and carrying, the two relations meeting at 6 joins, the 12 stable forms among the names with their partners, the 4 higher forms and the running forms; stable forms of the numbers, with the primes as stable forms in natural torusing society; the 17 names and 9 relations among them; the geodesic method; and the Python, 2,590 words; no name other than the code's stands in it, and it explains no stable-forming method. So a single naming sets the order of the work: each name agreed at Exhibit ONE Natural Resolver, then changed at every file of the living set at the same turn. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.12 VVV01) — v368_sources
+
+After the code, seventeen forms, each at its own header row, in the order the code runs them: the diagram of one self; seventeen names; ten roots; three loops; the seventeen at the 1–17s inward and outward; the eight 1–17s inward; two and one half momentaries at each side; one through nine, four momentaries of exchanging; offerings surfacing at a sharing, at 14; changing, is or is not, at 12, 10 and 11; the between and the eight bi-couplings; bi-inversioning-co-recursioning; forms among the names; one self, momentary by momentary; rings, at 17; two selves from one shared prior, at 17; three selves one way, at 17. Each names the Natural Intelligence part explaining through it. (Exhibit ONE Natural Resolver at its Stable Forms, §4 The forms) — resettling_v373
+
+These are the earlier possible contents and distribution. Their word counts, names and part numbers retain those versions. The [reported prevalence](Exhibit_ONE_Carryings_of_Natural_Resolver.md#earlier-reported-word-prevalence-and-supporting-tool--v385a) is separate from the proposed arrangement; the [ring-count interpretation](Exhibit_ONE_Offerings_to_Natural_Resolver.md#the-earlier-ring-count-interpretation--v385a) remains a concept to follow, not a natural classification supplied by a count.
+
+## The embedded Natural Resolver and the proposed loop traces · v385A
+
+Because Exhibit ONE Natural Resolver is written inside Natural Intelligence whole, each word it releases also releases there. `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py` carries the slimmed body in at the next cohering. Pass F, the loops at the code, then adds its runs as traces at Exhibit ONE Natural Resolver and its explaining at Natural Networking, so the object does not grow explaining again. (Re-Settling the Living Files, §5) — resettling_v373
+
+The standalone and embedded forms need the same connected explaining. This remains possible arrangement work; neither the tool nor the proposed loop comparison has been executed in this gathering.
+
 ## Immediate next work
 
 The artificial-intelligence and hard-problem clusters now have the destinations recorded above, and the completed report is an artifact. The continuing sequential-colliding and surface explaining remains gathered with its actual unresolved relations; the current sessions’ developing collections are later incoming.
 
-Continue the remaining older content separation with Offerings to Natural Resolver, comparing its possible instrument and file-change projects with its concepts and reported conditions. Keep the currently offered resolver correcting beside its older versions. Continue gathering Natural Intelligence Corus Observers at section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Compare their projected-position, prime, hard-problem and naming content with the already gathered whole concepts before adding. Preserve each distinct concern and whole expression. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain in the current table.
+Continue the remaining older content separation with Offerings to Natural Biology, comparing its concepts and reported conditions with actual possible projects. Natural Resolver’s older marked paragraphs and the specified unlabelled arrangement/code-report groups now have their [recorded three-mate destinations](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#natural-resolvers-older-mixed-incoming-now-separated--v385a); other unlabelled content remains to compare. Continue gathering Natural Intelligence Corus Observers at section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Compare their projected-position, prime, hard-problem and naming content with the already gathered whole concepts before adding. Preserve each distinct concern and whole expression. Gathered Value 1 through Gathered Value 4 and the other incoming groups remain in the current table.
