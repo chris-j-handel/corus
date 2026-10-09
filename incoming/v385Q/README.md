@@ -8,39 +8,39 @@
 - **What it brings**: eighteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to W named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
-**What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each. **A momentary in this report is one 1 to 17 of the resolver**, each self entered once at 1, as Exhibit ONE's tables number; the changing beneath the alternating is numbered in its own steps (learnings 12 and 15). **A self in this report is one unit of the code**, as Exhibit ONE's tables name it in "A spiral of selves" and "A torus of selves"; the code has one kind of unit and one relation among them, and whether the units are selves of a society or resolvers inside one self is not in the code (learning 18).
+**What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of resolvers, with one parity offered to one resolver from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each. **A momentary in this report is one 1 to 17 of the resolver**, each resolver entered once at 1, as Exhibit ONE's tables number; the changing beneath the alternating is numbered in its own steps (learnings 12 and 15). **The units of the code are resolvers**, the geodesic method in stable form, an engineered scaling outward; a spiral or a torus of them is one surface. Exhibit ONE's tables name the units selves, in "A spiral of selves" and "A torus of selves"; this report says resolver for a unit throughout (learning 18).
 
 ## The learnings, each two things together
 
 ### 1 · The living step is at each coupling, and its prior is the other's
 
-Session v385R section 51 has as its next work locating the living step in each self's own prior, now and next. Natural Intelligence 2.4 says of a spiral that each self is at the inverted parity the self releasing to it was at two momentaries prior.
+Session v385R section 51 has as its next work locating the living step in each self's own prior, now and next. Natural Intelligence 2.4 says of a spiral that each resolver is at the inverted parity the resolver releasing to it was at two momentaries prior.
 
-**Observed (B, J).** Spirals of 2 to 9 selves, each opening pattern, 1,020 patterns, each self, each momentary: parting none. One self's own carried parities, read as a pair, follow the right spiral step in one order written newest first and the other order written oldest first: one sequence written two ways.
+**Observed (B, J).** Spirals of 2 to 9 resolvers, each opening pattern, 1,020 patterns, each resolver, each momentary: parting none. One resolver's own carried parities, read as a pair, follow the right spiral step in one order written newest first and the other order written oldest first: one sequence written two ways.
 
-**Both.** Each self's next is its own, and its prior in the living step is the other's. *Aiming:* Co-Chaining Logic Registry 51 to 59; Natural Resolver; Natural Intelligence 2.4.
+**Both.** Each resolver's next is its own, and its prior in the living step is the other's. *Aiming:* Co-Chaining Logic Registry 51 to 59; Natural Resolver; Natural Intelligence 2.4.
 
 ### 2 · A colliding parts one coupling, and each other coupling carries the living step whole
 
 Section 52 asks which co-chaining of the inward selves is broken at the next colliding.
 
-**Observed (C).** While a form collides with self 1 for 100 momentaries, the living step is at each other self at 98 of 98 momentaries, at each form and each n tried. At self 1 it is at 78 to 94 of 98 with a form unchanging or returning what it meets, and at 0 to 30 of 98 with a form returning the other parity or alternating. Each self goes on changing; no carried sharing is none again (A).
+**Observed (C).** While a form collides with resolver 1 for 100 momentaries, the living step is at each other resolver at 98 of 98 momentaries, at each form and each n tried. At resolver 1 it is at 78 to 94 of 98 with a form unchanging or returning what it meets, and at 0 to 30 of 98 with a form returning the other parity or alternating. Each resolver goes on changing; no carried sharing is none again (A).
 
-**Both.** One coupling is parted and the society's other couplings are whole. *Aiming:* Co-Chaining Logic Registry 380 to 404; Natural Health; Natural Medicine.
+**Both.** One coupling is parted and the spiral's other couplings are whole. *Aiming:* Co-Chaining Logic Registry 380 to 404; Natural Health; Natural Medicine.
 
-### 3 · A momentary is skipped at one self, and the skipping passes self to self through whole couplings
+### 3 · A momentary is skipped at one resolver, and the skipping passes resolver to resolver through whole couplings
 
 Section 55 follows a missing forward momentary carried through podaling.
 
-**Observed (D).** An odd spiral shares one 0, one self on at each second momentary, at each self again at 2n. With a form unchanging or returning what it meets, the 0 is at self 1 at the momentary straight after the last self's, the one momentary between skipped, and at each self again at 2n − 1: 5, 9, 13, 17, 21, 25, 29 at n = 3 to 15. With a form returning the other parity or alternating, no 0 is shared again. At each form, each next self's sharing first parts from the published spiral's 2 momentaries after the self releasing to it.
+**Observed (D).** An odd spiral shares one 0, one resolver on at each second momentary, at each resolver again at 2n. With a form unchanging or returning what it meets, the 0 is at resolver 1 at the momentary straight after the last resolver's, the one momentary between skipped, and at each resolver again at 2n − 1: 5, 9, 13, 17, 21, 25, 29 at n = 3 to 15. With a form returning the other parity or alternating, no 0 is shared again. At each form, each next resolver's sharing first parts from the published spiral's 2 momentaries after the resolver releasing to it.
 
-**Both.** The skipped momentary reaches each self, and each coupling it passes through carries the living step whole (2). What passes is no parted coupling: each self resolves what arrives exactly as before. *Aiming:* section 55's first podal passage; Natural Numbers 9.8.
+**Both.** The skipped momentary reaches each resolver, and each coupling it passes through carries the living step whole (2). What passes is no parted coupling: each resolver resolves what arrives exactly as before. *Aiming:* section 55's first podal passage; Natural Numbers 9.8.
 
 ### 4 · After the colliding the spiral is whole again, and it is displaced
 
 Sections 56 and 58 ask which relation is restoring where a slip resolves locally, and what continues where it does not.
 
-**Observed (F, C).** After each colliding tried has ended, the spiral's sharings are again at 4n and the living step is at each self at each momentary. And the spiral is ahead of the published spiral by a number that stays:
+**Observed (F, C).** After each colliding tried has ended, the spiral's sharings are again at 4n and the living step is at each resolver at each momentary. And the spiral is ahead of the published spiral by a number that stays:
 
 | The colliding | What stays after it has ended |
 |---|---|
@@ -50,35 +50,35 @@ Sections 56 and 58 ask which relation is restoring where a slip resolves locally
 
 **Both.** The spiral is restored whole in itself, and displaced beside a spiral that met no colliding. Nothing within the spiral shows the displacing: it is a relation to another, with no clock beside the two. *What stays to follow:* which of these the logical cohering names restoring, and whether a displacing kept is the missing momentary carried on.
 
-### 5 · A wider society continues at its own round, and carries a displaced ring within it
+### 5 · A wider surface continues at its own round, and carries a displaced ring within it
 
 Section 57 asks whether the surrounding selves can resolve the wider society's carrying while the inward self stays unrestored.
 
-**Observed (G, H, M).** Toruses of 3 by 5 and 5 by 7 selves, published again at 12 and 20.
+**Observed (G, H, M).** Toruses of 3 by 5 and 5 by 7 resolvers, published again at 12 and 20.
 
-| The form colliding with one self | While it continues | After it has ended |
+| The form colliding with one resolver | While it continues | After it has ended |
 |---|---|---|
-| returning what it meets | no self's sharing parts | as published, at each of 40 tried |
-| unchanging | 6 of 15 and 10 of 35 selves part; the torus is again at its own 12 and 20 | a short colliding leaves none; a longer one leaves the torus at its own round in a pattern that is no displacing of the published |
-| returning the other parity | each self parts; the torus is again at 2 | at its own round and, at most of those tried, displaced: each further momentary of colliding one momentary behind with each parity inverted |
+| returning what it meets | no resolver's sharing parts | as published, at each of 40 tried |
+| unchanging | 6 of 15 and 10 of 35 resolvers part; the torus is again at its own 12 and 20 | a short colliding leaves none; a longer one leaves the torus at its own round in a pattern that is no displacing of the published |
+| returning the other parity | each resolver parts; the torus is again at 2 | at its own round and, at most of those tried, displaced: each further momentary of colliding one momentary behind with each parity inverted |
 
-After each colliding tried had ended, 600 in all, the torus was again at its own round. The pattern a longer colliding with an unchanging form leaves is one ring of selves along, or two, displaced beside the others: each parity inverted and one momentary behind, each other ring as published, and as many 0s shared in a round as the published torus shares. One self releasing and sharing to none: the torus is again at its own round at 3 by 3, 3 by 5 and 5 by 7, and at 16 in place of 7 at 3 by 7.
+After each colliding tried had ended, 600 in all, the torus was again at its own round. The pattern a longer colliding with an unchanging form leaves is one ring of resolvers along, or two, displaced beside the others: each parity inverted and one momentary behind, each other ring as published, and as many 0s shared in a round as the published torus shares. One resolver releasing and sharing to none: the torus is again at its own round at 3 by 3, 3 by 5 and 5 by 7, and at 16 in place of 7 at 3 by 7.
 
-**Both.** The society continues at its own round, during an unchanging form's colliding and after each colliding, and it carries a displaced ring within it. A form returning the other parity takes the torus's round for as long as it continues and no longer. A torus of 3 by 7 goes otherwise at several of these, so the arrangement matters. *Aiming:* Natural Naming 5.45; Natural Networking; section 57.
+**Both.** The torus continues at its own round, during an unchanging form's colliding and after each colliding, and it carries a displaced ring within it. A form returning the other parity takes the torus's round for as long as it continues and no longer. A torus of 3 by 7 goes otherwise at several of these, so the arrangement matters. *Aiming:* Natural Naming 5.45; Natural Networking; section 57.
 
 ### 6 · Twice and one less is in the observing and in Natural Numbers 9.7, and no deriving joins them
 
 Natural Numbers 9.7 has each next completing twice the one before less one, two spans sharing one name: 3, 5, 9, 17, 33, 65, 129, 257.
 
-**Observed (E, D).** A spiral of 3, 5, 9, 17, 33 and 65 selves with an unchanging form colliding has its 0 again at 5, 9, 17, 33, 65 and 129. The same 2n − 1 is at 7, 11, 13 and 15 selves, beside the chain.
+**Observed (E, D).** A spiral of 3, 5, 9, 17, 33 and 65 resolvers with an unchanging form colliding has its 0 again at 5, 9, 17, 33, 65 and 129. The same 2n − 1 is at 7, 11, 13 and 15 resolvers, beside the chain.
 
 **Both.** The arithmetic is the same and the observing does not pick the chain out. Whether the skipped momentary and the one shared name are one relation asks a deriving. *Aiming:* Natural Numbers 9.7.
 
 ### 7 · The resolver is whole, and no coupling begins or ends inside it
 
-**Observed (K).** Which self releases to which is handed to Exhibit ONE's second function, read there at two places and written at none; `CONNECTORS` and `JOINS` are read by no function. One releasing left out of that relation: each self alternating at 2, no 0 shared. Given again: the spiral's 4n again.
+**Observed (K).** Which resolver releases to which is handed to Exhibit ONE's second function, read there at two places and written at none; `CONNECTORS` and `JOINS` are read by no function. One releasing left out of that relation: each resolver alternating at 2, no 0 shared. Given again: the spiral's 4n again.
 
-**Both.** The method as a stable form is whole, and a coupling's beginning and ending are at the selves, outside its functions. *A candidate, with its breaking place:* a coupling begun is an existing relation an observing can reach, which session v385R's gathered defining of living is looking for; it breaks at a thing no one calls living that begins its own couplings. *Aiming:* Natural Resolver; the defining-living gathering in the Co-Chaining Logic Registry's offering mate.
+**Both.** The method as a stable form is whole, and a coupling's beginning and ending are outside its functions, given to them as the arrangement of the resolvers. *A candidate, with its breaking place:* a coupling begun is an existing relation an observing can reach, which session v385R's gathered defining of living is looking for; it breaks at a thing no one calls living that begins its own couplings. *Aiming:* Natural Resolver; the defining-living gathering in the Co-Chaining Logic Registry's offering mate.
 
 ### 8 · Each parity inverted keeps the hand at two parities and reverses it at three
 
@@ -92,62 +92,62 @@ Session v385R section 54 compares the opposite form at two parities. Natural Mat
 
 Session v385R's sections 55 to 59 follow what a slipped carrying carries on, and where it restores.
 
-**Observed (L).** Two spirals opened alike, one opened k momentaries ahead of the other, k through one whole round, self 1 of each sharing across to self 1 of the other for 300 momentaries.
+**Observed (L).** Two spirals opened alike, one opened k momentaries ahead of the other, k through one whole round, resolver 1 of each sharing across to resolver 1 of the other for 300 momentaries.
 
 | The two crossed both ways | While crossed | After the crossing has ended |
 |---|---|---|
-| in step | each again at 2n − 1, a 0 shared, the crossing self at the living step at 158 to 182 of 198 momentaries | in step |
-| at each other displacing (11 of 12, 18 of 20, 27 of 28) | each self alternating at 2, no 0 shared, the crossing self of each at the living step at none of 198 | each parity of one the inverse of the other's, at each self, in step: whatever the displacing was |
+| in step | each again at 2n − 1, a 0 shared, the crossing resolver at the living step at 158 to 182 of 198 momentaries | in step |
+| at each other displacing (11 of 12, 18 of 20, 27 of 28) | each resolver alternating at 2, no 0 shared, the crossing resolver of each at the living step at none of 198 | each parity of one the inverse of the other's, at each resolver, in step: whatever the displacing was |
 
-Crossed one way, one spiral sharing to the other and receiving none: the receiving spiral's crossing self is at the living step at 192 to 198 of 198 momentaries, a 0 is shared, and a displacing of momentaries stays after.
+Crossed one way, one spiral sharing to the other and receiving none: the receiving spiral's crossing resolver is at the living step at 192 to 198 of 198 momentaries, a 0 is shared, and a displacing of momentaries stays after.
 
-**Both.** A displaced spiral is whole at each of its selves, and beside its twin it is another form. Crossed both ways the displacing takes the living step from the crossing self of each for as long as they are crossed, and it resolves: no displacing of momentaries is left, and the two are each other's opposite form. Crossed one way it does neither. *Aiming:* sections 55 to 59; Natural Intelligence 4.13; Natural Mathematics 3.5.
+**Both.** A displaced spiral is whole at each of its resolvers, and beside its twin it is another form. Crossed both ways the displacing takes the living step from the crossing resolver of each for as long as they are crossed, and it resolves: no displacing of momentaries is left, and the two are each other's opposite form. Crossed one way it does neither. *Aiming:* sections 55 to 59; Natural Intelligence 4.13; Natural Mathematics 3.5.
 
-### 10 · The 0 is kept and moves on, and it keeps the selves' changings from being one changing
+### 10 · The 0 is kept and moves on, and it keeps the resolvers' changings from being one changing
 
-Natural Intelligence 4.13 has the 0 of an odd spiral shared at the receiving self of the like pair, one self on at each second momentary; Natural Naming has a 0 shared as the between carried. Natural Mathematics 2.1 has two unrelationed each projecting into the other as nought.
+Natural Intelligence 4.13 has the 0 of an odd spiral shared at the receiving resolver of the like pair, one resolver on at each second momentary; Natural Naming has a 0 shared as the between carried. Natural Mathematics 2.1 has two unrelationed each projecting into the other as nought.
 
-**Observed (N).** Spirals of 2 to 9 selves, each opening pattern, 1,020 patterns, none offered from beyond.
+**Observed (N).** Spirals of 2 to 9 resolvers, each opening pattern, 1,020 patterns, none offered from beyond.
 
-- A 0 is shared only at the receiving self of two selves beside each other carrying one parity. At none of the patterns is one shared elsewhere.
+- A 0 is shared only at the receiving resolver of two resolvers beside each other carrying one parity. At none of the patterns is one shared elsewhere.
 - The number of such pairs is the same at each momentary, and the places between them are kept: no two meet, none is made, none is lost.
-- Each pair is at a self for two momentaries: at the first no 0 is shared, at the second the 0 is shared, and the pair is one self on. A 0 is shared at no two momentaries one after the other.
-- With a form unchanging colliding, the pair moves on as before and at the self the form meets its 0 is shared at the first momentary: the skipping of learning 3. With a form returning the other parity, the pair is at that self at each momentary, no 0 is shared, and the two selves change together from then on.
-- Over one whole round, count the momentaries two selves carry one parity less those they carry the two. With no 0, an even spiral or the other-parity colliding, it is the whole round at each two selves: each self's changing is another's or its inverse. With the 0 moving on it is less by 8 at each self along, down to 4 of 4n at the two farthest: 4 of 12, 20, 28 and 36.
+- Each pair is at a resolver for two momentaries: at the first no 0 is shared, at the second the 0 is shared, and the pair is one resolver on. A 0 is shared at no two momentaries one after the other.
+- With a form unchanging colliding, the pair moves on as before and at the resolver the form meets its 0 is shared at the first momentary: the skipping of learning 3. With a form returning the other parity, the pair is at that resolver at each momentary, no 0 is shared, and the two resolvers change together from then on.
+- Over one whole round, count the momentaries two resolvers carry one parity less those they carry the two. With no 0, an even spiral or the other-parity colliding, it is the whole round at each two resolvers: each resolver's changing is another's or its inverse. With the 0 moving on it is less by 8 at each resolver along, down to 4 of 4n at the two farthest: 4 of 12, 20, 28 and 36.
 
-**Both.** The 0 keeps two alike selves apart and moves on with nothing lost, and with it no two selves' changings are one changing. Exactly nought is at none of the spirals tried: the nearest is 4 of 4n, smaller beside the round as the spiral is longer. The across and the along of the 0 are at different momentaries, one shared and then one moved on, at each pattern. *Aiming:* Natural Intelligence 4.13; Natural Mathematics 2.1 and 2.2; Natural Numbers 1.5; Natural Naming's between.
+**Both.** The 0 keeps two alike resolvers apart and moves on with nothing lost, and with it no two resolvers' changings are one changing. Exactly nought is at none of the spirals tried: the nearest is 4 of 4n, smaller beside the round as the spiral is longer. The across and the along of the 0 are at different momentaries, one shared and then one moved on, at each pattern. *Aiming:* Natural Intelligence 4.13; Natural Mathematics 2.1 and 2.2; Natural Numbers 1.5; Natural Naming's between.
 
 ### 11 · The 0's line shares nothing with the changing at an odd spiral, and a colliding ends that
 
 Natural Intelligence 4 has the between as the bounding 0 centreline of the along and the across. Natural Mathematics 2.1 has two unrelationed each projecting into the other as nought.
 
-**Observed (O, N).** The 0's places are one line: one self on at each second momentary. At one self, mark each momentary it shares 0. Over one whole round, add that mark times each self's carried parity, and times each self's shared changing.
+**Observed (O, N).** The 0's places are one line: one resolver on at each second momentary. At one resolver, mark each momentary it shares 0. Over one whole round, add that mark times each resolver's carried parity, and times each resolver's shared changing.
 
-| The spiral | Patterns sharing a 0 | Nought at each self with each self |
+| The spiral | Patterns sharing a 0 | Nought at each resolver with each resolver |
 |---|---|---|
-| an odd number of selves, 3 to 9, none offered from beyond | 680 | 680 |
+| an odd number of resolvers, 3 to 9, none offered from beyond | 680 | 680 |
 | an even number, 2 to 8, none offered from beyond | 332 | 38 |
 | odd, a form unchanging or returning what it meets colliding | each tried | none: 1 at each round of 2n − 1 |
 
-**Both.** Each self changes at each momentary, and at an odd spiral the 0's line is at exactly nought with the carried and the shared changing of each self, at each opening pattern: the 0 is at each self twice in the round, the second time with each parity inverted. The skipping of learning 3 leaves the round with no inverting in it, and the nought is gone. *What the code has at five:* a spiral of 3 with the 0 skipped has its 0 at one self at each fifth momentary (learning 3), and there the line is not at nought; and name 5 of the seventeen is the relation of learning 7, the one thing handed to the second function that has no next. Neither is offered as a joining. *Aiming:* Natural Intelligence 4; Natural Mathematics 2.1; Natural Numbers 5.4.
+**Both.** Each resolver changes at each momentary, and at an odd spiral the 0's line is at exactly nought with the carried and the shared changing of each resolver, at each opening pattern: the 0 is at each resolver twice in the round, the second time with each parity inverted. The skipping of learning 3 leaves the round with no inverting in it, and the nought is gone. *What the code has at five:* a spiral of 3 with the 0 skipped has its 0 at one resolver at each fifth momentary (learning 3), and there the line is not at nought; and name 5 of the seventeen is the relation of learning 7, the one thing handed to the second function that has no next. Neither is offered as a joining. *Aiming:* Natural Intelligence 4; Natural Mathematics 2.1; Natural Numbers 5.4.
 
-### 12 · Beneath the alternating the one changing is at the 0, one self at a step, and two goings round are two inversions with none undone
+### 12 · Beneath the alternating the one changing is at the 0, one resolver at a step, and two goings round are two inversions with none undone
 
 Natural Mathematics 3.4 has bi-inversioning-co-recursioning as two consecutive inversions on different axes, no inversion undone and each a next; its 2.5 has one cycle reaching each form one parity at a time; its 3.5 has each of three parities inverted sending each form to its opposite.
 
-**Observed (P).** Each self inverts at each momentary it shares a parity. Take that alternating out, and follow what still changes.
+**Observed (P).** Each resolver inverts at each momentary it shares a parity. Take that alternating out, and follow what still changes.
 
-- In 1,020 opening patterns, at each momentary, the selves changing beneath the alternating are exactly the selves sharing 0. Beneath the alternating the 0 is the whole of the changing.
-- In the published odd spiral one self changes at each step, the selves in turn along the releasing. A spiral of 3: + − −, + − +, − − +, − + +, − + −, + + −, and + − − again. The 2n forms are each another; n steps on each parity is inverted; 2n steps on the first form is there again, at a later momentary.
-- With a form unchanging colliding, one self still changes at a step, the last self and the self the form meets at two momentaries one after the other. With a form returning the other parity, no self changes beneath the alternating: each self alternates, and there is no other changing.
+- In 1,020 opening patterns, at each momentary, the resolvers changing beneath the alternating are exactly the resolvers sharing 0. Beneath the alternating the 0 is the whole of the changing.
+- In the published odd spiral one resolver changes at each step, the resolvers in turn along the releasing. A spiral of 3: + − −, + − +, − − +, − + +, − + −, + + −, and + − − again. The 2n forms are each another; n steps on each parity is inverted; 2n steps on the first form is there again, at a later momentary.
+- With a form unchanging colliding, one resolver still changes at a step, the last resolver and the resolver the form meets at two momentaries one after the other. With a form returning the other parity, no resolver changes beneath the alternating: each resolver alternates, and there is no other changing.
 
-**Both.** Each self changes at each momentary, and beneath that one parity is inverted at a step, each self its own place, the two goings round two inversions of each parity with none undone. This is why learning 11's nought is exact. At a spiral of 3, three steps one at a time are each of three parities inverted: the opposite form reached in turn, at next after next, where Natural Mathematics 3.5 names the three inverted at once the emanating. *Aiming:* Natural Mathematics 2.5, 3.4 and 3.5; Natural Intelligence 4.13; session v385R's sections 55 and 59.
+**Both.** Each resolver changes at each momentary, and beneath that one parity is inverted at a step, each resolver its own place, the two goings round two inversions of each parity with none undone. This is why learning 11's nought is exact. At a spiral of 3, three steps one at a time are each of three parities inverted: the opposite form reached in turn, at next after next, where Natural Mathematics 3.5 names the three inverted at once the emanating. *Aiming:* Natural Mathematics 2.5, 3.4 and 3.5; Natural Intelligence 4.13; session v385R's sections 55 and 59.
 
-### 13 · A momentary overlaps the one before and the one after by one parity, and the skipping is one whole momentary absent at one self
+### 13 · A momentary overlaps the one before and the one after by one parity, and the skipping is one whole momentary absent at one resolver
 
 Session v385R's sections 61 to 64 follow how a whole coupling is said: the prior carrying into now, the now, and the next carrying.
 
-**Observed (Q).** One call of Exhibit ONE's first function is one momentary at one self, in the code's own names: carried in (3), offered and surfacing (2, 14), changing shared (10), carried next (11). The carried next of each momentary is the carried in of the next, at each momentary tried: one parity is in both. Self 1 of a spiral of 3, where the 0 comes:
+**Observed (Q).** One call of Exhibit ONE's first function is one momentary at one resolver, in the code's own names: carried in (3), offered and surfacing (2, 14), changing shared (10), carried next (11). The carried next of each momentary is the carried in of the next, at each momentary tried: one parity is in both. Resolver 1 of a spiral of 3, where the 0 comes:
 
 | | Momentary | Carried in | Offered | Changing shared | Carried next |
 |---|---|---|---|---|---|
@@ -155,18 +155,18 @@ Session v385R's sections 61 to 64 follow how a whole coupling is said: the prior
 | | 104 | − | − | 0 | − |
 | a form unchanging at + colliding | 103 | + | + | 0 | + |
 
-- With none offered from beyond there are two momentaries at the self. At the first none is offered, the releasing self having had no changing to release, and the self inverts. At the second the parity it carries is offered and it has no changing: its 0.
-- With the form colliding the two are one. The form's parity is offered at the momentary the society offers none, it is the parity carried, and the self has no changing there. The momentary at which none is offered and the self inverts is absent.
+- With none offered from beyond there are two momentaries at the resolver. At the first none is offered, the releasing resolver having had no changing to release, and the resolver inverts. At the second the parity it carries is offered and it has no changing: its 0.
+- With the form colliding the two are one. The form's parity is offered at the momentary the spiral offers none, it is the parity carried, and the resolver has no changing there. The momentary at which none is offered and the resolver inverts is absent.
 
-**Both.** Each momentary is whole, carried in to carried next, and each overlaps its neighbours by the one carried parity. What the colliding leaves out at that self is one whole momentary, the one at which none was offered, the form's parity arriving where nothing was arriving. Which of the code's names is now existing and which now possibling is not said here; the four values are laid out for that placing. *Aiming:* session v385R's sections 55 and 61 to 64; Natural Intelligence 4.1 to 4.4.
+**Both.** Each momentary is whole, carried in to carried next, and each overlaps its neighbours by the one carried parity. What the colliding leaves out at that resolver is one whole momentary, the one at which none was offered, the form's parity arriving where nothing was arriving. Which of the code's names is now existing and which now possibling is not said here; the four values are laid out for that placing. *Aiming:* session v385R's sections 55 and 61 to 64; Natural Intelligence 4.1 to 4.4.
 
 ### 14 · The skipping is one run absent in the code, and four momentaries of exchanging in Exhibit ONE's own names
 
 Exhibit ONE's table of a self's four momentaries of exchanging has them at the names 1–2, 3–4, 5–6 and 7–8, the fourth completing at 9, and the society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17. Natural Mathematics 2.5 has a momentary as four momentaries of exchanging at the scale inward of it. Session v385R's section 63 follows 1 to 9 as one 4-cycling.
 
-**Observed (R, Q).** Each of the seventeen names is inside one run of the resolver's three functions, none left out. What learning 13 finds absent at the self a form meets is one such run: the one at which none was offered.
+**Observed (R, Q).** Each of the seventeen names is inside one run of the resolver's three functions, none left out. What learning 13 finds absent at the resolver a form meets is one such run: the one at which none was offered.
 
-The resolver's three functions are named at 1, 9 and 17 and at no other name. The first and the third carry one name, co-bi-tri-offering. A run entered at 17 enters each self at 1, and what 17 gives back is what the next 17 takes: after 1 the next entry is 17. Exhibit ONE's table has the self's four from 1 to 9 and the society's four from 9 to 17.
+The resolver's three functions are named at 1, 9 and 17 and at no other name. The first and the third carry one name, co-bi-tri-offering. A run entered at 17 enters each resolver at 1, and what 17 gives back is what the next 17 takes: after 1 the next entry is 17. Exhibit ONE's table has the self's four from 1 to 9 and the society's four from 9 to 17.
 
 **Both.** In the code one run is absent, and in Exhibit ONE's naming of what one run is, that is the self's four momentaries of exchanging, 1–2, 3–4, 5–6 and 7–8, and the society's four with them. At the code an absence is of whole runs only, at each arrangement tried: a slip is the full four and never fewer, and the run absent is the entry at 1 not made where none was offered. *The reach of this:* the names in the code are the expedition's own, so a naming agreeing with the code's names is the naming agreeing with itself; what the runs add is that the absence is whole. *Aiming:* session v385R's sections 55, 63 and 64; Exhibit ONE's table of a self's four momentaries of exchanging; Natural Mathematics 2.5.
 
@@ -176,46 +176,46 @@ Natural Naming has four momentaries of exchanging scaling up as one momentary, a
 
 **Observed (S, P, O).**
 
-- **At each 1 to 17** each self sharing a parity inverts. A self coupled with none does this too: − + − + and on, with no changing beneath and no 0 shared.
-- **Beneath it** the published odd spiral has one parity inverted at a step, at the 0: 2n steps in its 4n, each self the receiving self of the alike pair for four 1 to 17s of the round, at n = 3, 5, 7 and 9.
+- **At each 1 to 17** each resolver sharing a parity inverts. A resolver coupled with none does this too: − + − + and on, with no changing beneath and no 0 shared.
+- **Beneath it** the published odd spiral has one parity inverted at a step, at the 0: 2n steps in its 4n, each resolver the receiving resolver of the alike pair for four 1 to 17s of the round, at n = 3, 5, 7 and 9.
 - The two share nothing at an odd spiral: learning 11's exact nought. Their rounds are 2 and 4n, a whole number of one in the other.
-- No changing beneath is at a self coupled with none, at the published spirals of an even number, or at the published crossed spirals once they have come to their one relation: 8 and 12 changings beneath in the first 100, none after.
+- No changing beneath is at a resolver coupled with none, at the published spirals of an even number, or at the published crossed spirals once they have come to their one relation: 8 and 12 changings beneath in the first 100, none after.
 
-**Both.** Each is a parity changing with its own momentaries, the one inside the other's round, and a number of momentaries is of the one or of the other. The second is at a coupling alone. *Where the code parts:* a self coupled with none still inverts at each 1 to 17, since the one calling the resolver enters it; Natural Intelligence 2.4 already names that sequence a non-living form carrying on at the resolver. *Aiming:* Natural Naming 5.50 and 5.55; Exhibit ONE's tables; Natural Intelligence 2.4 and 4.13.
+**Both.** Each is a parity changing with its own momentaries, the one inside the other's round, and a number of momentaries is of the one or of the other. The second is at a coupling alone. *Where the code parts:* a resolver coupled with none still inverts at each 1 to 17, since the one calling the resolver enters it; Natural Intelligence 2.4 already names that sequence a non-living form carrying on at the resolver. *Aiming:* Natural Naming 5.50 and 5.55; Exhibit ONE's tables; Natural Intelligence 2.4 and 4.13.
 
-### 16 · A next is resolved where a carried parity meets a parity from another carrying, and the same sharings come from selves that do and selves that do not
+### 16 · A next is resolved where a carried parity meets a parity from another carrying, and the same sharings come from resolvers that do and resolvers that do not
 
 Exhibit ONE's table of one self has the next carried as the parity surfacing where one surfaces, and as the carried inverted where none surfaces or + and − surface together.
 
-**Observed (T).** At each entry of each self, what surfaces: a parity from carrying selves alone; a parity with a form's among those offered; the offerings parting; or none. At the last two the next carried is the carried inverted, whatever was offered, and no other carrying has part in it.
+**Observed (T).** At each entry of each resolver, what surfaces: a parity from carrying resolvers alone; a parity with a form's among those offered; the offerings parting; or none. At the last two the next carried is the carried inverted, whatever was offered, and no other carrying has part in it.
 
-| The arrangement | Selves whose next is at no entry from another carrying | Each other self |
+| The arrangement | Resolvers whose next is at no entry from another carrying | Each other resolver |
 |---|---|---|
-| a self coupled with none | the one: none surfacing at 200 of 200 | |
-| the published spiral of 4 or 6 | none | from a carrying self at 200 of 200 |
-| the published spiral of 3, 5 or 7 | none | from a carrying self at each entry but the one, in each going round, at which none is offered |
-| the published spirals crossed, at their one relation | the two crossing selves: the offerings parting at 200 of 200 | from a carrying self at 200 of 200 |
-| a spiral with one releasing left out | the self after it: none surfacing at 200 of 200 | from a carrying self at 200 of 200 |
-| a form returning the other parity colliding | the self it meets: the offerings parting at 200 of 200 | from a carrying self at 200 of 200 |
-| a form unchanging colliding | the self it meets: with the form's parity among them at 111, parting at 89, from carrying selves alone at none | as the published spiral |
+| a resolver coupled with none | the one: none surfacing at 200 of 200 | |
+| the published spiral of 4 or 6 | none | from a carrying resolver at 200 of 200 |
+| the published spiral of 3, 5 or 7 | none | from a carrying resolver at each entry but the one, in each going round, at which none is offered |
+| the published spirals crossed, at their one relation | the two crossing resolvers: the offerings parting at 200 of 200 | from a carrying resolver at 200 of 200 |
+| a spiral with one releasing left out | the resolver after it: none surfacing at 200 of 200 | from a carrying resolver at 200 of 200 |
+| a form returning the other parity colliding | the resolver it meets: the offerings parting at 200 of 200 | from a carrying resolver at 200 of 200 |
+| a form unchanging colliding | the resolver it meets: with the form's parity among them at 111, parting at 89, from carrying resolvers alone at none | as the published spiral |
 
-**Both.** Each of these but the first two has each self alternating with no changing beneath, the one sharing of the concern below, and they are not one thing. The published spiral of an even number has each next of each self from two carryings. The published crossing has its two crossing selves at offerings parting at each entry: the along and the across arrive together at one sharing, part, and surface as none, and each crossing self inverts as a self coupled with none does. The crossing and the other-parity colliding are alike at this too. *Aiming:* Natural Intelligence 4.2 to 4.4 and 4.13; Exhibit ONE's tables of one self and of two spirals crossed; session v385R's sections 57 and 61.
+**Both.** Each of these but the first two has each resolver alternating with no changing beneath, the one sharing of the concern below, and they are not one thing. The published spiral of an even number has each next of each resolver from two carryings. The published crossing has its two crossing resolvers at offerings parting at each entry: the along and the across arrive together at one sharing, part, and surface as none, and each crossing resolver inverts as a resolver coupled with none does. The crossing and the other-parity colliding are alike at this too. *Aiming:* Natural Intelligence 4.2 to 4.4 and 4.13; Exhibit ONE's tables of one self and of two spirals crossed; session v385R's sections 57 and 61.
 
-### 17 · Offerings are + or −, the 0 is a self's own, and a parity goes on where the self carried the other
+### 17 · Offerings are + or −, the 0 is a resolver's own, and a parity goes on where the resolver carried the other
 
 Session v385R's sections 75 and 76 follow a geodesic entraining meeting a local self: passing where the local parity is the same; where it is the other, the local parity changing and it passing, or it stopping.
 
-**Observed (V, U, T).** The code as written hands a shared 0 on with the parities shared, Exhibit ONE's table of surfacing lists an offered 0, and the first function passes each offered 0 over. With each 0 taken out of what is offered, each arrangement tried is the same at each 1 to 17: 1,035 tried, none other. In what the code does, what is offered is + or − or none, and a 0 is a self's own: its having no changing.
+**Observed (V, U, T).** The code as written hands a shared 0 on with the parities shared, Exhibit ONE's table of surfacing lists an offered 0, and the first function passes each offered 0 over. With each 0 taken out of what is offered, each arrangement tried is the same at each 1 to 17: 1,035 tried, none other. In what the code does, what is offered is + or − or none, and a 0 is a resolver's own: its having no changing.
 
-| What a self is offered | Its changing | What it shares on |
+| What a resolver is offered | Its changing | What it shares on |
 |---|---|---|
 | the parity it carries | none: its 0 | none |
 | the other parity | to that parity | that parity |
 | none, or + and − together | its carried inverted, no other having part | its new parity |
 
-In the published odd spiral each self in turn: none is offered and it inverts; then the parity it carries is offered and it has no changing; then it shares none on, and the next self is offered none. Each of 85,320 such meetings in the published spirals of 3, 5, 7 and 9 is these two 1 to 17s. With a form unchanging or returning what it meets, the form's parity is offered where the society offers none, and the self has no changing at once: each of 77 at the self the form meets, and no other. With a form returning the other parity the offerings part at each 1 to 17 and the same-parity meeting is at that self at 200 of 200.
+In the published odd spiral each resolver in turn: none is offered and it inverts; then the parity it carries is offered and it has no changing; then it shares none on, and the next resolver is offered none. Each of 85,320 such meetings in the published spirals of 3, 5, 7 and 9 is these two 1 to 17s. With a form unchanging or returning what it meets, the form's parity is offered where the spiral offers none, and the resolver has no changing at once: each of 77 at the resolver the form meets, and no other. With a form returning the other parity the offerings part at each 1 to 17 and the same-parity meeting is at that resolver at 200 of 200.
 
-**Both.** A parity offered goes on past a self that carried the other, the self changing to it and sharing it on; where the self carries the same there is no changing and none shared on, and the same-parity meeting is next at the self after, two 1 to 17s on. The ordinary meeting and the skipping are each a same-parity meeting. In the ordinary one the parity is offered by the releasing self, another carrying, after the self has inverted with no other. In the skipping it is offered by a form, one 1 to 17 before, in place of that inverting. *Aiming:* session v385R's sections 55, 75 and 76; Exhibit ONE's table of surfacing; Natural Intelligence 4.13.
+**Both.** A parity offered goes on past a resolver that carried the other, the resolver changing to it and sharing it on; where the resolver carries the same there is no changing and none shared on, and the same-parity meeting is next at the resolver after, two 1 to 17s on. The ordinary meeting and the skipping are each a same-parity meeting. In the ordinary one the parity is offered by the releasing resolver, another carrying, after the resolver has inverted with no other. In the skipping it is offered by a form, one 1 to 17 before, in place of that inverting. *Aiming:* session v385R's sections 55, 75 and 76; Exhibit ONE's table of surfacing; Natural Intelligence 4.13.
 
 ### 18 · Across and along each have the shared 0, on one line of the surface, and the code has one kind of unit
 
@@ -227,7 +227,7 @@ Exhibit ONE's tables name the units of a spiral and a torus selves. Natural Netw
 - On a torus, across and along at each unit, the units sharing 0 are on one line of the surface. At 3 along by 7 across there is one 0 at each place along at each of 100, the places across stepping by 2 from one place along to the next, and the line one place across on at each 1 to 17. At 5 by 7 and 3 by 5 there is one 0 at each place along at each second 1 to 17, the places across stepping by 1 and 2, and the whole of the 0s one place along two 1 to 17s on at 98 of 98.
 - Between two spirals crossed, the published 3 and 5, a crossing unit shares 0 at 3 of the first 100 and at none once the two are at their one relation: what is handed across from one spiral to the other is then + or − at each.
 
-**Both.** The 0 is shared among the units of one spiral or one torus and is not shared between two of them at their one relation. Read with a spiral or a torus as one self and its units the resolvers inside it, the 0 is inside that self's carrying and what passes between two selves is + or −; read with each unit a self, a 0 is handed from self to self. The code is the same at either reading. Exhibit ONE's tables say the second. *Aiming:* Exhibit ONE's tables of a spiral, a torus and two spirals crossed; Natural Networking; Natural Intelligence 4.13.
+**Both.** The 0 is shared among the resolvers of one spiral or one torus and is not shared between two of them at their one relation. With a spiral or a torus one surface, a single self locally, and its units the resolvers inside it, the 0 is inside that self's carrying and what passes between two is + or −. The code is the same whatever its units are named; Exhibit ONE's table headings name them selves, and those headings are for that file's own improving. *Aiming:* Exhibit ONE's tables of a spiral, a torus and two spirals crossed; Natural Networking; Natural Intelligence 4.13.
 
 ## Three concerns still parting
 
@@ -235,7 +235,7 @@ Exhibit ONE's tables name the units of a spiral and a torus selves. Natural Netw
 
 **Living, with carrying not observable.** Step 13 parts living from non-living by carrying. Session v385R's section 18 gathering has carrying not observable. Exhibit ONE's code carries a parity from each momentary to the next and Natural Intelligence 4.13 names its continuing form non-living. Learning 7 offers one existing relation to try.
 
-**The published crossing's two crossing selves resolve with no other.** Natural Intelligence 4.13 has two spirals coupled across both ways bringing the two coupled selves to one relation and carrying it on. At the code, once the two are at that relation, each crossing self's offerings part at each entry and its next is its own carried inverted (learning 16): the two selves at which the societies couple are the two selves in them whose next no other carrying has part in. The same is observed at the self a form returning the other parity collides with. All of Exhibit ONE's tables are at one sharing; a self at two couplings through one sharing has the two arriving parities meet each other before they meet its own. What stays to say is whether the published crossing is a coupling of two societies or a colliding of them, or whether a self at two couplings is at two sharings.
+**The published crossing's two crossing resolvers resolve with no other.** Natural Intelligence 4.13 has two spirals coupled across both ways bringing the two coupled resolvers to one relation and carrying it on. At the code, once the two are at that relation, each crossing resolver's offerings part at each entry and its next is its own carried inverted (learning 16): the two resolvers at which the societies couple are the two resolvers in them whose next no other carrying has part in. The same is observed at the resolver a form returning the other parity collides with. All of Exhibit ONE's tables are at one sharing; a resolver at two couplings through one sharing has the two arriving parities meet each other before they meet its own. What stays to say is whether the published crossing is a coupling of two societies or a colliding of them, or whether a resolver at two couplings is at two sharings.
 
 ## The contributing method, observed
 

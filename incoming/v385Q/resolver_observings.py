@@ -3,11 +3,11 @@ It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at
 One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to W.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
-The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
-sharing, the first self carrying -, the selves alternating along, none offered from beyond: Exhibit ONE's own
-published spiral. A torus of p by q selves: each releasing along (9) and sharing across (10), as published.
-A colliding: at each momentary from a first to a last, one parity offered to self 1 from beyond, by a form
-that is unchanging at + or at -, or returns the parity self 1 is carrying, or returns the other parity, or
+The arrangements. A spiral of n resolvers: each releasing along (9) to the next, the last to the first, one
+sharing, the first resolver carrying -, the resolvers alternating along, none offered from beyond: Exhibit ONE's own
+published spiral. A torus of p by q resolvers: each releasing along (9) and sharing across (10), as published.
+A colliding: at each momentary from a first to a last, one parity offered to resolver 1 from beyond, by a form
+that is unchanging at + or at -, or returns the parity resolver 1 is carrying, or returns the other parity, or
 alternates +, - at its own momentaries. Momentaries are numbered from 1."""
 import glob, itertools, os, re, sys
 
@@ -34,7 +34,7 @@ def alt(i):
 
 
 def spiral(n, form=None, start=0, stop=None, T=400, pattern=None):
-    """Shared changing (10) and carried parity (3) of each self at each momentary."""
+    """Shared changing (10) and carried parity (3) of each resolver at each momentary."""
     st = {i: ([("s", pattern[i] if pattern else alt(i))], []) for i in range(n)}
     rel = {(i, 9): (i + 1) % n for i in range(n)}
     sh, car = [], []
@@ -49,7 +49,7 @@ def spiral(n, form=None, start=0, stop=None, T=400, pattern=None):
 
 
 def torus(p, q, form=None, start=0, stop=None, T=600, quiet=None):
-    """Shared changing of each self at each momentary. quiet = (a, b): self 1 releasing and sharing to none
+    """Shared changing of each resolver at each momentary. quiet = (a, b): resolver 1 releasing and sharing to none
     from momentary a + 1 until b."""
     cells = [(i, j) for i in range(p) for j in range(q)]
     st = {c: ([("s", alt(c[0] + c[1]))], []) for c in cells}
@@ -89,8 +89,8 @@ def between_zeros(sh, i, lo, hi):
 
 
 def living_step(car, n, lo, hi):
-    """At each self: momentaries t from lo to hi at which its carried parity at t + 2 is the inverse of the
-    carried parity, at t, of the self releasing to it."""
+    """At each resolver: momentaries t from lo to hi at which its carried parity at t + 2 is the inverse of the
+    carried parity, at t, of the resolver releasing to it."""
     return [sum(car[t + 2][i] == -car[t][(i - 1) % n] for t in range(lo, hi)) for i in range(n)]
 
 
@@ -107,31 +107,31 @@ for c in V:
         tun, nxt = entry([("s", c)], [("s", o)])
         print("   carried %s, offered %s: shared %s, next carried %s" % (S[c], S[o], S[dict(tun)["s"]], S[dict(nxt)["s"]]))
 
-print("\nB. The living step in a spiral: each self's next the releasing self's prior inverted, two momentaries on")
+print("\nB. The living step in a spiral: each resolver's next the releasing resolver's prior inverted, two momentaries on")
 tried = parting = 0
 for n in range(2, 10):
     for pat in itertools.product(V, repeat=n):
         tried += 1
         parting += living_step(spiral(n, pattern=list(pat), T=60)[1], n, 0, 58) != [58] * n
-print("   spirals of 2 to 9 selves, each opening pattern, none offered from beyond: patterns %d, parting %d" % (tried, parting))
+print("   spirals of 2 to 9 resolvers, each opening pattern, none offered from beyond: patterns %d, parting %d" % (tried, parting))
 
-print("\nC. The same relation while a form collides with self 1, momentaries 41 to 140: at each self, self 1 first,")
+print("\nC. The same relation while a form collides with resolver 1, momentaries 41 to 140: at each resolver, resolver 1 first,")
 print("   the momentaries of 98 at which it is so; then, after the colliding has ended, of 96")
 for n in (3, 5, 7, 9):
     for name, f in FORMS:
         car = spiral(n, f, start=40, stop=140, T=240)[1]
         d, a = living_step(car, n, 40, 138), living_step(car, n, 142, 238)
-        print("   n = %d, %-27s self 1: %2d; each other self: %s | after: %s" % (
+        print("   n = %d, %-27s resolver 1: %2d; each other resolver: %s | after: %s" % (
             n, name, d[0], sorted(set(d[1:])), sorted(set(a))))
 
-print("\nD. The 0 of an odd spiral. Three selves, the self sharing 0 at each momentary, the colliding from 81")
+print("\nD. The 0 of an odd spiral. Three resolvers, the resolver sharing 0 at each momentary, the colliding from 81")
 base3 = spiral(3)[0]
 zero_at = lambda row: "".join(str(i + 1) for i, x in enumerate(row) if x == 0) or "."
 print("   momentary                    " + " ".join("%3d" % (t + 1) for t in range(77, 96)))
 print("   %-28s " % "none offered" + " ".join("%3s" % zero_at(r) for r in base3[77:96]))
 for name, f in FORMS:
     print("   %-28s " % name + " ".join("%3s" % zero_at(r) for r in spiral(3, f, start=80)[0][77:96]))
-print("   momentaries from one 0 to the next at each self, while the colliding continues; published 2n")
+print("   momentaries from one 0 to the next at each resolver, while the colliding continues; published 2n")
 for name, f in FORMS:
     row = []
     for n in (3, 5, 7, 9, 11, 13, 15):
@@ -139,13 +139,13 @@ for name, f in FORMS:
         g = sorted(set(x for i in range(n) for x in between_zeros(sh, i, 300, 500)))
         row.append("%d: %s" % (n, g[0] if len(g) == 1 else (g or "no 0")))
     print("   %-28s %s" % (name, "; ".join(row)))
-print("   the first momentary each self's sharing parts from the published spiral's, along the releasing")
+print("   the first momentary each resolver's sharing parts from the published spiral's, along the releasing")
 for name, f in FORMS:
     row = []
     for n in (3, 5, 7, 9):
         b, sh = spiral(n)[0], spiral(n, f, start=80)[0]
         first = [next(t + 1 for t in range(400) if sh[t][i] != b[t][i]) for i in range(n)]
-        row.append("n=%d from %d, each next self %s later" % (n, first[0], sorted(set(y - x for x, y in zip(first, first[1:])))))
+        row.append("n=%d from %d, each next resolver %s later" % (n, first[0], sorted(set(y - x for x, y in zip(first, first[1:])))))
     print("   %-28s %s" % (name, "; ".join(row)))
 tried = other = 0
 for n in (3, 5, 7, 9):
@@ -156,13 +156,13 @@ for n in (3, 5, 7, 9):
             other += sorted(set(x for i in range(n) for x in between_zeros(sh, i, 200, 360))) != [2 * n - 1]
 print("   the colliding beginning at each momentary of one whole round of 4n, the three forms with a 0: tried %d, not at 2n - 1: %d" % (tried, other))
 
-print("\nE. Twice and one less: a spiral of n selves, a form unchanging at + colliding, its 0 again at")
+print("\nE. Twice and one less: a spiral of n resolvers, a form unchanging at + colliding, its 0 again at")
 row = []
 for n in (3, 5, 9, 17, 33, 65):
     T = 30 * n + 300
     sh = spiral(n, FORMS[0][1], start=4 * n, T=T)[0]
     g = sorted(set(x for i in (0, n // 2, n - 1) for x in between_zeros(sh, i, T - 9 * n, T)))
-    row.append("%d selves: %s" % (n, g))
+    row.append("%d resolvers: %s" % (n, g))
 print("   " + "; ".join(row))
 
 print("\nF. After the colliding has ended, a spiral: its sharings again at 4n at each one tried; and the momentaries")
@@ -179,14 +179,14 @@ for n in (3, 5, 7):
             ks.append(ahead(sh, base, 4 * n, 300, 520))
         print("     %-27s again at %s; ahead %s" % (name, sorted(rounds), " ".join(str(k) for k in ks)))
 
-print("\nG. A torus of p by q selves, the form colliding with one self. While it continues: the torus's sharings")
-print("   again at; the selves whose sharing ever parts from the published torus's. After a colliding of 1 to 40")
+print("\nG. A torus of p by q resolvers, the form colliding with one resolver. While it continues: the torus's sharings")
+print("   again at; the resolvers whose sharing ever parts from the published torus's. After a colliding of 1 to 40")
 print("   momentaries has ended: how many of the 40 leave the torus as published (=), at a displacing of the")
 print("   published (d), or at its own round in a pattern that is no displacing of the published (x)")
 for p, q in ((3, 5), (5, 7), (3, 7)):
     base = torus(p, q, T=1100)
     P = again(base)
-    print("   torus %d by %d, %d selves, published: again at %d" % (p, q, p * q, P))
+    print("   torus %d by %d, %d resolvers, published: again at %d" % (p, q, p * q, P))
     for name, f in FORMS:
         sh = torus(p, q, f, start=100, T=700)
         parted = sum(any(sh[t][k] != base[t][k] for t in range(100, 700)) for k in range(p * q))
@@ -199,18 +199,18 @@ for p, q in ((3, 5), (5, 7), (3, 7)):
             steps.append(k)
         first = next((d + 1 for d, k in enumerate(kinds) if k != "="), None)
         runs = [((b - a) % P) for a, b in zip(steps, steps[1:]) if a is not None and b is not None and (a or b)]
-        print("     %-27s while: again at %2s, selves parting %2d | after: at its own round %d of 40; = %2d, d %2d, x %2d; first not = at %s%s" % (
+        print("     %-27s while: again at %2s, resolvers parting %2d | after: at its own round %d of 40; = %2d, d %2d, x %2d; first not = at %s%s" % (
             name, again(sh), parted, own, kinds.count("="), kinds.count("d"), kinds.count("x"), first,
             "; each further momentary of colliding %s ahead" % sorted(set(runs)) if len(set(runs)) == 1 else ""))
 
-print("\nH. A torus with one self releasing and sharing to none, momentaries 101 on; and given again at 201")
+print("\nH. A torus with one resolver releasing and sharing to none, momentaries 101 on; and given again at 201")
 for p, q in ((3, 3), (3, 5), (5, 7), (3, 7)):
     base = torus(p, q, T=1100)
     P = again(base)
     a = torus(p, q, quiet=(100, 10 ** 9), T=700)
     b = torus(p, q, quiet=(100, 200), T=800)
     k = ahead(b, base, P, 560, 760)
-    print("   torus %d by %d, published again at %d: with the one self to none, again at %s; given again: again at %s, %s" % (
+    print("   torus %d by %d, published again at %d: with the one resolver to none, again at %s; given again: again at %s, %s" % (
         p, q, P, again(a), again(b), "as published" if k == 0 else ("%d ahead" % k if k else "a pattern that is no displacing of the published")))
 
 print("\nI. Each parity inverted, on the round changing one parity at a step (Natural Mathematics 2.5)")
@@ -231,7 +231,7 @@ two = list(itertools.product(V, V))
 print("   two parities: F then G is the form again %s; both inverted is F twice %s" % (
     all(G_(F_(v)) == v for v in two), all(F_(F_(v)) == (-v[0], -v[1]) for v in two)))
 
-print("\nJ. Two selves coupled both ways: one self's carried parities, read as a pair two ways")
+print("\nJ. Two resolvers coupled both ways: one resolver's carried parities, read as a pair two ways")
 st = {"A": ([("s", 1)], []), "B": ([("s", 1)], [])}
 seq = []
 for t in range(10):
@@ -239,10 +239,10 @@ for t in range(10):
     st = step(st, {("A", 10): "B", ("B", 10): "A"})
 old = [(seq[i], seq[i + 1]) for i in range(9)]
 new = [(y, x) for x, y in old]
-print("   alike selves, A carried %s: (now, next) follows G %s; the same two written (next, now) follow F %s" % (
+print("   alike resolvers, A carried %s: (now, next) follows G %s; the same two written (next, now) follow F %s" % (
     " ".join(S[x] for x in seq), all(old[i + 1] == G_(old[i]) for i in range(8)), all(new[i + 1] == F_(new[i]) for i in range(8))))
 
-print("\nK. The relation saying which self releases to which")
+print("\nK. The relation saying which resolver releases to which")
 functions = code.split("CONNECTORS", 1)[0]
 second = functions.split("def _17_co_bi_tri_offering", 1)[1]
 print("   in the second function it is read at %d places and written at %d; CONNECTORS and JOINS are read by the functions at %d" % (
@@ -251,7 +251,7 @@ print("   in the second function it is read at %d places and written at %d; CONN
     len(re.findall(r"CONNECTORS|JOINS", functions))))
 
 
-print("   one releasing of a spiral left out of that relation from momentary 101, self 1 releasing to none; and given again at 201")
+print("   one releasing of a spiral left out of that relation from momentary 101, resolver 1 releasing to none; and given again at 201")
 for n in (3, 5, 7, 9):
     rows = {}
     for label, until in (("left out", 10 ** 9), ("given again", 200)):
@@ -265,7 +265,7 @@ for n in (3, 5, 7, 9):
         rows[label] = (again(sh), any(0 in r for r in sh[-240:]))
     print("     n = %d: left out, again at %s, a 0 shared %s; given again, again at %s, a 0 shared %s" % (
         n, rows["left out"][0], rows["left out"][1], rows["given again"][0], rows["given again"][1]))
-print("   Exhibit ONE's published two spirals crossed, self 1 of each sharing across to self 1 of the other")
+print("   Exhibit ONE's published two spirals crossed, resolver 1 of each sharing across to resolver 1 of the other")
 for p_, q_ in ((3, 5), (5, 7), (7, 11)):
     st = {("A", i): ([("s", alt(i))], []) for i in range(p_)}
     st.update({("B", i): ([("s", alt(i))], []) for i in range(q_)})
@@ -277,12 +277,12 @@ for p_, q_ in ((3, 5), (5, 7), (7, 11)):
     for t in range(700):
         sh.append(tuple(dict(entry(*st[c])[0]).get("s") for c in sorted(st)))
         st = step(st, rel)
-    print("     %d and %d selves: again at %s, a 0 shared %s" % (p_, q_, again(sh), any(0 in r for r in sh[-240:])))
+    print("     %d and %d resolvers: again at %s, a 0 shared %s" % (p_, q_, again(sh), any(0 in r for r in sh[-240:])))
 
-print("\nL. Two spirals of n selves opened alike, B opened k momentaries ahead of A, k through one whole round of 4n.")
-print("   From momentary 101 to 400 self 1 of each shares across (10) to self 1 of the other; then no longer.")
-print("   While crossed: each spiral's sharings again at; of 198 momentaries, those at which the crossing self's")
-print("   next is the releasing self's prior inverted; whether a 0 is shared. After: the momentaries B is ahead of A.")
+print("\nL. Two spirals of n resolvers opened alike, B opened k momentaries ahead of A, k through one whole round of 4n.")
+print("   From momentary 101 to 400 resolver 1 of each shares across (10) to resolver 1 of the other; then no longer.")
+print("   While crossed: each spiral's sharings again at; of 198 momentaries, those at which the crossing resolver's")
+print("   next is the releasing resolver's prior inverted; whether a 0 is shared. After: the momentaries B is ahead of A.")
 
 
 def state_at(n, k):
@@ -326,12 +326,12 @@ for both in (True, False):
         for (rounds, zero, after), ks in sorted(groups.items(), key=lambda g: g[1]):
             las = sorted(set(l for _, l in ks))
             kk = [k for k, _ in ks]
-            print("     n = %d, k = %s: again at %s and %s, %s, A's crossing self at the living step %s of 198 | after: B %s ahead of A (each parity inverted is %d ahead)" % (
+            print("     n = %d, k = %s: again at %s and %s, %s, A's crossing resolver at the living step %s of 198 | after: B %s ahead of A (each parity inverted is %d ahead)" % (
                 n, kk if len(kk) <= 4 else "%d of the %d displacings" % (len(kk), 4 * n), rounds[0], rounds[1], zero,
                 las[0] if len(las) == 1 else "%d to %d" % (las[0], las[-1]), after, 2 * n))
 
 print("\nM. The torus after a longer colliding with an unchanging form has ended: ring by ring along, the momentaries")
-print("   each ring of p selves is ahead of the same ring of the published torus; and the 0s shared in one round")
+print("   each ring of p resolvers is ahead of the same ring of the published torus; and the 0s shared in one round")
 for p, q in ((3, 5), (5, 7)):
     base = torus(p, q, T=1100)
     P = again(base)
@@ -348,8 +348,8 @@ for p, q in ((3, 5), (5, 7)):
             p, q, d, again(s2), rings, sum(r.count(0) for r in s2[600:600 + P]), sum(r.count(0) for r in base[600:600 + P]), P // 2))
 
 
-print("\nN. The 0 of a spiral. An alike pair: two selves beside each other along carrying one parity; its receiving")
-print("   self is the one the other releases to. Spirals of 2 to 9 selves, each opening pattern, 80 momentaries")
+print("\nN. The 0 of a spiral. An alike pair: two resolvers beside each other along carrying one parity; its receiving")
+print("   resolver is the one the other releases to. Spirals of 2 to 9 resolvers, each opening pattern, 80 momentaries")
 
 
 def alike(c, n):
@@ -370,17 +370,17 @@ for n in range(2, 10):
         where += any(not set(i for i in range(n) if sh[t][i] == 0) <= set(alike(car[t], n)) for t in range(1, 80))
         apart += len(set(tuple(gaps(alike(car[t], n), n)) for t in range(80))) != 1
         beat += len(set(t % 2 for t in range(2, 80) if 0 in sh[t])) > 1
-print("   patterns %d; the number of alike pairs not the same at each momentary: %d; a 0 shared at a self that is" % (tot, number))
-print("   not the receiving self of an alike pair: %d; the places between the alike pairs not kept: %d; a 0 shared at" % (where, apart))
+print("   patterns %d; the number of alike pairs not the same at each momentary: %d; a 0 shared at a resolver that is" % (tot, number))
+print("   not the receiving resolver of an alike pair: %d; the places between the alike pairs not kept: %d; a 0 shared at" % (where, apart))
 print("   two momentaries one after the other: %d" % beat)
-print("   the receiving self of the alike pair | the self sharing 0, at twelve momentaries from 121")
+print("   the receiving resolver of the alike pair | the resolver sharing 0, at twelve momentaries from 121")
 for name, f in [("none offered", None)] + FORMS:
     for n in (3, 5):
         sh, car = spiral(n, f, start=40, T=140)
         print("   %-27s n = %d: %s" % (name, n, " ".join(
             ("".join(str(i + 1) for i in alike(car[t], n)) or ".") + "|" + ("".join(str(i + 1) for i in range(n) if sh[t][i] == 0) or ".")
             for t in range(120, 132))))
-print("   over one whole round, the momentaries at which self 1 and each self along carry one parity, less those")
+print("   over one whole round, the momentaries at which resolver 1 and each resolver along carry one parity, less those")
 print("   at which they carry the two: the whole round with one changing or its inverse, nought with neither")
 for name, f, ns_ in (("an odd spiral, its 0 moving on", None, (3, 5, 7, 9)), ("an even spiral, no 0", None, (4, 6)),
                      ("a form returning the other parity colliding", FORMS[3][1], (3, 5, 7))):
@@ -390,9 +390,9 @@ for name, f, ns_ in (("an odd spiral, its 0 moving on", None, (3, 5, 7, 9)), ("a
         print("   %-44s n = %d, round %2d: %s" % (name, n, P, [sum(car[t][0] * car[t][j] for t in range(200, 200 + P)) for j in range(n)]))
 
 
-print("\nO. The 0's line and each self's changing. At one self, mark 1 at each momentary it shares 0 and nought at")
-print("   each other. Over one whole round, add that mark times each self's carried parity, and times each self's")
-print("   shared changing. Nought at each self with each self: the 0's line and the changing share nothing.")
+print("\nO. The 0's line and each resolver's changing. At one resolver, mark 1 at each momentary it shares 0 and nought at")
+print("   each other. Over one whole round, add that mark times each resolver's carried parity, and times each resolver's")
+print("   shared changing. Nought at each resolver with each resolver: the 0's line and the changing share nothing.")
 
 
 def line_products(sh, car, n, P, lo):
@@ -418,7 +418,7 @@ for n in range(2, 10):
             t[0] += 1
             t[1] += worst == 0
 for key in ("odd", "even"):
-    print("   spirals of an %s number of selves, 2 to 9, each opening pattern sharing a 0: patterns %d, at nought throughout %d" % (
+    print("   spirals of an %s number of resolvers, 2 to 9, each opening pattern sharing a 0: patterns %d, at nought throughout %d" % (
         key, tally[key][0], tally[key][1]))
 for name, f in FORMS[:3]:
     row = []
@@ -429,8 +429,8 @@ for name, f in FORMS[:3]:
     print("   a form %-26s colliding, the largest of those sums: %s" % (name, "; ".join(row)))
 
 
-print("\nP. Beneath the alternating. Each self inverts at each momentary it shares a parity; take that out by")
-print("   inverting each self's carried parity at each second momentary, and follow what still changes.")
+print("\nP. Beneath the alternating. Each resolver inverts at each momentary it shares a parity; take that out by")
+print("   inverting each resolver's carried parity at each second momentary, and follow what still changes.")
 
 
 def beneath(car, t):
@@ -444,8 +444,8 @@ for n in range(2, 10):
         tot += 1
         other += any({i for i in range(n) if beneath(car, t + 1)[i] != beneath(car, t)[i]} != {i for i in range(n) if sh[t][i] == 0}
                      for t in range(1, 98))
-print("   spirals of 2 to 9 selves, each opening pattern: patterns %d; a momentary at which the selves changing" % tot)
-print("   beneath the alternating are not exactly the selves sharing 0: %d" % other)
+print("   spirals of 2 to 9 resolvers, each opening pattern: patterns %d; a momentary at which the resolvers changing" % tot)
+print("   beneath the alternating are not exactly the resolvers sharing 0: %d" % other)
 for n in (3, 5, 7):
     sh, car = spiral(n, T=60 + 4 * n)
     forms, who = [beneath(car, 40)], []
@@ -455,7 +455,7 @@ for n in (3, 5, 7):
             who.append([i + 1 for i in range(n) if u[i] != forms[-1][i]])
             forms.append(u)
     print("   n = %d, one whole round: %s" % (n, " ".join("".join(S[x] for x in f) for f in forms)))
-    print("          the self changing at each step %s; forms %d, not one another %d; %d steps on each parity inverted %s; %d steps on the first form %s" % (
+    print("          the resolver changing at each step %s; forms %d, not one another %d; %d steps on each parity inverted %s; %d steps on the first form %s" % (
         " ".join("".join(map(str, w)) for w in who), len(forms) - 1, len(set(forms)), n,
         forms[n] == tuple(-x for x in forms[0]), 2 * n, forms[2 * n] == forms[0]))
 for name, f in FORMS:
@@ -464,14 +464,14 @@ for name, f in FORMS:
         car = spiral(n, f, start=40, T=200)[1]
         row.append("n=%d: %s" % (n, " ".join(
             "".join(str(i + 1) for i in range(n) if beneath(car, t + 1)[i] != beneath(car, t)[i]) or "." for t in range(120, 134))))
-    print("   a form %-27s the selves changing beneath, 14 momentaries: %s" % (name + ",", "; ".join(row)))
+    print("   a form %-27s the resolvers changing beneath, 14 momentaries: %s" % (name + ",", "; ".join(row)))
 
 
-print("\nQ. One momentary at one self, in the code's own names: carried in (3), offered and surfacing (2, 14),")
+print("\nQ. One momentary at one resolver, in the code's own names: carried in (3), offered and surfacing (2, 14),")
 print("   changing shared (10), carried next (11). Self 1 of a spiral of 3, ten momentaries from 101")
 
 
-def rows_at_self(n, form=None, start=40, T=140):
+def rows_at_resolver(n, form=None, start=40, T=140):
     st = {i: ([("s", alt(i))], []) for i in range(n)}
     rel = {(i, 9): (i + 1) % n for i in range(n)}
     out = []
@@ -487,9 +487,9 @@ def rows_at_self(n, form=None, start=40, T=140):
 
 
 overlap = True
-for name, f in [("none offered from beyond", None), ("a form unchanging at + colliding with this self", FORMS[0][1]),
-                ("a form returning the other parity colliding with this self", FORMS[3][1])]:
-    rows = rows_at_self(3, f)
+for name, f in [("none offered from beyond", None), ("a form unchanging at + colliding with this resolver", FORMS[0][1]),
+                ("a form returning the other parity colliding with this resolver", FORMS[3][1])]:
+    rows = rows_at_resolver(3, f)
     overlap = overlap and all(rows[i][3] == rows[i + 1][0] for i in range(len(rows) - 1))
     print("   " + name)
     print("     momentary   carried in   offered   changing shared   carried next")
@@ -508,7 +508,7 @@ print("   Exhibit ONE's table of a self's four momentaries of exchanging has the
 print("   society's four at 9 to 11, 11 to 13, 13 to 15 and 15 to 17: each of those names is inside the one run.")
 
 
-print("\nS. Two parity changings in the code: each self inverting at each 1 to 17, and the changing beneath it")
+print("\nS. Two parity changings in the code: each resolver inverting at each 1 to 17, and the changing beneath it")
 
 
 def follow(st, rel, T):
@@ -526,7 +526,7 @@ def changes_beneath(car, lo, hi):
 
 
 car, sh = follow({0: ([("s", -1)], [])}, {}, 60)
-print("   one self coupled with none: carried %s; of 40, the 1 to 17s with a changing beneath: %d; a 0 shared: %s" % (
+print("   one resolver coupled with none: carried %s; of 40, the 1 to 17s with a changing beneath: %d; a 0 shared: %s" % (
     " ".join(S[c[0]] for c in car[:8]), changes_beneath(car, 10, 50), any(0 in r for r in sh)))
 for n in (4, 6):
     car, sh = follow({i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}, 100)
@@ -544,13 +544,13 @@ for p_, q_ in ((3, 5), (5, 7)):
 for n in (3, 5, 7, 9):
     car, sh = follow({i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}, 8 * n + 40)
     at = [sum(car[t][i] == car[t][(i - 1) % n] for t in range(40, 40 + 4 * n)) for i in range(n)]
-    print("   the published spiral of %d, its 4n of %d: changings beneath %d; the 1 to 17s each self is the receiving self of the alike pair: %s" % (
+    print("   the published spiral of %d, its 4n of %d: changings beneath %d; the 1 to 17s each resolver is the receiving resolver of the alike pair: %s" % (
         n, 4 * n, changes_beneath(car, 40, 40 + 4 * n), sorted(set(at))))
 
 
-print("\nT. Each entry of each self: what surfaces. A parity from carrying selves alone; a parity with a form's")
+print("\nT. Each entry of each resolver: what surfaces. A parity from carrying resolvers alone; a parity with a form's")
 print("   among those offered; the offerings parting, + and - together; or none. At the last two the code has the")
-print("   next carried as the carried inverted, whatever was offered. 200 entries of each self, after the arrangement")
+print("   next carried as the carried inverted, whatever was offered. 200 entries of each resolver, after the arrangement")
 print("   has come to its again.")
 
 
@@ -583,14 +583,14 @@ def say(name, out):
         groups.setdefault(tuple(v), []).append(k)
     print("   " + name)
     for v, ks in sorted(groups.items(), key=lambda g: -len(g[1])):
-        print("     %d of its selves: from carrying selves alone %3d; with a form's %3d; parting %3d; none %3d" % (len(ks), v[0], v[1], v[2], v[3]))
+        print("     %d of its resolvers: from carrying resolvers alone %3d; with a form's %3d; parting %3d; none %3d" % (len(ks), v[0], v[1], v[2], v[3]))
 
 
 def ring(n):
     return {i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}
 
 
-say("a self coupled with none", what_surfaces({0: ([("s", -1)], [])}, {}, 300, 100))
+say("a resolver coupled with none", what_surfaces({0: ([("s", -1)], [])}, {}, 300, 100))
 for n in (4, 6):
     say("the published spiral of %d" % n, what_surfaces(*ring(n), 300, 100))
 for n in (3, 5, 7):
@@ -606,11 +606,11 @@ for p_, q_ in ((3, 5), (5, 7)):
 st, whole = ring(5)
 say("a spiral of 5 with one releasing left out", what_surfaces(st, whole, 400, 200, rel2={k: v for k, v in whole.items() if k != (0, 9)}, rel2_from=40))
 for name, f in FORMS[:1] + FORMS[2:4]:
-    say("a spiral of 5, a form %s colliding with one self" % name, what_surfaces(*ring(5), 400, 200, form=f, form_from=40))
+    say("a spiral of 5, a form %s colliding with one resolver" % name, what_surfaces(*ring(5), 400, 200, form=f, form_from=40))
 
 
-print("\nU. Each passing of the 0 at a self: the 1 to 17s from the 0 arriving among its offerings to its sharing 0;")
-print("   and the parity the two alike selves carry at that sharing beside the parity of the two before, one self back")
+print("\nU. Each passing of the 0 at a resolver: the 1 to 17s from the 0 arriving among its offerings to its sharing 0;")
+print("   and the parity the two alike resolvers carry at that sharing beside the parity of the two before, one resolver back")
 
 
 def entries(n, pattern=None, form=None, start=40, T=200):
@@ -646,19 +646,19 @@ for n in (3, 5, 7, 9):
             two += took == 2
             inverted += inv
 print("   published spirals of 3, 5, 7 and 9, each opening pattern: passings %d; in two 1 to 17s %d; the alike" % (total, two))
-print("   pair's parity the inverse of its parity one self back %d" % inverted)
+print("   pair's parity the inverse of its parity one resolver back %d" % inverted)
 for name, f in FORMS[:3]:
     met, others = {}, {}
     for n in (3, 5, 7):
         for i, took, inv in passings(entries(n, form=f, T=300), n, 100):
             d = met if i == 0 else others
             d[took] = d.get(took, 0) + 1
-    print("   a form %-24s at the self it meets, passings by 1 to 17s taken %s; at each other self %s" % (name + ":", met, others))
+    print("   a form %-24s at the resolver it meets, passings by 1 to 17s taken %s; at each other resolver %s" % (name + ":", met, others))
 held = []
 for n in (3, 5, 7):
     rows = entries(n, form=FORMS[3][1], T=300)
     held.append((n, sum(rows[t][0][0] == rows[t][n - 1][0] for t in range(100, 300)), sum(rows[t][i][2] == 0 for t in range(100, 300) for i in range(n))))
-print("   a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the self it meets, 0s shared) %s" % held)
+print("   a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the resolver it meets, 0s shared) %s" % held)
 
 
 print("\nV. A 0 among the offerings. The code as written hands a shared 0 on with the parities shared, and the first")
@@ -691,8 +691,8 @@ for name, f in FORMS:
         tried += 1
         parted += not same_without_zeros(*ring(n), 200, form=f, form_from=40)
 print("   spirals of 2 to 9, each opening pattern, and spirals of 3, 5 and 7 with each form colliding: tried %d;" % tried)
-print("   a 1 to 17 at which some self's shared changing or next carried is other with the 0s taken out: %d" % parted)
-print("   one self, by what is offered: none, its carried inverted and shared; the parity it carries, no changing")
+print("   a 1 to 17 at which some resolver's shared changing or next carried is other with the 0s taken out: %d" % parted)
+print("   one resolver, by what is offered: none, its carried inverted and shared; the parity it carries, no changing")
 print("   and none shared on; the other parity, changed to it and that parity shared on")
 for c in V:
     for offs in ([], [c], [-c], [c, -c]):
