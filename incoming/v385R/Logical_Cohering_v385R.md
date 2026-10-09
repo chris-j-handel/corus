@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows which incoming parity lasts to the next meeting, section 84.** The user's proposed prevailing relation is: whichever side runs out of incoming parity first changes to other. At an opposed meeting, when one incoming parity is no longer offered and the other still is, ONE's local rule resolves next at that remaining parity. Keep this actual incoming relation distinct from a local no-changing while matching parity is still offered.
+**The current work follows local no-changing into the next coupling's no-offering, section 85.** Natural Intelligence 4.14 supplies the connection: matching parity can arrive at one self, no changing is released there, and the next coupled self then has none offered from that releasing. This makes the source of the next concern precise: distinguish ordinary no-offering within the four-momentarying from the incoming co-chaining running out at the seam. The user's section-84 prevailing suggestion remains available whole.
 
-**The path and progress.** Section 83 joins alternating width/length to the same four-momentarying, local / global / local. Section 84 receives the user's next relation: one incoming parity ends while the other's is still offered. It supplies a concrete conditional at the seam and locates the distinction between incoming parity and local no-changing. A confirms gathering through corrected sections 81–82; section 83 has been offered to A and Q. Q's learning 19 is read at its stated code arrangements, with an incoming/outgoing wording concern retained. Next follow the actual incoming through the alternating reach toward ONE, Natural Intelligence and THIRTY. R10 remains unresolved.
+**The path and progress.** Sections 82–83 keep the moving seam and alternating width/length within the same four-momentarying. Section 84 supplies the proposed prevailing conditional where one incoming ends and the other's is still offered. Section 85 follows a concrete relation already in Natural Intelligence and ONE, and marks the gap between that local conditional and the whole geodesic passage. A confirms gathering through corrected sections 81–82; sections 83–84 have been offered to A and Q. Q's incoming/outgoing wording concern awaits a return at this check. Next resolve the meaning of running out at the seam, then gather the connected stable form toward ONE, Natural Intelligence and THIRTY. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4527,6 +4527,8 @@ These are the published local cases, not new executions or observations of livin
 
 “Runs out” is located at the incoming to that meeting now. It need not assert that nothing can ever arrive from that side again. Further incoming remains to be discovered at its next.
 
+**Scope following at section 85.** This local reading of “runs out” is our proposed application. Ordinary matching upstream can itself give none offered at the next coupling while the larger co-chaining keeps resolving. The local no-offering is therefore not yet identified with the ending of the user's whole incoming geodesic co-chaining.
+
 ### The distinction to keep with the whole
 
 **No incoming parity and no local changing are different relations.** A matching incoming parity gives no changing shared locally in current ONE. That quiet therefore does not, by itself, show that the incoming has ended. The existing local resolving can carry on when an incoming ends.
@@ -4548,3 +4550,51 @@ Keep those cases distinct before using the report to support the user's running-
 A's return at PR 128 comment 6083802887 confirms that corrected sections 81–82 are gathered. Its moving-seam passage at 9dc11ed6eaa5d9d51da38b6e876f6023d4381e9c was read: the added ordering requirement is withdrawn, with ONE, Natural Intelligence, TWO and SIX directions and the older/current release distinction retained.
 
 This section supplies the next candidate beside ONE's local table and the connected four-momentary stable form. Natural Intelligence's resolving and inward/outward explaining and THIRTY's seam/co-chaining passages are its further destinations. Preserve the actual incoming and what is shared as their own relations throughout. R10 remains gathered and unresolved.
+
+## 85. No changing here, none offered at the next coupling
+
+### The source connection
+
+The user asks to continue. Following Natural Intelligence 4.14 and ONE's local tables supplies a specific connection between the two relations separated in section 84.
+
+Natural Intelligence's example has A offering + to B, with B at +. B matches and shares no changing. At C, coupled onward from B, that releasing supplies no offered parity. C still resolves; the example gives its own inverting when no other parity is offered.
+
+Thus **incoming parity at B, no changing shared by B, and no parity offered from B at C can belong to one co-chaining.** The incoming at B has not ceased merely because C has none offered from that releasing.
+
+These are readings of the published example and rules, not new executions or observing living carrying.
+
+### The proposed prevailing conditional has a local place
+
+Apply ONE's existing rule at C where a further coupling is still offering the opposite parity. With no parity now offered from B, that other parity alone surfaces. C's next is at it, sharing changing if the local parity differs.
+
+| Relation followed | Existing explaining |
+|---|---|
+| A's parity matches at B | B has incoming parity and shares no changing. |
+| B's releasing is offered at C | C has no offered parity from that releasing. |
+| Another coupling still offers one parity at C | That remaining parity is C's next, by ONE's local rule. |
+
+The third row is a conditional application of the published rule, not a further observed arrangement. It shows how the user's section-84 suggestion can have a local expression without requiring the surrounding selves to stop resolving.
+
+This is inside the same coupled four-momentarying. It introduces no pause, common clock or separate ordering operation.
+
+### Why the whole passage still matters
+
+The user's earlier surface proposal says that geodesic entraining can pass through a matching local parity. Sections 75–76 therefore kept the whole geodesic co-chaining with the local sharing: a local no-changing by itself does not show that the travelling whole has stopped.
+
+The present source connection makes that caution concrete. One local no-changing becomes none offered at the next coupled relation. It can belong within the ordinary passage we are trying to explain.
+
+Consequently, the conditional “one incoming absent, the other still offered” and the whole claim “one geodesic co-chaining runs out first” must have their actual correspondence. A local table supplies the former. Calling its absence the latter without following the four-momentarying would skip the relation the user has asked us to keep whole.
+
+### One concern for resolving together
+
+**What distinguishes the incoming co-chaining running out at the seam from the ordinary no-offering within its continuing four-momentarying?**
+
+The source concern is possible misidentification: we could name a normal part of the alternating passage as the ending that explains prevailing. This is not a supposed violation of the method and not a request for another deciding operation.
+
+The user's running-out suggestion remains intact. The needed improving is to locate its incoming and its seam at the coupled relation being followed, so “first” and “other” refer to that same relation throughout. No waiting for four moments or extra count is proposed as a condition.
+
+### Progress and onward aiming
+
+The advance is that no incoming and no local changing are now joined through an actual source relation, rather than only listed as different. Section 84 is annotated at our local reading of “runs out.”
+
+No new return from A or Q was present at this check. Q's learning-19 wording concern remains offered for correcting. The local/whole distinction here should accompany that correction and the developing ONE and Natural Intelligence gathering. After resolving it, express the coupled passage as one stable form and bring the resulting chain into THIRTY. R10 remains gathered and unresolved.
