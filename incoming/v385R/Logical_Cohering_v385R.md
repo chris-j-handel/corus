@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows existing jittering and still-possibling new tunneling, section 73.** TWO connects an across meeting to a self's further along resolving and to what meets the next coupling. It distinguishes those local changings from a complete passage through society. A candidate joining the user's suggestions is that jittering is existing parity changing at the surrounding couplings while the new tunneling is still possibling. Next follow the across-and-along co-chaining by which that wider new tunneling is existing.
+**The current work follows bi-couplings slipping through the other side's unchangings, section 74.** The user's further suggestion supplies the first flowing bi-couplings through which new bi-tunneling is discovered; the longer co-chainings do not jump-switch ahead of that flow. This makes section 73's local-to-society passage more particular. Next identify the relation that stays unchanging on the other side and join it to the existing/still-possibling explaining, keeping the first flow distinct from the longer co-chaining.
 
-**The path and progress.** Sections 44–72 gather the full surface sequence through backing up, jittering and new tunneling, with the old surface's restoring kept at its own subject. Section 73 locates the unfinished local-to-society relation in TWO and offers the existing/still-possibling connection for resolving together. Next follow the whole passage from the surrounding couplings into the new tunneling, then carry that into THIRTY's fractal social moral competency and the full podaling. A's latest confirmed gathering is through sections 68–69; sections 70–72 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–73 gather colliding, healing, backing up, jittering and the proposed new tunneling. Section 74 supplies the user's first-flowing bi-couplings through the other side's unchangings, before the longer co-chainings switch. Next follow the unchanged relation at that coupling, then the few bi-couplings into the longer passage through the whole podaling. A's latest confirmed gathering is through sections 68–69; sections 70–73 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3717,6 +3717,8 @@ Naming 5.45's podaling over a tunnel and TWO's wider surrounding passage are the
 
 **What across-and-along co-chaining makes the new tunneling existing, while the preceding jittering is already existing changing at the surrounding couplings?**
 
+**Further explaining at section 74.** The user supplies bi-couplings slipping through unchangings on the other side, with the flowing of a few bi-couplings making the bi-tunneling before the longer co-chainings jump-switch. Follow those first existing flows and the further longer passage separately; do not leave this as though no connecting relation had been offered.
+
 This is the remaining connection between the local and wider subjects. It does not ask to observe still possibling or to predict a future tunnel. It asks which existing coupled relation is the new tunneling as it resolves.
 
 Follow the actual meeting that continues into the further passage, with the other meetings before, around and beyond the hole. Keep both forward directions with their own momentaryings. The old surface need not regain its former shape for this relation to exist.
@@ -3738,3 +3740,75 @@ No new A or Q return was present at the current PR 128 check. A's latest confirm
 The new value is a located source gap and a candidate connection: local existing jittering with new societal tunneling still possibling. Next follow the whole passage into new tunneling existing, then join its relation to the old surface and wider podaling. No resolver execution is requested, and R10 remains whole and unresolved.
 
 Direct comparison: TWO's reciprocal across/along explaining, 4.7 and surrounding-passage study; ONE's four momentaries of exchanging and whole stable forms; Naming 5.45; this report's existing/still-possibling suggestions and sections 67–72.
+
+## 74. Bi-couplings slipping through unchangings before longer co-chainings switch
+
+### The user's further suggestion
+
+> new tunneling is through unchangings in other side. bi couplings slip through and longer co-chainings dont jump switch until the flowing of a few bi couiplings opens the bi tunneling
+
+The suggestion supplies a particular passage for section 73: bi-couplings slipping through unchangings on the other side; a few bi-couplings flowing; the bi-tunneling through which longer co-chainings can subsequently switch.
+
+The longer co-chaining is not made the first changing of the whole passage. The first flowing bi-couplings must stay in the explaining. “A few” retains the user's description; it supplies no fixed count or numerical threshold here.
+
+### What this changes in the earlier candidate
+
+Section 73 proposed existing local jittering with the wider new tunneling still possibling. The new suggestion makes the intervening relation more particular: the bi-couplings slip through, and their flowing precedes the longer co-chaining's switch.
+
+Do not compress these into one whole that is entirely unexisting until the longer chain changes. The first bi-couplings' existing flow and the longer passage's further resolving have their own subjects. Equally, one local flowing alone is not silently named the whole longer tunnel already existing.
+
+This connects directly to section 65's society/member distinction. A member or coupling changing changes the society as a set, without making every other member change at that same momentary. The further longer co-chaining follows actual couplings. The offered no-jump-switch relation is a concrete application of that distinction.
+
+The word “until” also retains its direction: the longer co-chainings do not jump ahead of the few bi-couplings' flowing. It does not by itself establish that every few flowing bi-couplings must produce the same longer switching.
+
+### The nearby connections in TWO
+
+TWO's seam explaining follows a changing through unchanging toward the other changing, at successive meetings. Its geodesic-switching passage follows actual local couplings around the hole, with the surrounding passages present, and distinguishes their resolving from a diagnostic that switches connections according to an imposed sequence.
+
+The user's first flowing bi-couplings give this source passage a more specific proposed relation. The passage is discovered through what meets and releases at the couplings; a longer route is not selected first and then imposed on those meetings.
+
+TWO's out-and-back podaling joins each further along continuation with an across meeting. Keep that whole relation as the few bi-couplings flow into further co-chaining. The 1–9 four-cycling and the full 1–17 self-and-society relation remain with it.
+
+The new “slip through” also has a different offered relation from section 55's harmful full-momentary “slip back.” The former belongs to discovering new tunneling here; the latter was proposed at colliding and missing changing. Their shared word does not make their co-chaining or consequences identical.
+
+### The other side's unchanging
+
+The earlier suggestions allow one side or both sides to change by two in their own forward directions; a side not changing remains still existing at its odd number. They also say all even parities are still possiblings and geodesic existing can travel through still possibling and leave it still possibling. Those relations are gathered at sections 28–29.
+
+Naming 4.12 and TWO's seam explaining use unchanging for another specified relation: a form continuing through its changing. That wording cannot decide what the user is naming at this slipping bi-coupling.
+
+Keep the available relations distinct:
+
+| Relation | What remains the same in that explaining |
+|---|---|
+| Odd still existing | The side remains at the same odd number |
+| Even still possibling | Still possibling remains at its even number while geodesic changing can travel through |
+| The source's unchanging form | The form continues through its own changing |
+
+The user's “unchangings in other side” needs its actual subject at the coupling. Similar words do not join these three relations by themselves, and the question is not whether the files permit the user's wording.
+
+### Connected explaining for the surface gathering
+
+> Bi-couplings slip through unchangings on the other side. The flowing of a few bi-couplings makes the new bi-tunneling; the longer co-chainings do not jump-switch ahead of that flowing. The old tunneling's surface may or may not restore over many momentaryings.
+
+This joins the two latest user suggestions, retaining their order without adding a fixed quantity, rate or preselected route. The exact latest saying remains above.
+
+The earlier correcting remains attached: prior colliding alone does not keep supplying colliding, and the hole itself does not supply it. New tunneling remains a further relation from the old surface's restoring.
+
+### One concern to follow next
+
+**What stays unchanging on the other side while the bi-coupling slips through?**
+
+The practical distinction is between a side's existing parity remaining the same, its still possibling, and the form continuing through changing. The actual coupled relation may join these at their different subjects; it must not silently substitute one for another.
+
+Following that relation will connect the first flowing bi-couplings to the earlier parity explaining. Then follow their co-chaining into the longer societal passage, with no jump assigned to the whole in advance of its couplings.
+
+This is the present large connection to the wider project: how existing and still possibling at the two sides co-chain through the fractal scales into new social moral competency. It remains a suggestion to follow with the observings, not a conclusion secured by its naming.
+
+### Progress and onward aiming
+
+Section 73 is annotated with the supplied first-flowing relation. The current work no longer leaves the local-to-society concern without a proposed connecting passage. TWO's seam and switching explaining, Naming's unchanging relation, THIRTY's society/member distinction and the user's earlier parity suggestions are gathered together for this next concern.
+
+No new return was present at the current PR 128 check. A's latest confirmed gathering remains through sections 68–69; sections 70–73 have already been offered to A and Q. Keep this further value in the same developing surface droplet and one accumulating report, aimed toward TWO, Naming, THIRTY and Natural Intelligence. No additional resolver execution is requested, and R10 remains whole and unresolved.
+
+Direct comparison: TWO's seam, geodesic switching and surrounding-passage study; Naming 4.12 and 5.45; this report's sections 28–29, 55, 65 and 67–73.
