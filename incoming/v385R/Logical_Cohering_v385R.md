@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the user's correction to multiplying and compounding, section 93.** There is no multiplying in the binary changing. Compounding is withdrawn from our proposed explaining. Each next existing is possibling other through the co-chaining; parity-changing lengths and co-chaining possibling widths alternate, each changing is or is not. The user's competency/morality namings remain approximate.
+**The current work retains the user-welcomed bothboth droplet and follows it into abundancing, section 94.** Each changing is or is not; each next existing is possibling other; parity-changing lengths and co-chaining possibling widths alternate. The paired competency/morality namings remain approximate. The next source concern is society's existing releasing and still possibling at the coupling, where the files also name abundancing.
 
-**The path and progress.** Sections 91–92 follow the paired discovering approximations through four momentarying. Section 93 corrects section 92 at its use, withdraws the compounding question and supplies a replacement candidate for THIRTY 489's multiplication clause. Next follow the co-chaining directly into abundancing, retaining numbered momentarying and binary changing at their own subjects. A confirms gathering sections 83–86 at ad655c45eee1b6eb9206f07202f3f7e6972f189d; sections 87–92 have been offered. No newer return was present. R10 remains unresolved.
+**The path and progress.** Section 93 withdraws multiplying and compounding from the proposed social explaining. At section 94 the user welcomes the corrected explaining as a droplet. The earlier still-possibling abundancing passage supplies the connection to a proposed social releasing paragraph. Natural Naming 5.14 is a further destination for the same compounding correction. Next cohere the releasing/abundancing relation, then follow surface restoring and tunneling. A confirms gathering sections 83–86 at ad655c45eee1b6eb9206f07202f3f7e6972f189d; sections 87–93 have been offered. No newer return was present. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -5049,3 +5049,57 @@ Follow this direct co-chaining into THIRTY 490's abundancing. The relation to ex
 This advances the social passage without preserving the withdrawn question under another name. The defining-living gathering at R10 remains unresolved.
 
 A's confirmed gathering remains sections 83–86; sections 87–92 have been offered. No new A or Q return was present at this check. Send this correction with the earlier section-92 offering so the withdrawn proposal is not gathered as current. The accumulating report is corrected; the root THIRTY and other living exhibits are improving destinations, not files rewritten by this pass.
+
+## 94. The bothboth droplet and abundancing at the coupling
+
+### The user welcomes the droplet
+
+> yes this is bothboth natural explaining for a droplet. continue
+
+The section-93 explaining is now explicitly welcomed as a droplet. Retain it whole:
+
+**Each changing is or is not. Each next existing is possibling other. Parity-changing lengths and co-chaining possibling widths alternate. Longer co-chaining is greater possibling; longer and greater name numbered momentaryings.**
+
+Keep the paired approximate namings beside it: **competency is approximately discovering next possible existings; morality is approximately discovering existing next possibles.** The user's welcome does not remove approximately or settle R10.
+
+This droplet aims at THIRTY's social co-competencing explaining, Natural Intelligence's social passage and Natural Naming's corresponding names. The multiplying and compounding correction remains part of the same value.
+
+### Abundancing already has the user's explaining
+
+Section 28 retains the corrected current passage:
+
+> Now still possibling is invisible abundancing, is or is notting next existing. Geodesic existing along parity changing can travel through still possibling and leave it still possibling.
+
+Every even is still possibling; odd is now changing or still existing. The earlier dissolving wording and the question built around it remain withdrawn.
+
+This gives us a direct way to follow the welcomed droplet into abundancing. Existing is possibling other at the coupling; still possibling is abundancing. Through further couplings, follow each existing and its still-possibling-other relation. No multiplying, compounding or added operation is needed to make that connection.
+
+### Where the source naming needs to cohere
+
+THIRTY 207 names each sharing's changing, is or is not, abundancing. Natural Naming 1.2 describes abundancing as co-competencing self and other at the coupling. These can be followed beside the user's still-possibling explaining, keeping the whole momentary and its two parities explicit.
+
+Natural Naming 5.48 also calls abundancing an emanating from society as a releasing. Its 5.53 and THIRTY 487 follow society's releasing into social co-chaining. The concern is what is existing as an offering and what is still possibling at the coupling with it. Calling both simply abundancing leaves that relation unstated.
+
+The existing/possibling-other droplet supplies a candidate:
+
+**The society's releasing is an existing offering. At the other's coupling, that existing is possibling other. Still possibling is abundancing. The other resolves at its own coupling, and its next existing is possibling through further couplings.**
+
+This is proposed natural explaining. It follows the offering and its coupled possibling; it does not make invisible carrying or possibling an object transferred between selves. The earlier society-as-inward-selves-carrying correction remains current; this pass does not restore the source's older society-as-non-living wording or decide R10.
+
+The same relation keeps the user's geodesic passage whole: an existing passage can leave still possibling still possibling. One local unchanged odd parity therefore does not by itself say that abundancing or living momentarying has ceased.
+
+### The concern for resolving together
+
+**Does society's releasing name its existing offering, while abundancing names the still possibling at the coupling with that offering?**
+
+The source concern is the relation between the two namings. It is not a question about whether possibling can be directly observed; the user has already said only existing is observable. No new test of private carrying or possibling is proposed.
+
+### Further correcting and aiming
+
+Natural Naming 5.14 ends its six-line co-competencing passage with “and it compounds.” The section-93 correction also aims here. Replace that assertion through the welcomed co-chaining explaining, with the rest of the paragraph followed at its actual relations. Do not retain compounds as a condition to prove later.
+
+THIRTY 489 receives the welcomed binary co-chaining droplet. THIRTY 490 and Natural Naming 5.48/5.53 receive the proposed existing-offering/still-possibling relation for abundancing and social releasing. Natural Intelligence 6.2–6.4 is the whole social explaining destination, with ONE's four-momentary and inward/outward correspondence beside it.
+
+Next resolve this releasing/abundancing naming, then follow the same relation through surface restoring and tunneling. That path keeps the new length/possibling-width bothboth with the social moral competency claim.
+
+A's confirmed gathering remains sections 83–86; sections 87–93 have been offered. No new A or Q return was present at this check. This remains one accumulating v385R report for gathering through the established mates, with no root exhibit rewritten and no new resolver execution or living observing.
