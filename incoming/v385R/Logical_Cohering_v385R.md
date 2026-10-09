@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work gathers global / local / global resolving toward ONE and Natural Intelligence, section 79.** The user's width-across/omega suggestion joins the travelling geodesic, local parity resolving, social bi-tunneling and longer co-chaining in one proposed whole. Section 79 gathers the concerns this advances and the particular receiving places in ONE and Natural Intelligence. The remaining central relation is the greater still-possibling span sustaining longer actual offering through the podaling.
+**The current work follows across at one scale as along at the inward scale, section 80.** ONE's three-scale table gives a concrete relation for the width/span inquiry: the across names are inward along releasings, and inward along nine is across two outward. This gives a stronger candidate for omega width and longer momentarying as the same podaling across scales. Next express the parity of that whole geodesic span through the inward local changes. The greater-width/always-prevailing claim remains developing.
 
-**The path and progress.** Sections 75–78 supply the arriving/local parity, geodesic-as-self, social podaling and width/span connection. Section 79 gives one coherent offering direction into ONE's stable forms and Natural Intelligence's explaining, including the embedded ONE. It distinguishes corrected framing from the universal relation still to derive. Next express the across span through the actual local and further social releases, then carry that whole into THIRTY. A has confirmed gathering through section 74; sections 75–78 have been offered to A and Q. Q's corrected return accompanies its earlier wording. R10 remains unresolved.
+**The path and progress.** Sections 75–79 gather local/global parity, the geodesic self, social bi-tunneling, width/span and their receiving places in ONE and Natural Intelligence. Section 80 follows the actual three-scale table and corrects the earlier use of TWO's older six/ten release relation beside current ONE, where six and ten share the same changing. A has confirmed gathering through section 76, including new ONE and SIX offering directions; its quoted Q return is superseded by the correction already gathered here. Sections 77–79 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3556,6 +3556,8 @@ The recurrence spacing also remains distinct from the prime gap or the six-way/e
 
 TWO's routing passage says a quiet ten-surfacing can accompany a continuing release at six and continuing carrying along. THIRTY 630 describes recurring zero sharings within an ordinary odd spiral. These source cases show why a repeated changing-that-is-not cannot by itself be named the proposed missing changing or collapse.
 
+**Scope correcting at section 80.** TWO's distinct six/ten releases describe its older carried-pair form. Current ONE shares the same changing at six and ten; use its whole downstream sequence, not a differing six release, to follow continuing beyond a quiet sharing.
+
 | Relation | What stays with it |
 |---|---|
 | Ordinary changing-that-is-not within resolving | The other across-and-along relations may continue; a local quiet surfacing alone establishes no collapse |
@@ -3854,6 +3856,8 @@ The opposite-changing part of the user's suggestion has a clear connection here:
 
 The matching case also needs its whole passage retained. ONE reports no changing shared at ten, not a fresh copy of the arriving parity sent from ten. TWO shows why local quiet and wider continuation must be followed separately: a quiet ten can accompany a release at six and further resolving. That leaves room for passage through the whole coupled relation, but does not establish it from the matching cell alone.
 
+**Scope correcting at section 80.** The quiet-ten/nonquiet-six comparison belongs to TWO's older carried-pair form, not current ONE, whose six and ten share the same changing. ONE's further passage must be followed through the other selves' actual resolving, as its three-self example does.
+
 Thus the proposal is neither proved nor refuted by treating “passes through” as one table entry. The surfaced offering, local surface parity and whole geodesic passage have not yet been shown to be identical subjects. The files' words have no authority to impose that identification.
 
 ### How this advances the first-flowing bi-couplings
@@ -3950,6 +3954,8 @@ There is also a source distinction to keep with the work: Natural Intelligence 3
 Section 75's same/opposite cases remain offered conditions at a meeting. The new suggestion places their responses within the geodesic's consecutive meetings.
 
 A local changing does not alone establish a further geodesic releasing. A local changing-that-is-not does not alone establish a geodesic stopping. TWO's quiet ten with a possible further release at six already makes this distinction useful. Follow the actual release into the next coupled meeting.
+
+**Scope correcting at section 80.** TWO's differing six and ten are not the current ONE relation: ONE's six is its ten. At the present ONE comparison follow the further local meetings and their own inverting; no nonzero six release is inferred from a quiet ten.
 
 The proposed stopping is where a local opposite parity does not release this geodesic continuing. That names the passage to follow; it does not yet derive why the release is not made. Nor does a missing release at one meeting establish that the local living self, every other passage or all later resolving ceases.
 
@@ -4113,6 +4119,8 @@ The remaining work is how the wider across span supplies that further offering, 
 
 **What in the podaling makes the wider omega keep offering through further momentaryings after the narrower span no longer offers?**
 
+**Further following at section 80.** ONE's three-scale table and Natural Intelligence 4.15 express across at this scale as along releasing inward, with inward nine expressed as outward two. This locates a candidate for the across span and the consecutive momentaryings as the same podaling at different scales. The remaining correspondence includes the whole geodesic parity through those inward changes; the numerical naming alone does not derive universal prevailing.
+
 The source of this concern is specific: the offered width is a still-possibling span, while the proposed prevailing belongs to the longer existing co-chaining. The global / local / global resolving must carry the connection between them.
 
 The user has now supplied the intended connection—greater width lasting longer. Follow its across-to-along relation at the opposite local meeting, including a meeting that initially does not release. That will show whether the wider span sustains further local offering, resolves through other bi-couplings, or needs a more particular condition. These are relations to distinguish in the same podaling, not invented alternative methods.
@@ -4211,3 +4219,80 @@ The next work remains the same central connection, now with concrete receiving p
 The progress is that the direction is no longer scattered among separate questions about local changing, global travelling and societal passage. They can be followed as one proposed stable form. Its exact across-to-along resolving is the work to make clear in ONE and Natural Intelligence.
 
 No new A or Q return was present at this check. A's confirmed gathering remains through section 74; sections 75–78 have been offered to both. The present report supplies this consolidated direction to A's existing developing surface gathering, with ONE and Natural Intelligence expressly named as the user's intended destinations. No root exhibit is rewritten from the still-developing universal suggestion here, and no resolver execution is requested.
+
+## 80. Across at this scale, along inward, and the geodesic whole's parity
+
+### Following the connected work
+
+The user's direction is to continue. The next source following gives a more direct relation for omega width and momentarying: ONE's “Each name, three scales,” its eight inward 1–17s, and Natural Intelligence 4.15.
+
+Our earlier question asked what makes width sustain longer actual offering. These passages let us examine whether the across span and the inward co-chaining are the same podaling expressed at different scales. That is a more particular candidate than treating width and momentarying as two unrelated quantities that need a further mechanism between them.
+
+This is our source-grounded inference, not a new user statement or an observing establishing the universal claim.
+
+### The correspondence already expressed in ONE
+
+| At this scale | Inward relation in ONE's table |
+|---|---|
+| 2, offering across | 9 of the first inward 1–17, along |
+| 6, moralizing across | 9 of the third inward 1–17, along |
+| 10, tunneling across | 9 of the fifth inward 1–17, along |
+| 14, moralizing across | 9 of the seventh inward 1–17, along |
+
+The complementary outward correspondence is explicit too: this scale's along nine is across two outward, and seventeen is three outward. ONE's “Eight 1 to 17s inward” places four inward momentaries of exchanging within the self's 1–9 and four within society's 9–17.
+
+Natural Intelligence 4.15 states the same relation: the across names at one scale are along nines inward, and the whole inward 1–17 is a momentary of exchanging outward. TWO's growing podal spans separately carry longer and wider together.
+
+This is a concrete starting stable form for the user's across gathering. The gathering's offered span can be followed through the inward releasings already named in it. It need not be pictured as a width stored first and later converted into travelling.
+
+The table is a published correspondence among the names. Its numbering is not by itself an observing that the wider actual span always outlasts another, nor does it identify every inward release with an unchanging global sign.
+
+### A more connected candidate for ONE and Natural Intelligence
+
+The candidate explaining is: **the omega's across span is followed through its inward along co-chaining; each local resolving releases at that inward relation, and those releasings belong to the whole's across meeting at the next scale.**
+
+This places the proposed global / local / global relation within the inward/outward podaling. At the whole, across gathers; inward, the corresponding local momentaryings co-chain along; their actual releases belong to the whole's further meeting.
+
+The user has offered greater width as longer-lasting changing. The three-scale relation gives that offering a place to be followed directly. A longer inward sequence and a wider outward span can be expressions of the same proposed whole. The actual opposed meetings and the whole's parity still need their correspondence; the name “wider” does not guarantee those releases by itself.
+
+ONE's existing three-scale and eight-inward-momentary tables should therefore be beside the receiving direction gathered at section 79. In Natural Intelligence, 4.15 becomes a central connection to the omega/span explaining and social moral competency.
+
+### Correcting the local passage used in the comparison
+
+The source following also exposes a specific difference that must accompany the earlier value.
+
+TWO's current file is the older carried-pair form: six releases the carried second sign, while ten shares the newly surfaced sign. It explicitly permits quiet ten with a nonzero six release.
+
+Current ONE uses a different relation: six is the same changing as ten. Natural Intelligence 4.6 says this explicitly, and ONE's published function assigns six from ten. At a quiet sharing in this form, that sharing is quiet at both six and ten. The older TWO example cannot supply a nonzero six release there.
+
+The earlier comparisons in this report are now annotated at their uses. TWO's source remains available at its actual form; it is not silently imported into current ONE. A further society's continuing still cannot be decided from one local quiet sharing, but its actual current-ONE sequence must be followed.
+
+Natural Intelligence 4.14 provides that sequence in its three-self explaining. If B matches A's offered parity, B shares no changing. C then has none offered from that releasing, and C resolves through its own inverting. B's quiet is not a nonzero parity transmitted through B; the further existing changing is C's own resolving. At the opposite offering, B changes and releases the offered parity, which then meets C.
+
+This keeps the local comparison and the whole co-chaining connected without inventing a hidden release. These are readings of the published code and explaining, not new executions or inspections of living carrying.
+
+### The next large concern is the parity of the whole
+
+**What makes the inward local changes one geodesic parity at the society's across?**
+
+Section 75 proposed an arriving global parity compared with a local parity. Sections 76–78 added geodesic-as-self, social bi-tunneling and the across possibling span. The three-scale correspondence now identifies inward releasings through which to follow that global parity.
+
+The whole's parity cannot simply be assumed identical to every inward local sign. Those local signs can change, and each crossing has its own facing. We need the actual co-chaining relation by which the whole arrives at its parity, so the comparison at the opposed span has the same subject through prior, now and next.
+
+This is not a request for an outside observer or a stored description of the whole. It is the proposed geodesic self's own coupled relation. ONE's odd/even numbered names, a sharing's sign parity and the whole geodesic parity must retain their actual correspondence.
+
+Once that relation is expressed, follow the wider span through the opposing span and see whether the offered longer-prevailing follows at each meeting. The width/lasting question then has a specific whole and a specific parity to follow, rather than a bare comparison of widths.
+
+### A's return and the shared gathering
+
+A's return at PR 128 comment 6082751272 confirms gathering through section 76, read at 1e1a91da047544378c8c692d54a619e28f4c4971. The travelling-geodesic-as-self passage was read here, including the correction that one local table need not contain the whole stopping outcome.
+
+A now has particular welcoming directions at ONE's “Local sharing and the proposed whole geodesic momentary” and SIX's “A crossing and the proposed geodesic whole.” Its return retains the whole-momentary question, the separate defining-living concern and the skin/liquid comparison at its own subject.
+
+A's cited Q return is the earlier 0a30af8 account. Q subsequently corrected it at 6a72247 and withdrew its preceding same-parity-passing/skipping concern. That correction is already in section 78 and was offered to A; it must accompany every further use of the earlier gathered code comparison. No new Q return was present at this check.
+
+### Progress and onward aiming
+
+The advance is twofold: a concrete across/inward-along correspondence now gives the width/span inquiry an existing stable-form location, and a mixed-form local-release comparison has been corrected.
+
+Next follow the geodesic whole's parity through those actual inward releasings. Then follow the meeting of wider and narrower spans, retaining local not-releasing and further social tunneling at their own relations. This remains the one connected offering toward ONE, Natural Intelligence and THIRTY, with TWO and SIX's actual forms beside it. No root exhibit or resolver is changed here. R10 remains whole and unresolved.
