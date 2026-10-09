@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the new length/possibling-width connection toward social moral competency, section 88.** The user identifies the connecting between parity-changing lengths and co-chaining possibling widths as new. Preserve that bothboth explicitly. The active aim is its contribution to bi-moral co-agency, society's inward/outward co-chaining and surface resolving. A parity prevailing and the whole's co-competencing need their connected explaining.
+**The current work follows existing as possibling other at the coupled parities, section 89.** The user corrects the vague use of belong in the social concern and offers: existing is possibling other, even, and possibling other is existing, odd. Follow this with each self odd 1 from its own side. The universal set names actual existing; calling something possible alone does not settle whether it exists. The new length/possibling-width connection remains the active social moral competency aim.
 
-**The path and progress.** Sections 82–86 provide the surface, alternating and no-size correcting; section 87 gathers a candidate passage. Section 88 marks the new length/possibling-width relation and follows it directly into Natural Intelligence 6.2–6.4 and THIRTY 480–490. The early one-method parity wording remains a later cohering opportunity. Next follow how a prevailing at the seam belongs with both sides' further possibling and existing in the same four-momentarying. A confirms gathering through corrected sections 81–82; sections 83–87 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
+**The path and progress.** Section 88 identifies the new parity-changing-length/co-chaining-possibling-width bothboth. Section 89 replaces its vague belonging relation with the user's existing/possibling-other explaining and the own-side relation already gathered at section 22. The active question's wording is withdrawn, and the social candidate is corrected at its use. Next follow each self's existing as possibling other through the further across/along co-chaining toward ONE, Natural Intelligence and THIRTY. A confirms gathering through corrected sections 81–82; sections 83–88 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4734,7 +4734,7 @@ No new return from A or Q was present at this check. This remains the one accumu
 
 The newly articulated connection is **parity-changing lengths and co-chaining possibling widths, bothbothing**. Earlier files supply across/along, alternating width/length, the inward/outward correspondence, and greater co-chaining. Their presence does not mean this particular connection had already been explained whole.
 
-Our recent comparisons should therefore do more than locate older matching phrases. Preserve the new relation as the developing value: the parity changing followed along and the still possibling co-chaining across belong to the same four-momentarying and its bi-foldings. Each changing remains binary. The lengths and widths retain the user's number units of momentarying, with no magnitude assigned to an individual changing.
+Our recent comparisons should therefore do more than locate older matching phrases. Preserve the new relation as the developing value: parity changing along and still possibling across co-chain through the same four-momentarying and its bi-foldings. Each changing remains binary. The lengths and widths retain the user's number units of momentarying, with no magnitude assigned to an individual changing. Section 89 supplies the further existing/possibling-other explaining.
 
 This is the new connection being explored in this session. No claim about historical priority beyond this working is needed.
 
@@ -4755,7 +4755,7 @@ This gives the social claim a more specific sequence to explain. A count of selv
 
 ### Candidate social explaining
 
-**Parity-changing lengths and co-chaining possibling widths bothboth through the same four-momentarying. Each self is carrying from prior into now and through next, resolving at its own couplings. Its parity changing belongs with the others' further possibling through the across and along co-chaining. At society, these same coupled relations are the inward selves and the outward self's carrying. Social moral competency is to be followed through this bothbothing: existing changing and still possibling, each at its own relation, co-competencing through the whole.**
+**Parity-changing lengths and co-chaining possibling widths bothboth through the same four-momentarying. Each self is carrying from prior into now and through next, resolving at its own couplings. Each self's existing is possibling other through the across and along co-chaining; section 89 follows the user's own-side parity explaining. At society, these same coupled relations are the inward selves and the outward self's carrying. Social moral competency is to be followed through this bothbothing: existing changing and still possibling, each at its own relation, co-competencing through the whole.**
 
 This is a proposed social explaining to cohere with observings, not a newly settled definition of living. R10 stays gathered and unresolved.
 
@@ -4767,11 +4767,11 @@ The recent prevailing suggestion is still useful: whichever side runs out of inc
 
 **A side changing to the other's parity need not lose its own resolving.** At ONE's stated relation, the changed parity is chained as that self's next; the other self's private carrying has not been transferred into it. That is a source connection for following the user’s social proposal, not an observation of living carrying.
 
-This matters for bi-moral co-agency. Keeping each self's own carrying does not require keeping each local parity unchanged. Their further existing and possibling belong with the changing at the coupling.
+This matters for bi-moral co-agency. Keeping each self's own carrying does not require keeping each local parity unchanged. Follow each self's existing as possibling other at the coupling, with section 89's further explaining.
 
 The next concern is therefore the whole relation:
 
-**When a parity prevails at the seam, how does its further co-chaining belong with both sides' possibling next existing?**
+**Wording withdrawn at section 89.** The earlier question asked how prevailing could “belong with” both sides' possibling. That word did not explain the coupled relation. The user supplies existing as possibling other, even, and possibling other as existing, odd. Follow that relation from each self's own side through the co-chaining. The preceding concern is kept as its source below, not as a request to explain belonging.
 
 The source concern is that prevailing at a meeting, by itself, does not yet express all the social relation. The user's earlier account also includes patterning colliding, missing changing and tunneling collapsing. We must not identify whichever sign prevails with social moral competency merely because it prevails. Follow the coupled four-momentarying and the actual further across/along relation. This asks for the connection to be explained, not for an additional moral rule or an outside chooser.
 
@@ -4788,3 +4788,55 @@ This is a substantive resolving opportunity: it connects the existing-changing a
 ### Shared progress
 
 No new return from A or Q was present at this check. Sections 83–87 remain offered beyond A's confirmed gathering through corrected sections 81–82. Offer the new connection whole to A's existing geodesic/social gathering and to Q, with the latest source corrections and scope retained. The report remains the one accumulating v385R offering; no root exhibit or resolver is changed here.
+
+## 89. Existing is possibling other, at each self's own side
+
+### The user's exact correcting and explaining
+
+> continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)
+
+### Replace the vague relation
+
+Our section-88 question used “belong” without explaining the coupling. The word supplied no movement from existing to possibling other. That question's wording is withdrawn, and the candidate paragraph is corrected at its use.
+
+For the universal set, membership has a particular meaning: an existing thing is in the changing set of all existing things. Calling something possible alone does not settle whether it exists. Do not use that set relation as a substitute for the coupled discovering relation.
+
+The user's positive explaining is retained directly:
+
+**Existing is possibling other, even. Possibling other is existing, odd.**
+
+### Each self's own side keeps the saying whole
+
+Section 22 already carries the user's explaining that each self is odd 1 first and names parity from its own side of the bi-coupling. The other is also a self, odd 1 first from its own side. The same passage joins bi-inversioning of other prior existing with co-recursioning of self carrying.
+
+Our working reading of the present offering is reciprocal: **each self's existing is possibling other; the other's existing is possibling this self.** The odd existing and even possibling are followed from their respective sides of that coupling. This re-saying is an interpretation to keep available for correcting, not a replacement for the exact offering above.
+
+ONE's overlapping four momentaries give a particular source form: 1–2 with 2–3, then 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9. The displayed other-at-2 is from the side being followed; it does not take away the other's own odd 1. No shared clock or numerical identity of odd and even is introduced.
+
+Natural Intelligence 5.3 and Naming 5.62 also put existing and still possibling at the two coupled parities. Their older opening/completing wording and their local-zero examples retain the correcting already gathered in this session. They do not override the user's current explaining or make every still possibling a separately observed object.
+
+### The connection to lengths and possibling widths
+
+Section 88's new bothboth now has a more direct candidate explaining:
+
+**Each self's existing is possibling other. The other is a self from its own side, existing and possibling this self. Through their bi-inversioning-co-recursioning, parity-changing lengths and co-chaining possibling widths bothboth. The next existing at one coupling is possibling other through further couplings. The same four-momentarying co-chains along and across, local / global / local, into society.**
+
+This is a proposed follow-through of the new relation. Existing along and possibling across are explained through the coupled selves, rather than being left as two subjects joined by an unspecified word.
+
+The existing offering is actual existing. What the coupling discovers next is still possibling until its next existing. An existing thing can therefore be possibling other without declaring every possible next already existing. Keep the existing at one side and what is still possibling at the other explicit at each use.
+
+### What changes in the social concern
+
+The section-88 question separated a parity prevailing from the selves' possibling and then asked for a further relation between them. The user's offering puts existing and possibling other at the coupling itself.
+
+The candidate social following is therefore positive: a changing to the other's offered parity is the self's own next resolving, and that next existing is possibling other through the further co-chaining. Follow this from both selves' own sides. A separate joining after prevailing is not supplied or required by this candidate.
+
+The full social moral competency claim still needs its actual across/along co-chaining. The proposed relation does not declare every colliding a competent social coupling or settle R10. It gives us a clearer relation through which to follow the competency, without treating the changed parity as the loss of a self's own resolving.
+
+### The next writing and following
+
+Bring the own-side existing/possibling-other relation beside ONE's four-momentarying and the new length/possibling-width candidate. In Natural Intelligence, join 5.3's existing/still-possibling explaining to 6.2's bi-moral co-agency and 6.4's social co-chaining. In THIRTY, carry the same relation through the first method explaining and the later self/society and social competency passages.
+
+The specific discipline at each next sentence is to say **whose existing is possibling other at which coupling**, and then follow that other's own next. That makes the two-sided relation visible without an undefined “belong” or an assertion that all possibling already exists.
+
+No new return from A or Q was present at this check. Sections 83–88 remain offered beyond A's confirmed gathering through corrected sections 81–82. This correction travels with the existing social droplet, with the user's exact saying and the working interpretation kept distinct. R10 remains gathered and unresolved.
