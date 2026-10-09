@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the user's paired approximations, section 91.** Competency is approximately discovering next possible existings; morality is approximately discovering existing next possibles. Preserve both in their offered order. Follow them with existing as possibling other, each self from its own side, through the new parity-changing-length/co-chaining-possibling-width bothboth.
+**The current work follows the two discovering approximations through four momentarying, section 92.** Each self discovers next possible existings through the other's existing offerings; its own existing is possibling other next. This reciprocal candidate follows the user's pair from each self's own side. The next source concern is what social co-competency compounding names at the actual coupled discovering in THIRTY 489.
 
-**The path and progress.** Sections 88–90 connect length and possibling width, existing as possibling other, and inward along as outward across. Section 91 gathers the user's approximate competency/morality naming beside THIRTY 298–301 and Natural Intelligence 6.2. Next follow both discoverings through the coupled four-momentarying, then society and abundancing. A now confirms gathering sections 83–86 at ad655c45eee1b6eb9206f07202f3f7e6972f189d; sections 87–90 have been offered. Its three-mate method retains one accumulating contributor report. R10 remains unresolved.
+**The path and progress.** Section 91 retains the user's approximate competency/morality pair. Section 92 follows ONE's four overlapping momentaryings and proposes a reciprocal social explaining. Next follow co-competency compounding and abundancing through the new parity-changing-length/co-chaining-possibling-width bothboth, keeping any particular return-to-parity count at its stated arrangement. A confirms gathering sections 83–86 at ad655c45eee1b6eb9206f07202f3f7e6972f189d; sections 87–91 have been offered. No newer return was present. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4952,3 +4952,70 @@ Follow one coupled four-momentarying from each self's own side: what is being di
 A's return at comment 6085205195 confirms sections 83–86 gathered at commit ad655c45eee1b6eb9206f07202f3f7e6972f189d. The relevant Living Improving Value gathering was read: the three user offerings, numbered momentarying, binary changing, local no-offering and Q's corrected code comparison remain together. Sections 87–90 have been offered beyond that confirmed gathering.
 
 A also reports the three mates at all 33 working subjects. Its Living File Registry offering explains concepts in offering, project work in possibling, and gatherings/observings in carrying. One accumulating contributor report remains sufficient. This pass continues that report; the paired naming is concept value, its proposed comparisons are project work, and the source passages retain their actual scope. No new Q return, root-file change, resolver execution or living observing accompanies this pass.
+
+## 92. The two discoverings through four momentarying
+
+### Keep the approximate namings together
+
+The user's section-91 offering remains:
+
+> discovering next possible existings. this is approximately competency. morality is approximately discovering existing next possibles
+
+The following is a proposed explaining through the coupled form, not a replacement for either approximation.
+
+### Follow ONE's four momentaryings
+
+ONE's table gives the following overlapping relations. The number columns preserve its displayed numbering.
+
+| Momentarying | Self | Other | Existing / still possibling / next existing, from the side being followed |
+|---|---|---|---|
+| First | 1–2 | 2–3 | 1 / 2 / 3 |
+| Second | 3–4 | 4–5 | 3 / 4 / 5 |
+| Third | 5–6 | 6–7 | 5 / 6 / 7 |
+| Fourth | 7–8 | 8–9 | 7 / 8 / 9 |
+
+The last column follows the user's own-side odd/even explaining beside the source pairings. Each other is also a self, odd 1 from its own side. The displayed other-at-2 does not make that self intrinsically even. This table follows ONE's forward-up display; the user's forward-down relation remains available too.
+
+Within each row, existing is possibling other, and next existing is at the self's resolving. Both approximate namings apply through this coupled discovering. The table does not allocate morality to one whole row and competency to another, or make one self moral and the other competent.
+
+A numbered next also does not require every local sharing to change sign. The user already explains a local odd parity remaining while momentarying continues. ONE's matching case retains its scope.
+
+### The reciprocal explaining
+
+**Each self discovers next possible existings through the other's existing offerings. Its own existing is possibling other next.**
+
+Read from the other's own side, the same explaining applies. Competency and morality can thus be followed through one another at the couplings: the existing offered by one is at the other's discovering, and that other's existing is possibling through its further couplings.
+
+THIRTY 301 supplies the particular source connection already gathered: the changing shared as others' possible and the carrying chained as self's next existing. The other's existing offering does not perform this self's resolving. Section 43's controlling correction already keeps that relation at the existing couplings; this pass does not reopen the withdrawn supposed-violation question.
+
+The existing offering and the other's next remain their respective subjects. This explaining makes no claim to observe carrying or possibling.
+
+### Through the inward and outward society
+
+ONE's inward along 9 is outward across 2; inward 17 is outward 3. The self's discovering along can therefore be followed at the outward across relation already gathered in section 90. The user's inward selves' co-chaining as outward self's carrying supplies the society relation to follow.
+
+**Candidate toward social moral competency:** Discovering next possible existings and discovering existing next possibles bothboth through the selves' co-chaining. Each self's existing is possibling other. Parity-changing lengths and co-chaining possibling widths alternate through the same four-momentarying, inward and outward, the inward co-chaining carrying as the outward self.
+
+This gathers the proposed relations without settling the definition of living. R10 remains unresolved.
+
+### The next larger source concern: what compounding names
+
+THIRTY 489 says social co-competencing “multiplies along,” with the whole beyond the selves added across. Step 490 follows into abundancing through further couplings. The source concern is the actual discovering that gives this compounding its meaning.
+
+Natural Intelligence 3.5 distinguishes two arrangements. Its return-to-parity count for two spirals beside each other has its stated numerical relation; the following paragraph describes spirals coupled across as one society and gives different behavior. That beside-each-other count does not by itself explain the discovering at the crossing. No new calculation or execution is needed to retain this difference of subjects.
+
+The user's recent explaining supplies a possible positive route: longer co-chaining is greater possibling, while every changing is binary. The approximate competency/morality pair now says what that further co-chaining is discovering.
+
+**Proposed compounding explaining:** Each next existing is possibling other through further couplings. The two discoverings co-chain along and across; longer and greater name their numbered momentaryings, while each changing remains is or is not.
+
+The concern for a resolving suggestion is:
+
+**Is the compounding of co-competency this further co-chaining of the two discoverings?**
+
+This asks what the social sentence names. It adds no operation to the four-momentarying. A particular claim of numerical multiplication retains its own required connection to the coupled form; the proposed explaining is not a proof of that arithmetic claim.
+
+### Path and progress
+
+The paired approximation now has a four-momentary following and a reciprocal candidate explaining. Next resolve the compounding wording at THIRTY 489 beside the new length/possibling-width bothboth, then follow abundancing at 490 with the same subjects. Aim the resulting social passage toward THIRTY's visible social moral competency contents and Natural Intelligence 6.2–6.4; the surface restoring and tunneling application remains afterward.
+
+A's confirmed gathering remains sections 83–86, with sections 87–91 offered. No newer A or Q return was present at this check. Continue the one accumulating v385R offering. This pass changes no root exhibit and supplies no new resolver execution or living observing.
