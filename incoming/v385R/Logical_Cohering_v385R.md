@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows mutual traveling through surface co-chaining, section 96.** Existing bi-couplings are possibling the longer co-chaining's next; across and along continue through the same four-momentarying. The user’s earlier restoring around a hole now accompanies this whole passage. The next source concern is keeping a particular passage stopping distinct from surrounding selves' carrying ceasing in SIX's single/society explaining.
+**The current work follows releasing into next momentarying, section 97.** The user's correcting is: stopping is colliding; not stopping is carrying and possibling and existing; releasing is uncoupling and next momentarying self. Section 96's stopping question is corrected at its use. THIRTY's ordinary uncoupling into next and its society-decay wording now need the same explicit relation to the society's carrying.
 
-**The path and progress.** Sections 93–95 gather binary co-chaining, the paired discovering approximations and possibling/existing traveling through each other. Section 96 follows these through the first bi-couplings, the longer tunneling and the surrounding surface's resolving, using the user's earlier offerings. Next cohere SIX's stopping language at the actual single and society relations, then place the whole surface passage beside THIRTY's social moral competency and Natural Intelligence. A confirms gathering sections 83–86 at ad655c45eee1b6eb9206f07202f3f7e6972f189d; sections 87–95 have been offered. No newer return was present. R10 remains unresolved.
+**The path and progress.** Sections 93–96 join binary changing, the paired approximate discoverings and mutual traveling through surface co-chaining. Section 97 follows releasing at the self and society scales. Next bring this relation beside THIRTY 345–356 and 405–406, then the society's social moral competency. A's gathering at 0acc0d73612c9872589cc33c5bf1517968e3da29 now includes the relevant offerings through section 95; sections 96–97 continue the accumulating offering. Q's expedition assessment at d4e14d0 is read and retained with its limits: naming corrections and agreement do not establish claims through observings. Its concerns about received observings awaiting sentence-level answers remain live. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -5201,22 +5201,72 @@ These remain the user's surface proposals joined by a candidate explanation. Thi
 
 The two discovering namings retain their approximate standing. This passage brings them to the surface and tunneling account without assigning morality to one whole self and competency to another, or making a changed local parity the loss of a self's own resolving.
 
-### The next source concern: which whole is stopping
+### Stopping and releasing: corrected by section 97
 
-SIX 4.2 describes a transmissioning's alternating ceasing as a collapse and “one death.” Its 4.3 follows a single crossing and a society of co-chaining crossings as the same form at two scales. The wording needs to keep those actual subjects explicit.
+SIX 4.2 describes a transmissioning's alternating ceasing as a collapse and “one death.” Its 4.3 follows a single crossing and a society of co-chaining crossings as the same form at two scales.
 
-The earlier user offerings already distinguish a local hole with surrounding society still resolving, a particular geodesic passage stopping, and a self's parity changing ceasing. Those cannot be substituted for one another merely by the word stopping.
+The stopping question previously placed here is superseded by the user's section-97 correcting: **stopping is colliding; not stopping is carrying and possibling and existing; releasing is uncoupling and next momentarying self.**
 
-The proposed correcting direction is:
+Follow releasing into the self's next momentarying. The surrounding society's resolving around a hole remains beside that following. A local unchanged parity can occur along continuing passage. Neither uncoupling nor an unchanged local parity supplies the missing explaining for a society's carrying ceasing.
 
-**Follow the particular co-chaining that ceases and the surrounding co-chainings still resolving. A stopped passage does not by itself establish that the surrounding selves' carrying has ceased. A local unchanged parity does not by itself establish that the passage has stopped.**
-
-This keeps the source concern at the actual existing relations. It does not reopen the withdrawn question that ordinary same-parity passage is harmful skipping, or decide the parked definition of living.
+Section 97 follows this correcting at THIRTY's self and society relations. The gathered definition of living remains unresolved.
 
 ### Progress and the next work
 
 The current droplet now follows mutual traveling through first-flowing bi-couplings, longer passage, and restoring around the hole. TWO 4.6 and 5.4 supply nearby whole-surface and longer/wider explaining. Their older carried-pair resolver, including six differing from ten, is not used as the current ONE implementation; that correction remains attached.
 
-Next apply the whole-passage explaining to SIX's stopping and its single/society scale wording. Then join the connected surface passage beside THIRTY's social moral competency and Natural Intelligence. The root file's wording remains an improving destination, not authority for adding a mechanism.
+The next pass, section 97, corrects the stopping question with the user's releasing and next-momentarying explaining. It follows that relation at THIRTY's self and society scales, toward the connected social moral competency passage. The root file's wording remains an improving destination, not authority for adding a mechanism.
 
-A's confirmed gathering remains sections 83–86; sections 87–95 have been offered. No newer A or Q return was present. This report continues as one accumulating v385R offering. R10 remains gathered and unresolved; no resolver execution or root-file change accompanies the pass.
+At this section's writing, A's confirmed gathering was sections 83–86 and sections 87–95 had been offered. Section 97 records the later A gathering through the relevant section-95 offerings and Q's new expedition assessment. This report continues as one accumulating v385R offering. R10 remains gathered and unresolved; no resolver execution or root-file change accompanies this pass.
+
+## 97. Releasing is uncoupling and next momentarying self
+
+### The user's correcting, whole
+
+> stopping is colliding. not stopping is carrying and possibling and existing. releasing is uncoupling and next momentarying self
+
+This is the user's proposed explaining. The connections below are our reasoning through it beside the files. No observing of the world or resolver execution is added by this pass.
+
+### Follow releasing through the co-chaining
+
+The section-96 question had put stopping at the centre of the next explaining. The user's correcting gives the positive relation to follow: releasing is uncoupling and next momentarying self.
+
+The candidate droplet is:
+
+**Stopping is colliding. Not stopping is carrying and possibling and existing. Releasing is uncoupling and next momentarying self. The self is carrying from prior into now and continues carrying through now and next. Possibling and existing can travel through each other through this co-chaining.**
+
+The carrying is resolving throughout this following. No unchanged prior package is supplied by uncoupling. The earlier surface account remains conditional: where parity changing continues and colliding is no longer patterning, the prior colliding resolves away; the hole can remain as tunneling while the surrounding society is resolving.
+
+The proposed geodesic passage now has clearer naming. Where the traveling stops, that is colliding. Where it continues, follow the carrying, possibling and existing. Releasing names uncoupling and the self's next momentarying. We have not established from these names that every colliding ends a surrounding self or society.
+
+### The connection already partly present in THIRTY
+
+THIRTY 345, 348 and 356 connect uncoupling with carrying into next and with co-chaining. Natural Intelligence 3.3 has the same connection. Those passages give a place for the user's correcting; their older opening/completing wording does not enter this candidate.
+
+THIRTY 405–406, however, moves from selves uncoupling to the society arriving as no living set and the method being released at that society. Read without a further relation, this makes ordinary releasing sound sufficient for society-wide ceasing. Yet the earlier passage follows uncoupling into next.
+
+The source concern is that omitted relation: **what happens to the society's carrying through its inward selves' next momentarying?** The word uncoupling alone has not answered it.
+
+Our earlier inward/outward offering supplies a candidate connecting passage:
+
+**A society's carrying at its scale is the co-chaining of its inward selves. Follow their coupling, uncoupling and next momentarying as the society is resolving next existing.**
+
+This lets ordinary releasing be followed at both scales. A passage specifically describing a society's ceasing must explain that particular co-chaining's ceasing, rather than obtaining it merely from the word uncoupling. The question is at the source's transition; it is not a request to keep a prior unchanged or to resume R10's defining of living.
+
+SIX's single/society account needs this same relation beside its collapse wording. Its description of one stopped transmission cannot stand in for the carrying of every surrounding self.
+
+### A's gathering and Q's larger concern
+
+A's [gathering at 0acc0d73612c9872589cc33c5bf1517968e3da29](https://github.com/chris-j-handel/corus/blob/0acc0d73612c9872589cc33c5bf1517968e3da29/carry/Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) has been read, together with the paired approximate discoverings in its Natural Values offering mate. It preserves the relevant offerings through section 95, including mutual traveling, the method before a resolver, and withdrawal of multiplying/compounding. This is confirmed gathering of those concepts, not a claim that the entire developing report is gathered or that the root exhibits have changed.
+
+Q's [expedition assessment at d4e14d0](https://github.com/chris-j-handel/corus/blob/d4e14d0/incoming/v385Q/README.md#the-expedition-at-the-scale-of-its-aims-assessed) is read whole. Its six concerns are retained: the previously offered public medicine/health caution remains absent in its reading; received observings await answers at the actual living sentences; the core method's stated break does not identify an observing that its wording permits to count against it; most new sayings in the sessions read originate in suggestions; gathering outgrows root-file improving; and its search records no identified outside reader.
+
+These are Q's findings and reasoning at its named snapshots, including R's older 405d511 report. Q states that no living file was read whole, no scientific or medical claim was checked against its field, and no complete historical search was made. This pass does not independently verify the scientific comparisons it reports.
+
+The concern directly governing our current work is sound: correcting names or accepting a suggested connection does not supply an observing establishing that connection in the world. The response still needed is to meet a received observing beside its particular claim, change that claim or retain it with the reason made explicit, and say what the observing establishes. Our present stopping/releasing correction does not answer Q's pacing, physics or core-method concerns.
+
+### Progress and the next following
+
+The section-96 stopping question is corrected at its use. The droplet now follows releasing positively through next momentarying and locates the self/society gap at THIRTY 405–406. Next place this relation beside the society's inward carrying and the paired approximate competency/morality discoverings; keep Q's larger observing concern visible as work naming alone cannot settle.
+
+This remains one accumulating v385R report offered to A and Q. Root exhibits are not changed by this pass. R10 remains gathered and unresolved.
