@@ -47,7 +47,3 @@ The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-a
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY-NINE_Natural_Illustrating_v380R.md`, each of its paragraphs now a droplet at the offerings.
-
-## Possible seed-opening illustration · v385A
-
-The [seed-opening offering](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md#the-proposed-seed-opening-and-its-unobserved-relations--v385a) is the concept for this possible project. No artwork has been made. The [whole biological comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#seeds-incubation-and-water-at-the-opening--v385a) supplies the reported observations and remaining questions for any later work.

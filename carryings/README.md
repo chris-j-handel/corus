@@ -2,7 +2,7 @@ Earlier incoming collections · v385A
 
 # Earlier incoming collections
 
-[Current incoming and next work](../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#incoming-still-to-gather-and-aim)
+[Current incoming](../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#incoming-still-to-gather-and-aim) · [Possible plan and next work](../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#immediate-next-work)
 
 ## Existing collections
 

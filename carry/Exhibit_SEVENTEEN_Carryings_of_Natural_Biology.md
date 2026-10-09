@@ -12,15 +12,9 @@ The whole concepts and their unresolved conditions are available at this subject
 
 [Corus 16.7](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, supplies two related clusters at [this offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md).
 
-| Project relation | Existing passage and next comparison |
-|---|---|
-| Stemness pairings and codon content | Biology 5.2 carries the stem/niche subject; 3.6 carries code/machinery explaining, and 10.4 retains further deep-math work. Corus's particular gain/loss comparisons and unread degeneracy content remain to recover. The six observations in 5.2 are not an identified list of the proposed six hallmarks. |
-| Animal cognition at its actual environment | The [whole comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#animal-cognition-and-the-environment-omitted-by-a-common-benchmark--v385a) gathers the four named accounts and their benchmark/context concern. Their stated claims and the unnamed seven-definition assertion remain to compare at the actual tasks, species and environments; no further research is needed merely to preserve this incoming. |
-| Waking/NREM metabolic groups | Biology 6.2 supplies the neural subject. Corus's conditional four-group prediction still needs its actual FDG-PET source and observing conditions. No source was recovered or group assigned in this pass. |
-
 Biology 3.6, 5.2, 6.2 and 10.4–10.5 were read whole for these comparisons. [Corus's carrying](Carryings_of_Natural_Intelligence_Corus.md#part-167-five-research-clusters-at-their-subjects) preserves all five clusters, Medicine's related projects and the remaining comparisons. Existing count explaining and a planned content comparison have their own extents.
 
-These are possibling project comparisons beside Biology; their improving value is in the offering mate. The sources remain whole, and no scientific calculation, empirical verification or living-file resolving is claimed.
+The proposed comparisons are in [the possibling mate](Exhibit_SEVENTEEN_Possibling_of_Natural_Biology.md); their concepts are in the offering mate. The sources remain whole, and no scientific calculation, empirical verification or living-file resolving is claimed.
 
 ## Earlier source inventory · retained from v381R
 

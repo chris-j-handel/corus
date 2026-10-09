@@ -24,7 +24,7 @@ The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-th
 
 This offered explaining applies to the earlier words as well as the proposed explaining of entraining. Wording supplied by the user, an assistant, a file or science does not establish its relation by authority. The overlap and recurring podaling remain relations to follow. A source address, repeated phrase, matching number or located insertlet establishes no derivation. Session v385R's proposed local writing remains available for comparison. Its later section 32 withdraws the added requirement that a fixed repeating relation with another changing must be impossible. The distinct relation between no offering at a sharing and no arriving geodesic changing remains unestablished. Its section 18, Living at its observable existing, retains the whole unresolved gathering about observing living. For the protecting comparison, a recurring number alone does not identify a particular self, momentary and occurrence; no derived assignment to numbers 12, 15 and 16 is supplied. Each source remains available with its later correction. — v385A
 
-[This subject's carrying project](Exhibit_TWO_Carryings_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
+[This subject's possibling project](Exhibit_TWO_Possibling_of_Natural_Networking.md#natural-network-expression-and-supporting-kit--v385a) gathers the distribution relation, existing offerings and supporting sources.
 
 **Next at this file:** the first resolving, bottom up, of the droplets below into insertlets; then the living file's motion at them, Exhibit ONE's names first.
 

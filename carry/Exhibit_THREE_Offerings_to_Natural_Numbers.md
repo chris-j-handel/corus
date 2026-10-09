@@ -4,6 +4,10 @@ Exhibit THREE Natural Numbers Offerings · laid at v381R · improved at v385A
 
 **Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each computed before it is said; the numbers' *ring* at 7.1's *the returning* and the numerals' correspondences at the concerns below.** The seventeen names by the map, 7.2 at the spiral with the torus's returning at the podaling, and 7.6's *in their stable and unstable forms* entered at v378; the connectors' facings and the hardest item 24 found carried already, a match.
 
+## Binary changing and numbered momentarying · v385A
+
+Keep numbering the co-sequencing’s own momentaryings distinct from imposing a common clock. A longer numbered co-chaining does not make any one changing greater. Preserve the inward/outward correspondence of the numbered names and four momentaries. The [whole correcting and its unresolved relations](Living_Improving_Value.md#alternating-width-and-length-incoming-parity-and-binary-changing--v385a) remain with the existing geodesic gathering.
+
 ## Insertlets
 
 **At 5.5 · One ten at its two sides, at five alone — beside "the pentagon and the pentagram".** Each point of the pentagram is the one triangle at φ, two equal sides to its base as the pentagon's diagonal to its side, 3.1, and the pentagon's own triangle at its centre is the same triangle inverted, its base to its sides. The ten's two sides carry the unrelationing rate at each of the five points, and no ratio of whole numbers reaches it there.

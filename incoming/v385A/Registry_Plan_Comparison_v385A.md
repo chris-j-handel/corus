@@ -10,7 +10,7 @@ The [Living File Registry](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.m
 
 **The further organizing relation:** the [user's next direction](Reordering_Plans_v385A.md#the-floating-plan-at-the-registrys-offering-mate) places the floating plan itself at the Registry's offering mate. Exhibit purposes, originating, combining, titles, subtitles, clusterings and the mate method gather there. Each project remains beside its living subject's mates, with its relation to the expedition's contents also at Registry. This record preserves the comparison that informed that gathering.
 
-**The subsequent carrying shell:** the user has now placed the supporting [master file-changing plan](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#master-file-changing-plan--v385a) inside Registry's carrying mate. This comparison supports its possible projects; exhibit-level improving remains at Registry's offering mate. A project gathering may keep changing without its proposed change ever being implemented. The [later exact direction](Reordering_Plans_v385A.md#the-master-plan-inside-the-carrying-mate) preserves this addition to the method.
+**The subsequent carrying shell:** the user has now placed the supporting [master file-changing plan](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) inside Registry's carrying mate. This comparison supports its possible projects; exhibit-level improving remains at Registry's offering mate. A project gathering may keep changing without its proposed change ever being implemented. The [later exact direction](Reordering_Plans_v385A.md#the-master-plan-inside-the-carrying-mate) preserves this addition to the method.
 
 ## Plans already offered, now connected
 

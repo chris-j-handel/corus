@@ -2,6 +2,10 @@ Exhibit TWENTY Natural Naming Offerings · improved at v385A
 
 # Offerings to Natural Naming
 
+## Binary changing and numbered momentarying · v385A
+
+Name binary changing, numbered momentarying and greater possibling at their actual subjects. Keep alternating width and length within the same four-momentarying; neither a magnitude of changing nor a common clock is supplied by the number names. The [whole correcting and its unresolved relations](Living_Improving_Value.md#alternating-width-and-length-incoming-parity-and-binary-changing--v385a) remain with the existing geodesic gathering.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

@@ -4,7 +4,7 @@ Registry improving kit instructions · current method notice v385A
 
 [Living File Registry: current file purposes and incoming method](../../carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#gathering-and-aiming-incoming-before-file-cohering--v385a).
 
-The existing programs below were written for older file arrangements and assumptions. Their required report fields, one-carrying-file descriptions, Ready/Concern categories and exclusion of things beside all existing are not the current method. No program is run by opening this kit, and running one is not an incoming or resolving requirement. Comparing and improving these tools for the two-mate arrangement is a possible project at Living File Registry's carrying. The script bodies remain as they were.
+The existing programs below were written for older file arrangements and assumptions. Their required report fields, one-carrying-file descriptions, Ready/Concern categories and exclusion of things beside all existing are not the current method. No program is run by opening this kit, and running one is not an incoming or resolving requirement. Comparing and improving these tools for the three-mate arrangement is a possible project at [Possibling of Living File Registry](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a). The script bodies remain as they were.
 
 ## Earlier tool and review descriptions, retained as an object for improving
 
