@@ -17,3 +17,5 @@ Gather Natural Medicine's distinct contribution beside Natural Health before fol
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+[The clean cut and the tell at Resolving Hard Problems](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#the-clean-cut-and-the-tell-at-resolving-hard-problems--v385a).

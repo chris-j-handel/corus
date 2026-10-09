@@ -17,3 +17,5 @@ Natural Human Society Possibling · v385A
 
 - [Earlier Natural Intelligence Corus Society and Destiny distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-society-and-destiny-distribution--v385a)
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+[Still-point passages at Equilibria Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#still-point-passages-at-equilibria-registry--v385a).

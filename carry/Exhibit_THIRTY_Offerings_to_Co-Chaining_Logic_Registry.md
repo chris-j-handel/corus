@@ -258,3 +258,7 @@ The [enumeration treating forms alike](Exhibit_FOUR_Offerings_to_Natural_Mathema
 ## The two discoverings through social co-chaining · v385A
 
 Co-Chaining Logic Registry 298–301’s changing shared and carrying chained remain distinct beside the [whole approximate competency/morality pair and later multiplying/compounding correcting](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a). Steps 183–189 and 491 need the [particular unchanged-relay correcting](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a); it supplies no unchanging whole carrying or completed definition of living.
+
+## Releasing and the particular society coupling · v385A
+
+**Droplet.** The [whole next-momentarying correcting](Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) accompanies steps 345, 348 and 356 beside 405–406. Follow the inward selves’ uncoupling and next momentarying as the society’s carrying resolves. The transition to society-wide ceasing still needs its actual co-chaining relation; the word uncoupling alone does not derive it.

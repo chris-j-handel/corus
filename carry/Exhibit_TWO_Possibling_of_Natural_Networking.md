@@ -21,3 +21,5 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 - [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
 - [Exhibit ONE connector explaining at Natural Engineering and the Natural Networking TWO Improving Kit](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#exhibit-one-connector-explaining-at-natural-engineering-and-the-natural-networking-two-improving-kit--v385a)
 - [Earlier Exhibit ONE explaining at its subject destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-exhibit-one-explaining-at-its-subject-destinations--v385a)
+
+[Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).

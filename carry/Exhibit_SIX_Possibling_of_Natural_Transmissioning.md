@@ -10,3 +10,5 @@ Gather the earlier distribution proposals beside session v384A's connected expla
 
 - [Natural Engineering entries, older code and receiving substrates](Exhibit_FIVE_Possibling_of_Natural_Engineering.md#natural-engineering-entries-older-code-and-receiving-substrates--v385a)
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+[Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).

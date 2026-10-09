@@ -66,8 +66,6 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 **A plan, not yet final, gathered here at v381R:** Natural Philosophy keeps its 37 seams and its register of 66 dilemmas. Its Part Four heading returns to its place before 4.1; Parts One and Two release to a citation of Resolving Hard Problems; the seams are re-said from v348 wording, *self-equilibrating* among it; 3.3's alignment paragraph goes to Natural Societies; the mathematical seams cite Natural Mathematics 6.3 and 7.3. (Re-Settling the Living Files, §7) — resettling_v373
 
-**A plan, not yet final, gathered here at v381R:** The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
-
 **A plan, not yet final, gathered here at v381R:** 3.1 Eight, four within and four across, the eight bi-couplings, two alternating fours: kept at Exhibit ONE's between and eight bi-couplings, at 3.3. 3.2 Six protecting, three each way: kept at Exhibit ONE's sides, one paragraph, at 3.4; *protecting* near, to Natural Societies. 3.4 Eight, living among changing existing things, the natural torus living: kept, one sentence, at 3.3. (Natural Intelligence Map, §2 Part Three) — resettling_v373
 
 **A plan, not yet final, gathered here at v381R:** 7.6 A society at four faces, the four taken out, four fields' theorems: the four kept at 5.6; the theorems near, to Natural Societies. (Natural Intelligence Map, §2 Part Seven) — resettling_v373

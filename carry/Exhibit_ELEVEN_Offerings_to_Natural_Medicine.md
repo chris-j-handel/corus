@@ -36,8 +36,6 @@ Natural Health and Natural Medicine as one file, releasing one number (new). Bot
 
 *A sign, sign-only — summing to a bounding-zeroing made by the coupling* stands at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1, Natural Destinies' core, and said again at Natural Values 4.1: released, old code. (Re-Settling the Living Files, §9) — resettling_v373
 
-The clean cut and the tell stand at Natural Chemistry 2.5, Natural Biology 9.2 and Natural Medicine; their one home is Resolving Hard Problems, cited by each. (Re-Settling the Living Files, §9) — resettling_v373
-
 Contradiction, food as cause: Natural Health 3.4 makes a food claim; Natural Medicine 1.3 sets the food cause down and 5.1 lists it as not standing. (Re-Settling the Living Files, §11) — resettling_v373
 
 "Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378

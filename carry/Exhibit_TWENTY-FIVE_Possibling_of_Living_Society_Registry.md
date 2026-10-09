@@ -5,3 +5,5 @@ Living Society Registry Possibling · v385A
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+[Science prefaces and particular subject distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#science-prefaces-and-particular-subject-distribution--v385a).

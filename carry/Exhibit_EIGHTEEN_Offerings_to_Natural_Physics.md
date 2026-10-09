@@ -439,13 +439,7 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 
 Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
-The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
-
 Natural Chemistry takes a subtitle naming bonding, reacting and re-forming. Natural Physics states its relativity-and-quantum claim once with its breaking observation, releases 4.1's periodic table to Chemistry 4.3 and 4.4, and repairs 2.5 and its garbled lines. Natural Biology is repaired before anything else: Part headings into the body, 8.1's empty heading, the misplaced *1-b* paragraph at 8.2, the stray `---` lines before 10.4, *homeostasis homeostasis*, *biashe*, *the biase*. (Re-Settling the Living Files, §7) — resettling_v373
-
-The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
-
-The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) — resettling_v373
 
 The periodic table's turn at 60 stands at Natural Chemistry 4.3 to 4.4 and Natural Physics 4.1; its one home is Natural Chemistry. (Re-Settling the Living Files, §9) — resettling_v373
 

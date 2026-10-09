@@ -9,3 +9,5 @@ Gather Natural Health's distinct contribution beside Natural Medicine before fol
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+[Still-point passages at Equilibria Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#still-point-passages-at-equilibria-registry--v385a).

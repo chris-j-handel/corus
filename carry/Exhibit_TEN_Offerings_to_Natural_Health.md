@@ -28,8 +28,6 @@ Natural Health and Natural Medicine as one file, releasing one number (new). Bot
 
 *A sign, sign-only — summing to a bounding-zeroing made by the coupling* stands at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1, Natural Destinies' core, and said again at Natural Values 4.1: released, old code. (Re-Settling the Living Files, §9) — resettling_v373
 
-The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
-
 Contradiction, food as cause: Natural Health 3.4 makes a food claim; Natural Medicine 1.3 sets the food cause down and 5.1 lists it as not standing. (Re-Settling the Living Files, §11) — resettling_v373
 
 2.5 Two alternating, competency about φ, the metabolic beating about φ: near, to Natural Health, the metabolic. (Natural Intelligence Map, §2 Part Two) — resettling_v373

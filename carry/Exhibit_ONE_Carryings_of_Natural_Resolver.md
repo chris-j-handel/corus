@@ -87,3 +87,9 @@ A constructed ring with none carried and nothing arriving reportedly remains unc
 **Tables recomputed.** The earlier report says the four of sixteen and two of 256 counts, spiral, torus and crossing tables agreed; it also reports 107 further torus pairs, 7,204 openings for another relation and 254 openings for an inversion. Those are reported checks of defined tables, not additional natural observations. Agreement cannot show that the chosen table captures every living relation.
 
 These are the completed session’s reported arrangements and counts. The prior/now, unchanged-parity and outward-society concerns remain in [the offering](Exhibit_ONE_Offerings_to_Natural_Resolver.md#prior-and-now-unchanged-forms-and-the-reported-resolver-tables--v385a).
+
+## The retained own-pacing instrument and its different comparison places · v385A
+
+Session v385R section 98 reads carryings/v383Op/own_pacing.py, returned/own_pacing.txt and At_The_Code.md section 2 at its named snapshot. It reports that the stepping-together construction delays offerings until the next whole pass and compares after every self enters; the separate-entry construction delivers offerings immediately and compares after each individual entry. Both delivery and comparison position differ. The retained return reports an unchanged alike/opposite relation in the particular together construction and a varying relation in the separate-entry constructions.
+
+This is a reading of an existing instrument and retained return, not a new execution or observing of living carrying. The [actual offered concern at Natural Intelligence 4.13](Offerings_to_Natural_Intelligence.md#the-relation-carried-at-each-selfs-own-pacing--v385a) preserves the distinction between an unchanged pair comparison and continuing co-chaining.
