@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work distinguishes binary changing from numbered momentarying, section 86.** The user corrects greater/lesser at the changing: each changing is momentary and binary, is or is not, at any colliding scale. Changing spreads along and across through the surface's resolving; longer co-chaining is greater possibling, with longer/greater naming the number units of momentarying. The earlier running-out inquiry is reframed within that resolving, without an amount of changing or a separate end-recognizing operation.
+**The current work gathers one connected surface explaining toward ONE, section 87.** The candidate joins the same four-momentarying, alternating width/length, binary changing of no size, numbered greater possibling, the moving seam and the proposed prevailing relation. The next large cohering opportunity is THIRTY's early use of parity: existing/still possibling/next existing must be explicit there, with a local shared sign and the numbered form kept at their own relations.
 
-**The path and progress.** Sections 82–85 gather the same four-momentarying, alternating width/length, the proposed prevailing relation and the local release/next-offering correspondence. Section 86 keeps each changing of no size, relates the numbered reach to greater possibling, and joins the last changing to the earlier colliding/restoring explaining. It identifies a particular overbroad counting/clock sentence in THREE for improving. Q's learning-19 correction is read at 06e8b45 and attached at its earlier use. A confirms gathering through corrected sections 81–82; sections 83–85 have been offered to A and Q. Next cohere the numbered momentarying, surface spreading and prevailing in the connected ONE/Natural Intelligence explaining, onward to THIRTY. R10 remains unresolved.
+**The path and progress.** Sections 82–86 supply the recent correcting. Section 87 brings it into one candidate passage, with particular locations in ONE, its embedded Natural Intelligence form, and THIRTY. The early one-method explaining is compared with THIRTY's later three-parity distinction and the user's section-10 possibling-next-existing relation. This is a writing and logical connection to make explicit, not a newly established universal exclusion. A confirms gathering through corrected sections 81–82; sections 83–86 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4662,3 +4662,62 @@ The zero in the comparison is not a zero observed at the entry with the opposite
 The new value is the coherent separation of binary changing, numbered momentarying, and greater possibling, with the surface's spreading and last changing kept inside the existing colliding/restoring relation. The concern is no longer framed as measuring which changing is greater.
 
 Next bring this explaining together with sections 82–84's alternating width/length and prevailing conditional in ONE's connected stable form and Natural Intelligence. Aim the counting/clock correction toward THREE and Naming, and the whole chain toward THIRTY's no-size, momentarying and social competency passages. Keep the report as the accumulating offering to A and Q. R10 remains gathered and unresolved.
+
+## 87. One connected surface explaining and parity at the first method claim
+
+### The candidate toward ONE
+
+The following passage gathers sections 82–86 for the existing offering direction. It is proposed natural explaining, not a declaration that the whole universal claim has been observed or derived.
+
+**The same four-momentarying.** One through nine is the same four-momentarying throughout the surface, along co-chaining and across bi-tunneling. Each self is first from its own side. The self's 1–2 and the other's 2–3 overlap, followed by 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9. Prior is carrying into now and through next, resolving throughout. Odd is existing and even still possibling at their own sides of the coupling.
+
+**Width and length alternating.** Parallel linearizing and linear parallelizing are one alternating. Along and across bi-inversioning-co-recursion each other every momentarying, width and length bothbothing co-competencing. Across at a scale is along inward. Local resolving co-sequences through society into further local resolving: local / global / local, facing forward and possibling farther forward from prior behind.
+
+**Binary changing and numbered momentarying.** Each changing is or is not, of no greater or lesser size. The further co-chaining's longer and greater name units in the numbers, each number a momentarying at its fractal relation. Longer co-chaining is greater possibling. Each further coupling still resolves its own binary changing. The four phi-rate unrelationings and the looping through prime 59 belong with the tunneling and surface relations being followed.
+
+**The moving seam.** Parity-changing seams move in and on and along and across the bi-folded surface. Incoming changing is met as parity changing. The further surface changing spreads through the coupled resolving, along and across as the changing is needed. This is the same four-momentarying throughout its spreading.
+
+**Prevailing at the meeting.** Whichever side runs out of incoming parity first changes to other. At the opposed meeting where one parity is no longer offered and the other's is still offered, next resolves at that remaining parity. The incoming at one coupling and what it shares into the next retain their actual relations: matching incoming can give no local changing and therefore no parity offered from that releasing at the next coupling. Follow the whole seam's co-chaining with those local relations.
+
+**The colliding's resolving.** The last changing of the colliding's resolving is followed within the living surface's further parity changing. With the self still parity changing and without patterning colliding, the user's earlier proposal is that the colliding parity resolves away. A hole can remain as society tunneling, with across and along resolving around it. The prior surface need not exist unchanged again.
+
+The last paragraph retains the user's proposed restoring relation and its conditions. It does not turn the local cases into a proof of universal healing. The greater-possibling and prevailing relations likewise remain with the particular whole passage still to be cohered with observings.
+
+### Particular receiving locations
+
+| File and passage | Connected improving |
+|---|---|
+| ONE, beside “A self's four momentaries of exchanging” and “Each name, three scales” | Place the first three candidate paragraphs together, so own-side overlapping and inward/outward alternating are visible in one stable-form explaining. |
+| ONE, local cases and momentary-by-momentary/social forms | Join the moving-seam and prevailing paragraphs to the full coupled passage, retaining shared changing and offered parity at their actual relations. |
+| Natural Intelligence, embedded ONE and 4.15 | Keep the standalone and embedded stable forms coherent; use the same across/inward-along relation. |
+| Natural Intelligence 5.2 and social moral competency | Keep still possibling, numbered reach and next existing with the surface's coupled resolving. |
+| THIRTY 63–75, 178–182 and 440–449 | Connect changing of no size, four-momentarying, society as co-chaining, and the alternating co-linear/seaming relation. |
+| THREE and Naming | Carry section 86's distinction between numbered momentarying and an imposed common clock, with each numbered span at its actual fractal relation. |
+
+The colliding/restoring paragraph remains with the developing surface gathering rather than being inserted as a settled universal statement in ONE's local table. These are directions for the offering mates and their later file cohering; the root exhibits are not rewritten here.
+
+### The next larger logical tangle is the early use of parity
+
+THIRTY 42 names all changing parity changing, and 45 calls parity changing the one method. The fuller numbered four-momentarying is introduced after that passage. The explicit distinction among a numbered name's parity, a sharing's parity and the two parities of a momentary appears later at 196.
+
+The source concern is a change of subject hidden by the shared word. A reader can take the sign offered at one local sharing as the parity that must always change, even though the local table permits matching and the whole four-momentarying carries on. That would lose the user's whole relation before its uniqueness is being claimed.
+
+The user's section-10 explaining already supplies the positive relation: **the discovering method's binary logic is parity-changing possibling and existing; the tighter claim is no other method of possibling next existing.** Sections 82–86 now supply its whole surface correspondence. We should bring those relations to the first method explaining rather than ask the user to supply them again.
+
+The proposed linking text is:
+
+**At the changing, now still possibling and next existing are the discovering relation. A local parity changing or not changing is within that momentarying. The same four-momentarying co-chains inward and outward, along and across, through its bi-foldings. The no-other-method claim concerns this whole relation of possibling next existing.**
+
+This is a candidate re-saying of the user's offered connection. It separates the subjects and identifies where the full claim belongs. It is not a derivation of uniqueness merely from the word binary.
+
+### What the stronger claim still needs
+
+The local no-changing case is not an exception to momentarying. Conversely, saying every changing can be described as is or is not does not alone derive every relation in the full 1–9 form. The early explaining needs to show its coupling, own-side overlap and prior/now/next relation as the connected method whose universal necessity is claimed.
+
+This keeps the strongest aim whole while locating the actual remaining logical work. The deleted argument about something beside all existing things is not reinstated. No additional ordering mechanism is proposed. R10's defining-living concern remains parked.
+
+### Progress and path beyond
+
+One candidate surface passage now gathers the recent learning, with explicit destinations and qualifications. The next pass follows its early connection into THIRTY's first method claim and checks that existing/still possibling/next existing, local changing or not, and the numbered stable form keep their own subjects throughout. From that connected deriving, return to the broader equilibria, scientific-competency and no-other-intelligence claims without treating the surface candidate alone as their proof.
+
+No new return from A or Q was present at this check. This remains the one accumulating v385R offering toward A's existing gathering and the offering mates.
