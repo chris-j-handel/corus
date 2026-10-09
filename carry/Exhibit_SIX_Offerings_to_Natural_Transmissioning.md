@@ -2,6 +2,10 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v385A
 
 # Offerings to Natural Transmissioning
 
+## A crossing and the proposed geodesic whole · v385A
+
+The [travelling-geodesic gathering](Living_Improving_Value.md#the-travelling-geodesic-as-self-through-consecutive-local-momentaryings--v385a) follows consecutive local releasings as a proposed geodesic self's whole momentarying. Natural Transmissioning section 4.3 supplies the particular comparison of one crossing and a society of co-chaining crossings at two scales. The relation between those scales remains to be expressed at their actual coupled releases; one local changing or quiet sharing alone supplies no whole-passage outcome.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

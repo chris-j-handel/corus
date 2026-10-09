@@ -2,6 +2,10 @@ Exhibit ONE Natural Resolver Offerings · laid at v385A
 
 # Offerings to Natural Resolver
 
+## Local sharing and the proposed whole geodesic momentary · v385A
+
+The [travelling-geodesic gathering](Living_Improving_Value.md#the-travelling-geodesic-as-self-through-consecutive-local-momentaryings--v385a) follows the user's proposed geodesic as self through consecutive local momentaryings. Natural Resolver's one-sharing table supplies its local comparison; the whole stopping outcome is not required in one table cell. The particular relation for its four momentaries and whole 1–9 and 1–17 forms is how consecutive local releasings co-chain as one whole momentary of that proposed self. No fixed number of local meetings or common pace has been supplied.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

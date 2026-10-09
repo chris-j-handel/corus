@@ -329,3 +329,7 @@ The [further seed explaining](#the-seed-dormant-carrying-and-society-tunnelling-
 ## Skin repair and the changing at its edge · v385A
 
 The user's bug-bite and skin-cut comparison, including the proposed rolled edge as bounding zeroing natural torusing, is whole in the [surface-observing gathering](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a). At this subject, follow the puncture, surrounding response and continuing tissue repair at their actual scales. The microscopic edge of a cultured cell sheet and the visible skin edge need their own relation; the liquid comparisons do not establish it by resemblance. The first bi-couplings' flowing before longer co-chainings switch remains with the [further tunneling suggestion](Living_Improving_Value.md#the-surrounding-passage-recurring-missing-changing-and-new-tunneling--v385a).
+
+## Biological comparisons in arriving and hospitality · v385A
+
+The [open-incoming offering](Offerings_to_Natural_Arriving.md#open-incoming-and-the-actual-resolving-at-its-subject--v385a) retains the proposed gut comparison. The [host–guest offering](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#hospitality-and-the-hostguest-coupling--v385a) retains the protein-chaperone, mycorrhizal-network and autumn-leaf comparisons. At this biological subject each proposed common relation needs its actual self, scale and coupling; the shared words or visible form do not establish it. These specific comparisons remain available with their whole expressions at those destinations.

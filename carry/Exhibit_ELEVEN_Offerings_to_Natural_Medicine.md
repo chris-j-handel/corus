@@ -155,3 +155,7 @@ Keep Health's carried-whole, re-locking and attentioning wording beside the curr
 ## Pacing comparisons and the actual harm conditions · v385A
 
 **Droplet.** The [pacemaker proposal](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a) leaves the benefit and harm of an offering at an existing beat unresolved. At the existing medicine examples of pacing and restoration, preserve the actual chamber, conducting path, bodily condition and comparison. A proposed match at the resolver does not establish the response of that tissue or show that the offered pulse changes nothing. The complete contrasting cases, reported scope and possible opposing outcomes stay with the engineering concept.
+
+## The institutional constraint in the moral-injury comparison · v385A
+
+The [dignity-gap offering](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#the-dignity-gap-and-offering-an-institutional-opportunity--v385a) keeps the older burnout/rest and moral-injury/constraint comparison whole. At the clinical subject, its stated outcomes need the actual observings and conditions. The proposed conserving/extending distinction alone supplies neither a diagnosis nor a care decision.

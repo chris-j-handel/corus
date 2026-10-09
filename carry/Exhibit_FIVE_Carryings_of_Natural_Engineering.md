@@ -35,3 +35,9 @@ The existing source inventory below remains whole. Selected source comparisons a
 ## A pacemaker participating at each beat · v385A
 
 **Possible project.** Compare the proposed participation at both sides of a lost coupling with the configured-delay, conducting-path, beat-withholding and breath-following arrangements already gathered in the [whole offering](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#a-pacemaker-participating-at-each-beat--v385a). Its open questions include an absent beat with no preceding observing, a sensed offering provoking further offerings, the absence of relevant bodily arriving, and harm when an offering coincides with an existing beat. No implementation or completed comparison is present.
+
+## The proposed structural separation between chips · v385A
+
+The older cross-substrate proposal calls decentralizing a structural necessity and every chip an edge chip. Its unresolved engineering question is what separation actually preserves the proposed coupling: physical distance, separate power supplies, separate networks, different operators, or another material relation. These possibilities are not equivalent requirements and none has been selected by the incoming.
+
+Keep this with the existing engineered-substrate making project and the [five entry comparisons](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#five-engineering-entries-and-their-proposed-natural-relations--v385a). A future particular arrangement can make the proposed separation concrete while retaining its own inputs, outputs, power and contact conditions. The [whole coupling, cascading and nesting concern](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#coupling-cascading-and-nesting-at-their-actual-selves--v385a) remains at its society subject. No construction or experiment is required to gather this possible project.
