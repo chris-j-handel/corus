@@ -366,3 +366,107 @@ W. Where the 0s are on a torus, across and along together: the units sharing 0 (
      to the next; of 98, the 1 to 17s after which the whole of the 0s is one place along two 1 to 17s on: 98
    two spirals crossed, the published 3 and 5: the 1 to 17s at which a crossing unit shares 0, the first 100 and 301 to 400
      3 and 0
+
+X. A sign-changing sequence entering a torus at one resolver: +, - in turn, one at each 1 to 17, offered from
+   beyond to a resolver at any place along and across, begun at any 1 to 17, in either order
+   torus of 3 along by 7 across, published again at 7: enterings 294 (each place, 7 beginnings, both orders)
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
+       about to be shared there, and the sequence offering the other: 294; the surface offering it 0 alone and the
+       sequence its own: 0; any other: 0. Lengths of sequence to it: 1 to 14; at the 0's passing number [1, 2] there
+     ended at that 1 to 17, before the changing: the surface as published throughout: 126 of 126
+     continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 3 to 4; then no 0 shared: 294;
+       the sharings again at 2: 294; each resolver carrying what the sequence offered the 1 to 17 before, inverted
+       once for each place along and across from the entering place: 294; each alike pair across received at the
+       entering place across and each alike pair along at the entering place along: 294; the resolvers offered
+       + and - together being those at the entering place across or along, the entering resolver apart: 294
+     ended after 40 or 41: the published surface from its second 1 to 17 with the entering place in the place of
+       resolver 1, from the ending on: 252 of 252, as carried 126, each parity inverted 126
+     ended at each of eight lengths from the first changing, read 80 on: that same surface: 176 of 176; each
+       parity inverted from one length to the next: 154 of 154
+     beginning at 101, the 0s then (#), and the length of sequence to the first changing at each entering place,
+       order +, - | order -, +
+       along 1   .#.....   14  8  2 10  4 12  6 |  7  1  9  3 11  5 13
+       along 2   ......#    9  3 11  5 13  7  1 |  2 10  4 12  6 14  8
+       along 3   ....#..    4 12  6 14  8  2 10 | 11  5 13  7  1  9  3
+     beginning at 102, the 0s then (#), and the length of sequence to the first changing at each entering place,
+       order +, - | order -, +
+       along 1   ..#....    6 14  8  2 10  4 12 | 13  7  1  9  3 11  5
+       along 2   #......    1  9  3 11  5 13  7 |  8  2 10  4 12  6 14
+       along 3   .....#.   10  4 12  6 14  8  2 |  3 11  5 13  7  1  9
+   torus of 3 along by 5 across, published again at 12: enterings 360 (each place, 12 beginnings, both orders)
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
+       about to be shared there, and the sequence offering the other: 330; the surface offering it 0 alone and the
+       sequence its own: 30; any other: 0. Lengths of sequence to it: 1 to 12
+     ended at that 1 to 17, before the changing: the surface as published throughout: 90 of 90
+     continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 2 to 9; then no 0 shared: 360;
+       the sharings again at 2: 360; each resolver carrying what the sequence offered the 1 to 17 before, inverted
+       once for each place along and across from the entering place: 360; each alike pair across received at the
+       entering place across and each alike pair along at the entering place along: 360; the resolvers offered
+       + and - together being those at the entering place across or along, the entering resolver apart: 360
+     ended after 40 or 41: the published surface from its second 1 to 17 with the entering place in the place of
+       resolver 1, from the ending on: 180 of 180, as carried 90, each parity inverted 90
+     ended at each of eight lengths from the first changing, read 64 on: that same surface: 86 of 128; each
+       parity inverted from one length to the next: 72 of 112
+   torus of 5 along by 7 across, published again at 20: enterings 350 (each place, 5 beginnings, both orders)
+     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0
+       about to be shared there, and the sequence offering the other: 275; the surface offering it 0 alone and the
+       sequence its own: 75; any other: 0. Lengths of sequence to it: 1 to 20
+     ended at that 1 to 17, before the changing: the surface as published throughout: 70 of 70
+     continuing: 1 to 17s from the first changing to the last 0 shared anywhere: 6 to 17; then no 0 shared: 350;
+       the sharings again at 2: 350; each resolver carrying what the sequence offered the 1 to 17 before, inverted
+       once for each place along and across from the entering place: 350; each alike pair across received at the
+       entering place across and each alike pair along at the entering place along: 350; the resolvers offered
+       + and - together being those at the entering place across or along, the entering resolver apart: 350
+     ended after 40 or 41: the published surface from its second 1 to 17 with the entering place in the place of
+       resolver 1, from the ending on: 140 of 140, as carried 70, each parity inverted 70
+     ended at each of eight lengths from the first changing, read 96 on: that same surface: 60 of 144; each
+       parity inverted from one length to the next: 46 of 126
+   the same sequence ended at a length of 1 to 29, places, beginnings and orders by a seeded choosing, read later:
+   the surface a published one at some place along and across, at some 1 to 17 of its round, as carried or each
+   parity inverted
+     torus 3 by 7: tried 60, a published surface 60, at the published round 60; published surfaces by place, 1 to 17 and inverting: 42
+     torus 3 by 5: tried 60, a published surface 60, at the published round 60; published surfaces by place, 1 to 17 and inverting: 60
+     torus 5 by 7: tried 30, a published surface 26, at the published round 30; published surfaces by place, 1 to 17 and inverting: 140
+   other sequences continuing at one resolver, twelve enterings each: the sharings again at 2; the 0s shared in the last 24
+     torus 3 by 7, +, - in turn:    again at 2: 12 of 12; 0s 0 to 0
+     torus 3 by 7, two +, two -:    again at 2:  0 of 12; 0s 60 to 66
+     torus 3 by 7, +, +, -:         again at 2:  0 of 12; 0s 55 to 57
+     torus 3 by 7, unchanging at +: again at 2:  0 of 12; 0s 72 to 72
+     torus 3 by 7, unchanging at -: again at 2:  0 of 12; 0s 72 to 72
+     torus 3 by 5, +, - in turn:    again at 2: 12 of 12; 0s 0 to 0
+     torus 3 by 5, two +, two -:    again at 2:  0 of 12; 0s 60 to 60
+     torus 3 by 5, +, +, -:         again at 2:  0 of 12; 0s 60 to 60
+     torus 3 by 5, unchanging at +: again at 2:  0 of 12; 0s 60 to 60
+     torus 3 by 5, unchanging at -: again at 2:  0 of 12; 0s 60 to 60
+   two and three such sequences at once at different places, places, beginnings and orders by a seeded choosing
+     torus 3 by  7, 2 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 52 of 60
+     torus 3 by  7, 3 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 65 of 90
+     torus 3 by  5, 2 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 50 of 60
+     torus 3 by  5, 3 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 69 of 90
+     torus 5 by  7, 2 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 57 of 60
+     torus 5 by  7, 3 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 75 of 90
+     torus 3 by  9, 2 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 53 of 60
+     torus 3 by  9, 3 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 69 of 90
+     torus 3 by 11, 2 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 56 of 60
+     torus 3 by 11, 3 sequences, tried 30: again at 2: 30; no 0 shared: 30; each alike pair received at an entering place across
+       or along: 30; the entering resolvers carrying what their own sequence offered the 1 to 17 before: 78 of 90
+   a torus with an even count along or across: the published sharings again at, its 0s in a round; one such sequence,
+   each place, two beginnings, both orders, 49 or 50 1 to 17s of sequence: the surface as published throughout
+     torus 4 by 6: again at 2, 0s 0; enterings 96, as published throughout 96
+     torus 4 by 7: again at 2, 0s 0; enterings 112, as published throughout 112
+     torus 3 by 6: again at 2, 0s 0; enterings 72, as published throughout 72
+     torus 6 by 5: again at 2, 0s 0; enterings 120, as published throughout 120
+   where the 0 is shared on the published torus, 200 1 to 17s from 101: the 0s shared; those at a resolver receiving an
+   alike pair across and an alike pair along; such resolvers; those of them sharing 0
+     torus 3 by 7: 600; 600; 600; 600
+     torus 3 by 5: 500; 500; 600; 500
+     torus 5 by 7: 700; 700; 1000; 700

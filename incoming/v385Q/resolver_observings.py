@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to W.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to X.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n resolvers: each releasing along (9) to the next, the last to the first, one
@@ -8,8 +8,9 @@ sharing, the first resolver carrying -, the resolvers alternating along, none of
 published spiral. A torus of p by q resolvers: each releasing along (9) and sharing across (10), as published.
 A colliding: at each momentary from a first to a last, one parity offered to resolver 1 from beyond, by a form
 that is unchanging at + or at -, or returns the parity resolver 1 is carrying, or returns the other parity, or
-alternates +, - at its own momentaries. Momentaries are numbered from 1."""
-import glob, itertools, os, re, sys
+alternates +, - at its own momentaries. Momentaries are numbered from 1. Part X: a sequence of +, - in turn offered
+from beyond to one resolver of a torus at any place along and across, one parity at each 1 to 17."""
+import glob, itertools, os, random, re, sys
 
 root = sys.argv[1] if len(sys.argv) > 1 else "."
 path = sorted(glob.glob(os.path.join(root, "Exhibit_ONE_Natural_Resolver_v*.md")))[-1]
@@ -33,6 +34,27 @@ def alt(i):
     return -1 if i % 2 == 0 else 1
 
 
+_shared_now = []
+
+
+def _first_function_read(carried, offerings):
+    out = entry(carried, offerings)
+    _shared_now.append(out[0])
+    return out
+
+
+def step_reading(st, rel):
+    """One 1 to 17 by Exhibit ONE's second function, unchanged; beside the next state, the shared changing that
+    function's own run of the first function returned at each unit, in the order of the units."""
+    del _shared_now[:]
+    ns["_1_co_bi_tri_offering"] = _first_function_read
+    try:
+        new = step(st, rel)
+    finally:
+        ns["_1_co_bi_tri_offering"] = entry
+    return new, [dict(tun).get("s") for tun in _shared_now]
+
+
 def spiral(n, form=None, start=0, stop=None, T=400, pattern=None):
     """Shared changing (10) and carried parity (3) of each resolver at each momentary."""
     st = {i: ([("s", pattern[i] if pattern else alt(i))], []) for i in range(n)}
@@ -43,14 +65,17 @@ def spiral(n, form=None, start=0, stop=None, T=400, pattern=None):
             c, o = st[0]
             st[0] = (c, o + [("s", form(t, dict(c)["s"]))])
         car.append([dict(st[i][0])["s"] for i in range(n)])
-        sh.append(tuple(dict(entry(*st[i])[0]).get("s") for i in range(n)))
-        st = step(st, rel)
+        st, now = step_reading(st, rel)
+        sh.append(tuple(now))
     return sh, car
+
+
+_torus_begun = {}
 
 
 def torus(p, q, form=None, start=0, stop=None, T=600, quiet=None):
     """Shared changing of each resolver at each momentary. quiet = (a, b): resolver 1 releasing and sharing to none
-    from momentary a + 1 until b."""
+    from momentary a + 1 until b. A colliding run begins from the published torus run once to the colliding's first."""
     cells = [(i, j) for i in range(p) for j in range(q)]
     st = {c: ([("s", alt(c[0] + c[1]))], []) for c in cells}
     rel = {}
@@ -58,13 +83,22 @@ def torus(p, q, form=None, start=0, stop=None, T=600, quiet=None):
         rel[((i, j), 9)] = ((i + 1) % p, j)
         rel[((i, j), 10)] = (i, (j + 1) % q)
     less = {k: v for k, v in rel.items() if k[0] != (0, 0)}
-    sh = []
-    for t in range(T):
+    sh, first = [], 0
+    if form and not quiet and 0 < start <= T:
+        if (p, q, start) not in _torus_begun:
+            rows = []
+            for t in range(start):
+                st, now = step_reading(st, rel)
+                rows.append(tuple(now))
+            _torus_begun[(p, q, start)] = (st, rows)
+        st, rows = _torus_begun[(p, q, start)]
+        st, sh, first = dict(st), list(rows), start
+    for t in range(first, T):
         if form and t >= start and (stop is None or t < stop):
             c, o = st[(0, 0)]
             st[(0, 0)] = (c, o + [("s", form(t, dict(c)["s"]))])
-        sh.append(tuple(dict(entry(*st[c])[0]).get("s") for c in cells))
-        st = step(st, less if quiet and quiet[0] <= t < quiet[1] else rel)
+        st, now = step_reading(st, less if quiet and quiet[0] <= t < quiet[1] else rel)
+        sh.append(tuple(now))
     return sh
 
 
@@ -747,3 +781,224 @@ for t in range(400):
     late += z if t >= 300 else 0
     st = step(st, rel)
 print("     %d and %d" % (early, late))
+
+print("\nX. A sign-changing sequence entering a torus at one resolver: +, - in turn, one at each 1 to 17, offered from")
+print("   beyond to a resolver at any place along and across, begun at any 1 to 17, in either order")
+
+
+_published = {}
+
+
+def surface(p, q, enters=(), T=200):
+    """Carried, shared and offered at each resolver of a torus at each 1 to 17. enters: (place, order, first, last),
+    order 0 for +, - in turn, 1 for -, + in turn, or a function giving the parity at each 1 to 17 of the sequence.
+    The published torus's first 131 1 to 17s are run once at each size and each run begins from them."""
+    if (p, q) not in _published:
+        cells = [(i, j) for i in range(p) for j in range(q)]
+        rel = {}
+        for i, j in cells:
+            rel[((i, j), 9)] = ((i + 1) % p, j)
+            rel[((i, j), 10)] = (i, (j + 1) % q)
+        _published[(p, q)] = (cells, rel, [{c: ([("s", alt(c[0] + c[1]))], []) for c in cells}], [], [], [])
+    cells, rel, states, pcar, psh, poff = _published[(p, q)]
+    begin = min([first for _, _, first, _ in enters] + [T, 130])
+    while len(states) <= begin:
+        st = states[-1]
+        poff.append({c: [v for _, v in st[c][1]] for c in cells})
+        pcar.append({c: dict(st[c][0])["s"] for c in cells})
+        new, now = step_reading(st, rel)
+        psh.append(dict(zip(cells, now)))
+        states.append(new)
+    st, car, sh, off = dict(states[begin]), pcar[:begin], psh[:begin], poff[:begin]
+    for t in range(begin, T):
+        off.append({c: [v for _, v in st[c][1]] for c in cells})
+        for at, order, first, last in enters:
+            if t >= first and (last is None or t < last):
+                c, o = st[at]
+                st[at] = (c, o + [("s", order(t - first) if callable(order) else turn(order, t - first))])
+        car.append({c: dict(st[c][0])["s"] for c in cells})
+        st, now = step_reading(st, rel)
+        sh.append(dict(zip(cells, now)))
+    return car, sh, off
+
+
+def turn(order, k):
+    return 1 if (k + order) % 2 == 0 else -1
+
+
+def round_of(sh, cells, tail=120):
+    return again([tuple(r[c] for c in cells) for r in sh], tail)
+
+
+def alike_at(car, p, q, t):
+    """The receiving places of the alike pairs across and of the alike pairs along."""
+    across = set((i, j) for i in range(p) for j in range(q) if car[t][(i, (j - 1) % q)] == car[t][(i, j)])
+    along = set((i, j) for i in range(p) for j in range(q) if car[t][((i - 1) % p, j)] == car[t][(i, j)])
+    return across, along
+
+
+def opened_at(car, t1, bcar, a, b, p, q, cells, lo, span=14):
+    """1 or -1 where, from lo after t1, the surface is the published one from its second 1 to 17 with place (a, b) in
+    the place of resolver 1, as carried or each parity inverted; 0 where it is neither."""
+    for sg in (1, -1):
+        if all(car[t1 + k][(i, j)] == sg * bcar[1 + k][((i - a) % p, (j - b) % q)] for k in range(lo, lo + span) for (i, j) in cells):
+            return sg
+    return 0
+
+
+for p, q in ((3, 7), (3, 5), (5, 7)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    bcar, bsh, boff = surface(p, q, T=330)
+    P = round_of(bsh, cells)
+    begins = list(range(100, 100 + P)) if p * q <= 21 else list(range(100, 100 + P, 4))
+    ends, wide = (begins[:3], 2) if p * q <= 21 else (begins[:1], 4)
+    n = held = begun = other = before_same = 0
+    lengths, passing, to_last = [], [], []
+    two = no0 = carries = lines = parting_ok = 0
+    ended_n = ended_same = ended_inv = 0
+    each_n = each_ok = each_alt = each_pairs = 0
+    for (a, b) in cells:
+        for t0 in begins:
+            for order in (0, 1):
+                T = t0 + 2 * P + 2 * (p + q) + 14
+                car, sh, off = surface(p, q, [((a, b), order, t0, None)], T)
+                first = next(t for t in range(t0, T) if sh[t] != bsh[t] or car[t + 1] != bcar[t + 1])
+                own, came, given = bcar[first][(a, b)], [v for v in boff[first][(a, b)] if v != 0], turn(order, first - t0)
+                kind = "held" if came and all(v == own for v in came) and given == -own else ("begun" if not came and given == own else "other")
+                held += kind == "held"; begun += kind == "begun"; other += kind == "other"
+                n += 1
+                lengths.append(first - t0 + 1)
+                zs = [t for t in range(t0, first + 1) if bsh[t][(a, b)] == 0]
+                passing.append(len(zs) if kind == "held" else None)
+                last0 = max(t for t in range(T) if any(v == 0 for v in sh[t].values()))
+                to_last.append(last0 - first)
+                tail = range(T - 12, T)
+                two += all(sh[t] == sh[t - 2] != sh[t - 1] for t in tail)
+                no0 += last0 < T - 12
+                carries += all(car[t][(i, j)] == turn(order, t - 1 - t0) * (-1) ** ((i - a) % p + (j - b) % q) for t in tail for (i, j) in cells)
+                ac, al = alike_at(car, p, q, T - 1)
+                lines += ac == set((i, b) for i in range(p)) and al == set((a, j) for j in range(q))
+                parting_ok += all((set(off[t][c]) == {1, -1}) == ((c[0] == a or c[1] == b) and c != (a, b)) for t in tail for c in cells)
+                if t0 in ends:
+                    for d in (first - t0,):
+                        c2, s2, _ = surface(p, q, [((a, b), order, t0, t0 + d)], t0 + d + 30) if d else (bcar, bsh, None)
+                        before_same += all(c2[t] == bcar[t] for t in range(t0 + d + 30))
+                    for d in (40, 41):
+                        c2, s2, _ = surface(p, q, [((a, b), order, t0, t0 + d)], t0 + d + 16)
+                        sg = opened_at(c2, t0 + d, bcar, a, b, p, q, cells, 0)
+                        ended_n += 1; ended_same += sg == 1; ended_inv += sg == -1
+                    if (a + b) % wide == 0 and t0 == begins[0]:
+                        prev = None
+                        for d in range(first - t0 + 1, first - t0 + 9):
+                            c2, s2, _ = surface(p, q, [((a, b), order, t0, t0 + d)], t0 + d + 8 * (p + q) + 16)
+                            sg = opened_at(c2, t0 + d, bcar, a, b, p, q, cells, 8 * (p + q))
+                            each_n += 1; each_ok += sg != 0
+                            if prev is not None:
+                                each_pairs += 1; each_alt += sg and sg == -prev
+                            prev = sg
+    print("   torus of %d along by %d across, published again at %d: enterings %d (each place, %d beginnings, both orders)" % (p, q, P, n, len(begins)))
+    print("     the first 1 to 17 the sequence changes anything: the surface offering that resolver its own parity alone, a 0")
+    print("       about to be shared there, and the sequence offering the other: %d; the surface offering it 0 alone and the" % held)
+    print("       sequence its own: %d; any other: %d. Lengths of sequence to it: %d to %d%s" % (
+        begun, other, min(lengths), max(lengths),
+        "; at the 0's passing number %s there" % sorted(set(x for x in passing if x)) if begun == 0 else ""))
+    print("     ended at that 1 to 17, before the changing: the surface as published throughout: %d of %d" % (before_same, n * len(ends) // len(begins)))
+    print("     continuing: 1 to 17s from the first changing to the last 0 shared anywhere: %d to %d; then no 0 shared: %d;" % (min(to_last), max(to_last), no0))
+    print("       the sharings again at 2: %d; each resolver carrying what the sequence offered the 1 to 17 before, inverted" % two)
+    print("       once for each place along and across from the entering place: %d; each alike pair across received at the" % carries)
+    print("       entering place across and each alike pair along at the entering place along: %d; the resolvers offered" % lines)
+    print("       + and - together being those at the entering place across or along, the entering resolver apart: %d" % parting_ok)
+    print("     ended after 40 or 41: the published surface from its second 1 to 17 with the entering place in the place of")
+    print("       resolver 1, from the ending on: %d of %d, as carried %d, each parity inverted %d" % (ended_same + ended_inv, ended_n, ended_same, ended_inv))
+    print("     ended at each of eight lengths from the first changing, read %d on: that same surface: %d of %d; each" % (8 * (p + q), each_ok, each_n))
+    print("       parity inverted from one length to the next: %d of %d" % (each_alt, each_pairs))
+    if (p, q) == (3, 7):
+        for t0 in (100, 101):
+            print("     beginning at %d, the 0s then (#), and the length of sequence to the first changing at each entering place," % (t0 + 1))
+            print("       order +, - | order -, +")
+            rows = {}
+            for (a, b) in cells:
+                for order in (0, 1):
+                    car, sh, off = surface(p, q, [((a, b), order, t0, None)], t0 + 3 * P)
+                    rows[(a, b, order)] = next(t for t in range(t0, t0 + 3 * P) if sh[t] != bsh[t] or car[t + 1] != bcar[t + 1]) - t0 + 1
+            for a in range(p):
+                print("       along %d   %s   %s | %s" % (a + 1, "".join("#" if bsh[t0][(a, j)] == 0 else "." for j in range(q)),
+                      " ".join("%2d" % rows[(a, j, 0)] for j in range(q)), " ".join("%2d" % rows[(a, j, 1)] for j in range(q))))
+
+print("   the same sequence ended at a length of 1 to 29, places, beginnings and orders by a seeded choosing, read later:")
+print("   the surface a published one at some place along and across, at some 1 to 17 of its round, as carried or each")
+print("   parity inverted")
+for p, q, tries, later in ((3, 7, 60, 100), (3, 5, 60, 100), (5, 7, 30, 300)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    bcar, bsh, _ = surface(p, q, T=160)
+    P = round_of(bsh, cells)
+    known = set(tuple(sg * bcar[100 + dk + k][((i - da) % p, (j - db) % q)] for k in range(10) for (i, j) in cells)
+                for da in range(p) for db in range(q) for dk in range(P) for sg in (1, -1))
+    rnd, ok, own = random.Random(385), 0, 0
+    for _ in range(tries):
+        at, t0, d, order = rnd.choice(cells), 60 + rnd.randrange(P), rnd.randrange(1, 30), rnd.randrange(2)
+        car, sh, _ = surface(p, q, [(at, order, t0, t0 + d)], t0 + d + later + 130)
+        ok += tuple(car[t0 + d + later + k][c] for k in range(10) for c in cells) in known
+        own += round_of(sh, cells) == P
+    print("     torus %d by %d: tried %d, a published surface %d, at the published round %d; published surfaces by place, 1 to 17 and inverting: %d" % (p, q, tries, ok, own, len(known)))
+
+print("   other sequences continuing at one resolver, twelve enterings each: the sharings again at 2; the 0s shared in the last 24")
+for p, q in ((3, 7), (3, 5)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    for name, f in (("+, - in turn", lambda k: turn(0, k)), ("two +, two -", lambda k: 1 if (k // 2) % 2 == 0 else -1),
+                    ("+, +, -", lambda k: 1 if k % 3 < 2 else -1), ("unchanging at +", lambda k: 1), ("unchanging at -", lambda k: -1)):
+        two, zeros = 0, []
+        for at in cells[::max(1, len(cells) // 6)][:6]:
+            for t0 in (100, 101):
+                car, sh, _ = surface(p, q, [(at, f, t0, None)], t0 + 120)
+                two += all(sh[t] == sh[t - 2] for t in range(t0 + 96, t0 + 120))
+                zeros.append(sum(v == 0 for t in range(t0 + 96, t0 + 120) for v in sh[t].values()))
+        print("     torus %d by %d, %-16s again at 2: %2d of 12; 0s %d to %d" % (p, q, name + ":", two, min(zeros), max(zeros)))
+
+print("   two and three such sequences at once at different places, places, beginnings and orders by a seeded choosing")
+for p, q in ((3, 7), (3, 5), (5, 7), (3, 9), (3, 11)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    for N in (2, 3):
+        rnd = random.Random(385 + N)
+        n = two = no0 = follows = lines = 0
+        for _ in range(30):
+            places = rnd.sample(cells, N)
+            ens = [(pl, rnd.randrange(2), 60 + rnd.randrange(24), None) for pl in places]
+            T = 84 + 6 * (p + q) + 40
+            car, sh, _ = surface(p, q, ens, T)
+            n += 1
+            two += all(sh[t] == sh[t - 2] != sh[t - 1] for t in range(T - 12, T))
+            no0 += not any(v == 0 for t in range(T - 12, T) for v in sh[t].values())
+            follows += sum(all(car[t][pl] == turn(order, t - 1 - t0) for t in range(T - 12, T)) for pl, order, t0, _ in ens)
+            ac, al = alike_at(car, p, q, T - 1)
+            lines += set(j for i, j in ac) <= set(b for a, b in places) and set(i for i, j in al) <= set(a for a, b in places)
+        print("     torus %d by %2d, %d sequences, tried %d: again at 2: %d; no 0 shared: %d; each alike pair received at an entering place across" % (p, q, N, n, two, no0))
+        print("       or along: %d; the entering resolvers carrying what their own sequence offered the 1 to 17 before: %d of %d" % (lines, follows, n * N))
+
+print("   a torus with an even count along or across: the published sharings again at, its 0s in a round; one such sequence,")
+print("   each place, two beginnings, both orders, 49 or 50 1 to 17s of sequence: the surface as published throughout")
+for p, q in ((4, 6), (4, 7), (3, 6), (6, 5)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    bcar, bsh, _ = surface(p, q, T=150)
+    P = round_of(bsh, cells, 40)
+    n = same = 0
+    for at in cells:
+        for t0 in (100, 101):
+            for order in (0, 1):
+                car, sh, _ = surface(p, q, [(at, order, t0, None)], 150)
+                n += 1
+                same += car == bcar and sh == bsh
+    print("     torus %d by %d: again at %d, 0s %d; enterings %d, as published throughout %d" % (p, q, P, sum(v == 0 for t in range(100, 100 + P) for v in bsh[t].values()), n, same))
+
+print("   where the 0 is shared on the published torus, 200 1 to 17s from 101: the 0s shared; those at a resolver receiving an")
+print("   alike pair across and an alike pair along; such resolvers; those of them sharing 0")
+for p, q in ((3, 7), (3, 5), (5, 7)):
+    cells = [(i, j) for i in range(p) for j in range(q)]
+    car, sh, _ = surface(p, q, T=300)
+    zeros = at_both = both = 0
+    for t in range(100, 300):
+        ac, al = alike_at(car, p, q, t)
+        both += len(ac & al)
+        zeros += sum(sh[t][c] == 0 for c in cells)
+        at_both += sum(sh[t][c] == 0 for c in ac & al)
+    print("     torus %d by %d: %d; %d; %d; %d" % (p, q, zeros, at_both, both, at_both))
