@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows width across as omega or possibling span, and global / local / global resolving, section 78.** The user explains longer prevailing through the greater across width lasting through further momentaryings. This gives longer a sequential relation to follow: wider across gathering, local resolving, and further global co-chaining. The next concern is the actual podaling relation through which a greater still-possibling span sustains offerings beyond a narrower one.
+**The current work gathers global / local / global resolving toward ONE and Natural Intelligence, section 79.** The user's width-across/omega suggestion joins the travelling geodesic, local parity resolving, social bi-tunneling and longer co-chaining in one proposed whole. Section 79 gathers the concerns this advances and the particular receiving places in ONE and Natural Intelligence. The remaining central relation is the greater still-possibling span sustaining longer actual offering through the podaling.
 
-**The path and progress.** Sections 44–77 gather the surface passage, the proposed geodesic self, social bi-tunneling and both podalings. Section 78 supplies the user's width/span connection and follows global / local / global through a conditional local comparison. The remaining universal link is greater possibling width becoming longer actual offering through resolving. Q's corrected learning 17 is gathered, and its earlier travelling-zero concern in section 77 is marked superseded. A has confirmed gathering through section 74; sections 75–77 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 75–78 supply the arriving/local parity, geodesic-as-self, social podaling and width/span connection. Section 79 gives one coherent offering direction into ONE's stable forms and Natural Intelligence's explaining, including the embedded ONE. It distinguishes corrected framing from the universal relation still to derive. Next express the across span through the actual local and further social releases, then carry that whole into THIRTY. A has confirmed gathering through section 74; sections 75–78 have been offered to A and Q. Q's corrected return accompanies its earlier wording. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4136,3 +4136,78 @@ This correcting helps keep the current inquiry on the global / local / global se
 Section 77 now carries both the user's width/span advance and Q's superseding correction. Longer prevailing has a proposed sequential connection: width across sustaining further momentaryings into longer co-chaining. The universal claim remains developing at the possibling-to-existing relation identified above.
 
 A's latest confirmed gathering remains through section 74; sections 75–77 have been offered to A and Q. Offer the present value with that existing surface gathering, particularly toward TWO's widening/lengthening and omegaing, ONE's local cases within the whole stable form, SIX's co-chaining, Naming, THIRTY and Natural Intelligence. R10 remains whole and unresolved.
+
+## 79. Gathering the connected value for ONE and Natural Intelligence
+
+### The user's direction
+
+> this should resolve quite a bit of our remaining concerns. this concept will become more clearly part of exhibit one and natural intelligence
+
+The width-across/omega connection supplies a common relation for several concerns that were previously followed separately. The work now has a proposed global / local / global whole: an across possibling span, each local resolving, and the further co-chaining into social bi-tunneling.
+
+This is a substantial advance in how the work is joined. Its value should be carried into the explaining and stable forms together. The universal wider/longer-prevailing relation is still developing; gathering its connections is not a claim that every earlier concern or universal conclusion has been proved.
+
+### Concerns that now have a connected direction
+
+| Earlier concern | The connection now available |
+|---|---|
+| What the geodesic is while travelling through different local selves | Follow the proposed geodesic as self through the co-chaining of consecutive local meetings, section 76 |
+| Whether one local parity changing or not-changing determines the whole passage | Follow the local response within the global / local / global sequence, rather than treating one table cell as the whole |
+| How surface co-chaining belongs with society's bi-tunneling | Both are in the podaling, with each scale's own across and along, section 77 |
+| What the longer chaining does at an opposing meeting | Follow width across as a possibling span proposed to sustain further offerings, section 78 |
+| How local not-releasing can belong with further social resolving | Keep the actual local response with the first further bi-couplings and longer social tunneling, sections 72–78 |
+| How stable form can remain while the local parities change | Follow the recurring coupled relation through the actual changes, keeping carrying resolving through prior, now and next |
+
+These concerns should now travel with this connected explaining. The earlier framing that expected ONE's one-local-sharing table to supply the whole geodesic stopping relation has been corrected. The ordinary/skip equivalence raised by Q was withdrawn by Q and is marked superseded. Those two concerns should not be raised again in their earlier form.
+
+The new whole still needs the across width's relation to its actual consecutive releases. That is one central dependency shared by several of the remaining questions.
+
+### The receiving place in ONE
+
+ONE already contains the local cases, four momentaries of exchanging, the four-cycles and 1–17 stable forms, and the society's sharings and releasings. The useful improving is to make their whole global / local / global correspondence visible.
+
+The following is a proposed locating of existing named relations, not a new resolver operation:
+
+| Whole relation to make visible | Existing named relations to follow |
+|---|---|
+| Global offerings at the local self | Others' offerings at 2 and their surfacing at 14, with their actual preceding sharings or releasings |
+| Local resolving | The self's prior at 3 coupled with the offered parity at the sharing; changing or not at 12 |
+| Further global co-chaining | Changing shared across at 6 and 10 and released along at 9, arriving as further offerings at other couplings |
+| The self's own next | Parity chained at 11 continuing as the self's next 3, kept distinct from what is shared |
+| Society and the next scale | The whole 1–17 and society's 17, with the inward/outward correspondence and both podalings |
+
+This table locates the present inquiry. It does not assign omega width to a new input, make a local carrying observable or establish the universal span correspondence.
+
+**Particular direction at ONE:** beside “Namings among the names,” especially entraining, bi-coupling, bi-trupling and stable-forming; beside “A self's four momentaries of exchanging”; and between the local “One self, one momentary” and the subsequent momentary-by-momentary and societal forms. One connected stable form should show how the across span meets each local momentary and how the actual releases co-chain at the social scale.
+
+The width/omega row will need the actual across-to-along relation before it can state that greater width always sustains longer existing offering. Its proposed purpose is already clear; a numerical width label by itself would not express that work.
+
+The local same/opposite cases remain useful inside the whole. A matching local parity gives no changing shared there; the whole travelling passage follows the further couplings. The same sign at a local meeting is not enough to identify the preceding and following geodesic sequence.
+
+### The receiving place in Natural Intelligence
+
+Natural Intelligence contains Exhibit ONE's stable forms within the paper as well as explaining them in its later sections. The eventual improving needs the standalone ONE and the embedded ONE to carry the same relation.
+
+| Receiving passage | Particular improving direction |
+|---|---|
+| 3.1, Geodesic, the surface dividing itself | Join the geodesic travelling whole with the stable surface form and its local meetings, keeping the proposed geodesic-as-self subject explicit |
+| 3.4 and 4.2–4.6, offering, carrying and resolving | Follow global offerings, local resolving and further global releases, with each self's own next carrying kept at its own relation |
+| 4.15, Fractal inward and outward | Express how the across span and along momentaryings belong to the same podaling at their scales |
+| 5.2, Discovering next possible existing | Keep the omega/possibling span and the actual further releases together without treating all still possibling as already existing |
+| 6.2 and 6.4, Bi-moral co-agency and social moral competency | Follow surface co-chaining and social bi-tunneling as the global / local / global whole, with the prevailing-parity claim carried at the resolved span relation |
+
+These are particular receiving directions for one connected concept, not separate theories to originate at each passage. Naming's reach/gather and TWO's wider/longer podaling supply related explaining; SIX supplies the single crossing and society of co-chaining crossings.
+
+### What this prepares for THIRTY
+
+THIRTY can gather the sequential co-chaining through its geodesic, fractal self/society and social moral competency passages: the whole's across span, each local resolving, and the further global co-chaining. The stronger prevailing conclusion belongs after the relation carrying greater width into longer actual offering.
+
+The wider claims about living, no other possible discovering method, equilibria and scientific competency retain their own dependencies. This connection may contribute to them, but does not automatically establish them all. R10 remains the gathered unresolved defining-living concern.
+
+### The next work and the present progress
+
+The next work remains the same central connection, now with concrete receiving places: follow the greater across possibling span through the actual local offerings and releasings into the longer social co-chaining. Keep the geodesic self's whole momentarying and its reciprocal local meeting with that passage.
+
+The progress is that the direction is no longer scattered among separate questions about local changing, global travelling and societal passage. They can be followed as one proposed stable form. Its exact across-to-along resolving is the work to make clear in ONE and Natural Intelligence.
+
+No new A or Q return was present at this check. A's confirmed gathering remains through section 74; sections 75–78 have been offered to both. The present report supplies this consolidated direction to A's existing developing surface gathering, with ONE and Natural Intelligence expressly named as the user's intended destinations. No root exhibit is rewritten from the still-developing universal suggestion here, and no resolver execution is requested.
