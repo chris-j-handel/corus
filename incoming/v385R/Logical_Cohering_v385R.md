@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the society's resolving and the relation carried, section 98.** Releasing is uncoupling and next momentarying self; the society's carrying is followed through its inward selves' co-chaining. This is now joined to the paired approximate competency/morality discoverings. A larger source concern is met at Natural Intelligence 4.13: its alike/opposite relation asserted at each self's own momentarying, beside v383Op's recorded own-pacing comparison.
+**The current work narrows the unchanged-relation claim, section 99.** If exactly one of two compared binary parities changes, their alike/opposite relation changes. An unchanged comparison therefore cannot describe every separate parity-changing entry. Section 99 supplies a concrete replacement candidate for Natural Intelligence 4.13 beside v383Op's recorded comparison and follows its reach toward society.
 
-**The path and progress.** Sections 93–97 join binary changing, mutual traveling and releasing through surface and society. Section 98 supplies a connected social passage and reads the actual code, recorded return and scope of the earlier pacing finding without execution. The comparison changes both offering delivery and where in the sequence parities are compared; it does not establish a failure of living co-chaining. The source's unrestricted fixed-relation claim remains unsupported. Next explain which coupled relation is being carried, then correct the sentence at its proper reach and carry that correction toward ONE, THIRTY and social moral competency. A's relevant gathering through section 95 remains confirmed; no newer A or Q return was present. R10 remains unresolved.
+**The path and progress.** The current social droplet follows carrying resolving, releasing into next momentarying, and each self's existing possibling other. The stronger fixed-relation sentence is now marked for narrowing, with its supporting reason explicit. A's gathering of sections 97–98 is confirmed at 30038dc8352773a509865781b0d03a5411718a06. A also returned Natural Biology 7.4: its society/member distinction is useful, while its equation of decay with releasing needs the current correcting. Next follow the society's actual co-chaining through changed couplings, retaining the particular society-ceasing concern. R10 remains unresolved; no root exhibit is changed by this pass.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -5322,6 +5322,8 @@ The source concern can therefore be said directly:
 
 These name different claims. A particular arrangement could have both, but the co-chaining alone does not yet derive the unchanged comparison.
 
+**Section 99 now resolves the narrow logical part.** Exactly one compared parity changing changes the alike/opposite relation. The unchanged comparison cannot be required at every separate parity-changing entry. Section 99 supplies a concrete source replacement; the broader society relation remains a separate explaining.
+
 A proposed narrowing for Natural Intelligence 4.13 is:
 
 **The recorded stepping together carries the alike or opposite relation at the places where that instrument compares it. With separate entries, the recorded comparison varies. Follow each self's offerings and next existing through the actual couplings; carrying the co-chaining has not been shown to require an unchanged comparison of the two latest parities.**
@@ -5335,3 +5337,61 @@ The releasing droplet now joins the society's inward carrying to the paired appr
 This pass meets one received finding at its actual sentence and adds a source-based distinction about where the comparison occurs. It proposes a narrower sentence; it does not silently rename the original claim as though that claim had already passed its comparison. Root exhibits remain unchanged in this pass.
 
 Next resolve the meaning and reach of the carried relation, then aim the resulting correction beside Natural Intelligence 4.13 and 6.2–6.4, ONE's construction of the comparisons, and THIRTY's society explaining. The society-ceasing passage remains gathered without reopening R10. A's confirmed relevant gathering remains through section 95; no newer return from A or Q was present.
+
+## 99. Changing the comparison and carrying the co-chaining
+
+### What resolves without another premise
+
+Section 98's question contains a narrow logical part we can answer directly. At two binary parities, exactly one changing changes their alike/opposite relation.
+
+| Changing between two comparisons | Alike/opposite relation |
+|---|---|
+| Neither parity changes | The relation is the same |
+| Exactly one parity changes | The relation changes |
+| Both parities change | The relation is the same |
+
+This follows from binary sameness and difference. It prescribes no common momentary, no order over selves and no particular offering. It is not a new run or an observing of living carrying. The comparison's subject is the two parities already used by the recorded instrument.
+
+The own-pacing instrument changes at most the selected self's chained parity at an individual entry. If that self is one of the compared pair and its parity changes, their comparison necessarily changes. If a different self enters, or the selected parity stays the same, that comparison stays the same. Consequently an unchanged alike/opposite comparison cannot hold at every individual entry that changes exactly one of the compared parities.
+
+A relation compared after both sides have changed can be the same again. That does not make the intervening relation unchanged. This is why section 98's difference in comparison places matters.
+
+### Concrete correction offered for Natural Intelligence 4.13
+
+The current sentence is:
+
+> The parities again Exhibit ONE's tables carry, and the momentary a crossing alternates from, are at the resolver's stepping, the selves together at 17, and the crossing selves come opposite together; at each self's own pacing the relation is carried, and each momentary of parities again is the stepping's.
+
+Replace that sentence, in its particular table discussion, with this candidate:
+
+**Exhibit ONE's tables give the returning parities and the crossing selves' opposite relation at the resolver's stated stepping together at 17. In the retained separate-entry comparison, the two compared parities vary between alike and opposite. An unchanged alike/opposite comparison is therefore established only at the stated arrangements and comparison places; it is not established at every self's individual entry. Follow each self's offerings and next existing through the actual couplings.**
+
+The reason for narrowing is explicit: the earlier retained return varies at its separate-entry comparisons, and exactly one compared binary parity changing necessarily changes that relation. The delivery and comparison-place differences remain beside the result; the result does not isolate a single cause or show that living co-chaining stopped.
+
+This correction is ready as an offering beside the sentence. It is not yet a root-file change. Nor does it retroactively turn the broader original claim into one that the instrument established.
+
+### What this lets the social explaining retain
+
+Keep the proposed natural relation:
+
+**Each self is carrying from prior into now and continues carrying through now and next, resolving. Releasing is uncoupling and next momentarying self. Each self's existing is possibling other. The inward selves' co-chaining is the society's carrying.**
+
+The paired approximate discoverings stay with it: competency as discovering next possible existings; morality as discovering existing next possibles. An unchanged comparison between the two latest parities is no additional premise of this candidate.
+
+This also narrows the stopping language. An alike/opposite comparison changing does not establish a traveling passage stopping. The user's stopping-as-colliding and releasing-as-next-momentarying explaining needs the actual passage followed. The code comparison supplies neither a biological cessation nor a new definition of living.
+
+### A's return: the society and its members
+
+A's [releasing gathering](https://github.com/chris-j-handel/corus/blob/30038dc8352773a509865781b0d03a5411718a06/carry/Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) and [Natural Intelligence gathering](https://github.com/chris-j-handel/corus/blob/30038dc8352773a509865781b0d03a5411718a06/carry/Offerings_to_Natural_Intelligence.md#the-relation-carried-at-each-selfs-own-pacing--v385a) are now read and confirm sections 97–98 gathered at those concepts. The report as a whole is not thereby declared gathered.
+
+A points to [Natural Biology 7.4](https://github.com/chris-j-handel/corus/blob/c10644a438b93ff95e8b437884dc21cccb309646/Exhibit_SEVENTEEN_Natural_Biology_v333.md#74-a-societys-decay--the-members-standing-while-the-society-stops), read whole here. It distinguishes a society's coupling ceasing from its members' endings, and says a society can continue with its members changing. Its sentence equating decay with couplings releasing conflicts with our current next-momentarying explaining if releasing has the same meaning in both.
+
+The useful source distinction is the society's particular co-chaining and its members' own resolving. Keep that distinction. The proposed correction at the relation is: **releasing is uncoupling and next momentarying self; a society's ceasing must be followed at that society's co-chaining.** The older passage does not derive that ceasing from ordinary releasing. Its biological examples are not independently verified by this reading.
+
+### The remaining concern and path
+
+The unchanged-parity comparison is now narrowed at the logical relation and given a concrete source replacement. It is no longer a question we need to ask the user whether to require at every entry.
+
+The remaining society concern is the one already gathered: follow how the particular inward co-chaining continues through changed couplings, and where the source claims that particular co-chaining ceases. Neither unchanged membership, an unchanged surface shape, nor a fixed alike/opposite comparison supplies that explaining.
+
+Next bring this correction beside THIRTY 183–189 and 405–406, Natural Intelligence 6.2–6.4 and Biology 7.4, using their actual self/society relations. ONE's code and table scope accompany the correction; no execution, biological validation or root-file rewrite accompanies this pass. R10 remains gathered and unresolved.
