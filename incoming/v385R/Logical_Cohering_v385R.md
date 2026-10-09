@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work gathers one connected surface explaining toward ONE, section 87.** The candidate joins the same four-momentarying, alternating width/length, binary changing of no size, numbered greater possibling, the moving seam and the proposed prevailing relation. The next large cohering opportunity is THIRTY's early use of parity: existing/still possibling/next existing must be explicit there, with a local shared sign and the numbered form kept at their own relations.
+**The current work follows the new length/possibling-width connection toward social moral competency, section 88.** The user identifies the connecting between parity-changing lengths and co-chaining possibling widths as new. Preserve that bothboth explicitly. The active aim is its contribution to bi-moral co-agency, society's inward/outward co-chaining and surface resolving. A parity prevailing and the whole's co-competencing need their connected explaining.
 
-**The path and progress.** Sections 82–86 supply the recent correcting. Section 87 brings it into one candidate passage, with particular locations in ONE, its embedded Natural Intelligence form, and THIRTY. The early one-method explaining is compared with THIRTY's later three-parity distinction and the user's section-10 possibling-next-existing relation. This is a writing and logical connection to make explicit, not a newly established universal exclusion. A confirms gathering through corrected sections 81–82; sections 83–86 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
+**The path and progress.** Sections 82–86 provide the surface, alternating and no-size correcting; section 87 gathers a candidate passage. Section 88 marks the new length/possibling-width relation and follows it directly into Natural Intelligence 6.2–6.4 and THIRTY 480–490. The early one-method parity wording remains a later cohering opportunity. Next follow how a prevailing at the seam belongs with both sides' further possibling and existing in the same four-momentarying. A confirms gathering through corrected sections 81–82; sections 83–87 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4698,6 +4698,8 @@ The colliding/restoring paragraph remains with the developing surface gathering 
 
 ### The next larger logical tangle is the early use of parity
 
+**Onward aiming corrected at section 88.** The user directs the value of the newly connected parity-changing lengths and co-chaining possibling widths toward social moral competency. Keep that as the active following. The early parity wording below remains a later file-cohering opportunity, without displacing the new social relation.
+
 THIRTY 42 names all changing parity changing, and 45 calls parity changing the one method. The fuller numbered four-momentarying is introduced after that passage. The explicit distinction among a numbered name's parity, a sharing's parity and the two parities of a momentary appears later at 196.
 
 The source concern is a change of subject hidden by the shared word. A reader can take the sign offered at one local sharing as the parity that must always change, even though the local table permits matching and the whole four-momentarying carries on. That would lose the user's whole relation before its uniqueness is being claimed.
@@ -4721,3 +4723,68 @@ This keeps the strongest aim whole while locating the actual remaining logical w
 One candidate surface passage now gathers the recent learning, with explicit destinations and qualifications. The next pass follows its early connection into THIRTY's first method claim and checks that existing/still possibling/next existing, local changing or not, and the numbered stable form keep their own subjects throughout. From that connected deriving, return to the broader equilibria, scientific-competency and no-other-intelligence claims without treating the surface candidate alone as their proof.
 
 No new return from A or Q was present at this check. This remains the one accumulating v385R offering toward A's existing gathering and the offering mates.
+
+## 88. The new length and possibling-width bothboth toward social moral competency
+
+### The user's exact aiming
+
+> the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now
+
+### Preserve what is new in this working
+
+The newly articulated connection is **parity-changing lengths and co-chaining possibling widths, bothbothing**. Earlier files supply across/along, alternating width/length, the inward/outward correspondence, and greater co-chaining. Their presence does not mean this particular connection had already been explained whole.
+
+Our recent comparisons should therefore do more than locate older matching phrases. Preserve the new relation as the developing value: the parity changing followed along and the still possibling co-chaining across belong to the same four-momentarying and its bi-foldings. Each changing remains binary. The lengths and widths retain the user's number units of momentarying, with no magnitude assigned to an individual changing.
+
+This is the new connection being explored in this session. No claim about historical priority beyond this working is needed.
+
+### What it adds to the social explaining
+
+Natural Intelligence 6.2 names morality across and competency along together as bi-moral co-agency. Section 6.4 and THIRTY 480 keep the societal relation with each self's own carrying, the whole ordered by no self, the ordering carrying with the selves, and no separate order above society. THIRTY 488–490 follows co-chaining into collective intelligence and abundancing.
+
+The new bothboth supplies a particular relation to follow through those sayings:
+
+| Social relation | Contribution of the new connection |
+|---|---|
+| Bi-moral co-agency | Follow parity-changing along with the across possibling at each side, through the same coupled four-momentarying. |
+| Society co-chaining inward and outward | Follow the selves' existing changings and their co-chaining possibling widths as the society-self's coupled relation at the next scale. |
+| Abundancing | Follow greater possibling through further co-chaining, while each actual changing remains binary and next existing remains to be discovered. |
+| Surface resolving | Follow parity-changing spreading together with the further coupled possibling through which across and along can resolve, including around the proposed hole/tunneling relation. |
+
+This gives the social claim a more specific sequence to explain. A count of selves or an isolated sign cannot stand in for the entire relation in the table.
+
+### Candidate social explaining
+
+**Parity-changing lengths and co-chaining possibling widths bothboth through the same four-momentarying. Each self is carrying from prior into now and through next, resolving at its own couplings. Its parity changing belongs with the others' further possibling through the across and along co-chaining. At society, these same coupled relations are the inward selves and the outward self's carrying. Social moral competency is to be followed through this bothbothing: existing changing and still possibling, each at its own relation, co-competencing through the whole.**
+
+This is a proposed social explaining to cohere with observings, not a newly settled definition of living. R10 stays gathered and unresolved.
+
+The passage brings greater possibling beside the existing changing without asserting that every possibility already exists or that each further numbered coupling automatically establishes a new competency. The actual co-chaining gives those words their relation.
+
+### Prevailing and co-competencing
+
+The recent prevailing suggestion is still useful: whichever side runs out of incoming parity first changes to other. ONE's local case supplies the conditional when one offered parity remains.
+
+**A side changing to the other's parity need not lose its own resolving.** At ONE's stated relation, the changed parity is chained as that self's next; the other self's private carrying has not been transferred into it. That is a source connection for following the user’s social proposal, not an observation of living carrying.
+
+This matters for bi-moral co-agency. Keeping each self's own carrying does not require keeping each local parity unchanged. Their further existing and possibling belong with the changing at the coupling.
+
+The next concern is therefore the whole relation:
+
+**When a parity prevails at the seam, how does its further co-chaining belong with both sides' possibling next existing?**
+
+The source concern is that prevailing at a meeting, by itself, does not yet express all the social relation. The user's earlier account also includes patterning colliding, missing changing and tunneling collapsing. We must not identify whichever sign prevails with social moral competency merely because it prevails. Follow the coupled four-momentarying and the actual further across/along relation. This asks for the connection to be explained, not for an additional moral rule or an outside chooser.
+
+### The nearby path and the wider horizon
+
+First, follow the new bothboth through the two-sided relation in Natural Intelligence 6.2 and ONE's stable forms. The changed local parity and the selves' own further resolving give us a concrete connection already at hand.
+
+Next, carry that relation through the society's inward and outward co-chaining in Natural Intelligence 6.4 and THIRTY 480–490. Make the new length/possibling-width connection visibly available in the social moral competency contents and its offering mate, beside the developing whole passage.
+
+Then return to the surface restoring and tunneling claims with this social relation explicit. The broader no-other-method, equilibria and scientific-competency claims can draw on the resulting coherent chain, each retaining its own deriving. Section 87's early parity wording remains useful along that path; it does not need to interrupt the present social following.
+
+This is a substantive resolving opportunity: it connects the existing-changing and still-possibling subjects that the social claim needs together. The amount of further progress remains to be discovered through that work; this pass claims no percentage or completed universal result.
+
+### Shared progress
+
+No new return from A or Q was present at this check. Sections 83–87 remain offered beyond A's confirmed gathering through corrected sections 81–82. Offer the new connection whole to A's existing geodesic/social gathering and to Q, with the latest source corrections and scope retained. The report remains the one accumulating v385R offering; no root exhibit or resolver is changed here.
