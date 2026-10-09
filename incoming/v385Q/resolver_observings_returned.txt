@@ -319,3 +319,18 @@ U. Each passing of the 0 at a self: the 1 to 17s from the 0 arriving among its o
    a form unchanging at -:         at the self it meets, passings by 1 to 17s taken {1: 77}; at each other self {2: 261}
    a form returning what it meets: at the self it meets, passings by 1 to 17s taken {1: 77}; at each other self {2: 262}
    a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the self it meets, 0s shared) [(3, 200, 0), (5, 200, 0), (7, 200, 0)]
+
+V. A 0 among the offerings. The code as written hands a shared 0 on with the parities shared, and the first
+   function passes each offered 0 over. Tried: each arrangement again with each 0 taken out of what is offered
+   spirals of 2 to 9, each opening pattern, and spirals of 3, 5 and 7 with each form colliding: tried 1035;
+   a 1 to 17 at which some self's shared changing or next carried is other with the 0s taken out: 0
+   one self, by what is offered: none, its carried inverted and shared; the parity it carries, no changing
+   and none shared on; the other parity, changed to it and that parity shared on
+     carried +, offered none:  shared -, next carried -
+     carried +, offered +:     shared 0, next carried +
+     carried +, offered -:     shared -, next carried -
+     carried +, offered + -:   shared -, next carried -
+     carried -, offered none:  shared +, next carried +
+     carried -, offered -:     shared 0, next carried -
+     carried -, offered +:     shared +, next carried +
+     carried -, offered - +:   shared +, next carried +

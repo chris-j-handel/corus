@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to U.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to V.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -659,3 +659,42 @@ for n in (3, 5, 7):
     rows = entries(n, form=FORMS[3][1], T=300)
     held.append((n, sum(rows[t][0][0] == rows[t][n - 1][0] for t in range(100, 300)), sum(rows[t][i][2] == 0 for t in range(100, 300) for i in range(n))))
 print("   a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the self it meets, 0s shared) %s" % held)
+
+
+print("\nV. A 0 among the offerings. The code as written hands a shared 0 on with the parities shared, and the first")
+print("   function passes each offered 0 over. Tried: each arrangement again with each 0 taken out of what is offered")
+
+
+def same_without_zeros(st, rel, T, form=None, form_from=0):
+    a = {k: v for k, v in st.items()}
+    b = {k: v for k, v in st.items()}
+    first = sorted(st, key=str)[0]
+    for t in range(T):
+        if form and t >= form_from:
+            for d in (a, b):
+                c, o = d[first]
+                d[first] = (c, o + [("s", form(t, dict(c)["s"]))])
+        b = {k: (c, [x for x in o if x[1] != 0]) for k, (c, o) in b.items()}
+        if any(entry(*a[k]) != entry(*b[k]) for k in a):
+            return False
+        a, b = step(a, rel), step(b, rel)
+    return True
+
+
+tried = parted = 0
+for n in range(2, 10):
+    for pat in itertools.product(V, repeat=n):
+        tried += 1
+        parted += not same_without_zeros({i: ([("s", pat[i])], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}, 60)
+for name, f in FORMS:
+    for n in (3, 5, 7):
+        tried += 1
+        parted += not same_without_zeros(*ring(n), 200, form=f, form_from=40)
+print("   spirals of 2 to 9, each opening pattern, and spirals of 3, 5 and 7 with each form colliding: tried %d;" % tried)
+print("   a 1 to 17 at which some self's shared changing or next carried is other with the 0s taken out: %d" % parted)
+print("   one self, by what is offered: none, its carried inverted and shared; the parity it carries, no changing")
+print("   and none shared on; the other parity, changed to it and that parity shared on")
+for c in V:
+    for offs in ([], [c], [-c], [c, -c]):
+        tun, nxt = entry([("s", c)], [("s", o) for o in offs])
+        print("     carried %s, offered %-6s shared %s, next carried %s" % (S[c], (" ".join(S[o] for o in offs) or "none") + ":", S[dict(tun)["s"]], S[dict(nxt)["s"]]))
