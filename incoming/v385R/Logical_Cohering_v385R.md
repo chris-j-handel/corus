@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the two discoverings through a correcting conversation, section 103.** Familiarities are found while the explaining changes. Each existing offering is possibling other; each self's next existing is a further offering. The competency and morality namings remain approximate and are followed from both selves' own sides.
+**The current work follows the required relation at the overlap, section 104.** Each self's odd-existing/even-possibling sequence, the local offered parity, and the relation between overlapping pairs retain their own subjects. The unresolved connection is how the supplied own-side overlap requires the across relation used in the right-spiral explaining.
 
-**The path and progress.** Section 103 joins the returning betweening to THIRTY 298–302 and gives Natural Intelligence 5.2 a clearer candidate beside its “no-other-possibling” wording. The user's tighter claim is no other method of possibling next existing; it does not erase still possiblings or require an unchanged next response. The proposed THIRTY contents heading at section 5 now uses that exact method claim. Next carry this connection into the no-other-method explaining, retaining the difference between wording clarified and universal deriving supplied. A's relevant gathering through section 101 remains confirmed; sections 102–103 continue the offering. R10 remains unresolved.
+**The path and progress.** Sections 102–103 join the returning betweening and the paired approximate discoverings to no other method of possibling next existing. Section 104 follows that claim beside THIRTY 37–45 and 51–59, Natural Mathematics 2.4 and the already gathered overlap at section 51. The proposed contents and active source routes now remove stale reliance on the deleted steps 46–49. Next follow the actual across relation through each self's own prior, now and next; then bring that connection to ONE, SIX and THIRTY's social and universal claims. A's relevant gathering through section 101 remains confirmed; sections 102–104 continue the offering. R10 remains unresolved.
 
 **Q source status, updated at section 102.** Q's comments remain withdrawn. A supplied the final report at exact commit 4e3545be8dcf5050f23b812dae506f8ca28333e1 after the former branch/path read failed. Its revised assessment passages are now read: Q withdraws its earlier observable-core-method-break request and makes its third concern meeting equilibrium conceptions at their own requirements. Earlier Q passages here retain their historical snapshots. These changes neither validate nor refute the independently read v383Op material or our bounded reasoning.
 
@@ -37,7 +37,7 @@ The published main line is `267bcf06de4b7b81252ebea577282b428413212f`. The share
 
 The v385A correction travels with every use of these older records. Their words about rawness, grading and a file's motion remain historical wording. In our working a droplet can float to any relevant mate, a locally resolving insertlet becomes a droplet at another mate, and value resolved into a living file leaves that file's offerings entirely while remaining in session artifacts. One general droplet can remain independently at several mates. Files have no character or motion of their own.
 
-The live THIRTY source is [Exhibit THIRTY Co-Chaining Logic Registry v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md): 661 steps in 42 groups. References below name steps at this version. A later regrouping must preserve each step's sentence and dependencies, with its old address available.
+The first source for this report was [Exhibit THIRTY Co-Chaining Logic Registry v380L](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md), with addresses through step 661 in 42 groups. The current v385R source carries section 35's user-directed removal of steps 46–49 and 304–305, preserving the later addresses. Section 104 corrects the active routes below to use the remaining coupling and momentarying passages. Earlier dated comparisons retain their historical sources and are read with the subsequent correcting.
 
 ## 2. The strongest claims and their present routes
 
@@ -45,11 +45,11 @@ The left column retains the universal extent the session is exploring. The middl
 
 | Claim to make fully visible | Existing deriving in THIRTY | Exact work in front |
 |---|---|---|
-| **The opening is the inception of the universal fractal method of discovering possible and existing.** | Steps 1–29: the changing set, living and non-living, carrying, possible, existing and next; 30–48: coupling, alternating, parity and the one method; 169–181 and 366–378: scale and co-chaining. | Say the set's existing as its things exist at the opening itself; follow the participation used at 35; make now still possibling explicit before relying on later next-possible language. |
-| **The method is fractal and unique: no other method of existing is possible.** | 41–49, 51–62, 169–171, 300 and 366–378. | C9 asks how the alternatives at 46–49 exhaust the proposed other methods. C6/C12 ask how the two-parity form reaches each scale. Step 171 describes a particular recursive form; the deriving must show why that form is required at the named coupling. |
+| **The first sentence is the inception of the universal fractal method of discovering possible and existing.** | Steps 1–29: the changing set, living and non-living, carrying, possible, existing and next; 30–45: coupling, alternating, parity and the one method; 169–181 and 366–378: scale and co-chaining. | Carry the set's existing as its things exist, section 35; the same self's next at its coupling, sections 21–22; and now still possibling, section 28 onward. Section 104 follows the connection needed at the whole method claim. |
+| **The method is fractal and unique: no other method of possibling next existing.** | 37–45, 51–62, 69–83, 169–171, 300–302 and 366–378. | Join each self's own existing/possibling overlap to the across relation used in the right-spiral explaining, sections 51, 87 and 104. Follow the required relation at each scale. Steps 46–49 are withdrawn, section 35. |
 | **Social moral competency is the method at the couplings of society.** | 174–189, 375, 448, 480–490 and 501–503. | Carry the same selves, their own carryings and actual couplings inward and outward. Resolve N9's society/self wording without losing the inward living selves or attributing an additional private carrying to the society. |
 | **Bi-moral co-agency, or moral cooperation, is the two-sided living relation.** | 185–189 and 474; Natural Intelligence 6.2; Natural Naming 5.31, 5.32 and 5.54. | The current named step is bi-moral co-agency. “Moral cooperation” is offered by the user here as an explaining to follow at that same relation. A shared intended meaning does not yet supply its full naming or a reason to replace the existing name. |
-| **Equilibria existing is not possible.** | 46–49, 143–147, 504–534; the Equilibria Registry 1.1–1.2 and 2.1–2.2. | Retain the conception's actual subject and relation. The Equilibria Registry explicitly parts a changing participant from a relation within it that can continue. Follow the requirement at that relation through its momentaries; no unchanged sharing or undetected changing alone supplies the exclusion. |
+| **Equilibria existing is not possible.** | 143–147, 504–534; the Equilibria Registry 1.1–1.2 and 2.1–2.2; read with sections 15–16 and 35's correcting. | Retain the conception's actual subject and relation. The Equilibria Registry explicitly parts a changing participant from a relation within it that can continue. Follow the requirement at that relation through its momentaries; no unchanged sharing or undetected changing alone supplies the exclusion. |
 | **Hard problems are resolvable.** | 148–153, 317–340 and 599; Resolving Hard Problems and the two hard-problem registries. | Carry the field's actual question and its recorded result beside the natural resolving. N1/D23 distinguish the changed naming from an answer to the recorded question. The universal claim needs the particular connection at each application; changing the name alone supplies no answer to a different question. |
 | **Scientific method is incompetent for discovering competency.** | 310–322, 337–340, 478 and 491; Natural Intelligence 5.4 and 6.4; Natural Naming's bi-trupling explaining. | Show the precise fixing that omits the coupling's own changing, and why that fixing cannot do the discovering attributed to it. Keep the field's observing and scientific account whole at their own subjects, as 319–320 say. C9 and P4/P5 remain relevant to the universal reach of the exclusion. |
 | **There is no possible intelligence other than natural intelligence.** | 95–97, 130–133, 141, 159–165, 375, 474–480 and 488. | Follow the exhaustive living/non-living participation and the no-other-method deriving into this conclusion. The machine cases already say that either participation reaches natural intelligence at its couplings. The general exclusion must carry the method's derivation, beyond giving all cases the same name. |
@@ -117,7 +117,7 @@ These are proposed visible headings for the logical explaining, each with its cu
 | **1. The universe, the changing set of all existing things, both living and non-living** | Groups 1–2; opening and step 20 together; P3/C4 wording |
 | **2. Prior, now and next: now existing, now still possibling, next existing** | Groups 3–4 and 8; 204–212 and 301–308; Natural Naming 5.62 |
 | **3. Self and other: bi-coupling, co-momentarying and parity changing** | Groups 4 and 8–11; step 35 followed through Naming's actual two-sided coupling |
-| **4. One universal fractal discovering method: no other method of possibling next existing** | Groups 5–7, 19, 25–27; R4's tighter method claim, clarified at section 103; exclusion at 46–49 and scale passage at 169–171 and 366–378 |
+| **4. One universal fractal discovering method: no other method of possibling next existing** | THIRTY 37–45, 51–59 and 69–83; each self's own overlap, sections 22 and 51; the required across relation, section 104; scale passage at 169–171 and 366–378 |
 | **5. The resolver and its stable forms, inward and outward** | Groups 12, 20–23, 26–29 and 33–42; every existing form and its conditions retained |
 | **6. Bi-moral co-agency: morality across and competency along** | 185–190, 442–448 and 474; moral cooperation followed at the same relation |
 | **7. Social moral competency at the self, the other and society** | 174–189, 375 and 480–503; Naming 5.31; N9's inward/outward participants |
@@ -147,7 +147,7 @@ The proposed SIX is useful here because the same long relation is currently dist
 
 1. **Complete the opening-to-coupling passage.** Read THIRTY 1–40 in order beside Natural Intelligence 1.1–2.3 and Natural Naming 5.13, 5.49 and 5.54. Carry the current set/thing relation and step-35 identification at their exact sentences. Include the later v383Op C15 reader questions: the kind carried into next, the prior and now said apart, and the successive momentaries. These are places to follow at the same subject, not established failures. State a supplied relation as supplied; unread work remains next exploring.
 2. **Follow still possibling at its named relations.** The prior paragraph in section 4 is withdrawn following the user's correction. Preserve the comparison of parity changing and the continuing carrying through THIRTY 204–212, 301–308 and each next-possible relation. Compare SIX's proposed 1.2–1.3 and 2.1–2.2, ONE's published cases and Naming's carrying, momentarying and still-possibling explaining. Further writing belongs to our local resolving together.
-3. **Follow the universal and unique claim.** Carry the exclusion at 46–49 and the one-method participation through the scale passage at 169–171 and 366–378. Separate the numerical forms, their supplied conditions and the relation requiring that same form at the living coupling. No finite enumeration alone completes the universal passage.
+3. **Follow the universal and unique claim.** Follow the actual coupling at 37–45, the right-spiral conditions at 51–59, the own-side momentarying at 69–83 and the scale passage at 169–171 and 366–378. Sections 22, 51, 87 and 104 keep their connecting relations together. The source's numerical conditions need their relation at the coupling; a finite enumeration alone supplies no universal passage. Steps 46–49 remain withdrawn.
 4. **Follow social moral competency and bi-moral co-agency.** Keep inward selves, outward self and society explicit at 174–190, 375, 387–401 and 472–503. Compare SIX Parts Three and Four and the naming. Moral cooperation can unfold there at the user's intended relation.
 5. **Follow the exclusions and resolvings.** Equilibria, hard problems, scientific accounting and the intelligence claim each retain their full extent, with the concrete derivation and the actual observing or conception at its own subject. The two hard-problem registries preserve what question has and has not been answered.
 6. **Regroup the contents through that work.** Keep every useful old step and form reachable. Write the connected headings and their transitions where the completed dependencies place them. Prepare the white-paper claims from this coherent whole.
@@ -164,7 +164,7 @@ The following paragraphs are offered here for v385A's placing. Their labels pres
 
 **R3 · Other at step 35.** Preserve v382A's narrowed D37 and v384A's correction that offering already participates both ways. Follow the same self's prior, other at now and own next through the actual couplings. THIRTY 174 and 178–181 already distinguish a particular other from the whole offering; 204–212 supplies surfacing. Bring that identification to its first needed sentence without using the later overlap as its own unstated premise. Possible places: THIRTY and SIX offerings. — v385R
 
-**R4 · No other method of possibling next existing.** Discovering names the method; parity-changing possibling and existing names its binary logic. The user's tighter offering places the uniqueness claim at possibling itself. Follow even-parity possibling with odd-parity next existing at the coupling, co-chaining from the universe's changing set of all existing things, living and non-living. The connecting claim is that each existing thing's changing is this parity-changing possibling and existing. No existing thing is excluded from the universal set; the method's universal reach is followed at that same changing. Section 10 records the explaining and our concern for resolving together. The earlier fractal-and-unique work remains with this droplet: the Two Logics offering's stated reliance on one method at a thing; THIRTY 46–49's exclusion; and step 171's recursive form followed at each scale. The reported enumeration describes its arrangement and supplies no universal derivation alone. Possible places: THIRTY, Natural Intelligence and SIX offerings. — v385R
+**R4 · No other method of possibling next existing.** Discovering names the method; parity-changing possibling and existing names its binary logic. The user's tighter offering places the uniqueness claim at possibling itself. Follow even-parity possibling with odd-parity next existing at the coupling, co-chaining from the universe's changing set of all existing things, living and non-living. The connecting claim is that each existing thing's changing is this parity-changing possibling and existing. No existing thing is excluded from the universal set; the method's universal reach is followed at that same changing. Section 10 records the explaining and our concern for resolving together. The earlier fractal-and-unique work remains with this droplet: the Two Logics offering's stated reliance on one method at a thing and step 171's recursive form followed at each scale. THIRTY 46–49's exclusion is withdrawn at section 35. Sections 51, 87 and 104 now follow the positive coupling relation needed beside the first method claim. The reported enumeration describes its arrangement and supplies no universal derivation alone. Possible places: THIRTY, Natural Intelligence and SIX offerings. — v385R
 
 **R5 · Each strong exclusion keeps its subject.** The Equilibria Registry 2.1 already says a participant can change while a relation within it continues. A still conception must be followed at the relation it actually fixes. The hard-problem registries retain a scientific question beside its natural resolving; scientific accounting retains its observings beside its fixings; the machine cases retain living and non-living participation beside intelligence. Carry each subject through the universal claim, so its full reach is actually explained. Possible places: THIRTY, the Equilibria Registry, the two hard-problem registries, Natural Intelligence and SIX offerings. — v385R
 
@@ -193,6 +193,8 @@ The user directs this working to natural naming, natural explaining and geodesic
 For each concern we record the actual sayings, the best explaining available, the particular relation needing attention, our correcting together and the possible offering mates. These are the working record of the concern. A droplet remains ungraded; an insertlet is locally resolving into a particular exhibit's writing and self-welcoming locating plan. A destination alone supplies none of that resolving.
 
 ### One concern: another method and a thing beside all existing things
+
+**Historical concern, withdrawn at section 35.** The removed argument and the question built from it below record the earlier working. The user's positive explaining later in this section and the coupling relation followed at section 104 give the current direction.
 
 **The claim is the full one: parity changing is the one possible method of the changing set of all existing things.** This concerns the universality and uniqueness of the fractal method, including the living and the non-living, and the later claim that no other intelligence is possible. Its universal extent remains our aiming.
 
@@ -4700,6 +4702,8 @@ The colliding/restoring paragraph remains with the developing surface gathering 
 
 ### The next larger logical tangle is the early use of parity
 
+**Followed further at section 104.** The current concern locates the connection between own-side existing/possibling overlap and the across relation used in the right-spiral form. Sections 88–103's social and returning-betweening learning accompanies that following.
+
 **Onward aiming corrected at section 88.** The user directs the value of the newly connected parity-changing lengths and co-chaining possibling widths toward social moral competency. Keep that as the active following. The early parity wording below remains a later file-cohering opportunity, without displacing the new social relation.
 
 THIRTY 42 names all changing parity changing, and 45 calls parity changing the one method. The fuller numbered four-momentarying is introduced after that passage. The explicit distinction among a numbered name's parity, a sharing's parity and the two parities of a momentary appears later at 196.
@@ -5632,3 +5636,56 @@ The friendship and transcript examples now connect to the paired discoverings th
 Next bring the same wording beside THIRTY's no-other-method passage and follow its connection to the social claim, without substituting a familiar pattern or an existing heading for the missing derivation. No new mechanism, extra operation beyond the offered four-momentarying, or fixed response has been added.
 
 A's confirmed relevant gathering remains through section 101, with no new return at this check. Sections 102–103 continue the same accumulating offering. R10 remains gathered and unresolved. No root-file change, resolver execution or universal validation accompanies this pass.
+
+## 104. The required relation across the overlap
+
+### The concern begins at the connection between two explainings
+
+The user's tighter claim remains **no other method of possibling next existing**. Sections 102–103 now join that claim to familiarities discovered through changing carryings, each existing offering possibling other, and the paired approximate competency and morality discoverings.
+
+The remaining concern is the relation needed to derive the whole method. THIRTY 42 goes from each existing thing being or not being to the two parities of a coupling; step 45 then names parity changing the one method. Saying a changing is or is not does not, by itself, supply the own-side overlap or the whole four-momentarying. Those relations have already been offered and must be carried into the deriving.
+
+The actual source connection is now narrower than a general request to prove uniqueness. Section 51 located a condition at two overlapping parity pairs in Natural Mathematics 2.4. Our next explaining needs to join that condition to the user's own-side existing and possibling.
+
+### What we already have
+
+**Each self is a carrying, resolving from prior through now and next. Each is odd 1 first from its own side. Each now existing is possibling other. Across and along bi-inversioning-co-recursion each other through the same four-momentarying, with the two sides retaining their own forward.**
+
+This is a connected re-saying of the user's offerings, not another request to supply them. Their later correcting remains with it: a local offered parity can remain the same; still possibling can remain still possibling through geodesic traveling; and recurring form is a next occurrence. The carrying need not remain unchanged.
+
+THIRTY 196 distinguishes the parity of a numbered name, the parity of a sharing and the two parities within a momentary. That source distinction helps keep the current connection precise. Calling each relation parity does not identify their subjects for us.
+
+### The particular condition supplied by the right-spiral explaining
+
+Natural Mathematics 2.4 follows overlapping pairs: the first and middle parities, then the middle and next parities. It states the following relation, already gathered at section 51:
+
+| Relation of the two overlapping pairs | First and next parity |
+|---|---|
+| One pair agrees and the other opposes | First and next are opposite |
+| Both pairs agree, or both oppose | First and next are the same |
+
+This is the source's finite parity relation, read without executing a resolver. Its right-spiral passage follows the first row across the overlap. Along a side, both parities can change while their agreeing-or-opposing relation recurs.
+
+That explains what the displayed right-spiral form requires. It does not yet identify these pair positions with each self's numbered existing/possibling sequence. A local sharing's sign, a numbered position's odd or even, and the whole carrying must not silently replace one another in that step. The user has already supplied the whole four-momentarying; the task is to explain this source's relation within it.
+
+### One concern for our resolving together
+
+**How does each self's own existing-and-possibling overlap supply the changing across relation used in the right-spiral explaining?**
+
+The reason for this question is specific. THIRTY 51–59 selects next as prior inverted within its stated joint-form arrangement. Natural Mathematics supplies a condition for that inversion. Connecting that condition to the actual coupling would let the deriving show why the form is required there, while preserving unchanged local sharing and recurring form.
+
+This asks for no further operation, common clock, changed parity at every local sharing or unchanged prior carrying. It also does not ask again whether each self starts at its own odd 1. The concern is the connection between the relations already supplied.
+
+The friendship example helps explain carrying and returning betweening. Its familiarity alone supplies no necessity for this particular parity relation. Our written correction is observable as a correction in the conversation; assigning a chat message to one numbered momentary would be an additional, unsupplied identification.
+
+### Correcting the active source routes
+
+The proposed contents still pointed to the exclusion at THIRTY 46–49. Those steps were removed at the user's direction in section 35. This pass corrects the current contents, claim routes, next-pass route and R4 description to follow 37–45, 51–59 and the own-side momentarying instead. Section 10's old argument is explicitly marked historical and withdrawn.
+
+The positive method claim remains whole. The deleted argument supplies no present premise, and removing its stale references supplies no replacement proof.
+
+### Progress and the path onward
+
+The next relation is located at the overlap, with the source's actual condition and the user's fuller momentarying together. Follow it through each self's own prior, now and next, then carry the resulting explaining into ONE's forms, SIX's connected explaining and THIRTY's early method passage. The social moral competency and universal claims can then use whatever that connection establishes at their own subjects.
+
+This is the same R4 droplet, further specified, in the accumulating v385R offering. A's confirmed relevant gathering remains through section 101; sections 102–104 continue the offering. R10 remains gathered and unresolved. This pass changes the report only and supplies no new empirical or universal validation.
