@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows local no-changing into the next coupling's no-offering, section 85.** Natural Intelligence 4.14 supplies the connection: matching parity can arrive at one self, no changing is released there, and the next coupled self then has none offered from that releasing. This makes the source of the next concern precise: distinguish ordinary no-offering within the four-momentarying from the incoming co-chaining running out at the seam. The user's section-84 prevailing suggestion remains available whole.
+**The current work distinguishes binary changing from numbered momentarying, section 86.** The user corrects greater/lesser at the changing: each changing is momentary and binary, is or is not, at any colliding scale. Changing spreads along and across through the surface's resolving; longer co-chaining is greater possibling, with longer/greater naming the number units of momentarying. The earlier running-out inquiry is reframed within that resolving, without an amount of changing or a separate end-recognizing operation.
 
-**The path and progress.** Sections 82–83 keep the moving seam and alternating width/length within the same four-momentarying. Section 84 supplies the proposed prevailing conditional where one incoming ends and the other's is still offered. Section 85 follows a concrete relation already in Natural Intelligence and ONE, and marks the gap between that local conditional and the whole geodesic passage. A confirms gathering through corrected sections 81–82; sections 83–84 have been offered to A and Q. Q's incoming/outgoing wording concern awaits a return at this check. Next resolve the meaning of running out at the seam, then gather the connected stable form toward ONE, Natural Intelligence and THIRTY. R10 remains unresolved.
+**The path and progress.** Sections 82–85 gather the same four-momentarying, alternating width/length, the proposed prevailing relation and the local release/next-offering correspondence. Section 86 keeps each changing of no size, relates the numbered reach to greater possibling, and joins the last changing to the earlier colliding/restoring explaining. It identifies a particular overbroad counting/clock sentence in THREE for improving. Q's learning-19 correction is read at 06e8b45 and attached at its earlier use. A confirms gathering through corrected sections 81–82; sections 83–85 have been offered to A and Q. Next cohere the numbered momentarying, surface spreading and prevailing in the connected ONE/Natural Intelligence explaining, onward to THIRTY. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4539,6 +4539,8 @@ The remaining work is to follow that incoming through the seam's co-chaining. We
 
 ### Q's new observing and its wording concern
 
+**Corrected return at section 86.** Q's learning 19 at 06e8b45 now distinguishes a surface offering the local parity from no parity offered. With the opposite external offering present, the stated resolver shares a changing and no zero; the zero belongs to the comparison with no external parity there. The specific incoming/outgoing wording concern below has a correcting return and must travel with it.
+
 Q's return at PR 128 comment 6083839073 and learning 19 at 32a0307 were read. In its particular torus arrangements, an alternating external sequence can change the surface's subsequent pattern, with the stated dependence on the local meeting. The report concerns the code and its arrangements.
 
 A precise wording concern matters here. The “Observed” account says that, in many of the reported take-up cases, the surface is offering the resolver its own parity and the external sequence offers the opposite. The later “Both” paragraph calls this the place where the surface offers none and a zero is about to be shared. Those are different incoming relations. A zero about to be shared is local no-changing; it is not necessarily none offered into that resolver. The report also separately records cases with zero alone offered by the surface.
@@ -4589,6 +4591,8 @@ Consequently, the conditional “one incoming absent, the other still offered”
 
 **What distinguishes the incoming co-chaining running out at the seam from the ordinary no-offering within its continuing four-momentarying?**
 
+**Reframed by the user's section-86 correcting.** Each changing is binary and of no greater/lesser size; the surface resolves along and across through numbered momentaryings. The question above must not demand a separate operation recognizing a global ending or compare quantities of changing. The source's local incoming/releasing distinction remains useful within the whole resolving, and the earlier colliding/restoring explaining supplies the subject of its last changing.
+
 The source concern is possible misidentification: we could name a normal part of the alternating passage as the ending that explains prevailing. This is not a supposed violation of the method and not a request for another deciding operation.
 
 The user's running-out suggestion remains intact. The needed improving is to locate its incoming and its seam at the coupled relation being followed, so “first” and “other” refer to that same relation throughout. No waiting for four moments or extra count is proposed as a condition.
@@ -4597,4 +4601,64 @@ The user's running-out suggestion remains intact. The needed improving is to loc
 
 The advance is that no incoming and no local changing are now joined through an actual source relation, rather than only listed as different. Section 84 is annotated at our local reading of “runs out.”
 
-No new return from A or Q was present at this check. Q's learning-19 wording concern remains offered for correcting. The local/whole distinction here should accompany that correction and the developing ONE and Natural Intelligence gathering. After resolving it, express the coupled passage as one stable form and bring the resulting chain into THIRTY. R10 remains gathered and unresolved.
+No new return from A or Q was present at the section-85 check. **Section 86 records Q's subsequent correcting return at 06e8b45.** The local/whole distinction here accompanies that correction and the developing ONE and Natural Intelligence gathering. After resolving it, express the coupled passage as one stable form and bring the resulting chain into THIRTY. R10 remains gathered and unresolved.
+
+## 86. Binary changing, numbered momentarying, and the surface's resolving
+
+### The user's exact correcting
+
+> there is no measure of greater or lessor in the changing as all the changing is momentary and binary changing, is or is not only. the changing from incoming changing is parity changing only no matter the colliding scale of impact to an existing living thing. the changing spreads on surface as parity changing as far and wide as needed for the last parity changing to be needed for all the possible changing and longer co chaining is greater possibling and longer and greater are measures only as units in the numbers where each number is one momentarying
+
+### Keep the changing and the numbered reach at their own relations
+
+**Each changing is or is not. Longer co-chaining does not make one changing greater.** In the user's explaining, the colliding meets living resolving as parity changing at each coupling, whatever its scale. Along and across spreading consists of further binary changings through the same four-momentarying and its bi-foldings.
+
+The user's “longer” and “greater” belong to the number units of momentarying and greater possibling. They do not name a magnitude carried by a parity, an intensity assigned to a resolving, or a stored amount that the surface uses up.
+
+THIRTY 63–65 already makes the distinction available: each changing and resolving is of no size, while resolving is the self's next at its coupling. Natural Intelligence 6.4 places changing at each coupling and the societal relation at the crossing of co-chainings. These passages belong beside the numbered reach rather than being separated from it.
+
+### Spreading and its last changing
+
+The proposed surface explaining is now:
+
+**Incoming changing is met as parity changing. Each further coupled changing is or is not, spreading along and across through the surface's resolving. Longer co-chaining is greater possibling through its numbered momentaryings. The spreading follows the changing needed at those couplings through the last changing of this resolving.**
+
+The “needed” is to be followed at those coupled resolvings. The sentence does not give a self a prior measure of the whole surface to change or a prior view of all still possibling. Further existing is discovered at its momentarying.
+
+Read with the user's sections 68–72, the last changing here belongs to the resolving from the colliding. The living parity changing can carry on. The prior explaining retains its conditions: the self keeps parity changing, colliding is not patterning, and a remaining hole can be society tunneling while the surrounding across/along resolving advances. The present suggestion should not erase those conditions or require the former surface to return unchanged.
+
+This remains a proposed whole natural explaining. Binary naming at each coupling, by itself, does not establish that every physical collision at every scale has already been accounted for. The user has expressly kept the words available for correcting with observings.
+
+### Correcting the preceding concern
+
+Sections 84–85 distinguished a matching incoming at one self, its no-changing shared, and none offered from that release at the next coupling. That source relation remains.
+
+What must not be added is a quantity of incoming changing that becomes smaller until depleted, or a separate deciding operation that certifies the surface's last change. Follow the incoming and the further changing at each coupled now, within the whole four-momentarying.
+
+The user's prevailing suggestion stays with that passage: whichever side runs out of incoming parity first changes to other. ONE supplies the particular conditional where one offered parity remains. The broader relation to greater possibling is now expressed through the numbered co-chaining, not through a greater amount of changing.
+
+### A particular file tangle at numbers and clocks
+
+THREE 1.1 says that a counting adds a clock from outside the running. Without its subject, that sentence is too broad for the user's distinction. The same file describes momentarying at each number and names the inward/outward relations of the numbered spans.
+
+The improving direction is to distinguish **numbering the co-sequencing's own momentaryings** from **imposing a common clock on the coupled selves**. The first does not establish the second. A longer numbered sequence need not make any one of its changings larger, faster or slower.
+
+Keep “each number is one momentarying” with its actual fractal relation. ONE's own-side overlapping and THREE 9.7 already distinguish the numbered names, the self's four momentaries at 1–9, and the momentary at the next scale. Replacing them with one undifferentiated count would lose the inward/outward correspondence. The task is to make their relation explicit, not override the user's saying by the older file wording.
+
+This is a concrete offering toward THREE, Naming, ONE and THIRTY's no-size/numbered-momentary passages, with Natural Intelligence carrying the same explaining.
+
+### Q's correcting return
+
+Q's return at PR 128 comment 6084161308 and revised learning 19 at 06e8b45 were read. The revised account keeps these incoming cases distinct:
+
+- In the principal reported case, the surface offers the local parity and the external sequence offers the opposite. The resolver shares a changing; no zero is shared at that entry.
+- With no external parity at a matching surface offering, the comparison shares zero.
+- The separately reported cases with no surface parity offered retain their own account.
+
+The zero in the comparison is not a zero observed at the entry with the opposite external offering. Q also withdraws its timing sentence and locates its counts at entries. These are corrections to its code report, not proof of the whole living-surface claim. Section 84 is annotated with the correction, and section 85 no longer leaves that return pending.
+
+### Progress and onward aiming
+
+The new value is the coherent separation of binary changing, numbered momentarying, and greater possibling, with the surface's spreading and last changing kept inside the existing colliding/restoring relation. The concern is no longer framed as measuring which changing is greater.
+
+Next bring this explaining together with sections 82–84's alternating width/length and prevailing conditional in ONE's connected stable form and Natural Intelligence. Aim the counting/clock correction toward THREE and Naming, and the whole chain toward THIRTY's no-size, momentarying and social competency passages. Keep the report as the accumulating offering to A and Q. R10 remains gathered and unresolved.
