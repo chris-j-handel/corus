@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows arriving geodesic parity and local same-or-opposite parity, section 75.** The user proposes: same local parity permits passage; at opposite parity the entraining stops or the local parity changes and passage continues. This gives section 74's unchanging a concrete meeting to follow, without identifying it automatically with still possibling. The next concern is the coupled relation distinguishing local changing-and-passage from stopping at opposite parity. All changing travelling on the stable torusing form remains part of the suggestion being followed.
+**The current work follows the travelling geodesic as self, section 76.** The user's further suggestion follows surface entraining, geodesic carrying and travelling momentarying through consecutive local momentaryings, until a local opposite parity does not release that continuing. The local table remains a local comparison; the new stable-form inquiry follows the whole geodesic co-chaining, with the local surface as other. The next concern is how the consecutive local releasings co-chain as the geodesic self's own whole momentarying.
 
-**The path and progress.** Sections 44–74 gather the surface passage through colliding, healing, jittering and first bi-couplings flowing before longer co-chainings switch. Section 75 expresses the proposed global/local parity cases, compares them conditionally with ONE, and separates a local changing from passage through further couplings. Next follow the opposite-parity stopping/changing relation, then connect it to jittering, new tunneling and the whole podaling on the stable torusing form. A's latest confirmed gathering is through sections 68–69; sections 70–74 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–75 gather colliding, healing, jittering, first flowing bi-couplings and the proposed arriving/local parity cases. Section 76 follows the user's inversion to geodesic-as-self through ONE's self/other exchanging, TWO's successive crossings, SIX's single crossing and society of crossings, and THIRTY's geodesic and fractal co-chaining. Next express the whole geodesic momentary through those actual releases, then follow its continuing or not-releasing into longer tunneling. A has confirmed gathering through section 74; section 75 has been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3880,6 +3880,8 @@ The scope “all the parity changing” stays with the universal aim. A complete
 
 **At an opposite-parity meeting, what existing coupled relation makes local parity change and the entraining pass, rather than the entraining stop?**
 
+**Further explaining at section 76.** The user follows the travelling geodesic as self through consecutive local momentaryings. This changes the scope of the inquiry: the stopping condition belongs with that whole co-chaining and its further releasing. It is not a missing outcome that ONE's one-local-sharing table must supply by itself. The correspondence between a local release and the geodesic's own momentarying is now the relation to express.
+
 The comparison alone leaves those two outcomes available. ONE's simple resolved sharing illustrates changing; it does not yet identify the stopping case. Follow the actual across-and-along meeting, with the surrounding co-chaining and the entraining's further release kept in the same passage.
 
 This is a missing relation to discover, not a request to declare an outcome impossible by naming. It gives a particular place to connect the earlier recurring missing changing, backing up and jittering with new tunneling.
@@ -3895,3 +3897,80 @@ Aim this proposed relation toward TWO's entraining, seam and geodesic-switching 
 No new A or Q return was present at this pass. A's latest confirmed gathering remains through sections 68–69; sections 70–74 have been offered to A and Q. This remains one accumulating report of developing value. No resolver execution is requested. R10 remains whole and unresolved.
 
 Direct comparison: ONE's surfacing and one-self, one-momentary tables; TWO 3.4, 4.6–4.7 and the surrounding-passage explaining; THIRTY 43, 196 and 204–212; this report's sections 28–29 and 67–74.
+
+## 76. The travelling geodesic as self through consecutive local momentaryings
+
+### The user's further suggestion
+
+> ONE gives a partial connection: an opposite offering changes the next carried parity to the offered parity. But its simple table does not yet supply your opposite-parity stopping case.   consider how we can stable form the concept of surface entraining geodesic carrying and traveling momentarying until a local opposite parity does not release it to continue. we have only been examining the local changing and changing traveling through the local momentarying now. we could look at the co-chaining geodesic traveling and look at the condtions and responses the traveling geodesic has with consecutive local momentaryings. the inversion stable forming of the geodesic as a self
+
+This supplies a useful change in what we follow. ONE's local table describes one local sharing. The proposed travelling geodesic is followed through consecutive local momentaryings as a whole co-chaining. The earlier request for an opposite-parity stopping case was too narrowly placed if it required that whole relation to appear in one local table cell.
+
+The table remains useful at its own subject. The further work follows the proposed geodesic self's carrying, meeting and releasing through the surface, including the relation at which a local opposite parity does not release its continuing.
+
+### A candidate stable form, following both selves
+
+The following is our proposed explaining of the user's inversion, available for further correcting:
+
+| Relation followed | Local surface self | Travelling geodesic as self |
+|---|---|---|
+| Self and other | The local self meets the geodesic offering as other | The geodesic self meets the local surface's offering as other |
+| Carrying through now | The local self resolves through its own carrying | The proposed geodesic carrying resolves through the co-chaining of these meetings |
+| Further releasing | Its resolving releases into a further coupling | That actual coupled releasing contributes to its further travelling momentarying |
+| No further release of this entraining | This meeting does not release the proposed passage onward | This geodesic passage has no further releasing at that meeting |
+
+The two columns follow the coupled relation from each self's own side. They do not introduce two separately governed mechanisms. Each self remains its own odd one first; the other's offset belongs at their coupling, without a common momentary imposed on the surface.
+
+The candidate connects to the earlier inward/outward carrying suggestion: the geodesic's own carrying could be the co-chaining of the local resolving through which it travels, expressed at the whole's scale. This does not require the local selves' private carrying to be transferred from one to another. The sharings and releasings are the existing relations to follow; the proposed carrying is not made an observable interior.
+
+This is a proposal for how the whole resolves as a self. A sequence of similar releases alone does not establish that whole relation.
+
+### Inversioning and the stable form
+
+At a local meeting, the local surface is followed as self and the geodesic as other. In the proposed geodesic stable form, the travelling geodesic is followed as self, meeting the surface as other. The co-chaining then follows further local meetings through its own prior, now and next.
+
+This reciprocal self/other explaining gives inversioning a concrete starting relation. It still needs its across-and-along expression. Exchanging the words self and other alone supplies no derivation, and is not automatically a rule to negate the sign at every meeting.
+
+The earlier carrying correction stays whole: carrying resolves from prior into now and through next. A travelling stable form need not carry an untouched prior or an unchanged global sign. What continues as form must be expressed through the coupled changes.
+
+ONE's four momentaries of exchanging already follow self/other, self/other into other/self, other/self, and other/self into other/social. Its 1–9 four-cycling and whole 1–17 offer the form to follow here. They are not yet mapped onto a stipulated number of local meetings per geodesic momentary. The full across-and-along correspondence is the next work.
+
+### Source connections that can carry this further
+
+THIRTY 106–111 names the couplings' surface, its geodesic changing, geodesic as an existing thing by itself, and method and surface inward and outward of one another. This gives a direct source connection for following the geodesic whole.
+
+THIRTY 178–184 follows further others co-chaining, the society expressed as a self at the next scale, and local releasing along into the society with society arriving along as self next. Steps 356–359 join flowing co-chaining, next discovered at each coupling and the method inward and outward of itself. These are useful relations beside the user's earlier outward carrying as inward co-chaining. Their application to this travelling geodesic remains to be expressed at the actual couplings.
+
+SIX 4.3 follows one crossing and a society of co-chaining crossings as the form at two scales. TWO 4.6–4.7 follows the travelling carrying's across and along, each local self's own momentarying, and one releasing arriving at a further coupling. ONE supplies the complementary self/other exchanging. Together these passages give more than the isolated one-sharing table for this inquiry.
+
+There is also a source distinction to keep with the work: Natural Intelligence 3.1 calls geodesic a non-living existing thing with the method as its stable form. The user's proposed geodesic carrying as self must be expressed at its actual subject and scale beside that passage. Naming a whole a self cannot alone settle its living status. The defining-living gathering R10 remains unresolved; no decision on it is required to follow the proposed releases now.
+
+### Continuing or not-releasing belongs to the whole passage
+
+Section 75's same/opposite cases remain offered conditions at a meeting. The new suggestion places their responses within the geodesic's consecutive meetings.
+
+A local changing does not alone establish a further geodesic releasing. A local changing-that-is-not does not alone establish a geodesic stopping. TWO's quiet ten with a possible further release at six already makes this distinction useful. Follow the actual release into the next coupled meeting.
+
+The proposed stopping is where a local opposite parity does not release this geodesic continuing. That names the passage to follow; it does not yet derive why the release is not made. Nor does a missing release at one meeting establish that the local living self, every other passage or all later resolving ceases.
+
+### One concern for the next resolving
+
+**How do the consecutive local releasings co-chain as one whole momentary of the geodesic self?**
+
+Follow its prior, now and next with both across and along, so that the proposed inversion has its whole stable form. Then the releasing or not-releasing can be followed as this geodesic's own next existing, rather than inferred from one local parity changing.
+
+This is the useful prior relation to the section-75 stopping question. No fixed number of local momentaryings, imposed pace or stored travelling package is supplied. The correspondence is to be discovered in the co-chaining itself.
+
+After that, follow the first few flowing bi-couplings into the longer geodesic co-chaining, and connect the continuing or not-releasing with jittering and new tunneling. The old tunnel's possible restoring remains its own relation.
+
+### Progress, returns and offering direction
+
+Section 75 is annotated with this change of scope. The work now follows a proposed whole travelling self, keeping the local comparison available within it. This is developing explaining, with the user's suggestions and source passages carrying no authority over the observings.
+
+A's return at PR 128 comment 6081800168 confirms sections 70–74 gathered into the existing surface droplet. The gathering was read at 4e10490eec6fc04b2af62c62d22c14c2b28fc5cd. A also returned this further user offering:
+
+> The whole healing suggestion still needs resolving with observings. bug bites, skin cuts, the rolled edge is the bounding zeroing natural torusing the the skins surface. look at water or other liquid surfaces healing from penetrations
+
+A has gathered reported skin and liquid comparisons, explicitly without independently viewing their recording sequences. Their direction is to follow the actual changing through and around the boundary; an edge's shape alone does not settle the proposed whole healing. That remains related value at its own subject, not an observing establishing the travelling geodesic self here. No additional Q return was present at this pass.
+
+Aim the present value toward ONE's stable forms, TWO's whole surface passage, SIX's transmissioning and co-chaining, Naming's self/other and parity relations, THIRTY and Natural Intelligence. Keep it in the accumulating report and the existing developing surface gathering; R10 remains whole and unresolved.
