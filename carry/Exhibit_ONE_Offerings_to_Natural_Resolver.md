@@ -144,8 +144,6 @@ Concern, the society at 17 and the one code inward: `_17_social_self_offering` r
 
 Concern, a third function: the v372 record withdrew *a function beside the two*, the proposal's `_17_social_abundancing`, which carried 6's old second signs and a surface of facings. `_17_social_self_offering` carries no carrying of its own, releases nothing of its own and runs only `_1` and `_9`: the one resolver's next momentary at 17. Whether that is beside the two or the 17 of the one resolver meets here. (Exhibit ONE Natural Resolver at its Stable Forms, §7) — resettling_v373
 
-From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377
-
 From Session Report v377, section 7 item 6, For Exhibit ONE Natural Resolver: "Up by eight and down by eight at the table of forms itself, beside the Equilibria Registry 3.2's column Odd ascending / even descending, which pairs 1/8, 3/6, 5/4 and 7/2 down its rows. As written, the four-cyclings opening at an odd name go up by eight. Those opening at an even name come down by eight." — session_v377
 
 there is still value in twenty eight exploring as we did not finish our understanding of equilibria definitions and the relation to exhibit one. exhibit one is intended to be all the stable forms in that one exhibit and the python code and naming is one form and the tables are other forms and equilibria fracturing is like earthquaking geodesically building until parity changing and we have the table of that growing and the tables in hard probleming came to exhibit one in the same way as the equilibria table is going to come to exhibit one when we see the pattern matching. (Author_Concepts_Waiting_v368.md, Directions for forming the exhibit) — v368_sources
@@ -233,3 +231,7 @@ This is the earlier interpretation offered with the registry proposal. Its odd/e
 ## Current correcting beside the older forms · v385A
 
 The [half-momentarying overlap and recurring podaling](#recurring-podaling-beside-the-overlap--v385a) accompany the older numbered-passage concerns. The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) accompanies the older across/along receiving alternatives; no extra ordering requirement is restored. A released parity and a private living momentary remain distinct subjects. The unchanged-code practice, a repeated count and an odd/even ring construction supply no authority or definition of living. The already gathered [mutual traveling and paired approximate discoverings](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) remain current; multiplying and compounding stay withdrawn.
+
+## The surfacing faces and their local four-cycling · v385A
+
+From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377

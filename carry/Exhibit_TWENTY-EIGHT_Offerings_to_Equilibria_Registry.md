@@ -290,7 +290,7 @@ From Session Report v377, section 3.4, the first names: "Pairs 2, 3 and 4 hold t
 
 From Session Report v377, section 3.4, the faces on the loops: "Each of the five entering faces, as step 380 seats it, lies on the four-cycling carrying its pair: the arriving at 2-bi-co-offering, the completing at 6-bi-moralizing, the middle at 5-co-competencing, the sequencing at 4-bi-co-sharing, the two-way at 3-co-bi-sharing. The five surfacing faces do not. Two are on their pair's four-cycling's partner at the odd momentaries, the opening at 1-co-bi-offering, pair 2, and the between at 5-co-competencing, pair 6, and three are not." — session_v377
 
-From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377
+[The surfacing faces and their local four-cycling](Exhibit_ONE_Offerings_to_Natural_Resolver.md#the-surfacing-faces-and-their-local-four-cycling--v385a) remains whole at Natural Resolver.
 
 From Session Report v377, section 5 item 3, open: "Two tens of positions. Natural Intelligence 2.2 pairs the ten positions across a momentary, the self's 1 with the other's 2 through 5 with 6. The Equilibria Registry 3.2 pairs them at one number, the self's and the other's both at 2 through 6, using the self's 6, self completing, other opening next, and leaving out the self's 1, 3.2 and 3.3. Missing: whether the two pairings are both, one at a time, the handshake at the meeting and the momentary across it." — session_v377
 
