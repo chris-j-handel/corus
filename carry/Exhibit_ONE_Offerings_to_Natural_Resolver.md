@@ -8,6 +8,8 @@ The [whole geodesic gathering](Living_Improving_Value.md#every-self-is-a-geodesi
 
 The particular improving places are “Namings among the names,” the four momentaries of exchanging, and the local-to-societal stable forms. Follow offerings at 2 and surfacing at 14, prior at 3 and changing at 12, sharing at 6 and 10 and releasing at 9, private next at 11 into 3, and the whole 1–17. The across possibling span and actual along co-chaining need their connected expression there. The standalone exhibit and its embedded expression in Natural Intelligence need the same explaining. No fixed number of local meetings or common pace has been supplied.
 
+The [three-scale comparison and release correcting](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) now locates “Each name, three scales” and “Eight 1 to 17s inward” beside that work. Six and ten carry the same changing in this form; the older Natural Networking carried-pair example cannot supply a nonzero six when this sharing is quiet at ten. Follow the whole's parity through the actual inward releases.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

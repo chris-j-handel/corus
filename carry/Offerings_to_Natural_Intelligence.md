@@ -8,6 +8,8 @@ The user's [whole every-self explaining](Living_Improving_Value.md#every-self-is
 
 The further particular improving places are sections 3.4 and 4.2–4.6 for offering, carrying and resolving; 4.15 for inward and outward; 5.2 for still possibling and next existing; and 6.2 and 6.4 for bi-moral co-agency and social moral competency. The embedded Natural Resolver and the standalone exhibit need the same connected expression of global offerings, local resolving and further global co-chaining. The gathering preserves the actual across-to-along relation still to express and the corrected code comparison at its own scope.
 
+The [three-scale and actual-release comparison](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) now makes section 4.15 central to the across-span/inward-along relation. Sections 4.6 and 4.14 keep quiet six and ten together in the current form and the following self's own inverting distinct from a parity transmitted through that quiet sharing.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.

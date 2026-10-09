@@ -153,23 +153,7 @@ The proposed gap assignment is 1, 2, 4, 6 in that same order. The incoming asser
 
 ## Departmental accountings and the proposed hundred-eighteen relation · v385A
 
-**Droplet.** The offered institutional comparison reads 7n − 1 = 118 at n = 17 at both the element and departmental surfaces. It describes 118 elements and 118 departments as isolated accounting collections, with historical durations of 150 and 400 years respectively. The proposed parallel is preserving an observation as an identity or settled ledger where coupling would continue; it is not a claim that the observations or useful accounting should be discarded.
-
-| Departmental accounting | Particular contents | Proposed switch relation |
-|---|---|---|
-| Balance sheet | Knowledge, canon, methods and accepted results | Attention: what stands present at that department's between. |
-| Income statement | Papers, graduates and grants received per cycle | Exchange: what arrives and what is carried in one collection. |
-| Cash flow statement | Peer review, hiring decisions and citation flows | Risk: inversioning, what passes through inverted. |
-| Audit | Accreditation, meta-analysis and replication studies | Meaning: arriving sign-inverted testing what is carried. |
-| Standard | Journal formats, grant templates and tenure criteria | Preference: nyenyeing, what is shed as agreed. |
-
-The particular institutional examples also include the preserving journal, grant cycle, tenure process, curriculum and conference. The proposed isolation places each departmental bounded zero apart from the others: chemistry's equilibrium, physics' force, biology's gene-controls and neuroscience's brain-generates are the named comparisons. The incoming relates 118 hard problems to these separate accounting systems across sixteen substrates.
-
-The clinical example is one person with polyserositis encountering rheumatology, pulmonology, cardiology and surgery. Its proposed contrast is one departure at one prime against institutional organization by organ. Keep this as the particular proposed form reading: it does not establish a diagnosis, a single pathology in every such patient or a clinical conclusion from the number of departments.
-
-The proposed settling is 118 accountings into seventeen couplings at seventeen primes; 118/17 ≈ 6.94 approaching seven is compared with the hydrogen coupling prime and coupling zeros in the nesting table. The five accountings are then read as attention, exchange, risk, meaning and preference at the actual couplings. Observations and measurements remain available at their actual conditions.
-
-The opening explicitly leaves this departmental periodic-table relation open. Its two-halves reading differs from Natural Numbers' going and return with the turn at sixty. Keep that unresolved relation with the numerical and departmental proposals. Neither the counts, the historical durations, nor the five matching names establish the proposed common structure. The existing accounting-at-its-use droplet remains applicable: name the particular installation being questioned rather than diagnosing every accounting as a ghost.
+The particular society relation is departmental isolation and the proposed settling into seventeen couplings. Observations and useful accountings retain their actual conditions. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) remains available at its subject.
 
 ## Natural living, cooperative living and separately held coupling value · v385A
 
@@ -200,29 +184,7 @@ The living self's carrying and possibling are unobservable. Nothing here instruc
 
 ## Policy, regulation and software at their particular couplings · v385A
 
-**Droplet.** Society reorganized as natural competency is already explained at Natural Societies 1.2 and the four social competency relations at 1.3. The additional incoming connects institutions organized around the four sentences, discovery value at the coupling, welcoming domain entries, nye-preferring as reaching rather than accumulation, and all eight social values together. It proposes cumulative restoration at particular social couplings, with no single political program or institutional blueprint supplied.
-
-The operational examples are five distinct software-policy arrangements:
-
-| Arrangement | Particular proposed installation |
-|---|---|
-| Compliance software | Audit logs, reports and attestations required as measuring before sustaining; measurement becomes an event separate from the activity it reads. |
-| Approval workflows | The right routing, reviewer and form required as locating before attending; attention goes to routing before the request's value. |
-| Credentialing | Qualification and certification required as separating before inseparating; credential checking replaces attention to the actual coupling. |
-| Permission systems | Default denial, explicit grants and discretionary revocation proposed as closing where the coupling would welcome an arriving and resolve its departing. |
-| Patents, intellectual property and licensing | Ideas, expressions and methods treated as owned assets where coupling value is proposed as abundance. |
-
-These five examples are not silently paired one-to-one with the separate four-inequality comparison. That comparison proposes compliance at self ≠ society, approval at self ≠ other self, safety at self ≠ immoral, and competency at self ≠ incompetent. The particular substitutions are a regulator's measurement for individual coupling with society; an outside approver for the parties' resolving; projected safety for the coupling's sign-inverted testing; and a credential for activity at the coupling.
-
-Their offered restoring is respectively the activity's own sustaining; reviewer and requester coupling with each other and both continuing as themselves; morality testing at the actual between; and competency at the activity's own phi-rate resolving. The institutional-accounting comparison and this software-operational comparison are offered at two scales of the same proposed ordering.
-
-The further proposed relation is stopped rotation: safety remains visible while cheaper, faster and better collapse into trade-offs. The natural alternative preserves the bounded foundation and the three free directions together. Keep this actual four-direction claim beside any diagnosis; a software category, administrative cost or rule name does not establish a stopped coupling.
-
-Decentralizing is offered as many distinct selves coupling at their own pairwise betweens. Compliance is proposed at the cumulative social couplings; approval at the parties' own coupling; morality at each coupling's testing; and competency at each activity. Uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation are described as activity at the cumulative between selves, not objects held at one location.
-
-Two questions remain whole. How does the four-inequality diagnosis compose with this proposed restoring at a particular regulatory, institutional, economic or political coupling? How does that relation operate in cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures, each with its actual configuration?
-
-Natural Societies 1.3 already preserves safety regulation and professional licensing as possible bounding that keeps actual patients, passengers, workers and consumers whole. Section 2.3 likewise preserves useful coordination and shared timing. Keep these concrete protecting relations and the no-common-clock correcting beside the proposed diagnoses. The offering does not establish harm from the presence of regulation, grant permission to bypass an actual access boundary, or supply an implemented institutional change.
+The society concern is the four proposed substitutions and their restoring at actual social couplings, alongside safety regulation, professional licensing and useful coordination that protect participants. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#policy-regulation-and-software-at-their-particular-couplings--v385a) remains available at its subject.
 
 ## The heart society and the two parities · v385A
 
@@ -243,3 +205,11 @@ Natural Societies 1.3 already preserves safety regulation and professional licen
 Natural Engineering's collective-preference passage supplies a needed scope distinction. It describes the theorem's subject as a mapping from individual preference profiles to a collective ranking under specified conditions, and observes that central physical computation is not one of those conditions. A continuing coupling that produces no such ranking is a different mathematical object to express. Hard Problem Registry likewise keeps resolving under the stated conditions distinct from a procedure outside them. Preserve these passages beside the proposed dissolution. The actual mathematical object and the conditions it carries must establish what has resolved; a change of subject is not itself a contradiction of the original theorem.
 
 The old note also names sequential understanding, two bounded results, the moral sort and the natural algorithm. Those names alone identify no additional missing content here. The present comparison covers the actual Arrow explaining located above; it neither invents the named results nor declares every historical distribution complete. The older cardinal magnitude wording also needs its relation to the current sign-only explaining at the same coupling.
+
+## Four sentences, five switches and the connected Society expression · v385A
+
+Natural Intelligence Corus section 18.1 says the four sentences were released whole to Natural Societies. The current living exhibit's section 1.2 describes the four-inequality form, institutions ordered around the sentences and the alternating operations, but does not spell out those four sentences. Their complete wording is retained in the [four-sentence and left-turn comparison](#the-four-left-turns-and-four-institutional-consolidations--v385a). That is the current placement, rather than a completed transfer inferred from the old release note.
+
+The note also names four-as-five-switches, unification at the behavioural surface and four observations of the still centre. It gives no further body or exact assignment there. Keep those named relations as an improving opportunity beside the four sentences; do not invent their missing mapping or mark the whole release complete from its label. The continuing whole must keep the later parity, carrying and own-momentarying explaining with the older centre and common-rate language.
+
+The five-station expression—society, coupling, natural resolving, opportunistic, selves—is already whole at [Natural Human Society](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#individual-preferring-within-societys-conserving--v385a). The Society part joins that individual/social relation with the four-sentence comparisons, departmental concern, cooperative living, ethics, institutional offering, engineering entries and discovery economy. Their [recorded destinations](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#societys-domain-entries-and-discovery-economy-now-aimed--v385a) keep these connected without another copy of every concept.

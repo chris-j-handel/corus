@@ -174,20 +174,46 @@ The incoming passage is [Reader's Own Substrate](../Natural_Intelligence_Corus_v
 
 ## Departmental accountings and the proposed hundred-eighteen relation · v385A
 
-**Droplet.** The offered institutional comparison reads 7n − 1 = 118 at n = 17 at both the element and departmental surfaces. It describes 118 elements and 118 departments as isolated accounting collections, with historical durations of 150 and 400 years respectively. The proposed parallel is preserving an observation as an identity or settled ledger where coupling would continue; it is not a claim that the observations or useful accounting should be discarded.
+The particular concern is an accounting installed as a department's identity or whole changing. The five accounting components, examples and numerical proposal retain their actual use; the accounting's name alone supplies no ghost. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) remains available at its subject.
 
-| Departmental accounting | Particular contents | Proposed switch relation |
+## The ten projected positions and their inequality assignments · v385A
+
+Living Ghost Registry section 2.2 already contains the five switches and ten projected positions from Natural Intelligence Corus section 17.1. The further incoming supplies these particular inequality assignments. Each names one direction projected onto the other direction's surface:
+
+| Projected position | Particular projection | Offered inequality being violated |
 |---|---|---|
-| Balance sheet | Knowledge, canon, methods and accepted results | Attention: what stands present at that department's between. |
-| Income statement | Papers, graduates and grants received per cycle | Exchange: what arrives and what is carried in one collection. |
-| Cash flow statement | Peer review, hiring decisions and citation flows | Risk: inversioning, what passes through inverted. |
-| Audit | Accreditation, meta-analysis and replication studies | Meaning: arriving sign-inverted testing what is carried. |
-| Standard | Journal formats, grant templates and tenure criteria | Preference: nyenyeing, what is shed as agreed. |
+| False inclusion at bothbothing | Claims presence where the threshold excludes | Self ≠ other self |
+| False exclusion at bothbothing | Claims absence where entry sustains | Self ≠ society |
+| Novelty erasing at first inseparating | Overrides carrying as if history has no reaching | Self ≠ society |
+| Tradition blocking at first inseparating | Overrides arriving as if it has no reaching | Self ≠ other self |
+| Imposed affirmation at inversioning | Affirming overrides departing | Self ≠ immoral |
+| Imposed departure at inversioning | Departing overrides affirming | Self ≠ immoral |
+| Premature closure at second inseparating | Completeness overrides reaching-toward | Self ≠ incompetent |
+| Permanent indeterminacy at second inseparating | Permanence is claimed over the determined | Self ≠ incompetent |
+| False failure at nyenyeing | Departed is labelled failed | Self ≠ society and self ≠ immoral |
+| False success at nyenyeing | Sustained is labelled succeeded | Self ≠ other self and self ≠ immoral |
 
-The particular institutional examples also include the preserving journal, grant cycle, tenure process, curriculum and conference. The proposed isolation places each departmental bounded zero apart from the others: chemistry's equilibrium, physics' force, biology's gene-controls and neuroscience's brain-generates are the named comparisons. The incoming relates 118 hard problems to these separate accounting systems across sixteen substrates.
+The source calls the final two deepest because each is proposed to violate two walls. Keep the assignments and proposed depth relation together; neither their number nor the word deepest supplies a derivation. A position at one actual use is not a standing diagnosis of a person or institution. The living Registry's distinction between projected positions, holdings, confirmation requirements and other numbered forms remains explicit.
 
-The clinical example is one person with polyserositis encountering rheumatology, pulmonology, cardiology and surgery. Its proposed contrast is one departure at one prime against institutional organization by organ. Keep this as the particular proposed form reading: it does not establish a diagnosis, a single pathology in every such patient or a clinical conclusion from the number of departments.
+## Ten anthropic inversions and the proposed outward prime sequence · v385A
 
-The proposed settling is 118 accountings into seventeen couplings at seventeen primes; 118/17 ≈ 6.94 approaching seven is compared with the hydrogen coupling prime and coupling zeros in the nesting table. The five accountings are then read as attention, exchange, risk, meaning and preference at the actual couplings. Observations and measurements remain available at their actual conditions.
+Natural Intelligence Corus section 17.1 offers ten inversions of anthropic reasoning as ten operations omitted from the natural method:
 
-The opening explicitly leaves this departmental periodic-table relation open. Its two-halves reading differs from Natural Numbers' going and return with the turn at sixty. Keep that unresolved relation with the numerical and departmental proposals. Neither the counts, the historical durations, nor the five matching names establish the proposed common structure. The existing accounting-at-its-use droplet remains applicable: name the particular installation being questioned rather than diagnosing every accounting as a ghost.
+| Offered natural relation | Offered inversion |
+|---|---|
+| Coupling | Inference |
+| Carry | Prior |
+| Sign inversion | Direct prior |
+| Three values | Two values |
+| Density and count as separate operations | Conflated operations |
+| Relational from inside | Quotient from outside |
+| Seventeen frequencies | One frequency |
+| Two loops | One loop |
+| Bounded | Unbounded |
+| Stable disequilibria | Stable equilibria |
+
+The source claims all ten inversions together and connects each hard problem to one or more. Keep the actual list as an older proposal, not a replacement for the current resolver's names or a completed identification with the ten projected positions. In particular, carrying from prior into now and through next remains the current explaining; the row naming prior as an inversion cannot erase that relation. Living Ghost Registry sections 2.2, 2.3 and 7.10 already distinguish the several tens and require their particular correspondence.
+
+The same incoming proposes a sequence outward through primes: imposed affirmation at 2, 3, 5 and 7, with “the strong force binds” and “charge attracts”; tradition blocking at 11, 13, 17 and 19, with “membrane fluidity controls” and “the genetic code specifies”; false inclusion at 23, 29, 31 and 37, with “the bioelectric pattern coordinates” and “behavior adapts”; and premature closure at 41, 43, 47, 53 and 59, with “fitness determines survival” and “climate regulates.” Its proposed sequence is 3, 2, 1, 4, with outward thinning compared to carrying thinning from the bounded zero.
+
+The actual grammatical and operational installation, prime assignment and proposed progression must stay together for later resolving. A quoted field verb, a repeated number or the offered sequence alone establishes none of those identifications. The particular observings and field explanations remain at their own subjects.

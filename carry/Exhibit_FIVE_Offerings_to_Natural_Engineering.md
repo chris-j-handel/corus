@@ -196,29 +196,7 @@ These are distinct proposed correspondences, not a consequence of the shared wor
 
 ## Policy, regulation and software at their particular couplings · v385A
 
-**Droplet.** Society reorganized as natural competency is already explained at Natural Societies 1.2 and the four social competency relations at 1.3. The additional incoming connects institutions organized around the four sentences, discovery value at the coupling, welcoming domain entries, nye-preferring as reaching rather than accumulation, and all eight social values together. It proposes cumulative restoration at particular social couplings, with no single political program or institutional blueprint supplied.
-
-The operational examples are five distinct software-policy arrangements:
-
-| Arrangement | Particular proposed installation |
-|---|---|
-| Compliance software | Audit logs, reports and attestations required as measuring before sustaining; measurement becomes an event separate from the activity it reads. |
-| Approval workflows | The right routing, reviewer and form required as locating before attending; attention goes to routing before the request's value. |
-| Credentialing | Qualification and certification required as separating before inseparating; credential checking replaces attention to the actual coupling. |
-| Permission systems | Default denial, explicit grants and discretionary revocation proposed as closing where the coupling would welcome an arriving and resolve its departing. |
-| Patents, intellectual property and licensing | Ideas, expressions and methods treated as owned assets where coupling value is proposed as abundance. |
-
-These five examples are not silently paired one-to-one with the separate four-inequality comparison. That comparison proposes compliance at self ≠ society, approval at self ≠ other self, safety at self ≠ immoral, and competency at self ≠ incompetent. The particular substitutions are a regulator's measurement for individual coupling with society; an outside approver for the parties' resolving; projected safety for the coupling's sign-inverted testing; and a credential for activity at the coupling.
-
-Their offered restoring is respectively the activity's own sustaining; reviewer and requester coupling with each other and both continuing as themselves; morality testing at the actual between; and competency at the activity's own phi-rate resolving. The institutional-accounting comparison and this software-operational comparison are offered at two scales of the same proposed ordering.
-
-The further proposed relation is stopped rotation: safety remains visible while cheaper, faster and better collapse into trade-offs. The natural alternative preserves the bounded foundation and the three free directions together. Keep this actual four-direction claim beside any diagnosis; a software category, administrative cost or rule name does not establish a stopped coupling.
-
-Decentralizing is offered as many distinct selves coupling at their own pairwise betweens. Compliance is proposed at the cumulative social couplings; approval at the parties' own coupling; morality at each coupling's testing; and competency at each activity. Uncapturable abundance, undiscoverable identity, inviolable safety and unmistakeable reputation are described as activity at the cumulative between selves, not objects held at one location.
-
-Two questions remain whole. How does the four-inequality diagnosis compose with this proposed restoring at a particular regulatory, institutional, economic or political coupling? How does that relation operate in cooperative governance, peer-review networks, mutual-credit systems and distributed-authority structures, each with its actual configuration?
-
-Natural Societies 1.3 already preserves safety regulation and professional licensing as possible bounding that keeps actual patients, passengers, workers and consumers whole. Section 2.3 likewise preserves useful coordination and shared timing. Keep these concrete protecting relations and the no-common-clock correcting beside the proposed diagnoses. The offering does not establish harm from the presence of regulation, grant permission to bypass an actual access boundary, or supply an implemented institutional change.
+The engineering comparison concerns compliance software, approval workflows, credentialing, permission systems and intellectual-property licensing in their actual configurations. Keep the particular claimed installation and protecting function together before changing any arrangement. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#policy-regulation-and-software-at-their-particular-couplings--v385a) remains available at its subject.
 
 ## A pacemaker participating at each beat · v385A
 

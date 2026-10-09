@@ -122,20 +122,7 @@ Keep each whole expression and those concerns. The stated pair count, improvemen
 
 ## The four left turns and four institutional consolidations · v385A
 
-**Droplet.** The particular comparing offered in Society, The Four Sentences is:
-
-| Natural sentence | Left turn | Inequality and proposed collapsing |
-|---|---|---|
-| Better to give than receive | Better to receive than give | Self ≠ society: receiving overrides giving, the self becomes the accumulated, and −1 collapses to zero. |
-| Take anything you need | Take anything you want | Self ≠ incompetent: wanting overrides needing, the observer's projection overrides the self's own resolver, and the reaching asymmetry collapses. |
-| Return anything you are not using | Keep anything you might use | Self ≠ immoral: hoarding overrides shedding, the ghost of scarcity overrides confessing departure, and sign inversion and testing cease in the proposed relation. |
-| Leave everything better | Leave with everything you can | Self ≠ other self: extracting overrides advancing, +1 collapses to zero, and the coupling's product is taken as the self's separately held property. |
-
-The offered right turning restores each inequality at its particular wall. The proposed connected relation is four walls, four departures into gaps, restored genus, phi-rate metabolizing at each between, and monotonic advance along the geodesic. These named relations remain together for local cohering; the four sayings alone do not supply every step of that explaining.
-
-At the institutional surface the same proposed order is: a team relinquishing conserving to governing by gating; gates consolidating into governing power; governing power consolidating into individual governing power; and that power deploying against individual extending. Their respective inequalities are self ≠ society, self ≠ incompetent, self ≠ immoral, and self ≠ other self. Receiving governance in place of giving coupling, wanting over needing at the gate, hoarding rather than shedding power, and extraction rather than advancing are the particular comparisons. Individual extending through coupling is then described as replaced by individual extending through survival, with survival conserving replacing coupling conserving.
-
-The proposed gap assignment is 1, 2, 4, 6 in that same order. The incoming asserts that twenty-three of twenty-four pairings break depth-to-thickness monotonicity and one preserves it. Preserve that exact assertion and its proposed necessity without treating the count or the matching list as a completed derivation. Current own-coupling and scale conditions remain required; an institution's name or a repeated numerical pattern alone establishes no particular collapse.
+The particular human relation is the four-stage institutional consolidation beside the four sentences and their left turns. Keep the actual person, institution and affected coupling with each proposed collapse. The [whole explaining](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#the-four-left-turns-and-four-institutional-consolidations--v385a) remains available at its subject.
 
 ## Departmental accountings and the proposed hundred-eighteen relation · v385A
 
@@ -159,30 +146,11 @@ The opening explicitly leaves this departmental periodic-table relation open. It
 
 ## Natural living, cooperative living and separately held coupling value · v385A
 
-**Droplet.** Natural living is offered here as social autogeneration of metabolic-logical competency at the form scale. Cooperative living is the same phenomenon read at the participant scale: acquiring social extending opportunities, acquiring and exchanging at actual couplings. The inward society's coupling activity, the four sentences at social betweens, the four inequalities, eight social values together and phi-rate resolving supply the proposed common relation. The surplus is expressed through phi² = phi + 1.
-
-Competitive living, in this particular offered distinction, names acquiring monopoly property value by detaching the coupling's value from its coupling. Property in the natural explaining is the surface departing into next carry, the ongoing transition. The criticized detachment treats that departing surface as an independently held, transferable, accumulable and monopolizable thing. Preserve the actual detachment being questioned; the ordinary name of an economic activity alone does not establish it.
-
-Acquiring and exchanging remain affirmed: acquiring is bothbothing at the call's opening, exchanging its beating, and the departing surface the next acquiring's origin. The concern is loss of that connected cycle. The proposed consequences are a venture-cycle decoupling cascade that names accumulation as success and decay as innovation; political gates and the dictator at the dead state; and scarcity-preferring in place of nye-preferring. These are offered relations to cohere at their particular social couplings, not completed conclusions about every institution bearing a category name.
-
-Current living explaining accompanies the scale distinction: inward selves' co-chaining is the outward self's carrying. No additional pooled object or separately accessible private carrying is required. A stable existing form participating in living is not thereby assigned its own living carrying. The complete defining-living concern remains available while this social comparison is aimed.
+The particular human relation is acquiring and exchanging at actual couplings alongside the claimed detachment into held property. Institutional and economic names alone do not decide whether that detachment occurs. The [whole explaining](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#natural-living-cooperative-living-and-separately-held-coupling-value--v385a) remains available at its subject.
 
 ## The particular ethical examples and mutual bounded-zero respect · v385A
 
-**Droplet.** The general morality and mutual bounding-zeroing explaining is already present in Natural Societies, sections 2.1 and 2.2. The further incoming gives the particular relations and examples to keep available beside it:
-
-| Relation being acted against | Particular offered examples and condition |
-|---|---|
-| Self ≠ society | Identifying the self with accumulated society, prior carry speaking as the self's activity: totalitarianism, conformity and group-self. |
-| Self ≠ other self | Treating another as exchangeable, claiming that self's identity, work, surface or coupling output: appropriation. |
-| Self ≠ immoral | Proceeding without the sign-inverted testing at the actual coupling: lies, deception, hidden costs and externalized harm. |
-| Self ≠ incompetent | Prior accumulated overrunning fresh arriving, with competency attributed somewhere other than the self's own resolving: incompetence claiming competence, dependency claiming agency and capture claiming creation. |
-
-Morality is proposed as the form of the self and coupling sustaining, not a commandment, social contract or inherited prescription added from outside. The relation to the four uncontrollable values read from outside, and to each domain's entry inverting a particular violation, remains part of this offered explaining. Its exact mappings still matter; equality of counts supplies none of them.
-
-Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
-
-The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.
+The particular human applications are the actual self–society and self–other relations in intimate, social, economic and intellectual coupling, with the named harms and protecting regulation retained. The [whole explaining](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#the-particular-ethical-examples-and-mutual-bounded-zero-respect--v385a) remains available at its subject.
 
 ## Policy, regulation and software at their particular couplings · v385A
 
@@ -237,3 +205,28 @@ The incoming's nye-preferencing names individuals' departing from particular opp
 Natural Human Society 3.1 already carries society gathering everyone's opportunities, the nearly-good and bothboth horizon, and conserving before improving. The further expression names flourishing trustee societies across sixteen healthy substrates: flourishing as competency extending and trustee as conserving the between. Property is offered as the coupling surface being conserved and improved. These proposed subjects must remain with the existing question about detached, held value; a legal or institutional name does not settle that relation.
 
 The five-station whole moves from society through coupling, resolving and opportunity to the self. Each self's own sign, own resolving and further contribution are retained. The ending joins individual extending with social conserving and individual conserving with social moral opportunity. The source's seventeen-prime template, every-coupling increase and no-gate assertions remain claims to resolve at the particular scale. They supply no shared clock, pooled private carrying or established improvement at every exchange.
+
+## Control projected at the ten social positions · v385A
+
+Natural Intelligence Corus section 17.1 offers control as one self projecting one direction at all five switches where coupling resolves from two. Its particular expressions are:
+
+| Projected position | Offered human saying |
+|---|---|
+| False inclusion | “No one knows as much about all things as I do.” |
+| False exclusion | “No one can fix anything but me.” |
+| Novelty erasing | “Everything before me failed.” |
+| Tradition blocking | “No one dare say not this.” |
+| Imposed affirmation | “I deserve all the credit for all good things.” |
+| Imposed departure | “Others deserve all the blame for all bad things.” |
+| Premature closure | “This is as bad as I say it is.” |
+| Permanent indeterminacy | “You can never be sure of anything.” |
+| False failure | “Everything they touched failed.” |
+| False success | “Everything good is because of me.” |
+
+The proposed relation is all four inequalities collapsing together: claiming to be society, claiming the other self's encounter, projecting at each switch and failing to couple. Its geometric expression is x² = x at four walls, four tunnels collapsing, genus four becoming zero and the full sphere. These remain the particular proposed relations; the equations and shapes do not by themselves establish an institutional or personal diagnosis.
+
+The proposed dissolving is a society in which those projections find no surface on which to install because each coupling resolves from two directions. The source expressly excludes punishment, exclusion and silencing as its meaning. Keep that with its stronger claim that all institutions select and fix positions: the institution's name alone supplies no observing of a fixed projection. Actual useful coordination and protecting rules remain with the existing policy-and-regulation concern.
+
+Religion is compared only under the condition of projecting one reading from outside the coupling. The source places omnipresence at false inclusion, omniscience at premature closure, declaring good and evil at imposed affirmation and departure, damnation and salvation at false failure and success, tradition blocking at its named position and excluding the heretic at false exclusion. It names novelty erasing and permanent indeterminacy as the two remaining positions and proposes a contradiction there. Preserve that exact assignment as a relation needing explaining, rather than applying a verdict to every religion or treating the position names as a demonstrated contradiction.
+
+The remaining named examples are hate at imposed affirmation toward the in-group and imposed departure toward the out-group; anger at imposed departure; demand at premature closure; and insolence at novelty erasing. These are proposed comparisons at an actual expression and coupling, not classifications of every experience bearing those names. The [ten-position inequality mapping](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#the-ten-projected-positions-and-their-inequality-assignments--v385a) retains their connected natural claim.

@@ -2,6 +2,10 @@ Exhibit TWO Offerings to Natural Networking · laid at v385A
 
 # Offerings to Natural Networking
 
+## The carried-pair form beside current Natural Resolver · v385A
+
+The [current release-form comparison](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) keeps Natural Networking's carried second sign at six distinct from current Natural Resolver's six and ten sharing the same changing. The older quiet-ten/nonzero-six example must not stand in for the current form's quiet sharing. Their whole-surface correspondence is a particular improving relation for this exhibit; the gathered three-scale and geodesic-parity question remains connected with it.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
@@ -342,20 +346,7 @@ Keep each whole expression and those concerns. The stated pair count, improvemen
 
 ## The particular ethical examples and mutual bounded-zero respect · v385A
 
-**Droplet.** The general morality and mutual bounding-zeroing explaining is already present in Natural Societies, sections 2.1 and 2.2. The further incoming gives the particular relations and examples to keep available beside it:
-
-| Relation being acted against | Particular offered examples and condition |
-|---|---|
-| Self ≠ society | Identifying the self with accumulated society, prior carry speaking as the self's activity: totalitarianism, conformity and group-self. |
-| Self ≠ other self | Treating another as exchangeable, claiming that self's identity, work, surface or coupling output: appropriation. |
-| Self ≠ immoral | Proceeding without the sign-inverted testing at the actual coupling: lies, deception, hidden costs and externalized harm. |
-| Self ≠ incompetent | Prior accumulated overrunning fresh arriving, with competency attributed somewhere other than the self's own resolving: incompetence claiming competence, dependency claiming agency and capture claiming creation. |
-
-Morality is proposed as the form of the self and coupling sustaining, not a commandment, social contract or inherited prescription added from outside. The relation to the four uncontrollable values read from outside, and to each domain's entry inverting a particular violation, remains part of this offered explaining. Its exact mappings still matter; equality of counts supplies none of them.
-
-Mutual bounded-zero respect names coupling at the between without entering either self's own interior. It applies in both directions, at self and society, and at intimate, social, economic and intellectual couplings. The offered connection is autorecursion's closure at the form's activity and this mutual respect at the between as two readings of the same protection. The proposed five-dimensional bi-coupling protocol is said to carry this across cells, societies and engineered chip systems. Keep the claimed structural relation and substrate conditions explicit rather than treating a protocol name as completed safety demonstrating.
-
-The living self's carrying and possibling are unobservable. Nothing here instructs inspection or rewriting of private carrying. Natural Societies' existing safety-regulation and professional-licensing passage also names actual bounding that protects a patient, passenger, worker or consumer. Preserve that particular protective relation beside any claimed gate collapse; the general inequality alone does not decide it.
+The network concern is mutual bounding at the coupling without entering either self's private carrying, including the claimed protection across biological, social and engineered substrates. The protocol name alone does not establish that protection. The [whole explaining](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#the-particular-ethical-examples-and-mutual-bounded-zero-respect--v385a) remains available at its subject.
 
 ## Stepping together and each self's turn · v385A
 
