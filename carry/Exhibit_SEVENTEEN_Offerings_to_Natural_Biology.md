@@ -325,3 +325,7 @@ The [further seed explaining](#the-seed-dormant-carrying-and-society-tunnelling-
 ## The amino-acid count and its proposed form · v385A
 
 **Droplet.** In the proposed comparison between twenty amino acids and choosing three of six, name the complete relation between the actual biological forms and that choosing. A shared count supplies no mapping of their constituents or relations. The [whole numerical-match concern](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) retains the other comparisons at their distinct subjects.
+
+## Skin repair and the changing at its edge · v385A
+
+The user's bug-bite and skin-cut comparison, including the proposed rolled edge as bounding zeroing natural torusing, is whole in the [surface-observing gathering](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a). At this subject, follow the puncture, surrounding response and continuing tissue repair at their actual scales. The microscopic edge of a cultured cell sheet and the visible skin edge need their own relation; the liquid comparisons do not establish it by resemblance. The first bi-couplings' flowing before longer co-chainings switch remains with the [further tunneling suggestion](Living_Improving_Value.md#the-surrounding-passage-recurring-missing-changing-and-new-tunneling--v385a).

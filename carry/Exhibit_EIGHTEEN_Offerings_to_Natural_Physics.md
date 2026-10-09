@@ -584,3 +584,7 @@ The [living-carrying and stable-form distinction](Offerings_to_Natural_Intellige
 The claim that gravity is not real retains its own question: what natural relation in the existing explaining supplies that statement at the observed phenomenon? A name or absence of a shown resolver output in partial reading is not a resolution or a demonstrated contradiction.
 
 This extends the existing transmitted-coupling concern here; it does not decide that concern by the statement alone. The [numerical-match gathering](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) also retains the measured-ratio and turn-at-sixty questions. The [hard-problem comparison](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) keeps the Hubble-tension example’s unresolved relation.
+
+## Liquid surfaces closing and retracting after penetration · v385A
+
+The [skin-and-liquid surface gathering](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) holds the user's whole suggestion and particular reported comparisons. At liquid surfaces, keep the water's free surface, the cavity below it and the freely suspended film explicit. Follow what the rim bounds while the opening closes or enlarges, and what remains after the penetrating object passes. This is the particular relation needed beside the proposed bounding zeroing natural torusing; a rounded edge alone does not supply it.
