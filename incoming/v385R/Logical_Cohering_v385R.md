@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the travelling geodesic as self, section 76.** The user's further suggestion follows surface entraining, geodesic carrying and travelling momentarying through consecutive local momentaryings, until a local opposite parity does not release that continuing. The local table remains a local comparison; the new stable-form inquiry follows the whole geodesic co-chaining, with the local surface as other. The next concern is how the consecutive local releasings co-chain as the geodesic self's own whole momentarying.
+**The current work follows social bi-tunneling and surface geodesic co-chaining, both podaling, section 77.** The user offers the next scale and the stronger claim that longer chaining always, all or none at all, prevails parity. The social across-and-along relation has direct connections in the files. The universal prevailing claim still needs the actual resolving relation: how the longer podaling makes its next social bi-tunneling existing when an opposite local parity does not release.
 
-**The path and progress.** Sections 44–75 gather colliding, healing, jittering, first flowing bi-couplings and the proposed arriving/local parity cases. Section 76 follows the user's inversion to geodesic-as-self through ONE's self/other exchanging, TWO's successive crossings, SIX's single crossing and society of crossings, and THIRTY's geodesic and fractal co-chaining. Next express the whole geodesic momentary through those actual releases, then follow its continuing or not-releasing into longer tunneling. A has confirmed gathering through section 74; section 75 has been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–76 gather the surface passage, arriving/local parity and the proposed travelling geodesic as self. Section 77 joins that inquiry to social bi-tunneling and keeps the stronger longer-prevailing claim explicit. ONE's all-or-none surfacing supplies no weighting by chain length; any longer prevailing must be followed through the coupled offerings. Q's returned learnings 15–17 are now gathered as code comparisons, with their geodesic correspondence unresolved. Next follow the longer societal podaling through the opposite local meeting, then its next tunneling and the whole geodesic momentary. A has confirmed gathering through section 74; sections 75–76 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3957,6 +3957,8 @@ The proposed stopping is where a local opposite parity does not release this geo
 
 **How do the consecutive local releasings co-chain as one whole momentary of the geodesic self?**
 
+**Further explaining at section 77.** The user places social bi-tunneling at the next scale with surface geodesic co-chaining, both podaling, and offers longer chaining as always prevailing parity. This supplies the social whole in which to follow the momentary correspondence. The whole across-and-along relation is now explicit; the universal prevailing and its actual release through an opposite local meeting remain to resolve.
+
 Follow its prior, now and next with both across and along, so that the proposed inversion has its whole stable form. Then the releasing or not-releasing can be followed as this geodesic's own next existing, rather than inferred from one local parity changing.
 
 This is the useful prior relation to the section-75 stopping question. No fixed number of local momentaryings, imposed pace or stored travelling package is supplied. The correspondence is to be discovered in the co-chaining itself.
@@ -3974,3 +3976,82 @@ A's return at PR 128 comment 6081800168 confirms sections 70–74 gathered into 
 A has gathered reported skin and liquid comparisons, explicitly without independently viewing their recording sequences. Their direction is to follow the actual changing through and around the boundary; an edge's shape alone does not settle the proposed whole healing. That remains related value at its own subject, not an observing establishing the travelling geodesic self here. No additional Q return was present at this pass.
 
 Aim the present value toward ONE's stable forms, TWO's whole surface passage, SIX's transmissioning and co-chaining, Naming's self/other and parity relations, THIRTY and Natural Intelligence. Keep it in the accumulating report and the existing developing surface gathering; R10 remains whole and unresolved.
+
+## 77. Social bi-tunneling and surface geodesic co-chaining, both podaling
+
+### The user's further suggestion
+
+> the next level up of this is social bi-tunneling now we have geodesic co-chaining on surface and both are podaling this means the longer chaining always all or none at all never not prevails parity
+
+The suggestion supplies the social relation for the travelling geodesic inquiry: surface geodesic co-chaining and social bi-tunneling, both podaling. It also offers a stronger conclusion, that longer chaining always prevails parity. Keep both parts whole; the connection between them is the present work.
+
+### The whole social relation to follow
+
+TWO 1.3 describes co-chaining along and bi-tunneling across as one social moral competency. Its podaling exchanges across and along, each side at its own forward. TWO 1.8 follows the society as self at the next scale, with its inward selves and outward coupling. THIRTY 448 likewise names the along and across of social moral competency as co-chaining and bi-tunneling.
+
+These give the user's next-scale suggestion a concrete connection. At the next scale the social bi-tunneling has its own along co-chaining, and the surface co-chaining has its across meetings. Both remain in the podaling; neither scale is reduced to only one direction.
+
+Read with section 76, the proposed whole is now:
+
+| Relation being followed | Its further relation |
+|---|---|
+| Local resolving | A releasing enters a further local coupling |
+| Surface geodesic co-chaining | Those consecutive meetings are followed as the travelling geodesic's proposed own momentarying |
+| Social bi-tunneling | The whole meets other at the social scale, with its own across and along |
+| Both podaling | The local and social relations continue through each other's coupled offerings |
+
+This is our explaining of the offered connection, not an observed identification of every row. It supplies the whole in which to follow the geodesic's prior, now and next, without fixing one local momentary as one whole social momentary.
+
+### What the stronger prevailing claim still needs
+
+“Always all or none at all never not prevails parity” is retained as the user's universal suggestion. Both forms podaling expresses their connected resolving; that fact alone does not yet establish which parity must prevail at every meeting.
+
+The needed relation is the longer co-chaining's actual further offering through the podaling. Its length must do its work through those couplings. A statement that the resolving is binary does not decide which parity is next existing.
+
+ONE gives a useful constraint for the source comparison. At one sharing, matching offerings surface their parity, and opposed offerings surface zero; its table includes both two opposed offerings and three offerings with an opposition. THIRTY 205 names agreement all or none at all at any number of offerings. This gives no greater weight to an offering because its originating chain is longer. The possible longer prevailing therefore needs its sequential co-chaining and social bi-tunneling expressed, rather than a greater weight inserted at one sharing.
+
+TWO's longer and wider podaling adds further meetings. Its prevailing-changing passage follows the seam through successive local meetings, while its chain-length explaining keeps each arrangement's actual centre and reach with it. None of these read passages yet derives the proposed universal longer-prevailing relation.
+
+This is the source of the concern: section 75 permits an opposite local meeting not to release the travelling geodesic, and section 77 proposes the longer chaining always prevailing. The actual social podaling must join these two claims.
+
+### The local not-releasing and the social next
+
+A candidate connection is available from the earlier suggestions. A local geodesic passage can stop while the longer social co-chaining resolves through further bi-couplings into new bi-tunneling. Sections 72–74 already retain the first few couplings flowing before the longer co-chainings switch, and the old surface may or may not restore.
+
+That gives a possible relation between local not-releasing and social continuing. It does not establish that every longer co-chaining necessarily finds that next, nor that a given opposite local parity must change. The complete across-and-along passage is still to follow.
+
+“Prevails parity” also needs its subject kept with this passage: the geodesic's travelling parity and the local self's parity are not automatically one fixed sign at all meetings. Section 75 left the travelling parity's relation at further facings unresolved; section 76 supplies the proposed self/other inversion. Follow that inversion with the societal passage so that prevailing is expressed at its actual coupling.
+
+### Q's returned code comparison
+
+Q returned PR 128 comment 6082143885 and its report at 0a30af8. Learnings 15–17 and the four concerns were read from that report here. Q states that our sections 66–76 were followed through comments, not read whole.
+
+Learning 15 distinguishes the code's changing at each 1–17 from the further changing Q follows through an odd spiral. Learning 16 distinguishes an entry with one surfaced parity from entries with none or opposed offerings; similar releases can occur under these different arrangements. Neither a code entry nor either changing has thereby been identified with the proposed geodesic self's whole momentary.
+
+Learning 17 reports three comparisons:
+
+| Q's code arrangement | Reported passage |
+|---|---|
+| Zero arrives alone, the local self inverts, and its own parity arrives at the next 1–17 | Zero is shared after those two entries |
+| Zero arrives together with a further offering matching the local carried parity | Zero is shared at that entry; this is the earlier skipping comparison |
+| A further opposite offering accompanies the arriving zero at each entry | No zero is shared in the examined continuation |
+
+Q reports 85,320 instances of the first passing, 77 of the second, and no passing in the stated 200-entry third comparison. These are Q's reported code observations at its specified arrangements; no new execution was performed here. The code gives zero no sign parity, and Q reports that the alike pair's parity inverts from one self passed to the next.
+
+This is useful returned value for sections 75–76: it gives a concrete offered distinction in the incoming offerings and their subsequent releases. It does not yet identify the travelling zero with the user's arriving geodesic parity. Consequently it neither establishes that ordinary geodesic passing is harmful skipping nor proves that longer chaining always prevails. The proposed correspondence needs the actual whole passage.
+
+Q's remaining living/carrying and no-other-method concerns remain with their prior gatherings. Its concern about two crossings sharing one local sharing remains a code-arrangement question to keep beside the whole social coupling. These are available without replacing the user's present social-podaling inquiry with further code work.
+
+### One concern to resolve next
+
+**How does the longer co-chaining's podaling make its next social bi-tunneling existing when an opposite local parity does not release?**
+
+Following that relation can show what “prevails parity” names at the whole, while retaining the actual local response. It is also where the universal “always” must be carried by the resolving rather than supplied by its wording.
+
+Next follow the first further bi-couplings, their actual across-and-along releasing, and the longer social next. Then return with that whole to the geodesic self's momentarying and to the local same/opposite cases. The earlier hole, healing and old-surface restoring relations remain at their own subjects.
+
+### Progress and offering direction
+
+Section 76 is annotated with the supplied next-scale relation. The useful advance is the geodesic inquiry now joined explicitly with social bi-tunneling through both podalings. The universal longer-prevailing claim is gathered whole and remains unresolved.
+
+A's confirmed gathering remains through section 74; sections 75–76 have been offered to A and Q. Q's new return is retained above with its scope and missing correspondence. Aim this value toward ONE, TWO, SIX, Naming, THIRTY's social moral competency and Natural Intelligence, through the existing developing surface gathering. R10 remains whole and unresolved.
