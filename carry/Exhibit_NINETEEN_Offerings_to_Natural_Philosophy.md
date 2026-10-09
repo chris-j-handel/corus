@@ -35,8 +35,6 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing, 1.3 and 2.4 to 2.5, at Natural Intelligence as the claim that the form is independent of any substrate's rate; 3.1 to 3.7 at Natural Engineering's entries and at Natural Chemistry and Natural Biology; 3.8's plaza and 4.3 at Natural Networking; 3.8's conversation at Natural Explaining; 4.4 at Natural Philosophy; 4.6 at Natural Naming. One change to the agreed receiving: the cross-substrate comparison at Natural Engineering rather than Natural Networking, since it is one form at many substrates, Engineering's subject, and Networking is already the most overstuffed. About 12% of SIX is re-said at the receiving, its *sum to a bounding-zeroing* and its membrane as a third among them. (Re-Settling the Living Files, §7) — resettling_v373
 
-The ten things named still stand at Resolving Hard Problems 2.5, Resolving the Hard Problem Registry, Natural Naming 4.9, Equilibria Registry §3, Living Ghost Registry 2.3 and Natural Philosophy Part Five; their one home is Resolving Hard Problems 2.5, one wording, one address scheme at the v372 faces. (Re-Settling the Living Files, §9) — resettling_v373
-
 Defect: Natural Philosophy, *PART FOUR · CO-SEQUENCING* at line 346, before 3.9, so seams 3.9 to 3.37 fall under Part Four in the body. (Re-Settling the Living Files, §11 Defects) — resettling_v373
 
 The Living Society Registry v347 and Natural Philosophy v348 are far back, each with a light carrying. (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378

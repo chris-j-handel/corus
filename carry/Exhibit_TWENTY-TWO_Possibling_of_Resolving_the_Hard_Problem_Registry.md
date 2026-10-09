@@ -15,3 +15,7 @@ Resolving the Hard Problem Registry Possibling · v385A
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
 
 [The supplied biology transcript at one described occurrence](Exhibit_SEVENTEEN_Possibling_of_Natural_Biology.md#the-supplied-biology-transcript-at-one-described-occurrence--v385a).
+
+[Earlier common-method and seventeen-name distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-common-method-and-seventeen-name-distribution--v385a).
+
+[Earlier ten-conception gathering and address arrangement](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-ten-conception-gathering-and-address-arrangement--v385a).

@@ -23,3 +23,5 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 - [Earlier Exhibit ONE explaining at its subject destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-exhibit-one-explaining-at-its-subject-destinations--v385a)
 
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
+
+[Proposed register comparison at Natural Networking and Equilibria Registry](Exhibit_TWENTY-EIGHT_Possibling_of_Equilibria_Registry.md#proposed-register-comparison-at-natural-networking-and-equilibria-registry--v385a).
