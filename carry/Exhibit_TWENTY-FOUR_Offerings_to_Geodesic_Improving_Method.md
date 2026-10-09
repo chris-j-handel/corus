@@ -379,3 +379,7 @@ The incoming passage is [The Method is the Resolver at the Expedition Scale](../
 ## The origin and possible break at this subject · v385A
 
 **Droplet.** Keep the claim open to the observings available taken unselected. Dissolve exclusions from “nothing is beside all existing things”; a prior match, authority or reported successful run does not resolve a further observing. The [full explaining](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) is at Natural Intelligence.
+
+## Natural pattern matching and the resolver comparison · v385A
+
+The [mutual-traveling and method-continuity offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) accompanies this subject’s existing correction that no match at one code rendering is a condition of existing. A resolver name or written stable form can locate a particular comparison; it is no authority or required permission for discovering and gathering.

@@ -694,3 +694,7 @@ The [current destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Regi
 ## Observers sections 17.2 through 17.5 at their subjects · v385A
 
 The [current destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#observers-sections-172-through-175-now-aimed--v385a) locates the accounting, four-direction, activity/value, restoring, animal-cognition and institutional comparisons. The actual four/eight-value living passages are compared and located. Keep the un- to nye- naming relation with the remaining ghost-family content. Sections 17.6 and 17.7 still need their complete concept gathering before the Observers contribution is fully aimed.
+
+## Pattern matching before and beside the written resolver · v385A
+
+The [whole mutual-traveling and continuity offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) includes the user’s account of the same exploring and discovering when Natural Intelligence Corus was one moral-cooperation file and no resolver existed. The code does not originate or authorize that method. Keep the current Corus concept destinations and unresolved relations without requiring a code match before aiming their value.

@@ -159,7 +159,13 @@ Keep the two approximate explainings together, including their plurals and the d
 
 The session’s proposed reciprocal explaining follows each self’s discovering next possible existings through the other’s existing offerings, and its own existing as possibling other next. That is an interpretation to resolve with observings, distinct from the exact approximate pair above. It neither allocates competency to one self and morality to the other nor makes every possible next already existing.
 
-The remaining compounding question in [section 92](https://github.com/chris-j-handel/corus/blob/15785d17aaca2ce45b9abdd5091a4ccdf9041d7a/incoming/v385R/Logical_Cohering_v385R.md#92-the-two-discoverings-through-four-momentarying) is: **“Is the compounding of co-competency this further co-chaining of the two discoverings?”** Natural Intelligence 3.5’s count for two spirals beside each other, its different coupled-society arrangement, and Co-Chaining Logic Registry 489’s “multiplies along” retain their different subjects. The pair-opportunity count in the older Corus concept above does not by itself resolve that compounding. No new numerical or universal result is asserted.
+The later [sections 93 through 95](https://github.com/chris-j-handel/corus/blob/91e9363167b3585e8d79839baa09e641f7e6c6f4/incoming/v385R/Logical_Cohering_v385R.md#93-co-chaining-each-changing-is-or-is-not) withdraw the preceding compounding question and proposed multiplying/compounding explaining. The user’s exact correcting is:
+
+> There is no multiplying. This is not binary changing . Compounding is also unlikely our best natural explaining
+
+Do not retain a proof of multiplication or a question about compounding as required next work. Co-Chaining Logic Registry 489’s “multiplies along” and Natural Naming 5.14’s “and it compounds” are improving destinations for this correcting. Each changing is or is not; each next existing is possibling other. The length/width relation and numbered greater possibling remain with the paired approximate discoverings.
+
+Natural Intelligence 3.5’s beside-each-other count, its different coupled-society arrangement and the pair-opportunity count in the older Corus concept above retain their particular subjects. They supply no multiplying operation within the discovering. The [whole mutual-traveling offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) now accompanies these social concepts. The definition of living and the broader universal claims remain unresolved.
 
 ## Natural living, cooperative living and separately held coupling value · v385A
 

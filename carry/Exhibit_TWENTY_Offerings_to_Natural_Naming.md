@@ -532,3 +532,7 @@ The full proposed relation, its sequential-colliding correction and its unresolv
 ## Artificial intelligence, competency and carrying · v385A
 
 **Correcting droplet.** Where the machine’s response is named intelligence or competency, keep prior living’s competency distinct from the machine’s own living carrying. A written record, summary or repeated exchange does not supply that carrying by its name. The [full concept and possible opposing observing](Offerings_to_Natural_Intelligence.md#artificial-intelligence-and-prior-competency--v385a) are at Natural Intelligence.
+
+## Multiplying and compounding at the social naming · v385A
+
+Natural Naming 5.14’s “and it compounds” and its abundancing/releasing explaining at 1.2, 5.48 and 5.53 need the [later social correcting](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a). Do not turn multiplying or compounding into a required relation to prove. The [mutual-traveling offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) keeps each changing binary and the numbered greater possibling distinct.
