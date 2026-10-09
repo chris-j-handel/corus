@@ -479,3 +479,49 @@ X. A sign-changing sequence entering a torus at one resolver: +, - in turn, one 
      torus 3 by 7: 600; 600; 600; 600
      torus 3 by 5: 500; 500; 600; 500
      torus 5 by 7: 700; 700; 1000; 700
+
+Y. The Equilibria Registry's arrivals that state their own mathematics, each at its own stated continuing: is
+   what the arrival names kept (K), or is it not possible by the arrival's own requirements (N). Exact arithmetic;
+   each line says the reading taken. This part runs no resolver; it is of the registry's rows 4.3 to 4.12 alone.
+   Left out: the rows at the older resolver, the rows needing a table or a choice pair their own words do not carry,
+   the rows of radiation, gases and climate, and four rows whose own words leave nothing to compute.
+     NY23  K  (x*, 0) under F(x,v) = (x + tau v, v): the pair the same at each tau tried
+     NY24  K  rest, v = 0, position free: v the same and x the same at each tau
+     NY21  K  v = u follows translation by tau u, u specified
+     NY22  K  the same with some u, not specified
+     NY09  K  E: r = 0 under T(p,r) = (1-p, -r/2): r is 0 at each of 12 occurrences, p alternating
+     NY11  K  E: r = 0 under T(p,r) = (1-p, -r): r is 0 at each of 12 occurrences, p alternating
+     NY12  K  E: r = 0 under T(p,r) = (1-p, -2r): r is 0 at each of 12 occurrences, p alternating
+     NY10  K  the same E and T(p,r) = (1-p, -r/2) with asymptotic stability: a departure halves at each occurrence
+     NY13  K  U = x^4/4 - x^3/3 - x^2 under x' = -U'(x): x = -1 is at rest, a minimum, and U(2) is lower
+     NY14  K  the same U: x = 2 is at rest and U(2) is the least of the three resting places
+     NY15  K  the uniform law on A->B->C->D->E->A: the law the same after each continuing
+     NY16  K  equal weights on two values exchanged: the law the same, and each passage balanced by its reverse
+     NY17  K  A->B, B->A, X->B, weights 1/2, 1/2, 0: the law the same
+     NY27  K  A <=> B, total 1, k+ a = k- b: a' = -k+ a + k- b is 0
+     NY28  K  F <=> X <=> W, f and w maintained: x = (f+w)/2 gives x' = (f - x) + (w - x) = 0
+     NY29  K  A <=> B <=> C <=> A with K1 K2 K3 = 1: each of the three balanced by its own reverse
+     NY31  K  two molecules, A <=> B, equal constants: the law 1/4, 1/2, 1/4 on the count of B the same, each passage balanced
+     NY41  K  two bodies, insulated, kappa = 0: each split of U the same at each step
+     NY42  K  the same with kappa > 0: u = C_A U/(C_A + C_B) gives u' = 0, and at no other split tried
+     SA07  K  the same contact approached from another split: nearer at each of 40 steps, and one resting split
+     NY36  K  N' = r N (1 - N/K): N = 0 and N = K give N' = 0
+     NY37  K  the same at N = K: births r N and deaths r N^2/K equal and not 0
+     NY38  K  x' = x (1 - x): x = 0 and x = 1 give x' = 0
+     NY40  K  each payoff 0: x' = 0 at each x tried
+     NY34  K  endowments (1,0) and (0,1), each wanting the other's good, prices (q,1): of five prices both goods clear at q = 1 alone, and q(next) = 1
+     NY35  K  the same with q(next) = 1/q: at q = 1 the next price is 1
+     SA04  K  values -1, 0, +1, continuing exchanging -1 and +1: each next is in the collection
+     SA18  K  self and other at opposite signs, continuing reversing both: opposite at each next
+     NY02  K  opposition of one sign pair under joint reversal: opposite at each next
+     SA12  K  a window of signs, the oldest removed and the opposite of the latest appended, mean 0 at each next: the windows of 2, 4 and 6 keeping it are the 6 alternating ones
+     SA13  K  a window whose next permits either sign, S(next) = S(now) + y - a: so at each of the 64 cases of four signs and y
+     SA15  N  immediate-next joins 0 to 1 and 1 to 2 and is taken as one relation with a transitive same-form: 0 to 2 would be joined, and it is not
+     SA16  N  one normalized law balanced round three values, forward 2/3 and reverse 1/3: each weight twice the one before, round three, asks a weight 8 times itself
+     SA14  N  two compartments at one temperature, pressures 3 and 1, taken as no available work: the work at one temperature between them is n R T ln 3
+   arrivals computed: 34 of the registry's 63; kept under its own stated continuing: 31; not possible by its own
+   requirements: 3, SA15, SA16, SA14
+   the registry's own exclusions at 5.2, computed again:
+     F(P,Q) = (-Q,P): each of the 14 nonempty proper sets of pairs is left within three advances from each pair in it: 28 of 28
+     two molecules: the passing one way and the other are alike at the count of B [1], and each passing from 1 goes to [0, 2]
+     so at one arrangement the count changes at each passing and the law of the counts is kept (NY31 above)

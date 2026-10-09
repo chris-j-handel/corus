@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to X.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to Y.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n resolvers: each releasing along (9) to the next, the last to the first, one
@@ -9,7 +9,8 @@ published spiral. A torus of p by q resolvers: each releasing along (9) and shar
 A colliding: at each momentary from a first to a last, one parity offered to resolver 1 from beyond, by a form
 that is unchanging at + or at -, or returns the parity resolver 1 is carrying, or returns the other parity, or
 alternates +, - at its own momentaries. Momentaries are numbered from 1. Part X: a sequence of +, - in turn offered
-from beyond to one resolver of a torus at any place along and across, one parity at each 1 to 17."""
+from beyond to one resolver of a torus at any place along and across, one parity at each 1 to 17. Part Y runs no
+resolver: it computes rows of the newest Exhibit_TWENTY-EIGHT Equilibria Registry at their own stated mathematics."""
 import glob, itertools, os, random, re, sys
 
 root = sys.argv[1] if len(sys.argv) > 1 else "."
@@ -1011,3 +1012,150 @@ for p, q in ((3, 7), (3, 5), (5, 7)):
         zeros += sum(sh[t][c] == 0 for c in cells)
         at_both += sum(sh[t][c] == 0 for c in ac & al)
     print("     torus %d by %d: %d; %d; %d; %d" % (p, q, zeros, at_both, both, at_both))
+
+print("\nY. The Equilibria Registry's arrivals that state their own mathematics, each at its own stated continuing: is")
+print("   what the arrival names kept (K), or is it not possible by the arrival's own requirements (N). Exact arithmetic;")
+print("   each line says the reading taken. This part runs no resolver; it is of the registry's rows 4.3 to 4.12 alone.")
+print("   Left out: the rows at the older resolver, the rows needing a table or a choice pair their own words do not carry,")
+print("   the rows of radiation, gases and climate, and four rows whose own words leave nothing to compute.")
+from fractions import Fraction as Fr
+
+
+def stationary(law, moves):
+    """law: {value: weight}; moves: {value: {next value: probability}}. The law after one continuing equals the law."""
+    after = {}
+    for v, w in law.items():
+        for n, p in moves[v].items():
+            after[n] = after.get(n, 0) + w * p
+    return all(after.get(v, 0) == w for v, w in law.items()) and all(v in law for v in after)
+
+
+def balanced(law, moves):
+    return all(law[a] * moves[a].get(b, 0) == law[b] * moves[b].get(a, 0) for a in law for b in law)
+
+
+arrivals = []
+
+
+def arrival(name, reading, kept):
+    arrivals.append((name, kept))
+    print("     %-5s %s  %s" % (name, "K" if kept else "N", reading))
+
+
+h = Fr(1, 2)
+# mechanics, the registry's F(x, v) = (x + tau v, v)
+F = lambda x, v, tau: (x + tau * v, v)
+taus = [Fr(1, 3), 1, Fr(7, 2), 10]
+arrival("NY23", "(x*, 0) under F(x,v) = (x + tau v, v): the pair the same at each tau tried", all(F(Fr(5, 7), 0, t) == (Fr(5, 7), 0) for t in taus))
+arrival("NY24", "rest, v = 0, position free: v the same and x the same at each tau", all(F(x, 0, t) == (x, 0) for x in (0, 1, Fr(-9, 4)) for t in taus))
+u = Fr(3, 5)
+arrival("NY21", "v = u follows translation by tau u, u specified", all(F(x, u, t) == (x + t * u, u) for x in (0, 2) for t in taus))
+arrival("NY22", "the same with some u, not specified", all(F(x, w, t) == (x + t * w, w) for w in (Fr(-1, 2), 0, 4) for x in (0, 2) for t in taus))
+# dynamical systems
+for name, k, note in (("NY09", Fr(-1, 2), "T(p,r) = (1-p, -r/2)"), ("NY11", Fr(-1), "T(p,r) = (1-p, -r)"), ("NY12", Fr(-2), "T(p,r) = (1-p, -2r)")):
+    p, r, ok = 0, Fr(0), True
+    for _ in range(12):
+        p, r = 1 - p, k * r
+        ok = ok and r == 0
+    arrival(name, "E: r = 0 under %s: r is 0 at each of 12 occurrences, p alternating" % note, ok)
+r, shrink = Fr(1, 8), True
+for _ in range(12):
+    r2 = Fr(-1, 2) * r
+    shrink = shrink and abs(r2) < abs(r) and r2 != 0
+    r = r2
+arrival("NY10", "the same E and T(p,r) = (1-p, -r/2) with asymptotic stability: a departure halves at each occurrence", shrink)
+dU = lambda x: x ** 3 - x ** 2 - 2 * x
+U = lambda x: Fr(x) ** 4 / 4 - Fr(x) ** 3 / 3 - Fr(x) ** 2
+arrival("NY13", "U = x^4/4 - x^3/3 - x^2 under x' = -U'(x): x = -1 is at rest, a minimum, and U(2) is lower", dU(-1) == 0 and U(-1) < U(Fr(-9, 10)) and U(-1) < U(Fr(-11, 10)) and U(2) < U(-1))
+arrival("NY14", "the same U: x = 2 is at rest and U(2) is the least of the three resting places", dU(2) == 0 and U(2) < U(-1) and U(2) < U(0))
+# laws on values
+five = "ABCDE"
+arrival("NY15", "the uniform law on A->B->C->D->E->A: the law the same after each continuing", stationary({c: Fr(1, 5) for c in five}, {c: {five[(i + 1) % 5]: 1} for i, c in enumerate(five)}))
+arrival("NY16", "equal weights on two values exchanged: the law the same, and each passage balanced by its reverse", stationary({"A": h, "B": h}, {"A": {"B": 1}, "B": {"A": 1}}) and balanced({"A": h, "B": h}, {"A": {"B": 1}, "B": {"A": 1}}))
+arrival("NY17", "A->B, B->A, X->B, weights 1/2, 1/2, 0: the law the same", stationary({"A": h, "B": h, "X": Fr(0)}, {"A": {"B": 1}, "B": {"A": 1}, "X": {"B": 1}}))
+# chemistry
+kf, kb = Fr(3), Fr(5)
+a = kb / (kf + kb)
+b = 1 - a
+arrival("NY27", "A <=> B, total 1, k+ a = k- b: a' = -k+ a + k- b is 0", kf * a == kb * b and -kf * a + kb * b == 0)
+f, w = Fr(2), Fr(7)
+x = (f + w) / 2
+arrival("NY28", "F <=> X <=> W, f and w maintained: x = (f+w)/2 gives x' = (f - x) + (w - x) = 0", (f - x) + (w - x) == 0)
+K1, K2 = Fr(2), Fr(3)
+K3 = 1 / (K1 * K2)
+ca = Fr(1)
+cb, cc = K1 * ca, K2 * K1 * ca
+arrival("NY29", "A <=> B <=> C <=> A with K1 K2 K3 = 1: each of the three balanced by its own reverse", cb == K1 * ca and cc == K2 * cb and ca == K3 * cc)
+k = Fr(1)
+law = {0: Fr(1, 4), 1: Fr(1, 2), 2: Fr(1, 4)}
+rate = {0: {1: 2 * k}, 1: {0: k, 2: k}, 2: {1: 2 * k}}
+flow = all(sum(law[m] * rate[m].get(n, 0) for m in law) == law[n] * sum(rate[n].values()) for n in law)
+arrival("NY31", "two molecules, A <=> B, equal constants: the law 1/4, 1/2, 1/4 on the count of B the same, each passage balanced", flow and all(law[m] * rate[m].get(n, 0) == law[n] * rate[n].get(m, 0) for m in law for n in law))
+# heat
+CA, CB, Utot, kappa = Fr(2), Fr(3), Fr(10), Fr(1, 7)
+du = lambda uu, kap: kap * ((Utot - uu) / CB - uu / CA)
+ustar = CA * Utot / (CA + CB)
+arrival("NY41", "two bodies, insulated, kappa = 0: each split of U the same at each step", all(du(uu, 0) == 0 for uu in (1, 4, Fr(13, 2))))
+arrival("NY42", "the same with kappa > 0: u = C_A U/(C_A + C_B) gives u' = 0, and at no other split tried", du(ustar, kappa) == 0 and all(du(uu, kappa) != 0 for uu in (1, 3, 5, 9)))
+uu, nearer, reached = Fr(1), True, False
+for _ in range(40):
+    nxt = uu + du(uu, kappa)
+    nearer = nearer and abs(nxt - ustar) < abs(uu - ustar)
+    reached = reached or nxt == ustar
+    uu = nxt
+arrival("SA07", "the same contact approached from another split: nearer at each of 40 steps, and one resting split", nearer and du(ustar, kappa) == 0)
+# populations and exchange
+rr, K = Fr(2, 3), Fr(50)
+logistic = lambda N: rr * N * (1 - N / K)
+arrival("NY36", "N' = r N (1 - N/K): N = 0 and N = K give N' = 0", logistic(0) == 0 and logistic(K) == 0)
+arrival("NY37", "the same at N = K: births r N and deaths r N^2/K equal and not 0", rr * K == rr * K * K / K and rr * K != 0)
+arrival("NY38", "x' = x (1 - x): x = 0 and x = 1 give x' = 0", all(xx * (1 - xx) == 0 for xx in (0, 1)))
+arrival("NY40", "each payoff 0: x' = 0 at each x tried", all(xx * (0 - 0) == 0 for xx in (0, Fr(1, 3), 1)))
+clears = [q for q in (Fr(1, 3), Fr(1, 2), Fr(1), Fr(2), Fr(3)) if 1 / q == 1 and q == 1]  # good 1 asked 1/q of 1; good 2 asked q of 1
+arrival("NY34", "endowments (1,0) and (0,1), each wanting the other's good, prices (q,1): of five prices both goods clear at q = 1 alone, and q(next) = 1", clears == [Fr(1)])
+arrival("NY35", "the same with q(next) = 1/q: at q = 1 the next price is 1", 1 / clears[0] == clears[0])
+# signs and sequences
+arrival("SA04", "values -1, 0, +1, continuing exchanging -1 and +1: each next is in the collection", all(-vv in (-1, 0, 1) for vv in (-1, 0, 1)))
+arrival("SA18", "self and other at opposite signs, continuing reversing both: opposite at each next", all((-c, -t)[0] == -(-c, -t)[1] for c, t in ((1, -1), (-1, 1))))
+arrival("NY02", "opposition of one sign pair under joint reversal: opposite at each next", all(-c == -(-t) for c, t in ((1, -1), (-1, 1))))
+
+
+def window_keeps(win, steps=24):
+    win = list(win)
+    for _ in range(steps):
+        win = win[1:] + [-win[-1]]
+        if sum(win) != 0:
+            return False
+    return True
+
+
+keeping = [wn for n in (2, 4, 6) for wn in itertools.product(V, repeat=n) if sum(wn) == 0 and window_keeps(wn)]
+arrival("SA12", "a window of signs, the oldest removed and the opposite of the latest appended, mean 0 at each next: the windows of 2, 4 and 6 keeping it are the %d alternating ones" % len(keeping), len(keeping) > 0 and all(all(wn[i] == -wn[i + 1] for i in range(len(wn) - 1)) for wn in keeping))
+arrival("SA13", "a window whose next permits either sign, S(next) = S(now) + y - a: so at each of the 64 cases of four signs and y", all(sum(list(wn[1:]) + [y]) == sum(wn) + y - wn[0] for wn in itertools.product(V, repeat=4) for y in V))
+joins = {(0, 1), (1, 2)}
+arrival("SA15", "immediate-next joins 0 to 1 and 1 to 2 and is taken as one relation with a transitive same-form: 0 to 2 would be joined, and it is not", (0, 2) in joins)
+# pi_next * 1/3 = pi * 2/3 round three values gives pi = 8 pi
+p0 = Fr(1)
+p1, p2 = 2 * p0, 4 * p0
+arrival("SA16", "one normalized law balanced round three values, forward 2/3 and reverse 1/3: each weight twice the one before, round three, asks a weight 8 times itself", 2 * p2 == p0)
+import math
+arrival("SA14", "two compartments at one temperature, pressures 3 and 1, taken as no available work: the work at one temperature between them is n R T ln 3", math.log(3) == 0)
+
+kept = [n for n, kk in arrivals if kk]
+print("   arrivals computed: %d of the registry's 63; kept under its own stated continuing: %d; not possible by its own" % (len(arrivals), len(kept)))
+print("   requirements: %d, %s" % (len(arrivals) - len(kept), ", ".join(n for n, kk in arrivals if not kk)))
+print("   the registry's own exclusions at 5.2, computed again:")
+Forb = lambda P, Q: (-Q, P)
+pairs = list(itertools.product(V, repeat=2))
+left = 0
+proper = [set(s) for n in (1, 2, 3) for s in itertools.combinations(pairs, n)]
+for sset in proper:
+    for start in sset:
+        cur, out = start, False
+        for _ in range(3):
+            cur = Forb(*cur)
+            out = out or cur not in sset
+        left += out
+print("     F(P,Q) = (-Q,P): each of the %d nonempty proper sets of pairs is left within three advances from each pair in it: %d of %d" % (len(proper), left, sum(len(s) for s in proper)))
+print("     two molecules: the passing one way and the other are alike at the count of B %s, and each passing from 1 goes to %s" % ([nB for nB in (0, 1, 2) if (2 - nB) == nB], sorted({0, 2})))
+print("     so at one arrangement the count changes at each passing and the law of the counts is kept (NY31 above)")
