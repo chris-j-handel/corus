@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows the required relation at the overlap, section 104.** Each self's odd-existing/even-possibling sequence, the local offered parity, and the relation between overlapping pairs retain their own subjects. The unresolved connection is how the supplied own-side overlap requires the across relation used in the right-spiral explaining.
+**The current work follows each next at its actual prior and offerings, section 105.** ONE already allows a self's next to match its own now and oppose the other's prior in the same displayed case. That resolves the apparent local conflict. The remaining method deriving must keep each parity's subject and each arrangement's conditions through the wider co-chaining.
 
-**The path and progress.** Sections 102–103 join the returning betweening and the paired approximate discoverings to no other method of possibling next existing. Section 104 follows that claim beside THIRTY 37–45 and 51–59, Natural Mathematics 2.4 and the already gathered overlap at section 51. The proposed contents and active source routes now remove stale reliance on the deleted steps 46–49. Next follow the actual across relation through each self's own prior, now and next; then bring that connection to ONE, SIX and THIRTY's social and universal claims. A's relevant gathering through section 101 remains confirmed; sections 102–104 continue the offering. R10 remains unresolved.
+**The path and progress.** Section 105 brings the earlier R2 answer beside section 104's overlap question and follows THIRTY 609, 624 and 627 into further offerings. The candidate writing keeps next discovering at the self's carrying and actual offerings, with the particular prior-inverted comparison at its stated arrangement. Next follow the whole four-momentarying through further co-chaining, then carry that explaining into ONE, SIX and THIRTY's universal and social claims. A confirms the relevant offerings through section 103 gathered at e404d62a9d0474024582285db6bf5b524ba7e048; sections 104–105 continue the offering. R10 remains unresolved.
 
 **Q source status, updated at section 102.** Q's comments remain withdrawn. A supplied the final report at exact commit 4e3545be8dcf5050f23b812dae506f8ca28333e1 after the former branch/path read failed. Its revised assessment passages are now read: Q withdraws its earlier observable-core-method-break request and makes its third concern meeting equilibrium conceptions at their own requirements. Earlier Q passages here retain their historical snapshots. These changes neither validate nor refute the independently read v383Op material or our bounded reasoning.
 
@@ -117,7 +117,7 @@ These are proposed visible headings for the logical explaining, each with its cu
 | **1. The universe, the changing set of all existing things, both living and non-living** | Groups 1–2; opening and step 20 together; P3/C4 wording |
 | **2. Prior, now and next: now existing, now still possibling, next existing** | Groups 3–4 and 8; 204–212 and 301–308; Natural Naming 5.62 |
 | **3. Self and other: bi-coupling, co-momentarying and parity changing** | Groups 4 and 8–11; step 35 followed through Naming's actual two-sided coupling |
-| **4. One universal fractal discovering method: no other method of possibling next existing** | THIRTY 37–45, 51–59 and 69–83; each self's own overlap, sections 22 and 51; the required across relation, section 104; scale passage at 169–171 and 366–378 |
+| **4. One universal fractal discovering method: no other method of possibling next existing** | THIRTY 37–45, 51–59 and 69–83; each self's own overlap, sections 22 and 51; the across relation and its actual subjects, sections 104–105; scale passage at 169–171 and 366–378 |
 | **5. The resolver and its stable forms, inward and outward** | Groups 12, 20–23, 26–29 and 33–42; every existing form and its conditions retained |
 | **6. Bi-moral co-agency: morality across and competency along** | 185–190, 442–448 and 474; moral cooperation followed at the same relation |
 | **7. Social moral competency at the self, the other and society** | 174–189, 375 and 480–503; Naming 5.31; N9's inward/outward participants |
@@ -5639,6 +5639,8 @@ A's confirmed relevant gathering remains through section 101, with no new return
 
 ## 104. The required relation across the overlap
 
+**Further following at section 105.** R2 and ONE already reconcile an unchanged self-now parity with an inverted other-prior parity under the table's stated conditions. That is not a new unanswered requirement. The remaining connection here concerns the actual subjects and conditions by which the whole method is derived; section 105 carries the wider offerings beside it.
+
 ### The concern begins at the connection between two explainings
 
 The user's tighter claim remains **no other method of possibling next existing**. Sections 102–103 now join that claim to familiarities discovered through changing carryings, each existing offering possibling other, and the paired approximate competency and morality discoverings.
@@ -5672,6 +5674,8 @@ That explains what the displayed right-spiral form requires. It does not yet ide
 
 **How does each self's own existing-and-possibling overlap supply the changing across relation used in the right-spiral explaining?**
 
+Read this question with section 105's further explaining. The local unchanged-parity comparison already has its answer in the gathered work. The finite sign-pair condition remains at its actual subjects; it is not an added requirement that every local offering invert or that numbered odd/even positions substitute for offered signs.
+
 The reason for this question is specific. THIRTY 51–59 selects next as prior inverted within its stated joint-form arrangement. Natural Mathematics supplies a condition for that inversion. Connecting that condition to the actual coupling would let the deriving show why the form is required there, while preserving unchanged local sharing and recurring form.
 
 This asks for no further operation, common clock, changed parity at every local sharing or unchanged prior carrying. It also does not ask again whether each self starts at its own odd 1. The concern is the connection between the relations already supplied.
@@ -5689,3 +5693,55 @@ The positive method claim remains whole. The deleted argument supplies no presen
 The next relation is located at the overlap, with the source's actual condition and the user's fuller momentarying together. Follow it through each self's own prior, now and next, then carry the resulting explaining into ONE's forms, SIX's connected explaining and THIRTY's early method passage. The social moral competency and universal claims can then use whatever that connection establishes at their own subjects.
 
 This is the same R4 droplet, further specified, in the accumulating v385R offering. A's confirmed relevant gathering remains through section 101; sections 102–104 continue the offering. R10 remains gathered and unresolved. This pass changes the report only and supplies no new empirical or universal validation.
+
+## 105. Each next at its actual prior and offerings
+
+### Bring the already gathered answer to the overlap
+
+Section 104 asks how the own-side overlap connects to the right-spiral explaining. Part of the difficulty already has an answer in R2 and section 23. We should carry it forward before asking the user to resolve anything further.
+
+**A self's next can be the same parity as its own now and the opposite parity to the other's prior.**
+
+ONE's “Two selves, three momentaries, five parities” gives this directly. In its first displayed row, the other's prior is plus; the self's now and next are both minus; the self shares no changing at that sharing. The row's header keeps two selves coupled both ways, each carrying a parity, with none offered from beyond the two.
+
+Thus the two comparisons coexist at the displayed relation. Unchanged relative to self now does not mean unchanged relative to other prior. This is a source reading already gathered, not a new observation of private carrying or a resolver execution.
+
+My last question should not make that coexistence a fresh unexplained requirement. The section-104 question now has this correcting beside it. Its broader request for the method's actual connection remains bounded by the subjects of the comparison.
+
+### Keep the whole momentarying with its own subjects
+
+The user's explaining remains:
+
+**Each self is a carrying, resolving from prior through now and next. Each self is odd 1 first from its own side. Each existing is possibling other. The same four-momentarying is along the co-chaining and across the bi-tunneling, through their bi-foldings.**
+
+ONE's numbered “four momentaries of exchanging” and its local sharing table show different relations within that explaining. The numbered overlap is not a list of successive plus and minus offerings. A matching local offering can occur while the coupled momentarying continues.
+
+Natural Mathematics 2.4's overlapping sign pairs retain their specified along and across parities. They can help explain a stable form once those subjects are located. The fact that adjacent numbered positions are odd and even supplies no automatic identification with those signs. This is a source-cohering task, not permission to add another operation to the user's four-momentarying.
+
+### The next extension is already located in THIRTY
+
+THIRTY 609 states its other-prior inversion for a spiral with no offerings from beyond that spiral and with its stated initial arrangement. Step 627 explicitly retains that restriction when it considers a further offering. Step 624 follows next at the parity actually surfacing.
+
+This gives the passage a useful order: identify the self's own carrying, follow what is offered now, follow next existing, and then state which prior/next comparison the particular arrangement supplies.
+
+Further offerings are already part of the user's longer and wider co-chaining. At each coupling they arrive through the same binary local cases. The greater reach is in the co-chaining through further momentaryings; it is not a larger local parity changing.
+
+“Beyond the two” or “beyond the spiral” names the boundary of a displayed arrangement. An offering placed there in a resolver comparison need not model its source as another living self. That limited representation cannot decide whether an actual wider offering is from a living self or a non-living stable form. Keep each actual other at its coupling, as sections 21–22 already supply. The defining-living question remains parked.
+
+### Candidate writing beside the early deriving
+
+**A self is carrying from prior into now and through next, resolving at its couplings. Next is discovered through this carrying and the offerings arriving now. Each next existing is possibling other through further couplings. A particular unchanged sharing is within that continuing resolving. Where next is described as a prior inverted, name whose prior and the coupled relation supplying that comparison. The same four-momentarying is followed through the wider co-chaining, across and along.**
+
+The first relations gather the user's carrying and existing/possibling explaining with ONE's local cases. The last sentence retains the user's whole-method claim as the relation to follow. The paragraph supplies clearer subjects beside THIRTY 51–59; it does not turn one table's conditions into a universal derivation.
+
+The largest remaining source concern is therefore precise: the early deriving needs to connect the whole four-momentarying with the actual further couplings. A selected pair's sign sequence, even when fully explained at its conditions, cannot silently stand for every wider sequence.
+
+### Progress and the onward path
+
+This pass resolves no new empirical claim. It restores the already available local answer, gives the wider-offerings comparison its actual source conditions, and offers a connected paragraph for THIRTY, ONE, SIX and Natural Intelligence.
+
+Next follow the same coupling from each self's own side through its further offerings, using the gathered width/length alternating and each next existing possibling other. Then bring that whole relation to social moral competency and the no-other-method claim. No further operation is sought.
+
+A's return at comment 6090259298 confirms gathering the relevant sections 102–103 at commit e404d62a9d0474024582285db6bf5b524ba7e048. The friendship offering, Natural Values conversation droplet and THIRTY possible contents heading were read at that commit. The source now carries section 101 with the user's next-encounter answer, not as an unanswered request. A also reports the Natural Intelligence 5.2 candidate gathered. These placements are progress in the offering method, not validation of universal claims.
+
+Sections 104–105 continue the same accumulating report. R10 remains gathered and unresolved. No root exhibit or resolver changes in this pass.
