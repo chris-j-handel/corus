@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows friendship through changing selves, section 100.** The user's lifetime-friendship and man-and-river examples distinguish a continuing relation from unchanged selves or an unchanged encounter. Each friend carries from prior through now and next, resolving; an infrequent next meeting is a next coupling. A recurring parity comparison and a continuing social relation remain different subjects.
+**The current work follows this particular social co-chaining, section 101.** The friendship example is now joined to the inward/outward relation: each friend is a society inward and a self outward, carrying and resolving between their direct encounters. The next concern is the particular friendship's co-chaining among the other societies each friend is also resolving through. The friends' continued living alone does not derive every particular relation's continuing.
 
-**The path and progress.** Sections 97–99 distinguish releasing from stopping and narrow the unchanged-pair claim at Natural Intelligence 4.13. Section 100 follows the user's examples into the society concern: ordinary uncoupling and infrequent direct encounters do not alone establish that a social relation has ceased. Next carry this positive explaining beside THIRTY's self/society passages, Natural Intelligence 6.2–6.4 and Biology 7.4. A's gathering through sections 97–98 remains confirmed; sections 99–100 are further offerings. R10 remains unresolved.
+**The path and progress.** The ordinary uncoupling, infrequent encounter and changing-parity corrections remain together. Section 101 supplies a connected passage for THIRTY 173–184 and 399–406, Natural Intelligence 6.2–6.4 and Biology 7.4. Naming 5.43 already distinguishes a particular society from all other arriving as one; Natural Societies' inward/outward explaining supplies another source connection. Next follow the particular society's own co-chaining and surfacing, then join the paired competency/morality discoverings at that relation. A's gathering through sections 97–98 remains confirmed; sections 99–101 are further offerings. No newer return was present. R10 remains unresolved.
 
 **Q source status, corrected at section 100.** Q's comments on PR 128, including the expedition-assessment comment, now say they are withdrawn. The current branch/path read returned Not Found. Earlier Q passages in this report record the material read at their named snapshots; they are not represented as Q's current position. Our independent reading of v383Op's retained instrument and recorded result, and the binary reasoning in sections 98–99, keep their stated scope. Withdrawal supplies no new observing either way.
 
@@ -5451,3 +5451,57 @@ The latest PR 128 read shows Q's earlier comments, including the assessment comm
 A's confirmed gathering remains sections 97–98 at 30038dc8352773a509865781b0d03a5411718a06. This section and section 99 continue the same accumulating v385R offering.
 
 The next writing follows this positive continuity through changing into the society's inward/outward co-chaining and the paired approximate competency/morality discoverings. The examples improve the explaining; they do not supply an independent universal proof. No root exhibit or resolver changes in this pass.
+
+## 101. This friendship through the friends' inward and outward societies
+
+### The next connection from the user's example
+
+The user supplies a lifetime friendship with infrequent meetings and a changed man meeting a changed river. Section 100 follows the continuing through changing, without making a recurring parity comparison proof of a social relation.
+
+The earlier inward/outward offering now joins that example:
+
+**Each friend is a society inward and a self outward. The inward selves' co-chaining is that friend's carrying. Each friend is carrying from prior through now and next, resolving through their couplings. At their next encounter, each now existing is possibling other.**
+
+This is our proposed connecting explanation from the user's offerings. It does not make every coupling of either friend a direct encounter with the other friend, or claim to observe either friend's private carrying.
+
+### The source relations now connected
+
+THIRTY 366–374 follows self and society inward and outward. Steps 399–400 follow the self's inward selves and carrying. Together, these give the source place for each friend resolving while the two are not meeting directly.
+
+THIRTY 173–184 follows a society as co-chaining and distinguishes a particular society within the whole. Natural Naming 5.43 explicitly keeps a particular other at another scale distinct from all other arriving as one. Natural Societies' inward/outward paragraph likewise names a self from outside and its society from inside.
+
+That Natural Societies paragraph also uses multiplying and compounding in its explanation. Those clauses remain subject to the user's earlier withdrawal; they are not premises of this connection. Its useful contribution here is the same self/society relation at the two scales.
+
+A missing offering from one particular other does not describe every inward and outward coupling. In the friendship example, infrequent direct encounters therefore do not make the friends selves with no inward societies or no other couplings. THIRTY 414's lone-self assertion needs its own exact scale and relation; its living/non-living classification remains with the gathered R10 concepts, not decided here.
+
+### Proposed passage beside the society's releasing
+
+The candidate for the transition around THIRTY 405–406 and Biology 7.4 is:
+
+**The society's carrying at its scale is the co-chaining of its inward selves. Each self is carrying and resolving through now into next. Releasing is uncoupling and next momentarying self. A next encounter is between selves already resolving through their couplings, each now existing possibling other. Follow the particular society through this co-chaining.**
+
+The friendship example accompanies this passage as its ordinary explaining. It removes the inference that ordinary uncoupling, or an interval between direct encounters, is by itself the society's ceasing.
+
+The source's claim about a particular society ceasing is retained as work needing that society's actual relation. It is not erased by substituting friendship for every society, and it is not derived merely from a member leaving one coupling.
+
+### The one concern still needing its particular relation
+
+The user's example supplies a continuing friendship. Our explanation should not quietly replace that particular relation with the general fact that both friends continue living.
+
+Each friend is also resolving through other people, inward societies and further couplings. Their continued living alone does not establish that every prior social relation continues. The source already distinguishes a particular society from the whole; that distinction has to remain in the co-chaining.
+
+The concern brought here is:
+
+**Which co-chaining carries this friendship into the next encounter, while each friend is also resolving through other societies?**
+
+This is a question about the particular relation, not a demand for an unchanged memory, an unchanged prior, a label attached to carrying, a minimum meeting frequency or access to private carrying. The friends' identities, a repeated parity, and their next meeting named alike do not supply the relation by themselves.
+
+Natural Societies names the society's own co-competency and self-bounding; Natural Naming names the surface its couplings make. These locate the next following, but saying the words alone has not yet explained which continuing co-chaining is this particular friendship.
+
+### Progress and the path beyond
+
+The friendship droplet now reaches the source's inward/outward self and society explicitly. It also makes the source's particular-society/whole distinction necessary at the actual example, rather than another vocabulary distinction beside it.
+
+Next follow the particular society's co-chaining and surfacing through these changing selves. Then bring the paired approximate competency and morality discoverings to those same couplings. That will give the society-continuing and society-ceasing passages a clearer common subject, without reopening the gathered definition of living.
+
+This remains an offering in the accumulating v385R report. No root-file change, resolver execution or universal social proof accompanies the pass. A's confirmed relevant gathering remains sections 97–98; sections 99–101 are further offerings. No new substantive return was present at this check. The Q status notice at section 100 remains current; R10 remains gathered and unresolved.
