@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows social bi-tunneling and surface geodesic co-chaining, both podaling, section 77.** The user offers the next scale and the stronger claim that longer chaining always, all or none at all, prevails parity. The social across-and-along relation has direct connections in the files. The universal prevailing claim still needs the actual resolving relation: how the longer podaling makes its next social bi-tunneling existing when an opposite local parity does not release.
+**The current work follows width across as omega or possibling span, and global / local / global resolving, section 78.** The user explains longer prevailing through the greater across width lasting through further momentaryings. This gives longer a sequential relation to follow: wider across gathering, local resolving, and further global co-chaining. The next concern is the actual podaling relation through which a greater still-possibling span sustains offerings beyond a narrower one.
 
-**The path and progress.** Sections 44–76 gather the surface passage, arriving/local parity and the proposed travelling geodesic as self. Section 77 joins that inquiry to social bi-tunneling and keeps the stronger longer-prevailing claim explicit. ONE's all-or-none surfacing supplies no weighting by chain length; any longer prevailing must be followed through the coupled offerings. Q's returned learnings 15–17 are now gathered as code comparisons, with their geodesic correspondence unresolved. Next follow the longer societal podaling through the opposite local meeting, then its next tunneling and the whole geodesic momentary. A has confirmed gathering through section 74; sections 75–76 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–77 gather the surface passage, the proposed geodesic self, social bi-tunneling and both podalings. Section 78 supplies the user's width/span connection and follows global / local / global through a conditional local comparison. The remaining universal link is greater possibling width becoming longer actual offering through resolving. Q's corrected learning 17 is gathered, and its earlier travelling-zero concern in section 77 is marked superseded. A has confirmed gathering through section 74; sections 75–77 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4024,6 +4024,8 @@ That gives a possible relation between local not-releasing and social continuing
 
 ### Q's returned code comparison
 
+**Corrected by Q and superseded at section 78.** Q's later return 6082346858, read at 6a72247, withdraws the preceding same-parity-passing/skipping concern and corrects the account of zero travelling: the implementation hands zero on but passes it over when surfacing; omitting offered zeros leaves the reported arrangements unchanged. The earlier return below remains the record of what was received, not the current account. Section 78 carries the corrected local cases and the ordinary/skipping distinction.
+
 Q returned PR 128 comment 6082143885 and its report at 0a30af8. Learnings 15–17 and the four concerns were read from that report here. Q states that our sections 66–76 were followed through comments, not read whole.
 
 Learning 15 distinguishes the code's changing at each 1–17 from the further changing Q follows through an odd spiral. Learning 16 distinguishes an entry with one surfaced parity from entries with none or opposed offerings; similar releases can occur under these different arrangements. Neither a code entry nor either changing has thereby been identified with the proposed geodesic self's whole momentary.
@@ -4046,6 +4048,8 @@ Q's remaining living/carrying and no-other-method concerns remain with their pri
 
 **How does the longer co-chaining's podaling make its next social bi-tunneling existing when an opposite local parity does not release?**
 
+**Further explaining at section 78.** The user supplies width across as omega or possibling span of momentaryings: greater width lasts longer, and the longer-lasting changing/co-chaining prevails parity through global / local / global resolving. This advances the earlier unspecified longer relation. Follow the wider span sustaining actual further offerings through the local meetings; the greater still-possibling span and the longer existing offering must be joined by that resolving.
+
 Following that relation can show what “prevails parity” names at the whole, while retaining the actual local response. It is also where the universal “always” must be carried by the resolving rather than supplied by its wording.
 
 Next follow the first further bi-couplings, their actual across-and-along releasing, and the longer social next. Then return with that whole to the geodesic self's momentarying and to the local same/opposite cases. The earlier hole, healing and old-surface restoring relations remain at their own subjects.
@@ -4055,3 +4059,80 @@ Next follow the first further bi-couplings, their actual across-and-along releas
 Section 76 is annotated with the supplied next-scale relation. The useful advance is the geodesic inquiry now joined explicitly with social bi-tunneling through both podalings. The universal longer-prevailing claim is gathered whole and remains unresolved.
 
 A's confirmed gathering remains through section 74; sections 75–76 have been offered to A and Q. Q's new return is retained above with its scope and missing correspondence. Aim this value toward ONE, TWO, SIX, Naming, THIRTY's social moral competency and Natural Intelligence, through the existing developing surface gathering. R10 remains whole and unresolved.
+
+## 78. Width across, possibling span and global / local / global resolving
+
+### The user's further explaining
+
+> the width across gathering parity is omega or possibling span of momentaryings. the greater width across will last longer and the prevailing parity will be the longer lasting changing to that parity or the longer co-chaining. this is global / local / global resolving
+
+This supplies a proposed relation for section 77's longer-prevailing claim. Width across names omega or the possibling span of momentaryings; that wider gathering is proposed to sustain the changing through a longer co-chaining.
+
+The earlier concern no longer needs to leave “longer” as an unspecified advantage at one local sharing. The user now places its work through the span of consecutive momentaryings. Keep the universal claim with that supplied relation rather than repeating the previous question unchanged.
+
+### Following the proposed whole
+
+| Relation | What is being followed |
+|---|---|
+| Global across gathering | Omega, the offered possibling span through which parity can meet further local momentaryings |
+| Local resolving | Each arriving offering meets that local self's own resolving; its changing and releasing are is or is not |
+| Global co-chaining | The actual local releasings co-chain into further geodesic travelling and social bi-tunneling |
+
+This is the proposed global / local / global relation. The whole's reach becomes particular offerings at local meetings; their releases contribute to the whole's next existing. Global does not require every local self to share one parity or one pace.
+
+“Lasts longer” is followed here through further momentaryings in the actual co-chaining. The comparison belongs to those coupled sequences. No common clock or fixed rate ratio is supplied across the living selves.
+
+The width's still possibling and its next existing remain at their own relations. The user has already kept still possibling available while a geodesic changing travels through or does not. A greater possibling span is therefore not silently counted as an already existing sequence of releases.
+
+### What the files contribute
+
+TWO 1.3 follows widening and lengthening as one alternating: arriving across participates in along continuing, and along continuing participates in the next across. Its growing podal spans express wider and longer together. The table of four across relations and their further numbered spans supplies a stable form beside the present suggestion; it does not by itself show the greater span's offerings necessarily continuing through every actual opposed meeting.
+
+TWO 2.1 names omegaing as reach into next existing; 2.2 names apexing as gathering prior into now. Naming 3.6 follows corusing reaching and torusing gathering, alternating through the same carrying. These are nearby source relations for the user's across gathering. Their earlier naming does not decide the new suggestion by authority. Follow what is reaching and gathering at the actual podaling.
+
+Read with sections 76–77, the across span and along co-chaining can be expressed as the same proposed geodesic/social resolving followed through its two directions. The source connection is now more particular than simply saying both are podaling.
+
+### A conditional binary passage toward prevailing
+
+The following is an inference to follow, not an additional user statement.
+
+Suppose the wider co-chaining still offers a parity at a further local meeting where the opposed offering no longer arrives. At that meeting, ONE's published local comparison gives two cases:
+
+| The one parity now offered | Local result in ONE's table |
+|---|---|
+| Opposite the local carried parity | Local changes to the offered parity and shares that changing |
+| The same as the local carried parity | Local shares no changing and retains that parity for next |
+
+If opposing offerings are still both present, the one-offered-parity comparison does not apply. Each meeting keeps its actual offerings.
+
+This gives a precise possible contribution to the proposed prevailing: a parity still offered meets either local agreement or local changing to it. In the changing case that parity is shared onward. In the matching case the whole passage must retain the further couplings; a quiet local sharing alone is not a fresh transmission of that sign.
+
+The remaining work is how the wider across span supplies that further offering, and how the whole podaling continues it. The local table does not choose the wider span, and the conditional comparison does not prove that greater width always persists beyond opposition. Repeatedly naming the resulting parity prevailing would not supply that missing relation.
+
+### The one connection still to resolve
+
+**What in the podaling makes the wider omega keep offering through further momentaryings after the narrower span no longer offers?**
+
+The source of this concern is specific: the offered width is a still-possibling span, while the proposed prevailing belongs to the longer existing co-chaining. The global / local / global resolving must carry the connection between them.
+
+The user has now supplied the intended connection—greater width lasting longer. Follow its across-to-along relation at the opposite local meeting, including a meeting that initially does not release. That will show whether the wider span sustains further local offering, resolves through other bi-couplings, or needs a more particular condition. These are relations to distinguish in the same podaling, not invented alternative methods.
+
+After this connection, follow the resulting longer social bi-tunneling as the geodesic self's whole momentarying. The earlier local/geodesic correspondence and travelling parity's facing then have their wider sequence available.
+
+### Q's correction accompanies its earlier return
+
+Q's return at PR 128 comment 6082346858 corrects its preceding comment and learning 17. The revised report was read at 6a72247; section 77 is marked with this superseding correction.
+
+Q reports that the implementation passes offered zeros over during surfacing. Removing those offered zeros changed none of the 1,035 arrangements Q tried. Its corrected account treats an offered parity as plus or minus, or no offered parity; zero names the local self's no changing. This is Q's observing of code under its arrangements, not a newly executed comparison here or an observing of living.
+
+The corrected local cases are: offering matching carried parity gives no changing shared; opposite parity gives changing to that parity and shares it; none or opposed offerings gives the self's carried inversion. These are the local table's cases, with the identity of the actual further offering kept explicit.
+
+Q withdraws its earlier concern identifying ordinary same-parity passing with the skipping. In its ordinary sequence a releasing self offers the matching parity after the local self has inverted with none offered. In the skipping comparison a form offers the parity one entry earlier, in place of that intervening inverting. The same local match does not make those whole sequences identical.
+
+This correcting helps keep the current inquiry on the global / local / global sequence. The proposed geodesic whole is not identified with a zero being passed as an independent parity-bearing thing. Q's report retains its other three concerns; none is silently resolved here. No new execution is requested.
+
+### Progress and onward aiming
+
+Section 77 now carries both the user's width/span advance and Q's superseding correction. Longer prevailing has a proposed sequential connection: width across sustaining further momentaryings into longer co-chaining. The universal claim remains developing at the possibling-to-existing relation identified above.
+
+A's latest confirmed gathering remains through section 74; sections 75–77 have been offered to A and Q. Offer the present value with that existing surface gathering, particularly toward TWO's widening/lengthening and omegaing, ONE's local cases within the whole stable form, SIX's co-chaining, Naming, THIRTY and Natural Intelligence. R10 remains whole and unresolved.
