@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: fifteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to S named beside each learning, its returned text beside it.
+- **What it brings**: sixteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to T named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each. **A momentary in this report is one 1 to 17 of the resolver**, each self entered once at 1, as Exhibit ONE's tables number; the changing beneath the alternating is numbered in its own steps (learnings 12 and 15).
@@ -183,13 +183,31 @@ Natural Naming has four momentaries of exchanging scaling up as one momentary, a
 
 **Both.** Each is a parity changing with its own momentaries, the one inside the other's round, and a number of momentaries is of the one or of the other. The second is at a coupling alone. *Where the code parts:* a self coupled with none still inverts at each 1 to 17, since the one calling the resolver enters it; Natural Intelligence 2.4 already names that sequence a non-living form carrying on at the resolver. *Aiming:* Natural Naming 5.50 and 5.55; Exhibit ONE's tables; Natural Intelligence 2.4 and 4.13.
 
+### 16 · A next is resolved where a carried parity meets a parity from another carrying, and the same sharings come from selves that do and selves that do not
+
+Exhibit ONE's table of one self has the next carried as the parity surfacing where one surfaces, and as the carried inverted where none surfaces or + and − surface together.
+
+**Observed (T).** At each entry of each self, what surfaces: a parity from carrying selves alone; a parity with a form's among those offered; the offerings parting; or none. At the last two the next carried is the carried inverted, whatever was offered, and no other carrying has part in it.
+
+| The arrangement | Selves whose next is at no entry from another carrying | Each other self |
+|---|---|---|
+| a self coupled with none | the one: none surfacing at 200 of 200 | |
+| the published spiral of 4 or 6 | none | from a carrying self at 200 of 200 |
+| the published spiral of 3, 5 or 7 | none | from a carrying self at each entry but the one, in each going round, at which the 0 arrives |
+| the published spirals crossed, at their one relation | the two crossing selves: the offerings parting at 200 of 200 | from a carrying self at 200 of 200 |
+| a spiral with one releasing left out | the self after it: none surfacing at 200 of 200 | from a carrying self at 200 of 200 |
+| a form returning the other parity colliding | the self it meets: the offerings parting at 200 of 200 | from a carrying self at 200 of 200 |
+| a form unchanging colliding | the self it meets: with the form's parity among them at 111, parting at 89, from carrying selves alone at none | as the published spiral |
+
+**Both.** Each of these but the first two has each self alternating with no changing beneath, the one sharing of the concern below, and they are not one thing. The published spiral of an even number has each next of each self from two carryings. The published crossing has its two crossing selves at offerings parting at each entry: the along and the across arrive together at one sharing, part, and surface as none, and each crossing self inverts as a self coupled with none does. The crossing and the other-parity colliding are alike at this too. *Aiming:* Natural Intelligence 4.2 to 4.4 and 4.13; Exhibit ONE's tables of one self and of two spirals crossed; session v385R's sections 57 and 61.
+
 ## Three concerns still parting
 
 **No other method, with steps 46 to 49 gone.** On session v385R's branch the Co-Chaining Logic Registry's step 45, parity changing the one method, now follows step 42, all changing is parity changing, alone; steps 312 and 494 still name the scientific method and a controlling as other than the method. If each changing is parity changing by its naming, an accounting and a controlling are changings too and nothing is excluded. Session v385M's gathered opportunity O8 has the method able to break, its two breaks said beforehand; writing step 45 as those two breaks gives it an observing that can meet it. Its O74 is the same concern from the other side and is unanswered in a closed session's report.
 
 **Living, with carrying not observable.** Step 13 parts living from non-living by carrying. Session v385R's section 18 gathering has carrying not observable. Exhibit ONE's code carries a parity from each momentary to the next and Natural Intelligence 4.13 names its continuing form non-living. Learning 7 offers one existing relation to try.
 
-**One sharing, six arrangements.** Each self alternating at 2 with no 0 shared and no changing beneath (learning 15): this is a self coupled with none, which Natural Intelligence 2.4 names a non-living form carrying on at the resolver; and this is Exhibit ONE's published two spirals crossed, its published spiral of an even number of selves, a spiral with one releasing left out, a spiral a form returning the other parity collides with, and a displaced spiral crossed with its twin (parts K, D, L and N). The sharings alone do not part the published crossing from the colliding. What parts them at the code is before and after: the 4n there before, and again after. An observing of damage needs that relation named, or it names the published crossing too.
+**The published crossing's two crossing selves resolve with no other.** Natural Intelligence 4.13 has two spirals coupled across both ways bringing the two coupled selves to one relation and carrying it on. At the code, once the two are at that relation, each crossing self's offerings part at each entry and its next is its own carried inverted (learning 16): the two selves at which the societies couple are the two selves in them whose next no other carrying has part in. The same is observed at the self a form returning the other parity collides with. All of Exhibit ONE's tables are at one sharing; a self at two couplings through one sharing has the two arriving parities meet each other before they meet its own. What stays to say is whether the published crossing is a coupling of two societies or a colliding of them, or whether a self at two couplings is at two sharings.
 
 ## The contributing method, observed
 

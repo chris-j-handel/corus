@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to S.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to T.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -546,3 +546,64 @@ for n in (3, 5, 7, 9):
     at = [sum(car[t][i] == car[t][(i - 1) % n] for t in range(40, 40 + 4 * n)) for i in range(n)]
     print("   the published spiral of %d, its 4n of %d: changings beneath %d; the 1 to 17s each self is the receiving self of the alike pair: %s" % (
         n, 4 * n, changes_beneath(car, 40, 40 + 4 * n), sorted(set(at))))
+
+
+print("\nT. Each entry of each self: what surfaces. A parity from carrying selves alone; a parity with a form's")
+print("   among those offered; the offerings parting, + and - together; or none. At the last two the code has the")
+print("   next carried as the carried inverted, whatever was offered. 200 entries of each self, after the arrangement")
+print("   has come to its again.")
+
+
+def what_surfaces(st, rel, T, lo, form=None, form_from=0, rel2=None, rel2_from=None):
+    keys = sorted(st, key=str)
+    out = {k: [0, 0, 0, 0] for k in keys}
+    for t in range(T):
+        formed = bool(form) and t >= form_from
+        if formed:
+            c, o = st[keys[0]]
+            st[keys[0]] = (c, o + [("s", form(t, dict(c)["s"]))])
+        if t >= lo:
+            for k in keys:
+                vals = [v for _, v in st[k][1] if v != 0]
+                if not vals:
+                    out[k][3] += 1
+                elif any((v > 0) != (vals[0] > 0) for v in vals):
+                    out[k][2] += 1
+                elif formed and k == keys[0]:
+                    out[k][1] += 1
+                else:
+                    out[k][0] += 1
+        st = step(st, rel2 if (rel2 and t >= rel2_from) else rel)
+    return out
+
+
+def say(name, out):
+    groups = {}
+    for k, v in out.items():
+        groups.setdefault(tuple(v), []).append(k)
+    print("   " + name)
+    for v, ks in sorted(groups.items(), key=lambda g: -len(g[1])):
+        print("     %d of its selves: from carrying selves alone %3d; with a form's %3d; parting %3d; none %3d" % (len(ks), v[0], v[1], v[2], v[3]))
+
+
+def ring(n):
+    return {i: ([("s", alt(i))], []) for i in range(n)}, {(i, 9): (i + 1) % n for i in range(n)}
+
+
+say("a self coupled with none", what_surfaces({0: ([("s", -1)], [])}, {}, 300, 100))
+for n in (4, 6):
+    say("the published spiral of %d" % n, what_surfaces(*ring(n), 300, 100))
+for n in (3, 5, 7):
+    say("the published spiral of %d" % n, what_surfaces(*ring(n), 100 + 40 * n, 100 + 40 * n - 200))
+for p_, q_ in ((3, 5), (5, 7)):
+    st = {("A", i): ([("s", alt(i))], []) for i in range(p_)}
+    st.update({("B", i): ([("s", alt(i))], []) for i in range(q_)})
+    rel = {(("A", i), 9): ("A", (i + 1) % p_) for i in range(p_)}
+    rel.update({(("B", i), 9): ("B", (i + 1) % q_) for i in range(q_)})
+    rel[(("A", 0), 10)] = ("B", 0)
+    rel[(("B", 0), 10)] = ("A", 0)
+    say("the published spirals of %d and %d crossed, at their one relation" % (p_, q_), what_surfaces(st, rel, 500, 300))
+st, whole = ring(5)
+say("a spiral of 5 with one releasing left out", what_surfaces(st, whole, 400, 200, rel2={k: v for k, v in whole.items() if k != (0, 9)}, rel2_from=40))
+for name, f in FORMS[:1] + FORMS[2:4]:
+    say("a spiral of 5, a form %s colliding with one self" % name, what_surfaces(*ring(5), 400, 200, form=f, form_from=40))
