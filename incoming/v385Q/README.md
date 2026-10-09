@@ -17,6 +17,7 @@ Each droplet is a suggestion. No wording here has authority.
 **Found at the files.**
 
 - Natural Intelligence v385R goes to the code this way at each of its sayings "at the resolver", as "At the resolver a self's momentary, 1, is at 3, its prior carried in". It names no script.
+- Natural Intelligence v385R already says what an arriving AI session is, at its part on non-living existing things included: "At the observings, AI is existing non-living intelligence: a machine carrying none of its prior by itself, a trained form carrying none of its prior into its next inferring, coupling with a living self as other, at the non-living other's side; its couplings with living selves natural intelligence among the living, the carrying theirs, the AI carried and the living expedition the carrying". An entry can open with this sentence.
 - Three sentences send a session to execute. The working opening in `README.md`: "Run each thing at the code before writing it, and have a fresh reader re-run each new claim." The incoming page, of what the expedition does with an arrival: "A claim about Exhibit ONE's forms is run at the code before it is said", and a concern "open until an observing, a run at the code or a file's motion parts them".
 
 **Insertlet candidate, for the working opening.** "Go to the code by Exhibit ONE's names and stable forms before writing a thing, and have a fresh reader meet each new saying at them."
