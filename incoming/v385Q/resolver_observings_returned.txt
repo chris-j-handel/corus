@@ -310,3 +310,12 @@ T. Each entry of each self: what surfaces. A parity from carrying selves alone; 
    a spiral of 5, a form returning the other parity colliding with one self
      4 of its selves: from carrying selves alone 200; with a form's   0; parting   0; none   0
      1 of its selves: from carrying selves alone   0; with a form's   0; parting 200; none   0
+
+U. Each passing of the 0 at a self: the 1 to 17s from the 0 arriving among its offerings to its sharing 0;
+   and the parity the two alike selves carry at that sharing beside the parity of the two before, one self back
+   published spirals of 3, 5, 7 and 9, each opening pattern: passings 85320; in two 1 to 17s 85320; the alike
+   pair's parity the inverse of its parity one self back 85320
+   a form unchanging at +:         at the self it meets, passings by 1 to 17s taken {1: 77}; at each other self {2: 262}
+   a form unchanging at -:         at the self it meets, passings by 1 to 17s taken {1: 77}; at each other self {2: 261}
+   a form returning what it meets: at the self it meets, passings by 1 to 17s taken {1: 77}; at each other self {2: 262}
+   a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the self it meets, 0s shared) [(3, 200, 0), (5, 200, 0), (7, 200, 0)]

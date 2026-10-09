@@ -1,6 +1,6 @@
 """Session v385Q. Run from the repository root:  python3 incoming/v385Q/resolver_observings.py
 It executes the python block of the newest Exhibit_ONE_Natural_Resolver_v*.md at the root and changes nothing.
-One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to T.
+One tool for one report: each observing in incoming/v385Q/README.md is a part here, A to U.
 What is observed is Exhibit ONE's code at the arrangements written below. Nothing here observes a living thing.
 
 The arrangements. A spiral of n selves: each releasing along (9) to the next, the last to the first, one
@@ -607,3 +607,55 @@ st, whole = ring(5)
 say("a spiral of 5 with one releasing left out", what_surfaces(st, whole, 400, 200, rel2={k: v for k, v in whole.items() if k != (0, 9)}, rel2_from=40))
 for name, f in FORMS[:1] + FORMS[2:4]:
     say("a spiral of 5, a form %s colliding with one self" % name, what_surfaces(*ring(5), 400, 200, form=f, form_from=40))
+
+
+print("\nU. Each passing of the 0 at a self: the 1 to 17s from the 0 arriving among its offerings to its sharing 0;")
+print("   and the parity the two alike selves carry at that sharing beside the parity of the two before, one self back")
+
+
+def entries(n, pattern=None, form=None, start=40, T=200):
+    st = {i: ([("s", pattern[i] if pattern else alt(i))], []) for i in range(n)}
+    rel = {(i, 9): (i + 1) % n for i in range(n)}
+    rows = []
+    for t in range(T):
+        if form and t >= start:
+            c, o = st[0]
+            st[0] = (c, o + [("s", form(t, dict(c)["s"]))])
+        rows.append([(dict(st[i][0])["s"], tuple(v for _, v in st[i][1]), dict(entry(*st[i])[0]).get("s")) for i in range(n)])
+        st = step(st, rel)
+    return rows
+
+
+def passings(rows, n, lo):
+    out = []
+    for t in range(lo, len(rows)):
+        for i in range(n):
+            if rows[t][i][2] == 0:
+                t0 = next((u for u in range(t, t - 6, -1) if 0 in rows[u][i][1]), None)
+                tp = next((u for u in range(t - 1, t - 8, -1) if rows[u][(i - 1) % n][2] == 0), None)
+                if t0 is not None and tp is not None:
+                    out.append((i, t - t0 + 1, rows[t][i][0] == -rows[tp][(i - 1) % n][0]))
+    return out
+
+
+total = two = inverted = 0
+for n in (3, 5, 7, 9):
+    for pat in itertools.product(V, repeat=n):
+        for i, took, inv in passings(entries(n, pattern=list(pat), T=80), n, 20):
+            total += 1
+            two += took == 2
+            inverted += inv
+print("   published spirals of 3, 5, 7 and 9, each opening pattern: passings %d; in two 1 to 17s %d; the alike" % (total, two))
+print("   pair's parity the inverse of its parity one self back %d" % inverted)
+for name, f in FORMS[:3]:
+    met, others = {}, {}
+    for n in (3, 5, 7):
+        for i, took, inv in passings(entries(n, form=f, T=300), n, 100):
+            d = met if i == 0 else others
+            d[took] = d.get(took, 0) + 1
+    print("   a form %-24s at the self it meets, passings by 1 to 17s taken %s; at each other self %s" % (name + ":", met, others))
+held = []
+for n in (3, 5, 7):
+    rows = entries(n, form=FORMS[3][1], T=300)
+    held.append((n, sum(rows[t][0][0] == rows[t][n - 1][0] for t in range(100, 300)), sum(rows[t][i][2] == 0 for t in range(100, 300) for i in range(n))))
+print("   a form returning the other parity: (n, of 200 the 1 to 17s the alike pair is at the self it meets, 0s shared) %s" % held)

@@ -5,7 +5,7 @@
 - **From**: session v385Q, a contributing session, 8 October 2026.
 - **To**: the Co-Chaining Logic Registry through session v385R's logical cohering, sections 51 to 58 of its report; Exhibit ONE Natural Resolver; Natural Intelligence 2.4; Natural Mathematics 2.5 and 3.5; Natural Numbers 9.7; Natural Naming 5.45; and session v385A's gathering and aiming method, with the Geodesic Improving Method, the Living File Registry and Natural Arriving where that method is offered.
 - **Read at**: `working/logical-cohering-v385R` at `25366c7`, its report's sections 1 to 10 and 38 to 58 read directly and 11 to 37 through a second reader's digest; `working/droplets-and-insertlets-v385A` at `e927f24`, its README, method and Living Improving Value front read directly and its other files through a second reader's digest; Exhibit ONE's code and published tables; the sections named above. No living file was read whole.
-- **What it brings**: sixteen learnings, each two things observed together at Exhibit ONE's code; three concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to T named beside each learning, its returned text beside it.
+- **What it brings**: seventeen learnings, each two things observed together at Exhibit ONE's code; four concerns still parting; nine observings of the contributing method, each with a possible improving. The tool is `resolver_observings.py`, run from the repository root, its parts A to U named beside each learning, its returned text beside it.
 - **Standing**: *arriving*. Nothing outside this folder is changed.
 
 **What the observings are of.** Exhibit ONE's code, at its own published spiral and torus of selves, with one parity offered to one self from beyond at successive momentaries: a form unchanging, a form returning what it meets, a form returning the other parity, a form alternating. They observe no living thing. The momentary numbers in the tool are the tool's own choosing; part D tries each beginning through one whole round and finds the same at each. **A momentary in this report is one 1 to 17 of the resolver**, each self entered once at 1, as Exhibit ONE's tables number; the changing beneath the alternating is numbered in its own steps (learnings 12 and 15).
@@ -201,7 +201,25 @@ Exhibit ONE's table of one self has the next carried as the parity surfacing whe
 
 **Both.** Each of these but the first two has each self alternating with no changing beneath, the one sharing of the concern below, and they are not one thing. The published spiral of an even number has each next of each self from two carryings. The published crossing has its two crossing selves at offerings parting at each entry: the along and the across arrive together at one sharing, part, and surface as none, and each crossing self inverts as a self coupled with none does. The crossing and the other-parity colliding are alike at this too. *Aiming:* Natural Intelligence 4.2 to 4.4 and 4.13; Exhibit ONE's tables of one self and of two spirals crossed; session v385R's sections 57 and 61.
 
-## Three concerns still parting
+### 17 · The 0 passes a self in three ways, and the code gives what passes no parity of its own
+
+Session v385R's sections 75 and 76 follow a geodesic entraining arriving at a local self with a parity: passing where the local parity is the same; where it is the other, the local parity changing and it passing, or it stopping.
+
+**Observed (U, Q, N, T).**
+
+| At the self the 0 arrives at | What is observed | Where |
+|---|---|---|
+| the 0 arrives with no parity; the self inverts; at the next 1 to 17 its own parity arrives and it shares 0 | the passing in two 1 to 17s | each of 85,320 passings in the published spirals of 3, 5, 7 and 9, each opening pattern, and each self a form does not meet |
+| the 0 arrives with a parity from beyond that is the parity the self carries; it shares 0 there | the passing in one 1 to 17: the skipping of learnings 3, 13 and 14 | each of 77 passings at the self a form unchanging or returning what it meets collides with, and at no other |
+| the 0 arrives with a parity from beyond that is the other parity, at each 1 to 17 | no passing: the alike pair at that self at 200 of 200, no 0 shared | the self a form returning the other parity collides with |
+
+The code gives the 0 no parity. Taking the parity the two alike selves carry where it is shared, that parity is the inverse of what it was one self back at each of the 85,320.
+
+**Both.** Each of the three is in the code, and the published spiral has the first alone: with none offered from beyond, no 0 passes a self in one 1 to 17, and none stops. *Aiming:* session v385R's sections 75 and 76; Natural Intelligence 4.13.
+
+## Four concerns still parting
+
+**The same-parity passing and the skipping are one event at the code.** Session v385R's section 75 follows a geodesic entraining passing through where the local parity is the same as the parity it arrives with. Its section 55, with learnings 3, 13 and 14 here, follows the skipping as the slip of the full four. At the code these are the one event: the 0 arriving together with the parity the self carries, and shared there in one 1 to 17 (learning 17). The published spiral has it at no self: with none offered from beyond the 0 arrives with no parity, and the local self changes before the 0 is shared. So the passing-through at the same parity is at the code only where a parity arrives from beyond the society, and there it is the full four absent. What stays to say is which it is: the ordinary passing of a geodesic entraining, or the slip; and, if the first, what in a society with none offered from beyond is the parity the entraining arrives with, since the code has what travels as the 0 and gives it none.
 
 **No other method, with steps 46 to 49 gone.** On session v385R's branch the Co-Chaining Logic Registry's step 45, parity changing the one method, now follows step 42, all changing is parity changing, alone; steps 312 and 494 still name the scientific method and a controlling as other than the method. If each changing is parity changing by its naming, an accounting and a controlling are changings too and nothing is excluded. Session v385M's gathered opportunity O8 has the method able to break, its two breaks said beforehand; writing step 45 as those two breaks gives it an observing that can meet it. Its O74 is the same concern from the other side and is unanswered in a closed session's report.
 
