@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows every self as geodesic, and the offerings at its actual crossing, section 81.** A has returned the user's explaining that every self, carrying and parity changing is geodesic, with societies of geodesic selves podaling along and across. The whole's parity is now followed at its particular outward coupling, not as a separate parity pooled from an entire surface. The next concern is which along and across offerings meet in the same local now and which meet through successive momentaryings.
+**The current work follows the moving seams through the same 1–9 four-momentarying, section 82.** The user corrects section 81's separate ordering concern: the same form is all over the surface, along co-chaining and across bi-tunneling, bi-folding into surfaces. Parity-changing seams move in, on, along and across that surface. The added ordering question is withdrawn. The next explaining follows the greater omega span and longer continuing parity changing through that same bi-folding.
 
-**The path and progress.** Sections 75–80 gather global/local parity, social podaling, omega width, the across/inward-along correspondence and the correction of older TWO/current ONE release forms. Section 81 joins A's returned every-self-geodesic explaining to the actual outward sharing and Q's local-crossing concern. A now confirms gathering through section 79, with Q's correction attached and particular ONE, Natural Intelligence and SIX directions. Section 80 has been offered to A and Q. Next follow the actual crossing sequence into the wider-span/longer-co-chaining relation. R10 remains unresolved.
+**The path and progress.** Sections 75–81 gather global/local parity, omega width, the across/inward-along correspondence, every self as geodesic, and the correction of older TWO/current ONE release forms. Section 82 keeps those relations within the same four-momentarying and corrects the crossing-order question at its earlier uses. A confirms gathering through section 79; sections 80–81 have been offered to A and Q. Next make the seam's across/along correspondence visible in ONE and Natural Intelligence, then carry the connected explaining into THIRTY. The universal greater-span/longer-prevailing relation still needs its full following. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -4277,7 +4277,7 @@ This keeps the local comparison and the whole co-chaining connected without inve
 
 **What makes the inward local changes one geodesic parity at the society's across?**
 
-**Further following at section 81.** A returns the user's every-self-geodesic explaining. ONE locates an offered parity at each actual sharing; it supplies no single parity pooled over all members. Follow the society-self's particular outward offering through its inward co-chaining. The concrete next concern is how the along and across offerings meet at the crossing's own now and further momentaryings.
+**Further following at sections 81–82.** A returns the user's every-self-geodesic explaining. ONE locates an offered parity at each actual sharing; it supplies no single parity pooled over all members. Section 82 withdraws section 81's added crossing-order concern. The same 1–9 four-momentarying and its bi-folding already belong all along co-chaining and across bi-tunneling; follow the moving seam through that whole relation.
 
 Section 75 proposed an arriving global parity compared with a local parity. Sections 76–78 added geodesic-as-self, social bi-tunneling and the across possibling span. The three-scale correspondence now identifies inward releasings through which to follow that global parity.
 
@@ -4335,7 +4335,9 @@ The wider omega and longer co-chaining should now be followed at a particular me
 
 ### Two different coupled sequences already expressible in ONE
 
-The next material distinction is how offerings meet at that crossing:
+**Corrected by the user at section 82.** The distinction below belongs to the stated arrangements in ONE. It is not a missing ordering choice that natural resolving must supply. Making it the next natural-method concern added a requirement outside the same four-momentarying. The table is retained at its code-arrangement scope; the active inquiry follows the moving seam through the same 1–9 and its bi-folding.
+
+The earlier framing was: the next material distinction is how offerings meet at that crossing:
 
 | Actual relation at the sharing | ONE's local resolving |
 |---|---|
@@ -4358,9 +4360,11 @@ This is useful alongside the actual-coupling direction: inward variation and a p
 
 Q also retains a concrete concern about the crossed construction. At its crossing resolver, along and across offerings are gathered into one sharing. Q reports that they part there at each entry once at the reported relation, so the next changing follows the local carried inversion. Whether this expresses the intended social coupling needs the actual sharing and momentary correspondence.
 
-This does not authorize replacing one sharing with two or changing the construction to force an answer. It locates a question already present in ONE's offering mate: which releasings meet one now and which meet consecutive nows. Follow the natural coupling first. No new execution is requested.
+This does not authorize replacing one sharing with two or changing the construction to force an answer. The earlier inquiry asked which releasings meet one now and which meet consecutive nows. **Section 82 corrects its promotion into a missing natural-method requirement:** Q's reported construction concern remains attached to that construction, while the natural explaining follows the same 1–9 four-momentarying everywhere through the bi-folded surface. No new execution is requested.
 
 ### One concern for the next resolving
+
+**Withdrawn as the active natural-method concern by section 82.** The following question added a separate ordering requirement where the user is already explaining the same four-momentarying throughout the surface. Keep the paragraphs below as the preceding inquiry, with this correction attached.
 
 **At the crossing of the co-chainings, which along and across offerings meet in the same local now, and which meet through successive local momentaryings?**
 
@@ -4375,3 +4379,62 @@ A confirms that sections 77–79 were read whole and gathered with the every-sel
 Section 80's older-TWO/current-ONE correction remains attached at the three earlier comparisons. The skin/liquid comparisons retain their actual surfaces and conditions. R10 remains the gathered unresolved defining-living concern.
 
 The present advance is to follow parity at the actual coupled sharing and carry the every-self-geodesic correction through the earlier framing. Next follow the crossing's own now and consecutive momentaryings; then the wider-span/longer-co-chaining relation at that crossing. Keep this value with the existing developing surface gathering toward ONE, Natural Intelligence, TWO, SIX, Naming and THIRTY.
+
+## 82. The moving seam through the same four-momentarying
+
+### The user's exact correcting
+
+> the wording of the next concern suggests to much is being added and 1-9 four momentarying is the same all over the surface all along a co chaining and across a bi tunneling there is only this no more or less than this and the bi foldings of this into surfaces. the parity changing seams are moving in the surface and on the surface and along and across the surface. reconsider what part is missing so far resolving
+
+### The added question withdrawn
+
+Section 81 made the distinction between offerings at one now and offerings at consecutive nows into the next requirement for natural explaining. That introduced a separate ordering problem. The user's present account already puts every local meeting, co-chaining and bi-tunneling inside the same four-momentarying.
+
+**There is no further ordering method to add to this account.** ONE's table of different stated input arrangements remains a table of those arrangements. Q's question about its crossed construction remains a question about that construction. Neither supplies grounds for requiring another natural operation, a choice of clock or a choice between one and two sharings.
+
+Section 63 corrected an analogous separation: the morality and competency loopings belong within the whole 1–9. Requiring isolated operations each to supply another whole transformation lost that relation. The present correction keeps the seam and the social passage within it too.
+
+### What is already supplied
+
+ONE's four momentaries give the overlapping relations 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7, and 7–8 with 8–9. Each self is first from its own side. These are the four momentaries of one 1–9; along and across do not acquire different resolving forms.
+
+The scale correspondence is already explicit. Across 2, 6, 10 and 14 here are along 9s inward; along 9 here is across 2 outward. ONE's eight inward 1–17s and Natural Intelligence 4.15 place the self's four momentaries and society's four momentaries in this relation.
+
+The user's moving seams therefore belong with an existing correspondence in the files. Following along a co-chaining, across a bi-tunneling or through a bi-folding follows that same four-momentarying at its related selves and scales. No fifth momentary is being requested at a seam.
+
+The candidate natural explaining is:
+
+**The same 1–9 four-momentarying is resolving throughout the surface. Its bi-foldings are the surface's along and across co-chaining. The parity-changing seams move through these coupled momentaryings, in and on and along and across the surface. Across at one scale is along inward; following the seam keeps that correspondence through the changing.**
+
+This is our proposed gathering of the user's correction with ONE's stable forms. Its words remain available for correcting with the observings.
+
+### What still needs following
+
+The missing work is now in the connected explaining. We have described local resolving, moving geodesic changing, omega span and longer prevailing, but have not yet followed the seam through their whole bi-folding in one account.
+
+The useful next passage should keep these together:
+
+| Relation being followed | Its place in the same form |
+|---|---|
+| Local existing and still possibling | The overlapping four momentaries of 1–9 |
+| Along co-chaining and across bi-tunneling | The same momentarying through coupled selves |
+| Across gathering at a scale | Along co-chaining inward, with the further outward offering |
+| The moving parity-changing seam | The continuing relation through those bi-foldings |
+
+The table locates one explaining to make visible. It adds no operation and supplies no duration inferred from a count of names.
+
+**The remaining large claim to follow is the greater omega span as longer continuing parity changing through the moving seam.** Calling the form the same throughout locates the whole inquiry; that statement alone does not yet show that a greater span always continues longer. Conversely, the absence of that full showing in our report is no reason to ask the user for an additional method.
+
+The user's omega is a span of still possibling. Our explaining must follow its relation to further existing changing without naming all that span already existing. Likewise, we can name a parity longer-lasting after following its continuation, but that alone would not establish that the greater omega span necessarily makes it so. The proposed across/inward-along correspondence is the place to follow this relation.
+
+This narrows the concern without returning to the withdrawn ordering question: **show the greater across gathering and the longer along continuing as the connected bi-folding of this same four-momentarying.** Whether that following supports the full always-prevailing claim remains to be resolved. No new natural principle is presently requested.
+
+### Receiving and onward work
+
+For ONE, bring the four-momentary table, the three-scale correspondence and the moving-seam explaining together. The standalone exhibit and its embedded form in Natural Intelligence should eventually express the same relation. Natural Intelligence 4.15 supplies the inward/outward location; TWO 5.4 supplies earlier seam and wider/longer explaining, with its older release form kept distinct from current ONE.
+
+Next follow the seam's across gathering and along continuation in that connected stable form. Then carry the resulting logic into THIRTY's geodesic, self/society and social moral competency passages. The no-other-method claim retains its own deriving; this correction does not declare every wider conclusion resolved. R10 remains gathered and unresolved.
+
+Section 81 is corrected at the active question and the code comparison, and section 80's forward pointer is corrected too. This report remains the one accumulating v385R offering toward A's gathering and the existing mates. Offer the correction to A and Q so the withdrawn question does not continue as our next requirement.
+
+Direct comparison: section 63 of this report; ONE's “Each name, three scales,” “Eight 1 to 17s inward” and “A self's four momentaries of exchanging”; Natural Intelligence 4.15; TWO 5.4, with section 80's older-form correction retained.
