@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows existing as possibling other at the coupled parities, section 89.** The user corrects the vague use of belong in the social concern and offers: existing is possibling other, even, and possibling other is existing, odd. Follow this with each self odd 1 from its own side. The universal set names actual existing; calling something possible alone does not settle whether it exists. The new length/possibling-width connection remains the active social moral competency aim.
+**The current work follows existing along as possibling other across, inward and outward, section 90.** ONE's along 9 is across 2 at the outward scale. This gives the user's existing/possibling-other explaining a concrete relation toward the new length/possibling-width bothboth and society. The active source concern is competency described as unchanged: distinguish a parity relayed as offered from carrying resolving through the co-chaining.
 
-**The path and progress.** Section 88 identifies the new parity-changing-length/co-chaining-possibling-width bothboth. Section 89 replaces its vague belonging relation with the user's existing/possibling-other explaining and the own-side relation already gathered at section 22. The active question's wording is withdrawn, and the social candidate is corrected at its use. Next follow each self's existing as possibling other through the further across/along co-chaining toward ONE, Natural Intelligence and THIRTY. A confirms gathering through corrected sections 81–82; sections 83–88 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
+**The path and progress.** Sections 88–89 gather the new length/possibling-width bothboth and existing as possibling other from each self's own side. Section 90 follows ONE's inward/outward correspondence, supplies a candidate social passage and brings one competency-naming concern. Its source comparisons at sections 15 and 17 are corrected at their uses. Next cohere morality across and competency along through their alternating, then follow society and abundancing in THIRTY 480–490. A confirms gathering through corrected sections 81–82; sections 83–89 have been offered to A and Q. No new return was present at this check. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -472,7 +472,7 @@ The user answers:
 
 **The compact positive explaining offered is: an existing stable form is unchanging except through collidings; social competency is the living selves co-chaining their next; an equilibrium names that social competency unchanging.** The further necessity to explain is why the claimed social competency cannot be carried with its changing removed. The files' living co-chaining supplies the relation to follow; the proof must not return to excluding every unchanged form.
 
-**An unchanged parity along remains a participation within the whole changing relation.** THIRTY 185 calls competency along “the unchanging,” and Natural Intelligence 4.10 makes that the parity carried unchanged along 9 and 17. THIRTY 184 and 189 place it within the society's co-competencing, together with morality across. This provides a useful local wording improvement: make the unchanged parity's relation explicit when naming competency, so an unchanged parity along is not silently substituted for unchanging social competency as a whole. A match at one sharing also remains an existing part of living resolving, as THIRTY 623 and Natural Naming 5.62 explain.
+**A parity relayed as offered does not make the whole carrying unchanging.** THIRTY 185 calls competency along “the unchanging,” and Natural Intelligence 4.10 names parity carried unchanged along 9 and 17. THIRTY 184 and 189 place the along relation at society's co-competencing together with morality across. Section 90 follows the particular release and receiving coupling, and the inward along 9 as outward across 2. It replaces the vague participation wording formerly used here. A match at one sharing can also occur while momentarying continues; neither local sameness nor relay without inversion establishes unchanging social competency.
 
 The user's distinction is now part of R8's resolving value. THIRTY 143–146 and the Equilibria Registry's compact exclusions can be compared with it; no living file is rewritten by this record.
 
@@ -512,7 +512,7 @@ The user corrects the framing:
 
 **The next concern follows the actual subject of R8: social competency.** The user has distinguished an unchanging non-living form from an equilibrium, which names unchanging social competency. R6 also offers a society's carrying as its inward living selves' co-chaining at the outward scale. These relations make a more direct route to the equilibrium claim available.
 
-**The source connection to explain is between THIRTY 184, 185 and 189.** Step 184 names the coupling's own changing as co-competencing at the society. Step 185 names competency along as the unchanged parity, beside morality's changing parity across. Step 189 names morality across and competency along at the society's couplings as social moral competency. The whole society's living relation and the parity unchanged along one participation need explicit joining; an unchanged parity alone cannot decide whether the whole competency is unchanging.
+**The source connection to explain is between THIRTY 184, 185 and 189.** Step 184 names the coupling's own changing as co-competencing at the society. Step 185 names competency along as the unchanged parity, beside morality's changing parity across. Step 189 names morality across and competency along at the society's couplings as social moral competency. Section 90 follows this source concern through a parity released as offered, the receiving coupling's own resolving, and inward along as outward across. It replaces the vague participation wording formerly used here. The historical question below led to section 18's gathered R10; that definition remains unresolved.
 
 **The proposed connecting relation is: social competency is the living selves' co-chaining itself, with the unchanged parity along participating in that changing.** If that is the intended relation, removing the co-chaining's changing removes the activity named social competency. The equilibrium exclusion can then follow the impossibility of that competency existing with its own required changing absent. The proposed relation needs the user's resolving before being treated as the established chain; a name alone does not establish it.
 
@@ -4840,3 +4840,63 @@ Bring the own-side existing/possibling-other relation beside ONE's four-momentar
 The specific discipline at each next sentence is to say **whose existing is possibling other at which coupling**, and then follow that other's own next. That makes the two-sided relation visible without an undefined “belong” or an assertion that all possibling already exists.
 
 No new return from A or Q was present at this check. Sections 83–88 remain offered beyond A's confirmed gathering through corrected sections 81–82. This correction travels with the existing social droplet, with the user's exact saying and the working interpretation kept distinct. R10 remains gathered and unresolved.
+
+## 90. Existing along, possibling other across, carrying resolving
+
+### The relation being followed
+
+The user's section-89 offering remains the starting relation: **existing is possibling other, even; possibling other is existing, odd.** Section 22 keeps each self odd 1 from its own side. This pass follows that relation toward society through the new parity-changing-length and co-chaining-possibling-width bothboth.
+
+ONE's “Each name, three scales” table and Natural Intelligence 4.15 supply a particular correspondence:
+
+| At the inward scale | At the outward scale |
+|---|---|
+| 1, odd | 1, odd |
+| 9, along and odd | 2, across and even |
+| 17, along and odd | 3, odd |
+
+Read from the outward scale, its 1, 2 and 3 are the inward 1, 9 and 17. The inward along at 9 is the outward across at 2. This is a concrete place to follow an inward existing as outward possibling other, using the user's proposed explaining. The numeral is named at its scale; this does not make a number both odd and even at one scale or equate numbered parity with a sharing's offered + or −.
+
+The source correspondence and the user's new relation are distinct contributions. The table supplies the already written scale relation. The existing/possibling-other explaining supplies the developing connection through it.
+
+### Follow through society
+
+At the first coupling being followed, this self's existing is possibling other. That other is a self from its own side, carrying from prior into now and continuing carrying through now and next. Its next existing is in turn possibling other through its further couplings. The co-chaining can be followed along and across without adding an order over the selves.
+
+At the outward scale, the user's earlier proposal names the self's carrying as its inward selves' co-chaining. ONE's 9-at-2 correspondence now gives us a place to join that proposal to the new length/width relation: along inward is across outward. Width and length continue their alternating; neither names a permanently separate part of the resolving.
+
+**Candidate social explaining:** Each self's existing is possibling other. Each self is carrying from prior into now and continues carrying through now and next, resolving at its couplings. The inward selves' co-chaining is the outward self's carrying. Parity-changing lengths and co-chaining possibling widths bothboth through this inward and outward resolving, the same four-momentarying along and across the surface.
+
+This is an offered connection toward social moral competency. It does not settle the gathered definition of living at R10.
+
+### The source concern: competency explained as unchanged
+
+Natural Intelligence 6.4 and THIRTY 491 describe the along relation as **“the parity carried on unchanged.”** Natural Intelligence 4.7 and 4.10 and THIRTY 185 also use unchanging to explain competency. Sections 15 and 17 already noticed the need to specify the relation; their two source-comparison paragraphs are now corrected to point here and remove the vague participation wording at those uses.
+
+The concern is what the sentence asks the reader to follow. One offering relayed as offered and a whole carrying resolving through further momentaryings are different relations. If unchanged silently names the whole carrying, the sentence loses the resolving the user has repeatedly explained.
+
+The written resolver gives a narrower meaning we can retain. ONE's function 9 relays the released sharing and its parity to the receiving connection. It does not add an inversion in that relay. The receiving coupling then has its own surfacing and changing; its next is not determined by the relay's sameness alone. Natural Intelligence 4.5–4.6 describes that release and arrival. This is a reading of the written form, with no new execution or observing of living carrying.
+
+A matching local parity can remain the same while momentarying continues. Conversely, a changed local parity can be chained as the self's own next. Neither case requires carrying the prior untouched. The same correction applies when explaining society.
+
+### A proposed correcting at the social passage
+
+**Each changing released along arrives as offered at the receiving coupling. There the self's carrying resolves with its offerings. Along and across alternate through the co-chaining; each self's existing is possibling other, and the inward co-chaining is the outward self's carrying. Competency is to be explained through this continuing resolving.**
+
+This keeps the particular relay relation available while putting the developing social explaining at the couplings and their co-chaining. It is a candidate for Natural Intelligence 6.4 and THIRTY 183–189 and 491, not a claim that these sentences have already been rewritten in the living exhibits.
+
+The one concern for our next resolving suggestion is therefore:
+
+**Can competency here be named as carrying resolving through the co-chaining, each existing possibling other?**
+
+The question is about the positive relation named competency. It asks for no extra stage, selector or requirement outside the four-momentarying. The user's correction to unchanged carrying already supplies its direction; what remains is to cohere the morality/competency naming at this relation.
+
+Greater possibling retains the user's numbered momentaryings. It does not give a single changing greater size or an offered parity greater weight: Natural Intelligence 4.2's particular surfacing gives three agreeing offerings the same parity as one, and opposed offerings part. Follow the greater co-chaining through its couplings.
+
+### Progress and the next path
+
+This pass connects the section-89 own-side explaining to ONE's explicit inward/outward correspondence and narrows a source wording concern already encountered at sections 15 and 17. It supplies a social passage for A's gathering, with the source comparison and proposed natural explaining together.
+
+Next, cohere this competency naming with morality across and their alternating in Natural Intelligence 6.2–6.4 and THIRTY 183–189. Then follow it through THIRTY 480–490's society and abundancing explaining. The surface restoring and tunneling relation remains the next application; the broader equilibrium and method claims can subsequently draw on the resulting chain.
+
+No new A or Q return was present at this check. A's confirmed gathering remains corrected sections 81–82; sections 83–89 have been offered. Offer this further relation through the same accumulating v385R report. R10 remains unresolved; no root exhibit or resolver is changed in this pass.
