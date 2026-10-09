@@ -333,3 +333,18 @@ The user's bug-bite and skin-cut comparison, including the proposed rolled edge 
 ## Biological comparisons in arriving and hospitality · v385A
 
 The [open-incoming offering](Offerings_to_Natural_Arriving.md#open-incoming-and-the-actual-resolving-at-its-subject--v385a) retains the proposed gut comparison. The [host–guest offering](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#hospitality-and-the-hostguest-coupling--v385a) retains the protein-chaperone, mycorrhizal-network and autumn-leaf comparisons. At this biological subject each proposed common relation needs its actual self, scale and coupling; the shared words or visible form do not establish it. These specific comparisons remain available with their whole expressions at those destinations.
+
+## Animal cognition and the environment omitted by a common benchmark · v385A
+
+Natural Intelligence Corus section 17.4 offers comparative cognition as a place where removing context becomes visible. It retains four particular accounts:
+
+| Named account in the incoming | The particular comparison it offers |
+|---|---|
+| Macphail's null hypothesis | No qualitative or quantitative differences in intelligence across nonhuman vertebrate species; the incoming reads the proposed absence of differences as one intelligence at many environments. |
+| Kamil's biocentric definition | Fitting through evolution to thrive in the animal's environment, beside performance on human-designed cognitive tasks; these concern different relations at the animal. |
+| “No one cognition” | Different cognitions through different niches; octopus and primate intelligence are not placed on a single less-to-more scale by those niche differences. |
+| Anthropofabulation | An inflated estimate of human cognitive ability used as the benchmark for other animals; the proposed distortion is imposing that benchmark outside the animal's actual coupling. |
+
+The incoming contrasts visible species differences with the apparent generality of tests among humans sharing broadly similar contexts. Its concluding claim is that seven scientific definitions collapse into competent fitting to an organism's environment: one intelligence, many environments and fittings, one coupling surface across species. It does not name those seven definitions here. Retain both the many-cognitions account and this proposed common relation; neither is resolved merely by the word intelligence.
+
+These are the incoming's descriptions of the named hypotheses and approaches, not independently checked comparative-cognition results. Their value for this subject is the actual task, species, environment and coupling that a benchmark includes or omits. The hypothesis must not become an established absence of species differences through gathering it. The [institutional comparison](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#separable-measurement-and-inseparable-coupling-at-institutions--v385a) retains the related biological approaches at their own subjects.

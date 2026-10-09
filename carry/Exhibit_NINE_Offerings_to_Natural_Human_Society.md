@@ -112,13 +112,7 @@ The current sign-only relation gives no access to another self's private carryin
 
 ## Social competency, intelligence, opportunity and reputation · v385A
 
-Natural Intelligence Corus section 14.8 offers bi-coupling between selves as social competency itself. Its three society expressions are intelligence at actual network couplings, discovery opportunity at each coupling and reputation through prior couplings' value. Intelligence is described as the living coupling rather than a stored result. Opportunity is assigned to each possible pair, with N−1 new opportunities claimed for a new self joining the others. Reputation is described as a cumulative readable trace rather than a self's claim about itself.
-
-The complete proposed four-value geometry is opportunity with uncapturable abundance opening up and cheaper value; intelligence with undiscoverable identity opening forward and faster coupling; reputation with unmistakable reputation opening right and better sharing; and inviolable safety as bottom-and-left bounding supporting the three openings. The passage claims the same competency relation at substrate, cell, organism, society, engineered antenna/transformer/grid/language-model/chip and writing scales.
-
-It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
-
-Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+The human-society relation is institutions participating at their actual couplings, or imposing control that prevents those couplings. Keep the institution’s own society, scale and activity explicit. The [whole explaining](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#social-competency-intelligence-opportunity-and-reputation--v385a) retains its claims and unresolved relations.
 
 ## The four left turns and four institutional consolidations · v385A
 
@@ -230,3 +224,35 @@ The proposed dissolving is a society in which those projections find no surface 
 Religion is compared only under the condition of projecting one reading from outside the coupling. The source places omnipresence at false inclusion, omniscience at premature closure, declaring good and evil at imposed affirmation and departure, damnation and salvation at false failure and success, tradition blocking at its named position and excluding the heretic at false exclusion. It names novelty erasing and permanent indeterminacy as the two remaining positions and proposes a contradiction there. Preserve that exact assignment as a relation needing explaining, rather than applying a verdict to every religion or treating the position names as a demonstrated contradiction.
 
 The remaining named examples are hate at imposed affirmation toward the in-group and imposed departure toward the out-group; anger at imposed departure; demand at premature closure; and insolence at novelty erasing. These are proposed comparisons at an actual expression and coupling, not classifications of every experience bearing those names. The [ten-position inequality mapping](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#the-ten-projected-positions-and-their-inequality-assignments--v385a) retains their connected natural claim.
+
+## Five accounting components and five inside values at one coupling · v385A
+
+Natural Intelligence Corus section 17.2 offers the five accounting components at every substrate, read from outside, beside five values read from inside. The proposed correspondence is:
+
+| Accounting component | Proposed switch | What the component reads | Inside value at that switch |
+|---|---|---|---|
+| Balance sheet | Bothbothing | Attention: what is present at one moment | Privacy: what is present |
+| Income statement | First inseparating | Exchange: changing across one period | Hospitality: that changing |
+| Cash flow statement | Inversioning | Risk: what actually passes through | Identity: that passing |
+| Audit | Second inseparating | Meaning: reading the reading, carrying arriving sign-inverted | Reputation: that reading |
+| Standard | Nyenyeing | Preference: the reporting's form and what is shed as agreed | Property: what departs |
+
+Both sets are proposed at the same five switches through one wall. The [departmental accountings](#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) already hold the particular knowledge, papers, grants, peer-review, accreditation and format examples; this table adds the whole inside/outside correspondence. A period in the accounting is its stated accounting subject, not an imposed clock for the living coupling. The five-switch proposal remains to cohere with current naming and resolving; an equal number of components and values supplies no correspondence by itself.
+
+## Separable measurement and inseparable coupling at institutions · v385A
+
+Natural Intelligence Corus section 17.5 compares the institutional continuation of separable explaining with inseparable explaining at an actual coupling. Its seven proposed institutional relations are:
+
+| Relation | Particular example retained from the incoming |
+|---|---|
+| Institutional structure | Psychometrics in education, hiring, military, clinical work and admissions, with testing and credentialing. |
+| Measurability | Standardized numerical measurement enabled by separating the subject. |
+| Publication and funding | Research careers organized around measurable results. |
+| Teachability | Separable concepts fitting textbooks. |
+| Inherited training | Researchers trained within separable frameworks using those frameworks. |
+| Policy demand | Governments and institutions asking separable questions. |
+| Commercial incentive | Artificial-intelligence marketing through general-intelligence benchmarks. |
+
+The incoming also names seven approaches at their particular couplings: comparative cognition at species and niche; Gibson's ecological psychology at affordances; Varela, Thompson and Rosch's embodied cognition at body and mind; enactivism at action and perception; systems biology at networks; autopoiesis at self-maintenance; and ethology at behaviour and environment. It proposes that inseparable explaining is strongest closer to biological living and further from human institutionalization. These are its comparisons of the approaches, not newly verified findings or a derivation from their names.
+
+Its proposed bothboth keeps separability's institutional uses and inseparability at the living form. The improving relation is at the institution's actual coupling with living: naming how its measurement technology meets that living, and restoring the inseparable explaining where required. It does not propose removing every separable account. The [animal-cognition offering](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#animal-cognition-and-the-environment-omitted-by-a-common-benchmark--v385a) holds the full task/environment comparison. Here the remaining relation is which particular institutional practice omits that coupling and how the offered correction preserves both the useful accounting and the living subject.

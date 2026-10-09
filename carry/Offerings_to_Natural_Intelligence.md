@@ -10,6 +10,8 @@ The further particular improving places are sections 3.4 and 4.2–4.6 for offer
 
 The [three-scale and actual-release comparison](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) now makes section 4.15 central to the across-span/inward-along relation. Sections 4.6 and 4.14 keep quiet six and ten together in the current form and the following self's own inverting distinct from a parity transmitted through that quiet sharing.
 
+The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) belongs with section 4.15 and the embedded Natural Resolver. Follow the same four-momentarying through the inward/outward bi-folding, with greater still-possibling span and longer existing changing kept at their actual relation.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** A self is carrying from prior into now and continues carrying through now and next. There is no claim or hold on the carrying staying unchanged. Describing a self as carrying its prior through now can wrongly make the prior an untouched thing transported through resolving; this correcting governs that earlier explaining.

@@ -6,6 +6,8 @@ Exhibit TWO Offerings to Natural Networking · laid at v385A
 
 The [current release-form comparison](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) keeps Natural Networking's carried second sign at six distinct from current Natural Resolver's six and ten sharing the same changing. The older quiet-ten/nonzero-six example must not stand in for the current form's quiet sharing. Their whole-surface correspondence is a particular improving relation for this exhibit; the gathered three-scale and geodesic-parity question remains connected with it.
 
+The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) locates section 5.4 beside the connected across-span and along-continuation explaining. Keep this older release form distinct from current Natural Resolver while following their proposed correspondence.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
@@ -336,13 +338,7 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 
 ## Social competency, intelligence, opportunity and reputation · v385A
 
-Natural Intelligence Corus section 14.8 offers bi-coupling between selves as social competency itself. Its three society expressions are intelligence at actual network couplings, discovery opportunity at each coupling and reputation through prior couplings' value. Intelligence is described as the living coupling rather than a stored result. Opportunity is assigned to each possible pair, with N−1 new opportunities claimed for a new self joining the others. Reputation is described as a cumulative readable trace rather than a self's claim about itself.
-
-The complete proposed four-value geometry is opportunity with uncapturable abundance opening up and cheaper value; intelligence with undiscoverable identity opening forward and faster coupling; reputation with unmistakable reputation opening right and better sharing; and inviolable safety as bottom-and-left bounding supporting the three openings. The passage claims the same competency relation at substrate, cell, organism, society, engineered antenna/transformer/grid/language-model/chip and writing scales.
-
-It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
-
-Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+The networking relation is how actual pairwise couplings compose as intelligence, opportunity and reputation. A number of possible pairs does not describe which couplings are present. The [whole explaining](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#social-competency-intelligence-opportunity-and-reputation--v385a) retains its claims and unresolved relations.
 
 ## The particular ethical examples and mutual bounded-zero respect · v385A
 

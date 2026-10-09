@@ -10,6 +10,8 @@ The particular improving places are “Namings among the names,” the four mome
 
 The [three-scale comparison and release correcting](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) now locates “Each name, three scales” and “Eight 1 to 17s inward” beside that work. Six and ten carry the same changing in this form; the older Natural Networking carried-pair example cannot supply a nonzero six when this sharing is quiet at ten. Follow the whole's parity through the actual inward releases.
 
+The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) joins the four momentaries and three-scale relation: the same 1–9 applies along and across the surface. Bring their connected explaining together here and in the embedded form, without adding the withdrawn separate ordering requirement.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

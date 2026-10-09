@@ -6,6 +6,8 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v385A
 
 The [whole geodesic gathering](Living_Improving_Value.md#every-self-is-a-geodesic-self--v385a) carries the user's every-self explaining. Natural Transmissioning section 4.3 supplies the particular comparison of one crossing and a society of co-chaining crossings at two scales. Follow those geodesic selves' across and along in their actual coupled releases, with the wider-span/longer-co-chaining relation kept connected. One local changing or quiet sharing alone supplies no whole-passage outcome.
 
+The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) keeps this crossing and the co-chaining surface inside the same four-momentarying. The code-construction concern supplies no extra ordering requirement for this natural explaining.
+
 ## Carrying resolving through prior, now and next · v385A
 
 **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).

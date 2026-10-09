@@ -126,13 +126,7 @@ Four unfinished relations remain available: the specific proposed structural emb
 
 ## Social competency, intelligence, opportunity and reputation · v385A
 
-Natural Intelligence Corus section 14.8 offers bi-coupling between selves as social competency itself. Its three society expressions are intelligence at actual network couplings, discovery opportunity at each coupling and reputation through prior couplings' value. Intelligence is described as the living coupling rather than a stored result. Opportunity is assigned to each possible pair, with N−1 new opportunities claimed for a new self joining the others. Reputation is described as a cumulative readable trace rather than a self's claim about itself.
-
-The complete proposed four-value geometry is opportunity with uncapturable abundance opening up and cheaper value; intelligence with undiscoverable identity opening forward and faster coupling; reputation with unmistakable reputation opening right and better sharing; and inviolable safety as bottom-and-left bounding supporting the three openings. The passage claims the same competency relation at substrate, cell, organism, society, engineered antenna/transformer/grid/language-model/chip and writing scales.
-
-It distinguishes institutions participating through their actual couplings from institutions collapsing coupling through imposed autocratic control. Its destiny is the shared mutual natural network and discovery economy already present wherever such coupling occurs, with further cumulative value possible. The three remaining concerns are the precise composition of intelligence/opportunity/reputation with their other explaining; whether competency has scale-specific structural differences; and the particular relation by which an institution participates or prevents coupling.
-
-Keep each whole expression and those concerns. The stated pair count, improvement directions and universal scale identity do not by themselves establish a growth, speed, cost or safety result. Reputation here supplies no identity ledger, access to carrying or attribution requirement for resolving. Observed controlling remains an existing coupling; an unchanged measure alone supplies no general harm verdict. The current own-momentarying and carrying correcting accompanies the older common-rate account.
+The society relation is the proposed same competency across scales. The actual selves and their inward and outward couplings must supply that relation. The [whole explaining](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#social-competency-intelligence-opportunity-and-reputation--v385a) retains its claims and unresolved relations.
 
 ## The four left turns and four institutional consolidations · v385A
 
