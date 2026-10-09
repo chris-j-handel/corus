@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows co-chaining backing up, jittering and new tunneling, section 72.** The user's further suggestion supplies the passage: along the tunneling the co-chaining backs up; jittering begins before geodesic binary parity changing into new tunneling. The old tunnel may or may not restore its surface over many momentaryings. New tunneling and old-surface restoring keep their own subjects. Next follow the changing at the actual couplings during jittering and its next existing as the new tunneling.
+**The current work follows existing jittering and still-possibling new tunneling, section 73.** TWO connects an across meeting to a self's further along resolving and to what meets the next coupling. It distinguishes those local changings from a complete passage through society. A candidate joining the user's suggestions is that jittering is existing parity changing at the surrounding couplings while the new tunneling is still possibling. Next follow the across-and-along co-chaining by which that wider new tunneling is existing.
 
-**The path and progress.** Sections 44–71 gather carrying resolving, the proposed slip, whole 1–17 loopings, healing, the hole's right-spiral surround and recurring missing changing. Section 72 supplies backing up and jittering before new tunneling, while retaining the old surface's possible restoring over many momentaryings. Next follow jittering through the across-and-along couplings into the new tunneling; then connect that to the whole podaling and the old surface's further relation. A's latest confirmed gathering is through sections 68–69; sections 70–71 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 44–72 gather the full surface sequence through backing up, jittering and new tunneling, with the old surface's restoring kept at its own subject. Section 73 locates the unfinished local-to-society relation in TWO and offers the existing/still-possibling connection for resolving together. Next follow the whole passage from the surrounding couplings into the new tunneling, then carry that into THIRTY's fractal social moral competency and the full podaling. A's latest confirmed gathering is through sections 68–69; sections 70–72 have been offered to A and Q. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3668,3 +3668,73 @@ Aim this whole value toward TWO's geodesic-switching and restoring explaining, N
 No new return was present at the current PR 128 check. A's latest confirmed gathering remains through sections 68–69; sections 70–71 have already been offered to A and Q. The new suggestion stays in this one accumulating report. No additional resolver execution is requested. R10 remains whole and unresolved.
 
 Direct comparison: TWO 2.6, 5.4 and its interruption comparison; THIRTY 399–406 and 442–448; Naming 5.45; this report's sections 55–56 and 67–71.
+
+## 73. Existing jittering and still-possibling new tunneling
+
+### Following the user's supplied sequence
+
+The further pass follows section 72's whole suggestion: co-chaining along the tunneling backs up; jittering begins before geodesic binary parity changing into a new tunneling; the old tunneling's surface may or may not restore over many momentaryings.
+
+The work is to follow the co-chaining through that passage, not to replace the suggestion with a new schedule or to ask again whether the old surface must first restore. Its possible restoring remains its own further relation.
+
+### The local connection already expressed in TWO
+
+TWO's reciprocal across explaining says the across meeting continues into each self's next along resolving. Each self carries its own. What releases then meets a further coupling; another self resolves with its own carrying. TWO 4.7 consequently says a meeting can change the meetings following it, with each self at its own rate.
+
+The local source relation can be followed in three connected parts:
+
+| Relation followed | Connection to the further passage |
+|---|---|
+| Across meeting at a self | The offered parity meets that self's own resolving |
+| That self's further along resolving | Its further releasing belongs to its changed continuing |
+| Releasing meeting a further coupling | The other self resolves there with its own carrying, and the co-chaining continues |
+
+This is a relation between actual couplings. It supplies a place to follow jittering without assigning the same changing to every member of the society at once.
+
+TWO's surrounding-passage account then follows the sequence before the hole, around the two passages and into further society beyond them. It expressly distinguishes changing at one local surface from changing of that whole societal passage. Its exact continuation through the couplings is recorded there as further work. The local relation and the surrounding layout are present in the files; the complete jittering-to-new-tunneling passage is not yet expressed by them.
+
+### A candidate connection to still possibling
+
+The user's earlier distinction was that carrying and possibling are unobservable, with only existing observable. The user also distinguishes even still possibling from odd existing, and permits still possibling to remain while geodesic changing travels through it.
+
+A candidate joining those suggestions to the present passage is:
+
+> During jittering, the surrounding couplings are parity changing at existing. The new tunneling is still possibling. Their further across-and-along co-chaining is followed into next existing as new tunneling. The old tunneling's surface has its own further restoring or not restoring.
+
+This is our proposed connection for bothbothing, not an additional user statement or an established observing. Existing local changings and a still-possibling wider tunneling need not be made the same subject. Nor does the saying make still possibling itself visible, turn each local changing into a new tunnel, or name a set of already existing alternative tunnels awaiting selection.
+
+It also keeps the user's distinction between backing up and a fixed unchanged carrying. The surrounding selves continue resolving; no queued parity store or replay mechanism is supplied.
+
+### Keeping the whole four-cycling with that connection
+
+ONE's four momentaries of exchanging follow self/other, self/other to other/self, other/self, and other/self to other/social. They locate the local coupling's continuation into the societal relation within the full stable form.
+
+Keep 1–9 as one 4-cycling and 1–17 as its whole self-and-society expression. These relations are not four imposed stages of jittering. Neither one ordinary four-cycling nor one named position is automatically the establishing of a new tunnel.
+
+Naming 5.45's podaling over a tunnel and TWO's wider surrounding passage are the relevant continuation: out and back, across and along, into further society. A tunnel names that coupled passage, beyond an isolated changing at one resolver.
+
+### One concern now at the local-to-society relation
+
+**What across-and-along co-chaining makes the new tunneling existing, while the preceding jittering is already existing changing at the surrounding couplings?**
+
+This is the remaining connection between the local and wider subjects. It does not ask to observe still possibling or to predict a future tunnel. It asks which existing coupled relation is the new tunneling as it resolves.
+
+Follow the actual meeting that continues into the further passage, with the other meetings before, around and beyond the hole. Keep both forward directions with their own momentaryings. The old surface need not regain its former shape for this relation to exist.
+
+This moves section 72's question to a more particular place: the source provides local across-into-along continuation; the wider new tunnel needs that whole co-chaining. The candidate existing/still-possibling wording makes the subjects explicit without declaring the passage resolved.
+
+### Value for the living files
+
+THIRTY can keep three related concerns together: a local coupling restoring; a society continuing through new tunneling; and the old surface's possible restoring over many momentaryings. None should silently substitute for another.
+
+TWO already supplies the local and surrounding relations for that gathering. ONE keeps their whole four-cycling available, and Naming carries the podaling connection. The proposed existing/still-possibling distinction aims toward THIRTY's fractal inward/outward carrying and the Natural Intelligence explaining of discovering next existing.
+
+Natural Medicine's earlier backing-up and waver language is a further receiving context, but its clinical comparisons do not supply this missing co-chaining. The present pass establishes no medical outcome.
+
+### Progress and onward aiming
+
+No new A or Q return was present at the current PR 128 check. A's latest confirmed gathering remains through sections 68–69; sections 70–72 are already offered in this same accumulating report.
+
+The new value is a located source gap and a candidate connection: local existing jittering with new societal tunneling still possibling. Next follow the whole passage into new tunneling existing, then join its relation to the old surface and wider podaling. No resolver execution is requested, and R10 remains whole and unresolved.
+
+Direct comparison: TWO's reciprocal across/along explaining, 4.7 and surrounding-passage study; ONE's four momentaries of exchanging and whole stable forms; Naming 5.45; this report's existing/still-possibling suggestions and sections 67–72.
