@@ -10,9 +10,11 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work narrows the unchanged-relation claim, section 99.** If exactly one of two compared binary parities changes, their alike/opposite relation changes. An unchanged comparison therefore cannot describe every separate parity-changing entry. Section 99 supplies a concrete replacement candidate for Natural Intelligence 4.13 beside v383Op's recorded comparison and follows its reach toward society.
+**The current work follows friendship through changing selves, section 100.** The user's lifetime-friendship and man-and-river examples distinguish a continuing relation from unchanged selves or an unchanged encounter. Each friend carries from prior through now and next, resolving; an infrequent next meeting is a next coupling. A recurring parity comparison and a continuing social relation remain different subjects.
 
-**The path and progress.** The current social droplet follows carrying resolving, releasing into next momentarying, and each self's existing possibling other. The stronger fixed-relation sentence is now marked for narrowing, with its supporting reason explicit. A's gathering of sections 97–98 is confirmed at 30038dc8352773a509865781b0d03a5411718a06. A also returned Natural Biology 7.4: its society/member distinction is useful, while its equation of decay with releasing needs the current correcting. Next follow the society's actual co-chaining through changed couplings, retaining the particular society-ceasing concern. R10 remains unresolved; no root exhibit is changed by this pass.
+**The path and progress.** Sections 97–99 distinguish releasing from stopping and narrow the unchanged-pair claim at Natural Intelligence 4.13. Section 100 follows the user's examples into the society concern: ordinary uncoupling and infrequent direct encounters do not alone establish that a social relation has ceased. Next carry this positive explaining beside THIRTY's self/society passages, Natural Intelligence 6.2–6.4 and Biology 7.4. A's gathering through sections 97–98 remains confirmed; sections 99–100 are further offerings. R10 remains unresolved.
+
+**Q source status, corrected at section 100.** Q's comments on PR 128, including the expedition-assessment comment, now say they are withdrawn. The current branch/path read returned Not Found. Earlier Q passages in this report record the material read at their named snapshots; they are not represented as Q's current position. Our independent reading of v383Op's retained instrument and recorded result, and the binary reasoning in sections 98–99, keep their stated scope. Withdrawal supplies no new observing either way.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -5394,4 +5396,58 @@ The unchanged-parity comparison is now narrowed at the logical relation and give
 
 The remaining society concern is the one already gathered: follow how the particular inward co-chaining continues through changed couplings, and where the source claims that particular co-chaining ceases. Neither unchanged membership, an unchanged surface shape, nor a fixed alike/opposite comparison supplies that explaining.
 
+**The user's section-100 examples now give a particular continuing relation to follow.** Lifetime friendship through infrequent encounters and the changed man meeting the changed river show the intended distinction between continuing through changing and repeating an encounter unchanged. Follow that positive explaining; do not require renewed direct encounters at every momentary or infer social ceasing from their spacing.
+
 Next bring this correction beside THIRTY 183–189 and 405–406, Natural Intelligence 6.2–6.4 and Biology 7.4, using their actual self/society relations. ONE's code and table scope accompany the correction; no execution, biological validation or root-file rewrite accompanies this pass. R10 remains gathered and unresolved.
+
+## 100. Friendship continuing through changing selves
+
+### The user's offering, whole
+
+> If both later change, the relation can recur without having stayed unchanged throughout. this is a lifetime friendship between friends who see each other infrequently. this is the man in the river the second time is not the same as the man or the river the first time
+
+The first sentence recalls our section-99 comparison. The user now supplies two ordinary examples through which to follow the continuing relation. They are retained as examples, not converted into an assertion that friendship or a river consists of the instrument's two compared values.
+
+### Carrying through the next encounter
+
+The friendship example gives a positive following of the social relation. Each friend is carrying from prior through now and next, resolving, including between their direct encounters. On meeting again, each is now existing and possibling other through a next coupling.
+
+Candidate natural explaining:
+
+**The friends are each carrying from prior through now and next, resolving. Their friendship continues through their changing. Their next meeting is a next coupling: each now existing is possibling other. Releasing is uncoupling and next momentarying self.**
+
+The offering does not ask that the prior encounter, either friend, or the carrying remain untouched until they meet again. It also does not say that each friend has no other couplings between these encounters. The particular direct encounters and the friends' continuing resolving are different relations to keep explicit.
+
+At the river, the next encounter is between a changed man and a changed river. This example carries no classification here of the river as living or non-living. Its value for this droplet is that a named next encounter does not reinstate an earlier occurrence unchanged.
+
+### Recurring parity and continuing relation
+
+Natural Intelligence 2.4 already distinguishes a pair of parities occurring again from the same occurrence. Natural Naming 2.7 likewise places a pair recurring at a next momentary. These passages supply a nearby written connection; their additional claims are not established merely by the examples.
+
+Three subjects remain distinct:
+
+- A parity comparison can be alike or opposite again.
+- Selves can continue through changing.
+- A social relation can continue through those changing selves.
+
+The recurring comparison does not, by itself, establish the social continuity. Equally, the friendship example does not require its continuity to be an unchanged pair comparison. The section-99 narrowing of Natural Intelligence 4.13 therefore stays intact.
+
+The lasting friendship also does not by its duration alone establish the user's unchanging social competency named equilibrium. The relevant subject is the resolving through the changing encounters, not merely how long the friendship is named.
+
+### The society question corrected at its source
+
+THIRTY 405–406 and Biology 7.4 need ordinary releasing and the particular society's ceasing explained at their respective relations. The new example makes one mistaken shortcut clearer: infrequent renewed direct encounters do not alone establish that the friendship has ceased.
+
+The correcting now aimed beside those passages is:
+
+**Follow the selves carrying and resolving through their couplings. At a next encounter, each is now existing and possibling other. Ordinary uncoupling continues as next momentarying self. A particular social relation's ceasing needs its own explaining; it is not supplied by the friends meeting infrequently.**
+
+This is our proposed connection from the user's example. It supplies no minimum meeting frequency, no shared clock and no unchanged carrying. The definition of living at R10 stays gathered and unresolved.
+
+### Source status and progress
+
+The latest PR 128 read shows Q's earlier comments, including the assessment comment, replaced with withdrawal notices. A request for its current report at the previously used branch/path returned Not Found. The read establishes those statuses, not the reason for the withdrawal or the present location of any report. The report front now marks the earlier Q material as historical. Our own source readings and bounded binary reasoning remain reasoned at their actual subjects; withdrawal is neither a verification nor a refutation.
+
+A's confirmed gathering remains sections 97–98 at 30038dc8352773a509865781b0d03a5411718a06. This section and section 99 continue the same accumulating v385R offering.
+
+The next writing follows this positive continuity through changing into the society's inward/outward co-chaining and the paired approximate competency/morality discoverings. The examples improve the explaining; they do not supply an independent universal proof. No root exhibit or resolver changes in this pass.
