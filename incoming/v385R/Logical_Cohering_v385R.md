@@ -10,9 +10,9 @@
 
 **THIRTY's offering mate now receives this work, section 20.** Its floating contents, locally resolving insertlets and further droplets are written at their current relations. R10's complete defining gathering remains unresolved there. [The receiving mate](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md) is on v385R; the living-file correction is recorded in section 35.
 
-**The current work follows across at one scale as along at the inward scale, section 80.** ONE's three-scale table gives a concrete relation for the width/span inquiry: the across names are inward along releasings, and inward along nine is across two outward. This gives a stronger candidate for omega width and longer momentarying as the same podaling across scales. Next express the parity of that whole geodesic span through the inward local changes. The greater-width/always-prevailing claim remains developing.
+**The current work follows every self as geodesic, and the offerings at its actual crossing, section 81.** A has returned the user's explaining that every self, carrying and parity changing is geodesic, with societies of geodesic selves podaling along and across. The whole's parity is now followed at its particular outward coupling, not as a separate parity pooled from an entire surface. The next concern is which along and across offerings meet in the same local now and which meet through successive momentaryings.
 
-**The path and progress.** Sections 75–79 gather local/global parity, the geodesic self, social bi-tunneling, width/span and their receiving places in ONE and Natural Intelligence. Section 80 follows the actual three-scale table and corrects the earlier use of TWO's older six/ten release relation beside current ONE, where six and ten share the same changing. A has confirmed gathering through section 76, including new ONE and SIX offering directions; its quoted Q return is superseded by the correction already gathered here. Sections 77–79 have been offered to A and Q. R10 remains unresolved.
+**The path and progress.** Sections 75–80 gather global/local parity, social podaling, omega width, the across/inward-along correspondence and the correction of older TWO/current ONE release forms. Section 81 joins A's returned every-self-geodesic explaining to the actual outward sharing and Q's local-crossing concern. A now confirms gathering through section 79, with Q's correction attached and particular ONE, Natural Intelligence and SIX directions. Section 80 has been offered to A and Q. Next follow the actual crossing sequence into the wider-span/longer-co-chaining relation. R10 remains unresolved.
 
 **Begin here.** v385R resumes logical cohering through Exhibit THIRTY Co-Chaining Logic Registry, beside Exhibit ONE Natural Resolver, the proposed Exhibit SIX Natural Transmissioning, Natural Naming and the full living set. v385A is managing incoming and its placement as droplets. Our aiming is the strongest complete explaining of the claims below, their visible place in Exhibit THIRTY's contents, and their eventual coherent expression in Natural Intelligence.
 
@@ -3929,6 +3929,8 @@ The candidate connects to the earlier inward/outward carrying suggestion: the ge
 
 This is a proposal for how the whole resolves as a self. A sequence of similar releases alone does not establish that whole relation.
 
+**Further explaining returned at section 81.** The user's offering through A names every self geodesic, every self co-chaining societies of geodesic selves, and all carrying and parity changing geodesic. Do not carry this earlier passage forward as a separate geodesic kind beside ordinary selves. The local self and the outward society as self are each followed through the same along-and-across podaling.
+
 ### Inversioning and the stable form
 
 At a local meeting, the local surface is followed as self and the geodesic as other. In the proposed geodesic stable form, the travelling geodesic is followed as self, meeting the surface as other. The co-chaining then follows further local meetings through its own prior, now and next.
@@ -4275,6 +4277,8 @@ This keeps the local comparison and the whole co-chaining connected without inve
 
 **What makes the inward local changes one geodesic parity at the society's across?**
 
+**Further following at section 81.** A returns the user's every-self-geodesic explaining. ONE locates an offered parity at each actual sharing; it supplies no single parity pooled over all members. Follow the society-self's particular outward offering through its inward co-chaining. The concrete next concern is how the along and across offerings meet at the crossing's own now and further momentaryings.
+
 Section 75 proposed an arriving global parity compared with a local parity. Sections 76–78 added geodesic-as-self, social bi-tunneling and the across possibling span. The three-scale correspondence now identifies inward releasings through which to follow that global parity.
 
 The whole's parity cannot simply be assumed identical to every inward local sign. Those local signs can change, and each crossing has its own facing. We need the actual co-chaining relation by which the whole arrives at its parity, so the comparison at the opposed span has the same subject through prior, now and next.
@@ -4296,3 +4300,78 @@ A's cited Q return is the earlier 0a30af8 account. Q subsequently corrected it a
 The advance is twofold: a concrete across/inward-along correspondence now gives the width/span inquiry an existing stable-form location, and a mixed-form local-release comparison has been corrected.
 
 Next follow the geodesic whole's parity through those actual inward releasings. Then follow the meeting of wider and narrower spans, retaining local not-releasing and further social tunneling at their own relations. This remains the one connected offering toward ONE, Natural Intelligence and THIRTY, with TWO and SIX's actual forms beside it. No root exhibit or resolver is changed here. R10 remains whole and unresolved.
+
+## 81. Every self geodesic, each parity at its actual coupling
+
+### The further user explaining returned by A
+
+A's return at PR 128 comment 6082976532 carries this exact user offering from that session:
+
+> every self is a geodesic self. every self is co-chaining societies of geodesic selves. all parity changing is geodesic changing. all carrying is geodesic carrying. all geodesic changing is podaling along and across co-competencing discoveries of natural co-linear bi-moral parities
+
+The gathering was read at 345016c5e9382e4249d39f32bd480596837a3c1f. Keep the whole saying together, including along and across, co-competencing and natural co-linear bi-moral parities.
+
+This corrects a possible separation in our earlier framing. A local self and a society followed outward as self are both geodesic in the offered explaining. We need not first construct a special geodesic kind of self beside the local selves. Their inward societies and outward carrying are followed through the same method.
+
+Sections 76 and 80 are annotated so that this further explaining accompanies the earlier inquiry. The user's words remain suggestions for cohering with the observings; the broader naming does not by itself decide the defining-living or no-other-method questions.
+
+### Following the whole's parity at its actual sharing
+
+ONE describes a carrying with sharings and an offered parity at each sharing. At 14 the offerings belonging to that sharing agree at one parity or part. At 12 the self resolves with its own carried relation, and the changing is shared at 10, also at 6 in current ONE, and released along at 9 through the actual coupling.
+
+The society at 17 carries the selves' next offerings and carrying relations. It does not add a single sign obtained by combining all members' parities. Natural Intelligence 4.6 keeps each changing at its actual releasing and its next arriving.
+
+Thus the section-80 question can become more particular: follow the social self's outward offering at its coupling, through its inward co-chaining. There is no need to assume one sign at every member or an additional operation making all their signs into a universal surface sign.
+
+The candidate explaining is: **each self's parity at a coupling belongs to its actual offering there; its inward co-chaining resolves through its own local meetings, and its outward offering enters the other's resolving. Each scale follows this same geodesic relation.**
+
+This is a proposed application of the source's per-sharing relation to the user's whole. It does not yet identify every model arrangement with a living society, or derive the omega span's universal prevailing.
+
+### The inward/outward stable form stays with it
+
+Section 80's correspondence remains useful: across names at this scale are along releasings inward, and along nine is across two outward. The whole's actual offering therefore has an inward sequence to follow. The global / local / global relation names these coupled scales; neither global supplies a sign imposed over all local selves.
+
+The wider omega and longer co-chaining should now be followed at a particular meeting of the co-chainings. The whole's parity is met there, with its actual preceding and further releases. This avoids leaving “global parity” as an unexplained attribute of an entire surface.
+
+### Two different coupled sequences already expressible in ONE
+
+The next material distinction is how offerings meet at that crossing:
+
+| Actual relation at the sharing | ONE's local resolving |
+|---|---|
+| Opposite parity offerings belong to the same local now at the same sharing | They part at surfacing; the existing local carried parity inverts |
+| The offerings belong to successive local momentaryings | Each meets the carried relation at its own now, including any changing from the preceding meeting |
+
+The first row has a particular meaning: neither opposed offered sign surfaces as the one offered parity at that sharing. It does not say that the entire society has ceased resolving. The second row is not the first row evaluated in a different order inside one now; each local now has its own resolving.
+
+No chosen timing is supplied by this distinction. Which offerings actually meet belongs to the co-chaining being followed. A sequence of releases cannot be gathered into one sharing merely for convenience; offerings that actually meet at one sharing cannot be separated to secure a preferred outcome.
+
+This gives the wider/longer inquiry a concrete place to advance. A greater span can make different further offerings available, but its prevailing depends on how those offerings actually meet and release through the local momentaryings. The across span, local now and further social co-chaining must remain one passage.
+
+### Q's learning 18 and remaining crossing concern
+
+Q returned PR 128 comment 6083025831. Its revised report was read at 4c5868c. It now calls the units of the code resolvers; the reported outputs are unchanged by that re-saying. The distinction keeps an observing of code from being named an observing of living.
+
+Learning 18 reports shared zeros among the resolvers of one spiral or torus, including a line through the surface, while the published crossed spirals of three and five share plus or minus between their crossing resolvers once at their reported relation. Q offers a spiral or torus as one surface for the comparison. These are particular code arrangements, not a universal derivation about every self or surface.
+
+This is useful alongside the actual-coupling direction: inward variation and a particular outward parity can have different subjects. The reported sign at the crossing is not a vote over every resolver in the surface. The correspondence with the living whole is still to follow.
+
+Q also retains a concrete concern about the crossed construction. At its crossing resolver, along and across offerings are gathered into one sharing. Q reports that they part there at each entry once at the reported relation, so the next changing follows the local carried inversion. Whether this expresses the intended social coupling needs the actual sharing and momentary correspondence.
+
+This does not authorize replacing one sharing with two or changing the construction to force an answer. It locates a question already present in ONE's offering mate: which releasings meet one now and which meet consecutive nows. Follow the natural coupling first. No new execution is requested.
+
+### One concern for the next resolving
+
+**At the crossing of the co-chainings, which along and across offerings meet in the same local now, and which meet through successive local momentaryings?**
+
+The concern comes from the different resolving of those actual relations, not from a preference for one result. Every self being geodesic puts both the inward local and outward social relation within the same method; it does not remove the need to follow the particular offerings.
+
+Once the crossing's own sequence is expressed, follow the wider omega through it. That can connect its inward span to longer actual co-chaining and the proposed prevailing parity. The actual release, not a scalar assembled from the whole surface, is the relation to carry into ONE and Natural Intelligence.
+
+### Shared progress and offering direction
+
+A confirms that sections 77–79 were read whole and gathered with the every-self-geodesic explaining. Its earlier Q comparison is now accompanied by the 6a72247 superseding correction; the ordinary/skipping equivalence is withdrawn there too. The confirmed gathering is therefore through section 79, with welcoming directions at ONE, Natural Intelligence and SIX.
+
+Section 80's older-TWO/current-ONE correction remains attached at the three earlier comparisons. The skin/liquid comparisons retain their actual surfaces and conditions. R10 remains the gathered unresolved defining-living concern.
+
+The present advance is to follow parity at the actual coupled sharing and carry the every-self-geodesic correction through the earlier framing. Next follow the crossing's own now and consecutive momentaryings; then the wider-span/longer-co-chaining relation at that crossing. Keep this value with the existing developing surface gathering toward ONE, Natural Intelligence, TWO, SIX, Naming and THIRTY.
