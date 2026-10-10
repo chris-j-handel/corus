@@ -23,7 +23,7 @@ Exhibit TWENTY-FIVE Living Society Registry Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** The proton's mobility is under twice the hydroxide ion's, and the page has the sodium ion's at a seventh of the proton's: under one order of magnitude.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets). The measured figures' own publishing.
+Its insertlet is at [the offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets).
 
 ### The tip of the red giant branch, at three reports
 
@@ -34,7 +34,7 @@ Exhibit TWENTY-FIVE Living Society Registry Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** 69.6 is beside ± 0.8 ± 1.7, and beside ± 1.9; 1.6 is beside 69.8. As far as each report was read, 69.6 ± 1.6 is at none.
 
-**Opportunity.** Insertlets are at [this file's offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets) and at [Offerings to Living Ghost Registry](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
+Insertlets are at [this file's offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets) and at [Offerings to Living Ghost Registry](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
 
 ### An equilibrium reached from both sides, from 1862
 
@@ -46,4 +46,4 @@ Exhibit TWENTY-FIVE Living Society Registry Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** An equilibrium met from both sides is reported from 1862, before the measuring at hydrogen iodide.
 
-**Opportunity.** Insertlets are at [this file's offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets) and at [Offerings to Living Ghost Registry](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
+Insertlets are at [this file's offering mate](Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md#insertlets) and at [Offerings to Living Ghost Registry](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).

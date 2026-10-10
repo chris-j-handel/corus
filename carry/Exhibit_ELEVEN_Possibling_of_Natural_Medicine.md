@@ -1,4 +1,4 @@
-Natural Medicine Possibling · v385A
+Natural Medicine Possibling · v386EOD
 
 # Possibling of Natural Medicine
 
@@ -19,3 +19,10 @@ Gather Natural Medicine's distinct contribution beside Natural Health before fol
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
 
 [The clean cut and the tell at Resolving Hard Problems](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#the-clean-cut-and-the-tell-at-resolving-hard-problems--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Medicine, *The serous membranes, one coupling at one prime. Five locations wrap one coupling*: Resolving at the paragraph's naming, and an observing of the layer at the synovium and at the meninges.
+- At the droplet aimed at a sentence, Natural Medicine, *Every one of those is the cell doing with its own machinery what it does with every sequence it carries*: Resolving at the sentence, and the observing's own report of the integrating.

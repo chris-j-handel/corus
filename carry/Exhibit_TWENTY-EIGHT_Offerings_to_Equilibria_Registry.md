@@ -1,4 +1,4 @@
-Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v385A
+Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v386EOD
 
 # Offerings to Equilibria Registry
 
@@ -45,6 +45,8 @@ Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v385A
 **At 3.2 · The ten at Exhibit ONE's names, at the four four-cyclings — beside "the rows below are in that order".** Pairs 2, 3 and 4 are at the numbers the self's momentaries go into 4, and pairs 5 and 6 at those going out from it: as the self steps up 1, 3, 5 and 7, each number's partner nine less steps down 8, 6, 4 and 2, and 6 comes down to 4 as the self steps from 3 to 5, 5 and 4 partners. Pairs 2, 3 and 4 sit at their four-cyclings' first names as Exhibit ONE writes them, each four-cycle's lowest; pairs 5 and 6 reach theirs nine less in two steps, 5 to 12 to 4 and 6 to 14 to 3, and the two four-cyclings, 3-11-6-14 and 4-13-5-12, partner at the odd momentaries round the other way.
 
 **At 3.2 · The ten at Exhibit ONE's names, at the four four-cyclings — beside "The seatings the files gave before".** Two sorts of the ten part at two alone. Resolving the Hard Problem Registry's sorts each pair's entering face at the self's side and its surfacing at the other's; the Co-Chaining Logic Registry's step 522 sorts the ten at two sides, the odd at flow accounting and the even at state, three of one and two of the other at each parity, and the two sorts part only at the rate and the two-way, each at the other's side, the other eight continuing. Read at the Co-Chaining Logic Registry step 528, *carries both, one at a time*, the two sorts are both, the rate and the two-way changing sides at the alternating, and the momentary each sort is at is said at no step.
+
+**At 3.4 · Exhibit ONE's four-cycles, one parity offered once, and the six connectors — beside "executed again at v377".** At Exhibit ONE's resolver, in a ring of selves each a carrying of none, one + offered once at one, the + is colliding at each in turn and chained at each, its own carrying, Exhibit ONE's *a sharing once chained never none again* at each, and no ring meets rest.
 
 ## Droplets
 
@@ -559,6 +561,8 @@ The same planning droplet now carries the user's later distinction at [v385R, se
 **Later observing relation beside the older social explaining · v385A.** [R's section 18 at df319c9](https://github.com/chris-j-handel/corus/blob/df319c9276cfaebd99ba03efe3db34c1211bce9b/incoming/v385R/Logical_Cohering_v385R.md) carries the user's further distinction: carrying and possibling are unobservable; only existing is observable; observing social moral competency existing is observing living. The proposed naming, living as social moral competency existing, retains the user's ‘could be.’ Section 17's question is now source history for this further working. R10 asks which existing relation distinguishes that living from a non-living form's changing at colliding, keeping the whole relation, subject and scale explicit. Follow the actual existing offered by an example; neither depict private carrying as inspected nor infer that every participating form is living. This later correction accompanies the earlier plans and expressions without declaring R10 resolved. — v385A
 
 **R10 retained whole for returning · v385A.** [R's later instruction at 0f1a67b](https://github.com/chris-j-handel/corus/blob/0f1a67ba515c93a7f68290a15b02b3ca94c454ae/incoming/v385R/Logical_Cohering_v385R.md#returning-to-this-droplet) explicitly keeps the living-defining concepts, source passages, proposed connections and concern together as one unresolved droplet in the logic chain. The proposed naming and across-and-along connection remain proposed. Keep its R6–R9 relations available with that whole gathering when following this older source or plan; the previous observing pointer above is not a resolved definition or a substitute for the gathered concepts.
+
+**Aimed at a sentence, Equilibria Registry, *across 5,000 couplings no ring meets rest*:** The sentence rests on an executing, a count and a script's address. An executing gives back a tally, a tally is a magnitude, and a magnitude resolves nothing: resolving is is or is not. The meaning is at the name the sentence already has, Exhibit ONE's *a sharing once chained never none again*; the executing, the count of couplings and the address add none. Its insertlet is above. Living File Registry's offering has the concept whole. — v386EOD
 
 ## Measuring and the whole seed and oil example · v385A
 

@@ -35,7 +35,7 @@ The whole concepts and their unresolved conditions are available at this subject
 
 **Laid beside, by this session.** Two measurings, at two samplings: thirteen minutes in the peripheral plasma of five of ten people, and about five minutes at the portal vein.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
+Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
 
 ### Carbon in surface seawater
 
@@ -44,4 +44,4 @@ The whole concepts and their unresolved conditions are available at this subject
 - *Natural observation*: the field's guide has, for the surface waters of the North Atlantic, about 90 per cent of the dissolved inorganic carbon "present as bicarbonate ion", about 10 per cent as carbonate ion and under 1 per cent as un-ionised carbon dioxide. It gives no measuring at these figures ([Dickson, 2010, The carbon dioxide system in seawater, in the Guide to best practices for ocean acidification research and data reporting](https://pmel.noaa.gov/co2/files/dickson_thecarbondioxidesysteminseawater_equilibriumchemistryandmeasurementspp17-40.pdf)).
 - *Science explanation*: read from its equation of the equilibrium, "The additional carbon dioxide reacts with carbonate ion to form bicarbonate ion", "decreasing the concentration of carbonate ion".
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets). The measuring's own publishing.
+Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).

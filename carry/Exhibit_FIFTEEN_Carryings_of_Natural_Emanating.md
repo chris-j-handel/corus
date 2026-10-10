@@ -31,4 +31,4 @@ Exhibit FIFTEEN Natural Emanating Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** In the field's explaining a potential's value at one place is free, and its circulation round a closed path is the thing the shifted pattern follows.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md#insertlets). The experiment's own report: the lecture names none.
+Its insertlet is at [the offering mate](Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md#insertlets).

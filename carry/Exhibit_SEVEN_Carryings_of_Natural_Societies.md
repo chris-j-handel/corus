@@ -51,8 +51,6 @@ These are the v381R reports of the earlier file wording and v380R dissolving nam
 
 **Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, named a hypothetical scheme at its own figure, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
 
-**Opportunity.** Resolving at the row, and an observing of a free-living self arriving as a member, with its doing.
-
 ### Cilia with the central pair absent
 
 **The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
@@ -62,5 +60,3 @@ These are the v381R reports of the earlier file wording and v380R dissolving nam
 - *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
 
 **Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
-
-**Opportunity.** Resolving at the sentence, the alga beside it.

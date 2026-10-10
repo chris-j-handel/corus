@@ -1,4 +1,4 @@
-Natural Human Society Possibling · v385A
+Natural Human Society Possibling · v386EOD
 
 # Possibling of Natural Human Society
 
@@ -21,3 +21,9 @@ Natural Human Society Possibling · v385A
 [Still-point passages at Equilibria Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#still-point-passages-at-equilibria-registry--v385a).
 
 [Earlier Natural Intelligence Corus Part Fourteen distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-part-fourteen-distribution--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a section, Natural Human Society, Class-action resolving, the social scale where every claimant signs and rises: Resolving at the section, at which existing form is meant.

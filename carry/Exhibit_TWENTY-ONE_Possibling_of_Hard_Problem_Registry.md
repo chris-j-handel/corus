@@ -1,4 +1,4 @@
-Hard Problem Registry Possibling · v385A
+Hard Problem Registry Possibling · v386EOD
 
 # Possibling of Hard Problem Registry
 
@@ -9,3 +9,9 @@ The possible compact index keeps each field statement, conserving relation and r
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at an entry, Hard Problem Registry, Free will and determinism, at its Accounts: The third family's account at the entry, in the field's own words.

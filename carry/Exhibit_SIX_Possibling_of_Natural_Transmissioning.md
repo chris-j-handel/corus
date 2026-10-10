@@ -1,4 +1,4 @@
-Natural Transmissioning Possibling · v385A
+Natural Transmissioning Possibling · v386EOD
 
 # Possibling of Natural Transmissioning
 
@@ -12,3 +12,10 @@ Gather the earlier distribution proposals beside session v384A's connected expla
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
 
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Transmissioning, *the field reads it as momentum exchange, not a force*: Resolving at the sentence, which says what the field reads.
+- At the droplet aimed at a sentence, Natural Transmissioning, *no self touches another directly; every coupling crosses a membrane that is itself a self*: Resolving at Natural Biology's sentence, this rendering beside it.

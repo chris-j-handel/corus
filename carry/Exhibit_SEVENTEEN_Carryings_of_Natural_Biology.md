@@ -71,16 +71,12 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The file meets the gap junction already, as "the gap-junction protein structure". At the plasmodesma the micrograph has one plasma membrane lining the pore from cell to cell, and no membrane between the two cytoplasms.
 
-**Opportunity.** Resolving at the sentence: what is between two plant cells at a plasmodesma. The concern at the placenta in [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#droplets) is at the same saying.
-
 ### Respiration's heat
 
 **The file's sentences**, at Living is metabolic beating — the cell as the engine: "the surplus returned as coupling and not lost" and "not lost as heat". At Photosynthesis and respiration — the six offering the six: "the surplus kept as coupling turn to turn, carrying, and not falling out as heat".
 
 - *Natural observation*: a living body is warm. The field's textbook has "nearly half of the energy that could in theory be derived from the oxidation of glucose or fatty acids" captured in the making of ATP, and "The rest of the energy is released by the cell as heat, making our bodies warm." It names no measuring at this statement ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at How Cells Obtain Energy from Food](https://www.ncbi.nlm.nih.gov/books/NBK26882/)).
 - *Science explanation*: oxidation in steps, "so that much of it can be stored in activated carrier molecules rather than all of it being released as heat".
-
-**Opportunity.** Resolving at the two sentences, and the measuring's own publishing: the textbook names none.
 
 ### Supercoils ahead of a transcribing polymerase and behind it
 
@@ -91,7 +87,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The file's own paragraph has the left form under negative supercoiling and forming behind the polymerase, and the model has the negative supercoils behind. Reading negative as under-wound, the field's usual naming, which this abstract does not spell out, the sentence has the two windings the other way round.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). An observing of the supercoils at a transcribing polymerase itself: this publishing is a model.
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Collagen's three chains joined before its release
 
@@ -102,7 +98,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The textbook has the triples formed inside the cell, procollagen the name of the triple. The sentence has the triples assembling after the release.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). The observing's own report for the order of the steps.
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### The gut's inner surface measured
 
@@ -111,7 +107,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 - *Natural observation*: by measuring under the light and the electron microscope on biopsies "from healthy adult volunteers or patients with endoscopically normal mucosae", with lengths from the literature of intubation and radiology, the mean total inner surface of the digestive tract comes to about 32 square metres, about 2 of them the large intestine. The abstract has "a considerable variation between individuals" and prints no uncertainty ([Helander and Fändriks, 2014, Scandinavian Journal of Gastroenterology 49, 681](https://doi.org/10.3109/00365521.2014.898326), read at its abstract).
 - *Science explanation*: "According to textbooks, the human gut mucosa measures 260-300" square metres, "in the order of a tennis court"; the report's own, "rather is that of half a badminton court".
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Copying errors at three steps
 
@@ -122,8 +118,6 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** At this publishing the three steps run from one error in a hundred thousand to one in a billion. The sentence's two figures are each a hundred times smaller.
 
-**Opportunity.** The measuring's own publishing: this table names none, and no other publishing was read.
-
 ### A sperm's mitochondria inside the egg
 
 **The file's sentence**, at Conception — two selves conceiving a third: "the sperm a stripped fast co-offering with its own mitochondria shed".
@@ -133,7 +127,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The sperm's mitochondria are seen inside the fertilized egg. The sentence has them shed.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). The report's body, for the doing and for what is seen of the mitochondria later.
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Tracheae and gut through a chrysalis, and an aversion carried into the moth
 
@@ -145,7 +139,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** A measuring follows the tracheae and the gut through the pupal days, and a learned aversion is carried from the fifth larval stage into the moth. The sentence has a suspension no measurement distinguishes. These scans do not resolve muscle or nerve.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Resolving at the sentence, and an observing at muscle.
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### An aphid making carotenoids
 
@@ -156,7 +150,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** An animal is reported making carotenoids, with enzymes its own genome carries. In the field's explaining the making itself arrived from another self, a fungus.
 
-**Opportunity.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). The report's body, for the doing.
+Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Displaced monarchs fly on at one heading
 
@@ -166,8 +160,6 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 - *Science explanation*: "monarchs use a simple vector-navigation strategy", "a specific compass bearing without compensating for displacement"; its title has them "not true navigators"; "geographic barriers that guide individuals toward overwintering sites" is its account of their arriving.
 
 **Laid beside, by this session.** The displaced monarchs flew on at the heading they had, and from the new place that heading does not lead to the wintering grounds. This is the primary source the droplet of session v383Op at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#droplets) asks for.
-
-**Opportunity.** Resolving at the two sentences.
 
 ### Correlation across a starling flock, and a turn travelling through it
 
@@ -179,4 +171,4 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The correlation is measured decaying with distance, in flocks under ninety metres across, and its reach grows with the flock. A turn is measured travelling from birds close to each other at a speed, a little more than half a second across four hundred birds. The sentences have a correlation not decaying across a kilometre, and a change across the whole flock in under a fifth of a second.
 
-**Opportunity.** Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Resolving at "That the correlation does not decay with distance".
+Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).

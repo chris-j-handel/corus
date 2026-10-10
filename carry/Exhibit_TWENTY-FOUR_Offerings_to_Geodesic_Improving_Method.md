@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v385A
+Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v386EOD
 
 # Offerings to Geodesic Improving Method
 
@@ -263,6 +263,8 @@ The files that release words use them at the same version: Natural Naming 2.4 re
 **Aimed at a file, Geodesic Improving Method:** The practice that would settle each joining with no deriving: before a joining enters, say how many numbers were open to be matched and how many forms were allowed. A match that survives that count is worth a sentence. The README's sentence, *A joining asks a deriving. Shared words, numbers or pictures are shared words, numbers or pictures*, and the Geodesic Improving Method 4.2's fellow, *A pattern taken off a count over the whole can match for as long as anyone looks and still break*, are the files' own cautions and the right ones, each saying a limit this report also arrives at. Source: Corrections.md, Joinings with no deriving; README.md, What held. — v383Op
 
 **Aimed at the set:** The files' own cautions are often the right ones. The Geodesic Improving Method 4.2 on a pattern taken off a count, Natural Medicine's last page, and the universal claim's own list of *Said and not yet worked* each say a limit this report also arrives at. Source: README.md, What held. — v383Op
+
+**Correcting, beside the droplet above.** No warning is begun inside intelligence. Natural Explaining has the reason at Care inward, and no wrapper: "A mark or a protection at one place blesses each other place". A limit of a claim is its scope, said at the claim's own sentence; a caution apart from its sentence is no value and is released. — v386EOD
 
 Exploring and Improving Method combined: selves discovering and improving together. EIGHT Parts Two to Five, about 60%, restate the general method, and only 1.1, 4.6 and Parts Six and Seven are team discovering. Proposed contents: *Discovering together*; *Offering and meeting*, with 3.6 concept-inverting, found at no other file; *Deciding at do-no-harm*; *Carrying incoming value*; *Improving one file*; *What instruments report*; *Values, and the expedition continuing*. EIGHT Parts Two to Four go to Natural Intelligence, Exhibit ONE and Natural Naming; Part Five to Natural Mathematics and the two registries of forms named still; 7.2 and Improving Method 2.9, 3.1 and the repository and version practice to the Living File Registry. The title's *Method* invites the general method back; the body stands at *team*, the between of selves. The agreed subtitle is written *Do-No_Harm* at the registry's 5.13 and at the carrying. (Re-Settling the Living Files, §7) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
 

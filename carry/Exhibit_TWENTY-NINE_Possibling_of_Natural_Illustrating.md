@@ -1,4 +1,4 @@
-Natural Illustrating Possibling · v385A
+Natural Illustrating Possibling · v386EOD
 
 # Possibling of Natural Illustrating
 
@@ -47,3 +47,9 @@ Compare the eleven passages from the v380A reading with the existing living expl
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Natural Illustrating distribution and particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-illustrating-distribution-and-particular-destinations--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at three sentences, Natural Illustrating, *the belt emptied at the rational resonances and the irrational orbits carrying on*, *the trap that works is the Paul trap, trapping by alternating* and *a change rippling across the flock in less than a fifth of a second*: Each illustrating after its saying's resolving.

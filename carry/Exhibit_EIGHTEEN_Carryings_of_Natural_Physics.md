@@ -24,8 +24,6 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** Two kinds of process are measured at rates unequal to their reverses'. In the field's own table "Translation in time" and "Reversal of time" are two entries, the first paired with "energy is conserved" ([The Feynman Lectures on Physics, volume I, chapter 52, Symmetry in Physical Laws](https://www.feynmanlectures.caltech.edu/I_52.html)).
 
-**Opportunity.** Resolving at each of the two sentences.
-
 ### Gaps and gatherings in the asteroid belt
 
 **The files' sentences.** This file's offering mate has, as incoming from the prior Natural Numbers: "The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on". Natural Illustrating, at Cosmos: "the belt emptied at the rational resonances and the irrational orbits carrying on".
@@ -35,8 +33,6 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 **Laid beside, by this session.** At four resonances with Jupiter the belt is thin, and at two others asteroids gather.
 
-**Opportunity.** Resolving at the saying: the gathering at 3:2 and 1:1 beside the emptying.
-
 ### Two traps for ions
 
 **The files' sentences.** This file, at Ten rests sought, and alternating met at each: "the trap that works is the Paul trap, holding by alternating". Natural Illustrating, at Earth, matter and phases: "the trap that works is the Paul trap, trapping by alternating".
@@ -45,5 +41,3 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 - *Science explanation*: the Penning trap "confines particles by superimposing an electrostatic well along the direction of the field lines of a homogeneous magnetic field".
 
 **Laid beside, by this session.** A second trap works, with fields that do not alternate. The ion's own motion inside it was not read at this publishing.
-
-**Opportunity.** Resolving at the sentence, and the ion's motion in a Penning trap from its own report.

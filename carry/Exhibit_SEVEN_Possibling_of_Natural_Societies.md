@@ -1,4 +1,4 @@
-Natural Societies Possibling · v385A
+Natural Societies Possibling · v386EOD
 
 # Possibling of Natural Societies
 
@@ -19,3 +19,10 @@ The stated bounds, catalogue size and circulant threshold belong to that earlier
 [Earlier Natural Intelligence Corus Part Fourteen distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-part-fourteen-distribution--v385a).
 
 [Earlier Natural Philosophy arrangement and alignment distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-philosophy-arrangement-and-alignment-distribution--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [Mitochondria and plastids with genomes of their own](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own): Resolving at the row, and an observing of a free-living self arriving as a member, with its doing.
+- At [Cilia with the central pair absent](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent): Resolving at the sentence, the alga beside it.

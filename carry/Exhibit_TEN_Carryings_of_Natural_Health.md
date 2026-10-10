@@ -22,5 +22,3 @@ Exhibit TEN Natural Health Carryings · gathered at v386EOD
 - *Science explanation*: the theorem is "a general principle of equilibrium thermodynamics" that "assumes no physical properties of the system under investigation other than thermal equilibrium"; "Violation of this correspondence constitutes proof that the system is active"; the bundle's movements "are produced by energy-consuming elements within the hair cell".
 
 **Laid beside, by this session.** The theorem is the field's own for a system at equilibrium. At the hair bundle oscillating of itself the swaying and the answering are measured to part, and at the bundle with no oscillation of its own they are one. The sentence seats the living sway at the theorem.
-
-**Opportunity.** Resolving at the sentence, and at its "at proof grade".

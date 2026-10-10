@@ -1,4 +1,4 @@
-Resolving the Hard Problem Registry Possibling · v385A
+Resolving the Hard Problem Registry Possibling · v386EOD
 
 # Possibling of Resolving the Hard Problem Registry
 
@@ -19,3 +19,9 @@ Resolving the Hard Problem Registry Possibling · v385A
 [Earlier common-method and seventeen-name distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-common-method-and-seventeen-name-distribution--v385a).
 
 [Earlier ten-conception gathering and address arrangement](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-ten-conception-gathering-and-address-arrangement--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a section, Resolving the Hard Problem Registry, the Resolving locator, beside the insertlet at it: Resolving at this file's improving, each of the nine taking the same change the locator takes.

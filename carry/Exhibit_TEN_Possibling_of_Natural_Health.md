@@ -1,4 +1,4 @@
-Natural Health Possibling · v385A
+Natural Health Possibling · v386EOD
 
 # Possibling of Natural Health
 
@@ -11,3 +11,9 @@ Gather Natural Health's distinct contribution beside Natural Medicine before fol
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
 
 [Still-point passages at Equilibria Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#still-point-passages-at-equilibria-registry--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [A hair bundle's swaying beside its answering](Exhibit_TEN_Carryings_of_Natural_Health.md#a-hair-bundles-swaying-beside-its-answering): Resolving at the sentence, and at its "at proof grade".
