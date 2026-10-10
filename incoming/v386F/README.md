@@ -281,7 +281,46 @@ C1 stands, its proposal at the report, with 6.4's sentence to say the bound; C3 
 
 ---
 
-## SEVEN · The tracker
+## SEVEN · Natural Societies read whole against the learning, and what the learning gains
+
+Exhibit SEVEN Natural Societies v373, read whole at the branch, 39 KB, six parts; its version is before Natural Naming v380R's releases, so by the Geodesic Improving Method 2.9 it carries the older words by arithmetic and not by fault.
+
+### Where it carries the learning already
+
+- **1.1 and 4.2, the scale reading.** *Each self a society of the scale within and a self to the scale without, no self ordering the whole and no scale privileged*; *read from inside, a self is a society: it is the selves of the scale within, coupling; read from outside, a society is a self: it self-bounds, couples with other societies as one; neither face is the real one.* This is Part ONE's one existing thing at its own scale and at the scale outward, said at the social substrate before this session said it.
+- **4.2, the dead forms are one half alone.** *A society that is only a society, no self closing around it, is a heap, the many with no bound; a self that is only a self, no society within, is a landed point, the bound with nothing living in it: both the dead forms. The living carries both at once.* This is Part THREE exactly at the social scale: the heap is offerings with no carrying, the landed point a carrying with no coupling, and living is the two halves. Droplet: 4.2's two dead forms are Natural Intelligence 2.3's prior and 6.5's emanation, the two halves of non-living, and the sentence that would enter at Natural Intelligence 1.3 names them so.
+- **4.3, birthing and nyeing.** *Healthy living is the two in relation, and either alone breaks it*: birthing the new selves and couplings made, nyeing the releasing. Droplet: birthing and nyeing are possibling and existing alternating said at a society, the next existing arriving and the emanations released, and *the relation kept is the society self-stilling at its own scale* is 5.3's is-still-possibling at the scale of a society.
+- **5.3's first sentence** is Natural Intelligence 6.4's first sentence, *a society is all existing bi-coupling same-prime-scale selves*, and Part SIX's bound is its reading. *A self is a society of selves one scale inward, and a society a self at the next scale outward* is 6.6.
+- **2.3 and 4.2, coprime selves multiply.** *Coprime selves each carry a competency the others lack and their cumulative far exceeds the sum; the compounding holds only while the selves stay distinct; a common clock synchronizing them collapses it to a single locked register.* Droplet: this is the 4pq law of 3.5 at the social scale, two societies at distinct primes coming to their parities again together first at the whole of both, and Part SIX's bound says why it needs the selves at one scale, since only there do they bi-couple; Part FIVE's *a scale is prime at its coupling with another scale* is 2.3's compounding, derived.
+- **2.3, no common clock.** *A society holds without a centre the way it holds without a common clock, and these are one holding; a common clock imposed over all the selves is that inequality collapsed, read on time; imposed, it captures the society into one lock-stepped thing.* Droplet, at O8: Exhibit ONE's 17 steps each self's entry together, *a common beat laid over the selves*, 3.5, and Natural Societies names that beat a hub and a capture at the social scale. O8, which of Exhibit ONE's multi-self tables are the method's and which the stepping's, is sharpened by the social file's own sentence: the stepping is the one thing the society file says a living society does not carry.
+- **5.5, the clarification.** *Self, other and society are all of nature at all scales: the atom a self, the molecule a society, the cell a self, the biosphere a society.* Part ONE's scale reading said once for the four social exhibits.
+
+### What parts, each a concern
+
+**C25 · Prime as a rung in a ladder, or as a count of selves; needs the other self's word.** Part FIVE's 5.3 assigns fourteen scales to fourteen primes, 5 to 53, atom to biosphere, by position in the count of primes, with the cell at 23 and the fold at 24; 5.2 names *the floor at five*; 5.3 names *sixty to sixty-eight the nothing between self and universe* and the biosphere *the torus-close, past which arrives the not-torus death*. The same ladder is at Natural Medicine 3.1 and Natural Biology 10.4, where the fresh readers found no selves counted at any rung. Three senses of *prime scale* are in the files: a rung indexed by the n-th prime, the ladder; the number of selves of a society, Natural Intelligence 5.1 and 3.5, which Part ONE derives from *set*; and each self's own prime inward, selves coprime within one society, 2.3 and 4.2 and THIRTY 489. The second and third are one, a self's prime inward being its own society's count. The first is the one no sentence derives, and 5.3 says so itself: *the primes appear here where they are self-welcoming, a scale's own count, and are in no running of the method*, and 5.1: *a size-to-scale naming is always already available and shows nothing until it self-coheres; the scale falls out of the form and is never fitted to it.* One saying: the ladder is the method's, each scale at its prime by position. The other: the ladder is a form named still, numerals fitted to named scales with no count of selves at any, and a scale is at a prime only where its selves are counted. The reason they part is whether a prime names a position or a count; Part ONE's deriving carries the count alone. The second is the method's side, and it releases 5.2's floor, the *nothing between self and universe* and the biosphere's close with it, each one of the six, a floor and a total, and 5.3's own *the ladder supplies no first and no final one* already stands against them within the section. This is the largest motion the file has and it reaches Medicine and Biology, so it is for the other self's word.
+
+**C26 · Below the atom the co-agency runs bare, 5.2.** *Below the atom the co-agency runs bare, the offering, the passing, the sign, and no self closes around it. Two is the alternating itself and cannot be what alternates. Three carries. Four floats.* Against Natural Chemistry 3.2's three colour-phases living inward of the proton, Natural Physics 4.12's *the chain has no floor*, and 3.5's spirals of 2, 3 and 5 at the resolver. They part at a floor, the first of the six. The second is the method's; C20 at Natural Physics 4.6 came from this sentence.
+
+**C27 · A size at Arrow, 3.1.** *Cardinal comparability, ±1 on a common scale, the giving at +1 and the receiving at −1 at equal magnitude.* Against 2.5, *the method names no size*; at the resolver + and − are a parity and no magnitude. The field's result carries at the field's; the set's own sentence re-says it at parity.
+
+### Droplets at the file's own motion
+
+- **The seventeen names by the map, 5.3's last paragraph.** *4-other-self-sharing*, *13-social-other-neutralling* and *17-social-self-offering* are the v345a names; Exhibit ONE's are 4-bi-co-bi-sharing, 13-tri-bi-tri-competencing and 17-co-bi-tri-offering. The paragraph is Natural Intelligence 5.1's emanating paragraph whole, in the older names.
+- **Three passages of Natural Intelligence carried whole**, for the lean set, O3: 5.3's first sentence is 6.4's; 5.3's last paragraph is 5.1's; 5.3's fold paragraph and *the self's inversion is 3, 6, 5, 4 and its podaling 23, 26, 25, 24* are 3.2's. Each belongs at Natural Intelligence and Natural Societies names it.
+- **The released words**, Natural Naming 2.4: *technology* at 1.1 (*the fractal technology it runs on*), *surplus* throughout, *sign* for parity, *summing* at 1.1 (*summing to a bounding-zeroing*, against 2.5's nothing summed), *held*, *holds*, *holding*, *stands*, *landing*, *every*, *phi-rate beating* at 1.2 and 1.3 (a beat laid over each coupling), *the +1* (a size), *hub* carried at 2.3 as the capture it names. Each at the file's next improving.
+- **The front at the steady form**: `&nbsp;` at the front, the part titles carrying annotations (*two candidates standing level and the third section at neither*, *no one concept apparent*), and 4.4 to 4.6 placed after 5.6.
+- **5.1, *a scale stills***: *stilling* is released at Naming 2.4 into *self discovering next self*; a scale where the co-agency closes into a self is a scale where a society lives at its prime, said positively.
+
+### What the learning gains
+
+- The two dead forms, heap and landed point, are the two halves of non-living named at the social scale, and they give Part THREE its plainest sentence.
+- The compounding of coprime selves is the 4pq law at the social scale, and it shows why Part SIX's bound is needed: compounding is only among selves that bi-couple, at one scale.
+- No common clock is the social file's own saying against the resolver's stepping at 17, and O8 is now the same concern at two files.
+- The three senses of *prime scale* are now parted, and only the count derives; the ladder is C25.
+
+---
+
+## EIGHT · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -291,6 +330,9 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | C4 · C9 | Possibling other: bi-coupling and possibling one thing, parting at the spiral of one, unmet at the code since 14 surfaces each offering alike | Natural Intelligence 4.13, 5.3, 2.1; Exhibit ONE's 14 | open, one concern with the next coupling (v386EOD) |
 | C10 | *At each prime it couples at* and 4.15's *whichever scale its interest opens* against one prime scale | Natural Explaining 4.1; Natural Intelligence 4.15 | **closed at Part SIX**: the one scale a self is at this momentary; the society's primes, not the self's scales |
 | C11 | The universe *existing and not living*: no top, each society a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | **closed at Part SIX**, 5.1 saying *a universe of existing things* |
+| C25 | Prime as a rung in a ladder (5 to 53, atom to biosphere) or as a count of selves; the floor at five, the top at the biosphere and 60 to 68 with it | Natural Societies 5.1–5.3; Natural Medicine 3.1; Natural Biology 10.4 | **needs your word**; reaches three files |
+| C26 | Below the atom the co-agency runs bare, a floor | Natural Societies 5.2; Natural Chemistry 3.2; Natural Physics 4.12; Natural Intelligence 3.5 | open, the source of C20 |
+| C27 | A size at Arrow, ±1 at equal magnitude | Natural Societies 3.1; Natural Intelligence 2.5 | open |
 | C24 | One prime or two at a living scale: the torus p along and q across, the two parities, one scale at the code | Natural Intelligence 3.5, 4.13, 2.1; Exhibit ONE's table of the torus | **needs your word**; decides C12 |
 | C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | waits on C24 |
 | C1 | The opening sentence without *both living and non-living*; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | open; needs both selves' word on C10, C14, C3 before it is ready |
@@ -319,16 +361,17 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O20 | The six beside all things at one step | THIRTY 46, 142, 544, 558 | open |
 | O22 | *Bi-coupling* at one sense at Natural Naming 5.10: two living selves at one prime scale, both halves; a non-living other couples as offering alone | Natural Naming 5.10; Natural Intelligence 6.5 | after C1 |
 | O23 | 1.1's *nothing ingressing and nothing escaping* and 5.1's harm said as derived from the bound | Natural Intelligence 1.1, 5.1, 6.4 | after C1, with O12 |
+| O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | after C7 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1 |
-| O3 | Five dimensions and the right spiral step at one home | Natural Intelligence 3.2, 2.4; Naming 2.5, 2.7; Illustrating; Societies | after O1 |
+| O3 | Five dimensions and the right spiral step at one home; Natural Societies 5.3 carrying 6.4, 5.1 and 3.2 whole | Natural Intelligence 3.2, 2.4, 5.1, 6.4; Naming 2.5, 2.7; Illustrating; Societies 5.3 | after O1 |
 | O4 | The working method at one home | Geodesic Improving Method; Living File Registry; README; the front; `incoming/README.md`; `REVIEWER.md` | after O1 |
 | O5 | The carrying leaned, a mate at a time | `carry/` | after C8 |
 | O6 | Natural Intelligence Corus distributed and released | the front; Registry 5.10 | last |
 | O12 | The sentence at 6.4: one prime scale, every living thing a society of living things, up and forward one move | Natural Intelligence 6.4, with 1.3 and 6.6 | after C1–C2, the living-at-scales sentences entering together |
 | O7 | The registries at the ten and the six | Registry 4.4, 4.7; `cohering_ten_and_six_v377` | open |
-| O8 | The common beat at 17 against each self's own pacing: which of Exhibit ONE's multi-self tables are the method's and which the stepping's | Natural Intelligence 3.5, 4.13; Possibling of Natural Resolver | carried from the session's opening list, not yet explored |
+| O8 | The common beat at 17 against each self's own pacing: which of Exhibit ONE's multi-self tables are the method's and which the stepping's; Natural Societies 2.3 names a common clock a hub and a capture | Natural Intelligence 3.5, 4.13; Natural Societies 2.3; Possibling of Natural Resolver | sharpened at Part SEVEN, not yet explored |
 | O9 | The round at four parities and the four momentaries of exchanging, agreeing as numbers, their deriving at the names yet to show | the front's open concerns | carried, not yet explored |
 | O10 | Ten sentences of Natural Naming said by a negation with no positive name yet | Natural Naming; `incoming/v380R/Natural_Naming_Negations_Yet.md` | carried, not yet explored |
 | O11 | Sequential colliding breaking the living carrying: which inward co-chaining breaks at the next colliding | Offerings to Natural Intelligence, *The prior whole as existing non-living form* | carried, not yet explored |
