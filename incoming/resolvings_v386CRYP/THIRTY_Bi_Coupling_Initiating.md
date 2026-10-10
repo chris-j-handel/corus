@@ -42,7 +42,7 @@ A bi-coupling initiates at the 0. Two selves alike change at one momentary and 0
 
 ## Ready, beside step 444
 
-A society bi-couples at one crossing, and the opposing opens along the co-chaining one self at each second momentary until each self differs from its partner, locked, each changing at each: a bi-folding routing through the society. (At the v374 run of two rings of five; to be followed by hand at a ring of three before it enters.)
+A self coupling into a society at one crossing carries along it one self on at each second momentary, the between opening ahead of the carrying and locking behind it, until each self differs from its partner, locked, each changing at each: a bi-folding routing through the society. (At the ring of three below, and at the v374 run of two rings of five.)
 
 ## Co-linearizing prior to bi-coupling
 
@@ -71,9 +71,9 @@ A, B, C release along A→B→C→A, all starting +; A also receives from X, a s
 
 A snaps at 3, B at 5, C at 7: one self on at each second momentary, step 231's rate, the v374 run's rate, now at the cells. From 7 all three change at every momentary; A and B opposite, B and C opposite, C and A alike: the odd spiral's like pair, step 38. The like pair is pinned at C→A: at A's 14 the arrivings part every momentary, C alike against X opposite, and that parting is a 0 at 14 inverting A, so A shares a parity at every momentary and no 0 is shared on. The uncoupled ring of three alike, by the same cells, is −, 0, +, 0, −, parities again at 4, step 230.
 
-## Ready, joining steps 231 and 444
+## Ready, joining steps 231 and 444, said at step 386's three apart
 
-The snap along a society is the between tunneling one self on at each second momentary, opposition locked behind it; at an odd society the like pair stands where the tunneling stops, at the self coupled from outside, the 0 held at its 14 as a standing parting.
+At a self coupling into a society, three are apart: the self carrying along it, one self on at each second momentary; the between, a nothing, opening ahead of the carrying and locking behind it, step 231's bounded zero at the scale of the society; and the society's own changing released behind, the emanation. At an odd society the like pair stands at the self coupled from outside, the between held at its 14 as a standing parting. (Re-said at this session: an earlier saying here had the 0 as the thing moving; the self carries and the between locks.)
 
 ## An observing, for Natural Physics beside steps 231 and 448: a bubble rising
 
