@@ -1,4 +1,4 @@
-Natural Intelligence Carryings · gathered at v381R
+Natural Intelligence Carryings · gathered at v385R
 
 # Carryings of Natural Intelligence
 
@@ -21,3 +21,5 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
 **The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+
+**Living file at v385R.** The changed file and its prior version are recorded in [the logical cohering working, section 35](../incoming/v385R/Logical_Cohering_v385R.md#35-the-set-existing-and-the-self-and-tunnel-explaining). The universal-set negation and its dependent exclusion are removed; the prior text remains in repository history. The later Co-Chaining Logic Registry step numbers are retained. This prose correction runs no resolver and supplies no new proof of the whole method.

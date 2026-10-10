@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v381R
+Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v385R
 
 # Carryings of Living File Registry
 
@@ -21,3 +21,5 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
 
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
+
+**Living file at v385R.** The changed file and its prior version are recorded in [the logical cohering working, section 35](../incoming/v385R/Logical_Cohering_v385R.md#35-the-set-existing-and-the-self-and-tunnel-explaining). The universal-set negation and its dependent exclusion are removed; the prior text remains in repository history. The later Co-Chaining Logic Registry step numbers are retained. This prose correction runs no resolver and supplies no new proof of the whole method.

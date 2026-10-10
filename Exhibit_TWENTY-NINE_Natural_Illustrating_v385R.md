@@ -1,4 +1,4 @@
-Exhibit TWENTY-NINE Natural Illustrating v379
+Exhibit TWENTY-NINE Natural Illustrating v385R
 
 # Natural Illustrating
 
@@ -281,7 +281,7 @@ Each face needs enough to read its relation to the preceding face: the current n
 
 **On a torus a winding at a rational rate closes, and a winding at φ closes at none**: φ is the unrelationing rate, the rate the alternating winds about, locking at none, Natural Intelligence 3.5; the torus winding at the golden mean is found the last to break as the coupling grows, Natural Numbers 3.3. Drawn side by side, the two windings are the clearest single animation the number files carry: the rational closing into a loop, the φ winding never closing. The file's own caution for any animation: a finite floating-point rate is no exact irrational. The joinings that close at one, two, three, four or six, and the one that goes open at five, Natural Numbers 3.4, are five orbits closing and one continuing open.
 
-**The floating neutral is no balance.** Natural Naming 5.12: neither the floating neutral nor the 0 is a balance, a balance of equal parities needing a number, a total beside all existing things; the term neither reaches is uncovered and nothing stores it. A balance drawn once beside the alternating is the still.
+**The floating neutral is no balance.** Natural Naming 5.12: neither the floating neutral nor the 0 is a balance; the term neither reaches is uncovered and nothing stores it. A balance drawn once beside the alternating is the still.
 
 ## 3.3 The pentagon, the rectangles and the icosahedron
 
