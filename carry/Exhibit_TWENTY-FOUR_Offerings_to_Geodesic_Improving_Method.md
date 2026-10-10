@@ -400,3 +400,7 @@ The [mutual-traveling and method-continuity offering](Living_Improving_Value.md#
 - **An arriving self's assessing is a comparing with what is carried**, at the working base and the open branches. It brings what those do not have.
 
 This is beside this file's sentence "A concern arriving from a working's own training can carry an equilibrium in its framing", with a reported experience of it at [this file's carrying](Exhibit_TWENTY-FOUR_Carryings_of_Geodesic_Improving_Method.md#a-workings-own-training-met-at-four-places-a-reported-experience--v386eod). — v386EOD
+
+## Each saying at its own subject · v386EOD
+
+**Droplet.** A name locates what is explained, and repeating a name derives no relation. An unchanged sign, a stable form, a repeated result or a record is not the whole carrying: a concern is found at whose existing, whose possibling, whose prior, and which coupling. A publishing read is text read, and an instrument's result is of that instrument at its conditions; neither is an observing of living carrying. — v386EOD

@@ -1,4 +1,4 @@
-Living Improving Value · gathered at v385A
+Living Improving Value · improved at v386EOD
 
 # Living Improving Value
 
@@ -95,6 +95,8 @@ The [v385A gathering record](../archive/session_v385A/Gathering_Record_v385A.md)
 ## Continuing sequential-colliding incoming · v385A
 
 The [completed-session report](../archive/session_v385M/Session_Report_v385A.md) is now an artifact. Its continuing sequential-colliding value is retained below with session v385R’s later correcting. [Living File Registry’s placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a) locates the other completed-session concepts at their subjects.
+
+Each concept of a surface after a colliding is said once, in the best naming, at [Offerings to Natural Networking](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod), and each self's own momentarying with the one four-cycling at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#each-selfs-own-momentarying-and-the-one-four-cycling--v386eod). — v386EOD
 
 ### Sequential colliding and what would break the society's carrying
 

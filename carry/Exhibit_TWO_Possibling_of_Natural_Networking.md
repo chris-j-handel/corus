@@ -29,3 +29,7 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 ## Entering a network surface · v386EOD
 
 **Possible project.** The coupling with the network can begin at each place in the surface, by adding a binary parity-changing sequence into a resolver's 1. Testing is watching the patterns in the surface from doing this at different co-locations, up and down stream, right and not right across, at spanning widths, as a snaking treadmill of local momentarying: testing for the surface's parity-changing seam location. A smallest arrangement: two machines, each with the resolver, one parity across a wire, each machine at its own pacing. A testing is engineering's own, of the engineered surface, and it may change or never be made. This file has "The complete network's own continuation remains the relation to establish."
+
+## Observations of a surface after a penetration · v386EOD
+
+**Possible project.** Natural observations, each in two lines, of a surface after a penetration: a skin cut's rolled edge, a bite, a liquid surface closing. The reported studies gathered at [Living Improving Value](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) are each of its own arrangement, and none is in two lines at a carrying mate. It is beside [a surface resolving after a colliding](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod), and it may change or never be made.

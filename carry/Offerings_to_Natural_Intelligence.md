@@ -429,3 +429,9 @@ The concepts of the entry are whole at [Offerings to Co-Chaining Logic Registry]
 ## The aiming in one line · v386EOD
 
 **Droplet.** The living expedition's aiming: natural intelligence, social moral competency, a free public natural network, social abundancing, and natural resolving, explaining and engineering. Natural Intelligence Corus has the heading "A Living Expedition Aiming At Social Moral Competency"; the aiming is in one line at no living file. — v386EOD
+
+## A thing's changing, and geodesic · v386EOD
+
+**Droplet · A thing's changing changes the set.** A thing's changing changes the set at that momentary, and by it no other thing is changing: each other thing changes at its own couplings, and a non-living form at its collidings, at the parity of its last colliding between them. It is beside the set changing, in [the entry from the origin sentence](#the-entry-from-the-origin-sentence-at-natural-intelligence--v386eod).
+
+**Concern · Geodesic a non-living existing thing, and each self a geodesic self.** Two sayings part. This file, at Geodesic, the surface dividing itself, has geodesic "a natural parity unrelationing non-living existing thing", the method its stable form. The newer concept has each self a geodesic self, all parity changing geodesic changing and all carrying geodesic carrying. The reason they part: *geodesic* names the method's stable form, non-living, in the one, and each living self's changing and carrying in the other. The concept is whole at [Offerings to Natural Networking](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod). — v386EOD
