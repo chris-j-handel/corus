@@ -1,0 +1,14 @@
+== kit resolver, 12 as a sum
+  one sharing: of 729 offering sequences, six alternating 64 at surface sequences 1 | fixed still 0 | own form again 712 | a 0 somewhere 665
+  carry +, two arrivings [1, 1] each step -> surfaces [1, 1, 1, 1, 1, 1]
+  carry +, two arrivings [-1, -1] each step -> surfaces [-1, -1, -1, -1, -1, -1]
+  carry +, two arrivings [1, -1] each step -> surfaces [-1, 1, -1, 1, -1, 1]
+  three sharings, no offering: carry returns to its start at steps [2, 4, 6] | distinct forms in six 2
+  three sharings, + offered at sharing 1 every other step: surfaces [(-1, 1, -1), (1, -1, 1), (-1, 1, -1), (1, -1, 1), (-1, 1, -1), (1, -1, 1)]
+== re-said resolver, 12 all or none
+  one sharing: of 729 offering sequences, six alternating 64 at surface sequences 1 | fixed still 0 | own form again 712 | a 0 somewhere 665
+  carry +, two arrivings [1, 1] each step -> surfaces [0, 0, 0, 0, 0, 1]
+  carry +, two arrivings [-1, -1] each step -> surfaces [-1, 0, 0, 0, 0, -1]
+  carry +, two arrivings [1, -1] each step -> surfaces [0, 0, 0, 0, 0, 0]
+  three sharings, no offering: carry returns to its start at steps [2, 4, 6] | distinct forms in six 2
+  three sharings, + offered at sharing 1 every other step: surfaces [(-1, 1, -1), (1, -1, 1), (-1, 1, -1), (1, -1, 1), (-1, 1, -1), (1, -1, 1)]
