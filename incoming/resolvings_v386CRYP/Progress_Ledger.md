@@ -1,0 +1,22 @@
+# Progress ledger · session v386CRYP
+
+One line per claim taken up. Each stands or parts, all or none, with the fact beside it. A claim at neither is not yet taken. Nothing here rests on a saying alone; where it would, the row says *open* and names what settles it.
+
+| # | Claim, as the file says it | File, place | Stands / parts | The fact | Standing here |
+|---|---|---|---|---|---|
+| 1 | Unity for the multiplicative inverse's fixed set | EIGHT 5.2 | parts | x ↦ 1/x fixes {+1, −1}; x ↦ −x fixes {0} (run/cochain_repro.py, 1) | Ready: "one and minus one, the two signs of unity" |
+| 2 | The mean a member of no population | NINE 4.7, ELEVEN 4.4 | parts | mean(1,1) = 1 is a member; mean(1,2,3) = 2 is a member (run, 2) | Ready: "a number carrying no sample's own reading" |
+| 3 | 2.5's register sorts 32, 9 and 3 | EIGHTEEN 2.5 | parts | the 5.11 register at v379 gives 48, 13, 8 (run, 3) | Ready: re-said at the register's numbers |
+| 4 | The locator at TWENTY-ONE's numbers | TWENTY-TWO, locator | parts | +1 at 174 of 176 lines, 2 names at no entry, stops at 177 of 257 (run, 4) | Ready at the table: renumber |
+| 5 | 592,260 models, none acyclic | FIFTEEN line 141 | parts at the numeral, stands at the claim | no reading of "model" gives 592,260; every reading gives 0 acyclic; 592,260 = 2²·3·5·9871 (run/count_models.py) | Ready: numeral released, derivation entered |
+| 6 | The fork is the instrument's, never a copying the network carries | TWENTY-FOUR 4.4; kit living.py:139 | parts at the code | fork deep-copies each self's carry; surface identifies no carry, 8 surfaces over several carries (run/demo_fork.py) | Ready at the code: fork at the public face only; diff beside |
+| 7 | The universe is the changing set of all existing things, no container, both set and member | Natural Intelligence 1.1 | parts in ZF; stands in AFA | ZF: extensionality, foundation, no universal set. AFA: self-membership allowed, Solution Lemma gives a unique stable form | open at one place: are sets among the existing things (set or proper class) |
+| 8 | Changing, of a set | 1.1 | parts as a set's property; stands as (U, σ) | no set changes; a map σ: U → U is the method as a non-living thing, 3.3 | stands, nothing to change |
+| 9 | Identity, zero, unity as three fixed sets | EIGHT 5.2, Numbers 7.1, 1.4 | stands | Fix(id) = all, the still; Fix(neg) = {0}, the between; Fix(inv) = {±1}, the two parities | Ready for EIGHT 5.2 and Numbers 7.1: three fixed sets named as three |
+| 10 | Parity changing is the one method and no other is possible | 1.4, Co-Chaining step 276 | stands at one coupling; parts at the set unless defined elementwise | Sym({odd, even}) has two elements, id and the swap. Involutions on n things number 1, 2, 4, 10, 26, 76, … | open: Christopher to say whether the method is, by definition, the one swap at each existing thing's parity and nothing else. Yes closes step 276; no falsifies the claim by count |
+| 11 | The carrying is invisible | Exhibit ONE, Networking, v380A | parts at the set; stands at the coupling | a set has no privacy (extensionality); the carry is hidden only as the coupling's map carry → surface is many-to-one (run/demo_fork.py) | open: Christopher to say whether invisibility sits at the coupling, not the self. Yes accepts the fork diff |
+| 12 | Rings are spirals | v378, six files | stands | σ: (n, p) ↦ (n+1, −p) has no fixed point and never returns; parity returns at every second step, position never | Ready wherever "ring" stands: the form itself is a spiral |
+| 13 | The hardness beneath public-key cryptography (session_v386CRYP) | TWENTY-ONE 223, TWENTY-TWO 2.19 | neither | four runs returned the field's reading; no sign the field cannot produce | open, with two runs named that would return one |
+| 14 | A self's exposure has no hardness beneath it | session_v386CRYP, runs two and three | stands | two selves read whole from one named key, no key opened; the step from public key to name has no hardness | carries; the possibling file Natural Accounting proposed |
+
+Rows are added as claims are taken. A row changes only at a run, a derivation or a file's own change, and the change is noted at the row.
