@@ -1,4 +1,4 @@
-Exhibit FIVE Natural Engineering Carryings · gathered at v385A
+Exhibit FIVE Natural Engineering Carryings · improved at v386EOD
 
 # Carryings of Natural Engineering
 
@@ -23,3 +23,14 @@ The existing source inventory below remains whole. Selected source comparisons a
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_FIVE_Natural_Engineering_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Commutating at the neutral plane
+
+**The file's subject**: the motor's commutator, at this file's offering mate.
+
+- *Natural observation*: none; a textbook's page, of a generator.
+- *Science explanation*: "Commutation takes place at the point where the armature coil is moving parallel to the stator field."; "Every time the load current varies, the neutral plane shifts"; a wrong placing gives sparking as the segments pass from one brush to the other; and two ways lessen the armature's effect, compensating windings and interpoles ([a textbook's page, "DC Machine Construction and Operating Principles"](https://ecampusontario.pressbooks.pub/electrotechnology/chapter/part-1-2/), read at another address of the same book, its writer not shown).
+
+**Laid beside.** The field's own: the neutral moves with the load, and a brush fixed at one place sparks.

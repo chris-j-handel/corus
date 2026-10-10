@@ -22,3 +22,12 @@ Exhibit TEN Natural Health Carryings · gathered at v386EOD
 - *Science explanation*: the theorem is "a general principle of equilibrium thermodynamics" that "assumes no physical properties of the system under investigation other than thermal equilibrium"; "Violation of this correspondence constitutes proof that the system is active"; the bundle's movements "are produced by energy-consuming elements within the hair cell".
 
 **Laid beside, by this session.** The theorem is the field's own for a system at equilibrium. At the hair bundle oscillating of itself the swaying and the answering are measured to part, and at the bundle with no oscillation of its own they are one. The sentence seats the living sway at the theorem.
+
+### A path gone to again, a stability by varying, and two theorems
+
+**The file's sentences**: "fluctuation and dissipation are one function", and at 2.2 "ceases to be a good measure".
+
+- *Natural observation*: none; a field's namings and results.
+- *Science explanation*: homeorhesis names "dynamical systems which return to a trajectory", beside those going to one state (Waddington, 1957, The Strategy of the Genes); allostasis is glossed "remaining stable by being variable" (Sterling and Eyer, 1988, in the Handbook of Life Stress, Cognition and Health); each read at [an encyclopedia's pages](https://en.wikipedia.org/wiki/Allostasis), the books not opened. Near equilibrium, with flows linear in their forces, the matrix of coefficients is symmetric, "except in cases where time-reversal symmetry is broken" (Onsager, 1931, Physical Review 37, 405–426), and an observable's fluctuating at equilibrium and its answering to a small force are one function (Callen and Welton, 1951, Physical Review 83, 34–40); each read at an encyclopedia's page. "When a measure becomes a target, it ceases to be a good measure." is Strathern's of 1997, European Review 5, 305–321, read at [a copy of it](https://www.gwern.net/doc/statistics/decision/1997-strathern.pdf); Goodhart's of 1975 is "Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes."
+
+**Laid beside.** The field's own names for a living's path and its varying, beside this file's setpoint and its homeostasis; and the two theorems' own conditions, near equilibrium and linear.

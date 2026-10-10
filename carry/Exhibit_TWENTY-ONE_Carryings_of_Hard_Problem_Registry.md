@@ -1,4 +1,4 @@
-Exhibit TWENTY-ONE Hard Problem Registry Carryings · gathered at v385A
+Exhibit TWENTY-ONE Hard Problem Registry Carryings · improved at v386EOD
 
 # Carryings of Hard Problem Registry
 
@@ -28,3 +28,32 @@ The earlier source inventory remains whole below. This supporting project may ch
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY-ONE_Hard_Problem_Registry_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### The Collatz map, checked and bounded
+
+**The file's entry**: the Collatz conjecture, its checking "past 10²⁰".
+
+- *Natural observation*: a computing across many machines checked each first number below 2 to the 71st as reaching 1, the limit reached on 15 January 2025 ([Barina, 2025, The Journal of Supercomputing 81, 810](https://www.fit.vut.cz/research/publication/c197809)).
+- *Science explanation*: "There is no m-cycle with m ≤ 91.", a further cycle having ninety-two local minima or more ([Hercher, 2023, Journal of Integer Sequences 26, 23.3.5](https://cs.uwaterloo.ca/journals/JIS/VOL26/Hercher/hercher5.html), with a corrigendum of 2026 mending one proof). At the map halving an even, and tripling an odd, adding one and halving, the sequence of the first k parities "is periodic in n with period 2^k" (Terras, 1976, Acta Arithmetica 30, 241–252; read at [a later paper's statement of it](https://arxiv.org/abs/0910.1944)).
+
+**Laid beside.** Seen: each first number below 2 to the 71st reaching 1. The first parities of a sequence are of its first number's last binary digits alone; the asking of each first number at once is unresolved.
+
+### A test failed, and its hypotheses together
+
+**The file's sentence**: "A refutation falls on the conjunction of account and specifications. No member of it is identified."
+
+- *Natural observation*: none; a field's argument.
+- *Science explanation*: "there is at least one error; but where the error lies is just what the experiment does not tell us" (Duhem, 1906, The Aim and Structure of Physical Theory, the 1954 translation's page 185; read at [the Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/duhem/)). The entry has Duhem's saying of physics alone, and Quine's later saying wider: two theses under one name.
+
+**Laid beside.** The field's own name for the file's sentence.
+
+### Multiplicities, and one finished thing
+
+**The file's sentence**: "parting multiplicities into those that can be thought of as one finished thing and those that cannot and placing the totality of all sets among the latter".
+
+- *Natural observation*: none; a letter.
+- *Science explanation*: "it is impossible to conceive of the multiplicity as a unity, as 'one finished thing'", such multiplicities named absolutely infinite or inconsistent; the letter's cases are the system of all ordinal numbers and of all alephs (Cantor, letters to Dedekind, 28 July and 3 August 1899, printed as one; read through [a later paper's quoting](https://arxiv.org/abs/1909.05345), the letters not opened).
+
+**Laid beside.** The wording is *conceive*, and the cases read are all ordinals and all alephs; the totality of all sets is the file's, at no place of the letter read.

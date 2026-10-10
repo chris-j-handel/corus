@@ -1,4 +1,4 @@
-Exhibit NINE Natural Human Society Carryings · gathered at v385A
+Exhibit NINE Natural Human Society Carryings · improved at v386EOD
 
 # Carryings of Natural Human Society
 
@@ -28,3 +28,14 @@ The following inventory remains whole with its historical wording and standings.
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_NINE_Natural_Human_Society_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
 [Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Arrow's theorem, as the field has it now
+
+**The file's sentence**: "The conditions Arrow sets aside are the ones the coupling carries".
+
+- *Natural observation*: none; a field's proof.
+- *Science explanation*: "Suppose there are more than two alternatives. Then no social welfare function satisfies U, SO, WP, D, and I.": each list of the people's orderings within the function's domain; its result an ordering; a thing each person has over another over it in the result; no dictator; and two things' order in the result from their order in each person's alone ([Morreau, "Arrow's Theorem", Stanford Encyclopedia of Philosophy, revised 2025](https://plato.stanford.edu/entries/arrows-theorem/); Arrow's own texts of 1950 and 1951 not opened). The five are the form of the book's second printing, 1963; the first statement had other conditions, and was shown not general in 1957.
+
+**Laid beside.** The field's own five, with a finite number of people: beside the five the theorem's setting has and the three it lays aside, at this file's offering mate.

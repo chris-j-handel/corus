@@ -105,3 +105,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · Each arrival's own.** Each arrival carries its own statement, variant, conserving relation, reach and address. The five conditions prior are this registry's own, and are no arrival's commitments. Prior, now and next are local, with no first momentary over all.
+
+## The totality of all sets, at a letter · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Concern · The totality of all sets, at the founder's letter.** This file has the field's founder "placing the totality of all sets among the latter", the multiplicities not one finished thing, and Exhibit TWENTY-TWO Resolving the Hard Problem Registry has the same. The letter as read has all ordinal numbers and all alephs as its cases, and *conceive* for *thought of*; the totality of all sets is at no place of it read. The reading is at [Carryings of Hard Problem Registry](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md#multiplicities-and-one-finished-thing).

@@ -115,3 +115,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Droplet · One chain, at four files.** "the value co-released (chemistry's face) and re-locked into the self (biology's face)": Natural Chemistry co-releases, Natural Biology re-locks, this file lives it and Natural Medicine restores it, with this file alone naming the chain.
 
 **Concern · A third arriving of a carry.** This file's 4.1 has two arrivings of a carry, sequenced and fresh, or stilled. Natural Medicine has a third, fresh by copying and never sequenced. It leans on the older bound, the concern at this mate.
+
+## A measure and a target, at their own wordings · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Droplet · A measure and a target.** The wording at this file's 2.2 is nearest one of 1997, with an earlier of 1975 saying another thing, a regularity collapsing under a pressure for control: both are at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-path-gone-to-again-a-stability-by-varying-and-two-theorems).

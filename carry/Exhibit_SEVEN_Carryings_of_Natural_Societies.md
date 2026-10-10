@@ -60,3 +60,12 @@ These are the v381R reports of the earlier file wording and v380R dissolving nam
 - *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
 
 **Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
+
+### Ramsey numbers at three, four and five
+
+**A living file's sentence**, at the Geodesic Improving Method: "the paired Ramsey numbers run 2, 6, 18 and then at most 46, not 54".
+
+- *Natural observation*: none; a field's proofs, computings and makings.
+- *Science explanation*: R(3, 3) is 6, and R(4, 4) is 18, with "a unique critical graph for R(4, 4)", the seventeen-member one (Kalbfleisch, 1967) ([Radziszowski, "Small Ramsey Numbers", revision of 2026](https://www.cs.rit.edu/~spr/ElJC/sur.pdf)). R(5, 5) is 43 or more by a made colouring (Exoo, 1989; not opened), and "The Ramsey number R(5,5) is less than or equal to 46", by "a combination of linear programming and checking a large number of cases by computer" ([Angeltveit and McKay, 2024](https://arxiv.org/abs/2409.15709)). "The same set of 656 (5, 5, 42)-graphs, consisting of 328 graphs and their complements, was found by several paths.", with the conjecture of R(5, 5) as 43 (McKay and Radziszowski, 1997, Journal of Combinatorial Theory B 69, 193–209; read at [a copy of it](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/Rof5LE49.pdf)).
+
+**Laid beside.** The field has 43 to 46 at five, and 656 societies of forty-two found, each search finding those alone; none is shown going on to forty-three.

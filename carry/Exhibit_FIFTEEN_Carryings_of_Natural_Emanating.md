@@ -32,3 +32,12 @@ Exhibit FIFTEEN Natural Emanating Carryings · gathered at v386EOD
 **Laid beside, by this session.** In the field's explaining a potential's value at one place is free, and its circulation round a closed path is the thing the shifted pattern follows.
 
 Its insertlet is at [the offering mate](Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md#insertlets).
+
+### One bit erased
+
+**The file's sentence**: "Erasing one bit dissipates at least kT ln 2".
+
+- *Natural observation*: one small bead in a potential of two wells, a store of one bit, was put through erasings again and again and the heat given off measured: its mean came down to the bound at slow erasings, from above ([Bérut, Arakelyan, Petrosyan, Ciliberto, Dillenschneider and Lutz, 2012, Nature 483, 187–189](https://www.nature.com/articles/nature10872), read at its abstract).
+- *Science explanation*: an erasing lessens the store's entropy, paid as heat to its surroundings (Landauer, 1961, IBM Journal of Research and Development 5, 183–191; not opened). The field has the principle's place as a law disputed.
+
+**Laid beside.** Seen: a mean heat nearing the bound from above, at slow erasings.

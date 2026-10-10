@@ -103,3 +103,14 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 - Each self's entry made at one sharing from each side gives Exhibit ONE's own sequence at any order. Made at one from either side, the order drawn, it does not; made at one from either with each self once in each round, it does.
 - The Registry's step 611 is reached with nothing at the executing's lines at the first momentary. With offerings laid at those lines first, some selves are still possibling longer, the Registry's offering from beside the selves.
 - At selves with two sharing to each, at late momentaries, the selves with none offered at both sides and the selves offered their own parity at both are one number, and the selves offered none and the other parity are one number with the selves offered none and their own.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### A ring of inverters, odd and even
+
+**The file's table**: *A spiral of selves*.
+
+- *Natural observation*: none read; a field's making, said at an encyclopedia.
+- *Science explanation*: "The ring oscillator uses an odd number of inverters to give the effect of a single inverting amplifier"; "A circular chain composed of an even number of inverters cannot be used as a ring oscillator.", and that chain "can be used as a storage element", two inverters each to the other being a storing cell at one of two stable states ([an encyclopedia's page](https://en.wikipedia.org/wiki/Ring_oscillator)).
+
+**Laid beside.** At each second momentary a spiral is a ring of inverters. At an even number the two part: the resolver's even spiral is at rest from its two alternating first parities alone and alternates on from each other, and the field's even ring is at one of two forms from each.

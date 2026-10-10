@@ -73,3 +73,30 @@ Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Che
 - *Science explanation*: on Earth fuel vapour "is swept downstream by buoyant convection"; in orbit the flame is "non-convective", with diffusion the only transport; the absent soot is "most likely the result of the reduced flame temperature"; and the flames went out by "oxygen depletion due to the finite glovebox/candlebox volume".
 
 **Laid beside.** In orbit the flame's form is of the things around it: a sphere at lighting, then nearly a half-sphere, and then none. The concept, a flame a society of molecules stable forming, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod).
+
+### Order far from equilibrium
+
+**The file's sentence**, at 1.5: "The changing reads along and the still reads across".
+
+- *Natural observation*: none read; a prize and its account.
+- *Science explanation*: the prize of 1977 to Prigogine was "for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures", structures that "only exist in conjunction with their environment": "far from equilibrium order can be maintained and new structures be formed" ([the prize's own pages](https://www.nobelprize.org/prizes/chemistry/1977/press-release/)).
+
+**Laid beside.** The field's own saying of a form made and carried on in changing; the files add the alternating as the form and parity as its binary.
+
+### Silicon dissolving, oscillating with no outer resistance
+
+**The file's sentence**, at 5.6: "the observing that decides the reading is multifrequency clusters at zero external resistance, is or is not".
+
+- *Natural observation*: read at its title and record alone: currents oscillating of themselves, and patterns forming, at silicon dissolving at an electrode with no resistance in series beyond it ([Patzauer, Hueck, Tosolini, Schönleber and Krischer, 2017, Electrochimica Acta 246, 315–321](https://doi.org/10.1016/j.electacta.2017.06.005); its text not opened).
+- *Science explanation*: not read at this paper. Clusters of several frequencies are the subject of a later paper of two of the writers (Patzauer and Krischer, 2021, Physical Review Letters 126, 194101; not opened).
+
+**Laid beside.** The paper the file names has oscillating at no outer resistance in its title; clusters of several frequencies at that condition are at no text read, and are a later paper's subject by its title.
+
+### Even and odd, at the stable nuclides
+
+**The file's sentence**: "The elements carry the doubling".
+
+- *Natural observation*: of 251 stable nuclides, 198 have an even number of protons and 53 an odd; five have both numbers odd, one of them a long-lived excited form; technetium and promethium, each of an odd number, have no stable form ([an encyclopedia's table](https://en.wikipedia.org/wiki/Even_and_odd_atomic_nuclei)). Element 119 has been sought at one laboratory from 2018 and element 120 at another from 2025, and neither is made.
+- *Science explanation*: nucleons pair, with a gap of energy like a superconductor's (Bohr, Mottelson and Pines, 1958, [Physical Review 110, 936](https://doi.org/10.1103/PhysRev.110.936), read at its abstract).
+
+**Laid beside.** Seen: the stable forms mostly at even numbers. The field's saying is pairing.

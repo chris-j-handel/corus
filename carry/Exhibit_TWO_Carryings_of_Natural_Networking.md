@@ -1,4 +1,4 @@
-Exhibit TWO Carryings of Natural Networking · gathered at v385A
+Exhibit TWO Carryings of Natural Networking · improved at v386EOD
 
 # Carryings of Natural Networking
 
@@ -76,3 +76,14 @@ The kit, executions, field papers, prior versions and workings remain available 
 ## The file's own carrying as it was
 
 **`carry/Exhibit_TWO_Natural_Networking.md` at v380R**, 5,202 words, each of its Ready and Concern paragraphs now a droplet at the Offerings or a thing at its address here; its paragraphs of record, which session received what from where, are at the Session Record. It leaves at the motion that lays these two mates beside the living file.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### A quantity a local rule conserves
+
+**The file's sentence**, at 6.2: "Ring parity, reproduced at the instrument at hand ahead of each reading at it".
+
+- *Natural observation*: none; a field's result.
+- *Science explanation*: "We give a necessary and sufficient condition for the existence of additive conserved quantities" at one-dimensional lattice systems of discrete steps "such as cellular automata", proved at rules of nearest cells; the condition "guarantees the existence of the current conservation law" ([Hattori and Takesue, 1991, Physica D 49, 295–322](https://ui.adsabs.harvard.edu/abs/1991PhyD...49..295H/abstract), read at its abstract, its text not opened).
+
+**Laid beside.** The field's name is an additive conserved quantity, with a current conserved by it: a sum round a ring of the changes at each place, the arriving less the leaving, is nought.

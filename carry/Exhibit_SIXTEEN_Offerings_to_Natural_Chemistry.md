@@ -179,3 +179,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Concern · Threes, sixes and eights at this file.** Each is a saying of version 368, beside the later *Alike counts* at Offerings to Natural Transmissioning: carbon's four of eight as the nine's middle at the chemical; three reaction pairings each two ways as the six, with "reaction taxonomy supplies no closed natural six"; the octet, a rule of the across alone, and with both followed a line of balance, the electron-deficient compounds, the expanded valences, the radicals and the transition metals its along; and the citric-acid cycle's eight steps beside six directed couplings. One numeral at two is no one doing by the numeral; three pairings and the three floating neutrals as one three is at no deriving.
 
 **Droplet · The even and the odd, at the nuclides.** Excluding is the one or the other, never both, and each shell completes even. It is beside this file's "The elements carry the doubling", with the nuclides' numbers at [Carryings of Natural Chemistry](Exhibit_SIXTEEN_Carryings_of_Natural_Chemistry.md).
+
+## Clusters of several frequencies, at a later paper · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Concern · 5.6's observing, and the paper named.** This file's 5.6 has "the observing that decides the reading is multifrequency clusters at zero external resistance, is or is not", beside the paper it names. That paper's title has oscillating and patterns at no outer resistance; clusters of several frequencies are a later paper's subject, by its title, and at that condition are at no text read. It is at [Carryings of Natural Chemistry](Exhibit_SIXTEEN_Carryings_of_Natural_Chemistry.md#silicon-dissolving-oscillating-with-no-outer-resistance).

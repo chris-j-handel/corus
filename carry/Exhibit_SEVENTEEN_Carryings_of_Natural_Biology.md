@@ -238,3 +238,48 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 - *Science explanation*: "the age of the organisms found in a burrow is equal to the freezing time"; the individuals "have remained" in cryptobiosis "since the late Pleistocene (~46,000 years)", cryptobiosis being "a state of suspended metabolism"; its genes are "partly orthologous" with another nematode's, their working left to "further functional analyses".
 
 **Laid beside.** Seen: living animals from frozen ground, and a plant's age. A metabolism suspended is the state's naming, measured at no animal here: no outward changing measured, and no changing, are two of [six sayings](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#six-sayings-of-no-changing--v386eod).
+
+### Learning after a head's regrowing
+
+**The file's sentence**, at 8.8: "the regenerated worm reacquires the conditioned response faster than a naive one".
+
+- *Natural observation*: planarians were made familiar for about ten days with a dish of rough surface, others with a smooth, and the delay to feeding in a lit place was measured by an automated following. Whole familiar worms fed sooner than the others at four days and at twelve to fifteen. Worms with heads cut off and grown again over seven to nine days, tested with no further session, did not differ to a measure the publishing accepts, "the effect was not statistically significant"; after one short session of feeding again, they fed sooner than regrown worms never made familiar ([Shomrat and Levin, 2013, Journal of Experimental Biology 216, 3799–3810](https://doi.org/10.1242/jeb.087809), read at a copy of its text).
+- *Science explanation*: "some trace of memory is stored in locations distributed beyond the brain"; the writers say they could not exclude an effect of the nerves beyond the brain or of chemical traces at the dish, and name the saying a suggestion.
+
+**Laid beside.** Seen: a sooner feeding after one further session, and none measured with no session. The file's sentence has the learning again, sooner; a body carrying its learning through the loss of its brain is more than the observing.
+
+### Polymerases of the other hand, and a living hand looked for
+
+**The file's sentence**: "a left equally possible".
+
+- *Natural observation*: a polymerase made by chemistry of amino acids of the other hand lengthened primers of DNA of the other hand at templates of it, and made RNA of the other hand from such a template, the second less well and with more mispairing ([Wang, Xu, Liu and Zhu, 2016, Nature Chemistry 8, 698–704](https://doi.org/10.1038/nchem.2517), read at the writers' copy). A larger polymerase, made the same way, wrote the three ribosomal RNAs whole in the other hand, and they outlasted an enzyme of the living hand ([Xu and Zhu, 2022, Science 378, 405–412](https://doi.org/10.1126/science.abm0646), read at the writers' copy). In two meteorites, amino acids rare in living things were measured with an excess of the living hand (Cronin and Pizzarello, 1997, Science 275, 951–955; not opened, read at later reviews).
+- *Science explanation*: no cell of the other hand is made; a paper of 2024 by thirty-eight writers has such bacteria as a danger and asks a wide discussing ahead of any making ([Adamala and others, 2024, Science 386, 1351–1353](https://doi.org/10.1126/science.ads9158); its text not opened). A rover's instrument for organic molecules at Mars, launching no sooner than 2028, is to look for one-handedness among them.
+
+**Laid beside.** Seen: molecules of the other hand made by makers of the living hand, each an emanation of living at the right hand. A living self of its own origin at the other hand is observed at none, and looked for.
+
+### An embryo stored thirty years
+
+**The file's sentence**, at 4.1: "inert outside a host, as a spore or a seed is inert".
+
+- *Natural observation*: embryos made in May 1994 were frozen slowly and stored in a vial; one, "in storage for 30 and a half years", was thawed and carried, and a child was born on 26 July 2025 ([Hamzelou, 2025, MIT Technology Review](https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/)).
+- *Science explanation*: none given.
+
+**Laid beside.** Seen: thirty years with no changing looked for, and a living next. It is beside the four sayings of a thing in storage at this file's offering mate.
+
+### A cue, and a rhythm locked to it
+
+**The file's sentence**: at the offering mate, the concern of a rate locked.
+
+- *Natural observation*: none read; a field's definition.
+- *Science explanation*: a zeitgeber "is any external or environmental cue that entrains or synchronizes an organism's biological rhythms", the word first used by Aschoff ([an encyclopedia's page](https://en.wikipedia.org/wiki/Zeitgeber)).
+
+**Laid beside.** The field's own word for a rate locking.
+
+### An organism, and the decay it is not at
+
+**The file's sentence**: "The riding-the-carry is the competency; the landing is the failure".
+
+- *Natural observation*: none; a physicist's book.
+- *Science explanation*: "It is by avoiding the rapid decay into the inert state of 'equilibrium' that an organism appears so enigmatic" (Schrödinger, 1944, What is Life?, its sixth chapter; read at [a copy of the text](https://www.physik.uni-kl.de/eggert/statmech/what-is-life.pdf)).
+
+**Laid beside.** The field's own, of living as no equilibrium.

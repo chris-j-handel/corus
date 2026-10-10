@@ -434,3 +434,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Droplet · Working memory.** Beside "Working memory reads it at the neural membrane, and adds the sharpest face: no store": an instrument's frequency and its two bands at one ratio are a measuring surface's rendering of one alternating. A pair named still, guiding at once and steady, breaks it.
 
 **Droplet · The cycle's eight steps, and six.** Beside the concern at this mate of the citric-acid cycle: steps and directed couplings are two things, and eight and six were never one number. It is beside *Alike counts* at Offerings to Natural Transmissioning.
+
+## The worm's observing, at its publishing · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Concern · The worm's learning, at the observing.** Beside the concern at this mate of 8.8: at the publishing, worms with heads regrown and no further session did not differ to a measure the publishing accepts, and fed sooner only after one short session of feeding again; the writers name a storing beyond the brain a suggestion, with other effects not excluded. This file's "A body keeps its learning through the loss and regrowth of its own brain" is more than that observing. It is at [Carryings of Natural Biology](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#learning-after-a-heads-regrowing).

@@ -624,3 +624,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Droplet · One nothing.** This file has "It is the same nothing as energy, entropy, and the arrow of time — one account, not a family". Each nothing a field declares is that one, and a number of them is the error: a measuring of a nothing is a mark at a surface. It is beside the one nothing at Offerings to Natural Emanating.
 
 **Concern · One arrival, at two files and three.** This file has "the periodic table is an emanation-catalog", and Natural Chemistry has it an address book, address and behaviour two: two names of one table. Onsager's reciprocity is at Natural Chemistry and at this file's mate, and chirality and parity at Natural Chemistry, Natural Numbers and this file, with none naming the others. "glasses and broken symmetry an entire literature of the two accountings parting" is Natural Chemistry's changing in disequilibria, said across.
+
+## Three clocks' ratios, measured · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Droplet · Three clocks, their ratios measured.** The droplet at this mate aimed at *a rate held to a value* has clocks of three atoms agreeing in the ratios of their rates. The publishing has each ratio measured to eighteen digits, and no saying of the clocks agreeing: the observing is at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#three-clocks-rates-as-ratios).

@@ -1,4 +1,4 @@
-Exhibit ELEVEN Natural Medicine Carryings · gathered at v385A
+Exhibit ELEVEN Natural Medicine Carryings · improved at v386EOD
 
 # Carryings of Natural Medicine
 
@@ -27,3 +27,14 @@ The following inventory retains its historical wording and addresses. The [v385A
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_ELEVEN_Natural_Medicine_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Twenty-four weeks, from the second dose
+
+**The file's sentences**: "waited twenty-four weeks past the last infusion so the antibodies had cleared the body, and stopped therapy again", and "interrupted twenty-four weeks after the antibodies cleared".
+
+- *Natural observation*: in a trial's second part, twenty-eight people who had each had placebo, and whose virus had come again within twenty weeks of stopping therapy, were given two doses of two long-acting antibodies twenty weeks apart while on therapy, and therapy was stopped again; a report of the trial has "ART was stopped 24 weeks after the second bnAb dose, not after the antibodies had cleared" (the RIO trial, reported at a conference in 2025 and 2026; read at [one report of it](https://www.aidsmap.com/node/39937) and [another](https://i-base.info/htb/50530), its own publishing not opened).
+- *Science explanation*: the twenty-four weeks were chosen for the antibodies to have left the body ahead of the stopping.
+
+**Laid beside.** The file's first sentence is the trial's own; its second, of twenty-four weeks after the clearing, is not. It resolves the concern at this file's offering mate of twenty-four weeks from two things.

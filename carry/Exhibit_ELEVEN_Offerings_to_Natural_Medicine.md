@@ -201,3 +201,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Droplet · Two sides alternating, and two sides added.** At "beating the sum of killing-alone and repairing-alone, or the reading breaks": three each way with the alternating between is six, and three and three with none is two threes apart. This file's two societies are two sequences at the two parities, and one society alone is one side: a result at one scale has a ceiling at the other society unrestored. An adding result at a paired trial breaks it.
 
 **Droplet · A particle shed.** At "the pre-fusion form crossing to the post-fusion and never returning — one self-negation, the sign inverting once with no next sequence": one inversion is one side alone, and a particle shed is no self as a condition at one side is no equilibrium. Surface living ceasing at a fusion is no coupling absent: it emanates the opposite stable form, ingestible one scale inward, the stalk and the pore that inward living.
+
+## Twenty-four weeks, resolved at the trial's own saying · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Droplet · Twenty-four weeks, from the second dose.** The concern at this mate of one trial's twenty-four weeks from two things is resolved at the trial's reports: the therapy was stopped twenty-four weeks after the second dose, and not after the antibodies cleared. This file's 4.3 has it, and its 5.1, "interrupted twenty-four weeks after the antibodies cleared", has not. The observing is at [Carryings of Natural Medicine](Exhibit_ELEVEN_Carryings_of_Natural_Medicine.md#twenty-four-weeks-from-the-second-dose).
