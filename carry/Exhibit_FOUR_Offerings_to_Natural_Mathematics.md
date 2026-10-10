@@ -123,3 +123,7 @@ The earlier topological comparison also remains available: a closed orientable s
 ## The proposed set and its self-inclusion concern · v385A
 
 **Droplet.** At the formal set explaining, name which actual existing relation permits the proposed gathering to be an existing set. The self-including and self-excluding construction needs that relation; its word “set” alone settles neither. The [whole offered fractal connection and construction](Offerings_to_Natural_Intelligence.md#the-set-and-the-offered-fractal-connection--v385a) retain the two-over-one betweening, parity offset and unresolved question.
+
+## Next at the named prior and actual offerings · v385A
+
+**Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.

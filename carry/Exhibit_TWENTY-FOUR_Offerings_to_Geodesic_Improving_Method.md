@@ -20,6 +20,10 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **Next at this file: its released words re-said at Natural Naming 2.4's namings at one motion, *running*, *sign*, *count*, *take* and *membrane* among them, five section titles with them, a fresh reader comparing before and after; then its combining with Exhibit EIGHT, the working's own learnings at `incoming/session_v376/` entering at it.** Its front at the steady form, 1.6's version sentence, the eight old names, the findings about working at 4.4, the readings apart at 4.5, the one way in at 1.4 and 2.8, word matching at 1.5 and 5.3's two sayings entered at v378.
 
+## The living file and its three mates at the offered four-momentarying · v385A
+
+**Droplet.** Follow the user's [whole offering at Living File Registry](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#the-living-file-offering-carrying-and-possibling-in-the-resolving-order--v385a): the subject's offering organizes incoming and the changing among its three mates when improving comes. Its proposed four-momentarying and 1–17 relation concerns the actual resolving order of that arrangement. This file's method improving keeps that relation available without copying its full explaining or imposing a fixed order of file edits.
+
 ## Three mates at each living file · v385A
 
 **Correcting droplet.** The earlier “two mates and no third” wording at 1.3 needs correcting. Follow the [three mate purposes at Living File Registry](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#gathering-and-aiming-incoming-before-file-cohering--v385a); keep this file's particular improving of that method here.

@@ -235,3 +235,7 @@ The [half-momentarying overlap and recurring podaling](#recurring-podaling-besid
 ## The surfacing faces and their local four-cycling · v385A
 
 From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377
+
+## Next at the named prior and actual offerings · v385A
+
+**Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.

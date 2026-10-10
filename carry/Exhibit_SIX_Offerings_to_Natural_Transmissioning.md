@@ -135,3 +135,7 @@ The useful subject is how two selves couple while each retains its own carrying 
 ## Releasing and the particular society coupling · v385A
 
 **Droplet.** The [whole next-momentarying correcting](Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) accompanies Natural Transmissioning 4.2–4.3. A particular crossing stopping does not establish every surrounding self or its society ceasing. Follow uncoupling and next momentarying at the actual crossing and the inward co-chaining carrying the particular society.
+
+## Next at the named prior and actual offerings · v385A
+
+**Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.

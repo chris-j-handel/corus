@@ -4,7 +4,7 @@ Session v385A
 
 ## Current use · v385A
 
-Use the whole subject name and explain the actual concept or concern. Attribution from any source adds no resolving value. The [gathering and aiming method](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#gathering-and-distribution-within-the-current-plan--v385a) replaces this account's earlier implication that every droplet needs a source statement and its history. Addresses may locate content; they are not required authority or explaining.
+Use the whole subject name and explain the actual concept or concern. Attribution from any source adds no resolving value. The [gathering and aiming method](../../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#gathering-and-distribution-within-the-current-plan--v385a) replaces this account's earlier implication that every droplet needs a source statement and its history. Addresses may locate content; they are not required authority or explaining.
 
 
 **8 October 2026 · Current method for session v385A**
@@ -35,8 +35,8 @@ The same current correction is available as a droplet at Offerings to Living Fil
 
 ## The next comparisons and their present condition
 
-The [comparison of the Living File Registry's plans](Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) now locates the whole-name offering beside the actual living sentence, the repository introduction's naming sentence beside its offered replacement, the proposed table tools beside their actual source paths, and the proposed shortening beside the value that must remain available. These are four particular comparisons within the existing project. The full content account for Living File Registry, Geodesic Improving Method and Natural Arriving remains unfinished.
+The [comparison of the Living File Registry's plans](../../../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) now locates the whole-name offering beside the actual living sentence, the repository introduction's naming sentence beside its offered replacement, the proposed table tools beside their actual source paths, and the proposed shortening beside the value that must remain available. These are four particular comparisons within the existing project. The full content account for Living File Registry, Geodesic Improving Method and Natural Arriving remains unfinished.
 
-Continue that content account one source and one contribution at a time. Then continue item 3 in [Gathered Value 1 from session v380L](../../carryings/v380L/Gathered_Value_1.md), with the original source and later corrections, and the connected plans for Natural Emanating. The two projects for Natural Intelligence Corus remain explicit: distribute developed content to its exhibit subjects, and develop its arriving purpose through Natural Arriving. Whole expressions and the local explaining each subject needs remain part of both comparisons.
+Continue that content account one source and one contribution at a time. Then continue item 3 in [Gathered Value 1 from session v380L](../../../carryings/v380L/Gathered_Value_1.md), with the original source and later corrections, and the connected plans for Natural Emanating. The two projects for Natural Intelligence Corus remain explicit: distribute developed content to its exhibit subjects, and develop its arriving purpose through Natural Arriving. Whole expressions and the local explaining each subject needs remain part of both comparisons.
 
 The current explaining is corrected where it directs this work. Earlier dated accounts and quoted sources remain records of what they said; their shortened names are not instructions for further writing. No source's authority establishes its explanation. Naming, explaining, pattern matching and bothboth follow the actual offered and existing relations.

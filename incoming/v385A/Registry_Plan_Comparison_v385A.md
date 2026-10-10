@@ -60,7 +60,7 @@ Existing plan paragraphs remain at their mates. A new comparison droplet at Regi
 
 **8 October 2026 · Source comparison at 5bd30870a2ebf4f5ebbe7a10cd39ade96ff7fe84**
 
-The current comparison follows [session v381F's Next](../../carryings/v381F/v381F/Next.md), read whole, beside the particular existing offerings and living passages below. Its priorities, measurements, categories and file-motion wording remain that older source's statements. Session v385A follows the user's current ungraded droplet method and [exact naming correction](Exact_Naming_and_Explaining_v385A.md).
+The current comparison follows [session v381F's Next](../../carryings/v381F/v381F/Next.md), read whole, beside the particular existing offerings and living passages below. Its priorities, measurements, categories and file-motion wording remain that older source's statements. Session v385A follows the user's current ungraded droplet method and [exact naming correction](../../carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md#exact-naming-and-explaining-at-each-use--v385a).
 
 | Particular contribution | Existing offering or supporting source | Actual present relation |
 |---|---|---|

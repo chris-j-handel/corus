@@ -10,7 +10,7 @@ The whole concepts and their unresolved conditions are available at this subject
 
 ## Exact names and the present source comparison · v385A
 
-[Exact naming and explaining](../incoming/v385A/Exact_Naming_and_Explaining_v385A.md) preserves the user's correction and the particular source statements behind the earlier shortened references. The [Living File Registry plan comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) locates the existing whole-name offerings, the repository introduction's naming sentence and its proposed replacement, the table tools at their actual source addresses, and the preserving required before proposed archival. These support the existing projects. Their presence establishes available value; further writing and the full content account remain to follow.
+[Exact naming and explaining](../archive/session_v385A/earlier_artifacts/Exact_Naming_and_Explaining_v385A.md) preserves the user's correction and the particular source statements behind the earlier shortened references. The [Living File Registry plan comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md#whole-naming-and-the-existing-file-plans--v385a) locates the existing whole-name offerings, the repository introduction's naming sentence and its proposed replacement, the table tools at their actual source addresses, and the preserving required before proposed archival. These support the existing projects. Their presence establishes available value; further writing and the full content account remain to follow.
 
 ## Earlier entry value at its actual places · v385A
 
