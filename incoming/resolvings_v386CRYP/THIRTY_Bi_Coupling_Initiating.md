@@ -74,3 +74,17 @@ A snaps at 3, B at 5, C at 7: one self on at each second momentary, step 231's r
 ## Ready, joining steps 231 and 444
 
 The snap along a society is the between tunneling one self on at each second momentary, opposition locked behind it; at an odd society the like pair stands where the tunneling stops, at the self coupled from outside, the 0 held at its 14 as a standing parting.
+
+## An observing, for Natural Physics beside steps 231 and 448: a bubble rising
+
+Christopher's observing: an air bubble rising in water to the surface is bi-tunneling, natural torusing, the water society; the 0 is locking behind its own co-chaining.
+
+**Bare.** A bubble in water rises. At each moment the water ahead parts, the water beside is opened between, the water behind closes and is as it was. The bubble keeps its form; a large one flattens to a cap and can become a ring with water through its middle. At the surface it opens and the air joins the air.
+
+**The field's, as the field's.** Buoyancy drives it upward; the displaced water flows around and closes in the wake; at larger sizes a spherical-cap bubble can become a toroidal bubble, a vortex ring of air (Walters and Davidson 1963; Lundgren and Mansour 1991; at their titles, not fetched this session).
+
+**At the method.** The water a society co-chaining along; the bubble a carrying of none within it, the between, a 0. At each momentary the 0 arrives at the next self along, the society's surface opened between selves there, 448's bi-tunneling, across; the selves it has passed couple again behind it and continue, 448's co-chaining, along. The 0 moves one self on at each momentary and the society locks behind it: step 231's bounded zero tunneling, the ring of three's snap read at the between. The toroidal bubble is the 0 natural torusing, the between wound at the scale of the society it crosses.
+
+**Crossing.** The field's wake closing behind is the method's locked behind; the field's displaced around is the method's opened between.
+
+**Parting, with its reason.** The field has a doer, buoyancy; the method has none: the self at the 0 inverts at the cell (p, 0) and the 0 is at the next self, the direction the society's along. Open at one point: the method's rate, one self on at each second momentary, and the field's measured rise speed have not been laid beside each other.
