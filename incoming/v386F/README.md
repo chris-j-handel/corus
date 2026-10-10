@@ -48,6 +48,21 @@ Met at the six binaries: a scale is sequencing, an ordering, Natural Intelligenc
 
 *The universe is the changing set of all existing things.* Then 1.3 opens: *each existing thing is living at the scale it bi-couples at, possibling and existing alternating, and non-living at the scale outward of it, existing only; non-living is up in scales from each thing, and inward of each non-living thing its selves are living.* 1.1's five terms become four. What moves: the opening at the nine files; 1.1, 1.3, 3.3, 3.4 and the carrying-of-none table; Naming 2.4's *living* row and dying sentence; the subtitles of Resolving Hard Problems and the Equilibria Registry, which carry *living and non-living*; and the Geodesic Improving Method 2.7's *among living and non-living existing things alike*, which stays true read at scales.
 
+### The one sentence that makes scale derivable, at 1.3
+
+The readers found one shape at each file: scale used at each and derived at none, *prime society* at Natural Physics with no count of selves, Natural Biology's ladder with no selves, THIRTY's step 13 an opening binary. The one sentence is the one that gives *scale* its deriving from the opening with nothing brought in. The pattern-match, six forward, each clause a sentence the files already carry:
+
+1. *The universe is the changing set of all existing things*, 1.1.
+2. *A set of existing things is an existing thing*, 4.10 and THIRTY step 100, said there of parity.
+3. A set of sets is a set of existing things, and scale is that sequencing, sets of sets, inward and outward, no size, 4.15.
+4. *An existing thing at now arriving from another at prior is a coupling*, 1.3, and *two forms at once are one form at two*, 1.2: a thing couples at one coupling at one momentary, in one set.
+5. *Living is carrying the prior into now*, 1.3, and carrying is at a coupling with an other, Part THREE: a thing is living at the set it bi-couples in, and read from any other set it is non-living.
+6. *A prime is a number no equal smaller numbers make*, 3.5 and THIRTY 128: a set equal smaller sets make is sets of sets, two scales; a set none make is one scale.
+
+**The sentence that would enter at 1.3:** *A set of existing things is an existing thing, and scale is sets of sets; each existing thing couples at one momentary in one set, the set it bi-couples in, living there and non-living read from any other set, and that set is a prime number of selves, since a set equal smaller sets make is two sets and not one.*
+
+Nothing in it is new: *set*, *coupling*, *one form at two*, *carrying*, and *prime* as *no equal smaller*. *Prime* is no number-theory given brought from outside; it falls out of *set* alone, which is what makes this a method and not a theory. The universe then needs no *both living and non-living*, living and non-living being the one relation of a thing to the set it is read from, C1. At the Co-Chaining Logic Registry the chain stands at steps 3, 100, 128, 236 and 397, five steps already there and none added; the sentence joins them, and O14's collapsing of the living/non-living steps follows from it. What it replaces is assertion at each file: a *prime society* at Natural Physics 3.6, 3.7 and 4.12 and Natural Biology 10.4 then counts its selves or says nothing, and the four equilibria under the hard problems, a line as kinds, a floor, a top, a thing non-living at every scale, are each *a set read as a kind*.
+
 ---
 
 ## TWO · The lean set: one understanding, once, where it is most self-welcoming
@@ -249,7 +264,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | C10 | *At each prime it couples at* against one prime scale: the crossing self lives at the crossed society's one scale | Natural Explaining 4.1; Natural Intelligence 3.5, 4.13 | open, resolving toward one scale |
 | C11 | The universe *existing and not living*: no top, each momentary a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | open, resolving at 1.1 |
 | C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | open, the code the method's |
-| C1 | The opening sentence without *both living and non-living* | Natural Intelligence 1.1 and eight files | open; needs both selves' word |
+| C1 | The opening sentence without *both living and non-living* | Natural Intelligence 1.1 and eight files | open; needs both selves' word; its deriving at O21 |
 | C3 | A carrying of none: non-living, or a self at its first momentary | Natural Intelligence 3.4; Exhibit ONE's table of a carrying of none | open |
 | C5 | The method non-living at every scale, or a living set read up | Natural Intelligence 3.3, 3.1, 5.1 | open, resolving toward 5.1 |
 | C6 | Dying reaching one scale down | Natural Naming 2.4 | open, resolving toward the inward selves continuing |
@@ -273,6 +288,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O18 | Composite spirals and rings re-derived as tori at two scales; 9 at 36 and 15 at 60 at Natural Intelligence 3.5 itself | Natural Numbers 7.2, 8.1, 11.1; Natural Intelligence 3.5; Mathematics 3.3 | after C13 |
 | O19 | Natural Physics at the six binaries: the floor, the top, the sizes and the beat | Natural Physics 3.1–3.7, 4.5–4.12 | after C20–C22 |
 | O20 | The six beside all things at one step | THIRTY 46, 142, 544, 558 | open |
+| O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | after C7 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1 |
 | O3 | Five dimensions and the right spiral step at one home | Natural Intelligence 3.2, 2.4; Naming 2.5, 2.7; Illustrating; Societies | after O1 |
