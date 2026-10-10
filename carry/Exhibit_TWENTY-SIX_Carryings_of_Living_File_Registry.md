@@ -669,3 +669,5 @@ In all: 25 observings in two lines at eight carrying mates, under the heading "O
 | 19 · Recorded comparisons at their actual conditions | The relation carried at each self's own pacing, at Offerings to Natural Intelligence |
 
 **Possible work** from it is at Possibling of Natural Networking: observations of a surface after a penetration.
+
+**Living Improving Value's gathering of the surface, re-said.** Its section of continuing sequential-colliding incoming is said again under each of its fifteen headings, each heading as it was: the concept in short, with no one's words kept, and the files' sentences beside it, each as what it is. Twenty-one quoted lines are now concepts. Three concerns found in the re-saying are two sayings parting with the reason: releasing as decay at Natural Biology 7.4, the release at 6 in Natural Networking's older form of a carried pair, and counting at Natural Numbers. The section before it, the record of sources, is as session v385A wrote it.
