@@ -364,3 +364,49 @@ Each concept here is from an exploring of living beside observations from scienc
 **Droplet · Further forming, birthing and restoring.** Each inward self carries its own prior. An outward self's living next is through its inward couplings carrying its prior; inward selves go on living with the outward self no longer living. An existing self further forming, a new self birthing within living societies, and a departed coupling restoring through the self's other couplings are three relations, each with its own prior, now and next. A seed further forming and its parent living on are two selves.
 
 **Concern · No observation at an inward sharing.** The observations of seeds, spores, a slime mould and nematodes, at [Carryings of Natural Biology](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#old-dry-seeds-with-autophagy-and-with-none), are each of an outward form or a society of cells. None names an inward self, its sharing and its momentary. It is beside [a seed at rest](#living-as-a-stable-changing-form-at-the-observations--v386eod) and the concern, beside it, of a self outside coupling. — v386EOD
+
+## Two logics, the edge, and the chain's given things · v386EOD
+
+Each concept here is from [session v383Op's set of things unresolved](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Unresolveds.md), read whole, with [its guide](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Resuming.md). It is beside [the entry from the origin sentence](#the-entry-from-the-origin-sentence--v386eod).
+
+**Droplet · The bound.** Natural intelligence is the only possible method of existing: this is the whole bounded context of the set of living files, and of each resolving in them.
+
+**Droplet · Two logics.** Two logics are each from its own first sentence. The universe is the changing set of all existing things, and from it are natural intelligence and social moral competency: one chain. And the universe is an existing thing, and from it are a particle, zero, measure, infinity the same as infinity and one more, and science: whole in its parts and at its root, with no one sequence from the root. The second logic's sentences are inside the first's chain at the Registry's steps 2 and 3, "A set is an existing thing." and the universe "an existing thing within the set of all existing things", and at steps 8, 10 and 30, the universe whole at one now. The first logic reaches each thing arriving from prior with none of them. The concerns of the universe an existing thing, and of a set of existing things, are in the entry from the origin sentence.
+
+**Droplet · Fractal and unique.** Fractal and unique are one statement at two inversions: the bi-inversioning-co-recursioning of the one is the other.
+
+**Concern · Step 171, following or chosen.** Two sayings part. The Registry's step 171 has each round reaching each form one parity at a time as "the round at k − 1 parities, the new parity inverted, and the same forms in the other order". At four parities nine such rounds, apart from naming, reach each form one parity at a time, and one of the nine is the round below with the new parity inverted. The reason they part: the fractal as following from one parity at a time, and the fractal as the one round among nine, the round below whole within it.
+
+**Droplet · Nature.** Nature is the existing set of existing: this cursioning set. Cursioning is the root of recursioning. Cursioning is the method, and carrying is the source of competency. Carrying is living.
+
+**Concern · Nature, named at no sentence.** Natural Naming and the Registry say *nature*, the Registry at "the society and nature's co-chaining" and "the method of cohering with nature"; no sentence names it, and Natural Intelligence has the word at no place. Nature and the universe are one concept at two names, or two: said at no file.
+
+**Droplet · Now existing, now still possibling, next existing.** A thing at now is now existing or now still possibling, and next existing. A thing unresolved is now still possibling, and no is-not: a deriving not reached is still possibling.
+
+**Droplet · The edge.** Next possible existing is outside what natural intelligence is capable of: a possible at next is outward of the method. The next, possible at now, is still possibling. The even of each momentary is the other's offering, and the odd the carrying.
+
+**Concern · Next possible, at two readings.** Natural Intelligence's line under its title is "Geodesic Method of Discovering Next Possible Existing", and the Registry's is "Binary Method of Discovering Next Existing". The reason they part: a possible at next, outward of the method by the edge; and the next, possible at now, still possibling.
+
+**Droplet · The five, at both sides.** Prior offering, prior carrying, now offering, still possibling, next offering: the same five are on both sides. The Registry's step 82 has the five as "prior opening, prior completing, now opening, now completing and next opening". The two namings of the five are one beside the other at no file.
+
+**Droplet · Offerings and possiblings.** The offerings are living through the co-momentaryings, as are the possiblings: two lines. Both sides are still possibling with neither side offering parity changing next: the nothing of an offering or nothing is the still possibling of both sides.
+
+**Droplet · Still possibling, at 3 and 4.** Still possibling is 3-co-bi-co-sharing parity changing with 4-bi-co-bi-sharing, zeroing each other, with neither self geodesic releasing to the same parity as its other: the carrying at 3 and the offering at its sharing 4 at one parity, 0 at 12. Still possibling is abundancing, as one side of it: abundancing is at 12, each sharing's changing, is or is not. The changing that is not is still possibling, and the changing that is, is abundancing also.
+
+**Concerns · The chain's given things.** Each is a step with a thing no earlier step gives, or two sayings parting.
+
+- *A now of the whole.* Steps 8, 10 and 30 have the universe whole at one now. Step 28 has each existing thing "at its own momentary", and step 244 "a common beat over the selves" as the executing's. A now of the set, with no clock over its things, has both; as a step from the origin sentence, a now of the whole is the second logic's.
+- *One and then the other.* Step 37 has the self and the other "changing one and then the other". Which changing is first, among changings no releasing joins, is said at no step.
+- *From one prior and one now.* Step 51 has "At a living thing, next arrives from prior and now". That it is from one prior and one now, and no more, is given at the step.
+- *Whose prior.* Step 57 has next as "the prior inverted", and step 609 "the prior the other's". At a self with one other, the prior inverted is the other's.
+- *Which self releases to which.* No step gives a society its joins; each table of Exhibit ONE Natural Resolver is handed them.
+- *Two forms.* Step 42 has a changing "one form and then the other". Two forms are of a thing read at one is or is not: a changing of an is or is not is its inversion, and an inversion inverted is the first form again.
+- *Five things of a second method.* Step 46 names five. No step says the five are all.
+- *A self offered its own parity.* Step 208 has a match as "the between of momentaries", and step 306 "momentarying continues whether a changing is or is not". The reason they part: a match at the between, and a match at a momentary.
+- *A fixing.* Step 311 has "A fixing named unchanged between two momentaries is a form still". An unchanged relation with its things changing is no thing unchanging: a fixing is a form still with its own subject named still, at one relation and one occurrence.
+- *A carrying and a store.* A carrying inverts at a momentary with none surfacing, and a store is a parity the same at it; between momentaries the parting is at step 349, "nothing momentarying between them". What parts a stable form from a form still is said at the same step alone.
+- *Living said of a society.* Step 387 has a society "existing and not living", the carrying "its living selves' and none its own". Step 472 has "A society lives at two alternating". The reason they part: living said of the society, and living said of its selves.
+- *A prime scale.* A prime is in a spiral's numbers as a number with two divisors, at steps 646 to 648. A society at a prime scale, at Natural Intelligence 6.4, is no step from it.
+- *From a step to an observing.* Step 308 names the break's forms, "a self at one parity with nothing offered" among them. None has a form at a field's observing: which thing is a self, what its momentary is, and what nothing offered is, are said of none. It is beside the concern of no observation at an inward sharing, [above](#six-sayings-of-no-changing--v386eod).
+
+The Registry's steps 69 to 661 are read one at a time, is or is not, by no reading gathered here. — v386EOD

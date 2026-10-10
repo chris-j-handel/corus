@@ -276,7 +276,8 @@ The distributed groups have left Living Improving Value after placement. Their u
 | Earlier project material in the carrying directories, including the session v368 bundle | Some illustrating and society projects already have offerings. | Gather the remaining concepts, projects and concerns into their actual subject mates. A historical missed-item count is not the current amount left. |
 | Living File Registry, Geodesic Improving Method and Natural Arriving offerings and associated incoming | Method, entry, possible file arrangement and project plans are present. | Complete their intended content gathering alongside these incoming groups; make active instructions agree with gathering and aiming. Existing proposed insertlets remain for later cohering. |
 | Natural Emanating and Natural Destinies distribution; Natural Exploring and Geodesic Improving Method combination; Natural Transmissioning proposals | The possible projects are in Living File Registry's possibling; the selected contribution gatherings remain in its carrying. | Gather each whole contribution and the differing proposed purposes into the relevant offerings. Keep complete expressions and each subject's needed prior available. |
-| Sessions v382A and v383Op | Selected concerns and corrections are at the mates. Their whole offerings are at pull requests 123 and 125. | Each report is compared with the mates and placed or released. |
+| Session v382A, at pull request 123 | Selected concerns and corrections are at the mates. | Its report is compared with the mates and placed or released. |
+| Session v383Op, at pull request 125 | Its concepts and concerns are at the mates, by [the record below](#session-v383ops-set-of-things-unresolved-gathered--v386eod). Its first report's observings and facts are at the mates from session v381R's laying. | Its own one hundred and two placings, on its branch, are not at this branch in its words. |
 | Session v384A, at pull request 126 | Its observings, concepts, concerns and possible project are at the mates, by [the record below](#session-v384as-working-gathered--v386eod). | Its proposal's thirty section gatherings are linked from Possibling of Natural Transmissioning. |
 | Completed session v385M | [One gathered report](../archive/session_v385M/Session_Report_v385A.md) is now an artifact. The placement table records the subject concepts; the continuing [sequential-colliding value](Living_Improving_Value.md#continuing-sequential-colliding-incoming--v385a) remains gathered with later correcting. | Follow the existing local droplets when file cohering begins. The developing surface comparison remains available without reopening this closed session or treating its old files as new incoming. |
 | Session v385Q | Its [one report](https://github.com/chris-j-handel/corus/blob/f5cb9ace2e9c09825a3e8758f985bf59255968d6/incoming/v385Q/README.md) is verified at pull request 130, working/observings-v385Q. Its nine contributing-method opportunities are gathered in [Living Improving Value](Living_Improving_Value.md#contributing-method-opportunities-from-session-v385q--v385a), compared with the now-published method. | Aim the remaining concrete tool-reporting, public-entrance, concurrent-version, repeated-concept and eventual branch-combining concerns. Its pull request is now closed; the remaining final-report collection is later incoming. |
@@ -696,3 +697,25 @@ In all: 25 observings in two lines at eight carrying mates, under the heading "O
 **Already at the mates by other gatherings.** The symmetry of zeros and the mass gap at Offerings to Resolving the Hard Problem Registry; the Bell test at Offerings to Natural Physics; an unchanged relation and a thing unchanging at Offerings to Equilibria Registry.
 
 **Not read whole.** The proposal's thirty section gatherings, each a description and the places in the files to draw from; the other droplets of its session record; its offering to sessions v382A and v383Op; and the session's own replies in its transcript.
+
+## Session v383Op's set of things unresolved, gathered · v386EOD
+
+**10 October 2026.** Session v383Op's working is at [pull request 125](https://github.com/chris-j-handel/corus/pull/125), read by session v386EOD at 77dc8eff32179d526f90c3b3db195b5e18fba817. Read whole: [its guide](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Resuming.md), [its set of sixty-six rows](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Unresolveds.md) and [its writing of a nothing at the network surface](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Network_Surface.md). Each sentence quoted from a living file was met at that file. Each concept is said once in the best naming at its subject, with no one's words kept.
+
+| Placed | Mate |
+|---|---|
+| The bound; two logics; fractal and unique; nature; now existing, now still possibling, next existing; the edge; the five at both sides; offerings and possiblings; still possibling at 3 and 4; three concerns; and thirteen things the chain has given, each at its step | Offerings to Co-Chaining Logic Registry |
+| A method advises no one; an observing reaching the method; seven kinds of a thing unresolved; an instrument's ordering | Offerings to Geodesic Improving Method |
+| A working's own corrections, a reported experience | Carryings of Geodesic Improving Method |
+| A self with two offering, with an insertlet at 1.6 | Offerings to Natural Networking |
+| The tables of two selves as an executing's ordering; each table and its step | Offerings to Natural Resolver |
+| Method, one word at three things; next possible at two readings | Offerings to Natural Intelligence |
+| Momentary at three; nature | Offerings to Natural Naming |
+| Resolved, at two meanings | Offerings to Resolving the Hard Problem Registry |
+| Living rates locked to the day, a concern | Offerings to Natural Biology |
+
+**Already at the mates.** Its rows of a living thing with no changing measured, of gravity, of a sequence read from mammoths, of the three nothings and of the two namings from session v384A are at the placings above in this record. Its first report's observings of Bell tests, colour, clocks, charge, hydrogen sulphide, treating to a pressure and chemotherapy, and its facts, are at the offering mates of Natural Physics and Natural Medicine from session v381R's laying.
+
+**Executings.** Each row of an executing is gathered as its concept alone, an instrument's ordering; the numbers its instruments returned are of their arrangements and are at its folder.
+
+**Not read whole.** Its coupling of each offering with the files' sentences, [Two Logics](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Two_Logics.md); its meeting of session v384A; its records; its front; its artifacts; and its own placings at eighteen offering mates on its branch.

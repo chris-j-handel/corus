@@ -266,6 +266,10 @@ Concern, social moral competency at the white paper: the title is natural intell
 
 **Aimed at a sentence, Natural Intelligence, *a none at 14-bi-tri-bi-moralizing is no offering arrived at this sharing*:** Exhibit ONE Natural Resolver has two ways to none at 14: none offered, and "an offered 0 the parity at 2, surfacing none at 14". Opposed offerings surface a 0, and a self sharing 0 after matching is another place again. The sentence has the first way only; its insertlet is above. — v386EOD
 
+**Concern · Method, one word at three things.** At No other possible method, the one way existing things change; at A method, a non-living existing thing; and an object, "Exhibit ONE is an object that is the method". No sentence says the three one, and the first says *method* prior to its naming at the second. — v386EOD
+
+**Aimed at this file's line under its title, *Geodesic Method of Discovering Next Possible Existing*:** *Next possible* is at two readings, a possible at next and the next possible at now; the concern, with the edge, is whole at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#two-logics-the-edge-and-the-chains-given-things--v386eod). — v386EOD
+
 ## Recurring podaling beside the overlap · v385A
 
 **Droplet · The same number and a new still possibling.** [R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:

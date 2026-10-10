@@ -198,6 +198,10 @@ From Session Report v377, section 7 item 1, Ready for Natural Intelligence: "At 
 
 **Aimed at the code, Natural Resolver, 17-co-bi-tri-offering and 9-tri-bi-co-momentarying:** 5-co-bi-co-competencing arrives at 17 whole, and no name discovers which self a releasing reaches. The offered explaining and its insertlet are at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod), and the possible project at [this file's possibling mate](Exhibit_ONE_Possibling_of_Natural_Resolver.md#5-read-from-the-selves-carryings--v386eod). The concern of v380 above, a living self beginning to carry a sharing new to it, is at the same row. — v386EOD
 
+**Aimed at this file's tables of two selves:** Each is at one momentary of each self with the other, an ordering of the executing: the Co-Chaining Logic Registry has "a common beat over the selves" as the executing's. One and then the other is another ordering. Which arrangement the natural relation is at is said at no file; the concept of an instrument's ordering is at [Offerings to Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#an-observing-reaching-the-method-and-a-thing-unresolved--v386eod). — v386EOD
+
+**Droplet · Each table and its step.** Each table of this file names no step of the Co-Chaining Logic Registry deriving it. — v386EOD
+
 ## Recurring podaling beside the overlap · v385A
 
 **Droplet · The same number and a new still possibling.** [Session v385R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:

@@ -198,6 +198,8 @@ The whole enters R(5, 5) as every pair related at once. A society in this sense 
 
 **Aimed at a sentence, Resolving the Hard Problem Registry, *the possible singular set thins to dimension zero*:** Beside the droplet at [Offerings to Hard Problem Registry](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md#droplets) with its publishing: the theorem has the singular set's parabolic measure of dimension one at zero. Its insertlet is above. — v386EOD
 
+**Concern · Resolved, at two meanings.** This file has "a resolving settles nothing still", and the Hard Problem Registry has problems settled at their own lines. *Resolved* is said of a naming resolved at its coupling, and of a recorded problem answered: two sayings, each its own, and the first is no second. — v386EOD
+
 ## The field’s question and the particular resolving · v385A
 
 The hard-problem concern distinguishes an output constrained by a definition from resolving the field's question. A resolver returning plus, minus or zero cannot yield a fourth because of its stated cases; a reported 255 arrangements need not add a further result. An explaining accommodating either empirical outcome, including the Hubble-tension example, still needs to show what is resolved. The zeta-zero example places a statement that truth value is untouched beside naming an off-axis zero a contradiction. Preserve the exact relation that would resolve that apparent difference; neither “re-saying” nor “resolved” alone answers it. The requested comparison is a particular resolving with its actual alternatives and why the natural explaining covers it, without imposing prediction as the method's required authority.

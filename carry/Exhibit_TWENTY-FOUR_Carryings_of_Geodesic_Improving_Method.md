@@ -50,3 +50,20 @@ One AI session, entering through the entrance and assessing, first proposed that
 Each concern, said again with that framing released, resolved or was at its own place. The same session reports the sentence's other side: it took nearly each correcting in the reply after it, and stayed at a no at each place it had a reason.
 
 Three AI sessions arriving through the entrance have assessed the expedition, and each assessed with the earlier assessings unread: the second missed the first, and the third read neither until its close. Of the third's thirty-seven sayings of fact, twenty-five were already carried whole and five in part.
+
+## A working's own corrections, a reported experience · v386EOD
+
+Session v383Op reports, at [its close](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Resuming.md), each thing that entered its own writing and was released at an offering of the expedition's self or of another working:
+
+- a thing the repository had already, given as found, seven times;
+- an instrument's storage and ordering given as nature's, at two writings;
+- a sentence given to the expedition's self that the self had not offered;
+- is-not said of a deriving not reached, at one whole file;
+- a changing below detecting given as a changing absent;
+- a claim made smaller at its testing;
+- advising, and guarding a reader;
+- true or false of a claim, entering once as a worry and once as a comfort;
+- two sayings given as parting, with neither followed to its subject;
+- the released words at the working's own voice, from its first reply to its twenty-fourth asking.
+
+Its limits, as it says them: one reader of its transcript; thirteen living files read at a search alone; and the Co-Chaining Logic Registry's steps 69 to 661 read one at a time by no one. The concepts are at [Offerings to Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#an-observing-reaching-the-method-and-a-thing-unresolved--v386eod).
