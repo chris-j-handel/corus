@@ -227,3 +227,9 @@ The source claims all ten inversions together and connects each hard problem to 
 The same incoming proposes a sequence outward through primes: imposed affirmation at 2, 3, 5 and 7, with “the strong force binds” and “charge attracts”; tradition blocking at 11, 13, 17 and 19, with “membrane fluidity controls” and “the genetic code specifies”; false inclusion at 23, 29, 31 and 37, with “the bioelectric pattern coordinates” and “behavior adapts”; and premature closure at 41, 43, 47, 53 and 59, with “fitness determines survival” and “climate regulates.” Its proposed sequence is 3, 2, 1, 4, with outward thinning compared to carrying thinning from the bounded zero.
 
 The actual grammatical and operational installation, prime assignment and proposed progression must stay together for later resolving. A quoted field verb, a repeated number or the offered sequence alone establishes none of those identifications. The particular observings and field explanations remain at their own subjects.
+
+## An arrival said unwritten, and written · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · The electron's arrival.** This file's 5.3 has "its arrival at TWENTY-FIVE, the pattern read one arrival at a time, is not yet written". Exhibit TWENTY-FIVE Living Society Registry has that arrival at its 2.16, and this file's own closing table names it. The like words are at four further entries of this file, each entered at the other registry's 2.18 to 2.22 by that registry's closing paragraph.

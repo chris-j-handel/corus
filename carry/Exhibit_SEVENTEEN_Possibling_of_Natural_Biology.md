@@ -49,3 +49,13 @@ A next pass can follow one described occurrence through both explanations: what 
 ## Cases for living as a stable changing form · v386EOD
 
 **Possible project.** Each is a case named beside [living as a stable changing form](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod) with no observation brought, and each may change or never be made: a virus particle, beside this file's "inert outside a host"; a spore and a frozen embryo, beside the seed at rest; a prion; a made cell continuing of itself, the one reported being fed and making no ribosomes of its own; a crystal dissolved and its solution, beside a seedling and its seed; a flame begun at a spark, beside living arriving from living; a whirlpool, a river and a star.
+
+## The doubled genome at its own couplings, 8.8's step eight, and the seed at four sections · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** The sentences of chromosome pairing, cell and lineage at the insertlets for 5.1, 5.5 and 9.1, each followed at its own couplings, a form copied and a living carrying each its own, through the societies' living stable-forming.
+
+**Possible project.** 8.8's step eight, its offered experiment, followed at its own changing.
+
+**Possible project.** The seed beside four sections: 4.1's inert, 4.5's inward coupling and dormancy, 5.2's possible further form, and 7.8's form, rate and carrying.

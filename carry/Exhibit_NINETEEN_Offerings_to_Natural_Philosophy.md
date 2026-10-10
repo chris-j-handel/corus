@@ -150,3 +150,9 @@ Natural Intelligence Corus's Observers opening offers the natural torus's surfac
 The same passage expressly keeps the reader at the writing's coupling, scientist at the experiment's coupling and institution at society's coupling as actual observing relations. Preserve both parts: the proposed outside position and the observer participating at a coupling. Its assertion that everything is living is older wording; the current living/non-living distinction is not removed by gathering it, and every self being geodesic does not by itself classify every existing form as living.
 
 Living Ghost Registry sections 1.2 and 2.2 already keep field observing, accounting and an actual installation distinct, and locate the ten one-way projected positions. An instrument, a measurement or a reader is not made a ghost merely by being named. The unresolved relation is the particular installation the natural explaining identifies at the same observing, without discarding that observing or inventing an outside controller. The remaining observer readings in Corus stay incoming at their recorded extent.
+
+## Eight worked seams and thirty-seven · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · Worked seams, at eight and at thirty-seven.** This file's 5.1 has "Eight rows are met at a seam worked through the six steps, and the rest are met at one line here", and its 6.2 "The thirty-seven worked seams"; its third part has sections 3.1 to 3.37. One thing is at two numbers. A row names its worked seam at a seam written; a row with its re-coupling at the row alone has its seam as next exploring.

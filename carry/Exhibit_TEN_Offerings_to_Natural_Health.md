@@ -85,3 +85,11 @@ Keep Health's carried-whole, re-locking and attentioning wording beside the curr
 ## Continuing life and the outcomes of pacing · v385A
 
 **Droplet.** Retain the distinction between preserving life, worse functioning, continuation for less time and no carrying into a next living. They are different possible observations. The [heart’s pace found at each beat](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a) and [engineering’s controlling concern](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#controlling-and-the-hard-problem-made-by-engineering--v385a) retain their proposed relations and actual comparisons. Neither an imposed rate nor an adapting rate alone supplies the health outcome.
+
+## Sentences leaning on the older bound, and three further places · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · The older bound, at 3.4, 4.1 and 5.2.** This file's 3.4 has "Ingest a flawed form once and the attentioning ages it out; ingest it consistently and the flaw seats into the carry", parting one offered form from offerings repeated by a releasing at a bound, and reaching to a food as a cause; the carrying table now, and an offering repeated, give no such cause. Its 4.1 has "the carry aging by attentioning and staying fresh by sequencing", and with 5.2 carries the older doing into living, departing and restoring; the Registry's steps 411 and 412 have the departing and restoring to follow. The whole concern is at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#the-parity-of-a-sum-the-older-bounds-sentences-and-three-subjects-at-a-reservoir--v386eod).
+
+**Droplet · Three further places.** At 3.4b, an accounting in numbers names no biological relation and no value of one ingesting. At 5.1 and 5.2, a saying repeated in the file's own gathering gives no prior relation, and its correspondences are reachings.

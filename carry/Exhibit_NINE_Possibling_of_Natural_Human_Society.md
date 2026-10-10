@@ -31,3 +31,13 @@ Natural Human Society Possibling · v386EOD
 ## Turn-taking in conversation · v386EOD
 
 **Possible project.** This file names a measuring of a science, "turn-taking in conversation runs one-at-a-time with gaps near a fifth of a second", with no publishing beside it. The measuring's publishing, in two lines, is possible work beside it.
+
+## The two-person whole through the eight, the arrangements at 2.3, and the capture sentences · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** The two-person sequence followed through the eight uncapturings at 1.1 and 3.3, the cake and the value at the coupling as two subjects, with what the whole asks said beside Natural Values' "No present human society runs it whole".
+
+**Possible project.** At 2.3's court, trustee and closing date and at 3.3's arrangement: each followed as an arrangement the selves couple at, each at its own opening, or as one giving the selves their openings, beside the Registry's step 484.
+
+**Possible project.** 4.3 and 4.4 said with no majority deciding and capture at no place at the coupling, each self's prior and offering followed into next, and no saying of each self's offering.

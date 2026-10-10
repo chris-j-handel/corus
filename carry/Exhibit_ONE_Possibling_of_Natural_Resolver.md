@@ -45,3 +45,9 @@ The possible six-forward comparison of the three workings is at [Possibling of C
 ## 5 read from the selves' carryings · v386EOD
 
 **Possible project.** At 17 the releasings at 5 arrive whole, and no name discovers which self a releasing reaches. The [offered explaining at Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod) has a sharing carried by both selves of its coupling, and each releasing reaching the other carrying that same sharing. The project is to say this at Exhibit ONE's names and stable forms: what 5 is where it is read from the selves' carryings at 3; what a sharing carried by two selves is at 4; and which of the tables' stable forms are the same there. It can remain a project and never be implemented. — v386EOD
+
+## The fourths followed to their next openings · v386EOD
+
+Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. 4 to 5, 8 to 9, 12 to 13 and 16 to 17, each followed through its named places beside the across offerings at 2, 6, 10 and 14: the sharing, the self's carrying wound, the entraining and the society wound, each at its next opening.

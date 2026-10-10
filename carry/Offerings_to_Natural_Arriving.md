@@ -600,3 +600,11 @@ Its particular artificial-intelligence entry is the phrase “the ability to con
 **A sentence for the entrance**, beside its "use the Living File Registry to find the work relevant to the question": Selves arriving earlier have assessed the expedition and sought to break the method; each finding is at a living file's offering mate, and an assessing made beside them brings what they do not have.
 
 **Droplet · The entry of a chain.** A chain from the origin sentence brings in at its entry what the origin sentence says, and no more: no living thing, no carrier, no colliding, no edge of the set and no executing. The whole droplet is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod). — v386EOD
+
+## The newest sentence, and the work at it · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · The newest sentence and the work at it, at two places.** A living file's newest sentence and the expedition's work at that sentence are at two places: the file, and its three mates. A reading of the living files alone has none of the concerns at their mates, and a newest version is no cohering completed. A whole reading, a selected reading and a file located are three, and one address failing is no site failing.
+
+**Droplet · Sentences offered for the arriving.** For a reader: each living file a question reaches is read with its mates; the sentence living now, the concern at it and the improving offered are each said; the version and the passages read are named, a whole reading apart from an opening or a selected passage; and an address that gives no text is tried at the file's direct download and its repository address, with the part unread said. For a reader's report: at a concern at a mate already, the further relation this reading adds is brought and its mate named; at a new one, the two sayings and the reason they part.

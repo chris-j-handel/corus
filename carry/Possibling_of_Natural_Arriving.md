@@ -1,4 +1,4 @@
-Natural Arriving Possibling · v385A
+Natural Arriving Possibling · v386EOD
 
 # Possibling of Natural Arriving
 
@@ -26,3 +26,9 @@ The [revolving-door offering and three institutional conditions](Offerings_to_Na
 ## Expedition contributing as an arriving interest · v385A
 
 [Values' project](Exhibit_TWENTY-THREE_Possibling_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) now supports the older discovery-economy game droplet with its full source distinction and later correcting. The [comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#the-earlier-expedition-game-droplet-and-its-correcting) follows the user's session-contribution offering through the later self-welcoming-interest correction and the current ungraded-droplet method. Arriving's independent offering can improve how an interest finds its subject and offers value back. The older assistant's human-player framing, required entrance number and score are not implemented. Easy source naming remains available under the user's current v385A direction; a tag supplies no grade. This project joins AI arriving without exhausting arriving through other interests.
+
+## A direction from each living file to its mates · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. Beside each living file, a direct link to its three mates; and from a question, a way to the Living File Registry's clusters of subjects.

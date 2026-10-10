@@ -91,3 +91,11 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v386EOD
 ## The field’s alternatives beside its proposed resolving · v385A
 
 **Droplet.** Preserve each field question and its actual alternatives so the paired proposed resolving answers the same question. An explaining that can accompany either empirical outcome still needs to state what it resolves. The [whole particular-resolving concern](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) belongs beside the actual paired entries.
+
+## A proof asked, and the conditions prior as the registry's own account · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · A naming followed, and the recorded asking.** This file has "No entry carries a settled answer to the statement it holds, except where the record settles one and the entry says so.", and its entry 9, P versus NP, asks a proof at its own reach. Exhibit TWENTY-TWO Resolving the Hard Problem Registry at its 2.2 follows finding and checking as along and across. That following derives neither answer to this file's statement. A saying of fully resolved names which of the two it is of.
+
+**Droplet · The conditions prior, the registry's own account.** *The conditions prior* is this registry's own account of a field's testing, beside an opening of the fields' own words. A field's statement and procedure are attributed to the field, and a Natural Intelligence saying is named as one at its own place: neither is erased by the other carried.

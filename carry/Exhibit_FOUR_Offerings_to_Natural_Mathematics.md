@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics Offerings · laid at v381R · improved at v385A
+Exhibit FOUR Natural Mathematics Offerings · improved at v386EOD
 
 # Offerings to Natural Mathematics
 
@@ -127,3 +127,9 @@ The earlier topological comparison also remains available: a closed orientable s
 ## Next at the named prior and actual offerings · v385A
 
 **Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.
+
+## Three parities inverted together, and one numbered pairing · v386EOD
+
+Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · Three parities inverted together is no one numbered pairing.** Three binary parities inverted together pair the eight forms as four pairs, with no form its own partner: a relation of three parities, position, scale and orientation. The one pairing of sixty to sixty-eight about 64 names none of the three, and has 64 its own partner. The four exchangings about 64 are a numbered passage, no four resolver entries of a form emanated, and no clock. It is at this file's 3.5, whose title has *bi-tri-involutioning*, a naming Offerings to Natural Naming has as released for *bi-tri-involution*.

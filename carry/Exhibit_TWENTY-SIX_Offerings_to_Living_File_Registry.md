@@ -371,3 +371,9 @@ A fresh reader reads each *Natural observation* line again at its publishing bef
 **An observing's two lines.** *Natural observation*: the thing observed, by its doing, at its conditions, with its publishing. *Science explanation*: said apart, and remaining with its science.
 
 **In this gathering.** Each observing of session v386EOD is at a carrying mate in those two lines. Each concept, concern and insertlet is at an offering mate. Each possible observing or resolving is at a possibling mate, as possible work that may change or never be made. — v386EOD
+
+## Eight ways through the set · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · Eight ways through the set.** Eight ways in overlap, each opening at value the files have: through a subject's four tellings; one concept followed along its explaining; two sayings at one momentary; one observing through its accounts apart; a form at its own conditions; a scale changed with the selves carried; several whole expressions offered; and value followed into its mate, a report delivered being no value placed. Eight is of no resolver form. The best file for a relation is the one making that relation clearer: a file's version, length, links or words repeated decide none.

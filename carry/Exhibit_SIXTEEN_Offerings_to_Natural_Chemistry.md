@@ -153,3 +153,11 @@ Keep the material arrangements, conversation value and writing contribution avai
 ## The element count and the turn at sixty · v385A
 
 **Droplet.** The 118-element comparison needs the relation between the actual elements and the offered form, not a matching count alone. The incoming turn-at-sixty question belongs with the existing concern here: Natural Chemistry says no element carries at sixty, Natural Physics names a turn at sixty, and Natural Numbers names the between of going and returning. Name whether position or between is intended at each actual relation. The [complete numerical-comparison gathering](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) keeps the distinct subjects.
+
+## A bond at coefficient one, said as possible and said as it is, and the reach of one observing · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · A bond at coefficient one, at 1.2 and at 1.4.** This file's 1.2 has "This is a pattern-reading, and the stronger reading, every molecule living and every bond at coefficient one, stands open to bond order, energy, density, geometry and reaction breaking it". Its 1.4 has "Bond at coefficient one is a bond with nothing beside it". They part at one saying said as possible and said as it is: its deriving is at a sentence, or it is said as proposed at 1.4 too.
+
+**Droplet · Clusters at zero external resistance, and the six positions.** At 5.6, "the observing that decides the reading is multifrequency clusters at zero external resistance, is or is not", and "one row refusing the correspondence refusing all six". The observing is of the dependence on the global coupling term; the correspondence to the method's six positions is derived at each position, and by no cluster observed.

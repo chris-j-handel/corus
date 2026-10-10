@@ -26,3 +26,11 @@ Gather Natural Medicine's distinct contribution beside Natural Health before fol
 
 - At the droplet aimed at a sentence, Natural Medicine, *The serous membranes, one coupling at one prime. Five locations wrap one coupling*: Resolving at the paragraph's naming, and an observing of the layer at the synovium and at the meninges.
 - At the droplet aimed at a sentence, Natural Medicine, *Every one of those is the cell doing with its own machinery what it does with every sequence it carries*: Resolving at the sentence, and the observing's own report of the integrating.
+
+## 3.1's two departures at the sequence now, and one trial's passage · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** 3.1's two departures and what it says ahead, the cell society and the surface society and the restoring of one at the other, followed through Exhibit ONE's sequence now, both societies named and the next said for each.
+
+**Possible project.** The study at 4.3 and 5.1 opened at its publishing, for the passage of twenty-four weeks.

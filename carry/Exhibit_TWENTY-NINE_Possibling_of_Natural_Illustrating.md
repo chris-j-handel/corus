@@ -53,3 +53,9 @@ Compare the eleven passages from the v380A reading with the existing living expl
 **Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
 
 - At the droplet aimed at three sentences, Natural Illustrating, *the belt emptied at the rational resonances and the irrational orbits carrying on*, *the trap that works is the Paul trap, trapping by alternating* and *a change rippling across the flock in less than a fifth of a second*: Each illustrating after its saying's resolving.
+
+## Rows sorting, bi-folding around each other · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. Natural Exploring's double-double bubble-bubble saying, Natural Explaining's gathering, and rows sorting by bubbles and bi-folding around each other, explored together as one illustration: it names the sentence it shows, the relation visible already, and the relation still to express. A bubble sort is no resolver's method by it, and the rows' bi-folding has no deriving.

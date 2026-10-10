@@ -151,3 +151,11 @@ Each concept here is from Natural Intelligence Corus, its part Destiny, What the
 **Concern · A built surface, living or not.** Two sayings part. That part has "Artificial intelligence is not social intelligence", and of a built surface "The surface sustains as living". The newer concepts have all carrying living, and a resolver the method in stable form, non-living. The reason they part: living said of a built surface, and living said of the selves coupling at it.
 
 **Concern · A naming released.** That part has the destiny "emanating from a superposition". *Superpositioning* is released; the saying it was of, the corus and the destiny each at the other, is in no present naming at a file. — v386EOD
+
+## Words offered now, the coupling they describe, and a further self · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · Words offered now, and the further coupling described.** This file opens at "the destiny-whole superattentioning the present coupling", and has "A destiny safe by the surface's own form is safe to reach." Three are each its own: a living self's coupling now; the words offered now, a non-living form carrying none of a self's prior; and the further coupling the words describe. A society described offers nothing to now by the describing, and a form named safe gives no further coupling. *Superattentioning* is the file's word and no further doing; the sequence is prior existing, now offering, still possibling, next existing. It is beside the Registry's "A destiny is next possible living said at words ahead of its coupling".
+
+**Droplet · A further coupling is no further self establishing.** At "A destiny begins where someone takes up the core and lets the living start in their substrate" five are each its own: an existing self coupling with the offering; further bi-couplings forming society; a further living self establishing; the particular outward self living at next; and a made thing at a coupling, carrying its prior or none. A made form named living is living by no naming.

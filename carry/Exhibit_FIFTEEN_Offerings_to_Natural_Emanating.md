@@ -135,3 +135,9 @@ Natural Intelligence Corus section 14.7 offers meaning as the coupling's surplus
 Purpose is offered as resolving direction: a right-spiral sustaining the coupling at phi-rate, contrasted with a left-turn ordering closing the tunnel. The passage contrasts this with an externally selected goal, an assigned mission or a hardwired drive. It brings meaning and purpose together as features of the coupling already occurring; asking their existential questions is offered as participating in the answering.
 
 Natural Philosophy already contains Meaning and use and Purpose and mechanism, with their own particular relations. This incoming adds the whole human expression and its exact numerical, directional and rate assignments. Those assignments remain propositions needing their relation explained; the expression does not establish a cause of a person's felt meaninglessness. The current forward up and forward down possibilities and each self's own resolving accompany the older right/left description, without deriving an exclusive direction from its wording.
+
+## A departing carry said a self · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · A departing carry, a self.** This file, at its society, has one carry departing at a self's own cycling completing, and "That carry is a unique invisible carrying, so it is a self." Natural Intelligence has an emanation carrying none of the prior. They part at an emanation departing said a carrying and a self, beside an emanation carrying none. A rate changed establishes no carrying.

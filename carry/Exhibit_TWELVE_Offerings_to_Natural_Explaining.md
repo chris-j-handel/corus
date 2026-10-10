@@ -1,4 +1,4 @@
-Exhibit TWELVE Natural Explaining Offerings · improved at v385A
+Exhibit TWELVE Natural Explaining Offerings · improved at v386EOD
 
 # Offerings to Natural Explaining
 
@@ -350,3 +350,13 @@ The current sign-only relation gives no access to another self's private carryin
 ## Positive explaining and the actual opposing observing · v385A
 
 **Correcting droplet.** Dissolve the added negation “nothing is beside all existing things” and exclusions derived from it wherever they occur here. Explain the actual relation positively. Preserve negations that name an actual possible opposing observing, such as living not alternating or not natural torusing. A correction of prior wording is not a new premise. The [full origin and possible-break explaining](Offerings_to_Natural_Intelligence.md#the-origin-positive-explaining-and-the-possible-break--v385a) retains the set’s changing and the whole claim.
+
+## A carrying offered across re-said, importancing, and the origin at two statements · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · 4.9's carrying offered across, re-said.** Beside the concern at this mate of "that self's own carrying shown, and that carrying offered across": each self offers at its own opening and carries its own prior into now; the other's changing arrives as an offering; the offerings surface; at each sharing a changing is or is not; the self's own carrying is chained, and the changing is shared across as the other's next offering. At 0 shared no carrying is shown whole by a sharing. An equality of offering and its other side adds no step, and appreciating is no carrying shown or handed across.
+
+**Concern · Importancing, and the namings at its place.** This file's 4.9 has "Importancing is one move at each of its membranes". Natural Naming has "A new naming carries a changing or a direction new beside each existing naming's". Laid at a self's momentary opening odd and completing even, its now completing at next possible existing, importancing is at a place four namings carry already: bi-momentarying now, entraining at the self, is-still-possibling and is-next-existing, and co-intelligencing. With one changing or direction beside bounding, offering and co-competencing said, it is a naming of its own; with none, it releases to those.
+
+**Concern · The origin at two statements.** This file's 1.4 has each file opening at the origin, "our universe is all existing things, and alternating is a stable-forming method", "its two statements re-explained at none". Natural Intelligence and Natural Naming open at the one changing set of living and non-living existing things. They part at two opening statements beside one: the alternating is at its own deriving from the one, or said as given.

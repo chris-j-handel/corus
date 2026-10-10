@@ -1,4 +1,4 @@
-Living File Registry Possibling · v385A
+Living File Registry Possibling · v386EOD
 
 # Possibling of Living File Registry
 
@@ -365,3 +365,9 @@ The proposal receives a hardness as sequencing reversed, the three reversals, on
 Proposed Part 5 The object carries Exhibit ONE's stable forms: the code, the names, the connectors, the code at its names read line by line, the forms, the rings and traces as evidence, Exhibit ONE inside at its origin, with formal support at the Natural Networking TWO Improving Kit and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
 
 The proposal belongs to the possible Natural Intelligence arrangement. It retains the object’s code, names, connectors, tables and reported evidence as distinct contributions, with the two supporting kits at their actual scope. Its inclusion or citation of Natural Resolver remains possible work; the earlier part number does not establish a current receiving location.
+
+## A first whole following of the living set, section by section · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. Each living file and its offering mate followed in the order of its sections, each section's relation recorded, and each relation across files followed: what is given, what is conditional, what is offered for improving, and the missing or opposing step. One order: the Registry's step 35 through one self's couplings; Natural Intelligence from its opening, beside Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry; Exhibit SEVENTEEN Natural Biology and Exhibit ELEVEN Natural Medicine whole; Exhibit TWO Natural Networking, Exhibit FIVE Natural Engineering and Exhibit SIX Natural Transmissioning; and the further files and registries, with one last following across the set of each changed relation into the sayings leaning on it. Five files have such records in session v382A's working: Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health. Seven groupings of the set are named for it: existing, resolving and numbered forms; self, society and value; coupling, networking and making; physical, chemical and biological changing; naming, explaining, illustrating and emanating; problems and the registries; and exploring and improving the files.

@@ -50,3 +50,15 @@ The later [section-104 route correction](https://github.com/chris-j-handel/corus
 - A resolving sentence for a self not bi-coupling: its momentaries, and the offering at them.
 - One at a time, and whose prior is inverted at the living step.
 - A natural observation of a self at one parity for a length and changing again: the seeds germinating after two thousand years are one, in session v385Q's report.
+
+## Parities followed through the named exchangings, step 660 written out, and one sequence to the surfacing · v386EOD
+
+Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** The pairs in overlap at a spiral are of carryings. Exhibit ONE's five-parity table names its carried columns along and its shared columns across. The + and − are followed through *A self's four momentaries of exchanging*, self/other, self/other to other/self, other/self, other/self to other/social, with the subject and the scale named at each side of an exchanging: the named across and along pair is this sequence, or another whose overlap is its own following. One scale's fixed subjects are no whole of the fractal.
+
+**Possible project.** Step 660 written out at the first 0 shared across, with the along offering said. At a self carrying a parity an across offering changes the result at two cells alone, step 658, "The across offering alters two cells alone": along its own parity with across the other, a parting, the prior inverts; along a 0 with across its own, its own surfaces and no changing is shared. At momentary 2m + 1, with p the parity both crossing selves carry, the lesser spiral's crossing self is offered 0 along and p across, shares 0 and is at p; the greater's is offered −p along and p across, shares −p and is at −p. At the next momentary the lesser is offered −p across and inverts; the greater is offered the lesser's 0 across and p along and inverts to p. One of the two across offerings after the first row is a 0.
+
+**Possible project.** One sequence from steps 32 to 37, through Exhibit ONE's two-self five-parity form and the further couplings at steps 178 to 181, to the surfacing at steps 204 to 212. At each step: other as one particular self or the couplings together; whose prior is carried; and the relation making the next. It is beside [Possible work at the entry from the origin sentence](#possible-work-at-the-entry-from-the-origin-sentence--v386eod).
+
+**Possible project.** A form named as arriving at itself, a circle, 360 or a spiral the other way, followed for the one coupling it leaves out: a completing is of a further now, at a match too, and a closing names the form reached as the whole with the next's arriving left out. It is beside Natural Mathematics, "A station reached again is the closing's, at a next momentary, and no prior momentary is reached again".

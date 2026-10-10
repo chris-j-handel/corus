@@ -207,3 +207,13 @@ The hard-problem concern distinguishes an output constrained by a definition fro
 Keep the field’s question, its alternatives and the particular natural relation together at the relevant registry entry. The [gravity-statement concern](Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md#the-gravity-statement-and-its-actual-observing--v385a) retains its observed-phenomenon question at Natural Physics.
 
 [The older and newer ten and their unresolved correspondence](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#the-older-and-newer-ten-and-their-unresolved-correspondence--v385a).
+
+## Resolved at P versus NP, the marker at the Poincaré conjecture, and a genome doubled · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · Resolved, at P versus NP.** Beside the concern at this mate, *Resolved, at two meanings*: at 2.2 this file follows finding and checking as along and across, and the Hard Problem Registry's entry 9 asks a proof. Two meanings at the two files are both. A resolving reaching to an answer at the recorded asking shows its relation at that entry, and an asking changed through the comparing answers no first statement.
+
+**Concern · The marker, and a nought, at 3.22.** At the Poincaré conjecture the marker is "+ or − at 10, is.", and the entry's own sentences have "the arrival takes no parity anywhere, which is a nought arriving whole" and "No loop caught, no tunnel, no gap at the running". A + or − at 10 and no parity at any sharing part at one entry, with no two subjects named for them.
+
+**Droplet · A genome doubled.** The insertlet at this mate of a genome doubled as each sharing arriving twice alike is beside the concern at [Offerings to Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#one-parent-a-genome-doubled-the-fragment-the-worm-and-living-again--v386eod).

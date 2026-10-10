@@ -167,3 +167,9 @@ Each concept here is from Natural Intelligence Corus, its sections Closing and U
 **Droplet · A self resolving at its own surface.** A self resolves at its own surface alone: the gut at its own, and the food arrives. A resolving aimed at another's surface takes value at that surface.
 
 **Released.** The same sections lay each number of a rising, 1 to 64 and 118, beside a hard problem. A number alike is no relation, and each is released as a deriving; the hundred and eighteen is a concern at [Offerings to Natural Numbers](Exhibit_THREE_Offerings_to_Natural_Numbers.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a). — v386EOD
+
+## The living step at a spiral of one · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · The living step, at a spiral of one.** This file's 4.3 has "Next as prior inverted is the living step." and "the living step is at a spiral of one". Natural Intelligence has "A lone self changing by itself, offered nothing or its own competency alone, does not continue living through three consecutive momentaries". They part at the one inversion alone named the living step with no such bound beside it: the momentary the term names is said at 4.3.
