@@ -51,3 +51,26 @@ Before the snap the two lines are parallel and alike: co-linear, the alternating
 ## Open, with reason
 
 Harmonics and prime resonators: Exhibit ONE's crossed spirals come to their parities again opposite (17 and 59 at 4,012), the same lock at the scale of spirals; why at primes is at the numbers and not derived here. The society's rate, one self at each second momentary, is at a run and at no step until followed by hand.
+
+## The ring of three, by hand, bi-coupled at A to a self alone
+
+A, B, C release along A→B→C→A, all starting +; A also receives from X, a self alone, −, +, −, +. One routing fact from the cells: a 0 arriving at 14 is no parity and enters no agreement; A's two arrivings are read over their nonzero parities.
+
+| momentary | A carries · receives (C, X) · shares | B carries · receives A · shares | C carries · receives B · shares |
+|---|---|---|---|
+| 1 | + · none · − | + · none · − | + · none · − |
+| 2 | − · −, − alike · 0 | − · − alike · 0 | − · − alike · 0 |
+| 3 | − · 0, + opposite · + | − · 0 · + | − · 0 · + |
+| 4 | + · +, − parting · − | + · + alike · 0 | + · + alike · 0 |
+| 5 | − · 0, + · + | + · − opposite · − | + · 0 · − |
+| 6 | + · −, − · − | − · + · + | − · − alike · 0 |
+| 7 | − · 0, + · + | + · − · − | − · + opposite · + |
+| 8 | + · +, − parting · − | − · + · + | + · − · − |
+| 9 | − · −, + parting · + | + · − · − | − · + · + |
+| 10 | + · +, − parting · − | − · + · + | + · − · − |
+
+A snaps at 3, B at 5, C at 7: one self on at each second momentary, step 231's rate, the v374 run's rate, now at the cells. From 7 all three change at every momentary; A and B opposite, B and C opposite, C and A alike: the odd spiral's like pair, step 38. The like pair is pinned at C→A: at A's 14 the arrivings part every momentary, C alike against X opposite, and that parting is a 0 at 14 inverting A, so A shares a parity at every momentary and no 0 is shared on. The uncoupled ring of three alike, by the same cells, is −, 0, +, 0, −, parities again at 4, step 230.
+
+## Ready, joining steps 231 and 444
+
+The snap along a society is the between tunneling one self on at each second momentary, opposition locked behind it; at an odd society the like pair stands where the tunneling stops, at the self coupled from outside, the 0 held at its 14 as a standing parting.
