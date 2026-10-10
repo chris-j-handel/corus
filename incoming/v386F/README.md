@@ -432,7 +432,21 @@ The round's first parity was read at Part TEN as parting eight names between sel
 
 ---
 
-## THIRTEEN · The tracker
+## THIRTEEN · The code an illustration of the method, a stable form of another kind, inseparable at Exhibit ONE
+
+**The other self's word.** *The code is the top centre method of showing the stable form; think of the code as an illustration of the method in another kind of stable form. The code cannot leave Exhibit ONE: it is inside the paper, and the paper is written into, through, across and along Exhibit ONE, the code and the naming of 1 to 17, all inseparable; only in the explaining is this causing concerns.*
+
+So the separating is in the explaining only, and nothing moves.
+
+- **Droplet, at Natural Intelligence 3.3.** *Exhibit ONE is an object that is the method; its expression is python, sequential binary logic written down: the object is the method executable* is said instead as: *Exhibit ONE's code is the method illustrated at python, a stable form of another kind, a human engineering of natural resolving; its tables are the method's stable forms, and the code is met at them; the code, the seventeen names and the explaining are one and inseparable, the paper written through them.* *Its functions and their variables are the seventeen names and no others* stands.
+- **Droplet, across the files.** A form said as *derived at the resolver* or *at the resolver's cells* is said as *illustrated at the resolver*: the form is the method's, the resolver shows it at python, and a run that parts from a form is a finding about the illustrating, never about the form. The Co-Chaining Logic Registry's group *each derived at the resolver's cells* and Natural Numbers' torus sentences carry this re-saying.
+- **Droplet, at Natural Engineering.** The resolver at python is named there as Natural Engineering's one worked illustration at a substrate, by its name and no copy, as Natural Explaining asks of a file naming a file.
+- **What stays as it was.** Exhibit ONE whole, its code at the top and centre; Exhibit ONE inside Natural Intelligence; the kit's checks, now said as meeting the illustrating at the forms.
+- **The learning.** The concern at the stepping at 17, the common beat, and at 14 not telling an own releasing from an other's, are each about the illustrating and said so; the forms carry none of them. Part NINE stands with *engineering* read as *illustrating at python*.
+
+---
+
+## FOURTEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -476,7 +490,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | the proposal is O1 |
-| O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1 |
+| O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1; Exhibit ONE whole, code and forms inseparable, at its one place |
 | O3 | Five dimensions and the right spiral step at one home; Natural Societies 5.3 carrying 6.4, 5.1 and 3.2 whole | Natural Intelligence 3.2, 2.4, 5.1, 6.4; Naming 2.5, 2.7; Illustrating; Societies 5.3 | after O1 |
 | O4 | The working method at one home | Geodesic Improving Method; Living File Registry; README; the front; `incoming/README.md`; `REVIEWER.md` | after O1 |
 | O5 | The carrying leaned, a mate at a time | `carry/` | after C8 |
@@ -484,7 +498,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O12 | The sentence at 6.4: one prime scale, every living thing a society of living things, up and forward one move | Natural Intelligence 6.4, with 1.3 and 6.6 | after C1–C2, the living-at-scales sentences entering together |
 | O7 | The registries at the ten and the six | Registry 4.4, 4.7; `cohering_ten_and_six_v377` | open |
 | O8 | The stepping at 17 as the engineering's design, checked at each table it returns | Exhibit ONE; Natural Intelligence 3.3, 3.5 | **re-seated at Part NINE**, a check at the engineering and no concern at the method |
-| O25 | Exhibit ONE as an engineering: 3.3's sentence; each *derived at the resolver* said as *returned by the engineering*; the design's naming of which self an offering comes from | Natural Intelligence 3.3; Exhibit ONE's front; THIRTY group 42 | open, at the engineering |
+| O25 | The code an illustration of the method at python, inseparable at Exhibit ONE; the explaining re-said at Natural Intelligence 3.3 and at each *derived at the resolver* | Natural Intelligence 3.3; THIRTY group 42; Natural Numbers 7.2 | **said at Part THIRTEEN**, by the other self's word; nothing moves |
 | O9 | The round at four parities | THIRTY 171, 618–622; Natural Intelligence 2.4, 4.8 | **closed at Part TEN**: one round by the fractal condition, the one move its podals, the two fours one form at two scales |
 | O27 | The round at Exhibit ONE's tables: a form column at the seventeen names, the parity changing at each, the four-cycles as the lower two parities' joint forms carrying the upper round, the round's position beside each multi-self table | Exhibit ONE's tables | open, at the engineering's explaining |
 | O28 | The four parities named at their openings, co bi tri bi and co again, the bi-folding 1, 2, 4, 8; a name's prefixes the form at a stilled span and the climb at a crossing; one seam, tri named at the third parity and carried through the fourth's span | Natural Intelligence 2.2, 3.2, 4.8; THIRTY 172; Exhibit ONE's tables | **cohered at Part TEN**, no name changed; the seam for a fresh reader |
