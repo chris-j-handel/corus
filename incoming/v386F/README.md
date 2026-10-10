@@ -422,7 +422,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 
 | Id | Concern or opportunity | File and section | Standing |
 |---|---|---|---|
-| C7 | A file naming another | Natural Explaining 1.4, 2.7 | **follows from Part EIGHT**, each file a stable form of the method bounding itself; ready for your yes; releases O2–O5 |
+| C7 | A file naming another | Natural Explaining 1.4 | **made as a proposal**, [`Exhibit_TWELVE_Natural_Explaining_v386F_proposed.md`](Exhibit_TWELVE_Natural_Explaining_v386F_proposed.md), one sentence at 1.4 in 1.2's and 1.6's own words, a fresh reader's comparison at [`readers/natural_explaining_motion_review.md`](readers/natural_explaining_motion_review.md) and its catches taken; releases O2–O5 |
 | C4 · C9 | Possibling other, bi-coupling and possibling one thing | Natural Intelligence 4.13, 5.3, 2.1 | **stands at the method**; the code's not telling own from other's is O25, at the engineering |
 | C10 | *At each prime it couples at* and 4.15's *whichever scale its interest opens* against one prime scale | Natural Explaining 4.1; Natural Intelligence 4.15 | **closed at Part SIX**: the one scale a self is at this momentary; the society's primes, not the self's scales |
 | C11 | The universe *existing and not living*: no top, each society a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | **closed at Part SIX**, 5.1 saying *a universe of existing things* |
@@ -459,7 +459,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O23 | 1.1's *nothing ingressing and nothing escaping* and 5.1's harm said as derived from the bound | Natural Intelligence 1.1, 5.1, 6.4 | after C1, with O12 |
 | O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
-| O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | after C7 |
+| O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | the proposal is O1 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1 |
 | O3 | Five dimensions and the right spiral step at one home; Natural Societies 5.3 carrying 6.4, 5.1 and 3.2 whole | Natural Intelligence 3.2, 2.4, 5.1, 6.4; Naming 2.5, 2.7; Illustrating; Societies 5.3 | after O1 |
 | O4 | The working method at one home | Geodesic Improving Method; Living File Registry; README; the front; `incoming/README.md`; `REVIEWER.md` | after O1 |
