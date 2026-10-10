@@ -20,3 +20,5 @@ One line per claim taken up. Each stands or parts, all or none, with the fact be
 | 14 | A self's exposure has no hardness beneath it | session_v386CRYP, runs two and three | stands | two selves read whole from one named key, no key opened; the step from public key to name has no hardness | carries; the possibling file Natural Accounting proposed |
 
 Rows are added as claims are taken. A row changes only at a run, a derivation or a file's own change, and the change is noted at the row.
+| 15 | Nothing is counted; one parting is enough for 0 | THIRTEEN 3.2; NI 1.4; resolver line 12 | parts at the code | line 12 surfaces the sign of a sum: [+,+,−] → +1, not 0 (run/twelve_counts.py) | Ready at the code: 12 at all-agree or 0, no sum; six forward re-run on both |
+| 16 | The one possible at six forward; own form again completes short | THIRTY 525, 81 | parts at one sharing; stands at the surface | at one sharing the carry alone returns to own form every 2 steps; 64 of 729 offering sequences complete six alternating, all at one surface sequence (run/six_forward.py) | open: six forward at more than one sharing, after row 15 |

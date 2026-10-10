@@ -1,0 +1,43 @@
+start [(0, 1, 1, 0)]
+   alternating_six 64
+   fixed_still 0
+   own_form_again 712
+   zero_surfaces 665
+   total 729
+   examples [((-1, 0, -1, 0, -1, 0), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, -1, 1), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, 0, 0), [-1, 1, -1, 1, -1, 1])]
+start [(0, -1, 1, 0)]
+   alternating_six 64
+   fixed_still 0
+   own_form_again 712
+   zero_surfaces 665
+   total 729
+   examples [((0, -1, 0, -1, 0, -1), [1, -1, 1, -1, 1, -1]), ((0, -1, 0, -1, 0, 0), [1, -1, 1, -1, 1, -1]), ((0, -1, 0, -1, 1, -1), [1, -1, 1, -1, 1, -1])]
+start [(0, 1, -1, 0)]
+   alternating_six 64
+   fixed_still 0
+   own_form_again 716
+   zero_surfaces 665
+   total 729
+   examples [((-1, 0, -1, 0, -1, 0), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, -1, 1), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, 0, 0), [-1, 1, -1, 1, -1, 1])]
+start []
+   alternating_six 64
+   fixed_still 0
+   own_form_again 249
+   zero_surfaces 665
+   total 729
+   examples [((-1, 0, -1, 0, -1, 0), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, -1, 1), [-1, 1, -1, 1, -1, 1]), ((-1, 0, -1, 0, 0, 0), [-1, 1, -1, 1, -1, 1])]
+
+no offering, six forward from [(0,1,1,0)]:
+  step 1 surface -1 carry ((0, -1, -1, 0),)
+  step 2 surface 1 carry ((0, 1, 1, 0),)
+  step 3 surface -1 carry ((0, -1, -1, 0),)
+  step 4 surface 1 carry ((0, 1, 1, 0),)
+  step 5 surface -1 carry ((0, -1, -1, 0),)
+  step 6 surface 1 carry ((0, 1, 1, 0),)
+no offering, six forward from [(0,1,-1,0)]:
+  step 1 surface -1 carry ((0, -1, 1, 0),)
+  step 2 surface 1 carry ((0, 1, -1, 0),)
+  step 3 surface -1 carry ((0, -1, 1, 0),)
+  step 4 surface 1 carry ((0, 1, -1, 0),)
+  step 5 surface -1 carry ((0, -1, 1, 0),)
+  step 6 surface 1 carry ((0, 1, -1, 0),)
