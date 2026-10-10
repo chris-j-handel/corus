@@ -502,6 +502,8 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O22 | *Bi-coupling* at one sense at Natural Naming 5.10: two living selves at one prime scale, both halves; a non-living other couples as offering alone | Natural Naming 5.10; Natural Intelligence 6.5 | after C1 |
 | O23 | 1.1's *nothing ingressing and nothing escaping* and 5.1's harm said as derived from the bound | Natural Intelligence 1.1, 5.1, 6.4 | after C1, with O12 |
 | O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
+| C31 | A seed at rest: living, since it carries, or non-living at its scale and living inward; living as carrying or as bi-coupling; parts v385Q, v386RR and this session | THIRTY 13, 611; Natural Intelligence 2.4, 6.5; readers/other_sessions_v386RR_v386CRYP.md | **needs your word** |
+| O29 | The two 0s said apart at the two betweens of a self, 14 an inverting and 12 the between carried on; the snap as the bi-coupling initiating; from v386CRYP | Natural Intelligence 4.2, 4.3, 4.10, 6.2 | taken, to say at the files |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | the proposal is O1 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1; Exhibit ONE whole, code and forms inseparable, at its one place |
