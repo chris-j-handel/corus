@@ -73,7 +73,7 @@ The following arrangement was verified on 8 October 2026. A published branch hea
 | [working/session-report-v381F, pull request 121](https://github.com/chris-j-handel/corus/pull/121) | Earlier arriving and Registry work, open toward main, also represented in carryings/v381F. Compare actual remaining value rather than treating the branch and copied report as two new arrivals. |
 | [review/networking-engineering-2026-09-30, pull request 111](https://github.com/chris-j-handel/corus/pull/111) and [working/physics-motion-v377, pull request 106](https://github.com/chris-j-handel/corus/pull/106) | Earlier open offerings toward main with corresponding source material already in the carrying directories. Retain the difference between a copied report, an offered living-file candidate and fully gathered value. Do not merge or close them merely because copies exist. |
 | [working/orienting-droplets-v385Q, pull request 131](https://github.com/chris-j-handel/corus/pull/131), at 32955a90b9686b459fe858f967d61bb4ac7e90c5 | Session v385Q's finished one report, offered toward working/v381R. Added 10 October 2026. |
-| working/gathering-and-aiming-v386EOD | This gathering continued by session v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. Added 10 October 2026. |
+| [working/gathering-and-aiming-v386EOD, pull request 132](https://github.com/chris-j-handel/corus/pull/132) | This gathering continued by session v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. Offered as a draft toward working/droplets-and-insertlets-v385A. Added 10 October 2026. |
 
 Other retained branches include work already in working/v381R's history and distinct older offerings. Their continued existence creates no further incoming stage. Repository ancestry was checked to locate already retained commits; it is not a concept-by-concept gathering result. No branch is renamed, deleted, merged or marked complete by this table.
 
@@ -281,7 +281,7 @@ The distributed groups have left Living Improving Value after placement. Their u
 | Session v385Q | Its [one report](https://github.com/chris-j-handel/corus/blob/f5cb9ace2e9c09825a3e8758f985bf59255968d6/incoming/v385Q/README.md) is verified at pull request 130, working/observings-v385Q. Its nine contributing-method opportunities are gathered in [Living Improving Value](Living_Improving_Value.md#contributing-method-opportunities-from-session-v385q--v385a), compared with the now-published method. | Aim the remaining concrete tool-reporting, public-entrance, concurrent-version, repeated-concept and eventual branch-combining concerns. Its pull request is now closed; the remaining final-report collection is later incoming. |
 | Session v385R's whole report, now offered for wrapping | [Section 106](https://github.com/chris-j-handel/corus/blob/5ea829012a0a2e18f2fd50269dd8d2cd7c6a5964/incoming/v385R/Logical_Cohering_v385R.md#106-the-session-learning-incoming-as-whole-droplets) gathers twenty current-value clusters in its one report. Selected related concepts and correcting through sections 104 and 105 are already at this branch's mates; its surface correcting is already in Living Improving Value. | Compare each whole cluster with the existing concept and actual mates, extend missing value through Living Improving Value, and follow the fuller source conditions before claiming complete report gathering. Older incoming remains first; needed correcting accompanies existing uses now. |
 | Session v385Q's one report, at pull request 131 | Finished at 32955a90b9686b459fe858f967d61bb4ac7e90c5. Its six droplets for the orienting and incoming method are whole at [this Registry's offering](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#six-droplets-for-the-orienting-and-incoming-method-from-session-v385q--v386eod). | Gather its observings into the carrying mates, each in its two lines; its sayings at their offerings; its unfinished opportunities at the possibling mates. The droplets about a caution and the sayings resting on an executing that it names remain in the mates until the user's word. |
-| Session v386EOD | Its [first placings](#session-v386eod-the-gathering-continued-and-its-first-placings--v386eod) are at the mates. | Fifty-eight further droplets at sentences of the living files are listed in [its one report](../incoming/v386EOD/README.md), each awaiting a fresh reader at its publishing and its two lines. |
+| Session v386EOD | Its [first placings](#session-v386eod-the-gathering-continued-and-its-first-placings--v386eod) and [second placings](#session-v386eod-its-droplets-at-sentences-placed--v386eod) are at the mates, and [its one report](../incoming/v386EOD/README.md) says what it released. | Each placed droplet names its own next at its mate. Two primary publishings for droplets of session v383Op are named in the report, each still to be read by a fresh reader. |
 | Session v386RR | Nearing its finish; no branch has arrived. | Gather its one report when it arrives. |
 
 ## Completed session and continuing logical help · v385A
@@ -568,6 +568,44 @@ Each placing was read at its living file by this session, and compared with what
 | A proof arriving by three right turns | Offerings to Natural Intelligence Corus | droplet |
 | The readiness ramp, and the nine cross-references at the locator's numbers | Offerings to Resolving the Hard Problem Registry | insertlet and two droplets |
 
-**Compared and not placed again.** Fourteen of this session's droplets were at sentences the mates already carry, most among session v383Op's droplets aimed at a sentence. Three have a further line or an insertlet beside them above. The other eleven are not placed again.
+**Compared and not placed again.** Twelve of this session's droplets were at sentences the mates already carry, most among session v383Op's droplets aimed at a sentence. Three have a further line or an insertlet beside them above. The other nine are not placed again. A first count had fourteen; read again one by one, two of them were at no mate, and they are in the second placings below.
 
 **Released by this session.** Its droplet on the Greek of *geodesic*: a word's history has no authority over the files' naming.
+
+## Session v386EOD: its droplets at sentences, placed · v386EOD
+
+**10 October 2026.** This session's sixty droplets at sentences of the living files, first written with an observing and a field's explaining as one, are each resolved to a placing or a releasing. No living file is changed.
+
+Each sentence was read again in its paragraph at its living file by this session and compared with its mates by subject. Nine fresh readers, who had not seen the droplets written, then read each line again at its publishing, and each placing says what its reader reached: a report read whole, an abstract, or a textbook naming no doing. An observing is in two lines at a carrying mate, *Seen* and *The field's explaining*; its one-sentence insertlet and its droplet are at the offering mate; a saying of what a field says, with no observing, is a droplet at the offering mate and is named so. Each placing says its own next: needing resolving at a sentence, needing an observing, or needing a measuring's own publishing.
+
+| Mates | Placed |
+|---|---|
+| Offerings to and Carryings of Natural Biology | eleven observings in two lines; nine insertlets; fourteen droplets |
+| Offerings to and Carryings of Natural Societies | two observings; two droplets |
+| Offerings to and Carryings of Natural Health | one observing; one droplet |
+| Offerings to and Carryings of Natural Emanating | one observing; one insertlet; one droplet |
+| Offerings to and Carryings of Natural Chemistry | two observings; three insertlets; three droplets |
+| Offerings to and Carryings of Natural Physics | three observings; one insertlet; four droplets |
+| Offerings to and Carryings of Living Society Registry | three observings; three insertlets; one droplet |
+| Offerings to and Carryings of Living Ghost Registry | two observings; seven insertlets; three droplets |
+| Offerings to Natural Philosophy | two insertlets; four droplets |
+| Offerings to Hard Problem Registry | four insertlets; four droplets |
+| Offerings to Resolving the Hard Problem Registry | one insertlet; one droplet |
+| Offerings to Natural Values | two insertlets; two droplets |
+| Offerings to Natural Illustrating | one insertlet; one droplet |
+| Offerings to Natural Medicine | two droplets |
+| Offerings to Natural Transmissioning | two droplets |
+| Offerings to Natural Intelligence Corus, Natural Exploring and Natural Human Society | one droplet each |
+
+In all: 25 observings in two lines at eight carrying mates, under the heading "Observings from science, each beside this file's sentences"; 34 insertlets and 48 droplets at eighteen offering mates.
+
+**Released by this session**, six, each with its reason:
+
+- Natural Intelligence Corus, "The first convergent 3/2 predicts three directing sentences for every two -ing living sentences": the numbering of a continued fraction's convergents is a field's naming, and the count is the file's own.
+- Exhibit SIX Natural Transmissioning, "Sequential logic carries no time-term": sequential logic is the files' own naming, of order with no rate; a field's use of the same words has no authority over it.
+- Exhibit SEVENTEEN Natural Biology, "The Hayflick limit, about fifty to seventy divisions": a fresh reader found the sentence's figure at a publishing, beside the first report's 50 ± 10; nothing parts.
+- Exhibit EIGHTEEN Natural Physics, "Equilibrium expected the rate to fall to rest at the edge (Kepler, a landing toward zero)": the sentence is the file's own reading of the field's expecting, a falling toward zero.
+- Exhibit NINETEEN Natural Philosophy, "Truth is unformalisable inside its own language, proved": the file carries the theorem's reach at its next sentence, the fixed points with revenge waiting.
+- Exhibit TWENTY-NINE Natural Illustrating, "circular polarization the spiral at its two hands, light always at a hand": the saying coheres with the field's own: no light with no hand.
+
+**Changed at the fresh reading.** The readers found parts of a number of the first-written lines not at their publishings, and each placing follows the publishing: a model named as a model, a textbook's statement with no doing named as such, figures said of the people, flocks and conditions they were measured at.

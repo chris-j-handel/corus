@@ -8,6 +8,8 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v386EOD
 
 **At 3.1 · An atom at two faces, and the periodic table a catalog — beside "Two and one hundred eighteen stand antipodal".** Two and one hundred eighteen are podal on the ring closing at one hundred twenty.
 
+**At 4.7 · Relativity and quantum, one coupling and its accounting — beside "displaced a quarter of the cube edge".** the diamond cubic lattice is two interpenetrating face-centered cubic lattices displaced a quarter of the cube's body diagonal,
+
 ## Droplets
 
 **Earlier next at this file, its motion at v377 in passes: pass 4, Part TWO at Natural Intelligence 5.4, the scientific method's fixings at Natural Mathematics 6.1, and 2.5 with the register's numbers found again; then the passes below in order, each with a fresh reader before and after and its report. Nothing of the arrivals enters this file but at its own pass.** — v377
@@ -570,6 +572,14 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 **Aimed at a sentence, Natural Physics, *element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas*:** Beside the droplet above at this sentence. Natural Chemistry, at 4.4, already has it at its standing: "is predicted to be much more polarizable and reactive and unlikely to be gaseous under ordinary conditions". The two living files part at *arrives* and *is predicted*. Next: resolving at this file's improving, the sentence said as predicted. — v386EOD
 
 **Aimed at a sentence, Natural Physics, *no question, no problem, no literature*:** Beside the droplet above at this sentence. This file's own register, at 5.11, has "Proton spin decomposition" at standing. The list at 4.5 and the register part inside one file. Next: resolving at this file's improving. — v386EOD
+
+**Aimed at a sentence, Natural Physics, *Holding time-translation still gives reversible laws*:** The field's explaining, with an observing beside it at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#a-process-and-its-reverse-measured-at-unequal-rates). In the field's own table "Translation in time" and "Reversal of time" are two entries: "That the laws are symmetrical under translation in time means, in quantum mechanics, that energy is conserved", and reversibility is the other entry's ([The Feynman Lectures on Physics, volume I, chapter 52](https://www.feynmanlectures.caltech.edu/I_52.html)). And at two kinds of particle a process and its reverse are measured at unequal rates. Next: needs resolving at the sentence, at which fixing gives the first of its two books. — v386EOD
+
+**Aimed at a sentence, Natural Physics, *the diamond cubic lattice is two interpenetrating face-centered cubic lattices displaced a quarter of the cube edge*:** The field's account has "two inter-penetrating face centered cubic (fcc) lattices, one displaced from the other by a translation of" a quarter of the edge along each of the three axes together, "along a body diagonal" ([Ungersböck, 2007, Advanced Modelling Aspects of Modern Strained CMOS Technology, Basic Properties of the Diamond Structure](https://iue.tuwien.ac.at/phd/ungersboeck/node27.html)). Its insertlet is above. — v386EOD
+
+**Aimed at a saying, Natural Physics, *The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on*:** Beside the incoming from the prior Natural Numbers in this list. Two lines are at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#gaps-and-gatherings-in-the-asteroid-belt): the belt is thin at the resonances 3:1, 5:2, 7:3 and 2:1 with Jupiter, and asteroids gather at 3:2 and at 1:1. Met at an observing, and parting from the saying at the two gatherings. Next: needs resolving at the saying before it enters a file. — v386EOD
+
+**Aimed at a sentence, Natural Physics, *the trap that works is the Paul trap, holding by alternating*:** Two lines are at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#two-traps-for-ions). A second trap works: "Penning traps use a static uniform magnetic field and a static electric field to confine ions." The ion's own motion inside it was not read. Next: needs resolving at the sentence, and the ion's motion in a Penning trap from its own report, at rest or circling. — v386EOD
 
 ## Stable existing form and living at the inward scales · v385A
 

@@ -1,4 +1,4 @@
-Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R · improved at v385A
+Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R · improved at v386EOD
 
 # Offerings to Natural Philosophy
 
@@ -6,7 +6,9 @@ Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R · improved at v3
 
 ## Insertlets
 
-None.
+**At 3.18 · Consistency and completeness — beside "Each system releases at its own ordinal, the bound measured exactly".** Each system analysed releases at its own ordinal, the bound measured exactly.
+
+**At 3.32 · The felt and the described — beside "and no criterion offered for when conceivability does".** with conceivability held to reach that possibility, under a thesis offered for which conceiving does, and contested.
 
 ## Droplets
 
@@ -62,6 +64,14 @@ Exhibit ONE's *Five, and a seam at 8 up* explaining, the two unreachabilities, g
 **Aimed at a file, Natural Philosophy:** *run*, *runs*, *running* and once *runner* at 64 places, lines 19, 161, 169 (3), 187 (2), 197, 210, 216, 228, 280, 286, 350, 354, 372, 382, 392, 396 (3), 400, 410, 426, 428, 448, 480, 484 (2), 490, 496 (2), 506, 508 (2), 510, 512, 514, 540, 560, 578 (2), 596, 606, 608, 620, 624, 654, 660 (3), 662, 666, 668, 686, 690 (2), 694, 704, 732, 752, 778, 866, 887; passed at 392 twice, *a run of arrivings* as a sequence, and at 658, the field's *complete run* at Zeno's dilemma as posed. The section title 1.2 carries it, *A position, a dilemma, and the six run one-way* (19, 161). The file says *Coupled and co-recursed, the six is co-competencing, the living. Run one-way and pinned, it is hard-probleming, the frozen*, *the running being where it lives and the encodings the running written down*, *a runner arrives, arriving having never been built out of the parts the argument built*, *Forward, the running that bottoms nowhere is the surplus at every coupling*. Natural Naming 2.4 carries it at *carrying*, and the runner at 662 at *a living self arriving*. — v381R scan
 
 **Aimed at a file, Natural Philosophy:** *sign*, *signs* at the file's own voice, 48 places, no section title carrying the word; the places at 157 (×2), 169, 250, 252 (×2), 256, 260, 298, 300, 308 (×4), 310 (×3), 312, 314 (×2), 352, 356, 366, 368 (×3), 372, 374, 408, 410, 414 (×2), 574, 576, 578, 580, 676 (×2), 714, 716, 758 (×2), 762, 764, 797, 817, 831, 868. Quoted short: *The taking is a sign, is-or-is-not at the self's own membrane* (252); *take for the other exactly the sign you take for yourself* (308); *A membrane carries a sign and nothing else, and no line ever sat there to be found* (368). Passed: the field's dilemma name *sign / signified* (868). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at a sentence, Natural Philosophy, *One position holds the will free and says nothing of what an uncaused choice is*:** The field's explaining only. The field's survey sorts that position's accounts by "which type of indeterminism—uncaused events, nondeterministically caused events, or agent caused events—is required": free actions that "need not be caused by anything", actions "nondeterministically caused by their immediate causal antecedents", and causing by the agent, "a persisting substance" ([Clarke, Capes and Swenson, 2021, Incompatibilist (Nondeterministic) Theories of Free Will, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/incompatibilism-theories/), read whole by a fresh reader). The position says three things of such a choice, each contested at the same survey. A droplet at [Offerings to Hard Problem Registry](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md#droplets) is beside this. Next: needs resolving at the sentence, which says what the field says. — v386EOD
+
+**Aimed at a sentence, Natural Philosophy, *the fundamental dynamics runs symmetric beneath all of it*:** Two observings are at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#a-process-and-its-reverse-measured-at-unequal-rates): at neutral kaons and at B mesons a process and its reverse are measured at unequal rates. Met at an observing, and parting from the sentence at those two. Next: needs resolving at the sentence. — v386EOD
+
+**Aimed at a sentence, Natural Philosophy, *Each system releases at its own ordinal, the bound measured exactly*:** The field's results, at their reach. The field's survey has the ordinal of arithmetic, "ε0 is also the proof-theoretic ordinal of PA", and names the analysis of Π¹₂-comprehension "the next major step in analyzing fragments of Z2", its treatment having "posed formidable technical challenges"; it gives no ordinal for that system ([Rathjen and Sieg, Proof Theory, Stanford Encyclopedia of Philosophy, revised 2024, and its supplement on set theories](https://plato.stanford.edu/entries/proof-theory/), read in part). For full second order arithmetic two papers at an archive offer an analysis, one stating an ordinal and neither with a journal named ([Arai, An ordinal analysis of Π_N-Collection](https://arxiv.org/abs/2311.12459); [Towsner, Proofs that Modify Proofs](https://arxiv.org/abs/2403.17922), marked "Work in progress"). Hard Problem Registry has the same reach, at Incompleteness and Hilbert's programme: "each system's proof-theoretic ordinal established". Insertlets are above and at [Offerings to Hard Problem Registry](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md#insertlets). — v386EOD
+
+**Aimed at a sentence, Natural Philosophy, *with conceivability held to reach that possibility and no criterion offered for when conceivability does*:** The field's explaining only. The argument's author sorts conceiving three ways, "prima facie vs. ideal conceivability, positive vs. negative conceivability, and primary vs. secondary conceivability", and offers "(1) Ideal primary positive conceivability entails primary possibility" ([Chalmers, 2002, Does Conceivability Entail Possibility?](https://consc.net/papers/conceivability.html), read to its tenth section). Hard Problem Registry carries the same at Qualia and the zombie argument, as "The two-dimensional framework", "technical and unresolved". A thesis is offered, and contested. Its insertlet is above. — v386EOD
 
 ## The Nothing and the older membrane-self explaining · v385A
 

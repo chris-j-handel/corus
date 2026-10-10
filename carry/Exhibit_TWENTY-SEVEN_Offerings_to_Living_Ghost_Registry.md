@@ -1,4 +1,4 @@
-Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v385A
+Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v386EOD
 
 # Offerings to Living Ghost Registry
 
@@ -8,7 +8,19 @@ Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v385A
 
 ## Insertlets
 
-None.
+**At 5.11 · Homeostasis — beside "insulin arrives in pulses roughly every thirteen minutes (nye)".** insulin arrives in pulses, each about five minutes after the last at the portal vein and thirteen in a peripheral vein's plasma sampled each minute (nye);
+
+**At 7.8 · Door readings — the water dimer, passed; ammonia, a self at the door; five arrivals read after arriving — beside "arriving in the ocean as carbonate".** 4 is, carbon leaving the atmosphere arriving in the ocean as bicarbonate.
+
+**At 7.8 · Door readings — the water dimer, passed; ammonia, a self at the door; five arrivals read after arriving — beside "the first equilibrium measured in both directions, 1894 to 1899".** an equilibrium measured in both directions, 1894 to 1899,
+
+**At 8.2 · Physics, address 32 — beside "the electron fraction 0.306 ± 0.026 ± 0.024".** the heavy flavours met and the total active flux consistent with the model; S. N. Ahmed et al., Physical Review Letters 92, 181301 (2004), the electron fraction 0.306 ± 0.026 ± 0.024;
+
+**At 8.2 · Physics, address 34 — beside "W. L. Freedman et al. (2019), the red-giant tip at 69.6 ± 1.6 between them".** W. L. Freedman et al. (2020), the red-giant tip at 69.6 ± 0.8 ± 1.7 between them;
+
+**At 8.3 · Biology and medicine, address 3 — beside "T. Schuurhuis et al.".** G. J. Schuurhuis et al.,
+
+**At 8.3 · Biology and medicine, address 33 — beside "V. W. Shah et al.".** V. N. Shah et al.,
 
 ## Droplets
 
@@ -127,6 +139,12 @@ BB06: the Living Ghost Registry 1.2: an accounting keeps an emanation the same a
 **Ghost and Equilibria: the planned titles, shared resolving and distinct entries.** Living File Registry “Ghosts and equilibria at their common resolving” proposes Ghost Observer Registry and Equilibria Representation Registry with the shared subtitle Not Possibly Existing, Living or Non-Living. Its Existing Ghost Registry proposal and earlier subtitles using Many, Stable Forms or Named are superseded in that source; Ghost Observing Registry remains a further wording proposal. The actual entries determine the separate explaining still needed: a shared derivation can be carried with each subject’s local prior, while names alone establish no merger or need for two files. Follow its four-momentary self/other bi-co-exchanging relation beside the three-momentary explaining without replacing numbers throughout. Its account of prior resolving remains a source claim, not a derivation newly verified here. Registry “Scales, observed societies and installed accountings” separately retains Societies, Living Society Registry and Ghost at their particular subjects. Preserve those observing conditions and the current correcting beside any title or content change. The [v385A comparison](../incoming/v385A/Registry_Plan_Comparison_v385A.md) keeps this later plan beside the older resettling and existing local offerings. This same droplet is independently at Living File Registry, Ghost and Equilibria until each local resolving. — v385A
 
 The same planning droplet now carries the user's later distinction at [v385R, section 15](https://github.com/chris-j-handel/corus/blob/8ce74a01e969c1cfb7f6af83bc06f46cb0132767/incoming/v385R/Logical_Cohering_v385R.md): “an existing stable form is only changing from collidings. other than collidings an existing stable form is unchanging. an equilibrium is an unchanging social competency”. Keep the actual social competency and the particular conception's required unchanged relation explicit beside the proposed shared subtitle and common resolving. An unchanged stable form alone does not establish the equilibrium claim. R9's further question about that form's own momentary at colliding remains in the developing source. This correcting accompanies the earlier plan at each mate; no title, universal deriving or local living-file resolving is completed by its placing. — v385A
+
+**Aimed at two sentences, Living Ghost Registry, *insulin arrives in pulses roughly every thirteen minutes (nye)* and *carbon leaving the atmosphere arriving in the ocean as carbonate*:** Each has its two lines at [Carryings of Living Ghost Registry](Exhibit_TWENTY-SEVEN_Carryings_of_Living_Ghost_Registry.md#insulins-pulses-at-two-samplings) and [the same](Exhibit_TWENTY-SEVEN_Carryings_of_Living_Ghost_Registry.md#carbon-in-surface-seawater), and its insertlet above. Insulin's pulses are measured at thirteen minutes in peripheral plasma and at about five at the portal vein, two samplings; and the field's guide has nine tenths of surface seawater's dissolved carbon as bicarbonate, the added carbon dioxide taking carbonate away. — v386EOD
+
+**Aimed at two sentences, Living Ghost Registry, *the first equilibrium measured in both directions, 1894 to 1899* and *W. L. Freedman et al. (2019), the red-giant tip at 69.6 ± 1.6 between them*:** The two lines of each are at [Carryings of Living Society Registry](Exhibit_TWENTY-FIVE_Carryings_of_Living_Society_Registry.md#an-equilibrium-reached-from-both-sides-from-1862) and [the same](Exhibit_TWENTY-FIVE_Carryings_of_Living_Society_Registry.md#the-tip-of-the-red-giant-branch-at-three-reports), the passed entries' own file, and the insertlets are above. — v386EOD
+
+**Aimed at three addresses, Living Ghost Registry, at its addresses beyond the living files:** The ratio 0.306 ± 0.026 (statistical) ± 0.024 (systematic) is printed in the later letter, its first author S. N. Ahmed, in Physical Review Letters 92, 181301 (2004), and in neither letter the address names ([Sudbury Neutrino Observatory Collaboration, 2004](https://arxiv.org/abs/nucl-ex/0309004), read whole by a fresh reader). The page the third biology address links prints its first author as "Gerrit J Schuurhuis" ([Blood 131, 1275](https://pmc.ncbi.nlm.nih.gov/articles/PMC5865231/)), and the journal's page of the thirty-third prints "Viral N Shah" ([The Journal of Clinical Endocrinology & Metabolism 104, 4356](https://academic.oup.com/jcem/article/104/10/4356/5479355)). A publishing's authors are at its citing. The insertlets are above. — v386EOD
 
 ## Paired accountings at their actual use · v385A
 

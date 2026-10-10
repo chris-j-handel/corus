@@ -1,4 +1,4 @@
-Exhibit TWENTY-FIVE Living Society Registry Offerings · improved at v385A
+Exhibit TWENTY-FIVE Living Society Registry Offerings · improved at v386EOD
 
 # Offerings to Living Society Registry
 
@@ -6,7 +6,11 @@ Exhibit TWENTY-FIVE Living Society Registry Offerings · improved at v385A
 
 ## Insertlets
 
-None.
+**At 2.3 · A proton read as crossing water — beside "orders of magnitude above any other ion".** Proton mobility, near twice the hydroxide ion's and about seven times the sodium ion's, entered as a diffusion coefficient.
+
+**At 2.15 · A cosmos read at one rate — beside "69.6 ± 1.6".** the red-giant-tip calibration at 69.6 ± 0.8 ± 1.7 between them.
+
+**At 2.19 · A mixture read at one constant — beside "the first equilibrium measured in both directions".** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions at the close of the nineteenth century, after the esters' from 1862,
 
 ## Droplets
 
@@ -47,3 +51,5 @@ Living Society Registry: the observations home for the sciences, with a source a
 **Aimed at a file, Living Society Registry:** *run*, *runs* and *running* at 50 places, lines 21, 27, 29, 109, 115, 130, 132, 136, 140, 152, 167, 195, 209, 221, 248, 278, 280, 290, 309, 329, 340, 341, 354, 370, 375, 387, 406, 418, 437, 470, 503, 536, 544, 569, 602, 630, 635, 668, 701, 734, 767, 800, 808, 833, 866, 899, 932, 965, 1005 (2), none passed. Three section titles carry it, 1.3 *Upstream of the observing, the line running against the current* (21, 130), 1.6 *Running the form — three forkings and two joinings, alternating* (27, 195) and 1.7 *Residuals carried where each member runs its own* (29, 209), and the template line **Upstream — method run** stands at each of the twenty-two substrates (278, 309, 340, 375, 406, 437, 470, 503, 536, 569, 602, 635, 668, 701, 734, 767, 800, 833, 866, 899, 932, 965). The file says *In disequilibria each thing runs on its own until it bi-couples*, *Under each, a coupling running at a rate*, *How a pass runs. One substrate at a time*. Natural Naming 2.4 carries it at *carrying*: each member carrying its own, and *the method run* installs a runner over the procedure, said at the procedure's own name. — v381R scan
 
 **Aimed at a file, Living Society Registry:** *sign*, *signs* at the file's own voice, 19 places, no section title carrying the word; the places at 113, 116, 213, 356, 360 (×2), 385, 416, 467, 500, 599, 632, 665, 698, 715, 748, 764, 816, 853. Quoted short: *the society has members, each taking a sign at its own membrane, one at a time* (113); *A sign is taken at each membrane and offered at the next* (360); *What arrives at the detector is a sign* (816). Passed: the code at 163, and the field's *the scattering length's sign* (500) and *changes sign* at the resonance (517). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at three sentences, Living Society Registry, *Proton mobility, orders of magnitude above any other ion*, *the red-giant-tip calibration at 69.6 ± 1.6 between them* and *the first equilibrium measured in both directions at the close of the nineteenth century*:** Each has its two lines at [Carryings of Living Society Registry](Exhibit_TWENTY-FIVE_Carryings_of_Living_Society_Registry.md#proton-and-hydroxide-mobilities), [the same](Exhibit_TWENTY-FIVE_Carryings_of_Living_Society_Registry.md#the-tip-of-the-red-giant-branch-at-three-reports) and [the same](Exhibit_TWENTY-FIVE_Carryings_of_Living_Society_Registry.md#an-equilibrium-reached-from-both-sides-from-1862), and its insertlet above. The proton's mobility is under twice the hydroxide ion's; 69.6 is printed beside ± 0.8 ± 1.7; and an equilibrium met from both sides is reported from 1862. Each read again at its publishing by a fresh reader. — v386EOD

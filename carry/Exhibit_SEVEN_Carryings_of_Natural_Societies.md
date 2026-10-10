@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies Carryings · gathered at v385A
+Exhibit SEVEN Natural Societies Carryings · gathered at v386EOD
 
 # Carryings of Natural Societies
 
@@ -39,3 +39,28 @@ Session v379 reported three older naming places after reading its closing transc
 These are the v381R reports of the earlier file wording and v380R dissolving names, not a new scan of the present living exhibit. Their actual naming corrections have their offering place.
 
 [Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Mitochondria and plastids with genomes of their own
+
+**The file's sentence**, at Fourteen scales at fourteen primes, and the fold at twenty-four, in the organelle row: "a former free-living self now a member: the fractal's own move, observed".
+
+- *Seen*: "mitochondria and plastids differ from the other membrane-enclosed organelles in containing their own genomes"; their proteins closely resemble those of some present-day bacteria; each is "surrounded by a double membrane". The field's textbook names no doing at these statements ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Compartmentalization of Cells](https://www.ncbi.nlm.nih.gov/books/NBK26907/)).
+- *The field's explaining*: these "strongly suggest that mitochondria and plastids evolved from bacteria that were engulfed by other cells". For the cell's other compartments the textbook offers "Hypothetical schemes", a pinching off from the plasma membrane among them.
+
+**Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
+
+**Next.** Needs resolving at the row, and needs an observing of a free-living self arriving as a member, with its doing.
+
+### Cilia with the central pair absent
+
+**The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
+
+- *Seen*: in two people with mutations in the gene RSPH1, cells brushed from the nose have cilia whose central pair is absent in 11 to 30 per cent of cross-sections under the electron microscope. On high-speed video, from the side the cilia are "mostly stiff, unbending and uncoordinated cilia of reduced amplitude"; from above there are "regions with a circular beating pattern instead of the normal forward and backward planar motion" ([Onoufriadis and colleagues, 2014, Human Molecular Genetics 23, 3362](https://discovery.ucl.ac.uk/id/eprint/1421714/), read whole at a university repository's copy).
+- *Seen*: in the alga Chlamydomonas the paralyzed mutants pf-15A and pf-19 "lack the central tubules and sheath", and their isolated axonemes, the flagella's inner frames, in conditions in which wild-type ones beat again, "remained intact but did not form bends" ([Witman, Plummer and Sander, 1978, The Journal of Cell Biology 76, 729](https://rupress.org/jcb/article/76/3/729/18920/Chlamydomonas-flagellar-mutants-lacking-radial), read at its abstract).
+- *The field's explaining*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
+
+**Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
+
+**Next.** Needs resolving at the sentence, the alga beside it.

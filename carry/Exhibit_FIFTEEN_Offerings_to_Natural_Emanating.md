@@ -1,4 +1,4 @@
-Exhibit FIFTEEN Natural Emanating Offerings · laid at v385A
+Exhibit FIFTEEN Natural Emanating Offerings · laid at v386EOD
 
 # Offerings to Natural Emanating
 
@@ -6,7 +6,7 @@ Exhibit FIFTEEN Natural Emanating Offerings · laid at v385A
 
 ## Insertlets
 
-None.
+**At The origin sentence, said at eight substrates — beside "A potential relates to no observable".** A potential's value at one place relates to no observable, and its circulation round a closed path does,
 
 ## Droplets
 
@@ -77,6 +77,8 @@ Z05: Networking 1.4: the middle is the bounding-zeroing the coupling itself make
 **Later observing relation beside the older social explaining · v385A.** [R's section 18 at df319c9](https://github.com/chris-j-handel/corus/blob/df319c9276cfaebd99ba03efe3db34c1211bce9b/incoming/v385R/Logical_Cohering_v385R.md) carries the user's further distinction: carrying and possibling are unobservable; only existing is observable; observing social moral competency existing is observing living. The proposed naming, living as social moral competency existing, retains the user's ‘could be.’ Section 17's question is now source history for this further working. R10 asks which existing relation distinguishes that living from a non-living form's changing at colliding, keeping the whole relation, subject and scale explicit. Follow the actual existing offered by an example; neither depict private carrying as inspected nor infer that every participating form is living. This later correction accompanies the earlier plans and expressions without declaring R10 resolved. — v385A
 
 **R10 retained whole for returning · v385A.** [R's later instruction at 0f1a67b](https://github.com/chris-j-handel/corus/blob/0f1a67ba515c93a7f68290a15b02b3ca94c454ae/incoming/v385R/Logical_Cohering_v385R.md#returning-to-this-droplet) explicitly keeps the living-defining concepts, source passages, proposed connections and concern together as one unresolved droplet in the logic chain. The proposed naming and across-and-along connection remain proposed. Keep its R6–R9 relations available with that whole gathering when following this older source or plan; the previous observing pointer above is not a resolved definition or a substitute for the gathered concepts.
+
+**Aimed at a sentence, Natural Emanating, *A potential relates to no observable*:** The two lines are at [Carryings of Natural Emanating](Exhibit_FIFTEEN_Carryings_of_Natural_Emanating.md#an-electron-pattern-shifted-by-a-field-the-electrons-pass-outside-of), and its insertlet is above. As a lecture reports it, an electron pattern was seen displaced by a magnetic field inside an iron whisker the electrons pass outside of; in the field's explaining the pattern follows the potential's circulation round the closed path. Met at an observing as reported. Next: needs the experiment's own report, which the lecture does not name. — v386EOD
 
 ## Learning and a whole expression of dissolving an installed accounting · v385A
 

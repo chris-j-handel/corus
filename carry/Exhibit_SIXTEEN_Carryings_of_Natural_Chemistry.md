@@ -1,4 +1,4 @@
-Exhibit SIXTEEN Natural Chemistry Carryings · gathered at v385A
+Exhibit SIXTEEN Natural Chemistry Carryings · gathered at v386EOD
 
 # Carryings of Natural Chemistry
 
@@ -17,3 +17,25 @@ The whole concepts and their unresolved conditions are available at this subject
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_natural_mathematics/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_SIXTEEN_Natural_Chemistry_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Water's triple points
+
+**The file's sentence**, at Three declared nothings, and a partition the instrument's own coupling: "the triple point is the field's one point of zero degrees of freedom".
+
+- *Seen*: the release lists five triple points of water: the one it names "normal", at 273.16 K and 611.657 Pa, and four of solid phases with the liquid, at 251.165 K (ice Ih, ice III and liquid), 256.164 K, 273.31 K and 355 K, at pressures from 208.566 to 2,216 megapascals. Its equations "are constrained to fit the experimental values" of these points; it names no experimenter ([International Association for the Properties of Water and Steam, Revised Release on the Pressure along the Melting and Sublimation Curves of Ordinary Water Substance, 2011](https://iapws.org/documents/release/MeltSub.download)).
+- *The field's explaining*: none in the release; the phase rule is at the file's own sentence.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
+
+### Ground configurations at copper, zinc and ytterbium
+
+**The file's sentence**, at Elements the doubling face, one recursioning counted one hundred eighteen times: "and the shells themselves complete at 2, 10, 30 and 70".
+
+- *Seen*: the table of "ground electronic configurations of the neutral elements", drawn from a compilation of atomic spectroscopy, has helium 1s², neon [He] 2s² 2p⁶, copper [Ar] 3d¹⁰ 4s¹, zinc [Ar] 3d¹⁰ 4s² and ytterbium [Xe] 4f¹⁴ 6s². Down its rows 3d¹⁰ is first at copper, 29, and 4f¹⁴ first at ytterbium, 70 ([National Institute of Standards and Technology, Electronic Configurations of the Elements, 2015, updated 2025](https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations/atomic-reference-data-electronic-8)).
+- *The field's explaining*: the naming of one configuration for each atom's ground level.
+
+**Laid beside, by this session.** This file has copper as "[Ar] 3d¹⁰ 4s¹" at A straddle about twenty-eight, and cobalt-59 at one nuclide. The third shell's eighteen are all present first at twenty-nine, and the sentence has thirty.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).

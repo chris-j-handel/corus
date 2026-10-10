@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology Carryings · gathered at v385A
+Exhibit SEVENTEEN Natural Biology Carryings · gathered at v386EOD
 
 # Carryings of Natural Biology
 
@@ -59,3 +59,124 @@ Useful return points in the supplied transcript are intelligence across scales (
 Session v381F reported Natural Biology’s *so-far* and *not-yet* sayings as 2 and 33; a far-side comparison at “2.5 All or none at all, of no size”, “partly; its mouth is 6.4 and 5.1, a living set”; 18 loopings; a departure location at “SEVENTEEN v333 35”; and a first root named competencing, with Natural Societies alone. These are the earlier reported findings and locations from Session_Report_v381F.md parts 9–12, Findings 18 and 22, Entry_Journey_For_An_AI.md part 2 and Next.md. They do not establish the current counts or resolving.
 
 At its close, session v381R described a genome-duplication incoming paragraph of about 700 words citing three papers. It reported insertlet locations at Biology 5.1 beside “Then the zygote autorecursions”, concerning twinning and conception, and at 3.3 beside “none is left-spiral living”, concerning sunflower seeds and the proposed 137.5-degree correspondence. This records the earlier locations; the actual insertlet writing remains in Offerings to Natural Biology. Their presence does not establish resolving into the living file.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### A plasmodesma, one cytoplasm through two cells
+
+**The file's sentence**, at No self touches another directly: "A cell touches the extracellular matrix, the basement membrane, or the gap-junction protein structure, never another cell's interior directly". Natural Transmissioning has the same saying at Living membrane, cell crossing, transmissioning that lives: "no self touches another directly; every coupling crosses a membrane that is itself a self".
+
+- *Seen*: in an electron micrograph of a lengthwise section of a plasmodesma from a water fern, "The plasma membrane lines the pore and is continuous from one cell to the next", and the cytoplasm of the two cells is connected by a channel 20 to 40 nanometres across. Tracer molecules injected into a plant cell pass to its neighbours up to a molecular weight of about 800. Between animal cells, fluorescent molecules injected into one of two cells joined by gap junctions pass into the other up to about 1,000 daltons, across a gap of 2 to 4 nanometres spanned by channel proteins. Reported by [Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at Cell Junctions](https://www.ncbi.nlm.nih.gov/books/NBK26857/), which names no original report at these statements.
+- *The field's explaining*: plasmodesmata "directly connect the cytoplasms of adjacent cells"; the gap-junction channels couple the cells "both electrically and metabolically".
+
+**Laid beside, by this session.** The file meets the gap junction already, as "the gap-junction protein structure". At the plasmodesma the micrograph has one plasma membrane lining the pore from cell to cell, and no membrane between the two cytoplasms.
+
+**Next.** Needs resolving at the sentence: what is between two plant cells at a plasmodesma. The concern at the placenta in [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#droplets) is at the same saying.
+
+### Respiration's heat
+
+**The file's sentences**, at Living is metabolic beating — the cell as the engine: "the surplus returned as coupling and not lost" and "not lost as heat". At Photosynthesis and respiration — the six offering the six: "the surplus kept as coupling turn to turn, carrying, and not falling out as heat".
+
+- *Seen*: a living body is warm. The field's textbook has "nearly half of the energy that could in theory be derived from the oxidation of glucose or fatty acids" captured in the making of ATP, and "The rest of the energy is released by the cell as heat, making our bodies warm." It names no measuring at this statement ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at How Cells Obtain Energy from Food](https://www.ncbi.nlm.nih.gov/books/NBK26882/)).
+- *The field's explaining*: oxidation in steps, "so that much of it can be stored in activated carrier molecules rather than all of it being released as heat".
+
+**Next.** Needs resolving at the two sentences, and needs the measuring's own publishing: the textbook names none.
+
+### Supercoils ahead of a transcribing polymerase and behind it
+
+**The file's sentence**, at A left face is the emanation face of one right spiral: "it forms behind a transcribing polymerase where the winding has been left over-wound behind and under-wound ahead". The same paragraph has the left form passing "under negative supercoiling".
+
+- *Seen*: plasmid DNA inside bacteria is found highly negatively supercoiled with the enzyme DNA topoisomerase I inhibited, and highly positively supercoiled with the enzyme gyrase inhibited. Reported by the abstract of [Liu and Wang, 1987, Proceedings of the National Academy of Sciences 84, 7024](https://doi.org/10.1073/pnas.84.20.7024), read at a record of that abstract; the paper's body was not reached.
+- *The field's explaining*: the paper's model, for a transcribing polymerase that cannot turn freely round the DNA: "the advancing polymerase generates positive supercoils in the DNA template ahead of it and negative supercoils behind it".
+
+**Laid beside, by this session.** The file's own paragraph has the left form under negative supercoiling and forming behind the polymerase, and the model has the negative supercoils behind. Reading negative as under-wound, the field's usual naming, which this abstract does not spell out, the sentence has the two windings the other way round.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs an observing of the supercoils at a transcribing polymerase itself: this publishing is a model.
+
+### Collagen's three chains joined before its release
+
+**The file's sentence**, at Structural-protein surface — a matrix as the third self: "Released as procollagen, the molecules cleave, meet, and assemble into triples, triples into fibrils banded at sixty-seven nanometres".
+
+- *Seen*: in the electron microscope collagen fibrils have cross-striations each 67 nanometres. The field's textbook has each chain combining with two others into "a hydrogen-bonded, triple-stranded, helical molecule known as procollagen" before secretion; after secretion the end pieces "are removed by specific proteolytic enzymes outside the cell", and the collagen molecules assemble into fibrils. In scurvy the chains "fail to form a stable triple helix" and are broken down inside the cell. The textbook names no doing for the order of these steps ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Extracellular Matrix of Animals](https://www.ncbi.nlm.nih.gov/books/NBK26810/)).
+- *The field's explaining*: the end pieces "guide the intracellular formation of the triple-stranded collagen molecules" and, removed only after secretion, prevent large fibrils forming inside the cell; the fibrils form by the collagen molecules' tendency to self-assemble.
+
+**Laid beside, by this session.** The textbook has the triples formed inside the cell, procollagen the name of the triple. The sentence has the triples assembling after the release.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs the observing's own report for the order of the steps.
+
+### The gut's inner surface measured
+
+**The file's sentence**, at Six physical bi-foldings — where a differential arrives out of plane: "two hundred square metres of gut in a tube".
+
+- *Seen*: by measuring under the light and the electron microscope on biopsies "from healthy adult volunteers or patients with endoscopically normal mucosae", with lengths from the literature of intubation and radiology, the mean total inner surface of the digestive tract comes to about 32 square metres, about 2 of them the large intestine. The abstract has "a considerable variation between individuals" and prints no uncertainty ([Helander and Fändriks, 2014, Scandinavian Journal of Gastroenterology 49, 681](https://doi.org/10.3109/00365521.2014.898326), read at its abstract).
+- *The field's explaining*: "According to textbooks, the human gut mucosa measures 260-300" square metres, "in the order of a tennis court"; the report's own, "rather is that of half a badminton court".
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+
+### Copying errors at three steps
+
+**The file's sentence**, at DNA replication and repair — the self copying itself, and the protection of the copying: "the error rate falling from about one in ten million to about one in ten billion across the tiers".
+
+- *Seen*: the field's textbook table, "The Three Steps That Give Rise to High-Fidelity DNA Synthesis", has under errors per nucleotide polymerized 10⁵ at polymerization, 10² at proofreading, 10² at mismatch repair and 10⁹ in total, each read as one error in that many; its text has "only about 1 mistake is made for every" 10⁹ nucleotides copied. As its ground it gives bacteria with a defective proofreading enzyme, in which "many replication errors that would otherwise have been removed accumulate in the DNA". It names no measuring for the four figures ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at DNA Replication Mechanisms, Table 5-1](https://www.ncbi.nlm.nih.gov/books/NBK26850/table/A767/?report=objectonly)).
+- *The field's explaining*: several proofreading mechanisms "that act sequentially to correct any initial mispairing".
+
+**Laid beside, by this session.** At this publishing the three steps run from one error in a hundred thousand to one in a billion. The sentence's two figures are each a hundred times smaller.
+
+**Next.** Needs the measuring's own publishing before a figure is re-said: this table names none, and no other publishing was read.
+
+### A sperm's mitochondria inside the egg
+
+**The file's sentence**, at Conception — two selves conceiving a third: "the sperm a stripped fast co-offering with its own mitochondria shed".
+
+- *Seen*: in a section of a sperm drawn from the electron microscope, its mitochondria lie in the midpiece of its tail ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at Sperm](https://www.ncbi.nlm.nih.gov/books/NBK26914/)). And: "sperm mitochondria inside fertilized cow and monkey eggs are tagged by the recycling marker protein ubiquitin" ([Sutovsky and colleagues, 1999, Nature 402, 371](https://doi.org/10.1038/46466), read at its abstract, which has the sperm bringing "nearly one hundred mitochondria to the fertilized egg"; the report's body was not reached).
+- *The field's explaining*: the mother's mitochondrial DNA alone is inherited through "the selective destruction of sperm mitochondria", which the abstract names "the idea" its finding supports.
+
+**Laid beside, by this session.** The sperm's mitochondria are seen inside the fertilized egg. The sentence has them shed.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs the report's body, for the doing and for what is seen of the mitochondria later.
+
+### Tracheae and gut through a chrysalis, and an aversion carried into the moth
+
+**The file's sentence**, at A self recursioning into a new form — development and metamorphosis: "The caterpillar's tissues dissolve almost wholly (histolysis, a suspension no measurement distinguishes as having been muscle or gut or nerve)".
+
+- *Seen*: nine pupae of the painted lady butterfly, Vanessa cardui, were scanned alive by X-ray computed tomography through their pupal days, and a number hatched after repeated scans. The scans show "principally the tracheae and portions of the gut": "the majority of the adult tracheal system is well formed from the first day of pupation", and the larval midgut, whole on day 1, has moved back to its final position by day 7. "the muscles and central nervous system—are not resolved in the current scans due to lack of contrast" ([Lowe and colleagues, 2013, Journal of the Royal Society Interface 10, 20130304](https://doi.org/10.1098/rsif.2013.0304), read whole at its PubMed Central copy).
+- *Seen*: larvae of the moth Manduca sexta were given the odour of ethyl acetate together with an electric shock, at their fifth larval stage. Of the adults from them, 77 per cent chose plain air over the odour (27 adults, p = 0.005). Adults from larvae trained at the third stage did not avoid it (15 adults), nor did adults from larvae given the odour alone or the shock alone ([Blackiston, Silva Casey and Weiss, 2008, PLoS ONE 3, e1736](https://doi.org/10.1371/journal.pone.0001736), read whole).
+- *The field's explaining*: "there is less remodelling of the tracheal system than previously expected"; "associative memory survives metamorphosis", its recall involving "regions of the brain that are not produced until later in larval development".
+
+**Laid beside, by this session.** A measuring follows the tracheae and the gut through the pupal days, and a learned aversion is carried from the fifth larval stage into the moth. The sentence has a suspension no measurement distinguishes. These scans do not resolve muscle or nerve.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs resolving at the sentence, and an observing at muscle.
+
+### An aphid making carotenoids
+
+**The file's sentence**, at Vertical fractal — a network eating downward: "Every vertebrate eye sees by retinal, cut from the carotenoid ring, and no animal makes that ring".
+
+- *Seen*: in pea aphids, which are red or green, "the carotenoid torulene occurs only in red individuals"; "the aphid genome itself encodes multiple enzymes for carotenoid biosynthesis"; red individuals have a region of 30 kilobases with a carotenoid desaturase that green individuals lack, and a mutation in that desaturase "results in loss of torulene and of red body color" ([Moran and Jarvik, 2010, Science 328, 624](https://doi.org/10.1126/science.1187113), read at two records of its abstract; the report's body, with its doing, was not reached).
+- *The field's explaining*: "these aphid genes are derived from fungal genes, which have been integrated into the genome and duplicated", from comparing the genes' lines of descent; "aphids are animals that make their own carotenoids". The abstract begins from carotenoids "required in the diet of most animals".
+
+**Laid beside, by this session.** An animal is reported making carotenoids, with enzymes its own genome carries. In the field's explaining the making itself arrived from another self, a fungus.
+
+**Next.** Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs the report's body, for the doing.
+
+### Displaced monarchs fly on at one heading
+
+**The file's sentences**, at A butterfly that flies to a place it carries and has never been: "robust to displacement, since the heading is recomputed locally at each moment, not a fixed path" and "displaced monarchs will re-resolve a heading locally (they do — the compass recomputes)".
+
+- *Seen*: monarch butterflies caught in southern Ontario in September 2011 were flown tethered in flight simulators outdoors under a visible sun, carried 2,500 kilometres west by car to Calgary in four days, and flown again. The 23 tested at both places had a mean heading of 213 degrees in Ontario and 244 degrees in Calgary, "not significantly different". The constant course from Calgary to the wintering grounds in Mexico is 161 degrees, outside the 99 per cent interval of the Calgary headings, 197 to 292 degrees ([Mouritsen and colleagues, 2013, Proceedings of the National Academy of Sciences 110, 7348](https://doi.org/10.1073/pnas.1221701110), read whole at a copy on one author's laboratory site).
+- *The field's explaining*: "monarchs use a simple vector-navigation strategy", "a specific compass bearing without compensating for displacement"; its title has them "not true navigators"; "geographic barriers that guide individuals toward overwintering sites" is its account of their arriving.
+
+**Laid beside, by this session.** The displaced monarchs flew on at the heading they had, and from the new place that heading does not lead to the wintering grounds. This is the primary source the droplet of session v383Op at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#droplets) asks for.
+
+**Next.** Needs resolving at the two sentences.
+
+### Correlation across a starling flock, and a turn travelling through it
+
+**The file's sentences**, at A flock that turns as one with no one turning it: "two birds are as correlated across a kilometre as across ten metres"; "That the correlation does not decay with distance is not a mystery to be sourced"; and "a directional change rippling across the whole flock in less than a fifth of a second". Natural Illustrating has the last at Bodies and life.
+
+- *Seen*: starling flocks over a roost in Rome, in the winters of 2005 to 2007, were photographed by stereo cameras at ten frames a second and each bird's position and velocity reconstructed, in 24 flocks of 122 to 4,268 birds, 9.1 to 85.7 metres across. The correlation between two birds' departures from the flock's mean velocity is "close to 1" at short distances, "decays with increasing r", and becomes "negative at large inter-individual distances". The distance at which it passes zero "grows linearly with the size of the flock", 0.35 of it ([Cavagna and colleagues, 2010, Proceedings of the National Academy of Sciences 107, 11865](https://arxiv.org/abs/0911.4393), read whole at its preprint).
+- *Seen*: in 12 flocks of 50 to 595 starlings filmed by three cameras at 170 frames a second, the first birds to turn "are physically close to each other", and the distance the turn has reached "grows linearly with time", at 20 to 40 metres a second, differing from flock to flock. "the decision to turn can sweep through a flock of 400 birds in little more than half a second" ([Attanasi and colleagues, 2014, Nature Physics 10, 691](https://doi.org/10.1038/nphys3035), read whole at its author manuscript; its first preprint prints 10 to 20 metres a second).
+- *The field's explaining*: "correlations are scale-free", the flocks behaving "as critical systems"; the turn "a bird-to-bird ('social') transfer of information", in a theory that includes the birds' "behavioural inertia".
+
+**Laid beside, by this session.** The correlation is measured decaying with distance, in flocks under ninety metres across, and its reach grows with the flock. A turn is measured travelling from birds close to each other at a speed, a little more than half a second across four hundred birds. The sentences have a correlation not decaying across a kilometre, and a change across the whole flock in under a fifth of a second.
+
+**Next.** Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets). Needs resolving at "That the correlation does not decay with distance".

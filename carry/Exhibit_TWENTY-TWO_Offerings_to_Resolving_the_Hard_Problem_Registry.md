@@ -80,6 +80,8 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry Offerings · improved at 
 
 **At 9.3 · Free will and determinism · 29 — beside "the readiness ramp dissolved into an averaging artefact".** the readiness ramp read as partly an artefact of averaging;
 
+**At 3.6 · Turbulence and the Navier–Stokes equations · 47 — beside "the possible singular set thins to dimension zero".** the possible singular set thins to parabolic one-dimensional measure zero,
+
 ## Droplets
 
 **A plan, not yet final, gathered here at v381R:** **Incoming, at v376, the ten named still at the code's names.** Natural Naming 4.9 says the ten at the code's names, the five of each parity, *middling* dissolved and *rating* released; this file's ten as the five bi-coupled, carrying *middling* and *rating*, and its boxes' middling and rating pairs, each re-said at them at its motion. — v376
@@ -193,6 +195,8 @@ The whole enters R(5, 5) as every pair related at once. A society in this sense 
 **Aimed at a sentence, Resolving the Hard Problem Registry, *the readiness ramp dissolved into an averaging artefact*:** Hard Problem Registry, at its entry 29 Free will and determinism, has "later work showing the signal partly an artefact of averaging". The two living files part at *dissolved* and *partly*. The insertlet above, at 9.3, takes the registry's word. — v386EOD
 
 **Aimed at a section, Resolving the Hard Problem Registry, the Resolving locator, beside the insertlet at it:** The file's nine cross-references are at the locator's numbers, each one above the heading it means. "incoming number 177" at Goldbach's conjecture means Twin primes, headed 176, and "incoming number 176" at Twin primes means Goldbach's conjecture, headed 175. The others, 142, 132, 31, 169, 28 and 144, mean Principal and agent at 141, Benchmarks at 131, Goodhart's law at 30, The physical Church–Turing thesis at 168, Heritability and the determination of traits at 27 and The evolution of cooperation at 143. Next: resolving at this file's improving, each of the nine taking the same change the locator takes. — v386EOD
+
+**Aimed at a sentence, Resolving the Hard Problem Registry, *the possible singular set thins to dimension zero*:** Beside the droplet at [Offerings to Hard Problem Registry](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md#droplets) with its publishing: the theorem has the singular set's parabolic measure of dimension one at zero. Its insertlet is above. — v386EOD
 
 ## The field’s question and the particular resolving · v385A
 

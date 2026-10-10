@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v385A
+Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v386EOD
 
 # Offerings to Natural Societies
 
@@ -49,6 +49,10 @@ The older phrase “beside all existing things” supplies no exclusion: the [la
 Concern, at v380, from [the earlier Natural Networking gathering](../carryings/v380R/Natural_Networking_From_v380A.md), one pluralizing carrying — 4.4's sentence re-said at the carrying the self's own, or kept as now said of another relation; two sayings kept, parted by Natural Networking's and Exhibit ONE's forms — v381R
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+**Aimed at a sentence, Natural Societies, *a former free-living self now a member: the fractal's own move, observed*:** An observing in two lines is at [Carryings of Natural Societies](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own). Seen are the genomes mitochondria and plastids carry, their proteins' resemblance to bacteria's and their double membrane. The engulfing is the field's explaining of these, offered for those two kinds, with "Hypothetical schemes" for the cell's other compartments. The row's *observed* carries a field's explaining inside what reads as an observing. Next: needs resolving at the row, and an observing of a free-living self arriving as a member, with its doing. — v386EOD
+
+**Aimed at a sentence, Natural Societies, *Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead*:** Two observings are at [Carryings of Natural Societies](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent). In two people whose nasal cilia lack the central pair in part, regions of cilia are seen turning, beside stiff ones; in the alga Chlamydomonas, flagella lacking the central tubules are paralyzed and form no bends. Met at an observing at the human cilia, and parting from it at the alga. Next: needs resolving at the sentence. — v386EOD
 
 ## Three Layers Inseparating in One Resolver · v385A
 

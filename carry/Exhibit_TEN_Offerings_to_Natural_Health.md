@@ -1,4 +1,4 @@
-Exhibit TEN Natural Health Offerings · laid at v381R · improved at v385A
+Exhibit TEN Natural Health Offerings · laid at v381R · improved at v386EOD
 
 # Offerings to Natural Health
 
@@ -63,6 +63,8 @@ Natural Health receives from Natural Intelligence: the metabolic beating about �
 **Aimed at a file, Natural Health:** *runs* and *running* at 14 places, lines 35, 61, 73 (2), 85 (2), 89, 97 (3), 103, 108 (3), none passed. The section title 3.4b carries it, *The omega counting runs from the end where nothing crosses* (35, 89). The file says *Natural Health reads the self lived — the sway as it runs, the co-sequencing ongoing*, *the omega-self swaying, the co-sequencing running*, *The desaturations run methylene-interrupted*, *the alternating carrying on for days in a self with no transcription running*. Natural Naming 2.4 carries it at *living*: the co-sequencing living, the sway as it is lived. — v381R scan
 
 **Aimed at a file, Natural Health:** *sign* at the file's own voice, 8 places, no section title carrying the word; the places at 57 (×2), 65, 85 (×2), 95, 103, 116. Quoted short: *selecting by binary preferring — a sign, sign-only* (57); *a magnitude governing no sign, so a carry sequenced on it runs on a store with no sign to ride* (85); *The carry is where the sign flips, the reversal, the tipping* (116). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at a sentence, Natural Health, *the field's own theorem seats the sway as the living: fluctuation and dissipation are one function*:** An observing in two lines is at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-hair-bundles-swaying-beside-its-answering). The theorem is the field's own for a system at thermal equilibrium. At a hair bundle oscillating of itself, the swaying and the answering to small pushes were measured to part at each frequency tried; at a bundle with no oscillation of its own they were one. The field reads the parting as its mark of an active system. Met at an observing, and parting from the sentence. Next: needs resolving at the sentence and at its *at proof grade*. — v386EOD
 
 ## Own co-offering at ingesting and the remaining parity relation · v385A
 
