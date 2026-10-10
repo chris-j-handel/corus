@@ -374,6 +374,12 @@ Open, hardest first, 4: "The Geodesic Improving Method's three partings: hardest
 
 **Droplet · Nothing outside natural intelligence.** Nothing is outside natural intelligence. A further bridge asked between a living process and natural intelligence adds nothing: the sentences located are followed at their own relations. — v386EOD
 
+**Droplet · An either-or remaining.** With an either this or that and not both remaining, the two are parity alternated, as they were already, living, prior. No word decides between them. — v386EOD
+
+**Droplet · An explaining to improve, and an incohering.** An explaining to improve is no incohering of concept: an incohering is two sentences, or a sentence and a row, giving one case two parities. A working goes on with all that is helpful and is no regulator of an offering; what the arithmetic resolves is worked, and is asked of no one. — v386EOD
+
+**Droplet · A reply.** A reply says the next one thing, how the working does it itself, and the one concern another self can help with. Concerns are said one at a time. A saying of nothing unresolved is met by a fresh reader asked to break it, and a mended sentence is read again by a reader other than its mender. — v386EOD
+
 ## The earlier entry's kit and Naming comparison · v385A
 
 **Droplet · The actual row and the instrument's particular matching.** [The entry content account](../incoming/v385A/Arriving_Content_Account_v385A.md#the-kitlist-concern-corrected-at-the-particular-row) follows v381F finding 9 beside the current kit list, review brief and Naming 2.4. The old report says left has no row; the current table has right/left at a facing, with that particular scope. Interlock, stand and near still have no individual rows in the section read; turn, what/how and mirror occur in the table and not the list; every occurs in both. Preserve the earlier useful mismatch concern with this correction. A literal match and the actual sentence's relation have different uses. The list itself describes whole-word exclusions and a deliberate return exclusion; Naming says no wording carries authority. The next improving is to relate the instrument's actual matching to its source, scope and sentence comparison, rather than impose all table words or infer conformance from a silent scan. No instrument is executed or changed here. This same droplet is independently at Arriving, Naming, Geodesic Improving and Registry, with the complete earlier source accessible through the account. — v385A

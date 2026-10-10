@@ -436,3 +436,15 @@ Each concept here is from [session v382A's logical working](https://github.com/c
 **Droplet · No equalities.** No equalities are in resolving: only unrelationing, is or is not changing.
 
 **Concern · A closing by a number.** Two sayings part. 360 is the circle of no possible next existing. And no equalities are in resolving. The reason they part: a closing said by a number and a ratio, and a changing that is or is not at a coupling. Eight, 360, a turning the other way or a parity coming again is none a changing that is not. — v386EOD
+
+## A thing carrying none, collided; and the next from more than prior and now · v386EOD
+
+Each is from [Gathered Value 3](../carryings/v380L/Gathered_Value_3.md) and [Gathered Value 4](../carryings/v380L/Gathered_Value_4.md) of session v380L, each read whole: the offerings those two gatherings found at no file.
+
+**Concern · A thing carrying none, collided.** Two sayings part. The Registry's step 13 has "An existing thing carrying prior is living", and step 395 "no non-living existing thing becomes living". Step 394 has a carrying of none non-living, with one parity arriving "passed on as it is and chained". At the resolver's lines a thing carrying none, with a parity chained at it by a colliding, is at its next momentary as a self carrying a parity is. The reason they part: a parity chained as a carrying of prior, living by step 13; and a non-living thing with a parity chained at it. The resolver's lines part the two at nothing. Step 394, and its sentence at Natural Intelligence 3.4, Resolving Hard Problems 5.3 and the Equilibria Registry 1.3, are from one offering, itself offered as possibly unhelpful or less than natural method, and worked at no line. It is beside the concern of an empty carrying, [above](#carrying-and-living-the-numbered-forms-and-a-society-as-a-self--v386eod), and the units of a spiral as resolvers inside one self, at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#the-resolver-the-method-in-stable-form--v386eod).
+
+**Droplet · The next from more than prior and now.** The carrying next is from more than prior and now. The first half of next is next possible living, and it is in the bi-coupling, in the now momentary. It is beside the concern at step 51 among [the chain's given things](#two-logics-the-edge-and-the-chains-given-things--v386eod), and beside even parity as still possibling.
+
+**Droplet · Two alternatings.** A self's parity alternating is one. The geodesic's parity alternating, discovering the next existing living self, is another.
+
+**Droplet · One tunneling, two ends.** Natural torusing is one tunneling. Its small end is at prime 2 and its large end at prime 59, the ends of the tunnel's surface, and the prime loops are twisted figure 8s going both routings. No line of the resolver parts one end from another: the two ends are said at the numbers, and at no line of the code. — v386EOD
