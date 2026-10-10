@@ -51,3 +51,11 @@ The possible six-forward comparison of the three workings is at [Possibling of C
 Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. 4 to 5, 8 to 9, 12 to 13 and 16 to 17, each followed through its named places beside the across offerings at 2, 6, 10 and 14: the sharing, the self's carrying wound, the entraining and the society wound, each at its next opening.
+
+## Each table's own Registry sentence at its heading · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** At each table's heading, the Registry's sentence in its own words and one line saying the joins are the table's own condition. At the spiral: "each self is at the inverted parity the self it receives from was at two momentaries prior". At the torus: "The divide of step 243 is derived". At two spirals crossed: "come to each self's releasings again at 2 from a momentary on, the two crossing selves opposite from it on". With them, the first parities and the stepping each table is at, and the files' saying of a society at one parity with no stepping.
+
+**Possible project.** A table of two selves one and then the other at Exhibit ONE, or one sentence saying the two-self rows are of selves stepped together; and at the Registry's step 82 the five said by offering and carrying too. At the torus's table, the six cases of a self with two offering.

@@ -1,4 +1,4 @@
-Exhibit Natural Resolver Natural Resolver Carryings · gathered at v385A
+Exhibit Natural Resolver Natural Resolver Carryings · improved at v386EOD
 
 # Carryings of Natural Resolver
 
@@ -93,3 +93,13 @@ These are the completed session’s reported arrangements and counts. The prior/
 Session v385R section 98 reads carryings/v383Op/own_pacing.py, returned/own_pacing.txt and At_The_Code.md section 2 at its named snapshot. It reports that the stepping-together construction delays offerings until the next whole pass and compares after every self enters; the separate-entry construction delivers offerings immediately and compares after each individual entry. Both delivery and comparison position differ. The retained return reports an unchanged alike/opposite relation in the particular together construction and a varying relation in the separate-entry constructions.
 
 This is a reading of an existing instrument and retained return, not a new execution or observing of living carrying. The [actual offered concern at Natural Intelligence 4.13](Offerings_to_Natural_Intelligence.md#the-relation-carried-at-each-selfs-own-pacing--v385a) preserves the distinction between an unchanged pair comparison and continuing co-chaining.
+
+## Reported executings of session v383Op, each the arrangement's own · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each is an executing's reported relation at its own arrangement, with its numbers left at the session's records, and resolves nothing.
+
+- At spirals, with each order of entries followed: no first parities parting come to no further entry at any order, and each first parities alike come to it at one order at least.
+- At one other the next is the other's prior inverted at each entry. At two others the next is the two others' priors surfaced, all or none, at most entries and not at each; the others' nows alone give the next at no arrangement reached.
+- Each self's entry made at one sharing from each side gives Exhibit ONE's own sequence at any order. Made at one from either side, the order drawn, it does not; made at one from either with each self once in each round, it does.
+- The Registry's step 611 is reached with nothing at the executing's lines at the first momentary. With offerings laid at those lines first, some selves are still possibling longer, the Registry's offering from beside the selves.
+- At selves with two sharing to each, at late momentaries, the selves with none offered at both sides and the selves offered their own parity at both are one number, and the selves offered none and the other parity are one number with the selves offered none and their own.

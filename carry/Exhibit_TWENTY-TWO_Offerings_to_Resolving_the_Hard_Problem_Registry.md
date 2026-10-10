@@ -217,3 +217,13 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Concern · The marker, and a nought, at 3.22.** At the Poincaré conjecture the marker is "+ or − at 10, is.", and the entry's own sentences have "the arrival takes no parity anywhere, which is a nought arriving whole" and "No loop caught, no tunnel, no gap at the running". A + or − at 10 and no parity at any sharing part at one entry, with no two subjects named for them.
 
 **Droplet · A genome doubled.** The insertlet at this mate of a genome doubled as each sharing arriving twice alike is beside the concern at [Offerings to Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#one-parent-a-genome-doubled-the-fragment-the-worm-and-living-again--v386eod).
+
+## One marker at each entry, an arrival said as arriving still, and the settled entries at two numbers · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Concern · One marker at each entry.** "+ or − at 10, is." is at each entry alike. Entries followed name no thing an observing or a reckoning could show other, and no step of the Registry and no table of Exhibit ONE. Each problem is resolved at this file's meaning, by being said at the names; or each is as it was at the other registry's meaning, and a newcomer's. A reader arriving has the second.
+
+**Concern · A resolving, and an arrival arriving still, at one entry.** This file has, at its own entries, "An arrival at the next stands open, arriving and coupling then", "the truth value is untouched by any of this" and "The discriminating programmes stand running": a resolving and an arrival arriving still are two predicates at one entry, each asking its own name.
+
+**Concern · The settled entries, at two numbers.** The Hard Problem Registry has five entries settled, by one reading's numbering; this file's front has "four arrivals stand as settlings beside their resolvings" and "the fourth stands located at no entry still".

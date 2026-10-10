@@ -133,3 +133,11 @@ The earlier topological comparison also remains available: a closed orientable s
 Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
 
 **Droplet · Three parities inverted together is no one numbered pairing.** Three binary parities inverted together pair the eight forms as four pairs, with no form its own partner: a relation of three parities, position, scale and orientation. The one pairing of sixty to sixty-eight about 64 names none of the three, and has 64 its own partner. The four exchangings about 64 are a numbered passage, no four resolver entries of a form emanated, and no clock. It is at this file's 3.5, whose title has *bi-tri-involutioning*, a naming Offerings to Natural Naming has as released for *bi-tri-involution*.
+
+## Three fixings, and their root · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · Three fixings, from one root.** This file names three fixings at the first line: "Particle zero: an unquestioned absolute location, a point placed, not a physical particle", "A unit installed: scale made undiscussable", and "A frame given". The Equilibria Registry has their root, "The universe as one thing beside its things is exclusivity". No sentence joins the root to the three. One joining: a whole at one now has each thing at a place, a size and a facing said once for the whole, the three fixings, as it has a number of things, none and one more than itself.
+
+**Concern · A set an existing thing, of each set.** The Registry's step 2 has a set an existing thing. Of the universe the opening sentence may be said that way; of each set it says nothing. With each set of existing things an existing thing, a set of two is a thing at four forms, and the things that are no members of themselves are asked of. It is beside this mate's asking for the existing relation by which a gathering is an existing set.

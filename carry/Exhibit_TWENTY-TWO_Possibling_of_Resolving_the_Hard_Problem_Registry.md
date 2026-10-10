@@ -25,3 +25,9 @@ Resolving the Hard Problem Registry Possibling · v386EOD
 **Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
 
 - At the droplet aimed at a section, Resolving the Hard Problem Registry, the Resolving locator, beside the insertlet at it: Resolving at this file's improving, each of the nine taking the same change the locator takes.
+
+## Resolved said at its meaning, and the marker at a proof's entry · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. At this file's front, *resolved* said at its meaning beside the other registry's sentence; each of a resolving and an arrival arriving still at its own name; the settled entries of the two registries at one number; and at a proof's entry, the Poincaré conjecture among them, the marker 0 at 10.

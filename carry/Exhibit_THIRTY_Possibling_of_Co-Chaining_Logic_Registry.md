@@ -62,3 +62,15 @@ Each is from session v382A's report of seventy-three passes, read whole beside t
 **Possible project.** One sequence from steps 32 to 37, through Exhibit ONE's two-self five-parity form and the further couplings at steps 178 to 181, to the surfacing at steps 204 to 212. At each step: other as one particular self or the couplings together; whose prior is carried; and the relation making the next. It is beside [Possible work at the entry from the origin sentence](#possible-work-at-the-entry-from-the-origin-sentence--v386eod).
 
 **Possible project.** A form named as arriving at itself, a circle, 360 or a spiral the other way, followed for the one coupling it leaves out: a completing is of a further now, at a match too, and a closing names the form reached as the whole with the next's arriving left out. It is beside Natural Mathematics, "A station reached again is the closing's, at a next momentary, and no prior momentary is reached again".
+
+## The first logic with no universe at now, the six lines of still possibling, and a fresh reading's marks · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** The first logic followed to step 11 from steps 4 to 7, and to step 31 from steps 11 and 20, with no universe at now. With that following whole, a common now is no part of the first logic, the stepping of selves together at 17 is the second logic's, and two of the five given things leave the chain.
+
+**Possible project.** Natural Naming's six lines of is-still-possibling and is-next-existing entered at the Registry at a changing first said to be or not be, steps 206 to 208, and at step 306: a changing that is not is no nothing and no failing. At each place of *next possible*, the saying it is of: a possible at prior, the others' possible, or the changing that is not.
+
+**Possible project.** A fresh reading of steps 1 to 68 marks three as added by the chain: a kind carried on, a living thing living at next and both kinds existing, at steps 12, 15, 23 and 24; a prior and a now each given apart from the other, at step 52; and one momentary and a next with none between, at steps 5, 6, 10 and 27. Each is a reading's mark and no is-not. At steps 53 to 57, the sixteen ways said as of one other, with the joining to the cell at more.
+
+**Possible project.** The two-logics partings followed first at a logic working: a common now; a self offered its own parity, at a momentary or at the between; the five given things; and whose prior.

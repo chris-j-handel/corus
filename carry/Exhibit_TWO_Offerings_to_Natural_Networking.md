@@ -399,3 +399,9 @@ Each concept here is of a living network surface after a colliding, said once in
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Droplet · Two passages round a missing centre.** Beside 6.12: each passage round is along, across, across, along through five selves and four couplings. The two share their two end selves: ten places at eight selves and eight couplings, and no end self has a second carrying. Mending is at the couplings living; the absent centre gives no carrying and no resolving, and the two passages ask no one sharing arrived at together. A corner self is a whole self resolving and carrying on, and its 0 shared removes neither the self nor the coupling. A passage missing, a self sharing no changing, and a self no longer living are three. Two paths, two kinds of changing, living alternating at the surface and geodesic changing at a crossing, and two parities are three pairs: a drawn position lays no parity and no kind at a self.
+
+## A 0 offered, at the self it arrives at · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · A 0 offered, at the self it arrives at.** At the self sharing it, a 0 at 10 is that self's own 12 at prior and now agreeing: is-still-possibling. At the self it is offered to, a 0 alone surfaces none at 14 and that self's prior inverts: is-next-existing. That self is still possibling at that momentary only with its own parity offered at the same sharing by another. Each side is at its own 12, and the 0 at the between is neither side's.

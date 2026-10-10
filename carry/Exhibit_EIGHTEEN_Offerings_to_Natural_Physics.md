@@ -598,3 +598,11 @@ This extends the existing transmitted-coupling concern here; it does not decide 
 ## Liquid surfaces closing and retracting after penetration · v385A
 
 The [skin-and-liquid surface gathering](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) holds the user's whole suggestion and particular reported comparisons. At liquid surfaces, keep the water's free surface, the cavity below it and the freely suspended film explicit. Follow what the rim bounds while the opening closes or enlarges, and what remains after the penetrating object passes. This is the particular relation needed beside the proposed bounding zeroing natural torusing; a rounded edge alone does not supply it.
+
+## The weak coupling's hand and right, and a regular rate · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · The weak coupling's hand joined to right, withdrawn.** The droplet at this mate asking by what observing the hand the files name right is the one the cobalt shows is withdrawn as a joining: the Registry has "the round forward from prior to next is right", no hand in space. The observing is as it was: a hand of this universe observed at the weak coupling in 1957, beside this file's "which hand unknown so far".
+
+**Concern · A regular rate, a clock over or a coupling among.** Beside the observing at this mate of clocks of three atoms agreeing in the ratios of their rates: the Registry has "a regular rate at the observings shows a clock over them or a coupling among them". Which of the two a field's one field for each kind of particle is, at the files' naming, is said at no sentence of this file.

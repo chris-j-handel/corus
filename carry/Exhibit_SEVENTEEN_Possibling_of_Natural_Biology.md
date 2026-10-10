@@ -59,3 +59,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Possible project.** 8.8's step eight, its offered experiment, followed at its own changing.
 
 **Possible project.** The seed beside four sections: 4.1's inert, 4.5's inward coupling and dormancy, 5.2's possible further form, and 7.8's form, rate and carrying.
+
+## A seed and a virus at 4.1, and beating and carrying at 3.1 · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. At 4.1, a seed parted from a virus at carrying. At 3.1, metabolic beating and carrying coupled at one sentence, at an observing naming an inward self, its sharing and its momentary.

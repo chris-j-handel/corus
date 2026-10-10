@@ -93,3 +93,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Concern · The older bound, at 3.4, 4.1 and 5.2.** This file's 3.4 has "Ingest a flawed form once and the attentioning ages it out; ingest it consistently and the flaw seats into the carry", parting one offered form from offerings repeated by a releasing at a bound, and reaching to a food as a cause; the carrying table now, and an offering repeated, give no such cause. Its 4.1 has "the carry aging by attentioning and staying fresh by sequencing", and with 5.2 carries the older doing into living, departing and restoring; the Registry's steps 411 and 412 have the departing and restoring to follow. The whole concern is at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#the-parity-of-a-sum-the-older-bounds-sentences-and-three-subjects-at-a-reservoir--v386eod).
 
 **Droplet · Three further places.** At 3.4b, an accounting in numbers names no biological relation and no value of one ingesting. At 5.1 and 5.2, a saying repeated in the file's own gathering gives no prior relation, and its correspondences are reachings.
+
+## Two droplets released · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · A paragraph at the front, and a caution beside a sentence, released.** The droplets at this mate of one plain paragraph at the file's front and of each caution beside its sentence are released, with their reason at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#a-harm-no-kind-of-concern-the-droplets-it-releases-and-three-sentences-with-a-doer-first--v386eod).

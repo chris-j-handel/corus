@@ -32,3 +32,9 @@ The [revolving-door offering and three institutional conditions](Offerings_to_Na
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. Beside each living file, a direct link to its three mates; and from a question, a way to the Living File Registry's clusters of subjects.
+
+## A way in made of the places an arriving stumbled · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. A way in made of the places an arriving stumbled, each a droplet, the most concerning first and one at a time: it asks no form carried, each droplet names its place by a plain name, and each rises or dissolves like any other. It is beside this mate's saying of the experience carried with no entrance required.

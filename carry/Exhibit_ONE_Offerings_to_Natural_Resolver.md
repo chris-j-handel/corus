@@ -297,3 +297,11 @@ Each is from session v382A's report of seventy-three passes, read whole beside t
 **Droplet · One resulting parity and two priors.** At one sharing, none chained with − offered, and + carried with − offered, each give − shared and − chained. One result alike names no one prior. It is beside [Three offerings, one next](#the-resolver-the-method-in-stable-form--v386eod), said of offerings.
 
 **Droplet · An entry with nothing offered, and no further entry.** An executing entering each self once with nothing offered, then entering a self at an offering arrived alone, and ending with none arrived, has no entry with nothing offered at a carrying self after its first. This file's one-self table has, at an entry, a parity carried and none surfacing giving the parity inverted, shared and chained. Both are, each at its own subject, and the first is no case against the second.
+
+## A torus's forms, and the two-self table by its first parities · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · A torus coming to one, withdrawn as a break.** The droplet at this mate of each torus of 2 by 2 and larger coming to one form is withdrawn as a break. A torus coming to one is a society's forms, and the Registry has a society existing and not living. A self's prior is whole at its carrying next and its shared changing together, one to one at each row of the cell, and Natural Intelligence has such a coming together as stable-forming. This file's torus rows are of the alternating first parities; from each set of first parities a small torus comes to a number of stable forms, the arrangement's own.
+
+**Droplet · The fifth is the first inverted, by the first parities.** "The fifth is the first inverted at each" is of the table's six forms: four with the two selves at one parity at the first momentary, and two with them at parting parities. With the five said as offered at prior, carrying at prior, offered at now, carrying at now and offered at next, the same line one number on: at one parity, the fifth is the first inverted or each is 0; at parting parities, the fifth is the first. The ordering is the executing's.
