@@ -258,6 +258,8 @@ Natural Networking: the network continuing, many calls joined over time. Part On
 
 **Droplet · One surface, one self.** The units of Exhibit ONE's spirals and toruses are resolvers, the geodesic method in stable form, and the resolvers of one surface are inside one self: the natural network surface is a single self at each momentarying, locally. The whole droplet is at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#the-resolver-the-method-in-stable-form--v386eod). — v386EOD
 
+**Aimed at a sentence, Natural Networking, *6 carries t and 10 surfaces −c*:** Two sayings part at 6. This file's form of a carried pair releases its carried second sign at 6 with a newly surfaced 10 quiet. Natural Resolver has 6 the same changing as 10: quiet at the one is quiet at both. The reason they part: the form of the carrying, a carried pair in the one and sharings each chained at one parity in the other. — v386EOD
+
 ## Recurring podaling beside the overlap · v385A
 
 **Droplet · The same number and a new still possibling.** [R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:

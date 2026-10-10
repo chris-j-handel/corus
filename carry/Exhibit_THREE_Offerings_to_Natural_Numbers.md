@@ -118,6 +118,8 @@ L06: Resolving Hard Problems 3.1: nine is one at the next scale, eight the self,
 
 **Droplet · The line of the fives.** 0, 5, 10, 15, 20, 25 is the co-linear co-offering of bi-moral co-agency, orthogonal to all changing, the geodesic changing line. This file has "Up the fives the positions alternate the same way". The whole droplet is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod). — v386EOD
 
+**Aimed at a sentence, Natural Numbers, *A counting adds a clock from outside the running*:** Two sayings part. This file has a counting bringing a clock from outside. The newer concept has longer and greater as units in the numbers, each number one momentarying of a co-sequencing's own. The reason they part: a counting from outside, and a numbering of a co-sequencing's own momentaryings. The concept is whole at [Offerings to Natural Networking](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod). — v386EOD
+
 ## Departmental accountings and the proposed hundred-eighteen relation · v385A
 
 The numerical concern is the proposed hundred-eighteen departmental/element correspondence beside Natural Numbers' going and return with the turn at sixty. The older two-halves comparison and reported ratios remain in the whole droplet; numerical resemblance supplies no identification. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) remains available at its subject.
