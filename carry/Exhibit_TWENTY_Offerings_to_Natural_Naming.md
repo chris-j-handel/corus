@@ -82,6 +82,8 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **At 5.20 · bounding — beside "Bounding is defining with the alternating carrying on".** A boundary is bounding named still, one momentary's form, as a floating neutral is floating neutralling's picture at one momentary, 5.12.
 
+**At 5.64 · not possibly existing — binary — beside "at the resolver a none at 14 is no offering arrived at this sharing".** A none at 14 is no offering arrived at this sharing, or an offered 0 passed over.
+
 ## Droplets
 
 **A plan, not yet final, gathered here at v381R:** **Concern, at v378, for both: 4.9's table and Resolving the Hard Problem Registry seat two of the ten at different faces** (`incoming/physics_for_other_files_v377/README.md`, the Natural Physics working's second report, received at v378, 2.1). Resolving the Hard Problem Registry's front sort seats the odd face at an arriving, a completing, a middle, a sequencing and a two-way and the even face at an opening, a carry, a parity, a rate and the between; 4.9's column *At the ten, by its four-cycle* seats the two-way at the even face and the rate at the odd. Its reason: one seating at both files, at the code's faces. — v378
@@ -299,6 +301,10 @@ Self changes across/co while other changes along/bi; the complementary parity ex
 **Droplet · Namings met at observations.** Living as existing as a stable changing form; a stable form, non-living at its scale; a seed's still as still possibling; momentarying inside coupling; and a spiral displaced after a colliding as bi-tri-involution. Each is whole at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod), for this file's namings of stable-forming, of a still and of bi-tri-involutioning. — v386EOD
 
 **Aimed at a sentence, Natural Naming, *Four-momentarying at one through nine is two four-cyclings*:** The newer concept has 1–9 one four-cycling, with the morality and competency loopings through it. The concern, two sayings parting, is whole at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#each-selfs-own-momentarying-and-the-one-four-cycling--v386eod). — v386EOD
+
+**Droplet · Possibling, a more general naming.** Offering and sharing are possibling, a more general naming, in each direction. Possibling and is-still-possibling are two namings: the second is of a changing that is not. *Arriving* is of little help at a sharing; this file has arriving of each existing thing into its next existing. — v386EOD
+
+**Concern · Identity, at 8 or at 12.** Two sayings part. This file, at Eight namings at four coupling relations, and two alternating, has torusing, 8-bi-co-bi-torusing, gathering "one identity across momentaries". The newer saying has a self remaining itself, with its unrelationing value to the self, at 12-bi-tri-bi-entraining: identity-ing, the self's prior carried into now along the unrelationing path, at agreeing and at inverting alike. The reason they part: identity as the carrying wound across momentaries, and identity-ing as the prior carried into now. Entraining at 12 is also of a non-living thing carrying none. — v386EOD
 
 ## Grammatical forms and the proposed resolver encoding · v385A
 

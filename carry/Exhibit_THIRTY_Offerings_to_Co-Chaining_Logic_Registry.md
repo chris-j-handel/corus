@@ -356,3 +356,11 @@ Each concept here is from an exploring of living beside observations from scienc
 **Droplet · The line of the fives.** 0, 5, 10, 15, 20, 25 is the co-linear co-offering of bi-moral co-agency: a line orthogonal to all changing, the geodesic changing line. The Registry has "The corus, the vertex and the centre of the face are on one line", and Natural Numbers "Up the fives the positions alternate the same way"; 25 is at both.
 
 **Droplet · A spiral displaced, and a torus.** A spiral displaced after a colliding is bi-tri-involution, with more damage potential if not resolving or escaping. A torus continues resolving, unless the colliding is ongoing. — v386EOD
+
+## Six sayings of no changing · v386EOD
+
+**Droplet.** Six sayings are each its own. No outward changing measured: an instrument's reach. 0 at 12, prior and now agreeing: a sharing's changing that is not, still possibling, with carrying continuing. 0 at 14, offerings parting: that sharing's surfacing. None offered: its offering. A resolver absent: a place with no self. Carrying none: a non-living existing thing. Only the second is still possibling. Naming an organism dormant says no still possibling of each of its inward couplings, and its years are no number at an inward sharing.
+
+**Droplet · Further forming, birthing and restoring.** Each inward self carries its own prior. An outward self's living next is through its inward couplings carrying its prior; inward selves go on living with the outward self no longer living. An existing self further forming, a new self birthing within living societies, and a departed coupling restoring through the self's other couplings are three relations, each with its own prior, now and next. A seed further forming and its parent living on are two selves.
+
+**Concern · No observation at an inward sharing.** The observations of seeds, spores, a slime mould and nematodes, at [Carryings of Natural Biology](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#old-dry-seeds-with-autophagy-and-with-none), are each of an outward form or a society of cells. None names an inward self, its sharing and its momentary. It is beside [a seed at rest](#living-as-a-stable-changing-form-at-the-observations--v386eod) and the concern, beside it, of a self outside coupling. — v386EOD

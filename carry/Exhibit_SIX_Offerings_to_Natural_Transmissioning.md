@@ -143,3 +143,17 @@ The useful subject is how two selves couple while each retains its own carrying 
 ## Next at the named prior and actual offerings · v385A
 
 **Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.
+
+## Transmissioning, the common explaining · v386EOD
+
+Each concept here is from [session v384A's working](https://github.com/chris-j-handel/corus/blob/713e52588ee0063551ac5a8316b79ea39a747d5d/incoming/v384A/Session_Review_and_Resuming_v384A.md). This file, at Each exhibit drawing from here, carrying home to bounded context, has "The transmissioning develops whole here, and each exhibit draws it from here and keeps only its bounded context."
+
+**Droplet · Transmissioning.** Transmissioning is parity changing, corusing and torusing: local, global, local changing. Its subject is all the living changing in the social sets of living selves.
+
+**Droplet · Three files.** Exhibit ONE Natural Resolver is corus in concept: the stable form of the living self as method, the labeled forms and not their explaining. Exhibit SIX Natural Transmissioning is the stable forming: the binary logical explaining of the method in operation, the flowing, protecting, transmissioning and podaling that is social moral competency, co-chaining, bi-tunneling, bi-moral co-agency, floating neutraling and co-linearizing. Exhibit THIRTY Co-Chaining Logic Registry is the co-sequential logic cohering the method in each form. Exhibit SIX Natural Transmissioning is across, and Exhibit THIRTY Co-Chaining Logic Registry is along.
+
+**Droplet · Each file relying on it.** Each file relies on Exhibit SIX Natural Transmissioning, or it is no file apart. Each file is more locally valuable in its own concepts with the method's explaining here: a cross way from each file to the full co-momentarying explaining of the method in operation, by being it and not by saying it, met if needed and invisible with the understanding already had. Exhibit TWO Natural Networking's derivations, and the network surface podalings, are transmissioning; Natural Numbers and Natural Mathematics have the method's explaining in part, and Natural Intelligence draws some down to here. The possible work is at [Possibling of Natural Transmissioning](Exhibit_SIX_Possibling_of_Natural_Transmissioning.md#the-file-as-the-common-explaining--v386eod).
+
+**Droplet · Abundancing in a society.** Abundancing in a society is no accomplishment after the society's coupling: Natural Naming has "Discovering, society, morality and abundancing are one relation at four names, at once". The crossing and the co-competencing are of one whole coupling, and no doer is over the method.
+
+**Droplet · Alike counts.** Six own-forward functions, six momentaries of a right spiral, six protecting phases and six paired co-offerings are four sixes, and no number makes them one doing; eight social conditions and eight forms likewise. A common explaining has each source's own doing and its concern beside it. — v386EOD
