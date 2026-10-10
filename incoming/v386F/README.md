@@ -261,10 +261,10 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 |---|---|---|---|
 | C7 | A file naming another: *no file named inside another* against the lean set | Natural Explaining 1.4, 2.7 | **top**; needs both selves' word; releases O2–O5 in one |
 | C4 · C9 | Possibling other: bi-coupling and possibling one thing, parting at the spiral of one, unmet at the code since 14 surfaces each offering alike | Natural Intelligence 4.13, 5.3, 2.1; Exhibit ONE's 14 | open, one concern with the next coupling (v386EOD) |
-| C10 | *At each prime it couples at* against one prime scale: the crossing self lives at the crossed society's one scale | Natural Explaining 4.1; Natural Intelligence 3.5, 4.13 | open, resolving toward one scale |
+| C10 | *At each prime it couples at* and 4.15's *a self couples at whichever scale its interest opens* against one prime scale and no other | Natural Explaining 4.1; Natural Intelligence 4.15, 3.5, 4.13 | **needs your word** |
 | C11 | The universe *existing and not living*: no top, each momentary a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | open, resolving at 1.1 |
 | C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | open, the code the method's |
-| C1 | The opening sentence without *both living and non-living* | Natural Intelligence 1.1 and eight files | open; needs both selves' word; its deriving at O21 |
+| C1 | The opening sentence without *both living and non-living*; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | open; needs both selves' word on C10, C14, C3 before it is ready |
 | C3 | A carrying of none: non-living, or a self at its first momentary | Natural Intelligence 3.4; Exhibit ONE's table of a carrying of none | open |
 | C5 | The method non-living at every scale, or a living set read up | Natural Intelligence 3.3, 3.1, 5.1 | open, resolving toward 5.1 |
 | C6 | Dying reaching one scale down | Natural Naming 2.4 | open, resolving toward the inward selves continuing |
