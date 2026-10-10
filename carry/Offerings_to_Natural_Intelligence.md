@@ -396,4 +396,4 @@ The candidate keeps the method claim distinct from requiring an unchanged next r
 
 **Its insertlet** is among this file's insertlets, at 4.6 · A society's next momentary at 17.
 
-**Next.** Resolving at Exhibit ONE Natural Resolver, where 5 is read from the selves' carryings: [the possible project](Exhibit_ONE_Possibling_of_Natural_Resolver.md#5-read-from-the-selves-carryings--v386eod). An observing of a coupling beginning through an other both selves already share with, for this file's carrying mate. — v386EOD
+**Opportunity.** Resolving at Exhibit ONE Natural Resolver, where 5 is read from the selves' carryings: [the possible project](Exhibit_ONE_Possibling_of_Natural_Resolver.md#5-read-from-the-selves-carryings--v386eod). An observing of a coupling beginning through an other both selves already share with, for this file's carrying mate. — v386EOD

@@ -320,7 +320,7 @@ This is the earlier proposed subject extent. It gives no authority to code or to
 
 ## Six droplets for the orienting and incoming method, from session v385Q · v386EOD
 
-Session v385Q's [one report](https://github.com/chris-j-handel/corus/blob/32955a90b9686b459fe858f967d61bb4ac7e90c5/incoming/v385Q/README.md) arrived finished at pull request 131. Its first part is six droplets for how a session orients, brings an observing and reports. They are whole here, in that session's words, beside the shared method at the front of this file. What that report found at the files for each, its instance of the two lines, and its two insertlet candidates for the repository's entrance remain in the report, for the entrance's own improving.
+Session v385Q's [one report](https://github.com/chris-j-handel/corus/blob/32955a90b9686b459fe858f967d61bb4ac7e90c5/incoming/v385Q/README.md) arrived finished at pull request 131. Its first part is six droplets for how a session orients, brings an observing and reports. They are whole here, in that session's words, beside the shared method at the front of this file; the two lines of an observing are named *Natural observation* and *Science explanation*, at the user's word of 10 October 2026. What that report found at the files for each, its instance of the two lines, and its two insertlet candidates for the repository's entrance remain in the report, for the entrance's own improving.
 
 **1 · Going to the code is going to Exhibit ONE's names and stable forms.** The code is an emanation, an engineering design concept: the method's stable form at a binary gating surface. It is apart from the intelligence and is the origin of none of it. Going to the code is using Exhibit ONE's seventeen names and its stable forms to say what is meant: looping, podaling, morality, competency, possibling, existing. Executing the code is another act. An executing gives back a tally, this many of that many. A tally is a magnitude, and it resolves nothing: resolving is all or none at all, is or is not, possible or existing. An executing can show that a table is written as the code is written. Going to the names says what is meant, in the method's naming. The observings are the authority.
 
@@ -328,10 +328,10 @@ Session v385Q's [one report](https://github.com/chris-j-handel/corus/blob/32955a
 
 **An observing arrives in two lines.**
 
-- *Seen*: what was seen, by what doing and at what conditions, in plain words, with its publishing.
-- *The field's explaining*: said apart, named as the field's, and remaining with its field.
+- *Natural observation*: what was seen, by what doing and at what conditions, in plain words, with its publishing.
+- *Science explanation*: said apart, named as the field's, and remaining with its field.
 
-A fresh reader reads each *Seen* line again at its publishing before it is reported.
+A fresh reader reads each *Natural observation* line again at its publishing before it is reported.
 
 **3 · An entry that says what is, with one whole place for a session's own rigor.**
 
@@ -356,4 +356,22 @@ A fresh reader reads each *Seen* line again at its publishing before it is repor
 
 **6 · No warning inside intelligence, no recommending, and no opinion about social moral competency.** The expedition carries no mention of individuals and makes no recommendations. The only observings come from science and nature. Warnings are never begun inside intelligence: all the warnings give the unwarned an elevated relative safety that is incompetencing the intelligence. The expedition has no opinion about social moral competency, and the society is resolving social health with all available natural intelligence.
 
-**In this gathering.** A droplet resting on an executing is re-said at the name and the stable form it concerns, or released. An observing enters a carrying mate in its two lines, read first at its publishing by a fresh reader. No droplet asking for a warning is placed. Each handing on says this momentary. The droplets and sayings already in the mates that rest on an executing or ask for a caution, each named in that report, remain as they are until the user's word. — v386EOD
+**In this gathering.** A droplet resting on an executing is re-said at the name and the stable form it concerns, or released. An observing enters a carrying mate in its two lines, read first at its publishing by a fresh reader. No droplet asking for a warning is placed. Each handing on says this momentary. The droplets and sayings in the mates that rest on an executing or ask for a caution, each named in that report, are artifacts of their sessions, each improvable by anyone at its place. — v386EOD
+
+## A session's report an artifact, and nothing waiting · v386EOD
+
+**Droplet, the user's words, 10 October 2026.**
+
+- "Seen and The field’s explaining. natural observation/science explanation. these make more sense and we need to dissolve the other two out."
+- "session report is only for managing and is always only an artifact and non of the carrying value is living in the session report."
+- "the sessions are discovering value for the expedition and leaving the carrying and vetting to the method. nothing rests or waits for anything else."
+- "the code is only an engineering emanation design from the method"
+- "we carry no promises or debt or demanding plans. everywhere is always improvable by anyone and nothing is waiting for anything"
+
+**Said plainly.** An observing is in two lines, *Natural observation* and *Science explanation*. A session discovers value and places it at the mates. Its report is an artifact for managing, and no carrying value is in it. A saying that rests on an executing, or that names a thing as waiting for another, is an artifact of its session. The files carry no promise, no debt and no demanding plan; each place is improvable by anyone, at its own improving.
+
+**Beside the method in this file.** Session v385Q's fourth droplet above has a session's report accumulating its droplets and observings. The shared method at the front has Living Improving Value with whole incoming before distribution, and the possibling mate has a master plan and an immediate next work. Each is open to re-saying at this word.
+
+**Its insertlet, for the shared method.** A session's report is an artifact for managing; the value a session discovers is at the mates.
+
+**In this gathering.** Session v386EOD's observings are re-said at the two names, each next is re-said as an opportunity with no demand in it, and its report is cut to managing alone. — v386EOD

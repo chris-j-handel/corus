@@ -29,19 +29,19 @@ The whole concepts and their unresolved conditions are available at this subject
 
 **The file's sentence**, at Homeostasis: "insulin arrives in pulses roughly every thirteen minutes (nye)".
 
-- *Seen*: in blood plasma sampled each minute for one to two hours from ten people, the insulin level in five "cycled regularly, with a mean period of 13 minutes" ([Lang, Matthews, Peto and Turner, 1979, New England Journal of Medicine 301, 1023](https://ora.ox.ac.uk/objects/uuid:02d18b27-3883-4bb3-9f99-071ae01f3e09), read at its abstract).
-- *Seen*: in people with a shunt reaching the portal vein, "Direct portal vein sampling established that pulsatile insulin secretion in humans has an interval (periodicity) of approximately 5 min", the pulses about five times larger than in an arterialized vein. The same interval is seen in the general circulation "using a highly specific insulin assay and 1-min sampling" ([Song and colleagues, 2000, The Journal of Clinical Endocrinology & Metabolism 85, 4491](https://academic.oup.com/jcem/article-abstract/85/12/4491/2852313), read at its abstract).
-- *The field's explaining*: the later report lays the earlier figures' range, 4 to 20 minutes, to "the attenuation of the pulse signal in the systemic circulation".
+- *Natural observation*: in blood plasma sampled each minute for one to two hours from ten people, the insulin level in five "cycled regularly, with a mean period of 13 minutes" ([Lang, Matthews, Peto and Turner, 1979, New England Journal of Medicine 301, 1023](https://ora.ox.ac.uk/objects/uuid:02d18b27-3883-4bb3-9f99-071ae01f3e09), read at its abstract).
+- *Natural observation*: in people with a shunt reaching the portal vein, "Direct portal vein sampling established that pulsatile insulin secretion in humans has an interval (periodicity) of approximately 5 min", the pulses about five times larger than in an arterialized vein. The same interval is seen in the general circulation "using a highly specific insulin assay and 1-min sampling" ([Song and colleagues, 2000, The Journal of Clinical Endocrinology & Metabolism 85, 4491](https://academic.oup.com/jcem/article-abstract/85/12/4491/2852313), read at its abstract).
+- *Science explanation*: the later report lays the earlier figures' range, 4 to 20 minutes, to "the attenuation of the pulse signal in the systemic circulation".
 
 **Laid beside, by this session.** Two measurings, at two samplings: thirteen minutes in the peripheral plasma of five of ten people, and about five minutes at the portal vein.
 
-**Next.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
+**Opportunity.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets).
 
 ### Carbon in surface seawater
 
 **The file's sentence**, at its door readings, in A planet read at one budget: "carbon leaving the atmosphere arriving in the ocean as carbonate".
 
-- *Seen*: the field's guide has, for the surface waters of the North Atlantic, about 90 per cent of the dissolved inorganic carbon "present as bicarbonate ion", about 10 per cent as carbonate ion and under 1 per cent as un-ionised carbon dioxide. It gives no measuring at these figures ([Dickson, 2010, The carbon dioxide system in seawater, in the Guide to best practices for ocean acidification research and data reporting](https://pmel.noaa.gov/co2/files/dickson_thecarbondioxidesysteminseawater_equilibriumchemistryandmeasurementspp17-40.pdf)).
-- *The field's explaining*: read from its equation of the equilibrium, "The additional carbon dioxide reacts with carbonate ion to form bicarbonate ion", "decreasing the concentration of carbonate ion".
+- *Natural observation*: the field's guide has, for the surface waters of the North Atlantic, about 90 per cent of the dissolved inorganic carbon "present as bicarbonate ion", about 10 per cent as carbonate ion and under 1 per cent as un-ionised carbon dioxide. It gives no measuring at these figures ([Dickson, 2010, The carbon dioxide system in seawater, in the Guide to best practices for ocean acidification research and data reporting](https://pmel.noaa.gov/co2/files/dickson_thecarbondioxidesysteminseawater_equilibriumchemistryandmeasurementspp17-40.pdf)).
+- *Science explanation*: read from its equation of the equilibrium, "The additional carbon dioxide reacts with carbonate ion to form bicarbonate ion", "decreasing the concentration of carbonate ion".
 
-**Next.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets). Needs the measuring's own publishing.
+**Opportunity.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets). The measuring's own publishing.
