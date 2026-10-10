@@ -31,3 +31,9 @@ Resolving the Hard Problem Registry Possibling · v386EOD
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. At this file's front, *resolved* said at its meaning beside the other registry's sentence; each of a resolving and an arrival arriving still at its own name; the settled entries of the two registries at one number; and at a proof's entry, the Poincaré conjecture among them, the marker 0 at 10.
+
+## The engram's light beside the ensemble's own sequence · v386EOD
+
+Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Possible project · The engram's light beside the ensemble's own sequence.** In the engram experiments the light's pattern is known: one train of 15-millisecond pulses at 20 hertz, arriving alike at each labelled cell lit. The ensemble's own sequence at the learning is laid beside it by no report read. The work is finding a publishing that records the ensemble's own firing sequence at learning, and comparing the light's pace with it. A train alike at each member, and a train carrying the society's own sequence at one member, are two restorings, and the observing at entry 4.5 parts them. It may change or never be made.

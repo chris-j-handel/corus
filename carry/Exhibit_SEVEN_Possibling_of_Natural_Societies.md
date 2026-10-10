@@ -32,3 +32,9 @@ The stated bounds, catalogue size and circulant threshold belong to that earlier
 Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Possible project.** It may change or never be made. The society of forty-one members followed for the step making it, and the societies of forty-two for their asymmetry: a method claiming the fives names the step making forty-one and onward, and doubling is not it.
+
+## The numbers two and four below a living self · v386EOD
+
+Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Possible project · The numbers two and four below a living self.** Twenty-one, twenty-five, twenty-seven, thirty-three and thirty-five carry no scale on Natural Societies' ladder, and they are numbers two and four below the cell, the tissue, the organ and the organism. The work is to read whether medicine's betweens, vesicles, the betweens of cells and matrices, are at them, or whether two and four below are reached at a prime alone, as the organelle at 19 four below the cell and the tissue at 29 two below the organ. It may change or never be made.

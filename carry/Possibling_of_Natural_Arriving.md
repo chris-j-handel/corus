@@ -46,3 +46,15 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Possible project.** One sentence at the site's front and as the page's describing: our universe is all existing things, each existing at its own momentary; existing is binary, all or none at all, no other possible; and from it all of Natural Intelligence, living, valuable and free. The saying of the universe as one existing thing is in the written record at least twenty-five centuries, carried into science, and named at science's own frontier the cosmological fallacy.
 
 **Possible project.** A licence the author chooses at the repository: a work published with none says no permission to copy, adapt or share.
+
+## Natural Intelligence written at each build as parts · v386EOD
+
+Each is from session v381F's carrying, at `carryings/v381F/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · Natural Intelligence written at each build as parts.** Natural Intelligence is written at each build as six parts beside the living file, each part whole at one fetch: a front with the contents; ONE, TWO and THREE, the method; Exhibit ONE, the method as an object; FOUR, resolving; FIVE and SIX, discovering and intelligence; and five passages for a first reading. Each part opens at one line saying it is an emanation of the living file at its version, carrying nothing of its own, the living file its prior and its newest. Each sentence of a part is the living file's own sentence unchanged, and a part parting from the living file at one sentence is the older of the two. It may change or never be made.
+
+## One whole place for four repeated paragraphs · v386EOD
+
+Each is from session v385A's comparisons, at `incoming/v385A/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · One whole place for four repeated paragraphs.** Offerings to Natural Arriving has four paragraphs each at more than one place in the same words: the paragraph offered for the AI link part, quoting Natural Intelligence 6.5 whole, at seven places; the paragraph of the AI reading the file and the interest floating through it at three; the paragraph of the README's working-session opening at two; and the paragraph of the concept's name as an interest opening at two. The work is one whole place for each of the four, each other place a particular direction to it, with each distinct relation and source of the whole opening proposal preserved and nothing said resolved into the living file by the gathering. It may change or never be made.

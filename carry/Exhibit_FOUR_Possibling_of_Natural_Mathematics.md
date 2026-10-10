@@ -32,3 +32,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Possible project.** The doing the 440 crossings out and again are of, said, that heading for 9 is followed at it.
 
 **Possible project.** Momentarying sustaining place, size and surface: a mathematics of few commitments followed for bi-inversioning-co-recursioning and competency said in it.
+
+## A third at the doubled angle · v386EOD
+
+Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Possible project · A third at the doubled angle.** The matching of paired clicks follows the cosine of twice the angle between the two settings: the angle doubled is two rotatings. Bi-tri-involutioning names a third. In the three-setting form, the settings a third of a rotation apart, the matching still shows the doubled angle alone. The work is looking for the third at an observing of the clicks, or saying the doubled angle as bi-involutioning alone beside Natural Mathematics' still picture of an accounting. It may change or never be made.

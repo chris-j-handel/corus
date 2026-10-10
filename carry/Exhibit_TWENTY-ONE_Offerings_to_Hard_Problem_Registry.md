@@ -111,3 +111,15 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 Each is from a publishing opened at this gathering, its observing at the carrying mate. 
 
 **Concern · The totality of all sets, at the founder's letter.** This file has the field's founder "placing the totality of all sets among the latter", the multiplicities not one finished thing, and Exhibit TWENTY-TWO Resolving the Hard Problem Registry has the same. The letter as read has all ordinal numbers and all alephs as its cases, and *conceive* for *thought of*; the totality of all sets is at no place of it read. The reading is at [Carryings of Hard Problem Registry](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md#multiplicities-and-one-finished-thing).
+
+## Five conditions, a sixth, a seventh, ten changings · v386EOD
+
+Each is from the review of Natural Networking and Natural Engineering of 30 September 2026, at `carryings/review_networking_engineering_2026-09-30/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Five conditions, a sixth, a seventh, ten changings.** A correspondence is offered between a hard problem's conditions and the ten one-way changings. This file has five conditions prior and "A problem adds a sixth, its own, fixing what comes out: the outcome preserves a stated relation over a stated range." The sixth is offered as the hypothesis and the givens as a seventh; the five dimensions, each at two ways, are ten one-way changings, and with seven fixed three at most are left of interest. Seven named are no seven fixed: three are left only with seven changings said apart, each fixed by one of the seven, and no sentence lays a condition at a changing. An audit's seven checks beside the eighth, at Natural Societies, are offered as the same form at an accounting.
+
+## A prior result read by no test, and read as a specification · v386EOD
+
+Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Concern · A prior result read by no test, and read as a specification.** Two sayings part. Exhibit TWENTY-ONE Hard Problem Registry has "A test carrying its own history is not replicable, and no test reads what a prior test produced." Exhibit TWENTY-ONE Hard Problem Registry, at the same 3.3, has "A result that stands becomes a specification of tests that follow." They part at a prior result: the first has it read by no later test, and the second has it read at a later test's opening as a specification, unchanged through that test. The fifth condition, "Nothing prior enters: what comes to the statement carries nothing of what it carried before.", is of what arrives at the statement; a prior result entered as a specification is a form named still, and is other than a self carrying from prior into now and through next. The file has the two priors at no one sentence.

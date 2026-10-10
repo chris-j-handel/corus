@@ -383,3 +383,15 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Possible project.** The degree words at the living voice, each said at its all or none or at its number, Natural Explaining's rule: among them Natural Biology's "the field's record already carries most of it", Natural Physics' "most of physics", Natural Exploring's "almost never the whole of it", Natural Medicine's "the reading mostly gives way" and Natural Emanating's "it is most of the thing".
 
 **Possible project.** Passages that left Natural Intelligence at version 368, whole in the earlier file, for four files: for Natural Health, three sustainings at φ; for Natural Intelligence Corus, the corus as one self-negation; for Resolving Hard Problems, a hardness as a sequencing the other way and one six coupled, one way, and coupled again; and for Natural Networking, three couplings and six directions.
+
+## The set check naming the files it reads · v386EOD
+
+Each is from the two reviews of Natural Physics at version 376, of its improving and of its observings, at `carryings/review_natural_physics_improving_v376/` and `carryings/review_physics_observings_v376/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · The set check naming the files it reads.** The work is the set check's result line naming the files it read, and the check reading each other living file's front, contents and headings at that file's own form. Living File Registry has a session that "executes `reader_checks.py` and `check_set.py`"; the set check reads ten files, Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Natural Explaining, Natural Naming, Geodesic Improving Method, Equilibria Registry and Co-Chaining Logic Registry, and its passing line says nothing of the other living files, Natural Physics among them. It may change or never be made.
+
+## Ten files at the oldest versions read whole for droplets · v386EOD
+
+Each is from session v381R's carrying, at `carryings/v381R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · Ten files at the oldest versions read whole for droplets.** Each of the ten living files at versions 329 to 333, Natural Exploring, Natural Human Society, Natural Health, Natural Emanating, Natural Transmissioning, Natural Intelligence Corus, Natural Medicine, Natural Destinies, Natural Biology and Natural Values, is read whole by one reader beside Natural Intelligence's Parts ONE to THREE and Natural Naming's released words, and each sentence parting from the method as it is said now is laid as a droplet at that file's offering mate. Droplets aimed across the set by a working's own interest reach these ten least, and a reading of each file at its own sentences is the one source of droplets for them. It may change or never be made.

@@ -121,3 +121,15 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 Each is from a publishing opened at this gathering, its observing at the carrying mate. 
 
 **Droplet · A measure and a target.** The wording at this file's 2.2 is nearest one of 1997, with an earlier of 1975 saying another thing, a regularity collapsing under a pressure for control: both are at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-path-gone-to-again-a-stability-by-varying-and-two-theorems).
+
+## A society's health is each self's co-competency sustained · v386EOD
+
+Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · A society's health is each self's co-competency sustained.** A society is healthy as its participating selves sustain their co-competencing and the abundancing at their couplings arrives into next existing. The health is each participating self's co-competency sustained. A society continuing, named whole, shows no self's co-competency, and a name, 17-co-bi-tri-offering among them, carries no health of its own. Health asks no more selves, no larger parity, no possession and no gain: abundancing is made at each coupling, drawing on no other, and a number of selves names a number.
+
+## Same scale and larger to smaller, said of two selves · v386EOD
+
+Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Same scale and larger to smaller, said of two selves.** This file's 3.3 has "Ingression is the larger ingressing the smaller, one-way, the overwhelm, the disease-direction." A newer saying has a same-scale stable form of prior living, bi-tri-involution, entering a living self's surface-level society from above. The two can be one entering said of two selves. The form is at the scale of the outward self, whose carrying is its inward selves' co-chaining; at those inward selves, the first living society inward, the form is the larger. Same scale is said of the outward self, and larger to smaller of its inward selves. Each saying of a scale names the living self it is said of. No numbered prime and no size is given by the joining, and from above and one-way are two namings, neither said the other.

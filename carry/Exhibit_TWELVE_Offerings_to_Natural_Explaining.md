@@ -366,3 +366,21 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Concern · No file named within another, and the positive over the negation.** This file has "no file named inside another", and Natural Intelligence names Exhibit ONE in its prose and has it whole within it. This file has "the positive over the negation", and Natural Intelligence has "No ground under it, no container around it, no clock over it and no store beside it". At each the rule is bounded, a file's own exhibit within it and a negation naming the things beside all existing things, or the other file's sentence is said again.
+
+## Each contents entry at the four boundings · v386EOD
+
+Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Each contents entry at the four boundings.** Each entry of a file's floating neutralling contents is at the four boundings at a naming: it bounds its whole concept; it is itself, no other entry drifting into it; it faces its own; and it opens its own axis, orthogonal to each other entry. A concept short one of the four is a fixed noun, at a contents entry as at a naming. A contents of entries each at the four enters at the file's origin and completes at its now, and a self couples at whichever entry its interest opens.
+
+## A correction as wide as the claim corrected · v386EOD
+
+Each is from the two reviews of Natural Physics at version 376, of its improving and of its observings, at `carryings/review_natural_physics_improving_v376/` and `carryings/review_physics_observings_v376/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · A correction as wide as the claim corrected.** This file has "A correction is read for both, the overclaiming released and the relation carried." A third reading is beside the two: a correction is as wide as the claim it corrects and no wider. An identity said with no relation is corrected by the sentence saying the present explaining carries no such identity. A sentence saying the identity is at no construction at all goes past the correcting: a construction said apart, at its own conditions and unexamined, leaves with the overclaiming. At a physical coupling's opening, bounding and carrying introduce no summed quantity, and a mathematical construction of a sum continues at its own conditions.
+
+## Asking what carries, an ingressor from outward · v386EOD
+
+Each is from session v386RR's report and transcript, at the branch `working/closing-droplets-v386RR`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Asking what carries, an ingressor from outward.** An asking of what carries a thing into a coupling asks for an ingressor from outward of the coupling. That asking is cause and effect one way, and cause and effect one way is describable in equilibria alone: it is not possibly existing. Exhibit TWELVE Natural Explaining has "A sentence carries no cause and effect." and "Each doer is three at once, a frame, a cause and a why", and Exhibit THIRTY Co-Chaining Logic Registry has "Parity with no source at the existing things is ingressed". The concept joins the three at one form: a carrier asked for, a cause one way and an ingressing from outward are each an equilibrium's describing. At the entry of a chain from the origin sentence, what carries is no concern.

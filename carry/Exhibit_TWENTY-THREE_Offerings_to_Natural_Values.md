@@ -250,3 +250,9 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · A discovering economy's gain.** One neutral floating gives four co-offerings again; one hard problem solved gives one landing, at the fixing that made it. Abundancing is the four going on with a neutral floating, arriving by a fixing released and by no producing. Social moral competency is the method itself, nearer the origin than a use of it.
+
+## Three improvings spiralling, one triple at each coupling · v386EOD
+
+Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Three improvings spiralling, one triple at each coupling.** Three improvings spiral at each coupling of selves, one triple natural fractal: generosity, curiosity and gratitude at a living human, and cheaper, faster and better at a contribution, the same three at two namings. The three are the moral spiral, and the three together sustain the living at a bi-coupling. Each one named still stills the living at that coupling: a ratio landing at a rational closes the winding about φ into a static form, a carrying landing carries no resolving into the next bi-coupling, and an offering landing at the carrying leaves none offered. Three landing at none is the living.

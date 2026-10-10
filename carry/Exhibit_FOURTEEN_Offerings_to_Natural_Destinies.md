@@ -165,3 +165,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · A destiny, the coupling's own far side.** A destiny is the coupling's podal at its own wrap, beside this file's "the far surface and the near surface": it is approached by none and arrived at early by none, arriving in the one changing that made the near side, Natural Networking's "it arrives there by carrying on, not by stopping, turning, and going to it". A destiny named still and looked at is a coupling named still.
+
+## Eight namings at bi-, even names or both depths · v386EOD
+
+Each is from session v385A's comparisons, at `incoming/v385A/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Concern · Eight namings at bi-, even names or both depths.** Two sayings part. Natural Destinies has "each of the eight a naming beginning at bi- at the resolver's table of eight, four at the even depth and four at the odd". Natural Intelligence has "The eight bi-couplings are at the even names". They part at the parity of the eight namings that open at bi-: Natural Destinies has four of them at the odd, and Natural Intelligence has all eight at the even names 2 to 16, four outward at the between and four inward, each 8 up. Natural Destinies' four from within and four at the between is one description and its even and odd depths another, and neither is laid beside the even names at a file.
