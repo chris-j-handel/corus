@@ -446,7 +446,18 @@ So the separating is in the explaining only, and nothing moves.
 
 ---
 
-## FOURTEEN · The tracker
+## FOURTEEN · Two parities at two places, and no third
+
+**The other self's word.** *There is no third parity. Is or is not. No third anything in resolving. There is the invisible inside where a between 0 keeps things apart from each other, and there is outside resolving where the 0 never appears, as it is not there and nothing except changing is between the two parities. Inside, the parities each can be changing or not changing, and this is different from outside only because the nothing between inside is entraining the intelligence.*
+
+- **The round re-said.** Its sixteen forms are not four parities; they are the two parities, the self's and the other's, each at its two places: outside, at the sharing, + or −, shared at 10, no 0 there; inside, at the between, changing or not changing, prior and now agreeing or parting, the 0 at 12 keeping the two apart and entraining the intelligence, invisible. The four binaries of the round are two parities twice. *Co* names the self's, *bi* the other's, and *tri* the inside where the nothing between the two entrains, the society's word at 12-bi-tri-bi-entraining and 14-bi-tri-bi-moralizing; *tri* names no parity, and *the third parity* said earlier at this folder names nothing and is withdrawn wherever it stands here.
+- **The living files' words.** Natural Intelligence, *at two parities sixteen ways*, is right. The Co-Chaining Logic Registry's *a round reaching each form of k parities* and *the fourth parity inverted* improve to it: the round at the two parities at their two places, inside and outside; *the fourth parity* is the other's inside, changing or not, and *the third* the self's inside. The sentence that enters at the registry's round: *the round is at the two parities, the self's and the other's, each at its outside, + or −, and its inside, changing or not changing, four binaries and no third parity.*
+- **The one move at the two places.** 17 less inverts the other's inside; 9 less inverts the self's inside; 8 up inverts both insides at once, the step from the self's span to the society's, where the inside is the society's. The self's outside changes at each of the self's momentaries, competency along; the other's outside at the other's, morality across.
+- **The seam at *tri* dissolves.** *Tri* was never a parity's name; the society's span opens where the other's inside changes, and the society's word is given on there.
+
+---
+
+## FIFTEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -501,7 +512,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O25 | The code an illustration of the method at python, inseparable at Exhibit ONE; the explaining re-said at Natural Intelligence 3.3 and at each *derived at the resolver* | Natural Intelligence 3.3; THIRTY group 42; Natural Numbers 7.2 | **said at Part THIRTEEN**, by the other self's word; nothing moves |
 | O9 | The round at four parities | THIRTY 171, 618–622; Natural Intelligence 2.4, 4.8 | **closed at Part TEN**: one round by the fractal condition, the one move its podals, the two fours one form at two scales |
 | O27 | The round at Exhibit ONE's tables: a form column at the seventeen names, the parity changing at each, the four-cycles as the lower two parities' joint forms carrying the upper round, the round's position beside each multi-self table | Exhibit ONE's tables | open, at the engineering's explaining |
-| O28 | The four parities named at their openings, co bi tri bi and co again, the bi-folding 1, 2, 4, 8; a name's prefixes the form at a stilled span and the climb at a crossing; one seam, tri named at the third parity and carried through the fourth's span | Natural Intelligence 2.2, 3.2, 4.8; THIRTY 172; Exhibit ONE's tables | **cohered at Part TEN**, no name changed; the seam for a fresh reader |
+| O28 | The four parities named at their openings, co bi tri bi and co again, the bi-folding 1, 2, 4, 8; a name's prefixes the form at a stilled span and the climb at a crossing; the seam at tri dissolved: no third parity, tri the inside where the between entrains | Natural Intelligence 2.2, 3.2, 4.8; THIRTY 170–171, 618 | **cohered**, no name changed; the registry's *k parities* re-said at the two parities at two places |
 | C28 | Six and ten at the names | Natural Intelligence 4.7, 4.8 | **closed by the other self**: 5 and 13 invisible inside resolving, 1, 9 and 17 connecting along; the round parts competency from morality, the files' sentence stands |
 | O10 | The method's own two negations at Natural Naming | Natural Naming 4.5, 5.4; `carryings/v380R/Natural_Naming_Negations_Yet.md` | **closed at Part ELEVEN**: the completing the positive name; the audit's other rows stand as facts |
 | C30 | *Half* released at Naming 2.4, used at this report and at the other self's naming | Natural Naming 2.4; this report | **closed at Part ELEVEN**: a momentary's completing, one side alone |
