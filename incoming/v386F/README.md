@@ -416,7 +416,17 @@ Read at THIRTY 170–171 and 618–622, Offerings to Natural Resolver's *the ear
 
 ---
 
-## TWELVE · The tracker
+## TWELVE · One finding at one place, one insertlet at one mate
+
+**C8, resolved.** `incoming/README.md`: *each finding laid at one place, and at exactly one.* The v385A practice: *two same droplets are independently at Natural Intelligence, Naming and Corus*, *the same value can remain at several mates, each with its own later resolving*, and Carryings of Natural Intelligence and Carryings of Natural Resolver opening with three paragraphs alike. They part at what a droplet is when it reaches three files. One saying: one thing at three places, to keep alike, a keeping. The other: a finding is one thing at one place, its evidence, and an insertlet is one sentence at one mate, its file's own; a finding reaching three files is three insertlets and one finding, each insertlet a different sentence entering a different section and each naming the one finding. The second is the method's and it is what Natural Arriving 7.3 and the incoming README already say of a droplet, *one plain sentence aimed at a file and a section with its evidence beside it*: the evidence beside it once, the sentence at its file. *Independently at three mates* is right where each mate carries its own sentence for its own file and wrong where one paragraph is pasted at three.
+
+- **The sentence that enters at `incoming/README.md`**: *a finding is at one place, its evidence; an insertlet is at one mate, its file's own sentence; a finding reaching several files is several insertlets and one finding, each naming it.*
+- **The form of O5, the carrying leaned a mate at a time**: at each mate, a paragraph standing at two or more mates alike becomes each mate's own insertlet, one sentence at its file's section, and a naming of the one finding at `incoming/` or `carryings/`; the paragraph itself goes to `archive/` whole with its receiving named.
+- **This report at the form**: its findings are at this one place, and each droplet names its file and section; the mates, when they receive it, carry one insertlet each and name this folder, and none of these paragraphs.
+
+---
+
+## THIRTEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -436,7 +446,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | C5 | The method non-living at every scale | Natural Intelligence 3.3, 3.1, 5.1 | **closed at Part EIGHT**, non-living at every scale and a self at none |
 | C6 | Dying at Naming 2.4 | Natural Naming 2.4 | **closed at Part NINE**: the sentence right as it stands, one clause enters |
 | C2 | *Living* said with no scale | Natural Naming 2.4 | open, the sentence found |
-| C8 | One droplet at one mate | `incoming/README.md`; the v385A practice | open |
+| C8 | One droplet at one mate | `incoming/README.md`; the v385A practice | **closed at Part TWELVE**: one finding at one place, one insertlet at one mate; the form of O5 |
 | C13 | Two scale steps | Natural Numbers 1.5, 9.7 | **closed at Part NINE**: 8 and 16 along at one scale, 8n − 7 the one step up |
 | C14 | The method a stable form | THIRTY 43, 260; Natural Intelligence 3.1, 3.3 | **closed at Part EIGHT**: a stable form at every prime scale and all dimensions, bounding itself; one clause enters at 3.3 |
 | C15 | A momentary with no prime scale | THIRTY 387; Natural Intelligence 1.1 | **closed at Part NINE**: its society's; 373's 65 stays to derive |
