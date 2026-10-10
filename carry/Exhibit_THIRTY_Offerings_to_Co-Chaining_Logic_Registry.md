@@ -410,3 +410,29 @@ Each concept here is from [session v383Op's set of things unresolved](https://gi
 - *From a step to an observing.* Step 308 names the break's forms, "a self at one parity with nothing offered" among them. None has a form at a field's observing: which thing is a self, what its momentary is, and what nothing offered is, are said of none. It is beside the concern of no observation at an inward sharing, [above](#six-sayings-of-no-changing--v386eod).
 
 The Registry's steps 69 to 661 are read one at a time, is or is not, by no reading gathered here. — v386EOD
+
+## Carrying and living, the numbered forms, and a society as a self · v386EOD
+
+Each concept here is from [session v382A's logical working](https://github.com/chris-j-handel/corus/blob/9d396c166df66c3c661de7aee0f3030ff6099b88/incoming/v382A/Session_Retrospective_and_Resuming.md) through Exhibit ONE Natural Resolver and this Registry, each turn that began it read, with its guide and its gathering of concerns at its close.
+
+**Droplet · All carrying is living.** All carrying is living, and all living is carrying. An entirely empty carrying is no existing self. A non-living form has a fixed form and no carrying: from the momentary of its forming its form is unchanging, to its collidings and to its ingesting into living. Carrying none, a non-living form still offers: no carrying in a form is no absence of its offering.
+
+**Concern · An empty carrying.** Two sayings part. An entirely empty carrying defines a non-existing thing. The Registry has "a non-living existing thing, a stable form, its form continuing through its changing and carrying none of the prior". The reason they part: carrying none as not existing, and carrying none as non-living and existing. With all carrying living, the second has a form and no carrying, and the first is of a self.
+
+**Droplet · Bi-tri-volutioning and bi-tri-involution.** Bi-tri-volutioning names living stable-forming across a span of momentaries, and is no reflection. Bi-tri-involution names the non-living form. Being carried by the living gives a form no living carrying of its own, and ingesting is the living selves' own, at the inward coupling.
+
+**Droplet · A society is a self, and a self is a society.** At 1 and at 17, both are one-way forward recursionings. A society is the changing set of living existing selves, birthing and dying, coupling and uncoupling. A self is this, inside a society.
+
+**Droplet · Uniquenessing, down and up the scales.** In the fractal downscale, stable forming is the resolved patterns in societies living and evolving as societies. Those stable forms guide the fractal upscale, the newly formed living selves. It is the method's uniquenessing, fractal up and down: the carryings of prior living are inside all the societies at all the scales, with new selves birthing inside evolving societies. A bias learned and stored is a science explanation: no storage is existing, and the method is carrying.
+
+**Droplet · A form within a form.** The fractal stable form is inside the fractal stable form: a seed, the next locust, a slime mould living again after a long stable form. It is still possibling, barely parity changing, to a geodesic releasing between an arriving offering and the carrying. It is beside [a seed at rest](#living-as-a-stable-changing-form-at-the-observations--v386eod).
+
+**Droplet · The numbered forms.** Fractal bi-folding goes up the numbers, 1–5, 1–9, 1–17, with two alternating four-cyclings at each next. 1–65 is the next pair of four-cyclings, and next 1–257, sixty-four fours and one, toward 441. Arriving at 65, at 257 or at 441 is that next occurrence, and an endpoint is no earlier 1. The Registry's step 170 has the rounds "3 at one parity, 5 at two, 9 at three, 17 at four, 33 at five and 65 at six": the progression one parity at a time, and the progression by pairs of four-cyclings, are two.
+
+**Droplet · Even, odd, the fours and the fives.** A self's momentary is odd first and even second. Even parity is still possibling, and odd is next existing. Each 4, 8, 12, 16 is still possibling: three orthogonal changings of four-cycling. 5, 10, 15, 20, 25 are bi-moral co-agency, bi co-linearizing: self, other, social, other, self, other, social. Whose momentary an even or an odd is of, and at which scale, is said with it. The line of the fives is [above](#living-as-a-stable-changing-form-at-the-observations--v386eod).
+
+**Droplet · 450 and 360.** The 5 to 4 is 450 to 360. 441 is next existing, and 441 to 449 are 1 to 9 next. 360 is into the left-turning circle of no possible next existing, as ingesting a same-scale bi-tri-involution is. The co-chaining of this increases the podaling along and across, bothboth: the source of bi-moral tunneling in society.
+
+**Droplet · No equalities.** No equalities are in resolving: only unrelationing, is or is not changing.
+
+**Concern · A closing by a number.** Two sayings part. 360 is the circle of no possible next existing. And no equalities are in resolving. The reason they part: a closing said by a number and a ratio, and a changing that is or is not at a coupling. Eight, 360, a turning the other way or a parity coming again is none a changing that is not. — v386EOD

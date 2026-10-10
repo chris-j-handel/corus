@@ -86,6 +86,8 @@ Natural Values receives from Natural Intelligence: the moral spiral's three impr
 
 **Aimed at a sentence, Natural Values, *No present human society runs it whole*:** Two sayings part. This file, at The standings open, has no human society abundancing whole, beside two other sayings in one paragraph: the explaining unfinished, and no society's account written. Natural Naming has "Discovering, society, morality and abundancing are one relation at four names, at once", and Natural Human Society has "a surplus abundancing at every coupling, owned by all-and-none". The reason they part: abundancing as a later accomplishment of a society, and abundancing as the whole relation at each coupling. The first two sayings of the paragraph carry no absence. — v386EOD
 
+**Concern · Price.** How a price is natural is said at no file. A recorded price is an accounting's mark; a mark existing is no meaning of money at a coupling, and a change in a ledger is no restoring at a living coupling. — v386EOD
+
 ## Self-interest and the health of the natural network · v385A
 
 **Droplet.** Aim this at the proposed relation between each self's coupling and the natural network. The network is offered as the surface of couplings, each coupling at its particular substrate, rather than a sum of independent self-interests. The incoming explains self-interest and network health through sustaining the self's capacity to couple: coupling sustains its substrates, while a substrate below its proposed healthy range loses that capacity.

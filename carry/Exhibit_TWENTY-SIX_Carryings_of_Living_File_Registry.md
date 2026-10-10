@@ -276,7 +276,7 @@ The distributed groups have left Living Improving Value after placement. Their u
 | Earlier project material in the carrying directories, including the session v368 bundle | Some illustrating and society projects already have offerings. | Gather the remaining concepts, projects and concerns into their actual subject mates. A historical missed-item count is not the current amount left. |
 | Living File Registry, Geodesic Improving Method and Natural Arriving offerings and associated incoming | Method, entry, possible file arrangement and project plans are present. | Complete their intended content gathering alongside these incoming groups; make active instructions agree with gathering and aiming. Existing proposed insertlets remain for later cohering. |
 | Natural Emanating and Natural Destinies distribution; Natural Exploring and Geodesic Improving Method combination; Natural Transmissioning proposals | The possible projects are in Living File Registry's possibling; the selected contribution gatherings remain in its carrying. | Gather each whole contribution and the differing proposed purposes into the relevant offerings. Keep complete expressions and each subject's needed prior available. |
-| Session v382A, at pull request 123 | Selected concerns and corrections are at the mates. | Its report is compared with the mates and placed or released. |
+| Session v382A, at pull request 123 | Its concepts and concerns are at the mates, by [the record below](#session-v382as-logical-working-gathered--v386eod). | Its report of seventy-three passes, its forty droplets on its branch and its four subject gatherings are not read whole. |
 | Session v383Op, at pull request 125 | Its concepts and concerns are at the mates, by [the record below](#session-v383ops-set-of-things-unresolved-gathered--v386eod). Its first report's observings and facts are at the mates from session v381R's laying. | Its own one hundred and two placings, on its branch, are not at this branch in its words. |
 | Session v384A, at pull request 126 | Its observings, concepts, concerns and possible project are at the mates, by [the record below](#session-v384as-working-gathered--v386eod). | Its proposal's thirty section gatherings are linked from Possibling of Natural Transmissioning. |
 | Completed session v385M | [One gathered report](../archive/session_v385M/Session_Report_v385A.md) is now an artifact. The placement table records the subject concepts; the continuing [sequential-colliding value](Living_Improving_Value.md#continuing-sequential-colliding-incoming--v385a) remains gathered with later correcting. | Follow the existing local droplets when file cohering begins. The developing surface comparison remains available without reopening this closed session or treating its old files as new incoming. |
@@ -719,3 +719,19 @@ In all: 25 observings in two lines at eight carrying mates, under the heading "O
 **Executings.** Each row of an executing is gathered as its concept alone, an instrument's ordering; the numbers its instruments returned are of their arrangements and are at its folder.
 
 **Not read whole.** Its coupling of each offering with the files' sentences, [Two Logics](https://github.com/chris-j-handel/corus/blob/77dc8eff32179d526f90c3b3db195b5e18fba817/incoming/v383Op/Two_Logics.md); its meeting of session v384A; its records; its front; its artifacts; and its own placings at eighteen offering mates on its branch.
+
+## Session v382A's logical working, gathered · v386EOD
+
+**10 October 2026.** Session v382A's working is at [pull request 123](https://github.com/chris-j-handel/corus/pull/123), read by session v386EOD at 9d396c166df66c3c661de7aee0f3030ff6099b88. Read whole: each of the eighty-three turns that began its working, [its guide at its close](https://github.com/chris-j-handel/corus/blob/9d396c166df66c3c661de7aee0f3030ff6099b88/incoming/v382A/Session_Retrospective_and_Resuming.md) and [its gathering of concerns](https://github.com/chris-j-handel/corus/blob/9d396c166df66c3c661de7aee0f3030ff6099b88/incoming/v382A/Concerns_and_Improving_Opportunities.md). Each concept is said with the correcting its guide has beside it, once, in the best naming at its subject, with no one's words kept.
+
+| Placed | Mate |
+|---|---|
+| All carrying is living; bi-tri-volutioning and bi-tri-involution; a society a self and a self a society; uniquenessing down and up the scales; a form within a form; the numbered forms; even, odd, the fours and the fives; 450 and 360; no equalities; and two concerns | Offerings to Co-Chaining Logic Registry |
+| Namings released; owned by neither | Offerings to Natural Naming |
+| A gap carried; the logical pass between a droplet and an insertlet; nothing outside natural intelligence | Offerings to Geodesic Improving Method |
+| Three offerings, one next | Offerings to Natural Resolver |
+| Price, a concern | Offerings to Natural Values |
+
+**Already at the mates.** Its question at the Registry's step 35 is in the entry from the origin sentence and among the chain's given things; a none at 14 by two ways, a now with no clock, whose prior, a seed and its inward societies, and abundancing at each coupling are at the placings of sessions v384A and v383Op above.
+
+**Not read whole.** [Its report](https://github.com/chris-j-handel/corus/blob/9d396c166df66c3c661de7aee0f3030ff6099b88/incoming/v382A/Session_Report.md) of seventy-three passes; its front with the forty droplets, and those droplets at four offering mates on its branch; its gatherings of society, of health, biology and medicine, and of its meeting with session v383Op; its logical method at its own length; and its record of the files read. Its guide has five of thirty-three files followed section by section.

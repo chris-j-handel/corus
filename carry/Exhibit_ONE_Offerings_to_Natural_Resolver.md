@@ -202,6 +202,8 @@ From Session Report v377, section 7 item 1, Ready for Natural Intelligence: "At 
 
 **Droplet · Each table and its step.** Each table of this file names no step of the Co-Chaining Logic Registry deriving it. — v386EOD
 
+**Droplet · Three offerings, one next.** At a sharing carrying one parity, three offerings each give the other parity shared and chained next: the other parity offered, surfacing it; both parities offered, the offerings parting and surfacing 0; and none offered, surfacing none. The shared changing and the chained next say none of which offerings took part: the offerings are followed at the coupling. — v386EOD
+
 ## Recurring podaling beside the overlap · v385A
 
 **Droplet · The same number and a new still possibling.** [Session v385R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:
