@@ -34,3 +34,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Possible project.** 3.1's two departures and what it says ahead, the cell society and the surface society and the restoring of one at the other, followed through Exhibit ONE's sequence now, both societies named and the next said for each.
 
 **Possible project.** The study at 4.3 and 5.1 opened at its publishing, for the passage of twenty-four weeks.
+
+## Quiescence, beside the sayings of no changing · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. This file's quiescence, "glycolytic metabolism in quiescence, oxidative phosphorylation in activation", compared with [Six sayings of no changing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#six-sayings-of-no-changing--v386eod).

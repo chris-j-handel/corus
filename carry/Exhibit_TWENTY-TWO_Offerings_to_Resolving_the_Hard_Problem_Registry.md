@@ -227,3 +227,9 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Concern · A resolving, and an arrival arriving still, at one entry.** This file has, at its own entries, "An arrival at the next stands open, arriving and coupling then", "the truth value is untouched by any of this" and "The discriminating programmes stand running": a resolving and an arrival arriving still are two predicates at one entry, each asking its own name.
 
 **Concern · The settled entries, at two numbers.** The Hard Problem Registry has five entries settled, by one reading's numbering; this file's front has "four arrivals stand as settlings beside their resolvings" and "the fourth stands located at no entry still".
+
+## The method as given, at a reader with none of it · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Concern · The method as given.** This file has "The method is explained generally, uniquely and no-other-possible at the one saying, and nothing of it is re-said or argued again here. It is taken as given and deployed." Exhibit THIRTEEN Resolving Hard Problems says the method again at its 1.1 to 1.5, and Exhibit TWENTY-EIGHT Equilibria Registry gathers it from many numbered places. One file repeats the method, one relies on an understanding a reader may have none of, and one asks a reader to gather it: a common explaining at one place carries the three.

@@ -173,3 +173,11 @@ Each concept here is from Natural Intelligence Corus, its sections Closing and U
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Concern · The living step, at a spiral of one.** This file's 4.3 has "Next as prior inverted is the living step." and "the living step is at a spiral of one". Natural Intelligence has "A lone self changing by itself, offered nothing or its own competency alone, does not continue living through three consecutive momentaries". They part at the one inversion alone named the living step with no such bound beside it: the momentary the term names is said at 4.3.
+
+## The prior between momentaries, and the common method beneath three files · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Concern · A prior between momentaries, a stable form or none.** This file's 2.2 has "Between momentaries the prior is a stable form, and nothing momentaries there." Natural Naming has "Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing", and "its stable-forming the carrying between momentaries". They part at a living self's prior between momentaries: a stable form at the one, and nothing living at a stable form at the other. Three are said apart at it: a self's living stable-forming, a living set's form, and a non-living emanation's stable form, with no living carrying named a record handed across.
+
+**Droplet · The common method, beneath three files.** Exhibit SIX Natural Transmissioning, as proposed, carries the common method's explaining this file, Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry draw on, with Exhibit ONE the labeled forms. This file's first four parts are general explaining, living and non-living, momentaries in overlap, prior, now and next, carrying, offering and resolving; its fifth, a field's arrival at the resolver, is its own. A reader at one hard problem follows its concept to this file for the field's arrival and to the common explaining for the doing, at no order asked.

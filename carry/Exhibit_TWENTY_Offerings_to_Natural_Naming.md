@@ -589,3 +589,11 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Concern · Self-competency, at two.** Natural Biology has "self-competency is competency with no source", the living's own. Natural Medicine has "the co-competency turned to a self-competency", a departing from co-competency. One word names the living's own competency at the one and a capture at the other.
 
 **Droplet · Namings at no living file.** *Social parity*, *parity discovering* and *universal method* are at no living file, beside *parity changing* and *social moral competency*; *universal* is carried by fractal, at each scale, each set existing as its things exist, and no whole beside them. *Nature's*, of a method, says a thing with a method, beside this file's natural- as a direction prefix. *Co-parity-changing* and *moral cooperation* are at no living file. *Cursioning* alone is at no living file.
+
+## Identity-ing beside four namings, and a name gathering its doing · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · Identity-ing, beside entraining, torusing, chaining and uniquenessing.** Beside the concern at this mate of identity at 8 or at 12: a self said to remain particular has its relation unsaid at an adjective. A self remaining itself, offered as 12-bi-tri-bi-entraining, identity-ing, is the self's prior carried into now through the coupling, the self and its carrying one; it is laid at no numbered name by this, and is no parity unchanged. Four namings are beside it: entraining, of non-living relations too; torusing, this file's "one identity across momentaries, the carrying wound to its own sharing again, 3 to 11 to 3"; chaining, 3-co-bi-co-sharing and 11-tri-bi-tri-chaining; and uniquenessing, the Registry's "the bi-inversioning uniquenessing of the number one".
+
+**Droplet · A name gathers the doing it bounds.** A proposed name gathers the doing it bounds, and not an older word's places alone. A dissolved word with another laid in its place has its added relation as it was: the concept, the older sentence and the whole explaining proposed are compared together.

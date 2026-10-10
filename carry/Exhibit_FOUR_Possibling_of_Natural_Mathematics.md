@@ -1,4 +1,4 @@
-Natural Mathematics Possibling · v385A
+Natural Mathematics Possibling · v386EOD
 
 # Possibling of Natural Mathematics
 
@@ -18,3 +18,9 @@ Passes to run: run ramsey_societies_v365.py --search at any change, and carry it
 - [Earlier proposed Natural Intelligence contents and mathematical support](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-natural-intelligence-contents-and-mathematical-support--v385a)
 - [Natural Numbers and Natural Mathematics subject separation](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-numbers-and-natural-mathematics-subject-separation--v385a)
 - [Natural Intelligence bounding and golden-ratio explaining at Natural Mathematics](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-intelligence-bounding-and-golden-ratio-explaining-at-natural-mathematics--v385a)
+
+## This file's common explaining, and its own · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. This file's common explaining of the method, at its 1.1 to 1.4, 2.2 to 2.5, 3.4, 4.5, 5.1, 5.2, 6.1, 7.1 and 7.2, located beside the common explaining proposed at Exhibit SIX Natural Transmissioning, with this file's own carried at it: the list is at [Possibling of Natural Transmissioning](Exhibit_SIX_Possibling_of_Natural_Transmissioning.md#the-proposals-own-working-its-contents-beside-the-others-seven-doings-and-each-subjects-own--v386eod). A deriving of the common method and a deriving of a mathematical relation of this file's own are parted first.

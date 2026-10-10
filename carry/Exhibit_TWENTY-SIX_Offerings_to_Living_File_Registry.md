@@ -377,3 +377,15 @@ A fresh reader reads each *Natural observation* line again at its publishing bef
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Droplet · Eight ways through the set.** Eight ways in overlap, each opening at value the files have: through a subject's four tellings; one concept followed along its explaining; two sayings at one momentary; one observing through its accounts apart; a form at its own conditions; a scale changed with the selves carried; several whole expressions offered; and value followed into its mate, a report delivered being no value placed. Eight is of no resolver form. The best file for a relation is the one making that relation clearer: a file's version, length, links or words repeated decide none.
+
+## This file's plan for Exhibit SIX, three places for one comparing, and a check that writes · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Concern · Exhibit SIX released, or the common explaining's own place.** This file's 5.12 has "SEVEN and NINE are retained at clarified subjects, and the plan is the complete receiving of SIX into the common method, Networking and the substrate exhibits.", and "A separate name for crossing alone supplies no further subject." Exhibit SIX Natural Transmissioning has "The transmissioning develops whole here, and each exhibit draws it from here and keeps only its bounded context." Beside both: each file relies on Exhibit SIX Natural Transmissioning, or it is no file apart. They part at the reason: a shared explaining said at other files gives no absence of a purpose at that file. Neither is chosen by a place located, by words repeated or by names gathered.
+
+**Concern · One comparing, at three places.** This file has "Preserve the complete comparison across substrates as a connected gathering within Networking before SIX releases." An earlier plan at Offerings to Natural Transmissioning has that comparing at Exhibit FIVE Natural Engineering, one form at many materials. The newer proposal has it connected at Exhibit SIX Natural Transmissioning itself. At each, the examples are with their comparing: electrical, momentum, thermal, chemical, cellular, electromagnetic, silicon, the plaza and the conversation.
+
+**Concern · A check that writes.** This file lists `cohere_one.py` among the kit's checks, "the coupling partners at the checks, deciding nothing". The kit's own front has it writing Exhibit ONE's body within Natural Intelligence whole. One names it among checks deciding nothing, and the other has it writing into a living file.
+
+**Droplet · An archive, by reliance.** A file is archival by the reliance on it, and by no version, name or absence of a new sentence.

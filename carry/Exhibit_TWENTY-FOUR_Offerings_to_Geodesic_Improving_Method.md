@@ -472,3 +472,19 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · Three files of the form, three places.** The living file is now existing. Its offering, possibling and carrying mates are the next still possible. The file at its next motion is next existing. A droplet is a form offered, non-living; the still possibling is the file's next and the working's at it; a droplet's words of what enters are an offering now, and the next existing is the file's motion and no saying ahead of it. A droplet each arriving offering leaves as it was, with no end, is a form still.
 
 **Droplet · At a close, three places of value at no file.** A first report made into a set and read at no item against it. A code check executed with its result at neither transcript nor file. A reading's report with its further items laid at none. Each executing is a record with its text; each reading's report is a record whole; and a first report is read item by item against the set made from it.
+
+## A next work understood by both, a discovering said, and a droplet · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · A next work, understood by both.** The work, its reason and its place are understood together ahead of another kind of work: a next step is plain, with no two meanings, and both agree at each step. Numbers, a file's kind and a difference located explain no next doing. An opportunity explained shows the thing in the preparing that improves the living files and the reason, with the relation carried: the next explaining names the relation, the improving asked, and its value at the file it is for.
+
+**Droplet · A discovering, said.** A fetching failed, a discovering made, and a discovering said unclearly are three: a reply names the passage reached and the possible by it. An address failing, a file's name guessed wrongly, and a thing absent are three findings.
+
+**Droplet · A framing withdrawn.** A concern dissolving at one working resolves no local asking at another, and another working's further asking brings no withdrawn framing again. No older saying is brought again by sounding more concerning. The numbers of a set of concerns are a sequence of correcting and no ranking.
+
+**Droplet · A droplet, and a number of droplets.** A small aimed droplet carries a place, a parting asked, an asking unresolved, a correcting or a placing whole, with none forced into one kind. A number of droplets says their places, and measures no competency and no cohering.
+
+**Droplet · A contents compared.** At each proposed heading: the prior it asks, the next it makes possible, and the like relation through another subject, with the exact link missing said at its place. One section followed whole, with its prior, its next and its places, and its own extent of reading said, is one whole offering.
+
+**Droplet · Nothing vanishing, nothing finished.** Nothing vanishes in resolving, and nothing in resolving is finished.

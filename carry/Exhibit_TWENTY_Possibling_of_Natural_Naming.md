@@ -17,3 +17,11 @@ Each is from session v382A's report of seventy-three passes, read whole beside t
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. The recursioning words, at some two hundred and twenty places of the living files, weighed at their root: a motion at each place at do no harm; the root alone saying or not saying a move twice at itself again, as *bi-inversioning-co-recursioning* says; and a word a newcomer has never read, beside the common word arriving with the field's going back.
+
+## Possibling and identity-ing, each followed at the namings · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** Possibling followed at each of the namings it gathers, offering and sharing, with each direction said, the other's across, the self's carrying along, and a changing across into further couplings, and with possibling apart from is-still-possibling.
+
+**Possible project.** Identity-ing followed through entraining, torusing, chaining and uniquenessing together, ahead of any naming of it.

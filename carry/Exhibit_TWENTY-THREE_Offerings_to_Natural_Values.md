@@ -236,3 +236,11 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Concern · A carry ageing, at 1.2.** This file's 1.2 has "A carry is read backward and ages by attentioning." Natural Naming has *ages* released into next, and *second sign* and a bound at a carrying released with the older code. The sentence leans on that older doing: said now, prior existing, now offering, still possibling, next existing, with no parity inverted at each completing laid in its place. At the price paragraph the two excludings are each at its own side's opening, one at a time, of no size, and no equality of numbers resolves.
 
 **Droplet · Colliding at 4.2.** "The criterion collides with itself, and the collision is handed to selves as dilemma" is a criterion's colliding, and no natural colliding by the one word.
+
+## Value as a transfer, beside each self's own carrying · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Concern · A transfer, and each self's carrying its own.** This file's 2.2 has "The transfer is the value. It is whole only where a self stands at each side." and "Care is a transfer, and it lives at couplings alone.", and its 3.1 "Co-competencing is the surplus kept as coupling." Natural Networking has "Carrying remains with each self, participation continues across". They part at value as a thing handed between selves and an abundancing carried on as a store, beside a parity changing alone crossing and each self's carrying its own. A paragraph with a new name and an older doing is unresolved as it was.
+
+**Droplet · A small whole.** A small whole is whole at its own scale, and is no part of a whole to come at a larger: a third name adds no third self, and one society and all other are two relations.

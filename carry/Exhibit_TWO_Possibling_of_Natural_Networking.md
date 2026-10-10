@@ -33,3 +33,9 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 ## Observations of a surface after a penetration · v386EOD
 
 **Possible project.** Natural observations, each in two lines, of a surface after a penetration: a skin cut's rolled edge, a bite, a liquid surface closing. The reported studies gathered at [Living Improving Value](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) are each of its own arrangement, and none is in two lines at a carrying mate. It is beside [a surface resolving after a colliding](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod), and it may change or never be made.
+
+## This file's common deriving located, and its own · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. This file's common deriving located: bi-moral co-agency, along and across, momentaries in overlap, self and society and podaling at 1.1 to 1.3; the crossing, carrying at a 0 surfacing, odd and even openings and the named connections at 1.4 to 1.7; inward and outward scale and the missing region at 1.8; the longer and wider surface at 4.6; protecting and social moral competency at 5.1 and 5.2; and upstream and downstream at 5.4. With it, this file's own: particular societies at their couplings.
