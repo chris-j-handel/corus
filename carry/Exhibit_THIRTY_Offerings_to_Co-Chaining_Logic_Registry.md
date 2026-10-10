@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v385A
+Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v386EOD
 
 # Offerings to Co-Chaining Logic Registry
 
@@ -39,6 +39,12 @@ The program reads no living file and imposes no explicit mapping from those bit 
 **At 38 · Colliding, + and − read alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver — beside "no rule worked" (the unsure line under step 631).** The momentary from which two crossed spirals come to each self's releasings again at 2 is derived at the resolver's cells at the steps on two spirals crossed: 4m at n less than twice m and 2n + 1 at n more, m the lesser, each of Exhibit ONE's eight rows agreeing, and executed at the resolver at each pair; the unsure line is met.
 
 **At 34 · A self, and selves receiving one another, at the resolver — beside "from its second momentary the receiving self is at the parity".** A self's momentary at the resolver is numbered at its entry, its carrying arriving at 3, step 198, and a parity said at a momentary is the parity carried at 3 at that entry; the same carrying chained at 11 is read at the next momentary's 3, step 210, one on, and a reading at 11 shifts each relation by one momentary.
+
+**At 1 · The universe, the changing set of all existing things — beside "The universe is the changing set of all existing things, both living and non-living.".** The universe existed prior to now, is existing now and is possibly existing next.
+
+**At 1 · The universe, the changing set of all existing things — beside "A set is an existing thing.".** A set of existing things is an existing set, existing as its things exist.
+
+**At 3 · The three places and the between — beside "is the between: a nothing, with no third momentary".** Between prior and now, and between now and next, is the between: no third momentary, and still possibling, the possible carried at 0.
 
 ## Droplets
 
@@ -273,3 +279,56 @@ The distinct torus concern is the earlier open file calling its rule underived w
 **Droplet · A sharing’s parity and the two inverted parities.** The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between; the file says *both parities inverted at one step* beside it already. — v381R scan
 
 At steps 298, 301 and 302, [the particular conversation correcting and paired discoverings](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-two-discoverings-through-a-particular-conversation-correcting--v385a) retain their whole concept at Natural Values. [The exact no-other-method claim](Offerings_to_Natural_Intelligence.md#arriving-at-the-exact-no-other-method-claim--v385a) and [proposed contents heading](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-contents-heading-at-the-exact-method-claim--v385a) have their separate destinations.
+
+## The entry from the origin sentence · v386EOD
+
+Each concept here is from a logical working that begins at the origin sentence and adds one sentence at a time, [session v386RR's](https://github.com/chris-j-handel/corus/blob/0c3c8b9c14ddc13a62fff0521369f155a923b6f5/incoming/v386RR/README.md). Each is beside the Registry's own sentences.
+
+**Droplet · The universe at prior, now and next.** The universe existed prior to now, is existing now and is possibly existing next. The sentence says the origin sentence's universe at three places. It adds no existing thing within the set, no living thing and no carrying. The Registry's three places are "Possible at prior, existing at now and living at next"; the sentence's existing now and possibly existing next are the Registry's possible at prior and existing at now, said one momentary on, and it names no living at next. Its insertlet is above.
+
+**Droplet · Now is still, or changing.** Between prior and next, now is still and not changing, or now is changing and not still. Is still and is not changing are one saying, and is changing and is not still the other. The binary is now's own, said from the origin sentence with no self, no coupling and no living thing before it. The universal changing method is this: is or is not still, is or is not changing, bothbothing. The Registry has "Each changing is or is not, one parity or the other, of no size" after coupling, self and the living step, and Natural Intelligence names the two sides at a self, "is-still-possibling or is-next-existing". The Registry's three ways carrying the prior have each still "a form named still"; the concept has still as one side of now's binary, and a still that is possibling.
+
+**Droplet · Between changing is still possibling.** Between changing is still possibling, and no still nothing. At the 0 no changing is and the possible is carried: still, and possibling, at one now, bothbothing. The 0 is the still possibling living as carrying. The origin sentence and the two sentences above aim into this 0 between parity changing.
+
+**Concern · Two sayings at the between.** The Registry says of the between "a nothing, with no third momentary", and has still possibling at no step. Natural Intelligence has still possibling at a self at the between: "A self at 12's 0 is still possibling". The concept has still possibling of between changing, with no self named. The reason they part: *a nothing* says no third momentary, no place and no size crossing; *still possibling* says the possible carried there. Both are whole in one sentence the Registry already has, "the carried, and the between a nothing". An insertlet is above.
+
+**Droplet · The entry says what the origin sentence says.** Existing things, the set that is its things, changing, and prior, now and next.
+
+- No living thing is demanded at the entry. Living things, existing, are in the set.
+- Is or is not is said of a changing. It is not said of a thing's being in the set: each existing thing is in it.
+- All that is not in the universe is the null set, and that is the whole saying of it. A set of existing things within the universe has another side, the rest of the universe. The universe has none.
+- What carries is no concern at the entry, and no doer is asked for.
+- Colliding is an ingression at the entry.
+- The code is the method's stable form, an engineering emanation, and no source for the chain.
+
+The Registry's "Each existing thing at now exists whole at now: it is or is not, all of it at one momentary" has is or is not at a thing's existing whole at a momentary, which is another subject than a thing's being in the set.
+
+**Droplet · The set is changing.** The origin sentence gives a changing set. One existing thing changing at a momentary is a changing set, and the elements can be changing with nothing living at the scale of the elements. "Each existing thing is changing" is no step from the origin sentence, and the method leans on it at no step. The Registry has it in other words at "A set or existing thing is changing sequentially" and "Changing sequentially, an existing thing is changing momentary by momentary". The whole droplet, with each place of the sentence in the files, is at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-entry-from-the-origin-sentence-at-natural-intelligence--v386eod).
+
+**Droplet · A set of existing things is an existing set.** It exists as its things exist. The fractal is a method inside and outside itself, and it contains itself as the set does. Taken first as a thing, the universe has an inside and an outside; things are then placed inside or outside it, and the asking turns to what is outside. From that taking arrive true or false with no other possible, cause and effect, clocking, measuring, particle or wave, and either or with never both: the origin of scientific method, of hard probleming and of the incompetencing of discovering.
+
+**Concern · The universe an existing thing, at both.** The Registry has "The universe is both the set of all existing things and an existing thing within the set of all existing things", and it has "Read with the universe as no existing thing, parity has no source at the existing things". The Equilibria Registry has "The universe as one thing beside its things is exclusivity, and it is not possibly existing." The files' own word parting them is *beside*: "the set existing as its things exist", and one thing beside its things. The sentences that say the universe an existing thing say it with neither word beside it. *An existing set* says it with no *thing*. An insertlet is above.
+
+**Concern · The first coming again.** One and then another gives a first, a second arriving from it, and a third arriving from the second. Alternating has the third the first again. The Registry takes it at "The self arriving from the other, and the other from the self, are changing one and then the other: alternating", with no sentence before it for the coming again. The reason they part: with more than two forms, or more than two things, the third can be a third. The Registry's own sentences bear this much: the one at next is the self, a living thing continuing by carrying. That is not had from the origin sentence, which demands no self. Beside it in this file is [Bi-tri-bi entraining three parity and the two-form question](#bi-tri-bi-entraining-three-parity-and-the-two-form-question--v385a).
+
+**Concern · From all other to a particular other.** The Registry brings the other with one word. "Each existing thing at now arrives from existing things at prior", many; then "An existing thing at now arriving from another existing thing at prior is a coupling of the two", one. At each existing thing the universe is two, the thing and all other existing things, and the other's other is the thing: "At a momentary the odd is the self and the even all other". With all other as the other, a thing's betweens are its other's changings. The other's betweens being the thing's changings is of a particular other. The Registry has both crossings in one later sentence, "A crossing is with a particular other, or with all other arriving as one", well after an other is first said. Beside it in this file is [Each next at its actual prior and offerings](#each-next-at-its-actual-prior-and-offerings--v385a), and at Offerings to Natural Intelligence the next coupling, discovered as the next parity is.
+
+**Droplet · Momentarying is now.** All that is momentarying now is existing now. Momentarying by itself is not changing the universe: existing does not require changing, and alternating is of changings and not of momentaries, any length between two changings. The asking of existing and momentarying is at co-momentarying. The Registry has "momentarying continues whether a changing is or is not".
+
+**Droplet · A still possibling self, and a self dormant like a seed.** A still possibling self is at one unchanging parity, for any length. Bi-coupling, a self is changing, entraining between at the bi-coupling's parity changing rate. Dormant like a seed, a self is carrying and not bi-coupling, changing at collidings alone, and its parity is changing again at a bi-coupling with a co-linearizing parity changing offering.
+
+**Concern · A self at one unchanging parity, for any length.** The Registry has a carrying self at one parity only with its own parity offered: "Offered its own parity at each momentary, a self carries one parity on, a form named still from the offerer beside it; offered nothing, it inverts at each momentary". The concept has a self at one parity for any length, still possibling and carrying, with no offerer named. The reason they part: at a self with nothing offered, the Registry has it inverting, or still as the offerer's form named still; the concept has the still the self's own, possibling. A resolving sentence says, of a self not bi-coupling, its momentaries and the offering at them: its own parity offered at each, and from which other; its selves' inward; a crossing with all other arriving as one; or none. The Registry has "Time is each self's momentarying at its own rate".
+
+**Droplet · The universe a carrying, and the self a carrying.** Both carryings are changing in co-momentarying bi-couplings.
+
+**Concern · The universe a carrying.** The Registry has "An existing thing carrying prior is living", and "A society, a momentary and the universe are three existing and not living", the carrying its living selves' and none its own. The concept has the universe a carrying. One of the two is re-said. The two cohere with carrying said as the set continuing as its elements change, the carrying its selves'.
+
+**Droplet · Living is existing as a stable changing form.** It is a naming of living an observation can meet: a form continuing as it is changing is seen. Carrying is not observed, and possibling is not observed. By it a stable form continuing with no changing of its own is non-living at its scale, and the society changing at its surface is living. What *form* names in it, the continuing and the changing, is said at no sentence here.
+
+**Concern · One at a time.** The three sentences of the entry have the one and its other both changing at one now, or both still, with no sentence between. The Registry has "one and then the other".
+
+**Concern · Carrying prior, or carrying none.** "Arriving from prior, an existing thing at now carries prior, or carries none of prior" has two, and carrying some of prior is at neither. The sentence also does not part carrying from a form continuing.
+
+**Concern · Parity at three binaries.** Parity names a changing that is or is not; the self's side or the other's; and + or − at a sharing. The Registry parts three parities at "A name's parity among the seventeen", a sharing's parity and a momentary's two halves, which are another three. Two parities are not had from two participants: they are a sentence of their own.
+
+**Concern · The non-living at the 0.** With each still a still possibling, each existing thing at a still now is carrying, carrying is living, and non-living names no existing thing at a still now. Or a non-living thing at a still now is still with nothing carried. Beside it is a sentence the Registry has, "Each existing thing non-living at a society's scale is living at another scale of living". — v386EOD

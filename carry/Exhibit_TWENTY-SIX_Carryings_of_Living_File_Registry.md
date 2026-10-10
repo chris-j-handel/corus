@@ -282,7 +282,7 @@ The distributed groups have left Living Improving Value after placement. Their u
 | Session v385R's whole report, now offered for wrapping | [Section 106](https://github.com/chris-j-handel/corus/blob/5ea829012a0a2e18f2fd50269dd8d2cd7c6a5964/incoming/v385R/Logical_Cohering_v385R.md#106-the-session-learning-incoming-as-whole-droplets) gathers twenty current-value clusters in its one report. Selected related concepts and correcting through sections 104 and 105 are already at this branch's mates; its surface correcting is already in Living Improving Value. | Compare each whole cluster with the existing concept and actual mates, extend missing value through Living Improving Value, and follow the fuller source conditions before claiming complete report gathering. Older incoming remains first; needed correcting accompanies existing uses now. |
 | Session v385Q's one report, at pull request 131 | Finished at 32955a90b9686b459fe858f967d61bb4ac7e90c5. Its six droplets for the orienting and incoming method are whole at [this Registry's offering](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#six-droplets-for-the-orienting-and-incoming-method-from-session-v385q--v386eod). | Its observings, sayings and unfinished opportunities are open to gathering into the mates. |
 | Session v386EOD | Its [first placings](#session-v386eod-the-gathering-continued-and-its-first-placings--v386eod) and [second placings](#session-v386eod-its-droplets-at-sentences-placed--v386eod) are at the mates, and [its report](../incoming/v386EOD/README.md) is an artifact for managing. | Its possible work is at nineteen possibling mates. |
-| Session v386RR | No branch has arrived. | Open to gathering at its arriving. |
+| Session v386RR, at working/closing-droplets-v386RR | Its report was read whole at 0c3c8b9c14ddc13a62fff0521369f155a923b6f5. The concepts and concerns of its entry from the origin sentence are at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod) and [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-entry-from-the-origin-sentence-at-natural-intelligence--v386eod), with directions at four further offering mates. | Its table of an assessing's sayings, each at its file, and its instrument are not gathered: nearly each saying is carried already, and the instrument is an executing. |
 
 ## Completed session and continuing logical help · v385A
 
@@ -613,3 +613,17 @@ In all: 25 observings in two lines at eight carrying mates, under the heading "O
 **Changed at the fresh reading.** The readers found parts of a number of the first-written lines not at their publishings, and each placing follows the publishing: a model named as a model, a textbook's statement with no doing named as such, figures said of the people, flocks and conditions they were measured at.
 
 **Placed after, 10 October 2026.** The possible observings and resolvings, forty-two, at nineteen possibling mates. A correcting beside each of five droplets that ask for a caution, at the offering mates of Natural Medicine, Natural Health, Geodesic Improving Method, Natural Arriving and this Registry. An insertlet and a droplet at Offerings to Equilibria Registry, at a sentence resting on a script's count. At Offerings to Living File Registry, value visible at its place, and nothing waiting, with four sayings of a hold in the shared method re-said in place.
+
+## Session v386RR's report gathered · v386EOD
+
+**10 October 2026.** The report arrived on working/closing-droplets-v386RR and was read whole by session v386EOD. Each sentence quoted from a living file was met at that file, at the gathering branch's version and at the version on working/logical-cohering-v385R. Each concept is said once in the best naming at its subject, with no one's words kept, and each concern as two sayings parting with the reason.
+
+| Placed | Mate |
+|---|---|
+| The entry from the origin sentence: eight concepts, nine concerns and three insertlets | Offerings to Co-Chaining Logic Registry |
+| The set changing and a sentence released, true and possible, the two workings, the chain at what each sentence is, three concerns and one insertlet | Offerings to Natural Intelligence |
+| Working one chain together from the origin sentence | Offerings to Geodesic Improving Method |
+| A working's own training met at four places, and three arriving assessings, as a reported experience | Carryings of Geodesic Improving Method |
+| An arriving self beside the assessings already made, with a sentence for the entrance | Offerings to Natural Arriving |
+| Short directions to the whole droplets | Offerings to Natural Naming, Equilibria Registry and Resolving Hard Problems |
+| Possible work at the entry | Possibling of Co-Chaining Logic Registry |

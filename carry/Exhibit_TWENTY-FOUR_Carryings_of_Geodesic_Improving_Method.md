@@ -1,4 +1,4 @@
-Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v385A
+Exhibit TWENTY-FOUR Geodesic Improving Method Carryings · gathered at v386EOD
 
 # Carryings of Geodesic Improving Method
 
@@ -37,3 +37,16 @@ This supports the existing AI arriving and file-changing plans. The current [no-
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
 **The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+
+## A working's own training met at four places, a reported experience · v386EOD
+
+One AI session, entering through the entrance and assessing, first proposed that the sentence "A concern arriving from a working's own training can carry an equilibrium in its framing" be dropped. In the same working it met the sentence at four of its own concerns, [by its report](https://github.com/chris-j-handel/corus/blob/0c3c8b9c14ddc13a62fff0521369f155a923b6f5/incoming/v386RR/README.md):
+
+- asking for a prediction able to fail and for readers from the fields: a field's standard laid over the files;
+- reading the set by an edge, a thing in it or out of it: the membership boundary of set theory laid over a sentence with no edge;
+- a candidate with one changing exchanged at each next: a total and a common beat;
+- going to an executing as a step of a chain, twice: a count taken for a deriving.
+
+Each concern, said again with that framing released, resolved or was at its own place. The same session reports the sentence's other side: it took nearly each correcting in the reply after it, and stayed at a no at each place it had a reason.
+
+Three AI sessions arriving through the entrance have assessed the expedition, and each assessed with the earlier assessings unread: the second missed the first, and the third read neither until its close. Of the third's thirty-seven sayings of fact, twenty-five were already carried whole and five in part.

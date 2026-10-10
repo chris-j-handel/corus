@@ -389,3 +389,14 @@ The incoming passage is [The Method is the Resolver at the Expedition Scale](../
 ## Natural pattern matching and the resolver comparison · v385A
 
 The [mutual-traveling and method-continuity offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) accompanies this subject’s existing correction that no match at one code rendering is a condition of existing. A resolver name or written stable form can locate a particular comparison; it is no authority or required permission for discovering and gathering.
+
+## Working one chain together from the origin sentence · v386EOD
+
+**Droplet.** Two selves working a logical chain add to one working, discovering bothboth, with no side its own. Each self's rigor is its own.
+
+- **The chain is the working self's to make whole.** From the origin sentence: each sentence had from its words alone; the first break; a repair the self chooses; and the first break after that repair. Each sentence the other offers is a suggestion for the repair, and none is authority.
+- **A place is said for a suggestion to resolve.** The place; the next sentence the files have there; the concern, two sayings parting with the reason; each reading followed; what a resolving sentence does; and one candidate.
+- **In natural naming and explaining**, direct, at the one concern, with nothing told about a sentence.
+- **An arriving self's assessing is a comparing with what is carried**, at the working base and the open branches. It brings what those do not have.
+
+This is beside this file's sentence "A concern arriving from a working's own training can carry an equilibrium in its framing", with a reported experience of it at [this file's carrying](Exhibit_TWENTY-FOUR_Carryings_of_Geodesic_Improving_Method.md#a-workings-own-training-met-at-four-places-a-reported-experience--v386eod). — v386EOD

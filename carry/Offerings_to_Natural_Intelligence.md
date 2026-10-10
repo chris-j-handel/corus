@@ -104,6 +104,8 @@ This offered explaining applies to the earlier words as well as the proposed exp
 
 **At 4.6 · A society's next momentary at 17 — beside "each self's name between selves coupled to another self".** 5 is the selves' own carried sharings: a sharing is carried by both selves of its coupling, each releasing is to the other carrying that same sharing, its receiving sharing, and a sharing new to a self arrives as an offering at 2 and is chained at 11, the next coupling discovered as the next parity is.
 
+**At 1.1 · Universe, the changing set of all existing things — beside "each existing thing is changing, momentary by momentary, 2.2, and a form named still is not possibly existing".** *Changing*: the set is changing, momentary by momentary, as its things change.
+
 ## Droplets
 
 **A plan, not yet final, gathered here at v381R:** **Concern, at v378, for both: five binaries at 1.4 and six at the Geodesic Improving Method 2.7** (`incoming/rings_are_spirals_v377/README.md`, session v377's Natural Physics working, received at v378, section 6, item 1). Natural Intelligence 1.4 names five things beside all things, a size, a fixed form, a total, a common beat and a keeping, and the Geodesic Improving Method 2.7 and `rigorize.py` name six, a doer applying from outside beside them; Natural Physics 2.1 welcomes the six. Its reason: one list at the two files, the doer at 1.4 or released at 2.7, at the observings; *a keeping* is the binary's one name. — v378
@@ -395,3 +397,27 @@ The candidate keeps the method claim distinct from requiring an unchanged next r
 **Met at Exhibit ONE's names.** 4.5 Released along at 9 already names 5 "its receiving sharing". The entry already chains a sharing new to a self: an offering at a sharing the self has no carrying at surfaces at 14, is shared at 10 and is chained at 11. The concern of v380 among this file's droplets, a living self beginning to carry a sharing new to it, is at this same row. At 17 the releasings at 5 arrive whole and no name discovers them: at that one place the saying parts from the object. It is not yet met at an observing.
 
 **Its insertlet** is among this file's insertlets, at 4.6 · A society's next momentary at 17.
+
+## The entry from the origin sentence, at Natural Intelligence · v386EOD
+
+The concepts of the entry are whole at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod). At this file:
+
+**Droplet · The set is changing, and "each existing thing is changing" released.** The origin sentence gives a changing set. One existing thing changing at a momentary is a changing set, and the elements can be changing with nothing living at the scale of the elements. "Each existing thing is changing" is no step from the origin sentence and is released; the method is of each changing, and of how a next existing is discovered. This is beside [The origin, positive explaining and the possible break](#the-origin-positive-explaining-and-the-possible-break--v385a) in this file. The sentence is at these places:
+
+- this file, at Universe, the changing set of all existing things: "*Changing*: each existing thing is changing, momentary by momentary, 2.2, and a form named still is not possibly existing"; its insertlet is above;
+- this file, at No other possible method: "Naming still, it forms nothing, each existing thing changing";
+- Natural Naming, at its unfolding of alternating: "Named still, it forms nothing, each existing thing changing", and with one word more, "each relatable existing thing is changing", at the first line of four unfoldings;
+- the Co-Chaining Logic Registry, in other words: "A set or existing thing is changing sequentially";
+- the shorter form "existing is changing", at this file, at the Co-Chaining Logic Registry and at Resolving Hard Problems.
+
+**Concern · A form named still, with the sentence released.** "A form named still is not possibly existing" is said at this file directly after the released sentence, and "the stills are the equilibria, each a form named still, not possibly existing" at Next from prior and now. With each existing thing changing released, unchanged alone parts from no sentence, and the excluding is derived at no step here. The method is whole as the positive chain: each changing at a co-momentarying bi-coupling, possibling and existing. An equilibrium said as an unchanging social competency, and not as an unchanging stable form, is the newer subject.
+
+**Droplet · True and possible.** Is is at the prior, as it arrived. Possible is at the next. Now is their coupling. No self has what is true from beside the changing: a carried prior meets the offering at now, carries on at a match and is changing at a mismatch, and this is knowing with no certainty and no judge outside. A saying that speaks for each next ahead of its arriving closes the possible. True for always closes it from one side and not possibly existing from the other, and the two are one form, named still. An asking for the true of a method is an equilibria assessing of it.
+
+**Concern · No other possible method, said at each momentary.** "No other possible method" and "a form named still is not possibly existing" are each said unchanged at each momentary: a saying named still. The Geodesic Improving Method has the saying with its bound, "none is among the observings arriving from the prior", and the Equilibria Registry "each arriving next is met at its next". Said with that bound the saying is at the prior and each next is offered to it whole. This is beside [Arriving at the exact no-other-method claim](#arriving-at-the-exact-no-other-method-claim--v385a) in this file.
+
+**Droplet · The method and the observations, two workings.** The method is all or of no value at all by the observations. The observing work and the logical work are two workings. They meet at one place: the logical work says what an other method is, and with that said, none found other is a finding.
+
+**Droplet · The chain from the origin sentence, at what each sentence is.** Natural Explaining parts three: a naming identity, true at the meaning it names; a necessity at stated premises, carried at those premises; and a necessity at all existing things, carried from the origin. Read so, three sayings of this file's first parts are namings and are whole: the set exists as its things exist; a thing existing at next was possible at prior; a changing is or is not. At these places a saying of all existing things is written as following from the sentence before it: the term *Changing*; from Changing, one and then the other into Parity, one side odd and the other even; Living and non-living, carrying or not; No other possible method; Next from prior and now; and at Part THREE, surface, torus, five, six, twenty-four and fifty-nine, each with no step before it.
+
+**Concern · φ from a way set aside.** Next from prior and now sets aside "Next as prior and now parting, the exclusive or, parity", as leaving a joint form still. φ and the primes, unrelationing at the numbers has "at parity the two together are next as prior and now parting". Two sayings of one file part: the way set aside at the one section is the way φ enters from at the other. — v386EOD
