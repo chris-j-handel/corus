@@ -1,10 +1,6 @@
-Exhibit TWENTY-FIVE Living Society Registry Offerings · laid at v381R
+Exhibit TWENTY-FIVE Living Society Registry Offerings · improved at v385A
 
 # Offerings to Living Society Registry
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** none from the code.
 
@@ -22,8 +18,6 @@ None.
 
 TWENTY-FIVE · Living Society Registry, 12,200 words, v347: good and clear; no sources; 1.10 missing; its own subject about 75%, restating the common method about 5%; little old wording. (Re-Settling the Living Files, §2 table) — resettling_v373
 
-The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
-
 Living Ghost Registry and Equilibria Registry: two registries, one derivation. They share the verdict, a form named still not possibly existing, and the ten, and share no text and name each other nowhere. The Equilibria Registry's entries are the fields' formal definitions excluded by proof, near the Co-Chaining Logic Registry; the Living Ghost Registry's are field words installed as things and read against instrument records, near the Living Society Registry. The derivation stands once at the Equilibria Registry's opening and the Living Ghost Registry points to it; matching entries are indexed across (entropy, equilibrium, the set point, the kelvin floor). The Living Ghost Registry states each installation once, releases 7.11, and its door readings of passed records at 7.8, about 6,000 words, go to the Living Society Registry's entries. (Re-Settling the Living Files, §8) — resettling_v373
 
 Living Society Registry: the observations home for the sciences, with a source address at each entry, which it carries at none now. Its Part Three status paragraph goes to the Living File Registry; 1.10 is written or the numbering closed. (Re-Settling the Living Files, §8) — resettling_v373
@@ -31,8 +25,6 @@ Living Society Registry: the observations home for the sciences, with a source a
 Defect: Living Society Registry, 1.10 missing; Part Three's status paragraph stale. (Re-Settling the Living Files, §11 Defects) — resettling_v373
 
 The Living Society Registry v347 and Natural Philosophy v348 are far back, each with a light carrying. (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
-
-Values is at pass G, its receiving planned at the Living File Registry 1.5: "Values into Natural Human Society and the Living Society Registry." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
 Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 

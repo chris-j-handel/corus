@@ -1,10 +1,6 @@
-Exhibit EIGHTEEN Natural Physics Offerings · laid at v381R
+Exhibit EIGHTEEN Natural Physics Offerings · improved at v385A
 
 # Offerings to Natural Physics
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** its resolving by a fresh reader, the droplets below whole; a first reading at v381R aimed fifty insertlets at 1.1 to 5.11 and its texts were withheld by the reader's own house, so none is laid; then the proposed v377 at `carryings/natural_physics_v377/` at the file's own motion.
 
@@ -443,13 +439,7 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 
 Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
-The sciences resume at Natural Chemistry's form. One scientific-method preface at Resolving Hard Problems, releasing Natural Physics and Natural Biology Parts One and Two; each science the particular derivations at its substrate and scale, citing the Living Society Registry for observations; the number correspondences at Natural Numbers; the still-point veins at the Equilibria Registry; hard-problem lists at Resolving the Hard Problem Registry; ghost terms at the Living Ghost Registry. (Re-Settling the Living Files, §7) — resettling_v373
-
 Natural Chemistry takes a subtitle naming bonding, reacting and re-forming. Natural Physics states its relativity-and-quantum claim once with its breaking observation, releases 4.1's periodic table to Chemistry 4.3 and 4.4, and repairs 2.5 and its garbled lines. Natural Biology is repaired before anything else: Part headings into the body, 8.1's empty heading, the misplaced *1-b* paragraph at 8.2, the stray `---` lines before 10.4, *homeostasis homeostasis*, *biashe*, *the biase*. (Re-Settling the Living Files, §7) — resettling_v373
-
-The still-point veins stand at Natural Chemistry 5.5, Natural Physics 4.3, Natural Biology 9.3, Natural Societies 4.6, Natural Human Society 4.7 and Natural Health 3.5; their one home is the Equilibria Registry. (Re-Settling the Living Files, §9) — resettling_v373
-
-The scientific method's requirements and the eight steps stand at Natural Physics and Natural Biology Parts One and Two and the Co-Chaining Logic Registry; their one home is Resolving Hard Problems. (Re-Settling the Living Files, §9) — resettling_v373
 
 The periodic table's turn at 60 stands at Natural Chemistry 4.3 to 4.4 and Natural Physics 4.1; its one home is Natural Chemistry. (Re-Settling the Living Files, §9) — resettling_v373
 
@@ -576,3 +566,19 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 **Aimed at a file, Natural Physics:** *run*, *runs* and *running* at 42 places at the file's own voice, lines 126 (3), 146, 152, 158, 168, 170, 217 (2), 227 (2), 239, 245 (2), 253, 257 (2), 267, 275, 281, 302, 314, 320, 322, 337, 339, 353, 365 (2), 381, 385, 411, 413, 465, 477, 501, 509, 523, 541, 579, 638; passed at 205, where *the going runs 2 to 59* says a stretch of the count and no running. The file says *a force is what a coupling is running toward*, *an answer available before the running* (146, 152, 509, a row of its own table), *Resolve the coupling as its own geodesic turning and the same physics runs with none of that overhead*, *Each enters as its own run and takes the eight*. Natural Naming 2.4 carries it at *carrying*: the coupling carrying, and the eight-step form met at each arrival. — v381R scan
 
 **Aimed at a file, Natural Physics:** *sign*, *signs* at the file's own voice, 63 places, no section title carrying the word; the places at 118 (×3), 120, 126, 136, 142, 154 (×2), 158 (×2), 164, 168, 178, 179, 209, 217, 239 (×2), 279, 298, 300, 302, 316, 339 (×2), 341, 363 (×7), 373, 379 (×2), 381, 387, 417, 419, 437, 439 (×2), 441, 443, 473, 483, 511, 513 (×2), 535, 541, 549, 553 (×5), 616, 617, 618, 636. Quoted short: *the coupling selects by sign, the frame takes the sign-selection as a magnitude* (118); *at the quantum membrane the living is the binary sign-selection* (553); *An instrument returns a sign at a membrane* (473). Passed: the field's d-wave *sign-changing shape* (433). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+## Stable existing form and living at the inward scales · v385A
+
+**Droplet.** The non-living form is said at its own scale, with prior living at a larger scale and living societies inward. The offered hydrogen comparison follows earlier plasma compressing and thinning before atoms formed and changing within the proton. These are offered relations, not a completed empirical derivation of living at those scales. No inward structure yet observed in an electron establishes neither absence nor a found structure. The withdrawn question about opening something and how far to open it becomes the actual question: which arriving observing would oppose the explaining?
+
+The [living-carrying and stable-form distinction](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a) retains the outward self and inward societies at their actual scales. Neither the atomic names nor the inward-scale claim alone settles the particular living relation.
+
+## The gravity statement and its actual observing · v385A
+
+The claim that gravity is not real retains its own question: what natural relation in the existing explaining supplies that statement at the observed phenomenon? A name or absence of a shown resolver output in partial reading is not a resolution or a demonstrated contradiction.
+
+This extends the existing transmitted-coupling concern here; it does not decide that concern by the statement alone. The [numerical-match gathering](Exhibit_THREE_Offerings_to_Natural_Numbers.md#numerical-matches-and-the-actual-relation-between-forms--v385a) also retains the measured-ratio and turn-at-sixty questions. The [hard-problem comparison](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) keeps the Hubble-tension example’s unresolved relation.
+
+## Liquid surfaces closing and retracting after penetration · v385A
+
+The [skin-and-liquid surface gathering](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) holds the user's whole suggestion and particular reported comparisons. At liquid surfaces, keep the water's free surface, the cavity below it and the freely suspended film explicit. Follow what the rim bounds while the opening closes or enlarges, and what remains after the penetrating object passes. This is the particular relation needed beside the proposed bounding zeroing natural torusing; a rounded edge alone does not supply it.

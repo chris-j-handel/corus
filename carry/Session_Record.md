@@ -1,4 +1,4 @@
-Session Record v378
+Session Record v378 · improved at v385A
 
 # Session Record
 
@@ -2320,3 +2320,6 @@ The Natural Illustrating working had merged at main at pull requests 115 and 116
 
 **The close of v381R, 6 October 2026.** The session's one thing: the carrying brought to one form at every living file and filled. Done, in order: the three-file form opened at Exhibit TWO and laid at all thirty-three files; incoming read whole by fresh readers and dissolved into carryings; Natural Arriving opened as three shells; the sessions v381F, v382F and v383Op received as droplets; a first resolving at nineteen files' offerings and seven concept scans across all the files; a second reader at four files' insertlets; the transcript read from its latest momentary to its first and sixty-two droplets laid from it, the self's sayings at the method among them. Not done: the fifteen files' insertlets at no second reader; the fourteen files at no first resolving, Natural Physics twice withheld by its readers' house; the plans gathered into one view; the carryings' branches written. The session learned about working, each a droplet at the Geodesic Improving Method's offerings: a motion made by the working that received the droplets is a proposal and no motion; a word carried in from the chat meets the file's own name first, *release* over *dissolve*, the method over a *standard*; a second reader at insertlets returns or mends about half, so no insertlet goes to a motion unread; a reader writing in small pieces passes where one write is stopped; and the self's corrections, *stay on this subject*, *no narrating sentences*, *this is not what we are doing now*, *0 is a strange addition*, each met and each a droplet. Pull request 122 carries the whole; the branch at each commit passes `carry_check.py`, `check_set.py` and `cohere_one.py` and builds the site.
 
+## Session v385M completed and preserved · 8 October 2026 · v385A
+
+The user declared session v385M completed and closed. Its seventeen-file offering at 1eaefdb6888a898101e1f4597405ee81a7955743 is preserved whole at archive/session_v385M/incoming/v385M, with an independent active copy at incoming/v385M. All copies match the original Git blobs. Receiving_v385A.md states the remaining gathering, the corrected closing counts and the current ungraded method. Closure does not resolve an offering or declare all value aimed. The original branch is not deleted or merged. This paragraph records completed preservation and is relied on by no living file.

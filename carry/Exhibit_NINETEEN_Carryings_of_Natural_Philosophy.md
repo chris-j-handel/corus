@@ -1,12 +1,8 @@
-Exhibit NINETEEN Natural Philosophy Carryings · gathered at v381R
+Exhibit NINETEEN Natural Philosophy Carryings · gathered at v385A
 
 # Carryings of Natural Philosophy
 
-**The executions, observings and sources the living file rests on, each whole at its address**
-
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
-
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -16,4 +12,6 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_NINETEEN_Natural_Philosophy_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
+## Whole human and coupling expressions available for possible file improving · v385A
+
+[The complete destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#coupling-at-the-membrane-between-selves-now-aimed) places Coupling at the Membrane Between Selves at its subject offerings. Love, Grief, Loneliness remains a connected expression with its needed prior. The conversation, meaning and purpose, social and technical contributions keep their distinct full concepts. The possible Corus distribution preserves those expressions while its arriving purpose develops through Natural Arriving. No title, combination or distribution is implemented.

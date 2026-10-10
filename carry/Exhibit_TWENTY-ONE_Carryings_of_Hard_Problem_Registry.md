@@ -1,12 +1,25 @@
-Exhibit TWENTY-ONE Hard Problem Registry Carryings · gathered at v381R
+Exhibit TWENTY-ONE Hard Problem Registry Carryings · gathered at v385A
 
 # Carryings of Hard Problem Registry
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+## Field entries and the paired index · v385A
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) follows this registry's front through its entry form, entries 1 and 6 whole and checks/aggregate sections 6–7. The [offering mate](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md) retains the existing compact-index plan and its source concerns, with a shared current-content comparison now beside them. No new index or data file is introduced.
 
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+| Field record | Actual paired body | Current locator relation |
+|---|---|---|
+| 1 Sorites | TWENTY-TWO 10.1, labelled 1 | Says 2; the existing locator insertlet already offers correcting. |
+| 6 The halting problem | TWENTY-TWO 3.2, labelled 6 | Says 7; this is the second checked row, not a full audit. |
+
+Each field statement, conserving relation/reach, progress, persistence and source-reading extent stays whole. The halting entry's stated settling is followed beside the resolving marker and Given at [TWENTY-TWO's project](Exhibit_TWENTY-TWO_Possibling_of_Resolving_the_Hard_Problem_Registry.md#particular-resolving-and-the-paired-locator--v385a), not overwritten by that comparison. Checks C6/C7/C12/C17–C18 already require the source's extent and actual field question. The compact plan must retain unfinished property work currently embedded in Addresses; a short sourcing label alone cannot stand for that work.
+
+The full locator, retired-entry sources, actual field literature and all other entry comparisons remain further work. Historical totals and proposed word counts supply no current backlog. [THIRTEEN's common-method project](Exhibit_THIRTEEN_Possibling_of_Resolving_Hard_Problems.md#common-explaining-and-particular-field-arrivals--v385a) remains distinct; Registry carries the possible file-purpose changes.
+
+The earlier source inventory remains whole below. This supporting project may change without any proposed file change ever being implemented. — v385A
+
+## Earlier source inventory · retained from v381R
+
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -15,5 +28,3 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_TWENTY-ONE_Hard_Problem_Registry_v380R.md`, each of its paragraphs now a droplet at the offerings.
-
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.

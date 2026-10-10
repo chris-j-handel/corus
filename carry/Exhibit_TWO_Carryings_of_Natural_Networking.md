@@ -1,10 +1,33 @@
-Exhibit TWO Carryings of Natural Networking · gathered at v381R
+Exhibit TWO Carryings of Natural Networking · gathered at v385A
 
 # Carryings of Natural Networking
 
-**What the living file rests on and what has left it, each whole at its address, relied on by the living file alone**
+## Incoming concepts gathered for this subject · v385A
 
-A carrying is what the living file came from and what its sentences rest on: the kit, the executions, the field's papers, the prior versions, the workings that offered at it and the readings of them. Nothing here aims into the living file; what aims in is at the Offerings. Nothing here is read for a next; a sentence of the living file that needs its evidence points here. Each thing is at the address it is at now; a motion at this file moves a thing here whole, and until then its address is said.
+- [Self-interest and the health of the natural network](Exhibit_TWO_Offerings_to_Natural_Networking.md#self-interest-and-the-health-of-the-natural-network--v385a)
+- [Concerns in the diagnostic analogies for networks](Exhibit_TWO_Offerings_to_Natural_Networking.md#concerns-in-the-diagnostic-analogies-for-networks--v385a)
+
+## Natural-network expression and supporting kit · v385A
+
+[The Destinies/Networking/Corus comparison](../incoming/v385A/Natural_Network_Comparison_v385A.md) gathers a possibling project beside this subject. It follows selected living passages, the already offered corrections and the supporting sources below; it does not claim a whole comparison of every Networking source. [This file's offerings](Exhibit_TWO_Offerings_to_Natural_Networking.md) retain their existing insertlets and droplets with the current method and further network-expression/own-side droplets.
+
+[Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) carries the set-level distribution and kit relation. [Destinies' carrying](Exhibit_FOURTEEN_Carryings_of_Natural_Destinies.md#particular-destination-comparisons--v385a) and [Corus's carrying](Carryings_of_Natural_Intelligence_Corus.md#natural-network-expression-and-further-composition--v385a) retain their particular contributions. All new offerings remain droplets; no source has been removed or resolved into a living exhibit by this gathering.
+
+## The connected engineered-substrate comparison · v385A
+
+[Engineering's further comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) now follows the chip/grid/interface extension and Destinies' two misreadings beside Corus 23.7. The network's actual coupling and each self's own carrying remain at this subject; Engineering keeps material interfaces and construction. R's later joint-form concern is recorded at its stated scope, with no demand for a sign inversion at every sharing. Destinies' hard-problem extension is next in the connected plan.
+
+## Kit source versions and current entrance · v385A
+
+The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-and-the-content-they-support) records the v368 engine, waiting instruments and proposed later conforming from the kit's current README. Its former incoming route is available at [the v365 ONE/TWO project source](../carryings/v368_sources/Findings_To_Lay_By_File/Kit_Exhibits_ONE_and_TWO_v365.md). The existing direct-carrying withdrawal and local kit project remain together; no current compatibility or new result is claimed.
+
+## Earlier source inventory · retained from v381R
+
+The following inventory remains whole. The [v385A method](../incoming/v385A/README.md) governs the project above; the earlier directions and standings retain their source extent.
+
+**The existing kit and earlier materials, each at its address**
+
+The kit, executions, field papers, prior versions and workings remain available at their listed addresses. They can be used and improved as objects; the present purpose of this carrying mate is stated above.
 
 ## The kit
 

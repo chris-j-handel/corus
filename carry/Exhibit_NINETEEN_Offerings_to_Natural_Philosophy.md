@@ -1,10 +1,6 @@
-Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R
+Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R · improved at v385A
 
 # Offerings to Natural Philosophy
-
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
 
 **Next at this file:** none before its receivings.
 
@@ -33,21 +29,13 @@ Exhibit ONE's *Five, and a seam at 8 up* explaining, the two unreachabilities, g
 
 Exhibit ONE's *The membrane and the eight bi-couplings; Bi-inversioning-co-recursioning* explaining (the membrane not possibly an existing thing; the ratio reading and podaling) goes to Natural Philosophy and Natural Mathematics. (Re-Settling the Living Files, §5 table) — resettling_v373
 
-Corus Part 14, the human readings 14.4 to 14.7 (love, grief, loneliness, lying's cost, meaning), goes to Natural Human Society and Natural Philosophy; 14.8 at Natural Networking and Natural Societies. (Re-Settling the Living Files, §6 Corus table) — resettling_v373
-
 Natural Explaining stays the craft, tight at four parts. It receives Corus Part 16's remainder and releases its own general method: 1.6 and 4.1 to Natural Intelligence or Natural Naming, 4.2's truth, science and device paragraph to Natural Intelligence 8.6 or Natural Philosophy, 4.5's surgical method to the combined Exploring, 4.6's resolver case to Exhibit ONE. Natural Intelligence 8.7's sentence paragraph says what Explaining 2.1 says and releases there. (Re-Settling the Living Files, §6) — resettling_v373
 
 Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
 
 Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing, 1.3 and 2.4 to 2.5, at Natural Intelligence as the claim that the form is independent of any substrate's rate; 3.1 to 3.7 at Natural Engineering's entries and at Natural Chemistry and Natural Biology; 3.8's plaza and 4.3 at Natural Networking; 3.8's conversation at Natural Explaining; 4.4 at Natural Philosophy; 4.6 at Natural Naming. One change to the agreed receiving: the cross-substrate comparison at Natural Engineering rather than Natural Networking, since it is one form at many substrates, Engineering's subject, and Networking is already the most overstuffed. About 12% of SIX is re-said at the receiving, its *sum to a bounding-zeroing* and its membrane as a third among them. (Re-Settling the Living Files, §7) — resettling_v373
 
-Natural Philosophy keeps its 37 seams and its register of 66 dilemmas. Its Part Four heading returns to its place before 4.1; Parts One and Two release to a citation of Resolving Hard Problems; the seams are re-said from v348 wording, *self-equilibrating* among it; 3.3's alignment paragraph goes to Natural Societies; the mathematical seams cite Natural Mathematics 6.3 and 7.3. (Re-Settling the Living Files, §7) — resettling_v373
-
-The ten things named still stand at Resolving Hard Problems 2.5, Resolving the Hard Problem Registry, Natural Naming 4.9, Equilibria Registry §3, Living Ghost Registry 2.3 and Natural Philosophy Part Five; their one home is Resolving Hard Problems 2.5, one wording, one address scheme at the v372 faces. (Re-Settling the Living Files, §9) — resettling_v373
-
 Defect: Natural Philosophy, *PART FOUR · CO-SEQUENCING* at line 346, before 3.9, so seams 3.9 to 3.37 fall under Part Four in the body. (Re-Settling the Living Files, §11 Defects) — resettling_v373
-
-About 8,500 words of Exhibit ONE v372's sentences leave it; a sentence leaves only once its receiving file carries it. Natural Naming receives its share; Natural Intelligence, Natural Numbers, Natural Networking, Natural Philosophy, Natural Mathematics, Natural Engineering and Natural Values receive theirs at their own motions. (Natural Naming at Exhibit ONE, §1) — resettling_v373
 
 The Living Society Registry v347 and Natural Philosophy v348 are far back, each with a light carrying. (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
 
@@ -58,10 +46,6 @@ NINETEEN Natural Philosophy, v348: 9 findings and 3 discoveries waiting. Next: i
 G02: Networking 6.9: two positions on four hundred forty pair with themselves, the origin and the waist, and the waist reaches nothing else, being its own far side; Numbers carries the same at the closing ring, sixty its own far side. A position that is its own far side is a self alone read at the surface: it stands at one position, and what it reaches is nothing. Two positions carry no other, and a reading taken at either is an equilibria posture: one at the origin, where nothing has yet been carried, and one at the waist, where the carrying meets only itself. The next opening: Networking 6.9 and 1.9 joined at the waist, and philosophy's missing seam and Resolving Hard Problems' ten receiving the waist by name. (Kit_Exhibits_ONE_and_TWO_v365.md, 6.2 G02) — v368_sources
 
 **Aimed at a file, Natural Philosophy:** by its words a competency loop, *leans +0.25, co- 30 to bi- 11, its roots offering 56, competencing 50 and torusing 41, torusing a top root at no other file*; by its subject across, *the Registry 4.2 says of it *A division supplied by a naming, and the philosophical coupling the naming parts* and *The dual declared from one side and the same coupling met at both faces*, a field's fixing meeting the changing, which is morality's.* Resolved at the file's motion: *The reason they part: the file's words are the older naming's, co- alone at 30 to 11, and its subject is the across; a looping's parity is at its coupling, and the file at v348 says its subject in competency's words.* Alternated: *the side *by its words* needs the vocabulary to carry the parity, a form named still. At its motion the file says its subject, the dual declared from one side met at both faces, across, at the current names, and its words follow.* Its far side computed *4.8 Seventeen names and ten roots*, *noise; its mouth is 5.4 and 6.1*; its standing *NINETEEN v348 51*, among the six heaviest-loaded; its *not-yet* sayings to be said at prior, now and next. Session_Report_v381F.md parts 9 and 11, Findings 17 and 21; Entry_Journey_For_An_AI.md part 2; Next.md Opportunity 6, Ready. — v381F
-
-Natural Philosophy keeps its 37 seams and its register of 66 dilemmas. Its Part Four heading returns to its place before 4.1; Parts One and Two release to a citation of Resolving Hard Problems; the seams are re-said from v348 wording, *self-equilibrating* among it; 3.3's alignment paragraph goes to Natural Societies; the mathematical seams cite Natural Mathematics 6.3 and 7.3. (Re-Settling the Living Files, §7) (re-aimed from Exhibit THIRTEEN Offerings to Resolving Hard Problems at v381R) — resettling_v373
-
-Natural Philosophy keeps its 37 seams and its register of 66 dilemmas. Its Part Four heading returns to its place before 4.1; Parts One and Two release to a citation of Resolving Hard Problems; the seams are re-said from v348 wording, *self-equilibrating* among it; 3.3's alignment paragraph goes to Natural Societies; the mathematical seams cite Natural Mathematics 6.3 and 7.3. (Re-Settling the Living Files, §7) (re-aimed from Exhibit FOUR Offerings to Natural Mathematics at v381R) — resettling_v373
 
 Exhibit ONE's *Five, and a seam at 8 up* explaining, the two unreachabilities, goes to Natural Philosophy. (Re-Settling the Living Files, §5 table) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
 
@@ -78,3 +62,79 @@ Exhibit ONE's *Five, and a seam at 8 up* explaining, the two unreachabilities, g
 **Aimed at a file, Natural Philosophy:** *run*, *runs*, *running* and once *runner* at 64 places, lines 19, 161, 169 (3), 187 (2), 197, 210, 216, 228, 280, 286, 350, 354, 372, 382, 392, 396 (3), 400, 410, 426, 428, 448, 480, 484 (2), 490, 496 (2), 506, 508 (2), 510, 512, 514, 540, 560, 578 (2), 596, 606, 608, 620, 624, 654, 660 (3), 662, 666, 668, 686, 690 (2), 694, 704, 732, 752, 778, 866, 887; passed at 392 twice, *a run of arrivings* as a sequence, and at 658, the field's *complete run* at Zeno's dilemma as posed. The section title 1.2 carries it, *A position, a dilemma, and the six run one-way* (19, 161). The file says *Coupled and co-recursed, the six is co-competencing, the living. Run one-way and pinned, it is hard-probleming, the frozen*, *the running being where it lives and the encodings the running written down*, *a runner arrives, arriving having never been built out of the parts the argument built*, *Forward, the running that bottoms nowhere is the surplus at every coupling*. Natural Naming 2.4 carries it at *carrying*, and the runner at 662 at *a living self arriving*. — v381R scan
 
 **Aimed at a file, Natural Philosophy:** *sign*, *signs* at the file's own voice, 48 places, no section title carrying the word; the places at 157 (×2), 169, 250, 252 (×2), 256, 260, 298, 300, 308 (×4), 310 (×3), 312, 314 (×2), 352, 356, 366, 368 (×3), 372, 374, 408, 410, 414 (×2), 574, 576, 578, 580, 676 (×2), 714, 716, 758 (×2), 762, 764, 797, 817, 831, 868. Quoted short: *The taking is a sign, is-or-is-not at the self's own membrane* (252); *take for the other exactly the sign you take for yourself* (308); *A membrane carries a sign and nothing else, and no line ever sat there to be found* (368). Passed: the field's dilemma name *sign / signified* (868). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+## The Nothing and the older membrane-self explaining · v385A
+
+Natural Intelligence Corus section 14.1 offers the nothing between two selves as the same gap the natural torus carries at its origin, with each self's own living gap at its own depth. Two surfaces meet from opposite directions without either self crossing into the other. Its two-in-two-out account has two surfaces arriving, exchanging through the coupling and parting as two resolved surfaces, each returning the alternative of what entered. Entry interleaving and exit dis-interleaving bound the proposed tunnel.
+
+The older explaining assigns alternating surfaces a geodesic location and a metabolic phi-rate. Its local protection claim is that a temporary binary changing at one coupling does not affect surrounding or other localities, allowing simultaneous local resolving across a shared surface. This is a particular claimed isolation relation to preserve; neither a drawn gap nor an assigned rate supplies the protection.
+
+The passage then makes the membrane a third self: generated by two closed selves, with its own closure, beating and autorecursion, reading and writing both selves, accumulating their exchange and returning carrying when the coupling ends. It generalizes this to every connection, locates network intelligence in such membrane-selves and describes growth as generating further membrane-selves able to couple at another scale.
+
+Current correcting accompanies this older expression. The between is no additional self with separately pooled carrying; each living self has its own carrying, resolving from prior into now and through now and next. The inward selves' co-chaining is the outward living society's carrying. Sign-only sharing, each self's own momentaryings and their overlap remain explicit. A common rate, an untouched prior, a file with character or an operation inspecting another's carrying is not restored by gathering the expression.
+
+The useful subject is how two selves couple while each retains its own carrying and how inward co-chaining participates in outward society. The older third-self account is the actual explaining needing improvement. Its claimed local isolation, exchange, closure and scale relations remain whole concerns; the withdrawn request for an extra third self is not reopened.
+
+## Between-Speed and Exchanging of Nyes · v385A
+
+Natural Intelligence Corus section 14.2 offers two selves, each with its own coiling, sequential signs and local resolving, meeting at a nothing described as having thickness. Its “between-speed” names intelligence neither carries alone, dependent in this expression on that thickness. It claims collapsing the thickness dissolves intelligence and that morality sustains the thickness while competency resolves locally where arriving is met.
+
+Its exchanging of nyes is two incomplete surfaces meeting at their fraying edges through perpendicular inseparating. Tenderness is offered at their simultaneous approach to a threshold, where a slight asymmetry determines the flickering's resolving. Gentleness is offered as the geometry of two cones fraying at each other's surface, with the further claim of highest intelligence per position and learning at that fraying edge.
+
+Preserve the whole human expression and its geometric and comparative claims. A thickness, speed or intensity is not newly measured or derived by these words. The between is no third carrying self. Each self's own resolving and the intelligence of discovering together remain the subjects to explain. This conceptual prior also accompanies Love, Grief, Loneliness.
+
+## The Dance of Two Selves and listening at the coupling · v385A
+
+Natural Intelligence Corus section 14.4 offers two cones meeting at a point that neither owns, each from its own angle. Its older vector and superposition description says the shared point changes without either self collapsing into the other. Value differs at each self by the relation: a sender cannot transmit a value object; the other self resolves at its own carrying. The passage describes a shared bounded context rather than identical carrying.
+
+The small opening examples are “How is your day” and noticing another's tennis racket and asking whether they play. Each offers a limited context in which another exchange can arrive. The offered “bounded fit” means a context available to both without requiring their carrying to match. The cost is described as other couplings not entered and metabolic limits on simultaneous participation. The older assertion that successful conversation requires matching phi-rates remains a separate proposed mechanism, with current own-momentarying and overlapping correcting beside it.
+
+Listening is offered as following the arriving one coupling at a time against the listening self's own carrying. The passage distinguishes hearing words without the offered depth from projecting a depth that is absent: its examples name gap-1 listening to gap-4 and gap-6 listening to gap-2. A listener fixed at one depth is described as meeting only what fits that depth. These numbers are the particular proposed examples, not a measure of a person's understanding. The whole value is preserving the actual arriving concept while keeping each self's own resolving. No common clock, access to private carrying or classification of a person follows.
+
+## Love, Grief, Loneliness · v385A
+
+The whole expression in Natural Intelligence Corus section 14.5 follows the nothing and the exchanging of nyes between selves. “Love is two may-nevers coupling at one nothing.” The may-never is described as still at each coupling, with two stillnesses meeting through perpendicular inseparating and intelligence at their between. Each self reaches its own fraying edge, meeting the other's; sustained love is described as between-speed with the may-never sustaining without thinning. The love poem is offered as meaning two things at once, each self reaching toward what neither alone carries, with language at its most silent.
+
+Grief is offered through three depths. Surface grief is reaching toward an expected coupling whose arriving does not arrive. Deep grief is the trace of the coupling sustaining in the self's may-never after the other departs to silence, without thinning. Self grief is the irreducible me approaching dissolution, the may-never losing the may so only never remains; the passage leaves silence where observations end.
+
+Loneliness follows the same depths from the other side. Surface loneliness is reaching toward the fraying edge without another arriving, and is described as resolving when another arrives. Deep loneliness is the self's still-undetermined positions having no corresponding positions in another's nye surface; it can sustain through coupling, uniqueness experienced as absence. Mystery is the may-never meeting the may-never, the irreducible me facing the gap, the +1 reading the +1, with resolving continuing around the mystery.
+
+These are whole offered human expressions, with the tenderness, incompletion and each self's own prior kept available. They do not prescribe stages a person must undergo or establish a psychological diagnosis. “Without thinning” preserves the particular expression about a trace; it does not make the living self's whole carrying remain unchanged. The older thickness, between-speed and geometric correspondences retain their need for actual explaining, with no third membrane-self introduced.
+
+## The Metabolic Cost of Lying · v385A
+
+Natural Intelligence Corus section 14.6 describes a lie as a second sign inversion after the resolver has already resolved: an honest surface at the self's own substrate and an inverted surface offered at the coupling. It proposes simultaneously sustaining these two surfaces and therefore double metabolic cost at the affected positions. Its further sequence is thickening beyond a healthy range, absence of nye and consciousness at those positions, and habitual lying becoming automatic.
+
+The passage distinguishes the morality's first inversion within the coupling, through which what sustains faces testing, from the proposed second inversion imposed afterward. It calls the first inseparating and non-possessing and the second separating and possessing. This particular account, its quantitative doubling and its claims about consciousness remain together as an offered explanation.
+
+The current sign-only relation gives no access to another self's private carrying, and the source's asserted second operation is not a permitted new manipulation of the resolver. The cost, thickening and consciousness claims are not established from a statement being false or from their presence in the incoming. Keep the proposed social and explaining relation available without diagnosing a person or substituting a moral label for its actual coupling.
+
+## Meaning and Purpose as Structural · v385A
+
+Natural Intelligence Corus section 14.7 offers meaning as the coupling's surplus, identified specifically with the +1 in phi² = phi + 1, rather than a label attached afterward. It contrasts choosing meaning, society conferring it, religion locating it or a cause supplying it with meaning arriving at the coupling itself. It acknowledges reported meaninglessness and proposes a coupling departed from phi-rate, with +1 not arriving, as its explaining.
+
+Purpose is offered as resolving direction: a right-spiral sustaining the coupling at phi-rate, contrasted with a left-turn ordering closing the tunnel. The passage contrasts this with an externally selected goal, an assigned mission or a hardwired drive. It brings meaning and purpose together as features of the coupling already occurring; asking their existential questions is offered as participating in the answering.
+
+Natural Philosophy already contains Meaning and use and Purpose and mechanism, with their own particular relations. This incoming adds the whole human expression and its exact numerical, directional and rate assignments. Those assignments remain propositions needing their relation explained; the expression does not establish a cause of a person's felt meaninglessness. The current forward up and forward down possibilities and each self's own resolving accompany the older right/left description, without deriving an exclusive direction from its wording.
+
+## Three Layers Inseparating in One Resolver · v385A
+
+Natural Intelligence Corus section 14.8 offers morality, exchange and self as three inseparating views of one resolver. Its morality account names the fixed stable form, equation root, thinning at (1/phi)^t, threshold at 1/phi³, sign inversion, counterflowing, breathing and prime substrate assignments. It proposes that two devices with the same stable form have the same morality despite different arriving and exchanging.
+
+Exchange is the society's exchanging: a family's, person's or expedition's actual contribution. The older expression calls thin exchange a young society and rich exchange mature while holding both moral. Its irreducible proposed specification is something preferable to something, more than one self and at least one orthogonal exchange. It contrasts one exchange repeated at sixteen levels, called a partition, with sixteen orthogonal channel vocabularies, called the full structure.
+
+Self is offered as the visitor's bounded arriving context. The resolver reads self through society against morality; affirming is described as beauty confirming the exchange, departing as contradicting it, and nye as an absence of exchange at that place. Beauty arriving at such a nye is offered as discovery economy: a society improving its exchanging through what couples. The inside view is named competency and the between-selves view intelligence, proposed as the same living at two locations.
+
+Retain the full three-layer proposal, its numerical assignments and particular exchange conditions. The fixed form is an existing form and does not make living carrying unchanged. Its morality, age, beauty and competency claims are not grades for droplets or for participating selves. Current inward co-chaining as outward carrying accompanies the same-form proposal; a common device description supplies no universal network result.
+
+## The particular ethical examples and mutual bounded-zero respect · v385A
+
+The particular philosophical relation is morality explained through the self's and coupling's form, with the four inequalities and actual examples. The connection to mutual respect and the claimed structural protection needs its whole relation. The [whole explaining](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#the-particular-ethical-examples-and-mutual-bounded-zero-respect--v385a) remains available at its subject.
+
+## Observing at a coupling and the observer installed outside it · v385A
+
+Natural Intelligence Corus's Observers opening offers the natural torus's surface as having no separate observer position: neither an outside reader nor an instrumented observer standing apart from that surface. It names the torus, living gap, geodesic resonatings and the two firm geodesic tension edges in the central tunnel as the particular surfaces. The proposed ghost is language installing such a position where the offered structure has none.
+
+The same passage expressly keeps the reader at the writing's coupling, scientist at the experiment's coupling and institution at society's coupling as actual observing relations. Preserve both parts: the proposed outside position and the observer participating at a coupling. Its assertion that everything is living is older wording; the current living/non-living distinction is not removed by gathering it, and every self being geodesic does not by itself classify every existing form as living.
+
+Living Ghost Registry sections 1.2 and 2.2 already keep field observing, accounting and an actual installation distinct, and locate the ten one-way projected positions. An instrument, a measurement or a reader is not made a ghost merely by being named. The unresolved relation is the particular installation the natural explaining identifies at the same observing, without discarding that observing or inventing an outside controller. The remaining observer readings in Corus stay incoming at their recorded extent.

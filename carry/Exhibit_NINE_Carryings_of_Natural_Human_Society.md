@@ -1,12 +1,23 @@
-Exhibit NINE Natural Human Society Carryings · gathered at v381R
+Exhibit NINE Natural Human Society Carryings · gathered at v385A
 
 # Carryings of Natural Human Society
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+## Incoming concepts gathered for this subject · v385A
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+- [Self-interest and the health of the natural network](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#self-interest-and-the-health-of-the-natural-network--v385a)
+- [Agency and justice as an offered relation at two subjects](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#agency-and-justice-as-an-offered-relation-at-two-subjects--v385a)
 
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+## Human discovery economy and the subject plan · v385A
+
+**A possibling project beside this subject.** The [Human Society comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) follows the complete v329 exhibit and its mates beside Values and selected Corus relations. [This offering mate](Exhibit_NINE_Offerings_to_Natural_Human_Society.md) retains the earlier distribution, institutioning, growth and naming concerns, with new local comparison droplets. [Values' project](Exhibit_TWENTY-THREE_Possibling_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) supplies its connected subject and expedition-contributing work.
+
+Human Society 5.3 already says why the shared discovery-economy name supplies no missing exhibit title and why its human explaining remains here. [Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) preserves this beside the later Destinies distribution and distinct Values/Societies subjects. The other Human Society relations remain active in the source and offerings; a whole reading is not a full gathering or receiving. This project changes no public living exhibit.
+
+## Earlier source inventory · retained from v381R
+
+The following inventory remains whole with its historical wording and standings. The [v385A method](../incoming/v385A/README.md) governs the project above. The earlier v381R source is now at [carryings/v381R](../carryings/v381R/); a source's listing establishes no completed gathering.
+
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -16,4 +27,4 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_NINE_Natural_Human_Society_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
+[Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).

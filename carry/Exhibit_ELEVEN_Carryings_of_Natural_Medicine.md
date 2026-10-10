@@ -1,12 +1,24 @@
-Exhibit ELEVEN Natural Medicine Carryings · gathered at v381R
+Exhibit ELEVEN Natural Medicine Carryings · gathered at v385A
 
 # Carryings of Natural Medicine
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+## Incoming concepts gathered for this subject · v385A
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+- [Concerns in the diagnostic analogies for networks](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#concerns-in-the-diagnostic-analogies-for-networks--v385a)
 
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+## Corus research comparisons · v385A
+
+[Corus 16.7](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, gathers three questions now available at [this offering mate](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md).
+
+Medicine 2.3 and 5.1–5.3 were read whole for this comparison; the predictor paragraph in 3.1 was followed separately. Chemistry 5.4 supplies the measured-ratio conditions. [The joined comparison](Carryings_of_Natural_Intelligence_Corus.md#part-167-five-research-clusters-at-their-subjects) preserves the other clusters and the remaining source work. Medicine 5.1's psychiatric/food-cause exclusions accompany Corus's older network analogies; their rhetorical pairing supplies no new clinical result.
+
+The proposed comparisons are in [the possibling mate](Exhibit_ELEVEN_Possibling_of_Natural_Medicine.md); their concepts are in the offering mate. The sources remain whole, and no scientific calculation, empirical verification or living-file resolving is claimed.
+
+## Earlier source inventory · retained from v381R
+
+The following inventory retains its historical wording and addresses. The [v385A method](../incoming/v385A/README.md) governs the present gathering.
+
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -15,5 +27,3 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_ELEVEN_Natural_Medicine_v380R.md`, each of its paragraphs now a droplet at the offerings.
-
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.

@@ -1,12 +1,12 @@
-Exhibit THREE Natural Numbers Offerings · laid at v381R
+Exhibit THREE Natural Numbers Offerings · laid at v381R · improved at v385A
 
 # Offerings to Natural Numbers
 
-**Droplets rising into insertlets, aiming into the living file, each one thing whole and no authority**
-
-Droplets at the bottom, raw, in the dropper's words, tagged with the session they came from, unvetted incoming; anyone drops, nothing refused. Resolving moves a droplet up into an insertlet, one thing whole, aimed at one sentence, in the file's naming, cohering with Exhibit ONE, plain, its tag gone. The living file's motion meets each insertlet is or is not and dissolves it either way. Laid at v381R from the file's carrying as it was, each paragraph a droplet as it stood.
-
 **Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each computed before it is said; the numbers' *ring* at 7.1's *the returning* and the numerals' correspondences at the concerns below.** The seventeen names by the map, 7.2 at the spiral with the torus's returning at the podaling, and 7.6's *in their stable and unstable forms* entered at v378; the connectors' facings and the hardest item 24 found carried already, a match.
+
+## Binary changing and numbered momentarying · v385A
+
+Keep numbering the co-sequencing’s own momentaryings distinct from imposing a common clock. A longer numbered co-chaining does not make any one changing greater. Preserve the inward/outward correspondence of the numbered names and four momentaries. The [whole correcting and its unresolved relations](Living_Improving_Value.md#alternating-width-and-length-incoming-parity-and-binary-changing--v385a) remain with the existing geodesic gathering.
 
 ## Insertlets
 
@@ -68,10 +68,6 @@ Droplets at the bottom, raw, in the dropper's words, tagged with the session the
 
 **A plan, not yet final, gathered here at v381R:** **Concern, at the close of v380R, an offering of the session yet to be worked at this file: binary is even is two, the parallel across lines at each even number, and the odd alongs of three and one between two even lines.** Natural Naming says across at each even name and along at each odd, read at each of the seventeen names at the resolver; at the numbers of this file it is said and yet to be worked. — v380R
 
-**A plan, not yet final, gathered here at v381R:** Natural Numbers and Natural Mathematics part at a clearer seam: the particular numbers, and the general structures with the field's proved results. They share about twelve results now, several nearly word for word: the k² identity, φ as *the number-form of the never-locking*, the Euler characteristic, the 60 rotations as 24 and 36, R(3,3) and the pentagon, the 256 maps and the passage of six, the steps round a ring, the two farthest stations on an odd ring with the same 435-station check, the fold family D and E. (Re-Settling the Living Files, §6) — resettling_v373
-
-**A plan, not yet final, gathered here at v381R:** Natural Numbers keeps the seam-faces, the seventeen primes and their gaps, 24, 27 and 32, the rings of 440 and 120, the 2^k + 1 chain and the counting discipline, which moves from Part Ten to its front. Natural Mathematics keeps parity and the exclusive or, involutions and fixed sets, the Gray code, ring parity, the φ family and density, the Euler characteristic and Poincaré–Hopf, the fold family and the field's proofs, and receives Natural Numbers 1.6's steps round a ring, 4.1 and 4.2, 8.1 and 8.2, 8.5 and 9.9. Both release their openings that restate the method. The two stand as the white paper's formal support by citation: the numbers, and the theorems. (Re-Settling the Living Files, §6) — resettling_v373
-
 **Aimed at a file, Natural Numbers, confirming: 7.2 and 7.7 hold at the resolver and at arithmetic.** 7.2: at an odd prime each pattern of parities is again at 4 or at 4n and at none between, executed at every pattern of 3, 5 and 7 selves, {4, 12}, {4, 20}, {4, 28}; nine selves at 4, 12 or 36; the torus again at q at a q past the waist 2p and at 4p at a q short, from momentary 3p − 1 and 3p − 3, at each of Exhibit ONE's seven odd rows, 3·3 from 6 to 7·17 from 20, each as Exhibit ONE's *again from* column has it. 7.7: the primes at the seventeen names pair i with 18 − i to 61, 56, 52, 50, 52, 50, 48, 48; 8 up to 25, 36, 64, 32, 72; 17 less to 55, 48, 48, 48; the four four-cycles to 97, 96, 92, 96; the across names to 88, the along to 82, the outward to 59, the inward to 209; one to nine to 100 and nine to seventeen to 363; each exact. The file's own *Next*, 7.7's crossings computed, is the one claim it says is not yet computed, and this session did not reach it. — v382F
 
 Exhibit ONE's *Bi and co, at the even and the odd* explaining (each side's prior, now and next; the ten; six consecutive changings) goes to Natural Naming and Natural Numbers; *A name at its number* (22 and the higher cycles; the spans 1 to 25 and 1 to 65; three full momentaries) goes to Natural Numbers and Natural Naming. (Re-Settling the Living Files, §5 table) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
@@ -119,3 +115,23 @@ L06: Resolving Hard Problems 3.1: nine is one at the next scale, eight the self,
 **Aimed at a sentence, Natural Numbers:** *loop* and *loops* at the file's own voice, 1 place, 2 sayings, line 361, *the places, each self at each parity, are one loop at an odd number of selves, each self passed twice, once at each parity, and two loops at an even, neither reaching the other*, the spiral's places said as loops. Six section titles carry *closes*, *ring* and *rings* at the numbers' own and pass, 3.3 *A rational winding closes, and a winding at φ closes at none* (197, contents 27), 3.4 *An adding at unit parities closes at one, two, three, four and six* (203, 28), 8.1 *An even ring carries its opposite, and an odd ring its two farthest* (424, 67), 9.3 *A ring's two stations share parity* (472, 77), 9.4 *A prime gap is a step between rings* (482, 78) and 9.5 *the ring pairs by value* (486, 79). Passed too: 102, 151, 227, 271 (×4), 277 (×2), 285 (×2), 309 (×3), 313, 351 (×2), 402, 414, 416, 426 to 434, 460 to 520, 566 (×2) and 1012 (×2), the numbers' podaling rings of nine, forty-eight, one hundred twenty and four hundred forty, the row's own closed ring; 199, 201, 205 and 213, the windings and the surfaces closing, the numbers' own; 404, the periodic table closes its noble gases, the field's words. 357 and 430 say the release already, *A ring names a domain closed and the numbers' podaling ring, and the resolver's coupling of selves along winds on*, *the running round it goes forward*. The one name Natural Naming 2.4 carries: *spiral*, the selves coupled along coming to their parities again and to a momentary once, *co-spiraling* for *looping*; the places are the parities coming again at four times the number of selves, said at 361 beside the word. — v381R scan
 
 **Aimed at a file, Natural Numbers:** *run*, *runs* and *running* at 42 places at the file's own voice, lines 100, 102 (4), 147, 199, 205, 241, 245 (2), 247, 255, 257, 265, 279, 281, 365, 382, 430, 434, 436 (2), 438, 446 (2), 464, 468 (2), 504, 508, 512, 518 (2), 528, 536 (2), 554 (2), 1012 (3); passed at 13 places where a stretch of numbers *runs*, 205 (2), 265, 285, 301, 325, 329, 371, 380, 446, 504, 508, 512, as in *the doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9* and *Sixteen gaps run between the seventeen primes*. The file says *a number is that form at one place in its running*, *Numbers are reached, used and related at their own running: momentaries, podalings and sequences*, *A counting adds a clock from outside the running*, *the running straddles them*, *-ing the running*. Natural Naming 2.4 carries it at *momentarying*: the numbers' own momentarying, podalings and sequences, said directly in numbers. — v381R scan
+
+## Departmental accountings and the proposed hundred-eighteen relation · v385A
+
+The numerical concern is the proposed hundred-eighteen departmental/element correspondence beside Natural Numbers' going and return with the turn at sixty. The older two-halves comparison and reported ratios remain in the whole droplet; numerical resemblance supplies no identification. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) remains available at its subject.
+
+## Overlapping public parity pairs and the living subject · v385A
+
+**Droplet.** The public pair positions still need their actual locating at the numbered odd/even places, including the other’s own one at the self’s two. Preserve that unresolved relation when improving the numbered explaining; a recurring number alone supplies no assignment.
+
+The full proposed relation, its sequential-colliding correction and its unresolved breaking concern are offered at [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#overlapping-public-parity-pairs-and-the-living-subject--v385a).
+
+## Sharing no factor and primes · v385A
+
+**Sharing no factor and primes.** Spirals of nine and twenty-five reportedly return together at 900 as three and five do at 60; nine and fifteen return sooner because of their shared factor. Across openings, a spiral of seven reportedly returns at four or twenty-eight and a spiral of nine at four, twelve or thirty-six. The concern is what operation specifically requires a prime rather than relatively prime sizes. A common return count alone does not establish the claimed natural scale.
+
+## Numerical matches and the actual relation between forms · v385A
+
+**Droplets.** Keep a numerical match distinct from the relation between forms on both sides. The incoming questions include 118 elements; twenty amino acids beside choosing three of six; a measured ratio near the reciprocal of the golden ratio squared; and a turn at sixty beside Chemistry's statement that no element position carries at sixty. The missing value is the complete relation identifying the actual observing and its form, not another repetition of matching numbers.
+
+The sixty comparison already has a particular position-or-between concern at [Natural Chemistry](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#the-element-count-and-the-turn-at-sixty--v385a). Keep the element count, amino-acid count, measured ratio and turn at their actual subjects; none is identified with another by its number alone.

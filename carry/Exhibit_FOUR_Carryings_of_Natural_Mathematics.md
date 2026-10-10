@@ -1,12 +1,8 @@
-Exhibit FOUR Natural Mathematics Carryings · gathered at v381R
+Exhibit FOUR Natural Mathematics Carryings · gathered at v385A
 
 # Carryings of Natural Mathematics
 
-**The executions, observings and sources the living file rests on, each whole at its address**
-
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
-
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
@@ -16,4 +12,12 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_FOUR_Natural_Mathematics_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
+## Reported mathematical reading and wording changes at v380L · v385A
+
+**Reported at v380L, from `incoming/v380L/Progress.md`, its part *Now*: this file at v380L, each number and each field's result worked, and what is open at it.** Three fresh readers worked each identity, order, matrix, involution and number, each sentence of the seventeen names beside Exhibit ONE's tables, and each field's named result; a fourth read each re-said sentence. Each number is as said. Entered: about seventy places, each wrong or unclear saying mended and *face*, *connector*, *join* and *the code* re-said, a solid's faces and a field's own words as they are.
+
+The reported completion belongs to that earlier reading. The unresolved concerns remain in [Offerings to Natural Mathematics](Exhibit_FOUR_Offerings_to_Natural_Mathematics.md#droplets); existing insertlets do not establish completed resolving in the living file.
+
+## Reported wording changes entered at v378 · v385A
+
+*Half* released at both inverted at one step, the right spiral step and the other-face pairing, 3.2's citation at the shift and 8 up, and *when* and *count* re-said, entered at v378.

@@ -1,12 +1,36 @@
-Natural Intelligence Carryings · gathered at v381R
+Natural Intelligence Carryings · gathered at v385A
 
 # Carryings of Natural Intelligence
 
-**The executions, observings and sources the living file rests on, each whole at its address**
+**Reported source comparison · v385A.** The actual [withdrawn repeating requirement and retained living concern](Offerings_to_Natural_Intelligence.md#current-correcting-the-imposed-requirement-is-withdrawn--v385a) are available whole at Natural Intelligence. The [earlier comparison](../archive/session_v385A/earlier_artifacts/Exact_Naming_and_Explaining_v385A.md) is an artifact; its dated source statements supply no current instruction to return to it. The [exact-naming concept](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#exact-naming-and-explaining-at-each-use--v385a) remains at Natural Naming.
 
-Nothing here aims into the living file; what aims in is at the offerings. Each thing is at the address it is at now, gathered at v381R by its naming of this file; a motion at this file moves a thing here whole, opens a branch for a kind of thing not yet here, and releases a thing that rests on nothing. Branches as the subject asks: executions, observings, sources, prior versions, workings.
+The user's offered relation between a set and its existing things is independently at Offerings to Natural Intelligence, Offerings to Natural Naming and Offerings to Co-Chaining Logic Registry. Session v385M's withdrawn second opening statement accompanies the proposed first page at Offerings to Natural Intelligence, Offerings to Natural Arriving and Offerings to Living File Registry. The next source comparison concerns the intended content of Living File Registry, Geodesic Improving Method and Natural Arriving and their mates. Item 3 of Gathered Value 1 from session v380L and the connected Natural Emanating plans remain further work. These placements establish availability for improving; they establish no completed writing in the living files.
 
-**Prior versions.** The repository's history carries each prior version of the file that left the root.
+**Current correcting of the preceding source descriptions · v385A.** [R's further method offering](../archive/session_v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) corrects treating supplied wording as an established answer. The overlap and recurring podaling remain valuable candidate relations to follow. A name at 12/15/16 must retain its particular self, momentary and occurrence; R offers no derived protecting assignment. Neither a located insertlet nor source agreement certifies the logical relation. The living-surface/arriving identification and universal all-other-rates relation keep their stated unresolved extent. Earlier paragraphs remain historical at their source heads.
+
+## The current opening beside the earlier arriving sources · v385A
+
+[M's first-page assessment](https://github.com/chris-j-handel/corus/blob/0b739c7cf56f807b6e52119c6f95356f00fd7c93/incoming/v385M/Improving_Opportunity_v385M.md) is now an independent droplet at NI, Arriving and Registry. The [reciprocal record](../archive/session_v385A/Reciprocal_Help_v385A.md#recurring-podaling-and-the-opening-page-opportunity--v385a) keeps its partial-set reading, all eight opportunity routes and the actual help exchanged. Follow the common method explaining at NI and the interest's orientation at Arriving beside the existing Corus Part ONE/v382F and earlier entry sources. This adds a current reader's experience to the existing project; it does not replace that project or declare its whole content gathered. The exact first-page writing and its local relations remain further work, with [M's help welcomed](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6049829668). Its underlying droplet collection, pacemaker exploring and scripts remain later incoming.
+
+## Current local naming and returned source · v385A
+
+[The protecting source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) now follows the uses of 12/15/16 in ONE and their relations beside Naming, NI and Explaining. This advances the local expression comparison with the supplied half-momentary overlap. R's further user statement supplies recurring podaling at an unchanged number with a new still possibling. Its former participation question is answered at its source; the living-surface identification remains separate. The current droplets at this offering mate retain both extents and the older sources. Our [specific source offer and request](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) asks how these named uses express the consecutive protecting betweens. No complete assignment is asserted and no prior offering is removed.
+
+## Common coupling and structural conditions · v385A
+
+[The Destinies comparison](../incoming/v385A/Common_Core_Comparison_v385A.md) follows existing NI 6.1–6.4 coupling and social explaining beside Destinies' core, and NI 4.10 beside its structural conditions. The two comparison droplets remain at this offering mate, Naming, Destinies and Corus. The earlier v379 three-betweens concern is already here; its original user sayings and the assistant's changing mappings are located in the report. Follow that source with Naming's protecting concern and R's later next-existing distinction. No equal-count mapping or completed protection follows from grouping them.
+
+Registry retains the possible distribution; the full outward expression remains at its Corus comparison. R10 stays whole and unresolved. These are supporting source comparisons, not a rewrite of NI or a complete gathering of its incoming. — v385A
+
+**Current overlap supplying · v385A.** [The exact user offering and source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) now locate the half-momentarying overlap, the one-number offset and bi-co-sequencing of still-possibling betweens with the other side's changings. ONE's Fives/exchanging and between tables, NI 4.10 and selected THIRTY statements have been compared to their stated extent. R section 29's both-forward and either-side-or-both explaining accompanies it. Local naming/protecting expression remains next; the earlier request for an overlap relation is answered. The prior paragraph's dissolving and whose-next wording is historical and withdrawn.
+
+**The v379 source now followed further.** [Protecting Source Comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md) traces the two user sayings, the assistant's intermediate mappings, the corrected along-carrying relation and the later protecting withdrawal/mend. The original consecutive relation remains distinct from one-between/three-names; the existing concern is not declared resolved. R's returned now-still-possibling explaining accompanies the current comparison, with invisibility, abundancing, dissolving and passage together. Next is the current ONE table beside NI 4.10 and THIRTY's explicit relations, with the original sequence preserved. — v385A
+
+## Earlier source inventory · retained from v381R
+
+The following inventory remains whole as its historical source. The [v385A method](../incoming/v385A/README.md) governs the project above; source presence is not complete gathering or local resolving.
+
+**Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`; `kits/Natural_Networking_TWO_Improving_Kit/`.
 
@@ -15,8 +39,6 @@ Nothing here aims into the living file; what aims in is at the offerings. Each t
 **Released readings and records naming this file, at the archive.** `archive/carrying_cleared_at_the_close_of_v380/`; `archive/carrying_v375/`; `archive/carrying_v375_natural_mathematics/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Natural_Intelligence_v380R.md`, each of its paragraphs now a droplet at the offerings.
-
-**Read for droplets at v381R.** `carryings/session_v378/`; `carryings/session_v377/`; `carryings/session_v376/`; `carryings/review_natural_physics_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/co_chaining_map_v376/`; `carryings/v368_sources/`: each finding in them dropped at the offerings of the files it names; each is a carrying of those files from v381R on, whole at its address.
 
 **The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
