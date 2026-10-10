@@ -26,3 +26,9 @@ The stated bounds, catalogue size and circulant threshold belong to that earlier
 
 - At [Mitochondria and plastids with genomes of their own](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own): Resolving at the row, and an observing of a free-living self arriving as a member, with its doing.
 - At [Cilia with the central pair absent](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent): Resolving at the sentence, the alga beside it.
+
+## The society of forty-one, and the step making it · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Possible project.** It may change or never be made. The society of forty-one members followed for the step making it, and the societies of forty-two for their asymmetry: a method claiming the fives names the step making forty-one and onward, and doubling is not it.

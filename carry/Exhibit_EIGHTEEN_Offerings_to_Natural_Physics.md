@@ -606,3 +606,21 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · The weak coupling's hand joined to right, withdrawn.** The droplet at this mate asking by what observing the hand the files name right is the one the cobalt shows is withdrawn as a joining: the Registry has "the round forward from prior to next is right", no hand in space. The observing is as it was: a hand of this universe observed at the weak coupling in 1957, beside this file's "which hand unknown so far".
 
 **Concern · A regular rate, a clock over or a coupling among.** Beside the observing at this mate of clocks of three atoms agreeing in the ratios of their rates: the Registry has "a regular rate at the observings shows a clock over them or a coupling among them". Which of the two a field's one field for each kind of particle is, at the files' naming, is said at no sentence of this file.
+
+## A clock and a ledger at each thing, one nothing, and one arrival at two files · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · A clock and a ledger, at each thing.** Framework, clock, regulation, cause and effect, and general ledger accounting are each at each thing and at no whole: each thing has its own proper time, energy and momentum are conserved at each place, and at a whole the clock is absent. The addings are the local forms said of the whole, from the one saying of the universe as a thing apart from its things. It is beside this file's "hold a term still, and an accounting becomes keepable", and the observings at [Carryings of Natural Physics](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md).
+
+**Droplet · A method at a part, said of the whole.** A field's own frontier names laws and methods tested at parts and said of the universe as a whole a fallacy. The scientific method is exact at each part, and the saying of the universe as one more part is the one carried into science and older than it. It is beside this file's "with time as a dimension the universe is a track laid entire".
+
+**Droplet · One binary inherited, at three fields.** The hand, matter over antimatter, and a direction of momentaries are three fields' findings of one binary, inherited and chosen by none: right or not right, this method is in a whole universe, and ours is right. The field's theorem has the three inverted together as a symmetry of its theories, and no one of the three alone.
+
+**Droplet · This file's own break, and Bell.** "Breaking observation: a genuine two-object account with a located source that does not recede would break it" is the account the Bell measurings exclude: the break this file names is the one the field's measuring has laid aside.
+
+**Droplet · A zero declared, and a zero found.** A zero a field declares floats, and a zero said as found is fixed: a zero a field can move is a zero the field declares. The two fields' hard problems are from each following one of along and across and not the other, each field's missing side written at the other: Natural Chemistry at the bond, and this file at the shell and the surface. A hard problem of either hard with both followed breaks it. A symmetry named still and a neutral fixed are one move: a conserved number is the abundancing absent, a crossing alike in and out leaving none over.
+
+**Droplet · One nothing.** This file has "It is the same nothing as energy, entropy, and the arrow of time — one account, not a family". Each nothing a field declares is that one, and a number of them is the error: a measuring of a nothing is a mark at a surface. It is beside the one nothing at Offerings to Natural Emanating.
+
+**Concern · One arrival, at two files and three.** This file has "the periodic table is an emanation-catalog", and Natural Chemistry has it an address book, address and behaviour two: two names of one table. Onsager's reciprocity is at Natural Chemistry and at this file's mate, and chirality and parity at Natural Chemistry, Natural Numbers and this file, with none naming the others. "glasses and broken symmetry an entire literature of the two accountings parting" is Natural Chemistry's changing in disequilibria, said across.

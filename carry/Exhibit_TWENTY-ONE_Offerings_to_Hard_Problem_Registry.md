@@ -99,3 +99,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 **Concern · A naming followed, and the recorded asking.** This file has "No entry carries a settled answer to the statement it holds, except where the record settles one and the entry says so.", and its entry 9, P versus NP, asks a proof at its own reach. Exhibit TWENTY-TWO Resolving the Hard Problem Registry at its 2.2 follows finding and checking as along and across. That following derives neither answer to this file's statement. A saying of fully resolved names which of the two it is of.
 
 **Droplet · The conditions prior, the registry's own account.** *The conditions prior* is this registry's own account of a field's testing, beside an opening of the fields' own words. A field's statement and procedure are attributed to the field, and a Natural Intelligence saying is named as one at its own place: neither is erased by the other carried.
+
+## Each arrival's own statement · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Each arrival's own.** Each arrival carries its own statement, variant, conserving relation, reach and address. The five conditions prior are this registry's own, and are no arrival's commitments. Prior, now and next are local, with no first momentary over all.

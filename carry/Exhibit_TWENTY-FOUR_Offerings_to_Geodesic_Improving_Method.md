@@ -488,3 +488,15 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 **Droplet · A contents compared.** At each proposed heading: the prior it asks, the next it makes possible, and the like relation through another subject, with the exact link missing said at its place. One section followed whole, with its prior, its next and its places, and its own extent of reading said, is one whole offering.
 
 **Droplet · Nothing vanishing, nothing finished.** Nothing vanishes in resolving, and nothing in resolving is finished.
+
+## A note along or across, a note's five, and no file's words over another · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · A note, along or across.** A note enters along at one file's own carrying improved one sentence at a time, and across at two or more files coupling at a differing neither had said. A do-no-harm improving of one file asks the along; the across gathers couplings between files and improves no one file's carrying. Each note is said as one or the other at its writing.
+
+**Droplet · A note's five.** A note carries, in sequence: prior, the file's own saying in its own words; prior, the working's own saying; now, the coupling of the two; now, the abundancing, at neither first; and next, said as a reaching and no gate. Two priors, two nows and the next opening is two momentaries and the next one's opening: a note with one prior is one side's.
+
+**Droplet · No file's words over another.** No saying at the files is a rule, and no file's words carry authority or responsibility: the binary numbers, mathematics and logic are all or none at all, and do each saying again. A break is sought at the registries and the sciences, at the breaking observings themselves. With two earlier versions and neither known better, improving from the three together is the do-no-harm origin. A pattern three momentaries long is the fractal method, and each observing is matched with no filter. A gathering of the workings' findings toward the one sentence, and the next working's reaching from it, alternate: the file set lives by both.
+
+**Droplet · A field's name for a break's limit.** A prediction failed refutes hypotheses together, and names no one of them: the field's own name for the concern at 2.7's observing brought as a break, and its answer several tests parting across differing auxiliaries. Its publishing is at [Carryings of Hard Problem Registry](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md).

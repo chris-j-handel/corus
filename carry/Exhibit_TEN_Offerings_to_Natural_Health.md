@@ -99,3 +99,19 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Droplet · A paragraph at the front, and a caution beside a sentence, released.** The droplets at this mate of one plain paragraph at the file's front and of each caution beside its sentence are released, with their reason at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#a-harm-no-kind-of-concern-the-droplets-it-releases-and-three-sentences-with-a-doer-first--v386eod).
+
+## Ingesting and ingressing, a measure made a target, and one chain at four files · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Ingesting and ingressing.** Ingesting, both ways, is the two sides; ingressing, one way, is one side alone: the Equilibria Registry's excluding is at this file whole, with its own asking, "The membrane between them is rate-and-return: whether the smaller sets the pace and answers back". An overwhelming one way with the smaller pacing and answering breaks it.
+
+**Droplet · The ninth, the sixth and the third.** At "the self carries the ninth and takes the sixth and the third at its membrane": no desaturase goes past the ninth position from the working end, and a thing arriving from a scale inward carries a competency the ingesting scale cannot make, the field's word for it *essential*. A desaturase past the ninth position, or a self making the third or the sixth, breaks it.
+
+**Droplet · A measure made a target, at four files.** "ceases to be a good measure" is at Natural Physics, Natural Chemistry and Natural Medicine at their own subjects, and at this file's 2.2 at a living self.
+
+**Droplet · Two theorems, three files, one form.** This file's 4.2 has "fluctuation and dissipation are one function", and Natural Chemistry has "Onsager reciprocity, `L_ij = L_ji`": a swaying of itself and an answering to a disturbing as one measuring twice, and the two-wayness as a theorem, with no file naming the other's.
+
+**Droplet · One chain, at four files.** "the value co-released (chemistry's face) and re-locked into the self (biology's face)": Natural Chemistry co-releases, Natural Biology re-locks, this file lives it and Natural Medicine restores it, with this file alone naming the chain.
+
+**Concern · A third arriving of a carry.** This file's 4.1 has two arrivings of a carry, sequenced and fresh, or stilled. Natural Medicine has a third, fresh by copying and never sequenced. It leans on the older bound, the concern at this mate.

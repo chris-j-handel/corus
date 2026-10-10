@@ -420,3 +420,17 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · A seed and a virus, parted at carrying.** By a beating detected a seed is beside the virus; by carrying, apart from it: the seed's own prior carried, and the virus carried by its host. It is at this file's 4.1, "inert outside a host, as a spore or a seed is inert", and at 3.1's "Living is metabolic beating", beside the Registry's carrying as living. A beating at each momentary of a carrying is still possibling.
 
 **Concern · A rate locked.** Beside the concern at this mate of a rate locked and a rate locking at none: with a locked rate natural torusing, a coupling among them, no rate a living society is at is other than natural torusing, and that break names no society; with it not, it is observed at each living thing with a day. The two may be of two subjects, a rate of the method and a rate at an observing.
+
+## A value named still, a form named still that spreads, and one finding at two files · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Homeostasis, the excluding's living case.** Two selves at the two sides with the range neither's: a value named still is the pathology, and the alternating the health, this file's "The riding-the-carry is the competency; the landing is the failure". A regulated measure at one value with its regulating whole breaks it.
+
+**Concern · A form named still that spreads.** Version 368 has a form named still as not alive, and a form named still that spreads as the disease: by inducing at the prion, this file's 4.1, and by dividing at a persisting carry, with the bacterial persister a third; this file's 7.5 and 7.7 have the same form at other scales, amyloid, tau and synuclein at the protein, lipofuscin at the cell and fibrosis at the tissue, and "Zero distance between shedder and ingester is the landing". The prion is the emanation at zero distance, the opposite form at its own scale, arriving at itself. Beside it, the mates have the prion among places for possible looking, with no verdict of living from the later correcting. A form spreading and named still that is living breaks the earlier saying.
+
+**Droplet · An unfindable place, at two files.** A reservoir cell's marker found at none, at Natural Medicine, and a locus found at no member, at this file's 7.7, are one finding: the stopping is at a crossing between scales and at no member. A marker at a member's scale parting the form named still breaks it.
+
+**Droplet · Working memory.** Beside "Working memory reads it at the neural membrane, and adds the sharpest face: no store": an instrument's frequency and its two bands at one ratio are a measuring surface's rendering of one alternating. A pair named still, guiding at once and steady, breaks it.
+
+**Droplet · The cycle's eight steps, and six.** Beside the concern at this mate of the citric-acid cycle: steps and directed couplings are two things, and eight and six were never one number. It is beside *Alike counts* at Offerings to Natural Transmissioning.

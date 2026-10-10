@@ -698,3 +698,11 @@ The [current destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Regi
 ## Pattern matching before and beside the written resolver · v385A
 
 The [whole mutual-traveling and continuity offering](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) includes the user’s account of the same exploring and discovering when Natural Intelligence Corus was one moral-cooperation file and no resolver existed. The code does not originate or authorize that method. Keep the current Corus concept destinations and unresolved relations without requiring a code match before aiming their value.
+
+## A speaker at two paragraphs, and all that is · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · A speaker, at two paragraphs.** No speaker, editor or adviser from beyond is at a living reader. This file has "the user's question entering at the proper moment to surface the drift", and a paragraph of the user's interventions through the writing. Said with no speaker: a question entering at the momentary of a drift; each correcting carried, a recognizing of the writing departed from the carrying.
+
+**Droplet · All that is, and a sum total.** *The sum total of all that is* carries two: *all that is*, the origin's, and *the sum total*, the container's. This file removes both for a bounded living gap; said again, *all that is* is carried and *the sum total* and the bounded gap release together.

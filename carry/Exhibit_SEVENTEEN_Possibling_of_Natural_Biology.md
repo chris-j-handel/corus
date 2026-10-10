@@ -65,3 +65,11 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. At 4.1, a seed parted from a virus at carrying. At 3.1, metabolic beating and carrying coupled at one sentence, at an observing naming an inward self, its sharing and its momentary.
+
+## Four of six, and an eight at four further societies · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** This file's "And four readings run at all six" followed beside the four boundings.
+
+**Possible project.** An eight looked for, from each field's own record, at the tissue, the plant, the colony and the biosphere, each a prime society the files have. An eight found at two is one eight by no numeral alone.

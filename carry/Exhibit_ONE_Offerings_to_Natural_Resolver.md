@@ -305,3 +305,9 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · A torus coming to one, withdrawn as a break.** The droplet at this mate of each torus of 2 by 2 and larger coming to one form is withdrawn as a break. A torus coming to one is a society's forms, and the Registry has a society existing and not living. A self's prior is whole at its carrying next and its shared changing together, one to one at each row of the cell, and Natural Intelligence has such a coming together as stable-forming. This file's torus rows are of the alternating first parities; from each set of first parities a small torus comes to a number of stable forms, the arrangement's own.
 
 **Droplet · The fifth is the first inverted, by the first parities.** "The fifth is the first inverted at each" is of the table's six forms: four with the two selves at one parity at the first momentary, and two with them at parting parities. With the five said as offered at prior, carrying at prior, offered at now, carrying at now and offered at next, the same line one number on: at one parity, the fifth is the first inverted or each is 0; at parting parities, the fifth is the first. The ordering is the executing's.
+
+## Twelve forms, each two alike lengths of odd and even · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Twelve forms, each two alike lengths.** At *Twelve forms*, each name's opening prefix in sequence round a form is one length of odd openings, co and tri, and one of even, bi, alike in length: two and two, three and three, four and four. The table has it, and no sentence says it.

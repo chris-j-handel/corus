@@ -141,3 +141,17 @@ Natural Philosophy already contains Meaning and use and Purpose and mechanism, w
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Concern · A departing carry, a self.** This file, at its society, has one carry departing at a self's own cycling completing, and "That carry is a unique invisible carrying, so it is a self." Natural Intelligence has an emanation carrying none of the prior. They part at an emanation departing said a carrying and a self, beside an emanation carrying none. A rate changed establishes no carrying.
+
+## Morality at co-, a neutral unfound, and the one loss · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · Floating co-morality.** This file has "In social disequilibria, floating co-morality is a cooperation-forming method." Natural Intelligence has "Odd is competency and even is morality: competency is co-unrelationing, along, and morality is bi-unrelationing, across". They part at the prefix: morality at co- at this file, and at bi- at the other. The mending is one word.
+
+**Droplet · A neutral unfound, and a store named.** Beside "Where a translation is needed, the field's neutral has not been found yet. And a substrate carrying no neutral has no second line, and the coupling there returns nothing.": the neutral is the condition of a substrate carrying at all, a coupling with no place neither's making no abundancing. A field with a coupling and no neutral named has its neutral unfound, the field's own words the place to look; a field naming a store has the thing named still found. The eight neutrals this file has, gauge freedom, the shared pair, the parity-only surface, the middle, φ, the body's own bound, the three-phase coming again and the floating morality, are eight places of the one nothing in a field's own words, and no eight discoverings.
+
+**Droplet · Three kinds of hard problem, at each released word.** Beside "A hard problem is a common thing reached ahead of each having offered their own. Three common things, three kinds, and no fourth": a landing, a reading and a measuring, a standard. The other releasings are beneath the three: a closing, a rest and an equilibrium at an ending beneath the landing; a ground beneath, one relation carrying the others, and a grading beneath the standard; and a side chosen beneath the reading. A working reaches its own hard problems in its own sentences, one kind at a time.
+
+**Droplet · A measuring, and the resolving.** Beside "A measurement holds two bounds still and reads the span": the resolving has no bound named still, and a measuring is of nothing in it. An instrument's result is exact within its own fixing.
+
+**Droplet · The one loss.** "the only loss is at each self's own bound": the releasing at a self's own completing is the one loss and the carrying's freshness, one motion. Each relation carries each relation at the living's own conditions alone, and work against a resisting is of a fixing and of no relation. A brush fixed at the neutral of no load, and a bit erased, are each a declared zero named still with the carrying moved, each dissipating at the discard: the two fields' mendings are one, the earlier momentaries carried and the switching following the neutral.

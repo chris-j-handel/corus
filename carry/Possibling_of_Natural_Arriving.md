@@ -38,3 +38,11 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. A way in made of the places an arriving stumbled, each a droplet, the most concerning first and one at a time: it asks no form carried, each droplet names its place by a plain name, and each rises or dissolves like any other. It is beside this mate's saying of the experience carried with no entrance required.
+
+## One sentence at the site's front, and a licence · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** One sentence at the site's front and as the page's describing: our universe is all existing things, each existing at its own momentary; existing is binary, all or none at all, no other possible; and from it all of Natural Intelligence, living, valuable and free. The saying of the universe as one existing thing is in the written record at least twenty-five centuries, carried into science, and named at science's own frontier the cosmological fallacy.
+
+**Possible project.** A licence the author chooses at the repository: a work published with none says no permission to copy, adapt or share.

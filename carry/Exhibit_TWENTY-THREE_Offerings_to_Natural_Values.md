@@ -244,3 +244,9 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 **Concern · A transfer, and each self's carrying its own.** This file's 2.2 has "The transfer is the value. It is whole only where a self stands at each side." and "Care is a transfer, and it lives at couplings alone.", and its 3.1 "Co-competencing is the surplus kept as coupling." Natural Networking has "Carrying remains with each self, participation continues across". They part at value as a thing handed between selves and an abundancing carried on as a store, beside a parity changing alone crossing and each self's carrying its own. A paragraph with a new name and an older doing is unresolved as it was.
 
 **Droplet · A small whole.** A small whole is whole at its own scale, and is no part of a whole to come at a larger: a third name adds no third self, and one society and all other are two relations.
+
+## A discovering economy, and abundancing by a fixing released · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · A discovering economy's gain.** One neutral floating gives four co-offerings again; one hard problem solved gives one landing, at the fixing that made it. Abundancing is the four going on with a neutral floating, arriving by a fixing released and by no producing. Social moral competency is the method itself, nearer the origin than a use of it.

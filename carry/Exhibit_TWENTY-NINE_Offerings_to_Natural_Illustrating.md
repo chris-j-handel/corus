@@ -95,3 +95,17 @@ These are descriptions of possible expressions. The word “painting” establis
 ## Handed forms and the operation shown · v385A
 
 **Droplet.** Any use of the [handed-form comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#handed-living-resolving-and-its-stable-emanations--v385a) in an illustration needs the actual operation to remain apparent: turning the whole form, looking from another side or reflecting spatially. An image's apparent left or right must not be made an independent demonstration of living resolving or colliding. The offered cone-spiral connection remains a question; no artwork or new correspondence is originated here.
+
+## A moving form's rule from the older resolver, one diamond at two sides, and a reach and a gather · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · A moving form's rule, from the older resolver.** The possible animation at this mate's possibling has its motion as the resolver's own: each diamond's carrying opening by one, releasing at three, and at four at the torus. Exhibit ONE Natural Resolver now has three functions and no carrying numbered to three; this file has "while Exhibit ONE at four winds past, the torus" still. A rule of any other motion as drawing and no resolving names the earlier resolver. The six names 2, 6, 9, 10, 14 and 17 are at Exhibit ONE now.
+
+**Droplet · Three rules of a moving form.** The six connectors alone are drawn, each frame the parities at 2, 6, 9, 10, 14 and 17 and their forms, and no inward position. The order of the selves and the record are said at the form's head: a frame at each momentary is a shared stepping, said, and the picture carries no clock the couplings did not make. The form opens from the numbers given and no drawing again: a difference between the animation and the image is a finding of the motion.
+
+**Concern · Six diamonds, one diamond at two sides.** Version 368 has the six nine-dot diamonds as one diamond at two sides of one right-spiral surface, three centres giving three pairings at two sides, the same six as the protecting's. Natural Numbers has "Each six is at its own subject." They part at the six shared.
+
+**Droplet · A diamond, tangent at three.** Each outer diamond is along its own two sets of rings and across the third, into and out of the flowing circles at a tangent, the parity right and not right of it a sine and a cosine alternating across. Each of the three pairs has one reach and one gather, the reach from beyond the third rings and the gather from within them, twenty-three and twenty-five at the vertical pair: three asymmetries, one at three. Each diamond is the arcs opening forward at one cross part, the sine the reach and the cosine the width.
+
+**Concern · A prefix sequence of six.** This file has "the proposed prefix sequence includes bi-co through bi-co-bi-co-bi-co", six long and opening even, beside the five prefixes co-bi-co-bi-co at an odd origin.

@@ -141,3 +141,11 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · Three fixings, from one root.** This file names three fixings at the first line: "Particle zero: an unquestioned absolute location, a point placed, not a physical particle", "A unit installed: scale made undiscussable", and "A frame given". The Equilibria Registry has their root, "The universe as one thing beside its things is exclusivity". No sentence joins the root to the three. One joining: a whole at one now has each thing at a place, a size and a facing said once for the whole, the three fixings, as it has a number of things, none and one more than itself.
 
 **Concern · A set an existing thing, of each set.** The Registry's step 2 has a set an existing thing. Of the universe the opening sentence may be said that way; of each set it says nothing. With each set of existing things an existing thing, a set of two is a thing at four forms, and the things that are no members of themselves are asked of. It is beside this mate's asking for the existing relation by which a gathering is an existing set.
+
+## A parity unchanged under doubling, and commuting's end at four pairings · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · A parity unchanged, heading for the one fixed place.** Beside "On the circle, doubling an angle taken as a fraction of the round shifts its binary digits one place, each doubling reading the next digit": a tangent's parity unchanged at each doubling is each digit alike, and the one such angle is the fixed place. Across the 440 crossings out and again, a parity going on unchanged heads for 9, the station nought and nine share, and the parity changing is each next digit.
+
+**Droplet · Commuting's end, at four pairings.** Beside "Each doubling sheds one: ordering at two, commuting at four, with i j = k and j i = −k, associating at eight": one, two, four and eight are the chain's numbers of pairings, and four pairings is the nine. Beneath the nine two steps round commute and leave none over; at the nine they commute no longer, and the abundancing neither step's arrives.

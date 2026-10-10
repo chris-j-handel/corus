@@ -24,3 +24,11 @@ Passes to run: run ramsey_societies_v365.py --search at any change, and carry it
 Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. This file's common explaining of the method, at its 1.1 to 1.4, 2.2 to 2.5, 3.4, 4.5, 5.1, 5.2, 6.1, 7.1 and 7.2, located beside the common explaining proposed at Exhibit SIX Natural Transmissioning, with this file's own carried at it: the list is at [Possibling of Natural Transmissioning](Exhibit_SIX_Possibling_of_Natural_Transmissioning.md#the-proposals-own-working-its-contents-beside-the-others-seven-doings-and-each-subjects-own--v386eod). A deriving of the common method and a deriving of a mathematical relation of this file's own are parted first.
+
+## The doing of the 440, and a mathematics of few commitments · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** The doing the 440 crossings out and again are of, said, that heading for 9 is followed at it.
+
+**Possible project.** Momentarying sustaining place, size and surface: a mathematics of few commitments followed for bi-inversioning-co-recursioning and competency said in it.

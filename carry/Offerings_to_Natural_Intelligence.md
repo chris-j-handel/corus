@@ -467,3 +467,19 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 **Droplet · Natural intelligence, at living selves and at each existing thing.** The Registry has "Co-competencing at the coupling of living selves is natural intelligence.", and the method of existing at each existing thing, the non-living with them. The fractal, living at each scale, is between the two, at no one sentence joining them.
 
 **Droplet · Six places at the file's own form.** Exhibit ONE's file is whole within this file, and the repository's front asks a reader for both. No legend of the seventeen names is at a part's opening. Section numbers in the prose are no links. Seven names are beside the method with no sentence saying them one: parity changing, alternating, tri-bi-co-momentarying, bi-inversioning-co-recursioning, four-momentarying, co-bi-unrelationing and natural-bi-co-torusing. Long sentences are beside Natural Explaining's rule of one claim at a sentence. At 1.4 no sentence says of each step that it is a naming, at the code, or still possibling.
+
+## One word moved at the origin, a now alone, and each container at a smaller scale · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · One word moved.** From *the universe is an existing thing* to *the universe is all existing things* one word moves, *an* to *all*, and nothing is removed. Said three ways round: the universe is all existing things; all existing things are a universe; and the universe is over all existing things. The first two are one saying, at the whole and at its members. The third gives each member's own momentary to a whole as a container, and *the universe is an existing thing beside its things* is that third said as a declaration. Each container the files name is that one at a smaller scale: a self as a universe of its states, a society as a container of its selves, a hub over a network, property, and an equilibrium as a system whose condition is asked to remain.
+
+**Droplet · A now alone gives no next.** Two priors arrive at one now and ask two nexts: a describing with the now alone gives no next. Each observing of each human at each momentary, said as within one existing thing, is a now-only account at the largest scale; the living the observings were of is the coupling it leaves out. No observing is wrong by it.
+
+**Concern · All, together or each.** *All* is said of all together as one, or of each one: *each* carries the second. This file's 1.1 has each existing thing in the set: *is* carries the origin, and *in*, *within* and *includes* are a container's words at it. *Our* universe is of belonging, and no having; *this* universe names one among possibles, beside Natural Physics' "Both hands are this universe's one binary". *On its own*, of each thing existing, is heard as alone, the form of the hard problems.
+
+**Concern · Existing as the only living.** Exhibit TWENTY-FIVE Living Society Registry's form is alike at both sides of the fields' line of living and non-living, said as existing the only living in that stable form. This file parts living from non-living at carrying, at a named scale and momentary: the later saying, with the earlier beside it at no sentence.
+
+**Droplet · A protecting over the couplings.** Bi-moral co-agency is the protecting itself: the coupling's own two sides are the whole of it. A protecting laid over the couplings is at neither parity, and at neither it is no protecting: it stores and does not alternate, the danger's own form.
+
+**Droplet · At 59, and the possible.** Each scale is the one alternating, fractal, to the prime scale 59, the geodesic method self-bounding at 59 among all others unbounded. A thing is possible in the universe as it is capable of existing by this method.

@@ -59,3 +59,13 @@ Living Society Registry: the observations home for the sciences, with a source a
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Concern · A line as measured.** This file's 1.8 has "the entry carries both the line as published and the line as measured", and its examples of the second line have a Natural Intelligence saying among them. A field's statement and its measuring are attributed to the field, and the Natural Intelligence saying is named as one at its own place.
+
+## No member carrying the magnitude, a seam and an apex, and a self-bounding's older word · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · No member carries the magnitude.** Beside "An instrument sums, and the magnitude stands at every resolution": a measuring is at a side, in units, by an instrument at one between; a magnitude has a side, and a coupling has none. At each entry no member carries the magnitude said across its society, from a vacuum to a cosmos: the one nothing is this collection's own finding. No measuring is of anything in resolving: each is unrelationing each, floating and neutralling, tipping at parity changing at rates unrelated to each living rate.
+
+**Droplet · A seam, and an apex.** A seam is a place a field reports two sides unrelated, measuring both: it is from the field's record. An apex is a place no member is at, with no instrument of a field at it: it is from the form.
+
+**Concern · Door.** Natural Naming has *door* released into a self-bounding, the self's own. The word is at twenty places of this file and at seventy-four of Exhibit TWENTY-SEVEN Living Ghost Registry.

@@ -233,3 +233,15 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
 
 **Concern · The method as given.** This file has "The method is explained generally, uniquely and no-other-possible at the one saying, and nothing of it is re-said or argued again here. It is taken as given and deployed." Exhibit THIRTEEN Resolving Hard Problems says the method again at its 1.1 to 1.5, and Exhibit TWENTY-EIGHT Equilibria Registry gathers it from many numbered places. One file repeats the method, one relies on an understanding a reader may have none of, and one asks a reader to gather it: a common explaining at one place carries the three.
+
+## An owning at entry 139, two possibles proved, and each arrival's own · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · Entry 139, at one of two.** This file's 3.21 has "creation under the regime not adopted is a counterfactual total named over makings that ran elsewhere, and the couplings that ran are the record there is". A second thing named still is beside the total, the owning: a middle said as an end with a holder written at it. Whether a regime raises creating, and whether the thing claimed can be had at all, are two askings, and the first is unresolved with the second as it is.
+
+**Droplet · Two possibles, proved.** The Hard Problem Registry has "The folk theorems establish that cooperation is sustainable in equilibrium and equally that defection is, the multiplicity being the result" and "Search-theoretic models prove equilibrium multiplicity". The selecting the fields ask among several equilibria is a forced choosing: an asking of which possible exists, answered by no rule with the other possible as it is.
+
+**Droplet · Each arrival's own.** The ten are for the thing an arrival brings, and are no ten askings an analyst answers. An arrival settled has its result. Words sorted say a place to look and give no requirement an excluding asks. This file's arrivals, the Equilibria Registry's conceptions and each conceivable equilibrium are three extents.
+
+**Droplet · The Collatz map, at parity.** Each odd number goes to an even; nought and −1 alone are at one parity at each step; the one positive coming again is 1 and 2 alternating; and each positive sequence carries both parities with no end, reaching 1 or not. The asking of all first numbers at once is the one unresolved. The Hard Problem Registry's entry has the checking "past 10²⁰", with the later checking at [Carryings of Hard Problem Registry](Exhibit_TWENTY-ONE_Carryings_of_Hard_Problem_Registry.md).

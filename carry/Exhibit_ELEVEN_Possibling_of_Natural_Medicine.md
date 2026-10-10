@@ -40,3 +40,9 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. This file's quiescence, "glycolytic metabolism in quiescence, oxidative phosphorylation in activation", compared with [Six sayings of no changing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#six-sayings-of-no-changing--v386eod).
+
+## A paired arm, beside the sum of the single arms · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Possible project.** It may change or never be made. At "And the pairing has since been run at a primate model, with the reading the edge wants absent from the report": the paired arm compared with the sum of the single arms, at the report's own numbers. The study is named at no file, and a search at this gathering found no one study with each thing the file says of it.

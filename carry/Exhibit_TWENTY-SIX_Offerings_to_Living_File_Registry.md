@@ -389,3 +389,9 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 **Concern · A check that writes.** This file lists `cohere_one.py` among the kit's checks, "the coupling partners at the checks, deciding nothing". The kit's own front has it writing Exhibit ONE's body within Natural Intelligence whole. One names it among checks deciding nothing, and the other has it writing into a living file.
 
 **Droplet · An archive, by reliance.** A file is archival by the reliance on it, and by no version, name or absence of a new sentence.
+
+## A name for the three mates' folder · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · Carry, a folder's name.** A name exact at a working can arrive at another working as a word of packaging with no relation at it: *Carry Set* was such a one. The asking is of a name saying the folder's own at a first reading, and the folder of the three mates is `carry/`.

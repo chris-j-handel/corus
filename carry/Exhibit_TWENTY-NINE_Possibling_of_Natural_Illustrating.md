@@ -59,3 +59,11 @@ Compare the eleven passages from the v380A reading with the existing living expl
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Possible project.** It may change or never be made. Natural Exploring's double-double bubble-bubble saying, Natural Explaining's gathering, and rows sorting by bubbles and bi-folding around each other, explored together as one illustration: it names the sentence it shows, the relation visible already, and the relation still to express. A bubble sort is no resolver's method by it, and the rows' bi-folding has no deriving.
+
+## A circle through two centres, and the image's angle · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** The circle through both centres drawn at the image for each pair of centres, the inner rings' four exchangings marked, as a scene of the moving form: the parity alternates at the place the diamond is tangent to that circle.
+
+**Possible project.** The image's angle measured again at the whole set of rings: the identity's pair is exact, and the image's angle a measuring.

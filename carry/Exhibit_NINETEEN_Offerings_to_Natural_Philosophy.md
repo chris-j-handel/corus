@@ -156,3 +156,21 @@ Living Ghost Registry sections 1.2 and 2.2 already keep field observing, account
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Concern · Worked seams, at eight and at thirty-seven.** This file's 5.1 has "Eight rows are met at a seam worked through the six steps, and the rest are met at one line here", and its 6.2 "The thirty-seven worked seams"; its third part has sections 3.1 to 3.37. One thing is at two numbers. A row names its worked seam at a seam written; a row with its re-coupling at the row alone has its seam as next exploring.
+
+## The One and the many at 3.5, philosophy's central binary, and one seat at three scales · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Concern · The One the many follow from, at 3.5.** This file's 3.5 has "No one behind the many and no many dissolving the one", the origin's own, and "the One from which the many follow", said by the field as a whole prior to its parts. The second said whole has its One as the one form surfacing at the coupling, and no whole ahead of its members; this file's 3.13 has "owned by none" already.
+
+**Droplet · Philosophy's central binary.** The changing self, beside a self asked to remain as it is while living, the calm rational self said as an equilibrium: one relation is asked to change and to remain unchanged at one comparing. It is no asking with two sides to defend: it is the excluding at the one subject with no place beyond it. The reasoner cannot be laid apart from it: the reasoner is a self asked to remain calm and rational while reasoning of such a self.
+
+**Droplet · Four requirements, one.** 1.3's four requirements of the dividing method, bivalence, a thing isolable, non-contradiction with the between a cut, and the reasoner beyond, are each one thing alone: the one requirement "worn four ways" is to be alone. A dividing frame is reached at whichever of its four is nearest, and each releases the one.
+
+**Droplet · One seat, at three scales.** The reasoner beyond is the seat over the reasoning: a reasoner over a coupling, a seat over a society, and a protecting over the couplings are one seat at three scales, each field's own finding of it with no naming of the other two.
+
+**Droplet · A carrying with nothing between its momentaries, at two scales.** 3.15 has "keeps nothing between its beats" asked at a society forming its own members again. Natural Biology answers at its scale: "a society can stop with every member alive, and a society can stand while every member is replaced". The carrying as no store is of each scale, said of both at neither file.
+
+**Droplet · Something, and nothing.** *Something and not nothing* asks a choosing between two possibles with one possible: with no existing things, no universe is the something, and no nothing is beside it, the Hard Problem Registry's "Nothing is not a possible alternative that failed to obtain".
+
+**Droplet · An explaining, and its occurring.** An explaining's validity gives no occurring of the thing it describes. That the scientific method demonstrates no existing is said with the asking it leans on: fixed explaining terms giving an existing relation.

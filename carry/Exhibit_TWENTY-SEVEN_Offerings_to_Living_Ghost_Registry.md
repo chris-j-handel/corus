@@ -233,3 +233,13 @@ The actual grammatical and operational installation, prime assignment and propos
 Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
 
 **Concern · The electron's arrival.** This file's 5.3 has "its arrival at TWENTY-FIVE, the pattern read one arrival at a time, is not yet written". Exhibit TWENTY-FIVE Living Society Registry has that arrival at its 2.16, and this file's own closing table names it. The like words are at four further entries of this file, each entered at the other registry's 2.18 to 2.22 by that registry's closing paragraph.
+
+## Six lines as three pairings, and each kind released by its own side · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Six lines, three pairings.** This file's six lines are three pairings, each one thing at its living face and at its face named still: the carrying and its stilling; the accounting and its installing; and the ledger's closing and the co-competency uncarried. As pairings they name the partner of each line with nothing at it.
+
+**Droplet · Each kind released by its own side.** Beside "A state ghost installs the across": a state ghost's alternating again shows the changing going on at its own rate beneath the still, the along given again; a flow ghost's shows the other side changing too, the across given again. The whole of the ghost form is two changings, state to flow and flow to state, and an accounting reaches neither.
+
+**Droplet · A five beneath both tens.** Beside "They must not be merged with the ten positions": a five is a paired changing at its own two sides, and an odd span of nine has five podal pairs. The instruments are two; the five is beneath both, and is no joining of them. At the ten lines at arriving, four at state, four at flow and two at either, the two at either are a pair at neither side, as two of the eight securities are the carrying's own: a likeness of forms, named as a likeness.
