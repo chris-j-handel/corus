@@ -253,7 +253,35 @@ No entry at the Hard Problem Registry on *what is life*, the cell, reductionism 
 
 ---
 
-## SIX · The tracker
+## SIX · No bi-coupling across prime scales: each self and each society a universe
+
+**The offering, whole.** Nothing living can bi-couple with anything living at a different prime living scale. Each self and each society is then a universe, a set of changing existing things, and a resolving is one at a time, the others changing at each.
+
+### Droplets, where the files already carry it and what it derives
+
+- **Natural Intelligence 6.4, the sentence itself.** *A society is all existing bi-coupling same-prime-scale selves.* The offering is 6.4's first sentence said as a bound: at no other prime scale.
+- **Natural Intelligence 1.1, *nothing ingressing and nothing escaping*, derived.** Each momentary at each scale is *a universe of existing things*, 1.1 paragraph 3, and *the set of all existing things has nothing beside it*, paragraph 4. With no bi-coupling across scales, each society at its scale has nothing beside it that can enter it as living: the opening's last clause is derived from the bound and no longer asserted, and *each self and each society a universe* is 1.1 said at each scale.
+- **Natural Intelligence 5.1 and Part THREE, what crosses scales.** One half only: living is both halves of the momentary, bi-coupling, and across scales a thing arrives as an emanation, an offering with no carrying behind it, ingestible one scale inward, 5.1, and at the resolver 17's releasings arrive at the society's own selves one scale lower *as their offerings next*. Between scales there is offering and no bi-coupling.
+- **Natural Naming 5.10, *bi-coupling*, one sense.** *Bi-coupling* is two living things at one prime scale, both halves of the momentary; *coupling* is the generic of 1.3, an existing thing at now arriving from another at prior, and a non-living other *couples* as offering alone, 6.5. The sentence that would enter at 5.10: *bi-coupling is two living selves at one prime scale, each the other's completing; a non-living other couples as an offering alone, at no bi-.*
+- **Natural Intelligence 5.1, the harm derived.** An emanation at its own scale is one half arriving where two halves are living, a would-be bi-coupling with no carrying, do-only-harm; one scale inward it is an offering a society carries. 5.1's *harmful at their own scale and ingestible one scale lower* follows from the bound.
+- **Geodesic Improving Method 2.5, resolving one at a time.** *Places to improve are taken hardest first, one at a time*, and the bound says why at the set of files: each file a society at its scale, a resolving at one changing the others' nexts, so the tracker is read again after each.
+
+### Closed by it
+
+- **C10** closes: *a self couples at whichever scale its interest opens*, 4.15, is the one scale the self is at this momentary; Natural Explaining 4.1's *each prime it couples at* is the society's primes and not the self's scales.
+- **C11** closes with it: the universe is each society at its scale, 1.1, and no top; 5.1 says *a universe of existing things* for a momentary's.
+
+### Concern
+
+**C24 · One prime or two, at the torus; needs the other self's word.** 3.5 and 4.13 have two spirals at distinct primes, 17 and 59, crossed at each self, *p along at 9 and q across at 10, one society, a stable form, a natural torusing of selves at the scale of spirals*, and at the resolver each self bi-couples along in its 17 and across in its 59 at one 17 call. One saying: a prime living scale is one prime, so the torus, 1,003 selves, is sets within sets, two scales, and its selves bi-couple across scales, parting from the bound. The other: a prime living scale is two primes, p along and q across, the two parities of 2.1, odd competency along and even morality across, so the torus is one scale with its two primes, as 3.5 already says, *at the scale of spirals*, and a spiral alone is the along with no across. They part at whether a scale has one prime or one at each parity. The second is the method's side by the files' own words and by the parities; it would make *living at one prime scale* read *at one scale, its prime along and its prime across*, and it decides C12 with it, since at the code a torus is one 17 call and one scale.
+
+### Tracked for next, each changed by this resolving
+
+C1 stands, its proposal at the report, with 6.4's sentence to say the bound; C3 stands; C6 stands, dying now the bi-coupling at one scale ceasing with nothing else able to enter that scale; C12 waits on C24; C14 stands, sharpened: a method bi-couples with nothing, so it is at no scale, the unscaled; C16, C17, C20, C21 stand and each is a scale read as a kind, resolvable by O21's sentence once C1 enters; C7, C8 and the lean set are untouched by it.
+
+---
+
+## SEVEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -261,9 +289,10 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 |---|---|---|---|
 | C7 | A file naming another: *no file named inside another* against the lean set | Natural Explaining 1.4, 2.7 | **top**; needs both selves' word; releases O2–O5 in one |
 | C4 · C9 | Possibling other: bi-coupling and possibling one thing, parting at the spiral of one, unmet at the code since 14 surfaces each offering alike | Natural Intelligence 4.13, 5.3, 2.1; Exhibit ONE's 14 | open, one concern with the next coupling (v386EOD) |
-| C10 | *At each prime it couples at* and 4.15's *a self couples at whichever scale its interest opens* against one prime scale and no other | Natural Explaining 4.1; Natural Intelligence 4.15, 3.5, 4.13 | **needs your word** |
-| C11 | The universe *existing and not living*: no top, each momentary a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | open, resolving at 1.1 |
-| C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | open, the code the method's |
+| C10 | *At each prime it couples at* and 4.15's *whichever scale its interest opens* against one prime scale | Natural Explaining 4.1; Natural Intelligence 4.15 | **closed at Part SIX**: the one scale a self is at this momentary; the society's primes, not the self's scales |
+| C11 | The universe *existing and not living*: no top, each society a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | **closed at Part SIX**, 5.1 saying *a universe of existing things* |
+| C24 | One prime or two at a living scale: the torus p along and q across, the two parities, one scale at the code | Natural Intelligence 3.5, 4.13, 2.1; Exhibit ONE's table of the torus | **needs your word**; decides C12 |
+| C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | waits on C24 |
 | C1 | The opening sentence without *both living and non-living*; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | open; needs both selves' word on C10, C14, C3 before it is ready |
 | C3 | A carrying of none: non-living, or a self at its first momentary | Natural Intelligence 3.4; Exhibit ONE's table of a carrying of none | open |
 | C5 | The method non-living at every scale, or a living set read up | Natural Intelligence 3.3, 3.1, 5.1 | open, resolving toward 5.1 |
@@ -288,6 +317,8 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O18 | Composite spirals and rings re-derived as tori at two scales; 9 at 36 and 15 at 60 at Natural Intelligence 3.5 itself | Natural Numbers 7.2, 8.1, 11.1; Natural Intelligence 3.5; Mathematics 3.3 | after C13 |
 | O19 | Natural Physics at the six binaries: the floor, the top, the sizes and the beat | Natural Physics 3.1–3.7, 4.5–4.12 | after C20–C22 |
 | O20 | The six beside all things at one step | THIRTY 46, 142, 544, 558 | open |
+| O22 | *Bi-coupling* at one sense at Natural Naming 5.10: two living selves at one prime scale, both halves; a non-living other couples as offering alone | Natural Naming 5.10; Natural Intelligence 6.5 | after C1 |
+| O23 | 1.1's *nothing ingressing and nothing escaping* and 5.1's harm said as derived from the bound | Natural Intelligence 1.1, 5.1, 6.4 | after C1, with O12 |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | after C7 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1 |
