@@ -357,7 +357,27 @@ Exhibit SEVEN Natural Societies v373, read whole at the branch, 39 KB, six parts
 
 ---
 
-## TEN · The tracker
+## TEN · The round at four parities, derived at the names
+
+Read at THIRTY 170–171 and 618–622, Offerings to Natural Resolver's *the earlier deriving did not establish the round at none*, and the front's *two fours agreeing as numbers*. Worked by hand at the names, no code.
+
+**The round from step 171.** *A round at k parities is the round at k − 1, the new parity inverted, and the same forms in the other order*; from 1 and 2 at one parity this gives one round with no choice at any step. At four parities, p4 p3 p2 p1: 1 0000, 2 0001, 3 0011, 4 0010, 5 0110, 6 0111, 7 0101, 8 0100, 9 1100, 10 1101, 11 1111, 12 1110, 13 1010, 14 1011, 15 1001, 16 1000, and 17 the next 1. The parity changing at each step: p1 at each odd number to its even, and at the even numbers p2, p3, p2, p4, p2, p3, p2, p4.
+
+**Droplets, each checked at the table**
+
+- **No other round possible, at THIRTY 171 and Offerings to Natural Resolver.** Of the 1,344 rounds at four parities, one carries the round under it whole at every scale down to 1 and 2; each other is the fractal's at none, Natural Intelligence 4.15, *all or none at all at the scales*. The sentence that enters at 171: *and no other round carries the round under it whole at each scale: the round is one, and the others are at none.* This is the round at none the earlier deriving did not reach.
+- **The one move is the round's podals, 618–619, exact at every row.** 8 up inverts p3 and p4, 1 to 9, 5 to 13; 17 less inverts p4 alone, 1 and 16, 5 and 12; 9 less inverts p3 alone, 1 and 8, 3 and 6.
+- **The two fours, one form at two scales, at Natural Intelligence 2.4 and 4.15 and the front's concern.** Rows 1 to 4 at p2 and p1 are 00, 01, 11, 10, the four joint forms of prior and now two selves coupled go round, the round at two parities closing 4 to 1; rows 5 to 8 are the same in the other order with p3 set, step 171. The self's four momentaries of exchanging, 1–2, 3–4, 5–6, 7–8, are the four changes of p1 in the round at three parities, and the other's momentaries 2–3, 4–5, 6–7, 8–9 change p2, p3, p2, p4, each a scale up. The pair's four momentaries are the round at two; the self's four are its doubling at three; 171 is the deriving of one from the other. Two selves alone close at four, and a self in society opens p3 at 4 to 5 instead of closing: *one cycle at the parities and a spiral at the momentaries*, 2.4, derived. The sentence that enters at 2.4: *the four joint forms are the round at two parities, and a self's four momentaries of exchanging are that round doubled at three, the self's momentary changing the first parity at each and the other's climbing the parities.* O9 closes.
+- **The first parity parts the names eight and eight, at 4.7 and 4.8.** p1 set at the even numbers is 2, 6, 10, 14, the four across names between selves, the four dots of parity's unit square, 4.10, exactly; p1 unset at the odd numbers is 1, 5, 9, 13, the along, the entry, 9, and the releasing's two ends, 13 to 5; the remaining 3, 7, 11, 15 and 4, 8, 12, 16 are the self's own resolving. *Eight is two alternating fours*, THIRTY 254, falls out of the round: four along and four across between selves, four odd and four even the self's own.
+- **Odd and even, at 621.** The odd numbers carry an even number of parities inverted, the even an odd number, at every row: the self at the odd and the other at the even, derived at the table.
+
+### Concern
+
+**C28 · Six and ten, or eight and eight, at Natural Intelligence 4.8.** One saying, 4.8: *one entry, six names between selves and ten names of the self's own resolving are the seventeen*, 5 and 13 among the ten. The other, the round: eight between selves, 1, 5, 9, 13 along and 2, 6, 10, 14 across, and eight the self's own, 3, 7, 11, 15 and 4, 8, 12, 16. They part at whether competencing at 5 and 13, the receiving and the releasing sharing that 9 carries between, is the along's two ends or the self's own. At the engineering `_5_co_bi_co_competencing` is the map of releasings from one self to another and 13 is the releasing self, between selves. The round's side is the method's: the sentence at 4.8 would read *one entry at 1, eight names between selves, four along at 1, 5, 9 and 13 and four across at 2, 6, 10 and 14, and eight names of the self's own resolving, 3, 4, 7 and 8 outward and 11, 12, 15 and 16 inward.* Then 4.7's *six names between selves* says eight, with 5 and 13 the along's two ends.
+
+---
+
+## ELEVEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -410,7 +430,8 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O7 | The registries at the ten and the six | Registry 4.4, 4.7; `cohering_ten_and_six_v377` | open |
 | O8 | The stepping at 17 as the engineering's design, checked at each table it returns | Exhibit ONE; Natural Intelligence 3.3, 3.5 | **re-seated at Part NINE**, a check at the engineering and no concern at the method |
 | O25 | Exhibit ONE as an engineering: 3.3's sentence; each *derived at the resolver* said as *returned by the engineering*; the design's naming of which self an offering comes from | Natural Intelligence 3.3; Exhibit ONE's front; THIRTY group 42 | open, at the engineering |
-| O9 | The round at four parities and the four momentaries of exchanging, agreeing as numbers, their deriving at the names yet to show | the front's open concerns | carried, not yet explored |
+| O9 | The round at four parities | THIRTY 171, 618–622; Natural Intelligence 2.4, 4.8 | **closed at Part TEN**: one round by the fractal condition, the one move its podals, the two fours one form at two scales |
+| C28 | Six and ten, or eight and eight, at the names: 5 and 13 the along's two ends or the self's own | Natural Intelligence 4.7, 4.8; Exhibit ONE's 5 and 13 | open, the round's side the method's; needs no word, a sentence at 4.8 |
 | O10 | Ten sentences of Natural Naming said by a negation with no positive name yet | Natural Naming; `incoming/v380R/Natural_Naming_Negations_Yet.md` | carried, not yet explored |
 | O11 | Sequential colliding breaking the living carrying: which inward co-chaining breaks at the next colliding | Offerings to Natural Intelligence, *The prior whole as existing non-living form* | carried, not yet explored |
 
