@@ -41,3 +41,12 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 - *Science explanation*: the Penning trap "confines particles by superimposing an electrostatic well along the direction of the field lines of a homogeneous magnetic field".
 
 **Laid beside, by this session.** A second trap works, with fields that do not alternate. The ion's own motion inside it was not read at this publishing.
+
+### Fine particles in water, from rock as from pollen
+
+**The files' sentence.** The Co-Chaining Logic Registry, at Living and non-living at a scale, of a carrying of none: "one parity arriving, colliding, passed on as it is and chained".
+
+- *Natural observation*: under the microscope, particles from pollen immersed in water are "very evidently in motion". Particles from plants dried a century are in evident motion, and particles agreeing in size, form and motion are obtained from bruised window glass, from each mineral of granite, from lava and from meteorites. Of larger particles in old specimens, motions much less manifest and in some cases not observable are reported. The principal substances from which none was obtained: oil, resin, wax and sulphur, metals not reduced fine enough, and bodies that dissolve in water ([Brown, 1828](https://www.rpgroup.caltech.edu/marseillePBoC2024/assets/pdfs/Brown1828.pdf)).
+- *Science explanation*: at that publishing, of the pollen's particles, the motion "belonged to the particle itself". Later, at publishings not linked here: the water's unseen molecules striking the particle.
+
+**Laid beside.** At that grain motion is found in particles from rock as from pollen. By the Registry's sentence the later explanation is a non-living thing colliding and passing on the parity arriving.

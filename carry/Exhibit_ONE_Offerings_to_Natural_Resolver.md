@@ -241,3 +241,15 @@ From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. T
 ## Next at the named prior and actual offerings · v385A
 
 **Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.
+
+## The resolver, the method in stable form · v386EOD
+
+**Droplet · A coupling's beginning is a carrying self's.** Only a carrying self begins a coupling, as a geodesic offering of parity entraining. The method is stable, and a beginning is changing with changing carrying: no beginning is inside the resolver, the resolver being the method in stable form. The method breaking is a skipping momentarying, cascading. Natural Intelligence has "no function carries a term of its own". Beside it at Offerings to Natural Intelligence is [the next coupling, discovered as the next parity is](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod).
+
+**Droplet · The units of a spiral and a torus are resolvers.** The units of this file's spirals and toruses are resolvers: the geodesic method in stable form, an engineered outward scaling. The resolvers of one surface are inside one self: the natural network surface is a single self at each momentarying, locally. This file heads its tables "A spiral of selves" and names the units selves.
+
+**Droplet · Offerings are binary, and a 0 is inside a self's carrying.** A self has a carrying, and the 0s are inside it. No 0 arrives inside a self: an offering is one parity or the other. A bi-coupling has a shared 0, and a co-chaining a shared 0, co-linearizing in the bi-folding surface; a 0 handed on among resolvers is of resolvers inside one self. The 0 is a shared nothing between, with the two separated, not merging and not diverging, and all the changing orthogonal. The 0 is not existing ahead of moral cooperation. This file's table "Offerings to one sharing, surfacing" lists an offered 0, surfacing none, and has "an offered 0 the parity at 2, surfacing none at 14": no 0 arriving inside a self is in the tables already.
+
+**Droplet · A slip is the full four.** A skip is four full momentaries. A slip is the full four: four full momentaries, remaining possibling with no carrying into next as 1. After 1 the next entry is 17: four full momentaries up and four down, bothboth. This file has the table "A self's four momentaries of exchanging".
+
+**Concern · Declared and read by no function.** This file's code declares the six names' facings and the sharings across and releasings along, as CONNECTORS and JOINS, and no function of its three reads them. — v386EOD

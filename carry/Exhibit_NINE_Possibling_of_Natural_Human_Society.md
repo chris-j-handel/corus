@@ -27,3 +27,7 @@ Natural Human Society Possibling · v386EOD
 **Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
 
 - At the droplet aimed at a section, Natural Human Society, Class-action resolving, the social scale where every claimant signs and rises: Resolving at the section, at which existing form is meant.
+
+## Turn-taking in conversation · v386EOD
+
+**Possible project.** This file names a measuring of a science, "turn-taking in conversation runs one-at-a-time with gaps near a fifth of a second", with no publishing beside it. The measuring's publishing, in two lines, is possible work beside it.

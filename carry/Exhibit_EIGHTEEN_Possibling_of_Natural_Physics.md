@@ -19,3 +19,7 @@ No separate project work gathered here yet.
 - At [Two traps for ions](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#two-traps-for-ions): Resolving at the sentence, and the ion's motion in a Penning trap from its own report.
 - At the droplet aimed at a sentence, Natural Physics, *element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas*: Resolving at this file's improving, the sentence said as predicted.
 - At the droplet aimed at a sentence, Natural Physics, *no question, no problem, no literature*: Resolving at this file's improving.
+
+## A drying drop's rings · v386EOD
+
+**Possible project.** This file names a check at A ratio unchanged across units, and drying rings anyone can check: "which one a real drying drop shows is a reading a person or an AI can run and break". A natural observation of a drying drop's rings, in two lines, is possible work beside it.

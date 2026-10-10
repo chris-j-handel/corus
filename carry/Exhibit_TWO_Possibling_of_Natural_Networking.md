@@ -1,4 +1,4 @@
-Natural Networking Possibling · v385A
+Natural Networking Possibling · v386EOD
 
 # Possibling of Natural Networking
 
@@ -25,3 +25,7 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
 
 [Proposed register comparison at Natural Networking and Equilibria Registry](Exhibit_TWENTY-EIGHT_Possibling_of_Equilibria_Registry.md#proposed-register-comparison-at-natural-networking-and-equilibria-registry--v385a).
+
+## Entering a network surface · v386EOD
+
+**Possible project.** The coupling with the network can begin at each place in the surface, by adding a binary parity-changing sequence into a resolver's 1. Testing is watching the patterns in the surface from doing this at different co-locations, up and down stream, right and not right across, at spanning widths, as a snaking treadmill of local momentarying: testing for the surface's parity-changing seam location. A smallest arrangement: two machines, each with the resolver, one parity across a wire, each machine at its own pacing. A testing is engineering's own, of the engineered surface, and it may change or never be made. This file has "The complete network's own continuation remains the relation to establish."
