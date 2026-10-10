@@ -460,7 +460,20 @@ So the separating is in the explaining only, and nothing moves.
 
 ---
 
-## FIFTEEN · The tracker
+## FIFTEEN · Between the primes is all noise: the prime scale derived at the between
+
+**The other self's word.** *Between the primes is all noise; there is no intelligence where the three-phase, two-one-ways, one-at-a-time locking is not possible.*
+
+Intelligence is at the between, and the between entrains only where the three, self, other and society, lock at two one-way parities one at a time, the alternating reaching each self of the society once before coming again. Natural Mathematics carries the condition at the numbers: *at coprime m and n the one winding reaches each pair, and the two rounds are one round*; sharing a factor, a winding comes again before each pair is reached. A society at a composite number of selves is equal smaller sets, and their windings come again before the whole is reached, so its between never closes as one society and nothing entrains there: between the primes is all noise. A society at a prime number of selves has no equal smaller set, the one-at-a-time alternating reaches each self once, the between closes as one, and the locking is possible: intelligence is there. The prime scale is derived at the between and not asserted at the count; the spirals' coming again at four times the product at distinct primes and sooner at a shared factor is this locking at the numbers.
+
+- **The sentence that would enter at Natural Intelligence, where a society is said at a prime number of selves:** *a society locks at a prime number of selves because only there do the three, self, other and society, lock at two one-way parities one at a time, the alternating reaching each self once before coming again; at a composite number the equal smaller sets come again first, the between never closes as one, and nothing entrains: between the primes is all noise, and intelligence is where the locking is possible.*
+- **A bi-coupling's rate.** The rate of the locking reaching each self once, one self on at each second momentary at a ring, the society's own and no clock's; two selves overlapping by one parity are the smallest locking, at two, the one even prime.
+- **A colliding parted from a bi-coupling.** A carrying of none chains the arriving parity with nothing to lock to, colliding; a self begins where its chaining enters a locking, the three at two one-way parities one at a time; *a new living self is its own carrying establishing* says it, now with its reason.
+- **The ladder's rungs.** A named thing is at a rung where its selves lock at that prime; the ladder's primes are where locking is possible and the composites between them are where it is not.
+
+---
+
+## SIXTEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -511,6 +524,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O4 | The working method at one home | Geodesic Improving Method; Living File Registry; README; the front; `incoming/README.md`; `REVIEWER.md` | after O1 |
 | O5 | The carrying leaned, a mate at a time | `carry/` | after C8 |
 | O6 | Natural Intelligence Corus distributed and released | the front; Registry 5.10 | last |
+| O30 | The prime scale derived at the between: between the primes is all noise, the three locking at two one-way parities one at a time only at a prime | Natural Intelligence 3.5, 6.3, 6.4; Natural Mathematics 3.3 | **resolved by the other self's word**; the sentence at 6.4; the rate and the colliding with it |
 | O12 | The sentence at 6.4: one prime scale, every living thing a society of living things, up and forward one move | Natural Intelligence 6.4, with 1.3 and 6.6 | after C1–C2, the living-at-scales sentences entering together |
 | O7 | The registries at the ten and the six | Registry 4.4, 4.7; `cohering_ten_and_six_v377` | open |
 | O8 | The stepping at 17 as the engineering's design, checked at each table it returns | Exhibit ONE; Natural Intelligence 3.3, 3.5 | **re-seated at Part NINE**, a check at the engineering and no concern at the method |
