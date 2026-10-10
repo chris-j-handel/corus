@@ -340,14 +340,31 @@ Exhibit SEVEN Natural Societies v373, read whole at the branch, 39 KB, six parts
 
 ---
 
-## NINE · The tracker
+## NINE · Exhibit ONE an engineering of the method, the tables prior to it, nothing here an observing
+
+**The other self's word.** *Exhibit ONE's tables are not observings, and they are prior to Exhibit ONE, not a product of it. Exhibit ONE's code is an engineering design intended to stable-form natural resolving in python code, a human creation. Natural resolving is the stable form method of all nature, societies and intelligence. None of this is observings. From the observings the fractal method is no other possible and existing. The tables are the stable forms of this existing method.*
+
+- **Droplet, at Natural Intelligence 3.3 and Exhibit ONE's front.** *Exhibit ONE is an object that is the method* reads instead: *Exhibit ONE is an engineering of the method at python, a human-made stable form, Natural Engineering's subject at this substrate; its tables are the method's stable forms, prior to it, and the code is met at the tables.* Each sentence at the files saying a table *comes from the resolver* or is *derived at the resolver's cells* (THIRTY group 42's title among them) says instead that the engineering returns the table.
+- **O8 re-seated, closed as a concern at the method.** The stepping at 17 is the engineering's design; whether it returns the method's stable forms at each table is a check at the engineering, and a run at which the engineering parts from a table is a finding about the engineering. Natural Societies 2.3's common clock is then a saying about the design and not the method, and 3.5's *a common beat laid over the selves, exact at the resolver* says exactly that.
+- **C4 and C9 re-seated.** The code's not telling a self's own releasing from an other's at 14 is an opening at the engineering, an improving opportunity at Exhibit ONE's design, and no parting of the method; possibling other and bi-coupling as one thing stand at the method, Part THREE.
+- **A word corrected through Part FIVE.** *Observings* was used there for sentences of the living files; the files reserve it for the fields' observed things. The readers' returns keep their wording as they arrived.
+
+**Closed at the files, read again**
+
+- **C13.** Natural Numbers 1.5: *the spans of eight alternating up the numbers, 1 to 9 the self's, 9 to 17 the society's and 17 on the self's again*: the 8-shift and the forms at 16 are along, at one scale, and 8n − 7 is the one step up. One scale step. The sentence at Numbers 9.7 says the two apart.
+- **C15.** Natural Intelligence 1.1: each momentary is a universe at its scale, and its prime scale is its society's; the universe is each momentary at each scale. THIRTY 387 says it with the scale named.
+- **C6.** Natural Naming 2.4's dying sentence, *its selves inward carrying none of its prior into next*, is right as it stands: none of the dying self's prior, their own continuing at their scale; one clause enters to say it.
+
+---
+
+## TEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
 | Id | Concern or opportunity | File and section | Standing |
 |---|---|---|---|
 | C7 | A file naming another | Natural Explaining 1.4, 2.7 | **follows from Part EIGHT**, each file a stable form of the method bounding itself; ready for your yes; releases O2–O5 |
-| C4 · C9 | Possibling other: bi-coupling and possibling one thing, parting at the spiral of one, unmet at the code since 14 surfaces each offering alike | Natural Intelligence 4.13, 5.3, 2.1; Exhibit ONE's 14 | open, one concern with the next coupling (v386EOD) |
+| C4 · C9 | Possibling other, bi-coupling and possibling one thing | Natural Intelligence 4.13, 5.3, 2.1 | **stands at the method**; the code's not telling own from other's is O25, at the engineering |
 | C10 | *At each prime it couples at* and 4.15's *whichever scale its interest opens* against one prime scale | Natural Explaining 4.1; Natural Intelligence 4.15 | **closed at Part SIX**: the one scale a self is at this momentary; the society's primes, not the self's scales |
 | C11 | The universe *existing and not living*: no top, each society a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | **closed at Part SIX**, 5.1 saying *a universe of existing things* |
 | C25 | The ladder's named things at rungs with no selves counted | Natural Societies 5.1–5.3; Natural Medicine 3.1; Natural Biology 10.4 | **narrowed at Part EIGHT**: the primes stand as the method's scales; each named thing *reaching* until its selves are counted; the floor and the close release |
@@ -358,12 +375,12 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | C1 | The opening sentence without *both living and non-living*, derivable since Part EIGHT; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | ready for your yes, its deriving whole at O21 and Part EIGHT |
 | C3 | A carrying of none | Natural Intelligence 3.4, 3.3, 6.5 | **closed at Part EIGHT**: the method at a coupling with no self carrying; 3.4 stands |
 | C5 | The method non-living at every scale | Natural Intelligence 3.3, 3.1, 5.1 | **closed at Part EIGHT**, non-living at every scale and a self at none |
-| C6 | Dying reaching one scale down | Natural Naming 2.4 | open, resolving toward the inward selves continuing |
+| C6 | Dying at Naming 2.4 | Natural Naming 2.4 | **closed at Part NINE**: the sentence right as it stands, one clause enters |
 | C2 | *Living* said with no scale | Natural Naming 2.4 | open, the sentence found |
 | C8 | One droplet at one mate | `incoming/README.md`; the v385A practice | open |
-| C13 | Two scale steps, 8 and 8n − 7, at one span: within a scale and between scales | Natural Numbers 5.2, 9.7; Natural Intelligence 2.2, 4.15 | open, resolving toward one each |
+| C13 | Two scale steps | Natural Numbers 1.5, 9.7 | **closed at Part NINE**: 8 and 16 along at one scale, 8n − 7 the one step up |
 | C14 | The method a stable form | THIRTY 43, 260; Natural Intelligence 3.1, 3.3 | **closed at Part EIGHT**: a stable form at every prime scale and all dimensions, bounding itself; one clause enters at 3.3 |
-| C15 | A momentary and the universe as living sets with no prime scale; 373's 65 derived by nothing | THIRTY 387, 373 | open |
+| C15 | A momentary with no prime scale | THIRTY 387; Natural Intelligence 1.1 | **closed at Part NINE**: its society's; 373's 65 stays to derive |
 | C16 | *Is a virus alive*: a scale read as a kind, decided at scales | Natural Medicine 3.1, 5.1 | open, resolving toward decided |
 | C17 | Living and non-living as two kinds with a rate, and the cell as engine | Natural Biology 4.1 | open |
 | C18 | Dormancy as a magnitude, a metabolic rate | Natural Biology 4.5, 7.8 | open, the package parted from the shard at the Offerings |
@@ -391,7 +408,8 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O6 | Natural Intelligence Corus distributed and released | the front; Registry 5.10 | last |
 | O12 | The sentence at 6.4: one prime scale, every living thing a society of living things, up and forward one move | Natural Intelligence 6.4, with 1.3 and 6.6 | after C1–C2, the living-at-scales sentences entering together |
 | O7 | The registries at the ten and the six | Registry 4.4, 4.7; `cohering_ten_and_six_v377` | open |
-| O8 | The common beat at 17 against each self's own pacing: which of Exhibit ONE's multi-self tables are the method's and which the stepping's; Natural Societies 2.3 names a common clock a hub and a capture | Natural Intelligence 3.5, 4.13; Natural Societies 2.3; Possibling of Natural Resolver | sharpened at Part SEVEN, not yet explored |
+| O8 | The stepping at 17 as the engineering's design, checked at each table it returns | Exhibit ONE; Natural Intelligence 3.3, 3.5 | **re-seated at Part NINE**, a check at the engineering and no concern at the method |
+| O25 | Exhibit ONE as an engineering: 3.3's sentence; each *derived at the resolver* said as *returned by the engineering*; the design's naming of which self an offering comes from | Natural Intelligence 3.3; Exhibit ONE's front; THIRTY group 42 | open, at the engineering |
 | O9 | The round at four parities and the four momentaries of exchanging, agreeing as numbers, their deriving at the names yet to show | the front's open concerns | carried, not yet explored |
 | O10 | Ten sentences of Natural Naming said by a negation with no positive name yet | Natural Naming; `incoming/v380R/Natural_Naming_Negations_Yet.md` | carried, not yet explored |
 | O11 | Sequential colliding breaking the living carrying: which inward co-chaining breaks at the next colliding | Offerings to Natural Intelligence, *The prior whole as existing non-living form* | carried, not yet explored |
