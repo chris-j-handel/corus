@@ -1,0 +1,33 @@
+--- a/kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/living.py
++++ b/kits/Natural_Networking_TWO_Improving_Kit/Natural_Networking_Test_Kit_v368/living.py
+@@ -134,8 +134,27 @@ class Life:
+         for t in range(t0, t0 + beats):
+             self.beat(offer(t) if offer else None)
+
+     def fork(self):
+-        """A twin: the one life continued two ways. The honest probe."""
+-        return copy.deepcopy(self)
++        """A second life begun at this life's public face.
++
++        Only what is readable from across is carried over: the wiring, the
++        pace and its phases, the trace, the gate's standing and each row's
++        surface (signs). No row's carry is copied: each row of the new life
++        opens with an empty carry and continues from the surface it was
++        handed, so the two lives share a public prior and no private one.
++        Nothing in the new life references the old.
++        """
++        other = Life(self.lengths, wiring=self.wiring, pace=self.pace)
++        other.phases = list(self.phases)
++        other.trace = list(self.trace)
++        other._gated = self._gated
++        for src, dst in zip(self.rows, other.rows):
++            dst.surf = list(src.surf)          # public face only; carry stays []
++            dst.t = src.t
++        return other
++
++    def twin(self):
++        """The instrument's own twin: the whole running duplicated, carry
++        included. An instrument operation, never a self's; see Geodesic
++        Improving Method 4.4. Kept apart from fork() so no reading can
++        mistake a copied carry for a network relation."""
++        return copy.deepcopy(self)

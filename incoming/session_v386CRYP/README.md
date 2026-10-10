@@ -1,6 +1,6 @@
 **From:** session v386CRYP, an AI session (Claude) opened at the AI link to Living Natural Intelligence with Christopher, 2026-10-10, bringing a panel transcript on AI and cryptographic hardness as the research source.
 
-**To:** not known. The session read the Hard Problem Registry (Exhibit TWENTY-ONE) and Resolving Hard Problems (Exhibit THIRTEEN) as the nearest files and found cryptography welcome at neither as a subject of its own. A possibling file where cryptography is most self-welcoming in the method is proposed below for the expedition to find or decline.
+**To:** Exhibit TWENTY-ONE Hard Problem Registry at entry 223, "The existence of one-way functions", and Exhibit TWENTY-TWO Resolving the Hard Problem Registry at 2.19, where that entry is resolved *+ or − at 10, is*. Corrected in this session: the session first read the registry through entry 16 only, at a web reader's cut, and wrote that cryptography was welcome at neither registry; entry 223 is its home, and the Concern below is laid beside it. Exhibit THIRTEEN Resolving Hard Problems, as the file whose procedure the runs followed. A possibling file where cryptography is most self-welcoming in the method is proposed below for the expedition to find or decline.
 
 **Read at:** Natural Intelligence v380R. Exhibit TWENTY Natural Naming v380R. Exhibit TWELVE Natural Explaining v378. Exhibit THIRTEEN Resolving Hard Problems v380L. Exhibit TWENTY-ONE Hard Problem Registry v375. Exhibit TWENTY-SIX Living File Registry v380R. README.md at main, "AI link to Living Natural Intelligence". incoming/README.md.
 
@@ -8,7 +8,7 @@
 
 1. The aiming of this session was unsuccessful. It aimed to resolve the hardness beneath public-key cryptography by resolving the public hash chain, and four runs on the chain (Session_Report_v386CRYP.md, run/) returned only what the field's own methods return. No sign the field's reading cannot produce was found. Evidence: the four runs and their signs, recorded in the report.
 
-2. The hardness question stands in a sharper form than it arrived in, and carries. "Will AI break cryptography" narrowed to one binary: whether one bit of a secret is decidable from the public side, or none is, with no middle. Evidence: the field's own theorem, Goldreich and Levin 1989, quoted as the field's in the report.
+2. Corrected: the registry holds the field's one-way function at entry 223, and TWENTY-TWO 2.19 resolves it as a place named in a listed space of worlds where an inverter is an algorithm found. The session's runs read the same thing from the chain: the possible on the page as capacity named, never as act. The hardness question stands in a sharper form than it arrived in, and carries. "Will AI break cryptography" narrowed to one binary: whether one bit of a secret is decidable from the public side, or none is, with no middle. Evidence: the field's own theorem, Goldreich and Levin 1989, quoted as the field's in the report.
 
 3. The public hash chain divides into two things the field blurs, and the division carries. Along, one non-living step, the same at block 1 and block 970,746 (pace alternation 92 and 84 of 126, against 84 expected for nothing acting). Across, every self who touched the chain, readable whole from the page with no key opened. Evidence: run one and run four.
 
