@@ -41,7 +41,7 @@ The whole concepts and their unresolved conditions are available at this subject
 
 **The file's sentence**, at its door readings, in A planet read at one budget: "carbon leaving the atmosphere arriving in the ocean as carbonate".
 
-- *Seen*: the field's guide has, for the surface waters of the North Atlantic, about 90 per cent of the dissolved inorganic carbon "present as bicarbonate ion", about 10 per cent as carbonate ion and under 1 per cent as dissolved carbon dioxide. It gives no measuring at these figures ([Dickson, 2010, The carbon dioxide system in seawater, in the Guide to best practices for ocean acidification research and data reporting](https://pmel.noaa.gov/co2/files/dickson_thecarbondioxidesysteminseawater_equilibriumchemistryandmeasurementspp17-40.pdf)).
+- *Seen*: the field's guide has, for the surface waters of the North Atlantic, about 90 per cent of the dissolved inorganic carbon "present as bicarbonate ion", about 10 per cent as carbonate ion and under 1 per cent as un-ionised carbon dioxide. It gives no measuring at these figures ([Dickson, 2010, The carbon dioxide system in seawater, in the Guide to best practices for ocean acidification research and data reporting](https://pmel.noaa.gov/co2/files/dickson_thecarbondioxidesysteminseawater_equilibriumchemistryandmeasurementspp17-40.pdf)).
 - *The field's explaining*: read from its equation of the equilibrium, "The additional carbon dioxide reacts with carbonate ion to form bicarbonate ion", "decreasing the concentration of carbonate ion".
 
 **Next.** Its insertlet is at [the offering mate](Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md#insertlets). Needs the measuring's own publishing.

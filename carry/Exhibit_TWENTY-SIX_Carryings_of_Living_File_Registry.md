@@ -608,4 +608,6 @@ In all: 25 observings in two lines at eight carrying mates, under the heading "O
 - Exhibit NINETEEN Natural Philosophy, "Truth is unformalisable inside its own language, proved": the file carries the theorem's reach at its next sentence, the fixed points with revenge waiting.
 - Exhibit TWENTY-NINE Natural Illustrating, "circular polarization the spiral at its two hands, light always at a hand": the saying coheres with the field's own: no light with no hand.
 
+**Checked after the writing.** Seven further readers checked each quotation and figure of the written observings and droplets at its publishing. They found each quotation at its publishing, and six places at which this session's own words went past the publishing; each of the six now follows the publishing.
+
 **Changed at the fresh reading.** The readers found parts of a number of the first-written lines not at their publishings, and each placing follows the publishing: a model named as a model, a textbook's statement with no doing named as such, figures said of the people, flocks and conditions they were measured at.
