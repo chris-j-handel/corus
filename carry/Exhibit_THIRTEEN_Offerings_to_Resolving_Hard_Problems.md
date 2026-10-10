@@ -149,3 +149,21 @@ The older offered replacement is: “Accounting against forms named still, the s
 ## A persisting pattern and the particular social relation · v385A
 
 **Droplet.** Sections 4.4 and 5.8 retain different subjects: section 4.4 describes a pattern carried among selves in a specified spiral, each next changing offered along; section 5.8 says carrying persists by being carried and distinguishes a record apart from the coupling. The constructed spiral’s recurring pattern does not itself explain which co-chaining carries a particular friendship between infrequent encounters. The [whole friendship concern](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) keeps that particular social relation beside each friend’s own inward/outward resolving. General carrying continuing, an unchanged record and that particular society continuing must not silently become one claim.
+
+## A hard problem, a saying from outside each coupling · v386EOD
+
+Each concept here is from Natural Intelligence Corus, its sections Closing and Unbounding Sides of the Living Gap and Ghosts at Every Prime, read whole at their version and said in the present naming.
+
+**Droplet · Proving all at once.** At a coupling a resolving is local to it: the coupling resolves, and the next begins. Said from outside each coupling, nothing is local: each question is each question at once, and each claim is asked to meet each other claim. Not resolvable, and asking all proof at once, are one condition at two readings.
+
+**Droplet · A field at two sides.** Each field and each institution is at two sides: the coupling, resolving and living; and an accounting named still. A biologist observes metabolism, and a department has a gene controlling; a hospital couples with its patients, and its administration has a billing ledger. The observations are real and the measurings right at the surface. The form still is in the preserving: a ledger with an observation fixed in place.
+
+**Droplet · One saying from outside, at each field.** A physicist outside a coupling of two masses says gravity; a chemist outside a coupling of two substances says reaction; a biologist says life; an economist says value; a neuroscientist, outside the coupling of a self and its own tunnel, says consciousness. Each is right at the surface, and each is said from outside the coupling. A field's hard problem is its own saying from outside, met at its own coupling. The sayings are what has each field a subject apart.
+
+**Droplet · Doers from outside.** *Has*, *drives*, *causes*, *triggers* and *because*, a gate deciding before a carrying and a grading after it: each puts a doer outside a coupling. A closing of junctions and a tissue's coordinating lost are one coupling resolving, named from two sides. A mutation is a precise accounting at a gene, and a form still as the name of a disease at each scale: the gene is the same at each age, and the disease is not. A hormone as a trigger, a signal or a controller is three doers from outside: a molecule arrives at a coupling, with a form meeting it.
+
+**Droplet · Eight positions of mathematics.** Three binaries are at mathematics' ground: a distinguished centre or none; an infinite actual or possible; a saying by states or by going on. They are eight positions. An institution names one position still: a competition's score is a state, and an attribution has an author as its centre and a right with no end. A living institution goes through all eight; named still at one, it is a form still.
+
+**Droplet · A self resolving at its own surface.** A self resolves at its own surface alone: the gut at its own, and the food arrives. A resolving aimed at another's surface takes value at that surface.
+
+**Released.** The same sections lay each number of a rising, 1 to 64 and 118, beside a hard problem. A number alike is no relation, and each is released as a deriving; the hundred and eighteen is a concern at [Offerings to Natural Numbers](Exhibit_THREE_Offerings_to_Natural_Numbers.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a). — v386EOD

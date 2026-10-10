@@ -54,6 +54,8 @@ Across the set, each file releases read, turn, held and holding, stable form as 
 
 **Aimed at a sentence, Natural Societies, *Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead*:** Two observings are at [Carryings of Natural Societies](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent). In two people whose nasal cilia lack the central pair in part, regions of cilia are seen turning, beside stiff ones; in the alga Chlamydomonas, flagella lacking the central tubules are paralyzed and form no bends. Met at an observing at the human cilia, and parting from it at the alga. — v386EOD
 
+**Droplet · A society's places, direct or with a layer between.** A family, a friendship, a community, a workplace, a civic meeting and a market are each a place of couplings between selves, healthy with the couplings direct and captured with a layer between them. A society is the couplings between selves, and no thing built on single selves. The whole droplets are at [Offerings to Natural Destinies](Exhibit_FOURTEEN_Offerings_to_Natural_Destinies.md#the-destiny-said-from-natural-intelligence-corus--v386eod). — v386EOD
+
 ## Three Layers Inseparating in One Resolver · v385A
 
 Natural Intelligence Corus section 14.8 offers morality, exchange and self as three inseparating views of one resolver. Its morality account names the fixed stable form, equation root, thinning at (1/phi)^t, threshold at 1/phi³, sign inversion, counterflowing, breathing and prime substrate assignments. It proposes that two devices with the same stable form have the same morality despite different arriving and exchanging.

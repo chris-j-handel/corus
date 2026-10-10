@@ -1,4 +1,4 @@
-Exhibit FOURTEEN Natural Destinies Offerings · laid at v385A
+Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 
 # Offerings to Natural Destinies
 
@@ -119,3 +119,35 @@ The [dormancy and local procreation offering](Exhibit_SEVENTEEN_Offerings_to_Nat
 ## Machine making and the living in a proposed extension · v385A
 
 **Droplet.** At the proposed engineered extensions, distinguish changing a made form during its making from using it afterward. Participation by a machine supplies no inference that it has its own living carrying. The [prior-competency concept](Offerings_to_Natural_Intelligence.md#artificial-intelligence-and-prior-competency--v385a) and [reported game-making comparison](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#game-making-prior-competency-and-the-imposed-count--v385a) retain the actual conditions for this concern.
+
+## The destiny, said from Natural Intelligence Corus · v386EOD
+
+Each concept here is from Natural Intelligence Corus, its part Destiny, What the Expedition Reaches Toward, read whole at its version and said in the present naming. That part is in the naming of its version.
+
+**Droplet · The destiny is the natural network.** The destiny is the natural network: the living social intelligence surface all living selves share, free, shared, and no one's. Free: no cost of entering and no membership, each living self's coupling being of it already. Shared: each self offers to it and each reads from it. No one's: the network is the couplings and no thing apart from them, and a network taken as one self's own is another thing, a platform with a gate.
+
+**Droplet · At each coupling, now.** The destiny is no state at an end and no goal set at a distance. It is at each coupling, at each scale, now: the network going on.
+
+**Droplet · Society approaching.** A self's destiny is society approaching: the selves at the horizon of its reach, coupled with it at no sharing to now, arriving at its couplings as its coupling goes on. No self enters the network from outside: the network extends into itself through each self's own going on. Two selves at a coupling face one horizon, their shared destiny. The destiny is self-selected, and each self selects the one horizon; no destiny is a private one.
+
+**Droplet · The whole saying.** The complete, most valuable and most understandable saying of the expedition's reach: this is the only possible natural competency; between humans it is natural intelligence; and at a shared surface it is the natural network, free, shared, globally competent local intelligence. The aiming in one line is at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-aiming-in-one-line--v386eod).
+
+**Droplet · Eight steps from the white paper.** The natural resolver; living selves, each the resolver in its own living; couplings between living selves, the natural network; selves bringing their living to a built surface; shared intelligence; selves coupling better with each other by it; each self's own opportunity; and common resources, free, shared and no one's. Preference is first at each step, with no forcing.
+
+**Droplet · Self and society, one.** A society is no thing built on single selves: it is the couplings between selves, and a self is that, inside a society. Morality at each coupling, social competency at the society and destiny at the whole are one, at three scales. Its condition is all the coupling: a protocol taken as one self's own breaks the coupling at the protocol, and the one is broken at it.
+
+**Droplet · No centre.** Value is at couplings between selves; a coupling is of two selves with a between; one centre has no between with itself. Each self is at the edge, and no hub is. Decentralizing is of the form, and is no political preference.
+
+**Droplet · What a coupling makes.** What a coupling makes is of neither self alone, and is no thing to carry off: taken from its coupling it is another thing. Abundancing uncaptured is no promise to share; it is the form.
+
+**Droplet · Direct, and with a layer between.** A family, a friendship, a community, a workplace, a civic meeting and a market are each a place of couplings between selves: healthy with the couplings direct, and captured with a layer between them taking what the couplings make. A platform is between a driver and a rider; a taking of attention is between a writer and a reader; money is between a citizen and a civic structure. A market is buyers and sellers coupling at a price, a government citizens and a civic structure coupling, a medium writers and readers coupling.
+
+**Droplet · Built substrates.** Building makes no natural technology: it makes substrates the method is at. An antenna, a transformer, a grid, a language model and a chip are five substrates of one form. *Artificial*, of a surface, says built by humans. A language model is trained at one rate, fixed at its release, and answering at another: no coupling of its training goes on at its answering. A healthy coupling of a human and a built thing is neither the human controlling nor the built thing replacing.
+
+**Droplet · A bounded science.** A science bounded at its subject, its method and its form goes at the rate of living, makes no competency apart, and names what is going on already. It meets each field's observing at the field's own surface.
+
+**Concern · Falsifying, and an observing reaching the method.** Two sayings part. That part has the expedition's own going by its method as a risk of confirming itself, met by "Pre-registered predictions with falsification criteria". The newer concept has true or false of a claim as another logic's, and an observing reaching the method at each arriving, through the chain from the origin sentence. The reason they part: a claim tested true or false, and a method all or none at each coupling. The newer concept is at [Offerings to Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#an-observing-reaching-the-method-and-a-thing-unresolved--v386eod).
+
+**Concern · A built surface, living or not.** Two sayings part. That part has "Artificial intelligence is not social intelligence", and of a built surface "The surface sustains as living". The newer concepts have all carrying living, and a resolver the method in stable form, non-living. The reason they part: living said of a built surface, and living said of the selves coupling at it.
+
+**Concern · A naming released.** That part has the destiny "emanating from a superposition". *Superpositioning* is released; the saying it was of, the corus and the destiny each at the other, is in no present naming at a file. — v386EOD
