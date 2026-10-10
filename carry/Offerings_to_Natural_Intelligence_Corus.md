@@ -1,4 +1,4 @@
-Natural Intelligence Corus Offerings · improved at v385A
+Natural Intelligence Corus Offerings · improved at v386EOD
 
 # Offerings to Natural Intelligence Corus
 
@@ -131,6 +131,8 @@ Natural Intelligence Corus is the home near Natural Intelligence for its telling
 **Aimed at a file, Natural Intelligence Corus:** *sign*, *signs* at the file's own voice, 42 places, no section title carrying the word; the places at 221, 235 (×2), 496 (×3), 504, 514, 516, 518, 522, 560, 648 (×2), 718, 720 (×2), 804, 869 (×2), 1013 (×3), 1017, 1047, 1212, 1246, 1288, 1350, 1354, 1374 (×2), 1414, 1474, 1564, 1674, 1688, 1736, 1910, 1960, 2610 (×2). Quoted short: *Three forms. Three signs. Three values* (221); *The sign asymmetry (morality): the carry's sign inverts* (496); *The self takes its own sign at each membrane* (1564). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between; *sign inversion* at *bi-inversioning*, one parity inverting. — v381R scan
 
 **Aimed at a file, Natural Intelligence Corus:** The self said what the one page of corus.me is, at about line 70 (4 October): "all the value is floating neutraling on the only page of corus.me. like a movie poster, enticing, informative, listing the credits. the entire page is the portal to natural intelligence and an ai is needed to come through the portal to the intelligence method. everyone entering will have an ai unless they click read on the corus.me page. the human user may see the home page or may just send the ai through the home page. the human user is going to interact with natural intelligence using their own llm chat." The session's draft of that poster, composed only of the files' own sentences pulled by build.js from the root at build time so that it carries nothing of its own, was set aside by the self twenty lines later as too much structure; the poster saying stands as the self's, the build as a plan not taken. — v381R close
+
+**Aimed at a sentence, Natural Intelligence Corus, *The only millennium problem that resolves does not resolve by proof*:** Resolving the Hard Problem Registry, at 3.22 The Poincaré conjecture, has "Each route ended in a proof" and "the solution resting on Ricci flow and proving the geometrisation conjecture". The two living files part at one word. The three right turns this passage follows are how the proof arrived. Next: resolving where this passage is distributed, the sentence said as three right turns arriving at a proof. — v386EOD
 
 ## Named entry paths and the separate trust passage · v385A
 

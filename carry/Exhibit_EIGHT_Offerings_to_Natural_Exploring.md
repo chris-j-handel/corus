@@ -1,4 +1,4 @@
-Exhibit EIGHT Natural Exploring Offerings · improved at v385A
+Exhibit EIGHT Natural Exploring Offerings · improved at v386EOD
 
 # Offerings to Natural Exploring
 
@@ -6,7 +6,7 @@ Exhibit EIGHT Natural Exploring Offerings · improved at v385A
 
 ## Insertlets
 
-None.
+**At 5.2 · An involution's fixed set is where its counting is taken from — beside "Unity for the multiplicative".** Unity and minus unity for the multiplicative.
 
 ## Droplets
 
@@ -67,6 +67,8 @@ Exploring and Improving Method combined: selves discovering and improving togeth
 **Aimed at a file, Natural Exploring:** *sign*, *signs* at the file's own voice, 20 places, no section title carrying the word; the places at 155, 219, 267 (×2), 269, 283 (×3), 285 (×5), 303, 369, 373, 387, 419 (×2), 421. Quoted short: *Resolving is a sign a coupling makes of itself* (267); *What an instrument returns is a sign taken at a membrane, one at a time* (283); *The sign at the detector, the sign at the residue, the sign at the membrane, the sign at the pump* (285). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
 
 **A source-to-placement comparison preserving the whole relation.** Geodesic Improving 1.4–1.5 already requires whole receiving before source release, and its word comparison alone cannot establish preservation of the relation. Registry 5.3/5.6 preserves the local prior a subject needs. [The jigsaw comparison](../incoming/v385A/Whole_Expression_Comparison_v385A.md) makes this concrete: name the actual source and extent, its contribution, what is already carried at a living passage, the remaining improving at each welcoming mate, and any still-unlocated value. An existing storyboard, related explaining and a proposed whole expression retain those different extents. A same-named concept does not establish complete receiving; a project grouping does not make an insertlet. Preserve both the whole expression and the particular subject contributions, including their conditions and later correcting, through any combining or distributing. Supporting project work stays at carrying mates and the exhibit-level plan at Registry. Under the [v385A method](../incoming/v385A/README.md), actual resolving removes only that file's offering and retains its source and resolving in session artifacts; other placements remain until their own resolving. This is further method value from the comparison, offered independently here without prescribing implementation of the plan. — v385A
+
+**Aimed at a sentence, Natural Exploring, *Each involution carries a fixed set, where the move returns its argument unchanged*:** 5.1 names negation and set complement among the involutions, and these two carry no fixed set: negation returns is for is not and is not for is, and no set is its own complement where a thing exists. The offered explaining: negation is the alternating itself, and the binary's own move has no place where a counting is taken from. Next: resolving at this file's improving, the sentence said of the involutions that carry a fixed set, with negation and set complement said apart. — v386EOD
 
 ## Three left turns and three right turns at an observing · v385A
 

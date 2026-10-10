@@ -1,4 +1,4 @@
-Natural Resolver Possibling · v385A
+Natural Resolver Possibling · v386EOD
 
 # Possibling of Natural Resolver
 
@@ -41,3 +41,7 @@ The possible second code copy must be compared with the current single-naming an
 The earlier next-work paragraph proposed writing the golden rectangles and the open naming concerns, and comparing the sides at thirteen and sixteen and each-name relations with Natural Naming. The actual concerns remain in the [offering](Exhibit_ONE_Offerings_to_Natural_Resolver.md#droplets). The earlier proposal to release an unresolved concern is not a completed resolving into the living file.
 
 The possible six-forward comparison of the three workings is at [Possibling of Co-Chaining Logic Registry](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-six-forward-comparison-of-the-three-workings--v385a).
+
+## 5 read from the selves' carryings · v386EOD
+
+**Possible project.** At 17 the releasings at 5 arrive whole, and no name discovers which self a releasing reaches. The [offered explaining at Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod) has a sharing carried by both selves of its coupling, and each releasing reaching the other carrying that same sharing. The project is to say this at Exhibit ONE's names and stable forms: what 5 is where it is read from the selves' carryings at 3; what a sharing carried by two selves is at 4; and which of the tables' stable forms are the same there. It can remain a project and never be implemented. — v386EOD

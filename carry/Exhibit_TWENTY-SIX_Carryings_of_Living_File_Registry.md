@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v385A
+Exhibit TWENTY-SIX Living File Registry Carryings · gathered at v386EOD
 
 # Carryings of Living File Registry
 
@@ -72,6 +72,8 @@ The following arrangement was verified on 8 October 2026. A published branch hea
 | [working/transmissioning-v384A, pull request 126](https://github.com/chris-j-handel/corus/pull/126) | Session v384A's connected Transmissioning proposal and completed session value, open toward working/v381R. Keep its whole explaining beside earlier distribution proposals. Its stated pause or close and its GitHub open state are different facts. |
 | [working/session-report-v381F, pull request 121](https://github.com/chris-j-handel/corus/pull/121) | Earlier arriving and Registry work, open toward main, also represented in carryings/v381F. Compare actual remaining value rather than treating the branch and copied report as two new arrivals. |
 | [review/networking-engineering-2026-09-30, pull request 111](https://github.com/chris-j-handel/corus/pull/111) and [working/physics-motion-v377, pull request 106](https://github.com/chris-j-handel/corus/pull/106) | Earlier open offerings toward main with corresponding source material already in the carrying directories. Retain the difference between a copied report, an offered living-file candidate and fully gathered value. Do not merge or close them merely because copies exist. |
+| [working/orienting-droplets-v385Q, pull request 131](https://github.com/chris-j-handel/corus/pull/131), at 32955a90b9686b459fe858f967d61bb4ac7e90c5 | Session v385Q's finished one report, offered toward working/v381R. Added 10 October 2026. |
+| working/gathering-and-aiming-v386EOD | This gathering continued by session v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. Added 10 October 2026. |
 
 Other retained branches include work already in working/v381R's history and distinct older offerings. Their continued existence creates no further incoming stage. Repository ancestry was checked to locate already retained commits; it is not a concept-by-concept gathering result. No branch is renamed, deleted, merged or marked complete by this table.
 
@@ -278,6 +280,9 @@ The distributed groups have left Living Improving Value after placement. Their u
 | Completed session v385M | [One gathered report](../archive/session_v385M/Session_Report_v385A.md) is now an artifact. The placement table records the subject concepts; the continuing [sequential-colliding value](Living_Improving_Value.md#continuing-sequential-colliding-incoming--v385a) remains gathered with later correcting. | Follow the existing local droplets when file cohering begins. The developing surface comparison remains available without reopening this closed session or treating its old files as new incoming. |
 | Session v385Q | Its [one report](https://github.com/chris-j-handel/corus/blob/f5cb9ace2e9c09825a3e8758f985bf59255968d6/incoming/v385Q/README.md) is verified at pull request 130, working/observings-v385Q. Its nine contributing-method opportunities are gathered in [Living Improving Value](Living_Improving_Value.md#contributing-method-opportunities-from-session-v385q--v385a), compared with the now-published method. | Aim the remaining concrete tool-reporting, public-entrance, concurrent-version, repeated-concept and eventual branch-combining concerns. Its pull request is now closed; the remaining final-report collection is later incoming. |
 | Session v385R's whole report, now offered for wrapping | [Section 106](https://github.com/chris-j-handel/corus/blob/5ea829012a0a2e18f2fd50269dd8d2cd7c6a5964/incoming/v385R/Logical_Cohering_v385R.md#106-the-session-learning-incoming-as-whole-droplets) gathers twenty current-value clusters in its one report. Selected related concepts and correcting through sections 104 and 105 are already at this branch's mates; its surface correcting is already in Living Improving Value. | Compare each whole cluster with the existing concept and actual mates, extend missing value through Living Improving Value, and follow the fuller source conditions before claiming complete report gathering. Older incoming remains first; needed correcting accompanies existing uses now. |
+| Session v385Q's one report, at pull request 131 | Finished at 32955a90b9686b459fe858f967d61bb4ac7e90c5. Its six droplets for the orienting and incoming method are whole at [this Registry's offering](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#six-droplets-for-the-orienting-and-incoming-method-from-session-v385q--v386eod). | Gather its observings into the carrying mates, each in its two lines; its sayings at their offerings; its unfinished opportunities at the possibling mates. The droplets about a caution and the sayings resting on an executing that it names remain in the mates until the user's word. |
+| Session v386EOD | Its [first placings](#session-v386eod-the-gathering-continued-and-its-first-placings--v386eod) are at the mates. | Fifty-eight further droplets at sentences of the living files are listed in [its one report](../incoming/v386EOD/README.md), each awaiting a fresh reader at its publishing and its two lines. |
+| Session v386RR | Nearing its finish; no branch has arrived. | Gather its one report when it arrives. |
 
 ## Completed session and continuing logical help · v385A
 
@@ -543,3 +548,26 @@ All twenty-two marked paragraphs, twenty-two coverage records, four instrument-r
 Session v385R’s section 102, its corrected section-101 question and report front, and [return 6090018297](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6090018297) were read whole at d163a6704a376c7330639594394af6e63819ad49. Sections 1 through 100 have no substantive change beyond the report front. [The whole friendship offering](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) now includes the user’s next-encounter relation and the transcript/record and society-scale explaining. The older source help is acknowledged; the section-101 question is not retained as an unanswered request. The full developing report remains later incoming. The definition of living and universal deriving remain unresolved. Session v385M remains closed; no further request is sent there.
 
 Session v385R’s later section 103 and revised section-5 contents row were read whole at bbe6cf3af4b40001b7cbf63cff1672c1d831a612, with [return 6090079185](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6090079185). Section 102 has only a trailing-spacing change; no other numbered section changed. The [conversation correcting](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-two-discoverings-through-a-particular-conversation-correcting--v385a) is whole at Natural Values, [Natural Intelligence 5.2’s candidate](Offerings_to_Natural_Intelligence.md#arriving-at-the-exact-no-other-method-claim--v385a) is whole at its offering, and the [proposed contents heading](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-contents-heading-at-the-exact-method-claim--v385a) is possible Co-Chaining Logic Registry work. The full developing report remains later incoming.
+
+## Session v386EOD: the gathering continued, and its first placings · v386EOD
+
+**10 October 2026.** Sessions v385A, v385Q and v385R are finished, and session v386RR is nearing its finish. This session continues the gathering on working/gathering-and-aiming-v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. No living file is changed on this branch.
+
+Each placing was read at its living file by this session, and compared with what its mate already had, before it entered.
+
+| Placed | Mate | Kind |
+|---|---|---|
+| The next coupling, discovered as the next parity is | Offerings to Natural Intelligence, with its insertlet at 4.6 | concept and insertlet |
+| 5 read from the selves' carryings | Possibling of Natural Resolver, with a direction at Offerings to Natural Resolver | possible project |
+| Six droplets for the orienting and incoming method, from session v385Q | Offerings to Living File Registry | concept |
+| *podal* at two living files | Offerings to Natural Naming, with insertlets at Offerings to Natural Physics and Offerings to Natural Chemistry | naming and two insertlets |
+| The rows' lengths, and a citation of sections | Offerings to Natural Chemistry | insertlet and droplet |
+| A further line beside two droplets already there | Offerings to Natural Physics | two droplets |
+| The six numbers named primes | Offerings to Natural Biology | droplet |
+| The involutions with no fixed set, and minus unity | Offerings to Natural Exploring | droplet and insertlet |
+| A proof arriving by three right turns | Offerings to Natural Intelligence Corus | droplet |
+| The readiness ramp, and the nine cross-references at the locator's numbers | Offerings to Resolving the Hard Problem Registry | insertlet and two droplets |
+
+**Compared and not placed again.** Fourteen of this session's droplets were at sentences the mates already carry, most among session v383Op's droplets aimed at a sentence. Three have a further line or an insertlet beside them above. The other eleven are not placed again.
+
+**Released by this session.** Its droplet on the Greek of *geodesic*: a word's history has no authority over the files' naming.

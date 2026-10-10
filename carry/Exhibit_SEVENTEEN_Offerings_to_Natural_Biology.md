@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology Offerings · laid at v385A
+Exhibit SEVENTEEN Natural Biology Offerings · laid at v386EOD
 
 # Offerings to Natural Biology
 
@@ -87,6 +87,8 @@ The received *so-far* and *not-yet* naming concern applies at each particular pr
 The biology-transcript comparison located a shared interest in intelligence beyond brains; competency at cellular, organism and society scales; collective capacities beyond a description of parts; unfamiliar capacities through changed embodiment; and improved relating across different intelligences. (incoming/illustrating_v366/Session_Report_v366.md, §6 "Biology-transcript comparison"; source Biology_Transcript_Supplied.md in the kit) (re-aimed from Offerings to Natural Intelligence at v381R) — illustrating_v366
 
 The difference to follow is the relation of goals, memory and proposed patterns to continuing changing. The transcript explains goal-directed collectives, future conditions, memory and a proposed pattern space; Natural Intelligence explains co-offering, carrying, co-releasing and competency at the coupling. The shared words do not by themselves establish the same operation. (incoming/illustrating_v366/Session_Report_v366.md, §6 "Biology-transcript comparison") (re-aimed from Offerings to Natural Intelligence at v381R) — illustrating_v366
+
+**Aimed at a sentence, Natural Biology, *the six substrate-positions carrying nesting-table primes (cristae 22, renal 26, inner-ear 28, hepatic 33, bronchioalveolar 34, spermatogonial 38)*:** None of the six numbers is a prime: 22 is 2 × 11, 26 is 2 × 13, 28 is 2 × 2 × 7, 33 is 3 × 11, 34 is 2 × 17 and 38 is 2 × 19. Next: resolving at this file's improving, from the nesting table these numbers arrive from: which number is at each position, and what the table names a prime. — v386EOD
 
 ## Stemness pairings and codon content · v385A
 

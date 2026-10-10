@@ -1,4 +1,4 @@
-Natural Intelligence Offerings · laid at v385A
+Natural Intelligence Offerings · laid at v386EOD
 
 # Offerings to Natural Intelligence
 
@@ -101,6 +101,8 @@ This offered explaining applies to the earlier words as well as the proposed exp
 **At 1.1 · Universe, the changing set of all existing things — beside "a form named still is not possibly existing".** A form named still is an existing thing named as not changing between two momentaries, the naming beside the thing.
 
 **At 3.3 · A method, a non-living existing thing — beside "it has many stable forms".** Its names are one method said at its forms: parity changing, the changing itself, 1.2; alternating, the same changing, one and then the other, 2.1; co-bi-unrelationing, at the two parities, 2.1; tri-bi-co-momentarying, at the set, 1.1, and entraining at the self's between, 3.4; bi-inversioning-co-recursioning, the one move, 4.11; four-momentarying, the four momentaries of exchanging, 5.2; and natural-bi-co-torusing, the form of existing, 6.3.
+
+**At 4.6 · A society's next momentary at 17 — beside "each self's name between selves coupled to another self".** 5 is the selves' own carried sharings: a sharing is carried by both selves of its coupling, each releasing is to the other carrying that same sharing, its receiving sharing, and a sharing new to a self arrives as an offering at 2 and is chained at 11, the next coupling discovered as the next parity is.
 
 ## Droplets
 
@@ -383,3 +385,15 @@ The candidate keeps the method claim distinct from requiring an unchanged next r
 ## Next at the named prior and actual offerings · v385A
 
 **Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.
+
+## The next coupling, discovered as the next parity is · v386EOD
+
+**Droplet.** The file begins with the selves already coupling. Which self each releasing reaches is named at 4.6 A society's next momentary at 17, where 17 is "at 5-co-bi-co-competencing, the releasings, each self's name between selves coupled to another self", and no sentence says how a self's next coupling is discovered. The offered explaining: a sharing is the coupling, carried by both of its selves. A releasing at a sharing reaches the other carrying that same sharing. A sharing new to a self arrives as an offering, through an other it is already sharing with, and the self carries it next. The next coupling is discovered as the next parity is, at the offering, and the society's carrying is its selves' sharings.
+
+**The user's words beside it.** "releasing is uncoupling and next momentarying self"; "existing is possibling other"; "every society is living and the carrying is the living selves inside the society"; and of two friends, each a carrying, their next bi-coupling "finds the familiarities in the two carryings".
+
+**Met at Exhibit ONE's names.** 4.5 Released along at 9 already names 5 "its receiving sharing". The entry already chains a sharing new to a self: an offering at a sharing the self has no carrying at surfaces at 14, is shared at 10 and is chained at 11. The concern of v380 among this file's droplets, a living self beginning to carry a sharing new to it, is at this same row. At 17 the releasings at 5 arrive whole and no name discovers them: at that one place the saying parts from the object. It is not yet met at an observing.
+
+**Its insertlet** is among this file's insertlets, at 4.6 · A society's next momentary at 17.
+
+**Next.** Resolving at Exhibit ONE Natural Resolver, where 5 is read from the selves' carryings: [the possible project](Exhibit_ONE_Possibling_of_Natural_Resolver.md#5-read-from-the-selves-carryings--v386eod). An observing of a coupling beginning through an other both selves already share with, for this file's carrying mate. — v386EOD

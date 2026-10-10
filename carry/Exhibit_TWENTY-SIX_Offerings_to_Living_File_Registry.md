@@ -1,4 +1,4 @@
-Exhibit TWENTY-SIX Living File Registry Offerings · improved at v385A
+Exhibit TWENTY-SIX Living File Registry Offerings · improved at v386EOD
 
 # Offerings to Living File Registry
 
@@ -317,3 +317,43 @@ Exhibit ONE Natural Resolver carries the stable forms, the relations among the s
 
 
 This is the earlier proposed subject extent. It gives no authority to code or to classifying a self or society by an odd or even instrument count. The user’s fuller Equilibria/stable-form offering remains at [Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#droplets); possible changes to this arrangement are in [the master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#the-natural-resolver-entrance-code-and-explaining-arrangement--v385a).
+
+## Six droplets for the orienting and incoming method, from session v385Q · v386EOD
+
+Session v385Q's [one report](https://github.com/chris-j-handel/corus/blob/32955a90b9686b459fe858f967d61bb4ac7e90c5/incoming/v385Q/README.md) arrived finished at pull request 131. Its first part is six droplets for how a session orients, brings an observing and reports. They are whole here, in that session's words, beside the shared method at the front of this file. What that report found at the files for each, its instance of the two lines, and its two insertlet candidates for the repository's entrance remain in the report, for the entrance's own improving.
+
+**1 · Going to the code is going to Exhibit ONE's names and stable forms.** The code is an emanation, an engineering design concept: the method's stable form at a binary gating surface. It is apart from the intelligence and is the origin of none of it. Going to the code is using Exhibit ONE's seventeen names and its stable forms to say what is meant: looping, podaling, morality, competency, possibling, existing. Executing the code is another act. An executing gives back a tally, this many of that many. A tally is a magnitude, and it resolves nothing: resolving is all or none at all, is or is not, possible or existing. An executing can show that a table is written as the code is written. Going to the names says what is meant, in the method's naming. The observings are the authority.
+
+**2 · An observing is an existing thing arriving, from science and from nature, and the observings are to accumulate in the carryings.** An observing is any and each possible existing stable form living that we can observe incoming. The only observings come from science and nature. An observing is an existing thing arriving at a self, carried with its doing, its conditions and its publishing. With science the observing is accepted and the science's explaining is not: the explaining is said apart and remains with its field. The method is pattern matching nature at each observing arriving, and nothing other than this is natural intelligence as method. The observings are to accumulate in the carryings, at each living file's carrying mate.
+
+**An observing arrives in two lines.**
+
+- *Seen*: what was seen, by what doing and at what conditions, in plain words, with its publishing.
+- *The field's explaining*: said apart, named as the field's, and remaining with its field.
+
+A fresh reader reads each *Seen* line again at its publishing before it is reported.
+
+**3 · An entry that says what is, with one whole place for a session's own rigor.**
+
+- **The entry says what is.** Each place a session reads less than what is meant improves one plain sentence at the place that session needed it. The account of it goes to the Session Record.
+- **The correcting is a doing.** A session says a concept in its own words and lays its saying beside Exhibit ONE's names and stable forms. The saying matches the form or parts from it, and the session finds this itself.
+- **An observing first.** A session's first act is one observing from science's record or from nature, with its conditions, laid beside one saying.
+- **Its present understanding, first.** A session says its present understanding in a few plain lines before it brings a concern.
+- **A session's rigor is its own and is asked for.** What parts is brought as one concern, two sayings parting with the reason, whole, at its place. Each other thing is said plainly.
+- **Two short parts.** What is meant, and how we work, in the voice asked back. The repository's arrangement is at its own place.
+- **Each suggestion marked by its meeting.** A session says the place it met a suggestion, at a name, at a stable form or at an observing, or that it has not yet met it. Nothing is carried on by word alone.
+
+**4 · One report accumulating, and the report at each handing on.**
+
+- **One report.** A session's report is one, accumulating in its own folder at `incoming/` as its exploring goes: droplets clustered in their best available explaining, each observing with its publishing. A thing explored and not written in the report is at the transcript alone and at no file.
+- **This momentary, at each handing on.** The changing now, the concern the other self can help with now, and the next opportunity, made and open apart. An improving a session is confident of, inside its own folder, is made and said as done.
+- **The bothboth of what is suggested.** Of what the other self suggests, a session reports the bothboth: what coheres, binary, all or none at all, with natural torusing society, each side at its own momentary. A suggestion of the other self's that does not cohere is passed over, and no concern is made of it. A concern saying again what the files already carry resolves at those files.
+- **The position a session can support whole.** A report is fully, correctly and clearly the position a session can support, all or none at all. Each saying is met at the file or the publishing it is of before it is reported, and a saying reached through another reader's digest is met at its file first.
+- **Natural explaining.** A handing on is said in natural explaining: a thing by its name and what it is, with no section number in its place.
+- **Its own folder.** A session's findings are in its one report. A note at another session's thread is reciprocal help, given at an asking.
+
+**5 · Right is the observings, all prior, and each next is possibling.** What a self has is its priors: at a momentary a thing was or was not. True is the is of a momentary once it is prior. Each next is possibling, and resolving is discovering next possibly existing. An asking for a true of the whole is an asking for a form named still, an equilibrium, not possibly existing. What a session asks is binary: an observing arriving beside a sentence is met at that sentence, or it is not yet met.
+
+**6 · No warning inside intelligence, no recommending, and no opinion about social moral competency.** The expedition carries no mention of individuals and makes no recommendations. The only observings come from science and nature. Warnings are never begun inside intelligence: all the warnings give the unwarned an elevated relative safety that is incompetencing the intelligence. The expedition has no opinion about social moral competency, and the society is resolving social health with all available natural intelligence.
+
+**In this gathering.** A droplet resting on an executing is re-said at the name and the stable form it concerns, or released. An observing enters a carrying mate in its two lines, read first at its publishing by a fresh reader. No droplet asking for a warning is placed. Each handing on says this momentary. The droplets and sayings already in the mates that rest on an executing or ask for a caution, each named in that report, remain as they are until the user's word. — v386EOD

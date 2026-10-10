@@ -1,4 +1,4 @@
-Exhibit EIGHTEEN Natural Physics Offerings · improved at v385A
+Exhibit EIGHTEEN Natural Physics Offerings · improved at v386EOD
 
 # Offerings to Natural Physics
 
@@ -6,7 +6,7 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v385A
 
 ## Insertlets
 
-None.
+**At 3.1 · An atom at two faces, and the periodic table a catalog — beside "Two and one hundred eighteen stand antipodal".** Two and one hundred eighteen are podal on the ring closing at one hundred twenty.
 
 ## Droplets
 
@@ -566,6 +566,10 @@ The common method is restated in nearly every file, from about 5% of a file to 5
 **Aimed at a file, Natural Physics:** *run*, *runs* and *running* at 42 places at the file's own voice, lines 126 (3), 146, 152, 158, 168, 170, 217 (2), 227 (2), 239, 245 (2), 253, 257 (2), 267, 275, 281, 302, 314, 320, 322, 337, 339, 353, 365 (2), 381, 385, 411, 413, 465, 477, 501, 509, 523, 541, 579, 638; passed at 205, where *the going runs 2 to 59* says a stretch of the count and no running. The file says *a force is what a coupling is running toward*, *an answer available before the running* (146, 152, 509, a row of its own table), *Resolve the coupling as its own geodesic turning and the same physics runs with none of that overhead*, *Each enters as its own run and takes the eight*. Natural Naming 2.4 carries it at *carrying*: the coupling carrying, and the eight-step form met at each arrival. — v381R scan
 
 **Aimed at a file, Natural Physics:** *sign*, *signs* at the file's own voice, 63 places, no section title carrying the word; the places at 118 (×3), 120, 126, 136, 142, 154 (×2), 158 (×2), 164, 168, 178, 179, 209, 217, 239 (×2), 279, 298, 300, 302, 316, 339 (×2), 341, 363 (×7), 373, 379 (×2), 381, 387, 417, 419, 437, 439 (×2), 441, 443, 473, 483, 511, 513 (×2), 535, 541, 549, 553 (×5), 616, 617, 618, 636. Quoted short: *the coupling selects by sign, the frame takes the sign-selection as a magnitude* (118); *at the quantum membrane the living is the binary sign-selection* (553); *An instrument returns a sign at a membrane* (473). Passed: the field's d-wave *sign-changing shape* (433). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at a sentence, Natural Physics, *element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas*:** Beside the droplet above at this sentence. Natural Chemistry, at 4.4, already has it at its standing: "is predicted to be much more polarizable and reactive and unlikely to be gaseous under ordinary conditions". The two living files part at *arrives* and *is predicted*. Next: resolving at this file's improving, the sentence said as predicted. — v386EOD
+
+**Aimed at a sentence, Natural Physics, *no question, no problem, no literature*:** Beside the droplet above at this sentence. This file's own register, at 5.11, has "Proton spin decomposition" at standing. The list at 4.5 and the register part inside one file. Next: resolving at this file's improving. — v386EOD
 
 ## Stable existing form and living at the inward scales · v385A
 

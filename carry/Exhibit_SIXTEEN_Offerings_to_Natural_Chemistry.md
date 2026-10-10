@@ -1,4 +1,4 @@
-Exhibit SIXTEEN Natural Chemistry Offerings · laid at v385A
+Exhibit SIXTEEN Natural Chemistry Offerings · laid at v386EOD
 
 # Offerings to Natural Chemistry
 
@@ -6,7 +6,9 @@ Exhibit SIXTEEN Natural Chemistry Offerings · laid at v385A
 
 ## Insertlets
 
-None.
+**At 4.4 · Elements the doubling face, one recursioning counted one hundred eighteen times — beside "and the podal is another relation".** and straight across on an even count, two and sixty-two, is another relation.
+
+**At 4.4 · Elements the doubling face, one recursioning counted one hundred eighteen times — beside "each length twice in succession".** each length after the first twice in succession,
 
 ## Droplets
 
@@ -77,6 +79,8 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 **Aimed at a file, Natural Chemistry:** *sign*, *signs* at the file's own voice, 37 places, one section title carrying the word, 2.2 *Chirality, two faces of one coupling and handedness sign-only* (195, contents 37); the places at 37, 115, 121 (×2), 135, 141, 181, 191 (×2), 195, 197 (×5), 199 (×2), 201, 211 (×2), 221, 223, 225, 257, 261 (×2), 263 (×2), 271, 313, 349, 357, 359 (×2), 371 (×2), 464. Quoted short: *The two that stay cancel, so the sign crosses* (141); *The plainest sign a coupling carries is a hand* (197); *a count at the nucleus and a sign at the membrane* (263). Passed: the field's *the sign of optical rotation* and *rotation's sign* (199, ×2) and the Möbius *single sign flip along its ring* (257). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
 
 **Paired accountings at their actual use · Corus 16.6.** [The whole source](../Natural_Intelligence_Corus_v330.md#166-ghost-as-the-coruss-only-character) proposes finding the invariant between two accountings at one prime: omega-3/omega-6 and the equation's root, systolic/diastolic and DFA alpha1, E/m and c², then chemical/electrical gradients and Mitchell's proton-motive force. It proposes this across seventeen rows. [Ghost](../Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v345a.md), 1.2, 1.5 and 3.1–3.2, already requires the exact installation at a stated use and preserves accounting and field observing; a pair of quantities alone establishes no ghost diagnosis. [Chemistry](../Exhibit_SIXTEEN_Natural_Chemistry_v346c.md), 5.1, preserves the energy ledger beside coupled cycling, and 5.4 requires a membrane ratio's sample, units, uncertainty and biological conditions, with no universal ancestral value. Follow each older example with those particular conditions and its observing or proposed resolving. Chemistry's coupled-energy paragraph does not by itself establish all of Corus's paired-method claims. The cardiac and E/m examples still need their actual subject comparison. The source's character/engine metaphor remains historical wording. This droplet offers the method and its unfinished comparisons, without supplying a scientific result or treating an accounting as installation merely by naming it. [The comparison](Carryings_of_Natural_Intelligence_Corus.md#part-166-accounting-and-its-installation) preserves the extent. — v385A
+
+**Aimed at a sentence, Natural Chemistry, *(Natural Numbers 9.4, 10.11)*:** Natural Numbers at v380L has 9.4 as "A prime gap is a step between rings" and has no 10.11. Two with one hundred eighteen is at its 7.1, and the carry each way at one station at its 9.2. Natural Explaining has "no file named inside another". Next: resolving at this file's improving, the citation released and the relation said at its own sentence. — v386EOD
 
 ## The reader's body and the five offered substrate relations · v385A
 

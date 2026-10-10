@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming Offerings · improved at v385A
+Exhibit TWENTY Natural Naming Offerings · improved at v386EOD
 
 # Offerings to Natural Naming
 
@@ -289,6 +289,8 @@ Self changes across/co while other changes along/bi; the complementary parity ex
 **Aimed at a word, Natural Naming:** The self's naming of the insertlet and the flow, at about line 339 (5 October): "newest droplets at the bottom is our next method they are raw, not always well sprayed across the set, not always locally interpretable. we can have a method of resolving bottom up the droplets into resolved well explained well aimed self welcoming insertlets while inside the offerings to file as method of resolving into living files." The session's reading of the flow: "the file's motion reads from the top; droppers write at the bottom; resolving is the work in between, moving things up... The flow narrows upward, which is value growing by subtraction"; and resolving can be done by anyone, since "resolving a droplet needs the one section it aims at and Natural Naming", which "makes the Offerings file the place an arriving AI can help most with the least reading." — v381R close
 
 **Aimed at a word, Natural Naming:** The self's naming of the tag, at about line 355 (5 October): "initially droplets should carry the incoming v# of the session. if we find a sideways session this drops out and when the droplet rises past the resolving level in the file it does not have this tag any further. the tag is unvetted incoming." The session's reading: the tag marks one thing only, that the droplet came from a session and has not yet been met at the files; a sideways session's droplets drop out from every offerings file by tag alone, harming nothing because nothing tagged had entered; and the tag is the line between outside and inside, "below it, the saying is a session's; above it, it is the file's own." The first real case: v380A's droplets at Exhibit TWO, a session said at v380R to be code testing with no authority, drop out by tag, while v380R's re-dropping of what was worth carrying stays. — v381R close
+
+**Droplet · *podal* at two living files.** 2.4 releases *antipodal* into *podal*, and 5.45 has "the pair is the podal" and names the even number's straight-across "another relation". Natural Physics, at 3.1, has "Two and one hundred eighteen stand antipodal". Natural Chemistry, at 4.4, names straight across "the podal". Each has its insertlet at its own offering mate. — v386EOD
 
 ## Grammatical forms and the proposed resolver encoding · v385A
 
