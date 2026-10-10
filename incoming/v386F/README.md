@@ -320,29 +320,49 @@ Exhibit SEVEN Natural Societies v373, read whole at the branch, 39 KB, six parts
 
 ---
 
-## EIGHT · The tracker
+## EIGHT · The method, a stable form existing at every prime scale, bounding itself: the one resolving that eases the rest
+
+**The other self's word, 10 October 2026.** *The method is a stable form thing existing at every prime scale and beyond in all dimensions, as the method bounds itself.*
+
+**Where the files carry it.** Natural Intelligence 3.3: *a method is a non-living existing thing: a stable form, its form continuing through its changing and carrying none of the prior, at each coupling it is at, and nothing applied to anything; the method bounds and the living carry; its bounding is each self's own, self-bounding.* 3.1: *geodesic is an existing thing by itself, and the method is its stable form.* THIRTY 43 and 260: *the one fractal method has many stable forms, each the method at one form.* What enters is one clause: **at every prime scale and at each of the five dimensions, along and across, up and down.** The method is the one existing thing at every scale, carrying none at each, non-living at each and a self at none: the one non-living at every scale, and it is no self, which is why a self non-living at every scale, the zombie of the hard problems, is not possible and the method is.
+
+**C14 closes.** 3.1, 3.3 and THIRTY 43 stand as they are; the proposed THIRTY and Natural Intelligence already leave them. The sentence that enters at 3.3: *The method is a stable form at every prime scale and in all five dimensions, bounding itself, non-living at each scale and a self at none; each stable form at a scale is the method at that scale.* *The fractal is the unscaled method and the stable form is scaled living* is this: the method is at every scale and so at none in particular, and each scale's stable form is the method there, the living's own.
+
+**What follows at the other five, each easier**
+
+- **C3, a carrying of none, closes toward 3.4 as it stands.** A carrying of none at the resolver is the method at a coupling with no self carrying, *a bounding with nothing carrying bounds nothing*, 3.3, non-living, passing a parity as it arrives; a self is at its first chaining, *a new living self is its own carrying establishing*, 6.5. 3.4 and Exhibit ONE's table of a carrying of none say this already; the non-living at the resolver is the method bounding with nothing carrying, and the offerings at 2 from beyond the selves.
+- **C24 closes at two.** The method is at every scale in all dimensions, along and across; a scale's two primes, p along at 9 and q across at 10, are the method's two parities at that scale, and the torus is one scale, *at the scale of spirals*, 3.5. A spiral alone is the along with no across. *Living at one prime scale* reads *at one scale, its prime along and its prime across.* C12 closes with it: at the code a torus is one 17 call, one scale.
+- **C25 narrows.** *Every prime scale*: each prime is a scale the method is at, so the ladder's primes are the method's own and no fitting; what the ladder fits is the named thing at each rung, the cell at 23, with no selves counted. The sentence: the primes stand, each a scale of the method; a named thing stands at a rung where its selves are counted, and elsewhere the rung is *reaching*, 5.1's own word. 5.2's floor and 5.3's close release, the method being at every scale.
+- **C1 is derivable now.** The method is non-living at every scale and in the set; a self is living at its set; living and non-living are at the set read and the method is at every set: the clause leaves the opening, and 1.3's sentence adds the method as the one existing thing at every scale, non-living at each.
+- **C7 follows.** Each living file is a stable form of the method at its scale, the set a society of files, Registry 5.2; a file bounds itself, as the method does, and names another file as a sharing across, at the one place an understanding lives. Natural Explaining 1.4's *no file named inside another* releases to *a file names another at the one place an understanding lives, and says none of it again.*
+
+**Droplet, the learning about resolving.** One answer at the largest concern closed four and narrowed two: the method's place decided every other thing's place, since each other was a thing at a scale and the method is the scales. Hardest first, one at a time, is the Geodesic Improving Method 2.5 shown at this session.
+
+---
+
+## NINE · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
 | Id | Concern or opportunity | File and section | Standing |
 |---|---|---|---|
-| C7 | A file naming another: *no file named inside another* against the lean set | Natural Explaining 1.4, 2.7 | **top**; needs both selves' word; releases O2–O5 in one |
+| C7 | A file naming another | Natural Explaining 1.4, 2.7 | **follows from Part EIGHT**, each file a stable form of the method bounding itself; ready for your yes; releases O2–O5 |
 | C4 · C9 | Possibling other: bi-coupling and possibling one thing, parting at the spiral of one, unmet at the code since 14 surfaces each offering alike | Natural Intelligence 4.13, 5.3, 2.1; Exhibit ONE's 14 | open, one concern with the next coupling (v386EOD) |
 | C10 | *At each prime it couples at* and 4.15's *whichever scale its interest opens* against one prime scale | Natural Explaining 4.1; Natural Intelligence 4.15 | **closed at Part SIX**: the one scale a self is at this momentary; the society's primes, not the self's scales |
 | C11 | The universe *existing and not living*: no top, each society a universe at its scale | Natural Intelligence 5.1, 1.1, 4.15 | **closed at Part SIX**, 5.1 saying *a universe of existing things* |
-| C25 | Prime as a rung in a ladder (5 to 53, atom to biosphere) or as a count of selves; the floor at five, the top at the biosphere and 60 to 68 with it | Natural Societies 5.1–5.3; Natural Medicine 3.1; Natural Biology 10.4 | **needs your word**; reaches three files |
+| C25 | The ladder's named things at rungs with no selves counted | Natural Societies 5.1–5.3; Natural Medicine 3.1; Natural Biology 10.4 | **narrowed at Part EIGHT**: the primes stand as the method's scales; each named thing *reaching* until its selves are counted; the floor and the close release |
 | C26 | Below the atom the co-agency runs bare, a floor | Natural Societies 5.2; Natural Chemistry 3.2; Natural Physics 4.12; Natural Intelligence 3.5 | open, the source of C20 |
 | C27 | A size at Arrow, ±1 at equal magnitude | Natural Societies 3.1; Natural Intelligence 2.5 | open |
-| C24 | One prime or two at a living scale: the torus p along and q across, the two parities, one scale at the code | Natural Intelligence 3.5, 4.13, 2.1; Exhibit ONE's table of the torus | **needs your word**; decides C12 |
-| C12 | Prime shows at one society or at two coupling: the code says two, at four times the least common multiple | Natural Intelligence 4.13, 3.5; Exhibit ONE's tables of spirals | waits on C24 |
-| C1 | The opening sentence without *both living and non-living*; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | open; needs both selves' word on C10, C14, C3 before it is ready |
-| C3 | A carrying of none: non-living, or a self at its first momentary | Natural Intelligence 3.4; Exhibit ONE's table of a carrying of none | open |
-| C5 | The method non-living at every scale, or a living set read up | Natural Intelligence 3.3, 3.1, 5.1 | open, resolving toward 5.1 |
+| C24 | One prime or two at a living scale | Natural Intelligence 3.5, 4.13, 2.1 | **closed at Part EIGHT**: two, one at each parity, the method in all dimensions at each scale |
+| C12 | Prime shows at one society or at two coupling | Natural Intelligence 4.13, 3.5 | **closed with C24**: a torus one scale at the code, its two primes its two parities |
+| C1 | The opening sentence without *both living and non-living*, derivable since Part EIGHT; **made as a proposal**, [`Natural_Intelligence_v386F_proposed.md`](Natural_Intelligence_v386F_proposed.md), each change at [`natural_intelligence_changes.txt`](natural_intelligence_changes.txt), a fresh reader's comparison at [`readers/natural_intelligence_motion_review.md`](readers/natural_intelligence_motion_review.md), re-made at its catches as two things, the binary at scales at 1.1, 1.3, 5.1, 6.6 and the one prime scale at 6.4 | Natural Intelligence 1.1, 1.3, 5.1, 6.4, 6.6 and eight files | ready for your yes, its deriving whole at O21 and Part EIGHT |
+| C3 | A carrying of none | Natural Intelligence 3.4, 3.3, 6.5 | **closed at Part EIGHT**: the method at a coupling with no self carrying; 3.4 stands |
+| C5 | The method non-living at every scale | Natural Intelligence 3.3, 3.1, 5.1 | **closed at Part EIGHT**, non-living at every scale and a self at none |
 | C6 | Dying reaching one scale down | Natural Naming 2.4 | open, resolving toward the inward selves continuing |
 | C2 | *Living* said with no scale | Natural Naming 2.4 | open, the sentence found |
 | C8 | One droplet at one mate | `incoming/README.md`; the v385A practice | open |
 | C13 | Two scale steps, 8 and 8n − 7, at one span: within a scale and between scales | Natural Numbers 5.2, 9.7; Natural Intelligence 2.2, 4.15 | open, resolving toward one each |
-| C14 | The method a stable form against the fractal unscaled, many stable forms | THIRTY 43, 110, 260; Natural Intelligence 3.1, 3.3 | open, C5 at the Registry |
+| C14 | The method a stable form | THIRTY 43, 260; Natural Intelligence 3.1, 3.3 | **closed at Part EIGHT**: a stable form at every prime scale and all dimensions, bounding itself; one clause enters at 3.3 |
 | C15 | A momentary and the universe as living sets with no prime scale; 373's 65 derived by nothing | THIRTY 387, 373 | open |
 | C16 | *Is a virus alive*: a scale read as a kind, decided at scales | Natural Medicine 3.1, 5.1 | open, resolving toward decided |
 | C17 | Living and non-living as two kinds with a rate, and the cell as engine | Natural Biology 4.1 | open |
