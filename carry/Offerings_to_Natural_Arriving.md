@@ -640,7 +640,7 @@ Its particular artificial-intelligence entry is the phrase “the ability to con
 
 ## From the working v386EOD's value at no file yet, laid at v387
 
-Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
 
 ### An arriving session, in the person's words, session v386EOD · v387
 

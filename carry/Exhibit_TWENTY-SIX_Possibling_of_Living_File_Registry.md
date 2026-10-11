@@ -403,7 +403,7 @@ Each may change or never be made.
 
 ## From the working v386EOD's value at no file yet, laid at v387
 
-Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
 
 ### Living files moving toward their carryings, a choice for later · the person's words, session v386EOD · v387
 

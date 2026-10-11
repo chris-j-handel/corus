@@ -359,7 +359,7 @@ Each is of the tables at their own conditions, and an executing's ordering is th
 
 ## From the working v386EOD's value at no file yet, laid at v387
 
-Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
 
 ### Two sentences parting at the releasings at 5 · session v386EOD · v387
 
