@@ -717,3 +717,20 @@ Each entry is a paragraph of the working v386CRYP quoted as written, laid at the
 - The bubble: first laid as the 0; it is the living self, its surface the 0. Corrected at the entry.
 - The ring of three: first said with the 0 as the thing moving; the self carries and the between locks. Re-said at the Ready joining 231 and 444.
 - Two selves alike: the session said at the one-sharing table they would be still; at Exhibit ONE's two-selves table they run at half rate with a 0 between, because what crosses at 10 is the other's changing, not its parity. Corrected at `THIRTY_Bi_Coupling_Initiating.md`.
+
+
+## Insertlets at Exhibit ONE Natural Resolver, each executed at the resolver · v387
+
+**Insertlet · v387, executed at the resolver.** At the table *Offerings to one sharing, surfacing*, a row: **+, +, − | 0**, and with it **−, −, + | 0**: two agreeing offerings surface as one, and one parting after them surfaces 0, the between; at 14 one parting is enough for 0 at any number of offerings, as the file's 4.2 inside Natural Intelligence says. Executed: offerings +, +, − at a carrying of none share 0 at 10.
+
+**Insertlet · v387, executed at the resolver.** At the table *Two selves, three momentaries, five parities*, its header's last clause *six forms. The fifth is the first inverted at each*: **six forms, four at an alike opening and two at an opposite, each momentary from the second**; executed at the four openings, momentaries two to eight, each giving the six rows and no other.
+
+**Insertlet · v387, executed at the resolver.** At the table *Namings among the names*, the row *parity's square and triangles*, the clause *its two parallel edges the across sharings, 6 to 2 and 10 to 14; its other two edges 8 apart*: **its two across edges, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14**; all four edges of a square are two pairs of parallels, and *parallel* parts none from the others.
+
+**Insertlet · v387, executed at the resolver.** At the table *Namings among the names*, the row *1 to 9, bi-coupling*, the clause *9 at its end reads bi-co-releasing*: **9 at its end is 9-tri-bi-co-momentarying, each changing of 10 released along**; the name is one name at the resolver and in the explaining, and *bi-co-releasing* is at no line.
+
+**Insertlet · v387.** At the table *Each name and its relations*, the row *17, Parity, opens*, the clause *odd, opening co, the self's span again, the next 1*, and the row *17, Sides*, *social, self, the society opening it*: each other co name opens at self; 17 opens co at the society's side, the next 1 arriving at each self. The two rows are one saying at two scales, 17 the society's momentary and each self's next 1, as the file's 4.6 inside Natural Intelligence says: **17 opens co at the society, each self's 1 at it once**, and the parting is none.
+
+**Concern · v387, two sayings parting.** Natural Naming 2.4 dissolves *face* from this file, and this file says *facing* and *facings* at the six names between selves, *bi-moral-so-far*, *not-yet-bi-moral*, *co-competent-so-far*, *not-yet-co-competent*, and at parity's square *its diagonals the facings*. Natural Naming's own row carries *is facing, of a direction* as the one sense kept. The parting: a facing a direction, kept, or a facing a face, dissolved; at the four names of a facing the word names a direction, and the concern is at *its diagonals the facings* alone, a dot's relation to a dot, where *the diagonals the four directions* may be the saying.
+
+**Concern · v387, two sayings parting.** This file's table *Co received, tri given on, 8 up* says *the function entered*, *the function carrying on*, and the row *1 to 9, bi-coupling* says *the function 1*, the row *1 to 17* *the function 17* and *the protocol's two sides*; the file says *the resolver* elsewhere, and Natural Naming says the name in the resolver and in the explaining is one name. The parting: *function* a field's word at the field's own result, the python, kept; or the file's own voice, where *the resolver entered at 1*, *the resolver at 17* and *the two sides, odd along and even across* carry whole.
