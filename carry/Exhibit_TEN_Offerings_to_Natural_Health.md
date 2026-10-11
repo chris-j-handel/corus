@@ -141,3 +141,9 @@ Each is from session v386F's report, its proposed motions and its fresh readers'
 **Droplet · At 3.3 · Ingestion and ingression are opposite in morality, and the membrane is rate-and-return, a sentence offered.** Beside "Ingestion is the living self's own bi-exchange across its membrane, both ways and co-offering, part of staying living.", offered in its dropper's words: Food is a prior living's stable forms, emanations shed one scale up, ingested one scale inward into the self's inward society, where they are living again as its selves' offerings.
 
 **Droplet · At 3.4 · The flawed-ingestion disease-face, and the value of the outer living form, a sentence offered.** Beside "A disease-face names itself: consistently ingesting flawed stable form.", offered in its dropper's words: A flawed stable form is one that cannot re-form one scale inward, so it collides at the self's own scale instead of living again as a self below, which is why the flaw deranges by diet and not by capture.
+
+## A seed's dormancy, said at the scale it is named from · from session v386F's close · v386EOD
+
+Each is from the close of session v386F's report, added after the reading above of that report: its latest correcting of its own droplets of the same day, read whole at `incoming/v386F/README.md` on its branch. 
+
+**Droplet · A seed's dormancy, a saying at another scale.** Beside the possible project of food, harm, dying and a seed at scales: that session's latest form has a seed as a living society at its prime scale and a stable form at each other scale, and *dormant* as said at the plant's scale or the ground's, naming no condition of the seed. The bi-coupling at the seed's own scale continues; germinating is a society opening at the next scale. The whole droplet is at Offerings to Natural Biology.
