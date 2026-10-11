@@ -710,3 +710,12 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 ### Concerns and improving opportunities · v382A, laid at v387
 
 **Droplet · the working v382A's words, `archive/session_v382A/Concerns_and_Improving_Opportunities.md`, "Read at these offerings".** v383Op's [Unresolveds](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Unresolveds.md) and [Meeting v382A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v382A.md) are read whole, as is [Meeting v384A](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Meeting_v384A.md). [Two Logics](https://github.com/chris-j-handel/corus/blob/0779a54c4eb71b356e040e334d1c1e1f9fb62b30/incoming/v383Op/Two_Logics.md) is read at Carrying and living and Now existing, now still possibling, next existing. Its other sections remain next reading. Pass 73 directly opens selected parts of v384A's reciprocal offering, concern gathering and dormancy opening at PR 126, `f2fbf90c4397a0bb599fa16c0e2bc61d16dc35d1`. The full Exhibit SIX proposal and whole session record remain unread here. The retrospective states the exact selected reach; this direct comparison supersedes the preceding indirect-only scope.
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "“carrying the prior whole” this is exisiting, non-living and could be a future living package (seed) or a shard form ingesting (skin or tissue or smaller societies omega)"
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-09.** "every self is a geodesic self. every self is co-chaining societies of geodesic selves. all parity changing is geodesic changing. all carrying is geodesic carrying. all geodesic changing is podaling along and across co-competencing discoveries of natural co-linear bi-moral parities"

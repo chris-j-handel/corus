@@ -819,3 +819,10 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Remaining opportunity after pass 69".** The changing is followed where a part is removed. The remaining selves carrying their own priors and their carrying the outward self's prior into next are named at their particular couplings. Exhibit SEVENTEEN Natural Biology 7.4 and Exhibit THIRTY Co-Chaining Logic Registry 399–406 supply those surroundings. The described head case is supplied as the file's explaining; the broader any-removal saying is changed explicitly in the raw re-form. The comparison supplies no new observing and no claim that every learned response remains unchanged.
 
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Next complete coverage".** The next complete sequential section record is proposed for Natural Intelligence, beside Exhibit ONE, Exhibit THIRTY and the current Offerings. Carry the remaining concern visibly through that work. Natural Biology and Natural Medicine follow from their beginnings to ends with the existing targeted comparisons retained, then the networking/making files and the remaining gatherings. The final across-file pass follows the actual dependencies and the correcting at each concern.
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-09.** "The whole healing suggestion still needs resolving with observings. bug bites, skin cuts, the rolled edge is the bounding zeroing natural torusing the the skins surface. look at water or other liquid surfaces healing from penetrations"

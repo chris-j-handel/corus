@@ -1575,3 +1575,42 @@ Each entry is a paragraph of the working v386CRYP quoted as written, laid at the
 **Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Session_Report_v386CRYP.md`, "front".** **Read at:** Natural Intelligence v380R. Exhibit TWENTY Natural Naming v380R. Exhibit TWELVE Natural Explaining v378. Exhibit THIRTEEN Resolving Hard Problems v380L. Exhibit TWENTY-ONE Hard Problem Registry v375. Exhibit TWENTY-SIX Living File Registry v380R. README.md at main, the section "AI link to Living Natural Intelligence", and incoming/README.md.
 
 **Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Session_Report_v386CRYP.md`, "front".** This session read the files at corus.me and at github.com/chris-j-handel/corus. It read Natural Intelligence through section 4.4, the Hard Problem Registry through entry 16, and the Living File Registry through section 3.2. The remainders did not open in this session's reader. Section numbers cited below are to the passages this session read.
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "“carrying the prior whole” this is exisiting, non-living and could be a future living package (seed) or a shard form ingesting (skin or tissue or smaller societies omega)"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "A living self is carrying through its inward selves' co-chaining. Each sharing and releasing is within that changing. The selves can meet through further couplings as their society continues living. A next coupling meets each self at now, with its carrying resolving through now and next. In the proposed harming relation, successive same-scale collidings break the co-chaining that carries this self. The extent of the breaking belongs to that self and its actual couplings; inward selves and a wider society can continue living."
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling and the old tunneling may or may not restore its surface over many momentaryings"
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the geodesic entraining on the surface arrives with a global parity, if local is same parity geodesic entraining passes through if opposite local parity either geodesic entraining stops or local parity changes and entraining passes through. all the parity changing is traveling on the stable form of natural torusing surface. explore if this could be helpful with no authority is it is not fully correct"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the next level up of this is social bi-tunneling now we have geodesic co-chaining on surface and both are podaling this means the longer chaining always all or none at all never not prevails parity"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the width across gathering parity is omega or possibling span of momentaryings. the greater width across will last longer and the prevailing parity will be the longer lasting changing to that parity or the longer co-chaining. this is global / local / global resolving"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the wording of the next concern suggests to much is being added and 1-9 four momentarying is the same all over the surface all along a co chaining and across a bi tunneling there is only this no more or less than this and the bi foldings of this into surfaces. the parity changing seams are moving in the surface and on the surface and along and across the surface. reconsider what part is missing so far resolving"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "parallel linearizing is alternating linear parallizing in the four phi rate length tunnel or four momentaryings . this is local global local. this is co sequencing along as long as prime 59 looping and this is the same across as the two are bi-inversioning-co-recursioning each other every momentarying. the width and length are alternating and bothbothing co-competencing facing forward and possibling farther forward from prior behind"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "whichever side runs out of incoming parity first changes to other"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "there is no measure of greater or lessor in the changing as all the changing is momentary and binary changing, is or is not only. the changing from incoming changing is parity changing only no matter the colliding scale of impact to an existing living thing. the changing spreads on surface as parity changing as far and wide as needed for the last parity changing to be needed for all the possible changing and longer co chaining is greater possibling and longer and greater are measures only as units in the numbers where each number is one momentarying"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "possibling and existing can travel through each other and this is geodesic exploring and discovering by pattern matching natural torusing. we have been doing this same thing since natural intelligence corus was one file about moral cooperation and there was no resolver."
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-09.** "every self is a geodesic self. every self is co-chaining societies of geodesic selves. all parity changing is geodesic changing. all carrying is geodesic carrying. all geodesic changing is podaling along and across co-competencing discoveries of natural co-linear bi-moral parities"

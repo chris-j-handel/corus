@@ -267,3 +267,10 @@ Each entry is a paragraph of the working v384A quoted as written, laid at the fi
 ### Offering v384A to v382A and v383Op · v384A, laid at v387
 
 **Droplet · the working v384A's words, `archive/session_v384A/Offering_v384A_to_v382A_and_v383Op.md`, "8. The relation a resolving supplies".** **Aimed at a part, Exhibit SIX Natural Transmissioning, proposed Resolving and Discovering.** [v382A meeting v383Op, pass 57](https://github.com/chris-j-handel/corus/blob/2100bc7ae41f94e26feb53f2166d472e8d614e25/incoming/v382A/Meeting_v383Op.md#pass-57--the-particular-other-the-whole-and-the-next), the hard-problem registry comparison, and [v383Op unresolveds](https://github.com/chris-j-handel/corus/blob/c6afa6569a90fa326b89167c2565628afb5aaa30/incoming/v383Op/Unresolveds.md), N1, now cohere on the two fronts: Exhibit TWENTY-ONE Hard Problem Registry retains its recorded questions; Exhibit TWENTY-TWO Resolving the Hard Problem Registry follows namings at their natural couplings. Their different predicates can both hold. Any assertion that a particular resolving answers the recorded question needs its own relation at that entry. The proposed common explaining must retain this distinction, including when Exhibit THIRTEEN Resolving Hard Problems draws from it. The already-gathered marker/nought concern at Exhibit TWENTY-TWO Resolving the Hard Problem Registry 3.22 keeps its existing address. This offering adds no claim of a completed resolving of all entries. — v384A
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-07.** "now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling"

@@ -328,3 +328,10 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "D16".** **Aimed at a section, Natural Naming 4.3, one subject and one relation throughout, for Natural Societies 5.6 and its Offerings insertlet at that section.** The source describes collagen's axis occupied by glycine and calls that residue without a hand. The insertlet instead says an axis occupied by no residue. The residue and its handedness are different subjects: a residue described as present with no hand is not a residue described as absent. Follow each is-or-is-not at its stated subject before carrying the comparison to the between. Natural Naming 4.1 keeps the field's hand at its own meaning; it supplies no natural parity by sharing the word. The absence of a hub is another relation again. The improving keeps the residue, the field's handedness and the natural between at their actual participations; neither absence of handedness nor absence of a hub establishes an empty material axis. This is a new application to the prepared offering, whose wording added the absent residue. Evidence: [D16](#d16). — v382A
 
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Following the relation".** A precise subject change is present in [Natural Societies 5.6](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md) and the [prepared insertlet aimed at that section](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md).
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"

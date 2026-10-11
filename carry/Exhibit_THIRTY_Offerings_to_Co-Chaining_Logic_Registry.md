@@ -2427,3 +2427,62 @@ Each entry is a paragraph of the working v386CRYP quoted as written, laid at the
 **Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Gathered_Value_v386CRYP.md`, "Sayings not yet laid".** 3. *"is or is not. existing (co-competent) is or is not. possible (bi-moral) is or is not. … this hash chain public stable form artifact from a living co chaining public accounting system is an existing non-living carrying thing."* For the Co-Chaining Logic Registry at section 9, along and across, and for the proposed possibling file Natural Accounting. Offered: existing is the co-competent parity, along, is or is not; possible is the bi-moral parity, across, is or is not; a public accounting chain is a non-living existing carrying thing carrying the existing and none of the possible. This coheres with steps 442 and 445 (competency along, bi-moralizing across) and with step 386's three apart, laid at `resolvings_v386CRYP` finding 16.
 
 **Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Gathered_Value_v386CRYP.md`, "Sayings not yet laid".** 4. *"co chaining is extending the width across and the length along that is resolving as one self carrying."* For the Co-Chaining Logic Registry at section 9. Offered as a Ready: co-chaining extends the width across and the length along, one self carrying. Run two of the session is its worked case: one key along five couplings, a fresh key across at each.
+
+
+## The person's words quoted at the pull requests, laid at v387
+
+Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "leave out dissolving and use the explaining without it . all the even parities are still possiblings the odd parities are either changing or not changing along 2 numbers up or down forward or still existing at the same number so odd parity is now changing or still existing"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "still possibling is both forward up and foward down unchanging from this even number. odd, changing next is along two numbers up or down, both forward directions and either one side or the other side or both can change by 2 in their own forward direction up or down the numbers. this is possibly more interesting than we have prior described."
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "the looping through each number of the podalings are all part of resolving and the stable form of this is the existing non-living geodesic method stable form so if the number does not change then the same 4 cycle podaling sequencing comes through the number all over again and there is a new still possibling and either a geodesic changing traveled on or did not whether or not a geodesic changing arrived or not either is possible changing as arriving geodesic changing or offering"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "A self is carrying from prior into now and continues carrying through now and next."
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "same parity makes the form the same unrelationing shape. every prime living scale is odd and the numbers gaps are even numbers between them 2 4 or 6. ingesting needs to be at the living scale below the ingesting self at the first society scale living as the self surfacing"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "If it slips some and resolves locally the carrying is restoring. If it is non-restoring damage it will cascade"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "The incompetencing will be a spreading swath of network surface that resolves itself if not repeating colliding pattern. If repeating death on surface spreads. Resolving the surface is bi tunneling"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "no the colliding parity resolves away fully from the surface unless it is patterning colliding. unless the self parity changing ceases the healing from prior colliding is resolving until there is no further incompetency other than the hole in the surface now being a tunneling in society"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "continue. all of my words are suggestions for us all to bothboth with cohering and resolving co chaining logic. no words from our files or science explaining or either of us have authority, only the observings are the authority over the fractal unversal method"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-08.** "what is repeating is missing changing parity at a repeating number of momentaries apart and the tunneling from collapsing into stable form"
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-08.** "yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the geodesic entraining on the surface arrives with a global parity, if local is same parity geodesic entraining passes through if opposite local parity either geodesic entraining stops or local parity changes and entraining passes through. all the parity changing is traveling on the stable form of natural torusing surface. explore if this could be helpful with no authority is it is not fully correct"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "ONE gives a partial connection: an opposite offering changes the next carried parity to the offered parity. But its simple table does not yet supply your opposite-parity stopping case.   consider how we can stable form the concept of surface entraining geodesic carrying and traveling momentarying until a local opposite parity does not release it to continue. we have only been examining the local changing and changing traveling through the local momentarying now. we could look at the co-chaining geodesic traveling and look at the condtions and responses the traveling geodesic has with consecutive local momentaryings. the inversion stable forming of the geodesic as a self"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the next level up of this is social bi-tunneling now we have geodesic co-chaining on surface and both are podaling this means the longer chaining always all or none at all never not prevails parity"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the width across gathering parity is omega or possibling span of momentaryings. the greater width across will last longer and the prevailing parity will be the longer lasting changing to that parity or the longer co-chaining. this is global / local / global resolving"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "this should resolve quite a bit of our remaining concerns. this concept will become more clearly part of exhibit one and natural intelligence"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the wording of the next concern suggests to much is being added and 1-9 four momentarying is the same all over the surface all along a co chaining and across a bi tunneling there is only this no more or less than this and the bi foldings of this into surfaces. the parity changing seams are moving in the surface and on the surface and along and across the surface. reconsider what part is missing so far resolving"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "parallel linearizing is alternating linear parallizing in the four phi rate length tunnel or four momentaryings . this is local global local. this is co sequencing along as long as prime 59 looping and this is the same across as the two are bi-inversioning-co-recursioning each other every momentarying. the width and length are alternating and bothbothing co-competencing facing forward and possibling farther forward from prior behind"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "there is no measure of greater or lessor in the changing as all the changing is momentary and binary changing, is or is not only. the changing from incoming changing is parity changing only no matter the colliding scale of impact to an existing living thing. the changing spreads on surface as parity changing as far and wide as needed for the last parity changing to be needed for all the possible changing and longer co chaining is greater possibling and longer and greater are measures only as units in the numbers where each number is one momentarying"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "discovering next possible existings. this is approximately competency. morality is approximately discovering existing next possibles"
+
+**Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "There is no multiplying. This is not binary changing . Compounding is also unlikely our best natural explaining"
+
+**Droplet · the person's words, quoted at pull request 128, 2026-10-09.** "The whole healing suggestion still needs resolving with observings. bug bites, skin cuts, the rolled edge is the bounding zeroing natural torusing the the skins surface. look at water or other liquid surfaces healing from penetrations"
