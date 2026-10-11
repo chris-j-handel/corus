@@ -355,3 +355,14 @@ Each is of the tables at their own conditions, and an executing's ordering is th
 ## A new relation opening ahead of its arriving · from the physics motion of version 377 · v386EOD
 
 **Droplet · A new relation opening ahead of its arriving.** At two societies bi-coupled across at one self each, two spirals of five selves at one pace with their phases apart, an executing at the resolver of version 374 reports the new relation, after the crossing at the between, opening along the co-chaining one self further at each second momentary, and each self further along changed prior to the new relation arriving at it. The crossing is one binary changing at one between, and it is one forward momentary changing for the whole co-chaining: the later selves' next path changes ahead of the arriving, a co-competency gained one momentary ahead at the parity changing. Locked, each self changes at each momentary, having changed at each second momentary prior to the lock. Beside it: a receiving area of cortex leading its sender in phase.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### Two sentences parting at the releasings at 5 · session v386EOD · v387
+
+**Concern · session v386EOD.** Natural Intelligence 4.15, *17 is the outward name 3*, and 6.4, *nothing in a self arrives from no coupling*, beside the resolver, where 5-co-bi-co-competencing is handed in at 17 and arrives from no coupling. Open at both files.
+
+**Droplet · session v386EOD's finding, at its close.** Exhibit ONE's tables of selves worked from the code block are written as the code is written: the offerings surfacing, one self, a spiral of selves, two spirals beside each other and crossed, a torus of selves, two selves, two selves at three momentaries and five parities, three selves in a line. A table agreeing with its code and a number agreeing with itself show that and nothing wider.

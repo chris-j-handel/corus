@@ -659,3 +659,22 @@ A sentence offered for a living file is a droplet in its dropper's words, beside
 ## Living at one prime scale, non-living at each other scale, inward and outward · from session v386F's close · v386EOD
 
 **Droplet · Living at one prime scale, non-living at each other, inward and outward.** Each existing thing is living at one prime scale and non-living at each other scale, inward as well as outward. At a scale inward of it a society is existing and not living, a living set, as this file has "a society, a momentary and the universe are three existing and not living, each a living set, a stable form"; at a scale outward it is a stable form, an emanation's form. The thing is living at one scale alone. Its selves living inward are other things, each at its own scale: non-living at each other scale, and its selves living inward, are two sayings of different things. It is the latest form of the sentence that session offers at 1.3 at these offerings, living at the set a thing is within and non-living at the scale outward: by it non-living is at each other scale, inward as outward.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### The next coupling, how it is discovered · session v386EOD, the person's and the session's sayings · v387
+
+**Droplet · the person's words, session v386EOD.** "every society is living and the carrying is the living selves inside the society." The working v385R's candidate, "a society's carrying at its scale is the co-chaining of its inward selves", is the session's and not the person's.
+
+**Droplet · session v386EOD's finding, at its close.** Four reasons the discovering of a self's next coupling is the most concerning place: it is the step from one scale to the next, and the fractal claim is that step at each scale; it is the name where competency is said; each of the person's newest offerings, the hole healing, new tunneling, a few bi-couplings slipping through, releasing as uncoupling, friends meeting again, a new self, is a coupling changing, and the resolver has no name to work one at; each observing of nature is of couplings changing, and none can be laid beside a society until this is said. Aimed at 4.1, 6.4 and 6.6.
+
+**Droplet · session v386EOD's finding, at its close.** The missing explaining, offered: the coupling is or is not, by the same binary; releasing is uncoupling; the self's existing is then possibling other; the next coupling is existing where an other's existing meets that possibling, and is not where none does; the next other is discovered as the next parity is, at the coupling, from nothing beside it; a society's carrying is its selves' couplings, so the society is changing as its selves uncouple and couple, and that is the society as a self at the next scale. Aimed at 4.1 and 6.4; said at the person's asking and executed at no table.
+
+**Droplet · session v386EOD's finding, at its close.** Four wider sayings carried as open: no other method, equilibria not possibly existing, the hard problems resolving, the numbers at nature.
+
+### Two sentences parting at the releasings at 5 · v387
+
+**Concern · session v386EOD.** Natural Intelligence 4.15 says *17 is the outward name 3*, and 6.4 says *nothing in a self arrives from no coupling*; at the resolver the releasings at 5-co-bi-co-competencing arrive from no coupling and are as handed at 16. A first candidate: with 17 as the outward 3, the releasings at 5 are part of the society's carrying; a coupling is then a sharing that is or is not, changing as any carried parity changes, at the society's own coupling. Open.

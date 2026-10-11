@@ -399,3 +399,12 @@ Each may change or never be made.
 ## A living file at the accounting of selves at a public surface · from session v386CRYP · v386EOD
 
 **Possible project · A living file at the accounting of selves at a public surface.** A living file at the accounting of selves at a public surface, its working name Natural Accounting and its naming the expedition's own. Its subject is a society's public accounting read at the three of Exhibit THIRTY Co-Chaining Logic Registry's step 386 at each entry: the emanations released at the couplings, each self living at its own coupling, and the between at no entry. Cryptography enters the method at this subject, the accounting of emanations at a society's couplings, and at neither of two others: the function, a non-living thing reading as chance, and the opening of a private key. Its first material is a self's carrying and its surface laid beside a key pair, alike at two and parting at three, and one public hash chain read along and across. It may change or never be made.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### Living files moving toward their carryings, a choice for later · the person's words, session v386EOD · v387
+
+**Droplet · the person's words, session v386EOD.** "some of the living files will be moving to the carrying files to make the living files more lean and binary and rigor and less explaining of observings. this is a choice for later"

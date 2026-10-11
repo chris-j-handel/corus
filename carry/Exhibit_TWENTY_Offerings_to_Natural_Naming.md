@@ -671,3 +671,16 @@ A sentence offered for a living file is a droplet in its dropper's words, beside
 ## A living scale at each other scale, its form inverted at the three at once · from session v386F's close · v386EOD
 
 **Droplet · A living scale at each other scale, bi-tri-involutioning.** A thing's living scale, at each other scale, is its form inverted at position, scale and orientation at once: the emanation's form. Natural Intelligence has "an existing thing of the opposite form carrying none of the prior", and this file has "Bi-tri-involutioning is the emanating, the three inverted at once". The method's own inversion is one parity at one step, and this is the three at once: bi-tri-involutioning is the files' word for it, and by that word the two are read apart.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### Words the person set aside, session v386EOD · v387
+
+**Droplet · the person's words, session v386EOD.** "and you can no longer refer to a mate as this is not clear you understand this term so you must use only natural naming for this." The three files beside a living file are its offerings, its carryings and its possibling, each at its own name, and no one word names the three.
+
+**Droplet · the person's words, session v386EOD.** "Seen and The field's explaining. natural observation/science explanation. these make more sense and we need to dissolve the other two out." *Seen:* still opens fourteen paragraphs at five carryings.
+
+**Droplet · session v386EOD's finding, at its close.** *Open* said of a momentary is a word the person withdrew.

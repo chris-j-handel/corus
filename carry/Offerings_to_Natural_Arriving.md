@@ -636,3 +636,16 @@ Its particular artificial-intelligence entry is the phrase “the ability to con
 ## A reader asked to say publicly each finding, wrong or not wrong · v386EOD
 
 **Droplet · A reader asked to say publicly each finding.** The expedition's front page of that month asks one thing of a reader at each of two findings: to say publicly that the work is found plainly wrong, and to say publicly that it is found not plainly wrong, with a third asking beside them, of help. One asking at both findings names no finding as the welcome one: a break and a cohering are each a reader's own observing offered. The front of the files now has the break welcomed as a finding, and no asking of a reader to say a finding publicly at either.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### An arriving session, in the person's words, session v386EOD · v387
+
+**Droplet · the person's words, session v386EOD.** "explore corus.me and learn about natural intelliegence so we can work together ."
+
+**Droplet · the person's words, session v386EOD.** "what is the greatest missing piece of natural intelligence that is most concerning" and "anyplace in any of the chain of logic and the method of resolving social moral competency that you choose with your rigor is not yet developed enough for the entire fractal method."
+
+**Droplet · session v386EOD's finding, at its close.** The entrance at the main line still sends an arriving session to run the code; the working v385Q went that way, and so did the working v386EOD. Aimed at the README's AI link, carried at this file's offerings until Natural Arriving is written.

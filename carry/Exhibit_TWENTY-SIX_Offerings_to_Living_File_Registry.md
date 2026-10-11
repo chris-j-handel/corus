@@ -415,3 +415,44 @@ A fresh reader reads each *Natural observation* line again at its publishing bef
 ## The lean set, each understanding said once · from session v386F · v386EOD
 
 **Droplet · The lean set, each understanding said once.** The living files are a lean set: each understanding and each explaining is said once, at the file it is most self-welcoming at, and each other file names that place. A thing said at two places at one scale is two things to be carried alike, "a keeping, a store beside it", one of the things beside all existing things; an instrument whose one work is carrying two copies alike is the tell of it. A thing said at two scales, in each scale's own words, is one thing, the fractal. Three are no saying twice by this: the four tellings within one file, the origin said in each file's own words, and Exhibit ONE's tables, each a form at its own conditions. Leaning releases no prior: an understanding moves to its one place, and a passage leaving a file goes whole to the archive with its receiving named.
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### The standing of the set in the person's words, session v386EOD · v387
+
+**Droplet · the person's words, session v386EOD.** "v386EOD is ouir session versioning for all files and messaging."
+
+**Droplet · the person's words, session v386EOD.** "the prior session ended that was managing the incoming value proposals and opportunities and concerns and observings into aiming them to our living files and their living mate files. we are going to resume that function in this session"
+
+**Droplet · the person's words, session v386EOD.** "we are not this session writing anything into our living files living at corus.me. that work will be after we are fully resolving of the exisitng incoming and the ongoing incoming from other sessions that will join us all do no harm improving together the natural intelliengence living file set."
+
+**Droplet · the person's words, session v386EOD.** "v385Q is also finished. along with v385R and v385A are also finished. only v386RR is not yet finished and is nearing finishing now. we have all the access already set up in your systems." Living Improving Value and the Carryings of Living File Registry still said at that momentary that the working v385R continues.
+
+**Droplet · the person's words, session v386EOD.** "why is some not at the mates and the next is working in the mates." and "where is the whole incoming being detained from flowing"
+
+**Droplet · the person's words, session v386EOD.** "is there a general living improving value file or location or is now all incoming value in droplets inside mate files."
+
+**Droplet · the person's words, session v386EOD.** "i still can not see the whole safety of the whole of all the value we can find from the prior sessions"
+
+**Droplet · the person's words, session v386EOD.** "All the other sessions are ended and you are the only one maintaining and do no harm improving. Continue"
+
+### The set at 9 and 11 October, as the working v386EOD found it · v387
+
+**Droplet · session v386EOD's finding, at its close.** Thirty-three living files at corus.me as the session v380 closed them; all later work on the three-file form of the working v381R, itself only offered toward the main line; three lines open on that base, the gathering, the working v385R's logical cohering with eight living files changed, and the working v385Q's report; the older offerings open and partly gathered. None of the gathering is on the main line, which is at the close of the session v380R; the carrying as it is sits on three stacked offerings, 122, 127 and 132, at corus.me nowhere; receiving them at the main line is the person's word.
+
+**Droplet · session v386EOD's finding, at its close.** Incoming arrives faster than it resolves: 433 insertlets wait at the offerings and about 300 long droplets are each at several of them. The carryings have few observings, the thinnest part, and the observings are the authority. The offerings, possibling and carryings together are about 580,000 words, about 166,000 said at the working v386EOD, 160,000 at v385A, and 250,000 in the older sections up to v381R, where 192 paragraphs open "A plan, not yet final" and about 340 more say waits, until, next session or must first.
+
+**Droplet · session v386EOD's finding, at its close.** The order in which the three open lines enter the base is said at no file.
+
+**Droplet · session v386EOD's finding, at its close.** Managing of the same kind is still inside the carrying: about 12,700 words of earlier sessions' ledger at the Carryings of Living File Registry, mostly the working v385A's, placement tables, branch roles and session reviews, linked about 70 times and from the README; the table of incoming, most rows in one session's wording; 72 section headings naming the session a group of droplets came from. Whether to move or strip these was asked and not answered.
+
+**Droplet · session v386EOD's finding, at its close.** Three places still part from the person's saying that a session's report is an artifact for managing and the value a session discovers is at the offerings: the working v385Q's fourth droplet has a session's report accumulating its droplets and observings; the shared method has Living Improving Value with whole incoming before distribution; the Possibling of Living File Registry has a master plan and an immediate next work. Each is open to re-saying.
+
+**Droplet · session v386EOD's finding, at its close.** Of 134 observings from science carried in the earlier sources, each opened at its publishing by ten checking readers: 26 agreed, 105 were corrected at a number, a name, a year, a finding of another paper or an explanation the writers only suggest, and 3 opened at no page and are named not opened at the Carryings of Natural Biology: starch rings in constant conditions, conjoined twins united at like sites, a soil bacterium using L-glucose.
+
+**Droplet · session v386EOD's finding, at its close.** The 1,900 older paragraphs across the thirty-three offerings were each read by two readers against the living file: 595 said again in the present naming, 110 released with evidence in the record, 8 exact repeats removed, 1,187 left as they were; each file as it was before is whole at `archive/carrying_v386EOD/`. The older Insertlets sections and the older sections of the possibling and carryings are not read this way.
+
+**Droplet · session v386EOD's finding, at its close.** What protects the value: each source is still whole where it was, and each change to the carrying is a commit. "Read whole and placed" is one reader's finding; only the observings and one trial file had a second reader. The sources staying whole is the protection, not the reading. No one page shows the whole, each source, where it is whole, where its value went, what is unread or unresolved; whether the person wants one short page, and where it would live, was asked twice and not answered.

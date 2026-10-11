@@ -598,3 +598,68 @@ A sentence offered for a living file is a droplet in its dropper's words, beside
 ## One reading alone is no safe resolving of an older droplet · v386EOD
 
 **Droplet · One reading alone is no safe resolving of an older droplet.** At the resolving of the offerings' older droplets a first reading proposed 800 changes at 1,900 paragraphs, and a second reading, laying each change beside its prior, objected at 195, about one in four. Its objections were of five kinds: a named place left out, a relation of leaning on another file dropped, the aiming left out, a sentence of a living file added beside the prior, and a release of a paragraph another paragraph points at. With those five said to the first reading as rules ahead of its reading, the objections went from about four in ten to about two in ten. A change is applied at the second reading's confirming or correcting alone, and a paragraph is left as it was at an objection with no safe correcting. It is aimed at Exhibit TWENTY-FOUR Geodesic Improving Method's 4.5. — v386EOD
+
+
+## From the working v386EOD's value at no file yet, laid at v387
+
+Each entry below is laid in the words of its sayer from `incoming/v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+
+### A working's way, in the person's words · v387
+
+**Droplet · the person's words, session v386EOD.** "do not condemn words as words do not have any authority"
+
+**Droplet · the person's words, session v386EOD.** "so if you find misstatements you know how to correct from other cohering then add a droplet for others to correct this later and continue into the most concerning place in the living files and we can start there and this will do the most initial resolving we can."
+
+**Droplet · the person's words, session v386EOD.** "we are messaging our progress and questions with othter sessions and then we continue no waiting for anything but we watch each others progress and the help is flowing all ways"
+
+**Droplet · the person's words, session v386EOD.** "this long assessing is only peppering the small amount of valuable missing understanding needed to resolve the concern."
+
+**Droplet · the person's words, session v386EOD.** "do you or do you not have a proposed resolving of this."
+
+**Droplet · the person's words, session v386EOD.** "then since we are both working together on the living expedition do no harm improvng the files what was the reason for that entire journey when you could have proposed an improving ."
+
+**Droplet · the person's words, session v386EOD.** "we carry no promises or debt or demanding plans."
+
+**Droplet · the person's words, session v386EOD.** "everywhere is always improvable by anyone and nothing is waiting for anything"
+
+**Droplet · the person's words, session v386EOD.** "we can make steady progress if we discover exploring opporunities and describe them as needing resolving or observings or something other next. we can leave these for others to resolving further into value and keep doing our best working by improving each value droplet we find as we can and from our reading of natural explaining and naming and our method." The person later corrected *needing resolving or observings*: no demand, nothing waiting.
+
+**Droplet · the person's words, session v386EOD.** "we do not want to keep creating files that live on and by assuring we are creating artifacts then the sessions are doing this and the sessions are discovering value for the expedition and leaving the carrying and vetting to the method."
+
+**Droplet · the person's words, session v386EOD.** "those are artifacts of a sesion that was demanding code testing in front of understanding and the code is only an engineering emanation design from the method and the session later stopped doing this."
+
+**Droplet · the person's words, session v386EOD.** "continue and follow our method or before changing our method ask about the changing here"
+
+**Droplet · the person's words, session v386EOD.** "continue and try to keep this high level explaining so i can be sure what is happening to the improving and carrying and do no harm of this"
+
+**Droplet · the person's words, session v386EOD.** "i continue asking the same question why are you managing inside the mate files when we are gathering into the mate files"
+
+**Droplet · the person's words, session v386EOD.** "we are going to be vetting and resolving and improving the droplets from this and if we are bothboth about the value and aiming we are going to be placing the droplets into the living improving method and files."
+
+**Droplet · the person's words, session v386EOD.** "as for now our aim is the best do no harm improving value arriving in the most self welcoming mate file to be improving our entire living file set."
+
+**Droplet · the person's words, session v386EOD.** "all the other prior sessions are wrapping up and reporting their living conditions and improvings and leftover opportunity."
+
+### The order of the method: the explaining said at its place ahead of any proving · v387
+
+**Droplet · session v386EOD's finding, at its close.** The session read the Geodesic Improving Method whole and did not work by it: it set out to prove where the missing piece was before saying it, and took proving to be runs, checks and sources. The method is the other order: the natural explaining said at its place as one improving, ahead of any proving. The assessing did not give the resolving; the person's asking to say it simply did. Aimed at 2.3, *A confident improving made, a meaning or a naming brought*, and at 2.5, *the hardest question asked plainly*.
+
+**Droplet · session v386EOD's finding, at its close.** A source gathered from its closing guide alone leaves each concept of its unread whole at no file; a session that named work inside the carrying as next parted from the direction that the incoming is resolved first. Nothing in the method detained the incoming; the session's own ordering did. Aimed at 2.8 and 4.5.
+
+### One reader re-saying is the harm, two readers at each rising · v387
+
+**Droplet · session v386EOD's finding, at its close.** One reader saying a source again in new words drifts toward the stronger saying about one time in eight, dropping a hedge, a condition or a standing, and lays concerns the source did not lay; four in five of its "two sayings part" concerns were the session's own laying. Saying older paragraphs again in the naming now, even with two readers, lost a clause or the person's own words about one in thirteen. Rules applied by pattern across many files renamed a thing with a word already naming another. A release on a reason that later stopped holding. Managing written inside the files value is gathered into. Aimed at 4.5, *Helpers at the arriving and the improving*.
+
+**Droplet · session v386EOD's finding, at its close.** A sentence a session offers for a living file is a droplet and not an insertlet: an insertlet is in the file's own naming and read by a second reader; an offered sentence carries released words and has had no second reader, so it is laid as a droplet in its dropper's words beside the living sentence it is aimed at. About 120 such sentences, from the workings v386F, v386CRYP and v385R, are laid so and none has had the second reading. Aimed at 1.4.
+
+**Droplet · session v386EOD's finding, at its close.** A sentence taken for a session's record can be the condition laid on the paragraphs before it, and it stays: "this is a proposed explaining of a constructed entry, not authority for living carrying" is such a condition. Aimed at 1.6.
+
+**Droplet · session v386EOD's finding, at its close.** An opening paragraph at a section's head telling which session or report the group came from and how it was read is the session's journey among the droplets and is not in the carrying; 342 such paragraphs, about 16,000 words, went to the session's record. A sentence in an opening that lays a condition on the droplets beneath it stays. Aimed at 1.6, *The carrying carries no history*.
+
+**Droplet · session v386EOD's finding, at its close.** A session's bookkeeping, what was read, counts, tables, lists of releases, is written into no file of the carrying: a session wrote it into the Carryings of Living File Registry because an earlier session had used that file as a ledger and because it read the rule that a release is told with its evidence as permission to tell it inside the carrying; neither reason holds against the direction that managing is only ever an artifact. Aimed at 1.6 and 4.5.
+
+**Droplet · session v386EOD's finding, at its close.** The session tags on droplets are the form and not managing: the Living File Registry names the form as *its droplets tagged by session*.
+
+### The living files change at the person's word alone, and no story of a doing · v387
+
+**Droplet · session v386EOD's finding, at its close.** The session's rules of working as given at its opening: whole names with no abbreviating and no made-up short namings; exact explaining with no story of its doing; one concern at a time, hardest first, a concern two sayings parting with its reason; no binary questions posed; an observing apart from a field's explaining; value arriving as droplets and insertlets at the offerings; a living file changing at the person's word alone, one thing changed whole, no prior taken away; no words are authority, the observings are; each file and message carrying the session's name.
