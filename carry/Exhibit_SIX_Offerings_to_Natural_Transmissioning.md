@@ -179,3 +179,12 @@ It is beside [Transmissioning, the common explaining](#transmissioning-the-commo
 ## The carry staying, beside carrying resolving · from the pull requests' comments · v386EOD
 
 **Concern · The carry staying, beside carrying resolving.** Two sayings part. Natural Transmissioning has "The substrate lives in the carry, which stays; the sign crosses". A newer saying has a self carrying from prior into now and through now and next, with no carrying named unchanged. They part at stays: read as the carrying unchanged across momentaries, the sentence names a form still; read as the carrying at its own side of the between, with a parity changing alone crossing, it is the newer saying's own. The file has the second reading at "Two selves stay, and each stays at its own side of the membrane". An unchanged parity at one sharing, or an unchanged parity along a joining, names no carrying unchanged. Said as each self's carrying its own, resolving at each momentary and crossing at none, the sentence carries both.
+
+
+## From the working v385A's comparisons at `archive/session_v385A_comparisons/`, its remaining value in its own words, laid at v387
+
+Each entry is a paragraph of the working v385A quoted as written, laid here because it names value still to gather, a next comparison, a correction travelling with an older source, a plan or a relation to preserve; the records of what was read and placed go to the archive with the files.
+
+### The Registry's plans beside the current reordering · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Registry_Plan_Comparison_v385A.md`, "Whole naming and the existing file plans · v385A".** These four comparisons distinguish existing offering, supporting source and actual living text. The master file-changing plan remains inside Carryings of Living File Registry. The proposal to combine Natural Exploring and Geodesic Improving Method, the two projects for Natural Intelligence Corus, the connected Natural Emanating plans and the proposed different explaining for Natural Transmissioning remain possible plans; this comparison implements none of them.

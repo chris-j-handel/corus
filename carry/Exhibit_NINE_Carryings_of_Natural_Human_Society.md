@@ -9,13 +9,13 @@ Exhibit NINE Natural Human Society Carryings · improved at v386EOD
 
 ## Human discovery economy and the subject plan · v385A
 
-**A possibling project beside this subject.** The [Human Society comparison](../incoming/v385A/Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) follows the complete v329 exhibit and its mates beside Values and selected Corus relations. [This offering mate](Exhibit_NINE_Offerings_to_Natural_Human_Society.md) retains the earlier distribution, institutioning, growth and naming concerns, with new local comparison droplets. [Values' project](Exhibit_TWENTY-THREE_Possibling_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) supplies its connected subject and expedition-contributing work.
+**A possibling project beside this subject.** The [Human Society comparison](../archive/session_v385A_comparisons/Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) follows the complete v329 exhibit and its mates beside Values and selected Corus relations. [This offering mate](Exhibit_NINE_Offerings_to_Natural_Human_Society.md) retains the earlier distribution, institutioning, growth and naming concerns, with new local comparison droplets. [Values' project](Exhibit_TWENTY-THREE_Possibling_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) supplies its connected subject and expedition-contributing work.
 
 Human Society 5.3 already says why the shared discovery-economy name supplies no missing exhibit title and why its human explaining remains here. [Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) preserves this beside the later Destinies distribution and distinct Values/Societies subjects. The other Human Society relations remain active in the source and offerings; a whole reading is not a full gathering or receiving. This project changes no public living exhibit.
 
 ## Earlier source inventory · retained from v381R
 
-The following inventory remains whole with its historical wording and standings. The [v385A method](../incoming/v385A/README.md) governs the project above. The earlier v381R source is now at [carryings/v381R](../carryings/v381R/); a source's listing establishes no completed gathering.
+The following inventory remains whole with its historical wording and standings. The [v385A method](../archive/session_v385A_comparisons/README.md) governs the project above. The earlier v381R source is now at [carryings/v381R](../carryings/v381R/); a source's listing establishes no completed gathering.
 
 **Existing materials and earlier inventories**
 

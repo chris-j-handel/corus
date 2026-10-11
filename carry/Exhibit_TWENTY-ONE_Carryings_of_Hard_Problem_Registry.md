@@ -4,7 +4,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Carryings · improved at v386EOD
 
 ## Field entries and the paired index · v385A
 
-[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) follows this registry's front through its entry form, entries 1 and 6 whole and checks/aggregate sections 6–7. The [offering mate](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md) retains the existing compact-index plan and its source concerns, with a shared current-content comparison now beside them. No new index or data file is introduced.
+[The comparison](../archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md) follows this registry's front through its entry form, entries 1 and 6 whole and checks/aggregate sections 6–7. The [offering mate](Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md) retains the existing compact-index plan and its source concerns, with a shared current-content comparison now beside them. No new index or data file is introduced.
 
 | Field record | Actual paired body | Current locator relation |
 |---|---|---|

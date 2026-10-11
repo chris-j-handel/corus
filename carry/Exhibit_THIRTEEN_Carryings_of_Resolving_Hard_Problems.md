@@ -4,7 +4,7 @@ Exhibit THIRTEEN Resolving Hard Problems Carryings · gathered at v385A
 
 ## Common explaining and particular field arrivals · v385A
 
-[The comparison](../incoming/v385A/Hard_Problem_Plan_Comparison_v385A.md) reads THIRTEEN and its two mates whole beside Destinies' fourth extension, selected passages at the two hard-problem registries and Corus 17.3. Its [offering mate](Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems.md) now gathers the extension, changed-content reordering comparison and later surface/entraining correcting as droplets.
+[The comparison](../archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md) reads THIRTEEN and its two mates whole beside Destinies' fourth extension, selected passages at the two hard-problem registries and Corus 17.3. Its [offering mate](Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems.md) now gathers the extension, changed-content reordering comparison and later surface/entraining correcting as droplets.
 
 Current Parts One–Four explain living/non-living and prior/now/next, Part Five a field's arrival and Part Six discovering, accounting and social competency. Re-Settling's older instruction to keep Part Seven and gather the ten at 2.5 no longer identifies current sections. The common-method purpose remains a possible project; compare every contribution at its actual destination before any release. The method/accounting and ten-correspondence concerns already in the mate remain available.
 

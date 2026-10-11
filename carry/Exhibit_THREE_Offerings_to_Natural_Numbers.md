@@ -193,3 +193,12 @@ Each is of the numbered arrangement alone: no pairing or ratio of numbers is a r
 ## Two over one, beside Natural Numbers' own sentence · from session v385R's branch · v386EOD
 
 **Droplet · Two over one, beside Natural Numbers' own sentence.** An offered relation has a set a thing, and the universe a thing existing as the set of all existing things: the two-over-one betweening, each side parity offset by one from the other, with the coupled momentaries rolling two along over one across and one nothing between. Beside it Natural Numbers has "Two over one and one over two exchange at each step" and "twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even": three numbers in sequence opening at an odd are two odd over one even, and one number on, one odd over two even. Each self is odd first at its own side, and the set is laid at no one parity with its things at the other. The nothing between is no further number and no further parity: Exhibit THIRTY Co-Chaining Logic Registry has "a nothing, with no third momentary". The offered relation and the numbers' sentence are joined at no sentence of the files.
+
+
+## From the working v385A's comparisons at `archive/session_v385A_comparisons/`, its remaining value in its own words, laid at v387
+
+Each entry is a paragraph of the working v385A quoted as written, laid here because it names value still to gather, a next comparison, a correction travelling with an older source, a plan or a relation to preserve; the records of what was read and placed go to the archive with the files.
+
+### Gathering and aiming incoming value for the living files · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/README.md`, "front".** **Next:** [Living File Registry's immediate next work](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#immediate-next-work) begins with older Offerings to Natural Numbers. Continue Natural Intelligence Corus Observers section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4, the eleven comparisons and other earlier source families retain their stated remaining extent. New exploring and resolver execution are not required for this gathering.

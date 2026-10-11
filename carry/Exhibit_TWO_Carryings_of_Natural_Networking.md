@@ -9,13 +9,13 @@ Exhibit TWO Carryings of Natural Networking · improved at v386EOD
 
 ## Natural-network expression and supporting kit · v385A
 
-[The Destinies/Networking/Corus comparison](../incoming/v385A/Natural_Network_Comparison_v385A.md) gathers a possibling project beside this subject. It follows selected living passages, the already offered corrections and the supporting sources below; it does not claim a whole comparison of every Networking source. [This file's offerings](Exhibit_TWO_Offerings_to_Natural_Networking.md) retain their existing insertlets and droplets with the current method and further network-expression/own-side droplets.
+[The Destinies/Networking/Corus comparison](../archive/session_v385A_comparisons/Natural_Network_Comparison_v385A.md) gathers a possibling project beside this subject. It follows selected living passages, the already offered corrections and the supporting sources below; it does not claim a whole comparison of every Networking source. [This file's offerings](Exhibit_TWO_Offerings_to_Natural_Networking.md) retain their existing insertlets and droplets with the current method and further network-expression/own-side droplets.
 
 [Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) carries the set-level distribution and kit relation. [Destinies' carrying](Exhibit_FOURTEEN_Carryings_of_Natural_Destinies.md#particular-destination-comparisons--v385a) and [Corus's carrying](Carryings_of_Natural_Intelligence_Corus.md#natural-network-expression-and-further-composition--v385a) retain their particular contributions. All new offerings remain droplets; no source has been removed or resolved into a living exhibit by this gathering.
 
 ## The connected engineered-substrate comparison · v385A
 
-[Engineering's further comparison](../incoming/v385A/Engineered_Substrates_Comparison_v385A.md) now follows the chip/grid/interface extension and Destinies' two misreadings beside Corus 23.7. The network's actual coupling and each self's own carrying remain at this subject; Engineering keeps material interfaces and construction. R's later joint-form concern is recorded at its stated scope, with no demand for a sign inversion at every sharing. Destinies' hard-problem extension is next in the connected plan.
+[Engineering's further comparison](../archive/session_v385A_comparisons/Engineered_Substrates_Comparison_v385A.md) now follows the chip/grid/interface extension and Destinies' two misreadings beside Corus 23.7. The network's actual coupling and each self's own carrying remain at this subject; Engineering keeps material interfaces and construction. R's later joint-form concern is recorded at its stated scope, with no demand for a sign inversion at every sharing. Destinies' hard-problem extension is next in the connected plan.
 
 ## Kit source versions and current entrance · v385A
 
@@ -23,7 +23,7 @@ The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-a
 
 ## Earlier source inventory · retained from v381R
 
-The following inventory remains whole. The [v385A method](../incoming/v385A/README.md) governs the project above; the earlier directions and standings retain their source extent.
+The following inventory remains whole. The [v385A method](../archive/session_v385A_comparisons/README.md) governs the project above; the earlier directions and standings retain their source extent.
 
 **The existing kit and earlier materials, each at its address**
 

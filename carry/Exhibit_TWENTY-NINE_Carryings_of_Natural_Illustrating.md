@@ -10,7 +10,7 @@ The [whole destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Regist
 
 These are whole droplets, including their unresolved conditions. Earlier comparison-only instructions for this particular value are superseded. The living files remain intact; actual local cohering is later work.
 
-**Project sources at v385A.** The [offering mate](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) gathers the projects' possible improving beside Natural Illustrating. This carrying mate keeps their supporting work reachable. The [current session method](../incoming/v385A/README.md) preserves source evidence and completed comparisons at their actual uses; the historical descriptions below retain their original scope.
+**Project sources at v385A.** The [offering mate](Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md) gathers the projects' possible improving beside Natural Illustrating. This carrying mate keeps their supporting work reachable. The [current session method](../archive/session_v385A_comparisons/README.md) preserves source evidence and completed comparisons at their actual uses; the historical descriptions below retain their original scope.
 
 | Supporting project work | Existing source |
 |---|---|
@@ -26,7 +26,7 @@ These source addresses add no new media or verifying result. The kit's retained 
 
 ## The jigsaw whole-expression comparison · v385A
 
-The [source-to-placement comparison](../incoming/v385A/Whole_Expression_Comparison_v385A.md) follows Registry 5.9's proposed expression into Illustrating 4.8's existing sequence, Corus 23.6's social explaining and the actual Exploring, Networking, Human Society and Values passages. The same comparison droplet is independently at Corus, Arriving and Illustrating. The complete proposed human expression is not established as written by the passages read; its existing storyboard and related explaining remain available whole.
+The [source-to-placement comparison](../archive/session_v385A_comparisons/Whole_Expression_Comparison_v385A.md) follows Registry 5.9's proposed expression into Illustrating 4.8's existing sequence, Corus 23.6's social explaining and the actual Exploring, Networking, Human Society and Values passages. The same comparison droplet is independently at Corus, Arriving and Illustrating. The complete proposed human expression is not established as written by the passages read; its existing storyboard and related explaining remain available whole.
 
 Illustrating's remaining question is what the cooperation makes discoverable beyond the separate views. Corus/Arriving's relation is the whole expression's self-welcoming at an interest's own prior. Their respective contributions stay connected without replacing one another. The fixed pieces and finite picture are features of the example. No new artwork or narrative was made, and no source passage is released.
 

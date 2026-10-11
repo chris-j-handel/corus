@@ -16,7 +16,7 @@ The proposed comparisons are in [the possibling mate](Exhibit_ELEVEN_Possibling_
 
 ## Earlier source inventory · retained from v381R
 
-The following inventory retains its historical wording and addresses. The [v385A method](../incoming/v385A/README.md) governs the present gathering.
+The following inventory retains its historical wording and addresses. The [v385A method](../archive/session_v385A_comparisons/README.md) governs the present gathering.
 
 **Existing materials and earlier inventories**
 
