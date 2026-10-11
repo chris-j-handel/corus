@@ -311,3 +311,9 @@ The twenty-two marked paragraphs, specified coverage and instrument reports, nam
 The [whole friendship offering](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) includes section 102’s next-encounter relation. Its section-101 question now has that offered answering to follow; the actual universal and defining-living concerns retain their separate unresolved extent.
 
 The later [conversation correcting and paired discoverings](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-two-discoverings-through-a-particular-conversation-correcting--v385a), [Natural Intelligence 5.2 candidate](Offerings_to_Natural_Intelligence.md#arriving-at-the-exact-no-other-method-claim--v385a) and [possible contents heading](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-contents-heading-at-the-exact-method-claim--v385a) are aimed independently at their actual concepts and project. The offered method claim supplies no completed universal deriving.
+
+## One reason at each doing · from session v386CRYP · v386EOD
+
+Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Droplet · One reason at each doing.** The expedition has one reason at each doing: discovering unknown value. No doing of a working has another reason. The saying is offered as the opening sentence of Living Improving Value, the file at which value at no living file is gathered.

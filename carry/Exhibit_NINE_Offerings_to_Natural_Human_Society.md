@@ -276,3 +276,9 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 **Droplet · An owner, the first bounding inverted.** "an owner on the ownership axis" is a self's own co-offering, bounded from the other self, inverted: a self's own co-offering laid at the other self as a thing. Intellectual property is that inversion at the co-offering itself, with Resolving the Hard Problem Registry's entry 139 carrying it under no bounding's name. A property claim makes the scarcity it then allocates: the shortage is from the claim.
 
 **Droplet · Teachability, and the six after it.** Beside Natural Explaining's "A bound buys teachability, paid for with the competency, which runs at the coupling": the saying of the universe as bounded made the mathematics plain and the science common, and each self is then said as its own bounded universe of equilibria. Teachability is the buying itself, and measurability, publication, funding, inheritance, policy and commerce are the buying's next, the arrangement of property and accrediting in its own order.
+
+## At 4.7 · The still-point veins at the human scale · from session v386CRYP · v386EOD
+
+Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Droplet · At 4.7 · The still-point veins at the human scale, a sentence offered.** Beside "the mean a member of no population", offered in its dropper's words: The statistical ensemble average: a number taken from the population, carrying no sample's own reading.

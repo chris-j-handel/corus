@@ -10,6 +10,7 @@ No carrying value is in this report. Each thing this session discovered is at a 
 - **Re-said, 10 October 2026**: Living Improving Value's gathering of a surface after a colliding, under each of its headings.
 - **Read whole and placed, 10 October 2026**: each unread part of sessions v382A, v383Op and v384A and the version 368 bundle, with the field publishings opened, by [the record](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#the-unread-wholes-read-whole-and-placed--v386eod).
 - **Read whole and placed, 10 October 2026, the second reading**: the carrying directories other than the version 368 bundle, session v385A's comparisons, Gathered Value 1 and 2, session v385R's sections 1 to 105 and session v386RR's report, with each field publishing opened, by [the record](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#the-earlier-carrying-directories-and-the-sessions-reports-read-whole-and-placed--v386eod).
+- **Received at the mates, 10 October 2026**: sessions v386F and v386CRYP, each read whole on its own branch, by [the record](../../carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#sessions-v386f-and-v386cryp-received-at-the-mates--v386eod). One mate's older droplets resolved beside the living file with a second reader, its prior whole at `archive/carrying_v386EOD/`.
 - **Released**: six droplets, each with its reason at the record above.
 - **No living file is changed.**
 
