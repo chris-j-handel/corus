@@ -1,3 +1,5 @@
+Released at v386EOD: Offerings to Natural Societies as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md, the same section with one paragraph said again in the naming now, none released, and eight as they were. Relied on by nothing.
+
 Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v386EOD
 
 # Offerings to Natural Societies
@@ -48,7 +50,7 @@ The older phrase “beside all existing things” supplies no exclusion: the [la
 
 Concern, at v380, from [the earlier Natural Networking gathering](../carryings/v380R/Natural_Networking_From_v380A.md), one pluralizing carrying — 4.4's sentence re-said at the carrying the self's own, or kept as now said of another relation; two sayings kept, parted by Natural Networking's and Exhibit ONE's forms — v381R
 
-**Droplet · Across the set, what each file releases at its own improving.** Across the set, each file releases *read*, *turn*, *held* and *holding*, *stable form* as a noun, and its namings of other exhibits, at its own improving, in the shared words. It is aimed at the set. — v386EOD
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
 
 **Aimed at a sentence, Natural Societies, *a former free-living self now a member: the fractal's own move, observed*:** An observing in two lines is at [Carryings of Natural Societies](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own). Seen are the genomes mitochondria and plastids carry, their proteins' resemblance to bacteria's and their double membrane. The engulfing is the field's explaining of these, offered for those two kinds, and titled "Hypothetical schemes" at the textbook's own figure. The row's *observed* carries a field's explaining inside what reads as an observing. — v386EOD
 

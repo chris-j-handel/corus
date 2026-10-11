@@ -895,3 +895,73 @@ Of the 186 as they were, 159 are already plain or name a source no reading here 
 **Released at Offerings to Geodesic Improving Method, each with its evidence.**
 
 - The proposed combining of Natural Exploring with the Geodesic Improving Method, at two copies. *Said whole at a mate*: Possibling of Living File Registry, "Natural Exploring and Geodesic Improving Method proposed combination · v385A", the paragraph word for word.
+
+## Thirteen further mates' older droplets resolved, each change read by a second reading · v386EOD
+
+**Thirteen mates, four hundred and ninety-nine paragraphs.** The older Droplets sections of thirteen further offering mates were each read paragraph by paragraph beside the living file now and the later sections of the mates, in nineteen portions, and a second reading laid each proposed change beside its prior. The first reading had the earlier objections as rules: each named place stays, a thing a paragraph leans on is said as a relation and never dropped, the aiming stays, and nothing from a living file is added beside the prior.
+
+| Mate | Paragraphs | Said again in the naming now | Of these, as the second reading corrected | Released | As they were |
+|---|---|---|---|---|---|
+| Offerings to Natural Arriving | 98 | 18 | 3 | 0 | 80 |
+| Offerings to Natural Networking | 86 | 29 | 2 | 4 | 53 |
+| Offerings to Resolving the Hard Problem Registry | 55 | 16 | 5 | 2 | 37 |
+| Offerings to Living File Registry | 59 | 5 | 1 | 2 | 52 |
+| Offerings to Natural Numbers | 37 | 7 | 1 | 0 | 30 |
+| Offerings to Natural Explaining | 27 | 9 | 0 | 2 | 13 |
+| Offerings to Hard Problem Registry | 22 | 6 | 2 | 5 | 11 |
+| Offerings to Resolving Hard Problems | 16 | 0 | 0 | 0 | 16 |
+| Offerings to Natural Societies | 9 | 1 | 0 | 0 | 8 |
+| Offerings to Natural Illustrating | 8 | 1 | 1 | 0 | 7 |
+| Offerings to Natural Exploring | 31 | 11 | 1 | 5 | 15 |
+| Offerings to Natural Mathematics | 27 | 4 | 0 | 3 | 20 |
+| Offerings to Natural Engineering | 24 | 4 | 0 | 1 | 19 |
+| The thirteen | 499 | 111 | 16 | 24 | 361 |
+
+At Offerings to Natural Explaining four copies of one paragraph are one paragraph said again, three exact repeats removed. Of the 361 as they were, 340 are already plain or name a source no reading here opened, and 21 are paragraphs at which the second reading found a release or a re-saying losing or adding a thing. The second reading objected at 37 of 159 proposed changes, fewer than at the mates ahead of these. Each quotation in the paragraphs said again is an exact string of a living file, by search. The paragraphs opening as a plan named unfinished are 76 at the mates now, of 192. Each mate as it was ahead of the resolving is whole at `archive/carrying_v386EOD/`, named for its mate with `_before_resolving`. No living file is changed. — v386EOD
+
+**The older Droplets sections resolved and those unread.** Resolved by two readings: eighteen offering mates, 886 paragraphs. Read by no resolving reading: the older Droplets sections of fifteen offering mates, 1,014 paragraphs, those of Natural Physics and Equilibria Registry more than five hundred of them; and each mate's older Insertlets section. — v386EOD
+
+**Released at Offerings to Natural Networking, each with its evidence.**
+
+- The explaining of two earlier sections of Exhibit ONE Natural Resolver, as at home at Natural Networking. *The living file*: the two sections are at Exhibit ONE Natural Resolver no more, and Natural Networking has each of the four things named, the three columns at its 1.2 among them.
+- Instruments, callers and diagnostics at four places, with one home proposed. *Said whole at a mate*: Possibling of Natural Networking, "Instruments, callers and diagnostics at their proposed home · v385A", the paragraph word for word.
+- A proposed fifth part of Natural Intelligence, the object, with formal support at two kits. *Said whole at a mate*: Possibling of Living File Registry, "The earlier Natural Intelligence object-and-kit arrangement · v385A", the paragraph word for word.
+- *Each self's own two and one half consecutive momentaryings*. *Said whole at a mate*: Offerings to Co-Chaining Logic Registry, under its own heading of v385A, the paragraph word for word.
+
+**Released at Offerings to Resolving the Hard Problem Registry, each with its evidence.**
+
+- The registry pair's next at version 368, receiving the ten named and numbered. *The living file*: Exhibit TWENTY-TWO Resolving the Hard Problem Registry has each of the ten named at its number names, at its ten part titles.
+- Two hundred and fifty-five arrivals deployed at the earlier naming of the ten, to be at one name each. *The living file*: Exhibit TWENTY-TWO Resolving the Hard Problem Registry has "Two hundred and fifty-five arrivals stand at the incoming face, each of them deployed here", each of the ten at one name through the file; the numbers of findings laid beside it are a session's own.
+
+**Released at Offerings to Living File Registry, each with its evidence.**
+
+- The right spiral step, one step at two readings. *The living file*: Natural Intelligence, at 2.4, has "one step at two readings, the hand at the reading".
+- Natural Destinies' extension of the *discovery economy*, compared beside Natural Values and Natural Intelligence Corus, with nothing released or combined by it. *Said whole at a mate*: Possibling of Natural Values, "Discovery economy and expedition contributing · v385A", with the carrying mate of Natural Destinies.
+
+**Released at Offerings to Natural Explaining, each with its evidence.**
+
+- Natural Destinies and Natural Emanating at pass G, their receiving planned. *The living file*: Exhibit TWENTY-SIX Living File Registry's table of files has each at "pass G", and its 1.5 has the row of each receiving.
+- Natural Explaining receiving from Natural Intelligence the method at a sentence. *The living file*: Natural Explaining has it at its 2.1 and 3.1, and Natural Intelligence has no 8.7.
+
+**Released at Offerings to Hard Problem Registry, each with its evidence.**
+
+- The seventeen names at the earlier code at the Hard Problem Registry, and three of its sayings entered at the Co-Chaining Logic Registry. *The living file*: Exhibit TWENTY-ONE Hard Problem Registry has none of the seventeen names at its own voice, and the three sayings are steps of Exhibit THIRTY Co-Chaining Logic Registry.
+- Four rows of the Registry at version 376, each a saying of the Hard Problem Registry at a step with an unsure line alone or at no step: the scientific method as a method or an accounting, bi and co brought in by no step, one learning at two faces, and the registry's own closure. *The living file*: Exhibit THIRTY Co-Chaining Logic Registry has each as a step with its adding line and no unsure line, at steps 312, 17 and 327, 330, and 310, 315 and 322.
+
+**Released at Offerings to Natural Exploring, each with its evidence.**
+
+- Natural Intelligence's earlier 8.7, one method at a sentence, a file set and a session, proposed for other files. *The living file*: Natural Intelligence has no 8.7; Exhibit TWENTY-FOUR Geodesic Improving Method, at 1.1, and Natural Explaining, at 1.2 and 2.1, say it.
+- A proposed rebuilding of the Co-Chaining Logic Registry with its chain first. *The living file*: Exhibit THIRTY Co-Chaining Logic Registry is groups of steps with no part and no table of links.
+- Natural Exploring at pass G, its receiving with the Geodesic Improving Method as Exhibit EIGHT. *The living file*: Exhibit TWENTY-SIX Living File Registry has "EIGHT remains and carries the combined title."
+- A number of findings and a table's next step for the file at version 368. *A session's own record*: a number with no finding in it.
+- The proposed combining of Natural Exploring with the Geodesic Improving Method. *Said whole at a mate*: Possibling of Living File Registry, "Natural Exploring and Geodesic Improving Method proposed combination · v385A", the paragraph word for word.
+
+**Released at Offerings to Natural Mathematics, each with its evidence.**
+
+- The straddle, the continued fraction of ones, √5 and the five, to be at Natural Mathematics. *The living file*: Exhibit FOUR Natural Mathematics, at 2.8, has "φ's continued fraction is all ones, the slowest nearing and the widest straddle.", with the five at its 5.2 and at Natural Naming.
+- Natural Mathematics to have, from Natural Intelligence, the algebra of φ² = φ + 1, the list of the genus-one surface and the cube. *The living file*: Exhibit FOUR Natural Mathematics has each, at 2.8, at its 5.2 and at 3.6.
+- Natural Numbers with the particular numbers and Natural Mathematics with the general structures. *Said whole at a mate*: Possibling of Living File Registry, "Natural Numbers and Natural Mathematics subject separation · v385A", the paragraph word for word.
+
+**Released at Offerings to Natural Engineering, with its evidence.**
+
+- *Each self's own two and one half consecutive momentaryings*. *Said whole at a mate*: Offerings to Co-Chaining Logic Registry, under its own heading of v385A, the paragraph word for word.
