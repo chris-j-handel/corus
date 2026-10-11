@@ -13,3 +13,6 @@ No incoming value, concern or opportunity is kept here in place of a file in `ca
 - **Branch**: working/gathering-and-aiming-v386EOD, from the head of working/droplets-and-insertlets-v385A, offered as [draft pull request 132](https://github.com/chris-j-handel/corus/pull/132).
 
 — v386EOD
+
+
+**Receiving, at the session v387.** The person's sayings and the session's findings at no file are laid in their own words at the offerings of the Geodesic Improving Method, the Living File Registry, Natural Arriving, Natural Intelligence, Exhibit ONE Natural Resolver and Natural Naming, and the possibling of the Living File Registry; the eighty-two sentences at the offerings of Natural Medicine, Natural Health and Natural Biology; the record, the transcript and the working papers are emanations, relied on by nothing.

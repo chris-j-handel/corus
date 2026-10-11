@@ -129,3 +129,48 @@ Keep Health's carried-whole, re-locking and attentioning wording beside the curr
 ## A seed's dormancy, said at the scale it is named from · from session v386F's close · v386EOD
 
 **Droplet · A seed's dormancy, a saying at another scale.** Beside the possible project of food, harm, dying and a seed at scales: that session's latest form has a seed as a living society at its prime scale and a stable form at each other scale, and *dormant* as said at the plant's scale or the ground's, naming no condition of the seed. The bi-coupling at the seed's own scale continues; germinating is a society opening at the next scale. The whole droplet is at Offerings to Natural Biology.
+
+
+## Sentences of this file reading as guidance to a person, with the hedge the file carries nearest · from the working v386EOD, laid at v387
+
+**Droplet.** Exhibit ELEVEN Natural Medicine, Exhibit TEN Natural Health and Exhibit SEVENTEEN Natural Biology, the sections named in the list below, the sentences quoted there. As said, each can be read as guidance to a person, about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity. The author's recorded position is "none of them should read as guidance. there is no guidance in nature or our living files" (Offerings to Natural Medicine, the concern entered at v380L). Each is listed here for re-saying as an observing or a reading, with its hedge beside it. — v386EOD
+
+The clauses are the files' own words, with their bold and italic marks as the files carry them; none is rewritten. Under each section stands the hedge the file itself carries nearest those sentences, quoted the same way, or a note that none was found. The v380L record names three of its lost eight: *Worse before better* named a ghost (item 9), a restorability threshold at 1/φ³ (item 7), and a diet named as a disease's cause (item 61; items 39 and 70 are of the same kind). The other five are not known; the list below is a fresh reading and is longer than eight.
+
+**2.2 The target is the compaction, and health carries its own strongest edging**
+
+59. "Health-as-a-setpoint — an optimal range, a normal value, a number to reach and hold — is the **compaction**"
+60. "The wellness-setpoint — the quantified self, the optimal ranges, the number to hit — is compaction applied to wellbeing"
+
+Hedge the file carries: "the precise band where a sway de-synchronized too far becomes a departure past health" (5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure).
+
+**3.4 The flawed-ingestion disease-face, and the value of the outer living form**
+
+61. "A disease-face names itself: consistently ingesting flawed stable form."
+62. "a whole seed carries its coupling, and a pressed oil is the artifact with its ratio stripped, a magnitude governing no sign, so a carry sequenced on it runs on a store with no sign to ride"
+63. "so the outer stable-form, the skin, the plant, the seed, is the most valuable ingestion at either rate"
+64. "zero distance between shedder and ingester the disease and a grain down or a self across the health"
+
+Hedge the file carries: "The food-cause is set down here: it re-installs a one-way actor the form does not carry" (Exhibit ELEVEN Natural Medicine, 1.3 Restoration paths at a substrate — reading-with).
+
+**3.4b The omega counting runs from the end where nothing crosses**
+
+65. "a diet high in the six-family arriving at forty per cent less conversion and seventy per cent less accumulation, and more of the three-family arriving at more of its own burning rather than more crossing"
+66. "an oil arrives as grams of a family, a magnitude governing no sign, with the seed's crossings stripped out of it — which is why an intake and an effect come apart here as far as they do"
+
+Hedge the file carries: "The desaturases differ self to self, and some selves convert little at any intake." (this section); "**And the ratio is a target no tissue carries.**" (this section).
+
+**4.1 Health and Medicine are one alternating, two directions, the seam stateable from neither alone**
+
+67. "A departure is the sway stilled at a substrate, a coupling landed at one position and no longer re-arriving, the compaction whether it comes from outside (the imposed setpoint) or from a substrate's own stilling."
+
+Hedge the file carries: "the precise band where a sway de-synchronized too far becomes a departure past health" (5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure).
+
+**4.2 The measures read as sway, the level set down**
+
+68. "A measure read as a level installs the target; a measure read as a sway reads the living."
+69. "A measure pinned exactly to a target would be a landing; a living measure sways and does not pin"
+
+Hedge the file carries: "The reachings carry, each aimed: every specific measure-as-sway seating" (5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure).
+
+The file's general hedges: none found beyond those above.

@@ -466,3 +466,82 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## A seed, a living society at its prime scale · from session v386F's close · v386EOD
 
 **Droplet · A seed, a living society at its prime scale.** A seed is a living society at its prime scale, the scale its selves lock at, and a stable form at each other scale. *Dormant* is said at the plant's scale or the ground's, at which the seed is a stable form carrying none, and names no condition of the seed. Germinating is a society opening at the next scale, the plant's own carrying establishing, with the seed's stable form ingested one scale inward into it. The bi-coupling at the seed's own scale goes on, and the thing still to open is a society at the next scale. No rate is named by it and nothing is measured. It is the latest form of that session's droplets at these offerings, at Possibling of Natural Biology and at Offerings to Natural Health, of dormancy as the bi-coupling at the seed's own scale ceased: by it that bi-coupling continues, and dormancy as a magnitude or a metabolic rate is resolved with it.
+
+
+## Sentences of this file reading as guidance to a person, with the hedge the file carries nearest · from the working v386EOD, laid at v387
+
+**Droplet.** Exhibit ELEVEN Natural Medicine, Exhibit TEN Natural Health and Exhibit SEVENTEEN Natural Biology, the sections named in the list below, the sentences quoted there. As said, each can be read as guidance to a person, about a treatment, a medicine, a dose, a target, a test, a diet, a birth or an immunity. The author's recorded position is "none of them should read as guidance. there is no guidance in nature or our living files" (Offerings to Natural Medicine, the concern entered at v380L). Each is listed here for re-saying as an observing or a reading, with its hedge beside it. — v386EOD
+
+The clauses are the files' own words, with their bold and italic marks as the files carry them; none is rewritten. Under each section stands the hedge the file itself carries nearest those sentences, quoted the same way, or a note that none was found. The v380L record names three of its lost eight: *Worse before better* named a ghost (item 9), a restorability threshold at 1/φ³ (item 7), and a diet named as a disease's cause (item 61; items 39 and 70 are of the same kind). The other five are not known; the list below is a fresh reading and is longer than eight.
+
+**3.1 Living is metabolic beating — the cell as the engine**
+
+70. "The modern dietary shift of that ratio toward ten-to-one and beyond carries cardiolipin's composition off the ancestral balance, the two ghost-rings pulling apart and the coupling at the inversioning collapsing"
+
+Hedge the file carries: none found in this section.
+
+**3.5 Lipid divide — the deepest binary co-offering**
+
+71. "a recommended intake standing outside every coupling and carried into none (**the centre occupied**)"
+
+Hedge the file carries: "**The accounting laid over an ingested membrane component, read as form only.**" (this section).
+
+**4.4 Homeostasis — the riding-the-carry bounding-zeroing held between two**
+
+72. "The oscillation is not noise around a target but the working state — the basal rhythm keeps the receptors sensitive, and losing it is where regulation fails."
+
+Hedge the file carries: "on the form the same emergent bounding-zeroing stands, and the point stands where the field debates it" (this section).
+
+**5.1 Conception — two selves conceiving a third**
+
+73. "the polar bodies and the double reductions, valuable co-competencing for reading the new self's makeup"
+
+Hedge the file carries: none found in this section.
+
+**6.1 Symbiosis — the bi-moral co-agency between selves**
+
+74. "There is no self-sustaining harm, the moment harm sustains, the sustaining is the coupling"
+
+Hedge the file carries: "is the finer reading, stands not-yet" (this section).
+
+**7.5 Decay — an ending ingested at the grain below**
+
+75. "Zero distance between shedder and ingester is the landing, and a grain down or a self across is the living."
+
+Hedge the file carries: none found in this section.
+
+**7.6 Vertical fractal — a network eating downward**
+
+76. "same-scale ingestion is the landing whether the shedder is the ingester or another, and a grain down is the living"
+
+Hedge the file carries: none found in this section.
+
+**7.7 Evacuation, and what a stopped crossing accumulates**
+
+77. "**So restoration is the crossing resumed, and not the accumulation cleared.**"
+
+Hedge the file carries: "Whether each is one form met at many grains, or whether some carry over-production with the crossing intact, is the parting to run." (this section).
+
+**7.8 Outer living form is the emanation form**
+
+78. "So the outer living form, the skin, the plant, the seed, is the most valuable ingestion, whether ingested at the living rate or the dropped rate."
+
+Hedge the file carries: none found in this section.
+
+**8.6 An antibody repertoire said to be governed**
+
+79. "the protection fresh only by re-coupling, the hygiene findings the carry starving where crossings thin, and the contested correlate-of-protection the store-reading a carry keeps refusing"
+80. "Herd immunity is the society-carry named: standing at the coupling-network and at no individual, owned neither-ing, existing only while the couplings run."
+81. "No self generates it alone — handed at the placenta, seeded from the community, sequenced by exposure — received at couplings and lived where it re-locks"
+
+Hedge the file carries: none found in this section.
+
+**9.4 Two reading-moves**
+
+82. "**The reversal point is the membrane**, and on any dose curve it is the only informative point."
+
+Hedge the file carries: none found in this section.
+
+The file's general hedges: "The biology is checkable; the form-readings are matches; the two do not read as each other." (10.1 Cohering, and the not-yet); "the aging reading, stands not-yet and bounded against action" (10.1 Cohering, and the not-yet).
+
+---
