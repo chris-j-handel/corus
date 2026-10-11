@@ -20,3 +20,15 @@ Gather the remaining subject value into Living Improving Value and then its subj
 
 - At the droplet aimed at a sentence, Natural Intelligence Corus, *The only millennium problem that resolves does not resolve by proof*: Resolving where this passage is distributed, the sentence said as three right turns arriving at a proof.
 - At the droplet aimed at a sentence, Natural Intelligence Corus, *the transformer architecture's 128 learned coupling geometries*: The passage re-said at the binary, as that incoming has it, with no count of heads carried.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Intelligence Corus, *The only millennium problem that resolves does not resolve by proof*: Resolving where this passage is distributed, the sentence said as three right turns arriving at a proof.
+- At the droplet aimed at a sentence, Natural Intelligence Corus, *the transformer architecture's 128 learned coupling geometries*: The passage re-said at the binary, as that incoming has it, with no count of heads carried.

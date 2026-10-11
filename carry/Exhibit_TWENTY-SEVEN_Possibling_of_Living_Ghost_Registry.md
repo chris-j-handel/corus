@@ -15,3 +15,14 @@ The Natural Resolver contents, explaining distribution, naming arrangement and e
 **Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
 
 - At [Carbon in surface seawater](Exhibit_TWENTY-SEVEN_Carryings_of_Living_Ghost_Registry.md#carbon-in-surface-seawater): The measuring's own publishing.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [Carbon in surface seawater](Exhibit_TWENTY-SEVEN_Carryings_of_Living_Ghost_Registry.md#carbon-in-surface-seawater): The measuring's own publishing.

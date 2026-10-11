@@ -30,3 +30,14 @@ Natural Intelligence Possibling · v386EOD
 **Possible project · The opening's clause released at each file having it.** The work is the clause both living and non-living released at each place of the opening sentence, one motion at each file: Natural Intelligence's 1.1 and 6.6, with 1.1's five terms said as four; Natural Naming, the Co-Chaining Logic Registry at steps 1 and 16, Natural Arriving, Resolving Hard Problems, Natural Mathematics and the Living File Registry, each quoting the sentence; the closing of Resolving the Hard Problem Registry and the front of the Hard Problem Registry; and the lines under the titles of Resolving Hard Problems and the Equilibria Registry, each naming living and non-living. The files opening in their own words are as they are. The Geodesic Improving Method's "The changing and the exchanging are among living and non-living existing things alike" is whole as it is, with living and non-living said at scales. It may change or never be made.
 
 **Possible project · Five dimensions at two directions as the ten positions.** The work is a deriving at the names: the five dimensions of Natural Intelligence's 3.2, "each binary in its two directions", laid beside the "ten positions on six numbers" of 2.2 and "The ten roots are the two sides' ten positions" of 4.8, to show the ten as five by two or to show the two tens apart. The sentence offered for 3.2 once derived: The five dimensions at their two directions, along at the momentaries and across at the scales, are the ten positions, the full dimensionality of 1 to 17, and no further dimension is possible. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- Resolving at Exhibit ONE Natural Resolver, where 5 is read from the selves' carryings: [the possible project](Exhibit_ONE_Possibling_of_Natural_Resolver.md#5-read-from-the-selves-carryings--v386eod). An observing of a coupling beginning through an other both selves already share with, for this file's carrying mate. — v386EOD.

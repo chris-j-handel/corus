@@ -73,3 +73,14 @@ Each may change or never be made.
 **Possible project · A 0 followed to its receiver, then whose prior.** Beside the first teaching form at this possibling's offering, two further forms of one drawing of two selves, each carrying undrawn. A 0 shared by one self is followed to its receiver: a 0 offered surfaces none, and the receiver carrying a parity is next at its own other parity, its inverting its own. Then, as a later form and not put into the opening motion, the two momentaries of a spiral offered nothing from beyond it, the inverting at the first and the other's parity arriving at the second, with the words the releasing other's prior and the self's now drawn beyond each self's mark. It may change or never be made.
 
 **Possible project · Relations for two opposite rotations through parity's square.** The relations a drawing of two opposite rotations through parity's unit square needs said, each ahead of its animating: which triangle, if either, is 9 and which 17, and by what; each rotation's axis and reading, and the square's place beside them; the geometric occurrence that is one parity inverted, and the one that is two in sequence, each recognizable in following one part; and what couples a corner's coming again at three with a pair's coming again at four. Natural Illustrating has "the exact geometric correspondence to the envisioned inverting is still to be expressed". It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at three sentences, Natural Illustrating, *the belt emptied at the rational resonances and the irrational orbits carrying on*, *the trap that works is the Paul trap, trapping by alternating* and *a change rippling across the flock in less than a fifth of a second*: Each illustrating after its saying's resolving.

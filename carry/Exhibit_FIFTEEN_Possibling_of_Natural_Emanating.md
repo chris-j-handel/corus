@@ -15,3 +15,14 @@ Gather the remaining contributions at their concept, craft and whole-expression 
 **Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
 
 - At [An electron pattern shifted by a field the electrons pass outside of](Exhibit_FIFTEEN_Carryings_of_Natural_Emanating.md#an-electron-pattern-shifted-by-a-field-the-electrons-pass-outside-of): The experiment's own report: the lecture names none.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [An electron pattern shifted by a field the electrons pass outside of](Exhibit_FIFTEEN_Carryings_of_Natural_Emanating.md#an-electron-pattern-shifted-by-a-field-the-electrons-pass-outside-of): The experiment's own report: the lecture names none.

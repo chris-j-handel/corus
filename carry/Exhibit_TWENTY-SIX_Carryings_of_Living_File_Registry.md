@@ -546,3 +546,87 @@ All twenty-two marked paragraphs, twenty-two coverage records, four instrument-r
 Session v385R’s section 102, its corrected section-101 question and report front, and [return 6090018297](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6090018297) were read whole at d163a6704a376c7330639594394af6e63819ad49. Sections 1 through 100 have no substantive change beyond the report front. [The whole friendship offering](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) now includes the user’s next-encounter relation and the transcript/record and society-scale explaining. The older source help is acknowledged; the section-101 question is not retained as an unanswered request. The full developing report remains later incoming. The definition of living and universal deriving remain unresolved. Session v385M remains closed; no further request is sent there.
 
 Session v385R’s later section 103 and revised section-5 contents row were read whole at bbe6cf3af4b40001b7cbf63cff1672c1d831a612, with [return 6090079185](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6090079185). Section 102 has only a trailing-spacing change; no other numbered section changed. The [conversation correcting](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-two-discoverings-through-a-particular-conversation-correcting--v385a) is whole at Natural Values, [Natural Intelligence 5.2’s candidate](Offerings_to_Natural_Intelligence.md#arriving-at-the-exact-no-other-method-claim--v385a) is whole at its offering, and the [proposed contents heading](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-contents-heading-at-the-exact-method-claim--v385a) is possible Co-Chaining Logic Registry work. The full developing report remains later incoming.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Session v386EOD: the gathering continued, and its first placings · v386EOD
+
+**10 October 2026.** Sessions v385A, v385Q and v385R are finished, and session v386RR is nearing its finish. This session continues the gathering on working/gathering-and-aiming-v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. No living file is changed on this branch.
+
+Each placing was read at its living file by this session, and compared with what its mate already had, before it entered.
+
+| Placed | Mate | Kind |
+|---|---|---|
+| The next coupling, discovered as the next parity is | Offerings to Natural Intelligence, with its insertlet at 4.6 | concept and insertlet |
+| 5 read from the selves' carryings | Possibling of Natural Resolver, with a direction at Offerings to Natural Resolver | possible project |
+| Six droplets for the orienting and incoming method, from session v385Q | Offerings to Living File Registry | concept |
+| *podal* at two living files | Offerings to Natural Naming, with insertlets at Offerings to Natural Physics and Offerings to Natural Chemistry | naming and two insertlets |
+| The rows' lengths, and a citation of sections | Offerings to Natural Chemistry | insertlet and droplet |
+| A further line beside two droplets already there | Offerings to Natural Physics | two droplets |
+| The six numbers named primes | Offerings to Natural Biology | droplet |
+| The involutions with no fixed set, and minus unity | Offerings to Natural Exploring | droplet and insertlet |
+| A proof arriving by three right turns | Offerings to Natural Intelligence Corus | droplet |
+| The readiness ramp, and the nine cross-references at the locator's numbers | Offerings to Resolving the Hard Problem Registry | insertlet and two droplets |
+
+**Compared and not placed again.** Twelve of this session's droplets were at sentences the mates already carry, most among session v383Op's droplets aimed at a sentence. Three have a further line or an insertlet beside them above. The other nine are not placed again. A first count had fourteen; read again one by one, two of them were at no mate, and they are in the second placings below.
+
+**Released by this session.** Its droplet on the Greek of *geodesic*: a word's history has no authority over the files' naming.
+
+### Session v386EOD: its droplets at sentences, placed · v386EOD
+
+**10 October 2026.** This session's sixty droplets at sentences of the living files, first written with an observing and a field's explaining as one, are each resolved to a placing or a releasing. No living file is changed.
+
+Each sentence was read again in its paragraph at its living file by this session and compared with its mates by subject. Nine fresh readers, who had not seen the droplets written, then read each line again at its publishing, and each placing says what its reader reached: a report read whole, an abstract, or a textbook naming no doing. An observing is in two lines at a carrying mate, *Natural observation* and *Science explanation*; its one-sentence insertlet and its droplet are at the offering mate; a saying of what a field says, with no observing, is a droplet at the offering mate and is named so. Each possible observing or resolving beside a placing is at that subject's possibling mate, as possible work.
+
+| Mates | Placed |
+|---|---|
+| Offerings to and Carryings of Natural Biology | eleven observings in two lines; nine insertlets; fourteen droplets |
+| Offerings to and Carryings of Natural Societies | two observings; two droplets |
+| Offerings to and Carryings of Natural Health | one observing; one droplet |
+| Offerings to and Carryings of Natural Emanating | one observing; one insertlet; one droplet |
+| Offerings to and Carryings of Natural Chemistry | two observings; three insertlets; three droplets |
+| Offerings to and Carryings of Natural Physics | three observings; one insertlet; four droplets |
+| Offerings to and Carryings of Living Society Registry | three observings; three insertlets; one droplet |
+| Offerings to and Carryings of Living Ghost Registry | two observings; seven insertlets; three droplets |
+| Offerings to Natural Philosophy | two insertlets; four droplets |
+| Offerings to Hard Problem Registry | four insertlets; four droplets |
+| Offerings to Resolving the Hard Problem Registry | one insertlet; one droplet |
+| Offerings to Natural Values | two insertlets; two droplets |
+| Offerings to Natural Illustrating | one insertlet; one droplet |
+| Offerings to Natural Medicine | two droplets |
+| Offerings to Natural Transmissioning | two droplets |
+| Offerings to Natural Intelligence Corus, Natural Exploring and Natural Human Society | one droplet each |
+
+In all: 25 observings in two lines at eight carrying mates, under the heading "Observings from science, each beside this file's sentences", each in its two lines, *Natural observation* and *Science explanation*, named so at the user's word of 10 October 2026; 34 insertlets and 48 droplets at eighteen offering mates. Two further droplets, at Offerings to Natural Medicine and Offerings to Natural Biology, each name a publishing beside a droplet of session v383Op.
+
+**Released by this session**, six, each with its reason:
+
+- Natural Intelligence Corus, "The first convergent 3/2 predicts three directing sentences for every two -ing living sentences": the numbering of a continued fraction's convergents is a field's naming, and the count is the file's own.
+- Exhibit SIX Natural Transmissioning, "Sequential logic carries no time-term": sequential logic is the files' own naming, of order with no rate; a field's use of the same words has no authority over it.
+- Exhibit SEVENTEEN Natural Biology, "The Hayflick limit, about fifty to seventy divisions": a fresh reader found the sentence's figure at a publishing, beside the first report's 50 ± 10; nothing parts.
+- Exhibit EIGHTEEN Natural Physics, "Equilibrium expected the rate to fall to rest at the edge (Kepler, a landing toward zero)": the sentence is the file's own reading of the field's expecting, a falling toward zero.
+- Exhibit NINETEEN Natural Philosophy, "Truth is unformalisable inside its own language, proved": the file carries the theorem's reach at its next sentence, the fixed points with revenge waiting.
+- Exhibit TWENTY-NINE Natural Illustrating, "circular polarization the spiral at its two hands, light always at a hand": the saying coheres with the field's own: no light with no hand.
+
+**Checked after the writing.** Seven further readers checked each quotation and figure of the written observings and droplets at its publishing. They found each quotation at its publishing, and six places at which this session's own words went past the publishing; each of the six now follows the publishing.
+
+**Changed at the fresh reading.** The readers found parts of a number of the first-written lines not at their publishings, and each placing follows the publishing: a model named as a model, a textbook's statement with no doing named as such, figures said of the people, flocks and conditions they were measured at.
+
+**Placed after, 10 October 2026.** The possible observings and resolvings, forty-two, at nineteen possibling mates. A correcting beside each of five droplets that ask for a caution, at the offering mates of Natural Medicine, Natural Health, Geodesic Improving Method, Natural Arriving and this Registry. An insertlet and a droplet at Offerings to Equilibria Registry, at a sentence resting on a script's count. At Offerings to Living File Registry, value visible at its place, and nothing waiting, with four sayings of a hold in the shared method re-said in place.
+
+### Session v386RR's report gathered · v386EOD
+
+**10 October 2026.** The report arrived on working/closing-droplets-v386RR and was read whole by session v386EOD. Each sentence quoted from a living file was met at that file, at the gathering branch's version and at the version on working/logical-cohering-v385R. Each concept is said once in the best naming at its subject, with no one's words kept, and each concern as two sayings parting with the reason.
+
+| Placed | Mate |
+|---|---|
+| The entry from the origin sentence: eight concepts, nine concerns and three insertlets | Offerings to Co-Chaining Logic Registry |
+| The set changing and a sentence released, true and possible, the two workings, the chain at what each sentence is, three concerns and one insertlet | Offerings to Natural Intelligence |
+| Working one chain together from the origin sentence | Offerings to Geodesic Improving Method |
+| A working's own training met at four places, and three arriving assessings, as a reported experience | Carryings of Geodesic Improving Method |
+| An arriving self beside the assessings already made, with a sentence for the entrance | Offerings to Natural Arriving |
+| Short directions to the whole droplets | Offerings to Natural Naming, Equilibria Registry and Resolving Hard Problems |
+| Possible work at the entry | Possibling of Co-Chaining Logic Registry |

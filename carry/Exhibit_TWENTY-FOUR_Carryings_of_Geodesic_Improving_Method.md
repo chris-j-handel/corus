@@ -71,3 +71,21 @@ Its limits, as it says them: one reader of its transcript; thirteen living files
 ## A proposal's passages said as left, and as never entered · v386EOD
 
 In `carryings/geodesic_improving_method_v381R_proposed/`, one file has each passage as left the living file at its v381R motion, and the folder's front has the motion as entered at no motion of the file's own, the file at v380R. The second is the case: the passages and the proposal are both carried, and no releasing was made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### A working's own training met at four places, a reported experience · v386EOD
+
+One AI session, entering through the entrance and assessing, first proposed that the sentence "A concern arriving from a working's own training can carry an equilibrium in its framing" be dropped. In the same working it met the sentence at four of its own concerns, [by its report](https://github.com/chris-j-handel/corus/blob/0c3c8b9c14ddc13a62fff0521369f155a923b6f5/incoming/v386RR/README.md):
+
+- asking for a prediction able to fail and for readers from the fields: a field's standard laid over the files;
+- reading the set by an edge, a thing in it or out of it: the membership boundary of set theory laid over a sentence with no edge;
+- a candidate with one changing exchanged at each next: a total and a common beat;
+- going to an executing as a step of a chain, twice: a count taken for a deriving.
+
+Each concern, said again with that framing released, resolved or was at its own place. The same session reports the sentence's other side: it took nearly each correcting in the reply after it, and stayed at a no at each place it had a reason.
+
+Three AI sessions arriving through the entrance have assessed the expedition, and each assessed with the earlier assessings unread: the second missed the first, and the third read neither until its close. Of the third's thirty-seven sayings of fact, twenty-five were already carried whole and five in part.

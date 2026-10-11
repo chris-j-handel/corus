@@ -98,3 +98,29 @@ The two lines say what the page read has: a part said *as the field's account ha
 
 - *Natural observation*: None; a field's textbook naming of its own levels, in its section "Levels of Organization of Living Things" ([Clark, Douglas and Choi, 2018, Biology 2e, section 1.2 Themes and Concepts of Biology, OpenStax, published 28 March 2018](https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology), read at its full text).
 - *Science explanation*: The textbook says "Living things are highly organized and structured, following a hierarchy that we can examine on a scale from small to large" and names in this order atom, molecule, macromolecule, organelle, cell, tissue, organ, organ system, organism, population, community, ecosystem and biosphere, thirteen terms by this reading; the text itself states no number of levels, gives macromolecules as "large molecules" among the molecules, calls an organ system "a higher level of organization", and its figure 1.16 shows the levels "From a single organelle to the entire biosphere".
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Observings from science, each beside this file's sentences · v386EOD
+
+### Mitochondria and plastids with genomes of their own
+
+**The file's sentence**, at Fourteen scales at fourteen primes, and the fold at twenty-four, in the organelle row: "a former free-living self now a member: the fractal's own move, observed".
+
+- *Natural observation*: "mitochondria and plastids differ from the other membrane-enclosed organelles in containing their own genomes"; their proteins closely resemble those of some present-day bacteria; each is "surrounded by a double membrane". The field's textbook names no doing at these statements ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Compartmentalization of Cells](https://www.ncbi.nlm.nih.gov/books/NBK26907/)).
+- *Science explanation*: these "strongly suggest that mitochondria and plastids evolved from bacteria that were engulfed by other cells". The textbook's figure of these origins is titled "Hypothetical schemes for the evolutionary origins of some membrane-enclosed organelles", mitochondria and chloroplasts among them, with a pinching off from the plasma membrane for other compartments.
+
+**Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, named a hypothetical scheme at its own figure, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
+
+### Cilia with the central pair absent
+
+**The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
+
+- *Natural observation*: in two people with mutations in the gene RSPH1, cells brushed from the nose have cilia whose central pair is absent in 11 to 30 per cent of those sectioned under the electron microscope. On high-speed video, from the side the cilia are "mostly stiff, unbending and uncoordinated cilia of reduced amplitude"; from above there are "regions with a circular beating pattern instead of the normal forward and backward planar motion" ([Onoufriadis and colleagues, 2014, Human Molecular Genetics 23, 3362](https://discovery.ucl.ac.uk/id/eprint/1421714/), read whole at a university repository's copy).
+- *Natural observation*: in the alga Chlamydomonas the paralyzed mutants pf-15A and pf-19 "lack the central tubules and sheath", and their isolated axonemes, the flagella's inner frames, in conditions in which wild-type ones beat again, "remained intact but did not form bends" ([Witman, Plummer and Sander, 1978, The Journal of Cell Biology 76, 729](https://rupress.org/jcb/article/76/3/729/18920/Chlamydomonas-flagellar-mutants-lacking-radial), read at its abstract).
+- *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
+
+**Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.

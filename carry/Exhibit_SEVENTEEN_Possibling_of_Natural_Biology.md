@@ -75,3 +75,26 @@ Each may change or never be made.
 ## Five sayings of Natural Biology at scales · from session v386F · v386EOD
 
 **Possible project · Five sayings of Natural Biology at scales.** Five sayings of Natural Biology said at scales. A seed and a spore, at 4.1 and 7.8, as a carrying wrapped: non-living at its own scale with its selves living inward, dormancy the bi-coupling at its own scale ceased, and germinating that bi-coupling opening again. The conceived, at 5.1, as one self at the organism's scale from its opening momentary. Ingesting, at 7.5, named from the ingesting self's nearest inward society. A shed form, at 3.3, breaking down from within, its inward societies living on. And at 10.4 each prime with a number of bi-coupling selves at one scale, or released. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [A plasmodesma, one cytoplasm through two cells](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#a-plasmodesma-one-cytoplasm-through-two-cells): Resolving at the sentence: what is between two plant cells at a plasmodesma. The concern at the placenta in [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#droplets) is at the same saying.
+- At [Respiration's heat](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#respirations-heat): Resolving at the two sentences, and the measuring's own publishing: the textbook names none.
+- At [Supercoils ahead of a transcribing polymerase and behind it](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#supercoils-ahead-of-a-transcribing-polymerase-and-behind-it): An observing of the supercoils at a transcribing polymerase itself: this publishing is a model.
+- At [Collagen's three chains joined before its release](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#collagens-three-chains-joined-before-its-release): The observing's own report for the order of the steps.
+- At [Copying errors at three steps](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#copying-errors-at-three-steps): The measuring's own publishing: this table names none, and no other publishing was read.
+- At [A sperm's mitochondria inside the egg](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#a-sperms-mitochondria-inside-the-egg): The report's body, for the doing and for what is seen of the mitochondria later.
+- At [Tracheae and gut through a chrysalis, and an aversion carried into the moth](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#tracheae-and-gut-through-a-chrysalis-and-an-aversion-carried-into-the-moth): Resolving at the sentence, and an observing at muscle.
+- At [An aphid making carotenoids](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#an-aphid-making-carotenoids): The report's body, for the doing.
+- At [Displaced monarchs fly on at one heading](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#displaced-monarchs-fly-on-at-one-heading): Resolving at the two sentences.
+- At [Correlation across a starling flock, and a turn travelling through it](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#correlation-across-a-starling-flock-and-a-turn-travelling-through-it): Resolving at "That the correlation does not decay with distance".
+- At the droplet aimed at a sentence, Natural Biology, *the six substrate-positions carrying nesting-table primes (cristae 22, renal 26, inner-ear 28, hepatic 33, bronchioalveolar 34, spermatogonial 38)*: Resolving at this file's improving, from the nesting table these numbers arrive from: which number is at each position, and what the table names a prime.
+- At the droplet aimed at a sentence, Natural Biology, *Seven independent phyla carry the same geometry*: The seven named, each with its observing, or the count released.
+- At the droplet aimed at a sentence, Natural Biology, *two genus-nought cells arriving as one multinucleated genus-one fibre*: Resolving at the sentence, at which surface the fibre's torus is said of, and an observing of the pores at two myoblasts fusing.

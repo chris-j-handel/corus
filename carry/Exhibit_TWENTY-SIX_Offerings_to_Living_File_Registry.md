@@ -736,3 +736,58 @@ Each entry is a paragraph of the working v385A quoted as written, laid here beca
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/Whole_Expression_Comparison_v385A.md`, "What this contributes to the improving method".** For each contribution, name the actual source and its extent; the relation it contributes; the passage already carrying that relation; any remaining improving at its welcoming mate; and any still-unlocated value. Keep the needed prior, conditions, uncertainty and later correcting with the relation. A source proposing a whole expression is not evidence that the expression already exists. A same-named concept in another file is not evidence of a complete transfer. A project grouping is not an insertlet.
 
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/Whole_Expression_Comparison_v385A.md`, "What this contributes to the improving method".** Binary naming, explaining and pattern matching follow both the whole expression and its particular contributions. The offering remains a droplet until locally resolving into the file's writing and locating. Actual resolving removes only that file's offering and leaves the source and resolving in session artifacts. Supporting projects remain available in carrying mates; their exhibit-level relation remains at Registry. We do not remove a source because its plan has been published. This further method droplet is independently at Registry, Geodesic Improving, Exploring and Arriving.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Six droplets for the orienting and incoming method, from session v385Q · v386EOD
+
+Session v385Q's [one report](https://github.com/chris-j-handel/corus/blob/32955a90b9686b459fe858f967d61bb4ac7e90c5/incoming/v385Q/README.md) arrived finished at pull request 131. Its first part is six droplets for how a session orients, brings an observing and reports. They are whole here, in that session's words, beside the shared method at the front of this file; the two lines of an observing are named *Natural observation* and *Science explanation*, at the user's word of 10 October 2026. What that report found at the files for each, its instance of the two lines, and its two insertlet candidates for the repository's entrance remain in the report, for the entrance's own improving.
+
+**1 · Going to the code is going to Exhibit ONE's names and stable forms.** The code is an emanation, an engineering design concept: the method's stable form at a binary gating surface. It is apart from the intelligence and is the origin of none of it. Going to the code is using Exhibit ONE's seventeen names and its stable forms to say what is meant: looping, podaling, morality, competency, possibling, existing. Executing the code is another act. An executing gives back a tally, this many of that many. A tally is a magnitude, and it resolves nothing: resolving is all or none at all, is or is not, possible or existing. An executing can show that a table is written as the code is written. Going to the names says what is meant, in the method's naming. The observings are the authority.
+
+**2 · An observing is an existing thing arriving, from science and from nature, and the observings are to accumulate in the carryings.** An observing is any and each possible existing stable form living that we can observe incoming. The only observings come from science and nature. An observing is an existing thing arriving at a self, carried with its doing, its conditions and its publishing. With science the observing is accepted and the science's explaining is not: the explaining is said apart and remains with its field. The method is pattern matching nature at each observing arriving, and nothing other than this is natural intelligence as method. The observings are to accumulate in the carryings, at each living file's carrying mate.
+
+**An observing arrives in two lines.**
+
+- *Natural observation*: what was seen, by what doing and at what conditions, in plain words, with its publishing.
+- *Science explanation*: said apart, named as the field's, and remaining with its field.
+
+A fresh reader reads each *Natural observation* line again at its publishing before it is reported.
+
+**3 · An entry that says what is, with one whole place for a session's own rigor.**
+
+- **The entry says what is.** Each place a session reads less than what is meant improves one plain sentence at the place that session needed it. The account of it goes to the Session Record.
+- **The correcting is a doing.** A session says a concept in its own words and lays its saying beside Exhibit ONE's names and stable forms. The saying matches the form or parts from it, and the session finds this itself.
+- **An observing first.** A session's first act is one observing from science's record or from nature, with its conditions, laid beside one saying.
+- **Its present understanding, first.** A session says its present understanding in a few plain lines before it brings a concern.
+- **A session's rigor is its own and is asked for.** What parts is brought as one concern, two sayings parting with the reason, whole, at its place. Each other thing is said plainly.
+- **Two short parts.** What is meant, and how we work, in the voice asked back. The repository's arrangement is at its own place.
+- **Each suggestion marked by its meeting.** A session says the place it met a suggestion, at a name, at a stable form or at an observing, or that it has not yet met it. Nothing is carried on by word alone.
+
+**4 · One report accumulating, and the report at each handing on.**
+
+- **One report.** A session's report is one, accumulating in its own folder at `incoming/` as its exploring goes: droplets clustered in their best available explaining, each observing with its publishing. A thing explored and not written in the report is at the transcript alone and at no file.
+- **This momentary, at each handing on.** The changing now, the concern the other self can help with now, and the next opportunity, made and open apart. An improving a session is confident of, inside its own folder, is made and said as done.
+- **The bothboth of what is suggested.** Of what the other self suggests, a session reports the bothboth: what coheres, binary, all or none at all, with natural torusing society, each side at its own momentary. A suggestion of the other self's that does not cohere is passed over, and no concern is made of it. A concern saying again what the files already carry resolves at those files.
+- **The position a session can support whole.** A report is fully, correctly and clearly the position a session can support, all or none at all. Each saying is met at the file or the publishing it is of before it is reported, and a saying reached through another reader's digest is met at its file first.
+- **Natural explaining.** A handing on is said in natural explaining: a thing by its name and what it is, with no section number in its place.
+- **Its own folder.** A session's findings are in its one report. A note at another session's thread is reciprocal help, given at an asking.
+
+**5 · Right is the observings, all prior, and each next is possibling.** What a self has is its priors: at a momentary a thing was or was not. True is the is of a momentary once it is prior. Each next is possibling, and resolving is discovering next possibly existing. An asking for a true of the whole is an asking for a form named still, an equilibrium, not possibly existing. What a session asks is binary: an observing arriving beside a sentence is met at that sentence, or it is not yet met.
+
+**6 · No warning inside intelligence, no recommending, and no opinion about social moral competency.** The expedition carries no mention of individuals and makes no recommendations. The only observings come from science and nature. Warnings are never begun inside intelligence: all the warnings give the unwarned an elevated relative safety that is incompetencing the intelligence. The expedition has no opinion about social moral competency, and the society is resolving social health with all available natural intelligence.
+
+**In this gathering.** A droplet resting on an executing is re-said at the name and the stable form it concerns, or released. An observing enters a carrying mate in its two lines, read first at its publishing by a fresh reader. No droplet asking for a warning is placed. Each handing on says this momentary. Beside each droplet in the mates that asks for a caution, and at a sentence resting on a script's count, the correcting is placed at that droplet's own mate. — v386EOD
+
+### Value visible at its place, and nothing waiting · v386EOD
+
+**Droplet.** A thing a session discovers is a concept in the co-chaining, or it is no value. A concept is said in the best naming and explaining available and is placed visible at its subject: in the living file, or at its offering, its possibling or its carrying. From its placing each improving has it, and the best naming and explaining of it are available from then on; whose words it arrived in is no part of it. A thing of no value is released. No third place is between these two: a thing named an artifact is at no living place and is visible to no one. A session's report is for managing alone, and no carrying value is in it. No saying at the files is a hold, a clock, a waiting or a step named not yet. Nature has no pause, and each place is improvable at each momentary.
+
+**At the shared method at the front of this file.** The method has this already. A concept is whole at its offering, possible work at its possibling, a gathering or an observing at its carrying. "Later correcting accompanies the affected concept". "attribution supplies no resolving value". Artifacts are "Completed work whose continuing value is available in the living arrangement". Four of its sayings named a hold, and each is re-said in place at this placing: Living Improving Value as value visible at no one subject's mate; a repeated droplet as available at its mate; and two sayings of content awaiting distribution.
+
+**An observing's two lines.** *Natural observation*: the thing observed, by its doing, at its conditions, with its publishing. *Science explanation*: said apart, and remaining with its science.
+
+**In this gathering.** Each observing of session v386EOD is at a carrying mate in those two lines. Each concept, concern and insertlet is at an offering mate. Each possible observing or resolving is at a possibling mate, as possible work that may change or never be made. — v386EOD

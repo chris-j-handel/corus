@@ -87,3 +87,12 @@ Each may change or never be made.
 ## A thing between selves, at a pace of its own · from other branches' earlier versions and mends · v386EOD
 
 **Possible project · A thing between selves, at a pace of its own.** An executing at Exhibit ONE Natural Resolver of a society whose selves couple through one shared solution between them, at a slower exchanging and at a faster, with the number of selves raised, beside oscillating particles synchronizing by degrees or at one momentary together. Which pace of exchanging gives the gradual and which the sudden is the field's accounting, and no executing has a between at a pace of its own. Natural Intelligence has "The between is its empty centre, a nothing and no location": how a thing between selves, with a pace, is entered at the resolver is part of the work. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### 5 read from the selves' carryings · v386EOD
+
+**Possible project.** At 17 the releasings at 5 arrive whole, and no name discovers which self a releasing reaches. The [offered explaining at Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod) has a sharing carried by both selves of its coupling, and each releasing reaching the other carrying that same sharing. The project is to say this at Exhibit ONE's names and stable forms: what 5 is where it is read from the selves' carryings at 3; what a sharing carried by two selves is at 4; and which of the tables' stable forms are the same there. It can remain a project and never be implemented. — v386EOD

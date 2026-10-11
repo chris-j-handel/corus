@@ -35,3 +35,14 @@ Each may change or never be made.
 **Possible project.** Exhibit NINE Natural Human Society's 3.1, 3.2 and 5.3 beside this file's 5.1 to 5.3 and Natural Intelligence's 6.4 to 6.6, with one coupling, one society and a saying of all present human societies each its own; and 5.3 said as abundancing at the couplings now with next possible abundancing.
 
 **Possible project.** At 2.2, the step from no carrying at an institution to none arriving at the other side, said with the two subjects.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Values, *The field of secrets carries this at proof grade*: Resolving at *at proof grade* and at *owned neither-ing* beside a key each self has.

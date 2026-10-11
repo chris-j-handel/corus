@@ -29,3 +29,14 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## Entries for what is life, the cell, reductionism and emergence · from session v386F · v386EOD
 
 **Possible project · Entries for what is life, the cell, reductionism and emergence.** The Hard Problem Registry has no entry on what is life, on the cell as the unit of life, on reductionism or on emergence as problems of the fields, and scale is a problem's term at one entry alone, the quantum-classical boundary. The work is an entry for each in the field's own words, or a saying that the field poses none. Each is a place a scale is read as a kind: living and non-living as two kinds parted by a line, a lowest unit of living, a whole reduced to its lowest scale, and a whole arriving as more than its scale inward. The origin of life, biological individuality and the units of selection are entries already. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at an entry, Hard Problem Registry, Free will and determinism, at its Accounts: The third family's account at the entry, in the field's own words.

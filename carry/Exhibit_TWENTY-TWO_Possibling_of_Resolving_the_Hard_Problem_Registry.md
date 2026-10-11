@@ -43,3 +43,14 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## Two executings at a public chain, neither made · from session v386CRYP · v386EOD
 
 **Possible project · Two executings at a public chain, neither made.** Two executings at a public accounting chain, each offered as giving a result the field's reading of the chain does not give. One: the transactions of one block parted into selves, read as parities, and confirmed by the same keys spending together at later blocks. Two: one self's next giving discovered from its givings prior, and confirmed at the chain. Each asks the method's reading of a coupling across a width, and more than the method's naming: four executings at one chain gave the field's own readings in the method's naming, and no result the field's reading does not give. They are beside Exhibit TWENTY-TWO Resolving the Hard Problem Registry 2.19 and Exhibit TWENTY-ONE Hard Problem Registry's entry 223. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a section, Resolving the Hard Problem Registry, the Resolving locator, beside the insertlet at it: Resolving at this file's improving, each of the nine taking the same change the locator takes.

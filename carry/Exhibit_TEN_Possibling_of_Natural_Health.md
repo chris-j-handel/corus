@@ -21,3 +21,14 @@ Gather Natural Health's distinct contribution beside Natural Medicine before fol
 ## Each further sentence at its own measure and coupling · v386EOD
 
 **Possible project.** It may change or never be made. 2.1, 2.2, 3.1, 3.5 and 4.2, each sentence followed at its own measure and its own coupling.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [A hair bundle's swaying beside its answering](Exhibit_TEN_Carryings_of_Natural_Health.md#a-hair-bundles-swaying-beside-its-answering): Resolving at the sentence, and at its "at proof grade".

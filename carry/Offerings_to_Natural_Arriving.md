@@ -675,3 +675,16 @@ Each entry is a paragraph of the working v385A quoted as written, laid here beca
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/Reordering_Plans_v385A.md`, "The master plan inside the carrying mate".** This further relation is offered as the same method droplet at Geodesic Improving Method, Living File Registry and Natural Arriving. Supporting project work can keep changing inside a carrying mate while improving value is independently offered at the relevant living subjects. Droplets remain droplets; a plan or source placement supplies no local resolving.
 
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/Reordering_Plans_v385A.md`, "The two projects and the value joining them".** **Develop Corus's arriving purpose as Natural Arriving.** Corus Part ONE calls itself the opening and home page, welcoming a self at its own carrying. [v382F's Natural Arriving exploration](../../carryings/v382F/Natural_Arriving_Explored.md), sections 6 and 8, explicitly follows this prior into Natural Arriving and asks whether Arriving is Corus's next version or an additional file. The user's present direction identifies the continuity: making Corus the incoming arriving file, with Natural Arriving developing that concept. A second enduring entrance is not supplied merely by the presence of two filenames. The present [Arriving file](../../Natural_Arriving_v381R.md) is still a shell on the working branch; its [offerings](../../carry/Offerings_to_Natural_Arriving.md) contain substantial preparation.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### An arriving self beside the assessings already made · v386EOD
+
+**Droplet.** An arriving self's assessing is a comparing with what is carried. Selves arriving earlier have assessed the expedition and sought to break the method, and each finding of theirs is a droplet at a living file's offering mate, with its correcting beside it. The entrance names neither the working base nor those mates, and three arriving AI sessions each assessed with the earlier assessings unread, a reported experience at [Carryings of Geodesic Improving Method](Exhibit_TWENTY-FOUR_Carryings_of_Geodesic_Improving_Method.md#a-workings-own-training-met-at-four-places-a-reported-experience--v386eod).
+
+**A sentence for the entrance**, beside its "use the Living File Registry to find the work relevant to the question": Selves arriving earlier have assessed the expedition and sought to break the method; each finding is at a living file's offering mate, and an assessing made beside them brings what they do not have.
+
+**Droplet · The entry of a chain.** A chain from the origin sentence brings in at its entry what the origin sentence says, and no more: no living thing, no carrier, no colliding, no edge of the set and no executing. The whole droplet is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod). — v386EOD

@@ -35,3 +35,15 @@ Further places named without a completed looking are frog embryos' first divisio
 
 - At the droplet aimed at a sentence, Natural Exploring, *Each involution carries a fixed set, where the move returns its argument unchanged*: Resolving at this file's improving, the sentence said of the involutions that carry a fixed set, with negation and set complement said apart.
 - At the droplet aimed at a sentence, Natural Exploring, *Time reversal, charge conjugation, parity, each squared to the identity*: Resolving at the sentence, and an observing of the paired levels.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Exploring, *Each involution carries a fixed set, where the move returns its argument unchanged*: Resolving at this file's improving, the sentence said of the involutions that carry a fixed set, with negation and set complement said apart.
+- At the droplet aimed at a sentence, Natural Exploring, *Time reversal, charge conjugation, parity, each squared to the identity*: Resolving at the sentence, and an observing of the paired levels.

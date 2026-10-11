@@ -40,3 +40,15 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## Natural Societies at the present naming and form · from session v386F · v386EOD
 
 **Possible project · Natural Societies at the present naming and form.** Natural Societies is at version 373, ahead of Natural Naming's present released words. The work is four things. Its front at the present form: no note after a part's title, as PART TWO, PART THREE and PART FOUR have, and no marks of spacing. Its 5.1, of a scale stilling, said as a society living at its prime, Natural Naming carrying stilling at self discovering next self. Its 1.1's summing and its 1.2's and 1.3's phi-rate beating said at parity changing, with no adding and no beat laid over a coupling. And three passages of Natural Intelligence it has whole at 5.3, of a society, of the emanatings and of the self's inversion, each said once at Natural Intelligence and named at this file. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [Mitochondria and plastids with genomes of their own](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own): Resolving at the row, and an observing of a free-living self arriving as a member, with its doing.
+- At [Cilia with the central pair absent](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent): Resolving at the sentence, the alga beside it.

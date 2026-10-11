@@ -53,3 +53,15 @@ Each may change or never be made.
 **Possible project.** For each labeled form of Exhibit ONE: beside it, the explaining it had at its version 372, its explaining now in the living files, and this file's saying of it, opening at along and across, inward and outward, and surface podaling. The places session v373 named for that explaining were Natural Intelligence first, with Natural Naming, Natural Numbers, Natural Networking and Natural Mathematics, and not this file. No earlier text is carried in whole.
 
 **Possible project.** Local, global, local followed through the corusing and torusing passages, with no three words laid one to one. The six own-forward steps of the two sides in overlap followed into the named inversions and the protecting, each relation between said, across Natural Networking's 5.1 and 5.2, Natural Mathematics' 7.1 and 7.2 and the Registry's steps 440 to 451 and 480 to 495. And one further following, paragraph by paragraph, of the offerings and the whole workings, with each said twice, corrected, withdrawn and unresolved laid together.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Transmissioning, *the field reads it as momentum exchange, not a force*: Resolving at the sentence, which says what the field reads.
+- At the droplet aimed at a sentence, Natural Transmissioning, *no self touches another directly; every coupling crosses a membrane that is itself a self*: Resolving at Natural Biology's sentence, this rendering beside it.

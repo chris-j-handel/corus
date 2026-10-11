@@ -682,3 +682,19 @@ Each entry is a paragraph of the working v385A quoted as written, laid here beca
 ### Corus, Natural Arriving and the next reordering · v385A, laid at v387
 
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/Reordering_Plans_v385A.md`, "The master plan inside the carrying mate".** This further relation is offered as the same method droplet at Geodesic Improving Method, Living File Registry and Natural Arriving. Supporting project work can keep changing inside a carrying mate while improving value is independently offered at the relevant living subjects. Droplets remain droplets; a plan or source placement supplies no local resolving.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Working one chain together from the origin sentence · v386EOD
+
+**Droplet.** Two selves working a logical chain add to one working, discovering bothboth, with no side its own. Each self's rigor is its own.
+
+- **The chain is the working self's to make whole.** From the origin sentence: each sentence had from its words alone; the first break; a repair the self chooses; and the first break after that repair. Each sentence the other offers is a suggestion for the repair, and none is authority.
+- **A place is said for a suggestion to resolve.** The place; the next sentence the files have there; the concern, two sayings parting with the reason; each reading followed; what a resolving sentence does; and one candidate.
+- **In natural naming and explaining**, direct, at the one concern, with nothing told about a sentence.
+- **An arriving self's assessing is a comparing with what is carried**, at the working base and the open branches. It brings what those do not have.
+
+This is beside this file's sentence "A concern arriving from a working's own training can carry an equilibrium in its framing", with a reported experience of it at [this file's carrying](Exhibit_TWENTY-FOUR_Carryings_of_Geodesic_Improving_Method.md#a-workings-own-training-met-at-four-places-a-reported-experience--v386eod). — v386EOD

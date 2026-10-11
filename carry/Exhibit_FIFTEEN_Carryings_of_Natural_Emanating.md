@@ -41,3 +41,21 @@ Its insertlet is at [the offerings](Exhibit_FIFTEEN_Offerings_to_Natural_Emanati
 - *Science explanation*: an erasing lessens the store's entropy, paid as heat to its surroundings (Landauer, 1961, IBM Journal of Research and Development 5, 183–191; not opened). The field has the principle's place as a law disputed.
 
 **Laid beside.** The natural observation: a mean heat nearing the bound from above, at slow erasings.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Observings from science, each beside this file's sentences · v386EOD
+
+### An electron pattern shifted by a field the electrons pass outside of
+
+**The file's sentence**, at The origin sentence, said at eight substrates: "A potential relates to no observable".
+
+- *Natural observation*: the lecture reports an electron interference experiment done with a magnetized iron whisker between two slits, the whisker having "no field outside except near the ends": "the predicted displacement in the pattern of electrons was observed". It gives no names, year or figures for the experiment ([The Feynman Lectures on Physics, volume II, chapter 15, The Vector Potential](https://www.feynmanlectures.caltech.edu/II_15.html)).
+- *Science explanation*: "the line integral of A around a closed path is the flux of B through the path", A the vector potential and B the magnetic field, and the pattern's shift follows that circulation. The vector potential "is not unique", and "it is only the curl of A that matters".
+
+**Laid beside, by this session.** In the field's explaining a potential's value at one place is free, and its circulation round a closed path is the thing the shifted pattern follows.
+
+Its insertlet is at [the offering mate](Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md#insertlets).

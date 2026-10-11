@@ -139,3 +139,30 @@ The two lines say what the page read has: a part said *as the field's account ha
 
 - *Natural observation*: As the field's account has it, about three hundred kinds of molecule are detected in interstellar clouds, amino acids are found in the Murchison meteorite (Kvenvolden and colleagues, 1970, not opened) and form in the Miller–Urey apparatus (1953, not opened), and minerals crystallize from magma. Crystals of calcite immersed in a solution of equal parts D- and L-aspartic acid adsorbed the two hands in different amounts on pairs of opposite-handed crystal-growth faces, "mirror-related" in the paper's word, and more strongly on crystals with terraced surface textures ([Hazen, Filley and Goodfriend, 2001, Proceedings of the National Academy of Sciences 98(10), 5487–5490](https://api.openalex.org/works/pmid:11331767), read at its abstract).
 - *Science explanation*: The writers name it selective adsorption and read the greater effect on terraced crystals as showing that D- and L-aspartic acid "concentrate along step-like linear growth features"; they offer such adsorption, with later condensation polymerization, as "a plausible geochemical mechanism for the production of homochiral polypeptides on the prebiotic Earth"; no explanation of the others was read.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Observings from science, each beside this file's sentences · v386EOD
+
+### Water's triple points
+
+**The file's sentence**, at Three declared nothings, and a partition the instrument's own coupling: "the triple point is the field's one point of zero degrees of freedom".
+
+- *Natural observation*: the release lists five triple points of water: the one it names "normal", at 273.16 K and 611.657 Pa, and four of solid phases with the liquid, at 251.165 K (ice Ih, ice III and liquid), 256.164 K, 273.31 K and 355 K, at pressures from 208.566 to 2,216 megapascals. Its equations for the ice phases with the liquid "are constrained to fit the experimental values" of those four points, the first of the four pressures a calculated one; it names no experimenter ([International Association for the Properties of Water and Steam, Revised Release on the Pressure along the Melting and Sublimation Curves of Ordinary Water Substance, 2011](https://iapws.org/documents/release/MeltSub.download)).
+- *Science explanation*: none in the release; the phase rule is at the file's own sentence.
+
+Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
+
+### Ground configurations at copper, zinc and ytterbium
+
+**The file's sentence**, at Elements the doubling face, one recursioning counted one hundred eighteen times: "and the shells themselves complete at 2, 10, 30 and 70".
+
+- *Natural observation*: the table of "ground electronic configurations of the neutral elements", drawn from a compilation of atomic spectroscopy, has helium 1s², neon [He] 2s² 2p⁶, copper [Ar] 3d¹⁰ 4s¹, zinc [Ar] 3d¹⁰ 4s² and ytterbium [Xe] 4f¹⁴ 6s². Down its rows 3d¹⁰ is first at copper, 29, and 4f¹⁴ first at ytterbium, 70 ([National Institute of Standards and Technology, Electronic Configurations of the Elements, 2015, updated 2025](https://www.nist.gov/pml/atomic-reference-data-electronic-structure-calculations/atomic-reference-data-electronic-8)).
+- *Science explanation*: the naming of one configuration for each atom's ground level.
+
+**Laid beside, by this session.** This file has copper as "[Ar] 3d¹⁰ 4s¹" at A straddle about twenty-eight, and cobalt-59 at one nuclide. The third shell's eighteen are all present first at twenty-nine, and the sentence has thirty.
+
+Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).

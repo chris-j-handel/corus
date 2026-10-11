@@ -22,3 +22,15 @@ Natural Philosophy Possibling · v386EOD
 ## A seam of a self asked to remain · v386EOD
 
 **Possible project.** It may change or never be made. This file's seam of identity and change asks of a thing carried on, the store's asking. A further seam asks of a thing asked to remain, the protecting's asking: a self asked to remain one self while living. It is written at the file's own six steps, the tradition's two sayings whole. With it, the four requirements of 1.3 followed beside the ten named still, and beside the four boundings.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Philosophy, *One position holds the will free and says nothing of what an uncaused choice is*: Resolving at the sentence, which says what the field says.
+- At the droplet aimed at a sentence, Natural Philosophy, *the fundamental dynamics runs symmetric beneath all of it*: Resolving at the sentence.

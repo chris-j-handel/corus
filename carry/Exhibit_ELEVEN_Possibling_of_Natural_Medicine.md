@@ -58,3 +58,15 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## Food, harm, dying and a seed, each at scales · from session v386F · v386EOD
 
 **Possible project · Food, harm, dying and a seed, each at scales.** Food, harm, dying, healing and a seed each said at scales, at Natural Health 3.3 and 3.4 and Natural Medicine 3.3, 5.2 and 4.2. Food as a prior living's stable forms, ingested one scale inward. A disease as an emanation colliding at its own scale, the crossing to the scale inward ceased, and restoring as that crossing going on again. Dying as the coupling at one scale ceasing with the selves inward living on, and healing as that coupling opening again from the inward society. A seed as a stable form with its carrying dormant. The work gives its scale to the offering of sequential colliding at the offerings to Natural Medicine. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Medicine, *The serous membranes, one coupling at one prime. Five locations wrap one coupling*: Resolving at the paragraph's naming, and an observing of the layer at the synovium and at the meninges.
+- At the droplet aimed at a sentence, Natural Medicine, *Every one of those is the cell doing with its own machinery what it does with every sequence it carries*: Resolving at the sentence, and the observing's own report of the integrating.

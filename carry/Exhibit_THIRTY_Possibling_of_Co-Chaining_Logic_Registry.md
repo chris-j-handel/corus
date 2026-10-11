@@ -128,3 +128,17 @@ Each may change or never be made.
 ## Three older sayings of social competency beside steps 184 to 189 · from the pull requests' comments · v386EOD
 
 **Possible project · Three older sayings of social competency beside steps 184 to 189.** The work is three older sayings of social competency laid beside Exhibit THIRTY Co-Chaining Logic Registry's steps 184, 185 and 189, each at its own subject: Natural Intelligence Corus's "Social competency IS bi-coupling at the society scale." with its "the rate-advantage IS the competency", Exhibit FIFTEEN Natural Emanating's "Social moral competency is the alternating at that scale." and Exhibit EIGHT Natural Exploring's "co-competencing is discovering social-scaled". The Registry has "the coupling's own changing at their overlap is co-competencing at the society", "along, the prior carried into now is competency" and "Morality across and competency along at each coupling of a society are social moral competency." At each older sentence the work says which of the Registry's relations it names, the bi-coupling across, the alternating of self and society along, or both, and whether a rate said as the competency parts from competency as the prior carried along; a naming of the relation at three files derives it at none. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible work at the entry from the origin sentence · v386EOD
+
+**Possible project.** Each is possible work beside [the entry's concepts and concerns](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod), and it may change or never be made.
+
+- The Registry's sentence of the two crossings, a particular other and all other arriving as one, brought beside the sentences in which an other is first said.
+- A resolving sentence for a self not bi-coupling: its momentaries, and the offering at them.
+- One at a time, and whose prior is inverted at the living step.
+- A natural observation of a self at one parity for a length and changing again: the seeds germinating after two thousand years are one, in session v385Q's report.

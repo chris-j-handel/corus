@@ -41,3 +41,14 @@ Each may change or never be made.
 **Possible project.** At 2.3's court, trustee and closing date and at 3.3's arrangement: each followed as an arrangement the selves couple at, each at its own opening, or as one giving the selves their openings, beside the Registry's step 484.
 
 **Possible project.** 4.3 and 4.4 said with no majority deciding and capture at no place at the coupling, each self's prior and offering followed into next, and no saying of each self's offering.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a section, Natural Human Society, Class-action resolving, the social scale where every claimant signs and rises: Resolving at the section, at which existing form is meant.

@@ -34,3 +34,15 @@ The observings each is beside are at the carryings, each said as its publishing 
 ## Three water reports beside the Grotthuss sentence · v386EOD
 
 **Possible project · Three water reports beside the Grotthuss sentence.** Three field reports laid beside this file's 3.2, "by the Grotthuss mechanism the excess charge crosses water as the hydrogen-bond network re-forms bond by bond", each in two lines at the carryings from the report read whole: Laage and Hynes, Science, 2006, doi:10.1126/science.1122154; Hassanali and colleagues, PNAS, 2013, doi:10.1073/pnas.1306642110; and a report of 2024 in Nature Chemistry, doi:10.1038/s41557-024-01593-y. Their subjects are hydrogen-bond exchanging about a proton's transfer, water wires changing together, and water reorienting. The comparing is of leading and lagging at co-momentarying and of stable-forming at molecules, after the network relations are said; each report's own conditions and unanswered parts go with it. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Chemistry, *(Natural Numbers 9.4, 10.11)*: Resolving at this file's improving, the citation released and the relation said at its own sentence.
+- At the droplet aimed at a sentence, Natural Chemistry, *and the shells themselves complete at 2, 10, 30 and 70*: Resolving at the sentence.

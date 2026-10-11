@@ -197,3 +197,38 @@ The two lines say what the page read has: a part said *as the field's account ha
 
 - *Natural observation*: The first motion of a sphere-shaped gas bubble from rest in a liquid has an acceleration "equal to twice that of gravity"; the bubble distorts to a mushroom shape and breaks into a small spherical-cap bubble above a large toroidal bubble, in theory and in experiments ([Walters and Davidson, 1963, Journal of Fluid Mechanics 17(3), 321–336](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/initial-motion-of-a-gas-bubble-formed-in-an-inviscid-liquid/C15C747940B551DF31AC40FBA1DE8760), read at its abstract); in computations by a boundary-integral method a bubble at first spherical is penetrated from below by a "gravitationally driven liquid jet" and becomes a toroidal bubble with circulation, a vortex ring that rises and spreads with "rapid oscillations of the ring radius" ([Lundgren and Mansour, 1991, Journal of Fluid Mechanics 224, 177–196](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/vortex-ring-bubbles/D7A750395438407AA8C14E682D4255F8), read at its abstract).
 - *Science explanation*: Walters and Davidson treat the liquid as inviscid and discuss the relation of the toroid to the distorted sphere; Lundgren and Mansour have gravity driving a jet of liquid upward through the bubble, a greater surface tension giving a broader jet and a surface tension "too large" giving a jet that "fails to penetrate", a circulation depending only weakly on surface tension, and a model equation of their own that explains the oscillations and the spreading of the ring.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Observings from science, each beside this file's sentences · v386EOD
+
+### A process and its reverse measured at unequal rates
+
+**The files' sentences.** Natural Philosophy, at Cause and effect: "the fundamental dynamics runs symmetric beneath all of it". This file, at Energy and entropy, two accountings at two fixings: "Holding time-translation still gives reversible laws".
+
+- *Natural observation*: at the CPLEAR experiment neutral kaons were made by antiprotons stopping in hydrogen, each tagged at its making by the charge of the kaon made with it and at its decay by the charge of the lepton. Between 1 and 20 lifetimes, the rate of one kind turning into the other and the rate of the reverse differed by 6.6 ± 1.3 (statistical) ± 1.0 (systematic) in a thousand ([CPLEAR Collaboration, 1998, Physics Letters B 444, 43](https://estudogeral.sib.uc.pt/handle/10316/4562), read whole at a repository copy, the figures as its text layer prints them).
+- *Natural observation*: at the BaBar detector, in 468 million pairs of B mesons, the rates of four pairs of transitions that are each other's reverse were compared, and differed, at "a significance equivalent to 14 standard deviations" ([BaBar Collaboration, 2012, Physical Review Letters 109, 211801](https://arxiv.org/abs/1207.5832), read whole at its preprint).
+- *Science explanation*: "a departure from time-reversal invariance in the evolution of neutral kaons", read with an assumption the report names. The later report counts the earlier as "the only evidence related to T violation" and its own as the first direct observation; "it is expected that the CP-violating weak interaction also violates time reversal invariance".
+
+**Laid beside, by this session.** Two kinds of process are measured at rates unequal to their reverses'. In the field's own table "Translation in time" and "Reversal of time" are two entries, the first paired with "energy is conserved" ([The Feynman Lectures on Physics, volume I, chapter 52, Symmetry in Physical Laws](https://www.feynmanlectures.caltech.edu/I_52.html)).
+
+### Gaps and gatherings in the asteroid belt
+
+**The files' sentences.** This file's offering mate has, as incoming from the prior Natural Numbers: "The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on". Natural Illustrating, at Cosmos: "the belt emptied at the rational resonances and the irrational orbits carrying on".
+
+- *Natural observation*: a histogram of the orbit sizes of 156,929 numbered asteroids, made in June 2007, has gaps at the places labelled 3:1, 5:2, 7:3 and 2:1 ([Jet Propulsion Laboratory, Asteroid Main-Belt Distribution](https://ssd.jpl.nasa.gov/diagrams/mb_hist.html)). And: "major concentrations of asteroids are found at the 3:2 and 1:1 (Trojan asteroids) orbital resonances", reported by [Swinburne University of Technology, Kirkwood Gaps](https://astronomy.swinburne.edu.au/cosmos/K/Kirkwood+Gaps), which gives no counts.
+- *Science explanation*: the gaps "are caused by mean-motion resonances between an asteroid and Jupiter", an asteroid at the 3:1 gap going three times round for each once of Jupiter's.
+
+**Laid beside, by this session.** At four resonances with Jupiter the belt is thin, and at two others asteroids gather.
+
+### Two traps for ions
+
+**The files' sentences.** This file, at Ten rests sought, and alternating met at each: "the trap that works is the Paul trap, holding by alternating". Natural Illustrating, at Earth, matter and phases: "the trap that works is the Paul trap, trapping by alternating".
+
+- *Natural observation*: experiments confine ions in two kinds of trap: "The two most common types of traps for atomic and molecular ion experiments are the Penning trap", and "the radio frequency (RF) or Paul trap". "Penning traps use a static uniform magnetic field and a static electric field to confine ions." "The Paul trap uses the ponderomotive force from inhomogeneous radio-frequency fields" (reported by [Bollinger, Wineland and Dubin, 1994, Physics of Plasmas 1, 1403](https://tf.nist.gov/general/pdf/1034.pdf), a review of such experiments).
+- *Science explanation*: the Penning trap "confines particles by superimposing an electrostatic well along the direction of the field lines of a homogeneous magnetic field".
+
+**Laid beside, by this session.** A second trap works, with fields that do not alternate. The ion's own motion inside it was not read at this publishing.

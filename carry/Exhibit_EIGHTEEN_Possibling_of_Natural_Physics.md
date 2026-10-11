@@ -43,3 +43,18 @@ The observings each is beside are at the carryings, each said as its publishing 
 **Possible project · Natural Physics at the six things beside all.** Natural Physics said at the six things beside all existing things. Beside a floor at the atom and a largest scale, its 3.1 to 3.7 and 4.5 have sizes and beats at the field's own numbers: a limit of thirty degrees, five to six as a periodicity of each floating co-agency, an octet as a total, one hundred twenty as an apex, four units at the φ rate, and fifty-nine as a last prime. Each is a size, a common beat, a total, a unit or a top at a numeral. The work is each said at parity, or said as the field's own at its result. It may change or never be made.
 
 **Possible project · This file read at the things beside all existing things.** The work is a reading of this file's own voice at each thing Natural Intelligence's 1.4 has beside all existing things, at the places a first reading marked. A size: 3.3's "the six's 30° self-limit". A beat laid over all: 3.7's "5:6 as the periodicity of every floating co-agency". A total: 3.1's "the octet is the eight the books balance to". A composite number as one centre: 3.2's "120 the apex-stilling". A unit: 4.5's "Bounded tunnel of four φ-rate units". A scale with no coupling: 4.2's "at the gravitational scale there is no coupling under the accounting to point to". At each, the sentence is the field's result carried whole, or the file's own saying re-said at parity, is or is not. It may change or never be made.
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [A process and its reverse measured at unequal rates](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#a-process-and-its-reverse-measured-at-unequal-rates): Resolving at each of the two sentences.
+- At [Gaps and gatherings in the asteroid belt](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#gaps-and-gatherings-in-the-asteroid-belt): Resolving at the saying: the gathering at 3:2 and 1:1 beside the emptying.
+- At [Two traps for ions](Exhibit_EIGHTEEN_Carryings_of_Natural_Physics.md#two-traps-for-ions): Resolving at the sentence, and the ion's motion in a Penning trap from its own report.
+- At the droplet aimed at a sentence, Natural Physics, *element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas*: Resolving at this file's improving, the sentence said as predicted.
+- At the droplet aimed at a sentence, Natural Physics, *no question, no problem, no literature*: Resolving at this file's improving.
