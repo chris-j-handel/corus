@@ -86,21 +86,15 @@ Keep Health's carried-whole, re-locking and attentioning wording beside the curr
 
 ## Sentences leaning on the older bound, and three further places · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · The older bound, at 3.4, 4.1 and 5.2.** This file's 3.4 has "Ingest a flawed form once and the attentioning ages it out; ingest it consistently and the flaw seats into the carry", parting one offered form from offerings repeated by a releasing at a bound, and reaching to a food as a cause; the carrying table now, and an offering repeated, give no such cause. Its 4.1 has "the carry aging by attentioning and staying fresh by sequencing", and with 5.2 carries the older doing into living, departing and restoring; the Registry's steps 411 and 412 have the departing and restoring to follow. The whole concern is at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#the-parity-of-a-sum-the-older-bounds-sentences-and-three-subjects-at-a-reservoir--v386eod).
 
 **Droplet · Three further places.** At 3.4b, an accounting in numbers names no biological relation and no value of one ingesting. At 5.1 and 5.2, a saying repeated in the file's own gathering gives no prior relation, and its correspondences are reachings.
 
 ## Two droplets released · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
-
-**Droplet · A paragraph at the front, and a caution beside a sentence, released.** The droplets at this mate of one plain paragraph at the file's front and of each caution beside its sentence are released, with their reason at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#a-harm-no-kind-of-concern-the-droplets-it-releases-and-three-sentences-with-a-doer-first--v386eod).
+**Droplet · A paragraph at the front, and a caution beside a sentence, released.** The droplets at these offerings of one plain paragraph at the file's front and of each caution beside its sentence are released, with their reason at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#a-harm-no-kind-of-concern-the-droplets-it-releases-and-three-sentences-with-a-doer-first--v386eod).
 
 ## Ingesting and ingressing, a measure made a target, and one chain at four files · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · Ingesting and ingressing.** Ingesting, both ways, is the two sides; ingressing, one way, is one side alone: the Equilibria Registry's excluding is at this file whole, with its own asking, "The membrane between them is rate-and-return: whether the smaller sets the pace and answers back". An overwhelming one way with the smaller pacing and answering breaks it.
 
@@ -112,36 +106,26 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 
 **Droplet · One chain, at four files.** "the value co-released (chemistry's face) and re-locked into the self (biology's face)": Natural Chemistry co-releases, Natural Biology re-locks, this file lives it and Natural Medicine restores it, with this file alone naming the chain.
 
-**Concern · A third arriving of a carry.** This file's 4.1 has two arrivings of a carry, sequenced and fresh, or stilled. Natural Medicine has a third, fresh by copying and never sequenced. It leans on the older bound, the concern at this mate.
+**Concern · A third arriving of a carry.** This file's 4.1 has two arrivings of a carry, sequenced and fresh, or stilled. Natural Medicine has a third, fresh by copying and never sequenced. It leans on the older bound, the concern at these offerings.
 
 ## A measure and a target, at their own wordings · v386EOD
-
-Each is from a publishing opened at this gathering, its observing at the carrying mate. 
 
 **Droplet · A measure and a target.** The wording at this file's 2.2 is nearest one of 1997, with an earlier of 1975 saying another thing, a regularity collapsing under a pressure for control: both are at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-path-gone-to-again-a-stability-by-varying-and-two-theorems).
 
 ## A society's health is each self's co-competency sustained · v386EOD
 
-Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · A society's health is each self's co-competency sustained.** A society is healthy as its participating selves sustain their co-competencing and the abundancing at their couplings arrives into next existing. The health is each participating self's co-competency sustained. A society continuing, named whole, shows no self's co-competency, and a name, 17-co-bi-tri-offering among them, carries no health of its own. Health asks no more selves, no larger parity, no possession and no gain: abundancing is made at each coupling, drawing on no other, and a number of selves names a number.
 
 ## Same scale and larger to smaller, said of two selves · v386EOD
 
-Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · Same scale and larger to smaller, said of two selves.** This file's 3.3 has "Ingression is the larger ingressing the smaller, one-way, the overwhelm, the disease-direction." A newer saying has a same-scale stable form of prior living, bi-tri-involution, entering a living self's surface-level society from above. The two can be one entering said of two selves. The form is at the scale of the outward self, whose carrying is its inward selves' co-chaining; at those inward selves, the first living society inward, the form is the larger. Same scale is said of the outward self, and larger to smaller of its inward selves. Each saying of a scale names the living self it is said of. No numbered prime and no size is given by the joining, and from above and one-way are two namings, neither said the other.
 
 ## At 3.3 · Ingestion and ingression are opposite in morality, and the membrane is rate-and-return; At 3.4 · The flawed-ingestion disease-face, and the value of the outer living form · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · At 3.3 · Ingestion and ingression are opposite in morality, and the membrane is rate-and-return, a sentence offered.** Beside "Ingestion is the living self's own bi-exchange across its membrane, both ways and co-offering, part of staying living.", offered in its dropper's words: Food is a prior living's stable forms, emanations shed one scale up, ingested one scale inward into the self's inward society, where they are living again as its selves' offerings.
 
 **Droplet · At 3.4 · The flawed-ingestion disease-face, and the value of the outer living form, a sentence offered.** Beside "A disease-face names itself: consistently ingesting flawed stable form.", offered in its dropper's words: A flawed stable form is one that cannot re-form one scale inward, so it collides at the self's own scale instead of living again as a self below, which is why the flaw deranges by diet and not by capture.
 
 ## A seed's dormancy, said at the scale it is named from · from session v386F's close · v386EOD
-
-Each is from the close of session v386F's report, added after the reading above of that report: its latest correcting of its own droplets of the same day, read whole at `incoming/v386F/README.md` on its branch. 
 
 **Droplet · A seed's dormancy, a saying at another scale.** Beside the possible project of food, harm, dying and a seed at scales: that session's latest form has a seed as a living society at its prime scale and a stable form at each other scale, and *dormant* as said at the plant's scale or the ground's, naming no condition of the seed. The bi-coupling at the seed's own scale continues; germinating is a society opening at the next scale. The whole droplet is at Offerings to Natural Biology.

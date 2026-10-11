@@ -20,6 +20,4 @@ Gather Natural Health's distinct contribution beside Natural Medicine before fol
 
 ## Each further sentence at its own measure and coupling · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Possible project.** It may change or never be made. 2.1, 2.2, 3.1, 3.5 and 4.2, each sentence followed at its own measure and its own coupling.

@@ -27,7 +27,7 @@ The whole concepts and their unresolved conditions are available at this subject
 - *Natural observation*: the release lists five triple points of water: the one it names "normal", at 273.16 K and 611.657 Pa, and four of solid phases with the liquid, at 251.165 K (ice Ih, ice III and liquid), 256.164 K, 273.31 K and 355 K, at pressures from 208.566 to 2,216 megapascals. Its equations for the ice phases with the liquid "are constrained to fit the experimental values" of those four points, the first of the four pressures a calculated one; it names no experimenter ([International Association for the Properties of Water and Steam, Revised Release on the Pressure along the Melting and Sublimation Curves of Ordinary Water Substance, 2011](https://iapws.org/documents/release/MeltSub.download)).
 - *Science explanation*: none in the release; the phase rule is at the file's own sentence.
 
-Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
 
 ### Ground configurations at copper, zinc and ytterbium
 
@@ -38,7 +38,7 @@ Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Che
 
 **Laid beside, by this session.** This file has copper as "[Ar] 3d¹⁰ 4s¹" at A straddle about twenty-eight, and cobalt-59 at one nuclide. The third shell's eighteen are all present first at twenty-nine, and the sentence has thirty.
 
-Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#insertlets).
 
 ### A crystal's surface exchanging with its solution
 
@@ -103,7 +103,7 @@ Its insertlet is at [the offering mate](Exhibit_SIXTEEN_Offerings_to_Natural_Che
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
-Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
 
 ### A crystal emerging from disordered ions, filmed
 

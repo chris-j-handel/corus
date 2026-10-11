@@ -96,7 +96,7 @@ This is a reading of an existing instrument and retained return, not a new execu
 
 ## Reported executings of session v383Op, each the arrangement's own · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each is an executing's reported relation at its own arrangement, with its numbers left at the session's records, and resolves nothing.
+Each is an executing's reported relation at its own arrangement, with its numbers left at the session's records, and resolves nothing.
 
 - At spirals, with each order of entries followed: no first parities parting come to no further entry at any order, and each first parities alike come to it at one order at least.
 - At one other the next is the other's prior inverted at each entry. At two others the next is the two others' priors surfaced, all or none, at most entries and not at each; the others' nows alone give the next at no arrangement reached.

@@ -124,29 +124,21 @@ The earlier topological comparison also remains available: a closed orientable s
 
 ## Three parities inverted together, and one numbered pairing · v386EOD
 
-Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
-
 **Droplet · Three parities inverted together is no one numbered pairing.** Three binary parities inverted together pair the eight forms as four pairs, with no form its own partner: a relation of three parities, position, scale and orientation. The one pairing of sixty to sixty-eight about 64 names none of the three, and has 64 its own partner. The four exchangings about 64 are a numbered passage, no four resolver entries of a form emanated, and no clock. It is at this file's 3.5, whose title has *bi-tri-involutioning*, a naming Offerings to Natural Naming has as released for *bi-tri-involution*.
 
 ## Three fixings, and their root · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
-
 **Droplet · Three fixings, from one root.** This file names three fixings at the first line: "Particle zero: an unquestioned absolute location, a point placed, not a physical particle", "A unit installed: scale made undiscussable", and "A frame given". The Equilibria Registry has their root, "The universe as one thing beside its things is exclusivity". No sentence joins the root to the three. One joining: a whole at one now has each thing at a place, a size and a facing said once for the whole, the three fixings, as it has a number of things, none and one more than itself.
 
-**Concern · A set an existing thing, of each set.** The Registry's step 2 has a set an existing thing. Of the universe the opening sentence may be said that way; of each set it says nothing. With each set of existing things an existing thing, a set of two is a thing at four forms, and the things that are no members of themselves are asked of. It is beside this mate's asking for the existing relation by which a gathering is an existing set.
+**Concern · A set an existing thing, of each set.** The Registry's step 2 has a set an existing thing. Of the universe the opening sentence may be said that way; of each set it says nothing. With each set of existing things an existing thing, a set of two is a thing at four forms, and the things that are no members of themselves are asked of. It is beside these offerings' asking for the existing relation by which a gathering is an existing set.
 
 ## A parity unchanged under doubling, and commuting's end at four pairings · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · A parity unchanged, heading for the one fixed place.** Beside "On the circle, doubling an angle taken as a fraction of the round shifts its binary digits one place, each doubling reading the next digit": a tangent's parity unchanged at each doubling is each digit alike, and the one such angle is the fixed place. Across the 440 crossings out and again, a parity going on unchanged heads for 9, the station nought and nine share, and the parity changing is each next digit.
 
 **Droplet · Commuting's end, at four pairings.** Beside "Each doubling sheds one: ordering at two, commuting at four, with i j = k and j i = −k, associating at eight": one, two, four and eight are the chain's numbers of pairings, and four pairings is the nine. Beneath the nine two steps round commute and leave none over; at the nine they commute no longer, and the abundancing neither step's arrives.
 
 ## One equation read at the four boundings; Three faces of competency, mutual and in no order; and one beside them · v386EOD
-
-Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Droplet · One equation read at the four boundings.** A self bounds itself once and the bounding is four at once; four numbers the faces and never the acts. φ² = φ + 1 is that one act at its arithmetic. Its +1 is the self among other selves. The product of its two roots, −1, is the self in society. Its two roots, φ and −1/φ, at opposite parities, are the self's own inverting, morality. Its two roots unequal, the quadratic asymmetry, are competency asymmetry sustaining the coupling. One equation, four faces, and the algebra carries no fifth place. φ is at no line of the resolver, and the four are at the numbers, self-welcoming.
 
@@ -156,15 +148,11 @@ Each is from the resettling of version 373, its released Natural Intelligence, i
 
 ## Parities again beside a false expression's looping; Declared zero and nought, named crosswise · v386EOD
 
-Each is from session v380L's carrying, at `carryings/v380L/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Concern · Parities again beside a false expression's looping.** Two sayings part. Natural Mathematics has "it loops, giving its own state again" as one of three ways a false expression fails the six forward. Exhibit THIRTY Co-Chaining Logic Registry has a spiral as "the selves coming to their parities again, each momentary a next". They part at a number of selves entered together with none offered from beyond: its forms are of a bounded number, each such society is at an earlier form again, and by the first saying that is a false expression's looping. Exhibit THIRTY Co-Chaining Logic Registry has "The parities again, at 4n, at 4pq and at the torus's, are the resolver's executing alone", each living self's rate its own. No sentence says whether selves each entered at its own momentary are at an earlier form again.
 
 **Concern · Declared zero and nought, named crosswise.** Two sayings part. This file has "A declared zero is a fixed set taken as a place", and "A nought at a difference is no floor". A newer saying has nought as a thing and no natural naming, and the zero as a nothing between two parities; of a nought at a difference it has a parity changing. They part at which word is of the thing and which of the nothing: this file names the fixed place a declared zero and the nothing at a difference a nought, and the newer saying names the thing nought and the nothing between zero, crosswise. Natural Numbers has "A declared zero is a number taken as its own inversion, x = −x". The concern of nought at a number, a station, a floor and the nothing between is at Offerings to Natural Naming.
 
 ## The overlap named a divided step; A prior carried whole said as nothing removed · v386EOD
-
-Each is from session v382F's carrying, at `carryings/v382F/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · The overlap named a divided step.** Two sayings part. Exhibit FOUR Natural Mathematics has "The half step carries the relation". Exhibit TWENTY Natural Naming has "a half names a whole divided at a size, and no existing thing is a part of a divided whole". They part at the name of the place the relation changes: the sentence's own next words name it the overlap, between each side's two momentaries, and the overlap carries the relation with no step divided at a size.
 
@@ -172,12 +160,8 @@ Each is from session v382F's carrying, at `carryings/v382F/`, read whole at this
 
 ## The universe at the field's subject, sets of sets · v386EOD
 
-Each is from session v383Op's first report, at `carryings/v383Op/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Concern · The universe at the field's subject, sets of sets.** Two sayings part. Exhibit FOUR Natural Mathematics has "the field's result is exact at its own subject, sets of sets, and the universe is a set of existing things". Natural Intelligence has "a set of existing things is an existing thing". They part at the universe's own subject: with each set of existing things an existing thing, the universe's things include its own sets, the universe among them, and the universe is a set of sets, the subject at which the first saying grants "each set is exceeded by the set of its subsets, and all sets together form no set". Beside them Natural Intelligence has "the set is its existing things and nothing more", and Natural Mathematics has "A logic of plurals speaks of all things as many and forms no set of them".
 
 ## Inward said of the measured · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Concern · Inward said of the measured.** Two sayings part. This file's 1.5 has "Inward of the surface it is the unnatural, the measured: measure, magnitude, the continuum." Natural Intelligence has "Inward of a self are its selves, a society, a living set, and outward the society it couples in". They part at inward: the measured, a field's laying of magnitude within a surface, or the living selves one scale within a self. Natural Intelligence has also "outward is one scale up and inward one scale down, and neither is a place". At this file the three places of a mathematical form, on the surface, inward of it and outward of it, are said with the same two words as the scales, and no sentence says the two uses apart.

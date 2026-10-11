@@ -50,6 +50,4 @@ The engine version belongs to that earlier proposal; a current replacement needs
 
 ## The resolver named at Natural Engineering · from session v386F · v386EOD
 
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
-
 **Possible project · The resolver named at Natural Engineering.** Exhibit ONE's resolver at python named at Natural Engineering as its one worked illustrating of the method at a substrate: by its name, with no copy of its code or its tables. The work is one sentence at Natural Engineering saying the resolver a human engineering of natural resolving, the method illustrated at python, a stable form of another kind, with its tables the method's stable forms and prior to the code. Exhibit ONE remains whole at its one place, its code, its seventeen names and its explaining inseparable. It may change or never be made.

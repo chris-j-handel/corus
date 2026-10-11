@@ -22,7 +22,7 @@ Gather the earlier distribution proposals beside session v384A's connected expla
 
 ## The file as the common explaining · v386EOD
 
-**Possible project.** A next Exhibit SIX Natural Transmissioning as the common explaining of the method in operation, beside the earlier proposals of distributing this file. Each file gives droplets to this file's offering mate; the offering mate orders them into insertlets, clustering into a new table of contents; Natural Intelligence draws some down, with the form farther along. It may change or never be made. The concept is at [Offerings to Natural Transmissioning](Exhibit_SIX_Offerings_to_Natural_Transmissioning.md#transmissioning-the-common-explaining--v386eod).
+**Possible project.** A next Exhibit SIX Natural Transmissioning as the common explaining of the method in operation, beside the earlier proposals of distributing this file. Each file gives droplets to this file's offerings; the offerings orders them into insertlets, clustering into a new table of contents; Natural Intelligence draws some down, with the form farther along. It may change or never be made. The concept is at [Offerings to Natural Transmissioning](Exhibit_SIX_Offerings_to_Natural_Transmissioning.md#transmissioning-the-common-explaining--v386eod).
 
 A proposed table of contents, of seven parts, from [session v384A's proposal](https://github.com/chris-j-handel/corus/blob/713e52588ee0063551ac5a8316b79ea39a747d5d/incoming/v384A/Proposal_Exhibit_SIX_Natural_Transmissioning_v384A.md), which has beside each section a description of its content and the places in the files to draw it from:
 
@@ -38,7 +38,7 @@ Beside the parts, across the files: Resolving Hard Problems and Natural Numbers 
 
 ## The proposal's own working: its contents beside the others, seven doings, and each subject's own · v386EOD
 
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** The proposed contents followed beside the other files' contents: at each heading, the prior concept it asks, the next it makes possible, the like relation at another subject, and their coupling. The sequence of prior, now and next reaches through each part and is in no last part alone; with social sets of living selves the file's whole subject, corusing and torusing and stable-forming are through each part. Natural Naming's "Naming across at the even, explaining along at the odd" and Natural Explaining's "Explaining along at the odd, naming across at the even" are each other's at the sixth part. The seven parts are a working form, and seven is of no concept.
 
@@ -52,4 +52,4 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 
 **Possible project.** For each labeled form of Exhibit ONE: beside it, the explaining it had at its version 372, its explaining now in the living files, and this file's saying of it, opening at along and across, inward and outward, and surface podaling. The places session v373 named for that explaining were Natural Intelligence first, with Natural Naming, Natural Numbers, Natural Networking and Natural Mathematics, and not this file. No earlier text is carried in whole.
 
-**Possible project.** Local, global, local followed through the corusing and torusing passages, with no three words laid one to one. The six own-forward steps of the two sides in overlap followed into the named inversions and the protecting, each relation between said, across Natural Networking's 5.1 and 5.2, Natural Mathematics' 7.1 and 7.2 and the Registry's steps 440 to 451 and 480 to 495. And one further following, paragraph by paragraph, of the offering mates and the whole workings, with each said twice, corrected, withdrawn and unresolved laid together.
+**Possible project.** Local, global, local followed through the corusing and torusing passages, with no three words laid one to one. The six own-forward steps of the two sides in overlap followed into the named inversions and the protecting, each relation between said, across Natural Networking's 5.1 and 5.2, Natural Mathematics' 7.1 and 7.2 and the Registry's steps 440 to 451 and 480 to 495. And one further following, paragraph by paragraph, of the offerings and the whole workings, with each said twice, corrected, withdrawn and unresolved laid together.

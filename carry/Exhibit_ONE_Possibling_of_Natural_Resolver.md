@@ -48,21 +48,17 @@ The possible six-forward comparison of the three workings is at [Possibling of C
 
 ## The fourths followed to their next openings · v386EOD
 
-Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. 
-
 **Possible project.** It may change or never be made. 4 to 5, 8 to 9, 12 to 13 and 16 to 17, each followed through its named places beside the across offerings at 2, 6, 10 and 14: the sharing, the self's carrying wound, the entraining and the society wound, each at its next opening.
 
 ## Each table's own Registry sentence at its heading · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** At each table's heading, the Registry's sentence in its own words and one line saying the joins are the table's own condition. At the spiral: "each self is at the inverted parity the self it receives from was at two momentaries prior". At the torus: "The divide of step 243 is derived". At two spirals crossed: "come to each self's releasings again at 2 from a momentary on, the two crossing selves opposite from it on". With them, the first parities and the stepping each table is at, and the files' saying of a society at one parity with no stepping.
 
 **Possible project.** A table of two selves one and then the other at Exhibit ONE, or one sentence saying the two-self rows are of selves stepped together; and at the Registry's step 82 the five said by offering and carrying too. At the torus's table, the six cases of a self with two offering.
 
 ## Three parities, one inverted at each momentary; The society's four momentaries of exchanging, a table; and one beside them · v386EOD
-
-Each is from session v380L's carrying, at `carryings/v380L/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Possible project · Three parities, one inverted at each momentary.** A spiral of one passes the four forms of two parities, its carrying at 3 and its chaining at 11, one inverted at each momentary, and is at itself again at four momentaries. The work is to follow the resolver's lines by hand at couplings of two selves and of three, each opening, for a coupling passing the eight forms of three parities, or the sixteen of four, one parity inverted at each momentary. No table of this file has a self at itself again at eight or at sixteen momentaries: the spiral of selves, two spirals crossed and the torus of selves are each at other numbers. It may change or never be made.
 
@@ -72,32 +68,22 @@ Each is from session v380L's carrying, at `carryings/v380L/`, read whole at this
 
 ## One table of the round at four parities; Four forms of right spiraling at one momentary · v386EOD
 
-Each is from session v380R's carrying, at `carryings/v380R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Possible project · One table of the round at four parities.** One table at Exhibit ONE Natural Resolver of the round at four parities: each of the names 1 to 16 at its form of four parities, each next name one parity inverted, and beside each the parities inverted by each of the one move's three, 17 less the fourth, 9 less the third within 1 to 8, and 8 up the third and fourth within 1 to 8. The Registry has the round at its steps 618 and 619, "Each of the one move's three is one parity inverted, or two in sequence." The placing of the four parities at the names is the Registry's, and its deriving from the seventeen names or the resolver's lines is the part unmade. It may change or never be made.
 
 **Possible project · Four forms of right spiraling at one momentary.** One offered saying is worked at the resolver: along a changing is or is not, across a changing is or is not, and the two together are four forms of right spiraling at each momentary, each self odd along its own side. The working is at Exhibit ONE Natural Resolver's table "Two selves, three momentaries, five parities", its three parities along and its two across, at each opening and each momentary, with each of the four forms said at the names it is at. It may change or never be made.
 
 ## One offered parity followed through a line of selves · v386EOD
 
-Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Possible project · One offered parity followed through a line of selves.** A table at Exhibit ONE Natural Resolver, beside "Three selves in a line" and after "One self, one momentary", of one parity offered at the first momentary alone and followed through a longer line of selves, each at its own carried parity, alike or opposite: at each self the surfacing at 14, the changing at 12, the sharing at 6 and 10, the releasing at 9 and the chaining at 11. Beside it, the across names 2, 6, 10 and 14 at their along 9s inward, from "Each name, three scales". The same table at the Exhibit ONE within Natural Intelligence. It shows at which selves an offered parity is shared on and at which a self inverts by its own. It may change or never be made.
 
 ## Two further columns at the round's table · from session v386F · v386EOD
 
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
-
-**Possible project · Two further columns at the round's table.** Beside the project at this mate of one table of the round at four parities: two further columns and one further placing. At each of the sixteen rows, the name's opening prefix, and the place of the entry it is at, 3 and 2, 14 and 12, 10, 11 and 9, at the self's span and at the society's alike. Beside each table of two or more selves, the round's place the society's momentary is at. With them, one check at the code: at each momentary of a table, the stepping of the selves together at 17 is at the self's outward parity changing, or it is not. The table is prior to the code, one of the method's stable forms, and the code is checked at it. It may change or never be made.
+**Possible project · Two further columns at the round's table.** Beside the project at this possibling of one table of the round at four parities: two further columns and one further placing. At each of the sixteen rows, the name's opening prefix, and the place of the entry it is at, 3 and 2, 14 and 12, 10, 11 and 9, at the self's span and at the society's alike. Beside each table of two or more selves, the round's place the society's momentary is at. With them, one check at the code: at each momentary of a table, the stepping of the selves together at 17 is at the self's outward parity changing, or it is not. The table is prior to the code, one of the method's stable forms, and the code is checked at it. It may change or never be made.
 
 ## A slipped carrying followed through one whole podal passage · from session v385R's branch · v386EOD
-
-Each is from session v385R's own branch, `working/logical-cohering-v385R`: its additions at that branch's own offering mate of the Co-Chaining Logic Registry, and its changed versions of eight living files, laid line by line beside the living files now, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Possible project · A slipped carrying followed through one whole podal passage.** One carrying slipped at a same-scale colliding, followed coupling by coupling through its first whole podal passage at the cells of Exhibit ONE Natural Resolver: at each coupling the carrying along and the offering across are followed together, each self's next from its own carrying and the offering at its coupling; and at each the work says the slip resolving locally, the carrying restoring, or the damage going on to a further coupling, with the relation carrying it on named. The outward self and the wider society are followed after the first passage. The work says at which coupling a slip of one full forward momentary is had, a case at no table of Exhibit ONE Natural Resolver. It may change or never be made.
 
 ## A thing between selves, at a pace of its own · from other branches' earlier versions and mends · v386EOD
-
-Each is from material on other branches read by no earlier reading: session v382F's mended Natural Intelligence at `working/natural-intelligence-mends-v382F`, session v374's earlier report on chemistry's societies at `working/chemistry-societies-v374`, and earlier versions of session v381F's and session v383Op's files, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Possible project · A thing between selves, at a pace of its own.** An executing at Exhibit ONE Natural Resolver of a society whose selves couple through one shared solution between them, at a slower exchanging and at a faster, with the number of selves raised, beside oscillating particles synchronizing by degrees or at one momentary together. Which pace of exchanging gives the gradual and which the sudden is the field's accounting, and no executing has a between at a pace of its own. Natural Intelligence has "The between is its empty centre, a nothing and no location": how a thing between selves, with a pace, is entered at the resolver is part of the work. It may change or never be made.

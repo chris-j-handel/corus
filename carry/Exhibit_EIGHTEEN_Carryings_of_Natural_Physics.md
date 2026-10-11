@@ -26,7 +26,7 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 ### Gaps and gatherings in the asteroid belt
 
-**The files' sentences.** This file's offering mate has, as incoming from the prior Natural Numbers: "The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on". Natural Illustrating, at Cosmos: "the belt emptied at the rational resonances and the irrational orbits carrying on".
+**The files' sentences.** This file's offerings have, as incoming from the prior Natural Numbers: "The asteroid belt emptied at the rational resonances, the Kirkwood gaps, the irrational orbits carrying on". Natural Illustrating, at Cosmos: "the belt emptied at the rational resonances and the irrational orbits carrying on".
 
 - *Natural observation*: a histogram of the orbit sizes of 156,929 numbered asteroids, made in June 2007, has gaps at the places labelled 3:1, 5:2, 7:3 and 2:1 ([Jet Propulsion Laboratory, Asteroid Main-Belt Distribution](https://ssd.jpl.nasa.gov/diagrams/mb_hist.html)). And: "major concentrations of asteroids are found at the 3:2 and 1:1 (Trojan asteroids) orbital resonances", reported by [Swinburne University of Technology, Kirkwood Gaps](https://astronomy.swinburne.edu.au/cosmos/K/Kirkwood+Gaps), which gives no counts.
 - *Science explanation*: the gaps "are caused by mean-motion resonances between an asteroid and Jupiter", an asteroid at the 3:1 gap going three times round for each once of Jupiter's.
@@ -58,7 +58,7 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 - *Natural observation*: on 17 August 2017 a signal was registered at the two LIGO detectors, "with a combined signal-to-noise ratio (S/N) of 32.4", and a gamma-ray burst was registered apart by the Fermi Gamma-ray Burst Monitor and by the shield of the INTEGRAL spectrometer. The start of the gamma rays, fitted from the burst's main pulse, was "(+1.74 ± 0.05) s" after the merger time of the gravitational-wave signal, each as at the Earth's centre. The source's distance from the gravitational-wave signal alone is about 40 megaparsecs, and the publishing has "a distance greater than one hundred million light years". The probability of the two agreeing in time and in place by chance is given as 5.0 × 10⁻⁸ ([LIGO Scientific Collaboration, Virgo Collaboration, Fermi Gamma-ray Burst Monitor and INTEGRAL, 2017, The Astrophysical Journal Letters 848, L13](https://arxiv.org/abs/1710.05834), read at its preprint to the middle of its sixth section).
 - *Science explanation*: "The gravitational and EM waves are expected to travel at the same speed." With the gamma rays' emission assumed between at once and 10 seconds after, and the distance taken as 26 megaparsecs, the speed of gravity less the speed of light is between −3 × 10⁻¹⁵ and +7 × 10⁻¹⁶ of the speed of light; "the emission times of the two messengers are inherently model dependent". In the part read the publishing has no *transmitted*, *mediated*, *carried* or *graviton* of gravity.
 
-**Laid beside.** Seen: two signals of one event, registered 1.74 seconds apart after more than a hundred million light years. The field's saying is a wave of gravity traveling at light's speed. The file names gravity shown a transmitted coupling as its break; the two sayings parting are a concern at [this file's offering mate](Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md#droplets).
+**Laid beside.** Seen: two signals of one event, registered 1.74 seconds apart after more than a hundred million light years. The field's saying is a wave of gravity traveling at light's speed. The file names gravity shown a transmitted coupling as its break; the two sayings parting are a concern at [this file's offerings](Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md#droplets).
 
 ### Nine observables at two ions
 
@@ -71,7 +71,7 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 ### A jump followed, and inverted partway
 
-**The file's sentence**: none of this file's is beside it; it is beside the binary at each reading at the mates.
+**The file's sentence**: none of this file's is beside it; it is beside the binary at each reading at the carrying.
 
 - *Natural observation*: at a superconducting circuit of three levels, a made atom, the jump from the ground level to an excited level was followed by a continuous monitoring of a further level coupled to the ground level; with monitoring and feedback at once, jumps were caught partway and inverted, and did not complete ([Minev, Mundhada, Shankar, Reinhold, Gutiérrez-Jáuregui, Schoelkopf, Mirrahimi, Carmichael and Devoret, 2019, Nature 570, 200–204](https://arxiv.org/abs/1803.00545), read at its abstract).
 - *Science explanation*: each completed jump's changing is "continuous, coherent and deterministic", agreeing with quantum trajectory theory; a jump's completing is anticipated once it is under way, and no jump's first momentary.
@@ -89,12 +89,12 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 ### Three clocks' rates, as ratios
 
-**The file's sentence**: at the offering mate, the droplet aimed at *a rate held to a value*.
+**The file's sentence**: at the offerings, the droplet aimed at *a rate held to a value*.
 
 - *Natural observation*: the ratios of the rates of three optical clocks at one town, of an aluminium ion, of ytterbium and of strontium, were each measured pair by pair over fibre and a link through air of 1.5 kilometres, each to between 6 and 8 parts in 10¹⁸ ([Boulder Atomic Clock Optical Network Collaboration, 2021, Nature 591, 564–569](https://arxiv.org/abs/2005.14694), read at its abstract).
 - *Science explanation*: none of the ratios themselves; the publishing has them toward a new definition of the second and as a limit on a coupling to dark matter.
 
-**Laid beside.** Seen: three ratios measured to eighteen digits. The publishing's abstract has no saying of the clocks agreeing, and the droplet at the offering mate has *agree*: the measuring is of ratios, each its own.
+**Laid beside.** Seen: three ratios measured to eighteen digits. The publishing's abstract has no saying of the clocks agreeing, and the droplet at the offerings have *agree*: the measuring is of ratios, each its own.
 
 ### A whole's stationary describing, and a clock within
 
@@ -116,7 +116,7 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
-Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
 
 ### Metronomes on a board free to roll
 

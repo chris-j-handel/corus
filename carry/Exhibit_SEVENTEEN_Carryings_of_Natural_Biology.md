@@ -87,7 +87,7 @@ At its close, session v381R described a genome-duplication incoming paragraph of
 
 **Laid beside, by this session.** The file's own paragraph has the left form under negative supercoiling and forming behind the polymerase, and the model has the negative supercoils behind. Reading negative as under-wound, the field's usual naming, which this abstract does not spell out, the sentence has the two windings the other way round.
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Collagen's three chains joined before its release
 
@@ -98,7 +98,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 
 **Laid beside, by this session.** The textbook has the triples formed inside the cell, procollagen the name of the triple. The sentence has the triples assembling after the release.
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### The gut's inner surface measured
 
@@ -107,7 +107,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 - *Natural observation*: by measuring under the light and the electron microscope on biopsies "from healthy adult volunteers or patients with endoscopically normal mucosae", with lengths from the literature of intubation and radiology, the mean total inner surface of the digestive tract comes to about 32 square metres, about 2 of them the large intestine. The abstract has "a considerable variation between individuals" and prints no uncertainty ([Helander and Fändriks, 2014, Scandinavian Journal of Gastroenterology 49, 681](https://doi.org/10.3109/00365521.2014.898326), read at its abstract).
 - *Science explanation*: "According to textbooks, the human gut mucosa measures 260-300" square metres, "in the order of a tennis court"; the report's own, "rather is that of half a badminton court".
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Copying errors at three steps
 
@@ -127,7 +127,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 
 **Laid beside, by this session.** The sperm's mitochondria are seen inside the fertilized egg. The sentence has them shed.
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Tracheae and gut through a chrysalis, and an aversion carried into the moth
 
@@ -139,7 +139,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 
 **Laid beside, by this session.** A measuring follows the tracheae and the gut through the pupal days, and a learned aversion is carried from the fifth larval stage into the moth. The sentence has a suspension no measurement distinguishes. These scans do not resolve muscle or nerve.
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### An aphid making carotenoids
 
@@ -150,7 +150,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 
 **Laid beside, by this session.** An animal is reported making carotenoids, with enzymes its own genome carries. In the field's explaining the making itself arrived from another self, a fungus.
 
-Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Its insertlet is at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Displaced monarchs fly on at one heading
 
@@ -159,7 +159,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 - *Natural observation*: monarch butterflies caught in southern Ontario in September 2011 were flown tethered in flight simulators outdoors under a visible sun, carried 2,500 kilometres west by car to Calgary in four days, and flown again. The 23 tested at both places had a mean heading of 213 degrees in Ontario and 244 degrees in Calgary, "not significantly different". The constant course from Calgary to the wintering grounds in Mexico is 161 degrees, outside the 99 per cent interval of the Calgary headings, 197 to 292 degrees ([Mouritsen and colleagues, 2013, Proceedings of the National Academy of Sciences 110, 7348](https://doi.org/10.1073/pnas.1221701110), read whole at a copy on one author's laboratory site).
 - *Science explanation*: "monarchs use a simple vector-navigation strategy", "a specific compass bearing without compensating for displacement"; its title has them "not true navigators"; "geographic barriers that guide individuals toward overwintering sites" is its account of their arriving.
 
-**Laid beside, by this session.** The displaced monarchs flew on at the heading they had, and from the new place that heading does not lead to the wintering grounds. This is the primary source the droplet of session v383Op at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#droplets) asks for.
+**Laid beside, by this session.** The displaced monarchs flew on at the heading they had, and from the new place that heading does not lead to the wintering grounds. This is the primary source the droplet of session v383Op at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#droplets) asks for.
 
 ### Correlation across a starling flock, and a turn travelling through it
 
@@ -171,7 +171,7 @@ Its insertlet is at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_B
 
 **Laid beside, by this session.** The correlation is measured decaying with distance, in flocks under ninety metres across, and its reach grows with the flock. A turn is measured travelling from birds close to each other at a speed, a little more than half a second across four hundred birds. The sentences have a correlation not decaying across a kilometre, and a change across the whole flock in under a fifth of a second.
 
-Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
+Two insertlets are at [the offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#insertlets).
 
 ### Date seeds germinating after two thousand years
 
@@ -180,7 +180,7 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 - *Natural observation*: thirty-two well-preserved date seeds from archaeological sites in the Judean desert were soaked in water, then in gibberellic acid, a rooting solution and a fertiliser, and potted. Six germinated. Shell fragments found clinging to the rootlets of the six were dated by radiocarbon, from the fourth century BCE to the second century CE. "On visual inspection, no specific observation linked the ability of these seeds to germinate compared with those that failed to germinate". The seeds were weighed and measured before planting, those from Masada excepted, one of the six germinated among them; among the seeds measured, no statistically significant difference was found between germinated and ungerminated in weight or in length ([Sallon and colleagues, 2020, Science Advances](https://pmc.ncbi.nlm.nih.gov/articles/PMC7002127)).
 - *Science explanation*: "low precipitation and very low humidity around the Dead Sea could have contributed to the longevity of the ancient date seeds"; and "further investigations are needed to understand the basis of date palm seed longevity".
 
-**Laid beside.** The six seeds were parted from the others by nothing seen before planting, and parted at their next. The offering to these seeds was water, gibberellic acid, a rooting solution and a fertiliser. The concept, a seed at rest living, its parity still possibling, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod), beside the concern, at that mate, of a self at one unchanging parity for any length.
+**Laid beside.** The six seeds were parted from the others by nothing seen before planting, and parted at their next. The offering to these seeds was water, gibberellic acid, a rooting solution and a fertiliser. The concept, a seed at rest living, its parity still possibling, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod), beside the concern, at those carryings, of a self at one unchanging parity for any length.
 
 ### Aged seeds: DNA breaks, and a DNA synthesis before copying
 
@@ -210,7 +210,7 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 - *Natural observation*: seeds of Arabidopsis, of the wild kind and of two kinds lacking a gene of autophagy, were "stored in a desiccator at room temperature in the dark", and sown after three days of cold. "Among 30 mo stored seeds, both WT and atg mutants showed 100% germination." "Among 66 mo stored seeds, the germination percentage was <20% for atg mutants," and ">60% for WT seeds at 5 d after sowing". With the seed coat taken off 80-month seeds of one mutant kind, the embryos grew. In the endosperm of old seeds of that kind ">80% of cells were dead", and in the wild kind under 10%; at 6 months almost none were dead in either. In seeds with a marked protein, the ratio on blots of the freed marker to the marked protein "was 1.00, 2.30, and 2.77 in 5, 48, and 60 mo stored seeds"; it was higher in the seed coat and endosperm of older lots, and "the embryo did not show a clear difference" ([Shinozaki and colleagues, 2024, Proceedings of the National Academy of Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC10998590/), read at its open full text). Germination is counted there as a seedling with green cotyledons. The lots of each age are other seeds, none followed through its storing. The publishing names the seeds dry, and nowhere dormant.
 - *Science explanation*: "autophagy is occurring, probably slowly but constantly for a long time" in dry seeds; it "maintains endosperm quality during seed storage"; and a constraint by the endosperm "may be the cause" of the old mutant seeds not germinating.
 
-**Laid beside.** Within one dry seed two inward societies are parted by what is seen: the endosperm's cells living or dead, and the embryo growing with the coat taken off. The concept, a seed at rest as societies of living things, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod), and the six sayings of no changing at [the same mate](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#six-sayings-of-no-changing--v386eod).
+**Laid beside.** Within one dry seed two inward societies are parted by what is seen: the endosperm's cells living or dead, and the embryo growing with the coat taken off. The concept, a seed at rest as societies of living things, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod), and the six sayings of no changing at [the same offerings](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#six-sayings-of-no-changing--v386eod).
 
 ### Dormant spores, at pulses each too small
 
@@ -232,7 +232,7 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 
 ### Nematodes from ground frozen since the late Pleistocene
 
-**The file's sentence**, at Living and non-living — a virus and a prion: "inert outside a host, as a spore or a seed is inert". A droplet of dormancy is at [this file's offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#dormancy-and-the-particular-beginning-of-living--v385a).
+**The file's sentence**, at Living and non-living — a virus and a prion: "inert outside a host, as a spore or a seed is inert". A droplet of dormancy is at [this file's offerings](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#dormancy-and-the-particular-beginning-of-living--v385a).
 
 - *Natural observation*: at the Duvanny Yar outcrop on the Kolyma River a burrow was taken from the frozen wall "at a depth of about 40 m below the surface", in "never thawed late Pleistocene permafrost deposits". "Several viable nematode individuals were found in two of the more than 300 studied samples". Plant material of the burrow gave "a direct 14C age of 44,315±405 BP", and "Calibrated age range is 45,839–47,769 cal BP (95.4% probability)." "The revived animal was cultivated in the laboratory for over 100 generations"; its kind bears young with no mate ([Shatilovich and colleagues, 2023, PLOS Genetics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010798); [its correction](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010943) adds a registering of the name and changes no result). The dated thing is the plant material. The thawing is told at an earlier publishing and a supplement, not read. No measuring of metabolism in these animals, frozen or thawed, is reported.
 - *Science explanation*: "the age of the organisms found in a burrow is equal to the freezing time"; the individuals "have remained" in cryptobiosis "since the late Pleistocene (~46,000 years)", cryptobiosis being "a state of suspended metabolism"; its genes are "partly orthologous" with another nematode's, their working left to "further functional analyses".
@@ -264,11 +264,11 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 - *Natural observation*: embryos made in May 1994 were frozen slowly and stored in a vial; one, "in storage for 30 and a half years", was thawed and carried, and a child was born on 26 July 2025 ([Hamzelou, 2025, MIT Technology Review](https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/)).
 - *Science explanation*: none given.
 
-**Laid beside.** Seen: thirty years with no changing looked for, and a living next. It is beside the four sayings of a thing in storage at this file's offering mate.
+**Laid beside.** Seen: thirty years with no changing looked for, and a living next. It is beside the four sayings of a thing in storage at this file's offerings.
 
 ### A cue, and a rhythm locked to it
 
-**The file's sentence**: at the offering mate, the concern of a rate locked.
+**The file's sentence**: at the offerings, the concern of a rate locked.
 
 - *Natural observation*: none read; a field's definition.
 - *Science explanation*: a zeitgeber "is any external or environmental cue that entrains or synchronizes an organism's biological rhythms", the word first used by Aschoff ([an encyclopedia's page](https://en.wikipedia.org/wiki/Zeitgeber)).
@@ -286,7 +286,7 @@ Two insertlets are at [the offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
-Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
 
 ### Somatic changes across sixteen mammals' lifespans
 

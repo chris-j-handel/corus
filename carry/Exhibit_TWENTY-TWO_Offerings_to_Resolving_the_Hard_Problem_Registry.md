@@ -200,17 +200,13 @@ Keep the field’s question, its alternatives and the particular natural relatio
 
 ## Resolved at P versus NP, the marker at the Poincaré conjecture, and a genome doubled · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
-**Concern · Resolved, at P versus NP.** Beside the concern at this mate, *Resolved, at two meanings*: at 2.2 this file follows finding and checking as along and across, and the Hard Problem Registry's entry 9 asks a proof. Two meanings at the two files are both. A resolving reaching to an answer at the recorded asking shows its relation at that entry, and an asking changed through the comparing answers no first statement.
+**Concern · Resolved, at P versus NP.** Beside the concern at these offerings, *Resolved, at two meanings*: at 2.2 this file follows finding and checking as along and across, and the Hard Problem Registry's entry 9 asks a proof. Two meanings at the two files are both. A resolving reaching to an answer at the recorded asking shows its relation at that entry, and an asking changed through the comparing answers no first statement.
 
 **Concern · The marker, and a nought, at 3.22.** At the Poincaré conjecture the marker is "+ or − at 10, is.", and the entry's own sentences have "the arrival takes no parity anywhere, which is a nought arriving whole" and "No loop caught, no tunnel, no gap at the running". A + or − at 10 and no parity at any sharing part at one entry, with no two subjects named for them.
 
-**Droplet · A genome doubled.** The insertlet at this mate of a genome doubled as each sharing arriving twice alike is beside the concern at [Offerings to Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#one-parent-a-genome-doubled-the-fragment-the-worm-and-living-again--v386eod).
+**Droplet · A genome doubled.** The insertlet at these offerings of a genome doubled as each sharing arriving twice alike is beside the concern at [Offerings to Natural Biology](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#one-parent-a-genome-doubled-the-fragment-the-worm-and-living-again--v386eod).
 
 ## One marker at each entry, an arrival said as arriving still, and the settled entries at two numbers · v386EOD
-
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Concern · One marker at each entry.** "+ or − at 10, is." is at each entry alike. Entries followed name no thing an observing or a reckoning could show other, and no step of the Registry and no table of Exhibit ONE. Each problem is resolved at this file's meaning, by being said at the names; or each is as it was at the other registry's meaning, and a newcomer's. A reader arriving has the second.
 
@@ -220,13 +216,9 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 
 ## The method as given, at a reader with none of it · v386EOD
 
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
-
 **Concern · The method as given.** This file has "The method is explained generally, uniquely and no-other-possible at the one saying, and nothing of it is re-said or argued again here. It is taken as given and deployed." Exhibit THIRTEEN Resolving Hard Problems says the method again at its 1.1 to 1.5, and Exhibit TWENTY-EIGHT Equilibria Registry gathers it from many numbered places. One file repeats the method, one relies on an understanding a reader may have none of, and one asks a reader to gather it: a common explaining at one place carries the three.
 
 ## An owning at entry 139, two possibles proved, and each arrival's own · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Concern · Entry 139, at one of two.** This file's 3.21 has "creation under the regime not adopted is a counterfactual total named over makings that ran elsewhere, and the couplings that ran are the record there is". A second thing named still is beside the total, the owning: a middle said as an end with a holder written at it. Whether a regime raises creating, and whether the thing claimed can be had at all, are two askings, and the first is unresolved with the second as it is.
 
@@ -238,19 +230,15 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 
 ## Competency the floating middle, or each self's own along · v386EOD
 
-Each is from the map of the co-chaining at version 376, at `carryings/co_chaining_map_v376/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Concern · Competency the floating middle, or each self's own along.** Two sayings part. Exhibit TWENTY-TWO Resolving the Hard Problem Registry has, at the introduction of its part 5, "Competency is the middle, floating between form and logic, invisible, unique in rate, not enterable." Exhibit THIRTY Co-Chaining Logic Registry has "The co-linear recursioning forward, along, is competency: each self's own, odd." and "Two selves offering, each at its own sequencing, a term departs that neither reaches: bi-co-momentarying at the crossing, orthogonal to the surface." They part at the name of the floating term: the first names the middle neither side reaches competency, and the second names that term bi-co-momentarying, with competency each self's own, carried along. The first file's entry 6.15 and Exhibit EIGHT Natural Exploring carry the first saying also.
 
 ## The number two, completing or an arriving · v386EOD
-
-Each is from the workings of versions 376 to 379 on the ten and the six cohering, Exhibit ONE's prefixes, the Equilibria Registry and rings as spirals, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · The number two, completing or an arriving.** Two sayings part. Resolving the Hard Problem Registry has "2 completing at the first step and 6 arriving at the last", the ends of its five co-changing pairs. It has, at its five numbers, "two the alternating carries opening, an arriving and an opening; three the carrying carries completing, a completing and a carry". They part at the number two: completing at the one, and an arriving and an opening at the other, with a completing at three. At six the one has arriving and the other a two-way and the between, the arriving at two. The five pairs of the boxes and the five couplings of the numbers are said one ten, and the two ends carry other names at each.
 
 ## The engram as a society of cells carrying; The fold's four beside four things beside all existing · v386EOD
 
-Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
 
 **Droplet · The engram as a society of cells carrying.** At 4.5, the engram: the cells are a society, carrying its co-chaining through its parts changing, its synaptic proteins replaced within days to weeks and its active cells differing from day to day with about a fifth continuing. The cells joining are those nearest their own crossing at the arriving, the more excitable. Two societies forming within a day share more cells and co-chain as one, fear learned at one passing to the other; a week apart they do not. Light arriving alike at each labelled cell brings the learned response again in animals whose synapses the field finds unstrengthened: the carried is the society's co-chaining and no stored strength. Co-activity arriving again in sleep, and relearning spaced apart, are others joining; with nothing arriving again the society recedes.
 
@@ -258,13 +246,9 @@ Each is from the report of session v374 on genome doubling and its second part, 
 
 ## Two gatherings of the fields' hard problems, neither naming the other · v386EOD
 
-Each is from session v380R's carrying, at `carryings/v380R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · Two gatherings of the fields' hard problems, neither naming the other.** The fields' hard problems are gathered at two living files. Natural Naming's 6.2 gathers field namings at eight clusters, each with resolver names at the present name forms and one of four invisibles, 6.1: each side's own morality, each side's own corus, the neutral, and the between of momentaries. Exhibit TWENTY-TWO Resolving the Hard Problem Registry gathers its arrivals at "Ten things named still, one resolving" and "Four gatherings, each seating several arrivals". Neither file names the other; none of the eight cluster names and none of the four invisibles is at either hard problem registry; and no saying has the eight clusters beside the ten or the four beside the four.
 
 ## At 1.2 · The origin of life · 12; At 1.12 · Eukaryogenesis · 127; and ten beside them · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · At 1.2 · The origin of life · 12, a sentence offered.** Beside "no crossing in it to locate", offered in its dropper's words: Chemistry that was not living was living one scale inward; the threshold is the reader's scale, and life came from life at each scale.
 
@@ -291,7 +275,5 @@ Each is from session v386F's report, its proposed motions and its fresh readers'
 **Droplet · Four equilibria, each a scale named a kind.** Beneath a group of this file's entries are four things named still: a line between living and non-living as two kinds; a least scale; a top scale; and a thing non-living at each scale. Each is a scale named as a kind. Three are among the things Natural Intelligence has beside all existing things: two kinds is "a fixed form, a form named still", a least scale is "a ground, a floor or a scale", and a top scale is "a total across the changing, a container". The ten named still of this file say none of the four by scale. By the ten, the entries are at an arriving named from behind, 12, 127, 207, 253, 103 and 154; at a middle named as an end, 111, 179, 95 and 220; at the between named as a cut, 8, 50, 112 and 18; and at a two-way named to one side, 19, 62 and 77.
 
 ## One binary, a length of bi-couplings, and the searcher named unchanged · from session v386CRYP · v386EOD
-
-Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · One binary, a length of bi-couplings, and the searcher named unchanged.** Exhibit TWENTY-TWO Resolving the Hard Problem Registry's 2.19 has "An inverter is an algorithm found". Three are beside it. The field's own theorem narrows the asking to one binary: one bit of the secret is decidable from the public side, or none is, with no middle. The hardness the field names is of guessing, the guesses doubling at each binary of a key; a newer saying has resolving at a co-chaining little longer than the key's number of binaries, one bi-coupling at each, and no executing is at it. And the field names its machine and its scale of feasibility unchanged, as Resolving Hard Problems 6.2 has "a law, a frame and a scale named unchanged between two momentaries": the searcher is a third thing the field's claim names unchanged, and the one thing that changed. An executing reports, at the first entries of one public chain, the possible at the chain as keys named and unspent, a capacity, with no key opened at any entry.

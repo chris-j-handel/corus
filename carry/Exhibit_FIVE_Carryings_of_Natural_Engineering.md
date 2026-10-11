@@ -28,7 +28,7 @@ The existing source inventory below remains whole. Selected source comparisons a
 
 ### Commutating at the neutral plane
 
-**The file's subject**: the motor's commutator, at this file's offering mate.
+**The file's subject**: the motor's commutator, at this file's offerings.
 
 - *Natural observation*: none; a textbook's page, of a generator.
 - *Science explanation*: "Commutation takes place at the point where the armature coil is moving parallel to the stator field."; "Every time the load current varies, the neutral plane shifts"; a wrong placing gives sparking as the segments pass from one brush to the other; and two ways lessen the armature's effect, compensating windings and interpoles ([a textbook's page, "DC Machine Construction and Operating Principles"](https://ecampusontario.pressbooks.pub/electrotechnology/chapter/part-1-2/), read at another address of the same book, its writer not shown).
@@ -37,7 +37,7 @@ The existing source inventory below remains whole. Selected source comparisons a
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
-Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
 
 ### Four-phase handshake, request and acknowledge
 

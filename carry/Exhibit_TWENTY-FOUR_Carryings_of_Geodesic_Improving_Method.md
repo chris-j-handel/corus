@@ -70,6 +70,4 @@ Its limits, as it says them: one reader of its transcript; thirteen living files
 
 ## A proposal's passages said as left, and as never entered · v386EOD
 
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
-
 In `carryings/geodesic_improving_method_v381R_proposed/`, one file has each passage as left the living file at its v381R motion, and the folder's front has the motion as entered at no motion of the file's own, the file at v380R. The second is the case: the passages and the proposal are both carried, and no releasing was made.

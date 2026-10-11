@@ -151,13 +151,9 @@ Living Ghost Registry sections 1.2 and 2.2 already keep field observing, account
 
 ## Eight worked seams and thirty-seven · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · Worked seams, at eight and at thirty-seven.** This file's 5.1 has "Eight rows are met at a seam worked through the six steps, and the rest are met at one line here", and its 6.2 "The thirty-seven worked seams"; its third part has sections 3.1 to 3.37. One thing is at two numbers. A row names its worked seam at a seam written; a row with its re-coupling at the row alone has its seam as next exploring.
 
 ## The One and the many at 3.5, philosophy's central binary, and one seat at three scales · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Concern · The One the many follow from, at 3.5.** This file's 3.5 has "No one behind the many and no many dissolving the one", the origin's own, and "the One from which the many follow", said by the field as a whole prior to its parts. The second said whole has its One as the one form surfacing at the coupling, and no whole ahead of its members; this file's 3.13 has "owned by none" already.
 

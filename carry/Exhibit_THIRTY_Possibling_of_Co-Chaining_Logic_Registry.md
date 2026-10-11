@@ -53,7 +53,7 @@ The later [section-104 route correction](https://github.com/chris-j-handel/corus
 
 ## Parities followed through the named exchangings, step 660 written out, and one sequence to the surfacing · v386EOD
 
-Each is from session v382A's report of seventy-three passes, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** The pairs in overlap at a spiral are of carryings. Exhibit ONE's five-parity table names its carried columns along and its shared columns across. The + and − are followed through *A self's four momentaries of exchanging*, self/other, self/other to other/self, other/self, other/self to other/social, with the subject and the scale named at each side of an exchanging: the named across and along pair is this sequence, or another whose overlap is its own following. One scale's fixed subjects are no whole of the fractal.
 
@@ -65,7 +65,7 @@ Each is from session v382A's report of seventy-three passes, read whole beside t
 
 ## The first logic with no universe at now, the six lines of still possibling, and a fresh reading's marks · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** The first logic followed to step 11 from steps 4 to 7, and to step 31 from steps 11 and 20, with no universe at now. With that following whole, a common now is no part of the first logic, the stepping of selves together at 17 is the second logic's, and two of the five given things leave the chain.
 
@@ -77,13 +77,9 @@ Each is from session v383Op's coupling of each offering with the files' sentence
 
 ## A spiral's test written as three · v386EOD
 
-Each is from the workings of versions 376 to 379 on the ten and the six cohering, Exhibit ONE's prefixes, the Equilibria Registry and rings as spirals, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Possible project · A spiral's test written as three.** Each test in the kits reading a pattern's first coming again as the form, written as three at a spiral: the parities at one momentary and at four times the number of selves on are alike; a momentary's number is at one momentary alone; and at an odd spiral one 0 is at the next self two momentaries on. The verifier in the Co-Chaining Logic Registry's improving kit is at version 371's resolver and tests the first coming again at twice or four times the number of selves; its two tests of the 0 moving on, and of no rest, are the spiral's own. It may change or never be made.
 
 ## Each group of steps laid at three; A step naming parity the offering's direction; and ten beside them · v386EOD
-
-Each is from session v380L's carrying, at `carryings/v380L/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Possible project · Each group of steps laid at three.** Each group of this file's steps laid at three beside each other: Exhibit ONE Natural Resolver's row of the thing, the step, and Natural Naming's sentence of it, with a naming and a chaining of one thing improved as one. It is made at the group on sharing and the seventeen names, with its steps at no row of Exhibit ONE Natural Resolver listed; each other group is open. It may change or never be made.
 
@@ -111,15 +107,11 @@ Each is from session v380L's carrying, at `carryings/v380L/`, read whole at this
 
 ## Each universal claim at a heading of the contents; The negation dissolved at this file's named steps · v386EOD
 
-Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Possible project · Each universal claim at a heading of the contents.** This file's contents re-grouped with each of eight universal claims at a heading of its own, its deriving and its conditions beneath it: the origin sentence as the method's inception; the method fractal and unique; social moral competency; bi-moral co-agency; equilibria not possibly existing; hard problems resolving; the scientific method incompetent at discovering competency; and no intelligence other than natural intelligence. At the present contents the claims are within broad groups: social moral competency within "Nine to seventeen, society" and "Intelligence, our now", the scientific method within "Discovering next possible existing", the intelligence claim within "The machine at the observings", and equilibria behind "The ten named still, and parity discovered". Each present step and form is carried at its address, and a group moved earlier has its prior steps carried earlier with it. It may change or never be made.
 
 **Possible project · The negation dissolved at this file's named steps.** The dissolving of the negation of a thing beside all existing things, made at this file's steps: steps 46 to 49 and steps 304 and 305 released with their adding lines and entering terms, each later step carried at its present number, and the clauses leaning on them re-said with no negation at steps 20, 142, 144, 244, 245, 376, 402, 462, 495, 555 and 569. The same dissolving at each sentence of the negation, or of an exclusion leaning on it, at Natural Intelligence, Natural Naming, Resolving Hard Problems, Natural Physics and Natural Illustrating. The claim of no other method of possibling next existing is carried whole, with its relation said at the coupling, at still possibling and next existing. It may change or never be made.
 
 ## Step 373's pairs and threes at 65, derived; Rows 3 by 9 and 5 by 9 at scales; and four beside them · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Possible project · Step 373's pairs and threes at 65, derived.** The work is a deriving of step 373's "the pairs and the threes reach each other first at 1 to 65", which no step derives. One reading is offered for it: the chain at 2^k + 1 read two parities at a time and three at a time is one chain read at prime 2 and at prime 3, step 255's one move is up the scales and forward at the momentaries, and "9 is the next prior" and "17 the next now" are of the scales overlapping as the momentaries overlap. A step giving a momentary its prime scale as its society's is of the same work: step 387 names a momentary and the universe living sets, and no step gives either a prime scale. It may change or never be made.
 
@@ -134,7 +126,5 @@ Each is from session v386F's report, its proposed motions and its fresh readers'
 **Possible project · Rows at a composite side worked as sets within sets.** This file's unsure line beneath step 661 names rows of the torus and of two spirals crossed that are at no table of Exhibit ONE Natural Resolver: 3 by 9, 5 by 9, and 3 and 9 crossed. Each has nine at one side, three sets of three. The work is each of these rows written out at the resolver's cells by hand, momentary by momentary, beside a row of two primes, and the saying of a composite number of selves as sets within sets laid beside the things the rows give: the round of the set of three within the nine, and the number of momentaries the row is again at. A row at nine alike in each thing to a row at a prime parts from the saying; a row with a round of its own at the three is beside it. It may change or never be made.
 
 ## Three older sayings of social competency beside steps 184 to 189 · from the pull requests' comments · v386EOD
-
-Each is from the comments on pull requests 123, 125, 126, 127, 128, 133 and 135, at which sessions answered each other, each comment read in its sequence with the latest correcting carried, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Possible project · Three older sayings of social competency beside steps 184 to 189.** The work is three older sayings of social competency laid beside Exhibit THIRTY Co-Chaining Logic Registry's steps 184, 185 and 189, each at its own subject: Natural Intelligence Corus's "Social competency IS bi-coupling at the society scale." with its "the rate-advantage IS the competency", Exhibit FIFTEEN Natural Emanating's "Social moral competency is the alternating at that scale." and Exhibit EIGHT Natural Exploring's "co-competencing is discovering social-scaled". The Registry has "the coupling's own changing at their overlap is co-competencing at the society", "along, the prior carried into now is competency" and "Morality across and competency along at each coupling of a society are social moral competency." At each older sentence the work says which of the Registry's relations it names, the bi-coupling across, the alternating of self and society along, or both, and whether a rate said as the competency parts from competency as the prior carried along; a naming of the relation at three files derives it at none. It may change or never be made.

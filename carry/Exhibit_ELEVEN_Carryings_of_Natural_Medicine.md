@@ -37,11 +37,11 @@ The following inventory retains its historical wording and addresses. The [v385A
 - *Natural observation*: in a trial's second part, twenty-eight people who had each had placebo, and whose virus had come again within twenty weeks of stopping therapy, were given two doses of two long-acting antibodies twenty weeks apart while on therapy, and therapy was stopped again; a report of the trial has "ART was stopped 24 weeks after the second bnAb dose, not after the antibodies had cleared" (the RIO trial, reported at a conference in 2025 and 2026; read at [one report of it](https://www.aidsmap.com/node/39937) and [another](https://i-base.info/htb/50530), its own publishing not opened).
 - *Science explanation*: the twenty-four weeks were chosen for the antibodies to have left the body ahead of the stopping.
 
-**Laid beside.** The file's first sentence is the trial's own; its second, of twenty-four weeks after the clearing, is not. It resolves the concern at this file's offering mate of twenty-four weeks from two things.
+**Laid beside.** The file's first sentence is the trial's own; its second, of twenty-four weeks after the clearing, is not. It resolves the concern at this file's offerings of twenty-four weeks from two things.
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
-Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
 
 ### Inert pills said plainly to be inert
 

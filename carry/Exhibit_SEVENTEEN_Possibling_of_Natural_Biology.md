@@ -52,7 +52,7 @@ A next pass can follow one described occurrence through both explanations: what 
 
 ## The doubled genome at its own couplings, 8.8's step eight, and the seed at four sections · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** The sentences of chromosome pairing, cell and lineage at the insertlets for 5.1, 5.5 and 9.1, each followed at its own couplings, a form copied and a living carrying each its own, through the societies' living stable-forming.
 
@@ -62,20 +62,16 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 
 ## A seed and a virus at 4.1, and beating and carrying at 3.1 · v386EOD
 
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
-
 **Possible project.** It may change or never be made. At 4.1, a seed parted from a virus at carrying. At 3.1, metabolic beating and carrying coupled at one sentence, at an observing naming an inward self, its sharing and its momentary.
 
 ## Four of six, and an eight at four further societies · v386EOD
 
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** This file's "And four readings run at all six" followed beside the four boundings.
 
 **Possible project.** An eight looked for, from each field's own record, at the tissue, the plant, the colony and the biosphere, each a prime society the files have. An eight found at two is one eight by no numeral alone.
 
 ## Five sayings of Natural Biology at scales · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Possible project · Five sayings of Natural Biology at scales.** Five sayings of Natural Biology said at scales. A seed and a spore, at 4.1 and 7.8, as a carrying wrapped: non-living at its own scale with its selves living inward, dormancy the bi-coupling at its own scale ceased, and germinating that bi-coupling opening again. The conceived, at 5.1, as one self at the organism's scale from its opening momentary. Ingesting, at 7.5, named from the ingesting self's nearest inward society. A shed form, at 3.3, breaking down from within, its inward societies living on. And at 10.4 each prime with a number of bi-coupling selves at one scale, or released. It may change or never be made.

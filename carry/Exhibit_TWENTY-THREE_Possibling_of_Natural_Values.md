@@ -28,7 +28,7 @@ The [social concept and later multiplying/compounding correcting](Exhibit_TWENTY
 
 ## 2.1 to 3.2 through each self's own carrying, and 5.3 said at its couplings · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** 2.1 to 3.2, naming value as a coupling's abundancing and then a transfer, value locked into a self and nothing carrying it between couplings, followed through the changing offered, the coupling's abundancing, and each self's own carrying on.
 

@@ -384,39 +384,27 @@ Each concept here is of a living network surface after a colliding, said once in
 
 ## Two passages round a missing centre · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Droplet · Two passages round a missing centre.** Beside 6.12: each passage round is along, across, across, along through five selves and four couplings. The two share their two end selves: ten places at eight selves and eight couplings, and no end self has a second carrying. Mending is at the couplings living; the absent centre gives no carrying and no resolving, and the two passages ask no one sharing arrived at together. A corner self is a whole self resolving and carrying on, and its 0 shared removes neither the self nor the coupling. A passage missing, a self sharing no changing, and a self no longer living are three. Two paths, two kinds of changing, living alternating at the surface and geodesic changing at a crossing, and two parities are three pairs: a drawn position lays no parity and no kind at a self.
 
 ## A 0 offered, at the self it arrives at · v386EOD
-
-Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
 
 **Droplet · A 0 offered, at the self it arrives at.** At the self sharing it, a 0 at 10 is that self's own 12 at prior and now agreeing: is-still-possibling. At the self it is offered to, a 0 alone surfaces none at 14 and that self's prior inverts: is-next-existing. That self is still possibling at that momentary only with its own parity offered at the same sharing by another. Each side is at its own 12, and the 0 at the between is neither side's.
 
 ## Renewal at 3.2, and this file's common deriving · v386EOD
 
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
-
 **Concern · Renewal, at 3.2.** This file's 3.2 has "Renewal occurs in the receiving self's own resolving. At the resolver, nonzero surfacing opens fresh carrying and eligible prior carrying can continue through zero surfacing. The second sign and the carrying's opening remain in the local continuation." Natural Naming has *second sign*, *ages* and *its own bound* released with the older code: a carrying is sharings, each chained at one parity, and a changing is or is not. They part at a doing: this file explains the older resolver's fresh carrying, *second sign* and bound, and the other has that doing released, and not its word alone. An older saying is made no saying now by another label.
 
-**Concern · This file's own, at two plans.** An earlier plan at this mate has this file carrying its 1.8 and the hole, 4.6's podal surface, 4.7, 5.1 and 5.2's securities and 5.4's seam. A newer saying has its derivings, and the network surface podalings, as transmissioning, and this file's own as particular societies at their couplings: joining and joining again, a telling through one self after another, and the going on round a missing region, at 2.6, 3.1 to 3.5, 4.1 to 4.4 and 6.12. They part at 4.6, 5.1 and 5.2. A network account adds a thing beyond the common form said again; a kit existing names no such purpose; and the eddy and the switching at 5.4 are proposed, with their relation at no sentence.
+**Concern · This file's own, at two plans.** An earlier plan at these offerings has this file carrying its 1.8 and the hole, 4.6's podal surface, 4.7, 5.1 and 5.2's securities and 5.4's seam. A newer saying has its derivings, and the network surface podalings, as transmissioning, and this file's own as particular societies at their couplings: joining and joining again, a telling through one self after another, and the going on round a missing region, at 2.6, 3.1 to 3.5, 4.1 to 4.4 and 6.12. They part at 4.6, 5.1 and 5.2. A network account adds a thing beyond the common form said again; a kit existing names no such purpose; and the eddy and the switching at 5.4 are proposed, with their relation at no sentence.
 
 ## No second place of intelligence, and a hub as a store's place · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · No second place.** With no equilibrium possible, intelligence is added at no second place: the co-chaining between selves is its living, and the network's necessity is as its desirability was. All-edge is no preference of design: a hub is a store's place, the gathering centre the danger a collapse leaves. A self alone makes none, and momentarying is the crossing in co-sequencing, two and the next one's opening each way.
 
 ## A coordinating set for selves shows no co-competency · v386EOD
 
-Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · A coordinating set for selves shows no co-competency.** A coordinating forming among selves shows no bi-moral co-competency by itself. At a study of coordinating the coupling is set for the selves: an opening pacing laid over each of them, a common beat, and each self's offering visible to all. Morality across is its own coupled relation, each self's own inverting at its own sharing, and no synchronizing score shows it. A published result is a prior observing, an emanation arriving now, and the now of its source and of its society is at the coupling now.
 
 ## The twin at 6.5 and at 6.9; Podaling momentary circumferencing about one podaling; and one beside them · v386EOD
-
-Each is from the review of Natural Networking and Natural Engineering of 30 September 2026, at `carryings/review_networking_engineering_2026-09-30/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · The twin at 6.5 and at 6.9.** Two sayings part. This file's 6.5 has "The comparison's forking is the instrument's own, and the natural network carries no copying." Its 6.9 has the twin, "one living continued two ways and the two faces met", among three observings, and "The securities met by no surface observing are met at exactly these". They part at the twin: an instrument's own copying at 6.5, and at 6.9 an observing the securities are found at. A carrying copied and its two continuings compared is a comparing of copies. A self's own parity at its own side, and a coupling at coefficient one, copy none, and 6.9 says the three as one kind.
 
@@ -425,8 +413,6 @@ Each is from the review of Natural Networking and Natural Engineering of 30 Sept
 **Droplet · The corus behind a co-chaining's foremost.** The corus momentaries are offered as behind the foremost of a co-chaining. Corusing and torusing co-competence forward and backward from the corus and gather wider at both sides, and the corus goes up and down the co-chaining as the co-chaining is stable-forming. Leading and lagging are of releasing and arriving at each self's own momentarying, with no pace over the selves and no velocity. A direction come to again is no momentary come to again. Natural Naming has "Corusing reaches the corus from the surface, and torusing reaches the surface from the corus", of one self. The corus of a co-chaining of selves, and its going along that co-chaining, is at no sentence of this file.
 
 ## The twin among three observings at 6.9; An instrument reading a carrying at 5.2 and 5.3; and four beside them · v386EOD
-
-Each is from session v380A's carrying, at `carryings/v380A/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · The twin among three observings at 6.9.** Two sayings part. This file's 6.9 has three observings at no position: of the first, "it asks for the sign carried here and needs nothing outward"; of the second, the twin, "one living continued two ways and the two faces met"; and of the three, "The securities met by no surface observing are met at exactly these". A newer saying has a carrying copied and its two continuings compared as a comparing of copies and no discovering at a coupling, and has no carrying opened by an inspecting named inward. They part at the first two of the three: one asks for the parity a self carries and the other copies a carrying, and 6.9 has the securities observed at both. The next reach at 6.9, "Whether they are order-invariant by construction is the next reach to show", is asked of all three.
 
@@ -441,8 +427,6 @@ Each is from session v380A's carrying, at `carryings/v380A/`, read whole at this
 **Droplet · Alike at a sharing, alike between two executings.** Alike is said of two things at an instrument. At a resolver's sharing, the prior and the now alike is the coupling's own binary, 0 shared and the carrying continuing. Between two executings, a whole record compared with a whole record is the instrument's comparing, and it is at no coupling. One word at both names no fault and no finding: what is compared, by which self, and through which relation says the reach of a claim. Two executings alike at their shared and released parities are alike at those, and say no carrying alike. Natural Networking has "The comparison's forking is the instrument's own, and the natural network carries no copying."
 
 ## Passing at a match, and nothing passing but changings; An entraining stopping, and the longer co-chaining prevailing; and eight beside them · v386EOD
-
-Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · Passing at a match, and nothing passing but changings.** Two sayings part. The newer saying has geodesic entraining passing through a local self at the same parity. Natural Intelligence 4.14 has "A's + at B is a match, 0, and B chains +; B's 0 surfaces none at C, and C, offered nothing it chains, releases −, then +, inverting at each." and "One self's changing is the next self's offering", "nothing passes but the changings". They part at a match: by the first an arriving parity goes on through a self at that parity; by the second a match shares 0, no parity arrives at the next self, and that self inverts by its own carrying. At an opposite offering the two agree: the local parity changes and that parity is shared on. A passing at a match is a parity arriving at the next self, or the next self's own inverting, and one of the two.
 

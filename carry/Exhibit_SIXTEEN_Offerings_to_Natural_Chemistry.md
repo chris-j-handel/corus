@@ -34,9 +34,9 @@ Exhibit SIXTEEN Natural Chemistry Offerings · laid at v386EOD
 
 **Concern · Sixty a position or a between.** Two sayings part. Exhibit EIGHTEEN Natural Physics has, at 3.1, "a turn stands at 60" and "a turn is a position that carries". Exhibit THREE Natural Numbers has, at 7.1, "sixty is between the going and the returning, at no prime", and Exhibit SIXTEEN Natural Chemistry has, at 4.4, "no position in the elements carries at sixty". They part at sixty: a position that carries, or a between. One saying of sixty, position or between, at the three places is the three files' own to make, each at its motion. — v386EOD
 
-**Droplet · Seams with Natural Chemistry and Natural Biology.** The report beside the proposed Natural Physics of version 377, at `carryings/natural_physics_v377/`, has at its section 6.6 seams with Exhibit SIXTEEN Natural Chemistry and Exhibit SEVENTEEN Natural Biology, each side at its own file: that text's 5.2, the same method at their subjects; and Natural Biology at that text's 3.4, the pacemakers and the fireflies, and at its 3.12, light as a living society. Those files' mates carry their side, and the proposed text has its side at the section named. — v386EOD
+**Droplet · Seams with Natural Chemistry and Natural Biology.** The report beside the proposed Natural Physics of version 377, at `carryings/natural_physics_v377/`, has at its section 6.6 seams with Exhibit SIXTEEN Natural Chemistry and Exhibit SEVENTEEN Natural Biology, each side at its own file: that text's 5.2, the same method at their subjects; and Natural Biology at that text's 3.4, the pacemakers and the fireflies, and at its 3.12, light as a living society. Those files' own carrying carries their side, and the proposed text has its side at the section named. — v386EOD
 
-**Droplet · The sum changing, at 442 and at 341 of 500.** The report beside the proposed Natural Physics of version 377, at `carryings/natural_physics_v377/`, has at its section 6.7: item 10 of the hardest problems has 442 of 500 closed societies changing their sum, with no script named, and `sums.py`, in that report's folder, gives 341 of 500 at its stated choices. The number belongs to the mates of Natural Chemistry, Natural Engineering and Exhibit THIRTY Co-Chaining Logic Registry, F40 and F41, laid at them by another session. The proposed text says at its 4.5 its own execution and its choices. — v386EOD
+**Droplet · The sum changing, at 442 and at 341 of 500.** The report beside the proposed Natural Physics of version 377, at `carryings/natural_physics_v377/`, has at its section 6.7: item 10 of the hardest problems has 442 of 500 closed societies changing their sum, with no script named, and `sums.py`, in that report's folder, gives 341 of 500 at its stated choices. The number belongs to the carrying of Natural Chemistry, Natural Engineering and Exhibit THIRTY Co-Chaining Logic Registry, F40 and F41, laid at them by another session. The proposed text says at its 4.5 its own execution and its choices. — v386EOD
 
 **Droplet · Natural Chemistry the best-shaped science, at session v373's reading.** Session v373's reading of the living files has Exhibit SIXTEEN Natural Chemistry, 14,000 words at its version 346c, as the best-shaped science: the field's record and the reading are carried apart. At that reading 60 to 65% of the file is its own subject, 8 to 10% restates the common method, and it has little old wording. — v386EOD
 
@@ -156,15 +156,11 @@ Keep the material arrangements, conversation value and writing contribution avai
 
 ## A bond at coefficient one, said as possible and said as it is, and the reach of one observing · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · A bond at coefficient one, at 1.2 and at 1.4.** This file's 1.2 has "This is a pattern-reading, and the stronger reading, every molecule living and every bond at coefficient one, stands open to bond order, energy, density, geometry and reaction breaking it". Its 1.4 has "Bond at coefficient one is a bond with nothing beside it". They part at one saying said as possible and said as it is: its deriving is at a sentence, or it is said as proposed at 1.4 too.
 
 **Droplet · Clusters at zero external resistance, and the six positions.** At 5.6, "the observing that decides the reading is multifrequency clusters at zero external resistance, is or is not", and "one row refusing the correspondence refusing all six". The observing is of the dependence on the global coupling term; the correspondence to the method's six positions is derived at each position, and by no cluster observed.
 
 ## Tunnelling at the odd and at the even, the hinge's rest, and chemistry between physics and biology · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Concern · Tunnelling, at the odd and at the even.** This file's 1.1 has "here it reads down tunnelling: the bond, the carry co-released inward, the odd", and its 1.4 "Down the nested societies is the tunnelling, the even move". One subject is at two parities within one file; Natural Numbers has bi-tunneling across, at the even, with 1.4. The mending is one word at 1.1, its saying of the bond as it is.
 
@@ -182,13 +178,11 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 
 ## Clusters of several frequencies, at a later paper · v386EOD
 
-Each is from a publishing opened at this gathering, its observing at the carrying mate. 
-
 **Concern · 5.6's observing, and the paper named.** This file's 5.6 has "the observing that decides the reading is multifrequency clusters at zero external resistance, is or is not", beside the paper it names. That paper's title has oscillating and patterns at no outer resistance; clusters of several frequencies are a later paper's subject, by its title, and at that condition are at no text read. It is at [Carryings of Natural Chemistry](Exhibit_SIXTEEN_Carryings_of_Natural_Chemistry.md#silicon-dissolving-oscillating-with-no-outer-resistance).
 
 ## Non-living surfaces do not select; A between's pace parts the gradual from the sudden; and four beside them · v386EOD
 
-Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
 
 **Droplet · Non-living surfaces do not select.** A non-living surface has no selecting competency. The field's selective adsorption, left- and right-handed molecules remaining in different amounts at a crystal's two opposite-handed sides, is its accounting of which molecules remain at which side. At the observing each arriving molecule and the side change, place, trajectory and form, and continue co-momentarying; Natural Intelligence has of a non-living thing "while it carries none colliding or not colliding is each of its co-momentaryings". Which molecule remains at which side is form at form at each momentary, and no competency. The living and the non-living part at carrying: the non-living's next is its form, place and trajectory continuing, and the living are at an arriving with their carrying.
 
@@ -204,21 +198,15 @@ Each is from the report of session v374 on genome doubling and its second part, 
 
 ## A carry crossing beside a self's own carrying · v386EOD
 
-Each is from session v380R's carrying, at `carryings/v380R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Concern · A carry crossing beside a self's own carrying.** Two sayings part. Exhibit SIXTEEN Natural Chemistry has "the bond is the coupling at the chemical substrate and the carry crossing to the cell above and the atom below at coefficient one, sign-only". Exhibit TWENTY Natural Naming has "each side carries its own, and only a parity changing crosses between them". They part at what crosses a coupling: a carry, or a parity changing alone with each carrying its self's own. Either the sentence is re-said at the carrying the self's own, or it is as it is and said of another relation. The newer saying has a self's carrying its own, crossing at no coupling of selves, one sharing's parity at its changing alone crossing.
 
 ## Carbon named the chemical living self; No one boundary of living, beside a scale's binary · from session v386F · v386EOD
-
-Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Concern · Carbon named the chemical living self.** Two sayings part. This file's 1.6 has "The self whose stability is that continuing changing is carbon, at the form the chemical living self". The same section has "so carbon's couplings do its chemistry and carbon does nothing". They part at carbon as a self: an element, a kind, named the living self, or the couplings living and the element a number. This file's 1.1 has in its title "its selves societies and its societies selves": by it the living is a society at its scale, and an element is the name of a number at a nucleus. Said alike at 1.6, the first sentence is of a society of couplings at carbon, and of no one kind of atom as the living.
 
 **Concern · No one boundary of living, beside a scale's binary.** Two sayings part. This file's 4.1 has "no single boundary separates living from nonliving; the bounding is dynamic and the observed range stays attached to its conditions". Natural Intelligence has "Living and non-living part at a named scale and momentary". They part at the parting itself: no one boundary, a bounding by degrees, or a binary whole at each named scale. Both are whole with the scale said: at one named scale and momentary a thing is living or non-living, all or none at all, and the thing varying across the cases of 4.1 is the scale named, and no degree of living. This file's 1.2 has "the three scales stay chemically distinct", a number of scales given, beside Natural Intelligence's "supplying no first and no final scale".
 
 ## Two ways a society parts; A society continuing past each member, at chemistry's scales; and one beside them · from other branches' earlier versions and mends · v386EOD
-
-Each is from material on other branches read by no earlier reading: session v382F's mended Natural Intelligence at `working/natural-intelligence-mends-v382F`, session v374's earlier report on chemistry's societies at `working/chemistry-societies-v374`, and earlier versions of session v381F's and session v383Op's files, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · Two ways a society parts.** A society parts in two ways. A mixture made unstable parts at each place at once, with no barrier: its couplings cease at each place together, the parting is fuzzy across the whole, and no one place crosses first. A mixture near its crossing and short of it parts at a few places over a barrier: a dwell, a crossing at one place, sharp, and the new relation opening outward from that place. The two ways are of one mixture at two nearnesses to its crossing. After each parting the larger regions grow as the smaller release, and the parted societies are at one scale again. It is beside one society parting into two with each part completing its own coupling, a twinning: the parting at one place.
 

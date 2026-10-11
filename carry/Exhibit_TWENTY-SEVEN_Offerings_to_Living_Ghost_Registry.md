@@ -224,13 +224,9 @@ The actual grammatical and operational installation, prime assignment and propos
 
 ## An arrival said unwritten, and written · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · The electron's arrival.** This file's 5.3 has "its arrival at TWENTY-FIVE, the pattern read one arrival at a time, is not yet written". Exhibit TWENTY-FIVE Living Society Registry has that arrival at its 2.16, and this file's own closing table names it. The like words are at four further entries of this file, each entered at the other registry's 2.18 to 2.22 by that registry's closing paragraph.
 
 ## Six lines as three pairings, and each kind released by its own side · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Droplet · Six lines, three pairings.** This file's six lines are three pairings, each one thing at its living face and at its face named still: the carrying and its stilling; the accounting and its installing; and the ledger's closing and the co-competency uncarried. As pairings they name the partner of each line with nothing at it.
 
@@ -240,12 +236,10 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 
 ## The immune system, a grouping named by a function · v386EOD
 
-Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
 
 **Droplet · The immune system, a grouping named by a function.** The immune system is the field's grouping of cells by a function named for them: a character, as the field's clock at the iodine clock and its quorum sensing at catalytic particles are. The existing things are living selves, the cells of the airway's and gut's linings, of the marrow and of the blood, each changing at its own betweens within the tissue societies it belongs to, and the body a society of those societies. A saying of an immune society carrying receptors for antigens yet to arrive is re-said at the cells carrying their receptors, each assembled at its own cell. Immune, defence, kills, protects, blocks and sensing are the field's words, given as the field's naming beside the observing.
 
 ## The first of the three placings, living or existing · v386EOD
-
-Each is from session v380R's carrying, at `carryings/v380R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · The first of the three placings, living or existing.** Two sayings part. Exhibit TWENTY-SEVEN Living Ghost Registry's 3.4 has "Every term an entry names stands as living, emanation, or accounting at its use". Natural Naming's 5.46 has "Existing, emanation and accounting are the three placings a term is at". They part at the first placing: living at the registry, existing at Natural Naming. A non-living existing thing that is neither an emanation nor an accounting has a placing among Natural Naming's three and none among the registry's; and an emanation, which Natural Naming's 5.48 has as "a non-living existing form", is beside existing among Natural Naming's own three.

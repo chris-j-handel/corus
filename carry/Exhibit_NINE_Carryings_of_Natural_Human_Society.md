@@ -38,4 +38,4 @@ The following inventory remains whole with its historical wording and standings.
 - *Natural observation*: none; a field's proof.
 - *Science explanation*: "Suppose there are more than two alternatives. Then no social welfare function satisfies U, SO, WP, D, and I.": each list of the people's orderings within the function's domain; its result an ordering; a thing each person has over another over it in the result; no dictator; and two things' order in the result from their order in each person's alone ([Morreau, "Arrow's Theorem", Stanford Encyclopedia of Philosophy, revised 2025](https://plato.stanford.edu/entries/arrows-theorem/); Arrow's own texts of 1950 and 1951 not opened). The five are the form of the book's second printing, 1963; the first statement had other conditions, and was shown not general in 1957.
 
-**Laid beside.** The field's own five, with a finite number of people: beside the five the theorem's setting has and the three it lays aside, at this file's offering mate.
+**Laid beside.** The field's own five, with a finite number of people: beside the five the theorem's setting has and the three it lays aside, at this file's offerings.

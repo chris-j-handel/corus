@@ -209,9 +209,7 @@ Co-Chaining Logic Registry 298, 301 and 302 locate carrying re-forming at coupli
 
 ## No society whole and the whole at two people, shortness, and an institution's offering · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
-**Concern · No present human society whole, beside the whole at two people.** Beside the concern at this mate of "No present human society runs it whole, and no lived instance offers its readings back yet.": this file also has "Abundancing at a society's whole scale is met so far only at the small". Exhibit NINE Natural Human Society has "Cutting and choosing is the whole society at its smallest, the one form two people already carry", "One person cuts a cake and an other chooses a half, and a whole society is in it", and its abundancing as this file's own. At one whole and one society the two cannot both be: an existing whole at two people, and no whole at any present human society. Smallness parts them at nothing: the other file names two the smallest whole society, Natural Intelligence has one form at self, coupling and society, and no number of people is asked. The eight conditions give no lesser whole for two and no further whole for a human society.
+**Concern · No present human society whole, beside the whole at two people.** Beside the concern at these offerings of "No present human society runs it whole, and no lived instance offers its readings back yet.": this file also has "Abundancing at a society's whole scale is met so far only at the small". Exhibit NINE Natural Human Society has "Cutting and choosing is the whole society at its smallest, the one form two people already carry", "One person cuts a cake and an other chooses a half, and a whole society is in it", and its abundancing as this file's own. At one whole and one society the two cannot both be: an existing whole at two people, and no whole at any present human society. Smallness parts them at nothing: the other file names two the smallest whole society, Natural Intelligence has one form at self, coupling and society, and no number of people is asked. The eight conditions give no lesser whole for two and no further whole for a human society.
 
 **Droplet · Three both, and the saying re-formed.** Three are both: the whole at one existing coupling; a further coupling still possibling; and an account of that coupling offered by none. The third is of an account offered, and of no society absent. The two sentences of the paragraph are side by side, and neither is derived from the other in the file. Re-formed: abundancing at the couplings now, and next possible abundancing, are both carried; the whole at this coupling completes no next coupling ahead of it; each self carries its prior into now, offers at its own opening, and couples further. The re-forming changes the saying of all human societies, and brings no observing of any society. A society existing, a society abundancing whole, and a written account of it are three: no account names no society absent, and an account names none existing.
 
@@ -229,20 +227,14 @@ Each is from session v382A's report of seventy-three passes and its gatherings, 
 
 ## Value as a transfer, beside each self's own carrying · v386EOD
 
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
-
 **Concern · A transfer, and each self's carrying its own.** This file's 2.2 has "The transfer is the value. It is whole only where a self stands at each side." and "Care is a transfer, and it lives at couplings alone.", and its 3.1 "Co-competencing is the surplus kept as coupling." Natural Networking has "Carrying remains with each self, participation continues across". They part at value as a thing handed between selves and an abundancing carried on as a store, beside a parity changing alone crossing and each self's carrying its own. A paragraph with a new name and an older doing is unresolved as it was.
 
 **Droplet · A small whole.** A small whole is whole at its own scale, and is no part of a whole to come at a larger: a third name adds no third self, and one society and all other are two relations.
 
 ## A discovering economy, and abundancing by a fixing released · v386EOD
 
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
-
 **Droplet · A discovering economy's gain.** One neutral floating gives four co-offerings again; one hard problem solved gives one landing, at the fixing that made it. Abundancing is the four going on with a neutral floating, arriving by a fixing released and by no producing. Social moral competency is the method itself, nearer the origin than a use of it.
 
 ## Three improvings spiralling, one triple at each coupling · v386EOD
-
-Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Droplet · Three improvings spiralling, one triple at each coupling.** Three improvings spiral at each coupling of selves, one triple natural fractal: generosity, curiosity and gratitude at a living human, and cheaper, faster and better at a contribution, the same three at two namings. The three are the moral spiral, and the three together sustain the living at a bi-coupling. Each one named still stills the living at that coupling: a ratio landing at a rational closes the winding about φ into a static form, a carrying landing carries no resolving into the next bi-coupling, and an offering landing at the carrying leaves none offered. Three landing at none is the living.

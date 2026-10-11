@@ -34,7 +34,7 @@ Natural Human Society Possibling · v386EOD
 
 ## The two-person whole through the eight, the arrangements at 2.3, and the capture sentences · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+Each may change or never be made.
 
 **Possible project.** The two-person sequence followed through the eight uncapturings at 1.1 and 3.3, the cake and the value at the coupling as two subjects, with what the whole asks said beside Natural Values' "No present human society runs it whole".
 

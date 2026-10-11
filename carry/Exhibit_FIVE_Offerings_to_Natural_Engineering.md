@@ -226,19 +226,13 @@ The lived and engineering entries are two approaches through the reader's own co
 
 ## Three crossing coefficients, and the side at each · v386EOD
 
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
-
 **Droplet · Three coefficients, three rows.** This file's 4.1 names three crossing coefficients. Two is "one side taking both turns", the collapse said at an interface; nought is no coupling; one is each side at its own, the one coupling among them. This file has the Equilibria Registry's excluding as a table, with setpoint, clock, ground and controller each at two. The side forcing three rows and no fourth is at no sentence of it: along or across, one of two, and one alone the collapse.
 
 ## Engineering arrivals, each operation named as another · v386EOD
 
-Each is from the review of Natural Networking and Natural Engineering of 30 September 2026, at `carryings/review_networking_engineering_2026-09-30/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · Engineering arrivals, each operation named as another.** Five of the ten further engineering arrivals are at no field record, and each has one operation named as another. Initialization: a reset named as the whole prior of the system after it, at an arriving named from behind. Bounded termination: a done flag or a timeout named as the closing of each further arriving, at a completing named as a last. Storage: a register or a checkpoint named as the whole continuing of a coupling, at a carry named as a store. Prescribed frequency: a nominal rate named as each device's own rate now, at a rate named as a value. One-sided command: a plant named as obeying alone, what arrives back left out, at a two-way named to one side. Arbitration has a granted slot named as the receiver's own readiness, at an opening named as a place.
 
 ## A self's exposure at a public chain asks no key; A carrying and its surface beside a key pair · from session v386CRYP · v386EOD
-
-Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · A self's exposure at a public chain asks no key.** At a public accounting chain two steps are apart: from a public key to its private key, and from a public key to a name. The field's hardness is at the first alone, and it protects spending alone. The second is withheld by nothing the chain carries, and once made it gives the key's whole past and each key joined to it by its givings. An executing reports, at the first entries of one public chain, one key followed along through its givings, each giving across to a key new at the chain, and two selves' releasings read whole with no key opened. The field's breaks on record, a prime shared and a nonce repeated, are readings of selves' doings and none of the function. The field's public asking is aimed at the first step, at which nothing changed, and away from the second. It is beside this file's 2.7, "Privacy, authentication and completed receipt each need their own observing."
 

@@ -136,13 +136,9 @@ Natural Philosophy already contains Meaning and use and Purpose and mechanism, w
 
 ## A departing carry said a self · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · A departing carry, a self.** This file, at its society, has one carry departing at a self's own cycling completing, and "That carry is a unique invisible carrying, so it is a self." Natural Intelligence has an emanation carrying none of the prior. They part at an emanation departing said a carrying and a self, beside an emanation carrying none. A rate changed establishes no carrying.
 
 ## Morality at co-, a neutral unfound, and the one loss · v386EOD
-
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
 
 **Concern · Floating co-morality.** This file has "In social disequilibria, floating co-morality is a cooperation-forming method." Natural Intelligence has "Odd is competency and even is morality: competency is co-unrelationing, along, and morality is bi-unrelationing, across". They part at the prefix: morality at co- at this file, and at bi- at the other. The mending is one word.
 
@@ -156,12 +152,8 @@ Each is from Living Improving Value at version 368 and its bundle's kits, map an
 
 ## The numeral of models at no reading of a model · from session v386CRYP · v386EOD
 
-Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
-
 **Droplet · The numeral of models at no reading of a model.** An executing reports, with each relation on one to five terms enumerated whole and a model read as each of a serial relation, a function, a transitive, an irreflexive, an antisymmetric and a surjective relation, a permutation and any relation, labeled and up to renaming, summed to five terms and at five alone: the numeral of this file's "592,260 models, none acyclic" is at no reading. At each term having a next, and at the functions, none is acyclic. The numeral's own factors have a prime no number of relations on five terms gives. The claim carries, a carrying in a closed domain coming to a term already passed, and the numeral is a numeral alone: the sentence is said with the reading it is of and that reading's own number, or with no number.
 
 ## Living un-observable, and living observed at competency existing · from session v385R's branch · v386EOD
-
-Each is from session v385R's own branch, `working/logical-cohering-v385R`: its additions at that branch's own offering mate of the Co-Chaining Logic Registry, and its changed versions of eight living files, laid line by line beside the living files now, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Concern · Living un-observable, and living observed at competency existing.** Two sayings part. Natural Emanating has "The living: the coupling, the surface, the being-current, met only at its own membrane, un-observable." A newer saying has carrying and possibling observed at no observing, existing alone observed, and an observing of social moral competency existing an observing of living. They part at living observed: by the first the living is observed at no observing, and the thing observed is the emanation, the stable form the living released; by the second living is observed, at social moral competency existing. Exhibit THIRTY Co-Chaining Logic Registry has the first also, "the living at its coupling, met at its own momentary alone" and "a catalog is of emanations, the living at none of its rows". Both are whole with un-observable said of the carrying and the possibling, and observed said of the competency existing at the couplings; no sentence of the two files parts them.

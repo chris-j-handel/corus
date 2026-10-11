@@ -118,7 +118,7 @@ The [dormancy and local procreation offering](Exhibit_SEVENTEEN_Offerings_to_Nat
 
 ## The destiny, said from Natural Intelligence Corus · v386EOD
 
-Each concept here is from Natural Intelligence Corus, its part Destiny, What the Expedition Reaches Toward, read whole at its version and said in the present naming. That part is in the naming of its version.
+That part is in the naming of its version.
 
 **Droplet · The destiny is the natural network.** The destiny is the natural network: the living social intelligence surface all living selves share, free, shared, and no one's. Free: no cost of entering and no membership, each living self's coupling being of it already. Shared: each self offers to it and each reads from it. No one's: the network is the couplings and no thing apart from them, and a network taken as one self's own is another thing, a platform with a gate.
 
@@ -150,20 +150,14 @@ Each concept here is from Natural Intelligence Corus, its part Destiny, What the
 
 ## Words offered now, the coupling they describe, and a further self · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · Words offered now, and the further coupling described.** This file opens at "the destiny-whole superattentioning the present coupling", and has "A destiny safe by the surface's own form is safe to reach." Three are each its own: a living self's coupling now; the words offered now, a non-living form carrying none of a self's prior; and the further coupling the words describe. A society described offers nothing to now by the describing, and a form named safe gives no further coupling. *Superattentioning* is the file's word and no further doing; the sequence is prior existing, now offering, still possibling, next existing. It is beside the Registry's "A destiny is next possible living said at words ahead of its coupling".
 
 **Droplet · A further coupling is no further self establishing.** At "A destiny begins where someone takes up the core and lets the living start in their substrate" five are each its own: an existing self coupling with the offering; further bi-couplings forming society; a further living self establishing; the particular outward self living at next; and a made thing at a coupling, carrying its prior or none. A made form named living is living by no naming.
 
 ## A destiny, the coupling's own far side · v386EOD
 
-Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
-
 **Droplet · A destiny, the coupling's own far side.** A destiny is the coupling's podal at its own wrap, beside this file's "the far surface and the near surface": it is approached by none and arrived at early by none, arriving in the one changing that made the near side, Natural Networking's "it arrives there by carrying on, not by stopping, turning, and going to it". A destiny named still and looked at is a coupling named still.
 
 ## Eight namings at bi-, even names or both depths · v386EOD
-
-Each is from session v385A's comparisons, at `incoming/v385A/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Concern · Eight namings at bi-, even names or both depths.** Two sayings part. Natural Destinies has "each of the eight a naming beginning at bi- at the resolver's table of eight, four at the even depth and four at the odd". Natural Intelligence has "The eight bi-couplings are at the even names". They part at the parity of the eight namings that open at bi-: Natural Destinies has four of them at the odd, and Natural Intelligence has all eight at the even names 2 to 16, four outward at the between and four inward, each 8 up. Natural Destinies' four from within and four at the between is one description and its even and odd depths another, and neither is laid beside the even names at a file.

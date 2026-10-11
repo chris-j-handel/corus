@@ -152,8 +152,6 @@ The older offered replacement is: “Accounting against forms named still, the s
 
 ## A hard problem, a saying from outside each coupling · v386EOD
 
-Each concept here is from Natural Intelligence Corus, its sections Closing and Unbounding Sides of the Living Gap and Ghosts at Every Prime, read whole at their version and said in the present naming.
-
 **Droplet · Proving all at once.** At a coupling a resolving is local to it: the coupling resolves, and the next begins. Said from outside each coupling, nothing is local: each question is each question at once, and each claim is asked to meet each other claim. Not resolvable, and asking all proof at once, are one condition at two readings.
 
 **Droplet · A field at two sides.** Each field and each institution is at two sides: the coupling, resolving and living; and an accounting named still. A biologist observes metabolism, and a department has a gene controlling; a hospital couples with its patients, and its administration has a billing ledger. The observations are real and the measurings right at the surface. The form still is in the preserving: a ledger with an observation fixed in place.
@@ -170,13 +168,9 @@ Each concept here is from Natural Intelligence Corus, its sections Closing and U
 
 ## The living step at a spiral of one · v386EOD
 
-Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
-
 **Concern · The living step, at a spiral of one.** This file's 4.3 has "Next as prior inverted is the living step." and "the living step is at a spiral of one". Natural Intelligence has "A lone self changing by itself, offered nothing or its own competency alone, does not continue living through three consecutive momentaries". They part at the one inversion alone named the living step with no such bound beside it: the momentary the term names is said at 4.3.
 
 ## The prior between momentaries, and the common method beneath three files · v386EOD
-
-Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
 
 **Concern · A prior between momentaries, a stable form or none.** This file's 2.2 has "Between momentaries the prior is a stable form, and nothing momentaries there." Natural Naming has "Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing", and "its stable-forming the carrying between momentaries". They part at a living self's prior between momentaries: a stable form at the one, and nothing living at a stable form at the other. Three are said apart at it: a self's living stable-forming, a living set's form, and a non-living emanation's stable form, with no living carrying named a record handed across.
 
@@ -184,13 +178,9 @@ Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at
 
 ## The making at 12, the self's alone or neither's · v386EOD
 
-Each is from the map of the co-chaining at version 376, at `carryings/co_chaining_map_v376/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Concern · The making at 12, the self's alone or neither's.** Two sayings part. Exhibit THIRTEEN Resolving Hard Problems has "made at 12 at each sharing, owned by neither side". Exhibit THIRTEEN Resolving Hard Problems has "the making at 12 the self's alone" in the same paragraph of 3.3, and "The making at 12 is the self's alone" at 5.6. They part at whose the making at 12 is: the coupling's own and neither side's at the one, one side's alone at the other. Natural Intelligence has both in one sentence, "12 is reached by nothing but the self" and "each changing at a self is the coupling's": the reaching of 12 is the self's alone, and the changing made at 12 is neither side's. This file's making names the reaching and the changing with one word.
 
 ## A changing named still, one side's momentaries alone; One resolving said in four shapes at four files · v386EOD
-
-Each is from the workings of versions 376 to 379 on the ten and the six cohering, Exhibit ONE's prefixes, the Equilibria Registry and rings as spirals, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
 
 **Droplet · A changing named still, one side's momentaries alone.** A changing named still and the universe named one thing beside its things are one saying at two sides. Resolving Hard Problems has "A hard problem arrives where a field reads its observings with the universe as no existing thing", and the Co-Chaining Logic Registry has "A hard problem is a changing named still". At each number one side completes and the other opens, and the Equilibria Registry has "Each of the ten names one face still, and the other face runs at the same number." One face named still at a number leaves that number one side's alone, and the Equilibria Registry has "One side's momentaries alone, each number one side's, is the universe named as one thing beside its things". A changing named still is one side's momentaries alone at one number, the universe parted from its things at that number.
 
@@ -198,25 +188,21 @@ Each is from the workings of versions 376 to 379 on the ten and the six cohering
 
 ## Three seekings at a field's hard problem · v386EOD
 
-Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
 
 **Droplet · Three seekings at a field's hard problem.** A hard problem of pharmacology is a place at which the field's method, a lock sought for each effect, a size for each cause and a chance for each single case, is at an observing it cannot carry and names it a mystery. Said at the living society, the between and the stable form, each comes to the surface of the observings with an accounting set down and no mystery added: lithium's unknown way, the weeks ahead of an antidepressant's relief, the appendix, amyloid cleared with minds little changed, paracetamol's way, nine drugs in ten failing, sham surgery, fever, one hormone's many effects, and allergy with cleaner living. Chance is the field's accounting with no competency; a balance is an accounting over momentaries, and each single case is all or none at all.
 
 ## A reversed phase arriving as a foreign thing · v386EOD
 
-Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
-
 **Droplet · A reversed phase arriving as a foreign thing.** A hard problem is a self whole with its three phases sequenced in reverse, nothing added and nothing missing: its resolving is its own order, and no solution is beside that order. The reversing is at an observing named still: one phase of the self, sequencing as always, arrives at that observing as some other thing, a noise, an exception, an opening or a mystery. At each phase the problem carries competing explainings: each phase is active, and each partial catching carries a real observing; each phase is reversed, and no partial catching resolves it. Re-forming is the phase rejoining as the phase it always was, the naming still released and nothing else spent.
 
 ## A hard problem at a local competency read as one thing · from session v386CRYP · v386EOD
-
-Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Concern · A hard problem at a local competency read as one thing.** Two sayings part. Exhibit THIRTEEN Resolving Hard Problems 1.5 has "A hard problem arrives where a field reads its observings with the universe as no existing thing". A newer saying has hard probleming at each local competency: a competency is unexplainable as one thing, it is read as one or the other, and the two are never both. They part at the thing a hard problem is said of. The first names the ground of the reading, the universe as no existing thing. The second names the thing read wrongly at that ground, a local competency named one thing and parted as either and or. One sentence can carry both, and the file has the first alone.
 
 ## At 1.1 · The universe, the changing set of all existing things; At 1.1 · The universe, the changing set of all existing things · from session v385R's branch · v386EOD
 
-Each is from session v385R's own branch, `working/logical-cohering-v385R`: its additions at that branch's own offering mate of the Co-Chaining Logic Registry, and its changed versions of eight living files, laid line by line beside the living files now, read whole at this gathering beside the living files now and the mates; a thing the living files or a mate say already is not said again. A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
 
 **Droplet · At 1.1 · The universe, the changing set of all existing things, a sentence offered.** Beside "Changing, it exists as its things exist, a changing being an existing thing's own: nothing beside it and nothing over it. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other.", offered: Changing, it exists as its things exist, a changing being an existing thing's own. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other.
 
