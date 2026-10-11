@@ -20,13 +20,13 @@ The earlier source inventory remains whole below. This supporting project may ch
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/cohering_ten_and_six_v377/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/review_physics_observings_v376/`; `carryings/rings_are_spirals_v377/`; `carryings/session_v377/`; `carryings/session_v378/`; `carryings/v368_sources/`; `carryings/v380L/`; `carryings/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/co_chaining_map_v376/`; `archive/cohering_ten_and_six_v377/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/review_physics_observings_v376/`; `archive/rings_are_spirals_v377/`; `archive/session_v377/`; `archive/session_v378/`; `archive/v368_sources/`; `archive/v380L/`; `archive/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/Natural_Naming_v380R_Part_Four_before_reducing.md/`; `archive/carrying_v375/`; `archive/carrying_v375_natural_mathematics/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_THIRTEEN_Resolving_Hard_Problems_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
+**The session v382F**, `archive/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
 ## Earlier reading extent and reported wording conditions · v385A
 

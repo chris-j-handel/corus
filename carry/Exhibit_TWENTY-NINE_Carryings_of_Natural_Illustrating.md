@@ -19,7 +19,7 @@ These are whole droplets, including their unresolved conditions. Earlier compari
 | Swimmer film and editable study | [Swimmer README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/swimmers_v380A/README.md) |
 | Origin study and its declared correspondence | [Origin README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/origin_v380A/README.md) |
 | Continuity concept and editable source | [Continuity README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/continuity_v380A/README.md) |
-| Later comparison and passage-level opportunities | [v380A consistency report](../carryings/v380A/illustrating/Concept_And_Consistency.md), at its current carrying address; older kit links still name `incoming/` |
+| Later comparison and passage-level opportunities | [v380A consistency report](../archive/v380A/illustrating/Concept_And_Consistency.md), at its current carrying address; older kit links still name `incoming/` |
 | Further views described in Corus | [Corus 16.1, Multiple Paintings of the Same Form](../Natural_Intelligence_Corus_v330.md#multiple-paintings-of-the-same-form); [the v385A passage comparison](Carryings_of_Natural_Intelligence_Corus.md#part-161-writing-value-beside-its-current-subjects). The Corus offering already names this source through v366; its possible illustrating relation is now also locally offered here. |
 
 These source addresses add no new media or verifying result. The kit's retained versions and the reports' exact limits remain with the work. — v385A
@@ -32,7 +32,7 @@ Illustrating's remaining question is what the cooperation makes discoverable bey
 
 ## Kit source condition beside the projects · v385A
 
-The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-and-the-content-they-support) keeps inherited source versions, superseded image labels and incomplete correspondences beside the projects. The README's consistency link still uses its earlier incoming address; the actual [Concept and Consistency](../carryings/v380A/illustrating/Concept_And_Consistency.md) source is already linked above. The existing media and kit results have not been rerun.
+The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-and-the-content-they-support) keeps inherited source versions, superseded image labels and incomplete correspondences beside the projects. The README's consistency link still uses its earlier incoming address; the actual [Concept and Consistency](../archive/v380A/illustrating/Concept_And_Consistency.md) source is already linked above. The existing media and kit results have not been rerun.
 
 ## Earlier source inventory
 
@@ -42,7 +42,7 @@ The [kit account](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#kits-a
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Networking_TWO_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/illustrating_v366/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/review_physics_observings_v376/`; `carryings/rings_are_spirals_v377/`; `carryings/session_v378/`; `carryings/v368_sources/`; `carryings/v380A/`; `carryings/v380L/`; `carryings/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/co_chaining_map_v376/`; `archive/illustrating_v366/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/review_physics_observings_v376/`; `archive/rings_are_spirals_v377/`; `archive/session_v378/`; `archive/v368_sources/`; `archive/v380A/`; `archive/v380L/`; `archive/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 

@@ -46,7 +46,7 @@ The older phrase “beside all existing things” supplies no exclusion: the [la
 
 **Droplet.** The three older names 4-other-self-sharing, 13-social-other-neutralling and 17-social-self-offering need comparison with Natural Naming’s table of the seventeen. Retain each relation the older words carry beside its current name; the name alone does not resolve the relation. — v385A, from the v379 transcript gathering
 
-Concern, at v380, from [the earlier Natural Networking gathering](../carryings/v380R/Natural_Networking_From_v380A.md), one pluralizing carrying — 4.4's sentence re-said at the carrying the self's own, or kept as now said of another relation; two sayings kept, parted by Natural Networking's and Exhibit ONE's forms — v381R
+Concern, at v380, from [the earlier Natural Networking gathering](../archive/v380R/Natural_Networking_From_v380A.md), one pluralizing carrying — 4.4's sentence re-said at the carrying the self's own, or kept as now said of another relation; two sayings kept, parted by Natural Networking's and Exhibit ONE's forms — v381R
 
 **Droplet · Across the set, what each file releases at its own improving.** Across the set, each file releases *read*, *turn*, *held* and *holding*, *stable form* as a noun, and its namings of other exhibits, at its own improving, in the shared words. It is aimed at the set. — v386EOD
 

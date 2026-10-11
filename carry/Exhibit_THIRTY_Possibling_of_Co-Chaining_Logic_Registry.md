@@ -12,7 +12,7 @@ The earlier proposal offers two arrangements for a step containing two concepts:
 
 ## Earlier cause, negation and across-and-along wording projects · v385A
 
-The earlier closing proposal names cause at thirty-four steps, 146 sentences at a negation, and steps 92, 221, 296, 427 and 511 parting from across at each even name. The available [cause and naming-twin draft](../carryings/v380L/closing_drafts/Registry_Cause_And_Twins.md) and [negation-purpose draft](../carryings/v380L/closing_drafts/Registry_Negations_At_The_Purpose.md) retain their own earlier reading and candidate-writing conditions. Their opening summaries were compared here; their complete individual candidates remain further incoming to gather, not completed corrections by this separation.
+The earlier closing proposal names cause at thirty-four steps, 146 sentences at a negation, and steps 92, 221, 296, 427 and 511 parting from across at each even name. The available [cause and naming-twin draft](../archive/v380L/closing_drafts/Registry_Cause_And_Twins.md) and [negation-purpose draft](../archive/v380L/closing_drafts/Registry_Negations_At_The_Purpose.md) retain their own earlier reading and candidate-writing conditions. Their opening summaries were compared here; their complete individual candidates remain further incoming to gather, not completed corrections by this separation.
 
 The separate earlier proposal asks whether each finite verb describing living should be said at its -ing, or whether -ing should name the changing alone, with steps 430 and 491 unchanged in either arrangement. That is possible naming work, not a universal grammatical rule. Each candidate must preserve the particular concept.
 

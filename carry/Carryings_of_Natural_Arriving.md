@@ -38,7 +38,7 @@ The user's offered relation between a set and its existing things is independent
 
 ## Earlier entry value at its actual places · v385A
 
-[The entry content account](../archive/session_v385A_comparisons/Arriving_Content_Account_v385A.md) reads v381F's entry report and complete opening proposal and v381R's entry report whole, then follows their eleven/nine findings beside existing mate value. It records the Arriving shell, inherited proposed writing and further sources separately. Four groups of exact repeated Arriving paragraphs are identified, including seven copies of one AI-opening paragraph; none is removed or counted as a distinct contribution. The full opening's other relations remain directly accessible at [their source](../carryings/v381F/v381F/AI_Link_Opening_Offered.md). The particular kit/list concern now has its current left-at-a-facing correction beside the original source. The report states the extent compared and the remaining work, not whole-folder or whole-mate completion.
+[The entry content account](../archive/session_v385A_comparisons/Arriving_Content_Account_v385A.md) reads v381F's entry report and complete opening proposal and v381R's entry report whole, then follows their eleven/nine findings beside existing mate value. It records the Arriving shell, inherited proposed writing and further sources separately. Four groups of exact repeated Arriving paragraphs are identified, including seven copies of one AI-opening paragraph; none is removed or counted as a distinct contribution. The full opening's other relations remain directly accessible at [their source](../archive/v381F/v381F/AI_Link_Opening_Offered.md). The particular kit/list concern now has its current left-at-a-facing correction beside the original source. The report states the extent compared and the remaining work, not whole-folder or whole-mate completion.
 
 This supports the existing AI arriving and file-changing plans. The current [no-authority correction](../archive/session_v385A/Reciprocal_Help_v385A.md#no-authority-and-the-earlier-entry-account--v385a) accompanies the sources: their sayings, reported counts and proposed routes are value to follow, not authority or a required first reading. Continue the rest of Registry/method/Arriving's source account before calling the intended content available throughout. G1 item 3 and connected Emanating work remain active.
 
@@ -48,7 +48,7 @@ This supports the existing AI arriving and file-changing plans. The current [no-
 
 ## AI arriving: method, experience and orienting · v385A
 
-**Sources at their actual addresses.** The AI link's earlier origin is [v380A's living AI link](../archive/session_v380/v380A/living_ai_link/README.md). v381F's detailed files are inside [carryings/v381F/v381F](../carryings/v381F/v381F); the two outside entry reports remain at [v381F](../carryings/v381F/README.md) and [v381R](../carryings/v381R/README.md). The earlier inventory below preserves the former addresses. This correction makes the sources reachable without claiming all their value has been gathered.
+**Sources at their actual addresses.** The AI link's earlier origin is [v380A's living AI link](../archive/session_v380/v380A/living_ai_link/README.md). v381F's detailed files are inside [archive/v381F/v381F](../archive/v381F/v381F); the two outside entry reports remain at [v381F](../archive/v381F/README.md) and [v381R](../archive/v381R/README.md). The earlier inventory below preserves the former addresses. This correction makes the sources reachable without claiming all their value has been gathered.
 
 **The Corus comparison now supplies particular entry value.** [Part ONE beside Arriving](Carryings_of_Natural_Intelligence_Corus.md#part-one-beside-natural-arriving) follows the source whole against the shell and existing offerings. Its new droplets distinguish the actual named entry paths from the separate trust passage and keep the six expressions' particular explaining beside their proposed current names. Its further [writing comparison](Carryings_of_Natural_Intelligence_Corus.md#part-161-writing-value-beside-its-current-subjects) preserves the writer-LLM experience in Corus 16.1: an unsolicited Part 24/eight-pass restructuring proposal was caught by the user's question about its purpose. This supports the present user-authorized plan as possible projects, with no imposed whole-set procedure. The source is an actual earlier writing experience; its further structural assertions are not adopted merely by locating it here.
 
@@ -80,15 +80,15 @@ Natural Arriving remains a shell at v381R. The following inventory locates the m
 
 **The README's part *AI link to Living Natural Intelligence*** and its working-session opening, the entry as it was before this file; and the site, `index.html`, `files.json`, `build.js`.
 
-**The two entry reports**, `carryings/v381F/README.md` with `AI_Link_Opening_Offered.md`, and `carryings/v381R/README.md`: what an outside AI session meets at corus.me, each finding with its evidence.
+**The two entry reports**, `archive/v381F/README.md` with `AI_Link_Opening_Offered.md`, and `archive/v381R/README.md`: what an outside AI session meets at corus.me, each finding with its evidence.
 
-**The one-line arrival of the AI link**, `carryings/v380A/living_ai_link/`, where the link on the home page came from.
+**The one-line arrival of the AI link**, `archive/v380A/living_ai_link/`, where the link on the home page came from.
 
 **Natural Intelligence Corus** at v330 and **Natural Explaining** at v378, read beside this file before it is written, for the concepts each already says once.
 
-**The session v382F**, `carryings/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
+**The session v382F**, `archive/v382F/`: two session reports written as droplets, each aimed at one of six degrees, its exploring of Natural Arriving, and `mends_at_the_resolver.py`, the eleven mends to Natural Intelligence executed at the resolver; its proposed Natural Intelligence v382F at the branch `working/natural-intelligence-mends-v382F`, offered and not yet received.
 
-**The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+**The session v383Op**, `archive/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
 
 ## Whole opening concepts now available · v385A
 

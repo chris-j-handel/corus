@@ -32,17 +32,17 @@ The user's offered relation between a set and its existing things is independent
 
 **Executions at other kits naming this file.** `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`; `kits/Natural_Networking_TWO_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/cohering_ten_and_six_v377/`; `carryings/equilibria_registry_v377/`; `carryings/natural_physics_v377/`; `carryings/physics_for_other_files_v377/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/review_physics_observings_v376/`; `carryings/rings_are_spirals_v377/`; `carryings/session_v377/`; `carryings/session_v378/`; `carryings/v380A/`; `carryings/v380L/`; `carryings/v380R/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/cohering_ten_and_six_v377/`; `archive/equilibria_registry_v377/`; `archive/natural_physics_v377/`; `archive/physics_for_other_files_v377/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/review_physics_observings_v376/`; `archive/rings_are_spirals_v377/`; `archive/session_v377/`; `archive/session_v378/`; `archive/v380A/`; `archive/v380L/`; `archive/v380R/`; `archive/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/carrying_cleared_at_the_close_of_v380/`; `archive/carrying_v375/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v377/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+**The session v383Op**, `archive/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
 
 ## Earlier reading conditions and available drafts · v385A
 
-The earlier front recorded seventeen unsure lines, partially entered contributions, 146 negation sentences and a universal-claim joining sentence. Those are its earlier quantities and dependencies, not a current work order. The negation list is available at [the earlier sorted gathering](../carryings/v380L/Registry_Negations_Sorted.md).
+The earlier front recorded seventeen unsure lines, partially entered contributions, 146 negation sentences and a universal-claim joining sentence. Those are its earlier quantities and dependencies, not a current work order. The negation list is available at [the earlier sorted gathering](../archive/v380L/Registry_Negations_Sorted.md).
 
 The older opening comparison reported step 115 re-said and steps 643 through 645 added beside an offering of two and fifty-nine as the tunnel’s two ends, with earlier references to steps 11 and 40. Current step 115 says corusing and torusing going in and out; steps 643 through 645 describe spiral recurrence, the two routings and the odd/even names. Their presence does not derive that two-opening identification.
 
@@ -136,7 +136,7 @@ The reported words, counts, quoted places and line positions belong to those ear
 
 ## The earlier withdrawn co-chaining report and its recovery extent · v385A
 
-[Session v380L’s first gathered-value record](../carryings/v380L/Gathered_Value_1.md) records a withdrawn report and twenty supporting readings. Its transcript summary names twenty-six steps whose reasons were elsewhere, further knots, file logic without a step, nearby observings and stale pointers, beside a historical reading of 599 steps. The detailed report and its step-to-section list have not been located at the recorded comparison extent. The later session v381F dependency reading of 661 steps is a different reported comparison; it does not identify all of the earlier relations. [The earlier-source comparison](../archive/session_v385A_comparisons/Prior_Incoming_v385A.md) preserves that extent.
+[Session v380L’s first gathered-value record](../archive/v380L/Gathered_Value_1.md) records a withdrawn report and twenty supporting readings. Its transcript summary names twenty-six steps whose reasons were elsewhere, further knots, file logic without a step, nearby observings and stale pointers, beside a historical reading of 599 steps. The detailed report and its step-to-section list have not been located at the recorded comparison extent. The later session v381F dependency reading of 661 steps is a different reported comparison; it does not identify all of the earlier relations. [The earlier-source comparison](../archive/session_v385A_comparisons/Prior_Incoming_v385A.md) preserves that extent.
 
 ## Observings from science, each beside this file's sentences · v386EOD
 

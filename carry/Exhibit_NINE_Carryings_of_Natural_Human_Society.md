@@ -15,13 +15,13 @@ Human Society 5.3 already says why the shared discovery-economy name supplies no
 
 ## Earlier source inventory · retained from v381R
 
-The following inventory remains whole with its historical wording and standings. The [v385A method](../archive/session_v385A_comparisons/README.md) governs the project above. The earlier v381R source is now at [carryings/v381R](../carryings/v381R/); a source's listing establishes no completed gathering.
+The following inventory remains whole with its historical wording and standings. The [v385A method](../archive/session_v385A_comparisons/README.md) governs the project above. The earlier v381R source is now at [archive/v381R](../archive/v381R/); a source's listing establishes no completed gathering.
 
 **Existing materials and earlier inventories**
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/session_v378/`; `carryings/v368_sources/`; `carryings/v380R/`; `carryings/v381R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/co_chaining_map_v376/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/session_v378/`; `archive/v368_sources/`; `archive/v380R/`; `archive/v381R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 

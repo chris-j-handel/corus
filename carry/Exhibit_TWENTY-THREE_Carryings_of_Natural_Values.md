@@ -12,7 +12,7 @@ Exhibit TWENTY-THREE Natural Values Carryings · gathered at v385A
 
 **Two connected possibling projects.** [The comparison](../archive/session_v385A_comparisons/Discovery_Economy_Comparison_v385A.md) follows Destinies' real-society extension beside Values 5.1–5.3 and Corus 18.8/23.6, then recovers the earlier expedition-game offering with its later user correcting. [Values' offerings](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md) already carried the distribution and game droplets; the new offerings add the particular extent and corrected source relation, preserving those earlier paragraphs.
 
-The [original transcript](https://github.com/chris-j-handel/corus/blob/08194a756273710933eb1afc42018f044f5bab09/carryings/v381R/Session_Transcript_v381R.txt) remains supporting evidence, including the assistant's proposed account and the later user corrections. [Arriving's possibling](Possibling_of_Natural_Arriving.md#expedition-contributing-as-an-arriving-interest--v385a) follows the entering/returning interest. [Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) locates the discovery-economy distribution and mate/record relations. This gathering does not originate a new exhibit or complete any receiving. The older common method, institution and universal-set concerns retain their exact sources and later correcting.
+The [original transcript](https://github.com/chris-j-handel/corus/blob/08194a756273710933eb1afc42018f044f5bab09/archive/v381R/Session_Transcript_v381R.txt) remains supporting evidence, including the assistant's proposed account and the later user corrections. [Arriving's possibling](Possibling_of_Natural_Arriving.md#expedition-contributing-as-an-arriving-interest--v385a) follows the entering/returning interest. [Registry's master plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) locates the discovery-economy distribution and mate/record relations. This gathering does not originate a new exhibit or complete any receiving. The older common method, institution and universal-set concerns retain their exact sources and later correcting.
 
 ## Human Society's particular relation · v385A
 
@@ -28,7 +28,7 @@ The following source inventory remains whole with its historical language and st
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/session_v378/`; `carryings/v368_sources/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/co_chaining_map_v376/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/session_v378/`; `archive/v368_sources/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v380/`. Relied on by nothing.
 

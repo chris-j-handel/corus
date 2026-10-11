@@ -24,13 +24,13 @@ The current droplet is at [Natural Resolver’s offering mate](Exhibit_ONE_Offer
 
 **Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`; `kits/Natural_Networking_TWO_Improving_Kit/`.
 
-**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/cohering_ten_and_six_v377/`; `carryings/equilibria_registry_v377/`; `carryings/exhibit_one_prefixes_v379/`; `carryings/illustrating_v366/`; `carryings/natural_physics_v377/`; `carryings/physics_at_the_code_v376/`; `carryings/physics_for_other_files_v377/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/review_networking_engineering_2026-09-30/`; `carryings/rings_are_spirals_v377/`; `carryings/v368_sources/`; `carryings/v380A/`; `carryings/v380L/`; `carryings/v380R/`; `carryings/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/cohering_ten_and_six_v377/`; `archive/equilibria_registry_v377/`; `archive/exhibit_one_prefixes_v379/`; `archive/illustrating_v366/`; `archive/natural_physics_v377/`; `archive/physics_at_the_code_v376/`; `archive/physics_for_other_files_v377/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/rings_are_spirals_v377/`; `archive/v368_sources/`; `archive/v380A/`; `archive/v380L/`; `archive/v380R/`; `archive/v381F/`, its tour of Natural Intelligence in parts and its journey for an arriving AI among them. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
 
 **Released readings and records naming this file, at the archive.** `archive/carrying_cleared_at_the_close_of_v380/`; `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_ONE_Natural_Resolver_v380R.md`, each of its paragraphs now a droplet at the offerings.
 
-**The session v383Op**, `carryings/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
+**The session v383Op**, `archive/v383Op/`: thirty findings at the code, the logic, the observings and the presentation, with eight scripts and their returned text, each finding a droplet at the offerings.
 
 ## Earlier reported not-self naming changes · v385A
 
@@ -90,7 +90,7 @@ These are the completed session’s reported arrangements and counts. The prior/
 
 ## The retained own-pacing instrument and its different comparison places · v385A
 
-Session v385R section 98 reads carryings/v383Op/own_pacing.py, returned/own_pacing.txt and At_The_Code.md section 2 at its named snapshot. It reports that the stepping-together construction delays offerings until the next whole pass and compares after every self enters; the separate-entry construction delivers offerings immediately and compares after each individual entry. Both delivery and comparison position differ. The retained return reports an unchanged alike/opposite relation in the particular together construction and a varying relation in the separate-entry constructions.
+Session v385R section 98 reads archive/v383Op/own_pacing.py, returned/own_pacing.txt and At_The_Code.md section 2 at its named snapshot. It reports that the stepping-together construction delays offerings until the next whole pass and compares after every self enters; the separate-entry construction delivers offerings immediately and compares after each individual entry. Both delivery and comparison position differ. The retained return reports an unchanged alike/opposite relation in the particular together construction and a varying relation in the separate-entry constructions.
 
 This is a reading of an existing instrument and retained return, not a new execution or observing of living carrying. The [actual offered concern at Natural Intelligence 4.13](Offerings_to_Natural_Intelligence.md#the-relation-carried-at-each-selfs-own-pacing--v385a) preserves the distinction between an unchanged pair comparison and continuing co-chaining.
 
