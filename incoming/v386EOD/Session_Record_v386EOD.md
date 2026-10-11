@@ -4,6 +4,8 @@ Session v386EOD
 
 A session's own report, arrived whole at `incoming/`. No incoming value, concern or opportunity is in it: each of those this session gathered is at the offerings, the possibling or the carryings of its living file, in `carry/`. This record says which source was read, at which of those files its value is, and which paragraphs were said again or released, each release with its evidence. By Exhibit TWENTY-FOUR Geodesic Improving Method's 1.6 a record of the journey is no part of what those files hold, and this is that record. — v386EOD
 
+**Read with this, at the close.** A third reading at the session's close put back, word for word, 47 of the older paragraphs this record has as said again and 10 it has as released, one section of Living Improving Value it has as re-said, and four sentences of the shared method it has as re-said in place. The numbers in the sections below are as they were at each step and are not brought to that. What was put back, and why, is at [For the next session](For_The_Next_Session_v386EOD.md), part 3. — v386EOD
+
 ## Session v386EOD: the gathering continued, and its first placings · v386EOD
 
 **10 October 2026.** Sessions v385A, v385Q and v385R are finished, and session v386RR is nearing its finish. This session continues the gathering on working/gathering-and-aiming-v386EOD, from the head of working/droplets-and-insertlets-v385A at a81ea751f37cfd38562a01a6f0eec17e01cd1ba3. No living file is changed on this branch.

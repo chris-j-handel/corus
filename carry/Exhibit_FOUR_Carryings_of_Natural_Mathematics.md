@@ -40,7 +40,7 @@ The reported completion belongs to that earlier reading. The unresolved concerns
 - *Natural observation*: at the standard map, invariant circles were approached by sequences of periodic orbits and their residues computed, a circle said broken at residues with no bound; the golden-mean circle is critical near 0.9716 (Greene, 1979, Journal of Mathematical Physics 20, 1183–1201; the paper not opened, read at [a later paper's account of it](https://arxiv.org/abs/1205.6143)).
 - *Science explanation*: that the last circle is the golden mean's is the paper's conjecture, with numerical support. "R, C, H, and O are the only normed division algebras", going back to Hurwitz, 1898; at each doubling, "First we lose the fact that every element is its own conjugate, then we lose commutativity, then we lose associativity" ([Baez, "The Octonions"](https://math.ucr.edu/home/baez/octonions/node2.html)).
 
-**Laid beside.** Seen: a computing at one map. *Found the last to break* is a conjecture with numbers beside it. The first thing lost at a doubling is each element its own conjugate, the field's saying beside the file's *ordering*.
+**Laid beside.** The natural observation: a computing at one map. *Found the last to break* is a conjecture with numbers beside it. The first thing lost at a doubling is each element its own conjugate, the field's saying beside the file's *ordering*.
 
 ### A doubling law, in three makings
 

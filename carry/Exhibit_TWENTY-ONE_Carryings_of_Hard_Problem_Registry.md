@@ -38,7 +38,7 @@ The earlier source inventory remains whole below. This supporting project may ch
 - *Natural observation*: a computing across many machines checked each first number below 2 to the 71st as reaching 1, the limit reached on 15 January 2025 ([Barina, 2025, The Journal of Supercomputing 81, 810](https://www.fit.vut.cz/research/publication/c197809)).
 - *Science explanation*: "There is no m-cycle with m ≤ 91.", a further cycle having ninety-two local minima or more ([Hercher, 2023, Journal of Integer Sequences 26, 23.3.5](https://cs.uwaterloo.ca/journals/JIS/VOL26/Hercher/hercher5.html), with a corrigendum of 2026 mending one proof). At the map halving an even, and tripling an odd, adding one and halving, the sequence of the first k parities "is periodic in n with period 2^k" (Terras, 1976, Acta Arithmetica 30, 241–252; read at [a later paper's statement of it](https://arxiv.org/abs/0910.1944)).
 
-**Laid beside.** Seen: each first number below 2 to the 71st reaching 1. The first parities of a sequence are of its first number's last binary digits alone; the asking of each first number at once is unresolved.
+**Laid beside.** The natural observation: each first number below 2 to the 71st reaching 1. The first parities of a sequence are of its first number's last binary digits alone; the asking of each first number at once is unresolved.
 
 ### A test failed, and its hypotheses together
 

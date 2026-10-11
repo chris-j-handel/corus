@@ -40,4 +40,4 @@ Its insertlet is at [the offerings](Exhibit_FIFTEEN_Offerings_to_Natural_Emanati
 - *Natural observation*: one small bead in a potential of two wells, a store of one bit, was put through erasings again and again and the heat given off measured: its mean came down to the bound at slow erasings, from above ([Bérut, Arakelyan, Petrosyan, Ciliberto, Dillenschneider and Lutz, 2012, Nature 483, 187–189](https://www.nature.com/articles/nature10872), read at its abstract).
 - *Science explanation*: an erasing lessens the store's entropy, paid as heat to its surroundings (Landauer, 1961, IBM Journal of Research and Development 5, 183–191; not opened). The field has the principle's place as a law disputed.
 
-**Laid beside.** Seen: a mean heat nearing the bound from above, at slow erasings.
+**Laid beside.** The natural observation: a mean heat nearing the bound from above, at slow erasings.

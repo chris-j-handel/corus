@@ -99,7 +99,7 @@ Its insertlet is at [the offerings](Exhibit_SIXTEEN_Offerings_to_Natural_Chemist
 - *Natural observation*: of 251 stable nuclides, 198 have an even number of protons and 53 an odd; five have both numbers odd, one of them a long-lived excited form; technetium and promethium, each of an odd number, have no stable form ([an encyclopedia's table](https://en.wikipedia.org/wiki/Even_and_odd_atomic_nuclei)). Element 119 has been sought at one laboratory from 2018 and element 120 at another from 2025, and neither is made.
 - *Science explanation*: nucleons pair, with a gap of energy like a superconductor's (Bohr, Mottelson and Pines, 1958, [Physical Review 110, 936](https://doi.org/10.1103/PhysRev.110.936), read at its abstract).
 
-**Laid beside.** Seen: the stable forms mostly at even numbers. The field's saying is pairing.
+**Laid beside.** The natural observation: the stable forms mostly at even numbers. The field's saying is pairing.
 
 ## Observings from science, each said as its publishing read has it · v386EOD
 
