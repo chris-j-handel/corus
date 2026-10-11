@@ -1,0 +1,130 @@
+reading                                  n  labeled  acyclic(loop=cycle)  acyclic(loops ignored)  unlabeled  unlab.acyclic
+all relations                            1          2          1          2          2          1
+all relations                            2         16          3         12         10          2
+all relations                            3        512         25        200        104          6
+all relations                            4      65536        543       8688       3044         31
+all relations                            5   33554432      29281     936992     291968        302
+all relations                            1..5  33620498      29853     945894     295128        342
+all relations                            2..5  33620496      29852     945892     295126        341
+
+serial (every term has a next)           1          1          0          1          1          0
+serial (every term has a next)           2          9          0          5          6          0
+serial (every term has a next)           3        343          0         79         70          0
+serial (every term has a next)           4      50625          0       3377       2340          0
+serial (every term has a next)           5   28629151          0     362431     248436          0
+serial (every term has a next)           1..5  28680129          0     365893     250853          0
+serial (every term has a next)           2..5  28680128          0     365892     250852          0
+
+serial, irreflexive                      1          0          0          0          0          0
+serial, irreflexive                      2          1          0          0          1          0
+serial, irreflexive                      3         27          0          0          7          0
+serial, irreflexive                      4       2401          0          0        126          0
+serial, irreflexive                      5     759375          0          0       6874          0
+serial, irreflexive                      1..5    761804          0          0       7008          0
+serial, irreflexive                      2..5    761804          0          0       7008          0
+
+serial, antisymmetric                    1          1          0          1          1          0
+serial, antisymmetric                    2          5          0          5          3          0
+serial, antisymmetric                    3         95          0         79         20          0
+serial, antisymmetric                    4       5841          0       3377        278          0
+serial, antisymmetric                    5    1087167          0     362431       9661          0
+serial, antisymmetric                    1..5   1093109          0     365893       9963          0
+serial, antisymmetric                    2..5   1093108          0     365892       9962          0
+
+serial, irreflexive, antisymmetric       1          0          0          0          0          0
+serial, irreflexive, antisymmetric       2          0          0          0          0          0
+serial, irreflexive, antisymmetric       3          2          0          0          1          0
+serial, irreflexive, antisymmetric       4        122          0          0          7          0
+serial, irreflexive, antisymmetric       5      16168          0          0        152          0
+serial, irreflexive, antisymmetric       1..5     16292          0          0        160          0
+serial, irreflexive, antisymmetric       2..5     16292          0          0        160          0
+
+serial, transitive                       1          1          0          1          1          0
+serial, transitive                       2          6          0          5          4          0
+serial, transitive                       3         68          0         55         17          0
+serial, transitive                       4       1387          0       1121         93          0
+serial, transitive                       5      47262          0      38671        638          0
+serial, transitive                       1..5     48724          0      39853        753          0
+serial, transitive                       2..5     48723          0      39852        752          0
+
+serial, symmetric                        1          1          0          1          1          0
+serial, symmetric                        2          5          0          1          4          0
+serial, symmetric                        3         45          0          1         14          0
+serial, symmetric                        4        809          0          1         70          0
+serial, symmetric                        5      28217          0          1        454          0
+serial, symmetric                        1..5     29077          0          5        543          0
+serial, symmetric                        2..5     29076          0          4        542          0
+
+functions (exactly one next)             1          1          0          1          1          0
+functions (exactly one next)             2          4          0          3          3          0
+functions (exactly one next)             3         27          0         16          7          0
+functions (exactly one next)             4        256          0        125         19          0
+functions (exactly one next)             5       3125          0       1296         47          0
+functions (exactly one next)             1..5      3413          0       1441         77          0
+functions (exactly one next)             2..5      3412          0       1440         76          0
+
+functions, irreflexive                   1          0          0          0          0          0
+functions, irreflexive                   2          1          0          0          1          0
+functions, irreflexive                   3          8          0          0          2          0
+functions, irreflexive                   4         81          0          0          6          0
+functions, irreflexive                   5       1024          0          0         13          0
+functions, irreflexive                   1..5      1114          0          0         22          0
+functions, irreflexive                   2..5      1114          0          0         22          0
+
+permutations (one next, one prior)       1          1          0          1          1          0
+permutations (one next, one prior)       2          2          0          1          2          0
+permutations (one next, one prior)       3          6          0          1          3          0
+permutations (one next, one prior)       4         24          0          1          5          0
+permutations (one next, one prior)       5        120          0          1          7          0
+permutations (one next, one prior)       1..5       153          0          5         18          0
+permutations (one next, one prior)       2..5       152          0          4         17          0
+
+partial functions                        1          2          1          2          2          1
+partial functions                        2          9          3          8          6          2
+partial functions                        3         64         16         50         16          4
+partial functions                        4        625        125        432         45          9
+partial functions                        5       7776       1296       4802        121         20
+partial functions                        1..5      8476       1441       5294        190         36
+partial functions                        2..5      8474       1440       5292        188         35
+
+injective relations                      1          2          1          2          2          1
+injective relations                      2          9          3          8          6          2
+injective relations                      3         64         16         50         16          4
+injective relations                      4        625        125        432         45          9
+injective relations                      5       7776       1296       4802        121         20
+injective relations                      1..5      8476       1441       5294        190         36
+injective relations                      2..5      8474       1440       5292        188         35
+
+serial, injective                        1          1          0          1          1          0
+serial, injective                        2          2          0          1          2          0
+serial, injective                        3          6          0          1          3          0
+serial, injective                        4         24          0          1          5          0
+serial, injective                        5        120          0          1          7          0
+serial, injective                        1..5       153          0          5         18          0
+serial, injective                        2..5       152          0          4         17          0
+
+serial, surjective                       1          1          0          1          1          0
+serial, surjective                       2          7          0          3          5          0
+serial, surjective                       3        265          0         37         55          0
+serial, surjective                       4      41503          0       1431       1918          0
+serial, surjective                       5   24997921          0     146521     216584          0
+serial, surjective                       1..5  25039697          0     147993     218563          0
+serial, surjective                       2..5  25039696          0     147992     218562          0
+
+transitive                               1          2          1          2          2          1
+transitive                               2         13          3         12          8          2
+transitive                               3        171         19        152         39          5
+transitive                               4       3994        219       3504        242         16
+transitive                               5     154303       4231     135392       1895         63
+transitive                               1..5    158483       4473     139062       2186         87
+transitive                               2..5    158481       4472     139060       2184         86
+
+reflexive                                1          1          0          1          1          0
+reflexive                                2          4          0          3          3          0
+reflexive                                3         64          0         25         16          0
+reflexive                                4       4096          0        543        218          0
+reflexive                                5    1048576          0      29281       9608          0
+reflexive                                1..5   1052741          0      29853       9846          0
+reflexive                                2..5   1052740          0      29852       9845          0
+
+HITS for 592,260: none
