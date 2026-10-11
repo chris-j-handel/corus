@@ -919,8 +919,6 @@ Of the 186 as they were, 159 are already plain or name a source no reading here 
 
 At Offerings to Natural Explaining four copies of one paragraph are one paragraph said again, three exact repeats removed. Of the 361 as they were, 340 are already plain or name a source no reading here opened, and 21 are paragraphs at which the second reading found a release or a re-saying losing or adding a thing. The second reading objected at 37 of 159 proposed changes, fewer than at the mates ahead of these. Each quotation in the paragraphs said again is an exact string of a living file, by search. The paragraphs opening as a plan named unfinished are 76 at the mates now, of 192. Each mate as it was ahead of the resolving is whole at `archive/carrying_v386EOD/`, named for its mate with `_before_resolving`. No living file is changed. — v386EOD
 
-**The older Droplets sections resolved and those unread.** Resolved by two readings: eighteen offering mates, 886 paragraphs. Read by no resolving reading: the older Droplets sections of fifteen offering mates, 1,014 paragraphs, those of Natural Physics and Equilibria Registry more than five hundred of them; and each mate's older Insertlets section. — v386EOD
-
 **Released at Offerings to Natural Networking, each with its evidence.**
 
 - The explaining of two earlier sections of Exhibit ONE Natural Resolver, as at home at Natural Networking. *The living file*: the two sections are at Exhibit ONE Natural Resolver no more, and Natural Networking has each of the four things named, the three columns at its 1.2 among them.
@@ -965,3 +963,77 @@ At Offerings to Natural Explaining four copies of one paragraph are one paragrap
 **Released at Offerings to Natural Engineering, with its evidence.**
 
 - *Each self's own two and one half consecutive momentaryings*. *Said whole at a mate*: Offerings to Co-Chaining Logic Registry, under its own heading of v385A, the paragraph word for word.
+
+## The fifteen remaining mates' older droplets resolved, and each offering mate's older Droplets section read by two readings · v386EOD
+
+**Fifteen mates, one thousand and fourteen paragraphs.** The older Droplets sections of the fifteen offering mates read by no resolving reading were each read paragraph by paragraph beside the living file now and the later sections of the mates, in thirty-two portions, and a second reading laid each proposed change beside its prior.
+
+| Mate | Paragraphs | Said again in the naming now | Of these, as the second reading corrected | Released | As they were |
+|---|---|---|---|---|---|
+| Offerings to Natural Physics | 268 | 159 | 21 | 5 | 103 |
+| Offerings to Equilibria Registry | 258 | 47 | 9 | 24 | 187 |
+| Offerings to Living Ghost Registry | 61 | 31 | 3 | 3 | 27 |
+| Offerings to Natural Intelligence Corus | 56 | 12 | 1 | 2 | 41 |
+| Offerings to Natural Medicine | 42 | 9 | 1 | 0 | 33 |
+| Offerings to Natural Biology | 41 | 8 | 0 | 0 | 33 |
+| Offerings to Natural Transmissioning | 40 | 6 | 1 | 7 | 27 |
+| Offerings to Natural Chemistry | 39 | 13 | 2 | 0 | 26 |
+| Offerings to Natural Values | 38 | 7 | 1 | 5 | 26 |
+| Offerings to Natural Emanating | 35 | 7 | 2 | 1 | 27 |
+| Offerings to Natural Destinies | 31 | 7 | 4 | 2 | 22 |
+| Offerings to Natural Philosophy | 31 | 13 | 2 | 0 | 17 |
+| Offerings to Natural Health | 29 | 11 | 1 | 0 | 17 |
+| Offerings to Natural Human Society | 25 | 7 | 1 | 0 | 18 |
+| Offerings to Living Society Registry | 20 | 6 | 1 | 0 | 13 |
+| The fifteen | 1,014 | 343 | 50 | 49 | 617 |
+
+Five exact repeats of a paragraph said again are removed, at Offerings to Natural Physics, Natural Intelligence Corus, Natural Philosophy, Natural Health and Living Society Registry. Of the 617 as they were, 591 are already plain or name a source no reading here opened, and 26 are paragraphs at which the second reading found a release or a re-saying losing or adding a thing. The second reading objected at 76 of 423 proposed changes. Each quotation in the paragraphs said again is an exact string of a living file, by search. Each mate as it was ahead of the resolving is whole at `archive/carrying_v386EOD/`, named for its mate with `_before_resolving`. No living file is changed. — v386EOD
+
+**Each offering mate's older Droplets section, read by two readings.** The thirty-three offering mates' older Droplets sections had 1,900 paragraphs. 595 are said again in the naming now, 110 are released with evidence here, 8 exact repeats are removed, and 1,187 are as they were, 97 of them by a second reading's objection. Read by no resolving reading: each mate's older Insertlets section, and the older sections of the possibling and carrying mates. — v386EOD
+
+**Released at Offerings to Natural Physics, each with its evidence.**
+
+- Four headings and notes of the section's order. *A session's own record*: each names the paragraphs beside it, and those name their own sources; no paragraph points at one.
+- The one way a value arriving for Natural Physics passes in. *The living file*: Exhibit TWENTY-FOUR Geodesic Improving Method says it, a thing arriving whole, laid at the file's own carrying "naming its section and its sentence", and entering at that file's own motion.
+
+**Released at Offerings to Equilibria Registry, each with its evidence.**
+
+- Four rows of a reading beside the Registry at version 376: the universe as one thing beside its things, *inseparating* and the between, the three unrelationings, and the eight even names as bi-coupling. *The living file*: Exhibit THIRTY Co-Chaining Logic Registry has each as a step with its adding line and no unsure line, at steps 88, 467, 187 and 254, and Exhibit TWENTY-EIGHT Equilibria Registry has the older word of the between at no line.
+- Four further rows of that reading: the four-cycles partnering, the ten names and six connectors as the seventeen, the carrying determining the next, and the derivations at the resolver. *The living file*: Exhibit THIRTY Co-Chaining Logic Registry has steps 257, 521, 602 and 248; Exhibit TWENTY-EIGHT Equilibria Registry says the correspondence at its 3.4 and has, at 5.4, "The carrying and the offerings determine the next at each sharing".
+- The earlier *second sign*, and four older names of the resolver. *The living file*: none is at any line of Exhibit TWENTY-EIGHT Equilibria Registry, and Natural Naming has each older name beside its name now.
+- Natural Naming's 4.9 and the Equilibria Registry's part three giving the ten different addresses. *The living file*: Exhibit TWENTY-EIGHT Equilibria Registry, at 3.2, says the differing itself.
+- Each saying at the resolver shown at Exhibit ONE Natural Resolver, the older resolver's passages whole at the archive. *The living file*: the closing lines of Exhibit TWENTY-EIGHT Equilibria Registry say it.
+- The ten at Exhibit ONE Natural Resolver's names, five pairs at 2 to 6 and eight up at 10 to 14, at the four-cyclings. *The living file*: Exhibit TWENTY-EIGHT Equilibria Registry's 3.2 and 3.4.
+- Three sayings suggested, each with its own words, one of them at two copies: natural intelligence at the between as the universe is, the between along and across, and a stability, a form and a relation each read as stable forming. *The living file*: Exhibit TWENTY-EIGHT Equilibria Registry's 1.3 and 2.2 have each whole, marked as suggested.
+- Eight up and eight down said at Exhibit ONE Natural Resolver's table of forms itself. *The living file*: Exhibit ONE Natural Resolver's table has "each move 8 up, 8 down, 4 up, 4 down or 17 less".
+- The placing of four files of version 368 at the repository. *The living file*: the root has no file of version 368, and each of the four is at its version now.
+- A pointer to a report with the names of its parts, a note of a branch, a version with two numbers, and a list of checks of a placing. *A session's own record*: none has a concept, a concern or a condition.
+- Each entering face at its pair's four-cycling and each surfacing face at none. *Said whole at a mate*: Offerings to Natural Resolver, "The surfacing faces and their local four-cycling · v385A", the paragraph word for word.
+
+**Released at Offerings to Living Ghost Registry, each with its evidence.**
+
+- Three rows of a reading beside the Registry at version 376: the three placings, the ghost of a state and the ghost of a flow, and currency as a store of value. *The living file*: Exhibit THIRTY Co-Chaining Logic Registry has each as a step with its adding line and no unsure line, at step 314, at steps 504, 505 and 506, and at steps 46 and 144.
+
+**Released at Offerings to Natural Intelligence Corus, each with its evidence.**
+
+- Natural Destinies and Natural Emanating at pass G, their receiving planned. *The living file*: Exhibit TWENTY-SIX Living File Registry's table of files has each at "pass G", and its 1.5 has the row of each receiving.
+- A placing list for the repository at version 368, with Natural Intelligence Corus to be carried on or archived. *The living file*: the root has no file of version 368, and Natural Intelligence Corus is a living file at the root.
+
+**Released at Offerings to Natural Transmissioning, each with its evidence.**
+
+- Natural Intelligence's earlier 6.7, the unrelationing rate local and ambient, parted three ways. *The living file*: Natural Intelligence has no 6.7; Natural Naming's 5.41 and Exhibit THREE Natural Numbers' 3.3 have local and ambient at unrelationing, and Exhibit FOUR Natural Mathematics has the rate.
+- Natural Transmissioning receiving from Natural Intelligence the ambient as the transmissioning, at two copies. *Said whole at a mate*: the same mate's section of v386EOD from the resettling of version 373, its droplet opening "The ambient is the transmissioning."
+- Natural Transmissioning at pass G, its receiving planned, at two copies. *The living file*: Exhibit TWENTY-SIX Living File Registry's table of files and its 1.5.
+- Bi-co-podaling or transmissioning, one naming or two. *The living file*: Natural Naming, at 4.6, has the two among "Four pairs are two concepts at two names, the meaning changing on transposing".
+- The plaza at Natural Transmissioning's 3.8 with its passing-through, and several paintings of one form. *The living file*: Exhibit TWENTY-NINE Natural Illustrating has each, at its 4.5 and 8.2.
+
+**Released at Offerings to Natural Values, each with its evidence.**
+
+- The moral spiral's three improvings from Natural Intelligence, with Natural Values their receiving file, at three paragraphs. *Said whole at a mate*: the same mate's "Three improvings spiralling, one triple at each coupling · v386EOD".
+- A number of findings and a table's next step for the file at version 368. *A session's own record*: a number with no finding in it.
+- Moral as do-no-harm improving, decided at each step. *The living file*: Exhibit TWENTY-FOUR Geodesic Improving Method, at 1.2, has "Moral is do-no-harm improving, decided at each step, and at a file the step is one pass."
+
+**Released at Offerings to Natural Emanating and at Offerings to Natural Destinies, each with its evidence.**
+
+- Natural Destinies and Natural Emanating at pass G, their receiving planned, one paragraph at each mate. *The living file*: Exhibit TWENTY-SIX Living File Registry's table of files has each at "pass G", and its 1.5 has the row of each receiving.
+- *Each self's own two and one half consecutive momentaryings*, at Offerings to Natural Destinies. *Said whole at a mate*: Offerings to Co-Chaining Logic Registry, under its own heading of v385A, the paragraph word for word.
