@@ -78,6 +78,12 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 **Concern · Price.** How a price is natural is said at no file. A recorded price is an accounting's mark; a mark existing is no meaning of money at a coupling, and a change in a ledger is no restoring at a living coupling. — v386EOD
 
+Natural Values receives from Natural Intelligence: the moral spiral's three improvings. (Natural Intelligence Map, §3) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Natural Values receives from Natural Intelligence: the moral spiral's three improvings. (Natural Intelligence Map, §3) — resettling_v373
+
+2.6 Moral spiralling, generosity, curiosity, gratitude; cheaper, faster, better: near, to Natural Values. (Natural Intelligence Map, §2 Part Two) — resettling_v373
+
 ## Self-interest and the health of the natural network · v385A
 
 **Droplet.** Aim this at the proposed relation between each self's coupling and the natural network. The network is offered as the surface of couplings, each coupling at its particular substrate, rather than a sum of independent self-interests. The incoming explains self-interest and network health through sustaining the self's capacity to couple: coupling sustains its substrates, while a substrate below its proposed healthy range loses that capacity.

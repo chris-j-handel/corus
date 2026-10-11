@@ -145,7 +145,7 @@ The two lines say what the page read has: a part said *as the field's account ha
 
 ### One arrival at a polarizer, whole or none
 
-- *Natural observation*: A single photon at a polarizer either passes or is absorbed and is never split; a photon polarized at angle θ to the polarizer's axis passes with probability cos²θ and is absorbed with probability 1 − cos²θ, and many photons together reproduce Malus's law, the intensity out being the intensity in times cos²θ ([Institute for Quantum Computing Scientific Outreach, University of Waterloo, undated lesson, "The two golden rules of quantum mechanics with light polarization"](https://uwaterloo.ca/institute-for-quantum-computing/sites/default/files/uploads/files/01-2gr-activity-student.pdf), read at its full text).
+- *Natural observation*: A single photon at a polarizer either passes or is absorbed, the lesson naming photons indivisible; a photon polarized at angle θ to the polarizer's axis passes with probability cos²θ, and many photons together reproduce Malus's law, the intensity out being the intensity in times cos²θ ([Institute for Quantum Computing Scientific Outreach, University of Waterloo, 2021 lesson, "The two golden rules of quantum mechanics with light polarization"](https://uwaterloo.ca/institute-for-quantum-computing/sites/default/files/uploads/files/01-2gr-activity-student.pdf), read at its full text).
 - *Science explanation*: The lesson names cos²θ the probability of one photon passing, and gives two rules: "A quantum object can be in a superposition of multiple states at once", and measuring a superposition forces it into one definite state.
 
 ### Paired clicks at three settings

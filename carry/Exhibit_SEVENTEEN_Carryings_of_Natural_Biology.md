@@ -336,7 +336,7 @@ The two lines say what the page read has: a part said *as the field's account ha
 ### An egg's cycle with no nucleus, and its transition
 
 - *Natural observation*: The title of the first publishing reads "A cytoplasmic clock with the same period as the division cycle in Xenopus eggs" (Hara, Tydeman and Kirschner, 1980, Proceedings of the National Academy of Sciences 77(1), read at its title alone in another paper's reference list, its own pages not opened), and the oscillation's continuing with no nucleus is as the field's account has it; the Xenopus embryo "undergoes 12 rapid synchronous cleavages followed by a period of slower asynchronous divisions", the midblastula transition ([Newport and Kirschner, 1982, Cell 30(3), 675–686](https://bionumbers.hms.harvard.edu/bionumber.aspx?id=101950), read at an excerpt of its abstract at a database's page).
-- *Science explanation*: As the abstract's excerpt has it, the timing of the transition does not depend on the number of cell divisions, on the time from fertilization, or on a mechanism numbering DNA modifications; the placing of the transition at a ratio of nuclear material to cytoplasm and the opening of the embryo's own transcription at it are as the field's account has it.
+- *Science explanation*: As the abstract's excerpt has it, the timing of the transition does not depend on cell division, on the time from fertilization, or on a mechanism numbering DNA modifications; the placing of the transition at a ratio of nuclear material to cytoplasm and the opening of the embryo's own transcription at it are as the field's account has it.
 
 ### The conceived's beat and day opening later
 

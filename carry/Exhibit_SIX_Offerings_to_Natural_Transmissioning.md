@@ -86,6 +86,12 @@ T06: Six 1.4 carries that a crossing sounds about a neutral and never through on
 
 **Aimed at a sentence, Natural Transmissioning, *no self touches another directly; every coupling crosses a membrane that is itself a self*:** An observing is beside the same saying at [Carryings of Natural Biology](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#a-plasmodesma-one-cytoplasm-through-two-cells): at a plasmodesma one plasma membrane lines the pore from one plant cell to the next, the two cytoplasms connected. — v386EOD
 
+Natural Transmissioning receives from Natural Intelligence: the ambient as the transmissioning. (Natural Intelligence Map, §3) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Natural Transmissioning receives from Natural Intelligence: the ambient as the transmissioning. (Natural Intelligence Map, §3) — resettling_v373
+
+6.7 φ the unrelationing rate, local and ambient, *the ambient is the transmissioning*: local and ambient kept at unrelationing, 6.1; φ as the rate near, to Natural Mathematics; transmissioning near, to Natural Transmissioning. (Natural Intelligence Map, §2 Part Six) — resettling_v373
+
 ## The prior whole as existing non-living form · v385A
 
 The subject of “carrying the prior whole” is an existing non-living form. It can be a package for possible future living, with seed as the offered example, or a shard entering living through ingesting, with skin, tissue and “smaller societies omega” as the offered examples. The existing form offers value at a living coupling. A living self is carrying from prior into now and continues carrying through now and next; its carrying is resolving, with no hold on staying unchanged.
