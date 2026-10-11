@@ -1,0 +1,17 @@
+Reader's return · the proposed motion at the Co-Chaining Logic Registry compared with v380L, sentence by sentence · v386F
+
+A fresh reader, who had not seen the motion written, read `thirty_changes.txt` and both files, under the registry's own rule that a step relies only on steps before it. As it arrived; what the session took from it is said at the close.
+
+A. Reliance on prior steps only. Step 3 clean, citing 2. Step 13 uses set (2), scale (3, now) and carrying (12), no coupling or self; one soft forward reliance, *read*, whose concept is 376's. Step 16 clean. Step 43: *the one fractal method* is step 45's concept, two steps later. Step 236 cites 128 and 3, both before it; the prior 236 used *scale* with nothing defining it until 376, which new 3 repairs. 379, 384, 387, 390 clean.
+
+B. Lost from the prior. Step 1's clause and step 16's fifth term, intended. Step 43 lost *a stable form, its form continuing through its changing*, and unchanged step 103 still cites that phrase. 379's Unsure, intended. 390 dropped *bothbothing* while group 27's Entering line still says it.
+
+C. Unchanged steps now at odds. Group 2's Entering line still *the five terms, each binary* against 16's four. Group 5's Entering line against 43's new Adding. Step 103 citing 43's removed phrase. Step 376 defining scale a second time as a reading. 43 giving the living stable forms unqualified while 384 denies them at their own scale. 379's *a prime number of selves* against 388–389's self as a living set and 128's prime from two up, one not prime, if the set is the self's own. 13 and 379 possibly pointing at different sets, the set a thing is within and the set it is made of. 130, 160, 164–165, 391, 392 parting living and non-living at carrying alone, a tension and not a contradiction since 13 adds *at each scale*. No contradiction at 14, 15, 17–18, 23, 24, 36, 44, 46–47, 100, 131–133, 161–163, 212–213, 380–383, 385–386, 388, 393–405, 414, 648–661 or group 28's Entering.
+
+D. One concept per Adding. 3's Adding names two, with precedent. 43's names two and its body adds a third. 379's body carries 399's concept early, *its selves inward living at their own*.
+
+E. The six, negations, released words. *of no size* at 3, the registry's own phrase. *read* at 13, 16, 379, 384, 387, 390, the nearest thing to a doer. *no fifth term* at 16, *at no other* at 379, *never both at one* at 390, *unscaled* at 43, each a negation the positive already says. No released word found.
+
+F. One thing or more. The core is one thing, living and non-living one existing thing at its own set and at the set outward, derived from 2 and 3, at 1, 3, 13, 16, 379, 384, 387, 390 and the two Entering lines. Two riders are separable: 236's derivation from 128, a grounding; and 43's method unscaled, a second claim about the method, the one that breaks 103, pulls *the one method* ahead of 45 and leaves 43 and 384 at odds.
+
+What the session took. Step 43 returned to its prior, a separate motion, C14, and its Entering line with it; group 2's Entering line to four terms; *read* released at each changed step to *at the scale outward*, Natural Naming 2.4 releasing *reading as a side taken*; the three negations removed; *bothbothing* kept at 390; 376 citing 3 so scale is said once; 379 saying *the one set it is within, its society*, so 13 and 379 point at one set, the set the thing is a member of, where one is no count of selves; 399's clause left out of 379. Step 236's grounding is kept, since 379 cites it and the grounding is what makes the prime derived.
