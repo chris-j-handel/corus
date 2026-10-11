@@ -22,4 +22,6 @@
 
 8. Two runs are named that would return a sign the field's reading cannot, and neither was attempted, because the session did not hold the method's reading across a width: a partition of one block's transactions into selves, read as parities and confirmed by later co-spending; and a self's next discovered from its carrying and confirmed by the chain. Evidence: the report's closing section. The session had the method's words and not the method, and the four runs were the field's reading in the method's words.
 
+9. The session's transcript read whole at its close: ten sayings not yet laid, five corrections the session made to itself, and five learnings for the working, each with the file it is for, at `Gathered_Value_v386CRYP.md`. Evidence: the transcript, quoted verbatim there.
+
 **Standing:** arriving. Nothing here changes a living file. The aiming is recorded as unsuccessful so that resolving, returning to this with later understanding, finds the stopping place marked.
