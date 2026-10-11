@@ -2416,3 +2416,14 @@ D37 is appended raw at Exhibit THIRTY Co-Chaining Logic Registry's Offerings. It
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Pass 73 — the session gathered for its next opening".** **Next exploring:** Natural Intelligence section by section with ONE, THIRTY and the current Offerings, keeping the exact step-35 comparison visible beside its now-supplied naming surroundings.
 
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Session close — the complete record on GitHub".** The user explicitly authorized the complete report and transcript for GitHub after the retrospective. Both are now offered here, alongside the resuming guide and the earlier incoming. This close adds no logical pass and no new droplet: D39's access is improved, and D1–D40 retain their existing places. The current corrections govern the historical report and transcript. The first full Natural Intelligence record is next, with the exact THIRTY 35 relation carried beside its supplied surroundings.
+
+
+## From the working v386CRYP, its report at `archive/session_v386CRYP/`, laid as written at v387
+
+Each entry is a paragraph of the working v386CRYP quoted as written, laid at the file it names; its executions are at the archive with the folder.
+
+### Gathered value, session v386CRYP · v386CRYP, laid at v387
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Gathered_Value_v386CRYP.md`, "Sayings not yet laid".** 3. *"is or is not. existing (co-competent) is or is not. possible (bi-moral) is or is not. … this hash chain public stable form artifact from a living co chaining public accounting system is an existing non-living carrying thing."* For the Co-Chaining Logic Registry at section 9, along and across, and for the proposed possibling file Natural Accounting. Offered: existing is the co-competent parity, along, is or is not; possible is the bi-moral parity, across, is or is not; a public accounting chain is a non-living existing carrying thing carrying the existing and none of the possible. This coheres with steps 442 and 445 (competency along, bi-moralizing across) and with step 386's three apart, laid at `resolvings_v386CRYP` finding 16.
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Gathered_Value_v386CRYP.md`, "Sayings not yet laid".** 4. *"co chaining is extending the width across and the length along that is resolving as one self carrying."* For the Co-Chaining Logic Registry at section 9. Offered as a Ready: co-chaining extends the width across and the length along, one self carrying. Run two of the session is its worked case: one key along five couplings, a fresh key across at each.

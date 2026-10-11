@@ -2720,3 +2720,22 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Pass 73 — the session gathered for its next opening".** The complete [retrospective](Session_Retrospective_and_Resuming.md) accounts for all 83 user turns, their assistant explaining and the current route for each gathered value. The complete report now includes the previously separate entry report, and the early work before dropletting stays reachable with its later corrections. The current estimate is explicitly work explored from the start. Existing D18 and D37 improve at their addresses; D39 and D40 are the two additional raw offerings. The source passages and prepared insertlets stay at their own motions.
 
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Session close — the complete record on GitHub".** The complete transcript stays whole at its own linked address, allowing the report and transcript to open separately through the shared file method. The logical report retains every pass and the original entry annex.
+
+
+## From the working v386CRYP, its report at `archive/session_v386CRYP/`, laid as written at v387
+
+Each entry is a paragraph of the working v386CRYP quoted as written, laid at the file it names; its executions are at the archive with the folder.
+
+### Gathered value, session v386CRYP · v386CRYP, laid at v387
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Gathered_Value_v386CRYP.md`, "Gathered value, session v386CRYP".** The session's transcript read whole at its close. Each saying of Christopher's that was not laid at a file during the session is gathered here verbatim, with the file it is for and its standing: *offered* (a sentence for a carrying as Ready or Concern, decided nowhere), *laid* (already at `incoming/resolvings_v386CRYP/`), or *open* (waiting on what is named). Then the session's learnings about the working itself, for the Geodesic Improving Method, the Living File Registry and the AI link.
+
+### **From:** session v386CRYP, an AI session (Claude) opened at the AI link to Living Natural Intelligence with Christopher, 2026-10-10, bringing a panel transcript on AI and cryptographic hardness as the research source. · v386CRYP, laid at v387
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/README.md`, "front".** **Read at:** Natural Intelligence v380R. Exhibit TWENTY Natural Naming v380R. Exhibit TWELVE Natural Explaining v378. Exhibit THIRTEEN Resolving Hard Problems v380L. Exhibit TWENTY-ONE Hard Problem Registry v375. Exhibit TWENTY-SIX Living File Registry v380R. README.md at main, "AI link to Living Natural Intelligence". incoming/README.md.
+
+### **From:** an AI session (Claude) opened at the AI link to Living Natural Intelligence, with a panel transcript on AI and cryptographic hardness brought as the research source. · v386CRYP, laid at v387
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Session_Report_v386CRYP.md`, "front".** **Read at:** Natural Intelligence v380R. Exhibit TWENTY Natural Naming v380R. Exhibit TWELVE Natural Explaining v378. Exhibit THIRTEEN Resolving Hard Problems v380L. Exhibit TWENTY-ONE Hard Problem Registry v375. Exhibit TWENTY-SIX Living File Registry v380R. README.md at main, the section "AI link to Living Natural Intelligence", and incoming/README.md.
+
+**Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Session_Report_v386CRYP.md`, "front".** This session read the files at corus.me and at github.com/chris-j-handel/corus. It read Natural Intelligence through section 4.4, the Hard Problem Registry through entry 16, and the Living File Registry through section 3.2. The remainders did not open in this session's reader. Section numbers cited below are to the passages this session read.
