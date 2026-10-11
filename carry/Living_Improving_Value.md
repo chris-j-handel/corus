@@ -1,4 +1,4 @@
-Living Improving Value · gathered at v385A
+Living Improving Value · improved at v386EOD
 
 # Living Improving Value
 
@@ -75,10 +75,10 @@ The [complete prior file](../archive/session_v385A/earlier_artifacts/Living_Impr
 
 | Source | Next gathering |
 |---|---|
-| [v382A, PR 123](https://github.com/chris-j-handel/corus/pull/123) | Follow the current resuming guide through the full report, forty source droplets, section records and transcript. Compare existing placements with current correcting. |
-| [v383Op, PR 125](https://github.com/chris-j-handel/corus/pull/125) | Begin with `Resuming.md` at `77dc8ef`; follow the 66-row gathering, existing placements and files still named for returning. Keep source-designated artifacts and relied-on instruments distinguishable. Follow older PR 124 through this later correcting. |
-| [v384A, PR 126](https://github.com/chris-j-handel/corus/pull/126) | Follow the 381 source droplets, thirty proposed SIX section gatherings, reciprocal offerings, concernings and dormancy material. The guide's routes are possible places, not completed placements here. |
-| [Session v385R, pull request 128](https://github.com/chris-j-handel/corus/pull/128) | Its [one whole wrapping report](https://github.com/chris-j-handel/corus/blob/5ea829012a0a2e18f2fd50269dd8d2cd7c6a5964/incoming/v385R/Logical_Cohering_v385R.md#106-the-session-learning-incoming-as-whole-droplets) is now offered for gathering. Section 106 and corrected section 60 were read whole; selected related value is already gathered here and at the mates. Compare the twenty connected clusters with those existing concepts, then follow the fuller report conditions and gather the remaining value. This is unfinished incoming, not complete distribution. No further exploring or execution is required before aiming it. |
+| [Session v382A, pull request 123](https://github.com/chris-j-handel/corus/pull/123) | Its concepts and concerns are at the files in `carry/`, by [the session's record](../incoming/v386EOD/Session_Record_v386EOD.md#session-v382as-logical-working-gathered--v386eod). Its report of seventy-three passes is not read whole. |
+| [Session v383Op, pull request 125](https://github.com/chris-j-handel/corus/pull/125) | Its concepts and concerns are at the files in `carry/`, by [the session's record](../incoming/v386EOD/Session_Record_v386EOD.md#session-v383ops-set-of-things-unresolved-gathered--v386eod). |
+| [Session v384A, pull request 126](https://github.com/chris-j-handel/corus/pull/126) | Its observings, concepts, concerns and possible project are at the files in `carry/`, by [the session's record](../incoming/v386EOD/Session_Record_v386EOD.md#session-v384as-working-gathered--v386eod). |
+| [Session v385R, pull request 128](https://github.com/chris-j-handel/corus/pull/128) | Its [closing twenty droplets](https://github.com/chris-j-handel/corus/blob/5ea829012a0a2e18f2fd50269dd8d2cd7c6a5964/incoming/v385R/Logical_Cohering_v385R.md#106-the-session-learning-incoming-as-whole-droplets) are compared with the files in `carry/`, by [the session's record](../incoming/v386EOD/Session_Record_v386EOD.md#session-v385rs-twenty-droplets-compared-with-the-files-in-carry--v386eod). Its sections 1 to 105 are at the files in `carry/` by session v385A's gathering. |
 | Completed session v385M | [One clustered report](../archive/session_v385M/Session_Report_v385A.md); its whole gathered concepts are [below](../archive/session_v385M/Session_Report_v385A.md). Compare existing local placements and distribute remaining value from here. The old overlapping files and runs are artifacts, not separate incoming tasks. |
 | Earlier sources in [incoming's index](../incoming/README.md), [carryings](../carryings/README.md), offered branches and discussions | Reconcile current source versions with existing droplet places. An open pull request can contain already gathered value; a folder at carryings can have later value still to gather. Record the actual comparison. |
 
@@ -95,6 +95,8 @@ The [v385A gathering record](../archive/session_v385A/Gathering_Record_v385A.md)
 ## Continuing sequential-colliding incoming · v385A
 
 The [completed-session report](../archive/session_v385M/Session_Report_v385A.md) is now an artifact. Its continuing sequential-colliding value is retained below with session v385R’s later correcting. [Living File Registry’s placement table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#completed-session-v385m-concepts-at-their-subjects--v385a) locates the other completed-session concepts at their subjects.
+
+Each concept of a surface after a colliding is said once, in the best naming, at [Offerings to Natural Networking](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod), and each self's own momentarying with the one four-cycling at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#each-selfs-own-momentarying-and-the-one-four-cycling--v386eod). — v386EOD
 
 ### Sequential colliding and what would break the society's carrying
 
@@ -418,3 +420,7 @@ The twenty-two marked paragraphs, specified coverage and instrument reports, nam
 The [whole friendship offering](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) includes section 102’s next-encounter relation. Its section-101 question now has that offered answering to follow; the actual universal and defining-living concerns retain their separate unresolved extent.
 
 The later [conversation correcting and paired discoverings](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#the-two-discoverings-through-a-particular-conversation-correcting--v385a), [Natural Intelligence 5.2 candidate](Offerings_to_Natural_Intelligence.md#arriving-at-the-exact-no-other-method-claim--v385a) and [possible contents heading](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-contents-heading-at-the-exact-method-claim--v385a) are aimed independently at their actual concepts and project. The offered method claim supplies no completed universal deriving.
+
+## One reason at each doing · from session v386CRYP · v386EOD
+
+**Droplet · One reason at each doing.** The expedition has one reason at each doing: discovering unknown value. No doing of a working has another reason. The saying is offered as the opening sentence of Living Improving Value, the file at which value at no living file is gathered.

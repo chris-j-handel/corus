@@ -1,4 +1,4 @@
-Natural Exploring Possibling · v385A
+Natural Exploring Possibling · v386EOD
 
 # Possibling of Natural Exploring
 
@@ -28,3 +28,10 @@ Further places named without a completed looking are frog embryos' first divisio
 - [Natural Exploring and Geodesic Improving Method proposed combination](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-exploring-and-geodesic-improving-method-proposed-combination--v385a)
 - [Repository and version practice at Living File Registry](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#repository-and-version-practice-at-living-file-registry--v385a)
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Exploring, *Each involution carries a fixed set, where the move returns its argument unchanged*: Resolving at this file's improving, the sentence said of the involutions that carry a fixed set, with negation and set complement said apart.
+- At the droplet aimed at a sentence, Natural Exploring, *Time reversal, charge conjugation, parity, each squared to the identity*: Resolving at the sentence, and an observing of the paired levels.

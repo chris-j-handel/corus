@@ -1,4 +1,4 @@
-Natural Societies Possibling · v385A
+Natural Societies Possibling · v386EOD
 
 # Possibling of Natural Societies
 
@@ -19,3 +19,24 @@ The stated bounds, catalogue size and circulant threshold belong to that earlier
 [Earlier Natural Intelligence Corus Part Fourteen distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-part-fourteen-distribution--v385a).
 
 [Earlier Natural Philosophy arrangement and alignment distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-philosophy-arrangement-and-alignment-distribution--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [Mitochondria and plastids with genomes of their own](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#mitochondria-and-plastids-with-genomes-of-their-own): Resolving at the row, and an observing of a free-living self arriving as a member, with its doing.
+- At [Cilia with the central pair absent](Exhibit_SEVEN_Carryings_of_Natural_Societies.md#cilia-with-the-central-pair-absent): Resolving at the sentence, the alga beside it.
+
+## The society of forty-one, and the step making it · v386EOD
+
+**Possible project.** It may change or never be made. The society of forty-one members followed for the step making it, and the societies of forty-two for their asymmetry: a method claiming the fives names the step making forty-one and onward, and doubling is not it.
+
+## The numbers two and four below a living self · v386EOD
+
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Possible project · The numbers two and four below a living self.** Twenty-one, twenty-five, twenty-seven, thirty-three and thirty-five carry no scale on Natural Societies' ladder, and they are numbers two and four below the cell, the tissue, the organ and the organism. The work is to read whether medicine's betweens, vesicles, the betweens of cells and matrices, are at them, or whether two and four below are reached at a prime alone, as the organelle at 19 four below the cell and the tissue at 29 two below the organ. It may change or never be made.
+
+## Natural Societies at the present naming and form · from session v386F · v386EOD
+
+**Possible project · Natural Societies at the present naming and form.** Natural Societies is at version 373, ahead of Natural Naming's present released words. The work is four things. Its front at the present form: no note after a part's title, as PART TWO, PART THREE and PART FOUR have, and no marks of spacing. Its 5.1, of a scale stilling, said as a society living at its prime, Natural Naming carrying stilling at self discovering next self. Its 1.1's summing and its 1.2's and 1.3's phi-rate beating said at parity changing, with no adding and no beat laid over a coupling. And three passages of Natural Intelligence it has whole at 5.3, of a society, of the emanatings and of the self's inversion, each said once at Natural Intelligence and named at this file. It may change or never be made.

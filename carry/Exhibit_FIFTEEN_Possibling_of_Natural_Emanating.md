@@ -1,4 +1,4 @@
-Natural Emanating Possibling · v385A
+Natural Emanating Possibling · v386EOD
 
 # Possibling of Natural Emanating
 
@@ -9,3 +9,9 @@ Gather the remaining contributions at their concept, craft and whole-expression 
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed exhibit combination and distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-exhibit-combination-and-distribution--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [An electron pattern shifted by a field the electrons pass outside of](Exhibit_FIFTEEN_Carryings_of_Natural_Emanating.md#an-electron-pattern-shifted-by-a-field-the-electrons-pass-outside-of): The experiment's own report: the lecture names none.

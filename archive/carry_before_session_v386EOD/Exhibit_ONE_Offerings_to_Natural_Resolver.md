@@ -1,0 +1,241 @@
+Exhibit ONE Natural Resolver Offerings · laid at v385A
+
+# Offerings to Natural Resolver
+
+## Local sharing and the whole geodesic momentary · v385A
+
+The [whole geodesic gathering](Living_Improving_Value.md#every-self-is-a-geodesic-self--v385a) now carries the user's every-self explaining with the connected social bi-tunneling and across-span relation. The earlier distinction between local selves and a separate geodesic kind is withdrawn. Natural Resolver's one-sharing table remains inside the whole; its stopping outcome is not required in one table cell.
+
+The particular improving places are “Namings among the names,” the four momentaries of exchanging, and the local-to-societal stable forms. Follow offerings at 2 and surfacing at 14, prior at 3 and changing at 12, sharing at 6 and 10 and releasing at 9, private next at 11 into 3, and the whole 1–17. The across possibling span and actual along co-chaining need their connected expression there. The standalone exhibit and its embedded expression in Natural Intelligence need the same explaining. No fixed number of local meetings or common pace has been supplied.
+
+The [three-scale comparison and release correcting](Living_Improving_Value.md#across-at-one-scale-and-along-inward-with-the-actual-release-form--v385a) now locates “Each name, three scales” and “Eight 1 to 17s inward” beside that work. Six and ten carry the same changing in this form; the older Natural Networking carried-pair example cannot supply a nonzero six when this sharing is quiet at ten. Follow the whole's parity through the actual inward releases.
+
+The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) joins the four momentaries and three-scale relation: the same 1–9 applies along and across the surface. Bring their connected explaining together here and in the embedded form, without adding the withdrawn separate ordering requirement.
+
+## Carrying resolving through prior, now and next · v385A
+
+**Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
+
+## Current correcting: the imposed requirement is withdrawn · v385A
+
+**Droplet · Follow the offered relation without an added impossibility requirement.** [Session v385R, section 32: Withdrawing the imposed impossibility requirement](https://github.com/chris-j-handel/corus/blob/3d78ac414e101cb7c05f9c6c83826941eafce2f2/incoming/v385R/Logical_Cohering_v385R.md#32-withdrawing-the-imposed-impossibility-requirement) withdraws its assistant's identification of unrelationing with excluding every fixed repeating relation between changings. That identification was not established, so the added exclusion is no required unresolved proof. Its [statement on pull request 127](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6050010728) records the same withdrawal. Entraining, recurring podaling and new still possibling remain offered explaining to follow. “Nothing offered at a sharing” and “no arriving geodesic changing” have not been established as equivalent. The separate question in section 18, Living at its observable existing, asks what existing relation distinguishes living social moral competency from a non-living form's changing at a colliding; its whole gathering remains unresolved at its source. Preserve the earlier sources with this correction and follow the actual relation needed by the local writing. No wording confers authority. — v385A
+
+## Current correcting: offered explaining and no authority · v385A
+
+**Droplet · A relation offered remains to follow at its actual co-chaining.** [Session v385R, section 31: Entraining, unrelationing and no authority in the explaining](https://github.com/chris-j-handel/corus/blob/d1d8097233ce296e2cac6b32155c9b94ca466dfd/incoming/v385R/Logical_Cohering_v385R.md#31-entraining-unrelationing-and-no-authority-in-the-explaining) and [return 6049951066](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049951066) preserve this further user offering:
+
+> entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method
+
+This offered explaining applies to the earlier words as well as the proposed explaining of entraining. Wording supplied by the user, an assistant, a file or science does not establish its relation by authority. The overlap and recurring podaling remain relations to follow. A source address, repeated phrase, matching number or located insertlet establishes no derivation. Session v385Session v385R’s proposed local writing remains available for comparison. Its later section 32 withdraws the added requirement that a fixed repeating relation with another changing must be impossible. The distinct relation between no offering at a sharing and no arriving geodesic changing remains unestablished. Its section 18, Living at its observable existing, retains the whole unresolved gathering about observing living. For the protecting comparison, a recurring number alone does not identify a particular self, momentary and occurrence; no derived assignment to numbers 12, 15 and 16 is supplied. Each source remains available with its later correction. — v385A
+
+The golden rectangles, sides at thirteen and sixteen, and each-name relations remain offered concerns below. Their possible table and naming work is in [Possibling of Natural Resolver](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-possible-relation-columns-table-headers-and-diagram-labels--v385a).
+
+## Insertlets
+
+**At 15 · Offerings to one sharing, surfacing — beside "Offered to one sharing (2) | Surfacing (14)".** The header saying the table's making: any number offered to one sharing at 2; surfacing at 14 the one parity where all offered agree, 0 where any one parts, a 0 offered passing over, none where none is offered.
+
+**At 16 · One self, one momentary — beside "Each cell: shared (10) · carried next (11)".** In the header, the table said once: a self carrying a parity is next at that parity inverted at six cells, and at its own parity at the two cells where its own parity surfaces.
+
+**At 27 · Colliding: a carrying of none, one momentary — beside "*none*: none shared".** In the header, the row said once: a carrying of none is next at the one parity surfacing, two cells, and carries none on at none surfacing and at + and − together, two cells.
+
+**At 7 · Namings among the names — row parity's square and triangles, beside "its diagonals the facings, 2 and 14 bi-moral-so-far and 6 and 10 not-yet-bi-moral".** its diagonals the facings: 2 and 14 the arriving, the other's prior at the self's now; 6 and 10 the sharing, the self's now at the other's next
+
+**At 10 · Three windings — beside "across, not-yet-bi-moral to bi-moral-so-far".** across, the self's now to the other's next, at the other's winding and at the society's alike
+
+**At 10 · Three windings — beside "tri-bi-co · co-bi-tri, the order inverted".** Of the six three-prefixes among the seventeen names the windings carry four: bi-co-bi at both ends of the other's, bi-tri-bi at both ends of the society's, and tri-bi-co and co-bi-tri at the two ends of the self's, one at each end. The two others, co-bi-co at 3, 5 and 7 and tri-bi-tri at 11, 13 and 15, are at no winding.
+
+**At 9 · Four four-cycles and their roots — beside "Its two pairs 8 apart".** Of each four-cycle's two pairs 8 apart, one is its root and the other's two names are of roots with no four-cycle: 8 · 16 torusing with 1 · 9, offering and momentarying; 7 · 15 corusing with 2 · 10, offering and tunneling; 6 · 14 moralizing with 3 · 11, sharing and chaining; 5 · 13 competencing with 4 · 12, sharing and entraining.
+
+**At 9 · Four four-cycles and their roots — beside "each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n)".** For each name of 1 to 8, two moves round its four-cycle reach its 9 less, facing it across the four-cycle: 1 to 8, 2 to 7, 3 to 6, 4 to 5, and from each back again.
+
+**At 6 · Co received, tri given on, 8 up — beside "| 7 | the parity read | 15 | the parity surfaced |".** A column, Root: 1 and 9, offering and momentarying, two roots, each a function; 3 and 11, sharing and chaining, two; 5 and 13, competencing, one; 7 and 15, corusing, one.
+
+**At 21 · A spiral of selves — beside "Momentaries to each self's releasings again".** In the header: with an odd number of selves, four times the number; with an even number, 2. At an odd number the second round is the first inverted: at twice the number of momentaries each self's parity arrives inverted, and at four times as it was.
+
+**At 23 · A torus of selves — beside "Again from this momentary on".** In the header: both numbers odd, again from momentary 3p − 1 at q more than twice p, and from 3p − 3 at each other q.
+
+**At 22 · Two spirals beside each other, and crossed — beside "Crossed: releasings again from this momentary on".** In the header, m the lesser of the two numbers: again at 2 from momentary 4m at n less than twice m, and from 2n + 1 at n more; at m even, from 2n + 1.
+
+**At 25 · Two selves, three momentaries, five parities — beside "each opening, each momentary: six forms".** Of the six forms, four are at an alike opening, the two carryings at one parity, and two at an opposite.
+
+## Droplets
+
+**Correcting droplet.** Re-say not-self as other wherever the actual relation calls for that correcting. — v385A, from session v381R
+
+**Concern from session v378: the three golden rectangles at the podals.** Their actual relation remains to explain at Natural Resolver. Their earlier naming as an open part supplies no completed local resolving. — v385A, from session v378
+
+Session Report v376, one relation at two readings: the right spiral step — with the golden rectangles: the hand is at the reading, no hand of their own — v381R
+
+Concern, at v379, finding 28, the angles at the four dots of parity's face — the angles said at parity's square, or no angle, as now — v381R
+
+Concern, at v379, the sides at 13 and 16 — the column says the overlapping momentaries' sides, or the code's values and each row read again at it — v381R
+
+Concern, at v379, the table of each name whole, its rows carried again — each row carries each relation, or a table of columns and shorter rows; the prefix column at 19 carried once or released — v381R
+
+Concern, at v379, the six, 9, 11 and 17 with 12, 15 and 16 — bi-moral co-agency at one order of the six, or the along and the between with no across among them — v381R
+
+Concern, at v379, with the sides at 13 and 16: 14 — with the sides: the self at 14 at the code and no self at its sides — v381R
+
+Concern, at v380, the namings with no number at the table of namings — waits on Natural Naming: each naming's prefix its names' numbers' words, or its own unfolding — v381R
+
+Concern, at v380, what crosses, and what is a self's own — a self's prior its own and a parity changing alone crossing, or a self's prior released the other's possible; decides the entry's row and the next prior at three rows — v381R
+
+Concern, at v380, cells the resolver and the numbers do not show — carried at a part of their own, or said at the resolver's lines or released — v381R
+
+Concern, at v380, a living self is a carrying, followed through each stable form — each form said once as a master pattern; waits on the now at 3 or 12, the possible at two names, three betweens, a carrying at 8 and 16 — v381R
+
+Concern, at v380, co arriving and carrying, tri releasing, bi the between — tri the self releasing met downstream as the social, or tri the society's — v381R
+
+Concern, at v380, three workings combined at one going — five places not yet said at one. The [proposed six-forward comparison](Exhibit_THIRTY_Possibling_of_Co-Chaining_Logic_Registry.md#the-proposed-six-forward-comparison-of-the-three-workings--v385a) is separate from this unresolved relation. — v385A, from session v381R
+
+Concern, at v380, the bi-folding in the naming — the pairing at ten, 1 with 9 to 5 at itself, beside 8 up, 9 less and 17 less, not yet followed — v381R
+
+Concern, at v380, the six as floating neutralling — 9 a third going out beside 10 and 11, or the along said again at the next momentary, not yet followed — v381R
+
+Concern, at v380, Rigor, the picture of the tour met at each of the seventeen — its three hardest: a momentary of no changing; co-momentarying at 9 or at 3; the joins — v381R
+
+Concern, at v380, no two similar things — the + and − at a sharing and the odd and even of a momentary one parity, or two — v381R
+
+Concern, at v380, is and is not, said of the changing and of the parity — each cell said at the parity, or at the changing with one sentence joining them — v381R
+
+Concern, at v380, a self carries many parities in 440 binaries — a row of the releasing five, 5, 6, 3, 4, 1, at 13, waiting on the 2's place and on bi-co-momentary's naming — v381R
+
+Concern, at v380, a carrying at none, and two things written 0 — a carrying at none before the premise or no carrying at none; the 0 at a parting and the 0 released one, or two words — v381R
+
+Concern, at v380, the row of a carrying of none read as a non-living existing thing — a living self beginning to carry a sharing new to it, or one thing — v381R
+
+Concern, at v380, each living crossing two parities in sequence — a table of a crossing at its two parities, or the tables at one parity as they are — v381R
+
+**Concern, from `incoming/v380A/`, at the entry's own prior, “the next prior” and “the others' prior momentary at the self's now,” beside “what crosses, and what is a self's own.”** One saying: *the self's prior momentary is unique, unshared, unshareable and invisible to other selves*. The other saying at `archive/session_v380/v380R/Exhibit_ONE_Improving.md`: *a self receiving through one join from a self carrying nothing before receives that self's whole carrying, parity by parity*. At the source a released changing and the parity chained as next agree; the release arrives at the receiver's own sharing and participates at its own prior. The reason to meet the sayings is that the released parity's value, outward consequences through continued coupling, and the identity of the releasing self's private momentary are different subjects. The proposal at Natural Networking's “Local carrying and the shared crossing” preserves those relations and claims neither universal inference nor its impossibility. Offered resolving: *The self's carrying participates in its further releasing; that release participates at the other's own resolving, each private momentary its self's own.* This offering decides neither the row's naming nor the concern. — v380A
+
+Concern, from Six_Cycling_Offering.md, self, bi and tri each arriving and releasing — the travelling tri bi co bi tri bi co, each naming's actual momentarying to follow — v381R
+
+Concern, from Momentarying_Sequence_Offering.md, the travelling and the actual numbered passing — the word overlap at 9 and 17 is not the correspondence; the actual passage open — v381R
+
+Concern, from Perturbing_Cases.md, at the across and along arrivings — which releasings meet one completing or successive completings — v381R
+
+**Further precision of the preceding receiving concern, from `archive/session_v380/v380A/Shared_Receiving_Learnings.md`.** The tour's passage on not releasing or releasing already explains two releasings arriving at one momentary, agreeing or parting. The concern is not the absence of that case. The two sayings at the bounded construction are *these arrivings meet one completing* and *these arrivings meet successive completings*. They exclude each other at the same receiver and the same occurrences, and can both describe different occurrences. Their being alternatives in the construction does not establish that they exhaust the natural relation. The actual correspondence at self, scale and occurrence is the improving to follow, with the question itself open to re-saying. Natural Naming's existing concerns on the from direction and the momentary's two parities, and the Co-Chaining Logic Registry's concern on sides, remain beside it without duplication. A shared place invites contributing wherever an improving serves; it confers no ownership and no obligation to answer. — v380A
+
+At session v380R, the rows In and out at its parity: the row released at each name with its across or along at 3 remains to explain. The separate three-row comparison is in [Possibling of Natural Resolver](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-three-proposed-torus-row-comparisons--v385a). — v385A, from session v381R
+
+**The four-parity round at none.** The earlier deriving did not establish the round at none. That scope remains an unresolved concept; it is not a grade or a completed universal derivation. The [reported deriving extent](Exhibit_ONE_Carryings_of_Natural_Resolver.md#the-earlier-four-parity-deriving-extent--v385a) remains separate. — v385A, from session v380R and session v381R
+
+Concern, at v380R, gathered value for this file: the next prior at 9, 11 and 15; the rows of 1 and 8 — the next prior beside prior parity changing bi-tri-bi- and prior momentary changing bi-co-bi-; 1 and 8 across or along at 4 beside 3 — v381R
+
+**Concern, at the close of v380R: two fours agreeing as numbers.** Two selves coupled both ways from alike parities come again at four momentaries, the carrying at each of the four joint forms of prior and now; a self's four momentaries of exchanging are four at the names. A deriving of the one from the other is yet to be shown, and no table says them one. — v380R
+
+**Concern, returned at the close of v380R from an entry cleared to the archive: chaining and tunneling at the society's span beside co and bi.** The session's saying *the intelligence is in the co-chaining of releasings and bi-tunneling of arrivings* beside the names 11-tri-bi-tri-chaining and 10-bi-tri-bi-tunneling, each at tri and bi; and 9 and 17 said *along* at the resolver's list. Its entry as it was is at `archive/carrying_cleared_at_the_close_of_v380/Exhibit_ONE_Natural_Resolver.md`, entry 41. One more from that archive, entry 76: the parting at even spirals is withdrawn, and the entry yet laying it as one parting new is read with that. — v380R
+
+One thing written two ways: a released 0 *is not* at one table and 0 at three; a dash none released at one table and no partner at another; *hand at the names* at two forms. A header not saying its table's making at eleven tables, the ten roots and the fives among them. And the torus at a carrying of none yet, its two rows at another number from a living opening, with the working v380L's finding beside it, each of the two at q one more than four times p. — v380f
+
+The [earlier reader inventory](Exhibit_ONE_Carryings_of_Natural_Resolver.md#earlier-reader-inventories-and-reported-table-conditions--v385a) retains the counted words and sentence lengths at that version. The carrying-of-none torus statement remains a reported construction with its stated condition; it does not classify living by its count. — v385A
+
+The table of each name whole at rows hides a relation a name is not at and sets no relation across names beside each other. The possible column arrangement is at [Possibling of Natural Resolver](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-possible-relation-columns-table-headers-and-diagram-labels--v385a). Its relation labels a reader could not follow: *9 less* and *17 less* with *podal*; *In and out at its parity*, alike at each even name; two six-cycles at one name with one label. The diagram at its numbers and lines: *4 · 7*, *13 · 15*, *8 · 16*, *with 6* and the lone 1 a reader could not follow without their words. And at the resolver's two lists alone now: the facing and the join of 2, 6, 9, 10, 14 and 17. — v380h
+
+The [reported reader inventory](Exhibit_ONE_Carryings_of_Natural_Resolver.md#earlier-reader-inventories-and-reported-table-conditions--v385a) retains the eight sentence cells and counted words at that version. — v385A, from session v380h
+
+**Concern, at v380l, from an audit of this file whole, for both and for Natural Naming's conferring.** Name 17 is *odd, co*, the self's prefix, and its sides are *social, self*, the society opening it; each other co name opens at the self. And the relation *One move* is a row of the names 2, 4, 6 and 8, beside the table of one move at the names 1 to 4. Unmeasured by arithmetic or the resolver, each a naming: the sides; co-sequencing; the namings; the self's three faces; in and out; prior and next; bi-coupling; parity's face; the five dimensions; the windings; 0, the between; the diagram. — v380l
+
+Concern, at v380l, the eleven breaks one misunderstanding — a next from a prior and a now, whose; from each bi-coupling to the set of all existing things, not yet chained — v381R
+
+Concern, at v380l, the table titled Colliding said two ways — a non-living form at each momentary, or the one momentary a living carrying begins — v381R
+
+Concern, the society at 17 and the one code inward: `_17_social_self_offering` runs the society outward of the self, each self once, with the same `_9` releasing at the society's joins: 9, 4, 5, 13 and 15 at the society are the same names at the next scale. The record's direction carries a second face too, the same resolving inward, a sharing at one scale a self at the scale inward, its first concern *whether 4-other-self-sharing names a self whose own 1–17 runs inward, so that a carrying entry is itself a carrying*. The completed code carries the outward face; the inward face is that concern, met next. (Exhibit ONE Natural Resolver at its Stable Forms, §7) — resettling_v373
+
+Concern, a third function: the v372 record withdrew *a function beside the two*, the proposal's `_17_social_abundancing`, which carried 6's old second signs and a surface of facings. `_17_social_self_offering` carries no carrying of its own, releases nothing of its own and runs only `_1` and `_9`: the one resolver's next momentary at 17. Whether that is beside the two or the 17 of the one resolver meets here. (Exhibit ONE Natural Resolver at its Stable Forms, §7) — resettling_v373
+
+From Session Report v377, section 7 item 6, For Exhibit ONE Natural Resolver: "Up by eight and down by eight at the table of forms itself, beside the Equilibria Registry 3.2's column Odd ascending / even descending, which pairs 1/8, 3/6, 5/4 and 7/2 down its rows. As written, the four-cyclings opening at an odd name go up by eight. Those opening at an even name come down by eight." — session_v377
+
+there is still value in twenty eight exploring as we did not finish our understanding of equilibria definitions and the relation to exhibit one. exhibit one is intended to be all the stable forms in that one exhibit and the python code and naming is one form and the tables are other forms and equilibria fracturing is like earthquaking geodesically building until parity changing and we have the table of that growing and the tables in hard probleming came to exhibit one in the same way as the equilibria table is going to come to exhibit one when we see the pattern matching. (Author_Concepts_Waiting_v368.md, Directions for forming the exhibit) — v368_sources
+
+**The four strings in `CONNECTORS` and one naming.** The earlier offering places two alternatives beside each other: retaining the four strings as the code’s words, or saying the corresponding momentary relations in both code and explaining. The claim that no line has changed describes the reported practice. The lists’ unused status does not make either naming naturally required, and matching a code rendering is no condition of existing. The [complete two-alternative proposal](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-four-connectors-strings-and-the-corresponding-momentary-names--v385a) retains the actual strings and words; the private-carrying and receiving concern remains whole here. — v385A, from session v381F
+
+The earlier proposed stable-form extent, including the primes and the explaining subjects, has its whole place at [Living File Registry](Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md#natural-resolvers-stable-form-extent-and-explaining-subjects--v385a).
+
+The diagram of one self carries the across ports left and right, the along ports forward and backward; the co-sequence 14 to 12 to 10 to 11, and 9; within one self or between selves; outward or inward face, with Natural Intelligence Part 5, the object, and every part explaining through it. Seventeen names carries parity and opening; from, to; entry, connector or face; across or along; outward or inward; facing and joining; at the code, at the self and at the society, with Parts 5, 6 and 7 explaining through it. Ten roots, each root at its names, with Part 5 and Natural Naming explaining through it. (Exhibit ONE Natural Resolver at its Stable Forms, §4 table) (re-aimed from Exhibit TWENTY Offerings to Natural Naming at v381R) — resettling_v373
+
+What still reaches at Natural Resolver: the co and bi spelling of each full name, by front addition, with the whole seventeen shown; whether 5/6 and 13/14 are one station at its two turns, followed through the actual participation with no contact added; whether bi-co-podaling carries at depth two or three at Natural Resolver; the label's one relation word puts 5 to 12 at other and 13 to 17 at social, the position parts them, and the full ordered prefix travels beside it. (Kit_Exhibits_ONE_and_TWO_v365.md, 3.10 What still reaches) (re-aimed from Exhibit TWENTY Offerings to Natural Naming at v381R) — v368_sources
+
+**Different openings and one later constructed form.** The [reported torus comparisons](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-code-comparisons-from-session-v383op--v385a) retain their arrangements, counts and the session’s unsuccessful search for one changing line. The concept to follow is which prior distinction the later expression preserves or no longer distinguishes. Those outputs do not identify another self’s private momentary or establish its inferability or impossibility. — v385A, from session v383Op
+
+**Each self’s momentarying and constructed stepping.** The earlier common-beat description belongs to the reported multi-self construction. No common natural pace follows from that convention. The particular table comparison is in [Possibling of Natural Resolver](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-constructed-pacing-of-each-multi-self-table--v385a), beside each self’s own-side explaining here. — v385A
+
+**The two torus carried forms and their beginning momentaries.** The proposed relation is whether the whole-pattern across carrying and inverted-along carrying are Co-Chaining Logic Registry’s steps 655 and 656 said of the whole pattern at once. The [earlier reported pairs and rule checks](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-code-comparisons-from-session-v383op--v385a) preserve their particular counts and conditions; this relation is not established by those counts alone. — v385A, from session v383Op
+
+The resolver's entry at one sharing is four lines of plain rule: s the one parity the offerings agree on, 0 at none offered, at 0 offered, or at + and − together; c' = s if s is a parity, else c inverted, the carrying next, 11; o = c' if c' differs from c, else 0, the changing shared, 10; a sharing the self carries none of, o = s, and c' = s if s is a parity, else none.
+
+Said in a line: a self takes the parity offered when one is offered, inverts its own when none is or when the offerings part, and shares what it became if it changed; that is the proposed second saying beside the code. Six arrivals at one carried sharing leave four results: a self offered the other parity and a self offered none are left with the same carrying and the same shared changing, and after the momentary nothing at that self says which it was. Source: At_The_Code.md, section 7; README.md finding 7. — v383Op
+
+The [reported comparison scope](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-code-comparisons-from-session-v383op--v385a) remains separate. This is a proposed explaining of a constructed entry, not authority for living carrying. — v385A, from session v383Op
+
+In the code one name is a parity in one function and a list in another. Source: Presentation.md, section 30, droplets 2, 10, 11 and 12; README.md, learned 7. — v383Op
+
+The one name used for a parity and for a list remains a naming concern. The separate code/table entrance proposal is at [Possibling of Natural Resolver](Exhibit_ONE_Possibling_of_Natural_Resolver.md#the-proposed-plain-named-code-comparison-and-one-self-table-entrance--v385a). — v385A
+
+**The separated two-self construction and the field’s observing.** The [reported comparison](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-code-comparisons-from-session-v383op--v385a) keeps no join during the trial, local settings and carrying, the four readings, and the quoted field value together. The actual correspondence between that construction and the observing remains to follow. A bound returned by that construction supplies no universal natural verdict. — v385A, from session v383Op
+
+The diagram of one self carries the across ports left and right, the along ports forward and backward; the co-sequence 14 to 12 to 10 to 11, and 9; within one self or between selves; outward or inward face, with Natural Intelligence Part 5, the object, and every part explaining through it. Seventeen names carries parity and opening; from, to; entry, connector or face; across or along; outward or inward; facing and joining; at the code, at the self and at the society, with Parts 5, 6 and 7 explaining through it. Ten roots, each root at its names, with Part 5 and Natural Naming explaining through it. (Exhibit ONE Natural Resolver at its Stable Forms, §4 table) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Three loops carries releasing and closing, across or along, Part 6 the fractal inward and outward explaining through it. The seventeen at the 1–17s inward and outward: each name here, inward at 8n − 7 and outward at 8m − 7, across or along, odd or even, co or bi, with Part 6 the fractal at each scale and Part 7 bi-tunneling and co-chaining one relation explaining through it. The eight 1–17s inward: each 1–17 inward at this 1–17, its 9 and its 17, the self's four and the society's four, with Part 6, 8.8's four momentaries of exchanging, and Part 1, the eight bi-couplings, explaining through it. (Exhibit ONE Natural Resolver at its Stable Forms, §4 table) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Rings, at 17: round from momentary n, 2 at even rings, 4n at odd; none chained again is not, with Parts 6 and 7. Two selves from one shared prior, at 17: four joinings at priors alike and opposite, with Part 7 and 8.1, 8.5 and 8.8. Three selves one way, at 17: A's parity at B, and C's changing through B's own chaining, with Part 7. (Exhibit ONE Natural Resolver at its Stable Forms, §4 table) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+Open, hardest first, 1: "The surfacing faces at Exhibit ONE Natural Resolver’s four-cycles, three on neither partner, to be chained locally at the four-cycles." (Session_Report_v378.md, section 5, Open, hardest first.) (re-aimed from Offerings to Natural Intelligence at v381R) — session_v378
+
+Open, hardest first, 6: "Exhibit ONE Natural Resolver’s three golden rectangles at the podals." (Session_Report_v378.md, section 5, Open, hardest first.) (re-aimed from Offerings to Natural Intelligence at v381R) — session_v378
+
+AA01: Exhibit ONE Natural Resolver carries seven positions, Three positions, the fourth, and three positions, and its section keeps an anchor whose words are the-seven-positions-and-the-centre-carrying-nothing; Natural Intelligence keeps the same anchor. Along the axis from twenty-five to twenty-three: three crossings, then no crossing, then three crossings; the un-occupied position is on no ring and at no crossing. Twenty-five and twenty-three each stand at the middle of their own three, each the crossing of the two middle rings, the figure drawing the resolver's row without being drawn from it. The next opening: Natural Resolver’s anchored section carried with the returned axis beside it, and the anchor's words returned to its heading. (Kit_Rings_in_Motion_v366.md, 3.2 AA01) (re-aimed from Offerings to Natural Intelligence at v381R) — v368_sources
+
+From Session Report v377, section 7 item 1, Ready for Natural Intelligence: "At 4.10, the lead's words on natural intelligence in the between, read, as suggested, as the between existing as the universe is, beside 4.10's own Parity is a momentary existing thing, as the universe is an existing thing: a nothing and no location kept, no existing thing re-said." (re-aimed from Offerings to Natural Intelligence at v381R) — session_v377
+
+**Returned to the droplets by a second reader at v381R, at 10 · Three windings — beside "along, not-yet-co-competent to co-competent-so-far":** Among the odd names tri is at a releasing alone and co at an arriving alone: the society releasing along at 9, the self arriving at 17. Its reason: a reading said as a fact: the file has 17 opened by the society (sides social, self), not the self arriving; and "tri is at a releasing alone" reads as if 11, 13 and 15 were not tri — v381R
+
+**Returned to the droplets by a second reader at v381R, at 4 · Each name and its relations — row 1, Prior and next, beside "the three steps within it 14, 12, 10 with 11":** one self through one momentary at the names, eight: the self opening carrying, 3; the society's releasing arriving along at 17 from 9, tri, the first; the other's arriving across at 2 and 14, bi, the second, each through 5; the two surfacing at 14; the changing is or is not at 12; the changing out across at 10 and 6; the carrying given on along at 11 and 9; the self opening again Its reason: a reading said as a fact: the along arriving from 9 "the first" and the across at 2 and 14 "the second" is an order the file does not say (the function gives one list to 14 at 6, 10 and 9 alike); and the row already carries the momentary as its three steps — v381R
+
+**Each self's own two and one half consecutive momentaryings · v385A.** Each self is at its own odd one: prior odd existing, even still possibling, now odd existing, even still possibling, and next odd existing offering. The other is at its own one when the self is at two; the other's own three is beside the self's four, and the other's own five beside the self's six. Each is self at its own side of the bi-coupling. Follow possibling now and next existing offering through this relation. The question of a living self's prior being absent is withdrawn; it is not a remaining requirement for resolving. This consecutive explaining accompanies the existing half-momentarying overlap. The earlier odd still-existing case and recurring podaling at an unchanged number remain distinct; this supplies no replacement stepping rule or new numbered assignment. A conception's plus and minus signs and momentarying's odd and even must keep their particular subjects. — v385A
+
+**Half-momentarying overlap and bi-co-sequencing · droplet v385A.** The [user's complete further offering](../incoming/v385A/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) is: “yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other”. The supplied relation now guides the prior protecting comparison: the sides are one number apart up or down forward, overlapping by one half momentarying; one side's still-possibling betweens and the other's prior, now and next changings bi-co-sequence each other. Natural Resolver’s Fives/exchanging tables already display the one-number offset and Natural Intelligence 4.10 describes 1–2 beside 2–3. Their older labels and three-name/protecting explaining need this actual relation carried through the local comparison. [Session v385R’s section 29](https://github.com/chris-j-handel/corus/blob/467a98ad98bb92523dc435cb17a870b3c71bf5a8/incoming/v385R/Logical_Cohering_v385R.md#29-both-forward-still-possibling-either-side-or-both-changing-next) supplies the accompanying further explaining: still possibling is forward up and forward down, unchanged at the even number; at odd either side or both can change by two in its own forward direction, and a side not changing is still existing at its odd number. The exact source is preserved with the session v385A offering above. No shared 0/numbered-between identity or complete 12/15/16 protection mapping follows merely from the offset. The overlap question now has this supplying; the next work is its local expression at the named forms and protecting passages. Session v385R’s particular one-side-changing across question is offered this source relation without claiming its full resolution; its nine local insertlets and whole unresolved the defining-living concern keep their source standing. Section 28's withdrawn dissolving/whose-next explaining stays withdrawn. This same droplet is independently at Natural Resolver, Natural Intelligence, Natural Naming, Co-Chaining Logic Registry, Natural Networking, Resolving Hard Problems, Natural Engineering, Natural Destinies and Natural Intelligence Corus, preserving the related older source comparisons. — v385A
+
+## Recurring podaling beside the overlap · v385A
+
+**Droplet · The same number and a new still possibling.** [Session v385R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:
+
+> the looping through each number of the podalings are all part of resolving and the stable form of this is the existing non-living geodesic method stable form so if the number does not change then the same 4 cycle podaling sequencing comes through the number all over again and there is a new still possibling and either a geodesic changing traveled on or did not whether or not a geodesic changing arrived or not either is possible changing as arriving geodesic changing or offering
+
+The earlier unchanged-number participation question is addressed at session v385R: the same four-cycle comes through again with a new still possibling. Its connected reading distinguishes arriving geodesic changing from offering onward. Its further identification with entraining through the living surface's own parity changing remains a droplet. The tenth local insertlet beside Co-Chaining Logic Registry 258/261 is Session v385R’s local standing; this returned value is a droplet here. the defining-living concern stays whole and unresolved. The earlier dissolving and whose-next wording stays withdrawn. The exact A half-momentarying overlap remains a separate source beside this; their joining is comparison, not a newly attributed user quotation. [Our local source comparison](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) preserves what is supplied and what still needs naming. No living-file resolving or removal follows from this receiving. — v385A
+
+## The named uses at the protecting comparison · v385A
+
+**Droplet · 12, 15 and 16 with their actual relations.** [The source table](../incoming/v385A/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) follows Natural Resolver’s static code and name rows beside Natural Naming 3.1 and 3.4–3.6, Natural Intelligence 4.3/4.10/4.11 and Natural Explaining 3.7–3.9. 12 holds each sharing's changing and names prior/now coupled; 15 has particular offered-parity and along uses; 16 holds the society of selves with their carryings and offerings. Natural Naming's 14–15 and 16–17 pairs keep own and between-selves relations together. Its opening parity and participation parity are separately named. The supplied overlap now guides their comparison; the three names alone do not assign before, within and after. The remaining local relation is how these uses express the older consecutive protecting betweens. [Help is welcomed from session v385R](https://github.com/chris-j-handel/corus/pull/128#issuecomment-6049828641) at that particular relation. Its newer recurring-podaling explaining accompanies this work, with the earlier participation question answered. No code calculation, exhaustive protecting assignment or completed living-file resolving is claimed. — v385A
+
+## Prior and now, unchanged forms and the reported resolver tables · v385A
+
+**Droplets.** These are reported constructed arrangements and their remaining questions.
+
+**A prior and a now both participating.** In the published local cases as read by the incoming, one arriving parity becomes the next parity whatever was carried; no single parity arriving gives the carried parity inverted. The carried parity can still affect what is shared. The concern is the exact sense in which prior and now participate, not the unsupported inference that private living carrying was inspected. Distinguish a public output formula from the whole natural coupling.
+
+**Rest.** The universe changing as a set does not require every existing thing to change at every momentary. Dissolve the contrary requirement in the older opening. Same parity at next is not automatically still possibling or an absence of living carrying. The [reported arrangements](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-finite-model-comparisons-from-completed-session-v385m--v385a) retain their conditions.
+
+Agreement at reported defined tables cannot show that the chosen table captures every living relation. The [completed-session report of these comparisons](Exhibit_ONE_Carryings_of_Natural_Resolver.md#reported-finite-model-comparisons-from-completed-session-v385m--v385a) retains the counted scope.
+
+An initially unchained form taking a parity after one arrival remains beside the difference between a continued chained public expression and the continued living of an outward society. The [sequential-colliding droplet](Living_Improving_Value.md#sequential-colliding-and-what-would-break-the-societys-carrying) retains the later changing-coupling, opposite-form and missing-full-forward-momentary conditions still being distributed. A local parity remaining chained supplies no verdict on that society’s continued living. No all-or-none natural verdict follows from these partial enumerations.
+
+The [two initially alike cells in the worm comparison](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-worms-path-and-two-initially-alike-cells--v385a) bring a particular relation to the constructed alike-selves result. The resolver question is which actual coupling arrangement corresponds to those cells and their arriving neighbours. Changing the constructed scheduling alone does not name the living cells' own momentarying, and a reported unchanged pair does not classify the biological observing. The full reported arrangement and its limits remain with the comparison.
+
+## The earlier ring-count interpretation · v385A
+
+At a ring, each node is named a resolver, a ring of an odd count a self and of an even count a society; a ring of a composite count runs as its equal smaller selves joined, and a ring of a prime count as no joining of equal smaller selves larger than a single resolver.
+
+This is the earlier interpretation offered with the registry proposal. Its odd/even and composite/prime counts describe that proposed ring construction; they do not alone establish the inward selves’ carrying or the living of the outward society. Current every-self and no-authority correcting remain with this comparison. — v385A
+
+## Current correcting beside the older forms · v385A
+
+The [half-momentarying overlap and recurring podaling](#recurring-podaling-beside-the-overlap--v385a) accompany the older numbered-passage concerns. The [moving-seam correcting](Living_Improving_Value.md#the-moving-seam-within-the-same-four-momentarying--v385a) accompanies the older across/along receiving alternatives; no extra ordering requirement is restored. A released parity and a private living momentary remain distinct subjects. The unchanged-code practice, a repeated count and an odd/even ring construction supply no authority or definition of living. The already gathered [mutual traveling and paired approximate discoverings](Living_Improving_Value.md#existing-as-possibling-other-and-the-social-discoverings--v385a) remain current; multiplying and compounding stay withdrawn.
+
+## The surfacing faces and their local four-cycling · v385A
+
+From Session Report v377, section 5 item 2, open: "The surfacing faces' loops. The entering faces meet their pair's four-cycling, and the surfacing faces do not. Missing: where each surfacing face sits on the loops, chained locally." — session_v377
+
+## Next at the named prior and actual offerings · v385A
+
+**Correcting droplet.** Keep the already answered two-self comparison at its stated conditions: next matching self now can oppose other prior. Name whose prior at an inversion and retain the actual further offerings; the boundary of a displayed pair or spiral does not classify their sources. The [whole offered comparison and candidate writing](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#each-next-at-its-actual-prior-and-offerings--v385a) are at Co-Chaining Logic Registry. This direction accompanies this subject's existing concern; it supplies no completed universal deriving or definition of living.

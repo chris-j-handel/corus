@@ -1,4 +1,4 @@
-Living Ghost Registry Possibling · v385A
+Living Ghost Registry Possibling · v386EOD
 
 # Possibling of Living Ghost Registry
 
@@ -9,3 +9,9 @@ The Natural Resolver contents, explaining distribution, naming arrangement and e
 [Science prefaces and particular subject distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#science-prefaces-and-particular-subject-distribution--v385a).
 
 [Earlier ten-conception gathering and address arrangement](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-ten-conception-gathering-and-address-arrangement--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [Carbon in surface seawater](Exhibit_TWENTY-SEVEN_Carryings_of_Living_Ghost_Registry.md#carbon-in-surface-seawater): The measuring's own publishing.
