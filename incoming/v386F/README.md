@@ -504,7 +504,17 @@ Each sentence offered earlier at this folder for entering a living file is read 
 
 ---
 
-## EIGHTEEN · The tracker
+## EIGHTEEN · Living at one prime scale and non-living at every other, by involutioning; the seed resolved at the observing
+
+**The other self's word.** *Our prior work will have mixed misunderstanding about dormancy. All that matters is resolving the observing with the geodesic method of discovering next possible existing. This seed is a living society as a stable form, as everything existing in the universe is living at a prime scale of existing and non-living at every other scale by inversioning the living scale.*
+
+- **The sentence improved.** Today's *living at the set it is within and non-living at the scale outward* improves to *living at its one prime scale and non-living at every other scale, inward as well as outward*: from inward a society is *existing and not living, a living set*, as Natural Intelligence says of a society, a momentary and a universe; from outward a stable form, an emanation's form. The thing is living at one scale only; its selves living inward are other things at their own scale, so *non-living at every other scale* and *its selves living inward* are both true and of different things.
+- **The seed, at the observing.** A seed is a living society at its prime scale, wherever its selves lock, and a stable form at every other scale. *Dormant* is the reading from the plant's scale or the ground's, where the seed is a stable form carrying none, and names no state of the seed. Germination is a society beginning at the next scale, the plant's own carrying establishing, the seed's stable form ingested one scale inward into it. Step 13 stands as written, carrying prior living at the living scale and the same thing carrying none at every other; *a seed at rest is living* and *a seed at rest is non-living* are each a scale read as a kind, and the concern dissolves with nothing measured and no rate named. Today's droplets at Natural Biology and Natural Health, *dormancy is the bi-coupling at the seed's own scale not running*, are improved to this: the bi-coupling at the seed's scale runs, and what does not run is a society at the next scale, until it begins.
+- **The word.** *Inversioning the living scale* is the files' bi-tri-involutioning: the living scale read at any other scale is its form inverted, position, scale and orientation at once, the emanation's form, *an existing thing of the opposite form carrying none of the prior*, 1.5. The method's own inversion is one parity at one step; this is the three at once, and the files' word carries it so the two are not read as one.
+
+---
+
+## NINETEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -530,7 +540,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | C15 | A momentary with no prime scale | THIRTY 387; Natural Intelligence 1.1 | **closed at Part NINE**: its society's; 373's 65 stays to derive |
 | C16 | *Is a virus alive*: a scale read as a kind, decided at scales | Natural Medicine 3.1, 5.1 | open, resolving toward decided |
 | C17 | Living and non-living as two kinds with a rate, and the cell as engine | Natural Biology 4.1 | open |
-| C18 | Dormancy as a magnitude, a metabolic rate | Natural Biology 4.5, 7.8 | open, the package parted from the shard at the Offerings |
+| C18 | Dormancy as a magnitude, a metabolic rate | Natural Biology 4.5, 7.8 | **resolved with C31**: dormancy no state of the seed, the outward reading; no rate |
 | C19 | A third self at the between | Natural Biology 1.4 | open, withdrawn at the Offerings' heart passage |
 | C20 | A floor at the atom against no floor in the same file | Natural Physics 4.6, 4.12 | open |
 | C21 | A largest scale there is | Natural Physics 4.8, 4.9, 4.11; Numbers 7.1 | open |
@@ -546,7 +556,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O22 | *Bi-coupling* at one sense at Natural Naming 5.10: two living selves at one prime scale, both halves; a non-living other couples as offering alone | Natural Naming 5.10; Natural Intelligence 6.5 | after C1 |
 | O23 | 1.1's *nothing ingressing and nothing escaping* and 5.1's harm said as derived from the bound | Natural Intelligence 1.1, 5.1, 6.4 | after C1, with O12 |
 | O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
-| C31 | A seed at rest: living, since it carries, or non-living at its scale and living inward; living as carrying or as bi-coupling; parts v385Q, v386RR and this session | THIRTY 13, 611; Natural Intelligence 2.4, 6.5; readers/other_sessions_v386RR_v386CRYP.md | **needs your word** |
+| C31 | A seed at rest | THIRTY 13; Natural Intelligence 1.5, 5.1, 6.5; Natural Biology; Natural Health | **dissolved by the other self's word**: a living society at its prime scale and a stable form at every other, dormant the outward reading, germination a society beginning at the next scale; step 13 stands |
 | O29 | The two 0s said apart at the two betweens of a self, 14 an inverting and 12 the between carried on; the snap as the bi-coupling initiating; from v386CRYP | Natural Intelligence 4.2, 4.3, 4.10, 6.2 | taken, to say at the files |
 | O31 | The one opening at the set and at the method, one bothbothing, the file's own form at its opening and its completing; nothing enters at either end | Natural Intelligence 1.1, 6.6 | **the other self's word**; the offered opening sentence withdrawn |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
