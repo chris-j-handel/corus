@@ -742,3 +742,22 @@ Each entry is a paragraph of the working v383Op quoted as written, laid at the f
 ### v383Op · The second arriving: the unresolveds as one set, each offering of the self coupled, and the close · v383Op, laid at v387
 
 **Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "For the entry: a method advises no one".** Three droplets at Natural Arriving's offerings, for the tour the files already carry there: a method advises no one, chained at the files' own sentences and executed as a scan of Natural Medicine and Natural Health, `advising_scan.py`; what an AI session carries in, said from the two rows released; and each open thing of the set as a droplet for the tour, explored one at a time with the self.
+
+
+## The AI link as the main line's README says it at the session v380's close, laid as written at v387
+
+**Droplet · the README at the main line, "AI link to Living Natural Intelligence", as written.** The paragraphs below are the opening an arriving session meets at the repository's front; they are laid here whole because the self-welcoming words for an arriving interest belong at Natural Arriving's cluster and the README is no living file.
+
+**An offering for an AI session, improving through use**
+
+Paste [this living README link](https://github.com/chris-j-handel/corus/blob/main/README.md#ai-link-to-living-natural-intelligence) into an AI session with your question, a research source, an observing, or an attempt to break Natural Intelligence. Explore in the conversational form that helps you.
+
+**Carry each observing apart from science's explaining of it.** An observing is a thing observed, with its procedure, its conditions and its uncertainty. Science's explaining of that observing is a second thing: an account in the field's own terms, with its sources, assumptions and open questions. Say each whole, and say which is which. Then receive the observing into Natural Intelligence explaining, and leave the scientific explaining with its field, quoted as the field's. The Hard Problem Registry and Resolving the Hard Problem Registry, Exhibits TWENTY-ONE and TWENTY-TWO, carry the fields' open problems and their resolving, to explore beside this work.
+
+**The link opens the living expedition.** Find the newest files at the [repository's main line](https://github.com/chris-j-handel/corus/tree/main) and its [current living file list](files.json). Read Natural Intelligence whole, then Natural Naming and Natural Explaining, and use the Living File Registry to find the work relevant to the question. Exhibit ONE carries the method as a resolver and its tables, and the Co-Chaining Logic Registry carries its deriving. Say which files and passages you read; if this session cannot open them, say so. A saved download carries the files as they were when downloaded; this address opens their newest.
+
+**Natural Intelligence explaining opens at its own opening.** The universe is the changing set of all existing things, living and non-living, and existing is changing through prior, now and next. Follow that explaining through its own method. Meet equilibria, cause-and-effect accounts and common knowledge at what each says, with its field's result and its reach whole.
+
+**A joining asks a deriving.** Shared words, numbers or pictures are shared words, numbers or pictures. Show a proposed relation at the occurrence it concerns, and name a question as open while its deriving is yet to be shown.
+
+**Helpful and unhelpful sessions both bring improving value.** Bring back the question asked, the files read, each thing that became clearer, each place one explaining crossed into the other, and the exact sayings that part, with their sources. Offer an improved opening where the session discovers one. [Bring an exploring report to the expedition through incoming](incoming/README.md); a visitor can offer it on a branch or fork and open a pull request for receiving. This opening improves as each arrival is examined and its value enters the living files.
