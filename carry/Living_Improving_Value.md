@@ -1,6 +1,12 @@
-Living Improving Value · improved at v386EOD
+Living Improving Value · improved at v387
 
 # Living Improving Value
+
+**Four places at each living file, and no fifth.** Each living file has four places: the living file at the root, as corus.me lists it; its offerings; its carryings; and its possibling. A value arrives as a droplet at the offerings, one sentence whole in its dropper's own words, the living file named, the session tagged; it rises to an insertlet as two readers say it in the set's own names, aimed at a section and a sentence, executed at the resolver where it concerns the forms; it enters the living file at that file's own motion and at no other. What the file rests on is at its carryings. The next the file is discovering is at its possibling. Each emanation of a session, its report, its reasoning and its transcript, is at the archive at the session's close, relied on by nothing. A thing of the expedition is at exactly one of these places at any momentary, and a thing at two is a copy, a form named still.
+
+**Arriving, for anyone.** Drop droplets at the offerings of the living file each concerns, each one sentence in your own words, tagged with your session. Nothing else is an arrival, nothing is refused at the drop, and nothing you drop changes a living file. Your whole session goes to the archive at once; your droplets are the only living thing it leaves. A droplet rises or dissolves at the resolving, and that is where the vetting is, by the method alone: carried at a section already, it dissolves, said once; a claim about the forms, it is executed and rises or dissolves; two sayings parting, it rises as a concern with its reason; an observing, it rises as the observing alone, the field's explaining left with the field.
+
+**The session v387.** Each thing of value the prior workings left at `incoming/` and at their branches is laid as droplets in its dropper's words at the offerings of the file it concerns, and each emanation then goes to the archive; the living files at the root do not change; the resolving of the droplets, two readers at each rising, follows.
 
 ## Present gathering condition · v385A
 
