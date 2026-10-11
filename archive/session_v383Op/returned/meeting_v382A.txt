@@ -1,0 +1,96 @@
+1  v382A's tables, executed at Exhibit ONE's 1-co-bi-tri-offering
+
+   the local table of pass 57: carrying, offerings surfaced, changing shared, carrying chained
+     carrying +  offered +         shared 0  chained +   as said
+     carrying +  offered -         shared -  chained -   as said
+     carrying +  offered +,-       shared -  chained -   as said
+     carrying +  offered none      shared -  chained -   as said
+     carrying -  offered -         shared 0  chained -   as said
+     carrying -  offered +         shared +  chained +   as said
+     carrying -  offered +,-       shared +  chained +   as said
+     carrying -  offered none      shared +  chained +   as said
+   rows as v382A read them: 8 of 8
+
+   all or none beside the sign of a sum, pass 58, and a 0 offered alone, pass 57
+     offered +,+       surfaced +  (said + )   the sign of the sum would be +
+     offered +,-       surfaced 0  (said 0 )   the sign of the sum would be 0
+     offered +,+,-     surfaced 0  (said 0 )   the sign of the sum would be +
+     offered -,-,+     surfaced 0  (said 0 )   the sign of the sum would be -
+     carrying +, a 0 offered alone: shared - chained -; nothing offered: shared - chained -; the same: True
+     carrying -, a 0 offered alone: shared + chained +; nothing offered: shared + chained +; the same: True
+
+   the five-parity rows of pass 56, two selves coupled both ways, none offered from beyond the two:
+   at each of the four openings, each entry from the third: is the self's next the other's prior inverted, also where its own now is kept
+     next the other's prior inverted: 304 of 304 entries; entries where its own now is kept: 76, and of those the other's prior inverted: 76
+
+2  Whose prior the next inverts
+
+   one other releasing to each self, every opening, each entry from the third, stepped together
+   (two selves coupled both ways are the spiral of 2)
+                           openings   entries   the other's prior inverted   its own prior inverted   its own now inverted
+   spiral of 1                    2        76                           76                       76                     38
+   spiral of 2                    4       304                          304                      152                    228
+   spiral of 3                    8       912                          912                      456                    684
+   spiral of 4                   16      2432                         2432                     1216                   1824
+   spiral of 5                   32      6080                         6080                     3040                   4560
+   spiral of 6                   64     14592                        14592                     7296                  10944
+   spiral of 7                  128     34048                        34048                    17024                  25536
+   joins drawn among 5 to 8 selves, 101 societies, the selves one other releases to, 32 openings each:
+                                       245632                       245632
+
+   what a self's next is a way of: the forms met, and how many of them are met at both nexts
+   (the last column is the cell as it is written, and is at both at none by that; the first three are what is run)
+                          the others' priors           their priors, its own now    their priors, its now and prior    their priors and nows, its own now
+   spiral of 2            2 forms, 0 at both           4 forms, 0 at both           6 forms, 0 at both                 6 forms, 0 at both
+   spiral of 5            2 forms, 0 at both           4 forms, 0 at both           6 forms, 0 at both                 6 forms, 0 at both
+   torus 2 by 3           3 forms, 1 at both           6 forms, 2 at both           8 forms, 2 at both                 14 forms, 0 at both
+   torus 3 by 3           3 forms, 1 at both           6 forms, 2 at both           8 forms, 2 at both                 14 forms, 0 at both
+   torus 3 by 4           3 forms, 1 at both           6 forms, 2 at both           8 forms, 2 at both                 14 forms, 0 at both
+   spirals of 3 and 4 cro 5 forms, 1 at both           10 forms, 2 at both          14 forms, 2 at both                22 forms, 0 at both
+
+3  The offerings at one sharing: every rule from one to four offerings, each + or -, to +, - or 0
+   A rule here is of the offerings and names no offerer; a rule of who offers is a selecting, and is not counted.
+   rules: 4782969
+   no total, one more of a parity already offered changing nothing:      27
+   the between a nothing, one offering alone arriving as it is:           531441
+   neither parity named over the other:                                   729
+   no total and the between a nothing: 3;  no total and neither named: 3;  the between and neither named: 243
+   the three together: 1
+     what is left: agreeing, that parity; parting, 0: Exhibit ONE's surfacing
+
+4  The cell: a carrying of + meeting a match, a mismatch, parting offerings or none; its carrying next, kept or inverted,
+   and what it shares, +, - or 0; a carrying of - the same with each parity inverted. Cells: 6 * 6 * 6 * 6.
+   the cell written here as Exhibit ONE's, at each carrying and each offering of none to three: the same as Exhibit ONE's: True
+   cells: 1296
+   the living step at one other, the next the other's prior inverted, spirals of 2 to 5, every opening: 96
+   a sharing a changing shared, the new parity where the carrying changed and 0 where it did not:       16
+   both: 2
+     match: kept, shares 0, mismatch: inverted, shares -, parting: kept, shares 0, none: inverted, shares -
+     match: kept, shares 0, mismatch: inverted, shares -, parting: inverted, shares -, none: inverted, shares -   <- Exhibit ONE's
+   the living step at one other, and no self at one parity from some momentary on:
+     at torus 3 by 3:                           68 left, Exhibit ONE's among them: True
+     at torus 2 by 3:                           50 left, Exhibit ONE's among them: True
+     at two lone selves releasing to a third:   24 left, Exhibit ONE's among them: True
+     at spirals of 3 and 4 crossed:             22 left, Exhibit ONE's among them: True
+     at spirals of 2 and 3 crossed:             22 left, Exhibit ONE's among them: True
+     those 22 cells differ in what a self carries, at these societies, as 10
+   the three together: 1, Exhibit ONE's
+   each alone and each two: the living step 96; a sharing a changing shared 16; no self still at the five 328;
+     the living step and the sharing 2; the living step and no self still 22; the sharing and no self still 3
+   the other of the two, a carrying kept at parting offerings, leaves a self still at: two lone selves releasing to a third; spirals of 3 and 4 crossed; spirals of 2 and 3 crossed
+   Exhibit ONE's cell leaves a self still at: none of the five
+
+5  No self still: the most entries in sequence a self carries one parity, beside how many release to it
+   The reason, at the cell: a self shares its new parity where it changed and 0 where it did not, so the parities one
+   self shares, in sequence, are +, -, +, -. A self kept at c is offered c, and no -c, at that entry. Each other can
+   offer c once; the next parity it shares is -c. So a self with k others releasing to it is kept at most k entries in
+   sequence. It leans on: nothing waiting at the opening; nothing offered from beyond the k; each sharing taken once,
+   in the order released, at the next entry of the self it is released to. With offerings laid waiting it does not hold.
+   together:
+     others releasing to a self:              0    1    2    3    4    5    6
+     most entries in sequence at one parity:   1    2    2    2    2    2    2
+     selves past k entries kept, k + 1 at one parity: 0
+   each self entered in an order drawn:
+     others releasing to a self:              0    1    2    3    4    5    6
+     most entries in sequence at one parity:   1    2    3    4    5    5    4
+     selves past k entries kept, k + 1 at one parity: 0

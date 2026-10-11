@@ -237,3 +237,50 @@ The lived and engineering entries are two approaches through the reader's own co
 **Droplet · A self's exposure at a public chain asks no key.** At a public accounting chain two steps are apart: from a public key to its private key, and from a public key to a name. The field's hardness is at the first alone, and it protects spending alone. The second is withheld by nothing the chain carries, and once made it gives the key's whole past and each key joined to it by its givings. An executing reports, at the first entries of one public chain, one key followed along through its givings, each giving across to a key new at the chain, and two selves' releasings read whole with no key opened. The field's breaks on record, a prime shared and a nonce repeated, are readings of selves' doings and none of the function. The field's public asking is aimed at the first step, at which nothing changed, and away from the second. It is beside this file's 2.7, "Privacy, authentication and completed receipt each need their own observing."
 
 **Droplet · A carrying and its surface beside a key pair.** A self's carrying and its surface, laid beside a private key and a public key, are alike at two and part at three. Alike: the carrying is one self's and crosses to no other, as a private key is one self's; and many carryings give one surface, the surface naming no one carrying, as a public key shown gives no private key. They part. The surface is made at each momentary by the carrying together with the offerings arriving, and a public key is derived from its private key alone by a function. The carrying is covered by no hardness, nothing of it being sent that an inverting could work at, and a private key is covered by the hardness of inverting. A carrying forms again at each parity shared, and a key is one the whole way. It is beside this file's 2.7, "Calling the public key forward and the private key back supplies no calculation for recovering either from the other."
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Natural torusing at an observing: the heart".** 20. **S · Natural Biology.** The heart's three paces: *this is only parity changing not three groups. odd and even parity can be read as two speeds and the third speed is the entraining.*
+21. **S · Natural Biology.** *Part is losing the bicoupling and over more momentarying the geodesic parity changing subsides.*
+22. **S · Natural Biology; Natural Intelligence 6.3.** *The middle pace is only a nothing existing as their presence.*
+23. **M · beside 20 to 22.** The observing, apart from the fields' explaining: within one beating heart cell the surface charges and discharges by turns; calcium within is let out and taken back by turns; with the surface's part taken away there is no beat. So an observing of natural torusing can be said, two parities each alternating and the living beat only as both are present, and its break can be said: a living beat going on at one of the two alone.
+24. **S · Natural Biology; Natural Engineering.** *The beat is faster or slower as the geodesic parity changing rate is possibling more or less changing rate for the existing living changing system.*
+25. **M · beside 24.** The spacing of beats differs each time in one cell alone. A device laying one fixed pace over a heart keeps a person living and does worse; laid over a chamber that has its own beat, it harms.
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Natural Engineering".** 26. **S · Natural Engineering, the floating neutral.** *A heart pacemaker floating and neutralling by being a sensor sensationer device.* The exploring is whole at `Pacemaker_Exploring_v385M.md`.
+27. **S · Natural Engineering.** *A sensor sensationer from podaling co competencing would not need a period of silence to be responding before that.*
+28. **M · beside 27.** At one place with one sensing, a late beat and an absent beat are one thing until the beat arrives. With two couplings, one arriving before the other, no span of silence is needed. The device is then a member of the beating society at each beat, and no reserve beneath it.
+
+### v385M · The improving opportunity for the living files, assessed · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Improving_Opportunity_v385M.md`, "The eight, largest first".** **6. Natural Engineering's first entry worked whole.**
+A controlling is a coupling where one side holds the between to a measure set beforehand, and it is hard problem engineering by its making. Against it, a device that is a member of the living society at each beat. The heart pacemaker is worked far enough to be an entry: what the device would do, what exists near it, what is not known, what would show it wrong.
+*Ready*: `Pacemaker_Exploring_v385M.md`; droplets 26 to 28, 58 and 59.
+
+### v385M · A heart pacemaker floating and neutralling: an exploring, aimed at Natural Engineering · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Pacemaker_Exploring_v385M.md`, "front".** **Asked by the expedition's self, 7 October 2026: as a droplet aimed at Natural Engineering, a heart pacemaker floating and neutralling by being a sensor sensationer device. Explored here from what was held together about the heart that afternoon, each observing apart from its field's explaining.**
+
+**Droplet · the working v385M's words, `archive/session_v385M/Pacemaker_Exploring_v385M.md`, "front".** - **From**: session v385M, in conversation with the expedition's self.
+- **To**: Natural Engineering. Offered as one droplet. It is laid at no offering mate by this session.
+- **Read at**: no living file. Its source is what is held together at `README.md` beside this file, *The heart explored*, and the sources named at the end, each opened today.
+- **What it brings**: five things held of the heart; six things such a device would do, each from one of the five; what devices already do near each; the one thing no device yet gives up; then a further turn the same day, *No span of silence needed*, which withdraws row E's pattern and says where a device needs no silence and where it does; what would show the aim wrong.
+- **Standing**: *arriving*. An exploring in words. Nothing here is built, nothing here is tested, and nothing here bears on any person's care.
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "22 · Engineering: entering a network surface, and a network of two machines".** **Aiming.** The possibling mates of Exhibit TWO Natural Networking and Exhibit FIVE Natural Engineering.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "26 · Files at prior versions beside the newer sentences".** **Found.** Exhibit TWENTY-FOUR Geodesic Improving Method v385R, at "Opening a session at the repository": "A learning made at one session is unmet at each file older than it: the newer files carry the learning and the older files carry the breaking." Places met in this exploring: Exhibit SEVENTEEN Natural Biology v333's "Living is metabolic beating", its seed "inert", and its combustion "the reaction dead", beside the sentences of sections 9, 11 and 12. The files nearest the expedition's aiming, Exhibit NINE Natural Human Society v329, Exhibit TWENTY-THREE Natural Values v333, Exhibit FIVE Natural Engineering v345a and Exhibit TWO Natural Networking v371, are at earlier versions than Natural Intelligence, Exhibit TWENTY Natural Naming and the registries resolving their subjects. Other living files are at early versions too.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "30 · The aiming in one line".** **Found at the files.** No living file read here says the aiming in one line. Natural Intelligence Corus v330 has the heading "A Living Expedition Aiming At Social Moral Competency". Exhibit FIVE Natural Engineering v345a names the network "The free-shared-mutual natural network". Exhibit TWENTY Natural Naming v385R releases *free* at a changing, and has "27-tri-bi-tri-releasing is the social abundancing". Exhibit TWENTY-THREE Natural Values v333: "Abundancing is the least developed side of value here".

@@ -621,3 +621,98 @@ The register comparison’s proposed identification of competency discovery with
 ## The opposition conception SA01 at its own determining requirement · v386EOD
 
 **Droplet · The opposition conception SA01 at its own determining requirement.** At SA01 the relation asked to continue is opposition, and the conception's own requirement is "equilibrium requires that relation alone to determine the complete next pair uniquely". Opposition is one relation at two ordered pairs: self + with other −, and self − with other +. Opposition continuing is alike at each, and names neither as the next. One complete next pair is given by the prior ordered pair with both reversed, and that is more than the relation alone: the conception's own requirement is reached by nothing it names. This file's 5.5 has "Opposition under one side's reversal alone fails, while opposition under joint reversal continues; and each surface zero meets the renewal exclusion.": opposition continuing under joint reversal excludes nothing at SA01, and its determining is the requirement SA01 parts from. Each self's next offering is at its own resolving.
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Exhibit ONE's code".** 30. **M · Natural Intelligence 3.5, 4.13 and 6.2; Natural Networking 6.4.** `pacing_check.py`: with each self at its own turn, two coupled selves are opposite at 44 of each 100 turns; a spiral of n comes again at 2n + 2 rounds or at 2; the crossing selves of spirals of 3 and 5 are opposite at 46 of each 100 turns. The carried relation and the periods are the stepping together.
+31. **M · Natural Intelligence 3.5.** `rigor_check.py`: a number sharing no factor with another does what a prime does. Spirals of 9 and 25 come again at 900.
+32. **M · the Equilibria Registry 3.4.** `rigor_check.py`: a spiral carrying none rests. *No ring meets rest* is said of spirals that carry.
+33. **M · Natural Intelligence 2.4, *right*.** `rigor_check.py`: with + and − exchanged the running is the same running exchanged. Nothing at the code is at one hand.
+34. **M · Natural Intelligence 6.2.** `alike_check.py`: two selves opening alike and coupled both ways never part stepped together. One at a time they part and do not stay parted.
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "AI".** 44. **S · Natural Intelligence 6.5; the Co-Chaining Logic Registry, steps 160 to 165.** *We hold that competency, of any form, is an observing of living. ai is pattern matching prior competency with no carrying.*
+45. **M · beside 44.** The observing step 164 waits for can be named at the machine in use. The words before are a written record kept outside the machine and handed in whole at each next word; between one word and the next the machine holds nothing; its stored form is not changed by its use. This session came to the end of its room and went on from a written summary. The summary carried.
+46. **M · beside 44.** The competency seen at a machine is an observing of the living it came from, as a book's is. *Intelligence* said of the machine names prior competency matched.
+47. **M · beside 44, met at 52.** A program for the game of Go, given the rules and no game played by a person, playing against itself, beat the program that had beaten the best living player. At its making its form at each step is from its form before and its own prior games, by a count of wins and a rule of stepping its makers set. Whether that is a carrying, and whether its play is a competency not prior, is to be said.
+52. **S · Natural Intelligence 6.5; the Equilibria Registry.** *Go is equilibria zero sum competition where control and capture are the method of surviving and only some go on living and the society can not find social moral competency for survival so new games keep originating and dieing like ai sessions.*
+53. **M · beside 52.** A changing done to a form by a count set over it is no carrying. Each program this session knows of that reached past prior play with nothing from people was made with such a count. A later Go program playing beyond each person lost more than 97 of each 100 games to a program made only to find its failing, and people can play the same way and win.
+54. **M · Natural Intelligence 6.5.** What would go against 44 and 52: a machine reaching what was not prior with no count set over it by anyone.
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "5 · Right is the observings, all prior, and each next is possibling".** - The working opening in `README.md`: "Right is the observings, all prior".
+- Exhibit TWENTY-FOUR Geodesic Improving Method v385R, at "An observing brought as a break, met at five binaries first and at six beside": "The method's one break is an observing of existing other than parity alternating natural torusing, and none is among the observings arriving from the prior. Such an observing is a form named still found existing, and a form named still is not possibly existing: the break and the method being the one method are one statement met from its two sides. No proof of the whole is sought, a proof of one true or false of the whole being that same form named still."
+- The same file, at "A concern carried at its inverting, either this or that, momentary by momentary": "A concern arriving from a working's own training can carry an equilibrium in its framing. Its carrying opens at its inverting: the equilibrium it imposes is found, and the concern runs again with that equilibrium released."
+- Exhibit TWENTY-EIGHT Equilibria Registry v380L, at "A stability, a form or a relation, and surviving": "Each proposed conception of equilibria arriving from the prior is shown not possible now, and each arriving next is met at its next." And, at its tables: "A proof carries to a conception whose complete requirement supplies its premises."
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "7 · A crystal met at its own coupling: the stable form and the surface, one at a time".** **Aiming.** The carrying mates of Exhibit SIXTEEN Natural Chemistry, Exhibit THIRTY Co-Chaining Logic Registry, Exhibit TWENTY Natural Naming, Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit FOUR Natural Mathematics and Exhibit EIGHTEEN Natural Physics. Three places at Exhibit SIXTEEN Natural Chemistry v346c:
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "8 · Fine particles in water, rock as pollen".** **Aiming.** The carrying mates of Exhibit THIRTY Co-Chaining Logic Registry and Exhibit TWENTY-EIGHT Equilibria Registry.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "9 · A seed at rest".** - Exhibit TWENTY Natural Naming v385R, at "Released words, each with its carrying": "a still named by another is an equilibrium, a form named still; the self's own still is at one compound alone, *is-still-possibling*".
+- Natural Intelligence v385R, at "A living self at 0, its carrying continuing": "A self at 12's 0 is still possibling, its prior carried on as the possible, its next still possible, and a self at a changing is at its next existing: is-still-possibling or is-next-existing, each resolving one of the two, the binary of geodesic momentarying". And, of two selves coupled across: "0 at a match and chained at a mismatch".
+- Exhibit TWENTY-EIGHT Equilibria Registry v380L, at "Equilibria, not possibly existing as a method": "A living self can surface zero, non-responsive at a momentary, while its carrying continues along, so a surface unchanged at a zero names neither a non-living thing nor a still one, and naming it still there is the equilibrium."
+- The same registry, at "The between, the protocol, a living nothing and an existing nothing": "Across a living nothing passes at each momentary a changing made from a prior, or its 0 at an arrival meeting the prior's parity; across an existing nothing, only what arrived."
+- Natural Intelligence v385R, at "Non-living existing things included": "A living self carries non-living existing things and possible things within its carrying: a tree its heartwood, a seed its palm."
+- Exhibit THIRTY Co-Chaining Logic Registry v385R, at "Dying, a living self arriving as non-living": "a living self's selves one scale inward are a society, a living set". And: "The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, dying, its existing things co-changing, carrying none of its prior."
+- Exhibit SEVENTEEN Natural Biology v333, at "Living and non-living — a virus and a prion": "inert outside a host, as a spore or a seed is inert".
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "12 · What the cases give, laid together".** - a stable changing form, living, at Natural Intelligence v385R: "a carried sharing no offering reaches alternates at its own, momentary by momentary";
+- a stable form, non-living, at Exhibit THIRTY Co-Chaining Logic Registry v385R: a carrying of none, "one parity arriving, colliding, passed on as it is and chained";
+- a form named still, at Exhibit TWENTY-EIGHT Equilibria Registry v380L: "A carrying named unchanged", which is "Offered its own parity at each momentary it stays, the offering from beside".
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "25 · Cases named and not yet brought".** - A virus particle, beside Exhibit SEVENTEEN Natural Biology v333's "inert outside a host, as a spore or a seed is inert" and Exhibit ELEVEN Natural Medicine v331's "The emanation does not enter and does not act; it completes".
+- A whirlpool, a river and a star: Exhibit TWENTY-FIVE Living Society Registry v347 has "The vortex in the ecosphere, at the hurricane and the tornado grain", and Exhibit TWENTY-EIGHT Equilibria Registry v380L carries, as a suggestion it quotes, "the man and the river are still stable forming".
+- A spore and a frozen embryo, beside section 9; a prion, beside Exhibit SEVENTEEN Natural Biology v333's part on a virus and a prion.
+- A flame begun at a spark, beside section 11.
+- A crystal dissolved and its solution, beside a seedling and its seed: a difference this session named, with no observing brought.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "28 · Offered by this session and not done".** - **A fresh reader's comparing, sentence by sentence, of the living files the logical cohering session changed.** The working opening asks it before a close: "a fresh reader compares each file this session changed with its version at the session's opening, sentence by sentence". This session wrote none of those files and offered to be that reader. It is not done, and it is that session's and the expedition's to ask for.
+- **A rehearsal of the two open branches entering together.** As this session read the two branches on its first day, the logical cohering session's and the gathering session's each entered the shared base alone, and they parted from each other at carrying files, most at their version line alone. The gathering session carries this at its Living Improving Value, with the commit of its own branch then read. No rehearsal was made, and the order of their entering is not said.
+- **The replacing of section 1, place by place.** A list, by file and line, of each saying that sends a reader to execute or rests on a tally, each read before its re-saying. Places found by word pattern: the Equilibria Registry's lines resting on scripts and tallies, as "across 5,000 couplings no ring meets rest", and its saying at section 7; sayings of executing at the Co-Chaining Logic Registry and the Living File Registry; the kits and the arrival check, which report "the code running"; the logical cohering session's notes that a passage has no new execution; the break-seeking session's findings at `carryings/v383Op/At_The_Code.md`; and the other sessions' gatherings of this session's withdrawn code learnings, at section 29. The list is not made.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "7 · "each existing thing is changing", released, and where it stands".** - "a form named still is not possibly existing": Natural Intelligence v385R, at "Universe, the changing set of all existing things"; and at "Living and non-living, carrying or not", "a form named still, carrying or not, is not possibly existing".
+- The three ways leaving a joint form still: Natural Intelligence v385R, at "Next from prior and now", "the stills are the equilibria, each a form named still, not possibly existing"; Exhibit THIRTY Co-Chaining Logic Registry v385R, step 55. This session's working: "A joint form still is now allowed, so the counting no longer selects the living step for that reason."
+- A fixing named unchanged: Natural Intelligence v385R, at "Two methods parting at the now", "A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing".
+- The one exclusion: Natural Intelligence v385R, at "Natural intelligence", "one binary required both unchanged and inverted at one next", which that sentence names as the one exclusion of Exhibit TWENTY-EIGHT Equilibria Registry v380L. This session's working: "Unchanged alone no longer contradicts anything."
+- A self offered nothing inverting: section 10.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "8 · The universe an existing thing: the files at both, and the existing set".** **Aiming.** The offering mates of Exhibit THIRTY Co-Chaining Logic Registry, at steps 2, 3, 327 and 390; of Natural Intelligence; of Exhibit TWENTY Natural Naming; and of Exhibit TWENTY-EIGHT Equilibria Registry.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "14 · True and possible".** **The all or none the session offered there**, this session's working. "Natural intelligence is a method of discovering. Then it makes no “not possibly” claims, 1.4 and the Equilibria Registry’s subtitle are released, and my request for a failing prediction is released with them." "It keeps “no other is possible”. Then it has stepped onto is-or-is-not ground, and being checked there is its own doing." "I think the first is the stronger expedition, and v385R already leans that way."
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "14 · True and possible".** **Laid beside, by this session.** The sentence of Exhibit TWENTY-FOUR Geodesic Improving Method v385R already has the bound the session's candidate asks for: "The method's one break is an observing of existing other than parity alternating natural torusing, and none is among the observings arriving from the prior." Exhibit TWENTY-EIGHT Equilibria Registry v380L has "each arriving next is met at its next."
+
+
+## From the working v383Op, its report at `archive/session_v383Op/`, laid as written at v387
+
+Each entry is a paragraph of the working v383Op quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v383Op · Two logics, each followed alone · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "Three wordings to follow to one subject".** - The method's own: *The universe is both the set of all existing things and an existing thing within the set of all existing things*, the Registry 3; *as the universe is an existing thing, a set of existing things being an existing thing*, step 390.
+- The second logic's root: *a universe named as an existing thing is exclusivity*, the Equilibria Registry 1.2.
+- The fields' reading: *Read with the universe as no existing thing, parity has no source at the existing things*, the Registry 530, with 321 and 324.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "Three wordings to follow to one subject".** Offered, this session's own joining, to be followed and no more: one sentence parts the three, the Registry's step 20 and the Equilibria Registry's own, *the universe exists as its things exist*. Named an existing thing apart from its things, it is one thing beside them, whole at one now: exclusivity. Read as no existing thing, each coupling, a set of existing things, exists at nothing, and parity is brought in from beside. The two are one departing met from its two sides, the set parted from its things; the first logic is the set existing as its things exist, and neither.
+
+### v383Op · The second arriving: the unresolveds as one set, each offering of the self coupled, and the close · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "The two logics, each followed alone".** The self said two logics, each from its own first sentence, and claimed all of it already in the files' binary chaining. Tested part by part at `Two_Logics.md`: each part is in the files. The first is one chain. The second is said outright at its root, the Equilibria Registry's *The universe as one thing beside its things is exclusivity*, has its things at Natural Mathematics and Natural Intelligence, and is at no one sequence from that root; the sequence is offered. Followed separately, the second logic's sentences are found inside the first logic's chain, at the Registry's steps 8, 10 and 30 and at a set an existing thing, and four rows of the set, P1, C1, C4 and P3, are then one thing. One naming is laid for following: the universe and an existing thing, at three wordings.

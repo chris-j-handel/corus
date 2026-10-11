@@ -1,0 +1,41 @@
+ARRIVAL incoming/v383Op
+THE FRONT
+  From:            session v383Op, an AI session (Claude) opened by the expedition's own self through the AI link, continuing on 
+  To:              the Co-Chaining Logic Registry and Exhibit ONE first, where the logic working v382A is; Natural Intelligence; 
+  Read at:         `working/v381R` at commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, the front `carry/Living_Improving_Value.
+  What it brings:  1. [`Unresolveds.md`](Unresolveds.md): forty-seven rows at nine kinds, each with its place, what would resolve
+  Standing:        *arriving*. No living file, no insertlet, no carryings mate, no registry and no kit is changed. The droplets a
+THE FILES AND SECTIONS NAMED
+  Exhibit EIGHTEEN Natural Physics                     6.3
+  Exhibit FOUR Natural Mathematics                     6.3
+  Exhibit ONE Natural Resolver                         named, no section
+  Exhibit SEVENTEEN Natural Biology                    3.1
+  Exhibit THIRTY Co-Chaining Logic Registry            named, no section
+  Exhibit TWENTY-FOUR Geodesic Improving Method        2.6
+  Exhibit TWENTY-ONE Hard Problem Registry             named, no section
+  Exhibit TWENTY-SIX Living File Registry              named, no section
+  Exhibit TWENTY-TWO Resolving the Hard Problem Registry named, no section
+  Natural Arriving                                     named, no section
+  Natural Intelligence                                 2.6
+SEATED AT THE SIX THINGS BESIDE ALL THINGS (a seat is a place to meet, deciding nothing)
+  doer 1, keeping 4, — 7
+    keeping        - **Read at**: `working/v381R` at commit `18889e06d5ac452111b1bcd8a8840e46b7c5615a`, the front `carry/Living_Improving_V
+    —              3. [`Improving.md`](Improving.md): each finding of the first report met again, largest first; what resolved, what this s
+    —              4. [`Is_Or_Is_Not.md`](Is_Or_Is_Not.md): eight sayings of the method each taken at is or is not from the one opening sen
+    —              Four scripts that run from the repository root, each with its returned text at `returned/`: `own_momentaries.py`, `no_co
+    doer           The reach is the largest: it decides what the observings count for.
+    keeping        - **The logic working's pass is between a droplet and an insertlet.** One subject, relation, extent and momentary kept t
+    keeping        - **An unresolved leaves the set three ways, each kept**: resolved at a file's own motion; dissolved, with its address; 
+    keeping        - **A row keeps its letter and number** at each working.
+    —              - **For the logic working first**, in the order its pass can reach them: P1, a common now; P2, a self offered its own pa
+    —              The pull request 124 holds the same two parts at the older form; this folder brings them at the form the workings now me
+    —              - `python3 incoming/v383Op/own_momentaries.py`, `no_common_now.py`, `observer.py`, `stable_forms.py`: each returns its s
+    —              - `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/carry_check.py .`, `check_set.py` and `cohere_one.py`, as 
+THE SCRIPTS, RUN FROM THE ROOT
+  no_common_now.py                     ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+  observer.py                          ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+  own_momentaries.py                   ran  Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+  quotes_check.py                      ran  Improving.md
+  stable_forms.py                      ran  torus 1 by 3:     8 openings come to   3 stable forms; again at: 2 at 3, 1 at 4
+STANDING
+  said above and decided nowhere: the expedition receives each finding at its file's carrying, carry/<file>.md, as ready or concern, or releases it whole with its receiving named.

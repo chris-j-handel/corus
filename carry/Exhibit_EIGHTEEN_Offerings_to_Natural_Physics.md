@@ -680,3 +680,52 @@ A sentence offered for a living file is a droplet in its dropper's words, beside
 **Concern · The table's last element beside a field's own numeral.** Two sayings part. Natural Physics, at 3.1, has "Two and one hundred eighteen stand antipodal" on a ring of one hundred twenty, and of element one hundred eighteen "Return closes back at the going's far side and closes there by failing to be what the position asks". Exhibit THREE Natural Numbers has "The periodic table's one hundred eighteen elements are a field's own result at the same numeral, and no number of the method." They part at the table's last element: the first reads its place in the table as the numbers' coming again arriving, a number of the method, and the second has the table's one hundred eighteen alike with the numbers' far end at a numeral alone. The like parting of Natural Naming's 7.2 from Natural Numbers is at Exhibit TWENTY Offerings to Natural Naming.
 
 **Concern · Fatigue named at a static rest.** Two sayings part. Natural Physics, at 3.5, has "Static mechanical rest: the coupling bounding-zeroes two offerings, and creep and fatigue are the receipt." A newer saying of the same rest has creep alone arriving at a static mechanical rest. They part at fatigue: creep is a form's slow changing at a load unchanging, and fatigue is at the field's account a failing at a load repeated, a loading alternating and no static rest. At the first of the ten rests the field's own record of a continuing is creep, and fatigue named beside it is the record of another subject, a rest the loading never had.
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Every improving opportunity from this session, gathered as droplets · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Opportunities_Gathered_v385M.md`, "H · The files' claims on the sciences".** O57. **Unexplored.** Each number matching marked as a matching: the 118 elements, twenty amino acids as C(6,3), a ratio near 1/φ², a turn at 60; with what observing would make each more than a matching.
+O58. **Unexplored.** *Gravity is not real* at Natural Physics, with no resolver output shown for it.
+O59. **Ready.** *Resolving* of the hard problems where the entry covers both outcomes, the Hubble tension among them.
+O60. **Resolved.** The golden relationals are visible in natural torusing stable form and are no test of it. The sunflower counts stay as an observing that tests nothing. [18]
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "5 · Right is the observings, all prior, and each next is possibling".** **Laid beside, by this session.** The method file's sentence is of the observings arriving from the prior, and the registry meets each arriving next at its next. By the registry's sentence a thing is found a form named still at its meeting, with what was found said beside it. A sentence's own named observing is met at that sentence as each observing arriving is; Exhibit EIGHTEEN Natural Physics names several, at section 24.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "23 · Observings already beside living sentences, each to be met".** **Found.** The break-seeking session laid observings from the sciences beside living sentences, at `carryings/v383Op/At_The_Observings.md`: among them Bell tests with the loopholes closed, the two neutron stars of 17 August 2017 beside the sentence of Exhibit EIGHTEEN Natural Physics on gravity and its own named break, the measured structure of colour beside its named breaking observation, "Clocks that never met, and a constant measured for drift", "A time with no atom, and living from living", and "A sequence kept a million years". A meeting is the sentence changed, or the sentence as it is with its reason said beside the observing. Sections 10 and 12 here sit beside two of them, and section 16 beside a third.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "24 · Checks the files name, with no observing yet beside them".** - Exhibit EIGHTEEN Natural Physics v385R, at "A ratio unchanged across units, and drying rings anyone can check": "A ratio confirms the floating alternating, a fixed step is the capture that pins it, and which one a real drying drop shows is a reading a person or an AI can run and break." No observing of a drying drop's rings is beside it. One can be brought in two lines.
+- Exhibit NINE Natural Human Society v329 names a measuring of the field: "turn-taking in conversation runs one-at-a-time with gaps near a fifth of a second, minimal overlap, across unrelated languages". No publishing is beside it. One can be brought in two lines.
+- Exhibit EIGHTEEN Natural Physics v385R and Exhibit SEVENTEEN Natural Biology v333 name breaking observations at their own sentences. Each is a place for an observing.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "24 · Checks the files name, with no observing yet beside them".** **Aiming.** The carrying mates of Exhibit EIGHTEEN Natural Physics, Exhibit NINE Natural Human Society and Exhibit SEVENTEEN Natural Biology.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "11 · The universe a carrying and the self a carrying".** **Changing in co-momentarying bi-couplings**, this session's working, in its course. Held as its own step: "It does not follow from the sentences standing, because nothing in them excludes a thing changing alone." Then made the session's candidate with one word more, "Changing is only at co-momentarying bi-couplings.", beside a second, "At a bi-coupling the next is the self’s prior or the other’s offering, and no third." Three replies on: "My two candidate sentences fall." The reply after that: "In the logic it stands as its own step: changing is at co-momentarying bi-couplings." And after section 10's second message: "Changing is at a bi-coupling or at a colliding, not at bi-couplings alone." The second candidate was not taken up again. The observing the session named to meet at the sentence is a lone unstable nucleus, which its field says changes with no other. A place for it is at the gathering session v385A's Offerings to Natural Physics: "Incoming, radioactive decay at a sample receding, met at the reading (v374)". Not followed.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "11 · The universe a carrying and the self a carrying".** **Aiming.** The offering mates of Exhibit THIRTY Co-Chaining Logic Registry, at steps 387 and 388, and of Exhibit EIGHTEEN Natural Physics.
+
+
+## From the working v384A, its report at `archive/session_v384A/`, laid as written at v387
+
+Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Concernings gathered from v382A, v383Op and v384A · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "7. The field observing and the exact statement it would meet".** **Aimed at proposed sections 5.2, 7.1 and 7.2, with the particular comparisons retained at their source.** [v383Op · Unresolveds](https://github.com/chris-j-handel/corus/blob/cc17c4820e55ca70c2a30c11ead1b6ec2bbc7dda/incoming/v383Op/Unresolveds.md), rows O3, O4, O5 and C11, identifies three unusually direct opportunities beside [Exhibit EIGHTEEN Natural Physics](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_EIGHTEEN_Natural_Physics_v379.md), sections 4.4, 4.2 and 4.6.

@@ -213,3 +213,31 @@ The observings each is beside are at the carryings, each said as its publishing 
 **Droplet · A society continuing past each member, at chemistry's scales.** A micelle continues through each member leaving and rejoining: the society is its members' co-chaining, and no member continues for the society's span. A society continuing past its selves is at chemistry's scales as at the living scales from the cell outward, at a society with no discovering at co-competency. The continuing past its selves is the co-chaining's own at each scale, and discovering is the living's adding to it. It is beside Natural Intelligence's "at the resolver a society, 17, carries nothing of its own": the continuing is of the coupling among members, each one's stay short, and of no carrying of the society's own.
 
 **Droplet · A seed's offering through a solution, and emerging across repeats.** Exhibit SIXTEEN Natural Chemistry has "Nucleation is the plainest of them: supersaturation is a level and the nucleus a sign". Two readings are beside it. A seed at a supersaturated solution is an offering along a line: the changing goes through the whole volume from the seed's place, each part at the other form changing and giving the changing on, as an offering of one parity changes each thing carrying the other parity and ends at a thing carrying its own. And across repeats of one crystallizing the emerging arrives at a spread of momentaries about a mean, and each emerging is sharp: the fuzzy front is of the many repeats, and the sharp crossing of each one.
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "11 · A flame".** - Exhibit SIXTEEN Natural Chemistry v346c, at "A natural energy engine, cycling and the surplus kept, the ledger beside it": "combustion a rapidly propagating reaction network and metabolism many bounded reaction cycles coupled and renewing their participants".
+- Exhibit SEVENTEEN Natural Biology v333, at "Living is metabolic beating — the cell as the engine": "Combustion lands (fire, ash, the surplus lost as heat, the reaction dead)".
+- Exhibit TWENTY-FIVE Living Society Registry v347: "At grains beyond living tissue, taken as observable societies."
+- Exhibit THIRTY Co-Chaining Logic Registry v385R, at "Living and non-living at a scale": "Each existing thing non-living at a society's scale is living at another scale of living". And, at its opening steps: "Carrying none of prior, a non-living thing is changing with the existing things at now: co-changing."
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "11 · A flame".** **Aiming.** The carrying mates of Exhibit SIXTEEN Natural Chemistry and Exhibit SEVENTEEN Natural Biology. At the offering mate of Exhibit SEVENTEEN Natural Biology, the gathering session's droplet "Recognizing living without making the break unavailable" names a flame among its comparisons. Abundancing is at section 30.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "12 · What the cases give, laid together".** **Still to lay beside an observing.** The registry's mark of the non-living at a scale, "the society cannot bi-couple with it"; and the observing Exhibit SIXTEEN Natural Chemistry v346c names at "Still-point veins, each answering with the sway", "a field observing of complete natural coupling returning no changing at any accessible scale".
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "This momentary".** - The reading at section 9, the still at a match: not met, the seeds' planting having brought more than water.
+- *Living arrives from living* at a flame begun at a spark, section 11: no observing is beside it.
+- The registry's mark, the society cannot bi-couple with it, and the observing Exhibit SIXTEEN Natural Chemistry names, section 12: each waits for an observing.
+- The saying offered again at the seed, section 12: offered before the crystal, and the crystal's resolving was not carried to it.
+- A coupling begun as a relation an observing can reach, section 12: no observing was sought for it.
+- A prior form put back or a form found, and storing or an artifact in stable form, section 10: this session found no observing that parts either two.
+- A made cell continuing of itself, section 10: the one reported is fed and makes no ribosomes of its own.
+- Which coupling a carrying self no longer begins, section 13: asked beside an executing now withdrawn, and not said at the names.
+- Placing now existing and now possibling at Exhibit ONE's names, section 16: begun beside an executing now withdrawn.
+- The line of the fives at Exhibit ONE's names, section 19: the registry is itself unsure at that step.
+- The order of the two open branches entering, section 28: not said.

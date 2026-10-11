@@ -174,3 +174,60 @@ Hedge the file carries: "the precise band where a sway de-synchronized too far b
 Hedge the file carries: "The reachings carry, each aimed: every specific measure-as-sway seating" (5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure).
 
 The file's general hedges: none found beyond those above.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "18 · Each saying at its standing".** - That Exhibit ELEVEN Natural Medicine v331 and Exhibit TEN Natural Health v329 be taken off the site or labelled: section 19.
+- That "No other possible method" say what `incoming/v380R/The_Universal_Claim.md` says: already carried, as quoted in the table's third row.
+- That a reader from mathematics be asked. The session named the asking an equilibrium assessing in its second reply and made it again in its fourth. It is released here, at the close: it was the scientific method's standard laid over the files.
+- That one observing be named that would count against the method. The session released the field's form of it in its third reply and then named four itself, section 22. As a proposal it is released here: the files name breaks, and a page of them is already offered at the break-seeking session v383Op's row S4.
+- That the sentence on a working's own training be dropped, the opening shortened, and the open branches merged or closed. The first is released, section 17. The second is session v381F's finding. The third is each open session's own.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "19 · The health sentences".** **Found.** The assessing called this the one thing to act on first, and the session held it through three more replies. It read Exhibit ELEVEN Natural Medicine v331 and Exhibit TEN Natural Health v329 through a reader's digest. The assessing said the two files describe three things "as “capture”"; the break-seeking session v383Op's `Do_No_Harm.md` gives the files' word at each of the three, and *capture* is the word at one. At the close a fresh reader met at Exhibit ELEVEN Natural Medicine v331 seven sentences that `Do_No_Harm.md` reports from it, each as quoted here or there, among them the file's own bounding sentences "Which re-shapes the resolving and touches no treatment." and "How the reading and the practice meet at one substrate stands not-yet."
+
+
+## From the working v383Op, its report at `archive/session_v383Op/`, laid as written at v387
+
+Each entry is a paragraph of the working v383Op quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v383Op · The unresolveds, one orderly set · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Unresolveds.md`, "Left the set".** One binary was at hand, and it is the session's own, at Natural Health's offerings: *none of them should read as guidance*. A sentence says what a reader is to do, or it does not. This session's own part answered it before laying the row: *No sentence tells a reader to take, stop or refuse anything.* The row was laid after its own binary had come out is not.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Unresolveds.md`, "Left the set".** **Where it went.** The kind is released. What the four passages do carry, each at its own kind, each binary: O11 and O12, a field's observing beside a sentence; F4, a field's standing said otherwise. The expedition's own concern from v380L stays as gathered at Natural Health's offerings, and it is a chaining: a conclusion about a person's health or a treatment drawn from a step or a numeral, *no observing cited*. Of the sentence of HIV nothing stays: at its own place the passage says the event the field names, *the carrying stands inside a society where sequencing runs*, and the file parts itself from the denial in its own words.
+
+### v383Op · The second arriving: the unresolveds as one set, each offering of the self coupled, and the close · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "For the entry: a method advises no one".** Three droplets at Natural Arriving's offerings, for the tour the files already carry there: a method advises no one, chained at the files' own sentences and executed as a scan of Natural Medicine and Natural Health, `advising_scan.py`; what an AI session carries in, said from the two rows released; and each open thing of the set as a droplet for the tour, explored one at a time with the self.
+
+
+## From the working v382A, its report at `archive/session_v382A/`, laid as written at v387
+
+Each entry is a paragraph of the working v382A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Natural Health, Natural Biology and Natural Medicine — the logical sequence · v382A, laid at v387
+
+**Droplet · the working v382A's words, `archive/session_v382A/Health_Biology_Medicine.md`, "The passages reached".** **Whole-file reading:** [Exhibit TEN Natural Health](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TEN_Natural_Health_v329.md), all fourteen headed sections, and its [Offerings](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_TEN_Offerings_to_Natural_Health.md), read whole. This adds one complete-file record to the earlier four: five files, eighty headed sections, plus Natural Destinies' opening. A complete reading records coverage; it does not establish every assertion read.
+
+**Droplet · the working v382A's words, `archive/session_v382A/Health_Biology_Medicine.md`, "The non-living offering and the living carrying".** At Natural Biology 7.5–7.8 and Natural Health 3.3–3.4, the explaining that an emanation “lives again” can be followed through the living selves ingesting and through an additional self establishing. These participations must remain distinct in a proposed insertlet. Natural Biology's prepared 4.1 offering uses that expression beside the statement that the emanation carries nothing; the living carrying belongs with the living selves at their stated scale.
+
+**Droplet · the working v382A's words, `archive/session_v382A/Health_Biology_Medicine.md`, "The non-living offering and the living carrying".** The scale distinction is already gathered. Natural Biology 7.5 and Natural Health 3.4 allow another self across beside a scale inward, while Natural Biology 7.6 expressly says that another same-scale self is no exception. Moving to another individual does not by itself change scale. Exhibit THIRTY 403 supplies the own-scale harm and scale-inward ingesting relation; this pass does not reopen it. The v378 concern at Natural Biology's Offerings already identifies the 7.5/7.6 comparison, so no new droplet repeats it.
+
+**Droplet · the working v382A's words, `archive/session_v382A/Health_Biology_Medicine.md`, "Existing offerings met, without repeating them as discoveries".** - Natural Medicine's v378 concern and the re-settling offering already identify the old bound at 1.1 and 3.1. The re-settling offering also identifies the common summing account.
+- Natural Biology's v378 concern already identifies 7.5 beside 7.6 and 1.4's third self beside a between that is nothing. A material self at a separate scale could be followed beside the between, but the present “third self” saying does not itself supply that distinction.
+- Natural Biology's prepared 4.1 offering already distinguishes the non-living form from living carrying. Its “lives again” expression needs the distinct participations retained through the proposed improving.
+- Natural Health's Offerings already gather the opposed-ingression naming concern. Natural Medicine 1.3 and 5.1 already limit the food-cause claims. Their addresses supply the prior work.
+- v383Op's do-no-harm offering at Natural Medicine distinguishes a form-reading from a reason to alter care. The present pass reaches a particular logical dependence earlier: the old expiry operation is used to explain persistence. Follow the sentence at its living self and coupling through the supplied sequence. This pass makes no empirical finding or care recommendation.
+
+### v382A meeting the v383Op logical concerns · v382A, laid at v387
+
+**Droplet · the working v382A's words, `archive/session_v382A/Meeting_v383Op.md`, "Pass 58 — the non-living offering and the dependent biological explanations".** [The next comparison](Health_Biology_Medicine.md) follows the supplied non-living offering through living carrying and particular inward selves, then records Natural Health whole beside targeted Natural Biology and Natural Medicine passages. It retains the distinction between no further entry and an entry with none offered. No living prior is required of a non-living form, and no reverse physical route is added to the alternating relation.
+
+### v382A — incoming offering droplettings · v382A, laid at v387
+
+**Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Remaining opportunity after pass 58".** The concrete difference is at Natural Medicine 1.1's identification with the present resolver. At an actual entry, none surfacing inverts a carried parity; a match shares 0 and retains the prior. The sharing does not expire at a bound. Mixed offered parities surface 0, including two of one parity and one of the other; surfacing is not the sign of their sum. The earlier Offerings already gather both older operations. The new value is the exact present comparison and its dependence through Natural Medicine 3.1 and 5.1, Natural Health 3.4 and 4.1, and Natural Biology 7.2.

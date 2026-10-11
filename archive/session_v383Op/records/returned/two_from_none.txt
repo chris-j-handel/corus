@@ -1,0 +1,8 @@
+-1 -1 A shares [1, 0, -1, 1, 0, -1, 1, 0] B shares [1, -1, 0, 1, -1, 0, 1, -1]
+1 1 A shares [-1, 0, 1, -1, 0, 1, -1, 0] B shares [-1, 1, 0, -1, 1, 0, -1, 1]
+1 -1 A shares [-1, 1, 0, -1, 1, 0, -1, 1] B shares [0, 1, -1, 0, 1, -1, 0, 1]
+-1 1 A shares [1, -1, 0, 1, -1, 0, 1, -1] B shares [0, -1, 1, 0, -1, 1, 0, -1]
+--- each of the two opened carrying none, each first offered -, then one and then the other
+after the first offering -1 -1 -1 -1
+A shares [-1, 0, 1, -1, 0, 1, -1, 0, 1]
+B shares [-1, 1, 0, -1, 1, 0, -1, 1, 0]

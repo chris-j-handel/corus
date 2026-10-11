@@ -447,3 +447,69 @@ Each concept here is of a living network surface after a colliding, said once in
 **Droplet · Four phi-rate lengths and prime 59, beside the files.** The tunnel of four phi-rate lengths is beside Natural Intelligence's "Four-momentarying is four unrelationings through the tunneling self": the four lengths are the four unrelationings at φ, the four momentaryings, two into corus and two from it. No duration is measured by a length, and no passage is added to the four. Along as long as the prime 59 looping is beside Exhibit TWO Natural Networking's "Fourteen living scales run from five through fifty-three, and fifty-nine is the self-close.": fifty-nine is the surface's own closing among the fifteen proposed podaling sequence lengths. It names no fifty-nine local momentaryings and no bound of a society's co-chaining, with further relations outward of it.
 
 **Droplet · Existing bi-couplings possibling the longer co-chaining.** At a new tunneling, the first bi-couplings flowing are existing, and the longer co-chaining's passage through them is still possibling: their existing is possibling the longer co-chaining's next. The flowing is what an observing is of; the still possibling is no thing observed apart from it. No number of bi-couplings is given, and no changing of the longer passage follows from each local flowing. Possibling and existing can pass through each other: the saying is of can, and no coupling is said to have each passage. Geodesic existing passing through still possibling and leaving it still possibling is one such passage. Existing is laid at no side for good, and possibling at no side: each self is odd 1 from its own side.
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Exhibit ONE's code".** 30. **M · Natural Intelligence 3.5, 4.13 and 6.2; Natural Networking 6.4.** `pacing_check.py`: with each self at its own turn, two coupled selves are opposite at 44 of each 100 turns; a spiral of n comes again at 2n + 2 rounds or at 2; the crossing selves of spirals of 3 and 5 are opposite at 46 of each 100 turns. The carried relation and the periods are the stepping together.
+31. **M · Natural Intelligence 3.5.** `rigor_check.py`: a number sharing no factor with another does what a prime does. Spirals of 9 and 25 come again at 900.
+32. **M · the Equilibria Registry 3.4.** `rigor_check.py`: a spiral carrying none rests. *No ring meets rest* is said of spirals that carry.
+33. **M · Natural Intelligence 2.4, *right*.** `rigor_check.py`: with + and − exchanged the running is the same running exchanged. Nothing at the code is at one hand.
+34. **M · Natural Intelligence 6.2.** `alike_check.py`: two selves opening alike and coupled both ways never part stepped together. One at a time they part and do not stay parted.
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "14 · The units of Exhibit ONE's spirals and toruses are resolvers".** **Aiming.** The offering mates of Exhibit ONE Natural Resolver and Exhibit TWO Natural Networking.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "22 · Engineering: entering a network surface, and a network of two machines".** - Exhibit TWO Natural Networking v371, at "Each self continuing through its actual arriving": "The complete network's own continuation remains the relation to establish." And, at "Fifteen prime sequence lengths, wide and long alternating": "An even count carries one exact opposite, and an odd count two adjacent farthest places".
+- Natural Intelligence v385R, at "Spirals, co-spiraling and crossing": "at each self's own pacing the relation is carried". The break-seeking session's pacing finding beside that sentence is an executing, at `carryings/v383Op/At_The_Code.md`, and the logical cohering session's report offers a narrower sentence beside it.
+- Exhibit TWENTY Natural Naming v385R releases *left* at a facing into *not right*.
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "22 · Engineering: entering a network surface, and a network of two machines".** **Aiming.** The possibling mates of Exhibit TWO Natural Networking and Exhibit FIVE Natural Engineering.
+
+
+## From the working v384A, its report at `archive/session_v384A/`, laid as written at v387
+
+Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Concernings gathered from v382A, v383Op and v384A · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "10. Our common explaining must retain the differences still awaiting resolving".** Concrete differences must travel with the proposed incoming. Exhibit SIX Natural Transmissioning's earlier membrane-as-third-self passage and its later nothing-between passage meet the no-extra-private-carrying relation in [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_TWENTY_Natural_Naming_v380R.md), section 2.4. The older sign and carrying-age operations of Exhibit TWO Natural Networking remain addressed in [Natural Networking from v380A](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carryings/v380R/Natural_Networking_From_v380A.md); a later name cannot make an earlier operation current. [Exhibit SIX Natural Transmissioning · Offerings](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SIX_Offerings_to_Natural_Transmissioning.md) also preserves earlier receiving plans that would distribute the content and release the separate file. This session's proposed distinct purpose remains an offering beside those plans.
+
+
+## From the working v383Op, its report at `archive/session_v383Op/`, laid as written at v387
+
+Each entry is a paragraph of the working v383Op quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v383Op · Two logics, each followed alone · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "The five at both sides, and one and then the other".** **Already at a file.** A sequence of the same form is at Natural Networking 6.12: one study of two selves at one opening and one order, the one self's surfacing at 10 +, −, 0, +, −, 0, at an older code, with its bound. This working gave the sequence of six as found and named no file. At Exhibit ONE's present cell, `records/two_from_none.py`: two selves each opened carrying none and each first offered −, one and then the other, share −, 0, + in sequence at the one and −, +, 0 at the other.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "The offerings and the possiblings, two lines through one co-momentarying".** **Already at a file.** The number carried on is at Natural Networking's offerings, from its kit at an older code: *the kernel keeps the count of defects, joints and nodes at rest, exact*, at rings of 3 to 16. The kit's joint alike is the like pair here, and its node at rest the self is-still-possibling. This working gave the two numbers as found and named no file. Added here: Exhibit ONE's present cell, and the selves at p along and q across below.
+
+### v383Op · A nothing at the network surface: three, each its own, and is-still-possibling one of them · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Network_Surface.md`, "front".** **An offering aimed at Natural Networking, said at the set's words, each sentence at the resolver or at a file's own sentence**
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Network_Surface.md`, "front".** - **Aimed at**: Natural Networking, Exhibit TWO, at its zero surfacing; Natural Naming at is-still-possibling; Exhibit ONE's rows.
+- **Offered at 2**: "the or nothing is the still possibling of both sides", and "still possibling co momentarying is collective social intelligencing or abundancing". Each is an offering. Neither carries a sentence here by its wording; each is coupled with the resolver's rows and the opening sentence, is or is not.
+- **This is a third writing.** Two before it carried an instrument's words, resting, taking, running, counting, a queue, each released at Natural Naming, and gave an instrument's own storage and ordering as a saying of the surface. One sentence of the second gave the self a saying the self had not offered. Each is released here, and the release is said at the foot.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Network_Surface.md`, "At Natural Networking".** Natural Networking v371 is at older words than Natural Naming v380R: a sign for a parity, a zero surfacing for 0 at 12, a membrane for the between, a neighbour, a call, a surplus. It says is-still-possibling at none of its 1,109 lines. It has the relation at two places in the older words:
+
+### v383Op · The second arriving: the unresolveds as one set, each offering of the self coupled, and the close · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "Now existing, now still possibling, next existing".** The self then offered the five, prior offering, prior carrying, now offering, still possibling, next offering, the same five at both sides, one side's even the other's odd, the two alternating offering and possibling each other. The five at each side, one number apart, is the Registry's own, steps 82 and 83; the self's words for it are at no file. At Exhibit ONE's cell, `in_turn.py`: each self at one momentary with the other, the executing's common beat, two selves are at two forms by the opening and do not alternate; at one self's entry and next the other's, the parities come again at each sixth entry from each opening, three entries at each side, the changing that is not alternating sides. The six is the Registry's own number. Each ordering is an instrument's, and a sequence of the same form is at Natural Networking 6.12. Rows E6 and N11.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "Now existing, now still possibling, next existing".** The self then offered the offerings and the possiblings living through the same co-momentaryings, never mixing, still possibling until one or other releases a self parity changing. At the logic each side has its step, the Registry's 231 to 233, 238, 239, 610 and 611; the two together at each number of like pairs is at no step. At the resolver, `two_lines.py`: at spirals of 2 to 10, each of 2,044 openings, the selves at the offered chained are one number at each momentary, the opening's pairs at parting parities, and the like pairs' selves are each is-still-possibling at one momentary and each at none offered at the next: two lines at two rates, each at its own number. The number is at Natural Networking's offerings from its kit. At the offered chained the lines cross; at no row is a blend. Row E7. At selves at p along and q across a self has two sides offering: it is-still-possibling with a side offering its own parity and neither the other, at one momentary, 302,910, and next a side offers the other parity, 299,484, or neither offers and the self's prior inverts, 3,426.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "A nothing at the network surface".** Offered at this working: "the or nothing is the still possibling of both sides". Coupled with the resolver's rows at `Network_Surface.md`, its third writing. A nothing is three at the resolver, each its own: 0 at 12, prior and now agreeing, is-still-possibling; 0 at 14, the offerings parting, the prior inverted; none offered, the prior inverted. The offering is so at the self sharing the 0, at each, and at the self it is shared with only with that self's own parity offered at the same sharing by another. Natural Networking has the relation at its older words, zero surfacing, and says is-still-possibling at none of its lines: row N12.

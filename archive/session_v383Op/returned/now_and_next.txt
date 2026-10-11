@@ -1,0 +1,61 @@
+1  Each name in Exhibit ONE's code
+    1  odd  co    co-bi-tri-offering
+    2  even bi    bi-co-bi-offering
+    3  odd  co    co-bi-co-sharing
+    4  even bi    bi-co-bi-sharing
+    5  odd  co    co-bi-co-competencing
+    6  even bi    bi-co-bi-moralizing
+    7  odd  co    co-bi-co-corusing
+    8  even bi    bi-co-bi-torusing
+    9  odd  tri   tri-bi-co-momentarying
+   10  even bi    bi-tri-bi-tunneling
+   11  odd  tri   tri-bi-tri-chaining
+   12  even bi    bi-tri-bi-entraining
+   13  odd  tri   tri-bi-tri-competencing
+   14  even bi    bi-tri-bi-moralizing
+   15  odd  tri   tri-bi-tri-corusing
+   16  even bi    bi-tri-bi-torusing
+   17  odd  co    co-bi-tri-offering
+   odd names beginning co or tri: 9 of 9; even names beginning bi: 8 of 8
+
+2  The cell, 1-co-bi-tri-offering: what enters, what is between, what leaves
+   enters:   3 odd, 2 even
+   between, in the order the code writes them: 14 even, 12 even, 10 even, 11 odd
+   leaves:   10 even, 11 odd
+   the carrying enters at 3 and leaves at 11, each odd; the offerings enter at 2, surface at 14,
+   a changing is or is not at 12 and is shared at 10, each even.
+   (at 17 the selves' carryings are held at 8, even: one carrying at two names, the Registry's step 210.)
+   connector  2  even arriving  2-bi-co-bi-offering
+   connector  6  even releasing 6-bi-co-bi-moralizing
+   connector  9  odd  along     9-tri-bi-co-momentarying
+   connector 10  even releasing 10-bi-tri-bi-tunneling
+   connector 14  even arriving  14-bi-tri-bi-moralizing
+   connector 17  odd  along     17-co-bi-tri-offering
+   along at an odd name and arriving or releasing at an even: 6 of 6
+   joins: 6 to 2, 9 to 17, 10 to 14, 17 to 9; each joins odd to odd or even to even: True
+
+3  One self of a spiral of 3 followed, opened -, +, -: each momentary its odd opening, its even half, its odd leaving
+   momentary  | 3, odd: the carrying     | 2, 14, 12 and 10, even: the other's offering | 11, odd: the carrying next
+   1          | -                        | offered none  surfaced none  changing is      shared +  | +
+   2          | +                        | offered +     surfaced +     changing is not  shared 0  | +
+   3          | +                        | offered -     surfaced -     changing is      shared -  | -
+   4          | -                        | offered +     surfaced +     changing is      shared +  | +
+   5          | +                        | offered -     surfaced -     changing is      shared -  | -
+   6          | -                        | offered +     surfaced +     changing is      shared +  | +
+   7          | +                        | offered 0     surfaced none  changing is      shared -  | -
+   8          | -                        | offered -     surfaced -     changing is not  shared 0  | -
+
+4  The living files' words, counted
+                                                               next possible  next existing   still possibl-
+   Natural_Intelligence_v380R.md                                          10             11                8
+   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md                     19             14                0
+   Exhibit_THREE_Natural_Numbers_v380L.md                                  1              2                0
+   Exhibit_TWENTY-EIGHT_Equilibria_Registry_v380L.md                       0              2                1
+   Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v380R.md                  1              4                0
+   Exhibit_TWENTY-NINE_Natural_Illustrating_v379.md                        2              0                0
+   Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md                        3             22                1
+   Exhibit_TWENTY_Natural_Naming_v380R.md                                 10             26                9
+   each living file together                                              46             99               19
+   files saying next possible: 7
+   Natural_Intelligence_v380R.md, the line under its title: Geodesic Method of Discovering Next Possible Existing
+   Exhibit_THIRTY_Co-Chaining_Logic_Registry_v380L.md, the line under its title: The Fractal Inward and Outward of Itself, Binary Method of Discovering Next Existing

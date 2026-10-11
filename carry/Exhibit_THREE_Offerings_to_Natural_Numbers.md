@@ -202,3 +202,45 @@ Each entry is a paragraph of the working v385A quoted as written, laid here beca
 ### Gathering and aiming incoming value for the living files · v385A, laid at v387
 
 **Droplet · session v385A's words, `archive/session_v385A_comparisons/README.md`, "front".** **Next:** [Living File Registry's immediate next work](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#immediate-next-work) begins with older Offerings to Natural Numbers. Continue Natural Intelligence Corus Observers section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4, the eleven comparisons and other earlier source families retain their stated remaining extent. New exploring and resolver execution are not required for this gathering.
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "The two breaks and the method's standing".** 15. **S · Natural Naming 8.6; the Geodesic Improving Method 2.6; Natural Intelligence 1.5.** *1. any living form not alternating or 2. any living form not natural torusing. the two breaking conditions of the geodesic method of existing and living both.*
+16. **S · the Geodesic Improving Method 2.7; Natural Physics 1.1.** *It is unbroken in the unselected incoming of all observings available and with breaking potential. there is no predicting in nature, only observing and all prior existing observing does not prove anything as in nature tomorrow could always be more brutal than all prior.*
+17. **M · beside 16.** Three words to take out wherever they stand of the method: *justified*, *proved*, *predicts*. The standing is: unbroken, in each observing available, taken unselected, and able to break.
+18. **S · Natural Numbers 2.1; Natural Biology 3.1.** *All the golden realtionals are visible in natural torusing stable form and in the bi-tri-involution forms.* And they are no test of it: *ignore the golden relational as a test of natural torusing.*
+19. **S · Natural Naming 8.6.** A living form not natural torusing *would be able to exist in stable from living prior now next with a method not geodesic.*
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "19 · The line of the fives".** **Aiming.** The offering mates of Exhibit THIRTY Co-Chaining Logic Registry and Exhibit THREE Natural Numbers.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the observings, two workings".** **Open.** "by inversioning every number in natural numbers". The session read Exhibit THREE Natural Numbers v380L in part, as said at the front. This session's working: "Podaling pairs k with N less k, which holds for every number on every ring. It cannot fail, so it would hold whatever the method of existing is, and it does not part this method from another." "The file opens by taking existing as alternating." "Cohering is not excluding, and “only possible” needs an excluding." Beside it, a sentence at `main`'s `carry/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method.md`: "cohering is authority and six recursionings forward is cohering with natural torusing no other possible method of existing and living". The two were not laid beside each other in the conversation.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the observings, two workings".** **Aiming.** The offering mates of Natural Intelligence, at "No other possible method", and of Exhibit THREE Natural Numbers.
+
+
+## From the working v384A, its report at `archive/session_v384A/`, laid as written at v387
+
+Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Concernings gathered from v382A, v383Op and v384A · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "2. The one method carried whole through further scales".** Our session has a narrower, definite fault already gathered at droplet 122. [Exhibit THREE Natural Numbers · Offerings](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_THREE_Offerings_to_Natural_Numbers.md), the prepared passage at 8.2 beside “a passage of six carries the whole four,” says that each way other than the two qualifying rounds leaves a joint form arriving at itself. The already-gathered counterexample is

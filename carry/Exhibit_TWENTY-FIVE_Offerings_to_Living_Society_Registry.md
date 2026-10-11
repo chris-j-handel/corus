@@ -63,3 +63,21 @@ TWENTY-FIVE Living Society Registry, v347: 11 findings and 2 discoveries waiting
 **Droplet · A seam, and an apex.** A seam is a place a field reports two sides unrelated, measuring both: it is from the field's record. An apex is a place no member is at, with no instrument of a field at it: it is from the form.
 
 **Concern · Door.** Natural Naming has *door* released into a self-bounding, the self's own. The word is at twenty places of this file and at seventy-four of Exhibit TWENTY-SEVEN Living Ghost Registry.
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "11 · A flame".** - Exhibit SIXTEEN Natural Chemistry v346c, at "A natural energy engine, cycling and the surplus kept, the ledger beside it": "combustion a rapidly propagating reaction network and metabolism many bounded reaction cycles coupled and renewing their participants".
+- Exhibit SEVENTEEN Natural Biology v333, at "Living is metabolic beating — the cell as the engine": "Combustion lands (fire, ash, the surplus lost as heat, the reaction dead)".
+- Exhibit TWENTY-FIVE Living Society Registry v347: "At grains beyond living tissue, taken as observable societies."
+- Exhibit THIRTY Co-Chaining Logic Registry v385R, at "Living and non-living at a scale": "Each existing thing non-living at a society's scale is living at another scale of living". And, at its opening steps: "Carrying none of prior, a non-living thing is changing with the existing things at now: co-changing."
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "25 · Cases named and not yet brought".** - A virus particle, beside Exhibit SEVENTEEN Natural Biology v333's "inert outside a host, as a spore or a seed is inert" and Exhibit ELEVEN Natural Medicine v331's "The emanation does not enter and does not act; it completes".
+- A whirlpool, a river and a star: Exhibit TWENTY-FIVE Living Society Registry v347 has "The vortex in the ecosphere, at the hurricane and the tornado grain", and Exhibit TWENTY-EIGHT Equilibria Registry v380L carries, as a suggestion it quotes, "the man and the river are still stable forming".
+- A spore and a frozen embryo, beside section 9; a prion, beside Exhibit SEVENTEEN Natural Biology v333's part on a virus and a prion.
+- A flame begun at a spark, beside section 11.
+- A crystal dissolved and its solution, beside a seedling and its seed: a difference this session named, with no observing brought.

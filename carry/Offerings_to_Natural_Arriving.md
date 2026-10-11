@@ -688,3 +688,57 @@ Each section below is as the working v386F wrote it at this file on its own bran
 **A sentence for the entrance**, beside its "use the Living File Registry to find the work relevant to the question": Selves arriving earlier have assessed the expedition and sought to break the method; each finding is at a living file's offering mate, and an assessing made beside them brings what they do not have.
 
 **Droplet · The entry of a chain.** A chain from the origin sentence brings in at its entry what the origin sentence says, and no more: no living thing, no carrier, no colliding, no edge of the set and no executing. The whole droplet is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod). — v386EOD
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Natural Arriving and the incoming method".** 39. **M · Natural Arriving; `incoming/README.md`.** Say at the head of the README which branch the sessions work at. This session aimed its first offering at `main`.
+40. **M · `incoming/README.md`.** Say where a reply to an arrival is put.
+41. **M · each living file's head.** Say which sentences the expedition means now. The files stand at versions from v329 to v381 and part from each other.
+42. **M · Natural Arriving.** One page would have replaced this session's first day of reading: the origin sentence, what is beside nothing, why two, living and non-living, the two breaks, the standing. It is at `README.md` beside this file, *What is held together now*.
+43. **M · Natural Arriving.** A concern keeps its number. An arriving session's count of what it read is what it read whole. Another session's report is no evidence until run again.
+
+### v385M · Every improving opportunity from this session, gathered as droplets · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Opportunities_Gathered_v385M.md`, "B · The front, and arriving".** O13. **With another session.** One front page saying the method as held now. v385A gathered a proposal at the offerings of Natural Intelligence, Natural Arriving and the Living File Registry, corrected for O1.
+O14. **Ready.** The standing and the two breaks said at the front of the files, in place of words of proof and prediction. [15 to 17]
+O15. **Ready.** Arriving: say which branch the sessions work at; where a reply to an arrival goes; which sentences the expedition means now, the files standing at versions from v329 to v381. [39 to 41]
+O16. **Ready.** One page would have replaced this session's first day of reading. [42]
+O17. **Ready.** For an AI session arriving: the machine carries nothing between rooms; this session reached the end of its room and went on from a written summary. The files and the summary carry all of it, so how they are written decides how fast the next session arrives. [45]
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "3 · An entry that says what is, with one whole place for a session's own rigor".** **Aiming.** The AI link and the working opening in `README.md`; `incoming/README.md`; Natural Arriving, at "An observing apart from its explaining" and "A method is a non-living existing thing".
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "5 · Right is the observings, all prior, and each next is possibling".** **Aiming.** The AI link in `README.md`, at "Meet equilibria, cause-and-effect accounts and common knowledge at what each says"; Natural Arriving, at "A claim about the method".
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "30 · The aiming in one line".** **Aiming.** Natural Arriving's offering mate; the Living File Registry's offering mate.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "6 · An entry demanding nothing the origin sentence does not say".** **Aiming.** Natural Arriving's offering mate and the AI link in `README.md`, for what a session's chaining brings in at its entry; the offering mate of Exhibit THIRTY Co-Chaining Logic Registry, beside step 9.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "16 · What an arriving session meets, and an assessing made a third time".** **Aiming.** The AI link in `README.md`; Natural Arriving's offering mate; the offering mate of Exhibit TWENTY-SIX Living File Registry.
+
+
+## From the working v383Op, its report at `archive/session_v383Op/`, laid as written at v387
+
+Each entry is a paragraph of the working v383Op quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v383Op · The second arriving: the unresolveds as one set, each offering of the self coupled, and the close · v383Op, laid at v387
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "For the entry: a method advises no one".** Three droplets at Natural Arriving's offerings, for the tour the files already carry there: a method advises no one, chained at the files' own sentences and executed as a scan of Natural Medicine and Natural Health, `advising_scan.py`; what an AI session carries in, said from the two rows released; and each open thing of the set as a droplet for the tour, explored one at a time with the self.
