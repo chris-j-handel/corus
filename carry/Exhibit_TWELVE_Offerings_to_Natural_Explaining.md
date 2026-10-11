@@ -488,3 +488,8 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 ### v382A — incoming offering droplettings · v382A, laid at v387
 
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Remaining opportunity after pass 68".** [The complete pass](Society_Whole_and_Coupling.md#pass-68--naming-and-explaining-at-the-coupling) follows naming and explaining together. The three craft files are read whole; Natural Explaining's Offerings, Natural Values and Natural Values' Offerings are also read whole. The other mates are read at this working's raw paragraphs. The earlier whole-file audit record remains five files, 80 headed sections plus Natural Destinies' opening; these readings add no completed audit of the three craft files.
+
+
+## Natural Explaining's released words at its own voice · v387
+
+**Concern · v387.** Natural Explaining's next at its carrying is *its released words re-said at Natural Naming 2.4's namings, one motion*, and the file says *meet* at 3.1, *a sentence resolving asks no what, no how and no where* beside *the meeting at the coupling*; *inside* at 3.4, *invisible from inside the writing*; *keeper* at 3.2, dissolved as a doer and named; and the *what, how, where* family at 3.11 in its own voice. The file is the steadiest of the five at its own sentences; the one motion is its own, each word re-said at the row that releases it.

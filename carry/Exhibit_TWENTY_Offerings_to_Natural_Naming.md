@@ -1064,3 +1064,26 @@ Each entry is the person's own words as a working quoted them in a comment at a 
 **Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "new tunneling is through unchangings in other side. bi couplings slip through and longer co-chainings dont jump switch until the flowing of a few bi couiplings opens the bi tunneling"
 
 **Droplet · the person's words, quoted at pull request 127, 2026-10-09.** "this should resolve quite a bit of our remaining concerns. this concept will become more clearly part of exhibit one and natural intelligence"
+
+
+## Concerns and insertlets at Natural Naming from the session v387's reading · v387
+
+**Concern · v387, two sayings parting.** 2.2 says *neither a momentary nor a universe is possibly an existing thing separately*; 2.4's *stable form* row and Natural Intelligence 1.1 and 4.10 say *the universe is an existing thing, a set of existing things being an existing thing*. The reason: *separately* is the file's word for the universe at no scale beside its momentaries; the sentence as read says the universe is not possibly an existing thing. Brought to both.
+
+**Concern · v387, two sayings parting.** 3.2 says *6-bi-co-bi-moralizing and 10-bi-tri-bi-tunneling are even*; 4.9 says *6 is at the odd side alone, closing it at a flow*. The reason: 4.9's *odd side* is the side of the ten named still, a flow or a state, and 3.2's *even* is the name's parity; one word, *side*, at two senses in one file. 4.9's row re-said at *the flow side* parts them.
+
+**Insertlet · v387.** At 2.5, the sentence *Turn carries seven senses, each carried by its own word* heads a table of ten rows, three of them the dissolved words *face*, *connector* and *join*, no senses of turn: **the table is two tables, the seven senses of turn and the three words dissolved at v380R, each at its own header**, or the sentence says ten.
+
+**Concern · v387, two sayings parting.** 2.4 releases *stilling* and *self-stilling-self* into *self discovering next self* and *is-still-possibling*; 4.10's paragraph says *stilling along is the form carried through the changing*. The reason: the released word is at the file's own voice; *the form carried along through the changing* is the saying with the released word gone, and the row at 2.4 carries it.
+
+**Insertlet · v387.** At 2.5, *Dimension carries one sense, 2.2*: **Dimension carries one sense, the five of a side at its next numbering, Natural Intelligence 3.2**; 2.2 of this file does not say the word.
+
+**Insertlet · v387.** At 3.4, *the rotation 3, 6, 5, 4, 5.50*: 5.50 does not carry the rotation; 2.5 does, so **the rotation 3, 6, 5, 4, 2.5**.
+
+**Insertlet · v387.** At 6.3, the paragraph pointing at *the white paper 4.5*, *3.2 and 5.50*, *6.1*, *4.10*, *6.4*: the white paper is Natural Intelligence at its earlier name, and no living file explains itself by naming another file; **each pointing released, the relation said at the sentence**: tri-bi-co-momentarying is the carrying along at 9; the five dimensions are three carryings at the resolver's names; co-competencing at 5 is the term neither reaches; golden natural unrelationing is the between locking at none; social moral competency is the four whole and the carrying continuing with the selves.
+
+**Insertlet · v387.** At the contents under Part FIVE, the line *The namings, each at its unfolding* has no heading in the body; the body opens Part FIVE with the paragraph *Each unfolds six forward, each step reaching the term the prior step did not carry*: **the line is that paragraph's heading, `## 5.0 The namings, each at its unfolding`, or the line leaves the contents.**
+
+**Insertlet · v387.** Two pointings at Exhibit ONE's tables by position, *Exhibit ONE's last table* and *Exhibit ONE's table at 14 and its table at 12, 10 and 11*: **each said at the table's title, *Colliding*, *Offerings to one sharing, surfacing* and *One self, one momentary***, as the working v380R did at the Equilibria Registry.
+
+**Concern · v387.** The released words of 2.4 at this file's own voice: *meet* at *the self's 1-2 and the other's 2-3 meet at 2* and *a handshake meeting at 2*; *inside* and *outside* as places at *inside a momentary, outside it the between of momentaries* and *pass through the next one's inside*; *taken* at *a common reading taken ahead*, *one side has taken the measure*, *a vantage taken*; *call* at *17 calling each self's 1*; *return* at *returns to its name*, *two inversions return a parity*, *the return arriving*; *keep* at *nothing keeps it*. Each is re-said at its own sentence by the row that releases it, at this file's motion; none is re-said here, the re-saying the file's own.
