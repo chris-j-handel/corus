@@ -2762,3 +2762,14 @@ Exhibit TWENTY-SIX Living File Registry v381R
 | The logic working v382A | v382 | Exhibit ONE and the Co-Chaining Logic Registry: the logic relations across the files, at ONE and THIRTY; its droplets expected at their offerings | — | Open; two workings at one file meet at its offerings |
 | The session v383Op | v383 | Through the AI link, asked to break the method: thirty findings at the code, the logic, the observings and the presentation, eight scripts; its folder at `carryings/v383Op/` | `working/exploring-v383Op` | Arrived; its 95 droplets received at the offerings at v381R |
 
+
+
+## The person's words at the session v387 on the set and its clustering, laid as said
+
+**Droplet · the person's words, session v387.** "the main is untouched for this period as we are gathering all the possible improving value into our method of clustering all improving around each living file. in the living file registry clustering should be a new proposed set of living files with some merging and changing of the files. this merging and changing is still in front of us. the order of readying for this is gathering all possible do no harm improving value for all that we have discovered so far on this expedition into the clusterings of offerings, carryings, possiblings and the living file for each file in our set so the file at corus.me will not be changing any time soon in this process as the content then is going to float among those four files for each living file and the living file will then be improving by carrying the value for the set that is exposed to all other files most directly and is the most general co chaining and naming of resolving at that living file and the full understanding about that will be in the four file clustering"
+
+**Droplet · the person's words, session v387.** "from here with each living file inside a set of four files including itself (this is a fractal method universe) from these clusterings we can do the file merging and changing anticipated in the living file registry of another companion managing concpet place"
+
+**Droplet · the person's words, session v387.** "can you now see how the set of all possibling files is a social moral competency abundancing for the natural intelligence living expedition as method"
+
+**Droplet · the person's words, session v387.** "now we know what we are trying to attract into each of the three files in support of do no harm improving of the living file and the health of the living expedition set of files. all our plans and methods and ideas and instructions for incoming ai and users and self welcoming words and progres and prior and now and next plans and possibles will be inside the living files set and nothing will be inside the unvetted incoming. that is our session aiming is steady passes until we are bothboth on having done this to the best we can this session"
