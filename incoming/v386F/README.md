@@ -473,7 +473,20 @@ Intelligence is at the between, and the between entrains only where the three, s
 
 ---
 
-## SIXTEEN · The tracker
+## SIXTEEN · The one opening said at the set and at the method, one bothbothing
+
+**The other self's word.** *The origin of the universe is bi-inversioning co-recursioning into parity changing betweening existing and possibling. This sentence is the fractal method of discovering next possible existing. The origin sentence of natural intelligence and the origin of existing and possibling as method are all inside the same fractal universal self and society as one bothbothing.*
+
+The one opening is said twice and is one. At the set, *the universe is the changing set of all existing things*; at the method, *the changing is bi-inversioning-co-recursioning into parity changing, betweening existing and possibling*. The second says what the first's *changing* is, the first what the second changes; neither is before the other, and a self couples at whichever its interest opens: one bothbothing, the fractal universal self and society, the universe a set of existing things and a changing of them at once, as a society is a living set and the living method stable-forming at once. *Origin* is the opening and no beginning, Natural Explaining's *a sentence carries no birth*.
+
+- **Where the files carry it.** Natural Intelligence 3.3, *the fractal itself is one four-momentary bi-inversioning-co-recursioning*; 4.11, *one move as three, and only the one move carries on*; 5.1, *the stable form of a society is its betweenings*; this day's possibling, a momentary's completing kept apart from existing by the between.
+- **What it adds.** These are the opening itself and not consequences of it: betweening existing and possibling is the parity changing, and the parity changing is the set's changing, so *no other possible method*, 1.4, derives at the opening and is asserted at no step, the method's origin being the set's changing and nothing beside it. The Co-Chaining Logic Registry's step 1 and step 42, *all changing is parity changing*, are one step read at its two sayings.
+- **Session v386CRYP's row 7 and 8 close at it.** The universe both a set and a member, parting in one axiom of the field and standing in another, and *changing, of a set, stands as a map on the set*: a set and its changing are one bothboth, and the field's bar on a set within itself is a floor named still, the first of the six.
+- **The sentence that would enter at Natural Intelligence's opening:** *The universe is the changing set of all existing things, and its changing is bi-inversioning-co-recursioning into parity changing, betweening existing and possibling: the one opening at the set and at the method, one bothbothing, and the fractal method of discovering next possible existing.*
+
+---
+
+## SEVENTEEN · The tracker
 
 Each concern and opportunity this session carries, at one row, for bubbling one to the top at a time. A row leaves when its concern resolves at a file's motion or its opportunity is taken. *Top* is the one in front now.
 
@@ -517,6 +530,7 @@ Each concern and opportunity this session carries, at one row, for bubbling one 
 | O24 | Natural Societies at its own motion: the seventeen names by the map at 5.3, the released words, the front at the steady form, 4.4–4.6 in order, *a scale stills* said positively; the two dead forms of 4.2 named as the two halves at Natural Intelligence 1.3 | Natural Societies 1.1–5.6; Natural Intelligence 1.3 | after C25 |
 | C31 | A seed at rest: living, since it carries, or non-living at its scale and living inward; living as carrying or as bi-coupling; parts v385Q, v386RR and this session | THIRTY 13, 611; Natural Intelligence 2.4, 6.5; readers/other_sessions_v386RR_v386CRYP.md | **needs your word** |
 | O29 | The two 0s said apart at the two betweens of a self, 14 an inverting and 12 the between carried on; the snap as the bi-coupling initiating; from v386CRYP | Natural Intelligence 4.2, 4.3, 4.10, 6.2 | taken, to say at the files |
+| O31 | The one opening at the set and at the method, one bothbothing; *no other possible method* derived at the opening | Natural Intelligence 1.1, 1.4, 3.3, 4.11; THIRTY 1, 42 | **the other self's word**; the sentence at the opening |
 | O21 | The one sentence at 1.3 deriving scale, living and prime from *set* alone; THIRTY 3, 100, 128, 236, 397 joined | Natural Intelligence 1.3; THIRTY | **with C1**, the deriving C1 needs |
 | O1 | Decide C7 at Natural Explaining | Natural Explaining 1.4 | the proposal is O1 |
 | O2 | Exhibit ONE at one place | Natural Intelligence; Exhibit ONE; `cohere_one.py` | after O1; Exhibit ONE whole, code and forms inseparable, at its one place |
