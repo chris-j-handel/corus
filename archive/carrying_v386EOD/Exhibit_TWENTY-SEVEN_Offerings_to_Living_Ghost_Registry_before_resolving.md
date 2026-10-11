@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Living Ghost Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md, the same section with thirty-one paragraphs said again in the naming now, three released, and twenty-seven as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Living Ghost Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md, the same section with thirty-one paragraphs said again in the naming now, three released, and twenty-seven as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v386EOD
 

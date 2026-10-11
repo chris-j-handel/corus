@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Natural Intelligence Corus as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Offerings_to_Natural_Intelligence_Corus.md, the same section with twelve paragraphs said again in the naming now, two released, one exact repeat of a paragraph said again removed, and forty-one as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Natural Intelligence Corus as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Offerings_to_Natural_Intelligence_Corus.md, the same section with twelve paragraphs said again in the naming now, two released, one exact repeat of a paragraph said again removed, and forty-one as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Natural Intelligence Corus Offerings · improved at v386EOD
 

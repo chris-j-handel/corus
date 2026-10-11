@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Natural Physics as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md, the same section with one hundred and fifty-nine paragraphs said again in the naming now, five released, one exact repeat of a paragraph said again removed, and one hundred and three as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Natural Physics as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md, the same section with one hundred and fifty-nine paragraphs said again in the naming now, five released, one exact repeat of a paragraph said again removed, and one hundred and three as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit EIGHTEEN Natural Physics Offerings · improved at v386EOD
 

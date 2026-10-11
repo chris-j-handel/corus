@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Equilibria Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the same section with forty-seven paragraphs said again in the naming now, twenty-four released, and one hundred and eighty-seven as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Equilibria Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md, the same section with forty-seven paragraphs said again in the naming now, twenty-four released, and one hundred and eighty-seven as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v386EOD
 

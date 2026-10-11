@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Geodesic Improving Method as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md, the same section with thirty-one paragraphs said again in the naming now, two released, and one hundred and eight as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Geodesic Improving Method as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md, the same section with thirty-one paragraphs said again in the naming now, two released, and one hundred and eight as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v386EOD
 

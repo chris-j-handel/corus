@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Natural Mathematics as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_FOUR_Offerings_to_Natural_Mathematics.md, the same section with four paragraphs said again in the naming now, three released, and twenty as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Natural Mathematics as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_FOUR_Offerings_to_Natural_Mathematics.md, the same section with four paragraphs said again in the naming now, three released, and twenty as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit FOUR Natural Mathematics Offerings · improved at v386EOD
 

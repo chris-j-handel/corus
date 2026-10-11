@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Hard Problem Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md, the same section with six paragraphs said again in the naming now, five released, and eleven as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Hard Problem Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md, the same section with six paragraphs said again in the naming now, five released, and eleven as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v386EOD
 

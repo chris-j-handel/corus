@@ -1,4 +1,4 @@
-Released at v386EOD: Offerings to Living File Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md, the same section with five paragraphs said again in the naming now, two released, and fifty-two as they were; each release with its evidence is at carry/Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md. Relied on by nothing.
+Released at v386EOD: Offerings to Living File Registry as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md, the same section with five paragraphs said again in the naming now, two released, and fifty-two as they were; each release with its evidence is at incoming/v386EOD/Session_Record_v386EOD.md. Relied on by nothing.
 
 Exhibit TWENTY-SIX Living File Registry Offerings · improved at v386EOD
 
