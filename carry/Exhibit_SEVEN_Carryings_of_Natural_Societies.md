@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies Carryings · gathered at v385A
+Exhibit SEVEN Natural Societies Carryings · gathered at v386EOD
 
 # Carryings of Natural Societies
 
@@ -39,3 +39,62 @@ Session v379 reported three older naming places after reading its closing transc
 These are the v381R reports of the earlier file wording and v380R dissolving names, not a new scan of the present living exhibit. Their actual naming corrections have their offering place.
 
 [Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Mitochondria and plastids with genomes of their own
+
+**The file's sentence**, at Fourteen scales at fourteen primes, and the fold at twenty-four, in the organelle row: "a former free-living self now a member: the fractal's own move, observed".
+
+- *Natural observation*: "mitochondria and plastids differ from the other membrane-enclosed organelles in containing their own genomes"; their proteins closely resemble those of some present-day bacteria; each is "surrounded by a double membrane". The field's textbook names no doing at these statements ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Compartmentalization of Cells](https://www.ncbi.nlm.nih.gov/books/NBK26907/)).
+- *Science explanation*: these "strongly suggest that mitochondria and plastids evolved from bacteria that were engulfed by other cells". The textbook's figure of these origins is titled "Hypothetical schemes for the evolutionary origins of some membrane-enclosed organelles", mitochondria and chloroplasts among them, with a pinching off from the plasma membrane for other compartments.
+
+**Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, named a hypothetical scheme at its own figure, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
+
+### Cilia with the central pair absent
+
+**The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
+
+- *Natural observation*: in two people with mutations in the gene RSPH1, cells brushed from the nose have cilia whose central pair is absent in 11 to 30 per cent of those sectioned under the electron microscope. On high-speed video, from the side the cilia are "mostly stiff, unbending and uncoordinated cilia of reduced amplitude"; from above there are "regions with a circular beating pattern instead of the normal forward and backward planar motion" ([Onoufriadis and colleagues, 2014, Human Molecular Genetics 23, 3362](https://discovery.ucl.ac.uk/id/eprint/1421714/), read whole at a university repository's copy).
+- *Natural observation*: in the alga Chlamydomonas the paralyzed mutants pf-15A and pf-19 "lack the central tubules and sheath", and their isolated axonemes, the flagella's inner frames, in conditions in which wild-type ones beat again, "remained intact but did not form bends" ([Witman, Plummer and Sander, 1978, The Journal of Cell Biology 76, 729](https://rupress.org/jcb/article/76/3/729/18920/Chlamydomonas-flagellar-mutants-lacking-radial), read at its abstract).
+- *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
+
+**Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
+
+### Ramsey numbers at three, four and five
+
+**A living file's sentence**, at the Geodesic Improving Method: "the paired Ramsey numbers run 2, 6, 18 and then at most 46, not 54".
+
+- *Natural observation*: none; a field's proofs, computings and makings.
+- *Science explanation*: R(3, 3) is 6, and R(4, 4) is 18, with "a unique critical graph for R(4, 4)", the seventeen-member one (Kalbfleisch, 1967) ([Radziszowski, "Small Ramsey Numbers", revision of 2026](https://www.cs.rit.edu/~spr/ElJC/sur.pdf)). R(5, 5) is 43 or more by a made colouring (Exoo, 1989; not opened), and "The Ramsey number R(5,5) is less than or equal to 46", by "a combination of linear programming and checking a large number of cases by computer" ([Angeltveit and McKay, 2024](https://arxiv.org/abs/2409.15709)). "The same set of 656 (5, 5, 42)-graphs, consisting of 328 graphs and their complements, was found by several paths.", with the conjecture of R(5, 5) as 43 (McKay and Radziszowski, 1997, Journal of Combinatorial Theory B 69, 193–209; read at [a copy of it](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/Rof5LE49.pdf)).
+
+**Laid beside.** The field has 43 to 46 at five, and 656 societies of forty-two found, each search finding those alone; none is shown going on to forty-three.
+
+## Observings from science, each said as its publishing read has it · v386EOD
+
+Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+
+### Honey-hunters' call and honeyguides' answer, measured
+
+- *Natural observation*: The hunters are Yao people of northern Mozambique, their call is written "brrrr-hmm", the hunters harvest the honey and the honeyguide eats the wax that is left (an encyclopedia's page, https://en.wikipedia.org/wiki/Greater_honeyguide); greater honeyguides (Indicator indicator) lead human honey-hunters to wild bees' nests, and in an experiment a specialized vocal sound made by Mozambican honey-hunters seeking bees' nests raised the probability of being guided by a honeyguide "from about 33 to 66%" and the overall probability of finding a bees' nest "from 17 to 54%", against other animal or human sounds of similar amplitude ([Spottiswoode, Begg and Begg, 2016, Science 353(6297), 387–389](https://api.openalex.org/works/doi:10.1126/science.aaf4885?select=title,publication_year,biblio,primary_location,abstract_inverted_index), read at its abstract).
+- *Science explanation*: None is given beside the observing; the writers read the result as experimental evidence that a wild animal in a natural setting "responds adaptively to a human signal of cooperation".
+
+### One ant society across six thousand kilometres
+
+- *Natural observation*: In Japan four mutually incompatible supercolonies of the Argentine ant show aggression at their borders, as the field's account has it (Biological Invasions, 2009, not opened); fig and fig wasp, yucca and yucca moth, each pair continues only together, as the field's account has it; the Argentine ant, on its introduction to southern Europe, formed two immense supercolonies, workers of one supercolony showing no aggression to each other even across long distances and across genetic differences between sites, aggression between the two supercolonies being very high, and the main supercolony extending over 6,000 kilometres from Italy to the Spanish Atlantic coast ([Giraud, Pedersen and Keller, 2002, PNAS 99(9), 6075–6079](https://api.openalex.org/works/doi:10.1073/pnas.092694199?select=title,publication_year,biblio,primary_location,abstract_inverted_index), read at its abstract).
+- *Science explanation*: The writers propose that the ants' recognition cues were purged after the introduction, a "genetic cleansing", judge a founder bottleneck alone an unlikely cause, and suggest that the two supercolonies have fixed different recognition alleles; for the Japanese supercolonies and the two pairs none is given.
+
+### Carbon between trees through fungi, and the reply
+
+- *Natural observation*: In the field, with reciprocal labelling by carbon isotopes, carbon passed in both directions between paper birch (Betula papyrifera) and Douglas fir (Pseudotsuga menziesii), both ectomycorrhizal; the net gain was the fir's, on average 6% of the carbon isotope the fir seedlings fixed through photosynthesis, and the net transfer varied with the shading of the fir; western redcedar (Thuja plicata) seedlings lacking ectomycorrhizae absorbed only small amounts of isotope ([Simard, Perry, Jones, Myrold, Durall and Molina, 1997, Nature 388, 579–582](https://www.nature.com/articles/41557), read at its abstract).
+- *Science explanation*: The writers read the shading effect as source and sink relations regulating the transfer, and the redcedar's small uptake as the transfer passing mainly along the direct hyphal pathway. A later review examined three claims: that common mycorrhizal networks are widespread in forests, and that resources pass through them to seedlings and raise seedling performance, both found "insufficiently supported", the field results varying too widely, having other explanations or being too limited; and that mature trees "preferentially send resources and defence signals to offspring" through the networks, found to have "no peer-reviewed, published evidence" (Karst, Jones and Hoeksema, 2023, Nature Ecology & Evolution 7, 501–511, https://www.nature.com/articles/s41559-023-01986-1, read at its abstract). An opinion paper in reply disputes each of the three findings, citing genet, DNA, microscopy and isotope studies across arctic, boreal, temperate and tropical ecosystems, naming the effects on seedlings "context dependent", and citing kin recognition in interior Douglas fir; it grants that the mechanism belowground is unclear (Simard, Ryan and Perry, 2025, Frontiers in Forests and Global Change 7, 1512518, https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2024.1512518/full, read at its full text).
+
+### Eaters larger than the eaten
+
+- *Natural observation*: In a database of 16,863 consumer and resource links from natural communities, predators were on geometric average about 42 times larger than their prey, and 80% of predators were larger than their prey; aquatic herbivores and detritivores exceeded their resources by ratios several orders of magnitude above the predators'; parasitoids were smaller than their hosts, about three quarters of the host's body size; predator and prey ratios were higher in freshwater than in marine or terrestrial habitats, and higher for vertebrate than for invertebrate predators; the database lacked links of terrestrial herbivores with plants ([Brose, Jonsson, Berlow and colleagues, 2006, Ecology 87(10), 2411–2417](https://epic2-clone.awi.de/15076/1/Brose06_Ecology87.pdf), read at its full text). Digestion parts proteins into peptides, dipeptides and amino acids, starch into glucose and maltose, and fats into fatty acids and mono- and di-glycerides, and the small intestine absorbs the products into the blood and lymph capillaries (an encyclopedia's page, https://en.wikipedia.org/wiki/Digestion).
+- *Science explanation*: None is given beside the observings; the writers add that, if body-size ratios set interaction strengths as recent studies suggest, mean interaction strengths vary systematically across habitats and consumer types.
+
+### Biology's own list of thirteen levels
+
+- *Natural observation*: None; a field's textbook naming of its own levels, in its section "Levels of Organization of Living Things" ([Clark, Douglas and Choi, 2018, Biology 2e, section 1.2 Themes and Concepts of Biology, OpenStax, published 28 March 2018](https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology), read at its full text).
+- *Science explanation*: The textbook says "Living things are highly organized and structured, following a hierarchy that we can examine on a scale from small to large" and names in this order atom, molecule, macromolecule, organelle, cell, tissue, organ, organ system, organism, population, community, ecosystem and biosphere, thirteen terms by this reading; the text itself states no number of levels, gives macromolecules as "large molecules" among the molecules, calls an organ system "a higher level of organization", and its figure 1.16 shows the levels "From a single organelle to the entire biosphere".

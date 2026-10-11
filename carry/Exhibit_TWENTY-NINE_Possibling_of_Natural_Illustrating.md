@@ -1,4 +1,4 @@
-Natural Illustrating Possibling · v385A
+Natural Illustrating Possibling · v386EOD
 
 # Possibling of Natural Illustrating
 
@@ -47,3 +47,33 @@ Compare the eleven passages from the v380A reading with the existing living expl
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Natural Illustrating distribution and particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-illustrating-distribution-and-particular-destinations--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at three sentences, Natural Illustrating, *the belt emptied at the rational resonances and the irrational orbits carrying on*, *the trap that works is the Paul trap, trapping by alternating* and *a change rippling across the flock in less than a fifth of a second*: Each illustrating after its saying's resolving.
+
+## Rows sorting, bi-folding around each other · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. Natural Exploring's double-double bubble-bubble saying, Natural Explaining's gathering, and rows sorting by bubbles and bi-folding around each other, explored together as one illustration: it names the sentence it shows, the relation visible already, and the relation still to express. A bubble sort is no resolver's method by it, and the rows' bi-folding has no deriving.
+
+## A circle through two centres, and the image's angle · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** The circle through both centres drawn at the image for each pair of centres, the inner rings' four exchangings marked, as a scene of the moving form: the parity alternates at the place the diamond is tangent to that circle.
+
+**Possible project.** The image's angle measured again at the whole set of rings: the identity's pair is exact, and the image's angle a measuring.
+
+## The rounds followed one scale at a time; A 0 followed to its receiver, then whose prior; and one beside them · v386EOD
+
+Each is from session v380A's carrying, at `carryings/v380A/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · The rounds followed one scale at a time.** An illustration following the Registry's round one scale at a time, ahead of the seventeen names: 1 and 2, then 1 to 4, 1 to 8 and 1 to 16, each next number one parity inverted, each round the round under it and the same forms in the other order, the new parity inverted at the place the two couple. The reader follows one parity changing at each number and recognizes the new parity at each scale; the podal at each scale, 3 less, 5 less, 9 less and 17 less the number, is that one parity inverted alone. The round at four parities is drawn as its own subject and not as the six conceptual positions of a prior and a now. It may change or never be made.
+
+**Possible project · A 0 followed to its receiver, then whose prior.** Beside the first teaching form at this mate's offering, two further forms of one drawing of two selves, each carrying undrawn. A 0 shared by one self is followed to its receiver: a 0 offered surfaces none, and the receiver carrying a parity is next at its own other parity, its inverting its own. Then, as a later form and not put into the opening motion, the two momentaries of a spiral offered nothing from beyond it, the inverting at the first and the other's parity arriving at the second, with the words the releasing other's prior and the self's now drawn beyond each self's mark. It may change or never be made.
+
+**Possible project · Relations for two opposite rotations through parity's square.** The relations a drawing of two opposite rotations through parity's unit square needs said, each ahead of its animating: which triangle, if either, is 9 and which 17, and by what; each rotation's axis and reading, and the square's place beside them; the geometric occurrence that is one parity inverted, and the one that is two in sequence, each recognizable in following one part; and what couples a corner's coming again at three with a pair's coming again at four. Natural Illustrating has "the exact geometric correspondence to the envisioned inverting is still to be expressed". It may change or never be made.

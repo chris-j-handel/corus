@@ -1,4 +1,4 @@
-Natural Intelligence Corus Possibling · v385A
+Natural Intelligence Corus Possibling · v386EOD
 
 # Possibling of Natural Intelligence Corus
 
@@ -13,3 +13,10 @@ Gather the remaining subject value into Living Improving Value and then its subj
 - [Natural Illustrating distribution and particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#natural-illustrating-distribution-and-particular-destinations--v385a)
 
 [Earlier Natural Intelligence Corus Part Fourteen distribution](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-natural-intelligence-corus-part-fourteen-distribution--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at a sentence, Natural Intelligence Corus, *The only millennium problem that resolves does not resolve by proof*: Resolving where this passage is distributed, the sentence said as three right turns arriving at a proof.
+- At the droplet aimed at a sentence, Natural Intelligence Corus, *the transformer architecture's 128 learned coupling geometries*: The passage re-said at the binary, as that incoming has it, with no count of heads carried.

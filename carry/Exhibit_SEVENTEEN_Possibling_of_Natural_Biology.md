@@ -1,4 +1,4 @@
-Natural Biology Possibling · v385A
+Natural Biology Possibling · v386EOD
 
 # Possibling of Natural Biology
 
@@ -27,3 +27,55 @@ A next pass can follow one described occurrence through both explanations: what 
 [The clean cut and the tell at Resolving Hard Problems](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#the-clean-cut-and-the-tell-at-resolving-hard-problems--v385a).
 
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At [A plasmodesma, one cytoplasm through two cells](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#a-plasmodesma-one-cytoplasm-through-two-cells): Resolving at the sentence: what is between two plant cells at a plasmodesma. The concern at the placenta in [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#droplets) is at the same saying.
+- At [Respiration's heat](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#respirations-heat): Resolving at the two sentences, and the measuring's own publishing: the textbook names none.
+- At [Supercoils ahead of a transcribing polymerase and behind it](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#supercoils-ahead-of-a-transcribing-polymerase-and-behind-it): An observing of the supercoils at a transcribing polymerase itself: this publishing is a model.
+- At [Collagen's three chains joined before its release](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#collagens-three-chains-joined-before-its-release): The observing's own report for the order of the steps.
+- At [Copying errors at three steps](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#copying-errors-at-three-steps): The measuring's own publishing: this table names none, and no other publishing was read.
+- At [A sperm's mitochondria inside the egg](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#a-sperms-mitochondria-inside-the-egg): The report's body, for the doing and for what is seen of the mitochondria later.
+- At [Tracheae and gut through a chrysalis, and an aversion carried into the moth](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#tracheae-and-gut-through-a-chrysalis-and-an-aversion-carried-into-the-moth): Resolving at the sentence, and an observing at muscle.
+- At [An aphid making carotenoids](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#an-aphid-making-carotenoids): The report's body, for the doing.
+- At [Displaced monarchs fly on at one heading](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#displaced-monarchs-fly-on-at-one-heading): Resolving at the two sentences.
+- At [Correlation across a starling flock, and a turn travelling through it](Exhibit_SEVENTEEN_Carryings_of_Natural_Biology.md#correlation-across-a-starling-flock-and-a-turn-travelling-through-it): Resolving at "That the correlation does not decay with distance".
+- At the droplet aimed at a sentence, Natural Biology, *the six substrate-positions carrying nesting-table primes (cristae 22, renal 26, inner-ear 28, hepatic 33, bronchioalveolar 34, spermatogonial 38)*: Resolving at this file's improving, from the nesting table these numbers arrive from: which number is at each position, and what the table names a prime.
+- At the droplet aimed at a sentence, Natural Biology, *Seven independent phyla carry the same geometry*: The seven named, each with its observing, or the count released.
+- At the droplet aimed at a sentence, Natural Biology, *two genus-nought cells arriving as one multinucleated genus-one fibre*: Resolving at the sentence, at which surface the fibre's torus is said of, and an observing of the pores at two myoblasts fusing.
+
+## Cases for living as a stable changing form · v386EOD
+
+**Possible project.** Each is a case named beside [living as a stable changing form](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod) with no observation brought, and each may change or never be made: a virus particle, beside this file's "inert outside a host"; a spore and a frozen embryo, beside the seed at rest; a prion; a made cell continuing of itself, the one reported being fed and making no ribosomes of its own; a crystal dissolved and its solution, beside a seedling and its seed; a flame begun at a spark, beside living arriving from living; a whirlpool, a river and a star.
+
+## The doubled genome at its own couplings, 8.8's step eight, and the seed at four sections · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. Each may change or never be made.
+
+**Possible project.** The sentences of chromosome pairing, cell and lineage at the insertlets for 5.1, 5.5 and 9.1, each followed at its own couplings, a form copied and a living carrying each its own, through the societies' living stable-forming.
+
+**Possible project.** 8.8's step eight, its offered experiment, followed at its own changing.
+
+**Possible project.** The seed beside four sections: 4.1's inert, 4.5's inward coupling and dormancy, 5.2's possible further form, and 7.8's form, rate and carrying.
+
+## A seed and a virus at 4.1, and beating and carrying at 3.1 · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. At 4.1, a seed parted from a virus at carrying. At 3.1, metabolic beating and carrying coupled at one sentence, at an observing naming an inward self, its sharing and its momentary.
+
+## Four of six, and an eight at four further societies · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** This file's "And four readings run at all six" followed beside the four boundings.
+
+**Possible project.** An eight looked for, from each field's own record, at the tissue, the plant, the colony and the biosphere, each a prime society the files have. An eight found at two is one eight by no numeral alone.
+
+## Five sayings of Natural Biology at scales · from session v386F · v386EOD
+
+Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Possible project · Five sayings of Natural Biology at scales.** Five sayings of Natural Biology said at scales. A seed and a spore, at 4.1 and 7.8, as a carrying wrapped: non-living at its own scale with its selves living inward, dormancy the bi-coupling at its own scale ceased, and germinating that bi-coupling opening again. The conceived, at 5.1, as one self at the organism's scale from its opening momentary. Ingesting, at 7.5, named from the ingesting self's nearest inward society. A shed form, at 3.3, breaking down from within, its inward societies living on. And at 10.4 each prime with a number of bi-coupling selves at one scale, or released. It may change or never be made.

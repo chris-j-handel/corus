@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry Carryings · gathered at v385A
+Exhibit THIRTY Co-Chaining Logic Registry Carryings · improved at v386EOD
 
 # Carryings of Co-Chaining Logic Registry
 
@@ -137,3 +137,14 @@ The reported words, counts, quoted places and line positions belong to those ear
 ## The earlier withdrawn co-chaining report and its recovery extent · v385A
 
 [Session v380L’s first gathered-value record](../carryings/v380L/Gathered_Value_1.md) records a withdrawn report and twenty supporting readings. Its transcript summary names twenty-six steps whose reasons were elsewhere, further knots, file logic without a step, nearby observings and stale pointers, beside a historical reading of 599 steps. The detailed report and its step-to-section list have not been located at the recorded comparison extent. The later session v381F dependency reading of 661 steps is a different reported comparison; it does not identify all of the earlier relations. [The earlier-source comparison](../incoming/v385A/Prior_Incoming_v385A.md) preserves that extent.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Processes at channels, and the order of their doing
+
+**The file's sentence**: "Each existing thing goes forward at its own momentary".
+
+- *Natural observation*: none; a field's result.
+- *Science explanation*: processes each of one sequence, coupled through channels with no bound, first in and first out, a writing never stopped and a reading at a channel with nothing stopped till a thing arrives: the sequence at each channel is one, and "does not depend on the timing of computation nor on communication delays" (Kahn, 1974, "The Semantics of a Simple Language for Parallel Programming", Information Processing 74, 471–475; the paper not opened, its result read at [an encyclopedia's page](https://en.wikipedia.org/wiki/Kahn_process_networks)). A process is at one channel at a time, by its own program; a process asking a thing at each of its channels ahead of acting is another model's rule.
+
+**Laid beside.** The field's own: with each self acting at an arriving alone, the sequence at each coupling is one at any order of the selves' acting. It is beside the common now at this file's offering mate, and is of made processes.

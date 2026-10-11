@@ -1,4 +1,4 @@
-Natural Networking Possibling · v385A
+Natural Networking Possibling · v386EOD
 
 # Possibling of Natural Networking
 
@@ -25,3 +25,23 @@ Instruments, callers and diagnostics stand at Exhibit ONE's connectors, Natural 
 [Illustrating contributions and their particular destinations](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#illustrating-contributions-and-their-particular-destinations--v385a).
 
 [Proposed register comparison at Natural Networking and Equilibria Registry](Exhibit_TWENTY-EIGHT_Possibling_of_Equilibria_Registry.md#proposed-register-comparison-at-natural-networking-and-equilibria-registry--v385a).
+
+## Entering a network surface · v386EOD
+
+**Possible project.** The coupling with the network can begin at each place in the surface, by adding a binary parity-changing sequence into a resolver's 1. Testing is watching the patterns in the surface from doing this at different co-locations, up and down stream, right and not right across, at spanning widths, as a snaking treadmill of local momentarying: testing for the surface's parity-changing seam location. A smallest arrangement: two machines, each with the resolver, one parity across a wire, each machine at its own pacing. A testing is engineering's own, of the engineered surface, and it may change or never be made. This file has "The complete network's own continuation remains the relation to establish."
+
+## Observations of a surface after a penetration · v386EOD
+
+**Possible project.** Natural observations, each in two lines, of a surface after a penetration: a skin cut's rolled edge, a bite, a liquid surface closing. The reported studies gathered at [Living Improving Value](Living_Improving_Value.md#skin-repair-and-liquid-surfaces-after-penetration--v385a) are each of its own arrangement, and none is in two lines at a carrying mate. It is beside [a surface resolving after a colliding](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod), and it may change or never be made.
+
+## This file's common deriving located, and its own · v386EOD
+
+Each is from session v384A's proposal for Exhibit SIX Natural Transmissioning at its thirty sections, its offering to sessions v382A and v383Op, and its record of droplets, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. This file's common deriving located: bi-moral co-agency, along and across, momentaries in overlap, self and society and podaling at 1.1 to 1.3; the crossing, carrying at a 0 surfacing, odd and even openings and the named connections at 1.4 to 1.7; inward and outward scale and the missing region at 1.8; the longer and wider surface at 4.6; protecting and social moral competency at 5.1 and 5.2; and upstream and downstream at 5.4. With it, this file's own: particular societies at their couplings.
+
+## Each kit instrument read at its lines · v386EOD
+
+Each is from the review of Natural Networking and Natural Engineering of 30 September 2026, at `carryings/review_networking_engineering_2026-09-30/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · Each kit instrument read at its lines.** Each instrument of the Natural Networking TWO Improving Kit read at its own lines, with none executed, ahead of a kit at Natural Resolver's present code: which lines add, copy, pace, order or read a carrying. Read this way in the visiting contribution of 30 September 2026: the older engine adds and subtracts one at each offering, ages a carrying to a bound and makes a second parity by subtracting; the forking copies the whole object with its hidden carrying; the between's instrument has a tally, a cursor, a summing and a loop of beats, its coupling reads recorded entries and removes none beside a saying of a differing gone at the next momentary, and it makes a momentary at the second offering; one check's heading says along at 17 beside couplings at 9. The other instruments are unread. It may change or never be made.

@@ -1,4 +1,4 @@
-Exhibit FIVE Natural Engineering Carryings · gathered at v385A
+Exhibit FIVE Natural Engineering Carryings · improved at v386EOD
 
 # Carryings of Natural Engineering
 
@@ -23,3 +23,43 @@ The existing source inventory below remains whole. Selected source comparisons a
 **Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
 
 **The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_FIVE_Natural_Engineering_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Commutating at the neutral plane
+
+**The file's subject**: the motor's commutator, at this file's offering mate.
+
+- *Natural observation*: none; a textbook's page, of a generator.
+- *Science explanation*: "Commutation takes place at the point where the armature coil is moving parallel to the stator field."; "Every time the load current varies, the neutral plane shifts"; a wrong placing gives sparking as the segments pass from one brush to the other; and two ways lessen the armature's effect, compensating windings and interpoles ([a textbook's page, "DC Machine Construction and Operating Principles"](https://ecampusontario.pressbooks.pub/electrotechnology/chapter/part-1-2/), read at another address of the same book, its writer not shown).
+
+**Laid beside.** The field's own: the neutral moves with the load, and a brush fixed at one place sparks.
+
+## Observings from science, each said as its publishing read has it · v386EOD
+
+Each is from an earlier session's report read whole at this gathering. Its publishing was opened at this gathering, and the two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+
+### Four-phase handshake, request and acknowledge
+
+- *Natural observation*: None; a field's built protocol, which the page has thus: the sender drives the data nets and raises req, the receiver samples the data and raises ack, the sender lowers req, and the receiver lowers ack, the lines back at the idle state; "Without a shared clock, exactly one transaction occurs per handshake cycle"; with a shared clock the handshake lines steady over n consecutive cycles give n transactions one after another and a rdy line replaces the receiver's ack; with local clocks each line is resynchronised at the receiver against metastable failure ([DJG, 2004, "Four-Phase Handshake in Synchronous, Asynchronous and Behavioural Forms - Revision Notes", at the University of Cambridge Computer Laboratory's site](https://www.cl.cam.ac.uk/~djg11/wwwhpr/fourphase/fourphase.html), read at its full text).
+- *Science explanation*: The page says "The protocol provides rate adaptation, in that it has an idle state" for a sender with nothing ready, and that "it has backpressure or flow-control that prevents the sender sending further data" that the receiver cannot accept; its stated conditions are a write barrier, the call to sync, making the data visible "on all data nets at the receiver before the req is asserted", in hardware a delay longer than the nets' skew, and the resynchronising under local clocks.
+
+### A signal crossing clock domains
+
+- *Natural observation*: None; a field's design record. For a signal passing between "unrelated or asynchronous clock domains" the guide has the first register of the new clock domain acting as a synchronization register, and a sequence of registers in the destination domain, "a synchronization register chain or synchronizer", placed to "allow additional time for a potentially metastable signal to resolve to a known value"; two registers are named as the common practice, and "a standard of three registers provides better metastability protection" ([Intel, 2018, "Metastability Analysis in the Intel Quartus Prime Software", section 3.1 of Intel Quartus Prime Standard Edition User Guide: Design Recommendations, document 683323, version 18.1 by its link, dated 24 September 2018](https://www.intel.com/content/www/us/en/docs/programmable/683323/18-1/metastability-analysis-in-the-software.html), read at its full text).
+- *Science explanation*: "The timing analyzer can analyze and report the MTBF for each identified synchronizer that meets its timing requirements", and the software estimates an MTBF for the whole design, by which a designer judges a need for longer chains; the guide's section 3.2.1.1.2 on synchronizer chains reports a "Worst Case Available Settling Time, defined as the available settling time for the synchronizer with the worst MTBF", and calculates no MTBF for a chain it has not identified or for paths with no timing analysis.
+
+### A saturating actuator and anti-windup
+
+- *Natural observation*: None; a documented simulation. In a Simulink model of a PID Controller block tuned "with saturation ignored" and a first-order plant with dead time whose input saturates at the limits -10 and 10, with no anti-windup "the PID control signal reaches a steady-state at about 36.29, outside the range of the actuator" and "there is a considerable delay before the PID controller output returns to within the actuator range"; with back-calculation the page notes "how quickly the PID control signal returns to the linear region and how fast the loop recovers from saturation"; for clamping it shows a figure of setpoint against measured output and states no speed; of the tracking mode it says "Without the anti-windup mechanism, these responses have long delays" ([MathWorks, "Anti-Windup Control Using PID Controller Block", Simulink documentation, release R2026b as opened, no year of writing given](https://www.mathworks.com/help/simulink/slref/anti-windup-control-using-a-pid-controller.html), read at its full text).
+- *Science explanation*: The page says the saturated controller is "operating in a nonlinear region where increasing the control signal has no effect on the system output"; back-calculation "uses a feedback loop to unwind the PID Controller block internal integrator", clamping is "based on conditional integration", and the tracking mode "requires feeding back the actuator output to the tracking port of the PID Controller block"; for the choosing among the methods the page points to Åström and Hägglund, Advanced PID Control, 2006.
+
+### A ground path's impedance
+
+- *Natural observation*: None; a field's tutorial. "Ideally the ground impedance between G1 and G2 is zero", yet "it is impossible to maintain zero impedance in the current return path", the connection having "not only resistance but also inductance"; "the ground return impedance allows the ground current to develop an error voltage ΔV between G1 and G2", a transient current with "a slew rate of 10 mA/ns" is given as an example, and "noisy digital currents that flow in the analog ground return path produce errors" in the voltage reaching the analog circuits ([Kester, no date on the page as opened, "Grounding and Decoupling: Learn Basics Now and Save Yourself Much Grief Later! Part 1: Grounding", Analog Devices StudentZone articles](https://ez.analog.com/adiacademy/university-program/a/studentzone-articles/SA1021/grounding-and-decoupling-learn-basics-now-and-save-yourself-much-grief-later-part-1-grounding), read at its full text).
+- *Science explanation*: The tutorial gives the finite impedance of the current's path back as the cause and gives the field's arrangement: "A solid ground plane is the industry standard method of providing low impedance current return paths", with analog and digital circuits "placed on their respective ground planes" and the two planes joined at "the system single-point or star ground"; the page names the voltage an "error voltage", and has no words "ground loop" or "common impedance" and nothing of a connection lifted.
+
+### One machine's mark in a chain's first blocks
+
+- *Natural observation*: In a histogram of the Bitcoin chain's blocks from the genesis block "upto block 36288 (year 2010)", "the least significant byte of the nonce, interpreted in a little endian machine" is far more frequent at the values 0 to 9 and 19 to 58 than at 10 to 18 and at 59 to 255; in the numbers the post lists up to block 20000, value 0 has 312 blocks, 9 has 247, 10 has 2, 18 has 5, 19 has 138, 58 has 201 and 59 has 7; after splitting the coinbases into spent and unspent, the writer ascribes the pattern to the first miner's machine alone ([Lerner, 2013, Bitslog, post of 3 September 2013](https://bitslog.com/2013/09/03/new-mystery-about-satoshi/), read at its full text).
+- *Science explanation*: The post lists as possible causes a broken parser of the writer's own, mining hardware of a very different kind, a flaw in the hash function that the writer calls "highly improbable", and a message left in the nonces; in an added edit the writer adopts a commenter's reading that the miner had 58 machines, each stamping its own id in the low byte of the nonce to avoid checking one nonce twice, with machines 10 to 18 absent, and rejects a second reading of six computers of ten low-byte values each; as the field's account has it, the writer's later posts read the ranges as the product of the first miner's own nonce-stepping software and read blocks beyond the pattern as other miners'.

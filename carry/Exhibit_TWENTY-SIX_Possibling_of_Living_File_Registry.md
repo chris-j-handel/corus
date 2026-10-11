@@ -1,4 +1,4 @@
-Living File Registry Possibling · v385A
+Living File Registry Possibling · v386EOD
 
 # Possibling of Living File Registry
 
@@ -365,3 +365,47 @@ The proposal receives a hardness as sequencing reversed, the three reversals, on
 Proposed Part 5 The object carries Exhibit ONE's stable forms: the code, the names, the connectors, the code at its names read line by line, the forms, the rings and traces as evidence, Exhibit ONE inside at its origin, with formal support at the Natural Networking TWO Improving Kit and the Co-Chaining Logic Registry THIRTY Improving Kit's verifier. (Re-Settling the Living Files, §4 Proposed contents) — resettling_v373
 
 The proposal belongs to the possible Natural Intelligence arrangement. It retains the object’s code, names, connectors, tables and reported evidence as distinct contributions, with the two supporting kits at their actual scope. Its inclusion or citation of Natural Resolver remains possible work; the earlier part number does not establish a current receiving location.
+
+## A first whole following of the living set, section by section · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Possible project.** It may change or never be made. Each living file and its offering mate followed in the order of its sections, each section's relation recorded, and each relation across files followed: what is given, what is conditional, what is offered for improving, and the missing or opposing step. One order: the Registry's step 35 through one self's couplings; Natural Intelligence from its opening, beside Exhibit ONE Natural Resolver and Exhibit THIRTY Co-Chaining Logic Registry; Exhibit SEVENTEEN Natural Biology and Exhibit ELEVEN Natural Medicine whole; Exhibit TWO Natural Networking, Exhibit FIVE Natural Engineering and Exhibit SIX Natural Transmissioning; and the further files and registries, with one last following across the set of each changed relation into the sayings leaning on it. Five files have such records in session v382A's working: Natural Values, Natural Human Society, Natural Societies, Natural Destinies and Natural Health. Seven groupings of the set are named for it: existing, resolving and numbered forms; self, society and value; coupling, networking and making; physical, chemical and biological changing; naming, explaining, illustrating and emanating; problems and the registries; and exploring and improving the files.
+
+## The clean cut at four files, the ten named still at each subject, and passages for four files · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. Each may change or never be made.
+
+**Possible project.** The clean cut and its tell are at Natural Chemistry, Natural Biology and Natural Medicine, and Natural Physics carries the rule too, "a conserving with no anomaly is one whose exterior discard is perfect": one file with the rule, the others with directions to it, and each with its own list, each field's unlooked-at thing named by the others' rule.
+
+**Possible project.** The ten named still, laid at each subject's file: at Natural Chemistry a chemical equilibrium as a rate named as a value, and "Holding the two at one beat makes the equilibria picture" as a sequencing named at one beat; at Natural Biology "there is no equilibria in living" beside a population's stationarity; at Natural Emanating "Equilibria mistakes the nothing-inside for a thing"; at Living Society Registry a neuron's two equilibrium potentials as a rate named as a value; at Living Ghost Registry its "conservers of equilibria, counts, conserved totals, declared zeros, clocks, frames, stores" beside the ten; at Natural Societies and Natural Human Society a market clearing at one price; at Natural Health and Natural Medicine a homeostasis named; and at Natural Engineering a control's set point.
+
+**Possible project.** The degree words at the living voice, each said at its all or none or at its number, Natural Explaining's rule: among them Natural Biology's "the field's record already carries most of it", Natural Physics' "most of physics", Natural Exploring's "almost never the whole of it", Natural Medicine's "the reading mostly gives way" and Natural Emanating's "it is most of the thing".
+
+**Possible project.** Passages that left Natural Intelligence at version 368, whole in the earlier file, for four files: for Natural Health, three sustainings at φ; for Natural Intelligence Corus, the corus as one self-negation; for Resolving Hard Problems, a hardness as a sequencing the other way and one six coupled, one way, and coupled again; and for Natural Networking, three couplings and six directions.
+
+## The set check naming the files it reads · v386EOD
+
+Each is from the two reviews of Natural Physics at version 376, of its improving and of its observings, at `carryings/review_natural_physics_improving_v376/` and `carryings/review_physics_observings_v376/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · The set check naming the files it reads.** The work is the set check's result line naming the files it read, and the check reading each other living file's front, contents and headings at that file's own form. Living File Registry has a session that "executes `reader_checks.py` and `check_set.py`"; the set check reads ten files, Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit TWO Natural Networking, Exhibit THREE Natural Numbers, Exhibit FOUR Natural Mathematics, Natural Explaining, Natural Naming, Geodesic Improving Method, Equilibria Registry and Co-Chaining Logic Registry, and its passing line says nothing of the other living files, Natural Physics among them. It may change or never be made.
+
+## Ten files at the oldest versions read whole for droplets · v386EOD
+
+Each is from session v381R's carrying, at `carryings/v381R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · Ten files at the oldest versions read whole for droplets.** Each of the ten living files at versions 329 to 333, Natural Exploring, Natural Human Society, Natural Health, Natural Emanating, Natural Transmissioning, Natural Intelligence Corus, Natural Medicine, Natural Destinies, Natural Biology and Natural Values, is read whole by one reader beside Natural Intelligence's Parts ONE to THREE and Natural Naming's released words, and each sentence parting from the method as it is said now is laid as a droplet at that file's offering mate. Droplets aimed across the set by a working's own interest reach these ten least, and a reading of each file at its own sentences is the one source of droplets for them. It may change or never be made.
+
+## Five dimensions and the right spiral step at one file; The working method said at one file · from session v386F · v386EOD
+
+Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Possible project · Five dimensions and the right spiral step at one file.** The work is one place for two passages now at several files. The five dimensions passage, with "The rotation is the gentle alternating twisting of a towel into and out of a knotted corus", "The self's inversion is 3, 6, 5, 4" and the podaling 23, 26, 25, 24, is at Natural Intelligence's 3.2, at Natural Naming and at Natural Illustrating, and its inversion sentence at Natural Societies too; the right spiral step, "The right spiral step carries a pair (x, y) to (y, −x)", is at Natural Intelligence's 2.4 and at Natural Naming alike. Natural Intelligence's 3.2 and 2.4 are the place of each; Natural Naming carries its one sense for each word and names the place, and Natural Illustrating and Natural Societies name it: four motions, one at each file. It may change or never be made.
+
+**Possible project · The working method said at one file.** The working method said at one file and named at each other. The Geodesic Improving Method for the method, and the Living File Registry for the files' present places; the README, the front of the carrying, incoming's README and the kit's reviewing file each a few lines naming those two. By it the front has the set now and no method. It follows the releasing of Natural Explaining's rule of no file named within another, a file naming another at the one place a saying is at. It may change or never be made.
+
+## A living file at the accounting of selves at a public surface · from session v386CRYP · v386EOD
+
+Each is from session v386CRYP's report, its gathered value and its resolvings, at `incoming/session_v386CRYP/` and `incoming/resolvings_v386CRYP/` on the branch `working/session_v386CRYP`, read whole at this gathering beside the living files now and the mates, each in the form that session's own latest correcting gives; a thing the living files or a mate say already is not said again. A sentence that session offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Possible project · A living file at the accounting of selves at a public surface.** A living file at the accounting of selves at a public surface, its working name Natural Accounting and its naming the expedition's own. Its subject is a society's public accounting read at the three of Exhibit THIRTY Co-Chaining Logic Registry's step 386 at each entry: the emanations released at the couplings, each self living at its own coupling, and the between at no entry. Cryptography enters the method at this subject, the accounting of emanations at a society's couplings, and at neither of two others: the function, a non-living thing reading as chance, and the opening of a private key. Its first material is a self's carrying and its surface laid beside a key pair, alike at two and parting at three, and one public hash chain read along and across. It may change or never be made.

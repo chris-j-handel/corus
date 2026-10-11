@@ -1,4 +1,4 @@
-Hard Problem Registry Possibling · v385A
+Hard Problem Registry Possibling · v386EOD
 
 # Possibling of Hard Problem Registry
 
@@ -9,3 +9,27 @@ The possible compact index keeps each field statement, conserving relation and r
 ## Particular contributions to the earlier shared projects · v385A
 
 - [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#earlier-proposed-extent-of-the-living-subjects--v385a)
+
+## Possible observings and resolvings beside this file's sentences · v386EOD
+
+**Possible project.** Each is possible work beside a placing at this file's offering or carrying, and it may change or never be made.
+
+- At the droplet aimed at an entry, Hard Problem Registry, Free will and determinism, at its Accounts: The third family's account at the entry, in the field's own words.
+
+## Two problems of the fields at no entry · v386EOD
+
+Each is from the report of session v374 on genome doubling and its second part, with the workings on illustrating and on physics for the other files beside it, at `carryings/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. The observings each is beside are at the carrying mates, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Possible project · Two problems of the fields at no entry.** Two problems the fields pose are at no entry of the Hard Problem Registry, and each is a possible entry. One: the initiating of identical twinning, which the field names unexplained, twins of two chorions after one blastocyst transferred needing, at the classic model of early splitting, tightly controlled splitting forces and a preventing of re-joining. Two: epigenetic age falling in the early embryo to its lowest near gastrulation and rising after, beside the doctrine of an ageless germline. A possible resolving of the first follows one society parting into two with each part closing its own join; of the second, a further society opening at its own pacing, with nothing reset. It may change or never be made.
+
+## Field namings of the eight clusters with no registry entry · v386EOD
+
+Each is from session v380R's carrying, at `carryings/v380R/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Possible project · Field namings of the eight clusters with no registry entry.** An entry at Exhibit TWENTY-ONE Hard Problem Registry, in the field's own words, for each field naming of Natural Naming's eight clusters that no entry title has; or the naming released from the clusters. Among them: supply and demand, syntax and semantics, the homunculus, the master-gene search, the pacemaker, the central planner, the argument from design, dark energy, hidden variables, the latent reservoir, social choice, incommensurable values, model selection, speciation, phase transitions, tipping points and spin glasses. Others of the clusters' namings are entries already, among them Sorites, the origin of life, dark matter, the frame problem, the neural code, missing heritability and turbulence. It may change or never be made.
+
+## Entries for what is life, the cell, reductionism and emergence · from session v386F · v386EOD
+
+Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Possible project · Entries for what is life, the cell, reductionism and emergence.** The Hard Problem Registry has no entry on what is life, on the cell as the unit of life, on reductionism or on emergence as problems of the fields, and scale is a problem's term at one entry alone, the quantum-classical boundary. The work is an entry for each in the field's own words, or a saying that the field poses none. Each is a place a scale is read as a kind: living and non-living as two kinds parted by a line, a lowest unit of living, a whole reduced to its lowest scale, and a whole arriving as more than its scale inward. The origin of life, biological individuality and the units of selection are entries already. It may change or never be made.
