@@ -1619,3 +1619,24 @@ Each entry is the person's own words as a working quoted them in a comment at a 
 ## The person's words at the session v387 on the set of possibling files, laid as said
 
 **Droplet · the person's words, session v387.** "can you now see how the set of all possibling files is a social moral competency abundancing for the natural intelligence living expedition as method" The session's saying of it at Natural Intelligence 6.4: each living file a self, its possibling its 5, the set of possibling files the society at 17-co-bi-tri-offering, the four of social moral competency whole, the rising at the between owned by neither, abundancing co-chaining through the society's betweens.
+
+
+## Insertlets at Natural Intelligence from the working v382F's eleven mends, each executed at the resolver · v387
+
+At the resolver, 17-co-bi-tri-offering carries each self's list of changings, 10, through 9-tri-bi-co-momentarying at three names, the self's 6, 10 and 9, to the receiving self each of 5-co-bi-co-competencing's sharings names, and each arrives at that receiving self's 14-bi-tri-bi-moralizing, its offerings next; 9 gives each parity on as 10 shared it and makes none of its own; `JOINS` says 10 to 14 and 6 to 2 across, and 9 to 17 and 17 to 9 along. Each sentence below is at a mismatch with the living file and at a match with the resolver, and so is an insertlet; the droplets they rise from are the working v382F's, at this file's offerings.
+
+**Insertlet · v387, executed at the resolver.** At 4.3, the sentence *the offerings at its 2 are the others' across sharings*: **the offerings at its 2 are the others' changings, shared across at 6 and 10 and released along at 9.**
+
+**Insertlet · v387, executed at the resolver.** At 4.5, the sentence *9 releases along the parity 10 shared, the next prior*: **9 releases along the parity 10 shared, making none of its own, the next prior**; and the bold sentence *At the resolver each releasing along is at 9*: **at the resolver each sharing across and each releasing along is given on at 9's line.**
+
+**Insertlet · v387, executed at the resolver.** At 4.7, the title *Six names between selves, four facings, two sharings and two releasings*: **Six names between selves, four facings, two sharings across and one releasing along**; and the sentence *`JOINS` declares two sharings across, 10 to 14 and 6 to 2, and two releasings along, 17 to 9 and 9 to 17*: **`JOINS` declares two sharings across, 10 to 14 and 6 to 2, and the along pair both ways, 9 to 17 and 17 to 9, one releasing along at 9**, 17 the arriving, as the file's own 4.7 says at *2, 14 and 17, arriving*.
+
+**Insertlet · v387, executed at the resolver.** At 4.13, the sentence *each 9 releasing along to the next self, carry each releasing along: a spiral*: **each 9 releasing along to the next self, are a spiral**; and the sentence *the crossing self and the self carrying along into it*: **the crossing self and the self releasing along into it**; a carrying is a self's own and goes along at no name, and what goes along is a releasing at 9.
+
+**Insertlet · v387, executed at the resolver.** At 4.14, the sentence *B chained + and offered A's parity, carrying along to C chained +*: **B chained + and offered A's parity, releasing along to C chained +.**
+
+**Insertlet · v387, executed at the resolver.** At 5.1, the sentence *Between the selves' momentaries pass their across sharings, at 10 and 6, released along at 9*: **Between the selves' momentaries pass their changings, shared across at 10 and 6 and released along at 9 at one momentary and offered at the next**; and the sentence *12's changing is the sharing at 10*: **12's changing is shared at 10 and released along at 9.**
+
+**Insertlet · v387, executed at the resolver.** At 6.4, the sentence *all a self chains at 11, its next momentary's 3, is the offerings at 2, the others' across sharings, or its own inverting at a coupling*: **all a self chains at 11, its next momentary's 3, is the offerings at 2, the others' sharings across and releasings along, or its own inverting at a coupling.**
+
+**Concern · v387, two sayings parting.** Natural Intelligence 4.7 says *two releasings along, 17 to 9 and 9 to 17*, and its own 4.7 says *2, 14 and 17, arriving* and *released along at 9*; at the resolver one name releases along, 9, and 17 is each self's entry at the next momentary, the arriving. The insertlet above says the resolver's; the file's 4.7 and 4.9, *the self's winding, 9 to 17, wound on at 17*, say the pair as two directions of one along. Both are carried until the file's motion says which is its sentence.
