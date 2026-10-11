@@ -21,7 +21,7 @@ No separate project work gathered here yet.
 
 Each may change or never be made.
 
-**Possible project.** Natural Physics' sorting by "And momentum, angular momentum, charge and phase-space volume carry no anomaly at all" done at chemistry: mass balance, charge balance and atom balance at a reaction's equation, and the term named still for each chemical accounting. The rule itself is at the carrying as unaudited.
+**Possible project.** Natural Physics' sorting by "And momentum, angular momentum, charge and phase-space volume carry no anomaly at all" done at chemistry: mass balance, charge balance and atom balance at a reaction's equation, and the term named still for each chemical accounting. The rule itself is at the offerings, possibling and carryings as unaudited.
 
 **Possible project.** The paper this file's 5.6 names, Electrochimica Acta 246, 315, read at its own text, with the later paper of multifrequency clusters beside it; they are at [Carryings of Natural Chemistry](Exhibit_SIXTEEN_Carryings_of_Natural_Chemistry.md).
 

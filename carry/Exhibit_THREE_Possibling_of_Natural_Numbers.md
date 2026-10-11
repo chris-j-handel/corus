@@ -8,7 +8,7 @@ Natural Numbers Possibling · v386EOD
 
 ## This file's common explaining, and its own · v386EOD
 
-**Possible project.** It may change or never be made. This file's common explaining of the method, at its 1.1, 1.2, 1.4 to 1.8, 8.2, 9.2 and 9.6 to 9.9, located beside the common explaining proposed at Exhibit SIX Natural Transmissioning, with this file's own carried at it: the list is at [Possibling of Natural Transmissioning](Exhibit_SIX_Possibling_of_Natural_Transmissioning.md#the-proposals-own-working-its-contents-beside-the-others-seven-doings-and-each-subjects-own--v386eod). Each insertlet and correcting at this file's own carrying goes with a passage, and no older paragraph carried across is a cohering of it.
+**Possible project.** It may change or never be made. This file's common explaining of the method, at its 1.1, 1.2, 1.4 to 1.8, 8.2, 9.2 and 9.6 to 9.9, located beside the common explaining proposed at Exhibit SIX Natural Transmissioning, with this file's own carried at it: the list is at [Possibling of Natural Transmissioning](Exhibit_SIX_Possibling_of_Natural_Transmissioning.md#the-proposals-own-working-its-contents-beside-the-others-seven-doings-and-each-subjects-own--v386eod). Each insertlet and correcting at this file's offerings, possibling and carryings goes with a passage, and no older paragraph carried across is a cohering of it.
 
 ## Spirals at numbers smaller numbers make, said at scales; Composite spirals and rings worked at their prime sides · from session v386F · v386EOD
 

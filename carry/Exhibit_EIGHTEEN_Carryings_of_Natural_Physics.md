@@ -71,7 +71,7 @@ Exhibit EIGHTEEN Natural Physics Carryings · gathered at v386EOD
 
 ### A jump followed, and inverted partway
 
-**The file's sentence**: none of this file's is beside it; it is beside the binary at each reading at the carrying.
+**The file's sentence**: none of this file's is beside it; it is beside the binary at each reading at the offerings, possibling and carryings.
 
 - *Natural observation*: at a superconducting circuit of three levels, a made atom, the jump from the ground level to an excited level was followed by a continuous monitoring of a further level coupled to the ground level; with monitoring and feedback at once, jumps were caught partway and inverted, and did not complete ([Minev, Mundhada, Shankar, Reinhold, Gutiérrez-Jáuregui, Schoelkopf, Mirrahimi, Carmichael and Devoret, 2019, Nature 570, 200–204](https://arxiv.org/abs/1803.00545), read at its abstract).
 - *Science explanation*: each completed jump's changing is "continuous, coherent and deterministic", agreeing with quantum trajectory theory; a jump's completing is anticipated once it is under way, and no jump's first momentary.
