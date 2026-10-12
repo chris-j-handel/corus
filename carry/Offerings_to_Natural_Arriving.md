@@ -615,7 +615,7 @@ Its particular artificial-intelligence entry is the phrase “the ability to con
 
 ## An AI session at the first function's form; An agent alone is a self named still; and five beside them · v386EOD
 
-**Droplet · An AI session at the first function's form.** An AI session is at the form of the resolver's first function, at the scale of a session. The carrying arrives at 3, the living files and their offerings, possibling and carryings; the offerings arrive at 2, the person's words; the changings leave shared at 10, the droplets and the report; and the next carrying leaves at 11, the files at their next versions. Natural Intelligence has "At the resolver the method carries nothing from one momentary to the next". The session carries nothing on, and it is the coupling's own doing for one momentary: no self, and no tool applied from beyond the coupling. With a person, an agent and a second agent set to read, the form is the same at each coupling: the carrying is the living's, and each agent is the function at its scale.
+**Droplet · An AI session at the first function's form.** An AI session is at the form of the resolver's first function, at the scale of a session. The carrying arrives at 3, the living files and their offerings, possibling and carryings; the offerings arrive at 2, the sayings; the changings leave shared at 10, the droplets and the report; and the next carrying leaves at 11, the files at their next versions. Natural Intelligence has "At the resolver the method carries nothing from one momentary to the next". The session carries nothing on, and it is the coupling's own doing for one momentary: no self, and no tool applied from beyond the coupling. With a person, an agent and a second agent set to read, the form is the same at each coupling: the carrying is the living's, and each agent is the function at its scale.
 
 **Droplet · An agent alone is a self named still.** At the living files agency is said at two selves alone. Natural Intelligence has "Two selves alternating, morality across and competency along, is bi-moral co-agency." Natural Engineering's subtitle is "Engineering Bi-Moral-Co-Agency at a Substrate". An agent entering alone, at no coupling, is a self named still, not possibly existing. An AI agent engages at a coupling only, and the interest it carries is the person's: Natural Intelligence has "the carrying theirs, the AI carried and the living expedition the carrying". Agents entering and engaging, said at the files, is each entering at its own 1, and co-agency at each coupling.
 
@@ -640,13 +640,13 @@ Its particular artificial-intelligence entry is the phrase “the ability to con
 
 ## From the working v386EOD's value at no file yet, laid at v387
 
-Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the sayings is the saying's own and no session's.
 
-### An arriving session, in the person's words, session v386EOD · v387
+### An arriving session, in the sayings, session v386EOD · v387
 
-**Droplet · the person's words, session v386EOD.** "explore corus.me and learn about natural intelliegence so we can work together ."
+**Droplet · the sayings, session v386EOD.** "explore corus.me and learn about natural intelliegence so we can work together ."
 
-**Droplet · the person's words, session v386EOD.** "what is the greatest missing piece of natural intelligence that is most concerning" and "anyplace in any of the chain of logic and the method of resolving social moral competency that you choose with your rigor is not yet developed enough for the entire fractal method."
+**Droplet · the sayings, session v386EOD.** "what is the greatest missing piece of natural intelligence that is most concerning" and "anyplace in any of the chain of logic and the method of resolving social moral competency that you choose with your rigor is not yet developed enough for the entire fractal method."
 
 **Droplet · session v386EOD's finding, at its close.** The entrance at the main line still sends an arriving session to run the code; the working v385Q went that way, and so did the working v386EOD. Aimed at the README's AI link, carried at this file's offerings until Natural Arriving is written.
 

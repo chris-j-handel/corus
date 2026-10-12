@@ -403,11 +403,11 @@ Each may change or never be made.
 
 ## From the working v386EOD's value at no file yet, laid at v387
 
-Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the person's words is the person's and no session's.
+Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the sayings is the saying's own and no session's.
 
-### Living files moving toward their carryings, a choice for later · the person's words, session v386EOD · v387
+### Living files moving toward their carryings, a choice for later · the sayings, session v386EOD · v387
 
-**Droplet · the person's words, session v386EOD.** "some of the living files will be moving to the carrying files to make the living files more lean and binary and rigor and less explaining of observings. this is a choice for later"
+**Droplet · the sayings, session v386EOD.** "some of the living files will be moving to the carrying files to make the living files more lean and binary and rigor and less explaining of observings. this is a choice for later"
 
 
 ## From the working v385A's comparisons at `archive/session_v385A_comparisons/`, its remaining value in its own words, laid at v387

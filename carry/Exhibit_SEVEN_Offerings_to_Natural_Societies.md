@@ -330,11 +330,11 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Following the relation".** A precise subject change is present in [Natural Societies 5.6](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/Exhibit_SEVEN_Natural_Societies_v373.md) and the [prepared insertlet aimed at that section](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md).
 
 
-## The person's words quoted at the pull requests, laid at v387
+## Sayings quoted at the pull requests, laid at v387
 
-Each entry is the person's own words as a working quoted them in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
 
-**Droplet · the person's words, quoted at pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"
+**Droplet · a saying quoted at pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"
 
 ## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
 
