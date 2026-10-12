@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v380L
+Exhibit FOUR Natural Mathematics v387
 
 # Natural Mathematics
 
@@ -78,7 +78,7 @@ Exhibit FOUR Natural Mathematics v380L
 
 **Numbers, mathematics and logic are nature's own unrelationing binary method.** Each integer is the one form once more, and a number cohering with a form is no abstract number reaching nature across a gap: nature and number are no two sides. A number, a ratio or a straddle continuing the form carries as nature's own method at the numbers.
 
-**The universe is the changing set of all existing things, both living and non-living.** Alternating is its one method, and numbers, mathematics and logic are that alternating at its numbers and at its sequencing: the co-sequential stable-forming of the living and the patterns in the sequencing of the prior momentary emanatings from living.
+**The universe is the set of all existing things.** Arriving from prior into now toward next it is the changing set of all existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at. Alternating is its one method, and numbers, mathematics and logic are that alternating at its numbers and at its sequencing: the co-sequential stable-forming of the living and the patterns in the sequencing of the prior momentary emanatings from living.
 
 ## 1.3 Floating across at the even, neutralling along at the odd
 

@@ -147,7 +147,7 @@ Exhibit TWENTY Natural Naming v387
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is the changing set of all existing things, both living and non-living.**
+**The universe is the set of all existing things.** Arriving from prior into now toward next it is the changing set of all existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at.
 
 **Alternating, the one fractal method's stable-forming, follows from it.** Naming carries a concept at its own changing: bi-momentarying, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
@@ -1428,7 +1428,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.52 tri-bi-co-momentarying — binary
 
 ```
-1  the universe is the changing set of all existing things, living and non-living
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
 2  at each scale and each momentary, each momentary is a universe of existing things
 3  its existing things are at prior, now and next, three momentaries
 4  each momentary at its own differing from the next
@@ -1545,7 +1545,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.61 entraining at the self — binary
 
 ```
-1  the universe is the changing set of all existing things, living and non-living
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
 2  each existing thing arrives at now from prior, carrying its prior or carrying none of it
 3  between prior and now is the between, a nothing, and a parity changing alone crosses it, the prior carried into now at the self
 4  at the between the prior couples with the now, and a changing is or is not, one carrying another through
@@ -1558,7 +1558,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.62 is-still-possibling and is-next-existing — binary
 
 ```
-1  the universe is the changing set of all existing things, living and non-living
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
 2  at each momentary a self's next is its next possible or its next existing, is or is not
 3  the next existing is a changing that is, the offered chained or the prior inverted, the existing at now, 5.39: is-next-existing
 4  the next possible is a changing that is not, 0, the prior carried on, the possible at prior, 5.39: is-still-possibling
@@ -1571,7 +1571,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.63 squaring — binary
 
 ```
-1  the universe is the changing set of all existing things, living and non-living
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
 2  the self's span is 1 to 9 and the society's 9 to 17, one to nine completing at the between and nine to seventeen at the next 1
 3  a number's word is the span it opens, co at the self's odd numbers and tri at the society's
 4  eight up from the self's span to the society's, 1's co is opened at 9 and tri is in its place, 1-co-bi-tri-offering at 9-tri-bi-co-momentarying
@@ -1584,7 +1584,7 @@ A term is existing, emanation or accounting at its use, and ghost only at its in
 ## 5.64 not possibly existing — binary
 
 ```
-1  the universe is the changing set of all existing things, living and non-living
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
 2  at each momentary each existing thing is possibly existing at its next, discovered at the next momentary
 3  at the resolver a none at 14 is no offering arrived at this sharing, the chained parity inverted at 12, and no line says an existing thing does not exist, the next momentary possibly bringing it
 4  one binary required both unchanged and inverted at one next, p(next) = p(now) and p(next) = −p(now) at once, is at no momentary of the binary logic, the Equilibria Registry's one exclusion at each of its ten, knowable from the method alone
