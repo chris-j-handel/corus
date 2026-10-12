@@ -228,6 +228,8 @@ Exhibit FOUR Natural Mathematics v387
 
 **Two inversions whose fixed lines stand at an angle a are the field's rotation by 2a**, the double angle at the inversions. At two parities P inverted and Q inverted, their lines at ninety degrees, make both inverted at one step; the exchange of P and Q and then P inverted, their lines at forty-five degrees, make the right spiral step.
 
+**The rotation 3, 6, 5, 4 is the gentle alternating twisting of a towel into and out of a knotted corus**, the large outer opening wrapping to the small corus and back, and its edges are the bi-foldings, across at the bi-morality and along at the co-competency: two consecutive inversions on different axes at each step, the opening the step between. Corusing reaches the corus from the surface, and torusing reaches the surface from the corus, co-linear by alternating linear parallelizing and parallel linearizing, each step orthogonal to the prior.
+
 ## 3.5 Bi-tri-involutioning, the emanating at the opposite form
 
 **Three parities each inverted in its own place, taken together in any order, send each of the eight forms to its opposite**: none the same, the eight parted into four opposite pairs, the hand reversed. Inverting each of n parities is a rotation at an even n and reverses the hand at an odd n, determinant (−1)ⁿ.

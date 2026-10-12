@@ -2326,3 +2326,6 @@ The user declared session v385M completed and closed. Its seventeen-file offerin
 
 
 **v387, 2026-10-12 · Natural Intelligence v387.** The living file's first motion of the session, at the value resolved at the front of its offerings: the inception the set alone; *Now, the universal momentary* a section of its own; *Prior, now and next* moved to Part ONE; the changing set the first derived saying; *Along and across, two and the between* before parity; living and non-living derived at 6.5 as living at one prime scale, non-living at each other scale; and about thirty sentences changed at the sections named. Exhibit ONE inside it unchanged, cohered; check_set ALL PASS; build. Natural_Intelligence_v380R retired to history.
+
+
+**v387, 2026-10-12, afternoon.** Exhibit ONE v387 at two motions and the executed table of a spiral opened carrying none; Natural Naming v387; the Co-Chaining Logic Registry v387 at the inception and step 397 derived; Resolving Hard Problems, Natural Mathematics, the Equilibria Registry and the Living File Registry at v387 with the inception said before the opening sentence; six dissolving droplets at every offerings file; the numbers' paragraphs received at Natural Numbers v387 and Natural Mathematics and released at Natural Intelligence. check_set ALL PASS throughout; main untouched.

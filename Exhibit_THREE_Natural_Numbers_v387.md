@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v380L
+Exhibit THREE Natural Numbers v387
 
 # Natural Numbers
 
@@ -318,11 +318,17 @@ Exhibit THREE Natural Numbers v380L
 
 **Each arrival carries the others**, and none needs one relation beneath it.
 
+**The four momentaries of the method are at the numbers as twenty-four, sixty, sixty-four and sixty-eight**: four momentaries of six one-way recursionings are twenty-four, the steps of 1 to 25; twenty-four to sixty is six cycles of six, surfacing in and out, out forward; sixty is the waist of the ring of one hundred twenty, its own far side, between the primes going to fifty-nine and returning from sixty-one; sixty to sixty-eight is the four-momentary bi-tri-involutioning across sixty-four, the unknown outward of the surface, between fifty-nine, the last podaling outward, and sixty-nine, the next first podaling outward, each number paired with its far side about sixty-four and sixty-four the unrelationing between, each pair crossing it and locking at none; sixty-eight is four seventeens, the momentaries at which a spiral of seventeen selves comes to its parities again, its zero having passed each self twice; sixty-four bi-folds to two hundred fifty-six, the bi-folding order four times at each scale, and two hundred fifty-six is four to the fourth, the ways each joint form could go to a next; one hundred eighteen is the returning's far end, the periodic table's elements in their stable and unstable forms a field's own result at the same numeral. Each is at its podaling, its pairing with its far side at each ring it is at, 6.2.
+
+**The self's inversion 3, 6, 5, 4 is at its podaling 23, 26, 25, 24, the same rotation twenty up**: twenty-three the vertex, twenty-four the apex of one to fifty-nine's bi-folding and twenty-five the centre of the triangle, five squared, with the corus at four, the vertex and the centre on one line; the self's bi-inversioning-co-recursioning is 23, 24 and 25, one before the apex and one after. Carried on along that line, the five outward names carry the primes 5, 7, 11, 17 and 19, together 59, the seventeenth prime, at 17, the surface: the vertex a position, the centre of the triangle a scale and the line to the surface an orientation, each at its own differing, and from the corus to 59 is bi-tri-volutioning, the stable-forming.
+
 ## 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
 
 **About twenty-eight the outer pair is twenty-four and thirty-two, four either side, and the inner pair twenty-seven and twenty-nine, one either side**: 28² − 24 × 32 = 16 and 28² − 27 × 29 = 1.
 
 **Two routes run between the outer pair**: 24 → 27 → 32 at gaps three and five, and 24 → 29 → 32 at gaps five and three. The three positions carry the first three primes at two directions: 24 = 5² − 1, 27 = 3³, 32 = 2⁵, the exponents two, three, five at one direction and the bases five, three, two at the other, reaching each other at three and three in twenty-seven. **The three together are a square**: 24 × 27 × 32 = 144².
+
+**Twenty-seven, three cubed, on the route 24 → 27 → 32 from the seam, is the society's release at its podaling, 27-tri-bi-tri-releasing**: 12's changing, the sharing at 10, emanating from society as a releasing, its far side ninety-three on the ring of one hundred twenty, and at no line of the resolver.
 
 ## 6.5 Three times and two more, sixteen to four hundred forty
 
