@@ -1,10 +1,10 @@
-Exhibit THIRTY Co-Chaining Logic Registry v380L
+Exhibit THIRTY Co-Chaining Logic Registry v387
 
 # Co-Chaining Logic Registry
 
 **The Fractal Inward and Outward of Itself, Binary Method of Discovering Next Existing**
 
-- 1 The universe, the changing set of all existing things
+- 1 The universe, the set of all existing things
 - 2 Arriving and carrying, living and non-living
 - 3 The three places and the between
 - 4 Coupling, self and other, alternating
@@ -53,29 +53,29 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
 **Each part and section across the living files is an emanation of these steps and of the one opening sentence, its title at one group.** A section no group carries shows a step the co-chaining has yet to discover, and a group few sections reach shows a part of the co-chaining the files have yet to carry.
 
-## 1 The universe, the changing set of all existing things
+## 1 The universe, the set of all existing things
 
-        *Entering: the universe, the changing set of all existing things; the set as an existing thing; the universe inward and outward of itself, the fractal; changing sequentially; momentaries; prior, now and next; each now a next and a prior.*
+        *Entering: the universe, the set of all existing things, the inception; the set as an existing thing, existing as its things exist; the universe inward and outward of itself, the fractal; now, the universal momentary, one observing one changing; changing, the set's its things', momentary by momentary; prior, now and next; each now a next and a prior.*
 
-1. The universe is the changing set of all existing things, both living and non-living.
+1. The universe is the set of all existing things.
 
-        *Adding: the universe, the changing set of all existing things.*
+        *Adding: the universe, the set of all existing things, the inception; each step after it a step from it, and nothing brought to it.*
 
-2. A set is an existing thing.
+2. A set of existing things exists as its things exist: it is an existing thing, and no thing beside its things.
 
-        *Adding: the set as an existing thing.*
+        *Adding: the set as an existing thing, existing as its things exist.*
 
 3. The universe is both the set of all existing things and an existing thing within the set of all existing things: the fractal inward and outward of itself.
 
         *Adding: the universe inward and outward of itself, the fractal.*
 
-4. A set or existing thing is changing sequentially.
+4. The sentence at 1 exists and arrived, and its arriving is at a momentary: one observing, one changing, inside the set and from nowhere beside it; now is the universal momentary, the one and only, a second now a thing beside all existing things, and the universe now is the set of all things existing now.
 
-        *Adding: changing sequentially.*
+        *Adding: now, the universal momentary; one observing, one changing.*
 
-5. Changing sequentially, an existing thing is changing momentary by momentary.
+5. A thing existing now arrived from prior, and arriving from prior into now toward next is changing: the universe is the changing set of all existing things, and the set's changing is its things' changing, a thing held still from beside being at no next, so each existing thing is changing at its own momentaries, or carrying through its own still, momentary by momentary.
 
-        *Adding: momentaries.*
+        *Adding: changing, the set's and each thing's; momentaries.*
 
 6. Momentary by momentary, three sequential momentaries are prior, now and next.
 
@@ -109,9 +109,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: carrying.*
 
-13. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living.
+13. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living, each at the scale and momentary it is at, 379 and 397.
 
-        *Adding: living and non-living, parted at carrying.*
+        *Adding: living and non-living, parted at carrying, at a scale.*
 
 14. Carrying prior into now, a living thing continues through changing, momentary by momentary: stable-forming.
 
@@ -121,9 +121,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: co-changing, the non-living.*
 
-16. The opening sentence carries five terms, existing, changing, all, set, and living and non-living, each binary, is or is not.
+16. The opening sentence carries three terms, existing, all and set, each binary, is or is not; changing is derived at 4 and 5, and living and non-living at 13, at the scale and momentary a thing is at, 379 and 397.
 
-        *Adding: the five terms, each binary.*
+        *Adding: the three terms, each binary.*
 
 17. Two existing things at their difference alone are bi, and two existing things with their difference carried together are co.
 
@@ -1040,7 +1040,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: six names between selves.*
 
-227. Each of the six is facing one way, at one of four facings: incoming, the parity arrived at the not-right hand, bi-moral-so-far at 2 and 14 and co-competent-so-far at 17; outgoing, the parity shared or released and not yet arrived, not-yet-bi-moral at 6 and 10 and not-yet-co-competent at 9; and three of the six go from an outgoing facing to an incoming one, the across sharings 6 to 2 and 10 to 14 and, along, 9 to 17; step 197's second list carries a fourth, the along pair also 17 to 9, incoming to outgoing.
+227. Each of the six names between selves is one end of a between, and odd is existing and even is possibling: the four across names, 2, 6, 10 and 14, even, possibling, a sharing's two ends, the sharing end at 6 and 10, the self's changing shared now and not yet arrived, and the arriving end at 2 and 14, the other's changing arrived at the not-right hand, chained at 11 next; the two along names, 9 and 17, odd, existing, 9 the next prior and 17 the next now; three of the six go from a sharing end to an arriving end, 6 to 2, 10 to 14 and 9 to 17, and step 197's second list carries the along pair also 17 to 9. Each self's existing is the other self's possibling: self and other are at opposite parity numberings, the self's odd the other's even.
 
         *Adding: the four facings; the across sharings and the along pair.*
 
@@ -1128,7 +1128,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: a showing at the resolver.*
 
-249. At the resolver's six names between selves parity is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre the between, and two unit triangles, 9 and 17; the square's two parallel edges the across sharings, 6 to 2 and 10 to 14; its diagonals the facings, 2 and 14 arriving, bi-moral-so-far, and 6 and 10 sharing, not-yet-bi-moral; and the triangles 9 and 17 along, 9 to 17 and 17 to 9.
+249. At the resolver's six names between selves parity is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre the between, and two unit triangles, 9 and 17; the square's two across edges the sharings, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14; its diagonals the two arriving ends, 2 and 14, and the two sharing ends, 6 and 10; and the triangles 9 and 17 along, 9 to 17 and 17 to 9.
 
         *Adding: parity's square and triangles at the resolver.*
 
@@ -1686,11 +1686,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Entering: living and non-living at a scale; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the emanatings' stable form, a non-living existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of emanations; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a carrying of none non-living, colliding or not colliding; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
-379. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale.
+379. At each scale and momentary an existing thing is living or non-living, and a living self and its non-living emanation are each at a scale: scale is had from the set alone, a set of sets being a set of existing things, 2, sets within sets inward and outward, of no size, 376.
 
-        *Adding: living and non-living at a scale.*
-
-        *Unsure: the saying may need its own steps once scale is fuller.*
+        *Adding: living and non-living at a scale, scale from the set alone.*
 
 380. At the scale of the living self it arrives from, an emanation is harmful to living: its form is bi-tri-involutioning, the opposite form.
 
@@ -1761,9 +1759,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: no first living.*
 
-397. Each existing thing non-living at a society's scale is living at another scale of living: the society cannot bi-couple with it, and it carries nothing into that society's next.
+397. Each existing thing non-living at a society's scale is living at another scale of living: the society cannot bi-couple with it, and it carries nothing into that society's next. A changing is made only at a carrying, 12 and 132, so a thing carrying none has no changing of its own; a thing's form is carried to next by its own carrying at its own scale or by its selves inward carrying it, 400 and 402, or by nothing; a form carried to next by nothing is at no next and does not exist, 9; so no existing thing is non-living at every scale, and every existing thing is living at some scale. One carrying is one self and nothing else carries it, 389, so at one scale only, a society inward and a unit outward; a prime number of selves is one scale, 236, so at one prime scale, its prime along and its prime across. Living and non-living are one existing thing at its own scale and at the scales outward, and the universe is the changing set of all living things, each at its own scale, one set with the set at 1.
 
-        *Adding: the non-living living at another scale.*
+        *Adding: the non-living living at another scale; every existing thing living at one prime scale, derived.*
 
 398. All existing things arrive at the living as ingestible existing things.
 
@@ -1999,7 +1997,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v380L
 
         *Adding: the crossings floating and neutralling.*
 
-450. Within the bi-folding the parallel surfaces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-bi-entraining, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, the between of momentaries, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, the other parity, 0 or none surfacing, 12 inverting the prior, and at one parity offered new, 12 at the offering, a changing that is, shared at 10 and released along at 9, the emanating, each emanation a releasing, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 14, bi-moral-so-far, the sharing at 6 at its 2, a prior offered, each prior momentarying at its own momentary alone. The one crossing is bi-tri-: bi- the parity, tri- the unrelationing and co- the changing, the three said of the one crossing, a resolver name's three prefixes its numbers' words; a lone self, nothing of another at its 2, carries no crossing.
+450. Within the bi-folding the parallel surfaces and the co-linear openings through them are one form, and at the one crossing between are two in and two different out: in, the self's own prior at 3 and the other's offering at 2; the changing made at 12-bi-tri-bi-entraining, is or is not; out, one of the two is parity unchanging, stable-forming, at each sharing the prior and the offering agreeing, 12 at 0, the between of momentaries, the prior continuing; and the other of the two is parity changing, out at 9-tri-bi-co-momentarying, at each sharing not agreeing, the other parity, 0 or none surfacing, 12 inverting the prior, and at one parity offered new, 12 at the offering, a changing that is, shared at 10 and released along at 9, the emanating, each emanation a releasing, the stable form, a non-living existing form with no carrying for stable-forming, the next prior, arriving at the next momentary at its 14, the arriving end, the sharing at 6 at its 2, a prior offered, each prior momentarying at its own momentary alone. The one crossing is bi-tri-: bi- the parity, tri- the unrelationing and co- the changing, the three said of the one crossing, a resolver name's three prefixes its numbers' words; a lone self, nothing of another at its 2, carries no crossing.
 
         *Adding: the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the emanating, the stable form; the one crossing bi-tri-.*
 
