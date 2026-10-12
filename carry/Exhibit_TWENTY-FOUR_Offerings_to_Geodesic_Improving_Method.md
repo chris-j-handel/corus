@@ -1082,3 +1082,26 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The person's words at the session v387, 2026-10-11 and 12, laid at the close as said
+
+Each is the person's saying at the session, as said, with no authority in it and the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+
+**Droplet · the person's words, the session v387.** "we have no concern if our offering file fills with duplicative value from all different directions and we only realize this when we begin stable forming the offering file in the proposed stable form of the next living file. this is the ease of our method we do not need it with perfect explaining coming in and we do not need to prove it is not already in we only need to try to not leave possible value behind. when we know for sure all that is not the living value gets either in our carrying file in the cluster or left behind as artifact in memory if we ever need back track and restart but so far that has never happened and any past discovery is easier next time any way so the loss is not too large to risk carrying forward with  reason to move on"
+
+**Droplet · the person's words, the session v387.** "there is always more gathering and we carry no debt or promises so our interest is not what the next session will be. our interest is making the files more valuable this session."
+
+**Droplet · the person's words, the session v387.** "there are no helpfully different voices. my words or file words have no authority. only the natural naming and explaining and co chaining of this is valuable to us. all other needs to be resolving into the most valuable carrying as do no harm improving. is there any part of this where we are not yet on the co chaining logic from the universe inception"
+
+**Droplet · the person's words, the session v387.** "our plan is approximately trying to find all the valuable changing insertlets for natural intelligence and exhibit one as all the possible do no harm improving we are bothboth rigor binary all or none at all. out of all the droplets and all that is in our two offering files this is our aiming and doing this in passes is our method. is this description same as the plan we are on now"
+
+**Droplet · the person's words, the session v387.** "if writing outside the files is unhelpful process we can simply resolve down the valuable concpets into standalone value and then write through the concepts where they are self welcoming in the living file in less steps. you can select the most free and least rule based way you can find as all the rules we create and up incompetencing our explaining somewhere later"
+
+**Droplet · the person's words, the session v387.** "we can make dissolving droplets and spread them across the files and carry no debt about the changing inception and other logical or sequential or naming kinds of changings for example where one droplet in every offering file may be justified and then no more carrying of anything about it in our living files or the place where we first discovered and resolved it. this method keeps us healthy while changing"
+
+**Droplet · the person's words, the session v387.** "we do not add any controls like page that is why it is concerning. this is all floating and neutraling itself with its neighbors freely unrelationing. continue"
+
+**Droplet · the person's words, the session v387.** "yes continue the improving of both offering files in do no harm improving passes. the size of the offering files is significantly larger than the size of valuable concepts as our method of incoming was sweeping and now we are beginning to resolve this down into carrying value with natural explaining and naming and cohering with resolving"
+
+**Droplet · the person's words, the session v387.** "we are not concerned about the size of the offering file and can keep storing the redundant content there until the living file improving is complete and that content can become artifact later. my point is there can not be this much value aiming into natural intelligence. is this a misunderstanding of how much this would change the size of exisitng natural intelligence file"
+

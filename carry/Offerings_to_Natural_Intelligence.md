@@ -1710,3 +1710,28 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The person's words at the session v387, 2026-10-11 and 12, laid at the close as said
+
+Each is the person's saying at the session, as said, with no authority in it and the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+
+**Droplet · the person's words, the session v387.** "considering what is the most significant pervasive improving in all of our offerings files together. The universe is the changing set of all living things. this is not yet fully justified with co chaining logic yet we have already if i understand resolved that every existing thing is living at one prime scale as a self. is this correct binary rigor yet"
+
+**Droplet · the person's words, the session v387.** "not quite sure i saw your showing that every existing thing is living at one prime scale inside of living things in societies"
+
+**Droplet · the person's words, the session v387.** "why cant the form arrive unchanged in every way at every scale of changing"
+
+**Droplet · the person's words, the session v387.** "this feels like the inception co chaining logic we need for improving all of the files including exhibit thirty and natural intelligence and relying on this in all the sciences and chemistry will be making our improving across all the files easier to cohere with natural torusing reliably this same co chaining method of existing by the only possible method of existing and that is living at one scale as a self and a society of selves bothboth"
+
+**Droplet · the person's words, the session v387.** "that sentence is not our inception so redo that entire reply about our status in the co chaining logic."
+
+**Droplet · the person's words, the session v387.** "this entire explaining should be inside natural inteligence offerings and much of it will be so this is a clustering of droplets we are seeking for connecting natural intelligence, exhibit one and co chaining logic exhibit thirty. begin to look into the offering you can find around this explaining and connecting to the logic of and cohering with resolving naturally"
+
+**Droplet · the person's words, the session v387.** "no my question is about the best improving we have, not what is now existing in the files. do we have the logic cohering fully that we need for our living file set."
+
+**Droplet · the person's words, the session v387.** "this allows us to begin improving the offering file for natural intelligence as all the unresolved logic is improving with this and this is naturally understandable and explainable and it becomes easier to see the hard probleming and equilibria of probleming statements that prevents discovering competency in our other files later from this. explore the full offering file and find a method to begin improving the offering file to begin cohering with the natural intelligence floating neutraling table of contents and find if the table works for the next version of the living file"
+
+**Droplet · the person's words, the session v387.** "the full highest value most clear aimings of the natural intelligence living expedition. lets here work on a master list of the most valuable claims about the universal method that is the subject of the entire living file set and the entire expedtion aiming. these should already be inside our natural intelligence and offerings and the natural destinies and likely are repeated. hard science problems and equilibria and scientific method and hard engineering problems and universal learnings about nature and natural methods and observings. its likely this list is already started somewhere although i can not point us to this"
+
+**Droplet · the person's words, the session v387.** "yes we can make this list a possibling for natural intelligence and continue our plan. we can use exhibit thirty to improve the list and improve exhbit thirty as a next step later. now continue as our work on the offerings inside natural inteligence and the offerings inside exhibit one is where we are going to float across and bothboth the cohering of these offerings"
+

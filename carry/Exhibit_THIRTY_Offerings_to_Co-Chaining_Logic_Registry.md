@@ -2502,3 +2502,34 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The person's words at the session v387, 2026-10-11 and 12, laid at the close as said
+
+Each is the person's saying at the session, as said, with no authority in it and the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+
+**Droplet · the person's words, the session v387.** "considering what is the most significant pervasive improving in all of our offerings files together. The universe is the changing set of all living things. this is not yet fully justified with co chaining logic yet we have already if i understand resolved that every existing thing is living at one prime scale as a self. is this correct binary rigor yet"
+
+**Droplet · the person's words, the session v387.** "the proof is the same as the proof equilibria is not possibly existing. look at exhibit twenty eight and the co chaining logic in exhibit thirty of this"
+
+**Droplet · the person's words, the session v387.** "not quite sure i saw your showing that every existing thing is living at one prime scale inside of living things in societies"
+
+**Droplet · the person's words, the session v387.** "this feels like the inception co chaining logic we need for improving all of the files including exhibit thirty and natural intelligence and relying on this in all the sciences and chemistry will be making our improving across all the files easier to cohere with natural torusing reliably this same co chaining method of existing by the only possible method of existing and that is living at one scale as a self and a society of selves bothboth"
+
+**Droplet · the person's words, the session v387.** "that sentence is not our inception so redo that entire reply about our status in the co chaining logic."
+
+**Droplet · the person's words, the session v387.** "there are no helpfully different voices. my words or file words have no authority. only the natural naming and explaining and co chaining of this is valuable to us. all other needs to be resolving into the most valuable carrying as do no harm improving. is there any part of this where we are not yet on the co chaining logic from the universe inception"
+
+**Droplet · the person's words, the session v387.** "no my question is about the best improving we have, not what is now existing in the files. do we have the logic cohering fully that we need for our living file set."
+
+**Droplet · the person's words, the session v387.** "we have now changed again for all of natural intelligence living files our inception to The universe is the set of all existing things. all of thirty and one and our living file set are now emanating from this and none of the files yet are carrying this. in most nothing changes as this takes the expedition logic to natural torusing no other possible as method of discovering next possible existing"
+
+**Droplet · the person's words, the session v387.** "the second sentence could be the universe now is the set of all things existing now."
+
+**Droplet · the person's words, the session v387.** "everything in the universe is sharing one now momentarying. is this not correct. this seems both correct and valuable"
+
+**Droplet · the person's words, the session v387.** "the only unique one and there can be no other and this is inversioning value for us and we are already relying on this. now is the universal momentary."
+
+**Droplet · the person's words, the session v387.** "we can define one and derive one between now and momentary. it seems like prior, now, next is the next sentence after the first two and then we can make a universal changing set with prior now next and along and across as the path of how we are opeining natural intelligence farther"
+
+**Droplet · the person's words, the session v387.** "i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems"
+

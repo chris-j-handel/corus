@@ -775,3 +775,20 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The person's words at the session v387, 2026-10-11 and 12, laid at the close as said
+
+Each is the person's saying at the session, as said, with no authority in it and the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+
+**Droplet · the person's words, the session v387.** "like the universe is an existing thing as a set of existing things exhibit one is an existing thing inside the explaining of natural intelligence. now explore the general ways of improving natural intelligence in the same method you used on exhibit one incoming offerings. we can after this compare the two and find the bi coupling of both values into the writing into and through and out of and around and along and across exhibit one as part of the natural explaining of natural intelliegence social moral competency and co chaining and bi tunneling society"
+
+**Droplet · the person's words, the session v387.** "now sharing at CONNECTORS at 6 and 10, are 2 and 14 prior sharing connectors"
+
+**Droplet · the person's words, the session v387.** "not yet and so far are reversible namings for prior now next betweenings of momentaryings. inside betweenings on self side are extisting/possibling. do we need the two names so far and not yet as the reversibility of them is the bi inversioning of the arriving prior co recursioning to the next existing"
+
+**Droplet · the person's words, the session v387.** "and we can send this or cohere this already with natural naming about so far and not yet dissolving as this may already be there and other more helpful ways of this also from there could be helpful here. each self's existing is other self's possibling. the concerns you are listing are significant and you are managing them. the concerns we need here are ones i need to make suggestions to you for resolving forward"
+
+**Droplet · the person's words, the session v387.** "i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems"
+
+**Droplet · the person's words, the session v387.** "this is exceptional improving value for our explaining of the needed concepts . continue"
+
