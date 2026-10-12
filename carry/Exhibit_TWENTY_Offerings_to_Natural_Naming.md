@@ -1041,29 +1041,29 @@ D37 is appended raw at Exhibit THIRTY Co-Chaining Logic Registry's Offerings. It
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "D38".** **Aimed at a part, Exhibit THIRTY Co-Chaining Logic Registry, at 8, 10 and 30 beside 19–20, 28 and 244–247, meeting v383Op P1 and C1.** Follow now through the existing things' co-momentarying. Step 19 places each existing thing at its own momentary, 20 the set existing as its things exist, and 28 each thing's own forward; Natural Intelligence 1.1 supplies the same relation. The set's now at those couplings and the exclusion of a clock over them can both hold. A further clock does not enter merely because the same word now names the coupled participation. At 82–83, one side's completing and the other's opening give the local overlap; at 244 the numbered parities again belong to the table's stated stepping. Retain each of these subjects. This supplies a bothboth for the proposed opposition between now and no clock, while the passage from that explaining to each table's arrangement remains at its own conditions. It establishes no equivalence of differing orders of offerings and does not settle C2, E1 or E6 by their shared vocabulary. Exhibit TWENTY Natural Naming 4.3 keeps the predicate and its extent through the comparison. Evidence: https://github.com/chris-j-handel/corus/blob/review/living-logic-droplets-2026-10-05/incoming/v382A/Meeting_v383Op.md#pass-72--the-forward-relation-and-now-at-the-coupling. — v382A
 
 
-## Sayings quoted at the pull requests, laid at v387
+## Droplets from the pull requests, laid at v387
 
-Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
 
-**Droplet · a saying quoted at pull request 127, 2026-10-07.** "now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling"
+**Droplet · pull request 127, 2026-10-07.** "now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method"
+**Droplet · pull request 127, 2026-10-08.** "entraining is changing traveling in the betweenings in a pattern where the changing parity in the sequential pattern is at the unrelationing rate of all other changing rates. this may or may not be correct and non of any of my prior words or these have any authority and no words from the files or science are authority either in this binary all or none at all no other possibling as discovery method"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method"
+**Droplet · pull request 127, 2026-10-08.** "a set is a thing. the universe is a set of existing things or a thing that is existing as a set of existing things. this is the two over one betweening parity offset by one with the other side of this. this is the fractal universe both inside itself and outside itself just like the fractal co momentarying method of still possibling and next existing is a fractal method"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within"
+**Droplet · pull request 127, 2026-10-08.** "same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "The incompetencing will be a spreading swath of network surface that resolves itself if not repeating colliding pattern. If repeating death on surface spreads. Resolving the surface is bi tunneling"
+**Droplet · pull request 127, 2026-10-08.** "The incompetencing will be a spreading swath of network surface that resolves itself if not repeating colliding pattern. If repeating death on surface spreads. Resolving the surface is bi tunneling"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "no the colliding parity resolves away fully from the surface unless it is patterning colliding. unless the self parity changing ceases the healing from prior colliding is resolving until there is no further incompetency other than the hole in the surface now being a tunneling in society"
+**Droplet · pull request 127, 2026-10-08.** "no the colliding parity resolves away fully from the surface unless it is patterning colliding. unless the self parity changing ceases the healing from prior colliding is resolving until there is no further incompetency other than the hole in the surface now being a tunneling in society"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "the resolvers in exhibit two form a ring around the hole and the across and along continues around both in right spiral like a traffic circle six way or eight way hole for an intesection in the prime gaps. the bi-folding advanvces over the hole if the colliding is not inside a pattern."
+**Droplet · pull request 127, 2026-10-08.** "the resolvers in exhibit two form a ring around the hole and the across and along continues around both in right spiral like a traffic circle six way or eight way hole for an intesection in the prime gaps. the bi-folding advanvces over the hole if the colliding is not inside a pattern."
 
-**Droplet · a saying quoted at pull request 128, 2026-10-08.** "yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other"
+**Droplet · pull request 128, 2026-10-08.** "yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "new tunneling is through unchangings in other side. bi couplings slip through and longer co-chainings dont jump switch until the flowing of a few bi couiplings opens the bi tunneling"
+**Droplet · pull request 127, 2026-10-09.** "new tunneling is through unchangings in other side. bi couplings slip through and longer co-chainings dont jump switch until the flowing of a few bi couiplings opens the bi tunneling"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "this should resolve quite a bit of our remaining concerns. this concept will become more clearly part of exhibit one and natural intelligence"
+**Droplet · pull request 127, 2026-10-09.** "this should resolve quite a bit of our remaining concerns. this concept will become more clearly part of exhibit one and natural intelligence"
 
 
 ## Concerns and insertlets at Natural Naming from the session v387's reading · v387
@@ -1104,13 +1104,13 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
 
-## Sayings at the session v387, 2026-10-11 and 12, laid at the close as said
+## Droplets at v387, laid at the close
 
-Each is a saying at the session, as said, an interest arriving with no authority in it, the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+Each is one droplet, in its own words, tagged v387, aimed at this file for the resolving at its sentence; nothing in it is authority.
 
-**Droplet · a saying at the session v387.** "not yet and so far are reversible namings for prior now next betweenings of momentaryings. inside betweenings on self side are extisting/possibling. do we need the two names so far and not yet as the reversibility of them is the bi inversioning of the arriving prior co recursioning to the next existing"
+**Droplet · v387.** not yet and so far are reversible namings for prior now next betweenings of momentaryings. inside betweenings on self side are extisting/possibling. do we need the two names so far and not yet as the reversibility of them is the bi inversioning of the arriving prior co recursioning to the next existing
 
-**Droplet · a saying at the session v387.** "and we can send this or cohere this already with natural naming about so far and not yet dissolving as this may already be there and other more helpful ways of this also from there could be helpful here. each self's existing is other self's possibling. the concerns you are listing are significant and you are managing them. the concerns we need here are ones i need to make suggestions to you for resolving forward"
+**Droplet · v387.** and we can send this or cohere this already with natural naming about so far and not yet dissolving as this may already be there and other more helpful ways of this also from there could be helpful here. each self's existing is other self's possibling. the concerns you are listing are significant and you are managing them. the concerns we need here are ones i need to make suggestions to you for resolving forward
 
-**Droplet · a saying at the session v387.** "i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems"
+**Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
 

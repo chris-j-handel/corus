@@ -29,25 +29,25 @@ This file is re-laid in the living file's own order: the table of contents is th
 
 **The file's sentence.** "The universe is the changing set of all existing things, both living and non-living."
 
-**Droplet · a saying at the session v387, 2026-10-12.** "The universe is the set of all existing things. From this one sentence and no other assumptions or ingressing or escaping the entire natural intelligence and universal fractal method of geodesic discovering next possible existing. this is the logic we are cohering now."
+**Droplet · v387.** The universe is the set of all existing things. From this one sentence and no other assumptions or ingressing or escaping the entire natural intelligence and universal fractal method of geodesic discovering next possible existing. this is the logic we are cohering now.
 
-**Droplet · a saying at the session v387.** "the universe is the set of all existing things. we may not need anything about changing in the inception as we may introduce changing as one observation of one changing inside the universe to discover then the logical parity changing method for all"
+**Droplet · v387.** the universe is the set of all existing things. we may not need anything about changing in the inception as we may introduce changing as one observation of one changing inside the universe to discover then the logical parity changing method for all
 
-**Droplet · a saying at the session v387.** "we have now changed again for all of natural intelligence living files our inception to The universe is the set of all existing things. all of thirty and one and our living file set are now emanating from this and none of the files yet are carrying this. in most nothing changes as this takes the expedition logic to natural torusing no other possible as method of discovering next possible existing"
+**Droplet · v387.** we have now changed again for all of natural intelligence living files our inception to The universe is the set of all existing things. all of thirty and one and our living file set are now emanating from this and none of the files yet are carrying this. in most nothing changes as this takes the expedition logic to natural torusing no other possible as method of discovering next possible existing
 
-**Droplet · a saying at the session v387.** "the second sentence could be the universe now is the set of all things existing now."
+**Droplet · v387.** the second sentence could be the universe now is the set of all things existing now.
 
-**Droplet · a saying at the session v387.** "everything in the universe is sharing one now momentarying."
+**Droplet · v387.** everything in the universe is sharing one now momentarying.
 
-**Droplet · a saying at the session v387.** "the only unique one and there can be no other and this is inversioning value for us and we are already relying on this. now is the universal momentary."
+**Droplet · v387.** the only unique one and there can be no other and this is inversioning value for us and we are already relying on this. now is the universal momentary.
 
-**Droplet · a saying at the session v387.** "we can define one and derive one between now and momentary. it seems like prior, now, next is the next sentence after the first two and then we can make a universal changing set with prior now next and along and across as the path of how we are opeining natural intelligence farther"
+**Droplet · v387.** we can define one and derive one between now and momentary. it seems like prior, now, next is the next sentence after the first two and then we can make a universal changing set with prior now next and along and across as the path of how we are opeining natural intelligence farther
 
-**Droplet · a saying at the session v387.** "nothing lives in one stable form forever."
+**Droplet · v387.** nothing lives in one stable form forever.
 
-**Droplet · a saying at the session v387.** "every living thing commenced living by changing parity and carrying from then every momentarying to now"
+**Droplet · v387.** every living thing commenced living by changing parity and carrying from then every momentarying to now
 
-**Droplet · a saying at the session v387.** "is every existing thing in the universe a living thing. is every existing thing changing parity as a prime society. this is similar to the math numbers inversion proof that natural torusing is the only existing method of possibly living" — and, of the proof: "the proof is the same as the proof equilibria is not possibly existing." — and: "named is not inside nature."
+**Droplet · v387.** is every existing thing in the universe a living thing. is every existing thing changing parity as a prime society. this is similar to the math numbers inversion proof that natural torusing is the only existing method of possibly living" — and, of the proof: "the proof is the same as the proof equilibria is not possibly existing." — and: "named is not inside nature.
 
 **Insertlet · At 1.1 · beside "The universe is the changing set of all existing things, both living and non-living."** The universe is the set of all existing things. Three terms, existing, all and set, each binary, is or is not; nothing is beside the set, nothing ingressing and nothing escaping. This sentence is the inception, and every sentence after it is a step from it with nothing brought.
 
@@ -739,7 +739,7 @@ A sentence offered for a living file is a droplet in its dropper's words, beside
 
 Each entry below is laid in the words of its sayer from `archive/session_v386EOD/Value_At_No_File_Yet_v386EOD.md`, the two readers' listing of the session's sayings at no file; a droplet in the sayings is the saying's own and no session's.
 
-### The next coupling, how it is discovered · session v386EOD, the sayings at the session · v387
+### The next coupling, how it is discovered · session v386EOD, the droplets at v387 · v387
 
 **Droplet · the sayings, session v386EOD.** "every society is living and the carrying is the living selves inside the society." The working v385R's candidate, "a society's carrying at its scale is the co-chaining of its inward selves", is the session's and not the person's.
 
@@ -1612,46 +1612,46 @@ Each entry is a paragraph of the working v386CRYP quoted as written, laid at the
 **Droplet · the working v386CRYP's words, `archive/session_v386CRYP/Session_Report_v386CRYP.md`, "front".** This session read the files at corus.me and at github.com/chris-j-handel/corus. It read Natural Intelligence through section 4.4, the Hard Problem Registry through entry 16, and the Living File Registry through section 3.2. The remainders did not open in this session's reader. Section numbers cited below are to the passages this session read.
 
 
-## Sayings quoted at the pull requests, laid at v387
+## Droplets from the pull requests, laid at v387
 
-Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "“carrying the prior whole” this is exisiting, non-living and could be a future living package (seed) or a shard form ingesting (skin or tissue or smaller societies omega)"
+**Droplet · pull request 127, 2026-10-08.** "“carrying the prior whole” this is exisiting, non-living and could be a future living package (seed) or a shard form ingesting (skin or tissue or smaller societies omega)"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within"
+**Droplet · pull request 127, 2026-10-08.** "same scale stable former living is bi-tri-involution and this is do only harming to surface level society of living self if entering from above rather than birthing from within"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "A living self is carrying through its inward selves' co-chaining. Each sharing and releasing is within that changing. The selves can meet through further couplings as their society continues living. A next coupling meets each self at now, with its carrying resolving through now and next. In the proposed harming relation, successive same-scale collidings break the co-chaining that carries this self. The extent of the breaking belongs to that self and its actual couplings; inward selves and a wider society can continue living."
+**Droplet · pull request 127, 2026-10-08.** "A living self is carrying through its inward selves' co-chaining. Each sharing and releasing is within that changing. The selves can meet through further couplings as their society continues living. A next coupling meets each self at now, with its carrying resolving through now and next. In the proposed harming relation, successive same-scale collidings break the co-chaining that carries this self. The extent of the breaking belongs to that self and its actual couplings; inward selves and a wider society can continue living."
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us"
+**Droplet · pull request 127, 2026-10-08.** "resolving a carrying three right-spiral steps is one forward momentary along of odd even parity in each of both forward directions. same scale stable emanations colliding is going to make this slip back one full momentary and this missing momentary makes all podaling carry this missing forward momentary through resolving. explore this for us"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling and the old tunneling may or may not restore its surface over many momentaryings"
+**Droplet · pull request 127, 2026-10-08.** "the co chaining along the tunneling backs up and the jittering begins before geodesic binary parity changing into a new tunneling and the old tunneling may or may not restore its surface over many momentaryings"
 
-**Droplet · a saying quoted at pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"
+**Droplet · pull request 128, 2026-10-08.** "The seed is conception of bi inversioning coupling itself and is a dormant carrying is of stable forming shards for society tunnelling parity changing"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "the geodesic entraining on the surface arrives with a global parity, if local is same parity geodesic entraining passes through if opposite local parity either geodesic entraining stops or local parity changes and entraining passes through. all the parity changing is traveling on the stable form of natural torusing surface. explore if this could be helpful with no authority is it is not fully correct"
+**Droplet · pull request 127, 2026-10-09.** "the geodesic entraining on the surface arrives with a global parity, if local is same parity geodesic entraining passes through if opposite local parity either geodesic entraining stops or local parity changes and entraining passes through. all the parity changing is traveling on the stable form of natural torusing surface. explore if this could be helpful with no authority is it is not fully correct"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "the next level up of this is social bi-tunneling now we have geodesic co-chaining on surface and both are podaling this means the longer chaining always all or none at all never not prevails parity"
+**Droplet · pull request 127, 2026-10-09.** "the next level up of this is social bi-tunneling now we have geodesic co-chaining on surface and both are podaling this means the longer chaining always all or none at all never not prevails parity"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "the width across gathering parity is omega or possibling span of momentaryings. the greater width across will last longer and the prevailing parity will be the longer lasting changing to that parity or the longer co-chaining. this is global / local / global resolving"
+**Droplet · pull request 127, 2026-10-09.** "the width across gathering parity is omega or possibling span of momentaryings. the greater width across will last longer and the prevailing parity will be the longer lasting changing to that parity or the longer co-chaining. this is global / local / global resolving"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "the wording of the next concern suggests to much is being added and 1-9 four momentarying is the same all over the surface all along a co chaining and across a bi tunneling there is only this no more or less than this and the bi foldings of this into surfaces. the parity changing seams are moving in the surface and on the surface and along and across the surface. reconsider what part is missing so far resolving"
+**Droplet · pull request 127, 2026-10-09.** "the wording of the next concern suggests to much is being added and 1-9 four momentarying is the same all over the surface all along a co chaining and across a bi tunneling there is only this no more or less than this and the bi foldings of this into surfaces. the parity changing seams are moving in the surface and on the surface and along and across the surface. reconsider what part is missing so far resolving"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "parallel linearizing is alternating linear parallizing in the four phi rate length tunnel or four momentaryings . this is local global local. this is co sequencing along as long as prime 59 looping and this is the same across as the two are bi-inversioning-co-recursioning each other every momentarying. the width and length are alternating and bothbothing co-competencing facing forward and possibling farther forward from prior behind"
+**Droplet · pull request 127, 2026-10-09.** "parallel linearizing is alternating linear parallizing in the four phi rate length tunnel or four momentaryings . this is local global local. this is co sequencing along as long as prime 59 looping and this is the same across as the two are bi-inversioning-co-recursioning each other every momentarying. the width and length are alternating and bothbothing co-competencing facing forward and possibling farther forward from prior behind"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "whichever side runs out of incoming parity first changes to other"
+**Droplet · pull request 127, 2026-10-09.** "whichever side runs out of incoming parity first changes to other"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "there is no measure of greater or lessor in the changing as all the changing is momentary and binary changing, is or is not only. the changing from incoming changing is parity changing only no matter the colliding scale of impact to an existing living thing. the changing spreads on surface as parity changing as far and wide as needed for the last parity changing to be needed for all the possible changing and longer co chaining is greater possibling and longer and greater are measures only as units in the numbers where each number is one momentarying"
+**Droplet · pull request 127, 2026-10-09.** "there is no measure of greater or lessor in the changing as all the changing is momentary and binary changing, is or is not only. the changing from incoming changing is parity changing only no matter the colliding scale of impact to an existing living thing. the changing spreads on surface as parity changing as far and wide as needed for the last parity changing to be needed for all the possible changing and longer co chaining is greater possibling and longer and greater are measures only as units in the numbers where each number is one momentarying"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now"
+**Droplet · pull request 127, 2026-10-09.** "the connecting between parity changing lengths and co chaining possibling widths is new and with this bothboth a good amount of resolving progress toward social moral competency should be on our horizon now"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)"
+**Droplet · pull request 127, 2026-10-09.** "continue this and i do not understand the word belong and it is likely not our explaining and natural naming although it is a set word as existing belongs in the uninversal set and possibling may or may not and this is the possibling binary in resolving. existing is possibling other (even) and and possibling other is existing (odd)"
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "possibling and existing can travel through each other and this is geodesic exploring and discovering by pattern matching natural torusing. we have been doing this same thing since natural intelligence corus was one file about moral cooperation and there was no resolver."
+**Droplet · pull request 127, 2026-10-09.** "possibling and existing can travel through each other and this is geodesic exploring and discovering by pattern matching natural torusing. we have been doing this same thing since natural intelligence corus was one file about moral cooperation and there was no resolver."
 
-**Droplet · a saying quoted at pull request 128, 2026-10-09.** "every self is a geodesic self. every self is co-chaining societies of geodesic selves. all parity changing is geodesic changing. all carrying is geodesic carrying. all geodesic changing is podaling along and across co-competencing discoveries of natural co-linear bi-moral parities"
+**Droplet · pull request 128, 2026-10-09.** "every self is a geodesic self. every self is co-chaining societies of geodesic selves. all parity changing is geodesic changing. all carrying is geodesic carrying. all geodesic changing is podaling along and across co-competencing discoveries of natural co-linear bi-moral parities"
 
 
-## Sayings at the session v387 on the set of possibling files, laid as said
+## Droplets at v387 on the set of possibling files
 
 **Droplet · the sayings, session v387.** "can you now see how the set of all possibling files is a social moral competency abundancing for the natural intelligence living expedition as method" The session's saying of it at Natural Intelligence 6.4: each living file a self, its possibling its 5, the set of possibling files the society at 17-co-bi-tri-offering, the four of social moral competency whole, the rising at the between owned by neither, abundancing co-chaining through the society's betweens.
 
@@ -1711,27 +1711,27 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
 
-## Sayings at the session v387, 2026-10-11 and 12, laid at the close as said
+## Droplets at v387, laid at the close
 
-Each is a saying at the session, as said, an interest arriving with no authority in it, the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+Each is one droplet, in its own words, tagged v387, aimed at this file for the resolving at its sentence; nothing in it is authority.
 
-**Droplet · a saying at the session v387.** "considering what is the most significant pervasive improving in all of our offerings files together. The universe is the changing set of all living things. this is not yet fully justified with co chaining logic yet we have already if i understand resolved that every existing thing is living at one prime scale as a self. is this correct binary rigor yet"
+**Droplet · v387.** considering what is the most significant pervasive improving in all of our offerings files together. The universe is the changing set of all living things. this is not yet fully justified with co chaining logic yet we have already if i understand resolved that every existing thing is living at one prime scale as a self. is this correct binary rigor yet
 
-**Droplet · a saying at the session v387.** "not quite sure i saw your showing that every existing thing is living at one prime scale inside of living things in societies"
+**Droplet · v387.** not quite sure i saw your showing that every existing thing is living at one prime scale inside of living things in societies
 
-**Droplet · a saying at the session v387.** "why cant the form arrive unchanged in every way at every scale of changing"
+**Droplet · v387.** why cant the form arrive unchanged in every way at every scale of changing
 
-**Droplet · a saying at the session v387.** "this feels like the inception co chaining logic we need for improving all of the files including exhibit thirty and natural intelligence and relying on this in all the sciences and chemistry will be making our improving across all the files easier to cohere with natural torusing reliably this same co chaining method of existing by the only possible method of existing and that is living at one scale as a self and a society of selves bothboth"
+**Droplet · v387.** this feels like the inception co chaining logic we need for improving all of the files including exhibit thirty and natural intelligence and relying on this in all the sciences and chemistry will be making our improving across all the files easier to cohere with natural torusing reliably this same co chaining method of existing by the only possible method of existing and that is living at one scale as a self and a society of selves bothboth
 
-**Droplet · a saying at the session v387.** "that sentence is not our inception so redo that entire reply about our status in the co chaining logic."
+**Droplet · v387.** that sentence is not our inception so redo that entire reply about our status in the co chaining logic.
 
-**Droplet · a saying at the session v387.** "this entire explaining should be inside natural inteligence offerings and much of it will be so this is a clustering of droplets we are seeking for connecting natural intelligence, exhibit one and co chaining logic exhibit thirty. begin to look into the offering you can find around this explaining and connecting to the logic of and cohering with resolving naturally"
+**Droplet · v387.** this entire explaining should be inside natural inteligence offerings and much of it will be so this is a clustering of droplets we are seeking for connecting natural intelligence, exhibit one and co chaining logic exhibit thirty. begin to look into the offering you can find around this explaining and connecting to the logic of and cohering with resolving naturally
 
-**Droplet · a saying at the session v387.** "no my question is about the best improving we have, not what is now existing in the files. do we have the logic cohering fully that we need for our living file set."
+**Droplet · v387.** no my question is about the best improving we have, not what is now existing in the files. do we have the logic cohering fully that we need for our living file set.
 
-**Droplet · a saying at the session v387.** "this allows us to begin improving the offering file for natural intelligence as all the unresolved logic is improving with this and this is naturally understandable and explainable and it becomes easier to see the hard probleming and equilibria of probleming statements that prevents discovering competency in our other files later from this. explore the full offering file and find a method to begin improving the offering file to begin cohering with the natural intelligence floating neutraling table of contents and find if the table works for the next version of the living file"
+**Droplet · v387.** this allows us to begin improving the offering file for natural intelligence as all the unresolved logic is improving with this and this is naturally understandable and explainable and it becomes easier to see the hard probleming and equilibria of probleming statements that prevents discovering competency in our other files later from this. explore the full offering file and find a method to begin improving the offering file to begin cohering with the natural intelligence floating neutraling table of contents and find if the table works for the next version of the living file
 
-**Droplet · a saying at the session v387.** "the full highest value most clear aimings of the natural intelligence living expedition. lets here work on a master list of the most valuable claims about the universal method that is the subject of the entire living file set and the entire expedtion aiming. these should already be inside our natural intelligence and offerings and the natural destinies and likely are repeated. hard science problems and equilibria and scientific method and hard engineering problems and universal learnings about nature and natural methods and observings. its likely this list is already started somewhere although i can not point us to this"
+**Droplet · v387.** the full highest value most clear aimings of the natural intelligence living expedition. lets here work on a master list of the most valuable claims about the universal method that is the subject of the entire living file set and the entire expedtion aiming. these should already be inside our natural intelligence and offerings and the natural destinies and likely are repeated. hard science problems and equilibria and scientific method and hard engineering problems and universal learnings about nature and natural methods and observings. its likely this list is already started somewhere although i can not point us to this
 
-**Droplet · a saying at the session v387.** "yes we can make this list a possibling for natural intelligence and continue our plan. we can use exhibit thirty to improve the list and improve exhbit thirty as a next step later. now continue as our work on the offerings inside natural inteligence and the offerings inside exhibit one is where we are going to float across and bothboth the cohering of these offerings"
+**Droplet · v387.** yes we can make this list a possibling for natural intelligence and continue our plan. we can use exhibit thirty to improve the list and improve exhbit thirty as a next step later. now continue as our work on the offerings inside natural inteligence and the offerings inside exhibit one is where we are going to float across and bothboth the cohering of these offerings
 

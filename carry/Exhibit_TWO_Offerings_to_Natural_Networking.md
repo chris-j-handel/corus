@@ -515,11 +515,11 @@ Each entry is a paragraph of the working v383Op quoted as written, laid at the f
 **Droplet · the working v383Op's words, `archive/session_v383Op/README.md`, "A nothing at the network surface".** Offered at this working: "the or nothing is the still possibling of both sides". Coupled with the resolver's rows at `Network_Surface.md`, its third writing. A nothing is three at the resolver, each its own: 0 at 12, prior and now agreeing, is-still-possibling; 0 at 14, the offerings parting, the prior inverted; none offered, the prior inverted. The offering is so at the self sharing the 0, at each, and at the self it is shared with only with that self's own parity offered at the same sharing by another. Natural Networking has the relation at its older words, zero surfacing, and says is-still-possibling at none of its lines: row N12.
 
 
-## Sayings quoted at the pull requests, laid at v387
+## Droplets from the pull requests, laid at v387
 
-Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
 
-**Droplet · a saying quoted at pull request 127, 2026-10-08.** "A living self is carrying through its inward selves' co-chaining. Each sharing and releasing is within that changing. The selves can meet through further couplings as their society continues living. A next coupling meets each self at now, with its carrying resolving through now and next. In the proposed harming relation, successive same-scale collidings break the co-chaining that carries this self. The extent of the breaking belongs to that self and its actual couplings; inward selves and a wider society can continue living."
+**Droplet · pull request 127, 2026-10-08.** "A living self is carrying through its inward selves' co-chaining. Each sharing and releasing is within that changing. The selves can meet through further couplings as their society continues living. A next coupling meets each self at now, with its carrying resolving through now and next. In the proposed harming relation, successive same-scale collidings break the co-chaining that carries this self. The extent of the breaking belongs to that self and its actual couplings; inward selves and a wider society can continue living."
 
 ## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
 
@@ -537,9 +537,9 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
 
-## Sayings at the session v387, 2026-10-11 and 12, laid at the close as said
+## Droplets at v387, laid at the close
 
-Each is a saying at the session, as said, an interest arriving with no authority in it, the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+Each is one droplet, in its own words, tagged v387, aimed at this file for the resolving at its sentence; nothing in it is authority.
 
-**Droplet · a saying at the session v387.** "yes exhibit two is different so that will be helpful to see how the stable form of that improving opportunity differs from the others. this is our first engineering outfacing exhibit like natural engineering and engineering hard problems. this method of surveying all our improving surfaces is becoming a useful part of our method"
+**Droplet · v387.** yes exhibit two is different so that will be helpful to see how the stable form of that improving opportunity differs from the others. this is our first engineering outfacing exhibit like natural engineering and engineering hard problems. this method of surveying all our improving surfaces is becoming a useful part of our method
 

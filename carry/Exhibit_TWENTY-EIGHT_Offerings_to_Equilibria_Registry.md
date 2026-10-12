@@ -733,13 +733,13 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
 
-## Sayings at the session v387, 2026-10-11 and 12, laid at the close as said
+## Droplets at v387, laid at the close
 
-Each is a saying at the session, as said, an interest arriving with no authority in it, the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+Each is one droplet, in its own words, tagged v387, aimed at this file for the resolving at its sentence; nothing in it is authority.
 
-**Droplet · a saying at the session v387.** "the proof is the same as the proof equilibria is not possibly existing. look at exhibit twenty eight and the co chaining logic in exhibit thirty of this"
+**Droplet · v387.** the proof is the same as the proof equilibria is not possibly existing. look at exhibit twenty eight and the co chaining logic in exhibit thirty of this
 
-**Droplet · a saying at the session v387.** "why cant the form arrive unchanged in every way at every scale of changing"
+**Droplet · v387.** why cant the form arrive unchanged in every way at every scale of changing
 
-**Droplet · a saying at the session v387.** "nothing lives in one stable form forever. we may need this or be able to discover the logic for this."
+**Droplet · v387.** nothing lives in one stable form forever. we may need this or be able to discover the logic for this.
 

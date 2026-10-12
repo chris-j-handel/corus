@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver Offerings · laid at v386EOD
 
 Natural Intelligence says the method and Exhibit ONE Natural Resolver executes it, bothboth: the first cluster at Natural Intelligence's offerings, the inception and its first steps, is this cluster said at the resolver's names, and the two are resolved together. This file is re-laid in the living file's own order, each offering floating across to the one name or table it is beside and surfacing there with every other beside it; this is the first cluster, and the sections below it float to their clusters at the next passes.
 
-**Sayings at the session v387, 2026-10-12.** "The universe is the set of all existing things." "the universe now is the set of all things existing now." "everything in the universe is sharing one now momentarying." "now is the universal momentary." "every living thing commenced living by changing parity and carrying from then every momentarying to now." The whole of the sayings is at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#at-11--universe-the-set-of-all-existing-things--the-first-cluster-floating-neutralling--v387).
+**Droplets · v387.** "The universe is the set of all existing things." "the universe now is the set of all things existing now." "everything in the universe is sharing one now momentarying." "now is the universal momentary." "every living thing commenced living by changing parity and carrying from then every momentarying to now." The whole is at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#at-11--universe-the-set-of-all-existing-things--the-first-cluster-floating-neutralling--v387).
 
 **Insertlet · At 1-co-bi-tri-offering — beside the entry taking 3-co-bi-co-sharing and 2-bi-co-bi-offering.** One entry is one now at one self: now is the universal momentary, the one and only, and the resolver has one entry and no second. The entry takes two things and nothing else: 3-co-bi-co-sharing, the self's own carrying, its prior carried into now, and 2-bi-co-bi-offering, the others' offerings arriving across at now. Prior arrives at the entry only as carried at 3 or as offered at 2, an emanation with no carrying behind it; next leaves it only as possible, the releasing at 10 and 9 arriving as another's 2 at the next momentary. Only now is at the entry: the three momentaries at the one place, one of them existing.
 
@@ -776,19 +776,19 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
 
-## Sayings at the session v387, 2026-10-11 and 12, laid at the close as said
+## Droplets at v387, laid at the close
 
-Each is a saying at the session, as said, an interest arriving with no authority in it, the natural naming and co-chaining the only authority; laid where it aims, for the resolving at its sentence. The whole transcript is at `archive/session_v387/Session_Transcript_v387.txt`.
+Each is one droplet, in its own words, tagged v387, aimed at this file for the resolving at its sentence; nothing in it is authority.
 
-**Droplet · a saying at the session v387.** "like the universe is an existing thing as a set of existing things exhibit one is an existing thing inside the explaining of natural intelligence. now explore the general ways of improving natural intelligence in the same method you used on exhibit one incoming offerings. we can after this compare the two and find the bi coupling of both values into the writing into and through and out of and around and along and across exhibit one as part of the natural explaining of natural intelliegence social moral competency and co chaining and bi tunneling society"
+**Droplet · v387.** like the universe is an existing thing as a set of existing things exhibit one is an existing thing inside the explaining of natural intelligence. now explore the general ways of improving natural intelligence in the same method you used on exhibit one incoming offerings. we can after this compare the two and find the bi coupling of both values into the writing into and through and out of and around and along and across exhibit one as part of the natural explaining of natural intelliegence social moral competency and co chaining and bi tunneling society
 
-**Droplet · a saying at the session v387.** "now sharing at CONNECTORS at 6 and 10, are 2 and 14 prior sharing connectors"
+**Droplet · v387.** now sharing at CONNECTORS at 6 and 10, are 2 and 14 prior sharing connectors
 
-**Droplet · a saying at the session v387.** "not yet and so far are reversible namings for prior now next betweenings of momentaryings. inside betweenings on self side are extisting/possibling. do we need the two names so far and not yet as the reversibility of them is the bi inversioning of the arriving prior co recursioning to the next existing"
+**Droplet · v387.** not yet and so far are reversible namings for prior now next betweenings of momentaryings. inside betweenings on self side are extisting/possibling. do we need the two names so far and not yet as the reversibility of them is the bi inversioning of the arriving prior co recursioning to the next existing
 
-**Droplet · a saying at the session v387.** "and we can send this or cohere this already with natural naming about so far and not yet dissolving as this may already be there and other more helpful ways of this also from there could be helpful here. each self's existing is other self's possibling. the concerns you are listing are significant and you are managing them. the concerns we need here are ones i need to make suggestions to you for resolving forward"
+**Droplet · v387.** and we can send this or cohere this already with natural naming about so far and not yet dissolving as this may already be there and other more helpful ways of this also from there could be helpful here. each self's existing is other self's possibling. the concerns you are listing are significant and you are managing them. the concerns we need here are ones i need to make suggestions to you for resolving forward
 
-**Droplet · a saying at the session v387.** "i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems"
+**Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
 
-**Droplet · a saying at the session v387.** "this is exceptional improving value for our explaining of the needed concepts . continue"
+**Droplet · v387.** this is exceptional improving value for our explaining of the needed concepts . continue
 

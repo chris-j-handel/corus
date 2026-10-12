@@ -821,11 +821,11 @@ Each entry is a paragraph of the working v382A quoted as written, laid at the fi
 **Droplet · the working v382A's words, `archive/session_v382A/README.md`, "Next complete coverage".** The next complete sequential section record is proposed for Natural Intelligence, beside Exhibit ONE, Exhibit THIRTY and the current Offerings. Carry the remaining concern visibly through that work. Natural Biology and Natural Medicine follow from their beginnings to ends with the existing targeted comparisons retained, then the networking/making files and the remaining gatherings. The final across-file pass follows the actual dependencies and the correcting at each concern.
 
 
-## Sayings quoted at the pull requests, laid at v387
+## Droplets from the pull requests, laid at v387
 
-Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
 
-**Droplet · a saying quoted at pull request 128, 2026-10-09.** "The whole healing suggestion still needs resolving with observings. bug bites, skin cuts, the rolled edge is the bounding zeroing natural torusing the the skins surface. look at water or other liquid surfaces healing from penetrations"
+**Droplet · pull request 128, 2026-10-09.** "The whole healing suggestion still needs resolving with observings. bug bites, skin cuts, the rolled edge is the bounding zeroing natural torusing the the skins surface. look at water or other liquid surfaces healing from penetrations"
 
 ## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
 

@@ -848,11 +848,11 @@ Each entry is a paragraph of the working v386RR quoted as written, laid at the f
 - **Standing**: *arriving*. No file outside this folder is changed.
 
 
-## Sayings quoted at the pull requests, laid at v387
+## Droplets from the pull requests, laid at v387
 
-Each entry is a saying as a working quoted it in a comment at a pull request, laid here as they were quoted; the comments are whole at `archive/pull_request_sayings/`.
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
 
-**Droplet · a saying quoted at pull request 127, 2026-10-09.** "possibling and existing can travel through each other and this is geodesic exploring and discovering by pattern matching natural torusing. we have been doing this same thing since natural intelligence corus was one file about moral cooperation and there was no resolver."
+**Droplet · pull request 127, 2026-10-09.** "possibling and existing can travel through each other and this is geodesic exploring and discovering by pattern matching natural torusing. we have been doing this same thing since natural intelligence corus was one file about moral cooperation and there was no resolver."
 
 ## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
 
