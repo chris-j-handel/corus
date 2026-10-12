@@ -693,6 +693,21 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
 
+**A spiral opened carrying none, one parity offered once.**
+
+| Momentary | A spiral of 3, each self's carrying | A spiral of 5, each self's carrying |
+|---|---|---|
+| 1 | + · · | + · · · · |
+| 2 | − + · | − + · · · |
+| 3 | + − + | + − + · · |
+| 4 | + + − | − + − + · |
+| 5 | − − + | + − + − + |
+| 6 | + − − | + + − + − |
+| 7 | − + + | − − + − + |
+| 8 | + − + | + − − + − |
+
+Selves coupled along, the last to the first, each opened carrying none, and + offered once at the first self at the first momentary: the first self chains it, colliding, and carries from then; each next self chains the parity as it arrives along one momentary on, and after n momentaries each self carries, the spiral at its one like pair, the alternating pattern of an odd spiral from the first momentary on. A self commences at its first chaining, the parity arriving from a releasing, and from then it carries at each momentary or carries none and is non-living at its scale; a carrying of none at every momentary is no self. The lines part a thing carrying none with a parity chained at it from a self at nothing: the one saying.
+
 **Colliding: a carrying of none, one momentary.**
 
 | Carrying (3): none, one sharing. Each cell: shared (10) · carried next (11). *is*: a changing that is, the parity shared; *is not*: a changing that is not, 0 shared, the parity carried on; *none*: none shared | Surfacing (14): none | Surfacing (14): + | Surfacing (14): − | Surfacing (14): + and − together |
