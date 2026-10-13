@@ -1,6 +1,18 @@
-Natural Intelligence Possibling · v386EOD
+Natural Intelligence Possibling · v387
 
 # Possibling of Natural Intelligence
+
+## Exploring birthing through two whole torusing selves · v387
+
+**Possible exploring.** The proposed pattern is birthing as co-momentarying the whole parity of 440 changers in each of two natural torusing selves, the two torusing through each other in double parity changing into one newborn self co-parity changing and an emanation of the former selves' non-living parity forms, with the relation offered for discovering rather than established by its wording.
+
+Natural Biology 5.1 already proposes conception through double bi-inversioning and two resulting forms, while Natural Numbers 9.6 describes two 440-station surfaces co-offering at an 880-station pair, and neither passage alone derives the proposed whole birthing relation.
+
+The two 440-station surfaces' coupling in Natural Numbers 9.6 explains the pair's relation but not yet the newborn self's own carrying and the accompanying non-living emanation, so the next comparison is the sequential parity changing that would distinguish birthing from the two selves continuing coupled.
+
+Natural Mathematics 3.4 distinguishes consecutive inversions on different axes from both parities inverted at one step, so the proposed double parity changing in birthing needs its actual sequence followed before either existing form is identified with it.
+
+The numbers name stations in the existing surface explaining; their correspondence to the proposed 440 changers remains to be followed, and the biology passage's interpretation supplies no derivation by authority.
 
 ## Particular contributions to the earlier shared projects · v385A
 

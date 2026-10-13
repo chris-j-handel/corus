@@ -1,6 +1,14 @@
-Exhibit TWENTY Natural Naming Offerings · improved at v386EOD
+Exhibit TWENTY Natural Naming Offerings · improved at v387
 
 # Offerings to Natural Naming
+
+## Existing names at the couplings · v387
+
+**Carried at Natural Intelligence and Exhibit ONE.** Sharing end and arriving end have released into the existing numbered sharings and offerings, with each relation preserved in the explaining, diagram and tables.
+
+**Offering · v387.** Binary parity changing names the doing, while function names Python syntax and parity changer still needs comparison with whether it introduces a doer beside the changing.
+
+**Offering · v387.** A statement that prefixes read the same in either order concerns those prefixes, and does not by itself establish that a whole name or natural resolving has no direction; the local reversal wording is corrected in Natural Intelligence and Exhibit ONE, and further direction claims remain to be compared at their actual relations.
 
 ## Binary changing and numbered momentarying · v385A
 

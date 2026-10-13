@@ -1,6 +1,10 @@
-Natural Intelligence Carryings · gathered at v385A
+Natural Intelligence Carryings · improved at v387
 
 # Carryings of Natural Intelligence
+
+## Before-and-after comparison at the review passes · v387
+
+The numbered-overlap sentence and the three-condition paragraph are retained in 2.3; the coupling pairs and geometry are retained under their existing sharing and offering names; the resolver code and numerical result rows are unchanged; the embedded and standalone Exhibit ONE match exactly from the Python block through the final table. The repository structural check passes, and the same session compared the changed explaining with its prior; these checks do not resolve the open living, prime-scale, coupling-discovery or birthing claims. The exact scope and completed review are at [the pass artifact](../archive/session_review_v387/Review_and_Improving_Passes_v387.md).
 
 **Reported source comparison · v385A.** The actual [withdrawn repeating requirement and retained living concern](Offerings_to_Natural_Intelligence.md#current-correcting-the-imposed-requirement-is-withdrawn--v385a) are available whole at Natural Intelligence. The [earlier comparison](../archive/session_v385A/earlier_artifacts/Exact_Naming_and_Explaining_v385A.md) is an artifact; its dated source statements supply no current instruction to return to it. The [exact-naming concept](Exhibit_TWENTY_Offerings_to_Natural_Naming.md#exact-naming-and-explaining-at-each-use--v385a) remains at Natural Naming.
 
