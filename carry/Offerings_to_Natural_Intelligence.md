@@ -1,6 +1,28 @@
-Natural Intelligence Offerings · laid at v386EOD
+Natural Intelligence Offerings · improved at v387
 
 # Offerings to Natural Intelligence
+
+## Current resolving of the review offerings · v387
+
+**Carried at the living file.** The numbered overlap and exhaustiveness, determinacy and reachability now follow the opening-and-completing explaining in 2.3; both passages carry whole there, and the opening retains prior, now and next without requiring that later numerical relation first.
+
+**Carried at the living file.** Sections 4.6–4.10 name the sharings and offerings at their existing numbers in place of sharing end and arriving end; 4.7 identifies prefix reversal precisely, and 4.9 distinguishes reaching a next momentary from repeating a momentary.
+
+**Carried with Exhibit ONE.** The commencement table defines its dots and locates the full alternating pattern at the first momentary when every self carries; the colliding heading agrees with its no-carrying result, with the embedded and standalone exhibits the same.
+
+**Offering · Geodesic discovering.** The geodesic method is discovering next possible existing by possibling now and parity changing next, with the five-parity sequence offered as prior existing, prior possibling, now existing, still possibling, next existing; the relation to each existing column remains to be shown before changing the table.
+
+**Concern · The self, the society, and prime scale.** Sections 6.4–6.5 need to distinguish a self living in one prime society from prime scale as the set of all societies at that scale, and join the birth relation without using the user's words or the recurrence of a constructed spiral as its deriving.
+
+**Concern · The method and the universal living claim.** Section 6.5 says every existing thing is living at some scale and then names the method an existing thing non-living at every scale; describing the method's discovering through possibling now and parity changing next does not yet resolve those two classifications.
+
+**Concern · Discovering a coupling.** Section 4.6 names coupling discovery while Exhibit ONE receives a supplied coupling map; the living discovering and the method's stable expression need their relation explained, and neither supplied mapping nor unchanged Python definitions decides the natural claim.
+
+**Concern · Whose existing and possibling.** Section 5.2's “existing possibling other at the even and possibling other existing at the odd” still needs each self's relation followed through now and next without adding a new interpretation to make the sentence appear plain.
+
+**Possibling.** The whole [birthing exploration](Possibling_of_Natural_Intelligence.md#exploring-birthing-through-two-whole-torusing-selves--v387) carries the proposed two 440-changer selves, the existing numbers and biology correspondences, and their unestablished joining.
+
+**The completed review work.** The original assessment, corrections, withdrawals and before-pass offerings are at [the session artifact](../archive/session_review_v387/Review_and_Improving_Passes_v387.md); they supply no authority for the current concerns.
 
 ## The value resolved: the insertlets for Natural Intelligence, the whole set so far · v387
 

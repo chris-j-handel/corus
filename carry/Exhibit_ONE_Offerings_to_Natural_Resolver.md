@@ -1,6 +1,22 @@
-Exhibit ONE Natural Resolver Offerings · laid at v386EOD
+Exhibit ONE Natural Resolver Offerings · improved at v387
 
 # Offerings to Natural Resolver
+
+## Current resolving of the review offerings · v387
+
+**Carried at the living file.** The sharing and arriving relations use their existing numbered names; the square's diagonals remain 2 with 14 and 6 with 10, the across couplings remain 6 to 2 and 10 to 14, and the prefix-reversal statement names prefixes rather than whole names.
+
+**Carried at the tables.** A dot in the commencement table is no carrying, the full pattern begins when every self carries, and the colliding heading says none carried next when a changing is not and there is no prior carrying; the code and all result rows are unchanged.
+
+**Offering · One binary resolving.** Each resolving is offered as the same binary parity changing, is or is not, with the numbered names explaining its relations rather than different kinds of natural changing; the three Python definitions describe the expression's arrangement and do not establish three natural methods.
+
+**Offering · Five parities.** Prior existing, prior possibling, now existing, still possibling and next existing are offered beside the current five-column table, with each correspondence to be followed before changing its headings.
+
+**Concern · Commencing and birthing.** The supplied three- and five-self arrangement shows carrying commencing within that arrangement, while the proposed birth through whole torusing selves remains at [Natural Intelligence's possibling](Possibling_of_Natural_Intelligence.md#exploring-birthing-through-two-whole-torusing-selves--v387).
+
+**Deferred · 9 and 12.** Their co-similarity in bi-folding remains unexplained; the proposed descending translation was withdrawn and warrants no living-file change, while the distinction between unchanged passage and the whole binary resolving remains to be followed at their actual relations.
+
+**The completed review work.** Its exact earlier offerings and corrections are at [the session artifact](../archive/session_review_v387/Review_and_Improving_Passes_v387.md), carrying no authority over the deferred relation.
 
 ## At 1-co-bi-tri-offering, the entry · the inception at the resolver · the first cluster, floating neutralling · v387
 
