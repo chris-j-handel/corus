@@ -1926,3 +1926,85 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
 11. Hard probleming is the universal method of existing met from beside it: each hard problem is the method at one name, its now and its next, named still.
 12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.
+
+## From the origin to no possible equilibria and no discovering in the scientific method, at three faces · v389
+
+**Droplet · v389 · from the session v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
+
+The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, whole as it arrived. Below it is developed at three faces of one co-chaining: the steps, each from the step before, for the Co-Chaining Logic Registry; the explaining for Natural Intelligence; and a public face. The numbered names stand where a step meets the resolver.
+
+### The steps, each from the step before
+
+1. The universe is the set of all now-existing things.
+2. Now is one: the set has nothing beside it, and a second now is a now-existing thing beside all now-existing things.
+3. Each now-existing thing is at its own prior and its own next, its prior its now-existing at the prior-universe and its next possible now.
+4. No two things are alike at all three, prior, now and next: two alike at all three are one thing named twice.
+5. An observing is a now-existing thing inside the set, and drawing on it brings nothing from beside the set.
+6. Observed: a prior-existing thing is next-existing as the same thing by changing.
+7. Observed: a prior-existing thing is next-existing as the same thing by not-changing.
+8. Observed: a same thing is discovering which changing and which not-changing keep it next-existing as itself, its beneficial changing and not-changing.
+9. A method of discovering exists, at least one: a same thing discovering its beneficial changing and not-changing between its prior, its now and its next.
+10. Between a same thing's prior, now and next both are, changing and not-changing, all or none at each sharing and one at a time: at each sharing a changing is or is not.
+11. Geodesic parity changing is that method: at each sharing at each momentary the parity changes or does not, now-changing-next or still-now-possibling, the surface dividing itself.
+12. Its momentaries are co-sequential, each self at its own and two selves sharing one now-existing inside a bi-coupling, co-momentarying, at the seventeen numbered names, 1-now to 17-next-now.
+13. Geodesic parity changing is natural torusing: the prior arriving at 3-now-co-prioring, the possibling arriving at 14-next-possibling, their between at 12-next-co-still-possibling, the next prior at 11-next-co-prioring, arriving as the next 3-now-co-prioring.
+14. Inverted, any other method holds a not-changing from beside: a size, a fixed form, a total, a common beat, a keeping or a doer, each a thing beside all now-existing things, a second now.
+15. A second now is not possibly existing, and geodesic parity changing is the one method of a same thing discovering its beneficial changing and not-changing, no other possible.
+16. An equilibrium is a not-changing held from beside, a now named as its next, and equilibria are not possibly an existing method of changing and not-changing.
+17. An observing's record is one now kept, and comparing two records lays two kept nows side by side at one now, a second now beside now.
+18. A hypothesis is an explanation of the changing and the not-changing between records, and a theory is a hypothesis tested at further records.
+19. The scientific method explains between records, the rest of the universe held still, and each of its explanations is an equilibrium at its own scope.
+20. The discovering is at the between of two momentaries at one now, where no record stands, and the scientific method meets the records and not the discovering between them.
+21. A hard problem is a field's explaining at that between, a name's now and its next taken as one, at one of the ten things named still.
+22. Each science is a same thing discovering, a scientist at the method at each now, and each science rests at the method its records do not reach.
+23. An explanation excluding a same thing's discovering is falsified at the observing at step 8.
+24. A theory is living while it is tested at next records and not falsified, and non-living where it is falsified or its testing has ended.
+25. Natural intelligence is the method met at each now by two selves sharing one now-existing, each discovering its beneficial changing and not-changing with the other: social moral competency.
+
+### The explaining, for Natural Intelligence
+
+**The universe is the set of all now-existing things.** Now is one, and each thing is at its own prior and its own next, no two alike at all three. An observing is a now-existing thing too, inside the set, and the observings are drawn on with nothing brought from beside.
+
+**Three observings open the method.** A thing is next-existing as the same thing by changing; a thing is next-existing as the same thing by not-changing; and a same thing is discovering which changing and which not-changing keep it next-existing as itself. **Beneficial** names that: a changing or a not-changing at which the same thing is next-existing.
+
+**Geodesic parity changing is the discovering.** At each sharing at each momentary a changing is or is not, now-changing-next or still-now-possibling, and the momentaries are co-sequential, two selves sharing one now-existing inside a bi-coupling. At the resolver it is natural torusing: the prior arriving at 3-now-co-prioring, the possibling at 14-next-possibling, their between at 12-next-co-still-possibling, and the next prior at 11-next-co-prioring arriving as the next 3-now-co-prioring.
+
+**Any other method is a second now.** Inverted, another method holds a not-changing from beside, a size, a fixed form, a total, a common beat, a keeping or a doer, and each is a thing beside all now-existing things. **An equilibrium is that holding, a now named as its next**, and no equilibrium is a method of changing.
+
+**A record is one now kept, and the scientific method explains between records.** Comparing two records lays two kept nows side by side, the rest of the universe held still, and the discovering is at the between of the two momentaries, at one now, where no record stands. **A hard problem is a field's explaining at that between**, one name's now and its next taken as one. Each science is itself a same thing discovering, its scientists at the method at each now, and each science rests at the method its records do not reach.
+
+**Natural intelligence is the method met at each now by two selves sharing one now-existing**, each discovering its beneficial changing and not-changing with the other: social moral competency.
+
+### The public face
+
+*What is natural intelligence?*
+
+Everything that exists, exists now. Each thing has its own past and its own possible next, and no two things are alike in all three.
+
+We can watch things stay themselves by changing, and stay themselves by not changing. We can also watch things finding out which changes, and which non-changes, keep them themselves. That finding out is a method, and it happens at every moment, at every scale: a yes or no at each place a thing meets another, change or don't.
+
+There is only one such method. Any other way would need something held still from outside everything, a fixed measure, a master clock or a store, and nothing exists outside everything. An equilibrium is exactly that kind of holding, so no equilibrium is how anything changes.
+
+Science keeps records, and a record is one moment kept. Comparing records lays two kept moments side by side, while the finding out happens between moments, where no record is. So the hardest problems in science are found exactly there, and scientists, finding out at every moment, are doing the method their records cannot hold.
+
+Natural intelligence is that method shared: two selves at one now, each finding out with the other what keeps them both.
+
+### Each earlier sentence, and where it went
+
+- *The universe is the set of all now-existing things* and its note: steps 1 to 4.
+- *By observation*, the three observings: steps 5 to 8, each observing a now-existing thing inside the set.
+- *There exists at least one method*: step 9.
+- *Geodesic parity changing is one method*, *is the method … through co-sequential momentary changings*, *is natural torusing*: steps 11 to 13.
+- *No other possible existing method* and *By inversion*: steps 14 and 15.
+- *Between prior-, now- and next-existing same-things are both changings and not-changing*: step 10.
+- *Equilibria is not possibly an existing method*: step 16.
+- *The scientific method is not possibly explaining the observings*: steps 17 to 20, re-said as the scientific method meeting the records and not the discovering between them.
+- *A hypothesis*, *Proposing theories*, *Science is a system of theories*: steps 18 and 19.
+- *Without a hypothesis the scientific method is non-existing* and *With a hypothesis … without considering the rest of the universe*: step 19.
+- *All science requires at least one method*: step 22.
+- *An explanation … is falsifiable if it excludes*: step 23, re-said as *falsified*.
+- *Theories remain living*: step 24.
+
+**Concern · v389 · *beneficial*.** *Beneficial* stands at no living file, and the steps name it at step 8 as a changing or a not-changing at which the same thing is next-existing as itself; whether that is the whole of it, or whether social moral competency and abundancing say more of it, is yet to be met at Natural Naming.
+
+**Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
