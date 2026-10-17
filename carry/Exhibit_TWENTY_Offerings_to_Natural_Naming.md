@@ -1150,3 +1150,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Concern · v389 · at 2.4 and the resolver's 11 · from the orienting session.** The arriving says *nothing is chained* and *there is no momentary*, and Natural Naming carries *chaining* at 11 and *momentary* at many sentences; each parts until it is said at what it carries or re-named.
 
 **Droplet · v389 · at the names as the proposal spells them · from v389's own reading.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and Natural Naming's names are *competencing*, *possibling* and *moralizing*.
+
+**Droplet · v389 · at 3.6 and every file saying torusing · from the session v389.** what is wound. this is not natural naming.
+
+**Concern · v389 · at 3.6, torusing · from v389's reading.** *Wound*, an *-ed*, says torusing as a thing finished, the clocking Natural Explaining releases, and it stands 28 times at Natural Intelligence, 11 at Exhibit ONE, 8 here and 8 at the Co-Chaining Logic Registry, *each self's carrying wound* at 8 and *the society wound* at 16; the -ing the running carries is torusing itself.

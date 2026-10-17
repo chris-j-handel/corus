@@ -848,3 +848,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at the resolver's names · from v389's exploring.** Rendered with the seventeen proposed names and nothing else changed, the resolver returns the same signs as the current resolver at each of twenty thousand entries.
 
 **Concern · v389 · at 12-bi-tri-bi-entraining · from v389's exploring.** Renamed, both of 12's lines arrive at `_12_next_co_still_possibling`, the line carrying the parity on at 0 and the line inverting it, and the name says the first face alone, while Natural Naming's is-still-possibling and is-next-existing name the two faces as one binary; still-possibling coheres at 8 and 16 said as a form carried through its changing, Natural Explaining's *stilling along*, and parts at 12, the changing itself.
+
+**Droplet · v389 · at 12-bi-tri-bi-entraining · from the session v389.** for 12 consider this concept 12-next-co
+
+**Droplet · v389 · at 12, and 9, 10 and 11 · from v389's exploring.** At the resolver 10 is made from 12, 11 is chained from 10 and 9 releases 10, so *next-co* at 12 is the opening of the three that leave it, next-co-changing at 9, next-co-possibling at 10 and next-co-prioring at 11, and both of 12's lines, the 0 and the inverting, stand under a name saying neither face alone.
