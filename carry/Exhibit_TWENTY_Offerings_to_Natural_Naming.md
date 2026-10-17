@@ -1556,3 +1556,9 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
 
 **Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.
+
+## Names at numbers past 17 · v389
+
+**Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names at numbers past 17, *22* at moralizing and *27-tri-bi-tri-releasing* at Natural Naming 5.53 among them, a number sixteen up at the same word, and the numbered names say 1 to 17; a name at a number past 17 is yet to be said at the numbered names.
+
+**Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number sixteen up is the same name at the next round: 17 to 24 the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling and 27 the next round's 11-next-co-prioring, each said *22-now-co-possibling* and *27-next-co-prioring*; whether 27's *releasing*, the society's abundancing released into the social co-chaining, is that next prior at the next round is met at 5.53's own pass.

@@ -322,3 +322,9 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · prior, now and next told apart.** At the four binaries the now-universe is existing, all, now and same, and the prior-universe and the next-universe are each existing, all and same and not now, so the binaries tell a universe at each momentary from the universe at the others with nothing brought.
 
 **Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
+
+## Names at numbers past 17 · v389
+
+**Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names at numbers past 17, *22* at moralizing and *27-tri-bi-tri-releasing* at Natural Naming 5.53 among them, a number sixteen up at the same word, and the numbered names say 1 to 17; a name at a number past 17 is yet to be said at the numbered names.
+
+**Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number sixteen up is the same name at the next round: 17 to 24 the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling and 27 the next round's 11-next-co-prioring, each said *22-now-co-possibling* and *27-next-co-prioring*; whether 27's *releasing*, the society's abundancing released into the social co-chaining, is that next prior at the next round is met at 5.53's own pass.
