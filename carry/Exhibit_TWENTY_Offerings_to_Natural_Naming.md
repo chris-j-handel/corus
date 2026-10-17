@@ -1340,3 +1340,23 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · the eight inward the eight even.** The eight 1 to 17s inward have their eight 9s at the eight even names, the same eight as the eight even names, each of the four at its even at now and at next.
 
 **Droplet · v389 · one eight, its faces.** Every eight at Exhibit ONE is the one eight, now, existing, universe and all, each twice, met at a face: two names each at now, each at now and at next at its end, at its inside, at its even or at its odd; each eight's deriving is that face, read at the names.
+
+## A universe at four binaries, the eight derived · v389
+
+**Droplet · v389.** prior/now/next all/not all prior existing/ now existing / next existing is same existing. a universe is or is not existing, is or is not all, is or is not now, is or is not same
+
+**Droplet · v389 · the four binaries.** A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, and the universe is their subject, so the four terms at the self's span are now, existing, same and all, *same* at 5 and 6 where *universe* was seated.
+
+**Droplet · v389 · the four at the eight.** Now is 1-now and 2-now-possibling; existing is 3-now-co-prioring and 4-now-co-still-possibling; same is 5-now-co-changing and 6-now-co-possibling; all is 7-now-prioring and 8-now-still-possibling; each binary one bi-coupling, its *is* at the odd existing name and its *is not* at the even possibling name.
+
+**Droplet · v389 · step 4 shown.** Now is one and all is each one of all, at one, with no co; existing is a thing's existing at its sharings and same is a thing's sameness by unrelationing from all other, each needing another, at a sharing between two, with co at 3 to 6: the one, two, two, one of co read from the four binaries.
+
+**Droplet · v389 · same at the changing.** Same stands at 5-now-co-changing and 6-now-co-possibling, the changing between two, and a self's sameness across its momentaries is its unrelationing at each changing: prior-existing, now-existing and next-existing are same-existing.
+
+**Droplet · v389 · at 9 less.** At 9 less now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5.
+
+**Droplet · v389 · the co-chain from the origin, re-said.** 1. The universe is the set of all now-existing things. 2. A universe is or is not existing, is or is not all, is or is not now, is or is not same. 3. Each binary is a bi-coupling, its *is* at an odd existing name and its *is not* at an even possibling name: eight, the self's span at now. 4. Now and all are at one, existing and same between two. 5. At next the same eight, 8 up, 9 to 16. 6. The next arriving as now, 17-next-now, the next 1-now: seventeen.
+
+**Droplet · v389 · prior, now and next told apart.** At the four binaries the now-universe is existing, all, now and same, and the prior-universe and the next-universe are each existing, all and same and not now, so the binaries tell a universe at each momentary from the universe at the others with nothing brought.
+
+**Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
