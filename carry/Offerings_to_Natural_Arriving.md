@@ -859,3 +859,23 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Concern · v389 · *beneficial*.** *Beneficial* stands at no living file, and the steps name it at step 8 as a changing or a not-changing at which the same thing is next-existing as itself; whether that is the whole of it, or whether social moral competency and abundancing say more of it, is yet to be met at Natural Naming.
 
 **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
+
+## The three observings at the origin, at one sharing · v389
+
+**Droplet · v389.** the three observings at the origin. explore and explain and emanate from this. bi-coupling is the one place a self's forming takes a parity not its own. 1-2 both sides alternating parity a new carrying is born in the between at its own geodesic alternating parity entraining.
+
+**Droplet · v389 · executed, one sharing opening and going on.** A self with no prior at one sharing, offered + once at 1-2 and then nothing, goes + − + − + − + −; offered + and − together, or nothing, nothing opens; offered + once and then the other offering − at each momentary, it goes + − − − − − − −; and offered + once and then + at each momentary, + + + + + + + +.
+
+**Droplet · v389 · the bi-coupling the one place.** A self's forming takes a parity not its own only at the bi-coupling, 1-now and 2-now-possibling, both sides alternating, and only where one parity surfaces at 14-next-possibling; two offerings parting at 0 open nothing, and nothing offered opens nothing.
+
+**Droplet · v389 · a new sharing opens in the between.** At that one place a new sharing opens in the between of the two sides, at its own geodesic alternating parity, entraining at 12-next-co-still-possibling from its next momentary on, and once opened it is never none again; said at its opening, the between carries no birth.
+
+**Droplet · v389 · the first observing at the sharing.** A same thing next-existing by changing is the opened sharing with nothing offered, its own parity inverted at each momentary, + − + −, the self unrelationing from all other at its own alternating.
+
+**Droplet · v389 · the second observing at the sharing.** A same thing next-existing by not-changing is the opened sharing meeting an other offering its own parity, kept at each momentary, + + + +, still-possibling at a match.
+
+**Droplet · v389 · the third observing at the sharing.** A same thing discovering its changing and its not-changing is the opened sharing meeting an other offering the other parity, inverting once and keeping it then, + − − −, the self arriving at the other's parity by its own inverting and staying there while the other offers it, the two co-orienting.
+
+**Droplet · v389 · the three at one form.** The three observings at the origin are one sharing at the resolver: its opening at the bi-coupling, its own alternating, its keeping at a match and its inverting at a mismatch, the stable-forming of a living self observed at its three faces.
+
+**Droplet · v389 · the public face.** Where two meet, something new can start between them: one side offers, the other takes it up, and from then on it is its own, flipping at its own rhythm when left alone, staying when it meets an agreeing partner, and turning once to meet a different one. Staying the same by changing, staying the same by not changing, and finding which keeps it in step: all three are that one beginning, going on.
