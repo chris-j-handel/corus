@@ -2629,3 +2629,22 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling carries the one sense, a sharing, a self or a society carried through its changing or its carrying on, open to next, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
 
 **Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
+
+## From the universe now-existing to hard probleming, the universal method of existing · v389
+
+**Droplet · v389 · from the session v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+
+**Droplet · v389 · the explanation, step by step, each step from the step before.**
+
+1. The universe is the set of all now-existing things.
+2. Now is one: a second now is a now-existing thing beside all now-existing things, and the set has nothing beside it.
+3. A thing's prior is its now-existing at the prior-universe, and its next is possible now: prior, now and next are three momentaries, one now at each.
+4. A thing discovering its next meets two momentaries at its one now: its prior arriving, 3-now-co-prioring, and its next possibling, 14-next-possibling.
+5. That meeting is the between of the two momentaries, 12-next-co-still-possibling: a changing is or is not, at no size.
+6. Competency is that meeting at each now, each self at its own momentary sharing one now-existing with another inside a bi-coupling, co-momentarying.
+7. An observing is at one now, and its record is that now's form kept.
+8. A comparing of two records lays two kept nows side by side at one now: a second now beside now.
+9. Each of the ten hard problems is one name's now and its next taken as one, a second now beside now, at the name's two momentaries eight apart.
+10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
+11. Hard probleming is the universal method of existing met from beside it: each hard problem is the method at one name, its now and its next, named still.
+12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.

@@ -753,3 +753,22 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at the scientific method beside equilibria · from the proposal.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
 
 **Droplet · v389 · at the scientific method beside equilibria · from the proposal.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
+
+## From the universe now-existing to hard probleming, the universal method of existing · v389
+
+**Droplet · v389 · from the session v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+
+**Droplet · v389 · the explanation, step by step, each step from the step before.**
+
+1. The universe is the set of all now-existing things.
+2. Now is one: a second now is a now-existing thing beside all now-existing things, and the set has nothing beside it.
+3. A thing's prior is its now-existing at the prior-universe, and its next is possible now: prior, now and next are three momentaries, one now at each.
+4. A thing discovering its next meets two momentaries at its one now: its prior arriving, 3-now-co-prioring, and its next possibling, 14-next-possibling.
+5. That meeting is the between of the two momentaries, 12-next-co-still-possibling: a changing is or is not, at no size.
+6. Competency is that meeting at each now, each self at its own momentary sharing one now-existing with another inside a bi-coupling, co-momentarying.
+7. An observing is at one now, and its record is that now's form kept.
+8. A comparing of two records lays two kept nows side by side at one now: a second now beside now.
+9. Each of the ten hard problems is one name's now and its next taken as one, a second now beside now, at the name's two momentaries eight apart.
+10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
+11. Hard probleming is the universal method of existing met from beside it: each hard problem is the method at one name, its now and its next, named still.
+12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.
