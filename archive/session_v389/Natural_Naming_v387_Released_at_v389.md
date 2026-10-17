@@ -371,3 +371,69 @@ not now, the others' prior arriving;
 ```
 
 **Is-still-possibling and is-next-existing are the binary of geodesic momentarying at each resolving**: the next still possible, or the next existing. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the compound alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, a form named still, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling read from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self named still or named changing, remains neither existing nor living.
+
+## Released at the older droplets risen, v389
+
+the self's 1-2 and the other's 2-3 meet at 2, each right extending to it, neither occupying it
+
+Natural Explaining's *a sentence carries no birth and no death* is met at it, the form continuing non-living.
+
+4  the term its carrying leaves is reached neither-ing, is at rest nowhere,
+   and completes at its own momentary
+
+Bi-co-podaling is floating across and neutralling along, one changing.
+
+Bounding is defining with the alternating carrying on.
+
+3  at the resolver a none at 14 is no offering arrived at this sharing, the prior parity inverted at 12,
+
+the resolver's one none an offering not arrived
+
+| *rating*, *a rating* | the resolver's names, 4.9: a rating names a measuring laid over the changing; a field's own rating carries whole at its result |
+
+1  each relatable existing thing is changing
+2  a form fixed by relating is fixed to the moving
+3  a form is its own continuing
+
+1  each relatable existing thing is changing
+2  a form fixed by relating is fixed to the moving
+3  the forming relates
+
+1  each relatable existing thing is changing
+2  nothing is beside it to relate to
+
+1  each relatable existing thing is changing
+2  a measuring needs a span, and a span needs two bounds named still
+
+Named still, it forms nothing, each existing thing changing.
+
+It is corusing's, through the small opening, the long way round, 5.50, and uni- is at scaling, 5.41.
+
+none making the next, which is why nothing downstream repairs them.
+
+A concept unfolding six forward carries its entry in Part Five.
+
+At a leaving-out with the naming carrying on, that part was riding, and it goes.
+
+| *neighbour* | *the self sharing to*, *the self arriving from*, at its 2, 6, 10 or 14 across; *the self releasing to*, *the self releasing from*, at its 9 or 17 along |
+
+| *derived* at the method's rigor | *matched, not chosen*; *derived* is a field's word for the matching |
+
+8 is at the even side alone, opening it at a state, the self's next prior between momentaries; 6 is at the odd side alone, closing it at a flow, the changing shared across at the sharing end.
+
+*Turn* carries seven senses, each carried by its own word:
+
+***Dimension* carries one sense**, 2.2.
+
+and at 9 the releasing along, the white paper 4.5. The five dimensions are three namings at the resolver's names, the white paper 3.2 and 5.50, bi-momentarying at 1-2, the handshake, co-intelligencing at 3-4 and co-competencing at 5, the two changing and the three continuing rotating round, bi-inversioning-co-recursioning, the method's move. Co-competencing at 5 is the term neither reaches, bi-co-momentarying, owned by neither, 5.54 and the white paper 6.1. Golden natural unrelationing is the between locking at none at the handshake, the white paper 4.10, and the method's unrelationing, the white paper 3.2. Social moral competency is the four whole and the carrying continuing with the selves, the white paper 6.4, and the universal unrelationing protocol, 5.60.
+
+- The namings, each at its unfolding
+- 5.1 alternating
+
+Each line is Exhibit ONE's table at 14 and its table at 12, 10 and 11, cell by cell, line 2 its table at no prior.
+
+a handshake meeting at 2
+
+inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries
+
+at the resolver 17-next-now calling each self's resolving and 12-next-co-still-possibling within it
