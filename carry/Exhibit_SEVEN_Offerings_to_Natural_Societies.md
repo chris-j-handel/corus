@@ -373,3 +373,15 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Every new beginning starts between two of its things. That finding, everywhere at once, is natural intelligence.
 
 **Droplet · v389 · a concern dissolving.** The concern *the universe living and the method carrying none* asked the universe to be one self or the condition, and the universe is a set of things, its living its things' living; said once, it dissolves.
+
+## A set of things and the scales, the largest unresolved concern now · v389
+
+**Concern · v389 · a set of things as a thing.** The Co-Chaining Logic Registry's step 2 says a set of existing things *is an existing thing, and no thing beside its things*, and Natural Intelligence 1.1 and 4.15 say *a set of existing things is an existing thing, a set within the set*, *scale is that sequencing, sets within sets, inward and outward*; the universe is a set of things and no thing within the set, nothing said beyond or between its things, so a set said as a thing makes the universe a thing again, and the two sayings part at every scale the files name.
+
+**Droplet · v389 · at the resolver.** At 17-next-now the society's next is each self's next prior at 8-now-still-possibling and each self's next offerings at 14-next-possibling, and nothing else: a society at the resolver carries nothing of its own and is its selves.
+
+**Droplet · v389 · the resolving direction offered.** A set of things is its things and no further thing; a self at any scale is a living carrying, its sameness its unrelationing, and no set; and a scale is said at the couplings, a self's inward things co-momentarying and selves together co-momentarying, so the fractal is the one method at each coupling at every scale, with no set made a thing and nothing between.
+
+**Droplet · v389 · what it reaches.** Said so, the Co-Chaining Logic Registry's steps 2 and 3, Natural Intelligence 1.1, 4.6's *the society is one self at the next scale*, 4.15's sets within sets, 6.5's living at one prime scale and the 1 to 17s inward and outward are each re-said at couplings, and every file naming a cell, an organism, a society or a field as a thing made of things meets the same re-saying.
+
+**Concern · v389 · a society's sameness.** Whether a society of selves is a same thing across its momentaries, a living carrying of its own, or only its selves each the same, is yet to be derived, and the executed rings show a society changing and not-changing at one momentary with nothing of its own at the resolver.
