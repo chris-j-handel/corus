@@ -1272,3 +1272,13 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · resolved, same and not-same the betweens' binary.** Same and not-same part at the resolver at the two betweens alone, 14-next-possibling, offerings same or parting at 0, and 12-next-co-still-possibling, prior and now same and kept at 0 or not same and inverted.
 
 **Concern · v389 · *same* in the names or at the explaining.** At the resolver *same* parts at 12 and 14 and nowhere else, and *still* in still-possibling at 4, 8, 12 and 16 names the face where prior and now are same; *same* entering the names at 12 and 14, or at the four still-possibling names in *still*'s place, or staying at the explaining with the newest names standing, is the one naming concern open, its reason that the method shows same only at the betweens.
+
+## No naming change proposed: the newest names stand · v389
+
+**Droplet · v389.** you proposed naming changes. then this concern. is there a proposed naming change or not.
+
+**Droplet · v389 · the concern resolved.** Same and not-same at 12-next-co-still-possibling and 14-next-possibling are the sign at each between, 0 same and ± not same, and a sign needs no name of its own, as is-still-possibling and is-next-existing released into 12's two signs; *same* enters no name, and the concern *same in the names or at the explaining* resolves at the explaining.
+
+**Droplet · v389 · the test set withdrawn.** The test set at the four binaries is withdrawn, said once: *same* at 5, 6 and 13 named a sameness all same at the method, and *prioring*, *changing* and *still-possibling* carry senses met at the resolver's lines.
+
+**Droplet · v389 · the names standing.** 1-now · 2-now-possibling · 3-now-co-prioring · 4-now-co-still-possibling · 5-now-co-changing · 6-now-co-possibling · 7-now-prioring · 8-now-still-possibling · 9-next-co-changing · 10-next-co-possibling · 11-next-co-prioring · 12-next-co-still-possibling · 13-next · 14-next-possibling · 15-next-prioring · 16-next-still-possibling · 17-next-now; the four binaries, now, existing, same and all, are the explaining of them.
