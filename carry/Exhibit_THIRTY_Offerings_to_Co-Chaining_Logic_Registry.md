@@ -2613,3 +2613,19 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · changing and still-possibling.** Changing stands only with co, 5-now-co-changing and 9-next-co-changing, a changing being between two, and still-possibling only without, 8-now-still-possibling and 16-next-still-possibling, each one self or one society carried through.
 
 **Droplet · v389 · co at 9 less and at 17 less.** Within 1 to 8 co is the same at each 9 less pair, 3 with 6 and 4 with 5 at co, 1 with 8 and 2 with 7 at none; at 17 less it parts at four pairs, 3 with 14, 4 with 13, 7 with 10 and 8 with 9, because the podal carries a name to another name's place and co says what is at that place.
+
+## 4 and 12 at the parities, the podals and the overlap · v389
+
+**Droplet · v389 · from the session v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
+
+**Droplet · v389 · 2 and 6 stay.** 6-now-co-possibling is the self's changing at the sharing side, the same changings as 10-next-co-possibling, and 2-now-possibling is a changing arriving at the self, so 2 and 6 reversed would put co at an arriving side and part from 10-next-co-possibling to 14-next-possibling at their join.
+
+**Concern · v389 · 4 and 12 at the even.** Odd is existing and even is possibling, and at the numbered names six even names say possibling and 4-now-co and 12-next-co do not, while no odd name says it.
+
+**Droplet · v389 · 4 and 12 at the podals.** With 4-now-co-still-possibling and 12-next-co-still-possibling, each of the eight podal pairs at the ends, 1 with 8, 4 with 5, 9 with 16, 12 with 13 at 9 less and 1 with 16, 4 with 13, 5 with 12, 8 with 9 at 17 less, is one odd existing name with one even still-possibling name, and with 4-now-co and 12-next-co four of them are not.
+
+**Droplet · v389 · 4 and 12 at the overlap.** The self's odd n is the other's n − 1, so at every momentary the self's prioring is the other's possibling, 3 with the other's 2, 7 with 6, 11 with 10, 15 with 14, and at the ends 9 with the other's 8 and 17 with the other's 16 say existing at possibling, while 5-now-co-changing with the other's 4-now-co and 13-next with the other's 12-next-co do not unless 4 and 12 say possibling.
+
+**Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling carries the one sense, a sharing, a self or a society carried through its changing or its carrying on, open to next, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
+
+**Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
