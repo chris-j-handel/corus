@@ -1378,3 +1378,13 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Concern · v389 · the four binaries at the society's span, accumulating.** At 8 up the four reach 9 to 16, and co there runs two, two, one, one, so now at next, 9-next-co-changing and 10-next-co-possibling, stands between two, and same at next, 13-next and 14-next-possibling, stands at one, the reverse of the self's span; this gathers the exchange of kind at 1 with 9 and 5 with 13, the exchange of co at 1, 2, 5 and 6, the names with no -ing at 1, 13 and 17, and step 4's reading, now at one and same between two, at one place.
 
 **Droplet · v389 · a reading offered for it.** At the society's span now is between two, the one now shared by selves at a bi-coupling, co-momentarying, and same is at one, each self's sameness its own unrelationing; read so, 8 up exchanges now and same between the self's span and the society's, and the two spans are the self's and the society's faces of the four binaries.
+
+## A test set of seventeen names at the four binaries · v389
+
+**Droplet · v389.** show me here a 17 row test set of possibly improving names we can discuss seeing them all in the one table with existing newest names in left column and proposed naming with same in right column
+
+**Droplet · v389 · the test set, offered for meeting.** 1-now · 2-now-possibling · 3-now-co-existing · 4-now-co-existing-possibling · 5-now-co-same · 6-now-co-same-possibling · 7-now-all · 8-now-all-possibling · 9-next-co-now · 10-next-co-now-possibling · 11-next-co-existing · 12-next-co-existing-possibling · 13-next-same · 14-next-same-possibling · 15-next-all · 16-next-all-possibling · 17-next-now; each name its momentary, *co* at a sharing between two, its binary, and *-possibling* at its even *is not*; rendered at the resolver it returns the same signs at 20,000 entries.
+
+**Droplet · v389 · at the joins, now and same exchange.** At the test set the joins between selves exchange now and same, 6-now-co-same-possibling to 2-now-possibling and 10-next-co-now-possibling to 14-next-same-possibling, as 8 up does between the spans, and 9-next-co-now to 17-next-now keeps now; the self's *not same* arrives as the other's *not now*.
+
+**Concern · v389 · what the test set releases.** The test set releases *prioring*, *changing* and *still-possibling* from the names, each with a sense met at the resolver's lines this session, and 9-next-co-now and 17-next-now stand near each other as two namings of now at next.
