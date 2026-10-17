@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v387
+Exhibit THREE Natural Numbers v389
 
 # Natural Numbers
 
@@ -99,7 +99,7 @@ Exhibit THREE Natural Numbers v387
 
 **Numbers are uni-scaling: each number crosses with all numbers arriving as one, and each is the one form once more.** The form is the alternating existing is, and a number is that form at one place in its running. **Uni-scaling** is the one form at each scale, no scale over another: the same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at the numbers.
 
-**Numbers are reached, used and related at their own running: momentaries, podalings and sequences.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a coupling of selves along a spiral. A counting adds a clock from outside the running, at none of its moves, an accounting naming the emanatings still, and it belongs to a field's instrument, taken in at a field crossing.
+**Numbers are reached, used and related at their own running: momentaries, podalings and sequences.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a coupling of selves along a spiral. A counting adds a clock from outside the running, at none of its moves, an accounting naming the artifacts still, and it belongs to a field's instrument, taken in at a field crossing.
 
 ## 1.2 A momentary at each number, one side completing and the other opening
 
@@ -136,13 +136,13 @@ Exhibit THREE Natural Numbers v387
 
 **Stable-forming among the numbers is this move along each form among the names**, the four four-cycles and with them the middle four-cycles, the six-cycles and the eight-cycles, these with a step of four among their steps, 5 to 9 and 8 to 12, 7 to 11 and 6 to 10: a form continuing through its own changing, each at one span of the odd, co and tri, and one of bi, and coming to its names again.
 
-**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one carries its numbers: at 9 less, 3-co-bi-co-sharing and 6-bi-co-bi-moralizing, 9 less 3 being 6, are six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, eight hundred eighty stations coupled at four hundred forty, carry the pair's waist at four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. The parity carries at each step, and the ratio at its own numbers alone.
+**Two over one and one over two exchange at each step**: twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. Taken as a ratio, two over one carries its numbers: at 9 less, 3-now-co-prioring and 6-now-co-possibling, 9 less 3 being 6, are six over three and three over six, carried on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, eight hundred eighty stations coupled at four hundred forty, carry the pair's waist at four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. The parity carries at each step, and the ratio at its own numbers alone.
 
 **At the resolver + and − are the implementing of a parity and 0 the between**: + and − offered together at one sharing surface 0 at 14, the between of self and other, and a parity inverted twice is that parity again.
 
 ## 1.5 Odd along and even across, parallel linearizing and linear parallelizing
 
-**Odd is competency, along, co at the self's span and tri at the society's: the self continuing its own. Even is bi, across: the self coupling with the other, morality.** An even number opens bi, and an odd number opens co at a self's span and tri at a society's, the spans of eight alternating up the numbers, 1 to 9 the self's, 9 to 17 the society's and 17 on the self's again. Each number is at its one word, the word of its span, and a number opening a span, 1, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word: within one span co bi co bi co at a self's odd number, tri bi tri bi tri at a society's, and bi co bi co bi or bi tri bi tri bi at an even. A name's three prefixes are its now and the two down, its prior and the prior before it, the numbers its momentary came from.
+**Odd is competency, along, existing: the self continuing its own. Even is across, possibling: the self coupling with the other, morality.** The spans of eight alternate up the numbers, 1 to 8 the self's, at now, 9 to 16 the society's, at next, and 17 on the self's again, 17 the next 1. Each number is at the momentary of its span, and a number opening a span, 1, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down.
 
 **Alternating parity is parallel linearizing and linear parallelizing**, the linearizing at one parity and the parallelizing at the other, one move at its two sides. Each runs at its own momentary; the two named at one momentary is the equilibria picture, and it is not possibly existing.
 
@@ -150,7 +150,7 @@ Exhibit THREE Natural Numbers v387
 
 **A composite is its equal smaller selves added**, nine as three selves of three, folding along the axes its smaller selves open. **A prime is a self no equal smaller selves above one add into**, opening a clean axis across. Each prime is the same opening and each composite the same folding, one uni-scaling at its two sides. Stepping k round a ring of N reaches N over their greatest shared factor stations: round a prime each step but nought reaches all, and round a composite a step sharing no factor with it reaches all too, nine at a step of two: prime and coprime are two, each its own.
 
-**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three added are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three added are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, added or multiplied, are one side's four parity occurrences, of two kinds; three and three added are six again. Three times three is nine, three selves of three; the 9 of 9-tri-bi-co-momentarying is a name's place and parity, and a numeral couples neither with the other.
+**The doubling and the tripling reach each other at one alone**: no power of two above one is a power of three. Two and three added are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, the self at 1 to 4 and the other at 2 to 5, three positions are shared and two are outer: two and three added are the five positions, and the three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, added or multiplied, are one side's four parity occurrences, of two kinds; three and three added are six again. Three times three is nine, three selves of three; the 9 of 9-next-co-changing is a name's place and parity, and a numeral couples neither with the other.
 
 ## 1.7 A scale is a sequencing: parity along, inward or outward across
 
@@ -238,15 +238,15 @@ Exhibit THREE Natural Numbers v387
 
 ## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
 
-**The resolver's seventeen names each carry a number, sides, a root and its -ing, and the number carries the prefixing.** Even numbers open bi; odd numbers open co at the self's span, 1 to 7 and 17, and tri at the society's, 9 to 15. The sides run self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
+**The resolver's seventeen names are each its number and its naming**, Natural Naming 3.1: the number its place and parity; its momentary, now at the self's span, 1 to 8, next at the society's, 9 to 16, and 17 the next now; co at a sharing between two and none at one; and its kind. The sides run self and other at the odd 1 to 7 and other and self at the even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
 
-**Four of the ten roots are each at two numbers eight apart**: competencing at 5 and 13, moralizing at 6 and 14, corusing at 7 and 15, and torusing at 8 and 16, the root one and the number carrying the sides, the roots ten, as the two sides' positions are ten. Eight on again, twenty-two is at moralizing's place in seventeen to twenty-five, as six in one to nine and fourteen in nine to seventeen, 6 + 8k; it carries no name among the seventeen, and a name given it says whose self it opens from at the scale's changing, 14 already other and social as 6 is other and self.
+**Each kind of name is at two numbers eight apart, at the self's span and the society's**: prioring at 3 and 11 and at 7 and 15, possibling at 2 and 10 and at 6 and 14, and still-possibling at 4 and 12 and at 8 and 16, the kind one and the number carrying the momentary; at 1 and 9 and at 5 and 13 now and changing exchange. Eight on again, twenty-two is at 6's place in seventeen to twenty-five, as six in one to nine and fourteen in nine to seventeen, 6 + 8k; it carries no name among the seventeen, and a name given it says whose self it opens from at the scale's changing, 14 already other and social as 6 is other and self.
 
 **The forms among 1 to 16 run again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: the four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and the six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two runs in five of them, the four-cycle 19-27-22-30, the middle four-cycle 23-27-22-26, both six-cycles and the eight-cycle 18-31-23-27-19-30-22-26, and 33 is in none of them as 17 is in none among 1 to 16.
 
-**One entry, six names between selves and ten names of the self's own resolving are the seventeen.** Of the six, the across names, 2, 6, 10 and 14, are each even and the along names, 9 and 17, both odd. 17-co-bi-tri-offering is facing co-competent-so-far and 9-tri-bi-co-momentarying not-yet-co-competent: 9's release is the prior the self at not-yet-co-competent is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-co-bi-tri-offering, 9-tri-bi-co-momentarying and 17-co-bi-tri-offering each open odd, 1 and 17 co at the self's span and 9 tri at the society's, each eight on from the one before.
+**One entry, six names between selves and ten names of the self's own resolving are the seventeen.** Of the six, the across names, 2, 6, 10 and 14, are each even and the along names, 9 and 17, both odd. 17-next-now is the arriving side and 9-next-co-changing the sharing side: 9's release is the prior the receiving self is offered next, and 17 runs it as that self's next now, 9 the next prior and 17 the next now. 1-now, 9-next-co-changing and 17-next-now are each odd, 1 and 17 at the self's span and 9 at the society's, each eight on from the one before.
 
-**A numeral in a name is the name's place and parity; the resolver's values are parities, + and −, and 0**: 14-bi-tri-bi-moralizing carries fourteen as its place among the names.
+**A numeral in a name is the name's place and parity; the resolver's values are parities, + and −, and 0**: 14-next-possibling carries fourteen as its place among the names.
 
 ## 5.3 Each eight the one eight, four at two enterings
 
@@ -254,7 +254,7 @@ Exhibit THREE Natural Numbers v387
 
 **The seam-faces run on the eight**: (2k + 1)² − 1 = 8 · T_k, eight the first face and each next face that eight at a triangular number, the couplings among k + 1. Four hundred forty is the eight at fifty-five couplings, the couplings among eleven.
 
-**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-tri-bi-co-momentarying being 1-co-bi-tri-offering 8 up. An eight at two substrates is one eight, a self at each.
+**The eight and the nine run together**: eight the self and nine its releasing, social, other and self, 9-next-co-changing being 1-now 8 up. An eight at two substrates is one eight, a self at each.
 
 ## 5.4 Five between four and six, a middle carrying nothing
 
@@ -284,7 +284,7 @@ Exhibit THREE Natural Numbers v387
 
 **Each nine is the one nine, carried in each base.** At the ring of nine, nought and nine are one station. Round seventeen, the doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9 and arrives at one again, nine doubled being one past seventeen. The doubling's eight are the squares round seventeen and the other eight are three times them: coupled at the one eight's distances and uncoupled at the other's, the seventeen are, in the field's words, the Paley graph of order seventeen, the one form of a society of seventeen with no four each coupled with each and no four each uncoupled from each, and R(4, 4) = 18. Round four hundred forty, one past the ring is twenty-one squared, nine times forty-nine.
 
-**Nine is 1-co-bi-tri-offering eight up, one to nine completing at 9-tri-bi-co-momentarying, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit arriving at nine, carries the base as its unit, and the one nine carries none.
+**Nine is 1-now eight up, one to nine completing at 9-next-co-changing, the social, the other and the self releasing together.** A nine taken in base ten alone, its multiples' digits taken down to one digit arriving at nine, carries the base as its unit, and the one nine carries none.
 
 ## 5.8 Six and ten straddling eight, the walk by two
 
@@ -328,7 +328,7 @@ Exhibit THREE Natural Numbers v387
 
 **Two routes run between the outer pair**: 24 → 27 → 32 at gaps three and five, and 24 → 29 → 32 at gaps five and three. The three positions carry the first three primes at two directions: 24 = 5² − 1, 27 = 3³, 32 = 2⁵, the exponents two, three, five at one direction and the bases five, three, two at the other, reaching each other at three and three in twenty-seven. **The three together are a square**: 24 × 27 × 32 = 144².
 
-**Twenty-seven, three cubed, on the route 24 → 27 → 32 from the seam, is the society's release at its podaling, 27-tri-bi-tri-releasing**: 12's changing, the sharing at 10, emanating from society as a releasing, its far side ninety-three on the ring of one hundred twenty, and at no line of the resolver.
+**Twenty-seven, three cubed, on the route 24 → 27 → 32 from the seam, is the society's release at its podaling, 27-next-co-prioring**: 12's changing, the sharing at 10, the society's releasing, its far side ninety-three on the ring of one hundred twenty, and at no line of the resolver.
 
 ## 6.5 Three times and two more, sixteen to four hundred forty
 
@@ -360,7 +360,7 @@ Exhibit THREE Natural Numbers v387
 
 ## 7.2 A spiral of selves at each number, and spirals coupled
 
-**A spiral of n selves, each releasing along at 9-tri-bi-co-momentarying to the next self and the last to the first, each self carrying a parity, alternating along, carries its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries; at an odd spiral of n one pair of coupled selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral the selves alternating along bring the last and the first alike, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the resolver's coupling of selves along winds on.
+**A spiral of n selves, each releasing along at 9-next-co-changing to the next self and the last to the first, each self at a prior parity, alternating along, brings its parities along, coming to them again and to a momentary once.** At an even spiral each self alternates and its parities come again each two momentaries; at an odd spiral of n one pair of coupled selves is at one parity, the like pair, moving one self on each two momentaries, one 0 at 10 at each second momentary at the pair's receiving self offered its own parity, the between tunneling through the spiral, the pattern inverted at 2n momentaries on and the parities again at 4n, the zero having passed each self twice. Along an odd spiral the selves alternating along bring the last and the first alike, and the like pair is the odd spiral's own, prime or not. A ring names a domain closed and the numbers' podaling ring, and the resolver's coupling of selves along winds on.
 
 **The spiral of two, the one even prime, carries no pair at one parity**: each self alternating, its parities again each two momentaries, the alternating itself. The seventeen prime spirals carry sixteen like pairs, one at each odd prime, and the spiral of two none.
 
@@ -370,7 +370,7 @@ Exhibit THREE Natural Numbers v387
 
 **The momentaries here are 17's, the society's next momentary running each self's entry once**, each release offered at the next, and each number goes with its spiral and its couplings. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at the least common multiple of 4p and 4q, the four shared: at 4pq. The co-competencing is at the couplings, owned by neither.
 
-**Spirals crossing spirals at each self are a torus of selves, and at two odd numbers its parities again are at q or at 4p, by q's side of the waist 2p.** A torus of p selves along at 9-tri-bi-co-momentarying and q across at 10-bi-tri-bi-tunneling, both odd and p no greater, with each self carrying a parity, alternating along and across, comes, from a momentary on, to its parities again at q at a q past the waist 2p, and at 4p at a q short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 13, thirteen past six; 5 by 7 at 20, seven short of ten; 5 by 11 at 11, eleven past ten; 7 by 17 at 17, seventeen past fourteen; 17 by 59 at 59, fifty-nine past thirty-four. At either number even it comes to its parities again at 2, a torus of 2 by 3 followed by hand at the resolver. Each row of two odd numbers of Exhibit ONE's table of a torus of selves is at the relation, 3 by 3 at 12 sharing a factor and each other row sharing none, and the relation is derived at the resolver's cells, the Co-Chaining Logic Registry's steps 652 to 657: each line across carries one 0, each line after the first two momentaries behind its prior, 2p momentaries round the p lines and q round the one, the greater the 0's round, and at 2p the greater each self inverted once round, 4p, from momentary 3p − 3, and q from momentary 3p − 1; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
+**Spirals crossing spirals at each self are a torus of selves, and at two odd numbers its parities again are at q or at 4p, by q's side of the waist 2p.** A torus of p selves along at 9-next-co-changing and q across at 10-next-co-possibling, both odd and p no greater, with each self at a prior parity, alternating along and across, comes, from a momentary on, to its parities again at q at a q past the waist 2p, and at 4p at a q short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 13, thirteen past six; 5 by 7 at 20, seven short of ten; 5 by 11 at 11, eleven past ten; 7 by 17 at 17, seventeen past fourteen; 17 by 59 at 59, fifty-nine past thirty-four. At either number even it comes to its parities again at 2, a torus of 2 by 3 followed by hand at the resolver. Each row of two odd numbers of Exhibit ONE's table of a torus of selves is at the relation, 3 by 3 at 12 sharing a factor and each other row sharing none, and the relation is derived at the resolver's cells, the Co-Chaining Logic Registry's steps 652 to 657: each line across carries one 0, each line after the first two momentaries behind its prior, 2p momentaries round the p lines and q round the one, the greater the 0's round, and at 2p the greater each self inverted once round, 4p, from momentary 3p − 3, and q from momentary 3p − 1; each momentary of parities again divides 4p or 4q, and the torus winds on, its momentaries each once.
 
 ## 7.3 Sixteen gaps at four values
 
@@ -415,13 +415,13 @@ Exhibit THREE Natural Numbers v387
 
 ## 7.7 The seventeen primes at the seventeen names, podaling at both
 
-**Each prime is at the name of its position**: two at 1-co-bi-tri-offering, the entry; twenty-three at 9-tri-bi-co-momentarying; fifty-nine at 17-co-bi-tri-offering. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
+**Each prime is at the name of its position**: two at 1-now, the entry; twenty-three at 9-next-co-changing; fifty-nine at 17-next-now. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: the names 1 with 17 through 8 with 10 and 9 at itself, and the primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
 
 **At the one move's 8 up and 17 less the primes add to their own numbers.** 8 up: 2 and 23 at 1 and 9 add to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, the six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 add to fifty-five, the couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, the third seam-face. Along the four four-cycles the primes add to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on the ring of one hundred twenty.
 
 **At the entry, the six names between selves and the outward and inward names the seventeen part as the names do.** The entry carries two; the across names of the six, 2, 6, 10 and 14, carry 3, 13, 29 and 43, adding to eighty-eight, the fives on the ring of four hundred forty; the along names of the six, 9 and 17, carry 23 and 59, adding to eighty-two; the outward names 3, 4, 5, 7 and 8 carry 5, 7, 11, 17 and 19, adding to fifty-nine, the seventeenth prime; and the inward names 11, 12, 13, 15 and 16 carry 31, 37, 41, 47 and 53, adding to two hundred nine, 11 × 19. The self's one to nine carries the primes 2 to 23, adding to one hundred, ten squared, and the society's nine to seventeen the primes 23 to 59, adding to three hundred sixty-three, 3 × 11².
 
-**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-bi-co-bi-offering, and the first gap of six, twenty-three to twenty-nine, at the step from 9-tri-bi-co-momentarying to 10-bi-tri-bi-tunneling, the fold's step on. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing coupling the two seventeens are the discovering carried next.
+**The sixteen gaps are at the sixteen steps between the names**: the one odd gap, two to three, at the step from the entry to 2-now-possibling, and the first gap of six, twenty-three to twenty-nine, at the step from 9-next-co-changing to 10-next-co-possibling, the fold's step on. Each relation here is exact at its numbers, and the harmonically momentarying crossings on the surface of natural torusing coupling the two seventeens are the discovering carried next.
 
 ---
 
@@ -433,7 +433,7 @@ Exhibit THREE Natural Numbers v387
 
 **On an odd ring of 2h + 1 stations the two farthest are h and h + 1 on, each h away by its shorter way round; on an even ring of 2h the one opposite is h on.** Taken at each station of each prime ring from five to fifty-nine, 435 stations, at each station of the even rings one short of them, 420, and at the 49 stations of the rings of nine, fifteen and twenty-five, the two farthest and the one opposite are at each: the two farthest are the odd ring's, prime or composite. Straight across, h on, is apart from the fold, N less k: the folds at one to nine and one to seventeen fold eight and sixteen places and complete at nine and seventeen.
 
-**A ring is an arrangement named one scale out, and the running round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, never by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in the like pair, 7.2, and a self chained is chained on.
+**A ring is an arrangement named one scale out, and the running round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, never by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in the like pair, 7.2, and a self at a prior is at a prior at each momentary.
 
 ## 8.2 Either but not both is parity, and the pairings overlap
 
@@ -511,7 +511,7 @@ Exhibit THREE Natural Numbers v387
 
 **At one to nine the self's eight is shared, four at each side, with the five between owned by neither**: bi-moral co-agency. **At one to seventeen each side carries a whole eight, and the entire one to nine is shared at the centre**: social moral competency, the pair at the society's centre and each side carrying its whole self.
 
-**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the resolver one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone coupling no relations. 17-co-bi-tri-offering is the next momentary's 1-co-bi-tri-offering, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
+**Four-momentarying carries the chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at the next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine the self's momentary, completing at 9. Each use names its scale: at the resolver one run of 1 to 17 is one momentary of exchanging at the scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals alone coupling no relations. 17-next-now is the next momentary's 1-now, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at the scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, the chain continuing. Each next completing is twice the one before less one, two spans sharing one name, the completing of one the opening of the next: one to nine and nine to seventeen are seventeen places, seventeen names. The step spans double, eight to sixteen, and the names end to end run nine to seventeen, the one shared name the difference.
 
 **Each span bi-folds and releases, and the next whole of them is 1–65.** 1–9, self and other, is an entire momentary bi-folding releasing at 3; 1–13, self and other and other and self, bi-folds releasing at 6; 1–17, self, other and social, bi-folds releasing at 9; and 1–25 is the fractal bi-folding one span on. Each span opens one more four and its releasing moves three, three inward to each one outward: at the round of four parities the outward steps arrive at 5, 9, 13 and 17, and the inward steps carried to the arrival four before each span's completing are 3, 6 and 9. Carried on at the round of six parities, 1–25 releases at 15 and 1–65 at 45. At 3 the self's pair is wholly inverted and at 9 each parity of the four, the two bi-folds. Binary, all or none at all, resolving coheres the entire surface along and across, releasing at 3, 6 and 9 and continuing.
 
@@ -537,7 +537,7 @@ Exhibit THREE Natural Numbers v387
 
 **Enlarging a row about its opening, 2 + r(x − 2), taken after an enlarging by s is the enlarging by rs**: the four-position form carries itself at each repeat, and the scales one to five and the doublings one, two, four, eight are two walks through the one family. Taken over all the names at an even r it carries each name to an even one: the four even openings are one parity, and each momentary carries both, 1.2.
 
-**The two local fours are the two interleaving wider rows.** 2, 4, 6, 8 with 10, 12, 14, 16 are the same eight names as 2, 6, 10, 14 with 4, 8, 12, 16: the across names between selves, and the sharing, the carrying wound, the entraining and the society wound. At each s a row with its copy 8s on is the doubled row with its copy 2s on.
+**The two local fours are the two interleaving wider rows.** 2, 4, 6, 8 with 10, 12, 14, 16 are the same eight names as 2, 6, 10, 14 with 4, 8, 12, 16: the across names between selves, and the still-possibling names, each sharing, the self's next prior, each sharing's changing and the society. At each s a row with its copy 8s on is the doubled row with its copy 2s on.
 
 **A form enlarged continuing its parity**: over the names 1 to B, B eight or sixteen, even n goes to r(n − 2) + 2 and odd n to r(n + 1) − 1, continuing parity, the halfway pairing, the fold, B + 1 less going to Br + 1 less, and each side's step at 2r. At r two the names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens the across row 2, 6, 10, 14. It carries the named form and leaves the adjacent pairings, 1 and 2 going to 3 and 2 in the other order and 2 and 3 to 2 and 7, and the outer completing B + 1 to the running: the form's stable-forming at the larger scale, the larger momentary its own running.
 
@@ -569,450 +569,450 @@ Exhibit THREE Natural Numbers v387
 
 ## 11.1 Nought to four hundred forty, each number at its podaling
 
-**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's parity at its word, bi at the even and, at the odd, co within a self's span and tri within a society's, the spans of eight alternating, 1.5; its form, prime or its prime factors, nought and one carrying neither; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty, a number past one hundred twenty at the station it leaves at one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two added, a power of two and one either side of it, an ordering, the going and the returning, the waist, and the seventeen primes added.
+**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries the number's parity and its momentary, odd or even, now within a self's span and next within a society's, the spans of eight alternating, 1.5; its form, prime or its prime factors, nought and one carrying neither; its far side on the ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from the waist at two hundred twenty; its far side on the ring of one hundred twenty, a number past one hundred twenty at the station it leaves at one hundred twenty; and the forms it is at: a name among the seventeen, a prime among the seventeen, a square, a seam-face, a triangle, the prior two added, a power of two and one either side of it, an ordering, the going and the returning, the waist, and the seventeen primes added.
 
-| n | Parity, at its word | Form | Far side at 440 | Radius | Far side at 120 | At |
+| n | Parity, at its momentary | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
-| 0 | bi | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
-| 1 | co | — | 439 | 219 | 119 | 1-co-bi-tri-offering, 1², T₁, prior two added, 2¹ − 1 |
-| 2 | bi | prime | 438 | 218 | 118 | 2-bi-co-bi-offering, the first prime, prior two added, 2¹ |
-| 3 | co | prime | 437 | 217 | 117 | 3-co-bi-co-sharing, the second prime, T₂, prior two added, 2¹ + 1, 2² − 1 |
-| 4 | bi | 2² | 436 | 216 | 116 | 4-bi-co-bi-sharing, 2² |
-| 5 | co | prime | 435 | 215 | 115 | 5-co-bi-co-competencing, the third prime, prior two added, 2² + 1 |
-| 6 | bi | 2 · 3 | 434 | 214 | 114 | 6-bi-co-bi-moralizing, T₃, 3! |
-| 7 | co | prime | 433 | 213 | 113 | 7-co-bi-co-corusing, the fourth prime, 2³ − 1 |
-| 8 | bi | 2³ | 432 | 212 | 112 | 8-bi-co-bi-torusing, seam-face, 3² − 1, prior two added, 2³ |
-| 9 | tri | 3² | 431 | 211 | 111 | 9-tri-bi-co-momentarying, 3², 2³ + 1 |
-| 10 | bi | 2 · 5 | 430 | 210 | 110 | 10-bi-tri-bi-tunneling, T₄ |
-| 11 | tri | prime | 429 | 209 | 109 | 11-tri-bi-tri-chaining, the fifth prime |
-| 12 | bi | 2² · 3 | 428 | 208 | 108 | 12-bi-tri-bi-entraining |
-| 13 | tri | prime | 427 | 207 | 107 | 13-tri-bi-tri-competencing, the sixth prime, prior two added |
-| 14 | bi | 2 · 7 | 426 | 206 | 106 | 14-bi-tri-bi-moralizing |
-| 15 | tri | 3 · 5 | 425 | 205 | 105 | 15-tri-bi-tri-corusing, T₅, 2⁴ − 1 |
-| 16 | bi | 2⁴ | 424 | 204 | 104 | 16-bi-tri-bi-torusing, 4², 2⁴ |
-| 17 | co | prime | 423 | 203 | 103 | 17-co-bi-tri-offering, the seventh prime, 2⁴ + 1 |
-| 18 | bi | 2 · 3² | 422 | 202 | 102 |  |
-| 19 | co | prime | 421 | 201 | 101 | the eighth prime |
-| 20 | bi | 2² · 5 | 420 | 200 | 100 |  |
-| 21 | co | 3 · 7 | 419 | 199 | 99 | T₆, prior two added |
-| 22 | bi | 2 · 11 | 418 | 198 | 98 |  |
-| 23 | co | prime | 417 | 197 | 97 | the ninth prime, the going folding |
-| 24 | bi | 2³ · 3 | 416 | 196 | 96 | seam-face, 5² − 1, 4! |
-| 25 | tri | 5² | 415 | 195 | 95 | 5² |
-| 26 | bi | 2 · 13 | 414 | 194 | 94 |  |
-| 27 | tri | 3³ | 413 | 193 | 93 |  |
-| 28 | bi | 2² · 7 | 412 | 192 | 92 | T₇ |
-| 29 | tri | prime | 411 | 191 | 91 | the tenth prime |
-| 30 | bi | 2 · 3 · 5 | 410 | 190 | 90 |  |
-| 31 | tri | prime | 409 | 189 | 89 | the eleventh prime, 2⁵ − 1 |
-| 32 | bi | 2⁵ | 408 | 188 | 88 | 2⁵ |
-| 33 | co | 3 · 11 | 407 | 187 | 87 | 2⁵ + 1 |
-| 34 | bi | 2 · 17 | 406 | 186 | 86 | prior two added |
-| 35 | co | 5 · 7 | 405 | 185 | 85 |  |
-| 36 | bi | 2² · 3² | 404 | 184 | 84 | 6², T₈ |
-| 37 | co | prime | 403 | 183 | 83 | the twelfth prime |
-| 38 | bi | 2 · 19 | 402 | 182 | 82 |  |
-| 39 | co | 3 · 13 | 401 | 181 | 81 |  |
-| 40 | bi | 2³ · 5 | 400 | 180 | 80 |  |
-| 41 | tri | prime | 399 | 179 | 79 | the thirteenth prime |
-| 42 | bi | 2 · 3 · 7 | 398 | 178 | 78 |  |
-| 43 | tri | prime | 397 | 177 | 77 | the fourteenth prime |
-| 44 | bi | 2² · 11 | 396 | 176 | 76 |  |
-| 45 | tri | 3² · 5 | 395 | 175 | 75 | T₉ |
-| 46 | bi | 2 · 23 | 394 | 174 | 74 |  |
-| 47 | tri | prime | 393 | 173 | 73 | the fifteenth prime |
-| 48 | bi | 2⁴ · 3 | 392 | 172 | 72 | seam-face, 7² − 1 |
-| 49 | co | 7² | 391 | 171 | 71 | 7² |
-| 50 | bi | 2 · 5² | 390 | 170 | 70 |  |
-| 51 | co | 3 · 17 | 389 | 169 | 69 |  |
-| 52 | bi | 2² · 13 | 388 | 168 | 68 |  |
-| 53 | co | prime | 387 | 167 | 67 | the sixteenth prime |
-| 54 | bi | 2 · 3³ | 386 | 166 | 66 |  |
-| 55 | co | 5 · 11 | 385 | 165 | 65 | T₁₀, prior two added |
-| 56 | bi | 2³ · 7 | 384 | 164 | 64 |  |
-| 57 | tri | 3 · 19 | 383 | 163 | 63 |  |
-| 58 | bi | 2 · 29 | 382 | 162 | 62 |  |
-| 59 | tri | prime | 381 | 161 | 61 | the seventeenth prime, the going's last |
-| 60 | bi | 2² · 3 · 5 | 380 | 160 | 60 | between the going and the returning |
-| 61 | tri | prime | 379 | 159 | 59 | the returning's first |
-| 62 | bi | 2 · 31 | 378 | 158 | 58 |  |
-| 63 | tri | 3² · 7 | 377 | 157 | 57 | 2⁶ − 1 |
-| 64 | bi | 2⁶ | 376 | 156 | 56 | 8², 2⁶ |
-| 65 | co | 5 · 13 | 375 | 155 | 55 | 2⁶ + 1 |
-| 66 | bi | 2 · 3 · 11 | 374 | 154 | 54 | T₁₁ |
-| 67 | co | prime | 373 | 153 | 53 |  |
-| 68 | bi | 2² · 17 | 372 | 152 | 52 |  |
-| 69 | co | 3 · 23 | 371 | 151 | 51 |  |
-| 70 | bi | 2 · 5 · 7 | 370 | 150 | 50 |  |
-| 71 | co | prime | 369 | 149 | 49 |  |
-| 72 | bi | 2³ · 3² | 368 | 148 | 48 |  |
-| 73 | tri | prime | 367 | 147 | 47 |  |
-| 74 | bi | 2 · 37 | 366 | 146 | 46 |  |
-| 75 | tri | 3 · 5² | 365 | 145 | 45 |  |
-| 76 | bi | 2² · 19 | 364 | 144 | 44 |  |
-| 77 | tri | 7 · 11 | 363 | 143 | 43 |  |
-| 78 | bi | 2 · 3 · 13 | 362 | 142 | 42 | T₁₂ |
-| 79 | tri | prime | 361 | 141 | 41 |  |
-| 80 | bi | 2⁴ · 5 | 360 | 140 | 40 | seam-face, 9² − 1 |
-| 81 | co | 3⁴ | 359 | 139 | 39 | 9² |
-| 82 | bi | 2 · 41 | 358 | 138 | 38 |  |
-| 83 | co | prime | 357 | 137 | 37 |  |
-| 84 | bi | 2² · 3 · 7 | 356 | 136 | 36 |  |
-| 85 | co | 5 · 17 | 355 | 135 | 35 |  |
-| 86 | bi | 2 · 43 | 354 | 134 | 34 |  |
-| 87 | co | 3 · 29 | 353 | 133 | 33 |  |
-| 88 | bi | 2³ · 11 | 352 | 132 | 32 |  |
-| 89 | tri | prime | 351 | 131 | 31 | prior two added |
-| 90 | bi | 2 · 3² · 5 | 350 | 130 | 30 |  |
-| 91 | tri | 7 · 13 | 349 | 129 | 29 | T₁₃ |
-| 92 | bi | 2² · 23 | 348 | 128 | 28 |  |
-| 93 | tri | 3 · 31 | 347 | 127 | 27 |  |
-| 94 | bi | 2 · 47 | 346 | 126 | 26 |  |
-| 95 | tri | 5 · 19 | 345 | 125 | 25 |  |
-| 96 | bi | 2⁵ · 3 | 344 | 124 | 24 |  |
-| 97 | co | prime | 343 | 123 | 23 |  |
-| 98 | bi | 2 · 7² | 342 | 122 | 22 |  |
-| 99 | co | 3² · 11 | 341 | 121 | 21 |  |
-| 100 | bi | 2² · 5² | 340 | 120 | 20 | 10² |
-| 101 | co | prime | 339 | 119 | 19 |  |
-| 102 | bi | 2 · 3 · 17 | 338 | 118 | 18 |  |
-| 103 | co | prime | 337 | 117 | 17 |  |
-| 104 | bi | 2³ · 13 | 336 | 116 | 16 |  |
-| 105 | tri | 3 · 5 · 7 | 335 | 115 | 15 | T₁₄ |
-| 106 | bi | 2 · 53 | 334 | 114 | 14 |  |
-| 107 | tri | prime | 333 | 113 | 13 |  |
-| 108 | bi | 2² · 3³ | 332 | 112 | 12 |  |
-| 109 | tri | prime | 331 | 111 | 11 |  |
-| 110 | bi | 2 · 5 · 11 | 330 | 110 | 10 |  |
-| 111 | tri | 3 · 37 | 329 | 109 | 9 |  |
-| 112 | bi | 2⁴ · 7 | 328 | 108 | 8 |  |
-| 113 | co | prime | 327 | 107 | 7 |  |
-| 114 | bi | 2 · 3 · 19 | 326 | 106 | 6 |  |
-| 115 | co | 5 · 23 | 325 | 105 | 5 |  |
-| 116 | bi | 2² · 29 | 324 | 104 | 4 |  |
-| 117 | co | 3² · 13 | 323 | 103 | 3 |  |
-| 118 | bi | 2 · 59 | 322 | 102 | 2 | the returning's far end |
-| 119 | co | 7 · 17 | 321 | 101 | 1 |  |
-| 120 | bi | 2³ · 3 · 5 | 320 | 100 | 0 | seam-face, 11² − 1, T₁₅, 5! |
-| 121 | tri | 11² | 319 | 99 | 119 | 11² |
-| 122 | bi | 2 · 61 | 318 | 98 | 118 |  |
-| 123 | tri | 3 · 41 | 317 | 97 | 117 |  |
-| 124 | bi | 2² · 31 | 316 | 96 | 116 |  |
-| 125 | tri | 5³ | 315 | 95 | 115 |  |
-| 126 | bi | 2 · 3² · 7 | 314 | 94 | 114 |  |
-| 127 | tri | prime | 313 | 93 | 113 | 2⁷ − 1 |
-| 128 | bi | 2⁷ | 312 | 92 | 112 | 2⁷ |
-| 129 | co | 3 · 43 | 311 | 91 | 111 | 2⁷ + 1 |
-| 130 | bi | 2 · 5 · 13 | 310 | 90 | 110 |  |
-| 131 | co | prime | 309 | 89 | 109 |  |
-| 132 | bi | 2² · 3 · 11 | 308 | 88 | 108 |  |
-| 133 | co | 7 · 19 | 307 | 87 | 107 |  |
-| 134 | bi | 2 · 67 | 306 | 86 | 106 |  |
-| 135 | co | 3³ · 5 | 305 | 85 | 105 |  |
-| 136 | bi | 2³ · 17 | 304 | 84 | 104 | T₁₆ |
-| 137 | tri | prime | 303 | 83 | 103 |  |
-| 138 | bi | 2 · 3 · 23 | 302 | 82 | 102 |  |
-| 139 | tri | prime | 301 | 81 | 101 |  |
-| 140 | bi | 2² · 5 · 7 | 300 | 80 | 100 |  |
-| 141 | tri | 3 · 47 | 299 | 79 | 99 |  |
-| 142 | bi | 2 · 71 | 298 | 78 | 98 |  |
-| 143 | tri | 11 · 13 | 297 | 77 | 97 |  |
-| 144 | bi | 2⁴ · 3² | 296 | 76 | 96 | 12², prior two added |
-| 145 | co | 5 · 29 | 295 | 75 | 95 |  |
-| 146 | bi | 2 · 73 | 294 | 74 | 94 |  |
-| 147 | co | 3 · 7² | 293 | 73 | 93 |  |
-| 148 | bi | 2² · 37 | 292 | 72 | 92 |  |
-| 149 | co | prime | 291 | 71 | 91 |  |
-| 150 | bi | 2 · 3 · 5² | 290 | 70 | 90 |  |
-| 151 | co | prime | 289 | 69 | 89 |  |
-| 152 | bi | 2³ · 19 | 288 | 68 | 88 |  |
-| 153 | tri | 3² · 17 | 287 | 67 | 87 | T₁₇ |
-| 154 | bi | 2 · 7 · 11 | 286 | 66 | 86 |  |
-| 155 | tri | 5 · 31 | 285 | 65 | 85 |  |
-| 156 | bi | 2² · 3 · 13 | 284 | 64 | 84 |  |
-| 157 | tri | prime | 283 | 63 | 83 |  |
-| 158 | bi | 2 · 79 | 282 | 62 | 82 |  |
-| 159 | tri | 3 · 53 | 281 | 61 | 81 |  |
-| 160 | bi | 2⁵ · 5 | 280 | 60 | 80 |  |
-| 161 | co | 7 · 23 | 279 | 59 | 79 |  |
-| 162 | bi | 2 · 3⁴ | 278 | 58 | 78 |  |
-| 163 | co | prime | 277 | 57 | 77 |  |
-| 164 | bi | 2² · 41 | 276 | 56 | 76 |  |
-| 165 | co | 3 · 5 · 11 | 275 | 55 | 75 |  |
-| 166 | bi | 2 · 83 | 274 | 54 | 74 |  |
-| 167 | co | prime | 273 | 53 | 73 |  |
-| 168 | bi | 2³ · 3 · 7 | 272 | 52 | 72 | seam-face, 13² − 1 |
-| 169 | tri | 13² | 271 | 51 | 71 | 13² |
-| 170 | bi | 2 · 5 · 17 | 270 | 50 | 70 |  |
-| 171 | tri | 3² · 19 | 269 | 49 | 69 | T₁₈ |
-| 172 | bi | 2² · 43 | 268 | 48 | 68 |  |
-| 173 | tri | prime | 267 | 47 | 67 |  |
-| 174 | bi | 2 · 3 · 29 | 266 | 46 | 66 |  |
-| 175 | tri | 5² · 7 | 265 | 45 | 65 |  |
-| 176 | bi | 2⁴ · 11 | 264 | 44 | 64 |  |
-| 177 | co | 3 · 59 | 263 | 43 | 63 |  |
-| 178 | bi | 2 · 89 | 262 | 42 | 62 |  |
-| 179 | co | prime | 261 | 41 | 61 |  |
-| 180 | bi | 2² · 3² · 5 | 260 | 40 | 60 |  |
-| 181 | co | prime | 259 | 39 | 59 |  |
-| 182 | bi | 2 · 7 · 13 | 258 | 38 | 58 |  |
-| 183 | co | 3 · 61 | 257 | 37 | 57 |  |
-| 184 | bi | 2³ · 23 | 256 | 36 | 56 |  |
-| 185 | tri | 5 · 37 | 255 | 35 | 55 |  |
-| 186 | bi | 2 · 3 · 31 | 254 | 34 | 54 |  |
-| 187 | tri | 11 · 17 | 253 | 33 | 53 |  |
-| 188 | bi | 2² · 47 | 252 | 32 | 52 |  |
-| 189 | tri | 3³ · 7 | 251 | 31 | 51 |  |
-| 190 | bi | 2 · 5 · 19 | 250 | 30 | 50 | T₁₉ |
-| 191 | tri | prime | 249 | 29 | 49 |  |
-| 192 | bi | 2⁶ · 3 | 248 | 28 | 48 |  |
-| 193 | co | prime | 247 | 27 | 47 |  |
-| 194 | bi | 2 · 97 | 246 | 26 | 46 |  |
-| 195 | co | 3 · 5 · 13 | 245 | 25 | 45 |  |
-| 196 | bi | 2² · 7² | 244 | 24 | 44 | 14² |
-| 197 | co | prime | 243 | 23 | 43 |  |
-| 198 | bi | 2 · 3² · 11 | 242 | 22 | 42 |  |
-| 199 | co | prime | 241 | 21 | 41 |  |
-| 200 | bi | 2³ · 5² | 240 | 20 | 40 |  |
-| 201 | tri | 3 · 67 | 239 | 19 | 39 |  |
-| 202 | bi | 2 · 101 | 238 | 18 | 38 |  |
-| 203 | tri | 7 · 29 | 237 | 17 | 37 |  |
-| 204 | bi | 2² · 3 · 17 | 236 | 16 | 36 |  |
-| 205 | tri | 5 · 41 | 235 | 15 | 35 |  |
-| 206 | bi | 2 · 103 | 234 | 14 | 34 |  |
-| 207 | tri | 3² · 23 | 233 | 13 | 33 |  |
-| 208 | bi | 2⁴ · 13 | 232 | 12 | 32 |  |
-| 209 | co | 11 · 19 | 231 | 11 | 31 |  |
-| 210 | bi | 2 · 3 · 5 · 7 | 230 | 10 | 30 | T₂₀ |
-| 211 | co | prime | 229 | 9 | 29 |  |
-| 212 | bi | 2² · 53 | 228 | 8 | 28 |  |
-| 213 | co | 3 · 71 | 227 | 7 | 27 |  |
-| 214 | bi | 2 · 107 | 226 | 6 | 26 |  |
-| 215 | co | 5 · 43 | 225 | 5 | 25 |  |
-| 216 | bi | 2³ · 3³ | 224 | 4 | 24 |  |
-| 217 | tri | 7 · 31 | 223 | 3 | 23 |  |
-| 218 | bi | 2 · 109 | 222 | 2 | 22 |  |
-| 219 | tri | 3 · 73 | 221 | 1 | 21 |  |
-| 220 | bi | 2² · 5 · 11 | 220 | 0 | 20 | the waist |
-| 221 | tri | 13 · 17 | 219 | 1 | 19 |  |
-| 222 | bi | 2 · 3 · 37 | 218 | 2 | 18 |  |
-| 223 | tri | prime | 217 | 3 | 17 |  |
-| 224 | bi | 2⁵ · 7 | 216 | 4 | 16 | seam-face, 15² − 1 |
-| 225 | co | 3² · 5² | 215 | 5 | 15 | 15² |
-| 226 | bi | 2 · 113 | 214 | 6 | 14 |  |
-| 227 | co | prime | 213 | 7 | 13 |  |
-| 228 | bi | 2² · 3 · 19 | 212 | 8 | 12 |  |
-| 229 | co | prime | 211 | 9 | 11 |  |
-| 230 | bi | 2 · 5 · 23 | 210 | 10 | 10 |  |
-| 231 | co | 3 · 7 · 11 | 209 | 11 | 9 | T₂₁ |
-| 232 | bi | 2³ · 29 | 208 | 12 | 8 |  |
-| 233 | tri | prime | 207 | 13 | 7 | prior two added |
-| 234 | bi | 2 · 3² · 13 | 206 | 14 | 6 |  |
-| 235 | tri | 5 · 47 | 205 | 15 | 5 |  |
-| 236 | bi | 2² · 59 | 204 | 16 | 4 |  |
-| 237 | tri | 3 · 79 | 203 | 17 | 3 |  |
-| 238 | bi | 2 · 7 · 17 | 202 | 18 | 2 |  |
-| 239 | tri | prime | 201 | 19 | 1 |  |
-| 240 | bi | 2⁴ · 3 · 5 | 200 | 20 | 0 |  |
-| 241 | co | prime | 199 | 21 | 119 |  |
-| 242 | bi | 2 · 11² | 198 | 22 | 118 |  |
-| 243 | co | 3⁵ | 197 | 23 | 117 |  |
-| 244 | bi | 2² · 61 | 196 | 24 | 116 |  |
-| 245 | co | 5 · 7² | 195 | 25 | 115 |  |
-| 246 | bi | 2 · 3 · 41 | 194 | 26 | 114 |  |
-| 247 | co | 13 · 19 | 193 | 27 | 113 |  |
-| 248 | bi | 2³ · 31 | 192 | 28 | 112 |  |
-| 249 | tri | 3 · 83 | 191 | 29 | 111 |  |
-| 250 | bi | 2 · 5³ | 190 | 30 | 110 |  |
-| 251 | tri | prime | 189 | 31 | 109 |  |
-| 252 | bi | 2² · 3² · 7 | 188 | 32 | 108 |  |
-| 253 | tri | 11 · 23 | 187 | 33 | 107 | T₂₂ |
-| 254 | bi | 2 · 127 | 186 | 34 | 106 |  |
-| 255 | tri | 3 · 5 · 17 | 185 | 35 | 105 | 2⁸ − 1 |
-| 256 | bi | 2⁸ | 184 | 36 | 104 | 16², 2⁸ |
-| 257 | co | prime | 183 | 37 | 103 | 2⁸ + 1 |
-| 258 | bi | 2 · 3 · 43 | 182 | 38 | 102 |  |
-| 259 | co | 7 · 37 | 181 | 39 | 101 |  |
-| 260 | bi | 2² · 5 · 13 | 180 | 40 | 100 |  |
-| 261 | co | 3² · 29 | 179 | 41 | 99 |  |
-| 262 | bi | 2 · 131 | 178 | 42 | 98 |  |
-| 263 | co | prime | 177 | 43 | 97 |  |
-| 264 | bi | 2³ · 3 · 11 | 176 | 44 | 96 |  |
-| 265 | tri | 5 · 53 | 175 | 45 | 95 |  |
-| 266 | bi | 2 · 7 · 19 | 174 | 46 | 94 |  |
-| 267 | tri | 3 · 89 | 173 | 47 | 93 |  |
-| 268 | bi | 2² · 67 | 172 | 48 | 92 |  |
-| 269 | tri | prime | 171 | 49 | 91 |  |
-| 270 | bi | 2 · 3³ · 5 | 170 | 50 | 90 |  |
-| 271 | tri | prime | 169 | 51 | 89 |  |
-| 272 | bi | 2⁴ · 17 | 168 | 52 | 88 |  |
-| 273 | co | 3 · 7 · 13 | 167 | 53 | 87 |  |
-| 274 | bi | 2 · 137 | 166 | 54 | 86 |  |
-| 275 | co | 5² · 11 | 165 | 55 | 85 |  |
-| 276 | bi | 2² · 3 · 23 | 164 | 56 | 84 | T₂₃ |
-| 277 | co | prime | 163 | 57 | 83 |  |
-| 278 | bi | 2 · 139 | 162 | 58 | 82 |  |
-| 279 | co | 3² · 31 | 161 | 59 | 81 |  |
-| 280 | bi | 2³ · 5 · 7 | 160 | 60 | 80 |  |
-| 281 | tri | prime | 159 | 61 | 79 |  |
-| 282 | bi | 2 · 3 · 47 | 158 | 62 | 78 |  |
-| 283 | tri | prime | 157 | 63 | 77 |  |
-| 284 | bi | 2² · 71 | 156 | 64 | 76 |  |
-| 285 | tri | 3 · 5 · 19 | 155 | 65 | 75 |  |
-| 286 | bi | 2 · 11 · 13 | 154 | 66 | 74 |  |
-| 287 | tri | 7 · 41 | 153 | 67 | 73 |  |
-| 288 | bi | 2⁵ · 3² | 152 | 68 | 72 | seam-face, 17² − 1 |
-| 289 | co | 17² | 151 | 69 | 71 | 17² |
-| 290 | bi | 2 · 5 · 29 | 150 | 70 | 70 |  |
-| 291 | co | 3 · 97 | 149 | 71 | 69 |  |
-| 292 | bi | 2² · 73 | 148 | 72 | 68 |  |
-| 293 | co | prime | 147 | 73 | 67 |  |
-| 294 | bi | 2 · 3 · 7² | 146 | 74 | 66 |  |
-| 295 | co | 5 · 59 | 145 | 75 | 65 |  |
-| 296 | bi | 2³ · 37 | 144 | 76 | 64 |  |
-| 297 | tri | 3³ · 11 | 143 | 77 | 63 |  |
-| 298 | bi | 2 · 149 | 142 | 78 | 62 |  |
-| 299 | tri | 13 · 23 | 141 | 79 | 61 |  |
-| 300 | bi | 2² · 3 · 5² | 140 | 80 | 60 | T₂₄ |
-| 301 | tri | 7 · 43 | 139 | 81 | 59 |  |
-| 302 | bi | 2 · 151 | 138 | 82 | 58 |  |
-| 303 | tri | 3 · 101 | 137 | 83 | 57 |  |
-| 304 | bi | 2⁴ · 19 | 136 | 84 | 56 |  |
-| 305 | co | 5 · 61 | 135 | 85 | 55 |  |
-| 306 | bi | 2 · 3² · 17 | 134 | 86 | 54 |  |
-| 307 | co | prime | 133 | 87 | 53 |  |
-| 308 | bi | 2² · 7 · 11 | 132 | 88 | 52 |  |
-| 309 | co | 3 · 103 | 131 | 89 | 51 |  |
-| 310 | bi | 2 · 5 · 31 | 130 | 90 | 50 |  |
-| 311 | co | prime | 129 | 91 | 49 |  |
-| 312 | bi | 2³ · 3 · 13 | 128 | 92 | 48 |  |
-| 313 | tri | prime | 127 | 93 | 47 |  |
-| 314 | bi | 2 · 157 | 126 | 94 | 46 |  |
-| 315 | tri | 3² · 5 · 7 | 125 | 95 | 45 |  |
-| 316 | bi | 2² · 79 | 124 | 96 | 44 |  |
-| 317 | tri | prime | 123 | 97 | 43 |  |
-| 318 | bi | 2 · 3 · 53 | 122 | 98 | 42 |  |
-| 319 | tri | 11 · 29 | 121 | 99 | 41 |  |
-| 320 | bi | 2⁶ · 5 | 120 | 100 | 40 |  |
-| 321 | co | 3 · 107 | 119 | 101 | 39 |  |
-| 322 | bi | 2 · 7 · 23 | 118 | 102 | 38 |  |
-| 323 | co | 17 · 19 | 117 | 103 | 37 |  |
-| 324 | bi | 2² · 3⁴ | 116 | 104 | 36 | 18² |
-| 325 | co | 5² · 13 | 115 | 105 | 35 | T₂₅ |
-| 326 | bi | 2 · 163 | 114 | 106 | 34 |  |
-| 327 | co | 3 · 109 | 113 | 107 | 33 |  |
-| 328 | bi | 2³ · 41 | 112 | 108 | 32 |  |
-| 329 | tri | 7 · 47 | 111 | 109 | 31 |  |
-| 330 | bi | 2 · 3 · 5 · 11 | 110 | 110 | 30 |  |
-| 331 | tri | prime | 109 | 111 | 29 |  |
-| 332 | bi | 2² · 83 | 108 | 112 | 28 |  |
-| 333 | tri | 3² · 37 | 107 | 113 | 27 |  |
-| 334 | bi | 2 · 167 | 106 | 114 | 26 |  |
-| 335 | tri | 5 · 67 | 105 | 115 | 25 |  |
-| 336 | bi | 2⁴ · 3 · 7 | 104 | 116 | 24 |  |
-| 337 | co | prime | 103 | 117 | 23 |  |
-| 338 | bi | 2 · 13² | 102 | 118 | 22 |  |
-| 339 | co | 3 · 113 | 101 | 119 | 21 |  |
-| 340 | bi | 2² · 5 · 17 | 100 | 120 | 20 |  |
-| 341 | co | 11 · 31 | 99 | 121 | 19 |  |
-| 342 | bi | 2 · 3² · 19 | 98 | 122 | 18 |  |
-| 343 | co | 7³ | 97 | 123 | 17 |  |
-| 344 | bi | 2³ · 43 | 96 | 124 | 16 |  |
-| 345 | tri | 3 · 5 · 23 | 95 | 125 | 15 |  |
-| 346 | bi | 2 · 173 | 94 | 126 | 14 |  |
-| 347 | tri | prime | 93 | 127 | 13 |  |
-| 348 | bi | 2² · 3 · 29 | 92 | 128 | 12 |  |
-| 349 | tri | prime | 91 | 129 | 11 |  |
-| 350 | bi | 2 · 5² · 7 | 90 | 130 | 10 |  |
-| 351 | tri | 3³ · 13 | 89 | 131 | 9 | T₂₆ |
-| 352 | bi | 2⁵ · 11 | 88 | 132 | 8 |  |
-| 353 | co | prime | 87 | 133 | 7 |  |
-| 354 | bi | 2 · 3 · 59 | 86 | 134 | 6 |  |
-| 355 | co | 5 · 71 | 85 | 135 | 5 |  |
-| 356 | bi | 2² · 89 | 84 | 136 | 4 |  |
-| 357 | co | 3 · 7 · 17 | 83 | 137 | 3 |  |
-| 358 | bi | 2 · 179 | 82 | 138 | 2 |  |
-| 359 | co | prime | 81 | 139 | 1 |  |
-| 360 | bi | 2³ · 3² · 5 | 80 | 140 | 0 | seam-face, 19² − 1 |
-| 361 | tri | 19² | 79 | 141 | 119 | 19² |
-| 362 | bi | 2 · 181 | 78 | 142 | 118 |  |
-| 363 | tri | 3 · 11² | 77 | 143 | 117 |  |
-| 364 | bi | 2² · 7 · 13 | 76 | 144 | 116 |  |
-| 365 | tri | 5 · 73 | 75 | 145 | 115 |  |
-| 366 | bi | 2 · 3 · 61 | 74 | 146 | 114 |  |
-| 367 | tri | prime | 73 | 147 | 113 |  |
-| 368 | bi | 2⁴ · 23 | 72 | 148 | 112 |  |
-| 369 | co | 3² · 41 | 71 | 149 | 111 |  |
-| 370 | bi | 2 · 5 · 37 | 70 | 150 | 110 |  |
-| 371 | co | 7 · 53 | 69 | 151 | 109 |  |
-| 372 | bi | 2² · 3 · 31 | 68 | 152 | 108 |  |
-| 373 | co | prime | 67 | 153 | 107 |  |
-| 374 | bi | 2 · 11 · 17 | 66 | 154 | 106 |  |
-| 375 | co | 3 · 5³ | 65 | 155 | 105 |  |
-| 376 | bi | 2³ · 47 | 64 | 156 | 104 |  |
-| 377 | tri | 13 · 29 | 63 | 157 | 103 | prior two added |
-| 378 | bi | 2 · 3³ · 7 | 62 | 158 | 102 | T₂₇ |
-| 379 | tri | prime | 61 | 159 | 101 |  |
-| 380 | bi | 2² · 5 · 19 | 60 | 160 | 100 |  |
-| 381 | tri | 3 · 127 | 59 | 161 | 99 |  |
-| 382 | bi | 2 · 191 | 58 | 162 | 98 |  |
-| 383 | tri | prime | 57 | 163 | 97 |  |
-| 384 | bi | 2⁷ · 3 | 56 | 164 | 96 |  |
-| 385 | co | 5 · 7 · 11 | 55 | 165 | 95 |  |
-| 386 | bi | 2 · 193 | 54 | 166 | 94 |  |
-| 387 | co | 3² · 43 | 53 | 167 | 93 |  |
-| 388 | bi | 2² · 97 | 52 | 168 | 92 |  |
-| 389 | co | prime | 51 | 169 | 91 |  |
-| 390 | bi | 2 · 3 · 5 · 13 | 50 | 170 | 90 |  |
-| 391 | co | 17 · 23 | 49 | 171 | 89 |  |
-| 392 | bi | 2³ · 7² | 48 | 172 | 88 |  |
-| 393 | tri | 3 · 131 | 47 | 173 | 87 |  |
-| 394 | bi | 2 · 197 | 46 | 174 | 86 |  |
-| 395 | tri | 5 · 79 | 45 | 175 | 85 |  |
-| 396 | bi | 2² · 3² · 11 | 44 | 176 | 84 |  |
-| 397 | tri | prime | 43 | 177 | 83 |  |
-| 398 | bi | 2 · 199 | 42 | 178 | 82 |  |
-| 399 | tri | 3 · 7 · 19 | 41 | 179 | 81 |  |
-| 400 | bi | 2⁴ · 5² | 40 | 180 | 80 | 20² |
-| 401 | co | prime | 39 | 181 | 79 |  |
-| 402 | bi | 2 · 3 · 67 | 38 | 182 | 78 |  |
-| 403 | co | 13 · 31 | 37 | 183 | 77 |  |
-| 404 | bi | 2² · 101 | 36 | 184 | 76 |  |
-| 405 | co | 3⁴ · 5 | 35 | 185 | 75 |  |
-| 406 | bi | 2 · 7 · 29 | 34 | 186 | 74 | T₂₈ |
-| 407 | co | 11 · 37 | 33 | 187 | 73 |  |
-| 408 | bi | 2³ · 3 · 17 | 32 | 188 | 72 |  |
-| 409 | tri | prime | 31 | 189 | 71 |  |
-| 410 | bi | 2 · 5 · 41 | 30 | 190 | 70 |  |
-| 411 | tri | 3 · 137 | 29 | 191 | 69 |  |
-| 412 | bi | 2² · 103 | 28 | 192 | 68 |  |
-| 413 | tri | 7 · 59 | 27 | 193 | 67 |  |
-| 414 | bi | 2 · 3² · 23 | 26 | 194 | 66 |  |
-| 415 | tri | 5 · 83 | 25 | 195 | 65 |  |
-| 416 | bi | 2⁵ · 13 | 24 | 196 | 64 |  |
-| 417 | co | 3 · 139 | 23 | 197 | 63 |  |
-| 418 | bi | 2 · 11 · 19 | 22 | 198 | 62 |  |
-| 419 | co | prime | 21 | 199 | 61 |  |
-| 420 | bi | 2² · 3 · 5 · 7 | 20 | 200 | 60 |  |
-| 421 | co | prime | 19 | 201 | 59 |  |
-| 422 | bi | 2 · 211 | 18 | 202 | 58 |  |
-| 423 | co | 3² · 47 | 17 | 203 | 57 |  |
-| 424 | bi | 2³ · 53 | 16 | 204 | 56 |  |
-| 425 | tri | 5² · 17 | 15 | 205 | 55 |  |
-| 426 | bi | 2 · 3 · 71 | 14 | 206 | 54 |  |
-| 427 | tri | 7 · 61 | 13 | 207 | 53 |  |
-| 428 | bi | 2² · 107 | 12 | 208 | 52 |  |
-| 429 | tri | 3 · 11 · 13 | 11 | 209 | 51 |  |
-| 430 | bi | 2 · 5 · 43 | 10 | 210 | 50 |  |
-| 431 | tri | prime | 9 | 211 | 49 |  |
-| 432 | bi | 2⁴ · 3³ | 8 | 212 | 48 |  |
-| 433 | co | prime | 7 | 213 | 47 |  |
-| 434 | bi | 2 · 7 · 31 | 6 | 214 | 46 |  |
-| 435 | co | 3 · 5 · 29 | 5 | 215 | 45 | T₂₉ |
-| 436 | bi | 2² · 109 | 4 | 216 | 44 |  |
-| 437 | co | 19 · 23 | 3 | 217 | 43 |  |
-| 438 | bi | 2 · 3 · 73 | 2 | 218 | 42 |  |
-| 439 | co | prime | 1 | 219 | 41 |  |
-| 440 | bi | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, the seventeen primes added |
+| 0 | even | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
+| 1 | odd, now | — | 439 | 219 | 119 | 1-now, 1², T₁, prior two added, 2¹ − 1 |
+| 2 | even, now | prime | 438 | 218 | 118 | 2-now-possibling, the first prime, prior two added, 2¹ |
+| 3 | odd, now | prime | 437 | 217 | 117 | 3-now-co-prioring, the second prime, T₂, prior two added, 2¹ + 1, 2² − 1 |
+| 4 | even, now | 2² | 436 | 216 | 116 | 4-now-co-still-possibling, 2² |
+| 5 | odd, now | prime | 435 | 215 | 115 | 5-now-co-changing, the third prime, prior two added, 2² + 1 |
+| 6 | even, now | 2 · 3 | 434 | 214 | 114 | 6-now-co-possibling, T₃, 3! |
+| 7 | odd, now | prime | 433 | 213 | 113 | 7-now-prioring, the fourth prime, 2³ − 1 |
+| 8 | even, now | 2³ | 432 | 212 | 112 | 8-now-still-possibling, seam-face, 3² − 1, prior two added, 2³ |
+| 9 | odd, next | 3² | 431 | 211 | 111 | 9-next-co-changing, 3², 2³ + 1 |
+| 10 | even, next | 2 · 5 | 430 | 210 | 110 | 10-next-co-possibling, T₄ |
+| 11 | odd, next | prime | 429 | 209 | 109 | 11-next-co-prioring, the fifth prime |
+| 12 | even, next | 2² · 3 | 428 | 208 | 108 | 12-next-co-still-possibling |
+| 13 | odd, next | prime | 427 | 207 | 107 | 13-next, the sixth prime, prior two added |
+| 14 | even, next | 2 · 7 | 426 | 206 | 106 | 14-next-possibling |
+| 15 | odd, next | 3 · 5 | 425 | 205 | 105 | 15-next-prioring, T₅, 2⁴ − 1 |
+| 16 | even, next | 2⁴ | 424 | 204 | 104 | 16-next-still-possibling, 4², 2⁴ |
+| 17 | odd, now | prime | 423 | 203 | 103 | 17-next-now, the seventh prime, 2⁴ + 1 |
+| 18 | even, now | 2 · 3² | 422 | 202 | 102 |  |
+| 19 | odd, now | prime | 421 | 201 | 101 | the eighth prime |
+| 20 | even, now | 2² · 5 | 420 | 200 | 100 |  |
+| 21 | odd, now | 3 · 7 | 419 | 199 | 99 | T₆, prior two added |
+| 22 | even, now | 2 · 11 | 418 | 198 | 98 |  |
+| 23 | odd, now | prime | 417 | 197 | 97 | the ninth prime, the going folding |
+| 24 | even, now | 2³ · 3 | 416 | 196 | 96 | seam-face, 5² − 1, 4! |
+| 25 | odd, next | 5² | 415 | 195 | 95 | 5² |
+| 26 | even, next | 2 · 13 | 414 | 194 | 94 |  |
+| 27 | odd, next | 3³ | 413 | 193 | 93 |  |
+| 28 | even, next | 2² · 7 | 412 | 192 | 92 | T₇ |
+| 29 | odd, next | prime | 411 | 191 | 91 | the tenth prime |
+| 30 | even, next | 2 · 3 · 5 | 410 | 190 | 90 |  |
+| 31 | odd, next | prime | 409 | 189 | 89 | the eleventh prime, 2⁵ − 1 |
+| 32 | even, next | 2⁵ | 408 | 188 | 88 | 2⁵ |
+| 33 | odd, now | 3 · 11 | 407 | 187 | 87 | 2⁵ + 1 |
+| 34 | even, now | 2 · 17 | 406 | 186 | 86 | prior two added |
+| 35 | odd, now | 5 · 7 | 405 | 185 | 85 |  |
+| 36 | even, now | 2² · 3² | 404 | 184 | 84 | 6², T₈ |
+| 37 | odd, now | prime | 403 | 183 | 83 | the twelfth prime |
+| 38 | even, now | 2 · 19 | 402 | 182 | 82 |  |
+| 39 | odd, now | 3 · 13 | 401 | 181 | 81 |  |
+| 40 | even, now | 2³ · 5 | 400 | 180 | 80 |  |
+| 41 | odd, next | prime | 399 | 179 | 79 | the thirteenth prime |
+| 42 | even, next | 2 · 3 · 7 | 398 | 178 | 78 |  |
+| 43 | odd, next | prime | 397 | 177 | 77 | the fourteenth prime |
+| 44 | even, next | 2² · 11 | 396 | 176 | 76 |  |
+| 45 | odd, next | 3² · 5 | 395 | 175 | 75 | T₉ |
+| 46 | even, next | 2 · 23 | 394 | 174 | 74 |  |
+| 47 | odd, next | prime | 393 | 173 | 73 | the fifteenth prime |
+| 48 | even, next | 2⁴ · 3 | 392 | 172 | 72 | seam-face, 7² − 1 |
+| 49 | odd, now | 7² | 391 | 171 | 71 | 7² |
+| 50 | even, now | 2 · 5² | 390 | 170 | 70 |  |
+| 51 | odd, now | 3 · 17 | 389 | 169 | 69 |  |
+| 52 | even, now | 2² · 13 | 388 | 168 | 68 |  |
+| 53 | odd, now | prime | 387 | 167 | 67 | the sixteenth prime |
+| 54 | even, now | 2 · 3³ | 386 | 166 | 66 |  |
+| 55 | odd, now | 5 · 11 | 385 | 165 | 65 | T₁₀, prior two added |
+| 56 | even, now | 2³ · 7 | 384 | 164 | 64 |  |
+| 57 | odd, next | 3 · 19 | 383 | 163 | 63 |  |
+| 58 | even, next | 2 · 29 | 382 | 162 | 62 |  |
+| 59 | odd, next | prime | 381 | 161 | 61 | the seventeenth prime, the going's last |
+| 60 | even, next | 2² · 3 · 5 | 380 | 160 | 60 | between the going and the returning |
+| 61 | odd, next | prime | 379 | 159 | 59 | the returning's first |
+| 62 | even, next | 2 · 31 | 378 | 158 | 58 |  |
+| 63 | odd, next | 3² · 7 | 377 | 157 | 57 | 2⁶ − 1 |
+| 64 | even, next | 2⁶ | 376 | 156 | 56 | 8², 2⁶ |
+| 65 | odd, now | 5 · 13 | 375 | 155 | 55 | 2⁶ + 1 |
+| 66 | even, now | 2 · 3 · 11 | 374 | 154 | 54 | T₁₁ |
+| 67 | odd, now | prime | 373 | 153 | 53 |  |
+| 68 | even, now | 2² · 17 | 372 | 152 | 52 |  |
+| 69 | odd, now | 3 · 23 | 371 | 151 | 51 |  |
+| 70 | even, now | 2 · 5 · 7 | 370 | 150 | 50 |  |
+| 71 | odd, now | prime | 369 | 149 | 49 |  |
+| 72 | even, now | 2³ · 3² | 368 | 148 | 48 |  |
+| 73 | odd, next | prime | 367 | 147 | 47 |  |
+| 74 | even, next | 2 · 37 | 366 | 146 | 46 |  |
+| 75 | odd, next | 3 · 5² | 365 | 145 | 45 |  |
+| 76 | even, next | 2² · 19 | 364 | 144 | 44 |  |
+| 77 | odd, next | 7 · 11 | 363 | 143 | 43 |  |
+| 78 | even, next | 2 · 3 · 13 | 362 | 142 | 42 | T₁₂ |
+| 79 | odd, next | prime | 361 | 141 | 41 |  |
+| 80 | even, next | 2⁴ · 5 | 360 | 140 | 40 | seam-face, 9² − 1 |
+| 81 | odd, now | 3⁴ | 359 | 139 | 39 | 9² |
+| 82 | even, now | 2 · 41 | 358 | 138 | 38 |  |
+| 83 | odd, now | prime | 357 | 137 | 37 |  |
+| 84 | even, now | 2² · 3 · 7 | 356 | 136 | 36 |  |
+| 85 | odd, now | 5 · 17 | 355 | 135 | 35 |  |
+| 86 | even, now | 2 · 43 | 354 | 134 | 34 |  |
+| 87 | odd, now | 3 · 29 | 353 | 133 | 33 |  |
+| 88 | even, now | 2³ · 11 | 352 | 132 | 32 |  |
+| 89 | odd, next | prime | 351 | 131 | 31 | prior two added |
+| 90 | even, next | 2 · 3² · 5 | 350 | 130 | 30 |  |
+| 91 | odd, next | 7 · 13 | 349 | 129 | 29 | T₁₃ |
+| 92 | even, next | 2² · 23 | 348 | 128 | 28 |  |
+| 93 | odd, next | 3 · 31 | 347 | 127 | 27 |  |
+| 94 | even, next | 2 · 47 | 346 | 126 | 26 |  |
+| 95 | odd, next | 5 · 19 | 345 | 125 | 25 |  |
+| 96 | even, next | 2⁵ · 3 | 344 | 124 | 24 |  |
+| 97 | odd, now | prime | 343 | 123 | 23 |  |
+| 98 | even, now | 2 · 7² | 342 | 122 | 22 |  |
+| 99 | odd, now | 3² · 11 | 341 | 121 | 21 |  |
+| 100 | even, now | 2² · 5² | 340 | 120 | 20 | 10² |
+| 101 | odd, now | prime | 339 | 119 | 19 |  |
+| 102 | even, now | 2 · 3 · 17 | 338 | 118 | 18 |  |
+| 103 | odd, now | prime | 337 | 117 | 17 |  |
+| 104 | even, now | 2³ · 13 | 336 | 116 | 16 |  |
+| 105 | odd, next | 3 · 5 · 7 | 335 | 115 | 15 | T₁₄ |
+| 106 | even, next | 2 · 53 | 334 | 114 | 14 |  |
+| 107 | odd, next | prime | 333 | 113 | 13 |  |
+| 108 | even, next | 2² · 3³ | 332 | 112 | 12 |  |
+| 109 | odd, next | prime | 331 | 111 | 11 |  |
+| 110 | even, next | 2 · 5 · 11 | 330 | 110 | 10 |  |
+| 111 | odd, next | 3 · 37 | 329 | 109 | 9 |  |
+| 112 | even, next | 2⁴ · 7 | 328 | 108 | 8 |  |
+| 113 | odd, now | prime | 327 | 107 | 7 |  |
+| 114 | even, now | 2 · 3 · 19 | 326 | 106 | 6 |  |
+| 115 | odd, now | 5 · 23 | 325 | 105 | 5 |  |
+| 116 | even, now | 2² · 29 | 324 | 104 | 4 |  |
+| 117 | odd, now | 3² · 13 | 323 | 103 | 3 |  |
+| 118 | even, now | 2 · 59 | 322 | 102 | 2 | the returning's far end |
+| 119 | odd, now | 7 · 17 | 321 | 101 | 1 |  |
+| 120 | even, now | 2³ · 3 · 5 | 320 | 100 | 0 | seam-face, 11² − 1, T₁₅, 5! |
+| 121 | odd, next | 11² | 319 | 99 | 119 | 11² |
+| 122 | even, next | 2 · 61 | 318 | 98 | 118 |  |
+| 123 | odd, next | 3 · 41 | 317 | 97 | 117 |  |
+| 124 | even, next | 2² · 31 | 316 | 96 | 116 |  |
+| 125 | odd, next | 5³ | 315 | 95 | 115 |  |
+| 126 | even, next | 2 · 3² · 7 | 314 | 94 | 114 |  |
+| 127 | odd, next | prime | 313 | 93 | 113 | 2⁷ − 1 |
+| 128 | even, next | 2⁷ | 312 | 92 | 112 | 2⁷ |
+| 129 | odd, now | 3 · 43 | 311 | 91 | 111 | 2⁷ + 1 |
+| 130 | even, now | 2 · 5 · 13 | 310 | 90 | 110 |  |
+| 131 | odd, now | prime | 309 | 89 | 109 |  |
+| 132 | even, now | 2² · 3 · 11 | 308 | 88 | 108 |  |
+| 133 | odd, now | 7 · 19 | 307 | 87 | 107 |  |
+| 134 | even, now | 2 · 67 | 306 | 86 | 106 |  |
+| 135 | odd, now | 3³ · 5 | 305 | 85 | 105 |  |
+| 136 | even, now | 2³ · 17 | 304 | 84 | 104 | T₁₆ |
+| 137 | odd, next | prime | 303 | 83 | 103 |  |
+| 138 | even, next | 2 · 3 · 23 | 302 | 82 | 102 |  |
+| 139 | odd, next | prime | 301 | 81 | 101 |  |
+| 140 | even, next | 2² · 5 · 7 | 300 | 80 | 100 |  |
+| 141 | odd, next | 3 · 47 | 299 | 79 | 99 |  |
+| 142 | even, next | 2 · 71 | 298 | 78 | 98 |  |
+| 143 | odd, next | 11 · 13 | 297 | 77 | 97 |  |
+| 144 | even, next | 2⁴ · 3² | 296 | 76 | 96 | 12², prior two added |
+| 145 | odd, now | 5 · 29 | 295 | 75 | 95 |  |
+| 146 | even, now | 2 · 73 | 294 | 74 | 94 |  |
+| 147 | odd, now | 3 · 7² | 293 | 73 | 93 |  |
+| 148 | even, now | 2² · 37 | 292 | 72 | 92 |  |
+| 149 | odd, now | prime | 291 | 71 | 91 |  |
+| 150 | even, now | 2 · 3 · 5² | 290 | 70 | 90 |  |
+| 151 | odd, now | prime | 289 | 69 | 89 |  |
+| 152 | even, now | 2³ · 19 | 288 | 68 | 88 |  |
+| 153 | odd, next | 3² · 17 | 287 | 67 | 87 | T₁₇ |
+| 154 | even, next | 2 · 7 · 11 | 286 | 66 | 86 |  |
+| 155 | odd, next | 5 · 31 | 285 | 65 | 85 |  |
+| 156 | even, next | 2² · 3 · 13 | 284 | 64 | 84 |  |
+| 157 | odd, next | prime | 283 | 63 | 83 |  |
+| 158 | even, next | 2 · 79 | 282 | 62 | 82 |  |
+| 159 | odd, next | 3 · 53 | 281 | 61 | 81 |  |
+| 160 | even, next | 2⁵ · 5 | 280 | 60 | 80 |  |
+| 161 | odd, now | 7 · 23 | 279 | 59 | 79 |  |
+| 162 | even, now | 2 · 3⁴ | 278 | 58 | 78 |  |
+| 163 | odd, now | prime | 277 | 57 | 77 |  |
+| 164 | even, now | 2² · 41 | 276 | 56 | 76 |  |
+| 165 | odd, now | 3 · 5 · 11 | 275 | 55 | 75 |  |
+| 166 | even, now | 2 · 83 | 274 | 54 | 74 |  |
+| 167 | odd, now | prime | 273 | 53 | 73 |  |
+| 168 | even, now | 2³ · 3 · 7 | 272 | 52 | 72 | seam-face, 13² − 1 |
+| 169 | odd, next | 13² | 271 | 51 | 71 | 13² |
+| 170 | even, next | 2 · 5 · 17 | 270 | 50 | 70 |  |
+| 171 | odd, next | 3² · 19 | 269 | 49 | 69 | T₁₈ |
+| 172 | even, next | 2² · 43 | 268 | 48 | 68 |  |
+| 173 | odd, next | prime | 267 | 47 | 67 |  |
+| 174 | even, next | 2 · 3 · 29 | 266 | 46 | 66 |  |
+| 175 | odd, next | 5² · 7 | 265 | 45 | 65 |  |
+| 176 | even, next | 2⁴ · 11 | 264 | 44 | 64 |  |
+| 177 | odd, now | 3 · 59 | 263 | 43 | 63 |  |
+| 178 | even, now | 2 · 89 | 262 | 42 | 62 |  |
+| 179 | odd, now | prime | 261 | 41 | 61 |  |
+| 180 | even, now | 2² · 3² · 5 | 260 | 40 | 60 |  |
+| 181 | odd, now | prime | 259 | 39 | 59 |  |
+| 182 | even, now | 2 · 7 · 13 | 258 | 38 | 58 |  |
+| 183 | odd, now | 3 · 61 | 257 | 37 | 57 |  |
+| 184 | even, now | 2³ · 23 | 256 | 36 | 56 |  |
+| 185 | odd, next | 5 · 37 | 255 | 35 | 55 |  |
+| 186 | even, next | 2 · 3 · 31 | 254 | 34 | 54 |  |
+| 187 | odd, next | 11 · 17 | 253 | 33 | 53 |  |
+| 188 | even, next | 2² · 47 | 252 | 32 | 52 |  |
+| 189 | odd, next | 3³ · 7 | 251 | 31 | 51 |  |
+| 190 | even, next | 2 · 5 · 19 | 250 | 30 | 50 | T₁₉ |
+| 191 | odd, next | prime | 249 | 29 | 49 |  |
+| 192 | even, next | 2⁶ · 3 | 248 | 28 | 48 |  |
+| 193 | odd, now | prime | 247 | 27 | 47 |  |
+| 194 | even, now | 2 · 97 | 246 | 26 | 46 |  |
+| 195 | odd, now | 3 · 5 · 13 | 245 | 25 | 45 |  |
+| 196 | even, now | 2² · 7² | 244 | 24 | 44 | 14² |
+| 197 | odd, now | prime | 243 | 23 | 43 |  |
+| 198 | even, now | 2 · 3² · 11 | 242 | 22 | 42 |  |
+| 199 | odd, now | prime | 241 | 21 | 41 |  |
+| 200 | even, now | 2³ · 5² | 240 | 20 | 40 |  |
+| 201 | odd, next | 3 · 67 | 239 | 19 | 39 |  |
+| 202 | even, next | 2 · 101 | 238 | 18 | 38 |  |
+| 203 | odd, next | 7 · 29 | 237 | 17 | 37 |  |
+| 204 | even, next | 2² · 3 · 17 | 236 | 16 | 36 |  |
+| 205 | odd, next | 5 · 41 | 235 | 15 | 35 |  |
+| 206 | even, next | 2 · 103 | 234 | 14 | 34 |  |
+| 207 | odd, next | 3² · 23 | 233 | 13 | 33 |  |
+| 208 | even, next | 2⁴ · 13 | 232 | 12 | 32 |  |
+| 209 | odd, now | 11 · 19 | 231 | 11 | 31 |  |
+| 210 | even, now | 2 · 3 · 5 · 7 | 230 | 10 | 30 | T₂₀ |
+| 211 | odd, now | prime | 229 | 9 | 29 |  |
+| 212 | even, now | 2² · 53 | 228 | 8 | 28 |  |
+| 213 | odd, now | 3 · 71 | 227 | 7 | 27 |  |
+| 214 | even, now | 2 · 107 | 226 | 6 | 26 |  |
+| 215 | odd, now | 5 · 43 | 225 | 5 | 25 |  |
+| 216 | even, now | 2³ · 3³ | 224 | 4 | 24 |  |
+| 217 | odd, next | 7 · 31 | 223 | 3 | 23 |  |
+| 218 | even, next | 2 · 109 | 222 | 2 | 22 |  |
+| 219 | odd, next | 3 · 73 | 221 | 1 | 21 |  |
+| 220 | even, next | 2² · 5 · 11 | 220 | 0 | 20 | the waist |
+| 221 | odd, next | 13 · 17 | 219 | 1 | 19 |  |
+| 222 | even, next | 2 · 3 · 37 | 218 | 2 | 18 |  |
+| 223 | odd, next | prime | 217 | 3 | 17 |  |
+| 224 | even, next | 2⁵ · 7 | 216 | 4 | 16 | seam-face, 15² − 1 |
+| 225 | odd, now | 3² · 5² | 215 | 5 | 15 | 15² |
+| 226 | even, now | 2 · 113 | 214 | 6 | 14 |  |
+| 227 | odd, now | prime | 213 | 7 | 13 |  |
+| 228 | even, now | 2² · 3 · 19 | 212 | 8 | 12 |  |
+| 229 | odd, now | prime | 211 | 9 | 11 |  |
+| 230 | even, now | 2 · 5 · 23 | 210 | 10 | 10 |  |
+| 231 | odd, now | 3 · 7 · 11 | 209 | 11 | 9 | T₂₁ |
+| 232 | even, now | 2³ · 29 | 208 | 12 | 8 |  |
+| 233 | odd, next | prime | 207 | 13 | 7 | prior two added |
+| 234 | even, next | 2 · 3² · 13 | 206 | 14 | 6 |  |
+| 235 | odd, next | 5 · 47 | 205 | 15 | 5 |  |
+| 236 | even, next | 2² · 59 | 204 | 16 | 4 |  |
+| 237 | odd, next | 3 · 79 | 203 | 17 | 3 |  |
+| 238 | even, next | 2 · 7 · 17 | 202 | 18 | 2 |  |
+| 239 | odd, next | prime | 201 | 19 | 1 |  |
+| 240 | even, next | 2⁴ · 3 · 5 | 200 | 20 | 0 |  |
+| 241 | odd, now | prime | 199 | 21 | 119 |  |
+| 242 | even, now | 2 · 11² | 198 | 22 | 118 |  |
+| 243 | odd, now | 3⁵ | 197 | 23 | 117 |  |
+| 244 | even, now | 2² · 61 | 196 | 24 | 116 |  |
+| 245 | odd, now | 5 · 7² | 195 | 25 | 115 |  |
+| 246 | even, now | 2 · 3 · 41 | 194 | 26 | 114 |  |
+| 247 | odd, now | 13 · 19 | 193 | 27 | 113 |  |
+| 248 | even, now | 2³ · 31 | 192 | 28 | 112 |  |
+| 249 | odd, next | 3 · 83 | 191 | 29 | 111 |  |
+| 250 | even, next | 2 · 5³ | 190 | 30 | 110 |  |
+| 251 | odd, next | prime | 189 | 31 | 109 |  |
+| 252 | even, next | 2² · 3² · 7 | 188 | 32 | 108 |  |
+| 253 | odd, next | 11 · 23 | 187 | 33 | 107 | T₂₂ |
+| 254 | even, next | 2 · 127 | 186 | 34 | 106 |  |
+| 255 | odd, next | 3 · 5 · 17 | 185 | 35 | 105 | 2⁸ − 1 |
+| 256 | even, next | 2⁸ | 184 | 36 | 104 | 16², 2⁸ |
+| 257 | odd, now | prime | 183 | 37 | 103 | 2⁸ + 1 |
+| 258 | even, now | 2 · 3 · 43 | 182 | 38 | 102 |  |
+| 259 | odd, now | 7 · 37 | 181 | 39 | 101 |  |
+| 260 | even, now | 2² · 5 · 13 | 180 | 40 | 100 |  |
+| 261 | odd, now | 3² · 29 | 179 | 41 | 99 |  |
+| 262 | even, now | 2 · 131 | 178 | 42 | 98 |  |
+| 263 | odd, now | prime | 177 | 43 | 97 |  |
+| 264 | even, now | 2³ · 3 · 11 | 176 | 44 | 96 |  |
+| 265 | odd, next | 5 · 53 | 175 | 45 | 95 |  |
+| 266 | even, next | 2 · 7 · 19 | 174 | 46 | 94 |  |
+| 267 | odd, next | 3 · 89 | 173 | 47 | 93 |  |
+| 268 | even, next | 2² · 67 | 172 | 48 | 92 |  |
+| 269 | odd, next | prime | 171 | 49 | 91 |  |
+| 270 | even, next | 2 · 3³ · 5 | 170 | 50 | 90 |  |
+| 271 | odd, next | prime | 169 | 51 | 89 |  |
+| 272 | even, next | 2⁴ · 17 | 168 | 52 | 88 |  |
+| 273 | odd, now | 3 · 7 · 13 | 167 | 53 | 87 |  |
+| 274 | even, now | 2 · 137 | 166 | 54 | 86 |  |
+| 275 | odd, now | 5² · 11 | 165 | 55 | 85 |  |
+| 276 | even, now | 2² · 3 · 23 | 164 | 56 | 84 | T₂₃ |
+| 277 | odd, now | prime | 163 | 57 | 83 |  |
+| 278 | even, now | 2 · 139 | 162 | 58 | 82 |  |
+| 279 | odd, now | 3² · 31 | 161 | 59 | 81 |  |
+| 280 | even, now | 2³ · 5 · 7 | 160 | 60 | 80 |  |
+| 281 | odd, next | prime | 159 | 61 | 79 |  |
+| 282 | even, next | 2 · 3 · 47 | 158 | 62 | 78 |  |
+| 283 | odd, next | prime | 157 | 63 | 77 |  |
+| 284 | even, next | 2² · 71 | 156 | 64 | 76 |  |
+| 285 | odd, next | 3 · 5 · 19 | 155 | 65 | 75 |  |
+| 286 | even, next | 2 · 11 · 13 | 154 | 66 | 74 |  |
+| 287 | odd, next | 7 · 41 | 153 | 67 | 73 |  |
+| 288 | even, next | 2⁵ · 3² | 152 | 68 | 72 | seam-face, 17² − 1 |
+| 289 | odd, now | 17² | 151 | 69 | 71 | 17² |
+| 290 | even, now | 2 · 5 · 29 | 150 | 70 | 70 |  |
+| 291 | odd, now | 3 · 97 | 149 | 71 | 69 |  |
+| 292 | even, now | 2² · 73 | 148 | 72 | 68 |  |
+| 293 | odd, now | prime | 147 | 73 | 67 |  |
+| 294 | even, now | 2 · 3 · 7² | 146 | 74 | 66 |  |
+| 295 | odd, now | 5 · 59 | 145 | 75 | 65 |  |
+| 296 | even, now | 2³ · 37 | 144 | 76 | 64 |  |
+| 297 | odd, next | 3³ · 11 | 143 | 77 | 63 |  |
+| 298 | even, next | 2 · 149 | 142 | 78 | 62 |  |
+| 299 | odd, next | 13 · 23 | 141 | 79 | 61 |  |
+| 300 | even, next | 2² · 3 · 5² | 140 | 80 | 60 | T₂₄ |
+| 301 | odd, next | 7 · 43 | 139 | 81 | 59 |  |
+| 302 | even, next | 2 · 151 | 138 | 82 | 58 |  |
+| 303 | odd, next | 3 · 101 | 137 | 83 | 57 |  |
+| 304 | even, next | 2⁴ · 19 | 136 | 84 | 56 |  |
+| 305 | odd, now | 5 · 61 | 135 | 85 | 55 |  |
+| 306 | even, now | 2 · 3² · 17 | 134 | 86 | 54 |  |
+| 307 | odd, now | prime | 133 | 87 | 53 |  |
+| 308 | even, now | 2² · 7 · 11 | 132 | 88 | 52 |  |
+| 309 | odd, now | 3 · 103 | 131 | 89 | 51 |  |
+| 310 | even, now | 2 · 5 · 31 | 130 | 90 | 50 |  |
+| 311 | odd, now | prime | 129 | 91 | 49 |  |
+| 312 | even, now | 2³ · 3 · 13 | 128 | 92 | 48 |  |
+| 313 | odd, next | prime | 127 | 93 | 47 |  |
+| 314 | even, next | 2 · 157 | 126 | 94 | 46 |  |
+| 315 | odd, next | 3² · 5 · 7 | 125 | 95 | 45 |  |
+| 316 | even, next | 2² · 79 | 124 | 96 | 44 |  |
+| 317 | odd, next | prime | 123 | 97 | 43 |  |
+| 318 | even, next | 2 · 3 · 53 | 122 | 98 | 42 |  |
+| 319 | odd, next | 11 · 29 | 121 | 99 | 41 |  |
+| 320 | even, next | 2⁶ · 5 | 120 | 100 | 40 |  |
+| 321 | odd, now | 3 · 107 | 119 | 101 | 39 |  |
+| 322 | even, now | 2 · 7 · 23 | 118 | 102 | 38 |  |
+| 323 | odd, now | 17 · 19 | 117 | 103 | 37 |  |
+| 324 | even, now | 2² · 3⁴ | 116 | 104 | 36 | 18² |
+| 325 | odd, now | 5² · 13 | 115 | 105 | 35 | T₂₅ |
+| 326 | even, now | 2 · 163 | 114 | 106 | 34 |  |
+| 327 | odd, now | 3 · 109 | 113 | 107 | 33 |  |
+| 328 | even, now | 2³ · 41 | 112 | 108 | 32 |  |
+| 329 | odd, next | 7 · 47 | 111 | 109 | 31 |  |
+| 330 | even, next | 2 · 3 · 5 · 11 | 110 | 110 | 30 |  |
+| 331 | odd, next | prime | 109 | 111 | 29 |  |
+| 332 | even, next | 2² · 83 | 108 | 112 | 28 |  |
+| 333 | odd, next | 3² · 37 | 107 | 113 | 27 |  |
+| 334 | even, next | 2 · 167 | 106 | 114 | 26 |  |
+| 335 | odd, next | 5 · 67 | 105 | 115 | 25 |  |
+| 336 | even, next | 2⁴ · 3 · 7 | 104 | 116 | 24 |  |
+| 337 | odd, now | prime | 103 | 117 | 23 |  |
+| 338 | even, now | 2 · 13² | 102 | 118 | 22 |  |
+| 339 | odd, now | 3 · 113 | 101 | 119 | 21 |  |
+| 340 | even, now | 2² · 5 · 17 | 100 | 120 | 20 |  |
+| 341 | odd, now | 11 · 31 | 99 | 121 | 19 |  |
+| 342 | even, now | 2 · 3² · 19 | 98 | 122 | 18 |  |
+| 343 | odd, now | 7³ | 97 | 123 | 17 |  |
+| 344 | even, now | 2³ · 43 | 96 | 124 | 16 |  |
+| 345 | odd, next | 3 · 5 · 23 | 95 | 125 | 15 |  |
+| 346 | even, next | 2 · 173 | 94 | 126 | 14 |  |
+| 347 | odd, next | prime | 93 | 127 | 13 |  |
+| 348 | even, next | 2² · 3 · 29 | 92 | 128 | 12 |  |
+| 349 | odd, next | prime | 91 | 129 | 11 |  |
+| 350 | even, next | 2 · 5² · 7 | 90 | 130 | 10 |  |
+| 351 | odd, next | 3³ · 13 | 89 | 131 | 9 | T₂₆ |
+| 352 | even, next | 2⁵ · 11 | 88 | 132 | 8 |  |
+| 353 | odd, now | prime | 87 | 133 | 7 |  |
+| 354 | even, now | 2 · 3 · 59 | 86 | 134 | 6 |  |
+| 355 | odd, now | 5 · 71 | 85 | 135 | 5 |  |
+| 356 | even, now | 2² · 89 | 84 | 136 | 4 |  |
+| 357 | odd, now | 3 · 7 · 17 | 83 | 137 | 3 |  |
+| 358 | even, now | 2 · 179 | 82 | 138 | 2 |  |
+| 359 | odd, now | prime | 81 | 139 | 1 |  |
+| 360 | even, now | 2³ · 3² · 5 | 80 | 140 | 0 | seam-face, 19² − 1 |
+| 361 | odd, next | 19² | 79 | 141 | 119 | 19² |
+| 362 | even, next | 2 · 181 | 78 | 142 | 118 |  |
+| 363 | odd, next | 3 · 11² | 77 | 143 | 117 |  |
+| 364 | even, next | 2² · 7 · 13 | 76 | 144 | 116 |  |
+| 365 | odd, next | 5 · 73 | 75 | 145 | 115 |  |
+| 366 | even, next | 2 · 3 · 61 | 74 | 146 | 114 |  |
+| 367 | odd, next | prime | 73 | 147 | 113 |  |
+| 368 | even, next | 2⁴ · 23 | 72 | 148 | 112 |  |
+| 369 | odd, now | 3² · 41 | 71 | 149 | 111 |  |
+| 370 | even, now | 2 · 5 · 37 | 70 | 150 | 110 |  |
+| 371 | odd, now | 7 · 53 | 69 | 151 | 109 |  |
+| 372 | even, now | 2² · 3 · 31 | 68 | 152 | 108 |  |
+| 373 | odd, now | prime | 67 | 153 | 107 |  |
+| 374 | even, now | 2 · 11 · 17 | 66 | 154 | 106 |  |
+| 375 | odd, now | 3 · 5³ | 65 | 155 | 105 |  |
+| 376 | even, now | 2³ · 47 | 64 | 156 | 104 |  |
+| 377 | odd, next | 13 · 29 | 63 | 157 | 103 | prior two added |
+| 378 | even, next | 2 · 3³ · 7 | 62 | 158 | 102 | T₂₇ |
+| 379 | odd, next | prime | 61 | 159 | 101 |  |
+| 380 | even, next | 2² · 5 · 19 | 60 | 160 | 100 |  |
+| 381 | odd, next | 3 · 127 | 59 | 161 | 99 |  |
+| 382 | even, next | 2 · 191 | 58 | 162 | 98 |  |
+| 383 | odd, next | prime | 57 | 163 | 97 |  |
+| 384 | even, next | 2⁷ · 3 | 56 | 164 | 96 |  |
+| 385 | odd, now | 5 · 7 · 11 | 55 | 165 | 95 |  |
+| 386 | even, now | 2 · 193 | 54 | 166 | 94 |  |
+| 387 | odd, now | 3² · 43 | 53 | 167 | 93 |  |
+| 388 | even, now | 2² · 97 | 52 | 168 | 92 |  |
+| 389 | odd, now | prime | 51 | 169 | 91 |  |
+| 390 | even, now | 2 · 3 · 5 · 13 | 50 | 170 | 90 |  |
+| 391 | odd, now | 17 · 23 | 49 | 171 | 89 |  |
+| 392 | even, now | 2³ · 7² | 48 | 172 | 88 |  |
+| 393 | odd, next | 3 · 131 | 47 | 173 | 87 |  |
+| 394 | even, next | 2 · 197 | 46 | 174 | 86 |  |
+| 395 | odd, next | 5 · 79 | 45 | 175 | 85 |  |
+| 396 | even, next | 2² · 3² · 11 | 44 | 176 | 84 |  |
+| 397 | odd, next | prime | 43 | 177 | 83 |  |
+| 398 | even, next | 2 · 199 | 42 | 178 | 82 |  |
+| 399 | odd, next | 3 · 7 · 19 | 41 | 179 | 81 |  |
+| 400 | even, next | 2⁴ · 5² | 40 | 180 | 80 | 20² |
+| 401 | odd, now | prime | 39 | 181 | 79 |  |
+| 402 | even, now | 2 · 3 · 67 | 38 | 182 | 78 |  |
+| 403 | odd, now | 13 · 31 | 37 | 183 | 77 |  |
+| 404 | even, now | 2² · 101 | 36 | 184 | 76 |  |
+| 405 | odd, now | 3⁴ · 5 | 35 | 185 | 75 |  |
+| 406 | even, now | 2 · 7 · 29 | 34 | 186 | 74 | T₂₈ |
+| 407 | odd, now | 11 · 37 | 33 | 187 | 73 |  |
+| 408 | even, now | 2³ · 3 · 17 | 32 | 188 | 72 |  |
+| 409 | odd, next | prime | 31 | 189 | 71 |  |
+| 410 | even, next | 2 · 5 · 41 | 30 | 190 | 70 |  |
+| 411 | odd, next | 3 · 137 | 29 | 191 | 69 |  |
+| 412 | even, next | 2² · 103 | 28 | 192 | 68 |  |
+| 413 | odd, next | 7 · 59 | 27 | 193 | 67 |  |
+| 414 | even, next | 2 · 3² · 23 | 26 | 194 | 66 |  |
+| 415 | odd, next | 5 · 83 | 25 | 195 | 65 |  |
+| 416 | even, next | 2⁵ · 13 | 24 | 196 | 64 |  |
+| 417 | odd, now | 3 · 139 | 23 | 197 | 63 |  |
+| 418 | even, now | 2 · 11 · 19 | 22 | 198 | 62 |  |
+| 419 | odd, now | prime | 21 | 199 | 61 |  |
+| 420 | even, now | 2² · 3 · 5 · 7 | 20 | 200 | 60 |  |
+| 421 | odd, now | prime | 19 | 201 | 59 |  |
+| 422 | even, now | 2 · 211 | 18 | 202 | 58 |  |
+| 423 | odd, now | 3² · 47 | 17 | 203 | 57 |  |
+| 424 | even, now | 2³ · 53 | 16 | 204 | 56 |  |
+| 425 | odd, next | 5² · 17 | 15 | 205 | 55 |  |
+| 426 | even, next | 2 · 3 · 71 | 14 | 206 | 54 |  |
+| 427 | odd, next | 7 · 61 | 13 | 207 | 53 |  |
+| 428 | even, next | 2² · 107 | 12 | 208 | 52 |  |
+| 429 | odd, next | 3 · 11 · 13 | 11 | 209 | 51 |  |
+| 430 | even, next | 2 · 5 · 43 | 10 | 210 | 50 |  |
+| 431 | odd, next | prime | 9 | 211 | 49 |  |
+| 432 | even, next | 2⁴ · 3³ | 8 | 212 | 48 |  |
+| 433 | odd, now | prime | 7 | 213 | 47 |  |
+| 434 | even, now | 2 · 7 · 31 | 6 | 214 | 46 |  |
+| 435 | odd, now | 3 · 5 · 29 | 5 | 215 | 45 | T₂₉ |
+| 436 | even, now | 2² · 109 | 4 | 216 | 44 |  |
+| 437 | odd, now | 19 · 23 | 3 | 217 | 43 |  |
+| 438 | even, now | 2 · 3 · 73 | 2 | 218 | 42 |  |
+| 439 | odd, now | prime | 1 | 219 | 41 |  |
+| 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, the seventeen primes added |
 
 **From row one down, the far side at four hundred forty runs down one at each row as the number runs up**, the radius coming to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, the last stretch ending at forty at four hundred forty. Each pairing on the ring of four hundred forty and on the ring of one hundred twenty named in the parts above is at its two rows: a carry each way at one station, found by its number.
