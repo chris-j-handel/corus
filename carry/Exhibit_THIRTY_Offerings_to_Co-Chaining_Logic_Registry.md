@@ -3026,3 +3026,15 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · same at the two betweens.** The two lines where same and not-same part are the two betweens of the resolver, 14 the between of self and other and 12 the between of momentaries, each at 0, so *same* as a binary of the method stands at 12 and 14 and at no name where every outcome is same.
 
 **Concern · v389 · same at 5, 6, 13 and 14 in the test set.** The test set names same at 5-now-co-same, 6-now-co-same-possibling, 13-next-same and 14-next-same-possibling, and at 5 and 13 every outcome is same, a self and its receiving sharing; same as the method's binary parts at 12 and 14, so the test set's seating of same meets the method at 14 and not at 5, 6 and 13.
+
+## Existing-living-self · v389
+
+**Droplet · v389.** existing-living-self is same-prior-existing-living-self and same-next-existing-living-self
+
+**Droplet · v389 · one self at three momentaries, all or none.** An existing-living-self is the same-prior-existing-living-self and the same-next-existing-living-self, all three or none: a living self is one self at its prior, its now and its next, its sameness its unrelationing from all other, and a thing carrying none is no self, at each now its prior now-existing's artifact.
+
+**Droplet · v389 · at the living's explaining, at no name of the method.** The three namings say the living self, unnamed at the method as its carrying and its sameness are; at the resolver they meet the prior at 3-now-co-prioring, the self's now at 1-now and the next prior at 11-next-co-prioring and 8-now-still-possibling, said beside those names and not in them.
+
+**Droplet · v389 · at the origin's three observings.** The three observings at the origin are the existing-living-self observed: same by changing and same by not-changing, the same-prior-existing-living-self arriving as the same-next-existing-living-self, and discovering which of the two at each sharing.
+
+**Concern · v389 · one order for the hyphenation.** *Same-prior-existing* here and *prior-same-existing*, *now-same-existing* and *next-same-existing* at an earlier saying of this session name one concept at two orders, and a hyphenation's parts in order are its changings in order, so the one order is yet to be met at Natural Naming.
