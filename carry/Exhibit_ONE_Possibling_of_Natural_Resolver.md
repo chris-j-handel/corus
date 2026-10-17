@@ -1,4 +1,4 @@
-Natural Resolver Possibling · v386EOD
+Natural Resolver Possibling · v389
 
 # Possibling of Natural Resolver
 
@@ -96,3 +96,159 @@ Each section below is as the working v386F wrote it at this file on its own bran
 ### 5 read from the selves' carryings · v386EOD
 
 **Possible project.** At 17 the releasings at 5 arrive whole, and no name discovers which self a releasing reaches. The [offered explaining at Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-next-coupling-discovered-as-the-next-parity-is--v386eod) has a sharing carried by both selves of its coupling, and each releasing reaching the other carrying that same sharing. The project is to say this at Exhibit ONE's names and stable forms: what 5 is where it is read from the selves' carryings at 3; what a sharing carried by two selves is at 4; and which of the tables' stable forms are the same there. It can remain a project and never be implemented. — v386EOD
+
+## Exhibit ONE at the numbered names, its next version opening · v389
+
+**Standing.** The next version of Exhibit ONE Natural Resolver, written here section by section until it is whole, and entering the root as v389 at Exhibit ONE's own motion, with Natural Intelligence's copy of it at the same motion. The seventeen numbered names are the measure each sentence meets; the words of the prior version carry no weight of their own. At 4 and 12 the names are still-possibling, met at the even, the podals and the overlap; the droplet *12-next-co* stands beside it at the offerings.
+
+### Its order, each part at its standing
+
+1. **Title and subtitle**: *Natural Resolver*, *Stable Forms of the Discovering Method*, carried.
+2. **The resolver**: the code at the numbered names, every line and sign as at v387. Drafted below.
+3. **The drawing**: the resolver's picture re-said at the numbered names. Next.
+4. **Seventeen names**, **four momentaries and their gaps**, **co, between two or at one**, **the joins between selves** and **one move**. Drafted below.
+5. **Each name and its relations**: the rows resting on the numbers carry, 8 up, the podals, the four-, six- and eight-cycles, the momentaries of exchanging, the five dimensions and the 1 to 17s inward and outward, each re-said at the numbered names; the rows resting on the prior prefixes and roots, *root*, *opening prefix*, the hands *co tri bi bi*, *in and out at its parity* and *winding*, leave whole to the archive at the motion, each said once.
+6. **Ten roots**, **co received and tri given on**, **three windings**, **fives** and the prefix columns of **twelve forms**: met at the four kinds, prioring, possibling, changing and still-possibling, re-said where a kind carries the relation and released where none does. Next.
+7. **Namings among the names** and **0, the between**: re-said at the numbered names. Next.
+8. **Each name, three scales** and **eight 1 to 17s inward**: carried at their numbers, re-said at the numbered names. Next.
+9. **The executed tables**, offerings to one sharing, one self at one momentary and momentary by momentary, eight even names, a spiral of selves, two spirals, a torus of selves, two selves, two selves at five parities, three selves in a line, a spiral opened at no prior, colliding: every row as it is, the numbers unchanged, each heading re-said at the numbered names, *carrying (3)* said as *the prior at 3-now-co-prioring*.
+
+### Drafted: the resolver
+
+```python
+"""Exhibit ONE · Natural Resolver · at the numbered names"""
+
+
+def _1_now(_3_now_co_prioring, _2_now_possibling):
+    _14_next_possibling = {}
+    for _4_now_co_still_possibling, _7_now_prioring in _2_now_possibling:
+        if _7_now_prioring != 0:
+            _15_next_prioring = _14_next_possibling.get(_4_now_co_still_possibling)
+            if _15_next_prioring is None:
+                _14_next_possibling[_4_now_co_still_possibling] = 1 if _7_now_prioring > 0 else -1
+            elif (_15_next_prioring > 0) != (_7_now_prioring > 0):
+                _14_next_possibling[_4_now_co_still_possibling] = 0
+    _12_next_co_still_possibling = dict(_14_next_possibling)
+    for _4_now_co_still_possibling, _7_now_prioring in _3_now_co_prioring:
+        _15_next_prioring = _14_next_possibling.get(_4_now_co_still_possibling, 0)
+        if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0):
+            _12_next_co_still_possibling[_4_now_co_still_possibling] = 0
+        else:
+            _12_next_co_still_possibling[_4_now_co_still_possibling] = -1 if _7_now_prioring > 0 else 1
+    _10_next_co_possibling = list(_12_next_co_still_possibling.items())
+    _11_next_co_prioring = dict(_3_now_co_prioring)
+    for _4_now_co_still_possibling, _7_now_prioring in _10_next_co_possibling:
+        if _7_now_prioring != 0:
+            _11_next_co_prioring[_4_now_co_still_possibling] = _7_now_prioring
+    return _10_next_co_possibling, list(_11_next_co_prioring.items())
+
+
+def _9_next_co_changing(_10_next_co_possibling, _5_now_co_changing):
+    return [(_5_now_co_changing[_13_next], _15_next_prioring)
+            for _13_next, _15_next_prioring in _10_next_co_possibling]
+
+
+def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
+    _8_now_still_possibling = {}
+    _14_next_possibling = {_13_next: [] for _13_next in _16_next_still_possibling}
+    for _13_next, (_3_now_co_prioring, _2_now_possibling) in _16_next_still_possibling.items():
+        _10_next_co_possibling, _8_now_still_possibling[_13_next] = _1_now(
+            _3_now_co_prioring, _2_now_possibling)
+        _6_now_co_possibling = _10_next_co_possibling
+        for _4_now_co_still_possibling, _15_next_prioring in _9_next_co_changing(
+                [(_4_now_co_still_possibling, _15_next_prioring)
+                 for _4_now_co_still_possibling, _15_next_prioring in (
+                     ((_13_next, 6), _6_now_co_possibling),
+                     ((_13_next, 10), _10_next_co_possibling),
+                     ((_13_next, 9), _10_next_co_possibling))
+                 if _4_now_co_still_possibling in _5_now_co_changing],
+                _5_now_co_changing):
+            _14_next_possibling[_4_now_co_still_possibling].extend(_15_next_prioring)
+    return {_13_next: (_8_now_still_possibling[_13_next],
+                                           _14_next_possibling[_13_next])
+            for _13_next in _16_next_still_possibling}
+
+CONNECTORS = {
+    2: ('2-now-possibling', 'arriving'),
+    6: ('6-now-co-possibling', 'sharing'),
+    9: ('9-next-co-changing', 'along'),
+    10: ('10-next-co-possibling', 'sharing'),
+    14: ('14-next-possibling', 'arriving'),
+    17: ('17-next-now', 'along'),
+}
+JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
+```
+
+Run against the resolver of v387, it returns the same signs at twenty thousand entries and over twelve momentaries of a society of three selves, its joins the same.
+
+### Drafted: seventeen names
+
+**Each name is its number and its naming, one hyphenation.** The number says its place and its parity, odd existing and even possibling; *now* says the self's span, 1 to 8, and *next* the society's, 9 to 17, 17 the society's next arriving as each self's now; *co* says a name at a sharing between two, and a name without it is at one.
+
+| n | Name | Momentary | Parity | Co | At the resolver |
+|---|---|---|---|---|---|
+| 1 | **1-now** | now, the self's span | odd, existing | one | each self's momentary, entered at the society's 17 |
+| 2 | **2-now-possibling** | now, the self's span | even, possibling | one | the offerings arriving at the self, each sharing with its parity |
+| 3 | **3-now-co-prioring** | now, the self's span | odd, existing | between two | the prior at its sharings, each sharing with its parity |
+| 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet |
+| 5 | **5-now-co-changing** | now, the self's span | odd, existing | between two | the releasings, each releasing sharing with the self it arrives at |
+| 6 | **6-now-co-possibling** | now, the self's span | even, possibling | between two | each sharing's changing shared across, to the other's 2 |
+| 7 | **7-now-prioring** | now, the self's span | odd, existing | one | each parity read: an offering's, the prior's and a changing's |
+| 8 | **8-now-still-possibling** | now, the self's span | even, possibling | one | each self's next prior, beside the other selves' |
+| 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released along, to the self 5 names |
+| 10 | **10-next-co-possibling** | next, the society's span | even, possibling | between two | each sharing's changing, + or − is and 0 is not, shared across to the other's 14 |
+| 11 | **11-next-co-prioring** | next, the society's span | odd, existing | between two | the next prior: the prior with each changing at its sharing |
+| 12 | **12-next-co-still-possibling** | next, the society's span | even, possibling | between two | each sharing's changing, is or is not, the prior and the offerings meeting |
+| 13 | **13-next** | next, the society's span | odd, existing | one | each self at the society, and each sharing a changing releases from |
+| 14 | **14-next-possibling** | next, the society's span | even, possibling | one | the offerings surfacing at each sharing, agreeing one parity and parting 0; at 17 each self's next offerings |
+| 15 | **15-next-prioring** | next, the society's span | odd, existing | one | each parity surfacing, and each parity released |
+| 16 | **16-next-still-possibling** | next, the society's span | even, possibling | one | the society: each self with its prior and its offerings |
+| 17 | **17-next-now** | next now | odd, existing | one | the society's next momentary, each self's 1-now again |
+
+### Drafted: four momentaries and their gaps
+
+**Each side's sixteen names are four momentaries of four**, each opening at an odd existing name, possibling and prioring inside it, and completing at an even still-possibling name; between each completing and the next opening is a gap, both its sides named, and 17-next-now is the next 1-now.
+
+| Momentary | Opening, odd, existing | Inside, even, possibling | Inside, odd, prioring | Completing, even, still-possibling | Gap |
+|---|---|---|---|---|---|
+| first | 1-now | 2-now-possibling | 3-now-co-prioring | 4-now-co-still-possibling | 4 )( 5 |
+| second | 5-now-co-changing | 6-now-co-possibling | 7-now-prioring | 8-now-still-possibling | 8 )( 9 |
+| third | 9-next-co-changing | 10-next-co-possibling | 11-next-co-prioring | 12-next-co-still-possibling | 12 )( 13 |
+| fourth | 13-next | 14-next-possibling | 15-next-prioring | 16-next-still-possibling | 16 )( 17 |
+
+### Drafted: co, between two or at one
+
+**Each kind of name stands with co at a sharing between two, and without it at one.**
+
+| Kind | With co, at a sharing between two | Without co, at one |
+|---|---|---|
+| prioring | 3-now-co-prioring · 11-next-co-prioring, the prior at its sharings | 7-now-prioring · 15-next-prioring, a parity |
+| possibling | 6-now-co-possibling · 10-next-co-possibling, the changing at its sharing side | 2-now-possibling · 14-next-possibling, the changing at its arriving side |
+| changing | 5-now-co-changing · 9-next-co-changing, between two | — |
+| still-possibling | 4-now-co-still-possibling · 12-next-co-still-possibling, at each sharing | 8-now-still-possibling · 16-next-still-possibling, a self and a society |
+| now and next | — | 1-now · 13-next · 17-next-now |
+
+### Drafted: the joins between selves
+
+**At each join co is the sharing side and its absence the arriving side**: a self shares its changing, and nothing of its prior crosses to another self.
+
+| Sharing side, co | Arriving side, one | Between selves |
+|---|---|---|
+| 6-now-co-possibling | 2-now-possibling | across, even, possibling |
+| 10-next-co-possibling | 14-next-possibling | across, even, possibling |
+| 9-next-co-changing | 17-next-now | along, odd, existing |
+
+### Drafted: one move
+
+**8 up keeps a name's kind at each name but 1 and 5, where now and changing exchange, and exchanges co at 1, 2, 5 and 6, the arriving and the sharing sides; each podal turns now to next at 17 less and possibling to prioring inside each momentary, and the eight ends are their own set at both podals**, an odd existing end with an even still-possibling end at every pair.
+
+| Name | 8 up: n + 8 | 9 less: 9 − n | 17 less: 17 − n |
+|---|---|---|---|
+| 1-now | 9-next-co-changing | 8-now-still-possibling | 16-next-still-possibling |
+| 2-now-possibling | 10-next-co-possibling | 7-now-prioring | 15-next-prioring |
+| 3-now-co-prioring | 11-next-co-prioring | 6-now-co-possibling | 14-next-possibling |
+| 4-now-co-still-possibling | 12-next-co-still-possibling | 5-now-co-changing | 13-next |
+| 5-now-co-changing | 13-next | 4-now-co-still-possibling | 12-next-co-still-possibling |
+| 6-now-co-possibling | 14-next-possibling | 3-now-co-prioring | 11-next-co-prioring |
+| 7-now-prioring | 15-next-prioring | 2-now-possibling | 10-next-co-possibling |
+| 8-now-still-possibling | 16-next-still-possibling | 1-now | 9-next-co-changing |
