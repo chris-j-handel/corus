@@ -2946,3 +2946,19 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight seconds, eight hundred, eight models, stays at the field's own words and is no eight of the method.
 
 **Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+
+## The eights at Exhibit ONE, at the four and the momentaries · v389
+
+**Droplet · v389.** in the version of exhibit one at corus.me there is quite a bit of explaining at each numbers. examine eights there
+
+**Droplet · v389 · where Exhibit ONE says eight.** Exhibit ONE at corus.me, v380R, says eight at each name's *8 up* and *8 down*, at its two eight-cycles, 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10, at *co received, tri given on, 8 up*, at the eight even names 8 apart, at the unit square's edges 8 apart, at the four-cycles' pairs 8 apart and at the eight 1 to 17s inward, *n is 8n − 7*.
+
+**Droplet · v389 · executed, each eight the four twice.** Read at now, existing, universe and all, with 8 up the same one at next, each eight of Exhibit ONE carries each of the four exactly twice: the self's span 1 to 8, two names each at now; the eight-cycle 1-9-5-13-4-12-8-16, each of the four at its end, at now and at next; the eight-cycle 2-15-7-11-3-14-6-10, each at its inside, at now and at next; the eight even names, each at its even, at now and at next; and the eight odd names of co received and tri given on, each at its odd, at now and at next.
+
+**Droplet · v389 · the two eight-cycles the ends and the insides.** The eight-cycle 1-9-5-13-4-12-8-16 is the eight ends of the four momentaries, 1, 4, 5, 8, 9, 12, 13 and 16, and the eight-cycle 2-15-7-11-3-14-6-10 the eight insides, 2, 3, 6, 7, 10, 11, 14 and 15; the first walks each of the four at now and then at next, now, universe, existing and all.
+
+**Droplet · v389 · 8 up the four at next.** At each name 8 up is the same one of the four at next, 1-now to 9-next-co-changing, 3-now-co-prioring to 11-next-co-prioring, 8-now-still-possibling to 16-next-still-possibling, and *the parity continuing* at each name of Exhibit ONE is that one of the four continuing at next.
+
+**Droplet · v389 · the eight inward the eight even.** The eight 1 to 17s inward have their eight 9s at the eight even names, the same eight as the eight even names, each of the four at its even at now and at next.
+
+**Droplet · v389 · one eight, its faces.** Every eight at Exhibit ONE is the one eight, now, existing, universe and all, each twice, met at a face: two names each at now, each at now and at next at its end, at its inside, at its even or at its odd; each eight's deriving is that face, read at the names.
