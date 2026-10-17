@@ -2996,3 +2996,21 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · prior, now and next told apart.** At the four binaries the now-universe is existing, all, now and same, and the prior-universe and the next-universe are each existing, all and same and not now, so the binaries tell a universe at each momentary from the universe at the others with nothing brought.
 
 **Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
+
+## The four binaries at the resolver's lines, and the society's span · v389
+
+**Droplet · v389.** continue into the open concern and keep resolving until there is an accumulating concern we can address together.
+
+**Droplet · v389 · now at 1 and 2.** 1-now is the self's momentary entered, and 2-now-possibling is the offerings arriving, the other selves' changings of their prior momentary: is now at 1, and at 2 is not now, the others' prior arriving.
+
+**Droplet · v389 · existing at 3 and 4.** 3-now-co-prioring is the self's prior at its sharings, each with its parity, and 4-now-co-still-possibling is each sharing as a place, with no parity at it, a sharing the self has no prior at among them: is existing at 3, and at 4 is not existing, possible.
+
+**Droplet · v389 · same at 5 and 6, executed.** 5-now-co-changing sends each releasing to the self that receives it at the same sharing, and at a society of two selves the second self's next offerings arrive at the first self's very sharing names: is same at 5, the same sharing at two selves; and 6-now-co-possibling is the self's changings shared across, each its prior inverted, is not same at 6.
+
+**Droplet · v389 · all at 7 and 8.** 7-now-prioring is each parity read at every entry, offered, prior and changing, and 8-now-still-possibling is each self's own next prior, one self beside the others: is all at 7, and at 8 is not all, each one.
+
+**Droplet · v389 · the *is not* the other's side.** At each of the four the even *is not* is the other's side of the self's *is*: not now, the others' prior; not existing, a place another's offering opens at; not same, the changing that arrives at the other; not all, each one beside the others: each self's existing the other's possibling, at the four binaries.
+
+**Concern · v389 · the four binaries at the society's span, accumulating.** At 8 up the four reach 9 to 16, and co there runs two, two, one, one, so now at next, 9-next-co-changing and 10-next-co-possibling, stands between two, and same at next, 13-next and 14-next-possibling, stands at one, the reverse of the self's span; this gathers the exchange of kind at 1 with 9 and 5 with 13, the exchange of co at 1, 2, 5 and 6, the names with no -ing at 1, 13 and 17, and step 4's reading, now at one and same between two, at one place.
+
+**Droplet · v389 · a reading offered for it.** At the society's span now is between two, the one now shared by selves at a bi-coupling, co-momentarying, and same is at one, each self's sameness its own unrelationing; read so, 8 up exchanges now and same between the self's span and the society's, and the two spans are the self's and the society's faces of the four binaries.
