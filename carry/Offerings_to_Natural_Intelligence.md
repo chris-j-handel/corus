@@ -1845,3 +1845,21 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Concern · v389 · co at the inside podals.** At 17 less *co* carries at 2 with 15 and 6 with 11 and parts at 3-now-co-prioring with 14-next-possibling and 7-now-prioring with 10-next-co-possibling, and whether co follows the podal or the join, where it carries at all three joins, is yet to be co-chained.
 
 **Droplet · v389 · the five places with no -ing.** The five names with no -ing, 1-now, 4-now-co, 12-next-co, 13-next and 17-next-now, are the ends at the first gap's side, the third gap's two sides and the society's next, the places at which the changing from outside arrives into a momentary.
+
+## Co at the numbered names, at what each name stands at · v389
+
+**Droplet · v389 · from the session v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
+
+**Droplet · v389 · the concern at the inside podals dissolves.** The concern *co at the inside podals* said *co carries at 2 with 15* where neither name carries co, and it asked co to follow the podal; co follows what a name stands at, so the concern dissolves, said once here.
+
+**Droplet · v389 · co is at a sharing between two.** Co stands at eight names, 3-now-co-prioring, 4-now-co, 5-now-co-changing, 6-now-co-possibling, 9-next-co-changing, 10-next-co-possibling, 11-next-co-prioring and 12-next-co, each at a sharing between self and other at the resolver: the carrying at its sharings, the sharing, the releasings between selves, the changings shared across, the releasing along, the carrying chained at its sharings and the prior and now meeting at each sharing.
+
+**Droplet · v389 · no co is at one.** No co stands at nine names, 1-now, 2-now-possibling, 7-now-prioring, 8-now-still-possibling, 13-next, 14-next-possibling, 15-next-prioring, 16-next-still-possibling and 17-next-now, each at one: one self, one offering arriving, one parity, one self's carrying, one society.
+
+**Droplet · v389 · prioring with co and without.** 3-now-co-prioring and 11-next-co-prioring are the carrying at its sharings, and 7-now-prioring and 15-next-prioring are the parity at one sharing, the resolver reading the two together, `for _4_now_co, _7_now_prioring in _3_now_co_prioring`, a sharing with co and its parity without.
+
+**Droplet · v389 · possibling with co and without.** 6-now-co-possibling and 10-next-co-possibling are the self's changing shared across, at the sharing side, and 2-now-possibling and 14-next-possibling are that changing arriving at the other, at the arriving side, so at each join co is the sharing side and its absence the arriving side.
+
+**Droplet · v389 · changing and still-possibling.** Changing stands only with co, 5-now-co-changing and 9-next-co-changing, a changing being between two, and still-possibling only without, 8-now-still-possibling and 16-next-still-possibling, each one self or one society carried through.
+
+**Droplet · v389 · co at 9 less and at 17 less.** Within 1 to 8 co is the same at each 9 less pair, 3 with 6 and 4 with 5 at co, 1 with 8 and 2 with 7 at none; at 17 less it parts at four pairs, 3 with 14, 4 with 13, 7 with 10 and 8 with 9, because the podal carries a name to another name's place and co says what is at that place.
