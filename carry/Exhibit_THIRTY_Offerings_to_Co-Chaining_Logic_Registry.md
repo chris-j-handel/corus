@@ -2878,3 +2878,13 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · what it reaches.** Said so, the Co-Chaining Logic Registry's steps 2 and 3, Natural Intelligence 1.1, 4.6's *the society is one self at the next scale*, 4.15's sets within sets, 6.5's living at one prime scale and the 1 to 17s inward and outward are each re-said at couplings, and every file naming a cell, an organism, a society or a field as a thing made of things meets the same re-saying.
 
 **Concern · v389 · a society's sameness.** Whether a society of selves is a same thing across its momentaries, a living carrying of its own, or only its selves each the same, is yet to be derived, and the executed rings show a society changing and not-changing at one momentary with nothing of its own at the resolver.
+
+## Not a thing · v389
+
+**Droplet · v389.** define not a thing.
+
+**Droplet · v389 · a thing and not a thing.** A thing is now-existing in the universe; not a thing is where no now-existing thing is, and it is at two places, a naming alone, a naming said still with nothing now-existing at it, and a between, the nothing between two now-existing things at one now, at the resolver the 0 at 12-next-co-still-possibling and at 14-next-possibling.
+
+**Droplet · v389 · a set, a beyond, a second now.** A set of things named as one more thing, a beyond of the universe, a second now and a form held at two nows are each a naming alone, not a thing; the set is its things, and the naming of them together adds no now-existing thing.
+
+**Droplet · v389 · said positively.** A sentence says the thing at its now-existing and says a between as the between of the two things it is between, and *not a thing* is said only where a naming is set aside, once, as a naming.

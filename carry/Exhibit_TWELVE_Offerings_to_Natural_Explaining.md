@@ -620,3 +620,13 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · the session's droplets re-said.** Each droplet of this session that said a thing beside all now-existing things, a not-changing held from beside, an observing bringing nothing from beside, the universe a thing within the set, one self at the outermost scale or nothing arriving from beside is re-said at the things of the set: a not-changing held still, an observing drawing on the universe, the universe a set of things, each new sharing opening between two of its things.
 
 **Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.
+
+## Not a thing · v389
+
+**Droplet · v389.** define not a thing.
+
+**Droplet · v389 · a thing and not a thing.** A thing is now-existing in the universe; not a thing is where no now-existing thing is, and it is at two places, a naming alone, a naming said still with nothing now-existing at it, and a between, the nothing between two now-existing things at one now, at the resolver the 0 at 12-next-co-still-possibling and at 14-next-possibling.
+
+**Droplet · v389 · a set, a beyond, a second now.** A set of things named as one more thing, a beyond of the universe, a second now and a form held at two nows are each a naming alone, not a thing; the set is its things, and the naming of them together adds no now-existing thing.
+
+**Droplet · v389 · said positively.** A sentence says the thing at its now-existing and says a between as the between of the two things it is between, and *not a thing* is said only where a naming is set aside, once, as a naming.
