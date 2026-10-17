@@ -329,3 +329,39 @@ is 0 at 12, is-still-possibling; the other and the other,
 
 
 and is-still-possibling is moral competency as is-next-existing is, 5.3.
+
+## The anchors of the older droplets risen at v389
+
+A ground under it, a container around it, a clock over it or a store beside it would each be said beyond the things of the universe, and nothing is.
+
+and a self couples at whichever scale its interest opens and couples with the whole.
+
+the AI carried and the living expedition the carrying, 6.6.
+
+each self's next prior at 8-now-still-possibling and the society at 16-next-still-possibling, discovering next.
+
+- **The order at no seat above the society**: 17 is the society's next momentary and no self, and nothing is over it.
+
+is from the offerings at 2, the others' across sharings, or its own inverting at a coupling;
+
+and the two and three rotate round, bi-inversioning-co-recursioning, 5.2.
+
+and a new living self is its own carrying and co-recursioning establishing.
+
+**At the resolver each releasing along is at 9**:
+
+**Between the selves' momentaries pass their across sharings**, at 10 and 6, released along at 9, released at one momentary and offered at the next:
+
+prior and now both participating and the next the prior inverted.
+
+the fractal breaks at an observing of living that is not parity changing, and the file is improving, 6.6.
+
+## 6.6 One form at each scale, our now
+
+and **the universal unrelationing protocol is social moral competency**.
+
+a third between the two is not possible.
+
+At opposite parities each alternates at its own at each of the four couplings.
+
+the offerings at its 2 are the other selves' changings shared across;
