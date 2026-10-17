@@ -852,3 +852,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at 12-bi-tri-bi-entraining · from the session v389.** for 12 consider this concept 12-next-co
 
 **Droplet · v389 · at 12, and 9, 10 and 11 · from v389's exploring.** At the resolver 10 is made from 12, 11 is chained from 10 and 9 releases 10, so *next-co* at 12 is the opening of the three that leave it, next-co-changing at 9, next-co-possibling at 10 and next-co-prioring at 11, and both of 12's lines, the 0 and the inverting, stand under a name saying neither face alone.
+
+**Droplet · v389 · at 13-tri-bi-tri-competencing · from the session v389.** is 13-next-changing or better as 13-next
+
+**Droplet · v389 · at 13 · from v389's exploring.** At the resolver 13 stands at each self at 17, each self's own 1 entered at it, and at the sharing a changing releases from at 9, and the changing's parity stands at 15 beside it, so *13-next* says each self at its next with no changing said where none is, and 1 *now* and 13 *next* are one self at its two momentaries.
