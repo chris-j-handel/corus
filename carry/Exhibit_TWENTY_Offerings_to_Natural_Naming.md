@@ -1434,3 +1434,98 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · at the origin's three observings.** The three observings at the origin are the existing-living-self observed: same by changing and same by not-changing, the same-prior-existing-living-self arriving as the same-next-existing-living-self, and discovering which of the two at each sharing.
 
 **Concern · v389 · one order for the hyphenation.** *Same-prior-existing* here and *prior-same-existing*, *now-same-existing* and *next-same-existing* at an earlier saying of this session name one concept at two orders, and a hyphenation's parts in order are its changings in order, so the one order is yet to be met at Natural Naming.
+
+
+## Natural Naming gathered at v389, the beacon for the set's motions · v389
+
+**Droplet · v389.** find the most cohering form of all the hyhenatings and aim them as droplets into natural naming and gather all the natural naming droplets we can find in all of our incoming work and we are aiming now to improve natural naming as this will be our beacon for connecting the rest of our living files to all the recent learning and universal understanding of this method of discovering, possibling , carrying and explaining
+
+**Standing.** Every naming of the session v389, from the arrivals at `incoming/v389/` and from the droplets laid at the other offerings files, is gathered here once, each aimed at its section of Natural Naming; the copies laid at the other files stand as laid, each met here. Natural Naming moves from this section first, and each other file's motion meets its names here.
+
+### A · The hyphenation, its rule and its most cohering forms
+
+**Insertlet · v389 · at 4.17, the rule at every hyphenation.** A hyphenated naming is one naming where leaving out any one part stops it, its parts in order the changings in order, its momentary first; a part whose leaving-out the naming carries on was riding, and it goes.
+
+**Insertlet · v389 · at 1.1 and 4.17, now-existing.** *Now-existing* is one naming: leave out *now* and the existing is at no momentary, leave out *existing* and now holds no thing; the origin is said at it, *The universe is the set of all now-existing things*.
+
+**Insertlet · v389 · at 6.3, prior-existing and next-existing.** *Prior-existing* names a thing now-existing at the prior-universe, the prior now-existing's artifact at now, and *next-existing* a thing possible now at the next-universe; neither is said *not existing*.
+
+**Insertlet · v389 · at 6.3, the three universes.** *Prior-universe*, *now-universe* and *next-universe* name a universe at each momentary, the now-universe the universe, so a sentence says at which universe a thing is now-existing.
+
+**Insertlet · v389 · at 4.17 and 5.3, the self at its three momentaries.** Sounded by leaving out one part at a time, *same-prior-existing-living-self* carries on with *living* left out, a self being living, with *existing* left out, a self at a momentary being existing at it, and with *same* left out, a self being one self at its prior, its now and its next, all or none; the parts riding go, and the most cohering form is *prior-self*, *now-self* and *next-self*, the now-self the prior-self and the next-self.
+
+**Insertlet · v389 · at 4.17, one order.** *Prior-same-existing* and *same-prior-existing*, two orders of one concept, meet at the momentary first, and at the self the same concept is *prior-self*, *now-self* and *next-self*.
+
+**Insertlet · v389 · at 4.17, inseparable namings.** *Co-momentarying*, two selves sharing one now-existing inside a bi-coupling, *bi-coupling*, *stable-forming* and *natural-torusing* each stop at any part left out, and each stands whole.
+
+**Insertlet · v389 · at 3.1, the numbered names one hyphenation.** Each resolver name is its number and its naming at one hyphenation, *1-now* to *17-next-now*, the number its place and parity, inseparable from the naming.
+
+### B · The seventeen names
+
+**Insertlet · v389 · at 3.3, the names standing.** 1-now · 2-now-possibling · 3-now-co-prioring · 4-now-co-still-possibling · 5-now-co-changing · 6-now-co-possibling · 7-now-prioring · 8-now-still-possibling · 9-next-co-changing · 10-next-co-possibling · 11-next-co-prioring · 12-next-co-still-possibling · 13-next · 14-next-possibling · 15-next-prioring · 16-next-still-possibling · 17-next-now; rendered at the resolver with nothing else changed, the same signs at each entry, all or none.
+
+**Insertlet · v389 · at 3.1, the parts of a name.** A name is its number, its momentary, *now* at the self's span 1 to 8 and *next* at the society's span 9 to 17, *co* where it stands at a sharing between two, and its kind, possibling, prioring, changing or still-possibling, with 1-now, 13-next and 17-next-now the momentaries themselves.
+
+**Insertlet · v389 · at 3.2, co.** *Co* stands at a sharing between two and its absence at one, and at each join between selves the sharing side carries *co* and the arriving side none: 6-now-co-possibling to 2-now-possibling, 10-next-co-possibling to 14-next-possibling, 9-next-co-changing to 17-next-now.
+
+**Insertlet · v389 · at 3.5, possibling.** *Possibling* stands at the even names, a changing at its sharing side with *co*, 6 and 10, and at its arriving side without, 2 and 14, each self's existing the other self's possibling.
+
+**Insertlet · v389 · at 3.5, prioring.** *Prioring* names prior arriving into now and now arriving as prior at next, at 3 and 11 with *co*, the prior at its sharings, and at 7 and 15 without, each parity at one sharing.
+
+**Insertlet · v389 · at 3.5, changing.** *Changing* stands only along and only with *co*, released at 9-next-co-changing and received at 5-now-co-changing, a changing between two.
+
+**Insertlet · v389 · at 3.5 and 5.62, still-possibling.** *Still-possibling* has one sense, a sharing, a self or a society open to next at a changing or at none, at 4, 8, 12 and 16, and *is-still-possibling* and *is-next-existing* release into 12's two signs, 0 and ±.
+
+**Insertlet · v389 · at 3.4, four momentaries.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring inside, completing at an even still-possibling name, a gap between each completing and the next opening, and 17-next-now the next 1-now.
+
+**Insertlet · v389 · at 3.4, 8 up and the podals.** 8 up is the same name at next, the four binaries continuing, and at 9 less and 17 less the eight ends of the four momentaries are their own set, the insides turning possibling to prioring.
+
+**Insertlet · v389 · at 3.6, the four binaries the explaining of the names.** A universe is or is not existing, all, now and same, and at the self's span now is 1 and 2, existing 3 and 4, same 5 and 6, all 7 and 8, each binary's *is* at its odd name and *is not* at its even, the *is not* the other's side; the binaries are the names' explaining and enter no name.
+
+**Insertlet · v389 · at 3.6, one eight.** Every eight of the set is the one eight, the four binaries each twice, met at a face: two names each at now, each at its end, its inside, its even or its odd at now and at next.
+
+**Insertlet · v389 · at 3.3, the names gathered.** The seventeen names of the prior version, *1-co-bi-tri-offering* to *17-co-bi-tri-offering*, with their prefixes and ten roots, are gathered at their numbers to the numbered names, and their relations resting on the prefixes and roots leave whole to the archive at the motion, each said once.
+
+**Insertlet · v389 · at 3.3, spelling.** *Competencing*, *possibling* and *moralizing*, each so spelled.
+
+### C · Senses, each said once
+
+**Insertlet · v389 · at 5.7, carrying.** *Carrying* is living, the intelligence, and is said at no name and no sentence of the method.
+
+**Insertlet · v389 · at 5.4 and 6.3, the method.** The geodesic parity-changing discovering method is the living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing through each changing; *stable-forming* is the living condition resolving, and its observable is its natural torusing co-orienting stable-forming.
+
+**Insertlet · v389 · at 6.3, observing.** An observing is pattern-matching the method's stable-forming by inversioning, at 14-next-possibling and 12-next-co-still-possibling, and a record is one observing with its pattern-matching stopped.
+
+**Insertlet · v389 · at 5.3, a self's sameness.** A self's sameness across its momentaries is its unrelationing from all other, each next from its own prior kept or inverted, and a self's forming takes a parity not its own at the bi-coupling alone, a new sharing opening in the between.
+
+**Insertlet · v389 · at 1.1 and 6.3, the universe and a set.** The universe is a set of things, observably now-existing, and all that is now-existing and not now-observable is the universe too; a set is its things and no further thing, and nothing is said beyond or between the things of the universe.
+
+**Insertlet · v389 · at 5.5, the between.** A between is the 0 between two now-existing things at one now, at 12-next-co-still-possibling between prior and now and at 14-next-possibling between two offerings, and same and not-same are the sign there, 0 and ±, needing no name.
+
+**Insertlet · v389 · at 6.3, discovering.** Discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe, the sign at each sharing between two of its things.
+
+**Insertlet · v389 · at 2.4, opens.** A new sharing *opens* in the between, and no sentence says it born or begun.
+
+### D · Released, each said once
+
+**Insertlet · v389 · at 2.4, the released words of the session.** *Wound*, an *-ed* at torusing, said at torusing itself; *chaining* at 11, said at 11-next-co-prioring; *emanating* and *through* at the method and its observing; *beside*, *beyond*, *within* and *outermost* at the universe; *a second now* at the origin, said only where kept records lay two nows side by side; *is-still-possibling* and *is-next-existing*, said at 12's two signs; *prior-carrying* at the method; *born*, said *opens*; a count of runs at an executing, said all or none; and *not a thing* as a thing defined, only a thing defined.
+
+### E · Open, each with its reason
+
+**Concern · v389 · at 1.3, the -ing at the momentaries.** 1-now, 13-next and 17-next-now carry no -ing, and a naming with its -ing left out names one momentary's form still, unless now and next are the momentaries themselves and need none.
+
+**Concern · v389 · at 3.3, the heading.** *Bi-moralizing-tri-competencing* stands beside *bi-moral-co-competency* for the six names between selves, one concept or two.
+
+**Concern · v389 · at 6.3, beneficial.** *Beneficial* stands at no living file and parts nothing at the method, every outcome keeping a self next-existing, and its sense at the living is yet to be derived.
+
+**Concern · v389 · at 2.4, emanated and artifact.** The non-living prior arriving is said *emanated* at the files and *artifact* at the session, one concept at two names.
+
+**Concern · v389 · at 4.17, parity-changing.** *All changing is parity changing*, so at the leaving-out test *parity* rides in *parity-changing*, and the method's name *geodesic parity-changing* is yet to be sounded.
+
+**Concern · v389 · at 3.4, the society's span.** At 9 to 16 *co* runs two, two, one, one where the self's span runs one, two, two, one, now at next between two and same at next at one, and whether the society's span says the four binaries in that exchange is yet to be derived.
+
+**Concern · v389 · at 3.6, the eights of the other files.** Natural Networking's eight securities and Natural Human Society's eight uncapturings are each to be met as the one eight at a face, each at its deriving.
+
+### F · Dissolved, each said once
+
+**Droplet · v389 · dissolved this session.** The test set at the four binaries; 4-now-co, re-said 4-now-co-still-possibling, with 12-next-co said once beside 12-next-co-still-possibling; the concern at 8, read at the spans; the concern of co at the inside podals; the universe as one self and as a thing within the set; and *not a thing* defined.
