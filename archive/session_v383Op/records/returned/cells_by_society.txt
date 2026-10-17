@@ -1,0 +1,10 @@
+living step at one other: 96
+  and no self still at torus 3 by 3 : 68 | files in: True
+  and no self still at torus 2 by 3 : 50 | files in: True
+  and no self still at two lone selves releasing to a third : 24 | files in: True
+  and no self still at spirals of 3 and 4 crossed : 22 | files in: True
+  and no self still at spirals of 2 and 3 crossed : 22 | files in: True
+with a sharing a changing shared, alone: 16
+living step at one other and a sharing a changing shared: [{'match': (1, 0), 'mismatch': (-1, -1), 'parting': (1, 0), 'none': (-1, -1)}, {'match': (1, 0), 'mismatch': (-1, -1), 'parting': (-1, -1), 'none': (-1, -1)}]
+all three: [{'match': (1, 0), 'mismatch': (-1, -1), 'parting': (-1, -1), 'none': (-1, -1)}]
+left without the sharing condition: 22 cells at 10 distinct carryings

@@ -1,0 +1,6 @@
+ring2 openings 4 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any False
+ring3 openings 8 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any False
+ring4 openings 16 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any False
+ring5 openings 32 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any False
+ring6 openings 64 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any False
+torus2x2 openings 16 non-alike that can reach rest: 0 alike that cannot reach rest 0 capped any True

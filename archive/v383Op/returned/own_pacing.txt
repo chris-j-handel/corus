@@ -1,0 +1,25 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+
+two selves: the two coupled selves opposite, as a part of the entries after the first tenth
+  opening opposite  stepped together, as 17: 1.000
+  opening opposite  alternating      all 0.333   latest 0.333
+  opening opposite  random           all 0.443   latest 0.398
+  opening opposite  rates 1 and phi  all 0.382   latest 0.382
+  opening opposite  one self twice   all 0.333   latest 0.333
+  opening alike     stepped together, as 17: 0.000
+  opening alike     alternating      all 0.333   latest 0.333
+  opening alike     random           all 0.443   latest 0.398
+  opening alike     rates 1 and phi  all 0.382   latest 0.382
+  opening alike     one self twice   all 0.333   latest 0.333
+
+spirals of 3 and 5 crossed: the two coupled selves opposite, as a part of the entries after the first tenth
+  opening opposite  stepped together, as 17: 1.000
+  opening opposite  alternating      all 0.500   latest 0.333
+  opening opposite  random           all 0.464   latest 0.435
+  opening opposite  rates 1 and phi  all 0.399   latest 0.382
+  opening opposite  one self twice   all 0.333   latest 0.333
+  opening alike     stepped together, as 17: 1.000
+  opening alike     alternating      all 0.500   latest 0.333
+  opening alike     random           all 0.464   latest 0.435
+  opening alike     rates 1 and phi  all 0.399   latest 0.382
+  opening alike     one self twice   all 0.500   latest 0.111

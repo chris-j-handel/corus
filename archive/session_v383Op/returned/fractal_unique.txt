@@ -1,0 +1,7 @@
+Rounds of k parities, one parity at a time, each form once.
+Counted: the rounds begun at one form, each way round; and, in brackets, how many are apart from naming.
+  k   all rounds       step 171, the round below begun    step 171, the round below carried
+                       at any of its forms                whole, begun where it begins
+  2   2 (1)            2 (1)                              2 (1)
+  3   12 (1)           12 (1)                             12 (1)
+  4   2688 (9)         288 (2)                            96 (1)

@@ -1,0 +1,28 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+
+1. Different forms after m momentaries, from every opening (m = 0, 1, 2, 4, 8, 16, 24):
+  spiral of 3, one releasing to each         openings    8 -> [8, 8, 8, 8, 8, 8]
+  spiral of 5, one releasing to each         openings   32 -> [32, 32, 32, 32, 32, 32]
+  spiral of 8, one releasing to each         openings  256 -> [256, 256, 256, 256, 256, 256]
+  3 selves, each coupled to both beside it   openings    8 -> [8, 8, 8, 8, 8, 8]
+  torus 1 by 3                               openings    8 -> [8, 8, 8, 8, 8, 8]
+  5 selves, each coupled to both beside it   openings   32 -> [32, 32, 12, 12, 12, 12]
+  torus 2 by 2                               openings   16 -> [16, 12, 8, 8, 8, 8]
+  torus 2 by 3                               openings   64 -> [64, 64, 28, 16, 16, 16]
+  torus 3 by 3                               openings  512 -> [512, 512, 206, 86, 68, 68]
+  torus 3 by 4                               openings 4096 -> [4096, 4096, 1400, 272, 200, 200]
+
+2. Natural Intelligence 2.4's counts:
+  ways: 16; carrying the prior whole: 4; losing it: 12 (from now alone 4, at one value of now 8)
+    next as prior                    joint forms still: 2; cycles: [2]
+    next as prior and now agreeing   joint forms still: 1; cycles: [3]
+    next as prior and now parting    joint forms still: 1; cycles: [3]
+    next as prior inverted           joint forms still: 0; cycles: [4]
+  ways each joint form could go to a next: 256; one parity changing at each step and each joint form once in a cycle: 2
+
+3. One other rule tried at a parting: + and - together carried on, 0 shared, the resolver's lines unchanged elsewhere.
+   Different forms after 24 momentaries, from every opening, by the plain rule of plain_rule.py with that one change:
+   torus 1 by 3: openings   8; the resolver's rule   8; the other rule   8
+   torus 2 by 2: openings  16; the resolver's rule   8; the other rule   8
+   torus 2 by 3: openings  64; the resolver's rule  16; the other rule  52
+   torus 3 by 3: openings 512; the resolver's rule  68; the other rule  62

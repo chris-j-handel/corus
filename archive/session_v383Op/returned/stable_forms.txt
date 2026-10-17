@@ -1,0 +1,6 @@
+torus 1 by 3:     8 openings come to   3 stable forms; again at: 2 at 3, 1 at 4
+torus 2 by 2:    16 openings come to   4 stable forms; again at: 3 at 2, 1 at 4
+torus 2 by 3:    64 openings come to   7 stable forms; again at: 4 at 2, 2 at 3, 1 at 4
+torus 3 by 3:   512 openings come to  27 stable forms; again at: 21 at 2, 4 at 3, 1 at 4, 1 at 12
+torus 3 by 4:  4096 openings come to  53 stable forms; again at: 34 at 2, 2 at 3, 2 at 4, 15 at 8
+torus 3 by 5: 32768 openings come to 123 stable forms; again at: 105 at 2, 2 at 3, 6 at 4, 2 at 5, 5 at 12, 3 at 20
