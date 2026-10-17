@@ -417,3 +417,11 @@ an accounting reaches no between, and living intelligence is discovered at no fi
 1 and 2, **bi-moral self**, bi-momentarying, the offering self to other and other to self, across;
 
 and 7 and 8, **co-competent self**, corusing and torusing, along.
+
+## Re-said at odds along between momentaries and evens across inside the momentary, v389
+
+A side continuing at its own carrying is along, and a side coupling with the other is across: self and social open odd, along, and the other opens even, across.
+
+a stable form across the gap of momentaries,
+
+nothing is gathered across momentaries

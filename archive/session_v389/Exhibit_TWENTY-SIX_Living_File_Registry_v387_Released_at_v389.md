@@ -35,3 +35,7 @@ throughout living society, inward and outward,
 ## Re-said at state and flow, separated not possible, v389
 
 | State and flow accountings at across and along, with both faces present in each science. |
+
+## Re-said at odds along between momentaries and evens across inside the momentary, v389
+
+the prior carried across the between as a stable form at 2.3 and 5.1,

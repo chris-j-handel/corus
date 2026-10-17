@@ -459,3 +459,15 @@ Bothbothing is two carried in alternation, each unconserved; prefixed, it is one
 1 and 2, **bi-moral self**, the offering self to other and other to self, across;
 
 and 7 and 8, **co-competent self**, corusing and torusing, along.
+
+## Re-said at odds along between momentaries and evens across inside the momentary, v389
+
+```
+
+At the resolver, + and − are the parity of a sharing,
+
+**a self's sameness across its momentaries is its unrelationing from all other**
+
+a *so* carries a prior to a next across momentaries it leaves unnamed
+
+Read as carrying across momentaries, it accounts

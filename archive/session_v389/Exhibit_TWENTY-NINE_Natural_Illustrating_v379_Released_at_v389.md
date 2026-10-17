@@ -19,3 +19,7 @@ The code steps the selves together at 17-tri-co-offering,
 it is the coupling at 12-bi-tri-parity-changing, the chained parity meeting the offering, inverting at a mismatch and carrying on at a match,
 
 the long way round; and at the code each goes in and out at the parity opposite its name's opening, 8-bi-torusing opening bi at the even and 7-co-corusing co at the odd.
+
+## Re-said at odds along between momentaries and evens across inside the momentary, v389
+
+the prior carried across it as a stable form, Natural Intelligence 2.3,

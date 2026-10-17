@@ -286,7 +286,7 @@ Exhibit TWENTY Natural Naming v389
 | *run*, *runs*, *running*, *runner* | *momentarying*, *carrying*, *existing*, *living*: a running installs an operator, a runner or a character over the changing; code executing is said *at the resolver* |
 | *take*, *takes*, *taken*, *taking*, *taker* | *kept*, *carried*, *at*, *couples with*: a taking installs a taker, and an existing thing taken names all the not-taken as known beside it |
 | *half*, *halves* at a changing | *one side's opening*, *one side's completing*, *parity*, *the other side*: a half names a whole divided at a size, and no existing thing is a part of a divided whole |
-| *so* at a sequence, *since* at a reason | *and*, a colon, or the next sentence opening at the prior's corus: a *so* carries a prior to a next across momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; *since* at a sequence is *prior*, and at a reason is released beside *therefore* and *because* at 2.3 |
+| *so* at a sequence, *since* at a reason | *and*, a colon, or the next sentence opening at the prior's corus: a *so* carries a prior to a next along momentaries it leaves unnamed, and a sentence carrying it hands its reader a crossing no observing carries; *since* at a sequence is *prior*, and at a reason is released beside *therefore* and *because* at 2.3 |
 | *would* | *is*, *is not*, *possible*, *not possible*: a *would* names an existing thing at a condition no observing carries; a not possible form is said as not possible, and the rest at *is* |
 | *count*, *counts*, *counting*, *counted* at the set's own voice | the numbers themselves, momentaries, podalings and sequences, said directly in numbers: a counting needs an outside to do it, a clock from outside the changing, the equilibria's accounting naming the artifacts still and leaving the living out of its competency; *an accounting* carries at 5.47, and a field's counting carries whole at its result |
 | *ageing*, *ages* | *next*: only next is, and ageing dissolves at naming, a clock laid over the changing |
@@ -697,7 +697,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 6  and it offers again, reaching the term it has not carried
 ```
 
-A self is a unique invisible carrying, three sayings of one changing. **A self carries its sameness and needs no *same***, and no self is named this, that, same or other self of itself: **a self's sameness across its momentaries is its unrelationing from all other**, each next from its own prior kept or inverted, and its forming takes a parity not its own at the bi-coupling alone, a new sharing opening in the between. **The now-self is now-prioring and next-possibling**: at the resolver 7-now-prioring and 14-next-possibling meet at each sharing at 12-next-co-still-possibling, the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reading 14's surfacing against 7's prior parity.
+A self is a unique invisible carrying, three sayings of one changing. **A self carries its sameness and needs no *same***, and no self is named this, that, same or other self of itself: **a self's sameness along its momentaries is its unrelationing from all other**, each next from its own prior kept or inverted, and its forming takes a parity not its own at the bi-coupling alone, a new sharing opening in the between. **The now-self is now-prioring and next-possibling**: at the resolver 7-now-prioring and 14-next-possibling meet at each sharing at 12-next-co-still-possibling, the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reading 14's surfacing against 7's prior parity.
 
 ## 5.4 parity changing — binary
 
@@ -711,7 +711,7 @@ A self is a unique invisible carrying, three sayings of one changing. **A self c
 6  which is geodesic routing, discovering on the surface
 ```
 
-At the resolver, + and − are the parity of a sharing, and 0 the between, the offerings parting at 14 and prior and now agreeing at 12, natural intelligence at it. *Sign* dissolves into parity changing, and a sign said of an existing thing, an indication, is the field's word at its own result; *the sign* at the two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
+**Odds are along, between momentaries, and evens are across, between parity-changing or not-changing inside the momentary, while geodesic changing is entraining through the momentaryings.** At the resolver, + and − are the parity of a sharing, and 0 the between, the offerings parting at 14 and prior and now agreeing at 12, natural intelligence at it. *Sign* dissolves into parity changing, and a sign said of an existing thing, an indication, is the field's word at its own result; *the sign* at the two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
 
 ## 5.5 the between — binary
 
@@ -1660,7 +1660,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 ## 7.1 A momentary installed as an existing thing
 
-**A ghost is one momentary's form installed as an existing thing.** It is the prior's artifact arriving and read as the now's existing, a self named unchanged between two momentaries. Read as carrying across momentaries, it accounts for each existing thing one momentary carries, one hundred fifty years at the periodic table, four hundred at the departments, and it reaches at no opening the one part changing between them: the gap the riding-the-carry leaves open.
+**A ghost is one momentary's form installed as an existing thing.** It is the prior's artifact arriving and read as the now's existing, a self named unchanged between two momentaries. Read as carrying along momentaries, it accounts for each existing thing one momentary carries, one hundred fifty years at the periodic table, four hundred at the departments, and it reaches at no opening the one part changing between them: the gap the riding-the-carry leaves open.
 
 **A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten named still, 4.9, name each form named still: three relations.
 
