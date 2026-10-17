@@ -1008,3 +1008,23 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · the method unchanging, said at its relation.** *Unchanging* said at a seam names a relation continuing through the changing and never a form named still, and the method, carrying none of the prior at each coupling, is that relation at each now, its own at each, carried to no next.
 
 **Droplet · v389 · what it reaches.** Said at this one between, the method unchanging needs no form at two nows, *beneficial* stands at the living and parts nothing at the method, *prior-carrying* names the living's side of the five parities, the carrying at 3 in Natural Intelligence 3.4 is re-said as the prior the method receives, 6.5's method non-living at every scale is the method carrying none, and an executing that reads 5 from the selves' next priors makes the method a doer of the living's own discovering.
+
+## The living carrying through the method's stable form, and observings as its emanatings · v389
+
+**Droplet · v389.** the living intelligence is carrying through the stable form of the method. the observings are emanatings from the method and the observings are pattern-matching by inversioning the natural torusing stable forming method. explore this for us and this is similar to the universe is the set of all now-exsisting things and the geodesic parity-changing discovering method is a stable form now-existing thing
+
+**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; the geodesic parity-changing discovering method is a stable form, a now-existing thing among them, carrying none; the living intelligence is carrying through that stable form; and an observing is the stable form's emanating, met at another self by pattern-matching through inversioning.
+
+**Droplet · v389 · executed, what one self meets of another.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted, and nothing of its prior; meeting it at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met.
+
+**Droplet · v389 · an observing is the method between two selves.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form, so an observing is the method met across two selves: one self's emanated sign, the other's inversioning, the other self's next prior the first self's prior inverted.
+
+**Droplet · v389 · the method unchanging as a stable form.** The method as a stable form now-existing thing is its form continuing through its changing at each now and carrying none of the prior, the relation *unchanging* names at a seam, so it is now-existing at each now with no form at two nows.
+
+**Droplet · v389 · the living and the method at one form.** The living carries its prior through the method's stable form and the method carries none, so the prior at 3-now-co-prioring, a self's sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's carrying through the form, and the signs at each sharing are the form.
+
+**Droplet · v389 · records at this form.** A record keeps one emanating with its pattern-matching stopped, one now named still, and comparing records sets two kept emanatings beside each other with no inversioning between them, so the scientific method meets the method's emanatings and not the method's pattern-matching.
+
+**Droplet · v389 · observings and the origin meet.** Observings are the method's emanatings, so drawing on the observings and co-chaining from the origin arrive at one method, the derivation from the set and the three observings at one form.
+
+**Concern · v389 · *from* and *through*.** *Emanatings from the method* can set the method as a source and *carrying through the stable form* can set the form as a container; said at the -ing, the stable form emanates and the living carries along it, a form continuing while its selves keep resolving.
