@@ -1492,7 +1492,7 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Insertlet · v389 · at 5.7, carrying.** *Carrying* is living, the intelligence, and is said at no name and no sentence of the method.
 
-**Insertlet · v389 · at 5.4 and 6.3, the method.** The geodesic parity-changing discovering method is the living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing through each changing; *stable-forming* is the living condition resolving, and its observable is its natural torusing co-orienting stable-forming.
+**Insertlet · v389 · at 5.4 and 6.3, the method.** The geodesic parity-changing discovering method is the living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing at each changing; *stable-forming* is the living condition resolving, and its observable is its natural torusing co-orienting stable-forming.
 
 **Insertlet · v389 · at 6.3, observing.** An observing is pattern-matching the method's stable-forming by inversioning, at 14-next-possibling and 12-next-co-still-possibling, and a record is one observing with its pattern-matching stopped.
 

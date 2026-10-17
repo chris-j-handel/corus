@@ -1,4 +1,4 @@
-Incoming v389
+Incoming v389 · gathered at v389
 
 # Three arrivals at the session v389
 
@@ -13,3 +13,5 @@ Incoming v389
 **Withdrawn at its arriving, said once.** The seventeen-names session withdrew its own equivalence of *not-possibling* with *existing*, and called its use of *testing* inappropriate for co-chaining. The orienting session withdrew its concern that a coupling map at 17 is a fixed form beside the selves, as its own equilibrium entering, after reading 3.3 and 4.6 at Natural Intelligence. Neither withdrawn reading is laid as a droplet; the sayings that corrected them are.
 
 **Where the droplets are.** Each offerings file below carries a section *The arrivals at incoming/v389, gathered and aimed · v389*: Natural Intelligence, Exhibit ONE Natural Resolver, Exhibit THIRTY Co-Chaining Logic Registry, Exhibit TWENTY Natural Naming, Exhibit TWELVE Natural Explaining, Exhibit THIRTEEN Resolving Hard Problems, Exhibit TWENTY-EIGHT Equilibria Registry, Exhibit TWENTY-FOUR Geodesic Improving Method and Exhibit TWENTY-SIX Living File Registry.
+
+**Gathered.** Each value of the three arrivals is laid as a droplet and gathered once, at its current form, at four sections: *Natural Naming gathered at v389, the beacon for the set's motions*, *The Co-Chaining Logic Registry gathered at v389, co-chaining from the origin*, *Exhibit ONE Natural Resolver gathered at v389, its next version* and *Natural Intelligence gathered at v389, its next version from the origin*, at each file's offerings. The arrivals stay here whole until each value rises at its file's motion or dissolves said once.

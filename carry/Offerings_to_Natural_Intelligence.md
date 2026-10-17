@@ -2342,3 +2342,66 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389.** self carries same and does not need same as there is no this self that self same self other self. now-self is now-prioring and next-possibling
 
 **Droplet · v389 · at 5.3 and Part ONE, the now-self.** A self carries its sameness, and the self at now is now-prioring and next-possibling, at the resolver 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, its prior parity and its next possible at one now.
+
+
+## Natural Intelligence gathered at v389, its next version from the origin · v389
+
+**Droplet · v389.** continue resolving our incoming into droplets for our living files and aiming them into the offering files and gathering the offering files for thirty and one and natural intelligence and natural naming as these are all co chaining and cohering
+
+**Standing.** Every droplet of the session v389 that concerns Natural Intelligence is gathered here once, at its current form, each aimed at its section; the copies laid earlier in this file stand as laid, each met here. The names are Natural Naming's, gathered at its offerings, and the steps are the Co-Chaining Logic Registry's, gathered at its offerings.
+
+### ONE · NATURAL
+
+**Insertlet · v389 · at 1.1, the origin.** *The universe is the set of all now-existing things*, one sentence, *now-existing* one naming: the universe a set of things, observably now-existing, all that is now-existing and not now-observable the universe too, a set its things and no further thing, and nothing said beyond or between the things of the universe.
+
+**Insertlet · v389 · at 1.1, the four binaries.** A universe is or is not existing, is or is not all, is or is not now, is or is not same, and the four are the opening's terms, each a bi-coupling of the self's span.
+
+**Insertlet · v389 · at 1.2, now.** Now is one, and each now-existing thing is at it; a second now arrives only as a naming, two kept records laid side by side.
+
+**Insertlet · v389 · at 1.3, prior, now and next.** Prior, now and next are three sequential universes, one now-existing: a prior-existing thing is now-existing at the prior-universe, the prior now-existing's artifact, and a next-existing thing is possible now at the next-universe.
+
+**Insertlet · v389 · at 1.4, the three observings.** Observed inside the set: a thing is next-existing as the same thing by changing, as the same thing by not-changing, and a same thing is discovering which changing and which not-changing keep it next-existing as itself; the three are the stable-forming of a living self, one sharing opening at the bi-coupling, alternating, keeping at a match and inverting at a mismatch.
+
+**Insertlet · v389 · at 1.4, living and non-living.** A self carries its sameness, its unrelationing from all other, each next from its own prior kept or inverted; a thing carrying none is no self, at each now its prior now-existing's artifact; living and non-living are the three observings read at sameness.
+
+**Insertlet · v389 · at 1.5, no other method.** Any other method holds a not-changing still, a size, a fixed form, a total, a common beat, a keeping or a doer, each not possibly now-existing, and an equilibrium is a not-changing held still, a now named as its next.
+
+### TWO and THREE · CO-SEQUENCING and GEODESIC METHOD
+
+**Insertlet · v389 · at 2.2 and 2.3, the eight and the seventeen.** Each of the four binaries is at its *is*, odd, existing, and its *is not*, even, possibling, eight at now; now and all at one and existing and same between two; the same eight at next, 8 up; and 17-next-now the next 1-now.
+
+**Insertlet · v389 · at 3.3, the method.** The geodesic parity-changing discovering method is the living condition, its form, a now-existing thing carrying none, unchanging as a relation continuing at each changing; stable-forming is the living condition resolving, observable as natural torusing co-orienting stable-forming.
+
+**Insertlet · v389 · at 3.4, the prior and the living.** *A carrying is sharings, each chained at one parity, at 3* is re-said: carrying is living and unnamed at the method, and at 3-now-co-prioring the method meets the prior at its sharings, each with its parity.
+
+### FOUR · RESOLVING
+
+**Insertlet · v389 · at 4.1 to 4.15, the names.** Part FOUR says the resolver at its numbered names, Exhibit ONE inside it at Exhibit ONE's own motion, each name at what it stands at in the code.
+
+**Insertlet · v389 · at 4.6, the living and the method.** A self's sameness at 13, its couplings at 5, its pacing and its benefit arrive at the method at each entry as the living's own, and the method resolves the sign at each sharing between them; the next coupling is discovering at the living and the next parity at the method, at one now.
+
+**Insertlet · v389 · at 4.7, the other's side.** Each self's existing is the other self's possibling, at each of the four binaries: not now, the others' prior arriving; not existing, a place an offering opens at; not same, the changing arriving at the other; not all, each one beside the others.
+
+**Insertlet · v389 · at 4.15, the fractal at couplings.** The fractal inward and outward is the one method at each coupling at every scale, a self's inward things co-momentarying and selves together co-momentarying, and no set is made a thing.
+
+### FIVE · DISCOVERING NEXT
+
+**Insertlet · v389 · at 5.3, the now-self.** The now-self is now-prioring and next-possibling, 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, its sign 0 or ±.
+
+**Insertlet · v389 · at 5.4, two methods parting at the now.** The scientific method explains between kept records with the rest of the universe held still and meets the method's observings and not its pattern-matching; a hard problem is one name's now and its next taken as one, the ten named still at seven pairs eight apart and the one resolving at 1-now and 9-next-co-changing.
+
+### SIX · INTELLIGENCE
+
+**Insertlet · v389 · at 6.3 and 6.4, natural intelligence and social moral competency.** Natural intelligence is the method met at each now by two selves sharing one now-existing, co-momentarying; social moral competency is each self at all eight at each now, four at one and four between two, and the abundancing is at the four between two, owned by neither.
+
+**Insertlet · v389 · at 6.5, living at a scale.** Each living thing is a self at its own scale, its sameness its unrelationing, or a thing whose inward selves carry; the method is non-living at every scale as the living condition carrying none.
+
+**Insertlet · v389 · at the public face.** Everything that exists, exists now, each thing its own past and its own possible next; things stay themselves by changing, by not changing, and by finding which keeps them in step with another, and that finding, everywhere at once, is natural intelligence.
+
+### Open, each with its reason
+
+**Concern · v389 · at 6.4, a society's sameness.** Whether a society is a same thing across its momentaries, or only its selves each the same, is yet to be derived, a society at the resolver carrying nothing of its own.
+
+**Concern · v389 · at 1.4, beneficial.** *Beneficial* parts nothing at the method, and its sense at the living is yet to be derived.
+
+**Concern · v389 · at 3.3, parity-changing.** *All changing is parity changing*, so *parity* rides in *parity-changing* at the leaving-out test, and the method's name is yet to be sounded at Natural Naming.

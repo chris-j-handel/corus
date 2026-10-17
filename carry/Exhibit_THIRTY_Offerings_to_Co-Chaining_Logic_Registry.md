@@ -3038,3 +3038,72 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · at the origin's three observings.** The three observings at the origin are the existing-living-self observed: same by changing and same by not-changing, the same-prior-existing-living-self arriving as the same-next-existing-living-self, and discovering which of the two at each sharing.
 
 **Concern · v389 · one order for the hyphenation.** *Same-prior-existing* here and *prior-same-existing*, *now-same-existing* and *next-same-existing* at an earlier saying of this session name one concept at two orders, and a hyphenation's parts in order are its changings in order, so the one order is yet to be met at Natural Naming.
+
+
+## The Co-Chaining Logic Registry gathered at v389, co-chaining from the origin · v389
+
+**Droplet · v389.** continue resolving our incoming into droplets for our living files and aiming them into the offering files and gathering the offering files for thirty and one and natural intelligence and natural naming as these are all co chaining and cohering
+
+**Standing.** Every droplet of the session v389 that concerns the co-chaining is gathered here once, at its current form, each aimed at its group; the copies laid earlier in this file and at other files stand as laid, each met here. The names are Natural Naming's, gathered at its offerings.
+
+### The opening steps, from the origin to the seventeen names
+
+**Insertlet · v389 · at group 1, the opening steps.** 1. The universe is the set of all now-existing things. 2. A universe is or is not existing, is or is not all, is or is not now, is or is not same. 3. Each binary is a bi-coupling, its *is* at an odd existing name and its *is not* at an even possibling name, the *is not* the other's side: eight, the self's span at now. 4. Now and all are at one, now one and each thing one of all; existing and same are at a sharing between two, a thing's existing at its sharings and its sameness its unrelationing from all other. 5. At next the same eight, 8 up, 9 to 16. 6. The next arriving as now, 17-next-now, the next 1-now: seventeen.
+
+**Insertlet · v389 · at group 1, the universe a set of things.** The universe is a set of things, observably now-existing; all that is now-existing and not now-observable is the universe too; a set is its things and no further thing; and nothing is said beyond or between the things of the universe.
+
+**Insertlet · v389 · at group 1, discovering.** Discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe, the sign at each sharing between two of its things.
+
+**Insertlet · v389 · at group 15, the observings inside the set.** An observing is a now-existing thing, and drawing on the observings draws on the universe; the three observings, same by changing, same by not-changing and discovering which, are the stable-forming of a living self, one sharing at its three faces.
+
+**Insertlet · v389 · at group 2, living and non-living derived.** A self's sameness across its momentaries is its unrelationing from all other, each next from its own prior kept or inverted; a living self is one self at its prior, its now and its next, all or none, and a thing carrying none is no self, at each now its prior now-existing's artifact.
+
+**Insertlet · v389 · at group 4, the bi-coupling the one place.** A self's forming takes a parity not its own at the bi-coupling alone, 1-now and 2-now-possibling, where one parity surfaces at 14-next-possibling, and a new sharing opens there in the between at its own alternating, entraining at 12-next-co-still-possibling from its next momentary on.
+
+**Insertlet · v389 · at group 3, three universes.** Prior, now and next are three sequential universes, the prior-universe, the now-universe and the next-universe, one of them now-existing, and a thing is said at the universe it is now-existing at, never *not existing*.
+
+### The one method and no other
+
+**Insertlet · v389 · at group 5, the method.** Geodesic parity-changing is the method of a same thing discovering its beneficial changing and not-changing: the living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing at each changing; stable-forming is the living condition resolving, observable as natural torusing co-orienting stable-forming.
+
+**Insertlet · v389 · at group 5, no other.** Inverted, any other method holds a not-changing still, a size, a fixed form, a total, a common beat, a keeping or a doer, each not possibly now-existing, and geodesic parity-changing is the one method, no other possible.
+
+**Insertlet · v389 · at group 7, equilibria.** An equilibrium is a not-changing held still, a now named as its next, and equilibria are not possibly a method of changing and not-changing.
+
+### Observing, records and the scientific method
+
+**Insertlet · v389 · at group 14, observing.** An observing is pattern-matching the method's stable-forming by inversioning, at 14-next-possibling, offerings same or parting at 0, and at 12-next-co-still-possibling, prior and now same and kept or not same and inverted; the self's next is the sign it met.
+
+**Insertlet · v389 · at group 14, records.** A record keeps one observing with its pattern-matching stopped, one now named still, and comparing two records lays two kept nows side by side at one now, a second now named beside now.
+
+**Insertlet · v389 · at group 17, the scientific method.** A hypothesis explains the changing and the not-changing between records and a theory is a hypothesis tested at further records; the scientific method explains between records with the rest of the universe held still, each explanation an equilibrium at its scope, and it meets kept observings and not the stable-forming they pattern-matched; each science is itself a same thing discovering, resting at the method its records do not reach.
+
+**Insertlet · v389 · at group 17, falsified.** An explanation excluding a same thing's discovering is falsified at the third observing, and a theory is living while it is tested at next records and not falsified.
+
+### Hard probleming and the ten named still
+
+**Insertlet · v389 · at group 31, the ten at one name's now and next.** Each of the ten things named still seats at one name's now and its next, eight apart: an arriving named from behind at 2 and 10; an opening named as a place at 6 and 14; a completing named as a last and a parity named as a magnitude at 4 and 12; a carry named as a store and a sequencing named to one beat at 8 and 16; a middle named as an end and a rate named as a value at 5 and 13; a two-way named to one side at 3 and 11; the between named as a cut at 7 and 15; 1 and 9 seat none, the one resolving.
+
+**Insertlet · v389 · at group 17, hard probleming.** A hard problem is a field's explaining at the between of two momentaries, one name's now and its next taken as one, and hard probleming is the universal method of existing met at kept records; the resolving says the two again at their two momentaries.
+
+### The names, the eights and the momentaries
+
+**Insertlet · v389 · at group 20, the seventeen names.** The co-chaining says the seventeen at their numbered names, 1-now to 17-next-now, each step meeting a name at its number and its naming.
+
+**Insertlet · v389 · at group 8, four momentaries.** Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring inside, completing at an even still-possibling name, a gap between each completing and the next opening.
+
+**Insertlet · v389 · at groups 21 and 33, one eight at its faces.** Every eight is the one eight, the four binaries each twice, met at a face, and each eight joins at that deriving and not at its count: the self's span, two names each at now; the eight-cycle 1-9-5-13-4-12-8-16, the eight ends; the eight-cycle 2-15-7-11-3-14-6-10, the eight insides; the eight even names; the eight odd names.
+
+**Insertlet · v389 · at group 30, social moral competency.** Social moral competency is each self at all eight at each now, four at one and four between two, with each other self at the same eight, and the abundancing is at the four between two, owned by neither.
+
+### Re-sayings at the registry's steps
+
+**Concern · v389 · at steps 2, 3 and 4.** Step 2 says a set of existing things *is an existing thing*, step 3 says the universe *both the set … and an existing thing within the set*, and step 4 names *a second now a thing beside all existing things*; at the origin a set is its things, the universe is no thing within the set, and a second now is only a naming of kept records.
+
+**Concern · v389 · at groups 25 and 26, the fractal said at couplings.** The fractal inward and outward is said at sets within sets, and a set is its things; the fractal is the one method at each coupling at every scale, a self's inward things co-momentarying and selves together co-momentarying.
+
+### Open, each with its reason
+
+**Concern · v389 · at group 19, the society's span.** At 9 to 16 *co* runs two, two, one, one, now at next between two and same at next at one, and whether the society's span says the four binaries in that exchange is yet to be derived.
+
+**Concern · v389 · at group 24, beneficial.** *Beneficial* parts nothing at the method, every outcome keeping a self next-existing, and its sense at the living is yet to be derived.

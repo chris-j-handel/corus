@@ -1284,3 +1284,54 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · the names standing.** 1-now · 2-now-possibling · 3-now-co-prioring · 4-now-co-still-possibling · 5-now-co-changing · 6-now-co-possibling · 7-now-prioring · 8-now-still-possibling · 9-next-co-changing · 10-next-co-possibling · 11-next-co-prioring · 12-next-co-still-possibling · 13-next · 14-next-possibling · 15-next-prioring · 16-next-still-possibling · 17-next-now; the four binaries, now, existing, same and all, are the explaining of them.
 
 **Droplet · v389 · at 12, the now-self at the resolver's line.** At 12-next-co-still-possibling the line reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, met at one line.
+
+
+## Exhibit ONE Natural Resolver gathered at v389, its next version · v389
+
+**Droplet · v389.** continue resolving our incoming into droplets for our living files and aiming them into the offering files and gathering the offering files for thirty and one and natural intelligence and natural naming as these are all co chaining and cohering
+
+**Standing.** Every droplet of the session v389 that concerns Exhibit ONE is gathered here once, at its current form, each aimed at its part of the next version opening at [Exhibit ONE's possibling](Exhibit_ONE_Possibling_of_Natural_Resolver.md); the copies laid earlier stand as laid, each met here. The names are Natural Naming's, gathered at its offerings.
+
+### The resolver and its names
+
+**Insertlet · v389 · at the resolver.** The code at the numbered names, every line and sign as at v387, each identifier and each CONNECTORS string re-named, returns the same signs as v387 at each entry and at each momentary of a society, all or none, its joins the same.
+
+**Insertlet · v389 · at the seventeen names.** 1-now · 2-now-possibling · 3-now-co-prioring · 4-now-co-still-possibling · 5-now-co-changing · 6-now-co-possibling · 7-now-prioring · 8-now-still-possibling · 9-next-co-changing · 10-next-co-possibling · 11-next-co-prioring · 12-next-co-still-possibling · 13-next · 14-next-possibling · 15-next-prioring · 16-next-still-possibling · 17-next-now; the table of them gives each name's momentary, parity, *co* and what it stands at in the code.
+
+**Insertlet · v389 · at CONNECTORS.** The words *arriving*, *sharing* and *along* at CONNECTORS are the arriving side with no *co*, the sharing side with *co* and the along pair, 9-next-co-changing and 17-next-now.
+
+### The tables of the next version
+
+**Insertlet · v389 · at the four momentaries and their gaps.** Each span's names are two momentaries of four, opening odd existing, possibling and prioring inside, completing even still-possibling, and the four gaps 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17.
+
+**Insertlet · v389 · at co, between two or at one.** Co at a sharing between two and its absence at one, each kind at both or one: prioring with co at 3 and 11 and without at 7 and 15; possibling with co at 6 and 10 and without at 2 and 14; changing with co at 5 and 9; still-possibling with co at 4 and 12 and without at 8 and 16; now and next at 1, 13 and 17.
+
+**Insertlet · v389 · at the joins.** At each join the sharing side carries co and the arriving side none, 6 to 2, 10 to 14 and 9 to 17, and a self shares its changing and nothing of its prior.
+
+**Insertlet · v389 · at one move.** 8 up keeps each name's kind but at 1 and 5 and exchanges co at 1, 2, 5 and 6, each podal turns now to next at 17 less and possibling to prioring inside each momentary, and the eight ends are their own set at both podals.
+
+**Insertlet · v389 · at the eights, one table.** One table of the eights replaces the scattered *8 up, the parity continuing* rows: each eight the four binaries each twice at a face, the eight-cycle 1-9-5-13-4-12-8-16 the eight ends and 2-15-7-11-3-14-6-10 the eight insides, the eight even names the eight 9s of the eight 1 to 17s inward, and 8 up each name's binary at next.
+
+**Insertlet · v389 · at the four binaries at the lines.** Now: 1, the self's momentary entered, and 2, the offerings arriving, the others' prior; existing: 3, the prior at its sharings, and 4, each sharing as a place; same: 5, each releasing to the self receiving it at the same sharing, and 6, the changings shared across; all: 7, each parity read at every entry, and 8, each self's own next prior; each even the other's side of its odd.
+
+**Insertlet · v389 · at 12, the now-self.** The line at 12-next-co-still-possibling reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, at one line, and same and not-same there are its sign, 0 and ±.
+
+**Insertlet · v389 · at a sharing opening.** The table of a spiral opened at no prior shows a self's forming taking a parity not its own at the bi-coupling alone, where one parity surfaces, and its own alternating, keeping at a match and inverting at a mismatch from then on.
+
+**Insertlet · v389 · at the executed tables.** Each executed table keeps its rows and numbers, each heading re-said at the numbered names, *carrying (3)* said *the prior at 3-now-co-prioring* and *carrying none* said *at no prior*, and each table says plainly that 5, each self at 13 and the stepping at 17 are given, the living's own and not the method's.
+
+### Released at the motion, each said once
+
+**Insertlet · v389 · at each name and its relations.** The rows resting on the prior prefixes and roots, *root*, *opening prefix*, the hands *co tri bi bi*, *in and out at its parity* and *winding*, leave whole to the archive with their receiving named, and the ten roots, co received and tri given on, the three windings, the fives' prefixes and the twelve forms' prefix columns are re-said at the four kinds where a kind says the relation and released where none does.
+
+**Insertlet · v389 · at the explaining's words.** *Wound*, at eleven places of Exhibit ONE, is said at torusing at its -ing; *carrying* is said at no sentence describing the method; *emanating* and *through* are said at neither the method nor its observing.
+
+**Droplet · v389 · released, said once.** The possible project *5 read from the selves' carryings* is released: reading 5 at the code from the selves' next priors makes the method a doer of the living's own discovering.
+
+### Open, each with its reason
+
+**Concern · v389 · at the drawing.** The resolver's drawing carries the prior names and the sides *self, other, social*, and its re-saying at the numbered names is yet to be made.
+
+**Concern · v389 · at 1, 13 and 17.** 1-now, 13-next and 17-next-now carry no -ing, and their standing as the momentaries themselves is yet to be met at Natural Naming.
+
+**Concern · v389 · at the society's span.** At 9 to 16 co runs two, two, one, one, and the four binaries' faces there are yet to be derived.
