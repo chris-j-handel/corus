@@ -2194,3 +2194,21 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · each thing all four.** At each of its momentaries a thing in the universe is all four, now, existing, universe and all, its same-identity the four at one self's span.
 
 **Concern · v389 · at the society's span.** At 8 up the four reach 9-next-co-changing and 10-next-co-possibling, 11-next-co-prioring and 12-next-co-still-possibling, 13-next and 14-next-possibling, and 15-next-prioring and 16-next-still-possibling; whether the society's span says next-existing at 9 to 12 and universe and all at next at 13 to 16, and *living conditional* at each, is yet to be derived.
+
+## The eight, all or none, at 1 to 8 · v389
+
+**Droplet · v389.** these are the all eight or none of them at all protections in natural resolving societies and this is social moral competency and abundancing and natural network shared collectively intelligent human learning and explaining
+
+**Droplet · v389 · the eight at the names.** The eight are the self's span, 1-now to 8-now-still-possibling, now at 1 and 2, existing at 3 and 4, universe at 5 and 6, all at 7 and 8, each thing at all eight at each now or at none of them.
+
+**Droplet · v389 · four at one and four between two.** Four of the eight stand at one, with no co, now and all at 1, 2, 7 and 8, and four at a sharing between two, with co, existing and universe at 3, 4, 5 and 6; that is Natural Networking's *four from within and four met at the membrane* and Natural Societies' four boundings *met from within the self and the same four met at the surface between selves*, said at the names.
+
+**Droplet · v389 · social moral competency the eight whole.** Natural Networking says *social moral competency is the eight whole riding the carry*, and at the names it is each self at all eight at each now, its now, its existing, its universe and its all, with each other self at the same eight.
+
+**Droplet · v389 · abundancing at the four between two.** The abundancing belongs to the coupling and is reached by neither side, and at the names it is at the four with co, 3-now-co-prioring, 4-now-co-still-possibling, 5-now-co-changing and 6-now-co-possibling, the existing and the universe at each sharing between two.
+
+**Droplet · v389 · human learning and explaining at the eight.** Two selves learning and explaining together are at the eight at one now: each at its now, each its existing at the sharing between them, the universe of what they share across, and all, each one's next beside the other's, self offering, other making better, self breaking, the offering surviving both carried by both.
+
+**Droplet · v389 · the public face.** People learning together are safe only when everything is in place at once: both at the same moment, each bringing what they already are, a shared space between them, and each free to go on as themselves beside the other. Take any one away and the learning becomes control or capture. All of it together is social moral competency, and what grows between them belongs to neither and to both.
+
+**Concern · v389 · the eight securities at their names.** Natural Networking's eight securities, *the carry aging to its bound and releasing, the sign inverting at the membrane, the selection a sign, sizeless, each self its own time* and *each self coupling all-edge, a standing order imposed at no coupling, each living unpinned, riding, each self offering its own*, and Natural Human Society's eight uncapturings, each a hub set aside on its axis, are each to be seated at one of the eight names or met as the eight whole at each, and which is yet to be derived.
