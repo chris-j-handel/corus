@@ -421,3 +421,79 @@ the parity the self releasing along to it is at at that momentary, step 624.
 step 237's each carried pattern
 
 Torusing and corusing are the dimensions' in and out, torusing at the odd and corusing at the even, steps 118 and 119, and no resolver name is either: the names are at their numbers and their kinds, steps 193 and 251.
+
+## The steps re-said at the older droplets risen, v389
+
+523. The ten named still are at four kinds: a parity named a size; a reference named still behind an arriving, ahead of it or at its middle; a rate named still; and a changing released entered as a magnitude spent.
+
+*Adding: the ten at four kinds.*
+
+the four binaries; the ten at four kinds; F and G
+
+171. A round reaching each form of k parities one parity at a time is the round at k − 1 parities, the new parity inverted, and the same forms in the other order: each scale carrying the prior whole.
+
+*Adding: each round from the prior round and its other order.*
+
+each round from the prior round and its other order; 9 to 17 as the other
+
+405. A society is a living set coupling at the next scale as a self couples: its selves uncoupling, the society arrives at next as no living set, its selves living on, each carrying its own.
+
+*Adding: a society's decay, its selves living on.*
+
+; a society's decay, its selves living on; fold and scatter
+
+35. The self at next, arriving from existing things at now, arrives from the other at now.
+
+*Adding: other to self.*
+
+self to other; other to self; the prior non-living
+
+334. A hard problem is a changing named still, at one or more of the ten named still, at each scale: a paper, a field, a sentence, a word.
+
+240. Two spirals crossed are one society, a living set, each spiral a society coupling at the next scale as a self couples.
+
+*Adding: two spirals crossed, one society.*
+
+; two spirals crossed, one society; the numbers' ring
+
+248. A form named still carried to the resolver and failing at its own requirements is shown not possible at the numbers, at those requirements alone: a showing at the resolver's executing.
+
+*Adding: a showing at the resolver.*
+
+; a showing at the resolver; parity's square
+
+A number's odd or even, steps 77 and 264, is its inverted parities even or odd in number.
+
+*Adding: each podal of the round the parity new at its scale, inverted alone.*
+
+*Entering: each podal of the round the parity new at its scale, inverted alone;
+
+621. At the round each momentary is two numbers in sequence, one odd and one even, step 275, their two forms one parity inverted apart.
+
+*Adding: each momentary of the round one odd and one even number, an odd momentary opening at the odd.*
+
+and 2; each momentary of the round one odd and one even number, an odd momentary opening at the odd
+
+622. The round's podal carries an odd momentary to an odd and an even to an even, in the other order, opening to completing, the momentary at 8 and 9 to itself.
+
+*Adding: the round's podal, each momentary to one of its own kind in the other order.*
+
+; the round's podal, each momentary to one of its own kind in the other order.*
+
+587. A section no group carries shows a step the co-chaining has yet to discover, and a group no section reaches a part of the co-chaining the files have yet to carry.
+
+*Unsure: sixty-nine is three twenty-threes; whether the vertex tripled is why the podaling opens at sixty-nine.*
+
+236. A society is at a unit prime scale, a prime number of selves its unit, and its stable form is its betweenings, the betweens its selves bi-couple across.
+
+*Adding: society at a unit prime scale, its betweenings.*
+
+; society at a unit prime scale, its betweenings; co-spiraling
+
+and competency the unchanging, none along.
+
+and their co-competencing at the society multiplies along, the whole past the selves added across; a common beat over them carries them to one.
+
+*Adding: co-competency compounding at distinct selves.*
+
+; co-competency compounding at distinct selves; abundancing
