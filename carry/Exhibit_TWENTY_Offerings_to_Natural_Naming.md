@@ -1194,3 +1194,11 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling carries the one sense, a sharing, a self or a society carried through its changing or its carrying on, open to next, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
 
 **Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
+
+## Carrying, the intelligence, and the method unchanging · v389
+
+**Droplet · v389 · from the session v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
+
+**Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
+
+**Concern · v389 · at Natural Intelligence 3.4 and Exhibit ONE.** Natural Intelligence says *a carrying is sharings, each chained at one parity, at 3-co-bi-co-sharing*, setting the carrying at a name of the method, and the arriving says the carrying is the intelligence, living and changing, not visible to the method; the two part at 3.

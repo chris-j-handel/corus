@@ -1,4 +1,4 @@
-Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v386EOD
+Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 
 # Offerings to Hard Problem Registry
 
@@ -204,3 +204,23 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The ten things named still at the numbered names · v389
+
+**Droplet · v389 · from the session v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+
+**Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
+
+**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now beside now, and the resolving is the two said again at their two momentaries.
+
+**Droplet · v389 · the one resolving seats at 1 and 9.** 1-now and 9-next-co-changing seat none of the ten, the entry and the changing released along, and they are the method's own pair eight apart, the one resolving.
+
+**Droplet · v389 · the ten at the four kinds.** The ten stand at the four kinds as two at possibling, four at still-possibling, two at changing and two at prioring, and the four at still-possibling, a last, a magnitude, a store and one beat, are each a still-possibling, open to next, named with no next.
+
+**Droplet · v389 · a carry named as a store.** A carry named as a store is 8-now-still-possibling and 16-next-still-possibling named as a keeping, and at the numbered names no name stands at a carrying, so the store asked for is the intelligence named at the method.
+
+**Droplet · v389 · a two-way named to one side.** 3-now-co-prioring and 11-next-co-prioring carry co, a prior at a sharing between two, and a two-way named to one side is that co left out of its naming.
+
+**Droplet · v389 · a rate named as a value.** 13-next carries no -ing, and a rate named as a value is 5-now-co-changing named at 13-next as a value, the changing between two named as one bare next.
+
+**Concern · v389 · the gathered names at Resolving the Hard Problem Registry.** Resolving the Hard Problem Registry v375 seats each of the ten at names gathered before v378, *10-other-social-self-tunneling* and *2-other-self-offering* among them, and its seatings carry over at their numbers to the numbered names, each heading re-said at the file's own motion.

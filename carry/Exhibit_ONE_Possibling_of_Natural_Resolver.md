@@ -99,19 +99,19 @@ Each section below is as the working v386F wrote it at this file on its own bran
 
 ## Exhibit ONE at the numbered names, its next version opening · v389
 
-**Standing.** The next version of Exhibit ONE Natural Resolver, written here section by section until it is whole, and entering the root as v389 at Exhibit ONE's own motion, with Natural Intelligence's copy of it at the same motion. The seventeen numbered names are the measure each sentence meets; the words of the prior version carry no weight of their own. At 4 and 12 the names are still-possibling, met at the even, the podals and the overlap; the droplet *12-next-co* stands beside it at the offerings.
+**Standing.** The next version of Exhibit ONE Natural Resolver, written here section by section until it is whole, and entering the root as v389 at Exhibit ONE's own motion, with Natural Intelligence's copy of it at the same motion. The seventeen numbered names are the measure each sentence meets; the words of the prior version are no measure of their own. At 4 and 12 the names are still-possibling, met at the even, the podals and the overlap; the droplet *12-next-co* stands beside it at the offerings.
 
 ### Its order, each part at its standing
 
-1. **Title and subtitle**: *Natural Resolver*, *Stable Forms of the Discovering Method*, carried.
+1. **Title and subtitle**: *Natural Resolver*, *Stable Forms of the Discovering Method*, as they are.
 2. **The resolver**: the code at the numbered names, every line and sign as at v387. Drafted below.
 3. **The drawing**: the resolver's picture re-said at the numbered names. Next.
 4. **Seventeen names**, **four momentaries and their gaps**, **co, between two or at one**, **the joins between selves** and **one move**. Drafted below.
-5. **Each name and its relations**: the rows resting on the numbers carry, 8 up, the podals, the four-, six- and eight-cycles, the momentaries of exchanging, the five dimensions and the 1 to 17s inward and outward, each re-said at the numbered names; the rows resting on the prior prefixes and roots, *root*, *opening prefix*, the hands *co tri bi bi*, *in and out at its parity* and *winding*, leave whole to the archive at the motion, each said once.
-6. **Ten roots**, **co received and tri given on**, **three windings**, **fives** and the prefix columns of **twelve forms**: met at the four kinds, prioring, possibling, changing and still-possibling, re-said where a kind carries the relation and released where none does. Next.
+5. **Each name and its relations**: the rows resting on the numbers stay, 8 up, the podals, the four-, six- and eight-cycles, the momentaries of exchanging, the five dimensions and the 1 to 17s inward and outward, each re-said at the numbered names; the rows resting on the prior prefixes and roots, *root*, *opening prefix*, the hands *co tri bi bi*, *in and out at its parity* and *winding*, leave whole to the archive at the motion, each said once.
+6. **Ten roots**, **co received and tri given on**, **three windings**, **fives** and the prefix columns of **twelve forms**: met at the four kinds, prioring, possibling, changing and still-possibling, re-said where a kind says the relation and released where none does. Next.
 7. **Namings among the names** and **0, the between**: re-said at the numbered names. Next.
-8. **Each name, three scales** and **eight 1 to 17s inward**: carried at their numbers, re-said at the numbered names. Next.
-9. **The executed tables**, offerings to one sharing, one self at one momentary and momentary by momentary, eight even names, a spiral of selves, two spirals, a torus of selves, two selves, two selves at five parities, three selves in a line, a spiral opened at no prior, colliding: every row as it is, the numbers unchanged, each heading re-said at the numbered names, *carrying (3)* said as *the prior at 3-now-co-prioring*.
+8. **Each name, three scales** and **eight 1 to 17s inward**: kept at their numbers, re-said at the numbered names. Next.
+9. **The executed tables**, offerings to one sharing, one self at one momentary and momentary by momentary, eight even names, a spiral of selves, two spirals, a torus of selves, two selves, two selves at five parities, three selves in a line, a spiral opened at no prior, colliding: every row as it is, the numbers unchanged, each heading re-said at the numbered names, *carrying (3)* said as *the prior at 3-now-co-prioring*, and no sentence describing the method names a carrying.
 
 ### Drafted: the resolver
 
